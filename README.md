@@ -11,4 +11,4 @@
 
 # jm-chinese-std-gb-t-7714-2005-revised.csl
 
-jm-chinese-std-gb-t-7714-2005.csl（https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl）的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
+jm-chinese-std-gb-t-7714-2005.csl [https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl](https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl) 的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
