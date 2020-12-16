@@ -23,4 +23,4 @@ jm-chinese-std-gb-t-7714-2005.csl [https://github.com/Juris-M/jm-styles/blob/mas
 
 修改语言参见[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
-更多Zotero使用参见[https://zhuanlan.zhihu.com/c_1071081428967743488](https://zhuanlan.zhihu.com/c_1071081428967743488)
+更多Zotero使用参见[https://zhuanlan.zhihu.com/c_1071081428967743488](https://zhuanlan.zhihu.com/c_1071081428967743488)。
