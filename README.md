@@ -2,7 +2,7 @@
 
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
-网友**牛耕田（buffalo_d#163.com）**分享，支持中文
+网友牛耕田（buffalo_d#163.com）分享，支持中文
 三个作者显示为“等”，英文显示为“et al”。
 
 
