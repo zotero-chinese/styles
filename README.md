@@ -22,7 +22,7 @@
 
 修改语言参见[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
-* ## 更多
+* ## 更多Zotero使用教程及技巧
 Zotero使用参见[软件随心 https://zhuanlan.zhihu.com/c_1071081428967743488](https://zhuanlan.zhihu.com/c_1071081428967743488)。
 
 一个PDF的Zotero使用简短教程《优雅地用 Zotero 进行文献管理和论文写作》，见[https://zhuanlan.zhihu.com/p/113170814](https://zhuanlan.zhihu.com/p/113170814)。
