@@ -78,7 +78,7 @@ Zotero如何在Word中插入参考文献[https://zhuanlan.zhihu.com/p/62931860](
 
 Zotero如何禁用笔记中的拼写检查？[https://zhuanlan.zhihu.com/p/62780758](https://zhuanlan.zhihu.com/p/62780758)。
 
-[Zotero]文章题目大小写转为首字母大写的方法[https://zhuanlan.zhihu.com/p/60651053](https://zhuanlan.zhihu.com/p/60651053)。
+Zotero文章题目大小写转为首字母大写的方法[https://zhuanlan.zhihu.com/p/60651053](https://zhuanlan.zhihu.com/p/60651053)。
 
 Zotero+Word2016参考文献中英文混排，解决et al和等的问题，另一思路[https://zhuanlan.zhihu.com/p/60029219](https://zhuanlan.zhihu.com/p/60029219)。
 
@@ -86,7 +86,7 @@ Word 2016中用Zotero插入的文献是类似乱码的域代码[https://zhuanlan
 
 360安全浏览器如何安装Zotero插件[https://zhuanlan.zhihu.com/p/59247644](https://zhuanlan.zhihu.com/p/59247644)。
 
-[Zotero]如何设置Zotero生成的参考文献格式，刷新后不变？[https://zhuanlan.zhihu.com/p/58969571](https://zhuanlan.zhihu.com/p/58969571)。
+如何设置Zotero生成的参考文献格式，刷新后不变？[https://zhuanlan.zhihu.com/p/58969571](https://zhuanlan.zhihu.com/p/58969571)。
 
 Word中没有Zotero工具条的解决办法之一[https://zhuanlan.zhihu.com/p/58931999](https://zhuanlan.zhihu.com/p/58931999)。
 
