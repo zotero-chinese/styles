@@ -2,7 +2,7 @@
 
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
-网友牛耕田（buffalo_d#163.com）分享，支持中文
+网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文
 三个作者显示为“等”，英文显示为“et al”。
 
 
@@ -12,7 +12,7 @@
 
 * ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl)
 
-网友牛耕田（buffalo_d#163.com）分享的china-national-standard-gb-t-7714-2015-numeric.csl的修改版，作者为首字母大写，题目为首字母大写。支持中文
+网友**牛耕田**（__buffalo_d@163.com__）分享的china-national-standard-gb-t-7714-2015-numeric.csl的修改版，作者为首字母大写，题目为首字母大写。支持中文
 三个作者显示为“等”，英文显示为“et al”。
 
 * ## 如何使用
