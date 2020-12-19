@@ -28,6 +28,8 @@ Zotero使用参见[软件随心 https://zhuanlan.zhihu.com/c_1071081428967743488
 
 Zotero利用ZotFile管理附件参见[https://zhuanlan.zhihu.com/p/337801423](https://zhuanlan.zhihu.com/p/337801423)。
 
+Zotero删除条目（题录）时同时删除PDF附件的另一方法[https://zhuanlan.zhihu.com/p/338159167](https://zhuanlan.zhihu.com/p/338159167)。
+
 Zotero style csl文件简单编辑参见[https://zhuanlan.zhihu.com/p/336009544](https://zhuanlan.zhihu.com/p/336009544)。
 
 中文PDF识别---jasminum使用参见[https://zhuanlan.zhihu.com/p/329870430](https://zhuanlan.zhihu.com/p/329870430)。
