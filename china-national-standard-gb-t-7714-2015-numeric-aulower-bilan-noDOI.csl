@@ -206,7 +206,7 @@
           </choose>
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
-        </if>
+        </if> 
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
