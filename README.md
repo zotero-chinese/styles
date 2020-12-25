@@ -34,6 +34,8 @@ Zotero使用参见[软件随心 https://zhuanlan.zhihu.com/c_1071081428967743488
 
 一个PDF的Zotero使用简短教程《优雅地用 Zotero 进行文献管理和论文写作》，见[https://zhuanlan.zhihu.com/p/113170814](https://zhuanlan.zhihu.com/p/113170814)。
 
+Zotero同步文献库和附件[https://zhuanlan.zhihu.com/p/339443686](https://zhuanlan.zhihu.com/p/339443686)。
+
 Zotero利用ZotFile管理附件参见[https://zhuanlan.zhihu.com/p/337801423](https://zhuanlan.zhihu.com/p/337801423)。
 
 Zotero删除条目（题录）时同时删除PDF附件的另一方法[https://zhuanlan.zhihu.com/p/338159167](https://zhuanlan.zhihu.com/p/338159167)。
