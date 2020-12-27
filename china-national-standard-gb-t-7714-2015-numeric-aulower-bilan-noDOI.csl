@@ -163,7 +163,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case="sentence"/>
+    <text variable="title" text-case=""/>
     <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
@@ -174,23 +174,9 @@
       </choose>
     </group>
   </macro>
-  <citation collapse="citation-number" after-collapse-delimiter=",">
-    <sort>
-      <key variable="citation-number" sort="ascending"/>
-    </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text variable="citation-number"/>
-      <group prefix="(" suffix=")">
-        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
-        <text variable="locator"/>
-      </group>
-    </layout>
-  </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
-    <layout suffix="." locale="en">
-      <text variable="citation-number" prefix="[" suffix="]"/>
+  <macro name="bib-entry">
       <text macro="author" suffix=". "/>
-      <text macro="title" text-case="title"/>
+      <text macro="title" text-case=""/>
       <choose>
         <if type="book bill chapter legislation paper-conference report thesis" match="any">
           <text macro="editor" prefix=". "/>
@@ -230,50 +216,27 @@
         </else>
       </choose>
       <text macro="accessed-date"/>
+  </macro>
+  <citation collapse="citation-number" after-collapse-delimiter=",">
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+      <group prefix="(" suffix=")">
+        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
+    <layout suffix="." locale="en">
+     <text variable="citation-number" prefix="[" suffix="]"/>
+     <text macro="bib-entry"/>
     </layout>
     <layout suffix=".">
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="author" suffix=". "/>
-      <text macro="title"/>
-      <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
-          <text macro="editor" prefix=". "/>
-          <choose>
-            <if variable="container-title">
-              <text value="//"/>
-              <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
-            </if>
-            <else>
-              <text value=". "/>
-            </else>
-          </choose>
-          <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <group prefix=". ">
-            <choose>
-              <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
-              </if>
-              <else>
-                <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
-              </else>
-            </choose>
-          </group>
-        </else-if>
-        <else-if type="patent">
-          <text macro="issued-date" prefix=". "/>
-        </else-if>
-        <else>
-          <text macro="publishing" prefix=". "/>
-          <text macro="issued-date" prefix="(" suffix=")"/>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
+     <text variable="citation-number" prefix="[" suffix="]"/> 
+     <text macro="bib-entry"/>
     </layout>
   </bibliography>
 </style>
