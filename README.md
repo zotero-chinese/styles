@@ -2,11 +2,11 @@
 
 * ## [GGB-T-7714-2015-numeric-auUp-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-auUp-bilan-CE.csl)
 
-[GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)基础上修改，作者改为全部字母大写。
+[GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)基础上修改，作者改为全部字母大写,支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。。
 
 * ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见Zotero生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见Zotero生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。
 
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
