@@ -31,7 +31,7 @@ china-national-standard-gb-t-7714-2015-author-date的修改版，网友**牛耕�
 china-national-standard-gb-t-7714-2015-numeric-aulower-bilan的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。
 
 * ## 如何使用
-如果显示不正常需要在Zotero或JurisM中将英文文献Info中language字段修改为en。
+如果使用了支持中文作者超过3个为“等”，英文为“et al”的csl，但显示不正常需要在Zotero或JurisM中将英文文献Info中language字段修改为en。
 
 使用详情参见[基于GB/T-7714-2015的Style实现同时生成“et al”和“等”的方法https://zhuanlan.zhihu.com/p/320253145](https://zhuanlan.zhihu.com/p/320253145)。
 
