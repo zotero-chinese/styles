@@ -1,5 +1,9 @@
 更全的GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
 
+* ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
+
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见Zotero生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。
+
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
 网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文三个作者显示为“等”，英文显示为“et al”。
