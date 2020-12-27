@@ -2,7 +2,7 @@
 
 * ## [GGB-T-7714-2015-numeric-auUp-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-auUp-bilan-CE.csl)
 
-[GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)基础上修改，支持平行语言显示，作者改为全部字母大写，支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与```Zotero```中的Title字段一致，不显示URL和DOI。
+[GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)基础上修改，支持平行语言显示，作者改为全部字母大写，支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与```Zotero```中的```Title```字段一致，不显示```URL```和```DOI```。
 
 * ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
 
