@@ -6,11 +6,11 @@
 
 * ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见Zotero生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见Zotero生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过3个为`“等”`，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。
 
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
-网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文三个作者显示为“等”，英文显示为“et al”。
+网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文三个作者显示为`“等”`，英文显示为“et al”。
 
 
 * ## [jm-chinese-std-gb-t-7714-2005-revised.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/jm-chinese-std-gb-t-7714-2005-revised.csl)
@@ -20,20 +20,20 @@
 * ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl)
 
 网友**牛耕田**（__buffalo_d@163.com__）分享的china-national-standard-gb-t-7714-2015-numeric.csl的修改版，作者为首字母大写，题目为首字母大写。支持中文
-三个作者显示为“等”，英文显示为“et al”。
+三个作者显示为`“等”`，英文显示为“et al”。
 
 * ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
 
-china-national-standard-gb-t-7714-2015-author-date的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过3个为“等”，英文为“et al”。
+china-national-standard-gb-t-7714-2015-author-date的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为“et al”。
 
 * ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)
 
-china-national-standard-gb-t-7714-2015-numeric-aulower-bilan的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过3个为“等”，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。
+china-national-standard-gb-t-7714-2015-numeric-aulower-bilan的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为“et al”。文章的题目大小写与Zotero中的Title字段一致，不显示URL和DOI。
 
 * ## 如何使用
-如果使用了支持中文作者超过3个为“等”，英文为“et al”的csl，但显示不正常需要在Zotero或JurisM中将英文文献Info中language字段修改为en。
+如果使用了支持中文作者超过3个为`“等”`，英文为“et al”的csl，但显示不正常需要在Zotero或JurisM中将英文文献Info中language字段修改为en。
 
-使用详情参见[基于GB/T-7714-2015的Style实现同时生成“et al”和“等”的方法https://zhuanlan.zhihu.com/p/320253145](https://zhuanlan.zhihu.com/p/320253145)。
+使用详情参见[基于GB/T-7714-2015的Style实现同时生成“et al”和`“等”`的方法https://zhuanlan.zhihu.com/p/320253145](https://zhuanlan.zhihu.com/p/320253145)。
 
 修改语言参见[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
@@ -54,9 +54,9 @@ Zotero style csl文件简单编辑参见[https://zhuanlan.zhihu.com/p/336009544]
 
 不显示参考文献中的URL网址的方法见[https://zhuanlan.zhihu.com/p/328773377](https://zhuanlan.zhihu.com/p/328773377)。
 
-使用JurisM Style实现同时生成“et al”和“等”见[https://zhuanlan.zhihu.com/p/317108621](https://zhuanlan.zhihu.com/p/317108621)。
+使用JurisM Style实现同时生成“et al”和`“等”`见[https://zhuanlan.zhihu.com/p/317108621](https://zhuanlan.zhihu.com/p/317108621)。
 
-Zotero修改版终于可以原生支持同时生成“et al”和“等”了[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
+Zotero修改版终于可以原生支持同时生成“et al”和`“等”`了[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
 Word中的文献如何导入到Zotero库中[https://zhuanlan.zhihu.com/p/309597293](https://zhuanlan.zhihu.com/p/309597293)。
 
