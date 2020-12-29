@@ -35,7 +35,7 @@
     [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
 
 * ## `csl`文件的下载及添加
-![下载及使用动图](../img/download-csl.gif)
+![下载及使用动图](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/img/download-csl.gif)
 
 * ## 如何使用
     
