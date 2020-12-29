@@ -35,15 +35,16 @@
     [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
 
 * ## 如何使用
-    `Github`文件的下载方法见[https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html](https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html)。
-
-    `Zotero`添加`csl`格式文件见[https://zhuanlan.zhihu.com/p/64624484](https://zhuanlan.zhihu.com/p/64624484)。
     
     如果使用了支持中文作者超过`3`个为`“等”`，英文为`“et al”`的`csl`，但显示不正常需要在`Zotero`或JurisM中将英文文献`Info`中`language`字段修改为`en`。
 
     使用详情参见[基于GB/T-7714-2015的Style实现同时生成`“et al”`和`“等”`的方法https://zhuanlan.zhihu.com/p/320253145](https://zhuanlan.zhihu.com/p/320253145)。
 
     修改语言参见[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
+
+    `Github`文件的下载方法见[https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html](https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html)。
+
+    `Zotero`添加`csl`格式文件见[https://zhuanlan.zhihu.com/p/64624484](https://zhuanlan.zhihu.com/p/64624484)。
 
 * ## 更多`Zotero`使用教程及技巧
     `Zotero`使用参见[软件随心 https://zhuanlan.zhihu.com/c_1071081428967743488](https://zhuanlan.zhihu.com/c_1071081428967743488)。
