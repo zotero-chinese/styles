@@ -54,6 +54,8 @@
 
     一个`PDF`的`Zotero`使用简短教程《优雅地用 `Zotero` 进行文献管理和论文写作》，见[https://zhuanlan.zhihu.com/p/113170814](https://zhuanlan.zhihu.com/p/113170814)。
 
+    `Zotero`如何查看`My Library`中的文献属于哪个分类（文件夹）？[https://zhuanlan.zhihu.com/p/340591764](https://zhuanlan.zhihu.com/p/340591764)。
+
     `Zotero`同步文献库和附件[https://zhuanlan.zhihu.com/p/339443686](https://zhuanlan.zhihu.com/p/339443686)。
 
     `Zotero`利用`ZotFile`管理附件参见[https://zhuanlan.zhihu.com/p/337801423](https://zhuanlan.zhihu.com/p/337801423)。
