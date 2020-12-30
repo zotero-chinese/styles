@@ -4,7 +4,7 @@
 
   [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
 
-  显示效果：
+  显示效果（请忽略行间距）：
 >> ```
 
 >>[1–4]
@@ -21,6 +21,19 @@
 * ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
 
      [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
+
+  显示效果（请忽略行间距）：
+>> ```
+>> [1–4]
+
+>> [1] 王建冬, 童楠楠. 数字经济背景下数据与其他生产要素的协同联动机制研究[J]. 电子政务, 2020(03): 22–31.
+
+>>[2] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.
+
+>>[3] 刘冬梅, 周若雅, 王勇, 等. 煎炸及烤制食品中危害物的形成与控制研究进展[J]. 食品工业科技, 2020: 1–10.
+
+>>[4] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.
+
 
 * ## [NJAU-thesis.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/NJAU-thesis.csl) 
 
