@@ -57,6 +57,17 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
     网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文`3`个作者显示为`“等”`，英文显示为`“et al”`，文章的题目大小写为`Title`格式（每个实词首字母大写）。
+    
+    显示效果（`csl`设置的是`Title`格式，但在我的`Word`中只是第一个单词和最后一个单词首补字母大写）：
+>> ```
+>>[1–4]
+
+>>[1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
+>>[2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+>>[3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
+>>[4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+
+
 
 
 * ## [jm-chinese-std-gb-t-7714-2005-revised.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/jm-chinese-std-gb-t-7714-2005-revised.csl)
