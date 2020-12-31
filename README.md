@@ -10,10 +10,17 @@
 >>[1–4]
 >> ```
 
->>[1] 王建冬, 童楠楠. 数字经济背景下数据与其他生产要素的协同联动机制研究[J]. 电子政务, 2020(03): 22–31.<br>
->>[2] ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
->>[3] 刘冬梅, 周若雅, 王勇, 等. 煎炸及烤制食品中危害物的形成与控制研究进展[J]. 食品工业科技, 2020: 1–10.<br>
->>[4] WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.
+
+>>[1] ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+>>[2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146<br>
+TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepared by enzymatic hydrolysis of goosemeat with different proteases [J]. Food Science, 2019,40 (22): 141-146.
+ 
+>>[3] WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
+>>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367<br>
+ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
+ 
+
+
 >> ```
 * ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
 
@@ -23,10 +30,14 @@
 >> ```
 >> [1–4]
 
->> [1] 王建冬, 童楠楠. 数字经济背景下数据与其他生产要素的协同联动机制研究[J]. 电子政务, 2020(03): 22–31.<br>
->>[2] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
->>[3] 刘冬梅, 周若雅, 王勇, 等. 煎炸及烤制食品中危害物的形成与控制研究进展[J]. 食品工业科技, 2020: 1–10.<br>
->>[4] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.
+>>[1] ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+>>[2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepared by enzymatic hydrolysis of goosemeat with different proteases [J]. Food Science, 2019,40 (22): 141-146.
+
+>>[3] WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
+>>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
+ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
+
 
 
 * ## [NJAU-thesis.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/NJAU-thesis.csl) 
@@ -146,7 +157,7 @@
 
     `Zotero`文章题目大小写转为首字母大写的方法[https://zhuanlan.zhihu.com/p/60651053](https://zhuanlan.zhihu.com/p/60651053)。
 
-    `Zotero`+`Word 2016`参考文献中英文混排，解决et al和等的问题，另一思路[https://zhuanlan.zhihu.com/p/60029219](https://zhuanlan.zhihu.com/p/60029219)。
+    `Zotero`+`Word 2016`参考文献中英文混排，解决`et al`和`等`的问题，另一思路[https://zhuanlan.zhihu.com/p/60029219](https://zhuanlan.zhihu.com/p/60029219)。
 
     `Word 2016`中用`Zotero`插入的文献是类似乱码的域代码[https://zhuanlan.zhihu.com/p/59995967](https://zhuanlan.zhihu.com/p/59995967)。
 
@@ -156,7 +167,7 @@
 
     `Word`中没有`Zotero`工具条的解决办法之一[https://zhuanlan.zhihu.com/p/58931999](https://zhuanlan.zhihu.com/p/58931999)。
 
-    `Zotero`+`Word 2016`参考文献中英文混排，解决et al和等的问题[https://zhuanlan.zhihu.com/p/58237038](https://zhuanlan.zhihu.com/p/58237038)。
+    `Zotero`+`Word 2016`参考文献中英文混排，解决`et al`和`等`的问题[https://zhuanlan.zhihu.com/p/58237038](https://zhuanlan.zhihu.com/p/58237038)。
 
     `Zotero`参考文献中论文题目部分单词实现斜体及上标、下标效果[https://zhuanlan.zhihu.com/p/57638901](https://zhuanlan.zhihu.com/p/57638901)。
 

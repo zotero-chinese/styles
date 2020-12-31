@@ -237,7 +237,7 @@
     <layout suffix=".">
      <text variable="citation-number" prefix="[" suffix="] "/> 
      <text macro="bib-entry"/>
-     <text variable="title-short" display="block"  suffix=". "/>
+     <text variable="title-short" display="block"  prefix="."/>
     </layout>
   </bibliography>
 </style>
