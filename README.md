@@ -18,10 +18,8 @@ TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepa
 >>[3] WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
 >>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367<br>
 ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
- 
+ >> ```
 
-
->> ```
 * ## [GB-T-7714-2015-numeric-aulower-bilan-CE.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/GB-T-7714-2015-numeric-aulower-bilan-CE.csl)
 
      [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
@@ -37,7 +35,7 @@ Tang X, Sun Y Y, Jiang X T, et al. Comparative analysis of flavor peptides prepa
 >>[3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
 >>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
 Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09): 362–367.
-
+>> ```
 
 * ## [NJAU-thesis.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/NJAU-thesis.csl) 
 
@@ -51,14 +49,14 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 >>[2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
 >>[3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
 >>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
+>> ```
 
 
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
     网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文`3`个作者显示为`“等”`，英文显示为`“et al”`，文章的题目大小写为`Title`格式（每个实词首字母大写）。
     
-    显示效果（`csl`设置的是`Title`格式，但在我的`Word`中只是第一个单词和最后一个单词首补字母大写）：
+    显示效果（`csl`设置的是`Title`格式，但在我的`Word`中显示只是第一个单词和最后一个单词首字母大写）：
 >> ```
 >>[1–4]
 
@@ -66,7 +64,7 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 >>[2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
 >>[3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
 >>[4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
+>> ```
 
 
 
@@ -74,18 +72,58 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 
     [jm-chinese-std-gb-t-7714-2005.csl](https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl) 的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
 
+    显示效果：
+>> ```
+>>[1–4]
+
+>> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation [J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+>> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+>> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes [J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
+>> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+>> ```
+
+
 * ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl)
 
     网友**牛耕田**（__buffalo_d@163.com__）分享的 [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 的修改版，作者为首字母大写，题目为首字母大写。支持中文
 `3`个作者显示为`“等”`，英文显示为`“et al”`。
 
+    显示效果：
+>> ```
+>>[1–4]
+
+>>[1]	Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
+>>[2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+>>[3]	Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
+>>[4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+
 * ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
 
     china-national-standard-gb-t-7714-2015-author-date的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
+    显示效果：
+>> ```
+>>(Zhang et al., 2020; 唐霄等, 2019; Wu et al., 2016; 朱磊等, 2020)
+ 
+>>唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
+>>朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
+>>Wu L, Zhao W, Yang R, et al., 2016. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
+>>Zhang B, Qi X, Mao J, et al., 2020. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 127: 109393. DOI:10.1016/j.lwt.2020.109393.
+
+
+
 * ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl)
 
     [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
+
+    显示效果：
+>> ```
+>>[1–4]
+
+>>[1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>	
+>>[2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
+>>[3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
+>>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 * ## `csl`文件的下载及添加
 ![下载及使用动图](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/img/download-csl.gif)
