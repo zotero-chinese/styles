@@ -32,6 +32,16 @@
 * ## [NJAU-thesis.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/NJAU-thesis.csl) 
 
     南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-noDOI.csl) 相同，只是修改了`csl`在`Zotero`或`Jurism`显示和`ID`，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
+ 
+    显示效果：
+>> ```
+>>[1–4]
+
+>>[1] 王建冬, 童楠楠. 数字经济背景下数据与其他生产要素的协同联动机制研究[J]. 电子政务, 2020(03): 22–31.<br>
+>>[2] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>	
+>>[3] 刘冬梅, 周若雅, 王勇, 等. 煎炸及烤制食品中危害物的形成与控制研究进展[J]. 食品工业科技, 2020: 1–10.	<br>
+>>[4] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	
+
 
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
