@@ -2,23 +2,19 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>GB-T-7714-2015-numeric-aulower-bilan</title>
+    <title>GB-T-7714-2015-numeric-aulower-bilan-CE</title>
     <title-short>GB/T 7714-2015</title-short>
-    <id>http://www.zotero.org/styles/GB-T-7714-2015-numeric-aulower-bilan</id>
+    <id>http://www.zotero.org/styles/GB-T-7714-2015-numeric-aulower-bilan-CE</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan" rel="self"/>
     <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>
-    <updated>2021-01-01T23:56:46+00:00</updated>
+    <updated>2020-12-30T23:56:46+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -178,8 +174,7 @@
       </choose>
     </group>
   </macro>
-  <macro name="bib-entry" >
-  <text variable="citation-number" prefix="[" suffix="] "/> 
+  <macro name="bib-entry">
       <text macro="author" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
@@ -234,12 +229,15 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" hanging-indent="true">
-    <layout locale="en">
-    <text macro="bib-entry" suffix="."/>
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1">
+    <layout suffix="." locale="en">
+     <text variable="citation-number" prefix="[" suffix="] "/>
+     <text macro="bib-entry"/>
     </layout>
-    <layout>
-    <text macro="bib-entry" suffix="."/>
+    <layout suffix=".">
+     <text variable="citation-number" prefix="[" suffix="] "/> 
+     <text macro="bib-entry"/>
+     <text variable="title-short" display="block"  prefix="."/>
     </layout>
   </bibliography>
 </style>
