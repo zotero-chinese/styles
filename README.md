@@ -57,7 +57,7 @@
 
 * ## [gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl)
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)的修改版，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。文章的题目大小写使用`Zotero`中的`Title`字段。不显示`URL`和`DOI`。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)的修改版，正文中题录两个括号为中文括号`（）`，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。文章的题目大小写使用`Zotero`中的`Title`字段。不显示`URL`和`DOI`。
 
 显示效果：
 >> ```
