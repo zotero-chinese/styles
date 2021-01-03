@@ -208,7 +208,7 @@
       </choose>
     </group>
   </macro>
-  <macro name="bib-full">
+  <macro name="bib-full" suffix=".">
     <text macro="author" suffix=", "/>
     <text macro="issue-date-year" suffix=". "/>
     <text macro="title"/>
