@@ -1,6 +1,6 @@
 更全的GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
 
-1. ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
+## 1.  [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
 
     china-national-standard-gb-t-7714-2015-author-date的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
@@ -71,7 +71,7 @@ Tang X, Sun Y Y, Jiang X T, et al. Comparative analysis of flavor peptides prepa
 >>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
 Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09): 362–367.
 >> ```
-
+[gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl)
 * ## [gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan.csl)
 
  [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl)基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
