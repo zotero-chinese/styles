@@ -59,7 +59,7 @@
 
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)的修改版，作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。文章的题目大小写为`Title`格式（每个实词首字母大写）。不显示`URL`和`DOI`。
 
-    显示效果（`csl`设置的是`Title`格式，但在我的`Word`中显示只是第一个单词和最后一个单词首字母大写）：
+显示效果（`csl`设置的是`Title`格式，但在我的`Word`中显示只是第一个单词和最后一个单词首字母大写）：
 >> ```
 
 >>（唐霄等, 2019; 朱磊等, 2020; Yang et al., 2015; Zhao et al., 2016）
