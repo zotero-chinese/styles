@@ -66,8 +66,8 @@
 
 >>唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
 >>朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>	
->>Yang H, Han M, Wang X, et al., 2015. Effect of high pressure on cooking losses and functional properties of Reduced-fat and reduced-salt pork sausage Emulsions[J]. Innovative Food Science and Emerging Technologies, 29.	<br>
->>Zhao X, Chen X, Han M, et al., 2016. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast Meat[J]. LWT - Food Science and Technology, 72: 141–148.	
+>>Yang H, Han M, Wang X, et al., 2015. Effect of high pressure on cooking losses and functional properties of Reduced-fat and reduced-salt pork sausage emulsions[J]. Innovative Food Science and Emerging Technologies, 29.	<br>
+>>Zhao X, Chen X, Han M, et al., 2016. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat[J]. LWT - Food Science and Technology, 72: 141–148.	
 
 
 
