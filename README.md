@@ -168,7 +168,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     使用详情参见[基于GB/T-7714-2015的Style实现同时生成`“et al”`和`“等”`的方法https://zhuanlan.zhihu.com/p/320253145](https://zhuanlan.zhihu.com/p/320253145)。
 
-    修改语言参见[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
+    修改语言参见[https://zhuanlan.zhihu.com/p/341989158](https://zhuanlan.zhihu.com/p/341989158)或[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
     `Github`文件的下载方法也可见[https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html](https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html)。
 
@@ -199,6 +199,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`修改版终于可以原生支持同时生成`“et al”`和`“等”`了[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
+    `Zotero`批量修改条目（文献）语言[https://zhuanlan.zhihu.com/p/341989158](https://zhuanlan.zhihu.com/p/341989158)。
+
     `Word`中的文献如何导入到`Zotero`库中[https://zhuanlan.zhihu.com/p/309597293](https://zhuanlan.zhihu.com/p/309597293)。
 
     `Zotero`批量文章题目大小写转为首字母大写的方法（含视频）[https://zhuanlan.zhihu.com/p/283889592](https://zhuanlan.zhihu.com/p/283889592)。
@@ -219,7 +221,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     如何在家愉快地使用`Zotero`通过远程访问收集知网数据？[https://zhuanlan.zhihu.com/p/110731827](https://zhuanlan.zhihu.com/p/110731827)。
 
-    `Zotero`中安装了`Zotfile`后删除文献后清除PDF附件的小程序[https://zhuanlan.zhihu.com/p/109531298](https://zhuanlan.zhihu.com/p/109531298)。
+    `Zotero`中安装了`Zotfile`后删除文献后清除`PDF`附件的小程序[https://zhuanlan.zhihu.com/p/109531298](https://zhuanlan.zhihu.com/p/109531298)。
 
     `Zotero`中页码范围由“–”改为“-”。[https://zhuanlan.zhihu.com/p/101884972](https://zhuanlan.zhihu.com/p/101884972)。
 
