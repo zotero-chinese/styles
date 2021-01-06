@@ -160,7 +160,12 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 
 * ## `csl`文件的下载及添加
+
++ ### 所有`csl`文件
 ![下载及使用动图](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/img/download-csl.gif)
+
++ ### 单个`csl`文件
+![下载及使用动图](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/img/download-s-csl.gif)
 
 * ## 如何使用
     
