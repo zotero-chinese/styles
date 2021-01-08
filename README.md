@@ -200,6 +200,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     不显示参考文献中的`URL`网址的方法见[https://zhuanlan.zhihu.com/p/328773377](https://zhuanlan.zhihu.com/p/328773377)。
 
+    `Zotero`直接同时生成“等”和“et al”(视频讲解)[https://zhuanlan.zhihu.com/p/342753388](https://zhuanlan.zhihu.com/p/342753388)
+
     使用`JurisM Style`实现同时生成`“et al”`和`“等”`见[https://zhuanlan.zhihu.com/p/317108621](https://zhuanlan.zhihu.com/p/317108621)。
 
     `Zotero`修改版终于可以原生支持同时生成`“et al”`和`“等”`了[https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
