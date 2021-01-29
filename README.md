@@ -184,6 +184,12 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     一个`PDF`的`Zotero`使用简短教程《优雅地用 `Zotero` 进行文献管理和论文写作》，见[https://zhuanlan.zhihu.com/p/113170814](https://zhuanlan.zhihu.com/p/113170814)。
 
+    `Zotero`插件（扩展）的安装--以茉莉花（jasminum）为例[https://zhuanlan.zhihu.com/p/347628976](https://zhuanlan.zhihu.com/p/347628976)。
+
+    `Zotero`利用jasminum（茉莉花）安装或更新部分中文网站translator[https://zhuanlan.zhihu.com/p/347642670](https://zhuanlan.zhihu.com/p/347642670)。
+    
+    `Zotero`中无关闭、最大化、最小化、窗口标题的窗口移动或放大缩小的方法[https://zhuanlan.zhihu.com/p/343640809](https://zhuanlan.zhihu.com/p/343640809)。
+
     `Zotero`如何查看`My Library`中的文献属于哪个分类（文件夹）？[https://zhuanlan.zhihu.com/p/340591764](https://zhuanlan.zhihu.com/p/340591764)。
 
     `Zotero`同步文献库和附件[https://zhuanlan.zhihu.com/p/339443686](https://zhuanlan.zhihu.com/p/339443686)。
