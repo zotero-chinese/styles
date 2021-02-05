@@ -206,13 +206,13 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
     [https://github.com/redleafnew/Zotero_introduction/releases](https://github.com/redleafnew/Zotero_introduction/releases)
     或[https://zhuanlan.zhihu.com/p/113170814](https://zhuanlan.zhihu.com/p/113170814)。
 
-    `Zotero`中使用GB/7714-2015相关csl时文末显示的访问日期如何隐藏？[https://zhuanlan.zhihu.com/p/349555378](https://zhuanlan.zhihu.com/p/349555378)。
+    `Zotero`中使用`GB/7714-2015`相关`csl`时文末显示的访问日期如何隐藏？[https://zhuanlan.zhihu.com/p/349555378](https://zhuanlan.zhihu.com/p/349555378)。
 
     `Zotero`右键菜单中为什么没有`Find Available PDF`？[https://zhuanlan.zhihu.com/p/348697024](https://zhuanlan.zhihu.com/p/348697024)。
 
-    `Zotero`插件（扩展）的安装--以茉莉花（jasminum）为例[https://zhuanlan.zhihu.com/p/347628976](https://zhuanlan.zhihu.com/p/347628976)。
+    `Zotero`插件（扩展）的安装--以`茉莉花（jasminum）`为例[https://zhuanlan.zhihu.com/p/347628976](https://zhuanlan.zhihu.com/p/347628976)。
 
-    `Zotero`利用jasminum（茉莉花）安装或更新部分中文网站translator[https://zhuanlan.zhihu.com/p/347642670](https://zhuanlan.zhihu.com/p/347642670)。
+    `Zotero`利用`jasminum（茉莉花）`安装或更新部分中文网站`translator`[https://zhuanlan.zhihu.com/p/347642670](https://zhuanlan.zhihu.com/p/347642670)。
     
     `Zotero`中无关闭、最大化、最小化、窗口标题的窗口移动或放大缩小的方法[https://zhuanlan.zhihu.com/p/343640809](https://zhuanlan.zhihu.com/p/343640809)。
 
