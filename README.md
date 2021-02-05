@@ -124,6 +124,24 @@ TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepa
 ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
  >> ```
 
+* ## [hzau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/hzau-thesis.csl)
+
+    [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
+    学位论文，规则见[http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。序号用[ ]包围，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
+
+    显示效果：
+>> ```
+>>（Zhang et al 2020, 唐霄等 2019）
+>>（Wu et al 2016）
+>>（朱磊等 2020）
+
+
+>> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation [J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+>> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+>> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes [J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
+>> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+>> ```
+
 
 * ## [jm-chinese-std-gb-t-7714-2005-revised.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/jm-chinese-std-gb-t-7714-2005-revised.csl)
 
