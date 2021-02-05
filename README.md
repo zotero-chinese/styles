@@ -206,6 +206,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
     [https://github.com/redleafnew/Zotero_introduction/releases](https://github.com/redleafnew/Zotero_introduction/releases)
     或[https://zhuanlan.zhihu.com/p/113170814](https://zhuanlan.zhihu.com/p/113170814)。
 
+    `Zotero`中使用GB/7714-2015相关csl时文末显示的访问日期如何隐藏？[https://zhuanlan.zhihu.com/p/349555378](https://zhuanlan.zhihu.com/p/349555378)。
+
     `Zotero`右键菜单中为什么没有`Find Available PDF`？[https://zhuanlan.zhihu.com/p/348697024](https://zhuanlan.zhihu.com/p/348697024)。
 
     `Zotero`插件（扩展）的安装--以茉莉花（jasminum）为例[https://zhuanlan.zhihu.com/p/347628976](https://zhuanlan.zhihu.com/p/347628976)。
