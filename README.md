@@ -114,7 +114,6 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 >>[1–4]
 >> ```
 
-
 >>[1] ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
 >>[2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146<br>
 TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepared by enzymatic hydrolysis of goosemeat with different proteases [J]. Food Science, 2019,40 (22): 141-146.
