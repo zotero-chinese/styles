@@ -206,6 +206,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`中使用`GB/7714-2015`相关`csl`时文末显示的访问日期如何隐藏？[https://zhuanlan.zhihu.com/p/349555378](https://zhuanlan.zhihu.com/p/349555378)。
 
+    `Zotero`重装系统后Word工具条恢复的方法见[https://zhuanlan.zhihu.com/p/350567611](https://zhuanlan.zhihu.com/p/350567611)。
+
     `Zotero`设置的备份与恢复见[https://zhuanlan.zhihu.com/p/350546813](https://zhuanlan.zhihu.com/p/350546813)。
 
     `Zotero`数据的备份与恢复[https://zhuanlan.zhihu.com/p/350549136](https://zhuanlan.zhihu.com/p/350549136)。
