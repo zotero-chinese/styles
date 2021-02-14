@@ -18,7 +18,7 @@
     [China National Standard GB/T 7714-2015 (note, Chinese)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note)的修改版，作者名字全部大写，支持中文作者超过3个为“等”，英文为“et al”。脚注连续编号，重复文献不省略，重复显示
 
     显示效果（1、4为重复文献）：
-  ```
+   
 >正文中<sup>1</sup>显示<sup>2</sup>脚注<sup>3</sup>形式<sup>4</sup>。      
 
   >><sup>1</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
