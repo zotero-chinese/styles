@@ -210,7 +210,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
     
     完整的`Zotero`的使用教程见：[《优雅地用 `Zotero` 进行文献管理和论文写作》](https://github.com/redleafnew/Zotero_introduction/releases)。
 * ## LICENSE
-[GPL](https://www.gnu.org/licenses/gpl-3.0.txt)
+    [GPL](https://www.gnu.org/licenses/gpl-3.0.txt)
 
 * ## 更多`Zotero`使用教程及技巧
     `Zotero`使用参见[软件随心 https://zhuanlan.zhihu.com/c_1071081428967743488](https://zhuanlan.zhihu.com/c_1071081428967743488)。
