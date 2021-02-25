@@ -227,7 +227,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`数据的备份与恢复见[https://zhuanlan.zhihu.com/p/350549136](https://zhuanlan.zhihu.com/p/350549136)。
 
-    `Zotero`批量删除（合并）重复文献[https://zhuanlan.zhihu.com/p/352324486](https://zhuanlan.zhihu.com/p/352324486)。
+    `Zotero`批量删除（合并）重复文献见[https://zhuanlan.zhihu.com/p/352324486](https://zhuanlan.zhihu.com/p/352324486)。
 
     `Zotero`中使用`GB/7714-2015`相关`csl`时文末显示的访问日期如何隐藏？[https://zhuanlan.zhihu.com/p/349555378](https://zhuanlan.zhihu.com/p/349555378)。
 
