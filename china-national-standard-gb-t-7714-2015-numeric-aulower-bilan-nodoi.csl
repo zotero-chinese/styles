@@ -186,6 +186,7 @@
               <text value="//"/>
               <text macro="container-author" suffix=". "/>
               <text variable="container-title" suffix=". " text-case="title"/>
+              <text macro="serial-information" prefix=""/>
             </if>
             <else>
               <text value=". "/>
