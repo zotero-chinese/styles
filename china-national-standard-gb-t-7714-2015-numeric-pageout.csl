@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
-  <!-- 作者首字母大写，双语 locator页码在括号外面-->
+  <!-- 作者首字母大写，双语 locator页码在括号外面，报纸为出版日期，页码在括号内-->
   <info>
     <title>China National Standard GB/T 7714-2015-numeric-PageOut</title>
     <title-short>GB/T 7714-2015</title-short>
@@ -179,6 +179,69 @@
       </choose>
     </group>
   </macro>
+  <macro name="full-bib">
+    <text variable="citation-number" prefix="[" suffix="]"/>
+        <text macro="author" suffix=". "/>
+        <text macro="title" text-case="title"/>
+        <choose>
+          <if type="book bill chapter legislation paper-conference report thesis" match="any">
+            <text macro="editor" prefix=". "/>
+            <choose>
+              <if variable="container-title">
+                <text value="//"/>
+                <text macro="container-author" suffix=". "/>
+                <text variable="container-title" suffix=". " text-case="title"/>
+              </if>
+              <else>
+                <text value=". "/>
+              </else>
+            </choose>
+            <text macro="edition" suffix=". "/>
+            <text macro="publishing"/>
+          </if>
+          <else-if type="article-journal article-magazine" match="any">
+            <group prefix=". ">
+              <choose>
+                <if variable="container-title">
+                  <text variable="container-title" text-case="title"/>
+                  <text macro="serial-information" prefix=", "/>
+                </if>
+                <else>
+                  <text macro="serial-information" suffix=". "/>
+                  <text macro="publishing"/>
+                </else>
+              </choose>
+            </group>
+          </else-if>
+          <else-if type="article-newspaper">   <!-- 报纸-->
+            <group prefix=". ">
+              <choose>
+                <if variable="container-title">
+                  <text variable="container-title" text-case="title"/>
+                  <text macro="issued-date" prefix=", "/>
+                  <text variable="page" prefix="(" suffix=")"/>
+                </if>
+                <else>
+                  <text macro="issued-date" suffix=". "/>
+                  <text macro="publishing"/>
+                </else>
+              </choose>
+            </group>
+         </else-if>
+          <else-if type="patent">
+            <text macro="issued-date" prefix=". "/>
+          </else-if>
+          <else>
+            <text macro="publishing" prefix=". "/>
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </else>
+        </choose>
+        <text macro="accessed-date"/>
+        <group delimiter=". " prefix=". ">
+          <text variable="URL"/>
+          <text variable="DOI" prefix="DOI:"/>
+        </group>
+  </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number" sort="ascending"/>
@@ -193,100 +256,10 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
     <layout suffix="." locale="en">
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="author" suffix=". "/>
-      <text macro="title" text-case="title"/>
-      <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
-          <text macro="editor" prefix=". "/>
-          <choose>
-            <if variable="container-title">
-              <text value="//"/>
-              <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
-            </if>
-            <else>
-              <text value=". "/>
-            </else>
-          </choose>
-          <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <group prefix=". ">
-            <choose>
-              <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
-              </if>
-              <else>
-                <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
-              </else>
-            </choose>
-          </group>
-        </else-if>
-        <else-if type="patent">
-          <text macro="issued-date" prefix=". "/>
-        </else-if>
-        <else>
-          <text macro="publishing" prefix=". "/>
-          <text macro="issued-date" prefix="(" suffix=")"/>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
-      <group delimiter=". " prefix=". ">
-        <text variable="URL"/>
-        <text variable="DOI" prefix="DOI:"/>
-      </group>
+      <text macro="full-bib" suffix="."/>
     </layout>
     <layout suffix=".">
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="author" suffix=". "/>
-      <text macro="title"/>
-      <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
-          <text macro="editor" prefix=". "/>
-          <choose>
-            <if variable="container-title">
-              <text value="//"/>
-              <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
-            </if>
-            <else>
-              <text value=". "/>
-            </else>
-          </choose>
-          <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <group prefix=". ">
-            <choose>
-              <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
-              </if>
-              <else>
-                <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
-              </else>
-            </choose>
-          </group>
-        </else-if>
-        <else-if type="patent">
-          <text macro="issued-date" prefix=". "/>
-        </else-if>
-        <else>
-          <text macro="publishing" prefix=". "/>
-          <text macro="issued-date" prefix="(" suffix=")"/>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
-      <group delimiter=". " prefix=". ">
-        <text variable="URL"/>
-        <text variable="DOI" prefix="DOI:"/>
-      </group>
+      <text macro="full-bib" suffix="."/>
     </layout>
   </bibliography>
 </style>
