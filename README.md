@@ -54,6 +54,23 @@
 >>[3]	Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
 >>[4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
+* ## [china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl)基础上修改。插入的locator在[序号]的外面，《中国高教研究》期刊要求。
+
+    显示效果（页码都是瞎写的）：
+>> ```
+
+>>[1]11<br>
+>>[2]88<br>
+>>[3]100<br>
+>>[4]999<br><br>
+>>[1]	徐娜, 石金明, 何伟俊, 等. 宰后成熟对鸡肉风味的影响研究进展[J]. 食品安全质量检测学报, 2021, 12(02): 727–732. DOI:10.19812/j.cnki.jfsq11-5956/ts.2021.02.057.<br>
+>>[2]	Yang H, Tao F, Cao G, et al. Stability improvement of reduced-fat reduced-salt meat batter through modulation of secondary and tertiary protein structures by means of high pressure processing[J]. Meat Science, 2021: 108439. DOI:10.1016/j.meatsci.2021.108439.<br>
+>>[3]	Dong M, Tian H, Xu Y, et al. Effects of pulsed electric fields on the conformation and gelation properties of myofibrillar proteins isolated from pale, soft, exudative (pse)-like chicken breast meat: A molecular dynamics study[J]. Food Chemistry, 2021, 342: 128306. DOI:10.1016/j.foodchem.2020.128306.<br>
+>>[4]	李先保, 韩敏义, 费英, 等. 低场NMR法研究微生物转谷氨酰酶对猪肉肌原纤维蛋白凝胶功能特性的影响: 03[J]. 南京农业大学学报, 2009, 32(03): 130–134.<br>
+
+
+
 * ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 
 
     网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文`3`个作者显示为`“等”`，英文显示为`“et al”`，文章的题目大小写为`Title`格式（每个实词首字母大写）。
