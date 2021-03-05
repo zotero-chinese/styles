@@ -333,6 +333,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     如何设置`Zotero`生成的参考文献格式，刷新后不变？[https://zhuanlan.zhihu.com/p/58969571](https://zhuanlan.zhihu.com/p/58969571)。
 
+    `Zotero`现在不能自动更新引文上标了是怎么回事？见[https://zhuanlan.zhihu.com/p/354725834](https://zhuanlan.zhihu.com/p/354725834)。
+
     `Word`中没有`Zotero`工具条的解决办法之一[https://zhuanlan.zhihu.com/p/58931999](https://zhuanlan.zhihu.com/p/58931999)。
 
     `Zotero`+`Word 2016`参考文献中英文混排，解决`et al`和`等`的问题[https://zhuanlan.zhihu.com/p/58237038](https://zhuanlan.zhihu.com/p/58237038)。
