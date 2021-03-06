@@ -183,7 +183,7 @@
     </group>
   </macro>
   <macro name="full-bib">
-    <text variable="citation-number" prefix="[" suffix="]"/>
+    <text variable="citation-number" prefix="[" suffix="] "/>
         <text macro="author" suffix=". "/>
         <text macro="title" text-case="title"/>
         <choose>
