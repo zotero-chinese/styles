@@ -1,4 +1,23 @@
-更全的GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
+其它GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
+
+* ## [1gb-t-7714-2015-numeric-NoDateURL.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-NoDateURL.csl)
+
+[china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
+基础上修改，作者首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`，locator页码在括号外面，报纸为出版日期，不改变Zotero中Title大小写，类型将不显示OL，书籍的日期不显示，不显示URL，不显示DOI。
+    
+    显示效果：
+>> ```
+>>[1]
+>>[2]
+>>[3]
+>>[4]
+
+>>[1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
+>>[2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
+>>[3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
+>>[4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
+
+
 
 * ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
 
