@@ -1,6 +1,6 @@
 其它GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
 
-* ## [1gb-t-7714-2015-numeric-NoDateURL.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-NoDateURL.csl)
+* ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
 [china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
 基础上修改，作者首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`，locator页码在括号外面，报纸为出版日期，不改变Zotero中Title大小写，类型将不显示OL，书籍的日期不显示，不显示URL，不显示DOI。
