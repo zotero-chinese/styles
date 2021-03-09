@@ -34,10 +34,10 @@
     </terms>
   </locale>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="&#8211;" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
+    <date variable="accessed" delimiter="" prefix="" suffix="">
+      <date-part name="year" suffix="年"/>
+      <date-part name="month" form="numeric" suffix="月"/>
+      <date-part name="day" suffix="日"/>
     </date>
   </macro>
   <macro name="author">
@@ -86,10 +86,10 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="&#8211;">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric" />
-          <date-part name="day"/>
+        <date variable="issued" delimiter="">
+          <date-part name="year" suffix="年"/>
+          <date-part name="month" form="numeric" suffix="月"/>
+          <date-part name="day" suffix="日"/>
          <!--  <date-part name="day" form="numeric-leading-zeros"/>-->
         </date>
       </if>
@@ -172,7 +172,7 @@
                   <text value=". "/>
                 </else>
               </choose>
-              <text macro="edition" suffix="。 "/>
+              <text macro="edition" suffix="。"/>
               <text macro="publishing"/>
             </if>
             <else-if type="article-journal article-magazine" match="any">
@@ -282,11 +282,11 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
     <layout locale="en" suffix=".">
-      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="citation-number" prefix="〔" suffix="〕"/>
       <text macro="full-contents"/>
     </layout>
     <layout suffix="。">
-      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="citation-number" prefix="〔" suffix="〕"/>
       <text macro="full-contents"/>
     </layout>
   </bibliography>
