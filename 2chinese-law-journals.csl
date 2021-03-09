@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+   <!-- 半成品，需要更多的文献类型测试，有需要请提供 -->
   <info>
     <title>Chinese Law Journal (note, noibid)</title>
     <title-short>Chinese Law Journal (note-noibid)</title-short>
