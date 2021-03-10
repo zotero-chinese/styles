@@ -319,6 +319,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`总是自动把关键词添加成标签，这是哪个插件生成的，能关掉吗[https://zhuanlan.zhihu.com/p/166085576](https://zhuanlan.zhihu.com/p/166085576)。
 
+    `Zotero`不用安装其它软件清理删除条目后残留的PDF方法见[https://zhuanlan.zhihu.com/p/356071795](https://zhuanlan.zhihu.com/p/356071795)。
+
     `Zotero`库中参考文献条目删除后，清除残留`PDF`的`python`脚本[https://zhuanlan.zhihu.com/p/121770068](https://zhuanlan.zhihu.com/p/121770068)。
 
     `Zotero`插入文献后为什么显示为脚注或尾注？[https://zhuanlan.zhihu.com/p/114768349](https://zhuanlan.zhihu.com/p/114768349)。
