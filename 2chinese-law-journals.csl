@@ -215,7 +215,7 @@
             <else-if type="webpage"><!--网页文献-->
               <!--<text macro="title" prefix=". "/>>-->
               <choose>
-               <if variable="issued-date">
+               <if variable="issued">
                 <text macro="issued-date" prefix="，"/>
               </if>
               </choose>
