@@ -2,19 +2,20 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
    <!-- 半成品，需要更多的文献类型测试，有需要请提供 -->
   <info>
-    <title>Chinese Law Journal (note, noibid)</title>
-    <title-short>Chinese Law Journal (note-noibid)</title-short>
+    <title>Chinese Law Journal (note, 中文)</title>
+    <title-short>Chinese Law Journal (note)</title-short>
     <id>http://www.zotero.org/styles/chinese-law-journals</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note-noibid" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
-    <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="http://www.zotero.org/styles/chinese-law-journals" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="template"/>
+    <link href="https://www.weibo.com/ttarticle/p/show?id=2309404436112734027798" rel="documentation"/>
+    <link href="https://colr.xmu.edu.cn/_upload/article/files/67/3c/bdf817f64039947a52276727ef01/082c41aa-fed1-4460-97fa-7f471901a879.pdf" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
+    </author>
+    <contributor>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
     </contributor>
     <category citation-format="note"/>
     <category field="generic-base"/>
@@ -51,7 +52,7 @@
         </names>
       </if>
       <else>
-        <text term="anonymous"/>
+      <!--   <text term="anonymous"/>-->
       </else>
     </choose>
   </macro>
@@ -83,7 +84,7 @@
       <label form="verb-short" prefix=", "/>
     </names>
   </macro>
-  <macro name="issued-date">
+  <macro name="issued-date"><!--中文年月日  -->
     <choose>
       <if variable="issued">
         <date variable="issued" delimiter="">
@@ -91,20 +92,6 @@
           <date-part name="month" form="numeric" suffix="月"/>
           <date-part name="day" suffix="日"/>
          <!--  <date-part name="day" form="numeric-leading-zeros"/>-->
-        </date>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-    <macro name="year-month-day"> <!--中文年月日  -->
-    <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="">
-          <date-part name="year" suffix="年"/>
-          <date-part name="month" form="numeric" suffix="月"/>
-          <date-part name="day" suffix="日"/>
         </date>
       </if>
       <else>
@@ -124,11 +111,11 @@
   </macro>
   <macro name="publishing">
     <choose>
-      <if variable="publisher" prefix="，">
+      <if variable="publisher">
         <group delimiter=": ">
           <!-- <text variable="publisher-place"/>  -->
           <group delimiter="">
-            <text variable="publisher"/>
+            <text variable="publisher" prefix="，"/>
             <text macro="issue-date-year" suffix="年版"/>
           </group>
         </group>
@@ -154,7 +141,6 @@
  
   <macro name="title">
     <text variable="title" text-case="title" prefix="《" suffix="》" />
-
   </macro>
   <macro name='full-contents'>
     <text macro="author" suffix="："/>
@@ -163,10 +149,10 @@
             <if type="book bill chapter legislation paper-conference report" match="any">
               <text macro="editor" prefix="，载"/>
               <choose>
-                <if variable="container-title" prefix="《" suffix="》">
+                <if variable="container-title">
                   <text value="//"/>
                   <text macro="container-author" suffix="："/>
-                  <text variable="container-title" suffix=". " text-case="title"/>
+                  <text variable="container-title"  text-case="title" prefix="《" suffix="》"/>
                 </if>
                 <else>
                   <text value=". "/>
@@ -194,7 +180,7 @@
               <choose>
                 <if variable="container-title">
                   <text variable="container-title" text-case="title"  prefix="载《" suffix="》"/>
-                  <text macro="year-month-day" prefix=""/>
+                  <text macro="issued-date" prefix=""/>
                   <text variable="page" prefix="第" suffix="页"/>
                 </if>
                 <else>
@@ -223,12 +209,22 @@
                 </choose>
               </group>
             </else-if><!--学位论文-->
-            <else-if type="patent">
-              <text macro="issued-date" prefix=". "/>
+           <!-- <else-if type="patent">
+              <text macro="issued-date" prefix="，"/>
+            </else-if>-->
+            <else-if type="webpage"><!--网页文献-->
+              <!--<text macro="title" prefix=". "/>>-->
+              <choose>
+               <if variable="issued-date">
+                <text macro="issued-date" prefix="，"/>
+              </if>
+              </choose>
+              <text variable="URL" prefix="，"/>
+              <text macro="accessed-date" prefix="，" suffix="访问"/>
             </else-if>
             <else>
-              <text macro="publishing" prefix=". "/>
-              <text macro="issued-date" prefix="(" suffix=")"/>
+              <text macro="publishing" prefix="，"/>
+              <text macro="issued-date" prefix="" suffix=""/>
             </else>
           </choose>
          <!--  <text macro="accessed-date"/>
