@@ -251,8 +251,8 @@
     <sort>
       <key variable="citation-number" sort="ascending"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" >
-      <text variable="citation-number" suffix="]"/>
+    <layout vertical-align="sup" delimiter="," prefix="["  suffix="]">
+      <text variable="citation-number"/>
       <group prefix="" suffix="">
         <label variable="locator" suffix="" form="short" strip-periods="true"/>
         <text variable="locator"/>
