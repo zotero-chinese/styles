@@ -171,11 +171,13 @@
     <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <choose>
+     <!-- 
+       <choose>
         <if variable="URL">
           <text value="OL"/>
         </if>
       </choose>
+       --> <!--删除将文献文献类型加OL-->
     </group>
   </macro>
   <macro name="bib-entry" >
@@ -220,7 +222,9 @@
           <text macro="issued-date" prefix="(" suffix=")"/>
         </else>
       </choose>
+     <!-- 
       <text macro="accessed-date"/>
+     --> <!--删除访问日期显示--> 
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
