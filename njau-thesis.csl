@@ -153,7 +153,7 @@
         <text value="P"/>
       </else-if>
       <else-if type="post-weblog webpage" match="any">
-        <text value="EB"/>
+        <text value="EB/OL"/>
       </else-if>
       <else-if type="report">
         <text value="R"/>
@@ -216,6 +216,14 @@
         </else-if>
         <else-if type="patent">
           <text macro="issued-date" prefix=". "/>
+        </else-if>
+        <else-if type="post-weblog webpage" match="any"> <!--webpage添加访问日期显示--> 
+          <group prefix=". ">
+            <text macro="container-title" prefix=". " suffix=". "/>
+            <text macro="issued-date" prefix="(" suffix=")"/>
+            <text macro="accessed-date"/>
+            <text variable="URL" prefix=". "/>
+           </group>
         </else-if>
         <else>
           <text macro="publishing" prefix=". "/>
