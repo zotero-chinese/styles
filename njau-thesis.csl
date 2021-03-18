@@ -185,7 +185,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation report thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -200,6 +200,22 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if> 
+        <else-if type="paper-conference" match="any"><!-- 会议论文-->
+            <text macro="editor" prefix=". "/>
+            <choose>
+              <if variable="container-title">
+                <text value="//"/>
+                <text macro="container-author" suffix=". "/>
+                <text variable="container-title" suffix=". " text-case="title"/>
+              </if>
+              <else>
+                <text value=". "/>
+              </else>
+            </choose>
+            <text macro="edition" suffix=". "/>
+            <text macro="publishing"/>
+            <text macro="serial-information" prefix=""/>
+          </else-if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
