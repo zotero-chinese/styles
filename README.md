@@ -259,6 +259,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`重装系统后Word工具条恢复的方法见[https://zhuanlan.zhihu.com/p/350567611](https://zhuanlan.zhihu.com/p/350567611)。
 
+    `Zotero`Word中插入文献时如何默认打开经典视图见[https://zhuanlan.zhihu.com/p/358078407](https://zhuanlan.zhihu.com/p/358078407)。
+
     `Zotero`利用JavaScript备份配置和数据见[https://zhuanlan.zhihu.com/p/357859432](https://zhuanlan.zhihu.com/p/357859432)。
 
     `Zotero`设置的备份与恢复见[https://zhuanlan.zhihu.com/p/350546813](https://zhuanlan.zhihu.com/p/350546813)。
