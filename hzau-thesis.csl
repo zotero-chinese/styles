@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with="" name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>hzau-thesis华中农业大学硕博论文</title>
@@ -187,7 +187,7 @@
         <text value="R"/>
       </else-if>
       <else-if type="thesis">
-        <text value="D"/>
+        <text variable="genre" suffix="学位论文"/>
       </else-if>
       <else>
         <text value="Z"/>
@@ -196,7 +196,9 @@
   </macro>
   <macro name="title">
     <text variable="title" text-case=""/>
-    <text variable="number" prefix=": "/>
+
+    <!--  <text variable="number" prefix=": "/> -->
+    <!-- 
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -204,20 +206,20 @@
           <text value="OL"/>
         </if>
       </choose>
-    </group>
+    </group>-->
   </macro>
-  <macro name="bib-entry" >
-   <text variable="citation-number" prefix="[" suffix="] "/> 
+  <macro name="bib-entry-cn" >
+   <text variable="citation-number" prefix="" suffix=". "/> 
       <text macro="author" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation paper-conference report" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title-short" font-style="italic" form ="short" suffix=". " text-case="title"/>
             </if>
             <else>
               <text value=". "/>
@@ -226,12 +228,26 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if> 
+        <else-if type="thesis"><!--学位论文-->
+              <group prefix=". ">
+                
+                   <!-- <text macro="serial-information" suffix=". "/>-->
+                   <group delimiter="">
+                      <text variable="genre" prefix="[" suffix="学位论文]. "/>
+                      <text variable="publisher-place" suffix=": "/>
+                      <text variable="publisher"/>
+                      <text variable="archive_location" prefix=" "/>
+                      <text macro="issue-date-year" prefix="，"/>
+                     </group>
+                   <!--  <text macro="publishing"/>-->
+              </group>
+            </else-if><!--学位论文-->
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
+                <text variable="container-title-short" font-style="italic" form ="short" text-case="title"/>
+                <text macro="serial-information" prefix=""/>
               </if>
               <else>
                 <text macro="serial-information" suffix=". "/>
@@ -248,9 +264,67 @@
           <text macro="issued-date" prefix="(" suffix=")"/>
         </else>
       </choose>
-      <text macro="accessed-date"/>
+      <!--<text macro="accessed-date"/> 访问日期-->
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+   <macro name="bib-entry-en" >
+   <text variable="citation-number" prefix="" suffix=". "/> 
+      <text macro="author" suffix=". "/>
+      <text macro="title" text-case=""/>
+      <choose>
+        <if type="book bill chapter legislation paper-conference report" match="any">
+          <text macro="editor" prefix=". "/>
+          <choose>
+            <if variable="container-title">
+              <text value="//"/>
+              <text macro="container-author" suffix=". "/>
+              <text variable="container-title-short" font-style="italic" form ="short" suffix=". " text-case="title"/>
+            </if>
+            <else>
+              <text value=". "/>
+            </else>
+          </choose>
+          <text macro="edition" suffix=". "/>
+          <text macro="publishing"/>
+        </if> 
+        <else-if type="thesis"><!--学位论文-->
+              <group prefix=". ">
+                
+                   <!-- <text macro="serial-information" suffix=". "/>-->
+                   <group delimiter="">
+                      <text variable="genre" prefix="(" suffix="dissertation). "/>
+                      <text variable="publisher-place" suffix=": "/>
+                      <text variable="publisher"/>
+                      <text variable="archive_location" prefix=" "/>
+                      <text macro="issue-date-year" prefix="，"/>
+                     </group>
+                   <!--  <text macro="publishing"/>-->
+              </group>
+            </else-if><!--学位论文-->
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <group prefix=". ">
+            <choose>
+              <if variable="container-title">
+                <text variable="container-title-short" font-style="italic" form ="short" text-case="title"/>
+                <text macro="serial-information" prefix=". "/>
+              </if>
+              <else>
+                <text macro="serial-information" suffix=". "/>
+                <text macro="publishing"/>
+              </else>
+            </choose>
+          </group>
+        </else-if>
+        <else-if type="patent">
+          <text macro="issued-date" prefix=". "/>
+        </else-if>
+        <else>
+          <text macro="publishing" prefix=". "/>
+          <text macro="issued-date" prefix="(" suffix=")"/>
+        </else>
+      </choose>
+      <!--<text macro="accessed-date"/> 访问日期-->
+  </macro>
+  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
@@ -276,12 +350,15 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="21" et-al-use-first="20" line-spacing="1" second-field-align="flush">
+   <sort>
+     <key variable="language" sort="ascending"/> 
+    </sort>
     <layout locale="en">
-    <text macro="bib-entry" suffix="."/>
+    <text macro="bib-entry-en" suffix=""/>
     </layout>
     <layout>
-    <text macro="bib-entry" suffix="."/>
+    <text macro="bib-entry-cn" suffix=""/>
     </layout>
   </bibliography>
 </style>

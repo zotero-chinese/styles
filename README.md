@@ -175,19 +175,23 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 * ## [hzau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/hzau-thesis.csl)
 
     [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
-    学位论文，规则见[http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。序号用[ ]包围，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
+    学位论文，规则见[http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。
+    中文文献排在前面，英文文献排在后面（需要在条目中将```language```英文设为```en```，中文为```中文```，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过```20```个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。待提供更多文献类型进行测试。
 
     显示效果：
 >> ```
->>（Zhang et al 2020, 唐霄等 2019）
->>（Wu et al 2016）
->>（朱磊等 2020）
+>>（杨赫鸿等 2012, Ebert et al 2021, He et al 2013）
+
+>>（刘克德 1998）
 
 
->> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.	<br>
->>[2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
->>[3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
->>[4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.	
+
+>> 1. 杨赫鸿, 李沛军, 孔保华, 刘骞, 李菁. 低场核磁共振技术在肉品科学研究中的应用. 2012(13): 400–405	<br>
+>>2. 刘克德. 水稻广亲和性遗传基础的全基因组分析及 S5 位点区 段部分物理图谱的构建. [博士学位论文]. 武汉: 华中农业大学，1998	<br>
+>>3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. Food Hydro. 2021, 113: 106388<br>	
+>>4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. Inn Food Sci & EmerTech. 2013, 18: 237–245	
+
+	
 >> ```
 
 
