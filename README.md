@@ -176,7 +176,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
     学位论文，规则见[http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。
-    中文文献排在前面，英文文献排在后面（需要在条目中将```language```英文设为```en```，中文为```中文```，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过```20```个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。待提供更多文献类型进行测试。
+    中文文献排在前面，英文文献排在后面（需要在条目中将```language```英文设为```en```，中文为```中文```，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过```20```个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。期刊名称为斜体，缩写（需要将期刊缩写放在```Zotero```条目```Info```的```Journal Abbr```的字段才会缩写）。待提供更多文献类型进行测试。
 
     显示效果：
 >> ```
