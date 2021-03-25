@@ -71,7 +71,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter="" and="text" et-al-min="3">
+          <name form="long"  delimiter="" and="text" et-al-min="3">
             <name-part name="family" text-case="capitalize-first"/>
           </name>
         </names>
@@ -219,7 +219,7 @@
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-author" suffix=". "/>
-              <text variable="container-title-short" font-style="italic" form ="short" suffix=". " text-case="title"/>
+              <text variable="container-title" font-style="italic" form ="short" suffix=". " text-case="title"/>
             </if>
             <else>
               <text value=". "/>
@@ -246,7 +246,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title-short" font-style="italic" form ="short" text-case="title"/>
+                <text variable="container-title" font-style="italic" form ="short"  suffix=". " text-case="title"/>
                 <text macro="serial-information" prefix=""/>
               </if>
               <else>
@@ -303,11 +303,12 @@
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
-              <if variable="container-title">
-                <text variable="container-title-short" font-style="italic" form ="short" text-case="title"/>
+              <if variable="container-title-short">
+                <text variable="container-title-short" font-style="italic" suffix="" text-case="title"/>
                 <text macro="serial-information" prefix=". "/>
               </if>
               <else>
+                <text variable="container-title" font-style="italic" suffix=". " text-case="title"/>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
               </else>
