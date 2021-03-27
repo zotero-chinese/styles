@@ -246,10 +246,10 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" font-style="italic" form ="short"  suffix=". " text-case="title"/>
+                <text variable="container-title" suffix=". " text-case="title"/>
                 <text macro="serial-information" prefix=""/>
               </if>
-              <else>
+             <else>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
               </else>
@@ -277,7 +277,7 @@
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-author" suffix=". "/>
-              <text variable="container-title-short" font-style="italic" form ="short" suffix=". " text-case="title"/>
+              <text variable="container-title-short" font-style="italic" suffix=". " text-case="title"/>
             </if>
             <else>
               <text value=". "/>
