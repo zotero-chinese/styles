@@ -148,7 +148,7 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <text variable="volume" prefix=", "/>
+      <text variable="volume" prefix=""/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
@@ -230,7 +230,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title"/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information" prefix=". "/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
