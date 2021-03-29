@@ -216,7 +216,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" form="short" text-case="title" font-style="normal" suffix=". "/>
+            <text variable="container-title" form="short" text-case="title" font-style="normal" suffix=", "/>
           </if>
           <else>
             <text value=". "/>
@@ -239,7 +239,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title" font-style="normal" suffix=". "/>
+              <text variable="container-title" text-case="title" font-style="normal" suffix=", "/>
               <text macro="serial-information" prefix=""/>
             </if>
             <else>
@@ -269,7 +269,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title-short" font-style="italic" suffix=". " text-case="title"/>
+            <text variable="container-title" font-style="italic" suffix=", " text-case="title"/>
           </if>
           <else>
             <text value=". "/>
@@ -290,18 +290,18 @@
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix=". ">
-          <choose>
+        <group prefix=". " delimiter=", ">
+         <!-- <choose>
             <if variable="container-title-short">
               <text variable="container-title-short" text-case="title" font-style="normal"/>
-              <text macro="serial-information" prefix=". "/>
+              <text macro="serial-information" prefix=", "/>
             </if>
-            <else>
-              <text variable="container-title" text-case="title" font-style="normal" suffix=". "/>
-              <text macro="serial-information" suffix=". "/>
+            <else>-->
+              <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
+              <text macro="serial-information" suffix=""/>
               <text macro="publishing"/>
-            </else>
-          </choose>
+            <!-- </else>
+          </choose>-->
         </group>
       </else-if>
       <else-if type="patent">
