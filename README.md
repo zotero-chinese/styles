@@ -19,7 +19,7 @@
 
 * ## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
 
-**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
+网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
 )样式，支持中文作者超过3个为`“等”`，英文为`“et al”。
 
   显示效果：
@@ -29,8 +29,8 @@
 >> （庞之列等, 2014）
 >> （He et al, 2013）
 
->> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展: 23[J]. 中国家禽. 2018, 40(23): 37–42.	<br>
->> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究: 04[J]. 食品科学. 2014(04): 142–145.	<br>
+>> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽. 2018, 40(23): 37–42.	<br>
+>> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学. 2014(04): 142–145.	<br>
 >> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International. 2014, 66: 123–131.<br>	
 [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies. 2013, 18: 237–245.	
 
