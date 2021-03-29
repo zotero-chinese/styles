@@ -269,7 +269,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" font-style="italic" suffix=", " text-case="title"/>
+            <text variable="container-title" suffix=", " text-case="title"/>
           </if>
           <else>
             <text value=". "/>
