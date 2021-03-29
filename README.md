@@ -20,7 +20,7 @@
 * ## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
-)样式，支持中文作者超过3个为`“等”`，英文为`“et al”。
+)样式，支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
   显示效果：
 >> ```
