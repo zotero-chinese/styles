@@ -7,15 +7,15 @@
     
     显示效果：
 >> ```
->>[1]
->>[2]
->>[3]
->>[4]
+>> [1]
+>> [2]
+>> [3]
+>> [4]
 
->>[1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
->>[2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
->>[3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
->>[4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
+>> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
+>> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
+>> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
+>> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
 * ## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
 
