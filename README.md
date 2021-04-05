@@ -37,7 +37,7 @@
 * ## [5swu-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/5swu-thesis.csl)
 
 网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
-)样式，正文中两个中文作者之间为`“和”`，英文作者为`“and”`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过3个为`“等”`，英文为`“et al”`。
+)样式，正文中两个中文作者之间为`“和”`，英文作者为`“and”`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
   显示效果：
 >> ```
@@ -48,8 +48,8 @@
 
 >> [1] 庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
 >> [2] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
->> [3] ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. Food Research International, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
->> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. PLOS ONE, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
+>> [3] ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+>> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
 
 
 
@@ -210,7 +210,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
     学位论文，规则见[http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。
-    中文文献排在前面，英文文献排在后面（需要在条目中将```language```英文设为```en```，中文为```中文```，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过```20```个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。期刊名称为斜体，缩写（需要将期刊缩写放在```Zotero```条目```Info```的```Journal Abbr```的字段才会缩写）。待提供更多文献类型进行测试。
+    中文文献排在前面，英文文献排在后面（需要在条目中将```language```英文设为```en```，中文为```中文```，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过```20```个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。英文期刊名称为斜体，缩写（需要将期刊缩写放在```Zotero```条目```Info```的```Journal Abbr```的字段才会缩写）。待提供更多文献类型进行测试。
 
     显示效果：
 >> ```
@@ -222,8 +222,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 >> 1. 杨赫鸿, 李沛军, 孔保华, 刘骞, 李菁. 低场核磁共振技术在肉品科学研究中的应用. 2012(13): 400–405	<br>
 >>2. 刘克德. 水稻广亲和性遗传基础的全基因组分析及 S5 位点区 段部分物理图谱的构建. [博士学位论文]. 武汉: 华中农业大学，1998	<br>
->>3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. Food Hydro. 2021, 113: 106388<br>	
->>4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. Inn Food Sci & EmerTech. 2013, 18: 237–245	
+>>3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. *Food Hydro*. 2021, 113: 106388<br>	
+>>4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. *Inn Food Sci & Emer Tech*. 2013, 18: 237–245	
 
 	
 >> ```
