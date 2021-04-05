@@ -192,7 +192,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title" text-case="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation report thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -207,6 +207,22 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
+        <else-if type="paper-conference" match="any"><!-- 会议论文-->
+            <text macro="editor" prefix=". "/>
+            <choose>
+              <if variable="event">
+                <text value="//"/>
+                <text variable="event" suffix=", "/>
+                <text variable="event-place" suffix=", " text-case=""/>
+              </if>
+              <else>
+                <text value=". "/>
+              </else>
+            </choose>
+            <text macro="edition" suffix=". "/>
+            <text macro="publishing"/>
+            <text macro="serial-information" prefix=""/>
+          </else-if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
@@ -240,7 +256,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation report thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -255,6 +271,22 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
+        <else-if type="paper-conference" match="any"><!-- 会议论文-->
+            <text macro="editor" prefix=". "/>
+            <choose>
+              <if variable="event">
+                <text value="//"/>
+                <text variable="event" suffix=", "/>
+                <text variable="event-place" suffix=", " text-case=""/>
+              </if>
+              <else>
+                <text value=". "/>
+              </else>
+            </choose>
+            <text macro="edition" suffix=". "/>
+            <text macro="publishing"/>
+            <text macro="serial-information" prefix=""/>
+          </else-if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
