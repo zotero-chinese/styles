@@ -200,13 +200,13 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if> 
-        <else-if type="paper-conference" match="any"><!-- 会议论文-->
+         <else-if type="paper-conference" match="any"><!-- 会议论文-->
             <text macro="editor" prefix=". "/>
             <choose>
-              <if variable="container-title">
+              <if variable="event">
                 <text value="//"/>
-                <text macro="container-author" suffix=". "/>
-                <text variable="container-title" suffix=". " text-case="title"/>
+                <text variable="event" suffix=", "/>
+                <text variable="event-place" suffix=", " text-case=""/>
               </if>
               <else>
                 <text value=". "/>
