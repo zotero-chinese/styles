@@ -37,7 +37,7 @@
 * ## [5swu-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/5swu-thesis.csl)
 
 网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
-)样式，正文中两个中文作者之间为`和`，英文作者为`and`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过3个为`等`，英文为`et al`。
+)样式，正文中两个中文作者之间为`“和”`，英文作者为`“and”`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
   显示效果：
 >> ```
