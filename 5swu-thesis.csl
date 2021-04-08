@@ -155,7 +155,7 @@
           <text variable="publisher-place"/>
           <group delimiter=", ">
             <text variable="publisher"/>
-			     <!--  <text macro="issue-date-year"/>-->
+			       <text macro="issue-date-year"/>
           </group>
         </group>
         <text variable="page" prefix=": "/>
@@ -211,7 +211,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case="title"/>
+    <text variable="title" text-case="capitalize-first"/>
    <!--  <text variable="number" prefix=": "/>-->
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
@@ -233,9 +233,8 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title-short" font-style="italic" suffix=". " text-case="title"/>
-			      <text macro="serial-information" prefix=""/>
-          </if>
+              <text variable="container-title" suffix=". " text-case="title"/>
+			    </if>
           <else>
             <text value=". "/>
           </else>
@@ -293,7 +292,7 @@
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
     </sort>
-    <layout locale="en" prefix="(" suffix=")" delimiter="; ">
+    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext"/>
         <text macro="issue-date-year"/>
@@ -303,7 +302,7 @@
         </group>
       </group>
     </layout>
-    <layout prefix="(" suffix=")" delimiter="; ">
+   <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>
