@@ -297,6 +297,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`重装系统后Word工具条恢复的方法见[https://zhuanlan.zhihu.com/p/350567611](https://zhuanlan.zhihu.com/p/350567611)。
 
+    `Zotero` Word工具条不出现如何解决见[https://zhuanlan.zhihu.com/p/365392235](https://zhuanlan.zhihu.com/p/365392235)。
+
     `Zotero`Word中插入文献时如何默认打开经典视图见[https://zhuanlan.zhihu.com/p/358078407](https://zhuanlan.zhihu.com/p/358078407)。
 
     `Zotero`中常用的一些批处理用的`JavaScript`脚本见[zotero-javascripts](https://github.com/redleafnew/zotero-javascripts)。
