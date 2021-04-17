@@ -333,6 +333,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     设置`ZotFile`支持重命名移动更多文件格式-以caj文件为例[https://zhuanlan.zhihu.com/p/340847784](https://zhuanlan.zhihu.com/p/340847784)。
 
+    今天安装了`ZotFile`插件，想请教一下大家怎么用它把以前导入的论文题目也给改过来见[https://zhuanlan.zhihu.com/p/365665469](https://zhuanlan.zhihu.com/p/365665469)。
+
     `Zotero`删除条目（题录）时同时删除`PDF`附件的另一方法[https://zhuanlan.zhihu.com/p/338159167](https://zhuanlan.zhihu.com/p/338159167)。
 
     `Zotero` `style csl`文件简单编辑参见[https://zhuanlan.zhihu.com/p/336009544](https://zhuanlan.zhihu.com/p/336009544)。
