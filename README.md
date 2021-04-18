@@ -52,6 +52,20 @@
 >> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
 
 
+* ## [6cma.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/6cma.csl)
+
+    中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。英文期刊名称为缩写，缩写使用方法：在Word的Zotero工具条上点击`Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击`Use MEDLINE journal abbreviations`前的复选框，使之选中，否则使用的缩写为`Zotero`中`Info`下面的`Journal Abbr`字段的内容。
+     
+     显示效果：
+>> ```
+>>[1]   [2,3]   [4] 
+
+>>[1]GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
+[2]BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
+>>[3]杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>	
+>>[4]ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+
+
 
 * ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
 
