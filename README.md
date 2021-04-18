@@ -54,7 +54,7 @@
 
 * ## [6cma.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/6cma.csl)
 
-    中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。英文期刊名称为缩写，缩写使用方法：在Word的Zotero工具条上点击`Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击`Use MEDLINE journal abbreviations`前的复选框，使之选中，否则使用的缩写为`Zotero`中`Info`下面的`Journal Abbr`字段的内容。
+    中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。英文期刊名称为缩写，缩写使用方法：在Word的Zotero工具条上点击`Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击`Use MEDLINE journal abbreviations`前的复选框，使之选中，则使用MEDLINE的缩写格式；如果这个缩写格式不适合，不要选中`Use MEDLINE journal abbreviations`，在`Zotero`中`Info`下面的`Journal Abbr`字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M`对杂志缩写处理选项更多。
      
      显示效果：
 >> ```
