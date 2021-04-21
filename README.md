@@ -329,6 +329,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`使参考文献列表中某些作者名字加粗，加星，刷新后保留见[https://zhuanlan.zhihu.com/p/353770101](https://zhuanlan.zhihu.com/p/353770101)。
 
+    `Zotero`参考文献编号位数增加后如何对齐见[https://zhuanlan.zhihu.com/p/366711117](https://zhuanlan.zhihu.com/p/366711117)。
+
     `Zotero`中使用`GB/7714-2015`相关`csl`时文末显示的访问日期如何隐藏？[https://zhuanlan.zhihu.com/p/349555378](https://zhuanlan.zhihu.com/p/349555378)。
 
     `Zotero`右键菜单中为什么没有`Find Available PDF`？[https://zhuanlan.zhihu.com/p/348697024](https://zhuanlan.zhihu.com/p/348697024)。
