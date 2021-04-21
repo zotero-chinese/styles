@@ -393,9 +393,9 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`中安装了`Zotfile`后删除文献后清除`PDF`附件的小程序[https://zhuanlan.zhihu.com/p/109531298](https://zhuanlan.zhihu.com/p/109531298)。
 
-    `Zotero`中页码范围由“–”改为“-”。[https://zhuanlan.zhihu.com/p/101884972](https://zhuanlan.zhihu.com/p/101884972)。
+    `Zotero`中页码范围由“–”改为“-”见[https://zhuanlan.zhihu.com/p/101884972](https://zhuanlan.zhihu.com/p/101884972)。
 
-    `Zotero`中日期间隔符号由“–”改为“-”[https://zhuanlan.zhihu.com/p/366504227](https://zhuanlan.zhihu.com/p/366504227)。
+    `Zotero`中日期间隔符号由“–”改为“-”见[https://zhuanlan.zhihu.com/p/366504227](https://zhuanlan.zhihu.com/p/366504227)。
 
     `Zotero`有权限时在导入`CNKI`题录时同时下载全文的方法[https://zhuanlan.zhihu.com/p/90638718](https://zhuanlan.zhihu.com/p/90638718)。
 
