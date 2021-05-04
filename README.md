@@ -290,7 +290,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
     使用详情参见[基于`GB/T-7714-2015`的`Style`实现同时生成`et al`和`等`的方法](https://zhuanlan.zhihu.com/p/320253145)，
     或[`Zotero`修改版终于可以原生支持同时生成`et al`和`等`了](https://zhuanlan.zhihu.com/p/314928204)。
 
-    批量修改语言参见[https://zhuanlan.zhihu.com/p/341989158](https://zhuanlan.zhihu.com/p/341989158)。
+    批量修改语言：可以使用delitemwithatt插件，到[https://github.com/redleafnew/delitemwithatt](https://github.com/redleafnew/delitemwithatt)下载插件并安装,
+    选择需要修改的条目后，右击，选择“将语言字段设为en”即可。其他方法参见[https://zhuanlan.zhihu.com/p/341989158](https://zhuanlan.zhihu.com/p/341989158)。
 
     `Github`文件的下载方法也可见[https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html](https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html)。
 
