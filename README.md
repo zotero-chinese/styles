@@ -372,6 +372,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`参考文献列表只出现一个作者，然后就是等了，怎么样出现全部作者的名字见[https://zhuanlan.zhihu.com/p/367609914](https://zhuanlan.zhihu.com/p/367609914)。
 
+    `Zotero` 如何使用期刊缩写名称见[https://zhuanlan.zhihu.com/p/372247762](https://zhuanlan.zhihu.com/p/372247762)。
+
     `Zotero`批量修改条目（文献）语言[https://zhuanlan.zhihu.com/p/341989158](https://zhuanlan.zhihu.com/p/341989158)。
 
     `Word`中的文献如何导入到`Zotero`库中[https://zhuanlan.zhihu.com/p/309597293](https://zhuanlan.zhihu.com/p/309597293)。
