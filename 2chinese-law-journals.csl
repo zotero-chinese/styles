@@ -77,7 +77,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-            <name initialize="false">
+            <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
             <name-part name="family" text-case=""/>
             <name-part name="given"/>
           </name>
@@ -199,27 +199,6 @@
       </if>
     </choose>
   </macro>
-  <macro name="publishing-en">
-    <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <!-- <text variable="publisher-place"/>  -->
-          <group delimiter="">
-            <text variable="publisher" prefix=", "/>
-            <text macro="issue-date-year" suffix=""/>
-          </group>
-        </group>
-        <choose>
-          <if variable="locator">
-            <text variable="locator" prefix=": "/>
-          </if>
-          <else>
-            <text variable="page" prefix=": "/>
-          </else>
-        </choose>
-      </if>
-    </choose>
-  </macro>
   <macro name="publishing">
     <choose>
       <if variable="publisher">
@@ -249,15 +228,15 @@
      
     </group>
     <!-- <text variable="issue" prefix="第" suffix="期"/>删除期-->
-    
-  </macro>
+   </macro>
+
   <macro name="serial-information">
-    <group delimiter="">
+    <group delimiter="，">
       <text macro="issue-date-year" suffix="年"/>
     <!--  <text variable="volume" prefix="第" suffix="卷"/> 删除卷-->
-    </group>
     <text variable="issue" prefix="第" suffix="期"/>
     <text variable="page" prefix="第" suffix="页"/>
+  </group>
   </macro>
    <macro name="title-en">
     <text variable="title" text-case="title" prefix="" suffix="" />
@@ -377,8 +356,8 @@
               <text macro="edition" suffix="。"/>
               <text macro="publishing"/>
             </if>
-            <else-if type="article-journal article-magazine" match="any">
-              <group prefix="：">
+            <else-if type="article-journal article-magazine" match="any"> <!--期刊-->
+              <group prefix="，">
                 <choose>
                   <if variable="container-title">
                     <text variable="container-title" text-case="title" prefix="载《" suffix="》"/>
