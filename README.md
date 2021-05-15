@@ -17,6 +17,37 @@
 >> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
 >> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
+* ## [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)
+
+[法学引注手册（2019年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
+
+存在问题：英文学位论文年后面应该为`)`，现在显示为`]`；对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
+
+  显示效果：
+>> ```
+>>期刊中文12  
+>>期刊英文345   
+>>书籍中文67  
+>>书籍英文89  
+>>博士中文1011  
+>>博士英文1213  
+
+
+  >>1 魏治勋, 汪潇：《“法治中国”如何吸收和融通西方制度文化资源》：载《西北大学学报(哲学社会科学版)》2016年第06期第59–68页。<br>
+ >> 2 同上。<br>
+ >> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
+ >> 4 Id.<br>
+ >> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
+ >> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
+ >> 7 同上p.26。<br>
+  >>8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
+ >> 9 Id.p.20.<br>
+ >> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
+ >> 11 同上p.20。<br>
+ >> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017].<br>
+  >>13 Id.p.20.<br>
+
+
 * ## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
