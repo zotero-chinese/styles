@@ -33,7 +33,7 @@
 >>博士英文1213  
 
 
-  >>1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年第06期第59–68页。<br>
+  >>1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
  >> 2 同上。<br>
  >> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
  >> 4 Id.<br>
