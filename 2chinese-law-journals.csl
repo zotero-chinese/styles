@@ -20,7 +20,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>中国法学引注</summary>
-    <updated>2021-03-09T00:44:28+00:00</updated>
+    <updated>2021-05-16T00:44:28+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -61,9 +61,9 @@
       <if variable="author">
         <names variable="author">
             <name initialize="false">
-              <group delimiter=", ">
+              <group delimiter="">
                 <name-part name="given"/>
-                <name-part name="family" text-case="uppercase"/>
+                <name-part name="family" text-case=""/>
               </group>
             </name>
         </names>
@@ -91,9 +91,9 @@
     <macro name="container-author-en">
     <names variable="container-author reviewed-author">
             <name initialize="false">
-              <group delimiter=", ">
+              <group delimiter="">
                 <name-part name="given"/>
-                <name-part name="family" text-case="uppercase"/>
+                <name-part name="family" text-case=""/>
               </group>
             </name>
       <!-- <label form="verb-short" prefix=", "/> -->
@@ -102,7 +102,7 @@
   <macro name="container-author">
     <names variable="container-author reviewed-author">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family" text-case=""/>
         <name-part name="given"/>
       </name>
       <!-- <label form="verb-short" prefix=", "/> -->
