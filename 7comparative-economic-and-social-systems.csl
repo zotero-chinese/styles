@@ -46,7 +46,22 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name>
+          <name initialize-with="." and="symbol" delimiter-precedes-last="never">
+            <name-part name="family" text-case="capitalize-first"/>
+            <name-part name="given"/>
+          </name>
+        </names>
+      </if>
+      <else>
+        <text term="anonymous"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author-cn">
+    <choose>
+      <if variable="author">
+        <names variable="author">
+          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
             <name-part name="family" text-case="capitalize-first"/>
             <name-part name="given"/>
           </name>
@@ -223,7 +238,7 @@
  </macro>
   <!-- 中文文末显示设置-->
   <macro name="bib-full" suffix="。">
-    <text macro="author" suffix=", "/>
+    <text macro="author-cn" suffix=", "/>
     <text macro="issue-date-year" suffix="："/>
     <text macro="title-cn"/>
     <choose>
