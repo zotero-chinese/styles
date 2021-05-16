@@ -112,11 +112,11 @@
   >>（Cavanna et al., 2019） 
   >>（何宇超等, 2020）
 
-  >>何宇超, 程琪琪, 吴莉, 等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
-  >>唐霄, 孙杨赢, 江雪婷, 等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
-  >>王琰, 曾新安, 蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
-  >>Cavanna D, Zanardi S, Dall’Asta C, et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
-  >>Yang H, Han M, Wang X, et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
+  >>何宇超、程琪琪、吴莉等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
+  >>唐霄、孙杨赢、江雪婷等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
+  >>王琰、 曾新安、蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
+  >>Cavanna D., Zanardi S., Dall’Asta C., et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
+  >>Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
 
 
 
