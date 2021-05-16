@@ -151,8 +151,8 @@
   </macro>
   
   <macro name="serial-information">
-    <group delimiter=", ">
-      <text variable="volume" prefix=", "/>
+    <group delimiter=", " prefix=". ">
+      <text variable="volume"/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
@@ -198,7 +198,7 @@
         <text macro="publishing"/>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix=". ">
+        <group prefix=" ">
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="italic" prefix=" "/>
