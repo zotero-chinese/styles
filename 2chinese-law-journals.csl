@@ -61,10 +61,11 @@
       <if variable="author">
         <names variable="author">
             <name initialize="false">
-              <group delimiter="">
+             <!-- <group delimiter="">
                 <name-part name="given"/>
-                <name-part name="family" text-case=""/>
-              </group>
+                 <name-part name="family" text-case=""/>
+                <name-part name="given"/>
+              </group>-->
             </name>
         </names>
       </if>
