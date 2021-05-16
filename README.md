@@ -100,23 +100,23 @@
 
 * ## [7comparative-economic-and-social-systems.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/7comparative-economic-and-social-systems.csl)
 
-[经济社会体制比较](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。
+  [《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个layout，在csl中设置为text-case="capitalize-first"时
-所有单词都会大写，设置为text-case="title"时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与Zotero中Title字段相同。
+  存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个`layout`，在`csl`中设置为`text-case="capitalize-first"`时
+  所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与`Zotero`中`Title`字段相同。
 
-显示效果：
->> ```
->>（王琰等, 2021）
+  显示效果：
+  >> ```
+  >>（王琰等, 2021）
+  >>（唐霄等, 2019; Yang et al., 2015）
+  >>（Cavanna et al., 2019） 
+  >>（何宇超等, 2020）
 
->>（唐霄等, 2019; Yang et al., 2015）
->>（Cavanna et al., 2019） 
->>（何宇超等, 2020）
->>何宇超, 程琪琪, 吴莉, 等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
->>唐霄, 孙杨赢, 江雪婷, 等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
->>王琰, 曾新安, 蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
->>Cavanna D, Zanardi S, Dall’Asta C, et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
->>Yang H, Han M, Wang X, et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
+  >>何宇超, 程琪琪, 吴莉, 等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
+  >>唐霄, 孙杨赢, 江雪婷, 等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
+  >>王琰, 曾新安, 蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
+  >>Cavanna D, Zanardi S, Dall’Asta C, et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
+  >>Yang H, Han M, Wang X, et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
 
 
 
