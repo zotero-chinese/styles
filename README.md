@@ -425,7 +425,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`参考文献列表只出现一个作者，然后就是等了，怎么样出现全部作者的名字见[https://zhuanlan.zhihu.com/p/367609914](https://zhuanlan.zhihu.com/p/367609914)。
 
-    `Zotero`et al或等前的逗号如果删除见[https://zhuanlan.zhihu.com/p/372796326](https://zhuanlan.zhihu.com/p/372796326)。
+    `Zotero`et al或等前的逗号如何删除见[https://zhuanlan.zhihu.com/p/372796326](https://zhuanlan.zhihu.com/p/372796326)。
 
     `Zotero` 如何使用期刊缩写名称见[https://zhuanlan.zhihu.com/p/372247762](https://zhuanlan.zhihu.com/p/372247762)。
 
