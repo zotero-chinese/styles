@@ -417,6 +417,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     不显示参考文献中的`URL`网址的方法见[https://zhuanlan.zhihu.com/p/328773377](https://zhuanlan.zhihu.com/p/328773377)。
 
+   `Zotero`自己的style或translator总是被恢复为官方的怎么办？见[[Zotero]自己的style或translator总是被恢复为官方的怎么办？](https://zhuanlan.zhihu.com/p/367843528)。
+
     彻底解决参考文献显示网址及DOI问题见[https://zhuanlan.zhihu.com/p/355842318](https://zhuanlan.zhihu.com/p/355842318)。
 
     `Zotero`直接同时生成“等”和“et al”(视频讲解)[https://zhuanlan.zhihu.com/p/342753388](https://zhuanlan.zhihu.com/p/342753388)。
