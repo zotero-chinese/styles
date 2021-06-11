@@ -91,10 +91,10 @@
 >> ```
 >>[1]   [2,3]   [4] 
 
->>[1]GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
-[2]BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
->>[3]杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>	
->>[4]ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+>>[1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
+[2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
+>>[3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>	
+>>[4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
 
 
 
