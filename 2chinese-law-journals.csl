@@ -60,8 +60,8 @@
     <choose>
       <if variable="author">
         <names variable="author">
-            <name initialize="false">
-            <group delimiter=""> <!----> 
+            <name initialize="false" initialize-with=".">
+             <group delimiter=""> <!----> 
                 <name-part name="given"/>
                  <name-part name="family" text-case=""/>
                 <name-part name="given"/>
