@@ -1,3 +1,9 @@
+<!--
+删除线 前后加 ~~
+斜体 前后加 *
+加粗 前后加 **
+email 前后加 __
+-->
 其它GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
@@ -44,7 +50,7 @@
  >> 9 Id.p.20.<br>
  >> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
  >> 11 同上p.20。<br>
- >> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017].<br>
+ >> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
   >>13 Id.p.20.<br>
 
 
