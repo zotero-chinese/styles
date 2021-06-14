@@ -184,7 +184,7 @@
       <if variable="publisher">
         <group delimiter=": ">
           <!-- <text variable="publisher-place"/>  -->
-          <group delimiter="">
+          <group delimiter=" ">
             <text variable="publisher" prefix=", "/>
             <text macro="issue-date-year" suffix=""/>
           </group>
@@ -249,7 +249,7 @@
  <macro name='full-contents-en'>
     <text macro="author-en" suffix="："/>
           <text macro="title-en" font-style="italic"/>
-          <choose>
+          <choose>  <!-- 书籍-->
             <if type="book bill chapter legislation paper-conference report" match="any">
               <text macro="editor" prefix=", "/>
               <choose>
@@ -259,7 +259,7 @@
                   <text variable="container-title"  text-case="title" prefix="" suffix=""/>
                 </if>
                 <else>
-                  <text value=". "/>
+                  <text value=""/>
                 </else>
               </choose>
               <text macro="edition" suffix=". "/>
@@ -338,6 +338,7 @@
             <text variable="DOI" prefix="DOI:"/>
           </group>-->
   </macro>
+    <!-- 中文引用格式-->
   <macro name='full-contents-cn'>
     <text macro="author" suffix="："/>
           <text macro="title"/>
