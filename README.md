@@ -21,7 +21,7 @@
 
 [法学引注手册（2019年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
 
-存在问题：英文学位论文年后面应该为`)`，现在显示为`]`；对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
+存在问题：~~英文学位论文年后面应该为`)`，现在显示为`]`；~~对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
 
   显示效果：
 >> ```
@@ -122,7 +122,7 @@
 
   武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)基础上修改。
 
-  存在问题：年代后面的`]`应该为`)`。
+  ~~存在问题：年代后面的`]`应该为`)`。~~
 
 
      显示效果：
@@ -130,8 +130,8 @@
  >>1
  >>2
  
->>〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018].<br>
->>〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1] Journal of Corporate Accounting & Finance 17–21 (2014].<br>
+>>〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
+>>〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 
 
 
