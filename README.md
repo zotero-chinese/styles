@@ -118,6 +118,21 @@
   >>Cavanna D., Zanardi S., Dall’Asta C., et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
   >>Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
 
+* ## [8whu-school-of-law.csl]https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/8whu-school-of-law.csl)
+
+  武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)基础上修改。
+
+  存在问题：年代后面的`]`应该为`)`。
+
+
+     显示效果：
+>> ```
+ >>1
+ >>2
+ 
+>>〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018].<br>
+>>〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1] Journal of Corporate Accounting & Finance 17–21 (2014].<br>
+
 
 
 * ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
