@@ -184,9 +184,9 @@
       <if variable="publisher">
         <group delimiter=": ">
           <!-- <text variable="publisher-place"/>  -->
-          <group delimiter=" ">
-            <text variable="publisher" prefix=", "/>
-            <text macro="issue-date-year" suffix=""/>
+          <group delimiter=" " prefix=", "  suffix="">
+            <text variable="publisher"/>
+            <text macro="issue-date-year-en"/>
           </group>
         </group>
         <choose>
