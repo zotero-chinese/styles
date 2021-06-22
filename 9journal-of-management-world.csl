@@ -33,6 +33,12 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
+       <term name="page-range-delimiter">~</term>
+    </terms>
+  </locale>
+  <locale xml:lang="en">
+    <terms>
+      <term name="page-range-delimiter">~</term>
     </terms>
   </locale>
   <macro name="accessed-date">
