@@ -46,7 +46,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize-with="." and="symbol" delimiter-precedes-last="never">
+          <name initialize-with="." and="" delimiter-precedes-last="never">
             <name-part name="family" text-case="capitalize-first"/>
             <name-part name="given"/>
           </name>
@@ -180,11 +180,11 @@
     </choose>
   </macro>
   <macro name="serial-information">
-    <group delimiter=", " prefix=", ">
-        <text variable="volume" prefix="vol. "/>
-        <text variable="page" prefix="pp. "/>
+    <group delimiter="" prefix=", ">
+        <text variable="volume" prefix=""/>
+        <text variable="issue" prefix="(" suffix=")"/>
     </group>
-    <!-- <text variable="issue" prefix="(" suffix=")"/> 期不显示--> 
+    <text variable="page" prefix=", pp. "/><!--  期不显示--> 
     
   </macro>
   
