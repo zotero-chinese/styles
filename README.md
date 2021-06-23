@@ -8,99 +8,99 @@ email 前后加 __
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
-[china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
-基础上修改，作者首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`，locator页码在括号外面，报纸为出版日期，不改变Zotero中Title大小写，类型将不显示OL，书籍的日期不显示，不显示URL，不显示DOI。
-    
-    显示效果：
->> ```
->> [1]
->> [2]
->> [3]
->> [4]
+  [china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
+  基础上修改，作者首字母大写，支持中文作者超过3个为`“等”`，英文为`“et al”`，locator页码在括号外面，报纸为出版日期，不改变Zotero中Title大小写，类型将不显示OL，书籍的日期不显示，不显示URL，不显示DOI。
+      
+      显示效果：
+  >> ```
+  >> [1]
+  >> [2]
+  >> [3]
+  >> [4]
 
->> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
->> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
->> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
->> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
+  >> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
+  >> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
+  >> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
+  >> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
 * ## [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)
 
-[法学引注手册（2019年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
+  [法学引注手册（2019年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
 
-存在问题：~~英文学位论文年后面应该为`)`，现在显示为`]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
+  存在问题：~~英文学位论文年后面应该为`)`，现在显示为`]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
 
-  显示效果：
->> ```
->>期刊中文12  
->>期刊英文345   
->>书籍中文67  
->>书籍英文89  
->>博士中文1011  
->>博士英文1213  
+    显示效果：
+  >> ```
+  >>期刊中文12  
+  >>期刊英文345   
+  >>书籍中文67  
+  >>书籍英文89  
+  >>博士中文1011  
+  >>博士英文1213  
 
 
-  >>1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
- >> 2 同上。<br>
- >> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
- >> 4 Id.<br>
- >> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
- >> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
- >> 7 同上p.26。<br>
-  >>8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
- >> 9 Id.p.20.<br>
- >> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
- >> 11 同上p.20。<br>
- >> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
-  >>13 Id.p.20.<br>
+    >>1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
+  >> 2 同上。<br>
+  >> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
+  >> 4 Id.<br>
+  >> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
+  >> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
+  >> 7 同上p.26。<br>
+    >>8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
+  >> 9 Id.p.20.<br>
+  >> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
+  >> 11 同上p.20。<br>
+  >> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
+    >>13 Id.p.20.<br>
 
 
 * ## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
 
-网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
-)样式，中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过3个为`“等”`，英文为`“et al”`。
+  网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
+  )样式，中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
-  显示效果：
->> ```
->> （Berhe et al, 2014）
->> （王越溪和王鹏, 2018）
->> （庞之列等, 2014）
->> （He et al, 2013）
+    显示效果：
+  >> ```
+  >> （Berhe et al, 2014）
+  >> （王越溪和王鹏, 2018）
+  >> （庞之列等, 2014）
+  >> （He et al, 2013）
 
->> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽, 2018, 40(23): 37–42.	<br>
->> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142–145.	<br>
->> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International, 2014, 66: 123–131.<br>	
-[4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.	
+  >> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽, 2018, 40(23): 37–42.	<br>
+  >> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142–145.	<br>
+  >> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International, 2014, 66: 123–131.<br>	
+  [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.	
 
 * ## [5swu-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/5swu-thesis.csl)
 
-网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
-)样式，正文中两个中文作者之间为`“和”`，英文作者为`“and”`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过3个为`“等”`，英文为`“et al”`。
+  网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
+  )样式，正文中两个中文作者之间为`“和”`，英文作者为`“and”`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过3个为`“等”`，英文为`“et al”`。
 
-  显示效果：
->> ```
->> (杨赫鸿等, 2012)
->> (ElMasry et al., 2011)
->> (庞之列和何栩晓, 2014)
->> (Gross et al., 2013)
+    显示效果：
+  >> ```
+  >> (杨赫鸿等, 2012)
+  >> (ElMasry et al., 2011)
+  >> (庞之列和何栩晓, 2014)
+  >> (Gross et al., 2013)
 
->> [1] 庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
->> [2] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
->> [3] ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
->> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
+  >> [1] 庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
+  >> [2] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
+  >> [3] ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+  >> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
 
 
 * ## [6cma.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/6cma.csl)
 
-    中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。英文期刊名称为缩写，缩写使用方法：在Word的Zotero工具条上点击`Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击`Use MEDLINE journal abbreviations`前的复选框，使之选中，则使用MEDLINE的缩写格式；如果这个缩写格式不适合，不要选中`Use MEDLINE journal abbreviations`，在`Zotero`中`Info`下面的`Journal Abbr`字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M`对杂志缩写处理选项更多。
-     
-     显示效果：
->> ```
->>[1]   [2,3]   [4] 
+      中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过3个为`“等”`，英文为`“et al”`。英文期刊名称为缩写，缩写使用方法：在Word的Zotero工具条上点击`Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击`Use MEDLINE journal abbreviations`前的复选框，使之选中，则使用MEDLINE的缩写格式；如果这个缩写格式不适合，不要选中`Use MEDLINE journal abbreviations`，在`Zotero`中`Info`下面的`Journal Abbr`字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M`对杂志缩写处理选项更多。
+      
+      显示效果：
+  >> ```
+  >>[1]   [2,3]   [4] 
 
->>[1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
-[2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
->>[3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>	
->>[4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+  >>[1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
+  [2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
+  >>[3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>	
+  >>[4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
 
 
 
@@ -126,18 +126,18 @@ email 前后加 __
 
 * ## [8whu-school-of-law.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/8whu-school-of-law.csl)
 
-  武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)基础上修改。
+    武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)基础上修改。
 
-  ~~存在问题：年代后面的`]`应该为`)`。~~
+    ~~存在问题：年代后面的`]`应该为`)`。~~
 
 
-     显示效果：
->> ```
- >>1
- >>2
- 
->>〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
->>〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
+      显示效果：
+  >> ```
+  >>1
+  >>2
+  
+  >>〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
+  >>〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 
 * ## [9journal-of-management-world.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/9journal-of-management-world.csl)   
 
