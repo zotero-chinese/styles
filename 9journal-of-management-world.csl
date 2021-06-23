@@ -263,7 +263,7 @@
    
     <text macro="title-cn"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+      <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -278,6 +278,14 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing-cn"/>
       </if>
+        <!-- 学位论文显示设置-->
+      <else-if type="thesis">
+        <group delimiter=""  prefix="，">
+          <text variable="publisher"/>
+          <text variable="genre" prefix="" suffix="学位论文"/>
+          <text macro="issue-date-year" prefix="，" suffix="年"/>
+        </group>
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix="，">
           <choose>
@@ -300,7 +308,7 @@
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <text macro="accessed-date"/>
+   <!-- <text macro="accessed-date"/>-->
  </macro>
  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
@@ -317,8 +325,8 @@
         </group>
       </group>
     </layout>
-    <layout prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
+    <layout prefix="（" suffix="）" delimiter="；">
+      <group delimiter="，">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>
         <group>
