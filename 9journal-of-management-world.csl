@@ -205,7 +205,7 @@
   </macro>
   
   <macro name="title">
-    <text variable="title" text-case="" prefix="“" suffix=".”"/>
+    <text variable="title" text-case="" prefix="“" suffix="”"/>
     <!-- comment <text variable="number" prefix=": "/> -->
   </macro>
 <macro name="title-cn">
