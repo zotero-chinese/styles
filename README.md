@@ -139,6 +139,27 @@ email 前后加 __
 >>〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
 >>〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 
+* ## [9journal-of-management-world.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/9journal-of-management-world.csl)   
+
+  [《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/7comparative-economic-and-social-systems.csl)基础上修改。
+
+  存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个`layout`，在`csl`中设置为`text-case="capitalize-first"`时
+    所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与`Zotero`中`Title`字段相同。
+    
+  显示效果：
+  >> ```
+  >>（康大成，2017）
+  >>（Chen et al., 2020）
+  >>（王静帆等，2021）
+  >>（Ebert et al., 2021）
+
+  >> 康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
+  > 王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第03期。<br>
+  >> Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure Homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
+  >> Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein Mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
+
+
+
 
 
 * ## [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)
