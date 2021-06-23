@@ -224,7 +224,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" suffix="  " font-style="italic" text-case="title"/>
+            <text variable="container-title" prefix=", " suffix="" font-style="italic" text-case="title"/>
           </if>
           <else>
             <text value=". "/>
@@ -234,10 +234,10 @@
         <text macro="publishing"/>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix=" ">
+        <group prefix="">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title" font-style="italic" prefix=" "/>
+              <text variable="container-title" text-case="title" font-style="italic" prefix=", "/>
               <text macro="serial-information" prefix=""/>
             </if>
             <else>
