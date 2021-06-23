@@ -218,7 +218,7 @@
     <text macro="issue-date-year" suffix=", "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+      <if type="book bill chapter legislation paper-conference thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -233,6 +233,27 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
       </if>
+       <!-- 英文报告显示设置-->
+      <else-if type="report">
+        <!--<text macro="editor" prefix=". "/>
+        <choose>
+          <if variable="container-title">
+            <text value="//"/>
+            <text macro="container-author" suffix=". "/>
+            <text variable="container-title" prefix=", " suffix="" font-style="italic" text-case="title"/>
+          </if>
+          <else>
+            <text value=". "/>
+          </else>
+        </choose>
+        <text macro="edition" suffix=". "/>
+         <text macro="publishing"/>-->
+         <group prefix=", " delimiter="">
+          <text variable="publisher" prefix="" suffix=""/>
+          <text variable="genre" prefix=" " suffix=""/>
+          <text variable="number" prefix=", No. " suffix=""/>
+         </group>
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix="">
           <choose>
@@ -255,7 +276,7 @@
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <text macro="accessed-date"/>
+  <!--  <text macro="accessed-date"/>-->
  </macro>
   <!-- 中文文末显示设置-->
   <macro name="bib-full" suffix="。">
