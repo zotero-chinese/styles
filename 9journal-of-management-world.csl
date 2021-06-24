@@ -363,6 +363,7 @@
         <key macro="author-intext"/>
         <key macro="issue-date-year" sort="ascending"/>
     </sort>
+    <text variable="citation-number" prefix="（" suffix="）"/>
     <layout suffix="." locale="en">
       <text macro="bib-full-en"/>
     </layout>
