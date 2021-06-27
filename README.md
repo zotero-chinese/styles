@@ -405,6 +405,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`便携版的安装与使用见[https://zhuanlan.zhihu.com/p/350797263](https://zhuanlan.zhihu.com/p/350797263)。
 
+    `Zotero`怎么调整条目显示的大小，总觉得太小了见[https://zhuanlan.zhihu.com/p/384398075](https://zhuanlan.zhihu.com/p/384398075)。
+
     `Zotero`重装系统后Word工具条恢复的方法见[https://zhuanlan.zhihu.com/p/350567611](https://zhuanlan.zhihu.com/p/350567611)。
 
     `Zotero` Word工具条不出现如何解决见[https://zhuanlan.zhihu.com/p/365392235](https://zhuanlan.zhihu.com/p/365392235)。
