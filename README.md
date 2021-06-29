@@ -6,6 +6,24 @@ email 前后加 __
 -->
 其它GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
 
+* ## [10economic-research-journal.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/10economic-research-journal.csl)
+
+[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/9journal-of-management-world.csl)基础上修改。
+
+      显示效果：
+  >> ```
+>> （康大成，2017）
+>> （Chen et al., 2020）
+>> （王静帆等，2021）
+>> （Ebert et al., 2021）
+
+>> 康大成，2017：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
+>> 王静帆、黄峰、沈青山等，2021：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》第03期。<br>
+>> Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, Trends in Food Science & Technology, 106, 12—29.<br>
+>> Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
+
+
+
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
   [china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
