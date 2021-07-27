@@ -503,6 +503,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`批量文章题目大小写转为首字母大写的方法（含视频）[https://zhuanlan.zhihu.com/p/283889592](https://zhuanlan.zhihu.com/p/283889592)。
 
+    `Zotero`作者姓名全部大写如何改为词首字母大写见[https://zhuanlan.zhihu.com/p/393454241](https://zhuanlan.zhihu.com/p/393454241)。
+
     `Zotero`作者姓名批量修改为首字母大写见[https://zhuanlan.zhihu.com/p/354481222](https://zhuanlan.zhihu.com/p/354481222)。
 
     `Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。
