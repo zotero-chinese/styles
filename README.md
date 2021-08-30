@@ -441,6 +441,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`数据的备份与恢复见[https://zhuanlan.zhihu.com/p/350549136](https://zhuanlan.zhihu.com/p/350549136)。
 
+     `Zotero`如何新建一个profile？[https://zhuanlan.zhihu.com/p/404906012](https://zhuanlan.zhihu.com/p/404906012)。
+
     `Zotero`批量删除（合并）重复文献见[https://zhuanlan.zhihu.com/p/352324486](https://zhuanlan.zhihu.com/p/352324486)。
 
     `Zotero`使参考文献列表中某些作者名字加粗，加星，刷新后保留见[https://zhuanlan.zhihu.com/p/353770101](https://zhuanlan.zhihu.com/p/353770101)。
