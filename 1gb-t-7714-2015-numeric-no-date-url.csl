@@ -20,7 +20,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>
-    <updated>2020-11-29T23:56:46+00:00</updated>
+    <updated>2021-09-18T23:56:46+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -216,9 +216,9 @@
             </choose>
             <text macro="edition" suffix=". "/>
             <text macro="publishing"/>
-            <text macro="serial-information" prefix=""/>
+           <!-- <text macro="serial-information" prefix=""/>-->
           </else-if>
-          <else-if type="article-journal article-magazine" match="any">
+          <else-if type="article-journal article-magazine" match="any"><!-- 期刊-->
             <group prefix=". ">
               <choose>
                 <if variable="container-title">
