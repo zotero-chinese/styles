@@ -545,12 +545,13 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`中`author`+`year`格式下，`et al`如何变为斜体？[https://zhuanlan.zhihu.com/p/64620849](https://zhuanlan.zhihu.com/p/64620849)。
 
-
     `Zotero`如何在`Word`中插入参考文献[https://zhuanlan.zhihu.com/p/62931860](https://zhuanlan.zhihu.com/p/62931860)。
 
     利用`Word`主控文档和`Zotero`实现一个文件多章参考文献（视频）见[https://zhuanlan.zhihu.com/p/358442718](https://zhuanlan.zhihu.com/p/358442718)。
 
     `Zotero`如何禁用笔记中的拼写检查？[https://zhuanlan.zhihu.com/p/62780758](https://zhuanlan.zhihu.com/p/62780758)。
+
+    `Zotero`如何批量删除条目中的笔记？[https://zhuanlan.zhihu.com/p/413057691](https://zhuanlan.zhihu.com/p/413057691)
 
     `Zotero`文章题目大小写转为首字母大写的方法[https://zhuanlan.zhihu.com/p/60651053](https://zhuanlan.zhihu.com/p/60651053)。
 
