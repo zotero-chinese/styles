@@ -22,6 +22,10 @@ email 前后加 __
 >> Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, Trends in Food Science & Technology, 106, 12—29.<br>
 >> Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
 
+* ## [13gb-t-7714-2015-author-date-ynu.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/13gb-t-7714-2015-author-date-ynu.csl)
+
+云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)基础上修改，网友@Sunny-27分享。文中引用中文两个作者之间为“和”，英文为“et”。
+
 
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
