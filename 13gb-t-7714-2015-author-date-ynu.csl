@@ -2,18 +2,19 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>China National Standard GB/T 7714-2015 (author-date, Chinese)-Ynu</title>
+    <title>GB/T 7714-2015 (author-date, Chinese)-Ynu</title>
     <title-short>GB/T 7714-2015 (author-date)</title-short>
-    <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date-chinese-ynu</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date-chinese-ynu" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-chinese-ynu</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-chinese-ynu" rel="self"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
     <contributor>
-      <name>Raymond</name>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
