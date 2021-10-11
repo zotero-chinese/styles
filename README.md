@@ -24,7 +24,20 @@ email 前后加 __
 
 * ## [13gb-t-7714-2015-author-date-ynu.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/13gb-t-7714-2015-author-date-ynu.csl)
 
-云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)基础上修改，网友@Sunny-27分享。文中引用中文两个作者之间为“和”，英文为“et”。
+  云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)基础上修改，网友@Sunny-27分享。文中引用中文两个作者之间为“和”，英文为“et”。
+
+      显示效果：
+    >> ```
+  >>（Lawal et al., 2018）
+  >>（白俊红和蒋伏心, 2015）
+  >>（LeSage et Pace, 2009）
+  >>（沙文兵, 2012）
+
+  >>白俊红, 蒋伏心. 2015. 协同创新、空间关联与区域创新绩效[J]. 经济研究. 50(07): 174–187.<br>
+  >>沙文兵. 2012. 对外直接投资、逆向技术溢出与国内创新能力——基于中国省际面板数据的实证研究[J]. 世界经济研究. (03): 69-74+89.<br>
+  >>Lawal I O, Ankrah A O, Popoola G O, et al. 2018. 18F-FDG-PET metabolic metrics and International Prognostic Score for risk assessment in HIV-infected patients with Hodgkin Lymphoma[J]. Nuclear Medicine Communications. 39(11): 1005–1012. DOI:10.1097/MNM.0000000000000905.<br>
+  >>LeSage J, Pace R K. 2009. Introduction to spatial Econometrics[M]. Chapman and Hall/CRC.<br>
+
 
 
 
