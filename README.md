@@ -11,7 +11,8 @@ email 前后加 __
 [《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/9journal-of-management-world.csl)基础上修改。
 
       显示效果：
-  >> ```
+      
+>> ```
 >> （康大成，2017）
 >> （Chen et al., 2020）
 >> （王静帆等，2021）
@@ -489,6 +490,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
     今天安装了`ZotFile`插件，想请教一下大家怎么用它把以前导入的论文题目也给改过来见[https://zhuanlan.zhihu.com/p/365665469](https://zhuanlan.zhihu.com/p/365665469)。
 
     `Zotero`删除条目（题录）时同时删除`PDF`附件的另一方法[https://zhuanlan.zhihu.com/p/338159167](https://zhuanlan.zhihu.com/p/338159167)。
+
+    `Zotero`如何将文件位置恢复到storage中？[https://zhuanlan.zhihu.com/p/420831288](https://zhuanlan.zhihu.com/p/420831288) 。
 
     `Zotero`安装ZotFile后删除条目和附件见[https://zhuanlan.zhihu.com/p/369141058](https://zhuanlan.zhihu.com/p/369141058)。
 
