@@ -495,6 +495,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`安装ZotFile后删除条目和附件见[https://zhuanlan.zhihu.com/p/369141058](https://zhuanlan.zhihu.com/p/369141058)。
 
+    `Zotero`不用代码不用其它软件清理使用ZotFile后删除条目剩余的游离附件[https://zhuanlan.zhihu.com/p/422215186](https://zhuanlan.zhihu.com/p/422215186)。
+
     `Zotero`如何设置打开PDF附件的软件[https://zhuanlan.zhihu.com/p/373952017](https://zhuanlan.zhihu.com/p/373952017)。
 
     `Zotero` `style csl`文件简单编辑参见[https://zhuanlan.zhihu.com/p/336009544](https://zhuanlan.zhihu.com/p/336009544)。
