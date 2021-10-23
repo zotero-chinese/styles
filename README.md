@@ -49,10 +49,10 @@ email 前后加 __
   显示效果：
 >> ```
 
->>[1]
->>[2]
->>[3]
->>[4]
+>>[1]<br>
+>>[2]<br>
+>>[3]<br>
+>>[4]<br>
 
 >>[1] 张若兵, 陈杰, 肖健夫, 等. 高压脉冲电场设备及其在食品非热处理中的应用[J]. 高电压技术, 2011, 37(03): 777–786.
 Zhang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and its application in non-thermal food processing[J]. High Voltage Engineering, 2011, 37(03): 777–786. (in Chinese with English abstract)<br>
