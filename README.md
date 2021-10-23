@@ -41,10 +41,10 @@ email 前后加 __
 
  * ## [14tcsae.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/14tcsae.csl)
  
- 与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了id，将代码中显示 ```OL```总分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
+ 与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了id，将代码中显示 ```OL```部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
         使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
 
-        存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在Word中查找```^l.^p```替换为```^p```批量删除。
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在Word中查找```^l.^p```替换为```^p```批量删除。
 
   显示效果：
 >> ```
