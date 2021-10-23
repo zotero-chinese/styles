@@ -39,7 +39,32 @@ email 前后加 __
   >>Lawal I O, Ankrah A O, Popoola G O, et al. 2018. 18F-FDG-PET metabolic metrics and International Prognostic Score for risk assessment in HIV-infected patients with Hodgkin Lymphoma[J]. Nuclear Medicine Communications. 39(11): 1005–1012. DOI:10.1097/MNM.0000000000000905.<br>
   >>LeSage J, Pace R K. 2009. Introduction to spatial Econometrics[M]. Chapman and Hall/CRC.<br>
 
+ * ## [14tcsae.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/14tcsae.csl)
+ 
+ 与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了id，将代码中显示 ```OL```总分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
+        使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
 
+        存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在Word中查找```^l.^p```替换为```^p```批量删除。
+
+  显示效果：
+>> ```
+
+>>[1]
+>>[2]
+>>[3]
+>>[4]
+
+>>[1] 张若兵, 陈杰, 肖健夫, 等. 高压脉冲电场设备及其在食品非热处理中的应用[J]. 高电压技术, 2011, 37(03): 777–786.
+Zhang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and its application in non-thermal food processing[J]. High Voltage Engineering, 2011, 37(03): 777–786. (in Chinese with English abstract)<br>
+.
+>>[2] Lan M, Li L, Peng X, et al. Effects of different lipids on the physicochemical properties and microstructure of pale, soft and exudative (PSE)-like chicken meat gel[J]. LWT, 2021: 111284.<br>
+>>[3] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.
+Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract)<br>
+.
+>>[4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
+
+
+ >> ```
 
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
