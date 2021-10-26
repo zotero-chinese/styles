@@ -68,7 +68,7 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 * ## [15bmj.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/15bmj.csl)
  
- [《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致。
+ [《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在`Loc. in Archive`字段。
 
 存在问题：正文中要求英文两个作者之间要求用`“和”`，现在显示为`“&”`，可以后期在Word中批量替换。
 
