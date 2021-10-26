@@ -66,6 +66,26 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
  >> ```
 
+* ## [15bmj.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/15bmj.csl)
+ 
+ [《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致。
+
+存在问题：正文中要求英文两个作者之间要求用`“和”`，现在显示为`“&”`，可以后期在Word中批量替换。
+
+  显示效果：
+>> ```
+
+>>(温忠麟等, 2004)[1]<br>
+>>(Denkovski等, 2012)[2]<br>
+>>(Potterie & Lichtenberg, 2001)[3]<br>
+>>(白俊红和蒋伏心, 2015)[4]<br>
+>>[1] 温忠麟, 侯杰泰, 刘红云, 等. 中介效应检验程序及其应用[J]. 北京: 心理学报, 2004(05): 614–620.	
+>>[2] Denkovski D., V. Rakovic, M. Pavloski, et al. Integration of heterogeneous spectrum sensing devices towards accurate REM construction[C]//2012 IEEE Wireless Communications and Networking Conference (WCNC). 2012: 798–802.	<br>
+>>[3] Potterie B. Van P. De La and F. Lichtenberg. Does Foreign Direct Investment Transfer Technology Across Borders? 3[J]. Review of Economics and Statistics, 2001, 83(3): 490–497.	<br>
+>>[4] 白俊红, 蒋伏心. 协同创新、空间关联与区域创新绩效[J]. 经济研究, 2015, 50(07): 174–187.	<br>
+
+ >> ```
+
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
