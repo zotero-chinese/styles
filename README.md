@@ -77,7 +77,7 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 >>(温忠麟等, 2004)<sup>[1]</sup><br>
 >>(Denkovski等, 2012)<sup>[2]</sup><br>
->>(Potterie & Lichtenberg, 2001)<sup></sup>[3]<br>
+>>(Potterie & Lichtenberg, 2001)<sup>[3]</sup><br>
 >>(白俊红和蒋伏心, 2015)<sup>[4]</sup><br>
 >>[1] 温忠麟, 侯杰泰, 刘红云, 等. 中介效应检验程序及其应用[J]. 北京: 心理学报, 2004(05): 614–620.	
 >>[2] Denkovski D., V. Rakovic, M. Pavloski, et al. Integration of heterogeneous spectrum sensing devices towards accurate REM construction[C]//2012 IEEE Wireless Communications and Networking Conference (WCNC). 2012: 798–802.	<br>
