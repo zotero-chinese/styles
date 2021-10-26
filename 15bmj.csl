@@ -336,8 +336,10 @@
           <text macro="author-intext"/>
           <date variable="issued" form="numeric" date-parts="year"/>
         </group>
-        <group >
-          <text vertical-align="sup" variable="citation-number" prefix="[" suffix="]"/>
+        <group vertical-align="sup">
+              <text value="["/>
+              <text variable="citation-number"/>
+              <text value="]"/>
         </group>
       </group>
     </layout>
@@ -347,19 +349,16 @@
           <text macro="author-intext-long"/>
           <date variable="issued" form="numeric" date-parts="year"/>
         </group>
-        <group vertical-align="sup">
-          <text  variable="citation-number" prefix="[" suffix="]"/>
+          <group vertical-align="sup">
+              <text value="["/>
+              <text variable="citation-number"/>
+              <text value="]"/>
         </group>
+<!--       <group vertical-align="sup">
+          <text  variable="citation-number" prefix="[" suffix="]"/>
+        </group>--> 
       </group>
     </layout>
-    <!--
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text variable="citation-number"/>
-      <group prefix="(" suffix=")">
-        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
-        <text variable="locator"/>
-      </group>
-    </layout>-->
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
     <layout locale="en">
