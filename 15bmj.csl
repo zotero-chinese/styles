@@ -246,9 +246,17 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
+                 <choose>
+                  <if variable="archive_location">
+                      <text variable="archive_location" suffix=": "/>
+                   <else>
+                    <text variable="container-title" text-case="title"/>
+                  </else>
+                  </if>
+                </choose>
                 <text macro="serial-information" prefix=", "/>
               </if>
+               
               <else>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
@@ -291,7 +299,14 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
+                 <choose>
+                  <if variable="archive_location">
+                      <text variable="archive_location" suffix=": "/>
+                   <else>
+                    <text variable="container-title" text-case="title"/>
+                  </else>
+                  </if>
+                </choose>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>
