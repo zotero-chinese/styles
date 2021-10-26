@@ -72,6 +72,8 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 存在问题：正文中要求英文两个作者之间要求用`“和”`，现在显示为`“&”`，可以后期在Word中批量替换。
 
+感谢@Zeping Lee的指导和代码，感谢@fredericky123测试。
+
   显示效果：
 >> ```
 
