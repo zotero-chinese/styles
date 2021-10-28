@@ -536,6 +536,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     今天安装了`ZotFile`插件，想请教一下大家怎么用它把以前导入的论文题目也给改过来见[https://zhuanlan.zhihu.com/p/365665469](https://zhuanlan.zhihu.com/p/365665469)。
 
+    `ZotFile`如何让不同主题的参考文献附件放在同一个文件夹[https://zhuanlan.zhihu.com/p/426839229](https://zhuanlan.zhihu.com/p/426839229)。
+
     `Zotero`删除条目（题录）时同时删除`PDF`附件的另一方法[https://zhuanlan.zhihu.com/p/338159167](https://zhuanlan.zhihu.com/p/338159167)。
 
     `Zotero`如何将文件位置恢复到storage中？[https://zhuanlan.zhihu.com/p/420831288](https://zhuanlan.zhihu.com/p/420831288) 。
