@@ -37,7 +37,7 @@
     </terms>
   </locale>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
@@ -132,7 +132,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -228,7 +228,7 @@
     </group>
   </macro>
   <macro name="bib-entry-cn" >
-  <text variable="citation-number" prefix="[" suffix="] "/> 
+  <text variable="citation-number" prefix="[" suffix="] "/>
       <text macro="author-cn" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
@@ -247,7 +247,7 @@
           </choose>
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
-        </if> 
+        </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
@@ -262,7 +262,7 @@
                 </choose>
                 <text macro="serial-information" prefix=", "/>
               </if>
-               
+
               <else>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
@@ -281,7 +281,7 @@
       <text macro="accessed-date"/>
   </macro>
   <macro name="bib-entry-en" >
-  <text variable="citation-number" prefix="[" suffix="] "/> 
+  <text variable="citation-number" prefix="[" suffix="] "/>
       <text macro="author-en" suffix=". "/>
       <text macro="title" text-case="title"/>
       <choose>
@@ -300,7 +300,7 @@
           </choose>
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
-        </if> 
+        </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
@@ -362,7 +362,7 @@
         </group>
 <!--       <group vertical-align="sup">
           <text  variable="citation-number" prefix="[" suffix="]"/>
-        </group>--> 
+        </group>-->
       </group>
     </layout>
   </citation>

@@ -33,8 +33,13 @@
       </term>
     </terms>
   </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
@@ -85,7 +90,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -154,7 +159,7 @@
       <else-if type="patent">
         <text value="P"/>
       </else-if>
-      <else-if type="post-weblog webpage" match="any"> 
+      <else-if type="post-weblog webpage" match="any">
         <text value="OL"/><!-- 网页改为OL-->
       </else-if>
       <else-if type="report">
@@ -173,7 +178,7 @@
     <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <!-- 
+      <!--
       <choose>
         <if variable="URL">
           <text value="OL"/>
@@ -254,13 +259,13 @@
             <text macro="publishing" prefix=". "/>
             <text macro="issued-date" prefix=".(" suffix=")"/>
             <text variable="URL"  prefix=". "/>
-          </else-if> 
+          </else-if>
           <else>
             <text macro="publishing" prefix=". "/>
             <text macro="issued-date" prefix="(" suffix=")"/>
           </else>
         </choose>
-       <!-- 
+       <!--
         <text macro="accessed-date"/>
         <group delimiter=". " prefix=". ">
           <text variable="URL"/>

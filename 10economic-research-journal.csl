@@ -16,7 +16,7 @@
     <contributor>
         <name>牛耕田</name>
         <email>buffalo_d@163.com</email>
-    </contributor>   
+    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Economic Research Journal author-date style</summary>
@@ -31,16 +31,16 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
-       <term name="page-range-delimiter">—</term>
+       <term name="page-range-delimiter">&#x2014;</term>
     </terms>
   </locale>
   <locale xml:lang="en">
     <terms>
-      <term name="page-range-delimiter">—</term>
+      <term name="page-range-delimiter">&#x2014;</term>
     </terms>
   </locale>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
@@ -134,7 +134,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -168,7 +168,7 @@
       </if>
     </choose>
   </macro>
-<!-- 中文出版社 --> 
+<!-- 中文出版社 -->
 <macro name="publishing-cn">
     <choose>
       <if variable="publisher">
@@ -178,7 +178,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-     <!--   <text variable="page" prefix=": "/>--> 
+     <!--   <text variable="page" prefix=": "/>-->
       <text macro="issue-date-year" prefix="，" suffix="年"/>
       </if>
     </choose>
@@ -188,20 +188,20 @@
         <text variable="volume" prefix=""/>
         <text variable="issue" prefix="(" suffix=")"/>
     </group>
-    <text variable="page" prefix=", "/><!--  期不显示--> 
-    
+    <text variable="page" prefix=", "/><!--  期不显示-->
+
   </macro>
-  
+
  <macro name="serial-information-cn">
     <group delimiter="">
         <!--<text macro="issue-date-year" suffix="年"/>-->
        <!-- <text variable="volume" prefix=""/> -->
        <text variable="issue" prefix="第" suffix="期"/>
     </group>
-    
+
     <!--  <text variable="page" prefix=": "/>-->
   </macro>
-  
+
   <macro name="title">
     <text variable="title" text-case="" prefix="“" suffix="”"/>
     <!-- comment <text variable="number" prefix=": "/> -->
@@ -344,7 +344,7 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" hanging-indent="true">
     <sort>
-        <key variable="language" sort="ascending"/> 
+        <key variable="language" sort="ascending"/>
         <key macro="author-intext"/>
         <key macro="issue-date-year" sort="ascending"/>
     </sort>
