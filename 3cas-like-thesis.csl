@@ -34,7 +34,7 @@
     </terms>
   </locale>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
@@ -113,7 +113,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -200,7 +200,7 @@
     <text variable="title" text-case=""/>
 
     <!--  <text variable="number" prefix=": "/> -->
-    
+
     <!-- <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -211,7 +211,7 @@
     </group>-->
   </macro>
   <macro name="bib-entry-cn" >
-   <text variable="citation-number" prefix="" suffix=". "/> 
+   <text variable="citation-number" prefix="" suffix=". "/>
       <text macro="author" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
@@ -229,10 +229,10 @@
           </choose>
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
-        </if> 
+        </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-                
+
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="[" suffix="学位论文]. "/>
@@ -269,7 +269,7 @@
       <!--<text macro="accessed-date"/> 访问日期-->
   </macro>
    <macro name="bib-entry-en" >
-   <text variable="citation-number" prefix="" suffix=". "/> 
+   <text variable="citation-number" prefix="" suffix=". "/>
       <text macro="author" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
@@ -287,10 +287,10 @@
           </choose>
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
-        </if> 
+        </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-                
+
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="(" suffix="dissertation). "/>
@@ -304,11 +304,11 @@
             </else-if><!--学位论文-->
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
-           
+
                 <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
-           
+
           </group>
         </else-if>
         <else-if type="patent">
@@ -349,7 +349,7 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="3" et-al-use-first="3" line-spacing="1" second-field-align="flush">
    <sort>
-     <key variable="language" sort="ascending"/> 
+     <key variable="language" sort="ascending"/>
     </sort>
     <layout locale="en">
     <text macro="bib-entry-en" suffix=""/>

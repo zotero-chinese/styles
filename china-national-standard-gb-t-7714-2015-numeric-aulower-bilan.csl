@@ -27,8 +27,13 @@
       </term>
     </terms>
   </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
@@ -79,7 +84,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>

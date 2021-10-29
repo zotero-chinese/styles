@@ -48,7 +48,7 @@
   </locale>
 
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
@@ -127,7 +127,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -223,7 +223,7 @@
     </group>
   </macro>
   <macro name="bib-full">
-  <text variable="citation-number" prefix="[" suffix="] "/> 
+  <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
