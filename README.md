@@ -542,6 +542,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero`如何将文件位置恢复到storage中？[https://zhuanlan.zhihu.com/p/420831288](https://zhuanlan.zhihu.com/p/420831288) 。
 
+    `Zotero`怎么看自带的存贮(Storage)剩余情况呢 [https://zhuanlan.zhihu.com/p/427955654](https://zhuanlan.zhihu.com/p/427955654)
+
     `Zotero`安装ZotFile后删除条目和附件见[https://zhuanlan.zhihu.com/p/369141058](https://zhuanlan.zhihu.com/p/369141058)。
 
     `Zotero`不用代码不用其它软件清理使用ZotFile后删除条目剩余的游离附件[https://zhuanlan.zhihu.com/p/422215186](https://zhuanlan.zhihu.com/p/422215186)。
