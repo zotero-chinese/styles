@@ -216,8 +216,7 @@
                 </choose>
                 <!--如果有网址则添加-->
               </group>
-           
-          </else-if>        
+           </else-if>        
         <else-if type="paper-conference" match="any"><!-- 会议论文-->
             <text macro="editor" prefix=". "/>
             <choose>
