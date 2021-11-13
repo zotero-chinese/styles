@@ -88,6 +88,18 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
  >> ```
 
+* ## [17chinese-gb7714-2005-numeric-book-pages.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/17chinese-gb7714-2005-numeric-book-pages.csl)
+[chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl)官方版本上修改，文献类型`Book（书籍）`可以显示页码，需要将页码放在`# of Pages（总页码）`字段。
+
+  显示效果：
+>> ```
+>><sup>[1]</sup>
+
+>>[1]	MONASCH R, MAHY M. Young people: the centre of the HIV epidemic[M]. 2006:100–108.	<br>
+
+
+ >> ```
+
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
