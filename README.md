@@ -93,7 +93,8 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
   显示效果：
 >> ```
->><sup>[1]</sup>
+
+>> <sup>[1]</sup>
 
 >>[1]	MONASCH R, MAHY M. Young people: the centre of the HIV epidemic[M]. 2006:100–108.	<br>
 
