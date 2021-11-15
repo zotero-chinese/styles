@@ -330,7 +330,7 @@
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter=", ">
+    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext" strip-periods="true"/>
         <text macro="issue-date-year"/>
