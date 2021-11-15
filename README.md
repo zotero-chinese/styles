@@ -101,6 +101,34 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
  >> ```
 
+* ## [18JNU-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/18JNU-thesis.csl)
+[4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
+
+  显示效果：
+>> ```
+
+（陈珏锡等, 2021）<br>
+（Bonell and Oakley, 2006）<br>
+（Johnson et al., 2002）<br>
+（金红兰和金龙勋, 2021）<br>
+（Crepaz et al., 2006）<br>
+（唐小华等, 2021）<br>
+（Lyles et al., 2007）<br>
+<br>
+
+[1]	Bonell C, Oakley A. Research methodology - Assessment of generalisability in trials of health interventions: Suggested framework and systematic Review[J]. Bmj-British Medical Journal, 2006, 333(7563): 346–349.<br>
+[2]	Crepaz N, Lyles C M, Wolitski R J, Passin W F, Rama S M, Herbst J H, Purcell D W, Malow R A, Stall R. Do prevention interventions reduce HIV risk behaviours among people living with HIV? A meta-analytic review of controlled Trials[J]. Aids, 2006, 20(2): 143–157.<br>
+[3]	Johnson W D, Hedges L V, Ramirez G, Semaan S, Norman L R, Sogolow E, Sweat M D, Diaz R M. HIV prevention research for men who have sex with men: A systematic review and meta-Analysis[J]. Journal of Acquired Immune Deficiency Syndromes, 2002, 30: S118–S129.<br>
+[4]	Lyles C M, Kay L S, Crepaz N, Herbst J H, Passin W F, Kim A S, Rama S M, Thadiparthi S, DeLuca J B, Mullins M M. Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004[J]. American Journal of Public Health, 2007, 97(1): 133–143.<br>
+[5]	陈珏锡, 张俊丰, 李源栋, 夏建军. 无溶剂微波萃取肉桂精油及成分分析[J]. 现代食品科技, 2021, 37(08): 258-265+167.<br>
+[6]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37–39.<br>
+[7]	唐小华, 胡斌, 李雪玲, 胡文锋. 食药用菌菌丝体应用研究进展[J]. 食用菌学报, 2021, 28(04): 116–122.<br>
+
+
+
+
+ >> ```
+
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
