@@ -234,7 +234,21 @@
           </group>
         </group>
       </else-if>
-      <else-if type="article-journal article-magazine article-newspaper" match="any">
+      <else-if type="article-magazine article-newspaper" match="any">
+        <group prefix=". ">
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title" text-case="title" font-style="normal" suffix=", "/>
+              <text macro="serial-information" prefix=""/>
+            </if>
+            <else>
+              <text macro="serial-information" suffix=". "/>
+              <text macro="publishing"/>
+            </else>
+          </choose>
+        </group>
+      </else-if>
+      <else-if type="article-journal" match="any">
         <group prefix=". ">
           <choose>
             <if variable="container-title">
@@ -289,17 +303,17 @@
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". " delimiter=", ">
-         <!-- <choose>
-            <if variable="container-title-short">
-              <text variable="container-title-short" text-case="title" font-style="normal"/>
-              <text macro="serial-information" prefix=", "/>
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title" text-case="title" font-style="normal"/>
+              <text macro="serial-information" prefix=""/>
             </if>
-            <else>-->
+            <else>
               <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
               <text macro="serial-information" suffix=""/>
               <text macro="publishing"/>
-            <!-- </else>
-          </choose>-->
+           </else>
+          </choose>
         </group>
       </else-if>
       <else-if type="patent">
