@@ -168,7 +168,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case="sentence"/>
+    <text variable="title"/>
     <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
