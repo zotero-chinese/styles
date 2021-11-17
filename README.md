@@ -94,14 +94,14 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   显示效果：
 >> ```
 
-(谢德仁等, 2016; Kaustia & Rantala, 2015)<br>
-(陈珏锡等, 2021)<br>
-<br>
-陈珏锡, 张俊丰, 李源栋, 等, 2021. 无溶剂微波萃取肉桂精油及成分分析. 现代食品科技, 08: 258-265+167.<br>
-谢德仁, 郑登津, 崔宸瑜, 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
-Kaustia M., Rantala V., 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
+>>(谢德仁等, 2016; Kaustia & Rantala, 2015)<br>
+>>(陈珏锡等, 2021)<br>
+>>(Gopalan et al., 2014)<br>
 
-
+>>陈珏锡, 张俊丰, 李源栋, 夏建军. 2021. 无溶剂微波萃取肉桂精油及成分分析. 现代食品科技, 08: 258-265+167.<br>
+>>谢德仁, 郑登津, 崔宸瑜. 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
+>>Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
+>>Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
 
  >> ```
 
