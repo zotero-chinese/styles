@@ -88,6 +88,23 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
  >> ```
 
+* ## [16accounting-research.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/16accounting-research.csl)
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。存在问题：页码为不连续多页，如121-129+184，页码间隔仍为`-`，不是`～`。
+
+  显示效果：
+>> ```
+
+(谢德仁等, 2016; Kaustia & Rantala, 2015)<br>
+(陈珏锡等, 2021)<br>
+<br>
+陈珏锡, 张俊丰, 李源栋, 等, 2021. 无溶剂微波萃取肉桂精油及成分分析. 现代食品科技, 08: 258-265+167.<br>
+谢德仁, 郑登津, 崔宸瑜, 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
+Kaustia M., Rantala V., 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
+
+
+
+ >> ```
+
 * ## [17chinese-gb7714-2005-numeric-book-pages.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/17chinese-gb7714-2005-numeric-book-pages.csl)
 [chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl)官方版本上修改，文献类型`Book（书籍）`可以显示页码，需要将页码放在`# of Pages（总页码）`字段。
 
