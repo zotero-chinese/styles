@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=". " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=". " names-delimiter=". " name-as-sort-order="first" sort-separator=", " default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <!-- comment -->
   <info>
@@ -171,9 +171,11 @@
     <text variable="number" prefix=": "/>
   </macro>
   <macro name="bib-full">
-    <text macro="author" suffix=", "/>
-    <text macro="issue-date-year" suffix=". "/>
-    <text macro="title"/>
+    <group delimiter=". ">
+      <text macro="author"/>
+      <text macro="issue-date-year"/>
+      <text macro="title"/>
+    </group>
     <choose>
       <if type="book bill chapter legislation paper-conference report thesis" match="any">
         <text macro="editor" prefix=". "/>
@@ -215,9 +217,11 @@
     <text macro="accessed-date"/>
   </macro>
   <macro name="bib-full-cn">
-    <text macro="author" suffix=", "/>
-    <text macro="issue-date-year" suffix=". "/>
-    <text macro="title"/>
+    <group delimiter=". ">
+      <text macro="author"/>
+      <text macro="issue-date-year"/>
+      <text macro="title"/>
+    </group>
     <choose>
       <if type="book bill chapter legislation paper-conference report thesis" match="any">
         <text macro="editor" prefix=". "/>
@@ -284,7 +288,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" hanging-indent="true">
+  <bibliography entry-spacing="0" et-al-min="400" et-al-use-first="400" line-spacing="1" hanging-indent="true">
     <sort>
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
