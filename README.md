@@ -497,7 +497,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 * ## [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 
 
-    南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了`csl`在`Zotero`或`Jurism`显示和`ID`，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。如果引用国家标准，可以将文献类型设为`Bill`，`Code`中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages`中填入引用的页码。
+    南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了`csl`在`Zotero`或`Jurism`显示和`ID`，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。如果引用国家标准，可以将文献类型设为`Bill`，`Code`中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages`中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero``总页数`（`# of Pages`）字段中。
  
     显示效果：
 >> ```
