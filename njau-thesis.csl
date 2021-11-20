@@ -134,8 +134,11 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill">
         <text value="S"/>
+      </else-if>
+      <else-if type="legislation">
+        <text value="A"/>
       </else-if>
       <else-if type="book">
         <text value="M"/>
@@ -185,7 +188,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title" text-case=""/>
       <choose>
-        <if type="book chapter thesis" match="any">
+        <if type="chapter thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -200,7 +203,23 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
-        <else-if type="bill legislation"  match="any"><!-- 标准放在此文献类型中-->
+        <else-if type="book"><!-- 专著添加页码-->
+          <text macro="editor" prefix=". "/>
+          <choose>
+            <if variable="container-title">
+              <text value="//"/>
+              <text macro="container-author" suffix=". "/>
+              <text variable="container-title" suffix=". " text-case="title"/>
+            </if>
+            <else>
+              <text value=". "/>
+            </else>
+          </choose>
+          <text macro="edition" suffix=". "/>
+          <text macro="publishing"/>
+          <text variable="number-of-pages" prefix=": "/>
+        </else-if>
+        <else-if type="bill legislation"  match="any"><!-- 标准可暂文献类型-->
            <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
