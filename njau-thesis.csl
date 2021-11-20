@@ -31,6 +31,11 @@
       </term>
     </terms>
   </locale>
+<locale>
+   <terms>
+      <term name="page-range-delimiter">-</term>
+  </terms>
+</locale>
   <macro name="accessed-date">
     <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
@@ -312,12 +317,12 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
     <layout locale="en">
-    <text variable="citation-number" prefix="[" suffix="]"/>
-    <text macro="bib-entry" suffix="."/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="bib-entry" suffix="."/>
     </layout>
     <layout>
-    <text variable="citation-number" prefix="[" suffix="]"/>
-    <text macro="bib-entry" suffix="."/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="bib-entry" suffix="."/>
     </layout>
   </bibliography>
 </style>
