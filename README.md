@@ -89,7 +89,8 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
  >> ```
 
 * ## [16accounting-research.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/16accounting-research.csl)
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如121-129+184，页码间隔仍为`-`，不是`～`。~~对于不连续的多页，需要写为`128-140, 188`或`128-140 & 188`，才可以显示为`～`，不能写为`128-140+188`，感谢`@zepinglee`的指导。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl)版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题（已解决）：页码为不连续多页，如121-129+184，页码间隔仍为`-`，不是`～`。~~
+对于不连续的多页，需要写为`128-140, 188`或`128-140 & 188`，才可以显示为`～`，不能写为`128-140+188`，感谢`@zepinglee`的指导。
 
   显示效果：
 >> ```
