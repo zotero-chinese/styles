@@ -119,15 +119,17 @@
  -->
     <text variable="publisher-place" suffix=": "/>
     <group delimiter=", ">
-      <text variable="publisher"/>
       <choose>
-        <if type="webpage" variable="container-title" match="all">
+          <if type="bill book chapter graphic legal_case legislation motion_picture paper-conference report song" match="any">
+            <text variable="publisher"/>
+          </if>
+        <else-if type="webpage" variable="container-title" match="all">
           <date variable="issued" suffix=". ">
             <date-part name="year"/>
             <date-part name="month" form="numeric-leading-zeros" prefix="-"/>
             <date-part name="day" form="numeric-leading-zeros" prefix="-"/>
           </date>
-        </if>
+        </else-if>
         <else-if type="webpage"/>
         <else-if type="patent">
           <date variable="issued">
