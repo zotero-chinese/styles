@@ -168,7 +168,11 @@
   </macro>
   <macro name="title">
     <text variable="title" text-case="title"/>
-    <text variable="number" prefix=": "/>
+    <choose>
+        <if type="report bill legislation patent" match="any">
+          <text variable="number" prefix=": "/>
+        </if>
+    </choose>
   </macro>
   <macro name="bib-full">
     <group delimiter=". ">

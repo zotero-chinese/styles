@@ -175,7 +175,13 @@
   </macro>
   <macro name="title">
     <text variable="title" text-case=""/>
-    <text variable="number" prefix=": "/>
+        <text variable="title" text-case=""/>
+        <choose>
+            <if type="report bill legislation patent" match="any">
+              <text variable="number" prefix=": "/>
+            </if>
+        </choose>
+    <group delimiter="/" prefix="[" suffix="]">
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <!--
