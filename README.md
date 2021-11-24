@@ -611,6 +611,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
     `Zotero` `style csl`文件简单编辑参见[https://zhuanlan.zhihu.com/p/336009544](https://zhuanlan.zhihu.com/p/336009544)。
 
+    `Zotero`在citationstyles.org可视化编辑csl时如何使用自己的文献调试见[https://zhuanlan.zhihu.com/p/437380542](https://zhuanlan.zhihu.com/p/437380542)。
+
     中文`PDF`识别---`jasminum`使用参见[https://zhuanlan.zhihu.com/p/329870430](https://zhuanlan.zhihu.com/p/329870430)。
 
     不显示参考文献中的`URL`网址的方法见[https://zhuanlan.zhihu.com/p/328773377](https://zhuanlan.zhihu.com/p/328773377)。
