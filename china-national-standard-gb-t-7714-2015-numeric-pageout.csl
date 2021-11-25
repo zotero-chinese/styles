@@ -175,7 +175,7 @@
   <macro name="title">
     <text variable="title"/>
     <choose>
-      <if type="report bill legislation patent" match="any">
+      <if type=" bill broadcast leagal_case legislation patent report song" match="any">
           <text variable="number" prefix=": "/>
        </if>
     </choose>
