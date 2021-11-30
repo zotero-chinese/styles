@@ -147,6 +147,27 @@ Liang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
  >> ```
 
+* ## [19ieee-bl.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/19ieee-bl.csl)
+[官方IEEE](https://github.com/citation-style-language/styles/blob/master/ieee.csl)基础上修改。文内数字引用为上标格式，显示全部作者，中文最后一个作者前显示`和`，英文文献显示`and`，英文文献条目需要在`Zotero`中将文献条目语言修改为`en`。
+
+  显示效果：
+>> ```
+
+种电泳法分析丁香<sup>[1]</sup>
+
+测试<sup>[2]</sup>
+
+上标<sup>[3]</sup>
+英文<sup>[4]</sup>
+
+
+[1]	谢德仁, 郑登津和崔宸瑜, 《控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究》, 管理世界, 期 05, 页 128–140, 188, 2016, doi: 10/gmxk5j.<br>
+[2]	C. Bonell, A. Oakley, J. Hargreaves, V. Strange, and R. Rees, “Research methodology - Assessment of generalisability in trials of health interventions: suggested framework and systematic review”, Bmj-British Medical Journal, vol. 333, no. 7563, pp. 346–349, Aug. 2006, doi: 10.1136/bmj.333.7563.346.<br>
+[3]	金红兰和金龙勋, 《技术创新背景下的食品产业现状与发展趋势》, 粮食科技与经济, 卷 46, 期 03, 页 37–39, 2021.<br>
+[4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
+
+
+ >> ```
 
 * ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
