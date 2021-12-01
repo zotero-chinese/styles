@@ -208,7 +208,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
+                <text variable="container-title" text-case=""/>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>

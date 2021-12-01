@@ -199,7 +199,7 @@
     <layout suffix="." locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="author" suffix=". "/>
-      <text macro="title" text-case="title"/>
+      <text macro="title" text-case=""/>
       <choose>
         <if type="book bill chapter legislation report thesis" match="any">
           <text macro="editor" prefix=". "/>
@@ -207,7 +207,7 @@
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title" suffix=". " text-case=""/>
             </if>
             <else>
               <text value=". "/>
@@ -236,7 +236,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
+                <text variable="container-title" text-case=""/>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>
@@ -271,7 +271,7 @@
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title" suffix=". " text-case=""/>
             </if>
             <else>
               <text value=". "/>
@@ -300,7 +300,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
+                <text variable="container-title" text-case=""/>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>
