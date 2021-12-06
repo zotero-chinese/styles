@@ -211,7 +211,7 @@
   </macro>
   <macro name="bib-entry-cn">
     <text macro="author" suffix=". "/>
-    <text macro="title" text-case=""/>
+    <text macro="title"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="editor" prefix=". "/>
@@ -277,7 +277,7 @@
   </macro>
   <macro name="bib-entry-en">
      <text macro="author" suffix=". "/>
-    <text macro="title" text-case=""/>
+    <text macro="title"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="editor" prefix=". "/>

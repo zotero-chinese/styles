@@ -63,7 +63,7 @@
             <name initialize="false" initialize-with=".">
              <group delimiter=""> <!----> 
                 <name-part name="given"/>
-                 <name-part name="family" text-case=""/>
+                 <name-part name="family"/>
                 <name-part name="given"/>
               </group>
             </name>
@@ -79,7 +79,7 @@
       <if variable="author">
         <names variable="author">
             <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-            <name-part name="family" text-case=""/>
+            <name-part name="family"/>
             <name-part name="given"/>
           </name>
         </names>
@@ -94,7 +94,7 @@
             <name initialize="false">
               <group delimiter="">
                 <name-part name="given"/>
-                <name-part name="family" text-case=""/>
+                <name-part name="family"/>
               </group>
             </name>
       <!-- <label form="verb-short" prefix=", "/> -->
@@ -103,7 +103,7 @@
   <macro name="container-author">
     <names variable="container-author reviewed-author">
       <name>
-        <name-part name="family" text-case=""/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <!-- <label form="verb-short" prefix=", "/> -->

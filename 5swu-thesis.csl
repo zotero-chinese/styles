@@ -248,7 +248,7 @@
               <if variable="event">
                 <text value="//"/>
                 <text variable="event" suffix=", "/>
-                <text variable="event-place" suffix=", " text-case=""/>
+                <text variable="event-place" suffix=", "/>
               </if>
               <else>
                 <text value=". "/>

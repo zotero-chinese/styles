@@ -203,11 +203,11 @@
   </macro>
 
   <macro name="title">
-    <text variable="title" text-case="" prefix="“" suffix="”"/>
+    <text variable="title" prefix="“" suffix="”"/>
     <!-- comment <text variable="number" prefix=": "/> -->
   </macro>
 <macro name="title-cn">
-    <text variable="title" text-case="" prefix="《" suffix="》"/>
+    <text variable="title" prefix="《" suffix="》"/>
     <!-- comment <text variable="number" prefix=": "/> -->
   </macro>
    <!-- 英文文末显示设置-->

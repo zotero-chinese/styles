@@ -197,7 +197,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case=""/>
+    <text variable="title"/>
 
     <!--  <text variable="number" prefix=": "/> -->
 
@@ -213,7 +213,7 @@
   <macro name="bib-entry-cn" >
    <text variable="citation-number" prefix="" suffix=". "/>
       <text macro="author" suffix=". "/>
-      <text macro="title" text-case=""/>
+      <text macro="title"/>
       <choose>
         <if type="book bill chapter legislation paper-conference report" match="any">
           <text macro="editor" prefix=". "/>
@@ -271,7 +271,7 @@
    <macro name="bib-entry-en" >
    <text variable="citation-number" prefix="" suffix=". "/>
       <text macro="author" suffix=". "/>
-      <text macro="title" text-case=""/>
+      <text macro="title"/>
       <choose>
         <if type="book bill chapter legislation paper-conference report" match="any">
           <text macro="editor" prefix=". "/>

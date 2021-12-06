@@ -168,7 +168,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case=""/>
+    <text variable="title"/>
     <choose>
         <if type="bill broadcast legal_case legislation patent report song" match="any">
             <text variable="number" prefix=": "/>
@@ -186,7 +186,7 @@
   <macro name="bib-entry" >
   <!--<text variable="citation-number" prefix="[" suffix="] "/>-->
       <text macro="author" suffix=". "/>
-      <text macro="title" text-case=""/>
+      <text macro="title"/>
       <choose>
         <if type="book bill chapter legislation paper-conference report thesis" match="any">
           <text macro="editor" prefix=". "/>
@@ -208,7 +208,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case=""/>
+                <text variable="container-title"/>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>

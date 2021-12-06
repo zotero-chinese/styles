@@ -127,7 +127,7 @@
     <text variable="page" prefix=": "/>
   </macro>
     <macro name="title">
-        <text variable="title" text-case=""/>
+        <text variable="title"/>
     </macro>
     <macro name="bib-entry" >
         <group delimiter="" prefix="@" suffix="">
