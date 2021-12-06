@@ -4,7 +4,7 @@
 加粗 前后加 **
 email 前后加 __
 -->
-其它GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。
+其它GB/T 7714 相关文件见[https://zhuanlan.zhihu.com/p/62396113](https://zhuanlan.zhihu.com/p/62396113)。国内Gitee仓库<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>，手动同步。
 
 * ## [10economic-research-journal.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/10economic-research-journal.csl)
 
