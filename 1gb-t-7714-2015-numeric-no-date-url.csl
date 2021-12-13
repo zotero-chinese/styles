@@ -4,7 +4,7 @@
   <!-- 作者首字母大写，双语 locator页码在括号外面，报纸为出版日期，页码在括号内，
   类型将不显示OL，书籍的日期不显示，不显示URL，不显示DOI-->
   <info>
-    <title>GB/T 7714-2015-numeric-NoDateURL</title>
+    <title>GB/T 7714-2015(顺序编码，双语，不显示OL/URL/DOI)</title>
     <title-short>GB/T 7714-2015</title-short>
     <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-no-date-url</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan" rel="self"/>
