@@ -47,10 +47,10 @@ email 前后加 __
 
 ## [14tcsae.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/14tcsae.csl)
 
-与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了id，将代码中显示 ```OL```部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
-使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
+与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了id，将代码中显示 `OL`部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
+使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
 
-存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在Word中查找```^l.^p```替换为```^p```批量删除。
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在Word中查找`^l.^p`替换为`^p`批量删除。
 
 显示效果：
 
@@ -71,7 +71,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [15bmj.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/15bmj.csl)
 
-[《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在`Loc. in Archive`字段。
+[《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在`Loc. in Archive`字段。
 
 存在问题：正文中要求英文两个作者之间要求用`“和”`，现在显示为`“&”`，可以后期在Word中批量替换。
 
@@ -460,7 +460,7 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan.csl)
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl)基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl)基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
 
 显示效果：
 
@@ -475,7 +475,7 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl)
 
-[gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl)基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。
+[gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl)基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见`Zotero`生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。
 
 显示效果：
 
@@ -493,7 +493,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
 学位论文，规则见[http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。
-中文文献排在前面，英文文献排在后面（需要在条目中将```language```英文设为```en```，中文为```中文```，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过```20```个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。英文期刊名称为斜体，缩写（需要将期刊缩写放在```Zotero```条目```Info```的```Journal Abbr```的字段才会缩写）。待提供更多文献类型进行测试。
+中文文献排在前面，英文文献排在后面（需要在条目中将`language`英文设为`en`，中文为`中文`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过`20`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在`Zotero`条目`Info`的`Journal Abbr`的字段才会缩写）。待提供更多文献类型进行测试。
 
 显示效果：
 
@@ -522,7 +522,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl)
 
-南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了`csl`在`Zotero`或`Jurism`显示和`ID`，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的```Title```字段一致，不显示```URL```和```DOI```。如果引用国家标准，可以将文献类型设为`Bill`，`Code`中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages`中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero总页数`（`# of Pages`）字段中。
+南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了`csl`在`Zotero`或`Jurism`显示和`ID`，作者为首字母大写，支持中文作者超过`3`个为`“等”`，英文为`“et al”`。文章的题目大小写与`Zotero`中的`Title`字段一致，不显示`URL`和`DOI`。如果引用国家标准，可以将文献类型设为`Bill`，`Code`中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages`中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero总页数`（`# of Pages`）字段中。
 
 显示效果：
 
