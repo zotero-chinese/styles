@@ -48,7 +48,7 @@ email 前后加 __
 ## [14tcsae.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/14tcsae.csl)
 
 与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
-使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过 `3` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除。
 
@@ -71,9 +71,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [15bmj.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/15bmj.csl)
 
-[《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过 `3` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在 `Loc. in Archive` 字段。
+[《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在 `Loc. in Archive` 字段。
 
-存在问题：正文中要求英文两个作者之间要求用`“和”`，现在显示为`“&”`，可以后期在 Word 中批量替换。
+存在问题：正文中要求英文两个作者之间要求用“`和`”，现在显示为“`&`”，可以后期在 Word 中批量替换。
 
 感谢 [@zepinglee](https://github.com/zepinglee) 的指导和代码，感谢 [@fredericky123](https://github.com/fredericky123) 测试。
 
@@ -162,7 +162,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
 
 [china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
-基础上修改，作者首字母大写，支持中文作者超过 3 个为`“等”`，英文为`“et al”`，locator 页码在括号外面，报纸为出版日期，不改变 Zotero 中 Title 大小写，类型将不显示 OL，书籍的日期不显示，不显示 URL，不显示 DOI。
+基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 Zotero 中 Title 大小写，类型将不显示 OL，书籍的日期不显示，不显示 URL，不显示 DOI。
 
 显示效果：
 
@@ -215,7 +215,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
-)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为`“等”`，英文为`“et al”`。
+)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 显示效果：
 
@@ -235,7 +235,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [5swu-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/5swu-thesis.csl)
 
 网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
-)样式，正文中两个中文作者之间为`“和”`，英文作者为`“and”`。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为`“等”`，英文为`“et al”`。
+)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 显示效果：
 
@@ -254,7 +254,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [6cma.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/6cma.csl)
 
-中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过 3 个为`“等”`，英文为`“et al”`。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
+中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
 
 显示效果：
 
@@ -271,7 +271,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [7comparative-economic-and-social-systems.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/7comparative-economic-and-social-systems.csl)
 
-[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为`“等”`，英文为`“et al”`。
+[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
 所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
@@ -314,8 +314,8 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 [《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/7comparative-economic-and-social-systems.csl)基础上修改。
 
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
-所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
+存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
+所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
 
 显示效果：
 
@@ -337,7 +337,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-author-date-aulower-bilan.csl)
 
-china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为`“等”`，英文为`“et al”`。
+china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 显示效果：
 
@@ -367,7 +367,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl)
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -382,7 +382,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 ## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl)
 
 网友**牛耕田**（__buffalo_d@163.com__）分享的 [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 的修改版，作者为首字母大写，题目为首字母大写（Sentence 格式，），但这种格式会导致题目内原来本该大写的缩写词变为小写，如 DNA 会变为 dna。支持中文
-`3` 个作者显示为`“等”`，英文显示为`“et al”`。
+`3` 个作者显示为“`等`”，英文显示为“`et al`”。
 
 显示效果：
 
@@ -414,7 +414,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 ## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl)
 
-网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为`“等”`，英文显示为`“et al”`，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
+网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为“`等`”，英文显示为“`et al`”，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
 
 显示效果（`csl` 设置的是 `Title` 格式，但在我的 `Word` 中显示只是第一个单词和最后一个单词首字母大写）：
 
@@ -428,7 +428,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 ## [gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl)
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 的修改版，正文中题录两侧括号为中文括号`（）`，作者为首字母大写，支持中文作者超过 3 个为`“等”`，英文为`“et al”`。文章的题目大小写使用 `Zotero` 中的 `Title` 字段。不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 的修改版，正文中题录两侧括号为中文括号`（）`，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写使用 `Zotero` 中的 `Title` 字段。不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -444,7 +444,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 ## [gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl)
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过 `3` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -460,7 +460,7 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan.csl)
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -475,7 +475,7 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl)
 
-[gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl) 基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过 `3` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl) 基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）[https://zhuanlan.zhihu.com/p/282826403](https://zhuanlan.zhihu.com/p/282826403)，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -493,7 +493,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
 学位论文，规则见 [http://yjs.hzau.edu.cn/info/1202/3774.htm](http://yjs.hzau.edu.cn/info/1202/3774.htm)，正文中为作者年代格式，文末列表为数字格式。
-中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过 `20` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在 `Zotero` 条目 `Info` 的 `Journal Abbr` 的字段才会缩写）。待提供更多文献类型进行测试。
+中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过 `20` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在 `Zotero` 条目 `Info` 的 `Journal Abbr` 的字段才会缩写）。待提供更多文献类型进行测试。
 
 显示效果：
 
@@ -522,7 +522,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl)
 
-南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了 `csl` 在 `Zotero` 或 `Jurism` 显示和 `ID`，作者为首字母大写，支持中文作者超过 `3` 个为`“等”`，英文为`“et al”`。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了 `csl` 在 `Zotero` 或 `Jurism` 显示和 `ID`，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
 
 显示效果：
 
@@ -656,9 +656,9 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 `Zotero` 直接同时生成“等”和“et al”(视频讲解)[https://zhuanlan.zhihu.com/p/342753388](https://zhuanlan.zhihu.com/p/342753388)。
 
-使用 `JurisM Style` 实现同时生成`“et al”`和`“等”`见 [https://zhuanlan.zhihu.com/p/317108621](https://zhuanlan.zhihu.com/p/317108621)。
+使用 `JurisM Style` 实现同时生成“`et al`”和“`等`”见 [https://zhuanlan.zhihu.com/p/317108621](https://zhuanlan.zhihu.com/p/317108621)。
 
-`Zotero` 修改版终于可以原生支持同时生成`“et al”`和`“等”`了 [https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
+`Zotero` 修改版终于可以原生支持同时生成“`et al`”和“`等`”了 [https://zhuanlan.zhihu.com/p/314928204](https://zhuanlan.zhihu.com/p/314928204)。
 
 `Zotero` 参考文献列表只出现一个作者，然后就是等了，怎么样出现全部作者的名字见 [https://zhuanlan.zhihu.com/p/367609914](https://zhuanlan.zhihu.com/p/367609914)。
 
