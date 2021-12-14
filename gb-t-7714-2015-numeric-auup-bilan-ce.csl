@@ -6,7 +6,7 @@
     <title-short>GB/T 7714-2015</title-short>
     <id>http://www.zotero.org/styles/GB-T-7714-2015-numeric-auUp-bilan-CE</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan" rel="self"/>
-    <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
@@ -218,7 +218,7 @@
                 </choose>
                 <!--如果有网址则添加-->
               </group>
-        </else-if>   
+        </else-if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
