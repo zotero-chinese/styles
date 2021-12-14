@@ -7,9 +7,9 @@ email 前后加 __
 其它 GB/T 7714 相关文件见 <https://zhuanlan.zhihu.com/p/62396113>。国内 Gitee 仓库 <https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>，手动同步。
 
 
-## [10economic-research-journal.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/10economic-research-journal.csl)
+## [10economic-research-journal.csl]
 
-[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/9journal-of-management-world.csl)基础上修改。
+[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](9journal-of-management-world.csl)基础上修改。
 
 显示效果：
 
@@ -26,9 +26,9 @@ email 前后加 __
 > Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
 
 
-## [13gb-t-7714-2015-author-date-ynu.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/13gb-t-7714-2015-author-date-ynu.csl)
+## [13gb-t-7714-2015-author-date-ynu.csl]
 
-云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
+云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
 
 显示效果：
 
@@ -45,9 +45,9 @@ email 前后加 __
 > LeSage J, Pace R K. 2009. Introduction to spatial Econometrics[M]. Chapman and Hall/CRC.<br>
 
 
-## [14tcsae.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/14tcsae.csl)
+## [14tcsae.csl]
 
-与[gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl) 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
+与[gb-t-7714-2015-numeric-auup-bilan-ce.csl] 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
 使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除。
@@ -69,7 +69,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
 
 
-## [15bmj.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/15bmj.csl)
+## [15bmj.csl]
 
 [《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在 `Loc. in Archive` 字段。
 
@@ -90,9 +90,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4] 白俊红, 蒋伏心. 协同创新、空间关联与区域创新绩效[J]. 经济研究, 2015, 50(07): 174–187.	<br>
 
 
-## [16accounting-research.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/16accounting-research.csl)
+## [16accounting-research.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
 对于不连续的多页，需要写为 `128-140, 188` 或 `128-140 & 188`，才可以显示为`～`，不能写为 `128-140+188`，感谢 [@zepinglee](https://github.com/zepinglee) 的指导。
 
 显示效果：
@@ -107,7 +107,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
 
 
-## [17chinese-gb7714-2005-numeric-book-pages.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/17chinese-gb7714-2005-numeric-book-pages.csl)
+## [17chinese-gb7714-2005-numeric-book-pages.csl]
 
 [chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl) 官方版本上修改，文献类型 `Book`（书籍）可以显示页码，需要将页码放在 `# of Pages`（总页码）字段。
 
@@ -118,9 +118,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [1]	MONASCH R, MAHY M. Young people: the centre of the HIV epidemic[M]. 2006:100–108.	<br>
 
 
-## [18JNU-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/18JNU-thesis.csl)
+## [18JNU-thesis.csl]
 
-[4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl) 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
+[4zuel-thesis] 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
 
 显示效果：
 
@@ -141,7 +141,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [7]	唐小华, 胡斌, 李雪玲, 胡文锋. 食药用菌菌丝体应用研究进展[J]. 食用菌学报, 2021, 28(04): 116–122.<br>
 
 
-## [19ieee-bl.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/19ieee-bl.csl)
+## [19ieee-bl.csl]
 
 [官方 IEEE](https://github.com/citation-style-language/styles/blob/master/ieee.csl) 基础上修改。文内数字引用为上标格式，显示全部作者，中文最后一个作者前显示`和`，英文文献显示 `and`，英文文献条目需要在 `Zotero` 中将文献条目语言修改为 `en`。
 
@@ -159,9 +159,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
 
 
-## [1gb-t-7714-2015-numeric-no-date-url.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/1gb-t-7714-2015-numeric-no-date-url.csl)
+## [1gb-t-7714-2015-numeric-no-date-url.csl]
 
-[china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
+[china-national-standard-gb-t-7714-2015-numeric-pageout.csl]
 基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 Zotero 中 Title 大小写，类型将不显示 OL，书籍的日期不显示，不显示 URL，不显示 DOI。
 
 显示效果：
@@ -179,7 +179,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
 
-## [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl)
+## [2chinese-law-journals.csl]
 
 [法学引注手册（2019 年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
 
@@ -212,7 +212,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 13 Id.p.20.<br>
 
 
-## [4zuel-thesis](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/4zuel-thesis.csl)
+## [4zuel-thesis]
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
 )样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -232,7 +232,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
 
 
-## [5swu-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/5swu-thesis.csl)
+## [5swu-thesis.csl]
 
 网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
 )样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -252,9 +252,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
 
 
-## [6cma.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/6cma.csl)
+## [6cma.csl]
 
-中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
+中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
 
 显示效果：
 
@@ -269,9 +269,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 
-## [7comparative-economic-and-social-systems.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/7comparative-economic-and-social-systems.csl)
+## [7comparative-economic-and-social-systems.csl]
 
-[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
 所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
@@ -292,9 +292,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
 
 
-## [8whu-school-of-law.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/8whu-school-of-law.csl)
+## [8whu-school-of-law.csl]
 
-武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/2chinese-law-journals.csl) 基础上修改。
+武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
 
 ~~存在问题：年代后面的 `]` 应该为 `)`。~~
 
@@ -310,9 +310,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 
 
-## [9journal-of-management-world.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/9journal-of-management-world.csl)
+## [9journal-of-management-world.csl]
 
-[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/7comparative-economic-and-social-systems.csl)基础上修改。
+[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
 
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
 所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
@@ -335,7 +335,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 
-## [gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-author-date-aulower-bilan.csl)
+## [gb-t-7714-2015-author-date-aulower-bilan.csl]
 
 china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
@@ -351,7 +351,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > Zhang B, Qi X, Mao J, et al., 2020. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 127: 109393. DOI:10.1016/j.lwt.2020.109393.
 
 
-## [china-national-standard-gb-t-7714-2015-note-noibid.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-note-noibid.csl)
+## [china-national-standard-gb-t-7714-2015-note-noibid.csl]
 
 [China National Standard GB/T 7714-2015 (note, Chinese)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note)的修改版，作者名字全部大写，支持中文作者超过 3 个为“等”，英文为“et al”。脚注连续编号，重复文献不省略，重复显示
 
@@ -365,9 +365,9 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > <sup>4</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.
 
 
-## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl)
+## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -379,9 +379,9 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 
-## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl)
+## [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl]
 
-网友**牛耕田**（__buffalo_d@163.com__）分享的 [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl) 的修改版，作者为首字母大写，题目为首字母大写（Sentence 格式，），但这种格式会导致题目内原来本该大写的缩写词变为小写，如 DNA 会变为 dna。支持中文
+网友**牛耕田**（__buffalo_d@163.com__）分享的 [china-national-standard-gb-t-7714-2015-numeric.csl] 的修改版，作者为首字母大写，题目为首字母大写（Sentence 格式，），但这种格式会导致题目内原来本该大写的缩写词变为小写，如 DNA 会变为 dna。支持中文
 `3` 个作者显示为“`等`”，英文显示为“`et al`”。
 
 显示效果：
@@ -394,9 +394,9 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 
-## [china-national-standard-gb-t-7714-2015-numeric-pageout.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-pageout.csl)
+## [china-national-standard-gb-t-7714-2015-numeric-pageout.csl]
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl) 基础上修改。插入的 locator 在[序号]的外面，《中国高教研究》期刊要求。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl] 基础上修改。插入的 locator 在[序号]的外面，《中国高教研究》期刊要求。
 
 显示效果（页码都是瞎写的）：
 
@@ -412,7 +412,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 
 
-## [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric.csl)
+## [china-national-standard-gb-t-7714-2015-numeric.csl]
 
 网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为“`等`”，英文显示为“`et al`”，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
 
@@ -426,9 +426,9 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 
-## [gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl)
+## [gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl) 的修改版，正文中题录两侧括号为中文括号`（）`，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写使用 `Zotero` 中的 `Title` 字段。不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，正文中题录两侧括号为中文括号`（）`，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写使用 `Zotero` 中的 `Title` 字段。不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -442,9 +442,9 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 
 
-## [gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl)
+## [gb-t-7714-2015-numeric-aulower-bilan-ce.csl]
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -458,9 +458,9 @@ T ng X, Sun Y Y, Jiang X T, et al. Comparative analysis of flavor peptides prepa
 Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09): 362–367.
 
 
-## [gb-t-7714-2015-numeric-aulower-bilan.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan.csl)
+## [gb-t-7714-2015-numeric-aulower-bilan.csl]
 
-[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -473,9 +473,9 @@ Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein re
 
 
 
-## [gb-t-7714-2015-numeric-auup-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-auup-bilan-ce.csl)
+## [gb-t-7714-2015-numeric-auup-bilan-ce.csl]
 
-[gb-t-7714-2015-numeric-aulower-bilan-ce.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/gb-t-7714-2015-numeric-aulower-bilan-ce.csl) 基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[gb-t-7714-2015-numeric-aulower-bilan-ce.csl] 基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -489,9 +489,9 @@ TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepa
 ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
 
 
-## [hzau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/hzau-thesis.csl)
+## [hzau-thesis.csl]
 
-[njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl) 的修改版，适用于华中农业大学
+[njau-thesis.csl] 的修改版，适用于华中农业大学
 学位论文，规则见 <http://yjs.hzau.edu.cn/info/1202/3774.htm>，正文中为作者年代格式，文末列表为数字格式。
 中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过 `20` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在 `Zotero` 条目 `Info` 的 `Journal Abbr` 的字段才会缩写）。待提供更多文献类型进行测试。
 
@@ -506,7 +506,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > 4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. *Inn Food Sci & Emer Tech*. 2013, 18: 237–245
 
 
-## [jm-chinese-std-gb-t-7714-2005-revised.csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/jm-chinese-std-gb-t-7714-2005-revised.csl)
+## [jm-chinese-std-gb-t-7714-2005-revised.csl]
 
 [jm-chinese-std-gb-t-7714-2005.csl](https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl) 的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
 
@@ -520,9 +520,9 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 
-## [njau-thesis.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/njau-thesis.csl)
+## [njau-thesis.csl]
 
-南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl) 相同，只是修改了 `csl` 在 `Zotero` 或 `Jurism` 显示和 `ID`，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+南京农业大学硕博论文用，格式与 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 相同，只是修改了 `csl` 在 `Zotero` 或 `Jurism` 显示和 `ID`，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
 
 显示效果：
 
@@ -539,12 +539,12 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ### 所有 `csl` 文件
 
-<!--![下载及使用动图](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl/blob/main/img/download-csl.gif)-->
+<!--![下载及使用动图](img/download-csl.gif)-->
 ![下载及使用动图](/img/download-csl.gif "Title")
 
 ### 单个 `csl` 文件
 
-<!--![下载及使用动图](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/img/download-s-csl.gif)-->
+<!--![下载及使用动图](img/download-s-csl.gif)-->
 ![下载及使用动图](/img/download-s-csl.gif "Title")
 
 
@@ -749,3 +749,36 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 `Word` 中加载 `Zotero` 工具条时提示加载宏的取消方法 <https://zhuanlan.zhihu.com/p/56551176>。
 
 给 `Word` 中的 `Zotero` 设置快捷键 <https://zhuanlan.zhihu.com/p/55259481>。
+
+
+
+[10economic-research-journal.csl]: 10economic-research-journal.csl
+[13gb-t-7714-2015-author-date-ynu.csl]: 13gb-t-7714-2015-author-date-ynu.csl
+[14tcsae.csl]: 14tcsae.csl
+[15bmj.csl]: 15bmj.csl
+[16accounting-research.csl]: 16accounting-research.csl
+[17chinese-gb7714-2005-numeric-book-pages.csl]: 17chinese-gb7714-2005-numeric-book-pages.csl
+[18JNU-thesis.csl]: 18JNU-thesis.csl
+[19ieee-bl.csl]: 19ieee-bl.csl
+[1gb-t-7714-2015-numeric-no-date-url.csl]: 1gb-t-7714-2015-numeric-no-date-url.csl
+[2chinese-law-journals.csl]: 2chinese-law-journals.csl
+[4zuel-thesis]: 4zuel-thesis.csl
+[5swu-thesis.csl]: 5swu-thesis.csl
+[6cma.csl]: 6cma.csl
+[7comparative-economic-and-social-systems.csl]: 7comparative-economic-and-social-systems.csl
+[8whu-school-of-law.csl]: 8whu-school-of-law.csl
+[9journal-of-management-world.csl]: 9journal-of-management-world.csl
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
+[china-national-standard-gb-t-7714-2015-note-noibid.csl]: china-national-standard-gb-t-7714-2015-note-noibid.csl
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]: china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl
+[china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-numeric-aulower-bilan.csl
+[china-national-standard-gb-t-7714-2015-numeric-pageout.csl]: china-national-standard-gb-t-7714-2015-numeric-pageout.csl
+[china-national-standard-gb-t-7714-2015-numeric.csl]: china-national-standard-gb-t-7714-2015-numeric.csl
+[gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
+[gb-t-7714-2015-author-date-aulower-bilan.csl]: gb-t-7714-2015-author-date-aulower-bilan.csl
+[gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: gb-t-7714-2015-numeric-aulower-bilan-ce.csl
+[gb-t-7714-2015-numeric-aulower-bilan.csl]: gb-t-7714-2015-numeric-aulower-bilan.csl
+[gb-t-7714-2015-numeric-auup-bilan-ce.csl]: gb-t-7714-2015-numeric-auup-bilan-ce.csl
+[hzau-thesis.csl]: hzau-thesis.csl
+[jm-chinese-std-gb-t-7714-2005-revised.csl]: jm-chinese-std-gb-t-7714-2005-revised.csl
+[njau-thesis.csl]: njau-thesis.csl
