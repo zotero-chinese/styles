@@ -630,6 +630,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 `ZotFile` 如何让不同主题的参考文献附件放在同一个文件夹 <https://zhuanlan.zhihu.com/p/426839229>。
 
+`ZotFile` 怎么样可以只导出多篇文献PDF？见<https://zhuanlan.zhihu.com/p/447109035>。
+
 `Zotero` 删除条目（题录）时同时删除 `PDF` 附件的另一方法 <https://zhuanlan.zhihu.com/p/338159167>。
 
 `Zotero` 如何将文件位置恢复到 storage 中？<https://zhuanlan.zhihu.com/p/420831288> 。
