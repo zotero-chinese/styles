@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>GB/T 7714-2015 (顺序编码制, 双语, 姓名小写, 无DOI)</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi" rel="self"/>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 区分中文和西文的“等”和“et al.”。2. 西文姓名取消全大写。3. 不显示 DOI。4. 网页显示URL。</summary>
-    <updated>2021-12-14T12:00:00+08:00</updated>
+    <updated>2021-12-19T12:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
