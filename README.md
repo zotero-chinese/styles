@@ -162,7 +162,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [1gb-t-7714-2015-numeric-no-date-url.csl]
 
 [china-national-standard-gb-t-7714-2015-numeric-pageout.csl]
-基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 Zotero 中 Title 大小写，类型将不显示 OL，书籍的日期不显示，不显示 URL，不显示 DOI。
+基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 `Zotero` 中 `Title` 大小写，类型将不显示 `OL`，书籍的日期不显示，不显示` URL`，不显示 `DOI`。
 
 显示效果：
 
@@ -178,6 +178,22 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
 > [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
+## [20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]
+
+[gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl](https://github.com/zepinglee/Chinese-STD-GB-T-7714-related-csl/blob/bilingual-lower-name/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl)基础上修改。作者首字母大写，名缩写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，类型除`EB`外不显示 `OL`及 `URL`，不显示 `DOI`。
+
+显示效果：
+
+> ```
+显示效果<sup>[1-4]</sup>
+
+[1]	Xu P, Su B, Jiang L, et al. An efficient autonomous traction control method for quadruped robot[C]//2017 IEEE International Conference on Unmanned Systems (ICUS). 2017: 1-5.<br>
+[2]	工业和信息化部, 国家发展改革委, 科技部. 三部委关于印发《汽车产业中长期发展规划》的通知[EB/OL]. (2017-04-06)[2021-12-01]. https://www.miit.gov.cn/zwgk/zcwj/wjfb/zbgy/art/2020/art_52eeb9d6f2bf484398fc2505e747afc9.html.<br>
+[3]	丛娜. 流域下垫面变化影响下设计洪水修订问题的研究[D]. 天津大学, 2013.<br>
+[4]	李刚, 宗长富, 陈国迎, 等. 线控四轮独立驱动轮毂电机电动车集成控制[J]. 吉林大学学报(工学版), 2012, 42(04): 796-802.<br>
+
+
+> ```
 
 ## [2chinese-law-journals.csl]
 
@@ -763,6 +779,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 [18JNU-thesis.csl]: 18JNU-thesis.csl
 [19ieee-bl.csl]: 19ieee-bl.csl
 [1gb-t-7714-2015-numeric-no-date-url.csl]: 1gb-t-7714-2015-numeric-no-date-url.csl
+[20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
 [2chinese-law-journals.csl]: 2chinese-law-journals.csl
 [4zuel-thesis]: 4zuel-thesis.csl
 [5swu-thesis.csl]: 5swu-thesis.csl
