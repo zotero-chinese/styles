@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>China National Standard GB/T 7714-2015 (note, noibid)</title>
-    <title-short>GB/T 7714-2015 (note-noibid)</title-short>
+    <title>GB/T 7714-2015 (脚注, 双语, 重复文献不省略)</title>
     <id>http://www.zotero.org/styles/china-national-standard-gbt-7714-2015-note-noibid</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note-noibid" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
@@ -17,7 +16,7 @@
     </contributor>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T7714-2015 with notes and bibliography</summary>
+    <summary>作者名字全部大写，支持中文作者超过 3 个为“等”，英文为“et al”。脚注连续编号，重复文献不省略，重复显示</summary>
     <updated>2021-02-13T00:44:28+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

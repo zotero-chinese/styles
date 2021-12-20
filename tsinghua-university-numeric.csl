@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " delimiter-precedes-last="always" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded">
   <info>
-    <title>Tsinghua University (numeric)</title>
+    <title>清华大学研究生学位论文 (顺序编码)</title>
     <id>http://www.zotero.org/styles/tsinghua-university-numeric</id>
     <link href="http://www.zotero.org/styles/tsinghua-university-numeric" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>The numeric reference style for Tsinghua University's dissertation with multi-locale support.</summary>
+    <summary>姓名取消全大写；专利文献增加“专利国别”。</summary>
     <updated>2021-11-22T20:52:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

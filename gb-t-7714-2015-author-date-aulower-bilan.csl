@@ -3,8 +3,7 @@
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <!-- comment -->
   <info>
-    <title>China National Standard GB/T 7714-2015 (author-date, Chinese)-AuLower-BiLan</title>
-    <title-short>GB/T 7714-2015 (author-date)</title-short>
+    <title>GB/T 7714-2015 (著者-出版年, 双语, 姓名取消全大写)</title>
     <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date-chinese-aulower-bilan</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date-chinese-aulower-bilan" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
@@ -18,7 +17,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T7714-2015 author-date style</summary>
+    <summary>作者为首字母大写，支持中文作者超过 3 个为“等”，英文为“et al”。</summary>
     <updated>2020-12-22T03:28:57+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

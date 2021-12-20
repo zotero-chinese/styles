@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
-  <!-- 作者首字母大写，双语 locator页码在括号外面，报纸为出版日期，页码在括号内-->
   <info>
-    <title>China National Standard GB/T 7714-2015-numeric-PageOut</title>
-    <title-short>GB/T 7714-2015</title-short>
+    <title>GB/T 7714-2015 (顺序编码, 双语, 页码在括号外)</title>
     <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric-page-out</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan" rel="self"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
@@ -18,7 +16,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T7714-2015 numeric style</summary>
+    <summary>作者首字母大写，双语 locator页码在括号外面，报纸为出版日期，页码在括号内</summary>
     <updated>2020-11-29T23:56:46+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
