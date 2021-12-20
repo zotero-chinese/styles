@@ -182,7 +182,6 @@
             </if>
         </choose>
     <group delimiter="/" prefix="[" suffix="]">
-    <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <!--
       <choose>
