@@ -190,7 +190,28 @@
     </choose>
     <text macro="accessed-date"/>
   </macro>
-    <!-- 专著的出版项，无日期，用于thesis -->
+  <!-- 会议论文的出版项 -->
+  <macro name="publishing-paper-conference">
+      <group delimiter=": ">
+        <group delimiter=", ">
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <!-- 非电子资源显示“出版年” -->
+          <choose>
+            <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+              <text macro="issued-year"/>
+            </if>
+            <else-if variable="URL DOI" match="none">
+              <text macro="issued-year"/>
+            </else-if>
+          </choose>
+        </group>
+        <text variable="page"/>
+      </group>
+    </macro>
+  <!-- 专著的出版项，无日期，用于thesis -->
   <macro name="publishing-thesis">
     <group delimiter=": ">
       <group delimiter=", ">
@@ -256,7 +277,7 @@
       <text macro="accessed-date"/>
     </group>
   </macro>
-  <!-- 标准用 待修改-->
+  <!-- 标准用 -->
   <macro name="bill-standard-publishing">
     <group delimiter=". ">
       <text variable="authority"/>
@@ -389,6 +410,25 @@
       <!-- <text macro="url-doi"/> -->
     </group>
   </macro>
+<!-- 会议论文 -->
+<macro name="paper-conference-layout">
+  <group delimiter=". " suffix=".">
+    <text macro="author"/>
+    <group delimiter="//">
+      <group delimiter=". ">
+        <text macro="title"/>
+        <text macro="secondary-contributor"/>
+      </group>
+      <group delimiter=". ">
+        <text macro="container-author"/>
+        <text macro="container-title"/>
+      </group>
+    </group>
+    <text macro="edition"/>
+    <text macro="publishing-paper-conference"/>
+    <!-- <text macro="url-doi"/> -->
+  </group>
+</macro> 
   <!-- 专著中的析出文献 -->
   <macro name="chapter-in-book-layout">
     <group delimiter=". " suffix=".">
@@ -454,7 +494,7 @@
         <text macro="monograph-layout"/>
       </else-if>  
       <else-if type="paper-conference" variable="container-title" match="any">
-              <text macro="chapter-in-book-layout"/>
+              <text macro="paper-conference-layout"/>
       </else-if>
       <else-if type="report" match="any">
         <text macro="monograph-layout-thesis"/>
