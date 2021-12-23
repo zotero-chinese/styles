@@ -256,6 +256,13 @@
       <text macro="accessed-date"/>
     </group>
   </macro>
+  <!-- 标准用 待修改-->
+  <macro name="bill-standard-publishing">
+    <group delimiter=". ">
+      <text variable="authority"/>
+      <text macro="issued-year"/>
+    </group>
+  </macro>
   <!-- 题名 -->
   <macro name="title">
     <group delimiter=", ">
@@ -307,7 +314,10 @@
         <else-if type="article-newspaper">
           <text value="N"/>
         </else-if>
-        <else-if type="bill legal_case legislation" match="any">
+        <else-if type="bill">
+          <text value="S"/>
+        </else-if>
+        <else-if type="legal_case legislation" match="any">
           <text value="A"/>
         </else-if>
         <else-if type="book chapter" match="any">
@@ -407,6 +417,15 @@
       <!-- <text macro="url-doi"/> -->
     </group>
   </macro>
+    <!-- 标准bill用 -->
+    <macro name="bill-standard-layout">
+      <group delimiter=". " suffix=".">
+        <text macro="author"/>
+        <text macro="title"/>
+        <text macro="bill-standard-publishing"/>
+        <!-- <text macro="url-doi"/> -->
+      </group>
+    </macro>
   <!-- 专利文献 -->
   <macro name="patent-layout">
     <group delimiter=". " suffix=".">
@@ -425,12 +444,21 @@
       <if type="article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
+      <else-if type="bill">   <!-- 用于标准显示 -->
+        <text macro="bill-standard-layout"/>
+      </else-if>
       <else-if type="patent">
         <text macro="patent-layout"/>
       </else-if>
+      <else-if type="webpage" match="any">
+        <text macro="monograph-layout"/>
+      </else-if>  
       <else-if type="paper-conference" variable="container-title" match="any">
-        <text macro="chapter-in-book-layout"/>
+              <text macro="chapter-in-book-layout"/>
       </else-if>
+      <else-if type="report" match="any">
+        <text macro="monograph-layout-thesis"/>
+    </else-if>
       <else-if type="thesis" match="any">
         <text macro="monograph-layout-thesis"/>
       </else-if>
