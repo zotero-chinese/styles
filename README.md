@@ -60,12 +60,10 @@ email 前后加 __
 > [4]<br>
 
 > [1] 张若兵, 陈杰, 肖健夫, 等. 高压脉冲电场设备及其在食品非热处理中的应用[J]. 高电压技术, 2011, 37(03): 777–786.
-Z ang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and its application in non-thermal food processing[J]. High Voltage Engineering, 2011, 37(03): 777–786. (in Chinese with English abstract)<br>
-. br>
+Z ang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and its application in non-thermal food processing[J]. High Voltage Engineering, 2011, 37(03): 777–786. (in Chinese with English abstract). <br>
 > [2] Lan M, Li L, Peng X, et al. Effects of different lipids on the physicochemical properties and microstructure of pale, soft and exudative (PSE)-like chicken meat gel[J]. LWT, 2021: 111284.<br>
 > [3] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.
-L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract)<br>
-. br>
+L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract). <br>
 > [4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
 
 
