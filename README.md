@@ -665,6 +665,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 `Zotero` 在 citationstyles.org 可视化编辑 csl 时如何使用自己的文献调试见 <https://zhuanlan.zhihu.com/p/437380542>。
 
+`Zotero`如何删除参考文献列表末尾的点（.）见<https://zhuanlan.zhihu.com/p/450850667>。
+
 中文 `PDF` 识别---`jasminum` 使用参见 <https://zhuanlan.zhihu.com/p/329870430>。
 
 不显示参考文献中的 `URL` 网址的方法见 <https://zhuanlan.zhihu.com/p/328773377>。
