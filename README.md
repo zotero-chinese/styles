@@ -346,10 +346,19 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 [3]	丛娜. 流域下垫面变化影响下设计洪水修订问题的研究[D]. 天津大学, 2013.<br>
 [4]	李刚, 宗长富, 陈国迎, 等. 线控四轮独立驱动轮毂电机电动车集成控制[J]. 吉林大学学报(工学版), 2012, 42(04): 796-802.<br>
 
-
 > ```
 
 ## [21sjtu-thesis.csl]
+[20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+> ```
+显示效果<sup>[1-4]</sup>
+
+[1]	B E Gel’fand, S P Medvedev, A N Polenov, et al. Basic self-ignition regimes and conditions for their realization in combustible gas mixtures[J]. Combustion, Explosion and Shock Waves, 1997, 33(2): 127-133.<br>
+[2]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37-39.<br>
+[3]	H Zhan, Y Zhou, G Zhang, et al. Carbon nanothreads enable remarkable enhancement in the thermal conductivity of polyethylene dagger[J]. Nanoscale, 2021, 13(14): 6934-6943.<br>
+[4]	罗雨舟, 向天宇, 郝柳青. 卷积神经网络在结构损伤检测中的应用[J]. 土木工程与管理学报, 2020, 37(03): 155-161+173.<br>
+
+> ```
 
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl]
 
