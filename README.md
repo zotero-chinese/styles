@@ -6,6 +6,177 @@ email 前后加 __
 -->
 其它 GB/T 7714 相关文件见 <https://zhuanlan.zhihu.com/p/62396113>。国内 Gitee 仓库 <https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>，手动同步。
 
+## [01gb-t-7714-2015-numeric-no-date-url.csl]
+
+[china-national-standard-gb-t-7714-2015-numeric-pageout.csl]
+基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 `Zotero` 中 `Title` 大小写，类型将不显示 `OL`，书籍的日期不显示，不显示` URL`，不显示 `DOI`。
+
+显示效果：
+
+> ```
+> [1]
+> [2]
+> [3]
+> [4]
+> ```
+
+> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
+> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
+> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
+> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
+
+## [02chinese-law-journals.csl]
+
+[法学引注手册（2019 年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
+
+存在问题：~~英文学位论文年后面应该为 `)`，现在显示为 `]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
+
+显示效果：
+
+> ```
+> 期刊中文12
+> 期刊英文345
+> 书籍中文67
+> 书籍英文89
+> 博士中文1011
+> 博士英文1213
+> ```
+
+
+> 1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
+> 2 同上。<br>
+> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
+> 4 Id.<br>
+> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
+> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
+> 7 同上p.26。<br>
+> 8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
+> 9 Id.p.20.<br>
+> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
+> 11 同上p.20。<br>
+> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
+> 13 Id.p.20.<br>
+
+
+## [04zuel-thesis]
+
+网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
+)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+
+显示效果：
+
+> ```
+> （Berhe et al, 2014）
+> （王越溪和王鹏, 2018）
+> （庞之列等, 2014）
+> （He et al, 2013）
+> ```
+
+> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽, 2018, 40(23): 37–42.	<br>
+> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142–145.	<br>
+> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International, 2014, 66: 123–131.<br>
+> [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
+
+
+## [05swu-thesis.csl]
+
+网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
+)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+
+显示效果：
+
+> ```
+> (杨赫鸿等, 2012)
+> (ElMasry et al., 2011)
+> (庞之列和何栩晓, 2014)
+> (Gross et al., 2013)
+> ```
+
+> [1] 庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
+> [2] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
+> [3] ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
+
+
+## [06cma.csl]
+
+中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
+
+显示效果：
+
+> ```
+> [1]   [2,3]   [4]
+> ```
+
+> [1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
+> [2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
+> [3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>
+> [4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+
+
+
+## [07comparative-economic-and-social-systems.csl]
+
+[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+
+存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
+所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
+
+显示效果：
+
+> ```
+> （王琰等, 2021）
+> （唐霄等, 2019; Yang et al., 2015）
+> （Cavanna et al., 2019）
+> （何宇超等, 2020）
+> ```
+
+> 何宇超、程琪琪、吴莉等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
+> 唐霄、孙杨赢、江雪婷等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
+> 王琰、 曾新安、蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
+> Cavanna D., Zanardi S., Dall’Asta C., et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
+> Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
+
+
+## [08whu-school-of-law.csl]
+
+武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
+
+~~存在问题：年代后面的 `]` 应该为 `)`。~~
+
+
+显示效果：
+
+> ```
+> 1
+> 2
+> ```
+
+> 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
+> 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
+
+
+## [09journal-of-management-world.csl]
+
+[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
+
+存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
+所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
+
+显示效果：
+
+> ```
+> （康大成，2017）
+> （Chen et al., 2020）
+> （王静帆等，2021）
+> （Ebert et al., 2021）
+> ```
+
+> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
+> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第03期。<br>
+> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure Homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
+> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein Mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
+
 
 ## [10economic-research-journal.csl]
 
@@ -160,24 +331,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
 
 
-## [1gb-t-7714-2015-numeric-no-date-url.csl]
-
-[china-national-standard-gb-t-7714-2015-numeric-pageout.csl]
-基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 `Zotero` 中 `Title` 大小写，类型将不显示 `OL`，书籍的日期不显示，不显示` URL`，不显示 `DOI`。
-
-显示效果：
-
-> ```
-> [1]
-> [2]
-> [3]
-> [4]
-> ```
-
-> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
-> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
-> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
-> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
 ## [20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]
 
@@ -196,161 +349,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 > ```
 
-## [2chinese-law-journals.csl]
-
-[法学引注手册（2019 年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
-
-存在问题：~~英文学位论文年后面应该为 `)`，现在显示为 `]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
-
-显示效果：
-
-> ```
-> 期刊中文12
-> 期刊英文345
-> 书籍中文67
-> 书籍英文89
-> 博士中文1011
-> 博士英文1213
-> ```
-
-
-> 1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
-> 2 同上。<br>
-> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
-> 4 Id.<br>
-> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
-> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
-> 7 同上p.26。<br>
-> 8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
-> 9 Id.p.20.<br>
-> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
-> 11 同上p.20。<br>
-> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
-> 13 Id.p.20.<br>
-
-
-## [4zuel-thesis]
-
-网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
-)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-显示效果：
-
-> ```
-> （Berhe et al, 2014）
-> （王越溪和王鹏, 2018）
-> （庞之列等, 2014）
-> （He et al, 2013）
-> ```
-
-> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽, 2018, 40(23): 37–42.	<br>
-> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142–145.	<br>
-> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International, 2014, 66: 123–131.<br>
-> [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
-
-
-## [5swu-thesis.csl]
-
-网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html
-)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-显示效果：
-
-> ```
-> (杨赫鸿等, 2012)
-> (ElMasry et al., 2011)
-> (庞之列和何栩晓, 2014)
-> (Gross et al., 2013)
-> ```
-
-> [1] 庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
-> [2] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
-> [3] ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
-> [4] Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
-
-
-## [6cma.csl]
-
-中华医学会系列杂志样式。[china-national-standard-gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
-
-显示效果：
-
-> ```
-> [1]   [2,3]   [4]
-> ```
-
-> [1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
-> [2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
-> [3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>
-> [4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
-
-
-
-## [7comparative-economic-and-social-systems.csl]
-
-[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
-所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
-
-显示效果：
-
-> ```
-> （王琰等, 2021）
-> （唐霄等, 2019; Yang et al., 2015）
-> （Cavanna et al., 2019）
-> （何宇超等, 2020）
-> ```
-
-> 何宇超、程琪琪、吴莉等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
-> 唐霄、孙杨赢、江雪婷等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
-> 王琰、 曾新安、蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
-> Cavanna D., Zanardi S., Dall’Asta C., et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
-> Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
-
-
-## [8whu-school-of-law.csl]
-
-武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
-
-~~存在问题：年代后面的 `]` 应该为 `)`。~~
-
-
-显示效果：
-
-> ```
-> 1
-> 2
-> ```
-
-> 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
-> 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
-
-
-## [9journal-of-management-world.csl]
-
-[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
-
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
-所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
-
-显示效果：
-
-> ```
-> （康大成，2017）
-> （Chen et al., 2020）
-> （王静帆等，2021）
-> （Ebert et al., 2021）
-> ```
-
-> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
-> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第03期。<br>
-> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure Homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
-> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein Mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
-
-
-
-
+## [21sjtu-thesis.csl]
 
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl]
 
@@ -781,15 +780,16 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 [17chinese-gb7714-2005-numeric-book-pages.csl]: 17chinese-gb7714-2005-numeric-book-pages.csl
 [18JNU-thesis.csl]: 18JNU-thesis.csl
 [19ieee-bl.csl]: 19ieee-bl.csl
-[1gb-t-7714-2015-numeric-no-date-url.csl]: 1gb-t-7714-2015-numeric-no-date-url.csl
+[01gb-t-7714-2015-numeric-no-date-url.csl]: 01gb-t-7714-2015-numeric-no-date-url.csl
 [20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
-[2chinese-law-journals.csl]: 2chinese-law-journals.csl
-[4zuel-thesis]: 4zuel-thesis.csl
-[5swu-thesis.csl]: 5swu-thesis.csl
-[6cma.csl]: 6cma.csl
-[7comparative-economic-and-social-systems.csl]: 7comparative-economic-and-social-systems.csl
-[8whu-school-of-law.csl]: 8whu-school-of-law.csl
-[9journal-of-management-world.csl]: 9journal-of-management-world.csl
+[21sjtu-thesis.csl]:21sjtu-thesis.csl
+[02chinese-law-journals.csl]: 02chinese-law-journals.csl
+[04zuel-thesis]: 04zuel-thesis.csl
+[05swu-thesis.csl]: 05swu-thesis.csl
+[06cma.csl]: 06cma.csl
+[07comparative-economic-and-social-systems.csl]: 07comparative-economic-and-social-systems.csl
+[08whu-school-of-law.csl]: 08whu-school-of-law.csl
+[09journal-of-management-world.csl]: 09journal-of-management-world.csl
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
 [china-national-standard-gb-t-7714-2015-note-noibid.csl]: china-national-standard-gb-t-7714-2015-note-noibid.csl
 [china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]: china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl
