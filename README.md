@@ -197,7 +197,7 @@ email 前后加 __
 > Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
 
 
-## [13gb-t-7714-2015-author-date-ynu.csl]
+## [13ynu-thesis.csl]
 
 云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
 
@@ -782,7 +782,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 
 [10economic-research-journal.csl]: 10economic-research-journal.csl
-[13gb-t-7714-2015-author-date-ynu.csl]: 13gb-t-7714-2015-author-date-ynu.csl
+[13ynu-thesis.csl]: 13ynu-thesis.csl
 [14tcsae.csl]: 14tcsae.csl
 [15bmj.csl]: 15bmj.csl
 [16accounting-research.csl]: 16accounting-research.csl

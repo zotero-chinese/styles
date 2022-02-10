@@ -1,25 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>GB/T 7714-2015 (author-date, Chinese)-Ynu</title>
+    <title>YNU-Thesis云南大学学位论文</title>
     <title-short>GB/T 7714-2015 (author-date)</title-short>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-chinese-ynu</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-chinese-ynu" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <id>http://www.zotero.org/styles/ynu-thesis</id>
+    <link href="http://www.zotero.org/styles/ynu-thesis" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
     <contributor>
-      <name>韩小土</name>
+      <name>Raymond</name>
+    </contributor>
+    <contributor>
+      <name>redleafnew</name>
       <email>redleafnew@163.com</email>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 author-date style</summary>
-    <updated>2021-10-11T03:46:41+00:00</updated>
+    <updated>2022-02-10T06:28:43+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -32,24 +35,13 @@
       </term>
     </terms>
   </locale>
-  <locale xml:lang="en">
-    <terms>
-      <term name="and">et</term>
-    </terms>
-  </locale>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
-    </date>
-  </macro>
+  <macro name="accessed-date"/>
   <macro name="author">
     <choose>
       <if variable="author">
         <names variable="author">
           <name>
-            <name-part name="family" text-case="capitalize-first"/>
+            <name-part name="family" text-case="uppercase"/>
             <name-part name="given"/>
           </name>
         </names>
@@ -117,7 +109,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="-">
+        <date variable="issued" delimiter="–">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -200,17 +192,11 @@
   </macro>
   <macro name="title">
     <text variable="title" text-case="title"/>
-      <choose>
-        <if type="bill broadcast legal_case legislation patent report song" match="any">
-          <text variable="number" prefix=": "/>
-        </if>
-     </choose>
+    <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
+        <if variable="URL"/>
       </choose>
     </group>
   </macro>
@@ -257,18 +243,15 @@
       </else>
     </choose>
     <text macro="accessed-date"/>
-    <group delimiter=". " prefix=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <group delimiter=". " prefix=". "/>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="true" collapse="year" cite-group-delimiter="，">
     <sort>
       <key macro="issue-date-year" sort="ascending"/>
       <key macro="author-intext"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
+    <layout locale="en" prefix="（" suffix="）" delimiter="；">
+      <group delimiter="，">
         <text macro="author-intext"/>
         <text macro="issue-date-year"/>
         <group>
@@ -277,8 +260,8 @@
         </group>
       </group>
     </layout>
-    <layout prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
+    <layout prefix="（" suffix="）" delimiter="；">
+      <group delimiter="，">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>
         <group>
