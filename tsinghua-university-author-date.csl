@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " delimiter-precedes-last="always" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>清华大学研究生学位论文 (著者-出版年)</title>
     <id>http://www.zotero.org/styles/tsinghua-university-author-date</id>
@@ -29,10 +29,6 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page" form="short">
-        <single>p.</single>
-        <multiple>pp.</multiple>
-      </term>
     </terms>
   </locale>
   <locale>
@@ -83,9 +79,7 @@
   <macro name="author-intext">
     <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="short" delimiter="&#160;" delimiter-precedes-et-al="always">
-        <name-part name="family"/>
-      </name>
+      <name form="short" delimiter="&#160;" delimiter-precedes-et-al="always"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -102,7 +96,7 @@
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="book-volume">
     <choose>
-      <if type="article article-journal article-magazine article-newspaper" match="none">
+      <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
           <if is-numeric="volume">
             <group delimiter=" ">
@@ -198,9 +192,10 @@
       <text variable="page"/>
     </group>
     <choose>
-      <if variable="URL DOI" match="any">
+      <!-- 纯电子资源显示“更新或修改日期” -->
+      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
         <choose>
-          <if variable="publisher" match="none">
+          <if variable="URL DOI" match="any">
             <text macro="issued-date" prefix="(" suffix=")"/>
           </if>
         </choose>
@@ -265,7 +260,7 @@
                 <text variable="number"/>
               </group>
             </if>
-            <else-if type="bill legal_case legislation report" match="any">
+            <else-if type="bill legal_case legislation regulation report standard" match="any">
               <text variable="number"/>
             </else-if>
           </choose>
@@ -298,13 +293,13 @@
             </else>
           </choose>
         </if>
-        <else-if type="article-journal article-magazine" match="any">
+        <else-if type="article-journal article-magazine periodical" match="any">
           <text value="J"/>
         </else-if>
         <else-if type="article-newspaper">
           <text value="N"/>
         </else-if>
-        <else-if type="bill legal_case legislation" match="any">
+        <else-if type="bill collection legal_case legislation regulation" match="any">
           <text value="A"/>
         </else-if>
         <else-if type="book chapter" match="any">
@@ -328,6 +323,12 @@
         <else-if type="report">
           <text value="R"/>
         </else-if>
+        <else-if type="software">
+          <text value="CP"/>
+        </else-if>
+        <else-if type="standard">
+          <text value="S"/>
+        </else-if>
         <else-if type="thesis">
           <text value="D"/>
         </else-if>
@@ -347,6 +348,16 @@
     <group delimiter=". ">
       <text variable="URL"/>
       <text variable="DOI" prefix="DOI:"/>
+    </group>
+  </macro>
+  <!-- 连续出版物的年卷期 -->
+  <macro name="year-volume-issue">
+    <group>
+      <group delimiter=", ">
+        <text macro="issued-year"/>
+        <text variable="volume"/>
+      </group>
+      <text variable="issue" prefix="(" suffix=")"/>
     </group>
   </macro>
   <!-- 专著和电子资源 -->
@@ -379,6 +390,17 @@
       <text macro="url-doi"/>
     </group>
   </macro>
+  <!-- 连续出版物 -->
+  <macro name="serial-layout">
+    <group delimiter=". " suffix=".">
+      <text macro="author-date"/>
+      <text macro="title"/>
+      <text macro="year-volume-issue"/>
+      <text macro="publishing"/>
+      <text variable="URL"/>
+      <text variable="DOI" prefix="DOI:"/>
+    </group>
+  </macro>
   <!-- 连续出版物中的析出文献 -->
   <macro name="article-in-periodical-layout">
     <group delimiter=". " suffix=".">
@@ -400,12 +422,24 @@
       <text macro="url-doi"/>
     </group>
   </macro>
+  <!-- 正文中引用的文献标注格式 -->
+  <macro name="citation-layout">
+    <group>
+      <group delimiter=", ">
+        <text macro="author-intext"/>
+        <text macro="issued-year"/>
+      </group>
+    </group>
+  </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
+      <else-if type="periodical">
+        <text macro="serial-layout"/>
+      </else-if>
       <else-if type="patent">
         <text macro="patent-layout"/>
       </else-if>
@@ -418,16 +452,11 @@
     </choose>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" collapse="year">
+    <layout prefix="(" suffix=")" delimiter="; " locale="en">
+      <text macro="citation-layout"/>
+    </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
-        <text macro="issued-year"/>
-        <group>
-          <!-- 国标要求在括号外以角标的形式著录引文页码，但是跟同处引用多篇文献的情况冲突，在 CSL 中无法实现 -->
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
-      </group>
+      <text macro="citation-layout"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
@@ -436,7 +465,7 @@
       <key macro="issued-year"/>
       <key variable="title"/>
     </sort>
-    <layout locale="zh">
+    <layout locale="en">
       <text macro="entry-layout"/>
     </layout>
     <layout>
