@@ -75,11 +75,28 @@
       <text macro="issued-year"/>
     </group>
   </macro>
-  <!-- 正文引用的著者姓名 -->
+  <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext">
     <names variable="author">
+      <name form="short" delimiter-precedes-et-al="never"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
+  <macro name="author-intext-long">
+    <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="short" delimiter="&#160;" delimiter-precedes-et-al="always"/>
+      <name form="long" sort-separator=" " delimiter="&#160;" delimiter-precedes-et-al="always"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -422,15 +439,6 @@
       <text macro="url-doi"/>
     </group>
   </macro>
-  <!-- 正文中引用的文献标注格式 -->
-  <macro name="citation-layout">
-    <group>
-      <group delimiter=", ">
-        <text macro="author-intext"/>
-        <text macro="issued-year"/>
-      </group>
-    </group>
-  </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
     <choose>
@@ -453,10 +461,16 @@
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" collapse="year">
     <layout prefix="(" suffix=")" delimiter="; " locale="en">
-      <text macro="citation-layout"/>
+      <group delimiter=", ">
+        <text macro="author-intext"/>
+        <text macro="issued-year"/>
+      </group>
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
-      <text macro="citation-layout"/>
+      <group delimiter=", ">
+        <text macro="author-intext-long"/>
+        <text macro="issued-year"/>
+      </group>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
