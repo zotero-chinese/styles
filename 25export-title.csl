@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+  <!-- 根据GB-T7714-2015-numeric修改 -->
+  <info>
+    <title>导出题目Export Title</title>
+    <title-short>导出题目Export Title</title-short>
+    <id>http://www.zotero.org/export-title</id>
+    <link href="http://www.zotero.org/styles/export-title" rel="self"/>
+    <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
+    <author>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
+    </author>
+    <contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <summary>The Chinese GB/T7714-2015 numeric style</summary>
+    <updated>2021-11-03T15:55:46+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="zh-CN">
+    <terms>
+      <term name="anonymous">佚名</term>
+      <term name="edition">版</term>
+      <term name="page" form="short">
+        <single>p.</single>
+        <multiple>pp.</multiple>
+      </term>
+    </terms>
+  </locale>
+<locale>
+   <terms>
+      <term name="page-range-delimiter">&#8211;</term>
+  </terms>
+</locale>
+
+
+  <macro name="title">
+    <text variable="title"/>
+    <choose>
+        <if type="bill broadcast legal_case legislation patent report song" match="any">
+           <text variable="number" prefix=": "/>
+        </if>
+    </choose>
+
+  </macro>
+  <macro name="bib-entry" >
+  <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
+      <!-- <text macro="author" suffix=". "/> -->
+      <text macro="title"/>
+     
+  </macro>
+  <citation collapse="citation-number" after-collapse-delimiter=",">
+    <sort>
+      <key variable="citation-number" sort="ascending"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <text variable="citation-number"/>
+      <group prefix="(" suffix=")">
+        <label variable="locator" suffix=". " form="short" strip-periods="true"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
+    <!-- <layout locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="bib-entry" suffix="."/>
+    </layout> -->
+    <layout>
+      <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
+      <text macro="bib-entry" />
+    </layout>
+  </bibliography>
+</style>

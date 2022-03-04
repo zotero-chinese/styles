@@ -763,7 +763,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 360 安全浏览器如何安装 `Zotero` 插件 <https://zhuanlan.zhihu.com/p/59247644>。
 
-如何设置 `Zotero` 生成的参考文献格式，刷新后不变？<https://zhuanlan.zhihu.com/p/58969571>。
+如何设置 `Zotero` 生成的参考文献格式，刷新后不变（使用Word书目样式）？<https://zhuanlan.zhihu.com/p/58969571>。
 
 `Zotero` 现在不能自动更新引文上标了是怎么回事？见 <https://zhuanlan.zhihu.com/p/354725834>。
 
