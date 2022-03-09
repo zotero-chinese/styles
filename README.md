@@ -683,6 +683,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 彻底解决参考文献显示网址及 DOI 问题见 <https://zhuanlan.zhihu.com/p/355842318>。
 
+Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到相应字段修改，怎么办？见<https://zhuanlan.zhihu.com/p/478072852>。
+
 `Zotero` 直接同时生成“等”和“et al”(视频讲解)<https://zhuanlan.zhihu.com/p/342753388>。
 
 使用 `JurisM Style` 实现同时生成“`et al`”和“`等`”见 <https://zhuanlan.zhihu.com/p/317108621>。
