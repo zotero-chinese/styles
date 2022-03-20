@@ -223,7 +223,6 @@
     </group>
   </macro>
   <macro name="bib-full">
-  <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -242,7 +241,7 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
       </if>
-       <else-if type="paper-conference" match="any"><!-- 会议论文-->
+       <else-if type="paper-conference" match="any">
             <text macro="editor" prefix=". "/>
             <choose>
               <if variable="event">
@@ -281,11 +280,11 @@
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <text macro="accessed-date"/>
+    <!--<text macro="accessed-date"/>
     <group delimiter=". " prefix=". ">
       <text variable="URL"/>
       <text variable="DOI" prefix="DOI:"/>
-    </group>
+    </group>-->
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
@@ -302,7 +301,7 @@
         </group>
       </group>
     </layout>
-   <layout locale="en" prefix="（" suffix="）" delimiter="; ">
+   <layout locale="" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>
