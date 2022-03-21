@@ -359,6 +359,26 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 [4]	罗雨舟, 向天宇, 郝柳青. 卷积神经网络在结构损伤检测中的应用[J]. 土木工程与管理学报, 2020, 37(03): 155-161+173.<br>
 
 > ```
+<!-- ## [26njau-thesis-online-first.csl] -->
+
+## [27zju-thesis.csl]
+浙江大学硕博论文样式（<http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782>），
+网友**yc**（__ycnotion@protonmail.com__）分享，
+正文中作者年代格式，文末参考文献列表英文文献在前，中文在后，显示全部作者。
+
+显示效果：
+
+> ```
+>（Gao et al., 2019）<br>
+>（Zhang Y et al., 2021）<br>
+>（韩敏义等，2009）<br>
+>（徐渊等，2021）<br>
+
+>Gao W, Ota H, Kiriya D, et al. Flexible electronics toward wearable sensing[J]. Accounts of Chemical Research,2019, 52(3): 523–533.<br>
+>Zhang Y, Chen P, Wang Q, et al. High-Capacity and Kinetically Accelerated Lithium Storage in Moo3 Enabled by Oxygen Vacancies and Heterostructure[J]. Advanced Energy Materials,2021, 11(31): 2101712.<br>
+>韩敏义，费英，徐幸莲，周光宏.低场NMR研究pH对肌原纤维蛋白热诱导凝胶的影响[J]. 中国农业科学,2009, 42(06): 2098–2104.<br>
+>徐渊，韩敏义，陈艳萍，李春保，邓绍林，李凌云，刘源.三个品种白切鸡食用品质评价[J]. 食品工业科技,2021, 42(01): 89–95.<br>
+> ```
 
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl]
 
@@ -795,6 +815,9 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [19ieee-bl.csl]: 19ieee-bl.csl
 [01gb-t-7714-2015-numeric-no-date-url.csl]: 01gb-t-7714-2015-numeric-no-date-url.csl
 [20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
+[21sjtu-thesis.csl]:21sjtu-thesis.csl
+<!-- [26njau-thesis-online-first.csl]:26njau-thesis-online-first.csl -->
+[27zju-thesis.csl]:27zju-thesis.csl
 [21sjtu-thesis.csl]:21sjtu-thesis.csl
 [02chinese-law-journals.csl]: 02chinese-law-journals.csl
 [04zuel-thesis]: 04zuel-thesis.csl
