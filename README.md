@@ -359,7 +359,25 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 [4]	罗雨舟, 向天宇, 郝柳青. 卷积神经网络在结构损伤检测中的应用[J]. 土木工程与管理学报, 2020, 37(03): 155-161+173.<br>
 
 > ```
-<!-- ## [26njau-thesis-online-first.csl] -->
+## [26njau-thesis-online-first.csl]
+与[njau-thesis.csl]显示效果基本相同，区别是网络首发的文献（没有卷和期），文献类型改为J/OL，页码后面
+加入`[引用日期].URL`。要显示`[引用日期].URL`需要在`Zotero`的`编辑`-`首选项`-`引用`-中勾选`在参考文献里包含文章URL链接`才会正常显示。
+
+显示效果：
+
+> ```
+
+> [1]<br>
+> [2]<br>
+> [3]<br>
+> [4]<br>
+
+> [1]	崔威, 李晓英, 郭宜薇. 基于博弈论组合赋权的水电站事故风险评价[J/OL]. 南水北调与水利科技(中英文), 2022: 1–10[2022-01-24]. http://kns.cnki.net/kcms/detail/13.1430.tv.20210918.1105.002.html.<br>
+> [2]	韩敏义, 李巧玲, 陈红叶. 复合磷酸盐在食品中的应用[J]. 中国食品添加剂, 2004(03): 93–96.<br>
+> [3]	夏建军, 张俊丰, 李源栋, 等. 无溶剂微波萃取肉桂精油及成分分析[J]. 现代食品科技, 2021, 37(08): 258-265+167.<br>
+> [4]	Cho H-K, Kim M-H, Park S-K, et al. Analysis of benzo[a]pyrene content and risk assessment[J]. Food Science of Animal Resources, 2011, 31(6): 960–965.<br>
+> ```
+
 
 ## [27zju-thesis.csl]
 浙江大学硕博论文样式（<http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782>），
@@ -817,7 +835,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [01gb-t-7714-2015-numeric-no-date-url.csl]: 01gb-t-7714-2015-numeric-no-date-url.csl
 [20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 20gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
 [21sjtu-thesis.csl]:21sjtu-thesis.csl
-<!-- [26njau-thesis-online-first.csl]:26njau-thesis-online-first.csl -->
+[26njau-thesis-online-first.csl]:26njau-thesis-online-first.csl
 [27zju-thesis.csl]:27zju-thesis.csl
 [21sjtu-thesis.csl]:21sjtu-thesis.csl
 [02chinese-law-journals.csl]: 02chinese-law-journals.csl
