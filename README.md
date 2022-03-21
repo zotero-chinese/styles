@@ -369,8 +369,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 显示效果：
 
 > ```
->（Gao et al., 2019）<br>
->（Zhang Y et al., 2021）<br>
+
+> （Gao et al., 2019） <br>
+> （Zhang Y et al., 2021）<br>
 >（韩敏义等，2009）<br>
 >（徐渊等，2021）<br>
 
