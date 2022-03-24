@@ -599,7 +599,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [无机材料学报](journal-of-inorganic-materials.csl)
 
-无机材料学报期刊用，ISSN:1000-324X，CN:31-1363/TQ。
+《无机材料学报》（<http://www.jim.org.cn/CN/column/item6.shtml>）期刊用，ISSN:1000-324X，CN:31-1363/TQ。
 
 作者`(姓前名后，名缩写，全部大写)`. 题名`(第一个单词首字母大写)`. *期刊名*`(斜体)`, 出版年, **卷(期)**`(加粗)`: 起始页—终止页。
 
