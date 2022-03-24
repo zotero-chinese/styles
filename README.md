@@ -597,6 +597,22 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
+## [journal-of-inorganic-materials.csl]
+
+无机材料学报期刊用，ISSN:1000-324X，CN:31-1363/TQ。
+
+作者`(姓前名后，名缩写，全部大写)`. 题名`(第一个单词首字母大写)`. 期刊名`(斜体)`, 出版年, 卷(期)`(加粗)`: 起始页—终止页。
+
+显示效果：
+> [1–4]
+
+> [1]	LI Y, TANG F, WANG D, et al. A key step for preparing highly active Mg–Co composite oxide catalysts for N2O decomposition. Catalysis Science & Technology, 2021, 11(11): 3737–3745.
+> [2]	RESASCO D E, HALLER G L. A model of metal-oxide support interaction for Rh on TiO2. Journal of Catalysis, 1983, 82(2): 279–288.
+> [3]	LIU H, SHEN K, ZHAO H, et al. A new strategy to improve catalytic activity for chlorinated volatile organic compounds oxidation over cobalt oxide: Introduction of strontium carbonate. Journal of the Indian Chemical Society, 2021, 98(8): 100116.
+> [4]	DAMMA D, ETTIREDDY P, REDDY B, et al. A Review of Low Temperature NH3-SCR for Removal of NOx. Catalysts, 2019, 9(4): 349.
+
+
+
 
 
 ## `csl` 文件的下载及添加
