@@ -234,7 +234,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1">
-    <layout suffix="." locale="en">
+    <layout suffix="." locale="en English">
      <text variable="citation-number" prefix="[" suffix="] "/>
      <text macro="bib-entry"/>
     </layout>

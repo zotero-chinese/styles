@@ -321,7 +321,7 @@
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
+    <layout locale="en English" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext"/>
         <text macro="issue-date-year"/>
@@ -348,7 +348,7 @@
         <key macro="author-intext"/>
         <key macro="issue-date-year" sort="ascending"/>
     </sort>
-    <layout suffix="." locale="en">
+    <layout suffix="." locale="en English">
       <text macro="bib-full-en"/>
     </layout>
     <layout suffix="。">

@@ -313,7 +313,7 @@
   </citation>
   <!-- Bibliography -->
   <bibliography entry-spacing="0" second-field-align="flush">
-        <layout  locale="en">
+        <layout  locale="en English">
       <!-- Citation Number -->
       <text variable="citation-number" prefix="[" suffix="]"/>
       <!-- Author(s) -->

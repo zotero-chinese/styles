@@ -340,7 +340,7 @@
     <sort>
       <key variable="citation-number" sort="ascending"/>
     </sort>
-    <layout locale="en" >
+    <layout locale="en English" >
       <group>
         <group delimiter=", " prefix="(" suffix=")">
           <text macro="author-intext"/>
@@ -371,7 +371,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
-    <layout locale="en">
+    <layout locale="en English">
     <text macro="bib-entry-en" suffix="."/>
     </layout>
     <layout>
