@@ -244,7 +244,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" hanging-indent="true">
-    <layout locale="en English">
+    <layout locale="en">
     <text macro="bib-entry" suffix="."/>
     </layout>
     <layout>

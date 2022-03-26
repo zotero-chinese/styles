@@ -240,7 +240,7 @@
   </macro>
 
   <citation et-al-min="4" et-al-use-first="3" disambiguate-add-names="true">
-    <layout locale="en English" suffix="." delimiter="; ">
+    <layout locale="en" suffix="." delimiter="; ">
     <!---->
       <choose>
         <if position="ibid-with-locator">
@@ -282,7 +282,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
-    <layout locale="en English" suffix=".">
+    <layout locale="en" suffix=".">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="full-contents"/>
     </layout>

@@ -195,7 +195,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
-    <layout suffix="." locale="en English">
+    <layout suffix="." locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="author" suffix=". "/>
       <text macro="title"/>

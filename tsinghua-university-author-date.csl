@@ -460,7 +460,7 @@
     </choose>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" collapse="year">
-    <layout prefix="(" suffix=")" delimiter="; " locale="en English">
+    <layout prefix="(" suffix=")" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext"/>
         <text macro="issued-year"/>
@@ -479,7 +479,7 @@
       <key macro="issued-year"/>
       <key variable="title"/>
     </sort>
-    <layout locale="en English">
+    <layout locale="en">
       <text macro="entry-layout"/>
     </layout>
     <layout>

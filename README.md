@@ -630,7 +630,13 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ## 如何使用
 
-如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en`。或是需要将显示不正常的文献删除后重新插入。
+如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en`。
+
+**将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。**
+
+**不是`English`！不是`English`！不是`English`！**
+
+或是需要将显示不正常的文献删除后重新插入。
 
 使用详情参见[基于`GB/T-7714-2015`的 `Style` 实现同时生成 `et al` 和`等`的方法](https://zhuanlan.zhihu.com/p/320253145)，
 或[`Zotero` 修改版终于可以原生支持同时生成 `et al` 和`等`了](https://zhuanlan.zhihu.com/p/314928204)。
