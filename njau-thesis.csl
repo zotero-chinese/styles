@@ -140,7 +140,14 @@
         <text value="N"/>
       </else-if>
       <else-if type="bill">
-        <text value="S"/>
+        <choose>
+          <if variable="URL">
+            <text value="S/OL"/>
+          </if>
+          <else>
+            <text value="S"/>
+          </else>
+         </choose>
       </else-if>
       <else-if type="legislation">
         <text value="A"/>
@@ -164,8 +171,15 @@
         <text value="EB/OL"/>
       </else-if>
       <else-if type="report">
-        <text value="R"/>
-      </else-if>
+        <choose>
+          <if variable="URL">
+            <text value="R/OL"/>
+          </if>
+          <else>
+            <text value="R"/>
+          </else>
+         </choose>
+        </else-if>
       <else-if type="thesis">
         <text value="D"/>
       </else-if>
@@ -228,7 +242,7 @@
           <text macro="publishing"/>
           <text variable="number-of-pages" prefix=": "/>
         </else-if>
-        <else-if type="bill legislation"  match="any"><!-- 标准可暂文献类型-->
+        <else-if type="bill legislation"  match="any"><!-- 标准可暂借bill文献类型-->
            <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -237,11 +251,17 @@
               <text macro="serial-information" prefix=""/>
             </if>
           </choose>
+          <choose><!-- 标准可暂借bill文献类型, 如果有网址则添加-->
+            <if variable="URL">
+              <text macro="accessed-date"/> 
+              <text variable="URL" prefix=". "/>
+            </if>
+          </choose>
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </else-if>
         <else-if type="report" match="any"><!-- 报告Report-->
-             <group delimiter=". " prefix=".">
+             <group prefix=".">
                 <choose>
                   <if variable="issued">
                       <text macro="issued-date" prefix="（" suffix="）"/>
@@ -251,7 +271,7 @@
                 <text macro="accessed-date"/>
                 <choose>
                   <if variable="URL">
-                    <text variable="URL"/>
+                    <text variable="URL" prefix=". "/>
                   </if>
                 </choose>
                 <!--如果有网址则添加-->
