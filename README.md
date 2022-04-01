@@ -706,6 +706,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 `Zotero` 如何查看 `My Library` 中的文献属于哪个分类（文件夹）？<https://zhuanlan.zhihu.com/p/340591764>。
 
+`Zotero` 如何只查找一个文件夹下的条目见<https://zhuanlan.zhihu.com/p/491245011>。
+
 `Zotero` 同步文献库和附件 <https://zhuanlan.zhihu.com/p/339443686>。
 
 `Zotero` 利用 `ZotFile` 管理附件参见 <https://zhuanlan.zhihu.com/p/337801423>。
