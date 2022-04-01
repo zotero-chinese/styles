@@ -776,6 +776,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。
 
+`Zotero` 标准的引用方法（视频讲解）见<https://zhuanlan.zhihu.com/p/491375843>。
+
 `Zotero` 分类、标签和关联的使用 <https://zhuanlan.zhihu.com/p/275707703>。
 
 `Zotero` 检索引擎的使用 <https://zhuanlan.zhihu.com/p/268074292>。
