@@ -212,10 +212,15 @@
       <text macro="title"/>
       <choose>
         <if type="chapter thesis" match="any">
-          <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
               <text value="//"/>
+          </if>
+          </choose>
+          <text macro="editor" prefix="" suffix=". "/>
+          <choose>
+            <if variable="container-title">
+              
               <text macro="container-author" suffix=". "/>
               <text variable="container-title" suffix=". " text-case="title"/>
             </if>
@@ -278,10 +283,11 @@
               </group>
            </else-if>        
         <else-if type="paper-conference" match="any"><!-- 会议论文-->
-            <text macro="editor" prefix=". "/>
+            <text value="//"/>
+            <text macro="editor" prefix=""  suffix=" "/>
             <choose>
               <if variable="container-title">
-                <text value="//"/>
+                
                 <text macro="container-author" suffix=". "/>
                 <text variable="container-title" suffix=". " text-case="title"/>
               </if>
@@ -291,8 +297,9 @@
             </choose>
             <text macro="edition" suffix=". "/>
           <!-- <text macro="publishing"/>   改为下面的组，用以显示会议名称及卷 -->
-          <group delimiter=", " prefix="">
-            <text variable="publisher"/>
+          <group prefix="">
+            <text variable="publisher-place" suffix=": "/>
+            <text variable="publisher"  suffix=", "/>/>
             <text macro="serial-information" prefix=""/>
           </group>
           </else-if>
