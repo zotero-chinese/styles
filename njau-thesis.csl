@@ -299,7 +299,7 @@
           <!-- <text macro="publishing"/>   改为下面的组，用以显示会议名称及卷 -->
           <group prefix="">
             <text variable="publisher-place" suffix=": "/>
-            <text variable="publisher"  suffix=", "/>/>
+            <text variable="publisher"  suffix=", "/>
             <text macro="serial-information" prefix=""/>
           </group>
           </else-if>
@@ -322,7 +322,7 @@
         </else-if>
         <else-if type="post-weblog webpage" match="any"> <!--webpage添加访问日期显示-->
           <group prefix=". ">
-            <text macro="container-title" prefix=". " suffix=". "/>
+            <text variable="container-title" prefix=". " suffix=". "/>
             <text macro="issued-date" prefix="(" suffix=")"/>
             <text macro="accessed-date"/>
             <text variable="URL" prefix=". "/>
