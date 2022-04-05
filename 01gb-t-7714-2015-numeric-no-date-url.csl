@@ -192,7 +192,7 @@
     </group>
   </macro>
   <macro name="full-bib">
-    <text variable="citation-number" prefix="[" suffix="] "/>
+ 
         <text macro="author" suffix=". "/>
         <text macro="title" text-case="title"/>
         <choose>
@@ -291,9 +291,11 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
     <layout suffix="." locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="full-bib" suffix="."/>
     </layout>
     <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="full-bib" suffix="."/>
     </layout>
   </bibliography>
