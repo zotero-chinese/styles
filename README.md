@@ -399,6 +399,34 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 >徐渊，韩敏义，陈艳萍，，等.三个品种白切鸡食用品质评价[J]. 食品工业科技,2021, 42(01): 89–95.<br>
 > ```
 
+## [28acta-physica-sinica.csl]
+物理学报<hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[00gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
+
+存在问题：
+
+1.期刊对应的英文翻译中的斜体和加粗需要在相应字段前后加<i></i>和<b></b>，详见https://zhuanlan.zhihu.com/p/57638901。
+2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。
+3.会议论文日期无法是日期范围。
+4.其它文献类型待测试。
+
+显示效果：
+
+> ```
+ 论文<sup>[1–3]</sup> 书籍<sup>[4]</sup> <br>
+> 专利<sup>[5]</sup><sup>网页[6]</sup>学位论文 <sup>[7] </sup><br>
+> 书<sup>[8] </sup>会议论文<sup>[9]</sup> <br>
+
+
+>[1]	Sun Q C, Wang G Q 2008 Acta Phys. Sin. 57 4667(in Chinese) [孙其诚, 王光谦 2008 物理学报 57 4667]<br>
+>[2]	Shahverdiev E M, Shore K A 2005 Phys. Rev. E 71 016201<br>
+>[3]	Eckertova L(translated by Wang G Y)1986 Thin Film Physics (Beijing: Science Press) pp110—113(in Chinese) [埃克托瓦L著 (王广阳译) 1986 薄膜物理学 (北京: 科学出版社)第110–113页]<br>
+>[4]	Feng D, Jin G J 2003 Condensed Matter Physics (Volume 1) (Beijing: Higher Education Press)(in Chinese) [冯端, 金国钧 2003 凝聚态物理学（上卷） (北京: 高等教育出版社)第341页]<br>
+>[5]	Zhong C,Zhao D S,Liu Y H,Bao J L 2021 	CN201910789365.X(in Chinese) [钟成, 赵德双, 刘要红, 包金龙 2021 CN201910789365.X]<br>
+>[6]	High-Precision Software Directory Bailey D B http://crd.lbl.gov/~dhbailey/mpdist/ [2010-08-11]<br>
+>[7]	Ma C H 2017 Ph.D. Dissertation  (Changsha: National University of Defense Technology)(in Chinese) [马聪慧 2017 博士学位论文 (长沙: 国防科技大学)]<br>
+>[8]	Bloembergen N 1965 Nonlinear optics (New York: Benjamin) pp12–20<br>
+>[9]	Huang J,Yan S G,Zhang B X,Zhang M 2019 Proceedings of the 2019 National Acoustical Congress  Shenzhen，China, September 21-23,2019 P261(in Chinese) [黄娟, 阎守国, 张碧星, 张敏 2019 2019年全国声学大会论文集 中国：深圳, 2019-09-21第261–262页]<br>
+> ```
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl]
 
 china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -849,7 +877,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 给 `Word` 中的 `Zotero` 设置快捷键 <https://zhuanlan.zhihu.com/p/55259481>。
 
 
-
+[00gb-t-7714-2015-numeric-zepingli-rework.csl]:00gb-t-7714-2015-numeric-zepingli-rework.csl
 [10economic-research-journal.csl]: 10economic-research-journal.csl
 [13ynu-thesis.csl]: 13ynu-thesis.csl
 [14tcsae.csl]: 14tcsae.csl
@@ -863,6 +891,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [21sjtu-thesis.csl]:21sjtu-thesis.csl
 [26njau-thesis-online-first.csl]:26njau-thesis-online-first.csl
 [27zju-thesis.csl]:27zju-thesis.csl
+[28acta-physica-sinica.csl]:28acta-physica-sinica.csl
 [21sjtu-thesis.csl]:21sjtu-thesis.csl
 [02chinese-law-journals.csl]: 02chinese-law-journals.csl
 [04zuel-thesis]: 04zuel-thesis.csl
