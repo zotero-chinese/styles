@@ -400,20 +400,23 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > ```
 
 ## [28acta-physica-sinica.csl]
-物理学报<hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[00gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
+[《物理学报》](hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm)样式，根据[00gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
 
 存在问题：
 
-1.期刊对应的英文翻译中的斜体和加粗需要在相应字段前后加<i></i>和<b></b>，详见https://zhuanlan.zhihu.com/p/57638901。
+1.期刊对应的英文翻译请自行翻译，并添加到`Short Title`字段中，其实现的原理见<https://zhuanlan.zhihu.com/p/282826403>；斜体和加粗需要在相应字段前后加`<i></i>`和`<b></b>`，详见https://zhuanlan.zhihu.com/p/57638901。
+
 2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。
+
 3.会议论文日期无法是日期范围。
+
 4.其它文献类型待测试。
 
 显示效果：
 
 > ```
  论文<sup>[1–3]</sup> 书籍<sup>[4]</sup> <br>
-> 专利<sup>[5]</sup><sup>网页[6]</sup>学位论文 <sup>[7] </sup><br>
+> 专利<sup>[5]</sup>网页<sup>[6]</sup>学位论文 <sup>[7] </sup><br>
 > 书<sup>[8] </sup>会议论文<sup>[9]</sup> <br>
 
 
