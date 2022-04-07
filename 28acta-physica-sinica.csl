@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>Acta Physica Sinica (物理学报)</title>
-    <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="self" />
-    <link href="hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm" rel="documentation" />
+    <id>http://www.zotero.org/styles/acta-physica-sinica.csl</id>
+    <link href="http://www.zotero.org/styles/acta-physica-sinica.csl" rel="self" />
+    <link href="https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm" rel="documentation" />
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
@@ -166,15 +166,6 @@
           <text variable="publisher-place" />
           <text variable="publisher" />
         </group>
-        <!-- 非电子资源显示“出版年” -->
-        <!-- <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose> -->
       </group>
       <text variable="page" />
     </group>
@@ -226,11 +217,6 @@
     <!-- <text macro="accessed-date"/> -->
     <!-- </group> -->
   </macro>
-
-  <!-- 文献类型标识 -->
-
-  <!-- 获取和访问路径以及 DOI -->
-
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
     <group>
@@ -316,7 +302,6 @@
           <text variable="genre" suffix="学位论文" />
         </if>
       </choose>
-
       <text macro="publishing" prefix="(" suffix=")" />
     </group>
     <!-- 如果是中文添加后面半个括号 -->
@@ -342,12 +327,10 @@
           <text variable="container-title" form="short" />
         </if>
       </choose>
-
       <text variable="event-place" />
     </group>
     <text macro="issued-date" prefix=", " />
     <!-- 如果是中文添页码前的第 -->
-
     <choose>
       <if variable="title-short">
         <text value="第" />
@@ -368,17 +351,13 @@
         <text value="]" />
       </if>
     </choose>
-
   </macro>
   <!-- 连续出版物 -->
   <macro name="serial-layout">
     <group delimiter=". " suffix="">
       <text macro="author" />
-
       <text macro="year-volume-issue" />
       <text macro="publishing" />
-
-
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -393,9 +372,7 @@
     </choose>
     <group delimiter=" " suffix="">
       <text macro="author" />
-
       <text macro="periodical-publishing" />
-
     </group>
     <!-- 如果是中文添加后面半个括号 -->
     <choose>
@@ -433,7 +410,6 @@
         <text value="]" />
       </if>
     </choose>
-
   </macro>
   <!-- 正文中引用的文献标注格式 -->
   <macro name="citation-layout">
@@ -476,7 +452,6 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="1000" et-al-use-first="1000" second-field-align="flush">
-
     <layout>
       <text variable="citation-number" prefix="[" suffix="]" />
       <text macro="entry-layout" />
