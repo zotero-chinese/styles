@@ -56,7 +56,7 @@
   <macro name="author">
     <names variable="author">
       <name>
-        <name-part name="family" text-case="" />
+        <name-part name="family" />
         <name-part name="given" />
       </name>
       <substitute>
