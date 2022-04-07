@@ -58,7 +58,7 @@ email 前后加 __
 > 13 Id.p.20.<br>
 
 
-## [04zuel-thesis]
+## [04zuel-thesis.csl]
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
 )样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -400,16 +400,13 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > ```
 
 ## [28acta-physica-sinica.csl]
-[《物理学报》](hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm)样式，根据[00gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
+《物理学报》<hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[00gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
 
 存在问题：
 
-1.期刊对应的英文翻译请自行翻译，并添加到`Short Title`字段中，其实现的原理见<https://zhuanlan.zhihu.com/p/282826403>；斜体和加粗需要在相应字段前后加`<i></i>`和`<b></b>`，详见https://zhuanlan.zhihu.com/p/57638901。
-
-2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。
-
-3.会议论文日期无法是日期范围。
-
+1.期刊对应的英文翻译请自行翻译，并添加到`Short Title`字段中，其实现的原理见<https://zhuanlan.zhihu.com/p/282826403>；斜体和加粗需要在相应字段前后加`<i></i>`和`<b></b>`，详见https://zhuanlan.zhihu.com/p/57638901。<br>
+2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。<br>
+3.会议论文日期无法是日期范围。<br>
 4.其它文献类型待测试。
 
 显示效果：
@@ -897,7 +894,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [28acta-physica-sinica.csl]:28acta-physica-sinica.csl
 [21sjtu-thesis.csl]:21sjtu-thesis.csl
 [02chinese-law-journals.csl]: 02chinese-law-journals.csl
-[04zuel-thesis]: 04zuel-thesis.csl
+[04zuel-thesis.csl]: 04zuel-thesis.csl
 [05swu-thesis.csl]: 05swu-thesis.csl
 [06cma.csl]: 06cma.csl
 [07comparative-economic-and-social-systems.csl]: 07comparative-economic-and-social-systems.csl
