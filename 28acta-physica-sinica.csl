@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>Acta Physica Sinica (物理学报)</title>
-    <id>http://www.zotero.org/styles/acta-physica-sinica.csl</id>
-    <link href="http://www.zotero.org/styles/acta-physica-sinica.csl" rel="self" />
+    <id>http://www.zotero.org/styles/acta-physica-sinica</id>
+    <link href="http://www.zotero.org/styles/acta-physica-sinica" rel="self" />
     <link href="https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm" rel="documentation" />
     <author>
       <name>牛耕田</name>
@@ -88,20 +88,6 @@
         </choose>
       </if>
     </choose>
-  </macro>
-  <!-- 专著主要责任者 -->
-  <macro name="container-author">
-    <names variable="editor">
-      <name>
-        <name-part name="family" text-case="uppercase" />
-        <name-part name="given" />
-      </name>
-      <substitute>
-        <names variable="editorial-director" />
-        <names variable="collection-editor" />
-        <names variable="container-author" />
-      </substitute>
-    </names>
   </macro>
   <!-- 专著题名 -->
   <macro name="container-title">
@@ -451,7 +437,7 @@
       <text macro="citation-layout" />
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="1000" et-al-use-first="1000" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="10000" et-al-use-first="1000" second-field-align="flush">
     <layout>
       <text variable="citation-number" prefix="[" suffix="]" />
       <text macro="entry-layout" />
