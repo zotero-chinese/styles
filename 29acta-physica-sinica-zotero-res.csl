@@ -205,12 +205,12 @@
   </macro>
   <!-- 专著、译著 -->
   <macro name="monograph-layout">
-    <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+    <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
     <choose>
-      <if variable="title-short">
-        <text variable="title-short" suffix=" (in Chinese)"/>
+      <if variable="original-title">
+        <text variable="original-title" suffix=" (in Chinese)"/>
         <group delimiter=" " prefix=" [" suffix="]">
-          <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+          <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
           <choose>
             <if variable="translator">
               <text macro="author" suffix="著"/>
@@ -254,10 +254,10 @@
   </macro>
   <!-- 学位论文 -->
   <macro name="thesis-layout">
-    <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+    <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
     <choose>
-      <if variable="title-short">
-        <text variable="title-short" suffix=" (in Chinese)"/>
+      <if variable="original-title">
+        <text variable="original-title" suffix=" (in Chinese)"/>
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
           <text macro="issued-year"/>
@@ -279,10 +279,10 @@
 
   <!-- 会议论文 -->
   <macro name="paper-conference-layout">
-    <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+    <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
     <choose>
-      <if variable="title-short">
-        <text variable="title-short" suffix=" (in Chinese)"/>
+      <if variable="original-title">
+        <text variable="original-title" suffix=" (in Chinese)"/>
 
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
@@ -335,10 +335,10 @@
 
   <!-- 连续出版物中的析出文献 -->
   <macro name="article-in-periodical-layout">
-    <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+    <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
     <choose>
-      <if variable="title-short">
-        <text variable="title-short" suffix=" (in Chinese)"/>
+      <if variable="original-title">
+        <text variable="original-title" suffix=" (in Chinese)"/>
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
           <text macro="periodical-publishing"/>
@@ -356,10 +356,10 @@
 
   <!-- 网页 -->
   <macro name="webpage-layout">
-    <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+    <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
     <choose>
-      <if variable="title-short">
-        <text variable="title-short" suffix=" (in Chinese)"/>
+      <if variable="original-title">
+        <text variable="original-title" suffix=" (in Chinese)"/>
         <group delimiter=" " prefix=" [" suffix="]">
           <text variable="title"/>
           <text macro="author"/>
@@ -381,10 +381,10 @@
 
   <!-- 专利文献 -->
   <macro name="patent-layout">
-    <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
+    <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
     <choose>
-      <if variable="title-short">
-        <text variable="title-short" suffix=" (in Chinese)"/>
+      <if variable="original-title">
+        <text variable="original-title" suffix=" (in Chinese)"/>
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
           <text macro="issued-year"/>
