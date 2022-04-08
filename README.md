@@ -406,7 +406,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 1.期刊对应的英文翻译请自行翻译，并添加到`Short Title`字段中，其实现的原理见<https://zhuanlan.zhihu.com/p/282826403>；斜体和加粗需要在相应字段前后加`<i></i>`和`<b></b>`，详见https://zhuanlan.zhihu.com/p/57638901。<br>
 2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。<br>
-3.会议论文日期无法是日期范围。<br>
+3.会议论文日期无法是日期范围：只能在Extra中输入<code>Date: 2019年09月21-23日</code>或<code>Issued: 2019-09-21/2019-09-23</code>，最终显示为：<code>2019-09-21/23</code>。<br>
 4.其它文献类型待测试。
 
 显示效果：
