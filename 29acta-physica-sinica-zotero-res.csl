@@ -353,7 +353,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 网页 -->
   <macro name="webpage-layout">
     <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
