@@ -190,9 +190,9 @@
         </if>
       </choose>
       <text variable="volume" font-weight="bold"/>
-     <text variable="page-first"/> <!-- 只显示首页 如果显示范围为page -->
+      <text variable="page-first"/> <!-- 只显示首页 如果显示范围为page -->
     </group>
- </macro>
+  </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
     <group>
@@ -301,27 +301,27 @@
             <text variable="page" prefix="第" suffix="页"/>
           </if>
         </choose>
-        <else>
-          <!-- 如果是原版会议论文 -->
-          <group delimiter=" ">
-            <text macro="author"/>
-            <text macro="issued-year"/>
-            <choose>
-              <if variable="container-title">
-                <text variable="container-title" form="short"/>
-              </if>
-            </choose>
-            <text variable="event-place"/>
-          </group>
-          <text macro="issued-date" prefix=", "/>
+      </if>
+      <else>
+        <!-- 如果是原版会议论文 -->
+        <group delimiter=" ">
+          <text macro="author"/>
+          <text macro="issued-year"/>
           <choose>
-            <!-- 如果有页码则显示 -->
-            <if variable="page">
-              <text variable="page" prefix="pp"/>
+            <if variable="container-title">
+              <text variable="container-title" form="short"/>
             </if>
           </choose>
-        </else>
-      </if>
+          <text variable="event-place"/>
+        </group>
+        <text macro="issued-date" prefix=", "/>
+        <choose>
+          <!-- 如果有页码则显示 -->
+          <if variable="page">
+            <text variable="page" prefix="pp"/>
+          </if>
+        </choose>
+      </else>
     </choose>
   </macro>
   <!-- 连续出版物 -->
