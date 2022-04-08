@@ -178,10 +178,7 @@
   </macro>
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
   <macro name="periodical-publishing">
-
-
     <group delimiter=" ">
-
       <text macro="issued-year" />
       <text macro="container-title" text-case="title" />
       <choose>
@@ -276,14 +273,12 @@
       </else>
     </choose>
   </macro>
-
   <!-- 会议论文 -->
   <macro name="paper-conference-layout">
     <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
     <choose>
       <if variable="title-short">
         <text variable="title-short" suffix=" (in Chinese)" />
-
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author" />
           <text macro="issued-year" />
@@ -292,15 +287,15 @@
               <text variable="container-title" form="short" />
             </if>
           </choose>
-          <text variable="event-place" />
+          <text variable="event-place" suffix="," />
+          <text macro="issued-date" />
+          <choose>
+            <!-- 如果有页码则显示 -->
+            <if variable="page">
+              <text variable="page" prefix="第" suffix="页" />
+            </if>
+          </choose>
         </group>
-        <text macro="issued-date" prefix=", " />
-        <choose>
-          <!-- 如果有页码则显示 -->
-          <if variable="page">
-            <text variable="page" prefix="第" suffix="页" />
-          </if>
-        </choose>
       </if>
       <else>
         <!-- 如果是原版会议论文 -->
@@ -313,14 +308,14 @@
             </if>
           </choose>
           <text variable="event-place" />
+          <text macro="issued-date" prefix=", " />
+          <choose>
+            <!-- 如果有页码则显示 -->
+            <if variable="page">
+              <text variable="page" prefix="pp" />
+            </if>
+          </choose>
         </group>
-        <text macro="issued-date" prefix=", " />
-        <choose>
-          <!-- 如果有页码则显示 -->
-          <if variable="page">
-            <text variable="page" prefix="pp" />
-          </if>
-        </choose>
       </else>
 
     </choose>
