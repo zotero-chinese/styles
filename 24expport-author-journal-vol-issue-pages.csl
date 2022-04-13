@@ -4,8 +4,8 @@
   <info>
     <title>导出作者期刊卷期页Export Author Journal</title>
     <title-short>导出作者期刊卷期页</title-short>
-    <id>http://www.zotero.org/24expport-author-journal-vol-issue-pages.csl</id>
-    <link href="http://www.zotero.org/styles/expport-author-journal-vol-issue-pages.csl" rel="self"/>
+    <id>http://www.zotero.org/styles/24expport-author-journal-vol-issue-pages</id>
+    <link href="http://www.zotero.org/styles/expport-author-journal-vol-issue-pages" rel="self"/>
     <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
     <author>
       <name>牛耕田</name>
@@ -184,7 +184,7 @@
              <group delimiter=". " prefix=".">
                 <choose>
                   <if variable="issued">
-                      <text macro="issued-date" prefix="（" suffix="）"/>
+                      <text macro="issued-date" prefix=" (" suffix=") "/>
                   </if>
                 </choose>
                 <!--如果有日期则添加-->

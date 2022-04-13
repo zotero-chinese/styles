@@ -2,7 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" et-al-min="19" et-al-use-first="19" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
     <title>JNU-thesis暨南大学硕博论文</title>
-    <title-short>zuel</title-short>
+    <title-short>JNU-thesis</title-short>
     <id>http://www.zotero.org/styles/jnu-thesis</id>
     <link href="http://www.zotero.org/styles/jnu-thesis" rel="self"/>
     <link href="https://gs.jnu.edu.cn/2016/0419/c882a131006/page.htm" rel="documentation"/>
@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>JNU-thesis暨南大学硕博论文</summary>
-    <updated>2021-11-15T04:53:18+00:00</updated>
+    <updated>2022-04-13T04:53:18+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -61,7 +61,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" delimiter=" " and="text" et-al-min="3">
+          <name form="short" delimiter=" " and="symbol" et-al-min="3">
             <name-part name="family" text-case="capitalize-first"/>
           </name>
         </names>

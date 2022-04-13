@@ -724,6 +724,8 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 `Zotero` 中使用`GB/7714-2015`相关 `csl` 时文末显示的访问日期如何隐藏？<https://zhuanlan.zhihu.com/p/349555378>。
 
+`Zotero` 使用GB/T 7714 2015 样式期刊类型显示为[Z]的原因及解决方法见<https://zhuanlan.zhihu.com/p/497855911>。
+
 `Zotero` 右键菜单中为什么没有 `Find Available PDF`？<https://zhuanlan.zhihu.com/p/348697024>。
 
 `Zotero` 插件（扩展）的安装--以`茉莉花（jasminum）`为例 <https://zhuanlan.zhihu.com/p/347628976>。

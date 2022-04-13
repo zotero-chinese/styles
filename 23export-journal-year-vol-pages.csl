@@ -4,7 +4,7 @@
   <info>
     <title>导出期刊年卷期Export Journal</title>
     <title-short>导出期刊年卷期</title-short>
-    <id>http://www.zotero.org/journal-year-vol</id>
+    <id>http://www.zotero.org/styles/journal-year-vol</id>
     <link href="http://www.zotero.org/styles/journal-year-vol" rel="self"/>
     <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
     <author>
@@ -183,7 +183,7 @@
              <group delimiter=". " prefix=".">
                 <choose>
                   <if variable="issued">
-                      <text macro="issued-date" prefix="（" suffix="）"/>
+                      <text macro="issued-date" prefix=" (" suffix=") "/>
                   </if>
                 </choose>
                 <!--如果有日期则添加-->
@@ -217,7 +217,7 @@
             <choose>
               <if variable="container-title">
                 <text variable="container-title" text-case="title"/>
-                <text macro="serial-information" prefix="（" suffix="）"/>
+                <text macro="serial-information" prefix=" (" suffix=") "/>
               </if>
               <else>
                 <text macro="serial-information" suffix=". "/>
@@ -228,7 +228,7 @@
         </else-if>
         <else-if type="patent"> <!--专利-->
             <text variable="title"/>
-             <text variable="number" prefix="（" suffix="）"/>
+             <text variable="number" prefix=" (" suffix=") "/>
         </else-if>
         <else-if type="post-weblog webpage" match="any"> <!--webpage添加访问日期显示-->
           <group prefix=". ">
