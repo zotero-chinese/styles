@@ -428,6 +428,23 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 >[8]	Bloembergen N 1965 Nonlinear optics (New York: Benjamin) pp12–20<br>
 >[9]	Huang J,Yan S G,Zhang B X,Zhang M 2019 Proceedings of the 2019 National Acoustical Congress  Shenzhen，China, September 21-23,2019 P261(in Chinese) [黄娟, 阎守国, 张碧星, 张敏 2019 2019年全国声学大会论文集 中国：深圳, 2019-09-21第261–262页]<br>
 > ```
+
+## [32njau-thesis-author-date.csl]
+南京农业大学硕博论文用（作者年代样式），[27zju-thesis.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
+
+显示效果：
+
+> ```
+
+>（Duan and Wu, 2009; Wang et al., 2020a）<br>
+>（Wang et al., 2020a, 2020b）<br>
+>（杨惠和张金桐，2001）<br>
+>Duan Q-J, Wu Y-D. Rapid diagnosis of bacterial meningitis in children with fluorescence quantitative polymerase chain reaction amplification in the bacterial 16S rRNA gene[J]. European Journal of Pediatrics,2009, 168(2): 211–216.<br>
+>Wang J, Ma H, Zhao S, et al. Functional redundancy of two ABC transporter proteins in mediating toxicity of Bacillus thuringiensis to cotton bollworm[J]. PLoS pathogens,2020a, 16(3): e1008427.<br>
+>Wang J, Zhao X, Yan R, et al. Reverse genetics reveals contrary effects of two Rdl-homologous GABA receptors of Helicoverpa armigera on the toxicity of cyclodiene insecticides[J]. Pesticide Biochemistry and Physiology,2020b, 170: 104699.<br>
+>杨惠，张金桐.几丁质合成抑制剂的毒理学研究进展[J]. 寄生虫与医学昆虫学报,2001(01): 57–64.<br>
+> ```
+
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl]
 
 china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -918,3 +935,4 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [jm-chinese-std-gb-t-7714-2005-revised.csl]: jm-chinese-std-gb-t-7714-2005-revised.csl
 [njau-thesis.csl]: njau-thesis.csl
 [30njau-thesis-old.csl]: 30njau-thesis-old.csl
+[32njau-thesis-author-date.csl]: 32njau-thesis-author-date.csl
