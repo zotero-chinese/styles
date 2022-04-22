@@ -184,7 +184,7 @@
                         <text variable="publisher" suffix="，" />
                     </group>
                 </group>
-                <date date-parts="year" form="numeric" variable="issued" suffix="." />
+                <date date-parts="year" form="numeric" variable="issued" suffix="." prefix=" "/>
                 <text variable="page" />
             </if>
         </choose>

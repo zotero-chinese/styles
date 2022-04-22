@@ -439,10 +439,10 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 >（Duan and Wu, 2009; Wang et al., 2020a）<br>
 >（Wang et al., 2020a, 2020b）<br>
 >（杨惠和张金桐，2001）<br>
->Duan Q-J, Wu Y-D. Rapid diagnosis of bacterial meningitis in children with fluorescence quantitative polymerase chain reaction amplification in the bacterial 16S rRNA gene[J]. European Journal of Pediatrics,2009, 168(2): 211–216.<br>
->Wang J, Ma H, Zhao S, et al. Functional redundancy of two ABC transporter proteins in mediating toxicity of Bacillus thuringiensis to cotton bollworm[J]. PLoS pathogens,2020a, 16(3): e1008427.<br>
->Wang J, Zhao X, Yan R, et al. Reverse genetics reveals contrary effects of two Rdl-homologous GABA receptors of Helicoverpa armigera on the toxicity of cyclodiene insecticides[J]. Pesticide Biochemistry and Physiology,2020b, 170: 104699.<br>
->杨惠，张金桐.几丁质合成抑制剂的毒理学研究进展[J]. 寄生虫与医学昆虫学报,2001(01): 57–64.<br>
+>Duan Q-J, Wu Y-D. Rapid diagnosis of bacterial meningitis in children with fluorescence quantitative polymerase chain reaction amplification in the bacterial 16S rRNA gene[J]. European Journal of Pediatrics, 2009, 168(2): 211–216.<br>
+>Wang J, Ma H, Zhao S, et al. Functional redundancy of two ABC transporter proteins in mediating toxicity of Bacillus thuringiensis to cotton bollworm[J]. PLoS pathogens, 2020a, 16(3): e1008427.<br>
+>Wang J, Zhao X, Yan R, et al. Reverse genetics reveals contrary effects of two Rdl-homologous GABA receptors of Helicoverpa armigera on the toxicity of cyclodiene insecticides[J]. Pesticide Biochemistry and Physiology, 2020b, 170: 104699.<br>
+>杨惠，张金桐.几丁质合成抑制剂的毒理学研究进展[J]. 寄生虫与医学昆虫学报, 2001(01): 57–64.<br>
 > ```
 
 ## [gb-t-7714-2015-author-date-aulower-bilan.csl]
