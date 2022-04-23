@@ -4,7 +4,21 @@
 加粗 前后加 **
 email 前后加 __
 -->
-其它 GB/T 7714 相关文件见 <https://zhuanlan.zhihu.com/p/62396113>。国内 Gitee 仓库 <https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>，自动同步。
+国内 Gitee 仓库 <https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>，自动同步。
+
+## CSL文件名说明：
+
+0开头为[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl)基础修改的样式；
+
+1开头为数字格式期刊样式；
+
+2开头为作者年代期刊样式；
+
+3开头为Note期刊样式；
+
+4开头为学位论文样式；
+
+5开头为其它样式。
 
 ## [001gb-t-7714-2015-numeric-no-date-url.csl]
 
@@ -457,7 +471,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. *Food Hydro*. 2021, 113: 106388<br>
 > 4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. *Inn Food Sci & Emer Tech*. 2013, 18: 237–245
 
-## [404JNU-thesis.csl]
+## [404jnu-thesis.csl]
 
 [4zuel-thesis] 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
@@ -881,7 +895,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [205bmj.csl]: 205bmj.csl
 [206accounting-research.csl]: 206accounting-research.csl
 [003gb-t-7714-2005-numeric-book-pages.csl]: 003gb-t-7714-2005-numeric-book-pages.csl
-[404JNU-thesis.csl]: 404JNU-thesis.csl
+[404jnu-thesis.csl]: 404jnu-thesis.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
 [001gb-t-7714-2015-numeric-no-date-url.csl]: 001gb-t-7714-2015-numeric-no-date-url.csl
 [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
