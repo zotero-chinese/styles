@@ -25,7 +25,6 @@ email 前后加 __
 > [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
 > [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
-
 ## [003gb-t-7714-2005-numeric-book-pages.csl]
 
 [chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl) 官方版本上修改，文献类型 `Book`（书籍）可以显示页码，需要将页码放在 `# of Pages`（总页码）字段。
@@ -50,23 +49,7 @@ email 前后加 __
 [2]	工业和信息化部, 国家发展改革委, 科技部. 三部委关于印发《汽车产业中长期发展规划》的通知[EB/OL]. (2017-04-06)[2021-12-01]. https://www.miit.gov.cn/zwgk/zcwj/wjfb/zbgy/art/2020/art_52eeb9d6f2bf484398fc2505e747afc9.html.<br>
 [3]	丛娜. 流域下垫面变化影响下设计洪水修订问题的研究[D]. 天津大学, 2013.<br>
 [4]	李刚, 宗长富, 陈国迎, 等. 线控四轮独立驱动轮毂电机电动车集成控制[J]. 吉林大学学报(工学版), 2012, 42(04): 796-802.<br>
-
 > ```
-## [010gb-t-7714-2015-author-date-aulower-bilan.csl]
-
-china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-显示效果：
-
-> ```
-> (Zhang et al., 2020; 唐霄等, 2019; Wu et al., 2016; 朱磊等, 2020)
-> ```
-
-> 唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
-> 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
-> Wu L, Zhao W, Yang R, et al., 2016. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> Zhang B, Qi X, Mao J, et al., 2020. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 127: 109393. DOI:10.1016/j.lwt.2020.109393.
-
 
 ## [005china-national-standard-gb-t-7714-2015-note-noibid.csl]
 
@@ -82,18 +65,19 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > <sup>4</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.
 
 
-## [008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]
+## [006gb-t-7714-2015-numeric.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为“`等`”，英文显示为“`et al`”，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
 
-显示效果：
+显示效果（`csl` 设置的是 `Title` 格式，但在我的 `Word` 中显示只是第一个单词和最后一个单词首字母大写）：
 
 > [1–4]
 
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
+> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
+> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+
 
 
 ## [007gb-t-7714-2015-numeric-aulower-bilan.csl]
@@ -110,6 +94,19 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > [3]	Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
 > [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
+
+## [008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]
+
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+
+显示效果：
+
+> [1–4]
+
+> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
+> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
+> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 ## [009gb-t-7714-2015-numeric-pageout.csl]
 
@@ -128,20 +125,20 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > [4]	李先保, 韩敏义, 费英, 等. 低场NMR法研究微生物转谷氨酰酶对猪肉肌原纤维蛋白凝胶功能特性的影响: 03[J]. 南京农业大学学报, 2009, 32(03): 130–134.<br>
 
 
+## [010gb-t-7714-2015-author-date-aulower-bilan.csl]
 
-## [006gb-t-7714-2015-numeric.csl]
+china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
-网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为“`等`”，英文显示为“`et al`”，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
+显示效果：
 
-显示效果（`csl` 设置的是 `Title` 格式，但在我的 `Word` 中显示只是第一个单词和最后一个单词首字母大写）：
+> ```
+> (Zhang et al., 2020; 唐霄等, 2019; Wu et al., 2016; 朱磊等, 2020)
+> ```
 
-> [1–4]
-
-> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
-> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
+> 唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
+> 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
+> Wu L, Zhao W, Yang R, et al., 2016. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
+> Zhang B, Qi X, Mao J, et al., 2020. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 127: 109393. DOI:10.1016/j.lwt.2020.109393.
 
 ## [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]
 
@@ -155,7 +152,6 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
 > Yang H, Han M, Wang X, et al., 2015. Effect of high pressure on cooking losses and functional properties of Reduced-fat and reduced-salt pork sausage emulsions[J]. Innovative Food Science and Emerging Technologies, 29.	<br>
 > Zhao X, Chen X, Han M, et al., 2016. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat[J]. LWT - Food Science and Technology, 72: 141–148.
-
 
 ## [012gb-t-7714-2015-numeric-aulower-bilan.csl]
 
@@ -200,6 +196,21 @@ TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepa
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367<br>
 ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
 
+
+## [015jm-chinese-std-gb-t-7714-2005-revised.csl]
+
+[jm-chinese-std-gb-t-7714-2005.csl](https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl) 的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
+
+显示效果：
+
+> [1–4]
+
+> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation [J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes [J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
+> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+
+
 ## [101cma.csl]
 
 中华医学会系列杂志样式。[006gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
@@ -214,8 +225,6 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
 > [3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>
 > [4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
-
-
 
 ## [102tcsae.csl]
 
@@ -241,7 +250,6 @@ Z ang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and i
 L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract). <br>
 > [4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
 
-
 ## [103ieee-bl.csl]
 
 [官方 IEEE](https://github.com/citation-style-language/styles/blob/master/ieee.csl) 基础上修改。文内数字引用为上标格式，显示全部作者，中文最后一个作者前显示`和`，英文文献显示 `and`，英文文献条目需要在 `Zotero` 中将文献条目语言修改为 `en`。
@@ -258,7 +266,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [2]	C. Bonell, A. Oakley, J. Hargreaves, V. Strange, and R. Rees, “Research methodology - Assessment of generalisability in trials of health interventions: suggested framework and systematic review”, Bmj-British Medical Journal, vol. 333, no. 7563, pp. 346–349, Aug. 2006, doi: 10.1136/bmj.333.7563.346.<br>
 > [3]	金红兰和金龙勋, 《技术创新背景下的食品产业现状与发展趋势》, 粮食科技与经济, 卷 46, 期 03, 页 37–39, 2021.<br>
 > [4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
-
 
 
 ## [104acta-physica-sinica.csl]
@@ -386,7 +393,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [3] Potterie B. Van P. De La and F. Lichtenberg. Does Foreign Direct Investment Transfer Technology Across Borders? 3[J]. Review of Economics and Statistics, 2001, 83(3): 490–497.	<br>
 > [4] 白俊红, 蒋伏心. 协同创新、空间关联与区域创新绩效[J]. 经济研究, 2015, 50(07): 174–187.	<br>
 
-
 ## [206accounting-research.csl]
 
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
@@ -402,8 +408,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 谢德仁, 郑登津, 崔宸瑜. 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
 > Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
 > Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
-
-
 
 ## [301chinese-law-journals.csl]
 
@@ -437,7 +441,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
 > 13 Id.p.20.<br>
 
-
 ## [403hzau-thesis.csl]
 
 [407njau-thesis-old.csl] 的修改版，适用于华中农业大学
@@ -453,7 +456,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 2. 刘克德. 水稻广亲和性遗传基础的全基因组分析及 S5 位点区 段部分物理图谱的构建. [博士学位论文]. 武汉: 华中农业大学，1998	<br>
 > 3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. *Food Hydro*. 2021, 113: 106388<br>
 > 4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. *Inn Food Sci & Emer Tech*. 2013, 18: 237–245
-
 
 ## [404JNU-thesis.csl]
 
@@ -478,6 +480,19 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [6]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37–39.<br>
 > [7]	唐小华, 胡斌, 李雪玲, 胡文锋. 食药用菌菌丝体应用研究进展[J]. 食用菌学报, 2021, 28(04): 116–122.<br>
 
+
+## [405njau-thesis.csl]
+
+南京农业大学硕博论文用，在 [000gb-t-7714-2015-numeric-zepingli-rework.csl] 基础上修改（原样式见[407njau-thesis-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+
+显示效果：
+
+> [1–4]
+
+> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.	<br>
+> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
+> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
+> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 ## [406njau-thesis-author-date.csl]
 南京农业大学硕博论文用（作者年代样式），[415zju-thesis.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
@@ -622,35 +637,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
 > 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 > ```
-
-## [015jm-chinese-std-gb-t-7714-2005-revised.csl]
-
-[jm-chinese-std-gb-t-7714-2005.csl](https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl) 的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
-
-显示效果：
-
-> [1–4]
-
-> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation [J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes [J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
-> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
-## [405njau-thesis.csl]
-
-南京农业大学硕博论文用，在 [000gb-t-7714-2015-numeric-zepingli-rework.csl] 基础上修改（原样式见[407njau-thesis-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
-
-显示效果：
-
-> [1–4]
-
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.	<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
 
 ## `csl` 文件的下载及添加
 
