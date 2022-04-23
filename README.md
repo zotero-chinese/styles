@@ -25,259 +25,6 @@ email 前后加 __
 > [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
 > [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
 
-## [301chinese-law-journals.csl]
-
-[法学引注手册（2019 年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
-
-存在问题：~~英文学位论文年后面应该为 `)`，现在显示为 `]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
-
-显示效果：
-
-> ```
-> 期刊中文12
-> 期刊英文345
-> 书籍中文67
-> 书籍英文89
-> 博士中文1011
-> 博士英文1213
-> ```
-
-
-> 1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
-> 2 同上。<br>
-> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
-> 4 Id.<br>
-> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
-> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
-> 7 同上p.26。<br>
-> 8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
-> 9 Id.p.20.<br>
-> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
-> 11 同上p.20。<br>
-> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
-> 13 Id.p.20.<br>
-
-
-## [416zuel-thesis.csl]
-
-网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
-)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-显示效果：
-
-> ```
-> （Berhe et al, 2014）
-> （王越溪和王鹏, 2018）
-> （庞之列等, 2014）
-> （He et al, 2013）
-> ```
-
-> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽, 2018, 40(23): 37–42.	<br>
-> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142–145.	<br>
-> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International, 2014, 66: 123–131.<br>
-> [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
-
-
-## [411swu-thesis.csl]
-
-网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/info/1052/2292.htm
-)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-显示效果：
-
-> ```
-> (杨赫鸿等, 2012)
-> (ElMasry et al., 2011)
-> (庞之列和何栩晓, 2014)
-> (Gross et al., 2013)
-> ```
-
->  庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
->  杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
->  ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
->  Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
-
-
-## [101cma.csl]
-
-中华医学会系列杂志样式。[006gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
-
-显示效果：
-
-> ```
-> [1]   [2,3]   [4]
-> ```
-
-> [1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
-> [2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
-> [3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>
-> [4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
-
-
-
-## [201comparative-economic-and-social-systems.csl]
-
-[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
-所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
-
-显示效果：
-
-> ```
-> （王琰等, 2021）
-> （唐霄等, 2019; Yang et al., 2015）
-> （Cavanna et al., 2019）
-> （何宇超等, 2020）
-> ```
-
-> 何宇超、程琪琪、吴莉等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
-> 唐霄、孙杨赢、江雪婷等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
-> 王琰、 曾新安、蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
-> Cavanna D., Zanardi S., Dall’Asta C., et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
-> Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
-
-
-## [417whu-school-of-law.csl]
-
-武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
-
-~~存在问题：年代后面的 `]` 应该为 `)`。~~
-
-
-显示效果：
-
-> ```
-> 1
-> 2
-> ```
-
-> 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
-> 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
-
-
-## [202journal-of-management-world.csl]
-
-[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
-
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
-所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
-
-显示效果：
-
-> ```
-> （康大成，2017）
-> （Chen et al., 2020）
-> （王静帆等，2021）
-> （Ebert et al., 2021）
-> ```
-
-> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
-> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第03期。<br>
-> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure Homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
-> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein Mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
-
-
-## [203economic-research-journal.csl]
-
-[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](9journal-of-management-world.csl)基础上修改。
-
-显示效果：
-
-> ```
-> （康大成，2017）
-> （Chen et al., 2020）
-> （王静帆等，2021）
-> （Ebert et al., 2021）
-> ```
-
-> 康大成，2017：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
-> 王静帆、黄峰、沈青山等，2021：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》第03期。<br>
-> Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, Trends in Food Science & Technology, 106, 12—29.<br>
-> Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
-
-
-## [414ynu-thesis.csl]
-
-云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
-
-显示效果：
-
-> ```
-> Lawal et al., 2018）
-> 白俊红和蒋伏心, 2015）
-> LeSage et Pace, 2009）
-> 沙文兵, 2012）
-> ```
-
-> 白俊红, 蒋伏心. 2015. 协同创新、空间关联与区域创新绩效[J]. 经济研究. 50(07): 174–187.<br>
-> 沙文兵. 2012. 对外直接投资、逆向技术溢出与国内创新能力——基于中国省际面板数据的实证研究[J]. 世界经济研究. (03): 69-74+89.<br>
-> Lawal I O, Ankrah A O, Popoola G O, et al. 2018. 18F-FDG-PET metabolic metrics and International Prognostic Score for risk assessment in HIV-infected patients with Hodgkin Lymphoma[J]. Nuclear Medicine Communications. 39(11): 1005–1012. DOI:10.1097/MNM.0000000000000905.<br>
-> LeSage J, Pace R K. 2009. Introduction to spatial Econometrics[M]. Chapman and Hall/CRC.<br>
-
-
-## [102tcsae.csl]
-
-与[014gb-t-7714-2015-numeric-auup-bilan-ce.csl] 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
-使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
-
-存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除；如果要设置缩进悬挂，需要将里面的软回车替换为硬回车，方法是 Word 中查找 `^l` 替换为 `^p` 批量替换。
-
-空行删除及缩进、悬挂设置：
-<!--![空行删除及缩进、悬挂设置-->
-![空行删除及缩进、悬挂设置](/img/blank-line-remove.gif "Title")
-显示效果：
-
-> [1]<br>
-> [2]<br>
-> [3]<br>
-> [4]<br>
-
-> [1] 张若兵, 陈杰, 肖健夫, 等. 高压脉冲电场设备及其在食品非热处理中的应用[J]. 高电压技术, 2011, 37(03): 777–786.
-Z ang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and its application in non-thermal food processing[J]. High Voltage Engineering, 2011, 37(03): 777–786. (in Chinese with English abstract). <br>
-> [2] Lan M, Li L, Peng X, et al. Effects of different lipids on the physicochemical properties and microstructure of pale, soft and exudative (PSE)-like chicken meat gel[J]. LWT, 2021: 111284.<br>
-> [3] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.
-L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract). <br>
-> [4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
-
-
-## [205bmj.csl]
-
-[《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在 `Loc. in Archive` 字段。
-
-存在问题：正文中要求英文两个作者之间要求用“`和`”，现在显示为“`&`”，可以后期在 Word 中批量替换。
-
-感谢 [@zepinglee](https://github.com/zepinglee) 的指导和代码，感谢 [@fredericky123](https://github.com/fredericky123) 测试。
-
-显示效果：
-
-> (温忠麟等, 2004)<sup>[1]</sup><br>
-> (Denkovski等, 2012)<sup>[2]</sup><br>
-> (Potterie & Lichtenberg, 2001)<sup>[3]</sup><br>
-> (白俊红和蒋伏心, 2015)<sup>[4]</sup><br>
-
-> [1] 温忠麟, 侯杰泰, 刘红云, 等. 中介效应检验程序及其应用[J]. 北京: 心理学报, 2004(05): 614–620.
-> [2] Denkovski D., V. Rakovic, M. Pavloski, et al. Integration of heterogeneous spectrum sensing devices towards accurate REM construction[C]//2012 IEEE Wireless Communications and Networking Conference (WCNC). 2012: 798–802.	<br>
-> [3] Potterie B. Van P. De La and F. Lichtenberg. Does Foreign Direct Investment Transfer Technology Across Borders? 3[J]. Review of Economics and Statistics, 2001, 83(3): 490–497.	<br>
-> [4] 白俊红, 蒋伏心. 协同创新、空间关联与区域创新绩效[J]. 经济研究, 2015, 50(07): 174–187.	<br>
-
-
-## [206accounting-research.csl]
-
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
-对于不连续的多页，需要写为 `128-140, 188` 或 `128-140 & 188`，才可以显示为`～`，不能写为 `128-140+188`，感谢 [@zepinglee](https://github.com/zepinglee) 的指导。
-
-显示效果：
-
-> (谢德仁等, 2016; Kaustia & Rantala, 2015)<br>
-> (陈珏锡等, 2021)<br>
-> (Gopalan et al., 2014)<br>
-
-> 陈珏锡, 张俊丰, 李源栋, 夏建军. 2021. 无溶剂微波萃取肉桂精油及成分分析. 现代食品科技, 08: 258-265+167.<br>
-> 谢德仁, 郑登津, 崔宸瑜. 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
-> Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
-> Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
-
 
 ## [003gb-t-7714-2005-numeric-book-pages.csl]
 
@@ -288,49 +35,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > <sup>[1]</sup>
 
 > [1]	MONASCH R, MAHY M. Young people: the centre of the HIV epidemic[M]. 2006:100–108.	<br>
-
-
-## [404JNU-thesis.csl]
-
-[4zuel-thesis] 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
-**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
-
-显示效果：
-
-> （陈珏锡等, 2021）<br>
-> （Bonell & Oakley, 2006）<br>
-> （Johnson et al., 2002）<br>
-> （金红兰和金龙勋, 2021）<br>
-> （Crepaz et al., 2006）<br>
-> （唐小华等, 2021）<br>
-> （Lyles et al., 2007）<br>
-
-> [1]	Bonell C, Oakley A. Research methodology - Assessment of generalisability in trials of health interventions: Suggested framework and systematic Review[J]. Bmj-British Medical Journal, 2006, 333(7563): 346–349.<br>
-> [2]	Crepaz N, Lyles C M, Wolitski R J, Passin W F, Rama S M, Herbst J H, Purcell D W, Malow R A, Stall R. Do prevention interventions reduce HIV risk behaviours among people living with HIV? A meta-analytic review of controlled Trials[J]. Aids, 2006, 20(2): 143–157.<br>
-> [3]	Johnson W D, Hedges L V, Ramirez G, Semaan S, Norman L R, Sogolow E, Sweat M D, Diaz R M. HIV prevention research for men who have sex with men: A systematic review and meta-Analysis[J]. Journal of Acquired Immune Deficiency Syndromes, 2002, 30: S118–S129.<br>
-> [4]	Lyles C M, Kay L S, Crepaz N, Herbst J H, Passin W F, Kim A S, Rama S M, Thadiparthi S, DeLuca J B, Mullins M M. Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004[J]. American Journal of Public Health, 2007, 97(1): 133–143.<br>
-> [5]	陈珏锡, 张俊丰, 李源栋, 夏建军. 无溶剂微波萃取肉桂精油及成分分析[J]. 现代食品科技, 2021, 37(08): 258-265+167.<br>
-> [6]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37–39.<br>
-> [7]	唐小华, 胡斌, 李雪玲, 胡文锋. 食药用菌菌丝体应用研究进展[J]. 食用菌学报, 2021, 28(04): 116–122.<br>
-
-
-## [103ieee-bl.csl]
-
-[官方 IEEE](https://github.com/citation-style-language/styles/blob/master/ieee.csl) 基础上修改。文内数字引用为上标格式，显示全部作者，中文最后一个作者前显示`和`，英文文献显示 `and`，英文文献条目需要在 `Zotero` 中将文献条目语言修改为 `en`。
-
-显示效果：
-
-> 种电泳法分析丁香<sup>[1]</sup><br>
-> 测试<sup>[2]</sup><br>
-> 上标<sup>[3]</sup><br>
-> 英文<sup>[4]</sup><br>
-
-
-> [1]	谢德仁, 郑登津和崔宸瑜, 《控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究》, 管理世界, 期 05, 页 128–140, 188, 2016, doi: 10/gmxk5j.<br>
-> [2]	C. Bonell, A. Oakley, J. Hargreaves, V. Strange, and R. Rees, “Research methodology - Assessment of generalisability in trials of health interventions: suggested framework and systematic review”, Bmj-British Medical Journal, vol. 333, no. 7563, pp. 346–349, Aug. 2006, doi: 10.1136/bmj.333.7563.346.<br>
-> [3]	金红兰和金龙勋, 《技术创新背景下的食品产业现状与发展趋势》, 粮食科技与经济, 卷 46, 期 03, 页 37–39, 2021.<br>
-> [4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
-
 
 
 ## [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]
@@ -348,103 +52,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 [4]	李刚, 宗长富, 陈国迎, 等. 线控四轮独立驱动轮毂电机电动车集成控制[J]. 吉林大学学报(工学版), 2012, 42(04): 796-802.<br>
 
 > ```
-
-## [410sjtu-thesis]
-[004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
-> ```
-显示效果<sup>[1-4]</sup>
-
-[1]	B E Gel’fand, S P Medvedev, A N Polenov, et al. Basic self-ignition regimes and conditions for their realization in combustible gas mixtures[J]. Combustion, Explosion and Shock Waves, 1997, 33(2): 127-133.<br>
-[2]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37-39.<br>
-[3]	H Zhan, Y Zhou, G Zhang, et al. Carbon nanothreads enable remarkable enhancement in the thermal conductivity of polyethylene dagger[J]. Nanoscale, 2021, 13(14): 6934-6943.<br>
-[4]	罗雨舟, 向天宇, 郝柳青. 卷积神经网络在结构损伤检测中的应用[J]. 土木工程与管理学报, 2020, 37(03): 155-161+173.<br>
-
-> ```
-## [408njau-thesis-online-first.csl]
-与[407njau-thesis-old.csl]显示效果基本相同，区别是网络首发的文献（没有卷和期），文献类型改为J/OL，页码后面
-加入`[引用日期].URL`。要显示`[引用日期].URL`需要在`Zotero`的`编辑`-`首选项`-`引用`-中勾选`在参考文献里包含文章URL链接`才会正常显示。
-
-显示效果：
-
-> ```
-
-> [1]<br>
-> [2]<br>
-> [3]<br>
-> [4]<br>
-
-> [1]	崔威, 李晓英, 郭宜薇. 基于博弈论组合赋权的水电站事故风险评价[J/OL]. 南水北调与水利科技(中英文), 2022: 1–10[2022-01-24]. http://kns.cnki.net/kcms/detail/13.1430.tv.20210918.1105.002.html.<br>
-> [2]	韩敏义, 李巧玲, 陈红叶. 复合磷酸盐在食品中的应用[J]. 中国食品添加剂, 2004(03): 93–96.<br>
-> [3]	夏建军, 张俊丰, 李源栋, 等. 无溶剂微波萃取肉桂精油及成分分析[J]. 现代食品科技, 2021, 37(08): 258-265+167.<br>
-> [4]	Cho H-K, Kim M-H, Park S-K, et al. Analysis of benzo[a]pyrene content and risk assessment[J]. Food Science of Animal Resources, 2011, 31(6): 960–965.<br>
-> ```
-
-
-## [415zju-thesis.csl]
-浙江大学硕博论文样式（<http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782>），
-网友**yc**（__ycnotion@protonmail.com__）分享，
-正文中作者年代格式，文末参考文献列表英文文献在前，中文在后，作者数量超过`3`个，英文显示为`et al`，中文显示`等`。
-
-显示效果：
-
-> ```
-
-> （Gao et al., 2019） <br>
-> （Zhang Y et al., 2021）<br>
->（韩敏义等，2009）<br>
->（徐渊等，2021）<br>
-
->Gao W, Ota H, Kiriya D, et al. Flexible electronics toward wearable sensing[J]. Accounts of Chemical Research,2019, 52(3): 523–533.<br>
->Zhang Y, Chen P, Wang Q, et al. High-Capacity and Kinetically Accelerated Lithium Storage in Moo3 Enabled by Oxygen Vacancies and Heterostructure[J]. Advanced Energy Materials,2021, 11(31): 2101712.<br>
->韩敏义，费英，徐幸莲，，等.低场NMR研究pH对肌原纤维蛋白热诱导凝胶的影响[J]. 中国农业科学,2009, 42(06): 2098–2104.<br>
->徐渊，韩敏义，陈艳萍，，等.三个品种白切鸡食用品质评价[J]. 食品工业科技,2021, 42(01): 89–95.<br>
-> ```
-
-## [104acta-physica-sinica.csl]
-《物理学报》<hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
-
-存在问题：
-
-1.期刊对应的英文翻译请自行翻译，并添加到`Short Title`字段中，其实现的原理见<https://zhuanlan.zhihu.com/p/282826403>；斜体和加粗需要在相应字段前后加`<i></i>`和`<b></b>`，详见https://zhuanlan.zhihu.com/p/57638901。<br>
-2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。<br>
-3.会议论文日期无法是日期范围：只能在Extra中输入<code>Date: 2019年09月21-23日</code>或<code>Issued: 2019-09-21/2019-09-23</code>，最终显示为：<code>2019-09-21/23</code>。<br>
-4.其它文献类型待测试。
-
-显示效果：
-
-> ```
- 论文<sup>[1–3]</sup> 书籍<sup>[4]</sup> <br>
-> 专利<sup>[5]</sup>网页<sup>[6]</sup>学位论文 <sup>[7] </sup><br>
-> 书<sup>[8] </sup>会议论文<sup>[9]</sup> <br>
-
-
->[1]	Sun Q C, Wang G Q 2008 Acta Phys. Sin. 57 4667(in Chinese) [孙其诚, 王光谦 2008 物理学报 57 4667]<br>
->[2]	Shahverdiev E M, Shore K A 2005 Phys. Rev. E 71 016201<br>
->[3]	Eckertova L(translated by Wang G Y)1986 Thin Film Physics (Beijing: Science Press) pp110—113(in Chinese) [埃克托瓦L著 (王广阳译) 1986 薄膜物理学 (北京: 科学出版社)第110–113页]<br>
->[4]	Feng D, Jin G J 2003 Condensed Matter Physics (Volume 1) (Beijing: Higher Education Press)(in Chinese) [冯端, 金国钧 2003 凝聚态物理学（上卷） (北京: 高等教育出版社)第341页]<br>
->[5]	Zhong C,Zhao D S,Liu Y H,Bao J L 2021 	CN201910789365.X(in Chinese) [钟成, 赵德双, 刘要红, 包金龙 2021 CN201910789365.X]<br>
->[6]	High-Precision Software Directory Bailey D B http://crd.lbl.gov/~dhbailey/mpdist/ [2010-08-11]<br>
->[7]	Ma C H 2017 Ph.D. Dissertation  (Changsha: National University of Defense Technology)(in Chinese) [马聪慧 2017 博士学位论文 (长沙: 国防科技大学)]<br>
->[8]	Bloembergen N 1965 Nonlinear optics (New York: Benjamin) pp12–20<br>
->[9]	Huang J,Yan S G,Zhang B X,Zhang M 2019 Proceedings of the 2019 National Acoustical Congress  Shenzhen，China, September 21-23,2019 P261(in Chinese) [黄娟, 阎守国, 张碧星, 张敏 2019 2019年全国声学大会论文集 中国：深圳, 2019-09-21第261–262页]<br>
-> ```
-
-## [406njau-thesis-author-date.csl]
-南京农业大学硕博论文用（作者年代样式），[415zju-thesis.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
-
-显示效果：
-
-> ```
-
->（Duan and Wu, 2009; Wang et al., 2020a）<br>
->（Wang et al., 2020a, 2020b）<br>
->（杨惠和张金桐，2001）<br>
->Duan Q-J, Wu Y-D. Rapid diagnosis of bacterial meningitis in children with fluorescence quantitative polymerase chain reaction amplification in the bacterial 16S rRNA gene[J]. European Journal of Pediatrics, 2009, 168(2): 211–216.<br>
->Wang J, Ma H, Zhao S, et al. Functional redundancy of two ABC transporter proteins in mediating toxicity of Bacillus thuringiensis to cotton bollworm[J]. PLoS pathogens, 2020a, 16(3): e1008427.<br>
->Wang J, Zhao X, Yan R, et al. Reverse genetics reveals contrary effects of two Rdl-homologous GABA receptors of Helicoverpa armigera on the toxicity of cyclodiene insecticides[J]. Pesticide Biochemistry and Physiology, 2020b, 170: 104699.<br>
->杨惠，张金桐.几丁质合成抑制剂的毒理学研究进展[J]. 寄生虫与医学昆虫学报, 2001(01): 57–64.<br>
-> ```
-
 ## [010gb-t-7714-2015-author-date-aulower-bilan.csl]
 
 china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -550,7 +157,18 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 > Zhao X, Chen X, Han M, et al., 2016. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat[J]. LWT - Food Science and Technology, 72: 141–148.
 
 
+## [012gb-t-7714-2015-numeric-aulower-bilan.csl]
 
+[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+
+显示效果：
+
+> [1–4]
+
+> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
+> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
+> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
+> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 ## [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]
 
@@ -567,22 +185,6 @@ T ng X, Sun Y Y, Jiang X T, et al. Comparative analysis of flavor peptides prepa
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
 Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09): 362–367.
 
-
-## [012gb-t-7714-2015-numeric-aulower-bilan.csl]
-
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
-
-显示效果：
-
-> [1–4]
-
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
-
 ## [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]
 
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl] 基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
@@ -597,6 +199,243 @@ TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepa
 > [3] WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367<br>
 ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
+
+## [101cma.csl]
+
+中华医学会系列杂志样式。[006gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
+
+显示效果：
+
+> ```
+> [1]   [2,3]   [4]
+> ```
+
+> [1] GUDERLEY H, BLIER P. Thermal acclimation in fish: conservative and labile properties of swimming muscle[J]. Can. J. Zool., 2011, 66(5). DOI:10.1139/z88-162.	<br>
+> [2] BANOVIC M, SVEINSDÓTTIR K. Importance of Being Analogue: Female Attitudes Towards Meat Analogue Containing Rapeseed Protein[J]. Food Control, 2021, 123: 107833. DOI:10.1016/j.foodcont.2020.107833.	<br>
+> [3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>
+> [4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+
+
+
+## [102tcsae.csl]
+
+与[014gb-t-7714-2015-numeric-auup-bilan-ce.csl] 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
+使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除；如果要设置缩进悬挂，需要将里面的软回车替换为硬回车，方法是 Word 中查找 `^l` 替换为 `^p` 批量替换。
+
+空行删除及缩进、悬挂设置：
+<!--![空行删除及缩进、悬挂设置-->
+![空行删除及缩进、悬挂设置](/img/blank-line-remove.gif "Title")
+显示效果：
+
+> [1]<br>
+> [2]<br>
+> [3]<br>
+> [4]<br>
+
+> [1] 张若兵, 陈杰, 肖健夫, 等. 高压脉冲电场设备及其在食品非热处理中的应用[J]. 高电压技术, 2011, 37(03): 777–786.
+Z ang Ruobing, Chen Jie, Xiao Jianfu, et al. Pulsed electric fields system and its application in non-thermal food processing[J]. High Voltage Engineering, 2011, 37(03): 777–786. (in Chinese with English abstract). <br>
+> [2] Lan M, Li L, Peng X, et al. Effects of different lipids on the physicochemical properties and microstructure of pale, soft and exudative (PSE)-like chicken meat gel[J]. LWT, 2021: 111284.<br>
+> [3] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.
+L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract). <br>
+> [4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
+
+
+## [103ieee-bl.csl]
+
+[官方 IEEE](https://github.com/citation-style-language/styles/blob/master/ieee.csl) 基础上修改。文内数字引用为上标格式，显示全部作者，中文最后一个作者前显示`和`，英文文献显示 `and`，英文文献条目需要在 `Zotero` 中将文献条目语言修改为 `en`。
+
+显示效果：
+
+> 种电泳法分析丁香<sup>[1]</sup><br>
+> 测试<sup>[2]</sup><br>
+> 上标<sup>[3]</sup><br>
+> 英文<sup>[4]</sup><br>
+
+
+> [1]	谢德仁, 郑登津和崔宸瑜, 《控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究》, 管理世界, 期 05, 页 128–140, 188, 2016, doi: 10/gmxk5j.<br>
+> [2]	C. Bonell, A. Oakley, J. Hargreaves, V. Strange, and R. Rees, “Research methodology - Assessment of generalisability in trials of health interventions: suggested framework and systematic review”, Bmj-British Medical Journal, vol. 333, no. 7563, pp. 346–349, Aug. 2006, doi: 10.1136/bmj.333.7563.346.<br>
+> [3]	金红兰和金龙勋, 《技术创新背景下的食品产业现状与发展趋势》, 粮食科技与经济, 卷 46, 期 03, 页 37–39, 2021.<br>
+> [4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
+
+
+
+## [104acta-physica-sinica.csl]
+《物理学报》<hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
+
+存在问题：
+
+1.期刊对应的英文翻译请自行翻译，并添加到`Short Title`字段中，其实现的原理见<https://zhuanlan.zhihu.com/p/282826403>；斜体和加粗需要在相应字段前后加`<i></i>`和`<b></b>`，详见https://zhuanlan.zhihu.com/p/57638901。<br>
+2.学位论文格式中要求有论文题目，但给的例子中没有，因此没有；如果是国外学位论文请在Type中注明学位论文类型如：M.S. Thesis或Ph. D. Dissertation。<br>
+3.会议论文日期无法是日期范围：只能在Extra中输入<code>Date: 2019年09月21-23日</code>或<code>Issued: 2019-09-21/2019-09-23</code>，最终显示为：<code>2019-09-21/23</code>。<br>
+4.其它文献类型待测试。
+
+显示效果：
+
+> ```
+ 论文<sup>[1–3]</sup> 书籍<sup>[4]</sup> <br>
+> 专利<sup>[5]</sup>网页<sup>[6]</sup>学位论文 <sup>[7] </sup><br>
+> 书<sup>[8] </sup>会议论文<sup>[9]</sup> <br>
+
+>[1]	Sun Q C, Wang G Q 2008 Acta Phys. Sin. 57 4667(in Chinese) [孙其诚, 王光谦 2008 物理学报 57 4667]<br>
+>[2]	Shahverdiev E M, Shore K A 2005 Phys. Rev. E 71 016201<br>
+>[3]	Eckertova L(translated by Wang G Y)1986 Thin Film Physics (Beijing: Science Press) pp110—113(in Chinese) [埃克托瓦L著 (王广阳译) 1986 薄膜物理学 (北京: 科学出版社)第110–113页]<br>
+>[4]	Feng D, Jin G J 2003 Condensed Matter Physics (Volume 1) (Beijing: Higher Education Press)(in Chinese) [冯端, 金国钧 2003 凝聚态物理学（上卷） (北京: 高等教育出版社)第341页]<br>
+>[5]	Zhong C,Zhao D S,Liu Y H,Bao J L 2021 	CN201910789365.X(in Chinese) [钟成, 赵德双, 刘要红, 包金龙 2021 CN201910789365.X]<br>
+>[6]	High-Precision Software Directory Bailey D B http://crd.lbl.gov/~dhbailey/mpdist/ [2010-08-11]<br>
+>[7]	Ma C H 2017 Ph.D. Dissertation  (Changsha: National University of Defense Technology)(in Chinese) [马聪慧 2017 博士学位论文 (长沙: 国防科技大学)]<br>
+>[8]	Bloembergen N 1965 Nonlinear optics (New York: Benjamin) pp12–20<br>
+>[9]	Huang J,Yan S G,Zhang B X,Zhang M 2019 Proceedings of the 2019 National Acoustical Congress  Shenzhen，China, September 21-23,2019 P261(in Chinese) [黄娟, 阎守国, 张碧星, 张敏 2019 2019年全国声学大会论文集 中国：深圳, 2019-09-21第261–262页]<br>
+> ```
+
+## [106journal-of-inorganic-materials.csl](106journal-of-inorganic-materials.csl)
+
+《无机材料学报》（<http://www.jim.org.cn/CN/column/item6.shtml>）期刊用，ISSN:1000-324X，CN:31-1363/TQ。
+
+作者`(姓前名后，名缩写，全部大写)`. 题名`(第一个单词首字母大写)`. *期刊名*`(斜体)`, 出版年, **卷(期)**`(加粗)`: 起始页—终止页。
+
+显示效果：
+> [1–4]
+
+> [1]	LI Y, TANG F, WANG D, et al. A key step for preparing highly active Mg–Co composite oxide catalysts for N2O decomposition. *Catalysis Science & Technology*, 2021, **11(11)**: 3737–3745.</br>
+> [2]	RESASCO D E, HALLER G L. A model of metal-oxide support interaction for Rh on TiO2. *Journal of Catalysis*, 1983, **82(2)**: 279–288.</br>
+> [3]	LIU H, SHEN K, ZHAO H, et al. A new strategy to improve catalytic activity for chlorinated volatile organic compounds oxidation over cobalt oxide: Introduction of strontium carbonate. *Journal of the Indian Chemical Society*, 2021, **98(8)**: 100116.</br>
+> [4]	DAMMA D, ETTIREDDY P, REDDY B, et al. A Review of Low Temperature NH3-SCR for Removal of NOx. *Catalysts*, 2019, **9(4)**: 349.
+
+## [201comparative-economic-and-social-systems.csl]
+
+[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+
+存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
+所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
+
+显示效果：
+
+> ```
+> （王琰等, 2021）
+> （唐霄等, 2019; Yang et al., 2015）
+> （Cavanna et al., 2019）
+> （何宇超等, 2020）
+> ```
+
+> 何宇超、程琪琪、吴莉等, 2020：“高压脉冲电场法提取耐辐射奇球菌中类胡萝卜素的研究”，《核农学报》，2020, 02: 315–321。<br>
+> 唐霄、孙杨赢、江雪婷等, 2019：“不同蛋白酶制备鹅肉呈味肽的对比分析”，《食品科学》，2019, 22: 141–146。<br>
+> 王琰、 曾新安、蔡锦林, 2021：“不同的终止发酵的方法制备低醇菠萝酒”，《现代食品科技》，2021: 1–7。<br>
+> Cavanna D., Zanardi S., Dall’Asta C., et al., 2019. “Ion mobility spectrometry coupled to gas chromatography: A rapid tool to assess eggs freshness.” *Food Chemistry*. 271: 691–696.<br>
+> Yang H., Han M., Wang X., et al., 2015. “Effect of high pressure on cooking losses and functional properties of reduced-fat and reduced-salt pork sausage emulsions.” *Innovative Food Science and Emerging Technologies*. 29(1): 125–133.<br>
+
+
+## [202journal-of-management-world.csl]
+
+[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
+
+存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
+所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
+
+显示效果：
+
+> ```
+> （康大成，2017）
+> （Chen et al., 2020）
+> （王静帆等，2021）
+> （Ebert et al., 2021）
+> ```
+
+> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
+> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第03期。<br>
+> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure Homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
+> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein Mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
+
+
+## [203economic-research-journal.csl]
+
+[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](9journal-of-management-world.csl)基础上修改。
+
+显示效果：
+
+> ```
+> （康大成，2017）
+> （Chen et al., 2020）
+> （王静帆等，2021）
+> （Ebert et al., 2021）
+> ```
+
+> 康大成，2017：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
+> 王静帆、黄峰、沈青山等，2021：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》第03期。<br>
+> Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, Trends in Food Science & Technology, 106, 12—29.<br>
+> Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
+
+## [205bmj.csl]
+
+[《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在 `Loc. in Archive` 字段。
+
+存在问题：正文中要求英文两个作者之间要求用“`和`”，现在显示为“`&`”，可以后期在 Word 中批量替换。
+
+感谢 [@zepinglee](https://github.com/zepinglee) 的指导和代码，感谢 [@fredericky123](https://github.com/fredericky123) 测试。
+
+显示效果：
+
+> (温忠麟等, 2004)<sup>[1]</sup><br>
+> (Denkovski等, 2012)<sup>[2]</sup><br>
+> (Potterie & Lichtenberg, 2001)<sup>[3]</sup><br>
+> (白俊红和蒋伏心, 2015)<sup>[4]</sup><br>
+
+> [1] 温忠麟, 侯杰泰, 刘红云, 等. 中介效应检验程序及其应用[J]. 北京: 心理学报, 2004(05): 614–620.
+> [2] Denkovski D., V. Rakovic, M. Pavloski, et al. Integration of heterogeneous spectrum sensing devices towards accurate REM construction[C]//2012 IEEE Wireless Communications and Networking Conference (WCNC). 2012: 798–802.	<br>
+> [3] Potterie B. Van P. De La and F. Lichtenberg. Does Foreign Direct Investment Transfer Technology Across Borders? 3[J]. Review of Economics and Statistics, 2001, 83(3): 490–497.	<br>
+> [4] 白俊红, 蒋伏心. 协同创新、空间关联与区域创新绩效[J]. 经济研究, 2015, 50(07): 174–187.	<br>
+
+
+## [206accounting-research.csl]
+
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
+对于不连续的多页，需要写为 `128-140, 188` 或 `128-140 & 188`，才可以显示为`～`，不能写为 `128-140+188`，感谢 [@zepinglee](https://github.com/zepinglee) 的指导。
+
+显示效果：
+
+> (谢德仁等, 2016; Kaustia & Rantala, 2015)<br>
+> (陈珏锡等, 2021)<br>
+> (Gopalan et al., 2014)<br>
+
+> 陈珏锡, 张俊丰, 李源栋, 夏建军. 2021. 无溶剂微波萃取肉桂精油及成分分析. 现代食品科技, 08: 258-265+167.<br>
+> 谢德仁, 郑登津, 崔宸瑜. 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
+> Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
+> Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
+
+
+
+## [301chinese-law-journals.csl]
+
+[法学引注手册（2019 年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
+
+存在问题：~~英文学位论文年后面应该为 `)`，现在显示为 `]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
+
+显示效果：
+
+> ```
+> 期刊中文12
+> 期刊英文345
+> 书籍中文67
+> 书籍英文89
+> 博士中文1011
+> 博士英文1213
+> ```
+
+
+> 1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
+> 2 同上。<br>
+> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
+> 4 Id.<br>
+> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
+> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
+> 7 同上p.26。<br>
+> 8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
+> 9 Id.p.20.<br>
+> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
+> 11 同上p.20。<br>
+> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
+> 13 Id.p.20.<br>
 
 
 ## [403hzau-thesis.csl]
@@ -615,6 +454,174 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > 3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. *Food Hydro*. 2021, 113: 106388<br>
 > 4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. *Inn Food Sci & Emer Tech*. 2013, 18: 237–245
 
+
+## [404JNU-thesis.csl]
+
+[4zuel-thesis] 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
+**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
+
+显示效果：
+
+> （陈珏锡等, 2021）<br>
+> （Bonell & Oakley, 2006）<br>
+> （Johnson et al., 2002）<br>
+> （金红兰和金龙勋, 2021）<br>
+> （Crepaz et al., 2006）<br>
+> （唐小华等, 2021）<br>
+> （Lyles et al., 2007）<br>
+
+> [1]	Bonell C, Oakley A. Research methodology - Assessment of generalisability in trials of health interventions: Suggested framework and systematic Review[J]. Bmj-British Medical Journal, 2006, 333(7563): 346–349.<br>
+> [2]	Crepaz N, Lyles C M, Wolitski R J, Passin W F, Rama S M, Herbst J H, Purcell D W, Malow R A, Stall R. Do prevention interventions reduce HIV risk behaviours among people living with HIV? A meta-analytic review of controlled Trials[J]. Aids, 2006, 20(2): 143–157.<br>
+> [3]	Johnson W D, Hedges L V, Ramirez G, Semaan S, Norman L R, Sogolow E, Sweat M D, Diaz R M. HIV prevention research for men who have sex with men: A systematic review and meta-Analysis[J]. Journal of Acquired Immune Deficiency Syndromes, 2002, 30: S118–S129.<br>
+> [4]	Lyles C M, Kay L S, Crepaz N, Herbst J H, Passin W F, Kim A S, Rama S M, Thadiparthi S, DeLuca J B, Mullins M M. Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004[J]. American Journal of Public Health, 2007, 97(1): 133–143.<br>
+> [5]	陈珏锡, 张俊丰, 李源栋, 夏建军. 无溶剂微波萃取肉桂精油及成分分析[J]. 现代食品科技, 2021, 37(08): 258-265+167.<br>
+> [6]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37–39.<br>
+> [7]	唐小华, 胡斌, 李雪玲, 胡文锋. 食药用菌菌丝体应用研究进展[J]. 食用菌学报, 2021, 28(04): 116–122.<br>
+
+
+## [406njau-thesis-author-date.csl]
+南京农业大学硕博论文用（作者年代样式），[415zju-thesis.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
+
+显示效果：
+
+> ```
+
+>（Duan and Wu, 2009; Wang et al., 2020a）<br>
+>（Wang et al., 2020a, 2020b）<br>
+>（杨惠和张金桐，2001）<br>
+>Duan Q-J, Wu Y-D. Rapid diagnosis of bacterial meningitis in children with fluorescence quantitative polymerase chain reaction amplification in the bacterial 16S rRNA gene[J]. European Journal of Pediatrics, 2009, 168(2): 211–216.<br>
+>Wang J, Ma H, Zhao S, et al. Functional redundancy of two ABC transporter proteins in mediating toxicity of Bacillus thuringiensis to cotton bollworm[J]. PLoS pathogens, 2020a, 16(3): e1008427.<br>
+>Wang J, Zhao X, Yan R, et al. Reverse genetics reveals contrary effects of two Rdl-homologous GABA receptors of Helicoverpa armigera on the toxicity of cyclodiene insecticides[J]. Pesticide Biochemistry and Physiology, 2020b, 170: 104699.<br>
+>杨惠，张金桐.几丁质合成抑制剂的毒理学研究进展[J]. 寄生虫与医学昆虫学报, 2001(01): 57–64.<br>
+> ```
+
+## [408njau-thesis-online-first.csl]
+与[407njau-thesis-old.csl]显示效果基本相同，区别是网络首发的文献（没有卷和期），文献类型改为J/OL，页码后面
+加入`[引用日期].URL`。要显示`[引用日期].URL`需要在`Zotero`的`编辑`-`首选项`-`引用`-中勾选`在参考文献里包含文章URL链接`才会正常显示。
+
+显示效果：
+
+> ```
+
+> [1]<br>
+> [2]<br>
+> [3]<br>
+> [4]<br>
+
+> [1]	崔威, 李晓英, 郭宜薇. 基于博弈论组合赋权的水电站事故风险评价[J/OL]. 南水北调与水利科技(中英文), 2022: 1–10[2022-01-24]. http://kns.cnki.net/kcms/detail/13.1430.tv.20210918.1105.002.html.<br>
+> [2]	韩敏义, 李巧玲, 陈红叶. 复合磷酸盐在食品中的应用[J]. 中国食品添加剂, 2004(03): 93–96.<br>
+> [3]	夏建军, 张俊丰, 李源栋, 等. 无溶剂微波萃取肉桂精油及成分分析[J]. 现代食品科技, 2021, 37(08): 258-265+167.<br>
+> [4]	Cho H-K, Kim M-H, Park S-K, et al. Analysis of benzo[a]pyrene content and risk assessment[J]. Food Science of Animal Resources, 2011, 31(6): 960–965.<br>
+> ```
+
+
+## [410sjtu-thesis]
+[004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+> ```
+显示效果<sup>[1-4]</sup>
+
+[1]	B E Gel’fand, S P Medvedev, A N Polenov, et al. Basic self-ignition regimes and conditions for their realization in combustible gas mixtures[J]. Combustion, Explosion and Shock Waves, 1997, 33(2): 127-133.<br>
+[2]	金红兰, 金龙勋. 技术创新背景下的食品产业现状与发展趋势[J]. 粮食科技与经济, 2021, 46(03): 37-39.<br>
+[3]	H Zhan, Y Zhou, G Zhang, et al. Carbon nanothreads enable remarkable enhancement in the thermal conductivity of polyethylene dagger[J]. Nanoscale, 2021, 13(14): 6934-6943.<br>
+[4]	罗雨舟, 向天宇, 郝柳青. 卷积神经网络在结构损伤检测中的应用[J]. 土木工程与管理学报, 2020, 37(03): 155-161+173.<br>
+> ```
+
+## [411swu-thesis.csl]
+
+网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/info/1052/2292.htm
+)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+
+显示效果：
+
+> ```
+> (杨赫鸿等, 2012)
+> (ElMasry et al., 2011)
+> (庞之列和何栩晓, 2014)
+> (Gross et al., 2013)
+> ```
+
+>  庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
+>  杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
+>  ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+>  Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
+
+
+## [414ynu-thesis.csl]
+
+云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
+
+显示效果：
+
+> ```
+> Lawal et al., 2018）
+> 白俊红和蒋伏心, 2015）
+> LeSage et Pace, 2009）
+> 沙文兵, 2012）
+> ```
+
+> 白俊红, 蒋伏心. 2015. 协同创新、空间关联与区域创新绩效[J]. 经济研究. 50(07): 174–187.<br>
+> 沙文兵. 2012. 对外直接投资、逆向技术溢出与国内创新能力——基于中国省际面板数据的实证研究[J]. 世界经济研究. (03): 69-74+89.<br>
+> Lawal I O, Ankrah A O, Popoola G O, et al. 2018. 18F-FDG-PET metabolic metrics and International Prognostic Score for risk assessment in HIV-infected patients with Hodgkin Lymphoma[J]. Nuclear Medicine Communications. 39(11): 1005–1012. DOI:10.1097/MNM.0000000000000905.<br>
+> LeSage J, Pace R K. 2009. Introduction to spatial Econometrics[M]. Chapman and Hall/CRC.<br>
+
+
+## [415zju-thesis.csl]
+浙江大学硕博论文样式（<http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782>），
+网友**yc**（__ycnotion@protonmail.com__）分享，
+正文中作者年代格式，文末参考文献列表英文文献在前，中文在后，作者数量超过`3`个，英文显示为`et al`，中文显示`等`。
+
+显示效果：
+
+> ```
+
+> （Gao et al., 2019） <br>
+> （Zhang Y et al., 2021）<br>
+>（韩敏义等，2009）<br>
+>（徐渊等，2021）<br>
+
+>Gao W, Ota H, Kiriya D, et al. Flexible electronics toward wearable sensing[J]. Accounts of Chemical Research,2019, 52(3): 523–533.<br>
+>Zhang Y, Chen P, Wang Q, et al. High-Capacity and Kinetically Accelerated Lithium Storage in Moo3 Enabled by Oxygen Vacancies and Heterostructure[J]. Advanced Energy Materials,2021, 11(31): 2101712.<br>
+>韩敏义，费英，徐幸莲，，等.低场NMR研究pH对肌原纤维蛋白热诱导凝胶的影响[J]. 中国农业科学,2009, 42(06): 2098–2104.<br>
+>徐渊，韩敏义，陈艳萍，，等.三个品种白切鸡食用品质评价[J]. 食品工业科技,2021, 42(01): 89–95.<br>
+> ```
+
+## [416zuel-thesis.csl]
+
+网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
+)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+
+显示效果：
+
+> ```
+> （Berhe et al, 2014）
+> （王越溪和王鹏, 2018）
+> （庞之列等, 2014）
+> （He et al, 2013）
+> ```
+
+> [1] 王越溪, 王鹏. 鸡肉早餐肠加工技术研究进展[J]. 中国家禽, 2018, 40(23): 37–42.	<br>
+> [2] 庞之列, 何栩晓, 李春保. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142–145.	<br>
+> [3] Berhe D T, Engelsen S B, Hviid M S, Lametsch R. Raman spectroscopic study of effect of the cooking temperature and time on meat Proteins[J]. Food Research International, 2014, 66: 123–131.<br>
+> [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
+
+
+## [417whu-school-of-law.csl]
+
+武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
+
+~~存在问题：年代后面的 `]` 应该为 `)`。~~
+
+
+显示效果：
+
+> ```
+> 1
+> 2
+> ```
+
+> 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
+> 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
+> ```
 
 ## [015jm-chinese-std-gb-t-7714-2005-revised.csl]
 
@@ -642,22 +649,6 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
 > [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-## [无机材料学报](106journal-of-inorganic-materials.csl)
-
-《无机材料学报》（<http://www.jim.org.cn/CN/column/item6.shtml>）期刊用，ISSN:1000-324X，CN:31-1363/TQ。
-
-作者`(姓前名后，名缩写，全部大写)`. 题名`(第一个单词首字母大写)`. *期刊名*`(斜体)`, 出版年, **卷(期)**`(加粗)`: 起始页—终止页。
-
-显示效果：
-> [1–4]
-
-> [1]	LI Y, TANG F, WANG D, et al. A key step for preparing highly active Mg–Co composite oxide catalysts for N2O decomposition. *Catalysis Science & Technology*, 2021, **11(11)**: 3737–3745.</br>
-> [2]	RESASCO D E, HALLER G L. A model of metal-oxide support interaction for Rh on TiO2. *Journal of Catalysis*, 1983, **82(2)**: 279–288.</br>
-> [3]	LIU H, SHEN K, ZHAO H, et al. A new strategy to improve catalytic activity for chlorinated volatile organic compounds oxidation over cobalt oxide: Introduction of strontium carbonate. *Journal of the Indian Chemical Society*, 2021, **98(8)**: 100116.</br>
-> [4]	DAMMA D, ETTIREDDY P, REDDY B, et al. A Review of Low Temperature NH3-SCR for Removal of NOx. *Catalysts*, 2019, **9(4)**: 349.
-
-
 
 
 
