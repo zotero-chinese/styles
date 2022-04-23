@@ -21,10 +21,16 @@
         <updated>2022-04-21T06:39:48+00:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     </info>
+    <locale xml:lang="en">
+        <terms>
+            <term name="page-range-delimiter">~</term>
+        </terms>
+    </locale>
     <locale xml:lang="zh-CN">
         <terms>
             <term name="anonymous">佚名</term>
             <term name="edition">版</term>
+            <term name="page-range-delimiter">-</term>
             <term name="page" form="short">
                 <single>p.</single>
                 <multiple>pp.</multiple>
@@ -33,6 +39,7 @@
             <term name="et-al">等</term>
         </terms>
     </locale>
+
     <macro name="accessed-date">
         <date variable="accessed" delimiter="–" prefix="[" suffix="]">
             <date-part name="year" />
@@ -113,7 +120,7 @@
     <macro name="issued-date">
         <choose>
             <if variable="issued">
-                <date variable="issued" delimiter="–">
+                <date variable="issued" delimiter="-">
                     <date-part name="year" />
                     <date-part name="month" form="numeric-leading-zeros" />
                     <date-part name="day" form="numeric-leading-zeros" />
@@ -154,7 +161,7 @@
         <text variable="issue" prefix="(" suffix=")" />
         <text variable="page" prefix=": " />
     </macro>
-    <macro name="type-code">
+    <!-- <macro name="type-code">
         <choose>
             <if type="article-journal article-magazine" match="any">
                 <text value="J" />
@@ -193,14 +200,28 @@
                 <text value="Z" />
             </else>
         </choose>
-    </macro>
+    </macro> -->
     <macro name="title">
         <text variable="title" text-case="title" />
-        <text variable="number" prefix=": " />
+        <choose>
+            <if type="bill legal_case legislation regulation report standard" match="any">
+                <text variable="number" prefix=": " />
+            </if>
+        </choose>
+        <!-- <text variable="number"  /> -->
     </macro>
     <macro name="bib-full">
         <text macro="author" suffix=". " />
-        <text macro="issue-date-year" suffix=". " />
+        <choose>
+            <!-- 如果为专利，不显示年代，显示日期-->
+            <if type="patent" match="none">
+                <text macro="issue-date-year" suffix=". " />
+            </if>
+            <else-if type="patent" match="all">
+                <text macro="issued-date" suffix=". " />
+            </else-if>
+        </choose>
+
         <text macro="title" />
         <choose>
             <if type="book bill chapter legislation paper-conference report thesis" match="any">
@@ -216,6 +237,14 @@
                     </else>
                 </choose>
                 <text macro="edition" suffix=". " />
+                <choose>
+                    <if type="thesis">
+                        <group delimiter="" prefix="[" suffix="]. ">
+                            <text variable="genre" />
+                            <text value="学位论文" />
+                        </group>
+                    </if>
+                </choose>
                 <text macro="publishing" />
             </if>
             <else-if type="article-journal article-magazine article-newspaper" match="any">
@@ -232,15 +261,26 @@
                     </choose>
                 </group>
             </else-if>
+            <else-if type="post-weblog webpage" match="any">
+                <text macro="publishing" prefix=". " />
+                <text variable="URL" prefix=". " />
+                <text macro="accessed-date" />
+            </else-if>
             <else-if type="patent">
-                <text macro="issued-date" prefix=". " />
+                <group delimiter="" prefix=".">
+                    <text variable="publisher-place" />
+                    <text variable="references" />
+                    <text value="专利" />
+                </group>
+                <text variable="number" prefix=", " />
+                <!-- <text macro="issued-date" prefix=". " /> -->
             </else-if>
             <else>
                 <text macro="publishing" prefix=". " />
                 <text macro="issued-date" prefix="(" suffix=")" />
             </else>
         </choose>
-        <text macro="accessed-date" />
+        <!-- <text macro="accessed-date" /> -->
     </macro>
     <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
         <sort>
@@ -273,10 +313,10 @@
             <key macro="author-intext" />
             <key macro="issue-date-year" sort="ascending" />
         </sort>
-        <layout suffix="." locale="en">
+        <layout suffix="" locale="en">
             <text macro="bib-full" />
         </layout>
-        <layout suffix=".">
+        <layout suffix="">
             <text macro="bib-full" />
         </layout>
     </bibliography>
