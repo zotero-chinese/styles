@@ -459,7 +459,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 [407njau-thesis-old.csl] 的修改版，适用于华中农业大学
 学位论文，规则见 <http://yjs.hzau.edu.cn/info/1202/3774.htm>，正文中为作者年代格式，文末列表为数字格式。
-中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过 `20` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在 `Zotero` 条目 `Info` 的 `Journal Abbr` 的字段才会缩写）。待提供更多文献类型进行测试。
+中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`zh`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过 `20` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在 `Zotero` 条目 `Info` 的 `Journal Abbr` 的字段才会缩写）。待提供更多文献类型进行测试。
 
 显示效果：
 
@@ -558,7 +558,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [411swu-thesis.csl]
 
 网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/info/1052/2292.htm
-)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+)样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`zh`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 显示效果：
 
@@ -617,7 +617,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 ## [416zuel-thesis.csl]
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
-)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`中文`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+)样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en`，中文为`zh`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 显示效果：
 
