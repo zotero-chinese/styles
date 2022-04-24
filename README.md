@@ -283,7 +283,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 ## [104acta-physica-sinica.csl]
-《物理学报》<hhttps://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-zepingli-rework.csl]修改。
+《物理学报》<https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-zepingli-rework.csl]修改。对应官方仓库为<https://github.com/citation-style-language/styles/blob/master/acta-physica-sinica.csl>或<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/105acta-physica-sinica-zotero-res.csl>，CSL官方仓库要求将期刊对应的翻译放入`Extra`字段中，并且前面加`original-title: `。
 
 存在问题：
 
