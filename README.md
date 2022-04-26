@@ -819,6 +819,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Zotero` 分类、标签和关联的使用 <https://zhuanlan.zhihu.com/p/275707703>。
 
+`Zotero` 数十篇文献同时去除同一个标签要怎么操作呢？除了一个一个点去除，有其他快捷去除的方式吗？见<https://zhuanlan.zhihu.com/p/500361660>
+
 `Zotero` 检索引擎的使用 <https://zhuanlan.zhihu.com/p/268074292>。
 
 `Zotero` 如何点击父文件夹时也同时显示子文件夹内容？<https://zhuanlan.zhihu.com/p/261375851>。
