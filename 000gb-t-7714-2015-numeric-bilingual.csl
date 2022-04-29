@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>China National Standard GB/T 7714-2015 (numeric, 中文)</title>
-    <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="self"/>
+    <title>GB/T 7714-2015 (顺序编码, 双语)</title>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
@@ -15,8 +16,8 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2021-11-22T20:34:00+08:00</updated>
+    <summary>根据语言显示“等”和“et al.”</summary>
+    <updated>2022-04-29T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -198,24 +199,31 @@
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
   <macro name="periodical-publishing">
     <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-title" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-              <else>
-                <text macro="issued-year"/>
-              </else>
-            </choose>
-            <text variable="volume"/>
+      <choose>
+        <if type="article-newspaper">
+          <!-- 报纸只有刊名、日期和版次（page） -->
+          <group>
+            <group delimiter=", ">
+              <text macro="container-title" text-case="title"/>
+              <text macro="issued-date"/>
+            </group>
+            <text variable="page" prefix="(" suffix=")"/>
           </group>
-          <text variable="issue" prefix="(" suffix=")"/>
-        </group>
-        <text variable="page"/>
-      </group>
+        </if>
+        <else>
+          <group delimiter=": ">
+            <group>
+              <group delimiter=", ">
+                <text macro="container-title" text-case="title"/>
+                <text macro="issued-year"/>
+                <text variable="volume"/>
+              </group>
+              <text variable="issue" prefix="(" suffix=")"/>
+            </group>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
       <text macro="accessed-date"/>
     </group>
   </macro>
@@ -258,7 +266,7 @@
           <choose>
             <if variable="archive">
               <text value="A"/>
-            </if >
+            </if>
             <else>
               <text value="M"/>
             </else>
@@ -368,8 +376,7 @@
       <text macro="title"/>
       <text macro="year-volume-issue"/>
       <text macro="publishing"/>
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <text macro="url-doi"/>
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -425,11 +432,10 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>
-    </layout> 
+    </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>
