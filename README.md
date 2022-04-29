@@ -358,6 +358,33 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [3]	LIU H, SHEN K, ZHAO H, et al. A new strategy to improve catalytic activity for chlorinated volatile organic compounds oxidation over cobalt oxide: Introduction of strontium carbonate. *Journal of the Indian Chemical Society*, 2021, **98(8)**: 100116.</br>
 > [4]	DAMMA D, ETTIREDDY P, REDDY B, et al. A Review of Low Temperature NH3-SCR for Removal of NOx. *Catalysts*, 2019, **9(4)**: 349.
 
+
+## [107chinese-journal-of-cardiology.csl]
+
+《[中华心血管病杂志](http://www.cjcv.org.cn/)》 样式，在 [chinese-gb7714-2005-numeric](https://github.com/citation-style-language/styles/blob/master/chinese-gb7714-2005-numeric.csl) 的基础上进行修改：
+
+1. 默认语言为英文，需要在中文文献的 `language` 域填写 `zh-CN`；
+2. 按照语言显示“等”或“et al.”；
+3. 姓名取消全大写；
+4. 西文的名无空格；
+5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；
+6. 页码的冒号前无空格；
+7. 优先显示 DOI。
+
+显示效果：
+
+> <sup>[1-4]<sup>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 伊宪华, 韩雅玲, 李毅, 等. 介入治疗开通慢性完全闭塞病变的长期临床疗效[J]. 中华心血管病杂志, 2009, 37(9):773-776. DOI: <a href="https://doi.org/10.3760/cma.j.issn.0253-3758.2009.09.002">10.3760/cma.j.issn.0253-3758.2009.09.002</a>.</div>
+    <div class="csl-entry">[2] Wilde AAM, Ackerman MJ. Beta-blockers in the treatment of congenital long QT syndrome: is one beta-blocker superior to another?[J]. J Am Coll Cardiol, 2014, 64(13):1359-1361. DOI: <a href="https://doi.org/10.1016/j.jacc.2014.06.1192">10.1016/j.jacc.2014.06.1192</a>.</div>
+    <div class="csl-entry">[3] Jablonski S. Online multiple congenital anomaly/mental retardation (MCA/MR) syndromes[DB/OL]. Bethesda (MD): National Library of Medicine (US), 1999[2002-12-12]. <a href="http://www.nlm.nih.gov/mesh/jablonski/syndrome_title.html">http://www.nlm.nih.gov/mesh/jablonski/syndrome_title.html</a>.</div>
+    <div class="csl-entry">[4] 卫生部心血管病防治中心. 中国心血管病报告 2011[M]. 北京: 中国大百科全书出版社, 2012.</div>
+  </div>
+</blockquote>
+
+
 ## [201comparative-economic-and-social-systems.csl]
 
 [《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -963,3 +990,4 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [407njau-thesis-old.csl]: 407njau-thesis-old.csl
 [406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
+[107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
