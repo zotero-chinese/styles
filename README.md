@@ -47,24 +47,31 @@ GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”和
 </blockquote>
 
 
-## [001gb-t-7714-2015-numeric-no-date-url.csl]
+## [001gb-t-7714-2015-author-date-bilingual.csl]
 
-[009gb-t-7714-2015-numeric-pageout.csl]
-基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 `Zotero` 中 `Title` 大小写，类型将不显示 `OL`，书籍的日期不显示，不显示` URL`，不显示 `DOI`。
+GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等”和“et al.”。
 
 显示效果：
 
-> ```
-> [1]
-> [2]
-> [3]
-> [4]
-> ```
+> (库恩, 2012; Fan et al., 2013; 贾东琴 等, 2011; Fourney, c1971; 武丽丽 等, 2008; Myburg et al., 2014; 邓一刚, 2006; Tachibana et al., 2005; 中国互联网络信息中心, 2012; Bawden, 2008; 杨保军, 2012; Calms, 1965)
 
-> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
-> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
-> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
-> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">邓一刚, 2006. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
+    <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
+    <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
+    <div class="csl-entry">武丽丽, 华一新, 张亚军, 等, 2008. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
+    <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">CALMS R B, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
+    <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+    <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al., 2005. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
+  </div>
+</blockquote>
+
 
 ## [003gb-t-7714-2005-numeric-book-pages.csl]
 
@@ -918,6 +925,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
+[001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
@@ -926,7 +934,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [003gb-t-7714-2005-numeric-book-pages.csl]: 003gb-t-7714-2005-numeric-book-pages.csl
 [404jnu-thesis.csl]: 404jnu-thesis.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
-[001gb-t-7714-2015-numeric-no-date-url.csl]: 001gb-t-7714-2015-numeric-no-date-url.csl
 [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
 [410sjtu-thesis]:410sjtu-thesis
 [408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
