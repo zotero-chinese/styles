@@ -8,7 +8,7 @@ email 前后加 __
 
 ## CSL文件名说明：
 
-0开头为[china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl)基础修改的样式；
+0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl) 基础修改的样式；
 
 1开头为数字格式期刊样式；
 
@@ -20,24 +20,58 @@ email 前后加 __
 
 5开头为其它样式。
 
-## [001gb-t-7714-2015-numeric-no-date-url.csl]
 
-[009gb-t-7714-2015-numeric-pageout.csl]
-基础上修改，作者首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，locator 页码在括号外面，报纸为出版日期，不改变 `Zotero` 中 `Title` 大小写，类型将不显示 `OL`，书籍的日期不显示，不显示` URL`，不显示 `DOI`。
+## [000gb-t-7714-2015-numeric-bilingual.csl]
+
+GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”和“et al.”。
 
 显示效果：
 
-> ```
-> [1]
-> [2]
-> [3]
-> [4]
-> ```
+> <sup>[1-12]</sup>
 
-> [1] 本报记者  李昌禹. “决不让一个兄弟民族掉队”[N]. 人民日报, 2021–02–23(006).	<br>
-> [2] 本书编写组. 党的十九届五中全会《建议》学习辅导百问[M]. 党建读物出版社 学习出版社, 2020.	<br>
-> [3] Marcon A V, Caldara F R, De Oliveira G F, et al. Pork quality after electrical or carbon dioxide stunning at slaughter[J]. Meat Science, 2019, 156: 93–97.	<br>
-> [4] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.	<br>
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-entry">[6] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-entry">[7] 邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
+    <div class="csl-entry">[8] TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
+    <div class="csl-entry">[9] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[10] BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">[11] 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
+    <div class="csl-entry">[12] CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  </div>
+</blockquote>
+
+
+## [001gb-t-7714-2015-author-date-bilingual.csl]
+
+GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等”和“et al.”。
+
+显示效果：
+
+> (库恩, 2012; Fan et al., 2013; 贾东琴 等, 2011; Fourney, c1971; 武丽丽 等, 2008; Myburg et al., 2014; 邓一刚, 2006; Tachibana et al., 2005; 中国互联网络信息中心, 2012; Bawden, 2008; 杨保军, 2012; Calms, 1965)
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">邓一刚, 2006. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
+    <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
+    <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
+    <div class="csl-entry">武丽丽, 华一新, 张亚军, 等, 2008. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
+    <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">CALMS R B, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
+    <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+    <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al., 2005. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
+  </div>
+</blockquote>
+
 
 ## [003gb-t-7714-2005-numeric-book-pages.csl]
 
@@ -283,7 +317,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 ## [104acta-physica-sinica.csl]
-《物理学报》<https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-zepingli-rework.csl]修改。对应官方仓库为<https://github.com/citation-style-language/styles/blob/master/acta-physica-sinica.csl>或<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/105acta-physica-sinica-zotero-res.csl>，CSL官方仓库要求将期刊对应的翻译放入`Extra`字段中，并且前面加`original-title: `。
+《物理学报》<https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-bilingual.csl]修改。对应官方仓库为<https://github.com/citation-style-language/styles/blob/master/acta-physica-sinica.csl>或<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/105acta-physica-sinica-zotero-res.csl>，CSL官方仓库要求将期刊对应的翻译放入`Extra`字段中，并且前面加`original-title: `。
 
 存在问题：
 
@@ -323,6 +357,33 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [2]	RESASCO D E, HALLER G L. A model of metal-oxide support interaction for Rh on TiO2. *Journal of Catalysis*, 1983, **82(2)**: 279–288.</br>
 > [3]	LIU H, SHEN K, ZHAO H, et al. A new strategy to improve catalytic activity for chlorinated volatile organic compounds oxidation over cobalt oxide: Introduction of strontium carbonate. *Journal of the Indian Chemical Society*, 2021, **98(8)**: 100116.</br>
 > [4]	DAMMA D, ETTIREDDY P, REDDY B, et al. A Review of Low Temperature NH3-SCR for Removal of NOx. *Catalysts*, 2019, **9(4)**: 349.
+
+
+## [107chinese-journal-of-cardiology.csl]
+
+《[中华心血管病杂志](http://www.cjcv.org.cn/)》 样式，在 [chinese-gb7714-2005-numeric](https://github.com/citation-style-language/styles/blob/master/chinese-gb7714-2005-numeric.csl) 的基础上进行修改：
+
+1. 默认语言为英文，需要在中文文献的 `language` 域填写 `zh-CN`；
+2. 按照语言显示“等”或“et al.”；
+3. 姓名取消全大写；
+4. 西文的名无空格；
+5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；
+6. 页码的冒号前无空格；
+7. 优先显示 DOI。
+
+显示效果：
+
+> <sup>[1-4]<sup>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 伊宪华, 韩雅玲, 李毅, 等. 介入治疗开通慢性完全闭塞病变的长期临床疗效[J]. 中华心血管病杂志, 2009, 37(9):773-776. DOI: <a href="https://doi.org/10.3760/cma.j.issn.0253-3758.2009.09.002">10.3760/cma.j.issn.0253-3758.2009.09.002</a>.</div>
+    <div class="csl-entry">[2] Wilde AAM, Ackerman MJ. Beta-blockers in the treatment of congenital long QT syndrome: is one beta-blocker superior to another?[J]. J Am Coll Cardiol, 2014, 64(13):1359-1361. DOI: <a href="https://doi.org/10.1016/j.jacc.2014.06.1192">10.1016/j.jacc.2014.06.1192</a>.</div>
+    <div class="csl-entry">[3] Jablonski S. Online multiple congenital anomaly/mental retardation (MCA/MR) syndromes[DB/OL]. Bethesda (MD): National Library of Medicine (US), 1999[2002-12-12]. <a href="http://www.nlm.nih.gov/mesh/jablonski/syndrome_title.html">http://www.nlm.nih.gov/mesh/jablonski/syndrome_title.html</a>.</div>
+    <div class="csl-entry">[4] 卫生部心血管病防治中心. 中国心血管病报告 2011[M]. 北京: 中国大百科全书出版社, 2012.</div>
+  </div>
+</blockquote>
+
 
 ## [201comparative-economic-and-social-systems.csl]
 
@@ -497,7 +558,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [405njau-thesis.csl]
 
-南京农业大学硕博论文用，在 [000gb-t-7714-2015-numeric-zepingli-rework.csl] 基础上修改（原样式见[407njau-thesis-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+南京农业大学硕博论文用，在 [000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改（原样式见[407njau-thesis-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
 
 显示效果：
 
@@ -819,6 +880,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Zotero` 分类、标签和关联的使用 <https://zhuanlan.zhihu.com/p/275707703>。
 
+`Zotero` 数十篇文献同时去除同一个标签要怎么操作呢？除了一个一个点去除，有其他快捷去除的方式吗？见<https://zhuanlan.zhihu.com/p/500361660>
+
 `Zotero` 检索引擎的使用 <https://zhuanlan.zhihu.com/p/268074292>。
 
 `Zotero` 如何点击父文件夹时也同时显示子文件夹内容？<https://zhuanlan.zhihu.com/p/261375851>。
@@ -888,7 +951,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 给 `Word` 中的 `Zotero` 设置快捷键 <https://zhuanlan.zhihu.com/p/55259481>。
 
 
-[000gb-t-7714-2015-numeric-zepingli-rework.csl]:000gb-t-7714-2015-numeric-zepingli-rework.csl
+[000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
+[001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
@@ -897,7 +961,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [003gb-t-7714-2005-numeric-book-pages.csl]: 003gb-t-7714-2005-numeric-book-pages.csl
 [404jnu-thesis.csl]: 404jnu-thesis.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
-[001gb-t-7714-2015-numeric-no-date-url.csl]: 001gb-t-7714-2015-numeric-no-date-url.csl
 [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
 [410sjtu-thesis]:410sjtu-thesis
 [408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
@@ -927,3 +990,4 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [407njau-thesis-old.csl]: 407njau-thesis-old.csl
 [406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
+[107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
