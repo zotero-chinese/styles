@@ -484,37 +484,32 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
 > Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
 
-## [301chinese-law-journals.csl]
+## [301law-citation-manual-multi-lingual.csl]
 
-[法学引注手册（2019 年版）](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)不完整版。
-
-存在问题：~~英文学位论文年后面应该为 `)`，现在显示为 `]`；~~ 对于同样的是英文文献的，中国人姓名姓大写+名字，而外国人名+姓首字母大写。尚未找到解决方案。
+《[法学引注手册](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)》（2019 年版）。
 
 显示效果：
 
-> ```
-> 期刊中文12
-> 期刊英文345
-> 书籍中文67
-> 书籍英文89
-> 博士中文1011
-> 博士英文1213
-> ```
-
-
-> 1 魏治勋、汪潇：《“法治中国”如何吸收和融通西方制度文化资源》，载《西北大学学报(哲学社会科学版)》2016年，第06期，第59–68页。<br>
-> 2 同上。<br>
-> 3 AALBERS Henrick et al.：Does pre‐packed bankruptcy create value? An empirical study of postbankruptcy employment retention in The Netherlands, International Insolvency Review 320, 320–339 (2019).<br>
-> 4 Id.<br>
-> 5 NEUSTADTER Gary：2006: A Consumer Bankruptcy Odyssey, 39 Creighton Law Review 225, 225–355 (2006).<br>
-> 6 许德风：《破产法论：解释与功能比较的视角》，北京大学出版社2015年版: 25。<br>
-> 7 同上p.26。<br>
-> 8 KEETON Robert E, WIDISS Alan I, FISCHER James M：Insurance law: A guide to fundamental principles, legal doctrines, and commercial Practices. 2nd edition. , West Academic Publishing2017: 25.<br>
-> 9 Id.p.20.<br>
-> 10 文秀峰：《个人破产法律制度研究》，中国政法大学2004年博士学位论文。<br>
-> 11 同上p.20。<br>
-> 12 LEE Chong Kyoon：Business failure and entrepreneurship: Three essays on the effects of the cost of Failure, (Syracuse University 2017).<br>
-> 13 Id.p.20.<br>
+<blockquote>
+  王名扬：《美国行政法》，北京大学出版社2007年版。<br>
+  同上注。<br>
+  季卫东：《法律程序的意义：对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。<br>
+  同上注，第42-45页。<br>
+  同前注〔1〕，王名扬：《美国行政法》，第42-45页。<br>
+  王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星编：《民商法论丛》第1卷，法律出版社1994年版，第110页。<br>
+  何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
+  汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，载人民网，2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。<br>
+  李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
+  《民法总则》第 27 条第 2 款第 3 项。<br>
+  《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕 19 号，2007年7月11日发布。<br>
+  包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院（1988）浙法民上字 7 号民事判决书。<br>
+  Charles A. Reich, <i>The new property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
+  Ibid.<br>
+  Louis D. Brandeis, <i>What publicity can do</i>, Harper’s Weekly, Dec. 20, 1913, p.10.<br>
+  Ibid, p.42-237.<br>
+  Supra note 13, Charles A. Reich, The new property, p.42-237.<br>
+  William Alford, <i>To steal a book is an elegant offense: Intellectual property law in Chinese civilization</i>, Stanford University Press, 1995, p.98.<br>
+</blockquote>
 
 ## [403hzau-thesis.csl]
 
@@ -966,7 +961,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
 [415zju-thesis.csl]:415zju-thesis.csl
 [104acta-physica-sinica.csl]:104acta-physica-sinica.csl
-[301chinese-law-journals.csl]: 301chinese-law-journals.csl
+[301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
 [416zuel-thesis.csl]: 416zuel-thesis.csl
 [411swu-thesis.csl]: 411swu-thesis.csl
 [101cma.csl]: 101cma.csl
