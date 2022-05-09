@@ -152,24 +152,9 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [006gb-t-7714-2015-numeric.csl]
-
-网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为“`等`”，英文显示为“`et al`”，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
-
-显示效果（`csl` 设置的是 `Title` 格式，但在我的 `Word` 中显示只是第一个单词和最后一个单词首字母大写）：
-
-> [1–4]
-
-> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
-> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
-
 ## [007gb-t-7714-2015-numeric-aulower-bilan.csl]
 
-网友**牛耕田**（__buffalo_d@163.com__）分享的 [006gb-t-7714-2015-numeric.csl] 的修改版，作者为首字母大写，题目为首字母大写（Sentence 格式，），但这种格式会导致题目内原来本该大写的缩写词变为小写，如 DNA 会变为 dna。支持中文
+[000gb-t-7714-2015-numeric-bilingual.csl] 的修改版，作者为首字母大写，题目为首字母大写（Sentence 格式，），但这种格式会导致题目内原来本该大写的缩写词变为小写，如 DNA 会变为 dna。支持中文
 `3` 个作者显示为“`等`”，英文显示为“`et al`”。
 
 显示效果：
@@ -300,7 +285,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [101cma.csl]
 
-中华医学会系列杂志样式。[006gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
+中华医学会系列杂志样式。[000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
 
 显示效果：
 
@@ -975,7 +960,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]: 008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl
 [007gb-t-7714-2015-numeric-aulower-bilan.csl]: 007gb-t-7714-2015-numeric-aulower-bilan.csl
 [009gb-t-7714-2015-numeric-pageout.csl]: 009gb-t-7714-2015-numeric-pageout.csl
-[006gb-t-7714-2015-numeric.csl]: 006gb-t-7714-2015-numeric.csl
 [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: 011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
 [010gb-t-7714-2015-author-date-aulower-bilan.csl]: 010gb-t-7714-2015-author-date-aulower-bilan.csl
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
