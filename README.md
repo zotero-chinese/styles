@@ -136,18 +136,20 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [005china-national-standard-gb-t-7714-2015-note-noibid.csl]
+## [005gb-t-7714-2015-note-bilingual-no-ibid.csl]
 
-[China National Standard GB/T 7714-2015 (note, Chinese)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note)的修改版，作者名字全部大写，支持中文作者超过 3 个为“等”，英文为“et al”。脚注连续编号，重复文献不省略，重复显示
+[China National Standard GB/T 7714-2015 (note, 中文)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note) 的修改版，按照语言显示“等”或“et al.”，重复文献不省略，完整显示。
 
-显示效果（1、4 为重复文献）：
+显示效果（2–4、6 为重复文献，引用的页码不同）：
 
-> 正文中<sup>1</sup>显示<sup>2</sup>脚注<sup>3</sup>形式<sup>4</sup>。
-
-> <sup>1</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> <sup>2</sup> 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
-> <sup>3</sup> ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
-> <sup>4</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.
+<blockquote>
+  <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia law review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>.<br>
+  <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>3</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>4</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+  <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+  <sup>6</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326-329.<br>
+</blockquote>
 
 
 ## [006gb-t-7714-2015-numeric.csl]
@@ -950,6 +952,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
 [001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl
+[005gb-t-7714-2015-note-bilingual-no-ibid.csl]: 005gb-t-7714-2015-note-bilingual-no-ibid.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
@@ -969,7 +972,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
-[005china-national-standard-gb-t-7714-2015-note-noibid.csl]: 005china-national-standard-gb-t-7714-2015-note-noibid.csl
 [008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]: 008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl
 [007gb-t-7714-2015-numeric-aulower-bilan.csl]: 007gb-t-7714-2015-numeric-aulower-bilan.csl
 [009gb-t-7714-2015-numeric-pageout.csl]: 009gb-t-7714-2015-numeric-pageout.csl
