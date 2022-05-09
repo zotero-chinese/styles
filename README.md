@@ -136,21 +136,6 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]
-
-[gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl](https://github.com/zepinglee/Chinese-STD-GB-T-7714-related-csl/blob/bilingual-lower-name/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl)基础上修改。作者首字母大写，名缩写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，类型除`EB`外不显示 `OL`及 `URL`，不显示 `DOI`。
-
-显示效果：
-
-> ```
-显示效果<sup>[1-4]</sup>
-
-[1]	Xu P, Su B, Jiang L, et al. An efficient autonomous traction control method for quadruped robot[C]//2017 IEEE International Conference on Unmanned Systems (ICUS). 2017: 1-5.<br>
-[2]	工业和信息化部, 国家发展改革委, 科技部. 三部委关于印发《汽车产业中长期发展规划》的通知[EB/OL]. (2017-04-06)[2021-12-01]. https://www.miit.gov.cn/zwgk/zcwj/wjfb/zbgy/art/2020/art_52eeb9d6f2bf484398fc2505e747afc9.html.<br>
-[3]	丛娜. 流域下垫面变化影响下设计洪水修订问题的研究[D]. 天津大学, 2013.<br>
-[4]	李刚, 宗长富, 陈国迎, 等. 线控四轮独立驱动轮毂电机电动车集成控制[J]. 吉林大学学报(工学版), 2012, 42(04): 796-802.<br>
-> ```
-
 ## [005china-national-standard-gb-t-7714-2015-note-noibid.csl]
 
 [China National Standard GB/T 7714-2015 (note, Chinese)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note)的修改版，作者名字全部大写，支持中文作者超过 3 个为“等”，英文为“et al”。脚注连续编号，重复文献不省略，重复显示
@@ -653,7 +638,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 ## [410sjtu-thesis]
-[004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 > ```
 显示效果<sup>[1-4]</sup>
 
@@ -972,7 +957,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [206accounting-research.csl]: 206accounting-research.csl
 [404jnu-thesis.csl]: 404jnu-thesis.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
-[004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
 [410sjtu-thesis]:410sjtu-thesis
 [408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
 [415zju-thesis.csl]:415zju-thesis.csl
