@@ -177,19 +177,6 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]
-
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
-
-显示效果：
-
-> [1–4]
-
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
 ## [009gb-t-7714-2015-numeric-pageout.csl]
 
 [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl] 基础上修改。插入的 locator 在[序号]的外面，《中国高教研究》期刊要求。
@@ -237,7 +224,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 ## [012gb-t-7714-2015-numeric-aulower-bilan.csl]
 
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -250,7 +237,7 @@ china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕
 
 ## [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]
 
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -968,7 +955,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]: 008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl
 [009gb-t-7714-2015-numeric-pageout.csl]: 009gb-t-7714-2015-numeric-pageout.csl
 [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: 011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
 [010gb-t-7714-2015-author-date-aulower-bilan.csl]: 010gb-t-7714-2015-author-date-aulower-bilan.csl
