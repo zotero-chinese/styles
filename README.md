@@ -136,17 +136,6 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [003gb-t-7714-2005-numeric-book-pages.csl]
-
-[chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl) 官方版本上修改，文献类型 `Book`（书籍）可以显示页码，需要将页码放在 `# of Pages`（总页码）字段。
-
-显示效果：
-
-> <sup>[1]</sup>
-
-> [1]	MONASCH R, MAHY M. Young people: the centre of the HIV epidemic[M]. 2006:100–108.	<br>
-
-
 ## [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]
 
 [gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl](https://github.com/zepinglee/Chinese-STD-GB-T-7714-related-csl/blob/bilingual-lower-name/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl)基础上修改。作者首字母大写，名缩写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，类型除`EB`外不显示 `OL`及 `URL`，不显示 `DOI`。
@@ -981,7 +970,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [102tcsae.csl]: 102tcsae.csl
 [205bmj.csl]: 205bmj.csl
 [206accounting-research.csl]: 206accounting-research.csl
-[003gb-t-7714-2005-numeric-book-pages.csl]: 003gb-t-7714-2005-numeric-book-pages.csl
 [404jnu-thesis.csl]: 404jnu-thesis.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
 [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
