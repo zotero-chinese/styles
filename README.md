@@ -21,6 +21,42 @@ email 前后加 __
 5开头为其它样式。
 
 
+## `csl` 文件的下载及添加
+
+### 所有 `csl` 文件
+
+<!--![下载及使用动图](img/download-csl.gif)-->
+![下载及使用动图](/img/download-csl.gif "Title")
+
+### 单个 `csl` 文件
+
+<!--![下载及使用动图](img/download-s-csl.gif)-->
+![下载及使用动图](/img/download-s-csl.gif "Title")
+
+
+## 如何使用
+
+如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en`。
+
+**将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。**
+
+**不是`English`！不是`English`！不是`English`！**
+
+或是需要将显示不正常的文献删除后重新插入。
+
+使用详情参见[基于`GB/T-7714-2015`的 `Style` 实现同时生成 `et al` 和`等`的方法](https://zhuanlan.zhihu.com/p/320253145)，
+或[`Zotero` 修改版终于可以原生支持同时生成 `et al` 和`等`了](https://zhuanlan.zhihu.com/p/314928204)。
+
+批量修改语言：可以使用 delitemwithatt 插件，到 <https://github.com/redleafnew/delitemwithatt> 下载插件并安装,
+选择需要修改的条目后，右击，选择“将语言字段设为 en”即可。其他方法参见 <https://zhuanlan.zhihu.com/p/341989158>。
+
+`Github` 文件的下载方法也可见 <https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html>。
+
+`Zotero` 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484>。
+
+完整的 `Zotero` 的使用教程见：[《优雅地用 `Zotero` 进行文献管理和论文写作》](https://github.com/redleafnew/Zotero_introduction/releases)。
+
+
 ## [000gb-t-7714-2015-numeric-bilingual.csl]
 
 GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”和“et al.”。
@@ -707,42 +743,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
 > 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 > ```
-
-## `csl` 文件的下载及添加
-
-### 所有 `csl` 文件
-
-<!--![下载及使用动图](img/download-csl.gif)-->
-![下载及使用动图](/img/download-csl.gif "Title")
-
-### 单个 `csl` 文件
-
-<!--![下载及使用动图](img/download-s-csl.gif)-->
-![下载及使用动图](/img/download-s-csl.gif "Title")
-
-
-## 如何使用
-
-如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en`。
-
-**将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。**
-
-**不是`English`！不是`English`！不是`English`！**
-
-或是需要将显示不正常的文献删除后重新插入。
-
-使用详情参见[基于`GB/T-7714-2015`的 `Style` 实现同时生成 `et al` 和`等`的方法](https://zhuanlan.zhihu.com/p/320253145)，
-或[`Zotero` 修改版终于可以原生支持同时生成 `et al` 和`等`了](https://zhuanlan.zhihu.com/p/314928204)。
-
-批量修改语言：可以使用 delitemwithatt 插件，到 <https://github.com/redleafnew/delitemwithatt> 下载插件并安装,
-选择需要修改的条目后，右击，选择“将语言字段设为 en”即可。其他方法参见 <https://zhuanlan.zhihu.com/p/341989158>。
-
-`Github` 文件的下载方法也可见 <https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html>。
-
-`Zotero` 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484>。
-
-完整的 `Zotero` 的使用教程见：[《优雅地用 `Zotero` 进行文献管理和论文写作》](https://github.com/redleafnew/Zotero_introduction/releases)。
-
 
 ## LICENSE
 
