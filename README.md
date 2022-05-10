@@ -177,21 +177,37 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [009gb-t-7714-2015-numeric-pageout.csl]
+## [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]
 
-[007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl] 基础上修改。插入的 locator 在[序号]的外面，《中国高教研究》期刊要求。
+[007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl] 基础上修改。引文页码在“[序号]”的外面。
 
-显示效果（页码都是瞎写的）：
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写；
+3. 引文页码在括号外。注：由于 CSL 功能的限制，这会导致同一处引用多篇文献时无法将全部序号置于括号内。
 
-> [1]11<br>
-> [2]88<br>
-> [3]100<br>
-> [4]999<br><br>
+显示效果：
 
-> [1]	徐娜, 石金明, 何伟俊, 等. 宰后成熟对鸡肉风味的影响研究进展[J]. 食品安全质量检测学报, 2021, 12(02): 727–732. DOI:10.19812/j.cnki.jfsq11-5956/ts.2021.02.057.<br>
-> [2]	Yang H, Tao F, Cao G, et al. Stability improvement of reduced-fat reduced-salt meat batter through modulation of secondary and tertiary protein structures by means of high pressure processing[J]. Meat Science, 2021: 108439. DOI:10.1016/j.meatsci.2021.108439.<br>
-> [3]	Dong M, Tian H, Xu Y, et al. Effects of pulsed electric fields on the conformation and gelation properties of myofibrillar proteins isolated from pale, soft, exudative (pse)-like chicken breast meat: A molecular dynamics study[J]. Food Chemistry, 2021, 342: 128306. DOI:10.1016/j.foodchem.2020.128306.<br>
-> [4]	李先保, 韩敏义, 费英, 等. 低场NMR法研究微生物转谷氨酰酶对猪肉肌原纤维蛋白凝胶功能特性的影响: 03[J]. 南京农业大学学报, 2009, 32(03): 130–134.<br>
+<blockquote>
+  <sup>[1]</sup><br>
+  <sup>[2]260</sup><br>
+  <sup>[3]326-329</sup><br>
+  <sup>[3],[1]</sup><br>
+  <sup>[1],[2],[4]</sup><br>
+  <sup>[1]–[3]</sup><br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] Fan X, Sommers C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-entry">[6] Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[8] Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
 
 
 ## [010gb-t-7714-2015-author-date-aulower-bilan.csl]
@@ -936,6 +952,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl
 [005gb-t-7714-2015-note-bilingual-no-ibid.csl]: 005gb-t-7714-2015-note-bilingual-no-ibid.csl
 [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]: 007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl
+[009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
@@ -955,7 +972,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
-[009gb-t-7714-2015-numeric-pageout.csl]: 009gb-t-7714-2015-numeric-pageout.csl
 [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: 011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
 [010gb-t-7714-2015-author-date-aulower-bilan.csl]: 010gb-t-7714-2015-author-date-aulower-bilan.csl
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
