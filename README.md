@@ -8,7 +8,7 @@ email 前后加 __
 
 ## CSL文件名说明：
 
-0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl) 基础修改的样式；
+0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl] 基础修改的样式；
 
 1开头为数字格式期刊样式；
 
@@ -138,7 +138,7 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 ## [005gb-t-7714-2015-note-bilingual-no-ibid.csl]
 
-[China National Standard GB/T 7714-2015 (note, 中文)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note) 的修改版，按照语言显示“等”或“et al.”，重复文献不省略，完整显示。
+[china-national-standard-gb-t-7714-2015-note] 的修改版，按照语言显示“等”或“et al.”，重复文献不省略，完整显示。
 
 显示效果（2–4、6 为重复文献，引用的页码不同）：
 
@@ -210,20 +210,39 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [010gb-t-7714-2015-author-date-aulower-bilan.csl]
+## [010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]
 
-china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[china-national-standard-gb-t-7714-2015-author-date.csl] 的修改版。
+
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写。
 
 显示效果：
 
-> ```
-> (Zhang et al., 2020; 唐霄等, 2019; Wu et al., 2016; 朱磊等, 2020)
-> ```
+<blockquote>
+  (Crane, 1972)<br>
+  (王临惠 等, 2010)<br>
+  (王临惠, 2010)<br>
+  (Kennedy et al., 1975a)<br>
+  (Kennedy et al., 1975b)<br>
+  (中国社会科学院语言研究所词典编辑室, 1996)<br>
+  (杨保军, 2012)<br>
+  (Bawden, 2008)<br>
+</blockquote>
 
-> 唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
-> 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
-> Wu L, Zhao W, Yang R, et al., 2016. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> Zhang B, Qi X, Mao J, et al., 2020. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 127: 109393. DOI:10.1016/j.lwt.2020.109393.
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">王临惠, 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+    <div class="csl-entry">王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
+    <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996. 现代汉语词典[M]. 修订本. 北京: 商务印书馆.</div>
+    <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975b. Morphology and genesis of nodular phosphates in the cenomanian of South-east England[J]. Lethaia, 8: 339.</div>
+  </div>
+</blockquote>
+
 
 ## [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]
 
@@ -947,12 +966,16 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 给 `Word` 中的 `Zotero` 设置快捷键 <https://zhuanlan.zhihu.com/p/55259481>。
 
 
+[china-national-standard-gb-t-7714-2015-numeric.csl]: https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl
+[china-national-standard-gb-t-7714-2015-author-date.csl]: https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-author-date.csl
+[china-national-standard-gb-t-7714-2015-note.csl]: https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-note.csl
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
 [001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl
 [005gb-t-7714-2015-note-bilingual-no-ibid.csl]: 005gb-t-7714-2015-note-bilingual-no-ibid.csl
 [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]: 007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl
 [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
+[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]: 010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
@@ -973,7 +996,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
 [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: 011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
-[010gb-t-7714-2015-author-date-aulower-bilan.csl]: 010gb-t-7714-2015-author-date-aulower-bilan.csl
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
 [012gb-t-7714-2015-numeric-aulower-bilan.csl]: 012gb-t-7714-2015-numeric-aulower-bilan.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
