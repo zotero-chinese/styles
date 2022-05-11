@@ -244,18 +244,42 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]
+## [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，正文中题录两侧括号为中文括号`（）`，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写使用 `Zotero` 中的 `Title` 字段。不显示 `URL` 和 `DOI`。
+[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版：
+
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写；
+3. 仅纯电子文献显示引用日期和 URL；
+4. 无 DOI；
+5. 正文的引用使用全角括号“（）”。
 
 显示效果：
 
-> （唐霄等, 2019; 朱磊等, 2020; Yang et al., 2015; Zhao et al., 2016）
+<blockquote>
+  （Crane, 1972）<br>
+  （王临惠 等, 2010）<br>
+  （王临惠, 2010）<br>
+  （Kennedy et al., 1975a）<br>
+  （Kennedy et al., 1975b）<br>
+  （中国社会科学院语言研究所词典编辑室, 1996）<br>
+  （杨保军, 2012）<br>
+  （Bawden, 2008）<br>
+</blockquote>
 
-> 唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
-> 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
-> Yang H, Han M, Wang X, et al., 2015. Effect of high pressure on cooking losses and functional properties of Reduced-fat and reduced-salt pork sausage emulsions[J]. Innovative Food Science and Emerging Technologies, 29.	<br>
-> Zhao X, Chen X, Han M, et al., 2016. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat[J]. LWT - Food Science and Technology, 72: 141–148.
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">王临惠, 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+    <div class="csl-entry">王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D]. 北京: 中国人民大学出版社.</div>
+    <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996. 现代汉语词典[M]. 修订本. 北京: 商务印书馆.</div>
+    <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975b. Morphology and genesis of nodular phosphates in the cenomanian of South-east England[J]. Lethaia, 8: 339.</div>
+  </div>
+</blockquote>
+
 
 ## [012gb-t-7714-2015-numeric-aulower-bilan.csl]
 
@@ -976,6 +1000,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]: 007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl
 [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
 [010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]: 010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl
+[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]: 011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [414ynu-thesis.csl]: 414ynu-thesis.csl
 [102tcsae.csl]: 102tcsae.csl
@@ -995,7 +1020,6 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
-[011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: 011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
 [012gb-t-7714-2015-numeric-aulower-bilan.csl]: 012gb-t-7714-2015-numeric-aulower-bilan.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
