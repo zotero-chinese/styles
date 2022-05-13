@@ -8,7 +8,7 @@ email 前后加 __
 
 ## CSL文件名说明：
 
-0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl](https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl) 基础修改的样式；
+0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl] 基础修改的样式；
 
 1开头为数字格式期刊样式；
 
@@ -25,13 +25,11 @@ email 前后加 __
 
 ### 所有 `csl` 文件
 
-<!--![下载及使用动图](img/download-csl.gif)-->
-![下载及使用动图](/img/download-csl.gif "Title")
+![下载及使用动图](/img/download-csl.gif)
 
 ### 单个 `csl` 文件
 
-<!--![下载及使用动图](img/download-s-csl.gif)-->
-![下载及使用动图](/img/download-s-csl.gif "Title")
+![下载及使用动图](/img/download-s-csl.gif)
 
 
 ## 如何使用
@@ -60,25 +58,25 @@ email 前后加 __
 
 ## [000gb-t-7714-2015-numeric-bilingual.csl]
 
-GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”和“et al.”。
+GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”或“et al.”。
 
 显示效果：
 
-> <sup>[1-12]</sup>
+> <sup>[1–12]</sup>
 
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
     <div class="csl-entry">[2] FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
     <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-    <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
     <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
     <div class="csl-entry">[6] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
     <div class="csl-entry">[7] 邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
     <div class="csl-entry">[8] TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
     <div class="csl-entry">[9] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
     <div class="csl-entry">[10] BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-    <div class="csl-entry">[11] 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
+    <div class="csl-entry">[11] 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
     <div class="csl-entry">[12] CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   </div>
 </blockquote>
@@ -86,174 +84,190 @@ GB/T 7714—2015 顺序编码制。支持双语：按照语言显示“等”和
 
 ## [001gb-t-7714-2015-author-date-bilingual.csl]
 
-GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等”和“et al.”。
+GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等”或“et al.”。
 
 显示效果：
 
-> (库恩, 2012; Fan et al., 2013; 贾东琴 等, 2011; Fourney, c1971; 武丽丽 等, 2008; Myburg et al., 2014; 邓一刚, 2006; Tachibana et al., 2005; 中国互联网络信息中心, 2012; Bawden, 2008; 杨保军, 2012; Calms, 1965)
+<blockquote>
+  (Crane, 1972)<br>
+  (王临惠 等, 2010)<br>
+  (王临惠, 2010)<br>
+  (Kennedy et al., 1975a)<br>
+  (Kennedy et al., 1975b)<br>
+  (中国社会科学院语言研究所词典编辑室, 1996)<br>
+  (杨保军, 2012)<br>
+  (Bawden, 2008)<br>
+</blockquote>
 
 <blockquote>
   <div class="csl-bib-body">
-    <div class="csl-entry">邓一刚, 2006. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
-    <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
-    <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
-    <div class="csl-entry">武丽丽, 华一新, 张亚军, 等, 2008. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
-    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&amp;metaid=m.20101104-BPO-889-1023&amp;cult=CN</a>.</div>
-    <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">王临惠, 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+    <div class="csl-entry">王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
+    <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996. 现代汉语词典[M]. 修订本. 北京: 商务印书馆.</div>
     <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-    <div class="csl-entry">CALMS R B, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
-    <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
-    <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
-    <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
-    <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al., 2005. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
+    <div class="csl-entry">CRANE D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-entry">KENNEDY W L, GARRISON R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
+    <div class="csl-entry">KENNEDY W L, GARRISON R E, 1975b. Morphology and genesis of nodular phosphates in the cenomanian of South-east England[J]. Lethaia, 8: 339.</div>
   </div>
 </blockquote>
 
 
-## [003gb-t-7714-2005-numeric-book-pages.csl]
+## [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]
 
-[chinese-gb7714-2005-numeric.csl](https://github.com/citation-style-language/styles/blob/6152ccea8b7d7a472910d36524d1bf3557a83bfc/chinese-gb7714-2005-numeric.csl) 官方版本上修改，文献类型 `Book`（书籍）可以显示页码，需要将页码放在 `# of Pages`（总页码）字段。
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写；
+3. 仅纯电子文献显示引用日期和 URL；
+4. 无 DOI。
 
-显示效果：
+> <sup>[1–8]</sup>
 
-> <sup>[1]</sup>
-
-> [1]	MONASCH R, MAHY M. Young people: the centre of the HIV epidemic[M]. 2006:100–108.	<br>
-
-
-## [004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]
-
-[gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl](https://github.com/zepinglee/Chinese-STD-GB-T-7714-related-csl/blob/bilingual-lower-name/gb-t-7714-2015-numeric-bilingual-lower-name-prefer-doi.csl)基础上修改。作者首字母大写，名缩写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”，类型除`EB`外不显示 `OL`及 `URL`，不显示 `DOI`。
-
-显示效果：
-
-> ```
-显示效果<sup>[1-4]</sup>
-
-[1]	Xu P, Su B, Jiang L, et al. An efficient autonomous traction control method for quadruped robot[C]//2017 IEEE International Conference on Unmanned Systems (ICUS). 2017: 1-5.<br>
-[2]	工业和信息化部, 国家发展改革委, 科技部. 三部委关于印发《汽车产业中长期发展规划》的通知[EB/OL]. (2017-04-06)[2021-12-01]. https://www.miit.gov.cn/zwgk/zcwj/wjfb/zbgy/art/2020/art_52eeb9d6f2bf484398fc2505e747afc9.html.<br>
-[3]	丛娜. 流域下垫面变化影响下设计洪水修订问题的研究[D]. 天津大学, 2013.<br>
-[4]	李刚, 宗长富, 陈国迎, 等. 线控四轮独立驱动轮毂电机电动车集成控制[J]. 吉林大学学报(工学版), 2012, 42(04): 796-802.<br>
-> ```
-
-## [005china-national-standard-gb-t-7714-2015-note-noibid.csl]
-
-[China National Standard GB/T 7714-2015 (note, Chinese)](https://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note)的修改版，作者名字全部大写，支持中文作者超过 3 个为“等”，英文为“et al”。脚注连续编号，重复文献不省略，重复显示
-
-显示效果（1、4 为重复文献）：
-
-> 正文中<sup>1</sup>显示<sup>2</sup>脚注<sup>3</sup>形式<sup>4</sup>。
-
-> <sup>1</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> <sup>2</sup> 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
-> <sup>3</sup> ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
-> <sup>4</sup> 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6] Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. 2012[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[8] Bawden D. Origins and concepts of digital literacy[EB/OL]. 2008[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
 
 
-## [006gb-t-7714-2015-numeric.csl]
+## [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]
 
-网友**牛耕田**（__buffalo_d@163.com__）分享，支持中文 `3` 个作者显示为“`等`”，英文显示为“`et al`”，文章的题目大小写为 `Title` 格式（每个实词首字母大写）。
+[000gb-t-7714-2015-numeric-bilingual.csl] 的修改版。
 
-显示效果（`csl` 设置的是 `Title` 格式，但在我的 `Word` 中显示只是第一个单词和最后一个单词首字母大写）：
-
-> [1–4]
-
-> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
-> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
-
-## [007gb-t-7714-2015-numeric-aulower-bilan.csl]
-
-网友**牛耕田**（__buffalo_d@163.com__）分享的 [006gb-t-7714-2015-numeric.csl] 的修改版，作者为首字母大写，题目为首字母大写（Sentence 格式，），但这种格式会导致题目内原来本该大写的缩写词变为小写，如 DNA 会变为 dna。支持中文
-`3` 个作者显示为“`等`”，英文显示为“`et al`”。
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写。
 
 显示效果：
 
-> [1–4]
+> [1–8]
 
-> [1]	Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393. DOI:10.1016/j.lwt.2020.109393.<br>
-> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3]	Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
-## [008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]
-
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享文件基础上修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
-
-显示效果：
-
-> [1–4]
-
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.	<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-## [009gb-t-7714-2015-numeric-pageout.csl]
-
-[007gb-t-7714-2015-numeric-aulower-bilan.csl] 基础上修改。插入的 locator 在[序号]的外面，《中国高教研究》期刊要求。
-
-显示效果（页码都是瞎写的）：
-
-> [1]11<br>
-> [2]88<br>
-> [3]100<br>
-> [4]999<br><br>
-
-> [1]	徐娜, 石金明, 何伟俊, 等. 宰后成熟对鸡肉风味的影响研究进展[J]. 食品安全质量检测学报, 2021, 12(02): 727–732. DOI:10.19812/j.cnki.jfsq11-5956/ts.2021.02.057.<br>
-> [2]	Yang H, Tao F, Cao G, et al. Stability improvement of reduced-fat reduced-salt meat batter through modulation of secondary and tertiary protein structures by means of high pressure processing[J]. Meat Science, 2021: 108439. DOI:10.1016/j.meatsci.2021.108439.<br>
-> [3]	Dong M, Tian H, Xu Y, et al. Effects of pulsed electric fields on the conformation and gelation properties of myofibrillar proteins isolated from pale, soft, exudative (pse)-like chicken breast meat: A molecular dynamics study[J]. Food Chemistry, 2021, 342: 128306. DOI:10.1016/j.foodchem.2020.128306.<br>
-> [4]	李先保, 韩敏义, 费英, 等. 低场NMR法研究微生物转谷氨酰酶对猪肉肌原纤维蛋白凝胶功能特性的影响: 03[J]. 南京农业大学学报, 2009, 32(03): 130–134.<br>
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] Fan X, Sommers C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-entry">[6] Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[8] Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
 
 
-## [010gb-t-7714-2015-author-date-aulower-bilan.csl]
+## [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]
 
-china-national-standard-gb-t-7714-2015-author-date 的修改版，网友**牛耕田**（__buffalo_d@163.com__）分享，**Raymond**修改，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl] 基础上修改。引文页码在“[序号]”的外面。
+
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写；
+3. 引文页码在括号外。注：由于 CSL 功能的限制，这会导致同一处引用多篇文献时无法将全部序号置于括号内。
 
 显示效果：
 
-> ```
-> (Zhang et al., 2020; 唐霄等, 2019; Wu et al., 2016; 朱磊等, 2020)
-> ```
+<blockquote>
+  <sup>[1]</sup><br>
+  <sup>[2]260</sup><br>
+  <sup>[3]326-329</sup><br>
+  <sup>[3],[1]</sup><br>
+  <sup>[1],[2],[4]</sup><br>
+  <sup>[1]–[3]</sup><br>
+</blockquote>
 
-> 唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
-> 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
-> Wu L, Zhao W, Yang R, et al., 2016. Aggregation of egg white proteins with pulsed electric fields and thermal Processes[J]. Journal of the Science of Food and Agriculture, 96(10): 3334–3341. DOI:10.1002/jsfa.7512.<br>
-> Zhang B, Qi X, Mao J, et al., 2020. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic Simulation[J]. LWT - Food Science and Technology, 127: 109393. DOI:10.1016/j.lwt.2020.109393.
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] Fan X, Sommers C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-entry">[6] Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[8] Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
 
-## [011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版，正文中题录两侧括号为中文括号`（）`，作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。文章的题目大小写使用 `Zotero` 中的 `Title` 字段。不显示 `URL` 和 `DOI`。
+## [010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]
+
+[china-national-standard-gb-t-7714-2015-author-date.csl] 的修改版。
+
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写。
 
 显示效果：
 
-> （唐霄等, 2019; 朱磊等, 2020; Yang et al., 2015; Zhao et al., 2016）
+<blockquote>
+  (Crane, 1972)<br>
+  (王临惠 等, 2010)<br>
+  (王临惠, 2010)<br>
+  (Kennedy et al., 1975a)<br>
+  (Kennedy et al., 1975b)<br>
+  (中国社会科学院语言研究所词典编辑室, 1996)<br>
+  (杨保军, 2012)<br>
+  (Bawden, 2008)<br>
+</blockquote>
 
-> 唐霄, 孙杨赢, 江雪婷, 等, 2019. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 40(22): 141–146.<br>
-> 朱磊, 张馨心, 谢艳英, 等, 2020. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 41(09): 362–367.<br>
-> Yang H, Han M, Wang X, et al., 2015. Effect of high pressure on cooking losses and functional properties of Reduced-fat and reduced-salt pork sausage emulsions[J]. Innovative Food Science and Emerging Technologies, 29.	<br>
-> Zhao X, Chen X, Han M, et al., 2016. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat[J]. LWT - Food Science and Technology, 72: 141–148.
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">王临惠, 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+    <div class="csl-entry">王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D/OL]. 北京: 中国人民大学出版社[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
+    <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996. 现代汉语词典[M]. 修订本. 北京: 商务印书馆.</div>
+    <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975b. Morphology and genesis of nodular phosphates in the cenomanian of South-east England[J]. Lethaia, 8: 339.</div>
+  </div>
+</blockquote>
 
-## [012gb-t-7714-2015-numeric-aulower-bilan.csl]
 
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，文献编号后面为空格，悬挂缩进一个单词，作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+## [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]
+
+[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 的修改版：
+
+1. 按照语言显示“等”或“et al.”；
+2. 姓名取消全大写；
+3. 仅纯电子文献显示引用日期和 URL；
+4. 无 DOI；
+5. 正文的引用使用全角括号“（）”。
 
 显示效果：
 
-> [1–4]
+<blockquote>
+  （Crane, 1972）<br>
+  （王临惠 等, 2010）<br>
+  （王临惠, 2010）<br>
+  （Kennedy et al., 1975a）<br>
+  （Kennedy et al., 1975b）<br>
+  （中国社会科学院语言研究所词典编辑室, 1996）<br>
+  （杨保军, 2012）<br>
+  （Bawden, 2008）<br>
+</blockquote>
 
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">王临惠, 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+    <div class="csl-entry">王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
+    <div class="csl-entry">杨保军, 2012. 新闻道德论[D]. 北京: 中国人民大学出版社.</div>
+    <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996. 现代汉语词典[M]. 修订本. 北京: 商务印书馆.</div>
+    <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
+    <div class="csl-entry">Kennedy W L, Garrison R E, 1975b. Morphology and genesis of nodular phosphates in the cenomanian of South-east England[J]. Lethaia, 8: 339.</div>
+  </div>
+</blockquote>
+
 
 ## [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]
 
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl] 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
+[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 显示效果：
 
@@ -298,7 +312,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 
 ## [101cma.csl]
 
-中华医学会系列杂志样式。[006gb-t-7714-2015-numeric.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
+中华医学会系列杂志样式。[000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
 
 显示效果：
 
@@ -424,7 +438,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [201comparative-economic-and-social-systems.csl]
 
-[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
 所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
@@ -507,7 +521,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [206accounting-research.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
+[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
 对于不连续的多页，需要写为 `128-140, 188` 或 `128-140 & 188`，才可以显示为`～`，不能写为 `128-140+188`，感谢 [@zepinglee](https://github.com/zepinglee) 的指导。
 
 显示效果：
@@ -547,6 +561,39 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   Supra note 13, Charles A. Reich, The new property, p.42-237.<br>
   William Alford, <i>To steal a book is an elegant offense: Intellectual property law in Chinese civilization</i>, Stanford University Press, 1995, p.98.<br>
 </blockquote>
+
+
+## [303gb-t-7714-2015-note-bilingual.csl]
+
+[china-national-standard-gb-t-7714-2015-note.csl] 的修改版，按照语言显示“等”或“et al.”。
+
+显示效果（2–4、6 为重复文献，引用的页码不同）：
+
+<blockquote>
+  <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia law review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>.<br>
+  <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>3</sup> 同上.<br>
+  <sup>4</sup> 同上: 260.<br>
+  <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+  <sup>6</sup> 同2: 326-329.<br>
+</blockquote>
+
+
+## [304gb-t-7714-2015-note-bilingual-no-ibid.csl]
+
+[china-national-standard-gb-t-7714-2015-note.csl] 的修改版，按照语言显示“等”或“et al.”，重复文献不省略，完整显示。
+
+显示效果（2–4、6 为重复文献，引用的页码不同）：
+
+<blockquote>
+  <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia law review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>.<br>
+  <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>3</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>4</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+  <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+  <sup>6</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326-329.<br>
+</blockquote>
+
 
 ## [403hzau-thesis.csl]
 
@@ -638,7 +685,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 ## [410sjtu-thesis]
-[004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 > ```
 显示效果<sup>[1-4]</sup>
 
@@ -670,7 +717,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [414ynu-thesis.csl]
 
-云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
+云南大学理科类参考文献样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
 
 显示效果：
 
@@ -947,43 +994,42 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 给 `Word` 中的 `Zotero` 设置快捷键 <https://zhuanlan.zhihu.com/p/55259481>。
 
 
+[china-national-standard-gb-t-7714-2015-numeric.csl]: https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-numeric.csl
+[china-national-standard-gb-t-7714-2015-author-date.csl]: https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-author-date.csl
+[china-national-standard-gb-t-7714-2015-note.csl]: https://github.com/citation-style-language/styles/blob/master/china-national-standard-gb-t-7714-2015-note.csl
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
 [001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
-[203economic-research-journal.csl]: 203economic-research-journal.csl
-[414ynu-thesis.csl]: 414ynu-thesis.csl
-[102tcsae.csl]: 102tcsae.csl
-[205bmj.csl]: 205bmj.csl
-[206accounting-research.csl]: 206accounting-research.csl
-[003gb-t-7714-2005-numeric-book-pages.csl]: 003gb-t-7714-2005-numeric-book-pages.csl
-[404jnu-thesis.csl]: 404jnu-thesis.csl
-[103ieee-bl.csl]: 103ieee-bl.csl
-[004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl]: 004gb-t-7714-2015-numeric-bilingual-lower-name-prefer-nodoi.csl
-[410sjtu-thesis]:410sjtu-thesis
-[408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
-[415zju-thesis.csl]:415zju-thesis.csl
-[104acta-physica-sinica.csl]:104acta-physica-sinica.csl
-[301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
-[416zuel-thesis.csl]: 416zuel-thesis.csl
-[411swu-thesis.csl]: 411swu-thesis.csl
-[101cma.csl]: 101cma.csl
-[201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
-[417whu-school-of-law.csl]: 417whu-school-of-law.csl
-[202journal-of-management-world.csl]: 202journal-of-management-world.csl
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
-[005china-national-standard-gb-t-7714-2015-note-noibid.csl]: 005china-national-standard-gb-t-7714-2015-note-noibid.csl
-[008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl]: 008gb-t-7714-2015-numeric-aulower-bilan-nodoi.csl
-[007gb-t-7714-2015-numeric-aulower-bilan.csl]: 007gb-t-7714-2015-numeric-aulower-bilan.csl
-[009gb-t-7714-2015-numeric-pageout.csl]: 009gb-t-7714-2015-numeric-pageout.csl
-[006gb-t-7714-2015-numeric.csl]: 006gb-t-7714-2015-numeric.csl
-[011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl]: 011gb-t-7714-2015-author-date-aulower-bilan-nodoi.csl
-[010gb-t-7714-2015-author-date-aulower-bilan.csl]: 010gb-t-7714-2015-author-date-aulower-bilan.csl
+[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl
+[007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]: 007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl
+[009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
+[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]: 010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl
+[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]: 011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
-[012gb-t-7714-2015-numeric-aulower-bilan.csl]: 012gb-t-7714-2015-numeric-aulower-bilan.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
-[403hzau-thesis.csl]: 403hzau-thesis.csl
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]: 015jm-chinese-std-gb-t-7714-2005-revised.csl
-[405njau-thesis.csl]: 405njau-thesis.csl
-[407njau-thesis-old.csl]: 407njau-thesis-old.csl
-[406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
+[101cma.csl]: 101cma.csl
+[102tcsae.csl]: 102tcsae.csl
+[103ieee-bl.csl]: 103ieee-bl.csl
+[104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
+[201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
+[202journal-of-management-world.csl]: 202journal-of-management-world.csl
+[203economic-research-journal.csl]: 203economic-research-journal.csl
+[205bmj.csl]: 205bmj.csl
+[206accounting-research.csl]: 206accounting-research.csl
+[301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
+[303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
+[304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
+[403hzau-thesis.csl]: 403hzau-thesis.csl
+[404jnu-thesis.csl]: 404jnu-thesis.csl
+[405njau-thesis.csl]: 405njau-thesis.csl
+[406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
+[407njau-thesis-old.csl]: 407njau-thesis-old.csl
+[408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
+[410sjtu-thesis]:410sjtu-thesis
+[411swu-thesis.csl]: 411swu-thesis.csl
+[414ynu-thesis.csl]: 414ynu-thesis.csl
+[415zju-thesis.csl]:415zju-thesis.csl
+[416zuel-thesis.csl]: 416zuel-thesis.csl
+[417whu-school-of-law.csl]: 417whu-school-of-law.csl

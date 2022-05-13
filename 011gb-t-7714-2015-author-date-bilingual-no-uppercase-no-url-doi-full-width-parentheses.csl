@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714-2015 (著者-出版年, 双语)</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual" rel="self"/>
+    <title>GB/T 7714-2015 (著者-出版年, 双语, 姓名取消大写, 无 URL DOI, 全角括号)</title>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
@@ -11,12 +11,18 @@
       <email>buffalo_d@163.com</email>
     </author>
     <contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
+    <contributor>
+      <name>Raymond</name>
+    </contributor>
+    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
     <category citation-format="author-date"/>
-    <category field="generic-base"/>
-    <summary>按照语言显示“等”或“et al.”</summary>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子文献显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
     <updated>2022-05-09T20:52:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -47,7 +53,12 @@
   </locale>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    <choose>
+      <!-- 仅纯电子资源显示引用日期 -->
+      <if type="article-journal article-magazine article-newspaper book chapter paper-conference patent thesis" variable="publisher" match="none">
+        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <macro name="anonymous">
     <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
@@ -56,7 +67,7 @@
   <macro name="author">
     <names variable="author">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <substitute>
@@ -136,7 +147,7 @@
   <macro name="container-author">
     <names variable="editor">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <substitute>
@@ -254,7 +265,7 @@
   <macro name="secondary-contributor">
     <names variable="translator">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
@@ -349,18 +360,25 @@
         </else>
       </choose>
       <choose>
-        <if variable="URL DOI" match="any">
-          <text value="OL"/>
+        <!-- 仅纯电子资源显示“OL” -->
+        <if type="article-journal article-magazine article-newspaper book chapter paper-conference patent thesis" variable="publisher" match="none">
+          <choose>
+            <if variable="URL" match="any">
+              <text value="OL"/>
+            </if>
+          </choose>
         </if>
       </choose>
     </group>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="url-doi">
-    <group delimiter=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <choose>
+      <!-- 仅纯电子资源显示 URL -->
+      <if type="article-journal article-magazine article-newspaper book chapter paper-conference patent thesis" variable="publisher" match="none">
+        <text variable="URL"/>
+      </if>
+    </choose>
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
@@ -452,13 +470,13 @@
     </choose>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" disambiguate-add-names="true" disambiguate-add-year-suffix="true" collapse="year">
-    <layout prefix="(" suffix=")" delimiter="; " locale="en">
+    <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext"/>
         <text macro="issued-year"/>
       </group>
     </layout>
-    <layout prefix="(" suffix=")" delimiter="; ">
+    <layout prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-long"/>
         <text macro="issued-year"/>

@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714-2015 (著者-出版年, 双语)</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <title>GB/T 7714-2015 (顺序编码, 双语, 姓名取消大写, 页码在括号外)</title>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
     <contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
+    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
-    <category citation-format="author-date"/>
+    <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>按照语言显示“等”或“et al.”</summary>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 引文页码在括号外。</summary>
     <updated>2022-05-09T20:52:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -27,7 +31,6 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
-      <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
@@ -49,14 +52,11 @@
   <macro name="accessed-date">
     <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
   </macro>
-  <macro name="anonymous">
-    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
-  </macro>
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <substitute>
@@ -68,49 +68,6 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
-      </substitute>
-    </names>
-  </macro>
-  <!-- 参考文献表的著者姓名与出版年 -->
-  <macro name="author-date">
-    <group delimiter=", ">
-      <text macro="author"/>
-      <text macro="issued-year"/>
-    </group>
-  </macro>
-  <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
-  <macro name="author-intext">
-    <names variable="author">
-      <name form="short" delimiter-precedes-et-al="never"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anonymous"/>
-      </substitute>
-    </names>
-  </macro>
-  <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
-  <macro name="author-intext-long">
-    <names variable="author">
-      <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long" delimiter="&#160;" delimiter-precedes-et-al="always"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anonymous"/>
       </substitute>
     </names>
   </macro>
@@ -136,7 +93,7 @@
   <macro name="container-author">
     <names variable="editor">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <substitute>
@@ -184,6 +141,7 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
+              <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
@@ -235,6 +193,15 @@
           <text variable="publisher-place"/>
           <text variable="publisher"/>
         </group>
+        <!-- 非电子资源显示“出版年” -->
+        <choose>
+          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+            <text macro="issued-year"/>
+          </if>
+          <else-if variable="URL DOI" match="none">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
       </group>
       <text variable="page"/>
     </group>
@@ -254,7 +221,7 @@
   <macro name="secondary-contributor">
     <names variable="translator">
       <name>
-        <name-part name="family" text-case="uppercase"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
@@ -373,7 +340,7 @@
   <!-- 专著和电子资源 -->
   <macro name="monograph-layout">
     <group delimiter=". ">
-      <text macro="author-date"/>
+      <text macro="author"/>
       <text macro="title"/>
       <text macro="secondary-contributor"/>
       <text macro="edition"/>
@@ -384,7 +351,7 @@
   <!-- 专著中的析出文献 -->
   <macro name="chapter-in-book-layout">
     <group delimiter=". ">
-      <text macro="author-date"/>
+      <text macro="author"/>
       <group delimiter="//">
         <group delimiter=". ">
           <text macro="title"/>
@@ -403,7 +370,7 @@
   <!-- 连续出版物 -->
   <macro name="periodical-layout">
     <group delimiter=". ">
-      <text macro="author-date"/>
+      <text macro="author"/>
       <text macro="title"/>
       <text macro="year-volume-issue"/>
       <text macro="publishing"/>
@@ -413,7 +380,7 @@
   <!-- 连续出版物中的析出文献 -->
   <macro name="article-in-periodical-layout">
     <group delimiter=". ">
-      <text macro="author-date"/>
+      <text macro="author"/>
       <text macro="title"/>
       <text macro="container-periodical"/>
       <text macro="url-doi"/>
@@ -422,7 +389,7 @@
   <!-- 专利文献 -->
   <macro name="patent-layout">
     <group delimiter=". ">
-      <text macro="author-date"/>
+      <text macro="author"/>
       <text macro="title"/>
       <group>
         <text macro="issued-date"/>
@@ -451,29 +418,21 @@
       </else>
     </choose>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" disambiguate-add-names="true" disambiguate-add-year-suffix="true" collapse="year">
-    <layout prefix="(" suffix=")" delimiter="; " locale="en">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
-        <text macro="issued-year"/>
-      </group>
-    </layout>
-    <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext-long"/>
-        <text macro="issued-year"/>
+  <citation collapse="citation-number" after-collapse-delimiter=",">
+    <layout vertical-align="sup" delimiter=",">
+      <group>
+        <text variable="citation-number" prefix="[" suffix="]"/>
+        <text variable="locator"/>
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
-    <sort>
-      <key macro="author"/>
-      <key macro="issued-year"/>
-    </sort>
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout suffix="." locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>
     </layout>
     <layout suffix=".">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>
     </layout>
   </bibliography>
