@@ -136,22 +136,6 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [005gb-t-7714-2015-note-bilingual-no-ibid.csl]
-
-[china-national-standard-gb-t-7714-2015-note] 的修改版，按照语言显示“等”或“et al.”，重复文献不省略，完整显示。
-
-显示效果（2–4、6 为重复文献，引用的页码不同）：
-
-<blockquote>
-  <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia law review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>.<br>
-  <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
-  <sup>3</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
-  <sup>4</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
-  <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
-  <sup>6</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326-329.<br>
-</blockquote>
-
-
 ## [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]
 
 [000gb-t-7714-2015-numeric-bilingual.csl] 的修改版。
@@ -246,7 +230,7 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 ## [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 的修改版：
+[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 的修改版：
 
 1. 按照语言显示“等”或“et al.”；
 2. 姓名取消全大写；
@@ -454,7 +438,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [201comparative-economic-and-social-systems.csl]
 
-[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
+[《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为`text-case="capitalize-first"`时
 所有单词都会大写，设置为`text-case="title"`时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
@@ -537,7 +521,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [206accounting-research.csl]
 
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
+[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 版本上修改，应用于[《会计研究》](http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn)的样式。~~存在问题：页码为不连续多页，如 `121-129+184`，页码间隔仍为 `-`，不是`～`。~~
 对于不连续的多页，需要写为 `128-140, 188` 或 `128-140 & 188`，才可以显示为`～`，不能写为 `128-140+188`，感谢 [@zepinglee](https://github.com/zepinglee) 的指导。
 
 显示效果：
@@ -581,7 +565,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [303gb-t-7714-2015-note-bilingual.csl]
 
-[china-national-standard-gb-t-7714-2015-note] 的修改版，按照语言显示“等”或“et al.”。
+[china-national-standard-gb-t-7714-2015-note.csl] 的修改版，按照语言显示“等”或“et al.”。
 
 显示效果（2–4、6 为重复文献，引用的页码不同）：
 
@@ -592,6 +576,22 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   <sup>4</sup> 同上: 260.<br>
   <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
   <sup>6</sup> 同2: 326-329.<br>
+</blockquote>
+
+
+## [304gb-t-7714-2015-note-bilingual-no-ibid.csl]
+
+[china-national-standard-gb-t-7714-2015-note.csl] 的修改版，按照语言显示“等”或“et al.”，重复文献不省略，完整显示。
+
+显示效果（2–4、6 为重复文献，引用的页码不同）：
+
+<blockquote>
+  <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia law review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>.<br>
+  <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>3</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>4</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+  <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+  <sup>6</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326-329.<br>
 </blockquote>
 
 
@@ -717,7 +717,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [414ynu-thesis.csl]
 
-云南大学理科类参考文献样式，[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
+云南大学理科类参考文献样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。
 
 显示效果：
 
@@ -1000,37 +1000,36 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
 [001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl
-[005gb-t-7714-2015-note-bilingual-no-ibid.csl]: 005gb-t-7714-2015-note-bilingual-no-ibid.csl
 [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]: 007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl
 [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
 [010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]: 010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl
 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]: 011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl
-[203economic-research-journal.csl]: 203economic-research-journal.csl
-[414ynu-thesis.csl]: 414ynu-thesis.csl
-[102tcsae.csl]: 102tcsae.csl
-[205bmj.csl]: 205bmj.csl
-[206accounting-research.csl]: 206accounting-research.csl
-[404jnu-thesis.csl]: 404jnu-thesis.csl
-[103ieee-bl.csl]: 103ieee-bl.csl
-[410sjtu-thesis]:410sjtu-thesis
-[408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
-[415zju-thesis.csl]:415zju-thesis.csl
-[104acta-physica-sinica.csl]:104acta-physica-sinica.csl
-[301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
-[303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
-[416zuel-thesis.csl]: 416zuel-thesis.csl
-[411swu-thesis.csl]: 411swu-thesis.csl
-[101cma.csl]: 101cma.csl
-[201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
-[417whu-school-of-law.csl]: 417whu-school-of-law.csl
-[202journal-of-management-world.csl]: 202journal-of-management-world.csl
-[china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl]: china-national-standard-gb-t-7714-2015-author-date-aulower-bilan.csl
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
-[403hzau-thesis.csl]: 403hzau-thesis.csl
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]: 015jm-chinese-std-gb-t-7714-2005-revised.csl
-[405njau-thesis.csl]: 405njau-thesis.csl
-[407njau-thesis-old.csl]: 407njau-thesis-old.csl
-[406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
+[101cma.csl]: 101cma.csl
+[102tcsae.csl]: 102tcsae.csl
+[103ieee-bl.csl]: 103ieee-bl.csl
+[104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
+[201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
+[202journal-of-management-world.csl]: 202journal-of-management-world.csl
+[203economic-research-journal.csl]: 203economic-research-journal.csl
+[205bmj.csl]: 205bmj.csl
+[206accounting-research.csl]: 206accounting-research.csl
+[301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
+[303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
+[304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
+[403hzau-thesis.csl]: 403hzau-thesis.csl
+[404jnu-thesis.csl]: 404jnu-thesis.csl
+[405njau-thesis.csl]: 405njau-thesis.csl
+[406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
+[407njau-thesis-old.csl]: 407njau-thesis-old.csl
+[408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
+[410sjtu-thesis]:410sjtu-thesis
+[411swu-thesis.csl]: 411swu-thesis.csl
+[414ynu-thesis.csl]: 414ynu-thesis.csl
+[415zju-thesis.csl]:415zju-thesis.csl
+[416zuel-thesis.csl]: 416zuel-thesis.csl
+[417whu-school-of-law.csl]: 417whu-school-of-law.csl
