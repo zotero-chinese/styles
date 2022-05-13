@@ -198,10 +198,28 @@
           <text variable="publisher-place"/>
           <text variable="publisher"/>
         </group>
-        <text macro="issued-year"/>
+        <!-- 非电子资源显示“出版年” -->
+        <choose>
+          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+            <text macro="issued-year"/>
+          </if>
+          <else-if variable="URL" match="none">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
       </group>
       <text variable="page"/>
     </group>
+    <choose>
+      <!-- 纯电子资源显示“更新或修改日期” -->
+      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
+        <choose>
+          <if variable="URL DOI" match="any">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
+      </if>
+    </choose>
     <text macro="accessed-date"/>
   </macro>
   <!-- 其他责任者 -->
