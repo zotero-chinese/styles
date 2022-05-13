@@ -578,6 +578,23 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   William Alford, <i>To steal a book is an elegant offense: Intellectual property law in Chinese civilization</i>, Stanford University Press, 1995, p.98.<br>
 </blockquote>
 
+
+## [303gb-t-7714-2015-note-bilingual.csl]
+
+[china-national-standard-gb-t-7714-2015-note] 的修改版，按照语言显示“等”或“et al.”。
+
+显示效果（2–4、6 为重复文献，引用的页码不同）：
+
+<blockquote>
+  <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia law review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>.<br>
+  <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+  <sup>3</sup> 同上.<br>
+  <sup>4</sup> 同上: 260.<br>
+  <sup>5</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+  <sup>6</sup> 同2: 326-329.<br>
+</blockquote>
+
+
 ## [403hzau-thesis.csl]
 
 [407njau-thesis-old.csl] 的修改版，适用于华中农业大学
@@ -1000,6 +1017,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [415zju-thesis.csl]:415zju-thesis.csl
 [104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
+[303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [416zuel-thesis.csl]: 416zuel-thesis.csl
 [411swu-thesis.csl]: 411swu-thesis.csl
 [101cma.csl]: 101cma.csl
