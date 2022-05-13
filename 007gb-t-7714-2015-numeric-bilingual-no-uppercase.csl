@@ -195,7 +195,7 @@
         </group>
         <!-- 非电子资源显示“出版年” -->
         <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+          <if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
             <text macro="issued-year"/>
           </if>
           <else-if variable="URL DOI" match="none">
@@ -207,7 +207,7 @@
     </group>
     <choose>
       <!-- 纯电子资源显示“更新或修改日期” -->
-      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
+      <if type="book chapter paper-conference periodical thesis" variable="publisher page" match="none">
         <choose>
           <if variable="URL DOI" match="any">
             <text macro="issued-date" prefix="(" suffix=")"/>

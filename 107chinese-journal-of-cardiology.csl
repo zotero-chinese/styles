@@ -50,7 +50,7 @@
     <choose>
       <if variable="URL">
         <choose>
-          <if type="article-journal article-magazine article-newspaper book chapter paper-conference patent thesis" variable="DOI" match="none">
+          <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="DOI" match="none">
             <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
           </if>
         </choose>
@@ -320,7 +320,7 @@
       <choose>
         <if variable="URL">
           <choose>
-            <if type="article-journal article-magazine article-newspaper book chapter paper-conference patent thesis" variable="DOI" match="none">
+            <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="DOI" match="none">
               <text value="OL"/>
             </if>
           </choose>
@@ -336,7 +336,7 @@
       </if>
       <else-if variable="URL">
         <choose>
-          <if type="article-journal article-magazine article-newspaper book chapter paper-conference patent thesis" match="none">
+          <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" match="none">
             <text variable="URL"/>
           </if>
         </choose>
