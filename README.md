@@ -366,7 +366,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 英文<sup>[4]</sup><br>
 
 
-> [1]	谢德仁, 郑登津和崔宸瑜, 《控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究》, 管理世界, 期 05, 页 128–140, 188, 2016, doi: 10/gmxk5j.<br>
+> [1]	谢德仁, 郑登津和崔宸瑜, 《控股股东股权质押是潜在的“DiLei”吗?——基于股价崩盘风险视角的研究》, 管理世界, 期 05, 页 128–140, 188, 2016, doi: 10/gmxk5j.<br>
 > [2]	C. Bonell, A. Oakley, J. Hargreaves, V. Strange, and R. Rees, “Research methodology - Assessment of generalisability in trials of health interventions: suggested framework and systematic review”, Bmj-British Medical Journal, vol. 333, no. 7563, pp. 346–349, Aug. 2006, doi: 10.1136/bmj.333.7563.346.<br>
 > [3]	金红兰和金龙勋, 《技术创新背景下的食品产业现状与发展趋势》, 粮食科技与经济, 卷 46, 期 03, 页 37–39, 2021.<br>
 > [4]	C. M. Lyles et al., “Best-evidence interventions: Findings from a systematic review of HIV behavioral interventions for US populations at high risk, 2000-2004”, American Journal of Public Health, vol. 97, no. 1, pp. 133–143, Jan. 2007, doi: 10.2105/AJPH.2005.076182.<br>
@@ -536,7 +536,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > (Gopalan et al., 2014)<br>
 
 > 陈珏锡, 张俊丰, 李源栋, 夏建军. 2021. 无溶剂微波萃取肉桂精油及成分分析. 现代食品科技, 08: 258-265+167.<br>
-> 谢德仁, 郑登津, 崔宸瑜. 2016. 控股股东股权质押是潜在的“地雷”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
+> 谢德仁, 郑登津, 崔宸瑜. 2016. 控股股东股权质押是潜在的“DiLei”吗?——基于股价崩盘风险视角的研究. 管理世界, 5: 128-140+188.<br>
 > Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
 > Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
 
@@ -557,7 +557,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，载人民网，2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。<br>
   李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
   《民法总则》第 27 条第 2 款第 3 项。<br>
-  《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕 19 号，2007年7月11日发布。<br>
+  《GuoWuYuan关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕 19 号，2007年7月11日发布。<br>
   包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院（1988）浙法民上字 7 号民事判决书。<br>
   Charles A. Reich, <i>The new property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
   Ibid.<br>
