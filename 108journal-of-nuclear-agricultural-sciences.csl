@@ -522,7 +522,7 @@
       <text macro="citation-layout" />
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4000" et-al-use-first="3000" second-field-align="flush">
+  <bibliography entry-spacing="0" second-field-align="flush">
     <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]" />
