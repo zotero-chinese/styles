@@ -441,6 +441,26 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 </blockquote>
 
 
+## [108journal-of-nuclear-agricultural-sciences.csl]
+
+[405njau-thesis.csl]修改，显示全部作者。适用于[《核农学报》](<https://www.hnxb.org.cn/CN/column/item8.shtml>)的样式。
+
+显示效果：
+
+> <sup>[1-4]<sup>
+
+<blockquote>
+  <div class="csl-bib-body">
+<div class="csl-entry">[1]	Koyama H, Akolkar D B, Shiokai T, Nakaya M, Piyapattanakorn S, Watabe S. The occurrence of two types of fast skeletal myosin heavy chains from abdominal muscle of kuruma shrimp Marsupenaeus japonicus and their different tissue distribution[J]. Journal of Experimental Biology, 2012, 215(1): 14-21.</div>
+    <div class="csl-entry">
+[2]	刘品, 陈静. 低温等离子体对南美白对虾防黑变及品质的研究[J]. 食品工业, 2018, 39(11): 184-187.</div>
+    <div class="csl-entry">
+[3]	Arcena M R, Leong S Y, Then S, Hochberg M, Sack M, Mueller G, Sigler J, Kebede B, Silcock P, Oey I. The effect of pulsed electric fields pre-treatment on the volatile and phenolic profiles of Merlot grape musts at different winemaking stages and the sensory characteristics of the finished wines[J]. Innovative Food Science & Emerging Technologies, 2021, 70: 102698.</div>
+    <div class="csl-entry">
+[4]	孙皓, 徐幸莲, 王鹏. 鸡肉类 PSE 肉与正常肉功能特性比较研究[J]. 食品科学, 2013, 34(21): 60-63.</div>
+  </div>
+</blockquote>
+
 ## [201comparative-economic-and-social-systems.csl]
 
 [《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -1039,6 +1059,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
+[108journal-of-nuclear-agricultural-sciences.csl]: 
+108journal-of-nuclear-agricultural-sciences.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
