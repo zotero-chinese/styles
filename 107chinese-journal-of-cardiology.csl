@@ -46,7 +46,7 @@
   </locale>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <!-- 仅当纯电子文献需要显示 URL 时才显示引用日期 -->
+    <!-- 仅当纯电子资源需要显示 URL 时才显示引用日期 -->
     <choose>
       <if variable="URL">
         <choose>
