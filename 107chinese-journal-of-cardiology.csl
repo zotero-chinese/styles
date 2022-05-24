@@ -7,13 +7,9 @@
     <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
     <link href="http://www.cjcv.org.cn/author/4323.jhtml" rel="documentation"/>
     <author>
-      <name>heromyth</name>
-      <email>zxpmyth@yahoo.com.cn</email>
-    </author>
-    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 默认语言为英文；2. 按照语言显示“等”或“et al.”；3. 姓名取消全大写；4. 西文的名无空格；5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；6. 页码的冒号前无空格；7. 优先显示 DOI。</summary>
@@ -138,7 +134,7 @@
           <!-- 报纸只有刊名、日期和版次（page） -->
           <group>
             <group delimiter=", ">
-              <text variable="container-title" form="short" text-case="title"/>
+              <text variable="container-title" form="short" strip-periods="true" text-case="title"/>
               <text macro="issued-date"/>
             </group>
             <text variable="page" prefix="(" suffix=")"/>
@@ -148,7 +144,7 @@
           <group delimiter=":">
             <group>
               <group delimiter=", ">
-                <text variable="container-title" form="short" text-case="title"/>
+                <text variable="container-title" form="short" strip-periods="true" text-case="title"/>
                 <text macro="issued-year"/>
                 <text variable="volume"/>
               </group>
