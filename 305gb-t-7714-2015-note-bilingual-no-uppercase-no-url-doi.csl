@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2022-05-13T22:47:00+08:00</updated>
+    <updated>2022-05-24T23:27:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -247,7 +247,7 @@
         <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
-            <if variable="container-title" type="paper-conference" match="none">
+            <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="book-volume"/>
             </if>
           </choose>
@@ -259,7 +259,7 @@
         </group>
       </group>
       <choose>
-        <if variable="container-title" type="paper-conference" match="none">
+        <if variable="container-title" type="chapter paper-conference" match="none">
           <choose>
             <if variable="event-date">
               <text variable="event-place"/>
@@ -455,7 +455,7 @@
       <else-if type="patent">
         <text macro="patent-layout"/>
       </else-if>
-      <else-if type="paper-conference" variable="container-title" match="any">
+      <else-if type="chapter paper-conference" variable="container-title" match="any">
         <text macro="chapter-in-book-layout"/>
       </else-if>
       <else>

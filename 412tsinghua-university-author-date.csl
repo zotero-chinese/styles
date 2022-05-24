@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>姓名取消全大写；专利文献增加“专利国别”。</summary>
-    <updated>2021-11-22T20:52:00+08:00</updated>
+    <updated>2022-05-24T23:27:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -258,7 +258,7 @@
         <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
-            <if variable="container-title" type="paper-conference" match="none">
+            <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="book-volume"/>
             </if>
           </choose>
@@ -284,7 +284,7 @@
         </group>
       </group>
       <choose>
-        <if variable="container-title" type="paper-conference" match="none">
+        <if variable="container-title" type="chapter paper-conference" match="none">
           <choose>
             <if variable="event-date">
               <text variable="event-place"/>
@@ -451,7 +451,7 @@
       <else-if type="patent">
         <text macro="patent-layout"/>
       </else-if>
-      <else-if type="paper-conference" variable="container-title" match="any">
+      <else-if type="chapter paper-conference" variable="container-title" match="any">
         <text macro="chapter-in-book-layout"/>
       </else-if>
       <else>
