@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714-2015 (顺序编码, 双语)</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual" rel="self"/>
+    <title>GB/T 7714-2015 (顺序编码, 双语, 无 URL DOI)</title>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
@@ -16,7 +16,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>按照语言显示“等”或“et al.”</summary>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI。</summary>
     <updated>2022-05-24T23:27:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -46,7 +46,12 @@
   </locale>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    <choose>
+      <!-- 仅纯电子资源显示引用日期 -->
+      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <!-- 主要责任者 -->
   <macro name="author">
@@ -191,10 +196,10 @@
         </group>
         <!-- 非电子资源显示“出版年” -->
         <choose>
-          <if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+          <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="any">
             <text macro="issued-year"/>
           </if>
-          <else-if variable="URL DOI" match="none">
+          <else-if variable="URL" match="none">
             <text macro="issued-year"/>
           </else-if>
         </choose>
@@ -203,9 +208,9 @@
     </group>
     <choose>
       <!-- 纯电子资源显示“更新或修改日期” -->
-      <if type="book chapter paper-conference periodical thesis" variable="publisher page" match="none">
+      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
         <choose>
-          <if variable="URL DOI" match="any">
+          <if variable="URL" match="any">
             <text macro="issued-date" prefix="(" suffix=")"/>
           </if>
         </choose>
@@ -312,18 +317,25 @@
         </else>
       </choose>
       <choose>
-        <if variable="URL DOI" match="any">
-          <text value="OL"/>
+        <!-- 仅纯电子资源显示“OL” -->
+        <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+          <choose>
+            <if variable="URL" match="any">
+              <text value="OL"/>
+            </if>
+          </choose>
         </if>
       </choose>
     </group>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="url-doi">
-    <group delimiter=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <choose>
+      <!-- 仅纯电子资源显示 URL -->
+      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+        <text variable="URL"/>
+      </if>
+    </choose>
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">

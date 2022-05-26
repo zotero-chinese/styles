@@ -122,7 +122,7 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 1. 按照语言显示“等”或“et al.”；
 2. 姓名取消全大写；
-3. 仅纯电子文献显示引用日期和 URL；
+3. 仅纯电子资源（如网页、软件）显示引用日期和 URL；
 4. 无 DOI。
 
 > <sup>[1–8]</sup>
@@ -137,6 +137,28 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
     <div class="csl-entry">[6] Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
     <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
     <div class="csl-entry">[8] Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
+
+
+## [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl]
+
+1. 按照语言显示“等”或“et al.”；
+2. 仅纯电子资源（如网页、软件）显示引用日期和 URL；
+3. 无 DOI。
+
+> <sup>[1–8]</sup>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2] FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-entry">[8] BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   </div>
 </blockquote>
 
@@ -239,7 +261,7 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 1. 按照语言显示“等”或“et al.”；
 2. 姓名取消全大写；
-3. 仅纯电子文献显示引用日期和 URL；
+3. 仅纯电子资源（如网页、软件）显示引用日期和 URL；
 4. 无 DOI；
 5. 正文的引用使用全角括号“（）”。
 
@@ -423,7 +445,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 2. 按照语言显示“等”或“et al.”；
 3. 姓名取消全大写；
 4. 西文的名无空格；
-5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；
+5. 仅纯电子资源（如网页、软件）显示载体类型标识“OL”、“引用日期”和 URL；
 6. 页码的冒号前无空格；
 7. 优先显示 DOI。
 
@@ -626,7 +648,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 1. 按照语言显示“等”或“et al.”；
 2. 姓名取消全大写；
-3. 仅纯电子文献显示引用日期和 URL；
+3. 仅纯电子资源（如网页、软件）显示引用日期和 URL；
 4. 无 DOI。
 
 <blockquote>
@@ -1046,6 +1068,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [000gb-t-7714-2015-numeric-bilingual.csl]: 000gb-t-7714-2015-numeric-bilingual.csl
 [001gb-t-7714-2015-author-date-bilingual.csl]: 001gb-t-7714-2015-author-date-bilingual.csl
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]: 002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl
+[003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl]: 003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl
 [007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl]: 007gb-t-7714-2015-numeric-bilingual-no-uppercase.csl
 [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
 [010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]: 010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl
@@ -1059,7 +1082,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
-[108journal-of-nuclear-agricultural-sciences.csl]: 
+[108journal-of-nuclear-agricultural-sciences.csl]:
 108journal-of-nuclear-agricultural-sciences.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
