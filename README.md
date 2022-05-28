@@ -39,6 +39,8 @@ email 前后加 __
 
 ## 如何使用
 
+**注意**：使用author+year 样式的时，如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
+
 如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en`。
 
 **将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。将英文文献 `Info` 中 `language` 字段修改为 `en`。**
