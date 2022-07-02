@@ -911,6 +911,8 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 `Zotero` 右键菜单中为什么没有 `Find Available PDF`？<https://zhuanlan.zhihu.com/p/348697024>。
 
+`Zotero` 插件Add-ons无法打开的解决办法<https://zhuanlan.zhihu.com/p/536832783>。
+
 `Zotero` 插件（扩展）的安装--以`茉莉花（jasminum）`为例 <https://zhuanlan.zhihu.com/p/347628976>。
 
 `Zotero` 利用`jasminum（茉莉花）`安装或更新部分中文网站 `translator`<https://zhuanlan.zhihu.com/p/347642670>。
