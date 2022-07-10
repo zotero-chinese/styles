@@ -253,7 +253,7 @@
                         <if variable="container-title">
                             <choose>
                                 <if variable="archive_location">
-                                    <text variable="archive_location" suffix=": " />
+                                    <!-- <text variable="archive_location" suffix=": " /> -->
                                     <else>
                                         <text variable="container-title" text-case="title" />
                                     </else>
@@ -306,7 +306,7 @@
                         <if variable="container-title">
                             <choose>
                                 <if variable="archive_location">
-                                    <text variable="archive_location" suffix=": " />
+                                    <!-- <text variable="archive_location" suffix=": " /> -->
                                     <else>
                                         <text variable="container-title" text-case="title" />
                                     </else>
@@ -351,8 +351,8 @@
     <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush">
         <sort>
             <!-- <key variable="language" sort="descending" /> -->
-            <key variable="author"/>
-            <key macro="issued-year"/>
+            <key variable="author" />
+            <key macro="issued-year" />
         </sort>
         <layout locale="en">
             <text macro="bib-entry-en" suffix="." />
