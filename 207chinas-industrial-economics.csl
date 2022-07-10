@@ -336,7 +336,7 @@
         </choose>
         <!-- <text macro="accessed-date" /> -->
     </macro>
-    <citation et-al-min="2" et-al-use-first="1" collapse="citation-number" after-collapse-delimiter="; ">
+    <citation et-al-min="2" et-al-use-first="1" collapse="year">
         <sort>
             <key variable="citation-number" sort="ascending" />
         </sort>
