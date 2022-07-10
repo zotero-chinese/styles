@@ -645,6 +645,32 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 </blockquote>
 
 
+## [209sociological-studies.csl]
+
+《[社会学研究](http://shxyj.ajcass.org/)》样式。
+
+显示效果：
+
+<blockquote>
+  （冯钢，2018）<br>
+  （刘江、顾东辉，2022）<br>
+  （刘江、顾东辉，2022；冯钢，2018）<br>
+  （Uslaner，2002）<br>
+  （Ozawa &#38; Sripad，2013）<br>
+  （Bova et al.，2006）<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">冯钢，2018，《马克思的“过渡”理论与“卡夫丁峡谷”之谜》，《社会学研究》第2期。</div>
+    <div class="csl-entry">刘江、顾东辉，2022，《“约束—内化”vs.反思性实践认知——社会工作伦理守则与留职意愿关系研究》，《社会学研究》第2期。</div>
+    <div class="csl-entry">Bova Carol, Kristopher P. Fennie, Edith Watrous, Kevin Dieckhaus &#38; Ann B. Williams 2006, “The Health Care Relationship (HCR) Trust Scale: Development and Psychometric Evaluation.” <i>Research in Nursing &#38;amp; Health</i> 29(5).</div>
+    <div class="csl-entry">Ozawa Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>
+    <div class="csl-entry">Uslaner Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
+  </div>
+</blockquote>
+
+
 ## [301law-citation-manual-multi-lingual.csl]
 
 《[法学引注手册](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)》（2019 年版）。
@@ -1156,6 +1182,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [206accounting-research.csl]: 206accounting-research.csl
 [207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
 [208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
+[209sociological-studies.csl]: 209sociological-studies.csl
 [301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
