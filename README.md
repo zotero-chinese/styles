@@ -584,6 +584,30 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
 > Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
 
+## [207chinas-industrial-economics.csl]
+
+[《中国经济经济》](http://ciejournal.ajcass.org/Home/Index)样式。[《经济管理》](205bmj.csl)基础上修改。正文中如果出现文献作者名，有 2 个作者，用（`甲和乙，年份）`英文名用`（A and B，年份）`连接。有 3 个或者更多作者，用`（甲等，年份）`，英文名为`（A et al，年份）`表示。文末的参考文献中文在前，英文在后（需要设置文献语言，详见前面[如何使用](#如何使用)）；列出所有作者，英文最后一个作者前面加`and`。
+
+
+显示效果：
+<blockquote>
+(Abel et al, 2022)<br>
+(Fan and Sommers, 2013)<br>
+(Engers and Gans, 1998)<br>
+(伊宪华等, 2009)<br>
+(蒋有绪等, 1998)<br>
+(李幼平和王莉, 2010)<br>
+(Li et al, 2021)<br>
+[1] 伊宪华, 韩雅玲, 李毅, 王守力, 荆全民, 马颖艳, 王效增, 栾波, 王耿. 介入治疗开通慢性完全闭塞病变的长期临床疗效[J]. 中华心血管病杂志, 2009, 37(9): 773–776.<br>	
+[2] 蒋有绪, 郭泉水, 马娟, Others. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.	
+[3] 李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225–228.<br>	
+[4] Engers M., and J. S. Gans. Why Referees Are Not Paid (Enough)[J]. American Economic Review, 1998, 88(5): 1341–1349.	<br>
+[5] Li X., S. Shen, Y. Xu, T. Guo, H. Dai, and X. Lu. Application of membrane separation processes in phosphorus recovery: A review[J]. Science of The Total Environment, 2021, 767: 144346.	<br>
+[6] Abel N., B. T. Rotabakk, and J. Lerfall. Mild processing of seafood—A review[J]. Comprehensive Reviews in Food Science and Food Safety, 2022, 21(1): 340–370.	<br>
+[7] Fan X., and C. H. Sommers. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26.	<br>
+
+
+</blockquote>
 ## [301law-citation-manual-multi-lingual.csl]
 
 《[法学引注手册](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)》（2019 年版）。
@@ -591,6 +615,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 显示效果：
 
 <blockquote>
+
   王名扬：《美国行政法》，北京大学出版社2007年版。<br>
   同上注。<br>
   季卫东：《法律程序的意义：对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。<br>
@@ -1093,6 +1118,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [205bmj.csl]: 205bmj.csl
 [206accounting-research.csl]: 206accounting-research.csl
+[207chinas-industrial-economics.csl]:
+207chinas-industrial-economics.csl
 [301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
