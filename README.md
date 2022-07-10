@@ -598,9 +598,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 (蒋有绪等, 1998)<br>
 (李幼平和王莉, 2010)<br>
 (Li et al, 2021)<br>
-[1] 伊宪华, 韩雅玲, 李毅, 王守力, 荆全民, 马颖艳, 王效增, 栾波, 王耿. 介入治疗开通慢性完全闭塞病变的长期临床疗效[J]. 中华心血管病杂志, 2009, 37(9): 773–776.<br>	
-[2] 蒋有绪, 郭泉水, 马娟, Others. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.	
-[3] 李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225–228.<br>	
+[1] 伊宪华, 韩雅玲, 李毅, 王守力, 荆全民, 马颖艳, 王效增, 栾波, 王耿. 介入治疗开通慢性完全闭塞病变的长期临床疗效[J]. 中华心血管病杂志, 2009, 37(9): 773–776.<br>
+[2] 蒋有绪, 郭泉水, 马娟, Others. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.
+[3] 李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225–228.<br>
 [4] Engers M., and J. S. Gans. Why Referees Are Not Paid (Enough)[J]. American Economic Review, 1998, 88(5): 1341–1349.	<br>
 [5] Li X., S. Shen, Y. Xu, T. Guo, H. Dai, and X. Lu. Application of membrane separation processes in phosphorus recovery: A review[J]. Science of The Total Environment, 2021, 767: 144346.	<br>
 [6] Abel N., B. T. Rotabakk, and J. Lerfall. Mild processing of seafood—A review[J]. Comprehensive Reviews in Food Science and Food Safety, 2022, 21(1): 340–370.	<br>
@@ -608,6 +608,43 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 
 </blockquote>
+
+
+## [208chinas-industrial-economics.csl]
+
+《[中国经济经济](http://ciejournal.ajcass.org/Home/Index)》样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改。
+
+1. 正文中 如果出现文献作者名，有 2 个作者，用“(甲和乙, 年份)”（英文名用“(A and B, 年份)”）连接。
+2. 有 3 个或者更多作者，用“(甲等, 年份)”（英文名为“(A et al., 年份)”）表示。
+3. 文后参考文献表中著录全部姓名。
+3. 英文文献的第一作者姓在前（后加“, ”）、名在后（全部用缩写，即首字母加“.”），其余作者则名在前、姓在后。
+4. 英文文献的最后一个作者前加“，and”。
+
+显示效果：
+
+<blockquote>
+  (陈佳贵, 1995)<br>
+  (Engers and Gans, 1998)<br>
+  (蒋一苇, 1998)<br>
+  ([英]瑟尔沃, 2001)<br>
+  (Fukuyama, 1999)<br>
+  (Caselli, 2005)<br>
+  (Broda et al., 2006)<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 陈佳贵. 关于企业生命周期与企业蜕变的探讨[J]. 中国工业经济, 1995(11):5-13.</div>
+    <div class="csl-entry">[2] 蒋一苇. 论社会主义的企业模式[M]. 广州: 广东经济出版社, 1998.</div>
+    <div class="csl-entry">[3] [英]瑟尔沃. 增长与发展[M]. 郭熙保译. 北京: 中国财政经济出版社, 2001.</div>
+    <div class="csl-entry">[4] Broda, C., G. Joshua, and W. David. From Groundnuts to Globalization: A Structural Estimate of Trade and Growth[R]. NBER Working Paper, 2006.</div>
+    <div class="csl-entry">[5] Caselli, F. Accounting for Cross-Country Income Differences[A]. Aghion, P., and S. N. Durlauf. Handbook of Economic Growth[C]. Amsterdam: Elsevier, 2005: 679-741.</div>
+    <div class="csl-entry">[6] Engers, M., and J. S. Gans. Why Referees Are Not Paid (Enough)[J]. American Economic Review, 1998, 88(5):1341-1349.</div>
+    <div class="csl-entry">[7] Fukuyama, F. Trust: The Social Virtues and the Creation of Prosperity[M]. New York: Free Press, 1999.</div>
+  </div>
+</blockquote>
+
+
 ## [301law-citation-manual-multi-lingual.csl]
 
 《[法学引注手册](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)》（2019 年版）。
@@ -1111,15 +1148,14 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
-[108journal-of-nuclear-agricultural-sciences.csl]:
-108journal-of-nuclear-agricultural-sciences.csl
+[108journal-of-nuclear-agricultural-sciences.csl]: 108journal-of-nuclear-agricultural-sciences.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [205bmj.csl]: 205bmj.csl
 [206accounting-research.csl]: 206accounting-research.csl
-[207chinas-industrial-economics.csl]:
-207chinas-industrial-economics.csl
+[207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
+[208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
 [301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
