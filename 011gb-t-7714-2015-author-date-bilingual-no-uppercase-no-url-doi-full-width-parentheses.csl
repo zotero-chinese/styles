@@ -23,7 +23,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
-    <updated>2022-05-24T23:27:00+08:00</updated>
+    <updated>2022-07-10T17:50:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -35,6 +35,7 @@
     <terms>
       <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
+      <term name="space-et-al"> 等</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -48,6 +49,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="space-et-al">et al.</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -91,9 +93,9 @@
     </group>
   </macro>
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
-  <macro name="author-intext">
+  <macro name="author-intext-en">
     <names variable="author">
-      <name form="short" delimiter-precedes-et-al="never"/>
+      <name form="short"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -108,10 +110,11 @@
     </names>
   </macro>
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
-  <macro name="author-intext-long">
+  <macro name="author-intext-zh">
     <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long" delimiter="&#160;" delimiter-precedes-et-al="always"/>
+      <name form="long"/>
+      <et-al term="space-et-al"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -472,13 +475,13 @@
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" disambiguate-add-names="true" disambiguate-add-year-suffix="true" collapse="year">
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
-        <text macro="author-intext"/>
+        <text macro="author-intext-en"/>
         <text macro="issued-year"/>
       </group>
     </layout>
     <layout prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
-        <text macro="author-intext-long"/>
+        <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
       </group>
     </layout>
