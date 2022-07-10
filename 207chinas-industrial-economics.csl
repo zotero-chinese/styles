@@ -336,37 +336,20 @@
         </choose>
         <!-- <text macro="accessed-date" /> -->
     </macro>
-    <citation et-al-min="2" et-al-use-first="1" collapse="citation-number" after-collapse-delimiter=",">
+    <citation et-al-min="2" et-al-use-first="1" collapse="citation-number" after-collapse-delimiter="; ">
         <sort>
             <key variable="citation-number" sort="ascending" />
         </sort>
-        <layout locale="en">
-            <group>
-                <group delimiter=", " prefix="(" suffix=")">
-                    <text macro="author-intext" />
-                    <date variable="issued" form="numeric" date-parts="year" />
-                </group>
-                <!-- <group vertical-align="sup">
-              <text value="["/>
-              <text variable="citation-number"/>
-              <text value="]"/>
-        </group> -->
+        <layout locale="en" prefix="(" suffix=")" delimiter="; ">
+            <group delimiter=", ">
+                <text macro="author-intext" />
+                <date variable="issued" form="numeric" date-parts="year" />
             </group>
         </layout>
-        <layout>
-            <group>
-                <group delimiter=", " prefix="(" suffix=")">
-                    <text macro="author-intext-long" />
-                    <date variable="issued" form="numeric" date-parts="year" />
-                </group>
-                <!-- <group vertical-align="sup">
-                    <text value="[" />
-                    <text variable="citation-number" />
-                    <text value="]" />
-                </group> -->
-                <!--       <group vertical-align="sup">
-          <text  variable="citation-number" prefix="[" suffix="]"/>
-        </group>-->
+        <layout prefix="(" suffix=")" delimiter="; ">
+            <group delimiter=", ">
+                <text macro="author-intext-long" />
+                <date variable="issued" form="numeric" date-parts="year" />
             </group>
         </layout>
     </citation>
