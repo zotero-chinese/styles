@@ -224,11 +224,6 @@
         </choose>
         <group delimiter="/" prefix="[" suffix="]">
             <text macro="type-code" />
-            <!--  <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose>-->
         </group>
     </macro>
     <macro name="bib-entry-cn">
@@ -355,7 +350,9 @@
     </citation>
     <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush">
         <sort>
-            <key variable="language" sort="descending" />
+            <!-- <key variable="language" sort="descending" /> -->
+            <key variable="author"/>
+            <key macro="issued-year"/>
         </sort>
         <layout locale="en">
             <text macro="bib-entry-en" suffix="." />
