@@ -586,7 +586,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [207chinas-industrial-economics.csl]
 
-[《中国经济经济》](http://ciejournal.ajcass.org/Home/Index)样式。[《经济管理》](205bmj.csl)基础上修改。正文中如果出现文献作者名，有 2 个作者，用（`甲和乙，年份）`英文名用`（A and B，年份）`连接。有 3 个或者更多作者，用`（甲等，年份）`，英文名为`（A et al，年份）`表示。文末的参考文献中文在前，英文在后（需要设置文献语言，详见前面[如何使用](#如何使用)）；列出所有作者，英文最后一个作者前面加`and`。
+[《中国工业经济》](http://ciejournal.ajcass.org/Home/Index)样式。[《经济管理》](205bmj.csl)基础上修改。正文中如果出现文献作者名，有 2 个作者，用（`甲和乙，年份）`英文名用`（A and B，年份）`连接。有 3 个或者更多作者，用`（甲等，年份）`，英文名为`（A et al，年份）`表示。文末的参考文献中文在前，英文在后（需要设置文献语言，详见前面[如何使用](#如何使用)）；列出所有作者，英文最后一个作者前面加`and`。
 
 
 显示效果：
@@ -612,7 +612,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [208chinas-industrial-economics.csl]
 
-《[中国经济经济](http://ciejournal.ajcass.org/Home/Index)》样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改。
+《[中国工业经济](http://ciejournal.ajcass.org/Home/Index)》样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改。
 
 1. 正文中 如果出现文献作者名，有 2 个作者，用“(甲和乙, 年份)”（英文名用“(A and B, 年份)”）连接。
 2. 有 3 个或者更多作者，用“(甲等, 年份)”（英文名为“(A et al., 年份)”）表示。
