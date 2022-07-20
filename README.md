@@ -967,6 +967,8 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 `Zotero` 怎么调整条目显示的大小，总觉得太小了见 <https://zhuanlan.zhihu.com/p/384398075>。
 
+`Zotero` 如何展开和折叠所有条目见<https://zhuanlan.zhihu.com/p/544153534>。
+
 `Zotero` 重装系统后 Word 工具条恢复的方法见 <https://zhuanlan.zhihu.com/p/350567611>。
 
 `Zotero` Word 工具条不出现如何解决见 <https://zhuanlan.zhihu.com/p/365392235>。
