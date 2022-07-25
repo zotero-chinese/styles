@@ -671,32 +671,32 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 </blockquote>
 
 
-## [301law-citation-manual-multi-lingual.csl]
+## [301manual-of-legal-citation-multi-lingual.csl]
 
-《[法学引注手册](https://weibo.com/ttarticle/p/show?id=2309404436112734027798)》（2019 年版）。
+《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》（2020 年版）。
+
+注意事项：
+
+1. 文献的语言默认为英语，中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
+2. 目前仅支持中文和英文的体例，法文、德文、日文尚未实现。
+3. 中文司法案例援引裁判文书时需要在 `Extra` 字段填写文书名称，比如 `genre: 民事判决书`。
 
 显示效果：
 
 <blockquote>
-
-  王名扬：《美国行政法》，北京大学出版社2007年版。<br>
-  同上注。<br>
-  季卫东：《法律程序的意义：对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。<br>
-  同上注，第42-45页。<br>
-  同前注〔1〕，王名扬：《美国行政法》，第42-45页。<br>
-  王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星编：《民商法论丛》第1卷，法律出版社1994年版，第110页。<br>
-  何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
-  汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，载人民网，2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。<br>
-  李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
-  《民法总则》第 27 条第 2 款第 3 项。<br>
-  《GuoWuYuan关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕 19 号，2007年7月11日发布。<br>
-  包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院（1988）浙法民上字 7 号民事判决书。<br>
-  Charles A. Reich, <i>The new property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
-  Ibid.<br>
-  Louis D. Brandeis, <i>What publicity can do</i>, Harper’s Weekly, Dec. 20, 1913, p.10.<br>
-  Ibid, p.42-237.<br>
-  Supra note 13, Charles A. Reich, The new property, p.42-237.<br>
-  William Alford, <i>To steal a book is an elegant offense: Intellectual property law in Chinese civilization</i>, Stanford University Press, 1995, p.98.<br>
+  <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
+  <sup>2</sup> 同上注，第18页。<br>
+  <sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
+  <sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
+  <sup>5</sup> 同前注，罗豪才等书，第54页。<br>
+  <sup>6</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
+  <sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
+  <sup>8</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
+  <sup>9</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733 (1964).<br>
+  <sup>10</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, Dec. 20, 1913, p.10.<br>
+  <sup>11</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
+  <sup>12</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-47 (1966).<br>
+  <sup>13</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
 </blockquote>
 
 
@@ -1185,7 +1185,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
 [208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
 [209sociological-studies.csl]: 209sociological-studies.csl
-[301law-citation-manual-multi-lingual.csl]: 301law-citation-manual-multi-lingual.csl
+[301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
