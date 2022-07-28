@@ -17,6 +17,11 @@
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
+    <date form="text" delimiter=" ">
+      <date-part name="day"/>
+      <date-part name="month"/>
+      <date-part name="year"/>
+    </date>
     <terms>
       <term name="accessed">last visited</term>
     </terms>
@@ -528,28 +533,9 @@
   </macro>
   <macro name="issuance-en">
     <choose>
-      <if type="article-newspaper thesis" match="any">
-        <group delimiter=", ">
-          <date variable="issued">
-            <date-part name="month"/>
-            <date-part name="day" prefix=" "/>
-          </date>
-          <date variable="issued">
-            <date-part name="year"/>
-          </date>
-        </group>
+      <if type="article-magazine article-newspaper post post-weblog webpage" match="any">
+        <date variable="issued" form="text"/>
       </if>
-      <else-if type="article-magazine post post-weblog webpage" match="any">
-        <group delimiter=", ">
-          <date variable="issued">
-            <date-part name="month" form="short"/>
-            <date-part name="day" prefix=" "/>
-          </date>
-          <date variable="issued">
-            <date-part name="year"/>
-          </date>
-        </group>
-      </else-if>
       <else>
         <date variable="issued">
           <date-part name="year"/>
