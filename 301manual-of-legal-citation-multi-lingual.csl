@@ -13,7 +13,7 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <updated>2022-07-28T19:50:00+08:00</updated>
+    <updated>2022-07-29T22:43:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -191,7 +191,28 @@
             <text macro="title"/>
             <choose>
               <if variable="container-title">
-                <text macro="container"/>
+                <choose>
+                  <if variable="number">
+                    <!-- 指导性案例 -->
+                    <group>
+                      <text macro="container"/>
+                      <choose>
+                        <if is-numeric="number">
+                          <number variable="number"/>
+                          <text value="号"/>
+                        </if>
+                        <else>
+                          <text variable="number"/>
+                        </else>
+                      </choose>
+                      <text macro="issuance" prefix="（" suffix="）"/>
+                    </group>
+                  </if>
+                  <else>
+                    <!-- 《最高人民法院公报》上的案例 -->
+                    <text macro="container"/>
+                  </else>
+                </choose>
               </if>
               <else>
                 <group>
@@ -420,9 +441,19 @@
         <text macro="issue"/>
       </else-if>
       <else-if type="legal_case">
-        <text variable="container-title" prefix="《" suffix="》"/>
-        <text macro="issuance"/>
-        <text macro="issue"/>
+        <choose>
+          <if variable="number">
+            <!-- 指导性案例 -->
+            <text variable="container-title"/>
+          </if>
+          <else>
+            <!-- 《最高人民法院公报》 -->
+            <text term="in"/>
+            <text variable="container-title" prefix="《" suffix="》"/>
+            <text macro="issuance"/>
+            <text macro="issue"/>
+          </else>
+        </choose>
       </else-if>
       <else-if type="article-newspaper">
         <text term="in"/>
