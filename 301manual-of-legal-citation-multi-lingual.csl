@@ -304,13 +304,19 @@
                     <text value="Pub. L. No."/>
                     <text variable="number"/>
                   </group>
+                  <text macro="section-en"/>
                   <text macro="container-en"/>
                 </group>
               </if>
               <else>
                 <!-- Administrative Procedure Act § 6, 5 U.S.C. -->
-                <text macro="title-en"/>
-                <text macro="container-en"/>
+                <group delimiter=", ">
+                  <text macro="title-en"/>
+                  <group delimiter=" ">
+                    <text macro="container-en"/>
+                    <text macro="section-en"/>
+                  </group>
+                </group>
               </else>
             </choose>
             <text variable="page"/>
@@ -493,15 +499,9 @@
         </group>
       </else-if>
       <else-if type="legislation">
-        <group delimiter=", ">
-          <group delimiter=" ">
-            <label variable="section" form="symbol"/>
-            <text variable="section"/>
-          </group>
-          <group delimiter=" ">
-            <text variable="volume"/>
-            <text variable="container-title" text-case="title"/>
-          </group>
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <text variable="container-title" text-case="title"/>
         </group>
       </else-if>
       <else>
@@ -525,6 +525,13 @@
         <label variable="issue"/>
       </else>
     </choose>
+  </macro>
+  <!-- 英文的条文序号 -->
+  <macro name="section-en">
+    <group delimiter=" ">
+      <label variable="section" form="symbol"/>
+      <text variable="section"/>
+    </group>
   </macro>
   <macro name="publisher">
     <text variable="publisher"/>
