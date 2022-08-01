@@ -13,7 +13,7 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <updated>2022-07-29T22:43:00+08:00</updated>
+    <updated>2022-07-30T14:13:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -41,6 +41,7 @@
       <term name="in">载</term>
       <term name="op-cit">同前注</term>
       <term name="page" form="short">页</term>
+      <term name="section">条</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -176,7 +177,7 @@
           <group delimiter="，">
             <group>
               <text macro="title"/>
-              <text macro="locator"/>
+              <text macro="section"/>
             </group>
             <text variable="number"/>
             <group>
@@ -215,21 +216,21 @@
                 </choose>
               </if>
               <else>
-                <group>
-                  <text variable="authority"/>
-                  <choose>
-                    <if variable="genre">
-                      <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
-                      <text variable="genre"/>
-                    </if>
-                    <else>
-                      <text value="判决书"/>
-                    </else>
-                  </choose>
-                  <date variable="issued" prefix="（" suffix="）">
-                    <date-part name="year"/>
-                  </date>
-                  <text variable="number"/>
+                <group delimiter="，">
+                  <group>
+                    <text variable="authority"/>
+                    <choose>
+                      <if variable="genre">
+                        <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
+                        <text variable="genre"/>
+                      </if>
+                      <else>
+                        <text value="判决书"/>
+                      </else>
+                    </choose>
+                    <text variable="number"/>
+                  </group>
+                  <text macro="issuance"/>
                 </group>
               </else>
             </choose>
@@ -526,12 +527,31 @@
       </else>
     </choose>
   </macro>
-  <!-- 英文的条文序号 -->
+  <!-- 条文序号 -->
+  <macro name="section">
+    <choose>
+      <if is-numeric="section">
+        <text value="第"/>
+        <number variable="section"/>
+        <label variable="section"/>
+      </if>
+      <else>
+        <text variable="section"/>
+      </else>
+    </choose>
+  </macro>
   <macro name="section-en">
-    <group delimiter=" ">
-      <label variable="section" form="symbol"/>
-      <text variable="section"/>
-    </group>
+    <choose>
+      <if is-numeric="section">
+        <group delimiter=" ">
+          <label variable="section" form="symbol"/>
+          <text variable="section"/>
+        </group>
+      </if>
+      <else>
+        <text variable="section"/>
+      </else>
+    </choose>
   </macro>
   <macro name="publisher">
     <text variable="publisher"/>
@@ -561,7 +581,7 @@
   </macro>
   <macro name="issuance">
     <choose>
-      <if type="article-magazine article-newspaper legislation post post-weblog webpage" match="any">
+      <if type="article-magazine article-newspaper legal_case legislation post post-weblog webpage" match="any">
         <date variable="issued" form="text"/>
       </if>
       <else>
