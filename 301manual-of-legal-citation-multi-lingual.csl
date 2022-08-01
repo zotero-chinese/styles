@@ -13,7 +13,7 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <updated>2022-07-30T14:13:00+08:00</updated>
+    <updated>2022-08-01T14:32:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -33,7 +33,7 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
-      <term name="article-locator">条</term>
+      <term name="article-locator" form="short">条</term>
       <term name="accessed">访问</term>
       <term name="edition" form="short">版</term>
       <term name="editor" form="short">主编</term>
@@ -41,7 +41,9 @@
       <term name="in">载</term>
       <term name="op-cit">同前注</term>
       <term name="page" form="short">页</term>
-      <term name="section">条</term>
+      <term name="paragraph" form="short">款</term>
+      <term name="rule" form="short">条</term>
+      <term name="section" form="short">条</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -177,7 +179,15 @@
           <group delimiter="，">
             <group>
               <text macro="title"/>
-              <text macro="section"/>
+              <choose>
+                <!-- 优先使用 locator 的条文序号 -->
+                <if variable="locator">
+                  <text macro="locator"/>
+                </if>
+                <else>
+                  <text macro="section"/>
+                </else>
+              </choose>
             </group>
             <text variable="number"/>
             <group>
