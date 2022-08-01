@@ -243,11 +243,19 @@
                             <text macro="book-volume" />
                         </if>
                     </choose>
-                    <choose>
-                        <if type="bill legal_case legislation patent regulation report standard" match="any">
-                            <text variable="number" />
-                        </if>
-                    </choose>
+                    <group>
+                        <choose>
+                            <if type="patent">
+                                <text variable="event-place" suffix=", "/>
+                            </if>
+                        </choose>
+                        <choose>
+                            <if type="bill legal_case legislation patent regulation report standard" match="any">
+                                <text variable="number" />
+                            </if>
+                        </choose>
+                    </group>
+
                 </group>
             </group>
             <choose>
@@ -412,7 +420,7 @@
             <text macro="author" />
             <text macro="title" />
             <group>
-                <text macro="issued-date" />
+                <text macro="issued-year" />
                 <text macro="accessed-date" />
             </group>
             <text macro="url-doi" />
