@@ -407,7 +407,11 @@
             <group delimiter="">
                 <group delimiter=". ">
                     <text macro="title" suffix="" />
-                    <text term="in" />
+                    <choose>
+                        <if variable="container-title" type="paper-conference" match="all">
+                            <text term="in" />
+                        </if>
+                    </choose>
                     <text macro="secondary-contributor" />
                 </group>
                 <group prefix=": " delimiter=". ">
