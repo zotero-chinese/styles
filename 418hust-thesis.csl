@@ -21,7 +21,7 @@
         <category citation-format="numeric" />
         <category field="generic-base" />
         <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-        <updated>2022-08-24T23:27:00+08:00</updated>
+        <updated>2022-08-02T23:27:00+08:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     </info>
     <locale xml:lang="zh-CN">
@@ -481,7 +481,7 @@
             <text variable="citation-number" />
         </layout>
     </citation>
-    <bibliography entry-spacing="0" et-al-min="7" et-al-use-first="6" second-field-align="flush">
+    <bibliography entry-spacing="0" et-al-min="7" et-al-use-first="6" second-field-align="flush" line-spacing="1.5">
         <layout locale="en">
             <text variable="citation-number" prefix="[" suffix="]" />
             <text macro="entry-layout" />
