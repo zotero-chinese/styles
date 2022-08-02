@@ -21,7 +21,7 @@
         <category citation-format="numeric" />
         <category field="generic-base" />
         <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-        <updated>2022-05-24T23:27:00+08:00</updated>
+        <updated>2022-08-24T23:27:00+08:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     </info>
     <locale xml:lang="zh-CN">
@@ -36,6 +36,7 @@
             <term name="close-quote">”</term>
             <term name="open-inner-quote">‘</term>
             <term name="close-inner-quote">’</term>
+            <term name="in">见</term>
         </terms>
     </locale>
     <locale>
@@ -220,7 +221,12 @@
                 </choose>
             </if>
         </choose>
-        <text macro="accessed-date" />
+        <!-- 网页不显示访问日期 -->
+        <choose>
+            <if type="webpage" match="none">
+                <text macro="accessed-date" />
+            </if>
+        </choose>
     </macro>
     <!-- 其他责任者 -->
     <macro name="secondary-contributor">
@@ -246,7 +252,7 @@
                     <group>
                         <choose>
                             <if type="patent">
-                                <text variable="event-place" suffix=", "/>
+                                <text variable="event-place" suffix=", " />
                             </if>
                         </choose>
                         <choose>
@@ -394,6 +400,26 @@
             <text macro="url-doi" />
         </group>
     </macro>
+    <!-- 会议论文 -->
+    <macro name="paper-conference-layout">
+        <group delimiter=". ">
+            <text macro="author" />
+            <group delimiter="">
+                <group delimiter=". ">
+                    <text macro="title" suffix="" />
+                    <text term="in" />
+                    <text macro="secondary-contributor" />
+                </group>
+                <group prefix=": " delimiter=". ">
+                    <text macro="container-author" />
+                    <text macro="container-booklike" />
+                </group>
+            </group>
+            <text macro="edition" />
+            <text macro="publishing" />
+            <text macro="url-doi" />
+        </group>
+    </macro>
     <!-- 连续出版物 -->
     <macro name="periodical-layout">
         <group delimiter=". ">
@@ -438,9 +464,13 @@
             <else-if type="patent">
                 <text macro="patent-layout" />
             </else-if>
-            <else-if type="chapter paper-conference" variable="container-title" match="any">
+            <else-if type="paper-conference">
+                <text macro="paper-conference-layout" />
+            </else-if>
+            <else-if type="chapter" variable="container-title" match="any">
                 <text macro="chapter-in-book-layout" />
             </else-if>
+
             <else>
                 <text macro="monograph-layout" />
             </else>
