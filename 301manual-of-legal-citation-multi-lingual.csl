@@ -13,10 +13,15 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <updated>2022-07-26T21:11:00+08:00</updated>
+    <updated>2022-08-01T14:32:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
+    <date form="text" delimiter=" ">
+      <date-part name="day"/>
+      <date-part name="month"/>
+      <date-part name="year"/>
+    </date>
     <terms>
       <term name="accessed">last visited</term>
     </terms>
@@ -28,7 +33,7 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
-      <term name="article-locator">条</term>
+      <term name="article-locator" form="short">条</term>
       <term name="accessed">访问</term>
       <term name="edition" form="short">版</term>
       <term name="editor" form="short">主编</term>
@@ -36,6 +41,9 @@
       <term name="in">载</term>
       <term name="op-cit">同前注</term>
       <term name="page" form="short">页</term>
+      <term name="paragraph" form="short">款</term>
+      <term name="rule" form="short">条</term>
+      <term name="section" form="short">条</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -171,7 +179,15 @@
           <group delimiter="，">
             <group>
               <text macro="title"/>
-              <text macro="locator"/>
+              <choose>
+                <!-- 优先使用 locator 的条文序号 -->
+                <if variable="locator">
+                  <text macro="locator"/>
+                </if>
+                <else>
+                  <text macro="section"/>
+                </else>
+              </choose>
             </group>
             <text variable="number"/>
             <group>
@@ -186,24 +202,45 @@
             <text macro="title"/>
             <choose>
               <if variable="container-title">
-                <text macro="container"/>
+                <choose>
+                  <if variable="number">
+                    <!-- 指导性案例 -->
+                    <group>
+                      <text macro="container"/>
+                      <choose>
+                        <if is-numeric="number">
+                          <number variable="number"/>
+                          <text value="号"/>
+                        </if>
+                        <else>
+                          <text variable="number"/>
+                        </else>
+                      </choose>
+                      <text macro="issuance" prefix="（" suffix="）"/>
+                    </group>
+                  </if>
+                  <else>
+                    <!-- 《最高人民法院公报》上的案例 -->
+                    <text macro="container"/>
+                  </else>
+                </choose>
               </if>
               <else>
-                <group>
-                  <text variable="authority"/>
-                  <choose>
-                    <if variable="genre">
-                      <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
-                      <text variable="genre"/>
-                    </if>
-                    <else>
-                      <text value="判决书"/>
-                    </else>
-                  </choose>
-                  <date variable="issued" prefix="（" suffix="）">
-                    <date-part name="year"/>
-                  </date>
-                  <text variable="number"/>
+                <group delimiter="，">
+                  <group>
+                    <text variable="authority"/>
+                    <choose>
+                      <if variable="genre">
+                        <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
+                        <text variable="genre"/>
+                      </if>
+                      <else>
+                        <text value="判决书"/>
+                      </else>
+                    </choose>
+                    <text variable="number"/>
+                  </group>
+                  <text macro="issuance"/>
                 </group>
               </else>
             </choose>
@@ -278,13 +315,19 @@
                     <text value="Pub. L. No."/>
                     <text variable="number"/>
                   </group>
+                  <text macro="section-en"/>
                   <text macro="container-en"/>
                 </group>
               </if>
               <else>
                 <!-- Administrative Procedure Act § 6, 5 U.S.C. -->
-                <text macro="title-en"/>
-                <text macro="container-en"/>
+                <group delimiter=", ">
+                  <text macro="title-en"/>
+                  <group delimiter=" ">
+                    <text macro="container-en"/>
+                    <text macro="section-en"/>
+                  </group>
+                </group>
               </else>
             </choose>
             <text variable="page"/>
@@ -415,9 +458,19 @@
         <text macro="issue"/>
       </else-if>
       <else-if type="legal_case">
-        <text variable="container-title" prefix="《" suffix="》"/>
-        <text macro="issuance"/>
-        <text macro="issue"/>
+        <choose>
+          <if variable="number">
+            <!-- 指导性案例 -->
+            <text variable="container-title"/>
+          </if>
+          <else>
+            <!-- 《最高人民法院公报》 -->
+            <text term="in"/>
+            <text variable="container-title" prefix="《" suffix="》"/>
+            <text macro="issuance"/>
+            <text macro="issue"/>
+          </else>
+        </choose>
       </else-if>
       <else-if type="article-newspaper">
         <text term="in"/>
@@ -457,15 +510,9 @@
         </group>
       </else-if>
       <else-if type="legislation">
-        <group delimiter=", ">
-          <group delimiter=" ">
-            <label variable="section" form="symbol"/>
-            <text variable="section"/>
-          </group>
-          <group delimiter=" ">
-            <text variable="volume"/>
-            <text variable="container-title" text-case="title"/>
-          </group>
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <text variable="container-title" text-case="title"/>
         </group>
       </else-if>
       <else>
@@ -487,6 +534,32 @@
       </if>
       <else>
         <label variable="issue"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 条文序号 -->
+  <macro name="section">
+    <choose>
+      <if is-numeric="section">
+        <text value="第"/>
+        <number variable="section"/>
+        <label variable="section"/>
+      </if>
+      <else>
+        <text variable="section"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="section-en">
+    <choose>
+      <if is-numeric="section">
+        <group delimiter=" ">
+          <label variable="section" form="symbol"/>
+          <text variable="section"/>
+        </group>
+      </if>
+      <else>
+        <text variable="section"/>
       </else>
     </choose>
   </macro>
@@ -518,7 +591,7 @@
   </macro>
   <macro name="issuance">
     <choose>
-      <if type="article-magazine article-newspaper legislation post post-weblog webpage" match="any">
+      <if type="article-magazine article-newspaper legal_case legislation post post-weblog webpage" match="any">
         <date variable="issued" form="text"/>
       </if>
       <else>
@@ -528,28 +601,9 @@
   </macro>
   <macro name="issuance-en">
     <choose>
-      <if type="article-newspaper thesis" match="any">
-        <group delimiter=", ">
-          <date variable="issued">
-            <date-part name="month"/>
-            <date-part name="day" prefix=" "/>
-          </date>
-          <date variable="issued">
-            <date-part name="year"/>
-          </date>
-        </group>
+      <if type="article-magazine article-newspaper post post-weblog webpage" match="any">
+        <date variable="issued" form="text"/>
       </if>
-      <else-if type="article-magazine post post-weblog webpage" match="any">
-        <group delimiter=", ">
-          <date variable="issued">
-            <date-part name="month" form="short"/>
-            <date-part name="day" prefix=" "/>
-          </date>
-          <date variable="issued">
-            <date-part name="year"/>
-          </date>
-        </group>
-      </else-if>
       <else>
         <date variable="issued">
           <date-part name="year"/>
@@ -605,7 +659,7 @@
             <text variable="locator" form="short"/>
           </if>
           <else>
-            <label variable="locator" form="short"/>
+            <label variable="locator" form="short" suffix=" "/>
             <text variable="locator"/>
           </else>
         </choose>
@@ -627,7 +681,7 @@
             <text variable="page" form="short"/>
           </if>
           <else-if type="article-magazine">
-            <label variable="page" form="short"/>
+            <label variable="page" form="short" suffix=" "/>
             <text variable="page"/>
           </else-if>
         </choose>
