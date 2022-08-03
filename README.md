@@ -950,6 +950,32 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 > ```
 
+## [418hust-thesis.csl]
+
+[华中科技大学学位论文样式](http://gs.hust.edu.cn/info/1019/11815.htm)作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
+
+显示效果：
+
+> ```
+
+>引用文献<sup>[1]</sup>，此处<sup>[2]</sup>
+
+>华中科技大学<sup>[3]</sup>
+
+>期刊<sup>[4]</sup>
+
+>专利会议<sup>[5,6]</sup>
+> ```
+
+>[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006<br>
+>[2]	M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. 2nd ed. Hoboken, New Jersey: Wiley-Interscience, 1998<br>
+>[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096<br>
+>[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176<br>
+>[5]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998<br>
+>[6]	刘加林. 多功能一次性压舌板: 中国, ZL92214985. 2. 1993
+
+
+
 ## LICENSE
 
 [GPL](https://www.gnu.org/licenses/gpl-3.0.txt)
@@ -1201,3 +1227,4 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [415zju-thesis.csl]:415zju-thesis.csl
 [416zuel-thesis.csl]: 416zuel-thesis.csl
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
+[418hust-thesis.csl]: 418hust-thesis.csl
