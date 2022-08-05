@@ -678,7 +678,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 注意事项：
 
 1. 文献的语言默认为英语，中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
-2. 目前仅支持中文和英文的体例，法文、德文、日文尚未实现。
+2. 目前仅支持中文和英文的体例，法文、德文、日文尚未实现。如果有需求请联系作者。
 3. 中文司法案例援引裁判文书时需要在 `Extra` 字段填写文书名称，比如 `genre: 民事判决书`。
 
 显示效果：
