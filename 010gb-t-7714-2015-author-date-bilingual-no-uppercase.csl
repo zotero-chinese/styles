@@ -20,7 +20,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；</summary>
-    <updated>2022-07-10T17:50:00+08:00</updated>
+    <updated>2022-08-03T22:29:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -161,7 +161,7 @@
             <text variable="container-title"/>
           </if>
           <else>
-            <text variable="event"/>
+            <text variable="event-title"/>
           </else>
         </choose>
         <text macro="book-volume"/>

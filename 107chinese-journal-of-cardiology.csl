@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 默认语言为英文；2. 按照语言显示“等”或“et al.”；3. 姓名取消全大写；4. 西文的名无空格；5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；6. 页码的冒号前无空格；7. 优先显示 DOI。</summary>
-    <updated>2022-05-24T23:27:00+08:00</updated>
+    <updated>2022-08-03T22:29:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -113,7 +113,7 @@
             <text variable="container-title"/>
           </if>
           <else>
-            <text variable="event"/>
+            <text variable="event-title"/>
           </else>
         </choose>
         <text macro="book-volume"/>

@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 区分中文和西文的“等”和“et al.”。2. 西文名缩写，名在前姓在后。3. 不显示 DOI。4. 网页显示URL。</summary>
-    <updated>2022-01-05T12:00:00+08:00</updated>
+    <updated>2022-08-03T22:29:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -116,7 +116,7 @@
             <text variable="container-title"/>
           </if>
           <else>
-            <text variable="event"/>
+            <text variable="event-title"/>
           </else>
         </choose>
         <text macro="book-volume"/>
@@ -432,7 +432,7 @@
     <text macro="publishing-paper-conference"/>
     <!-- <text macro="url-doi"/> -->
   </group>
-</macro> 
+</macro>
   <!-- 专著中的析出文献 -->
   <macro name="chapter-in-book-layout">
     <group delimiter=". " suffix=".">
@@ -496,7 +496,7 @@
       </else-if>
       <else-if type="webpage" match="any">
         <text macro="monograph-layout"/>
-      </else-if>  
+      </else-if>
       <else-if type="paper-conference" variable="container-title" match="any">
               <text macro="paper-conference-layout"/>
       </else-if>

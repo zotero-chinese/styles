@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base" />
-    <updated>2022-07-10T12:30:00+08:00</updated>
+    <updated>2022-08-03T22:29:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -157,7 +157,7 @@
           <text variable="container-title" text-case="title"/>
         </if>
         <else>
-          <text variable="event"/>
+          <text variable="event-title"/>
         </else>
       </choose>
       <text value="[C]"/>

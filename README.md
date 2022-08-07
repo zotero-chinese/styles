@@ -678,7 +678,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 注意事项：
 
 1. 文献的语言默认为英语，中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
-2. 目前仅支持中文和英文的体例，法文、德文、日文尚未实现。
+2. 目前仅支持中文和英文的体例，法文、德文、日文尚未实现。如果有需求请联系作者。
 3. 中文司法案例援引裁判文书时需要在 `Extra` 字段填写文书名称，比如 `genre: 民事判决书`。
 
 显示效果：
@@ -693,9 +693,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   <sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
   <sup>8</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
   <sup>9</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
-  <sup>10</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733 (1964).<br>
+  <sup>10</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
   <sup>11</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
-  <sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
+  <sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
   <sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
   <sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
 </blockquote>
