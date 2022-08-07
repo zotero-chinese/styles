@@ -518,16 +518,20 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 显示效果：
 
 > ```
+> （Bartov et al., 2002）
+> （邵新建等，2015）
 > （康大成，2017）
 > （Chen et al., 2020）
 > （王静帆等，2021）
 > （Ebert et al., 2021）
 > ```
 
-> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
-> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第03期。<br>
-> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure Homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
-> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein Mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
+> 康大成，2017：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文学位论文，2017年。<br>
+> 邵新建、何明燕、江萍等，2015：《媒体公关、投资者情绪与证券发行定价》，《金融研究》第09期。<br>
+> 王静帆、黄峰、沈青山等，2021：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》第3期。<br>
+> Bartov E., P. Mohanram and C. Seethamraju, 2002, “Valuation of Internet Stocks—An IPO Perspective”, *Journal of Accounting Research*, 40(2), 321—346.<br>
+> Chen X., L. Liang and X. Xu, 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, 12—29.<br>
+> Ebert S., S. Kaplan, K. Brettschneider, et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, 106388.<br>
 
 
 ## [203economic-research-journal.csl]
