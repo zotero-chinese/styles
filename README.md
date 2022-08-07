@@ -518,6 +518,26 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 显示效果：
 
 > ```
+> （康大成，2017）
+> （Chen et al., 2020）
+> （王静帆等，2021）
+> （Ebert et al., 2021）
+> ```
+
+> （1）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
+> （2）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
+> （3）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文学位论文，2017年。<br>
+> （4）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第3期。<br>
+
+
+## [203economic-research-journal.csl]
+
+[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](9journal-of-management-world.csl)基础上修改。
+
+显示效果：
+
+
+> ```
 > （Bartov et al., 2002）
 > （邵新建等，2015）
 > （康大成，2017）
@@ -533,24 +553,6 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > Chen X., L. Liang and X. Xu, 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, 12—29.<br>
 > Ebert S., S. Kaplan, K. Brettschneider, et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, 106388.<br>
 
-
-## [203economic-research-journal.csl]
-
-[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](9journal-of-management-world.csl)基础上修改。
-
-显示效果：
-
-> ```
-> （康大成，2017）
-> （Chen et al., 2020）
-> （王静帆等，2021）
-> （Ebert et al., 2021）
-> ```
-
-> 康大成，2017：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文，2017年。<br>
-> 王静帆、黄峰、沈青山等，2021：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》第03期。<br>
-> Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, Trends in Food Science & Technology, 106, 12—29.<br>
-> Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, Food Hydrocolloids, 113, 106388.<br>
 
 ## [205bmj.csl]
 
