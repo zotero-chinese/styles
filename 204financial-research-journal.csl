@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="first" sort-separator=" " default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>金融研究（Financial Research Journal）</title>
@@ -7,7 +7,7 @@
     <id>http://www.zotero.org/styles/financial-research-journal</id>
     <link rel="self" href="http://www.zotero.org/styles/financial-research-journa"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&amp;page=1" rel="documentation"/>
+    <link href="http://www.jryj.org.cn/CN/column/column3.shtml" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -30,12 +30,18 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
-      <term name="page-range-delimiter">&#x2014;</term>
+      <!-- <term name="page-range-delimiter">&#x2014;</term> -->
+      <term name="page-range-delimiter">~</term>
     </terms>
   </locale>
   <locale xml:lang="en">
     <terms>
-      <term name="page-range-delimiter">&#x2014;</term>
+      <!-- <term name="page-range-delimiter">&#x2014;</term> -->
+      <term name="page-range-delimiter">~</term>
+      <term name="page" form="short">
+        <single>pp.</single>
+        <multiple>pp.</multiple>
+      </term>
     </terms>
   </locale>
   <macro name="accessed-date">
@@ -49,7 +55,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name and="text" initialize-with="." name-as-sort-order="all" sort-separator=",  ">
+          <name and="text" initialize-with="." sort-separator=",  ">
             <name-part name="family" text-case="capitalize-first"/>
             <name-part name="given"/>
           </name>
@@ -185,6 +191,7 @@
       <text variable="volume" prefix=""/>
       <text variable="issue" prefix="(" suffix=")"/>
     </group>
+    <text term="page" form="short"/>
     <text variable="page"/>
   </macro>
   <macro name="serial-information-cn">
@@ -326,14 +333,16 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="400" et-al-use-first="300" line-spacing="1" hanging-indent="true">
     <sort>
-      <key variable="language" sort="ascending"/>
+      <!-- <key variable="language" sort="ascending"/> -->
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
     </sort>
     <layout suffix="." locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-full-en"/>
     </layout>
     <layout suffix="。">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-full"/>
     </layout>
   </bibliography>
