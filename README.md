@@ -563,10 +563,10 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 >（邵新建等，2015） 
 >（Nunn and Qian，2011） 
 > ```
->[1]	邵新建、何明燕、江萍、薛熠和廖静池，2015，《媒体公关、投资者情绪与证券发行定价》，《金融研究》第09期，第190~206页。<br>
->[2]	Bartov, E., P. Mohanram, and C. Seethamraju. 2002. “Valuation of Internet Stocks—An IPO Perspective”, Journal of Accounting Research, 40(2): pp.321~346.<br>
+>[1]	邵新建、何明燕、江萍、薛熠和廖静池，2015，《媒体公关、投资者情绪与证券发行定价》，《金融研究》第09期，第190`~`206页。<br>
+>[2]	Bartov, E., P. Mohanram, and C. Seethamraju. 2002. “Valuation of Internet Stocks—An IPO Perspective”, Journal of Accounting Research, 40(2): pp.321`~`346.<br>
 >[3]	Ebert, S., S. Kaplan, K. Brettschneider, N. Terjung, M. Gibis, and J. Weiss. 2021. “Aggregation behavior of solubilized meat - Potato protein Mixtures”, Food Hydrocolloids, 113: pp.106388.<br>
->[4]	Nunn, N. and N. Qian. 2011. “The Potato’s Contribution to Population and Urbanization: Evidence From A Historical Experiment*”, The Quarterly Journal of Economics, 126(2): pp.593~650.<br>
+>[4]	Nunn, N. and N. Qian. 2011. “The Potato’s Contribution to Population and Urbanization: Evidence From A Historical Experiment*”, The Quarterly Journal of Economics, 126(2): pp.593`~`650.<br>
 
 
 ## [205bmj.csl]
