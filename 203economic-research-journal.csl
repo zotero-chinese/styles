@@ -50,7 +50,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize-with="." and="text" delimiter-precedes-last="never">
+          <name initialize-with="." and="text">
             <name-part name="family" text-case="capitalize-first"/>
             <name-part name="given"/>
           </name>
