@@ -532,10 +532,9 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [203economic-research-journal.csl]
 
-[《经济研究》样式](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)，[《管理世界》](9journal-of-management-world.csl)基础上修改。
+[《经济研究》](http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1)样式，[《管理世界》](9journal-of-management-world.csl)基础上修改。
 
 显示效果：
-
 
 > ```
 > （Bartov et al., 2002）
@@ -552,6 +551,22 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > Bartov E., P. Mohanram and C. Seethamraju, 2002, “Valuation of Internet Stocks—An IPO Perspective”, *Journal of Accounting Research*, 40(2), 321—346.<br>
 > Chen X., L. Liang and X. Xu, 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, 12—29.<br>
 > Ebert S., S. Kaplan, K. Brettschneider, et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, 106388.<br>
+
+## [204financial-research-journal.csl]
+[《金融研究》](http://www.jryj.org.cn/CN/column/column3.shtml)样式，[《经济研究》](203economic-research-journal.csl)基础上个性，文内为（作者，年代），参考文献列表中文在前，英文在后，作者前加编号。
+
+显示效果：
+
+> ```
+>（Bartov et al.，2002） 
+>（Ebert et al.，2021） 
+>（邵新建等，2015） 
+>（Nunn and Qian，2011） 
+> ```
+>[1]	邵新建、何明燕、江萍、薛熠和廖静池，2015，《媒体公关、投资者情绪与证券发行定价》，《金融研究》第09期，第190~206页。<br>
+>[2]	Bartov, E., P. Mohanram, and C. Seethamraju. 2002. “Valuation of Internet Stocks—An IPO Perspective”, Journal of Accounting Research, 40(2): pp.321~346.<br>
+>[3]	Ebert, S., S. Kaplan, K. Brettschneider, N. Terjung, M. Gibis, and J. Weiss. 2021. “Aggregation behavior of solubilized meat - Potato protein Mixtures”, Food Hydrocolloids, 113: pp.106388.<br>
+>[4]	Nunn, N. and N. Qian. 2011. “The Potato’s Contribution to Population and Urbanization: Evidence From A Historical Experiment*”, The Quarterly Journal of Economics, 126(2): pp.593~650.<br>
 
 
 ## [205bmj.csl]
@@ -1209,6 +1224,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
+[204financial-research-journal.csl]: 204financial-research-journal.csl
 [205bmj.csl]: 205bmj.csl
 [206accounting-research.csl]: 206accounting-research.csl
 [207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
