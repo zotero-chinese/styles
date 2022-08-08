@@ -331,7 +331,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="400" et-al-use-first="300" line-spacing="1" hanging-indent="true">
+  <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush"> 
     <sort>
       <!-- <key variable="language" sort="ascending"/> -->
       <key macro="author-intext"/>
