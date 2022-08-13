@@ -48,8 +48,8 @@
       <if variable="author">
         <names variable="author">
           <name>
-            <name-part name="family" text-case="capitalize-all"/>
-            <name-part name="given" text-case="capitalize-all"/>
+            <name-part name="family"/>
+            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -61,7 +61,7 @@
   <macro name="container-author">
     <names variable="container-author">
       <name>
-        <name-part name="family" text-case="capitalize-all"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
     </names>
@@ -79,7 +79,7 @@
   <macro name="editor">
     <names variable="editor translator">
       <name>
-        <name-part name="family" text-case="capitalize-all"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
@@ -131,10 +131,10 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
- 
+
   <macro name="bib-entry" >
   <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
-    
+
       <choose>
         <if type="chapter thesis" match="any">
           <text macro="editor" prefix=". "/>
@@ -195,7 +195,7 @@
                 </choose>
                 <!--如果有网址则添加-->
               </group>
-           </else-if>        
+           </else-if>
         <else-if type="paper-conference" match="any"><!-- 会议论文-->
             <text macro="editor" prefix=". "/>
             <choose>
@@ -263,7 +263,7 @@
     <!-- <layout locale="en">
       <! <text variable="citation-number" prefix="[" suffix="]"/> -->
       <!-- <text macro="bib-entry"/>
-    </layout> --> 
+    </layout> -->
     <layout>
       <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="bib-entry"/>

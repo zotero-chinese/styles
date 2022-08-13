@@ -42,8 +42,8 @@
       <if variable="author">
         <names variable="author">
           <name>
-            <name-part name="family" text-case="capitalize-all"/>
-            <name-part name="given" text-case="capitalize-all"/>
+            <name-part name="family"/>
+            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -83,7 +83,7 @@
   <macro name="container-author">
     <names variable="container-author">
       <name>
-        <name-part name="family" text-case="capitalize-all"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
     </names>
@@ -101,7 +101,7 @@
   <macro name="editor">
     <names variable="editor translator">
       <name>
-        <name-part name="family" text-case="capitalize-all"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>

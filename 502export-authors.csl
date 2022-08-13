@@ -42,8 +42,8 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false">
-            <name-part name="family" text-case="capitalize-all"/>
-            <name-part name="given" text-case="capitalize-all"/>
+            <name-part name="family"/>
+            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -55,18 +55,18 @@
   <macro name="container-author">
     <names variable="container-author">
       <name>
-        <name-part name="family" text-case="capitalize-all"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
     </names>
   </macro>
 
 
-  
+
   <macro name="bib-entry" >
   <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="author"/>
-     
+
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
@@ -81,7 +81,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="1004" et-al-use-first="1003" line-spacing="1" second-field-align="flush">
-    
+
     <layout>
       <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="bib-entry"/>
