@@ -58,7 +58,6 @@
     <names variable="author">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <substitute>
         <names variable="composer"/>
@@ -95,7 +94,6 @@
     <names variable="editor">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <substitute>
         <names variable="editorial-director"/>
@@ -223,7 +221,6 @@
     <names variable="translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
     </names>

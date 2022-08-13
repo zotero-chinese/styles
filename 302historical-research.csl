@@ -26,7 +26,7 @@
   <locale xml:lang="en">
     <terms>
       <term name="ibid">Id.</term>
-      
+
     </terms>
   </locale>
   <locale xml:lang="zh-CN">
@@ -43,7 +43,7 @@
 
   <macro name="accessed-date-en">
     <date variable="accessed" delimiter="" prefix="" suffix="">
-      
+
       <date-part name="month" form="short" suffix=" "/>
       <date-part name="day" suffix=", "/>
       <date-part name="year" suffix=""/>
@@ -61,10 +61,7 @@
       <if variable="author">
         <names variable="author">
             <name initialize="false" initialize-with=".">
-             <group delimiter=""> <!----> 
-                <name-part name="given"/>
-                 <name-part name="family"/>
-                <name-part name="given"/>
+             <group delimiter=""> <!---->
               </group>
             </name>
         </names>
@@ -79,8 +76,6 @@
       <if variable="author">
         <names variable="author">
             <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-            <name-part name="family"/>
-            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -93,8 +88,6 @@
     <names variable="container-author reviewed-author">
             <name initialize="false">
               <group delimiter="">
-                <name-part name="given"/>
-                <name-part name="family"/>
               </group>
             </name>
       <!-- <label form="verb-short" prefix=", "/> -->
@@ -103,8 +96,6 @@
   <macro name="container-author">
     <names variable="container-author reviewed-author">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
       <!-- <label form="verb-short" prefix=", "/> -->
     </names>
@@ -123,7 +114,6 @@
     <names variable="editor translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <label form="verb-short" prefix=", "/>
     </names>
@@ -204,7 +194,7 @@
     <choose>
       <if variable="publisher">
         <group delimiter=": ">
-          <text variable="publisher-place"/> 
+          <text variable="publisher-place"/>
           <group delimiter="">
             <text variable="publisher" prefix=""/>
             <text macro="issue-date-year" prefix="，" suffix="年"/>
@@ -226,7 +216,7 @@
       <text variable="page-first" prefix="" suffix=", "/>
       <text variable="page" prefix="" suffix=""/>
       <text macro="issue-date-year" prefix="(" suffix=")"/>
-     
+
     </group>
     <!-- <text variable="issue" prefix="第" suffix="期"/>删除期-->
    </macro>
@@ -241,7 +231,7 @@
   </macro>
    <macro name="title-en">
     <text variable="title" text-case="title" prefix="" suffix="" />
-  </macro> 
+  </macro>
   <macro name="title">
     <text variable="title" text-case="title" prefix="《" suffix="》" />
   </macro>
@@ -269,7 +259,7 @@
               <group prefix=", ">
                 <choose>
                   <if variable="container-title">
-                    <text variable="volume" prefix="" suffix=" "/> 
+                    <text variable="volume" prefix="" suffix=" "/>
                     <text variable="container-title" text-case="title" prefix="" suffix=""/>
                     <text macro="serial-information-en" prefix=""/> <!--年前的前辍-->
                   </if>
@@ -300,7 +290,7 @@
                 <choose>
                   <if variable="container-title">
                     <text variable="container-title" text-case="title" prefix="" suffix=""/>
-                     
+
                   </if>
                   <else>
                    <!-- <text macro="serial-information" suffix=". "/>-->
@@ -431,7 +421,7 @@
             <text variable="DOI" prefix="DOI:"/>
           </group>-->
   </macro>
-  
+
   <citation disambiguate-add-names="true">
     <layout locale="en" suffix="." delimiter="; ">
     <!---->

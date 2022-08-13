@@ -43,7 +43,6 @@
         <names variable="author">
           <name>
             <name-part name="family" text-case="uppercase"/>
-            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -56,7 +55,6 @@
     <names variable="container-author">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
     </names>
   </macro>
@@ -74,7 +72,6 @@
     <names variable="editor translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
     </names>

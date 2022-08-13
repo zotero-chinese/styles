@@ -62,9 +62,6 @@
         <names variable="author">
           <name initialize="false" initialize-with=".">
             <group delimiter="">
-              <name-part name="given"/>
-              <name-part name="family"/>
-              <name-part name="given"/>
             </group>
           </name>
         </names>
@@ -76,8 +73,6 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-            <name-part name="family"/>
-            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -87,8 +82,6 @@
     <names variable="container-author reviewed-author">
       <name initialize="false">
         <group delimiter="">
-          <name-part name="given"/>
-          <name-part name="family"/>
         </group>
       </name>
     </names>
@@ -96,8 +89,6 @@
   <macro name="container-author">
     <names variable="container-author reviewed-author">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
     </names>
   </macro>
@@ -115,7 +106,6 @@
     <names variable="editor translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <label form="verb-short" prefix=", "/>
     </names>

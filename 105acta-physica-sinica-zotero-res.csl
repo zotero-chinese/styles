@@ -56,8 +56,6 @@
   <macro name="author">
     <names variable="author">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
       <substitute>
         <names variable="composer"/>
@@ -171,7 +169,6 @@
     <names variable="translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
-        <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
     </names>

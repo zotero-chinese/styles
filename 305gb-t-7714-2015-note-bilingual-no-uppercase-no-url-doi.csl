@@ -58,8 +58,6 @@
   <macro name="author">
     <names variable="author">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
       <substitute>
         <names variable="composer"/>
@@ -95,8 +93,6 @@
   <macro name="container-author">
     <names variable="editor">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
       <substitute>
         <names variable="editorial-director"/>
@@ -234,8 +230,6 @@
   <macro name="secondary-contributor">
     <names variable="translator">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
     </names>

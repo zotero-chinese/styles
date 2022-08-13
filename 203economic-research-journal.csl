@@ -51,8 +51,6 @@
       <if variable="author">
         <names variable="author">
           <name initialize-with="." and="text" delimiter-precedes-last="always">
-            <name-part name="family"/>
-            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -66,8 +64,6 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-            <name-part name="family"/>
-            <name-part name="given"/>
           </name>
         </names>
       </if>
@@ -81,7 +77,6 @@
       <if variable="author">
         <names variable="author">
           <name form="short" and="symbol">
-            <name-part name="family"/>
           </name>
         </names>
       </if>
@@ -95,7 +90,6 @@
       <if variable="author">
         <names variable="author">
           <name delimiter="、" and="text" delimiter-precedes-et-al="never">
-            <name-part name="family"/>
           </name>
         </names>
       </if>
@@ -107,8 +101,6 @@
   <macro name="container-author">
     <names variable="container-author">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
     </names>
   </macro>
@@ -125,8 +117,6 @@
   <macro name="editor">
     <names variable="editor translator">
       <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
     </names>
