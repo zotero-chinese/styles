@@ -583,7 +583,7 @@
             </choose>
           </if>
           <else>
-            <text term="edition" form="short"/>
+            <label variable="edition" form="short"/>
           </else>
         </choose>
       </else>

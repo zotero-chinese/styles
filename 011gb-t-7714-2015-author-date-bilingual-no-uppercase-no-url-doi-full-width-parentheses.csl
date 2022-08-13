@@ -208,7 +208,7 @@
       <if is-numeric="edition">
         <group delimiter=" ">
           <number variable="edition" form="ordinal"/>
-          <text term="edition" form="short"/>
+          <label variable="edition" form="short"/>
         </group>
       </if>
       <else>

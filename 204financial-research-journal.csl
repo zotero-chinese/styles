@@ -108,7 +108,7 @@
       <if variable="edition">
         <group delimiter=" ">
           <text variable="edition"/>
-          <text term="edition"/>
+          <label variable="edition"/>
         </group>
       </if>
     </choose>
