@@ -165,9 +165,9 @@
   <macro name="title">
     <text variable="title"/>
     <choose>
-            <if type="bill broadcast legal_case legislation patent report song" match="any">
-              <text variable="number" prefix=": "/>
-            </if>
+      <if type="bill broadcast legal_case legislation patent report song" match="any">
+        <text variable="number" prefix=": "/>
+      </if>
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
@@ -177,55 +177,55 @@
         </if>
       </choose>
     </group>
-   </macro>
- <macro name="bib-full">
-   <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
-      <text macro="author" suffix=". "/>
-      <text macro="title"/>
-      <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
-          <text macro="editor" prefix=". "/>
+  </macro>
+  <macro name="bib-full">
+    <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
+    <text macro="author" suffix=". "/>
+    <text macro="title"/>
+    <choose>
+      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <text macro="editor" prefix=". "/>
+        <choose>
+          <if variable="container-title">
+            <text value="//"/>
+            <text macro="container-author" suffix=". "/>
+            <text variable="container-title" suffix=". " text-case="title"/>
+          </if>
+          <else>
+            <text value=". "/>
+          </else>
+        </choose>
+        <text macro="edition" suffix=". "/>
+        <text macro="publishing"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper" match="any">
+        <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text value="//"/>
-              <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title" form="short"/>
+              <text macro="serial-information" prefix=", "/>
             </if>
             <else>
-              <text value=". "/>
+              <text macro="serial-information" suffix=". "/>
+              <text macro="publishing"/>
             </else>
           </choose>
-          <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <group prefix=". ">
-            <choose>
-              <if variable="container-title">
-                <text variable="container-title" form="short"/>
-                <text macro="serial-information" prefix=", "/>
-              </if>
-              <else>
-                <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
-              </else>
-            </choose>
-          </group>
-        </else-if>
-        <else-if type="patent">
-          <text macro="issued-date" prefix=". "/>
-        </else-if>
-        <else>
-          <text macro="publishing" prefix=". "/>
-          <text macro="issued-date" prefix="(" suffix=")"/>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
-      <group delimiter=". " prefix=". ">
-        <text variable="URL"/>
-        <text variable="DOI" prefix="DOI:"/>
-      </group>
-     </macro>
+        </group>
+      </else-if>
+      <else-if type="patent">
+        <text macro="issued-date" prefix=". "/>
+      </else-if>
+      <else>
+        <text macro="publishing" prefix=". "/>
+        <text macro="issued-date" prefix="(" suffix=")"/>
+      </else>
+    </choose>
+    <text macro="accessed-date"/>
+    <group delimiter=". " prefix=". ">
+      <text variable="URL"/>
+      <text variable="DOI" prefix="DOI:"/>
+    </group>
+  </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number" sort="ascending"/>
@@ -240,12 +240,12 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="en">
-        <text variable="citation-number" prefix="[" suffix="]"/>
-        <text macro="bib-full" suffix="."/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="bib-full" suffix="."/>
     </layout>
-    <layout >
-        <text variable="citation-number" prefix="[" suffix="]"/>
-        <text macro="bib-full" suffix="."/>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="bib-full" suffix="."/>
     </layout>
   </bibliography>
 </style>

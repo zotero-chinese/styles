@@ -8,12 +8,12 @@
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://cbimg.cnki.net/Editor/2020/0104/jjsh/1f0afb13-dc6b-4146-aa25-d887ba180ea6.docx" rel="documentation"/>
     <author>
-        <name>韩小土</name>
-        <email>redleafnew@163.com</email>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
     </author>
     <contributor>
-        <name>牛耕田</name>
-        <email>buffalo_d@163.com</email>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
     </contributor>
     <contributor>
       <name>Raymond</name>
@@ -154,11 +154,11 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
- <macro name="serial-information-zh">
+  <macro name="serial-information-zh">
     <group delimiter=", ">
-        <text macro="issue-date-year" suffix=""/>
-       <!-- <text variable="volume" prefix=""/> -->
-       <text variable="issue" prefix="" suffix=""/>
+      <text macro="issue-date-year" suffix=""/>
+      <!-- <text variable="volume" prefix=""/> -->
+      <text variable="issue" prefix="" suffix=""/>
     </group>
     <text variable="page" prefix=": "/>
   </macro>
@@ -166,11 +166,11 @@
     <text variable="title" prefix="“" suffix=".”"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
-<macro name="title-zh">
+  <macro name="title-zh">
     <text variable="title" prefix="“" suffix="”"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
-   <!-- 英文文末显示设置 -->
+  <!-- 英文文末显示设置 -->
   <macro name="bib-full-en" suffix=".">
     <text macro="author" suffix=", "/>
     <text macro="issue-date-year" suffix=". "/>
@@ -214,7 +214,7 @@
       </else>
     </choose>
     <text macro="accessed-date"/>
- </macro>
+  </macro>
   <!-- 中文文末显示设置 -->
   <macro name="bib-full" suffix="。">
     <text macro="author-zh" suffix=", "/>
@@ -259,8 +259,8 @@
       </else>
     </choose>
     <text macro="accessed-date"/>
- </macro>
- <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+  </macro>
+  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
@@ -288,9 +288,9 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
-        <key variable="language" sort="ascending"/>
-        <key macro="author-intext"/>
-        <key macro="issue-date-year" sort="ascending"/>
+      <key variable="language" sort="ascending"/>
+      <key macro="author-intext"/>
+      <key macro="issue-date-year" sort="ascending"/>
     </sort>
     <layout suffix="." locale="en">
       <text macro="bib-full-en"/>

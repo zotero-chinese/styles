@@ -160,7 +160,7 @@
     <choose>
       <if variable="publisher">
         <group delimiter=": ">
-          <group  prefix="(" suffix=")">
+          <group prefix="(" suffix=")">
             <text variable="publisher"/>
             <text macro="issue-date-year-en" prefix=" "/>
           </group>
@@ -218,7 +218,7 @@
   </macro>
   <macro name="full-contents-en">
     <text macro="author-en" suffix=", "/>
-      <!-- <text macro="title-en" font-style="italic"/> -->
+    <!-- <text macro="title-en" font-style="italic"/> -->
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="title-en"/>
@@ -277,7 +277,7 @@
               <text variable="container-title" text-case="title" prefix="" suffix=""/>
             </if>
             <else>
-              <group delimiter=" "  prefix="("  suffix=")">
+              <group delimiter=" " prefix="(" suffix=")">
                 <text variable="publisher"/>
                 <text macro="issue-date-year-en"/>
               </group>

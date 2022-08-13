@@ -7,12 +7,12 @@
     <link href="http://www.zotero.org/styles/yuzuc-at-title-at-author-at-year" rel="self"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
-        <name>韩小土</name>
-        <email>redleafnew@163.com</email>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
     </author>
     <contributor>
-        <name>牛耕田</name>
-        <email>buffalo_d@163.com</email>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
@@ -116,16 +116,16 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-    <macro name="title">
-        <text variable="title"/>
-    </macro>
-    <macro name="bib-entry" >
-        <group delimiter="" prefix="@" suffix="">
-            <text macro="title" text-case="Title" suffix="@"/>
-            <text macro="author" suffix=". "/>
-            <text macro="issue-date-year"  prefix="(@" suffix=")"/>
-        </group>
-   </macro>
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+  <macro name="bib-entry">
+    <group delimiter="" prefix="@" suffix="">
+      <text macro="title" text-case="Title" suffix="@"/>
+      <text macro="author" suffix=". "/>
+      <text macro="issue-date-year" prefix="(@" suffix=")"/>
+    </group>
+  </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number" sort="ascending"/>
@@ -140,10 +140,10 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="3" et-al-use-first="2" hanging-indent="true">
     <layout locale="en">
-        <text macro="bib-entry" suffix=""/>
+      <text macro="bib-entry" suffix=""/>
     </layout>
     <layout>
-        <text macro="bib-entry" suffix=""/>
+      <text macro="bib-entry" suffix=""/>
     </layout>
   </bibliography>
 </style>

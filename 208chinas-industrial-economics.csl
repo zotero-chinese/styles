@@ -3,15 +3,15 @@
   <info>
     <title>中国工业经济</title>
     <id>http://www.zotero.org/styles/chinas-industrial-economics</id>
-    <link href="http://www.zotero.org/styles/chinas-industrial-economics" rel="self" />
+    <link href="http://www.zotero.org/styles/chinas-industrial-economics" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=147144" rel="documentation" />
+    <link href="http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=147144" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="author-date"/>
-    <category field="generic-base" />
+    <category field="generic-base"/>
     <updated>2022-08-03T22:29:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

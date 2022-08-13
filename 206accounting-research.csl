@@ -8,12 +8,12 @@
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://www.asc.net.cn/AccountingResearch/MagazineProfile.aspx?type=tgzn" rel="documentation"/>
     <author>
-       <name>韩小土</name>
-       <email>redleafnew@163.com</email>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
     </author>
     <contributor>
-        <name>牛耕田</name>
-        <email>buffalo_d@163.com</email>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
@@ -145,8 +145,8 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-   <macro name="serial-information-zh">
-     <group delimiter=": ">
+  <macro name="serial-information-zh">
+    <group delimiter=": ">
       <text variable="issue" prefix="" suffix=""/>
       <text variable="page"/>
     </group>
@@ -154,9 +154,9 @@
   <macro name="title">
     <text variable="title" text-case="title"/>
     <choose>
-        <if type="bill broadcast legal_case legislation patent report song" match="any">
-          <text variable="number" prefix=": "/>
-        </if>
+      <if type="bill broadcast legal_case legislation patent report song" match="any">
+        <text variable="number" prefix=": "/>
+      </if>
     </choose>
   </macro>
   <macro name="bib-full">

@@ -5,8 +5,8 @@
         <title>China's Industrial Economics</title>
         <title-short>CIE</title-short>
         <id>http://www.zotero.org/styles/chinas-industrial-economics</id>
-        <link href="http://www.zotero.org/styles/chinas-industrial-economics" rel="self" />
-        <link href="http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=147144" rel="documentation" />
+        <link href="http://www.zotero.org/styles/chinas-industrial-economics" rel="self"/>
+        <link href="http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=147144" rel="documentation"/>
         <author>
             <name>韩小土</name>
             <email>redleafnew@163.com</email>
@@ -15,8 +15,8 @@
             <name>牛耕田</name>
             <email>buffalo_d@163.com</email>
         </contributor>
-        <category citation-format="numeric" />
-        <category field="generic-base" />
+        <category citation-format="numeric"/>
+        <category field="generic-base"/>
         <summary>The Chinese GB/T7714-2015 numeric style</summary>
         <updated>2021-10-25T23:56:46+00:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
@@ -38,9 +38,9 @@
     </locale>
     <macro name="accessed-date">
         <date variable="accessed" delimiter="-" prefix="[" suffix="]">
-            <date-part name="year" />
-            <date-part name="month" form="numeric-leading-zeros" />
-            <date-part name="day" form="numeric-leading-zeros" />
+            <date-part name="year"/>
+            <date-part name="month" form="numeric-leading-zeros"/>
+            <date-part name="day" form="numeric-leading-zeros"/>
         </date>
     </macro>
     <macro name="author-intext">
@@ -48,12 +48,12 @@
             <if variable="author">
                 <names variable="author">
                     <name form="short" delimiter=" " and="text" et-al-min="3">
-                        <et-al term="and others" />
+                        <et-al term="and others"/>
                     </name>
                 </names>
             </if>
             <else>
-                <text term="anonymous" />
+                <text term="anonymous"/>
             </else>
         </choose>
     </macro>
@@ -65,7 +65,7 @@
                 </names>
             </if>
             <else>
-                <text term="anonymous" />
+                <text term="anonymous"/>
             </else>
         </choose>
     </macro>
@@ -77,7 +77,7 @@
                 </names>
             </if>
             <else>
-                <text term="anonymous" />
+                <text term="anonymous"/>
             </else>
         </choose>
     </macro>
@@ -89,7 +89,7 @@
                 </names>
             </if>
             <else>
-                <text term="anonymous" />
+                <text term="anonymous"/>
             </else>
         </choose>
     </macro>
@@ -102,8 +102,8 @@
         <choose>
             <if variable="edition">
                 <group delimiter=" ">
-                    <text variable="edition" />
-                    <text term="edition" />
+                    <text variable="edition"/>
+                    <text term="edition"/>
                 </group>
             </if>
         </choose>
@@ -111,30 +111,30 @@
     <macro name="editor">
         <names variable="editor translator">
             <name/>
-            <label form="short" prefix=", " />
+            <label form="short" prefix=", "/>
         </names>
     </macro>
     <macro name="issued-date">
         <choose>
             <if variable="issued">
                 <date variable="issued" delimiter="-">
-                    <date-part name="year" />
-                    <date-part name="month" form="numeric-leading-zeros" />
-                    <date-part name="day" form="numeric-leading-zeros" />
+                    <date-part name="year"/>
+                    <date-part name="month" form="numeric-leading-zeros"/>
+                    <date-part name="day" form="numeric-leading-zeros"/>
                 </date>
             </if>
             <else>
-                <text term="no date" prefix="[" suffix="]" />
+                <text term="no date" prefix="[" suffix="]"/>
             </else>
         </choose>
     </macro>
     <macro name="issue-date-year">
         <choose>
             <if variable="issued">
-                <date variable="issued" date-parts="year" form="numeric" />
+                <date variable="issued" date-parts="year" form="numeric"/>
             </if>
             <else>
-                <text term="no date" prefix="[" suffix="]" />
+                <text term="no date" prefix="[" suffix="]"/>
             </else>
         </choose>
     </macro>
@@ -142,95 +142,95 @@
         <choose>
             <if variable="publisher">
                 <group delimiter=": ">
-                    <text variable="publisher-place" />
+                    <text variable="publisher-place"/>
                     <group delimiter=", ">
-                        <text variable="publisher" />
-                        <text macro="issue-date-year" />
+                        <text variable="publisher"/>
+                        <text macro="issue-date-year"/>
                     </group>
                 </group>
-                <text variable="page" prefix=": " />
+                <text variable="page" prefix=": "/>
             </if>
         </choose>
     </macro>
     <macro name="serial-information">
         <group delimiter=", ">
-            <text macro="issue-date-year" />
-            <text variable="volume" />
+            <text macro="issue-date-year"/>
+            <text variable="volume"/>
         </group>
-        <text variable="issue" prefix="(" suffix=")" />
-        <text variable="page" prefix=": " />
+        <text variable="issue" prefix="(" suffix=")"/>
+        <text variable="page" prefix=": "/>
     </macro>
     <macro name="type-code">
         <choose>
             <if type="article-journal article-magazine" match="any">
-                <text value="J" />
+                <text value="J"/>
             </if>
             <else-if type="article-newspaper">
-                <text value="N" />
+                <text value="N"/>
             </else-if>
             <else-if type="bill legislation" match="any">
-                <text value="S" />
+                <text value="S"/>
             </else-if>
             <else-if type="book">
-                <text value="M" />
+                <text value="M"/>
             </else-if>
             <else-if type="chapter">
-                <text value="M" />
+                <text value="M"/>
             </else-if>
             <else-if type="dataset">
-                <text value="DS" />
+                <text value="DS"/>
             </else-if>
             <else-if type="paper-conference">
-                <text value="C" />
+                <text value="C"/>
             </else-if>
             <else-if type="patent">
-                <text value="P" />
+                <text value="P"/>
             </else-if>
             <else-if type="post-weblog webpage" match="any">
-                <text value="EB" />
+                <text value="EB"/>
             </else-if>
             <else-if type="report">
-                <text value="R" />
+                <text value="R"/>
             </else-if>
             <else-if type="thesis">
-                <text value="D" />
+                <text value="D"/>
             </else-if>
             <else>
-                <text value="Z" />
+                <text value="Z"/>
             </else>
         </choose>
     </macro>
     <macro name="title">
-        <text variable="title" />
+        <text variable="title"/>
         <choose>
             <if type="bill broadcast legal_case legislation patent report song" match="any">
-                <text variable="number" prefix=": " />
+                <text variable="number" prefix=": "/>
             </if>
         </choose>
         <group delimiter="/" prefix="[" suffix="]">
-            <text macro="type-code" />
+            <text macro="type-code"/>
         </group>
     </macro>
     <macro name="bib-entry-zh">
-        <text variable="citation-number" prefix="[" suffix="] " />
-        <text macro="author-zh" suffix=". " />
-        <text macro="title" />
+        <text variable="citation-number" prefix="[" suffix="] "/>
+        <text macro="author-zh" suffix=". "/>
+        <text macro="title"/>
         <choose>
             <if type="book bill chapter legislation paper-conference report thesis" match="any">
-                <text macro="editor" prefix=". " />
+                <text macro="editor" prefix=". "/>
                 <choose>
                     <if variable="container-title">
-                        <text value="//" />
-                        <text macro="container-author" suffix=". " />
-                        <text variable="container-title" suffix=". " text-case="title" />
-                        <text macro="serial-information" prefix="" />
+                        <text value="//"/>
+                        <text macro="container-author" suffix=". "/>
+                        <text variable="container-title" suffix=". " text-case="title"/>
+                        <text macro="serial-information" prefix=""/>
                     </if>
                     <else>
-                        <text value=". " />
+                        <text value=". "/>
                     </else>
                 </choose>
-                <text macro="edition" suffix=". " />
-                <text macro="publishing" />
+                <text macro="edition" suffix=". "/>
+                <text macro="publishing"/>
             </if>
             <else-if type="article-journal article-magazine article-newspaper" match="any">
                 <group prefix=". ">
@@ -240,49 +240,49 @@
                                 <if variable="archive_location">
                                     <!-- <text variable="archive_location" suffix=": " /> -->
                                     <else>
-                                        <text variable="container-title" text-case="title" />
+                                        <text variable="container-title" text-case="title"/>
                                     </else>
                                 </if>
                             </choose>
-                            <text macro="serial-information" prefix=", " />
+                            <text macro="serial-information" prefix=", "/>
                         </if>
                         <else>
-                            <text macro="serial-information" suffix=". " />
-                            <text macro="publishing" />
+                            <text macro="serial-information" suffix=". "/>
+                            <text macro="publishing"/>
                         </else>
                     </choose>
                 </group>
             </else-if>
             <else-if type="patent">
-                <text macro="issued-date" prefix=". " />
+                <text macro="issued-date" prefix=". "/>
             </else-if>
             <else>
-                <text macro="publishing" prefix=". " />
-                <text macro="issued-date" prefix="(" suffix=")" />
+                <text macro="publishing" prefix=". "/>
+                <text macro="issued-date" prefix="(" suffix=")"/>
             </else>
         </choose>
         <!-- <text macro="accessed-date" /> -->
     </macro>
     <macro name="bib-entry-en">
-        <text variable="citation-number" prefix="[" suffix="] " />
-        <text macro="author-en" suffix=". " />
-        <text macro="title" text-case="title" />
+        <text variable="citation-number" prefix="[" suffix="] "/>
+        <text macro="author-en" suffix=". "/>
+        <text macro="title" text-case="title"/>
         <choose>
             <if type="book bill chapter legislation paper-conference report thesis" match="any">
-                <text macro="editor" prefix=". " />
+                <text macro="editor" prefix=". "/>
                 <choose>
                     <if variable="container-title">
-                        <text value="//" />
-                        <text macro="container-author" suffix=". " />
-                        <text variable="container-title" suffix=". " text-case="title" />
-                        <text macro="serial-information" prefix="" />
+                        <text value="//"/>
+                        <text macro="container-author" suffix=". "/>
+                        <text variable="container-title" suffix=". " text-case="title"/>
+                        <text macro="serial-information" prefix=""/>
                     </if>
                     <else>
-                        <text value=". " />
+                        <text value=". "/>
                     </else>
                 </choose>
-                <text macro="edition" suffix=". " />
-                <text macro="publishing" />
+                <text macro="edition" suffix=". "/>
+                <text macro="publishing"/>
             </if>
             <else-if type="article-journal article-magazine article-newspaper" match="any">
                 <group prefix=". ">
@@ -292,57 +292,57 @@
                                 <if variable="archive_location">
                                     <!-- <text variable="archive_location" suffix=": " /> -->
                                     <else>
-                                        <text variable="container-title" text-case="title" />
+                                        <text variable="container-title" text-case="title"/>
                                     </else>
                                 </if>
                             </choose>
-                            <text macro="serial-information" prefix=", " />
+                            <text macro="serial-information" prefix=", "/>
                         </if>
                         <else>
-                            <text macro="serial-information" suffix=". " />
-                            <text macro="publishing" />
+                            <text macro="serial-information" suffix=". "/>
+                            <text macro="publishing"/>
                         </else>
                     </choose>
                 </group>
             </else-if>
             <else-if type="patent">
-                <text macro="issued-date" prefix=". " />
+                <text macro="issued-date" prefix=". "/>
             </else-if>
             <else>
-                <text macro="publishing" prefix=". " />
-                <text macro="issued-date" prefix="(" suffix=")" />
+                <text macro="publishing" prefix=". "/>
+                <text macro="issued-date" prefix="(" suffix=")"/>
             </else>
         </choose>
         <!-- <text macro="accessed-date" /> -->
     </macro>
     <citation et-al-min="2" et-al-use-first="1" collapse="year">
         <sort>
-            <key variable="citation-number" sort="ascending" />
+            <key variable="citation-number" sort="ascending"/>
         </sort>
         <layout locale="en" prefix="(" suffix=")" delimiter="; ">
             <group delimiter=", ">
-                <text macro="author-intext" />
-                <date variable="issued" form="numeric" date-parts="year" />
+                <text macro="author-intext"/>
+                <date variable="issued" form="numeric" date-parts="year"/>
             </group>
         </layout>
         <layout prefix="(" suffix=")" delimiter="; ">
             <group delimiter=", ">
-                <text macro="author-intext-long" />
-                <date variable="issued" form="numeric" date-parts="year" />
+                <text macro="author-intext-long"/>
+                <date variable="issued" form="numeric" date-parts="year"/>
             </group>
         </layout>
     </citation>
     <bibliography entry-spacing="0" second-field-align="flush">
         <sort>
             <!-- <key variable="language" sort="descending" /> -->
-            <key variable="author" />
-            <key macro="issued-year" />
+            <key variable="author"/>
+            <key macro="issued-year"/>
         </sort>
         <layout locale="en">
-            <text macro="bib-entry-en" suffix="." />
+            <text macro="bib-entry-en" suffix="."/>
         </layout>
         <layout>
-            <text macro="bib-entry-zh" suffix="." />
+            <text macro="bib-entry-zh" suffix="."/>
         </layout>
     </bibliography>
 </style>

@@ -15,9 +15,9 @@
       <email>zepinglee@gmail.com</email>
     </contributor>
     <contributor>
-        <name>redleafnew</name>
-        <email>redleafnew@163.com</email>
-      </contributor>
+      <name>redleafnew</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 区分中文和西文的“等”和“et al.”。2. 西文名缩写，名在前姓在后。3. 不显示 DOI。4. 网页显示URL。</summary>
@@ -93,7 +93,7 @@
   <!-- 专著主要责任者 -->
   <macro name="container-author">
     <names variable="editor">
-      <name />
+      <name/>
       <substitute>
         <names variable="editorial-director"/>
         <names variable="collection-editor"/>
@@ -190,25 +190,25 @@
   </macro>
   <!-- 会议论文的出版项 -->
   <macro name="publishing-paper-conference">
-      <group delimiter=": ">
-        <group delimiter=", ">
-          <group delimiter=": ">
-            <text variable="publisher-place"/>
-            <text variable="publisher"/>
-          </group>
-          <!-- 非电子资源显示“出版年” -->
-          <choose>
-            <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
-              <text macro="issued-year"/>
-            </if>
-            <else-if variable="URL DOI" match="none">
-              <text macro="issued-year"/>
-            </else-if>
-          </choose>
+    <group delimiter=": ">
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
         </group>
-        <text variable="page"/>
+        <!-- 非电子资源显示“出版年” -->
+        <choose>
+          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+            <text macro="issued-year"/>
+          </if>
+          <else-if variable="URL DOI" match="none">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
       </group>
-    </macro>
+      <text variable="page"/>
+    </group>
+  </macro>
   <!-- 专著的出版项，无日期，用于thesis -->
   <macro name="publishing-thesis">
     <group delimiter=": ">
@@ -318,7 +318,7 @@
           <choose>
             <if variable="archive">
               <text value="A"/>
-            </if >
+            </if>
             <else>
               <text value="M"/>
             </else>
@@ -394,7 +394,7 @@
       <text macro="url-doi"/>
     </group>
   </macro>
-   <!-- 专著和电子资源无URL，用于学位论文 -->
+  <!-- 专著和电子资源无URL，用于学位论文 -->
   <macro name="monograph-layout-thesis">
     <group delimiter=". " suffix=".">
       <text macro="author"/>
@@ -405,25 +405,25 @@
       <!-- <text macro="url-doi"/> -->
     </group>
   </macro>
-<!-- 会议论文 -->
-<macro name="paper-conference-layout">
-  <group delimiter=". " suffix=".">
-    <text macro="author"/>
-    <group delimiter="//">
-      <group delimiter=". ">
-        <text macro="title"/>
-        <text macro="secondary-contributor"/>
+  <!-- 会议论文 -->
+  <macro name="paper-conference-layout">
+    <group delimiter=". " suffix=".">
+      <text macro="author"/>
+      <group delimiter="//">
+        <group delimiter=". ">
+          <text macro="title"/>
+          <text macro="secondary-contributor"/>
+        </group>
+        <group delimiter=". ">
+          <text macro="container-author"/>
+          <text macro="container-title"/>
+        </group>
       </group>
-      <group delimiter=". ">
-        <text macro="container-author"/>
-        <text macro="container-title"/>
-      </group>
+      <text macro="edition"/>
+      <text macro="publishing-paper-conference"/>
+      <!-- <text macro="url-doi"/> -->
     </group>
-    <text macro="edition"/>
-    <text macro="publishing-paper-conference"/>
-    <!-- <text macro="url-doi"/> -->
-  </group>
-</macro>
+  </macro>
   <!-- 专著中的析出文献 -->
   <macro name="chapter-in-book-layout">
     <group delimiter=". " suffix=".">
@@ -452,15 +452,15 @@
       <!-- <text macro="url-doi"/> -->
     </group>
   </macro>
-    <!-- 标准bill用 -->
-    <macro name="bill-standard-layout">
-      <group delimiter=". " suffix=".">
-        <text macro="author"/>
-        <text macro="title"/>
-        <text macro="bill-standard-publishing"/>
-        <!-- <text macro="url-doi"/> -->
-      </group>
-    </macro>
+  <!-- 标准bill用 -->
+  <macro name="bill-standard-layout">
+    <group delimiter=". " suffix=".">
+      <text macro="author"/>
+      <text macro="title"/>
+      <text macro="bill-standard-publishing"/>
+      <!-- <text macro="url-doi"/> -->
+    </group>
+  </macro>
   <!-- 专利文献 -->
   <macro name="patent-layout">
     <group delimiter=". " suffix=".">
@@ -479,7 +479,8 @@
       <if type="article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
-      <else-if type="bill">  <!-- 用于标准显示 -->
+      <else-if type="bill">
+        <!-- 用于标准显示 -->
         <text macro="bill-standard-layout"/>
       </else-if>
       <else-if type="patent">
@@ -489,11 +490,11 @@
         <text macro="monograph-layout"/>
       </else-if>
       <else-if type="paper-conference" variable="container-title" match="any">
-              <text macro="paper-conference-layout"/>
+        <text macro="paper-conference-layout"/>
       </else-if>
       <else-if type="report" match="any">
         <text macro="monograph-layout-thesis"/>
-    </else-if>
+      </else-if>
       <else-if type="thesis" match="any">
         <text macro="monograph-layout-thesis"/>
       </else-if>

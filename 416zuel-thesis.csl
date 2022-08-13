@@ -188,9 +188,9 @@
   <macro name="title">
     <text variable="title" text-case="title"/>
     <choose>
-            <if type="bill broadcast legal_case legislation patent report song" match="any">
-              <text variable="number" prefix=": "/>
-            </if>
+      <if type="bill broadcast legal_case legislation patent report song" match="any">
+        <text variable="number" prefix=": "/>
+      </if>
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
@@ -282,16 +282,16 @@
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". " delimiter=", ">
-         <!-- <choose>
+          <!-- <choose>
             <if variable="container-title-short">
               <text variable="container-title-short" text-case="title" font-style="normal"/>
               <text macro="serial-information" prefix=", "/>
             </if>
             <else> -->
-              <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
-              <text macro="serial-information" suffix=""/>
-              <text macro="publishing"/>
-            <!-- </else>
+          <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
+          <text macro="serial-information" suffix=""/>
+          <text macro="publishing"/>
+          <!-- </else>
           </choose> -->
         </group>
       </else-if>

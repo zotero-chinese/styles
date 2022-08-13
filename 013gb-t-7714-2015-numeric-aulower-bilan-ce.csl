@@ -159,9 +159,9 @@
   <macro name="title">
     <text variable="title"/>
     <choose>
-        <if type="bill broadcast legal_case legislation patent report song" match="any">
-          <text variable="number" prefix=": "/>
-        </if>
+      <if type="bill broadcast legal_case legislation patent report song" match="any">
+        <text variable="number" prefix=": "/>
+      </if>
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
@@ -173,64 +173,65 @@
     </group>
   </macro>
   <macro name="bib-entry">
-      <text macro="author" suffix=". "/>
-      <text macro="title"/>
-      <choose>
-        <if type="book bill chapter legislation paper-conference thesis" match="any">
-          <text macro="editor" prefix=". "/>
+    <text macro="author" suffix=". "/>
+    <text macro="title"/>
+    <choose>
+      <if type="book bill chapter legislation paper-conference thesis" match="any">
+        <text macro="editor" prefix=". "/>
+        <choose>
+          <if variable="container-title">
+            <text value="//"/>
+            <text macro="container-author" suffix=". "/>
+            <text variable="container-title" suffix=". " text-case="title"/>
+          </if>
+          <else>
+            <text value=". "/>
+          </else>
+        </choose>
+        <text macro="edition" suffix=". "/>
+        <text macro="publishing"/>
+      </if>
+      <else-if type="report" match="any">
+        <!-- 报告Report -->
+        <group delimiter=". " prefix=".">
+          <choose>
+            <if variable="issued">
+              <text macro="issued-date" prefix="（" suffix="）"/>
+            </if>
+          </choose>
+          <!-- 如果有日期则添加 -->
+          <text macro="accessed-date"/>
+          <choose>
+            <if variable="URL">
+              <text variable="URL"/>
+            </if>
+          </choose>
+          <!-- 如果有网址则添加 -->
+        </group>
+      </else-if>
+      <else-if type="article-journal article-magazine article-newspaper" match="any">
+        <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text value="//"/>
-              <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title" text-case="title"/>
+              <text macro="serial-information" prefix=", "/>
             </if>
             <else>
-              <text value=". "/>
+              <text macro="serial-information" suffix=". "/>
+              <text macro="publishing"/>
             </else>
           </choose>
-          <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
-        </if>
-        <else-if type="report" match="any">  <!-- 报告Report -->
-             <group delimiter=". " prefix=".">
-                <choose>
-                  <if variable="issued">
-                      <text macro="issued-date" prefix="（" suffix="）"/>
-                  </if>
-                </choose>
-                <!-- 如果有日期则添加 -->
-                <text macro="accessed-date"/>
-                <choose>
-                  <if variable="URL">
-                    <text variable="URL"/>
-                  </if>
-                </choose>
-                <!-- 如果有网址则添加 -->
-              </group>
-          </else-if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <group prefix=". ">
-            <choose>
-              <if variable="container-title">
-                <text variable="container-title" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
-              </if>
-              <else>
-                <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
-              </else>
-            </choose>
-          </group>
-        </else-if>
-        <else-if type="patent">
-          <text macro="issued-date" prefix=". "/>
-        </else-if>
-        <else>
-          <text macro="publishing" prefix=". "/>
-          <text macro="issued-date" prefix="(" suffix=")"/>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
+        </group>
+      </else-if>
+      <else-if type="patent">
+        <text macro="issued-date" prefix=". "/>
+      </else-if>
+      <else>
+        <text macro="publishing" prefix=". "/>
+        <text macro="issued-date" prefix="(" suffix=")"/>
+      </else>
+    </choose>
+    <text macro="accessed-date"/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
@@ -246,13 +247,13 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3">
     <layout suffix="." locale="en">
-     <text variable="citation-number" prefix="[" suffix="] "/>
-     <text macro="bib-entry"/>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="bib-entry"/>
     </layout>
     <layout suffix=".">
-     <text variable="citation-number" prefix="[" suffix="] "/>
-     <text macro="bib-entry"/>
-     <text variable="title-short" display="block"  prefix="."/>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="bib-entry"/>
+      <text variable="title-short" display="block" prefix="."/>
     </layout>
   </bibliography>
 </style>

@@ -8,12 +8,12 @@
     <link href="http://www.zotero.org/styles/njau-thesis" rel="self"/>
     <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
     <author>
-        <name>韩小土</name>
-        <email>redleafnew@163.com</email>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
     </author>
     <contributor>
-        <name>牛耕田</name>
-        <email>buffalo_d@163.com</email>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
@@ -31,11 +31,11 @@
       </term>
     </terms>
   </locale>
-<locale>
-   <terms>
+  <locale>
+    <terms>
       <term name="page-range-delimiter">&#8211;</term>
-  </terms>
-</locale>
+    </terms>
+  </locale>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -53,9 +53,9 @@
       <name/>
     </names>
   </macro>
-  <macro name="bib-entry" >
-  <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
-      <text macro="author"/>
+  <macro name="bib-entry">
+    <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
+    <text macro="author"/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>

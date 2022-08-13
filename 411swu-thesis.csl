@@ -14,11 +14,11 @@
     <contributor>
       <name>Raymond</name>
     </contributor>
-	<contributor>
+    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </contributor>
-	<contributor>
+    <contributor>
       <name>洋芋</name>
       <email>chivele.lee@gmail.com</email>
     </contributor>
@@ -28,9 +28,9 @@
     <updated>2022-08-03T22:29:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-    <locale xml:lang="en">
+  <locale xml:lang="en">
     <terms>
-        <term name="page-range-delimiter">-</term>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <locale xml:lang="zh-CN">
@@ -139,7 +139,7 @@
           <text variable="publisher-place"/>
           <group delimiter=", ">
             <text variable="publisher"/>
-			       <text macro="issue-date-year"/>
+            <text macro="issue-date-year"/>
           </group>
         </group>
         <text variable="page" prefix=": "/>
@@ -148,7 +148,7 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-	  <text macro="issue-date-year"/>
+      <text macro="issue-date-year"/>
       <text variable="volume"/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
@@ -196,7 +196,7 @@
   </macro>
   <macro name="title">
     <text variable="title" text-case="capitalize-first"/>
-   <!-- <text variable="number" prefix=": "/> -->
+    <!-- <text variable="number" prefix=": "/> -->
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -216,8 +216,8 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
-			    </if>
+            <text variable="container-title" suffix=". " text-case="title"/>
+          </if>
           <else>
             <text value=". "/>
           </else>
@@ -225,33 +225,33 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
       </if>
-       <else-if type="paper-conference" match="any">
-            <text macro="editor" prefix=". "/>
-            <choose>
-              <if variable="event-title">
-                <text value="//"/>
-                <text variable="event-title" suffix=", "/>
-                <text variable="event-place" suffix=", "/>
-              </if>
-              <else>
-                <text value=". "/>
-              </else>
-            </choose>
-            <text macro="edition" suffix=". "/>
-            <text macro="publishing"/>
-            <text macro="serial-information" prefix=""/>
-          </else-if>
+      <else-if type="paper-conference" match="any">
+        <text macro="editor" prefix=". "/>
+        <choose>
+          <if variable="event-title">
+            <text value="//"/>
+            <text variable="event-title" suffix=", "/>
+            <text variable="event-place" suffix=", "/>
+          </if>
+          <else>
+            <text value=". "/>
+          </else>
+        </choose>
+        <text macro="edition" suffix=". "/>
+        <text macro="publishing"/>
+        <text macro="serial-information" prefix=""/>
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
           <choose>
             <if variable="container-title-short">
-                <text variable="container-title-short" font-style="italic" suffix="" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
+              <text variable="container-title-short" font-style="italic" suffix="" text-case="title"/>
+              <text macro="serial-information" prefix=", "/>
             </if>
-             <else>
-                <text variable="container-title" font-style="italic" suffix="" text-case="title"/>
-                <text macro="serial-information" prefix=", "/>
-                <text macro="publishing"/>
+            <else>
+              <text variable="container-title" font-style="italic" suffix="" text-case="title"/>
+              <text macro="serial-information" prefix=", "/>
+              <text macro="publishing"/>
             </else>
           </choose>
         </group>
@@ -285,7 +285,7 @@
         </group>
       </group>
     </layout>
-   <layout locale="" prefix="（" suffix="）" delimiter="; ">
+    <layout locale="" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>

@@ -31,23 +31,23 @@
       </term>
     </terms>
   </locale>
-<locale>
-   <terms>
+  <locale>
+    <terms>
       <term name="page-range-delimiter">&#8211;</term>
-  </terms>
-</locale>
+    </terms>
+  </locale>
   <macro name="title">
     <text variable="title"/>
     <choose>
-        <if type="bill broadcast legal_case legislation patent report song" match="any">
-           <text variable="number" prefix=": "/>
-        </if>
+      <if type="bill broadcast legal_case legislation patent report song" match="any">
+        <text variable="number" prefix=": "/>
+      </if>
     </choose>
   </macro>
-  <macro name="bib-entry" >
-  <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
-      <!-- <text macro="author" suffix=". "/> -->
-      <text macro="title"/>
+  <macro name="bib-entry">
+    <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
+    <!-- <text macro="author" suffix=". "/> -->
+    <text macro="title"/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
@@ -68,7 +68,7 @@
     </layout> -->
     <layout>
       <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
-      <text macro="bib-entry" />
+      <text macro="bib-entry"/>
     </layout>
   </bibliography>
 </style>
