@@ -62,7 +62,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-cn">
+  <macro name="author-zh">
     <choose>
       <if variable="author">
         <names variable="author">
@@ -156,7 +156,7 @@
       </if>
     </choose>
   </macro>
-  <macro name="publishing-cn">
+  <macro name="publishing-zh">
     <choose>
       <if variable="publisher">
         <group delimiter=": ">
@@ -177,7 +177,7 @@
     <text term="page" form="short"/>
     <text variable="page"/>
   </macro>
-  <macro name="serial-information-cn">
+  <macro name="serial-information-zh">
     <group delimiter="，">
       <text variable="issue" prefix="第" suffix="期"/>
       <text variable="page" prefix="第" suffix="页"/>
@@ -186,7 +186,7 @@
   <macro name="title">
     <text variable="title" text-case="title" quotes="true"/>
   </macro>
-  <macro name="title-cn">
+  <macro name="title-zh">
     <text variable="title" prefix="《" suffix="》"/>
   </macro>
   <macro name="bib-full-en" suffix=".">
@@ -240,9 +240,9 @@
     </choose>
   </macro>
   <macro name="bib-full" suffix="。">
-    <text macro="author-cn" suffix="，"/>
+    <text macro="author-zh" suffix="，"/>
     <text macro="issue-date-year" suffix=""/>
-    <text macro="title-cn" prefix="，"/>
+    <text macro="title-zh" prefix="，"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="editor" prefix=". "/>
@@ -257,7 +257,7 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing-cn"/>
+        <text macro="publishing-zh"/>
       </if>
       <else-if type="thesis">
         <group delimiter="" prefix="，">
@@ -271,10 +271,10 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" prefix="《" suffix="》"/>
-              <text macro="serial-information-cn" prefix=""/>
+              <text macro="serial-information-zh" prefix=""/>
             </if>
             <else>
-              <text macro="serial-information-cn" prefix="" suffix="。"/>
+              <text macro="serial-information-zh" prefix="" suffix="。"/>
             </else>
           </choose>
         </group>

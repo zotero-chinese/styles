@@ -57,7 +57,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-cn">
+  <macro name="author-zh">
     <choose>
       <if variable="author">
         <names variable="author">
@@ -152,7 +152,7 @@
     </choose>
   </macro>
 <!-- 中文出版社 -->
-<macro name="publishing-cn">
+<macro name="publishing-zh">
     <choose>
       <if variable="publisher">
         <group delimiter=": ">
@@ -173,7 +173,7 @@
     </group>
     <text variable="page" prefix=", "/><!--  期不显示-->
   </macro>
- <macro name="serial-information-cn">
+ <macro name="serial-information-zh">
     <group delimiter="">
         <!--<text macro="issue-date-year" suffix="年"/>-->
        <!-- <text variable="volume" prefix=""/> -->
@@ -185,7 +185,7 @@
     <text variable="title" prefix="“" suffix="”"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
-<macro name="title-cn">
+<macro name="title-zh">
     <text variable="title" prefix="《" suffix="》"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
@@ -244,9 +244,9 @@
  </macro>
   <!-- 中文文末显示设置-->
   <macro name="bib-full" suffix="。">
-    <text macro="author-cn" suffix="，"/>
+    <text macro="author-zh" suffix="，"/>
    <text macro="issue-date-year" suffix=""/>
-    <text macro="title-cn" prefix="："/>
+    <text macro="title-zh" prefix="："/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="editor" prefix=". "/>
@@ -261,7 +261,7 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing-cn"/>
+        <text macro="publishing-zh"/>
       </if>
         <!-- 学位论文显示设置-->
       <else-if type="thesis">
@@ -276,10 +276,10 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" prefix="《" suffix="》"/>
-              <text macro="serial-information-cn" prefix=""/>
+              <text macro="serial-information-zh" prefix=""/>
             </if>
             <else>
-              <text macro="serial-information-cn" prefix="" suffix="。"/>
+              <text macro="serial-information-zh" prefix="" suffix="。"/>
               <!-- <text macro="publishing"/>-->
             </else>
           </choose>

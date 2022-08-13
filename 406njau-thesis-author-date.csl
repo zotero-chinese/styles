@@ -57,7 +57,7 @@
             </else>
         </choose>
     </macro>
-    <macro name="author-cn">
+    <macro name="author-zh">
         <choose>
             <if variable="author">
                 <names variable="author">
@@ -159,7 +159,7 @@
         <text variable="issue" prefix="(" suffix=")" />
         <text variable="page" prefix=": " />
     </macro>
-    <macro name="publishing-cn">
+    <macro name="publishing-zh">
         <choose>
             <if variable="publisher">
                 <group delimiter=": ">
@@ -173,7 +173,7 @@
             </if>
         </choose>
     </macro>
-    <macro name="serial-information-cn">
+    <macro name="serial-information-zh">
         <group delimiter=", ">
             <text variable="volume" prefix=", " />
         </group>
@@ -232,7 +232,7 @@
             </choose>
         </group>
     </macro>
-    <macro name="title-cn">
+    <macro name="title-zh">
         <text variable="title" font-style="normal" />
         <text variable="number" prefix=": " />
         <group delimiter="/" prefix="[" suffix="]">
@@ -244,7 +244,7 @@
             </choose>
         </group>
     </macro>
-    <macro name="container-title-cn">
+    <macro name="container-title-zh">
         <text variable="container-title" />
     </macro>
     <macro name="container-title-en">
@@ -294,9 +294,9 @@
         </choose>
         <text />
     </macro>
-    <macro name="bib-full-cn" suffix=".">
-        <text macro="author-cn" suffix="." />
-        <text macro="title-cn" />
+    <macro name="bib-full-zh" suffix=".">
+        <text macro="author-zh" suffix="." />
+        <text macro="title-zh" />
         <choose>
             <if type="book bill chapter legislation paper-conference report thesis" match="any">
                 <text macro="editor" prefix=". " />
@@ -304,25 +304,25 @@
                     <if variable="container-title">
                         <text value="//" />
                         <text macro="container-author" suffix=". " />
-                        <text macro="container-title-cn" suffix=". " text-case="title" />
+                        <text macro="container-title-zh" suffix=". " text-case="title" />
                     </if>
                     <else>
                         <text value=". " />
                     </else>
                 </choose>
                 <text macro="edition" suffix=". " />
-                <text macro="publishing-cn" />
+                <text macro="publishing-zh" />
             </if>
             <else-if type="article-journal article-magazine article-newspaper" match="any">
                 <group prefix=". ">
                     <choose>
                         <if variable="container-title">
-                            <text macro="container-title-cn" text-case="title" font-style="normal" suffix="," />
+                            <text macro="container-title-zh" text-case="title" font-style="normal" suffix="," />
                             <text macro="issue-date-year" prefix=" "/>
-                            <text macro="serial-information-cn" prefix="" />
+                            <text macro="serial-information-zh" prefix="" />
                         </if>
                         <else>
-                            <text macro="serial-information-cn" suffix=". " />
+                            <text macro="serial-information-zh" suffix=". " />
                             <text macro="publishing" />
                         </else>
                     </choose>
@@ -332,7 +332,7 @@
                 <text macro="issued-date" prefix=". " />
             </else-if>
             <else>
-                <text macro="publishing-cn" prefix=". " />
+                <text macro="publishing-zh" prefix=". " />
                 <text macro="issued-date" prefix="(" suffix=")" />
             </else>
         </choose>
@@ -374,7 +374,7 @@
             <text macro="bib-full" />
         </layout>
         <layout suffix=".">
-            <text macro="bib-full-cn" />
+            <text macro="bib-full-zh" />
         </layout>
     </bibliography>
 </style>

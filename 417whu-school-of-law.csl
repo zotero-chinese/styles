@@ -302,7 +302,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="full-contents-cn">
+  <macro name="full-contents-zh">
     <text macro="author" suffix="："/>
     <text macro="title" text-case="title"/>
     <choose>
@@ -408,10 +408,10 @@
           <text term="ibid"/>
         </else-if>
         <else-if position="subsequent">
-          <text macro="full-contents-cn"/>
+          <text macro="full-contents-zh"/>
         </else-if>
         <else>
-          <text macro="full-contents-cn"/>
+          <text macro="full-contents-zh"/>
         </else>
       </choose>
     </layout>
@@ -423,7 +423,7 @@
     </layout>
     <layout suffix="。">
       <text variable="citation-number" prefix="〔" suffix="〕"/>
-      <text macro="full-contents-cn"/>
+      <text macro="full-contents-zh"/>
     </layout>
   </bibliography>
 </style>

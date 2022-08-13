@@ -53,7 +53,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-cn">
+  <macro name="author-zh">
     <choose>
       <if variable="author">
         <names variable="author">
@@ -154,7 +154,7 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
- <macro name="serial-information-cn">
+ <macro name="serial-information-zh">
     <group delimiter=", ">
         <text macro="issue-date-year" suffix=""/>
        <!-- <text variable="volume" prefix=""/> -->
@@ -166,7 +166,7 @@
     <text variable="title" prefix="“" suffix=".”"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
-<macro name="title-cn">
+<macro name="title-zh">
     <text variable="title" prefix="“" suffix="”"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
@@ -217,9 +217,9 @@
  </macro>
   <!-- 中文文末显示设置-->
   <macro name="bib-full" suffix="。">
-    <text macro="author-cn" suffix=", "/>
+    <text macro="author-zh" suffix=", "/>
     <text macro="issue-date-year" suffix="："/>
-    <text macro="title-cn"/>
+    <text macro="title-zh"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report thesis" match="any">
         <text macro="editor" prefix=". "/>
@@ -241,10 +241,10 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" prefix="《" suffix="》"/>
-              <text macro="serial-information-cn" prefix="，"/>
+              <text macro="serial-information-zh" prefix="，"/>
             </if>
             <else>
-              <text macro="serial-information-cn" prefix="，" suffix="。"/>
+              <text macro="serial-information-zh" prefix="，" suffix="。"/>
               <text macro="publishing"/>
             </else>
           </choose>

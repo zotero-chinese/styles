@@ -145,7 +145,7 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-   <macro name="serial-information-cn">
+   <macro name="serial-information-zh">
      <group delimiter=": ">
       <text variable="issue" prefix="" suffix=""/>
       <text variable="page"/>
@@ -205,7 +205,7 @@
     </choose>
     <text macro="accessed-date"/>
   </macro>
-  <macro name="bib-full-cn">
+  <macro name="bib-full-zh">
     <group delimiter=". ">
       <text macro="author"/>
       <text macro="issue-date-year"/>
@@ -232,7 +232,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title"/>
-              <text macro="serial-information-cn" prefix=", "/>
+              <text macro="serial-information-zh" prefix=", "/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -286,7 +286,7 @@
       <text macro="bib-full"/>
     </layout>
     <layout suffix=".">
-      <text macro="bib-full-cn"/>
+      <text macro="bib-full-zh"/>
     </layout>
   </bibliography>
 </style>

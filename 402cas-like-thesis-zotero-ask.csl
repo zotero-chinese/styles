@@ -191,7 +191,7 @@
       </choose>
     </group>-->
   </macro>
-  <macro name="bib-entry-cn" >
+  <macro name="bib-entry-zh" >
    <text variable="citation-number" prefix="" suffix=". "/>
       <text macro="author" suffix=". "/>
       <text macro="title"/>
@@ -269,7 +269,7 @@
      <key variable="language" sort="ascending"/>
     </sort>
    <layout>
-    <text macro="bib-entry-cn" suffix=""/>
+    <text macro="bib-entry-zh" suffix=""/>
     </layout>
   </bibliography>
 </style>
