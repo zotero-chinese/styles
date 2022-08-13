@@ -38,8 +38,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name>
-          </name>
+          <name/>
         </names>
       </if>
       <else>
@@ -49,8 +48,7 @@
   </macro>
   <macro name="container-author">
     <names variable="container-author">
-      <name>
-      </name>
+      <name/>
     </names>
   </macro>
   <macro name="edition">
@@ -65,8 +63,7 @@
   </macro>
   <macro name="editor">
     <names variable="editor translator">
-      <name>
-      </name>
+      <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>

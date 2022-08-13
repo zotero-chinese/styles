@@ -72,8 +72,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-          </name>
+          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never"/>
         </names>
       </if>
     </choose>
@@ -88,8 +87,7 @@
   </macro>
   <macro name="container-author">
     <names variable="container-author reviewed-author">
-      <name>
-      </name>
+      <name/>
     </names>
   </macro>
   <macro name="edition">

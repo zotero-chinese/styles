@@ -55,8 +55,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name>
-      </name>
+      <name/>
       <substitute>
         <names variable="composer" />
         <names variable="illustrator" />

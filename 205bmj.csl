@@ -61,8 +61,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="long"  delimiter="" and="text" et-al-min="3">
-          </name>
+          <name form="long"  delimiter="" and="text" et-al-min="3"/>
         </names>
       </if>
       <else>
@@ -74,8 +73,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter=", " and="">
-          </name>
+          <name delimiter=", " and=""/>
         </names>
       </if>
       <else>
@@ -87,8 +85,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter=", " and="text" delimiter-precedes-et-al="contextual" delimiter-precedes-last="contextual"  et-al-min="3" initialize-with=". ">
-          </name>
+          <name delimiter=", " and="text" delimiter-precedes-et-al="contextual" delimiter-precedes-last="contextual"  et-al-min="3" initialize-with=". "/>
         </names>
       </if>
       <else>
@@ -98,8 +95,7 @@
   </macro>
   <macro name="container-author">
     <names variable="container-author">
-      <name>
-      </name>
+      <name/>
     </names>
   </macro>
   <macro name="edition">
@@ -114,8 +110,7 @@
   </macro>
   <macro name="editor">
     <names variable="editor translator">
-      <name>
-      </name>
+      <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>

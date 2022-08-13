@@ -71,8 +71,7 @@
   </macro>
   <macro name="editor">
     <names variable="editor translator">
-      <name>
-      </name>
+      <name/>
       <label form="short" prefix=", " />
     </names>
   </macro>

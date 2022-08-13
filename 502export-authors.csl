@@ -41,8 +41,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize="false">
-          </name>
+          <name initialize="false"/>
         </names>
       </if>
       <else>
@@ -52,8 +51,7 @@
   </macro>
   <macro name="container-author">
     <names variable="container-author">
-      <name>
-      </name>
+      <name/>
     </names>
   </macro>
 

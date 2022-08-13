@@ -50,8 +50,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize-with="." and="text" delimiter-precedes-last="always">
-          </name>
+          <name initialize-with="." and="text" delimiter-precedes-last="always"/>
         </names>
       </if>
       <else>
@@ -63,8 +62,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-          </name>
+          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never"/>
         </names>
       </if>
       <else>
@@ -76,8 +74,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" and="symbol">
-          </name>
+          <name form="short" and="symbol"/>
         </names>
       </if>
       <else>
@@ -89,8 +86,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter="、" and="text" delimiter-precedes-et-al="never">
-          </name>
+          <name delimiter="、" and="text" delimiter-precedes-et-al="never"/>
         </names>
       </if>
       <else>
@@ -100,8 +96,7 @@
   </macro>
   <macro name="container-author">
     <names variable="container-author">
-      <name>
-      </name>
+      <name/>
     </names>
   </macro>
   <macro name="edition">
@@ -116,8 +111,7 @@
   </macro>
   <macro name="editor">
     <names variable="editor translator">
-      <name>
-      </name>
+      <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>

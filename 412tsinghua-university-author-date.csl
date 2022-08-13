@@ -53,8 +53,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name>
-      </name>
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -132,8 +131,7 @@
   <!-- 专著主要责任者 -->
   <macro name="container-author">
     <names variable="editor">
-      <name>
-      </name>
+      <name/>
       <substitute>
         <names variable="editorial-director"/>
         <names variable="collection-editor"/>
@@ -222,8 +220,7 @@
   <!-- 其他责任者 -->
   <macro name="secondary-contributor">
     <names variable="translator">
-      <name>
-      </name>
+      <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
