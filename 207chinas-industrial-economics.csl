@@ -49,7 +49,7 @@
                 <names variable="author">
                     <name form="short" delimiter=" " and="text" et-al-min="3">
                         <et-al term="and others" />
-                        <name-part name="family" text-case="capitalize-first" />
+                        <name-part name="family" />
                     </name>
                 </names>
             </if>
@@ -63,7 +63,7 @@
             <if variable="author">
                 <names variable="author">
                     <name form="long" delimiter="" and="text" et-al-min="3">
-                        <name-part name="family" text-case="capitalize-first" />
+                        <name-part name="family" />
                     </name>
                 </names>
             </if>

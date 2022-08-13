@@ -47,7 +47,7 @@
       <if variable="author">
         <names variable="author">
           <name initialize-with="." and="symbol" delimiter-precedes-last="never">
-            <name-part name="family" text-case="capitalize-first"/>
+            <name-part name="family"/>
             <name-part name="given"/>
           </name>
         </names>
@@ -62,7 +62,7 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false" delimiter="、" delimiter-precedes-et-al="never">
-            <name-part name="family" text-case="capitalize-first"/>
+            <name-part name="family"/>
             <name-part name="given"/>
           </name>
         </names>
@@ -77,7 +77,7 @@
       <if variable="author">
         <names variable="author">
           <name form="short" delimiter=" " and="symbol" et-al-min="3">
-            <name-part name="family" text-case="capitalize-first"/>
+            <name-part name="family"/>
           </name>
         </names>
       </if>
@@ -91,7 +91,7 @@
       <if variable="author">
         <names variable="author">
           <name delimiter="" and="text" et-al-min="3">
-            <name-part name="family" text-case="capitalize-first"/>
+            <name-part name="family"/>
           </name>
         </names>
       </if>
@@ -103,7 +103,7 @@
   <macro name="container-author">
     <names variable="container-author">
       <name>
-        <name-part name="family" text-case="capitalize-first"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
     </names>
@@ -121,7 +121,7 @@
   <macro name="editor">
     <names variable="editor translator">
       <name>
-        <name-part name="family" text-case="capitalize-first"/>
+        <name-part name="family"/>
         <name-part name="given"/>
       </name>
       <label form="short" prefix=", "/>
