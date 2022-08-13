@@ -173,19 +173,15 @@
         <text variable="issue" prefix="(" suffix=")"/>
     </group>
     <text variable="page" prefix=", "/><!--  期不显示-->
-
   </macro>
-
  <macro name="serial-information-cn">
     <group delimiter="">
         <!--<text macro="issue-date-year" suffix="年"/>-->
        <!-- <text variable="volume" prefix=""/> -->
        <text variable="issue" prefix="第" suffix="期"/>
     </group>
-
     <!--  <text variable="page" prefix=": "/>-->
   </macro>
-
   <macro name="title">
     <text variable="title" prefix="“" suffix="”"/>
     <!-- comment <text variable="number" prefix=": "/> -->

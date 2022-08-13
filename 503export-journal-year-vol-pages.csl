@@ -122,10 +122,8 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-
   <macro name="bib-entry" >
   <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
-
       <choose>
         <if type="chapter thesis" match="any">
           <text macro="editor" prefix=". "/>

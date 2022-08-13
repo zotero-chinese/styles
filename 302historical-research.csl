@@ -26,7 +26,6 @@
   <locale xml:lang="en">
     <terms>
       <term name="ibid">Id.</term>
-
     </terms>
   </locale>
   <locale xml:lang="zh-CN">
@@ -40,10 +39,8 @@
       <!-- <term name="container-author" form="verb-short">著</term> -->
     </terms>
   </locale>
-
   <macro name="accessed-date-en">
     <date variable="accessed" delimiter="" prefix="" suffix="">
-
       <date-part name="month" form="short" suffix=" "/>
       <date-part name="day" suffix=", "/>
       <date-part name="year" suffix=""/>
@@ -146,7 +143,6 @@
       </else>
     </choose>
   </macro>
-
     <macro name="issue-date-year-en">
     <choose>
       <if variable="issued">
@@ -214,11 +210,9 @@
       <text variable="page-first" prefix="" suffix=", "/>
       <text variable="page" prefix="" suffix=""/>
       <text macro="issue-date-year" prefix="(" suffix=")"/>
-
     </group>
     <!-- <text variable="issue" prefix="第" suffix="期"/>删除期-->
    </macro>
-
   <macro name="serial-information">
     <group delimiter="">
       <text macro="issue-date-year" suffix="年"/>
@@ -288,7 +282,6 @@
                 <choose>
                   <if variable="container-title">
                     <text variable="container-title" text-case="title" prefix="" suffix=""/>
-
                   </if>
                   <else>
                    <!-- <text macro="serial-information" suffix=". "/>-->
@@ -419,7 +412,6 @@
             <text variable="DOI" prefix="DOI:"/>
           </group>-->
   </macro>
-
   <citation disambiguate-add-names="true">
     <layout locale="en" suffix="." delimiter="; ">
     <!---->

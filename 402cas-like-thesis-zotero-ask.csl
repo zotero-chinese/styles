@@ -182,9 +182,7 @@
   </macro>
   <macro name="title">
     <text variable="title"/>
-
     <!--  <text variable="number" prefix=": "/> -->
-
     <!-- <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -216,7 +214,6 @@
         </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="[" suffix="学位论文]. "/>
@@ -252,7 +249,6 @@
       </choose>
       <!--<text macro="accessed-date"/> 访问日期-->
   </macro>
-
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="issue-date-year" sort="descending"/>

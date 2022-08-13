@@ -36,8 +36,6 @@
       <term name="page-range-delimiter">&#8211;</term>
   </terms>
 </locale>
-
-
   <macro name="title">
     <text variable="title"/>
     <choose>
@@ -45,13 +43,11 @@
            <text variable="number" prefix=": "/>
         </if>
     </choose>
-
   </macro>
   <macro name="bib-entry" >
   <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
       <!-- <text macro="author" suffix=". "/> -->
       <text macro="title"/>
-
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>

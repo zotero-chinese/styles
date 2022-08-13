@@ -425,7 +425,6 @@
         <group delimiter=": ">
           <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
           <text variable="first-reference-note-number" prefix="同"/>
-
           <text variable="locator"/>
         </group>
       </else-if>

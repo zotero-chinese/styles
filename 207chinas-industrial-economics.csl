@@ -246,7 +246,6 @@
                             </choose>
                             <text macro="serial-information" prefix=", " />
                         </if>
-
                         <else>
                             <text macro="serial-information" suffix=". " />
                             <text macro="publishing" />

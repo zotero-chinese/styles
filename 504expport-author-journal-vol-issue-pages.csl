@@ -122,7 +122,6 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-
   <macro name="bib-entry" >
   <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="author" suffix=". "/>

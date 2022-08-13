@@ -202,7 +202,6 @@
             <text macro="issued-year" />
           </else-if>
         </choose>
-
       </group>
       <text variable="page" />
     </group>

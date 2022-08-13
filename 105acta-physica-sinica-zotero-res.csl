@@ -275,7 +275,6 @@
     <choose>
       <if variable="original-title">
         <text variable="original-title" suffix=" (in Chinese)"/>
-
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
           <text macro="issued-year"/>
@@ -324,7 +323,6 @@
       <text macro="publishing"/>
     </group>
   </macro>
-
   <!-- 连续出版物中的析出文献 -->
   <macro name="article-in-periodical-layout">
     <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->
@@ -369,7 +367,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 专利文献 -->
   <macro name="patent-layout">
     <!-- 如果是中文，在original-title有内容，添加original-title中的内容，即翻译的英文格式 -->

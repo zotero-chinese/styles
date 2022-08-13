@@ -313,7 +313,6 @@
           </choose>
         </group>
       </else>
-
     </choose>
   </macro>
   <!-- 连续出版物 -->
@@ -324,7 +323,6 @@
       <text macro="publishing" />
     </group>
   </macro>
-
   <!-- 连续出版物中的析出文献 -->
   <macro name="article-in-periodical-layout">
     <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->
@@ -369,7 +367,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 专利文献 -->
   <macro name="patent-layout">
     <!-- 如果是中文，在title-short有内容，添加title-short中的内容，即翻译的英文格式 -->

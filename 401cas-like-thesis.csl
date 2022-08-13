@@ -185,9 +185,7 @@
   </macro>
   <macro name="title">
     <text variable="title"/>
-
     <!--  <text variable="number" prefix=": "/> -->
-
     <!-- <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -219,7 +217,6 @@
         </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="[" suffix="学位论文]. "/>
@@ -277,7 +274,6 @@
         </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="(" suffix="dissertation). "/>
@@ -291,11 +287,9 @@
             </else-if><!--学位论文-->
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
-
                 <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
-
           </group>
         </else-if>
         <else-if type="patent">

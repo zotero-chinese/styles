@@ -296,11 +296,8 @@
               <else>
                 <text macro="serial-information" suffix=". "/>
                 <text macro="publishing"/>
-
-
               </else>
             </choose>
-
           </group>
         </else-if>
         <else-if type="patent">

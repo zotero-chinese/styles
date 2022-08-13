@@ -183,7 +183,6 @@
   </macro>
   <macro name="title">
     <text variable="title"/>
-
     <!--  <text variable="number" prefix=": "/> -->
     <!--
     <group delimiter="/" prefix="[" suffix="]">
@@ -217,7 +216,6 @@
         </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="[" suffix="学位论文]. "/>
@@ -275,7 +273,6 @@
         </if>
         <else-if type="thesis"><!--学位论文-->
               <group prefix=". ">
-
                    <!-- <text macro="serial-information" suffix=". "/>-->
                    <group delimiter="">
                       <text variable="genre" prefix="(" suffix="dissertation). "/>

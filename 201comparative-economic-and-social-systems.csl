@@ -148,7 +148,6 @@
       </if>
     </choose>
   </macro>
-
   <macro name="serial-information">
     <group delimiter=", " prefix=". ">
       <text variable="volume"/>
@@ -156,17 +155,14 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-
  <macro name="serial-information-cn">
     <group delimiter=", ">
         <text macro="issue-date-year" suffix=""/>
        <!-- <text variable="volume" prefix=""/> -->
        <text variable="issue" prefix="" suffix=""/>
     </group>
-
     <text variable="page" prefix=": "/>
   </macro>
-
   <macro name="title">
     <text variable="title" prefix="“" suffix=".”"/>
     <!-- comment <text variable="number" prefix=": "/> -->
