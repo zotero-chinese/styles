@@ -249,7 +249,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="1" et-al-use-first="1" line-spacing="1" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="1" et-al-use-first="1" second-field-align="flush">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry" suffix="."/>

@@ -144,7 +144,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout suffix="." locale="en En english English">
       <text variable="citation-number" prefix="[" suffix="]" />
       <text macro="author" suffix=". " />

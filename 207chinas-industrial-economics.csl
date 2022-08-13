@@ -332,7 +332,7 @@
             </group>
         </layout>
     </citation>
-    <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush">
+    <bibliography entry-spacing="0" second-field-align="flush">
         <sort>
             <!-- <key variable="language" sort="descending" /> -->
             <key variable="author" />

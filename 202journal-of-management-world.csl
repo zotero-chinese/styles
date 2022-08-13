@@ -335,7 +335,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" hanging-indent="true">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
         <key variable="language" sort="ascending"/>
         <key macro="author-intext"/>

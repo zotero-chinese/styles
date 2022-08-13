@@ -450,7 +450,7 @@
       </choose>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush">
+  <bibliography entry-spacing="0" second-field-align="flush">
     <layout locale="en" suffix=".">
       <text variable="citation-number" prefix="" suffix=""/>
       <text macro="full-contents-en"/>

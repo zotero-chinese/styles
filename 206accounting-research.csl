@@ -277,7 +277,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="400" et-al-use-first="400" line-spacing="1" hanging-indent="true">
+  <bibliography entry-spacing="0" et-al-min="400" et-al-use-first="400" hanging-indent="true">
     <sort>
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>

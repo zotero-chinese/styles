@@ -416,7 +416,7 @@
       </choose>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="en" suffix=".">
       <text variable="citation-number" prefix="〔" suffix="〕"/>
       <text macro="full-contents-en"/>
