@@ -479,7 +479,7 @@
       <if type="article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
-      <else-if type="bill">   <!-- 用于标准显示 -->
+      <else-if type="bill">  <!-- 用于标准显示 -->
         <text macro="bill-standard-layout"/>
       </else-if>
       <else-if type="patent">

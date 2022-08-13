@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="" sort-separator=" " default-locale="zh-CN">
-   <!-- 半成品，需要更多的文献类型测试，有需要请提供 投稿须知无法打开-->
+   <!-- 半成品，需要更多的文献类型测试，有需要请提供 投稿须知无法打开 -->
   <info>
     <title>Historical Research (note, 中文)</title>
     <title-short>Historical Research</title-short>
@@ -63,9 +63,9 @@
             </name>
         </names>
       </if>
-     <!--  <else>
+     <!-- <else>
         <text term="anonymous"/>
-      </else>-->
+      </else> -->
     </choose>
   </macro>
   <macro name="author">
@@ -75,9 +75,9 @@
             <name initialize="false" delimiter="、" delimiter-precedes-et-al="never"/>
         </names>
       </if>
-     <!--  <else>
+     <!-- <else>
         <text term="anonymous"/>
-      </else>-->
+      </else> -->
     </choose>
   </macro>
     <macro name="container-author-en">
@@ -113,14 +113,14 @@
       <label form="verb-short" prefix=", "/>
     </names>
   </macro>
-    <macro name="issued-date-en"><!--英文年月日  -->
+    <macro name="issued-date-en">  <!-- 英文年月日 -->
     <choose>
       <if variable="issued">
         <date variable="issued" delimiter="">
           <date-part name="month" form="short" suffix=" "/>
           <date-part name="day" suffix=", "/>
           <date-part name="year" suffix=""/>
-         <!--  <date-part name="day" form="numeric-leading-zeros"/>-->
+         <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
         </date>
       </if>
       <else>
@@ -128,14 +128,14 @@
       </else>
     </choose>
   </macro>
-  <macro name="issued-date"><!--中文年月日  -->
+  <macro name="issued-date">  <!-- 中文年月日 -->
     <choose>
       <if variable="issued">
         <date variable="issued" delimiter="">
           <date-part name="year" suffix="年"/>
           <date-part name="month" form="numeric" suffix="月"/>
           <date-part name="day" suffix="日"/>
-         <!--  <date-part name="day" form="numeric-leading-zeros"/>-->
+         <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
         </date>
       </if>
       <else>
@@ -167,7 +167,7 @@
     <choose>
       <if variable="publisher">
         <group delimiter=": ">
-          <!-- <text variable="publisher-place"/>  -->
+          <!-- <text variable="publisher-place"/> -->
           <group delimiter=" " prefix=", "  suffix="">
             <text variable="publisher"/>
             <text macro="issue-date-year-en"/>
@@ -211,12 +211,12 @@
       <text variable="page" prefix="" suffix=""/>
       <text macro="issue-date-year" prefix="(" suffix=")"/>
     </group>
-    <!-- <text variable="issue" prefix="第" suffix="期"/>删除期-->
+    <!-- <text variable="issue" prefix="第" suffix="期"/>删除期 -->
    </macro>
   <macro name="serial-information">
     <group delimiter="">
       <text macro="issue-date-year" suffix="年"/>
-    <!--  <text variable="volume" prefix="第" suffix="卷"/> 删除卷-->
+    <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
     <text variable="issue" prefix="" suffix="期"/>
     <text variable="page" prefix=", " suffix="页"/>
   </group>
@@ -227,11 +227,11 @@
   <macro name="title">
     <text variable="title" text-case="title" prefix="《" suffix="》" />
   </macro>
-  <!-- 英文引用格式-->
+  <!-- 英文引用格式 -->
  <macro name='full-contents-en'>
     <text macro="author-en" suffix="："/>
           <text macro="title-en" font-style="italic"/>
-          <choose>  <!-- 书籍-->
+          <choose>  <!-- 书籍 -->
             <if type="book bill chapter legislation paper-conference report" match="any">
               <text macro="editor" prefix=", "/>
               <choose>
@@ -253,7 +253,7 @@
                   <if variable="container-title">
                     <text variable="volume" prefix="" suffix=" "/>
                     <text variable="container-title" text-case="title" prefix="" suffix=""/>
-                    <text macro="serial-information-en" prefix=""/> <!--年前的前辍-->
+                    <text macro="serial-information-en" prefix=""/>  <!-- 年前的前辍 -->
                   </if>
                   <else>
                     <text macro="serial-information-en" suffix=". "/>
@@ -262,7 +262,7 @@
                 </choose>
               </group>
             </else-if>
-            <else-if type="article-newspaper">   <!-- 报纸-->
+            <else-if type="article-newspaper">  <!-- 报纸 -->
             <group prefix=", ">
               <choose>
                 <if variable="container-title">
@@ -276,30 +276,30 @@
                 </else>
               </choose>
             </group>
-         </else-if> <!-- 报纸-->
-            <else-if type="thesis"><!--英文学位论文-->
+         </else-if>  <!-- 报纸 -->
+            <else-if type="thesis">  <!-- 英文学位论文 -->
               <group prefix=", ">
                 <choose>
                   <if variable="container-title">
                     <text variable="container-title" text-case="title" prefix="" suffix=""/>
                   </if>
                   <else>
-                   <!-- <text macro="serial-information" suffix=". "/>-->
+                   <!-- <text macro="serial-information" suffix=". "/> -->
                    <group delimiter=" ">
                       <text variable="publisher" prefix="("/>
                       <text macro="issue-date-year-en" suffix=")"/>
-                      <!-- <text variable="genre" suffix=""/>-->
+                      <!-- <text variable="genre" suffix=""/> -->
                   </group>
-                   <!--  <text macro="publishing"/>-->
+                   <!-- <text macro="publishing"/> -->
                   </else>
                 </choose>
               </group>
-            </else-if><!--英文学位论文-->
+            </else-if>  <!-- 英文学位论文 -->
            <!-- <else-if type="patent">
               <text macro="issued-date" prefix="，"/>
-            </else-if>-->
-            <else-if type="webpage"><!--网页文献-->
-              <!--<text macro="title" prefix=". "/>>-->
+            </else-if> -->
+            <else-if type="webpage">  <!-- 网页文献 -->
+              <!-- <text macro="title" prefix=". "/>> -->
               <choose>
                <if variable="issued">
                 <text macro="issued-date-en" prefix=", "/>
@@ -313,13 +313,13 @@
               <text macro="issued-date-en" prefix="" suffix=""/>
             </else>
           </choose>
-         <!--  <text macro="accessed-date"/>
+         <!-- <text macro="accessed-date"/>
           <group delimiter=". " prefix=". ">
             <text variable="URL"/>
             <text variable="DOI" prefix="DOI:"/>
-          </group>-->
+          </group> -->
   </macro>
-    <!-- 中文引用格式-->
+    <!-- 中文引用格式 -->
   <macro name='full-contents-cn'>
     <text macro="author" suffix=""/>
           <text macro="title"/>
@@ -334,18 +334,18 @@
                 </if>
                 <!-- <else>
                   <text value=". "/>
-                </else>-->
+                </else> -->
               </choose>
               <text macro="edition" suffix="。"/>
               <text macro="publishing"/>
               <text variable="number-of-pages" prefix="，" suffix="页"/>
             </if>
-            <else-if type="article-journal article-magazine" match="any"> <!--期刊-->
+            <else-if type="article-journal article-magazine" match="any">  <!-- 期刊 -->
               <group prefix="，">
                 <choose>
                   <if variable="container-title">
                     <text variable="container-title" text-case="title" prefix="《" suffix="》"/>
-                    <text macro="serial-information" prefix=""/> <!--年前的前辍-->
+                    <text macro="serial-information" prefix=""/>  <!-- 年前的前辍 -->
                   </if>
                   <else>
                     <text macro="serial-information" suffix=". "/>
@@ -354,7 +354,7 @@
                 </choose>
               </group>
             </else-if>
-            <else-if type="article-newspaper">   <!-- 报纸-->
+            <else-if type="article-newspaper">  <!-- 报纸 -->
             <group prefix="，">
               <choose>
                 <if variable="container-title">
@@ -368,31 +368,31 @@
                 </else>
               </choose>
             </group>
-         </else-if> <!-- 报纸-->
-            <else-if type="thesis"><!--学位论文-->
+         </else-if>  <!-- 报纸 -->
+            <else-if type="thesis">  <!-- 学位论文 -->
               <group prefix="，">
                 <choose>
                   <if variable="container-title">
                     <text variable="container-title" text-case="title" prefix="《" suffix="》"/>
-                    <!--<text macro="serial-information" prefix=""/> 年前的前辍-->
+                    <!-- <text macro="serial-information" prefix=""/> 年前的前辍 -->
                   </if>
                   <else>
-                   <!-- <text macro="serial-information" suffix=". "/>-->
+                   <!-- <text macro="serial-information" suffix=". "/> -->
                    <group delimiter="">
                       <text variable="publisher"/>
                       <text macro="issue-date-year" suffix="年"/>
                       <text variable="genre" suffix="学位论文"/>
                   </group>
-                   <!--  <text macro="publishing"/>-->
+                   <!-- <text macro="publishing"/> -->
                   </else>
                 </choose>
               </group>
-            </else-if><!--学位论文-->
+            </else-if>  <!-- 学位论文 -->
            <!-- <else-if type="patent">
               <text macro="issued-date" prefix="，"/>
-            </else-if>-->
-            <else-if type="webpage"><!--网页文献-->
-              <!--<text macro="title" prefix=". "/>>-->
+            </else-if> -->
+            <else-if type="webpage">  <!-- 网页文献 -->
+              <!-- <text macro="title" prefix=". "/>> -->
               <choose>
                <if variable="issued">
                 <text macro="issued-date" prefix="，"/>
@@ -406,11 +406,11 @@
               <text macro="issued-date" prefix="" suffix=""/>
             </else>
           </choose>
-         <!--  <text macro="accessed-date"/>
+         <!-- <text macro="accessed-date"/>
           <group delimiter=". " prefix=". ">
             <text variable="URL"/>
             <text variable="DOI" prefix="DOI:"/>
-          </group>-->
+          </group> -->
   </macro>
   <citation disambiguate-add-names="true">
     <layout locale="en" suffix="." delimiter="; ">

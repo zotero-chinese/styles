@@ -45,7 +45,7 @@
     </choose>
   </macro>
   <macro name="bib-entry" >
-  <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
+  <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <!-- <text macro="author" suffix=". "/> -->
       <text macro="title"/>
   </macro>

@@ -123,7 +123,7 @@
     <text variable="page" prefix=": "/>
   </macro>
   <macro name="bib-entry" >
-  <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
+  <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <choose>
         <if type="chapter thesis" match="any">
           <text macro="editor" prefix=". "/>
@@ -140,7 +140,7 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
-        <else-if type="book"><!-- 专著添加页码-->
+        <else-if type="book">  <!-- 专著添加页码 -->
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -156,7 +156,7 @@
           <text macro="publishing"/>
           <text variable="number-of-pages" prefix=": "/>
         </else-if>
-        <else-if type="bill legislation"  match="any"><!-- 标准可暂文献类型-->
+        <else-if type="bill legislation"  match="any">  <!-- 标准可暂文献类型 -->
            <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -168,24 +168,24 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </else-if>
-        <else-if type="report" match="any"><!-- 报告Report-->
+        <else-if type="report" match="any">  <!-- 报告Report -->
              <group delimiter=". " prefix=".">
                 <choose>
                   <if variable="issued">
                       <text macro="issued-date" prefix=" (" suffix=") "/>
                   </if>
                 </choose>
-                <!--如果有日期则添加-->
+                <!-- 如果有日期则添加 -->
                 <text macro="accessed-date"/>
                 <choose>
                   <if variable="URL">
                     <text variable="URL"/>
                   </if>
                 </choose>
-                <!--如果有网址则添加-->
+                <!-- 如果有网址则添加 -->
               </group>
            </else-if>
-        <else-if type="paper-conference" match="any"><!-- 会议论文-->
+        <else-if type="paper-conference" match="any">  <!-- 会议论文 -->
             <text macro="editor" prefix=". "/>
             <choose>
               <if variable="container-title">
@@ -199,9 +199,9 @@
             </choose>
             <text macro="edition" suffix=". "/>
             <text macro="publishing"/>
-           <!-- <text macro="serial-information" prefix=""/>-->
+           <!-- <text macro="serial-information" prefix=""/> -->
           </else-if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">  <!--期刊-->
+        <else-if type="article-journal article-magazine article-newspaper" match="any">  <!-- 期刊 -->
           <group>
             <choose>
               <if variable="container-title">
@@ -215,11 +215,11 @@
             </choose>
           </group>
         </else-if>
-        <else-if type="patent"> <!--专利-->
+        <else-if type="patent">  <!-- 专利 -->
             <text variable="title"/>
              <text variable="number" prefix=" (" suffix=") "/>
         </else-if>
-        <else-if type="post-weblog webpage" match="any"> <!--webpage添加访问日期显示-->
+        <else-if type="post-weblog webpage" match="any">  <!-- webpage添加访问日期显示 -->
           <group prefix=". ">
             <text macro="container-title" prefix=". " suffix=". "/>
             <text macro="issued-date" prefix="(" suffix=")"/>
@@ -234,7 +234,7 @@
       </choose>
      <!--
       <text macro="accessed-date"/>
-     --> <!--删除访问日期显示-->
+     -->  <!-- 删除访问日期显示 -->
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>

@@ -161,11 +161,11 @@
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <!--<choose>
+      <!-- <choose>
         <if variable="URL">
           <text value="OL"/>
         </if>
-      </choose>-->
+      </choose> -->
     </group>
   </macro>
   <macro name="bib-entry">

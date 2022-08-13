@@ -218,7 +218,7 @@
   </macro>
   <macro name="full-contents-en">
     <text macro="author-en" suffix=", "/>
-      <!-- <text macro="title-en" font-style="italic"/>-->
+      <!-- <text macro="title-en" font-style="italic"/> -->
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="title-en"/>

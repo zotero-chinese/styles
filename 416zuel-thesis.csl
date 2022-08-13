@@ -287,12 +287,12 @@
               <text variable="container-title-short" text-case="title" font-style="normal"/>
               <text macro="serial-information" prefix=", "/>
             </if>
-            <else>-->
+            <else> -->
               <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
               <text macro="serial-information" suffix=""/>
               <text macro="publishing"/>
             <!-- </else>
-          </choose>-->
+          </choose> -->
         </group>
       </else-if>
       <else-if type="patent">

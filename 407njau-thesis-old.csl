@@ -206,11 +206,11 @@
           <text value="OL"/>
         </if>
       </choose>
-       --> <!--删除将文献文献类型加OL-->
+       -->  <!-- 删除将文献文献类型加OL -->
     </group>
   </macro>
   <macro name="bib-entry" >
-  <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
+  <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
@@ -233,7 +233,7 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
-        <else-if type="book"><!-- 专著添加页码-->
+        <else-if type="book">  <!-- 专著添加页码 -->
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -249,7 +249,7 @@
           <text macro="publishing"/>
           <text variable="number-of-pages" prefix=": "/>
         </else-if>
-        <else-if type="bill legislation"  match="any"><!-- 标准可暂借bill文献类型-->
+        <else-if type="bill legislation"  match="any">  <!-- 标准可暂借bill文献类型 -->
            <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -258,7 +258,7 @@
               <text macro="serial-information" prefix=""/>
             </if>
           </choose>
-          <choose><!-- 标准可暂借bill文献类型, 如果有网址则添加-->
+          <choose>  <!-- 标准可暂借bill文献类型, 如果有网址则添加 -->
             <if variable="URL">
               <text macro="accessed-date"/>
               <text variable="URL" prefix=". "/>
@@ -267,24 +267,24 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </else-if>
-        <else-if type="report" match="any"><!-- 报告Report-->
+        <else-if type="report" match="any">  <!-- 报告Report -->
              <group prefix=".">
                 <choose>
                   <if variable="issued">
                       <text macro="issued-date" prefix="（" suffix="）"/>
                   </if>
                 </choose>
-                <!--如果有日期则添加-->
+                <!-- 如果有日期则添加 -->
                   <choose>
                       <if variable="URL">
                         <text macro="accessed-date"/>
                         <text variable="URL" prefix=". "/>
                       </if>
                 </choose>
-                <!--如果有网址则添加-->
+                <!-- 如果有网址则添加 -->
               </group>
            </else-if>
-        <else-if type="paper-conference" match="any"><!-- 会议论文-->
+        <else-if type="paper-conference" match="any">  <!-- 会议论文 -->
             <text value="//"/>
             <text macro="editor" prefix=""  suffix=" "/>
             <choose>
@@ -321,7 +321,7 @@
         <else-if type="patent">
           <text macro="issued-date" prefix=". "/>
         </else-if>
-        <else-if type="post-weblog webpage" match="any"> <!--webpage添加访问日期显示-->
+        <else-if type="post-weblog webpage" match="any">  <!-- webpage添加访问日期显示 -->
           <group prefix=". ">
             <text variable="container-title" prefix=". " suffix=". "/>
             <text macro="issued-date" prefix="(" suffix=")"/>
@@ -336,7 +336,7 @@
       </choose>
      <!--
       <text macro="accessed-date"/>
-     --> <!--删除访问日期显示-->
+     -->  <!-- 删除访问日期显示 -->
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>

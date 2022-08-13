@@ -184,7 +184,7 @@
   </macro>
   <macro name="title">
     <text variable="title"/>
-    <!--  <text variable="number" prefix=": "/> -->
+    <!-- <text variable="number" prefix=": "/> -->
     <!-- <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -192,7 +192,7 @@
           <text value="OL"/>
         </if>
       </choose>
-    </group>-->
+    </group> -->
   </macro>
   <macro name="bib-entry-zh" >
    <text variable="citation-number" prefix="" suffix=". "/>
@@ -214,9 +214,9 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
-        <else-if type="thesis"><!--学位论文-->
+        <else-if type="thesis">  <!-- 学位论文 -->
               <group prefix=". ">
-                   <!-- <text macro="serial-information" suffix=". "/>-->
+                   <!-- <text macro="serial-information" suffix=". "/> -->
                    <group delimiter="">
                       <text variable="genre" prefix="[" suffix="学位论文]. "/>
                       <text variable="publisher-place" suffix=": "/>
@@ -224,9 +224,9 @@
                       <text variable="archive_location" prefix=" "/>
                       <text macro="issue-date-year" prefix="，"/>
                      </group>
-                   <!--  <text macro="publishing"/>-->
+                   <!-- <text macro="publishing"/> -->
               </group>
-            </else-if><!--学位论文-->
+            </else-if>  <!-- 学位论文 -->
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
             <choose>
@@ -249,7 +249,7 @@
           <text macro="issued-date" prefix="(" suffix=")"/>
         </else>
       </choose>
-      <!--<text macro="accessed-date"/> 访问日期-->
+      <!-- <text macro="accessed-date"/> 访问日期 -->
   </macro>
    <macro name="bib-entry-en" >
    <text variable="citation-number" prefix="" suffix=". "/>
@@ -271,9 +271,9 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
-        <else-if type="thesis"><!--学位论文-->
+        <else-if type="thesis">  <!-- 学位论文 -->
               <group prefix=". ">
-                   <!-- <text macro="serial-information" suffix=". "/>-->
+                   <!-- <text macro="serial-information" suffix=". "/> -->
                    <group delimiter="">
                       <text variable="genre" prefix="(" suffix="dissertation). "/>
                       <text variable="publisher-place" suffix=": "/>
@@ -281,9 +281,9 @@
                       <text variable="archive_location" prefix=" "/>
                       <text macro="issue-date-year" prefix="，"/>
                      </group>
-                   <!--  <text macro="publishing"/>-->
+                   <!-- <text macro="publishing"/> -->
               </group>
-            </else-if><!--学位论文-->
+            </else-if>  <!-- 学位论文 -->
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
                 <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
@@ -299,7 +299,7 @@
           <text macro="issued-date" prefix="(" suffix=")"/>
         </else>
       </choose>
-      <!--<text macro="accessed-date"/> 访问日期-->
+      <!-- <text macro="accessed-date"/> 访问日期 -->
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
     <sort>

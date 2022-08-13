@@ -209,11 +209,11 @@
         </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-    <!--  <choose>
+    <!-- <choose>
         <if variable="URL">
           <text value="OL"/>
         </if>
-      </choose>-->
+      </choose> -->
     </group>
   </macro>
   <macro name="bib-entry-zh" >
@@ -348,9 +348,9 @@
               <text variable="citation-number"/>
               <text value="]"/>
         </group>
-<!--       <group vertical-align="sup">
+<!-- <group vertical-align="sup">
           <text  variable="citation-number" prefix="[" suffix="]"/>
-        </group>-->
+        </group> -->
       </group>
     </layout>
   </citation>

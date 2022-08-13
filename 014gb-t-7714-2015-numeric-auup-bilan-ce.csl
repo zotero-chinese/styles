@@ -198,21 +198,21 @@
           <text macro="edition" suffix=". "/>
           <text macro="publishing"/>
         </if>
-        <else-if type="report" match="any"><!-- 报告Report-->
+        <else-if type="report" match="any">  <!-- 报告Report -->
              <group delimiter=". " prefix=".">
                 <choose>
                   <if variable="issued">
                       <text macro="issued-date" prefix="（" suffix="）"/>
                   </if>
                 </choose>
-                <!--如果有日期则添加-->
+                <!-- 如果有日期则添加 -->
                 <text macro="accessed-date"/>
                 <choose>
                   <if variable="URL">
                     <text variable="URL"/>
                   </if>
                 </choose>
-                <!--如果有网址则添加-->
+                <!-- 如果有网址则添加 -->
               </group>
         </else-if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">

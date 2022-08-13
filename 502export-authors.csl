@@ -54,7 +54,7 @@
     </names>
   </macro>
   <macro name="bib-entry" >
-  <!--  <text variable="citation-number" prefix="[" suffix="]"/> -->
+  <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="author"/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">

@@ -185,7 +185,7 @@
     </choose>
     <text macro="accessed-date" />
   </macro>
-  <!-- 专著的出版项 无日期-->
+  <!-- 专著的出版项 无日期 -->
   <macro name="publishing-no-date">
     <group delimiter=": ">
       <group delimiter=", ">
@@ -414,7 +414,7 @@
       <!-- <text macro="url-doi" /> -->
     </group>
   </macro>
-  <!-- 专著中的析出文献 用于会议论文-->
+  <!-- 专著中的析出文献 用于会议论文 -->
   <macro name="chapter-in-book-layout">
     <group delimiter=". " suffix=".">
       <text macro="author" />
