@@ -58,7 +58,7 @@
       <if variable="author">
         <names variable="author">
             <name initialize="false" initialize-with=".">
-             <group delimiter=""> <!---->
+             <group delimiter="">
               </group>
             </name>
         </names>
@@ -414,7 +414,6 @@
   </macro>
   <citation disambiguate-add-names="true">
     <layout locale="en" suffix="." delimiter="; ">
-    <!---->
       <choose>
         <if position="ibid-with-locator">
           <text term="ibid"/>
@@ -446,12 +445,9 @@
             <text macro="full-contents-cn"/>
         </else-if>
         <else>
-        <!---->
           <text macro="full-contents-cn"/>
-        <!---->
         </else>
       </choose>
-     <!---->
     </layout>
   </citation>
   <bibliography entry-spacing="0" line-spacing="1" second-field-align="flush">
