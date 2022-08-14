@@ -13,7 +13,7 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <updated>2022-08-05T11:49:00+08:00</updated>
+    <updated>2022-08-14T09:57:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -521,21 +521,25 @@
     </choose>
   </macro>
   <macro name="volume">
-    <text value="第"/>
-    <number variable="volume"/>
-    <label variable="volume"/>
+    <group>
+      <text value="第"/>
+      <number variable="volume"/>
+      <label variable="volume"/>
+    </group>
   </macro>
   <macro name="issue">
+    <group>
     <text value="第"/>
     <text variable="issue"/>
-    <choose>
-      <if type="chapter paper-conference" match="any">
-        <text value="辑"/>
-      </if>
-      <else>
-        <label variable="issue"/>
-      </else>
-    </choose>
+      <choose>
+        <if type="chapter paper-conference" match="any">
+          <text value="辑"/>
+        </if>
+        <else>
+          <label variable="issue"/>
+        </else>
+      </choose>
+    </group>
   </macro>
   <!-- 条文序号 -->
   <macro name="section">
@@ -583,7 +587,7 @@
             </choose>
           </if>
           <else>
-            <label variable="edition" form="short"/>
+            <text term="edition" form="short"/>
           </else>
         </choose>
       </else>
