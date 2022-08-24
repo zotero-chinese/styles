@@ -497,19 +497,11 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 显示效果：
 
 > <sup>[1-4]<sup>
-<blockquote>
-  <div class="csl-bib-body">
-<div class="csl-entry">
-[1]	Jansen J, de Vries S, van Schaik P. The Contextual Benchmark Method: Benchmarking E-Government Services. *Government Information Quarterly*, 2010, 27(3): 213-219.</div>
-    <div class="csl-entry">
-[2]	尹涛, 刘敬科, 赵思明, 等. 冷藏和热加工对鲢肌肉主要滋味活性物质的影响[J]. 华中农业大学学报, 2015,（01）.</div>
-    <div class="csl-entry">
-[3]	Jiang J, Meng T, Zhang Q. From Internet To Social Safety Net: The Policy Consequences Of Online Participation In China. *Governance*, 2019, 32(3): 531-546.</div>
-    <div class="csl-entry">
+> [1]	Jansen J, de Vries S, van Schaik P. The Contextual Benchmark Method: Benchmarking E-Government Services. *Government Information Quarterly*, 2010, 27(3): 213-219. 
+     
+[2]	尹涛, 刘敬科, 赵思明, 等. 冷藏和热加工对鲢肌肉主要滋味活性物质的影响[J]. 华中农业大学学报, 2015,（01）. 
+[3]	Jiang J, Meng T, Zhang Q. From Internet To Social Safety Net: The Policy Consequences Of Online Participation In China. *Governance*, 2019, 32(3): 531-546. 
 [4]	李震国, 端利涛, 吕本富. 智能化系统建设中的实用伦理规则设计原则[J]. 中国行政管理, 2022,（6）.
-</div>
-  </div>
-</blockquote>
 
 
 ## [201comparative-economic-and-social-systems.csl]
