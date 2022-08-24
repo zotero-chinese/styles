@@ -486,7 +486,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 </blockquote>
 
 ## [109chinese-public-administration.csl]
-[中国行政管理](http://www.cpaj.com.cn/ggzz_jj.shtml)样式，[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
+[《中国行政管理》](http://www.cpaj.com.cn/ggzz_jj.shtml)样式，[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
 
 1. 按照语言显示“等”或“et al.”；
 2. 姓名缩写不加点；
