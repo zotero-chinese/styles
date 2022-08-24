@@ -164,9 +164,9 @@
       <else>
         <group delimiter=": ">
           <group>
-            <group delimiter="">
+            <group delimiter=",">
               <text variable="container-title"/>
-              <text macro="issued-year"/>
+              <text macro="issued-year" prefix=" "/>
               <!-- <text variable="volume"/> -->
               <text variable="issue" prefix="（" suffix="）"/>
             </group>
@@ -279,6 +279,37 @@
     </group>
     <!-- <text macro="type-code" prefix="[" suffix="]"/> -->
   </macro>
+  <!-- 中文条目题名 -->
+  <macro name="title-cn">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="title" text-case="capitalize-all"/>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter paper-conference" match="none">
+              <text macro="book-volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation patent regulation report standard" match="any">
+              <text variable="number"/>
+            </if>
+          </choose>
+        </group>
+      </group>
+      <choose>
+        <if variable="container-title" type="chapter paper-conference" match="none">
+          <choose>
+            <if variable="event-date">
+              <text variable="event-place"/>
+              <date variable="event-date" form="text"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+    </group>
+    <text macro="type-code" prefix="[" suffix="]"/>
+  </macro>
   <!-- 文献类型标识 -->
   <macro name="type-code">
     <group delimiter="/">
@@ -376,6 +407,17 @@
       <text macro="url-doi"/>
     </group>
   </macro>
+   <!-- 中文专著和电子资源 -->
+   <macro name="monograph-layout-cn">
+    <group delimiter=". ">
+      <text macro="author"/>
+      <text macro="title-cn"/>
+      <text macro="secondary-contributor"/>
+      <text macro="edition"/>
+      <text macro="publishing"/>
+      <text macro="url-doi"/>
+    </group>
+  </macro>
   <!-- 专著中的析出文献 -->
   <macro name="chapter-in-book-layout">
     <group delimiter=". ">
@@ -383,6 +425,25 @@
       <group delimiter="//">
         <group delimiter=". ">
           <text macro="title"/>
+          <text macro="secondary-contributor"/>
+        </group>
+        <group delimiter=". ">
+          <text macro="container-author"/>
+          <text macro="container-booklike"/>
+        </group>
+      </group>
+      <text macro="edition"/>
+      <text macro="publishing"/>
+      <text macro="url-doi"/>
+    </group>
+  </macro>
+  <!-- 中文专著中的析出文献 -->
+  <macro name="chapter-in-book-layout-cn">
+    <group delimiter=". ">
+      <text macro="author"/>
+      <group delimiter="//">
+        <group delimiter=". ">
+          <text macro="title-cn"/>
           <text macro="secondary-contributor"/>
         </group>
         <group delimiter=". ">
@@ -405,6 +466,16 @@
       <text macro="url-doi"/>
     </group>
   </macro>
+   <!-- 中文连续出版物 -->
+   <macro name="periodical-layout-cn">
+    <group delimiter=". ">
+      <text macro="author"/>
+      <text macro="title-cn"/>
+      <text macro="year-volume-issue"/>
+      <text macro="publishing"/>
+      <text macro="url-doi"/>
+    </group>
+  </macro>
   <!-- 连续出版物中的析出文献 -->
   <macro name="article-in-periodical-layout">
     <group delimiter=". ">
@@ -418,7 +489,7 @@
   <macro name="article-in-periodical-layout-cn">
     <group delimiter=". ">
       <text macro="author"/>
-      <text macro="title"/>
+      <text macro="title-cn"/>
       <text macro="container-periodical-cn"/>
       <text macro="url-doi"/>
     </group>
@@ -428,6 +499,18 @@
     <group delimiter=". ">
       <text macro="author"/>
       <text macro="title"/>
+      <group>
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
+      </group>
+      <text macro="url-doi"/>
+    </group>
+  </macro>
+  <!-- 中文专利文献 -->
+  <macro name="patent-layout-cn">
+    <group delimiter=". ">
+      <text macro="author"/>
+      <text macro="title-cn"/>
       <group>
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
@@ -462,16 +545,16 @@
         <text macro="article-in-periodical-layout-cn"/>
       </if>
       <else-if type="periodical">
-        <text macro="periodical-layout"/>
+        <text macro="periodical-layout-cn"/>
       </else-if>
       <else-if type="patent">
-        <text macro="patent-layout"/>
+        <text macro="patent-layout-cn"/>
       </else-if>
       <else-if type="chapter paper-conference" variable="container-title" match="any">
-        <text macro="chapter-in-book-layout"/>
+        <text macro="chapter-in-book-layout-cn"/>
       </else-if>
       <else>
-        <text macro="monograph-layout"/>
+        <text macro="monograph-layout-cn"/>
       </else>
     </choose>
   </macro>
