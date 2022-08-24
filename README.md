@@ -485,6 +485,33 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   </div>
 </blockquote>
 
+## [109chinese-public-administration.csl]
+[中国行政管理](http://www.cpaj.com.cn/ggzz_jj.shtml)样式，[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
+
+1. 按照语言显示“等”或“et al.”；
+2. 姓名缩写不加点；
+3. 中文不加页码；
+4. 英文题目为首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体；
+5.中文显示文献标识，如[J]。
+
+显示效果：
+
+> <sup>[1-4]<sup>
+<blockquote>
+  <div class="csl-bib-body">
+<div class="csl-entry">
+[1]	Jansen J, de Vries S, van Schaik P. The Contextual Benchmark Method: Benchmarking E-Government Services. Government Information Quarterly, 2010, 27(3): 213-219.</div>
+    <div class="csl-entry">
+[2]	尹涛, 刘敬科, 赵思明, 等. 冷藏和热加工对鲢肌肉主要滋味活性物质的影响[J]. 华中农业大学学报, 2015,（01）.</div>
+    <div class="csl-entry">
+[3]	Jiang J, Meng T, Zhang Q. From Internet To Social Safety Net: The Policy Consequences Of Online Participation In China. Governance, 2019, 32(3): 531-546.</div>
+    <div class="csl-entry">
+[4]	李震国, 端利涛, 吕本富. 智能化系统建设中的实用伦理规则设计原则[J]. 中国行政管理, 2022,（6）.
+</div>
+  </div>
+</blockquote>
+
+
 ## [201comparative-economic-and-social-systems.csl]
 
 [《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -1221,6 +1248,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
 [108journal-of-nuclear-agricultural-sciences.csl]: 108journal-of-nuclear-agricultural-sciences.csl
+[109chinese-public-administration.csl]: 109chinese-public-administration.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
