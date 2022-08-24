@@ -164,12 +164,12 @@
       <else>
         <group delimiter=": ">
           <group>
-            <group delimiter=", ">
+            <group delimiter="">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <text variable="volume"/>
+              <!-- <text variable="volume"/> -->
+              <text variable="issue" prefix="（" suffix="）"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
           </group>
         </group>
       </else>
@@ -227,7 +227,7 @@
           </else-if>
         </choose>
       </group>
-        <text variable="page"/>
+      <text variable="page"/>
     </group>
     <choose>
       <!-- 纯电子资源显示“更新或修改日期” -->
@@ -277,7 +277,7 @@
         </if>
       </choose>
     </group>
-    <text macro="type-code" prefix="[" suffix="]"/>
+    <!-- <text macro="type-code" prefix="[" suffix="]"/> -->
   </macro>
   <!-- 文献类型标识 -->
   <macro name="type-code">
