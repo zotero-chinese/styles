@@ -492,7 +492,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 2. 姓名缩写不加点；
 3. 中文不加页码；
 4. 英文题目为首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体；
-5.中文显示文献标识，如[J]。
+5. 中文显示文献标识，如[J]。
 
 显示效果：
 
