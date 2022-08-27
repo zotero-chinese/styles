@@ -36,6 +36,8 @@
     <terms>
       <term name="article-locator" form="short">条</term>
       <term name="accessed">访问</term>
+      <term name="compiler">整理</term>
+      <term name="compiler" form="short">整理</term>
       <term name="edition" form="short">版</term>
       <term name="editor" form="short">主编</term>
       <term name="ibid">同上注</term>
@@ -138,6 +140,7 @@
         <if type="article-journal article-magazine" match="any">
           <group delimiter="，">
             <text macro="title"/>
+            <text macro="secondary-contributor"/>
             <text macro="container"/>
             <text macro="locator"/>
           </group>
@@ -145,6 +148,7 @@
         <else-if type="article-newspaper">
           <group delimiter="，">
             <text macro="title"/>
+            <text macro="secondary-contributor"/>
             <text macro="container"/>
             <text macro="locator-or-page"/>
           </group>
@@ -152,7 +156,7 @@
         <else-if type="chapter paper-conference" match="any">
           <group delimiter="，">
             <text macro="title"/>
-            <text macro="translator"/>
+            <text macro="secondary-contributor"/>
             <text macro="container"/>
             <text macro="publisher"/>
             <text macro="locator"/>
@@ -161,7 +165,7 @@
         <else-if type="book thesis" match="any">
           <group delimiter="，">
             <text macro="title"/>
-            <text macro="translator"/>
+            <text macro="secondary-contributor"/>
             <text macro="publisher"/>
             <text macro="locator"/>
           </group>
@@ -289,7 +293,7 @@
         <else-if type="book thesis">
           <group delimiter=", ">
             <text macro="title-en"/>
-            <text macro="translator-en"/>
+            <text macro="secondary-contributor-en"/>
             <text variable="publisher"/>
             <text macro="issuance-en"/>
             <text macro="locator-en"/>
@@ -416,16 +420,23 @@
       </else>
     </choose>
   </macro>
-  <macro name="translator">
-    <names variable="translator">
+  <!-- 其他贡献者(翻译、 整理、校对) -->
+  <macro name="secondary-contributor">
+    <names variable="translator" delimiter="，">
       <name delimiter="、"/>
       <label form="short"/>
+      <substitute>
+        <names variable="compiler"/>
+      </substitute>
     </names>
   </macro>
-  <macro name="translator-en">
-    <names variable="translator">
+  <macro name="secondary-contributor-en">
+    <names variable="translator" delimiter=", ">
       <label form="verb" suffix=" "/>
       <name initialize="false" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <substitute>
+        <names variable="compiler"/>
+      </substitute>
     </names>
   </macro>
   <macro name="editor">
