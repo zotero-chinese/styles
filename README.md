@@ -503,6 +503,18 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [3]	Jiang J, Meng T, Zhang Q. From Internet To Social Safety Net: The Policy Consequences Of Online Participation In China. *Governance*, 2019, 32(3): 531-546. </br>
 > [4]	李震国, 端利涛, 吕本富. 智能化系统建设中的实用伦理规则设计原则[J]. 中国行政管理, 2022,（6）.</br>
 
+## [110food-science.csl]
+
+[《食品科学》](https://www.spkx.net.cn/journalx_spkx/authorLogOn.action)样式，[000gb-t-7714-2015-numeric-bilingual.csl]基础上修改，国家标准暂时借用`Bill`样式，书籍显示页码。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+
+显示效果：
+> [1]	陈宏强. 异质鸡胸肉肉糜加工品质及其改善研究[D]. 南京: 南京农业大学, 2018.</br>
+> [2]	中华人民共和国农业部. 鲜蛋等级规格：NY/T 1758-2009[S]. 2009: 1.</br>
+> [3]	SHAQOUR A, ONO T, HAGISHIMA A, et al. Electrical demand aggregation effects on the performance of deep learning-based short-term load forecasting of a residential building[J/OL]. Energy and AI, 2022, 8: 100141[2022-04-29]. https://api.elsevier.com/content/article/PII:S2666546822000052?httpAccept=text/xml. DOI:10.1016/j.egyai.2022.100141.</br>
+> [4]	赵宇鹏, 卜坚珍, 于立梅, 等. 鸡肉的营养成分和质构特性研究[J/OL]. 食品安全质量检测学报, 2016, 10(7): 4096-4100[2018-06-29]. http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=0&CurRec=25&filename=SPAJ201610041&dbname=CJFDLAST2016&dbcode=CJFQ&pr=&urlid=&yx=&v=MDk2NzhSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZZZVJtRnlqa1Vyek9OajNLWkxHNEg5Zk5yNDlCWlk=.</br>
+
+
+> <sup>[1-4]<sup>
 
 ## [201comparative-economic-and-social-systems.csl]
 
@@ -1250,6 +1262,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
 [208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
 [209sociological-studies.csl]: 209sociological-studies.csl
+[110food-science.csl]: 110food-science.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
