@@ -14,13 +14,13 @@
     <category citation-format="note"/>
     <category field="law"/>
     <summary>1. 文献的语言默认为英语，中文文献需要在 language 字段填写 zh 或 zh-CN；2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；3. 法文的支持尚不完善，需要测试反馈；4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段。</summary>
-    <updated>2022-09-01T21:41:00+08:00</updated>
+    <updated>2022-09-03T21:55:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
-    <date form="text" delimiter=".">
-      <date-part name="day"/>
-      <date-part name="month" form="numeric"/>
+    <date form="text" delimiter=" ">
+      <date-part name="day" form="ordinal"/>
+      <date-part name="month"/>
       <date-part name="year"/>
     </date>
   </locale>
@@ -36,7 +36,6 @@
     </terms>
   </locale>
   <locale xml:lang="fr">
-    <style-options punctuation-in-quote="false"/>
     <date form="text" delimiter=" ">
       <date-part name="day"/>
       <date-part name="month"/>
@@ -81,6 +80,7 @@
     </terms>
   </locale>
   <locale>
+    <style-options punctuation-in-quote="false"/>
     <terms>
       <term name="page-range-delimiter">-</term>
     </terms>
@@ -141,7 +141,7 @@
   </macro>
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
       <substitute>
         <names variable="editor"/>
@@ -151,7 +151,7 @@
   <!-- 略写文献时，标示文献性质的“编”“主编”等可以省略 -->
   <macro name="author-short-zh">
     <names variable="author">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="editor"/>
       </substitute>
@@ -169,11 +169,7 @@
           <group delimiter=" " prefix="(" suffix=")">
             <text term="retrieved"/>
             <text value="am"/>
-            <date variable="accessed" delimiter=" ">
-              <date-part name="day" form="ordinal"/>
-              <date-part name="month"/>
-              <date-part name="year"/>
-            </date>
+            <date variable="accessed" form="text"/>
           </group>
         </else>
       </choose>
@@ -841,11 +837,21 @@
   </macro>
   <macro name="title-fr">
     <choose>
-      <if type="book">
+      <if type="book report thesis" match="any">
         <text variable="title" font-style="italic"/>
       </if>
       <else-if type="article-journal article-newspaper article-magazine chapter paper-conference" match="any">
         <text variable="title" quotes="true"/>
+      </else-if>
+      <else-if type="post post-weblog webpage" match="any">
+        <choose>
+          <if variable="container-title">
+            <text variable="title" quotes="true"/>
+          </if>
+          <else>
+            <text variable="title"/>
+          </else>
+        </choose>
       </else-if>
       <else>
         <text variable="title"/>
@@ -857,7 +863,10 @@
       <if type="book">
         <group prefix="『" suffix="』">
           <text variable="title"/>
-          <text variable="collection-title" prefix="（" suffix="）"/>
+          <group  prefix="（" suffix="）">
+            <text variable="collection-title"/>
+            <number variable="collection-number" form="roman" text-case="uppercase"/>
+          </group>
         </group>
       </if>
       <else>
@@ -955,6 +964,9 @@
     <names variable="editor">
       <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
       <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editorial-director"/>
+      </substitute>
     </names>
   </macro>
   <macro name="editor-ja">
@@ -1031,7 +1043,7 @@
     <choose>
       <if type="article-journal article-magazine" match="any">
         <group delimiter=", ">
-          <text variable="container-title" form="short"/>
+          <text variable="container-title" form="short" font-style="italic"/>
           <text macro="issue-fr"/>
         </group>
       </if>
@@ -1040,7 +1052,7 @@
           <text term="in"/>
           <group delimiter=", ">
             <text macro="editor-fr"/>
-            <text variable="container-title"/>
+            <text variable="container-title" font-style="italic"/>
             <text macro="edition-fr"/>
           </group>
         </group>
@@ -1267,9 +1279,16 @@
   </macro>
   <macro name="issuance-de">
     <choose>
-      <if type="article-magazine article-newspaper post post-weblog webpage" match="any">
-        <date variable="issued" form="text"/>
+      <if type="article-magazine article-newspaper" match="any">
+        <date variable="issued" delimiter=" ">
+          <date-part name="day" form="ordinal"/>
+          <date-part name="month" form="numeric" suffix="."/>
+          <date-part name="year"/>
+        </date>
       </if>
+      <else-if type="post post-weblog webpage" match="any">
+        <date variable="issued" form="text"/>
+      </else-if>
       <else>
         <date variable="issued">
           <date-part name="year"/>
