@@ -293,8 +293,10 @@
           <group delimiter=", ">
             <text variable="title"/>
             <text macro="volume-de"/>
-            <text macro="edition-de"/>
-            <text macro="issuance-de"/>
+            <group delimiter=" ">
+              <text macro="edition-de"/>
+              <text macro="issuance-de"/>
+            </group>
             <text macro="locator-de"/>
           </group>
         </else-if>
@@ -304,14 +306,20 @@
             <if variable="container-title">
               <text variable="title"/>
               <text macro="container-de"/>
-              <text macro="issuance-de"/>
+              <group delimiter=" ">
+                <text macro="edition-de"/>
+                <text macro="issuance-de"/>
+              </group>
               <text macro="locator-de"/>
             </if>
             <!-- 6) 祝贺文集与纪念文集 -->
             <else-if variable="collection-title">
               <text variable="title"/>
               <text variable="collection-title"/>
-              <text macro="issuance-de"/>
+              <group delimiter=" ">
+                <text macro="edition-de"/>
+                <text macro="issuance-de"/>
+              </group>
               <text macro="locator-de"/>
             </else-if>
           </choose>
@@ -993,7 +1001,6 @@
             <text macro="editor-de"/>
             <text variable="container-title"/>
             <text macro="volume-de"/>
-            <text macro="edition-de"/>
           </group>
         </group>
       </else-if>
