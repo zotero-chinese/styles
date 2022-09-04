@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <summary>1. 文献的语言默认为英语，中文文献需要在 language 字段填写 zh 或 zh-CN；2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；3. 法文的支持尚不完善，需要测试反馈；4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段。</summary>
-    <updated>2022-09-03T21:55:00+08:00</updated>
+    <updated>2022-09-04T11:20:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -159,7 +159,7 @@
   </macro>
   <macro name="access-de">
     <group delimiter=". ">
-      <text variable="URL" prefix="URL: "/>
+      <text variable="URL"/>
       <!-- 上传或者访问日期 -->
       <choose>
         <if variable="issued">
