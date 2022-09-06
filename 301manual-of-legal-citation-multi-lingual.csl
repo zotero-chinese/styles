@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize-with=". " demote-non-dropping-particle="sort-only">
   <info>
     <title>法学引注手册（多语言）</title>
@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <summary>1. 文献的语言默认为英语，中文文献需要在 language 字段填写 zh 或 zh-CN；2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；3. 法文的支持尚不完善，需要测试反馈；4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段。</summary>
-    <updated>2022-09-04T11:20:00+08:00</updated>
+    <updated>2022-09-06T12:51:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -1205,24 +1205,43 @@
     </choose>
   </macro>
   <macro name="issue-fr">
-    <group delimiter=" ">
-      <label variable="issue" form="short"/>
-      <number variable="issue"/>
-    </group>
-  </macro>
-  <macro name="issue-ja">
-    <text variable="issue"/>
-    <label variable="issue" form="short"/>
-  </macro>
-  <macro name="issue-zh">
-    <text value="第"/>
-    <text variable="issue"/>
     <choose>
-      <if type="chapter paper-conference" match="any">
-        <text value="辑"/>
+      <if is-numeric="issue">
+        <label variable="issue" form="short" suffix=" "/>
+        <number variable="issue"/>
       </if>
       <else>
+        <text variable="issue"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issue-ja">
+    <choose>
+      <if is-numeric="issue">
+        <number variable="issue"/>
         <label variable="issue" form="short"/>
+      </if>
+      <else>
+        <text variable="issue"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issue-zh">
+    <choose>
+      <if is-numeric="issue">
+        <text value="第"/>
+        <number variable="issue"/>
+        <choose>
+          <if type="chapter paper-conference" match="any">
+            <text value="辑"/>
+          </if>
+          <else>
+            <label variable="issue" form="short"/>
+          </else>
+        </choose>
+      </if>
+      <else>
+        <text variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -1230,10 +1249,8 @@
   <macro name="section-en">
     <choose>
       <if is-numeric="section">
-        <group delimiter=" ">
-          <label variable="section" form="symbol"/>
-          <text variable="section"/>
-        </group>
+        <label variable="section" form="symbol" suffix=" "/>
+        <text variable="section"/>
       </if>
       <else>
         <text variable="section"/>
@@ -1330,43 +1347,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="locator-ja">
-    <choose>
-      <if is-numeric="locator">
-        <text variable="locator"/>
-        <choose>
-          <if locator="page" type="article-newspaper" match="all">
-            <text value="版"/>
-          </if>
-          <else>
-            <label variable="locator" form="short"/>
-          </else>
-        </choose>
-      </if>
-      <else>
-        <text variable="locator"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="locator-zh">
-    <choose>
-      <if is-numeric="locator">
-        <text value="第"/>
-        <text variable="locator"/>
-        <choose>
-          <if locator="page" type="article-newspaper" match="all">
-            <text value="版"/>
-          </if>
-          <else>
-            <label variable="locator" form="short"/>
-          </else>
-        </choose>
-      </if>
-      <else>
-        <text variable="locator"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="issuance-ja">
     <choose>
       <if type="legal_case post post-weblog webpage" match="any">
@@ -1445,6 +1425,43 @@
           </else>
         </choose>
       </else-if>
+    </choose>
+  </macro>
+  <macro name="locator-ja">
+    <choose>
+      <if is-numeric="locator">
+        <text variable="locator"/>
+        <choose>
+          <if locator="page" type="article-newspaper" match="all">
+            <text value="版"/>
+          </if>
+          <else>
+            <label variable="locator" form="short"/>
+          </else>
+        </choose>
+      </if>
+      <else>
+        <text variable="locator"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locator-zh">
+    <choose>
+      <if is-numeric="locator">
+        <text value="第"/>
+        <text variable="locator"/>
+        <choose>
+          <if locator="page" type="article-newspaper" match="all">
+            <text value="版"/>
+          </if>
+          <else>
+            <label variable="locator" form="short"/>
+          </else>
+        </choose>
+      </if>
+      <else>
+        <text variable="locator"/>
+      </else>
     </choose>
   </macro>
   <macro name="locator-or-page-en">
@@ -1636,6 +1653,9 @@
       </else>
     </choose>
   </macro>
+  <macro name="citation-number">
+    <text variable="citation-number" prefix="〔" suffix="〕"/>
+  </macro>
   <!-- 作者人数为三人或者三人以上的，原则上第一次列明全部，再次引用时可以只列第一作者，后加“等”。 -->
   <!-- 作者人数众多，不便全部列明的，可以根据情况列 1-2 个，后面加“等”。 -->
   <citation et-al-min="6" et-al-use-first="2" et-al-subsequent-min="3" et-al-subsequent-use-first="1">
@@ -1657,23 +1677,23 @@
   </citation>
   <bibliography second-field-align="flush" et-al-min="6" et-al-use-first="2">
     <layout suffix="." locale="de">
-      <text variable="citation-number" prefix="〔" suffix="〕"/>
+      <text macro="citation-number"/>
       <text macro="source-de"/>
     </layout>
     <layout suffix="." locale="fr">
-      <text variable="citation-number" prefix="〔" suffix="〕"/>
+      <text macro="citation-number"/>
       <text macro="source-fr"/>
     </layout>
     <layout suffix="。" locale="ja">
-      <text variable="citation-number" prefix="〔" suffix="〕"/>
+      <text macro="citation-number"/>
       <text macro="source-ja"/>
     </layout>
     <layout suffix="。" locale="zh">
-      <text variable="citation-number" prefix="〔" suffix="〕"/>
+      <text macro="citation-number"/>
       <text macro="source-zh"/>
     </layout>
     <layout suffix=".">
-      <text variable="citation-number" prefix="〔" suffix="〕"/>
+      <text macro="citation-number"/>
       <text macro="source-en"/>
     </layout>
   </bibliography>
