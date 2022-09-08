@@ -1027,7 +1027,24 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
   </div>
 </blockquote>
 
+## [419bnu-thesis.csl]
 
+北京师范大学作者年代参考文献样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改，
+正文中两个中文作者之间为`和`，英文为`&`。
+
+显示效果
+> ```
+> （Ekstrom & Moser, 2014） 
+> （谭羚雁和娄成武, 2012） 
+> （Sun et al., 2022） 
+> （马欢, 2011） 
+
+
+> 马欢, 2011. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学: 27.<br>
+> 谭羚雁, 娄成武, 2012. 保障性住房政策过程的中央与地方政府关系——政策网络理论的分析与应用[J]. 公共管理学报, 9(1): 52-63+124-125.<br>
+> Ekstrom J A, Moser S C, 2014. Identifying and overcoming barriers in urban climate adaptation: Case study findings from the San Francisco Bay Area, California, USA[J]. Urban Climate, 9: 54-74.<br>
+> Sun T, Shan M, Rong X, et al., 2022. Estimating the spatial distribution of solar photovoltaic power generation potential on different types of rural rooftops using a deep learning network applied to satellite images[J]. Applied Energy, 315: 119025.<br>
+> ```
 
 ## LICENSE
 
@@ -1284,3 +1301,4 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [416zuel-thesis.csl]: 416zuel-thesis.csl
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
 [418hust-thesis.csl]: 418hust-thesis.csl
+[419bnu-thesis.csl]: 419bnu-thesis.csl
