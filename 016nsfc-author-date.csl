@@ -482,7 +482,7 @@
             <key macro="author"/>
         </sort>
         <layout suffix=".">
-            <text variable="citation-number" prefix="[" suffix="]"/>
+            <text variable="citation-number" prefix="" suffix="."/>
             <text macro="entry-layout"/>
         </layout>
         <!-- <layout suffix=".">
