@@ -13,7 +13,7 @@ email 前后加 __
 
 ## CSL文件名说明：
 
-0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl] 基础修改的样式；
+0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl]或[001gb-t-7714-2015-author-date-bilingual.csl]基础修改的样式；
 
 1开头为数字格式期刊样式；
 
