@@ -463,17 +463,45 @@
       </else>
     </choose>
   </macro>
+  <macro name="citation-locator-en">
+    <group delimiter=" ">
+      <choose>
+        <if locator="chapter">
+          <label variable="locator" text-case="capitalize-first"/>
+        </if>
+        <else>
+          <label variable="locator" form="short"/>
+        </else>
+      </choose>
+      <text variable="locator"/>
+    </group>
+  </macro>
+  <macro name="citation-locator-cn">
+    <group delimiter="">
+      <text variable="locator"/>
+      <choose>
+        <if locator="chapter">
+          <label variable="locator" text-case="capitalize-first"/>
+        </if>
+        <else>
+          <label variable="locator" form="short"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" disambiguate-add-names="true" disambiguate-add-year-suffix="true" collapse="year">
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>
         <text macro="issued-year"/>
+        <text macro="citation-locator-en"/>
       </group>
     </layout>
     <layout prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
+        <text macro="citation-locator-cn"/>
       </group>
     </layout>
   </citation>
