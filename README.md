@@ -518,6 +518,30 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 > [4]	赵宇鹏, 卜坚珍, 于立梅, 等. 鸡肉的营养成分和质构特性研究[J/OL]. 食品安全质量检测学报, 2016, 10(7): 4096-4100[2018-06-29]. http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=0&CurRec=25&filename=SPAJ201610041&dbname=CJFDLAST2016&dbcode=CJFQ&pr=&urlid=&yx=&v=MDk2NzhSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMS2ZZZVJtRnlqa1Vyek9OajNLWkxHNEg5Zk5yNDlCWlk=.</br>
 
 
+## [111acta-agriculurae-boreali-sinica.csl]
+[013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]基础上修改，[华北农学报](http://www.hbnxb.net/CN/column/column7.shtml#)样式，添加平行语言支持，即对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，显示全部作者和DOI，
+
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除；如果要设置缩进悬挂，需要将里面的软回车替换为硬回车，方法是 Word 中查找 `^l` 替换为 `^p` 批量替换。
+
+空行删除及缩进、悬挂设置：
+<!--![空行删除及缩进、悬挂设置-->
+![空行删除及缩进、悬挂设置](/img/blank-line-remove.gif "Title")
+
+显示效果：
+
+> <sup>[1-4]<sup>
+
+
+> [1] 闫留延, 李剑峰, 张世文, 张博, 王永芳, 张小梅, 祖超凡, 王振山, 桑璐曼, 何占祥, 贾小平, 董志平. 谷子SiPRR73基因的光温调控模式及非生物胁迫响应特性[J]. 华北农学报, 2022, 37(4): 11-19. doi: 10.7668/hbnxb.20193022.
+Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated relocation of NPH3 mediates phototropic response to high-intensity blue light in Arabidopsis thaliana[J]. J Integr Plant Biol, 2018, 60(7):562-577.</br>
+
+> [2] 赵长江, 都梦翔, 宋巨奇, 徐尚缘, 贺琳, 徐晶宇, 杨克军, 李佐同. 玉米NRL基因家族鉴定与逆境表达分析[J]. 华北农学报, 2022, 37(4): 1-10. doi: 10.7668/hbnxb.20192757.
+Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated relocation of NPH3 mediates phototropic response to high-intensity blue light in Arabidopsis thaliana[J]. J Integr Plant Biol, 2018, 60(7):562-577.</br>
+
+> [3] 李乾, 梁利群, 艾克达·热合曼, 孙博, 张立民, 董志国, 常玉梅. 不同盐度、碱度、pH值对瓦氏雅罗鱼精子活力及其受精率的影响[J]. 华北农学报, 2021, 36(S1): 381-389. doi: 10.7668/hbnxb.20192551.
+Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated relocation of NPH3 mediates phototropic response to high-intensity blue light in Arabidopsis thaliana[J]. J Integr Plant Biol, 2018, 60(7):562-577.</br>
+
+> [4] Jha M, Gassman P W, Secchi S, Gu R, Arnold J. Effect of watershed subdivision on SWAT flow, sediment, and nutrient predictions[J]. JAWRA Journal of the American Water Resources Association, 2004, 40(3): 811-825. doi: 10.1111/j.1752-1688.2004.tb04460.x.</br>
 
 
 ## [201comparative-economic-and-social-systems.csl]
@@ -1274,6 +1298,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
 [108journal-of-nuclear-agricultural-sciences.csl]: 108journal-of-nuclear-agricultural-sciences.csl
 [109chinese-public-administration.csl]: 109chinese-public-administration.csl
+[110food-science.csl]: 110food-science.csl
+[111acta-agriculurae-boreali-sinica.csl]: 111acta-agriculurae-boreali-sinica.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
