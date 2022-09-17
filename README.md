@@ -571,7 +571,7 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 [《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
 
-文末参考文献先按语言排序，中文在前，英文在后。需要设置中文条目语言为`cn`，英文条目语言为`en`。
+文末参考文献先按语言排序，中文在前，英文在后。需要设置中文条目语言为`zh`，英文条目语言为`en`。
 
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
 所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
