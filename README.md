@@ -571,6 +571,8 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 [《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
 
+文末参考文献先按语言排序，中文在前，英文在后。需要设置中文条目语言为`cn`，英文条目语言为`en`。
+
 存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
 所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
 
@@ -583,10 +585,11 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 > （Ebert et al., 2021）
 > ```
 
-> （1）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
-> （2）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
-> （3）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文学位论文，2017年。<br>
-> （4）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第3期。<br>
+> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文学位论文，2017年。<br>
+> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第3期。<br>
+> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
+> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
+
 
 
 ## [203economic-research-journal.csl]
