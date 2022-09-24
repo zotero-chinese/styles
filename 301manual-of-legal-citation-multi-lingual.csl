@@ -13,8 +13,8 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <summary>1. 文献的语言默认为英语，中文文献需要在 language 字段填写 zh 或 zh-CN；2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；3. 法文的支持尚不完善，需要测试反馈；4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段。</summary>
-    <updated>2022-09-06T12:51:00+08:00</updated>
+    <summary>1. 文献的语言默认为英语，其他语言的文献需要在 language 字段填写对应的语言代码；2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；3. 英国案例和法文文献的支持尚不完善，需要测试反馈；4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段。</summary>
+    <updated>2022-09-24T10:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -1656,9 +1656,9 @@
   <macro name="citation-number">
     <text variable="citation-number" prefix="〔" suffix="〕"/>
   </macro>
-  <!-- 作者人数为三人或者三人以上的，原则上第一次列明全部，再次引用时可以只列第一作者，后加“等”。 -->
+  <!-- 作者人数为三人或者三人以上的，原则上第一次列明全部。 -->
   <!-- 作者人数众多，不便全部列明的，可以根据情况列 1-2 个，后面加“等”。 -->
-  <citation et-al-min="6" et-al-use-first="2" et-al-subsequent-min="3" et-al-subsequent-use-first="1">
+  <citation et-al-min="6" et-al-use-first="2">
     <layout suffix="." delimiter="; " locale="de">
       <text macro="citation-layout-de"/>
     </layout>

@@ -497,7 +497,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 显示效果：
 
 > <sup>[1-4]<sup>
-  
+
 > [1]	Jansen J, de Vries S, van Schaik P. The Contextual Benchmark Method: Benchmarking E-Government Services. *Government Information Quarterly*, 2010, 27(3): 213-219. </br>
 > [2]	尹涛, 刘敬科, 赵思明, 等. 冷藏和热加工对鲢肌肉主要滋味活性物质的影响[J]. 华中农业大学学报, 2015,（01）. </br>
 > [3]	Jiang J, Meng T, Zhang Q. From Internet To Social Safety Net: The Policy Consequences Of Online Participation In China. *Governance*, 2019, 32(3): 531-546. </br>
@@ -620,10 +620,10 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 显示效果：
 
 > ```
->（Bartov et al.，2002） 
->（Ebert et al.，2021） 
->（邵新建等，2015） 
->（Nunn and Qian，2011） 
+>（Bartov et al.，2002）
+>（Ebert et al.，2021）
+>（邵新建等，2015）
+>（Nunn and Qian，2011）
 > ```
 >[1]	邵新建、何明燕、江萍、薛熠和廖静池，2015，《媒体公关、投资者情绪与证券发行定价》，《金融研究》第09期，第190`~`206页。<br>
 >[2]	Bartov, E., P. Mohanram, and C. Seethamraju. 2002. “Valuation of Internet Stocks—An IPO Perspective”, *Journal of Accounting Research*, 40(2): pp.321`~`346.<br>
@@ -760,27 +760,28 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 注意事项：
 
-1. 文献的语言默认为英语，中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
-2. 目前仅支持中文和英文的体例，法文、德文、日文尚未实现。如果有需求请联系作者。
-3. 中文司法案例援引裁判文书时需要在 `Extra` 字段填写文书名称，比如 `genre: 民事判决书`。
+1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
+2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；
+3. 英国案例和法文文献的支持尚不完善，需要测试反馈；
+4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；
+5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段；
 
 显示效果：
 
 <blockquote>
   <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社2007年版。<br>
   <sup>2</sup> 同上注，第18页。<br>
-  <sup>3</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
+  <sup>3</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。<br>
   <sup>4</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
-  <sup>5</sup> 同前注，罗豪才等书，第54页。<br>
-  <sup>6</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
-  <sup>7</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
-  <sup>8</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-  <sup>9</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
-  <sup>10</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
-  <sup>11</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
-  <sup>12</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
-  <sup>13</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
-  <sup>14</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
+  <sup>5</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
+  <sup>6</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
+  <sup>7</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
+  <sup>8</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
+  <sup>9</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
+  <sup>10</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
+  <sup>11</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
+  <sup>12</sup> Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).<br>
+  <sup>13</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).<br>
 </blockquote>
 
 
@@ -1061,10 +1062,10 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 显示效果
 > ```
-> （Ekstrom & Moser, 2014） 
-> （谭羚雁和娄成武, 2012） 
-> （Sun et al., 2022） 
-> （马欢, 2011） 
+> （Ekstrom & Moser, 2014）
+> （谭羚雁和娄成武, 2012）
+> （Sun et al., 2022）
+> （马欢, 2011）
 
 
 > 马欢, 2011. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学: 27.<br>
