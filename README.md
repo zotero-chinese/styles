@@ -838,6 +838,30 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 </blockquote>
 
 
+## [306manual-of-legal-citation-multi-lingual-no-ibid.csl]
+
+《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》的无略写版，即重复引用的文献不省略，在 [301manual-of-legal-citation-multi-lingual.csl] 的基础上修改。
+
+注意事项：
+
+1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
+2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；
+3. 英国案例和法文文献的支持尚不完善，需要测试反馈；
+4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；
+5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段；
+6. 重复引用的文献不略写。
+
+显示效果：
+
+<blockquote>
+  <sup>1</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
+  <sup>2</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
+  <sup>3</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
+  <sup>4</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
+  <sup>5</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
+</blockquote>
+
+
 ## [403hzau-thesis.csl]
 
 [407njau-thesis-old.csl] 的修改版，适用于华中农业大学
@@ -1318,6 +1342,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
+[306manual-of-legal-citation-multi-lingual-no-ibid.csl]: 306manual-of-legal-citation-multi-lingual-no-ibid.csl
 [403hzau-thesis.csl]: 403hzau-thesis.csl
 [404jnu-thesis.csl]: 404jnu-thesis.csl
 [405njau-thesis.csl]: 405njau-thesis.csl
