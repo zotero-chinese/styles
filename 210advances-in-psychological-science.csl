@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded" default-locale-sort="zh-CN">
   <info>
     <title>心理科学进展</title>
     <id>http://www.zotero.org/styles/advances-in-psychological-science</id>
@@ -13,7 +13,8 @@
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <issn>1671-3710</issn>
-    <updated>2022-08-24T21:53:00+08:00</updated>
+    <summary>该样式仅在 apa.csl 的基础上调整了姓名的格式，没有处理其他部分的格式，可能不符要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组。</summary>
+    <updated>2022-10-06T19:42:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

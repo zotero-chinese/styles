@@ -754,6 +754,13 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 </blockquote>
 
 
+## [210advances-in-psychological-science.csl]
+
+《[心理科学进展](https://journal.psych.ac.cn/xlkxjz/CN/column/column7.shtml)》样式。
+
+该样式仅在 apa.csl 的基础上调整了姓名的格式，没有处理其他部分的格式，可能不符要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组。
+
+
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
 《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》（2020 年版）。
@@ -1337,6 +1344,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
 [208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
 [209sociological-studies.csl]: 209sociological-studies.csl
+[210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
 [110food-science.csl]: 110food-science.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
