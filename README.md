@@ -1088,7 +1088,7 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 ## [419bnu-thesis.csl]
 
-北京师范大学作者年代参考文献样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改，
+[北京师范大学](http://bs.bnu.edu.cn/docs/20150408171708698394.pdf)作者年代参考文献样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改，
 正文中两个中文作者之间为`和`，英文为`&`。
 
 显示效果
@@ -1104,6 +1104,24 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 > Ekstrom J A, Moser S C, 2014. Identifying and overcoming barriers in urban climate adaptation: Case study findings from the San Francisco Bay Area, California, USA[J]. Urban Climate, 9: 54-74.<br>
 > Sun T, Shan M, Rong X, et al., 2022. Estimating the spatial distribution of solar photovoltaic power generation potential on different types of rural rooftops using a deep learning network applied to satellite images[J]. Applied Energy, 315: 119025.<br>
 > ```
+
+## [420beihang-thesis.csl]
+[北京师范大学](http://graduate.buaa.edu.cn/info/1039/7831.htm)作者年代参考文献样式，
+[015jm-chinese-std-gb-t-7714-2005-revised.csl]基础上修改，作者首字母大写，题目词首字母大写，结尾无点，3人以内列出全部作者，3人以上写3人加`等`（英文加`et al`））。
+
+显示效果
+
+> ```
+引用的文献<sup>[1]</sup><br>
+继续<sup>[2–4]</sup><br>
+最后<sup>[5]</sup><br>
+
+>[1]	巫远. 基于有效覆盖的遥感卫星行业用户需求综合与满足度评估[D]. 武汉: 武汉大学, 2017<br>
+>[2]	Poisson J. B., Oriot H. M., Tupin F. Ground Moving Target Trajectory Reconstruction in Single-Channel Circular SAR [J]. IEEE Transactions on Geoscience and Remote Sensing, 2015, 53(4): 1976–1984<br>
+>[3]	李芳芳, 张月婷, 仇晓兰, 等. 高分辨率圆迹干涉SAR新体制设计及信号处理关键技术[A]. 第四届高分辨率对地观测学术年会论文集[C]. 高分辨率对地观测系统重大专项管理办公室、中国科学院重大科技任务局、中国航天科技集团公司宇航部、中国航天科工集团公司空间工程部、中国测绘学会摄影测量与遥感专业委员会, 2017: 1321–1332<br>
+>[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms [J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
+>[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment [J]. Nature, 1992, 359: 605–609<br>
+
 
 ## LICENSE
 
@@ -1365,3 +1383,4 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [417whu-school-of-law.csl]: 417whu-school-of-law.csl
 [418hust-thesis.csl]: 418hust-thesis.csl
 [419bnu-thesis.csl]: 419bnu-thesis.csl
+[420beihang-thesis.csl]: 420beihang-thesis.csl
