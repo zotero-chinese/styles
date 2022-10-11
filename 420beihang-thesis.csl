@@ -107,7 +107,7 @@
         <text value="[M]."/>
       </else-if>
       <else-if type="paper-conference">
-        <text value="[C]//"/>
+        <text value="[A]."/>
       </else-if>
       <else-if type="chapter" match="any">
         <text value="[G]//"/>
@@ -135,9 +135,12 @@
   </macro>
   <macro name="publisherMain">
     <choose>
-      <if type="chapter paper-conference" match="any">
+      <if type="chapter ">
         <text variable="container-title" suffix=". "/>
       </if>
+      <else-if type="paper-conference">
+        <text variable="container-title" prefix=" " suffix="[C]. "/>
+      </else-if>
       <else-if type="report">
         <group delimiter=", ">
           <text variable="collection-title"/>
@@ -246,7 +249,7 @@
                     </group>
                   </else>
                 </choose>
-                <text macro="secondaryAuthor" suffix=". "/>
+                <text macro="secondaryAuthor" prefix=" " suffix=". "/>
                 <group delimiter="">
                   <label variable="edition"/>
                   <number variable="edition"/>
@@ -305,7 +308,7 @@
                     </group>
                   </else>
                 </choose>
-                <text macro="secondaryAuthor" suffix=". "/>
+                <text macro="secondaryAuthor" prefix=" " suffix=". "/>
                 <number variable="edition"/>
                 <group delimiter=" ">
                   <text macro="publisherMain"/>
@@ -345,11 +348,11 @@
     </layout>
   </citation>
   <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
-    <layout suffix="." locale="en">
+    <layout suffix="" locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-en"/>
     </layout>
-    <layout suffix=".">
+    <layout suffix="">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-zh"/>
     </layout>
