@@ -1117,10 +1117,10 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 最后<sup>[5]</sup><br>
 
 >[1]	巫远. 基于有效覆盖的遥感卫星行业用户需求综合与满足度评估[D]. 武汉: 武汉大学, 2017<br>
->[2]	Poisson J. B., Oriot H. M., Tupin F. Ground Moving Target Trajectory Reconstruction in Single-Channel Circular SAR [J]. IEEE Transactions on Geoscience and Remote Sensing, 2015, 53(4): 1976–1984<br>
+>[2]	Poisson J. B., Oriot H. M., Tupin F. Ground Moving Target Trajectory Reconstruction in Single-Channel Circular SAR[J]. IEEE Transactions on Geoscience and Remote Sensing, 2015, 53(4): 1976–1984<br>
 >[3]	李芳芳, 张月婷, 仇晓兰, 等. 高分辨率圆迹干涉SAR新体制设计及信号处理关键技术[A]. 第四届高分辨率对地观测学术年会论文集[C]. 高分辨率对地观测系统重大专项管理办公室、中国科学院重大科技任务局、中国航天科技集团公司宇航部、中国航天科工集团公司空间工程部、中国测绘学会摄影测量与遥感专业委员会, 2017: 1321–1332<br>
->[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms [J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
->[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment [J]. Nature, 1992, 359: 605–609<br>
+>[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms[J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
+>[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609<br>
 
 
 ## LICENSE
