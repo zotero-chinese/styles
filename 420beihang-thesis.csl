@@ -55,7 +55,7 @@
     </names>
   </macro>
   <macro name="title">
-    <text variable="title"/>
+    <text variable="title"  text-case="title"/>
   </macro>
   <macro name="titleField">
     <choose>
