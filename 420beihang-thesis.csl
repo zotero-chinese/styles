@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.1mlz1" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.1mlz1" demote-non-dropping-particle="sort-only">
   <info>
     <title>BHU-Thesis北京航空航天大学学位论文</title>
     <id>http://www.zotero.org/styles/bh-thesis</id>
@@ -10,9 +10,9 @@
       <email>zxpmyth@yahoo.com.cn</email>
     </author>
     <contributor>
-        <name>韩小土</name>
-        <email>redleafnew@163.com</email>
-      </contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <category field="generic-base"/>
@@ -55,7 +55,7 @@
     </names>
   </macro>
   <macro name="title">
-    <text variable="title"  text-case="title"/>
+    <text variable="title" text-case="title"/>
   </macro>
   <macro name="titleField">
     <choose>
@@ -348,13 +348,14 @@
     </layout>
   </citation>
   <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
-    <layout suffix="" locale="en">
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="bib-entry-en"/>
-    </layout>
-    <layout suffix="">
+    <layout suffix="" locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-zh"/>
     </layout>
+    <layout suffix="">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="bib-entry-en"/>
+    </layout>
+
   </bibliography>
 </style>
