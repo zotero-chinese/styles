@@ -38,7 +38,7 @@
   </locale>
   <macro name="author">
     <names variable="author">
-      <name initialize-with=" " name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always">
+      <name initialize-with=". " name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always">
         <name-part name="family" text-case="capitalize-first"/>
       </name>
     </names>
@@ -125,8 +125,8 @@
   </macro>
   <macro name="secondaryAuthor">
     <names variable="editor">
-      <name initialize-with=" " name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always">
-        <name-part name="family" text-case="uppercase"/>
+      <name initialize-with=". " name-as-sort-order="all" sort-separator=" " delimiter=", " delimiter-precedes-last="always">
+        <name-part name="family" text-case="capitalize-first"/>
       </name>
     </names>
     <names variable="translator">
@@ -136,12 +136,12 @@
   <macro name="publisherMain">
     <choose>
       <if type="chapter paper-conference" match="any">
-        <text variable="container-title" suffix="."/>
+        <text variable="container-title" suffix=". "/>
       </if>
       <else-if type="report">
         <group delimiter=", ">
           <text variable="collection-title"/>
-          <number variable="number" suffix=","/>
+          <number variable="number" suffix=", "/>
         </group>
       </else-if>
       <else-if type="bill legislation" match="any">
@@ -154,12 +154,12 @@
   </macro>
   <macro name="publisherSupp">
     <group delimiter="">
-      <text variable="publisher-place" suffix=":"/>
+      <text variable="publisher-place" prefix=" " suffix=": "/>
       <group delimiter=", ">
         <text variable="publisher"/>
         <choose>
           <if type="webpage" variable="container-title" match="all">
-            <date variable="issued" suffix=".">
+            <date variable="issued" suffix=". ">
               <date-part name="year"/>
               <date-part name="month" form="numeric-leading-zeros" prefix="-"/>
               <date-part name="day" form="numeric-leading-zeros" prefix="-"/>
@@ -226,7 +226,7 @@
       <group delimiter=" ">
         <group delimiter="">
           <group delimiter=" ">
-            <text macro="author" suffix="."/>
+            <text macro="author" suffix=". "/>
             <group>
               <choose>
                 <if type="bill legislation paper-conference chapter">
@@ -246,7 +246,7 @@
                     </group>
                   </else>
                 </choose>
-                <text macro="secondaryAuthor" suffix="."/>
+                <text macro="secondaryAuthor" suffix=". "/>
                 <group delimiter="">
                   <label variable="edition"/>
                   <number variable="edition"/>
@@ -273,7 +273,7 @@
         </group>
         <choose>
           <if type="webpage" match="any">
-            <text macro="access" prefix="."/>
+            <text macro="access" prefix=". "/>
           </if>
         </choose>
       </group>
@@ -285,7 +285,7 @@
       <group delimiter=" ">
         <group delimiter=" ">
           <group delimiter=" ">
-            <text macro="author" suffix="."/>
+            <text macro="author" suffix=". "/>
             <group delimiter="">
               <choose>
                 <if type="bill legislation paper-conference chapter">
@@ -305,7 +305,7 @@
                     </group>
                   </else>
                 </choose>
-                <text macro="secondaryAuthor" suffix="."/>
+                <text macro="secondaryAuthor" suffix=". "/>
                 <number variable="edition"/>
                 <group delimiter=" ">
                   <text macro="publisherMain"/>
@@ -329,7 +329,7 @@
         </group>
         <choose>
           <if type="webpage" match="any">
-            <text macro="access" prefix="."/>
+            <text macro="access" prefix=". "/>
           </if>
         </choose>
       </group>
@@ -340,7 +340,7 @@
     <sort>
       <key variable="citation-number" sort="ascending"/>
     </sort>
-    <layout vertical-align="sup" prefix="[" suffix="]" delimiter=",">
+    <layout vertical-align="sup" prefix="[" suffix="]" delimiter=", ">
       <text variable="citation-number"/>
     </layout>
   </citation>
