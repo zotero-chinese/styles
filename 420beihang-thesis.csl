@@ -356,6 +356,5 @@
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-en"/>
     </layout>
-
   </bibliography>
 </style>
