@@ -292,7 +292,7 @@
             <group delimiter="">
               <choose>
                 <if type="bill legislation paper-conference chapter">
-                  <group delimiter=" ">
+                  <group delimiter="">
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
                   </group>
@@ -302,7 +302,7 @@
                 <choose>
                   <if type="bill legislation paper-conference chapter"/>
                   <else>
-                    <group delimiter=" ">
+                    <group delimiter="">
                       <text macro="titleField"/>
                       <text macro="titleFieldSuffix"/>
                     </group>
