@@ -1047,10 +1047,18 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 注意事项：
 
 1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
-2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；
-3. 英国案例和法文文献的支持尚不完善，需要测试反馈；
-4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；
-5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段；
+2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的[“法学引注手册”分类](https://www.zotero.org/groups/4677213/chinese_csl_development/collections/GTTN32IE)，其中录入了《手册》的示例文献。
+3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段，比如在 `Extra` 中填写：
+```
+Series: 最高人民法院指导案例
+Series Number: 24
+available-date: 2014-01-26
+```
+4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。
+5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。
+6. 英国案例和法文文献的支持尚不完善，需要测试反馈。
+7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。
+8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。
 
 显示效果：
 
@@ -1131,11 +1139,20 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 注意事项：
 
 1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。（这是为了避免 `citeproc-js` 无法转换 title case 的 [bug](https://github.com/Juris-M/citeproc-js/issues/211)。）
-2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；
-3. 英国案例和法文文献的支持尚不完善，需要测试反馈；
-4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；
-5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段；
-6. 重复引用的文献不略写。
+2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的[“法学引注手册”分类](https://www.zotero.org/groups/4677213/chinese_csl_development/collections/GTTN32IE)，其中录入了《手册》的示例文献。
+3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段，比如在 `Extra` 中填写：
+```
+Series: 最高人民法院指导案例
+Series Number: 24
+available-date: 2014-01-26
+```
+4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。
+5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。
+6. 英国案例和法文文献的支持尚不完善，需要测试反馈。
+7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。
+8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。
+
+9. 重复引用的文献不略写。
 
 显示效果：
 

@@ -13,8 +13,8 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <summary>1. 文献的语言默认为英语，其他语言的文献需要在 language 字段填写对应的语言代码；2. 中文司法案例援引裁判文书时需要在 Extra 字段填写文书名称，比如 genre: 民事判决书；3. 英国案例和法文文献的支持尚不完善，需要测试反馈；4. 德文的“法律评注”使用 book section 文献类型，并将标题留空；5. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 series 字段。</summary>
-    <updated>2023-03-22T12:42:44+08:00</updated>
+    <summary>1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的“法学引注手册”分类，其中录入了《手册》的示例文献。3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段。4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。6. 英国案例和法文文献的支持尚不完善，需要测试反馈。7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。</summary>
+    <updated>2023-06-19T18:18:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -60,7 +60,8 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
-      <term name="article-locator" form="short">条</term>
+      <term name="article-locator" form="short">条</term> <!-- 《宪法》第十八条翻译为“Article 18” -->
+      <term name="book" form="short">编</term> <!-- 《民法典》第一编翻译为“Book One” -->
       <term name="accessed">访问</term>
       <term name="compiler">整理</term>
       <term name="compiler" form="short">整理</term>
@@ -700,26 +701,32 @@
     </group>
   </macro>
   <macro name="source-zh">
-    <group delimiter="：">
-      <text macro="author-zh"/>
-      <choose>
-        <if type="article-journal article-magazine" match="any">
+    <choose>
+      <if type="article-journal article-magazine" match="any">
+        <group delimiter="：">
+          <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="secondary-contributors-zh"/>
             <text macro="container-zh"/>
             <text macro="locator-zh"/>
           </group>
-        </if>
-        <else-if type="article-newspaper">
+        </group>
+      </if>
+      <else-if type="article-newspaper">
+        <group delimiter="：">
+          <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="secondary-contributors-zh"/>
             <text macro="container-zh"/>
             <text macro="locator-or-page-zh"/>
           </group>
-        </else-if>
-        <else-if type="chapter paper-conference" match="any">
+        </group>
+      </else-if>
+      <else-if type="chapter paper-conference" match="any">
+        <group delimiter="：">
+          <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="secondary-contributors-zh"/>
@@ -727,105 +734,85 @@
             <text macro="publisher-zh"/>
             <text macro="locator-zh"/>
           </group>
-        </else-if>
-        <else-if type="book thesis" match="any">
+        </group>
+      </else-if>
+      <else-if type="book thesis" match="any">
+        <group delimiter="：">
+          <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="secondary-contributors-zh"/>
             <text macro="publisher-zh"/>
             <text macro="locator-zh"/>
           </group>
-        </else-if>
-        <!-- 49. 引用个人博客、微信公众号 -->
-        <else-if type="post post-weblog webpage" match="any">
+        </group>
+      </else-if>
+      <!-- 49. 引用个人博客、微信公众号 -->
+      <else-if type="post post-weblog webpage" match="any">
+        <group delimiter="：">
+          <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="container-zh"/>
             <text macro="access-zh"/>
           </group>
-        </else-if>
-        <!-- (四)引用法律文件 -->
-        <else-if type="legislation">
-          <group delimiter="，">
-            <group>
-              <text macro="title-zh"/>
-              <choose>
-                <!-- 优先使用 locator 的条文序号 -->
-                <if variable="locator">
-                  <text macro="locator-zh"/>
-                </if>
-                <else>
-                  <text macro="section-zh"/>
-                </else>
-              </choose>
-            </group>
-            <text variable="number"/>
-            <group>
-              <text macro="issuance-zh"/>
-              <text value="发布"/>
-            </group>
-          </group>
-        </else-if>
-        <!-- (五)引用司法案例 -->
-        <else-if type="legal_case">
-          <group delimiter="，">
+        </group>
+      </else-if>
+      <!-- (四)引用法律文件 -->
+      <else-if type="legislation regulation treaty" match="any">
+        <group delimiter="，">
+          <group>
             <text macro="title-zh"/>
             <choose>
-              <if variable="container-title">
-                <choose>
-                  <if variable="number">
-                    <!-- 指导性案例 -->
-                    <group>
-                      <text macro="container-zh"/>
-                      <choose>
-                        <if is-numeric="number">
-                          <number variable="number"/>
-                          <text value="号"/>
-                        </if>
-                        <else>
-                          <text variable="number"/>
-                        </else>
-                      </choose>
-                      <text macro="issuance-zh" prefix="（" suffix="）"/>
-                    </group>
-                  </if>
-                  <else>
-                    <!-- 《最高人民法院公报》上的案例 -->
-                    <text macro="container-zh"/>
-                  </else>
-                </choose>
+              <!-- 优先使用 locator 的条文序号 -->
+              <if variable="locator">
+                <text macro="locator-zh"/>
               </if>
               <else>
-                <group delimiter="，">
-                  <group>
-                    <text variable="authority"/>
-                    <choose>
-                      <if variable="genre">
-                        <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
-                        <text variable="genre"/>
-                      </if>
-                      <else>
-                        <text value="判决书"/>
-                      </else>
-                    </choose>
-                    <text variable="number"/>
-                  </group>
-                  <text macro="issuance-zh"/>
-                </group>
+                <text macro="section-zh"/>
               </else>
             </choose>
           </group>
-        </else-if>
-        <else>
+          <text variable="number"/>
+        </group>
+      </else-if>
+      <!-- (五)引用司法案例 -->
+      <else-if type="legal_case">
+        <group delimiter="，">
+          <text macro="title-zh"/>
+          <choose>
+            <if variable="collection-title">
+              <!-- 指导性案例 -->
+              <group>
+                <text macro="container-zh"/>
+                <text macro="issuance-zh" prefix="（" suffix="）"/>
+              </group>
+            </if>
+            <else-if variable="container-title">
+              <!-- 《最高人民法院公报》上的案例 -->
+              <text macro="container-zh"/>
+            </else-if>
+            <else>
+              <group delimiter="，">
+                <text macro="container-zh"/>
+                <text macro="issuance-zh"/>
+              </group>
+            </else>
+          </choose>
+        </group>
+      </else-if>
+      <else>
+        <group delimiter="：">
+          <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="container-zh"/>
             <text macro="publisher-zh"/>
             <text macro="locator-zh"/>
           </group>
-        </else>
-      </choose>
-    </group>
+        </group>
+      </else>
+    </choose>
   </macro>
   <macro name="title-de">
     <text variable="title"/>
@@ -871,7 +858,7 @@
       <if type="book">
         <group prefix="『" suffix="』">
           <text variable="title"/>
-          <group  prefix="（" suffix="）">
+          <group prefix="（" suffix="）">
             <text variable="collection-title"/>
             <number variable="collection-number" form="roman" text-case="uppercase"/>
           </group>
@@ -893,15 +880,27 @@
             <text variable="title"/>
           </else>
         </choose>
+        <text macro="edition-zh" prefix="（" suffix="）"/>
       </if>
+      <else-if type="legislation regulation treaty" match="any">
+        <text variable="title" form="short" prefix="《" suffix="》"/>
+        <choose>
+          <if variable="edition">
+            <text macro="edition-zh" prefix="（" suffix="）"/>
+          </if>
+          <else-if variable="status">
+            <text variable="status" prefix="（" suffix="）"/>
+          </else-if>
+        </choose>
+      </else-if>
       <else-if type="legal_case">
         <text variable="title"/>
       </else-if>
       <else>
         <text variable="title" prefix="《" suffix="》"/>
+        <text macro="edition-zh" prefix="（" suffix="）"/>
       </else>
     </choose>
-    <text macro="edition-zh" prefix="（" suffix="）"/>
   </macro>
   <!-- 其他贡献者(翻译、 整理、校对) -->
   <macro name="secondary-contributors-en">
@@ -1126,16 +1125,38 @@
       </else-if>
       <else-if type="legal_case">
         <choose>
-          <if variable="number">
+          <if variable="collection-title">
             <!-- 指导性案例 -->
-            <text variable="container-title"/>
+            <text variable="collection-title"/>
+            <choose>
+              <if is-numeric="collection-number">
+                <number variable="collection-number"/>
+                <text value="号"/>
+              </if>
+              <else>
+                <text variable="collection-number"/>
+              </else>
+            </choose>
           </if>
-          <else>
-            <!-- 《最高人民法院公报》 -->
+          <else-if variable="container-title">
+            <!-- 《最高人民法院公报》的案例 -->
             <text term="in"/>
             <text variable="container-title" prefix="《" suffix="》"/>
             <text macro="issuance-zh"/>
             <text macro="issue-zh"/>
+          </else-if>
+          <else>
+            <text variable="authority"/>
+            <choose>
+              <if variable="genre">
+                <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
+                <text variable="genre"/>
+              </if>
+              <else>
+                <text value="判决书"/>
+              </else>
+            </choose>
+            <text variable="number"/>
           </else>
         </choose>
       </else-if>
@@ -1359,9 +1380,26 @@
   </macro>
   <macro name="issuance-zh">
     <choose>
-      <if type="article-magazine article-newspaper legal_case legislation post post-weblog webpage" match="any">
-        <date variable="issued" form="text"/>
+      <if type="legal_case">
+        <choose>
+          <if variable="collection-title container-title" match="any">
+            <choose>
+              <if variable="available-date">
+                <date variable="available-date" form="text" date-parts="year"/>
+              </if>
+              <else>
+                <date variable="issued" form="text" date-parts="year"/>
+              </else>
+            </choose>
+          </if>
+          <else>
+            <date variable="issued" form="text"/>
+          </else>
+        </choose>
       </if>
+      <else-if type="article-magazine article-newspaper legislation post post-weblog webpage" match="any">
+        <date variable="issued" form="text"/>
+      </else-if>
       <else>
         <date variable="issued" form="text" date-parts="year"/>
       </else>

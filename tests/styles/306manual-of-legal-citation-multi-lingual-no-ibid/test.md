@@ -20,9 +20,9 @@
 <sup>12</sup> 法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。<br>
 <sup>13</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
 <sup>14</sup> 《民法总则》第 27 条第 2 款第 3 项。<br>
-<sup>15</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
+<sup>15</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。<br>
 <sup>16</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-<sup>17</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年7月6日第11期。<br>
+<sup>17</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
 <sup>18</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
 <sup>19</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
 <sup>20</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
@@ -33,11 +33,11 @@
 <sup>25</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
 <sup>26</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
 <sup>27</sup> 夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
-<sup>28</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。<br>
-<sup>29</sup> 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。<br>
-<sup>30</sup> 最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。<br>
+<sup>28</sup> 《刑法修正案（十）》。<br>
+<sup>29</sup> 《公司法》（2005年修订）。<br>
+<sup>30</sup> 《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。<br>
 <sup>31</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。<br>
-<sup>32</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报（2013）锡民终字第497号（2013年2月8日）。<br>
+<sup>32</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。<br>
 <sup>33</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。<br>
 <sup>34</sup> Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.<br>
 <sup>35</sup> Andrew Rosenthal, <i>White House Tutors Kremlin in How a Presidency Works</i>, New York Times, 15 June 1990, at A1.<br>
@@ -104,9 +104,9 @@
   <div class="csl-entry">〔12〕	法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。</div>
   <div class="csl-entry">〔13〕	李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。</div>
   <div class="csl-entry">〔14〕	《民法总则》第 27 条第 2 款第 3 项。</div>
-  <div class="csl-entry">〔15〕	国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。</div>
+  <div class="csl-entry">〔15〕	《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>
   <div class="csl-entry">〔16〕	包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。</div>
-  <div class="csl-entry">〔17〕	陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年7月6日第11期。</div>
+  <div class="csl-entry">〔17〕	陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。</div>
   <div class="csl-entry">〔18〕	Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733 (1964).</div>
   <div class="csl-entry">〔19〕	Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.</div>
   <div class="csl-entry">〔20〕	William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
@@ -114,11 +114,11 @@
   <div class="csl-entry">〔22〕	R. v. Panel on Take-overs and Mergers, 815 QB (1987).</div>
   <div class="csl-entry">〔23〕	罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。</div>
   <div class="csl-entry">〔24〕	夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。</div>
-  <div class="csl-entry">〔25〕	全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。</div>
-  <div class="csl-entry">〔26〕	全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。</div>
-  <div class="csl-entry">〔27〕	最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。</div>
+  <div class="csl-entry">〔25〕	《刑法修正案（十）》。</div>
+  <div class="csl-entry">〔26〕	《公司法》（2005年修订）。</div>
+  <div class="csl-entry">〔27〕	《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。</div>
   <div class="csl-entry">〔28〕	国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
-  <div class="csl-entry">〔29〕	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报（2013）锡民终字第497号（2013年2月8日）。</div>
+  <div class="csl-entry">〔29〕	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。</div>
   <div class="csl-entry">〔30〕	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
   <div class="csl-entry">〔31〕	Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.</div>
   <div class="csl-entry">〔32〕	Andrew Rosenthal, <i>White House Tutors Kremlin in How a Presidency Works</i>, New York Times, 15 June 1990, at A1.</div>
@@ -183,9 +183,9 @@
 <sup>12</sup> 法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。<br>
 <sup>13</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
 <sup>14</sup> 《民法总则》第 27 条第 2 款第 3 项。<br>
-<sup>15</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
+<sup>15</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。<br>
 <sup>16</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-<sup>17</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年7月6日第11期。<br>
+<sup>17</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
 <sup>18</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733 (1964).<br>
 <sup>19</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
 <sup>20</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
@@ -193,11 +193,11 @@
 <sup>22</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
 <sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
-<sup>25</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。<br>
-<sup>26</sup> 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。<br>
-<sup>27</sup> 最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。<br>
+<sup>25</sup> 《刑法修正案（十）》。<br>
+<sup>26</sup> 《公司法》（2005年修订）。<br>
+<sup>27</sup> 《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。<br>
 <sup>28</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。<br>
-<sup>29</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报（2013）锡民终字第497号（2013年2月8日）。<br>
+<sup>29</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。<br>
 <sup>30</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。<br>
 <sup>31</sup> Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.<br>
 <sup>32</sup> Andrew Rosenthal, <i>White House Tutors Kremlin in How a Presidency Works</i>, New York Times, 15 June 1990, at A1.<br>
@@ -262,9 +262,9 @@
   <div class="csl-entry">〔12〕	法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。</div>
   <div class="csl-entry">〔13〕	李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。</div>
   <div class="csl-entry">〔14〕	《民法总则》第 27 条第 2 款第 3 项。</div>
-  <div class="csl-entry">〔15〕	国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。</div>
+  <div class="csl-entry">〔15〕	《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>
   <div class="csl-entry">〔16〕	包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。</div>
-  <div class="csl-entry">〔17〕	陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年7月6日第11期。</div>
+  <div class="csl-entry">〔17〕	陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。</div>
   <div class="csl-entry">〔18〕	Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733 (1964).</div>
   <div class="csl-entry">〔19〕	Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.</div>
   <div class="csl-entry">〔20〕	William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
@@ -272,11 +272,11 @@
   <div class="csl-entry">〔22〕	R. v. Panel on Take-overs and Mergers, 815 QB (1987).</div>
   <div class="csl-entry">〔23〕	罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。</div>
   <div class="csl-entry">〔24〕	夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。</div>
-  <div class="csl-entry">〔25〕	全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。</div>
-  <div class="csl-entry">〔26〕	全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。</div>
-  <div class="csl-entry">〔27〕	最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。</div>
+  <div class="csl-entry">〔25〕	《刑法修正案（十）》。</div>
+  <div class="csl-entry">〔26〕	《公司法》（2005年修订）。</div>
+  <div class="csl-entry">〔27〕	《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。</div>
   <div class="csl-entry">〔28〕	国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
-  <div class="csl-entry">〔29〕	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报（2013）锡民终字第497号（2013年2月8日）。</div>
+  <div class="csl-entry">〔29〕	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。</div>
   <div class="csl-entry">〔30〕	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
   <div class="csl-entry">〔31〕	Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.</div>
   <div class="csl-entry">〔32〕	Andrew Rosenthal, <i>White House Tutors Kremlin in How a Presidency Works</i>, New York Times, 15 June 1990, at A1.</div>
@@ -387,7 +387,7 @@
   <div class="csl-entry">〔38〕	西安电子科技大学：《光折变自适应光外差探测方法》，2002年版。</div>
   <div class="csl-entry">〔39〕	Ryuki Tachibana et al., <i>Electronic Watermarking Method and System</i>, 2005.</div>
   <div class="csl-entry">〔40〕	中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年版。</div>
-  <div class="csl-entry">〔41〕	北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，京政办发[2005]37号，2005年7月12日发布。</div>
+  <div class="csl-entry">〔41〕	《关于转发北京市企业投资项目核准暂行实施办法的通知》，京政办发[2005]37号。</div>
   <div class="csl-entry">〔42〕	D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">〔43〕	Online Computer Library Center, Inc, <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).</div>
   <div class="csl-entry">〔44〕	A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, (22 April 2009), <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
