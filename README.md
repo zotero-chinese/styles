@@ -1123,6 +1123,32 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 >[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms[J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
 >[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609<br>
 
+## [421hebau-thesis.csl]
+[河北农业大学](https://www.hebau.edu.cn/)学位论文参考文献样式。
+
+## [422caas-thesis.csl]
+[中国农业科学院](https://gs.caas.cn/xwxk/xwsy/227175.htm)作者年代学位论文参考文献样式，按著者字顺和出版年排序
+中文文献在前，按汉语拼音升序排序，英文文献在后，按字母升序排序。使用时需要将英文条目语言改为`en-US`，中文改为`zh-CN`。
+
+显示效果
+
+> ```
+>（王临惠 等, 2010; 李泽仟 等, 2016）
+>（沈寿国, 2004）****（邓一刚, 2006）；****（ZHANG et al., 2017）
+>（WANG, 2003）****（霍斯尼, 1989）****（DES MARAIS et al., 1992）
+>（CAIRNS, 1965）
+
+>李泽仟, 顾欢, 康乐, 张亚, 宋焕禄, 2016. 当归中关键气味活性化合物的鉴定及其在煎煮过程中变化规律研究. 食品工业科技, 37(9): 311-316. DOI: 10.13386/j.issn1002-0306.2016.09.052.
+>沈寿国, 2004. 蛇床子素抑制植物病原真菌机制的初步研究. 南京农业大学.
+>王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议. 山西师大学报(社会科学版), 37(4): 147-151.
+>邓一刚, 2006. 全智能节电器: 200610171314.3.
+>霍斯尼, 1989. 谷物科学与工艺学原理. 李庆龙, 译. 2 版. 北京: 中国食品出版社: 15-20.
+>WANG Z L, 2003. Handbook of Nanophase and Nanostructured Materials. New York: Kluwer Academic/Plenum [u.a.]. DOI: 10.1007/0-387-23814-X.
+>ZHANG Y F, LUO H X, GUO Z, ZHEN X J, CHEN M, LIU J N, 2017. Cleaning of carbon-contaminated optics using O2/Ar plasma. Nuclear Science and Techniques, 28(9): 127. DOI: 10.1007/s41365-017-0274-z.
+>CAIRNS B R, 1965. Infrared spectroscopic studies of solid oxygen. Berkeley: Univ. of California.
+>DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment. Nature, 359(6396): 605-609. DOI: 10.1038/359605a0.
+> ```
+
 
 ## LICENSE
 
@@ -1385,3 +1411,5 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [418hust-thesis.csl]: 418hust-thesis.csl
 [419bnu-thesis.csl]: 419bnu-thesis.csl
 [420beihang-thesis.csl]: 420beihang-thesis.csl
+[421hebau-thesis.csl]: 421hebau-thesis.csl
+[422caas-thesis.csl]: 422caas-thesis.csl
