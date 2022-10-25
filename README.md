@@ -758,7 +758,8 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 《[心理科学进展](https://journal.psych.ac.cn/xlkxjz/CN/column/column7.shtml)》样式。
 
-该样式仅在 apa.csl 的基础上调整了姓名的格式，没有处理其他部分的格式，可能不符要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组。
+该样式在 apa.csl 的基础上仅调整了姓名的格式，尚未处理中文文献在细节上的特殊要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组“
+[Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)”。
 
 
 ## [301manual-of-legal-citation-multi-lingual.csl]

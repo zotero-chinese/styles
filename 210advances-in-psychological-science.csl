@@ -13,8 +13,8 @@
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <issn>1671-3710</issn>
-    <summary>该样式仅在 apa.csl 的基础上调整了姓名的格式，没有处理其他部分的格式，可能不符要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组。</summary>
-    <updated>2022-10-06T19:42:00+08:00</updated>
+    <summary>该样式在 apa.csl 的基础上仅调整了姓名的格式，尚未处理中文文献在细节上的特殊要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组</summary>
+    <updated>2022-10-12T17:36:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -1740,7 +1740,6 @@
             </group>
             <text variable="references"/>
           </group>
-          <text macro="access"/>
         </group>
       </if>
       <else-if type="bill">
@@ -1773,7 +1772,6 @@
             </group>
             <text variable="references"/>
           </group>
-          <text macro="access"/>
         </group>
       </else-if>
       <else-if type="legislation">
@@ -1789,7 +1787,6 @@
             </group>
             <text variable="references"/>
           </group>
-          <text macro="access"/>
         </group>
       </else-if>
       <else-if type="treaty">
@@ -1803,7 +1800,6 @@
           </names>
           <text macro="date-legal"/>
           <text macro="container-legal"/>
-          <text macro="access"/>
         </group>
       </else-if>
     </choose>
@@ -2007,7 +2003,6 @@
             <text macro="event"/>
             <text macro="publisher"/>
           </group>
-          <text macro="access"/>
           <text macro="publication-history"/>
         </group>
       </else>
@@ -2036,7 +2031,6 @@
             <text macro="event"/>
             <text macro="publisher"/>
           </group>
-          <text macro="access"/>
           <text macro="publication-history"/>
         </group>
       </else>
