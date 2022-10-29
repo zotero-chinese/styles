@@ -762,24 +762,32 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 [Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)”。
 
 
-## [210advances-in-psychological-science.csl]
+## [211journal-of-plant-protection.csl]
 
 《[植物保护学报](http://www.zwbhxb.com.cn/ch/index.aspx)》样式。
+
+注意事项：
+
+1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。
+2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段，比如
+```
+original-author: Ye || Gong Yin
+original-author: Hu || Cui
+original-author: Shu || Qing Yao
+original-title: The development of transgenic rice resistant to insect pests and its wise and sustainable use
+original-container-title: Agricultural Development and Research in the 21st Century
+original-publisher-place: Beijing
+original-publisher: China Environmental Science Press
+```
 
 显示效果：
 
 <blockquote>
   （Altieri &#38; Nicholls，2004）<br>
   （Biesmeijer et al.，2006）<br>
-  （Garnsey et al.，1993）<br>
-  （McDonald &#38; Nicol，2005）<br>
   （钦俊德，1987）<br>
   （孙玉凤等，2011）<br>
-  （Tautz et al.，2002）<br>
   （吴孔明和郭予元，2000）<br>
-  （叶恭银等，1998）<br>
-  （曾士迈等，1979）<br>
-  （张徐波，2013）<br>
   （曾士迈等，1979；吴孔明和郭予元，2000）<br>
 </blockquote>
 
@@ -790,12 +798,12 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
     <div class="csl-entry">Garnsey SM, Permar TA, Cambra M, Henderson CT. 1993. Direct tissue blot immunoassay (DTBIA) for detection of citrus tristeza virus (CTV).//Moreno P, de Graca JV, Yokomi RK. Proceedings of the 12th Conference on International Organization of Citrus Virologist. Riverside. Riverside, USA, pp. 39-50</div>
     <div class="csl-entry">McDonald AH, Nicol JM. 2005. Nematode parasites of cereals.//Luc M, Sikora RA, Bridge J. Plant parasitic nematodes in subtropical and tropical agriculture. Wallingford, UK: CABI Publishing, pp. 131-191</div>
     <div class="csl-entry">Qin JD. 1987. The relationships between insects and plants. Beijing: Science Press, pp. 52-78 (in Chinese) [钦俊德. 1987. 昆虫与植物的关系. 北京: 科学出版社, pp. 52-78]</div>
-    <div class="csl-entry">Sun YF, Zhang YJ, Lu YH, Wu KM. 2011. The sustainability control of blind stink bug based on the cotton volatile substances.//Wu KM, Guo YY. Plant protection science and technology innovation and specialization of the prevention and control of diseases and pests—Academic annual Conference of Botanical China Society of Plant Protection in 2011. Beijing: China Agricultural Science and Technology Press, pp. 823 (in Chinese) [孙玉凤, 张永军, 陆宴辉, 吴孔明. 2011. 基于棉花挥发性物质的盲椿象可持续性防治.//植保科技创新与病虫防控专业化——中国植物保护学会2011年学术年会论文集. 北京: 中国农业科学技术出版社, pp. 823]</div>
+    <div class="csl-entry">Sun YF, Zhang YJ, Lu YH, Wu KM. 2011. The sustainability control of blind stink bug based on the cotton volatile substances.//Plant protection science and technology innovation and specialization of the prevention and control of diseases and pests—Academic annual Conference of Botanical China Society of Plant Protection in 2011. Beijing: China Agricultural Science and Technology Press, pp. 823 (in Chinese) [孙玉凤, 张永军, 陆宴辉, 吴孔明. 2011. 基于棉花挥发性物质的盲椿象可持续性防治.//吴孔明, 郭予元. 植保科技创新与病虫防控专业化——中国植物保护学会2011年学术年会论文集. 北京: 中国农业科学技术出版社, pp. 823]</div>
     <div class="csl-entry">Tautz D, Arctander P, Minelli A, Thomas RH, Vogler AP. 2002. DNA points the way ahead in taxonomy. Nature, 418(6897): 479</div>
     <div class="csl-entry">Wu KM, Guo YY. 2000. Field resistance evaluations of BT transgenic cotton GK series to cotton bollwoam. Journal of Plant Protection, 27(4): 317-321 (in Chinese) [吴孔明, 郭予元. 2000. 部分GK系列Bt棉对棉铃虫抗性的田间评价. 植物保护学报, 27(4): 317-321]</div>
     <div class="csl-entry">Ye GY, Hu C, Shu QY. 1998. The development of transgenic rice resistant to insect pests and its wise and sustainable use.//Agricultural Development and Research in the 21st Century. Beijing: China Environmental Science Press, pp. 406-414 (in Chinese) [叶恭银, 胡萃, 舒庆尧. 1998. 转基因抗虫水稻的转育及其合理持续利用.//世界农业发展与研究. 北京: 中国环境科学出版社, pp. 406-414]</div>
-    <div class="csl-entry">Zeng SM, Wang PY, Wu XY, Zhang WY, Wang JQ, Song WZ, Wang SY. 1979. Preliminary study on the method of evaluation of horizontal resistance of wheat cultivars to stripe rust. Journal of Plant Protection, 6(1): 1-10 (in Chinese) [曾士迈, 王沛有, 武修英, 张万义, 王吉庆, 宋位中, 王生元, 郭予元. 1979. 小麦对条锈病的水平抗病性研究初报. 植物保护学报, 6(1): 1-10]</div>
-    <div class="csl-entry">Zhang XB. 2013. Dpp-Omb信号以区域化的方式调控果蝇翅的生长. Ph.D Thesis. Beijing: China Agricultural University (in Chinese) [张徐波. 2013. Dpp-Omb信号以区域化的方式调控果蝇翅的生长. 博士毕业论文. 北京: 中国农业大学]</div>
+    <div class="csl-entry">Zeng SM, Wang PY, Wu XY, Zhang WY, Wang JQ, Song WZ, Wang SY. 1979. Preliminary study on the method of evaluation of horizontal resistance of wheat cultivars to stripe rust. Journal of Plant Protection, 6(1): 1-10 (in Chinese) [曾士迈, 王沛有, 武修英, 张万义, 王吉庆, 宋位中, 王生元. 1979. 小麦对条锈病的水平抗病性研究初报. 植物保护学报, 6(1): 1-10]</div>
+    <div class="csl-entry">Zhang XB. 2013. Dpp-Omb signaling regulates growth in a region specific manner during Drosophila wing development. Ph.D Thesis. Beijing: China Agricultural University (in Chinese) [张徐波. 2013. Dpp-Omb信号以区域化的方式调控果蝇翅的生长. 博士毕业论文. 北京: 中国农业大学]</div>
   </div>
 </blockquote>
 

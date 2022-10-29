@@ -11,7 +11,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="engineering"/>
-    <updated>2022-10-23T20:26:00+08:00</updated>
+    <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
+    <updated>2022-10-29T19:25:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -34,25 +35,29 @@
   <macro name="author-bib">
     <names variable="author"/>
   </macro>
-  <macro name="author-bib-zh">
-    <names variable="original-author">
-      <et-al term="and others"/>
-    </names>
+  <macro name="author-bib-translation">
+    <names variable="original-author"/>
   </macro>
-  <macro name="author-intext">
+  <macro name="author-sort">
     <choose>
       <if variable="original-author">
-        <names variable="original-author">
-          <name and="text"/>
-          <et-al term="and others"/>
-        </names>
+        <names variable="original-author"/>
       </if>
       <else>
-        <names variable="author">
-          <name form="short" and="symbol"/>
-        </names>
+        <names variable="author"/>
       </else>
     </choose>
+    <names variable="author"/>
+  </macro>
+  <macro name="author-intext">
+    <names variable="author">
+      <name form="short" and="symbol"/>
+    </names>
+  </macro>
+  <macro name="author-intext-zh">
+    <names variable="author">
+      <name and="text"/>
+    </names>
   </macro>
   <macro name="date">
     <choose>
@@ -81,11 +86,11 @@
       </choose>
     </group>
   </macro>
-  <macro name="title-zh">
+  <macro name="title-translation">
     <group delimiter=". ">
       <group delimiter=" ">
         <text variable="original-title"/>
-        <text macro="edition-zh" prefix="(" suffix=")"/>
+        <text macro="edition" prefix="(" suffix=")"/>
       </group>
       <choose>
         <if type="thesis">
@@ -101,18 +106,6 @@
           <number variable="edition" form="ordinal"/>
           <label variable="edition"/>
         </group>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="edition-zh">
-    <choose>
-      <if is-numeric="edition">
-        <text value="第"/>
-        <number variable="edition"/>
-        <text value="版"/>
       </if>
       <else>
         <text variable="edition"/>
@@ -152,7 +145,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-zh">
+  <macro name="container-translation">
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=": ">
@@ -166,19 +159,9 @@
           <text variable="page"/>
         </group>
       </if>
-      <else-if variable="container-title event-title" match="any">
-        <group delimiter=". ">
-          <text macro="editor-zh"/>
-          <choose>
-            <if variable="original-container-title">
-              <text variable="original-container-title"/>
-            </if>
-            <else>
-              <text variable="original-event-title"/>
-            </else>
-          </choose>
-        </group>
-      </else-if>
+      <else>
+        <text variable="original-container-title"/>
+      </else>
     </choose>
   </macro>
   <macro name="editor">
@@ -190,9 +173,6 @@
       </substitute>
     </names>
   </macro>
-  <macro name="editor-zh">
-    <names variable="original-editor"/>
-  </macro>
   <macro name="publisher">
     <group delimiter=", ">
       <group delimiter=": ">
@@ -202,7 +182,7 @@
       <text macro="page"/>
     </group>
   </macro>
-  <macro name="publisher-zh">
+  <macro name="publisher-translation">
     <group delimiter=", ">
       <group delimiter=": ">
         <text variable="original-publisher-place"/>
@@ -269,34 +249,34 @@
       </else>
     </choose>
   </macro>
-  <macro name="bib-layout-zh">
+  <macro name="bib-layout-translation">
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=". ">
-          <text macro="author-bib-zh"/>
+          <text macro="author-bib-translation"/>
           <text macro="date"/>
-          <text macro="title-zh"/>
-          <text macro="container-zh"/>
+          <text macro="title-translation"/>
+          <text macro="container-translation"/>
         </group>
       </if>
       <else-if type="chapter paper-conference" match="any">
         <group delimiter=". ">
-          <text macro="author-bib-zh"/>
+          <text macro="author-bib-translation"/>
           <text macro="date"/>
           <group delimiter=".//">
-            <text macro="title-zh"/>
-            <text macro="container-zh"/>
+            <text macro="title-translation"/>
+            <text macro="container-translation"/>
           </group>
-          <text macro="publisher-zh"/>
+          <text macro="publisher-translation"/>
         </group>
       </else-if>
       <else>
         <group delimiter=". ">
-          <text macro="author-bib-zh"/>
+          <text macro="author-bib-translation"/>
           <text macro="date"/>
-          <text macro="title-zh"/>
-          <text macro="container-zh"/>
-          <text macro="publisher-zh"/>
+          <text macro="title-translation"/>
+          <text macro="container-translation"/>
+          <text macro="publisher-translation"/>
         </group>
       </else>
     </choose>
@@ -304,7 +284,7 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
     <layout prefix="（" suffix="）" delimiter="；" locale="zh">
       <group delimiter="，">
-        <text macro="author-bib"/>
+        <text macro="author-intext-zh"/>
         <text macro="date"/>
         <text macro="locator"/>
       </group>
@@ -319,11 +299,12 @@
   </citation>
   <bibliography hanging-indent="true" et-al-min="11" et-al-use-first="10" entry-spacing="0">
     <sort>
-      <key macro="author-bib"/>
+      <key macro="author-sort"/>
       <key macro="date"/>
     </sort>
     <layout locale="zh">
       <group delimiter=" ">
+        <text macro="bib-layout-translation"/>
         <text value="(in Chinese)"/>
         <text macro="bib-layout" prefix="[" suffix="]"/>
       </group>
@@ -334,7 +315,7 @@
         <choose>
           <if variable="original-title">
             <text value="(in Chinese)"/>
-            <text macro="bib-layout-zh" prefix="[" suffix="]"/>
+            <text macro="bib-layout" prefix="[" suffix="]"/>
           </if>
         </choose>
       </group>
