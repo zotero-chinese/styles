@@ -57,6 +57,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
+          <name-part name="family" text-case="uppercase"/>
           <name and="" initialize-with="" sort-separator=",  "/>
         </names>
       </if>
@@ -65,6 +66,7 @@
       </else>
     </choose>
   </macro>
+  <!-- 这个宏可能没有用到 -->
   <macro name="author-bib">
     <choose>
       <if variable="original-author">
@@ -82,6 +84,7 @@
     <choose>
       <if variable="original-author">
         <names variable="original-author">
+          <name-part name="family" text-case="uppercase"/>
           <name et-al-min="4" et-al-use-first="3" and="" initialize="true" initialize-with="" sort-separator=",  "/>
           <et-al term="zh-et-al"/>
         </names>
@@ -107,7 +110,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="long" and="text"/>
+          <name form="long" and="text" />
           <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
           <et-al term="space-et-al"/>
         </names>
