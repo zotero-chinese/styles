@@ -615,7 +615,7 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 > Ebert S., S. Kaplan, K. Brettschneider, et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, 106388.<br>
 
 ## [204financial-research-journal.csl]
-[《金融研究》](http://www.jryj.org.cn/CN/column/column3.shtml)样式，[《经济研究》](203economic-research-journal.csl)基础上个性，文内为（作者，年代），参考文献列表中文在前，英文在后，作者前加编号。
+[《金融研究》](http://www.jryj.org.cn/CN/column/column3.shtml)样式，[《经济研究》](203economic-research-journal.csl)基础上修改，文内为（作者，年代），参考文献列表中文在前，英文在后，作者前加编号。
 
 显示效果：
 
