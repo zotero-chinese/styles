@@ -1437,7 +1437,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [209sociological-studies.csl]: 209sociological-studies.csl
 [210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
-[110food-science.csl]: 110food-science.csl
+[212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
