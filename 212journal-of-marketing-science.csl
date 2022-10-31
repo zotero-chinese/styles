@@ -67,7 +67,7 @@
     </choose>
   </macro>
   <!-- 这个宏可能没有用到 -->
-  <macro name="author-bib">
+  <!-- <macro name="author-bib">
     <choose>
       <if variable="original-author">
         <names variable="original-author">
@@ -78,7 +78,7 @@
         <text macro="author"/>
       </else>
     </choose>
-  </macro>
+  </macro> -->
   <!-- 用于翻译的条目 -->
   <macro name="author-zh">
     <choose>
