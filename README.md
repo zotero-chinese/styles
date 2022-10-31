@@ -835,16 +835,16 @@ original-publisher: China Environmental Science Press
 </blockquote>
 
 <blockquote>
-[1]	金声琅, 殷涌光, 王莹. 脉冲电场协同加热对乳清蛋白凝胶质构特性的影响. 农业机械学报, 2013, 44(1): 142-146. 
+[1]	金声琅, 殷涌光, 王莹. 脉冲电场协同加热对乳清蛋白凝胶质构特性的影响. 农业机械学报, 2013, 44(1): 142-146.
 
 Jin S, Yin Y, Wang Y. Effects of combined pulsed electric field and heat treatment on texture characteristics of whey protein gels. Transactions of the Chinese Society for Agricultural Machinery, 2013, 44(1): 142-146. (in Chinese)
 
-[2]	董爽. 玉米醇溶蛋白的低温等离子体改性及其性质、结构和应用研究. 天津: 天津科技大学, 2018. 
+[2]	董爽. 玉米醇溶蛋白的低温等离子体改性及其性质、结构和应用研究. 天津: 天津科技大学, 2018.
 
 Dong S. Effects of peanut oil on gel properties and microstructure of PSE-like chicken meat. Tianjin: Tianjin University of Science and Technology, 2018. (in Chinese)
 
 
-[3]	艾媒咨询. 2022年中国种草经济市场及消费者行为监测报告. 2022: 26. 
+[3]	艾媒咨询. 2022年中国种草经济市场及消费者行为监测报告. 2022: 26.
 
 iResearch. Monitoring report on China’s grass planting economy market and consumer behavior in 2022. 2022: 26. (in Chinese)
 
@@ -852,6 +852,29 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 
 </blockquote>
+
+## [214studies-of-marxism.csl]
+
+《[马克思主义研究](http://www.mkszyyj.net/Home/Index)》样式。
+
+显示效果：
+
+<blockquote>
+  <sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年，第22、178页。<br>
+  <sup>2</sup> 逄先知、金冲及主编：《毛泽东传》，2003年，第1032页。<br>
+  <sup>3</sup> [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年，第427-428页。<br>
+  <sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
+    <div class="csl-entry">[2] 逄先知、金冲及主编：《毛泽东传》，2003年。</div>
+    <div class="csl-entry">[3] [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年。</div>
+    <div class="csl-entry">[4] 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
+  </div>
+</blockquote>
+
 
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
@@ -1484,6 +1507,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
 [213scientia-agricultura-sinica.csl]: 213scientia-agricultura-sinica.csl
+[214studies-of-marxism.csl]: 214studies-of-marxism.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
