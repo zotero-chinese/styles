@@ -47,7 +47,11 @@ email 前后加 __
 
 **不是`English`！不是`English`！不是`English`！**
 
+**将中文文献 `Info` 中 `language` 字段修改为 `zh-CN`。
+
 或是需要将显示不正常的文献删除后重新插入。
+
+如果显示仍然不正常，可以尝试在Zotero的Word工具条中点击`Document Preferences`，将`Language`切换一下（原来为`English(US)`改为`中文（中国大陆）`，原来`中文（中国大陆）`改为`English(US)`），再点击`OK`。
 
 使用详情参见[基于`GB/T-7714-2015`的 `Style` 实现同时生成 `et al` 和`等`的方法](https://zhuanlan.zhihu.com/p/320253145)，
 或[`Zotero` 修改版终于可以原生支持同时生成 `et al` 和`等`了](https://zhuanlan.zhihu.com/p/314928204)。
