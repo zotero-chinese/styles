@@ -811,6 +811,43 @@ original-publisher: China Environmental Science Press
   </div>
 </blockquote>
 
+## [213scientia-agricultura-sinica.csl]
+[《中国农业科学》](https://www.chinaagrisci.com/CN/column/column6.shtml)样式，显示全部作者，作者首字母大写，姓缩写。中文文献后面跟随英文翻译。
+
+使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
+2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段，比如
+```
+original-author: Ye || Gong Yin
+original-author: Hu || Cui
+original-author: Shu || Qing Yao
+original-title: The development of transgenic rice resistant to insect pests and its wise and sustainable use
+original-container-title: Agricultural Development and Research in the 21st Century
+original-publisher-place: Beijing
+original-publisher: China Environmental Science Press
+```
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l^p` 替换为 `^p` 批量删除。
+
+显示效果：
+
+<blockquote>
+<sup>[1]</sup>  <sup>[2]</sup><br>
+<sup>[3]</sup> <sup>[4]</sup><br>
+</blockquote>
+
+<blockquote>
+[1]	金声琅, 殷涌光, 王莹. 脉冲电场协同加热对乳清蛋白凝胶质构特性的影响. 农业机械学报, 2013, 44(1): 142-146. 
+Jin S, Yin Y, Wang Y. Effects of combined pulsed electric field and heat treatment on texture characteristics of whey protein gels. Transactions of the Chinese Society for Agricultural Machinery, 2013, 44(1): 142-146. (in Chinese)
+
+[2]	董爽. 玉米醇溶蛋白的低温等离子体改性及其性质、结构和应用研究. 天津: 天津科技大学, 2018. 
+Dong S. Effects of peanut oil on gel properties and microstructure of PSE-like chicken meat. Tianjin: Tianjin University of Science and Technology, 2018. (in Chinese)
+
+[3]	艾媒咨询. 2022年中国种草经济市场及消费者行为监测报告. 2022: 26. 
+iResearch. Monitoring report on China’s grass planting economy market and consumer behavior in 2022. 2022: 26. (in Chinese)
+
+[4]	Zhao X, Chen X, Han M Y, Qian C, Xu X L, Zhou G H. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat. LWT - Food Science and Technology, 2016, 72: 141-148.
+
+
+</blockquote>
 
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
@@ -1442,6 +1479,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 [210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
+[213scientia-agricultura-sinica.csl]: 213scientia-agricultura-sinica.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
