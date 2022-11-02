@@ -836,12 +836,16 @@ original-publisher: China Environmental Science Press
 
 <blockquote>
 [1]	金声琅, 殷涌光, 王莹. 脉冲电场协同加热对乳清蛋白凝胶质构特性的影响. 农业机械学报, 2013, 44(1): 142-146. 
+
 Jin S, Yin Y, Wang Y. Effects of combined pulsed electric field and heat treatment on texture characteristics of whey protein gels. Transactions of the Chinese Society for Agricultural Machinery, 2013, 44(1): 142-146. (in Chinese)
 
 [2]	董爽. 玉米醇溶蛋白的低温等离子体改性及其性质、结构和应用研究. 天津: 天津科技大学, 2018. 
+
 Dong S. Effects of peanut oil on gel properties and microstructure of PSE-like chicken meat. Tianjin: Tianjin University of Science and Technology, 2018. (in Chinese)
 
+
 [3]	艾媒咨询. 2022年中国种草经济市场及消费者行为监测报告. 2022: 26. 
+
 iResearch. Monitoring report on China’s grass planting economy market and consumer behavior in 2022. 2022: 26. (in Chinese)
 
 [4]	Zhao X, Chen X, Han M Y, Qian C, Xu X L, Zhou G H. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat. LWT - Food Science and Technology, 2016, 72: 141-148.
