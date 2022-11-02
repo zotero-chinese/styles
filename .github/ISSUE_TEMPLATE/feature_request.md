@@ -17,6 +17,14 @@ assignees: ''
 - 英文名称：
 <!-- 如：Acta Psychologica Sinica / Tsinghua University -->
 
+- 相关领域：
+<!-- 从以下领域中选择最接近的
+anthropology, astronomy, biology, botany, chemistry, communications,
+engineering, geography, geology, history, humanities, law, linguistics,
+literature, math, medicine, philosophy, physics, political_science, psychology,
+science, social_science, sociology, theology, zoology
+-->
+
 - 期刊/学校官网链接：
 <!-- 如：<https://journal.psych.ac.cn/xlxb/CN/0439-755X/home.shtml> 或 <https://www.tsinghua.edu.cn/index.htm> -->
 
