@@ -1421,9 +1421,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Zotero` 中日期间隔符号由“–”改为“-”见 <https://zhuanlan.zhihu.com/p/366504227>。
 
-
 `Zotero` 如何让 GB7714 2005 中 book（书籍）也显示页码 <https://zhuanlan.zhihu.com/p/429125051>。
-
 
 `Zotero` 有权限时在导入 `CNKI` 题录时同时下载全文的方法 <https://zhuanlan.zhihu.com/p/90638718>。
 
@@ -1460,6 +1458,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 `Word` 中没有 `Zotero` 工具条的解决办法之一 <https://zhuanlan.zhihu.com/p/58931999>。
 
 `WPS Office`中使用`Zotero`插入参考文献不报错的方法<https://zhuanlan.zhihu.com/p/580194390>。
+
+WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/580205995>。
 
 `Zotero`+`Word 2016` 参考文献中英文混排，解决 `et al` 和`等`的问题 <https://zhuanlan.zhihu.com/p/58237038>。
 
