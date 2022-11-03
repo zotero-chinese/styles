@@ -1459,6 +1459,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Word` 中没有 `Zotero` 工具条的解决办法之一 <https://zhuanlan.zhihu.com/p/58931999>。
 
+`WPS Office`中使用`Zotero`插入参考文献不报错的方法<https://zhuanlan.zhihu.com/p/580194390>。
+
 `Zotero`+`Word 2016` 参考文献中英文混排，解决 `et al` 和`等`的问题 <https://zhuanlan.zhihu.com/p/58237038>。
 
 `Zotero` 参考文献中论文题目部分单词实现斜体及上标、下标效果 <https://zhuanlan.zhihu.com/p/57638901>。
