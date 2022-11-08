@@ -1,11 +1,6 @@
----
-name: 样式请求
-about: 申请添加新的 CSL 样式
-title: ''
-labels: ''
-assignees: ''
+<!-- 以下内容用于申请新的 CSL 样式。
+如果反馈样式 bug 请删掉下列内容，并填写样式文件名、错误信息、预期结果、屏幕截图等信息。 -->
 
----
 
 **样式信息**
 
@@ -17,6 +12,9 @@ assignees: ''
 - 英文名称：
 <!-- 如：Acta Psychologica Sinica / Tsinghua University -->
 
+- 期刊/学校官网链接：
+<!-- 如：<https://journal.psych.ac.cn/xlxb/CN/0439-755X/home.shtml> 或 <https://www.tsinghua.edu.cn/index.htm> -->
+
 - 相关领域：
 <!-- 从以下领域中选择最接近的
 anthropology, astronomy, biology, botany, chemistry, communications,
@@ -24,9 +22,6 @@ engineering, geography, geology, history, humanities, law, linguistics,
 literature, math, medicine, philosophy, physics, political_science, psychology,
 science, social_science, sociology, theology, zoology
 -->
-
-- 期刊/学校官网链接：
-<!-- 如：<https://journal.psych.ac.cn/xlxb/CN/0439-755X/home.shtml> 或 <https://www.tsinghua.edu.cn/index.htm> -->
 
 - ISSN 号：
 <!-- 如：0439-755X -->

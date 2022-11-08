@@ -16,6 +16,7 @@
         </contributor>
         <category citation-format="numeric"/>
         <category field="generic-base"/>
+        <issn>1000-7091</issn>
         <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL`。</summary>
         <updated>2022-09-14T23:56:46+00:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>

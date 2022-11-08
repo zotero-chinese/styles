@@ -337,7 +337,10 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
+<<<<<<< HEAD
       <!-- <key variable="language" sort="descending"/> -->
+=======
+>>>>>>> 44a2c464883137ca48c612d2a16fd904d5b02654
       <key macro="author-intext"/>
       <key macro="issue-date-year" sort="ascending"/>
     </sort>

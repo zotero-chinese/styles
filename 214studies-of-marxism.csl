@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="zh-CN">
+  <info>
+    <title>马克思主义研究</title>
+    <id>http://www.zotero.org/styles/studies-on-marxism</id>
+    <link href="http://www.zotero.org/styles/studies-on-marxism" rel="self"/>
+    <link href="http://www.mkszyyj.net/Show/11787?itemid=47369" rel="documentation"/>
+    <author>
+      <name>Zeping Lee</name>
+      <email>zepinglee@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="political_science"/>
+    <issn>1006-5199</issn>
+    <updated>2022-10-31T19:14:00+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="zh-CN">
+    <date form="text">
+      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
+      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
+      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
+    </date>
+    <terms>
+      <term name="edition" form="short">版</term>
+      <term name="editor" form="short">主编</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="、"/>
+      <label form="short"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="volume">
+    <choose>
+      <if is-numeric="volume">
+        <text value="第"/>
+        <number variable="volume"/>
+        <label variable="volume"/>
+      </if>
+      <else>
+        <text variable="volume" prefix="（" suffix="）"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <text variable="title" prefix="《" suffix="》"/>
+    <text macro="volume"/>
+  </macro>
+  <macro name="translator">
+    <names variable="translator">
+      <name delimiter="、" et-al-min="3" et-al-use-first="1"/>
+      <label form="short"/>
+    </names>
+  </macro>
+  <macro name="issue">
+    <choose>
+      <if is-numeric="issue">
+        <text value="第"/>
+        <number variable="issue"/>
+        <label variable="issue"/>
+      </if>
+      <else>
+        <text variable="issue"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="date">
+    <choose>
+      <if type="aritcle-newspaper">
+        <date variable="issued" form="text"/>
+      </if>
+      <else>
+        <date variable="issued" form="text" date-parts="year"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-periodical">
+    <text variable="container-title" prefix="《" suffix="》"/>
+    <text macro="date"/>
+    <text macro="issue"/>
+  </macro>
+  <macro name="container-booklike">
+    <group delimiter="：">
+      <names variable="editor">
+        <name delimiter="、"/>
+        <label form="short"/>
+      </names>
+      <text variable="container-title" prefix="《" suffix="》"/>
+    </group>
+  </macro>
+  <macro name="publisher">
+    <group delimiter="：">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+  <macro name="access">
+    <choose>
+      <if type="post post-weblog software webpage">
+        <text variable="URL"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="entry-layout">
+    <group delimiter="：">
+      <text macro="author"/>
+      <group delimiter="，">
+        <text macro="title"/>
+        <text macro="translator"/>
+        <choose>
+          <if type="article-journal article-magazine article-newspaper" match="any">
+            <text macro="container-periodical"/>
+          </if>
+          <else-if type="chapter paper-conference" match="any">
+            <text macro="container-booklike"/>
+            <text macro="publisher"/>
+            <text macro="date"/>
+          </else-if>
+          <else>
+            <text macro="publisher"/>
+            <text macro="date"/>
+          </else>
+        </choose>
+        <text macro="access"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="locator">
+    <choose>
+      <if is-numeric="locator">
+        <text value="第"/>
+        <number variable="locator"/>
+        <label variable="locator"/>
+      </if>
+      <else>
+        <text variable="locator"/>
+      </else>
+    </choose>
+  </macro>
+  <citation>
+    <layout delimiter="；" suffix="。">
+      <group delimiter="，">
+        <text macro="entry-layout"/>
+        <text macro="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout" suffix="。"/>
+    </layout>
+  </bibliography>
+</style>
