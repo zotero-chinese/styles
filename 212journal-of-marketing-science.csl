@@ -511,7 +511,6 @@
   </citation>
   <bibliography entry-spacing="0">
     <sort>
-      <key variable="language" sort="descending"/>
       <key macro="author-intext" sort="ascending"/>
       <key macro="issue-date-year" sort="ascending"/>
     </sort>

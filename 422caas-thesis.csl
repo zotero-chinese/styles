@@ -424,7 +424,6 @@
     </citation>
     <bibliography entry-spacing="0" hanging-indent="true">
         <sort>
-            <key variable="language" sort="descending"/>
             <key macro="author"/>
             <key macro="issued-year"/>
         </sort>
