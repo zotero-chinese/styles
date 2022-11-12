@@ -861,7 +861,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 <blockquote>
   <sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年，第22、178页。<br>
-  <sup>2</sup> 逄先知、金冲及主编：《毛泽东传》，2003年，第1032页。<br>
+  <sup>2</sup> 逄先知、金冲及主编：《-毛-泽-东-传》，2003年，第1032页。<br>
   <sup>3</sup> [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年，第427-428页。<br>
   <sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
 </blockquote>
@@ -869,7 +869,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1] 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
-    <div class="csl-entry">[2] 逄先知、金冲及主编：《毛泽东传》，2003年。</div>
+    <div class="csl-entry">[2] 逄先知、金冲及主编：《-毛-泽-东-传》，2003年。</div>
     <div class="csl-entry">[3] [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年。</div>
     <div class="csl-entry">[4] 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
   </div>
@@ -898,7 +898,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
   <sup>5</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
   <sup>6</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
   <sup>7</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-  <sup>8</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
+  <sup>8</sup> 陆红霞诉南通市-发-改-委-政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
   <sup>9</sup> Charles A. Reich, <i>The New Property</i>, 73 Yale Law Journal 733, 737-738 (1964).<br>
   <sup>10</sup> Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10.<br>
   <sup>11</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
