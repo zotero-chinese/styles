@@ -573,27 +573,40 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 ## [202journal-of-management-world.csl]
 
-[《管理世界》样式](http://www.mwm.net.cn/Web/Instruction)，[《经济社会体制比较》](7comparative-economic-and-social-systems.csl)基础上修改。
+《[管理世界](http://www.mwm.net.cn/web/)》样式。
 
-文末参考文献先按语言排序，中文在前，英文在后。需要设置中文条目语言为`zh`，英文条目语言为`en`。
-
-存在问题：英文期刊题目要求为所有实词单词首字母大写，但由于采用了两个 `layout`，在 `csl` 中设置为 `text-case="capitalize-first"` 时
-所有单词都会大写，设置为 `text-case="title"` 时仅第一个单词和最后一个单词大写，因此现在没有设置，大小写与 `Zotero` 中 `Title` 字段相同。
+文献语言默为英文，中文文献需要设置 `language` 字段为 `zh` 或 `zh-CN`。
 
 显示效果：
 
-> ```
-> （康大成，2017）
-> （Chen et al., 2020）
-> （王静帆等，2021）
-> （Ebert et al., 2021）
-> ```
+<blockquote>
+  （戴治勇，2014）<br>
+  （林乐、谢德仁，2017）<br>
+  （王化成等，2015）<br>
+  （戴治勇，2014；林乐、谢德仁，2017；王化成等，2015）<br>
+  （Weiss，2010）<br>
+  （Kang and Kim，2008）<br>
+  （Banker et al.，2013）<br>
+  （Weiss，2010；Kang and Kim，2008；Banker et al.，2013）<br>
+</blockquote>
 
-> （1）康大成：《超声波辅助腌制对牛肉品质的影响及其机理研究》，南京农业大学博士学位论文学位论文，2017年。<br>
-> （2）王静帆、黄峰、沈青山等：《低温长时蒸煮对猪肉品质的影响》，《中国农业科学》，2021年第3期。<br>
-> （3）Chen X., Liang L., Xu X., 2020, “Advances in converting of meat protein into functional ingredient via engineering modification of high pressure homogenization”, *Trends in Food Science & Technology*, 106, pp. 12~29.<br>
-> （4）Ebert S., Kaplan S., Brettschneider K., et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, pp. 106388.<br>
-
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">（1）戴治勇：《法治、信任与企业激励薪酬设计》，《管理世界》，2014年第2期。</div>
+    <div class="csl-entry">（2）高琳：《分税制、地方财政自主权与经济发展绩效研究》，上海人民出版社，2016年。</div>
+    <div class="csl-entry">（3）黄超：《管理层利用语调管理配合盈余管理了吗？——来自我国上市公司年报的文本分析》，上海财经大学博士学位论文，2017年。</div>
+    <div class="csl-entry">（4）李实、佐藤宏主编：《经济转型的代价──中国城市失业、贫困、收入差距的经验分析》，北京中国财政经济出版社，2004年。</div>
+    <div class="csl-entry">（5）林乐、谢德仁：《分析师荐股更新利用管理层语调吗?——基于业绩说明会的文本分析》，《管理世界》，2017年第11期。</div>
+    <div class="csl-entry">（6）王化成、曹丰、叶康涛：《监督还是掏空：大股东持股比列与股价崩盘风险》，《管理世界》，2015年第2期。</div>
+    <div class="csl-entry">（7）佐藤宏：《外出务工、谋职和城市劳动力市场——市场支撑机制的社会网络分析》，载李实、佐藤宏主编：《经济转型的代价──中国城市失业、贫困、收入差距的经验分析》，中国财政经济出版社，2004年。</div>
+    <div class="csl-entry">（8）Banker, R. D., Byzalov, D. and Chen, L. T., 2013, “Employment Protection Legislation, Adjustment Costs and Cross-Country Differences in Cost Behavior”, <i>Journal of Accounting and Economics</i>, 55(1), pp.111~127.</div>
+    <div class="csl-entry">（9）Fama, E. F., 1989, “Perspectives on October 1987, or What Did We Learn from the Crash?”, in Barro, R. J., R. W. Kamphuis, R. C. Kormendi and J. W. H. Watson, eds: <i>Black Monday and the Future of the Financial Markets</i>, Irwin, Homewood, III.</div>
+    <div class="csl-entry">（10）Kang, J. K. and Kim, J. M., 2008, “The Geography of Block Acquisitions”, <i>The Journal of Finance</i>, 63(6), pp.2817~2858.</div>
+    <div class="csl-entry">（11）Krugman, P., 2006, “Title of the Article”, NBER Working Paper, No.4567.</div>
+    <div class="csl-entry">（12）Skolnik, M. I., 2008, <i>Radar Handbook</i>, New York: McGraw-Hill.</div>
+    <div class="csl-entry">（13）Weiss, D., 2010, “Cost Behavior and Analysts’ Earnings Forecasts”, <i>The Accounting Review</i>, vol.85, pp.1441~1471.</div>
+  </div>
+</blockquote>
 
 
 ## [203economic-research-journal.csl]
