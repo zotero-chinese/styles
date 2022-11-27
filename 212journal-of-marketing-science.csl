@@ -59,7 +59,7 @@
       <if variable="author">
         <names variable="author">
           <name-part name="family" text-case="uppercase"/>
-          <name and="" initialize-with="" sort-separator=",  "/>
+          <name and="" initialize-with=" " sort-separator=",  "/>
         </names>
       </if>
       <else>
@@ -86,7 +86,7 @@
       <if variable="original-author">
         <names variable="original-author">
           <name-part name="family" text-case="uppercase"/>
-          <name et-al-min="4" et-al-use-first="3" and="" initialize="true" initialize-with="" sort-separator=",  "/>
+          <name et-al-min="4" et-al-use-first="3" and="" initialize="true" initialize-with=" " sort-separator=",  "/>
           <et-al term="zh-et-al"/>
         </names>
       </if>
@@ -521,7 +521,7 @@
     <layout>
       <text variable="citation-number" prefix="[" suffix="]&#x9;"/>
       <text macro="bib-full"/>
-      <text macro="bib-zh" display="block" suffix=" (in Chinese)"/> <!--翻译的英文  -->
+      <text macro="bib-zh" display="block" suffix=" (In Chinese)"/> <!--翻译的英文  -->
     </layout>
   </bibliography>
 </style>
