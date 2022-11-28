@@ -910,6 +910,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
   <sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
 </blockquote>
 
+
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1] 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
@@ -919,6 +920,29 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
   </div>
 </blockquote>
 
+
+## [215international-economics-and-trade-research.csl]
+
+[《国际经贸探索》](https://gjts.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=gjts#)样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]基础上修改，
+1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。
+
+使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
+
+<blockquote>
+（Jiang, 2017; Wang et al., 2020; Bowker & Zhuang, 2017; 金朝辉，2022; 高磊、鲍晓华，2022; 李宏、乔越，2022; 林创伟 等，2022）
+</blockquote>
+ 
+<blockquote>
+参考文献
+
+高磊, 鲍晓华, 2022. 技术性贸易壁垒对本国出口的影响：理论与实证[J]. 国际经贸探索, 38(11): 20-34.
+金朝辉, 2022. 人民币汇率、融资约束对出口贸易的影响研究[J]. 国际经贸探索, 38(11): 35-50.
+李宏, 乔越, 2022. 企业嵌入全球价值链的创新路径选择：“渐进式”抑或“突破式”创新[J]. 国际经贸探索, 38(11): 66-81.
+林创伟, 白洁, 何传添, 2022. 高标准国际经贸规则解读、形成的挑战与中国应对——基于美式、欧式、亚太模板的比较分析[J]. 国际经贸探索, 38(11): 95-112.
+Bowker, B, Zhuang, H, 2017. Freezing-thawing and sub-sampling influence the marination performance of chicken breast meat1 1The use of trade, firm, or corporation names in this publication is for the information and convenience of the reader. Such use does not constitute an official endorsement or approval by the United States Department of Agriculture or the Agricultural Research Service of any product or service to the exclusion of others that may be suitable.[J]. Poultry Science, 96(9): 3482-3488.
+Jiang, J, 2017. Dietary linseed oil supplemented with organic selenium improved the fatty acid nutritional profile, muscular selenium deposition, water retention, and tenderness of fresh pork[J]. Meat Science, 131: 99-106.
+Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface color and water retention of yellow-feathered chickens[J]. Poultry Science, 99(4): 2246-2255.
+</blockquote>
 
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
