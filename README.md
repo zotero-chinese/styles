@@ -824,8 +824,39 @@ original-publisher: China Environmental Science Press
   </div>
 </blockquote>
 
+## [212journal-of-marketing-science.csl]
+
+[《营销科学学报》](http://www.jms.org.cn:8081/jms/fileup/jms/ITEM/20220923110330.pdf)样式，作者全部大写，名缩写。中文文献后面跟随英文翻译。
+
+使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
+2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段，比如
+```
+original-author: Liu || Lei
+original-author: Zheng || Yu Huang
+original-author: Chen || Rui
+original-title: Better with More Choices?Impact of Choice Set Size on Variety Seeking
+original-container-title: Acta psychologica sinica
+```
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l^p` 替换为 `^p` 批量删除。
+<blockquote>
+显示效果：
+（Cai et al.，2020; Ringler et al.，2019）
+（刘蕾等，2015）
+（Wang et al.，2022）
+
+
+[1]	刘蕾, 郑毓煌, 陈瑞. 2015. 选择多多益善?——选择集大小对消费者多样化寻求的影响[J]，心理学报, 47(01): 66-78. 
+LIU L, ZHENG Y H, CHEN R. 2015. Better with more choices?impact of choice set size on variety seeking[J]，Acta psychologica sinica, 47(01): 66-78. (In Chinese)
+
+[2]	CAI L, WAN J, LI X, LI J. 2020. Effects of different thawing methods on conformation and oxidation of myofibrillar protein from largemouth bass (micropterus salmoides)[J], Journal of food science, n/a(n/a).
+[3]	RINGLER C, SIRIANNI N J, GUSTAFSSON A, PECK J. 2019. Look but don’t touch! the impact of active interpersonal haptic blocking on compensatory touch and purchase behavior[J], Journal of retailing, 95(4): 186-203.
+[4]	WANG H, OUYANG Z, HU L, CHENG Y, ZHU J, MA L, ZHANG Y. 2022. Self-assembly of gelatin and phycocyanin for stabilizing thixotropic emulsions and its effect on 3d printing[J], Food chemistry, 397: 133725.
+
+</blockquote>
+
 ## [213scientia-agricultura-sinica.csl]
-[《中国农业科学》](https://www.chinaagrisci.com/CN/column/column6.shtml)样式，显示全部作者，作者首字母大写，姓缩写。中文文献后面跟随英文翻译。
+
+[《中国农业科学》](https://www.chinaagrisci.com/CN/column/column6.shtml)样式，显示全部作者，作者首字母大写，名缩写。中文文献后面跟随英文翻译。
 
 使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
 2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段，比如
@@ -1525,6 +1556,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
 [213scientia-agricultura-sinica.csl]: 213scientia-agricultura-sinica.csl
 [214studies-of-marxism.csl]: 214studies-of-marxism.csl
+[215international-economics-and-trade-research.csl]:215international-economics-and-trade-research.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
