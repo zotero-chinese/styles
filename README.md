@@ -547,6 +547,48 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 > [4] Jha M, Gassman P W, Secchi S, Gu R, Arnold J. Effect of watershed subdivision on SWAT flow, sediment, and nutrient predictions[J]. JAWRA Journal of the American Water Resources Association, 2004, 40(3): 811-825. doi: 10.1111/j.1752-1688.2004.tb04460.x.</br>
 
+## [213scientia-agricultura-sinica.csl]
+
+[《中国农业科学》](https://www.chinaagrisci.com/CN/column/column6.shtml)样式，显示全部作者，作者首字母大写，名缩写。中文文献后面跟随英文翻译。
+
+使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
+2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段，比如
+```
+original-author: Ye || Gong Yin
+original-author: Hu || Cui
+original-author: Shu || Qing Yao
+original-title: The development of transgenic rice resistant to insect pests and its wise and sustainable use
+original-container-title: Agricultural Development and Research in the 21st Century
+original-publisher-place: Beijing
+original-publisher: China Environmental Science Press
+```
+存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l^p` 替换为 `^p` 批量删除。
+
+显示效果：
+
+<blockquote>
+<sup>[1]</sup>  <sup>[2]</sup><br>
+<sup>[3]</sup> <sup>[4]</sup><br>
+</blockquote>
+
+<blockquote>
+[1]	金声琅, 殷涌光, 王莹. 脉冲电场协同加热对乳清蛋白凝胶质构特性的影响. 农业机械学报, 2013, 44(1): 142-146.
+
+Jin S, Yin Y, Wang Y. Effects of combined pulsed electric field and heat treatment on texture characteristics of whey protein gels. Transactions of the Chinese Society for Agricultural Machinery, 2013, 44(1): 142-146. (in Chinese)
+
+[2]	董爽. 玉米醇溶蛋白的低温等离子体改性及其性质、结构和应用研究. 天津: 天津科技大学, 2018.
+
+Dong S. Effects of peanut oil on gel properties and microstructure of PSE-like chicken meat. Tianjin: Tianjin University of Science and Technology, 2018. (in Chinese)
+
+
+[3]	艾媒咨询. 2022年中国种草经济市场及消费者行为监测报告. 2022: 26.
+
+iResearch. Monitoring report on China’s grass planting economy market and consumer behavior in 2022. 2022: 26. (in Chinese)
+
+[4]	Zhao X, Chen X, Han M Y, Qian C, Xu X L, Zhou G H. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat. LWT - Food Science and Technology, 2016, 72: 141-148.
+
+
+</blockquote>
 
 ## [201comparative-economic-and-social-systems.csl]
 
@@ -845,79 +887,13 @@ original-container-title: Acta psychologica sinica
 （Wang et al.，2022）
 
 
-[1]	刘蕾, 郑毓煌, 陈瑞. 2015. 选择多多益善?——选择集大小对消费者多样化寻求的影响[J]，心理学报, 47(01): 66-78. 
+[1]	刘蕾, 郑毓煌, 陈瑞. 2015. 选择多多益善?——选择集大小对消费者多样化寻求的影响[J]，心理学报, 47(01): 66-78.
 LIU L, ZHENG Y H, CHEN R. 2015. Better with more choices?impact of choice set size on variety seeking[J]，Acta psychologica sinica, 47(01): 66-78. (In Chinese)
 
 [2]	CAI L, WAN J, LI X, LI J. 2020. Effects of different thawing methods on conformation and oxidation of myofibrillar protein from largemouth bass (micropterus salmoides)[J], Journal of food science, n/a(n/a).
 [3]	RINGLER C, SIRIANNI N J, GUSTAFSSON A, PECK J. 2019. Look but don’t touch! the impact of active interpersonal haptic blocking on compensatory touch and purchase behavior[J], Journal of retailing, 95(4): 186-203.
 [4]	WANG H, OUYANG Z, HU L, CHENG Y, ZHU J, MA L, ZHANG Y. 2022. Self-assembly of gelatin and phycocyanin for stabilizing thixotropic emulsions and its effect on 3d printing[J], Food chemistry, 397: 133725.
 
-</blockquote>
-
-## [213scientia-agricultura-sinica.csl]
-
-[《中国农业科学》](https://www.chinaagrisci.com/CN/column/column6.shtml)样式，显示全部作者，作者首字母大写，名缩写。中文文献后面跟随英文翻译。
-
-使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
-2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段，比如
-```
-original-author: Ye || Gong Yin
-original-author: Hu || Cui
-original-author: Shu || Qing Yao
-original-title: The development of transgenic rice resistant to insect pests and its wise and sustainable use
-original-container-title: Agricultural Development and Research in the 21st Century
-original-publisher-place: Beijing
-original-publisher: China Environmental Science Press
-```
-存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l^p` 替换为 `^p` 批量删除。
-
-显示效果：
-
-<blockquote>
-<sup>[1]</sup>  <sup>[2]</sup><br>
-<sup>[3]</sup> <sup>[4]</sup><br>
-</blockquote>
-
-<blockquote>
-[1]	金声琅, 殷涌光, 王莹. 脉冲电场协同加热对乳清蛋白凝胶质构特性的影响. 农业机械学报, 2013, 44(1): 142-146.
-
-Jin S, Yin Y, Wang Y. Effects of combined pulsed electric field and heat treatment on texture characteristics of whey protein gels. Transactions of the Chinese Society for Agricultural Machinery, 2013, 44(1): 142-146. (in Chinese)
-
-[2]	董爽. 玉米醇溶蛋白的低温等离子体改性及其性质、结构和应用研究. 天津: 天津科技大学, 2018.
-
-Dong S. Effects of peanut oil on gel properties and microstructure of PSE-like chicken meat. Tianjin: Tianjin University of Science and Technology, 2018. (in Chinese)
-
-
-[3]	艾媒咨询. 2022年中国种草经济市场及消费者行为监测报告. 2022: 26.
-
-iResearch. Monitoring report on China’s grass planting economy market and consumer behavior in 2022. 2022: 26. (in Chinese)
-
-[4]	Zhao X, Chen X, Han M Y, Qian C, Xu X L, Zhou G H. Application of isoelectric solubilization/precipitation processing to improve gelation properties of protein isolated from pale, soft, exudative (PSE)-like chicken breast meat. LWT - Food Science and Technology, 2016, 72: 141-148.
-
-
-</blockquote>
-
-## [214studies-of-marxism.csl]
-
-《[马克思主义研究](http://www.mkszyyj.net/Home/Index)》样式。
-
-显示效果：
-
-<blockquote>
-  <sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年，第22、178页。<br>
-  <sup>2</sup> 逄先知、金冲及主编：《-毛-泽-东-传》，2003年，第1032页。<br>
-  <sup>3</sup> [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年，第427-428页。<br>
-  <sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
-</blockquote>
-
-
-<blockquote>
-  <div class="csl-bib-body">
-    <div class="csl-entry">[1] 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
-    <div class="csl-entry">[2] 逄先知、金冲及主编：《-毛-泽-东-传》，2003年。</div>
-    <div class="csl-entry">[3] [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年。</div>
-    <div class="csl-entry">[4] 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
-  </div>
 </blockquote>
 
 
@@ -931,7 +907,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 <blockquote>
 （Jiang, 2017; Wang et al., 2020; Bowker & Zhuang, 2017; 金朝辉，2022; 高磊、鲍晓华，2022; 李宏、乔越，2022; 林创伟 等，2022）
 </blockquote>
- 
+
 <blockquote>
 参考文献
 
@@ -1050,6 +1026,32 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
   <sup>4</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
   <sup>5</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
 </blockquote>
+
+
+
+## [214studies-of-marxism.csl]
+
+《[马克思主义研究](http://www.mkszyyj.net/Home/Index)》样式。
+
+显示效果：
+
+<blockquote>
+  <sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年，第22、178页。<br>
+  <sup>2</sup> 逄先知、金冲及主编：《-毛-泽-东-传》，2003年，第1032页。<br>
+  <sup>3</sup> [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年，第427-428页。<br>
+  <sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
+</blockquote>
+
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
+    <div class="csl-entry">[2] 逄先知、金冲及主编：《-毛-泽-东-传》，2003年。</div>
+    <div class="csl-entry">[3] [德]黑格尔：《逻辑学》（上卷），杨一之译，商务印书馆，2001年。</div>
+    <div class="csl-entry">[4] 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
+  </div>
+</blockquote>
+
 
 
 ## [403hzau-thesis.csl]
