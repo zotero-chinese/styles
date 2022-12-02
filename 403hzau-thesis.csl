@@ -340,6 +340,7 @@
     <sort>
       <!-- <key variable="language" sort="descending"/> -->
       <key variable="author" sort="ascending"/>
+      <key variable="issued"/>
     </sort>
     <layout locale="en">
       <text macro="bib-entry-en" suffix=""/>
