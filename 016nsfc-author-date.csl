@@ -19,7 +19,7 @@
             <name>Zeping Lee</name>
             <email>zepinglee@gmail.com</email>
         </contributor>
-        <category citation-format="numeric"/>
+        <category citation-format="author-date"/>
         <category field="generic-base"/>
         <summary>1. 显示全部作者，姓名取消全大写；2.期刊名称加粗 ；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
         <updated>2022-08-03T22:29:00+08:00</updated>

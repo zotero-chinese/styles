@@ -15,7 +15,7 @@
             <name>牛耕田</name>
             <email>buffalo_d@163.com</email>
         </contributor>
-        <category citation-format="numeric"/>
+        <category citation-format="author-date"/>
         <category field="generic-base"/>
         <summary>The Chinese GB/T7714-2015 numeric style</summary>
         <updated>2021-10-25T23:56:46+00:00</updated>
