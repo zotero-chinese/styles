@@ -236,7 +236,7 @@
           <if variable="container-title">
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" prefix=". " suffix=", "/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
         </choose>
         <text macro="edition" suffix=". "/>
@@ -275,9 +275,9 @@
         </choose>
         <text macro="edition" suffix=". "/>
         <!-- <text macro="publishing"/>   改为下面的组，用以显示会议名称及卷 -->
-        <group delimiter=", " prefix="">
+        <group delimiter=", ">
           <text variable="publisher"/>
-          <text macro="serial-information" prefix=""/>
+          <text macro="serial-information"/>
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">

@@ -276,7 +276,7 @@
             <if variable="container-title">
               <text macro="container-title-en" text-case="title" font-style="italic" suffix=","/>
               <text macro="issue-date-year"/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -320,7 +320,7 @@
             <if variable="container-title">
               <text macro="container-title-zh" text-case="title" font-style="normal" suffix=","/>
               <text macro="issue-date-year"/>
-              <text macro="serial-information-zh" prefix=""/>
+              <text macro="serial-information-zh"/>
             </if>
             <else>
               <text macro="serial-information-zh" suffix=". "/>

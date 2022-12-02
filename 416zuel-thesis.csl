@@ -231,7 +231,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="normal" suffix=", "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -288,8 +288,8 @@
               <text macro="serial-information" prefix=", "/>
             </if>
             <else> -->
-          <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
-          <text macro="serial-information" suffix=""/>
+          <text variable="container-title" text-case="title" font-style="normal"/>
+          <text macro="serial-information"/>
           <text macro="publishing"/>
           <!-- </else>
           </choose> -->

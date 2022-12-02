@@ -166,7 +166,7 @@
           <if variable="container-title">
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" prefix=". " suffix=", "/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
         </choose>
         <text macro="edition" suffix=". "/>
@@ -205,7 +205,7 @@
         </choose>
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
-        <!-- <text macro="serial-information" prefix=""/> -->
+        <!-- <text macro="serial-information"/> -->
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group>

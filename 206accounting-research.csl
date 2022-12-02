@@ -140,14 +140,14 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <text variable="volume" prefix=""/>
+      <text variable="volume"/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
     <group delimiter=": ">
-      <text variable="issue" prefix="" suffix=""/>
+      <text variable="issue"/>
       <text variable="page"/>
     </group>
   </macro>

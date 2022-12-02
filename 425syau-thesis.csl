@@ -194,7 +194,7 @@
     </group> -->
   </macro>
   <macro name="bib-entry-zh">
-    <text variable="citation-number" prefix="" suffix=". "/>
+    <text variable="citation-number" suffix=". "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -232,7 +232,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" suffix=". " text-case="title"/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -252,7 +252,7 @@
     <!-- <text macro="accessed-date"/> 访问日期 -->
   </macro>
   <macro name="bib-entry-en">
-    <text variable="citation-number" prefix="" suffix=". "/>
+    <text variable="citation-number" suffix=". "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -289,7 +289,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title-short">
-              <text variable="container-title-short" font-style="italic" suffix="" text-case="title"/>
+              <text variable="container-title-short" font-style="italic" text-case="title"/>
               <text macro="serial-information" prefix=". "/>
             </if>
             <else>
@@ -343,10 +343,10 @@
       <key macro="author-intext"/>
     </sort>
     <layout locale="zh">
-      <text macro="bib-entry-zh" suffix=""/>
+      <text macro="bib-entry-zh"/>
     </layout>
     <layout>
-      <text macro="bib-entry-en" suffix=""/>
+      <text macro="bib-entry-en"/>
     </layout>
 
   </bibliography>

@@ -239,17 +239,17 @@
         </choose>
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
-        <text macro="serial-information" prefix=""/>
+        <text macro="serial-information"/>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
           <choose>
             <if variable="container-title-short">
-              <text variable="container-title-short" font-style="italic" suffix="" text-case="title"/>
+              <text variable="container-title-short" font-style="italic" text-case="title"/>
               <text macro="serial-information" prefix=", "/>
             </if>
             <else>
-              <text variable="container-title" font-style="italic" suffix="" text-case="title"/>
+              <text variable="container-title" font-style="italic" text-case="title"/>
               <text macro="serial-information" prefix=", "/>
               <text macro="publishing"/>
             </else>

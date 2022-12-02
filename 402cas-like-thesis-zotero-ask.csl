@@ -192,7 +192,7 @@
     </group> -->
   </macro>
   <macro name="bib-entry-zh">
-    <text variable="citation-number" prefix="" suffix=". "/>
+    <text variable="citation-number" suffix=". "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -230,7 +230,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -270,7 +270,7 @@
       <key variable="language"/>
     </sort>
     <layout>
-      <text macro="bib-entry-zh" suffix=""/>
+      <text macro="bib-entry-zh"/>
     </layout>
   </bibliography>
 </style>

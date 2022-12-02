@@ -317,7 +317,7 @@
   </macro>
   <!-- 连续出版物 -->
   <macro name="serial-layout">
-    <group delimiter=". " suffix="">
+    <group delimiter=". ">
       <text macro="author"/>
       <text macro="year-volume-issue"/>
       <text macro="publishing"/>
@@ -358,7 +358,7 @@
       </if>
       <else>
         <!-- 英文网页 -->
-        <group delimiter=" " suffix="">
+        <group delimiter=" ">
           <text variable="title"/>
           <text macro="author"/>
           <text variable="URL"/>
@@ -376,7 +376,7 @@
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
           <text macro="issued-year"/>
-          <text variable="number" prefix=""/>
+          <text variable="number"/>
         </group>
       </if>
       <else>
@@ -384,7 +384,7 @@
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
           <text macro="issued-year"/>
-          <text variable="number" prefix=""/>
+          <text variable="number"/>
         </group>
       </else>
     </choose>

@@ -298,10 +298,10 @@
       <key macro="author-intext"/>
       <key macro="issue-date-year"/>
     </sort>
-    <layout suffix="" locale="en">
+    <layout locale="en">
       <text macro="bib-full"/>
     </layout>
-    <layout suffix="">
+    <layout>
       <text macro="bib-full"/>
     </layout>
   </bibliography>

@@ -133,7 +133,7 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <text variable="volume" prefix=""/>
+      <text variable="volume"/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>

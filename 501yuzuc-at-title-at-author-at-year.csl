@@ -120,7 +120,7 @@
     <text variable="title"/>
   </macro>
   <macro name="bib-entry">
-    <group delimiter="" prefix="@" suffix="">
+    <group delimiter="" prefix="@">
       <text macro="title" text-case="Title" suffix="@"/>
       <text macro="author" suffix=". "/>
       <text macro="issue-date-year" prefix="(@" suffix=")"/>
@@ -140,10 +140,10 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="3" et-al-use-first="2" hanging-indent="true">
     <layout locale="en">
-      <text macro="bib-entry" suffix=""/>
+      <text macro="bib-entry"/>
     </layout>
     <layout>
-      <text macro="bib-entry" suffix=""/>
+      <text macro="bib-entry"/>
     </layout>
   </bibliography>
 </style>

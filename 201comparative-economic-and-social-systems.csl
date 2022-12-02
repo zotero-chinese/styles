@@ -156,9 +156,9 @@
   </macro>
   <macro name="serial-information-zh">
     <group delimiter=", ">
-      <text macro="issue-date-year" suffix=""/>
-      <!-- <text variable="volume" prefix=""/> -->
-      <text variable="issue" prefix="" suffix=""/>
+      <text macro="issue-date-year"/>
+      <!-- <text variable="volume"/> -->
+      <text variable="issue"/>
     </group>
     <text variable="page" prefix=": "/>
   </macro>
@@ -196,7 +196,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="italic" prefix=" "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>

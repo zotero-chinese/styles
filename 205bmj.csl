@@ -228,7 +228,7 @@
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
           <else>
             <text value=". "/>
@@ -280,7 +280,7 @@
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
           <else>
             <text value=". "/>
