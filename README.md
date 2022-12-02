@@ -547,7 +547,7 @@ Zhao X, Zhao Q P, Xu C Y, Wang J, Zhu J D, Shang B S, Zhang X. Phot2-regulated r
 
 > [4] Jha M, Gassman P W, Secchi S, Gu R, Arnold J. Effect of watershed subdivision on SWAT flow, sediment, and nutrient predictions[J]. JAWRA Journal of the American Water Resources Association, 2004, 40(3): 811-825. doi: 10.1111/j.1752-1688.2004.tb04460.x.</br>
 
-## [213scientia-agricultura-sinica.csl]
+## [112scientia-agricultura-sinica.csl]
 
 [《中国农业科学》](https://www.chinaagrisci.com/CN/column/column6.shtml)样式，显示全部作者，作者首字母大写，名缩写。中文文献后面跟随英文翻译。
 
@@ -1029,7 +1029,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 
 
-## [214studies-of-marxism.csl]
+## [307studies-of-marxism.csl]
 
 《[马克思主义研究](http://www.mkszyyj.net/Home/Index)》样式。
 
@@ -1568,6 +1568,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [109chinese-public-administration.csl]: 109chinese-public-administration.csl
 [110food-science.csl]: 110food-science.csl
 [111acta-agriculurae-boreali-sinica.csl]: 111acta-agriculurae-boreali-sinica.csl
+[112scientia-agricultura-sinica.csl]: 112scientia-agricultura-sinica.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
@@ -1580,14 +1581,15 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
-[213scientia-agricultura-sinica.csl]: 213scientia-agricultura-sinica.csl
-[214studies-of-marxism.csl]: 214studies-of-marxism.csl
+
+
 [215international-economics-and-trade-research.csl]:215international-economics-and-trade-research.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
 [306manual-of-legal-citation-multi-lingual-no-ibid.csl]: 306manual-of-legal-citation-multi-lingual-no-ibid.csl
+[307studies-of-marxism.csl]: 307studies-of-marxism.csl
 [403hzau-thesis.csl]: 403hzau-thesis.csl
 [404jnu-thesis.csl]: 404jnu-thesis.csl
 [405njau-thesis.csl]: 405njau-thesis.csl
