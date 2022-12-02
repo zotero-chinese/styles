@@ -291,7 +291,7 @@
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter="，">
@@ -316,9 +316,9 @@
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
     <sort>
-      <!-- <key variable="language" sort="ascending"/> -->
+      <!-- <key variable="language"/> -->
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout suffix="." locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>

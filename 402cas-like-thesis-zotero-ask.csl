@@ -267,7 +267,7 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="3" et-al-use-first="3" second-field-align="flush">
     <sort>
-      <key variable="language" sort="ascending"/>
+      <key variable="language"/>
     </sort>
     <layout>
       <text macro="bib-entry-zh" suffix=""/>

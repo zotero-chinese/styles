@@ -235,7 +235,7 @@
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="true" collapse="year" cite-group-delimiter="，">
     <sort>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
       <key macro="author-intext"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="；">
@@ -262,7 +262,7 @@
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout suffix="." locale="en">
       <text macro="bib-full"/>

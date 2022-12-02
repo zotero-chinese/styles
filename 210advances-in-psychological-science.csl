@@ -2040,7 +2040,7 @@
     <sort>
       <key macro="author-bib" names-min="3" names-use-first="1"/>
       <key macro="date-sort-group"/>
-      <key macro="date-sort-date" sort="ascending"/>
+      <key macro="date-sort-date"/>
       <key variable="status"/>
     </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
@@ -2054,7 +2054,7 @@
     <sort>
       <key macro="author-bib"/>
       <key macro="date-sort-group"/>
-      <key macro="date-sort-date" sort="ascending"/>
+      <key macro="date-sort-date"/>
       <key variable="status"/>
       <key macro="title"/>
     </sort>
