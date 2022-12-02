@@ -47,7 +47,7 @@ email 前后加 __
 
 **不是`English`！不是`English`！不是`English`！**
 
-**将中文文献 `Info` 中 `language` 字段修改为 `zh-CN`。
+**将中文文献 `Info` 中 `language` 字段修改为 `zh-CN`。**
 
 或是需要将显示不正常的文献删除后重新插入。
 

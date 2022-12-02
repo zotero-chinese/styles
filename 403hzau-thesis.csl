@@ -338,7 +338,8 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="21" et-al-use-first="20" second-field-align="flush">
     <sort>
-      <key variable="language" sort="ascending"/>
+      <!-- <key variable="language" sort="descending"/> -->
+      <key variable="author" sort="ascending"/>
     </sort>
     <layout locale="en">
       <text macro="bib-entry-en" suffix=""/>
