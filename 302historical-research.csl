@@ -20,7 +20,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>历史研究</summary>
-    <updated>2022-04-30T00:44:28+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -40,14 +40,14 @@
     </terms>
   </locale>
   <macro name="accessed-date-en">
-    <date variable="accessed" delimiter="" prefix="" suffix="">
+    <date variable="accessed" delimiter="">
       <date-part name="month" form="short" suffix=" "/>
       <date-part name="day" suffix=", "/>
-      <date-part name="year" suffix=""/>
+      <date-part name="year"/>
     </date>
   </macro>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="" prefix="" suffix="">
+    <date variable="accessed" delimiter="">
       <date-part name="year" suffix="年"/>
       <date-part name="month" form="numeric" suffix="月"/>
       <date-part name="day" suffix="日"/>
@@ -120,7 +120,7 @@
         <date variable="issued" delimiter="">
           <date-part name="month" form="short" suffix=" "/>
           <date-part name="day" suffix=", "/>
-          <date-part name="year" suffix=""/>
+          <date-part name="year"/>
           <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
         </date>
       </if>
@@ -170,7 +170,7 @@
       <if variable="publisher">
         <group delimiter=": ">
           <!-- <text variable="publisher-place"/> -->
-          <group delimiter=" " prefix=", " suffix="">
+          <group delimiter=" " prefix=", ">
             <text variable="publisher"/>
             <text macro="issue-date-year-en"/>
           </group>
@@ -192,7 +192,7 @@
         <group delimiter=": ">
           <text variable="publisher-place"/>
           <group delimiter="">
-            <text variable="publisher" prefix=""/>
+            <text variable="publisher"/>
             <text macro="issue-date-year" prefix="，" suffix="年"/>
           </group>
         </group>
@@ -209,8 +209,8 @@
   </macro>
   <macro name="serial-information-en">
     <group delimiter=" " prefix=" ">
-      <text variable="page-first" prefix="" suffix=", "/>
-      <text variable="page" prefix="" suffix=""/>
+      <text variable="page-first" suffix=", "/>
+      <text variable="page"/>
       <text macro="issue-date-year" prefix="(" suffix=")"/>
     </group>
     <!-- <text variable="issue" prefix="第" suffix="期"/>删除期 -->
@@ -219,12 +219,12 @@
     <group delimiter="">
       <text macro="issue-date-year" suffix="年"/>
       <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
-      <text variable="issue" prefix="" suffix="期"/>
+      <text variable="issue" suffix="期"/>
       <text variable="page" prefix=", " suffix="页"/>
     </group>
   </macro>
   <macro name="title-en">
-    <text variable="title" text-case="title" prefix="" suffix=""/>
+    <text variable="title" text-case="title"/>
   </macro>
   <macro name="title">
     <text variable="title" text-case="title" prefix="《" suffix="》"/>
@@ -241,7 +241,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author-en" suffix="："/>
-            <text variable="container-title" text-case="title" prefix="" suffix=""/>
+            <text variable="container-title" text-case="title"/>
           </if>
           <else>
             <text value=""/>
@@ -254,9 +254,9 @@
         <group prefix=", ">
           <choose>
             <if variable="container-title">
-              <text variable="volume" prefix="" suffix=" "/>
-              <text variable="container-title" text-case="title" prefix="" suffix=""/>
-              <text macro="serial-information-en" prefix=""/> <!-- 年前的前辍 -->
+              <text variable="volume" suffix=" "/>
+              <text variable="container-title" text-case="title"/>
+              <text macro="serial-information-en"/> <!-- 年前的前辍 -->
             </if>
             <else>
               <text macro="serial-information-en" suffix=". "/>
@@ -270,9 +270,9 @@
         <group prefix=", ">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title" prefix="" suffix=""/>
-              <text macro="issued-date-en" prefix=""/>
-              <text variable="page" prefix="" suffix=""/>
+              <text variable="container-title" text-case="title"/>
+              <text macro="issued-date-en"/>
+              <text variable="page"/>
             </if>
             <else>
               <text macro="issued-date-en" suffix=". "/>
@@ -286,14 +286,14 @@
         <group prefix=", ">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title" prefix="" suffix=""/>
+              <text variable="container-title" text-case="title"/>
             </if>
             <else>
               <!-- <text macro="serial-information" suffix=". "/> -->
               <group delimiter=" ">
                 <text variable="publisher" prefix="("/>
                 <text macro="issue-date-year-en" suffix=")"/>
-                <!-- <text variable="genre" suffix=""/> -->
+                <!-- <text variable="genre"/> -->
               </group>
               <!-- <text macro="publishing"/> -->
             </else>
@@ -312,11 +312,11 @@
           </if>
         </choose>
         <text variable="URL" prefix=", "/>
-        <text macro="accessed-date-en" prefix=", " suffix=""/>
+        <text macro="accessed-date-en" prefix=", "/>
       </else-if>
       <else>
         <text macro="publishing-en" prefix=", "/>
-        <text macro="issued-date-en" prefix="" suffix=""/>
+        <text macro="issued-date-en"/>
       </else>
     </choose>
     <!-- <text macro="accessed-date"/>
@@ -327,7 +327,7 @@
   </macro>
   <!-- 中文引用格式 -->
   <macro name='full-contents-cn'>
-    <text macro="author" suffix=""/>
+    <text macro="author"/>
     <text macro="title"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
@@ -352,7 +352,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" prefix="《" suffix="》"/>
-              <text macro="serial-information" prefix=""/> <!-- 年前的前辍 -->
+              <text macro="serial-information"/> <!-- 年前的前辍 -->
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -367,8 +367,8 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" prefix="《" suffix="》"/>
-              <text macro="issued-date" prefix=""/>
-              <text variable="page" prefix="" suffix="页"/>
+              <text macro="issued-date"/>
+              <text variable="page" suffix="页"/>
             </if>
             <else>
               <text macro="issued-date" suffix=". "/>
@@ -383,7 +383,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" prefix="《" suffix="》"/>
-              <!-- <text macro="serial-information" prefix=""/> 年前的前辍 -->
+              <!-- <text macro="serial-information"/> 年前的前辍 -->
             </if>
             <else>
               <!-- <text macro="serial-information" suffix=". "/> -->
@@ -413,7 +413,7 @@
       </else-if>
       <else>
         <text macro="publishing" prefix="，"/>
-        <text macro="issued-date" prefix="" suffix=""/>
+        <text macro="issued-date"/>
       </else>
     </choose>
     <!-- <text macro="accessed-date"/>
@@ -462,11 +462,11 @@
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
     <layout locale="en" suffix=".">
-      <text variable="citation-number" prefix="" suffix=""/>
+      <text variable="citation-number"/>
       <text macro="full-contents-en"/>
     </layout>
     <layout suffix="。">
-      <text variable="citation-number" prefix="" suffix=""/>
+      <text variable="citation-number"/>
       <text macro="full-contents-zh"/>
     </layout>
   </bibliography>

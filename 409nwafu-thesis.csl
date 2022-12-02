@@ -18,7 +18,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The Chinese NWAFU author-date style</summary>
-    <updated>2022-04-21T06:39:48+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -270,7 +270,7 @@
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en" prefix="(" suffix=")" delimiter="; ">
       <group delimiter=" ">
@@ -296,12 +296,12 @@
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
-    <layout suffix="" locale="en">
+    <layout locale="en">
       <text macro="bib-full"/>
     </layout>
-    <layout suffix="">
+    <layout>
       <text macro="bib-full"/>
     </layout>
   </bibliography>

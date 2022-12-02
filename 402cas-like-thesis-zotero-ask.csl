@@ -14,10 +14,10 @@
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </contributor>
-    <category citation-format="numeric"/>
+    <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>cas-thesis</summary>
-    <updated>2021-11-29T23:56:46+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -192,7 +192,7 @@
     </group> -->
   </macro>
   <macro name="bib-entry-zh">
-    <text variable="citation-number" prefix="" suffix=". "/>
+    <text variable="citation-number" suffix=". "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -230,7 +230,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -267,10 +267,10 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="3" et-al-use-first="3" second-field-align="flush">
     <sort>
-      <key variable="language" sort="ascending"/>
+      <key variable="language"/>
     </sort>
     <layout>
-      <text macro="bib-entry-zh" suffix=""/>
+      <text macro="bib-entry-zh"/>
     </layout>
   </bibliography>
 </style>

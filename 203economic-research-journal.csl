@@ -19,7 +19,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>Economic Research Journal author-date style</summary>
-    <updated>2022-08-07T03:28:57+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -168,7 +168,7 @@
   </macro>
   <macro name="serial-information">
     <group delimiter="" prefix=", ">
-      <text variable="volume" prefix=""/>
+      <text variable="volume"/>
       <text variable="issue" prefix="(" suffix=")"/>
     </group>
     <text variable="page" prefix=", "/> <!-- 期不显示 -->
@@ -176,7 +176,7 @@
   <macro name="serial-information-zh">
     <group delimiter="">
       <!-- <text macro="issue-date-year" suffix="年"/> -->
-      <!-- <text variable="volume" prefix=""/> -->
+      <!-- <text variable="volume"/> -->
       <text variable="issue" prefix="第" suffix="期"/>
     </group>
     <!-- <text variable="page" prefix=": "/> -->
@@ -201,7 +201,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" prefix=", " suffix="" font-style="italic" text-case="title"/>
+            <text variable="container-title" prefix=", " font-style="italic" text-case="title"/>
           </if>
           <else>
             <text value=". "/>
@@ -213,17 +213,17 @@
       <!-- 英文报告显示设置 -->
       <else-if type="report">
         <group prefix=", " delimiter="">
-          <text variable="publisher" prefix="" suffix=""/>
-          <text variable="genre" prefix=" " suffix=""/>
-          <text variable="number" prefix=", No. " suffix=""/>
+          <text variable="publisher"/>
+          <text variable="genre" prefix=" "/>
+          <text variable="number" prefix=", No. "/>
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix="">
+        <group>
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="italic" prefix=", "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -245,7 +245,7 @@
   <!-- 中文文末显示设置 -->
   <macro name="bib-full" suffix="。">
     <text macro="author-zh" suffix="，"/>
-    <text macro="issue-date-year" suffix=""/>
+    <text macro="issue-date-year"/>
     <text macro="title-zh" prefix="："/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
@@ -267,7 +267,7 @@
       <else-if type="thesis">
         <group delimiter="" prefix="，">
           <text variable="publisher"/>
-          <text variable="genre" prefix="" suffix="学位论文"/>
+          <text variable="genre" suffix="学位论文"/>
           <text macro="issue-date-year" prefix="，" suffix="年"/>
         </group>
       </else-if>
@@ -276,10 +276,10 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" prefix="《" suffix="》"/>
-              <text macro="serial-information-zh" prefix=""/>
+              <text macro="serial-information-zh"/>
             </if>
             <else>
-              <text macro="serial-information-zh" prefix="" suffix="。"/>
+              <text macro="serial-information-zh" suffix="。"/>
               <!-- <text macro="publishing"/> -->
             </else>
           </choose>
@@ -298,7 +298,7 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
@@ -323,9 +323,8 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
-      <!-- <key variable="language" sort="ascending"/> -->
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout suffix="." locale="en">
       <text macro="bib-full-en"/>

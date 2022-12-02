@@ -17,7 +17,7 @@
         <category citation-format="numeric"/>
         <category field="generic-base"/>
         <summary>食品科学样式，除标准借用bill，书籍显示页码，其他与000gb-t-7714-2015-numeric-bilingual.csl相同。</summary>
-        <updated>2022-08-03T22:29:00+08:00</updated>
+        <updated>2022-12-02T17:49:28+08:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     </info>
     <locale xml:lang="zh-CN">
@@ -382,18 +382,18 @@
         </group>
     </macro>
     <!-- bill 标准暂借 -->
-  <macro name="bill-standard-layout">
-    <group delimiter=". " suffix=".">
-      <text macro="author"/>
-      <group delimiter=". ">
-        <text macro="title"/>
-        <text macro="container-title"/>
-      </group>
-      <text macro="edition"/>
-      <text macro="publishing"/>
-      <text macro="url-doi"/>
-    </group>
-  </macro>
+    <macro name="bill-standard-layout">
+        <group delimiter=". " suffix=".">
+            <text macro="author"/>
+            <group delimiter=". ">
+                <text macro="title"/>
+                <text macro="container-title"/>
+            </group>
+            <text macro="edition"/>
+            <text macro="publishing"/>
+            <text macro="url-doi"/>
+        </group>
+    </macro>
     <!-- 连续出版物 -->
     <macro name="periodical-layout">
         <group delimiter=". ">
@@ -452,6 +452,9 @@
         </choose>
     </macro>
     <citation collapse="citation-number" after-collapse-delimiter=",">
+        <sort>
+            <key variable="citation-number"/>
+        </sort>
         <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
             <text variable="citation-number"/>
         </layout>

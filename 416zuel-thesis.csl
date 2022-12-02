@@ -19,10 +19,10 @@
       <name>李刚</name>
       <email>gang.li.0814@gmail.com</email>
     </contributor>
-    <category citation-format="numeric"/>
+    <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>zuel-thesis中南财经政法大学硕博论文</summary>
-    <updated>2021-03-29T04:53:18+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -231,7 +231,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="normal" suffix=", "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -288,8 +288,8 @@
               <text macro="serial-information" prefix=", "/>
             </if>
             <else> -->
-          <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
-          <text macro="serial-information" suffix=""/>
+          <text variable="container-title" text-case="title" font-style="normal"/>
+          <text macro="serial-information"/>
           <text macro="publishing"/>
           <!-- </else>
           </choose> -->
@@ -307,7 +307,7 @@
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter=", ">
       <group delimiter=", ">

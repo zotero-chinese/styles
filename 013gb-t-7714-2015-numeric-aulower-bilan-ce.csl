@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。</summary>
-    <updated>2020-12-30T23:56:46+00:00</updated>
+    <updated>2022-12-02T17:49:29+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -235,7 +235,7 @@
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
-      <key variable="citation-number" sort="ascending"/>
+      <key variable="citation-number"/>
     </sort>
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>

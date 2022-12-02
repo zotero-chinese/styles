@@ -25,7 +25,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 author-date style</summary>
-    <updated>2022-04-22T10:01:02+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -275,7 +275,7 @@
             <if variable="container-title">
               <text macro="container-title-en" text-case="title" font-style="italic" suffix=","/>
               <text macro="issue-date-year" prefix=" "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -319,7 +319,7 @@
             <if variable="container-title">
               <text macro="container-title-zh" text-case="title" font-style="normal" suffix=","/>
               <text macro="issue-date-year" prefix=" "/>
-              <text macro="serial-information-zh" prefix=""/>
+              <text macro="serial-information-zh"/>
             </if>
             <else>
               <text macro="serial-information-zh" suffix=". "/>
@@ -340,8 +340,8 @@
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="false" collapse="year">
     <sort>
-      <key macro="issue-date-year" sort="ascending"/>
-      <key macro="author-intext" sort="ascending"/>
+      <key macro="issue-date-year"/>
+      <key macro="author-intext"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
@@ -366,9 +366,9 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
-      <key variable="language" sort="ascending"/>
-      <key macro="author-intext" sort="ascending"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key variable="language"/>
+      <key macro="author-intext"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout suffix="." locale="en">
       <text macro="bib-full"/>

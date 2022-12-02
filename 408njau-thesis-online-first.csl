@@ -18,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>
-    <updated>2021-11-03T15:55:46+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -236,7 +236,7 @@
           <if variable="container-title">
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" prefix=". " suffix=", "/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
         </choose>
         <text macro="edition" suffix=". "/>
@@ -275,9 +275,9 @@
         </choose>
         <text macro="edition" suffix=". "/>
         <!-- <text macro="publishing"/>   改为下面的组，用以显示会议名称及卷 -->
-        <group delimiter=", " prefix="">
+        <group delimiter=", ">
           <text variable="publisher"/>
-          <text macro="serial-information" prefix=""/>
+          <text macro="serial-information"/>
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
@@ -331,7 +331,7 @@
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
-      <key variable="citation-number" sort="ascending"/>
+      <key variable="citation-number"/>
     </sort>
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>

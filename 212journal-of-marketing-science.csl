@@ -19,7 +19,7 @@
     <category field="generic-base"/>
     <issn>2097-0099</issn>
     <summary>Financial Research Journal author-date style</summary>
-    <updated>2021-07-20T00:15:43+00:00</updated>
+    <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -196,28 +196,28 @@
     <group prefix=", ">
       <choose>
         <if variable="volume">
-          <text variable="volume" prefix=""/>
+          <text variable="volume"/>
           <text variable="issue" prefix="(" suffix=")"/>
         </if>
         <else>
-          <text variable="issue" prefix="" suffix=""/>
+          <text variable="issue"/>
         </else>
       </choose>
     </group>
-    <text variable="page" prefix=": " suffix=""/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
     <group delimiter="">
       <choose>
         <if variable="volume">
-          <text variable="volume" prefix=""/>
+          <text variable="volume"/>
           <text variable="issue" prefix="(" suffix=")"/>
         </if>
         <else>
-          <text variable="issue" prefix="" suffix=""/>
+          <text variable="issue"/>
         </else>
       </choose>
-      <text variable="page" prefix=": " suffix=""/>
+      <text variable="page" prefix=": "/>
     </group>
   </macro>
   <!-- 文献类型标识 -->
@@ -292,10 +292,10 @@
   <macro name="title-zh">
     <choose>
       <if variable="original-title">
-        <text variable="original-title" prefix="" suffix="" text-case="sentence"/>
+        <text variable="original-title" text-case="sentence"/>
       </if>
       <else>
-        <text macro="title" prefix="" suffix="" text-case="sentence"/>
+        <text macro="title" text-case="sentence"/>
       </else>
     </choose>
     <text macro="type-code" prefix="[" suffix="]"/>
@@ -303,10 +303,10 @@
   <macro name="container-title-zh">
     <choose>
       <if variable="original-container-title">
-        <text variable="original-container-title" prefix="" suffix="" text-case="sentence"/>
+        <text variable="original-container-title" text-case="sentence"/>
       </if>
       <else>
-        <text variable="container-title" prefix="" suffix="" text-case="sentence"/>
+        <text variable="container-title" text-case="sentence"/>
       </else>
     </choose>
   </macro>
@@ -322,7 +322,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text macro="container-title-zh" prefix="" suffix=""/>
+            <text macro="container-title-zh"/>
           </if>
           <else>
             <text value=". "/>
@@ -342,7 +342,7 @@
       <else-if type="thesis">
         <group delimiter="" prefix="，">
           <text variable="publisher"/>
-          <text variable="genre" prefix="" suffix="学位论文"/>
+          <text variable="genre" suffix="学位论文"/>
           <text macro="issue-date-year" prefix="，" suffix="年"/>
         </group>
       </else-if>
@@ -350,7 +350,7 @@
         <group prefix="，">
           <choose>
             <if variable="container-title">
-              <text macro="container-title-zh" prefix="" suffix=""/>
+              <text macro="container-title-zh"/>
               <text macro="serial-information-zh" prefix=", " suffix=". "/>
             </if>
             <else>
@@ -372,7 +372,7 @@
   <macro name="bib-full">
     <text macro="author" suffix=". "/>
     <text macro="issue-date-year" suffix=". "/>
-    <text macro="title" prefix=""/>
+    <text macro="title"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report" match="any">
         <text macro="editor" prefix=". "/>
@@ -380,7 +380,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" prefix="" suffix="" text-case="sentence"/>
+            <text variable="container-title" text-case="sentence"/>
           </if>
           <else>
             <text value=". "/>
@@ -401,7 +401,7 @@
       <else-if type="thesis">
         <group delimiter="" prefix="，">
           <text variable="publisher"/>
-          <text variable="genre" prefix="" suffix="学位论文"/>
+          <text variable="genre" suffix="学位论文"/>
           <text macro="issue-date-year" prefix="，" suffix="年"/>
         </group>
       </else-if>
@@ -409,7 +409,7 @@
         <group prefix="，">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" prefix="" suffix=""/>
+              <text variable="container-title"/>
               <text macro="serial-information-zh" prefix=", " suffix=". "/>
             </if>
             <else>
@@ -439,7 +439,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" prefix=", " suffix="" text-case="sentence"/>
+            <text variable="container-title" prefix=", " text-case="sentence"/>
           </if>
           <else>
             <text value=". "/>
@@ -450,9 +450,9 @@
       </if>
       <else-if type="report">
         <group prefix=", " delimiter="">
-          <text variable="publisher" prefix="" suffix=""/>
-          <text variable="genre" prefix=" " suffix=""/>
-          <text variable="number" prefix=", No. " suffix=""/>
+          <text variable="publisher"/>
+          <text variable="genre" prefix=" "/>
+          <text variable="number" prefix=", No. "/>
           <group delimiter=" ">
             <text macro="issued-date" prefix="(" suffix=")"/>
             <text macro="accessed-date" suffix="."/>
@@ -460,11 +460,11 @@
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix="">
+        <group>
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="sentence" prefix=", "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -486,7 +486,7 @@
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter="，">
@@ -511,8 +511,8 @@
   </citation>
   <bibliography entry-spacing="0">
     <sort>
-      <key macro="author-intext" sort="ascending"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="author-intext"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en" suffix=".">
       <text variable="citation-number" prefix="[" suffix="]&#x9;"/> <!--表示制表符  -->

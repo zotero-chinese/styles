@@ -15,10 +15,10 @@
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </contributor>
-    <category citation-format="numeric"/>
+    <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>
-    <updated>2021-10-25T23:56:46+00:00</updated>
+    <updated>2022-12-02T20:10:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -228,7 +228,7 @@
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
           <else>
             <text value=". "/>
@@ -280,7 +280,7 @@
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
-            <text macro="serial-information" prefix=""/>
+            <text macro="serial-information"/>
           </if>
           <else>
             <text value=". "/>
@@ -320,10 +320,7 @@
     </choose>
     <text macro="accessed-date"/>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" collapse="citation-number" after-collapse-delimiter=",">
-    <sort>
-      <key variable="citation-number" sort="ascending"/>
-    </sort>
+  <citation et-al-min="2" et-al-use-first="1">
     <layout locale="en">
       <group>
         <group delimiter=", " prefix="(" suffix=")">

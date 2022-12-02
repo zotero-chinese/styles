@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>CMAES style</summary>
-    <updated>2021-04-18T18:00:00+08:00</updated>
+    <updated>2022-12-02T17:49:29+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -228,7 +228,7 @@
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
-      <key variable="citation-number" sort="ascending"/>
+      <key variable="citation-number"/>
     </sort>
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>
