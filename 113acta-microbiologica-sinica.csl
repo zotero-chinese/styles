@@ -9,6 +9,16 @@
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
+    <contributor>
+      <name>Raymond</name>
+    </contributor>
+    <contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
+    <contributor>
+      <name>洋芋</name>
+      <email>chivele.lee@gmail.com</email>    
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。</summary>
