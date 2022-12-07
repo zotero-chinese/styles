@@ -18,12 +18,13 @@
     </contributor>
     <contributor>
       <name>洋芋</name>
-      <email>chivele.lee@gmail.com</email>    
+      <email>chivele.lee@gmail.com</email>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。</summary>
     <updated>2022-12-02T17:49:29+08:00</updated>
-     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
     <terms>
