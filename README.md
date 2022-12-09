@@ -1342,7 +1342,6 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 显示效果：
 
-> ```
 >（刘章军等，2022; Wang et al.，2022） <br>
 >（田力，2022; Laury，2006）<br>
 >（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
@@ -1360,8 +1359,6 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork sausage[D]. Iowa State: Iowa State University, 2006.<br>
 >Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
 >Wang Y Y, Tian G, Mao K, Chitrakar B, Wang Z, Liu J, Bai X, Sang Y, Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
-> ```
-
 
 ## [427uestc-thesis.csl]
 
@@ -1369,11 +1366,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 显示效果：
 
-> ```
->  <sup>[1, 2]</sup> <br>
->  <sup>[3, 4]</sup> <br>
->  <sup>[5-8]</sup> <br>
->  <sup>[9-12]</sup> <br>
+> <sup>[1-12]<sup>
 
 >[1]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
 >[2]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
@@ -1387,7 +1380,27 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[10]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
 >[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021, 1-2.<br>
 >[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]. 世界交通运输大会(WTC2022)论文集(公路工程篇), 南京, 2022: 220-226.<br>
-> ```
+
+## [428fafu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[福建农林大学硕博论文]样式，[jnu-thesis.csl]基础上修改。
+
+显示效果：
+
+> <sup>[1-12]<sup>
+
+>[1]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[2]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>[3]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[4]	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>[5]	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>[6]	孙天利, 程楚怡, 杨涔, 等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	Nae W. Nutrient requirements of Poultry[M]. Washington: National Academy of Science Press, 1994. 520.<br>
+>[9]	Frisch N K, Ahmed Y, Sethi S, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021. 1-2.<br>
+>[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
 
 ## LICENSE
 
