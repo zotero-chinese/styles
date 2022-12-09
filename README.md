@@ -1337,8 +1337,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[北京林业大学硕博论文]样式，<br>
 [comparative-economic-and-social-systems.csl]基础上修改。中文文献排在前面，英文文献排在后面，<br>
-并按第一作者的姓氏首字母排序。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
-请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+并按第一作者的姓氏首字母排序。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如倒数第二篇文献的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如第六篇文献的页码为220-226。<br>
@@ -1416,7 +1416,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[贵州大学硕博论文]样式，<br>
 [comparative-economic-and-social-systems.csl]基础上修改。参考文献表按照引用顺序编码并排序<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
-请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
@@ -1446,7 +1446,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[海南大学硕博论文]样式，[jnu-thesis.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
-请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[2]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[11]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[6]中的页码为220-226。<br>
@@ -1531,7 +1531,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学硕博论文]样式，[jnu-thesis.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
-请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[2]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[11]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[6]中的页码为220-226。<br>
@@ -1562,7 +1562,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 [comparative-economic-and-social-systems.csl]基础上修改。引文的*et al*为斜体。<br>
 中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
-请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如倒数第二篇文献的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如第六篇文献的页码为220-226。<br>
@@ -1589,7 +1589,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [435yzu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[扬州大学硕博论文]样式，
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[扬州大学硕博论文]样式，<br>
 [comparative-economic-and-social-systems.csl]基础上修改。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
