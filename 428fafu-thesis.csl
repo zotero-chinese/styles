@@ -484,7 +484,7 @@
   </macro>
   <!-- 引文 -->
    <citation collapse="citation-number" after-collapse-delimiter=",">
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+    <layout vertical-align="sup" delimiter=", " prefix="[" suffix="]">
       <text variable="citation-number"/>
     </layout>
   </citation>
