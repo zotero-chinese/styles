@@ -225,7 +225,6 @@
     </choose>
   </macro>
   <macro name="bib-entry-zh">
-    <text variable="citation-number" prefix="[" suffix="]"/>
     <group>
       <group delimiter=" ">
         <group delimiter="">
@@ -285,7 +284,6 @@
     </group>
   </macro>
   <macro name="bib-entry-en">
-    <text variable="citation-number" prefix="[" suffix="]"/>
     <group delimiter="">
       <group delimiter=" ">
         <group delimiter=" ">
@@ -351,11 +349,11 @@
   </citation>
   <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
     <layout locale="zh">
-      <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-zh"/>
     </layout>
     <layout>
-      <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-en"/>
     </layout>
   </bibliography>
