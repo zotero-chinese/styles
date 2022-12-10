@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
     <info>
-        <title>CAAS-Thesis中国农业科学院学位论文</title>
+        <title>中国农业科学院</title>
+        <title-short>CAAS</title-short>
         <id>http://www.zotero.org/styles/chinese-academy-of-agricultural-sciences</id>
         <link href="http://www.zotero.org/styles/chinese-academy-of-agricultural-sciences" rel="self"/>
         <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>

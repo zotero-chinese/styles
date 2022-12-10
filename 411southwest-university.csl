@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>swu-thesis西南大学硕博论文</title>
-    <title-short>swu</title-short>
+    <title>西南大学</title>
+    <title-short>SWU</title-short>
     <id>http://www.zotero.org/styles/southwest-university</id>
     <link href="http://www.zotero.org/styles/southwest-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>

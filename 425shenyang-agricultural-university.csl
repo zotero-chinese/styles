@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with="" name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <info>
-    <title>SYAU-thesis沈阳农业大学硕博论文</title>
-    <title-short>syau</title-short>
+    <title>沈阳农业大学</title>
+    <title-short>SYAU</title-short>
     <id>http://www.zotero.org/styles/shenyang-agricultural-university</id>
     <link href="http://www.zotero.org/styles/shenyang-agricultural-university" rel="self"/>
     <link href="https://grs.syau.edu.cn/info/1173/5583.htm" rel="documentation"/>

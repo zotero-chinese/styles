@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN" xmlns="http://purl.org/net/xbiblio/csl">
   <info>
-    <title>NWAFU-thesis-西北农林科技大学硕博论文</title>
-    <title-short>NWAFU-thesis</title-short>
+    <title>西北农林科技大学</title>
+    <title-short>NWAFU-</title-short>
     <id>http://www.zotero.org/styles/NWAFU-thesis</id>
     <link href="http://www.zotero.org/styles/NWAFU-thesis" rel="self"/>
     <link href="https://yjshy.nwsuaf.edu.cn/xwgl/xwsy/xwlwxzgf/e1432691f154489e91273f888c8b38e5.htm" rel="template"/>

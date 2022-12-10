@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <!-- 根据GB-T7714-2015-numeric修改 -->
   <info>
-    <title>NJAU-thesis-南京农业大学硕博论文-网络首发</title>
-    <title-short>NJAU</title-short>
+    <title>南京农业大学（网络首发）</title>
+    <title-short>NJAU (online-first)</title-short>
     <id>http://www.zotero.org/nanjing-agricultural-university-online-first</id>
     <link href="http://www.zotero.org/styles/nanjing-agricultural-university-online-first" rel="self"/>
     <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>

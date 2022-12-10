@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" et-al-min="19" et-al-use-first="19" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>电子科技大学硕博论文UESTC-thesis</title>
+    <title>电子科技大学</title>
+    <title-short>UESTC</title-short>
     <id>UESTC-thesis</id>
     <link href="http://www.zotero.org/styles/university-of-electronic-science-and-technology-of-china" rel="self"/>
     <link href="http://www.zotero.org/styles/jinan-university" rel="template"/>
@@ -261,7 +262,7 @@
       <!-- 中文专利 -->
       <else-if type="patent">
             <text variable="patent-title"/>
-            <text variable="publisher-place" prefix=": "/>      
+            <text variable="publisher-place" prefix=": "/>
             <text macro="issued-date" prefix="[P]. "/>
       </else-if>
       <!-- 中文报告 -->
@@ -381,7 +382,7 @@
       <!-- 英文专利 -->
       <else-if type="patent">
             <text variable="patent-title"/>
-            <text variable="publisher-place" prefix=": "/>      
+            <text variable="publisher-place" prefix=": "/>
             <text macro="issued-date" prefix="[P]. "/>
       </else-if>
       <!-- 英文报告 -->

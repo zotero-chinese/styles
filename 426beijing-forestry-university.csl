@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>北京林业大学硕博论文BFU-thesis</title>
+    <title>北京林业大学</title>
+    <title-short>BFU</title-short>
     <id>BFU-thesis</id>
     <link href="http://www.zotero.org/styles/beijing-forestry-university" rel="self"/>
     <link href="http://www.zotero.org/styles/comparative-economic-and-social-systems" rel="template"/>
@@ -173,7 +174,7 @@
   <macro name="serial-information-zh">
     <group delimiter=", ">
       <text macro="issue-date-year" suffix=""/>
-      <text variable="volume"/> 
+      <text variable="volume"/>
       </group>
       <text variable="issue" prefix="(" suffix=")"/>
       <text variable="page" prefix=": "/>

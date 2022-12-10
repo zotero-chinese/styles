@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" et-al-min="19" et-al-use-first="19" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>zuel-thesis中南财经政法大学硕博论文</title>
-    <title-short>zuel</title-short>
+    <title>中南财经政法大学</title>
+    <title-short>ZUEL</title-short>
     <id>http://www.zotero.org/styles/zhongnan-university-of-economics-and-law</id>
     <link href="http://www.zotero.org/styles/zhongnan-university-of-economics-and-law" rel="self"/>
     <link href="http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf" rel="documentation"/>

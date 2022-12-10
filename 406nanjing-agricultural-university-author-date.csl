@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>NJAU-thesis-author-date-南京农业大学硕博论文-作者-年代</title>
-    <title-short>南京农业大学硕博论文-作者-年代</title-short>
+    <title>南京农业大学（著者-出版年）</title>
+    <title-short>NJAU (author-date)</title-short>
     <id>http://www.zotero.org/styles/nanjing-agricultural-university-author-date</id>
     <link href="http://www.zotero.org/styles/nanjing-agricultural-university-author-date" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>

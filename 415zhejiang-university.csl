@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>ZJU-thesis-浙江大学硕博论文</title>
-    <title-short>浙江大学硕博论文</title-short>
+    <title>浙江大学</title>
+    <title-short>ZJU</title-short>
     <id>http://www.zotero.org/styles/zhejiang-university</id>
     <link href="http://www.zotero.org/styles/zhejiang-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>

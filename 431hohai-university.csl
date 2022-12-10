@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>河海大学硕博论文HHU-thesis</title>
+    <title>河海大学</title>
+    <title-short>HHU</title-short>
     <id>HHU-thesis</id>
     <link href="http://www.zotero.org/styles/HHU-thesis" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
@@ -264,7 +265,7 @@
         <group prefix=". ">
           <group delimiter="">
             <text variable="patent-title"/>
-            <text variable="publisher-place"/>      
+            <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
         </group>
@@ -389,7 +390,7 @@
         <group prefix=". ">
           <group delimiter="">
             <text variable="patent-title"/>
-            <text variable="publisher-place"/>      
+            <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
         </group>

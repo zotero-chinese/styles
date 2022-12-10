@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>YNU-Thesis云南大学学位论文</title>
-    <title-short>GB/T 7714-2015 (author-date)</title-short>
+    <title>云南大学</title>
+    <title-short>YNU</title-short>
     <id>http://www.zotero.org/styles/yunnan-university</id>
     <link href="http://www.zotero.org/styles/yunnan-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>

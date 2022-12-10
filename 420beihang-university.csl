@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.1mlz1" initialize-with-hyphen="false" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>BHU-Thesis北京航空航天大学学位论文</title>
+    <title>北京航空航天大学</title>
+    <title-short>BUAA</title-short>
     <id>http://www.zotero.org/styles/bh-thesis</id>
     <link href="http://www.zotero.org/styles/bh-thesis" rel="self"/>
     <link href="http://graduate.buaa.edu.cn/info/1039/7831.htm" rel="documentation"/>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>HUST-Thesis华中科技大学学位论文</title>
+    <title>华中科技大学</title>
+    <title-short>HUST</title-short>
     <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology</id>
     <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>

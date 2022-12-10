@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" et-al-min="19" et-al-use-first="19" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>江西财经大学硕博论文JUFE-thesis</title>
+    <title>江西财经大学</title>
+    <title-short>JUFE</title-short>
     <id>JUFE-thesis</id>
     <link href="http://www.zotero.org/styles/JUFE-thesis" rel="self"/>
     <link href="http://www.zotero.org/styles/jinan-university" rel="template"/>
@@ -262,7 +263,7 @@
         <group prefix=". ">
           <group delimiter="">
             <text variable="patent-title"/>
-            <text variable="publisher-place"/>      
+            <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
         </group>
@@ -385,7 +386,7 @@
         <group prefix=". ">
           <group delimiter="">
             <text variable="patent-title"/>
-            <text variable="publisher-place"/>      
+            <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
         </group>
