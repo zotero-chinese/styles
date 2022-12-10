@@ -37,7 +37,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize-with="" name-as-sort-order=""/>
+          <name initialize-with=""/>
         </names>
       </if>
       <else>
