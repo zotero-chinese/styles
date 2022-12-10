@@ -65,7 +65,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="1004" et-al-use-first="1003" second-field-align="flush">
+  <bibliography entry-spacing="0" second-field-align="flush">
     <layout>
       <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="bib-entry"/>

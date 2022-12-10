@@ -416,7 +416,7 @@
     </layout>
   </citation>
   <!-- 参考文献表 -->
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="50" second-field-align="flush">
+  <bibliography entry-spacing="0" second-field-align="flush">
     <layout suffix="." locale="en">
       <text variable="citation-number" suffix="."/>
       <text macro="bib-full-en"/>

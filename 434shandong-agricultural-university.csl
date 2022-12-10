@@ -418,7 +418,7 @@
     </layout>
   </citation>
   <!-- 参考文献表 -->
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="50" second-field-align="flush" hanging-indent="true">
+  <bibliography entry-spacing="0" second-field-align="flush" hanging-indent="true">
     <sort>
       <key macro="author"/>
       <key macro="issued-year"/>
