@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with="" name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>HZAU-thesis华中农业大学硕博论文</title>
-    <title-short>hzau</title-short>
-    <id>http://www.zotero.org/styles/hzau-thesis</id>
-    <link href="http://www.zotero.org/styles/hzau-thesis" rel="self"/>
-    <link href="http://yjs.hzau.edu.cn/info/1202/3774.htm" rel="documentation"/>
+    <title>swu-thesis西南大学硕博论文</title>
+    <title-short>swu</title-short>
+    <id>http://www.zotero.org/styles/southwest-university</id>
+    <link href="http://www.zotero.org/styles/southwest-university" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
     <contributor>
+      <name>Raymond</name>
+    </contributor>
+    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </contributor>
+    <contributor>
+      <name>洋芋</name>
+      <email>chivele.lee@gmail.com</email>
+    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>hzau-thesis华中农业大学硕博论文</summary>
+    <summary>The Chinese GB/T7714-2015 author-date style</summary>
     <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
   <locale xml:lang="zh-CN">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="page-range-delimiter">-</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -53,7 +67,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" delimiter=" " and="text" et-al-min="3"/>
+          <name form="short" delimiter=" " and="symbol" et-al-min="3"/>
         </names>
       </if>
       <else>
@@ -65,7 +79,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="long" delimiter="" and="text" et-al-min="3"/>
+          <name delimiter="" and="text" et-al-min="3"/>
         </names>
       </if>
       <else>
@@ -173,7 +187,7 @@
         <text value="R"/>
       </else-if>
       <else-if type="thesis">
-        <text variable="genre" suffix="学位论文"/>
+        <text value="D"/>
       </else-if>
       <else>
         <text value="Z"/>
@@ -181,9 +195,8 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title"/>
+    <text variable="title" text-case="capitalize-first"/>
     <!-- <text variable="number" prefix=": "/> -->
-    <!--
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -191,20 +204,19 @@
           <text value="OL"/>
         </if>
       </choose>
-    </group> -->
+    </group>
   </macro>
-  <macro name="bib-entry-zh">
-    <text variable="citation-number" suffix=". "/>
+  <macro name="bib-full">
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation report thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-author" suffix=". "/>
-            <text variable="container-title" font-style="italic" form="short" suffix=". " text-case="title"/>
+            <text variable="container-title" suffix=". " text-case="title"/>
           </if>
           <else>
             <text value=". "/>
@@ -213,56 +225,13 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
       </if>
-      <else-if type="thesis">
-        <!-- 学位论文 -->
-        <group prefix=". ">
-          <!-- <text macro="serial-information" suffix=". "/> -->
-          <group delimiter="">
-            <text variable="genre" prefix="[" suffix="学位论文]. "/>
-            <text variable="publisher-place" suffix=": "/>
-            <text variable="publisher"/>
-            <text variable="archive_location" prefix=" "/>
-            <text macro="issue-date-year" prefix="，"/>
-          </group>
-          <!-- <text macro="publishing"/> -->
-        </group>
-      </else-if> <!-- 学位论文 -->
-      <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix=". ">
-          <choose>
-            <if variable="container-title">
-              <text variable="container-title" suffix=". " text-case="title"/>
-              <text macro="serial-information"/>
-            </if>
-            <else>
-              <text macro="serial-information" suffix=". "/>
-              <text macro="publishing"/>
-            </else>
-          </choose>
-        </group>
-      </else-if>
-      <else-if type="patent">
-        <text macro="issued-date" prefix=". "/>
-      </else-if>
-      <else>
-        <text macro="publishing" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
-      </else>
-    </choose>
-    <!-- <text macro="accessed-date"/> 访问日期 -->
-  </macro>
-  <macro name="bib-entry-en">
-    <text variable="citation-number" suffix=". "/>
-    <text macro="author" suffix=". "/>
-    <text macro="title"/>
-    <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <else-if type="paper-conference" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
-          <if variable="container-title">
+          <if variable="event-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
-            <text variable="container-title-short" font-style="italic" suffix=". " text-case="title"/>
+            <text variable="event-title" suffix=", "/>
+            <text variable="event-place" suffix=", "/>
           </if>
           <else>
             <text value=". "/>
@@ -270,31 +239,18 @@
         </choose>
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
-      </if>
-      <else-if type="thesis">
-        <!-- 学位论文 -->
-        <group prefix=". ">
-          <!-- <text macro="serial-information" suffix=". "/> -->
-          <group delimiter="">
-            <text variable="genre" prefix="(" suffix="dissertation). "/>
-            <text variable="publisher-place" suffix=": "/>
-            <text variable="publisher"/>
-            <text variable="archive_location" prefix=" "/>
-            <text macro="issue-date-year" prefix="，"/>
-          </group>
-          <!-- <text macro="publishing"/> -->
-        </group>
-      </else-if> <!-- 学位论文 -->
+        <text macro="serial-information"/>
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
           <choose>
             <if variable="container-title-short">
               <text variable="container-title-short" font-style="italic" text-case="title"/>
-              <text macro="serial-information" prefix=". "/>
+              <text macro="serial-information" prefix=", "/>
             </if>
             <else>
-              <text variable="container-title" font-style="italic" suffix=". " text-case="title"/>
-              <text macro="serial-information" suffix=". "/>
+              <text variable="container-title" font-style="italic" text-case="title"/>
+              <text macro="serial-information" prefix=", "/>
               <text macro="publishing"/>
             </else>
           </choose>
@@ -308,16 +264,20 @@
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <!-- <text macro="accessed-date"/> 访问日期 -->
+    <!-- <text macro="accessed-date"/>
+    <group delimiter=". " prefix=". ">
+      <text variable="URL"/>
+      <text variable="DOI" prefix="DOI:"/>
+    </group> -->
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
       <key macro="issue-date-year"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter=", ">
-      <group delimiter=" ">
-        <text macro="author-intext" strip-periods="true"/>
+    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-intext"/>
         <text macro="issue-date-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -325,8 +285,8 @@
         </group>
       </group>
     </layout>
-    <layout prefix="（" suffix="）" delimiter=", ">
-      <group delimiter=" ">
+    <layout locale="" prefix="（" suffix="）" delimiter="; ">
+      <group delimiter=", ">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>
         <group>
@@ -336,16 +296,16 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="21" et-al-use-first="20" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
-      <key variable="author"/>
-      <key variable="issued"/>
+      <key macro="author-intext"/>
+      <key macro="issue-date-year"/>
     </sort>
-    <layout locale="en">
-      <text macro="bib-entry-en"/>
+    <layout suffix="." locale="en">
+      <text macro="bib-full"/>
     </layout>
-    <layout>
-      <text macro="bib-entry-zh"/>
+    <layout suffix=".">
+      <text macro="bib-full"/>
     </layout>
   </bibliography>
 </style>

@@ -471,7 +471,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [108journal-of-nuclear-agricultural-sciences.csl]
 
-[405njau-thesis.csl]修改，显示全部作者。适用于[《核农学报》](<https://www.hnxb.org.cn/CN/column/item8.shtml>)的样式。
+[405nanjing-agricultural-university-numeric.csl]修改，显示全部作者。适用于[《核农学报》](<https://www.hnxb.org.cn/CN/column/item8.shtml>)的样式。
 
 显示效果：
 
@@ -1054,9 +1054,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 
 
-## [403hzau-thesis.csl]
+## [403huazhong-agricultural-university.csl]
 
-[407njau-thesis-old.csl] 的修改版，适用于华中农业大学
+[407nanjing-agricultural-university-old.csl] 的修改版，适用于华中农业大学
 学位论文，规则见 <http://yjs.hzau.edu.cn/info/1202/3774.htm>，正文中为作者年代格式，文末列表为数字格式。
 中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en-US`，中文为`zh-CN`，否则无法实现按语言排序）。作者为首字母大写，支持中文作者超过 `20` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。英文期刊名称为斜体，缩写（需要将期刊缩写放在 `Zotero` 条目 `Info` 的 `Journal Abbr` 的字段才会缩写）。待提供更多文献类型进行测试。
 
@@ -1070,9 +1070,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > 3. Ebert S, Kaplan S, Brettschneider K, Terjung N, Gibis M, Weiss J. Aggregation behavior of solubilized meat - potato protein mixtures. *Food Hydro*. 2021, 113: 106388<br>
 > 4. He HJ, Wu D, Sun DW. Non-destructive and rapid analysis of moisture distribution in farmed atlantic salmon (salmo salar) fillets using visible and near-infrared hyperspectral imaging. *Inn Food Sci & Emer Tech*. 2013, 18: 237–245
 
-## [404jnu-thesis.csl]
+## [404jinan-university.csl]
 
-[4zuel-thesis] 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
+[4zhongnan-university-of-economics-and-law] 基础上修改。暨南大学硕博论文样式，正文中作者年代格式，文末序号，英文文献在前，中文在后，显示全部作者。
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
 
 显示效果：
@@ -1094,9 +1094,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > [7]	唐小华, 胡斌, 李雪玲, 胡文锋. 食药用菌菌丝体应用研究进展[J]. 食用菌学报, 2021, 28(04): 116–122.<br>
 
 
-## [405njau-thesis.csl]
+## [405nanjing-agricultural-university-numeric.csl]
 
-南京农业大学硕博论文用，在 [000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改（原样式见[407njau-thesis-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+南京农业大学硕博论文用，在 [000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改（原样式见[407nanjing-agricultural-university-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
 
 显示效果：
 
@@ -1107,8 +1107,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
-## [406njau-thesis-author-date.csl]
-南京农业大学硕博论文用（作者年代样式），[415zju-thesis.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
+## [406nanjing-agricultural-university-author-date.csl]
+南京农业大学硕博论文用（作者年代样式），[415zhejiang-university.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
 
 显示效果：
 
@@ -1123,8 +1123,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >杨惠，张金桐.几丁质合成抑制剂的毒理学研究进展[J]. 寄生虫与医学昆虫学报, 2001(01): 57–64.<br>
 > ```
 
-## [408njau-thesis-online-first.csl]
-与[407njau-thesis-old.csl]显示效果基本相同，区别是网络首发的文献（没有卷和期），文献类型改为J/OL，页码后面
+## [408nanjing-agricultural-university-online-first.csl]
+与[407nanjing-agricultural-university-old.csl]显示效果基本相同，区别是网络首发的文献（没有卷和期），文献类型改为J/OL，页码后面
 加入`[引用日期].URL`。要显示`[引用日期].URL`需要在`Zotero`的`编辑`-`首选项`-`引用`-中勾选`在参考文献里包含文章URL链接`才会正常显示。
 
 显示效果：
@@ -1143,7 +1143,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > ```
 
 
-## [410sjtu-thesis]
+## [410shanghai-jiao-tong-university]
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 > ```
 显示效果<sup>[1-4]</sup>
@@ -1154,7 +1154,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 [4]	罗雨舟, 向天宇, 郝柳青. 卷积神经网络在结构损伤检测中的应用[J]. 土木工程与管理学报, 2020, 37(03): 155-161+173.<br>
 > ```
 
-## [411swu-thesis.csl]
+## [411southwest-university.csl]
 
 网友**洋芋**（__chivele.lee@gmail.com__）分享，[西南大学硕博论文](http://pgs.swu.edu.cn/info/1052/2292.htm
 )样式，正文中两个中文作者之间为“`和`”，英文作者为“`and`”。参考文献列表中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en-US`，中文为`zh-CN`，否则无法实现按语言排序）。英文期刊名称为斜体。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
@@ -1174,7 +1174,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >  Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
 
 
-## [414ynu-thesis.csl]
+## [414yunnan-university.csl]
 
 云南大学理科类参考文献样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，网友 @Sunny-27 分享。文中引用中文两个作者之间为“和”，英文为 “et”。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
 
@@ -1193,7 +1193,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > LeSage J, Pace R K. 2009. Introduction to spatial Econometrics[M]. Chapman and Hall/CRC.<br>
 
 
-## [415zju-thesis.csl]
+## [415zhejiang-university.csl]
 浙江大学硕博论文样式（<http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782>），
 网友**yc**（__ycnotion@protonmail.com__）分享，
 正文中作者年代格式，文末参考文献列表英文文献在前，中文在后，作者数量超过`3`个，英文显示为`et al`，中文显示`等`。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
@@ -1213,7 +1213,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >徐渊，韩敏义，陈艳萍，，等.三个品种白切鸡食用品质评价[J]. 食品工业科技,2021, 42(01): 89–95.<br>
 > ```
 
-## [416zuel-thesis.csl]
+## [416zhongnan-university-of-economics-and-law.csl]
 
 网友**李刚**（__gang.li.0814@gmail.com__）分享，[中南财经政法大学硕博论文](http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf
 )样式，中文文献排在前面，英文文献排在后面（需要在条目中将 `language` 英文设为 `en-US`，中文为`zh-CN`，否则无法实现按语言排序）。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（金红兰, 和金龙勋, 2021）`，请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。
@@ -1233,7 +1233,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
 
 
-## [417whu-school-of-law.csl]
+## [417wuhan-university-school-of-law.csl]
 
 武汉大学法学院硕博论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
 
@@ -1251,7 +1251,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
 > ```
 
-## [418hust-thesis.csl]
+## [418huazhong-university-of-science-and-technology.csl]
 
 [华中科技大学学位论文样式](http://gs.hust.edu.cn/info/1019/11815.htm)：作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
 
@@ -1271,7 +1271,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
   </div>
 </blockquote>
 
-## [419bnu-thesis.csl]
+## [419beijing-normal-university.csl]
 
 [北京师范大学](http://bs.bnu.edu.cn/docs/20150408171708698394.pdf)作者年代参考文献样式，[011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改，
 正文中两个中文作者之间为`和`，英文为`&`。
@@ -1290,7 +1290,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > Sun T, Shan M, Rong X, et al., 2022. Estimating the spatial distribution of solar photovoltaic power generation potential on different types of rural rooftops using a deep learning network applied to satellite images[J]. Applied Energy, 315: 119025.<br>
 > ```
 
-## [420beihang-thesis.csl]
+## [420beihang-university.csl]
 [北京师范大学](http://graduate.buaa.edu.cn/info/1039/7831.htm)作者年代参考文献样式，
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]基础上修改，作者首字母大写，题目词首字母大写，结尾无点，3人以内列出全部作者，3人以上写3人加`等`（英文加`et al`））。
 
@@ -1307,10 +1307,10 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms[J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
 >[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609<br>
 
-## [421hebau-thesis.csl]
+## [421hebei-agricultural-university.csl]
 [河北农业大学](https://www.hebau.edu.cn/)学位论文参考文献样式。
 
-## [422caas-thesis.csl]
+## [422chinese-academy-of-agricultural-sciences.csl]
 [中国农业科学院](https://gs.caas.cn/xwxk/xwsy/227175.htm)作者年代学位论文参考文献样式，按著者字顺和出版年排序
 中文文献在前，按汉语拼音升序排序，英文文献在后，按字母升序排序。使用时需要将英文条目语言改为`en-US`，中文改为`zh-CN`。
 
@@ -1333,17 +1333,17 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment. Nature, 359(6396): 605-609. DOI: 10.1038/359605a0.<br>
 > ```
 
-## [423nbu-thesis]
+## [423ningbo-university]
 
 [宁波大学](http://graduate.nbu.edu.cn/info/1049/15542.htm)硕博论文样式。
 
-## [424hrbust-thesis.csl]
+## [424harbin-university-of-science-and-technology.csl]
 
 [哈尔滨理工大学](http://graduate.hrbust.edu.cn/info/1245/5420.htm)硕博论文样式，**未经完整测试**。
 
-## [425syau-thesis.csl]
+## [425shenyang-agricultural-university.csl]
 
-[沈阳农业大学](https://grs.syau.edu.cn/info/1173/5583.htm)硕博论文样式，[403hzau-thesis.csl]基础上修改，中文两个作者之间为`与`，英文为`and`，作者首字母大写，参考文献表显示全部作者。
+[沈阳农业大学](https://grs.syau.edu.cn/info/1173/5583.htm)硕博论文样式，[403huazhong-agricultural-university.csl]基础上修改，中文两个作者之间为`与`，英文为`and`，作者首字母大写，参考文献表显示全部作者。
 
 显示效果：
 
@@ -1362,7 +1362,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > ```
 
 
-## [426bfu-thesis.csl]
+## [426beijing-forestry-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[北京林业大学硕博论文](http://graduate.bjfu.edu.cn/xwgl/xwlw/349457.html)样式，<br>
 [201comparative-economic-and-social-systems.csl]基础上修改。中文文献排在前面，英文文献排在后面，<br>
@@ -1392,9 +1392,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
 >Wang Y Y, Tian G, Mao K, Chitrakar B, Wang Z, Liu J, Bai X, Sang Y, Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
 
-## [427uestc-thesis.csl]
+## [427university-of-electronic-science-and-technology-of-china.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[电子科技大学硕博论文](https://gr.uestc.edu.cn/xiazai/114/3917/)样式，[404jnu-thesis.csl]基础上修改。
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[电子科技大学硕博论文](https://gr.uestc.edu.cn/xiazai/114/3917/)样式，[404jinan-university.csl]基础上修改。
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
@@ -1416,9 +1416,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021, 1-2.<br>
 >[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]. 世界交通运输大会(WTC2022)论文集(公路工程篇), 南京, 2022: 220-226.<br>
 
-## [428fafu-thesis.csl]
+## [428fujian-agriculture-and-forestry-university.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[福建农林大学硕博论文](https://yjsy.fafu.edu.cn/fa/05/c8301a195077/page.htm)样式，[404jnu-thesis.csl]基础上修改。
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[福建农林大学硕博论文](https://yjsy.fafu.edu.cn/fa/05/c8301a195077/page.htm)样式，[404jinan-university.csl]基础上修改。
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
@@ -1440,7 +1440,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021. 1-2.<br>
 >[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
 
-## [429gzu-thesis.csl]
+## [429guizhou-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[贵州大学硕博论文](http://gs.gzu.edu.cn/2021/0518/c11830a151778/page.htm)样式，<br>
 [201comparative-economic-and-social-systems.csl]基础上修改。参考文献表按照引用顺序编码并排序<br>
@@ -1470,9 +1470,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >11.	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
 >12.	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
 
-## [430hnu-thesis.csl]
+## [430hainan-university.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[海南大学硕博论文](https://www.doc88.com/p-1813465766850.html)样式，[404jnu-thesis.csl]基础上修改。<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[海南大学硕博论文](https://www.doc88.com/p-1813465766850.html)样式，[404jinan-university.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
@@ -1500,7 +1500,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[11]	Nae W. Nutrient requirements of Poultry[M]. 9rd ed. Washington: National Academy of Science Press, 1994: 520.<br>
 >[12]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
 
-## [431hhu-thesis.csl]
+## [431hohai-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[河海大学硕博论文](https://gs.hhu.edu.cn/_upload/article/files/30/7d/e5eafe3b4ef28e40f4569d9f928b/8ce9b41e-9c28-44e4-81a5-fff20722ab93.pdf)样式，<br>
 [china-national-standard-gb-t-7714-2015-numeric.csl]基础上修改。<br>
@@ -1525,10 +1525,10 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021. 1-2.<br>
 >[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
 
-## [432ecnu-thesis.csl]
+## [432east-china-normal-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[华东师范大学硕博论文](http://phy.ecnu.edu.cn/c2/3f/c24394a246335/page.htm)样式，<br>
-[404jnu-thesis.csl]基础上修改。英文文献排在前面，中文文献排在后面，<br>
+[404jinan-university.csl]基础上修改。英文文献排在前面，中文文献排在后面，<br>
 并按第一作者的姓氏首字母排序。文献条目语言字段：中文文献设为zh-CN，英文文献设为en-US。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
@@ -1555,9 +1555,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇), 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220–226.<br>
 >赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130–134, 194.<br>
 
-## [433jufe-thesis.csl]
+## [433jiangxi-university-of-finance-and-economics.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学硕博论文](http://grs.jxufe.edu.cn/news-show-3761.html)样式，[jnu-thesis.csl]基础上修改。<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学硕博论文](http://grs.jxufe.edu.cn/news-show-3761.html)样式，[jinan-university.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
@@ -1585,7 +1585,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[11]	Nae W. Nutrient requirements of Poultry[M]. 9rd ed. Washington: National Academy of Science Press, 1994: 520.<br>
 >[12]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
 
-## [434sdau-thesis.csl]
+## [434shandong-agricultural-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[山东农业大学硕博论文](http://yjsc.sdau.edu.cn/info/46/117.htm)样式，<br>
 [comparative-economic-and-social-systems.csl]基础上修改。引文的*et al*为斜体。<br>
@@ -1616,7 +1616,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
 >Wang Y. Y., Tian G., Mao K., Chitrakar B., Wang Z., Liu J., Bai X., Sang Y., Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
 
-## [435yzu-thesis.csl]
+## [435yangzhou-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[扬州大学硕博论文](http://yjsc.yzu.edu.cn/info/1043/2151.htm)样式，<br>
 [201comparative-economic-and-social-systems.csl]基础上修改。<br>
@@ -1898,33 +1898,33 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
 [306manual-of-legal-citation-multi-lingual-no-ibid.csl]: 306manual-of-legal-citation-multi-lingual-no-ibid.csl
 [307studies-of-marxism.csl]: 307studies-of-marxism.csl
-[403hzau-thesis.csl]: 403hzau-thesis.csl
-[404jnu-thesis.csl]: 404jnu-thesis.csl
-[405njau-thesis.csl]: 405njau-thesis.csl
-[406njau-thesis-author-date.csl]: 406njau-thesis-author-date.csl
-[407njau-thesis-old.csl]: 407njau-thesis-old.csl
-[408njau-thesis-online-first.csl]:408njau-thesis-online-first.csl
-[410sjtu-thesis]:410sjtu-thesis
-[411swu-thesis.csl]: 411swu-thesis.csl
-[414ynu-thesis.csl]: 414ynu-thesis.csl
-[415zju-thesis.csl]:415zju-thesis.csl
-[416zuel-thesis.csl]: 416zuel-thesis.csl
-[417whu-school-of-law.csl]: 417whu-school-of-law.csl
-[418hust-thesis.csl]: 418hust-thesis.csl
-[419bnu-thesis.csl]: 419bnu-thesis.csl
-[420beihang-thesis.csl]: 420beihang-thesis.csl
-[421hebau-thesis.csl]: 421hebau-thesis.csl
-[422caas-thesis.csl]: 422caas-thesis.csl
-[423nbu-thesis]:423nbu-thesis
-[424hrbust-thesis.csl]:424hrbust-thesis.csl
-[425syau-thesis.csl]:425syau-thesis.csl
-[426bfu-thesis.csl]:426bfu-thesis.csl
-[427uestc-thesis.csl]:427uestc-thesis.csl
-[428fafu-thesis.csl]:428fafu-thesis.csl
-[429gzu-thesis.csl]:429gzu-thesis.csl
-[430hnu-thesis.csl]:430hnu-thesis.csl
-[431hhu-thesis.csl]:431hhu-thesis.csl
-[432ecnu-thesis.csl]:432ecnu-thesis.csl
-[433jufe-thesis.csl]:433jufe-thesis.csl
-[434sdau-thesis.csl]:434sdau-thesis.csl
-[435yzu-thesis.csl]:435yzu-thesis.csl
+[403huazhong-agricultural-university.csl]: 403huazhong-agricultural-university.csl
+[404jinan-university.csl]: 404jinan-university.csl
+[405nanjing-agricultural-university-numeric.csl]: 405nanjing-agricultural-university-numeric.csl
+[406nanjing-agricultural-university-author-date.csl]: 406nanjing-agricultural-university-author-date.csl
+[407nanjing-agricultural-university-old.csl]: 407nanjing-agricultural-university-old.csl
+[408nanjing-agricultural-university-online-first.csl]:408nanjing-agricultural-university-online-first.csl
+[410shanghai-jiao-tong-university]:410shanghai-jiao-tong-university
+[411southwest-university.csl]: 411southwest-university.csl
+[414yunnan-university.csl]: 414yunnan-university.csl
+[415zhejiang-university.csl]:415zhejiang-university.csl
+[416zhongnan-university-of-economics-and-law.csl]: 416zhongnan-university-of-economics-and-law.csl
+[417wuhan-university-school-of-law.csl]: 417wuhan-university-school-of-law.csl
+[418huazhong-university-of-science-and-technology.csl]: 418huazhong-university-of-science-and-technology.csl
+[419beijing-normal-university.csl]: 419beijing-normal-university.csl
+[420beihang-university.csl]: 420beihang-university.csl
+[421hebei-agricultural-university.csl]: 421hebei-agricultural-university.csl
+[422chinese-academy-of-agricultural-sciences.csl]: 422chinese-academy-of-agricultural-sciences.csl
+[423ningbo-university]:423ningbo-university
+[424harbin-university-of-science-and-technology.csl]:424harbin-university-of-science-and-technology.csl
+[425shenyang-agricultural-university.csl]:425shenyang-agricultural-university.csl
+[426beijing-forestry-university.csl]:426beijing-forestry-university.csl
+[427university-of-electronic-science-and-technology-of-china.csl]:427university-of-electronic-science-and-technology-of-china.csl
+[428fujian-agriculture-and-forestry-university.csl]:428fujian-agriculture-and-forestry-university.csl
+[429guizhou-university.csl]:429guizhou-university.csl
+[430hainan-university.csl]:430hainan-university.csl
+[431hohai-university.csl]:431hohai-university.csl
+[432east-china-normal-university.csl]:432east-china-normal-university.csl
+[433jiangxi-university-of-finance-and-economics.csl]:433jiangxi-university-of-finance-and-economics.csl
+[434shandong-agricultural-university.csl]:434shandong-agricultural-university.csl
+[435yangzhou-university.csl]:435yangzhou-university.csl

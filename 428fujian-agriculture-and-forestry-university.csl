@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " delimiter-precedes-last="always" et-al-min="19" et-al-use-first="19" initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>海南大学硕博论文HNU-thesis</title>
-    <id>HNU-thesis</id>
-    <link href="http://www.zotero.org/styles/jnu-thesis" rel="template"/>
-    <link href="https://www.doc88.com/p-1813465766850.html" rel="documentation"/>
+    <title>福建农林大学硕博论文FAFU-thesis</title>
+    <id>FAFU-thesis</id>
+    <link href="http://www.zotero.org/styles/fujian-agriculture-and-forestry-university" rel="self"/>
+    <link href="http://www.zotero.org/styles/jinan-university" rel="template"/>
+    <link href="https://yjsy.fafu.edu.cn/fa/05/c8301a195077/page.htm" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
@@ -152,7 +153,15 @@
   <macro name="type-code">
     <choose>
       <if type="article-journal article-magazine" match="any">
-        <text value="J"/>
+        <choose>
+          <if variable="volume issue" match='none'>
+            <!-- 如果没有卷和期，认为是网络首发，文献类型为J/OL -->
+            <text value="J/OL"/>
+          </if>
+          <else>
+            <text value="J"/>
+          </else>
+        </choose>
       </if>
       <else-if type="article-newspaper">
         <text value="N"/>
@@ -164,19 +173,19 @@
         <text value="M"/>
       </else-if>
       <else-if type="chapter">
-        <text value="A"/>
+        <text value="M"/>
       </else-if>
       <else-if type="dataset">
-        <text value="Z"/>
+        <text value="DS"/>
       </else-if>
       <else-if type="paper-conference">
-        <text value="A"/>
+        <text value="C"/>
       </else-if>
       <else-if type="patent">
         <text value="P"/>
       </else-if>
       <else-if type="post-weblog webpage" match="any">
-        <text value="Z"/>
+        <text value="EB/OL"/>
       </else-if>
       <else-if type="report">
         <text value="R"/>
@@ -198,6 +207,12 @@
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
+       <!-- <choose>
+        <if variable="URL">
+          <text value="OL"/>
+        </if>
+      </choose> -->
+      <!-- 删除将文献文献类型加OL -->
     </group>
   </macro>
   <macro name="bib-entry-zh">
@@ -223,9 +238,10 @@
       <else-if type="thesis">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="publisher-place" suffix=". "/>
+            <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
-            <text macro="issue-date-year" prefix=". "/>
+            <text macro="issue-date-year" prefix=", "/>
+            <text variable="archive_location" prefix=". "/>
           </group>
         </group>
       </else-if>
@@ -234,11 +250,11 @@
         <group prefix=". ">
           <group delimiter="">
            <text variable="book-title"/>
-           <text variable="edition" suffix=". "/>
+           <!-- <text variable="edition" suffix=". "/>-->
            <text variable="publisher-place" suffix=": "/>
            <text variable="publisher" suffix=", "/>
            <text macro="issue-date-year"/>
-          <text variable="archive_location" prefix=": "/>
+          <text variable="archive_location" prefix=". "/>
           </group>
         </group>
       </else-if>
@@ -260,15 +276,16 @@
             <text variable="publisher-place" suffix=". "/>
             <text variable="publisher" suffix=". "/>
             <text macro="issue-date-year"/>
+            <text variable="archive_location" prefix=". "/>
           </group>
         </group>
       </else-if>
       <!-- 中文专著析出的文献 -->
       <else-if type="chapter">
         <text variable="chapter-title"/>
-        <text value=". "/>
-        <text variable="container-title"/>
-        <text variable="publisher-place" prefix="[C]. " suffix=": "/>
+        <text value="//"/>
+        <text variable="container-title" suffix=". "/>
+        <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issue-date-year" prefix=", "/>
         <text variable="page" prefix=": "/>
@@ -276,9 +293,9 @@
       <!-- 中文会议集析出的文献 -->
       <else-if type="paper-conference">
         <text variable="paper-conference-title"/>
-        <text value=". "/>
-        <text variable="container-title"/>
-        <text variable="publisher-place" prefix="[C]. " suffix=": "/>
+        <text value="//"/>
+        <text variable="container-title" suffix=". "/>
+        <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issue-date-year" prefix=", "/>
         <text variable="page" prefix=": "/>
@@ -297,7 +314,7 @@
         <group prefix=". ">
           <group delimiter="">
             <text variable="article-newspaper-title"/>
-            <text variable="publisher" suffix=". "/>
+            <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
             <text variable="page" prefix="(" suffix=")"/>
           </group>
@@ -346,9 +363,10 @@
       <else-if type="thesis">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="publisher-place" suffix=". "/>
+            <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
-            <text macro="issue-date-year" prefix=". "/>
+            <text macro="issue-date-year" prefix=", "/>
+            <text variable="archive_location" prefix=". "/>
           </group>
         </group>
       </else-if>
@@ -357,11 +375,11 @@
         <group prefix=". ">
           <group delimiter="">
            <text variable="book-title"/>
-           <text variable="edition" suffix=". "/>
+           <!--<text variable="edition" suffix=". "/>-->
            <text variable="publisher-place" suffix=": "/>
            <text variable="publisher" suffix=", "/>
            <text macro="issue-date-year"/>
-          <text variable="archive_location" prefix=": "/>
+          <text variable="archive_location" prefix=". "/>
           </group>
         </group>
       </else-if>
@@ -383,15 +401,16 @@
             <text variable="publisher-place" suffix=". "/>
             <text variable="publisher" suffix=". "/>
             <text macro="issue-date-year"/>
+            <text variable="archive_location" prefix=". "/>
           </group>
         </group>
       </else-if>
      <!-- 英文专著析出的文献 -->
       <else-if type="chapter">
         <text variable="chapter-title"/>
-        <text value=". "/>
-        <text variable="container-title"/>
-        <text variable="publisher-place" prefix="[C]. " suffix=": "/>
+        <text value="//"/>
+        <text variable="container-title" suffix=". "/>
+        <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issue-date-year" prefix=", "/>
         <text variable="page" prefix=": "/>
@@ -399,9 +418,9 @@
       <!-- 英文会议集析出的文献 -->
       <else-if type="paper-conference">
         <text variable="paper-conference-title"/>
-        <text value=". "/>
-        <text variable="container-title"/>
-        <text variable="publisher-place" prefix="[C]. " suffix=": "/>
+        <text value="//"/>
+        <text variable="container-title" suffix=". "/>
+        <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issue-date-year" prefix=", "/>
         <text variable="page" prefix=": "/>
@@ -420,7 +439,7 @@
         <group prefix=". ">
           <group delimiter="">
             <text variable="article-newspaper-title"/>
-            <text variable="publisher" suffix=". "/>
+            <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
             <text variable="page" prefix="(" suffix=")"/>
           </group>
@@ -432,6 +451,19 @@
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="normal"/>
               <text macro="serial-information" prefix=""/>
+              <choose>
+                <if variable="volume issue" match='none'>
+                  <!-- 如果没有卷和期，认为是网络首发，显示访问日期是 -->
+                  <!-- 如果有日期则添加 -->
+                  <text macro="accessed-date"/>
+                  <choose>
+                    <if variable="URL">
+                      <text variable="URL" prefix=". "/>
+                    </if>
+                  </choose>
+                  <!-- 如果有网址则添加 -->
+                </if>
+              </choose>
             </if>
             <else>
               <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
@@ -450,37 +482,14 @@
       </else>
     </choose>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
-    <sort>
-      <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
-    </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
-        <text macro="issue-date-year"/>
-        <group>
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
-      </group>
-    </layout>
-    <layout delimiter="; " prefix="（" suffix="）">
-      <group delimiter=", ">
-        <text macro="author-intext-long"/>
-        <text macro="issue-date-year"/>
-        <group>
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
-      </group>
+  <!-- 引文 -->
+   <citation collapse="citation-number" after-collapse-delimiter=",">
+    <layout vertical-align="sup" delimiter=", " prefix="[" suffix="]">
+      <text variable="citation-number"/>
     </layout>
   </citation>
+  <!-- 参考文献表 -->
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1.25" second-field-align="flush">
-    <sort>
-      <key macro="author"/>
-      <key macro="issued-year"/>
-    </sort>
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="bib-entry-en" suffix="."/>
