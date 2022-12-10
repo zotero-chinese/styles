@@ -45,7 +45,6 @@
       <if variable="author">
         <names variable="author">
           <et-al font-style="italic"/>
-          <name/>
         </names>
       </if>
       <else>

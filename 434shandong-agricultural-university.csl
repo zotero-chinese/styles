@@ -71,8 +71,8 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <et-al font-style="italic"/>
           <name form="short" delimiter=" " and="text" et-al-min="3"/>
+          <et-al font-style="italic"/>
         </names>
       </if>
       <else>
@@ -84,8 +84,8 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <et-al font-style="italic"/>
           <name delimiter="" and="text" et-al-min="3"/>
+          <et-al font-style="italic"/>
         </names>
       </if>
       <else>
