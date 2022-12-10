@@ -213,7 +213,7 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
       </if>
-      <!-- 中文硕博论文 -->
+      <!-- 中文学位论文 -->
       <else-if type="thesis">
         <group prefix=". ">
           <group delimiter="">
@@ -336,7 +336,7 @@
         <text macro="edition" suffix=". "/>
         <text macro="publishing"/>
       </if>
-      <!-- 英文硕博论文 -->
+      <!-- 英文学位论文 -->
       <else-if type="thesis">
         <group prefix=". ">
           <group delimiter="">

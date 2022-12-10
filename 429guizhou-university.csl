@@ -210,7 +210,7 @@
           </choose>
         </group>
       </else-if>
-      <!-- 英文硕博论文 -->
+      <!-- 英文学位论文 -->
       <else-if type="thesis">
         <text variable="title"/>
         <text variable="publisher-place" prefix="[D]. " suffix=": "/>
@@ -317,7 +317,7 @@
           </choose>
         </group>
       </else-if>
-      <!-- 中文硕博论文 -->
+      <!-- 中文学位论文 -->
       <else-if type="thesis">
         <text variable="title"/>
         <text variable="publisher-place" prefix="[D]. " suffix=": "/>
