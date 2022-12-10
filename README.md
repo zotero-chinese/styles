@@ -1322,17 +1322,296 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >（WANG, 2003）****（霍斯尼, 1989）****（DES MARAIS et al., 1992）
 >（CAIRNS, 1965）
 
->李泽仟, 顾欢, 康乐, 张亚, 宋焕禄, 2016. 当归中关键气味活性化合物的鉴定及其在煎煮过程中变化规律研究. 食品工业科技, 37(9): 311-316. DOI: 10.13386/j.issn1002-0306.2016.09.052.
->沈寿国, 2004. 蛇床子素抑制植物病原真菌机制的初步研究. 南京农业大学.
->王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议. 山西师大学报(社会科学版), 37(4): 147-151.
->邓一刚, 2006. 全智能节电器: 200610171314.3.
->霍斯尼, 1989. 谷物科学与工艺学原理. 李庆龙, 译. 2 版. 北京: 中国食品出版社: 15-20.
->WANG Z L, 2003. Handbook of Nanophase and Nanostructured Materials. New York: Kluwer Academic/Plenum [u.a.]. DOI: 10.1007/0-387-23814-X.
->ZHANG Y F, LUO H X, GUO Z, ZHEN X J, CHEN M, LIU J N, 2017. Cleaning of carbon-contaminated optics using O2/Ar plasma. Nuclear Science and Techniques, 28(9): 127. DOI: 10.1007/s41365-017-0274-z.
->CAIRNS B R, 1965. Infrared spectroscopic studies of solid oxygen. Berkeley: Univ. of California.
->DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment. Nature, 359(6396): 605-609. DOI: 10.1038/359605a0.
+>李泽仟, 顾欢, 康乐, 张亚, 宋焕禄, 2016. 当归中关键气味活性化合物的鉴定及其在煎煮过程中变化规律研究. 食品工业科技, 37(9): 311-316. DOI: 10.13386/j.issn1002-0306.2016.09.052.<br>
+>沈寿国, 2004. 蛇床子素抑制植物病原真菌机制的初步研究. 南京农业大学.<br>
+>王临惠, 支建刚, 王忠一, 2010. 天津方言的源流关系刍议. 山西师大学报(社会科学版), 37(4): 147-151.<br>
+>邓一刚, 2006. 全智能节电器: 200610171314.3.<br>
+>霍斯尼, 1989. 谷物科学与工艺学原理. 李庆龙, 译. 2 版. 北京: 中国食品出版社: 15-20.<br>
+>WANG Z L, 2003. Handbook of Nanophase and Nanostructured Materials. New York: Kluwer Academic/Plenum [u.a.]. DOI: 10.1007/0-387-23814-X.<br>
+>ZHANG Y F, LUO H X, GUO Z, ZHEN X J, CHEN M, LIU J N, 2017. Cleaning of carbon-contaminated optics using O2/Ar plasma. Nuclear Science and Techniques, 28(9): 127. DOI: 10.1007/s41365-017-0274-z.<br>
+>CAIRNS B R, 1965. Infrared spectroscopic studies of solid oxygen. Berkeley: Univ. of California.<br>
+>DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment. Nature, 359(6396): 605-609. DOI: 10.1038/359605a0.<br>
 > ```
 
+## [426bfu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[北京林业大学硕博论文]样式，<br>
+[comparative-economic-and-social-systems.csl]基础上修改。中文文献排在前面，英文文献排在后面，<br>
+并按第一作者的姓氏首字母排序。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如倒数第二篇文献的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如第六篇文献的页码为220-226。<br>
+
+显示效果：
+
+>（刘章军等，2022; Wang et al.，2022）<br>
+>（田力，2022; Laury，2006）<br>
+>（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
+>（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+
+>仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
+>刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>孙天利, 程楚怡, 杨涔, 张晗, 王虹玲. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+>赵爱林, 王晟嫣, 许彦斌, 汤芳, 孙秋洁, 曾鸣. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>Frisch N K, Ahmed Y, Sethi S, Neill D, Kalinicheva T, Shidham V. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
+>Wang Y Y, Tian G, Mao K, Chitrakar B, Wang Z, Liu J, Bai X, Sang Y, Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+
+## [427uestc-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[电子科技大学硕博论文]样式，[jnu-thesis.csl]基础上修改。
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
+
+显示效果：
+
+> <sup>[1-12]<sup>
+
+>[1]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[2]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>[3]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[4]	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>[5]	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>[6]	孙天利, 程楚怡, 杨涔, 等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	Nae W. Nutrient requirements of Poultry[M]. 9rd ed. Washington: National Academy of Science Press, 1994. 520.<br>
+>[9]	Frisch N K, Ahmed Y, Sethi S, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021, 1-2.<br>
+>[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]. 世界交通运输大会(WTC2022)论文集(公路工程篇), 南京, 2022: 220-226.<br>
+
+## [428fafu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[福建农林大学硕博论文]样式，[jnu-thesis.csl]基础上修改。
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
+
+显示效果：
+
+> <sup>[1-12]<sup>
+
+>[1]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[2]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>[3]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[4]	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>[5]	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>[6]	孙天利, 程楚怡, 杨涔, 等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	Nae W. Nutrient requirements of Poultry[M]. Washington: National Academy of Science Press, 1994. 520.<br>
+>[9]	Frisch N K, Ahmed Y, Sethi S, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021. 1-2.<br>
+>[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+
+## [429gzu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[贵州大学硕博论文]样式，<br>
+[comparative-economic-and-social-systems.csl]基础上修改。参考文献表按照引用顺序编码并排序<br>
+**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
+
+显示效果：
+
+>（刘章军等，2022; Wang et al.，2022）<br>
+>（田力，2022; Laury，2006）<br>
+>（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
+>（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+
+>1.	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>2.	Wang Y Y, Tian G, Mao K, Chitrakar B, Wang Z, Liu J, Bai X, Sang Y, Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>3.	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>4.	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>5.	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>6.	孙天利, 程楚怡, 杨涔, 张晗, 王虹玲. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>7.	赵爱林, 王晟嫣, 许彦斌, 汤芳, 孙秋洁, 曾鸣. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>8.	Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
+>9.	Frisch N K, Ahmed Y, Sethi S, Neill D, Kalinicheva T, Shidham V. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>10.	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>11.	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
+>12.	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+
+## [430hnu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[海南大学硕博论文]样式，[jnu-thesis.csl]基础上修改。<br>
+参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
+**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[2]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[11]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[6]中的页码为220-226。<br>
+
+显示效果：
+
+>（刘章军等，2022; Wang et al.，2022）<br>
+>（田力，2022; Laury，2006）<br>
+>（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
+>（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+
+>[1]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报. 2014-05-20(2).<br>
+>[2]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京. 南京理工大学. 2021.<br>
+>[3]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[4]	孙天利, 程楚怡, 杨涔, 等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[5]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[6]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[A]. 世界交通运输大会(WTC2022)论文集(公路工程篇)[C]. 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[A]. AMSA White Paper Series[C]. USA: National Academy of Science Press, 2008: 12.<br>
+>[9]	Frisch N K, Ahmed Y, Sethi S, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. Iowa State. Iowa State University. 2006.<br>
+>[11]	Nae W. Nutrient requirements of Poultry[M]. 9rd ed. Washington: National Academy of Science Press, 1994: 520.<br>
+>[12]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+
+## [431hhu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[河海大学硕博论文]样式，<br>
+[china-national-standard-gb-t-7714-2015-numeric.csl]基础上修改。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
+
+显示效果：
+
+> <sup>[1-12]<sup>
+
+>[1]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[2]	Wang Y Y, Tian G, Mao K, Chitrakar B, Wang Z, Liu J, Bai X, Sang Y, Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>[3]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[4]	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>[5]	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>[6]	孙天利, 程楚怡, 杨涔, 张晗, 王虹玲. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌, 汤芳, 孙秋洁, 曾鸣. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	Nae W. Nutrient requirements of Poultry[M]. Washington: National Academy of Science Press, 1994. 520.<br>
+>[9]	Frisch N K, Ahmed Y, Sethi S, Neill D, Kalinicheva T, Shidham V. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021. 1-2.<br>
+>[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+
+## [432ecnu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[华东师范大学硕博论文]样式，<br>
+[jnu-thesis.csl]基础上修改。英文文献排在前面，中文文献排在后面，<br>
+并按第一作者的姓氏首字母排序。文献条目语言字段：中文文献设为zh-CN，英文文献设为en-US。<br>
+**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献中的地点为南京。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如倒数第二篇文献的页码为220-226。<br>
+
+显示效果：
+
+>（刘章军等，2022; Wang et al.，2022）<br>
+>（田力，2022; Laury，2006）<br>
+>（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
+>（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+
+>Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[M]//AMSA White Paper Series, USA: National Academy of Science Press, 2008: 12.<br>
+>Frisch N K, Ahmed Y, Sethi S, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. (Master of Sciencedissertation). Iowa State: Iowa State University, 2006.<br>
+>Nae W. Nutrient requirements of Poultry[M]. 9rd ed edition. Washington: National Academy of Science Press, 1994.<br>
+>Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014: 2.<br>
+>洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学 1-2, 2021.<br>
+>刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1–10.<br>
+>孙天利, 程楚怡, 杨涔, 等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101–105.<br>
+>田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130–133.<br>
+>吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇), 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220–226.<br>
+>赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130–134, 194.<br>
+
+## [433jufe-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学硕博论文]样式，[jnu-thesis.csl]基础上修改。<br>
+参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
+**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[2]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[11]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[6]中的页码为220-226。<br>
+
+显示效果：
+
+>（刘章军等，2022; Wang et al.，2022）<br>
+>（田力，2022; Laury，2006）<br>
+>（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
+>（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+
+>[1]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报. 2014-05-20(2).<br>
+>[2]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京. 南京理工大学. 2021.<br>
+>[3]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[4]	孙天利, 程楚怡, 杨涔, 等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[5]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[6]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[A]. 世界交通运输大会(WTC2022)论文集(公路工程篇)[C]. 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌, 等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon Monoxide[A]. AMSA White Paper Series[C]. USA: National Academy of Science Press, 2008: 12.<br>
+>[9]	Frisch N K, Ahmed Y, Sethi S, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® Specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork Sausage[D]. Iowa State. Iowa State University. 2006.<br>
+>[11]	Nae W. Nutrient requirements of Poultry[M]. 9rd ed. Washington: National Academy of Science Press, 1994: 520.<br>
+>[12]	Wang Y Y, Tian G, Mao K, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop Muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+
+## [434sdau-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[山东农业大学硕博论文]样式，<br>
+[comparative-economic-and-social-systems.csl]基础上修改。引文的*et al*为斜体。<br>
+中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
+**注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
+请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如倒数第二篇文献的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如第六篇文献的页码为220-226。<br>
+
+显示效果：
+
+>（刘章军等，2022; Wang et al.，2022）<br>
+>（田力，2022; Laury，2006）<br>
+>（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
+>（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+
+>仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
+>刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>孙天利, 程楚怡, 杨涔, 张晗, 王虹玲. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
+>赵爱林, 王晟嫣, 许彦斌, 汤芳, 孙秋洁, 曾鸣. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>Cornforth D., Hunt M. Low-oxygen packaging of fresh meat with carbon monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>Frisch N. K., Ahmed Y., Sethi S., Neill D., Kalinicheva T., Shidham V. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>Laury A. M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
+>Wang Y. Y., Tian G., Mao K., Chitrakar B., Wang Z., Liu J., Bai X., Sang Y., Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+
+## [435yzu-thesis.csl]
+
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[扬州大学硕博论文]样式，<br>
+[comparative-economic-and-social-systems.csl]基础上修改。<br>
+硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
+专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
+专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
+对于英文文献中的中文作者姓名，如需呈现出Yueyao Wang形式，使用茉莉花插件的合并姓名。<br>
+
+显示效果：
+
+> <sup>[1-12]<sup>
+
+>[1]	刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
+>[2]	Yueyao Wang, Guifang Tian, Kemin Mao, et al. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
+>[3]	田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
+>[4]	AM Laury. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork sausage[D]. Iowa State: Iowa State University, 2006.<br>
+>[5]	D Cornforth, M Hunt. Low-oxygen packaging of fresh meat with carbon monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
+>[6]	孙天利, 程楚怡, 杨涔等. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
+>[7]	赵爱林, 王晟嫣, 许彦斌等. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
+>[8]	W Nae. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
+>[9]	NK Frisch, Y Ahmed, S Sethi, et al. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® specimens[J]. CytoJournal, 2015, 12: 23.<br>
+>[10]	仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
+>[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
+>[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
 
 ## LICENSE
 
