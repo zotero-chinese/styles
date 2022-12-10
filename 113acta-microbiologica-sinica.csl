@@ -6,20 +6,9 @@
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric-aulower-bilan" rel="self"/>
     <link href="https://actamicro.ijournals.cn/actamicrocn/site/menus/20130129090332001?id=20070609220743001" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
-      <name>Raymond</name>
-    </contributor>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
-    <contributor>
       <name>洋芋</name>
       <email>chivele.lee@gmail.com</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。</summary>

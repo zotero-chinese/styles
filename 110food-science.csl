@@ -7,13 +7,9 @@
         <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
         <link href="https://www.spkx.net.cn/journalx_spkx/basicinfo/viewHtmlFile.action?id=23" rel="documentation"/>
         <author>
-            <name>牛耕田</name>
-            <email>buffalo_d@163.com</email>
+            <name>韩小土</name>
+            <email>redleafnew@163.com</email>
         </author>
-        <contributor>
-            <name>Zeping Lee</name>
-            <email>zepinglee@gmail.com</email>
-        </contributor>
         <category citation-format="numeric"/>
         <category field="generic-base"/>
         <summary>食品科学样式，除标准借用bill，书籍显示页码，其他与000gb-t-7714-2015-numeric-bilingual.csl相同。</summary>

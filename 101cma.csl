@@ -7,13 +7,9 @@
     <link href="http://www.zotero.org/styles/cma" rel="self"/>
     <link href="https://cmaes.medline.org.cn/Login/tgxz.aspx" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>CMAES style</summary>

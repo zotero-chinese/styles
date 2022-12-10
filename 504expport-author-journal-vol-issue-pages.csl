@@ -8,13 +8,9 @@
     <link href="http://www.zotero.org/styles/expport-author-journal-vol-issue-pages" rel="self"/>
     <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>

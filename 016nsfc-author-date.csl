@@ -8,17 +8,9 @@
         <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
         <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
         <author>
-            <name>牛耕田</name>
-            <email>buffalo_d@163.com</email>
-        </author>
-        <contributor>
             <name>韩小土</name>
             <email>redleafnew@163.com</email>
-        </contributor>
-        <contributor>
-            <name>Zeping Lee</name>
-            <email>zepinglee@gmail.com</email>
-        </contributor>
+        </author>
         <category citation-format="author-date"/>
         <category field="generic-base"/>
         <summary>1. 显示全部作者，姓名取消全大写；2.期刊名称加粗 ；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
