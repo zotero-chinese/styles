@@ -1333,10 +1333,32 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment. Nature, 359(6396): 605-609. DOI: 10.1038/359605a0.<br>
 > ```
 
+
+## [425syau-thesis.csl]
+
+[沈阳农业大学](https://grs.syau.edu.cn/info/1173/5583.htm)硕博论文样式，[403hzau-thesis.csl]基础上修改，中文两个作者之间为`与`，英文为`and`，作者首字母大写，参考文献表显示全部作者。
+
+显示效果：
+
+> ```
+>（Andrews and Alichanidis, 1990）
+>（周棋与胡琴, 2021）
+>（王雷等, 2021）
+>（Dong et al, 2022）
+>（Ahmad, 2022）
+
+>1. Andrews A, Alichanidis E. The plastein reaction revisited: Evidence for a purely aggregation reaction mechanism. Food Chemistry. 1990, 35(4): 243–261.
+>2. Ahmad M. Genomics and transcriptomics to protect rice (Oryza sativa. L.) from abiotic stressors: -pathways to achieving zero hunger. Front. Plant Sci.. 2022, 13: 1002596.
+>3. Dong Q, Wallrad L, Almutairi BO, Kudla J. Ca2+ signaling in plant responses to abiotic stresses. Journal of Integrative Plant Biology. 2022, 64(2): 287–300. .
+>4. 周棋, 胡琴. 水稻CNGCs家族的鉴定及非生物胁迫诱导表达模式分析. 分子植物育种. 2021: 1–16.
+>5. 王雷, 郭岩, 杨淑华. 非生物胁迫与环境适应性育种的现状及对策. 中国科学:生命科学. 2021, 51(10): 1424–1434.
+> ```
+
+
 ## [426bfu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[北京林业大学硕博论文]样式，<br>
-[comparative-economic-and-social-systems.csl]基础上修改。中文文献排在前面，英文文献排在后面，<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[北京林业大学硕博论文](http://graduate.bjfu.edu.cn/xwgl/xwlw/349457.html)样式，<br>
+[201comparative-economic-and-social-systems.csl]基础上修改。中文文献排在前面，英文文献排在后面，<br>
 并按第一作者的姓氏首字母排序。**注意**：如果中文两个作者的`和`前面有逗号(`, `)，`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
@@ -1365,7 +1387,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [427uestc-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[电子科技大学硕博论文]样式，[jnu-thesis.csl]基础上修改。
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[电子科技大学硕博论文](https://gr.uestc.edu.cn/xiazai/114/3917/)样式，[404jnu-thesis.csl]基础上修改。
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
@@ -1389,7 +1411,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [428fafu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[福建农林大学硕博论文]样式，[jnu-thesis.csl]基础上修改。
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[福建农林大学硕博论文](https://yjsy.fafu.edu.cn/fa/05/c8301a195077/page.htm)样式，[404jnu-thesis.csl]基础上修改。
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
@@ -1413,8 +1435,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [429gzu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[贵州大学硕博论文]样式，<br>
-[comparative-economic-and-social-systems.csl]基础上修改。参考文献表按照引用顺序编码并排序<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[贵州大学硕博论文](http://gs.gzu.edu.cn/2021/0518/c11830a151778/page.htm)样式，<br>
+[201comparative-economic-and-social-systems.csl]基础上修改。参考文献表按照引用顺序编码并排序<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
@@ -1443,7 +1465,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [430hnu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[海南大学硕博论文]样式，[jnu-thesis.csl]基础上修改。<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[海南大学硕博论文](https://www.doc88.com/p-1813465766850.html)样式，[404jnu-thesis.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
@@ -1473,7 +1495,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [431hhu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[河海大学硕博论文]样式，<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[河海大学硕博论文](https://gs.hhu.edu.cn/_upload/article/files/30/7d/e5eafe3b4ef28e40f4569d9f928b/8ce9b41e-9c28-44e4-81a5-fff20722ab93.pdf)样式，<br>
 [china-national-standard-gb-t-7714-2015-numeric.csl]基础上修改。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
@@ -1498,8 +1520,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [432ecnu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[华东师范大学硕博论文]样式，<br>
-[jnu-thesis.csl]基础上修改。英文文献排在前面，中文文献排在后面，<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[华东师范大学硕博论文](http://phy.ecnu.edu.cn/c2/3f/c24394a246335/page.htm)样式，<br>
+[404jnu-thesis.csl]基础上修改。英文文献排在前面，中文文献排在后面，<br>
 并按第一作者的姓氏首字母排序。文献条目语言字段：中文文献设为zh-CN，英文文献设为en-US。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并操作，如果合并过请拆分(可以使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
@@ -1528,7 +1550,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [433jufe-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学硕博论文]样式，[jnu-thesis.csl]基础上修改。<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学硕博论文](http://grs.jxufe.edu.cn/news-show-3761.html)样式，[jnu-thesis.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
 请确认条目的作者是是否经过合并，合并过请拆分(使用茉莉花插件<https://github.com/l0o0/jasminum>)。<br>
@@ -1558,7 +1580,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [434sdau-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[山东农业大学硕博论文]样式，<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[山东农业大学硕博论文](http://yjsc.sdau.edu.cn/info/46/117.htm)样式，<br>
 [comparative-economic-and-social-systems.csl]基础上修改。引文的*et al*为斜体。<br>
 中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：如果中文两个作者的`和`前面有逗号(`, `)，如显示为`（仇国贤, 和钱颖, 2021）`，<br>
@@ -1589,8 +1611,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [435yzu-thesis.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[扬州大学硕博论文]样式，<br>
-[comparative-economic-and-social-systems.csl]基础上修改。<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[扬州大学硕博论文](http://yjsc.yzu.edu.cn/info/1043/2151.htm)样式，<br>
+[201comparative-economic-and-social-systems.csl]基础上修改。<br>
 硕博论文、报告、专利的地点补充到【地点/Place】字段，如[11]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[8]中的页码为520。<br>
 专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如[12]中的页码为220-226。<br>
@@ -1886,3 +1908,14 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [420beihang-thesis.csl]: 420beihang-thesis.csl
 [421hebau-thesis.csl]: 421hebau-thesis.csl
 [422caas-thesis.csl]: 422caas-thesis.csl
+[425syau-thesis.csl]:425syau-thesis.csl
+[426bfu-thesis.csl]:426bfu-thesis.csl
+[427uestc-thesis.csl]:427uestc-thesis.csl
+[428fafu-thesis.csl]:428fafu-thesis.csl
+[429gzu-thesis.csl]:429gzu-thesis.csl
+[430hnu-thesis.csl]:430hnu-thesis.csl
+[431hhu-thesis.csl]:431hhu-thesis.csl
+[432ecnu-thesis.csl]:432ecnu-thesis.csl
+[433jufe-thesis.csl]:433jufe-thesis.csl
+[434sdau-thesis.csl]:434sdau-thesis.csl
+[435yzu-thesis.csl]:435yzu-thesis.csl
