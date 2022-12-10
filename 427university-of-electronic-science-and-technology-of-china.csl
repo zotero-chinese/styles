@@ -20,8 +20,8 @@
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="page-range-delimiter">-</term>
       <term name="page" form="short">
-        <term name="page-range-delimiter">-</term>
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
