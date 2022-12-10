@@ -418,7 +418,7 @@
   <bibliography entry-spacing="0" second-field-align="flush" hanging-indent="true">
     <sort>
       <key macro="author"/>
-      <key macro="issued-year"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout suffix="." locale="en">
       <text macro="bib-full-en"/>

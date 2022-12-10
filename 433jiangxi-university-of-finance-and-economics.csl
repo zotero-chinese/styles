@@ -500,7 +500,7 @@
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" line-spacing="1.25" second-field-align="flush">
     <sort>
       <key macro="author"/>
-      <key macro="issued-year"/>
+      <key macro="issue-date-year"/>
     </sort>
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
