@@ -21,7 +21,7 @@
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
       <term name="page" form="short">
-      <term name="page-range-delimiter">-</term>
+        <term name="page-range-delimiter">-</term>
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
@@ -227,12 +227,12 @@
       <else-if type="book">
         <group prefix=". ">
           <group delimiter="">
-           <text variable="book-title"/>
-           <text variable="edition" suffix=". "/>
-           <text variable="publisher-place" suffix=": "/>
-           <text variable="publisher" suffix=", "/>
-           <text macro="issue-date-year"/>
-          <text variable="archive_location" prefix=": "/>
+            <text variable="book-title"/>
+            <text variable="edition" suffix=". "/>
+            <text variable="publisher-place" suffix=": "/>
+            <text variable="publisher" suffix=", "/>
+            <text macro="issue-date-year"/>
+            <text variable="archive_location" prefix=": "/>
           </group>
         </group>
       </else-if>
@@ -350,12 +350,12 @@
       <else-if type="book">
         <group prefix=". ">
           <group delimiter="">
-           <text variable="book-title"/>
-           <text variable="edition" suffix=". "/>
-           <text variable="publisher-place" suffix=": "/>
-           <text variable="publisher" suffix=", "/>
-           <text macro="issue-date-year"/>
-          <text variable="archive_location" prefix=": "/>
+            <text variable="book-title"/>
+            <text variable="edition" suffix=". "/>
+            <text variable="publisher-place" suffix=": "/>
+            <text variable="publisher" suffix=", "/>
+            <text macro="issue-date-year"/>
+            <text variable="archive_location" prefix=": "/>
           </group>
         </group>
       </else-if>
@@ -380,7 +380,7 @@
           </group>
         </group>
       </else-if>
-     <!-- 英文专著析出的文献 -->
+      <!-- 英文专著析出的文献 -->
       <else-if type="chapter">
         <text variable="chapter-title"/>
         <text value=". "/>

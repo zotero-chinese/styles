@@ -54,8 +54,7 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false" initialize-with=".">
-            <group delimiter="">
-              </group>
+            <group delimiter=""></group>
           </name>
         </names>
       </if>
@@ -79,8 +78,7 @@
   <macro name="container-author-en">
     <names variable="container-author reviewed-author">
       <name initialize="false">
-        <group delimiter="">
-              </group>
+        <group delimiter=""></group>
       </name>
       <!-- <label form="verb-short" prefix=", "/> -->
     </names>
@@ -226,7 +224,7 @@
     <text variable="title" text-case="title" prefix="《" suffix="》"/>
   </macro>
   <!-- 英文引用格式 -->
-  <macro name='full-contents-en'>
+  <macro name="full-contents-en">
     <text macro="author-en" suffix="："/>
     <text macro="title-en" font-style="italic"/>
     <choose>
@@ -322,7 +320,7 @@
           </group> -->
   </macro>
   <!-- 中文引用格式 -->
-  <macro name='full-contents-cn'>
+  <macro name="full-contents-cn">
     <text macro="author"/>
     <text macro="title"/>
     <choose>

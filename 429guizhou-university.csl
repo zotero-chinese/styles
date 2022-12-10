@@ -16,7 +16,7 @@
     <summary>comparative economic and social systems author-date style</summary>
     <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    </info>
+  </info>
   <locale xml:lang="zh-CN">
     <terms>
       <term name="anonymous">佚名</term>
@@ -113,8 +113,8 @@
       <label form="short" prefix=", "/>
     </names>
   </macro>
- <!-- 出版年 -->
-   <macro name="issued-date">
+  <!-- 出版年 -->
+  <macro name="issued-date">
     <choose>
       <if variable="issued">
         <date variable="issued" delimiter="-">
@@ -163,9 +163,9 @@
     <group delimiter=", ">
       <text macro="issue-date-year"/>
       <text variable="volume"/>
-      </group>
-      <text variable="issue" prefix="(" suffix=")"/>
-      <text variable="page" prefix=": "/>
+    </group>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="title">
     <text variable="title"/>
@@ -200,7 +200,7 @@
         <group>
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title"  prefix="[J]. " />
+              <text variable="container-title" text-case="title" prefix="[J]. "/>
               <text macro="serial-information" prefix=", "/>
             </if>
             <else>
@@ -296,7 +296,7 @@
             <text variable="container-title" suffix=". "/>
           </if>
           <else>
-             <text value=". "/>
+            <text value=". "/>
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
@@ -307,7 +307,7 @@
         <group>
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title"  prefix="[J]. "/>
+              <text variable="container-title" text-case="title" prefix="[J]. "/>
               <text macro="serial-information-zh" prefix=", "/>
             </if>
             <else>
@@ -331,7 +331,7 @@
         <text value="//" prefix="[C]"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
-        <text variable="publisher" />
+        <text variable="publisher"/>
         <text macro="issue-date-year" prefix=", "/>
         <text variable="page" prefix=": "/>
       </else-if>

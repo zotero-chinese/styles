@@ -1,0 +1,7 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "xml.format.enforceQuoteStyle": "preferred",
+    "xml.format.spaceBeforeEmptyCloseTag": false
+}
