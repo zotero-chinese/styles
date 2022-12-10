@@ -562,7 +562,7 @@
         </group>
     </macro>
     <!-- 翻译的参考文献表格式 -->
-    <macro name="entry-layout-zh" suffix=".">
+    <macro name="entry-layout-zh">
         <choose>
             <if type="article-journal article-magazine article-newspaper" match="any">
                 <text macro="article-in-periodical-layout-zh"/>

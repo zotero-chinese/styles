@@ -248,7 +248,7 @@
   <macro name="container-title-en">
     <text variable="container-title" font-style="normal"/>
   </macro>
-  <macro name="bib-full" suffix=".">
+  <macro name="bib-full">
     <text macro="author" suffix="."/>
     <text macro="title" text-case="capitalize-first"/>
     <choose>
@@ -292,7 +292,7 @@
     </choose>
     <text/>
   </macro>
-  <macro name="bib-full-zh" suffix=".">
+  <macro name="bib-full-zh">
     <text macro="author-zh" suffix="."/>
     <text macro="title-zh"/>
     <choose>

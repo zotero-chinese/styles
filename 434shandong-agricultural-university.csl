@@ -178,7 +178,7 @@
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <!-- 英文文末显示设置 -->
-  <macro name="bib-full-en" suffix=".">
+  <macro name="bib-full-en">
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>

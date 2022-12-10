@@ -185,7 +185,7 @@
   <macro name="title-zh">
     <text variable="title" prefix="《" suffix="》"/>
   </macro>
-  <macro name="bib-full-en" suffix=".">
+  <macro name="bib-full-en">
     <text macro="author" suffix=". "/>
     <text macro="issue-date-year" suffix=". "/>
     <text macro="title"/>
@@ -235,7 +235,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="bib-full" suffix="。">
+  <macro name="bib-full">
     <text macro="author-zh" suffix="，"/>
     <text macro="issue-date-year"/>
     <text macro="title-zh" prefix="，"/>
