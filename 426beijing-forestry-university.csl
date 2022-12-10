@@ -421,11 +421,9 @@
       <key macro="issued-year"/>
     </sort>
     <layout suffix="." locale="en">
-      <text variable="" prefix="" suffix=""/>
       <text macro="bib-full-en"/>
     </layout>
     <layout suffix=".">
-      <text variable="" prefix="" suffix=""/>
       <text macro="bib-full"/>
     </layout>
   </bibliography>

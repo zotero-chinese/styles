@@ -344,11 +344,9 @@
       <key macro="author-intext-long" sort="ascending"/>
     </sort>
     <layout locale="en-US" suffix=".">
-      <text variable="" prefix="" suffix=""/>
       <text macro="bib-entry-en"/>
     </layout>
     <layout suffix=".">
-      <text variable="" prefix="" suffix=""/>
       <text macro="bib-entry-zh"/>
     </layout>
   </bibliography>
