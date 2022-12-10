@@ -316,7 +316,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="normal" suffix=", "/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -439,7 +439,7 @@
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title" font-style="normal"/>
-              <text macro="serial-information" prefix=""/>
+              <text macro="serial-information"/>
               <choose>
                 <if variable="volume issue" match='none'>
                   <!-- 如果没有卷和期，认为是网络首发，显示访问日期是 -->
@@ -455,8 +455,8 @@
               </choose>
             </if>
             <else>
-              <text variable="container-title" text-case="title" font-style="normal" suffix=""/>
-              <text macro="serial-information" suffix=""/>
+              <text variable="container-title" text-case="title" font-style="normal"/>
+              <text macro="serial-information"/>
               <text macro="publishing"/>
             </else>
           </choose>

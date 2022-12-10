@@ -124,7 +124,7 @@
         </date>
       </if>
       <else>
-        <text term="no date" prefix="" suffix=""/>
+        <text term="no date"/>
       </else>
     </choose>
   </macro>
@@ -134,7 +134,7 @@
         <date variable="issued" date-parts="year" form="numeric"/>
       </if>
       <else>
-        <text term="no date" prefix="" suffix=""/>
+        <text term="no date"/>
       </else>
     </choose>
   </macro>
@@ -153,7 +153,7 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <text macro="issue-date-year" suffix=""/>
+      <text macro="issue-date-year"/>
       <text variable="volume"/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
@@ -161,18 +161,18 @@
   </macro>
   <macro name="serial-information-zh">
     <group delimiter=", ">
-      <text macro="issue-date-year" suffix=""/>
+      <text macro="issue-date-year"/>
       <text variable="volume"/>
       </group>
       <text variable="issue" prefix="(" suffix=")"/>
       <text variable="page" prefix=": "/>
   </macro>
   <macro name="title">
-    <text variable="title" prefix="" suffix=""/>
+    <text variable="title"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="title-zh">
-    <text variable="title" prefix="" suffix=""/>
+    <text variable="title"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <!-- 英文文末显示设置 -->
@@ -197,7 +197,7 @@
         <text macro="issue-date-year" prefix=", "/>
       </if>
       <else-if type="article-journal article-magazine" match="any">
-        <group prefix="">
+        <group>
           <choose>
             <if variable="container-title">
               <text variable="container-title" text-case="title"  prefix="[J]. " />
@@ -304,10 +304,10 @@
         <text macro="issue-date-year" prefix=", "/>
       </if>
       <else-if type="article-journal article-magazine" match="any">
-        <group prefix="">
+        <group>
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title"  prefix="[J]. " suffix=""/>
+              <text variable="container-title" text-case="title"  prefix="[J]. "/>
               <text macro="serial-information-zh" prefix=", "/>
             </if>
             <else>
