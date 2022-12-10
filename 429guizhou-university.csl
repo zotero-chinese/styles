@@ -212,7 +212,7 @@
       </else-if>
       <!-- 英文硕博论文 -->
       <else-if type="thesis">
-        <text variable="thesis-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[D]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
@@ -220,7 +220,7 @@
       </else-if>
       <!-- 英文会议集析出的会议论文 -->
       <else-if type="paper-conference">
-        <text variable="paper-conference-title"/>
+        <text variable="title"/>
         <text value="//" prefix="[C]"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
@@ -230,7 +230,7 @@
       </else-if>
       <!-- 英文专著 -->
       <else-if type="monograph">
-        <text variable="monograph-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
@@ -238,7 +238,7 @@
       </else-if>
       <!-- 英文书籍 -->
       <else-if type="book">
-        <text variable="book-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
@@ -246,14 +246,14 @@
       </else-if>
       <!-- 英文报告 -->
       <else-if type="report">
-        <text variable="report-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[R]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
       </else-if>
       <!-- 英文专著析出的文献 -->
       <else-if type="chapter">
-        <text variable="chapter-title"/>
+        <text variable="title"/>
         <text value="//" prefix="[M]"/>
         <text variable="container-title"/>
         <text variable="publisher-place" prefix=". " suffix=": "/>
@@ -263,13 +263,13 @@
       </else-if>
       <!-- 英文专利 -->
       <else-if type="patent">
-        <text variable="patent-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix=": "/>
         <text macro="issued-date" prefix="[P]. "/>
       </else-if>
       <!-- 英文报纸 -->
       <else-if type="article-newspaper">
-        <text variable="article-newspaper-title"/>
+        <text variable="title"/>
         <text variable="publisher" prefix="[N]. " suffix=", "/>
         <text macro="issued-date"/>
         <text variable="page" prefix="(" suffix=")"/>
@@ -319,7 +319,7 @@
       </else-if>
       <!-- 中文硕博论文 -->
       <else-if type="thesis">
-        <text variable="thesis-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[D]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
@@ -327,7 +327,7 @@
       </else-if>
       <!-- 中文会议集析出的会议论文 -->
       <else-if type="paper-conference">
-        <text variable="paper-conference-title"/>
+        <text variable="title"/>
         <text value="//" prefix="[C]"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
@@ -337,7 +337,7 @@
       </else-if>
       <!-- 中文专著 -->
       <else-if type="monograph">
-        <text variable="monograph-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
@@ -345,7 +345,7 @@
       </else-if>
       <!-- 中文书籍 -->
       <else-if type="book">
-        <text variable="book-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
@@ -353,14 +353,14 @@
       </else-if>
       <!-- 中文报告 -->
       <else-if type="report">
-        <text variable="report-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix="[R]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text macro="issue-date-year"/>
       </else-if>
       <!-- 中文专著析出的文献 -->
       <else-if type="chapter">
-        <text variable="chapter-title"/>
+        <text variable="title"/>
         <text value="//" prefix="[M]"/>
         <text variable="container-title"/>
         <text variable="publisher-place" prefix=". " suffix=": "/>
@@ -370,13 +370,13 @@
       </else-if>
       <!-- 中文专利 -->
       <else-if type="patent">
-        <text variable="patent-title"/>
+        <text variable="title"/>
         <text variable="publisher-place" prefix=": "/>
         <text macro="issued-date" prefix="[P]. "/>
       </else-if>
       <!-- 中文报纸 -->
       <else-if type="article-newspaper">
-        <text variable="article-newspaper-title"/>
+        <text variable="title"/>
         <text variable="publisher" prefix="[N]. " suffix=", "/>
         <text macro="issued-date"/>
         <text variable="page" prefix="(" suffix=")"/>
