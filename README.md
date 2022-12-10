@@ -1333,6 +1333,13 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment. Nature, 359(6396): 605-609. DOI: 10.1038/359605a0.<br>
 > ```
 
+## [423nbu-thesis]
+
+[宁波大学](http://graduate.nbu.edu.cn/info/1049/15542.htm)硕博论文样式。
+
+## [424hrbust-thesis.csl]
+
+[哈尔滨理工大学](http://graduate.hrbust.edu.cn/info/1245/5420.htm)硕博论文样式，**未经完整测试**。
 
 ## [425syau-thesis.csl]
 
@@ -1908,6 +1915,8 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [420beihang-thesis.csl]: 420beihang-thesis.csl
 [421hebau-thesis.csl]: 421hebau-thesis.csl
 [422caas-thesis.csl]: 422caas-thesis.csl
+[423nbu-thesis]:423nbu-thesis
+[424hrbust-thesis.csl]:424hrbust-thesis.csl
 [425syau-thesis.csl]:425syau-thesis.csl
 [426bfu-thesis.csl]:426bfu-thesis.csl
 [427uestc-thesis.csl]:427uestc-thesis.csl
