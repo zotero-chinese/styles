@@ -57,7 +57,7 @@ email 前后加 __
 或[`Zotero` 修改版终于可以原生支持同时生成 `et al` 和`等`了](https://zhuanlan.zhihu.com/p/314928204)。
 
 批量修改语言：可以使用 delitemwithatt 插件，到 <https://github.com/redleafnew/delitemwithatt> 下载插件并安装,
-选择需要修改的条目后，右击，选择“将语言字段设为 en”即可。其他方法参见 <https://zhuanlan.zhihu.com/p/341989158>。
+选择需要修改的条目后，右击，选择`自动设置语言字段`或`Set Language Field Automatically`即可。其他方法参见 <https://zhuanlan.zhihu.com/p/341989158>。
 
 `Github` 文件的下载方法也可见 <https://jingyan.baidu.com/article/b87fe19eca972b1219356872.html>。
 
