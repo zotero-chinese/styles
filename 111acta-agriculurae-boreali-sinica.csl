@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
     <info>
         <title>华北农学报</title>
         <id>http://www.zotero.org/styles/acta-agriculurae-boreali-sinica</id>
         <link href="http://www.zotero.org/styles/acta-agriculurae-boreali-sinica" rel="self"/>
         <link href="http://www.hbnxb.net/CN/column/column7.shtml#" rel="documentation"/>
         <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
-         <author>
+        <author>
             <name>韩小土</name>
             <email>redleafnew@163.com</email>
         </author>

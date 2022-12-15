@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
     <title>西南大学</title>
     <title-short>SWU</title-short>
@@ -64,7 +64,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" delimiter=" " and="symbol" et-al-min="3"/>
+          <name form="short" and="symbol"/>
         </names>
       </if>
       <else>
@@ -76,7 +76,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter="" and="text" et-al-min="3"/>
+          <name and="text"/>
         </names>
       </if>
       <else>
@@ -267,7 +267,7 @@
       <text variable="DOI" prefix="DOI:"/>
     </group> -->
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
       <key macro="issue-date-year"/>
