@@ -3,9 +3,13 @@
         "editor.tabSize": 2
     },
     "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "xml.format.emptyElements": "collapse",
     "xml.format.enforceQuoteStyle": "preferred",
-    "xml.format.spaceBeforeEmptyCloseTag": false
+    "xml.format.maxLineWidth": 0,
+    "xml.format.spaceBeforeEmptyCloseTag": false,
+    "xml.preferences.quoteStyle": "double"
 }
