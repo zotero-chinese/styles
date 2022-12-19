@@ -1231,24 +1231,6 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
 
 
-## [417wuhan-university-school-of-law.csl]
-
-武汉大学法学院学位论文样式，网友**许博**（__xubou2003@163.com__）分享， [2chinese-law-journals.csl] 基础上修改。
-
-~~存在问题：年代后面的 `]` 应该为 `)`。~~
-
-
-显示效果：
-
-> ```
-> 1
-> 2
-> ```
-
-> 〔1〕	Peter Hay, Advanced Introduction to Private International Law and Procedure (Edward Elgar Publishing 2018).<br>
-> 〔2〕	Antoinette Smith, Miriam F. Weismann, *Are You Ready for Digital Currency?*, 26 (1) Journal of Corporate Accounting & Finance 17–21 (2014).<br>
-> ```
-
 ## [418huazhong-university-of-science-and-technology.csl]
 
 [华中科技大学学位论文样式](http://gs.hust.edu.cn/info/1019/11815.htm)：作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
@@ -1547,7 +1529,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [433jiangxi-university-of-finance-and-economics.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学学位论文](http://grs.jxufe.edu.cn/news-show-3761.html)样式，[jinan-university.csl]基础上修改。<br>
+网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[江西财经大学学位论文](http://grs.jxufe.edu.cn/news-show-3761.html)样式，[404jinan-university.csl]基础上修改。<br>
 参考文献表部分按照中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：学位论文、报告、专利的地点补充到【地点/Place】字段，如[2]中的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如[11]中的页码为520。<br>
@@ -1576,7 +1558,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 ## [434shandong-agricultural-university.csl]
 
 网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[山东农业大学学位论文](http://yjsc.sdau.edu.cn/info/46/117.htm)样式，<br>
-[comparative-economic-and-social-systems.csl]基础上修改。引文的*et al*为斜体。<br>
+[201comparative-economic-and-social-systems.csl]基础上修改。引文的*et al*为斜体。<br>
 中文文献排在前面，英文文献排在后面，并按第一作者的姓氏首字母排序。<br>
 **注意**：学位论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
 专著的页码补充到【存档位置/Loc.in Archive】字段，如倒数第二篇文献的页码为520。<br>
@@ -1875,8 +1857,6 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
-
-
 [215international-economics-and-trade-research.csl]:215international-economics-and-trade-research.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
@@ -1895,7 +1875,6 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [414yunnan-university.csl]: 414yunnan-university.csl
 [415zhejiang-university.csl]:415zhejiang-university.csl
 [416zhongnan-university-of-economics-and-law.csl]: 416zhongnan-university-of-economics-and-law.csl
-[417wuhan-university-school-of-law.csl]: 417wuhan-university-school-of-law.csl
 [418huazhong-university-of-science-and-technology.csl]: 418huazhong-university-of-science-and-technology.csl
 [419beijing-normal-university.csl]: 419beijing-normal-university.csl
 [420beihang-university.csl]: 420beihang-university.csl
