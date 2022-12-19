@@ -37,7 +37,7 @@ science, social_science, sociology, theology, zoology
 
 **测试条目**
 
-加入 Zotero 群组[Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development，提供Zotero ID，赋予编辑权限后，将**期刊/学校官网的示例文献**条目录入 Zotero 并拖动到群组中，方便测试。
+加入 Zotero 群组[Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)，提供Zotero ID，赋予编辑权限后，将**期刊/学校官网的示例文献**条目录入 Zotero 并拖动到群组中，方便测试。
 
 Zotero ID:
 
