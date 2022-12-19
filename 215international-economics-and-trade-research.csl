@@ -10,13 +10,6 @@
             <name>韩小土</name>
             <email>redleafnew@163.com</email>
         </author>
-        <contributor>
-            <name>Raymond</name>
-        </contributor>
-        <contributor>
-            <name>Zeping Lee</name>
-            <email>zepinglee@gmail.com</email>
-        </contributor>
         <category citation-format="author-date"/>
         <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
         <updated>2022-11-27T22:29:00+08:00</updated>

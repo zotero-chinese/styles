@@ -2,7 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
     <title>海南大学</title>
-    <title-short>海南大学</title-short>
+    <title-short>HNU</title-short>
     <id>http://www.zotero.org/styles/hainan-university</id>
     <link href="http://www.zotero.org/styles/hainan-university" rel="self"/>
     <link href="http://www.zotero.org/styles/jinan-university" rel="template"/>

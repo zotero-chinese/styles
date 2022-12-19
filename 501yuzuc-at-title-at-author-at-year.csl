@@ -2,7 +2,6 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <info>
     <title>Yuzuc@title@author@year</title>
-    <title-short>GB/T 7714-2015</title-short>
     <id>http://www.zotero.org/styles/yuzuc-at-title-at-author-at-year</id>
     <link href="http://www.zotero.org/styles/yuzuc-at-title-at-author-at-year" rel="self"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>

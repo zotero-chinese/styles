@@ -3,7 +3,6 @@
   <!-- 根据GB-T7714-2015-numeric修改 -->
   <info>
     <title>导出作者Export Authors</title>
-    <title-short>NJAU</title-short>
     <id>http://www.zotero.org/styles/export-authors</id>
     <link href="http://www.zotero.org/styles/export-authors" rel="self"/>
     <author>

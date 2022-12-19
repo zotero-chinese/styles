@@ -3,7 +3,6 @@
   <!-- 根据GB-T7714-2015-numeric修改 -->
   <info>
     <title>导出作者期刊卷期页Export Author Journal</title>
-    <title-short>导出作者期刊卷期页</title-short>
     <id>http://www.zotero.org/styles/expport-author-journal-vol-issue-pages</id>
     <link href="http://www.zotero.org/styles/expport-author-journal-vol-issue-pages" rel="self"/>
     <author>
