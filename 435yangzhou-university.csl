@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
     <title>扬州大学</title>
     <title-short>YZU</title-short>
@@ -11,7 +11,7 @@
       <name>不秃燃的小老弟</name>
       <email>yanglun2019@126.com</email>
     </author>
-    <category citation-format="author-date"/>
+    <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>comparative economic and social systems author-date style</summary>
     <updated>2022-12-02T17:49:33+08:00</updated>
@@ -71,7 +71,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" delimiter=" " and="symbol" et-al-min="3"/>
+          <name form="short" and="symbol"/>
         </names>
       </if>
       <else>
@@ -83,7 +83,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter="" and="text" et-al-min="3"/>
+          <name and="text"/>
         </names>
       </if>
       <else>
