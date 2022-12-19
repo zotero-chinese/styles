@@ -4,7 +4,7 @@
   <info>
     <title>核农学报</title>
     <title-short>JNAS</title-short>
-    <id>http://www.zotero.org/journal-of-nuclear-agricultural-sciences</id>
+    <id>http://www.zotero.org/styles/journal-of-nuclear-agricultural-sciences</id>
     <link href="http://www.zotero.org/styles/journal-of-nuclear-agricultural-sciences" rel="self"/>
     <link href="https://www.hnxb.org.cn/CN/column/item8.shtml" rel="documentation"/>
     <author>
@@ -13,7 +13,6 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T7714-2015 numeric style</summary>
     <updated>2022-12-02T17:49:28+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

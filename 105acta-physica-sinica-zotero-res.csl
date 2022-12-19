@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>Acta Physica Sinica (物理学报)</title> <!-- Zotero仓库版 -->
-    <id>http://www.zotero.org/styles/acta-physica-sinica</id>
-    <link href="http://www.zotero.org/styles/acta-physica-sinica" rel="self"/>
+    <id>http://www.zotero.org/styles/acta-physica-sinica-zotero-res</id>
+    <link href="http://www.zotero.org/styles/acta-physica-sinica-zotero-res" rel="self"/>
     <link href="https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm" rel="documentation"/>
     <author>
       <name>韩小土</name>

@@ -2,9 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " sort-separator=" " default-locale="zh-CN">
   <!-- 半成品，需要更多的文献类型测试，有需要请提供 投稿须知无法打开 -->
   <info>
-    <title>Historical Research (note, 中文)</title>
-    <title-short>Historical Research</title-short>
-    <id>http://www.zotero.org/styles/historical-research.csl</id>
+    <title>历史研究</title>
+    <id>http://www.zotero.org/styles/historical-research</id>
     <link href="http://www.zotero.org/styles/historical-research" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="template"/>
     <link href="http://lsyj.ajcass.org/Home/List" rel="documentation"/>
@@ -15,7 +14,6 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <summary>历史研究</summary>
     <updated>2022-12-02T17:49:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

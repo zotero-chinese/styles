@@ -341,7 +341,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 
-## [101cma.csl]
+## [101chinese-medical-association.csl]
 
 中华医学会系列杂志样式。[000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
 
@@ -356,7 +356,7 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [3] 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400–405.<br>
 > [4] ELMASRY G, SUN D-W, ALLEN P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral imaging[J]. Food Res. Int., 2011, 44(9): 2624–2633. DOI:10.1016/j.foodres.2011.05.001.<br>
 
-## [102tcsae.csl]
+## [102transactions-of-the-chinese-society-of-agricultural-engineering.csl]
 
 与[014gb-t-7714-2015-numeric-auup-bilan-ce.csl] 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
 使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
@@ -688,7 +688,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 >[4]	Nunn, N. and N. Qian. 2011. “The Potato’s Contribution to Population and Urbanization: Evidence From A Historical Experiment”, *The Quarterly Journal of Economics*, 126(2): pp.593`~`650.<br>
 
 
-## [205bmj.csl]
+## [205business-management-journal.csl]
 
 [《经济管理》](http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207)样式。正文中包含（作者，年代）<sup>[数字]</sup>两种样式，文末支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致。期刊名称前需要添加出版社城市名，可以将此城市名放在 `Loc. in Archive` 字段。
 
@@ -726,7 +726,7 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 ## [207chinas-industrial-economics.csl]
 
-[《中国工业经济》](http://ciejournal.ajcass.org/Home/Index)样式。[《经济管理》](205bmj.csl)基础上修改。正文中如果出现文献作者名，有 2 个作者，用（`甲和乙，年份）`英文名用`（A and B，年份）`连接。有 3 个或者更多作者，用`（甲等，年份）`，英文名为`（A et al，年份）`表示。文末的参考文献中文在前，英文在后（需要设置文献语言，详见前面[如何使用](#如何使用)）；列出所有作者，英文最后一个作者前面加`and`。
+[《中国工业经济》](http://ciejournal.ajcass.org/Home/Index)样式。[《经济管理》](205business-management-journal.csl)基础上修改。正文中如果出现文献作者名，有 2 个作者，用（`甲和乙，年份）`英文名用`（A and B，年份）`连接。有 3 个或者更多作者，用`（甲等，年份）`，英文名为`（A et al，年份）`表示。文末的参考文献中文在前，英文在后（需要设置文献语言，详见前面[如何使用](#如何使用)）；列出所有作者，英文最后一个作者前面加`and`。
 
 
 显示效果：
@@ -1027,7 +1027,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 
 
-## [307studies-of-marxism.csl]
+## [307studies-on-marxism.csl]
 
 《[马克思主义研究](http://www.mkszyyj.net/Home/Index)》样式。
 
@@ -1852,8 +1852,8 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]: 015jm-chinese-std-gb-t-7714-2005-revised.csl
-[101cma.csl]: 101cma.csl
-[102tcsae.csl]: 102tcsae.csl
+[101chinese-medical-association.csl]: 101chinese-medical-association.csl
+[102transactions-of-the-chinese-society-of-agricultural-engineering.csl]: 102transactions-of-the-chinese-society-of-agricultural-engineering.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
 [104acta-physica-sinica.csl]:104acta-physica-sinica.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
@@ -1867,7 +1867,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
 [204financial-research-journal.csl]: 204financial-research-journal.csl
-[205bmj.csl]: 205bmj.csl
+[205business-management-journal.csl]: 205business-management-journal.csl
 [206accounting-research.csl]: 206accounting-research.csl
 [207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
 [208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
@@ -1883,7 +1883,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
 [306manual-of-legal-citation-multi-lingual-no-ibid.csl]: 306manual-of-legal-citation-multi-lingual-no-ibid.csl
-[307studies-of-marxism.csl]: 307studies-of-marxism.csl
+[307studies-on-marxism.csl]: 307studies-on-marxism.csl
 [403huazhong-agricultural-university.csl]: 403huazhong-agricultural-university.csl
 [404jinan-university.csl]: 404jinan-university.csl
 [405nanjing-agricultural-university-numeric.csl]: 405nanjing-agricultural-university-numeric.csl

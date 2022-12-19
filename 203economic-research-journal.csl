@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="first" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>Economic Research Journal</title>
-    <title-short>ERJ (author-date)</title-short>
+    <title>经济研究</title>
     <id>http://www.zotero.org/styles/economic-research-journal</id>
     <link href="http://www.zotero.org/styles/economic-research-journal" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
