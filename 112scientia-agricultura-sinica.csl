@@ -69,7 +69,6 @@
         <choose>
             <if variable="original-author">
                 <names variable="original-author">
-                    <name-part name="family"/>
                     <name initialize="true" initialize-with=" " sort-separator=",  "/>
                 </names>
             </if>
