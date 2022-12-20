@@ -67,7 +67,7 @@
         <choose>
             <if variable="author">
                 <names variable="author">
-                    <name delimiter=", " and=""/>
+                    <name delimiter=", "/>
                 </names>
             </if>
             <else>

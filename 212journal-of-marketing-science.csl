@@ -54,7 +54,7 @@
       <if variable="author">
         <names variable="author">
           <name-part name="family" text-case="uppercase"/>
-          <name and="" initialize-with=" " sort-separator=" "/>
+          <name initialize-with=" " sort-separator=" "/>
         </names>
       </if>
       <else>
@@ -67,7 +67,7 @@
     <choose>
       <if variable="original-author">
         <names variable="original-author">
-          <name and="" initialize="true" initialize-with="" sort-separator=",  " et-al-min="4" et-al-use-first="3"/>
+          <name initialize="true" initialize-with="" sort-separator=",  " et-al-min="4" et-al-use-first="3"/>
         </names>
       </if>
       <else>
@@ -81,7 +81,7 @@
       <if variable="original-author">
         <names variable="original-author">
           <name-part name="family" text-case="uppercase"/>
-          <name et-al-min="4" et-al-use-first="3" and="" initialize="true" initialize-with=" " sort-separator=",  "/>
+          <name et-al-min="4" et-al-use-first="3" initialize="true" initialize-with=" " sort-separator=",  "/>
           <et-al term="zh-et-al"/>
         </names>
       </if>

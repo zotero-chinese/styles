@@ -50,7 +50,7 @@
     <macro name="author">
         <names variable="author">
             <name>
-                <name-part name="family" text-case=""/>
+                <name-part name="family"/>
             </name>
             <substitute>
                 <names variable="composer"/>
@@ -69,8 +69,8 @@
         <choose>
             <if variable="original-author">
                 <names variable="original-author">
-                    <name-part name="family" text-case=""/>
-                    <name and="" initialize="true" initialize-with=" " sort-separator=",  "/>
+                    <name-part name="family"/>
+                    <name initialize="true" initialize-with=" " sort-separator=",  "/>
                 </names>
             </if>
             <else>

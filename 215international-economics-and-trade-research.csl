@@ -57,7 +57,7 @@
     <!-- 主要责任者 -->
     <macro name="author">
         <names variable="author">
-            <name et-al-min="4" et-al-use-first="3" and="" initialize="true" initialize-with=" " sort-separator=",  "/>
+            <name et-al-min="4" et-al-use-first="3" initialize="true" initialize-with=" " sort-separator=",  "/>
             <substitute>
                 <names variable="composer"/>
                 <names variable="illustrator"/>
@@ -99,7 +99,7 @@
     <macro name="author-intext-zh">
         <names variable="author">
             <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-            <name form="long" and="" delimiter="、" initialize="true" initialize-with=" "/>
+            <name form="long" delimiter="、" initialize="true" initialize-with=" "/>
             <et-al term="space-et-al"/>
             <substitute>
                 <names variable="composer"/>
