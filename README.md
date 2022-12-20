@@ -1634,7 +1634,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## LICENSE
 
-[GPL](https://www.gnu.org/licenses/gpl-3.0.txt)
+All styles in this repository are released under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/) license.
 
 
 ## 更多 `Zotero` 使用教程及技巧
