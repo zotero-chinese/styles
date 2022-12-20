@@ -10,6 +10,7 @@
     "xml.format.emptyElements": "collapse",
     "xml.format.enforceQuoteStyle": "preferred",
     "xml.format.maxLineWidth": 0,
+    "xml.format.preservedNewlines": 0,
     "xml.format.spaceBeforeEmptyCloseTag": false,
     "xml.preferences.quoteStyle": "double"
 }

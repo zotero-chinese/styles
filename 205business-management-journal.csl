@@ -41,9 +41,8 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" delimiter=" " and="symbol" et-al-min="3">
-            <et-al term="and others"/>
-          </name>
+          <name form="short" delimiter=" " and="symbol" et-al-min="3"/>
+          <et-al term="and others"/>
         </names>
       </if>
       <else>
