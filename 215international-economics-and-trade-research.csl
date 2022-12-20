@@ -99,7 +99,7 @@
     <macro name="author-intext-zh">
         <names variable="author">
             <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-            <name form="long"  and="" delimiter="、" initialize="true" initialize-with=" " />
+            <name form="long" and="" delimiter="、" initialize="true" initialize-with=" "/>
             <et-al term="space-et-al"/>
             <substitute>
                 <names variable="composer"/>
@@ -452,7 +452,7 @@
             </else>
         </choose>
     </macro>
-    <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" givenname-disambiguation-rule="primary-name-with-initials" disambiguate-add-names="true" disambiguate-add-year-suffix="true" collapse="year">
+    <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
         <layout prefix="（" suffix="）" delimiter="; " locale="en">
             <group delimiter=", ">
                 <text macro="author-intext-en"/>
