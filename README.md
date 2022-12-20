@@ -1610,6 +1610,28 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 >[11]	洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
 >[12]	吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
 
+
+## [436wuhan-university-undergraduate.csl]
+
+《[武汉大学本科生毕业论文（设计）](https://civ.whu.edu.cn/__local/7/65/BE/EBE513F22AD878EAE587C0D0081_14AFF292_28400.doc?e=..doc)》样式。显示效果：
+
+> <sup>[1-9]</sup>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">[1] 戴军, 袁惠新, 俞建峰. 膜技术在含油废水处理中的应用[J]. 膜科学与技术, 2002(01): 59-64.</div>
+    <div class="csl-entry">[2] 毛峡, 孙赟. 和谐图案的自动生成研究[A]. 第一届中国情感计算及智能交互学术会议论文集[C]. 北京: 中国科学院自动化研究所, 2003: 293-297.</div>
+    <div class="csl-entry">[3] 王湛. 膜分离技术基础[M]. 北京: 化学工业出版社, 2019.</div>
+    <div class="csl-entry">[4] 张志祥. 间断动力系统的随机扰动及其在守恒律方程中的应用[D]. 北京大学.</div>
+    <div class="csl-entry">[5] World Health Organization. Factors regulating the immune response : report of a WHO scientific group[R]. Geneva: WHO, 1970.</div>
+    <div class="csl-entry">[6] 河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国, 01129210.5[P]. 2001-10-24.</div>
+    <div class="csl-entry">[7] GB/T 16159—1996, 拼音正词法基本规则[S]. 北京: 中国标准出版社, 1996.</div>
+    <div class="csl-entry">[8] 毛侠. 情感工学破解“舒服”之谜[N]. 光明日报, 2004-04-17(B1).</div>
+    <div class="csl-entry">[9] 陈剑. 上博简《民之父母》“而得既塞於四海矣”句解释[EB/OL]. 简帛研究网站. <a href="https://www.bamboosilk.org/Wssf/2003/chenjian03.htm">https://www.bamboosilk.org/Wssf/2003/chenjian03.htm</a>. 2003-01-18.</div>
+  </div>
+</blockquote>
+
+
 ## LICENSE
 
 [GPL](https://www.gnu.org/licenses/gpl-3.0.txt)
@@ -1893,3 +1915,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [433jiangxi-university-of-finance-and-economics.csl]:433jiangxi-university-of-finance-and-economics.csl
 [434shandong-agricultural-university.csl]:434shandong-agricultural-university.csl
 [435yangzhou-university.csl]:435yangzhou-university.csl
+[436wuhan-university-undergraduate.csl]:436wuhan-university-undergraduate.csl
