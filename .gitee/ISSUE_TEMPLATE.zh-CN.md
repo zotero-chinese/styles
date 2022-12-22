@@ -15,7 +15,7 @@
 - 期刊/学校官网链接：
 <!-- 如：<https://journal.psych.ac.cn/xlxb/CN/0439-755X/home.shtml> 或 <https://www.tsinghua.edu.cn/index.htm> -->
 
-- 相关领域：
+- （期刊的）相关领域：
 <!-- 从以下领域中选择最接近的
 anthropology, astronomy, biology, botany, chemistry, communications,
 engineering, geography, geology, history, humanities, law, linguistics,
@@ -23,16 +23,16 @@ literature, math, medicine, philosophy, physics, political_science, psychology,
 science, social_science, sociology, theology, zoology
 -->
 
-- ISSN 号：
+- （期刊的）ISSN 号：
 <!-- 如：0439-755X -->
 
-- 参考文献格式要求的链接：
+- 参考文献格式要求的官网链接：
 <!-- 如：<https://journal.psych.ac.cn/xlxb/fileup/0439-755X/ITEM/20220223114333.pdf> -->
 
 
 **测试条目**
 
-加入 Zotero 群组[Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development，提供Zotero ID，赋予编辑权限后，将**期刊/学校官网的示例文献**条目录入 Zotero 并拖动到群组中，方便测试。
+加入 Zotero 群组 [Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)，提供Zotero ID，赋予编辑权限后，将**期刊/学校官网的示例文献**条目录入 Zotero 并拖动到群组中，方便测试。
 
 Zotero ID:
 
