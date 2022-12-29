@@ -159,7 +159,7 @@
   <macro name="publishing-zh">
     <choose>
       <if variable="publisher">
-        <group delimiter=": ">
+        <group delimiter="：">
           <text variable="publisher-place"/>
           <group delimiter="，">
             <text variable="publisher" suffix="，"/>
