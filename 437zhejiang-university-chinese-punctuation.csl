@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
-    <title>浙江大学</title>
+    <title>浙江大学-中文标点</title>
     <title-short>ZJU</title-short>
-    <id>http://www.zotero.org/styles/zhejiang-university</id>
+    <id>http://www.zotero.org/styles/zhejiang-university-chinese--punctuation</id>
     <link href="http://www.zotero.org/styles/zhejiang-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://grs.zju.edu.cn/redir.php?catalog_id=10038&amp;object_id=12782" rel="documentation"/>
@@ -161,7 +161,7 @@
       <if variable="publisher">
         <group delimiter=": ">
           <text variable="publisher-place"/>
-          <group delimiter=", ">
+          <group delimiter="，">
             <text variable="publisher" suffix="，"/>
           </group>
         </group>
@@ -171,11 +171,11 @@
     </choose>
   </macro>
   <macro name="serial-information-zh">
-    <group delimiter=", ">
-      <text variable="volume" prefix=", "/>
+    <group delimiter="，">
+      <text variable="volume" prefix="，"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-    <text variable="page" prefix=": "/>
+    <text variable="issue" prefix="（" suffix="）"/>
+    <text variable="page" prefix="："/>
   </macro>
   <macro name="type-code">
     <choose>
@@ -231,7 +231,7 @@
   </macro>
   <macro name="title-zh">
     <text variable="title" font-style="normal"/>
-    <text variable="number" prefix=": "/>
+    <text variable="number" prefix="："/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <choose>
@@ -314,7 +314,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text macro="container-title-zh" text-case="title" font-style="normal" suffix=", "/>
+              <text macro="container-title-zh" text-case="title" font-style="normal" suffix="，"/>
               <text macro="issue-date-year"/>
               <text macro="serial-information-zh"/>
             </if>
@@ -330,7 +330,7 @@
       </else-if>
       <else>
         <text macro="publishing-zh" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <text macro="issued-date" prefix="（" suffix="）"/>
       </else>
     </choose>
     <text/>
@@ -340,8 +340,8 @@
       <key macro="issue-date-year"/>
       <key macro="author-intext"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
+    <layout locale="en" prefix="（" suffix="）" delimiter="；">
+      <group delimiter="，">
         <text macro="author-intext"/>
         <text macro="issue-date-year"/>
         <group>
@@ -350,7 +350,7 @@
         </group>
       </group>
     </layout>
-    <layout delimiter="; " prefix="（" suffix="）">
+    <layout delimiter="；" prefix="（" suffix="）">
       <group delimiter="，">
         <text macro="author-intext-long"/>
         <text macro="issue-date-year"/>
