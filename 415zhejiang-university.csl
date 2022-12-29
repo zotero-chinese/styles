@@ -144,7 +144,7 @@
             <text variable="publisher" suffix=", "/>
           </group>
         </group>
-        <date date-parts="year" form="text" variable="issued" prefix=" " suffix="."/>
+        <date date-parts="year" form="text" variable="issued" prefix=" " suffix=". "/>
         <text variable="page"/>
       </if>
     </choose>
@@ -165,7 +165,7 @@
             <text variable="publisher" suffix="，"/>
           </group>
         </group>
-        <date date-parts="year" form="numeric" variable="issued" suffix="."/>
+        <date date-parts="year" form="numeric" variable="issued" suffix=". "/>
         <text variable="page"/>
       </if>
     </choose>
@@ -248,7 +248,7 @@
     <text variable="container-title" font-style="normal"/>
   </macro>
   <macro name="bib-full">
-    <text macro="author" suffix="."/>
+    <text macro="author" suffix=". "/>
     <text macro="title" text-case="capitalize-first"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report thesis" match="any">
@@ -292,7 +292,7 @@
     <text/>
   </macro>
   <macro name="bib-full-zh">
-    <text macro="author-zh" suffix="."/>
+    <text macro="author-zh" suffix=". "/>
     <text macro="title-zh"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report thesis" match="any">
@@ -366,10 +366,10 @@
       <key macro="author-intext"/>
       <key macro="issue-date-year"/>
     </sort>
-    <layout suffix="." locale="en">
+    <layout suffix=". " locale="en">
       <text macro="bib-full"/>
     </layout>
-    <layout suffix=".">
+    <layout suffix=". ">
       <text macro="bib-full-zh"/>
     </layout>
   </bibliography>
