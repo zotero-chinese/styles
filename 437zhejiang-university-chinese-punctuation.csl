@@ -292,26 +292,26 @@
     <text/>
   </macro>
   <macro name="bib-full-zh">
-    <text macro="author-zh" suffix=". "/>
+    <text macro="author-zh" suffix="."/>
     <text macro="title-zh"/>
     <choose>
       <if type="book bill chapter legislation paper-conference report thesis" match="any">
-        <text macro="editor" prefix=". "/>
+        <text macro="editor" prefix="."/>
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
-            <text macro="container-title-zh" suffix=". " text-case="title"/>
+            <text macro="container-author" suffix="."/>
+            <text macro="container-title-zh" suffix="." text-case="title"/>
           </if>
           <else>
-            <text value=". "/>
+            <text value="."/>
           </else>
         </choose>
-        <text macro="edition" suffix=". "/>
+        <text macro="edition" suffix="."/>
         <text macro="publishing-zh"/>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <group prefix=". ">
+        <group prefix=".">
           <choose>
             <if variable="container-title">
               <text macro="container-title-zh" text-case="title" font-style="normal" suffix="，"/>
@@ -319,17 +319,17 @@
               <text macro="serial-information-zh"/>
             </if>
             <else>
-              <text macro="serial-information-zh" suffix=". "/>
+              <text macro="serial-information-zh" suffix="."/>
               <text macro="publishing"/>
             </else>
           </choose>
         </group>
       </else-if>
       <else-if type="patent">
-        <text macro="issued-date" prefix=". "/>
+        <text macro="issued-date" prefix="."/>
       </else-if>
       <else>
-        <text macro="publishing-zh" prefix=". "/>
+        <text macro="publishing-zh" prefix="."/>
         <text macro="issued-date" prefix="（" suffix="）"/>
       </else>
     </choose>
@@ -369,7 +369,7 @@
     <layout suffix=". " locale="en">
       <text macro="bib-full"/>
     </layout>
-    <layout suffix=". ">
+    <layout suffix=".">
       <text macro="bib-full-zh"/>
     </layout>
   </bibliography>
