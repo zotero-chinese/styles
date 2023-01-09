@@ -3,8 +3,8 @@
   <!-- 根据GB-T7714-2015-numeric修改 -->
   <info>
     <title>导出作者期刊卷期页Export Author Journal</title>
-    <id>http://www.zotero.org/styles/expport-author-journal-vol-issue-pages</id>
-    <link href="http://www.zotero.org/styles/expport-author-journal-vol-issue-pages" rel="self"/>
+    <id>http://www.zotero.org/styles/export-author-journal-year-vol-issue-pages</id>
+    <link href="http://www.zotero.org/styles/export-author-journal-year-vol-issue-pages" rel="self"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -40,7 +40,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize="true"/>
+          <name form="short" initialize="false" et-al-min="2" et-al-use-first="1"/>
         </names>
       </if>
       <else>
