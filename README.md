@@ -1819,6 +1819,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Word 2016` 中用 `Zotero` 插入的文献是类似乱码的域代码 <https://zhuanlan.zhihu.com/p/59995967>。
 
+`Zotero`结合`Zutilo`插件快速导出条目信息到剪贴板<https://zhuanlan.zhihu.com/p/597826044>。
+
 360 安全浏览器如何安装 `Zotero` 插件 <https://zhuanlan.zhihu.com/p/59247644>。
 
 如何设置 `Zotero` 生成的参考文献格式，刷新后不变（使用Word书目样式）？<https://zhuanlan.zhihu.com/p/58969571>。
