@@ -3,14 +3,18 @@
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>导出作者等Export Author et al Year</title>
-    <id>http://www.zotero.org/styles/author-et-al-year</id>
+    <id>http://www.zotero.org/styles/export-author-et-al-year</id>
     <link href="http://www.zotero.org/styles/author-et-al-year" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </author>
+    <contributor>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
-    </author>
+    </contributor>
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
@@ -157,7 +161,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="2" et-al-use-first="1" hanging-indent="true">
+  <bibliography et-al-min="2" et-al-use-first="1">
     <sort>
       <key macro="author"/>
       <key macro="issued-year"/>
