@@ -1631,6 +1631,9 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
   </div>
 </blockquote>
 
+## 501-506
+
+主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
 
 ## LICENSE
 
