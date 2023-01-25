@@ -817,8 +817,25 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 《[心理科学进展](https://journal.psych.ac.cn/xlkxjz/CN/column/column7.shtml)》样式。
 
-该样式在 apa.csl 的基础上仅调整了姓名的格式，尚未处理中文文献在细节上的特殊要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组“
-[Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)”。
+示例：
+
+<blockquote>
+  (张三, 2008)<br>
+  (张三, 李四, 2008)<br>
+  (Mou &#38; McNamara, 2002)<br>
+  (赵一 等, 2008)<br>
+  (Mou et al., 2004)<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
+    <div class="csl-entry">张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
+    <div class="csl-entry">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
+    <div class="csl-entry">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>
+    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of Reference in Spatial Memories Acquired From Language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
+  </div>
+</blockquote>
 
 
 ## [211journal-of-plant-protection.csl]
