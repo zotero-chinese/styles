@@ -4,7 +4,7 @@
     <title>无机材料学报</title>
     <id>http://www.zotero.org/styles/journal-of-inorganic-materials</id>
     <link href="http://www.zotero.org/styles/journal-of-inorganic-materials" rel="self"/>
-    <link href="http://www.jim.org.cn/CN/column/item6.shtml" rel="documentation"/>
+    <link href="http://www.jim.org.cn/CN/column/item63.shtml" rel="documentation"/>
     <author>
       <name>Northword</name>
       <website>https://github.com/northword</website>
@@ -13,7 +13,7 @@
     <category field="generic-base"/>
     <summary>无机材料学报</summary>
     <published>2022-03-24</published>
-    <updated>2022-12-02T17:49:29+08:00</updated>
+    <updated>2023-1-26T11:34:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -45,6 +45,8 @@
             <name-part name="family" text-case="uppercase"/>
             <name-part name="given" text-case="uppercase"/>
           </name>
+          <et-al font-style="italic"/>
+          <!--期刊要求 et al 加粗-->
         </names>
       </if>
       <else>
@@ -118,8 +120,19 @@
       <text macro="issue-date-year"/>
       <text variable="volume" font-weight="bold"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")" font-weight="bold"/>
-    <text variable="page" prefix=": "/>
+    <group font-weight="bold">
+      <!--期刊要求括号加粗，font-weight 放入 text 不合要求-->
+      <text variable="issue" prefix="(" suffix=")"/>
+    </group>
+    <group>
+      <choose>
+        <if variable="page">
+          <text value=": " font-weight="bold" />
+          <text variable="page"/>
+        </if>
+        <!--期刊要求冒号加粗-->
+      </choose>
+    </group>
   </macro>
   <macro name="title">
     <text variable="title" text-case="capitalize-first"/>
@@ -129,6 +142,18 @@
     <choose>
       <if type="webpage post-weblog" match="any">
         <text variable="URL"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="DOI">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <choose>
+          <if variable="page"></if>
+          <else>
+            <text variable="DOI"  prefix="DOI: " />
+          </else>
+        </choose>
       </if>
     </choose>
   </macro>
@@ -190,7 +215,7 @@
       <text macro="accessed-date"/>
       <group delimiter=". " prefix=". ">
         <text macro="URL"/>
-        <!-- <text variable="DOI" prefix="DOI:"/> -->
+        <text macro="DOI"/>
       </group>
     </layout>
     <layout suffix=".">
@@ -238,7 +263,7 @@
       <text macro="accessed-date"/>
       <group delimiter=". " prefix=". ">
         <text macro="URL"/>
-        <!-- <text variable="DOI" prefix="DOI:"/> -->
+        <text macro="DOI"/>
       </group>
     </layout>
   </bibliography>
