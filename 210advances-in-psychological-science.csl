@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <issn>1671-3710</issn>
-    <updated>2023-01-26T21:18:00+08:00</updated>
+    <updated>2023-01-28T14:26:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -312,6 +312,10 @@
       <term name="retrieved">取</term>
       <term name="from">自</term>
       <term name="no date" form="short">无日期</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="chapter" form="short">章</term>
       <term name="page" form="short">
         <single>p.</single>
