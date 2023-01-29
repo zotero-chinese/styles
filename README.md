@@ -1271,7 +1271,7 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 > ```
 
 ## [420beihang-university.csl]
-[北京师范大学](http://graduate.buaa.edu.cn/info/1039/7831.htm)作者年代参考文献样式，
+[北京航空航天大学](http://graduate.buaa.edu.cn/info/1039/7831.htm)作者年代参考文献样式，
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]基础上修改，作者首字母大写，题目词首字母大写，结尾无点，3人以内列出全部作者，3人以上写3人加`等`（英文加`et al`））。
 
 显示效果
