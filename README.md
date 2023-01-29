@@ -430,16 +430,18 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 《无机材料学报》（<http://www.jim.org.cn/CN/column/item6.shtml>）期刊用，ISSN:1000-324X，CN:31-1363/TQ。
 
-作者`(姓前名后，名缩写，全部大写)`. 题名`(第一个单词首字母大写)`. *期刊名*`(斜体)`, 出版年, **卷(期)**`(加粗)`: 起始页—终止页。
+作者`(姓前名后，名缩写，全部大写，三人缩写，et al斜体)`. 题名`(第一个单词首字母大写)`. *期刊名*`(斜体)`, 出版年, **卷(期):**`(加粗)` 起始页—终止页。
 
 显示效果：
-> [1–4]
 
-> [1]	LI Y, TANG F, WANG D, et al. A key step for preparing highly active Mg–Co composite oxide catalysts for N2O decomposition. *Catalysis Science & Technology*, 2021, **11(11)**: 3737–3745.</br>
-> [2]	RESASCO D E, HALLER G L. A model of metal-oxide support interaction for Rh on TiO2. *Journal of Catalysis*, 1983, **82(2)**: 279–288.</br>
-> [3]	LIU H, SHEN K, ZHAO H, et al. A new strategy to improve catalytic activity for chlorinated volatile organic compounds oxidation over cobalt oxide: Introduction of strontium carbonate. *Journal of the Indian Chemical Society*, 2021, **98(8)**: 100116.</br>
-> [4]	DAMMA D, ETTIREDDY P, REDDY B, et al. A Review of Low Temperature NH3-SCR for Removal of NOx. *Catalysts*, 2019, **9(4)**: 349.
-
+> [1–5]
+>
+> [1] FANG X, QU W, QIN T, *et al.* Abatement of Nitrogen Oxides via Selective Catalytic Reduction over Ce1–W1 Atom-Pair Sites. *Environmental Science & Technology*, 2022, **56(10):** 6631–6638. </br>
+> [2] FANG X, LIU Y, CEN W, *et al.* Birnessite as a Highly Efficient Catalyst for Low-Temperature NH3-SCR: The Vital Role of Surface Oxygen Vacancies. *Industrial & Engineering Chemistry Research*, 2020, **59(33):** 14606–14615. </br>
+> [3] ZHANG J, ZHANG L, CHENG Y, *et al.* Construction of oxygen vacancies in δ-MnO2 for promoting low-temperature toluene oxidation. *Fuel*, 2023, **332:** 126104. </br>
+> [4] FENG X, GUO J, WEN X, *et al.* Enhancing performance of Co/CeO2 catalyst by Sr doping for catalytic combustion of toluene. *Applied Surface Science*, 2018, **445:** 145–153. </br>
+> [5] HU Y, ZHANG L, ZHANG J, *et al.* High catalytic performance of neodymium modified Co3O4 for toluene oxidation. *Journal of Rare Earths*, 2022. DOI: [10.1016/j.jre.2022.09.019](https://doi.org/10.1016/j.jre.2022.09.019). </br>
+> [6] FANG X, LIU Y, CHEN L, *et al.* Influence of surface active groups on SO2 resistance of birnessite for low-temperature NH3-SCR. *Chemical Engineering Journal*, 2020, **399:** 125798.
 
 ## [107chinese-journal-of-cardiology.csl]
 
@@ -815,8 +817,25 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 《[心理科学进展](https://journal.psych.ac.cn/xlkxjz/CN/column/column7.shtml)》样式。
 
-该样式在 apa.csl 的基础上仅调整了姓名的格式，尚未处理中文文献在细节上的特殊要求。如果需要修改请联系作者，并将期刊官方提供的全部示例文献录入 Zotero 群组“
-[Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)”。
+示例：
+
+<blockquote>
+  (张三, 2008)<br>
+  (张三, 李四, 2008)<br>
+  (Mou &#38; McNamara, 2002)<br>
+  (赵一 等, 2008)<br>
+  (Mou et al., 2004)<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
+    <div class="csl-entry">张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
+    <div class="csl-entry">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
+    <div class="csl-entry">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>
+    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of Reference in Spatial Memories Acquired From Language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
+  </div>
+</blockquote>
 
 
 ## [211journal-of-plant-protection.csl]
