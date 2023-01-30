@@ -937,6 +937,35 @@ Jiang, J, 2017. Dietary linseed oil supplemented with organic selenium improved 
 Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface color and water retention of yellow-feathered chickens[J]. Poultry Science, 99(4): 2246-2255.
 </blockquote>
 
+
+## [216acta-psychologica-sinica.csl]
+
+《[心理学报](https://journal.psych.ac.cn/xlxb)》样式。
+
+1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。
+2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。
+
+<blockquote>
+  (张三, 2008)<br>
+  (张三, 李四, 2008)<br>
+  (Mou &#38; McNamara, 2002)<br>
+  (赵一 等, 2008)<br>
+  (Mou et al., 2004)<br>
+  (现代汉语频率词典, 1986)<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body">
+    <div class="csl-entry">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>
+    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of Reference in Spatial Memories Acquired From Language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
+    <div class="csl-entry">Zhang S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. (in Chinese) [张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
+    <div class="csl-entry">Zhang S., &#38; Li S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. (in Chinese) [张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
+    <div class="csl-entry">Zhao Y., Qian S., Sun S., Li S., Zhou W., Wu L., &#38; Zheng Q. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. (in Chinese) [赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
+    <div class="csl-entry"><i>Modern Chinese Frequency Dictionary</i>. (1986). Beijing Language and Culture University Press. (in Chinese) [<i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.]</div>
+  </div>
+</blockquote>
+
+
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
 《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》（2020 年版）。
@@ -1906,6 +1935,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
 [215international-economics-and-trade-research.csl]:215international-economics-and-trade-research.csl
+[216acta-psychologica-sinica.csl]: 216acta-psychologica-sinica.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
