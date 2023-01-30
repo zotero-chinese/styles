@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " demote-non-dropping-particle="never" page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>心理学学报</title>
+    <title>心理学报</title>
     <id>http://www.zotero.org/styles/acta-psychologica-sinica</id>
     <link href="http://www.zotero.org/styles/acta-psychologica-sinica" rel="self"/>
+    <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="https://journal.psych.ac.cn/xlxb/fileup/0439-755X/ITEM/20220223114333.pdf" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
