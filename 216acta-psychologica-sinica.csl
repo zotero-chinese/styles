@@ -14,7 +14,7 @@
     <category field="psychology"/>
     <issn>0439-755X</issn>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2023-01-30T16:34:00+08:00</updated>
+    <updated>2023-01-30T22:45:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -717,7 +717,7 @@
       <choose>
         <if type="thesis">
           <!-- 《心理学报》要求学位论文类型在圆括号内，论文单位在括号外 -->
-          <text variable="genre" text-case="capitalize-first"/>
+          <text variable="original-genre" text-case="capitalize-first"/>
         </if>
         <else-if type="post webpage" match="any">
           <!-- For post webpage, container-title is treated as publisher -->
