@@ -14,7 +14,7 @@
     <category field="psychology"/>
     <issn>0439-755X</issn>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2023-01-30T22:45:00+08:00</updated>
+    <updated>2023-01-31T18:34:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -337,16 +337,8 @@
       <if variable="number">
         <group delimiter=" ">
           <text variable="genre" text-case="title"/>
-          <choose>
-            <if is-numeric="number">
-              <!-- Replace with label variable="number" if that becomes available -->
-              <text term="issue" form="short" text-case="capitalize-first"/>
-              <text variable="number"/>
-            </if>
-            <else>
-              <text variable="number"/>
-            </else>
-          </choose>
+          <text value="No."/>
+          <text variable="number"/>
         </group>
       </if>
     </choose>
@@ -834,7 +826,7 @@
               <choose>
                 <!-- 仅当 issue 是数字时输出期号，避免“增刊”这样的情况 -->
                 <if is-numeric="issue">
-              <text variable="issue" prefix="(" suffix=")"/>
+                  <text variable="issue" prefix="(" suffix=")"/>
                 </if>
               </choose>
             </group>
@@ -842,7 +834,7 @@
           <else>
             <choose>
               <if is-numeric="issue">
-            <text variable="issue" font-style="italic"/>
+                <text variable="issue" font-style="italic"/>
               </if>
             </choose>
           </else>
@@ -887,8 +879,8 @@
     <choose>
       <if type="thesis">
         <group delimiter=", ">
-          <text variable="publisher"/>
-          <text variable="publisher-place"/>
+          <text variable="original-publisher"/>
+          <text variable="original-publisher-place"/>
         </group>
       </if>
       <else-if type="article-journal article-magazine article-newspaper post-weblog" match="none">
