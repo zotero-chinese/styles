@@ -831,11 +831,20 @@
           <if variable="volume">
             <group>
               <text variable="volume" font-style="italic"/>
+              <choose>
+                <!-- 仅当 issue 是数字时输出期号，避免“增刊”这样的情况 -->
+                <if is-numeric="issue">
               <text variable="issue" prefix="(" suffix=")"/>
+                </if>
+              </choose>
             </group>
           </if>
           <else>
+            <choose>
+              <if is-numeric="issue">
             <text variable="issue" font-style="italic"/>
+              </if>
+            </choose>
           </else>
         </choose>
         <choose>
