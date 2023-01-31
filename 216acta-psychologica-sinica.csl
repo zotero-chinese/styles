@@ -14,7 +14,7 @@
     <category field="psychology"/>
     <issn>0439-755X</issn>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2023-01-31T18:34:58+08:00</updated>
+    <updated>2023-01-31T23:40:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -828,6 +828,9 @@
                 <if is-numeric="issue">
                   <text variable="issue" prefix="(" suffix=")"/>
                 </if>
+                <else>
+                  <text variable="original-issue" text-case="capitalize-first" prefix="(" suffix=")"/>
+                </else>
               </choose>
             </group>
           </if>
@@ -836,6 +839,9 @@
               <if is-numeric="issue">
                 <text variable="issue" font-style="italic"/>
               </if>
+              <else>
+                <text variable="original-issue" text-case="capitalize-first" prefix="(" suffix=")"/>
+              </else>
             </choose>
           </else>
         </choose>
@@ -1241,7 +1247,6 @@
             <text macro="bib-layout-translation"/>
           </if>
         </choose>
-        <text value="(in Chinese)"/>
         <text macro="bib-layout-zh" prefix="[" suffix="]"/>
       </group>
     </layout>
