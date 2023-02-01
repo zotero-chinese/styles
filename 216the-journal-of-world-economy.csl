@@ -43,7 +43,7 @@
   </locale>
   <macro name="author-bib-en">
     <names variable="author">
-      <name and="text" name-as-sort-order="all" delimiter-precedes-last="never"/>
+      <name and="text" name-as-sort-order="all" delimiter="; " delimiter-precedes-last="never"/>
       <label form="short" prefix=", "/>
       <substitute>
         <names variable="editor"/>
@@ -93,7 +93,8 @@
     <choose>
       <if type="article article-journal article-magazine article-newspaper chapter paper-conference manuscript report" match="any">
         <!-- <text variable="title" text-case="title" quotes="true"/> -->
-        <text variable="title" text-case="title" prefix="&quot;" suffix=".&quot;"/>
+        <!-- <text variable="title" text-case="title" prefix="&quot;" suffix=".&quot;"/> -->
+        <text variable="title" text-case="title" prefix="“" suffix=".”"/>
       </if>
       <else>
         <text variable="title" text-case="title" font-style="italic"/>
@@ -206,9 +207,11 @@
       <text macro="title-en"/>
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
-          <text macro="container-periodical-en"/>
-          <!-- <text macro="date-bib-en"/> -->
-          <text macro="page-en"/>
+          <group>
+            <text macro="container-periodical-en"/>
+            <!-- <text macro="date-bib-en"/> -->
+            <text macro="page-en" prefix=", "/>
+          </group>
         </if>
         <else-if type="article manuscript report" match="any">
           <text variable="genre"/>
@@ -222,7 +225,7 @@
           <text macro="publisher-en"/>
         </else>
       </choose>
-      <!-- </group> -->
+      <!--  -->
     </group>
   </macro>
   <macro name="bib-layout-zh">
