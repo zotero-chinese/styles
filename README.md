@@ -965,6 +965,34 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
   </div>
 </blockquote>
 
+## [217the-journal-of-world-economy.csl]
+
+《[世界经济](https://manu30.magtech.com.cn/sjjj/CN/column/column10.shtml)》样式，《[管理世界](http://www.mwm.net.cn/web/)》基础上修改。
+
+文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。
+
+显示效果：
+
+（Bartov *et al*.，2002）<br>
+（陆铭和冯皓，2014）<br>
+（Alesina *et al*.，2004）<br>
+（Ball and Brown，1968）<br>
+（Baron，1982）<br>
+（吕怀立等，2021）<br>
+（刘煜辉和沈可挺，2011）<br>
+（宋顺林，2022）<br>
+
+
+刘煜辉、沈可挺（2011）：《是一级市场抑价,还是二级市场溢价——关于我国新股高抑价的一种检验和一个解释》，《金融研究》第11期。<br>
+陆铭、冯皓（2014）：《集聚与减排:城市规模差距影响工业污染强度的经验研究》，《世界经济》第7期。<br>
+吕怀立、贾琬娇、李婉丽（2021）：《核准制保荐经历与科创板IPO定价——来自保荐代表人的经验证据》，《会计研究》第5期。<br>
+宋顺林（2022）：《中国式IPO定价：一个文献综述》，《中央财经大学学报》第1期。<br>
+Alesina, A.; Di Tella, R. and MacCulloch, R. “Inequality and Happiness: Are Europeans and Americans Different?” *Journal of Public Economics*, 2004, 88(9), pp. 2009-2042.<br>
+Ball, R. and Brown, P. “An Empirical Evaluation of Accounting Income Numbers.” *Journal of Accounting Research*, 1968, 6(2), pp. 159-178.<br>
+Baron, D. P. “A Model of the Demand for Investment Banking Advising and Distribution Services for New Issues.” *The Journal of Finance*, 1982, 37(4), pp. 955-976.<br>
+Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—An IPO Perspective.” *Journal of Accounting Research*, 2002, 40(2), pp. 321-346.<br>
+
+
 
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
@@ -1936,6 +1964,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
 [215international-economics-and-trade-research.csl]:215international-economics-and-trade-research.csl
 [216acta-psychologica-sinica.csl]: 216acta-psychologica-sinica.csl
+[217the-journal-of-world-economy.csl]: 217the-journal-of-world-economy.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
