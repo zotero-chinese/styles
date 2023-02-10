@@ -1712,6 +1712,36 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   </div>
 </blockquote>
 
+## [438xian-jiaotong-university.csl]
+
+根据《[西安交通大学硕士、博士学位论文模板-2021版](https://gs.xjtu.edu.cn/info/1209/7605.htm)》修订。
+
+显示效果：
+
+> <sup>[1-11]</sup>
+
+> [1]  刘国钧，郑如斯. 中国书的故事[M]. 北京: 中国青年出版社, 1979.
+>
+> [2]  冯西桥. 核反应堆管道和压力容器的LBB分析[R]. 北京: 核能技术设计研究院, 1997.
+>
+> [3]  张国栋. 磁流流体方程的解耦算法及保结构预处理方法[D]. 西安: 西安交通大学, 2018.
+>
+> [4]  全国信息与文献标准化技术委员会第七委员会. GB/T 5795-2002. 中国标准书号[S]. 北京: 中国标准出版社, 2002.
+>
+> [5]  钟文发. 非线性规划在可燃毒物配置中的应用[C]//赵玮. 运筹学的理论与应用: 中国运筹学会第五届大会论文集. 西安: 西安电子科技大学出版社, 1996: 468-471.
+>
+> [6]  高义民，张凤华，邢建东等. 颗粒增强不锈钢基复合材料冲蚀磨损性能研究[J]. 西安交通大学学报, 2001, 35(7): 727-730.
+>
+> [7]  Papworth A, Fox P. Ability of aluminum alloys to wet alumina fibres by addition of bismuth[J]. Mater. Sci. Technol., 1999, 15(4): 419-426.
+>
+> [8]  丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).
+>
+> [9]  姜锡洲. 一种温热外敷药制备方案: 中国, 881056078[P]. 1989-07-26.
+>
+> [10] Koseki A, Momose H, Kawahito M, et al. Compiler: US, 828402[P/OL]. 2002-05-25 [2002-05-28]. http://FF&p.
+>
+> [11] Scitor Corporation. Project scheduler[CP/DK]. Sunnyvale, Calif.: Scitor Corporation, 1983.
+  
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2006,3 +2036,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [434shandong-agricultural-university.csl]:434shandong-agricultural-university.csl
 [435yangzhou-university.csl]:435yangzhou-university.csl
 [436wuhan-university-undergraduate.csl]:436wuhan-university-undergraduate.csl
+[438xian-jiaotong-university.csl]:438xian-jiaotong-university.csl
