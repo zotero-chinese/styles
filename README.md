@@ -1741,7 +1741,20 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 > [10] Koseki A, Momose H, Kawahito M, et al. Compiler: US, 828402[P/OL]. 2002-05-25 [2002-05-28]. http://FF&p.
 >
 > [11] Scitor Corporation. Project scheduler[CP/DK]. Sunnyvale, Calif.: Scitor Corporation, 1983.
-  
+
+## [439hebei-medical-university.csl]
+
+根据《[河北医科大学研究生院引发通知 专业学位论文模板97-2003版Word](https://gschool.hebmu.edu.cn/a/2020/03/06/0774B2A85AC24B679BF1A9DA7363AA33.html)》修订。
+
+基于北航大佬的版本稍微修改了一丢丢
+
+显示效果：
+> <sup>[1-3]</sup>
+> 1. Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609
+> 2. Bellani G., Grassi A., Sosio S., et al. Driving Pressure Is Associated with Outcome during Assisted Ventilation in Acute Respiratory Distress Syndrome[J]. Anesthesiology, 2019, 131(3): 594–604
+> 3. Brochard L., Slutsky A., Pesenti A. Mechanical Ventilation to Minimize Progression of Lung Injury in Acute Respiratory Failure[J]. American Journal of Respiratory and Critical Care Medicine, 2017, 195(4): 438–442
+
+
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2037,3 +2050,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [435yangzhou-university.csl]:435yangzhou-university.csl
 [436wuhan-university-undergraduate.csl]:436wuhan-university-undergraduate.csl
 [438xian-jiaotong-university.csl]:438xian-jiaotong-university.csl
+[439hebei-medical-university.csl]:439hebei-medical-university.csl
