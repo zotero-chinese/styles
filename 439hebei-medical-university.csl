@@ -35,7 +35,7 @@
   </locale>
   <macro name="author">
     <names variable="author">
-      <name initialize-with=". " name-as-sort-order="all" sort-separator=" " delimiter=", ">
+      <name initialize-with=" " name-as-sort-order="all" sort-separator=" " delimiter=", ">
         <name-part name="family" text-case="capitalize-first"/>
       </name>
     </names>
