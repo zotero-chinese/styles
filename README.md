@@ -815,9 +815,9 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 ## [210advances-in-psychological-science.csl]
 
-《[心理科学进展](https://journal.psych.ac.cn/xlkxjz/CN/column/column7.shtml)》样式。
+《[心理科学进展](https://journal.psych.ac.cn/xlkxjz)》样式。
 
-示例：
+显示效果：
 
 <blockquote>
   (张三, 2008)<br>
@@ -825,15 +825,17 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
   (Mou &#38; McNamara, 2002)<br>
   (赵一 等, 2008)<br>
   (Mou et al., 2004)<br>
+  (现代汉语频率词典, 1986)<br>
 </blockquote>
 
 <blockquote>
   <div class="csl-bib-body">
+    <div class="csl-entry"><i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.</div>
     <div class="csl-entry">张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
     <div class="csl-entry">张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
     <div class="csl-entry">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>
     <div class="csl-entry">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>
-    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of Reference in Spatial Memories Acquired From Language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
+    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of reference in spatial memories acquired from language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
   </div>
 </blockquote>
 
@@ -945,6 +947,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。
 2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。
 
+显示效果：
+
 <blockquote>
   (张三, 2008)<br>
   (张三, 李四, 2008)<br>
@@ -957,13 +961,14 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>
-    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of Reference in Spatial Memories Acquired From Language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
-    <div class="csl-entry">Zhang S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. (in Chinese) [张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
-    <div class="csl-entry">Zhang S., &#38; Li S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. (in Chinese) [张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
-    <div class="csl-entry">Zhao Y., Qian S., Sun S., Li S., Zhou W., Wu L., &#38; Zheng Q. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. (in Chinese) [赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
-    <div class="csl-entry"><i>Modern Chinese Frequency Dictionary</i>. (1986). Beijing Language and Culture University Press. (in Chinese) [<i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.]</div>
+    <div class="csl-entry">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of reference in spatial memories acquired from language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>
+    <div class="csl-entry">Zhang S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. [张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
+    <div class="csl-entry">Zhang S., &#38; Li S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. [张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
+    <div class="csl-entry">Zhao Y., Qian E., Sun S., Li S., Zhou W., Wu L., &#38; Zheng Q. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. [赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>
+    <div class="csl-entry"><i>Modern Chinese frequency dictionary</i>. (1986). Beijing Language and Culture University Press. [<i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.]</div>
   </div>
 </blockquote>
+
 
 ## [217the-journal-of-world-economy.csl]
 
@@ -1707,6 +1712,49 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   </div>
 </blockquote>
 
+## [438xian-jiaotong-university.csl]
+
+根据《[西安交通大学硕士、博士学位论文模板-2021版](https://gs.xjtu.edu.cn/info/1209/7605.htm)》修订。
+
+显示效果：
+
+> <sup>[1-11]</sup>
+
+> [1]  刘国钧，郑如斯. 中国书的故事[M]. 北京: 中国青年出版社, 1979.
+>
+> [2]  冯西桥. 核反应堆管道和压力容器的LBB分析[R]. 北京: 核能技术设计研究院, 1997.
+>
+> [3]  张国栋. 磁流流体方程的解耦算法及保结构预处理方法[D]. 西安: 西安交通大学, 2018.
+>
+> [4]  全国信息与文献标准化技术委员会第七委员会. GB/T 5795-2002. 中国标准书号[S]. 北京: 中国标准出版社, 2002.
+>
+> [5]  钟文发. 非线性规划在可燃毒物配置中的应用[C]//赵玮. 运筹学的理论与应用: 中国运筹学会第五届大会论文集. 西安: 西安电子科技大学出版社, 1996: 468-471.
+>
+> [6]  高义民，张凤华，邢建东等. 颗粒增强不锈钢基复合材料冲蚀磨损性能研究[J]. 西安交通大学学报, 2001, 35(7): 727-730.
+>
+> [7]  Papworth A, Fox P. Ability of aluminum alloys to wet alumina fibres by addition of bismuth[J]. Mater. Sci. Technol., 1999, 15(4): 419-426.
+>
+> [8]  丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).
+>
+> [9]  姜锡洲. 一种温热外敷药制备方案: 中国, 881056078[P]. 1989-07-26.
+>
+> [10] Koseki A, Momose H, Kawahito M, et al. Compiler: US, 828402[P/OL]. 2002-05-25 [2002-05-28]. http://FF&p.
+>
+> [11] Scitor Corporation. Project scheduler[CP/DK]. Sunnyvale, Calif.: Scitor Corporation, 1983.
+
+## [439hebei-medical-university.csl]
+
+根据《[河北医科大学研究生院引发通知 专业学位论文模板97-2003版Word](https://gschool.hebmu.edu.cn/a/2020/03/06/0774B2A85AC24B679BF1A9DA7363AA33.html)》修订。
+
+基于北航大佬的版本稍微修改了一丢丢
+
+显示效果：
+> <sup>[1-3]</sup>
+> 1. Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609
+> 2. Bellani G., Grassi A., Sosio S., et al. Driving Pressure Is Associated with Outcome during Assisted Ventilation in Acute Respiratory Distress Syndrome[J]. Anesthesiology, 2019, 131(3): 594–604
+> 3. Brochard L., Slutsky A., Pesenti A. Mechanical Ventilation to Minimize Progression of Lung Injury in Acute Respiratory Failure[J]. American Journal of Respiratory and Critical Care Medicine, 2017, 195(4): 438–442
+
+
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2001,3 +2049,5 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [434shandong-agricultural-university.csl]:434shandong-agricultural-university.csl
 [435yangzhou-university.csl]:435yangzhou-university.csl
 [436wuhan-university-undergraduate.csl]:436wuhan-university-undergraduate.csl
+[438xian-jiaotong-university.csl]:438xian-jiaotong-university.csl
+[439hebei-medical-university.csl]:439hebei-medical-university.csl
