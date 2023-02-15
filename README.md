@@ -39,7 +39,9 @@ email 前后加 __
 
 ## 如何使用
 
-**注意**：如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en-US`。
+**注意**：本仓库中的 CSL 样式在安装时会出现警告“‘`xxx.csl`’ 不是一个有效的 CSL 1.0.2 样式文件，你可能不能和 Zotero 一起正常工作”。这是因为该样式使用了 [`citeproc-js`](https://github.com/Juris-M/citeproc-js) 提供的 [CSL-M](https://citeproc-js.readthedocs.io/en/latest/csl-m/index.html) 扩展功能，属于正常现象。用户直接忽略即可。
+
+如果使用了支持中文作者超过 `3` 个为`等`，英文为 `et al` 的 `csl`，但显示不正常需要在 `Zotero` 或 `JurisM` 中将英文文献 `Info` 中 `language` 字段修改为 `en-US`。
 
 **将英文文献 `Info` 中 `language` 字段修改为 `en-US`。将英文文献 `Info` 中 `language` 字段修改为 `en-US`。将英文文献 `Info` 中 `language` 字段修改为 `en-US`。**
 
