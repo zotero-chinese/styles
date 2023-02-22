@@ -92,7 +92,7 @@
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext-en">
     <names variable="author">
-      <name form="short"/>
+      <name form="short" and="text" et-al-min="3" et-al-use-first="1"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -110,7 +110,7 @@
   <macro name="author-intext-zh">
     <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long"/>
+      <name and="text" et-al-min="3" et-al-use-first="1" form="long"/>
       <et-al term="space-et-al"/>
       <substitute>
         <names variable="composer"/>
@@ -471,7 +471,7 @@
       </else>
     </choose>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+  <citation et-al-min="3" et-al-use-first="2" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>
