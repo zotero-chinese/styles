@@ -92,7 +92,7 @@
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext-en">
     <names variable="author">
-      <name form="short" and="text" et-al-min="3" et-al-use-first="1"/>
+      <name form="short" and="symbol" et-al-min="3" et-al-use-first="1"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
