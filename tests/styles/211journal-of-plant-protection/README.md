@@ -1,0 +1,34 @@
+# 211journal-of-plant-protection.csl 示例
+
+<!-- 此文件由脚本自动生成，请勿手动修改！ -->
+
+## 引注
+
+（Altieri &#38; Nicholls，2004）<br>
+（Biesmeijer et al.，2006）<br>
+（Garnsey et al.，1993）<br>
+（McDonald &#38; Nicol，2005）<br>
+（钦俊德，1987）<br>
+（孙玉凤等，2011）<br>
+（Tautz et al.，2002）<br>
+（吴孔明和郭予元，2000）<br>
+（叶恭银等，1998）<br>
+（曾士迈等，1979）<br>
+（张徐波，2013）<br>
+（曾士迈等，1979；吴孔明和郭予元，2000）<br>
+
+## 参考文献表
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">Altieri MA, Nicholls CI. 2004. Biodiversity and pest management in agroecosystems (2nd edition). New York: Food Products Press</div>
+  <div class="csl-entry">Biesmeijer JC, Roberts SPM, Reemer M, Ohlemüller R, Edwards M, Peeters T, Schaffers AP, Potts SG, Kleukers R, Thomas CD, et al. 2006. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands. Science, 313(5785): 351-354</div>
+  <div class="csl-entry">Garnsey SM, Permar TA, Cambra M, Henderson CT. 1993. Direct tissue blot immunoassay (DTBIA) for detection of citrus tristeza virus (CTV).//Moreno P, de Graca JV, Yokomi RK. Proceedings of the 12th Conference on International Organization of Citrus Virologist. Riverside. Riverside, USA, pp. 39-50</div>
+  <div class="csl-entry">McDonald AH, Nicol JM. 2005. Nematode parasites of cereals.//Luc M, Sikora RA, Bridge J. Plant parasitic nematodes in subtropical and tropical agriculture. Wallingford, UK: CABI Publishing, pp. 131-191</div>
+  <div class="csl-entry">Qin JD. 1987. The relationships between insects and plants. Beijing: Science Press, pp. 52-78 (in Chinese) [钦俊德. 1987. 昆虫与植物的关系. 北京: 科学出版社, pp. 52-78]</div>
+  <div class="csl-entry">Sun YF, Zhang YJ, Lu YH, Wu KM. 2011. The sustainability control of blind stink bug based on the cotton volatile substances.//Plant protection science and technology innovation and specialization of the prevention and control of diseases and pests—Academic annual Conference of Botanical China Society of Plant Protection in 2011. Beijing: China Agricultural Science and Technology Press, pp. 823 (in Chinese) [孙玉凤, 张永军, 陆宴辉, 吴孔明. 2011. 基于棉花挥发性物质的盲椿象可持续性防治.//吴孔明, 郭予元. 植保科技创新与病虫防控专业化——中国植物保护学会2011年学术年会论文集. 北京: 中国农业科学技术出版社, pp. 823]</div>
+  <div class="csl-entry">Tautz D, Arctander P, Minelli A, Thomas RH, Vogler AP. 2002. DNA points the way ahead in taxonomy. Nature, 418(6897): 479</div>
+  <div class="csl-entry">Wu KM, Guo YY. 2000. Field resistance evaluations of BT transgenic cotton GK series to cotton bollwoam. Journal of Plant Protection, 27(4): 317-321 (in Chinese) [吴孔明, 郭予元. 2000. 部分GK系列Bt棉对棉铃虫抗性的田间评价. 植物保护学报, 27(4): 317-321]</div>
+  <div class="csl-entry">Ye GY, Hu C, Shu QY. 1998. The development of transgenic rice resistant to insect pests and its wise and sustainable use.//Agricultural Development and Research in the 21st Century. Beijing: China Environmental Science Press, pp. 406-414 (in Chinese) [叶恭银, 胡萃, 舒庆尧. 1998. 转基因抗虫水稻的转育及其合理持续利用.//世界农业发展与研究. 北京: 中国环境科学出版社, pp. 406-414]</div>
+  <div class="csl-entry">Zeng SM, Wang PY, Wu XY, Zhang WY, Wang JQ, Song WZ, Wang SY. 1979. Preliminary study on the method of evaluation of horizontal resistance of wheat cultivars to stripe rust. Journal of Plant Protection, 6(1): 1-10 (in Chinese) [曾士迈, 王沛有, 武修英, 张万义, 王吉庆, 宋位中, 王生元. 1979. 小麦对条锈病的水平抗病性研究初报. 植物保护学报, 6(1): 1-10]</div>
+  <div class="csl-entry">Zhang XB. 2013. Dpp-Omb signaling regulates growth in a region specific manner during Drosophila wing development. Ph.D Thesis. Beijing: China Agricultural University (in Chinese) [张徐波. 2013. Dpp-Omb信号以区域化的方式调控果蝇翅的生长. 博士毕业论文. 北京: 中国农业大学]</div>
+</div>

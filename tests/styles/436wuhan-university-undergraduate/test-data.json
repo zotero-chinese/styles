@@ -1,0 +1,283 @@
+[
+	{
+		"id": "whu:06",
+		"type": "patent",
+		"abstract": "一种荒漠化地区生态植被综合培育种植方法，它是在种植植物的沟或穴的内壁上施用生态固化钵，然后填充植物生长坯，在植物沟或穴地表面喷施表层生态雾化剂，这种种植方法可以防止植物生长所需的水、肥、土渗漏、流失，并可供给植物生长过程中必要的水分和养分，同时可以阻缓高温蒸腾，阻隔风沙侵蚀，特别适用于在沙漠、沙化地、荒山或其它干旱、半干旱地区营造植被。",
+		"authority": "China",
+		"call-number": "CNB011292105A",
+		"event-place": "中国",
+		"language": "zh",
+		"number": "01129210.5",
+		"publisher-place": "中国",
+		"title": "一种荒漠化地区生态植被综合培育种植方法",
+		"URL": "https://patents.google.com/patent/CN1149912C/zh",
+		"author": [
+			{
+				"literal": "河北绿洲生态环境科技有限公司"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					10,
+					24
+				]
+			]
+		},
+		"submitted": {
+			"date-parts": [
+				[
+					"2001",
+					6,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:04",
+		"type": "thesis",
+		"abstract": "本论文研究间断动力系统在小随机扰动下的大偏差性质和极限性质，并运用它们研究守恒律方程解的稳定性。",
+		"language": "zh",
+		"publisher": "北京大学",
+		"title": "间断动力系统的随机扰动及其在守恒律方程中的应用",
+		"URL": "http://read.nlc.cn/allSearch/searchDetail?searchType=&showType=1&indexName=data_408&fid=012002602719#",
+		"author": [
+			{
+				"literal": "张志祥"
+			}
+		]
+	},
+	{
+		"id": "whu:05",
+		"type": "report",
+		"event-place": "Geneva",
+		"language": "en",
+		"note": "ISBN: 9789241204484\nnumber-of-pages: 88",
+		"publisher": "WHO",
+		"publisher-place": "Geneva",
+		"source": "apps.who.int",
+		"title": "Factors regulating the immune response : report of a WHO scientific group",
+		"title-short": "Factors regulating the immune response",
+		"URL": "https://apps.who.int/iris/handle/10665/40776",
+		"author": [
+			{
+				"literal": "World Health Organization"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:03",
+		"type": "book",
+		"abstract": "本书详细阐述了膜分离技术的基本理论,膜的制备及其应用,包括微滤,超滤,纳滤,反渗透,正渗透,渗透汽化,气体分离膜,电渗析与离子交换膜,膜蒸馏,膜基耦合分离过程及液膜技术,膜反应器.",
+		"event-place": "北京",
+		"ISBN": "978-7-122-32807-6",
+		"language": "zh",
+		"note": "Google-Books-ID: 08CzzQEACAAJ",
+		"number-of-pages": "371",
+		"publisher": "化学工业出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "膜分离技术基础",
+		"author": [
+			{
+				"family": "王湛",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:01",
+		"type": "article-journal",
+		"abstract": "介绍了超滤、反渗透等膜分离技术在含油废水处理中的应用,分析了膜分离技术处理含油废水的效果及透过特性,并且给出了它们在含油废水处理中的应用实例．",
+		"container-title": "膜科学与技术",
+		"ISSN": "1007-8924",
+		"issue": "01",
+		"language": "zh",
+		"page": "59-64",
+		"source": "CNKI",
+		"title": "膜技术在含油废水处理中的应用",
+		"URL": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2002&filename=MKXY200201020&uniplatform=NZKPT&v=GaCBToi2ZU5fubq5_cZyIQ77pI7NRk5gpo_pVxmlHgTj-vHWTrKn6mB7Awn-u0fO",
+		"author": [
+			{
+				"literal": "戴军"
+			},
+			{
+				"literal": "袁惠新"
+			},
+			{
+				"literal": "俞建峰"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:02",
+		"type": "paper-conference",
+		"abstract": "本文基于1/f波动理论,从情感计算的角度提出了一种由计算机自动生成和谐图案的方法,文中首先介绍了一维1/f波动数据的产生方法,并将其推广到二维平面,然后用二维1/f数据控制和谐图案的自动生成,使图案的分布、大小的变化均符合“1/f波动”规律,给人以自然、和谐与美的感觉,最后给出和谐图案样本。",
+		"container-title": "第一届中国情感计算及智能交互学术会议论文集",
+		"event-place": "北京",
+		"language": "zh",
+		"page": "293-297",
+		"publisher": "中国科学院自动化研究所",
+		"publisher-place": "北京",
+		"source": "CNKI",
+		"title": "和谐图案的自动生成研究",
+		"URL": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFD9908&filename=ZGZR200312001048&uniplatform=NZKPT&v=N-BAVx8Xda39q5iVMQmDhyzp2J3tsvAlzCje9k90RFJ7OiZGzNEJaIpnMpUT4GCZ5mgIYRIOOdI%3d",
+		"author": [
+			{
+				"literal": "毛峡"
+			},
+			{
+				"literal": "孙赟"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:08",
+		"type": "article-newspaper",
+		"container-title": "光明日报",
+		"language": "zh",
+		"page": "B1",
+		"title": "情感工学破解“舒服”之谜",
+		"URL": "http://www.holine.com/April/041804.htm",
+		"author": [
+			{
+				"family": "毛侠",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					4,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:07",
+		"type": "report",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "type: standard",
+		"number": "GB/T 16159—1996",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "拼音正词法基本规则",
+		"URL": "http://www.pinyin.info/rules/pinyinrules_simp.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "whu:09",
+		"type": "webpage",
+		"container-title": "简帛研究网站",
+		"language": "zh",
+		"title": "上博简《民之父母》“而得既塞於四海矣”句解释",
+		"URL": "https://www.bamboosilk.org/Wssf/2003/chenjian03.htm",
+		"author": [
+			{
+				"literal": "陈剑"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					18
+				]
+			]
+		}
+	}
+]
