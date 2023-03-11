@@ -2,10 +2,10 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>西安交通大学</title>
-    <id>http://www.zotero.org/styles/xjtu-gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi</id>
-    <link href="http://www.zotero.org/styles/xjtu-gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="self"/>
+    <id>http://www.zotero.org/styles/xi-an-jiaotong-university</id>
+    <link href="http://www.zotero.org/styles/xi-an-jiaotong-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://gs.xjtu.edu.cn/info/1209/7605.htm" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
@@ -24,7 +24,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。新增: 5.patten加入place; 6.中文“等”前取消逗号; 7.添加载体”[/CD]”等; 8:standard的title置后</summary>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。新增: 5.patent加入place; 6.中文“等”前取消逗号; 7.添加载体”[/CD]”等; 8:standard的title置后</summary>
     <updated>2022-12-02T17:49:28+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
