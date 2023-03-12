@@ -14,13 +14,16 @@ def prepare_style_dir(style_name):
 
 
 def test_style(style_name):
+    print(f'Running test of "{style_name}.csl"', file=sys.stderr)
     prepare_style_dir(style_name)
     os.system(f'node tests/test-style.js {style_name}.csl')
 
 
 def remove_non_existing_style_dirs():
     for style_name in os.listdir(TEST_DIR):
-        if not os.path.join(style_name + '.csl'):
+        if style_name.startswith('.'):
+            continue
+        if not os.path.exists(os.path.join(style_name + '.csl')):
             style_test_dir = os.path.join(TEST_DIR, style_name)
             print(f'Removing "{style_test_dir}"', file=sys.stderr)
             shutil.rmtree(style_test_dir)
@@ -32,6 +35,8 @@ def main():
         files = sys.argv[1:]
     else:
         files = list(sorted(glob.glob('*.csl')))
+
+    remove_non_existing_style_dirs()
 
     for file in files:
         style_name, ext = os.path.splitext(file)
