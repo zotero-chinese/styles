@@ -9,6 +9,7 @@
     "files.trimTrailingWhitespace": true,
     "xml.format.emptyElements": "collapse",
     "xml.format.enforceQuoteStyle": "preferred",
+    "xml.format.joinContentLines": true,
     "xml.format.maxLineWidth": 0,
     "xml.format.preservedNewlines": 0,
     "xml.format.spaceBeforeEmptyCloseTag": false,
