@@ -13,7 +13,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2022-12-02T17:49:33+08:00</updated>
+    <updated>2023-03-03T23:20:37+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -241,7 +241,6 @@
       <else-if type="book">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="edition" suffix=". "/>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
@@ -254,7 +253,6 @@
       <else-if type="patent">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
@@ -264,7 +262,6 @@
       <else-if type="report">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="publisher-place" suffix=". "/>
             <text variable="publisher" suffix=". "/>
             <text macro="issue-date-year"/>
@@ -273,7 +270,6 @@
       </else-if>
       <!-- 中文专著析出的文献 -->
       <else-if type="chapter">
-        <text variable="title"/>
         <text value="//"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
@@ -283,7 +279,6 @@
       </else-if>
       <!-- 中文会议集析出的文献 -->
       <else-if type="paper-conference">
-        <text variable="title"/>
         <text value="//"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
@@ -293,7 +288,6 @@
       </else-if>
       <!-- 其它文献类型 -->
       <else-if type="bill">
-        <text variable="title"/>
         <text value=". "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
@@ -304,7 +298,6 @@
       <else-if type="article-newspaper">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
             <text variable="page" prefix="(" suffix=")"/>
@@ -364,7 +357,6 @@
       <else-if type="book">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="edition" suffix=". "/>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
@@ -377,7 +369,6 @@
       <else-if type="patent">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
@@ -387,7 +378,6 @@
       <else-if type="report">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="publisher-place" suffix=". "/>
             <text variable="publisher" suffix=". "/>
             <text macro="issue-date-year"/>
@@ -396,7 +386,6 @@
       </else-if>
       <!-- 英文专著析出的文献 -->
       <else-if type="chapter">
-        <text variable="title"/>
         <text value="//"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
@@ -406,7 +395,6 @@
       </else-if>
       <!-- 英文会议集析出的文献 -->
       <else-if type="paper-conference">
-        <text variable="title"/>
         <text value="//"/>
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
@@ -416,7 +404,6 @@
       </else-if>
       <!-- 其它文献类型 -->
       <else-if type="bill">
-        <text variable="title"/>
         <text value=". "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
@@ -427,7 +414,6 @@
       <else-if type="article-newspaper">
         <group prefix=". ">
           <group delimiter="">
-            <text variable="title"/>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
             <text variable="page" prefix="(" suffix=")"/>

@@ -1,0 +1,28 @@
+[
+	[
+		{
+			"id": "marxism.1.1:01",
+			"locator": "第22、178页",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "marxism.1.1:04",
+			"locator": "1032",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "marxism.1.2:01",
+			"locator": "427-428",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "marxism.1.3:01"
+		}
+	]
+]
