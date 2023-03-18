@@ -7,7 +7,7 @@ email 前后加 __
 
 # GB/T 7714—2015 相关的 CSL 样式
 
-- GB/T 7714—2015《[信息与文献 参考文献著录规则](http://www.cessp.org.cn/a258.html)》（[PDF](http://www.cessp.org.cn/download/66/GB7714-2015%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE+%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99.pdf)）
+- GB/T 7714—2015《[信息与文献 参考文献著录规则](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=7FA63E9BBA56E60471AEDAEBDE44B14C)》（[PDF](http://www.cessp.org.cn/download/66/GB7714-2015%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE+%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99.pdf)）
 - GitHub 仓库：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
 - Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
 
