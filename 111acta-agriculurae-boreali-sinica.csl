@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/acta-agriculurae-boreali-sinica</id>
     <link href="http://www.zotero.org/styles/acta-agriculurae-boreali-sinica" rel="self"/>
     <link href="http://www.hbnxb.net/CN/column/column7.shtml#" rel="documentation"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>1000-7091</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL`。</summary>
-    <updated>2023-03-11T19:11:51+08:00</updated>
+    <updated>2023-03-20T10:10:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">

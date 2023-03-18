@@ -6,7 +6,7 @@
     <id>http://www.zotero.org/styles/export-author-et-al-year</id>
     <link href="http://www.zotero.org/styles/author-et-al-year" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -22,7 +22,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>按照语言显示作者“等”或“et al.”，年代</summary>
-    <updated>2023-01-15T02:10:29+00:00</updated>
+    <updated>2023-03-20T10:10:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
