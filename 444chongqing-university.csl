@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>重庆大学博士、硕士学位论文撰写格式标准及要求（2019年修订）</summary>
-    <updated>2023-03-19T21:30:07+08:00</updated>
+    <updated>2023-03-19T21:37:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -318,9 +318,9 @@
           <if variable="medium">
             <text variable="medium"/>
           </if>
-          <else-if variable="URL">
+          <else>
             <text value="OL"/>
-          </else-if>
+          </else>
         </choose>
       </if>
     </choose>

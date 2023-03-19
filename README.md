@@ -1817,7 +1817,7 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
     <div class="csl-entry">[7]	姜锡洲. 一种温热外敷药制备方案[P]. 中国专利: 881056078, 1983-08-12.</div>
     <div class="csl-entry">[8]	GB/T 16159—1996. 汉语拼音正词法基本规则[S]. 北京: 中国标准出版社, 1996.</div>
     <div class="csl-entry">[9]	谢希德. 创造学习的新思路[N]. 人民日报, 1998, 12(25): 10.</div>
-    <div class="csl-entry">[10]	姚伯元. 毕业设计(论文)规范化管理与培养学生综合素质[EB]. 中国高等教育网教学研究, 2005-02-02.</div>
+    <div class="csl-entry">[10]	姚伯元. 毕业设计(论文)规范化管理与培养学生综合素质[EB/OL]. 中国高等教育网教学研究, 2005-02-02.</div>
   </div>
 </blockquote>
 
