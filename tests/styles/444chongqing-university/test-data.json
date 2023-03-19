@@ -1,0 +1,577 @@
+[
+	{
+		"id": "cqu.test:05",
+		"type": "paper-conference",
+		"archive_location": "98 citation(s)",
+		"container-title": "2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+		"DOI": "10.1109/MICRO.2016.7783763",
+		"event-place": "Taipei",
+		"event-title": "2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+		"ISBN": "978-1-5090-3508-3",
+		"language": "en",
+		"page": "1-12",
+		"publisher": "IEEE",
+		"publisher-place": "Taipei",
+		"source": "DOI.org (Crossref)",
+		"title": "Path confidence based lookahead prefetching",
+		"URL": "https://ieeexplore.ieee.org/document/7783763/",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Jinchun"
+			},
+			{
+				"family": "Pugsley",
+				"given": "Seth H."
+			},
+			{
+				"family": "Gratz",
+				"given": "Paul V."
+			},
+			{
+				"family": "Reddy",
+				"given": "A.L. Narasimha"
+			},
+			{
+				"family": "Wilkerson",
+				"given": "Chris"
+			},
+			{
+				"family": "Chishti",
+				"given": "Zeshan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:02",
+		"type": "article-journal",
+		"archive_location": "41 citation(s)",
+		"container-title": "Proceedings of the VLDB Endowment",
+		"DOI": "10.14778/3303753.3303757",
+		"ISSN": "2150-8097",
+		"issue": "5",
+		"journalAbbreviation": "Proc. VLDB Endow.",
+		"language": "en",
+		"page": "502-515",
+		"source": "DOI.org (Crossref)",
+		"title": "Performance-optimal filtering: Bloom overtakes Cuckoo at high throughput",
+		"title-short": "Performance-optimal filtering",
+		"URL": "https://dl.acm.org/doi/10.14778/3303753.3303757",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Lang",
+				"given": "Harald"
+			},
+			{
+				"family": "Neumann",
+				"given": "Thomas"
+			},
+			{
+				"family": "Kemper",
+				"given": "Alfons"
+			},
+			{
+				"family": "Boncz",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.i",
+		"type": "article-newspaper",
+		"container-title": "人民日报",
+		"edition": "10",
+		"language": "zh",
+		"page": "10",
+		"title": "创造学习的新思路",
+		"author": [
+			{
+				"family": "谢",
+				"given": "希德"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					12,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:01",
+		"type": "article-journal",
+		"abstract": "以数据为中心的大数据技术给计算机存储系统带来了机遇和挑战.传统的基于动态随机存储器(DRAM)器件的内存面临工艺尺寸缩小至2Xnm及以下所带来的系统稳定性、数据可靠性等问题;相变存储器(PCM)具有非易失性、存储密度高、功耗低、抗辐射干扰等优点,且读写性能接近DRAM,是未来最有可能取代DRAM的非易失存储器,它为存储系统的研究和设计提供了新的解决方案.文中在归纳相变存储器器件发展和研究现状的基础上,对相变存储器在系统级的应用方式和面临的问题进行了比较和分析,研究了基于相变存储器的内存技术和外存技术,分析了当前在PCM的寿命、写性能、延迟、功耗等方面所提出的解决方案,指出了现有方案的优势和面临的缺陷,并探讨了未来的研究方向,为该领域在今后的发展提供了一定的参考.",
+		"container-title": "计算机学报",
+		"ISSN": "0254-4164",
+		"issue": "5",
+		"language": "zh",
+		"page": "944-960",
+		"source": "CNKI",
+		"title": "基于相变存储器的存储技术研究综述",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ir5D84hng_y4D11vwp0rrtaVOTRZ76bnOrF-GztwBZYTWAdobK2Jua-A0VVadTc8p&uniplatform=NZKPT",
+		"volume": "38",
+		"author": [
+			{
+				"literal": "冒伟"
+			},
+			{
+				"literal": "刘景宁"
+			},
+			{
+				"literal": "童薇"
+			},
+			{
+				"literal": "冯丹"
+			},
+			{
+				"literal": "李铮"
+			},
+			{
+				"literal": "周文"
+			},
+			{
+				"literal": "张双武"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:04",
+		"type": "paper-conference",
+		"abstract": "目前,利用网络技术来提高存储系统的容量已经成为存储技术发展的新趋势。基于这一现状,本文提出了一种基于虚拟计算环境的分布式存储体系结构——虚拟分布式存储体系结构(Vi rtual Di Stri buted Storage Architecture,简称VDSA)。该体系结构将利用虚拟计算环境(internet-ba sed Vi rtua 1 Comput ing Envi ronment,简称iVCE)按需聚合和自主协同的理念,为用户及应用程序提供一种新型的文件存储服务方式。",
+		"container-title": "2009全国计算机网络与通信学术会议论文集",
+		"language": "zh",
+		"page": "12-17",
+		"publisher": "中国电子学会通信学分会",
+		"source": "CNKI",
+		"title": "一种基于虚拟计算环境的分布式存储体系结构",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6S0v32EBguHnM4c5glNtQ3m7px7xHWKQGPFtYk6KGp8ITFX9Xe1nCEL2swmawW961q6NwJADVrUu&uniplatform=NZKPT",
+		"author": [
+			{
+				"literal": "张彦"
+			},
+			{
+				"literal": "刘欣然"
+			},
+			{
+				"literal": "徐慧彬"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:06",
+		"type": "paper-conference",
+		"container-title": "2016 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+		"event-title": "Design, Automation & Test in Europe Conference & Exhibition",
+		"ISBN": "978-3-9815370-7-9",
+		"language": "en",
+		"page": "936–941",
+		"publisher": "IEEE",
+		"source": "Google Scholar",
+		"title": "An operating system level data migration scheme in hybrid DRAM-NVM memory architecture",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/7459442",
+		"author": [
+			{
+				"family": "Salkhordeh",
+				"given": "Reza"
+			},
+			{
+				"family": "Asadi",
+				"given": "Hossein"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:03",
+		"type": "article-journal",
+		"archive_location": "17 citation(s)",
+		"container-title": "IEEE Transactions on Computers",
+		"DOI": "10.1109/TC.2019.2906597",
+		"issue": "8",
+		"language": "en",
+		"note": "number: 8\npublisher: IEEE",
+		"page": "1114–1130",
+		"source": "Google Scholar",
+		"title": "An analytical model for performance and lifetime estimation of hybrid DRAM-NVM main memories",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/8673648",
+		"volume": "68",
+		"author": [
+			{
+				"family": "Salkhordeh",
+				"given": "Reza"
+			},
+			{
+				"family": "Mutlu",
+				"given": "Onur"
+			},
+			{
+				"family": "Asadi",
+				"given": "Hossein"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:07",
+		"type": "patent",
+		"authority": "United States",
+		"call-number": "US12700043",
+		"language": "en",
+		"note": "issue: US8627008B2",
+		"number": "US8627008B2",
+		"title": "Memory access prediction",
+		"URL": "https://patents.google.com/patent/US8627008/en",
+		"author": [
+			{
+				"family": "Qureshi",
+				"given": "Moinuddin Khalil Ahmed"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					7
+				]
+			]
+		},
+		"submitted": {
+			"date-parts": [
+				[
+					"2010",
+					2,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.test:08",
+		"type": "webpage",
+		"abstract": "This game-changing approach to multi-tier memory and storage closes the capacity and performance gap between DRAM and NAND storage.",
+		"container-title": "Intel",
+		"language": "en",
+		"title": "Why Intel Optane Technology? Top 5 Reasons to Deploy",
+		"title-short": "Why Intel Optane Technology?",
+		"URL": "https://www.intel.com/content/www/us/en/products/docs/memory-storage/solid-state-drives/data-center-ssds/optane-ssds-deploy-in-the-data-center.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.h",
+		"type": "report",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "type: standard",
+		"number": "GB/T 16159—1996",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "汉语拼音正词法基本规则",
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.c",
+		"type": "paper-conference",
+		"container-title": "科技编辑学论文集",
+		"event-place": "北京",
+		"language": "zh",
+		"page": "10-22",
+		"publisher": "北京师范大学出版社",
+		"publisher-place": "北京",
+		"title": "科技编辑学论文集（2）",
+		"author": [
+			{
+				"family": "孙",
+				"given": "品一"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.a",
+		"type": "article-journal",
+		"container-title": "太原理工大学学报",
+		"issue": "1",
+		"language": "zh",
+		"page": "51-53",
+		"title": "Ni-P合金镀层组织形貌及显微硬度研究",
+		"volume": "32",
+		"author": [
+			{
+				"family": "袁",
+				"given": "庆龙"
+			},
+			{
+				"family": "侯",
+				"given": "文义"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.e",
+		"type": "thesis",
+		"event-place": "太原",
+		"language": "zh",
+		"publisher": "太原理工大学",
+		"publisher-place": "太原",
+		"title": "地质力学系统理论",
+		"author": [
+			{
+				"family": "张",
+				"given": "和生"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.j",
+		"type": "webpage",
+		"container-title": "中国高等教育网教学研究",
+		"language": "zh",
+		"title": "毕业设计(论文)规范化管理与培养学生综合素质",
+		"author": [
+			{
+				"family": "姚",
+				"given": "伯元"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					2,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.f",
+		"type": "report",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "清华大学核能技术设计研究院",
+		"publisher-place": "北京",
+		"title": "核反应堆压力容器的LBB分析",
+		"author": [
+			{
+				"family": "冯",
+				"given": "西桥"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.g",
+		"type": "patent",
+		"authority": "中国",
+		"language": "zh",
+		"number": "881056078",
+		"title": "一种温热外敷药制备方案",
+		"author": [
+			{
+				"family": "姜",
+				"given": "锡洲"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983",
+					8,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.d",
+		"type": "chapter",
+		"container-title": "21世纪安全科学与技术的发展趋势",
+		"event-place": "北京",
+		"language": "zh",
+		"page": "1-5",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "安全科学理论体系的发展及趋势探讨",
+		"author": [
+			{
+				"family": "罗",
+				"given": "云"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "cqu.app1.3.b",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"number-of-pages": "115",
+		"publisher": "中国青年出版社",
+		"publisher-place": "北京",
+		"title": "中国书的故事",
+		"author": [
+			{
+				"family": "刘",
+				"given": "国钧"
+			},
+			{
+				"family": "郑",
+				"given": "如斯"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	}
+]
