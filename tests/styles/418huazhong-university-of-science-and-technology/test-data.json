@@ -1,0 +1,790 @@
+[
+	{
+		"id": "hust:03",
+		"type": "article-journal",
+		"container-title": "中华中医药学刊",
+		"DOI": "10/gqs682",
+		"issue": "11",
+		"journalAbbreviation": "CHINESE ARCHIVES OF TRADITIONAL CHINESE MEDICINE",
+		"language": "zh",
+		"note": "辽宁中医学院,110032,辽宁,沈阳\n2005-01-04 （万方平台首次上网日期，不代表论文的发表时间）",
+		"page": "2094-2096",
+		"source": "Wanfang Data",
+		"title": "中医药防治阿尔茨海默病实验研究述要",
+		"URL": "https://d.wanfangdata.com.cn/periodical/zyyxk200411062",
+		"volume": "22",
+		"author": [
+			{
+				"literal": "詹向红"
+			},
+			{
+				"literal": "李德新"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:07",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Storage",
+		"DOI": "10/gqs683",
+		"ISSN": "1553-3077",
+		"issue": "4",
+		"journalAbbreviation": "ACM Trans. Storage",
+		"language": "en",
+		"page": "1-28",
+		"title": "Building efficient key-value stores via a lightweight compaction tree",
+		"URL": "https://doi.org/10.1145/3139922",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Yao",
+				"given": "Ting"
+			},
+			{
+				"family": "Wan",
+				"given": "Jiguang"
+			},
+			{
+				"family": "Huang",
+				"given": "Ping"
+			},
+			{
+				"family": "He",
+				"given": "Xubin"
+			},
+			{
+				"family": "Wu",
+				"given": "Fei"
+			},
+			{
+				"family": "Xie",
+				"given": "Changsheng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:09",
+		"type": "thesis",
+		"event-place": "武汉",
+		"genre": "博士学位论文",
+		"language": "zh",
+		"publisher": "武汉测绘科技大学",
+		"publisher-place": "武汉",
+		"source": "Wanfang Data",
+		"title": "基于混合结构的三维GIS数据模型与空间分析研究",
+		"URL": "https://d.wanfangdata.com.cn/thesis/Y260161",
+		"author": [
+			{
+				"literal": "李清泉"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "李德仁"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:06",
+		"type": "paper-conference",
+		"container-title": "2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+		"DOI": "10/gqs684",
+		"event-place": "Honolulu, HI, USA",
+		"event-title": "2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+		"language": "en",
+		"note": "event-date: 2018-11-12/2018-11-15\nISSN: 2640-0103",
+		"page": "1361-1364",
+		"publisher": "IEEE",
+		"publisher-place": "Honolulu, HI, USA",
+		"source": "IEEE Xplore",
+		"title": "Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters",
+		"author": [
+			{
+				"family": "Yamaki",
+				"given": "Shunsuke"
+			},
+			{
+				"family": "Abet",
+				"given": "Masahide"
+			},
+			{
+				"family": "Kawamata",
+				"given": "Masayuki"
+			},
+			{
+				"family": "Yoshizawa",
+				"given": "Makoto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:05",
+		"type": "article-journal",
+		"container-title": "Journal of Bone and Mineral Research",
+		"DOI": "10/cng5vx",
+		"ISSN": "08840431, 15234681",
+		"issue": "7",
+		"journalAbbreviation": "J Bone Miner Res",
+		"language": "en",
+		"page": "1468-1486",
+		"source": "DOI.org (Crossref)",
+		"title": "Guidelines for assessment of bone microstructure in rodents using micro-computed tomography",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/jbmr.141",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Bouxsein",
+				"given": "Mary L"
+			},
+			{
+				"family": "Boyd",
+				"given": "Stephen K"
+			},
+			{
+				"family": "Christiansen",
+				"given": "Blaine A"
+			},
+			{
+				"family": "Guldberg",
+				"given": "Robert E"
+			},
+			{
+				"family": "Jepsen",
+				"given": "Karl J"
+			},
+			{
+				"family": "Müller",
+				"given": "Ralph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:04",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10/ds5m8m",
+		"ISSN": "0028-0836, 1476-4687",
+		"issue": "7124",
+		"journalAbbreviation": "Nature",
+		"language": "en",
+		"page": "168-176",
+		"source": "DOI.org (Crossref)",
+		"title": "Genome-wide atlas of gene expression in the adult mouse brain",
+		"URL": "http://www.nature.com/articles/nature05453",
+		"volume": "445",
+		"author": [
+			{
+				"family": "Lein",
+				"given": "Ed S."
+			},
+			{
+				"family": "Hawrylycz",
+				"given": "Michael J."
+			},
+			{
+				"family": "Ao",
+				"given": "Nancy"
+			},
+			{
+				"family": "Ayres",
+				"given": "Mikael"
+			},
+			{
+				"family": "Bensinger",
+				"given": "Amy"
+			},
+			{
+				"family": "Bernard",
+				"given": "Amy"
+			},
+			{
+				"family": "Boe",
+				"given": "Andrew F."
+			},
+			{
+				"family": "Boguski",
+				"given": "Mark S."
+			},
+			{
+				"family": "Brockway",
+				"given": "Kevin S."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Emi J."
+			},
+			{
+				"family": "Chen",
+				"given": "Lin"
+			},
+			{
+				"family": "Chen",
+				"given": "Li"
+			},
+			{
+				"family": "Chen",
+				"given": "Tsuey-Ming"
+			},
+			{
+				"family": "Chi Chin",
+				"given": "Mei"
+			},
+			{
+				"family": "Chong",
+				"given": "Jimmy"
+			},
+			{
+				"family": "Crook",
+				"given": "Brian E."
+			},
+			{
+				"family": "Czaplinska",
+				"given": "Aneta"
+			},
+			{
+				"family": "Dang",
+				"given": "Chinh N."
+			},
+			{
+				"family": "Datta",
+				"given": "Suvro"
+			},
+			{
+				"family": "Dee",
+				"given": "Nick R."
+			},
+			{
+				"family": "Desaki",
+				"given": "Aimee L."
+			},
+			{
+				"family": "Desta",
+				"given": "Tsega"
+			},
+			{
+				"family": "Diep",
+				"given": "Ellen"
+			},
+			{
+				"family": "Dolbeare",
+				"given": "Tim A."
+			},
+			{
+				"family": "Donelan",
+				"given": "Matthew J."
+			},
+			{
+				"family": "Dong",
+				"given": "Hong-Wei"
+			},
+			{
+				"family": "Dougherty",
+				"given": "Jennifer G."
+			},
+			{
+				"family": "Duncan",
+				"given": "Ben J."
+			},
+			{
+				"family": "Ebbert",
+				"given": "Amanda J."
+			},
+			{
+				"family": "Eichele",
+				"given": "Gregor"
+			},
+			{
+				"family": "Estin",
+				"given": "Lili K."
+			},
+			{
+				"family": "Faber",
+				"given": "Casey"
+			},
+			{
+				"family": "Facer",
+				"given": "Benjamin A."
+			},
+			{
+				"family": "Fields",
+				"given": "Rick"
+			},
+			{
+				"family": "Fischer",
+				"given": "Shanna R."
+			},
+			{
+				"family": "Fliss",
+				"given": "Tim P."
+			},
+			{
+				"family": "Frensley",
+				"given": "Cliff"
+			},
+			{
+				"family": "Gates",
+				"given": "Sabrina N."
+			},
+			{
+				"family": "Glattfelder",
+				"given": "Katie J."
+			},
+			{
+				"family": "Halverson",
+				"given": "Kevin R."
+			},
+			{
+				"family": "Hart",
+				"given": "Matthew R."
+			},
+			{
+				"family": "Hohmann",
+				"given": "John G."
+			},
+			{
+				"family": "Howell",
+				"given": "Maureen P."
+			},
+			{
+				"family": "Jeung",
+				"given": "Darren P."
+			},
+			{
+				"family": "Johnson",
+				"given": "Rebecca A."
+			},
+			{
+				"family": "Karr",
+				"given": "Patrick T."
+			},
+			{
+				"family": "Kawal",
+				"given": "Reena"
+			},
+			{
+				"family": "Kidney",
+				"given": "Jolene M."
+			},
+			{
+				"family": "Knapik",
+				"given": "Rachel H."
+			},
+			{
+				"family": "Kuan",
+				"given": "Chihchau L."
+			},
+			{
+				"family": "Lake",
+				"given": "James H."
+			},
+			{
+				"family": "Laramee",
+				"given": "Annabel R."
+			},
+			{
+				"family": "Larsen",
+				"given": "Kirk D."
+			},
+			{
+				"family": "Lau",
+				"given": "Christopher"
+			},
+			{
+				"family": "Lemon",
+				"given": "Tracy A."
+			},
+			{
+				"family": "Liang",
+				"given": "Agnes J."
+			},
+			{
+				"family": "Liu",
+				"given": "Ying"
+			},
+			{
+				"family": "Luong",
+				"given": "Lon T."
+			},
+			{
+				"family": "Michaels",
+				"given": "Jesse"
+			},
+			{
+				"family": "Morgan",
+				"given": "Judith J."
+			},
+			{
+				"family": "Morgan",
+				"given": "Rebecca J."
+			},
+			{
+				"family": "Mortrud",
+				"given": "Marty T."
+			},
+			{
+				"family": "Mosqueda",
+				"given": "Nerick F."
+			},
+			{
+				"family": "Ng",
+				"given": "Lydia L."
+			},
+			{
+				"family": "Ng",
+				"given": "Randy"
+			},
+			{
+				"family": "Orta",
+				"given": "Geralyn J."
+			},
+			{
+				"family": "Overly",
+				"given": "Caroline C."
+			},
+			{
+				"family": "Pak",
+				"given": "Tu H."
+			},
+			{
+				"family": "Parry",
+				"given": "Sheana E."
+			},
+			{
+				"family": "Pathak",
+				"given": "Sayan D."
+			},
+			{
+				"family": "Pearson",
+				"given": "Owen C."
+			},
+			{
+				"family": "Puchalski",
+				"given": "Ralph B."
+			},
+			{
+				"family": "Riley",
+				"given": "Zackery L."
+			},
+			{
+				"family": "Rockett",
+				"given": "Hannah R."
+			},
+			{
+				"family": "Rowland",
+				"given": "Stephen A."
+			},
+			{
+				"family": "Royall",
+				"given": "Joshua J."
+			},
+			{
+				"family": "Ruiz",
+				"given": "Marcos J."
+			},
+			{
+				"family": "Sarno",
+				"given": "Nadia R."
+			},
+			{
+				"family": "Schaffnit",
+				"given": "Katherine"
+			},
+			{
+				"family": "Shapovalova",
+				"given": "Nadiya V."
+			},
+			{
+				"family": "Sivisay",
+				"given": "Taz"
+			},
+			{
+				"family": "Slaughterbeck",
+				"given": "Clifford R."
+			},
+			{
+				"family": "Smith",
+				"given": "Simon C."
+			},
+			{
+				"family": "Smith",
+				"given": "Kimberly A."
+			},
+			{
+				"family": "Smith",
+				"given": "Bryan I."
+			},
+			{
+				"family": "Sodt",
+				"given": "Andy J."
+			},
+			{
+				"family": "Stewart",
+				"given": "Nick N."
+			},
+			{
+				"family": "Stumpf",
+				"given": "Kenda-Ruth"
+			},
+			{
+				"family": "Sunkin",
+				"given": "Susan M."
+			},
+			{
+				"family": "Sutram",
+				"given": "Madhavi"
+			},
+			{
+				"family": "Tam",
+				"given": "Angelene"
+			},
+			{
+				"family": "Teemer",
+				"given": "Carey D."
+			},
+			{
+				"family": "Thaller",
+				"given": "Christina"
+			},
+			{
+				"family": "Thompson",
+				"given": "Carol L."
+			},
+			{
+				"family": "Varnam",
+				"given": "Lee R."
+			},
+			{
+				"family": "Visel",
+				"given": "Axel"
+			},
+			{
+				"family": "Whitlock",
+				"given": "Ray M."
+			},
+			{
+				"family": "Wohnoutka",
+				"given": "Paul E."
+			},
+			{
+				"family": "Wolkey",
+				"given": "Crissa K."
+			},
+			{
+				"family": "Wong",
+				"given": "Victoria Y."
+			},
+			{
+				"family": "Wood",
+				"given": "Matthew"
+			},
+			{
+				"family": "Yaylaoglu",
+				"given": "Murat B."
+			},
+			{
+				"family": "Young",
+				"given": "Rob C."
+			},
+			{
+				"family": "Youngstrom",
+				"given": "Brian L."
+			},
+			{
+				"family": "Feng Yuan",
+				"given": "Xu"
+			},
+			{
+				"family": "Zhang",
+				"given": "Bin"
+			},
+			{
+				"family": "Zwingman",
+				"given": "Theresa A."
+			},
+			{
+				"family": "Jones",
+				"given": "Allan R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:02",
+		"type": "book",
+		"collection-number": "v. 47",
+		"collection-title": "Methods of biochemical analysis",
+		"edition": "2",
+		"event-place": "Hoboken, New Jersey",
+		"ISBN": "978-0-471-45328-4",
+		"language": "en",
+		"note": "OCLC: ocm57251338",
+		"number-of-pages": "443",
+		"publisher": "Wiley-Interscience",
+		"publisher-place": "Hoboken, New Jersey",
+		"source": "Library of Congress ISBN",
+		"title": "Green fluorescent protein: properties, applications, and protocols",
+		"title-short": "Green fluorescent protein",
+		"editor": [
+			{
+				"family": "Chalfie",
+				"given": "Martin"
+			},
+			{
+				"family": "Kain",
+				"given": "Steven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:01",
+		"type": "book",
+		"edition": "2",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "中国水利水电出版社",
+		"publisher-place": "北京",
+		"title": "CFG桩复合地基技术及工程实践",
+		"author": [
+			{
+				"literal": "闫明礼"
+			},
+			{
+				"literal": "张东刚"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust:08",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh",
+		"note": "genre: 发明专利",
+		"number": "ZL92214985.2",
+		"publisher-place": "中国",
+		"title": "多功能一次性压舌板",
+		"author": [
+			{
+				"family": "刘",
+				"given": "加林"
+			},
+			{
+				"family": "刘",
+				"given": "乃安"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					4,
+					14
+				]
+			]
+		}
+	}
+]

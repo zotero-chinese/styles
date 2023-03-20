@@ -70,7 +70,7 @@ Undefined
   <div class="csl-entry">15. Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws([no date]).	</div>
   <div class="csl-entry">16. Crane D. Invisible college. Chicago: Univ. of Chicago Press, 1972.	</div>
   <div class="csl-entry">17. Crawford W, Gorman M. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association, 1995.	</div>
-  <div class="csl-entry">18. Des Marais DJ, Strauss H, Summons RE, Hayes JM. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>. 1992, 359(6396): 605–609. .	</div>
+  <div class="csl-entry">18. Des Marais DJ, Strauss H, Summons RE, Hayes JM. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>. 1992, 359(6396): 605–609.	</div>
   <div class="csl-entry">19. Deverell W, Igler D. A companion to California history. (Doctoral dissertationdissertation). John Wiley &#38; Sons，2013.	</div>
   <div class="csl-entry">20. Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. <i>Journal of Library Administration</i>. 1995, 21(1/2): 5–26. .	</div>
   <div class="csl-entry">21. Fan X, Sommers CH. Food irradiation research and technology. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26.	</div>
