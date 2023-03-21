@@ -102,9 +102,9 @@ Undefined
   <div class="csl-entry">[34]	Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">[35]	Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J/OL]. Biology, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">[36]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362.</div>
-  <div class="csl-entry">[37]	邓一刚. 全智能节电器: 200610171314.3[P].</div>
-  <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P/OL].</div>
-  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P/OL].</div>
+  <div class="csl-entry">[37]	邓一刚. 全智能节电器: 200610171314.3[P]. 12/13/2006.</div>
+  <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P/OL]. 03/06/2002.</div>
+  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P/OL]. 07/05/2005.</div>
   <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL].</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[S/OL]. .</div>
   <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy[EB/OL].</div>
@@ -189,9 +189,9 @@ Undefined
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D/OL]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D/OL]. 北京: 北京大学, 2003.</div>
   <div class="csl-entry">[96]	Calms R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
-  <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P].</div>
-  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P/OL].</div>
-  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US828402[P/OL].</div>
+  <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 04/05/2012.</div>
+  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P/OL]. 10/24/2001.</div>
+  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US828402[P/OL]. 05/25/2002.</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料[Z]. 北京: 中国标准出版社, 2010: 3.
 
     <div class="csl-block">文献著录</div>

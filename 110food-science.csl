@@ -415,7 +415,7 @@
       <text macro="author"/>
       <group delimiter=". ">
         <text macro="title"/>
-        <text macro="container-title"/>
+        <text variable="container-title"/>
       </group>
       <text macro="edition"/>
       <text macro="publishing"/>
