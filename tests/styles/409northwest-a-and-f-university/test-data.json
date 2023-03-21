@@ -1,0 +1,261 @@
+[
+	{
+		"id": "nwafu:01",
+		"type": "webpage",
+		"language": "zh",
+		"title": "出版业信息化迈入快车道",
+		"URL": "http://www.creader.com/news/20011219/200112120019.html",
+		"author": [
+			{
+				"literal": "萧钰"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2002",
+					4,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:02",
+		"type": "article-newspaper",
+		"container-title": "大众科技报",
+		"language": "zh",
+		"page": "7",
+		"title": "罪犯 DNA 库与生命伦理学计划",
+		"author": [
+			{
+				"literal": "张田琴"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					11,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:03",
+		"type": "article-journal",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10/csdcn2",
+		"ISSN": "0027-0644",
+		"issue": "7",
+		"journalAbbreviation": "Mon. Wea. Rev.",
+		"language": "en",
+		"page": "554-563",
+		"title": "Transequatorial Effects of Sea-Surface Temperature Anomalies in a Global General Circulation Model<sup>1</sup>",
+		"volume": "101",
+		"author": [
+			{
+				"family": "Spar",
+				"given": "Jerome"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:04",
+		"type": "article-journal",
+		"container-title": "Monthly Weather Review",
+		"DOI": "10/bt3mfk",
+		"issue": "2",
+		"journalAbbreviation": "Mon. Wea. Rev.",
+		"language": "en",
+		"page": "91–100",
+		"title": "Some effects of surface anomalies in a global general circulation model",
+		"volume": "101",
+		"author": [
+			{
+				"family": "Spar",
+				"given": "Jerome"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:05",
+		"type": "chapter",
+		"container-title": "Vegetation and the Atmosphere",
+		"event-place": "London",
+		"language": "en",
+		"page": "13-52",
+		"publisher": "Academic Press",
+		"publisher-place": "London",
+		"title": "Radiative transfer in plant communities",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Ross",
+				"given": "Juhan"
+			}
+		],
+		"editor": [
+			{
+				"family": "Monteith",
+				"given": "John Lennox"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:06",
+		"type": "thesis",
+		"event-place": "杭州",
+		"genre": "博士学位论文",
+		"language": "zh",
+		"publisher": "浙江大学",
+		"publisher-place": "杭州",
+		"title": "聚苯乙烯负载的高价碘试剂的合成及其在合成中的应用",
+		"author": [
+			{
+				"literal": "朱勍"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:07",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh",
+		"note": "genre: 发明专利",
+		"number": "92214985",
+		"publisher-place": "中国",
+		"title": "多功能一次性压舌板",
+		"author": [
+			{
+				"family": "刘",
+				"given": "加林"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					4,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:08",
+		"type": "book",
+		"edition": "2",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "page: 102",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "同种植物的不同花型",
+		"author": [
+			{
+				"literal": "达尔文"
+			}
+		],
+		"translator": [
+			{
+				"literal": "叶笃庄"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:09",
+		"type": "chapter",
+		"container-title": "运筹学的理论与应用—中国运筹学会第五届大会论文集",
+		"event-place": "西安",
+		"language": "zh",
+		"page": "468-471",
+		"publisher": "西安电子科技大学出版社",
+		"publisher-place": "西安",
+		"title": "非线性规划在可燃毒物配置中的应用",
+		"author": [
+			{
+				"literal": "钟文发"
+			}
+		],
+		"editor": [
+			{
+				"literal": "赵玮"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu:10",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "page: 108",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "横断山区昆虫",
+		"volume": "第一册",
+		"author": [
+			{
+				"literal": "中国科学院青藏高原综合科学考察队"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	}
+]

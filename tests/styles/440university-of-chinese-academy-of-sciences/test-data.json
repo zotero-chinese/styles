@@ -1,0 +1,338 @@
+[
+	{
+		"id": "ucas.2.7.3.4:01",
+		"type": "article-journal",
+		"abstract": "最近基因组研究表明树鼩属于灵长类或是与灵长类亲缘关系最密切的姐妹种。因此, 树鼩可能是应用于建立人类疾病动物模型的最佳动物之一。该文报道一种抑郁症的社会竞争失败病因学树鼩 (Tupaia belangeri chinensis)模型。一对雄性树鼩被饲养在一个双笼中, 用网格把双笼隔开, 网格上有一小门。适应1周后, 把小门打开, 这一对树鼩产生短暂的争斗, 每天一次,连续21天。其中争斗失败者被称为服从者。这个过程可导致每天1h的直接社交冲突和23h的间接相互影响 (比如通过气味、视觉等)。与正常对照相比, 失败者在第三周也就是社交冲突的最后一周显示了体重、自主活动、躲避行为、尿液皮质醇水平等的变化, 并且这种改变可持续至少2周以上。此外, 还报道全新的记忆模型, 一种被捕获条件反射树鼩模型。在一个封闭的小房间中放置捕获笼, 其中挂有一片苹果, 小房间中有一只自由活动的树鼩。训练的前4次树鼩进入捕获笼吃苹果并不触发捕获笼关闭, 但在第5次时触发捕获笼关闭, 并持续一小时才释放树鼩。第1—5 次树鼩进入捕获笼的延迟时间作为适应性指标, 其中第5次才是作为被捕获的一次学习训练。24h后, 测试树鼩进入捕获笼的延迟时间作为被捕获记忆能力指标。树鼩经过第5次被捕获训练, 能形成很好的被捕获记忆, 因为24h后的延迟时间极大地增加。在训练前腹腔注射已知能阻断记忆形成的 NMDA受体拮抗剂MK-801(0.2mg/kg, 腹腔注射), 对适应指标没有显著影响, 但是极大地缩短了24h后测试的延迟时间, 即阻断了被捕获记忆。这些结果表明了一种抑郁症的慢性社会竞争失败与学习和记忆的一次被捕获条件反射树鼩模型。这两种树鼩模型对抑郁症与学习和记忆的机理研究、抗抑郁症新药的临床前药效学评价具有潜在的重要意义。",
+		"container-title": "动物学研究",
+		"ISSN": "0254-5853",
+		"issue": "1",
+		"journalAbbreviation": "动物学研究",
+		"language": "zh",
+		"note": "南农核心期: 二类核心\n南农高质量期刊: 无",
+		"page": "24-30",
+		"source": "CNKI",
+		"title": "树鼩模型:抑郁症的社会竞争失败与学习和记忆的被捕获条件反射",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=DWXY201101010&v=",
+		"volume": "32",
+		"author": [
+			{
+				"literal": "王静"
+			},
+			{
+				"literal": "周启心"
+			},
+			{
+				"literal": "田孟"
+			},
+			{
+				"literal": "杨跃雄"
+			},
+			{
+				"literal": "徐林"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.1:02",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "page: 98-106",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "中国两栖爬行动物鉴定手册",
+		"author": [
+			{
+				"family": "田婉淑",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.4:02",
+		"type": "article-journal",
+		"abstract": "云南玉龙雪山高峰区有现代冰川１９条，面积１１．６１ｋｍ２，冰川融水汇入金沙江．在现代冰川外围有丰富的古冰川遗迹，可划分３次更新世冰期，即大理、丽江和云杉坪冰期，相当于欧洲阿尔卑斯的玉木、里斯和民德冰期，其中以丽江冰期冰川规模最大，当时，白水河古冰川长１１ｋｍ，比云杉坪冰期的山麓冰川边缘（３１００～３２００ ｍ）还低，末端海拔２８６０ｍ．比末次冰期的白水河冰川长 ２．５ ｋｍ．冰川演化模式与梅里雪山、贡嘎山东坡相同，均属藏东南型，而与青藏高原广大高山区以倒数第三次冰期冰川最大规模有别．主要是它们位于青藏高原东、南边缘，高山的上升幅度、时间和气候条件与青藏高原内部不同所致．近期冰川变化小． １９９８年比１９８２年后退约１００～１５０ｍ，上升高度约 ５０ｍ，而１９９７～１９９８年之间冰川处于小的前进状态",
+		"container-title": "冰川冻土",
+		"ISSN": "1000-0240",
+		"issue": "1",
+		"language": "zh",
+		"note": "95 citations(CNKI)[2023-2-15]<北大核心>",
+		"page": "53-61",
+		"source": "CNKI",
+		"title": "云南玉龙雪山第四纪冰期与冰川演化模式",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2000&filename=BCDT200001013&v=",
+		"volume": "22",
+		"author": [
+			{
+				"literal": "郑本兴"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.1:04",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "中国社会科学出版社",
+		"publisher-place": "北京",
+		"title": "信息技术与信息服务国际研讨会论文集 A集",
+		"author": [
+			{
+				"family": "辛希孟",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.1:03",
+		"type": "book",
+		"event-place": "台北",
+		"language": "zh",
+		"publisher": "天下文化出版社",
+		"publisher-place": "台北",
+		"title": "新时代的工业工程师",
+		"URL": "http://www.ie.nthu.edu.tw/info/ie.newie.htm",
+		"author": [
+			{
+				"literal": "赵耀东"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"1998",
+					9,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.1:05",
+		"type": "book",
+		"edition": "4",
+		"event-place": "New York",
+		"language": "en",
+		"publisher": "McGraw Hill",
+		"publisher-place": "New York",
+		"title": "Probability, random variables, and random signal principles",
+		"author": [
+			{
+				"family": "Peebles, Jr",
+				"given": "Peyton Z."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.2:01",
+		"type": "chapter",
+		"container-title": "长江流域洪涝灾害与科技对策",
+		"event-place": "北京",
+		"language": "zh",
+		"page": "32-36",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "1998 年长江洪水的成因与减灾对策",
+		"author": [
+			{
+				"family": "程",
+				"given": "根伟"
+			}
+		],
+		"editor": [
+			{
+				"family": "许",
+				"given": "厚泽"
+			},
+			{
+				"family": "赵",
+				"given": "其国"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.3:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "type: periodical\nissue: 1",
+		"publisher": "地质出版社",
+		"publisher-place": "北京",
+		"title": "地质评论",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "中国地质学会"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1936"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.3:02",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "type: periodical\npage: 98-106",
+		"publisher": "北京图书馆",
+		"publisher-place": "北京",
+		"title": "图书馆学通讯",
+		"author": [
+			{
+				"literal": "中国图书馆学会"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.4:03",
+		"type": "article-newspaper",
+		"language": "zh",
+		"page": "14",
+		"title": "大风沙过后的思考",
+		"URL": "http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm",
+		"author": [
+			{
+				"literal": "傅刚"
+			},
+			{
+				"literal": "赵承"
+			},
+			{
+				"literal": "李佳路"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2002",
+					3,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					4,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.5:01",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh",
+		"number": "88105607.3",
+		"publisher-place": "中国",
+		"title": "一种温热外敷药制备方案",
+		"author": [
+			{
+				"literal": "江锡洲"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "ucas.2.7.3.5:02",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh",
+		"number": "01128777.2",
+		"publisher-place": "中国",
+		"title": "光折变自适应光外差探测方法",
+		"URL": "http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2& leixin=0",
+		"author": [
+			{
+				"literal": "西安电子科技大学"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	}
+]

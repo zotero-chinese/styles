@@ -936,8 +936,10 @@
 	{
 		"id": "gbt7714.04.4.2:05",
 		"type": "article-journal",
+		"abstract": "本文分析了北斗用户终端在实际应用中存在的问题,指出指挥型用户终端的监控能力有限、成本相对较高是影响其推广应用的关键。针对该问题,利用现有资源,设计并搭建了监控管理网,在该网络中创造性地设计了虚拟指挥机系统,起到了指挥型用户终端的作用,弥补了北斗用户终端的不足。文章具体阐述了虚拟指挥机系统的工作原理,介绍了其数据模型,并描述了整个监控管理网的网络功能和体系结构设计,该网络已在很多部门得到应用。",
 		"container-title": "测绘科学",
 		"DOI": "10.3771/j.issn.1009-2307.2008.05.002",
+		"ISSN": "1009-2307",
 		"issue": "5",
 		"language": "zh",
 		"page": "8-9",
@@ -3622,6 +3624,7 @@
 		"type": "article-journal",
 		"container-title": "Nature",
 		"issue": "6396",
+		"journalAbbreviation": "Nature",
 		"language": "en",
 		"page": "605-609",
 		"title": "Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment",
