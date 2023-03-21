@@ -1821,6 +1821,21 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   </div>
 </blockquote>
 
+## [445nanjing-agricultural-university.csl]
+
+[南京农业大学研究生学位论文](https://grasch.njau.edu.cn/info/1011/4128.htm)新样式。在 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 的基础上修改。正文作者年代格式，中文参考文献为中文标点，英文为英文标点。参考文献列表中文在前，英文在后。中文按作者拼音排序，英文按作者字母排序。作者 3 人以上写 3 人再加`等`或`et al.`。学位论文、书籍显示页码需要在Extra中输入：`pages: 88-120`，需要用自动根据题目批量修改语言的插件：<https://github.com/redleafnew/delitemwithatt>，将条目语言设置为`en-US`或`zh-CN`才可以正常排序。
+
+显示效果：
+
+> （曹向锋，2010；杨安钢等，2001；杨月等，2014；Andolfo et al., 2014; Bethke et al., 2016）
+
+> [1]	曹向锋．外来入侵植物黄顶菊在中国潜在适生区预测及其风险评估［D］．南京：南京农业大学，2010：88－120.<br>
+> [2]	杨安钢，毛积芳，药立波．生物化学与分子生物学实验技术［M］．北京：高等教育出版社，2001：28－59.<br>
+> [3]	杨月，刘兵，刘小军，等．小麦生育期模拟模型的比较研究［J］．南京农业大学学报，2014，37（1）：6－14.<br>
+> [4]	Andolfo G, Jupe F, Witek K, et al. Defining the full tomato NB-LRR resistance gene repertoire using genomic and cDNA RenSeq[J]. BMC plant biology, 2014, 14: 120.<br>
+> [5]	Bethke G, Thao A, Xiong G, et al. Pectin biosynthesis is critical for cell wall integrity and immunity in arabidopsis thaliana[J]. The Plant Cell, 2016, 28(2): 537-556.<br>
+
+
 
 ## 501-506
 
@@ -2121,3 +2136,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]: 441huazhong-university-of-science-and-technology-tongji-medical-college.csl
 [442chongqing-university-of-posts-and-telecommunications.csl]: 442chongqing-university-of-posts-and-telecommunications.csl
 [444chongqing-university.csl]: 444chongqing-university.csl
+[445nanjing-agricultural-university.csl]: 445nanjing-agricultural-university.csl
