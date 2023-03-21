@@ -394,13 +394,15 @@
           </choose>
           <choose>
             <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <if variable="number">
-                <text variable="number"/>
-              </if>
-              <!-- 如果专利号码不还在用申请代码 -->
-              <else-if type="patent">
-                <text variable="call-number"/>
-              </else-if>
+              <choose>
+                <if variable="number">
+                  <text variable="number"/>
+                </if>
+                <!-- 如果专利号码不还在用申请代码 -->
+                <else-if type="patent">
+                  <text variable="call-number"/>
+                </else-if>
+              </choose>
             </if>
           </choose>
         </group>
@@ -732,7 +734,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <sort>
       <key variable="language" sort="descending"/>
       <key macro="author"/>
