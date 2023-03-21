@@ -38,7 +38,7 @@ Undefined
 
 ### 参考文献表
 
-<div class="csl-bib-body hanging-indent second-field-align-flush">
+<div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	陈晋镳，张惠民，朱士兴，等．蓟县震旦亚界研究［M］//中国地质科学院天津地质矿产研究所．中国震旦亚界．天津：天津科学技术出版社，1980：56－114．</div>
   <div class="csl-entry">[2]	贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45－52．</div>
   <div class="csl-entry">[3]	王临惠．从几组声母的演变看天津方言形成的自然条件和历史条件［C］//曹志耘．汉语方言的地理语言学研究．北京：商务印书馆，2010：138．</div>
@@ -52,7 +52,7 @@ Undefined
 
 ### 全部文献
 
-<div class="csl-bib-body hanging-indent second-field-align-flush">
+<div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	白书农．植物开花研究［M］//李承森．植物科学进展．北京：高等教育出版社，1998：146－163．</div>
   <div class="csl-entry">[2]	北京市人民政府办公厅．关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发[2005]37号［A］．2005．</div>
   <div class="csl-entry">[3]	北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所．历代王朝与民族宗教［M］．北京：民族出版社，2012：112．</div>
