@@ -1177,6 +1177,8 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 
 ## [405nanjing-agricultural-university-numeric.csl]
 
+[南京农业大学研究生学位论文](https://grasch.njau.edu.cn/info/1011/4128.htm)新样式见[445nanjing-agricultural-university.csl]
+
 南京农业大学学位论文用，在 [000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改（原样式见[407nanjing-agricultural-university-old.csl]），作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` （在线报告、网页条目如果有`URL`不空则显示`URL`）和 `DOI`。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
 
 显示效果：
