@@ -394,7 +394,13 @@
           </choose>
           <choose>
             <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <text variable="number"/>
+              <if variable="number">
+                <text variable="number"/>
+              </if>
+              <!-- 如果专利号码不还在用申请代码 -->
+              <else-if type="patent">
+                <text variable="call-number"/>
+              </else-if>
             </if>
           </choose>
         </group>
