@@ -221,7 +221,7 @@
       <else-if type="post-weblog webpage" match="any">
         <!-- webpage添加访问日期显示 -->
         <group prefix=". ">
-          <text macro="container-title" prefix=". " suffix=". "/>
+          <text variable="container-title" prefix=". " suffix=". "/>
           <text macro="issued-date" prefix="(" suffix=")"/>
           <text macro="accessed-date"/>
           <text variable="URL" prefix=". "/>

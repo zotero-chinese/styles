@@ -318,7 +318,7 @@
           </group> -->
   </macro>
   <!-- 中文引用格式 -->
-  <macro name="full-contents-cn">
+  <macro name="full-contents-zh">
     <text macro="author"/>
     <text macro="title"/>
     <choose>

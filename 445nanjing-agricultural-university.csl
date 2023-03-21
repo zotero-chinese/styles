@@ -606,14 +606,6 @@
       <text macro="url-doi"/>
     </group>
   </macro>
-  <!-- 中文连续出版物的年卷期 -->
-  <macro name="year-volume-issue-zh">
-    <group delimiter="，">
-      <text macro="issued-year"/>
-      <text variable="volume"/>
-    </group>
-    <text variable="issue" prefix="（" suffix="）"/>
-  </macro>
   <!-- 英文专著和电子资源 -->
   <macro name="monograph-layout">
     <group delimiter=". ">

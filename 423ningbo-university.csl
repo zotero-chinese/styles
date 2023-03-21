@@ -74,6 +74,9 @@
       </else>
     </choose>
   </macro>
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
+  </macro>
   <macro name="publishing">
     <choose>
       <if variable="publisher">
@@ -190,7 +193,6 @@
       </else-if>
       <else>
         <text macro="publishing" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
   </macro>
