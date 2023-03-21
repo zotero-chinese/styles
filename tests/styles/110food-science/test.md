@@ -37,31 +37,31 @@ Undefined
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
-  <div class="csl-entry">[2]	MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M].</div>
-  <div class="csl-entry">[3]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译.</div>
-  <div class="csl-entry">[4]	陈登原. 国史旧闻: 第 1 卷[M].</div>
+  <div class="csl-entry">[2]	MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[3]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
+  <div class="csl-entry">[4]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
 </div>
 
 ### 全部文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	陈登原. 国史旧闻: 第 1 卷[M].</div>
-  <div class="csl-entry">[2]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译.</div>
-  <div class="csl-entry">[3]	北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M].</div>
+  <div class="csl-entry">[1]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
+  <div class="csl-entry">[2]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
+  <div class="csl-entry">[3]	北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.</div>
   <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.</div>
-  <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构[M].</div>
-  <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录[M].</div>
-  <div class="csl-entry">[7]	王夫之. 宋论[M]. 刻本.</div>
-  <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M].</div>
+  <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.</div>
+  <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
+  <div class="csl-entry">[7]	王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.</div>
+  <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.</div>
   <div class="csl-entry">[10]	杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.</div>
-  <div class="csl-entry">[11]	赵学功. 当代美国外交[M/OL].</div>
-  <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M/OL].</div>
-  <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M/OL].</div>
-  <div class="csl-entry">[14]	PEEBLES P Z. Probability, random variables, and random signal principles[M]. 4th ed.</div>
-  <div class="csl-entry">[15]	YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M].</div>
-  <div class="csl-entry">[16]	BALDOCK P. Developing early childhood services: Past, present and future[M/OL].</div>
-  <div class="csl-entry">[17]	FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed.</div>
+  <div class="csl-entry">[11]	赵学功. 当代美国外交[M/OL]. 北京: 社会科学文献出版社, 2001.</div>
+  <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M/OL]. 上海: 同济大学出版社, 2011: 5-6.</div>
+  <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M/OL]. 北京: 中国轻工业出版社, 2003.</div>
+  <div class="csl-entry">[14]	PEEBLES P Z. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[15]	YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[16]	BALDOCK P. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press, 2011: 105.</div>
+  <div class="csl-entry">[17]	FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   <div class="csl-entry">[18]	周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">[19]	程根伟. 1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
@@ -92,47 +92,47 @@ Undefined
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[D/OL]. 合肥: 中国科学技术大学, 2000: 17-18[2014-08-29]. <a href="http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa">http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa</a>. DOI:<a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>.</div>
   <div class="csl-entry">[47]	DEVERELL W, IGLER D. A companion to California history[D/OL]. New York: John Wiley &#38; Sons, 2013: 21-22[2014-06-24]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary</a>. DOI:<a href="https://doi.org/10.1002/9781444305036.ch2">10.1002/9781444305036.ch2</a>.</div>
-  <div class="csl-entry">[48]	BAKER S K, JACKSON M E. The future of resource sharing[M].</div>
-  <div class="csl-entry">[49]	CHERNIK B E. Introduction to library services for library technicians[M].</div>
-  <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕, 译.</div>
-  <div class="csl-entry">[51]	汪冰. 电子图书馆理论与实践研究[M].</div>
+  <div class="csl-entry">[48]	BAKER S K, JACKSON M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
+  <div class="csl-entry">[49]	CHERNIK B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
+  <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.</div>
+  <div class="csl-entry">[51]	汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997: 16.</div>
   <div class="csl-entry">[52]	杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.</div>
   <div class="csl-entry">[53]	DOWLER L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J/OL]. Journal of Library Administration, 1995, 21(1/2): 5-26. DOI:<a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.</div>
   <div class="csl-entry">[54]	SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
-  <div class="csl-entry">[55]	MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M].</div>
-  <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译.</div>
-  <div class="csl-entry">[57]	陈登原. 国史旧闻: 第 1 卷[M].</div>
-  <div class="csl-entry">[58]	CRANE D. Invisible college[M].</div>
+  <div class="csl-entry">[55]	MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
+  <div class="csl-entry">[57]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
+  <div class="csl-entry">[58]	CRANE D. Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.</div>
   <div class="csl-entry">[59]	STIEG M F. The information needs of historians[J/OL]. College &#38; Research Libraries, 1981, 42(6): 549-560. DOI:<a href="https://doi.org/10.5860/crl_42_06_549">10.5860/crl_42_06_549</a>.</div>
   <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 2010, 37(4): 147.</div>
   <div class="csl-entry">[61]	王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
   <div class="csl-entry">[62]	KENNEDY W J, GARRISON R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J/OL]. Sedimentology, 1975, 22: 311. DOI:<a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">10.1111/j.1365-3091.1975.tb01637.x</a>.</div>
   <div class="csl-entry">[63]	KENNEDY W J, GARRISON R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J/OL]. Lethaia, 1975, 8(4): 339-360. <a href="https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1502-3931.1975.tb00940.x">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1502-3931.1975.tb00940.x</a>. DOI:<a href="https://doi.org/10.1111/j.1502-3931.1975.tb00940.x">10.1111/j.1502-3931.1975.tb00940.x</a>.</div>
   <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
-  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本.</div>
+  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.</div>
   <div class="csl-entry">[66]	刘彻东. 中国的青年刊物: 个性特色为本仁[J]. 中国出版, 1998(5): 38-39.</div>
   <div class="csl-entry">[67]	裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
-  <div class="csl-entry">[68]	张伯伟. 全唐五代诗格汇考[M].</div>
-  <div class="csl-entry">[69]	皮锡瑞. 师伏堂日记: 第 4 册[M].</div>
-  <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 理论物理概论: 上[M].</div>
-  <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 杨慧霞, 译.</div>
-  <div class="csl-entry">[72]	康熙字典: 巳集上: 水部[M]. 同文书局影印本.</div>
-  <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷[M]. 刻本.</div>
-  <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征[M].</div>
-  <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南[M].</div>
-  <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译.</div>
-  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版.</div>
-  <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性[M/OL].</div>
-  <div class="csl-entry">[79]	CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M].</div>
-  <div class="csl-entry">[80]	INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. Names of persons: National usages for entry in catalogues[M]. 3rd ed.</div>
-  <div class="csl-entry">[81]	O’BRIEN J A. Introduction to information systems[M]. 7th ed.</div>
-  <div class="csl-entry">[82]	KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL].</div>
-  <div class="csl-entry">[83]	PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed.</div>
-  <div class="csl-entry">[84]	中国职工教育研究会. 职工教育研究论文集[M].</div>
-  <div class="csl-entry">[85]	中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M].</div>
-  <div class="csl-entry">[86]	雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集[M].</div>
-  <div class="csl-entry">[87]	陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M/OL].</div>
-  <div class="csl-entry">[88]	BABU B V, NAGAR A K, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M].</div>
+  <div class="csl-entry">[68]	张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
+  <div class="csl-entry">[69]	皮锡瑞. 师伏堂日记: 第 4 册[M]. 北京: 北京图书馆出版社, 2009: 155.</div>
+  <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 理论物理概论: 上[M]. 武汉: 武汉大学出版社, 2010: 112.</div>
+  <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.</div>
+  <div class="csl-entry">[72]	康熙字典: 巳集上: 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂, 1881.</div>
+  <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.</div>
+  <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.</div>
+  <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.</div>
+  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+  <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性[M/OL]. 北京: 化学工业出版社, 2010: 119.</div>
+  <div class="csl-entry">[79]	CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.</div>
+  <div class="csl-entry">[80]	INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
+  <div class="csl-entry">[81]	O’BRIEN J A. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin, 1994.</div>
+  <div class="csl-entry">[82]	KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
+  <div class="csl-entry">[83]	PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
+  <div class="csl-entry">[84]	中国职工教育研究会. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985.</div>
+  <div class="csl-entry">[85]	中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012.</div>
+  <div class="csl-entry">[86]	雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
+  <div class="csl-entry">[87]	陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社, 2011.</div>
+  <div class="csl-entry">[88]	BABU B V, NAGAR A K, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.</div>
   <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL]. (2013-09-30)[2014-06-24]. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a>.</div>
   <div class="csl-entry">[91]	CALKIN D, AGER A, THOMPSON M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
