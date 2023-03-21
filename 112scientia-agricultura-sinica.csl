@@ -588,7 +588,7 @@
   </citation>
   <bibliography entry-spacing="0">
     <layout suffix="." locale="en">
-      <text variable="citation-number" prefix="[" suffix="]&#x9;"/>
+      <text variable="citation-number" prefix="[" suffix="]&#x9;"/>  <!--tab间隔   -->
       <text macro="entry-layout"/>
     </layout>
     <layout>
