@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>武汉大学本科生毕业论文（设计）</summary>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -164,7 +164,7 @@
     </group>
   </macro>
   <!-- 专著主要责任者 -->
-  <macro name="container-author">
+  <macro name="container-contributors">
     <names variable="editor">
       <substitute>
         <names variable="editorial-director"/>
@@ -176,7 +176,7 @@
   <!-- 专著题名 -->
   <macro name="container-booklike">
     <group delimiter=", ">
-      <text macro="container-author"/>
+      <text macro="container-contributors"/>
       <group>
         <group delimiter=", ">
           <group delimiter=": ">
@@ -257,7 +257,7 @@
     <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
-  <macro name="publication">
+  <macro name="publisher">
     <choose>
       <if type="patent">
         <text macro="issued-date"/>
@@ -322,7 +322,7 @@
         </if>
         <else-if type="patent">
           <!-- 专利文献 -->
-          <text macro="publication"/>
+          <text macro="publisher"/>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 电子资源 -->
@@ -332,12 +332,12 @@
         <else-if type="chapter paper-conference" variable="container-title" match="any">
           <!-- 专著中的析出文献 -->
           <text macro="container-booklike"/>
-          <text macro="publication"/>
+          <text macro="publisher"/>
         </else-if>
         <else>
           <!-- 专著 -->
           <text macro="edition"/>
-          <text macro="publication"/>
+          <text macro="publisher"/>
         </else>
       </choose>
     </group>

@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -57,7 +57,7 @@
     </names>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
-  <macro name="book-volume">
+  <macro name="volume">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
@@ -75,7 +75,7 @@
     </choose>
   </macro>
   <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
+  <macro name="secondary-contributors">
     <names variable="translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
@@ -84,7 +84,7 @@
     </names>
   </macro>
   <!-- 专著题名 -->
-  <macro name="container-title">
+  <macro name="container-booklike">
     <group delimiter=", ">
       <group delimiter=": ">
         <choose>
@@ -95,7 +95,7 @@
             <text variable="event-title"/>
           </else>
         </choose>
-        <text macro="book-volume"/>
+        <text macro="volume"/>
       </group>
       <choose>
         <if variable="event-date">
@@ -106,10 +106,10 @@
     </group>
   </macro>
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
-  <macro name="periodical-publishing">
+  <macro name="container-periodical">
     <group delimiter=" ">
       <text macro="issued-year"/>
-      <text macro="container-title" text-case="title"/>
+      <text macro="container-booklike" text-case="title"/>
       <choose>
         <if type="article-newspaper">
           <text macro="issued-date"/>
@@ -144,7 +144,7 @@
     </group>
   </macro>
   <!-- 专著的出版项 -->
-  <macro name="publishing">
+  <macro name="publisher">
     <group delimiter=": ">
       <group delimiter=", ">
         <group delimiter=": ">
@@ -199,17 +199,17 @@
           <choose>
             <if variable="translator">
               <text macro="author" suffix="著"/>
-              <text macro="secondary-contributor" prefix="(" suffix="译)"/>
+              <text macro="secondary-contributors" prefix="(" suffix="译)"/>
             </if>
             <else>
               <text macro="author"/>
-              <text macro="secondary-contributor"/>
+              <text macro="secondary-contributors"/>
             </else>
           </choose>
           <text macro="issued-year"/>
           <text variable="title"/>
           <text macro="edition"/>
-          <text macro="publishing" prefix="(" suffix=")"/>
+          <text macro="publisher" prefix="(" suffix=")"/>
           <choose>
             <!-- 如果有页码则显示 -->
             <if variable="number-of-pages">
@@ -222,11 +222,11 @@
         <!-- 如果是原版书籍 -->
         <group delimiter=" ">
           <text macro="author"/>
-          <text macro="secondary-contributor"/>
+          <text macro="secondary-contributors"/>
           <text macro="issued-year"/>
           <text variable="title"/>
           <text macro="edition"/>
-          <text macro="publishing" prefix="(" suffix=")"/>
+          <text macro="publisher" prefix="(" suffix=")"/>
           <choose>
             <!-- 如果有页码则显示 -->
             <if variable="number-of-pages">
@@ -247,7 +247,7 @@
           <text macro="author"/>
           <text macro="issued-year"/>
           <text variable="genre" suffix="学位论文"/>
-          <text macro="publishing" prefix="(" suffix=")"/>
+          <text macro="publisher" prefix="(" suffix=")"/>
         </group>
       </if>
       <else>
@@ -256,7 +256,7 @@
           <text macro="author"/>
           <text macro="issued-year"/>
           <text variable="genre" suffix="学位论文"/>
-          <text macro="publishing" prefix="(" suffix=")"/>
+          <text macro="publisher" prefix="(" suffix=")"/>
         </group>
       </else>
     </choose>
@@ -312,7 +312,7 @@
     <group delimiter=". ">
       <text macro="author"/>
       <text macro="year-volume-issue"/>
-      <text macro="publishing"/>
+      <text macro="publisher"/>
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -323,14 +323,14 @@
         <text variable="original-title" suffix=" (in Chinese)"/>
         <group delimiter=" " prefix=" [" suffix="]">
           <text macro="author"/>
-          <text macro="periodical-publishing"/>
+          <text macro="container-periodical"/>
         </group>
       </if>
       <else>
         <!-- 如果是原版论文 -->
         <group delimiter=" ">
           <text macro="author"/>
-          <text macro="periodical-publishing"/>
+          <text macro="container-periodical"/>
         </group>
       </else>
     </choose>

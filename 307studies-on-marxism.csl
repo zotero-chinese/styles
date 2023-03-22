@@ -12,7 +12,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <issn>1006-5199</issn>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -70,7 +70,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="translator">
+  <macro name="secondary-contributors">
     <names variable="translator">
       <name delimiter="、" et-al-min="3" et-al-use-first="1"/>
       <label form="short"/>
@@ -132,7 +132,7 @@
       <text macro="author"/>
       <group delimiter="，">
         <text macro="title"/>
-        <text macro="translator"/>
+        <text macro="secondary-contributors"/>
         <choose>
           <if type="article-journal article-magazine article-newspaper" match="any">
             <text macro="container-periodical"/>

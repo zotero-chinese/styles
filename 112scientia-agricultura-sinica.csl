@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>0578-1752</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。</summary>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
@@ -81,7 +81,7 @@
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume"/>
+              <text macro="volume"/>
             </if>
           </choose>
           <choose>
@@ -118,7 +118,7 @@
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume"/>
+              <text macro="volume"/>
             </if>
           </choose>
           <choose>
@@ -141,7 +141,7 @@
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
-  <macro name="book-volume">
+  <macro name="volume">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
@@ -159,7 +159,7 @@
     </choose>
   </macro>
   <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
+  <macro name="secondary-contributors">
     <names variable="translator">
       <name>
         <name-part name="family" text-case="uppercase"/>
@@ -168,7 +168,7 @@
     </names>
   </macro>
   <!-- 专著主要责任者 -->
-  <macro name="container-author">
+  <macro name="container-contributors">
     <names variable="editor">
       <name>
         <name-part name="family" text-case="uppercase"/>
@@ -192,7 +192,7 @@
             <text variable="event-title"/>
           </else>
         </choose>
-        <text macro="book-volume"/>
+        <text macro="volume"/>
       </group>
       <choose>
         <if variable="event-date">
@@ -214,7 +214,7 @@
             <text variable="event-title"/>
           </else>
         </choose>
-        <text macro="book-volume"/>
+        <text macro="volume"/>
       </group>
       <choose>
         <if variable="event-date">
@@ -315,7 +315,7 @@
     <text variable="issue" form="short" prefix="(" suffix=")"/>
   </macro>
   <!-- 专著的出版项 -->
-  <macro name="publishing">
+  <macro name="publisher">
     <group delimiter=": ">
       <group delimiter=", ">
         <group delimiter=": ">
@@ -347,7 +347,7 @@
     <!-- <text macro="accessed-date"/> -->
   </macro>
   <!-- 专著的出版项 用于翻译-->
-  <macro name="publishing-zh">
+  <macro name="publisher-zh">
     <group delimiter=": ">
       <group delimiter=", ">
         <group delimiter=": ">
@@ -410,7 +410,7 @@
     <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
-  <macro name="url-doi">
+  <macro name="access">
     <group delimiter=". ">
       <!-- <text variable="URL"/> -->
       <text variable="DOI" prefix="doi: "/>
@@ -421,10 +421,10 @@
     <group delimiter=". ">
       <text macro="author"/>
       <text macro="title"/>
-      <text macro="secondary-contributor"/>
+      <text macro="secondary-contributors"/>
       <text macro="edition"/>
-      <text macro="publishing"/>
-      <!-- <text macro="url-doi"/> -->
+      <text macro="publisher"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 专著中的析出文献 -->
@@ -434,16 +434,16 @@
       <group delimiter="//">
         <group delimiter=". ">
           <text macro="title"/>
-          <text macro="secondary-contributor"/>
+          <text macro="secondary-contributors"/>
         </group>
         <group delimiter=". ">
-          <text macro="container-author"/>
+          <text macro="container-contributors"/>
           <text macro="container-booklike"/>
         </group>
       </group>
       <text macro="edition"/>
-      <text macro="publishing"/>
-      <!-- <text macro="url-doi"/> -->
+      <text macro="publisher"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 连续出版物 -->
@@ -452,8 +452,8 @@
       <text macro="author"/>
       <text macro="title"/>
       <text macro="year-volume-issue"/>
-      <text macro="publishing"/>
-      <!-- <text macro="url-doi"/> -->
+      <text macro="publisher"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -462,7 +462,7 @@
       <text macro="author"/>
       <text macro="title"/>
       <text macro="container-periodical"/>
-      <!-- <text macro="url-doi"/> -->
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 专利文献 -->
@@ -474,7 +474,7 @@
         <text macro="issued-date"/>
         <!-- <text macro="accessed-date"/> -->
       </group>
-      <!-- <text macro="url-doi"/> -->
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 原文参考文献表格式 -->
@@ -502,10 +502,10 @@
     <group delimiter=". ">
       <text macro="author-zh"/>
       <text macro="title-zh"/>
-      <text macro="secondary-contributor"/>
+      <text macro="secondary-contributors"/>
       <text macro="edition"/>
-      <text macro="publishing-zh"/>
-      <!-- <text macro="url-doi"/> -->
+      <text macro="publisher-zh"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 翻译的专著中的析出文献 -->
@@ -515,16 +515,16 @@
       <group delimiter="//">
         <group delimiter=". ">
           <text macro="title-zh"/>
-          <text macro="secondary-contributor"/>
+          <text macro="secondary-contributors"/>
         </group>
         <group delimiter=". ">
-          <text macro="container-author"/>
+          <text macro="container-contributors"/>
           <text macro="container-booklike-zh"/>
         </group>
       </group>
       <text macro="edition"/>
-      <text macro="publishing"/>
-      <!-- <text macro="url-doi"/> -->
+      <text macro="publisher"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 连续出版物 -->
@@ -533,8 +533,8 @@
       <text macro="author-zh"/>
       <text macro="title-zh"/>
       <text macro="year-volume-issue"/>
-      <text macro="publishing-zh"/>
-      <!-- <text macro="url-doi"/> -->
+      <text macro="publisher-zh"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -543,7 +543,7 @@
       <text macro="author-zh"/>
       <text macro="title-zh"/>
       <text macro="container-periodical-zh"/>
-      <!-- <text macro="url-doi"/> -->
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 专利文献 -->
@@ -555,7 +555,7 @@
         <text macro="issued-date"/>
         <!-- <text macro="accessed-date"/> -->
       </group>
-      <!-- <text macro="url-doi"/> -->
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <!-- 翻译的参考文献表格式 -->

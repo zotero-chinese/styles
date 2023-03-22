@@ -94,7 +94,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-title">
+  <macro name="container-booklike">
     <choose>
       <if type="chapter paper-conference" match="any">
         <text term="in" text-case="capitalize-first" suffix=" "/>
@@ -174,7 +174,7 @@
       <else-if type="chapter" match="any">
         <group delimiter=". ">
           <group>
-            <text macro="container-title"/>
+            <text macro="container-booklike"/>
             <text macro="editor" prefix=", "/>
             <!-- <text macro="locator"/> -->
           </group>
@@ -194,12 +194,12 @@
         </group>
       </else-if>
       <else-if type="article-journal" match="any">
-        <text macro="container-title"/>
+        <text macro="container-booklike"/>
         <text macro="locator"/>
       </else-if>
       <else-if type="article-magazine article-newspaper" match="any">
         <group delimiter=", ">
-          <text macro="container-title"/>
+          <text macro="container-booklike"/>
           <text macro="locator"/>
         </group>
       </else-if>
@@ -220,7 +220,7 @@
       </else-if>
       <else-if type="report" match="any">
         <group delimiter=". ">
-          <text macro="container-title"/>
+          <text macro="container-booklike"/>
           <group delimiter=", ">
             <text variable="number" font-style="italic"/>
             <text variable="publisher"/>

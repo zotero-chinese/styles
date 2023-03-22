@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；</summary>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -56,7 +56,7 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
@@ -73,7 +73,7 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
@@ -92,11 +92,11 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
-  <macro name="anonymous">
+  <macro name="anon">
     <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
   </macro>
   <!-- 题名 -->
@@ -107,7 +107,7 @@
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume"/>
+              <text macro="volume"/>
             </if>
           </choose>
           <choose>
@@ -131,7 +131,7 @@
     <text macro="type-code" prefix="[" suffix="]"/>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
-  <macro name="book-volume">
+  <macro name="volume">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
@@ -213,14 +213,14 @@
     </group>
   </macro>
   <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
+  <macro name="secondary-contributors">
     <names variable="translator">
       <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
   <!-- 专著主要责任者 -->
-  <macro name="container-author">
+  <macro name="container-contributors">
     <names variable="editor">
       <name/>
       <substitute>
@@ -242,7 +242,7 @@
             <text variable="event-title"/>
           </else>
         </choose>
-        <text macro="book-volume"/>
+        <text macro="volume"/>
       </group>
       <choose>
         <if variable="event-date">
@@ -301,7 +301,7 @@
     <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 专著的出版项 -->
-  <macro name="publishing">
+  <macro name="publisher">
     <group delimiter=": ">
       <group delimiter=", ">
         <group delimiter=": ">
@@ -347,7 +347,7 @@
     <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
-  <macro name="url-doi">
+  <macro name="access">
     <group delimiter=". ">
       <text variable="URL"/>
       <text variable="DOI" prefix="DOI:"/>
@@ -365,10 +365,10 @@
     <group delimiter=". ">
       <text macro="author-date"/>
       <text macro="title"/>
-      <text macro="secondary-contributor"/>
+      <text macro="secondary-contributors"/>
       <text macro="edition"/>
-      <text macro="publishing"/>
-      <text macro="url-doi"/>
+      <text macro="publisher"/>
+      <text macro="access"/>
     </group>
   </macro>
   <!-- 专著中的析出文献 -->
@@ -378,16 +378,16 @@
       <group delimiter="//">
         <group delimiter=". ">
           <text macro="title"/>
-          <text macro="secondary-contributor"/>
+          <text macro="secondary-contributors"/>
         </group>
         <group delimiter=". ">
-          <text macro="container-author"/>
+          <text macro="container-contributors"/>
           <text macro="container-booklike"/>
         </group>
       </group>
       <text macro="edition"/>
-      <text macro="publishing"/>
-      <text macro="url-doi"/>
+      <text macro="publisher"/>
+      <text macro="access"/>
     </group>
   </macro>
   <!-- 连续出版物 -->
@@ -396,8 +396,8 @@
       <text macro="author-date"/>
       <text macro="title"/>
       <text macro="year-volume-issue"/>
-      <text macro="publishing"/>
-      <text macro="url-doi"/>
+      <text macro="publisher"/>
+      <text macro="access"/>
     </group>
   </macro>
   <!-- 连续出版物中的析出文献 -->
@@ -406,7 +406,7 @@
       <text macro="author-date"/>
       <text macro="title"/>
       <text macro="container-periodical"/>
-      <text macro="url-doi"/>
+      <text macro="access"/>
     </group>
   </macro>
   <!-- 专利文献 -->
@@ -418,7 +418,7 @@
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
       </group>
-      <text macro="url-doi"/>
+      <text macro="access"/>
     </group>
   </macro>
   <!-- 参考文献表格式 -->

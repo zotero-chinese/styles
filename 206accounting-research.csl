@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -55,7 +55,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-intext-long">
+  <macro name="author-intext-zh">
     <choose>
       <if variable="author">
         <names variable="author">
@@ -75,7 +75,7 @@
       </if>
     </choose>
   </macro>
-  <macro name="container-author">
+  <macro name="container-contributors">
     <names variable="container-author">
       <name/>
     </names>
@@ -109,7 +109,7 @@
       <text variable="page"/>
     </group>
   </macro>
-  <macro name="publishing">
+  <macro name="publisher">
     <choose>
       <if variable="publisher">
         <group delimiter=": ">
@@ -122,7 +122,7 @@
       </if>
     </choose>
   </macro>
-  <macro name="issue-date-year">
+  <macro name="issued-year">
     <choose>
       <if variable="issued">
         <date variable="issued" date-parts="year" form="numeric"/>
@@ -153,10 +153,10 @@
       <date-part name="day" form="numeric-leading-zeros"/>
     </date>
   </macro>
-  <macro name="bib-full">
+  <macro name="entry-layout">
     <group delimiter=". ">
       <text macro="author"/>
-      <text macro="issue-date-year"/>
+      <text macro="issued-year"/>
       <text macro="title"/>
     </group>
     <choose>
@@ -165,7 +165,7 @@
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
+            <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
           </if>
           <else>
@@ -173,7 +173,7 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing"/>
+        <text macro="publisher"/>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
@@ -184,7 +184,7 @@
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
-              <text macro="publishing"/>
+              <text macro="publisher"/>
             </else>
           </choose>
         </group>
@@ -193,16 +193,16 @@
         <text macro="issued-date" prefix=". "/>
       </else-if>
       <else>
-        <text macro="publishing" prefix=". "/>
+        <text macro="publisher" prefix=". "/>
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
     <text macro="accessed-date"/>
   </macro>
-  <macro name="bib-full-zh">
+  <macro name="entry-layout-zh">
     <group delimiter=". ">
       <text macro="author"/>
-      <text macro="issue-date-year"/>
+      <text macro="issued-year"/>
       <text macro="title"/>
     </group>
     <choose>
@@ -211,7 +211,7 @@
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
+            <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
           </if>
           <else>
@@ -219,7 +219,7 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing"/>
+        <text macro="publisher"/>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
@@ -230,7 +230,7 @@
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
-              <text macro="publishing"/>
+              <text macro="publisher"/>
             </else>
           </choose>
         </group>
@@ -239,7 +239,7 @@
         <text macro="issued-date" prefix=". "/>
       </else-if>
       <else>
-        <text macro="publishing" prefix=". "/>
+        <text macro="publisher" prefix=". "/>
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
@@ -248,12 +248,12 @@
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year"/>
+      <key macro="issued-year"/>
     </sort>
     <layout locale="en" prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext"/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
           <text variable="locator"/>
@@ -262,8 +262,8 @@
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <text macro="author-intext-long"/>
-        <text macro="issue-date-year"/>
+        <text macro="author-intext-zh"/>
+        <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
           <text variable="locator"/>
@@ -274,13 +274,13 @@
   <bibliography entry-spacing="0" et-al-min="400" et-al-use-first="400" hanging-indent="true">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year"/>
+      <key macro="issued-year"/>
     </sort>
     <layout suffix="." locale="en">
-      <text macro="bib-full"/>
+      <text macro="entry-layout"/>
     </layout>
     <layout suffix=".">
-      <text macro="bib-full-zh"/>
+      <text macro="entry-layout-zh"/>
     </layout>
   </bibliography>
 </style>
