@@ -12,7 +12,7 @@
     <category citation-format="author-date"/>
     <category field="engineering"/>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2022-10-29T19:25:00+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -99,18 +99,14 @@
       </choose>
     </group>
   </macro>
-  <macro name="edition">
-    <choose>
-      <if is-numeric="edition">
-        <group delimiter=" ">
-          <number variable="edition" form="ordinal"/>
-          <label variable="edition"/>
-        </group>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
+  <macro name="editor">
+    <names variable="editor">
+      <substitute>
+        <names variable="editorial-director"/>
+        <names variable="collection-editor"/>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
   </macro>
   <macro name="container">
     <choose>
@@ -164,14 +160,18 @@
       </else>
     </choose>
   </macro>
-  <macro name="editor">
-    <names variable="editor">
-      <substitute>
-        <names variable="editorial-director"/>
-        <names variable="collection-editor"/>
-        <names variable="container-author"/>
-      </substitute>
-    </names>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <label variable="edition"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
   </macro>
   <macro name="publisher">
     <group delimiter=", ">
@@ -181,6 +181,19 @@
       </group>
       <text macro="page"/>
     </group>
+  </macro>
+  <macro name="locator">
+    <choose>
+      <if is-numeric="locator">
+        <group delimiter=" ">
+          <label variable="locator" form="short"/>
+          <number variable="locator"/>
+        </group>
+      </if>
+      <else>
+        <text variable="locator"/>
+      </else>
+    </choose>
   </macro>
   <macro name="publisher-translation">
     <group delimiter=", ">
@@ -201,19 +214,6 @@
       </if>
       <else>
         <text variable="page"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="locator">
-    <choose>
-      <if is-numeric="locator">
-        <group delimiter=" ">
-          <label variable="locator" form="short"/>
-          <number variable="locator"/>
-        </group>
-      </if>
-      <else>
-        <text variable="locator"/>
       </else>
     </choose>
   </macro>

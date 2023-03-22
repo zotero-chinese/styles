@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>comparative economic and social systems author-date style</summary>
-    <updated>2023-03-03T23:20:17+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -24,15 +24,6 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <!-- 引用日期 -->
-  <macro name="accessed-date">
-    <choose>
-      <!-- 仅纯电子资源显示引用日期 -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
-        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
-      </if>
-    </choose>
-  </macro>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -56,16 +47,6 @@
         <text term="anonymous"/>
       </else>
     </choose>
-  </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
-    <names variable="translator">
-      <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
-      </name>
-      <label form="short" prefix=", "/>
-    </names>
   </macro>
   <macro name="author-intext">
     <choose>
@@ -91,9 +72,33 @@
       </else>
     </choose>
   </macro>
+  <macro name="title">
+    <text variable="title"/>
+    <!-- <text variable="number" prefix=": "/> -->
+  </macro>
+  <macro name="title-zh">
+    <text variable="title"/>
+    <!-- <text variable="number" prefix=": "/> -->
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributor">
+    <names variable="translator">
+      <name>
+        <name-part name="family"/>
+        <name-part name="given"/>
+      </name>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
   <macro name="container-author">
     <names variable="container-author">
       <name/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor translator">
+      <name/>
+      <label form="short" prefix=", "/>
     </names>
   </macro>
   <!-- 版本项 -->
@@ -104,50 +109,6 @@
           <text variable="edition"/>
           <label variable="edition"/>
         </group>
-      </if>
-    </choose>
-  </macro>
-  <macro name="editor">
-    <names variable="editor translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <!-- 出版年 -->
-  <macro name="issued-date">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="-">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
-        </date>
-      </if>
-      <else>
-        <text term="no date"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issue-date-year">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
-      </if>
-      <else>
-        <text term="no date"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publishing">
-    <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <group delimiter=", ">
-            <text variable="publisher"/>
-          </group>
-        </group>
-        <text variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -167,13 +128,52 @@
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
   </macro>
-  <macro name="title">
-    <text variable="title"/>
-    <!-- <text variable="number" prefix=": "/> -->
+  <macro name="publishing">
+    <choose>
+      <if variable="publisher">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <group delimiter=", ">
+            <text variable="publisher"/>
+          </group>
+        </group>
+        <text variable="page" prefix=": "/>
+      </if>
+    </choose>
   </macro>
-  <macro name="title-zh">
-    <text variable="title"/>
-    <!-- <text variable="number" prefix=": "/> -->
+  <macro name="issue-date-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" date-parts="year" form="numeric"/>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 出版年 -->
+  <macro name="issued-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" delimiter="-">
+          <date-part name="year"/>
+          <date-part name="month" form="numeric-leading-zeros"/>
+          <date-part name="day" form="numeric-leading-zeros"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 引用日期 -->
+  <macro name="accessed-date">
+    <choose>
+      <!-- 仅纯电子资源显示引用日期 -->
+      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <!-- 英文文末显示设置 -->
   <macro name="bib-full-en">

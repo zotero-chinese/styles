@@ -22,7 +22,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2022-12-02T17:49:33+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -35,13 +35,6 @@
       </term>
     </terms>
   </locale>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
-    </date>
-  </macro>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -90,92 +83,29 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-author">
-    <names variable="container-author">
-      <name/>
-    </names>
-  </macro>
-  <macro name="edition">
-    <choose>
-      <if variable="edition">
-        <group delimiter=" ">
-          <text variable="edition"/>
-          <label variable="edition"/>
-        </group>
-      </if>
-    </choose>
-  </macro>
-  <macro name="editor">
-    <names variable="editor translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <macro name="issued-date">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="–">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
-        </date>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issue-date-year">
-    <choose>
-      <if variable="issued">
-        <date date-parts="year" form="numeric" variable="issued"/>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publishing">
-    <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <group delimiter=", ">
-            <text variable="publisher" suffix=", "/>
-          </group>
-        </group>
-        <date date-parts="year" form="text" variable="issued" prefix=" " suffix=". "/>
-        <text variable="page"/>
-      </if>
-    </choose>
-  </macro>
-  <macro name="serial-information">
-    <group delimiter=", ">
-      <text variable="volume" prefix=", "/>
+  <macro name="title">
+    <text variable="title" text-case="capitalize-first" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
+    <text variable="number" prefix=": "/>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
+      <choose>
+        <if variable="URL">
+          <text/>
+        </if>
+      </choose>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-    <text variable="page" prefix=": "/>
   </macro>
-  <macro name="publishing-zh">
-    <choose>
-      <if variable="publisher">
-        <group delimiter="：">
-          <text variable="publisher-place"/>
-          <group delimiter="，">
-            <text variable="publisher" suffix="，"/>
-          </group>
-        </group>
-        <date date-parts="year" form="numeric" variable="issued" suffix=". "/>
-        <text variable="page"/>
-      </if>
-    </choose>
-  </macro>
-  <macro name="serial-information-zh">
-    <group delimiter="，">
-      <text variable="volume" prefix="，"/>
+  <macro name="title-zh">
+    <text variable="title" font-style="normal"/>
+    <text variable="number" prefix="："/>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
+      <choose>
+        <if variable="URL">
+          <text/>
+        </if>
+      </choose>
     </group>
-    <text variable="issue" prefix="（" suffix="）"/>
-    <text variable="page" prefix="："/>
   </macro>
   <macro name="type-code">
     <choose>
@@ -217,35 +147,105 @@
       </else>
     </choose>
   </macro>
-  <macro name="title">
-    <text variable="title" text-case="capitalize-first" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
-    <text variable="number" prefix=": "/>
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <choose>
-        <if variable="URL">
-          <text/>
-        </if>
-      </choose>
-    </group>
+  <macro name="container-author">
+    <names variable="container-author">
+      <name/>
+    </names>
   </macro>
-  <macro name="title-zh">
-    <text variable="title" font-style="normal"/>
-    <text variable="number" prefix="："/>
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <choose>
-        <if variable="URL">
-          <text/>
-        </if>
-      </choose>
-    </group>
+  <macro name="editor">
+    <names variable="editor translator">
+      <name/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="container-title-en">
+    <text variable="container-title" font-style="normal"/>
   </macro>
   <macro name="container-title-zh">
     <text variable="container-title"/>
   </macro>
-  <macro name="container-title-en">
-    <text variable="container-title" font-style="normal"/>
+  <macro name="edition">
+    <choose>
+      <if variable="edition">
+        <group delimiter=" ">
+          <text variable="edition"/>
+          <label variable="edition"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <macro name="serial-information">
+    <group delimiter=", ">
+      <text variable="volume" prefix=", "/>
+    </group>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
+  </macro>
+  <macro name="serial-information-zh">
+    <group delimiter="，">
+      <text variable="volume" prefix="，"/>
+    </group>
+    <text variable="issue" prefix="（" suffix="）"/>
+    <text variable="page" prefix="："/>
+  </macro>
+  <macro name="publishing">
+    <choose>
+      <if variable="publisher">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <group delimiter=", ">
+            <text variable="publisher" suffix=", "/>
+          </group>
+        </group>
+        <date date-parts="year" form="text" variable="issued" prefix=" " suffix=". "/>
+        <text variable="page"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="publishing-zh">
+    <choose>
+      <if variable="publisher">
+        <group delimiter="：">
+          <text variable="publisher-place"/>
+          <group delimiter="，">
+            <text variable="publisher" suffix="，"/>
+          </group>
+        </group>
+        <date date-parts="year" form="numeric" variable="issued" suffix=". "/>
+        <text variable="page"/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issue-date-year">
+    <choose>
+      <if variable="issued">
+        <date date-parts="year" form="numeric" variable="issued"/>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" delimiter="–">
+          <date-part name="year"/>
+          <date-part name="month" form="numeric-leading-zeros"/>
+          <date-part name="day" form="numeric-leading-zeros"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="accessed-date">
+    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+      <date-part name="year"/>
+      <date-part name="month" form="numeric-leading-zeros"/>
+      <date-part name="day" form="numeric-leading-zeros"/>
+    </date>
   </macro>
   <macro name="bib-full">
     <text macro="author" suffix=". "/>

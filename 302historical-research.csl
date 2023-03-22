@@ -14,7 +14,7 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <updated>2022-12-02T17:49:33+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -33,19 +33,17 @@
       <!-- <term name="container-author" form="verb-short">著</term> -->
     </terms>
   </locale>
-  <macro name="accessed-date-en">
-    <date variable="accessed" delimiter="">
-      <date-part name="month" form="short" suffix=" "/>
-      <date-part name="day" suffix=", "/>
-      <date-part name="year"/>
-    </date>
-  </macro>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="">
-      <date-part name="year" suffix="年"/>
-      <date-part name="month" form="numeric" suffix="月"/>
-      <date-part name="day" suffix="日"/>
-    </date>
+  <macro name="author">
+    <choose>
+      <if variable="author">
+        <names variable="author">
+          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never"/>
+        </names>
+      </if>
+      <!-- <else>
+        <text term="anonymous"/>
+      </else> -->
+    </choose>
   </macro>
   <macro name="author-en">
     <choose>
@@ -61,17 +59,17 @@
       </else> -->
     </choose>
   </macro>
-  <macro name="author">
-    <choose>
-      <if variable="author">
-        <names variable="author">
-          <name initialize="false" delimiter="、" delimiter-precedes-et-al="never"/>
-        </names>
-      </if>
-      <!-- <else>
-        <text term="anonymous"/>
-      </else> -->
-    </choose>
+  <macro name="title">
+    <text variable="title" text-case="title" prefix="《" suffix="》"/>
+  </macro>
+  <macro name="title-en">
+    <text variable="title" text-case="title"/>
+  </macro>
+  <macro name="container-author">
+    <names variable="container-author reviewed-author">
+      <name/>
+      <!-- <label form="verb-short" prefix=", "/> -->
+    </names>
   </macro>
   <macro name="container-author-en">
     <names variable="container-author reviewed-author">
@@ -81,10 +79,12 @@
       <!-- <label form="verb-short" prefix=", "/> -->
     </names>
   </macro>
-  <macro name="container-author">
-    <names variable="container-author reviewed-author">
-      <name/>
-      <!-- <label form="verb-short" prefix=", "/> -->
+  <macro name="editor">
+    <names variable="editor translator">
+      <name>
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <label form="verb-short" prefix=", "/>
     </names>
   </macro>
   <macro name="edition">
@@ -97,64 +97,41 @@
       </if>
     </choose>
   </macro>
-  <macro name="editor">
-    <names variable="editor translator">
-      <name>
-        <name-part name="family" text-case="uppercase"/>
-      </name>
-      <label form="verb-short" prefix=", "/>
-    </names>
+  <macro name="serial-information">
+    <group delimiter="">
+      <text macro="issue-date-year" suffix="年"/>
+      <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
+      <text variable="issue" suffix="期"/>
+      <text variable="page" prefix=", " suffix="页"/>
+    </group>
   </macro>
-  <macro name="issued-date-en">
-    <!-- 英文年月日 -->
-    <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="">
-          <date-part name="month" form="short" suffix=" "/>
-          <date-part name="day" suffix=", "/>
-          <date-part name="year"/>
-          <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
-        </date>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
+  <macro name="serial-information-en">
+    <group delimiter=" " prefix=" ">
+      <text variable="page-first" suffix=", "/>
+      <text variable="page"/>
+      <text macro="issue-date-year" prefix="(" suffix=")"/>
+    </group>
+    <!-- <text variable="issue" prefix="第" suffix="期"/>删除期 -->
   </macro>
-  <macro name="issued-date">
-    <!-- 中文年月日 -->
+  <macro name="publishing">
     <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="">
-          <date-part name="year" suffix="年"/>
-          <date-part name="month" form="numeric" suffix="月"/>
-          <date-part name="day" suffix="日"/>
-          <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
-        </date>
+      <if variable="publisher">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <group delimiter="">
+            <text variable="publisher"/>
+            <text macro="issue-date-year" prefix="，" suffix="年"/>
+          </group>
+        </group>
+        <choose>
+          <if variable="locator">
+            <text variable="locator" prefix=": "/>
+          </if>
+          <else>
+            <text variable="page" prefix=": "/>
+          </else>
+        </choose>
       </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issue-date-year-en">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
-      </if>
-      <else>
-        <text term="no date" prefix="(" suffix=")"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issue-date-year">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
     </choose>
   </macro>
   <macro name="publishing-en">
@@ -178,48 +155,71 @@
       </if>
     </choose>
   </macro>
-  <macro name="publishing">
+  <macro name="issue-date-year">
     <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <group delimiter="">
-            <text variable="publisher"/>
-            <text macro="issue-date-year" prefix="，" suffix="年"/>
-          </group>
-        </group>
-        <choose>
-          <if variable="locator">
-            <text variable="locator" prefix=": "/>
-          </if>
-          <else>
-            <text variable="page" prefix=": "/>
-          </else>
-        </choose>
+      <if variable="issued">
+        <date variable="issued" date-parts="year" form="numeric"/>
       </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
     </choose>
   </macro>
-  <macro name="serial-information-en">
-    <group delimiter=" " prefix=" ">
-      <text variable="page-first" suffix=", "/>
-      <text variable="page"/>
-      <text macro="issue-date-year" prefix="(" suffix=")"/>
-    </group>
-    <!-- <text variable="issue" prefix="第" suffix="期"/>删除期 -->
+  <macro name="issue-date-year-en">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" date-parts="year" form="numeric"/>
+      </if>
+      <else>
+        <text term="no date" prefix="(" suffix=")"/>
+      </else>
+    </choose>
   </macro>
-  <macro name="serial-information">
-    <group delimiter="">
-      <text macro="issue-date-year" suffix="年"/>
-      <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
-      <text variable="issue" suffix="期"/>
-      <text variable="page" prefix=", " suffix="页"/>
-    </group>
+  <macro name="issued-date">
+    <!-- 中文年月日 -->
+    <choose>
+      <if variable="issued">
+        <date variable="issued" delimiter="">
+          <date-part name="year" suffix="年"/>
+          <date-part name="month" form="numeric" suffix="月"/>
+          <date-part name="day" suffix="日"/>
+          <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
+        </date>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
   </macro>
-  <macro name="title-en">
-    <text variable="title" text-case="title"/>
+  <macro name="issued-date-en">
+    <!-- 英文年月日 -->
+    <choose>
+      <if variable="issued">
+        <date variable="issued" delimiter="">
+          <date-part name="month" form="short" suffix=" "/>
+          <date-part name="day" suffix=", "/>
+          <date-part name="year"/>
+          <!-- <date-part name="day" form="numeric-leading-zeros"/> -->
+        </date>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
   </macro>
-  <macro name="title">
-    <text variable="title" text-case="title" prefix="《" suffix="》"/>
+  <macro name="accessed-date">
+    <date variable="accessed" delimiter="">
+      <date-part name="year" suffix="年"/>
+      <date-part name="month" form="numeric" suffix="月"/>
+      <date-part name="day" suffix="日"/>
+    </date>
+  </macro>
+  <macro name="accessed-date-en">
+    <date variable="accessed" delimiter="">
+      <date-part name="month" form="short" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year"/>
+    </date>
   </macro>
   <!-- 英文引用格式 -->
   <macro name="full-contents-en">

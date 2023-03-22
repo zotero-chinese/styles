@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="sociology"/>
-    <updated>2022-08-13T22:24:10+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -36,18 +36,6 @@
       </term>
     </terms>
   </locale>
-  <!-- 访问路径 -->
-  <macro name="access">
-    <choose>
-      <if type="post webpage" match="any">
-        <text variable="URL"/>
-      </if>
-    </choose>
-  </macro>
-  <!-- 佚名 -->
-  <macro name="anonymous">
-    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
-  </macro>
   <!-- 主要责任者 -->
   <macro name="author-en">
     <names variable="author">
@@ -112,6 +100,65 @@
         </choose>
         <text macro="anonymous"/>
       </substitute>
+    </names>
+  </macro>
+  <!-- 佚名 -->
+  <macro name="anonymous">
+    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
+  </macro>
+  <!-- 出版年 -->
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year" range-delimiter="-"/>
+    </date>
+  </macro>
+  <!-- 题名 -->
+  <macro name="title-en">
+    <choose>
+      <if type="post webpage" match="any">
+        <text variable="title" font-style="italic" text-case="title"/>
+      </if>
+      <else-if variable="container-title">
+        <text variable="title" quotes="true" text-case="title"/>
+      </else-if>
+      <else>
+        <text variable="title" font-style="italic" text-case="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-zh">
+    <text variable="title" prefix="《" suffix="》"/>
+    <choose>
+      <if variable="container-title" match="none">
+        <text macro="edition-zh"/>
+        <text macro="volume-zh"/>
+      </if>
+    </choose>
+  </macro>
+  <!-- 卷号 -->
+  <macro name="volume-zh">
+    <choose>
+      <if is-numeric="volume">
+        <text value="第"/>
+        <text variable="volume"/>
+        <label variable="volume"/>
+      </if>
+      <else>
+        <text variable="volume"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributor-en">
+    <names variable="translator">
+      <name and="symbol" delimiter-precedes-last="never"/>
+      <label form="short"/>
+    </names>
+  </macro>
+  <macro name="secondary-contributor-zh">
+    <names variable="translator">
+      <name delimiter="、"/>
+      <label form="short"/>
     </names>
   </macro>
   <!-- 期刊或专著题名 -->
@@ -205,12 +252,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 出版年 -->
-  <macro name="date">
-    <date variable="issued">
-      <date-part name="year" range-delimiter="-"/>
-    </date>
-  </macro>
   <!-- 版本 -->
   <macro name="edition-en">
     <choose>
@@ -280,53 +321,12 @@
       </else-if>
     </choose>
   </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributor-en">
-    <names variable="translator">
-      <name and="symbol" delimiter-precedes-last="never"/>
-      <label form="short"/>
-    </names>
-  </macro>
-  <macro name="secondary-contributor-zh">
-    <names variable="translator">
-      <name delimiter="、"/>
-      <label form="short"/>
-    </names>
-  </macro>
-  <!-- 题名 -->
-  <macro name="title-en">
+  <!-- 访问路径 -->
+  <macro name="access">
     <choose>
       <if type="post webpage" match="any">
-        <text variable="title" font-style="italic" text-case="title"/>
+        <text variable="URL"/>
       </if>
-      <else-if variable="container-title">
-        <text variable="title" quotes="true" text-case="title"/>
-      </else-if>
-      <else>
-        <text variable="title" font-style="italic" text-case="title"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="title-zh">
-    <text variable="title" prefix="《" suffix="》"/>
-    <choose>
-      <if variable="container-title" match="none">
-        <text macro="edition-zh"/>
-        <text macro="volume-zh"/>
-      </if>
-    </choose>
-  </macro>
-  <!-- 卷号 -->
-  <macro name="volume-zh">
-    <choose>
-      <if is-numeric="volume">
-        <text value="第"/>
-        <text variable="volume"/>
-        <label variable="volume"/>
-      </if>
-      <else>
-        <text variable="volume"/>
-      </else>
     </choose>
   </macro>
   <!-- 参考文献表格式 -->

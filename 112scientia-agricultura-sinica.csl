@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>0578-1752</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。</summary>
-    <updated>2023-03-11T19:12:20+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
@@ -42,10 +42,6 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <!-- 引用日期 -->
-  <macro name="accessed-date">
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
-  </macro>
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
@@ -77,6 +73,73 @@
       </else>
     </choose>
   </macro>
+  <!-- 题名 -->
+  <macro name="title">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="title"/>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter paper-conference" match="none">
+              <text macro="book-volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation patent regulation report standard" match="any">
+              <text variable="number"/>
+            </if>
+          </choose>
+        </group>
+      </group>
+      <choose>
+        <if variable="container-title" type="chapter paper-conference" match="none">
+          <choose>
+            <if variable="event-date">
+              <text variable="event-place"/>
+              <date variable="event-date" form="text"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <!-- 翻译的题目 -->
+  <macro name="title-zh">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <choose>
+          <if variable="original-title">
+            <text variable="original-title"/>
+          </if>
+          <else>
+            <text variable="title"/>
+          </else>
+        </choose>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter paper-conference" match="none">
+              <text macro="book-volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation patent regulation report standard" match="any">
+              <text variable="number"/>
+            </if>
+          </choose>
+        </group>
+      </group>
+      <choose>
+        <if variable="container-title" type="chapter paper-conference" match="none">
+          <choose>
+            <if variable="event-date">
+              <text variable="event-place"/>
+              <date variable="event-date" form="text"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+    </group>
+  </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="book-volume">
     <choose>
@@ -94,6 +157,15 @@
         </choose>
       </if>
     </choose>
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributor">
+    <names variable="translator">
+      <name>
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <label form="short" prefix=", "/>
+    </names>
   </macro>
   <!-- 专著主要责任者 -->
   <macro name="container-author">
@@ -234,24 +306,13 @@
       </else>
     </choose>
   </macro>
-  <!-- 电子资源的更新或修改日期 -->
-  <macro name="issued-date">
-    <date variable="issued" form="numeric"/>
-  </macro>
-  <!-- 出版年 -->
-  <macro name="issued-year">
-    <choose>
-      <if is-uncertain-date="issued">
-        <date variable="issued" prefix="[" suffix="]">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </if>
-      <else>
-        <date variable="issued">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </else>
-    </choose>
+  <!-- 连续出版物的年卷期 -->
+  <macro name="year-volume-issue">
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
+    </group>
+    <text variable="issue" form="short" prefix="(" suffix=")"/>
   </macro>
   <!-- 专著的出版项 -->
   <macro name="publishing">
@@ -325,81 +386,28 @@
     </choose>
     <!-- <text macro="accessed-date"/> -->
   </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
-    <names variable="translator">
-      <name>
-        <name-part name="family" text-case="uppercase"/>
-      </name>
-      <label form="short" prefix=", "/>
-    </names>
+  <!-- 出版年 -->
+  <macro name="issued-year">
+    <choose>
+      <if is-uncertain-date="issued">
+        <date variable="issued" prefix="[" suffix="]">
+          <date-part name="year" range-delimiter="-"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year" range-delimiter="-"/>
+        </date>
+      </else>
+    </choose>
   </macro>
-  <!-- 题名 -->
-  <macro name="title">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <text variable="title"/>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <text variable="number"/>
-            </if>
-          </choose>
-        </group>
-      </group>
-      <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
+  <!-- 电子资源的更新或修改日期 -->
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
   </macro>
-  <!-- 翻译的题目 -->
-  <macro name="title-zh">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <choose>
-          <if variable="original-title">
-            <text variable="original-title"/>
-          </if>
-          <else>
-            <text variable="title"/>
-          </else>
-        </choose>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <text variable="number"/>
-            </if>
-          </choose>
-        </group>
-      </group>
-      <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
+  <!-- 引用日期 -->
+  <macro name="accessed-date">
+    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="url-doi">
@@ -407,14 +415,6 @@
       <!-- <text variable="URL"/> -->
       <text variable="DOI" prefix="doi: "/>
     </group>
-  </macro>
-  <!-- 连续出版物的年卷期 -->
-  <macro name="year-volume-issue">
-    <group delimiter=", ">
-      <text macro="issued-year"/>
-      <text variable="volume"/>
-    </group>
-    <text variable="issue" form="short" prefix="(" suffix=")"/>
   </macro>
   <!-- 专著和电子资源 -->
   <macro name="monograph-layout">

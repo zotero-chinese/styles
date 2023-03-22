@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2022-12-02T17:49:28+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -40,7 +40,6 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <macro name="accessed-date"/>
   <macro name="author">
     <names variable="author">
       <name/>
@@ -55,169 +54,6 @@
         </choose>
       </substitute>
     </names>
-  </macro>
-  <macro name="book-volume">
-    <choose>
-      <if type="article article-journal article-magazine article-newspaper periodical" match="none">
-        <choose>
-          <if is-numeric="volume">
-            <group delimiter=" ">
-              <label variable="volume" form="short" text-case="capitalize-first"/>
-              <text variable="volume"/>
-            </group>
-          </if>
-          <else>
-            <text variable="volume"/>
-          </else>
-        </choose>
-      </if>
-    </choose>
-  </macro>
-  <macro name="container-author">
-    <names variable="editor">
-      <name/>
-      <substitute>
-        <names variable="editorial-director"/>
-        <names variable="collection-editor"/>
-        <names variable="container-author"/>
-      </substitute>
-    </names>
-  </macro>
-  <macro name="container-title">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <choose>
-          <if variable="container-title">
-            <text variable="container-title"/>
-          </if>
-          <else>
-            <text variable="event-title"/>
-          </else>
-        </choose>
-        <text macro="book-volume"/>
-      </group>
-      <choose>
-        <if variable="event-date">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
-    </group>
-  </macro>
-  <macro name="edition">
-    <choose>
-      <if is-numeric="edition">
-        <group delimiter=" ">
-          <number variable="edition" form="ordinal"/>
-          <label variable="edition" form="short"/>
-        </group>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issued-date"/>
-  <macro name="issued-year">
-    <choose>
-      <if is-uncertain-date="issued">
-        <date variable="issued" prefix="[" suffix="]">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </if>
-      <else>
-        <date variable="issued">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publishing">
-    <group delimiter=": ">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-        <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
-    <choose>
-      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
-      </if>
-    </choose>
-    <text macro="accessed-date"/>
-  </macro>
-  <macro name="publishing-no-date">
-    <group delimiter=": ">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-        <choose>
-          <if variable="publisher page" type="book chapter thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
-    <choose>
-      <if variable="publisher page" type="book chapter thesis" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
-      </if>
-    </choose>
-  </macro>
-  <macro name="secondary-contributor">
-    <names variable="translator">
-      <name>
-        <name-part name="family" text-case="uppercase"/>
-      </name>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <macro name="periodical-publishing">
-    <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-title" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-              <else>
-                <text macro="issued-year"/>
-              </else>
-            </choose>
-            <text variable="volume"/>
-          </group>
-          <text variable="issue" prefix="(" suffix=")"/>
-        </group>
-        <text variable="page"/>
-      </group>
-    </group>
   </macro>
   <macro name="title">
     <group delimiter=", ">
@@ -248,6 +84,23 @@
       </choose>
     </group>
     <text macro="type-code" prefix="[" suffix="]"/>
+  </macro>
+  <macro name="book-volume">
+    <choose>
+      <if type="article article-journal article-magazine article-newspaper periodical" match="none">
+        <choose>
+          <if is-numeric="volume">
+            <group delimiter=" ">
+              <label variable="volume" form="short" text-case="capitalize-first"/>
+              <text variable="volume"/>
+            </group>
+          </if>
+          <else>
+            <text variable="volume"/>
+          </else>
+        </choose>
+      </if>
+    </choose>
   </macro>
   <macro name="type-code">
     <group delimiter="/">
@@ -331,12 +184,79 @@
       </choose>
     </group>
   </macro>
-  <macro name="url-doi">
+  <macro name="secondary-contributor">
+    <names variable="translator">
+      <name>
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="container-author">
+    <names variable="editor">
+      <name/>
+      <substitute>
+        <names variable="editorial-director"/>
+        <names variable="collection-editor"/>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container-title">
     <group delimiter=", ">
-      <text variable="URL"/>
-      <date variable="issued" form="numeric"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <group delimiter=": ">
+        <choose>
+          <if variable="container-title">
+            <text variable="container-title"/>
+          </if>
+          <else>
+            <text variable="event-title"/>
+          </else>
+        </choose>
+        <text macro="book-volume"/>
+      </group>
+      <choose>
+        <if variable="event-date">
+          <date variable="event-date" form="text"/>
+          <text variable="event-place"/>
+        </if>
+      </choose>
     </group>
+  </macro>
+  <macro name="periodical-publishing">
+    <group>
+      <group delimiter=": ">
+        <group>
+          <group delimiter=", ">
+            <text macro="container-title" text-case="title"/>
+            <choose>
+              <if type="article-newspaper">
+                <text macro="issued-date"/>
+              </if>
+              <else>
+                <text macro="issued-year"/>
+              </else>
+            </choose>
+            <text variable="volume"/>
+          </group>
+          <text variable="issue" prefix="(" suffix=")"/>
+        </group>
+        <text variable="page"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <label variable="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
   </macro>
   <macro name="year-volume-issue">
     <group>
@@ -345,6 +265,86 @@
         <text variable="volume"/>
       </group>
       <text variable="issue" prefix="(" suffix=")"/>
+    </group>
+  </macro>
+  <macro name="publishing">
+    <group delimiter=": ">
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+        <choose>
+          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+            <text macro="issued-year"/>
+          </if>
+          <else-if variable="URL DOI" match="none">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
+      </group>
+      <text variable="page"/>
+    </group>
+    <choose>
+      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
+        <choose>
+          <if variable="URL DOI" match="any">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
+      </if>
+    </choose>
+    <text macro="accessed-date"/>
+  </macro>
+  <macro name="publishing-no-date">
+    <group delimiter=": ">
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+        <choose>
+          <if variable="publisher page" type="book chapter thesis" match="any">
+            <text macro="issued-year"/>
+          </if>
+          <else-if variable="URL DOI" match="none">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
+      </group>
+      <text variable="page"/>
+    </group>
+    <choose>
+      <if variable="publisher page" type="book chapter thesis" match="none">
+        <choose>
+          <if variable="URL DOI" match="any">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if is-uncertain-date="issued">
+        <date variable="issued" prefix="[" suffix="]">
+          <date-part name="year" range-delimiter="-"/>
+        </date>
+      </if>
+      <else>
+        <date variable="issued">
+          <date-part name="year" range-delimiter="-"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-date"/>
+  <macro name="accessed-date"/>
+  <macro name="url-doi">
+    <group delimiter=", ">
+      <text variable="URL"/>
+      <date variable="issued" form="numeric"/>
+      <text variable="DOI" prefix="DOI:"/>
     </group>
   </macro>
   <macro name="thesis-layout">

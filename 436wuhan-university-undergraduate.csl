@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>武汉大学本科生毕业论文（设计）</summary>
-    <updated>2022-12-20T20:13:00+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -163,31 +163,15 @@
       </choose>
     </group>
   </macro>
-  <!-- 连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） -->
-  <macro name="container-periodical">
-    <choose>
-      <if type="article-newspaper">
-        <!-- 报纸只有刊名、日期和版次（page） -->
-        <group delimiter=", ">
-          <text variable="container-title"/>
-          <text macro="issued-date"/>
-        </group>
-        <text variable="page" prefix="(" suffix=")"/>
-      </if>
-      <else>
-        <group delimiter=": ">
-          <group>
-            <group delimiter=", ">
-              <text variable="container-title"/>
-              <text macro="issued-year"/>
-              <text variable="volume"/>
-            </group>
-            <text variable="issue" prefix="(" suffix=")"/>
-          </group>
-          <text variable="page"/>
-        </group>
-      </else>
-    </choose>
+  <!-- 专著主要责任者 -->
+  <macro name="container-author">
+    <names variable="editor">
+      <substitute>
+        <names variable="editorial-director"/>
+        <names variable="collection-editor"/>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
@@ -224,15 +208,31 @@
       </group>
     </group>
   </macro>
-  <!-- 专著主要责任者 -->
-  <macro name="container-author">
-    <names variable="editor">
-      <substitute>
-        <names variable="editorial-director"/>
-        <names variable="collection-editor"/>
-        <names variable="container-author"/>
-      </substitute>
-    </names>
+  <!-- 连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） -->
+  <macro name="container-periodical">
+    <choose>
+      <if type="article-newspaper">
+        <!-- 报纸只有刊名、日期和版次（page） -->
+        <group delimiter=", ">
+          <text variable="container-title"/>
+          <text macro="issued-date"/>
+        </group>
+        <text variable="page" prefix="(" suffix=")"/>
+      </if>
+      <else>
+        <group delimiter=": ">
+          <group>
+            <group delimiter=", ">
+              <text variable="container-title"/>
+              <text macro="issued-year"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -276,10 +276,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 出版日期 -->
-  <macro name="issued-date">
-    <date variable="issued" form="numeric"/>
-  </macro>
   <!-- 出版年 -->
   <macro name="issued-year">
     <choose>
@@ -294,6 +290,10 @@
         </date>
       </else>
     </choose>
+  </macro>
+  <!-- 出版日期 -->
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">

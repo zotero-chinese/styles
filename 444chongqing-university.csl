@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>重庆大学博士、硕士学位论文撰写格式标准及要求（2019年修订）</summary>
-    <updated>2023-03-19T21:37:44+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -62,6 +62,41 @@
       </substitute>
     </names>
   </macro>
+  <!-- 题名 -->
+  <macro name="title">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <!-- 英文参考文献，所有实词首字母需大写。 -->
+        <text variable="title" text-case="title"/>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter paper-conference" match="none">
+              <text macro="book-volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation regulation report" match="any">
+              <text variable="number"/>
+            </if>
+          </choose>
+        </group>
+      </group>
+      <choose>
+        <if variable="container-title" type="chapter paper-conference" match="none">
+          <choose>
+            <if variable="event-date">
+              <text variable="event-place"/>
+              <date variable="event-date" form="text"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
+    </group>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
+      <text macro="medium-code"/>
+    </group>
+  </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="book-volume">
     <choose>
@@ -79,6 +114,86 @@
         </choose>
       </if>
     </choose>
+  </macro>
+  <!-- 文献类型标识 -->
+  <macro name="type-code">
+    <choose>
+      <if type="article">
+        <choose>
+          <if variable="archive">
+            <text value="A"/>
+          </if>
+          <else>
+            <text value="M"/>
+          </else>
+        </choose>
+      </if>
+      <else-if type="article-journal article-magazine periodical" match="any">
+        <text value="J"/>
+      </else-if>
+      <else-if type="article-newspaper">
+        <text value="N"/>
+      </else-if>
+      <else-if type="bill collection legal_case legislation regulation" match="any">
+        <text value="A"/>
+      </else-if>
+      <else-if type="book chapter" match="any">
+        <text value="M"/>
+      </else-if>
+      <else-if type="dataset">
+        <text value="DS"/>
+      </else-if>
+      <else-if type="map">
+        <text value="CM"/>
+      </else-if>
+      <else-if type="paper-conference">
+        <text value="C"/>
+      </else-if>
+      <else-if type="patent">
+        <text value="P"/>
+      </else-if>
+      <else-if type="post post-weblog webpage" match="any">
+        <text value="EB"/>
+      </else-if>
+      <else-if type="report">
+        <text value="R"/>
+      </else-if>
+      <else-if type="software">
+        <text value="CP"/>
+      </else-if>
+      <else-if type="standard">
+        <text value="S"/>
+      </else-if>
+      <else-if type="thesis">
+        <text value="D"/>
+      </else-if>
+      <else>
+        <text value="Z"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 文献载体标识 -->
+  <macro name="medium-code">
+    <choose>
+      <!-- 仅纯电子资源显示“OL” -->
+      <if type="dataset post post-weblog software webpage" match="any">
+        <choose>
+          <if variable="medium">
+            <text variable="medium"/>
+          </if>
+          <else>
+            <text value="OL"/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributor">
+    <names variable="translator">
+      <name/>
+      <label form="short" prefix=", "/>
+    </names>
   </macro>
   <!-- 专著主要责任者 -->
   <macro name="container-author">
@@ -159,20 +274,13 @@
       </else>
     </choose>
   </macro>
-  <!-- 出版年 -->
-  <macro name="issued-year">
-    <choose>
-      <if is-uncertain-date="issued">
-        <date variable="issued" prefix="[" suffix="]">
-          <date-part name="year"/>
-        </date>
-      </if>
-      <else>
-        <date variable="issued">
-          <date-part name="year"/>
-        </date>
-      </else>
-    </choose>
+  <!-- 连续出版物的年卷期 -->
+  <macro name="year-volume-issue">
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
+    </group>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 专著的出版项 -->
   <macro name="publishing">
@@ -210,128 +318,20 @@
       </else>
     </choose>
   </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
-    <names variable="translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <!-- 题名 -->
-  <macro name="title">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <!-- 英文参考文献，所有实词首字母需大写。 -->
-        <text variable="title" text-case="title"/>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="bill legal_case legislation regulation report" match="any">
-              <text variable="number"/>
-            </if>
-          </choose>
-        </group>
-      </group>
-      <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
-    </group>
-  </macro>
-  <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <!-- 出版年 -->
+  <macro name="issued-year">
     <choose>
-      <if type="article">
-        <choose>
-          <if variable="archive">
-            <text value="A"/>
-          </if>
-          <else>
-            <text value="M"/>
-          </else>
-        </choose>
+      <if is-uncertain-date="issued">
+        <date variable="issued" prefix="[" suffix="]">
+          <date-part name="year"/>
+        </date>
       </if>
-      <else-if type="article-journal article-magazine periodical" match="any">
-        <text value="J"/>
-      </else-if>
-      <else-if type="article-newspaper">
-        <text value="N"/>
-      </else-if>
-      <else-if type="bill collection legal_case legislation regulation" match="any">
-        <text value="A"/>
-      </else-if>
-      <else-if type="book chapter" match="any">
-        <text value="M"/>
-      </else-if>
-      <else-if type="dataset">
-        <text value="DS"/>
-      </else-if>
-      <else-if type="map">
-        <text value="CM"/>
-      </else-if>
-      <else-if type="paper-conference">
-        <text value="C"/>
-      </else-if>
-      <else-if type="patent">
-        <text value="P"/>
-      </else-if>
-      <else-if type="post post-weblog webpage" match="any">
-        <text value="EB"/>
-      </else-if>
-      <else-if type="report">
-        <text value="R"/>
-      </else-if>
-      <else-if type="software">
-        <text value="CP"/>
-      </else-if>
-      <else-if type="standard">
-        <text value="S"/>
-      </else-if>
-      <else-if type="thesis">
-        <text value="D"/>
-      </else-if>
       <else>
-        <text value="Z"/>
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
       </else>
     </choose>
-  </macro>
-  <!-- 文献载体标识 -->
-  <macro name="medium-code">
-    <choose>
-      <!-- 仅纯电子资源显示“OL” -->
-      <if type="dataset post post-weblog software webpage" match="any">
-        <choose>
-          <if variable="medium">
-            <text variable="medium"/>
-          </if>
-          <else>
-            <text value="OL"/>
-          </else>
-        </choose>
-      </if>
-    </choose>
-  </macro>
-  <!-- 连续出版物的年卷期 -->
-  <macro name="year-volume-issue">
-    <group delimiter=", ">
-      <text macro="issued-year"/>
-      <text variable="volume"/>
-    </group>
-    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 电子文 献的出版或可获得地址(电子文献地址用文字表述), 发表或更新日期/引用日期 -->
   <macro name="access">

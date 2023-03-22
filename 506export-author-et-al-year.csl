@@ -22,7 +22,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>按照语言显示作者“等”或“et al.”，年代</summary>
-    <updated>2023-03-20T10:10:13+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -52,9 +52,6 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <macro name="anonymous">
-    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
-  </macro>
   <macro name="author">
     <names variable="author">
       <name form="short">
@@ -73,12 +70,6 @@
         <text macro="anonymous"/>
       </substitute>
     </names>
-  </macro>
-  <macro name="author-date">
-    <group delimiter=", ">
-      <text macro="author"/>
-      <text macro="issued-year"/>
-    </group>
   </macro>
   <macro name="author-intext-en">
     <names variable="author">
@@ -113,6 +104,9 @@
       </substitute>
     </names>
   </macro>
+  <macro name="anonymous">
+    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
+  </macro>
   <macro name="container-author">
     <names variable="editor">
       <name>
@@ -124,9 +118,6 @@
         <names variable="container-author"/>
       </substitute>
     </names>
-  </macro>
-  <macro name="issued-date">
-    <date variable="issued" form="numeric"/>
   </macro>
   <macro name="issued-year">
     <choose>
@@ -141,6 +132,15 @@
         </date>
       </else>
     </choose>
+  </macro>
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
+  </macro>
+  <macro name="author-date">
+    <group delimiter=", ">
+      <text macro="author"/>
+      <text macro="issued-year"/>
+    </group>
   </macro>
   <macro name="entry-layout">
     <group delimiter=". ">
