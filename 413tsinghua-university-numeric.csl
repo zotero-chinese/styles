@@ -395,12 +395,6 @@
       <text macro="access"/>
     </group>
   </macro>
-  <!-- 正文中引用的文献标注格式 -->
-  <macro name="citation-layout">
-    <group>
-      <text variable="citation-number"/>
-    </group>
-  </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
     <choose>
@@ -426,7 +420,7 @@
       <key variable="citation-number"/>
     </sort>
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text macro="citation-layout"/>
+      <text variable="citation-number"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
