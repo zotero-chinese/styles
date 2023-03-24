@@ -66,7 +66,7 @@
       <else-if type="thesis">
         <text macro="title"/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <group delimiter=", ">
           <number variable="number"/>
           <text macro="title"/>
@@ -101,7 +101,7 @@
       <else-if type="thesis">
         <text value="[D]."/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text value="[S]"/>
       </else-if>
       <else-if type="book graphic legal_case motion_picture song" match="any">
@@ -148,7 +148,7 @@
           <number variable="number" suffix=", "/>
         </group>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text variable="container-title" prefix=". "/>
       </else-if>
       <else>
@@ -182,7 +182,7 @@
               <date-part name="year"/>
             </date>
           </else-if>
-          <else-if type="bill legislation" match="any"/>
+          <else-if type="bill legislation standard" match="any"/>
           <else>
             <date variable="issued">
               <date-part name="year"/>
@@ -233,7 +233,7 @@
             <text macro="author" suffix=". "/>
             <group>
               <choose>
-                <if type="bill legislation paper-conference chapter">
+                <if type="bill legislation paper-conference chapter standard" match="any">
                   <group delimiter="">
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
@@ -242,7 +242,7 @@
               </choose>
               <group>
                 <choose>
-                  <if type="bill legislation paper-conference chapter"/>
+                  <if type="bill legislation paper-conference chapter standard"/>
                   <else>
                     <group delimiter="">
                       <text macro="titleField"/>
@@ -260,14 +260,14 @@
                   <text macro="publisherSupp"/>
                 </group>
                 <choose>
-                  <if type="bill legislation"/>
+                  <if type="bill legislation standard"/>
                   <else>
                     <text macro="pageField" prefix=": "/>
                   </else>
                 </choose>
               </group>
               <choose>
-                <if type="bill legislation">
+                <if type="bill legislation standard" match="any">
                   <text macro="pageField" prefix=": "/>
                 </if>
               </choose>
@@ -292,7 +292,7 @@
             <text macro="author" suffix=". "/>
             <group delimiter="">
               <choose>
-                <if type="bill legislation paper-conference chapter">
+                <if type="bill legislation paper-conference chapter standard" match="any">
                   <group delimiter="">
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
@@ -301,7 +301,7 @@
               </choose>
               <group>
                 <choose>
-                  <if type="bill legislation paper-conference chapter"/>
+                  <if type="bill legislation paper-conference chapter standard"/>
                   <else>
                     <group delimiter="">
                       <text macro="titleField"/>
@@ -316,14 +316,14 @@
                   <text macro="publisherSupp"/>
                 </group>
                 <choose>
-                  <if type="bill legislation"/>
+                  <if type="bill legislation standard"/>
                   <else>
                     <text macro="pageField" prefix=": "/>
                   </else>
                 </choose>
               </group>
               <choose>
-                <if type="bill legislation">
+                <if type="bill legislation standard" match="any">
                   <text macro="pageField" prefix=": "/>
                 </if>
               </choose>

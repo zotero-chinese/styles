@@ -128,13 +128,13 @@ Undefined
 
     <div class="csl-block">顾炎武. 1992. 昌平山水记: 京东考古录[M][M]. 北京: 北京古籍出版社，1992年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: gb/t 2659—1986[S]. 北京: 中国标准出版社: 59-92(1988)
+  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: gb/t 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3北京: 中国标准出版社，1988年
 
-    <div class="csl-block">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: gb/t 2659—1986[S][S]. 北京: 中国标准出版社: 59-92(1988) (In Chinese)</div>
+    <div class="csl-block">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: gb/t 2659—1986[S][S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3北京: 中国标准出版社，1988年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[14]	国家环境保护局科技标准司. 1996. 土壤环境质量标准[S]. 北京: 中国标准出版社: 2-3(1996)
+  <div class="csl-entry">[14]	国家环境保护局科技标准司. 1996. 土壤环境质量标准[S]. 北京: 中国标准出版社，1996年
 
-    <div class="csl-block">国家环境保护局科技标准司. 1996. 土壤环境质量标准[S][S]. 北京: 中国标准出版社: 2-3(1996) (In Chinese)</div>
+    <div class="csl-block">国家环境保护局科技标准司. 1996. 土壤环境质量标准[S][S]. 北京: 中国标准出版社，1996年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[15]	哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, tran.. 北京: 中国人民大学出版社，2012年
 
@@ -228,17 +228,17 @@ Undefined
 
     <div class="csl-block">皮锡瑞. 2009. 师伏堂日记[M][M]. 北京: 北京图书馆出版社，2009年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[38]	全国广播电视标准化技术委员会. 2007. 广播电视音像资料编目规范: 第 2 部分 广播资料[S]. 北京: 国家广播电影电视总局广播电视规划院: 1(2007)
+  <div class="csl-entry">[38]	全国广播电视标准化技术委员会. 2007. 广播电视音像资料编目规范: 第 2 部分 广播资料[S]. 北京: 国家广播电影电视总局广播电视规划院，2007年
 
-    <div class="csl-block">全国广播电视标准化技术委员会. 2007. 广播电视音像资料编目规范: 第 2 部分 广播资料[S][S]. 北京: 国家广播电影电视总局广播电视规划院: 1(2007) (In Chinese)</div>
+    <div class="csl-block">全国广播电视标准化技术委员会. 2007. 广播电视音像资料编目规范: 第 2 部分 广播资料[S][S]. 北京: 国家广播电影电视总局广播电视规划院，2007年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[39]	全国信息与文献标准化技术委员会. 2010a. 信息与文献 都柏林核心元数据元素集[S]. 北京: 中国标准出版社: 2-3(2010)
+  <div class="csl-entry">[39]	全国信息与文献标准化技术委员会. 2010a. 信息与文献 都柏林核心元数据元素集[S]. 北京: 中国标准出版社，2010年
 
-    <div class="csl-block">全国信息与文献标准化技术委员会. 2010. 信息与文献 都柏林核心元数据元素集[S][S]. 北京: 中国标准出版社: 2-3(2010) (In Chinese)</div>
+    <div class="csl-block">全国信息与文献标准化技术委员会. 2010. 信息与文献 都柏林核心元数据元素集[S][S]. 北京: 中国标准出版社，2010年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[40]	全国信息与文献标准化技术委员会. 2010b. 文献著录: 第 4 部分 非书资料[S]. 北京: 中国标准出版社: 3(2010)
+  <div class="csl-entry">[40]	全国信息与文献标准化技术委员会. 2010b. 文献著录: 第 4 部分 非书资料[S]. 北京: 中国标准出版社，2010年
 
-    <div class="csl-block">全国信息与文献标准化技术委员会. 2010. 文献著录: 第 4 部分 非书资料[S][S]. 北京: 中国标准出版社: 3(2010) (In Chinese)</div>
+    <div class="csl-block">全国信息与文献标准化技术委员会. 2010. 文献著录: 第 4 部分 非书资料[S][S]. 北京: 中国标准出版社，2010年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[41]	汤万金, 杨跃翔, 刘文, OTHERS. 2013. 人体安全重要技术标准研制最终报告[R/OL]. (2013-09-30) [2014-06-24].
 
@@ -396,9 +396,9 @@ Undefined
 
     <div class="csl-block">anonymous. 2000. Geoecology and computers: proceedings of the third international conference on advances of computer methods in geotechnical and geoenvironmental engineering[M][M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[80]	Anonymous. 2009. Information and documentation—the dublin core metadata element set[S](2009)
+  <div class="csl-entry">[80]	Anonymous. 2009. Information and documentation—the dublin core metadata element set[S]. 
 
-    <div class="csl-block">anonymous. 2009. Information and documentation—the dublin core metadata element set[S][S](2009) (In Chinese)</div>
+    <div class="csl-block">anonymous. 2009. Information and documentation—the dublin core metadata element set[S][S].  (In Chinese)</div>
 </div>
   <div class="csl-entry">[81]	Anonymous. 2011a. 周易外传: 卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年
 

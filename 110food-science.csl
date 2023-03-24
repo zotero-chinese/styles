@@ -459,7 +459,7 @@
       <if type="article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
-      <else-if type="bill">
+      <else-if type="bill standard" match="any">
         <text macro="bill-standard-layout"/>
       </else-if>
       <else-if type="book">

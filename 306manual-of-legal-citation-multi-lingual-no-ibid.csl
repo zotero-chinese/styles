@@ -289,7 +289,7 @@
           </group>
         </else-if>
         <!-- 3) 专著与教科书 -->
-        <else-if type="book thesis">
+        <else-if type="book thesis" match="any">
           <group delimiter=", ">
             <text variable="title"/>
             <text macro="volume-de"/>
@@ -407,7 +407,7 @@
           </group>
         </else-if>
         <!-- 80. 英文书籍 -->
-        <else-if type="book thesis">
+        <else-if type="book thesis" match="any">
           <group delimiter=", ">
             <text macro="title-en"/>
             <text macro="secondary-contributors-en"/>
@@ -479,7 +479,7 @@
           </group>
         </else-if>
         <!-- 85. 英文网络文章 -->
-        <else-if type="post post-weblog webpage">
+        <else-if type="post post-weblog webpage" match="any">
           <group delimiter=", ">
             <text macro="title-en"/>
             <group delimiter=" ">
@@ -601,7 +601,7 @@
           </group>
         </else-if>
         <!-- 89. 法文网络信息 -->
-        <else-if type="post post-weblog webpage">
+        <else-if type="post post-weblog webpage" match="any">
           <group delimiter=", ">
             <text macro="title-fr"/>
             <text macro="container-fr"/>
@@ -631,7 +631,7 @@
           <text macro="publisher-ja"/>
           <text macro="locator-ja"/>
         </if>
-        <else-if type="article-journal article-magazine article-newspaper">
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
           <text macro="title-ja"/>
           <text macro="container-ja"/>
           <text macro="issuance-ja" prefix="（" suffix="）"/>
@@ -685,7 +685,7 @@
             </else>
           </choose>
         </else-if>
-        <else-if type="post post-weblog webpage">
+        <else-if type="post post-weblog webpage" match="any">
           <text macro="title-ja"/>
           <text macro="issuance-ja"/>
           <text macro="access-ja"/>
@@ -737,7 +737,7 @@
           </group>
         </else-if>
         <!-- 49. 引用个人博客、微信公众号 -->
-        <else-if type="post post-weblog webpage">
+        <else-if type="post post-weblog webpage" match="any">
           <group delimiter="，">
             <text macro="title-zh"/>
             <text macro="container-zh"/>
@@ -1095,7 +1095,7 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="post post-weblog webpage">
+      <else-if type="post post-weblog webpage" match="any">
         <!-- 2020 年版的网络文献和微信公众号文章的网站标题与上传日期之间均无逗号 -->
         <text term="in"/>
         <text variable="container-title"/>
@@ -1144,7 +1144,7 @@
         <text variable="container-title" prefix="《" suffix="》"/>
         <text macro="issuance-zh"/>
       </else-if>
-      <else-if type="post post-weblog webpage">
+      <else-if type="post post-weblog webpage" match="any">
         <!-- 2020 年版的网络文献和微信公众号文章的网站标题与上传日期之间均无逗号 -->
         <text term="in"/>
         <text variable="container-title"/>
@@ -1278,7 +1278,7 @@
   <macro name="publisher-zh">
     <text variable="publisher"/>
     <choose>
-      <if type="post webpage">
+      <if type="post webpage" match="any">
         <text macro="issuance-zh"/>
       </if>
       <else>

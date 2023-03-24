@@ -76,7 +76,7 @@
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent report" match="any">
+            <if type="bill legal_case legislation patent report standard" match="any">
               <text variable="number"/>
             </if>
           </choose>
@@ -133,7 +133,7 @@
         <else-if type="article-newspaper">
           <text value="N"/>
         </else-if>
-        <else-if type="bill">
+        <else-if type="bill standard" match="any">
           <text value="S"/>
         </else-if>
         <else-if type="legal_case legislation" match="any">
@@ -475,7 +475,7 @@
       <if type="article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
-      <else-if type="bill">
+      <else-if type="bill standard" match="any">
         <!-- 用于标准显示 -->
         <text macro="bill-standard-layout"/>
       </else-if>

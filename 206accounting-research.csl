@@ -70,7 +70,7 @@
   <macro name="title">
     <text variable="title" text-case="title"/>
     <choose>
-      <if type="bill broadcast legal_case legislation patent report song" match="any">
+      <if type="bill broadcast legal_case legislation patent report song standard" match="any">
         <text variable="number" prefix=": "/>
       </if>
     </choose>
@@ -160,7 +160,7 @@
       <text macro="title"/>
     </group>
     <choose>
-      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -206,7 +206,7 @@
       <text macro="title"/>
     </group>
     <choose>
-      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

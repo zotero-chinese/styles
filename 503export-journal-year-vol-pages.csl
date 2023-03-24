@@ -150,7 +150,7 @@
         <text macro="publisher"/>
         <text variable="number-of-pages" prefix=": "/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <!-- 标准可暂文献类型 -->
         <text macro="editor" prefix=". "/>
         <choose>

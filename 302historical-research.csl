@@ -227,7 +227,7 @@
     <text macro="title-en" font-style="italic"/>
     <choose>
       <!-- 书籍 -->
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=", "/>
         <choose>
           <if variable="container-title">
@@ -322,7 +322,7 @@
     <text macro="author"/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix="，"/>
         <choose>
           <if variable="container-title">

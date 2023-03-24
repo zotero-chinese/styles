@@ -313,7 +313,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title-zh"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -371,7 +371,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -430,7 +430,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference thesis" match="any">
+      <if type="book bill chapter legislation paper-conference standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

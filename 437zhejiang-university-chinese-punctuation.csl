@@ -115,7 +115,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text value="S"/>
       </else-if>
       <else-if type="book">
@@ -251,7 +251,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title" text-case="capitalize-first"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -295,7 +295,7 @@
     <text macro="author-zh" suffix="."/>
     <text macro="title-zh"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report thesis" match="any">
+      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix="."/>
         <choose>
           <if variable="container-title">

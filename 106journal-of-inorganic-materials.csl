@@ -175,7 +175,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -223,7 +223,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">

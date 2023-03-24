@@ -179,7 +179,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="bill legislation" match="any">
+      <if type="bill legislation standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -278,7 +278,7 @@
     <text macro="title-zh"/>
     <!-- <text macro="issued-year" suffix="："/>-->
     <choose>
-      <if type="bill legislation" match="any">
+      <if type="bill legislation standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

@@ -77,7 +77,7 @@
   </macro>
   <macro name="title">
     <choose>
-      <if type="bill graphic legal_case legislation motion_picture song webpage manuscript" match="any">
+      <if type="bill graphic legal_case legislation motion_picture song standard webpage manuscript" match="any">
         <text variable="title" font-style="italic"/>
       </if>
       <else-if type="book" match="any">

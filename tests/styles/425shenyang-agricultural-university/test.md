@@ -57,7 +57,7 @@ Undefined
   <div class="csl-entry">2. Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin SA, ed.. Rotterdam: A. A. Balkema, 2000.	</div>
   <div class="csl-entry">3. Anonymous. Coffee drinking and cancer of the pancreas. <i>Br Med J</i>. 1981, 283(6292): 628.	</div>
   <div class="csl-entry">4. Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu BV, Nagar AK, Deep K, others, eds.. New Delhi: Springer, 2014.	</div>
-  <div class="csl-entry">5. Anonymous. Information and documentation—The Dublin core metadata element set(2009).	</div>
+  <div class="csl-entry">5. Anonymous. Information and documentation—The Dublin core metadata element set. .	</div>
   <div class="csl-entry">6. Anonymous. Dublin core metadata element set: version 1.1(2012-06-14).	</div>
   <div class="csl-entry">7. Baker SK, Jackson ME. The future of resource sharing. New York: The Haworth Press, 1995.	</div>
   <div class="csl-entry">8. Baldock P. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105.	</div>
@@ -122,9 +122,9 @@ Undefined
   <div class="csl-entry">67. 余建斌. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报. 2013: 2.	</div>
   <div class="csl-entry">68. 侯文顺. 高分子物理: 高分子材料分析、选择与改性. 北京: 化学工业出版社, 2010: 119.	</div>
   <div class="csl-entry">69. 傅刚, 赵承, 李佳路. 大风沙过后的思考. 北京青年报. 2000.	</div>
-  <div class="csl-entry">70. 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集. 北京: 中国标准出版社, 2010a: 2–3(2010).	</div>
-  <div class="csl-entry">71. 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料. 北京: 中国标准出版社, 2010b: 3(2010).	</div>
-  <div class="csl-entry">72. 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1(2007).	</div>
+  <div class="csl-entry">70. 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集. 北京: 中国标准出版社, 2010a: 2–3.	</div>
+  <div class="csl-entry">71. 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料. 北京: 中国标准出版社, 2010b: 3.	</div>
+  <div class="csl-entry">72. 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.	</div>
   <div class="csl-entry">73. 刘乃安. 生物质材料热解失重动力学及其分析方法研究. 中国科学技术大学，2000.	</div>
   <div class="csl-entry">74. 刘彻东. 中国的青年刊物: 个性特色为本仁. 中国出版. 1998(5): 38–39.	</div>
   <div class="csl-entry">75. 刘裕国, 杨柳, 张洋, others. 雾霾来袭, 如何突围? 人民日报. 2013.	</div>
@@ -133,8 +133,8 @@ Undefined
   <div class="csl-entry">78. 同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究. 上海: 同济大学出版社, 2011: 5–6.	</div>
   <div class="csl-entry">79. 吴云芳. 面向中文信息处理的现代汉语并列结构研究. 北京大学，2003.	</div>
   <div class="csl-entry">80. 哈里森·沃尔德伦. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235–236.	</div>
-  <div class="csl-entry">81. 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 北京: 中国标准出版社, 1988: 59–92(1988).	</div>
-  <div class="csl-entry">82. 国家环境保护局科技标准司. 土壤环境质量标准. 北京: 中国标准出版社, 1996: 2–3(1996).	</div>
+  <div class="csl-entry">81. 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, 编//<i>文献工作国家标准汇编: 3</i>. 北京: 中国标准出版社, 1988: 59–92.	</div>
+  <div class="csl-entry">82. 国家环境保护局科技标准司. 土壤环境质量标准. 北京: 中国标准出版社, 1996: 2–3.	</div>
   <div class="csl-entry">83. 尼葛洛庞帝. 数字化生存. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.	</div>
   <div class="csl-entry">84. 库恩. 科学革命的结构: 第 4 版. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.	</div>
   <div class="csl-entry">85. 张忠智. 科技书刊的总编(主编)的角色要求. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33–34.	</div>

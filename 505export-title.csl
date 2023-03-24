@@ -33,7 +33,7 @@
   <macro name="title">
     <text variable="title"/>
     <choose>
-      <if type="bill broadcast legal_case legislation patent report song" match="any">
+      <if type="bill broadcast legal_case legislation patent report song standard" match="any">
         <text variable="number" prefix=": "/>
       </if>
     </choose>

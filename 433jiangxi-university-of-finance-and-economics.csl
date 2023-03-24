@@ -72,7 +72,7 @@
   <macro name="title">
     <text variable="title" text-case="title"/>
     <choose>
-      <if type="bill broadcast legal_case legislation report song" match="any">
+      <if type="bill broadcast legal_case legislation report song standard" match="any">
         <text variable="number" prefix=": "/>
       </if>
     </choose>
@@ -102,7 +102,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text value="S"/>
       </else-if>
       <else-if type="book">
@@ -287,7 +287,7 @@
         <text variable="page" prefix=": "/>
       </else-if>
       <!-- 其它文献类型 -->
-      <else-if type="bill">
+      <else-if type="bill standard" match="any">
         <text value=". "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
@@ -403,7 +403,7 @@
         <text variable="page" prefix=": "/>
       </else-if>
       <!-- 其它文献类型 -->
-      <else-if type="bill">
+      <else-if type="bill standard" match="any">
         <text value=". "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
