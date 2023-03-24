@@ -170,7 +170,7 @@
   <macro name="accessed-date">
     <choose>
       <!-- 仅纯电子资源显示引用日期 -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+      <if type="dataset post post-weblog software webpage" match="any">
         <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
       </if>
     </choose>

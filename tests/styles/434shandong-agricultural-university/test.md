@@ -93,7 +93,7 @@ Undefined
   <div class="csl-entry">全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料. 北京: 国家广播电影电视总局广播电视规划院: 1, 2007	</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集. 北京: 中国标准出版社: 2-3, 2010a	</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料. 北京: 中国标准出版社: 3, 2010b	</div>
-  <div class="csl-entry">汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告2013[2014/06/24]	</div>
+  <div class="csl-entry">汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告2013	</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011	</div>
   <div class="csl-entry">汪昂. 增订本草备要[M]. 京都: 老二酉堂, 1881	</div>
   <div class="csl-entry">汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997	</div>
@@ -132,12 +132,12 @@ Undefined
   <div class="csl-entry">张忠智. 科技书刊的总编(主编)的角色要求[C]//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34	</div>
   <div class="csl-entry">赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001	</div>
   <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇. 桂林: 广西师范大学出版社(2001)	</div>
-  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告2012[2013/03/26]	</div>
+  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告2012	</div>
   <div class="csl-entry">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013	</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 北京: 商务印书馆, 1996	</div>
   <div class="csl-entry">中国图书馆学会. 图书馆学通讯. 北京: 北京图书馆(1957)	</div>
   <div class="csl-entry">中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003	</div>
-  <div class="csl-entry">中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用2013[2014/06/11]	</div>
+  <div class="csl-entry">中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用2013	</div>
   <div class="csl-entry">中华医学会湖北分会. 临床内科杂志. 武汉: 中华医学会湖北分会(1984)	</div>
   <div class="csl-entry">American Association for the Advancement of Science. Science. Washington, D.C.: American Association for the Advancement of Science(1883)	</div>
   <div class="csl-entry">Baker S. K., Jackson M. E. The future of resource sharing[M]. New York: The Haworth Press, 1995	</div>

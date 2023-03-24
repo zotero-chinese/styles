@@ -169,7 +169,7 @@
       </choose>
       <choose>
         <!-- 仅纯电子资源显示“OL” -->
-        <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+        <if type="dataset post post-weblog software webpage" match="any">
           <choose>
             <if variable="URL" match="any">
               <text value="OL"/>
@@ -278,7 +278,7 @@
         </group>
         <!-- 非电子资源显示“出版年” -->
         <choose>
-          <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="any">
+          <if type="dataset post post-weblog software webpage" match="none">
             <text macro="issued-year"/>
           </if>
           <else-if variable="URL" match="none">
@@ -290,7 +290,7 @@
     </group>
     <choose>
       <!-- 纯电子资源显示“更新或修改日期” -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+      <if type="dataset post post-weblog software webpage" match="any">
         <choose>
           <if variable="URL" match="any">
             <text macro="issued-date" prefix="(" suffix=")"/>
@@ -334,7 +334,7 @@
   <macro name="accessed-date">
     <choose>
       <!-- 仅纯电子资源显示引用日期 -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+      <if type="dataset post post-weblog software webpage" match="any">
         <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
       </if>
     </choose>
@@ -343,7 +343,7 @@
   <macro name="access">
     <choose>
       <!-- 仅纯电子资源显示 URL -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+      <if type="dataset post post-weblog software webpage" match="any">
         <text variable="URL"/>
       </if>
     </choose>

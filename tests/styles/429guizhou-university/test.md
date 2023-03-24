@@ -92,7 +92,7 @@ Undefined
   <div class="csl-entry">37.	邓一刚. 全智能节电器: 中国[P]. 2006-12-13.</div>
   <div class="csl-entry">38.	西安电子科技大学. 光折变自适应光外差探测方法: 中国[P]. 2002-03-06.</div>
   <div class="csl-entry">39.	Tachibana R, Shimizu S, Kobayshi S, Nakamura T. Electronic watermarking method and system: US[P]. 2005-07-05.</div>
-  <div class="csl-entry">40.	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告2012[2013/03/26].</div>
+  <div class="csl-entry">40.	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告2012.</div>
   <div class="csl-entry">41.	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知. , 2005.</div>
   <div class="csl-entry">42.	Bawden D. Origins and concepts of digital literacy(2008-05-04)[03/08/2013].</div>
   <div class="csl-entry">43.	Online Computer Library Center, Inc. About OCLC: History of cooperation(no date)[03/27/2012].</div>
@@ -141,8 +141,8 @@ Undefined
   <div class="csl-entry">86.	佚名. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012c.</div>
   <div class="csl-entry">87.	佚名. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b.</div>
   <div class="csl-entry">88.	Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. New Delhi: Springer, 2014.</div>
-  <div class="csl-entry">89.	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用2013[2014/06/11].</div>
-  <div class="csl-entry">90.	汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告2013[2014/06/24].</div>
+  <div class="csl-entry">89.	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用2013.</div>
+  <div class="csl-entry">90.	汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告2013.</div>
   <div class="csl-entry">91.	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report2011.</div>
   <div class="csl-entry">92.	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">93.	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>

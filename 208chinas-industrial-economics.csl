@@ -184,7 +184,7 @@
       </choose>
       <choose>
         <!-- 仅纯电子资源显示“OL” -->
-        <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+        <if type="dataset post post-weblog software webpage" match="any">
           <choose>
             <if variable="URL" match="any">
               <text value="OL"/>
@@ -325,7 +325,7 @@
   <macro name="access">
     <choose>
       <!-- 仅纯电子资源显示 URL -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
+      <if type="dataset post post-weblog software webpage" match="any">
         <text variable="URL"/>
       </if>
     </choose>

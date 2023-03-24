@@ -94,7 +94,7 @@ Undefined
   <div class="csl-entry">[37]	邓一刚. 全智能节电器. 中国, 200610171314.3, 2006</div>
   <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法. 中国, 01128777.2, 2002</div>
   <div class="csl-entry">[39]	R. Tachibana, S. Shimizu, S. Kobayshi, T. Nakamura. Electronic watermarking method and system. US, US6915001, 2005</div>
-  <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. (2012-01-16). <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
+  <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号. 2005</div>
   <div class="csl-entry">[42]	D. Bawden. Origins and concepts of digital literacy. (2008-05-04). <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
@@ -143,8 +143,8 @@ Undefined
   <div class="csl-entry">[86]	雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集. 北京: 海洋出版社, 2012</div>
   <div class="csl-entry">[87]	陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社, 2011</div>
   <div class="csl-entry">[88]	B. V. Babu, A. K. Nagar, K. Deep, others. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 28–30 Dec. 2012. New Delhi: Springer, 2014</div>
-  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. (2013-04-16). <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a></div>
-  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013. (2013-09-30). <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
+  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. 2013</div>
+  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013. 2013</div>
   <div class="csl-entry">[91]	D. Calkin, A. Ager, M. Thompson. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8-9</div>
   <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990</div>
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970</div>

@@ -18,7 +18,7 @@
   <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52	</div>
   <div class="csl-entry">库恩. 科学革命的结构: 第 4 版[M]. 北京: 北京大学出版社, 2012	</div>
   <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9	</div>
-  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告2012[2013/03/26]	</div>
+  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告2012	</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy(2008-05-04)[03/08/2013]	</div>
   <div class="csl-entry">Fan X, Sommers C H. Food irradiation research and technology[M]. Ames, Iowa: Blackwell Publishing, 2013	</div>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38	</div>
