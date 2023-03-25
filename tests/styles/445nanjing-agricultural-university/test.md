@@ -88,7 +88,7 @@ Undefined
   <div class="csl-entry">[23]	雷光春．综合湿地管理: 综合湿地管理国际研讨会论文集［M］．北京：海洋出版社，2012．</div>
   <div class="csl-entry">[24]	李炳穆．韩国图书馆法［J］．图书情报工作，2008a，52（6）：6－12．</div>
   <div class="csl-entry">[25]	李炳穆．韩国图书馆法［J］．图书情报工作，2008b，52（6）：6－21．</div>
-  <div class="csl-entry">[26]	李强．化解医患矛盾需釜底抽薪［EB/OL］．2012（2012-05-03）[2013-03-25]．<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>．</div>
+  <div class="csl-entry">[26]	李强．化解医患矛盾需釜底抽薪［EB/OL］．（2012-05-03）［2013-03-25］．<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>．</div>
   <div class="csl-entry">[27]	李幼平，王莉．循证医学研究方法: 附视频［J］．中华移植杂志(电子版)，2010，4（3）：225－228．</div>
   <div class="csl-entry">[28]	刘彻东．中国的青年刊物: 个性特色为本仁［J］．中国出版，1998（5）：38－39．</div>
   <div class="csl-entry">[29]	刘乃安．生物质材料热解失重动力学及其分析方法研究［D］．合肥：中国科学技术大学，2000：17－18．</div>
@@ -117,7 +117,7 @@ Undefined
   <div class="csl-entry">[52]	吴云芳．面向中文信息处理的现代汉语并列结构研究［D］．北京：北京大学，2003．</div>
   <div class="csl-entry">[53]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8－9．</div>
   <div class="csl-entry">[54]	西安电子科技大学．光折变自适应光外差探测方法：01128777.2［P］．2002-03-06．</div>
-  <div class="csl-entry">[55]	萧钰．出版业信息化迈入快车道［EB/OL］．2001（2001-12-19）[2002-04-15]．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．</div>
+  <div class="csl-entry">[55]	萧钰．出版业信息化迈入快车道［EB/OL］．（2001-12-19）［2002-04-15］．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．</div>
   <div class="csl-entry">[56]	徐光宪，王祥云．物质结构［M］．北京：科学出版社，2010．</div>
   <div class="csl-entry">[57]	杨保军．新闻道德论［D］．北京：中国人民大学出版社，2012．</div>
   <div class="csl-entry">[58]	杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56－75．</div>
@@ -147,11 +147,11 @@ Undefined
   <div class="csl-entry">[82]	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[83]	Anon. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[84]	Anon. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. 2009.</div>
-  <div class="csl-entry">[85]	Anon. Dublin core metadata element set: version 1.1[EB/OL]. 2012(2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">[85]	Anon. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
   <div class="csl-entry">[86]	Babu B V, Nagar A K, Deep K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[87]	Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[88]	Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
-  <div class="csl-entry">[89]	Bawden D. Origins and concepts of digital literacy[EB/OL]. 2008(2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">[89]	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">[90]	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">[92]	Calms R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
@@ -167,7 +167,7 @@ Undefined
   <div class="csl-entry">[102]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[103]	Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053-1062.</div>
   <div class="csl-entry">[104]	Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398.</div>
-  <div class="csl-entry">[105]	Hopkinson A. UNIMARC and metadata: Dublin core[EB/OL]. 2009(2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+  <div class="csl-entry">[105]	Hopkinson A. UNIMARC and metadata: Dublin core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">[106]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
   <div class="csl-entry">[107]	Kanamori H. Shaking without quaking[J]. Science, 1998, 279(5359): 2063.</div>
   <div class="csl-entry">[108]	Kennedy W J, Garrison R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 1975a, 22: 311.</div>

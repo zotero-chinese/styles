@@ -6,7 +6,7 @@
     <title-short>HEBAU</title-short>
     <id>http://www.zotero.org/styles/hebei-agricultural-university</id>
     <link href="http://www.zotero.org/styles/hebei-agricultural-university" rel="self"/>
-    <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
+    <link href="https://yanjiusheng.hebau.edu.cn/info/1100/2451.htm" rel="documentation"/>
     <author>
       <name>程程Cheng</name>
       <email>960869699@qq.com</email>
@@ -122,14 +122,7 @@
           <text value="N"/>
         </else-if>
         <else-if type="bill">
-          <choose>
-            <if variable="URL">
-              <text value="S/OL"/>
-            </if>
-            <else>
-              <text value="S"/>
-            </else>
-          </choose>
+          <text value="S"/>
         </else-if>
         <else-if type="collection legal_case legislation regulation" match="any">
           <text value="A"/>
@@ -150,30 +143,16 @@
           <text value="P"/>
         </else-if>
         <else-if type="post post-weblog webpage" match="any">
-          <text value="EB/OL"/>
+          <text value="EB"/>
         </else-if>
         <else-if type="report">
-          <choose>
-            <if variable="URL">
-              <text value="R/OL"/>
-            </if>
-            <else>
-              <text value="R"/>
-            </else>
-          </choose>
+          <text value="R"/>
         </else-if>
         <else-if type="software">
           <text value="CP"/>
         </else-if>
         <else-if type="standard">
-          <choose>
-            <if variable="URL">
-              <text value="S/OL"/>
-            </if>
-            <else>
-              <text value="S"/>
-            </else>
-          </choose>
+          <text value="S"/>
         </else-if>
         <else-if type="thesis">
           <text value="D"/>
@@ -181,6 +160,16 @@
         <else>
           <text value="Z"/>
         </else>
+      </choose>
+      <choose>
+        <if type="dataset post post-weblog software webpage" match="any">
+          <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+          <choose>
+            <if variable="URL">
+              <text value="OL"/>
+            </if>
+          </choose>
+        </if>
       </choose>
     </group>
   </macro>
@@ -268,60 +257,30 @@
     </group>
   </macro>
   <macro name="publisher">
-    <group delimiter=": ">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-        <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
     <choose>
-      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
+      <if type="patent">
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
       </if>
-    </choose>
-    <text macro="accessed-date"/>
-  </macro>
-  <macro name="publishing-no-date">
-    <group delimiter=": ">
-      <group delimiter=", ">
+      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <text macro="issued-year"/>
+          </group>
+          <text variable="page"/>
         </group>
-        <choose>
-          <if variable="publisher page" type="book chapter thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
-    <choose>
-      <if variable="publisher page" type="book chapter thesis" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
-      </if>
+      </else-if>
+      <else-if variable="URL" match="none">
+        <text macro="issued-year"/>
+      </else-if>
+      <else-if type="dataset post post-weblog software webpage" match="none">
+        <text macro="issued-year"/>
+      </else-if>
     </choose>
   </macro>
   <macro name="issued-year">
@@ -338,14 +297,26 @@
       </else>
     </choose>
   </macro>
-  <macro name="issued-date"/>
-  <macro name="accessed-date"/>
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
+  </macro>
   <macro name="access">
-    <group delimiter=", ">
-      <text variable="URL"/>
-      <date variable="issued" form="numeric"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 电子文献的出处或可获得地址，发表或更新日期/引用日期(任选) -->
+        <choose>
+          <if variable="URL">
+            <group delimiter=", ">
+              <text variable="URL"/>
+              <group delimiter="/">
+                <text macro="issued-date"/>
+                <date variable="accessed" form="numeric"/>
+              </group>
+            </group>
+          </if>
+        </choose>
+      </if>
+    </choose>
   </macro>
   <macro name="thesis-layout">
     <group delimiter=". " suffix=".">
@@ -372,7 +343,7 @@
       <text macro="title"/>
       <text macro="secondary-contributors"/>
       <text macro="edition"/>
-      <text macro="publishing-no-date"/>
+      <text macro="publisher"/>
     </group>
   </macro>
   <macro name="chapter-in-book-layout">
@@ -389,7 +360,7 @@
         </group>
       </group>
       <text macro="edition"/>
-      <text macro="publishing-no-date"/>
+      <text macro="publisher"/>
     </group>
   </macro>
   <macro name="bill-standard-layout">

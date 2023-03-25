@@ -205,10 +205,10 @@
         </else>
       </choose>
       <choose>
-        <!-- 仅纯电子资源显示“OL” -->
         <if type="dataset post post-weblog software webpage" match="any">
+          <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
           <choose>
-            <if variable="URL" match="any">
+            <if variable="URL">
               <text value="OL"/>
             </if>
           </choose>
@@ -307,35 +307,44 @@
   </macro>
   <!-- 专著的出版项 -->
   <macro name="publisher">
-    <group delimiter=": ">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-        <!-- 非电子资源显示“出版年” -->
-        <choose>
-          <if type="dataset post post-weblog software webpage" match="none">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
     <choose>
-      <!-- 纯电子资源显示“更新或修改日期” -->
-      <if type="dataset post post-weblog software webpage" match="any">
-        <choose>
-          <if variable="URL" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
+      <if type="patent">
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
       </if>
+      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
+        <group delimiter=": ">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <text macro="issued-year"/>
+          </group>
+          <text variable="page"/>
+        </group>
+        <text macro="accessed-date"/>
+      </else-if>
+      <else-if variable="URL">
+        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+        <choose>
+          <if type="dataset post post-weblog software webpage" match="any">
+            <!-- 限制更少的类型作为“纯电子文献“ -->
+            <text macro="issued-date" prefix="(" suffix=")"/>
+            <text macro="accessed-date"/>
+          </if>
+          <else>
+            <text macro="issued-year"/>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <text macro="issued-year"/>
+      </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 出版年 -->
   <macro name="issued-year">
@@ -359,17 +368,21 @@
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
-      <!-- 仅纯电子资源显示引用日期 -->
       <if type="dataset post post-weblog software webpage" match="any">
-        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
+        <choose>
+          <if variable="URL">
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </if>
+        </choose>
       </if>
     </choose>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">
     <choose>
-      <!-- 仅纯电子资源显示 URL -->
       <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
       </if>
     </choose>
@@ -428,10 +441,7 @@
     <group delimiter=". ">
       <text macro="author"/>
       <text macro="title"/>
-      <group>
-        <text macro="issued-date"/>
-        <text macro="accessed-date"/>
-      </group>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>

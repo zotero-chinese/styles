@@ -407,7 +407,11 @@
   </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    <choose>
+      <if variable="URL DOI" match="any">
+        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">

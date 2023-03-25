@@ -130,14 +130,7 @@
           <text value="N"/>
         </else-if>
         <else-if type="bill">
-          <choose>
-            <if variable="URL">
-              <text value="S/OL"/>
-            </if>
-            <else>
-              <text value="S"/>
-            </else>
-          </choose>
+          <text value="S"/>
         </else-if>
         <else-if type="collection legal_case legislation regulation" match="any">
           <text value="A"/>
@@ -158,30 +151,16 @@
           <text value="P"/>
         </else-if>
         <else-if type="post post-weblog webpage" match="any">
-          <text value="EB/OL"/>
+          <text value="EB"/>
         </else-if>
         <else-if type="report">
-          <choose>
-            <if variable="URL">
-              <text value="R/OL"/>
-            </if>
-            <else>
-              <text value="R"/>
-            </else>
-          </choose>
+          <text value="R"/>
         </else-if>
         <else-if type="software">
           <text value="CP"/>
         </else-if>
         <else-if type="standard">
-          <choose>
-            <if variable="URL">
-              <text value="S/OL"/>
-            </if>
-            <else>
-              <text value="S"/>
-            </else>
-          </choose>
+          <text value="S"/>
         </else-if>
         <else-if type="thesis">
           <text value="D"/>
@@ -189,6 +168,16 @@
         <else>
           <text value="Z"/>
         </else>
+      </choose>
+      <choose>
+        <if type="dataset post post-weblog software webpage" match="any">
+          <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+          <choose>
+            <if variable="URL">
+              <text value="OL"/>
+            </if>
+          </choose>
+        </if>
       </choose>
     </group>
   </macro>
@@ -284,67 +273,44 @@
   </macro>
   <!-- 专著的出版项 -->
   <macro name="publisher">
-    <group delimiter=": ">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-        <!-- 非电子资源显示“出版年” -->
-        <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
     <choose>
-      <!-- 纯电子资源显示“更新或修改日期” -->
-      <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
+      <if type="patent">
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
       </if>
-    </choose>
-    <text macro="accessed-date"/>
-  </macro>
-  <!-- 专著的出版项 无日期 -->
-  <macro name="publishing-no-date">
-    <group delimiter=": ">
-      <group delimiter=", ">
+      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <text macro="issued-year"/>
+          </group>
+          <text variable="page"/>
         </group>
-        <!-- 非电子资源显示“出版年” -->
+        <text macro="accessed-date"/>
+      </else-if>
+      <else-if variable="URL">
+        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
         <choose>
-          <if variable="publisher page" type="book chapter thesis" match="any">
-            <text macro="issued-year"/>
-          </if>
-          <else-if variable="URL DOI" match="none">
-            <text macro="issued-year"/>
-          </else-if>
-        </choose>
-      </group>
-      <text variable="page"/>
-    </group>
-    <choose>
-      <!-- 纯电子资源或会议论文显示“更新或修改日期” -->
-      <if variable="publisher page" type="book chapter thesis" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
+          <if type="dataset post post-weblog software webpage" match="any">
+            <!-- 限制更少的类型作为“纯电子文献“ -->
             <text macro="issued-date" prefix="(" suffix=")"/>
+            <text macro="accessed-date"/>
           </if>
+          <else>
+            <text macro="issued-year"/>
+          </else>
         </choose>
-      </if>
+      </else-if>
+      <else>
+        <text macro="issued-year"/>
+      </else>
     </choose>
-    <!-- <text macro="accessed-date" /> -->
   </macro>
   <!-- 出版年 -->
   <macro name="issued-year">
@@ -367,14 +333,25 @@
   </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
+        <choose>
+          <if variable="URL">
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </if>
+        </choose>
+      </if>
+    </choose>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">
-    <group delimiter=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
+        <text variable="URL"/>
+      </if>
+    </choose>
   </macro>
   <!-- 学位论文 -->
   <macro name="thesis-layout">
@@ -405,7 +382,7 @@
       <text macro="title"/>
       <text macro="secondary-contributors"/>
       <text macro="edition"/>
-      <text macro="publishing-no-date"/>
+      <text macro="publisher"/>
       <!-- <text macro="access" /> -->
     </group>
   </macro>
@@ -424,7 +401,7 @@
         </group>
       </group>
       <text macro="edition"/>
-      <text macro="publishing-no-date"/>
+      <text macro="publisher"/>
       <!-- <text macro="access" /> -->
     </group>
   </macro>

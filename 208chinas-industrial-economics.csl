@@ -183,10 +183,10 @@
         </else>
       </choose>
       <choose>
-        <!-- 仅纯电子资源显示“OL” -->
         <if type="dataset post post-weblog software webpage" match="any">
+          <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
           <choose>
-            <if variable="URL" match="any">
+            <if variable="URL">
               <text value="OL"/>
             </if>
           </choose>
@@ -324,8 +324,8 @@
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">
     <choose>
-      <!-- 仅纯电子资源显示 URL -->
       <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
       </if>
     </choose>

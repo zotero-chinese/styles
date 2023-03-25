@@ -303,8 +303,8 @@
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">
     <choose>
-      <!-- 仅纯电子资源显示 URL -->
       <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
       </if>
     </choose>

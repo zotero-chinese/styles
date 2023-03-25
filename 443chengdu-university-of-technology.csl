@@ -302,26 +302,30 @@
   </macro>
   <!-- 专著的出版项 -->
   <macro name="publisher">
-    <group delimiter=": ">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-      </group>
-      <text variable="page"/>
-    </group>
     <choose>
-      <!-- 纯电子资源显示“更新或修改日期” -->
-      <if type="book chapter paper-conference periodical thesis" variable="publisher page" match="none">
-        <choose>
-          <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
-          </if>
-        </choose>
+      <if type="patent">
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
       </if>
+      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
+        <group delimiter=": ">
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <text variable="page"/>
+        </group>
+        <text macro="accessed-date"/>
+      </else-if>
+      <else-if variable="URL DOI" match="any">
+        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+        <text macro="issued-date" prefix="(" suffix=")"/>
+        <text macro="accessed-date"/>
+      </else-if>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 出版年 -->
   <macro name="issued-year">
@@ -344,7 +348,11 @@
   </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    <choose>
+      <if variable="URL DOI" match="any">
+        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="access">
@@ -414,10 +422,7 @@
     <group delimiter=". ">
       <text macro="author-date"/>
       <text macro="title"/>
-      <group>
-        <text macro="issued-date"/>
-        <text macro="accessed-date"/>
-      </group>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>

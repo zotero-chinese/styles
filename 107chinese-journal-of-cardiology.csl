@@ -174,10 +174,15 @@
         </else>
       </choose>
       <choose>
-        <if variable="URL">
+        <if type="dataset post post-weblog software webpage" match="any">
+          <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
           <choose>
-            <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="DOI" match="none">
-              <text value="OL"/>
+            <if variable="URL">
+              <choose>
+                <if variable="DOI" match="none">
+                  <text value="OL"/>
+                </if>
+              </choose>
             </if>
           </choose>
         </if>
@@ -281,17 +286,26 @@
   </macro>
   <!-- 专著的出版项 -->
   <macro name="publisher">
-    <group delimiter=":">
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
+    <choose>
+      <if type="patent">
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
+      </if>
+      <else>
+        <group delimiter=":">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <text macro="issued-year"/>
+          </group>
+          <text variable="page"/>
         </group>
-        <text macro="issued-year"/>
-      </group>
-      <text variable="page"/>
-    </group>
-    <text macro="accessed-date"/>
+        <text macro="accessed-date"/>
+      </else>
+    </choose>
   </macro>
   <!-- 出版年 -->
   <macro name="issued-year">
@@ -314,12 +328,16 @@
   </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date">
-    <!-- 仅当纯电子资源需要显示 URL 时才显示引用日期 -->
     <choose>
-      <if variable="URL">
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
         <choose>
-          <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="DOI" match="none">
-            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          <if variable="URL">
+            <choose>
+              <if variable="DOI" match="none">
+                <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+              </if>
+            </choose>
           </if>
         </choose>
       </if>
@@ -329,11 +347,13 @@
   <macro name="access">
     <choose>
       <if variable="DOI">
+        <!-- 对有DOI编码的文章必须著录DOI -->
         <text variable="DOI" prefix="DOI: "/>
       </if>
       <else-if variable="URL">
         <choose>
-          <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" match="none">
+          <if type="dataset post post-weblog software webpage" match="any">
+            <!-- 仅纯电子资源显示 URL -->
             <text variable="URL"/>
           </if>
         </choose>
@@ -394,10 +414,7 @@
     <group delimiter=". " suffix=".">
       <text macro="author"/>
       <text macro="title"/>
-      <group>
-        <text macro="issued-date"/>
-        <text macro="accessed-date"/>
-      </group>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>
