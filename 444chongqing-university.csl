@@ -228,11 +228,11 @@
       </choose>
     </group>
   </macro>
-  <!-- 连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） -->
+  <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
-        <!-- 报纸只有刊名、日期和版次（page） -->
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
             <text variable="container-title"/>
@@ -246,6 +246,7 @@
         </group>
       </if>
       <else>
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
@@ -282,7 +283,7 @@
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
   </macro>
-  <!-- 专著的出版项 -->
+  <!-- 出版项 -->
   <macro name="publisher">
     <choose>
       <if type="patent">
@@ -322,6 +323,7 @@
   <macro name="issued-year">
     <choose>
       <if is-uncertain-date="issued">
+        <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
         <date variable="issued" prefix="[" suffix="]">
           <date-part name="year"/>
         </date>

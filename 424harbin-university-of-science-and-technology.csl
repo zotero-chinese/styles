@@ -227,11 +227,11 @@
       </choose>
     </group>
   </macro>
-  <!-- 连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） -->
+  <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
-        <!-- 报纸只有刊名、日期和版次（page） -->
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
           <text variable="container-title"/>
           <text macro="issued-date"/>
@@ -239,6 +239,7 @@
         <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
@@ -276,7 +277,7 @@
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
   </macro>
-  <!-- 专著的出版项 -->
+  <!-- 出版项 -->
   <macro name="publisher">
     <choose>
       <if type="patent">
@@ -325,6 +326,7 @@
   <macro name="issued-year">
     <choose>
       <if is-uncertain-date="issued">
+        <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
         <date variable="issued" prefix="[" suffix="]">
           <date-part name="year" range-delimiter="-"/>
         </date>
@@ -336,7 +338,7 @@
       </else>
     </choose>
   </macro>
-  <!-- 电子资源的更新或修改日期 -->
+  <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
   </macro>
@@ -353,7 +355,7 @@
       </if>
     </choose>
   </macro>
-  <!-- 获取和访问路径以及 DOI -->
+  <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">

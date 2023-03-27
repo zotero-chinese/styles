@@ -293,6 +293,7 @@
   <macro name="issued-year">
     <choose>
       <if is-uncertain-date="issued">
+        <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
         <date variable="issued" prefix="[" suffix="]">
           <date-part name="year" range-delimiter="-"/>
         </date>
