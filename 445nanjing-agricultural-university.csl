@@ -171,7 +171,7 @@
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="book-volume-zh"/>
+              <text macro="volume-zh"/>
             </if>
           </choose>
           <choose>
@@ -221,7 +221,7 @@
     </choose>
   </macro>
   <!-- 中文书籍的卷号（“第 x 卷”或“第 x 册”） -->
-  <macro name="book-volume-zh">
+  <macro name="volume-zh">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
@@ -366,7 +366,7 @@
             <text variable="event-title"/>
           </else>
         </choose>
-        <text macro="book-volume-zh"/>
+        <text macro="volume-zh"/>
       </group>
       <choose>
         <if variable="event-date">
@@ -595,161 +595,109 @@
     </group>
     <text variable="issue" prefix="（" suffix="）"/>
   </macro>
-  <!-- 中文专著和电子资源 -->
-  <macro name="monograph-layout-zh">
-    <group delimiter="．">
-      <text macro="author-zh"/>
-      <text macro="title-zh"/>
-      <text macro="secondary-contributors-zh"/>
-      <text macro="edition"/>
-      <text macro="publisher-zh"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 中文专著中的析出文献 -->
-  <macro name="chapter-in-book-layout-zh">
-    <group delimiter="．">
-      <text macro="author-zh"/>
-      <group delimiter="//">
-        <group delimiter="．">
-          <text macro="title-zh"/>
-          <text macro="secondary-contributors-zh"/>
-        </group>
-        <group delimiter="．">
-          <text macro="container-contributors"/>
-          <text macro="container-booklike-zh"/>
-        </group>
-      </group>
-      <text macro="edition"/>
-      <text macro="publisher-zh"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 中文连续出版物 -->
-  <macro name="periodical-layout-zh">
-    <group delimiter="．">
-      <text macro="author-zh"/>
-      <text macro="title-zh"/>
-      <text macro="year-volume-issue-zh"/>
-      <text macro="publisher-zh"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 中文连续出版物中的析出文献 -->
-  <macro name="article-in-periodical-layout-zh">
-    <group delimiter="．">
-      <text macro="author-zh"/>
-      <text macro="title-zh"/>
-      <text macro="container-periodical-zh"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 中文专利文献 -->
-  <macro name="patent-layout-zh">
-    <group delimiter="．">
-      <text macro="author-zh"/>
-      <text macro="title-zh"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 英文专著和电子资源 -->
-  <macro name="monograph-layout">
+  <!-- 英文参考文献表格式 -->
+  <macro name="entry-layout">
     <group delimiter=". ">
       <text macro="author"/>
-      <text macro="title"/>
-      <text macro="secondary-contributors"/>
-      <text macro="edition"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 英文专著中的析出文献 -->
-  <macro name="chapter-in-book-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <group delimiter="//">
-        <group delimiter=". ">
+      <choose>
+        <if type="periodical">
+          <!-- 4.3 连续出版物 -->
+          <text macro="title"/>
+          <text macro="year-volume-issue"/>
+          <text macro="publisher"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
+          <text macro="title"/>
+          <text macro="container-periodical"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 4.5 专利文献 -->
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="chapter paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
+          <group delimiter="//">
+            <group delimiter=". ">
+              <text macro="title"/>
+              <text macro="secondary-contributors"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="container-contributors"/>
+              <text macro="container-booklike"/>
+            </group>
+          </group>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else>
+          <!-- 4.1 专著 -->
           <text macro="title"/>
           <text macro="secondary-contributors"/>
-        </group>
-        <group delimiter=". ">
-          <text macro="container-contributors"/>
-          <text macro="container-booklike"/>
-        </group>
-      </group>
-      <text macro="edition"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 英文连续出版物 -->
-  <macro name="periodical-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="year-volume-issue"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 英文连续出版物中的析出文献 -->
-  <macro name="article-in-periodical-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="container-periodical"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 英文专利文献 -->
-  <macro name="patent-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="publisher"/>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else>
+      </choose>
       <text macro="access"/>
     </group>
   </macro>
   <!-- 中文参考文献表格式 -->
   <macro name="entry-layout-zh">
-    <choose>
-      <if type="article-journal article-magazine article-newspaper" match="any">
-        <text macro="article-in-periodical-layout-zh"/>
-      </if>
-      <else-if type="periodical">
-        <text macro="periodical-layout-zh"/>
-      </else-if>
-      <else-if type="patent">
-        <text macro="patent-layout-zh"/>
-      </else-if>
-      <else-if type="chapter paper-conference" variable="container-title" match="any">
-        <text macro="chapter-in-book-layout-zh"/>
-      </else-if>
-      <else>
-        <text macro="monograph-layout-zh"/>
-      </else>
-    </choose>
-  </macro>
-  <!-- 英文参考文献表格式 -->
-  <macro name="entry-layout">
-    <choose>
-      <if type="article-journal article-magazine article-newspaper" match="any">
-        <text macro="article-in-periodical-layout"/>
-      </if>
-      <else-if type="periodical">
-        <text macro="periodical-layout"/>
-      </else-if>
-      <else-if type="patent">
-        <text macro="patent-layout"/>
-      </else-if>
-      <else-if type="chapter paper-conference" variable="container-title" match="any">
-        <text macro="chapter-in-book-layout"/>
-      </else-if>
-      <else>
-        <text macro="monograph-layout"/>
-      </else>
-    </choose>
+    <group delimiter="．">
+      <text macro="author-zh"/>
+      <choose>
+        <if type="periodical">
+          <!-- 4.3 连续出版物 -->
+          <text macro="title-zh"/>
+          <text macro="year-volume-issue-zh"/>
+          <text macro="publisher-zh"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
+          <text macro="title-zh"/>
+          <text macro="container-periodical-zh"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 4.5 专利文献 -->
+          <text macro="title-zh"/>
+          <text macro="publisher-zh"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
+          <text macro="title-zh"/>
+          <text macro="publisher-zh"/>
+        </else-if>
+        <else-if type="chapter paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
+          <group delimiter="//">
+            <group delimiter="．">
+              <text macro="title-zh"/>
+              <text macro="secondary-contributors-zh"/>
+            </group>
+            <group delimiter="．">
+              <text macro="container-contributors"/>
+              <text macro="container-booklike-zh"/>
+            </group>
+          </group>
+          <text macro="edition"/>
+          <text macro="publisher-zh"/>
+        </else-if>
+        <else>
+          <!-- 4.1 专著 -->
+          <text macro="title-zh"/>
+          <text macro="secondary-contributors-zh"/>
+          <text macro="edition"/>
+          <text macro="publisher-zh"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </group>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>

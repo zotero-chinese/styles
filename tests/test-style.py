@@ -61,11 +61,13 @@ def check_macros(path: str, csl_content: str):
 
     defined_macros = sorted(unique_macros)
 
-    # for macro in defined_macros:
-    #     if macro not in called_macros:
-    #         for line_number in find_line_numbers(csl_content,
-    #                                              f'<macro name="{macro}"'):
-    #             warning(File f'"{path}", line {line_number}: The macro "{macro}" is not used.')
+    for macro in defined_macros:
+        if macro not in called_macros:
+            for line_number in find_line_numbers(csl_content,
+                                                 f'<macro name="{macro}"'):
+                warning(
+                    f'File "{path}", line {line_number}: The macro "{macro}" is not used.'
+                )
 
     for macro in called_macros:
         if macro not in defined_macros:

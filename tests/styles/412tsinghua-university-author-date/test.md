@@ -152,7 +152,7 @@ Undefined
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书: 中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–[30, ]2012[M]. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer.</div>
   <div class="csl-entry">Baker S K, Jackson M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P, 2011. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press: 105[2012-11-27]. <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
   <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>

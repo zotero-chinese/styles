@@ -347,83 +347,57 @@
       <text variable="DOI" prefix="DOI:"/>
     </group>
   </macro>
-  <!-- 专著和电子资源 -->
-  <macro name="monograph-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="secondary-contributors"/>
-      <text macro="edition"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 专著中的析出文献 -->
-  <macro name="chapter-in-book-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <group delimiter="//">
-        <group delimiter=". ">
-          <text macro="title"/>
-          <text macro="secondary-contributors"/>
-        </group>
-        <group delimiter=". ">
-          <text macro="container-contributors"/>
-          <text macro="container-booklike"/>
-        </group>
-      </group>
-      <text macro="edition"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 连续出版物 -->
-  <macro name="periodical-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="year-volume-issue"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 连续出版物中的析出文献 -->
-  <macro name="article-in-periodical-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="container-periodical"/>
-      <text macro="access"/>
-    </group>
-  </macro>
-  <!-- 专利文献 -->
-  <macro name="patent-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <text macro="title"/>
-      <text macro="publisher"/>
-      <text macro="access"/>
-    </group>
-  </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
-    <choose>
-      <if type="article-journal article-magazine article-newspaper" match="any">
-        <text macro="article-in-periodical-layout"/>
-      </if>
-      <else-if type="periodical">
-        <text macro="periodical-layout"/>
-      </else-if>
-      <else-if type="patent">
-        <text macro="patent-layout"/>
-      </else-if>
-      <else-if type="chapter paper-conference" variable="container-title" match="any">
-        <text macro="chapter-in-book-layout"/>
-      </else-if>
-      <else>
-        <text macro="monograph-layout"/>
-      </else>
-    </choose>
+    <group delimiter=". ">
+      <text macro="author"/>
+      <choose>
+        <if type="periodical">
+          <!-- 4.3 连续出版物 -->
+          <text macro="title"/>
+          <text macro="year-volume-issue"/>
+          <text macro="publisher"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
+          <text macro="title"/>
+          <text macro="container-periodical"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 4.5 专利文献 -->
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="chapter paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
+          <group delimiter="//">
+            <group delimiter=". ">
+              <text macro="title"/>
+              <text macro="secondary-contributors"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="container-contributors"/>
+              <text macro="container-booklike"/>
+            </group>
+          </group>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else>
+          <!-- 4.1 专著 -->
+          <text macro="title"/>
+          <text macro="secondary-contributors"/>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </group>
   </macro>
   <!-- 脚注中引用的格式 -->
   <macro name="note-layout">

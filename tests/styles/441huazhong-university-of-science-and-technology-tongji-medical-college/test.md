@@ -72,11 +72,11 @@ Undefined
   <div class="csl-entry">[15]	S. A. Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1–4 Feb. 2000. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">[16]	P. Baldock. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105</div>
   <div class="csl-entry">[17]	X. Fan, C. H. Sommers. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
-  <div class="csl-entry">[18]	周易外传: 卷 5. 见: 船山全书: 第 6 册, 长沙: 岳麓书社, 2011: 1109</div>
-  <div class="csl-entry">[19]	程根伟. 1998 年长江洪水的成因与减灾对策. 见: 长江流域洪涝灾害与科技对策, 北京: 科学出版社, 1999: 32-36</div>
-  <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究. 见: 中国震旦亚界, 天津: 天津科学技术出版社, 1980: 56-114</div>
-  <div class="csl-entry">[21]	马克思. 政治经济学批判. 见: 马克思恩格斯全集: 第 35 卷, 北京: 人民出版社, 2013: 302</div>
-  <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会年会论文集: 2011 年卷, 国家图书馆出版社, 2011: 45-52</div>
+  <div class="csl-entry">[18]	周易外传: 卷 5. 见: 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109</div>
+  <div class="csl-entry">[19]	程根伟. 1998 年长江洪水的成因与减灾对策. 见: 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36</div>
+  <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究. 见: 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114</div>
+  <div class="csl-entry">[21]	马克思. 政治经济学批判. 见: 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302</div>
+  <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会年会论文集: 2011 年卷, 北京, 国家图书馆出版社, 2011: 45-52</div>
   <div class="csl-entry">[23]	L. Weinstein, M. N. Swertz. Pathogenic properties of invading microorganism. In: Pathologic physiology: mechanisms of disease, Philadelphia: Saunders, 1974: 745-772</div>
   <div class="csl-entry">[24]	J. A. Roberson, E. G. Burneson. Drinking water standards, regulations and goals. In: Water quality &#38; treatment: a handbook on drinking water, New York: McGraw-Hill, 2011: 1.1-1.36</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984</div>
@@ -96,9 +96,9 @@ Undefined
   <div class="csl-entry">[39]	R. Tachibana, S. Shimizu, S. Kobayshi, et al. Electronic watermarking method and system. US, US6915001, 2005</div>
   <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号. 2005</div>
-  <div class="csl-entry">[42]	D. Bawden. Origins and concepts of digital literacy. (2008-05-04). <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
+  <div class="csl-entry">[42]	D. Bawden. Origins and concepts of digital literacy. 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
-  <div class="csl-entry">[44]	A. Hopkinson. UNIMARC and metadata: Dublin core. (2009-04-22). <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
+  <div class="csl-entry">[44]	A. Hopkinson. UNIMARC and metadata: Dublin core. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas. British Medical Journal, 1981, 283(6292): 628</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究: [博士学位论文]. 合肥: 中国科学技术大学, 2000: 17-18</div>
   <div class="csl-entry">[47]	W. Deverell, D. Igler. A companion to California history: [Doctoral dissertation]. New York: John Wiley &#38; Sons, 2013: 21-22</div>
@@ -115,13 +115,13 @@ Undefined
   <div class="csl-entry">[58]	D. Crane. Invisible college. Chicago: Univ. of Chicago Press, 1972</div>
   <div class="csl-entry">[59]	M. F. Stieg. The information needs of historians. College &#38; Research Libraries, 1981, 42(6): 549-560</div>
   <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 2010, 37(4): 147</div>
-  <div class="csl-entry">[61]	王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件. 见: 汉语方言的地理语言学研究, 商务印书馆, 2010: 138</div>
+  <div class="csl-entry">[61]	王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件. 见: 汉语方言的地理语言学研究, 北京, 商务印书馆, 2010: 138</div>
   <div class="csl-entry">[62]	W. J. Kennedy, R. E. Garrison. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 1975, 22: 311</div>
   <div class="csl-entry">[63]	W. J. Kennedy, R. E. Garrison. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 1975, 8(4): 339-360</div>
-  <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求. 见: 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编, 中国科学技术期刊编辑学会学术委员会, 1997: 33-34</div>
+  <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求. 见: 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编, 北京, 中国科学技术期刊编辑学会学术委员会, 1997: 33-34</div>
   <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典. 修订本. 北京: 商务印书馆, 1996</div>
   <div class="csl-entry">[66]	刘彻东. 中国的青年刊物: 个性特色为本仁. 中国出版, 1998(5): 38-39</div>
-  <div class="csl-entry">[67]	裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话. 见: 中国科协学术期刊编辑工作经验交流会资料选, 中国科学技术协会学会工作部, 1981: 2-10</div>
+  <div class="csl-entry">[67]	裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话. 见: 中国科协学术期刊编辑工作经验交流会资料选, 北京, 中国科学技术协会学会工作部, 1981: 2-10</div>
   <div class="csl-entry">[68]	张伯伟. 全唐五代诗格汇考. 南京: 江苏古籍出版社, 2002: 288</div>
   <div class="csl-entry">[69]	皮锡瑞. 师伏堂日记: 第 4 册. 北京: 北京图书馆出版社, 2009: 155</div>
   <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 理论物理概论: 上. 武汉: 武汉大学出版社, 2010: 112</div>
@@ -158,12 +158,12 @@ Undefined
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995. 北京: 中国标准出版社, 1996: 2-3</div>
   <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009. 2009</div>
-  <div class="csl-entry">[104]	卷 39 乞致仕第一. 见: 苏魏公文集: 下册, 北京: 中华书局, 1988: 590</div>
-  <div class="csl-entry">[105]	白书农. 植物开花研究. 见: 植物科学进展, 北京: 高等教育出版社, 1998: 146-163</div>
-  <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理. 见: 中国国家生物安全框架实施国际合作项目研讨会论文集, 中国环境科学出版社, 2002: 22-25</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 见: 文献工作国家标准汇编: 3, 北京: 中国标准出版社, 1988: 59-92</div>
-  <div class="csl-entry">[108]	宋史卷三: 本纪第三. 见: 宋史: 第 1 册, 北京: 中华书局, 1977: 49</div>
-  <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究, 上海: 同济大学出版社, 2011: 011-012</div>
+  <div class="csl-entry">[104]	卷 39 乞致仕第一. 见: 苏魏公文集: 下册. 北京: 中华书局, 1988: 590</div>
+  <div class="csl-entry">[105]	白书农. 植物开花研究. 见: 植物科学进展. 北京: 高等教育出版社, 1998: 146-163</div>
+  <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理. 见: 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 中国环境科学出版社, 2002: 22-25</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 见: 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92</div>
+  <div class="csl-entry">[108]	宋史卷三: 本纪第三. 见: 宋史: 第 1 册. 北京: 中华书局, 1977: 49</div>
+  <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012</div>
   <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord, D. R. Veblen. Subsolidus phenomena in pyroxenes. In: Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>
   <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23–25 Aug. 1971, ASME, c1971: 17-38</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75</div>
@@ -179,8 +179,8 @@ Undefined
   <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 2000-11-12(7)</div>
   <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考. 北京青年报, 2000-01-12</div>
   <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围? 人民日报, 2013-01-12</div>
-  <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道. (2001-12-19). <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a></div>
-  <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪. (2012-05-03). <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a></div>
+  <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道. 2001. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a></div>
+  <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪. 2012. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a></div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a></div>
-  <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1. (2012-06-14). <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
+  <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1. 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
 </div>

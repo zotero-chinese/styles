@@ -59,7 +59,7 @@ Undefined
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003.</div>
   <div class="csl-entry">[14]	P Z Peebles. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
-  <div class="csl-entry">[15]	S A Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–[4, ]2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[15]	S A Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	P Baldock. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[17]	X Fan, C H Sommers. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   <div class="csl-entry">[18]	周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
@@ -69,9 +69,9 @@ Undefined
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   <div class="csl-entry">[23]	L Weinstein, M N Swertz. Pathogenic properties of invading microorganism[M]//W A Sodeman, Jr, W A Sodeman. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	J A Roberson, E G Burneson. Drinking water standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
-  <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志: 卷 1[Z]. 武汉: 中华医学会湖北分会, 1984.</div>
-  <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957.</div>
-  <div class="csl-entry">[27]	American Association for the Advancement of Science. Science: Vol. 1[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志: 卷 1[Z]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
+  <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[Z]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
+  <div class="csl-entry">[27]	American Association for the Advancement of Science. Science: Vol. 1[Z]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12: 2.</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-12.</div>
@@ -151,7 +151,7 @@ Undefined
   <div class="csl-entry">[104]	卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
   <div class="csl-entry">[110]	P R Buseck, G L Nord, D R Veblen. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
