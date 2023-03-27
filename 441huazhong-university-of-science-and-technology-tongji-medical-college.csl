@@ -139,17 +139,6 @@
       <label form="short" prefix=", "/>
     </names>
   </macro>
-  <!-- 专著主要责任者 -->
-  <macro name="container-contributors">
-    <names variable="editor">
-      <name/>
-      <substitute>
-        <names variable="editorial-director"/>
-        <names variable="collection-editor"/>
-        <names variable="container-author"/>
-      </substitute>
-    </names>
-  </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
     <text term="in" text-case="capitalize-first" suffix=": "/>

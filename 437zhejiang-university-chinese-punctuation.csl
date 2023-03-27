@@ -147,22 +147,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 文献载体标识 -->
-  <macro name="medium-code">
-    <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
-        <choose>
-          <if variable="medium">
-            <text variable="medium"/>
-          </if>
-          <else-if variable="URL">
-            <text value="OL"/>
-          </else-if>
-        </choose>
-      </if>
-    </choose>
-  </macro>
   <macro name="container-contributors">
     <names variable="container-author">
       <name/>
@@ -255,13 +239,6 @@
         <text term="no date" prefix="[" suffix="]"/>
       </else>
     </choose>
-  </macro>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
-    </date>
   </macro>
   <macro name="entry-layout">
     <text macro="author" suffix=". "/>

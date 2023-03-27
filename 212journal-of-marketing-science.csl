@@ -42,19 +42,6 @@
       <term name="space-et-al">et al.</term>
     </terms>
   </locale>
-  <!-- 这个宏可能没有用到 -->
-  <!-- <macro name="author-bib">
-    <choose>
-      <if variable="original-author">
-        <names variable="original-author">
-          <name initialize="true" initialize-with="" sort-separator=",  " et-al-min="4" et-al-use-first="3"/>
-        </names>
-      </if>
-      <else>
-        <text macro="author"/>
-      </else>
-    </choose>
-  </macro> -->
   <macro name="author">
     <choose>
       <if variable="author">

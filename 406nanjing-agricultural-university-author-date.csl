@@ -239,13 +239,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
-    </date>
-  </macro>
   <macro name="entry-layout">
     <text macro="author" suffix="."/>
     <text macro="title" text-case="capitalize-first"/>

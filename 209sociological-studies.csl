@@ -252,18 +252,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 版本 -->
-  <macro name="edition-en">
-    <choose>
-      <if is-numeric="edition">
-        <number variable="edition" form="ordinal"/>
-        <label variable="edition" form="short"/>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="edition-zh">
     <choose>
       <if is-numeric="edition">

@@ -45,30 +45,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-intext">
-    <choose>
-      <if variable="author">
-        <names variable="author">
-          <name form="short" delimiter=" " and="text" et-al-min="3"/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="author-intext-zh">
-    <choose>
-      <if variable="author">
-        <names variable="author">
-          <name form="long" delimiter="" and="text" et-al-min="3"/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="title">
     <text variable="title" text-case="title"/>
     <choose>

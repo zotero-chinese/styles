@@ -406,21 +406,6 @@
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
   </macro>
-  <!-- 引用日期 -->
-  <macro name="accessed-date">
-    <choose>
-      <if variable="URL DOI" match="any">
-        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
-      </if>
-    </choose>
-  </macro>
-  <!-- 获取和访问路径、数字对象唯一标识符 -->
-  <macro name="access">
-    <group delimiter=". ">
-      <!-- <text variable="URL"/> -->
-      <text variable="DOI" prefix="doi: "/>
-    </group>
-  </macro>
   <!-- 专著和电子资源 -->
   <macro name="monograph-layout">
     <group delimiter=". ">

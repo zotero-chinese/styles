@@ -275,20 +275,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 版本项 -->
-  <macro name="edition">
-    <choose>
-      <if is-numeric="edition">
-        <group delimiter=" ">
-          <number variable="edition" form="ordinal"/>
-          <label variable="edition" form="short"/>
-        </group>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro>
   <!-- 出版项 -->
   <macro name="publisher">
     <group delimiter=": ">

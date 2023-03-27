@@ -189,13 +189,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
-    </date>
-  </macro>
   <macro name="entry-layout-zh">
     <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>

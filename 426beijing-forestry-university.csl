@@ -79,16 +79,6 @@
     <text variable="title"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributors">
-    <names variable="translator">
-      <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
-      </name>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
   <macro name="container-contributors">
     <names variable="container-author">
       <name/>

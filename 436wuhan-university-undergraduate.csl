@@ -254,14 +254,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 连续出版物的年卷期 -->
-  <macro name="year-volume-issue">
-    <group delimiter=", ">
-      <text macro="issued-year"/>
-      <text variable="volume"/>
-    </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-  </macro>
   <!-- 出版项 -->
   <macro name="publisher">
     <choose>
