@@ -27,7 +27,7 @@
       <date-part name="year" range-delimiter="–"/>
     </date>
   </locale>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
       <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>

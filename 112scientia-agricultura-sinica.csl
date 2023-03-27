@@ -18,7 +18,7 @@
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
       <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>

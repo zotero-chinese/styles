@@ -29,7 +29,7 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
