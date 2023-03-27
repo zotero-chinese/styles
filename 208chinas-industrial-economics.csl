@@ -139,7 +139,10 @@
         </if>
       </choose>
     </group>
-    <text macro="type-code" prefix="[" suffix="]"/>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
+      <text macro="medium-code"/>
+    </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
@@ -161,38 +164,42 @@
   </macro>
   <!-- 文献类型标识 -->
   <macro name="type-code">
-    <group delimiter="/">
-      <choose>
-        <if type="article manuscript" match="any">
-          <text value="R"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper periodical" match="any">
-          <text value="J"/>
-        </else-if>
-        <else-if type="book report thesis" match="any">
-          <text value="M"/>
-        </else-if>
-        <else-if type="chapter paper-conference" match="any">
-          <text value="A"/>
-        </else-if>
-        <else-if type="post post-weblog software webpage" match="any">
-          <text value="EB"/>
-        </else-if>
-        <else>
-          <text value="M"/>
-        </else>
-      </choose>
-      <choose>
-        <if type="dataset post post-weblog software webpage" match="any">
-          <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
-          <choose>
-            <if variable="URL">
-              <text value="OL"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
+    <choose>
+      <if type="article manuscript" match="any">
+        <text value="R"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper periodical" match="any">
+        <text value="J"/>
+      </else-if>
+      <else-if type="book report thesis" match="any">
+        <text value="M"/>
+      </else-if>
+      <else-if type="chapter paper-conference" match="any">
+        <text value="A"/>
+      </else-if>
+      <else-if type="post post-weblog software webpage" match="any">
+        <text value="EB"/>
+      </else-if>
+      <else>
+        <text value="M"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 文献载体标识 -->
+  <macro name="medium-code">
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+        <choose>
+          <if variable="medium">
+            <text variable="medium"/>
+          </if>
+          <else-if variable="URL">
+            <text value="OL"/>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
   </macro>
   <!-- 其他责任者 -->
   <macro name="secondary-contributors-en">

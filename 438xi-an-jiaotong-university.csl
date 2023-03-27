@@ -112,7 +112,10 @@
         </group>
       </group>
     </group>
-    <text macro="type-code" prefix="[" suffix="]"/>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
+      <text macro="medium-code"/>
+    </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
@@ -134,82 +137,76 @@
   </macro>
   <!-- 文献类型标识 -->
   <macro name="type-code">
-    <group delimiter="/">
-      <choose>
-        <if type="article">
-          <choose>
-            <if variable="archive">
-              <text value="A"/>
-            </if>
-            <else>
-              <text value="M"/>
-            </else>
-          </choose>
-        </if>
-        <else-if type="article-journal article-magazine periodical" match="any">
-          <text value="J"/>
-        </else-if>
-        <else-if type="article-newspaper">
-          <text value="N"/>
-        </else-if>
-        <else-if type="bill collection legal_case legislation regulation" match="any">
-          <text value="A"/>
-        </else-if>
-        <else-if type="book chapter" match="any">
-          <text value="M"/>
-        </else-if>
-        <else-if type="dataset">
-          <text value="DS"/>
-        </else-if>
-        <else-if type="map">
-          <text value="CM"/>
-        </else-if>
-        <else-if type="paper-conference">
-          <text value="C"/>
-        </else-if>
-        <else-if type="patent">
-          <text value="P"/>
-        </else-if>
-        <else-if type="post post-weblog webpage" match="any">
-          <text value="EB"/>
-        </else-if>
-        <else-if type="report">
-          <text value="R"/>
-        </else-if>
-        <else-if type="software">
-          <text value="CP"/>
-        </else-if>
-        <else-if type="standard">
-          <text value="S"/>
-        </else-if>
-        <else-if type="thesis">
-          <text value="D"/>
-        </else-if>
-        <else>
-          <text value="Z"/>
-        </else>
-      </choose>
-      <choose>
-        <!-- 仅纯电子资源extra中“medium: DK”显示载体：DK(disk),MT(magnetic tape), CD(CD-ROM), OL(online)。常规variable见https://docs.citationstyles.org/en/stable/specification.html#name-variable-terms网页 -->
-        <if type="dataset patent post post-weblog software webpage" match="any">
-          <choose>
-            <if variable="medium">
-              <text variable="medium"/>
-            </if>
-          </choose>
-          <choose>
+    <choose>
+      <if type="article">
+        <choose>
+          <if variable="archive">
+            <text value="A"/>
+          </if>
+          <else>
+            <text value="M"/>
+          </else>
+        </choose>
+      </if>
+      <else-if type="article-journal article-magazine periodical" match="any">
+        <text value="J"/>
+      </else-if>
+      <else-if type="article-newspaper">
+        <text value="N"/>
+      </else-if>
+      <else-if type="bill collection legal_case legislation regulation" match="any">
+        <text value="A"/>
+      </else-if>
+      <else-if type="book chapter" match="any">
+        <text value="M"/>
+      </else-if>
+      <else-if type="dataset">
+        <text value="DS"/>
+      </else-if>
+      <else-if type="map">
+        <text value="CM"/>
+      </else-if>
+      <else-if type="paper-conference">
+        <text value="C"/>
+      </else-if>
+      <else-if type="patent">
+        <text value="P"/>
+      </else-if>
+      <else-if type="post post-weblog webpage" match="any">
+        <text value="EB"/>
+      </else-if>
+      <else-if type="report">
+        <text value="R"/>
+      </else-if>
+      <else-if type="software">
+        <text value="CP"/>
+      </else-if>
+      <else-if type="standard">
+        <text value="S"/>
+      </else-if>
+      <else-if type="thesis">
+        <text value="D"/>
+      </else-if>
+      <else>
+        <text value="Z"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="medium-code">
+    <choose>
+      <!-- 仅纯电子资源extra中“medium: DK”显示载体：DK(disk),MT(magnetic tape), CD(CD-ROM), OL(online)。常规variable见https://docs.citationstyles.org/en/stable/specification.html#name-variable-terms网页 -->
+      <if type="dataset patent post post-weblog software webpage" match="any">
+        <choose>
+          <if variable="medium">
+            <text variable="medium"/>
+          </if>
+          <else-if variable="URL" match="any">
             <!-- 纯电子资源且无page则显示“OL” -->
-            <if variable="publisher page" match="none">
-              <choose>
-                <if variable="URL" match="any">
-                  <text value="OL"/>
-                </if>
-              </choose>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
+            <text value="OL"/>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
   </macro>
   <!-- 其他责任者 -->
   <macro name="secondary-contributors">

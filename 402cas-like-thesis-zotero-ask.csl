@@ -65,11 +65,7 @@
     <!-- <text variable="number" prefix=": "/> -->
     <!-- <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose>
+      <text macro="medium-code"/>
     </group> -->
   </macro>
   <macro name="type-code">
@@ -110,6 +106,22 @@
       <else>
         <text value="Z"/>
       </else>
+    </choose>
+  </macro>
+  <!-- 文献载体标识 -->
+  <macro name="medium-code">
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+        <choose>
+          <if variable="medium">
+            <text variable="medium"/>
+          </if>
+          <else-if variable="URL">
+            <text value="OL"/>
+          </else-if>
+        </choose>
+      </if>
     </choose>
   </macro>
   <macro name="container-contributors">

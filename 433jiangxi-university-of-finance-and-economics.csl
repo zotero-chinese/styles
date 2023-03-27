@@ -78,26 +78,13 @@
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <!-- <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose> -->
-      <!-- 删除将文献文献类型加OL -->
+      <text macro="medium-code"/>
     </group>
   </macro>
   <macro name="type-code">
     <choose>
       <if type="article-journal article-magazine" match="any">
-        <choose>
-          <if variable="volume issue" match="none">
-            <!-- 如果没有卷和期，认为是网络首发，文献类型为J/OL -->
-            <text value="J/OL"/>
-          </if>
-          <else>
-            <text value="J"/>
-          </else>
-        </choose>
+        <text value="J"/>
       </if>
       <else-if type="article-newspaper">
         <text value="N"/>
@@ -121,7 +108,7 @@
         <text value="P"/>
       </else-if>
       <else-if type="post-weblog webpage" match="any">
-        <text value="EB/OL"/>
+        <text value="EB"/>
       </else-if>
       <else-if type="report">
         <text value="R"/>
@@ -132,6 +119,30 @@
       <else>
         <text value="Z"/>
       </else>
+    </choose>
+  </macro>
+  <!-- 文献载体标识 -->
+  <macro name="medium-code">
+    <choose>
+      <if variable="medium">
+        <text variable="medium"/>
+      </if>
+      <else-if variable="URL">
+        <choose>
+          <if type="article-journal article-magazine" match="any">
+            <choose>
+              <if variable="volume issue" match="none">
+                <!-- 如果没有卷和期，认为是网络首发，文献类型为J/OL -->
+                <text value="OL"/>
+              </if>
+            </choose>
+          </if>
+          <else-if type="dataset post post-weblog software webpage" match="any">
+            <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+            <text value="OL"/>
+          </else-if>
+        </choose>
+      </else-if>
     </choose>
   </macro>
   <macro name="container-contributors">

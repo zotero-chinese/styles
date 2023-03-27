@@ -48,11 +48,7 @@
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose>
+      <text macro="medium-code"/>
     </group>
   </macro>
   <macro name="type-code">
@@ -93,6 +89,17 @@
       <else>
         <text value="Z"/>
       </else>
+    </choose>
+  </macro>
+  <!-- 文献载体标识 -->
+  <macro name="medium-code">
+    <choose>
+      <if variable="medium">
+        <text variable="medium"/>
+      </if>
+      <else-if variable="URL">
+        <text value="OL"/>
+      </else-if>
     </choose>
   </macro>
   <macro name="container-contributors">

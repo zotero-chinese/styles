@@ -65,56 +65,6 @@
   </macro>
   <macro name="title">
     <text variable="title"/>
-    <!-- <text variable="number" prefix=": "/> -->
-    <!--
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose>
-    </group> -->
-  </macro>
-  <macro name="type-code">
-    <choose>
-      <if type="article-journal article-magazine" match="any">
-        <text value="J"/>
-      </if>
-      <else-if type="article-newspaper">
-        <text value="N"/>
-      </else-if>
-      <else-if type="bill legislation standard" match="any">
-        <text value="S"/>
-      </else-if>
-      <else-if type="book">
-        <text value="M"/>
-      </else-if>
-      <else-if type="chapter">
-        <text value="M"/>
-      </else-if>
-      <else-if type="dataset">
-        <text value="DS"/>
-      </else-if>
-      <else-if type="paper-conference">
-        <text value="C"/>
-      </else-if>
-      <else-if type="patent">
-        <text value="P"/>
-      </else-if>
-      <else-if type="post-weblog webpage" match="any">
-        <text value="EB"/>
-      </else-if>
-      <else-if type="report">
-        <text value="R"/>
-      </else-if>
-      <else-if type="thesis">
-        <text variable="genre" suffix="学位论文"/>
-      </else-if>
-      <else>
-        <text value="Z"/>
-      </else>
-    </choose>
   </macro>
   <macro name="container-contributors">
     <names variable="container-author">
@@ -332,7 +282,6 @@
         </group>
       </group>
     </layout>
-
   </citation>
   <bibliography entry-spacing="0" et-al-min="21" et-al-use-first="20" second-field-align="flush">
     <sort>
@@ -345,6 +294,5 @@
     <layout>
       <text macro="entry-layout-en" suffix="."/>
     </layout>
-
   </bibliography>
 </style>

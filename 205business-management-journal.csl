@@ -88,11 +88,6 @@
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
-      <!-- <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose> -->
     </group>
   </macro>
   <macro name="type-code">

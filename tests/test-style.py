@@ -20,13 +20,6 @@ def warning(str):
     print(f'Warning: {str}', file=sys.stderr)
 
 
-def prepare_style_dir(style_name):
-    style_test_dir = os.path.join(TEST_DIR, style_name)
-    if not os.path.exists(style_test_dir):
-        info(f'Creating "{style_test_dir}"')
-        os.makedirs(style_test_dir)
-
-
 def find_line_numbers(content, str):
     lines = content.splitlines()
     for i, line in enumerate(lines):
@@ -61,13 +54,13 @@ def check_macros(path: str, csl_content: str):
 
     defined_macros = sorted(unique_macros)
 
-    for macro in defined_macros:
-        if macro not in called_macros:
-            for line_number in find_line_numbers(csl_content,
-                                                 f'<macro name="{macro}"'):
-                warning(
-                    f'File "{path}", line {line_number}: The macro "{macro}" is not used.'
-                )
+    # for macro in defined_macros:
+    #     if macro not in called_macros:
+    #         for line_number in find_line_numbers(csl_content,
+    #                                              f'<macro name="{macro}"'):
+    #             warning(
+    #                 f'File "{path}", line {line_number}: The macro "{macro}" is not used.'
+    #             )
 
     for macro in called_macros:
         if macro not in defined_macros:
@@ -76,6 +69,18 @@ def check_macros(path: str, csl_content: str):
                 warning(
                     f'File "{path}", line {line_number}: The macro "{macro}" is not defined.'
                 )
+
+
+def check_medium(path: str, csl_content: str):
+    if '"OL"' in csl_content and 'text variable="medium"' not in csl_content:
+        warning(f'File "{path}" does not contain "medium" variable.')
+
+
+def prepare_style_dir(style_name):
+    style_test_dir = os.path.join(TEST_DIR, style_name)
+    if not os.path.exists(style_test_dir):
+        info(f'Creating "{style_test_dir}"')
+        os.makedirs(style_test_dir)
 
 
 def test_style(path):
@@ -87,10 +92,13 @@ def test_style(path):
         csl_content = f.read()
 
     # info(f'Running test of "{style_name}.csl"')
-    prepare_style_dir(style_name)
-    os.system(f'node tests/test-style.js {style_name}.csl')
 
     check_macros(path, csl_content)
+
+    # check_medium(path, csl_content)
+
+    prepare_style_dir(style_name)
+    os.system(f'node tests/test-style.js {style_name}.csl')
 
 
 def remove_non_existing_style_dirs():
