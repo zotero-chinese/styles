@@ -1,0 +1,391 @@
+[
+	{
+		"id": "aust:09",
+		"type": "paper-conference",
+		"container-title": "第二届中国学位与研究生教育评估研讨会论文集",
+		"event-place": "上海",
+		"language": "zh",
+		"publisher-place": "上海",
+		"title": "中国研究生教育评估发展历程",
+		"author": [
+			{
+				"literal": "廖文武"
+			}
+		],
+		"editor": [
+			{
+				"literal": "叶绍梁"
+			},
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:04",
+		"type": "book",
+		"edition": "2",
+		"event-place": "London",
+		"language": "en",
+		"number-of-pages": "308-312",
+		"publisher": "Butterworths",
+		"publisher-place": "London",
+		"title": "Use of medical literature",
+		"author": [
+			{
+				"literal": "Morton L T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:03",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "群众出版社",
+		"publisher-place": "北京",
+		"source": "Google Scholar",
+		"title": "诗性的哲学散步",
+		"author": [
+			{
+				"literal": "[日]萩原朔太郎"
+			}
+		],
+		"translator": [
+			{
+				"literal": "于君"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:15",
+		"type": "webpage",
+		"language": "zh",
+		"title": "美国大学研究生院排行榜",
+		"URL": "http://www.usnews.com/rank/college/htms",
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					11,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:13",
+		"type": "report",
+		"language": "zh",
+		"note": "type: regulation",
+		"number": "学位[2002]1号",
+		"title": "关于加强和改进专业学位教育工作的若干意见",
+		"author": [
+			{
+				"literal": "国务院学位委员会办公室"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					3,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:06",
+		"type": "article-journal",
+		"abstract": "密码研究历来带着神秘色彩。但近来西方一些国家却开始公开讨论密码学的理论问题。这是怎么一回事呢?《密码学与数学》将会让你了解它的来龙去脉。",
+		"container-title": "自然杂志",
+		"ISSN": "0253-9608",
+		"issue": "7",
+		"language": "zh",
+		"page": "527",
+		"source": "CNKI",
+		"title": "密码学与数学",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKth5mPLKqXjbyzE23kHsboObquo4tRDKBFbThwqHta2K_2E_cLAcVxGbAlzpEeDcOGQqoSeFZZmO&uniplatform=NZKPT",
+		"volume": "7",
+		"author": [
+			{
+				"literal": "陶仁骥"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:08",
+		"type": "chapter",
+		"container-title": "学位与研究生教育",
+		"language": "zh",
+		"page": "14–16",
+		"source": "Google Scholar",
+		"title": "也谈 21 世纪高等工程教育的改革",
+		"author": [
+			{
+				"literal": "张光斗"
+			}
+		],
+		"editor": [
+			{
+				"literal": "林功实"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:02",
+		"type": "thesis",
+		"language": "zh",
+		"publisher": "北京大学数学研究所",
+		"title": "微分半动力系统的不变集",
+		"URL": "https://books.google.com/books?id=DsdVnQEACAAJ",
+		"author": [
+			{
+				"literal": "张筑生"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:01",
+		"type": "book",
+		"edition": "修订 2 版",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "page: 50",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"source": "Google Scholar",
+		"title": "论共产党员的修养",
+		"author": [
+			{
+				"literal": "刘少奇"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:05",
+		"type": "article-journal",
+		"abstract": "扩大高等学校学位与研究生教育的办学自主权,依法自主办学,是构筑研究生教育发展调节机制的首要任务。通过自主自律办学形成高等学校与不同的人才市场相联系的各具特色的研究生教育体系,是建立研究生教育发展调节机制的根本目的。",
+		"container-title": "学位与研究生教育",
+		"DOI": "10.16750/j.adge.2002.09.003",
+		"ISSN": "1001-960X",
+		"issue": "9",
+		"language": "zh",
+		"page": "7-9",
+		"source": "CNKI",
+		"title": "构筑我国研究生教育的发展调节机制",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e7lwLRIsgSA9_SAbW1su7oxC5hsrbUFlZIMP5w6iMGE5sExMFRT6LXKdHNICRRYvkL&uniplatform=NZKPT",
+		"author": [
+			{
+				"literal": "张文修"
+			},
+			{
+				"literal": "丁雪梅"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:07",
+		"type": "article-journal",
+		"container-title": "Library resources and Technical Services",
+		"issue": "3",
+		"language": "en",
+		"page": "205-218",
+		"title": "Technical services in 1983",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Hewitt",
+				"given": "Joe A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:12",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh",
+		"number": "88105607.3",
+		"publisher-place": "中国",
+		"title": "一种温热外敷药制备方案",
+		"author": [
+			{
+				"literal": "姜锡洲"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:14",
+		"type": "webpage",
+		"language": "zh",
+		"title": "关于中国学术期刊标准化数据库系统工程的进展",
+		"URL": "http://www.cajcd.cn/pub/wml.txt/980810-2.html",
+		"author": [
+			{
+				"literal": "王明亮"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"1998",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					8,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:10",
+		"type": "article-newspaper",
+		"container-title": "人民日报",
+		"edition": "10",
+		"language": "zh",
+		"page": "10",
+		"title": "创造学习的新思路",
+		"author": [
+			{
+				"literal": "谢希德"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					12,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "aust:11",
+		"type": "report",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "type: standard",
+		"number": "GB/T 16159—1996",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "汉语拼音正词法基本规则",
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]
