@@ -1,0 +1,50 @@
+[
+	[
+		{
+			"id": "thu-ad.app.5:01",
+			"label": "page",
+			"locator": "19-28"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:02",
+			"label": "page",
+			"locator": "55, 88"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:03",
+			"label": "page",
+			"locator": "35"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:04",
+			"label": "page",
+			"locator": "79"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:05"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:01"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:04"
+		}
+	],
+	[
+		{
+			"id": "thu-ad.app.5:05"
+		}
+	]
+]

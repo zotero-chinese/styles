@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" initialize-with=". " default-locale="en-US">
+  <info>
+    <title>清华大学 - 美术学院</title>
+    <id>http://www.zotero.org/styles/tsinghua-university-academy-of-arts-and-design</id>
+    <link href="http://www.zotero.org/styles/tsinghua-university-academy-of-arts-and-design" rel="self"/>
+    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
+    <link href="https://www.ad.tsinghua.edu.cn/" rel="documentation"/>
+    <author>
+      <name>Zeping Lee</name>
+      <email>zepinglee@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="humanities"/>
+    <summary>清华大学美术学院研究生学位论文引证规范</summary>
+    <updated>2023-03-29T21:48:10+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <!-- 责任者 -->
+  <macro name="author">
+    <names variable="author">
+      <name initialize="true" and="text"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 题名 -->
+  <macro name="title">
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <text variable="title" font-style="italic" text-case="title"/>
+      </if>
+      <else-if variable="container-title">
+        <text variable="title" quotes="true" text-case="title"/>
+      </else-if>
+      <else>
+        <text variable="title" font-style="italic" text-case="title"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributors">
+    <names variable="translator">
+      <label form="verb-short" suffix=" "/>
+      <name initialize="false" and="text"/>
+    </names>
+  </macro>
+  <macro name="container">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <text macro="container-periodical"/>
+      </if>
+      <else-if type="dataset post post-weblog software webpage" match="none">
+        <text macro="container-booklike"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- 期刊题名 -->
+  <macro name="container-periodical">
+    <group delimiter=" ">
+      <group delimiter=", ">
+        <text variable="container-title" font-style="italic" text-case="title"/>
+        <group delimiter=" ">
+          <label variable="volume" form="short"/>
+          <number variable="volume"/>
+        </group>
+        <group delimiter=" ">
+          <label variable="issue" form="short"/>
+          <number variable="issue"/>
+        </group>
+      </group>
+      <date variable="issued" form="text" date-parts="year-month" prefix="(" suffix=")"/>
+    </group>
+  </macro>
+  <!-- 文集题名 -->
+  <macro name="container-booklike">
+    <choose>
+      <if variable="container-title" match="any">
+        <text term="in" suffix=" "/>
+        <group delimiter=", ">
+          <text macro="container-contributors"/>
+          <text variable="container-title" font-style="italic" text-case="title"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!-- 文集责任者 -->
+  <macro name="container-contributors">
+    <names variable="editor">
+      <name initialize="true" and="text"/>
+      <label form="short" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editorial-director"/>
+        <names variable="collection-editor"/>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 出版地/出版者 -->
+  <macro name="publisher">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="none">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!-- 出版年 -->
+  <macro name="date">
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <date variable="issued" form="text"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper" match="none">
+        <date variable="issued" form="text" date-parts="year"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- 页码 -->
+  <macro name="locators-or-pages">
+    <choose>
+      <if locator="page">
+        <text macro="locators"/>
+      </if>
+      <else-if is-numeric="page">
+        <label variable="page" form="short" suffix=" "/>
+        <number variable="page"/>
+      </else-if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="locators">
+    <choose>
+      <if locator="page">
+        <choose>
+          <if is-numeric="locator">
+            <label variable="locator" form="short" suffix=" "/>
+            <number variable="locator"/>
+          </if>
+          <else>
+            <text variable="locator"/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <!-- 获取和访问路径、数字对象唯一标识符 -->
+  <macro name="access">
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <group delimiter=", ">
+          <text variable="URL"/>
+          <date variable="accessed" form="text"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+  <!-- 参考文献表格式 -->
+  <macro name="entry-layout">
+    <group delimiter=", ">
+      <text macro="author"/>
+      <text macro="title"/>
+      <text macro="secondary-contributors"/>
+      <text macro="container"/>
+      <text macro="publisher"/>
+      <text macro="date"/>
+      <text macro="locators-or-pages"/>
+      <text macro="access"/>
+    </group>
+  </macro>
+  <macro name="note-layout">
+    <choose>
+      <if position="subsequent">
+        <!-- 同一文献再次引证时只需标注责任者、题名、页码，出版信息可以省略。 -->
+        <group delimiter=", ">
+          <text macro="author"/>
+          <text macro="title"/>
+          <text macro="container"/>
+          <text macro="locators"/>
+        </group>
+      </if>
+      <else>
+        <text macro="entry-layout"/>
+      </else>
+    </choose>
+  </macro>
+  <citation>
+    <layout delimiter="; " suffix=".">
+      <text macro="note-layout"/>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" second-field-align="flush">
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout" suffix="."/>
+    </layout>
+  </bibliography>
+</style>
