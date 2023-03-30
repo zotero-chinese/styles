@@ -1,0 +1,180 @@
+[
+	{
+		"id": "thu-ad.app.5:02",
+		"type": "book",
+		"event-place": "Hertfordshire",
+		"language": "en",
+		"publisher": "Cumberland House",
+		"publisher-place": "Hertfordshire",
+		"title": "The travels of Marco Polo",
+		"author": [
+			{
+				"family": "Polo",
+				"given": "Marco"
+			}
+		],
+		"translator": [
+			{
+				"family": "Marsden",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "thu-ad.app.5:03",
+		"type": "book",
+		"abstract": "Few historical issues have occasioned such discussion since at least the time of Marx as the transition from feudalism to capitalism in Western Europe. The Brenner Debate, which reprints from Past and Present various article in 1976, is a scholarly presentation of a variety of points of view, covering a very wide range in time, place and type of approach. Weighty theoretical responses to Brenner's first formulation followed from the late Sir Michael Postan, John Hatcher, Emmanuel Le Roy Ladurie and Guy Bois; more particular contributions came from Patricia Croot, David Parker, Arnost Klìma and Heide Wunder on England, France, Bohemia and Germany; and reflective pieces from R. H. Hilton and the late J. P. Cooper. Completing the volume, and giving it an overall coherence, are Brenner's own comprehensive response to those who had taken part in the debate, and also R. H. Hilton's introduction that aims to bring together the major themes in the collection of essays. The debate has already aroused widespread interest among historians and scholars in allied fields as well as among ordinary readers, and may reasonably be regarded as one of the most important historical debates of prevailing years.",
+		"ISBN": "978-0-521-34933-8",
+		"language": "en",
+		"note": "Google-Books-ID: u23ilntsjfMC",
+		"number-of-pages": "356",
+		"publisher": "Cambridge University Press",
+		"source": "Google Books",
+		"title": "The Brenner Debate: Agrarian Class Structure and Economic Development in Pre-industrial Europe",
+		"title-short": "The Brenner Debate",
+		"editor": [
+			{
+				"family": "Aston",
+				"given": "Trevor Henry"
+			},
+			{
+				"family": "Philpin",
+				"given": "C. H. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					3,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "thu-ad.app.5:01",
+		"type": "book",
+		"abstract": "Jacob Burckhardt claimed that the state in Renaissance Italy became a work of art. In this book, the authors illiminate the corollary: that art in Italy became a work of state. They study centres of power under three distinctive governments - a civic republic of the 14th century, a princely court of the 15th, and an absolutist state of the 16th. The authors argue that, no less than armies, laws and taxes, painted halls of state were strategic instruments, tactical weapons and technical machines of government.",
+		"ISBN": "978-0-520-07383-8",
+		"language": "en",
+		"number-of-pages": "404",
+		"publisher": "University of California Press",
+		"source": "Google Books",
+		"title": "Arts of Power: Three Halls of State in Italy, 1300-1600",
+		"title-short": "Arts of Power",
+		"author": [
+			{
+				"family": "Starn",
+				"given": "Randolph"
+			},
+			{
+				"family": "Partridge",
+				"given": "Loren W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "thu-ad.app.5:05",
+		"type": "article-journal",
+		"abstract": "There has been a lot of speculation lately about the emergence of \"civil society\" in China, especially in the wake of the massive demonstrations in Beijing and other major cities in the spring of 1989. Much evidence has been marshaled to support the case: the manifestly high level of political awareness and sophistication among students involved in the demonstrations; the insistent student demands for autonomy; the warm support given to the students not only by \"whitecollar\" professionals but also by the bulk of ordinary citizens; the seeming ability of the demonstrators to police and govern themselves in the midst of chaotic conditions; the aura of goodwill and \"civility\" pervading the streets of Beijing and other cities during this period; and so on. The brutal suppression of the movement by the military, imprisonment of many of the demonstrators, and subsequent repression of dissent, although seen as effective in the short run, have generally been regarded as ineffective in the long term-as flimsy barriers against an inevitable resurgence of the tide. \"The ruthless campaign of suppression that began on June 4,\" writes Thomas Gold (1990: 31), \"revealed in turn the degree to which the [CCP] remains unwilling and unable to accept the reality of nascent civil society in China.\" Civil society is a thorny concept, fraught with theoretical and moral implications. Among China scholars, many have come to see it as the \"missing link\" between Western and non-Western political experiences. Against the assertion that Asian political cultures are generally inimical to Western liberal-democratic norms, the argument is now heard that civil society, which has recently emerged under communist regimes in Eastern Europe, is currently appearing in somewhat similar",
+		"archive_location": "103",
+		"container-title": "Modern China",
+		"DOI": "10.1177/009770049301900206",
+		"ISSN": "0097-7004",
+		"issue": "2",
+		"journalAbbreviation": "Modern China",
+		"language": "en",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "199-215",
+		"source": "0.75 (SQ3)",
+		"title": "On the Search for Civil Society in China",
+		"URL": "https://doi.org/10.1177/009770049301900206",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Chamberlain",
+				"given": "Heath B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "thu-ad.app.5:04",
+		"type": "chapter",
+		"container-title": "Hunger and History: The Impact of Changing Food Production and Consumption Patterns on Society",
+		"event-place": "Cambridge",
+		"language": "en",
+		"note": "publisher: The MIT Press",
+		"page": "265-291",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "JSTOR",
+		"title": "The Impact of Scarcity and Plenty on Population Change in England, 1541-1871",
+		"URL": "https://www.jstor.org/stable/203704",
+		"author": [
+			{
+				"family": "Schofield",
+				"given": "Roger"
+			}
+		],
+		"editor": [
+			{
+				"family": "Rotberg",
+				"given": "Robert I."
+			},
+			{
+				"family": "Rabb",
+				"given": "Theodore K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	}
+]
