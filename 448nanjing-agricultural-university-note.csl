@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>南京农业大学研究生学位论文（人文社科类）2023版，脚注式</summary>
-    <updated>2023-04-01T08:57:50+08:00</updated>
+    <updated>2023-04-01T14:56:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -693,7 +693,7 @@
       <key macro="type-sort-2"/>
       <key macro="author-en"/>
     </sort>
-    <layout suffix="." locale=" en">
+    <layout suffix="." locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en"/>
     </layout>
