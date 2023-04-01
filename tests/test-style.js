@@ -264,6 +264,8 @@ function get_item_data(paths) {
         sample_citations = JSON.parse(fs.readFileSync(paths.sample_cites_path, 'utf8'));
     } else if (paths.test_cites_path) {
         sample_citations = test_citations;
+    } else if (paths.test_data_path) {
+        sample_citations = collect_cites(test_data, citation_format);
     } else {
         sample_citations = JSON.parse(fs.readFileSync(paths[`default_sample_cites_${citation_format}_path`], 'utf8'));;
     }

@@ -1875,11 +1875,11 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 <blockquote>
   <sup>1</sup> 汪昂．增订本草备要：四卷［M］．刻本．京都：老二酉堂，1881．<br>
   <sup>2</sup> 张伯伟．全唐五代诗格汇考［M］．南京：江苏古籍出版社，2002：288．<br>
-  <sup>3</sup> 李炳穆．理想的图书馆员和信息专家的素质与形象［J］．图书情报工作，2000，2（6），5—8．<br>
-  <sup>4</sup> 杨洪升．四库馆私家抄校书考略［J］．文献，2013（1），56—75．<br>
+  <sup>3</sup> 李炳穆．理想的图书馆员和信息专家的素质与形象［J］．图书情报工作，2000，2（6），5-8．<br>
+  <sup>4</sup> 杨洪升．四库馆私家抄校书考略［J］．文献，2013（1），56-75．<br>
   <sup>5</sup> CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.<br>
   <sup>6</sup> International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.<br>
-  <sup>7</sup> DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605—609.<br>
+  <sup>7</sup> DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.<br>
   <sup>8</sup> World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.<br>
   <sup>9</sup> 丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20(15)．<br>
   <sup>10</sup> 萧钰．出版业信息化迈入快车道［EB/OL］．（2001-12-19）［2002-04-15］．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．<br>

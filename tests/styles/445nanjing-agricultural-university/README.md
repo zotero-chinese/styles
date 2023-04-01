@@ -4,23 +4,18 @@
 
 ## 引注
 
-（库恩，2012）<br>
-（Fourney, c1971）<br>
-（贾东琴等，2011）<br>
-（Fan et al., 2013）<br>
-（武丽丽等，2008）<br>
-（Myburg et al., 2014）<br>
-（中国互联网络信息中心，2012；Bawden, 2008）<br>
+（Andolfo et al., 2014）<br>
+（Bethke et al., 2016）<br>
+（杨安钢等，2001）<br>
+（杨月等，2014）<br>
+（曹向锋，2010）<br>
 
 ## 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45－52．</div>
-  <div class="csl-entry">[2]	库恩．科学革命的结构: 第 4 版［M］．金吾伦, 胡新和，译．2 版．北京：北京大学出版社，2012．</div>
-  <div class="csl-entry">[3]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8－9．</div>
-  <div class="csl-entry">[4]	中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告［R］．2012．</div>
-  <div class="csl-entry">[5]	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">[6]	Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">[7]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
-  <div class="csl-entry">[8]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+  <div class="csl-entry">[1]	曹向锋．外来入侵植物黄顶菊在中国潜在适生区预测及其风险评估［D］．南京：南京农业大学，2010：88－120．</div>
+  <div class="csl-entry">[2]	杨安钢，毛积芳，药立波．生物化学与分子生物学实验技术［M］．北京：高等教育出版社，2001：28－59．</div>
+  <div class="csl-entry">[3]	杨月，刘兵，刘小军，等．小麦生育期模拟模型的比较研究［J］．南京农业大学学报，2014，37（1）：6－14．</div>
+  <div class="csl-entry">[4]	Andolfo G, Jupe F, Witek K, et al. Defining the full tomato NB-LRR resistance gene repertoire using genomic and cDNA RenSeq[J]. BMC plant biology, 2014, 14: 120.</div>
+  <div class="csl-entry">[5]	Bethke G, Thao A, Xiong G, et al. Pectin biosynthesis is critical for cell wall integrity and immunity in arabidopsis thaliana[J]. The Plant Cell, 2016, 28(2): 537-556.</div>
 </div>
