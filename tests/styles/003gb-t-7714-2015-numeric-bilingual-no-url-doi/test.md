@@ -68,10 +68,10 @@ Undefined
   <div class="csl-entry">[21]	马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   <div class="csl-entry">[23]	WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]//SODEMAN, JR W A, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
-  <div class="csl-entry">[24]	ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M]//AMERICAN WATER WORKS ASSOCIATION. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">[24]	ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
-  <div class="csl-entry">[27]	AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">[27]	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-12.</div>
@@ -87,7 +87,7 @@ Undefined
   <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[A]. 2005.</div>
   <div class="csl-entry">[42]	BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">[43]	ONLINE COMPUTER LIBRARY CENTER, INC. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+  <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[44]	HOPKINSON A. UNIMARC and metadata: Dublin core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
@@ -124,7 +124,7 @@ Undefined
   <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
   <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010: 119.</div>
   <div class="csl-entry">[79]	CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.</div>
-  <div class="csl-entry">[80]	INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
+  <div class="csl-entry">[80]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
   <div class="csl-entry">[81]	O’BRIEN J A. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin, 1994.</div>
   <div class="csl-entry">[82]	KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">[83]	PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
@@ -136,8 +136,8 @@ Undefined
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R]. 2013.</div>
   <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   <div class="csl-entry">[91]	CALKIN D, AGER A, THOMPSON M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
-  <div class="csl-entry">[92]	U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
-  <div class="csl-entry">[93]	WORLD HEALTH ORGANIZATION. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
+  <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
+  <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.</div>
   <div class="csl-entry">[96]	CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
@@ -171,6 +171,6 @@ Undefined
   <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围?[N]. 人民日报, 2013-01-12.</div>
   <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
   <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪[EB/OL]. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
-  <div class="csl-entry">[127]	COMMONWEALTH LIBRARIES BUREAU OF LIBRARY DEVELOPMENT. PENNSYLVANIA DEPARTMENT OF EDUCATION OFFICE. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
+  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
   <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
 </div>

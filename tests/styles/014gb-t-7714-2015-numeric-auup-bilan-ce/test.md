@@ -80,7 +80,7 @@ Undefined
   <div class="csl-entry">[21] 马克思. 政治经济学批判[M]. 马克思, 恩格斯, 编//马克思恩格斯全集. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   <div class="csl-entry">[23] WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]. SODEMAN, JR W A, SODEMAN W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745-772.</div>
-  <div class="csl-entry">[24] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M/OL]. AMERICAN WATER WORKS ASSOCIATION, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10].</div>
+  <div class="csl-entry">[24] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M/OL]. American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10].</div>
   <div class="csl-entry">[25] 中华医学会湖北分会. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984(1984).</div>
   <div class="csl-entry">[26] 中国图书馆学会. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957(1957).</div>
   <div class="csl-entry">[27] AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883(1883).</div>

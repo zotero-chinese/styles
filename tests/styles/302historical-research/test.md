@@ -67,7 +67,7 @@ Undefined
   <div class="csl-entry">21	马克思《政治经济学批判》，马克思, 恩格斯, 编//《马克思恩格斯全集》北京: 人民出版社，2013年: 302。</div>
   <div class="csl-entry">22	贾东琴、柯平《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社，2011年: 45–52。</div>
   <div class="csl-entry">23	L. Weinstein, M.N. Swertz：<i>Pathogenic properties of invading Microorganism</i>, W A SODEMAN, JR, W A SODEMAN, ed. by//Pathologic physiology: Mechanisms of Disease, Saunders 1974: 745–772.</div>
-  <div class="csl-entry">24	J. Alan Roberson, Eric G. Burneson：<i>Drinking water standards, regulations and Goals</i>, AMERICAN WATER WORKS ASSOCIATION, ed. by//Water quality &#38; treatment: A handbook on drinking Water6 edition. , McGraw-Hill 2011: 1.1-1.36.</div>
+  <div class="csl-entry">24	J. Alan Roberson, Eric G. Burneson：<i>Drinking water standards, regulations and Goals</i>, American Water Works Association, ed. by//Water quality &#38; treatment: A handbook on drinking Water6 edition. , McGraw-Hill 2011: 1.1-1.36.</div>
   <div class="csl-entry">25	中华医学会湖北分会《临床内科杂志》，武汉: 中华医学会湖北分会，1984年1984年。</div>
   <div class="csl-entry">26	中国图书馆学会《图书馆学通讯》，北京: 北京图书馆，1957年1957年。</div>
   <div class="csl-entry">27	American Association for the Advancement of Science：<i>Science</i>, , American Association for the Advancement of Science 18831883.</div>
@@ -131,7 +131,7 @@ Undefined
   <div class="csl-entry">85	《台湾光复六十五周年暨抗战史实学术研讨会论文集》，中国社会科学院台湾史研究中心, 编北京: 九州出版社，2012年。</div>
   <div class="csl-entry">86	《综合湿地管理: 综合湿地管理国际研讨会论文集》，雷光春, 编北京: 海洋出版社，2012年。</div>
   <div class="csl-entry">87	《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，陈志勇, 编北京: 经济科学出版社，2011年。</div>
-  <div class="csl-entry">88	<i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, B V BABU, A K NAGAR, K DEEP, OTHERS, ed. by, Springer 2014.</div>
+  <div class="csl-entry">88	<i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, B V BABU, A K NAGAR, K DEEP, others, ed. by, Springer 2014.</div>
   <div class="csl-entry">89	中华人民共和国国务院新闻办公室《国防白皮书: 中国武装力量的多样化运用》。</div>
   <div class="csl-entry">90	汤万金、杨跃翔、刘文、others《人体安全重要技术标准研制最终报告》。</div>
   <div class="csl-entry">91	D. Calkin, A. Ager, M. Thompson：<i>A comparative risk assessment framework for wildland fire management: The 2010 cohesive strategy science Report</i>.</div>

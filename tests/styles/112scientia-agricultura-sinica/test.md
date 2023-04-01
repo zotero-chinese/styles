@@ -128,7 +128,7 @@ Undefined
     <div class="csl-block">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52. (in Chinese)</div>
 </div>
   <div class="csl-entry">[23]	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism//SODEMAN, JR W A, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
-  <div class="csl-entry">[24]	Roberson J A, Burneson E G. Drinking water standards, regulations and goals//AMERICAN WATER WORKS ASSOCIATION. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">[24]	Roberson J A, Burneson E G. Drinking water standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984. 
 
     <div class="csl-block">中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984. (in Chinese)</div>
