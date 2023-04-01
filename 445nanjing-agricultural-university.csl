@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
-    <title>南京农业大学</title>
+    <title>南京农业大学（著者-出版年）</title>
     <id>http://www.zotero.org/styles/nanjing-agricultural-university</id>
     <link href="http://www.zotero.org/styles/nanjing-agricultural-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
