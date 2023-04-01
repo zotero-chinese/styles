@@ -48,12 +48,12 @@ Undefined
   <div class="csl-entry">[1]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
   <div class="csl-entry">[2]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">[3]	北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.</div>
-  <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3. 2010.</div>
+  <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.</div>
   <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.</div>
   <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
   <div class="csl-entry">[7]	王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.</div>
   <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
-  <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001. 2001.</div>
+  <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.</div>
   <div class="csl-entry">[10]	杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">[11]	赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
@@ -73,7 +73,7 @@ Undefined
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
-  <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报: 2.</div>
+  <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12: 2.</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-12.</div>
   <div class="csl-entry">[31]	李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225-228.</div>
   <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
@@ -81,14 +81,14 @@ Undefined
   <div class="csl-entry">[34]	Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">[35]	Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">[36]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
-  <div class="csl-entry">[37]	邓一刚. 全智能节电器: 200610171314.3[P].</div>
-  <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P].</div>
-  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P].</div>
-  <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>, 2012-01-16.</div>
-  <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[A]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>, 2005-07-12.</div>
-  <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008-05-04.</div>
-  <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
-  <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core[EB/OL]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, 2009-04-22.</div>
+  <div class="csl-entry">[37]	邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
+  <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P]. 2002-03-06.</div>
+  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P]. 2005-07-05.</div>
+  <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+  <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[A]. 2005.</div>
+  <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008-05-04/2013-03-08.</div>
+  <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>, 2012-03-27.</div>
+  <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core[EB/OL]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, 2009-04-22/2013-03-27.</div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
   <div class="csl-entry">[47]	Deverell W, Igler D. A companion to California history[D]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
@@ -133,21 +133,21 @@ Undefined
   <div class="csl-entry">[86]	雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">[87]	陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.</div>
   <div class="csl-entry">[88]	Babu B V, Nagar A K, Deep K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer, 2014.</div>
-  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R/OL]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>, 2013-04-16.</div>
-  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL]. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a>, 2013-09-30.</div>
-  <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9. 2011.</div>
-  <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990. 1990.</div>
-  <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970. 1970.</div>
+  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R]. 2013.</div>
+  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
+  <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
+  <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
+  <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.</div>
   <div class="csl-entry">[96]	Calms R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
-  <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P].</div>
-  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P].</div>
-  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US828402[P].</div>
-  <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3. 2010.</div>
-  <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1. 2007.</div>
-  <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S/OL]. 北京: 中国标准出版社, 1996: 2-3. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>, 1996.</div>
-  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>, 2009.</div>
+  <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.</div>
+  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24.</div>
+  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US828402[P]. 2002-05-25.</div>
+  <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.</div>
+  <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
+  <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996: 2-3.</div>
+  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. 2009.</div>
   <div class="csl-entry">[104]	卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
@@ -165,12 +165,12 @@ Undefined
   <div class="csl-entry">[118]	Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399-418.</div>
   <div class="csl-entry">[119]	Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053-1062.</div>
   <div class="csl-entry">[120]	Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化[N]. 中国青年报: 15.</div>
-  <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报: 7.</div>
-  <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报.</div>
-  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围?[N]. 人民日报.</div>
-  <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道[EB/OL]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>, 2001-12-19.</div>
-  <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪[EB/OL]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>, 2012-05-03.</div>
-  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
-  <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1[EB/OL]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, 2012-06-14.</div>
+  <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20: 15.</div>
+  <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12: 7.</div>
+  <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-01-12.</div>
+  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围?[N]. 人民日报, 2013-01-12.</div>
+  <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道[EB/OL]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>, 2001-12-19/2002-04-15.</div>
+  <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪[EB/OL]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>, 2012-05-03/2013-03-25.</div>
+  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>, 2013-03-24.</div>
+  <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1[EB/OL]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, 2012-06-14/2014-06-11.</div>
 </div>

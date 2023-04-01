@@ -12,10 +12,10 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <issn>1006-5199</issn>
-    <updated>2022-11-02T20:31:43+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
       <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
@@ -44,6 +44,20 @@
       </substitute>
     </names>
   </macro>
+  <macro name="date">
+    <choose>
+      <if type="aritcle-newspaper">
+        <date variable="issued" form="text"/>
+      </if>
+      <else>
+        <date variable="issued" form="text" date-parts="year"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title">
+    <text variable="title" prefix="《" suffix="》"/>
+    <text macro="volume"/>
+  </macro>
   <macro name="volume">
     <choose>
       <if is-numeric="volume">
@@ -56,15 +70,25 @@
       </else>
     </choose>
   </macro>
-  <macro name="title">
-    <text variable="title" prefix="《" suffix="》"/>
-    <text macro="volume"/>
-  </macro>
-  <macro name="translator">
+  <macro name="secondary-contributors">
     <names variable="translator">
       <name delimiter="、" et-al-min="3" et-al-use-first="1"/>
       <label form="short"/>
     </names>
+  </macro>
+  <macro name="container-booklike">
+    <group delimiter="：">
+      <names variable="editor">
+        <name delimiter="、"/>
+        <label form="short"/>
+      </names>
+      <text variable="container-title" prefix="《" suffix="》"/>
+    </group>
+  </macro>
+  <macro name="container-periodical">
+    <text variable="container-title" prefix="《" suffix="》"/>
+    <text macro="date"/>
+    <text macro="issue"/>
   </macro>
   <macro name="issue">
     <choose>
@@ -78,39 +102,27 @@
       </else>
     </choose>
   </macro>
-  <macro name="date">
-    <choose>
-      <if type="aritcle-newspaper">
-        <date variable="issued" form="text"/>
-      </if>
-      <else>
-        <date variable="issued" form="text" date-parts="year"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="container-periodical">
-    <text variable="container-title" prefix="《" suffix="》"/>
-    <text macro="date"/>
-    <text macro="issue"/>
-  </macro>
-  <macro name="container-booklike">
-    <group delimiter="：">
-      <names variable="editor">
-        <name delimiter="、"/>
-        <label form="short"/>
-      </names>
-      <text variable="container-title" prefix="《" suffix="》"/>
-    </group>
-  </macro>
   <macro name="publisher">
     <group delimiter="：">
       <text variable="publisher-place"/>
       <text variable="publisher"/>
     </group>
   </macro>
+  <macro name="locator">
+    <choose>
+      <if is-numeric="locator">
+        <text value="第"/>
+        <number variable="locator"/>
+        <label variable="locator"/>
+      </if>
+      <else>
+        <text variable="locator"/>
+      </else>
+    </choose>
+  </macro>
   <macro name="access">
     <choose>
-      <if type="post post-weblog software webpage">
+      <if type="post post-weblog software webpage" match="any">
         <text variable="URL"/>
       </if>
     </choose>
@@ -120,7 +132,7 @@
       <text macro="author"/>
       <group delimiter="，">
         <text macro="title"/>
-        <text macro="translator"/>
+        <text macro="secondary-contributors"/>
         <choose>
           <if type="article-journal article-magazine article-newspaper" match="any">
             <text macro="container-periodical"/>
@@ -138,18 +150,6 @@
         <text macro="access"/>
       </group>
     </group>
-  </macro>
-  <macro name="locator">
-    <choose>
-      <if is-numeric="locator">
-        <text value="第"/>
-        <number variable="locator"/>
-        <label variable="locator"/>
-      </if>
-      <else>
-        <text variable="locator"/>
-      </else>
-    </choose>
   </macro>
   <citation>
     <layout delimiter="；" suffix="。">

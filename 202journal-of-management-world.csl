@@ -16,7 +16,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2022-11-17T22:13:00+08:00</updated>
+    <updated>2023-03-22T12:38:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -98,16 +98,26 @@
       <text variable="title" prefix="《" suffix="》"/>
     </group>
   </macro>
-  <macro name="issue-zh">
+  <macro name="container-booklike-en">
+    <text term="in" suffix=" "/>
+    <group delimiter=": ">
+      <names variable="editor">
+        <name and="text" name-as-sort-order="first" delimiter-precedes-last="never"/>
+        <label form="short" strip-periods="true" prefix=", "/>
+      </names>
+      <text variable="container-title" text-case="title" font-style="italic"/>
+    </group>
+  </macro>
+  <macro name="container-booklike-zh">
     <choose>
-      <if is-numeric="issue">
-        <text value="第"/>
-        <number variable="issue"/>
-        <label variable="issue" form="short"/>
+      <if variable="container-title">
+        <text term="in"/>
+        <names variable="editor" suffix="：">
+          <name delimiter="、"/>
+          <label form="short"/>
+        </names>
+        <text variable="container-title" prefix="《" suffix="》"/>
       </if>
-      <else>
-        <text variable="issue"/>
-      </else>
     </choose>
   </macro>
   <macro name="container-periodical-en">
@@ -138,26 +148,16 @@
       </group>
     </group>
   </macro>
-  <macro name="container-booklike-en">
-    <text term="in" suffix=" "/>
-    <group delimiter=": ">
-      <names variable="editor">
-        <name and="text" name-as-sort-order="first" delimiter-precedes-last="never"/>
-        <label form="short" strip-periods="true" prefix=", "/>
-      </names>
-      <text variable="container-title" text-case="title" font-style="italic"/>
-    </group>
-  </macro>
-  <macro name="container-booklike-zh">
+  <macro name="issue-zh">
     <choose>
-      <if variable="container-title">
-        <text term="in"/>
-        <names variable="editor" suffix="：">
-          <name delimiter="、"/>
-          <label form="short"/>
-        </names>
-        <text variable="container-title" prefix="《" suffix="》"/>
+      <if is-numeric="issue">
+        <text value="第"/>
+        <number variable="issue"/>
+        <label variable="issue" form="short"/>
       </if>
+      <else>
+        <text variable="issue"/>
+      </else>
     </choose>
   </macro>
   <macro name="publisher-en">

@@ -90,7 +90,7 @@ Undefined
   <div class="csl-entry">35. World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970	</div>
   <div class="csl-entry">36. Calms RB. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California，1965	</div>
   <div class="csl-entry">37. Koseki A, Momose H, Kawahito M, et al. Compiler. 2002-05-25	</div>
-  <div class="csl-entry">38. Anonymous. Information and documentation—The Dublin core metadata element set(2009)	</div>
+  <div class="csl-entry">38. Anonymous. Information and documentation—The Dublin core metadata element set. 	</div>
   <div class="csl-entry">39. Buseck PR, Nord GL, Veblen DR. Subsolidus phenomena in pyroxenes//Washington, D.C.: Mineralogical Society of America, c1980: 117–211	</div>
   <div class="csl-entry">40. Fourney ME. Advances in holographic photoelasticity//New York: ASME, c1971: 17–38	</div>
   <div class="csl-entry">41. Des Marais DJ, Strauss H, Summons RE, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <b>Nature</b>. 1992, 359(6396): 605–609.	 </div>
@@ -103,7 +103,7 @@ Undefined
   <div class="csl-entry">48. 陈登原. 国史旧闻. 北京: 中华书局, 2000a: 29	</div>
   <div class="csl-entry">49. 哈里森·沃尔德伦. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235–236	</div>
   <div class="csl-entry">50. 北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教. 北京: 民族出版社, 2012: 112	</div>
-  <div class="csl-entry">51. 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集. 北京: 中国标准出版社, 2010a: 2–3(2010)	</div>
+  <div class="csl-entry">51. 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集. 北京: 中国标准出版社, 2010a: 2–3	</div>
   <div class="csl-entry">52. 徐光宪, 王祥云. 物质结构. 北京: 科学出版社, 2010	</div>
   <div class="csl-entry">53. 顾炎武. 昌平山水记: 京东考古录. 北京: 北京古籍出版社, 1992	</div>
   <div class="csl-entry">54. 王夫之. 宋论. 刻本 版. 金陵: 湘乡曾国荃, 1865	</div>
@@ -162,13 +162,13 @@ Undefined
   <div class="csl-entry">107. 吴云芳. 面向中文信息处理的现代汉语并列结构研究. 北京: 北京大学，2003	</div>
   <div class="csl-entry">108. 张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置. 2012-04-05	</div>
   <div class="csl-entry">109. 河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法. 2001-10-24	</div>
-  <div class="csl-entry">110. 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料. 北京: 中国标准出版社, 2010b: 3(2010)	</div>
-  <div class="csl-entry">111. 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1(2007)	</div>
-  <div class="csl-entry">112. 国家环境保护局科技标准司. 土壤环境质量标准. 北京: 中国标准出版社, 1996: 2–3(1996)	</div>
+  <div class="csl-entry">110. 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料. 北京: 中国标准出版社, 2010b: 3	</div>
+  <div class="csl-entry">111. 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1	</div>
+  <div class="csl-entry">112. 国家环境保护局科技标准司. 土壤环境质量标准. 北京: 中国标准出版社, 1996: 2–3	</div>
   <div class="csl-entry">113. 佚名. 卷 39 乞致仕第一//<b>苏魏公文集</b>. 北京: 中华书局, 1988: 590	</div>
   <div class="csl-entry">114. 白书农. 植物开花研究. 李承森, 编//<b>植物科学进展</b>. 北京: 高等教育出版社, 1998: 146–163	</div>
   <div class="csl-entry">115. 汪学军. 中国农业转基因生物研究进展与安全管理. 国家环境保护总局生物安全管理办公室, 编//<b>中国国家生物安全框架实施国际合作项目研讨会论文集</b>. 北京: 中国环境科学出版社, 2002: 22–25	</div>
-  <div class="csl-entry">116. 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 北京: 中国标准出版社, 1988: 59–92(1988)	</div>
+  <div class="csl-entry">116. 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, 编//<b>文献工作国家标准汇编: 3</b>. 北京: 中国标准出版社, 1988: 59–92	</div>
   <div class="csl-entry">117. 佚名. 宋史卷三: 本纪第三//<b>宋史</b>. 北京: 中华书局, 1977: 49	</div>
   <div class="csl-entry">118. 楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 同济大学土木工程防灾国家重点实验室, 编//<b>汶川地震震害研究</b>. 上海: 同济大学出版社, 2011: 011–012	</div>
   <div class="csl-entry">119. 杨洪升. 四库馆私家抄校书考略. <b>文献</b>. 2013(1): 56–75	</div>

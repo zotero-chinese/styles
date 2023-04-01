@@ -22,10 +22,10 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>zuel-thesis中南财经政法大学学位论文</summary>
-    <updated>2022-12-02T17:49:33+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
@@ -35,13 +35,6 @@
       </term>
     </terms>
   </locale>
-  <macro name="accessed-date">
-    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
-    </date>
-  </macro>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -66,7 +59,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-intext-long">
+  <macro name="author-intext-zh">
     <choose>
       <if variable="author">
         <names variable="author">
@@ -78,72 +71,16 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-author">
-    <names variable="container-author">
-      <name/>
-    </names>
-  </macro>
-  <macro name="edition">
+  <macro name="title">
+    <text variable="title" text-case="title"/>
     <choose>
-      <if variable="edition">
-        <group delimiter=" ">
-          <text variable="edition"/>
-          <label variable="edition"/>
-        </group>
+      <if type="bill broadcast legal_case legislation patent report song standard" match="any">
+        <text variable="number" prefix=": "/>
       </if>
     </choose>
-  </macro>
-  <macro name="editor">
-    <names variable="editor translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <macro name="issued-date">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="-">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
-        </date>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issue-date-year">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publishing">
-    <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <group delimiter=", ">
-            <text variable="publisher"/>
-            <text macro="issue-date-year"/>
-          </group>
-        </group>
-        <text variable="page" prefix=": "/>
-      </if>
-    </choose>
-  </macro>
-  <macro name="serial-information">
-    <group delimiter=", ">
-      <text macro="issue-date-year"/>
-      <text variable="volume"/>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-    <text variable="page" prefix=": "/>
   </macro>
   <macro name="type-code">
     <choose>
@@ -153,7 +90,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text value="S"/>
       </else-if>
       <else-if type="book">
@@ -185,28 +122,84 @@
       </else>
     </choose>
   </macro>
-  <macro name="title">
-    <text variable="title" text-case="title"/>
+  <macro name="container-contributors">
+    <names variable="container-author">
+      <name/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor translator">
+      <name/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="edition">
     <choose>
-      <if type="bill broadcast legal_case legislation patent report song" match="any">
-        <text variable="number" prefix=": "/>
+      <if variable="edition">
+        <group delimiter=" ">
+          <text variable="edition"/>
+          <label variable="edition"/>
+        </group>
       </if>
     </choose>
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-    </group>
   </macro>
-  <macro name="bib-entry-zh">
+  <macro name="serial-information">
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
+    </group>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if variable="publisher">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <group delimiter=", ">
+            <text variable="publisher"/>
+            <text macro="issued-year"/>
+          </group>
+        </group>
+        <text variable="page" prefix=": "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" date-parts="year" form="numeric"/>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" delimiter="-">
+          <date-part name="year"/>
+          <date-part name="month" form="numeric-leading-zeros"/>
+          <date-part name="day" form="numeric-leading-zeros"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="entry-layout-zh">
     <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
+            <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" form="short" text-case="title" font-style="normal" suffix=", "/>
           </if>
           <else>
@@ -214,7 +207,7 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing"/>
+        <text macro="publisher"/>
       </if>
       <else-if type="thesis">
         <group prefix=". ">
@@ -222,7 +215,7 @@
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text variable="archive_location" prefix=" "/>
-            <text macro="issue-date-year" prefix=", "/>
+            <text macro="issued-year" prefix=", "/>
           </group>
         </group>
       </else-if>
@@ -235,7 +228,7 @@
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
-              <text macro="publishing"/>
+              <text macro="publisher"/>
             </else>
           </choose>
         </group>
@@ -244,22 +237,22 @@
         <text macro="issued-date" prefix=". "/>
       </else-if>
       <else>
-        <text macro="publishing" prefix=". "/>
+        <text macro="publisher" prefix=". "/>
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
   </macro>
-  <macro name="bib-entry-en">
+  <macro name="entry-layout-en">
     <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report" match="any">
+      <if type="book bill chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
+            <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" suffix=", " text-case="title"/>
           </if>
           <else>
@@ -267,7 +260,7 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing"/>
+        <text macro="publisher"/>
       </if>
       <else-if type="thesis">
         <group prefix=". ">
@@ -276,7 +269,7 @@
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text variable="archive_location" prefix=" "/>
-            <text macro="issue-date-year" prefix=", "/>
+            <text macro="issued-year" prefix=", "/>
           </group>
         </group>
       </else-if>
@@ -290,7 +283,7 @@
             <else> -->
           <text variable="container-title" text-case="title" font-style="normal"/>
           <text macro="serial-information"/>
-          <text macro="publishing"/>
+          <text macro="publisher"/>
           <!-- </else>
           </choose> -->
         </group>
@@ -299,7 +292,7 @@
         <text macro="issued-date" prefix=". "/>
       </else-if>
       <else>
-        <text macro="publishing" prefix=". "/>
+        <text macro="publisher" prefix=". "/>
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
@@ -307,12 +300,12 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year"/>
+      <key macro="issued-year"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter=", ">
       <group delimiter=", ">
         <text macro="author-intext" strip-periods="true"/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
           <text variable="locator"/>
@@ -321,8 +314,8 @@
     </layout>
     <layout delimiter="; " prefix="（" suffix="）">
       <group delimiter=", ">
-        <text macro="author-intext-long"/>
-        <text macro="issue-date-year"/>
+        <text macro="author-intext-zh"/>
+        <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
           <text variable="locator"/>
@@ -333,13 +326,13 @@
   <bibliography entry-spacing="0" et-al-min="21" et-al-use-first="20" second-field-align="flush">
     <sort>
       <key macro="author"/>
-      <key macro="issue-date-year"/>
+      <key macro="issued-year"/>
     </sort>
     <layout locale="en">
-      <text macro="bib-entry-en" suffix="."/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
     <layout>
-      <text macro="bib-entry-zh" suffix="."/>
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
   </bibliography>
 </style>

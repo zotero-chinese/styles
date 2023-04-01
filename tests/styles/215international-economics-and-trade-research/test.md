@@ -96,7 +96,7 @@ Undefined
   <div class="csl-entry">全国广播电视标准化技术委员会, 2007. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院: 1.</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会, 2010a. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社: 2-3.</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会, 2010b. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社: 3.</div>
-  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等, 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL]. (2013-09-30)[2014-06-24]. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a>.</div>
+  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等, 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R].</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室, 2011. 汶川地震灾害研究[M]. 上海: 同济大学出版社: 5-6.</div>
   <div class="csl-entry">汪昂, 1881. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂.</div>
   <div class="csl-entry">汪冰, 1997. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社: 16.</div>
@@ -128,14 +128,14 @@ Undefined
   <div class="csl-entry">张忠智, 1997. 科技书刊的总编(主编)的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会: 33-34.</div>
   <div class="csl-entry">赵学功, 2001. 当代美国外交[M]. 北京: 社会科学文献出版社.</div>
   <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆, 2001. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社.</div>
-  <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+  <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R].</div>
   <div class="csl-entry">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团, 2013. 投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社.</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996. 现代汉语词典[M]. 修订本. 北京: 商务印书馆.</div>
   <div class="csl-entry">中国图书馆学会, 1957. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆.</div>
   <div class="csl-entry">中国造纸学会, 2003. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社.</div>
   <div class="csl-entry">中国职工教育研究会, 1985. 职工教育研究论文集[M]. 北京: 人民教育出版社.</div>
-  <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书: 中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.</div>
+  <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书: 中国武装力量的多样化运用[R].</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">Babu, B V, Nagar, A K, Deep, K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer.</div>

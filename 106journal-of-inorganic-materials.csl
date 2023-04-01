@@ -13,10 +13,10 @@
     <category field="generic-base"/>
     <summary>无机材料学报</summary>
     <published>2022-03-24</published>
-    <updated>2023-1-26T11:34:00+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
@@ -26,17 +26,6 @@
       </term>
     </terms>
   </locale>
-  <macro name="accessed-date">
-    <choose>
-      <if type="webpage post-weblog dataset" match="any">
-        <date variable="accessed" delimiter="–" prefix="[" suffix="]">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
-        </date>
-      </if>
-    </choose>
-  </macro>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -54,11 +43,21 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-author">
+  <macro name="title">
+    <text variable="title" text-case="capitalize-first"/>
+    <text variable="number" prefix=": "/>
+  </macro>
+  <macro name="container-contributors">
     <names variable="container-author">
       <name>
         <name-part name="family" text-case="uppercase"/>
       </name>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor translator">
+      <name/>
+      <label form="short" prefix=", "/>
     </names>
   </macro>
   <macro name="edition">
@@ -71,53 +70,9 @@
       </if>
     </choose>
   </macro>
-  <macro name="editor">
-    <names variable="editor translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <macro name="issued-date">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" delimiter="–">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
-        </date>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="issue-date-year">
-    <choose>
-      <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
-      </if>
-      <else>
-        <text term="no date" prefix="[" suffix="]"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publishing">
-    <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <group delimiter=", ">
-            <text variable="publisher" font-style="italic"/>
-            <text macro="issue-date-year"/>
-          </group>
-        </group>
-        <text variable="page" prefix=": "/>
-      </if>
-    </choose>
-  </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <text macro="issue-date-year"/>
+      <text macro="issued-year"/>
       <text variable="volume" font-weight="bold"/>
     </group>
     <group font-weight="bold">
@@ -134,9 +89,54 @@
       </choose>
     </group>
   </macro>
-  <macro name="title">
-    <text variable="title" text-case="capitalize-first"/>
-    <text variable="number" prefix=": "/>
+  <macro name="publisher">
+    <choose>
+      <if variable="publisher">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <group delimiter=", ">
+            <text variable="publisher" font-style="italic"/>
+            <text macro="issued-year"/>
+          </group>
+        </group>
+        <text variable="page" prefix=": "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" date-parts="year" form="numeric"/>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="issued-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" delimiter="–">
+          <date-part name="year"/>
+          <date-part name="month" form="numeric-leading-zeros"/>
+          <date-part name="day" form="numeric-leading-zeros"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" prefix="[" suffix="]"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="accessed-date">
+    <choose>
+      <if type="webpage post-weblog dataset" match="any">
+        <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+          <date-part name="year"/>
+          <date-part name="month" form="numeric-leading-zeros"/>
+          <date-part name="day" form="numeric-leading-zeros"/>
+        </date>
+      </if>
+    </choose>
   </macro>
   <macro name="URL">
     <choose>
@@ -175,12 +175,12 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
               <text value="//"/>
-              <text macro="container-author" suffix=". " font-style="italic"/>
+              <text macro="container-contributors" suffix=". " font-style="italic"/>
               <text variable="container-title" suffix=". " text-case="title"/>
             </if>
             <else>
@@ -188,7 +188,7 @@
             </else>
           </choose>
           <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
+          <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
@@ -199,7 +199,7 @@
               </if>
               <else>
                 <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
+                <text macro="publisher"/>
               </else>
             </choose>
           </group>
@@ -208,7 +208,7 @@
           <text macro="issued-date" prefix=". "/>
         </else-if>
         <else>
-          <text macro="publishing" prefix=". "/>
+          <text macro="publisher" prefix=". "/>
           <text macro="issued-date" prefix="(" suffix=")"/>
         </else>
       </choose>
@@ -223,12 +223,12 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report thesis" match="any">
+        <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
               <text value="//"/>
-              <text macro="container-author" suffix=". "/>
+              <text macro="container-contributors" suffix=". "/>
               <text variable="container-title" suffix=". " text-case="title"/>
             </if>
             <else>
@@ -236,7 +236,7 @@
             </else>
           </choose>
           <text macro="edition" suffix=". "/>
-          <text macro="publishing"/>
+          <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <group prefix=". ">
@@ -247,7 +247,7 @@
               </if>
               <else>
                 <text macro="serial-information" suffix=". "/>
-                <text macro="publishing"/>
+                <text macro="publisher"/>
               </else>
             </choose>
           </group>
@@ -256,7 +256,7 @@
           <text macro="issued-date" prefix=". "/>
         </else-if>
         <else>
-          <text macro="publishing" prefix=". "/>
+          <text macro="publisher" prefix=". "/>
           <text macro="issued-date" prefix="(" suffix=")"/>
         </else>
       </choose>

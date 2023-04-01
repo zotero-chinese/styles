@@ -12,10 +12,10 @@
     </author>
     <category citation-format="author-date"/>
     <category field="sociology"/>
-    <updated>2022-08-13T22:24:10+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <terms>
       <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
@@ -36,18 +36,6 @@
       </term>
     </terms>
   </locale>
-  <!-- 访问路径 -->
-  <macro name="access">
-    <choose>
-      <if type="post webpage" match="any">
-        <text variable="URL"/>
-      </if>
-    </choose>
-  </macro>
-  <!-- 佚名 -->
-  <macro name="anonymous">
-    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
-  </macro>
   <!-- 主要责任者 -->
   <macro name="author-en">
     <names variable="author">
@@ -61,7 +49,7 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
@@ -77,7 +65,7 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
@@ -94,7 +82,7 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
@@ -110,8 +98,67 @@
             <names variable="editor"/>
           </if>
         </choose>
-        <text macro="anonymous"/>
+        <text macro="anon"/>
       </substitute>
+    </names>
+  </macro>
+  <!-- 佚名 -->
+  <macro name="anon">
+    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
+  </macro>
+  <!-- 出版年 -->
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year" range-delimiter="-"/>
+    </date>
+  </macro>
+  <!-- 题名 -->
+  <macro name="title-en">
+    <choose>
+      <if type="post webpage" match="any">
+        <text variable="title" font-style="italic" text-case="title"/>
+      </if>
+      <else-if variable="container-title">
+        <text variable="title" quotes="true" text-case="title"/>
+      </else-if>
+      <else>
+        <text variable="title" font-style="italic" text-case="title"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-zh">
+    <text variable="title" prefix="《" suffix="》"/>
+    <choose>
+      <if variable="container-title" match="none">
+        <text macro="edition-zh"/>
+        <text macro="volume-zh"/>
+      </if>
+    </choose>
+  </macro>
+  <!-- 卷号 -->
+  <macro name="volume-zh">
+    <choose>
+      <if is-numeric="volume">
+        <text value="第"/>
+        <text variable="volume"/>
+        <label variable="volume"/>
+      </if>
+      <else>
+        <text variable="volume"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributors-en">
+    <names variable="translator">
+      <name and="symbol" delimiter-precedes-last="never"/>
+      <label form="short"/>
+    </names>
+  </macro>
+  <macro name="secondary-contributors-zh">
+    <names variable="translator">
+      <name delimiter="、"/>
+      <label form="short"/>
     </names>
   </macro>
   <!-- 期刊或专著题名 -->
@@ -205,24 +252,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 出版年 -->
-  <macro name="date">
-    <date variable="issued">
-      <date-part name="year" range-delimiter="-"/>
-    </date>
-  </macro>
-  <!-- 版本 -->
-  <macro name="edition-en">
-    <choose>
-      <if is-numeric="edition">
-        <number variable="edition" form="ordinal"/>
-        <label variable="edition" form="short"/>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="edition-zh">
     <choose>
       <if is-numeric="edition">
@@ -280,53 +309,12 @@
       </else-if>
     </choose>
   </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributor-en">
-    <names variable="translator">
-      <name and="symbol" delimiter-precedes-last="never"/>
-      <label form="short"/>
-    </names>
-  </macro>
-  <macro name="secondary-contributor-zh">
-    <names variable="translator">
-      <name delimiter="、"/>
-      <label form="short"/>
-    </names>
-  </macro>
-  <!-- 题名 -->
-  <macro name="title-en">
+  <!-- 访问路径 -->
+  <macro name="access">
     <choose>
       <if type="post webpage" match="any">
-        <text variable="title" font-style="italic" text-case="title"/>
+        <text variable="URL"/>
       </if>
-      <else-if variable="container-title">
-        <text variable="title" quotes="true" text-case="title"/>
-      </else-if>
-      <else>
-        <text variable="title" font-style="italic" text-case="title"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="title-zh">
-    <text variable="title" prefix="《" suffix="》"/>
-    <choose>
-      <if variable="container-title" match="none">
-        <text macro="edition-zh"/>
-        <text macro="volume-zh"/>
-      </if>
-    </choose>
-  </macro>
-  <!-- 卷号 -->
-  <macro name="volume-zh">
-    <choose>
-      <if is-numeric="volume">
-        <text value="第"/>
-        <text variable="volume"/>
-        <label variable="volume"/>
-      </if>
-      <else>
-        <text variable="volume"/>
-      </else>
     </choose>
   </macro>
   <!-- 参考文献表格式 -->
@@ -339,7 +327,7 @@
             <text macro="date"/>
           </group>
           <text macro="title-en"/>
-          <text macro="secondary-contributor-en"/>
+          <text macro="secondary-contributors-en"/>
         </group>
         <text macro="container-en"/>
         <text macro="publisher-en"/>
@@ -353,7 +341,7 @@
         <text macro="author-zh"/>
         <text macro="date"/>
         <text macro="title-zh"/>
-        <text macro="secondary-contributor-zh"/>
+        <text macro="secondary-contributors-zh"/>
         <text macro="container-zh"/>
         <text macro="publisher-zh"/>
       </group>

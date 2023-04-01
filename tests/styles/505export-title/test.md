@@ -48,7 +48,7 @@ Undefined
   <div class="csl-entry">国史旧闻	</div>
   <div class="csl-entry">经济数学与金融数学	</div>
   <div class="csl-entry">历代王朝与民族宗教	</div>
-  <div class="csl-entry">信息与文献 都柏林核心元数据元素集	</div>
+  <div class="csl-entry">信息与文献 都柏林核心元数据元素集: GB/T 25100—2010	</div>
   <div class="csl-entry">物质结构	</div>
   <div class="csl-entry">昌平山水记: 京东考古录	</div>
   <div class="csl-entry">宋论	</div>
@@ -144,10 +144,10 @@ Undefined
   <div class="csl-entry">轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2	</div>
   <div class="csl-entry">一种荒漠化地区生态植被综合培育种植方法: 01129210.5	</div>
   <div class="csl-entry">Compiler: US828402	</div>
-  <div class="csl-entry">文献著录: 第 4 部分 非书资料	</div>
-  <div class="csl-entry">广播电视音像资料编目规范: 第 2 部分 广播资料	</div>
-  <div class="csl-entry">土壤环境质量标准	</div>
-  <div class="csl-entry">Information and documentation—The Dublin core metadata element set	</div>
+  <div class="csl-entry">文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009	</div>
+  <div class="csl-entry">广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007	</div>
+  <div class="csl-entry">土壤环境质量标准: GB 15616—1995	</div>
+  <div class="csl-entry">Information and documentation—The Dublin core metadata element set: ISO 15836:2009	</div>
   <div class="csl-entry">卷 39 乞致仕第一	</div>
   <div class="csl-entry">植物开花研究	</div>
   <div class="csl-entry">中国农业转基因生物研究进展与安全管理	</div>

@@ -19,7 +19,7 @@
     <category field="generic-base"/>
     <category field="science"/>
     <summary>This style just partly implemented what the Chinese GB/T 7714-2005 requires.</summary>
-    <updated>2022-12-02T17:49:33+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -66,7 +66,7 @@
       <else-if type="thesis">
         <text macro="title"/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <group delimiter=", ">
           <number variable="number"/>
           <text macro="title"/>
@@ -101,7 +101,7 @@
       <else-if type="thesis">
         <text value="[D]."/>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text value="[S]"/>
       </else-if>
       <else-if type="book graphic legal_case motion_picture song" match="any">
@@ -148,7 +148,7 @@
           <number variable="number" suffix=", "/>
         </group>
       </else-if>
-      <else-if type="bill legislation" match="any">
+      <else-if type="bill legislation standard" match="any">
         <text variable="container-title" prefix=". "/>
       </else-if>
       <else>
@@ -182,7 +182,7 @@
               <date-part name="year"/>
             </date>
           </else-if>
-          <else-if type="bill legislation" match="any"/>
+          <else-if type="bill legislation standard" match="any"/>
           <else>
             <date variable="issued">
               <date-part name="year"/>
@@ -225,7 +225,7 @@
       </else-if>
     </choose>
   </macro>
-  <macro name="bib-entry-zh">
+  <macro name="entry-layout-zh">
     <group>
       <group delimiter=" ">
         <group delimiter="">
@@ -233,7 +233,7 @@
             <text macro="author" suffix=". "/>
             <group>
               <choose>
-                <if type="bill legislation paper-conference chapter">
+                <if type="bill legislation paper-conference chapter standard" match="any">
                   <group delimiter="">
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
@@ -242,7 +242,7 @@
               </choose>
               <group>
                 <choose>
-                  <if type="bill legislation paper-conference chapter"/>
+                  <if type="bill legislation paper-conference chapter standard"/>
                   <else>
                     <group delimiter="">
                       <text macro="titleField"/>
@@ -260,14 +260,14 @@
                   <text macro="publisherSupp"/>
                 </group>
                 <choose>
-                  <if type="bill legislation"/>
+                  <if type="bill legislation standard"/>
                   <else>
                     <text macro="pageField" prefix=": "/>
                   </else>
                 </choose>
               </group>
               <choose>
-                <if type="bill legislation">
+                <if type="bill legislation standard" match="any">
                   <text macro="pageField" prefix=": "/>
                 </if>
               </choose>
@@ -284,7 +284,7 @@
       <text macro="trailing-contributor"/>
     </group>
   </macro>
-  <macro name="bib-entry-en">
+  <macro name="entry-layout-en">
     <group delimiter="">
       <group delimiter=" ">
         <group delimiter=" ">
@@ -292,7 +292,7 @@
             <text macro="author" suffix=". "/>
             <group delimiter="">
               <choose>
-                <if type="bill legislation paper-conference chapter">
+                <if type="bill legislation paper-conference chapter standard" match="any">
                   <group delimiter="">
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
@@ -301,7 +301,7 @@
               </choose>
               <group>
                 <choose>
-                  <if type="bill legislation paper-conference chapter"/>
+                  <if type="bill legislation paper-conference chapter standard"/>
                   <else>
                     <group delimiter="">
                       <text macro="titleField"/>
@@ -316,14 +316,14 @@
                   <text macro="publisherSupp"/>
                 </group>
                 <choose>
-                  <if type="bill legislation"/>
+                  <if type="bill legislation standard"/>
                   <else>
                     <text macro="pageField" prefix=": "/>
                   </else>
                 </choose>
               </group>
               <choose>
-                <if type="bill legislation">
+                <if type="bill legislation standard" match="any">
                   <text macro="pageField" prefix=": "/>
                 </if>
               </choose>
@@ -351,11 +351,11 @@
   <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
     <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="bib-entry-zh"/>
+      <text macro="entry-layout-zh"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="bib-entry-en"/>
+      <text macro="entry-layout-en"/>
     </layout>
   </bibliography>
 </style>

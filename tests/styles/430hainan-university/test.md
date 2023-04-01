@@ -65,8 +65,8 @@ Undefined
   <div class="csl-entry">[10]	丁文详. 数字革命与竞争国际化[N]. 2000-11-20(15).</div>
   <div class="csl-entry">[11]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 2000-01-12.</div>
   <div class="csl-entry">[12]	顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
-  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[Z]. 北京: 中国标准出版社, 1988: 59-92(1988).</div>
-  <div class="csl-entry">[14]	国家环境保护局科技标准司. 土壤环境质量标准[Z]. 北京: 中国标准出版社, 1996: 2-3(1996).</div>
+  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">[14]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996: 2-3.</div>
   <div class="csl-entry">[15]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">[16]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法[P]. 中国. 2001-10-24.</div>
   <div class="csl-entry">[17]	侯文顺. 高分子物理: 高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010.</div>
@@ -90,9 +90,9 @@ Undefined
   <div class="csl-entry">[35]	尼葛洛庞帝. 数字化生存[M]. 海口: 海南出版社, 1996.</div>
   <div class="csl-entry">[36]	裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[A]. 中国科协学术期刊编辑工作经验交流会资料选[C]. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
   <div class="csl-entry">[37]	皮锡瑞. 师伏堂日记[M]. 北京: 北京图书馆出版社, 2009.</div>
-  <div class="csl-entry">[38]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料[Z]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1(2007).</div>
-  <div class="csl-entry">[39]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集[Z]. 北京: 中国标准出版社, 2010a: 2-3(2010).</div>
-  <div class="csl-entry">[40]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料[Z]. 北京: 中国标准出版社, 2010b: 3(2010).</div>
+  <div class="csl-entry">[38]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
+  <div class="csl-entry">[39]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010a: 2-3.</div>
+  <div class="csl-entry">[40]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010b: 3.</div>
   <div class="csl-entry">[41]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   <div class="csl-entry">[42]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011.</div>
   <div class="csl-entry">[43]	汪昂. 增订本草备要[M]. 刻本. 京都: 老二酉堂, 1881.</div>
@@ -115,7 +115,7 @@ Undefined
   <div class="csl-entry">[60]	佚名. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985.</div>
   <div class="csl-entry">[61]	佚名. 卷 39 乞致仕第一[A]. 苏魏公文集[C]. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[62]	Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000.</div>
-  <div class="csl-entry">[63]	Anonymous. Information and documentation—The Dublin core metadata element Set[Z](2009).</div>
+  <div class="csl-entry">[63]	Anonymous. Information and documentation—The Dublin core metadata element Set: ISO 15836:2009[S]. , 2009.</div>
   <div class="csl-entry">[64]	佚名. 周易外传: 卷 5[A]. 船山全书[C]. 长沙: 岳麓书社, 2011a: 1109.</div>
   <div class="csl-entry">[65]	佚名. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b.</div>
   <div class="csl-entry">[66]	佚名. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012a.</div>

@@ -14,25 +14,16 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>comparative economic and social systems author-date style</summary>
-    <updated>2023-03-03T23:20:17+08:00</updated>
+    <updated>2023-03-22T12:42:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="zh-CN">
+  <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <!-- 引用日期 -->
-  <macro name="accessed-date">
-    <choose>
-      <!-- 仅纯电子资源显示引用日期 -->
-      <if type="article-journal article-magazine article-newspaper bill book chapter legal_case legislation paper-conference patent periodical standard thesis treaty" variable="publisher page" match="none">
-        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
-      </if>
-    </choose>
-  </macro>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -57,16 +48,6 @@
       </else>
     </choose>
   </macro>
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributor">
-    <names variable="translator">
-      <name>
-        <name-part name="family"/>
-        <name-part name="given"/>
-      </name>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro>
   <macro name="author-intext">
     <choose>
       <if variable="author">
@@ -80,7 +61,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-intext-long">
+  <macro name="author-intext-zh">
     <choose>
       <if variable="author">
         <names variable="author">
@@ -93,9 +74,23 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-author">
+  <macro name="title">
+    <text variable="title"/>
+    <!-- <text variable="number" prefix=": "/> -->
+  </macro>
+  <macro name="title-zh">
+    <text variable="title"/>
+    <!-- <text variable="number" prefix=": "/> -->
+  </macro>
+  <macro name="container-contributors">
     <names variable="container-author">
       <name/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor translator">
+      <name/>
+      <label form="short" prefix=", "/>
     </names>
   </macro>
   <!-- 版本项 -->
@@ -109,11 +104,44 @@
       </if>
     </choose>
   </macro>
-  <macro name="editor">
-    <names variable="editor translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
+  <macro name="serial-information">
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
+    </group>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
+  </macro>
+  <macro name="serial-information-zh">
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
+    </group>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
+  </macro>
+  <macro name="publisher">
+    <choose>
+      <if variable="publisher">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <group delimiter=", ">
+            <text variable="publisher"/>
+          </group>
+        </group>
+        <text variable="page" prefix=": "/>
+      </if>
+    </choose>
+  </macro>
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" date-parts="year" form="numeric"/>
+      </if>
+      <else>
+        <text term="no date"/>
+      </else>
+    </choose>
   </macro>
   <!-- 出版年 -->
   <macro name="issued-date">
@@ -130,64 +158,30 @@
       </else>
     </choose>
   </macro>
-  <macro name="issue-date-year">
+  <!-- 引用日期 -->
+  <macro name="accessed-date">
     <choose>
-      <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
-      </if>
-      <else>
-        <text term="no date"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publishing">
-    <choose>
-      <if variable="publisher">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <group delimiter=", ">
-            <text variable="publisher"/>
-          </group>
-        </group>
-        <text variable="page" prefix=": "/>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
+        <choose>
+          <if variable="URL">
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </if>
+        </choose>
       </if>
     </choose>
-  </macro>
-  <macro name="serial-information">
-    <group delimiter=", ">
-      <text macro="issue-date-year"/>
-      <text variable="volume"/>
-    </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-    <text variable="page" prefix=": "/>
-  </macro>
-  <macro name="serial-information-zh">
-    <group delimiter=", ">
-      <text macro="issue-date-year"/>
-      <text variable="volume"/>
-    </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-    <text variable="page" prefix=": "/>
-  </macro>
-  <macro name="title">
-    <text variable="title"/>
-    <!-- <text variable="number" prefix=": "/> -->
-  </macro>
-  <macro name="title-zh">
-    <text variable="title"/>
-    <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <!-- 英文文末显示设置 -->
-  <macro name="bib-full-en">
+  <macro name="entry-layout-en">
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="bill legislation" match="any">
+      <if type="bill legislation standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
+            <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" suffix="  " text-case="title"/>
           </if>
           <else>
@@ -195,8 +189,8 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing"/>
-        <text macro="issue-date-year" prefix=", "/>
+        <text macro="publisher"/>
+        <text macro="issued-year" prefix=", "/>
       </if>
       <else-if type="article-journal article-magazine" match="any">
         <group>
@@ -207,7 +201,7 @@
             </if>
             <else>
               <text macro="serial-information" prefix=", " suffix=". "/>
-              <text macro="publishing"/>
+              <text macro="publisher"/>
             </else>
           </choose>
         </group>
@@ -216,7 +210,7 @@
       <else-if type="thesis">
         <text variable="publisher-place" prefix="[D]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 英文会议集析出的会议论文 -->
@@ -225,28 +219,28 @@
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
-        <text macro="issue-date-year" prefix=", "/>
+        <text macro="issued-year" prefix=", "/>
         <text variable="page" prefix=": "/>
       </else-if>
       <!-- 英文专著 -->
       <else-if type="monograph">
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 英文书籍 -->
       <else-if type="book">
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 英文报告 -->
       <else-if type="report">
         <text variable="publisher-place" prefix="[R]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
       </else-if>
       <!-- 英文专著析出的文献 -->
       <else-if type="chapter">
@@ -254,7 +248,7 @@
         <text variable="container-title"/>
         <text variable="publisher-place" prefix=". " suffix=": "/>
         <text variable="publisher"/>
-        <text macro="issue-date-year" prefix=", "/>
+        <text macro="issued-year" prefix=", "/>
         <text variable="page" prefix=": "/>
       </else-if>
       <!-- 英文专利 -->
@@ -269,24 +263,24 @@
         <text variable="page" prefix="(" suffix=")"/>
       </else-if>
       <else>
-        <text macro="publishing" prefix=". "/>
+        <text macro="publisher" prefix=". "/>
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
     <text macro="accessed-date"/>
   </macro>
   <!-- 中文文末显示设置 -->
-  <macro name="bib-full">
+  <macro name="entry-layout">
     <text macro="author-zh" suffix=". "/>
     <text macro="title-zh"/>
-    <!-- <text macro="issue-date-year" suffix="："/>-->
+    <!-- <text macro="issued-year" suffix="："/>-->
     <choose>
-      <if type="bill legislation" match="any">
+      <if type="bill legislation standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
             <text value="//"/>
-            <text macro="container-author" suffix=". "/>
+            <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" suffix=". "/>
           </if>
           <else>
@@ -294,8 +288,8 @@
           </else>
         </choose>
         <text macro="edition" suffix=". "/>
-        <text macro="publishing"/>
-        <text macro="issue-date-year" prefix=", "/>
+        <text macro="publisher"/>
+        <text macro="issued-year" prefix=", "/>
       </if>
       <else-if type="article-journal article-magazine" match="any">
         <group>
@@ -306,7 +300,7 @@
             </if>
             <else>
               <text macro="serial-information-zh" prefix=", " suffix=". "/>
-              <text macro="publishing"/>
+              <text macro="publisher"/>
             </else>
           </choose>
         </group>
@@ -315,7 +309,7 @@
       <else-if type="thesis">
         <text variable="publisher-place" prefix="[D]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 中文会议集析出的会议论文 -->
@@ -324,28 +318,28 @@
         <text variable="container-title" suffix=". "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
-        <text macro="issue-date-year" prefix=", "/>
+        <text macro="issued-year" prefix=", "/>
         <text variable="page" prefix=": "/>
       </else-if>
       <!-- 中文专著 -->
       <else-if type="monograph">
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 中文书籍 -->
       <else-if type="book">
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 中文报告 -->
       <else-if type="report">
         <text variable="publisher-place" prefix="[R]. " suffix=": "/>
         <text variable="publisher" suffix=", "/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
       </else-if>
       <!-- 中文专著析出的文献 -->
       <else-if type="chapter">
@@ -353,7 +347,7 @@
         <text variable="container-title"/>
         <text variable="publisher-place" prefix=". " suffix=": "/>
         <text variable="publisher"/>
-        <text macro="issue-date-year" prefix=", "/>
+        <text macro="issued-year" prefix=", "/>
         <text variable="page" prefix=": "/>
       </else-if>
       <!-- 中文专利 -->
@@ -368,7 +362,7 @@
         <text variable="page" prefix="(" suffix=")"/>
       </else-if>
       <else>
-        <text macro="publishing" prefix=". "/>
+        <text macro="publisher" prefix=". "/>
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
@@ -378,12 +372,12 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issue-date-year" sort="ascending"/>
+      <key macro="issued-year" sort="ascending"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter="，">
         <text macro="author-intext"/>
-        <text macro="issue-date-year"/>
+        <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
           <text variable="locator"/>
@@ -392,8 +386,8 @@
     </layout>
     <layout delimiter="; " prefix="（" suffix="）">
       <group delimiter="，">
-        <text macro="author-intext-long"/>
-        <text macro="issue-date-year"/>
+        <text macro="author-intext-zh"/>
+        <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
           <text variable="locator"/>
@@ -405,13 +399,13 @@
   <bibliography entry-spacing="0" second-field-align="flush" hanging-indent="true">
     <sort>
       <key macro="author"/>
-      <key macro="issue-date-year"/>
+      <key macro="issued-year"/>
     </sort>
     <layout suffix="." locale="en">
-      <text macro="bib-full-en"/>
+      <text macro="entry-layout-en"/>
     </layout>
     <layout suffix=".">
-      <text macro="bib-full"/>
+      <text macro="entry-layout"/>
     </layout>
   </bibliography>
 </style>
