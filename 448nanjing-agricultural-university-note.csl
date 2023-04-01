@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>南京农业大学研究生学位论文（人文社科类）2023版，脚注式</summary>
-    <updated>2023-04-01T00:18:55+08:00</updated>
+    <updated>2023-04-01T08:57:50+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -652,53 +652,6 @@
       <text macro="access"/>
     </group>
   </macro>
-  <!-- 脚注中引用的格式 -->
-  <macro name="note-layout-en">
-    <choose>
-      <if position="ibid-with-locator">
-        <group delimiter=": ">
-          <text term="ibid"/>
-          <text variable="locator"/>
-        </group>
-      </if>
-      <else-if position="ibid">
-        <text term="ibid"/>
-      </else-if>
-      <else-if position="subsequent">
-        <group delimiter=": ">
-          <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
-          <text variable="first-reference-note-number" prefix="同"/>
-          <text variable="locator"/>
-        </group>
-      </else-if>
-      <else>
-        <text macro="entry-layout-en"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="note-layout-zh">
-    <choose>
-      <if position="ibid-with-locator">
-        <group delimiter="：">
-          <text term="ibid"/>
-          <text variable="locator"/>
-        </group>
-      </if>
-      <else-if position="ibid">
-        <text term="ibid"/>
-      </else-if>
-      <else-if position="subsequent">
-        <group delimiter="：">
-          <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
-          <text variable="first-reference-note-number" prefix="同"/>
-          <text variable="locator"/>
-        </group>
-      </else-if>
-      <else>
-        <text macro="entry-layout-zh"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="type-sort-1">
     <choose>
       <if type="book article-journal thesis chapter paper-conference" match="any">
@@ -727,10 +680,10 @@
   </macro>
   <citation et-al-min="4" et-al-use-first="3">
     <layout delimiter="; " suffix="." locale="en">
-      <text macro="note-layout-en"/>
+      <text macro="entry-layout-en"/>
     </layout>
     <layout delimiter="；" suffix="．">
-      <text macro="note-layout-zh"/>
+      <text macro="entry-layout-zh"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">

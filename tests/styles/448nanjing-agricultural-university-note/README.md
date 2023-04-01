@@ -10,9 +10,9 @@
 <sup>4</sup> FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17—38.<br>
 <sup>5</sup> 武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5），8—9．<br>
 <sup>6</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356—362.<br>
-<sup>7</sup> Ibid.<br>
-<sup>8</sup> Ibid.: 357.<br>
-<sup>9</sup> 同2: 326—329.<br>
+<sup>7</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356—362.<br>
+<sup>8</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 357.<br>
+<sup>9</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 326—329.<br>
 
 ## 参考文献表
 

@@ -52,10 +52,10 @@ Undefined
 
 <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903.<br>
 <sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
-<sup>3</sup> Ibid.<br>
-<sup>4</sup> Ibid.: 260.<br>
+<sup>3</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+<sup>4</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
 <sup>5</sup> 罗杰斯．西方文明史: 问题与源头［M］．潘惠霞，魏婧，杨艳，等，译．大连：东北财经大学出版社，2011：15—16．<br>
-<sup>6</sup> 同2: 326—329.<br>
+<sup>6</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326—329.<br>
 
 ### 参考文献表
 
