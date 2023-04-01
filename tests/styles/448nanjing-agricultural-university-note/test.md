@@ -18,13 +18,13 @@ Undefined
 
 <sup>1</sup> 汪昂．增订本草备要：四卷［M］．刻本．京都：老二酉堂，1881．<br>
 <sup>2</sup> 张伯伟．全唐五代诗格汇考［M］．南京：江苏古籍出版社，2002：288．<br>
-<sup>3</sup> 李炳穆．理想的图书馆员和信息专家的素质与形象［J］．图书情报工作，2000，2（6），5-8．<br>
-<sup>4</sup> 杨洪升．四库馆私家抄校书考略［J］．文献，2013（1），56-75．<br>
+<sup>3</sup> 李炳穆．理想的图书馆员和信息专家的素质与形象［J］．图书情报工作，2000，2（6）：5-8．<br>
+<sup>4</sup> 杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56-75．<br>
 <sup>5</sup> CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.<br>
 <sup>6</sup> International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.<br>
 <sup>7</sup> DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.<br>
 <sup>8</sup> World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.<br>
-<sup>9</sup> 丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20(15)．<br>
+<sup>9</sup> 丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20（15）．<br>
 <sup>10</sup> 萧钰．出版业信息化迈入快车道［EB/OL］．（2001-12-19）［2002-04-15］．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．<br>
 <sup>11</sup> 全国广播电视标准化技术委员会．广播电视音像资料编目规范: 第 2 部分 广播资料：GY/T 202.2—2007［S］．北京：国家广播电影电视总局广播电视规划院，2007：1．<br>
 <sup>12</sup> 全国信息与文献标准化技术委员会．文献著录: 第 4 部分 非书资料：GB/T 3792.4—2009［S］．北京：中国标准出版社，2010：3．<br>
@@ -34,12 +34,12 @@ Undefined
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	汪昂．增订本草备要：四卷［M］．刻本．京都：老二酉堂，1881．</div>
   <div class="csl-entry">[2]	张伯伟．全唐五代诗格汇考［M］．南京：江苏古籍出版社，2002：288．</div>
-  <div class="csl-entry">[3]	李炳穆．理想的图书馆员和信息专家的素质与形象［J］．图书情报工作，2000，2（6），5-8．</div>
-  <div class="csl-entry">[4]	杨洪升．四库馆私家抄校书考略［J］．文献，2013（1），56-75．</div>
+  <div class="csl-entry">[3]	李炳穆．理想的图书馆员和信息专家的素质与形象［J］．图书情报工作，2000，2（6）：5-8．</div>
+  <div class="csl-entry">[4]	杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56-75．</div>
   <div class="csl-entry">[5]	CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.</div>
   <div class="csl-entry">[6]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
   <div class="csl-entry">[7]	DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.</div>
-  <div class="csl-entry">[8]	丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20(15)．</div>
+  <div class="csl-entry">[8]	丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20（15）．</div>
   <div class="csl-entry">[9]	萧钰．出版业信息化迈入快车道［EB/OL］．（2001-12-19）［2002-04-15］．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．</div>
   <div class="csl-entry">[10]	全国广播电视标准化技术委员会．广播电视音像资料编目规范: 第 2 部分 广播资料：GY/T 202.2—2007［S］．北京：国家广播电影电视总局广播电视规划院，2007：1．</div>
   <div class="csl-entry">[11]	全国信息与文献标准化技术委员会．文献著录: 第 4 部分 非书资料：GB/T 3792.4—2009［S］．北京：中国标准出版社，2010：3．</div>
@@ -99,14 +99,14 @@ Undefined
   <div class="csl-entry">[29]	中国职工教育研究会．职工教育研究论文集［M］．北京：人民教育出版社，1985．</div>
   <div class="csl-entry">[30]	康熙字典: 巳集上: 水部［M］．同文书局影印本．北京：中华书局，1962：50．</div>
   <div class="csl-entry">[31]	白书农．植物开花研究［M］//李承森．植物科学进展．北京：高等教育出版社，1998：146-163．</div>
-  <div class="csl-entry">[32]	陈建军．从数字地球到智慧地球［J］．国土资源导刊，2010，7（10），93．</div>
+  <div class="csl-entry">[32]	陈建军．从数字地球到智慧地球［J］．国土资源导刊，2010，7（10）：93．</div>
   <div class="csl-entry">[33]	陈晋镳，张惠民，朱士兴，等．蓟县震旦亚界研究［M］//中国地质科学院天津地质矿产研究所．中国震旦亚界．天津：天津科学技术出版社，1980：56-114．</div>
   <div class="csl-entry">[34]	程根伟．1998 年长江洪水的成因与减灾对策［M］//许厚泽，赵其国．长江流域洪涝灾害与科技对策．北京：科学出版社，1999：32-36．</div>
   <div class="csl-entry">[35]	贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45-52．</div>
-  <div class="csl-entry">[36]	李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6），6-12．</div>
-  <div class="csl-entry">[37]	李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6），6-21．</div>
-  <div class="csl-entry">[38]	李幼平，王莉．循证医学研究方法: 附视频［J］．中华移植杂志(电子版)，2010，4（3），225-228．</div>
-  <div class="csl-entry">[39]	刘彻东．中国的青年刊物: 个性特色为本仁［J］．中国出版，1998（5），38-39．</div>
+  <div class="csl-entry">[36]	李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6-12．</div>
+  <div class="csl-entry">[37]	李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6-21．</div>
+  <div class="csl-entry">[38]	李幼平，王莉．循证医学研究方法: 附视频［J］．中华移植杂志(电子版)，2010，4（3）：225-228．</div>
+  <div class="csl-entry">[39]	刘彻东．中国的青年刊物: 个性特色为本仁［J］．中国出版，1998（5）：38-39．</div>
   <div class="csl-entry">[40]	刘乃安．生物质材料热解失重动力学及其分析方法研究［D］．合肥：中国科学技术大学，2000：17-18．</div>
   <div class="csl-entry">[41]	楼梦鳞，杨燕．汶川地震基岩地震动特征分析［M］//同济大学土木工程防灾国家重点实验室．汶川地震震害研究．上海：同济大学出版社，2011：011-012．</div>
   <div class="csl-entry">[42]	马欢．人类活动影响下海河流域典型区水循环变化分析［D］．北京：清华大学，2011：27．</div>
@@ -114,14 +114,14 @@ Undefined
   <div class="csl-entry">[44]	裴丽生．在中国科协学术期刊编辑工作经验交流会上的讲话［C］//中国科学技术协会．中国科协学术期刊编辑工作经验交流会资料选．北京：中国科学技术协会学会工作部，1981：2-10．</div>
   <div class="csl-entry">[45]	汪学军．中国农业转基因生物研究进展与安全管理［C］//国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集．北京：中国环境科学出版社，2002：22-25．</div>
   <div class="csl-entry">[46]	王临惠．从几组声母的演变看天津方言形成的自然条件和历史条件［C］//曹志耘．汉语方言的地理语言学研究．北京：商务印书馆，2010：138．</div>
-  <div class="csl-entry">[47]	王临惠，支建刚，王忠一．天津方言的源流关系刍议［J］．山西师范大学学报(社会科学版)，2010，37（4），147．</div>
+  <div class="csl-entry">[47]	王临惠，支建刚，王忠一．天津方言的源流关系刍议［J］．山西师范大学学报(社会科学版)，2010，37（4）：147．</div>
   <div class="csl-entry">[48]	吴云芳．面向中文信息处理的现代汉语并列结构研究［D］．北京：北京大学，2003．</div>
-  <div class="csl-entry">[49]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5），8-9．</div>
+  <div class="csl-entry">[49]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8-9．</div>
   <div class="csl-entry">[50]	杨保军．新闻道德论［D］．北京：中国人民大学出版社，2012．</div>
-  <div class="csl-entry">[51]	杨洪升．四库馆私家抄校书考略［J］．文献，2013（1），56-75．</div>
-  <div class="csl-entry">[52]	杨宗英．电子图书馆的现实模型［J］．中国图书馆学报，1996（2），24-29．</div>
-  <div class="csl-entry">[53]	于潇，刘义，柴跃廷，等．互联网药品可信交易环境中主体资质审核备案模式［J］．清华大学学报(自然科学版)，2012，52（11），1518-1523．</div>
-  <div class="csl-entry">[54]	袁训来，陈哲，肖书海，等．蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口［J］．科学通报，2012，57（34），3219．</div>
+  <div class="csl-entry">[51]	杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56-75．</div>
+  <div class="csl-entry">[52]	杨宗英．电子图书馆的现实模型［J］．中国图书馆学报，1996（2）：24-29．</div>
+  <div class="csl-entry">[53]	于潇，刘义，柴跃廷，等．互联网药品可信交易环境中主体资质审核备案模式［J］．清华大学学报(自然科学版)，2012，52（11）：1518-1523．</div>
+  <div class="csl-entry">[54]	袁训来，陈哲，肖书海，等．蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口［J］．科学通报，2012，57（34）：3219．</div>
   <div class="csl-entry">[55]	张忠智．科技书刊的总编(主编)的角色要求［C］//中国科学技术期刊编辑学会．中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编．北京：中国科学技术期刊编辑学会学术委员会，1997：33-34．</div>
   <div class="csl-entry">[56]	周易外传: 卷 5［M］//王夫之．船山全书：第 6 册．长沙：岳麓书社，2011：1109．</div>
   <div class="csl-entry">[57]	卷 39 乞致仕第一［M］//苏魏公文集：下册．北京：中华书局，1988：590．</div>
@@ -161,13 +161,13 @@ Undefined
   <div class="csl-entry">[91]	WALLS S C, BARICHIVICH W J, BROWN M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399-418.</div>
   <div class="csl-entry">[92]	WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]//SODEMAN, JR W A, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[93]	Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
-  <div class="csl-entry">[94]	丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20(15)．</div>
+  <div class="csl-entry">[94]	丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20（15）．</div>
   <div class="csl-entry">[95]	傅刚，赵承，李佳路．大风沙过后的思考［N］．北京青年报，2000-01-12．</div>
   <div class="csl-entry">[96]	李强．化解医患矛盾需釜底抽薪［EB/OL］．（2012-05-03）［2013-03-25］．<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>．</div>
   <div class="csl-entry">[97]	刘裕国，杨柳，张洋，等．雾霾来袭, 如何突围?［N］．人民日报，2013-01-12．</div>
   <div class="csl-entry">[98]	萧钰．出版业信息化迈入快车道［EB/OL］．（2001-12-19）［2002-04-15］．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．</div>
-  <div class="csl-entry">[99]	余建斌．我们的科技一直在追赶: 访中国工程院院长周济［N］．人民日报，2013-01-12(2)．</div>
-  <div class="csl-entry">[100]	张田勤．罪犯 DNA 库与生命伦理学计划［N］．大众科技报，2000-11-12(7)．</div>
+  <div class="csl-entry">[99]	余建斌．我们的科技一直在追赶: 访中国工程院院长周济［N］．人民日报，2013-01-12（2）．</div>
+  <div class="csl-entry">[100]	张田勤．罪犯 DNA 库与生命伦理学计划［N］．大众科技报，2000-11-12（7）．</div>
   <div class="csl-entry">[101]	BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">[102]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
   <div class="csl-entry">[103]	HOPKINSON A. UNIMARC and metadata: Dublin core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
