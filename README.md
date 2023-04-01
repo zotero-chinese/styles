@@ -1868,7 +1868,7 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 
 ## [448nanjing-agricultural-university-note.csl]
 
-[南京农业大学研究生学位论文](https://yjsc.aust.edu.cn/info/1013/4736.htm)（人文社科类）2023版样式。
+[南京农业大学研究生学位论文](https://grasch.njau.edu.cn/info/1011/4128.htm)（人文社科类）2023版样式。
 
 显示效果：
 
