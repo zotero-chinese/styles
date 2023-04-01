@@ -13,14 +13,9 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>南京农业大学研究生学位论文（人文社科类）2023版，脚注式</summary>
-    <updated>2023-04-01T14:56:44+08:00</updated>
+    <updated>2023-04-01T15:03:08+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="en">
-    <terms>
-      <term name="page-range-delimiter">-</term>
-    </terms>
-  </locale>
   <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
@@ -34,7 +29,6 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">—</term>
     </terms>
   </locale>
   <locale>
@@ -43,6 +37,9 @@
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
   </locale>
   <!-- 主要责任者 -->
   <macro name="author-en">
