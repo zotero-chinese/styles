@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=" " demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=", " demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>社会学研究</title>
     <id>http://www.zotero.org/styles/sociological-studies</id>
@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="sociology"/>
-    <updated>2023-03-22T12:42:44+08:00</updated>
+    <updated>2023-04-05T15:51:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

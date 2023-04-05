@@ -48,8 +48,8 @@
   <div class="csl-entry">中国青年报，2016，《博士论文答辩不能成为一场游戏》（<a href="http://zqb.cyol.com/html/2016-06/17/nw.D110000zgqnb_20160617_4-07.htm">http://zqb.cyol.com/html/2016-06/17/nw.D110000zgqnb_20160617_4-07.htm</a>）。</div>
   <div class="csl-entry">中华人民共和国教育部，1981，《中华人民共和国学位条例暂行实施办法》（<a href="http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyxzfg/202204/t20220422_620528.html">http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyxzfg/202204/t20220422_620528.html</a>）。</div>
   <div class="csl-entry">朱力、袁迎春，2014，《现阶段我国医患矛盾的类型、特征与对策》，《社会科学研究》第6期。</div>
-  <div class="csl-entry">Drane James F. 1994, “Character and Moral Life: A Virtue Approach to Biomedical Ethics.” In Edwin R. DuBose, Ronald P. Hamel &#38; Laurence J. O’Connell (eds.), <i>A Matter of Principles?: Ferment in U.S. Bioethics</i>. Valley Forge: Trinity Press International.</div>
-  <div class="csl-entry">Ozawa Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>
-  <div class="csl-entry">Uslaner Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
-  <div class="csl-entry">Winship Christopher &#38; Robert D. Mare 1984, “Regression Models with Ordinal Variables.” <i>American Sociological Review</i> 49(4).</div>
+  <div class="csl-entry">Drane, James F. 1994, “Character and Moral Life: A Virtue Approach to Biomedical Ethics.” In Edwin R. DuBose, Ronald P. Hamel &#38; Laurence J. O’Connell (eds.), <i>A Matter of Principles?: Ferment in U.S. Bioethics</i>. Valley Forge: Trinity Press International.</div>
+  <div class="csl-entry">Ozawa, Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>
+  <div class="csl-entry">Uslaner, Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry">Winship, Christopher &#38; Robert D. Mare 1984, “Regression Models with Ordinal Variables.” <i>American Sociological Review</i> 49(4).</div>
 </div>

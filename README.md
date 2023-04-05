@@ -816,9 +816,9 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
   <div class="csl-bib-body">
     <div class="csl-entry">冯钢，2018，《马克思的“过渡”理论与“卡夫丁峡谷”之谜》，《社会学研究》第2期。</div>
     <div class="csl-entry">刘江、顾东辉，2022，《“约束—内化”vs.反思性实践认知——社会工作伦理守则与留职意愿关系研究》，《社会学研究》第2期。</div>
-    <div class="csl-entry">Bova Carol, Kristopher P. Fennie, Edith Watrous, Kevin Dieckhaus &#38; Ann B. Williams 2006, “The Health Care Relationship (HCR) Trust Scale: Development and Psychometric Evaluation.” <i>Research in Nursing &#38;amp; Health</i> 29(5).</div>
-    <div class="csl-entry">Ozawa Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>
-    <div class="csl-entry">Uslaner Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
+    <div class="csl-entry">Bova, Carol, Kristopher, P. Fennie, Edith Watrous, Kevin Dieckhaus &#38; Ann B. Williams 2006, “The Health Care Relationship (HCR) Trust Scale: Development and Psychometric Evaluation.” <i>Research in Nursing &#38;amp; Health</i> 29(5).</div>
+    <div class="csl-entry">Ozawa, Sachiko &#38; Pooja Sripad 2013, “How Do You Measure Trust in the Health System? A Systematic Review of the Literature.” <i>Social Science &#38; Medicine</i> 91.</div>
+    <div class="csl-entry">Uslaner, Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
   </div>
 </blockquote>
 
