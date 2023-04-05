@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写。</summary>
-    <updated>2023-04-05T16:04:27+08:00</updated>
+    <updated>2023-04-05T16:22:47+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -120,6 +120,7 @@
   <macro name="type-code">
     <choose>
       <if type="article">
+        <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -128,7 +129,8 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill collection legal_case legislation regulation" match="any">
+      <else-if type="bill collection legal_case legislation regulation treaty" match="any">
+        <!-- 国标的“档案”（A）类型包括法律法规、政府文件等 -->
         <text value="A"/>
       </else-if>
       <else-if type="book chapter" match="any">
