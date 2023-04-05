@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>南京农业大学研究生学位论文（人文社科类）2023版，脚注式</summary>
-    <updated>2023-04-01T16:00:20+08:00</updated>
+    <updated>2023-04-05T16:04:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -181,14 +181,7 @@
   <macro name="type-code">
     <choose>
       <if type="article">
-        <choose>
-          <if variable="archive">
-            <text value="A"/>
-          </if>
-          <else>
-            <text value="M"/>
-          </else>
-        </choose>
+        <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
         <text value="J"/>

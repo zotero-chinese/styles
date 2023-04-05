@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 默认语言为英文；2. 按照语言显示“等”或“et al.”；3. 姓名取消全大写；4. 西文的名无空格；5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；6. 页码的冒号前无空格；7. 优先显示 DOI。</summary>
-    <updated>2023-03-22T12:42:44+08:00</updated>
+    <updated>2023-04-05T16:04:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -126,14 +126,7 @@
   <macro name="type-code">
     <choose>
       <if type="article">
-        <choose>
-          <if variable="archive">
-            <text value="A"/>
-          </if>
-          <else>
-            <text value="M"/>
-          </else>
-        </choose>
+        <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
         <text value="J"/>
