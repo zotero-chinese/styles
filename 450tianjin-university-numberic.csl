@@ -40,7 +40,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">－</term>
+      <!-- <term name="page-range-delimiter">－</term> -->
     </terms>
   </locale>
   <locale xml:lang="en-US">
@@ -136,7 +136,7 @@
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
-        <text variable="title"/>
+        <text variable="title" text-case="sentence"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
@@ -203,7 +203,7 @@
         </if>
       </choose>
     </group>
-    <group delimiter="/" prefix="［" suffix="］">
+    <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
       <text macro="medium-code"/>
     </group>
@@ -417,7 +417,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="（" suffix="）"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <group delimiter="：">
@@ -427,7 +427,7 @@
               <text macro="issued-year"/>   <!-- 0320 -->
               <text variable="volume"/>
             </group>
-            <text variable="issue" prefix="（" suffix="）"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
           <text variable="page"/>
         </group>
@@ -526,7 +526,7 @@
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
-            <text macro="issued-date" prefix="（" suffix="）"/>
+            <text macro="issued-date" prefix="(" suffix=")"/>
             <text macro="accessed-date-zh"/>
           </if>
           <else>
@@ -599,7 +599,7 @@
       <text macro="issued-year"/>
       <text variable="volume"/>
     </group>
-    <text variable="issue" prefix="（" suffix="）"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 英文参考文献表格式 -->
   <macro name="entry-layout">
