@@ -136,7 +136,7 @@
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
-        <text variable="title" text-case="sentence"/>
+        <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
