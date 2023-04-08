@@ -1724,7 +1724,7 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   </div>
 </blockquote>
 
-## [438xian-jiaotong-university.csl]
+## [438xi-an-jiaotong-university.csl]
 
 根据《[西安交通大学硕士、博士学位论文模板-2021版](https://gs.xjtu.edu.cn/info/1209/7605.htm)》修订。
 
@@ -2201,7 +2201,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [434shandong-agricultural-university.csl]:434shandong-agricultural-university.csl
 [435yangzhou-university.csl]:435yangzhou-university.csl
 [436wuhan-university-undergraduate.csl]:436wuhan-university-undergraduate.csl
-[438xian-jiaotong-university.csl]:438xian-jiaotong-university.csl
+[438xi-an-jiaotong-university.csl]:438xi-an-jiaotong-university.csl
 [439hebei-medical-university.csl]:439hebei-medical-university.csl
 [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]: 441huazhong-university-of-science-and-technology-tongji-medical-college.csl
 [442chongqing-university-of-posts-and-telecommunications.csl]: 442chongqing-university-of-posts-and-telecommunications.csl
