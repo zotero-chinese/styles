@@ -249,7 +249,7 @@
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
           <text variable="container-title"/>
-          <text macro="issued-date"/>
+          <text macro="issued-date-newspaper"/>
         </group>
         <text variable="page" prefix="(" suffix=")"/>
       </if>
@@ -349,8 +349,12 @@
       </else>
     </choose>
   </macro>
-  <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
+  <!-- 出版日期，用于专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
   <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
+  </macro>
+  <!-- 出版日期，用于报纸文献” -->
+  <macro name="issued-date-newspaper">
     <!-- <date variable="issued" form="numeric" /> -->
     <date variable="issued">
       <date-part name="year" range-delimiter="-"/>
