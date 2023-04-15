@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>重庆大学博士、硕士学位论文撰写格式标准及要求（2019年修订）</summary>
-    <updated>2023-04-05T16:22:47+08:00</updated>
+    <updated>2023-04-15T15:52:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -204,19 +204,22 @@
   <!-- 专著题名 -->
   <macro name="container-booklike">
     <group delimiter=", ">
-      <group delimiter=": ">
-        <choose>
-          <if variable="container-title">
-            <text variable="container-title"/>
-          </if>
-          <else>
-            <text variable="event-title"/>
-          </else>
-        </choose>
-        <text macro="volume"/>
-      </group>
       <choose>
-        <if variable="event-date">
+        <if variable="container-title">
+          <!-- 优先使用专著或会议论文集的题名 -->
+          <group delimiter=": ">
+            <text variable="container-title"/>
+            <text macro="volume"/>
+          </group>
+        </if>
+        <else-if type="paper-conference">
+          <!-- 有些会议没有论文集，使用会议名代替 -->
+          <text variable="event-title"/>
+        </else-if>
+      </choose>
+      <!-- 会议时间和会议地点 -->
+      <choose>
+        <if type="paper-conference" variable="event-date" match="all">
           <date variable="event-date" form="text"/>
           <text variable="event-place"/>
         </if>
