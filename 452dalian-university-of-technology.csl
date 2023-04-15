@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2023-04-09T16:22:47+08:00</updated>
+    <updated>2023-04-15T15:34:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -209,38 +209,31 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <choose>
-          <if variable="container-title">
+    <choose>
+      <if type="paper-conference">
+        <!-- 会议论文优先使用会议名称，并且加文献类型标识 -->
+        <group delimiter=", ">
+          <group>
             <choose>
-              <if type="paper-conference" match="all">
-                <group>
-                  <text variable="event-title"/>
-                  <group delimiter="/" prefix="[" suffix="]">
-                    <text macro="type-code"/>
-                    <text macro="medium-code"/>
-                  </group>
-                </group>
+              <if variable="event-title">
+                <text variable="event-title"/>
               </if>
               <else>
                 <text variable="container-title"/>
               </else>
             </choose>
-          </if>
-          <else>
-            <text variable="event-title"/>
-          </else>
-        </choose>
-        <text macro="volume"/>
-      </group>
-      <choose>
-        <if variable="event-date">
-          <date variable="event-date" form="text"/>
+            <group delimiter="/" prefix="[" suffix="]">
+              <text macro="type-code"/>
+              <text macro="medium-code"/>
+            </group>
+          </group>
           <text variable="event-place"/>
-        </if>
-      </choose>
-    </group>
+        </group>
+      </if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">
@@ -300,7 +293,14 @@
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="paper-conference">
+        <!-- 论文集、会议录不显示出版地和出版者 -->
+        <group delimiter=": ">
+          <text macro="issued-year"/>
+          <text variable="page"/>
+        </group>
+      </else-if>
+      <else-if type="book chapter periodical thesis" variable="publisher page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
@@ -410,44 +410,25 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
+        <else-if type="paper-conference">
+          <text macro="title"/>
+          <text macro="container-booklike"/>
+          <text macro="publisher"/>
+        </else-if>
         <else-if type="chapter" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <choose>
-            <if type="paper-conference">
-              <group delimiter=". ">
-                <group delimiter=". ">
-                  <text macro="title"/>
-                  <text macro="secondary-contributors"/>
-                </group>
-                <group delimiter=". ">
-                  <text macro="container-contributors"/>
-                  <!-- <text macro="container-booklike"/> -->
-                </group>
-              </group>
-              <!-- 会议论文文献类型标识符后面为， -->
-              <group delimiter=", ">
-                <text macro="container-booklike"/>
-                <!-- <text macro="edition"/> -->
-                <text macro="publisher"/>
-              </group>
-            </if>
-            <else>
-              <group delimiter="//">
-                <group delimiter=". ">
-                  <text macro="title"/>
-                  <text macro="secondary-contributors"/>
-                </group>
-                <group delimiter=". ">
-                  <text macro="container-contributors"/>
-                  <text macro="container-booklike"/>
-                </group>
-              </group>
-              <text macro="edition"/>
-              <text macro="publisher"/>
-            </else>
-          </choose>
-          <!-- <text macro="edition"/>
-          <text macro="publisher"/> -->
+          <group delimiter="//">
+            <group delimiter=". ">
+              <text macro="title"/>
+              <text macro="secondary-contributors"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="container-contributors"/>
+              <text macro="container-booklike"/>
+            </group>
+          </group>
+          <text macro="edition"/>
+          <text macro="publisher"/>
         </else-if>
         <else>
           <!-- 4.1 专著 -->
