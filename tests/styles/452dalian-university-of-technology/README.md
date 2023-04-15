@@ -4,17 +4,21 @@
 
 ## 引注
 
-<sup>[1–8]</sup>
+<sup>[1–12]</sup>
 
 ## 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
-  <div class="csl-entry">[2]	Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会. [C]: 2011 年卷, 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[4]	Fourney M E. Advances in holographic photoelasticity. [C], August 23–25, 1971, University of Southern California, Los Angeles, California, New York: ASME, c1971: 17-38.</div>
-  <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
-  <div class="csl-entry">[6]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
-  <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
-  <div class="csl-entry">[8]	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">[1]	蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落学特征[M]. 北京: 科学出版社, 1998: 23-30.</div>
+  <div class="csl-entry">[2]	Chaplin A H, Anderson D. Names of Persons: National Usages for Entry in Catalogues[M]. International Federation of Library Associations, 1967.</div>
+  <div class="csl-entry">[3]	李炳穆. 理想的图书馆员和信息专家的素质与形象[J]. 图书情报工作, 2000(2): 5-8.</div>
+  <div class="csl-entry">[4]	Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.</div>
+  <div class="csl-entry">[5]	陈元洪. 探究“双减”之下如何进行初中英语作业的优化设计. 广东省教师继续教育学会第六届教学研讨会[C], 中国广东广州: 广东省教师继续教育学会, 2023: 230-232.</div>
+  <div class="csl-entry">[6]	方鸿强. 预应力张拉施工过程中索力损失问题分析与研究. 2010: 437-440.</div>
+  <div class="csl-entry">[7]	国家发展改革委. 中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要[EB/OL]. (2021)[2023-04-09]. <a href="http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm">http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm</a>.</div>
+  <div class="csl-entry">[8]	张志祥. 间断动力系统的随机扰动及其在守恒律方程中的应用[D]. 北京: 北京大学, 1998.</div>
+  <div class="csl-entry">[9]	Cairns B R. Infrared Spectroscopic Studies of Solid Oxygen[D]. University of California, Berkeley, 1965.</div>
+  <div class="csl-entry">[10]	刘加林. 多功能一次性压舌板: 92214985.2[P]. 1993-04-14.</div>
+  <div class="csl-entry">[11]	World Health Organization. Factors regulating the immune response: report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
+  <div class="csl-entry">[12]	丁文祥. 数字革命与竞争国际化[N]. 中国青年报, 2000,11,20(15).</div>
 </div>

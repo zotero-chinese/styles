@@ -1,0 +1,370 @@
+[
+	{
+		"id": "dlut.1:02",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"note": "page: 23-30",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "中国森林群落分类及其群落学特征",
+		"author": [
+			{
+				"literal": "蒋有绪"
+			},
+			{
+				"literal": "郭泉水"
+			},
+			{
+				"literal": "马娟"
+			},
+			{
+				"literal": "。。"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.8:01",
+		"type": "article-newspaper",
+		"container-title": "中国青年报",
+		"language": "zh",
+		"page": "15",
+		"title": "数字革命与竞争国际化",
+		"author": [
+			{
+				"literal": "丁文祥"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					11,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.6:01",
+		"type": "patent",
+		"authority": "中国",
+		"event-place": "614000四川省乐山市红十字会医院",
+		"language": "zh",
+		"number": "92214985.2",
+		"publisher-place": "614000四川省乐山市红十字会医院",
+		"title": "多功能一次性压舌板",
+		"author": [
+			{
+				"literal": "刘加林"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					4,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.7:02",
+		"type": "report",
+		"event-place": "Geneva",
+		"language": "en",
+		"note": "ISBN: 9789241204484\nnumber-of-pages: 88",
+		"publisher": "WHO",
+		"publisher-place": "Geneva",
+		"source": "apps.who.int",
+		"title": "Factors regulating the immune response: report of WHO Scientific Group",
+		"title-short": "Factors regulating the immune response",
+		"URL": "https://apps.who.int/iris/handle/10665/40776",
+		"author": [
+			{
+				"literal": "World Health Organization"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.3:01",
+		"type": "paper-conference",
+		"container-title": "广东省教师继续教育学会第六届教学研讨会论文集（一）",
+		"DOI": "10.26914/c.cnkihy.2023.000162",
+		"event-place": "中国广东广州",
+		"event-title": "广东省教师继续教育学会第六届教学研讨会",
+		"language": "zh",
+		"page": "230-232",
+		"publisher": "广东省教师继续教育学会",
+		"publisher-place": "中国广东广州",
+		"title": "探究“双减”之下如何进行初中英语作业的优化设计",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvc8YNd69kMwmiMGXThl-tzgsJsiXja0R3H2bhZF-UKVSwp2n22Ga8yw%3d&uniplatform=NZKPT",
+		"author": [
+			{
+				"literal": "陈元洪"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.2:01",
+		"type": "article-journal",
+		"abstract": "论述图书情报工作所需的知识、技能和道德。附录部分引介了美国专门图书馆协会提交的“21世纪专门图书馆员必备的素质”的报告。",
+		"container-title": "图书情报工作",
+		"ISSN": "0252-3116",
+		"issue": "2",
+		"journalAbbreviation": "图书情报工作",
+		"language": "zh",
+		"page": "5-8",
+		"source": "CNKI",
+		"title": "理想的图书馆员和信息专家的素质与形象",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKgchrJ08w1e79zTD32bjb4yQ_2N3_E6-N3t-nbGsuyrUMir9g5A-i-cI2qqtpXPWZ_QnskEuQXfi&uniplatform=NZKPT",
+		"author": [
+			{
+				"literal": "李炳穆"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.4:01",
+		"type": "webpage",
+		"language": "zh",
+		"title": "中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要",
+		"URL": "http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm",
+		"author": [
+			{
+				"literal": "国家发展改革委"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.1:03",
+		"type": "book",
+		"language": "en",
+		"note": "Google-Books-ID: Es8YAAAAMAAJ",
+		"number-of-pages": "76",
+		"publisher": "International Federation of Library Associations",
+		"source": "Google Books",
+		"title": "Names of Persons: National Usages for Entry in Catalogues",
+		"title-short": "Names of Persons",
+		"author": [
+			{
+				"family": "Chaplin",
+				"given": "Arthur Hugh"
+			},
+			{
+				"family": "Anderson",
+				"given": "Dorothy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.5:02",
+		"type": "thesis",
+		"language": "en",
+		"note": "Google-Books-ID: qLL_HAAACAAJ",
+		"number-of-pages": "224",
+		"publisher": "University of California, Berkeley",
+		"source": "Google Books",
+		"title": "Infrared Spectroscopic Studies of Solid Oxygen",
+		"author": [
+			{
+				"family": "Cairns",
+				"given": "Bruce Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.5:01",
+		"type": "thesis",
+		"event-place": "北京",
+		"genre": "博士论文",
+		"language": "zh",
+		"publisher": "北京大学",
+		"publisher-place": "北京",
+		"title": "间断动力系统的随机扰动及其在守恒律方程中的应用",
+		"author": [
+			{
+				"literal": "张志祥"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.2:04",
+		"type": "article-journal",
+		"abstract": "The oxidation of the Earth's crust and the increase in atmospheric oxygen early in Earth history have been linked to the accumulation of reduced carbon in sedimentary rocks. Trends in the carbon isotope composition of sedimentary organic carbon and carbonate show that during the Proterozoic aeon (2.5–0.54 Gyr ago) the organic carbon reservoir grew in size, relative to the carbonate reservoir. This increase, and the concomitant release of oxidizing power in the environment, occurred mostly during episodes of global rifting and orogeny.",
+		"archive_location": "419 citation(s)",
+		"call-number": "1",
+		"container-title": "Nature",
+		"DOI": "10.1038/359605a0",
+		"ISSN": "1476-4687",
+		"issue": "6396",
+		"journalAbbreviation": "Cah. Rev. The.",
+		"language": "en",
+		"license": "1992 Nature Publishing Group",
+		"page": "605-609",
+		"source": "69.504",
+		"title": "Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment",
+		"URL": "https://www.nature.com/articles/359605a0",
+		"volume": "359",
+		"author": [
+			{
+				"family": "Des Marais",
+				"given": "David J."
+			},
+			{
+				"family": "Strauss",
+				"given": "Harald"
+			},
+			{
+				"family": "Summons",
+				"given": "Roger E."
+			},
+			{
+				"family": "Hayes",
+				"given": "J. M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1992",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "dlut.3:02",
+		"type": "paper-conference",
+		"DOI": "10.26914/c.cnkihy.2023.000162",
+		"event-title": "广东省教师继续教育学会第六届教学研讨会",
+		"language": "zh-CN",
+		"note": "event-place: 中国陕西西安",
+		"page": "437-440",
+		"title": "预应力张拉施工过程中索力损失问题分析与研究",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOE4DdIn5fHRa7whAmAecdzvc8YNd69kMwmiMGXThl-tzgsJsiXja0R3H2bhZF-UKVSwp2n22Ga8yw%3d&uniplatform=NZKPT",
+		"author": [
+			{
+				"literal": "方鸿强"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]
