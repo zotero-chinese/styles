@@ -1,0 +1,227 @@
+[
+	{
+		"id": "gbt7714-1987.3.1.2:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"number-of-pages": "76",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"title": "论共产党员的修养",
+		"author": [
+			{
+				"family": "刘",
+				"given": "少奇"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962"
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.4.2:01",
+		"type": "chapter",
+		"container-title": "Pathologic physiology: mechanisms of disease",
+		"event-place": "Philadelphia",
+		"language": "en-US",
+		"page": "457-472",
+		"publisher": "Saunders",
+		"publisher-place": "Philadelphia",
+		"title": "Pathogenic properties of invading microorganism",
+		"author": [
+			{
+				"family": "Weinstein",
+				"given": "L"
+			},
+			{
+				"family": "Swertz",
+				"given": "M N"
+			}
+		],
+		"editor": [
+			{
+				"family": "Sodeman",
+				"given": "William A",
+				"suffix": "Jr."
+			},
+			{
+				"family": "Sodeman",
+				"given": "William A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.2.2:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: periodical\nissue: 1",
+		"publisher": "地质出版社",
+		"publisher-place": "北京",
+		"title": "地质评论",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "中国地质学会"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1936"
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.1.2:02",
+		"type": "book",
+		"collection-title": "Information sources for research and development",
+		"event-place": "London",
+		"ISBN": "0-408-70916-2",
+		"language": "en-US",
+		"note": "Google-Books-ID: gEBrAAAAMAAJ",
+		"number-of-pages": "462",
+		"publisher": "Butterworths",
+		"publisher-place": "London",
+		"source": "Google Books",
+		"title": "Use of medical literature",
+		"editor": [
+			{
+				"family": "Morton",
+				"given": "Leslie Thomas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.5.2:01",
+		"type": "article-journal",
+		"container-title": "中国科学",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "400-429",
+		"title": "地壳构造与地壳运动",
+		"author": [
+			{
+				"family": "李",
+				"given": "四光"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.5.2:02",
+		"type": "article-journal",
+		"container-title": "Annals of Internal Medicine",
+		"DOI": "10.7326/0003-4819-92-2-316",
+		"ISSN": "0003-4819",
+		"issue": "2.2",
+		"journalAbbreviation": "Ann. Intern. Med.",
+		"language": "en-US",
+		"note": "publisher: American College of Physicians",
+		"page": "316-318",
+		"source": "acpjournals.org (Atypon)",
+		"title": "Neuropathology of Diabetic Neurogenic Bladder",
+		"URL": "https://www.acpjournals.org/doi/10.7326/0003-4819-92-2-316",
+		"volume": "92",
+		"author": [
+			{
+				"family": "Mastri",
+				"given": "Angeline R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.3.2:01",
+		"type": "patent",
+		"call-number": "CH1045476A",
+		"language": "de-DE",
+		"note": "genre: Patentschrift",
+		"number": "608626",
+		"title": "Anordnung zur lichtelektrischen Erfassung der Mitte eines Lichtfeldes",
+		"URL": "https://patents.google.com/patent/CH608626A5/en?oq=CH608626",
+		"author": [
+			{
+				"family": "Feist",
+				"given": "Wieland"
+			},
+			{
+				"family": "Wahnert",
+				"given": "Claus"
+			},
+			{
+				"family": "Feistauer",
+				"given": "Erich"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1979",
+					1,
+					15
+				]
+			]
+		},
+		"submitted": {
+			"date-parts": [
+				[
+					"1976",
+					8,
+					17
+				]
+			]
+		}
+	}
+]
