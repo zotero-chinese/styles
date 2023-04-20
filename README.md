@@ -517,7 +517,7 @@ L ang Rongrong, Li Nan, Wang Renhuan. The establishmentof evaluating PSE-like ch
 
 ## [110food-science.csl]
 
-[《食品科学》](https://www.spkx.net.cn/journalx_spkx/authorLogOn.action)样式，[000gb-t-7714-2015-numeric-bilingual.csl]基础上修改，国家标准暂时借用`Bill`样式，书籍显示页码。如果引用国家标准，可以将文献类型设为 `Bill`，`Code` 中填入出版地和出版社，如`北京：中国标准出版社`，`Code Pages` 中填入引用的页码。`专著`（`Book`）可添加`页码`，放入`Zotero 总页数`（`# of Pages`）字段中。
+[《食品科学》](https://www.spkx.net.cn/journalx_spkx/authorLogOn.action)样式，[000gb-t-7714-2015-numeric-bilingual.csl]基础上修改，书籍显示页码。如果引用国家标准、书籍需要显示页码，可以在Extra字段中输入`pages: 2-3`。
 
 显示效果：
 
