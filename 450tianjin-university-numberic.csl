@@ -632,7 +632,7 @@
         </else-if>
         <else-if type="chapter paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <group delimiter="//">
+          <group delimiter=". ">
             <group delimiter=". ">
               <text macro="title"/>
               <text macro="secondary-contributors"/>
@@ -684,7 +684,7 @@
         </else-if>
         <else-if type="chapter paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <group delimiter="//">
+          <group delimiter=". ">
             <group delimiter="．">
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
