@@ -28,7 +28,9 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name/>
+          <name>
+            <name-part name="family" text-case="uppercase"/>
+          </name>
         </names>
       </if>
       <else>
@@ -94,7 +96,9 @@
   </macro>
   <macro name="editor">
     <names variable="editor translator">
-      <name/>
+      <name>
+        <name-part name="family" text-case="uppercase"/>
+      </name>
       <label form="short" prefix=", "/>
     </names>
   </macro>
