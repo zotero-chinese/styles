@@ -386,7 +386,7 @@ ZHANG RUOBING, CHEN JIE, XIAO JIANFU, et al. Pulsed electric fields system and i
 > [2] LAN M, LI L, PENG X, et al. Effects of different lipids on the physicochemical properties and microstructure of pale, soft and exudative (PSE)-like chicken meat gel[J]. LWT, 2021: 111284.<br>
 > [3] 梁荣蓉, 李楠, 王仁欢, 等. 夏季类 PSE 鸡肉判定标准的建立及其品质特征[J]. 食品与发酵工业, 2014, 40(8): 231–237.
 LIANG RONGRONG, LI NAN, WANG RENHUAN, et al. The establishmentof evaluating PSE-like chicken meat in summer. Food and Fermentation Industries, 2014, 40(08): 231–237. (in Chinese with English abstract). <br>
-> [4] Harish Vagadia B, Vanga S K, Singh A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
+> [4] HARISH VAGADIA B, VANGA S K, SINGH A, et al. Effects of thermal and electric fields on soybean trypsin inhibitor protein: A molecular modelling study[J]. Innovative Food Science & Emerging Technologies, 2016, 35: 9–20.
 
 ## [103ieee-bl.csl]
 
