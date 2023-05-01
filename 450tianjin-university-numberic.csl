@@ -23,7 +23,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
-    <updated>2023-04-15T15:52:20+08:00</updated>
+    <updated>2023-05-01T18:19:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -632,16 +632,10 @@
         </else-if>
         <else-if type="chapter paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <group delimiter=". ">
-            <group delimiter=". ">
-              <text macro="title"/>
-              <text macro="secondary-contributors"/>
-            </group>
-            <group delimiter=". ">
-              <text macro="container-contributors"/>
-              <text macro="container-booklike"/>
-            </group>
-          </group>
+          <text macro="title"/>
+          <text macro="secondary-contributors"/>
+          <text macro="container-contributors"/>
+          <text macro="container-booklike"/>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>
@@ -684,16 +678,10 @@
         </else-if>
         <else-if type="chapter paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <group delimiter=". ">
-            <group delimiter="．">
-              <text macro="title-zh"/>
-              <text macro="secondary-contributors-zh"/>
-            </group>
-            <group delimiter="．">
-              <text macro="container-contributors"/>
-              <text macro="container-booklike-zh"/>
-            </group>
-          </group>
+          <text macro="title-zh"/>
+          <text macro="secondary-contributors-zh"/>
+          <text macro="container-contributors"/>
+          <text macro="container-booklike-zh"/>
           <text macro="edition"/>
           <text macro="publisher-zh"/>
         </else-if>
