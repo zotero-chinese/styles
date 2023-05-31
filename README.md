@@ -1987,7 +1987,30 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   <div class="csl-entry">[8]	姜锡洲. 一种温热外用药制备方案[P]. 中国专利: 881056073, 1989-07-26.</div>
 </div>
 
+  
+  
+## [454dalian-maritime-university.csl]
 
+[大连海事大学研究生学位论文]样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
+  
+使用说明：
+ <div>1.图书，（1）图书需要在“其他”填入所引页码 “Pages:11-20” 或者是在“存档位置” 直接填入“11-20” 即可，两个方法二选一；（2）如果“地点”抓取不到，需要手动填写。</div>
+ <div>2.专利，英文专利 在“地点”填入国家 例如“US”  中文专利，按照知网显示的7714-2015格式，需要在“地点” 填入 “四川省” 如果不填，默认显示中国。</div>
+ <div>3.其他的期刊等类型，能自动抓取题录信息的，一般不需要手动填写，如果抓取不到，再手动对应填写。</div>
+  
+显示效果：
+<sup>[1–4]</sup>
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	Baehr H D, Stephan K. Heat and Mass Transfer[M]. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011: 11-15.</div>
+  <div class="csl-entry">[2]	邱伟, 杨如民, 武祥辉, 等. 吸收式制冷单元水流接口[P]. 四川省: CN201510847026.4, 2023-04-21.</div>
+  <div class="csl-entry">[3]	Aman J, Henshaw P, Ting D S. Enhanced exergy analysis of a bubble-pump-driven LiCl-H2O absorption air-conditioning system[J]. International Journal of Exergy, 2019, 28(4): 333-354.</div>
+  <div class="csl-entry">[4]	陆泽盈. 液滴在竖直流道中上升时被切割的数值模拟[D]. 上海: 上海工程技术大学, 2020.</div>
+</div>
+ 
+
+  
+  
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2295,3 +2318,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [451lanzhou-university.csl]: 451lanzhou-university.csl
 [452dalian-university-of-technology.csl]: 452dalian-university-of-technology.csl
 [453central-south-university-of-forestry-and-technology.csl]: 453central-south-university-of-forestry-and-technology.csl
+[454dalian-maritime-university.csl]: 454dalian-maritime-university.csl

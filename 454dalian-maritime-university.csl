@@ -2,13 +2,13 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>大连海事大学</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doimaritime</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="self"/>
+    <id>http://www.zotero.org/styles/dalian-maritime-university</id>
+    <link href="http://www.zotero.org/styles/dalian-maritime-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
+      <name>晴</name>
+      <email>gwjemail@foxmail.com</email>
     </author>
     <contributor>
       <name>韩小土</name>
@@ -17,10 +17,6 @@
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
-    </contributor>
-    <contributor>
-      <name>晴空暖阳</name>
-      <email>gwjemail@foxmail.com</email>
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
