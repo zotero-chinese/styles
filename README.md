@@ -1988,7 +1988,8 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 </div>
 
 ## [454dalian-maritime-university.csl]
-[大连海事大学研究生学位论文](https://gs.dlut.edu.cn/info/1210/13319.htm)样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
+[大连海事大学研究生学位论文]样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
+  
 使用说明：
   1.图书，（1）图书需要在“其他”填入所引页码 “Pages:11-20” 或者是在“存档位置” 直接填入“11-20” 即可，两个方法二选一；（2）如果“地点”抓取不到，需要手动填写。
   2.专利，英文专利 在“地点”填入国家 例如“US”  中文专利，按照知网显示的7714-2015格式，需要在“地点” 填入 “四川省” 如果不填，默认显示中国。
