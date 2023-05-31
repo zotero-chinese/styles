@@ -1987,17 +1987,17 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   <div class="csl-entry">[8]	姜锡洲. 一种温热外用药制备方案[P]. 中国专利: 881056073, 1989-07-26.</div>
 </div>
 
-  
-  
+
+
 ## [454dalian-maritime-university.csl]
 
 [大连海事大学研究生学位论文]样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
-  
+
 使用说明：
  <div>1.图书，（1）图书需要在“其他”填入所引页码 “Pages:11-20” 或者是在“存档位置” 直接填入“11-20” 即可，两个方法二选一；（2）如果“地点”抓取不到，需要手动填写。</div>
  <div>2.专利，英文专利 在“地点”填入国家 例如“US”  中文专利，按照知网显示的7714-2015格式，需要在“地点” 填入 “四川省” 如果不填，默认显示中国。</div>
  <div>3.其他的期刊等类型，能自动抓取题录信息的，一般不需要手动填写，如果抓取不到，再手动对应填写。</div>
-  
+
 显示效果：
 <sup>[1–4]</sup>
 
@@ -2007,10 +2007,29 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
   <div class="csl-entry">[3]	Aman J, Henshaw P, Ting D S. Enhanced exergy analysis of a bubble-pump-driven LiCl-H2O absorption air-conditioning system[J]. International Journal of Exergy, 2019, 28(4): 333-354.</div>
   <div class="csl-entry">[4]	陆泽盈. 液滴在竖直流道中上升时被切割的数值模拟[D]. 上海: 上海工程技术大学, 2020.</div>
 </div>
- 
 
-  
-  
+
+## [455china-pharmaceutical-university.csl]
+
+[中国药科大学本科毕业论文（设计）](http://jwc.cpu.edu.cn/23/27/c924a140071/page.htm)样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改。
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	Zhang JY, Zhang JS, Zhang Y, <i>et al.</i> Studies on the intestinal absorption of crocin in rats and determination of the partition coefficient [J]. <i>J China Pharm Univ</i> (中国药科大学学报), 2004(3): 89-90.</div>
+    <div class="csl-entry">[2]	Zhang HH, Kumar S, Barnett AH, <i>et al.</i> Ceiling culture of mature human adipocytes: use in studies of adipocyte functions [J]. <i>J Endocrinol</i>, 2000, 164(1/2): 119-128.</div>
+    <div class="csl-entry">[3]	Qi RM, Wang ZG, Wang SQ. <i>Advances in Pharmacology</i> (药理学进展) [M]. Beijing: People’s Medical Publishing House, 2003: 74.</div>
+    <div class="csl-entry">[4]	Peebles PZ. <i>Probability, random variables, and random signal principles</i> [M]. 4th ed. New York: McGraw Hill, 2001: 149.</div>
+    <div class="csl-entry">[5]	China Association for Standardization. GB/T 21853-2008 <i>Chemicals—Partition  Coefficient (n-octanol/water)—Shake Flask Method</i> (化学品 分配系数(正辛醇-水)摇瓶法试验) [S]. Beijing: Standards Press of China, 2008.</div>
+    <div class="csl-entry">[6]	Chinese Pharmacopoeia Commission. <i>Chinese Pharmacopoeia</i>: part 2 (中华人民共和国药典：二部) [S]. Beijing: China Medical Science Press, 2010: 310-312.</div>
+    <div class="csl-entry">[7]	Lafon L. New benzhydrysulphinyl derivatives: US, 4066686A [P]. 1978-01-03 [2011-10-25].</div>
+    <div class="csl-entry">[8]	U.S. Food and Drug Administration. FDA approves shard system REMS for TIRF products [EB/OL]. (2011-12-29) [2012-01-13]. <a href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm285345.htm">http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm285345.htm</a>.</div>
+    <div class="csl-entry">[9]	Tian Z. Study of the clinical anti-aggregating effect of picotamide on platelet (吡考他胺抗血小板聚集性的临床研究) [D]. Changchun: Jilin University, 2004.</div>
+  </div>
+</blockquote>
+
+
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2319,3 +2338,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [452dalian-university-of-technology.csl]: 452dalian-university-of-technology.csl
 [453central-south-university-of-forestry-and-technology.csl]: 453central-south-university-of-forestry-and-technology.csl
 [454dalian-maritime-university.csl]: 454dalian-maritime-university.csl
+[455china-pharmaceutical-university.csl]: 455china-pharmaceutical-university.csl
