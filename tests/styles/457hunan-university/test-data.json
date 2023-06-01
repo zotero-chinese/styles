@@ -1,0 +1,296 @@
+[
+	{
+		"id": "hnu.app.5:04",
+		"type": "article-journal",
+		"container-title": "Journal of  Applied Mechanics",
+		"DOI": "10.1115/1.2900847",
+		"issue": "3",
+		"language": "en-US",
+		"page": "607-613",
+		"title": "Singular stress field  near the comer of jointed dissimilar materials",
+		"volume": "60",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "D H"
+			},
+			{
+				"family": "Bogy",
+				"given": "D B"
+			},
+			{
+				"family": "Wang",
+				"given": "K C"
+			},
+			{
+				"family": "Geng",
+				"given": "Xiaofei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:08",
+		"type": "paper-conference",
+		"container-title": "Proc of Int Conf on  Non conventional Structures",
+		"event-place": "London",
+		"language": "en-US",
+		"page": "93-95",
+		"publisher-place": "London",
+		"title": "Load relieving systems",
+		"author": [
+			{
+				"family": "Melbourne",
+				"given": "C"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:07",
+		"type": "paper-conference",
+		"container-title": "中国土木工程学会第八届全国土力学及岩土工程学术会议论文集",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"page": "51-53",
+		"publisher": "万国学术出版社",
+		"publisher-place": "北京",
+		"title": "连续与非连续变形分析的流形方法及其在土力学中的应用",
+		"author": [
+			{
+				"family": "田",
+				"given": "荣"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:03",
+		"type": "article-journal",
+		"container-title": "科学通报",
+		"issue": "14",
+		"language": "zh-CN",
+		"note": "中文核心期刊/北大核心: 是\n复合影响因子: 2.606\n综合影响因子: 1.752",
+		"page": "1275-1277",
+		"title": "介观耦合电路的量子压缩效应",
+		"volume": "41",
+		"author": [
+			{
+				"family": "李",
+				"given": "斌"
+			},
+			{
+				"family": "沙",
+				"given": "键"
+			},
+			{
+				"family": "张",
+				"given": "其瑞"
+			},
+			{
+				"family": "陈",
+				"given": "斌"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:10",
+		"type": "post-weblog",
+		"language": "en-US",
+		"title": "Testimony of Emund Chairman of FASB",
+		"URL": "www.fasb.org.uk",
+		"author": [
+			{
+				"family": "Jenkins",
+				"given": "L"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					2,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:01",
+		"type": "chapter",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"page": "104-105",
+		"publisher": "高等教育出版社",
+		"publisher-place": "北京",
+		"title": "滑动轴承的流体动力润滑理论",
+		"author": [
+			{
+				"family": "张",
+				"given": "直明"
+			},
+			{
+				"family": "张",
+				"given": "言"
+			},
+			{
+				"family": "陈",
+				"given": "北熊"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:05",
+		"type": "thesis",
+		"archive": "北京大学数学系数学研究所",
+		"event-place": "北京",
+		"genre": "硕士学位论文",
+		"language": "zh-CN",
+		"note": "page: 60-65",
+		"publisher": "北京大学",
+		"publisher-place": "北京",
+		"title": "微分半动力系统的不变集",
+		"author": [
+			{
+				"family": "张",
+				"given": "筑生"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:09",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh-CN",
+		"number": "891056088",
+		"publisher-place": "中国",
+		"title": "一种氧化锆材料的制备方法",
+		"author": [
+			{
+				"family": "姚",
+				"given": "光起"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					7,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:02",
+		"type": "chapter",
+		"event-place": "Cambridge",
+		"language": "en-US",
+		"page": "35-40",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge",
+		"title": "Introduction to genetic algorithms",
+		"author": [
+			{
+				"family": "Mitchell",
+				"given": "A L"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:06",
+		"type": "thesis",
+		"event-place": "Berkeley",
+		"language": "en-US",
+		"note": "page: 89-91\nGoogle-Books-ID: qLL_HAAACAAJ",
+		"number-of-pages": "224",
+		"publisher": "Univ. of California",
+		"publisher-place": "Berkeley",
+		"source": "Google Books",
+		"title": "Infrared spectroscopic studies of solid oxygen",
+		"URL": "https://www.google.com/books/edition/Infrared_Spectroscopic_Studies_of_Solid/qLL_HAAACAAJ?hl=en",
+		"author": [
+			{
+				"family": "Cairns",
+				"given": "Bruce Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "hnu.app.5:11",
+		"type": "article-newspaper",
+		"container-title": "中国机电日报",
+		"language": "zh-CN",
+		"title": "中国汽车工业核心竞争力评析",
+		"title-short": "中国汽车工业核心竞争力评析",
+		"author": [
+			{
+				"family": "福",
+				"given": "轩"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					4,
+					20
+				]
+			]
+		}
+	}
+]
