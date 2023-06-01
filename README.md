@@ -2362,3 +2362,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [453central-south-university-of-forestry-and-technology.csl]: 453central-south-university-of-forestry-and-technology.csl
 [454dalian-maritime-university.csl]: 454dalian-maritime-university.csl
 [455china-pharmaceutical-university.csl]: 455china-pharmaceutical-university.csl
+[457hunan-university.csl]: 457hunan-university.csl

@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>湖南大学研究生学位论文撰写规范</summary>
-    <updated>2023-06-01T12:47:14+08:00</updated>
+    <updated>2023-06-01T12:52:34+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -311,7 +311,7 @@
   <macro name="patent-country-en">
     <group delimiter=" ">
       <choose>
-        <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的域，所以使用 `publisher-place` 作为备选 -->
+        <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 的 `Country` 字段没有映射到 CSL，所以使用 `publisher-place` 作为备选 -->
         <if variable="jurisdiction">
           <text variable="jurisdiction"/>
         </if>
@@ -327,7 +327,7 @@
   </macro>
   <macro name="patent-country-zh">
     <choose>
-      <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的域，所以使用 `publisher-place` 作为备选 -->
+      <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 的 `Country` 字段没有映射到 CSL，所以使用 `publisher-place` 作为备选 -->
       <if variable="jurisdiction">
         <text variable="jurisdiction"/>
       </if>

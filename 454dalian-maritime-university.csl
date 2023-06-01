@@ -20,8 +20,8 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>（写在前面，适用于大连海事学位论文格式）1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 纯电子资源显示引用日期和 URL；4. 无 DOI；5.图书显示所引用页码，zotero的图书条目的右侧“信息”栏  “其他”中需要输入“Pages：11-26”或者次选项“馆藏目录”需要手动写入引用页码，例66-69；6. 国外专利需要在“地点”手动写入国家，例如 US，中文则写入省份，例如 四川省；7.本csl在002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi上修改专利部分，并参考福建农林科技的图书页码  华中科技的专利部分。</summary>
-    <updated>2023-05-25T15:52:20+08:00</updated>
+    <summary>（写在前面，适用于大连海事学位论文格式）1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 纯电子资源显示引用日期和 URL；4. 无 DOI；5.图书显示所引用页码，zotero的图书条目的右侧“信息”栏 “其他”中需要输入“Pages：11-26”或者次选项“馆藏目录”需要手动写入引用页码，例66-69；6. 国外专利需要在“地点”手动写入国家，例如 US，中文则写入省份，例如 四川省；7.本csl在002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi上修改专利部分，并参考福建农林科技的图书页码 华中科技的专利部分。</summary>
+    <updated>2023-06-01T12:52:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -293,7 +293,7 @@
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
       </if>
-      <!--图书 需要标明所引页码  第一优先选项 其他 中输入“Pages:11-26”  备选项  “存档位置”手动写入引用页码范围，例如60-65 图书类型的条目 存档位置、版权、索书号等几乎不被占用 备选可行，毕竟只输入数字还是要快一些 --> 
+      <!--图书 需要标明所引页码  第一优先选项 其他 中输入“Pages:11-26”  备选项  “存档位置”手动写入引用页码范围，例如60-65 图书类型的条目 存档位置、版权、索书号等几乎不被占用 备选可行，毕竟只输入数字还是要快一些 -->
       <else-if type="book chapter">
         <group prefix="">
           <group delimiter="">
@@ -337,11 +337,10 @@
       </else>
     </choose>
   </macro>
-
-    <!-- 专利国别 -->
+  <!-- 专利国别 -->
   <macro name="patent-country_region">
     <choose>
-      <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的字段，所以使用 `publisher-place` 作为备选 而且中国只能算是勉强，7714-2015知网已经更新 应该输入 省份了，因此势必要手动输入了 -->
+      <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 的 `Country` 字段没有映射到 CSL，所以使用 `publisher-place` 作为备选 而且中国只能算是勉强，7714-2015知网已经更新 应该输入 省份了，因此势必要手动输入了 -->
       <if variable="jurisdiction">
         <text variable="jurisdiction"/>
       </if>
@@ -353,7 +352,7 @@
       </else>
     </choose>
   </macro>
-      <!-- 图书页码优先在“其他”中手动输入 例如 Pages:11-20 ，或者备选 可以在 存档位置 输入11-20 -->
+  <!-- 图书页码优先在“其他”中手动输入 例如 Pages:11-20 ，或者备选 可以在 存档位置 输入11-20 -->
   <macro name="book_seleced_page">
     <choose>
       <if variable="page">
@@ -473,7 +472,7 @@
     </layout>
     <layout suffix=".">
       <text variable="citation-number" prefix="[" suffix="]"/>
-     <text macro="entry-layout"/>
+      <text macro="entry-layout"/>
     </layout>
   </bibliography>
 </style>
