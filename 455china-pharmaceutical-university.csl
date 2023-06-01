@@ -12,23 +12,9 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-05-31T23:07:34+08:00</updated>
+    <updated>2023-06-01T08:40:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="zh">
-    <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-    </date>
-    <terms>
-      <term name="edition" form="short">版</term>
-      <term name="open-quote">“</term>
-      <term name="close-quote">”</term>
-      <term name="open-inner-quote">‘</term>
-      <term name="close-inner-quote">’</term>
-    </terms>
-  </locale>
   <locale>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
@@ -67,7 +53,7 @@
           <group delimiter=": ">
             <text variable="title"/>
             <group delimiter=", ">
-              <text macro="patent-country"/>
+              <text macro="patent-country" font-style="italic"/>
               <text variable="number"/>
             </group>
           </group>
