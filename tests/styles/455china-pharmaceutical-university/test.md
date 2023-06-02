@@ -27,7 +27,7 @@ Undefined
   <div class="csl-entry">[4]	Peebles PZ. <i>Probability, random variables, and random signal principles</i> [M]. 4th ed. New York: McGraw Hill, 2001: 149.</div>
   <div class="csl-entry">[5]	China Association for Standardization. GB/T 21853-2008 <i>Chemicals—Partition  Coefficient (n-octanol/water)—Shake Flask Method</i> (化学品 分配系数(正辛醇-水)摇瓶法试验) [S]. Beijing: Standards Press of China, 2008.</div>
   <div class="csl-entry">[6]	Chinese Pharmacopoeia Commission. <i>Chinese Pharmacopoeia</i>: part 2 (中华人民共和国药典：二部) [S]. Beijing: China Medical Science Press, 2010: 310-312.</div>
-  <div class="csl-entry">[7]	Lafon L. New benzhydrysulphinyl derivatives <i>US</i>, 4066686A [P]. 1978-01-03 [2011-10-25].</div>
+  <div class="csl-entry">[7]	Lafon L. New benzhydrysulphinyl derivatives: <i>US</i>, 4066686A [P]. 1978-01-03 [2011-10-25].</div>
   <div class="csl-entry">[8]	U.S. Food and Drug Administration. FDA approves shard system REMS for TIRF products [EB/OL]. (2011-12-29) [2012-01-13]. <a href="http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm285345.htm">http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm285345.htm</a>.</div>
   <div class="csl-entry">[9]	Tian Z. Study of the clinical anti-aggregating effect of picotamide on platelet (吡考他胺抗血小板聚集性的临床研究) [D]. Changchun: Jilin University, 2004.</div>
 </div>
@@ -91,9 +91,9 @@ Undefined
   <div class="csl-entry">[34]	Caplan P. Cataloging internet resources [J]. <i>The Public-Access Computer Systems Review</i>, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">[35]	Frese KS, Katus HA, Meder B. Next-generation sequencing: from understanding biology to personalized medicine [J]. <i>Biology</i>, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">[36]	Myburg AA, Grattapaglia D, Tuskan GA, <i>et al.</i> The genome of eucalyptus grandis [J]. <i>Nature</i>, 2014, 510: 356-362.</div>
-  <div class="csl-entry">[37]	邓一刚. 全智能节电器 <i>中国</i>, 200610171314.3 [P]. 2006-12-13.</div>
-  <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法 <i>中国</i>, 01128777.2 [P]. 2002-03-06 [2002-05-28].</div>
-  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, <i>et al.</i> Electronic watermarking method and system <i>US</i>, US6915001 [P]. 2005-07-05 [2013-11-11].</div>
+  <div class="csl-entry">[37]	邓一刚. 全智能节电器: <i>中国</i>, 200610171314.3 [P]. 2006-12-13.</div>
+  <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: <i>中国</i>, 01128777.2 [P]. 2002-03-06 [2002-05-28].</div>
+  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, <i>et al.</i> Electronic watermarking method and system: <i>US</i>, US6915001 [P]. 2005-07-05 [2013-11-11].</div>
   <div class="csl-entry">[40]	中国互联网络信息中心. <i>第 29 次中国互联网络发展现状统计报告</i> [R]. 2012.</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知 [A]. 2005.</div>
   <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy [EB/OL]. (2008-05-04) [2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -151,9 +151,9 @@ Undefined
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析 [D]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究 [D]. 北京: 北京大学, 2003.</div>
   <div class="csl-entry">[96]	Calms RB. Infrared spectroscopic studies on solid oxygen [D]. Berkeley: Univ. of California, 1965.</div>
-  <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置 <i>中国</i>, 201220158825.2 [P]. 2012-04-05.</div>
-  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法 <i>中国</i>, 01129210.5 [P]. 2001-10-24 [2002-05-28].</div>
-  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, <i>et al.</i> Compiler <i>US</i>, US828402 [P]. 2002-05-25 [2002-05-28].</div>
+  <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: <i>中国</i>, 201220158825.2 [P]. 2012-04-05.</div>
+  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: <i>中国</i>, 01129210.5 [P]. 2001-10-24 [2002-05-28].</div>
+  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, <i>et al.</i> Compiler: <i>US</i>, US828402 [P]. 2002-05-25 [2002-05-28].</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. GB/T 3792.4—2009 <i>文献著录: 第 4 部分 非书资料</i> [S]. 北京: 中国标准出版社, 2010: 3.</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会. GY/T 202.2—2007 <i>广播电视音像资料编目规范: 第 2 部分 广播资料</i> [S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司. GB 15616—1995 土壤环境质量标准 [S]. 北京: 中国标准出版社, 1996: 2-3.</div>
