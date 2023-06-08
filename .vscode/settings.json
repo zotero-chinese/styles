@@ -1,9 +1,9 @@
 {
     "[xml]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnSaveMode": "file",
         "editor.tabSize": 2
     },
-    "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modificationsIfAvailable",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,

@@ -1,0 +1,45 @@
+[
+	[
+		{
+			"id": "ceq.5.4:1",
+			"locator": "66",
+			"label": "page",
+			"author-only": true
+		}
+	],
+	[
+		{
+			"id": "ceq.5.4:1",
+			"locator": "66",
+			"label": "page",
+			"suppress-author": true
+		}
+	],
+	[
+		{
+			"id": "ceq.5.4:2",
+			"locator": "53",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "ceq.5.5:1"
+		}
+	],
+	[
+		{
+			"id": "ceq.5.5:2"
+		}
+	],
+	[
+		{
+			"id": "ceq.5.5:3"
+		}
+	],
+	[
+		{
+			"id": "ceq.5.5:4"
+		}
+	]
+]
