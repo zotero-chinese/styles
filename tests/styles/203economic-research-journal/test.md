@@ -65,7 +65,7 @@ Undefined
   <div class="csl-entry">丁文详，2000：《数字革命与竞争国际化》，《中国青年报》。</div>
   <div class="csl-entry">傅刚、赵承、李佳路，2000：《大风沙过后的思考》，《北京青年报》。</div>
   <div class="csl-entry">顾炎武，1992：《昌平山水记: 京东考古录》. 北京: 北京古籍出版社，1992年。</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所，1988：《世界各国和地区名称代码: GB/T 2659—1986》. 全国文献工作标准化委员会, 编//《文献工作国家标准汇编: 3》北京: 中国标准出版社，1988年。</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所, 1988, “世界各国和地区名称代码”. 全国文献工作标准化委员会, ed.//, <i>文献工作国家标准汇编: 3</i>北京: 中国标准出版社: 59—92.</div>
   <div class="csl-entry">国家环境保护局科技标准司，1996：《土壤环境质量标准》. 北京: 中国标准出版社，1996年。</div>
   <div class="csl-entry">哈里森·沃尔德伦，2012：《经济数学与金融数学》. 谢远涛, 译. 北京: 中国人民大学出版社，2012年。</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司，2001：《一种荒漠化地区生态植被综合培育种植方法》. 2001-10-24。</div>
@@ -144,8 +144,8 @@ Undefined
   <div class="csl-entry">Baldock P., 2011, “Developing early childhood services: Past, present and future”. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">Bawden D., 2008, “Origins and concepts of digital literacy”(2008-05-04).</div>
   <div class="csl-entry">Buseck P.R., G.L. Nord, and D.R. Veblen, c1980, “Subsolidus phenomena in pyroxenes”//, <i>Pyroxense</i>Washington, D.C.: Mineralogical Society of America: 117—211.</div>
+  <div class="csl-entry">Cairns B.R., 1965, “Infrared spectroscopic studies on solid oxygen”. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Calkin D., A. Ager, and M. Thompson, 2011, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report”, , No. RMRS-GTR-262.</div>
-  <div class="csl-entry">Calms R.B., 1965, “Infrared spectroscopic studies on solid oxygen”. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Caplan P., 1993, “Cataloging internet resources”, <i>The Public-Access Computer Systems Review</i>, 4(2), 61—66.</div>
   <div class="csl-entry">Chernik B.E., 1982, “Introduction to library services for library technicians”. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, [no date], “Pennsylvania library laws”([no date]).</div>
@@ -170,7 +170,7 @@ Undefined
   <div class="csl-entry">O’Brien J.A., 1994, “Introduction to information systems”. 7 edition. Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc, [no date], “About OCLC: History of cooperation”([no date]).</div>
   <div class="csl-entry">Park J.-R., and Y. Tosaka, 2010, “Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48(8), 696—715.</div>
-  <div class="csl-entry">Peebles P.Z., 2001, “Probability, random variables, and random signal principles”. 4 edition. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles P.Z. Jr., 2001, “Probability, random variables, and random signal principles”. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A., 2011, “Death by theory: a tale of mystery and archaeological theory”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   <div class="csl-entry">Roberson J.A., and E.G. Burneson, 2011, “Drinking water standards, regulations and goals”. American Water Works Association, ed.//, <i>Water quality &#38; treatment: A handbook on drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">Saito M., and K. Miyazaki, 2006, “Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu”, <i>Bulletin of the geological survey of Japan</i>, 57(5/6), 169—176.</div>
@@ -179,6 +179,6 @@ Undefined
   <div class="csl-entry">Tachibana R., S. Shimizu, S. Kobayshi, et al., 2005, “Electronic watermarking method and system”. 2005-07-05.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990, “Guidelines for handling excavated acid-producing material”, U.S. Department of Commerce National Information Service, No. PB 91-194001.</div>
   <div class="csl-entry">Walls S.C., W.J. Barichivich, and M.E. Brown, 2013, “Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate”, <i>Biology</i>, 2(1), 399—418.</div>
-  <div class="csl-entry">Weinstein L., and M.N. Swertz, 1974, “Pathogenic properties of invading microorganism”. Sodeman, Jr W A, W A Sodeman, eds.//, <i>Pathologic physiology: Mechanisms of Disease</i>Philadelphia: Saunders: 745—772.</div>
+  <div class="csl-entry">Weinstein L., and M.N. Swertz, 1974, “Pathogenic properties of invading microorganism”. Sodeman W A Jr, W A Sodeman, eds.//, <i>Pathologic physiology: Mechanisms of Disease</i>Philadelphia: Saunders: 745—772.</div>
   <div class="csl-entry">World Health Organization, 1970, “Factors regulating the immune response: Report of WHO Scientific Group”, WHO.</div>
 </div>

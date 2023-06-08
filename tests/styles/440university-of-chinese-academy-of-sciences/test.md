@@ -167,8 +167,8 @@ Undefined
   <div class="csl-entry">Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
-  <div class="csl-entry">Calms R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">Chernik B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
@@ -193,7 +193,7 @@ Undefined
   <div class="csl-entry">O’Brien J A. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin, 1994.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">Park J R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">Peebles P Z. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
@@ -202,7 +202,7 @@ Undefined
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P]. 2005-07-05.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]//Sodeman, Jr W A, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">Yufin S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
 </div>

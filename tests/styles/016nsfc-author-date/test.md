@@ -82,7 +82,7 @@ Undefined
   <div class="csl-entry">27.	李幼平, 王莉. 循证医学研究方法: 附视频[J]. <b>中华移植杂志(电子版)</b>, 2010, 4(3): 225-228.</div>
   <div class="csl-entry">28.	刘彻东. 中国的青年刊物: 个性特色为本仁[J]. <b>中国出版</b>, 1998(5): 38-39.</div>
   <div class="csl-entry">29.	刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
-  <div class="csl-entry">30.	刘裕国, 杨柳, 张洋, others. 雾霾来袭, 如何突围?[N]. <b>人民日报</b>, 2013-01-12.</div>
+  <div class="csl-entry">30.	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 雾霾来袭, 如何突围?[N]. <b>人民日报</b>, 2013-01-12.</div>
   <div class="csl-entry">31.	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. <b>汶川地震震害研究</b>. 上海: 同济大学出版社, 2011: 011-012.</div>
   <div class="csl-entry">32.	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">33.	罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.</div>
@@ -112,9 +112,9 @@ Undefined
   <div class="csl-entry">57.	杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">58.	杨洪升. 四库馆私家抄校书考略[J]. <b>文献</b>, 2013(1): 56-75.</div>
   <div class="csl-entry">59.	杨宗英. 电子图书馆的现实模型[J]. <b>中国图书馆学报</b>, 1996(2): 24-29.</div>
-  <div class="csl-entry">60.	于潇, 刘义, 柴跃廷, others. 互联网药品可信交易环境中主体资质审核备案模式[J]. <b>清华大学学报(自然科学版)</b>, 2012, 52(11): 1518-1523.</div>
+  <div class="csl-entry">60.	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. <b>清华大学学报(自然科学版)</b>, 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">61.	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. <b>人民日报</b>, 2013-01-12(2).</div>
-  <div class="csl-entry">62.	袁训来, 陈哲, 肖书海, others. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. <b>科学通报</b>, 2012, 57(34): 3219.</div>
+  <div class="csl-entry">62.	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. <b>科学通报</b>, 2012, 57(34): 3219.</div>
   <div class="csl-entry">63.	张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
   <div class="csl-entry">64.	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">65.	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. <b>大众科技报</b>, 2000-11-12(7).</div>
@@ -131,13 +131,13 @@ Undefined
   <div class="csl-entry">76.	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R]. 2013.</div>
   <div class="csl-entry">77.	中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">78.	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">79.	Babu B V, Nagar A K, Deep K, others. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日[M]. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">79.	Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日[M]. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">80.	Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">81.	Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">82.	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">83.	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//<b>Pyroxense</b>. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">84.	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
-  <div class="csl-entry">85.	Calms R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">84.	Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">85.	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">86.	Caplan P. Cataloging internet resources[J]. <b>The Public-Access Computer Systems Review</b>, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">87.	Chernik B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">88.	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
@@ -156,13 +156,13 @@ Undefined
   <div class="csl-entry">101.	Kennedy W J, Garrison R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. <b>Sedimentology</b>, 1975a, 22: 311.</div>
   <div class="csl-entry">102.	Kennedy W J, Garrison R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. <b>Lethaia</b>, 1975b, 8(4): 339-360.</div>
   <div class="csl-entry">103.	Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
-  <div class="csl-entry">104.	Koseki A, Momose H, Kawahito M, others. Compiler: US828402[P]. 2002-05-25.</div>
+  <div class="csl-entry">104.	Koseki A, Momose H, Kawahito M, Komatsu H. Compiler: US828402[P]. 2002-05-25.</div>
   <div class="csl-entry">105.	Morri I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">106.	Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. The genome of eucalyptus grandis[J]. <b>Nature</b>, 2014, 510: 356-362.</div>
   <div class="csl-entry">107.	O’Brien J A. Introduction to information systems[M]. 7 版. Burr Ridge, III: Irwin, 1994.</div>
   <div class="csl-entry">108.	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">109.	Park J R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. <b>Cataloging &#38; Classification Quarterly</b>, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">110.	Peebles P Z. Probability, random variables, and random signal principles[M]. 4 版. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">110.	Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 版. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">111.	Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">112.	Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]//American Water Works Association. <b>Water quality &#38; treatment: a handbook on drinking water</b>. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">113.	Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <b>Bulletin of the geological survey of Japan</b>, 2006, 57(5/6): 169-176.</div>
@@ -171,7 +171,7 @@ Undefined
   <div class="csl-entry">116.	Tachibana R, Shimizu S, Kobayshi S, Nakamura T. Electronic watermarking method and system: US6915001[P]. 2005-07-05.</div>
   <div class="csl-entry">117.	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">118.	Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. <b>Biology</b>, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">119.	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]//Sodeman, Jr W A, Sodeman W A. <b>Pathologic physiology: mechanisms of disease</b>. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">119.	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]//Sodeman W A Jr, Sodeman W A. <b>Pathologic physiology: mechanisms of disease</b>. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">120.	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">121.	Yufin S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 2000年2月1—4日[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">122.	周易外传: 卷 5[M]//王夫之. <b>船山全书</b>: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>

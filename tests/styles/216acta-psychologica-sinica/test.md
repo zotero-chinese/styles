@@ -136,13 +136,13 @@ Mou et al.<br>
 
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">American Association for the Advancement of Science. (1883). <i>Science</i> (Vol. 1). American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu, B. V., Nagar, A. K., Deep, K., &#38; others (Eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer.</div>
+  <div class="csl-entry">Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U. (Eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer.</div>
   <div class="csl-entry">Baker, S. K., &#38; Jackson, M. E. (1995). <i>The future of resource sharing</i>. The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. (2011). <i>Developing early childhood services: Past, present and future</i> (p. 105). Open University Press.</div>
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>.</div>
   <div class="csl-entry">Buseck, P. R., Nord, G. L., &#38; Veblen, D. R. (c1980). Subsolidus phenomena in pyroxenes. In <i>Pyroxense</i> (pp. 117–211). Mineralogical Society of America.</div>
+  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Univ. of California, Berkeley.</div>
   <div class="csl-entry">Calkin, D., Ager, A., &#38; Thompson, M. (2011). <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i> (No. RMRS-GTR-262; pp. 8–9).</div>
-  <div class="csl-entry">Calms, R. B. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Univ. of California, Berkeley.</div>
   <div class="csl-entry">Caplan, P. (1993). Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>, <i>4</i>(2), 61–66.</div>
   <div class="csl-entry">Chernik, B. E. (1982). <i>Introduction to library services for library technicians</i>. Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Coffee drinking and cancer of the pancreas. (1981). <i>British Medical Journal</i>, <i>283</i>(6292), 628.</div>
@@ -164,13 +164,13 @@ Mou et al.<br>
   <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975a). Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. <i>Sedimentology</i>, <i>22</i>, 311.</div>
   <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975b). Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, <i>8</i>(4), 339–360.</div>
   <div class="csl-entry">Kinchy, A. (2012). <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i> (p. 50). MIT Press.</div>
-  <div class="csl-entry">Koseki, A., Momose, H., Kawahito, M., &#38; others. (2002). <i>Compiler</i> (No. US828402).</div>
+  <div class="csl-entry">Koseki, A., Momose, H., Kawahito, M., &#38; Komatsu, H. (2002). <i>Compiler</i> (No. US828402).</div>
   <div class="csl-entry">Morri, I. (2010). <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356–362.</div>
   <div class="csl-entry">O’Brien, J. A. (1994). <i>Introduction to information systems</i> (7th ed.). Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. (n.d.). <i>About OCLC: History of cooperation</i>.</div>
   <div class="csl-entry">Park, J.-R., &#38; Tosaka, Y. (2010). Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <i>48</i>(8), 696–715.</div>
-  <div class="csl-entry">Peebles, P. Z. (2001). <i>Probability, random variables, and random signal principles</i> (4th ed.). McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. (2001). <i>Probability, random variables, and random signal principles</i> (4th ed.). McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011). <i>Death by theory: a tale of mystery and archaeological theory</i> (Rev. ed., p. 13). Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry">Roberson, J. A., &#38; Burneson, E. G. (2011). Drinking water standards, regulations and goals. In American Water Works Association (Ed.), <i>Water quality &#38; treatment: a handbook on drinking water</i> (6th ed., p. 1.1-1.36). McGraw-Hill.</div>
   <div class="csl-entry">Saito, M., &#38; Miyazaki, K. (2006). Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the Geological Survey of Japan</i>, <i>57</i>(5/6), 169–176.</div>
@@ -179,7 +179,7 @@ Mou et al.<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayshi, S., &#38; Nakamura, T. (2005). <i>Electronic watermarking method and system</i> (No. US6915001).</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001). U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Walls, S. C., Barichivich, W. J., &#38; Brown, M. E. (2013). Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <i>Biology</i>, <i>2</i>(1), 399–418.</div>
-  <div class="csl-entry">Weinstein, L., &#38; Swertz, M. N. (1974). Pathogenic properties of invading microorganism. In W. A. Sodeman, Jr &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (pp. 745–772). Saunders.</div>
+  <div class="csl-entry">Weinstein, L., &#38; Swertz, M. N. (1974). Pathogenic properties of invading microorganism. In W. A. Sodeman Jr &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (pp. 745–772). Saunders.</div>
   <div class="csl-entry">World Health Organization. (1970). <i>Factors regulating the immune response: Report of WHO Scientific Group</i>. WHO.</div>
   <div class="csl-entry">Yufin, S. A. (Ed.). (2000). <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema.</div>
   <div class="csl-entry">[丁文详. (2000-11-20). 数字革命与竞争国际化. <i>中国青年报</i>, p15.]</div>
@@ -193,7 +193,7 @@ Mou et al.<br>
   <div class="csl-entry">[中国第一历史档案馆, 辽宁省档案馆. (2001). <i>中国明朝档案总汇</i>. 桂林: 广西师范大学出版社.]</div>
   <div class="csl-entry">[中国职工教育研究会 (编). (1985). <i>职工教育研究论文集</i>. 北京: 人民教育出版社.]</div>
   <div class="csl-entry">[中国造纸学会. (2003). <i>中国造纸年鉴: 2003</i>. 北京: 中国轻工业出版社.]</div>
-  <div class="csl-entry">[于潇, 刘义, 柴跃廷, others. (2012). 互联网药品可信交易环境中主体资质审核备案模式. <i>清华大学学报(自然科学版)</i>, <i>52</i>(11), 1518–1523.]</div>
+  <div class="csl-entry">[于潇, 刘义, 柴跃廷, 孙宏波. (2012). 互联网药品可信交易环境中主体资质审核备案模式. <i>清华大学学报(自然科学版)</i>, <i>52</i>(11), 1518–1523.]</div>
   <div class="csl-entry">[余建斌. (2013-01-12). 我们的科技一直在追赶: 访中国工程院院长周济. <i>人民日报</i>, p2.]</div>
   <div class="csl-entry">[侯文顺. (2010). <i>高分子物理: 高分子材料分析、选择与改性</i> (p. 119). 北京: 化学工业出版社.]</div>
   <div class="csl-entry">[傅刚, 赵承, 李佳路. (2000-01-12). 大风沙过后的思考. <i>北京青年报</i>.]</div>
@@ -202,14 +202,14 @@ Mou et al.<br>
   <div class="csl-entry">[全国广播电视标准化技术委员会. (2007). <i>广播电视音像资料编目规范: 第 2 部分 广播资料</i> (No. GY/T 202.2—2007; p. 1). 北京: 国家广播电影电视总局广播电视规划院.]</div>
   <div class="csl-entry">[刘乃安. (2000). <i>生物质材料热解失重动力学及其分析方法研究</i>. 中国科学技术大学, 合肥.]</div>
   <div class="csl-entry">[刘彻东. (1998). 中国的青年刊物: 个性特色为本仁. <i>中国出版</i>, <i>5</i>, 38–39.]</div>
-  <div class="csl-entry">[刘裕国, 杨柳, 张洋, others. (2013-01-12). 雾霾来袭, 如何突围? <i>人民日报</i>.]</div>
+  <div class="csl-entry">[刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. (2013-01-12). 雾霾来袭, 如何突围? <i>人民日报</i>.]</div>
   <div class="csl-entry">[北京市人民政府办公厅. (2005). <i>关于转发北京市企业投资项目核准暂行实施办法的通知</i> (No. 京政办发[2005]37号).]</div>
   <div class="csl-entry">[北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. (2012). <i>历代王朝与民族宗教</i> (p. 112). 北京: 民族出版社.]</div>
   <div class="csl-entry">[卷 39 乞致仕第一. (1988). 见 <i>苏魏公文集</i>(下册) (p. 590). 北京: 中华书局.]</div>
   <div class="csl-entry">[同济大学土木工程防灾国家重点实验室. (2011). <i>汶川地震灾害研究</i> (pp. 5–6). 上海: 同济大学出版社.]</div>
   <div class="csl-entry">[吴云芳. (2003). <i>面向中文信息处理的现代汉语并列结构研究</i>. 北京大学, 北京.]</div>
   <div class="csl-entry">[哈里森·沃尔德伦. (2012). <i>经济数学与金融数学</i> (谢远涛 译; pp. 235–236). 北京: 中国人民大学出版社.]</div>
-  <div class="csl-entry">[国家标准局信息分类编码研究所. (1988). 世界各国和地区名称代码: GB/T 2659—1986. 见 全国文献工作标准化委员会 (编), <i>文献工作国家标准汇编: 3</i> (pp. 59–92). 北京: 中国标准出版社.]</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. (1988). 世界各国和地区名称代码. In 全国文献工作标准化委员会 (Ed.), <i>文献工作国家标准汇编: 3</i> (No. GB/T 2659—1986; pp. 59–92). 中国标准出版社.</div>
   <div class="csl-entry">[国家环境保护局科技标准司. (1996). <i>土壤环境质量标准</i> (No. GB 15616—1995; pp. 2–3). 北京: 中国标准出版社.]</div>
   <div class="csl-entry">[宋史卷三: 本纪第三. (1977). 见 <i>宋史</i>(第 1 册) (p. 49). 北京: 中华书局.]</div>
   <div class="csl-entry">[尼葛洛庞帝. (1996). <i>数字化生存</i> (胡泳, 范海燕 译). 海口: 海南出版社.]</div>
@@ -248,7 +248,7 @@ Mou et al.<br>
   <div class="csl-entry">[胡承正, 周详, 缪灵. (2010). <i>理论物理概论</i> (p. 112). 武汉: 武汉大学出版社.]</div>
   <div class="csl-entry">[萧钰. (2001-12-19). <i>出版业信息化迈入快车道</i>.]</div>
   <div class="csl-entry">[蒋有绪, 郭泉水, 马娟, others. (1998). <i>中国森林群落分类及其群落特征</i>. 北京: 科学出版社.]</div>
-  <div class="csl-entry">[袁训来, 陈哲, 肖书海, others. (2012). 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. <i>科学通报</i>, <i>57</i>(34), 3219.]</div>
+  <div class="csl-entry">[袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, … 华洪. (2012). 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. <i>科学通报</i>, <i>57</i>(34), 3219.]</div>
   <div class="csl-entry">[裴丽生. (1981). 在中国科协学术期刊编辑工作经验交流会上的讲话. 见 中国科学技术协会 (编), <i>中国科协学术期刊编辑工作经验交流会资料选</i> (pp. 2–10). 北京: 中国科学技术协会学会工作部.]</div>
   <div class="csl-entry">[西安电子科技大学. (2002). <i>光折变自适应光外差探测方法</i> (No. 01128777.2). 中国.]</div>
   <div class="csl-entry">[贾东琴, 柯平. (2011). 面向数字素养的高校图书馆数字服务体系研究. 见 中国图书馆学会 (编), <i>中国图书馆学会年会论文集</i>(2011 年卷) (pp. 45–52). 北京: 国家图书馆出版社.]</div>

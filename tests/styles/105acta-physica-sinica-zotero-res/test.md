@@ -36,7 +36,7 @@ Undefined
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	Sunstein C R 1996 <i>Columbia Law Review</i> <b>96</b> 903</div>
+  <div class="csl-entry">[1]	Sunstein C R 1996 <i>Columbia Law Rev.</i> <b>96</b> 903</div>
   <div class="csl-entry">[2]	Morri I 2010 Why the west rules for now: the patterns of history, and what they reveal about the future (New York: Farrar, Straus and Giroux)</div>
   <div class="csl-entry">[3]	罗杰斯 潘惠霞, 魏婧, 杨艳, 汤玲 2011 西方文明史: 问题与源头 (大连: 东北财经大学出版社: 15–16)</div>
   <div class="csl-entry">[4]	陈登原 2000 国史旧闻 (北京: 中华书局: 29)</div>
@@ -58,7 +58,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功 2001 当代美国外交 (北京: 社会科学文献出版社)</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室 2011 汶川地震灾害研究 (上海: 同济大学出版社: 5–6)</div>
   <div class="csl-entry">[13]	中国造纸学会 2003 中国造纸年鉴: 2003 (北京: 中国轻工业出版社)</div>
-  <div class="csl-entry">[14]	Peebles P Z 2001 Probability, random variables, and random signal principles 4 版 (New York: McGraw-Hill)</div>
+  <div class="csl-entry">[14]	Peebles P Z Jr 2001 Probability, random variables, and random signal principles 4 版 (New York: McGraw-Hill)</div>
   <div class="csl-entry">[15]	Yufin S A 2000 Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering (Rotterdam: A. A. Balkema)</div>
   <div class="csl-entry">[16]	Baldock P 2011 Developing early childhood services: Past, present and future (Rotterdam: Open University Press: 105)</div>
   <div class="csl-entry">[17]	Fan X, Sommers C H 2013 Food irradiation research and technology 2 版 (Ames, Iowa: Blackwell Publishing: 25–26)</div>
@@ -72,7 +72,7 @@ Undefined
   <div class="csl-entry">[25]	中华医学会湖北分会. 1984, 1(1). 武汉: 中华医学会湖北分会</div>
   <div class="csl-entry">[26]	中国图书馆学会. 1957(1–4). 北京: 北京图书馆</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science</div>
-  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, others 2012 科学通报 <b>57</b> 3219</div>
+  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪 2012 科学通报 <b>57</b> 3219</div>
   <div class="csl-entry">[29]	余建斌 2013 人民日报 2013-01-12 2</div>
   <div class="csl-entry">[30]	李炳穆 2008 图书情报工作 <b>52</b> 6</div>
   <div class="csl-entry">[31]	李幼平, 王莉 2010 中华移植杂志(电子版) <b>4</b> 225</div>
@@ -89,7 +89,7 @@ Undefined
   <div class="csl-entry">[42]	Origins and concepts of digital literacy Bawden D <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> [2013-03-08]</div>
   <div class="csl-entry">[43]	About OCLC: History of cooperation Online Computer Library Center, Inc <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> [2012-03-27]</div>
   <div class="csl-entry">[44]	UNIMARC and metadata: Dublin core Hopkinson A <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> [2013-03-27]</div>
-  <div class="csl-entry">[45]	1981 <i>Br Med J</i> <b>283</b> 628</div>
+  <div class="csl-entry">[45]	1981 <i>Br. Med. J.</i> <b>283</b> 628</div>
   <div class="csl-entry">[46]	刘乃安 2000 (合肥: 中国科学技术大学: 17–18)</div>
   <div class="csl-entry">[47]	Deverell W, Igler D 2013 Doctoral dissertation学位论文 (New York: John Wiley &#38; Sons: 21–22)</div>
   <div class="csl-entry">[48]	Baker S K, Jackson M E 1995 The future of resource sharing (New York: The Haworth Press)</div>
@@ -98,12 +98,12 @@ Undefined
   <div class="csl-entry">[51]	汪冰 1997 电子图书馆理论与实践研究 (北京: 北京图书馆出版社: 16)</div>
   <div class="csl-entry">[52]	杨宗英 1996 中国图书馆学报 24</div>
   <div class="csl-entry">[53]	Dowler L 1995 <i>Journal of Library Administration</i> <b>21</b> 5</div>
-  <div class="csl-entry">[54]	Sunstein C R 1996 <i>Columbia Law Review</i> <b>96</b> 903</div>
+  <div class="csl-entry">[54]	Sunstein C R 1996 <i>Columbia Law Rev.</i> <b>96</b> 903</div>
   <div class="csl-entry">[55]	Morri I 2010 Why the west rules for now: the patterns of history, and what they reveal about the future (New York: Farrar, Straus and Giroux)</div>
   <div class="csl-entry">[56]	罗杰斯 潘惠霞, 魏婧, 杨艳, 汤玲 2011 西方文明史: 问题与源头 (大连: 东北财经大学出版社: 15–16)</div>
   <div class="csl-entry">[57]	陈登原 2000 国史旧闻 (北京: 中华书局: 29)</div>
   <div class="csl-entry">[58]	Crane D 1972 Invisible college (Chicago: Univ. of Chicago Press)</div>
-  <div class="csl-entry">[59]	Stieg M F 1981 <i>College &#38; Research Libraries</i> <b>42</b> 549</div>
+  <div class="csl-entry">[59]	Stieg M F 1981 <i>Coll. Res. Libr.</i> <b>42</b> 549</div>
   <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一 2010 山西师范大学学报(社会科学版) <b>37</b> 147</div>
   <div class="csl-entry">[61]	王临惠 2010 汉语方言的地理语言学研究 北京 , 2010 pp138</div>
   <div class="csl-entry">[62]	Kennedy W J, Garrison R E 1975 <i>Sedimentology</i> <b>22</b> 311</div>
@@ -132,7 +132,7 @@ Undefined
   <div class="csl-entry">[85]	中国社会科学院台湾史研究中心 2012 台湾光复六十五周年暨抗战史实学术研讨会论文集 (北京: 九州出版社)</div>
   <div class="csl-entry">[86]	雷光春 2012 综合湿地管理: 综合湿地管理国际研讨会论文集 (北京: 海洋出版社)</div>
   <div class="csl-entry">[87]	陈志勇 2011 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集 (北京: 经济科学出版社)</div>
-  <div class="csl-entry">[88]	Babu B V, Nagar A K, Deep K, others 2014 Proceedings of the Second International Conference on Soft Computing for Problem Solving (New Delhi: Springer)</div>
+  <div class="csl-entry">[88]	Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U 2014 Proceedings of the Second International Conference on Soft Computing for Problem Solving (New Delhi: Springer)</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室 2013 国防白皮书: 中国武装力量的多样化运用 ((2013-04-16))</div>
   <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, others 2013 人体安全重要技术标准研制最终报告 ((2013-09-30))</div>
   <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M 2011 A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report (8–9)</div>
@@ -140,10 +140,10 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization 1970 Factors regulating the immune response: Report of WHO Scientific Group (Geneva: WHO)</div>
   <div class="csl-entry">[94]	马欢 2011 (北京: 清华大学: 27)</div>
   <div class="csl-entry">[95]	吴云芳 2003 (北京: 北京大学)</div>
-  <div class="csl-entry">[96]	Calms R B 1965 (Berkeley: Univ. of California)</div>
+  <div class="csl-entry">[96]	Cairns B R 1965 (Berkeley: Univ. of California)</div>
   <div class="csl-entry">[97]	 [张凯军 2012 201220158825.2]</div>
   <div class="csl-entry">[98]	 [河北绿洲生态环境科技有限公司 2001 01129210.5]</div>
-  <div class="csl-entry">[99]	 [Koseki A, Momose H, Kawahito M, others 2002 US828402]</div>
+  <div class="csl-entry">[99]	 [Koseki A, Momose H, Kawahito M, Komatsu H 2002 US828402]</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会 2010 文献著录: 第 4 部分 非书资料 (北京: 中国标准出版社: 3)</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会 2007 广播电视音像资料编目规范: 第 2 部分 广播资料 (北京: 国家广播电影电视总局广播电视规划院: 1)</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司 1996 土壤环境质量标准 (北京: 中国标准出版社: 2–3)</div>
@@ -158,17 +158,17 @@ Undefined
   <div class="csl-entry">[111]	Fourney M E c1971 Symposium on Applications of Holography in Mechanics University of Southern California, Los Angeles, California , c1971 pp17–38</div>
   <div class="csl-entry">[112]	杨洪升 2013 文献 56</div>
   <div class="csl-entry">[113]	李炳穆 2008 图书情报工作 <b>52</b> 6</div>
-  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, others 2012 清华大学学报(自然科学版) <b>52</b> 1518</div>
+  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波 2012 清华大学学报(自然科学版) <b>52</b> 1518</div>
   <div class="csl-entry">[115]	陈建军 2010 国土资源导刊 <b>7</b> 93</div>
   <div class="csl-entry">[116]	Des Marais D J, Strauss H, Summons R E, Hayes J M 1992 <i>Nature</i> <b>359</b> 605</div>
   <div class="csl-entry">[117]	Saito M, Miyazaki K 2006 <i>Bulletin of the geological survey of Japan</i> <b>57</b> 169</div>
   <div class="csl-entry">[118]	Walls S C, Barichivich W J, Brown M E 2013 <i>Biology</i> <b>2</b> 399</div>
-  <div class="csl-entry">[119]	Franz A K, Danielewicz M A, Wong D M, Anderson L A, Boothe J R 2013 <i>ACS Chemical Biology</i> <b>8</b> 1053</div>
+  <div class="csl-entry">[119]	Franz A K, Danielewicz M A, Wong D M, Anderson L A, Boothe J R 2013 <i>ACS Chem. Biol.</i> <b>8</b> 1053</div>
   <div class="csl-entry">[120]	Park J R, Tosaka Y 2010 <i>Cataloging &#38; Classification Quarterly</i> <b>48</b> 696</div>
   <div class="csl-entry">[121]	丁文详 2000 中国青年报 2000-11-20 15</div>
   <div class="csl-entry">[122]	张田勤 2000 大众科技报 2000-11-12 7</div>
   <div class="csl-entry">[123]	傅刚, 赵承, 李佳路 2000 北京青年报 2000-01-12</div>
-  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, others 2013 人民日报 2013-01-12</div>
+  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文 2013 人民日报 2013-01-12</div>
   <div class="csl-entry">[125]	出版业信息化迈入快车道 萧钰 <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a> [2002-04-15]</div>
   <div class="csl-entry">[126]	化解医患矛盾需釜底抽薪 李强 <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a> [2013-03-25]</div>
   <div class="csl-entry">[127]	Pennsylvania library laws Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a> [2013-03-24]</div>

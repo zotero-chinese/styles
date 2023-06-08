@@ -58,7 +58,7 @@ Undefined
   <div class="csl-entry">赵学功	</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室	</div>
   <div class="csl-entry">中国造纸学会	</div>
-  <div class="csl-entry">Peebles Peyton Z	</div>
+  <div class="csl-entry">Peebles Peyton Z Jr	</div>
   <div class="csl-entry">佚名	</div>
   <div class="csl-entry">Baldock Peter	</div>
   <div class="csl-entry">Fan Xuetong, Sommers Christopher H	</div>
@@ -72,7 +72,7 @@ Undefined
   <div class="csl-entry">中华医学会湖北分会	</div>
   <div class="csl-entry">中国图书馆学会	</div>
   <div class="csl-entry">American Association for the Advancement of Science	</div>
-  <div class="csl-entry">袁训来, 陈哲, 肖书海, others	</div>
+  <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪	</div>
   <div class="csl-entry">余建斌	</div>
   <div class="csl-entry">李炳穆	</div>
   <div class="csl-entry">李幼平, 王莉	</div>
@@ -140,10 +140,10 @@ Undefined
   <div class="csl-entry">World Health Organization	</div>
   <div class="csl-entry">马欢	</div>
   <div class="csl-entry">吴云芳	</div>
-  <div class="csl-entry">Calms R B	</div>
+  <div class="csl-entry">Cairns Bruce Richard	</div>
   <div class="csl-entry">张凯军	</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司	</div>
-  <div class="csl-entry">Koseki A, Momose H, Kawahito M, others	</div>
+  <div class="csl-entry">Koseki Akira, Momose Hiroyuki, Kawahito Motohiro, Komatsu Hideaki	</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会	</div>
   <div class="csl-entry">全国广播电视标准化技术委员会	</div>
   <div class="csl-entry">国家环境保护局科技标准司	</div>
@@ -158,7 +158,7 @@ Undefined
   <div class="csl-entry">Fourney M E	</div>
   <div class="csl-entry">杨洪升	</div>
   <div class="csl-entry">李炳穆	</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, others	</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波	</div>
   <div class="csl-entry">陈建军	</div>
   <div class="csl-entry">Des Marais David J, Strauss Harald, Summons Roger E, Hayes J M	</div>
   <div class="csl-entry">Saito M, Miyazaki K	</div>
@@ -168,7 +168,7 @@ Undefined
   <div class="csl-entry">丁文详	</div>
   <div class="csl-entry">张田勤	</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路	</div>
-  <div class="csl-entry">刘裕国, 杨柳, 张洋, others	</div>
+  <div class="csl-entry">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文	</div>
   <div class="csl-entry">萧钰	</div>
   <div class="csl-entry">李强	</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office	</div>

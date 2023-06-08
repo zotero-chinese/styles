@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功. 当代美国外交. 北京: 社会科学文献出版社, 2001</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究. 上海: 同济大学出版社, 2011: 5-6</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003. 北京: 中国轻工业出版社, 2003</div>
-  <div class="csl-entry">[14]	P. Z. Peebles. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001</div>
+  <div class="csl-entry">[14]	P. Z. Peebles Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001</div>
   <div class="csl-entry">[15]	S. A. Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1–4 Feb. 2000. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">[16]	P. Baldock. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105</div>
   <div class="csl-entry">[17]	X. Fan, C. H. Sommers. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
@@ -150,7 +150,7 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析: [博士学位论文]. 北京: 清华大学, 2011: 27</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究: [博士学位论文]. 北京: 北京大学, 2003</div>
-  <div class="csl-entry">[96]	R. B. Calms. Infrared spectroscopic studies on solid oxygen: [博士学位论文]. Berkeley: Univ. of California, 1965</div>
+  <div class="csl-entry">[96]	B. R. Cairns. Infrared spectroscopic studies on solid oxygen: [博士学位论文]. Berkeley: Univ. of California, 1965</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置. 中国, 201220158825.2, 2012</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法. 中国, 01129210.5, 2001</div>
   <div class="csl-entry">[99]	A. Koseki, H. Momose, M. Kawahito, et al. Compiler. US, US828402, 2002</div>
@@ -161,7 +161,7 @@ Undefined
   <div class="csl-entry">[104]	卷 39 乞致仕第一. 见: 苏魏公文集: 下册. 北京: 中华书局, 1988: 590</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究. 见: 植物科学进展. 北京: 高等教育出版社, 1998: 146-163</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理. 见: 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 中国环境科学出版社, 2002: 22-25</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 见: 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. In: 文献工作国家标准汇编: 3, 北京: 中国标准出版社, 1988: 59-92</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三. 见: 宋史: 第 1 册. 北京: 中华书局, 1977: 49</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012</div>
   <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord, D. R. Veblen. Subsolidus phenomena in pyroxenes. In: Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>

@@ -144,8 +144,8 @@ Undefined
   <div class="csl-entry">[89]	Baldock P. Developing early childhood services: Past, present and Future[M]. Rotterdam: Open University Press, 2011.</div>
   <div class="csl-entry">[90]	Bawden D. Origins and concepts of digital Literacy[EB/OL](2008-05-04).</div>
   <div class="csl-entry">[91]	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in Pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">[92]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: The 2010 cohesive strategy science Report: RMRS-GTR-262[R]. 2011.</div>
-  <div class="csl-entry">[93]	Calms R B. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[92]	Cairns B R. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[93]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: The 2010 cohesive strategy science Report: RMRS-GTR-262[R]. 2011.</div>
   <div class="csl-entry">[94]	Caplan P. Cataloging internet Resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">[95]	Chernik B E. Introduction to library services for library Technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">[96]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library Laws[EB/OL]([no date]).</div>
@@ -170,7 +170,7 @@ Undefined
   <div class="csl-entry">[115]	O’Brien J A. Introduction to information Systems[M]. 7. Burr Ridge, III: Irwin, 1994.</div>
   <div class="csl-entry">[116]	Online Computer Library Center, Inc. About OCLC: History of Cooperation[EB/OL]([no date]).</div>
   <div class="csl-entry">[117]	Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and Mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">[118]	Peebles P Z. Probability, random variables, and random signal Principles[M]. 4. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[118]	Peebles P Z Jr. Probability, random variables, and random signal Principles[M]. 4. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[119]	Praetzellis A. Death by theory: A tale of mystery and archaeological Theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
   <div class="csl-entry">[120]	Roberson J A, Burneson E G. Drinking water standards, regulations and Goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[121]	Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>

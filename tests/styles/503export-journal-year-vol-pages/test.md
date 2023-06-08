@@ -67,7 +67,7 @@ Undefined
   <div class="csl-entry">. 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114	</div>
   <div class="csl-entry">. 马克思, 恩格斯, 编//马克思恩格斯全集. 北京: 人民出版社, 2013: 302	</div>
   <div class="csl-entry">. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52	</div>
-  <div class="csl-entry">. Sodeman, Jr W A, Sodeman W A, 编//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772	</div>
+  <div class="csl-entry">. Sodeman W A Jr, Sodeman W A, 编//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772	</div>
   <div class="csl-entry">. American Water Works Association, 编//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36	</div>
   <div class="csl-entry">. 武汉: 中华医学会湖北分会, 1984(1984)	</div>
   <div class="csl-entry">. 北京: 北京图书馆, 1957(1957)	</div>

@@ -67,7 +67,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003.</div>
-  <div class="csl-entry">[14]	PEEBLES P Z. Probability, random variables, and random signal principles[M](4th ed.). New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14]	PEEBLES P Z Jr. Probability, random variables, and random signal principles[M](4th ed.). New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15]	YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	BALDOCK P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[17]	FAN X, SOMMERS C H. Food irradiation research and technology[M](2nd ed.). Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
@@ -76,7 +76,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[A]. 见: 中国地质科学院天津地质矿产研究所主编. 中国震旦亚界[M]. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[A]. 见: 马克思, 恩格斯主编. 马克思恩格斯全集: 第 35 卷[M]. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 见: 中国图书馆学会主编. 中国图书馆学会年会论文集: 2011 年卷[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[A]. In: SODEMAN, JR W A, SODEMAN W A eds. Pathologic physiology: mechanisms of disease[M]. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[A]. In: SODEMAN W A Jr, SODEMAN W A eds. Pathologic physiology: mechanisms of disease[M]. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[A](6th ed.). In: American Water Works Association ed. Water quality &#38; treatment: a handbook on drinking water[M]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
@@ -149,7 +149,7 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 中国专利: 201220158825.2, 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法[P]. 中国专利: 01129210.5, 2001-10-24.</div>
   <div class="csl-entry">[99]	KOSEKI A, MOMOSE H, KAWAHITO M, et al. Compiler[P]. US patent: US828402, 2002-05-25.</div>
@@ -160,7 +160,7 @@ Undefined
   <div class="csl-entry">[104]	卷 39 乞致仕第一[A]. 见: 苏魏公文集: 下册[M]. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[A]. 见: 李承森主编. 植物科学进展[M]. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[A]. 见: 国家环境保护总局生物安全管理办公室主编. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2002: 22-25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 见: 全国文献工作标准化委员会主编. 文献工作国家标准汇编: 3[M]. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986 世界各国和地区名称代码: GB/T 2659—1986[S]. In: 全国文献工作标准化委员会 ed. 文献工作国家标准汇编: 3[M]. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[A]. 见: 宋史: 第 1 册[M]. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[A]. 见: 同济大学土木工程防灾国家重点实验室主编. 汶川地震震害研究[M]. 上海: 同济大学出版社, 2011: 011-012.</div>
   <div class="csl-entry">[110]	BUSECK P R, NORD G L, VEBLEN D R. Subsolidus phenomena in pyroxenes[A]. In: Pyroxense[M]. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>

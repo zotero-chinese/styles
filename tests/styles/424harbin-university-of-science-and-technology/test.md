@@ -58,7 +58,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003.</div>
-  <div class="csl-entry">[14]	Peebles P Z. Probability, Random Variables, and Random Signal Principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14]	Peebles P Z Jr. Probability, Random Variables, and Random Signal Principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15]	Yufin S A. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 2000年2月1—4日[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Baldock P. Developing Early Childhood Services: Past, Present and Future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[17]	Fan X, Sommers C H. Food Irradiation Research and Technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
@@ -67,7 +67,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	Weinstein L, Swertz M N. Pathogenic Properties of Invading Microorganism[M]//Sodeman, Jr W A, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	Weinstein L, Swertz M N. Pathogenic Properties of Invading Microorganism[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	Roberson J A, Burneson E G. Drinking Water Standards, Regulations and Goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
@@ -140,7 +140,7 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. Factors Regulating the Immune Response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	Calms R B. Infrared Spectroscopic Studies on Solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns B R. Infrared Spectroscopic Studies on Solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 中国, 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国, 01129210.5[P]. 2001-10-24 [2002-05-28].</div>
   <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US, US828402[P]. 2002-05-25 [2002-05-28].</div>

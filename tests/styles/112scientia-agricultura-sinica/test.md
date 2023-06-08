@@ -103,7 +103,7 @@ Undefined
 
     <div class="csl-block">中国造纸学会. 中国造纸年鉴: 2003. 北京: 中国轻工业出版社, 2003. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[14]	Peebles P Z. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14]	Peebles P Z Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15]	Yufin S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Baldock P. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[17]	Fan X, Sommers C H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
@@ -127,7 +127,7 @@ Undefined
 
     <div class="csl-block">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[23]	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism//SODEMAN, JR W A, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	Roberson J A, Burneson E G. Drinking water standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984. 
 
@@ -138,9 +138,9 @@ Undefined
     <div class="csl-block">中国图书馆学会. 图书馆学通讯. 1957(1-4). 北京: 北京图书馆, 1957. (in Chinese)</div>
 </div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, others. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 2012, 57(34): 3219. 
+  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 2012, 57(34): 3219. 
 
-    <div class="csl-block">袁训来, 陈哲, 肖书海, others. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 2012, 57(34): 3219. (in Chinese)</div>
+    <div class="csl-block">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 2012, 57(34): 3219. (in Chinese)</div>
 </div>
   <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2013-01-12(2). 
 
@@ -306,7 +306,7 @@ Undefined
 
     <div class="csl-block">中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社, 2011. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[88]	Babu B V, Nagar A K, Deep K, others. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">[88]	Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. (2013-04-16). 
 
     <div class="csl-block">中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. (2013-04-16). (in Chinese)</div>
@@ -326,7 +326,7 @@ Undefined
 
     <div class="csl-block">吴云芳. 面向中文信息处理的现代汉语并列结构研究. 北京: 北京大学, 2003. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[96]	Calms R B. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns B R. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2. 2012-04-05. 
 
     <div class="csl-block">张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2. 2012-04-05. (in Chinese)</div>
@@ -335,7 +335,7 @@ Undefined
 
     <div class="csl-block">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5. 2001-10-24. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, others. Compiler: US828402. 2002-05-25.</div>
+  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, Komatsu H. Compiler: US828402. 2002-05-25.</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009. 北京: 中国标准出版社, 2010: 3. 
 
     <div class="csl-block">全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009. 北京: 中国标准出版社, 2010: 3. (in Chinese)</div>
@@ -361,10 +361,7 @@ Undefined
 
     <div class="csl-block">汪学军. 中国农业转基因生物研究进展与安全管理//国家环境保护总局生物安全管理办公室. 北京: 中国环境科学出版社, 2002: 22-25. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92. 
-
-    <div class="csl-block">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 北京: 中国标准出版社, 1988: 59-92. (in Chinese)</div>
-</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三//宋史: 第 1 册. 北京: 中华书局, 1977: 49. 
 
     <div class="csl-block">宋史卷三: 本纪第三//第 1 册. 北京: 中华书局, 1977: 49. (in Chinese)</div>
@@ -383,9 +380,9 @@ Undefined
 
     <div class="csl-block">李炳穆. 韩国图书馆法. 图书情报工作, 2008, 52(6): 6-21. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, others. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523. 
+  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523. 
 
-    <div class="csl-block">于潇, 刘义, 柴跃廷, others. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523. (in Chinese)</div>
+    <div class="csl-block">于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523. (in Chinese)</div>
 </div>
   <div class="csl-entry">[115]	陈建军. 从数字地球到智慧地球. 国土资源导刊, 2010, 7(10): 93. 
 
@@ -408,9 +405,9 @@ Undefined
 
     <div class="csl-block">傅刚, 赵承, 李佳路. 大风沙过后的思考. 北京青年报, 2000-01-12. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, others. 雾霾来袭, 如何突围? 人民日报, 2013-01-12. 
+  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 雾霾来袭, 如何突围? 人民日报, 2013-01-12. 
 
-    <div class="csl-block">刘裕国, 杨柳, 张洋, others. 雾霾来袭, 如何突围? 人民日报, 2013-01-12. (in Chinese)</div>
+    <div class="csl-block">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 雾霾来袭, 如何突围? 人民日报, 2013-01-12. (in Chinese)</div>
 </div>
   <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道. (2001-12-19). 
 

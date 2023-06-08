@@ -65,7 +65,7 @@ Undefined
   <div class="csl-entry">丁文详. 2000. 数字革命与竞争国际化. 中国青年报, 15.</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 2000. 大风沙过后的思考. 北京青年报[2005–09–28].</div>
   <div class="csl-entry">顾炎武. 1992. 昌平山水记: 京东考古录. 北京: 北京古籍出版社.</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59～92.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59～92.</div>
   <div class="csl-entry">国家环境保护局科技标准司. 1996. 土壤环境质量标准: GB 15616—1995. 北京: 中国标准出版社: 2～3[2013–10–14].</div>
   <div class="csl-entry">哈里森·沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社: 235～236.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5. 2001–10–24[2002–05–28].</div>
@@ -80,7 +80,7 @@ Undefined
   <div class="csl-entry">李幼平, 王莉. 2010. 循证医学研究方法: 附视频. 中华移植杂志(电子版), 3: 225～228[2014–06–09].</div>
   <div class="csl-entry">刘彻东. 1998. 中国的青年刊物: 个性特色为本仁. 中国出版, 5: 38～39.</div>
   <div class="csl-entry">刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究. 合肥: 中国科学技术大学: 17～18[2014–08–29].</div>
-  <div class="csl-entry">刘裕国, 杨柳, 张洋, others. 2013. 雾霾来袭, 如何突围? 人民日报[2013–11–06].</div>
+  <div class="csl-entry">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 2013. 雾霾来袭, 如何突围? 人民日报[2013–11–06].</div>
   <div class="csl-entry">楼梦鳞, 杨燕. 2011. 汶川地震基岩地震动特征分析. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社: 011～012[2013–05–09].</div>
   <div class="csl-entry">罗杰斯. 2011. 西方文明史: 问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社: 15～16.</div>
   <div class="csl-entry">罗斯基. 2009. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社.</div>
@@ -122,10 +122,10 @@ Undefined
   <div class="csl-entry">佚名. 2012b. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社.</div>
   <div class="csl-entry">佚名. 2012c. 综合湿地管理: 综合湿地管理国际研讨会论文集. 雷光春, 编. 北京: 海洋出版社.</div>
   <div class="csl-entry">Anonymous. 2012. Dublin core metadata element set: Version 1.1(2012–06–14)[2014–06–11].</div>
-  <div class="csl-entry">Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu, B. V., A. K. Nagar, K. Deep, others, eds.. New Delhi: Springer.</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, others. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 11: 1518～1523.</div>
+  <div class="csl-entry">Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, U. Gupta, eds.. New Delhi: Springer.</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 11: 1518～1523.</div>
   <div class="csl-entry">余建斌. 2013. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2[2013–03–20].</div>
-  <div class="csl-entry">袁训来, 陈哲, 肖书海, others. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 34: 3219.</div>
+  <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 34: 3219.</div>
   <div class="csl-entry">张忠智. 1997. 科技书刊的总编(主编)的角色要求. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会: 33～34.</div>
   <div class="csl-entry">张田勤. 2000. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7.</div>
   <div class="csl-entry">张伯伟. 2002. 全唐五代诗格汇考. 南京: 江苏古籍出版社: 288.</div>
@@ -144,8 +144,8 @@ Undefined
   <div class="csl-entry">Baldock, P. 2011. Developing early childhood services: Past, present and Future. Rotterdam: Open University Press: 105[2012–11–27].</div>
   <div class="csl-entry">Bawden, D. 2008. Origins and concepts of digital Literacy(2008–05–04)[2013–03–08].</div>
   <div class="csl-entry">Buseck, P. R., G. L. Nord, D. R. Veblen. c1980. Subsolidus phenomena in Pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117～211.</div>
+  <div class="csl-entry">Cairns, B. R. 1965. Infrared spectroscopic studies on solid Oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Calkin, D., A. Ager, M. Thompson. 2011. A comparative risk assessment framework for wildland fire management: The 2010 cohesive strategy science Report: RMRS-GTR-262. .</div>
-  <div class="csl-entry">Calms, R. B. 1965. Infrared spectroscopic studies on solid Oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Caplan, P. 1993. Cataloging internet Resources. The Public-Access Computer Systems Review, 4(2): 61～66.</div>
   <div class="csl-entry">Chernik, B. E. 1982. Introduction to library services for library Technicians. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. [no date]. Pennsylvania library Laws([no date])[2013–03–24].</div>
@@ -164,13 +164,13 @@ Undefined
   <div class="csl-entry">Kennedy, W. J., R. E. Garrison. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 22: 311.</div>
   <div class="csl-entry">Kennedy, W. J., R. E. Garrison. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of South-east England. Lethaia, 8(4): 339～360.</div>
   <div class="csl-entry">Kinchy, A. 2012. Seeds, sciences, and struggle: The global politics of transgenic Crops. Cambridge, Mass.: MIT Press: 50[2013–07–14].</div>
-  <div class="csl-entry">Koseki, A., H. Momose, M. Kawahito, others. 2002. Compiler: US828402. 2002–05–25[2002–05–28].</div>
+  <div class="csl-entry">Koseki, A., H. Momose, M. Kawahito, H. Komatsu. 2002. Compiler: US828402. 2002–05–25[2002–05–28].</div>
   <div class="csl-entry">Morri, I. 2010. Why the west rules for now: The patterns of history, and what they reveal about the Future. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, J. Schmutz. 2014. The genome of eucalyptus Grandis. Nature, 510: 356～362[2014–06–25].</div>
   <div class="csl-entry">O’Brien, J. A. 1994. Introduction to information Systems. 7 edition. Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. [no date]. About OCLC: History of Cooperation([no date])[2012–03–27].</div>
   <div class="csl-entry">Park, J.-R., Y. Tosaka. 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and Mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696～715[2013–09–05].</div>
-  <div class="csl-entry">Peebles, P. Z. 2001. Probability, random variables, and random signal Principles. 4 edition. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, P. Z., Jr. 2001. Probability, random variables, and random signal Principles. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. 2011. Death by theory: A tale of mystery and archaeological Theory. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012–07–26].</div>
   <div class="csl-entry">Roberson, J. A., E. G. Burneson. 2011. Drinking water standards, regulations and Goals. American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill: 1.1-1.36[2012–12–10].</div>
   <div class="csl-entry">Saito, M., K. Miyazaki. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the geological survey of Japan, 57(5/6): 169～176.</div>
@@ -179,6 +179,6 @@ Undefined
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayshi, T. Nakamura. 2005. Electronic watermarking method and System: US6915001. 2005–07–05[2013–11–11].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated Acid-producing Material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Walls, S. C., W. J. Barichivich, M. E. Brown. 2013. Drought, deluge and declines: The impact of precipitation extremes on amphibians in a changing Climate. Biology, 2(1): 399～418[2013–11–04].</div>
-  <div class="csl-entry">Weinstein, L., M. N. Swertz. 1974. Pathogenic properties of invading Microorganism. Sodeman, Jr, W. A., W. A. Sodeman, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders: 745～772.</div>
+  <div class="csl-entry">Weinstein, L., M. N. Swertz. 1974. Pathogenic properties of invading Microorganism. Sodeman, W. A., Jr, W. A. Sodeman, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders: 745～772.</div>
   <div class="csl-entry">World Health Organization. 1970. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO.</div>
 </div>

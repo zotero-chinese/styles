@@ -46,7 +46,7 @@ Undefined
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	Sunstein CR. Social norms and social roles [J]. <i>Columbia Law Review</i>, 1996, 96: 903.</div>
+  <div class="csl-entry">[1]	Sunstein CR. Social norms and social roles [J]. <i>Columbia Law Rev</i>, 1996, 96: 903.</div>
   <div class="csl-entry">[2]	Morri I. <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i> [M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[3]	罗杰斯. 西方文明史: 问题与源头 [M]. 潘惠霞, 魏婧, 杨艳, et al., trans. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">[4]	陈登原. 国史旧闻: 第 1 卷 [M]. 北京: 中华书局, 2000: 29.</div>
@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功. 当代美国外交 [M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究 [M]. 上海: 同济大学出版社, 2011: 5-6.</div>
   <div class="csl-entry">[13]	中国造纸学会. <i>中国造纸年鉴: 2003</i> [M]. 北京: 中国轻工业出版社, 2003.</div>
-  <div class="csl-entry">[14]	Peebles PZ. <i>Probability, random variables, and random signal principles</i> [M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14]	Peebles PZ Jr. <i>Probability, random variables, and random signal principles</i> [M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15]	Yufin SA. <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i> [M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Baldock P. <i>Developing early childhood services: Past, present and future</i> [M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[17]	Fan X, Sommers CH. <i>Food irradiation research and technology</i> [M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
@@ -77,7 +77,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, <i>et al.</i> 蓟县震旦亚界研究 [M]. 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判 [M]. 马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究 [C]. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	Weinstein L, Swertz MN. Pathogenic properties of invading microorganism [M]. Sodeman, Jr WA, Sodeman WA. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	Weinstein L, Swertz MN. Pathogenic properties of invading microorganism [M]. Sodeman WA Jr, Sodeman WA. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	Roberson JA, Burneson EG. Drinking water standards, regulations and goals [M]. American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志 [J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯 [J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
@@ -108,12 +108,12 @@ Undefined
   <div class="csl-entry">[51]	汪冰. 电子图书馆理论与实践研究 [M]. 北京: 北京图书馆出版社, 1997: 16.</div>
   <div class="csl-entry">[52]	杨宗英. 电子图书馆的现实模型 [J]. 中国图书馆学报, 1996(2): 24-29.</div>
   <div class="csl-entry">[53]	Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment [J]. <i>Journal of Library Administration</i>, 1995, 21(1/2): 5-26.</div>
-  <div class="csl-entry">[54]	Sunstein CR. Social norms and social roles [J]. <i>Columbia Law Review</i>, 1996, 96: 903.</div>
+  <div class="csl-entry">[54]	Sunstein CR. Social norms and social roles [J]. <i>Columbia Law Rev</i>, 1996, 96: 903.</div>
   <div class="csl-entry">[55]	Morri I. <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i> [M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头 [M]. 潘惠霞, 魏婧, 杨艳, et al., trans. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">[57]	陈登原. 国史旧闻: 第 1 卷 [M]. 北京: 中华书局, 2000: 29.</div>
   <div class="csl-entry">[58]	Crane D. <i>Invisible college</i> [M]. Chicago: Univ. of Chicago Press, 1972.</div>
-  <div class="csl-entry">[59]	Stieg MF. The information needs of historians [J]. <i>College &#38; Research Libraries</i>, 1981, 42(6): 549-560.</div>
+  <div class="csl-entry">[59]	Stieg MF. The information needs of historians [J]. <i>Coll Res Libr</i>, 1981, 42(6): 549-560.</div>
   <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议 [J]. 山西师范大学学报(社会科学版), 2010, 37(4): 147.</div>
   <div class="csl-entry">[61]	王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件 [C]. 曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
   <div class="csl-entry">[62]	Kennedy WJ, Garrison RE. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England [J]. <i>Sedimentology</i>, 1975, 22: 311.</div>
@@ -150,7 +150,7 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. <i>Factors regulating the immune response: Report of WHO Scientific Group</i> [R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析 [D]. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究 [D]. 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	Calms RB. Infrared spectroscopic studies on solid oxygen [D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns BR. Infrared spectroscopic studies on solid oxygen [D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: <i>中国</i>, 201220158825.2 [P]. 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: <i>中国</i>, 01129210.5 [P]. 2001-10-24 [2002-05-28].</div>
   <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, <i>et al.</i> Compiler: <i>US</i>, US828402 [P]. 2002-05-25 [2002-05-28].</div>
@@ -161,7 +161,7 @@ Undefined
   <div class="csl-entry">[104]	卷 39 乞致仕第一 [M]. 苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究 [M]. 李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理 [C]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. <i>世界各国和地区名称代码: GB/T 2659—1986</i> [S]. 全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986 世界各国和地区名称代码 [S]. 全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三 [M]. 宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析 [M]. 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
   <div class="csl-entry">[110]	Buseck PR, Nord GL, Veblen DR. Subsolidus phenomena in pyroxenes [M]. Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
@@ -173,7 +173,7 @@ Undefined
   <div class="csl-entry">[116]	Des Marais DJ, Strauss H, Summons RE, <i>et al.</i> Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment [J]. <i>Nature</i>, 1992, 359(6396): 605-609.</div>
   <div class="csl-entry">[117]	Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu [J]. <i>Bulletin of the geological survey of Japan</i>, 2006, 57(5/6): 169-176.</div>
   <div class="csl-entry">[118]	Walls SC, Barichivich WJ, Brown ME. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate [J]. <i>Biology</i>, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">[119]	Franz AK, Danielewicz MA, Wong DM, <i>et al.</i> Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity [J]. <i>ACS Chemical Biology</i>, 2013, 8: 1053-1062.</div>
+  <div class="csl-entry">[119]	Franz AK, Danielewicz MA, Wong DM, <i>et al.</i> Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity [J]. <i>ACS Chem Biol</i>, 2013, 8: 1053-1062.</div>
   <div class="csl-entry">[120]	Park JR, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms [J]. <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8): 696-715.</div>
   <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化 [N]. 中国青年报, 2000-11-20 (15).</div>
   <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划 [N]. 大众科技报, 2000-11-12 (7).</div>

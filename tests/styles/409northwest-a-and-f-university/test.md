@@ -85,7 +85,7 @@ Undefined
   <div class="csl-entry">丁文详. 2000. 数字革命与竞争国际化. 中国青年报, : 15</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 2000. 大风沙过后的思考. 北京青年报</div>
   <div class="csl-entry">顾炎武. 1992. 昌平山水记: 京东考古录. 北京: 北京古籍出版社</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, 编//In:文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59-92</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, ed.//In:文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59~92</div>
   <div class="csl-entry">国家环境保护局科技标准司. 1996. 土壤环境质量标准: GB 15616—1995. 北京: 中国标准出版社: 2-3</div>
   <div class="csl-entry">哈里森·沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社: 235-236</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 2001-10-24. 一种荒漠化地区生态植被综合培育种植方法.中国专利, 01129210.5</div>
@@ -164,8 +164,8 @@ Undefined
   <div class="csl-entry">Baldock P. 2011. Developing early childhood services: Past, present and Future. Rotterdam: Open University Press: 105</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital Literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>[2013–03–08]</div>
   <div class="csl-entry">Buseck P R, Nord G L, Veblen D R. c1980. Subsolidus phenomena in Pyroxenes//In:Pyroxense. Washington, D.C.: Mineralogical Society of America: 117~211</div>
+  <div class="csl-entry">Cairns B R. 1965. Infrared spectroscopic studies on solid Oxygen. Berkeley: Univ. of California</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M. 2011. A comparative risk assessment framework for wildland fire management: The 2010 cohesive strategy science Report: RMRS-GTR-262. </div>
-  <div class="csl-entry">Calms R B. 1965. Infrared spectroscopic studies on solid Oxygen. Berkeley: Univ. of California</div>
   <div class="csl-entry">Caplan P. 1993. Cataloging internet Resources. The Public-Access Computer Systems Review, 4(2): 61~66</div>
   <div class="csl-entry">Chernik B E. 1982. Introduction to library services for library Technicians. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. [no date]. Pennsylvania library Laws. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>[2013–03–24]</div>
@@ -190,7 +190,7 @@ Undefined
   <div class="csl-entry">O’Brien J A. 1994. Introduction to information Systems. 7 edition. Burr Ridge, III: Irwin</div>
   <div class="csl-entry">Online Computer Library Center, Inc. [no date]. About OCLC: History of Cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>[2012–03–27]</div>
   <div class="csl-entry">Park J-R, Tosaka Y. 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and Mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696~715</div>
-  <div class="csl-entry">Peebles P Z. 2001. Probability, random variables, and random signal Principles. 4 edition. New York: McGraw-Hill</div>
+  <div class="csl-entry">Peebles P Z Jr. 2001. Probability, random variables, and random signal Principles. 4 edition. New York: McGraw-Hill</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by theory: A tale of mystery and archaeological Theory. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13</div>
   <div class="csl-entry">Roberson J A, Burneson E G. 2011. Drinking water standards, regulations and Goals. American Water Works Association, ed.//In:Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill: 1.1-1.36</div>
   <div class="csl-entry">Saito M, Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the geological survey of Japan, 57(5/6): 169~176</div>
@@ -199,6 +199,6 @@ Undefined
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayshi S, et al. 2005-07-05. Electronic watermarking method and System.US专利, US6915001</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated Acid-producing Material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service</div>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. 2013. Drought, deluge and declines: The impact of precipitation extremes on amphibians in a changing Climate. Biology, 2(1): 399~418</div>
-  <div class="csl-entry">Weinstein L, Swertz M N. 1974. Pathogenic properties of invading Microorganism. Sodeman, Jr W A, Sodeman W A, eds.//In:Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders: 745~772</div>
+  <div class="csl-entry">Weinstein L, Swertz M N. 1974. Pathogenic properties of invading Microorganism. Sodeman W A Jr, Sodeman W A, eds.//In:Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders: 745~772</div>
   <div class="csl-entry">World Health Organization. 1970. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO</div>
 </div>

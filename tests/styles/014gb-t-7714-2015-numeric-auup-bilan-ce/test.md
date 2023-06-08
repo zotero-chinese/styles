@@ -67,7 +67,7 @@ Undefined
 
     <div class="csl-block">中国造纸年鉴</div>
 .</div>
-  <div class="csl-entry">[14] PEEBLES P Z. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14] PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15] Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. YUFIN S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16] BALDOCK P. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press, 2011: 105[2012-11-27].</div>
   <div class="csl-entry">[17] FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26].</div>
@@ -79,7 +79,7 @@ Undefined
   <div class="csl-entry">[20] 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[M]. 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21] 马克思. 政治经济学批判[M]. 马克思, 恩格斯, 编//马克思恩格斯全集. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23] WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]. SODEMAN, JR W A, SODEMAN W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23] WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]. SODEMAN W A Jr, SODEMAN W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M/OL]. American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10].</div>
   <div class="csl-entry">[25] 中华医学会湖北分会. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984(1984).</div>
   <div class="csl-entry">[26] 中国图书馆学会. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957(1957).</div>
@@ -188,7 +188,7 @@ Undefined
   <div class="csl-entry">[93] WORLD HEALTH ORGANIZATION. Factors regulating the immune response: Report of WHO Scientific Group[R].（1970）.</div>
   <div class="csl-entry">[94] 马欢. 人类活动影响下海河流域典型区水循环变化分析[D/OL]. 北京: 清华大学, 2011: 27[2013-10-14].</div>
   <div class="csl-entry">[95] 吴云芳. 面向中文信息处理的现代汉语并列结构研究[D/OL]. 北京: 北京大学, 2003[2013-10-14].</div>
-  <div class="csl-entry">[96] CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96] CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97] 张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">[98] 河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P/OL]. 2001-10-24[2002-05-28].</div>
   <div class="csl-entry">[99] KOSEKI A, MOMOSE H, KAWAHITO M, et al. Compiler: US828402[P/OL]. 2002-05-25[2002-05-28].</div>
@@ -205,10 +205,7 @@ Undefined
   <div class="csl-entry">[104] 佚名. 卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105] 白书农. 植物开花研究[M]. 李承森, 编//植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106] 汪学军. 中国农业转基因生物研究进展与安全管理[C]. 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
-  <div class="csl-entry">[107] 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.
-
-    <div class="csl-block">世界各国和地区名称代码</div>
-.</div>
+  <div class="csl-entry">[107] 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108] 佚名. 宋史卷三: 本纪第三[M]//宋史. 北京: 中华书局, 1977: 49.
 
     <div class="csl-block">宋史卷三</div>

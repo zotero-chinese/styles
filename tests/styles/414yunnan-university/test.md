@@ -65,7 +65,7 @@ Undefined
   <div class="csl-entry">丁文详. 2000. 数字革命与竞争国际化[N]. 中国青年报. : 15.</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 2000. 大风沙过后的思考[N]. 北京青年报.</div>
   <div class="csl-entry">顾炎武. 1992. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社.</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59–92.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59–92.</div>
   <div class="csl-entry">国家环境保护局科技标准司. 1996. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社: 2–3.</div>
   <div class="csl-entry">哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社: 235–236.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001–10–24.</div>
@@ -144,8 +144,8 @@ Undefined
   <div class="csl-entry">BALDOCK P. 2011. Developing early childhood services: Past, present and Future[M]. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">BAWDEN D. 2008. Origins and concepts of digital Literacy[EB](2008–05–04).</div>
   <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R. c1980. Subsolidus phenomena in Pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117–211.</div>
+  <div class="csl-entry">CAIRNS B R. 1965. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CALKIN D, AGER A, THOMPSON M. 2011. A comparative risk assessment framework for wildland fire management: The 2010 cohesive strategy science Report: RMRS-GTR-262[R]. .</div>
-  <div class="csl-entry">CALMS R B. 1965. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CAPLAN P. 1993. Cataloging internet Resources[J]. The Public-Access Computer Systems Review. 4(2): 61–66.</div>
   <div class="csl-entry">CHERNIK B E. 1982. Introduction to library services for library Technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">COMMONWEALTH LIBRARIES BUREAU OF LIBRARY DEVELOPMENT. PENNSYLVANIA DEPARTMENT OF EDUCATION OFFICE. [no date]. Pennsylvania library Laws[EB]([no date]).</div>
@@ -170,7 +170,7 @@ Undefined
   <div class="csl-entry">O’BRIEN J A. 1994. Introduction to information Systems[M]. 7 edition. Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">ONLINE COMPUTER LIBRARY CENTER, INC. [no date]. About OCLC: History of Cooperation[EB]([no date]).</div>
   <div class="csl-entry">PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and Mechanisms[J]. Cataloging &#38; Classification Quarterly. 48(8): 696–715.</div>
-  <div class="csl-entry">PEEBLES P Z. 2001. Probability, random variables, and random signal Principles[M]. 4 edition. New York: McGraw-Hill.</div>
+  <div class="csl-entry">PEEBLES P Z Jr. 2001. Probability, random variables, and random signal Principles[M]. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">PRAETZELLIS A. 2011. Death by theory: A tale of mystery and archaeological Theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   <div class="csl-entry">ROBERSON J A, BURNESON E G. 2011. Drinking water standards, regulations and Goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan. 57(5/6): 169–176.</div>
@@ -179,6 +179,6 @@ Undefined
   <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al. 2005. Electronic watermarking method and System: US6915001[P]. 2005–07–05.</div>
   <div class="csl-entry">U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. 1990. Guidelines for handling excavated Acid-producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">WALLS S C, BARICHIVICH W J, BROWN M E. 2013. Drought, deluge and declines: The impact of precipitation extremes on amphibians in a changing Climate[J]. Biology. 2(1): 399–418.</div>
-  <div class="csl-entry">WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading Microorganism[M]. Sodeman, Jr W A, Sodeman W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders: 745–772.</div>
+  <div class="csl-entry">WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading Microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders: 745–772.</div>
   <div class="csl-entry">WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO.</div>
 </div>

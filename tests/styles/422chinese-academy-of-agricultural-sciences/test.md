@@ -96,7 +96,7 @@ Undefined
   <div class="csl-entry">李幼平, 王莉, 2010. 循证医学研究方法: 附视频. 中华移植杂志(电子版), 4(3): 225-228.</div>
   <div class="csl-entry">刘彻东, 1998. 中国的青年刊物: 个性特色为本仁. 中国出版(5): 38-39.</div>
   <div class="csl-entry">刘乃安, 2000. 生物质材料热解失重动力学及其分析方法研究. 合肥: 中国科学技术大学: 17-18. DOI: <a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>.</div>
-  <div class="csl-entry">刘裕国, 杨柳, 张洋, others, 2013. 雾霾来袭, 如何突围? 人民日报, 2013-01-12[2013-11-06].</div>
+  <div class="csl-entry">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文, 2013. 雾霾来袭, 如何突围? 人民日报, 2013-01-12[2013-11-06].</div>
   <div class="csl-entry">楼梦鳞, 杨燕, 2011. 汶川地震基岩地震动特征分析//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社: 011-012.</div>
   <div class="csl-entry">罗杰斯, 2011. 西方文明史: 问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社: 15-16.</div>
   <div class="csl-entry">罗斯基, 2009. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社.</div>
@@ -133,9 +133,9 @@ Undefined
   <div class="csl-entry">佚名, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
   <div class="csl-entry">佚名, 2011. 周易外传: 卷 5//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">佚名, 2012. Dublin core metadata element set: version 1.1.</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, others, 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波, 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌, 2013. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2013-01-12(2)[2013-03-20].</div>
-  <div class="csl-entry">袁训来, 陈哲, 肖书海, others, 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34): 3219.</div>
+  <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪, 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34): 3219.</div>
   <div class="csl-entry">张伯伟, 2002. 全唐五代诗格汇考. 南京: 江苏古籍出版社: 288.</div>
   <div class="csl-entry">张凯军, 2012. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2.</div>
   <div class="csl-entry">张田勤, 2000. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 2000-11-12(7).</div>
@@ -152,13 +152,13 @@ Undefined
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书: 中国武装力量的多样化运用.</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">BABU B V, NAGAR A K, DEEP K, others, 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日. New Delhi: Springer.</div>
+  <div class="csl-entry">BABU B V, NAGAR A K, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U, 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日. New Delhi: Springer.</div>
   <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The Future of Resource Sharing. New York: The Haworth Press.</div>
   <div class="csl-entry">BALDOCK P, 2011. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy.</div>
   <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus Phenomena in Pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+  <div class="csl-entry">CAIRNS B R, 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CALKIN D, AGER A, THOMPSON M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 8-9.</div>
-  <div class="csl-entry">CALMS R B, 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CAPLAN P, 1993. Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61-66.</div>
   <div class="csl-entry">CHERNIK B E, 1982. Introduction to Library Services for Library Technicians. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws.</div>
@@ -177,13 +177,13 @@ Undefined
   <div class="csl-entry">KENNEDY W J, GARRISON R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 22: 311. DOI: <a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">10.1111/j.1365-3091.1975.tb01637.x</a>.</div>
   <div class="csl-entry">KENNEDY W J, GARRISON R E, 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 8(4): 339-360. DOI: <a href="https://doi.org/10.1111/j.1502-3931.1975.tb00940.x">10.1111/j.1502-3931.1975.tb00940.x</a>.</div>
   <div class="csl-entry">KINCHY A, 2012. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops. Cambridge, Mass.: MIT Press: 50.</div>
-  <div class="csl-entry">KOSEKI A, MOMOSE H, KAWAHITO M, others, 2002. Compiler: US828402.</div>
+  <div class="csl-entry">KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H, 2002. Compiler: US828402.</div>
   <div class="csl-entry">MORRI I, 2010. Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J, 2014. The genome of eucalyptus grandis. Nature, 510: 356-362. DOI: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   <div class="csl-entry">O’BRIEN J A, 1994. Introduction to Information Systems. 7 版. Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. About OCLC: History of cooperation.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696-715. DOI: <a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
-  <div class="csl-entry">PEEBLES P Z, 2001. Probability, Random Variables, and Random Signal Principles. 4 版. New York: McGraw-Hill.</div>
+  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, Random Variables, and Random Signal Principles. 4 版. New York: McGraw-Hill.</div>
   <div class="csl-entry">PRAETZELLIS A, 2011. Death by Theory: A Tale of Mystery and Archaeological Theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking Water Standards, Regulations and Goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6 版. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">SAITO M, MIYAZAKI K, 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the geological survey of Japan, 57(5/6): 169-176. DOI: <a href="https://doi.org/10.9795/bullgsj.57.169">10.9795/bullgsj.57.169</a>.</div>
@@ -192,7 +192,7 @@ Undefined
   <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, NAKAMURA T, 2005. Electronic watermarking method and system: US6915001.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">WALLS S C, BARICHIVICH W J, BROWN M E, 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. Biology, 2(1): 399-418. DOI: <a href="https://doi.org/10.3390/biology2010399">10.3390/biology2010399</a>.</div>
-  <div class="csl-entry">WEINSTEIN L, SWERTZ M N, 1974. Pathogenic Properties of Invading Microorganism//SODEMAN, JR W A, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 745-772.</div>
+  <div class="csl-entry">WEINSTEIN L, SWERTZ M N, 1974. Pathogenic Properties of Invading Microorganism//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 745-772.</div>
   <div class="csl-entry">World Health Organization, 1970. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO.</div>
   <div class="csl-entry">YUFIN S A, 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 2000年2月1—4日. Rotterdam: A. A. Balkema.</div>
 </div>

@@ -67,7 +67,7 @@ Undefined
   <div class="csl-entry">[20]	陈等. . 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114.</div>
   <div class="csl-entry">[21]	马克思. . 马克思等, 编//马克思恩格斯全集. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
-  <div class="csl-entry">[23]	Weinstein et al. . Sodeman, Jr W A et al., eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
+  <div class="csl-entry">[23]	Weinstein et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
   <div class="csl-entry">[24]	Roberson et al. . American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. . 武汉: 中华医学会湖北分会, 1984(1984).</div>
   <div class="csl-entry">[26]	中国图书馆学会. . 北京: 北京图书馆, 1957(1957).</div>
@@ -140,7 +140,7 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. . (1970) .</div>
   <div class="csl-entry">[94]	马. . 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴. . 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	Calms. . Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns. . Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张. . 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. . 2001-10-24.</div>
   <div class="csl-entry">[99]	Koseki et al. . 2002-05-25.</div>
@@ -151,7 +151,7 @@ Undefined
   <div class="csl-entry">[104]	佚名. //苏魏公文集. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白. . 李承森, 编//植物科学进展. 北京: 高等教育出版社, 1998: 146–163.</div>
   <div class="csl-entry">[106]	汪. . 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22–25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. . 全国文献工作标准化委员会, 编. 文献工作国家标准汇编: 3, 1988: 59–92北京: 中国标准出版社, 1988: 59–92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. . 全国文献工作标准化委员会, ed. 文献工作国家标准汇编: 3, 1988: 59–92北京: 中国标准出版社, 1988: 59–92.</div>
   <div class="csl-entry">[108]	佚名. //宋史. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼等. . 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012.</div>
   <div class="csl-entry">[110]	Buseck et al. //Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>

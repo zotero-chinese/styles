@@ -128,9 +128,9 @@ Undefined
 
     <div class="csl-block">顾炎武. 1992. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社，1992年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: gb/t 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3北京: 中国标准出版社，1988年
+  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3北京: 中国标准出版社，1988年
 
-    <div class="csl-block">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: gb/t 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3北京: 中国标准出版社，1988年 (In Chinese)</div>
+    <div class="csl-block">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3北京: 中国标准出版社，1988年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[14]	国家环境保护局科技标准司. 1996. 土壤环境质量标准[S]. 北京: 中国标准出版社，1996年
 
@@ -188,9 +188,9 @@ Undefined
 
     <div class="csl-block">刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究[D]，中国科学技术大学，2000年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[28]	刘裕国, 杨柳, 张洋, OTHERS. 2013. 雾霾来袭, 如何突围?[N]，人民日报
+  <div class="csl-entry">[28]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 2013. 雾霾来袭, 如何突围?[N]，人民日报
 
-    <div class="csl-block">刘裕国, 杨柳, 张洋, OTHERS. 2013. 雾霾来袭, 如何突围?[N]，人民日报 (In Chinese)</div>
+    <div class="csl-block">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 2013. 雾霾来袭, 如何突围?[N]，人民日报 (In Chinese)</div>
 </div>
   <div class="csl-entry">[29]	楼梦鳞, 杨燕. 2011. 汶川地震基岩地震动特征分析[M]. 同济大学土木工程防灾国家重点实验室, ed.//汶川地震震害研究上海: 同济大学出版社，2011年
 
@@ -304,17 +304,17 @@ Undefined
 
     <div class="csl-block">杨洪升. 2013. 四库馆私家抄校书考略[J]，文献, 1: 56-75. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[57]	于潇, 刘义, 柴跃廷, OTHERS. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]，清华大学学报(自然科学版), 52(11): 1518-1523. 
+  <div class="csl-entry">[57]	于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]，清华大学学报(自然科学版), 52(11): 1518-1523. 
 
-    <div class="csl-block">于潇, 刘义, 柴跃廷, OTHERS. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]，清华大学学报(自然科学版), 52(11): 1518-1523. (In Chinese)</div>
+    <div class="csl-block">于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]，清华大学学报(自然科学版), 52(11): 1518-1523. (In Chinese)</div>
 </div>
   <div class="csl-entry">[58]	余建斌. 2013. 我们的科技一直在追赶: 访中国工程院院长周济[N]，人民日报, : 2. 
 
     <div class="csl-block">余建斌. 2013. 我们的科技一直在追赶: 访中国工程院院长周济[N]，人民日报, : 2. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[59]	袁训来, 陈哲, 肖书海, OTHERS. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]，科学通报, 57(34): 3219. 
+  <div class="csl-entry">[59]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]，科学通报, 57(34): 3219. 
 
-    <div class="csl-block">袁训来, 陈哲, 肖书海, OTHERS. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]，科学通报, 57(34): 3219. (In Chinese)</div>
+    <div class="csl-block">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]，科学通报, 57(34): 3219. (In Chinese)</div>
 </div>
   <div class="csl-entry">[60]	张忠智. 1997. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, ed.//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编北京: 中国科学技术期刊编辑学会学术委员会，1997年
 
@@ -424,9 +424,9 @@ Undefined
 
     <div class="csl-block">anonymous. 2012. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14) (In Chinese)</div>
 </div>
-  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the second international conference on soft computing for problem solving[M]. Babu B V, Nagar A K, Deep K, others, eds.. New Delhi: Springer，2014年
+  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the second international conference on soft computing for problem solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年
 
-    <div class="csl-block">anonymous. 2014. Proceedings of the second international conference on soft computing for problem solving[M]. Babu B V, Nagar A K, Deep K, others, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
+    <div class="csl-block">anonymous. 2014. Proceedings of the second international conference on soft computing for problem solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[88]	BAKER S K, JACKSON M E. 1995. The future of resource sharing[M]. New York: The Haworth Press，1995年
 
@@ -444,13 +444,13 @@ Undefined
 
     <div class="csl-block">BUSECK P R, NORD G L, VEBLEN D R. c1980. Subsolidus phenomena in pyroxenes[M]//PyroxenseWashington, D.C.: Mineralogical Society of America，c1980年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[92]	CALKIN D, AGER A, THOMPSON M. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. (2011)
+  <div class="csl-entry">[92]	CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，Univ. of California，1965年
+
+    <div class="csl-block">CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，Univ. of California，1965年 (In Chinese)</div>
+</div>
+  <div class="csl-entry">[93]	CALKIN D, AGER A, THOMPSON M. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. (2011)
 
     <div class="csl-block">CALKIN D, AGER A, THOMPSON M. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. (2011) (In Chinese)</div>
-</div>
-  <div class="csl-entry">[93]	CALMS R B. 1965. Infrared spectroscopic studies on solid oxygen[D]，Univ. of California，1965年
-
-    <div class="csl-block">CALMS R B. 1965. Infrared spectroscopic studies on solid oxygen[D]，Univ. of California，1965年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[94]	CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. 
 
@@ -524,9 +524,9 @@ Undefined
 
     <div class="csl-block">KINCHY A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press，2012年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[112]	KOSEKI A, MOMOSE H, KAWAHITO M, OTHERS. 2002. Compiler[P]. 2002-05-25
+  <div class="csl-entry">[112]	KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H. 2002. Compiler[P]. 2002-05-25
 
-    <div class="csl-block">KOSEKI A, MOMOSE H, KAWAHITO M, OTHERS. 2002. Compiler[P]. 2002-05-25 (In Chinese)</div>
+    <div class="csl-block">KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H. 2002. Compiler[P]. 2002-05-25 (In Chinese)</div>
 </div>
   <div class="csl-entry">[113]	MORRI I. 2010. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux，2010年
 
@@ -548,9 +548,9 @@ Undefined
 
     <div class="csl-block">PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]，Cataloging &#38; classification quarterly, 48(8): 696-715. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[118]	PEEBLES P Z. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年
+  <div class="csl-entry">[118]	PEEBLES P Z Jr. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年
 
-    <div class="csl-block">PEEBLES P Z. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年 (In Chinese)</div>
+    <div class="csl-block">PEEBLES P Z Jr. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[119]	PRAETZELLIS A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.，2011年
 
@@ -584,9 +584,9 @@ Undefined
 
     <div class="csl-block">WALLS S C, BARICHIVICH W J, BROWN M E. 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]，Biology, 2(1): 399-418. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[127]	WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading microorganism[M]. Sodeman, Jr W A, Sodeman W A, eds.//Pathologic physiology: mechanisms of diseasePhiladelphia: Saunders，1974年
+  <div class="csl-entry">[127]	WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of diseasePhiladelphia: Saunders，1974年
 
-    <div class="csl-block">WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading microorganism[M]. Sodeman, Jr W A, Sodeman W A, eds.//Pathologic physiology: mechanisms of diseasePhiladelphia: Saunders，1974年 (In Chinese)</div>
+    <div class="csl-block">WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of diseasePhiladelphia: Saunders，1974年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[128]	WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: report of who scientific group[R]. Geneva: WHO，1970年(1970)
 

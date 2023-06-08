@@ -58,7 +58,7 @@ Undefined
   <div class="csl-entry">@当代美国外交@赵学功. (@2001)</div>
   <div class="csl-entry">@汶川地震灾害研究@同济大学土木工程防灾国家重点实验室. (@2011)</div>
   <div class="csl-entry">@中国造纸年鉴: 2003@中国造纸学会. (@2003)</div>
-  <div class="csl-entry">@Probability, random variables, and random signal principles@Peebles P Z. (@2001)</div>
+  <div class="csl-entry">@Probability, random variables, and random signal principles@Peebles P Z Jr. (@2001)</div>
   <div class="csl-entry">@Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering@anonymous. (@2000)</div>
   <div class="csl-entry">@Developing early childhood services: Past, present and future@Baldock P. (@2011)</div>
   <div class="csl-entry">@Food irradiation research and technology@Fan X, Sommers C H. (@2013)</div>
@@ -140,7 +140,7 @@ Undefined
   <div class="csl-entry">@Factors regulating the immune response: Report of WHO Scientific Group@World Health Organization. (@1970)</div>
   <div class="csl-entry">@人类活动影响下海河流域典型区水循环变化分析@马欢. (@2011)</div>
   <div class="csl-entry">@面向中文信息处理的现代汉语并列结构研究@吴云芳. (@2003)</div>
-  <div class="csl-entry">@Infrared spectroscopic studies on solid oxygen@Calms R B. (@1965)</div>
+  <div class="csl-entry">@Infrared spectroscopic studies on solid oxygen@Cairns B R. (@1965)</div>
   <div class="csl-entry">@轨道火车及高速轨道火车紧急安全制动辅助装置@张凯军. (@2012)</div>
   <div class="csl-entry">@一种荒漠化地区生态植被综合培育种植方法@河北绿洲生态环境科技有限公司. (@2001)</div>
   <div class="csl-entry">@Compiler@Koseki A, Momose H, et al. (@2002)</div>
@@ -151,7 +151,7 @@ Undefined
   <div class="csl-entry">@卷 39 乞致仕第一@佚名. (@1988)</div>
   <div class="csl-entry">@植物开花研究@白书农. (@1998)</div>
   <div class="csl-entry">@中国农业转基因生物研究进展与安全管理@汪学军. (@2002)</div>
-  <div class="csl-entry">@世界各国和地区名称代码: GB/T 2659—1986@国家标准局信息分类编码研究所. (@1988)</div>
+  <div class="csl-entry">@世界各国和地区名称代码@国家标准局信息分类编码研究所. (@1988)</div>
   <div class="csl-entry">@宋史卷三: 本纪第三@佚名. (@1977)</div>
   <div class="csl-entry">@汶川地震基岩地震动特征分析@楼梦鳞, 杨燕. (@2011)</div>
   <div class="csl-entry">@Subsolidus phenomena in pyroxenes@Buseck P R, Nord G L, et al. (@c1980)</div>

@@ -143,8 +143,8 @@ Undefined
   <div class="csl-entry">Baldock, 2011.</div>
   <div class="csl-entry">Bawden, 2008.</div>
   <div class="csl-entry">Buseck <i>et al.</i>, c1980.</div>
+  <div class="csl-entry">Cairns, 1965.</div>
   <div class="csl-entry">Calkin <i>et al.</i>, 2011.</div>
-  <div class="csl-entry">Calms, 1965.</div>
   <div class="csl-entry">Caplan, 1993.</div>
   <div class="csl-entry">Chernik, 1982.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office.</div>

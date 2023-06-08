@@ -58,7 +58,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011.</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003.</div>
-  <div class="csl-entry">[14]	Peebles P Z. Probability, random variables, and random signal Principles[M]. 4. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14]	Peebles P Z Jr. Probability, random variables, and random signal Principles[M]. 4. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15]	Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Baldock P. Developing early childhood services: Past, present and Future[M]. Rotterdam: Open University Press, 2011.</div>
   <div class="csl-entry">[17]	Fan X, Sommers C H. Food irradiation research and Technology[M]. 2. Ames, Iowa: Blackwell Publishing, 2013.</div>
@@ -140,7 +140,7 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	Calms R B. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns B R. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 中国[P]. 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国[P]. 2001-10-24.</div>
   <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US[P]. 2002-05-25.</div>

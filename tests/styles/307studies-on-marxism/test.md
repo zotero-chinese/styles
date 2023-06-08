@@ -65,7 +65,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年。</div>
   <div class="csl-entry">[13]	中国造纸学会：《中国造纸年鉴: 2003》，北京：中国轻工业出版社，2003年。</div>
-  <div class="csl-entry">[14]	Peyton Z. Peebles：《Probability, random variables, and random signal principles》，New York：McGraw-Hill，2001年。</div>
+  <div class="csl-entry">[14]	Peyton Z. Peebles Jr.：《Probability, random variables, and random signal principles》，New York：McGraw-Hill，2001年。</div>
   <div class="csl-entry">[15]	Sergey A Yufin主编：《Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering》，Rotterdam：A. A. Balkema，2000年。</div>
   <div class="csl-entry">[16]	Peter Baldock：《Developing early childhood services: Past, present and future》，Rotterdam：Open University Press，2011年。</div>
   <div class="csl-entry">[17]	Xuetong Fan、Christopher H. Sommers：《Food irradiation research and technology》，Ames, Iowa：Blackwell Publishing，2013年。</div>
@@ -74,12 +74,12 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年。</div>
   <div class="csl-entry">[21]	马克思：《政治经济学批判》（第 35 卷），马克思、恩格斯主编：《马克思恩格斯全集》，北京：人民出版社，2013年。</div>
   <div class="csl-entry">[22]	贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》（2011 年卷），中国图书馆学会主编：《中国图书馆学会年会论文集》，北京：国家图书馆出版社，2011年。</div>
-  <div class="csl-entry">[23]	L Weinstein、M N Swertz：《Pathogenic properties of invading microorganism》，William A Sodeman, Jr、William A Sodeman主编：《Pathologic physiology: mechanisms of disease》，Philadelphia：Saunders，1974年。</div>
+  <div class="csl-entry">[23]	L Weinstein、M N Swertz：《Pathogenic properties of invading microorganism》，William A Sodeman Jr、William A Sodeman主编：《Pathologic physiology: mechanisms of disease》，Philadelphia：Saunders，1974年。</div>
   <div class="csl-entry">[24]	J. Alan Roberson、Eric G. Burneson：《Drinking water standards, regulations and goals》，American Water Works Association主编：《Water quality &#38; treatment: a handbook on drinking water》，New York：McGraw-Hill，2011年。</div>
   <div class="csl-entry">[25]	中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。</div>
   <div class="csl-entry">[26]	中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science：《Science》第1卷，Washington, D.C.：American Association for the Advancement of Science，1883年。</div>
-  <div class="csl-entry">[28]	袁训来、陈哲、肖书海、others：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》第57卷，《科学通报》2012年第34期。</div>
+  <div class="csl-entry">[28]	袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》第57卷，《科学通报》2012年第34期。</div>
   <div class="csl-entry">[29]	余建斌：《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》2013年。</div>
   <div class="csl-entry">[30]	李炳穆：《韩国图书馆法》第52卷，《图书情报工作》2008年第6期。</div>
   <div class="csl-entry">[31]	李幼平、王莉：《循证医学研究方法: 附视频》第4卷，《中华移植杂志(电子版)》2010年第3期。</div>
@@ -139,7 +139,7 @@ Undefined
   <div class="csl-entry">[85]	中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。</div>
   <div class="csl-entry">[86]	雷光春主编：《综合湿地管理: 综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。</div>
   <div class="csl-entry">[87]	陈志勇主编：《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。</div>
-  <div class="csl-entry">[88]	B V Babu、A K Nagar、K Deep、others主编：《Proceedings of the Second International Conference on Soft Computing for Problem Solving》，New Delhi：Springer，2014年。</div>
+  <div class="csl-entry">[88]	B V Babu、Atulya K. Nagar、Kusum Deep、Millie Pant、Jagdish Chand Bansal、Kanad Ray、Umesh Gupta主编：《Proceedings of the Second International Conference on Soft Computing for Problem Solving》，New Delhi：Springer，2014年。</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年。</div>
   <div class="csl-entry">[90]	汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。</div>
   <div class="csl-entry">[91]	D Calkin、A Ager、M Thompson：《A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report》，2011年。</div>
@@ -147,10 +147,10 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization：《Factors regulating the immune response: Report of WHO Scientific Group》，Geneva：WHO，1970年。</div>
   <div class="csl-entry">[94]	马欢：《人类活动影响下海河流域典型区水循环变化分析》，北京：清华大学，2011年。</div>
   <div class="csl-entry">[95]	吴云芳：《面向中文信息处理的现代汉语并列结构研究》，北京：北京大学，2003年。</div>
-  <div class="csl-entry">[96]	R B Calms：《Infrared spectroscopic studies on solid oxygen》，Berkeley：Univ. of California，1965年。</div>
+  <div class="csl-entry">[96]	Bruce Richard Cairns：《Infrared spectroscopic studies on solid oxygen》，Berkeley：Univ. of California，1965年。</div>
   <div class="csl-entry">[97]	张凯军：《轨道火车及高速轨道火车紧急安全制动辅助装置》，中国，2012年。</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司：《一种荒漠化地区生态植被综合培育种植方法》，中国，2001年。</div>
-  <div class="csl-entry">[99]	A Koseki、H Momose、M Kawahito、others：《Compiler》，US，2002年。</div>
+  <div class="csl-entry">[99]	Akira Koseki、Hiroyuki Momose、Motohiro Kawahito、Hideaki Komatsu：《Compiler》，US，2002年。</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会：《文献著录: 第 4 部分 非书资料》，北京：中国标准出版社，2010年。</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会：《广播电视音像资料编目规范: 第 2 部分 广播资料》，北京：国家广播电影电视总局广播电视规划院，2007年。</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司：《土壤环境质量标准》，北京：中国标准出版社，1996年。</div>
@@ -158,14 +158,14 @@ Undefined
   <div class="csl-entry">[104]	《卷 39 乞致仕第一》（下册），《苏魏公文集》，北京：中华书局，1988年。</div>
   <div class="csl-entry">[105]	白书农：《植物开花研究》，李承森主编：《植物科学进展》，北京：高等教育出版社，1998年。</div>
   <div class="csl-entry">[106]	汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年。</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所：《世界各国和地区名称代码: GB/T 2659—1986》，北京：中国标准出版社，1988年。</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所：《世界各国和地区名称代码》，北京：中国标准出版社，1988年。</div>
   <div class="csl-entry">[108]	《宋史卷三: 本纪第三》（第 1 册），《宋史》，北京：中华书局，1977年。</div>
   <div class="csl-entry">[109]	楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年。</div>
   <div class="csl-entry">[110]	P R Buseck、G L Nord、D R Veblen：《Subsolidus phenomena in pyroxenes》，《Pyroxense》，Washington, D.C.：Mineralogical Society of America，c1980年。</div>
   <div class="csl-entry">[111]	M E Fourney：《Advances in holographic photoelasticity》，《Symposium on Applications of Holography in Mechanics》，New York：ASME，c1971年。</div>
   <div class="csl-entry">[112]	杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。</div>
   <div class="csl-entry">[113]	李炳穆：《韩国图书馆法》第52卷，《图书情报工作》2008年第6期。</div>
-  <div class="csl-entry">[114]	于潇、刘义、柴跃廷、others：《互联网药品可信交易环境中主体资质审核备案模式》第52卷，《清华大学学报(自然科学版)》2012年第11期。</div>
+  <div class="csl-entry">[114]	于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》第52卷，《清华大学学报(自然科学版)》2012年第11期。</div>
   <div class="csl-entry">[115]	陈建军：《从数字地球到智慧地球》第7卷，《国土资源导刊》2010年第10期。</div>
   <div class="csl-entry">[116]	David J. Des Marais、Harald Strauss、Roger E. Summons、J. M. Hayes：《Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment》第359卷，《Nature》1992年第6396期。</div>
   <div class="csl-entry">[117]	M Saito、K Miyazaki：《Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu》第57卷，《Bulletin of the geological survey of Japan》2006年第5/6期。</div>
@@ -175,7 +175,7 @@ Undefined
   <div class="csl-entry">[121]	丁文详：《数字革命与竞争国际化》，《中国青年报》2000年。</div>
   <div class="csl-entry">[122]	张田勤：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年。</div>
   <div class="csl-entry">[123]	傅刚、赵承、李佳路：《大风沙过后的思考》，《北京青年报》2000年。</div>
-  <div class="csl-entry">[124]	刘裕国、杨柳、张洋、others：《雾霾来袭, 如何突围?》，《人民日报》2013年。</div>
+  <div class="csl-entry">[124]	刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭, 如何突围?》，《人民日报》2013年。</div>
   <div class="csl-entry">[125]	萧钰：《出版业信息化迈入快车道》，2001年，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>。</div>
   <div class="csl-entry">[126]	李强：《化解医患矛盾需釜底抽薪》，2012年，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>。</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office：《Pennsylvania library laws》，<a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>。</div>

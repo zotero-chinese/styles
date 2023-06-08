@@ -137,11 +137,11 @@ Undefined
   <div class="csl-entry">[67]	KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">[68]	MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[69]	O’BRIEN J A. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin, 1994.</div>
-  <div class="csl-entry">[70]	PEEBLES P Z. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[70]	PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[71]	PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">[72]	YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[73]	BUSECK P R, NORD G L, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">[74]	CALMS R B. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[74]	CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[75]	CAPLAN P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   <div class="csl-entry">[76]	DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.</div>
   <div class="csl-entry">[77]	DEVERELL W, IGLER D. A companion to California history[D]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
@@ -159,7 +159,7 @@ Undefined
   <div class="csl-entry">[89]	STIEG M F. The information needs of historians[J]. College &#38; Research Libraries, 1981, 42(6): 549-560.</div>
   <div class="csl-entry">[90]	SUNSTEIN C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903.</div>
   <div class="csl-entry">[91]	WALLS S C, BARICHIVICH W J, BROWN M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">[92]	WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]//SODEMAN, JR W A, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[92]	WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[93]	Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[94]	丁文详．数字革命与竞争国际化［N］．中国青年报，2000-11-20（15）．</div>
   <div class="csl-entry">[95]	傅刚，赵承，李佳路．大风沙过后的思考［N］．北京青年报，2000-01-12．</div>
@@ -174,11 +174,11 @@ Undefined
   <div class="csl-entry">[104]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[105]	Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
   <div class="csl-entry">[106]	北京市人民政府办公厅．关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发[2005]37号［A］．2005．</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所．世界各国和地区名称代码: GB/T 2659—1986［S］//全国文献工作标准化委员会．文献工作国家标准汇编: 3．北京：中国标准出版社，1988：59-92．</div>
-  <div class="csl-entry">[108]	国家环境保护局科技标准司．土壤环境质量标准：GB 15616—1995［S］．北京：中国标准出版社，1996：2-3．</div>
-  <div class="csl-entry">[109]	全国广播电视标准化技术委员会．广播电视音像资料编目规范: 第 2 部分 广播资料：GY/T 202.2—2007［S］．北京：国家广播电影电视总局广播电视规划院，2007：1．</div>
-  <div class="csl-entry">[110]	全国信息与文献标准化技术委员会．信息与文献 都柏林核心元数据元素集：GB/T 25100—2010［S］．北京：中国标准出版社，2010：2-3．</div>
-  <div class="csl-entry">[111]	全国信息与文献标准化技术委员会．文献著录: 第 4 部分 非书资料：GB/T 3792.4—2009［S］．北京：中国标准出版社，2010：3．</div>
+  <div class="csl-entry">[107]	国家环境保护局科技标准司．土壤环境质量标准：GB 15616—1995［S］．北京：中国标准出版社，1996：2-3．</div>
+  <div class="csl-entry">[108]	全国广播电视标准化技术委员会．广播电视音像资料编目规范: 第 2 部分 广播资料：GY/T 202.2—2007［S］．北京：国家广播电影电视总局广播电视规划院，2007：1．</div>
+  <div class="csl-entry">[109]	全国信息与文献标准化技术委员会．信息与文献 都柏林核心元数据元素集：GB/T 25100—2010［S］．北京：中国标准出版社，2010：2-3．</div>
+  <div class="csl-entry">[110]	全国信息与文献标准化技术委员会．文献著录: 第 4 部分 非书资料：GB/T 3792.4—2009［S］．北京：中国标准出版社，2010：3．</div>
+  <div class="csl-entry">[111]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[112]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. 2009.</div>
   <div class="csl-entry">[113]	邓一刚．全智能节电器：200610171314.3［P］．2006-12-13．</div>
   <div class="csl-entry">[114]	河北绿洲生态环境科技有限公司．一种荒漠化地区生态植被综合培育种植方法：01129210.5［P］．2001-10-24．</div>

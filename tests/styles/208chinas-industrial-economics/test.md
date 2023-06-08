@@ -96,7 +96,7 @@ Undefined
   <div class="csl-entry">[27]	李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3):225-228.</div>
   <div class="csl-entry">[28]	刘彻东. 中国的青年刊物: 个性特色为本仁[J]. 中国出版, 1998(5):38-39.</div>
   <div class="csl-entry">[29]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[M]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
-  <div class="csl-entry">[30]	刘裕国, 杨柳, 张洋, others. 雾霾来袭, 如何突围?[J]. 人民日报, 2013-01-12.</div>
+  <div class="csl-entry">[30]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 雾霾来袭, 如何突围?[J]. 人民日报, 2013-01-12.</div>
   <div class="csl-entry">[31]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[A]. 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究[C]. 上海: 同济大学出版社, 2011: 011-012.</div>
   <div class="csl-entry">[32]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">[33]	罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪译. 杭州: 浙江大学出版社, 2009.</div>
@@ -126,9 +126,9 @@ Undefined
   <div class="csl-entry">[57]	杨保军. 新闻道德论[M]. 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">[58]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1):56-75.</div>
   <div class="csl-entry">[59]	杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2):24-29.</div>
-  <div class="csl-entry">[60]	于潇, 刘义, 柴跃廷, others. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11):1518-1523.</div>
+  <div class="csl-entry">[60]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11):1518-1523.</div>
   <div class="csl-entry">[61]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[J]. 人民日报, 2013-01-12(2).</div>
-  <div class="csl-entry">[62]	袁训来, 陈哲, 肖书海, others. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34):3219.</div>
+  <div class="csl-entry">[62]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34):3219.</div>
   <div class="csl-entry">[63]	张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
   <div class="csl-entry">[64]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[M]. 中国, 2012.</div>
   <div class="csl-entry">[65]	张田勤. 罪犯 DNA 库与生命伦理学计划[J]. 大众科技报, 2000-11-12(7).</div>
@@ -152,13 +152,13 @@ Undefined
   <div class="csl-entry">[83]	Anon. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009[M]. 2009.</div>
   <div class="csl-entry">[84]	佚名. 周易外传: 卷 5[A]. 王夫之. 船山全书[C]. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">[85]	Anon. Dublin Core Metadata Element Set: Version 1.1[EB/OL]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>. 2012.</div>
-  <div class="csl-entry">[86]	Babu, B. V., A. K. Nagar, K. Deep, and others. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28—30, 2012[M]. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">[86]	Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, and U. Gupta. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28—30, 2012[M]. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[87]	Baker, S. K., and M. E. Jackson. The Future of Resource Sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[88]	Baldock, P. Developing Early Childhood Services: Past, Present and Future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[89]	Bawden, D. Origins and Concepts of Digital Literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>. 2008.</div>
   <div class="csl-entry">[90]	Buseck, P. R., G. L. Nord, and D. R. Veblen. Subsolidus Phenomena in Pyroxenes[A]. Pyroxense[C]. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">[91]	Calkin, D., A. Ager, and M. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[M]. 2011: 8-9.</div>
-  <div class="csl-entry">[92]	Calms, R. B. Infrared Spectroscopic Studies on Solid Oxygen[M]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[91]	Cairns, B. R. Infrared Spectroscopic Studies on Solid Oxygen[M]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[92]	Calkin, D., A. Ager, and M. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[M]. 2011: 8-9.</div>
   <div class="csl-entry">[93]	Caplan, P. Cataloging Internet Resources[J]. The Public-Access Computer Systems Review, 1993, 4(2):61-66.</div>
   <div class="csl-entry">[94]	Chernik, B. E. Introduction to Library Services for Library Technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">[95]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania Library Laws[EB/OL]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
@@ -177,13 +177,13 @@ Undefined
   <div class="csl-entry">[108]	Kennedy, W. J., and R. E. Garrison. Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England[J]. Sedimentology, 1975a, 22:311.</div>
   <div class="csl-entry">[109]	Kennedy, W. J., and R. E. Garrison. Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England[J]. Lethaia, 1975b, 8(4):339-360.</div>
   <div class="csl-entry">[110]	Kinchy, A. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
-  <div class="csl-entry">[111]	Koseki, A., H. Momose, M. Kawahito, and others. Compiler: US828402[M]. US, 2002.</div>
+  <div class="csl-entry">[111]	Koseki, A., H. Momose, M. Kawahito, and H. Komatsu. Compiler: US828402[M]. US, 2002.</div>
   <div class="csl-entry">[112]	Morri, I. Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[113]	Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510:356-362.</div>
   <div class="csl-entry">[114]	O’Brien, J. A. Introduction to Information Systems[M]. Burr Ridge, III: Irwin, 1994.</div>
   <div class="csl-entry">[115]	Online Computer Library Center, Inc. About OCLC: History of Cooperation[EB/OL]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[116]	Park, J. R., and Y. Tosaka. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8):696-715.</div>
-  <div class="csl-entry">[117]	Peebles, P. Z. Probability, Random Variables, and Random Signal Principles[M]. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[117]	Peebles, P. Z., Jr. Probability, Random Variables, and Random Signal Principles[M]. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[118]	Praetzellis, A. Death by Theory: A Tale of Mystery and Archaeological Theory[M]. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">[119]	Roberson, J. A., and E. G. Burneson. Drinking Water Standards, Regulations and Goals[A]. American Water Works Association. Water Quality &#38; Treatment: A Handbook on Drinking Water[C]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[120]	Saito, M., and K. Miyazaki. Jadeite-Bearing Metagabbro in Serpentinite Mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6):169-176.</div>
@@ -192,7 +192,7 @@ Undefined
   <div class="csl-entry">[123]	Tachibana, R., S. Shimizu, S. Kobayshi, and T. Nakamura. Electronic Watermarking Method and System: US6915001[M]. US, 2005.</div>
   <div class="csl-entry">[124]	U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[M]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[125]	Walls, S. C., W. J. Barichivich, and M. E. Brown. Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate[J]. Biology, 2013, 2(1):399-418.</div>
-  <div class="csl-entry">[126]	Weinstein, L., and M. N. Swertz. Pathogenic Properties of Invading Microorganism[A]. Sodeman, Jr, W. A., and W. A. Sodeman. Pathologic Physiology: Mechanisms of Disease[C]. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[126]	Weinstein, L., and M. N. Swertz. Pathogenic Properties of Invading Microorganism[A]. Sodeman, W. A., Jr, and W. A. Sodeman. Pathologic Physiology: Mechanisms of Disease[C]. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[127]	World Health Organization. Factors Regulating the Immune Response: Report of WHO Scientific Group[M]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[128]	Yufin, S. A. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1—4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
 </div>

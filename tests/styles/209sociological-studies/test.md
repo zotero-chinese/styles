@@ -110,7 +110,7 @@ Undefined
   <div class="csl-entry">丁文详，2000，《数字革命与竞争国际化》，《中国青年报》。</div>
   <div class="csl-entry">傅刚、赵承、李佳路，2000，《大风沙过后的思考》，《北京青年报》。</div>
   <div class="csl-entry">顾炎武，1992，《昌平山水记: 京东考古录》，北京：北京古籍出版社。</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所，1988，《世界各国和地区名称代码: GB/T 2659—1986》，全国文献工作标准化委员会主编《文献工作国家标准汇编: 3》，北京：中国标准出版社。</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所 1988, “世界各国和地区名称代码.” In 全国文献工作标准化委员会 (ed.), <i>文献工作国家标准汇编: 3</i>. 北京: 中国标准出版社.</div>
   <div class="csl-entry">国家环境保护局科技标准司，1996，《土壤环境质量标准》，北京：中国标准出版社。</div>
   <div class="csl-entry">哈里森·沃尔德伦，2012，《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社。</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司，2001，《一种荒漠化地区生态植被综合培育种植方法》，中国。</div>
@@ -126,7 +126,7 @@ Undefined
   <div class="csl-entry">李幼平、王莉，2010，《循证医学研究方法: 附视频》，《中华移植杂志(电子版)》第3期。</div>
   <div class="csl-entry">刘彻东，1998，《中国的青年刊物: 个性特色为本仁》，《中国出版》第5期。</div>
   <div class="csl-entry">刘乃安，2000，《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学博士学位论文。</div>
-  <div class="csl-entry">刘裕国、杨柳、张洋、others，2013，《雾霾来袭, 如何突围?》，《人民日报》。</div>
+  <div class="csl-entry">刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文，2013，《雾霾来袭, 如何突围?》，《人民日报》。</div>
   <div class="csl-entry">楼梦鳞、杨燕，2011，《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编《汶川地震震害研究》，上海：同济大学出版社。</div>
   <div class="csl-entry">罗杰斯，2011，《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，大连：东北财经大学出版社。</div>
   <div class="csl-entry">罗斯基，2009，《战前中国经济的增长》，唐巧天、毛立坤、姜修宪译，杭州：浙江大学出版社。</div>
@@ -156,9 +156,9 @@ Undefined
   <div class="csl-entry">杨保军，2012，《新闻道德论》，中国人民大学出版社博士学位论文。</div>
   <div class="csl-entry">杨洪升，2013，《四库馆私家抄校书考略》，《文献》第1期。</div>
   <div class="csl-entry">杨宗英，1996，《电子图书馆的现实模型》，《中国图书馆学报》第2期。</div>
-  <div class="csl-entry">于潇、刘义、柴跃廷、others，2012，《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第11期。</div>
+  <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波，2012，《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第11期。</div>
   <div class="csl-entry">余建斌，2013，《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》。</div>
-  <div class="csl-entry">袁训来、陈哲、肖书海、others，2012，《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第34期。</div>
+  <div class="csl-entry">袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪，2012，《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第34期。</div>
   <div class="csl-entry">张伯伟，2002，《全唐五代诗格汇考》，南京：江苏古籍出版社。</div>
   <div class="csl-entry">张凯军，2012，《轨道火车及高速轨道火车紧急安全制动辅助装置》，中国。</div>
   <div class="csl-entry">张田勤，2000，《罪犯 DNA 库与生命伦理学计划》，《大众科技报》。</div>
@@ -182,13 +182,13 @@ Undefined
   <div class="csl-entry">Anon 2009, <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
   <div class="csl-entry">佚名，2011，《周易外传: 卷 5》，王夫之主编《船山全书》第 6 册，长沙：岳麓书社。</div>
   <div class="csl-entry">Anon 2012, <i>Dublin Core Metadata Element Set: Version 1.1</i> (<a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>).</div>
-  <div class="csl-entry">Babu, B. V., A. K. Nagar, K. Deep, &#38; others 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu, B. V., Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray &#38; Umesh Gupta 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer.</div>
   <div class="csl-entry">Baker, S. K. &#38; M. E. Jackson 1995, <i>The Future of Resource Sharing</i>. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, Peter 2011, <i>Developing Early Childhood Services: Past, Present and Future</i>. Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden, D. 2008, <i>Origins and Concepts of Digital Literacy</i> (<a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>).</div>
   <div class="csl-entry">Buseck, P. R., G. L. Nord &#38; D. R. Veblen c1980, “Subsolidus Phenomena in Pyroxenes.” In <i>Pyroxense</i>. Washington, D.C.: Mineralogical Society of America.</div>
+  <div class="csl-entry">Cairns, Bruce Richard 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. Univ. of California Phd dissertation.</div>
   <div class="csl-entry">Calkin, D., A. Ager &#38; M. Thompson 2011, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>.</div>
-  <div class="csl-entry">Calms, R. B. 1965, <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. Univ. of California Phd dissertation.</div>
   <div class="csl-entry">Caplan, P. 1993, “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i> 4(2).</div>
   <div class="csl-entry">Chernik, B. E. 1982, <i>Introduction to Library Services for Library Technicians</i>. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, <i>Pennsylvania Library Laws</i> (<a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>).</div>
@@ -207,13 +207,13 @@ Undefined
   <div class="csl-entry">Kennedy, W. James &#38; Robert E. Garrison 1975a, “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England.” <i>Sedimentology</i> 22.</div>
   <div class="csl-entry">——— 1975b, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England.” <i>Lethaia</i> 8(4).</div>
   <div class="csl-entry">Kinchy, A. 2012, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. Cambridge, Mass.: MIT Press.</div>
-  <div class="csl-entry">Koseki, A., H. Momose, M. Kawahito, &#38; others 2002, <i>Compiler</i>. US.</div>
+  <div class="csl-entry">Koseki, Akira, Hiroyuki Momose, Motohiro Kawahito &#38; Hideaki Komatsu 2002, <i>Compiler</i>. US.</div>
   <div class="csl-entry">Morri, I. 2010, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz 2014, “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510.</div>
   <div class="csl-entry">O’Brien, J. A. 1994, <i>Introduction to Information Systems</i>. Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc, <i>About OCLC: History of Cooperation</i> (<a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>).</div>
   <div class="csl-entry">Park, Jung-Ran &#38; Yuji Tosaka 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i> 48(8).</div>
-  <div class="csl-entry">Peebles, Peyton Z. 2001, <i>Probability, Random Variables, and Random Signal Principles</i>. New York: McGraw-Hill.</div>
+  <div class="csl-entry">Peebles, Peyton Z., Jr. 2001, <i>Probability, Random Variables, and Random Signal Principles</i>. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, Adrian 2011, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry">Roberson, J. Alan &#38; Eric G. Burneson 2011, “Drinking Water Standards, Regulations and Goals.” In American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. New York: McGraw-Hill.</div>
   <div class="csl-entry">Saito, M. &#38; K. Miyazaki 2006, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i> 57(5/6).</div>
@@ -222,7 +222,7 @@ Undefined
   <div class="csl-entry">Tachibana, Ryuki, Shuhichi Shimizu, Seiji Kobayshi &#38; Taiga Nakamura 2005, <i>Electronic Watermarking Method and System</i>. US.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration 1990, <i>Guidelines for Handling Excavated Acid-Producing Material</i>. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Walls, Susan C., William J. Barichivich &#38; Mary E. Brown 2013, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i> 2(1).</div>
-  <div class="csl-entry">Weinstein, L. &#38; M. N. Swertz 1974, “Pathogenic Properties of Invading Microorganism.” In William A. Sodeman, Jr &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>. Philadelphia: Saunders.</div>
+  <div class="csl-entry">Weinstein, L. &#38; M. N. Swertz 1974, “Pathogenic Properties of Invading Microorganism.” In William A. Sodeman Jr &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>. Philadelphia: Saunders.</div>
   <div class="csl-entry">World Health Organization 1970, <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. Geneva: WHO.</div>
   <div class="csl-entry">Yufin, Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema.</div>
 </div>

@@ -58,7 +58,7 @@ Undefined
   <div class="csl-entry">[11]	赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011.</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003.</div>
-  <div class="csl-entry">[14]	Peebles P Z. Probability, random variables, and random signal Principles[M]. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[14]	Peebles P Z Jr. Probability, random variables, and random signal Principles[M]. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[15]	Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Baldock P. Developing early childhood services: Past, present and Future[M]. Rotterdam: Open University Press, 2011.</div>
   <div class="csl-entry">[17]	Fan X, Sommers C H. Food irradiation research and Technology[M]. Ames, Iowa: Blackwell Publishing, 2013.</div>
@@ -72,7 +72,7 @@ Undefined
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984(1984).</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957(1957).</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883(1883).</div>
-  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, others. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
+  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 2013-01-12(2).</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-12.</div>
   <div class="csl-entry">[31]	李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225-228.</div>
@@ -140,10 +140,10 @@ Undefined
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva. WHO. 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	Calms R B. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns B R. Infrared spectroscopic studies on solid Oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 中国. 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法[P]. 中国. 2001-10-24.</div>
-  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, others. Compiler[P]. US. 2002-05-25.</div>
+  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, Komatsu H. Compiler[P]. US. 2002-05-25.</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996: 2-3.</div>
@@ -158,7 +158,7 @@ Undefined
   <div class="csl-entry">[111]	Fourney M E. Advances in holographic Photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.</div>
-  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, others. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
+  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">[115]	陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.</div>
   <div class="csl-entry">[116]	Des Marais D J, Strauss H, Summons R E, Hayes J M. Carbon isotope evidence for the stepwise oxidation of the Proterozoic Environment[J]. Nature, 1992, 359(6396): 605-609.</div>
   <div class="csl-entry">[117]	Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
@@ -168,7 +168,7 @@ Undefined
   <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化[N]. 2000-11-20(15).</div>
   <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 2000-11-12(7).</div>
   <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 2000-01-12.</div>
-  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, others. 雾霾来袭, 如何突围?[N]. 2013-01-12.</div>
+  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 雾霾来袭, 如何突围?[N]. 2013-01-12.</div>
   <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道[EB/OL](2001-12-19).</div>
   <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪[EB/OL](2012-05-03).</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library Laws[EB/OL]([no date]).</div>
