@@ -1020,13 +1020,12 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 显示效果：
 
 <blockquote>
-  Black<br>
-  (1948: pp.66)<br>
-  (吉登斯，2000：第53页）<br>
-  (布伦纳，1999）<br>
-  (Ahmad and Wang, 1991)<br>
-  (Riskin et al., 2001)<br>
-  (王美今和张松，2000）<br>
+  （1948: pp.66）<br>
+  （吉登斯，2000：第53页）<br>
+  （布伦纳，1999）<br>
+  （Ahmad and Wang, 1991）<br>
+  （Riskin et al., 2001）<br>
+  （王美今和张松，2000）<br>
 </blockquote>
 
 <blockquote>

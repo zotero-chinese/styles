@@ -11,7 +11,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2023-06-08T17:29:57+08:00</updated>
+    <summary>1. 样式的默认语言为英文。其他语言的文献需要在 `language` 字段填写对应的语言代码（如 `zh-CN`）；2. CSL 无法实现要求的中英文混排。</summary>
+    <updated>2023-06-09T13:10:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -39,7 +40,7 @@
     </terms>
   </locale>
   <!-- 主要责任者 -->
-  <macro name="author-en">
+  <macro name="author-bib-en">
     <names variable="author">
       <name and="text" delimiter-precedes-last="always" name-as-sort-order="first"/>
       <substitute>
@@ -55,7 +56,7 @@
       </substitute>
     </names>
   </macro>
-  <macro name="author-zh">
+  <macro name="author-bib-zh">
     <names variable="author">
       <name delimiter="、"/>
       <substitute>
@@ -103,6 +104,12 @@
         <text macro="anon"/>
       </substitute>
     </names>
+  </macro>
+  <!-- 出版年 -->
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year" range-delimiter="-"/>
+    </date>
   </macro>
   <macro name="anon">
     <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
@@ -250,22 +257,6 @@
       </if>
     </choose>
   </macro>
-  <!-- 出版年 -->
-  <macro name="issued-year">
-    <choose>
-      <if is-uncertain-date="issued">
-        <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
-        <date variable="issued" prefix="[" suffix="]">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </if>
-      <else>
-        <date variable="issued">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </else>
-    </choose>
-  </macro>
   <macro name="locator-en">
     <choose>
       <if is-numeric="locator">
@@ -294,7 +285,7 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=", ">
-          <text macro="author-en"/>
+          <text macro="author-bib-en"/>
           <text macro="title-en"/>
           <text macro="container-periodical-en"/>
         </group>
@@ -302,7 +293,7 @@
       <else>
         <group delimiter=". ">
           <group delimiter=", ">
-            <text macro="author-en"/>
+            <text macro="author-bib-en"/>
             <text macro="title-en"/>
             <text macro="container-booklike-en"/>
           </group>
@@ -315,7 +306,7 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter="，">
-          <text macro="author-zh"/>
+          <text macro="author-bib-zh"/>
           <text macro="title-zh"/>
           <text macro="container-periodical-zh"/>
         </group>
@@ -323,7 +314,7 @@
       <else>
         <group delimiter="。">
           <group delimiter="，">
-            <text macro="author-zh"/>
+            <text macro="author-bib-zh"/>
             <text macro="title-zh"/>
             <text macro="container-booklike-zh"/>
           </group>
@@ -337,16 +328,16 @@
       <group delimiter="：">
         <group delimiter="，">
           <text macro="author-intext-zh"/>
-          <text macro="issued-year"/>
+          <text macro="date"/>
         </group>
         <text macro="locator-zh"/>
       </group>
     </layout>
-    <layout prefix="(" suffix=")" delimiter="; ">
+    <layout prefix="（" suffix="）" delimiter="；">
       <group delimiter=": ">
         <group delimiter=", ">
           <text macro="author-intext-en"/>
-          <text macro="issued-year"/>
+          <text macro="date"/>
         </group>
         <text macro="locator-en"/>
       </group>
@@ -354,8 +345,8 @@
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
     <sort>
-      <key macro="author-en"/>
-      <key macro="issued-year"/>
+      <key macro="author-bib-en"/>
+      <key macro="date"/>
     </sort>
     <layout suffix="。" locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>

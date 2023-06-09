@@ -7,12 +7,12 @@
 ### 引注
 
 Black<br>
-(1948: pp.66)<br>
-(吉登斯，2000：第53页）<br>
-(布伦纳，1999）<br>
-(Ahmad and Wang, 1991)<br>
-(Riskin et al., 2001)<br>
-(王美今和张松，2000）<br>
+（1948: pp.66）<br>
+（吉登斯，2000：第53页）<br>
+（布伦纳，1999）<br>
+（Ahmad and Wang, 1991）<br>
+（Riskin et al., 2001）<br>
+（王美今和张松，2000）<br>
 
 ### 参考文献表
 
@@ -29,12 +29,12 @@ Black<br>
 
 ### 引注
 
-(Black, 1948)<br>
-(吉登斯，2000）<br>
-(布伦纳，1999）<br>
-(Ahmad and Wang, 1991)<br>
-(Riskin et al., 2001)<br>
-(王美今和张松，2000）<br>
+（Black, 1948）<br>
+（吉登斯，2000）<br>
+（布伦纳，1999）<br>
+（Ahmad and Wang, 1991）<br>
+（Riskin et al., 2001）<br>
+（王美今和张松，2000）<br>
 
 ### 参考文献表
 
@@ -51,15 +51,15 @@ Black<br>
 
 ### 引注
 
-(王临惠，2010：第1194页）<br>
-(Crane, 1972)<br>
-(贾东琴和柯平，2011）<br>
-(Kennedy and Garrison, 1975a)<br>
-(Kennedy and Garrison, 1975b)<br>
-(王临惠等，2010）<br>
-(Frese et al., 2013)<br>
-(陈晋镳等，1980）<br>
-(Myburg et al., 2014)<br>
+（王临惠，2010：第1194页）<br>
+（Crane, 1972）<br>
+（贾东琴和柯平，2011）<br>
+（Kennedy and Garrison, 1975a）<br>
+（Kennedy and Garrison, 1975b）<br>
+（王临惠等，2010）<br>
+（Frese et al., 2013）<br>
+（陈晋镳等，1980）<br>
+（Myburg et al., 2014）<br>
 
 ### 参考文献表
 
