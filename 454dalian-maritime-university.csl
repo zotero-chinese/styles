@@ -299,8 +299,9 @@
           <group delimiter="">
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
-            <text macro="issued-year" suffix=": "/>
-            <text macro="book_seleced_page" suffix="."/>
+            <text macro="issued-year" />
+            <text macro="book_seleced_page" prefix=":"/>
+            <text suffix="."/>
           </group>
         </group>
       </else-if>
