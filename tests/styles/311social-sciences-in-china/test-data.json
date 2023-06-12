@@ -1006,5 +1006,80 @@
 				]
 			]
 		}
+	},
+    {
+		"id": "z-test-1",
+		"type": "book",
+		"collection-title": "东方编译所译丛",
+		"event-place": "上海",
+		"ISBN": "978-7-208-05912-2",
+		"language": "zh-CN",
+		"note": "titleTranslation:",
+		"number-of-pages": "484",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"title": "世界政治理论的探索与争鸣",
+		"editor": [
+			{
+				"literal": "彼得·卡赞斯坦"
+			},
+			{
+				"literal": "罗伯特·基欧汉"
+			},
+			{
+				"literal": "斯蒂芬·克拉斯纳"
+			}
+		],
+		"translator": [
+			{
+				"literal": "秦亚青"
+			},
+			{
+				"literal": "苏长和"
+			},
+			{
+				"literal": "门洪华"
+			},
+			{
+				"literal": "魏玲"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					1
+				]
+			]
+		}
+	},
+    {
+		"id": "z-test-2",
+		"type": "book",
+		"event-place": "香港",
+		"language": "zh-CN",
+		"publisher": "香港中文大学出版社",
+		"publisher-place": "香港",
+		"title": "中国人留学日本史",
+		"author": [
+			{
+				"literal": "实藤惠秀"
+			}
+		],
+		"translator": [
+			{
+				"literal": "谭汝谦"
+			},
+			{
+				"literal": "林启彦"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
 	}
 ]
