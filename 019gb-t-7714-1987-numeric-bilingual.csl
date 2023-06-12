@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2023-06-10T18:00:15+08:00</updated>
+    <updated>2023-06-10T18:30:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -278,7 +278,7 @@
         </if>
         <else>
           <number variable="number-of-volumes"/>
-          <label variable="number-of-volume" form="short"/>
+          <label variable="number-of-volumes" form="short"/>
         </else>
       </choose>
     </group>
@@ -288,8 +288,8 @@
     <group delimiter="; ">
       <text variable="collection-title"/>
       <group delimiter=" ">
-        <label variable="colection-number"/>
-        <text variable="colection-number"/>
+        <label variable="collection-number"/>
+        <text variable="collection-number"/>
       </group>
     </group>
   </macro>
