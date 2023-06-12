@@ -2,17 +2,19 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" delimiter-precedes-last="never" et-al-min="4" et-al-use-first="1" sort-separator="；" page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
   <info>
     <title>文学评论</title>
-    <id>http://www.zotero.org/styles/wxpl</id>
+    <id>http://www.zotero.org/styles/literary-review</id>
+    <link href="http://www.zotero.org/styles/literary-review" rel="self"/>
+    <link href="http://wxpl.ajcass.org/Home/Index" rel="documentation"/>
     <author>
-      <name> edward zhou</name>
+      <name>Edward Zhou</name>
       <email>edwardzhoujiaxi@gmail.com</email>
     </author>
     <category citation-format="note"/>
-    <category field="chinese social science"/>
-    <category field="chinese humanities"/>
+    <category field="literature"/>
+    <issn>0511-4683</issn>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文学评论》引文规范改制，具体用法和特性见说明</summary>
-    <published>2021-02-24</published>
-    <updated>2021-02-24</updated>
+    <published>2021-02-24T00:00:00+08:00</published>
+    <updated>2021-02-24T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -123,7 +125,7 @@
     </group>
   </macro>
   <citation>
-    <layout locale="en English en-GB en-gb en-us en-US eng" suffix="." delimiter="; ">
+    <layout locale="en" suffix="." delimiter="; ">
       <choose>
         <if position="ibid-with-locator">
           <group delimiter="">
@@ -518,7 +520,7 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en English en-GB en-gb en-us en-US eng" suffix="." delimiter="; ">
+    <layout locale="en" suffix="." delimiter="; ">
       <choose>
         <if type="book" match="any">
           <names variable="author" suffix=", ">

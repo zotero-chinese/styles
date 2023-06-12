@@ -2,17 +2,20 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" delimiter-precedes-last="never" et-al-min="4" et-al-use-first="1" sort-separator="；" page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
   <info>
     <title>探索与争鸣</title>
-    <id>http://www.zotero.org/styles/tsyzm</id>
+    <id>http://www.zotero.org/styles/exploration-and-free-views</id>
+    <link href="http://www.zotero.org/styles/exploration-and-free-views" rel="self"/>
+    <link href="http://www.tsyzm.com/CN/column/column6.shtml" rel="documentation"/>
     <author>
-      <name> edward zhou</name>
+      <name>Edward Zhou</name>
       <email>edwardzhoujiaxi@gmail.com</email>
     </author>
     <category citation-format="note"/>
-    <category field="chinese social science"/>
-    <category field="chinese humanities"/>
+    <category field="social_science"/>
+    <category field="humanities"/>
+    <issn>1004-2229</issn>
     <summary>根据fanzhen《历史研究》引文规范以及众多国际问题期刊引文规范改制，支持中英混排，仅支持今人论文、图书、章节、学位论文、网页</summary>
-    <published>2021-01-16</published>
-    <updated>2021-01-16</updated>
+    <published>2021-01-16T00:00:00+08:00</published>
+    <updated>2021-01-16T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -170,7 +173,7 @@
     </group>
   </macro>
   <citation>
-    <layout locale="en English en-GB en-gb en-us en-US eng" suffix="" delimiter=" ">
+    <layout locale="en" suffix="" delimiter=" ">
       <choose>
         <if position="ibid-with-locator">
           <group delimiter="">
@@ -261,7 +264,7 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en English en-GB en-gb en-us en-US eng" suffix="" delimiter=" ">
+    <layout locale="en" suffix="" delimiter=" ">
       <choose>
         <if position="ibid-with-locator">
           <group delimiter="">
