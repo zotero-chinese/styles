@@ -40,6 +40,7 @@
       <term name="close-inner-quote">’</term>
       <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="page-range-delimiter">&#8212;</term>
+      <term name="author" form="short">著</term>
       <term name="editor" form="short">主编</term>
       <term name="compiler" form="short">整理</term>
     </terms>
@@ -50,21 +51,67 @@
     </terms>
   </locale>
   <macro name="author-en">
-    <names variable="author compiler translator" delimiter=", ">
+    <names variable="author" delimiter=", ">
       <name and="text"/>
       <label form="short" prefix=", "/>
       <substitute>
-        <names variable="editor"/>
+        <names variable="compiler"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
       </substitute>
     </names>
   </macro>
   <macro name="author-zh">
-    <names variable="author compiler translator" delimiter="，">
+    <choose>
+      <if variable="translator">
+        <!-- 译著需要显示“著” -->
+        <names variable="author">
+          <name delimiter="、"/>
+          <label form="short"/>
+          <substitute>
+            <names variable="compiler"/>
+            <choose>
+              <if variable="container-title" match="none">
+                <names variable="editor"/>
+              </if>
+            </choose>
+          </substitute>
+        </names>
+      </if>
+      <else>
+        <names variable="author">
+          <name delimiter="、"/>
+          <substitute>
+            <names variable="compiler">
+              <name delimiter="、"/>
+              <label form="short"/>
+            </names>
+            <choose>
+              <if variable="container-title" match="none">
+                <names variable="editor">
+                  <name delimiter="、"/>
+                  <label form="short"/>
+                </names>
+              </if>
+            </choose>
+          </substitute>
+        </names>
+      </else>
+    </choose>
+  </macro>
+  <macro name="secondary-contributors-en">
+    <names variable="translator">
+      <name and="text"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+  <macro name="secondary-contributors-zh">
+    <names variable="translator">
       <name delimiter="、"/>
       <label form="short"/>
-      <substitute>
-        <names variable="editor"/>
-      </substitute>
     </names>
   </macro>
   <macro name="volume-en">
@@ -500,6 +547,7 @@
   <macro name="source-en">
     <group delimiter=", ">
       <text macro="author-en"/>
+      <text macro="secondary-contributors-en"/>
       <text macro="title-en"/>
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
@@ -543,7 +591,10 @@
   </macro>
   <macro name="source-zh">
     <group delimiter="：">
-      <text macro="author-zh"/>
+      <group delimiter="，">
+        <text macro="author-zh"/>
+        <text macro="secondary-contributors-zh"/>
+      </group>
       <group delimiter="，">
         <text macro="title-zh"/>
         <choose>

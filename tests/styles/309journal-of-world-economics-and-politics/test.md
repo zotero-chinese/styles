@@ -17,7 +17,7 @@ Undefined
 ### 引注
 
 <sup>1</sup> 王铁崖：《国际法引论》，北京大学出版社1998年版。<br>
-<sup>2</sup> 汉斯·摩根索，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。<br>
+<sup>2</sup> 汉斯·摩根索著，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。<br>
 <sup>3</sup> 王缉思：《民族与民族主义》，载《欧洲研究》，1993年第5期，第14–19页。<br>
 <sup>4</sup> 赵汀阳：《“天下”概念与世界制度》，载秦亚主编：《中国学者看世界: 国际秩序卷》，新世界出版社，2007年版，第3–35页。<br>
 <sup>5</sup> 《论语.学而》。<br>
@@ -41,14 +41,14 @@ Undefined
 <sup>23</sup> U.S. Department of State, <i>Foreign Relations of United States (FRUS), 1955–1957, Vol.3</i>, Washington, D.C.: U.S. Government Printing Office, 1990.<br>
 <sup>24</sup> 《中国对欧盟政策文件》，<a href="https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml">https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml</a>，访问时间：2020年12月1日。<br>
 <sup>25</sup> The United Nations, “Transforming Our World: The 2030 Agenda for Sustainable Development,” <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld</a>, 访问时间: 2020年12月1日.<br>
-<sup>26</sup> 秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。<br>
-<sup>27</sup> 实藤惠秀，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。<br>
+<sup>26</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编，秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。<br>
+<sup>27</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。<br>
 
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	王铁崖：《国际法引论》，北京大学出版社1998年版。</div>
-  <div class="csl-entry">[2]	汉斯·摩根索，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。</div>
+  <div class="csl-entry">[2]	汉斯·摩根索著，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。</div>
   <div class="csl-entry">[3]	王缉思：《民族与民族主义》，载《欧洲研究》，1993年第5期，第14–19页。</div>
   <div class="csl-entry">[4]	赵汀阳：《“天下”概念与世界制度》，载秦亚主编：《中国学者看世界: 国际秩序卷》，新世界出版社，2007年版，第3–35页。</div>
   <div class="csl-entry">[5]	《论语.学而》。</div>
@@ -72,8 +72,8 @@ Undefined
   <div class="csl-entry">[23]	U.S. Department of State, <i>Foreign Relations of United States (FRUS), 1955–1957, Vol.3</i>, Washington, D.C.: U.S. Government Printing Office, 1990.</div>
   <div class="csl-entry">[24]	《中国对欧盟政策文件》，<a href="https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml">https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml</a>，访问时间：2020年12月1日。</div>
   <div class="csl-entry">[25]	The United Nations, “Transforming Our World: The 2030 Agenda for Sustainable Development,” <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld</a>, 访问时间: 2020年12月1日.</div>
-  <div class="csl-entry">[26]	秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。</div>
-  <div class="csl-entry">[27]	实藤惠秀，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。</div>
+  <div class="csl-entry">[26]	彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编，秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。</div>
+  <div class="csl-entry">[27]	实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。</div>
 </div>
 
 ## 默认测试
@@ -84,7 +84,7 @@ Undefined
 <sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
 <sup>3</sup> I. Morri, <i>Why the West Rules for Now</i>.<br>
 <sup>4</sup> I. Morri, <i>Why the West Rules for Now</i>, p.260.<br>
-<sup>5</sup> 罗杰斯，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。<br>
+<sup>5</sup> 罗杰斯著，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。<br>
 <sup>6</sup> I. Morri, <i>Why the West Rules for Now</i>, pp.326–329.<br>
 
 ### 参考文献表
@@ -92,14 +92,14 @@ Undefined
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, Vol.96 1996, p.903.</div>
   <div class="csl-entry">[2]	I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[3]	罗杰斯，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。</div>
+  <div class="csl-entry">[3]	罗杰斯著，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。</div>
 </div>
 
 ### 全部文献
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	陈登原：《国史旧闻》第 1 卷，北京：中华书局2000年版，第29页。</div>
-  <div class="csl-entry">[2]	哈里森·沃尔德伦，谢远涛译：《经济数学与金融数学》，北京：中国人民大学出版社2012年版，第235–236页。</div>
+  <div class="csl-entry">[2]	哈里森·沃尔德伦著，谢远涛译：《经济数学与金融数学》，北京：中国人民大学出版社2012年版，第235–236页。</div>
   <div class="csl-entry">[3]	北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所：《历代王朝与民族宗教》，北京：民族出版社2012年版，第112页。</div>
   <div class="csl-entry">[4]	全国信息与文献标准化技术委员会：《信息与文献 都柏林核心元数据元素集》，北京：中国标准出版社2010年，第2–3页。</div>
   <div class="csl-entry">[5]	徐光宪、王祥云：《物质结构》，北京：科学出版社2010年版。</div>
@@ -115,7 +115,7 @@ Undefined
   <div class="csl-entry">[15]	Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Peter Baldock, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press, 2011, p.105.</div>
   <div class="csl-entry">[17]	Xuetong Fan and Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp.25–26.</div>
-  <div class="csl-entry">[18]	王夫之主编：《周易外传: 卷 5》，载《船山全书》第 6 册，长沙：岳麓书社，2011年版，第1109页。</div>
+  <div class="csl-entry">[18]	《周易外传: 卷 5》，载王夫之主编：《船山全书》第 6 册，长沙：岳麓书社，2011年版，第1109页。</div>
   <div class="csl-entry">[19]	程根伟：《1998 年长江洪水的成因与减灾对策》，载许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年版，第32–36页。</div>
   <div class="csl-entry">[20]	陈晋镳等：《蓟县震旦亚界研究》，载中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年版，第56–114页。</div>
   <div class="csl-entry">[21]	马克思：《政治经济学批判》，载马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年版，第302页。</div>
@@ -147,13 +147,13 @@ Undefined
   <div class="csl-entry">[47]	William Deverell and David Igler, “A Companion to California History,” Doctoral Dissertation, New York: John Wiley &#38; Sons, 2013, pp.21–22.</div>
   <div class="csl-entry">[48]	S. K. Baker and M. E. Jackson, <i>The Future of Resource Sharing</i>, New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[49]	B. E. Chernik, <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
-  <div class="csl-entry">[50]	尼葛洛庞帝，胡泳、范海燕译：《数字化生存》，海口：海南出版社1996年版。</div>
+  <div class="csl-entry">[50]	尼葛洛庞帝著，胡泳、范海燕译：《数字化生存》，海口：海南出版社1996年版。</div>
   <div class="csl-entry">[51]	汪冰：《电子图书馆理论与实践研究》，北京：北京图书馆出版社1997年版，第16页。</div>
   <div class="csl-entry">[52]	杨宗英：《电子图书馆的现实模型》，载《中国图书馆学报》，1996年第2期，第24–29页。</div>
   <div class="csl-entry">[53]	Lawrence Dowler, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment,” <i>Journal of Library Administration</i>, Vol.21, No.1/2 1995, pp.5–26.</div>
   <div class="csl-entry">[54]	Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, Vol.96 1996, p.903.</div>
   <div class="csl-entry">[55]	I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[56]	罗杰斯，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。</div>
+  <div class="csl-entry">[56]	罗杰斯著，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。</div>
   <div class="csl-entry">[57]	陈登原：《国史旧闻》第 1 卷，北京：中华书局2000年版，第29页。</div>
   <div class="csl-entry">[58]	Diana Crane, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.</div>
   <div class="csl-entry">[59]	Margaret F. Stieg, “The Information Needs of Historians,” <i>College &#38; Research Libraries</i>, Vol.42, No.6 1981, pp.549–560.</div>
@@ -168,13 +168,13 @@ Undefined
   <div class="csl-entry">[68]	张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社2002年版，第288页。</div>
   <div class="csl-entry">[69]	皮锡瑞：《师伏堂日记》第 4 册，北京：北京图书馆出版社2009年版，第155页。</div>
   <div class="csl-entry">[70]	胡承正、周详、缪灵：《理论物理概论》上，武汉：武汉大学出版社2010年版，第112页。</div>
-  <div class="csl-entry">[71]	美国妇产科医师学会，段涛、杨慧霞译：《新生儿脑病和脑性瘫痪发病机制与病理生理》，北京：人民卫生出版社2010年版，第38–39页。</div>
+  <div class="csl-entry">[71]	美国妇产科医师学会著，段涛、杨慧霞译：《新生儿脑病和脑性瘫痪发病机制与病理生理》，北京：人民卫生出版社2010年版，第38–39页。</div>
   <div class="csl-entry">[72]	《康熙字典: 巳集上: 水部》（同文书局影印本），北京：中华书局1962年版，第50页。</div>
   <div class="csl-entry">[73]	汪昂：《增订本草备要》（刻本）四卷，京都：老二酉堂1881年版。</div>
   <div class="csl-entry">[74]	蒋有绪等：《中国森林群落分类及其群落特征》，北京：科学出版社1998年版。</div>
   <div class="csl-entry">[75]	中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团：《投资台湾: 大陆企业赴台投资指南》，北京：九州出版社2013年版。</div>
-  <div class="csl-entry">[76]	罗斯基，唐巧天、毛立坤、姜修宪译：《战前中国经济的增长》，杭州：浙江大学出版社2009年版。</div>
-  <div class="csl-entry">[77]	库恩，金吾伦、胡新和译：《科学革命的结构: 第 4 版》（第2版），北京：北京大学出版社2012年版。</div>
+  <div class="csl-entry">[76]	罗斯基著，唐巧天、毛立坤、姜修宪译：《战前中国经济的增长》，杭州：浙江大学出版社2009年版。</div>
+  <div class="csl-entry">[77]	库恩著，金吾伦、胡新和译：《科学革命的结构: 第 4 版》（第2版），北京：北京大学出版社2012年版。</div>
   <div class="csl-entry">[78]	侯文顺：《高分子物理: 高分子材料分析、选择与改性》，北京：化学工业出版社2010年版，第119页。</div>
   <div class="csl-entry">[79]	W. Crawford and M. Gorman, <i>Future Libraries: Dreams, Madness, &#38; Reality</i>, Chicago: American Library Association, 1995.</div>
   <div class="csl-entry">[80]	International Federation of Library Association and Institutions, <i>Names of Persons: National Usages for Entry in Catalogues</i>, London: IFLA International Office for UBC, 1977.</div>

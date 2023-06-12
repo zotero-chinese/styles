@@ -5,7 +5,7 @@
 ## 引注
 
 <sup>1</sup> 王铁崖：《国际法引论》，北京大学出版社1998年版。<br>
-<sup>2</sup> 汉斯·摩根索，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。<br>
+<sup>2</sup> 汉斯·摩根索著，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。<br>
 <sup>3</sup> 王缉思：《民族与民族主义》，载《欧洲研究》，1993年第5期，第14–19页。<br>
 <sup>4</sup> 赵汀阳：《“天下”概念与世界制度》，载秦亚主编：《中国学者看世界: 国际秩序卷》，新世界出版社，2007年版，第3–35页。<br>
 <sup>5</sup> 《论语.学而》。<br>
@@ -29,14 +29,14 @@
 <sup>23</sup> U.S. Department of State, <i>Foreign Relations of United States (FRUS), 1955–1957, Vol.3</i>, Washington, D.C.: U.S. Government Printing Office, 1990.<br>
 <sup>24</sup> 《中国对欧盟政策文件》，<a href="https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml">https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml</a>，访问时间：2020年12月1日。<br>
 <sup>25</sup> The United Nations, “Transforming Our World: The 2030 Agenda for Sustainable Development,” <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld</a>, 访问时间: 2020年12月1日.<br>
-<sup>26</sup> 秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。<br>
-<sup>27</sup> 实藤惠秀，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。<br>
+<sup>26</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编，秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。<br>
+<sup>27</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。<br>
 
 ## 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	王铁崖：《国际法引论》，北京大学出版社1998年版。</div>
-  <div class="csl-entry">[2]	汉斯·摩根索，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。</div>
+  <div class="csl-entry">[2]	汉斯·摩根索著，杨岐鸣等译：《国家间的政治: 为权力与和平而斗争》，商务印书馆1993年版。</div>
   <div class="csl-entry">[3]	王缉思：《民族与民族主义》，载《欧洲研究》，1993年第5期，第14–19页。</div>
   <div class="csl-entry">[4]	赵汀阳：《“天下”概念与世界制度》，载秦亚主编：《中国学者看世界: 国际秩序卷》，新世界出版社，2007年版，第3–35页。</div>
   <div class="csl-entry">[5]	《论语.学而》。</div>
@@ -60,6 +60,6 @@
   <div class="csl-entry">[23]	U.S. Department of State, <i>Foreign Relations of United States (FRUS), 1955–1957, Vol.3</i>, Washington, D.C.: U.S. Government Printing Office, 1990.</div>
   <div class="csl-entry">[24]	《中国对欧盟政策文件》，<a href="https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml">https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml</a>，访问时间：2020年12月1日。</div>
   <div class="csl-entry">[25]	The United Nations, “Transforming Our World: The 2030 Agenda for Sustainable Development,” <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld</a>, 访问时间: 2020年12月1日.</div>
-  <div class="csl-entry">[26]	秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。</div>
-  <div class="csl-entry">[27]	实藤惠秀，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。</div>
+  <div class="csl-entry">[26]	彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编，秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。</div>
+  <div class="csl-entry">[27]	实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。</div>
 </div>
