@@ -37,13 +37,13 @@
 <sup>29</sup> 《公司法》（2005年修订）。<br>
 <sup>30</sup> 《公司法》（2013年修正）。<br>
 <sup>31</sup> 《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。<br>
-<sup>32</sup> 《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》。<br>
+<sup>32</sup> 《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年9月4日第七届全国人大常委会第二十一次会议通过。<br>
 <sup>33</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。<br>
-<sup>34</sup> 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》第100条，法释〔2018〕1号。<br>
+<sup>34</sup> 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》（法释〔2018〕1号），第100条。<br>
 <sup>35</sup> 《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，国发〔2018〕22号。<br>
 <sup>36</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。<br>
-<sup>37</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年版。<br>
-<sup>38</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》。<br>
+<sup>37</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年12月23日在第十二届全国人民代表大会常务委员会第六次会议上。<br>
+<sup>38</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。<br>
 <sup>39</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。<br>
 <sup>40</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。<br>
 <sup>41</sup> Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.<br>
@@ -125,13 +125,13 @@
   <div class="csl-entry">〔26〕	《公司法》（2005年修订）。</div>
   <div class="csl-entry">〔27〕	《公司法》（2013年修正）。</div>
   <div class="csl-entry">〔28〕	《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。</div>
-  <div class="csl-entry">〔29〕	《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》。</div>
+  <div class="csl-entry">〔29〕	《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年9月4日第七届全国人大常委会第二十一次会议通过。</div>
   <div class="csl-entry">〔30〕	《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>
-  <div class="csl-entry">〔31〕	《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》第100节，法释〔2018〕1号。</div>
+  <div class="csl-entry">〔31〕	《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》（法释〔2018〕1号），第100节。</div>
   <div class="csl-entry">〔32〕	《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，国发〔2018〕22号。</div>
   <div class="csl-entry">〔33〕	国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
-  <div class="csl-entry">〔34〕	信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年版。</div>
-  <div class="csl-entry">〔35〕	《中共中央关于全面推进依法治国若干重大问题的决定》。</div>
+  <div class="csl-entry">〔34〕	信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年12月23日在第十二届全国人民代表大会常务委员会第六次会议上。</div>
+  <div class="csl-entry">〔35〕	《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。</div>
   <div class="csl-entry">〔36〕	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。</div>
   <div class="csl-entry">〔37〕	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
   <div class="csl-entry">〔38〕	Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.</div>
@@ -211,13 +211,13 @@
 <sup>26</sup> 《公司法》（2005年修订）。<br>
 <sup>27</sup> 《公司法》（2013年修正）。<br>
 <sup>28</sup> 《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。<br>
-<sup>29</sup> 《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》。<br>
+<sup>29</sup> 《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年9月4日第七届全国人大常委会第二十一次会议通过。<br>
 <sup>30</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。<br>
-<sup>31</sup> 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》第100节，法释〔2018〕1号。<br>
+<sup>31</sup> 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》（法释〔2018〕1号），第100节。<br>
 <sup>32</sup> 《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，国发〔2018〕22号。<br>
 <sup>33</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。<br>
-<sup>34</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年版。<br>
-<sup>35</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》。<br>
+<sup>34</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年12月23日在第十二届全国人民代表大会常务委员会第六次会议上。<br>
+<sup>35</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。<br>
 <sup>36</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。<br>
 <sup>37</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。<br>
 <sup>38</sup> Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.<br>
@@ -297,13 +297,13 @@
   <div class="csl-entry">〔26〕	《公司法》（2005年修订）。</div>
   <div class="csl-entry">〔27〕	《公司法》（2013年修正）。</div>
   <div class="csl-entry">〔28〕	《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》（已废止），法发〔1993〕36号。</div>
-  <div class="csl-entry">〔29〕	《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》。</div>
+  <div class="csl-entry">〔29〕	《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年9月4日第七届全国人大常委会第二十一次会议通过。</div>
   <div class="csl-entry">〔30〕	《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>
-  <div class="csl-entry">〔31〕	《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》第100节，法释〔2018〕1号。</div>
+  <div class="csl-entry">〔31〕	《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》（法释〔2018〕1号），第100节。</div>
   <div class="csl-entry">〔32〕	《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，国发〔2018〕22号。</div>
   <div class="csl-entry">〔33〕	国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
-  <div class="csl-entry">〔34〕	信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年版。</div>
-  <div class="csl-entry">〔35〕	《中共中央关于全面推进依法治国若干重大问题的决定》。</div>
+  <div class="csl-entry">〔34〕	信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年12月23日在第十二届全国人民代表大会常务委员会第六次会议上。</div>
+  <div class="csl-entry">〔35〕	《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。</div>
   <div class="csl-entry">〔36〕	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。</div>
   <div class="csl-entry">〔37〕	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
   <div class="csl-entry">〔38〕	Barbara Ward, <i>Progress for a Small Planet</i>, Harvard Business Review, 1979, p. 89.</div>
@@ -414,8 +414,8 @@
   <div class="csl-entry">〔37〕	邓一刚：《全智能节电器》，2006年版。</div>
   <div class="csl-entry">〔38〕	西安电子科技大学：《光折变自适应光外差探测方法》，2002年版。</div>
   <div class="csl-entry">〔39〕	Ryuki Tachibana et al., <i>Electronic Watermarking Method and System</i>, 2005.</div>
-  <div class="csl-entry">〔40〕	中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年版。</div>
-  <div class="csl-entry">〔41〕	《关于转发北京市企业投资项目核准暂行实施办法的通知》，京政办发[2005]37号。</div>
+  <div class="csl-entry">〔40〕	中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年1月16日。</div>
+  <div class="csl-entry">〔41〕	《关于转发北京市企业投资项目核准暂行实施办法的通知》。</div>
   <div class="csl-entry">〔42〕	D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">〔43〕	Online Computer Library Center, Inc, <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).</div>
   <div class="csl-entry">〔44〕	A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, (22 April 2009), <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -463,8 +463,8 @@
   <div class="csl-entry">〔86〕	雷光春主编：《综合湿地管理: 综合湿地管理国际研讨会论文集》，海洋出版社2012年版。</div>
   <div class="csl-entry">〔87〕	陈志勇主编：《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，经济科学出版社2011年版。</div>
   <div class="csl-entry">〔88〕	B. V. Babu et al. eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, Springer, 2014.</div>
-  <div class="csl-entry">〔89〕	中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年版。</div>
-  <div class="csl-entry">〔90〕	汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年版。</div>
+  <div class="csl-entry">〔89〕	中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年4月16日。</div>
+  <div class="csl-entry">〔90〕	汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年9月30日。</div>
   <div class="csl-entry">〔91〕	D. Calkin, A. Ager &#38; M. Thompson, <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>, 2011.</div>
   <div class="csl-entry">〔92〕	U.S. Department of Transportation Federal Highway Administration, <i>Guidelines for Handling Excavated Acid-Producing Material</i>, U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">〔93〕	World Health Organization, <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>, WHO, 1970.</div>
