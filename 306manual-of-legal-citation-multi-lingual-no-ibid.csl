@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <summary>1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的“法学引注手册”分类，其中录入了《手册》的示例文献。3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段。4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。6. 英国案例和法文文献的支持尚不完善，需要测试反馈。7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。9. 重复引用的文献不略写。</summary>
-    <updated>2023-06-19T18:18:20+08:00</updated>
+    <updated>2023-06-20T00:25:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -503,7 +503,7 @@
   <!-- 法文引注体例 -->
   <macro name="source-fr">
     <group delimiter=", ">
-      <text macro="author-en"/>
+      <text macro="author-fr"/>
       <choose>
         <!-- 86. 法文学术文献 -->
         <if type="book">
@@ -759,7 +759,7 @@
         </group>
       </else-if>
       <!-- (四)引用法律文件 -->
-      <else-if type="legislation regulation treaty" match="any">
+      <else-if type="legislation treaty" match="any">
         <group delimiter="，">
           <group>
             <text macro="title-zh"/>
@@ -768,12 +768,69 @@
               <if variable="locator">
                 <text macro="locator-zh"/>
               </if>
-              <else>
+              <else-if variable="section">
                 <text macro="section-zh"/>
-              </else>
+              </else-if>
             </choose>
           </group>
-          <text variable="number"/>
+          <choose>
+            <if variable="chapter-number">
+              <!-- 63.2) 引用全国人大及其常委会通过的法律性质的决定 -->
+              <group>
+                <text macro="issuance-zh"/>
+                <text variable="chapter-number"/>
+                <text value="通过"/>
+              </group>
+            </if>
+          </choose>
+        </group>
+      </else-if>
+      <else-if type="regulation">
+        <group delimiter="，">
+          <text macro="title-zh"/>
+          <choose>
+            <if variable="chapter-number">
+              <!-- 63.2) 引用全国人大及其常委会通过的法律性质的决定 -->
+              <group>
+                <text macro="issuance-zh"/>
+                <text variable="chapter-number"/>
+                <text value="通过"/>
+              </group>
+            </if>
+          </choose>
+          <choose>
+            <!-- 优先使用 locator 的条文序号 -->
+            <if variable="locator">
+              <text macro="locator-zh"/>
+            </if>
+            <else-if variable="section">
+              <text macro="section-zh"/>
+            </else-if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
+        </group>
+      </else-if>
+      <else-if type="report">
+        <group delimiter="：">
+          <text macro="author-zh"/>
+          <group delimiter="，">
+            <text macro="title-zh"/>
+            <group>
+              <text macro="issuance-zh"/>
+              <choose>
+                <if variable="event-title">
+                  <!-- 63.2) 引用全国人大及其常委会通过的法律性质的决定 -->
+                  <group>
+                    <text value="在"/>
+                    <text variable="event-title"/>
+                    <text value="上"/>
+                  </group>
+                </if>
+              </choose>
+            </group>
+          </group>
         </group>
       </else-if>
       <!-- (五)引用司法案例 -->
@@ -890,6 +947,10 @@
           </if>
           <else-if variable="status">
             <text variable="status" prefix="（" suffix="）"/>
+          </else-if>
+          <else-if variable="section locator" match="any">
+            <!-- 64.1 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》(法释 〔2018〕1 号)，第 100 条。 -->
+            <text variable="number" prefix="（" suffix="）"/>
           </else-if>
         </choose>
       </else-if>
@@ -1397,7 +1458,7 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-magazine article-newspaper legislation post post-weblog webpage" match="any">
+      <else-if type="article-magazine article-newspaper legislation post post-weblog regulation report webpage" match="any">
         <date variable="issued" form="text"/>
       </else-if>
       <else>
