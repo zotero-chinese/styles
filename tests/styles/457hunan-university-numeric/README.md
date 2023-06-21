@@ -1,4 +1,4 @@
-# 457hunan-university.csl 示例
+# 457hunan-university-numeric.csl 示例
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->
 

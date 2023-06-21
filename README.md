@@ -2078,9 +2078,9 @@ available-date: 2014-01-26
 </blockquote>
 
 
-## [457hunan-university.csl]
+## [457hunan-university-numeric.csl]
 
-[湖南大学研究生学位论文撰写规范](http://gra.hnu.edu.cn/info/1276/3444.htm)样式。[chinese-gb7714-1987-numeric.csl](https://github.com/citation-style-language/styles/blob/master/chinese-gb7714-1987-numeric.csl) 基础上修改。
+《[湖南大学研究生学位论文撰写规范](http://gra.hnu.edu.cn/info/1276/3444.htm)》顺序编码制样式。[019gb-t-7714-1987-numeric-bilingual.csl]基础上修改。
 
 显示效果：
 
@@ -2333,6 +2333,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]: 015jm-chinese-std-gb-t-7714-2005-revised.csl
+[019gb-t-7714-1987-numeric-bilingual.csl]: 019gb-t-7714-1987-numeric-bilingual.csl
 [101chinese-medical-association.csl]: 101chinese-medical-association.csl
 [102transactions-of-the-chinese-society-of-agricultural-engineering.csl]: 102transactions-of-the-chinese-society-of-agricultural-engineering.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
@@ -2411,4 +2412,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [453central-south-university-of-forestry-and-technology.csl]: 453central-south-university-of-forestry-and-technology.csl
 [454dalian-maritime-university.csl]: 454dalian-maritime-university.csl
 [455china-pharmaceutical-university.csl]: 455china-pharmaceutical-university.csl
-[457hunan-university.csl]: 457hunan-university.csl
+[457hunan-university-numeric.csl]: 457hunan-university-numeric.csl

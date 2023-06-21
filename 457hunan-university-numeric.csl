@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>湖南大学</title>
-    <id>http://www.zotero.org/styles/hunan-university</id>
-    <link href="http://www.zotero.org/styles/hunan-university" rel="self"/>
+    <title>湖南大学（顺序编码）</title>
+    <id>http://www.zotero.org/styles/hunan-university-numeric</id>
+    <link href="http://www.zotero.org/styles/hunan-university-numeric" rel="self"/>
     <link href="http://www.zotero.org/styles/chinese-gb7714-1987-numeric" rel="template"/>
     <link href="http://gra.hnu.edu.cn/info/1276/3444.htm" rel="documentation"/>
     <author>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>湖南大学研究生学位论文撰写规范</summary>
-    <updated>2023-06-01T12:52:34+08:00</updated>
+    <updated>2023-06-21T15:51:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
