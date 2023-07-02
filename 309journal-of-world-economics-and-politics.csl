@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" et-al-min="4" et-al-use-first="1" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" et-al-min="4" et-al-use-first="1" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>世界经济与政治</title>
     <id>http://www.zotero.org/styles/journal-of-world-economics-and-politics</id>
@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <category field="social_science"/>
-    <updated>2022-11-04T20:06:00+08:00</updated>
+    <updated>2023-07-02T19:31:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -660,12 +660,10 @@
         <text macro="source-en"/>
       </if>
       <else>
-        <group delimiter=": ">
-          <group delimiter=", ">
-            <text macro="author-en"/>
-            <text macro="title-short-en"/>
-            <text macro="locator-en"/>
-          </group>
+        <group delimiter=", ">
+          <text macro="author-en"/>
+          <text macro="title-short-en"/>
+          <text macro="locator-en"/>
         </group>
       </else>
     </choose>
@@ -677,28 +675,23 @@
       </if>
       <else>
         <!-- 再次引证时的项目简化 -->
-        <group delimiter="：">
-          <group delimiter="，">
-            <text macro="author-zh"/>
-            <text macro="title-short-zh"/>
-            <text macro="locator-zh"/>
-          </group>
+        <group delimiter="，">
+          <text macro="author-zh"/>
+          <text macro="title-short-zh"/>
+          <text macro="locator-zh"/>
         </group>
       </else>
     </choose>
   </macro>
   <citation>
-    <layout delimiter="。" suffix="。" locale="zh">
+    <layout delimiter="；" suffix="。" locale="zh">
       <text macro="entry-layout-zh"/>
     </layout>
-    <layout delimiter=". " suffix=".">
+    <layout delimiter="; " suffix=".">
       <text macro="entry-layout-en"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
-    <sort>
-      <key macro="author-en"/>
-    </sort>
     <layout suffix="。" locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="source-zh"/>
