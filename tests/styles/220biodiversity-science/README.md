@@ -18,12 +18,12 @@
 
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">Begon M, Harper JL, Townsend CR (1986) Ecology: Individuals, Populations and Communities, 2nd edn. Blackwell Scientific Publications, Boston.</div>
-  <div class="csl-entry">International Union for Conservation of Nature (IUCN) (2000) Authority files for habitats &#38; threats. <a href="http://www.iucn.org/themes/ssc/sis/authority.html">http://www.iucn.org/themes/ssc/sis/authority.html</a> (2023-07-04)</div>
+  <div class="csl-entry">International Union for Conservation of Nature (IUCN) (2000) Authority Files for Habitats &#38; Threats. <a href="http://www.iucn.org/themes/ssc/sis/authority.html">http://www.iucn.org/themes/ssc/sis/authority.html</a> (2023-07-04)</div>
   <div class="csl-entry">Jiang ZG, Ma Y, Wu Y, Wang YX, Feng ZJ (2015) China’s mammal diversity and geographic distribution. Science Press, Beijing. (in Chinese) [蒋志刚, 马勇, 吴毅, 王应祥, 冯祚建 (2015) 中国哺乳动物多样性. 科学出版社, 北京.]</div>
   <div class="csl-entry">Lawton JH, Brown VK (1993) Redundancy in ecosystems. In: Biodiversity and Ecosystem Function (eds Schulze ED, Mooney HA), pp. 255–270. Springer-Verlag, New York.</div>
-  <div class="csl-entry">Li H, Durbin R (2011) Inference of human population history from individual whole-genome sequences. Nature, 475, 493–496.</div>
-  <div class="csl-entry">Mueller-Dombois D, Ellenberg H (1986) Aims and Methods of Vegetation Ecology. Science Press, Beijing. (in Chinese with English abstract) [鲍显诚, 张绅, 杨邦顺, 金振洲, 唐廷贵, 姚璧君, 姜汉侨 (译) (1986) 植被生态学的目的和方法. 科学出版社, 北京.]</div>
-  <div class="csl-entry">Song YC, Yan ER, Song K (2015) Synthetic comparison of eight dynamics plots in evergreen broadleaf forests, China. Biodiversity Science, 23, 139–148. (in Chinese with English abstract) [宋永昌, 阎恩荣, 宋坤 (2015) 中国常绿阔叶林 8 大动态监测样地植被的综合比较. 生物多样性, 23, 139–148.]</div>
-  <div class="csl-entry">Yu FH (2002) Adaptive Strategies of Clonal Plants Growing in Heterogeneous Environments. 博士学位论文, Institute of Botany, Chinese Academy of Sciences, Beijing. (in Chinese) [于飞海 (2002) 克隆植物对异质性环境的生态适应对策. 博士学位论文, 中国科学院植物研究所, 北京.]</div>
-  <div class="csl-entry">Zhang MH, Ma JZ (2010) Current status and protection vision of wild northeast tiger in China. Chinese Journal of Zoology, 45, 165–168. (in Chinese) [张明海, 马建章 (2010) 中国野生东北虎现状及其保护愿景展望. 动物学杂志, 45, 165–168.]</div>
+  <div class="csl-entry">Li H, Durbin R (2011) Inference of human population history from individual whole-genome sequences. Nature, 475(7357), 493–496.</div>
+  <div class="csl-entry">Mueller-Dombois D, Ellenberg H (1986) Aims and Methods of Vegetation Ecology, pp. 153–188. Science Press, Beijing. (in Chinese with English abstract) [鲍显诚, 张绅, 杨邦顺, 金振洲, 唐廷贵, 姚璧君, 姜汉侨 (译) (1986) 植被生态学的目的和方法, pp. 153–188. 科学出版社, 北京.]</div>
+  <div class="csl-entry">Song YC, Yan ER, Song K (2015) Synthetic comparison of eight dynamics plots in evergreen broadleaf forests, China. Biodiversity Science, 23(2), 139–148. (in Chinese with English abstract) [宋永昌, 阎恩荣, 宋坤 (2015) 中国常绿阔叶林 8 大动态监测样地植被的综合比较. 生物多样性, 23(2), 139–148.]</div>
+  <div class="csl-entry">Yu FH (2002) Adaptive Strategies of Clonal Plants Growing in Heterogeneous Environments. PhD dissertation, Institute of Botany, Chinese Academy of Sciences, Beijing. (in Chinese) [于飞海 (2002) 克隆植物对异质性环境的生态适应对策. 博士学位论文, 中国科学院植物研究所, 北京.]</div>
+  <div class="csl-entry">Zhang MH, Ma JZ (2010) Current status and protection vision of wild northeast tiger in China. Chinese Journal of Zoology, 45(1), 165–168. (in Chinese) [张明海, 马建章 (2010) 中国野生东北虎现状及其保护愿景展望. 动物学杂志, 45(1), 165–168.]</div>
 </div>

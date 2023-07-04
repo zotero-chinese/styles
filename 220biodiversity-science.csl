@@ -13,7 +13,7 @@
     <category field="biology"/>
     <issn>1005-0094</issn>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2023-07-04T23:10:06+08:00</updated>
+    <updated>2023-07-04T23:34:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -101,25 +101,29 @@
   <macro name="title">
     <group delimiter=", ">
       <choose>
-        <if type="book thesis" match="any">
-          <text variable="title" text-case="title"/>
+        <if type="article-journal article-magazine article-newspaper chapter paper-conference" variable="container-title" match="any">
+          <text variable="title"/>
         </if>
         <else>
-          <text variable="title"/>
+          <text variable="title" text-case="title"/>
+          <text macro="edition"/>
+          <text macro="page"/>
         </else>
       </choose>
-      <text macro="edition"/>
     </group>
   </macro>
   <macro name="title-translation">
-    <choose>
-      <if type="book thesis" match="any">
-        <text variable="original-title" text-case="title"/>
-      </if>
-      <else>
-        <text variable="original-title"/>
-      </else>
-    </choose>
+    <group delimiter=", ">
+      <choose>
+        <if type="article-journal article-magazine article-newspaper chapter paper-conference" variable="container-title" match="any">
+          <text variable="original-title"/>
+        </if>
+        <else>
+          <text variable="original-title" text-case="title"/>
+          <text macro="page"/>
+        </else>
+      </choose>
+    </group>
   </macro>
   <macro name="edition">
     <choose>
@@ -149,8 +153,13 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=", ">
-          <text variable="container-title"/>
-          <text variable="volume"/>
+          <group>
+            <group delimiter=", ">
+              <text variable="container-title"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
           <text variable="page"/>
         </group>
       </if>
@@ -170,8 +179,13 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=", ">
-          <text variable="original-container-title"/>
-          <text variable="volume"/>
+          <group>
+            <group delimiter=", ">
+              <text variable="original-container-title"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
           <text variable="page"/>
         </group>
       </if>
@@ -210,11 +224,11 @@
       <choose>
         <if type="thesis">
           <choose>
-            <if variable="genre">
-              <text variable="genre"/>
+            <if variable="original-genre">
+              <text variable="original-genre"/>
             </if>
             <else>
-              <text value="博士学位论文"/>
+              <text value="PhD dissertation"/>
             </else>
           </choose>
         </if>
