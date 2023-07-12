@@ -600,6 +600,48 @@ iResearch. Monitoring report on China’s grass planting economy market and cons
 
 </blockquote>
 
+## [115advances-in-water-science.csl]
+
+[003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl]基础上修改，参考了[211journal-of-plant-protection.csl]、[212journal-of-marketing-science.csl]，[《水科学进展》](http://skxjz.nhri.cn/news/tougaozhinan.htm)样式：显示前3作者；英文作者姓氏大写，名首字母；中文文献后面跟随英文翻译。
+
+使用注意：1. 中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。英文文献需要在 `language` 字段填写 `en` 或 `en-US`。
+2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。
+
+示例1：
+```
+original-author: Yu || Meixiu
+original-author: Fu || Ting
+original-author: Zhang || Jianyun
+original-author: Wang || Guoqing
+original-author: Dong || Wuxin
+original-title: Field experiment-based investigation on hydrological benefits of typical sponge facilities in the Yangtze Delta region
+original-container-title: Advances in Water Science
+```
+示例2：
+```
+original-author: Liu || Xiaolong
+original-title: Research on Megalopolitan Changes and Corresponding Precipitation Response
+original-publisher: Southeast University
+original-publisher-place: Nanjing
+```
+
+显示效果：
+
+<blockquote>
+测试<sup>[1]</sup><br>
+测试<sup>[2,3]</sup><br>
+测试<sup>[4-6]</sup><br>
+</blockquote>
+
+<blockquote>
+[1]	虞美秀, 付婷, 张建云, 等. 长三角地区典型海绵设施水文效益试验研究[J]. 水科学进展, 2022, 33(6): 894-903. (YU M, FU T, ZHANG J, et al. Field experiment-based investigation on hydrological benefits of typical sponge facilities in the yangtze delta region[J]. Advances in Water Science, 2022, 33(6): 894-903. (in Chinese))
+
+[2]	YU M, LI Q, HAYES M J, et al. Are droughts becoming more frequent or severe in China based on the standardized precipitation evapotranspiration index: 1951-2010?[J]. International Journal of Climatology, 2014, 34(3): 545-558.
+
+[3]	刘小龙. 城市群空间结构变化及降雨响应研究[D]. 南京: 东南大学, 2022. (LIU X. Research on megalopolitan changes and corresponding precipitation response[D]. Nanjing: Southeast University, 2022. (in Chinese))
+
+</blockquote>
+
 ## [201comparative-economic-and-social-systems.csl]
 
 [《经济社会体制比较》](http://jjsh.cbpt.cnki.net/EditorGN/index.aspx?t=1)样式，[010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl] 基础上修改，文末中文文献在前，英文在后。作者为首字母大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
@@ -2402,6 +2444,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [110food-science.csl]: 110food-science.csl
 [111acta-agriculurae-boreali-sinica.csl]: 111acta-agriculurae-boreali-sinica.csl
 [112scientia-agricultura-sinica.csl]: 112scientia-agricultura-sinica.csl
+[115advances-in-water-science.csl]: 115advances-in-water-science.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
