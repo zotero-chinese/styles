@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " initialize-with="" initialize-with-hyphen="false" demote-non-dropping-particle="never" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>生物多样性</title>
@@ -13,9 +13,14 @@
     <category field="biology"/>
     <issn>1005-0094</issn>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2023-07-04T23:34:04+08:00</updated>
+    <updated>2023-07-17T23:07:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="et-al">et al</term>
+    </terms>
+  </locale>
   <locale xml:lang="zh">
     <terms>
       <term name="edition" form="short">版</term>
@@ -298,8 +303,8 @@
     </choose>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
-    <layout prefix="(" suffix=")" delimiter="；" locale="zh">
-      <group delimiter="，">
+    <layout prefix="(" suffix=")" delimiter="; " locale="zh">
+      <group delimiter=", ">
         <text macro="author-intext-zh"/>
         <text macro="date"/>
         <text macro="locator"/>
@@ -313,7 +318,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="true" et-al-min="11" et-al-use-first="10" entry-spacing="0">
+  <bibliography hanging-indent="true" entry-spacing="0">
     <sort>
       <key macro="author-sort"/>
       <key macro="date"/>

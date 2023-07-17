@@ -17,13 +17,13 @@ Undefined
 ### 引注
 
 (Li &#38; Durbin, 2011)<br>
-(宋永昌等，2015)<br>
-(张明海和马建章，2010)<br>
-(Begon et al., 1986)<br>
-(蒋志刚等，2015)<br>
+(宋永昌等, 2015)<br>
+(张明海和马建章, 2010)<br>
+(Begon et al, 1986)<br>
+(蒋志刚等, 2015)<br>
 (Lawton &#38; Brown, 1993)<br>
-(Mueller-Dombois D和Ellenberg H，1986)<br>
-(于飞海，2002)<br>
+(Mueller-Dombois D和Ellenberg H, 1986)<br>
+(于飞海, 2002)<br>
 (International Union for Conservation of Nature (IUCN), 2000)<br>
 
 ### 参考文献表
@@ -44,15 +44,15 @@ Undefined
 
 ### 引注
 
-(王临惠，2010，p. 1194)<br>
+(王临惠, 2010, p. 1194)<br>
 (Crane, 1972)<br>
-(贾东琴和柯平，2011)<br>
+(贾东琴和柯平, 2011)<br>
 (Kennedy &#38; Garrison, 1975a)<br>
 (Kennedy &#38; Garrison, 1975b)<br>
-(王临惠等，2010)<br>
-(Frese et al., 2013)<br>
-(陈晋镳等，1980)<br>
-(Myburg et al., 2014)<br>
+(王临惠等, 2010)<br>
+(Frese et al, 2013)<br>
+(陈晋镳等, 1980)<br>
+(Myburg et al, 2014)<br>
 
 ### 参考文献表
 
@@ -61,7 +61,7 @@ Undefined
   <div class="csl-entry">Frese KS, Katus HA, Meder B (2013) Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2(1), 378–398.</div>
   <div class="csl-entry">Kennedy WJ, Garrison RE (1975a) Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 22, 311.</div>
   <div class="csl-entry">Kennedy WJ, Garrison RE (1975b) Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 8(4), 339–360.</div>
-  <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, et al. (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
+  <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
   <div class="csl-entry">王临惠, 支建刚, 王忠一 (2010) 37(4), 147. (in Chinese) [王临惠, 支建刚, 王忠一 (2010) 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 37(4), 147.]</div>
   <div class="csl-entry">王临惠 (2010) (in Chinese) [王临惠 (2010) 从几组声母的演变看天津方言形成的自然条件和历史条件. 收入: 汉语方言的地理语言学研究 (编 曹志耘), p. 138. 商务印书馆, 北京.]</div>
   <div class="csl-entry">贾东琴, 柯平 (2011) (in Chinese) [贾东琴, 柯平 (2011) 面向数字素养的高校图书馆数字服务体系研究. 收入: 中国图书馆学会年会论文集 (编 中国图书馆学会), pp. 45–52. 国家图书馆出版社, 北京.]</div>
@@ -98,7 +98,7 @@ Undefined
   <div class="csl-entry">Kinchy A (2012) Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops, p. 50. MIT Press, Cambridge, Mass.</div>
   <div class="csl-entry">Koseki A, Momose H, Kawahito M, Komatsu H (2002) Compiler. US.</div>
   <div class="csl-entry">Morri I (2010) Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future. Farrar, Straus and Giroux, New York.</div>
-  <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, et al. (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
+  <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
   <div class="csl-entry">O’Brien JA (1994) Introduction to Information Systems, 7th edn. Irwin, Burr Ridge, III.</div>
   <div class="csl-entry">Online Computer Library Center, Inc (n.d.) About OCLC: History of Cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (2012-03-27)</div>
   <div class="csl-entry">Park JR, Tosaka Y (2010) Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8), 696–715.</div>

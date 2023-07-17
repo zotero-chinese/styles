@@ -5,13 +5,13 @@
 ## 引注
 
 (Li &#38; Durbin, 2011)<br>
-(宋永昌等，2015)<br>
-(张明海和马建章，2010)<br>
-(Begon et al., 1986)<br>
-(蒋志刚等，2015)<br>
+(宋永昌等, 2015)<br>
+(张明海和马建章, 2010)<br>
+(Begon et al, 1986)<br>
+(蒋志刚等, 2015)<br>
 (Lawton &#38; Brown, 1993)<br>
-(Mueller-Dombois D和Ellenberg H，1986)<br>
-(于飞海，2002)<br>
+(Mueller-Dombois D和Ellenberg H, 1986)<br>
+(于飞海, 2002)<br>
 (International Union for Conservation of Nature (IUCN), 2000)<br>
 
 ## 参考文献表
