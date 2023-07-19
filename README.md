@@ -2233,6 +2233,25 @@ available-date: 2014-01-26
   <sup>11</sup> 福轩．中国汽车工业核心竞争力评析．中国机电日报，2002-04-20<br>
 </blockquote>
 
+## [459shanghai-university.csl]
+
+《[上海大学](https://gs.shu.edu.cn/pygl.htm)》研究生学位论文样式。
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和译. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2]	FOURNEY M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4]	FAN X, SOMMERS C H. Food Irradiation Research and Technology[M]. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5):8-9.</div>
+    <div class="csl-entry">[6]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510:356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[M]. 2012.</div>
+    <div class="csl-entry">[8]	BAWDEN D. Origins and Concepts of Digital Literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>. 2008.</div>
+  </div>
+</blockquote>
+
 
 ## 501-506
 
@@ -2550,3 +2569,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [455china-pharmaceutical-university.csl]: 455china-pharmaceutical-university.csl
 [457hunan-university-numeric.csl]: 457hunan-university-numeric.csl
 [458hunan-university-note.csl]: 458hunan-university-note.csl
+[459shanghai-university.csl]: 459shanghai-university.csl
