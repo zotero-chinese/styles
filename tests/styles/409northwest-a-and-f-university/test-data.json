@@ -1,8 +1,8 @@
 [
 	{
-		"id": "nwafu:01",
+		"id": "nwafu.4.6:01",
 		"type": "webpage",
-		"language": "zh",
+		"language": "zh-CN",
 		"title": "出版业信息化迈入快车道",
 		"URL": "http://www.creader.com/news/20011219/200112120019.html",
 		"author": [
@@ -28,10 +28,10 @@
 		}
 	},
 	{
-		"id": "nwafu:02",
+		"id": "nwafu.4.4:01",
 		"type": "article-newspaper",
 		"container-title": "大众科技报",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "7",
 		"title": "罪犯 DNA 库与生命伦理学计划",
 		"author": [
@@ -50,16 +50,16 @@
 		}
 	},
 	{
-		"id": "nwafu:03",
+		"id": "nwafu.4.3:03",
 		"type": "article-journal",
 		"container-title": "Monthly Weather Review",
-		"DOI": "10/csdcn2",
+		"DOI": "10.1175/1520-0493(1973)101<0554:teosta>2.3.co;2",
 		"ISSN": "0027-0644",
 		"issue": "7",
 		"journalAbbreviation": "Mon. Wea. Rev.",
-		"language": "en",
+		"language": "en-US",
 		"page": "554-563",
-		"title": "Transequatorial Effects of Sea-Surface Temperature Anomalies in a Global General Circulation Model<sup>1</sup>",
+		"title": "Transequatorial effects of sea-surface temperature anomalies in a global general circulation model",
 		"volume": "101",
 		"author": [
 			{
@@ -77,14 +77,14 @@
 		}
 	},
 	{
-		"id": "nwafu:04",
+		"id": "nwafu.4.3:02",
 		"type": "article-journal",
 		"container-title": "Monthly Weather Review",
-		"DOI": "10/bt3mfk",
+		"DOI": "10.1175/1520-0493(1973)101<0091:seosai>2.3.co;2",
 		"issue": "2",
 		"journalAbbreviation": "Mon. Wea. Rev.",
-		"language": "en",
-		"page": "91–100",
+		"language": "en-US",
+		"page": "91-100",
 		"title": "Some effects of surface anomalies in a global general circulation model",
 		"volume": "101",
 		"author": [
@@ -102,11 +102,11 @@
 		}
 	},
 	{
-		"id": "nwafu:05",
+		"id": "nwafu.4.2:02",
 		"type": "chapter",
 		"container-title": "Vegetation and the Atmosphere",
 		"event-place": "London",
-		"language": "en",
+		"language": "en-US",
 		"page": "13-52",
 		"publisher": "Academic Press",
 		"publisher-place": "London",
@@ -133,11 +133,11 @@
 		}
 	},
 	{
-		"id": "nwafu:06",
+		"id": "nwafu.4.8:01",
 		"type": "thesis",
 		"event-place": "杭州",
 		"genre": "博士学位论文",
-		"language": "zh",
+		"language": "zh-CN",
 		"publisher": "浙江大学",
 		"publisher-place": "杭州",
 		"title": "聚苯乙烯负载的高价碘试剂的合成及其在合成中的应用",
@@ -155,10 +155,10 @@
 		}
 	},
 	{
-		"id": "nwafu:07",
+		"id": "nwafu.4.7:01",
 		"type": "patent",
 		"event-place": "中国",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "genre: 发明专利",
 		"number": "92214985",
 		"publisher-place": "中国",
@@ -180,12 +180,12 @@
 		}
 	},
 	{
-		"id": "nwafu:08",
+		"id": "nwafu.4.5:01",
 		"type": "book",
 		"edition": "2",
 		"event-place": "北京",
-		"language": "zh",
-		"note": "page: 102",
+		"language": "zh-CN",
+		"note": "original-date: 1986\npage: 102",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
 		"title": "同种植物的不同花型",
@@ -208,11 +208,11 @@
 		}
 	},
 	{
-		"id": "nwafu:09",
+		"id": "nwafu.4.2:01",
 		"type": "chapter",
 		"container-title": "运筹学的理论与应用—中国运筹学会第五届大会论文集",
 		"event-place": "西安",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "468-471",
 		"publisher": "西安电子科技大学出版社",
 		"publisher-place": "西安",
@@ -236,10 +236,10 @@
 		}
 	},
 	{
-		"id": "nwafu:10",
+		"id": "nwafu.4.1:01",
 		"type": "book",
 		"event-place": "北京",
-		"language": "zh",
+		"language": "zh-CN",
 		"note": "page: 108",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
@@ -254,6 +254,246 @@
 			"date-parts": [
 				[
 					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.4.3:01",
+		"type": "article-journal",
+		"container-title": "Mycorrhiza",
+		"DOI": "10.1007/s00572-008-0184-3",
+		"issue": "6-7",
+		"language": "en-US",
+		"note": "publisher: Springer",
+		"page": "317-329",
+		"title": "Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Echeverria",
+				"given": "Mariela"
+			},
+			{
+				"family": "Scambato",
+				"given": "Agustina Azul"
+			},
+			{
+				"family": "Sannazzaro",
+				"given": "Analía Inés"
+			},
+			{
+				"family": "Maiale",
+				"given": "Santiago"
+			},
+			{
+				"family": "Ruiz",
+				"given": "Oscar Adolfo"
+			},
+			{
+				"family": "Menéndez",
+				"given": "Ana B"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.4:01",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "康民"
+			},
+			{
+				"literal": "许刚"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.4:02",
+		"type": "article-journal",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "John"
+			},
+			{
+				"family": "Bruns",
+				"given": "Jane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.5:01",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "马世骏"
+			},
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.5:02",
+		"type": "article-journal",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Harver",
+				"given": "Andrew"
+			},
+			{
+				"family": "Katkin",
+				"given": "Edward S"
+			},
+			{
+				"family": "Bloch",
+				"given": "Elisabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.6:01",
+		"type": "article-journal",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Allison",
+				"given": "AC"
+			},
+			{
+				"family": "DaVies",
+				"given": "Poo"
+			},
+			{
+				"family": "De Petris",
+				"given": "S"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.6:02",
+		"type": "article-journal",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Bjerknes",
+				"given": "Jakob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.6:03",
+		"type": "book",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Doberitz",
+				"given": "Rolf"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.6:04",
+		"type": "book",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Doberitz",
+				"given": "Rolf"
+			},
+			{
+				"family": "Flohn",
+				"given": "Hermann"
+			},
+			{
+				"family": "Schütte",
+				"given": "Karin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
+		"id": "nwafu.2.7:01",
+		"type": "book",
+		"author": [
+			{
+				"literal": "中国社会科学院语言研究所词典编辑室"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
 				]
 			]
 		}

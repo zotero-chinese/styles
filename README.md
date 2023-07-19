@@ -1360,7 +1360,41 @@ available-date: 2014-01-26
 > ```
 
 
+## [409northwest-a-and-f-university.csl]
+
+《[西北农林科技大学研究生学位论文“参考文献”著录规则](https://yjshy.nwafu.edu.cn/xwgl/xwsy/xwlwxzgf/e1432691f154489e91273f888c8b38e5.htm)》。在 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 的基础上修改。
+
+显示效果：
+
+<blockquote>
+  （康民和许刚 1998）<br>
+  （Smith and Bruns 1987）<br>
+  （马世骏等 1990）<br>
+  （Harver et al. 1969）<br>
+  （Allison et al. 1971; Bjerknes 1969; Doberitz 1969; Doberitz et al. 1967）<br>
+  （中国社会科学院语言研究所词典编辑室 1996: 1194）<br>
+  （中国社会科学院语言研究所词典编辑室 1996: 354）<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">达尔文. 1986. 同种植物的不同花型. 第二版. 叶笃庄译. 1996. 北京: 科学出版社: 102</div>
+    <div class="csl-entry">刘加林. 1993-04-14. 多功能一次性压舌板. 中国发明专利, 92214985</div>
+    <div class="csl-entry">萧钰. 2001. 出版业信息化迈入快车道. <a href="http://www.creader.com/news/20011219/200112120019.html">http://www.creader.com/news/20011219/200112120019.html</a> [2002-04-15]</div>
+    <div class="csl-entry">张田琴. 2000-11-12. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7</div>
+    <div class="csl-entry">钟文发. 1996. 非线性规划在可燃毒物配置中的应用. 见: 赵玮 (主编). 运筹学的理论与应用—中国运筹学会第五届大会论文集. 西安: 西安电子科技大学出版社: 468~471</div>
+    <div class="csl-entry">朱勍. 2001. 聚苯乙烯负载的高价碘试剂的合成及其在合成中的应用. [博士学位论文]. 杭州: 浙江大学</div>
+    <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, et al. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
+    <div class="csl-entry">Harver A, Katkin E S, Bloch E. 1969</div>
+    <div class="csl-entry">Ross J. 1975. Radiative transfer in plant communities. In: Monteith J L (editor). Vegetation and the Atmosphere: Vol. 1. London: Academic Press: 13~52</div>
+    <div class="csl-entry">Spar J. 1973a. Some effects of surface anomalies in a global general circulation model. <i>Mon Wea Rev</i>, 101(2): 91~100</div>
+    <div class="csl-entry">Spar J. 1973b. Transequatorial effects of sea-surface temperature anomalies in a global general circulation model. <i>Mon Wea Rev</i>, 101(7): 554~563</div>
+  </div>
+</blockquote>
+
+
 ## [410shanghai-jiao-tong-university]
+
 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改，[上海交通大学学位论文](https://gk.sjtu.edu.cn/Data/View/648)样式，参考文献列表姓名为名缩写（不带点）+姓。支持中文作者超过 3 个为“`等`”，英文为“`et al`”。
 > ```
 显示效果<sup>[1-4]</sup>
@@ -2474,6 +2508,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [406nanjing-agricultural-university-author-date.csl]: 406nanjing-agricultural-university-author-date.csl
 [407nanjing-agricultural-university-old.csl]: 407nanjing-agricultural-university-old.csl
 [408nanjing-agricultural-university-online-first.csl]:408nanjing-agricultural-university-online-first.csl
+[409northwest-a-and-f-university.csl]: 409northwest-a-and-f-university.csl
 [410shanghai-jiao-tong-university]:410shanghai-jiao-tong-university
 [411southwest-university.csl]: 411southwest-university.csl
 [414yunnan-university.csl]: 414yunnan-university.csl
