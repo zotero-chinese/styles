@@ -1118,6 +1118,30 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 </blockquote>
 
 
+## [221new-finance.csl]
+
+《[新金融](https://xjro.cbpt.cnki.net/WKC/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf)》样式。在 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 的基础上修改。
+
+显示效果：
+
+<blockquote>
+  （作者，2015）<br>
+  （作者1 等，2018）<br>
+  （作者，2021）<br>
+  （Nunn et al., 2014）<br>
+</blockquote>
+
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">[1] 作者，2015．著作名．上海：上海人民出版社：50-51．</div>
+    <div class="csl-entry">[2] 作者，2021．论文标题．城市：授予单位．</div>
+    <div class="csl-entry">[3] 作者1，作者2，作者3，等，2018．文章标题．期刊名称（11）：35-50．</div>
+    <div class="csl-entry">[4] NUNN N, QIAN N, 2014. US food aid and civil conflict. American Economic Review, 104(6): 1630-1666.</div>
+  </div>
+</blockquote>
+
+
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
 《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》（2020 年版）。
@@ -2515,6 +2539,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [217the-journal-of-world-economy.csl]: 217the-journal-of-world-economy.csl
 [219china-economic-quarterly.csl]: 219china-economic-quarterly.csl
 [220biodiversity-science.csl]: 220biodiversity-science.csl
+[221new-finance.csl]: 221new-finance.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
