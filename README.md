@@ -1408,7 +1408,7 @@ available-date: 2014-01-26
     <div class="csl-entry">张田琴. 2000-11-12. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7</div>
     <div class="csl-entry">钟文发. 1996. 非线性规划在可燃毒物配置中的应用. 见: 赵玮 (主编). 运筹学的理论与应用—中国运筹学会第五届大会论文集. 西安: 西安电子科技大学出版社: 468~471</div>
     <div class="csl-entry">朱勍. 2001. 聚苯乙烯负载的高价碘试剂的合成及其在合成中的应用. [博士学位论文]. 杭州: 浙江大学</div>
-    <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, et al. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
+    <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, Maiale S, Ruiz O A, Menéndez A B. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
     <div class="csl-entry">Harver A, Katkin E S, Bloch E. 1969</div>
     <div class="csl-entry">Ross J. 1975. Radiative transfer in plant communities. In: Monteith J L (editor). Vegetation and the Atmosphere: Vol. 1. London: Academic Press: 13~52</div>
     <div class="csl-entry">Spar J. 1973a. Some effects of surface anomalies in a global general circulation model. <i>Mon Wea Rev</i>, 101(2): 91~100</div>

@@ -21,7 +21,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-07-19T08:23:36+08:00</updated>
+    <updated>2023-07-27T10:33:11+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -589,7 +589,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
+  <bibliography entry-spacing="0" hanging-indent="true">
     <sort>
       <key macro="author"/>
       <key macro="date"/>

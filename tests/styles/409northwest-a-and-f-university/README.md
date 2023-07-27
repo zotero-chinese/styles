@@ -38,7 +38,7 @@
   <div class="csl-entry">Bjerknes J. 1969</div>
   <div class="csl-entry">Doberitz R. 1969</div>
   <div class="csl-entry">Doberitz R, Flohn H, Schütte K. 1967</div>
-  <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, et al. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
+  <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, Maiale S, Ruiz O A, Menéndez A B. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
   <div class="csl-entry">Harver A, Katkin E S, Bloch E. 1969</div>
   <div class="csl-entry">Ross J. 1975. Radiative transfer in plant communities. In: Monteith J L (editor). Vegetation and the Atmosphere: Vol. 1. London: Academic Press: 13~52</div>
   <div class="csl-entry">Smith J, Bruns J. 1987</div>

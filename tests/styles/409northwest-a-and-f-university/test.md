@@ -40,7 +40,7 @@
   <div class="csl-entry">Bjerknes J. 1969</div>
   <div class="csl-entry">Doberitz R. 1969</div>
   <div class="csl-entry">Doberitz R, Flohn H, Schütte K. 1967</div>
-  <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, et al. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
+  <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, Maiale S, Ruiz O A, Menéndez A B. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
   <div class="csl-entry">Harver A, Katkin E S, Bloch E. 1969</div>
   <div class="csl-entry">Ross J. 1975. Radiative transfer in plant communities. In: Monteith J L (editor). Vegetation and the Atmosphere: Vol. 1. London: Academic Press: 13~52</div>
   <div class="csl-entry">Smith J, Bruns J. 1987</div>
@@ -90,7 +90,7 @@
   <div class="csl-entry">Bjerknes J. 1969</div>
   <div class="csl-entry">Doberitz R. 1969</div>
   <div class="csl-entry">Doberitz R, Flohn H, Schütte K. 1967</div>
-  <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, et al. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
+  <div class="csl-entry">Echeverria M, Scambato A A, Sannazzaro A I, Maiale S, Ruiz O A, Menéndez A B. 2008. Phenotypic plasticity with respect to salt stress response by Lotus glaber: the role of its AM fungal and rhizobial symbionts. <i>Mycorrhiza</i>, 18(6~7): 317~329</div>
   <div class="csl-entry">Harver A, Katkin E S, Bloch E. 1969</div>
   <div class="csl-entry">Ross J. 1975. Radiative transfer in plant communities. In: Monteith J L (editor). Vegetation and the Atmosphere: Vol. 1. London: Academic Press: 13~52</div>
   <div class="csl-entry">Smith J, Bruns J. 1987</div>
@@ -115,7 +115,7 @@
 ### 参考文献表
 
 <div class="csl-bib-body hanging-indent">
-  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等. 1980. 蓟县震旦亚界研究. 见: 中国地质科学院天津地质矿产研究所 (主编). 中国震旦亚界. 天津: 天津科学技术出版社: 56~114</div>
+  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 1980. 蓟县震旦亚界研究. 见: 中国地质科学院天津地质矿产研究所 (主编). 中国震旦亚界. 天津: 天津科学技术出版社: 56~114</div>
   <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会 (主编). 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45~52</div>
   <div class="csl-entry">王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件. 见: 曹志耘 (主编). 汉语方言的地理语言学研究. 北京: 商务印书馆: 138</div>
   <div class="csl-entry">王临惠, 支建刚, 王忠一. 2010. 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 37(4): 147</div>
@@ -123,7 +123,7 @@
   <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, 2(1): 378~398</div>
   <div class="csl-entry">Kennedy W J, Garrison R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. <i>Sedimentology</i>, 22: 311</div>
   <div class="csl-entry">Kennedy W J, Garrison R E. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, 8(4): 339~360</div>
-  <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. 2014. The genome of eucalyptus grandis. <i>Nature</i>, 510: 356~362</div>
+  <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. 2014. The genome of eucalyptus grandis. <i>Nature</i>, 510: 356~362</div>
 </div>
 
 ### 全部文献
@@ -135,7 +135,7 @@
   <div class="csl-entry">陈登原. 2000a. 国史旧闻: 第 1 卷. 北京: 中华书局: 29</div>
   <div class="csl-entry">陈登原. 2000b. 国史旧闻: 第 1 卷. 北京: 中华书局: 29</div>
   <div class="csl-entry">陈建军. 2010. 从数字地球到智慧地球. 国土资源导刊, 7(10): 93</div>
-  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等. 1980. 蓟县震旦亚界研究. 见: 中国地质科学院天津地质矿产研究所 (主编). 中国震旦亚界. 天津: 天津科学技术出版社: 56~114</div>
+  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 1980. 蓟县震旦亚界研究. 见: 中国地质科学院天津地质矿产研究所 (主编). 中国震旦亚界. 天津: 天津科学技术出版社: 56~114</div>
   <div class="csl-entry">陈志勇. 2011. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社</div>
   <div class="csl-entry">程根伟. 1999. 1998 年长江洪水的成因与减灾对策. 见: 许厚泽, 赵其国 (主编). 长江流域洪涝灾害与科技对策. 北京: 科学出版社: 32~36</div>
   <div class="csl-entry">邓一刚. 2006-12-13. 全智能节电器. 中国发明专利, 200610171314.3</div>
@@ -149,7 +149,7 @@
   <div class="csl-entry">侯文顺. 2010. 高分子物理: 高分子材料分析、选择与改性. 北京: 化学工业出版社: 119</div>
   <div class="csl-entry">胡承正, 周详, 缪灵. 2010. 理论物理概论: 上. 武汉: 武汉大学出版社: 112</div>
   <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会 (主编). 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45~52</div>
-  <div class="csl-entry">蒋有绪, 郭泉水, 马娟, 等. 1998. 中国森林群落分类及其群落特征. 北京: 科学出版社</div>
+  <div class="csl-entry">蒋有绪, 郭泉水, 马娟, others. 1998. 中国森林群落分类及其群落特征. 北京: 科学出版社</div>
   <div class="csl-entry">库恩. 2012. 科学革命的结构: 第 4 版. 第二版. 金吾伦, 胡新和译. 北京: 北京大学出版社</div>
   <div class="csl-entry">雷光春. 2012. 综合湿地管理: 综合湿地管理国际研讨会论文集. 北京: 海洋出版社</div>
   <div class="csl-entry">李炳穆. 2008a. 韩国图书馆法. 图书情报工作, 52(6): 6~12</div>
@@ -158,9 +158,9 @@
   <div class="csl-entry">李幼平, 王莉. 2010. 循证医学研究方法: 附视频. 中华移植杂志(电子版), 4(3): 225~228</div>
   <div class="csl-entry">刘彻东. 1998. 中国的青年刊物: 个性特色为本仁. 中国出版(5): 38~39</div>
   <div class="csl-entry">刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究. [博士学位论文]. 合肥: 中国科学技术大学: 17~18</div>
-  <div class="csl-entry">刘裕国, 杨柳, 张洋, 等. 2013-01-12. 雾霾来袭, 如何突围? 人民日报</div>
+  <div class="csl-entry">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 2013-01-12. 雾霾来袭, 如何突围? 人民日报</div>
   <div class="csl-entry">楼梦鳞, 杨燕. 2011. 汶川地震基岩地震动特征分析. 见: 同济大学土木工程防灾国家重点实验室 (主编). 汶川地震震害研究. 上海: 同济大学出版社: 011~012</div>
-  <div class="csl-entry">罗杰斯. 2011. 西方文明史: 问题与源头. 潘惠霞, 魏婧, 杨艳, 等译. 大连: 东北财经大学出版社: 15~16</div>
+  <div class="csl-entry">罗杰斯. 2011. 西方文明史: 问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲译. 大连: 东北财经大学出版社: 15~16</div>
   <div class="csl-entry">罗斯基. 2009. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪译. 杭州: 浙江大学出版社</div>
   <div class="csl-entry">马欢. 2011. 人类活动影响下海河流域典型区水循环变化分析. [博士学位论文]. 北京: 清华大学: 27</div>
   <div class="csl-entry">马克思. 2013. 政治经济学批判. 见: 马克思, 恩格斯 (主编). 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社: 302</div>
@@ -172,7 +172,7 @@
   <div class="csl-entry">全国广播电视标准化技术委员会. 2007. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007. 北京: 国家广播电影电视总局广播电视规划院: 1</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 2010a. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010. 北京: 中国标准出版社: 2~3</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 2010b. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009. 北京: 中国标准出版社: 3</div>
-  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013</div>
+  <div class="csl-entry">汤万金, 杨跃翔, 刘文, others. 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室. 2011. 汶川地震灾害研究. 上海: 同济大学出版社: 5~6</div>
   <div class="csl-entry">汪昂. 1881. 增订本草备要: 四卷. 刻本. 京都: 老二酉堂</div>
   <div class="csl-entry">汪冰. 1997. 电子图书馆理论与实践研究. 北京: 北京图书馆出版社: 16</div>
@@ -181,7 +181,7 @@
   <div class="csl-entry">王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件. 见: 曹志耘 (主编). 汉语方言的地理语言学研究. 北京: 商务印书馆: 138</div>
   <div class="csl-entry">王临惠, 支建刚, 王忠一. 2010. 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 37(4): 147</div>
   <div class="csl-entry">吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究. [博士学位论文]. 北京: 北京大学</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 等. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8~9</div>
+  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8~9</div>
   <div class="csl-entry">西安电子科技大学. 2002-03-06. 光折变自适应光外差探测方法. 中国发明专利, 01128777.2</div>
   <div class="csl-entry">萧钰. 2001. 出版业信息化迈入快车道. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a> [2002-04-15]</div>
   <div class="csl-entry">徐光宪, 王祥云. 2010. 物质结构. 北京: 科学出版社</div>
@@ -195,9 +195,9 @@
   <div class="csl-entry">Anon. 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009</div>
   <div class="csl-entry">佚名. 2011. 周易外传: 卷 5. 见: 王夫之 (主编). 船山全书: 第 6 册. 长沙: 岳麓书社: 1109</div>
   <div class="csl-entry">Anon. 2012. Dublin core metadata element set: version 1.1. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> [2014-06-11]</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 52(11): 1518~1523</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 52(11): 1518~1523</div>
   <div class="csl-entry">余建斌. 2013-01-12. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2</div>
-  <div class="csl-entry">袁训来, 陈哲, 肖书海, 等. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34): 3219</div>
+  <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34): 3219</div>
   <div class="csl-entry">张伯伟. 2002. 全唐五代诗格汇考. 南京: 江苏古籍出版社: 288</div>
   <div class="csl-entry">张凯军. 2012-04-05. 轨道火车及高速轨道火车紧急安全制动辅助装置. 中国发明专利, 201220158825.2</div>
   <div class="csl-entry">张田勤. 2000-11-12. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7</div>
@@ -214,7 +214,7 @@
   <div class="csl-entry">中华人民共和国国务院新闻办公室. 2013. 国防白皮书: 中国武装力量的多样化运用</div>
   <div class="csl-entry">中华医学会湖北分会. 1984. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会</div>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science</div>
-  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer</div>
+  <div class="csl-entry">Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer</div>
   <div class="csl-entry">Baker S K, Jackson M E. 1995. The future of resource sharing. New York: The Haworth Press</div>
   <div class="csl-entry">Baldock P. 2011. Developing early childhood services: Past, present and future. Rotterdam: Open University Press: 105</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> [2013-03-08]</div>
@@ -226,12 +226,12 @@
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a> [2013-03-24]</div>
   <div class="csl-entry">Crane D. 1972. Invisible college. Chicago: Univ. of Chicago Press</div>
   <div class="csl-entry">Crawford W, Gorman M. 1995. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association</div>
-  <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, et al. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>, 359(6396): 605~609</div>
+  <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, Hayes J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>, 359(6396): 605~609</div>
   <div class="csl-entry">Deverell W, Igler D. 2013. A companion to California history. [Doctoral dissertation]. New York: John Wiley &#38; Sons: 21~22</div>
   <div class="csl-entry">Dowler L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. <i>Journal of Library Administration</i>, 21(1/2): 5~26</div>
   <div class="csl-entry">Fan X, Sommers C H. 2013. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing: 25~26</div>
   <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics. New York: ASME: 17~38</div>
-  <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, et al. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. <i>ACS Chem Biol</i>, 8: 1053~1062</div>
+  <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, Anderson L A, Boothe J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. <i>ACS Chem Biol</i>, 8: 1053~1062</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, 2(1): 378~398</div>
   <div class="csl-entry">Hopkinson A. 2009. UNIMARC and metadata: Dublin core. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> [2013-03-27]</div>
   <div class="csl-entry">International Federation of Library Association and Institutions. 1977. Names of persons: National usages for entry in catalogues. 3rd ed. London: IFLA International Office for UBC</div>
@@ -239,9 +239,9 @@
   <div class="csl-entry">Kennedy W J, Garrison R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. <i>Sedimentology</i>, 22: 311</div>
   <div class="csl-entry">Kennedy W J, Garrison R E. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, 8(4): 339~360</div>
   <div class="csl-entry">Kinchy A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press: 50</div>
-  <div class="csl-entry">Koseki A, Momose H, Kawahito M, et al. 2002-05-25. Compiler. US utility patent, US828402</div>
+  <div class="csl-entry">Koseki A, Momose H, Kawahito M, Komatsu H. 2002-05-25. Compiler. US utility patent, US828402</div>
   <div class="csl-entry">Morri I. 2010. Why the west rules for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux</div>
-  <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. 2014. The genome of eucalyptus grandis. <i>Nature</i>, 510: 356~362</div>
+  <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. 2014. The genome of eucalyptus grandis. <i>Nature</i>, 510: 356~362</div>
   <div class="csl-entry">O’Brien J A. 1994. Introduction to information systems. 7th ed. Burr Ridge, III: Irwin</div>
   <div class="csl-entry">Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> [2012-03-27]</div>
   <div class="csl-entry">Park J R, Tosaka Y. 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696~715</div>
@@ -251,7 +251,7 @@
   <div class="csl-entry">Saito M, Miyazaki K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <i>Bulletin of the geological survey of Japan</i>, 57(5/6): 169~176</div>
   <div class="csl-entry">Stieg M F. 1981. The information needs of historians. <i>Coll Res Libr</i>, 42(6): 549~560</div>
   <div class="csl-entry">Sunstein C R. 1996. Social norms and social roles. <i>Columbia Law Rev</i>, 96: 903</div>
-  <div class="csl-entry">Tachibana R, Shimizu S, Kobayshi S, et al. 2005-07-05. Electronic watermarking method and system. US utility patent, US6915001</div>
+  <div class="csl-entry">Tachibana R, Shimizu S, Kobayshi S, Nakamura T. 2005-07-05. Electronic watermarking method and system. US utility patent, US6915001</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service</div>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <i>Biology</i>, 2(1): 399~418</div>
   <div class="csl-entry">Weinstein L, Swertz M N. 1974. Pathogenic properties of invading microorganism. In: Sodeman W A Jr, Sodeman W A (editors). Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 745~772</div>
