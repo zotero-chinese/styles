@@ -2491,6 +2491,8 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Word` 中没有 `Zotero` 工具条的解决办法之一 <https://zhuanlan.zhihu.com/p/58931999>。
 
+`Zotero` 第三方工具条：（作者，年代）→作者（年代）快速切换，支持`WPS Office` https://zhuanlan.zhihu.com/p/648205028
+
 `WPS Office`中使用`Zotero`插入参考文献不报错的方法<https://zhuanlan.zhihu.com/p/580194390>。
 
 `WPS Office`中`Zotero`工具条显示全部图标的方法<https://zhuanlan.zhihu.com/p/580527678>。
