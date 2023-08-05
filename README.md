@@ -1292,6 +1292,19 @@ available-date: 2014-01-26
 </blockquote>
 
 
+## [324peoples-publishing-house.csl]
+
+人民出版社书稿样式，在 [311social-sciences-in-china.csl] 的基础上修改。
+
+显示效果：
+
+<blockquote>
+  <sup>1</sup> 李铁映：《中国经济改革的双重探索》，《经济研究》2004年第2期。<br>
+  <sup>2</sup> 国际货币基金组织：《国际资本市场发展、前景和政策》中译本，中国金融出版社1996年版，第116页。<br>
+  <sup>3</sup> Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol.56, No.2, Spring 2001, pp.339-374.<br>
+  <sup>4</sup> Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995, p.234.<br>
+</blockquote>
+
 
 ## [403huazhong-agricultural-university.csl]
 
@@ -2546,6 +2559,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
 [306manual-of-legal-citation-multi-lingual-no-ibid.csl]: 306manual-of-legal-citation-multi-lingual-no-ibid.csl
 [307studies-on-marxism.csl]: 307studies-on-marxism.csl
+[324peoples-publishing-house.csl]: 324peoples-publishing-house.csl
 [403huazhong-agricultural-university.csl]: 403huazhong-agricultural-university.csl
 [404jinan-university.csl]: 404jinan-university.csl
 [405nanjing-agricultural-university-numeric.csl]: 405nanjing-agricultural-university-numeric.csl

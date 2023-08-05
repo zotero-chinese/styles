@@ -1,0 +1,139 @@
+[
+	{
+		"id": "pp2.1:01",
+		"type": "article-journal",
+		"abstract": "This article explains how consensus decision making has operated in practice in the General Agreement on Tariffs and Trade/World Trade Organization (GATT/WTO). When GATT/WTO bargaining is law-based, consensus outcomes are Pareto-improving and roughly symmetrical. When bargaining is power-based, states bring to bear instruments of power that are extrinsic to rules, invisibly weighting the process and generating consensus outcomes that are asymmetrical and may not be Pareto-improving. Empirical analysis shows that although trade rounds have been launched through law-based bargaining, hard law is generated when a round is closed, and rounds have been closed through power-based bargaining. Agenda setting has taken place in the shadow of that power and has been dominated by the European Community and the United States. The decision making rules have been maintained because they help generate information used by powerful states in the agenda-setting process. Consensus decision making at the GATT/WTO is organized hypocrisy, allowing adherence to the instrumental reality of asymmetrical power and the sovereign equality principle upon which consensus decision making is purportedly based.",
+		"container-title": "International Organization",
+		"DOI": "10.1162/002081802320005504",
+		"ISSN": "0020-8183, 1531-5088",
+		"issue": "2",
+		"journalAbbreviation": "Int Org",
+		"language": "en-US",
+		"page": "339-374",
+		"source": "DOI.org (Crossref)",
+		"title": "In the shadow of law or power? Consensus-based bargaining and outcomes in the GATT/WTO",
+		"title-short": "In the shadow of law or power?",
+		"URL": "https://www.cambridge.org/core/product/identifier/S0020818302441732/type/journal_article",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Steinberg",
+				"given": "Richard H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "Spring"
+		}
+	},
+	{
+		"id": "pp1.1:01",
+		"type": "article-journal",
+		"container-title": "经济研究",
+		"ISSN": "0577-9154",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "4-7+16",
+		"source": "CNKI",
+		"title": "中国经济改革的双重探索",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2004&filename=JJYJ200402000&v=",
+		"author": [
+			{
+				"literal": "李铁映"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "pp2.2:01",
+		"type": "book",
+		"abstract": "The recently concluded Uruguay Round of the General Agreement on Tariffs and Trade (GATT) will undoubtedly lead to a fundamental transformation of the world trading system as an instrument of a global economy. In Traders in a Brave New World, Ernest H. Preeg, a distinguished former U.S. diplomat and trade negotiator, presents a blow-by-blow account of the Uruguay Round, an examination of the historical context in which it took place, and an insider’s assessment of the agreement’s future impact on the international trading system. Preeg places the Uruguay Round in the broader context of global politics and economics, showing how changes in the world order—from the collapse of communism to dramatic economic reforms in developing countries—influenced both the topics of negotiations and their outcome. He then assesses the final GATT agreement as a case study in international negotiations and evaluates its probable effects on income and trade.Finally, Preeg looks to the short- and long-term issues confronting future trade-policy negotiators. He shows that the international trade agenda will consist of three evolving types of agreement—further multilateral commitments, regional free-trade agreements, and selective bilateral accords. Going to the heart of current debates on the \"new world order,\" an important final chapter evaluates the political and economic relationships that will result from the international trading system.",
+		"event-place": "Chicago, IL",
+		"ISBN": "978-0-226-67959-4",
+		"language": "en-US",
+		"number-of-pages": "304",
+		"publisher": "University of Chicago Press",
+		"publisher-place": "Chicago, IL",
+		"source": "University of Chicago Press",
+		"title": "Traders in a brave new world: The Uruguay round and the future of the international trading system",
+		"title-short": "Traders in a brave new world",
+		"URL": "https://press.uchicago.edu/ucp/books/book/chicago/T/bo3641646.html",
+		"author": [
+			{
+				"family": "Preeg",
+				"given": "Ernest H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "pp1.2:01",
+		"type": "book",
+		"archive_location": "F831.5",
+		"edition": "中译本",
+		"ISBN": "978-7-5049-1623-5",
+		"language": "zh-CN",
+		"number-of-pages": "198",
+		"publisher": "中国金融出版社",
+		"source": "Superlib",
+		"title": "国际资本市场发展、前景和政策",
+		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000000529817&d=B8345198F1136BF302E2EA3E6BAB5F4C&fenlei=0611030204",
+		"author": [
+			{
+				"literal": "国际货币基金组织"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1996",
+					8
+				]
+			]
+		}
+	}
+]
