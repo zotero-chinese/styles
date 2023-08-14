@@ -208,7 +208,7 @@
 <sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
 <sup>25</sup> 邓小平：《精简机构是一场革命》（第2版），载《邓小平文选》第2卷，人民出版社1994年版。<br>
-<sup>26</sup> [英]劳特派特：《奥本海国际法》（第8版），王铁崖、陈体强译，商务印书馆1971年版。<br>
+<sup>26</sup> [英]劳特派特：《奥本海国际法》（第8版上卷第一分册），王铁崖、陈体强译，商务印书馆1971年版。<br>
 <sup>27</sup> 《刑法修正案（十）》。<br>
 <sup>28</sup> 《公司法》（2005年修订）。<br>
 <sup>29</sup> 《公司法》（2013年修正）。<br>
@@ -296,7 +296,7 @@
   <div class="csl-entry">〔23〕	罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，载《中国法学》1993年第1期。</div>
   <div class="csl-entry">〔24〕	夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。</div>
   <div class="csl-entry">〔25〕	邓小平：《精简机构是一场革命》（第2版），载《邓小平文选》第2卷，人民出版社1994年版。</div>
-  <div class="csl-entry">〔26〕	[英]劳特派特：《奥本海国际法》（第8版），王铁崖、陈体强译，商务印书馆1971年版。</div>
+  <div class="csl-entry">〔26〕	[英]劳特派特：《奥本海国际法》（第8版上卷第一分册），王铁崖、陈体强译，商务印书馆1971年版。</div>
   <div class="csl-entry">〔27〕	《刑法修正案（十）》。</div>
   <div class="csl-entry">〔28〕	《公司法》（2005年修订）。</div>
   <div class="csl-entry">〔29〕	《公司法》（2013年修正）。</div>
@@ -379,7 +379,7 @@
 ### 全部文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">〔1〕	陈登原：《国史旧闻》，中华书局2000年版。</div>
+  <div class="csl-entry">〔1〕	陈登原：《国史旧闻》（第 1 卷），中华书局2000年版。</div>
   <div class="csl-entry">〔2〕	哈里森·沃尔德伦：《经济数学与金融数学》，谢远涛译，中国人民大学出版社2012年版。</div>
   <div class="csl-entry">〔3〕	北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所：《历代王朝与民族宗教》，民族出版社2012年版。</div>
   <div class="csl-entry">〔4〕	全国信息与文献标准化技术委员会《信息与文献 都柏林核心元数据元素集》，GB/T 25100—2010。</div>
@@ -403,7 +403,7 @@
   <div class="csl-entry">〔22〕	贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。</div>
   <div class="csl-entry">〔23〕	L. Weinstein &#38; M. N. Swertz, <i>Pathogenic Properties of Invading Microorganism</i>, in W. A. Sodeman Jr &#38; W. A. Sodeman eds., Pathologic Physiology: Mechanisms of Disease, Saunders, 1974.</div>
   <div class="csl-entry">〔24〕	J. Alan Roberson &#38; Eric G. Burneson, <i>Drinking Water Standards, Regulations and Goals</i>, in American Water Works Association ed., Water Quality &#38; Treatment: A Handbook on Drinking Water, McGraw-Hill, 2011.</div>
-  <div class="csl-entry">〔25〕	中华医学会湖北分会：《临床内科杂志》，中华医学会湖北分会1984年版。</div>
+  <div class="csl-entry">〔25〕	中华医学会湖北分会：《临床内科杂志》（第1卷），中华医学会湖北分会1984年版。</div>
   <div class="csl-entry">〔26〕	中国图书馆学会：《图书馆学通讯》，北京图书馆1957年版。</div>
   <div class="csl-entry">〔27〕	American Association for the Advancement of Science, <i>Science</i>, American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">〔28〕	袁训来、陈哲等：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，载《科学通报》2012年第34期。</div>
@@ -435,7 +435,7 @@
   <div class="csl-entry">〔54〕	Cass R. Sunstein, <i>Social Norms and Social Roles</i>, 96 Columbia Law Review 903 (1996).</div>
   <div class="csl-entry">〔55〕	I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">〔56〕	罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，东北财经大学出版社2011年版。</div>
-  <div class="csl-entry">〔57〕	陈登原：《国史旧闻》，中华书局2000年版。</div>
+  <div class="csl-entry">〔57〕	陈登原：《国史旧闻》（第 1 卷），中华书局2000年版。</div>
   <div class="csl-entry">〔58〕	Diana Crane, <i>Invisible College</i>, Univ. of Chicago Press, 1972.</div>
   <div class="csl-entry">〔59〕	Margaret F. Stieg, <i>The Information Needs of Historians</i>, 42 College &#38; Research Libraries 549 (1981).</div>
   <div class="csl-entry">〔60〕	王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，载《山西师范大学学报(社会科学版)》2010年第4期。</div>
@@ -447,11 +447,11 @@
   <div class="csl-entry">〔66〕	刘彻东：《中国的青年刊物: 个性特色为本仁》，载《中国出版》1998年第5期。</div>
   <div class="csl-entry">〔67〕	裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，载中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，中国科学技术协会学会工作部1981年版。</div>
   <div class="csl-entry">〔68〕	张伯伟：《全唐五代诗格汇考》，江苏古籍出版社2002年版。</div>
-  <div class="csl-entry">〔69〕	皮锡瑞：《师伏堂日记》，北京图书馆出版社2009年版。</div>
-  <div class="csl-entry">〔70〕	胡承正、周详、缪灵：《理论物理概论》，武汉大学出版社2010年版。</div>
+  <div class="csl-entry">〔69〕	皮锡瑞：《师伏堂日记》（第 4 册），北京图书馆出版社2009年版。</div>
+  <div class="csl-entry">〔70〕	胡承正、周详、缪灵：《理论物理概论》（上），武汉大学出版社2010年版。</div>
   <div class="csl-entry">〔71〕	美国妇产科医师学会：《新生儿脑病和脑性瘫痪发病机制与病理生理》，段涛、杨慧霞译，人民卫生出版社2010年版。</div>
   <div class="csl-entry">〔72〕	《康熙字典: 巳集上: 水部》（同文书局影印本），中华书局1962年版。</div>
-  <div class="csl-entry">〔73〕	汪昂：《增订本草备要》（刻本），老二酉堂1881年版。</div>
+  <div class="csl-entry">〔73〕	汪昂：《增订本草备要》（刻本四卷），老二酉堂1881年版。</div>
   <div class="csl-entry">〔74〕	蒋有绪、郭泉水、马娟、others：《中国森林群落分类及其群落特征》，科学出版社1998年版。</div>
   <div class="csl-entry">〔75〕	中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团：《投资台湾: 大陆企业赴台投资指南》，九州出版社2013年版。</div>
   <div class="csl-entry">〔76〕	罗斯基：《战前中国经济的增长》，唐巧天、毛立坤、姜修宪译，浙江大学出版社2009年版。</div>
