@@ -1904,6 +1904,7 @@
 		"note": "event-title: 第十二届全国人民代表大会常务委员会第六次会议\n法宝引证码: CLI.DL.6311",
 		"source": "PKULaw",
 		"title": "关于《中华人民共和国行政诉讼法修正案（草案）》的说明",
+		"title-short": "关于《中华人民共和国行政诉讼法修正案（草案）》的说明",
 		"URL": "https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html",
 		"author": [
 			{
@@ -1925,6 +1926,57 @@
 					"2013",
 					12,
 					23
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.33.4:01",
+		"type": "chapter",
+		"container-title": "邓小平文选",
+		"edition": "2",
+		"language": "zh-CN",
+		"publisher": "人民出版社",
+		"title": "精简机构是一场革命",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "邓小平"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "molc.37.3:02",
+		"type": "book",
+		"edition": "8",
+		"language": "zh-CN",
+		"publisher": "商务印书馆",
+		"title": "奥本海国际法",
+		"volume": "上卷第一分册",
+		"author": [
+			{
+				"literal": "[英]劳特派特"
+			}
+		],
+		"translator": [
+			{
+				"literal": "王铁崖"
+			},
+			{
+				"literal": "陈体强"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
 				]
 			]
 		}
