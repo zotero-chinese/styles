@@ -2289,6 +2289,14 @@ available-date: 2014-01-26
   </div>
 </blockquote>
 
+## 460管理评论.csl
+
+管理学期刊《管理评论》样式，基于北航学位论文样式进行修改
+
+显示效果
+
+![image](https://github.com/xjtusjtu/Chinese-STD-GB-T-7714-related-csl/assets/57665402/2dc735d7-8269-4e8e-9bdd-e14c0d2f022e)
+
 
 ## 501-506
 
