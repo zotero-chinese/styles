@@ -139,7 +139,6 @@
     </choose>
   </macro>
   <macro name="entry-layout-zh">
-    <text variable="citation-number" suffix=". "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -197,7 +196,6 @@
     <!-- <text macro="accessed-date"/> 访问日期 -->
   </macro>
   <macro name="entry-layout-en">
-    <text variable="citation-number" suffix=". "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -287,9 +285,11 @@
       <key variable="issued"/>
     </sort>
     <layout locale="en">
+	    <text variable="citation-number" suffix=". "/>
       <text macro="entry-layout-en"/>
     </layout>
     <layout>
+      <text variable="citation-number" suffix=". "/>
       <text macro="entry-layout-zh"/>
     </layout>
   </bibliography>
