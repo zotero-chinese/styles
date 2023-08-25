@@ -166,7 +166,7 @@
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text variable="archive_location" prefix=" "/>
-            <text macro="issued-year" prefix="，"/>
+            <text macro="issued-year" prefix=", "/>
           </group>
           <!-- <text macro="publisher"/> -->
         </group>
@@ -223,7 +223,7 @@
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text variable="archive_location" prefix=" "/>
-            <text macro="issued-year" prefix="，"/>
+            <text macro="issued-year" prefix=", "/>
           </group>
           <!-- <text macro="publisher"/> -->
         </group>
@@ -285,11 +285,11 @@
       <key variable="issued"/>
     </sort>
     <layout locale="en">
-	    <text variable="citation-number" suffix=". "/>
+      <text variable="citation-number" suffix="."/>
       <text macro="entry-layout-en"/>
     </layout>
     <layout>
-      <text variable="citation-number" suffix=". "/>
+      <text variable="citation-number" suffix="."/>
       <text macro="entry-layout-zh"/>
     </layout>
   </bibliography>
