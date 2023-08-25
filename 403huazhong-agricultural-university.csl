@@ -199,11 +199,11 @@
         <group prefix="．">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" suffix="．" text-case="title"/>
+              <text variable="container-title" suffix="，" text-case="title"/>
               <text macro="serial-information-zh"/>
             </if>
             <else>
-              <text macro="serial-information" suffix="．"/>
+              <text macro="serial-information" suffix="，"/>
               <text macro="publisher"/>
             </else>
           </choose>
@@ -257,7 +257,7 @@
           <choose>
             <if variable="container-title-short">
               <text variable="container-title-short" font-style="italic" strip-periods="true" text-case="title"/>
-              <text macro="serial-information" prefix=". "/>
+              <text macro="serial-information" prefix=", "/>
             </if>
             <else>
               <text variable="container-title" font-style="italic" suffix=". " text-case="title"/>
