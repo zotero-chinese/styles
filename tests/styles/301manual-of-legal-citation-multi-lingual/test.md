@@ -365,7 +365,7 @@
 <sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.<br>
 <sup>3</sup> Ibid.<br>
 <sup>4</sup> Ibid, p. 260.<br>
-<sup>5</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，东北财经大学出版社2011年版，第15-16页。<br>
+<sup>5</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、等译，东北财经大学出版社2011年版，第15-16页。<br>
 <sup>6</sup> Supra note 2, I. Morri, p. 326-329.<br>
 
 ### 参考文献表

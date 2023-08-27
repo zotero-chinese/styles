@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <category field="law"/>
-    <updated>2023-06-01T10:34:22+08:00</updated>
+    <updated>2023-08-27T16:05:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -1674,8 +1674,6 @@
   <macro name="citation-number">
     <text variable="citation-number" suffix=". "/>
   </macro>
-  <!-- 作者人数为三人或者三人以上的，原则上第一次列明全部。 -->
-  <!-- 作者人数众多，不便全部列明的，可以根据情况列 1-2 个，后面加“等”。 -->
   <citation et-al-min="4" et-al-use-first="3">
     <layout suffix="." delimiter="; " locale="de">
       <text macro="citation-layout-de"/>
