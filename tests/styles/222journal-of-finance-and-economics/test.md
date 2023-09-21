@@ -28,7 +28,7 @@ Undefined
 
 （王临惠，2010）<br>
 （Crane，1972）<br>
-（贾东琴, 柯平，2011）<br>
+（贾东琴和柯平，2011）<br>
 （Kennedy和Garrison，1975a）<br>
 （Kennedy和Garrison，1975b）<br>
 （王临惠等，2010）<br>
