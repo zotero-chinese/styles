@@ -17,13 +17,13 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-10-10T11:07:39+08:00</updated>
+    <updated>2023-10-10T14:23:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
-    <date form="text" delimiter=" ">
-      <date-part name="day" range-delimiter="–"/>
-      <date-part name="month" form="short" range-delimiter="–"/>
+    <date form="text">
+      <date-part name="day" range-delimiter="–" suffix=" "/>
+      <date-part name="month" form="short" suffix=" " range-delimiter="–"/>
       <date-part name="year" range-delimiter="–"/>
     </date>
     <terms>
