@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="biology"/>
     <issn>2096-6237</issn>
-    <updated>2023-10-07T20:38:13+08:00</updated>
+    <updated>2023-10-22T23:38:57+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -23,6 +23,7 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
+      <term name="and others">et al.</term>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
@@ -59,6 +60,25 @@
       </substitute>
     </names>
   </macro>
+  <macro name="author-translation">
+    <names variable="original-author">
+      <name>
+        <name-part name="family" text-case="uppercase"/>
+      </name>
+      <et-al term="and others"/>
+      <institution/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="original-editor"/>
+          </if>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
   <!-- 题名 -->
   <macro name="title">
     <group delimiter=", ">
@@ -87,6 +107,29 @@
           </choose>
         </if>
       </choose>
+    </group>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-code"/>
+      <text macro="medium-code"/>
+    </group>
+  </macro>
+  <macro name="title-translation">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="original-title"/>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter paper-conference" match="none">
+              <text macro="volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation patent regulation report standard" match="any">
+              <text variable="number"/>
+            </if>
+          </choose>
+        </group>
+      </group>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-code"/>
@@ -228,6 +271,11 @@
       </choose>
     </group>
   </macro>
+  <macro name="container-booklike-translation">
+    <group delimiter=", ">
+      <text variable="original-container-title"/>
+    </group>
+  </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">
     <choose>
@@ -245,6 +293,33 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
+              <text macro="issued-year"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+    <text macro="accessed-date"/>
+  </macro>
+  <macro name="container-periodical-translation">
+    <choose>
+      <if type="article-newspaper">
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
+        <group delimiter=", ">
+          <text variable="original-container-title"/>
+          <text macro="issued-date"/>
+        </group>
+        <text variable="page" prefix="(" suffix=")"/>
+      </if>
+      <else>
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
+        <group delimiter=": ">
+          <group>
+            <group delimiter=", ">
+              <text variable="original-container-title"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
@@ -293,6 +368,46 @@
             <group delimiter=": ">
               <text variable="publisher-place"/>
               <text variable="publisher"/>
+            </group>
+            <text macro="issued-year"/>
+          </group>
+          <text variable="page"/>
+        </group>
+        <text macro="accessed-date"/>
+      </else-if>
+      <else-if variable="URL">
+        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+        <choose>
+          <if type="dataset post post-weblog software webpage" match="any">
+            <!-- 限制更少的类型作为“纯电子文献“ -->
+            <text macro="issued-date" prefix="(" suffix=")"/>
+            <text macro="accessed-date"/>
+          </if>
+          <else>
+            <text macro="issued-year"/>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <text macro="issued-year"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="publisher-translation">
+    <choose>
+      <if type="patent">
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
+      </if>
+      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
+        <group delimiter=": ">
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="original-publisher-place"/>
+              <text variable="original-publisher"/>
             </group>
             <text macro="issued-year"/>
           </group>
@@ -413,6 +528,48 @@
       <text macro="access"/>
     </group>
   </macro>
+  <macro name="entry-layout-translation">
+    <group delimiter=". ">
+      <text macro="author-translation"/>
+      <choose>
+        <if type="periodical">
+          <!-- 4.3 连续出版物 -->
+          <text macro="title-translation"/>
+          <text macro="year-volume-issue"/>
+          <text macro="publisher-translation"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
+          <text macro="title-translation"/>
+          <text macro="container-periodical-translation"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 4.5 专利文献 -->
+          <text macro="title-translation"/>
+          <text macro="publisher-translation"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
+          <text macro="title-translation"/>
+          <text macro="publisher-translation"/>
+        </else-if>
+        <else-if type="chapter paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
+          <group delimiter="//">
+            <text macro="title-translation"/>
+            <text macro="container-booklike-translation"/>
+          </group>
+          <text macro="publisher-translation"/>
+        </else-if>
+        <else>
+          <!-- 4.1 专著 -->
+          <text macro="title-translation"/>
+          <text macro="publisher-translation"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </group>
+  </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number"/>
@@ -428,7 +585,10 @@
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout"/>
+      <group delimiter="; ">
+        <text macro="entry-layout"/>
+        <text macro="entry-layout-translation"/>
+      </group>
     </layout>
   </bibliography>
 </style>
