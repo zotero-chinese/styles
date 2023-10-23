@@ -2289,6 +2289,22 @@ available-date: 2014-01-26
   </div>
 </blockquote>
 
+## [460beijing-institute-of-technology.csl]
+
+《[北京理工大学博士、硕士学位论文撰写规范](https://grd.bit.edu.cn/docs/2017-12/20171212070921798998.pdf)》
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	王晔, 孙志宽, 李征. 基于生成对抗网络与噪声分布的图像超分辨率重建方法[J]. 四川大学学报(自然科学版), 2023, 60(3): 45-54.</div>
+    <div class="csl-entry">[2]	Tsai R Y, Huang T S. Multiframe image restoration and registration[J]. Multiframe image restoration and registration, 1984, 1: 317-339.</div>
+    <div class="csl-entry">[3]	Jenkins W, Mather B, Munson D. Nearest neighbor and generalized inverse distance interpolation for Fourier domain image reconstruction. ICASSP’85. IEEE International Conference on Acoustics, Speech, and Signal Processing[C]. IEEE, 1985: 1069-1072.</div>
+    <div class="csl-entry">[4]	王同官, 赖惠成, 蔡玉玺, 等. 基于注意力残差网络的人脸超分辨率重建[J]. 计算机工程, 2023, 49(6): 234-241.</div>
+    <div class="csl-entry">[5]	Ledig C, Theis L, Huszár F, et al. Photo-realistic single image super-resolution using a generative adversarial network. Proceedings of the IEEE conference on computer vision and pattern recognition[C]. 2017: 4681-4690.</div>
+  </div>
+</blockquote>
+
 ## 460管理评论.csl
 
 管理学期刊《管理评论》样式，基于北航学位论文样式进行修改
