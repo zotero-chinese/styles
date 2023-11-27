@@ -407,6 +407,7 @@ LIANG RONGRONG, LI NAN, WANG RENHUAN, et al. The establishmentof evaluating PSE-
 
 
 ## [104acta-physica-sinica.csl]
+
 《物理学报》<https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm>样式，根据[000gb-t-7714-2015-numeric-bilingual.csl]修改。对应官方仓库为<https://github.com/citation-style-language/styles/blob/master/acta-physica-sinica.csl>或<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/blob/main/105acta-physica-sinica-zotero-res.csl>，CSL官方仓库要求将期刊对应的翻译放入`Extra`字段中，并且前面加`original-title: `。
 
 存在问题：
@@ -434,7 +435,7 @@ LIANG RONGRONG, LI NAN, WANG RENHUAN, et al. The establishmentof evaluating PSE-
 >[9]	Huang J,Yan S G,Zhang B X,Zhang M 2019 Proceedings of the 2019 National Acoustical Congress  Shenzhen，China, September 21-23,2019 P261(in Chinese) [黄娟, 阎守国, 张碧星, 张敏 2019 2019年全国声学大会论文集 中国：深圳, 2019-09-21第261–262页]<br>
 > ```
 
-## [106journal-of-inorganic-materials.csl](106journal-of-inorganic-materials.csl)
+## [106journal-of-inorganic-materials.csl]
 
 《无机材料学报》（<http://www.jim.org.cn/CN/column/item6.shtml>）期刊用，ISSN:1000-324X，CN:31-1363/TQ。
 
@@ -498,6 +499,7 @@ LIANG RONGRONG, LI NAN, WANG RENHUAN, et al. The establishmentof evaluating PSE-
 </blockquote>
 
 ## [109chinese-public-administration.csl]
+
 [《中国行政管理》](http://www.cpaj.com.cn/ggzz_jj.shtml)样式，[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
 
 1. 按照语言显示“等”或“et al.”；
@@ -531,6 +533,7 @@ LIANG RONGRONG, LI NAN, WANG RENHUAN, et al. The establishmentof evaluating PSE-
 
 
 ## [111acta-agriculurae-boreali-sinica.csl]
+
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]基础上修改，[华北农学报](http://www.hbnxb.net/CN/column/column7.shtml#)样式，添加平行语言支持，即对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，显示全部作者和DOI，
 
 存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除；如果要设置缩进悬挂，需要将里面的软回车替换为硬回车，方法是 Word 中查找 `^l` 替换为 `^p` 批量替换。
@@ -639,8 +642,17 @@ original-publisher-place: Nanjing
 [2]	YU M, LI Q, HAYES M J, et al. Are droughts becoming more frequent or severe in China based on the standardized precipitation evapotranspiration index: 1951-2010?[J]. International Journal of Climatology, 2014, 34(3): 545-558.
 
 [3]	刘小龙. 城市群空间结构变化及降雨响应研究[D]. 南京: 东南大学, 2022. (LIU X. Research on megalopolitan changes and corresponding precipitation response[D]. Nanjing: Southeast University, 2022. (in Chinese))
-
 </blockquote>
+
+
+## [116management-review.csl]
+
+管理学期刊《管理评论》样式，基于北航学位论文样式进行修改
+
+显示效果
+
+![image](https://github.com/xjtusjtu/Chinese-STD-GB-T-7714-related-csl/assets/57665402/2dc735d7-8269-4e8e-9bdd-e14c0d2f022e)
+
 
 ## [201comparative-economic-and-social-systems.csl]
 
@@ -726,6 +738,7 @@ original-publisher-place: Nanjing
 > Ebert S., S. Kaplan, K. Brettschneider, et al., 2021, “Aggregation behavior of solubilized meat - Potato protein mixtures”, *Food Hydrocolloids*, 113, 106388.<br>
 
 ## [204financial-research-journal.csl]
+
 [《金融研究》](http://www.jryj.org.cn/CN/column/column3.shtml)样式，[《经济研究》](203economic-research-journal.csl)基础上修改，文内为（作者，年代），参考文献列表中文在前，英文在后，作者前加编号。
 
 显示效果：
@@ -811,8 +824,8 @@ original-publisher-place: Nanjing
 1. 正文中 如果出现文献作者名，有 2 个作者，用“(甲和乙, 年份)”（英文名用“(A and B, 年份)”）连接。
 2. 有 3 个或者更多作者，用“(甲等, 年份)”（英文名为“(A et al., 年份)”）表示。
 3. 文后参考文献表中著录全部姓名。
-3. 英文文献的第一作者姓在前（后加“, ”）、名在后（全部用缩写，即首字母加“.”），其余作者则名在前、姓在后。
-4. 英文文献的最后一个作者前加“，and”。
+4. 英文文献的第一作者姓在前（后加“, ”）、名在后（全部用缩写，即首字母加“.”），其余作者则名在前、姓在后。
+5. 英文文献的最后一个作者前加“，and”。
 
 显示效果：
 
@@ -1361,7 +1374,9 @@ available-date: 2014-01-26
 > [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.	<br>
 > [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
+
 ## [406nanjing-agricultural-university-author-date.csl]
+
 南京农业大学学位论文用（作者年代样式），[415zhejiang-university.csl]上修改。引文中文两个老者之间为`和`，英文为`and`，参考文献列表英文在前中文在后，支持中文作者超过 3 个为`等`，英文为`et al`。
 
 显示效果：
@@ -1378,6 +1393,7 @@ available-date: 2014-01-26
 > ```
 
 ## [408nanjing-agricultural-university-online-first.csl]
+
 与[407nanjing-agricultural-university-old.csl]显示效果基本相同，区别是网络首发的文献（没有卷和期），文献类型改为J/OL，页码后面
 加入`[引用日期].URL`。要显示`[引用日期].URL`需要在`Zotero`的`编辑`-`首选项`-`引用`-中勾选`在参考文献里包含文章URL链接`才会正常显示。
 
@@ -1456,10 +1472,10 @@ available-date: 2014-01-26
 > (Gross et al., 2013)
 > ```
 
->  庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
->  杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
->  ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
->  Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
+> 庞之列, 何栩晓. 一种基于LF-NMR技术的不同含水量猪肉检测方法研究[J]. 食品科学, 2014(04): 142-145.<br>
+> 杨赫鸿, 李沛军, 孔保华, 等. 低场核磁共振技术在肉品科学研究中的应用[J]. 食品工业科技, 2012(13): 400-405.<br>
+> ElMasry G, Sun D-W, Allen P. Non-destructive determination of water-holding capacity in fresh beef by using NIR hyperspectral Imaging[J]. *Food Research International*, 2011, 44(9): 2624-2633. DOI:10.1016/j.foodres.2011.05.001.<br>
+> Gross J B, Furterer A, Carlson B M, et al. An Integrated Transcriptome-Wide Analysis of Cave and Surface Dwelling Astyanax Mexicanus[J]. *PLOS ONE*, 2013, 8(2): e55659. DOI:10.1371/journal.pone.0055659.<br>
 
 
 ## [414yunnan-university.csl]
@@ -1482,6 +1498,7 @@ available-date: 2014-01-26
 
 
 ## [415zhejiang-university.csl]
+
 浙江大学学位论文样式（<http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782>），
 网友**yc**（__ycnotion@protonmail.com__）分享，
 正文中作者年代格式，文末参考文献列表英文文献在前，中文在后，作者数量超过`3`个，英文显示为`et al`，中文显示`等`。
@@ -1561,6 +1578,7 @@ available-date: 2014-01-26
 > ```
 
 ## [420beihang-university.csl]
+
 [北京航空航天大学](http://graduate.buaa.edu.cn/info/1039/7831.htm)作者年代参考文献样式，
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]基础上修改，作者首字母大写，题目词首字母大写，结尾无点，3人以内列出全部作者，3人以上写3人加`等`（英文加`et al`））。
 
@@ -1578,9 +1596,11 @@ available-date: 2014-01-26
 >[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609<br>
 
 ## [421hebei-agricultural-university.csl]
+
 [河北农业大学](https://www.hebau.edu.cn/)学位论文参考文献样式。
 
 ## [422chinese-academy-of-agricultural-sciences.csl]
+
 [中国农业科学院](https://gs.caas.cn/xwxk/xwsy/227175.htm)作者年代学位论文参考文献样式，按著者字顺和出版年排序
 中文文献在前，按汉语拼音升序排序，英文文献在后，按字母升序排序。使用时需要将英文条目语言改为`en-US`，中文改为`zh-CN`。
 
@@ -2289,6 +2309,7 @@ available-date: 2014-01-26
   </div>
 </blockquote>
 
+
 ## [460beijing-institute-of-technology.csl]
 
 《[北京理工大学博士、硕士学位论文撰写规范](https://grd.bit.edu.cn/docs/2017-12/20171212070921798998.pdf)》
@@ -2304,14 +2325,6 @@ available-date: 2014-01-26
     <div class="csl-entry">[5]	Ledig C, Theis L, Huszár F, et al. Photo-realistic single image super-resolution using a generative adversarial network. Proceedings of the IEEE conference on computer vision and pattern recognition[C]. 2017: 4681-4690.</div>
   </div>
 </blockquote>
-
-## 460管理评论.csl
-
-管理学期刊《管理评论》样式，基于北航学位论文样式进行修改
-
-显示效果
-
-![image](https://github.com/xjtusjtu/Chinese-STD-GB-T-7714-related-csl/assets/57665402/2dc735d7-8269-4e8e-9bdd-e14c0d2f022e)
 
 
 ## [461northwestern-polytechnical-university.csl]
@@ -2335,6 +2348,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[11]	中华人民共和国科学技术委员会. 科学技术期刊管理办法[Z]. 1991-06-05.</div>
   </div>
 </blockquote>
+
 
 ## 501-506
 
@@ -2583,6 +2597,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [111acta-agriculurae-boreali-sinica.csl]: 111acta-agriculurae-boreali-sinica.csl
 [112scientia-agricultura-sinica.csl]: 112scientia-agricultura-sinica.csl
 [115advances-in-water-science.csl]: 115advances-in-water-science.csl
+[116management-review.csl]: 116management-review.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
@@ -2657,5 +2672,5 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [457hunan-university-numeric.csl]: 457hunan-university-numeric.csl
 [458hunan-university-note.csl]: 458hunan-university-note.csl
 [459shanghai-university.csl]: 459shanghai-university.csl
-
+[460beijing-institute-of-technology.csl]: 460beijing-institute-of-technology.csl
 [461northwestern-polytechnical-university.csl]: 461northwestern-polytechnical-university.csl
