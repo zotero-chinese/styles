@@ -17,6 +17,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
+    <summary>中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。</summary>
     <updated>2023-10-10T14:23:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -59,7 +60,8 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name/>
+    <!-- 作者缩写改为全称 -->
+      <name initialize='false'/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -412,7 +414,8 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="7" et-al-use-first="6" second-field-align="flush" line-spacing="1.5">
+  <!-- 参考文献表, 作者个数不超过3个 -->
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush" line-spacing="1.5">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en"/>
