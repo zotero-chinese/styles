@@ -1546,7 +1546,7 @@ available-date: 2014-01-26
 
 <blockquote>
   <div class="csl-bib-body second-field-align-flush">
-    <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
+    <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
     <div class="csl-entry">[2]	M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
     <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
     <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
@@ -1554,7 +1554,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
     <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
     <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
-    <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究: [博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
+    <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
   </div>
 </blockquote>
 
@@ -1992,16 +1992,16 @@ available-date: 2014-01-26
 显示效果：
 
 <blockquote>
-  <div class="csl-bib-body">
-    <div class="csl-entry">[1] 闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
-    <div class="csl-entry">[2] M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. 2nd ed. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
-    <div class="csl-entry">[3] 詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
-    <div class="csl-entry">[4] E. S. Lein, M. J. Hawrylycz, N. Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
-    <div class="csl-entry">[5] M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-    <div class="csl-entry">[6] S. Yamaki, M. Abet, M. Kawamata, et al. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
-    <div class="csl-entry">[7] T. Yao, J. Wan, P. Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
-    <div class="csl-entry">[8] 刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
-    <div class="csl-entry">[9] 李清泉. 基于混合结构的三维GIS数据模型与空间分析研究: [博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
+    <div class="csl-entry">[2]	M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
+    <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
+    <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
+    <div class="csl-entry">[5]	M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
+    <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, et al. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
+    <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
+    <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
+    <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
   </div>
 </blockquote>
 
@@ -2354,6 +2354,8 @@ available-date: 2014-01-26
 ## [462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl]
 
 [华中科技大学网络空间安全学院学位论文](http://cse.hust.edu.cn/yjsjy/wjxz.htm)样式。[418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl] 基础上修改。
+
+中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。
 
 显示效果：
 

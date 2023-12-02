@@ -21,7 +21,7 @@ Undefined
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
+  <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
   <div class="csl-entry">[2]	M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
   <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
@@ -29,7 +29,7 @@ Undefined
   <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
   <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
   <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
-  <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究: [博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
+  <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
 </div>
 
 ## 默认测试
@@ -61,17 +61,17 @@ Undefined
   <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010. 北京: 中国标准出版社, 2010: 2-3</div>
   <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构. 北京: 科学出版社, 2010</div>
   <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录. 北京: 北京古籍出版社, 1992</div>
-  <div class="csl-entry">[7]	王夫之. 宋论. 刻本. 金陵: 湘乡曾国荃, 1865</div>
+  <div class="csl-entry">[7]	王夫之. 宋论（刻本）. 金陵: 湘乡曾国荃, 1865</div>
   <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集. 北京: 海洋出版社, 2012</div>
   <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇. 桂林: 广西师范大学出版社, 2001</div>
-  <div class="csl-entry">[10]	杨保军. 新闻道德论: [博士学位论文]. 北京: 中国人民大学出版社, 2012</div>
+  <div class="csl-entry">[10]	杨保军. 新闻道德论[博士学位论文]. 北京: 中国人民大学出版社, 2012</div>
   <div class="csl-entry">[11]	赵学功. 当代美国外交. 北京: 社会科学文献出版社, 2001</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究. 上海: 同济大学出版社, 2011: 5-6</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003. 北京: 中国轻工业出版社, 2003</div>
-  <div class="csl-entry">[14]	P. Z. Peebles Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001</div>
-  <div class="csl-entry">[15]	S. A. Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1–4 Feb. 2000. Rotterdam: A. A. Balkema, 2000</div>
+  <div class="csl-entry">[14]	P. Z. Peebles Jr. Probability, random variables, and random signal principles (fourth edition). New York: McGraw-Hill, 2001</div>
+  <div class="csl-entry">[15]	S. A. Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">[16]	P. Baldock. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105</div>
-  <div class="csl-entry">[17]	X. Fan, C. H. Sommers. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
+  <div class="csl-entry">[17]	X. Fan, C. H. Sommers. Food irradiation research and technology (second edition). Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
   <div class="csl-entry">[18]	周易外传: 卷 5. 见: 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109</div>
   <div class="csl-entry">[19]	程根伟. 1998 年长江洪水的成因与减灾对策. 见: 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36</div>
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 蓟县震旦亚界研究. 见: 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114</div>
@@ -100,8 +100,8 @@ Undefined
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
   <div class="csl-entry">[44]	A. Hopkinson. UNIMARC and metadata: Dublin core. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas. British Medical Journal, 1981, 283(6292): 628</div>
-  <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究: [博士学位论文]. 合肥: 中国科学技术大学, 2000: 17-18</div>
-  <div class="csl-entry">[47]	W. Deverell, D. Igler. A companion to California history: [Doctoral dissertation]. New York: John Wiley &#38; Sons, 2013: 21-22</div>
+  <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[博士学位论文]. 合肥: 中国科学技术大学, 2000: 17-18</div>
+  <div class="csl-entry">[47]	W. Deverell, D. Igler. A companion to California history [Doctoral dissertation]. New York: John Wiley &#38; Sons, 2013: 21-22</div>
   <div class="csl-entry">[48]	S. K. Baker, M. E. Jackson. The future of resource sharing. New York: The Haworth Press, 1995</div>
   <div class="csl-entry">[49]	B. E. Chernik. Introduction to library services for library technicians. Littleton, Colo.: Libraries Unlimited, Inc., 1982</div>
   <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996</div>
@@ -119,38 +119,38 @@ Undefined
   <div class="csl-entry">[62]	W. J. Kennedy, R. E. Garrison. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 1975, 22: 311</div>
   <div class="csl-entry">[63]	W. J. Kennedy, R. E. Garrison. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 1975, 8(4): 339-360</div>
   <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求. 见: 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编, 北京, 中国科学技术期刊编辑学会学术委员会, 1997: 33-34</div>
-  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典. 修订本. 北京: 商务印书馆, 1996</div>
+  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典（修订本）. 北京: 商务印书馆, 1996</div>
   <div class="csl-entry">[66]	刘彻东. 中国的青年刊物: 个性特色为本仁. 中国出版, 1998(5): 38-39</div>
   <div class="csl-entry">[67]	裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话. 见: 中国科协学术期刊编辑工作经验交流会资料选, 北京, 中国科学技术协会学会工作部, 1981: 2-10</div>
   <div class="csl-entry">[68]	张伯伟. 全唐五代诗格汇考. 南京: 江苏古籍出版社, 2002: 288</div>
   <div class="csl-entry">[69]	皮锡瑞. 师伏堂日记: 第 4 册. 北京: 北京图书馆出版社, 2009: 155</div>
   <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 理论物理概论: 上. 武汉: 武汉大学出版社, 2010: 112</div>
   <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39</div>
-  <div class="csl-entry">[72]	康熙字典: 巳集上: 水部. 同文书局影印本. 北京: 中华书局, 1962: 50</div>
-  <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷. 刻本. 京都: 老二酉堂, 1881</div>
+  <div class="csl-entry">[72]	康熙字典: 巳集上: 水部（同文书局影印本）. 北京: 中华书局, 1962: 50</div>
+  <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷（刻本）. 京都: 老二酉堂, 1881</div>
   <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, others. 中国森林群落分类及其群落特征. 北京: 科学出版社, 1998</div>
   <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南. 北京: 九州出版社, 2013</div>
   <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009</div>
-  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版. 金吾伦, 胡新和, 译. 第二版. 北京: 北京大学出版社, 2012</div>
+  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版（第二版）. 金吾伦, 胡新和, 译. 北京: 北京大学出版社, 2012</div>
   <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性. 北京: 化学工业出版社, 2010: 119</div>
   <div class="csl-entry">[79]	W. Crawford, M. Gorman. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association, 1995</div>
-  <div class="csl-entry">[80]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues. 3rd ed. London: IFLA International Office for UBC, 1977</div>
-  <div class="csl-entry">[81]	J. A. O’Brien. Introduction to information systems. 7th ed. Burr Ridge, III: Irwin, 1994</div>
+  <div class="csl-entry">[80]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues (third edition). London: IFLA International Office for UBC, 1977</div>
+  <div class="csl-entry">[81]	J. A. O’Brien. Introduction to information systems (seventh edition). Burr Ridge, III: Irwin, 1994</div>
   <div class="csl-entry">[82]	A. Kinchy. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press, 2012: 50</div>
-  <div class="csl-entry">[83]	A. Praetzellis. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13</div>
+  <div class="csl-entry">[83]	A. Praetzellis. Death by theory: a tale of mystery and archaeological theory (Rev. ed.). Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13</div>
   <div class="csl-entry">[84]	中国职工教育研究会. 职工教育研究论文集. 北京: 人民教育出版社, 1985</div>
   <div class="csl-entry">[85]	中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社, 2012</div>
   <div class="csl-entry">[86]	雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集. 北京: 海洋出版社, 2012</div>
   <div class="csl-entry">[87]	陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社, 2011</div>
-  <div class="csl-entry">[88]	B. V. Babu, A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 28–30 Dec. 2012. New Delhi: Springer, 2014</div>
+  <div class="csl-entry">[88]	B. V. Babu, A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer, 2014</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. 2013</div>
   <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013. 2013</div>
   <div class="csl-entry">[91]	D. Calkin, A. Ager, M. Thompson. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8-9</div>
   <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990</div>
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970</div>
-  <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析: [博士学位论文]. 北京: 清华大学, 2011: 27</div>
-  <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究: [博士学位论文]. 北京: 北京大学, 2003</div>
-  <div class="csl-entry">[96]	B. R. Cairns. Infrared spectroscopic studies on solid oxygen: [博士学位论文]. Berkeley: Univ. of California, 1965</div>
+  <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析[博士学位论文]. 北京: 清华大学, 2011: 27</div>
+  <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究[博士学位论文]. 北京: 北京大学, 2003</div>
+  <div class="csl-entry">[96]	B. R. Cairns. Infrared spectroscopic studies on solid oxygen [博士学位论文]. Berkeley: Univ. of California, 1965</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置. 中国, 201220158825.2, 2012</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法. 中国, 01129210.5, 2001</div>
   <div class="csl-entry">[99]	A. Koseki, H. Momose, M. Kawahito, H. Komatsu. Compiler. US, US828402, 2002</div>
