@@ -19,7 +19,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。</summary>
-    <updated>2023-11-30T00:23:10+08:00</updated>
+    <updated>2023-12-02T17:30:54+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -61,8 +61,8 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-    <!-- 作者缩写改为全称 -->
-      <name initialize='false'/>
+      <!-- 作者缩写改为全称 -->
+      <name initialize="false"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -76,8 +76,8 @@
     </names>
   </macro>
   <!-- 题名 -->
-  <macro name="title">
-    <group delimiter=", ">
+  <macro name="title-en">
+    <group delimiter=" ">
       <group delimiter=": ">
         <text variable="title"/>
         <group delimiter="&#8195;">
@@ -91,21 +91,47 @@
               <text variable="number"/>
             </if>
           </choose>
+        </group>
+      </group>
+      <choose>
+        <if variable="container-title" type="chapter paper-conference" match="none">
+          <!-- 版本号，样式为图书名称（第x版） -->
+          <text macro="edition-en" prefix="(" suffix=")"/>
+        </if>
+      </choose>
+      <choose>
+        <if type="thesis" match="any">
+          <text macro="thesis-type" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+    </group>
+  </macro>
+  <macro name="title-zh">
+    <group>
+      <group delimiter=": ">
+        <text variable="title"/>
+        <group delimiter="&#8195;">
           <choose>
-            <if type="thesis" match="any">
-              <text macro="thesis-type" prefix="[" suffix="]"/>
+            <if variable="container-title" type="chapter paper-conference" match="none">
+              <text macro="volume"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="bill legal_case legislation regulation report standard" match="any">
+              <text variable="number"/>
             </if>
           </choose>
         </group>
       </group>
       <choose>
         <if variable="container-title" type="chapter paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
+          <!-- 版本号，样式为图书名称（第x版） -->
+          <text macro="edition-zh" prefix="（" suffix="）"/>
+        </if>
+      </choose>
+      <choose>
+        <if type="thesis" match="any">
+          <text macro="thesis-type" prefix="[" suffix="]"/>
         </if>
       </choose>
     </group>
@@ -192,8 +218,8 @@
   <macro name="edition-en">
     <choose>
       <if is-numeric="edition">
-        <number variable="edition" form="ordinal" prefix=" "/>
-        <label variable="edition" form="short" prefix=" "/>
+        <number variable="edition" form="long-ordinal"/>
+        <label variable="edition" prefix=" "/>
       </if>
       <else>
         <text variable="edition"/>
@@ -311,28 +337,28 @@
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
-          <text macro="title"/>
+          <text macro="title-en"/>
           <text macro="year-volume-issue"/>
           <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
-          <text macro="title"/>
+          <text macro="title-en"/>
           <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
-          <text macro="title"/>
+          <text macro="title-en"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 4.6 电子资源 -->
-          <text macro="title"/>
+          <text macro="title-en"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="chapter paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <text macro="title"/>
+          <text macro="title-en"/>
           <text macro="secondary-contributors"/>
           <!-- <text macro="container-contributors"/> -->
           <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
@@ -344,9 +370,8 @@
         </else-if>
         <else>
           <!-- 4.1 专著 -->
-          <text macro="title"/>
+          <text macro="title-en"/>
           <text macro="secondary-contributors"/>
-          <text macro="edition-en"/>
           <text macro="publisher"/>
         </else>
       </choose>
@@ -359,28 +384,28 @@
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
-          <text macro="title"/>
+          <text macro="title-zh"/>
           <text macro="year-volume-issue"/>
           <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
-          <text macro="title"/>
+          <text macro="title-zh"/>
           <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
-          <text macro="title"/>
+          <text macro="title-zh"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 4.6 电子资源 -->
-          <text macro="title"/>
+          <text macro="title-zh"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="paper-conference">
           <!-- 会议论文集 -->
-          <text macro="title"/>
+          <text macro="title-zh"/>
           <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
             但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
           <group delimiter=", ">
@@ -390,7 +415,7 @@
         </else-if>
         <else-if type="chapter" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <text macro="title"/>
+          <text macro="title-zh"/>
           <text macro="secondary-contributors"/>
           <!-- <text macro="container-contributors"/> -->
           <text macro="container-booklike"/>
@@ -398,14 +423,8 @@
         </else-if>
         <else>
           <!-- 4.1 专著 -->
-          <group delimiter="">
-            <group delimiter=". ">
-              <text macro="title"/>
-              <text macro="secondary-contributors"/>
-            </group>
-            <!-- 版本号，样式为图书名称（第x版） -->
-            <text macro="edition-zh" prefix="（" suffix="）"/>
-          </group>
+          <text macro="title-zh"/>
+          <text macro="secondary-contributors"/>
           <text macro="publisher"/>
         </else>
       </choose>
