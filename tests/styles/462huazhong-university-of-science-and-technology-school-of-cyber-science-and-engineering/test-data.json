@@ -747,9 +747,8 @@
 		"page": "161-176",
 		"publisher": "USENIX Association",
 		"source": "ACM Digital Library",
-		"title": "Principled Schedulability Analysis for Distributed Storage Systems Using Thread Architecture Models",
+		"title": "Principled schedulability analysis for distributed storage systems using thread architecture models",
 		"URL": "https://doi.org/10.1145/3574323",
-		"volume": "19",
 		"author": [
 			{
 				"family": "Yang",

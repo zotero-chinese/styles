@@ -16,7 +16,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-02T18:32:13+08:00</updated>
+    <updated>2023-12-02T18:47:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -256,7 +256,7 @@
         </group>
       </if>
       <else-if type="paper-conference">
-        <!-- 会议论文集：“会议城市, 国家, 会议时间, 出版者, 出版年: 起 页-止页” -->
+        <!-- 会议论文集：“会议城市, 国家, 会议时间, 出版者, 出版年: 起页-止页” -->
         <group delimiter=": ">
           <group delimiter=", ">
             <text variable="event-place"/>

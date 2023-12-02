@@ -18,19 +18,15 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。</summary>
-    <updated>2023-12-02T18:34:18+08:00</updated>
+    <updated>2023-12-02T18:51:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <date form="text">
-      <date-part name="day" range-delimiter="–" suffix=" "/>
-      <date-part name="month" form="short" suffix=" " range-delimiter="–"/>
+      <date-part name="month" suffix=" " range-delimiter="–"/>
+      <date-part name="day" suffix=", " range-delimiter="–"/>
       <date-part name="year" range-delimiter="–"/>
     </date>
-    <terms>
-      <term name="month-06" form="short">June</term>
-      <term name="month-07" form="short">July</term>
-    </terms>
   </locale>
   <locale xml:lang="zh">
     <date form="text">
@@ -258,7 +254,7 @@
         </group>
       </if>
       <else-if type="paper-conference">
-        <!-- 会议论文集：“会议城市, 国家, 会议时间, 出版者, 出版年: 起 页-止页” -->
+        <!-- 会议论文集：“会议城市, 国家, 会议时间, 出版者, 出版年: 起页-止页” -->
         <group delimiter=": ">
           <group delimiter=", ">
             <text variable="event-place"/>
@@ -358,9 +354,6 @@
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-en"/>
           <text macro="secondary-contributors"/>
-          <!-- <text macro="container-contributors"/> -->
-          <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
-            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
           <group delimiter=", ">
             <text macro="container-booklike"/>
             <text macro="publisher"/>
@@ -404,8 +397,6 @@
         <else-if type="paper-conference">
           <!-- 会议论文集 -->
           <text macro="title-zh"/>
-          <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
-            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
           <group delimiter=", ">
             <text macro="container-booklike"/>
             <text macro="publisher"/>

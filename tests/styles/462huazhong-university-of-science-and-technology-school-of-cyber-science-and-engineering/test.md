@@ -26,7 +26,7 @@ Undefined
   <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   <div class="csl-entry">[4]	Ed S. Lein, Michael J. Hawrylycz, Nancy Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
   <div class="csl-entry">[5]	Mary L. Bouxsein, Stephen K. Boyd, Blaine A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-  <div class="csl-entry">[6]	Suli Yang, Jing Liu, Andrea Arpaci-Dusseau, et al. Principled Schedulability Analysis for Distributed Storage Systems Using Thread Architecture Models. In: Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018): Vol. 19, Carlsbad, CA, USA, 8–10 Oct. 2018, USENIX Association, 2018: 161-176</div>
+  <div class="csl-entry">[6]	Suli Yang, Jing Liu, Andrea Arpaci-Dusseau, et al. Principled schedulability analysis for distributed storage systems using thread architecture models. In: Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018), Carlsbad, CA, USA, October 8–10, 2018, USENIX Association, 2018: 161-176</div>
   <div class="csl-entry">[7]	Ting Yao, Jiguang Wan, Ping Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
   <div class="csl-entry">[8]	刘德林, 李德奎. 多功能可擦写存储器. 中国, 发明专利, 202010575613.3, 2020</div>
   <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
@@ -165,7 +165,7 @@ Undefined
   <div class="csl-entry">[108]	宋史卷三: 本纪第三. 见: 宋史: 第 1 册. 北京: 中华书局, 1977: 49</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012</div>
   <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord, D. R. Veblen. Subsolidus phenomena in pyroxenes. In: Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>
-  <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23–25 Aug. 1971, ASME, c1971: 17-38</div>
+  <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, August 23–25, 1971, ASME, c1971: 17-38</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法. 图书情报工作, 2008, 52(6): 6-21</div>
   <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523</div>
