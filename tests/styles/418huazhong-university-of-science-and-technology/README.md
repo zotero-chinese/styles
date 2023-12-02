@@ -9,7 +9,7 @@
 ## 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
+  <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
   <div class="csl-entry">[2]	Martin Chalfie, Steven Kain. Green fluorescent protein: properties, applications, and protocols. 2nd ed. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
   <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   <div class="csl-entry">[4]	Ed S. Lein, Michael J. Hawrylycz, Nancy Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>

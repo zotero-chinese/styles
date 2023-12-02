@@ -192,7 +192,7 @@
   <macro name="edition-en">
     <choose>
       <if is-numeric="edition">
-        <number variable="edition" form="ordinal"/>
+        <number variable="edition" form="ordinal" prefix=" "/>
         <label variable="edition" form="short" prefix=" "/>
       </if>
       <else>
@@ -398,9 +398,14 @@
         </else-if>
         <else>
           <!-- 4.1 专著 -->
-          <text macro="title"/>
-          <text macro="secondary-contributors"/>
-          <text macro="edition-zh"/>
+          <group delimiter="">
+            <group delimiter=". ">
+              <text macro="title"/>
+              <text macro="secondary-contributors"/>
+            </group>
+            <!-- 版本号，样式为图书名称（第x版） -->
+            <text macro="edition-zh" prefix="（" suffix="）"/>
+          </group>
           <text macro="publisher"/>
         </else>
       </choose>
