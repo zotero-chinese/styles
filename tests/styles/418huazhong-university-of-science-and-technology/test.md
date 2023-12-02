@@ -21,7 +21,7 @@ Undefined
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
+  <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
   <div class="csl-entry">[2]	Martin Chalfie, Steven Kain. Green fluorescent protein: properties, applications, and protocols. 2nd ed. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
   <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   <div class="csl-entry">[4]	Ed S. Lein, Michael J. Hawrylycz, Nancy Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
@@ -61,7 +61,7 @@ Undefined
   <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010. 北京: 中国标准出版社, 2010: 2-3</div>
   <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构. 北京: 科学出版社, 2010</div>
   <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录. 北京: 北京古籍出版社, 1992</div>
-  <div class="csl-entry">[7]	王夫之. 宋论. 刻本. 金陵: 湘乡曾国荃, 1865</div>
+  <div class="csl-entry">[7]	王夫之. 宋论（刻本）. 金陵: 湘乡曾国荃, 1865</div>
   <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集. 北京: 海洋出版社, 2012</div>
   <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇. 桂林: 广西师范大学出版社, 2001</div>
   <div class="csl-entry">[10]	杨保军. 新闻道德论: [博士学位论文]. 北京: 中国人民大学出版社, 2012</div>
@@ -119,19 +119,19 @@ Undefined
   <div class="csl-entry">[62]	W. James Kennedy, Robert E. Garrison. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 1975, 22: 311</div>
   <div class="csl-entry">[63]	W. James Kennedy, Robert E. Garrison. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 1975, 8(4): 339-360</div>
   <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求. 见: 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编, 北京, 中国科学技术期刊编辑学会学术委员会, 1997: 33-34</div>
-  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典. 修订本. 北京: 商务印书馆, 1996</div>
+  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典（修订本）. 北京: 商务印书馆, 1996</div>
   <div class="csl-entry">[66]	刘彻东. 中国的青年刊物: 个性特色为本仁. 中国出版, 1998(5): 38-39</div>
   <div class="csl-entry">[67]	裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话. 见: 中国科协学术期刊编辑工作经验交流会资料选, 北京, 中国科学技术协会学会工作部, 1981: 2-10</div>
   <div class="csl-entry">[68]	张伯伟. 全唐五代诗格汇考. 南京: 江苏古籍出版社, 2002: 288</div>
   <div class="csl-entry">[69]	皮锡瑞. 师伏堂日记: 第 4 册. 北京: 北京图书馆出版社, 2009: 155</div>
   <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 理论物理概论: 上. 武汉: 武汉大学出版社, 2010: 112</div>
   <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39</div>
-  <div class="csl-entry">[72]	康熙字典: 巳集上: 水部. 同文书局影印本. 北京: 中华书局, 1962: 50</div>
-  <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷. 刻本. 京都: 老二酉堂, 1881</div>
+  <div class="csl-entry">[72]	康熙字典: 巳集上: 水部（同文书局影印本）. 北京: 中华书局, 1962: 50</div>
+  <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷（刻本）. 京都: 老二酉堂, 1881</div>
   <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征. 北京: 科学出版社, 1998</div>
   <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南. 北京: 九州出版社, 2013</div>
   <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009</div>
-  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版. 金吾伦, 胡新和, 译. 第二版. 北京: 北京大学出版社, 2012</div>
+  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版. 金吾伦, 胡新和, 译（第二版）. 北京: 北京大学出版社, 2012</div>
   <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性. 北京: 化学工业出版社, 2010: 119</div>
   <div class="csl-entry">[79]	W. Crawford, M. Gorman. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association, 1995</div>
   <div class="csl-entry">[80]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues. 3rd ed. London: IFLA International Office for UBC, 1977</div>
