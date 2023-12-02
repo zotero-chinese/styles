@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>华中科技大学 - 同济医学院</title>
-    <title-short>TJMC</title-short>
-    <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-tongji-medical-college</id>
-    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-tongji-medical-college" rel="self"/>
-    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation" rel="template"/>
-    <link href="http://jcyxy.tjmu.edu.cn/info/1573/6839.htm" rel="documentation"/>
+    <title>华中科技大学 - 人工智能与自动化学院</title>
+    <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation</id>
+    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="https://aia.hust.edu.cn/info/1122/5294.htm" rel="documentation"/>
     <author>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </author>
+    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
-    </author>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-02T18:17:04+08:00</updated>
+    <updated>2023-12-02T18:12:56+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
-    <date form="text" delimiter=" ">
-      <date-part name="day" range-delimiter="–"/>
-      <date-part name="month" form="short" range-delimiter="–"/>
+    <date form="text">
+      <date-part name="day" range-delimiter="–" suffix=" "/>
+      <date-part name="month" form="short" suffix=" " range-delimiter="–"/>
       <date-part name="year" range-delimiter="–"/>
     </date>
+    <terms>
+      <term name="month-06" form="short">June</term>
+      <term name="month-07" form="short">July</term>
+    </terms>
   </locale>
   <locale xml:lang="zh">
     <date form="text">
@@ -404,7 +411,7 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush" line-spacing="1.5">
+  <bibliography entry-spacing="0" et-al-min="7" et-al-use-first="6" second-field-align="flush" line-spacing="1.5">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en"/>

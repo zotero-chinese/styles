@@ -1,0 +1,788 @@
+[
+	{
+		"id": "hust-cse:01",
+		"type": "book",
+		"edition": "2",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "中国水利水电出版社",
+		"publisher-place": "北京",
+		"title": "CFG桩复合地基技术及工程实践",
+		"author": [
+			{
+				"literal": "闫明礼"
+			},
+			{
+				"literal": "张东刚"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:02",
+		"type": "book",
+		"collection-title": "Methods of biochemical analysis",
+		"event-place": "Hoboken, New Jersey",
+		"ISBN": "978-0-471-17839-2",
+		"language": "en-US",
+		"number-of-pages": "443",
+		"publisher": "Wiley-Interscience",
+		"publisher-place": "Hoboken, New Jersey",
+		"title": "Green fluorescent protein: properties, applications, and protocols",
+		"title-short": "Green fluorescent protein",
+		"editor": [
+			{
+				"family": "Chalfie",
+				"given": "Martin"
+			},
+			{
+				"family": "Kain",
+				"given": "Steven"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:03",
+		"type": "article-journal",
+		"container-title": "中华中医药学刊",
+		"DOI": "10.3969/j.issn.1673-7717.2004.11.062",
+		"issue": "11",
+		"language": "zh-CN",
+		"page": "2094-2096",
+		"source": "Wanfang Data",
+		"title": "中医药防治阿尔茨海默病实验研究述要",
+		"URL": "https://d.wanfangdata.com.cn/periodical/zyyxk200411062",
+		"volume": "22",
+		"author": [
+			{
+				"literal": "詹向红"
+			},
+			{
+				"literal": "李德新"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:04",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10.1038/nature05453",
+		"ISSN": "0028-0836, 1476-4687",
+		"issue": "7124",
+		"language": "en-US",
+		"page": "168-176",
+		"title": "Genome-wide atlas of gene expression in the adult mouse brain",
+		"URL": "http://www.nature.com/articles/nature05453",
+		"volume": "445",
+		"author": [
+			{
+				"family": "Lein",
+				"given": "Ed S."
+			},
+			{
+				"family": "Hawrylycz",
+				"given": "Michael J."
+			},
+			{
+				"family": "Ao",
+				"given": "Nancy"
+			},
+			{
+				"family": "Ayres",
+				"given": "Mikael"
+			},
+			{
+				"family": "Bensinger",
+				"given": "Amy"
+			},
+			{
+				"family": "Bernard",
+				"given": "Amy"
+			},
+			{
+				"family": "Boe",
+				"given": "Andrew F."
+			},
+			{
+				"family": "Boguski",
+				"given": "Mark S."
+			},
+			{
+				"family": "Brockway",
+				"given": "Kevin S."
+			},
+			{
+				"family": "Byrnes",
+				"given": "Emi J."
+			},
+			{
+				"family": "Chen",
+				"given": "Lin"
+			},
+			{
+				"family": "Chen",
+				"given": "Li"
+			},
+			{
+				"family": "Chen",
+				"given": "Tsuey-Ming"
+			},
+			{
+				"family": "Chi Chin",
+				"given": "Mei"
+			},
+			{
+				"family": "Chong",
+				"given": "Jimmy"
+			},
+			{
+				"family": "Crook",
+				"given": "Brian E."
+			},
+			{
+				"family": "Czaplinska",
+				"given": "Aneta"
+			},
+			{
+				"family": "Dang",
+				"given": "Chinh N."
+			},
+			{
+				"family": "Datta",
+				"given": "Suvro"
+			},
+			{
+				"family": "Dee",
+				"given": "Nick R."
+			},
+			{
+				"family": "Desaki",
+				"given": "Aimee L."
+			},
+			{
+				"family": "Desta",
+				"given": "Tsega"
+			},
+			{
+				"family": "Diep",
+				"given": "Ellen"
+			},
+			{
+				"family": "Dolbeare",
+				"given": "Tim A."
+			},
+			{
+				"family": "Donelan",
+				"given": "Matthew J."
+			},
+			{
+				"family": "Dong",
+				"given": "Hong-Wei"
+			},
+			{
+				"family": "Dougherty",
+				"given": "Jennifer G."
+			},
+			{
+				"family": "Duncan",
+				"given": "Ben J."
+			},
+			{
+				"family": "Ebbert",
+				"given": "Amanda J."
+			},
+			{
+				"family": "Eichele",
+				"given": "Gregor"
+			},
+			{
+				"family": "Estin",
+				"given": "Lili K."
+			},
+			{
+				"family": "Faber",
+				"given": "Casey"
+			},
+			{
+				"family": "Facer",
+				"given": "Benjamin A."
+			},
+			{
+				"family": "Fields",
+				"given": "Rick"
+			},
+			{
+				"family": "Fischer",
+				"given": "Shanna R."
+			},
+			{
+				"family": "Fliss",
+				"given": "Tim P."
+			},
+			{
+				"family": "Frensley",
+				"given": "Cliff"
+			},
+			{
+				"family": "Gates",
+				"given": "Sabrina N."
+			},
+			{
+				"family": "Glattfelder",
+				"given": "Katie J."
+			},
+			{
+				"family": "Halverson",
+				"given": "Kevin R."
+			},
+			{
+				"family": "Hart",
+				"given": "Matthew R."
+			},
+			{
+				"family": "Hohmann",
+				"given": "John G."
+			},
+			{
+				"family": "Howell",
+				"given": "Maureen P."
+			},
+			{
+				"family": "Jeung",
+				"given": "Darren P."
+			},
+			{
+				"family": "Johnson",
+				"given": "Rebecca A."
+			},
+			{
+				"family": "Karr",
+				"given": "Patrick T."
+			},
+			{
+				"family": "Kawal",
+				"given": "Reena"
+			},
+			{
+				"family": "Kidney",
+				"given": "Jolene M."
+			},
+			{
+				"family": "Knapik",
+				"given": "Rachel H."
+			},
+			{
+				"family": "Kuan",
+				"given": "Chihchau L."
+			},
+			{
+				"family": "Lake",
+				"given": "James H."
+			},
+			{
+				"family": "Laramee",
+				"given": "Annabel R."
+			},
+			{
+				"family": "Larsen",
+				"given": "Kirk D."
+			},
+			{
+				"family": "Lau",
+				"given": "Christopher"
+			},
+			{
+				"family": "Lemon",
+				"given": "Tracy A."
+			},
+			{
+				"family": "Liang",
+				"given": "Agnes J."
+			},
+			{
+				"family": "Liu",
+				"given": "Ying"
+			},
+			{
+				"family": "Luong",
+				"given": "Lon T."
+			},
+			{
+				"family": "Michaels",
+				"given": "Jesse"
+			},
+			{
+				"family": "Morgan",
+				"given": "Judith J."
+			},
+			{
+				"family": "Morgan",
+				"given": "Rebecca J."
+			},
+			{
+				"family": "Mortrud",
+				"given": "Marty T."
+			},
+			{
+				"family": "Mosqueda",
+				"given": "Nerick F."
+			},
+			{
+				"family": "Ng",
+				"given": "Lydia L."
+			},
+			{
+				"family": "Ng",
+				"given": "Randy"
+			},
+			{
+				"family": "Orta",
+				"given": "Geralyn J."
+			},
+			{
+				"family": "Overly",
+				"given": "Caroline C."
+			},
+			{
+				"family": "Pak",
+				"given": "Tu H."
+			},
+			{
+				"family": "Parry",
+				"given": "Sheana E."
+			},
+			{
+				"family": "Pathak",
+				"given": "Sayan D."
+			},
+			{
+				"family": "Pearson",
+				"given": "Owen C."
+			},
+			{
+				"family": "Puchalski",
+				"given": "Ralph B."
+			},
+			{
+				"family": "Riley",
+				"given": "Zackery L."
+			},
+			{
+				"family": "Rockett",
+				"given": "Hannah R."
+			},
+			{
+				"family": "Rowland",
+				"given": "Stephen A."
+			},
+			{
+				"family": "Royall",
+				"given": "Joshua J."
+			},
+			{
+				"family": "Ruiz",
+				"given": "Marcos J."
+			},
+			{
+				"family": "Sarno",
+				"given": "Nadia R."
+			},
+			{
+				"family": "Schaffnit",
+				"given": "Katherine"
+			},
+			{
+				"family": "Shapovalova",
+				"given": "Nadiya V."
+			},
+			{
+				"family": "Sivisay",
+				"given": "Taz"
+			},
+			{
+				"family": "Slaughterbeck",
+				"given": "Clifford R."
+			},
+			{
+				"family": "Smith",
+				"given": "Simon C."
+			},
+			{
+				"family": "Smith",
+				"given": "Kimberly A."
+			},
+			{
+				"family": "Smith",
+				"given": "Bryan I."
+			},
+			{
+				"family": "Sodt",
+				"given": "Andy J."
+			},
+			{
+				"family": "Stewart",
+				"given": "Nick N."
+			},
+			{
+				"family": "Stumpf",
+				"given": "Kenda-Ruth"
+			},
+			{
+				"family": "Sunkin",
+				"given": "Susan M."
+			},
+			{
+				"family": "Sutram",
+				"given": "Madhavi"
+			},
+			{
+				"family": "Tam",
+				"given": "Angelene"
+			},
+			{
+				"family": "Teemer",
+				"given": "Carey D."
+			},
+			{
+				"family": "Thaller",
+				"given": "Christina"
+			},
+			{
+				"family": "Thompson",
+				"given": "Carol L."
+			},
+			{
+				"family": "Varnam",
+				"given": "Lee R."
+			},
+			{
+				"family": "Visel",
+				"given": "Axel"
+			},
+			{
+				"family": "Whitlock",
+				"given": "Ray M."
+			},
+			{
+				"family": "Wohnoutka",
+				"given": "Paul E."
+			},
+			{
+				"family": "Wolkey",
+				"given": "Crissa K."
+			},
+			{
+				"family": "Wong",
+				"given": "Victoria Y."
+			},
+			{
+				"family": "Wood",
+				"given": "Matthew"
+			},
+			{
+				"family": "Yaylaoglu",
+				"given": "Murat B."
+			},
+			{
+				"family": "Young",
+				"given": "Rob C."
+			},
+			{
+				"family": "Youngstrom",
+				"given": "Brian L."
+			},
+			{
+				"family": "Feng Yuan",
+				"given": "Xu"
+			},
+			{
+				"family": "Zhang",
+				"given": "Bin"
+			},
+			{
+				"family": "Zwingman",
+				"given": "Theresa A."
+			},
+			{
+				"family": "Jones",
+				"given": "Allan R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:05",
+		"type": "article-journal",
+		"container-title": "Journal of Bone and Mineral Research",
+		"DOI": "10.1002/jbmr.141",
+		"ISSN": "08840431, 15234681",
+		"issue": "7",
+		"journalAbbreviation": "J. Bone Miner. Res.",
+		"language": "en-US",
+		"page": "1468-1486",
+		"title": "Guidelines for assessment of bone microstructure in rodents using micro-computed tomography",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/jbmr.141",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Bouxsein",
+				"given": "Mary L"
+			},
+			{
+				"family": "Boyd",
+				"given": "Stephen K"
+			},
+			{
+				"family": "Christiansen",
+				"given": "Blaine A"
+			},
+			{
+				"family": "Guldberg",
+				"given": "Robert E"
+			},
+			{
+				"family": "Jepsen",
+				"given": "Karl J"
+			},
+			{
+				"family": "Müller",
+				"given": "Ralph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:07",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Storage",
+		"DOI": "10.1145/3139922",
+		"ISSN": "1553-3077",
+		"issue": "4",
+		"journalAbbreviation": "Acm Trans. Storage",
+		"language": "en-US",
+		"page": "1-28",
+		"title": "Building efficient key-value stores via a lightweight compaction tree",
+		"URL": "https://doi.org/10.1145/3139922",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Yao",
+				"given": "Ting"
+			},
+			{
+				"family": "Wan",
+				"given": "Jiguang"
+			},
+			{
+				"family": "Huang",
+				"given": "Ping"
+			},
+			{
+				"family": "He",
+				"given": "Xubin"
+			},
+			{
+				"family": "Wu",
+				"given": "Fei"
+			},
+			{
+				"family": "Xie",
+				"given": "Changsheng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:08",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh-CN",
+		"note": "genre: 发明专利",
+		"number": "202010575613.3",
+		"publisher-place": "中国",
+		"title": "多功能可擦写存储器",
+		"author": [
+			{
+				"family": "刘",
+				"given": "德林"
+			},
+			{
+				"family": "李",
+				"given": "德奎"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:09",
+		"type": "thesis",
+		"event-place": "武汉",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "武汉测绘科技大学",
+		"publisher-place": "武汉",
+		"source": "Wanfang Data",
+		"title": "基于混合结构的三维GIS数据模型与空间分析研究",
+		"URL": "https://d.wanfangdata.com.cn/thesis/Y260161",
+		"author": [
+			{
+				"literal": "李清泉"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "李德仁"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "hust-cse:06",
+		"type": "paper-conference",
+		"abstract": "In this article, we present an approach to systematically examine the schedulability of distributed storage systems, identify their scheduling problems, and enable effective scheduling in these systems. We use Thread Architecture Models (TAMs) to describe the behavior and interactions of different threads in a system, and show both how to construct TAMs for existing systems and utilize TAMs to identify critical scheduling problems. We specify three schedulability conditions that a schedulable TAM should satisfy: completeness, local enforceability, and independence; meeting these conditions enables a system to easily support different scheduling policies. We identify five common problems that prevent a system from satisfying the schedulability conditions, and show that these problems arise in existing systems such as HBase, Cassandra, MongoDB, and Riak, making it difficult or impossible to realize various scheduling disciplines. We demonstrate how to address these schedulability problems using both direct and indirect solutions, with different trade-offs. To show how to apply our approach to enable scheduling in realistic systems, we develop Tamed-HBase and Muzzled-HBase, sets of modifications to HBase that can realize the desired scheduling disciplines, including fairness and priority scheduling, even when presented with challenging workloads.",
+		"container-title": "Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018)",
+		"DOI": "10.1145/3574323",
+		"language": "en-US",
+		"note": "event-place: Carlsbad, CA, USA\nevent-date: 2018-10-08/2018-10-10",
+		"page": "161-176",
+		"publisher": "USENIX Association",
+		"source": "ACM Digital Library",
+		"title": "Principled Schedulability Analysis for Distributed Storage Systems Using Thread Architecture Models",
+		"URL": "https://doi.org/10.1145/3574323",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Yang",
+				"given": "Suli"
+			},
+			{
+				"family": "Liu",
+				"given": "Jing"
+			},
+			{
+				"family": "Arpaci-Dusseau",
+				"given": "Andrea"
+			},
+			{
+				"family": "Arpaci-Dusseau",
+				"given": "Remzi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]

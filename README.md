@@ -1538,25 +1538,26 @@ available-date: 2014-01-26
 > [4] He H, Wu D, Sun D. Non-destructive and rapid analysis of moisture distribution in farmed Atlantic salmon (Salmo salar) fillets using visible and near-infrared hyperspectral Imaging[J]. Innovative Food Science & Emerging Technologies, 2013, 18: 237–245.
 
 
-## [418huazhong-university-of-science-and-technology.csl]
+## [418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]
 
-[华中科技大学学位论文样式](http://gs.hust.edu.cn/info/1019/11815.htm)：作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
+[华中科技大学人工智能与自动化学院学位论文](https://aia.hust.edu.cn/info/1122/5294.htm)样式：作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
 
 显示效果：
 
 <blockquote>
-  <div class="csl-bib-body">
-    <div class="csl-entry">[1] 闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
-    <div class="csl-entry">[2] M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. 2nd ed. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
-    <div class="csl-entry">[3] 詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
-    <div class="csl-entry">[4] E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
-    <div class="csl-entry">[5] M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, R. E. Guldberg, K. J. Jepsen, R. Müller. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-    <div class="csl-entry">[6] S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
-    <div class="csl-entry">[7] T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
-    <div class="csl-entry">[8] 刘加林. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
-    <div class="csl-entry">[9] 李清泉. 基于混合结构的三维GIS数据模型与空间分析研究: [博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践. 第二版. 北京: 中国水利水电出版社, 2006</div>
+    <div class="csl-entry">[2]	M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
+    <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
+    <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
+    <div class="csl-entry">[5]	M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, R. E. Guldberg, K. J. Jepsen, R. Müller. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
+    <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
+    <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
+    <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
+    <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究: [博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
   </div>
 </blockquote>
+
 
 ## [419beijing-normal-university.csl]
 
@@ -1986,7 +1987,7 @@ available-date: 2014-01-26
 
 ## [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]
 
-华中科技大学同济医学院学位论文样式。在 [418huazhong-university-of-science-and-technology.csl] 的基础上修改：作者 3 人以上写 3 人再加“等”或“et al.”。
+[华中科技大学同济医学院学位论文](http://jcyxy.tjmu.edu.cn/info/1573/6839.htm)样式。在 [418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl] 的基础上修改：作者 3 人以上写 3 人再加“等”或“et al.”。
 
 显示效果：
 
@@ -2350,6 +2351,27 @@ available-date: 2014-01-26
 </blockquote>
 
 
+## [462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl]
+
+[华中科技大学网络空间安全学院学位论文](http://cse.hust.edu.cn/yjsjy/wjxz.htm)样式。[418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl] 基础上修改。
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
+    <div class="csl-entry">[2]	Martin Chalfie, Steven Kain. Green fluorescent protein: properties, applications, and protocols. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
+    <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
+    <div class="csl-entry">[4]	Ed S. Lein, Michael J. Hawrylycz, Nancy Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
+    <div class="csl-entry">[5]	Mary L. Bouxsein, Stephen K. Boyd, Blaine A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
+    <div class="csl-entry">[6]	Suli Yang, Jing Liu, Andrea Arpaci-Dusseau, et al. Principled Schedulability Analysis for Distributed Storage Systems Using Thread Architecture Models. In: Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018): Vol. 19, Carlsbad, CA, USA, 8–10 Oct. 2018, USENIX Association, 2018: 161-176</div>
+    <div class="csl-entry">[7]	Ting Yao, Jiguang Wan, Ping Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
+    <div class="csl-entry">[8]	刘德林, 李德奎. 多功能可擦写存储器. 中国, 发明专利, 202010575613.3, 2020</div>
+    <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
+  </div>
+</blockquote>
+
+
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2635,7 +2657,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [414yunnan-university.csl]: 414yunnan-university.csl
 [415zhejiang-university.csl]:415zhejiang-university.csl
 [416zhongnan-university-of-economics-and-law.csl]: 416zhongnan-university-of-economics-and-law.csl
-[418huazhong-university-of-science-and-technology.csl]: 418huazhong-university-of-science-and-technology.csl
+[418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]: 418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl
 [419beijing-normal-university.csl]: 419beijing-normal-university.csl
 [420beihang-university.csl]: 420beihang-university.csl
 [421hebei-agricultural-university.csl]: 421hebei-agricultural-university.csl
@@ -2674,3 +2696,4 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [459shanghai-university.csl]: 459shanghai-university.csl
 [460beijing-institute-of-technology.csl]: 460beijing-institute-of-technology.csl
 [461northwestern-polytechnical-university.csl]: 461northwestern-polytechnical-university.csl
+[462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl]: 462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl

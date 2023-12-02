@@ -1,6 +1,6 @@
 [
 	{
-		"id": "hust:03",
+		"id": "hust-aia:03",
 		"type": "article-journal",
 		"container-title": "中华中医药学刊",
 		"DOI": "10.3969/j.issn.1673-7717.2004.11.062",
@@ -37,7 +37,7 @@
 		}
 	},
 	{
-		"id": "hust:07",
+		"id": "hust-aia:07",
 		"type": "article-journal",
 		"container-title": "ACM Transactions on Storage",
 		"DOI": "10.1145/3139922",
@@ -95,7 +95,7 @@
 		}
 	},
 	{
-		"id": "hust:09",
+		"id": "hust-aia:09",
 		"type": "thesis",
 		"event-place": "武汉",
 		"genre": "博士学位论文",
@@ -133,7 +133,7 @@
 		}
 	},
 	{
-		"id": "hust:06",
+		"id": "hust-aia:06",
 		"type": "paper-conference",
 		"container-title": "Proceedings of 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
 		"DOI": "10.23919/apsipa.2018.8659705",
@@ -173,7 +173,7 @@
 		}
 	},
 	{
-		"id": "hust:05",
+		"id": "hust-aia:05",
 		"type": "article-journal",
 		"container-title": "Journal of Bone and Mineral Research",
 		"DOI": "10.1002/jbmr.141",
@@ -231,7 +231,7 @@
 		}
 	},
 	{
-		"id": "hust:04",
+		"id": "hust-aia:04",
 		"type": "article-journal",
 		"container-title": "Nature",
 		"DOI": "10.1038/nature05453",
@@ -695,19 +695,15 @@
 		}
 	},
 	{
-		"id": "hust:02",
+		"id": "hust-aia:02",
 		"type": "book",
-		"collection-number": "v. 47",
 		"collection-title": "Methods of biochemical analysis",
-		"edition": "2",
 		"event-place": "Hoboken, New Jersey",
-		"ISBN": "978-0-471-45328-4",
+		"ISBN": "978-0-471-17839-2",
 		"language": "en-US",
-		"note": "OCLC: ocm57251338",
 		"number-of-pages": "443",
 		"publisher": "Wiley-Interscience",
 		"publisher-place": "Hoboken, New Jersey",
-		"source": "Library of Congress ISBN",
 		"title": "Green fluorescent protein: properties, applications, and protocols",
 		"title-short": "Green fluorescent protein",
 		"editor": [
@@ -729,7 +725,7 @@
 		}
 	},
 	{
-		"id": "hust:01",
+		"id": "hust-aia:01",
 		"type": "book",
 		"edition": "2",
 		"event-place": "北京",
@@ -754,7 +750,7 @@
 		}
 	},
 	{
-		"id": "hust:08",
+		"id": "hust-aia:08",
 		"type": "patent",
 		"event-place": "中国",
 		"language": "zh-CN",
