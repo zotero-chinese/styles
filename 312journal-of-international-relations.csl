@@ -4,6 +4,7 @@
     <title>国际关系研究</title>
     <id>http://www.zotero.org/styles/journal-of-international-relations</id>
     <link href="http://www.zotero.org/styles/journal-of-international-relations" rel="self"/>
+    <link href="https://iir.sass.org.cn/2019/0717/c1653a42491/page.htm" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>
       <email>edwardzhoujiaxi@gmail.com</email>
@@ -12,7 +13,7 @@
     <category field="political_science"/>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《国际关系研究》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2021-02-24T00:00:00+08:00</updated>
+    <updated>2023-12-03T10:24:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

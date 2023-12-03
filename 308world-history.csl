@@ -13,12 +13,17 @@
     <category field="history"/>
     <summary>根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《世界历史》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-18T00:00:00+08:00</published>
-    <updated>2022-10-30T00:00:00+08:00</updated>
+    <updated>2023-12-03T12:43:56+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 西文编者、译者、页码以及日期设定 -->
   <locale xml:lang="en">
     <style-options punctuation-in-quote="true"/>
+    <date form="text">
+      <date-part name="month" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year" suffix=""/>
+    </date>
     <terms>
       <term name="editor" form="short">
         <single>ed.</single>
@@ -36,11 +41,6 @@
         <single>p. </single>
         <multiple>pp. </multiple>
       </term>
-      <date form="text">
-        <date-part name="month" suffix=" "/>
-        <date-part name="day" suffix=", "/>
-        <date-part name="year" suffix=""/>
-      </date>
     </terms>
   </locale>
   <!-- 中文相同文献、页码设置、出版时间空缺设定 -->
@@ -202,7 +202,7 @@
               <text variable="title" quotes="true"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <group>
               <label variable="locator" form="short" prefix=", " suffix=""/>
@@ -214,7 +214,7 @@
               <text variable="title" quotes="true"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <group>
               <label variable="page" form="short" prefix=", " suffix=""/>
@@ -452,7 +452,7 @@
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
@@ -462,7 +462,7 @@
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text variable="page" prefix="，第" suffix="页"/>
           </else>
