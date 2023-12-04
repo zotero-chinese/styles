@@ -18,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《北京林业大学研究生学位论文写作指南》（2023年11月更新）</summary>
-    <updated>2023-12-04T11:12:51+08:00</updated>
+    <updated>2023-12-04T11:56:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -117,8 +117,8 @@
   <macro name="type-code">
     <choose>
       <if type="article">
-        <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
-        <text value="A"/>
+        <!-- 预印本文章要求的文献类型标识为 J，但是这很不合理 -->
+        <text value="J"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
         <text value="J"/>
@@ -282,6 +282,17 @@
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
       </if>
+      <else-if type="article">
+        <!-- 预印本的格式为“arXiv preprint arXiv: 2110.02799, 2018” -->
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text variable="publisher"/>
+            <text term="preprint"/>
+            <text variable="number"/>
+          </group>
+          <text macro="issued-year"/>
+        </group>
+      </else-if>
       <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
@@ -302,7 +313,7 @@
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
-            <text macro="issued-date" prefix="(" suffix=")"/>
+            <text macro="issued-date"/>
             <text macro="accessed-date"/>
           </if>
           <else>
@@ -377,6 +388,13 @@
           <!-- 4.5 专利文献 -->
           <text macro="title"/>
           <text macro="publisher"/>
+        </else-if>
+        <else-if type="post-weblog">
+          <text macro="title"/>
+          <group delimiter=", ">
+            <text macro="container-booklike"/>
+            <text macro="issued-date"/>
+          </group>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 4.6 电子资源 -->
