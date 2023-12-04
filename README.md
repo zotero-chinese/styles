@@ -1655,31 +1655,23 @@ available-date: 2014-01-26
 
 ## [426beijing-forestry-university.csl]
 
-网友**不秃燃的小老弟**（__yanglun2019@126.com__）分享，[北京林业大学学位论文](http://graduate.bjfu.edu.cn/xwgl/xwlw/349457.html)样式，<br>
-[201comparative-economic-and-social-systems.csl]基础上修改。中文文献排在前面，英文文献排在后面，<br>
-并按第一作者的姓氏首字母排序。**注意**：学位论文、报告、专利的地点补充到【地点/Place】字段，如第二篇文献的地点为南京。<br>
-专著的页码补充到【存档位置/Loc.in Archive】字段，如倒数第二篇文献的页码为520。<br>
-专著和会议集中析出的文献的页码补充到【页数/Pages】字段，如第六篇文献的页码为220-226。<br>
+《[北京林业大学研究生学位论文写作指南](http://graduate.bjfu.edu.cn/xwgl/xwlw/349457.html)》（2023年修订）样式，在 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改。
 
 显示效果：
 
->（刘章军等，2022; Wang et al.，2022）<br>
->（田力，2022; Laury，2006）<br>
->（Cornforth and Hunt，2008; 孙天利等，2022; 赵爱林等，2022; Nae，1994）<br>
->（Frisch et al.，2015; 仇国贤和钱颖，2014; 洪瑾，2021; 吴玉辉和吴耀东，2022）<br>
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2]	Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+    <div class="csl-entry">[8]	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
 
->仇国贤, 钱颖. 我碳四炔烃加氢技术“中考”合格[N]. 中国化工报, 2014-05-20(2).<br>
->洪瑾. 一种基于对抗网络的细粒度跨媒体检索方法研究[D]. 南京: 南京理工大学, 2021: 1-2.<br>
->刘章军, 张文远, 彭辉. 多向不规则波浪模拟的降维方法[J]. 工程力学, 2022, 2(3): 1-10.<br>
->孙天利, 程楚怡, 杨涔, 张晗, 王虹玲. 山芹菜金翠香梨混合果醋酿造工艺的研究[J]. 中国调味品, 2022, 47(9): 101-105.<br>
->田力. 内部控制质量对零售企业绩效改善的影响——基于可持续发展视角的分析[J]. 商业经济研究, 2022(22): 130-133.<br>
->吴玉辉, 吴耀东. 一种常温灌缝材料的研究[C]//世界交通运输大会(WTC2022)论文集(公路工程篇). 南京: 中国科学技术协会、交通运输部、中国工程院、湖北省人民政府, 2022: 220-226.<br>
->赵爱林, 王晟嫣, 许彦斌, 汤芳, 孙秋洁, 曾鸣. 能源革命背景下电网企业参与综合能源服务市场发展策略研究——基于动态演化视角的电网企业与发电企业竞合博弈[J]. 价格理论与实践, 2022(6): 130-134, 194.<br>
->Cornforth D, Hunt M. Low-oxygen packaging of fresh meat with carbon monoxide[M]//AMSA White Paper Series. USA: National Academy of Science Press, 2008: 12.<br>
->Frisch N K, Ahmed Y, Sethi S, Neill D, Kalinicheva T, Shidham V. The effectiveness of acetic acid wash protocol and the interpretation patterns of blood contaminated cervical cytology ThinPrep ® specimens[J]. CytoJournal, 2015, 12: 23.<br>
->Laury A M. Evaluation of modified atmosphere packaging with carbon monoxide for fresh ground pork, fresh pre-rigor pork sausage and fresh post-rigor pork sausage[D]. Iowa State: Iowa State University, 2006.<br>
->Nae W. Nutrient requirements of poultry[M]. Washington: National Academy of Science Press, 1994: 520.<br>
->Wang Y Y, Tian G, Mao K, Chitrakar B, Wang Z, Liu J, Bai X, Sang Y, Gao J. Effects of four cooking methods on flavor and sensory characteristics of scallop muscle[J]. Frontiers in Nutrition, 2022, 9: 1022156.<br>
 
 ## [427university-of-electronic-science-and-technology-of-china.csl]
 
