@@ -1,0 +1,289 @@
+[
+	{
+		"id": "tongji:01",
+		"type": "article-journal",
+		"container-title": "计算力学学报",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "74-80",
+		"title": "具有频率和振型概率约束的工程结构动力优化设计",
+		"volume": "18",
+		"author": [
+			{
+				"literal": "陈建军"
+			},
+			{
+				"literal": "车建文"
+			},
+			{
+				"literal": "陈勇"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:02",
+		"type": "article-journal",
+		"container-title": "The Journal of General and Applied Microbiology",
+		"DOI": "10.2323/jgam.38.23",
+		"issue": "1",
+		"journalAbbreviation": "J. Gen. App. Microbiol.",
+		"language": "en-US",
+		"page": "23-34",
+		"source": "J-Stage",
+		"title": "Characterization of alpha-galactosidase from corynebacterium murisepticum and mechanism of its induction",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Nadkarni",
+				"given": "Mangala A."
+			},
+			{
+				"family": "Nair",
+				"given": "C. K. K."
+			},
+			{
+				"family": "Pandey",
+				"given": "V. N."
+			},
+			{
+				"family": "Pradhan",
+				"given": "D. S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:03",
+		"type": "article-journal",
+		"container-title": "中国科学",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "339-357",
+		"title": "论一致分布与近似分析：数论方法（I）",
+		"author": [
+			{
+				"literal": "华罗庚"
+			},
+			{
+				"literal": "王元"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:04",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "物候学",
+		"author": [
+			{
+				"literal": "竺可桢"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:05",
+		"type": "book",
+		"edition": "7",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 798-799",
+		"publisher": "农业出版社",
+		"publisher-place": "北京",
+		"title": "禽病学",
+		"volume": "下册",
+		"editor": [
+			{
+				"literal": "霍夫斯塔"
+			}
+		],
+		"translator": [
+			{
+				"literal": "胡祥壁"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:06",
+		"type": "book",
+		"edition": "2",
+		"event-place": "New York",
+		"language": "en-US",
+		"note": "page: 17-36",
+		"publisher": "McGraw-Hill",
+		"publisher-place": "New York",
+		"title": "Theory of plate and shells",
+		"author": [
+			{
+				"family": "Timoshenko",
+				"given": "S. P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:07",
+		"type": "chapter",
+		"container-title": "学报编辑论丛",
+		"event-place": "南京",
+		"language": "zh-CN",
+		"page": "1-4",
+		"publisher": "河海大学出版社",
+		"publisher-place": "南京",
+		"title": "“百家争鸣”与理工科学报编辑工作",
+		"volume": "第 2 集",
+		"author": [
+			{
+				"literal": "张全福"
+			},
+			{
+				"literal": "王里青"
+			}
+		],
+		"editor": [
+			{
+				"literal": "郑福寿"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:08",
+		"type": "thesis",
+		"event-place": "上海",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "同济大学",
+		"publisher-place": "上海",
+		"title": "钢筋混凝土框架结构非线性反应分析的随机模拟分析",
+		"author": [
+			{
+				"literal": "丁光莹"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:09",
+		"type": "thesis",
+		"event-place": "Berkeley",
+		"genre": "dissertation",
+		"language": "en-US",
+		"publisher": "Univ of California",
+		"publisher-place": "Berkeley",
+		"title": "Infrared spectroscopic studies on solid oxygen",
+		"author": [
+			{
+				"family": "Cairns",
+				"given": "Bruce Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:10",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh-CN",
+		"number": "881056073",
+		"publisher-place": "中国",
+		"title": "一种温热外敷药制备方法",
+		"author": [
+			{
+				"literal": "姜锡洲"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "tongji:11",
+		"type": "standard",
+		"abstract": ".GB 6447—86 .",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"number": "GB 6447—86",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "文摘编写规则",
+		"author": [
+			{
+				"literal": "全国文献工作标准化技术委员会第六分委员会"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	}
+]
