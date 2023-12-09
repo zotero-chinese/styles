@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>同济大学学位论文写作规范（2023更新）</summary>
-    <updated>2023-12-10T00:21:07+08:00</updated>
+    <updated>2023-12-10T00:27:45+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -371,7 +371,7 @@
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
-            <text macro="issued-date-en"/>
+            <text macro="issued-date"/>
           </if>
           <else>
             <text macro="issued-year-en"/>
@@ -420,7 +420,7 @@
             <text macro="issued-date"/>
           </if>
           <else>
-            <text macro="issued-year"/>
+            <text macro="issued-year-en"/>
           </else>
         </choose>
       </else-if>

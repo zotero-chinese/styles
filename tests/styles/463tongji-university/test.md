@@ -96,11 +96,11 @@ Undefined
   <div class="csl-entry">[37]	邓一刚．全智能节电器．中国专利，200610171314.3．2006-12-13．</div>
   <div class="csl-entry">[38]	西安电子科技大学．光折变自适应光外差探测方法．中国专利，01128777.2．2002-03-06．</div>
   <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system. US patent, US6915001. 2005-07-05.</div>
-  <div class="csl-entry">[40]	中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告．</div>
-  <div class="csl-entry">[41]	北京市人民政府办公厅．关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发[2005]37号．</div>
-  <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">[40]	中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告．2012．</div>
+  <div class="csl-entry">[41]	北京市人民政府办公厅．关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发[2005]37号．2005．</div>
+  <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy. 2008-05-04. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
-  <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+  <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core. 2009-04-22. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas. Br Med J, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘乃安．生物质材料热解失重动力学及其分析方法研究．合肥：中国科学技术大学，2000：17～18．</div>
   <div class="csl-entry">[47]	Deverell W, Igler D. A companion to California history: [Doctoral dissertation]. New York: John Wiley &#38; Sons, 2013: 21～22.</div>
@@ -145,8 +145,8 @@ Undefined
   <div class="csl-entry">[86]	雷光春主编．综合湿地管理: 综合湿地管理国际研讨会论文集．北京：海洋出版社，2012．</div>
   <div class="csl-entry">[87]	陈志勇主编．中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集．北京：经济科学出版社，2011．</div>
   <div class="csl-entry">[88]	Babu B V, Nagar A K, Deep K, et al., eds. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer, 2014.</div>
-  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室．国防白皮书: 中国武装力量的多样化运用．</div>
-  <div class="csl-entry">[90]	汤万金，杨跃翔，刘文，等．人体安全重要技术标准研制最终报告：7178999X-2006BAK04A10/10.2013．</div>
+  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室．国防白皮书: 中国武装力量的多样化运用．2013．</div>
+  <div class="csl-entry">[90]	汤万金，杨跃翔，刘文，等．人体安全重要技术标准研制最终报告：7178999X-2006BAK04A10/10.2013．2013．</div>
   <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8～9.</div>
   <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970.</div>
@@ -184,5 +184,5 @@ Undefined
   <div class="csl-entry">[125]	萧钰．出版业信息化迈入快车道．2001-12-19．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．</div>
   <div class="csl-entry">[126]	李强．化解医患矛盾需釜底抽薪．2012-05-03．<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>．</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
-  <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1. 2012-06-14. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
 </div>
