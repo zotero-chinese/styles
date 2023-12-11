@@ -349,6 +349,27 @@ ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein re
 > [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
 
 
+## [019gb-t-7714-1987-numeric-bilingual.csl]
+
+GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7B3D5D3A7E05397BE0A0AB82A)》，支持双语：按照语言显示“等”或“et al.”。。
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">1	刘少奇. 论共产党员的修养. 北京: 人民出版社, 1962. 76 页</div>
+    <div class="csl-entry">2	Morton L T, ed. Use of medical literature. London: Butterworths, 1977. 462 p. Information sources for research and development. ISBN 0-408-70916-2</div>
+    <div class="csl-entry">3	Feist W, Wahnert C, Feistauer E. Anordnung zur lichtelektrischen Erfassung der Mitte eines Lichtfeldes. Schweiz, Patentschrift, 608626. 1979.1.15</div>
+    <div class="csl-entry">4	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism. In: Sodeman W A Jr, Sodeman W A, ed. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974. 457～472</div>
+    <div class="csl-entry">5	李四光. 地壳构造与地壳运动. 中国科学, 1973(4): 400～429</div>
+    <div class="csl-entry">6	Mastri A R. Neuropathology of diabetic neurogenic bladder. Ann Intern Med, 1980, 92(2.2): 316～318</div>
+    <div class="csl-entry">7	张筑生. 微分半动力系统的不变集: 〔学位论文〕. 北京大学数学研究所, 1983.</div>
+    <div class="csl-entry">8	Cairns B R. Infrared spectroscopic studies on solid oxygen: 〔dissertation〕. Berkeley: Univ. of California, 1965.</div>
+    <div class="csl-entry">9	黄蕴慧. 国际矿物学研究的动向. 见: 程裕淇编. 世界地质科技发展动向. 北京: 地质出版社, 1982. 38～39</div>
+  </div>
+</blockquote>
+
+
 ## [101chinese-medical-association.csl]
 
 中华医学会系列杂志样式。[000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。

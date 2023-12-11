@@ -17,24 +17,28 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2023-06-10T18:30:00+08:00</updated>
+    <updated>2023-12-13T18:59:31+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
-      <term name="editor" form="short">ed.</term>
+      <term name="thesis">dissertation</term>
+      <term name="volume" form="short">
+        <single>v.</single>
+        <multiple>v.</multiple>
+      </term>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>ed.</multiple>
+      </term>
     </terms>
   </locale>
   <locale xml:lang="zh">
-    <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-    </date>
     <terms>
       <term name="edition" form="short">版</term>
       <term name="in">见</term>
       <term name="patent">专利</term>
+      <term name="thesis">学位论文</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -54,7 +58,7 @@
     </terms>
   </locale>
   <!-- 主要责任者 -->
-  <macro name="author">
+  <macro name="author-en">
     <names variable="author">
       <name/>
       <label form="short" prefix=", "/>
@@ -70,39 +74,56 @@
       </substitute>
     </names>
   </macro>
+  <macro name="author-zh">
+    <names variable="author">
+      <name/>
+      <label form="short"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+      </substitute>
+    </names>
+  </macro>
   <!-- 题名 -->
   <macro name="title">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <text variable="title"/>
-        <group delimiter="&#8195;">
+    <group delimiter=": ">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text variable="title"/>
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
+            <if type="bill legal_case legislation regulation report standard" match="any">
               <text variable="number"/>
             </if>
           </choose>
         </group>
+        <choose>
+          <if variable="container-title" type="chapter paper-conference" match="none">
+            <choose>
+              <if variable="event-date">
+                <text variable="event-place"/>
+                <date variable="event-date" form="numeric" date-parts="year"/>
+              </if>
+            </choose>
+          </if>
+        </choose>
       </group>
       <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
+        <if type="thesis">
+          <text term="thesis" prefix="〔" suffix="〕"/>
         </if>
       </choose>
     </group>
-    <!-- <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
-    </group> -->
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
@@ -111,7 +132,7 @@
         <choose>
           <if is-numeric="volume">
             <group delimiter=" ">
-              <label variable="volume" form="short" text-case="capitalize-first"/>
+              <label variable="volume" form="short"/>
               <text variable="volume"/>
             </group>
           </if>
@@ -123,14 +144,20 @@
     </choose>
   </macro>
   <!-- 其他责任者 -->
-  <macro name="secondary-contributors">
+  <macro name="secondary-contributors-en">
     <names variable="translator">
       <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
+  <macro name="secondary-contributors-zh">
+    <names variable="translator">
+      <name/>
+      <label form="short"/>
+    </names>
+  </macro>
   <!-- 专著主要责任者 -->
-  <macro name="container-contributors">
+  <macro name="container-contributors-en">
     <names variable="editor">
       <name/>
       <label form="short" prefix=", "/>
@@ -141,12 +168,23 @@
       </substitute>
     </names>
   </macro>
+  <macro name="container-contributors-zh">
+    <names variable="editor">
+      <name/>
+      <label form="short"/>
+      <substitute>
+        <names variable="editorial-director"/>
+        <names variable="collection-editor"/>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
+  </macro>
   <!-- 专著题名 -->
-  <macro name="container-booklike">
+  <macro name="container-booklike-en">
     <group delimiter=": ">
       <text term="in" text-case="capitalize-first"/>
       <group delimiter=". ">
-        <text macro="container-contributors"/>
+        <text macro="container-contributors-en"/>
         <group delimiter=", ">
           <choose>
             <if variable="container-title">
@@ -164,7 +202,37 @@
           <!-- 会议时间和会议地点 -->
           <choose>
             <if type="paper-conference" variable="event-date" match="all">
-              <date variable="event-date" form="text"/>
+              <date variable="event-date" form="numeric" date-parts="year"/>
+              <text variable="event-place"/>
+            </if>
+          </choose>
+        </group>
+      </group>
+    </group>
+  </macro>
+  <macro name="container-booklike-zh">
+    <group delimiter=": ">
+      <text term="in" text-case="capitalize-first"/>
+      <group delimiter=". ">
+        <text macro="container-contributors-zh"/>
+        <group delimiter=", ">
+          <choose>
+            <if variable="container-title">
+              <!-- 优先使用专著或会议论文集的题名 -->
+              <group delimiter=": ">
+                <text variable="container-title"/>
+                <text macro="volume"/>
+              </group>
+            </if>
+            <else-if type="paper-conference">
+              <!-- 有些会议没有论文集，使用会议名代替 -->
+              <text variable="event-title"/>
+            </else-if>
+          </choose>
+          <!-- 会议时间和会议地点 -->
+          <choose>
+            <if type="paper-conference" variable="event-date" match="all">
+              <date variable="event-date" form="numeric" date-parts="year"/>
               <text variable="event-place"/>
             </if>
           </choose>
@@ -179,7 +247,7 @@
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
           <text variable="container-title" form="short" strip-periods="true"/>
-          <text macro="issued-date"/>
+          <date variable="issued" form="numeric"/>
         </group>
         <text variable="page" prefix="(" suffix=")"/>
       </if>
@@ -189,7 +257,7 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title" form="short" strip-periods="true"/>
-              <text macro="issued-year"/>
+              <date variable="issued" form="numeric" date-parts="year"/>
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
@@ -216,7 +284,7 @@
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
     <group delimiter=", ">
-      <text macro="issued-year"/>
+      <date variable="issued" form="numeric" date-parts="year"/>
       <text variable="volume"/>
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
@@ -225,48 +293,38 @@
   <macro name="publisher">
     <choose>
       <if type="patent">
-        <!-- 专利的出版项格式“公告日期[引用日期]” -->
-        <text macro="issued-date"/>
+        <!-- 专利的出版项格式“专利国别, 专利文献种类, 专利号. 出版日期” -->
+        <group delimiter=". ">
+          <group delimiter=", ">
+            <text macro="patent-country"/>
+            <text variable="genre"/>
+            <text variable="number"/>
+          </group>
+          <date variable="issued" form="numeric"/>
+        </group>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
-        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
+      <else>
         <group delimiter=", ">
           <group delimiter=": ">
             <text variable="publisher-place"/>
             <text variable="publisher"/>
           </group>
-          <text macro="issued-year"/>
+          <date variable="issued" form="numeric" date-parts="year"/>
         </group>
-      </else-if>
-      <else-if variable="URL DOI" match="any">
-        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
-        <text macro="issued-date" prefix="(" suffix=")"/>
-      </else-if>
-      <else>
-        <text macro="issued-year"/>
       </else>
     </choose>
   </macro>
-  <!-- 出版年 -->
-  <macro name="issued-year">
+  <!-- 专利国别 -->
+  <macro name="patent-country">
     <choose>
-      <if is-uncertain-date="issued">
-        <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
-        <date variable="issued" prefix="[" suffix="]">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
+      <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的字段，所以使用 `publisher-place` 作为备选 -->
+      <if variable="jurisdiction">
+        <text variable="jurisdiction"/>
       </if>
       <else>
-        <date variable="issued">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
+        <text variable="publisher-place"/>
       </else>
     </choose>
-  </macro>
-  <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
-  <macro name="issued-date">
-    <date variable="issued" form="numeric"/>
   </macro>
   <!-- 文献数量 -->
   <macro name="num-of-pages">
@@ -311,50 +369,128 @@
     </choose>
   </macro>
   <!-- 参考文献表格式 -->
-  <macro name="entry-layout">
+  <macro name="entry-layout-en">
     <group delimiter=". ">
-      <text macro="author"/>
       <choose>
         <if type="periodical">
-          <!-- 4.3 连续出版物 -->
-          <text macro="title"/>
-          <text macro="year-volume-issue"/>
-          <text macro="publisher"/>
+          <!-- 3.2 连续出版物 -->
+          <group delimiter=" ">
+            <group delimiter=". " suffix=".">
+              <text macro="title"/>
+              <text macro="author-en"/>
+              <text macro="year-volume-issue"/>
+              <text macro="publisher"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="notes"/>
+              <text variable="collection-title"/>
+              <text macro="document-standard-number"/>
+            </group>
+          </group>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <!-- 4.4 连续出版物中的析出文献 -->
+          <!-- 4.5 连续出版物中的析出文献 -->
+          <text macro="author-en"/>
           <text macro="title"/>
           <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">
-          <!-- 4.5 专利文献 -->
-          <text macro="title"/>
-          <text macro="publisher"/>
-        </else-if>
-        <else-if type="dataset post post-weblog software webpage" match="any">
-          <!-- 4.6 电子资源 -->
+          <!-- 3.3 专利文献 -->
+          <text macro="author-en"/>
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="chapter paper-conference" variable="container-title" match="any">
-          <!-- 4.2 专著中的析出文献 -->
+          <!-- 3.4 专著中的析出文献 -->
+          <text macro="author-en"/>
           <text macro="title"/>
-          <text macro="secondary-contributors"/>
-          <text macro="container-booklike"/>
+          <text macro="secondary-contributors-en"/>
+          <text macro="container-booklike-en"/>
           <text macro="edition"/>
           <text macro="publisher"/>
           <text variable="page"/>
         </else-if>
         <else>
-          <!-- 4.1 专著 -->
+          <!-- 3.1 专著 -->
+          <group delimiter=" ">
+            <group delimiter=". " suffix=".">
+              <text macro="author-en"/>
+              <text macro="title"/>
+              <text macro="secondary-contributors-en"/>
+              <text macro="edition"/>
+              <text macro="publisher"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="num-of-pages"/>
+              <text macro="series"/>
+              <text macro="notes"/>
+              <text macro="document-standard-number"/>
+              <text variable="page"/>
+            </group>
+          </group>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="entry-layout-zh">
+    <group delimiter=". ">
+      <choose>
+        <if type="periodical">
+          <!-- 3.2 连续出版物 -->
+          <group delimiter=" ">
+            <group delimiter=". " suffix=".">
+              <text macro="title"/>
+              <text macro="author-zh"/>
+              <text macro="year-volume-issue"/>
+              <text macro="publisher"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="notes"/>
+              <text variable="collection-title"/>
+              <text macro="document-standard-number"/>
+            </group>
+          </group>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.5 连续出版物中的析出文献 -->
+          <text macro="author-zh"/>
           <text macro="title"/>
-          <text macro="secondary-contributors"/>
+          <text macro="container-periodical"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 3.3 专利文献 -->
+          <text macro="author-zh"/>
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="chapter paper-conference" variable="container-title" match="any">
+          <!-- 3.4 专著中的析出文献 -->
+          <text macro="author-zh"/>
+          <text macro="title"/>
+          <text macro="secondary-contributors-zh"/>
+          <text macro="container-booklike-zh"/>
           <text macro="edition"/>
           <text macro="publisher"/>
-          <text macro="num-of-pages"/>
-          <text macro="series"/>
-          <text macro="notes"/>
-          <text macro="document-standard-number"/>
+          <text variable="page"/>
+        </else-if>
+        <else>
+          <!-- 3.1 专著 -->
+          <group delimiter=" ">
+            <group delimiter=". " suffix=".">
+              <text macro="author-zh"/>
+              <text macro="title"/>
+              <text macro="secondary-contributors-zh"/>
+              <text macro="edition"/>
+              <text macro="publisher"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="num-of-pages"/>
+              <text macro="series"/>
+              <text macro="notes"/>
+              <text macro="document-standard-number"/>
+              <text variable="page"/>
+            </group>
+          </group>
         </else>
       </choose>
     </group>
@@ -363,18 +499,18 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+    <layout vertical-align="sup" delimiter="," prefix="〔" suffix="〕">
       <text variable="citation-number"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <layout suffix="." locale="en">
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout"/>
+    <layout locale="en">
+      <text variable="citation-number"/>
+      <text macro="entry-layout-en"/>
     </layout>
-    <layout suffix=".">
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout"/>
+    <layout>
+      <text variable="citation-number"/>
+      <text macro="entry-layout-zh"/>
     </layout>
   </bibliography>
 </style>
