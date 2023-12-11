@@ -370,6 +370,29 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 </blockquote>
 
 
+## [022journals-of-natural-sciences-in-chinese-universities.csl]
+
+
+《[中国高等学校自然科学学报编排规范](http://gxb.zzu.edu.cn/Upload/Park/ccc5c171-124b-4f01-a4d0-44db19516ff8.pdf)》。[019gb-t-7714-1987-numeric-bilingual.csl] 基础上修改。
+
+显示效果：
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">1	高景德，王祥珩．交流电机的多回路理论．清华大学学报（自然科学版），1987，27（1）：1～8</div>
+  <div class="csl-entry">2	Nadkarni M A, Nair C K K, Pandey V N, et al. Characterization of alpha-galactosidase from corynebacterium murisepticum and mechanism of its induction. J Gen App Microbiol, 1992, 38(1): 23～34</div>
+  <div class="csl-entry">3	华罗庚，王元．论一致分布与近似分析：数论方法（I）．中国科学，1973（4）：339～357</div>
+  <div class="csl-entry">4	竺可桢．物候学．北京：科学出版社，1973</div>
+  <div class="csl-entry">5	霍夫斯塔主编．禽病学：下册．第7版．胡祥壁译．北京：农业出版社，1981：798～799</div>
+  <div class="csl-entry">6	Timoshenko S P. Theory of plate and shells. 2nd ed. New York: McGraw-Hill, 1959: 17～36</div>
+  <div class="csl-entry">7	张全福，王里青．“百家争鸣”与理工科学报编辑工作．见：郑福寿主编．学报编辑论丛：第 2 集．南京：河海大学出版社，1991：1～4</div>
+  <div class="csl-entry">8	Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor. In: White H J, Smith R, eds. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44～46</div>
+  <div class="csl-entry">9	张筑生．微分半动力系统的不变集：[学位论文]．北京：北京大学数学系，1983</div>
+  <div class="csl-entry">10	Cairns B R. Infrared spectroscopic studies on solid oxygen: [dissertation]. Berkeley: Univ of California, 1965</div>
+  <div class="csl-entry">11	姜锡洲．一种温热外敷药制备方法．中国专利，881056073．1989-07-26</div>
+  <div class="csl-entry">12	全国文献工作标准化技术委员会第六分委员会．GB 6447—86 文摘编写规则．北京：中国标准出版社，1986</div>
+</div>
+
+
 ## [101chinese-medical-association.csl]
 
 中华医学会系列杂志样式。[000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
@@ -2643,11 +2666,18 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
 [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
 [015jm-chinese-std-gb-t-7714-2005-revised.csl]: 015jm-chinese-std-gb-t-7714-2005-revised.csl
+[016nsfc-author-date.csl]: 016nsfc-author-date.csl
+[017gb-t-7714-2005-numeric-bilingual.csl]: 017gb-t-7714-2005-numeric-bilingual.csl
+[018gb-t-7714-2005-author-date-bilingual.csl]: 018gb-t-7714-2005-author-date-bilingual.csl
 [019gb-t-7714-1987-numeric-bilingual.csl]: 019gb-t-7714-1987-numeric-bilingual.csl
+[020gb-t-7714-2015-numeric-fullwidth-punctuations.csl]: 020gb-t-7714-2015-numeric-fullwidth-punctuations.csl
+[021gb-t-7714-2015-author-date-fullwidth-punctuations.csl]: 021gb-t-7714-2015-author-date-fullwidth-punctuations.csl
+[022journals-of-natural-sciences-in-chinese-universities.csl]: 022journals-of-natural-sciences-in-chinese-universities.csl
 [101chinese-medical-association.csl]: 101chinese-medical-association.csl
 [102transactions-of-the-chinese-society-of-agricultural-engineering.csl]: 102transactions-of-the-chinese-society-of-agricultural-engineering.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
-[104acta-physica-sinica.csl]:104acta-physica-sinica.csl
+[104acta-physica-sinica.csl]: 104acta-physica-sinica.csl
+[105acta-physica-sinica-zotero-res.csl]: 105acta-physica-sinica-zotero-res.csl
 [106journal-of-inorganic-materials.csl]: 106journal-of-inorganic-materials.csl
 [107chinese-journal-of-cardiology.csl]: 107chinese-journal-of-cardiology.csl
 [108journal-of-nuclear-agricultural-sciences.csl]: 108journal-of-nuclear-agricultural-sciences.csl
@@ -2655,8 +2685,11 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [110food-science.csl]: 110food-science.csl
 [111acta-agriculurae-boreali-sinica.csl]: 111acta-agriculurae-boreali-sinica.csl
 [112scientia-agricultura-sinica.csl]: 112scientia-agricultura-sinica.csl
+[113acta-microbiologica-sinica.csl]: 113acta-microbiologica-sinica.csl
+[114food-materials-research.csl]: 114food-materials-research.csl
 [115advances-in-water-science.csl]: 115advances-in-water-science.csl
 [116management-review.csl]: 116management-review.csl
+[117chinese-journal-of-eco-agriculture.csl]: 117chinese-journal-of-eco-agriculture.csl
 [201comparative-economic-and-social-systems.csl]: 201comparative-economic-and-social-systems.csl
 [202journal-of-management-world.csl]: 202journal-of-management-world.csl
 [203economic-research-journal.csl]: 203economic-research-journal.csl
@@ -2669,56 +2702,83 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
 [211journal-of-plant-protection.csl]: 211journal-of-plant-protection.csl
 [212journal-of-marketing-science.csl]: 212journal-of-marketing-science.csl
-[215international-economics-and-trade-research.csl]:215international-economics-and-trade-research.csl
+[215international-economics-and-trade-research.csl]: 215international-economics-and-trade-research.csl
 [216acta-psychologica-sinica.csl]: 216acta-psychologica-sinica.csl
 [217the-journal-of-world-economy.csl]: 217the-journal-of-world-economy.csl
+[218biotechnology-advances-custom.csl]: 218biotechnology-advances-custom.csl
 [219china-economic-quarterly.csl]: 219china-economic-quarterly.csl
 [220biodiversity-science.csl]: 220biodiversity-science.csl
 [221new-finance.csl]: 221new-finance.csl
+[222journal-of-finance-and-economics.csl]: 222journal-of-finance-and-economics.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
-[303gb-t-7714-2015-note-bilingual.csl]: 005gb-t-7714-2015-note-bilingual.csl
+[302historical-research.csl]: 302historical-research.csl
+[303gb-t-7714-2015-note-bilingual.csl]: 303gb-t-7714-2015-note-bilingual.csl
 [304gb-t-7714-2015-note-bilingual-no-ibid.csl]: 304gb-t-7714-2015-note-bilingual-no-ibid.csl
 [305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl]: 305gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi.csl
 [306manual-of-legal-citation-multi-lingual-no-ibid.csl]: 306manual-of-legal-citation-multi-lingual-no-ibid.csl
 [307studies-on-marxism.csl]: 307studies-on-marxism.csl
+[308world-history.csl]: 308world-history.csl
+[309journal-of-world-economics-and-politics.csl]: 309journal-of-world-economics-and-politics.csl
+[310modern-chinese-literature-studies.csl]: 310modern-chinese-literature-studies.csl
+[311social-sciences-in-china.csl]: 311social-sciences-in-china.csl
+[312journal-of-international-relations.csl]: 312journal-of-international-relations.csl
+[313international-security-studies.csl]: 313international-security-studies.csl
+[314the-journal-of-international-studies.csl]: 314the-journal-of-international-studies.csl
+[315foreign-affairs-review.csl]: 315foreign-affairs-review.csl
+[316pacific-journal.csl]: 316pacific-journal.csl
+[317journal-of-contemporary-asia-pacific-studies.csl]: 317journal-of-contemporary-asia-pacific-studies.csl
+[318exploration-and-free-views.csl]: 318exploration-and-free-views.csl
+[319literary-review.csl]: 319literary-review.csl
+[320literary-and-artistic-contention.csl]: 320literary-and-artistic-contention.csl
+[321journalism-and-communication.csl]: 321journalism-and-communication.csl
+[322contemporary-international-relations.csl]: 322contemporary-international-relations.csl
+[323gb-t-7714-2015-note-fullwidth-punctuations.csl]: 323gb-t-7714-2015-note-fullwidth-punctuations.csl
 [324peoples-publishing-house.csl]: 324peoples-publishing-house.csl
+[401cas-like-thesis.csl]: 401cas-like-thesis.csl
+[402cas-like-thesis-zotero-ask.csl]: 402cas-like-thesis-zotero-ask.csl
 [403huazhong-agricultural-university.csl]: 403huazhong-agricultural-university.csl
 [404jinan-university.csl]: 404jinan-university.csl
 [405nanjing-agricultural-university-numeric.csl]: 405nanjing-agricultural-university-numeric.csl
 [406nanjing-agricultural-university-author-date.csl]: 406nanjing-agricultural-university-author-date.csl
 [407nanjing-agricultural-university-old.csl]: 407nanjing-agricultural-university-old.csl
-[408nanjing-agricultural-university-online-first.csl]:408nanjing-agricultural-university-online-first.csl
+[408nanjing-agricultural-university-online-first.csl]: 408nanjing-agricultural-university-online-first.csl
 [409northwest-a-and-f-university.csl]: 409northwest-a-and-f-university.csl
-[410shanghai-jiao-tong-university]:410shanghai-jiao-tong-university
+[410shanghai-jiao-tong-university.csl]: 410shanghai-jiao-tong-university.csl
 [411southwest-university.csl]: 411southwest-university.csl
+[412tsinghua-university-author-date.csl]: 412tsinghua-university-author-date.csl
+[413tsinghua-university-numeric.csl]: 413tsinghua-university-numeric.csl
 [414yunnan-university.csl]: 414yunnan-university.csl
-[415zhejiang-university.csl]:415zhejiang-university.csl
+[415zhejiang-university.csl]: 415zhejiang-university.csl
 [416zhongnan-university-of-economics-and-law.csl]: 416zhongnan-university-of-economics-and-law.csl
 [418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]: 418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl
 [419beijing-normal-university.csl]: 419beijing-normal-university.csl
 [420beihang-university.csl]: 420beihang-university.csl
 [421hebei-agricultural-university.csl]: 421hebei-agricultural-university.csl
 [422chinese-academy-of-agricultural-sciences.csl]: 422chinese-academy-of-agricultural-sciences.csl
-[423ningbo-university]:423ningbo-university
-[424harbin-university-of-science-and-technology.csl]:424harbin-university-of-science-and-technology.csl
-[425shenyang-agricultural-university.csl]:425shenyang-agricultural-university.csl
-[426beijing-forestry-university.csl]:426beijing-forestry-university.csl
-[427university-of-electronic-science-and-technology-of-china.csl]:427university-of-electronic-science-and-technology-of-china.csl
-[428fujian-agriculture-and-forestry-university.csl]:428fujian-agriculture-and-forestry-university.csl
-[429guizhou-university.csl]:429guizhou-university.csl
-[430hainan-university.csl]:430hainan-university.csl
-[431hohai-university.csl]:431hohai-university.csl
-[432east-china-normal-university.csl]:432east-china-normal-university.csl
-[433jiangxi-university-of-finance-and-economics.csl]:433jiangxi-university-of-finance-and-economics.csl
-[434shandong-agricultural-university.csl]:434shandong-agricultural-university.csl
-[435yangzhou-university.csl]:435yangzhou-university.csl
-[436wuhan-university-undergraduate.csl]:436wuhan-university-undergraduate.csl
-[438xi-an-jiaotong-university.csl]:438xi-an-jiaotong-university.csl
-[439hebei-medical-university.csl]:439hebei-medical-university.csl
+[423ningbo-university.csl]: 423ningbo-university.csl
+[424harbin-university-of-science-and-technology.csl]: 424harbin-university-of-science-and-technology.csl
+[425shenyang-agricultural-university.csl]: 425shenyang-agricultural-university.csl
+[426beijing-forestry-university.csl]: 426beijing-forestry-university.csl
+[427university-of-electronic-science-and-technology-of-china.csl]: 427university-of-electronic-science-and-technology-of-china.csl
+[428fujian-agriculture-and-forestry-university.csl]: 428fujian-agriculture-and-forestry-university.csl
+[429guizhou-university.csl]: 429guizhou-university.csl
+[430hainan-university.csl]: 430hainan-university.csl
+[431hohai-university.csl]: 431hohai-university.csl
+[432east-china-normal-university.csl]: 432east-china-normal-university.csl
+[433jiangxi-university-of-finance-and-economics.csl]: 433jiangxi-university-of-finance-and-economics.csl
+[434shandong-agricultural-university.csl]: 434shandong-agricultural-university.csl
+[435yangzhou-university.csl]: 435yangzhou-university.csl
+[436wuhan-university-undergraduate.csl]: 436wuhan-university-undergraduate.csl
+[437zhejiang-university-chinese-punctuation.csl]: 437zhejiang-university-chinese-punctuation.csl
+[438xi-an-jiaotong-university.csl]: 438xi-an-jiaotong-university.csl
+[439hebei-medical-university.csl]: 439hebei-medical-university.csl
+[440university-of-chinese-academy-of-sciences.csl]: 440university-of-chinese-academy-of-sciences.csl
 [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]: 441huazhong-university-of-science-and-technology-tongji-medical-college.csl
 [442chongqing-university-of-posts-and-telecommunications.csl]: 442chongqing-university-of-posts-and-telecommunications.csl
+[443chengdu-university-of-technology.csl]: 443chengdu-university-of-technology.csl
 [444chongqing-university.csl]: 444chongqing-university.csl
 [445nanjing-agricultural-university.csl]: 445nanjing-agricultural-university.csl
+[446tsinghua-university-academy-of-arts-and-design.csl]: 446tsinghua-university-academy-of-arts-and-design.csl
 [447anhui-university-of-science-and-technology.csl]: 447anhui-university-of-science-and-technology.csl
 [448nanjing-agricultural-university-note.csl]: 448nanjing-agricultural-university-note.csl
 [449nanjing-university-of-posts-and-telecommunications.csl]: 449nanjing-university-of-posts-and-telecommunications.csl
@@ -2728,6 +2788,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [453central-south-university-of-forestry-and-technology.csl]: 453central-south-university-of-forestry-and-technology.csl
 [454dalian-maritime-university.csl]: 454dalian-maritime-university.csl
 [455china-pharmaceutical-university.csl]: 455china-pharmaceutical-university.csl
+[456southwest-university-of-political-science-and-law.csl]: 456southwest-university-of-political-science-and-law.csl
 [457hunan-university-numeric.csl]: 457hunan-university-numeric.csl
 [458hunan-university-note.csl]: 458hunan-university-note.csl
 [459shanghai-university.csl]: 459shanghai-university.csl
@@ -2735,3 +2796,10 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [461northwestern-polytechnical-university.csl]: 461northwestern-polytechnical-university.csl
 [462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl]: 462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl
 [463tongji-university.csl]: 463tongji-university.csl
+[501yuzuc-at-title-at-author-at-year.csl]: 501yuzuc-at-title-at-author-at-year.csl
+[502export-authors.csl]: 502export-authors.csl
+[503export-journal-year-vol-pages.csl]: 503export-journal-year-vol-pages.csl
+[504expport-author-journal-vol-issue-pages.csl]: 504expport-author-journal-vol-issue-pages.csl
+[505export-title.csl]: 505export-title.csl
+[506export-author-et-al-year.csl]: 506export-author-et-al-year.csl
+[507expport-journal-name.csl]: 507expport-journal-name.csl

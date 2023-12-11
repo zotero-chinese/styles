@@ -1,0 +1,322 @@
+[
+	{
+		"id": "jnscu:01",
+		"type": "article-journal",
+		"container-title": "清华大学学报（自然科学版）",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "1-8",
+		"title": "交流电机的多回路理论",
+		"volume": "27",
+		"author": [
+			{
+				"literal": "高景德"
+			},
+			{
+				"literal": "王祥珩"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:12",
+		"type": "standard",
+		"abstract": ".GB 6447—86 .",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"number": "GB 6447—86",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "文摘编写规则",
+		"author": [
+			{
+				"literal": "全国文献工作标准化技术委员会第六分委员会"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:11",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh-CN",
+		"number": "881056073",
+		"publisher-place": "中国",
+		"title": "一种温热外敷药制备方法",
+		"author": [
+			{
+				"literal": "姜锡洲"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:10",
+		"type": "thesis",
+		"event-place": "Berkeley",
+		"genre": "dissertation",
+		"language": "en-US",
+		"note": "Google-Books-ID: qLL_HAAACAAJ",
+		"number-of-pages": "224",
+		"publisher": "Univ. of California",
+		"publisher-place": "Berkeley",
+		"title": "Infrared spectroscopic studies on solid oxygen",
+		"author": [
+			{
+				"family": "Cairns",
+				"given": "Bruce Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:07",
+		"type": "chapter",
+		"container-title": "学报编辑论丛",
+		"event-place": "南京",
+		"language": "zh-CN",
+		"page": "1-4",
+		"publisher": "河海大学出版社",
+		"publisher-place": "南京",
+		"title": "“百家争鸣”与理工科学报编辑工作",
+		"volume": "第 2 集",
+		"author": [
+			{
+				"literal": "张全福"
+			},
+			{
+				"literal": "王里青"
+			}
+		],
+		"editor": [
+			{
+				"literal": "郑福寿"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:06",
+		"type": "book",
+		"edition": "2",
+		"event-place": "New York",
+		"language": "en-US",
+		"note": "page: 17-36",
+		"publisher": "McGraw-Hill",
+		"publisher-place": "New York",
+		"title": "Theory of plate and shells",
+		"author": [
+			{
+				"family": "Timoshenko",
+				"given": "S. P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:05",
+		"type": "book",
+		"edition": "7",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 798-799",
+		"publisher": "农业出版社",
+		"publisher-place": "北京",
+		"title": "禽病学",
+		"volume": "下册",
+		"editor": [
+			{
+				"literal": "霍夫斯塔"
+			}
+		],
+		"translator": [
+			{
+				"literal": "胡祥壁"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:04",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "物候学",
+		"author": [
+			{
+				"literal": "竺可桢"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:03",
+		"type": "article-journal",
+		"container-title": "中国科学",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "339-357",
+		"title": "论一致分布与近似分析：数论方法（I）",
+		"author": [
+			{
+				"literal": "华罗庚"
+			},
+			{
+				"literal": "王元"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:02",
+		"type": "article-journal",
+		"container-title": "The Journal of General and Applied Microbiology",
+		"DOI": "10.2323/jgam.38.23",
+		"issue": "1",
+		"journalAbbreviation": "J. Gen. App. Microbiol.",
+		"language": "en-US",
+		"page": "23-34",
+		"source": "J-Stage",
+		"title": "Characterization of alpha-galactosidase from corynebacterium murisepticum and mechanism of its induction",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Nadkarni",
+				"given": "Mangala A."
+			},
+			{
+				"family": "Nair",
+				"given": "C. K. K."
+			},
+			{
+				"family": "Pandey",
+				"given": "V. N."
+			},
+			{
+				"family": "Pradhan",
+				"given": "D. S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:08",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the third annual meeting of the International Society for Experimental Hematology",
+		"event-place": "Houston",
+		"language": "en-US",
+		"page": "44-46",
+		"publisher": "International Society for Experimental Hematology",
+		"publisher-place": "Houston",
+		"title": "Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor",
+		"author": [
+			{
+				"family": "Dupont",
+				"given": "B"
+			}
+		],
+		"editor": [
+			{
+				"family": "White",
+				"given": "H J"
+			},
+			{
+				"family": "Smith",
+				"given": "R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnscu:09",
+		"type": "thesis",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "北京大学数学系",
+		"publisher-place": "北京",
+		"title": "微分半动力系统的不变集",
+		"URL": "https://books.google.com/books?id=DsdVnQEACAAJ",
+		"author": [
+			{
+				"literal": "张筑生"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	}
+]
