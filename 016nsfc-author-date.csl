@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 将代码中所有font-weight="bold"替换为font-style="italic" 可以实现期刊名斜体（中文期刊除外）-->
+<!-- 将代码中所有font-weight="bold"替换为font-style="italic" 可以实现期刊名斜体（中文期刊除外） -->
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>NSFC作者年代 (显示全部作者, 姓名取消大写, 无 URL DOI)</title>
@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>1. 显示全部作者，姓名取消全大写；2.期刊名称加粗 ；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2023-04-05T16:22:47+08:00</updated>
+    <updated>2023-12-13T19:13:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -128,8 +128,8 @@
       </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
@@ -151,7 +151,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article">
         <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
@@ -203,7 +203,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-code">
+  <macro name="medium-id">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->

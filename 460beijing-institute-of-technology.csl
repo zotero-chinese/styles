@@ -16,7 +16,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>北京理工大学引用样式</summary>
-    <updated>2023-10-20T00:00:00+00:00</updated>
+    <updated>2023-12-13T19:11:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -46,9 +46,9 @@
     </terms>
   </locale>
   <!-- 引用日期 -->
-<!--   <macro name="accessed-date"> -->
-<!--     <date variable="accessed" form="numeric" prefix="[" suffix="]"/> -->
-<!--   </macro> -->
+  <!--   <macro name="accessed-date"> -->
+  <!--     <date variable="accessed" form="numeric" prefix="[" suffix="]"/> -->
+  <!--   </macro> -->
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author" et-al-min="4" et-al-use-first="3">
@@ -112,11 +112,11 @@
             <text variable="event"/>
           </else>
         </choose>
-      <choose>
-        <if variable="book chapter">
-          <text macro="book-volume"/>
-        </if>
-      </choose>
+        <choose>
+          <if variable="book chapter">
+            <text macro="book-volume"/>
+          </if>
+        </choose>
       </group>
       <choose>
         <if variable="event-date">
@@ -129,9 +129,9 @@
       <!-- 检查文献类型是否为 "paper-conference" -->
       <if type="paper-conference">
         <choose>
-        <!-- 检查是否存在容器标题 -->
+          <!-- 检查是否存在容器标题 -->
           <if variable="container-title">
-             <text macro="type-code" prefix="[" suffix="]"/>
+            <text macro="type-id" prefix="[" suffix="]"/>
           </if>
         </choose>
       </if>
@@ -284,17 +284,16 @@
       <if type="paper-conference">
         <choose>
           <!-- 检查是否存在容器标题 -->
-          <if variable="container-title">
-          </if>
+          <if variable="container-title"/>
         </choose>
       </if>
       <else>
-           <text macro="type-code" prefix="[" suffix="]"/>
+        <text macro="type-id" prefix="[" suffix="]"/>
       </else>
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <macro name="type-id">
     <group delimiter="/">
       <choose>
         <if type="article">
@@ -347,21 +346,21 @@
           <text value="M"/>
         </else>
       </choose>
-<!--       <choose> -->
-<!--         <if variable="URL" match="any"> -->
-<!--           <text value="OL"/> -->
-<!--         </if> -->
-<!--       </choose> -->
+      <!--       <choose> -->
+      <!--         <if variable="URL" match="any"> -->
+      <!--           <text value="OL"/> -->
+      <!--         </if> -->
+      <!--       </choose> -->
     </group>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="url-doi">
     <choose>
       <if variable="URL">
-<!--         <text variable="URL"/> -->
+        <!--         <text variable="URL"/> -->
       </if>
       <else>
-<!--         <text variable="DOI" prefix="https://doi.org/"/> -->
+        <!--         <text variable="DOI" prefix="https://doi.org/"/> -->
       </else>
     </choose>
   </macro>
@@ -388,24 +387,24 @@
   </macro>
   <!-- 专著中的析出文献 -->
   <macro name="chapter-in-book-layout">
-      <group delimiter=". " suffix=".">
-        <text macro="author"/>
+    <group delimiter=". " suffix=".">
+      <text macro="author"/>
+      <group delimiter=". ">
         <group delimiter=". ">
-          <group delimiter=". ">
-            <text macro="title"/>
-            <text macro="secondary-contributor"/>
-          </group>
-          <group delimiter=". ">
-            <text macro="container-author"/>
-            <group delimiter=" ">
-              <text macro="container-title"/>
-            </group>
+          <text macro="title"/>
+          <text macro="secondary-contributor"/>
+        </group>
+        <group delimiter=". ">
+          <text macro="container-author"/>
+          <group delimiter=" ">
+            <text macro="container-title"/>
           </group>
         </group>
-        <text macro="edition"/>
-        <text macro="publishing"/>
-        <text macro="url-doi"/>
       </group>
+      <text macro="edition"/>
+      <text macro="publishing"/>
+      <text macro="url-doi"/>
+    </group>
   </macro>
   <!-- 连续出版物 -->
   <macro name="serial-layout">
@@ -473,8 +472,8 @@
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <!-- 取消这部分注释可以使用 CSL-M 的功能支持双语 -->
     <layout locale="en">
-        <text variable="citation-number" prefix="[" suffix="]"/>
-        <text macro="entry-layout"/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>

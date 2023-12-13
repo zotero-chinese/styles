@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>CMAES style</summary>
-    <updated>2023-04-01T17:16:18+08:00</updated>
+    <updated>2023-12-13T19:13:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -47,11 +47,11 @@
       </if>
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
     </group>
   </macro>
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article-journal article-magazine" match="any">
         <text value="J"/>
@@ -92,7 +92,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-code">
+  <macro name="medium-id">
     <choose>
       <if variable="medium">
         <text variable="medium"/>

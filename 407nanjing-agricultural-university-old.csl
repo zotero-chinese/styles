@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-03-22T12:42:44+08:00</updated>
+    <updated>2023-12-13T19:11:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -25,8 +25,8 @@
         <multiple>pp.</multiple>
       </term>
       <term name="editor" form="short">
-        <single></single>
-        <multiple></multiple>
+        <single/>
+        <multiple/>
       </term>
     </terms>
   </locale>
@@ -38,8 +38,8 @@
   <locale xml:lang="en">
     <terms>
       <term name="editor" form="short">
-        <single></single>
-        <multiple></multiple>
+        <single/>
+        <multiple/>
       </term>
     </terms>
   </locale>
@@ -63,7 +63,7 @@
       </if>
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
+      <text macro="type-id"/>
       <!--
        <choose>
         <if variable="URL">
@@ -74,7 +74,7 @@
       <!-- 删除将文献文献类型加OL -->
     </group>
   </macro>
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article-journal article-magazine" match="any">
         <text value="J"/>

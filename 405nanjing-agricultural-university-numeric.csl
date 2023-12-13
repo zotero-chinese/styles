@@ -17,7 +17,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-04-15T15:52:20+08:00</updated>
+    <updated>2023-12-13T19:11:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -89,7 +89,7 @@
         </if>
       </choose>
     </group>
-    <text macro="type-code" prefix="[" suffix="]"/>
+    <text macro="type-id" prefix="[" suffix="]"/>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
@@ -110,7 +110,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <macro name="type-id">
     <group delimiter="/">
       <choose>
         <if type="article">

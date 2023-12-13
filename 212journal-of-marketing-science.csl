@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>2097-0099</issn>
     <summary>Financial Research Journal author-date style</summary>
-    <updated>2023-04-05T16:22:47+08:00</updated>
+    <updated>2023-12-13T19:13:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -101,8 +101,8 @@
   <macro name="title">
     <text variable="title" quotes="false" text-case="sentence"/>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
     </group>
   </macro>
   <!-- 翻译的题目 -->
@@ -111,8 +111,8 @@
       <if variable="original-title">
         <text variable="original-title" text-case="sentence"/>
         <group delimiter="/" prefix="[" suffix="]">
-          <text macro="type-code"/>
-          <text macro="medium-code"/>
+          <text macro="type-id"/>
+          <text macro="medium-id"/>
         </group>
       </if>
       <else>
@@ -121,7 +121,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article">
         <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
@@ -173,7 +173,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-code">
+  <macro name="medium-id">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
@@ -391,7 +391,6 @@
           </if>
         </choose>
       </if>
-
       <else-if type="thesis">
         <group delimiter="" prefix="，">
           <text variable="publisher"/>
@@ -508,13 +507,13 @@
       <key macro="issued-year"/>
     </sort>
     <layout locale="en" suffix=".">
-      <text variable="citation-number" prefix="[" suffix="]&#x9;"/> <!--表示制表符  -->
+      <text variable="citation-number" prefix="[" suffix="]&#x9;"/> <!-- 表示制表符  -->
       <text macro="entry-layout-en"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]&#x9;"/>
       <text macro="entry-layout"/>
-      <text macro="bib-zh" display="block" suffix=" (In Chinese)"/> <!--翻译的英文  -->
+      <text macro="bib-zh" display="block" suffix=" (In Chinese)"/> <!-- 翻译的英文  -->
     </layout>
   </bibliography>
 </style>

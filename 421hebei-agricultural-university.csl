@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-04-15T15:52:20+08:00</updated>
+    <updated>2023-12-13T19:13:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -84,8 +84,8 @@
       </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
     </group>
   </macro>
   <macro name="volume">
@@ -105,7 +105,7 @@
       </if>
     </choose>
   </macro>
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article">
         <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
@@ -159,7 +159,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-code">
+  <macro name="medium-id">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->

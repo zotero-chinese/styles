@@ -20,7 +20,7 @@
     <category citation-format="numeric"/>
     <category field="political_science"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名缩写不加点；3. 中文不加页码；4. 英文题目为单词首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体。</summary>
-    <updated>2023-04-05T16:22:47+08:00</updated>
+    <updated>2023-12-13T19:13:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -102,8 +102,8 @@
     <choose>
       <if type="patent">
         <group delimiter="/" prefix="[" suffix="]">
-          <text macro="type-code"/>
-          <text macro="medium-code"/>
+          <text macro="type-id"/>
+          <text macro="medium-id"/>
         </group>
       </if>
     </choose>
@@ -138,8 +138,8 @@
       </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
@@ -161,7 +161,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article">
         <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
@@ -213,7 +213,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-code">
+  <macro name="medium-id">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
@@ -295,7 +295,7 @@
     </choose>
     <text macro="accessed-date"/>
   </macro>
-  <!-- 中文连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） 与英文相比删除了页码-->
+  <!-- 中文连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） 与英文相比删除了页码 -->
   <macro name="container-periodical-zh">
     <choose>
       <if type="article-newspaper">

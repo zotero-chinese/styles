@@ -16,7 +16,7 @@
     <category field="generic-base"/>
     <issn>l001-6791</issn>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
-    <updated>2023-07-12T09:22:47+08:00</updated>		
+    <updated>2023-12-13T19:13:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -31,7 +31,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="zh-et-al">et al</term> <!--翻译中的"等"-->
+      <term name="zh-et-al">et al</term> <!-- 翻译中的"等" -->
     </terms>
   </locale>
   <locale>
@@ -63,7 +63,7 @@
       </substitute>
     </names>
   </macro>
-  <!-- 翻译的主要责任者（暂只支持人名）-->
+  <!-- 翻译的主要责任者（暂只支持人名） -->
   <macro name="author-translation">
     <choose>
       <if variable="original-author">
@@ -109,8 +109,8 @@
       </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-code"/>
-      <text macro="medium-code"/>
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
     </group>
   </macro>
   <!-- 翻译的题名 -->
@@ -119,8 +119,8 @@
       <if variable="original-title">
         <text variable="original-title" text-case="sentence"/>
         <group delimiter="/" prefix="[" suffix="]">
-          <text macro="type-code"/>
-          <text macro="medium-code"/>
+          <text macro="type-id"/>
+          <text macro="medium-id"/>
         </group>
       </if>
       <else>
@@ -147,7 +147,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-code">
+  <macro name="type-id">
     <choose>
       <if type="article">
         <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
@@ -199,7 +199,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-code">
+  <macro name="medium-id">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
@@ -299,7 +299,7 @@
     <text macro="container-title-translation" suffix=", "/>
     <text macro="issue-volume-page"/>
   </macro>
-  <!-- 翻译的出版物名-->
+  <!-- 翻译的出版物名 -->
   <macro name="container-title-translation">
     <choose>
       <if variable="original-container-title">
@@ -373,7 +373,7 @@
       </else>
     </choose>
   </macro>
-  <!-- 翻译的出版社、地点-->
+  <!-- 翻译的出版社、地点 -->
   <macro name="publisher-translation">
     <group delimiter=", ">
       <group delimiter=": ">
@@ -521,13 +521,13 @@
       <text macro="entry-layout"/>
     </layout>
     <layout>
-        <text variable="citation-number" prefix="[" suffix="]"/>
-        <text macro="entry-layout" suffix="."/>
-        <choose>
-          <if variable="original-title">
-	  		    <text macro="bib-translation" prefix=" (" suffix=". (in Chinese))"/> <!--翻译的英文  -->
-          </if>
-        </choose>
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout" suffix="."/>
+      <choose>
+        <if variable="original-title">
+          <text macro="bib-translation" prefix=" (" suffix=". (in Chinese))"/> <!-- 翻译的英文  -->
+        </if>
+      </choose>
     </layout>
   </bibliography>
 </style>
