@@ -14,7 +14,7 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <updated>2023-04-01T17:16:18+08:00</updated>
+    <updated>2023-12-14T16:23:29+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -50,7 +50,7 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false" initialize-with=".">
-            <group delimiter=""></group>
+            <group delimiter=""/>
           </name>
         </names>
       </if>
@@ -74,7 +74,7 @@
   <macro name="container-contributors-en">
     <names variable="container-author reviewed-author">
       <name initialize="false">
-        <group delimiter=""></group>
+        <group delimiter=""/>
       </name>
       <!-- <label form="verb-short" prefix=", "/> -->
     </names>
@@ -161,6 +161,10 @@
       <if variable="issued">
         <date variable="issued" date-parts="year" form="numeric"/>
       </if>
+      <else-if type="article-journal" variable="available-date" match="all">
+        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
+        <date variable="available-date" form="numeric" date-parts="year"/>
+      </else-if>
       <else>
         <text term="no date" prefix="[" suffix="]"/>
       </else>

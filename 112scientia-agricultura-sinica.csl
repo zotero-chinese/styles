@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>0578-1752</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。</summary>
-    <updated>2023-04-15T15:52:20+08:00</updated>
+    <updated>2023-12-14T16:23:28+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
@@ -60,7 +60,7 @@
       </substitute>
     </names>
   </macro>
-  <!-- 主要责任者 ，用于翻译-->
+  <!-- 主要责任者 ，用于翻译 -->
   <macro name="author-zh">
     <choose>
       <if variable="original-author">
@@ -351,7 +351,7 @@
     </choose>
     <!-- <text macro="accessed-date"/> -->
   </macro>
-  <!-- 专著的出版项 用于翻译-->
+  <!-- 专著的出版项 用于翻译 -->
   <macro name="publisher-zh">
     <group delimiter=": ">
       <group delimiter=", ">
@@ -394,17 +394,21 @@
   <!-- 出版年 -->
   <macro name="issued-year">
     <choose>
-      <if is-uncertain-date="issued">
-        <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
-        <date variable="issued" prefix="[" suffix="]">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
+      <if variable="issued">
+        <choose>
+          <if is-uncertain-date="issued">
+            <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
+            <date variable="issued" form="numeric" date-parts="year" prefix="[" suffix="]"/>
+          </if>
+          <else>
+            <date variable="issued" form="numeric" date-parts="year"/>
+          </else>
+        </choose>
       </if>
-      <else>
-        <date variable="issued">
-          <date-part name="year" range-delimiter="-"/>
-        </date>
-      </else>
+      <else-if type="article-journal" variable="available-date" match="all">
+        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
+        <date variable="available-date" form="numeric" date-parts="year"/>
+      </else-if>
     </choose>
   </macro>
   <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
@@ -583,7 +587,7 @@
   </citation>
   <bibliography entry-spacing="0">
     <layout suffix="." locale="en">
-      <text variable="citation-number" prefix="[" suffix="]&#x9;"/>  <!--tab间隔   -->
+      <text variable="citation-number" prefix="[" suffix="]&#x9;"/>  <!-- tab间隔   -->
       <text macro="entry-layout"/>
     </layout>
     <layout>

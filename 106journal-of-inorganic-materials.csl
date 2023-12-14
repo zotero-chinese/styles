@@ -13,7 +13,7 @@
     <category field="generic-base"/>
     <summary>无机材料学报</summary>
     <published>2022-03-24</published>
-    <updated>2023-04-01T17:16:18+08:00</updated>
+    <updated>2023-12-14T16:23:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -35,7 +35,7 @@
             <name-part name="given" text-case="uppercase"/>
           </name>
           <et-al font-style="italic"/>
-          <!--期刊要求 et al 加粗-->
+          <!-- 期刊要求 et al 加粗 -->
         </names>
       </if>
       <else>
@@ -77,16 +77,16 @@
       <text variable="volume" font-weight="bold"/>
     </group>
     <group font-weight="bold">
-      <!--期刊要求括号加粗，font-weight 放入 text 不合要求-->
+      <!-- 期刊要求括号加粗，font-weight 放入 text 不合要求 -->
       <text variable="issue" prefix="(" suffix=")"/>
     </group>
     <group>
       <choose>
         <if variable="page">
-          <text value=": " font-weight="bold" />
+          <text value=": " font-weight="bold"/>
           <text variable="page"/>
         </if>
-        <!--期刊要求冒号加粗-->
+        <!-- 期刊要求冒号加粗 -->
       </choose>
     </group>
   </macro>
@@ -109,6 +109,10 @@
       <if variable="issued">
         <date variable="issued" date-parts="year" form="numeric"/>
       </if>
+      <else-if type="article-journal" variable="available-date" match="all">
+        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
+        <date variable="available-date" form="numeric" date-parts="year"/>
+      </else-if>
       <else>
         <text term="no date" prefix="[" suffix="]"/>
       </else>
@@ -150,9 +154,9 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <choose>
-          <if variable="page"></if>
+          <if variable="page"/>
           <else>
-            <text variable="DOI"  prefix="DOI: " />
+            <text variable="DOI" prefix="DOI: "/>
           </else>
         </choose>
       </if>
