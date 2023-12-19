@@ -1197,7 +1197,44 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
     <div class="csl-entry">[4] NUNN N, QIAN N, 2014. US food aid and civil conflict. American Economic Review, 104(6): 1630-1666.</div>
   </div>
 </blockquote>
+## [223 Journal of Shanghai University of International Business and Economics.csl]
 
+**《上海对外经贸大学学报》参考文献著录格式**
+
+1. 本刊引文参考文献采用**“****著者****-****出版年份****”****制**形式，即在正文所引用的词、句或段落尾以“（著者，出版年份）”的形式标出，并在正文后参考文献表中列出有关引文文献（按拼音或英文字母顺序先中文后英文顺次排列，并再按自动编号方式以[1]、[2]、[3]……加以编号）。若著者在正文中出现，则直接在著者后加“（出版年份）”标示。著者-出版年制主要注意事项见下【有关本刊所用“著者-出版年份”制的更详细说明以及脚注与引文参考文献的著录规范格式见附表，更多详情可至本刊主页的“下载中心”查看有关文件和范文】。
+
+（1） 引用同一作者同一年份的不同文献，年份后加入a、b、c区别，如（张三，2020a）。
+
+（2） 文中多次引用同一著者同一文献但出处页码不同时，则在出版年后加“：页码”，如（李四，2018a：10）；
+
+（3） 正文中中文作者姓和名全称著录，欧美作者只著录姓氏（包括其中译名以及以中文拼音书写的人名），两位作者中间中文加“和”、英文加“and/&”，两作者以上者可在第一作者后加“等或et al.”。例如：（张三，2020）；张三（2020）认为……；（张三和李四，2020；唐塔普斯科特等，2016；Shang and Price，2019）。
+
+（4） 正文后引文参考文献列表中，中文作者姓和名全称著录，而英文文献第一个作者则姓在前，名在后（名用缩写字母，并加缩写点），姓与名之间用逗号分隔，第二个作者开始为名在前姓在后，名与姓之间不用逗号分隔，作者与作者之间用逗号分隔，最后一个作者名前加and。作者超过3人时，著录前3个作者，其后加“，等”或“, et al.”，常见参考文献格式列表示例如下：
+
+<blockquote>
+  参考文献
+
+[1] 黄国平.区块链发展及其在金融领域的应用[N].金融时报,2019-12-23.
+
+[2] 李琪,李勍,朱建明,关晓瑶,等.基于区块链技术的慈善应用模式与平台[J].计算机应用,2017(S2):287-292 .
+
+[3] 迈尔-舍恩伯格, 库克耶.大数据时代——生活、工作与思维的大变革[M].周涛,等译.浙江:浙江人民出版社,2012.
+
+[4] 曼昆.经济学原理（微观经济学分册）[M]. 梁小民,梁砾,译.北京：北京大学出版社,2012:345.
+
+[5] 任仲文.区块链:领导干部读本[M].北京:人民出版社,2018.
+
+[6] 唐塔普斯科特, 亚力克斯•塔普斯科特. 区块链革命：比特币底层技术如何改变货币、商业和世界[M]. 凯尔,孙铭,周沁园,译.北京:中信出版社,2016.
+
+[7] 郑永年.技术赋权:中国的互联网、国家与社会[M].邱道隆,译.北京:东方出版社,2014:15.
+
+[8] Ngai, L. R., and C. A. Pissarides, “Structural Change in a Multisector Model of Growth”, American Economic Review, 2007, 97(1): 429-443.
+
+[9] Shang Qiuyun, and A. Price, “A Blockchain-Based Land Titling Project in the Republic of Georgia: Rebuilding Public Trust and Lessons for Future Pilot Projects”, Innovations Technology Governance Globalization, 2019(12):72-78.
+
+[10] Solarte-Rivera, J., A. Vidal-Zemanate, C. Cobos, et al., “Document Management System Based on a Private Blockchain for the Support of the Judicial Embargoes Process in Colombia”, in R. Matulevi?ius, R. Dijkman(eds.), Advanced Information Systems Engineering Workshops, Lecture Notes in Business Information Processing, Springer, Cham,2018:316.
+
+[11] Warren, S. D., and L. D. Brandeis, “The Right to Privacy”, Harvard Law Review,1890,4(5):193-220.
 
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
