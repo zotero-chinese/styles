@@ -1199,7 +1199,7 @@ Bartov, E.; Mohanram, P. and Seethamraju, C. “Valuation of Internet Stocks—A
 </blockquote>
 
 
-## [223 Journal of Shanghai University of International Business and Economics.csl]
+## [[223 Journal of Shanghai University of International Business and Economics.csl]]( [223Journal of Shanghai University of International Business and Economics.csl](223Journal of Shanghai University of International Business and Economics.csl) )
 
 **《上海对外经贸大学学报》参考文献著录格式**
 
