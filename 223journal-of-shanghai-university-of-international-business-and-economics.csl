@@ -2,17 +2,17 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="first" demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale-sort="zh-CN">
   <info>
     <title>上海对外经贸大学学报</title>
-    <id>http://www.zotero.org/styles/chinas-industrial-economics</id>
-    <link href="http://www.zotero.org/styles/chinas-industrial-economics" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=147144" rel="documentation"/>
+    <id>http://www.zotero.org/styles/journal-of-shanghai-university-of-international-business-and-economics</id>
+    <link href="http://www.zotero.org/styles/journal-of-shanghai-university-of-international-business-and-economics" rel="self"/>
+    <link href="http://www.zotero.org/styles/journal-of-shanghai-university-of-international-business-and-economics" rel="template"/>
+    <link href="https://xuebao.suibe.edu.cn/shdwjmdxxb/site/menu/20201105133131001" rel="documentation"/>
     <author>
       <name>Su Wen</name>
       <email>modupriest@gmail.com</email>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-19T07:57:16+00:00</updated>
+    <updated>2023-12-20T14:03:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -31,6 +31,7 @@
     </terms>
   </locale>
   <locale>
+    <style-options punctuation-in-quote="false"/>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
@@ -108,39 +109,22 @@
     <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
   </macro>
   <macro name="title">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <text prefix="“" suffix="”" variable="title" text-case="title"/>
-        <group delimiter=" ">
-          <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <text variable="number"/>
-            </if>
-          </choose>
+    <choose>
+      <if type="post webpage" match="any">
+        <text variable="title" text-case="title"/>
+      </if>
+      <else-if variable="container-title" type="paper-conference" match="any">
+        <text variable="title" text-case="title" quotes="true"/>
+      </else-if>
+      <else>
+        <group delimiter=", ">
+          <text variable="title" text-case="title"/>
+          <text macro="volume"/>
+          <text variable="number"/>
         </group>
-      </group>
-      <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
-    <group delimiter="/" prefix="[" suffix="]">
-      <!-- <text macro="type-id"/> -->
-      <text macro="medium-id"/>
-    </group>
+      </else>
+    </choose>
   </macro>
-  
   <macro name="title-zh">
     <group delimiter=", ">
       <group delimiter=": ">
@@ -174,7 +158,6 @@
       <text macro="medium-id"/>
     </group>
   </macro>
-  
   <macro name="volume">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
@@ -419,12 +402,10 @@
     <layout suffix="." locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-zh"/>
-      <text term="et-al-use-first" form="short" text="等"/>
     </layout>
     <layout suffix=".">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en"/>
-      <text term="et-al-use-first" form="short" text="et al."/>
     </layout>
   </bibliography>
 </style>
