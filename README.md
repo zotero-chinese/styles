@@ -298,57 +298,6 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 </blockquote>
 
 
-## [013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]
-
-[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改，添加平行语言支持，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
-
-该样式有较多 bug，不建议在此基础上修改。
-
-显示效果：
-
-> [1–4]
-
-> [1] Zhang B, Qi X, Mao J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-T ng X, Sun Y Y, Jiang X T, et al. Comparative analysis of flavor peptides prepared by enzymatic hydrolysis of goosemeat with different proteases [J]. Food Science, 2019,40 (22): 141-146.<br>
-> [3] Wu L, Zhao W, Yang R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.<br>
-Zhu L, Zhang X X, Xie Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09): 362–367.
-
-## [014gb-t-7714-2015-numeric-auup-bilan-ce.csl]
-
-[013gb-t-7714-2015-numeric-aulower-bilan-ce.csl] 基础上修改，支持平行语言显示，即部分理工科期刊（如[《中国农业科学》](http://www.chinaagrisci.com/CN/column/column5.shtml)）对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
-
-该样式有较多 bug，不建议在此基础上修改。
-
-显示效果：
-
-> [1–4]
-
-> [1] ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation[J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2] 唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146<br>
-TANG X, SUN Y Y, JIANG X T, et al. Comparative analysis of flavor peptides prepared by enzymatic hydrolysis of goosemeat with different proteases [J]. Food Science, 2019,40 (22): 141-146.
-> [3] WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes[J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
-> [4] 朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367<br>
-ZHU L, ZHANG X X, XIE Y Y, et al.  Research progress on mechanism of plastein reactions and its modification function of marine proteins [J]. Science and Technology of Food Industry, 2020, 41 (09):  362–367.
-
-
-## [015jm-chinese-std-gb-t-7714-2005-revised.csl]
-
-[jm-chinese-std-gb-t-7714-2005.csl](https://github.com/Juris-M/jm-styles/blob/master/jm-chinese-gb7714-2005-numeric.csl) 的修改版，删除了页码冒号前面的空格，无卷时年代后面直接括号期形式。
-
-该样式有较多 bug，不建议在此基础上修改。
-
-显示效果：
-
-> [1–4]
-
-> [1]	ZHANG B, QI X, MAO J, et al. Trehalose and alginate oligosaccharides affect the stability of myosin in whiteleg shrimp (Litopenaeus vannamei): The water-replacement mechanism confirmed by molecular dynamic simulation [J]. LWT - Food Science and Technology, 2020, 127: 109393.<br>
-> [2]	唐霄, 孙杨赢, 江雪婷, 等. 不同蛋白酶制备鹅肉呈味肽的对比分析[J]. 食品科学, 2019, 40(22): 141–146.<br>
-> [3]	WU L, ZHAO W, YANG R, et al. Aggregation of egg white proteins with pulsed electric fields and thermal processes [J]. Journal of the Science of Food and Agriculture, 2016, 96(10): 3334–3341.<br>
-> [4]	朱磊, 张馨心, 谢艳英, 等. 类蛋白反应的作用机制及其对海洋源蛋白修饰的研究进展[J]. 食品工业科技, 2020, 41(09): 362–367.
-
-
 ## [019gb-t-7714-1987-numeric-bilingual.csl]
 
 GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7B3D5D3A7E05397BE0A0AB82A)》，支持双语：按照语言显示“等”或“et al.”。。
@@ -410,7 +359,7 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 
 ## [102transactions-of-the-chinese-society-of-agricultural-engineering.csl]
 
-与[014gb-t-7714-2015-numeric-auup-bilan-ce.csl] 基本相同，修改了 id，将代码中显示 `OL` 部分注释，用于[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
+[《农业工程学报》](http://www.tcsae.org/nygcxb/home)样式
 使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>，作者改为全部字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。
 
 存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除；如果要设置缩进悬挂，需要将里面的软回车替换为硬回车，方法是 Word 中查找 `^l` 替换为 `^p` 批量替换。
@@ -578,7 +527,7 @@ LIANG RONGRONG, LI NAN, WANG RENHUAN, et al. The establishmentof evaluating PSE-
 
 ## [111acta-agriculurae-boreali-sinica.csl]
 
-[013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]基础上修改，[华北农学报](http://www.hbnxb.net/CN/column/column7.shtml#)样式，添加平行语言支持，即对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，显示全部作者和DOI，
+[华北农学报](http://www.hbnxb.net/CN/column/column7.shtml#)样式，添加平行语言支持，即对于中文文献要求在中文文献后添加其英文的翻译，使用方法见 `Zotero` 生成双语参考文献的变通实现方法（含视频讲解）<https://zhuanlan.zhihu.com/p/282826403>。作者为首字母大写，显示全部作者和DOI，
 
 存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l.^p` 替换为 `^p` 批量删除；如果要设置缩进悬挂，需要将里面的软回车替换为硬回车，方法是 Word 中查找 `^l` 替换为 `^p` 批量替换。
 
@@ -835,31 +784,6 @@ original-publisher-place: Nanjing
 > Gopalan, R., T. Milbourn, F. Song, A. V. Thakor. 2014. Duration of Executive Compensation. Journal of Finance, 69(6): 2777～2817.<br>
 > Kaustia, M., V. Rantala. 2015. Social Learning and Corporate Peer Effects. Journal of Financial Economics, 117(3): 653～669.<br>
 
-## [207chinas-industrial-economics.csl]
-
-[《中国工业经济》](http://ciejournal.ajcass.org/Home/Index)样式。[《经济管理》](205business-management-journal.csl)基础上修改。正文中如果出现文献作者名，有 2 个作者，用（`甲和乙，年份）`英文名用`（A and B，年份）`连接。有 3 个或者更多作者，用`（甲等，年份）`，英文名为`（A et al，年份）`表示。文末的参考文献中文在前，英文在后（需要设置文献语言，详见前面[如何使用](#如何使用)）；列出所有作者，英文最后一个作者前面加`and`。
-
-
-显示效果：
-<blockquote>
-(Abel et al, 2022)<br>
-(Fan and Sommers, 2013)<br>
-(Engers and Gans, 1998)<br>
-(伊宪华等, 2009)<br>
-(蒋有绪等, 1998)<br>
-(李幼平和王莉, 2010)<br>
-(Li et al, 2021)<br>
-[1] 伊宪华, 韩雅玲, 李毅, 王守力, 荆全民, 马颖艳, 王效增, 栾波, 王耿. 介入治疗开通慢性完全闭塞病变的长期临床疗效[J]. 中华心血管病杂志, 2009, 37(9): 773–776.<br>
-[2] 蒋有绪, 郭泉水, 马娟, Others. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.
-[3] 李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225–228.<br>
-[4] Engers M., and J. S. Gans. Why Referees Are Not Paid (Enough)[J]. American Economic Review, 1998, 88(5): 1341–1349.	<br>
-[5] Li X., S. Shen, Y. Xu, T. Guo, H. Dai, and X. Lu. Application of membrane separation processes in phosphorus recovery: A review[J]. Science of The Total Environment, 2021, 767: 144346.	<br>
-[6] Abel N., B. T. Rotabakk, and J. Lerfall. Mild processing of seafood—A review[J]. Comprehensive Reviews in Food Science and Food Safety, 2022, 21(1): 340–370.	<br>
-[7] Fan X., and C. H. Sommers. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26.	<br>
-
-
-</blockquote>
-
 
 ## [208chinas-industrial-economics.csl]
 
@@ -869,7 +793,7 @@ original-publisher-place: Nanjing
 2. 有 3 个或者更多作者，用“(甲等, 年份)”（英文名为“(A et al., 年份)”）表示。
 3. 文后参考文献表中著录全部姓名。
 4. 英文文献的第一作者姓在前（后加“, ”）、名在后（全部用缩写，即首字母加“.”），其余作者则名在前、姓在后。
-5. 英文文献的最后一个作者前加“，and”。
+5. 英文文献的最后一个作者前加“, and”。
 
 显示效果：
 
@@ -2682,9 +2606,6 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl]: 009gb-t-7714-2015-numeric-bilingual-no-uppercase-page-out.csl
 [010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl]: 010gb-t-7714-2015-author-date-bilingual-no-uppercase.csl
 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl]: 011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl
-[013gb-t-7714-2015-numeric-aulower-bilan-ce.csl]: 013gb-t-7714-2015-numeric-aulower-bilan-ce.csl
-[014gb-t-7714-2015-numeric-auup-bilan-ce.csl]: 014gb-t-7714-2015-numeric-auup-bilan-ce.csl
-[015jm-chinese-std-gb-t-7714-2005-revised.csl]: 015jm-chinese-std-gb-t-7714-2005-revised.csl
 [016nsfc-author-date.csl]: 016nsfc-author-date.csl
 [017gb-t-7714-2005-numeric-bilingual.csl]: 017gb-t-7714-2005-numeric-bilingual.csl
 [018gb-t-7714-2005-author-date-bilingual.csl]: 018gb-t-7714-2005-author-date-bilingual.csl
@@ -2715,7 +2636,6 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [204financial-research-journal.csl]: 204financial-research-journal.csl
 [205business-management-journal.csl]: 205business-management-journal.csl
 [206accounting-research.csl]: 206accounting-research.csl
-[207chinas-industrial-economics.csl]: 207chinas-industrial-economics.csl
 [208chinas-industrial-economics.csl]: 208chinas-industrial-economics.csl
 [209sociological-studies.csl]: 209sociological-studies.csl
 [210advances-in-psychological-science.csl]: 210advances-in-psychological-science.csl
