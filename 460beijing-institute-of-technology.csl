@@ -16,7 +16,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>北京理工大学引用样式</summary>
-    <updated>2023-12-13T19:11:41+08:00</updated>
+    <updated>2023-12-20T18:33:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -214,27 +214,25 @@
   </macro>
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
   <macro name="periodical-publishing">
-    <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-title" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-              <else>
-                <text macro="issued-year"/>
-              </else>
-            </choose>
-            <text variable="volume"/>
-          </group>
-          <text variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=": ">
+      <group>
+        <group delimiter=", ">
+          <text macro="container-title" text-case="title"/>
+          <choose>
+            <if type="article-newspaper">
+              <text macro="issued-date"/>
+            </if>
+            <else>
+              <text macro="issued-year"/>
+            </else>
+          </choose>
+          <text variable="volume"/>
         </group>
-        <text variable="page"/>
+        <text variable="issue" prefix="(" suffix=")"/>
       </group>
-      <text macro="accessed-date"/>
+      <text variable="page"/>
     </group>
+    <text macro="accessed-date"/>
   </macro>
   <!-- 题名 -->
   <macro name="title">
@@ -366,13 +364,11 @@
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
-    <group>
-      <group delimiter=", ">
-        <text macro="issued-year"/>
-        <text variable="volume"/>
-      </group>
-      <text variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
     </group>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 专著和电子资源 -->
   <macro name="monograph-layout">
@@ -440,9 +436,7 @@
   </macro>
   <!-- 正文中引用的文献标注格式 -->
   <macro name="citation-layout">
-    <group>
-      <text variable="citation-number"/>
-    </group>
+    <text variable="citation-number"/>
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">

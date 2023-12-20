@@ -3,49 +3,55 @@ import os
 import re
 import shutil
 import sys
-import xml.etree.ElementTree as ET
 
-TEST_DIR = os.path.join('tests', 'styles')
+from lxml import etree
+
+# import xml.etree.ElementTree as ET
+
+
+TEST_DIR = os.path.join("tests", "styles")
 
 ns = {
-    'cs': 'http://purl.org/net/xbiblio/csl',
+    "cs": "http://purl.org/net/xbiblio/csl",
 }
 
 
-def info(str):
-    print(f'Info: {str}', file=sys.stderr)
+def info(s):
+    print(f"Info: {s}", file=sys.stderr)
 
 
-def warning(str):
-    print(f'Warning: {str}', file=sys.stderr)
+def warning(s):
+    print(f"Warning: {s}", file=sys.stderr)
 
 
-def find_line_numbers(content, str):
+def find_line_numbers(content, s):
     lines = content.splitlines()
     for i, line in enumerate(lines):
-        if str in line:
+        if s in line:
             yield i + 1
 
 
-def check_macros(path: str, csl_content: str, etree):
-    root = etree.getroot()
+def check_macros(path: str, csl_content: str, element_tree):
+    root = element_tree.getroot()
 
-    defined_macros = [
-        macro.attrib['name'] for macro in root.findall('.//cs:macro', ns)
-    ]
-    called_macros = sorted([
-        text.attrib['macro']
-        for text in root.findall('.//cs:text', ns) if 'macro' in text.attrib
-    ] + [
-        key.attrib['macro']
-        for key in root.findall('.//cs:key', ns) if 'macro' in key.attrib
-    ])
+    defined_macros = [macro.attrib["name"] for macro in root.findall(".//cs:macro", ns)]
+    called_macros = sorted(
+        [
+            text.attrib["macro"]
+            for text in root.findall(".//cs:text", ns)
+            if "macro" in text.attrib
+        ]
+        + [
+            key.attrib["macro"]
+            for key in root.findall(".//cs:key", ns)
+            if "macro" in key.attrib
+        ]
+    )
 
     unique_macros = set()
     for macro in defined_macros:
         if macro in unique_macros:
-            for line_number in find_line_numbers(csl_content,
-                                                 f'<macro name="{macro}"'):
+            for line_number in find_line_numbers(csl_content, f'<macro name="{macro}"'):
                 warning(
                     f'File "{path}", line {line_number}: Duplicate macro "{macro}".'
                 )
@@ -56,9 +62,8 @@ def check_macros(path: str, csl_content: str, etree):
 
     for macro in defined_macros:
         if macro not in called_macros:
-            for line_number in find_line_numbers(csl_content,
-                                                 f'<macro name="{macro}"'):
-                if os.path.split(path)[1].startswith('5'):
+            for line_number in find_line_numbers(csl_content, f'<macro name="{macro}"'):
+                if os.path.split(path)[1].startswith("5"):
                     continue
                 warning(
                     f'File "{path}", line {line_number}: The macro "{macro}" is not used.'
@@ -66,8 +71,7 @@ def check_macros(path: str, csl_content: str, etree):
 
     for macro in called_macros:
         if macro not in defined_macros:
-            for line_number in find_line_numbers(csl_content,
-                                                 f'macro="{macro}"'):
+            for line_number in find_line_numbers(csl_content, f'macro="{macro}"'):
                 warning(
                     f'File "{path}", line {line_number}: The macro "{macro}" is not defined.'
                 )
@@ -80,20 +84,19 @@ def cleanup_unsed_macros(path, csl_content: str, called_macros):
     macros = []
 
     preamble = []
-    macro = ''
+    macro = ""
     postamble = []
-    previous_line = None
     state = 0
     for line in lines:
         if '<macro name="' in line:
-            if state == 0 and preamble[-1].startswith('  <!--'):
+            if state == 0 and preamble[-1].startswith("  <!--"):
                 macro += preamble[-1]
                 preamble.pop()
             state = 1
-        elif '<citation' in line or '<bibliography' in line:
-            if state == 1 and macro and macro.startswith('  <!--'):
+        elif "<citation" in line or "<bibliography" in line:
+            if state == 1 and macro and macro.startswith("  <!--"):
                 postamble.append(macro)
-                macro = ''
+                macro = ""
             state = 2
 
         if state == 0:
@@ -102,9 +105,9 @@ def cleanup_unsed_macros(path, csl_content: str, called_macros):
             postamble.append(line)
         else:
             macro += line
-            if '</macro>' in line or re.match(r'\s*<macro .*/>', line):
+            if "</macro>" in line or re.match(r"\s*<macro .*/>", line):
                 macros.append(macro)
-                macro = ''
+                macro = ""
 
     new_macros = []
     for macro in macros:
@@ -112,9 +115,17 @@ def cleanup_unsed_macros(path, csl_content: str, called_macros):
         if name in called_macros:
             new_macros.append(macro)
 
-    csl_content = ''.join(preamble + new_macros + postamble)
-    with open(path, 'w') as f:
+    csl_content = "".join(preamble + new_macros + postamble)
+    with open(path, "w") as f:
         f.write(csl_content)
+
+
+def check_groups(path: str, csl_content: str, element_tree):
+    root = element_tree.getroot()
+    for group in root.xpath(".//cs:macro/cs:group", namespaces=ns):
+        if len(group.getparent().xpath("./*")) == 1:
+            if not group.attrib:
+                warning(f'File "{path}", line {group.sourceline}: extra empty group.')
 
 
 def check_medium(path: str, csl_content: str):
@@ -122,35 +133,34 @@ def check_medium(path: str, csl_content: str):
         warning(f'File "{path}" does not contain "medium" variable.')
 
 
-def check_conditions(path: str, csl_content: str, etree):
-    root = etree.getroot()
-    for cond_xpath in ['.//cs:if', './/cs:else-if']:
+def check_conditions(path: str, csl_content: str, element_tree):
+    root = element_tree.getroot()
+    for cond_xpath in [".//cs:if", ".//cs:else-if"]:
         for condition in root.findall(cond_xpath, ns):
             num_conds = 0
             for attr, value in condition.attrib.items():
-                if attr != 'match':
+                if attr != "match":
                     num_conds += len(value.split())
-            attributes = ' '.join([
-                f'{key}="{value}"' for key, value in condition.attrib.items()
-            ])
+            attributes = " ".join(
+                [f'{key}="{value}"' for key, value in condition.attrib.items()]
+            )
             # tag_info = f'<{condition.tag} {attributes}>'
-            tag_info = f'{attributes}'
+            tag_info = f"{attributes}"
             # if num_conds > 1 and 'match' not in condition.attrib:
             #     warning(
             #         f'File "{path}": multiple conditions \'{tag_info}\' does not include "match".'
             #     )
-            if num_conds == 1 and 'match' in condition.attrib and condition.attrib[
-                    'match'] != 'none':
-                warning(
-                    f'File "{path}": condition \'{tag_info}\' has extra "match".'
-                )
-            elif num_conds > 1 and 'match' not in condition.attib:
-                warning(
-                    f'File "{path}": condition \'{tag_info}\' has no "match".'
-                )
+            if (
+                num_conds == 1
+                and "match" in condition.attrib
+                and condition.attrib["match"] != "none"
+            ):
+                warning(f'File "{path}": condition \'{tag_info}\' has extra "match".')
+            elif num_conds > 1 and "match" not in condition.attrib:
+                warning(f'File "{path}": condition \'{tag_info}\' has no "match".')
 
 
-def check_text_case(path: str, csl_content: str, etree):
+def check_text_case(path: str, csl_content: str, element_tree):
     default_locale = re.search(r'default-locale="([a-zA-Z-]+)"', csl_content)
     if default_locale:
         default_locale = default_locale.group(1)
@@ -179,7 +189,6 @@ def check_text_case(path: str, csl_content: str, etree):
         #     )
 
 
-
 def prepare_style_dir(style_name):
     style_test_dir = os.path.join(TEST_DIR, style_name)
     if not os.path.exists(style_test_dir):
@@ -189,33 +198,36 @@ def prepare_style_dir(style_name):
 
 def test_style(path):
     style_name, ext = os.path.splitext(os.path.split(path)[1])
-    if ext != '.csl':
+    if ext != ".csl":
         raise ValueError(f'Invalid CSL style "{path}"')
 
     with open(path) as f:
         csl_content = f.read()
 
-    etree = ET.parse(path)
+    parser = etree.XMLParser()
+    element_tree = etree.parse(path, parser)
 
     # info(f'Running test of "{style_name}.csl"')
 
-    check_macros(path, csl_content, etree)
+    check_groups(path, csl_content, element_tree)
 
-    # check_conditions(path, csl_content, etree)
+    check_macros(path, csl_content, element_tree)
 
-    # check_text_case(path, csl_content, etree)
+    # check_conditions(path, csl_content, element_tree)
+
+    # check_text_case(path, csl_content, element_tree)
 
     # check_medium(path, csl_content)
 
     prepare_style_dir(style_name)
-    os.system(f'node tests/test-style.js {style_name}.csl')
+    os.system(f"node tests/test-style.js {style_name}.csl")
 
 
 def remove_non_existing_style_dirs():
     for style_name in os.listdir(TEST_DIR):
-        if style_name.startswith('.'):
+        if style_name.startswith("."):
             continue
-        if not os.path.exists(os.path.join(style_name + '.csl')):
+        if not os.path.exists(os.path.join(style_name + ".csl")):
             style_test_dir = os.path.join(TEST_DIR, style_name)
             warning(f'Removing "{style_test_dir}"')
             shutil.rmtree(style_test_dir)
@@ -226,7 +238,7 @@ def main():
     if len(sys.argv) >= 2:
         paths = sys.argv[1:]
     else:
-        paths = list(sorted(glob.glob('*.csl')))
+        paths = list(sorted(glob.glob("*.csl")))
 
     remove_non_existing_style_dirs()
 
@@ -234,5 +246,5 @@ def main():
         test_style(path)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -20,7 +20,7 @@
     <category field="political_science"/>
     <category field="social_science"/>
     <issn>1671-4709</issn>
-    <updated>2023-12-03T10:38:26+08:00</updated>
+    <updated>2023-12-20T18:30:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -186,15 +186,13 @@
     </choose>
   </macro>
   <macro name="title-zh">
-    <group>
-      <text variable="title" prefix="《" suffix="》"/>
-      <choose>
-        <if variable="container-title" match="none">
-          <text macro="edition-zh" prefix="（" suffix="）"/>
-          <text macro="volume-zh"/>
-        </if>
-      </choose>
-    </group>
+    <text variable="title" prefix="《" suffix="》"/>
+    <choose>
+      <if variable="container-title" match="none">
+        <text macro="edition-zh" prefix="（" suffix="）"/>
+        <text macro="volume-zh"/>
+      </if>
+    </choose>
   </macro>
   <macro name="title-short-en">
     <choose>
@@ -293,16 +291,14 @@
     </choose>
   </macro>
   <macro name="container-newspaper-zh">
+    <text variable="container-title" prefix="《" suffix="》"/>
+    <text variable="publisher-place" prefix="（" suffix="）"/>
     <group>
-      <text variable="container-title" prefix="《" suffix="》"/>
-      <text variable="publisher-place" prefix="（" suffix="）"/>
-      <group>
-        <text macro="volume-zh"/>
-        <text macro="issue-zh"/>
-      </group>
-      <text macro="date-zh"/>
-      <text variable="section"/>
+      <text macro="volume-zh"/>
+      <text macro="issue-zh"/>
     </group>
+    <text macro="date-zh"/>
+    <text variable="section"/>
   </macro>
   <macro name="publisher-en">
     <choose>

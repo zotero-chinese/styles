@@ -14,7 +14,7 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <updated>2023-12-20T17:42:41+08:00</updated>
+    <updated>2023-12-20T18:27:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -99,12 +99,10 @@
     </choose>
   </macro>
   <macro name="serial-information">
-    <group>
-      <text macro="issued-year" suffix="年"/>
-      <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
-      <text variable="issue" suffix="期"/>
-      <text variable="page" prefix=", " suffix="页"/>
-    </group>
+    <text macro="issued-year" suffix="年"/>
+    <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
+    <text variable="issue" suffix="期"/>
+    <text variable="page" prefix=", " suffix="页"/>
   </macro>
   <macro name="serial-information-en">
     <group delimiter=" " prefix=" ">

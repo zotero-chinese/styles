@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <category field="law"/>
-    <updated>2023-08-27T16:05:12+08:00</updated>
+    <updated>2023-12-20T18:33:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -616,82 +616,80 @@
     </group>
   </macro>
   <macro name="source-ja">
-    <group>
-      <text macro="author-ja"/>
-      <choose>
-        <!-- 96. 日文学术文献 -->
-        <if type="book thesis" match="any">
-          <text macro="title-ja"/>
-          <text macro="publisher-ja"/>
-          <text macro="locator-ja"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <text macro="title-ja"/>
-          <text macro="container-ja"/>
-          <text macro="issuance-ja" prefix="（" suffix="）"/>
-          <choose>
-            <if type="article-journal">
-              <text macro="locator-or-page-ja"/>
-            </if>
-          </choose>
-        </else-if>
-        <else-if type="chapter paper-conference" match="any">
-          <text macro="title-ja"/>
-          <text macro="container-ja"/>
-          <text macro="publisher-ja"/>
-          <text macro="locator-or-page-ja"/>
-        </else-if>
-        <!-- 97. 日文案例 -->
-        <else-if type="legal_case">
-          <group delimiter="，">
-            <group>
-              <text variable="authority"/>
-              <text macro="issuance-ja"/>
-              <text value="判決"/>
-            </group>
-            <group>
-              <text variable="container-title"/>
-              <text macro="volume-ja"/>
-              <group>
-                <text variable="number"/>
-                <text term="issue" form="short"/>
-              </group>
-              <text macro="locator-or-page-ja"/>
-            </group>
+    <text macro="author-ja"/>
+    <choose>
+      <!-- 96. 日文学术文献 -->
+      <if type="book thesis" match="any">
+        <text macro="title-ja"/>
+        <text macro="publisher-ja"/>
+        <text macro="locator-ja"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper" match="any">
+        <text macro="title-ja"/>
+        <text macro="container-ja"/>
+        <text macro="issuance-ja" prefix="（" suffix="）"/>
+        <choose>
+          <if type="article-journal">
+            <text macro="locator-or-page-ja"/>
+          </if>
+        </choose>
+      </else-if>
+      <else-if type="chapter paper-conference" match="any">
+        <text macro="title-ja"/>
+        <text macro="container-ja"/>
+        <text macro="publisher-ja"/>
+        <text macro="locator-or-page-ja"/>
+      </else-if>
+      <!-- 97. 日文案例 -->
+      <else-if type="legal_case">
+        <group delimiter="，">
+          <group>
+            <text variable="authority"/>
+            <text macro="issuance-ja"/>
+            <text value="判決"/>
           </group>
-        </else-if>
-        <!-- 98. 日文法规 -->
-        <else-if type="legislation">
-          <choose>
-            <if variable="title">
-              <text variable="title"/>
-            </if>
-            <else>
-              <text variable="container-title"/>
-            </else>
-          </choose>
-          <choose>
-            <if variable="locator">
-              <text macro="locator-ja"/>
-            </if>
-            <else>
-              <text macro="section-zh"/>
-            </else>
-          </choose>
-        </else-if>
-        <else-if type="post post-weblog webpage" match="any">
-          <text macro="title-ja"/>
-          <text macro="issuance-ja"/>
-          <text macro="access-ja"/>
-        </else-if>
-        <else>
-          <text macro="title-ja"/>
-          <text variable="container-title"/>
-          <text macro="publisher-ja"/>
-          <text macro="locator-or-page-ja"/>
-        </else>
-      </choose>
-    </group>
+          <group>
+            <text variable="container-title"/>
+            <text macro="volume-ja"/>
+            <group>
+              <text variable="number"/>
+              <text term="issue" form="short"/>
+            </group>
+            <text macro="locator-or-page-ja"/>
+          </group>
+        </group>
+      </else-if>
+      <!-- 98. 日文法规 -->
+      <else-if type="legislation">
+        <choose>
+          <if variable="title">
+            <text variable="title"/>
+          </if>
+          <else>
+            <text variable="container-title"/>
+          </else>
+        </choose>
+        <choose>
+          <if variable="locator">
+            <text macro="locator-ja"/>
+          </if>
+          <else>
+            <text macro="section-zh"/>
+          </else>
+        </choose>
+      </else-if>
+      <else-if type="post post-weblog webpage" match="any">
+        <text macro="title-ja"/>
+        <text macro="issuance-ja"/>
+        <text macro="access-ja"/>
+      </else-if>
+      <else>
+        <text macro="title-ja"/>
+        <text variable="container-title"/>
+        <text macro="publisher-ja"/>
+        <text macro="locator-or-page-ja"/>
+      </else>
+    </choose>
   </macro>
   <macro name="source-zh">
     <group delimiter="：">

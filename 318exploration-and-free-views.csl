@@ -15,7 +15,7 @@
     <issn>1004-2229</issn>
     <summary>根据fanzhen《历史研究》引文规范以及众多国际问题期刊引文规范改制，支持中英混排，仅支持今人论文、图书、章节、学位论文、网页</summary>
     <published>2021-01-16T00:00:00+08:00</published>
-    <updated>2021-01-16T00:00:00+08:00</updated>
+    <updated>2023-12-20T18:45:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -155,22 +155,18 @@
     </choose>
   </macro>
   <macro name="locators">
-    <group prefix=", ">
-      <choose>
-        <if type="book thesis" match="any">
-          <label variable="page" form="short"/>
-        </if>
-      </choose>
-    </group>
+    <choose>
+      <if type="book thesis" match="any">
+        <label variable="page" form="short"/>
+      </if>
+    </choose>
   </macro>
   <macro name="locators-zh">
-    <group>
-      <choose>
-        <if type="book thesis" match="any">
-          <label variable="locator" form="symbol"/>
-        </if>
-      </choose>
-    </group>
+    <choose>
+      <if type="book thesis" match="any">
+        <label variable="locator" form="symbol"/>
+      </if>
+    </choose>
   </macro>
   <citation>
     <layout locale="en" delimiter=" ">
@@ -178,7 +174,7 @@
         <if position="ibid-with-locator">
           <group>
             <text term="ibid"/>
-            <text macro="locators"/>
+            <text macro="locators" prefix=", "/>
             <text variable="locator" suffix="."/>
           </group>
         </if>

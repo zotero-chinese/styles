@@ -18,7 +18,7 @@
     <category field="political_science"/>
     <category field="social_science"/>
     <issn>1006-9550</issn>
-    <updated>2023-12-03T12:50:58+08:00</updated>
+    <updated>2023-12-20T18:29:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -198,15 +198,13 @@
     </choose>
   </macro>
   <macro name="title-zh">
-    <group>
-      <text variable="title" prefix="《" suffix="》"/>
-      <choose>
-        <if variable="container-title" match="none">
-          <text macro="edition-zh" prefix="（" suffix="）"/>
-          <text macro="volume-zh"/>
-        </if>
-      </choose>
-    </group>
+    <text variable="title" prefix="《" suffix="》"/>
+    <choose>
+      <if variable="container-title" match="none">
+        <text macro="edition-zh" prefix="（" suffix="）"/>
+        <text macro="volume-zh"/>
+      </if>
+    </choose>
   </macro>
   <macro name="title-short-en">
     <choose>

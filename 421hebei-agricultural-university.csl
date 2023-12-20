@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-20T18:33:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -218,25 +218,23 @@
     </group>
   </macro>
   <macro name="container-periodical">
-    <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-booklike" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-              <else>
-                <text macro="issued-year"/>
-              </else>
-            </choose>
-            <text variable="volume"/>
-          </group>
-          <text variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=": ">
+      <group>
+        <group delimiter=", ">
+          <text macro="container-booklike" text-case="title"/>
+          <choose>
+            <if type="article-newspaper">
+              <text macro="issued-date"/>
+            </if>
+            <else>
+              <text macro="issued-year"/>
+            </else>
+          </choose>
+          <text variable="volume"/>
         </group>
-        <text variable="page"/>
+        <text variable="issue" prefix="(" suffix=")"/>
       </group>
+      <text variable="page"/>
     </group>
   </macro>
   <macro name="edition">
@@ -253,13 +251,11 @@
     </choose>
   </macro>
   <macro name="year-volume-issue">
-    <group>
-      <group delimiter=", ">
-        <text macro="issued-year"/>
-        <text variable="volume"/>
-      </group>
-      <text variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
     </group>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <macro name="publisher">
     <choose>

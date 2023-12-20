@@ -16,13 +16,13 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-12-20T18:27:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <style-options punctuation-in-quote="false"/>
     <terms>
-      <!-- 英文页码pp.后加空格-->
+      <!-- 英文页码pp.后加空格 -->
       <term name="page" form="short">
         <single>p. </single>
         <multiple>pp. </multiple>
@@ -102,9 +102,7 @@
     </choose>
   </macro>
   <macro name="title-zh">
-    <group>
-      <text variable="title" prefix="《" suffix="》"/>
-    </group>
+    <text variable="title" prefix="《" suffix="》"/>
   </macro>
   <macro name="container-booklike-en">
     <text term="in" suffix=" "/>
@@ -149,12 +147,10 @@
     </group>
   </macro>
   <macro name="container-periodical-zh">
+    <text variable="container-title" prefix="《" suffix="》"/>
     <group>
-      <text variable="container-title" prefix="《" suffix="》"/>
-      <group>
-        <!-- <text macro="date-bib-zh"/> -->
-        <text macro="issue-zh"/>
-      </group>
+      <!-- <text macro="date-bib-zh"/> -->
+      <text macro="issue-zh"/>
     </group>
   </macro>
   <macro name="issue-zh">

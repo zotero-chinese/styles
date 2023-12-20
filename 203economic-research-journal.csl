@@ -19,7 +19,7 @@
     <category field="social_science"/>
     <issn>0577-9154</issn>
     <summary>Economic Research Journal author-date style</summary>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-20T18:27:08+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -123,11 +123,9 @@
     <text variable="page" prefix=", "/> <!-- 期不显示 -->
   </macro>
   <macro name="serial-information-zh">
-    <group>
-      <!-- <text macro="issued-year" suffix="年"/> -->
-      <!-- <text variable="volume"/> -->
-      <text variable="issue" prefix="第" suffix="期"/>
-    </group>
+    <!-- <text macro="issued-year" suffix="年"/> -->
+    <!-- <text variable="volume"/> -->
+    <text variable="issue" prefix="第" suffix="期"/>
     <!-- <text variable="page" prefix=": "/> -->
   </macro>
   <macro name="publisher">

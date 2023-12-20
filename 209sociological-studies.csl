@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="sociology"/>
     <issn>1002-5936</issn>
-    <updated>2023-12-03T11:10:27+08:00</updated>
+    <updated>2023-12-20T18:27:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -337,17 +337,15 @@
     </group>
   </macro>
   <macro name="entry-layout-zh">
-    <group>
-      <group delimiter="，">
-        <text macro="author-zh"/>
-        <text macro="date"/>
-        <text macro="title-zh"/>
-        <text macro="secondary-contributors-zh"/>
-        <text macro="container-zh"/>
-        <text macro="publisher-zh"/>
-      </group>
-      <text macro="access" prefix="（" suffix="）"/>
+    <group delimiter="，">
+      <text macro="author-zh"/>
+      <text macro="date"/>
+      <text macro="title-zh"/>
+      <text macro="secondary-contributors-zh"/>
+      <text macro="container-zh"/>
+      <text macro="publisher-zh"/>
     </group>
+    <text macro="access" prefix="（" suffix="）"/>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <layout prefix="（" suffix="）" delimiter="；" locale="zh">

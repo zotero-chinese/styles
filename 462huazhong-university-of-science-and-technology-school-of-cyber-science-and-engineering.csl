@@ -18,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。</summary>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T18:33:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -101,34 +101,32 @@
     </group>
   </macro>
   <macro name="title-zh">
-    <group>
-      <group delimiter=": ">
-        <text variable="title"/>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="bill legal_case legislation regulation report standard" match="any">
-              <text variable="number"/>
-            </if>
-          </choose>
-        </group>
+    <group delimiter=": ">
+      <text variable="title"/>
+      <group delimiter="&#8195;">
+        <choose>
+          <if variable="container-title" type="chapter paper-conference" match="none">
+            <text macro="volume"/>
+          </if>
+        </choose>
+        <choose>
+          <if type="bill legal_case legislation regulation report standard" match="any">
+            <text variable="number"/>
+          </if>
+        </choose>
       </group>
-      <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <!-- 版本号，样式为图书名称（第x版） -->
-          <text macro="edition-zh" prefix="（" suffix="）"/>
-        </if>
-      </choose>
-      <choose>
-        <if type="thesis" match="any">
-          <text macro="thesis-type" prefix="[" suffix="]"/>
-        </if>
-      </choose>
     </group>
+    <choose>
+      <if variable="container-title" type="chapter paper-conference" match="none">
+        <!-- 版本号，样式为图书名称（第x版） -->
+        <text macro="edition-zh" prefix="（" suffix="）"/>
+      </if>
+    </choose>
+    <choose>
+      <if type="thesis" match="any">
+        <text macro="thesis-type" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">

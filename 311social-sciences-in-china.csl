@@ -16,7 +16,7 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <category field="humanities"/>
-    <updated>2023-07-02T19:51:59+08:00</updated>
+    <updated>2023-12-20T18:29:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -314,17 +314,15 @@
     </choose>
   </macro>
   <macro name="container-newspaper-zh">
-    <group>
-      <text variable="container-title" prefix="《" suffix="》"/>
-      <text variable="publisher-place" prefix="（" suffix="）"/>
-      <group delimiter="，">
-        <group>
-          <text macro="volume-zh"/>
-          <text macro="issue-zh"/>
-        </group>
-        <text macro="date-zh"/>
-        <text variable="section" quotes="true"/>
+    <text variable="container-title" prefix="《" suffix="》"/>
+    <text variable="publisher-place" prefix="（" suffix="）"/>
+    <group delimiter="，">
+      <group>
+        <text macro="volume-zh"/>
+        <text macro="issue-zh"/>
       </group>
+      <text macro="date-zh"/>
+      <text variable="section" quotes="true"/>
     </group>
   </macro>
   <macro name="container-booklike-en">

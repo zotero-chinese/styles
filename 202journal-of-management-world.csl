@@ -16,7 +16,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2023-03-22T12:38:19+08:00</updated>
+    <updated>2023-12-20T18:27:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -94,9 +94,7 @@
     </choose>
   </macro>
   <macro name="title-zh">
-    <group>
-      <text variable="title" prefix="《" suffix="》"/>
-    </group>
+    <text variable="title" prefix="《" suffix="》"/>
   </macro>
   <macro name="container-booklike-en">
     <text term="in" suffix=" "/>

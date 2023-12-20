@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T18:27:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -237,17 +237,15 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
-    <group>
-      <choose>
-        <if variable="container-title">
-          <text variable="container-title" text-case="title"/>
-        </if>
-        <else>
-          <text variable="event-title"/>
-        </else>
-      </choose>
-      <text value="[C]"/>
-    </group>
+    <choose>
+      <if variable="container-title">
+        <text variable="container-title" text-case="title"/>
+      </if>
+      <else>
+        <text variable="event-title"/>
+      </else>
+    </choose>
+    <text value="[C]"/>
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">

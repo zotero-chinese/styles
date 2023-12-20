@@ -13,7 +13,7 @@
     <category field="literature"/>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文艺争鸣》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2021-02-24T00:00:00+08:00</updated>
+    <updated>2023-12-20T18:45:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -59,18 +59,16 @@
     </names>
   </macro>
   <macro name="date">
-    <group>
-      <choose>
-        <if variable="issued">
-          <date date-parts="year" form="text" variable="issued">
-            <date-part name="year"/>
-          </date>
-        </if>
-        <else>
-          <text term="anonymous"/>
-        </else>
-      </choose>
-    </group>
+    <choose>
+      <if variable="issued">
+        <date date-parts="year" form="text" variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="anonymous"/>
+      </else>
+    </choose>
   </macro>
   <macro name="container-title">
     <text variable="container-title" prefix="《" suffix="》，"/>
@@ -106,22 +104,18 @@
     <text variable="publisher" suffix="，"/>
   </macro>
   <macro name="locators">
-    <group>
-      <choose>
-        <if type="book thesis" match="any">
-          <label variable="page" form="short"/>
-        </if>
-      </choose>
-    </group>
+    <choose>
+      <if type="book thesis" match="any">
+        <label variable="page" form="short"/>
+      </if>
+    </choose>
   </macro>
   <macro name="locators-zh">
-    <group>
-      <choose>
-        <if type="book thesis" match="any">
-          <label variable="locator" form="symbol"/>
-        </if>
-      </choose>
-    </group>
+    <choose>
+      <if type="book thesis" match="any">
+        <label variable="locator" form="symbol"/>
+      </if>
+    </choose>
   </macro>
   <citation>
     <layout locale="en" suffix="." delimiter="; ">

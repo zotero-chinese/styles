@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 区分中文和西文的“等”和“et al.”。2. 西文名缩写，名在前姓在后。3. 不显示 DOI。4. 网页显示URL。</summary>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T18:32:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -225,27 +225,25 @@
   </macro>
   <!-- 连续出版物中的析出文献的出处项（年、卷、期等信息） -->
   <macro name="container-periodical">
-    <group>
-      <group delimiter=": ">
-        <group>
-          <group delimiter=", ">
-            <text macro="container-booklike" text-case="title"/>
-            <choose>
-              <if type="article-newspaper">
-                <text macro="issued-date"/>
-              </if>
-              <else>
-                <text macro="issued-year"/>
-              </else>
-            </choose>
-            <text variable="volume"/>
-          </group>
-          <text variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=": ">
+      <group>
+        <group delimiter=", ">
+          <text macro="container-booklike" text-case="title"/>
+          <choose>
+            <if type="article-newspaper">
+              <text macro="issued-date"/>
+            </if>
+            <else>
+              <text macro="issued-year"/>
+            </else>
+          </choose>
+          <text variable="volume"/>
         </group>
-        <text variable="page"/>
+        <text variable="issue" prefix="(" suffix=")"/>
       </group>
-      <text macro="accessed-date"/>
+      <text variable="page"/>
     </group>
+    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">

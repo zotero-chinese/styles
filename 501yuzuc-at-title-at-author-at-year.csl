@@ -11,7 +11,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T18:50:42+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -118,11 +118,9 @@
     </date>
   </macro>
   <macro name="entry-layout">
-    <group prefix="@">
-      <text macro="title" text-case="Title" suffix="@"/>
-      <text macro="author" suffix=". "/>
-      <text macro="issued-year" prefix="(@" suffix=")"/>
-    </group>
+    <text macro="title" text-case="Title" prefix="@"/>
+    <text macro="author" prefix="@" suffix=". "/>
+    <text macro="issued-year" prefix="(@" suffix=")"/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>

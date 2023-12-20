@@ -16,7 +16,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-20T18:32:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -103,34 +103,32 @@
     </group>
   </macro>
   <macro name="title-zh">
-    <group>
-      <group delimiter=": ">
-        <text variable="title"/>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
-              <text macro="volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="bill legal_case legislation regulation report standard" match="any">
-              <text variable="number"/>
-            </if>
-          </choose>
-        </group>
+    <group delimiter=": ">
+      <text variable="title"/>
+      <group delimiter="&#8195;">
+        <choose>
+          <if variable="container-title" type="chapter paper-conference" match="none">
+            <text macro="volume"/>
+          </if>
+        </choose>
+        <choose>
+          <if type="bill legal_case legislation regulation report standard" match="any">
+            <text variable="number"/>
+          </if>
+        </choose>
       </group>
-      <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
-          <!-- 版本号，样式为图书名称（第x版） -->
-          <text macro="edition-zh" prefix="（" suffix="）"/>
-        </if>
-      </choose>
-      <choose>
-        <if type="thesis" match="any">
-          <text macro="thesis-type" prefix="[" suffix="]"/>
-        </if>
-      </choose>
     </group>
+    <choose>
+      <if variable="container-title" type="chapter paper-conference" match="none">
+        <!-- 版本号，样式为图书名称（第x版） -->
+        <text macro="edition-zh" prefix="（" suffix="）"/>
+      </if>
+    </choose>
+    <choose>
+      <if type="thesis" match="any">
+        <text macro="thesis-type" prefix="[" suffix="]"/>
+      </if>
+    </choose>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">

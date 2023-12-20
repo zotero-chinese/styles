@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 默认语言为英文；2. 按照语言显示“等”或“et al.”；3. 姓名取消全大写；4. 西文的名无空格；5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；6. 页码的冒号前无空格；7. 优先显示 DOI。</summary>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-20T18:26:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -234,34 +234,32 @@
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">
-    <group>
-      <choose>
-        <if type="article-newspaper">
-          <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
+    <choose>
+      <if type="article-newspaper">
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
+        <group>
+          <group delimiter=", ">
+            <text variable="container-title" form="short" strip-periods="true" text-case="title"/>
+            <text macro="issued-date"/>
+          </group>
+          <text variable="page" prefix="(" suffix=")"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=":">
           <group>
             <group delimiter=", ">
               <text variable="container-title" form="short" strip-periods="true" text-case="title"/>
-              <text macro="issued-date"/>
+              <text macro="issued-year"/>
+              <text variable="volume"/>
             </group>
-            <text variable="page" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-        </if>
-        <else>
-          <group delimiter=":">
-            <group>
-              <group delimiter=", ">
-                <text variable="container-title" form="short" strip-periods="true" text-case="title"/>
-                <text macro="issued-year"/>
-                <text variable="volume"/>
-              </group>
-              <text variable="issue" prefix="(" suffix=")"/>
-            </group>
-            <text variable="page"/>
-          </group>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
-    </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -279,13 +277,11 @@
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
-    <group>
-      <group delimiter=", ">
-        <text macro="issued-year"/>
-        <text variable="volume"/>
-      </group>
-      <text variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=", ">
+      <text macro="issued-year"/>
+      <text variable="volume"/>
     </group>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
