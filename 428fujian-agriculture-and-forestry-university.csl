@@ -221,7 +221,7 @@
       <!-- 中文学位论文 -->
       <else-if type="thesis">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text macro="issued-year" prefix=", "/>
@@ -232,7 +232,7 @@
       <!-- 中文专著 -->
       <else-if type="book">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <!-- <text variable="edition" suffix=". "/> -->
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
@@ -244,7 +244,7 @@
       <!-- 中文专利 -->
       <else-if type="patent">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
@@ -253,7 +253,7 @@
       <!-- 中文报告 -->
       <else-if type="report">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place" suffix=". "/>
             <text variable="publisher" suffix=". "/>
             <text macro="issued-year"/>
@@ -290,7 +290,7 @@
       <!-- 中文报纸 -->
       <else-if type="article-newspaper">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
             <text variable="page" prefix="(" suffix=")"/>
@@ -339,7 +339,7 @@
       <!-- 英文学位论文 -->
       <else-if type="thesis">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text macro="issued-year" prefix=", "/>
@@ -350,7 +350,7 @@
       <!-- 英文专著 -->
       <else-if type="book">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <!-- <text variable="edition" suffix=". "/> -->
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
@@ -362,7 +362,7 @@
       <!-- 英文专利 -->
       <else-if type="patent">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place"/>
             <text macro="issued-date" prefix=". "/>
           </group>
@@ -371,7 +371,7 @@
       <!-- 英文报告 -->
       <else-if type="report">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place" suffix=". "/>
             <text variable="publisher" suffix=". "/>
             <text macro="issued-year"/>
@@ -408,7 +408,7 @@
       <!-- 英文报纸 -->
       <else-if type="article-newspaper">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
             <text variable="page" prefix="(" suffix=")"/>

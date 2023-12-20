@@ -220,7 +220,7 @@
       <if type="patent">
         <group delimiter=", ">
           <group delimiter=": ">
-            <group delimiter="">
+            <group>
               <text macro="patent-country"/>
               <text term="patent"/>
             </group>

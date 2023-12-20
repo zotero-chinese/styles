@@ -39,7 +39,7 @@
       <date form="text">
         <date-part name="month" suffix=" "/>
         <date-part name="day" suffix=", "/>
-        <date-part name="year" suffix=""/>
+        <date-part name="year"/>
       </date>
     </terms>
   </locale>
@@ -67,7 +67,7 @@
   </macro>
   <!-- 日期设定 -->
   <macro name="date">
-    <group prefix="">
+    <group>
       <choose>
         <if variable="issued">
           <date date-parts="year" form="text" variable="issued">
@@ -90,8 +90,8 @@
   <macro name="locators">
     <group>
       <choose>
-        <if type="book thesis chapter article article-journal article-magazine article-newspaper" match="any">
-          <label variable="page" form="short" suffix=""/>
+        <if type="article article-journal article-magazine article-newspaper book chapter thesis" match="any">
+          <label variable="page" form="short"/>
         </if>
       </choose>
     </group>
@@ -100,7 +100,7 @@
   <macro name="locators-zh">
     <group>
       <choose>
-        <if type="book thesis chapter article article-journal article-magazine article-newspaper" match="any">
+        <if type="article article-journal article-magazine article-newspaper book chapter thesis" match="any">
           <label variable="locator" form="symbol"/>
         </if>
       </choose>
@@ -130,8 +130,8 @@
         </group>
         <date date-parts="year" form="numeric" variable="issued"/>
         <group>
-          <label variable="locator" form="short" prefix=", " suffix=""/>
-          <text variable="locator" suffix=""/>
+          <label variable="locator" form="short" prefix=", "/>
+          <text variable="locator"/>
         </group>
       </if>
       <else-if type="chapter" match="any"> <!-- 西文章节 -->
@@ -155,8 +155,8 @@
             </group>
             <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
             <group>
-              <label variable="locator" form="short" prefix=", " suffix=""/>
-              <text variable="locator" suffix=""/>
+              <label variable="locator" form="short" prefix=", "/>
+              <text variable="locator"/>
             </group>
           </if>
           <else> <!-- 无自定义页码，输出原本页码 -->
@@ -178,8 +178,8 @@
             </group>
             <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
             <group>
-              <label variable="page" form="short" suffix=""/>
-              <text variable="page" suffix=""/>
+              <label variable="page" form="short"/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -205,8 +205,8 @@
               <date date-parts="year-month-date" form="text" variable="issued"/>
             </group>
             <group>
-              <label variable="locator" form="short" prefix=", " suffix=""/>
-              <text variable="locator" suffix=""/>
+              <label variable="locator" form="short" prefix=", "/>
+              <text variable="locator"/>
             </group>
           </if>
           <else> <!-- 无自定义页码，输出原本页码 -->
@@ -217,8 +217,8 @@
               <date date-parts="year-month-date" form="text" variable="issued"/>
             </group>
             <group>
-              <label variable="page" form="short" prefix=", " suffix=""/>
-              <text variable="page" suffix=""/>
+              <label variable="page" form="short" prefix=", "/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -230,8 +230,8 @@
         <text variable="publisher" suffix=", "/>
         <date date-parts="year" form="numeric" variable="issued"/>
         <group>
-          <label variable="locator" form="short" prefix=", " suffix=""/>
-          <text variable="locator" suffix=""/>
+          <label variable="locator" form="short" prefix=", "/>
+          <text variable="locator"/>
         </group>
       </else-if>
       <else-if type="article article-journal article-magazine" match="any"> <!-- 西文期刊 -->
@@ -244,8 +244,8 @@
               <text variable="issue" prefix="No."/>
               <date date-parts="year" form="text" variable="issued"/>
             </group>
-            <label variable="locator" form="short" prefix=", " suffix=""/>
-            <text variable="locator" suffix=""/>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
           </if>
           <else> <!-- 无自定义页码，输出原本页码 -->
             <group prefix=" " delimiter=", ">
@@ -255,15 +255,15 @@
               <text variable="issue" prefix="No."/>
               <date date-parts="year" form="text" variable="issued"/>
             </group>
-            <label variable="page" form="short" prefix=", " suffix=""/>
-            <text variable="page" suffix=""/>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="page"/>
           </else>
         </choose>
       </else-if>
       <else> <!-- 西文其他类型文献 -->
         <choose>
           <if variable="locator">
-            <names variable="editor" prefix="" suffix=", ">
+            <names variable="editor" suffix=", ">
               <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
               <label form="short" prefix=" "/>
             </names>
@@ -278,12 +278,12 @@
             <text variable="archive_location" suffix=", "/>
             <date date-parts="year" form="numeric" variable="issued"/>
             <group>
-              <label variable="locator" form="short" prefix=", " suffix=""/>
-              <text variable="locator" suffix=""/>
+              <label variable="locator" form="short" prefix=", "/>
+              <text variable="locator"/>
             </group>
           </if>
           <else>
-            <names variable="editor" prefix="" suffix=", ">
+            <names variable="editor" suffix=", ">
               <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
               <label form="short" prefix=" "/>
             </names>
@@ -298,8 +298,8 @@
             <text variable="archive_location" suffix=", "/>
             <date date-parts="year" form="numeric" variable="issued"/>
             <group>
-              <label variable="page" form="short" prefix=", " suffix=""/>
-              <text variable="page" suffix=""/>
+              <label variable="page" form="short" prefix=", "/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -359,7 +359,7 @@
             <choose>
               <if variable="locator"> <!-- 如果有自定义页码，调用 -->
                 <text variable="title" prefix="《" suffix="》，"/>
-                <text macro="editor" prefix="" suffix="主编，"/>
+                <text macro="editor" suffix="主编，"/>
                 <text macro="secondAuthor" suffix="："/>
                 <group delimiter="，">
                   <group>
@@ -376,7 +376,7 @@
               </if>
               <else> <!-- 无自定义页码，输出原本页码 -->
                 <text variable="title" prefix="《" suffix="》，"/>
-                <text macro="editor" prefix="" suffix="主编，"/>
+                <text macro="editor" suffix="主编，"/>
                 <text macro="secondAuthor" suffix="："/>
                 <group delimiter="，">
                   <group>
@@ -397,7 +397,7 @@
             <choose>
               <if variable="locator"> <!-- 如果有自定义页码，调用 -->
                 <text variable="title" prefix="《" suffix="》，"/>
-                <text macro="editor" prefix="" suffix="主编："/>
+                <text macro="editor" suffix="主编："/>
                 <group delimiter="，">
                   <group>
                     <text variable="container-title" prefix="《" suffix="》"/>
@@ -413,7 +413,7 @@
               </if>
               <else> <!-- 无自定义页码，输出原本页码 -->
                 <text variable="title" prefix="《" suffix="》，"/>
-                <text macro="editor" prefix="" suffix="主编："/>
+                <text macro="editor" suffix="主编："/>
                 <group delimiter="，">
                   <group>
                     <text variable="container-title" prefix="《" suffix="》"/>
@@ -539,11 +539,11 @@
     <layout locale="en" suffix="." delimiter="; ">
       <choose>
         <if position="ibid-with-locator"> <!-- 有自定义页码的连续文献引用 -->
-          <group delimiter="">
+          <group>
             <text term="ibid" suffix=", "/>
             <group>
               <label variable="locator" form="short"/>
-              <text variable="locator" suffix=""/>
+              <text variable="locator"/>
             </group>
           </group>
         </if>
@@ -554,28 +554,28 @@
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
-          <names variable="editor" prefix="" suffix=", ">
+          <names variable="editor" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
             <label form="short" prefix=" "/>
           </names>
           <text variable="title" font-style="italic"/>
           <group>
-            <label variable="locator" form="short" prefix=", " suffix=""/>
-            <text variable="locator" suffix=""/>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
           </group>
         </else-if>
         <else-if position="subsequent" type="thesis">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
-          <names variable="editor" prefix="" suffix=", ">
+          <names variable="editor" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
             <label form="short" prefix=" "/>
           </names>
           <text variable="title" font-style="italic"/>
           <group>
-            <label variable="locator" form="short" prefix=", " suffix=""/>
-            <text variable="locator" suffix=""/>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
           </group>
         </else-if>
         <else-if position="subsequent" type="article article-journal article-magazine">
@@ -584,21 +584,21 @@
               <names variable="author" suffix=", ">
                 <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
               </names>
-              <names variable="editor" prefix="" suffix=", ">
+              <names variable="editor" suffix=", ">
                 <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
                 <label form="short" prefix=" "/>
               </names>
               <text variable="title" quotes="true" suffix=", "/>
               <group>
                 <label variable="locator" form="short"/>
-                <text variable="locator" suffix=""/>
+                <text variable="locator"/>
               </group>
             </if>
             <else>
               <names variable="author" suffix=", ">
                 <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
               </names>
-              <names variable="editor" prefix="" suffix=", ">
+              <names variable="editor" suffix=", ">
                 <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
                 <label form="short" prefix=" "/>
               </names>
@@ -610,14 +610,14 @@
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
-          <names variable="editor" prefix="" suffix=", ">
+          <names variable="editor" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
             <label form="short" prefix=" "/>
           </names>
           <text variable="title" quotes="true" suffix=", "/>
           <group>
             <label variable="page" form="short"/>
-            <text variable="page" suffix=""/>
+            <text variable="page"/>
           </group>
         </else-if>
         <else-if position="subsequent" type="chapter">
@@ -627,7 +627,7 @@
           <text variable="title" quotes="true" suffix=", "/>
           <group>
             <label variable="page" form="short"/>
-            <text variable="page" suffix=""/>
+            <text variable="page"/>
           </group>
         </else-if>
         <else>

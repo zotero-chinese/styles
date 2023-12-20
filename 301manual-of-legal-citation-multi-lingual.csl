@@ -277,7 +277,7 @@
           </group>
         </if>
         <!-- 2) 报纸杂志文章 -->
-        <else-if type="article-newspaper article-magazine" match="any">
+        <else-if type="article-magazine article-newspaper" match="any">
           <group delimiter=", ">
             <text variable="title"/>
             <group delimiter=" ">
@@ -399,7 +399,7 @@
           </group>
         </if>
         <!-- 79. 英文报纸杂志文章 -->
-        <else-if type="article-newspaper article-magazine" match="any">
+        <else-if type="article-magazine article-newspaper" match="any">
           <group delimiter=", ">
             <text macro="title-en"/>
             <text macro="container-en"/>
@@ -514,7 +514,7 @@
           <text macro="issuance-fr"/>
           <text macro="locator-fr"/>
         </if>
-        <else-if type="article-journal article-newspaper article-magazine" match="any">
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
           <text macro="title-fr"/>
           <text macro="container-fr"/>
           <text macro="issuance-fr"/>
@@ -913,7 +913,7 @@
       <if type="book report thesis" match="any">
         <text variable="title" font-style="italic"/>
       </if>
-      <else-if type="article-journal article-newspaper article-magazine chapter paper-conference" match="any">
+      <else-if type="article-journal article-magazine article-newspaper chapter paper-conference" match="any">
         <text variable="title" quotes="true"/>
       </else-if>
       <else-if type="post post-weblog webpage" match="any">
@@ -1094,7 +1094,7 @@
   </macro>
   <macro name="container-de">
     <choose>
-      <if type="article-journal article-newspaper article-magazine" match="any">
+      <if type="article-journal article-magazine article-newspaper" match="any">
         <text variable="container-title" form="short"/>
       </if>
       <else-if type="chapter paper-conference" match="any">

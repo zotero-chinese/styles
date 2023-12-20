@@ -17,7 +17,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T17:42:22+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -60,7 +60,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="short" delimiter="" and="text" et-al-min="3"/>
+          <name form="short" and="text" et-al-min="3"/>
         </names>
       </if>
       <else>
@@ -193,7 +193,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
+      <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

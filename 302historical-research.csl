@@ -14,7 +14,7 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T17:42:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -50,7 +50,7 @@
       <if variable="author">
         <names variable="author">
           <name initialize="false" initialize-with=".">
-            <group delimiter=""/>
+            <group/>
           </name>
         </names>
       </if>
@@ -74,7 +74,7 @@
   <macro name="container-contributors-en">
     <names variable="container-author reviewed-author">
       <name initialize="false">
-        <group delimiter=""/>
+        <group/>
       </name>
       <!-- <label form="verb-short" prefix=", "/> -->
     </names>
@@ -99,7 +99,7 @@
     </choose>
   </macro>
   <macro name="serial-information">
-    <group delimiter="">
+    <group>
       <text macro="issued-year" suffix="年"/>
       <!-- <text variable="volume" prefix="第" suffix="卷"/> 删除卷 -->
       <text variable="issue" suffix="期"/>
@@ -119,7 +119,7 @@
       <if variable="publisher">
         <group delimiter=": ">
           <text variable="publisher-place"/>
-          <group delimiter="">
+          <group>
             <text variable="publisher"/>
             <text macro="issued-year" prefix="，" suffix="年"/>
           </group>
@@ -184,7 +184,7 @@
     <!-- 中文年月日 -->
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="">
+        <date variable="issued">
           <date-part name="year" suffix="年"/>
           <date-part name="month" form="numeric" suffix="月"/>
           <date-part name="day" suffix="日"/>
@@ -200,7 +200,7 @@
     <!-- 英文年月日 -->
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="">
+        <date variable="issued">
           <date-part name="month" form="short" suffix=" "/>
           <date-part name="day" suffix=", "/>
           <date-part name="year"/>
@@ -213,14 +213,14 @@
     </choose>
   </macro>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="">
+    <date variable="accessed">
       <date-part name="year" suffix="年"/>
       <date-part name="month" form="numeric" suffix="月"/>
       <date-part name="day" suffix="日"/>
     </date>
   </macro>
   <macro name="accessed-date-en">
-    <date variable="accessed" delimiter="">
+    <date variable="accessed">
       <date-part name="month" form="short" suffix=" "/>
       <date-part name="day" suffix=", "/>
       <date-part name="year"/>
@@ -232,7 +232,7 @@
     <text macro="title-en" font-style="italic"/>
     <choose>
       <!-- 书籍 -->
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=", "/>
         <choose>
           <if variable="container-title">
@@ -327,7 +327,7 @@
     <text macro="author"/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix="，"/>
         <choose>
           <if variable="container-title">
@@ -384,7 +384,7 @@
             </if>
             <else>
               <!-- <text macro="serial-information" suffix=". "/> -->
-              <group delimiter="">
+              <group>
                 <text variable="publisher"/>
                 <text macro="issued-year" suffix="年"/>
                 <text variable="genre" suffix="学位论文"/>

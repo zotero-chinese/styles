@@ -244,7 +244,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title" text-case="capitalize-first"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
+      <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -288,7 +288,7 @@
     <text macro="author-zh" suffix=". "/>
     <text macro="title-zh"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
+      <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

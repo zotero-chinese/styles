@@ -197,7 +197,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -214,7 +214,7 @@
       </if>
       <else-if type="thesis">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>
             <text variable="archive_location" prefix=" "/>
@@ -263,7 +263,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -280,7 +280,7 @@
       </if>
       <else-if type="thesis">
         <group prefix=". ">
-          <group delimiter="">
+          <group>
             <text variable="genre" prefix="(" suffix="dissertation). "/>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>

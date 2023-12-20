@@ -85,7 +85,7 @@
   </macro>
   <macro name="title-en">
     <choose>
-      <if type="article article-journal article-magazine article-newspaper chapter paper-conference manuscript report" match="any">
+      <if type="article article-journal article-magazine article-newspaper chapter manuscript paper-conference report" match="any">
         <text variable="title" text-case="title" quotes="true"/>
       </if>
       <else>

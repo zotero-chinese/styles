@@ -118,7 +118,7 @@
     </date>
   </macro>
   <macro name="entry-layout">
-    <group delimiter="" prefix="@">
+    <group prefix="@">
       <text macro="title" text-case="Title" suffix="@"/>
       <text macro="author" suffix=". "/>
       <text macro="issued-year" prefix="(@" suffix=")"/>

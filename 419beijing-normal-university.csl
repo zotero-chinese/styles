@@ -458,7 +458,7 @@
     </group>
   </macro>
   <macro name="citation-locator-cn">
-    <group delimiter="">
+    <group>
       <text variable="locator"/>
       <choose>
         <if locator="chapter">

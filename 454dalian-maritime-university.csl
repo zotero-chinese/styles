@@ -295,8 +295,8 @@
       </if>
       <!-- 图书 需要标明所引页码  第一优先选项 其他 中输入“Pages:11-26”  备选项  “存档位置”手动写入引用页码范围，例如60-65 图书类型的条目 存档位置、版权、索书号等几乎不被占用 备选可行，毕竟只输入数字还是要快一些 -->
       <else-if type="book chapter">
-        <group prefix="">
-          <group delimiter="">
+        <group>
+          <group>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-year"/>
@@ -305,7 +305,7 @@
           </group>
         </group>
       </else-if>
-      <else-if type=" paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="paper-conference periodical thesis" variable="publisher page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">

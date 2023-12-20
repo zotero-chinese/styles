@@ -116,14 +116,14 @@
     </choose>
   </macro>
   <macro name="serial-information">
-    <group delimiter="" prefix=", ">
+    <group prefix=", ">
       <text variable="volume"/>
       <text variable="issue" prefix="(" suffix=")"/>
     </group>
     <text variable="page" prefix=", "/> <!-- 期不显示 -->
   </macro>
   <macro name="serial-information-zh">
-    <group delimiter="">
+    <group>
       <!-- <text macro="issued-year" suffix="年"/> -->
       <!-- <text variable="volume"/> -->
       <text variable="issue" prefix="第" suffix="期"/>
@@ -192,7 +192,7 @@
     <text macro="issued-year" suffix=", "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference standard thesis" match="any">
+      <if type="bill book chapter legislation paper-conference standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -209,7 +209,7 @@
       </if>
       <!-- 英文报告显示设置 -->
       <else-if type="report">
-        <group prefix=", " delimiter="">
+        <group prefix=", ">
           <text variable="publisher"/>
           <text variable="genre" prefix=" "/>
           <text variable="number" prefix=", No. "/>
@@ -245,7 +245,7 @@
     <text macro="issued-year"/>
     <text macro="title-zh" prefix="："/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -262,7 +262,7 @@
       </if>
       <!-- 学位论文显示设置 -->
       <else-if type="thesis">
-        <group delimiter="" prefix="，">
+        <group prefix="，">
           <text variable="publisher"/>
           <text variable="genre" suffix="学位论文"/>
           <text macro="issued-year" prefix="，" suffix="年"/>

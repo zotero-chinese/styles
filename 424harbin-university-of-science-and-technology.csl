@@ -62,7 +62,7 @@
     <group delimiter=", ">
       <group delimiter=": ">
         <text variable="title" text-case="title"/>
-        <group delimiter="">
+        <group>
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>

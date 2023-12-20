@@ -646,7 +646,7 @@
   </macro>
   <macro name="type-sort-1">
     <choose>
-      <if type="book article-journal thesis chapter paper-conference" match="any">
+      <if type="article-journal book chapter paper-conference thesis" match="any">
         <text value="1"/>
       </if>
       <else-if type="article-newspaper webpage" match="any">
@@ -665,7 +665,7 @@
       <if type="book">
         <text value="1"/>
       </if>
-      <else-if type="article-journal thesis chapter paper-conference" match="any">
+      <else-if type="article-journal chapter paper-conference thesis" match="any">
         <text value="2"/>
       </else-if>
     </choose>

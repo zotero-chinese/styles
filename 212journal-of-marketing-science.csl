@@ -234,7 +234,7 @@
     <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
-    <group delimiter="">
+    <group>
       <choose>
         <if variable="volume">
           <text variable="volume"/>
@@ -314,7 +314,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title-zh"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -338,7 +338,7 @@
         </choose>
       </if>
       <else-if type="thesis">
-        <group delimiter="" prefix="，">
+        <group prefix="，">
           <text variable="publisher"/>
           <text variable="genre" suffix="学位论文"/>
           <text macro="issued-year" prefix="，" suffix="年"/>
@@ -372,7 +372,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -396,7 +396,7 @@
         </choose>
       </if>
       <else-if type="thesis">
-        <group delimiter="" prefix="，">
+        <group prefix="，">
           <text variable="publisher"/>
           <text variable="genre" suffix="学位论文"/>
           <text macro="issued-year" prefix="，" suffix="年"/>
@@ -430,7 +430,7 @@
     <text macro="issued-year" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference standard thesis" match="any">
+      <if type="bill book chapter legislation paper-conference standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -446,7 +446,7 @@
         <text macro="publisher"/>
       </if>
       <else-if type="report">
-        <group prefix=", " delimiter="">
+        <group prefix=", ">
           <text variable="publisher"/>
           <text variable="genre" prefix=" "/>
           <text variable="number" prefix=", No. "/>

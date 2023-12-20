@@ -180,7 +180,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference standard thesis" match="any">
+      <if type="bill book chapter legislation paper-conference standard thesis" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

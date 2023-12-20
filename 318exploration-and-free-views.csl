@@ -31,7 +31,7 @@
       <date form="text">
         <date-part name="month" suffix=" "/>
         <date-part name="day" suffix=", "/>
-        <date-part name="year" suffix=""/>
+        <date-part name="year"/>
       </date>
     </terms>
   </locale>
@@ -102,7 +102,7 @@
         <text variable="publisher" suffix=", "/>
         <date date-parts="year" form="numeric" variable="issued"/>
         <group>
-          <label variable="page" form="short" prefix=", " suffix=""/>
+          <label variable="page" form="short" prefix=", "/>
           <text variable="locator" suffix="."/>
         </group>
       </if>
@@ -115,56 +115,56 @@
           <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           <label form="short" prefix=" "/>
         </names>
-        <text variable="container-title" font-style="italic" prefix="" suffix=", "/>
+        <text variable="container-title" font-style="italic" suffix=", "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
         <group>
-          <label variable="page" form="short" suffix=""/>
+          <label variable="page" form="short"/>
           <text variable="page" suffix="."/>
         </group>
       </else-if>
       <else-if type="webpage" match="any">
         <text variable="title" prefix="“" suffix=",” "/>
-        <text variable="container-title" font-style="italic" prefix="" suffix=", "/>
+        <text variable="container-title" font-style="italic" suffix=", "/>
         <date form="text" variable="issued" suffix=", "/>
-        <text variable="URL" prefix="" suffix=""/>
+        <text variable="URL"/>
       </else-if>
       <else-if type="thesis" match="any">
-        <text variable="title" font-style="italic" prefix="" suffix=", "/>
+        <text variable="title" font-style="italic" suffix=", "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <text variable="genre" suffix=" Thesis, "/>
         <date date-parts="year" form="numeric" variable="issued"/>
         <group>
-          <label variable="locator" form="short" prefix=", " suffix=""/>
+          <label variable="locator" form="short" prefix=", "/>
           <text variable="locator" suffix="."/>
         </group>
       </else-if>
       <else>
         <text variable="title" prefix="“" suffix=",” "/>
-        <text variable="container-title" font-style="italic" prefix="" suffix=", "/>
+        <text variable="container-title" font-style="italic" suffix=", "/>
         <text variable="volume" prefix="Vol. " suffix=", "/>
-        <text variable="issue" prefix="No. " suffix=""/>
+        <text variable="issue" prefix="No. "/>
         <date date-parts="year" form="text" variable="issued" prefix="(" suffix="), "/>
         <group>
-          <label variable="page" form="short" suffix=""/>
+          <label variable="page" form="short"/>
           <text variable="page" suffix="."/>
         </group>
       </else>
     </choose>
   </macro>
   <macro name="locators">
-    <group prefix=", " suffix="">
+    <group prefix=", ">
       <choose>
         <if type="book thesis" match="any">
-          <label prefix="" suffix="" variable="page" form="short"/>
+          <label variable="page" form="short"/>
         </if>
       </choose>
     </group>
   </macro>
   <macro name="locators-zh">
-    <group prefix="" suffix="">
+    <group>
       <choose>
         <if type="book thesis" match="any">
           <label variable="locator" form="symbol"/>
@@ -173,10 +173,10 @@
     </group>
   </macro>
   <citation>
-    <layout locale="en" suffix="" delimiter=" ">
+    <layout locale="en" delimiter=" ">
       <choose>
         <if position="ibid-with-locator">
-          <group delimiter="">
+          <group>
             <text term="ibid"/>
             <text macro="locators"/>
             <text variable="locator" suffix="."/>
@@ -190,7 +190,7 @@
         </else>
       </choose>
     </layout>
-    <layout suffix="" delimiter=" ">
+    <layout delimiter=" ">
       <choose>
         <if position="ibid-with-locator">
           <group delimiter="，">
@@ -206,7 +206,7 @@
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
-          <text macro="container-title" prefix="" suffix=""/>
+          <text macro="container-title"/>
           <date date-parts="year" form="text" variable="issued"/>
           <text variable="issue" prefix="第" suffix="期。"/>
         </else-if>
@@ -225,7 +225,7 @@
           <text variable="container-title" prefix="：《" suffix="》，"/>
           <text variable="publisher-place" suffix="："/>
           <text variable="publisher"/>
-          <date date-parts="year" form="text" variable="issued" prefix="，" suffix=""/>
+          <date date-parts="year" form="text" variable="issued" prefix="，"/>
           <text variable="page" prefix="，第" suffix="页。"/>
         </else-if>
         <else-if type="webpage" match="any">
@@ -233,7 +233,7 @@
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="container-title" suffix="，"/>
           <date form="text" variable="issued" suffix="，"/>
-          <text variable="URL" prefix="" suffix=""/>
+          <text variable="URL"/>
         </else-if>
         <else-if type="thesis" match="any">
           <text macro="author"/>
@@ -247,13 +247,13 @@
           <text variable="locator" prefix="，第" suffix="页。"/>
         </else-if>
         <else>
-          <text macro="author" suffix=""/>
-          <text macro="editor" suffix=""/>
+          <text macro="author"/>
+          <text macro="editor"/>
           <text variable="title" prefix="：《" suffix="》"/>
           <text macro="secondAuthor" prefix="，" suffix="，"/>
           <text variable="publisher-place" suffix="："/>
           <text variable="publisher"/>
-          <date date-parts="year" form="text" variable="issued" prefix="，" suffix=""/>
+          <date date-parts="year" form="text" variable="issued" prefix="，"/>
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页。"/>
         </else>
@@ -264,10 +264,10 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en" suffix="" delimiter=" ">
+    <layout locale="en" delimiter=" ">
       <choose>
         <if position="ibid-with-locator">
-          <group delimiter="">
+          <group>
             <text term="ibid"/>
             <text macro="locators"/>
             <text variable="locator" suffix="."/>
@@ -281,7 +281,7 @@
         </else>
       </choose>
     </layout>
-    <layout suffix="" delimiter=" ">
+    <layout delimiter=" ">
       <choose>
         <if position="ibid-with-locator">
           <group delimiter="，">
@@ -297,7 +297,7 @@
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
-          <text macro="container-title" prefix="" suffix=""/>
+          <text macro="container-title"/>
           <date date-parts="year" form="text" variable="issued"/>
           <text variable="issue" prefix="第" suffix="期。"/>
         </else-if>
@@ -316,7 +316,7 @@
           <text variable="container-title" prefix="：《" suffix="》，"/>
           <text variable="publisher-place" suffix="："/>
           <text variable="publisher"/>
-          <date date-parts="year" form="text" variable="issued" prefix="，" suffix=""/>
+          <date date-parts="year" form="text" variable="issued" prefix="，"/>
           <text variable="page" prefix="，第" suffix="页。"/>
         </else-if>
         <else-if type="webpage" match="any">
@@ -324,7 +324,7 @@
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="container-title" suffix="，"/>
           <date form="text" variable="issued" suffix="，"/>
-          <text variable="URL" prefix="" suffix=""/>
+          <text variable="URL"/>
         </else-if>
         <else-if type="thesis" match="any">
           <text macro="author"/>
@@ -338,13 +338,13 @@
           <text variable="locator" prefix="，第" suffix="页。"/>
         </else-if>
         <else>
-          <text macro="author" suffix=""/>
-          <text macro="editor" suffix=""/>
+          <text macro="author"/>
+          <text macro="editor"/>
           <text variable="title" prefix="：《" suffix="》"/>
           <text macro="secondAuthor" prefix="，" suffix="，"/>
           <text variable="publisher-place" suffix="："/>
           <text variable="publisher"/>
-          <date date-parts="year" form="text" variable="issued" prefix="，" suffix=""/>
+          <date date-parts="year" form="text" variable="issued" prefix="，"/>
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页。"/>
         </else>

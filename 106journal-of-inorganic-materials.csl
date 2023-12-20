@@ -134,7 +134,7 @@
   </macro>
   <macro name="accessed-date">
     <choose>
-      <if type="webpage post-weblog dataset" match="any">
+      <if type="dataset post-weblog webpage" match="any">
         <date variable="accessed" delimiter="–" prefix="[" suffix="]">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
@@ -145,7 +145,7 @@
   </macro>
   <macro name="URL">
     <choose>
-      <if type="webpage post-weblog" match="any">
+      <if type="post-weblog webpage" match="any">
         <text variable="URL"/>
       </if>
     </choose>
@@ -180,7 +180,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
+        <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">
@@ -228,7 +228,7 @@
       <text macro="author" suffix=". "/>
       <text macro="title"/>
       <choose>
-        <if type="book bill chapter legislation paper-conference report standard thesis" match="any">
+        <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
           <text macro="editor" prefix=". "/>
           <choose>
             <if variable="container-title">

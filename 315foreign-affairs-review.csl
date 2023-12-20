@@ -135,7 +135,7 @@
   <macro name="title-en">
     <choose>
       <if
-        type="article-journal article-magazine article-newspaper chapter paper-conference collection manuscript post post-weblog webpage"
+        type="article-journal article-magazine article-newspaper chapter collection manuscript paper-conference post post-weblog webpage"
         match="any">
         <text variable="title" text-case="title" quotes="true"/>
       </if>
@@ -195,7 +195,7 @@
   <macro name="title-short-en">
     <choose>
       <if
-        type="article-journal article-magazine article-newspaper chapter paper-conference collection manuscript post post-weblog report thesis webpage"
+        type="article-journal article-magazine article-newspaper chapter collection manuscript paper-conference post post-weblog report thesis webpage"
         match="any">
         <text variable="title" form="short" text-case="title" quotes="true"/>
       </if>

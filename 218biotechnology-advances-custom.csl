@@ -104,7 +104,7 @@
             <if variable="DOI">
                 <text variable="DOI" prefix="https://doi.org/"/>
             </if>
-            <else-if type="webpage post-weblog" match="any">
+            <else-if type="post-weblog webpage" match="any">
                 <group delimiter=" ">
                     <text value="URL"/>
                     <text variable="URL"/>

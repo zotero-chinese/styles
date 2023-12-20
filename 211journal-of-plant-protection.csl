@@ -112,7 +112,7 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=": ">
-          <group delimiter="">
+          <group>
             <group delimiter=", ">
               <text variable="container-title"/>
               <text variable="volume"/>
@@ -145,7 +145,7 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
         <group delimiter=": ">
-          <group delimiter="">
+          <group>
             <group delimiter=", ">
               <text variable="original-container-title"/>
               <text variable="volume"/>

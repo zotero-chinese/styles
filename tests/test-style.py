@@ -125,7 +125,7 @@ def check_medium(path: str, csl_content: str):
 def check_conditions(path: str, csl_content: str, etree):
     root = etree.getroot()
     for cond_xpath in ['.//cs:if', './/cs:else-if']:
-        for condition in root.findall('.//cs:if', ns):
+        for condition in root.findall(cond_xpath, ns):
             num_conds = 0
             for attr, value in condition.attrib.items():
                 if attr != 'match':
@@ -143,6 +143,10 @@ def check_conditions(path: str, csl_content: str, etree):
                     'match'] != 'none':
                 warning(
                     f'File "{path}": condition \'{tag_info}\' has extra "match".'
+                )
+            elif num_conds > 1 and 'match' not in condition.attib:
+                warning(
+                    f'File "{path}": condition \'{tag_info}\' has no "match".'
                 )
 
 

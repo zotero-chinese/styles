@@ -144,7 +144,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="book bill chapter legislation paper-conference report standard" match="any">
+      <if type="bill book chapter legislation paper-conference report standard" match="any">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -163,7 +163,7 @@
         <!-- 学位论文 -->
         <group prefix=". ">
           <!-- <text macro="serial-information" suffix=". "/> -->
-          <group delimiter="">
+          <group>
             <text variable="genre" prefix="[" suffix="学位论文]. "/>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher"/>

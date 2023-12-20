@@ -205,7 +205,7 @@
   </macro>
   <macro name="access">
     <choose>
-      <if type="webpage post post-weblog" match="any">
+      <if type="post post-weblog webpage" match="any">
         <!-- https://url.com/ (accessed Mon. DD, YYYY). -->
         <choose>
           <if variable="URL">
@@ -372,7 +372,7 @@
           </group>
           <text macro="access"/>
         </else-if>
-        <else-if type="webpage post-weblog post" match="any">
+        <else-if type="post post-weblog webpage" match="any">
           <group delimiter=", " suffix=".">
             <text macro="title"/>
             <text variable="container-title" font-style="italic"/>
@@ -512,7 +512,7 @@
           </group>
           <text macro="access"/>
         </else-if>
-        <else-if type="webpage post-weblog post" match="any">
+        <else-if type="post post-weblog webpage" match="any">
           <group delimiter=", " suffix=".">
             <text macro="title"/>
             <text variable="container-title" font-style="italic"/>

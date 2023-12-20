@@ -132,7 +132,7 @@
   </macro>
   <macro name="publisherMain">
     <choose>
-      <if type="chapter ">
+      <if type="chapter">
         <text variable="container-title" suffix=". "/>
       </if>
       <else-if type="paper-conference">
@@ -153,7 +153,7 @@
     </choose>
   </macro>
   <macro name="publisherSupp">
-    <group delimiter="">
+    <group>
       <text variable="publisher-place" prefix=" " suffix=": "/>
       <group delimiter=", ">
         <text variable="publisher"/>
@@ -224,13 +224,13 @@
   <macro name="entry-layout-zh">
     <group>
       <group delimiter=" ">
-        <group delimiter="">
+        <group>
           <group delimiter=" ">
             <text macro="author" suffix=". "/>
             <group>
               <choose>
-                <if type="bill legislation paper-conference chapter standard" match="any">
-                  <group delimiter="">
+                <if type="bill chapter legislation paper-conference standard" match="any">
+                  <group>
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
                   </group>
@@ -238,20 +238,20 @@
               </choose>
               <group>
                 <choose>
-                  <if type="bill legislation paper-conference chapter standard"/>
+                  <if type="bill chapter legislation paper-conference standard"/>
                   <else>
-                    <group delimiter="">
+                    <group>
                       <text macro="titleField"/>
                       <text macro="titleFieldSuffix"/>
                     </group>
                   </else>
                 </choose>
                 <text macro="secondaryAuthor" prefix=" " suffix=". "/>
-                <group delimiter="">
+                <group>
                   <label variable="edition"/>
                   <number variable="edition"/>
                 </group>
-                <group delimiter="">
+                <group>
                   <text macro="publisherMain"/>
                   <text macro="publisherSupp"/>
                 </group>
@@ -281,15 +281,15 @@
     </group>
   </macro>
   <macro name="entry-layout-en">
-    <group delimiter="">
+    <group>
       <group delimiter=" ">
         <group delimiter=" ">
           <group delimiter=" ">
             <text macro="author" suffix=". "/>
-            <group delimiter="">
+            <group>
               <choose>
-                <if type="bill legislation paper-conference chapter standard" match="any">
-                  <group delimiter="">
+                <if type="bill chapter legislation paper-conference standard" match="any">
+                  <group>
                     <text macro="titleField"/>
                     <text macro="titleFieldSuffix"/>
                   </group>
@@ -297,9 +297,9 @@
               </choose>
               <group>
                 <choose>
-                  <if type="bill legislation paper-conference chapter standard"/>
+                  <if type="bill chapter legislation paper-conference standard"/>
                   <else>
-                    <group delimiter="">
+                    <group>
                       <text macro="titleField"/>
                       <text macro="titleFieldSuffix"/>
                     </group>
@@ -350,7 +350,7 @@
       <text macro="entry-layout-zh"/>
     </layout>
     <layout>
-      <text variable="citation-number" prefix="" suffix="." />
+      <text variable="citation-number" suffix="." />
       <text macro="entry-layout-en"/>
     </layout>
   </bibliography>
