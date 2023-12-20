@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
@@ -27,9 +27,9 @@
   </info>
   <locale xml:lang="zh">
     <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="—"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="—"/>
-      <date-part name="day" suffix="日" range-delimiter="—"/>
+      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
+      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
+      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
       <term name="anonymous" form="short">佚名</term>

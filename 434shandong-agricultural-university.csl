@@ -273,7 +273,7 @@
   <macro name="entry-layout">
     <text macro="author-zh" suffix=". "/>
     <text macro="title-zh"/>
-    <!-- <text macro="issued-year" suffix="："/>-->
+    <!-- <text macro="issued-year" suffix="："/> -->
     <choose>
       <if type="bill legislation standard" match="any">
         <text macro="editor" prefix=". "/>

@@ -81,8 +81,7 @@
   <macro name="title">
     <text variable="title"/>
     <!-- <text variable="number" prefix=": "/> -->
-    <!--
-    <group delimiter="/" prefix="[" suffix="]">
+    <!-- <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
       <text macro="medium-id"/>
     </group> -->

@@ -529,7 +529,7 @@
       <text macro="entry-layout" suffix="."/>
       <choose>
         <if variable="original-title">
-          <text macro="bib-translation" prefix=" (" suffix=". (in Chinese))"/> <!-- 翻译的英文  -->
+          <text macro="bib-translation" prefix=" (" suffix=". (in Chinese))"/> <!-- 翻译的英文 -->
         </if>
       </choose>
     </layout>

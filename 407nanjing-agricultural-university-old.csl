@@ -32,7 +32,7 @@
   </locale>
   <locale>
     <terms>
-      <term name="page-range-delimiter">&#8211;</term>
+      <term name="page-range-delimiter">–</term>
     </terms>
   </locale>
   <locale xml:lang="en">
@@ -64,13 +64,11 @@
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
-      <!--
-       <choose>
+      <!-- <choose>
         <if variable="URL">
           <text value="OL"/>
         </if>
-      </choose>
-       -->
+      </choose> -->
       <!-- 删除将文献文献类型加OL -->
     </group>
   </macro>
@@ -340,9 +338,7 @@
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <!--
-      <text macro="accessed-date"/>
-     -->
+    <!-- <text macro="accessed-date"/> -->
     <!-- 删除访问日期显示 -->
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">

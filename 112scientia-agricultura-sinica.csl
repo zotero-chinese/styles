@@ -587,11 +587,11 @@
   </citation>
   <bibliography entry-spacing="0">
     <layout suffix="." locale="en">
-      <text variable="citation-number" prefix="[" suffix="]&#x9;"/>  <!-- tab间隔   -->
+      <text variable="citation-number" prefix="[" suffix="]&#9;"/> <!-- tab间隔 -->
       <text macro="entry-layout"/>
     </layout>
     <layout>
-      <text variable="citation-number" prefix="[" suffix="]&#x9;"/>
+      <text variable="citation-number" prefix="[" suffix="]&#9;"/>
       <text macro="entry-layout" suffix=". "/>
       <text macro="entry-layout-zh" suffix=". (in Chinese)" display="block"/>
     </layout>

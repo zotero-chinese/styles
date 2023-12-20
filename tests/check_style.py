@@ -25,9 +25,11 @@ def check_conditions(path: str, csl_content: str, element_tree):
     for cond_xpath in [".//cs:if", ".//cs:else-if"]:
         for condition in root.findall(cond_xpath, ns):
             num_conds = 0
+            num_condition_types = 0
             for attr, value in condition.attrib.items():
                 if attr != "match":
                     num_conds += len(value.split())
+                    num_condition_types += 1
             attributes = " ".join(
                 [f'{key}="{value}"' for key, value in condition.attrib.items()]
             )
@@ -42,9 +44,14 @@ def check_conditions(path: str, csl_content: str, element_tree):
                 and "match" in condition.attrib
                 and condition.attrib["match"] != "none"
             ):
-                warning(f'File "{path}": condition \'{tag_info}\' has extra "match".')
+                pass
+                # warning(
+                #     f'File "{path}", line {condition.sourceline}: condition \'{tag_info}\' has extra "match".'
+                # )
             elif num_conds > 1 and "match" not in condition.attrib:
-                warning(f'File "{path}": condition \'{tag_info}\' has no "match".')
+                warning(
+                    f'File "{path}", line {condition.sourceline}: condition \'{tag_info}\' has no "match".'
+                )
 
 
 def check_groups(path: str, csl_content: str, element_tree):
@@ -162,19 +169,40 @@ def check_style(file):
         csl_content = f.read()
 
     parser = etree.XMLParser()
-    element_tree = etree.parse(file, parser)
+    style = etree.parse(file, parser)
 
     # info(f'Running test of "{style_name}.csl"')
 
-    check_conditions(file, csl_content, element_tree)
+    check_conditions(file, csl_content, style)
 
-    check_groups(file, csl_content, element_tree)
+    check_groups(file, csl_content, style)
 
-    check_macros(file, csl_content, element_tree)
+    check_macros(file, csl_content, style)
 
-    check_medium(file, csl_content)
+    # check_medium(file, csl_content)
 
-    check_text_case(file, csl_content, element_tree)
+    # check_text_case(file, csl_content, element_tree)
+
+    write_style(style, file)
+
+
+def write_style(style, path):
+    style_str = etree.tostring(
+        style, pretty_print=True, xml_declaration=True, encoding="utf-8"
+    ).decode("utf-8")
+    style_str = style_str.replace("'", '"', 4)
+    style_str = style_str.replace(" ", "&#160;")  # no-break space
+    style_str = style_str.replace(" ", "&#8195;")  # em space
+    style_str = style_str.replace("ᵉ", "&#7497;")
+    style_str = style_str.replace("‑", "&#8209;")  # non-breaking hyphen
+    # style_str = style_str.replace("–", "&#8211;")  # en dash
+    style_str = style_str.replace("&#8211;", "–")  # en dash
+    style_str = style_str.replace("—", "&#8212;")  # em dash
+    style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
+    style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
+    style_str = re.sub(r"(\S)\s*-->", r"\1 -->", style_str)
+    with open(path, "w") as f:
+        f.write(style_str)
 
 
 def main():

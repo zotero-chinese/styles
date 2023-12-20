@@ -26,7 +26,7 @@
   </locale>
   <locale>
     <terms>
-      <term name="page-range-delimiter">&#8211;</term>
+      <term name="page-range-delimiter">–</term>
     </terms>
   </locale>
   <macro name="author">
@@ -235,9 +235,7 @@
         <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <!--
-      <text macro="accessed-date"/>
-     -->
+    <!-- <text macro="accessed-date"/> -->
     <!-- 删除访问日期显示 -->
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">

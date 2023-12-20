@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" page-range-format="chicago" demote-non-dropping-particle="never" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
@@ -230,7 +230,7 @@
       </else-if>
       <else-if type="thesis" match="any">
         <group delimiter=", ">
-          <text variable="title" font-style="italic"/>  <!-- 为了使Thesis前后老师为逗号 -->
+          <text variable="title" font-style="italic"/> <!-- 为了使Thesis前后老师为逗号 -->
           <text value="Thesis"/>
           <text variable="publisher" form="short"/>
           <group delimiter=" ">
@@ -267,7 +267,7 @@
       <choose>
         <if type="book chapter thesis" match="any">
           <group delimiter=". ">
-            <group delimiter=", "> <!--书籍、论文的作者年代之间为空格-->
+            <group delimiter=", "> <!-- 书籍、论文的作者年代之间为空格 -->
               <text macro="author"/>
               <text macro="year-date"/>
             </group>

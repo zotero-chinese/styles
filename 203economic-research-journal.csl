@@ -30,12 +30,12 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
-      <term name="page-range-delimiter">&#x2014;</term>
+      <term name="page-range-delimiter">&#8212;</term>
     </terms>
   </locale>
   <locale xml:lang="en">
     <terms>
-      <term name="page-range-delimiter">&#x2014;</term>
+      <term name="page-range-delimiter">&#8212;</term>
     </terms>
   </locale>
   <macro name="author">

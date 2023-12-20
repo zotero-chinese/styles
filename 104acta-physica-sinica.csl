@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2023-12-20T18:25:27+08:00</updated>
+    <updated>2023-12-21T01:19:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -37,7 +37,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="page-range-delimiter">&#8211;</term> <!-- 页码间隔为"–" -->
+      <term name="page-range-delimiter">–</term> <!-- 页码间隔为 en dash -->
     </terms>
   </locale>
   <!-- 主要责任者 -->

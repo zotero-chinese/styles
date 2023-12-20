@@ -337,21 +337,21 @@
           <text value="M"/>
         </else>
       </choose>
-      <!--       <choose> -->
-      <!--         <if variable="URL" match="any"> -->
-      <!--           <text value="OL"/> -->
-      <!--         </if> -->
-      <!--       </choose> -->
+      <!-- <choose> -->
+      <!-- <if variable="URL" match="any"> -->
+      <!-- <text value="OL"/> -->
+      <!-- </if> -->
+      <!-- </choose> -->
     </group>
   </macro>
   <!-- 获取和访问路径以及 DOI -->
   <macro name="url-doi">
     <choose>
       <if variable="URL">
-        <!--         <text variable="URL"/> -->
+        <!-- <text variable="URL"/> -->
       </if>
       <else>
-        <!--         <text variable="DOI" prefix="https://doi.org/"/> -->
+        <!-- <text variable="DOI" prefix="https://doi.org/"/> -->
       </else>
     </choose>
   </macro>
