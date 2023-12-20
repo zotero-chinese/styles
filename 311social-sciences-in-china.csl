@@ -16,7 +16,8 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <category field="humanities"/>
-    <updated>2023-12-20T18:29:24+08:00</updated>
+    <issn>1002-4921</issn>
+    <updated>2023-12-21T00:49:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -94,7 +95,8 @@
       </else>
     </choose>
   </macro>
-  <macro name="edition-en">
+  <!-- 英文文献没有版本项 -->
+  <!-- <macro name="edition-en">
     <choose>
       <if is-numeric="edition">
         <number variable="edition" form="ordinal"/>
@@ -104,7 +106,7 @@
         <text variable="edition"/>
       </else>
     </choose>
-  </macro>
+  </macro> -->
   <macro name="edition-zh">
     <choose>
       <if is-numeric="edition">

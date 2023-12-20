@@ -11,7 +11,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-20T21:26:16+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -29,18 +29,6 @@
       <term name="page-range-delimiter">&#8211;</term>
     </terms>
   </locale>
-  <macro name="author">
-    <choose>
-      <if variable="author">
-        <names variable="author">
-          <name/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="container-contributors">
     <names variable="container-author">
       <name/>

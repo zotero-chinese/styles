@@ -20,7 +20,7 @@
     <category field="political_science"/>
     <category field="social_science"/>
     <issn>1671-4709</issn>
-    <updated>2023-12-20T18:30:05+08:00</updated>
+    <updated>2023-12-21T00:47:28+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -93,12 +93,6 @@
     <names variable="translator">
       <name and="text"/>
       <label form="short" prefix=", "/>
-    </names>
-  </macro>
-  <macro name="secondary-contributors-zh">
-    <names variable="translator">
-      <name delimiter="、"/>
-      <label form="short"/>
     </names>
   </macro>
   <macro name="volume-en">
@@ -299,6 +293,9 @@
     </group>
     <text macro="date-zh"/>
     <text variable="section"/>
+  </macro>
+  <macro name="series">
+    <text variable="collection-title" prefix="《" suffix="》"/>
   </macro>
   <macro name="publisher-en">
     <choose>
@@ -579,14 +576,14 @@
     <text variable="archive_location" prefix="〔" suffix="〕"/>
     <text macro="author-zh" suffix="："/>
     <text macro="title-zh"/>
-    <text macro="translator-zh"/>
+    <!-- <text macro="translator-zh"/> -->
     <choose>
       <if type="article-journal article-magazine" match="any">
         <text macro="container-periodical-zh" prefix="，"/>
       </if>
       <else-if type="classic">
         <text macro="container-booklike-zh" prefix="，"/>
-        <text macro="series-zh"/>
+        <text macro="series"/>
         <text macro="publisher-zh" prefix="，"/>
         <group>
           <text macro="date-zh"/>

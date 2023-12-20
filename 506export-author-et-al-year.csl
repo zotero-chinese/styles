@@ -22,7 +22,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>按照语言显示作者“等”或“et al.”，年代</summary>
-    <updated>2023-04-01T17:16:18+08:00</updated>
+    <updated>2023-12-20T21:26:09+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -107,19 +107,6 @@
   <macro name="anon">
     <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
   </macro>
-  <macro name="container-contributors">
-    <names variable="editor">
-      <name>
-        <name-part name="family" text-case="uppercase"/>
-      </name>
-      <institution/>
-      <substitute>
-        <names variable="editorial-director"/>
-        <names variable="collection-editor"/>
-        <names variable="container-author"/>
-      </substitute>
-    </names>
-  </macro>
   <macro name="issued-year">
     <choose>
       <if is-uncertain-date="issued">
@@ -133,9 +120,6 @@
         </date>
       </else>
     </choose>
-  </macro>
-  <macro name="issued-date">
-    <date variable="issued" form="numeric"/>
   </macro>
   <macro name="author-date">
     <group delimiter=", ">

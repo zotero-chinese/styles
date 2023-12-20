@@ -23,7 +23,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-20T21:06:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -80,42 +80,6 @@
   <macro name="author-zh">
     <names variable="author">
       <name delimiter="，"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anon"/>
-      </substitute>
-    </names>
-  </macro>
-  <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
-  <macro name="author-intext-en">
-    <names variable="author">
-      <name form="short"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anon"/>
-      </substitute>
-    </names>
-  </macro>
-  <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
-  <macro name="author-intext-zh">
-    <names variable="author">
-      <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long"/>
-      <et-al term="space-et-al"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

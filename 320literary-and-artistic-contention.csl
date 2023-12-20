@@ -13,7 +13,7 @@
     <category field="literature"/>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文艺争鸣》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2023-12-20T18:45:55+08:00</updated>
+    <updated>2023-12-21T00:10:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -70,45 +70,10 @@
       </else>
     </choose>
   </macro>
-  <macro name="container-title">
-    <text variable="container-title" prefix="《" suffix="》，"/>
-  </macro>
-  <macro name="container-author">
-    <names variable="container-author">
-      <name delimiter="、"/>
-    </names>
-  </macro>
-  <macro name="pageField">
-    <choose>
-      <if type="chapter" match="any">
-        <text variable="page" prefix="第" suffix="页。"/>
-      </if>
-      <else/>
-    </choose>
-  </macro>
   <macro name="secondAuthor">
     <names variable="translator" suffix="译">
       <name delimiter="、" sort-separator="，"/>
     </names>
-  </macro>
-  <macro name="publisher">
-    <choose>
-      <if type="article article-journal article-magazine article-newspaper" match="any"/>
-      <else>
-        <text variable="abstract"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="place: publisher">
-    <text variable="publisher-place" suffix="："/>
-    <text variable="publisher" suffix="，"/>
-  </macro>
-  <macro name="locators">
-    <choose>
-      <if type="book thesis" match="any">
-        <label variable="page" form="short"/>
-      </if>
-    </choose>
   </macro>
   <macro name="locators-zh">
     <choose>

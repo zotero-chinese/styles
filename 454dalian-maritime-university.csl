@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>（写在前面，适用于大连海事学位论文格式）1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 纯电子资源显示引用日期和 URL；4. 无 DOI；5.图书显示所引用页码，zotero的图书条目的右侧“信息”栏 “其他”中需要输入“Pages：11-26”或者次选项“馆藏目录”需要手动写入引用页码，例66-69；6. 国外专利需要在“地点”手动写入国家，例如 US，中文则写入省份，例如 四川省；7.本csl在002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi上修改专利部分，并参考福建农林科技的图书页码 华中科技的专利部分。</summary>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-20T19:37:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -70,11 +70,11 @@
       <group delimiter=": ">
         <text variable="title"/>
         <group delimiter="&#8195;">
-          <choose>
+          <!-- <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
             </if>
-          </choose>
+          </choose> -->
           <!-- <choose>
             <if type="patent" match="any">
               <text macro="patent-country" suffix=", "/>
@@ -214,10 +214,7 @@
       <choose>
         <if variable="container-title">
           <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter=": ">
-            <text variable="container-title"/>
-            <text macro="volume"/>
-          </group>
+          <text variable="container-title"/>
         </if>
         <else-if type="paper-conference">
           <!-- 有些会议没有论文集，使用会议名代替 -->

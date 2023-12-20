@@ -13,7 +13,7 @@
     <category field="history"/>
     <summary>根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《世界历史》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-18T00:00:00+08:00</published>
-    <updated>2023-12-20T18:29:11+08:00</updated>
+    <updated>2023-12-21T00:11:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 西文编者、译者、页码以及日期设定 -->
@@ -83,14 +83,6 @@
     <names variable="translator" suffix="译">
       <name delimiter="、" sort-separator="，"/>
     </names>
-  </macro>
-  <!-- 西文自定义引用页码范围 -->
-  <macro name="locators">
-    <choose>
-      <if type="article article-journal article-magazine article-newspaper book chapter thesis" match="any">
-        <label variable="page" form="short"/>
-      </if>
-    </choose>
   </macro>
   <!-- 中文自定义引用页码范围 -->
   <macro name="locators-zh">
