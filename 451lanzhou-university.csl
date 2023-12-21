@@ -79,7 +79,7 @@
       <else-if type="paper-conference">
         <text macro="title"/>
       </else-if>
-      <else-if type="chapter" match="any">
+      <else-if type="chapter">
         <text macro="title"/>
       </else-if>
       <else-if type="webpage">
@@ -111,7 +111,7 @@
       <else-if type="paper-conference">
         <text value="[A]."/>
       </else-if>
-      <else-if type="chapter" match="any">
+      <else-if type="chapter">
         <text value="[G]//"/>
       </else-if>
       <else-if type="webpage">
@@ -240,7 +240,7 @@
             </choose>
             <group>
               <choose>
-                <if type="bill chapter legislation paper-conference standard"/>
+                <if type="bill chapter legislation paper-conference standard" match="any"/>
                 <else>
                   <group>
                     <text macro="titleField"/>
@@ -258,7 +258,7 @@
                 <text macro="publisherSupp"/>
               </group>
               <choose>
-                <if type="bill legislation standard"/>
+                <if type="bill legislation standard" match="any"/>
                 <else>
                   <text macro="pageField" prefix=": "/>
                 </else>
@@ -274,7 +274,7 @@
         <text macro="referenceDate"/>
       </group>
       <choose>
-        <if type="webpage" match="any">
+        <if type="webpage">
           <text macro="access" prefix=". "/>
         </if>
       </choose>
@@ -297,7 +297,7 @@
             </choose>
             <group>
               <choose>
-                <if type="bill chapter legislation paper-conference standard"/>
+                <if type="bill chapter legislation paper-conference standard" match="any"/>
                 <else>
                   <group>
                     <text macro="titleField"/>
@@ -312,7 +312,7 @@
                 <text macro="publisherSupp"/>
               </group>
               <choose>
-                <if type="bill legislation standard"/>
+                <if type="bill legislation standard" match="any"/>
                 <else>
                   <text macro="pageField" prefix=": "/>
                 </else>
@@ -328,7 +328,7 @@
         <text macro="referenceDate"/>
       </group>
       <choose>
-        <if type="webpage" match="any">
+        <if type="webpage">
           <text macro="access" prefix=". "/>
         </if>
       </choose>

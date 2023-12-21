@@ -257,7 +257,7 @@
   </macro>
   <macro name="access">
     <choose>
-      <if type="post post-weblog webpage">
+      <if type="post post-weblog webpage" match="any">
         <group delimiter=" ">
           <text variable="URL"/>
           <date variable="accessed" form="numeric" prefix="(" suffix=")"/>

@@ -130,7 +130,7 @@
       <if type="article-journal article-magazine article-newspaper chapter paper-conference report" match="any">
         <text variable="title" text-case="title" quotes="true"/>
       </if>
-      <else-if type="thesis" match="any">
+      <else-if type="thesis">
         <group delimiter=", ">
           <!-- 《规定》中未要求，但是按照 ASA 样式学位论文使用引号 -->
           <text variable="title" text-case="title" quotes="true"/>
@@ -357,7 +357,7 @@
               </else-if>
             </choose>
           </if>
-          <else-if type="paper-conference" variable="event-title">
+          <else-if type="paper-conference" variable="event-title" match="all">
             <text variable="event-title"/>
             <text value="论文"/>
           </else-if>
@@ -479,7 +479,7 @@
   </macro>
   <macro name="access-en">
     <choose>
-      <if type="post post-weblog software webpage">
+      <if type="post post-weblog software webpage" match="any">
         <group delimiter="，">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>
@@ -489,7 +489,7 @@
   </macro>
   <macro name="access-zh">
     <choose>
-      <if type="post post-weblog software webpage">
+      <if type="post post-weblog software webpage" match="any">
         <group delimiter="，">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>

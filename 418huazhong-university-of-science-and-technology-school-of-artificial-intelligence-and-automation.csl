@@ -96,7 +96,7 @@
         </if>
       </choose>
       <choose>
-        <if type="thesis" match="any">
+        <if type="thesis">
           <text macro="thesis-type" prefix="[" suffix="]"/>
         </if>
       </choose>
@@ -125,7 +125,7 @@
       </if>
     </choose>
     <choose>
-      <if type="thesis" match="any">
+      <if type="thesis">
         <text macro="thesis-type" prefix="[" suffix="]"/>
       </if>
     </choose>

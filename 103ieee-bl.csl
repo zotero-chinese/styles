@@ -93,13 +93,13 @@
           <date-part name="year" form="long"/>
         </date>
       </else-if>
-      <else-if type="paper-conference" match="any">
+      <else-if type="paper-conference">
         <date variable="issued">
           <date-part name="month" form="short"/>
           <date-part name="year" prefix=" "/>
         </date>
       </else-if>
-      <else-if type="motion_picture" match="any">
+      <else-if type="motion_picture">
         <date variable="issued" prefix="(" suffix=")">
           <date-part name="month" form="short" suffix=" "/>
           <date-part name="day" form="numeric-leading-zeros" suffix=", "/>
@@ -223,7 +223,7 @@
           </if>
         </choose>
       </if>
-      <else-if match="any" variable="DOI">
+      <else-if variable="DOI">
         <!-- doi: 10.1000/xyz123. -->
         <text variable="DOI" prefix=" doi: " suffix="."/>
       </else-if>

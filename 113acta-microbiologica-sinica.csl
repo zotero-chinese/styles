@@ -195,7 +195,7 @@
         <text macro="edition" suffix=". "/>
         <text macro="publisher"/>
       </if>
-      <else-if type="report" match="any">
+      <else-if type="report">
         <!-- 报告Report -->
         <group delimiter=". " prefix=".">
           <choose>

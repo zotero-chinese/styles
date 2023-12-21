@@ -97,7 +97,7 @@
         <else-if position="ibid">
           <text term="ibid"/>
         </else-if>
-        <else-if type="book" match="any">
+        <else-if type="book">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -117,7 +117,7 @@
             <text variable="locator"/>
           </group>
         </else-if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -138,7 +138,7 @@
             <text variable="page"/>
           </group>
         </else-if>
-        <else-if type="paper-conference" match="any">
+        <else-if type="paper-conference">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -152,7 +152,7 @@
             <text variable="page"/>
           </group>
         </else-if>
-        <else-if type="thesis" match="any">
+        <else-if type="thesis">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -197,7 +197,7 @@
             </else>
           </choose>
         </else-if>
-        <else-if type="article-newspaper" match="any">
+        <else-if type="article-newspaper">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -239,7 +239,7 @@
             <text variable="locator" prefix="第" suffix="页"/>
           </group>
         </if>
-        <else-if match="any" position="ibid">
+        <else-if position="ibid">
           <group delimiter="，">
             <text term="ibid"/>
           </group>
@@ -253,7 +253,7 @@
           <text variable="issue" prefix="第" suffix="期"/>
           <text variable="page" prefix="，第" suffix="页"/>
         </else-if>
-        <else-if type="article-newspaper" match="any">
+        <else-if type="article-newspaper">
           <text macro="author" suffix="："/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="《" suffix="》，"/>
@@ -262,7 +262,7 @@
           <text variable="edition" prefix="，"/>
           <text variable="section" prefix="，"/>
         </else-if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <choose>
             <if variable="translator">
               <text variable="archive_location" prefix="[" suffix="] "/>
@@ -298,7 +298,7 @@
           <text variable="container-title" suffix="，"/>
           <text variable="URL"/>
         </else-if>
-        <else-if type="paper-conference" match="any">
+        <else-if type="paper-conference">
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="event" suffix="，"/>
@@ -307,7 +307,7 @@
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
         </else-if>
-        <else-if type="thesis" match="any">
+        <else-if type="thesis">
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
@@ -317,7 +317,7 @@
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
         </else-if>
-        <else-if type="book" match="any">
+        <else-if type="book">
           <choose>
             <if variable="translator">
               <text variable="archive_location" prefix="[" suffix="] "/>
@@ -371,7 +371,7 @@
     </sort>
     <layout locale="en" suffix="." delimiter="; ">
       <choose>
-        <if type="book" match="any">
+        <if type="book">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -391,7 +391,7 @@
             <text variable="locator"/>
           </group>
         </if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -412,7 +412,7 @@
             <text variable="page"/>
           </group>
         </else-if>
-        <else-if type="paper-conference" match="any">
+        <else-if type="paper-conference">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -426,7 +426,7 @@
             <text variable="page"/>
           </group>
         </else-if>
-        <else-if type="thesis" match="any">
+        <else-if type="thesis">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -453,7 +453,7 @@
             <text variable="page"/>
           </group>
         </else-if>
-        <else-if type="article-newspaper" match="any">
+        <else-if type="article-newspaper">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -495,7 +495,7 @@
             <text variable="locator" prefix="第" suffix="页"/>
           </group>
         </if>
-        <else-if match="any" position="ibid">
+        <else-if position="ibid">
           <group delimiter="，">
             <text term="ibid"/>
           </group>
@@ -509,7 +509,7 @@
           <text variable="issue" prefix="第" suffix="期"/>
           <text variable="page" prefix="，第" suffix="页"/>
         </else-if>
-        <else-if type="article-newspaper" match="any">
+        <else-if type="article-newspaper">
           <text macro="author" suffix="："/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="《" suffix="》，"/>
@@ -518,7 +518,7 @@
           <text variable="edition" prefix="，"/>
           <text variable="section" prefix="，"/>
         </else-if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <choose>
             <if variable="translator">
               <text variable="archive_location" prefix="[" suffix="] "/>
@@ -554,7 +554,7 @@
           <text variable="container-title" suffix="，"/>
           <text variable="URL"/>
         </else-if>
-        <else-if type="paper-conference" match="any">
+        <else-if type="paper-conference">
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="event" suffix="，"/>
@@ -563,7 +563,7 @@
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
         </else-if>
-        <else-if type="thesis" match="any">
+        <else-if type="thesis">
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
@@ -573,7 +573,7 @@
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
         </else-if>
-        <else-if type="book" match="any">
+        <else-if type="book">
           <choose>
             <if variable="translator">
               <text variable="archive_location" prefix="[" suffix="] "/>

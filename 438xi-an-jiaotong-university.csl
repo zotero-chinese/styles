@@ -85,7 +85,7 @@
   <macro name="title">
     <group delimiter=". ">
       <choose>
-        <if type="standard" match="all">
+        <if type="standard">
           <text variable="number"/>
         </if>
       </choose>
@@ -93,7 +93,7 @@
         <group delimiter=": ">
           <text variable="title"/>
           <choose>
-            <if type="patent" match="all">
+            <if type="patent">
               <text variable="event-place"/>
             </if>
           </choose>
@@ -195,7 +195,7 @@
           <if variable="medium">
             <text variable="medium"/>
           </if>
-          <else-if variable="URL" match="any">
+          <else-if variable="URL">
             <!-- 纯电子资源且无page则显示“OL” -->
             <text value="OL"/>
           </else-if>

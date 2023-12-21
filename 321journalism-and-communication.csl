@@ -99,7 +99,7 @@
       <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
     </names>
     <choose>
-      <if type="book" match="any"> <!-- 西文书籍 -->
+      <if type="book"> <!-- 西文书籍 -->
         <group delimiter=", ">
           <names variable="editor">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
@@ -121,7 +121,7 @@
           <text variable="locator"/>
         </group>
       </if>
-      <else-if type="chapter" match="any"> <!-- 西文章节 -->
+      <else-if type="chapter"> <!-- 西文章节 -->
         <choose>
           <if variable="locator"> <!-- 如果有自定义页码，调用 -->
             <group delimiter=", ">
@@ -171,7 +171,7 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="webpage" match="any"> <!-- 西文网页 -->
+      <else-if type="webpage"> <!-- 西文网页 -->
         <text variable="title" quotes="true" suffix=", "/>
         <text variable="container-title" font-style="italic" suffix=", "/>
         <date form="text" variable="issued" suffix=", "/>
@@ -182,7 +182,7 @@
           <date-part name="day"/>
         </date>
       </else-if>
-      <else-if type="paper-conference" match="any"> <!-- 西文会议论文 -->
+      <else-if type="paper-conference"> <!-- 西文会议论文 -->
         <choose>
           <if variable="locator"> <!-- 如果有自定义页码，调用 -->
             <group delimiter=", ">
@@ -210,7 +210,7 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="thesis" match="any"> <!-- 西文学位论文 -->
+      <else-if type="thesis"> <!-- 西文学位论文 -->
         <text variable="title" font-style="italic" suffix=", "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher" suffix=", "/>
@@ -333,7 +333,7 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-newspaper" match="any"> <!-- 中文报纸 -->
+      <else-if type="article-newspaper"> <!-- 中文报纸 -->
         <text macro="author" suffix="："/>
         <group delimiter="，">
           <text macro="secondAuthor"/>
@@ -343,7 +343,7 @@
         <date form="text" variable="issued"/>
         <text variable="edition" prefix="，第" suffix="版"/>
       </else-if>
-      <else-if type="chapter" match="any"> <!-- 中文章节 -->
+      <else-if type="chapter"> <!-- 中文章节 -->
         <text macro="author" suffix="："/>
         <choose>
           <if variable="locator"> <!-- 如果有自定义页码，调用 -->
@@ -389,7 +389,7 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="webpage" match="any"> <!-- 中文网页 -->
+      <else-if type="webpage"> <!-- 中文网页 -->
         <text macro="author" suffix="："/>
         <group delimiter="，">
           <text variable="title" prefix="《" suffix="》"/>
@@ -399,7 +399,7 @@
           <date form="text" variable="accessed"/>
         </group>
       </else-if>
-      <else-if type="paper-conference" match="any"> <!-- 中文会议论文 -->
+      <else-if type="paper-conference"> <!-- 中文会议论文 -->
         <text macro="author" suffix="："/>
         <choose>
           <if variable="locator"> <!-- 如果有自定义页码，调用 -->
@@ -423,7 +423,7 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="thesis" match="any"> <!-- 中文学位论文 -->
+      <else-if type="thesis"> <!-- 中文学位论文 -->
         <text macro="author"/>
         <text macro="secondAuthor" prefix="，"/>
         <group delimiter="，">
@@ -435,9 +435,9 @@
         <text macro="locators-zh"/>
         <text variable="locator" prefix="，第" suffix="页"/>
       </else-if>
-      <else-if type="book" match="any"> <!-- 中文书籍 -->
+      <else-if type="book"> <!-- 中文书籍 -->
         <choose>
-          <if variable="translator" match="any"> <!-- 中文译著 -->
+          <if variable="translator"> <!-- 中文译著 -->
             <text variable="archive_location" prefix="〔" suffix="〕"/>
             <text macro="author" suffix="，"/>
             <text macro="editor" suffix="主编，"/>
@@ -516,7 +516,7 @@
         <else-if position="ibid"> <!-- 无自定义页码的连续文献引用 -->
           <text term="ibid"/>
         </else-if>
-        <else-if position="subsequent" type="book"> <!-- 相同文献引用省略出版信息 -->
+        <else-if position="subsequent" type="book" match="all"> <!-- 相同文献引用省略出版信息 -->
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -530,7 +530,7 @@
             <text variable="locator"/>
           </group>
         </else-if>
-        <else-if position="subsequent" type="thesis">
+        <else-if position="subsequent" type="thesis" match="all">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -544,7 +544,7 @@
             <text variable="locator"/>
           </group>
         </else-if>
-        <else-if position="subsequent" type="article article-journal article-magazine">
+        <else-if position="subsequent" type="article article-journal article-magazine" match="all">
           <choose>
             <if variable="locator">
               <names variable="author" suffix=", ">
@@ -572,7 +572,7 @@
             </else>
           </choose>
         </else-if>
-        <else-if position="subsequent" type="paper-conference">
+        <else-if position="subsequent" type="paper-conference" match="all">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -586,7 +586,7 @@
             <text variable="page"/>
           </group>
         </else-if>
-        <else-if position="subsequent" type="chapter">
+        <else-if position="subsequent" type="chapter" match="all">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -610,7 +610,7 @@
             <text variable="locator" prefix="第" suffix="页"/>
           </group>
         </if>
-        <else-if match="any" position="ibid"> <!-- 无自定义页码的连续文献引用 -->
+        <else-if position="ibid"> <!-- 无自定义页码的连续文献引用 -->
           <text term="ibid"/>
         </else-if>
         <else-if position="subsequent"> <!-- 相同文献引用省略出版信息 -->

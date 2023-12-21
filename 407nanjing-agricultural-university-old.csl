@@ -268,7 +268,7 @@
         <text macro="edition" suffix=". "/>
         <text macro="publisher"/>
       </else-if>
-      <else-if type="report" match="any">
+      <else-if type="report">
         <!-- 报告Report -->
         <group prefix=".">
           <choose>
@@ -286,7 +286,7 @@
           <!-- 如果有网址则添加 -->
         </group>
       </else-if>
-      <else-if type="paper-conference" match="any">
+      <else-if type="paper-conference">
         <!-- 会议论文 -->
         <text value="//"/>
         <text macro="editor" suffix=" "/>

@@ -879,7 +879,7 @@
   </macro>
   <macro name="title-zh">
     <choose>
-      <if type="article-journal article-magazine article-newspaper chapter paper-conference thesis">
+      <if type="article-journal article-magazine article-newspaper chapter paper-conference thesis" match="any">
         <text variable="title" quotes="true"/>
       </if>
       <else-if type="webpage">
@@ -1661,7 +1661,7 @@
       <if type="book">
         <text value="1"/>
       </if>
-      <else-if type="article-journal article-magazine article-newspaper chapter paper-conference report thesis">
+      <else-if type="article-journal article-magazine article-newspaper chapter paper-conference report thesis" match="any">
         <text value="2"/>
       </else-if>
       <else>

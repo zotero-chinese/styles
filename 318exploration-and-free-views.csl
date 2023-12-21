@@ -64,7 +64,7 @@
       <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
     </names>
     <choose>
-      <if type="book" match="any">
+      <if type="book">
         <names variable="editor" prefix="in " suffix=", edt., ">
           <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
         </names>
@@ -81,7 +81,7 @@
           <text variable="locator" suffix="."/>
         </group>
       </if>
-      <else-if type="chapter" match="any">
+      <else-if type="chapter">
         <text variable="title" prefix="“" suffix=",” "/>
         <names variable="editor" prefix="in " suffix=", edt., ">
           <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
@@ -99,13 +99,13 @@
           <text variable="page" suffix="."/>
         </group>
       </else-if>
-      <else-if type="webpage" match="any">
+      <else-if type="webpage">
         <text variable="title" prefix="“" suffix=",” "/>
         <text variable="container-title" font-style="italic" suffix=", "/>
         <date form="text" variable="issued" suffix=", "/>
         <text variable="URL"/>
       </else-if>
-      <else-if type="thesis" match="any">
+      <else-if type="thesis">
         <text variable="title" font-style="italic" suffix=", "/>
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher" suffix=", "/>
@@ -181,14 +181,14 @@
           <date date-parts="year" form="text" variable="issued"/>
           <text variable="issue" prefix="第" suffix="期。"/>
         </else-if>
-        <else-if type="article-newspaper" match="any">
+        <else-if type="article-newspaper">
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
           <text macro="container-title"/>
           <date form="text" variable="issued"/>
         </else-if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <text macro="author"/>
           <text variable="title" prefix="：《" suffix="》，"/>
           <text macro="editor" prefix="载"/>
@@ -199,14 +199,14 @@
           <date date-parts="year" form="text" variable="issued" prefix="，"/>
           <text variable="page" prefix="，第" suffix="页。"/>
         </else-if>
-        <else-if type="webpage" match="any">
+        <else-if type="webpage">
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="container-title" suffix="，"/>
           <date form="text" variable="issued" suffix="，"/>
           <text variable="URL"/>
         </else-if>
-        <else-if type="thesis" match="any">
+        <else-if type="thesis">
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
@@ -272,14 +272,14 @@
           <date date-parts="year" form="text" variable="issued"/>
           <text variable="issue" prefix="第" suffix="期。"/>
         </else-if>
-        <else-if type="article-newspaper" match="any">
+        <else-if type="article-newspaper">
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>
           <text macro="container-title"/>
           <date form="text" variable="issued"/>
         </else-if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <text macro="author"/>
           <text variable="title" prefix="：《" suffix="》，"/>
           <text macro="editor" prefix="载"/>
@@ -290,14 +290,14 @@
           <date date-parts="year" form="text" variable="issued" prefix="，"/>
           <text variable="page" prefix="，第" suffix="页。"/>
         </else-if>
-        <else-if type="webpage" match="any">
+        <else-if type="webpage">
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="container-title" suffix="，"/>
           <date form="text" variable="issued" suffix="，"/>
           <text variable="URL"/>
         </else-if>
-        <else-if type="thesis" match="any">
+        <else-if type="thesis">
           <text macro="author"/>
           <text macro="secondAuthor" prefix="，"/>
           <text variable="title" prefix="：《" suffix="》，"/>

@@ -155,7 +155,7 @@
       <if type="article-journal article-magazine article-newspaper chapter collection manuscript paper-conference post post-weblog webpage" match="any">
         <text variable="title" text-case="title" quotes="true"/>
       </if>
-      <else-if type="thesis" match="any">
+      <else-if type="thesis">
         <group delimiter=", ">
           <text variable="title" text-case="title" quotes="true"/>
           <choose>
@@ -428,7 +428,7 @@
   </macro>
   <macro name="access-en">
     <choose>
-      <if type="post post-weblog software webpage">
+      <if type="post post-weblog software webpage" match="any">
         <group delimiter=", ">
           <text variable="URL"/>
           <group delimiter=": ">
@@ -445,7 +445,7 @@
   </macro>
   <macro name="access-zh">
     <choose>
-      <if type="post post-weblog software webpage">
+      <if type="post post-weblog software webpage" match="any">
         <group delimiter="，">
           <text variable="URL"/>
           <group delimiter="：">
@@ -555,7 +555,7 @@
             <text macro="date-en"/>
           </group>
         </if>
-        <else-if type="chapter" match="any">
+        <else-if type="chapter">
           <text macro="container-booklike-en"/>
           <text macro="publisher-en"/>
           <text macro="date-en"/>
@@ -600,7 +600,7 @@
           <if type="article-journal article-magazine article-newspaper" match="any">
             <text macro="container-periodical-zh"/>
           </if>
-          <else-if type="chapter" match="any">
+          <else-if type="chapter">
             <text macro="container-booklike-zh"/>
             <group>
               <text macro="publisher-zh"/>

@@ -84,7 +84,7 @@
   <!-- 文集题名 -->
   <macro name="container-booklike">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text term="in" suffix=" "/>
         <group delimiter=", ">
           <text macro="container-contributors"/>

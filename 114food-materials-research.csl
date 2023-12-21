@@ -80,7 +80,7 @@
       <if type="bill graphic legal_case legislation manuscript motion_picture song standard webpage" match="any">
         <text variable="title" font-style="italic"/>
       </if>
-      <else-if type="book" match="any">
+      <else-if type="book">
         <group delimiter=", ">
           <text variable="title" font-style="italic"/>
           <group>
@@ -129,7 +129,7 @@
           </if>
           <else>
             <choose>
-              <if is-numeric="page" match="all">
+              <if is-numeric="page">
                 <group prefix=", ">
                   <label variable="page" form="short" suffix=" "/>
                   <text variable="page"/>
@@ -158,7 +158,7 @@
   </macro>
   <macro name="container">
     <choose>
-      <if type="book" match="any">
+      <if type="book">
         <group delimiter=". ">
           <text macro="publisher"/>
           <group delimiter=" ">
@@ -171,7 +171,7 @@
           </group>
         </group>
       </if>
-      <else-if type="chapter" match="any">
+      <else-if type="chapter">
         <group delimiter=". ">
           <group>
             <text macro="container-booklike"/>
@@ -193,7 +193,7 @@
           </group> -->
         </group>
       </else-if>
-      <else-if type="article-journal" match="any">
+      <else-if type="article-journal">
         <text macro="container-booklike"/>
         <text macro="locator"/>
       </else-if>
@@ -203,7 +203,7 @@
           <text macro="locator"/>
         </group>
       </else-if>
-      <else-if type="broadcast" match="any">
+      <else-if type="broadcast">
         <group delimiter=", ">
           <text variable="publisher-place"/>
           <group delimiter=" " font-style="italic">
@@ -213,12 +213,12 @@
           <text macro="date-m-d"/>
         </group>
       </else-if>
-      <else-if type="patent" match="any">
+      <else-if type="patent">
         <group font-style="italic">
           <text variable="number"/>
         </group>
       </else-if>
-      <else-if type="report" match="any">
+      <else-if type="report">
         <group delimiter=". ">
           <text macro="container-booklike"/>
           <group delimiter=", ">
@@ -228,7 +228,7 @@
           </group>
         </group>
       </else-if>
-      <else-if type="thesis" match="any">
+      <else-if type="thesis">
         <group delimiter=", ">
           <text variable="title" font-style="italic"/> <!-- 为了使Thesis前后老师为逗号 -->
           <text value="Thesis"/>
@@ -239,7 +239,7 @@
           </group>
         </group>
       </else-if>
-      <else-if type="webpage" match="any">
+      <else-if type="webpage">
         <group delimiter=". ">
           <text variable="container-title"/>
           <text variable="URL" form="short"/>

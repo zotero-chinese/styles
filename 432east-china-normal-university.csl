@@ -232,7 +232,7 @@
           </choose>
         </group>
       </else-if>
-      <else-if type="article-journal" match="any">
+      <else-if type="article-journal">
         <group prefix=". ">
           <choose>
             <if variable="container-title">

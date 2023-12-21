@@ -171,7 +171,7 @@
       <else-if type="book">
         <text value="M"/>
       </else-if>
-      <else-if type="chapter" match="any">
+      <else-if type="chapter">
         <text value="A"/>
       </else-if>
       <else-if type="dataset">

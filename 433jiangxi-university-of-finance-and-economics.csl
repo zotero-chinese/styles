@@ -227,7 +227,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="legislation" match="any">
+      <if type="legislation">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
@@ -343,7 +343,7 @@
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
-      <if type="legislation" match="any">
+      <if type="legislation">
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">

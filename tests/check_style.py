@@ -24,34 +24,32 @@ def check_conditions(path: str, csl_content: str, element_tree):
     root = element_tree.getroot()
     for cond_xpath in [".//cs:if", ".//cs:else-if"]:
         for condition in root.findall(cond_xpath, ns):
-            num_conds = 0
+            num_conditions = 0
             num_condition_types = 0
             for attr, value in condition.attrib.items():
                 if attr != "match":
-                    num_conds += len(value.split())
+                    num_conditions += len(value.split())
                     num_condition_types += 1
-            attributes = " ".join(
+
+            attributes_info = " ".join(
                 [f'{key}="{value}"' for key, value in condition.attrib.items()]
             )
-            # tag_info = f'<{condition.tag} {attributes}>'
-            tag_info = f"{attributes}"
-            # if num_conds > 1 and 'match' not in condition.attrib:
-            #     warning(
-            #         f'File "{path}": multiple conditions \'{tag_info}\' does not include "match".'
-            #     )
-            if (
-                num_conds == 1
-                and "match" in condition.attrib
-                and condition.attrib["match"] != "none"
-            ):
-                pass
-                # warning(
-                #     f'File "{path}", line {condition.sourceline}: condition \'{tag_info}\' has extra "match".'
-                # )
-            elif num_conds > 1 and "match" not in condition.attrib:
+
+            if num_conditions > 1 and "match" not in condition.attrib:
                 warning(
-                    f'File "{path}", line {condition.sourceline}: condition \'{tag_info}\' has no "match".'
+                    f'File "{path}", line {condition.sourceline}: condition \'{attributes_info}\' has no "match".'
                 )
+                if num_condition_types == 1 and "type" in condition.attrib:
+                    condition.attrib["match"] = "any"
+                else:
+                    condition.attrib["match"] = "all"
+
+            elif num_conditions == 1 and "match" in condition.attrib:
+                if condition.attrib["match"] != "none":
+                    warning(
+                        f'File "{path}", line {condition.sourceline}: condition \'{attributes_info}\' has extra "match".'
+                    )
+                    condition.attrib.pop("match")
 
 
 def check_groups(path: str, csl_content: str, element_tree):

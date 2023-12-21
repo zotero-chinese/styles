@@ -129,7 +129,7 @@
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
-    <if variable="DOI" match="any">
+    <if variable="DOI">
       <text variable="DOI" prefix=". doi: "/>
     </if>
   </macro>
@@ -201,7 +201,7 @@
         <text macro="edition" suffix=". "/>
         <text macro="publisher"/>
       </if>
-      <else-if type="report" match="any">
+      <else-if type="report">
         <!-- 报告Report -->
         <group delimiter=". " prefix=".">
           <choose>
