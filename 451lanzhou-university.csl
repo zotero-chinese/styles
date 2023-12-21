@@ -19,23 +19,27 @@
     <category field="generic-base"/>
     <category field="science"/>
     <summary>This style just partly implemented what the Chinese GB/T 7714-2005 requires.</summary>
-    <updated>2023-12-20T18:33:22+08:00</updated>
+    <updated>2023-12-21T19:24:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale>
+  <locale xml:lang="en">
     <terms>
-      <term name="edition">第%s版</term>
-      <term name="page-range-delimiter">-</term>
+      <term name="edition"> %s edn.</term>
     </terms>
   </locale>
   <locale xml:lang="zh">
     <terms>
       <term name="edition">第%s版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
     </terms>
   </locale>
-  <locale xml:lang="en">
+  <locale>
     <terms>
-      <term name="edition"> %s edn.</term>
+      <term name="edition">第%s版</term>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <macro name="author">

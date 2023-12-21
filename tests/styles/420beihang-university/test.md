@@ -76,7 +76,7 @@ Undefined
   <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[J]. 人民日报, 2013: 2</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6–12</div>
   <div class="csl-entry">[31]	李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225–228</div>
-  <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 等. 《北斗一号》监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9</div>
+  <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9</div>
   <div class="csl-entry">[33]	Kanamori H. Shaking without Quaking[J]. Science, 1998, 279(5359): 2063</div>
   <div class="csl-entry">[34]	Caplan P. Cataloging Internet Resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61–66</div>
   <div class="csl-entry">[35]	Frese K. S., Katus H. A., Meder B. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J]. Biology, 2013, 2(1): 378–398</div>
@@ -131,7 +131,7 @@ Undefined
   <div class="csl-entry">[84]	职工教育研究论文集[M]. 中国职工教育研究会. 北京: 人民教育出版社, 1985</div>
   <div class="csl-entry">[85]	台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心. 北京: 九州出版社, 2012</div>
   <div class="csl-entry">[86]	综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 雷光春. 北京: 海洋出版社, 2012</div>
-  <div class="csl-entry">[87]	中国财税文化价值研究: 《中国财税文化国际学术研讨会》论文集[M]. 陈志勇. 北京: 经济科学出版社, 2011</div>
+  <div class="csl-entry">[87]	中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 陈志勇. 北京: 经济科学出版社, 2011</div>
   <div class="csl-entry">[88]	Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B. V., Nagar A. K., Deep K., et al. New Delhi: Springer, 2014</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R].2013</div>
   <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告[R].7178999X–2006BAK04A10/10.2013, 2013</div>

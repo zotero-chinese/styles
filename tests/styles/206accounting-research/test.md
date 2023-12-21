@@ -102,7 +102,7 @@ Undefined
   <div class="csl-entry">王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件. 曹志耘, 编//汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
   <div class="csl-entry">王临惠, 支建刚, 王忠一. 2010. 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 4: 147.</div>
   <div class="csl-entry">吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究. 北京: 北京大学[2013–10–14].</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏. 2008. 《北斗一号》监控管理网设计与实现. 测绘科学, 5: 8～9[2009–10–25].</div>
+  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 5: 8～9[2009–10–25].</div>
   <div class="csl-entry">西安电子科技大学. 2002. 光折变自适应光外差探测方法: 01128777.2. 2002–03–06[2002–05–28].</div>
   <div class="csl-entry">萧钰. 2001. 出版业信息化迈入快车道(2001–12–19)[2002–04–15].</div>
   <div class="csl-entry">徐光宪, 王祥云. 2010. 物质结构. 北京: 科学出版社.</div>
@@ -134,7 +134,7 @@ Undefined
   <div class="csl-entry">Anonymous. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin, S. A., ed.. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Anonymous. 2009. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009. [2013–03–24].</div>
   <div class="csl-entry">佚名. 2011a. 周易外传: 卷 5. 王夫之, 编//船山全书. 长沙: 岳麓书社: 1109.</div>
-  <div class="csl-entry">佚名. 2011b. 中国财税文化价值研究: 《中国财税文化国际学术研讨会》论文集. 陈志勇, 编. 北京: 经济科学出版社[2013–10–14].</div>
+  <div class="csl-entry">佚名. 2011b. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 陈志勇, 编. 北京: 经济科学出版社[2013–10–14].</div>
   <div class="csl-entry">佚名. 2012a. 综合湿地管理国际研讨会论文集. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社.</div>
   <div class="csl-entry">佚名. 2012b. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社.</div>
   <div class="csl-entry">佚名. 2012c. 综合湿地管理: 综合湿地管理国际研讨会论文集. 雷光春, 编. 北京: 海洋出版社.</div>
