@@ -12,7 +12,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>cas-thesis</summary>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-21T18:04:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -153,7 +153,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
+            <text variable="container-title" font-weight="bold" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -180,7 +180,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
+              <text variable="container-title" font-weight="bold" suffix=". "/>
               <text macro="serial-information"/>
             </if>
             <else>
@@ -211,7 +211,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text variable="container-title-short" font-weight="bold" suffix=". " text-case="title"/>
+            <text variable="container-title-short" font-weight="bold" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -236,7 +236,7 @@
       </else-if> <!-- 学位论文 -->
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
-          <text variable="container-title" font-weight="bold" suffix=". " text-case="title"/>
+          <text variable="container-title" font-weight="bold" suffix=". "/>
           <text macro="serial-information" suffix=". "/>
           <text macro="publisher"/>
         </group>

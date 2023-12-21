@@ -22,7 +22,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-13T19:11:41+08:00</updated>
+    <updated>2023-12-21T18:50:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -84,7 +84,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case="capitalize-first" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
+    <text variable="title" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
     <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
@@ -242,7 +242,7 @@
   </macro>
   <macro name="entry-layout">
     <text macro="author" suffix=". "/>
-    <text macro="title" text-case="capitalize-first"/>
+    <text macro="title"/>
     <choose>
       <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
@@ -250,7 +250,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text macro="container-title-en" suffix=". " text-case="title"/>
+            <text macro="container-title-en" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -263,7 +263,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text macro="container-title-en" text-case="title" font-style="italic" suffix=", "/>
+              <text macro="container-title-en" font-style="italic" suffix=", "/>
               <text macro="issued-year"/>
               <text macro="serial-information"/>
             </if>
@@ -294,7 +294,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text macro="container-title-zh" suffix=". " text-case="title"/>
+            <text macro="container-title-zh" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -307,7 +307,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text macro="container-title-zh" text-case="title" font-style="normal" suffix=", "/>
+              <text macro="container-title-zh" font-style="normal" suffix=", "/>
               <text macro="issued-year"/>
               <text macro="serial-information-zh"/>
             </if>

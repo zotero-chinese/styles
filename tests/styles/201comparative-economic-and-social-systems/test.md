@@ -54,12 +54,12 @@ Undefined
 
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">国家标准局信息分类编码研究所, 1988. “世界各国和地区名称代码.”. 全国文献工作标准化委员会, ed.//<i>文献工作国家标准汇编: 3</i>  北京: 中国标准出版社: 59–92.</div>
+  <div class="csl-entry">American Association for the Advancement of Science, 1883. “Science.”. Washington, D.C.: American Association for the Advancement of Science(1883).</div>
   <div class="csl-entry">Anonymous, 1981. “Coffee drinking and cancer of the pancreas.” <i>British Medical Journal</i>. 283(6292): 628.</div>
   <div class="csl-entry">Anonymous, 2000. “Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering.”. Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Anonymous, 2009. “Information and documentation—The Dublin core metadata element set.”. [2013-03-24].</div>
   <div class="csl-entry">Anonymous, 2012. “Dublin core metadata element set: version 1.1.”(2012-06-14)[2014-06-11].</div>
   <div class="csl-entry">Anonymous, 2014. “Proceedings of the Second International Conference on Soft Computing for Problem Solving.”. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer.</div>
-  <div class="csl-entry">American Association for the Advancement of Science, 1883. “Science.”. Washington, D.C.: American Association for the Advancement of Science(1883).</div>
   <div class="csl-entry">Baker S.K. &#38; Jackson M.E., 1995. “The future of resource sharing.”. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P., 2011. “Developing early childhood services: Past, present and future.”. Rotterdam: Open University Press: 105[2012-11-27].</div>
   <div class="csl-entry">Bawden D., 2008. “Origins and concepts of digital literacy.”(2008-05-04)[2013-03-08].</div>
@@ -92,14 +92,14 @@ Undefined
   <div class="csl-entry">Park J.-R. &#38; Tosaka Y., 2010. “Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>. 48(8): 696–715[2013-09-05].</div>
   <div class="csl-entry">Peebles P.Z. Jr., 2001. “Probability, random variables, and random signal principles.”. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A., 2011. “Death by theory: a tale of mystery and archaeological theory.”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012-07-26].</div>
-  <div class="csl-entry">Roberson J.A. &#38; Burneson E.G., 2011. “Drinking water standards, regulations and goals.”. American Water Works Association, ed.//<i>Water quality &#38; treatment: A handbook on drinking Water</i>  6 edition. New York: McGraw-Hill: 1.1-1.36[2012-12-10].</div>
-  <div class="csl-entry">Saito M. &#38; Miyazaki K., 2006. “Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu.” <i>Bulletin of the geological survey of Japan</i>. 57(5/6): 169–176.</div>
+  <div class="csl-entry">Roberson J.A. &#38; Burneson E.G., 2011. “Drinking water standards, regulations and goals.”. American Water Works Association, ed.//<i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>  6 edition. New York: McGraw-Hill: 1.1-1.36[2012-12-10].</div>
+  <div class="csl-entry">Saito M. &#38; Miyazaki K., 2006. “Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i>. 57(5/6): 169–176.</div>
   <div class="csl-entry">Stieg M.F., 1981. “The information needs of historians.” <i>College &#38; Research Libraries</i>. 42(6): 549–560.</div>
   <div class="csl-entry">Sunstein C.R., 1996. “Social norms and social roles.” <i>Columbia Law Review</i>. 96: 903[2012-01-26].</div>
   <div class="csl-entry">Tachibana R., Shimizu S., Kobayshi S., et al., 2005. “Electronic watermarking method and system.”. 2005-07-05[2013-11-11].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. “Guidelines for handling excavated acid-producing material.”. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Walls S.C., Barichivich W.J. &#38; Brown M.E., 2013. “Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate.” <i>Biology</i>. 2(1): 399–418[2013-11-04].</div>
-  <div class="csl-entry">Weinstein L. &#38; Swertz M.N., 1974. “Pathogenic properties of invading microorganism.”. Sodeman W A Jr, Sodeman W A, eds.//<i>Pathologic physiology: Mechanisms of Disease</i>  Philadelphia: Saunders: 745–772.</div>
+  <div class="csl-entry">Weinstein L. &#38; Swertz M.N., 1974. “Pathogenic properties of invading microorganism.”. Sodeman W A Jr, Sodeman W A, eds.//<i>Pathologic Physiology: Mechanisms of Disease</i>  Philadelphia: Saunders: 745–772.</div>
   <div class="csl-entry">World Health Organization, 1970. “Factors regulating the immune response: Report of WHO Scientific Group.”. Geneva: WHO.</div>
   <div class="csl-entry">白书农, 1998：“植物开花研究”. 李承森, 编//《植物科学进展》北京: 高等教育出版社: 146–163。</div>
   <div class="csl-entry">北京市人民政府办公厅, 2005：“关于转发北京市企业投资项目核准暂行实施办法的通知”. [2011-07-12]。</div>
@@ -156,15 +156,6 @@ Undefined
   <div class="csl-entry">杨宗英, 1996：“电子图书馆的现实模型”，《中国图书馆学报》，1996, 2: 24–29。</div>
   <div class="csl-entry">杨保军, 2012：“新闻道德论”. 北京: 中国人民大学出版社[2012-11-01]。</div>
   <div class="csl-entry">杨洪升, 2013：“四库馆私家抄校书考略”，《文献》，2013, 1: 56–75。</div>
-  <div class="csl-entry">佚名, 1962：“康熙字典: 巳集上: 水部”. 同文书局影印本 版. 北京: 中华书局: 50。</div>
-  <div class="csl-entry">佚名, 1977：“宋史卷三: 本纪第三”//《宋史》北京: 中华书局: 49。</div>
-  <div class="csl-entry">佚名, 1985：“职工教育研究论文集”. 中国职工教育研究会, 编. 北京: 人民教育出版社。</div>
-  <div class="csl-entry">佚名, 1988：“卷 39 乞致仕第一”//《苏魏公文集》北京: 中华书局: 590。</div>
-  <div class="csl-entry">佚名, 2011a：“周易外传: 卷 5”. 王夫之, 编//《船山全书》长沙: 岳麓书社: 1109。</div>
-  <div class="csl-entry">佚名, 2011b：“中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集”. 陈志勇, 编. 北京: 经济科学出版社[2013-10-14]。</div>
-  <div class="csl-entry">佚名, 2012a：“综合湿地管理国际研讨会论文集”. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社。</div>
-  <div class="csl-entry">佚名, 2012b：“台湾光复六十五周年暨抗战史实学术研讨会论文集”. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社。</div>
-  <div class="csl-entry">佚名, 2012c：“综合湿地管理: 综合湿地管理国际研讨会论文集”. 雷光春, 编. 北京: 海洋出版社。</div>
   <div class="csl-entry">于潇、刘义、柴跃廷等, 2012：“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报(自然科学版)》，2012, 11: 1518–1523。</div>
   <div class="csl-entry">余建斌, 2013：“我们的科技一直在追赶: 访中国工程院院长周济”，《人民日报》，2013: 2[2013-03-20]。</div>
   <div class="csl-entry">袁训来、陈哲、肖书海等, 2012：“蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口”，《科学通报》，2012, 34: 3219。</div>
@@ -181,4 +172,13 @@ Undefined
   <div class="csl-entry">中国造纸学会, 2003：“中国造纸年鉴: 2003”. 北京: 中国轻工业出版社[2014-04-25]。</div>
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013：“国防白皮书: 中国武装力量的多样化运用”. [2014-06-11]。</div>
   <div class="csl-entry">中华医学会湖北分会, 1984：“临床内科杂志”. 武汉: 中华医学会湖北分会(1984)。</div>
+  <div class="csl-entry">佚名, 1962：“康熙字典: 巳集上: 水部”. 同文书局影印本 版. 北京: 中华书局: 50。</div>
+  <div class="csl-entry">佚名, 1977：“宋史卷三: 本纪第三”//《宋史》北京: 中华书局: 49。</div>
+  <div class="csl-entry">佚名, 1985：“职工教育研究论文集”. 中国职工教育研究会, 编. 北京: 人民教育出版社。</div>
+  <div class="csl-entry">佚名, 1988：“卷 39 乞致仕第一”//《苏魏公文集》北京: 中华书局: 590。</div>
+  <div class="csl-entry">佚名, 2011a：“周易外传: 卷 5”. 王夫之, 编//《船山全书》长沙: 岳麓书社: 1109。</div>
+  <div class="csl-entry">佚名, 2011b：“中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集”. 陈志勇, 编. 北京: 经济科学出版社[2013-10-14]。</div>
+  <div class="csl-entry">佚名, 2012a：“综合湿地管理国际研讨会论文集”. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社。</div>
+  <div class="csl-entry">佚名, 2012b：“台湾光复六十五周年暨抗战史实学术研讨会论文集”. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社。</div>
+  <div class="csl-entry">佚名, 2012c：“综合湿地管理: 综合湿地管理国际研讨会论文集”. 雷光春, 编. 北京: 海洋出版社。</div>
 </div>

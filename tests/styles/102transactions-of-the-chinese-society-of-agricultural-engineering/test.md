@@ -79,8 +79,8 @@ Undefined
   <div class="csl-entry">[20] 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[M]. 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114.</div>
   <div class="csl-entry">[21] 马克思. 政治经济学批判[M]. 马克思, 恩格斯, 编//马克思恩格斯全集. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
-  <div class="csl-entry">[23] WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]. SODEMAN W A Jr, SODEMAN W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
-  <div class="csl-entry">[24] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M]. AMERICAN WATER WORKS ASSOCIATION, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10].</div>
+  <div class="csl-entry">[23] WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]. SODEMAN W A Jr, SODEMAN W A, eds.//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
+  <div class="csl-entry">[24] ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M]. AMERICAN WATER WORKS ASSOCIATION, ed.//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10].</div>
   <div class="csl-entry">[25] 中华医学会湖北分会. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984(1984).</div>
   <div class="csl-entry">[26] 中国图书馆学会. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957(1957).</div>
   <div class="csl-entry">[27] AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883(1883).</div>
@@ -218,7 +218,7 @@ Undefined
   <div class="csl-entry">[114] 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518–1523.</div>
   <div class="csl-entry">[115] 陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93[2013-03-20].</div>
   <div class="csl-entry">[116] DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605–609.</div>
-  <div class="csl-entry">[117] SAITO M, MIYAZAKI K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169–176.</div>
+  <div class="csl-entry">[117] SAITO M, MIYAZAKI K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169–176.</div>
   <div class="csl-entry">[118] WALLS S C, BARICHIVICH W J, BROWN M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399–418[2013-11-04].</div>
   <div class="csl-entry">[119] FRANZ A K, DANIELEWICZ M A, WONG D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053–1062[2014-06-26].</div>
   <div class="csl-entry">[120] PARK J-R, TOSAKA Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715[2013-09-05].</div>

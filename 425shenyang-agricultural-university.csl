@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>syau-thesis沈阳农业大学学位论文</summary>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-21T17:03:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -21,6 +21,10 @@
       <term name="and">与</term>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>

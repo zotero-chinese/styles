@@ -57,8 +57,8 @@ Undefined
   <div class="csl-entry">2. 佚名. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin SA, 编. Rotterdam: A. A. Balkema, 2000	</div>
   <div class="csl-entry">3. Baldock P. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105	</div>
   <div class="csl-entry">4. Fan X, Sommers CH. Food irradiation research and technology. 2 版本. Ames, Iowa: Blackwell Publishing, 2013: 25–26	</div>
-  <div class="csl-entry">5. Weinstein L, Swertz MN. Pathogenic properties of invading microorganism. Sodeman WA Jr, Sodeman WA, 编//<b>Pathologic Physiology: Mechanisms of Disease</b>. Philadelphia: Saunders, 1974: 745–772	</div>
-  <div class="csl-entry">6. Roberson JA, Burneson EG. Drinking water standards, regulations and goals. American Water Works Association, 编//<b>Water Quality &#38; Treatment: A Handbook on Drinking Water</b>. 6 版本. New York: McGraw-Hill, 2011: 1.1-1.36	</div>
+  <div class="csl-entry">5. Weinstein L, Swertz MN. Pathogenic properties of invading microorganism. Sodeman WA Jr, Sodeman WA, 编//<b>Pathologic physiology: mechanisms of disease</b>. Philadelphia: Saunders, 1974: 745–772	</div>
+  <div class="csl-entry">6. Roberson JA, Burneson EG. Drinking water standards, regulations and goals. American Water Works Association, 编//<b>Water quality &#38; treatment: a handbook on drinking water</b>. 6 版本. New York: McGraw-Hill, 2011: 1.1-1.36	</div>
   <div class="csl-entry">7. American Association for the Advancement of Science. Science. Washington, D.C.: American Association for the Advancement of Science, 1883(1883)	</div>
   <div class="csl-entry">8. Kanamori H. Shaking without quaking. <b>Science</b>. 1998, 279(5359): 2063	</div>
   <div class="csl-entry">9. Caplan P. Cataloging internet resources. <b>The Public-Access Computer Systems Review</b>. 1993, 4(2): 61–66	</div>
@@ -95,7 +95,7 @@ Undefined
   <div class="csl-entry">40. Buseck PR, Nord GL, Veblen DR. Subsolidus phenomena in pyroxenes//<b>Pyroxense</b>. Washington, D.C.: Mineralogical Society of America, c1980: 117–211	</div>
   <div class="csl-entry">41. Fourney ME. Advances in holographic photoelasticity//<b>Symposium on Applications of Holography in Mechanics</b>. New York: ASME, c1971: 17–38	</div>
   <div class="csl-entry">42. Des Marais DJ, Strauss H, Summons RE, 等. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <b>Nature</b>. 1992, 359(6396): 605–609	</div>
-  <div class="csl-entry">43. Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <b>Bulletin of the Geological Survey of Japan</b>. 2006, 57(5/6): 169–176	</div>
+  <div class="csl-entry">43. Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. <b>Bulletin of the geological survey of Japan</b>. 2006, 57(5/6): 169–176	</div>
   <div class="csl-entry">44. Walls SC, Barichivich WJ, Brown ME. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <b>Biology</b>. 2013, 2(1): 399–418	</div>
   <div class="csl-entry">45. Franz AK, Danielewicz MA, Wong DM, 等. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. <b>ACS Chemical Biology</b>. 2013, 8: 1053–1062	</div>
   <div class="csl-entry">46. Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. <b>Cataloging &#38; Classification Quarterly</b>. 2010, 48(8): 696–715	</div>

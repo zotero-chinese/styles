@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2023-12-21T01:19:18+08:00</updated>
+    <updated>2023-12-21T16:12:34+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -110,7 +110,7 @@
   <macro name="container-periodical">
     <group delimiter=" ">
       <text macro="issued-year"/>
-      <text macro="container-booklike" text-case="title"/>
+      <text macro="container-booklike"/>
       <choose>
         <if type="article-newspaper">
           <text macro="issued-date"/>

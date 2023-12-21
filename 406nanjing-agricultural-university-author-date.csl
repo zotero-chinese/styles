@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-delimiter=", " initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>南京农业大学（著者-出版年）</title>
     <title-short>NJAU (author-date)</title-short>
@@ -21,13 +21,17 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-13T19:11:41+08:00</updated>
+    <updated>2023-12-21T16:41:31+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -83,7 +87,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case="capitalize-first" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
+    <text variable="title" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
     <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
@@ -158,7 +162,7 @@
     </names>
   </macro>
   <macro name="container-title-en">
-    <text variable="container-title" font-style="normal"/>
+    <text variable="container-title" text-case="title" font-style="normal"/>
   </macro>
   <macro name="container-title-zh">
     <text variable="container-title"/>
@@ -241,7 +245,7 @@
   </macro>
   <macro name="entry-layout">
     <text macro="author" suffix="."/>
-    <text macro="title" text-case="capitalize-first"/>
+    <text macro="title"/>
     <choose>
       <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
@@ -249,7 +253,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text macro="container-title-en" suffix=". " text-case="title"/>
+            <text macro="container-title-en" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -262,7 +266,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text macro="container-title-en" text-case="title" font-style="italic" suffix=","/>
+              <text macro="container-title-en" font-style="italic" suffix=","/>
               <text macro="issued-year" prefix=" "/>
               <text macro="serial-information"/>
             </if>
@@ -293,7 +297,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text macro="container-title-zh" suffix=". " text-case="title"/>
+            <text macro="container-title-zh" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -306,7 +310,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text macro="container-title-zh" text-case="title" font-style="normal" suffix=","/>
+              <text macro="container-title-zh" font-style="normal" suffix=","/>
               <text macro="issued-year" prefix=" "/>
               <text macro="serial-information-zh"/>
             </if>
@@ -332,9 +336,9 @@
       <key macro="issued-year"/>
       <key macro="author-intext"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
+    <layout delimiter="; " prefix="（" suffix="）" locale="zh">
+      <group delimiter="，">
+        <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -342,9 +346,9 @@
         </group>
       </group>
     </layout>
-    <layout delimiter="; " prefix="（" suffix="）">
-      <group delimiter="，">
-        <text macro="author-intext-zh"/>
+    <layout prefix="（" suffix="）" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-intext"/>
         <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -359,11 +363,11 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <layout suffix="." locale="en">
-      <text macro="entry-layout"/>
+    <layout suffix="." locale="zh">
+      <text macro="entry-layout-zh"/>
     </layout>
     <layout suffix=".">
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout"/>
     </layout>
   </bibliography>
 </style>

@@ -39,9 +39,9 @@
 
     <div class="csl-block">FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[7]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on applications of holography in mechanicsNew York: ASME，c1971年
+  <div class="csl-entry">[7]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年
 
-    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on applications of holography in mechanicsNew York: ASME，c1971年 (In Chinese)</div>
+    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[8]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. 
 

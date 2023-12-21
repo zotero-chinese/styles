@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN" demote-non-dropping-particle="sort-only">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="sort-only">
   <info>
     <title>IEEE双语</title>
     <id>http://www.zotero.org/styles/ieee-bl</id>
@@ -45,7 +45,7 @@
     <category field="engineering"/>
     <category field="generic-base"/>
     <summary>IEEE style as per the 2021 guidelines, V 01.29.2021.</summary>
-    <updated>2022-12-02T17:49:33+08:00</updated>
+    <updated>2023-12-21T17:21:11+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -54,6 +54,17 @@
       <term name="presented at">presented at the</term>
       <term name="available at">available</term>
     </terms>
+  </locale>
+  <locale xml:lang="zh">
+    <terms>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+  <locale>
+    <style-options punctuation-in-quote="false"/>
   </locale>
   <!-- Macros -->
   <macro name="status">
@@ -313,7 +324,7 @@
   </citation>
   <!-- Bibliography -->
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout locale="en">
+    <layout locale="zh">
       <!-- Citation Number -->
       <text variable="citation-number" prefix="[" suffix="]"/>
       <!-- Author(s) -->

@@ -19,8 +19,8 @@
   <div class="csl-entry">[2]	库恩. 科学革命的结构: 第 4 版[M]. 2. 北京: 北京大学出版社, 2012.</div>
   <div class="csl-entry">[3]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
   <div class="csl-entry">[4]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
-  <div class="csl-entry">[5]	Bawden D. Origins and concepts of digital Literacy[EB/OL](2008-05-04).</div>
-  <div class="csl-entry">[6]	Fan X, Sommers C H. Food irradiation research and Technology[M]. 2. Ames, Iowa: Blackwell Publishing, 2013.</div>
-  <div class="csl-entry">[7]	Fourney M E. Advances in holographic Photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
-  <div class="csl-entry">[8]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus Grandis[J]. Nature, 2014, 510: 356-362.</div>
+  <div class="csl-entry">[5]	Bawden D. Origins and concepts of digital literacy[EB/OL](2008-05-04).</div>
+  <div class="csl-entry">[6]	Fan X, Sommers C H. Food irradiation research and technology[M]. 2. Ames, Iowa: Blackwell Publishing, 2013.</div>
+  <div class="csl-entry">[7]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
+  <div class="csl-entry">[8]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
 </div>

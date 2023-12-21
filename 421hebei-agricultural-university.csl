@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-20T18:33:01+08:00</updated>
+    <updated>2023-12-21T16:46:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -221,7 +221,7 @@
     <group delimiter=": ">
       <group>
         <group delimiter=", ">
-          <text macro="container-booklike" text-case="title"/>
+          <text macro="container-booklike"/>
           <choose>
             <if type="article-newspaper">
               <text macro="issued-date"/>

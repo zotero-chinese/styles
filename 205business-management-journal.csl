@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="first" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="en-US" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="first" sort-separator=" ">
   <!-- This style was  edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>经济管理</title>
     <id>http://www.zotero.org/styles/business-management-journal</id>
     <link href="http://www.zotero.org/styles/business-management-journal" rel="self"/>
-    <link href="http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/1207?channelID=1207" rel="documentation"/>
+    <link href="http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-20T17:41:47+08:00</updated>
+    <issn>1002-5766</issn>
+    <updated>2023-12-21T17:53:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -80,7 +85,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title"/>
+    <text variable="title" text-case="title"/>
     <choose>
       <if type="bill broadcast legal_case legislation patent report song standard" match="any">
         <text variable="number" prefix=": "/>
@@ -263,7 +268,7 @@
   <macro name="entry-layout-en">
     <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author-en" suffix=". "/>
-    <text macro="title" text-case="title"/>
+    <text macro="title"/>
     <choose>
       <if type="bill book chapter legislation paper-conference report standard thesis" match="any">
         <text macro="editor" prefix=". "/>
@@ -313,20 +318,7 @@
     <text macro="accessed-date"/>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true">
-    <layout locale="en">
-      <group>
-        <group delimiter=", " prefix="(" suffix=")">
-          <text macro="author-intext"/>
-          <date variable="issued" form="numeric" date-parts="year"/>
-        </group>
-        <group vertical-align="sup">
-          <text value="["/>
-          <text variable="citation-number"/>
-          <text value="]"/>
-        </group>
-      </group>
-    </layout>
-    <layout>
+    <layout locale="zh">
       <group>
         <group delimiter=", " prefix="(" suffix=")">
           <text macro="author-intext-zh"/>
@@ -342,13 +334,26 @@
         </group> -->
       </group>
     </layout>
+    <layout>
+      <group>
+        <group delimiter=", " prefix="(" suffix=")">
+          <text macro="author-intext"/>
+          <date variable="issued" form="numeric" date-parts="year"/>
+        </group>
+        <group vertical-align="sup">
+          <text value="["/>
+          <text variable="citation-number"/>
+          <text value="]"/>
+        </group>
+      </group>
+    </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <layout locale="en">
-      <text macro="entry-layout-en" suffix="."/>
+    <layout locale="zh">
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
     <layout>
-      <text macro="entry-layout-zh" suffix="."/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>

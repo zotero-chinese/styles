@@ -13,7 +13,7 @@
     <category field="generic-base"/>
     <summary>无机材料学报</summary>
     <published>2022-03-24</published>
-    <updated>2023-12-14T16:23:27+08:00</updated>
+    <updated>2023-12-21T17:26:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -44,7 +44,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" text-case="capitalize-first"/>
+    <text variable="title"/>
     <text variable="number" prefix=": "/>
   </macro>
   <macro name="container-contributors">
@@ -186,7 +186,7 @@
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-contributors" suffix=". " font-style="italic"/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title" suffix=". "/>
             </if>
             <else>
               <text value=". "/>
@@ -199,7 +199,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title" font-style="italic"/>
+                <text variable="container-title" font-style="italic"/>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>
@@ -234,7 +234,7 @@
             <if variable="container-title">
               <text value="//"/>
               <text macro="container-contributors" suffix=". "/>
-              <text variable="container-title" suffix=". " text-case="title"/>
+              <text variable="container-title" suffix=". "/>
             </if>
             <else>
               <text value=". "/>
@@ -247,7 +247,7 @@
           <group prefix=". ">
             <choose>
               <if variable="container-title">
-                <text variable="container-title" text-case="title" font-style="italic"/>
+                <text variable="container-title" font-style="italic"/>
                 <text macro="serial-information" prefix=", "/>
               </if>
               <else>

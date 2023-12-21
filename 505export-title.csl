@@ -12,13 +12,17 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-03-22T12:42:44+08:00</updated>
+    <updated>2023-12-21T17:03:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>

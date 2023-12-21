@@ -1,6 +1,6 @@
 import argparse
+import datetime
 import glob
-import os
 import re
 import sys
 
@@ -133,39 +133,88 @@ def cleanup_unsed_macros(path, csl_content: str, called_macros):
         f.write(csl_content)
 
 
+def swap_locale_layouts(root):
+    root.attrib["default-locale"] = "en-US"
+
+    for area_name in ["citation", "bibliography"]:
+        areas = root.xpath(f"./cs:{area_name}", namespaces=ns)
+        if areas:
+            area = areas[0]
+            layouts = area.xpath("./cs:layout", namespaces=ns)
+            if len(layouts) != 2:
+                continue
+            layout_en = layouts[0]
+            layout_zh = layouts[1]
+
+            del layout_en.attrib["locale"]
+            layout_zh.attrib["locale"] = "zh"
+
+            area.insert(-2, layout_zh)
+            etree.indent(area, level=1)
+
+
 def check_text_case(path: str, csl_content: str, element_tree):
-    default_locale = re.search(r'default-locale="([a-zA-Z-]+)"', csl_content)
-    if default_locale:
-        default_locale = default_locale.group(1)
-    else:
-        default_locale = None
+    root = element_tree.getroot()
+    default_locale = root.attrib.get("default-locale", "en-US")
 
-    lines = csl_content.splitlines()
-    for i, line in enumerate(lines):
-        line_number = i + 1
+    for element in root.xpath(".//*[@text-case]"):
+        text_case = element.attrib["text-case"]
 
-        if 'text-case="sentence"' in line:
+        if text_case == "sentence":
             warning(
-                f'File "{path}", line {line_number}: Obsolete \'text-case="sentence"\'.'
+                f'File "{path}", line {element.sourceline}: Obsolete \'text-case="sentence"\'.'
             )
+            del element.attrib["text-case"]
 
-        # if 'text-case="title"' in line and default_locale not in [
-        #         'en', 'en-US'
-        # ]:
-        #     warning(
-        #         f'File "{path}", line {line_number}: \'text-case="title"\' may fail with current default locale "{default_locale}".'
-        #     )
+        elif (
+            element.tag == "{http://purl.org/net/xbiblio/csl}text"
+            and "macro" in element.attrib
+        ):
+            warning(
+                f'File "{path}", line {element.sourceline}: Invalid text-case with macro.'
+            )
+            del element.attrib["text-case"]
 
-        # if '<text macro="' in line and 'text-case="' in line:
-        #     warning(
-        #         f'File "{path}", line {line_number}: \'text-case\' should not be applied to <text macro="">.'
-        #     )
+        elif text_case == "title":
+            if default_locale not in ["en", "en-US"]:
+                warning(
+                    f'File "{path}", line {element.sourceline}: text-case="title" does\' work with default-locale="{default_locale}".'
+                )
+                # swap_locale_layouts(root)
+                # return
+
+        elif text_case in ["capitalize-first", "capitalize-all"]:
+            variable = None
+            if element.tag == "name-part":
+                warning(
+                    f'File "{path}", line {element.sourceline}: \'text-case="{text_case}"\' should not be applied to "name-part"'
+                )
+                del element.attrib["text-case"]
+            elif "variable" in element.attrib:
+                variable = element.attrib["variable"]
+                if variable in ["title", "title-short", "container-title"]:
+                    warning(
+                        f'File "{path}", line {element.sourceline}: \'text-case="{text_case}"\' should not be applied to "{variable}"'
+                    )
+                    del element.attrib["text-case"]
+
+        elif text_case not in [
+            "lowercase",
+            "uppercase",
+            "capitalize-first",
+            "capitalize-all",
+        ]:
+            warning(
+                f'File "{path}", line {element.sourceline}: invalid \'text-case="{text_case}"\'.'
+            )
+            del element.attrib["text-case"]
 
 
 def check_style(file):
     with open(file) as f:
         csl_content = f.read()
 
+    # parser = etree.XMLParser(remove_blank_text=True)
     parser = etree.XMLParser()
     style = etree.parse(file, parser)
 
@@ -179,12 +228,14 @@ def check_style(file):
 
     # check_medium(file, csl_content)
 
-    # check_text_case(file, csl_content, element_tree)
+    check_text_case(file, csl_content, style)
 
     write_style(style, file)
 
 
 def write_style(style, path):
+    with open(path) as f:
+        original_content = f.read()
     style_str = etree.tostring(
         style, pretty_print=True, xml_declaration=True, encoding="utf-8"
     ).decode("utf-8")
@@ -199,6 +250,12 @@ def write_style(style, path):
     style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
     style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
     style_str = re.sub(r"(\S)\s*-->", r"\1 -->", style_str)
+
+    if style_str != original_content:
+        now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
+        style_str = re.sub(
+            r"<updated>[^<]*</updated>", f"<updated>{now}</updated>", style_str
+        )
     with open(path, "w") as f:
         f.write(style_str)
 

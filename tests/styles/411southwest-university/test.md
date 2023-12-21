@@ -172,13 +172,13 @@ Undefined
   <div class="csl-entry">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8): 696-715.</div>
   <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M/OL]. American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M/OL]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i>Bulletin of the geological survey of Japan</i>, 2006, 57(5/6): 169-176.</div>
   <div class="csl-entry">Stieg M F. The information needs of historians[J]. <i>Coll. Res. Libr.</i>, 1981, 42(6): 549-560.</div>
   <div class="csl-entry">Sunstein C R. Social norms and social roles[J/OL]. <i>Columbia Law Rev.</i>, 1996, 96: 903.</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system[P/OL]. 2005-07-05.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J/OL]. <i>Biology</i>, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
 </div>

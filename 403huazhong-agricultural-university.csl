@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>hzau-thesis华中农业大学学位论文</summary>
-    <updated>2023-12-14T16:23:28+08:00</updated>
+    <updated>2023-12-21T18:07:34+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -175,7 +175,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix="．"/>
-            <text variable="container-title" font-style="italic" form="short" suffix="．" text-case="title"/>
+            <text variable="container-title" font-style="italic" form="short" suffix="．"/>
           </if>
           <else>
             <text value="．"/>
@@ -202,7 +202,7 @@
         <group prefix="．">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" suffix="，" text-case="title"/>
+              <text variable="container-title" suffix="，"/>
               <text macro="serial-information-zh"/>
             </if>
             <else>
@@ -232,7 +232,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text variable="container-title-short" font-style="italic" suffix=". " text-case="title"/>
+            <text variable="container-title-short" font-style="italic" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -259,11 +259,11 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title-short">
-              <text variable="container-title-short" font-style="italic" strip-periods="true" text-case="title"/>
+              <text variable="container-title-short" font-style="italic" strip-periods="true"/>
               <text macro="serial-information" prefix=", "/>
             </if>
             <else>
-              <text variable="container-title" font-style="italic" suffix=". " text-case="title"/>
+              <text variable="container-title" font-style="italic" suffix=". "/>
               <text macro="serial-information" suffix=". "/>
               <text macro="publisher"/>
             </else>

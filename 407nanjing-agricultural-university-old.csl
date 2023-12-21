@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-14T16:23:30+08:00</updated>
+    <updated>2023-12-21T18:12:46+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -222,7 +222,7 @@
         <choose>
           <if variable="container-title">
             <text macro="container-contributors" suffix=". "/>
-            <text variable="container-title" suffix=". " text-case="title"/>
+            <text variable="container-title" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -238,7 +238,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text variable="container-title" suffix=". " text-case="title"/>
+            <text variable="container-title" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -293,7 +293,7 @@
         <choose>
           <if variable="container-title">
             <text macro="container-contributors" suffix=". "/>
-            <text variable="container-title" suffix=". " text-case="title"/>
+            <text variable="container-title" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -311,7 +311,7 @@
         <group prefix=". ">
           <choose>
             <if variable="container-title">
-              <text variable="container-title" text-case="title"/>
+              <text variable="container-title"/>
               <text macro="serial-information" prefix=", "/>
             </if>
             <else>

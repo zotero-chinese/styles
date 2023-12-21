@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>经济社会体制比较</title>
     <id>http://www.zotero.org/styles/comparative-economic-and-social-systems</id>
@@ -13,18 +13,26 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>comparative economic and social systems author-date style</summary>
-    <updated>2023-12-14T16:23:30+08:00</updated>
+    <issn>1003-3947</issn>
+    <updated>2023-12-21T17:41:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
     </terms>
+  </locale>
+  <locale>
+    <style-options punctuation-in-quote="false"/>
   </locale>
   <macro name="author">
     <choose>
@@ -261,9 +269,9 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <layout locale="en" prefix="（" suffix="）" delimiter="; ">
+    <layout prefix="（" suffix="）" delimiter="; " locale="zh">
       <group delimiter=", ">
-        <text macro="author-intext"/>
+        <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -273,7 +281,7 @@
     </layout>
     <layout prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
-        <text macro="author-intext-zh"/>
+        <text macro="author-intext"/>
         <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -288,11 +296,11 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <layout suffix="." locale="en">
-      <text macro="entry-layout-en"/>
-    </layout>
-    <layout suffix="。">
+    <layout suffix="。" locale="zh">
       <text macro="entry-layout"/>
+    </layout>
+    <layout suffix=".">
+      <text macro="entry-layout-en"/>
     </layout>
   </bibliography>
 </style>

@@ -20,7 +20,7 @@
     <category citation-format="numeric"/>
     <category field="political_science"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名缩写不加点；3. 中文不加页码；4. 英文题目为单词首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体。</summary>
-    <updated>2023-12-14T16:23:29+08:00</updated>
+    <updated>2023-12-21T15:43:35+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -69,10 +69,10 @@
       <group delimiter=": ">
         <choose>
           <if type="book standard thesis" match="any">
-            <text variable="title" text-case="capitalize-all" font-style="italic"/>
+            <text variable="title" font-style="italic"/>
           </if>
           <else>
-            <text variable="title" text-case="capitalize-all"/>
+            <text variable="title"/>
           </else>
         </choose>
         <group delimiter="&#8195;">
@@ -112,7 +112,7 @@
   <macro name="title-zh">
     <group delimiter=", ">
       <group delimiter=": ">
-        <text variable="title" text-case="capitalize-all"/>
+        <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">

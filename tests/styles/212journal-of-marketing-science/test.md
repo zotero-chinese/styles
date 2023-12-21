@@ -63,13 +63,13 @@ Undefined
 
     <div class="csl-block">FRESE K S, KATUS H A, MEDER B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]，Biology, 2(1): 378-398. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[7]	KENNEDY W J, GARRISON R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the upper cretaceous of southern england[J]，Sedimentology, 22: 311. 
+  <div class="csl-entry">[7]	KENNEDY W J, GARRISON R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]，Sedimentology, 22: 311. 
 
-    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular chalks and hardgrounds in the upper cretaceous of southern england[J]，Sedimentology, 22: 311. (In Chinese)</div>
+    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]，Sedimentology, 22: 311. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[8]	KENNEDY W J, GARRISON R E. 1975b. Morphology and genesis of nodular phosphates in the cenomanian glauconitic marl of south-east england[J]，Lethaia, 8(4): 339-360. 
+  <div class="csl-entry">[8]	KENNEDY W J, GARRISON R E. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]，Lethaia, 8(4): 339-360. 
 
-    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular phosphates in the cenomanian glauconitic marl of south-east england[J]，Lethaia, 8(4): 339-360. (In Chinese)</div>
+    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]，Lethaia, 8(4): 339-360. (In Chinese)</div>
 </div>
   <div class="csl-entry">[9]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. 
 
@@ -320,9 +320,9 @@ Undefined
 
     <div class="csl-block">张忠智. 1997. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, ed.//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编北京: 中国科学技术期刊编辑学会学术委员会，1997年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[61]	张田勤. 2000. 罪犯 dna 库与生命伦理学计划[N]，大众科技报, : 7. 
+  <div class="csl-entry">[61]	张田勤. 2000. 罪犯 DNA 库与生命伦理学计划[N]，大众科技报, : 7. 
 
-    <div class="csl-block">张田勤. 2000. 罪犯 dna 库与生命伦理学计划[N]，大众科技报, : 7. (In Chinese)</div>
+    <div class="csl-block">张田勤. 2000. 罪犯 DNA 库与生命伦理学计划[N]，大众科技报, : 7. (In Chinese)</div>
 </div>
   <div class="csl-entry">[62]	张伯伟. 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002年
 
@@ -382,7 +382,7 @@ Undefined
 </div>
   <div class="csl-entry">[76]	Anonymous. 1981. Coffee drinking and cancer of the pancreas[J]，British Medical Journal, 283(6292): 628. 
 
-    <div class="csl-block">anonymous. 1981. Coffee drinking and cancer of the pancreas[J]，British medical journal, 283(6292): 628. (In Chinese)</div>
+    <div class="csl-block">anonymous. 1981. Coffee drinking and cancer of the pancreas[J]，British Medical Journal, 283(6292): 628. (In Chinese)</div>
 </div>
   <div class="csl-entry">[77]	Anonymous. 1985. 职工教育研究论文集[M]. 中国职工教育研究会, ed.. 北京: 人民教育出版社，1985年
 
@@ -392,13 +392,13 @@ Undefined
 
     <div class="csl-block">anonymous. 1988. 卷 39 乞致仕第一[M]//苏魏公文集北京: 中华书局，1988年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[79]	Anonymous. 2000. Geoecology and computers: proceedings of the third international conference on advances of computer methods in geotechnical and geoenvironmental engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年
+  <div class="csl-entry">[79]	Anonymous. 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年
 
-    <div class="csl-block">anonymous. 2000. Geoecology and computers: proceedings of the third international conference on advances of computer methods in geotechnical and geoenvironmental engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
+    <div class="csl-block">anonymous. 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[80]	Anonymous. 2009. Information and documentation—the dublin core metadata element set[S]. 
+  <div class="csl-entry">[80]	Anonymous. 2009. Information and documentation—The Dublin core metadata element set[S]. 
 
-    <div class="csl-block">anonymous. 2009. Information and documentation—the dublin core metadata element set[S].  (In Chinese)</div>
+    <div class="csl-block">anonymous. 2009. Information and documentation—The Dublin core metadata element set[S].  (In Chinese)</div>
 </div>
   <div class="csl-entry">[81]	Anonymous. 2011a. 周易外传: 卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年
 
@@ -424,17 +424,17 @@ Undefined
 
     <div class="csl-block">anonymous. 2012. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14) (In Chinese)</div>
 </div>
-  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the second international conference on soft computing for problem solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年
+  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年
 
-    <div class="csl-block">anonymous. 2014. Proceedings of the second international conference on soft computing for problem solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
+    <div class="csl-block">anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[88]	BAKER S K, JACKSON M E. 1995. The future of resource sharing[M]. New York: The Haworth Press，1995年
 
     <div class="csl-block">BAKER S K, JACKSON M E. 1995. The future of resource sharing[M]. New York: The Haworth Press，1995年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[89]	BALDOCK P. 2011. Developing early childhood services: past, present and future[M]. Rotterdam: Open University Press，2011年
+  <div class="csl-entry">[89]	BALDOCK P. 2011. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press，2011年
 
-    <div class="csl-block">BALDOCK P. 2011. Developing early childhood services: past, present and future[M]. Rotterdam: Open University Press，2011年 (In Chinese)</div>
+    <div class="csl-block">BALDOCK P. 2011. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press，2011年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[90]	BAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04)
 
@@ -454,7 +454,7 @@ Undefined
 </div>
   <div class="csl-entry">[94]	CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. 
 
-    <div class="csl-block">CAPLAN P. 1993. Cataloging internet resources[J]，The public-access computer systems review, 4(2): 61-66. (In Chinese)</div>
+    <div class="csl-block">CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. (In Chinese)</div>
 </div>
   <div class="csl-entry">[95]	CHERNIK B E. 1982. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc.，1982年
 
@@ -468,57 +468,57 @@ Undefined
 
     <div class="csl-block">CRANE D. 1972. Invisible college[M]. Chicago: Univ. of Chicago Press，1972年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[98]	CRAWFORD W, GORMAN M. 1995. Future libraries: dreams, madness, &#38; reality[M]. Chicago: American Library Association，1995年
+  <div class="csl-entry">[98]	CRAWFORD W, GORMAN M. 1995. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association，1995年
 
-    <div class="csl-block">CRAWFORD W, GORMAN M. 1995. Future libraries: dreams, madness, &#38; reality[M]. Chicago: American Library Association，1995年 (In Chinese)</div>
+    <div class="csl-block">CRAWFORD W, GORMAN M. 1995. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association，1995年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[99]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment[J]，Nature, 359(6396): 605-609. 
+  <div class="csl-entry">[99]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359(6396): 605-609. 
 
-    <div class="csl-block">DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment[J]，Nature, 359(6396): 605-609. (In Chinese)</div>
+    <div class="csl-block">DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359(6396): 605-609. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[100]	DEVERELL W, IGLER D. 2013. A companion to california history[D]，John Wiley &#38; SonsDoctoral dissertation学位论文，2013年
+  <div class="csl-entry">[100]	DEVERELL W, IGLER D. 2013. A companion to California history[D]，John Wiley &#38; SonsDoctoral dissertation学位论文，2013年
 
-    <div class="csl-block">DEVERELL W, IGLER D. 2013. A companion to california history[D]，John Wiley &#38; SonsDoctoral dissertation学位论文，2013年 (In Chinese)</div>
+    <div class="csl-block">DEVERELL W, IGLER D. 2013. A companion to California history[D]，John Wiley &#38; SonsDoctoral dissertation学位论文，2013年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[101]	DOWLER L. 1995. The research university’s dilemma: resource sharing and research in a transinstitutional environment[J]，Journal of Library Administration, 21(1/2): 5-26. 
+  <div class="csl-entry">[101]	DOWLER L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]，Journal of Library Administration, 21(1/2): 5-26. 
 
-    <div class="csl-block">DOWLER L. 1995. The research university’s dilemma: resource sharing and research in a transinstitutional environment[J]，Journal of library administration, 21(1/2): 5-26. (In Chinese)</div>
+    <div class="csl-block">DOWLER L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]，Journal of Library Administration, 21(1/2): 5-26. (In Chinese)</div>
 </div>
   <div class="csl-entry">[102]	FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年
 
     <div class="csl-block">FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[103]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on applications of holography in mechanicsNew York: ASME，c1971年
+  <div class="csl-entry">[103]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年
 
-    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on applications of holography in mechanicsNew York: ASME，c1971年 (In Chinese)</div>
+    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[104]	FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]，ACS Chemical Biology, 8: 1053-1062. 
 
-    <div class="csl-block">FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]，ACS chemical biology, 8: 1053-1062. (In Chinese)</div>
+    <div class="csl-block">FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]，ACS Chemical Biology, 8: 1053-1062. (In Chinese)</div>
 </div>
   <div class="csl-entry">[105]	FRESE K S, KATUS H A, MEDER B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]，Biology, 2(1): 378-398. 
 
     <div class="csl-block">FRESE K S, KATUS H A, MEDER B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]，Biology, 2(1): 378-398. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[106]	HOPKINSON A. 2009. UNIMARC and metadata: dublin core[EB/OL](2009-04-22)
+  <div class="csl-entry">[106]	HOPKINSON A. 2009. UNIMARC and metadata: Dublin core[EB/OL](2009-04-22)
 
-    <div class="csl-block">HOPKINSON A. 2009. UNIMARC and metadata: dublin core[EB/OL](2009-04-22) (In Chinese)</div>
+    <div class="csl-block">HOPKINSON A. 2009. UNIMARC and metadata: Dublin core[EB/OL](2009-04-22) (In Chinese)</div>
 </div>
-  <div class="csl-entry">[107]	INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. 1977. Names of persons: national usages for entry in catalogues[M]. 3 edition. London: IFLA International Office for UBC，1977年
+  <div class="csl-entry">[107]	INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. 1977. Names of persons: National usages for entry in catalogues[M]. 3 edition. London: IFLA International Office for UBC，1977年
 
-    <div class="csl-block">INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. 1977. Names of persons: national usages for entry in catalogues[M]. 3 edition. London: IFLA International Office for UBC，1977年 (In Chinese)</div>
+    <div class="csl-block">INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. 1977. Names of persons: National usages for entry in catalogues[M]. 3 edition. London: IFLA International Office for UBC，1977年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[108]	KANAMORI H. 1998. Shaking without quaking[J]，Science, 279(5359): 2063. 
 
     <div class="csl-block">KANAMORI H. 1998. Shaking without quaking[J]，Science, 279(5359): 2063. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[109]	KENNEDY W J, GARRISON R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the upper cretaceous of southern england[J]，Sedimentology, 22: 311. 
+  <div class="csl-entry">[109]	KENNEDY W J, GARRISON R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]，Sedimentology, 22: 311. 
 
-    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular chalks and hardgrounds in the upper cretaceous of southern england[J]，Sedimentology, 22: 311. (In Chinese)</div>
+    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]，Sedimentology, 22: 311. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[110]	KENNEDY W J, GARRISON R E. 1975b. Morphology and genesis of nodular phosphates in the cenomanian glauconitic marl of south-east england[J]，Lethaia, 8(4): 339-360. 
+  <div class="csl-entry">[110]	KENNEDY W J, GARRISON R E. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]，Lethaia, 8(4): 339-360. 
 
-    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular phosphates in the cenomanian glauconitic marl of south-east england[J]，Lethaia, 8(4): 339-360. (In Chinese)</div>
+    <div class="csl-block">KENNEDY W J, GARRISON R E. 1975. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]，Lethaia, 8(4): 339-360. (In Chinese)</div>
 </div>
   <div class="csl-entry">[111]	KINCHY A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press，2012年
 
@@ -540,13 +540,13 @@ Undefined
 
     <div class="csl-block">O’BRIEN J A. 1994. Introduction to information systems[M]. 7 edition. Burr Ridge, III: Irwin，1994年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[116]	ONLINE COMPUTER LIBRARY CENTER, INC. [no date]. About oclc: history of cooperation[EB/OL]([no date])
+  <div class="csl-entry">[116]	ONLINE COMPUTER LIBRARY CENTER, INC. [no date]. About OCLC: History of cooperation[EB/OL]([no date])
 
-    <div class="csl-block">ONLINE COMPUTER LIBRARY CENTER, INC. [no date]. About oclc: history of cooperation[EB/OL]([no date]) (In Chinese)</div>
+    <div class="csl-block">ONLINE COMPUTER LIBRARY CENTER, INC. [no date]. About OCLC: History of cooperation[EB/OL]([no date]) (In Chinese)</div>
 </div>
-  <div class="csl-entry">[117]	PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]，Cataloging &#38; Classification Quarterly, 48(8): 696-715. 
+  <div class="csl-entry">[117]	PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]，Cataloging &#38; Classification Quarterly, 48(8): 696-715. 
 
-    <div class="csl-block">PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]，Cataloging &#38; classification quarterly, 48(8): 696-715. (In Chinese)</div>
+    <div class="csl-block">PARK J-R, TOSAKA Y. 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]，Cataloging &#38; Classification Quarterly, 48(8): 696-715. (In Chinese)</div>
 </div>
   <div class="csl-entry">[118]	PEEBLES P Z Jr. 2001. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill，2001年
 
@@ -560,17 +560,17 @@ Undefined
 
     <div class="csl-block">ROBERSON J A, BURNESON E G. 2011. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water6 edition. New York: McGraw-Hill，2011年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[121]	SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “kurosegawa belt” in izumi town, yatsushiro city, kumamoto prefecture, central kyushu[J]，Bulletin of the geological survey of Japan, 57(5/6): 169-176. 
+  <div class="csl-entry">[121]	SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]，Bulletin of the geological survey of Japan, 57(5/6): 169-176. 
 
-    <div class="csl-block">SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “kurosegawa belt” in izumi town, yatsushiro city, kumamoto prefecture, central kyushu[J]，Bulletin of the geological survey of japan, 57(5/6): 169-176. (In Chinese)</div>
+    <div class="csl-block">SAITO M, MIYAZAKI K. 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]，Bulletin of the geological survey of Japan, 57(5/6): 169-176. (In Chinese)</div>
 </div>
   <div class="csl-entry">[122]	STIEG M F. 1981. The information needs of historians[J]，College &#38; Research Libraries, 42(6): 549-560. 
 
-    <div class="csl-block">STIEG M F. 1981. The information needs of historians[J]，College &#38; research libraries, 42(6): 549-560. (In Chinese)</div>
+    <div class="csl-block">STIEG M F. 1981. The information needs of historians[J]，College &#38; Research Libraries, 42(6): 549-560. (In Chinese)</div>
 </div>
   <div class="csl-entry">[123]	SUNSTEIN C R. 1996. Social norms and social roles[J]，Columbia Law Review, 96: 903. 
 
-    <div class="csl-block">SUNSTEIN C R. 1996. Social norms and social roles[J]，Columbia law review, 96: 903. (In Chinese)</div>
+    <div class="csl-block">SUNSTEIN C R. 1996. Social norms and social roles[J]，Columbia Law Review, 96: 903. (In Chinese)</div>
 </div>
   <div class="csl-entry">[124]	TACHIBANA R, SHIMIZU S, KOBAYSHI S, NAKAMURA T. 2005. Electronic watermarking method and system[P]. 2005-07-05
 
@@ -588,8 +588,8 @@ Undefined
 
     <div class="csl-block">WEINSTEIN L, SWERTZ M N. 1974. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of diseasePhiladelphia: Saunders，1974年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[128]	WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: report of who scientific group[R]. Geneva: WHO，1970年(1970)
+  <div class="csl-entry">[128]	WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO，1970年(1970)
 
-    <div class="csl-block">WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: report of who scientific group[R]. Geneva: WHO，1970年(1970) (In Chinese)</div>
+    <div class="csl-block">WORLD HEALTH ORGANIZATION. 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO，1970年(1970) (In Chinese)</div>
 </div>
 </div>

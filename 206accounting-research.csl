@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=". " names-delimiter=". " name-as-sort-order="first" sort-separator=", " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=". " names-delimiter=". " name-as-sort-order="first" sort-separator=", " default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>会计研究</title>
     <id>http://www.zotero.org/styles/accounting-research</id>
@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-12-20T17:42:04+08:00</updated>
+    <updated>2023-12-21T17:55:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -254,9 +254,9 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <layout locale="en" prefix="(" suffix=")" delimiter="; ">
+    <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=", ">
-        <text macro="author-intext"/>
+        <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -266,7 +266,7 @@
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <text macro="author-intext-zh"/>
+        <text macro="author-intext"/>
         <text macro="issued-year"/>
         <group>
           <label variable="locator" form="short"/>
@@ -280,11 +280,11 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <layout suffix="." locale="en">
-      <text macro="entry-layout"/>
+    <layout suffix="." locale="zh">
+      <text macro="entry-layout-zh"/>
     </layout>
     <layout suffix=".">
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout"/>
     </layout>
   </bibliography>
 </style>

@@ -54,12 +54,12 @@ Undefined
 
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988.59–92.</div>
+  <div class="csl-entry">American Association for the Advancement of Science. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.(1883).</div>
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. <i><span style="font-style:normal;">British Medical Journal</span></i>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">Anonymous. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. .</div>
   <div class="csl-entry">Anonymous. Dublin core metadata element set: version 1.1[EB](2012–06–14).</div>
   <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014.</div>
-  <div class="csl-entry">American Association for the Advancement of Science. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.(1883).</div>
   <div class="csl-entry">Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011.105.</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008–05–04).</div>
@@ -92,14 +92,14 @@ Undefined
   <div class="csl-entry">Park J-R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. <i><span style="font-style:normal;">Cataloging &#38; Classification Quarterly</span></i>, 2010, 48(8): 696–715.</div>
   <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011.13.</div>
-  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011.1.1-1.36.</div>
-  <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i><span style="font-style:normal;">Bulletin of the geological survey of Japan</span></i>, 2006, 57(5/6): 169–176.</div>
+  <div class="csl-entry">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]. American Water Works Association, ed.//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 edition. New York: McGraw-Hill, 2011.1.1-1.36.</div>
+  <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i><span style="font-style:normal;">Bulletin of the Geological Survey of Japan</span></i>, 2006, 57(5/6): 169–176.</div>
   <div class="csl-entry">Stieg M F. The information needs of historians[J]. <i><span style="font-style:normal;">College &#38; Research Libraries</span></i>, 1981, 42(6): 549–560.</div>
   <div class="csl-entry">Sunstein C R. Social norms and social roles[J]. <i><span style="font-style:normal;">Columbia Law Review</span></i>, 1996, 96: 903.</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US6915001[P]. 2005–07–05.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. <i><span style="font-style:normal;">Biology</span></i>, 2013, 2(1): 399–418.</div>
-  <div class="csl-entry">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974.745–772.</div>
+  <div class="csl-entry">Weinstein L, Swertz M N. Pathogenic properties of invading microorganism[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974.745–772.</div>
   <div class="csl-entry">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
   <div class="csl-entry">白书农.植物开花研究[M]. 李承森, 编//植物科学进展. 北京: 高等教育出版社， 1998.146–163.</div>
   <div class="csl-entry">北京市人民政府办公厅.关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[S]. .</div>
@@ -156,15 +156,6 @@ Undefined
   <div class="csl-entry">杨宗英.电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24–29.</div>
   <div class="csl-entry">杨保军.新闻道德论[D]. 北京: 中国人民大学出版社， 2012.</div>
   <div class="csl-entry">杨洪升.四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75.</div>
-  <div class="csl-entry">佚名.康熙字典: 巳集上: 水部[M]. 同文书局影印本 版. 北京: 中华书局， 1962.50.</div>
-  <div class="csl-entry">佚名.宋史卷三: 本纪第三[M]//宋史. 北京: 中华书局， 1977.49.</div>
-  <div class="csl-entry">佚名.职工教育研究论文集[M]. 中国职工教育研究会, 编. 北京: 人民教育出版社， 1985.</div>
-  <div class="csl-entry">佚名.卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局， 1988.590.</div>
-  <div class="csl-entry">佚名.周易外传: 卷 5[M]. 王夫之, 编//船山全书. 长沙: 岳麓书社， 2011a.1109.</div>
-  <div class="csl-entry">佚名.中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社， 2011b.</div>
-  <div class="csl-entry">佚名.综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社， 2012a.</div>
-  <div class="csl-entry">佚名.台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社， 2012b.</div>
-  <div class="csl-entry">佚名.综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 雷光春, 编. 北京: 海洋出版社， 2012c.</div>
   <div class="csl-entry">于潇，刘义，柴跃廷，等.互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518–1523.</div>
   <div class="csl-entry">余建斌.我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013: 2.</div>
   <div class="csl-entry">袁训来，陈哲，肖书海，等.蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
@@ -181,4 +172,13 @@ Undefined
   <div class="csl-entry">中国造纸学会.中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社， 2003.</div>
   <div class="csl-entry">中华人民共和国国务院新闻办公室.国防白皮书: 中国武装力量的多样化运用[R]. .</div>
   <div class="csl-entry">中华医学会湖北分会.临床内科杂志[Z]. 武汉: 中华医学会湖北分会， 1984.(1984).</div>
+  <div class="csl-entry">佚名.康熙字典: 巳集上: 水部[M]. 同文书局影印本 版. 北京: 中华书局， 1962.50.</div>
+  <div class="csl-entry">佚名.宋史卷三: 本纪第三[M]//宋史. 北京: 中华书局， 1977.49.</div>
+  <div class="csl-entry">佚名.职工教育研究论文集[M]. 中国职工教育研究会, 编. 北京: 人民教育出版社， 1985.</div>
+  <div class="csl-entry">佚名.卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局， 1988.590.</div>
+  <div class="csl-entry">佚名.周易外传: 卷 5[M]. 王夫之, 编//船山全书. 长沙: 岳麓书社， 2011a.1109.</div>
+  <div class="csl-entry">佚名.中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社， 2011b.</div>
+  <div class="csl-entry">佚名.综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社， 2012a.</div>
+  <div class="csl-entry">佚名.台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社， 2012b.</div>
+  <div class="csl-entry">佚名.综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 雷光春, 编. 北京: 海洋出版社， 2012c.</div>
 </div>
