@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <category field="law"/>
-    <updated>2023-12-20T18:33:27+08:00</updated>
+    <updated>2023-12-21T23:49:35+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -1372,7 +1372,7 @@
   </macro>
   <macro name="locator-de">
     <choose>
-      <if is-numeric="locator" locator="page section article-locator" match="any">
+      <if is-numeric="locator" locator="article-locator page section" match="any">
         <label variable="locator" form="symbol" suffix=" "/>
         <text variable="locator"/>
       </if>

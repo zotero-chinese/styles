@@ -52,6 +52,24 @@ def check_conditions(path: str, csl_content: str, element_tree):
                     condition.attrib.pop("match")
 
 
+def reorder_condition_values(root):
+    for element_name in ["if", "else-if"]:
+        for condition in root.xpath(f".//cs:{element_name}", namespaces=ns):
+            for condition_name in [
+                "is-numeric",
+                "is-uncertain-date",
+                "locator",
+                "position",
+                "type",
+                # "variable",
+            ]:
+                if condition_name in condition.attrib:
+                    value = condition.attrib[condition_name]
+                    new_value = " ".join(sorted(value.split(), key=lambda x: x.lower()))
+                    if new_value != value:
+                        condition.attrib[condition_name] = new_value
+
+
 def check_groups(path: str, csl_content: str, element_tree):
     root = element_tree.getroot()
     for group in root.xpath(".//cs:macro/cs:group", namespaces=ns):
@@ -217,10 +235,13 @@ def check_style(file):
     # parser = etree.XMLParser(remove_blank_text=True)
     parser = etree.XMLParser()
     style = etree.parse(file, parser)
+    root = style.getroot()
 
     # info(f'Running test of "{style_name}.csl"')
 
     check_conditions(file, csl_content, style)
+
+    reorder_condition_values(root)
 
     check_groups(file, csl_content, style)
 
