@@ -22,7 +22,7 @@ Undefined
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	夏鲁惠. 高等学校毕业设计(论文)教学情况调研报告[J]. 高等理科教育, 2004(1): 46-48, 52.</div>
-  <div class="csl-entry">[2]	Heider, E.R. &#38; D.C. Olivier. The structure of the color space in naming and memory for two languages [J]. Cognitive Psychology, 1972, 3(2): 337-354.</div>
+  <div class="csl-entry">[2]	Heider, E.R. &#38; D.C. Olivier. The structure of the color space in naming and memory for two languages [J]. <i>Cognitive Psychology</i>, 1972, 3(2): 337-354.</div>
   <div class="csl-entry">[3]	伍蠡甫. 西方文论选[M]. 上海: 上海译文出版社, 1979: 12-17.</div>
   <div class="csl-entry">[4]	张筑生. 微分半动力系统的不变集[D]. 北京: 北京大学数学系数学研究所, 1983: 1-7.</div>
   <div class="csl-entry">[5]	冯西桥, 何树延. 核反应堆管道和压力容器的LBB分析[R]. 北京: 清华大学核能技术设计研究院, 1998: 9-10.</div>
@@ -43,7 +43,7 @@ Undefined
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	Sunstein, C.R. Social norms and social roles [J]. Columbia Law Review, 1996, 96: 903.</div>
+  <div class="csl-entry">[1]	Sunstein, C.R. Social norms and social roles [J]. <i>Columbia Law Review</i>, 1996, 96: 903.</div>
   <div class="csl-entry">[2]	Morri, I. <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i> [M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[3]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">[4]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
@@ -84,10 +84,10 @@ Undefined
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-12.</div>
   <div class="csl-entry">[31]	李幼平, 王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225-228.</div>
   <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
-  <div class="csl-entry">[33]	Kanamori, H. Shaking without quaking [J]. Science, 1998, 279(5359): 2063.</div>
-  <div class="csl-entry">[34]	Caplan, P. Cataloging internet resources [J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
-  <div class="csl-entry">[35]	Frese, K.S., H.A. Katus, &#38; B. Meder. Next-generation sequencing: from understanding biology to personalized medicine [J]. Biology, 2013, 2(1): 378-398.</div>
-  <div class="csl-entry">[36]	Myburg, A.A., D. Grattapaglia, G.A. Tuskan, U. Hellsten, R.D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D.M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A.R.K. Kullan, S.G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O.B. Silva-Junior, R.C. Togawa, M.R. Pappas, D.A. Faria, C.P. Sansaloni, C.D. Petroli, X. Yang, P. Ranjan, T.J. Tschaplinski, C.Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H.S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C.A. Hefer, E. Bornberg-Bauer, A.R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A.E. Boyd, A. Liston, J.W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S.H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R.C. Jones, D.A. Steane, R.E. Vaillancourt, B.M. Potts, F. Joubert, K. Barry, G.J. Pappas, S.H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D.S. Rokhsar, &#38; J. Schmutz. The genome of eucalyptus grandis [J]. Nature, 2014, 510: 356-362.</div>
+  <div class="csl-entry">[33]	Kanamori, H. Shaking without quaking [J]. <i>Science</i>, 1998, 279(5359): 2063.</div>
+  <div class="csl-entry">[34]	Caplan, P. Cataloging internet resources [J]. <i>The Public-Access Computer Systems Review</i>, 1993, 4(2): 61-66.</div>
+  <div class="csl-entry">[35]	Frese, K.S., H.A. Katus, &#38; B. Meder. Next-generation sequencing: from understanding biology to personalized medicine [J]. <i>Biology</i>, 2013, 2(1): 378-398.</div>
+  <div class="csl-entry">[36]	Myburg, A.A., D. Grattapaglia, G.A. Tuskan, U. Hellsten, R.D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D.M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A.R.K. Kullan, S.G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O.B. Silva-Junior, R.C. Togawa, M.R. Pappas, D.A. Faria, C.P. Sansaloni, C.D. Petroli, X. Yang, P. Ranjan, T.J. Tschaplinski, C.Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H.S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C.A. Hefer, E. Bornberg-Bauer, A.R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A.E. Boyd, A. Liston, J.W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S.H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R.C. Jones, D.A. Steane, R.E. Vaillancourt, B.M. Potts, F. Joubert, K. Barry, G.J. Pappas, S.H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D.S. Rokhsar, &#38; J. Schmutz. The genome of eucalyptus grandis [J]. <i>Nature</i>, 2014, 510: 356-362.</div>
   <div class="csl-entry">[37]	邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
   <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P]. 2002-03-06.</div>
   <div class="csl-entry">[39]	Tachibana, R., S. Shimizu, S. Kobayshi, &#38; T. Nakamura. Electronic watermarking method and system: US6915001 [P]. 2005-07-05.</div>
@@ -96,7 +96,7 @@ Undefined
   <div class="csl-entry">[42]	Bawden, D. Origins and concepts of digital literacy [EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation [EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[44]	Hopkinson, A. UNIMARC and metadata: Dublin core [EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
-  <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas [J]. British Medical Journal, 1981, 283(6292): 628.</div>
+  <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas [J]. <i>British Medical Journal</i>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
   <div class="csl-entry">[47]	Deverell, W. &#38; D. Igler. A companion to California history [D]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   <div class="csl-entry">[48]	Baker, S.K. &#38; M.E. Jackson. <i>The future of resource sharing</i> [M]. New York: The Haworth Press, 1995.</div>
@@ -104,17 +104,17 @@ Undefined
   <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.</div>
   <div class="csl-entry">[51]	汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997: 16.</div>
   <div class="csl-entry">[52]	杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.</div>
-  <div class="csl-entry">[53]	Dowler, L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment [J]. Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
-  <div class="csl-entry">[54]	Sunstein, C.R. Social norms and social roles [J]. Columbia Law Review, 1996, 96: 903.</div>
+  <div class="csl-entry">[53]	Dowler, L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment [J]. <i>Journal of Library Administration</i>, 1995, 21(1/2): 5-26.</div>
+  <div class="csl-entry">[54]	Sunstein, C.R. Social norms and social roles [J]. <i>Columbia Law Review</i>, 1996, 96: 903.</div>
   <div class="csl-entry">[55]	Morri, I. <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i> [M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">[57]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
   <div class="csl-entry">[58]	Crane, D. <i>Invisible college</i> [M]. Chicago: Univ. of Chicago Press, 1972.</div>
-  <div class="csl-entry">[59]	Stieg, M.F. The information needs of historians [J]. College &#38; Research Libraries, 1981, 42(6): 549-560.</div>
+  <div class="csl-entry">[59]	Stieg, M.F. The information needs of historians [J]. <i>College &#38; Research Libraries</i>, 1981, 42(6): 549-560.</div>
   <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 2010, 37(4): 147.</div>
   <div class="csl-entry">[61]	王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
-  <div class="csl-entry">[62]	Kennedy, W.J. &#38; R.E. Garrison. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England [J]. Sedimentology, 1975, 22: 311.</div>
-  <div class="csl-entry">[63]	Kennedy, W.J. &#38; R.E. Garrison. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England [J]. Lethaia, 1975, 8(4): 339-360.</div>
+  <div class="csl-entry">[62]	Kennedy, W.J. &#38; R.E. Garrison. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England [J]. <i>Sedimentology</i>, 1975, 22: 311.</div>
+  <div class="csl-entry">[63]	Kennedy, W.J. &#38; R.E. Garrison. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England [J]. <i>Lethaia</i>, 1975, 8(4): 339-360.</div>
   <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
   <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.</div>
   <div class="csl-entry">[66]	刘彻东. 中国的青年刊物: 个性特色为本仁[J]. 中国出版, 1998(5): 38-39.</div>
@@ -167,11 +167,11 @@ Undefined
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.</div>
   <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">[115]	陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.</div>
-  <div class="csl-entry">[116]	Des Marais, D.J., H. Strauss, R.E. Summons, &#38; J.M. Hayes. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment [J]. Nature, 1992, 359(6396): 605-609.</div>
-  <div class="csl-entry">[117]	Saito, M. &#38; K. Miyazaki. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu [J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
-  <div class="csl-entry">[118]	Walls, S.C., W.J. Barichivich, &#38; M.E. Brown. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate [J]. Biology, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">[119]	Franz, A.K., M.A. Danielewicz, D.M. Wong, L.A. Anderson, &#38; J.R. Boothe. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity [J]. ACS Chemical Biology, 2013, 8: 1053-1062.</div>
-  <div class="csl-entry">[120]	Park, J.R. &#38; Y. Tosaka. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms [J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
+  <div class="csl-entry">[116]	Des Marais, D.J., H. Strauss, R.E. Summons, &#38; J.M. Hayes. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment [J]. <i>Nature</i>, 1992, 359(6396): 605-609.</div>
+  <div class="csl-entry">[117]	Saito, M. &#38; K. Miyazaki. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu [J]. <i>Bulletin of the geological survey of Japan</i>, 2006, 57(5/6): 169-176.</div>
+  <div class="csl-entry">[118]	Walls, S.C., W.J. Barichivich, &#38; M.E. Brown. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate [J]. <i>Biology</i>, 2013, 2(1): 399-418.</div>
+  <div class="csl-entry">[119]	Franz, A.K., M.A. Danielewicz, D.M. Wong, L.A. Anderson, &#38; J.R. Boothe. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity [J]. <i>ACS Chemical Biology</i>, 2013, 8: 1053-1062.</div>
+  <div class="csl-entry">[120]	Park, J.R. &#38; Y. Tosaka. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms [J]. <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8): 696-715.</div>
   <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).</div>
   <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-01-12.</div>

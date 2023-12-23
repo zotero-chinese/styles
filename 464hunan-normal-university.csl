@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>湖南师范大学研究生学位论文的撰写格式（处发〔2006〕42 号）</summary>
-    <updated>2023-12-23T11:08:53+08:00</updated>
+    <updated>2023-12-23T11:20:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -342,7 +342,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title"/>
+              <text variable="container-title" font-style="italic"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
