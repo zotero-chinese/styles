@@ -12,12 +12,67 @@ ns = {
 }
 
 
+# #0 preceding-comment
+# #1 title
+# #2 title-short
+# #3 id
+# #4 link self
+# #5 link independent-parent
+# #6 link template
+# #7 link doc
+# #8 author
+# #9 contributor
+# #10 category citation-format
+# #11 category field
+# #12 issn
+# #13 eissn
+# #14 issnl
+# #15 summary
+# #16 published
+# #17 updated
+# #18 rights
+# #19 end-comment
+INFO_ITEM_ORDER = [
+    "preceding-comment",
+    "title",
+    "title-short",
+    "id",
+    "link[@self]",
+    "link[@independent-parent]",
+    "link[@template]",
+    "link[@documentation]",
+    "author",
+    "contributor",
+    "category[@citation-format]",
+    "category[@field]",
+    "issn",
+    "eissn",
+    "issnl",
+    "summary",
+    "published",
+    "updated",
+    "rights",
+    "end-comment",
+]
+
+
 def info(s):
     print(f"Info: {s}", file=sys.stderr)
 
 
 def warning(s):
     print(f"Warning: {s}", file=sys.stderr)
+
+
+def check_affixes(root):
+    for element in root.xpath(".//*[@prefix='']"):
+        del element.attrib["prefix"]
+    for element in root.xpath(".//*[@suffix='']"):
+        del element.attrib["suffix"]
+
+    for tag in ["layout", "date", "group"]:
+        for element in root.xpath(f".//cs:{tag}[@delimiter='']", namespaces=ns):
+            del element.attrib["delimiter"]
 
 
 def check_conditions(path: str, csl_content: str, element_tree):
@@ -72,10 +127,19 @@ def reorder_condition_values(root):
 
 def check_groups(path: str, csl_content: str, element_tree):
     root = element_tree.getroot()
+
+    # Remove single group in a macro
     for group in root.xpath(".//cs:macro/cs:group", namespaces=ns):
         if len(group.getparent().xpath("./*")) == 1:
             if not group.attrib:
                 warning(f'File "{path}", line {group.sourceline}: extra empty group.')
+
+    for group in root.xpath(".//cs:group", namespaces=ns):
+        children = group.getchildren()
+        if len(children) == 1 and children[0].tag != "choose":
+            warning(
+                f'File "{path}", line {group.sourceline}: Group has only one child element.'
+            )
 
 
 def check_macros(path: str, csl_content: str, element_tree):
@@ -228,6 +292,103 @@ def check_text_case(path: str, csl_content: str, element_tree):
             del element.attrib["text-case"]
 
 
+# https://github.com/citation-style-language/utilities/blob/master/csl-reindenting-and-info-reordering.py
+def reorder_info_items(root):
+    csInfo = root.find(".//{http://purl.org/net/xbiblio/csl}info")
+
+    counter = []
+    for infoNodeIndex, infoNode in enumerate(csInfo):
+        # check if node is an element
+        if isinstance(infoNode.tag, str):
+            # get rid of namespace
+            tag = infoNode.tag.replace("{http://purl.org/net/xbiblio/csl}", "")
+            if tag == "link":
+                tag += "[@" + infoNode.get("rel") + "]"
+            if (tag == "category") & (infoNode.get("citation-format") is not None):
+                tag += "[@citation-format]"
+            if (tag == "category") & (infoNode.get("field") is not None):
+                tag += "[@field]"
+            try:
+                counter.append((INFO_ITEM_ORDER.index(tag), infoNode.get("field")))
+            except:
+                print("Unknown element: " + tag)
+        # check if node is a comment
+        elif etree.tostring(
+            infoNode, encoding="utf-8", xml_declaration=False
+        ).decode() == ("<!--" + infoNode.text + "-->"):
+            # keep comments that precede any element at the top
+            if sum(counter) == 0:
+                counter.append((INFO_ITEM_ORDER.index("preceding-comment"), None))
+            # keep a comment at the end at the end
+            elif len(counter) == (len(csInfo) - 1):
+                counter.append((INFO_ITEM_ORDER.index("end-comment"), None))
+            # keep other comments with preceding element
+            else:
+                counter.append((counter[-1], None))
+
+        # Possible improvements:
+        # * exceptions for recognizable comments (issn, category)
+        else:
+            pass
+            # print(infoNode)
+
+    # make sure if length counter is identical to length csInfo
+    # http://scienceoss.com/sort-one-list-by-another-list/
+    if len(counter) == len(csInfo):
+        # for index in range(len(counter)):
+        #     # use float() to avoid integer division
+        #     counter[index][0] += index / (float(len(counter)))
+        csInfoWithKeys = sorted(zip(counter, csInfo), key=lambda x: x[0])
+        sortedCounter, sortedCsInfo = zip(*csInfoWithKeys)
+
+        # overwrite list contents
+        # http://stackoverflow.com/questions/5438362/overwrite-entire-object-in-place
+        csInfo[:] = sortedCsInfo
+
+    # Trim whitespace from cs:summary text contents
+    try:
+        summary = root.find(".//{http://purl.org/net/xbiblio/csl}summary")
+        summary.text = summary.text.strip()
+    except:
+        pass
+
+    # Trim whitespace from cs:title text contents
+    try:
+        title = root.find(".//{http://purl.org/net/xbiblio/csl}title")
+        title.text = title.text.strip()
+    except:
+        pass
+
+    # Reorder attributes on cs:link
+    try:
+        links = root.findall(".//{http://purl.org/net/xbiblio/csl}link")
+        for link in links:
+            rel = link.get("rel")
+            del link.attrib["rel"]
+            link.set("rel", rel)
+    except:
+        pass
+
+    # # Add citation-number sort for non-sorting numeric styles
+    # try:
+    #     citation = root.find(".//{http://purl.org/net/xbiblio/csl}citation")
+
+    #     # make sure style is independent
+    #     # make sure style is numeric
+    #     # if style doesn't sort, add sort (cs:sort, cs:key) for citation-number
+    #     citationFormat = root.find(
+    #         ".//{http://purl.org/net/xbiblio/csl}category[@citation-format]"
+    #     )
+    #     if citationFormat.attrib.get("citation-format") == "numeric":
+    #         if citation[0].tag != "{http://purl.org/net/xbiblio/csl}sort":
+    #             numberSort = etree.fromstring(
+    #                 '<sort><key variable="citation-number"/></sort>'
+    #             )
+    #             citation.insert(0, numberSort)
+    # except:
+    #     pass
+
+
 def check_style(file):
     with open(file) as f:
         csl_content = f.read()
@@ -238,6 +399,8 @@ def check_style(file):
     root = style.getroot()
 
     # info(f'Running test of "{style_name}.csl"')
+
+    check_affixes(root)
 
     check_conditions(file, csl_content, style)
 
@@ -250,6 +413,8 @@ def check_style(file):
     # check_medium(file, csl_content)
 
     check_text_case(file, csl_content, style)
+
+    reorder_info_items(root)
 
     write_style(style, file)
 
