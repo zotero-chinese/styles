@@ -2375,6 +2375,25 @@ available-date: 2014-01-26
   </div>
 </blockquote>
 
+
+[464hunan-normal-university.csl]
+
+《[湖南师范大学研究生学位论文的撰写格式](https://yjsy.hunnu.edu.cn/__local/3/04/8A/26688DAF90A1EDD477ADBE21D15_88680BF7_56B1F.pdf)》（处发〔2006〕42 号），[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改。
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	夏鲁惠. 高等学校毕业设计(论文)教学情况调研报告[J]. 高等理科教育, 2004(1): 46-48, 52.</div>
+    <div class="csl-entry">[2]	Heider, E.R. &#38; D.C. Olivier. The structure of the color space in naming and memory for two languages [J]. Cognitive Psychology, 1972, 3(2): 337-354.</div>
+    <div class="csl-entry">[3]	伍蠡甫. 西方文论选[M]. 上海: 上海译文出版社, 1979: 12-17.</div>
+    <div class="csl-entry">[4]	张筑生. 微分半动力系统的不变集[D]. 北京: 北京大学数学系数学研究所, 1983: 1-7.</div>
+    <div class="csl-entry">[5]	冯西桥, 何树延. 核反应堆管道和压力容器的LBB分析[R]. 北京: 清华大学核能技术设计研究院, 1998: 9-10.</div>
+    <div class="csl-entry">[6]	GB/T 16159—1996, 汉语拼音正词法基本规则[S].</div>
+  </div>
+</blockquote>
+
+
 ## 501-506
 
 主要用于与Zutilo结合，快速导出部分字段，详见<https://zhuanlan.zhihu.com/p/597826044>。
@@ -2736,6 +2755,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [461northwestern-polytechnical-university.csl]: 461northwestern-polytechnical-university.csl
 [462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl]: 462huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering.csl
 [463tongji-university.csl]: 463tongji-university.csl
+[464hunan-normal-university.csl]: 464hunan-normal-university.csl
 [501yuzuc-at-title-at-author-at-year.csl]: 501yuzuc-at-title-at-author-at-year.csl
 [502export-authors.csl]: 502export-authors.csl
 [503export-journal-year-vol-pages.csl]: 503export-journal-year-vol-pages.csl
