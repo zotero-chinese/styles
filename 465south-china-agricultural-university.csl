@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>华南农业大学</title>
+    <title>华南农业大学（本科生）</title>
     <id>http://www.zotero.org/styles/south-china-agricultural-university</id>
     <link href="http://www.zotero.org/styles/south-china-agricultural-university" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual" rel="template"/>
@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>华南农业大学本科生毕业论文（设计）撰写规范（华南农教〔2012〕30 号）</summary>
-    <updated>2023-12-29T13:43:20+08:00</updated>
+    <updated>2023-12-29T13:47:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -292,11 +292,12 @@
         <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
+              <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
@@ -340,9 +341,12 @@
       <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
-          <group delimiter=": ">
-            <text variable="publisher-place"/>
-            <text variable="publisher"/>
+          <group delimiter=", ">
+            <group delimiter=": ">
+              <text variable="publisher-place"/>
+              <text variable="publisher"/>
+            </group>
+            <text macro="issued-year"/>
           </group>
           <text variable="page"/>
         </group>
@@ -414,7 +418,6 @@
   <macro name="entry-layout">
     <group delimiter=". ">
       <text macro="author"/>
-      <text macro="issued-year"/>
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
