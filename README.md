@@ -2402,15 +2402,14 @@ available-date: 2014-01-26
 
 <blockquote>
   <div class="csl-bib-body hanging-indent">
-    <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等. 1980. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社: 56-114.</div>
-    <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[A]//中国图书馆学会. 中国图书馆学会年会论文集[C]: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
-    <div class="csl-entry">王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史条件[A]//曹志耘. 汉语方言的地理语言学研究[C]. 北京: 商务印书馆: 138.</div>
-    <div class="csl-entry">王临惠, 支建刚, 王忠一. 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 37(4): 147.</div>
-    <div class="csl-entry">Crane D. 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
-    <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2(1): 378-398.</div>
-    <div class="csl-entry">Kennedy W J, Garrison R E. 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 22: 311.</div>
-    <div class="csl-entry">Kennedy W J, Garrison R E. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia, 8(4): 339-360.</div>
-    <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
+    <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]//中国图书馆学会. 中国图书馆学会年会论文集[C]: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+    <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[A]//Symposium on Applications of Holography in Mechanics[C], August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
   </div>
 </blockquote>
 
