@@ -28,13 +28,13 @@ Undefined
 
 (王临惠, 2010)<br>
 (Crane, 1972)<br>
-(贾东琴和柯平, 2011)<br>
+(贾东琴, 柯平, 2011)<br>
 (Kennedy and Garrison, 1975a)<br>
 (Kennedy and Garrison, 1975b)<br>
-(王临惠等, 2010)<br>
-(Frese et al., 2013)<br>
-(陈晋镳等, 1980)<br>
-(Myburg et al., 2014)<br>
+(王临惠, 支建刚, 王忠一, 2010)<br>
+(Frese, Katus, and Meder, 2013)<br>
+(陈晋镳, 张惠民, 朱士兴等, 1980)<br>
+(Myburg, Grattapaglia, Tuskan et al., 2014)<br>
 
 ### 参考文献表
 

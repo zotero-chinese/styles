@@ -6,10 +6,10 @@
 
 (库恩, 2012)<br>
 (Fourney, c1971)<br>
-(贾东琴和柯平, 2011)<br>
+(贾东琴, 柯平, 2011)<br>
 (Fan and Sommers, 2013)<br>
-(武丽丽等, 2008)<br>
-(Myburg et al., 2014)<br>
+(武丽丽, 华一新, 张亚军等, 2008)<br>
+(Myburg, Grattapaglia, Tuskan et al., 2014)<br>
 (中国互联网络信息中心, 2012; Bawden, 2008)<br>
 
 ## 参考文献表
