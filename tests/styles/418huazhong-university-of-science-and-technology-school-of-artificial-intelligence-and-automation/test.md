@@ -97,7 +97,7 @@ Undefined
   <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号. 2005</div>
   <div class="csl-entry">[42]	D. Bawden. Origins and concepts of digital literacy. 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
-  <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
+  <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. [2012]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
   <div class="csl-entry">[44]	A. Hopkinson. UNIMARC and metadata: Dublin core. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas. British Medical Journal, 1981, 283(6292): 628</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究[博士学位论文]. 合肥: 中国科学技术大学, 2000: 17-18</div>
@@ -181,6 +181,6 @@ Undefined
   <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 等. 雾霾来袭, 如何突围? 人民日报, 2013-01-12</div>
   <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道. 2001. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a></div>
   <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪. 2012. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a></div>
-  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a></div>
+  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. [2013]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a></div>
   <div class="csl-entry">[128]	Dublin core metadata element set: version 1.1. 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
 </div>

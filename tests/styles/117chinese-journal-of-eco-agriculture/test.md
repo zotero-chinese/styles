@@ -71,7 +71,7 @@ Undefined
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6; [M]. 2011: 5-6</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003; [M]. 2003</div>
   <div class="csl-entry">[14]	PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001</div>
-  <div class="csl-entry">[15]	YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000</div>
+  <div class="csl-entry">[15]	YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–[4, ]2000[M]. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">[16]	BALDOCK P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105</div>
   <div class="csl-entry">[17]	FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
   <div class="csl-entry">[18]	周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109; [M]. 2011: 1109</div>

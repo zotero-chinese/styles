@@ -147,7 +147,7 @@ Undefined
   <div class="csl-entry">Calkin D, Ager A, Thompson M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 8-9.</div>
   <div class="csl-entry">Caplan P, 1993. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 4(2): 61-66.</div>
   <div class="csl-entry">Chernik B E, 1982. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc.</div>
-  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
+  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, [2013]. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
   <div class="csl-entry">Crane D, 1972. Invisible college[M]. Chicago: Univ. of Chicago Press.</div>
   <div class="csl-entry">Crawford W, Gorman M, 1995. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association.</div>
   <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, et al., 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 359(6396): 605-609.</div>
@@ -167,7 +167,7 @@ Undefined
   <div class="csl-entry">Morri I, 2010. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al., 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
   <div class="csl-entry">O’Brien J A, 1994. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc, [2012]. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">Park J R, Tosaka Y, 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
   <div class="csl-entry">Peebles P Z Jr, 2001. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A, 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>

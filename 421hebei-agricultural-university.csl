@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-21T16:46:40+08:00</updated>
+    <updated>2023-12-31T13:06:54+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -301,6 +301,10 @@
         <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
         <date variable="available-date" form="numeric" date-parts="year"/>
       </else-if>
+      <else>
+        <!-- 选取引用日期的年份作为估计的出版年 -->
+        <date variable="accessed" form="numeric" date-parts="year" prefix="[" suffix="]"/>
+      </else>
     </choose>
   </macro>
   <macro name="issued-date">
