@@ -1568,20 +1568,23 @@ available-date: 2014-01-26
 ## [420beihang-university.csl]
 
 [北京航空航天大学](http://graduate.buaa.edu.cn/info/1039/7831.htm)作者年代参考文献样式，
-[015jm-chinese-std-gb-t-7714-2005-revised.csl]基础上修改，作者首字母大写，题目词首字母大写，结尾无点，3人以内列出全部作者，3人以上写3人加`等`（英文加`et al`））。
+[017gb-t-7714-2005-numeric-bilingual.csl]基础上修改，作者首字母大写，题目词首字母大写，结尾无点。
 
-显示效果
+显示效果：
 
-> ```
-引用的文献<sup>[1]</sup><br>
-继续<sup>[2–4]</sup><br>
-最后<sup>[5]</sup><br>
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012</div>
+    <div class="csl-entry">[2]	Fan X., Sommers C. H. Food Irradiation Research and Technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
+    <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷[C]. 北京: 国家图书馆出版社, 2011: 45-52</div>
+    <div class="csl-entry">[4]	Fourney M. E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics, August 23—25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME, c1971: 17-38</div>
+    <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9</div>
+    <div class="csl-entry">[6]	Myburg A. A., Grattapaglia D., Tuskan G. A., et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356-362</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012</div>
+    <div class="csl-entry">[8]	Bawden D. Origins and Concepts of Digital Literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008-05-04/2013-03-08</div>
+  </div>
+</blockquote>
 
->[1]	巫远. 基于有效覆盖的遥感卫星行业用户需求综合与满足度评估[D]. 武汉: 武汉大学, 2017<br>
->[2]	Poisson J. B., Oriot H. M., Tupin F. Ground Moving Target Trajectory Reconstruction in Single-Channel Circular SAR[J]. IEEE Transactions on Geoscience and Remote Sensing, 2015, 53(4): 1976–1984<br>
->[3]	李芳芳, 张月婷, 仇晓兰, 等. 高分辨率圆迹干涉SAR新体制设计及信号处理关键技术[A]. 第四届高分辨率对地观测学术年会论文集[C]. 高分辨率对地观测系统重大专项管理办公室、中国科学院重大科技任务局、中国航天科技集团公司宇航部、中国航天科工集团公司空间工程部、中国测绘学会摄影测量与遥感专业委员会, 2017: 1321–1332<br>
->[4]	Bamler R. A Comparison of Range-Doppler and Wavenumber Domain Sar Focusing Algorithms[J]. IEEE Transactions on Geoscience and Remote Sensing, 1992, 30(4): 706–713<br>
->[5]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359: 605–609<br>
 
 ## [421hebei-agricultural-university.csl]
 
