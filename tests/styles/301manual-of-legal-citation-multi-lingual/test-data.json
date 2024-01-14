@@ -7,8 +7,7 @@
 		"title": "美国行政法",
 		"author": [
 			{
-				"family": "王",
-				"given": "名扬"
+				"literal": "王名扬"
 			}
 		],
 		"issued": {
@@ -28,8 +27,7 @@
 		"title": "侵权责任法",
 		"author": [
 			{
-				"family": "张",
-				"given": "新宝"
+				"literal": "张新宝"
 			}
 		],
 		"issued": {
@@ -48,12 +46,10 @@
 		"title": "英美法原论",
 		"editor": [
 			{
-				"family": "高",
-				"given": "鸿钧"
+				"literal": "高鸿钧"
 			},
 			{
-				"family": "程",
-				"given": "汉大"
+				"literal": "程汉大"
 			}
 		],
 		"issued": {
@@ -77,8 +73,7 @@
 		],
 		"translator": [
 			{
-				"family": "郑",
-				"given": "戈"
+				"literal": "郑戈"
 			}
 		],
 		"issued": {
@@ -96,10 +91,10 @@
 		"issue": "1",
 		"language": "zh-CN",
 		"title": "法律程序的意义：对中国法制建设的另一种思考",
+		"title-short": "法律程序的意义",
 		"author": [
 			{
-				"family": "季",
-				"given": "卫东"
+				"literal": "季卫东"
 			}
 		],
 		"issued": {
@@ -121,14 +116,12 @@
 		"volume": "1",
 		"author": [
 			{
-				"family": "王",
-				"given": "保树"
+				"literal": "王保树"
 			}
 		],
 		"editor": [
 			{
-				"family": "梁",
-				"given": "慧星"
+				"literal": "梁慧星"
 			}
 		],
 		"issued": {
@@ -146,6 +139,7 @@
 		"language": "zh-CN",
 		"publisher": "中国政法大学出版社",
 		"title": "千方百计上京城：清朝的京控",
+		"title-short": "千方百计上京城",
 		"author": [
 			{
 				"literal": "欧中坦"
@@ -153,22 +147,18 @@
 		],
 		"translator": [
 			{
-				"family": "谢",
-				"given": "鹏程"
+				"literal": "谢鹏程"
 			}
 		],
 		"editor": [
 			{
-				"family": "高",
-				"given": "道蕴"
+				"literal": "高道蕴"
 			},
 			{
-				"family": "高",
-				"given": "鸿钧"
+				"literal": "高鸿钧"
 			},
 			{
-				"family": "贺",
-				"given": "卫方"
+				"literal": "贺卫方"
 			}
 		],
 		"issued": {
@@ -243,7 +233,8 @@
 	{
 		"id": "molc.0:11",
 		"type": "post-weblog",
-		"container-title": "微信公众号“中国法律评论”",
+		"container-title": "中国法律评论",
+		"genre": "微信公众号",
 		"language": "zh-CN",
 		"title": "一名基层法官眼里好律师的样子",
 		"URL": "http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm",
@@ -294,6 +285,7 @@
 		"language": "zh-CN",
 		"publisher": "中国政法大学",
 		"title": "游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究",
+		"title-short": "游走在上帝与凯撒之间",
 		"author": [
 			{
 				"literal": "李松锋"
@@ -463,6 +455,7 @@
 		"page": "52-59",
 		"source": "CNKI",
 		"title": "现代行政法的理论基础——论行政机关与相对一方的权利义务平衡",
+		"title-short": "现代行政法的理论基础",
 		"URL": "https://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD1993&filename=ZGFX199301009&v=MDE4Njk5TE1ybzlGYllRS0RIODR2UjRUNmo1NE8zenFxQnRHRnJDVVI3aWZZK1pxRkNqbFZiN01QeXJOZHJLeEY=",
 		"author": [
 			{
@@ -498,6 +491,7 @@
 		"language": "zh-CN",
 		"publisher": "中国法制出版社",
 		"title": "当代中国行政法的源流：王名扬教授九十华诞贺寿文集",
+		"title-short": "当代中国行政法的源流",
 		"editor": [
 			{
 				"literal": "应松年"
@@ -531,7 +525,7 @@
 		"editor": [
 			{
 				"family": "Bergsten",
-				"given": "C Fred"
+				"given": "C. Fred"
 			},
 			{
 				"family": "Gill",
@@ -539,7 +533,7 @@
 			},
 			{
 				"family": "Lardy",
-				"given": "Nicholas R"
+				"given": "Nicholas R."
 			},
 			{
 				"family": "Mitchell",
@@ -559,7 +553,7 @@
 		"type": "legislation",
 		"container-title": "Stat.",
 		"language": "en-US",
-		"number": "89-670",
+		"number": "89\\-670",
 		"page": "931, 944-947",
 		"section": "9",
 		"title": "Department of Transportation Act",
@@ -1157,7 +1151,7 @@
 	{
 		"id": "molc.86.5:01",
 		"type": "report",
-		"genre": "Rapport de recherche de l'IFREMER",
+		"genre": "Rapport de recherche de l’IFREMER",
 		"language": "fr-FR",
 		"number": "1202",
 		"title": "Le droit de la mer en Méditerranée",
@@ -1180,7 +1174,7 @@
 		"id": "molc.86.6:01",
 		"type": "thesis",
 		"language": "fr-FR",
-		"publisher": "l'Université de Marseille",
+		"publisher": "l’Université de Marseille",
 		"title": "Le droit de la mer appliqué à la Méditerranée",
 		"author": [
 			{
@@ -1610,6 +1604,7 @@
 		"type": "legislation",
 		"language": "zh-CN",
 		"note": "法宝引证码: CLI.1.304263",
+		"number": "中华人民共和国主席令第80号",
 		"title": "中华人民共和国刑法修正案（十）",
 		"title-short": "刑法修正案（十）",
 		"URL": "https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html",
@@ -1904,7 +1899,6 @@
 		"note": "event-title: 第十二届全国人民代表大会常务委员会第六次会议\n法宝引证码: CLI.DL.6311",
 		"source": "PKULaw",
 		"title": "关于《中华人民共和国行政诉讼法修正案（草案）》的说明",
-		"title-short": "关于《中华人民共和国行政诉讼法修正案（草案）》的说明",
 		"URL": "https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html",
 		"author": [
 			{
