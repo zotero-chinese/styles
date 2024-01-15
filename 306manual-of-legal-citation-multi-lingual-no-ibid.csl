@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <summary>1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的“法学引注手册”分类，其中录入了《手册》的示例文献。3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段。4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。6. 英国案例和法文文献的支持尚不完善，需要测试反馈。7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。9. 重复引用的文献不略写。</summary>
-    <updated>2024-01-14T16:01:53+08:00</updated>
+    <updated>2024-01-15T17:58:56+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -991,7 +991,7 @@
   </macro>
   <macro name="secondary-contributors-zh">
     <names variable="translator" delimiter="，">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
       <substitute>
         <names variable="compiler"/>
@@ -1061,7 +1061,7 @@
   </macro>
   <macro name="editor-zh">
     <names variable="editor">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
     </names>
   </macro>
