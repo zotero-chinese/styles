@@ -106,11 +106,11 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">杨宗英, 1996. 电子图书馆的现实模型. 中国图书馆学报(2): 24-29.</div>
   <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上: 水部. 同文书局影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">佚名, 1977. 宋史卷三: 本纪第三//宋史: 第 1 册. 北京: 中华书局: 49.</div>
-  <div class="csl-entry">佚名, 1981. Coffee drinking and cancer of the pancreas. British Medical Journal, 283(6292): 628.</div>
+  <div class="csl-entry">Anon, 1981. Coffee drinking and cancer of the pancreas. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">佚名, 1988. 卷 39 乞致仕第一//苏魏公文集: 下册. 北京: 中华书局: 590.</div>
-  <div class="csl-entry">佚名, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
+  <div class="csl-entry">Anon, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
   <div class="csl-entry">佚名, 2011. 周易外传: 卷 5//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社: 1109.</div>
-  <div class="csl-entry">佚名, 2012. Dublin core metadata element set: version 1.1.</div>
+  <div class="csl-entry">Anon, 2012. Dublin core metadata element set: version 1.1.</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波, 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌, 2013. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2013-01-12(2)[2013-03-20].</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪, 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34): 3219.</div>
@@ -130,49 +130,49 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书: 中国武装力量的多样化运用.</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">BABU B V, NAGAR A K, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U, 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日. New Delhi: Springer.</div>
-  <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The Future of Resource Sharing. New York: The Haworth Press.</div>
-  <div class="csl-entry">BALDOCK P, 2011. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press: 105.</div>
+  <div class="csl-entry">BABU B V, NAGAR A K, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U, 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012. New Delhi: Springer.</div>
+  <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The future of resource sharing. New York: The Haworth Press.</div>
+  <div class="csl-entry">BALDOCK P, 2011. Developing early childhood services: Past, present and future. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy.</div>
-  <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus Phenomena in Pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+  <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
   <div class="csl-entry">CAIRNS B R, 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CALKIN D, AGER A, THOMPSON M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 8-9.</div>
   <div class="csl-entry">CAPLAN P, 1993. Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61-66.</div>
-  <div class="csl-entry">CHERNIK B E, 1982. Introduction to Library Services for Library Technicians. Littleton, Colo.: Libraries Unlimited, Inc.</div>
+  <div class="csl-entry">CHERNIK B E, 1982. Introduction to library services for library technicians. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, [2013]. Pennsylvania library laws.</div>
-  <div class="csl-entry">CRANE D, 1972. Invisible College. Chicago: Univ. of Chicago Press.</div>
-  <div class="csl-entry">CRAWFORD W, GORMAN M, 1995. Future Libraries: Dreams, Madness, &#38; Reality. Chicago: American Library Association.</div>
+  <div class="csl-entry">CRANE D, 1972. Invisible college. Chicago: Univ. of Chicago Press.</div>
+  <div class="csl-entry">CRAWFORD W, GORMAN M, 1995. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association.</div>
   <div class="csl-entry">DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M, 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature, 359(6396): 605-609.</div>
   <div class="csl-entry">DEVERELL W, IGLER D, 2013. A companion to California history. New York: John Wiley &#38; Sons: 21-22. DOI: <a href="https://doi.org/10.1002/9781444305036.ch2">10.1002/9781444305036.ch2</a>.</div>
   <div class="csl-entry">DOWLER L, 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, 21(1/2): 5-26. DOI: <a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.</div>
-  <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food Irradiation Research and Technology. 2 版. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, 1971年8月23—25日, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
+  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R, 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chemical Biology, 8: 1053-1062. DOI: <a href="https://doi.org/10.1021/cb300573r">10.1021/cb300573r</a>.</div>
   <div class="csl-entry">FRESE K S, KATUS H A, MEDER B, 2013. Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2(1): 378-398. DOI: <a href="https://doi.org/10.3390/biology2010378">10.3390/biology2010378</a>.</div>
   <div class="csl-entry">HOPKINSON A, 2009. UNIMARC and metadata: Dublin core.</div>
-  <div class="csl-entry">International Federation of Library Association and Institutions, 1977. Names of Persons: National Usages for Entry in Catalogues. 3 版. London: IFLA International Office for UBC.</div>
+  <div class="csl-entry">International Federation of Library Association and Institutions, 1977. Names of persons: National usages for entry in catalogues. 3rd ed. London: IFLA International Office for UBC.</div>
   <div class="csl-entry">KANAMORI H, 1998. Shaking without quaking. Science, 279(5359): 2063. DOI: <a href="https://doi.org/10.1126/science.279.5359.2063">10.1126/science.279.5359.2063</a>.</div>
   <div class="csl-entry">KENNEDY W J, GARRISON R E, 1975a. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 22: 311. DOI: <a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">10.1111/j.1365-3091.1975.tb01637.x</a>.</div>
   <div class="csl-entry">KENNEDY W J, GARRISON R E, 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 8(4): 339-360. DOI: <a href="https://doi.org/10.1111/j.1502-3931.1975.tb00940.x">10.1111/j.1502-3931.1975.tb00940.x</a>.</div>
-  <div class="csl-entry">KINCHY A, 2012. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops. Cambridge, Mass.: MIT Press: 50.</div>
+  <div class="csl-entry">KINCHY A, 2012. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H, 2002. Compiler: US828402.</div>
-  <div class="csl-entry">MORRI I, 2010. Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future. New York: Farrar, Straus and Giroux.</div>
+  <div class="csl-entry">MORRI I, 2010. Why the west rules for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J, 2014. The genome of eucalyptus grandis. Nature, 510: 356-362. DOI: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
-  <div class="csl-entry">O’BRIEN J A, 1994. Introduction to Information Systems. 7 版. Burr Ridge, III: Irwin.</div>
+  <div class="csl-entry">O’BRIEN J A, 1994. Introduction to information systems. 7th ed. Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc, [2012]. About OCLC: History of cooperation.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696-715. DOI: <a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
-  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, Random Variables, and Random Signal Principles. 4 版. New York: McGraw-Hill.</div>
-  <div class="csl-entry">PRAETZELLIS A, 2011. Death by Theory: A Tale of Mystery and Archaeological Theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking Water Standards, Regulations and Goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6 版. New York: McGraw-Hill: 1.1-1.36.</div>
+  <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
+  <div class="csl-entry">PRAETZELLIS A, 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
+  <div class="csl-entry">ROBERSON J A, BURNESON E G, 2011. Drinking water standards, regulations and goals//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   <div class="csl-entry">SAITO M, MIYAZAKI K, 2006. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the geological survey of Japan, 57(5/6): 169-176. DOI: <a href="https://doi.org/10.9795/bullgsj.57.169">10.9795/bullgsj.57.169</a>.</div>
   <div class="csl-entry">STIEG M F, 1981. The information needs of historians. College &#38; Research Libraries, 42(6): 549-560. DOI: <a href="https://doi.org/10.5860/crl_42_06_549">10.5860/crl_42_06_549</a>.</div>
   <div class="csl-entry">SUNSTEIN C R, 1996. Social norms and social roles. Columbia Law Review, 96: 903. DOI: <a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
   <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYSHI S, NAKAMURA T, 2005. Electronic watermarking method and system: US6915001.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">WALLS S C, BARICHIVICH W J, BROWN M E, 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. Biology, 2(1): 399-418. DOI: <a href="https://doi.org/10.3390/biology2010399">10.3390/biology2010399</a>.</div>
-  <div class="csl-entry">WEINSTEIN L, SWERTZ M N, 1974. Pathogenic Properties of Invading Microorganism//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 745-772.</div>
+  <div class="csl-entry">WEINSTEIN L, SWERTZ M N, 1974. Pathogenic properties of invading microorganism//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 745-772.</div>
   <div class="csl-entry">World Health Organization, 1970. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO.</div>
-  <div class="csl-entry">YUFIN S A, 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 2000年2月1—4日. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">YUFIN S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000. Rotterdam: A. A. Balkema.</div>
 </div>
 
 ### 《心理学报》 示例文献
@@ -193,22 +193,22 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">张三, 李四. 中国心理学的过去与未来. 心理学报.</div>
   <div class="csl-entry">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七, 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215.</div>
   <div class="csl-entry">赵一一, 钱二, 孙三, 李四, 周五, 吴六, 郑七, 王八, 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215.</div>
-  <div class="csl-entry">AUERBACH J S, 1993. The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation//BORNSTEIN M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4 版. Washington,  DC,  US: Wiley: 43-110. DOI: <a href="https://doi.org/10.1037/10138-002">10.1037/10138-002</a>.</div>
+  <div class="csl-entry">AUERBACH J S, 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation//BORNSTEIN M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington,  DC,  US: Wiley: 43-110. DOI: <a href="https://doi.org/10.1037/10138-002">10.1037/10138-002</a>.</div>
   <div class="csl-entry">Australian Bureau of Statistics, 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1. Canberra, Australian Capital Territory: Author.</div>
-  <div class="csl-entry">BERGMANN P G, 1993. Relativity//The new encyclopedia Britannica: 卷 26. New York: Encyclopedia Britannica: 501-508.</div>
+  <div class="csl-entry">BERGMANN P G, 1993. Relativity//The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica: 501-508.</div>
   <div class="csl-entry">BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L, 2019. Body ownership increases the interference between observed and executed movements. PLoS ONE, 14(1). DOI: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
-  <div class="csl-entry">GIBBS J T, HUANG L N, 1989. Children of Color: Psychological Interventions with Minority Youth. Hoboken,  NJ,  US: Jossey-Bass.</div>
+  <div class="csl-entry">GIBBS J T, HUANG L N, 1989. Children of color: Psychological interventions with minority youth. Hoboken,  NJ,  US: Jossey-Bass.</div>
   <div class="csl-entry">HUESTEGGE S M, RAETTIG T, HUESTEGGE L, 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. DOI: <a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
-  <div class="csl-entry">KLATZKY R, 1998. Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections//FREKSA C, HABEL C, WENDER K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1-17.</div>
+  <div class="csl-entry">KLATZKY R, 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections//FREKSA C, HABEL C, WENDER K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1-17.</div>
   <div class="csl-entry">LANKTREE C B, BRIERE J N, 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA.</div>
-  <div class="csl-entry">LAPLACE P S, 1951. A Philosophical Essay on Probabilities. TRUSCOTT F W, EMORY F L, 译. Dover.</div>
+  <div class="csl-entry">LAPLACE P S, 1951. A philosophical essay on probabilities. TRUSCOTT F W, EMORY F L, trans. Dover.</div>
   <div class="csl-entry">LICHSTEIN K L, JOHNSON R S, 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs//Reducing medication in geriatric populations. Uppsala, Sweden.</div>
-  <div class="csl-entry">MITCHELL T R, LARSON J R, 1987. People in Organizations: An Introduction to Organizational Behavior. 3 版. New York: McGraw-Hill.</div>
+  <div class="csl-entry">MITCHELL T R, LARSON J R, 1987. People in organizations: An introduction to organizational behavior. 3rd ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">MOU W, MCNAMARA T P, 2002. Intrinsic frames of reference in spatial memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170. DOI: <a href="https://doi.org/10.1037/0278-7393.28.1.162">10.1037/0278-7393.28.1.162</a>.</div>
   <div class="csl-entry">MOU W, ZHANG K, MCNAMARA T P, 2004. Frames of reference in spatial memories acquired from language. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30: 171-180. DOI: <a href="https://doi.org/10.1037/0278-7393.30.1.171">10.1037/0278-7393.30.1.171</a>.</div>
   <div class="csl-entry">RUBY J, FULTON C, 1993. Beyond redlining: Editing software that works//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
-  <div class="csl-entry">SADIE S, 1980. The New Grove Dictionary of Music and Musicians. 6 版. London : New York: Macmillan.</div>
-  <div class="csl-entry">WANG D F, CUI H, 2004. Theoretical Analysis of the Seven Factor Model of Chinese Personality//WANG D F, HOU Y B. Selected papers on personality and social psychology: 卷 1. Beijing: Peking University Press: 46-84.</div>
+  <div class="csl-entry">SADIE S, 1980. The new Grove dictionary of music and musicians. 6th ed. London : New York: Macmillan.</div>
+  <div class="csl-entry">WANG D F, CUI H, 2004. Theoretical analysis of the seven factor model of Chinese personality//WANG D F, HOU Y B. Selected papers on personality and social psychology: Vol. 1. Beijing: Peking University Press: 46-84.</div>
   <div class="csl-entry">WOLCHIK S A, WEST S G, SANDLER I N, TEIN J Y, COATSWORTH D, LENGUA L, WEISS L, ANDERSON E R, GREENE S M, GRIFFIN W A, 2000. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology, 68(5): 843-856.</div>
   <div class="csl-entry">YU L, 2000. Phonological representation and processing in Chinese spoken language production. Beijing Normal University.</div>
 </div>
@@ -233,7 +233,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">毛祥麟, 1985. 墨余录. 上海: 上海古籍出版社.</div>
   <div class="csl-entry">倪素香, 2002. 德育学科的比较研究与理论探索. 武汉大学学报(4).</div>
   <div class="csl-entry">任东来, 2000. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会论文集. 天津: 9.</div>
-  <div class="csl-entry">任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会, 2000年6月, 天津. 天津: 9.</div>
+  <div class="csl-entry">任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.</div>
   <div class="csl-entry">任继愈, 1983. 中国哲学发展史（先秦卷）. 北京: 人民出版社.</div>
   <div class="csl-entry">伤心人（麦孟华）. 说奴隶. 清议报(第1页).</div>
   <div class="csl-entry">实藤惠秀, 1982a. 中国人留学日本史. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社.</div>
@@ -250,7 +250,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">佚名, 1925. 上海各路商界总联合会致外交部电. 民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">佚名, 1933. 西南中委反对在宁召开五全会. 民国日报, 1933-08-11(第1张第4版).</div>
   <div class="csl-entry">佚名, 1950. 党外人士座谈会记录.</div>
-  <div class="csl-entry">佚名, 1969. Nixon to Kissinger.</div>
+  <div class="csl-entry">Anon, 1969. Nixon to Kissinger.</div>
   <div class="csl-entry">佚名, 1975. 旧唐书: 卷 9. 标点本. 北京: 中华书局.</div>
   <div class="csl-entry">佚名, 1983. 方苞集: 卷 6. 标点本. 上海: 上海古籍出版社.</div>
   <div class="csl-entry">佚名, 1985. 太平御览: 卷 690. 影印本. 北京: 中华书局.</div>
@@ -262,10 +262,10 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">佚名. 嘉定县志: 卷 12.</div>
   <div class="csl-entry">佚名. 上海县续志: 卷 1.</div>
   <div class="csl-entry">赵景深, 1948. 文坛忆旧. 上海: 北新书局.</div>
-  <div class="csl-entry">BROOKS P, 2000. Troubling Confessions: Speaking Guilt in Law and Literature. Chicago: University of Chicago Press.</div>
+  <div class="csl-entry">BROOKS P, 2000. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press.</div>
   <div class="csl-entry">CHAMBERLAIN H B, 1993. On the search for civil society in China. Modern China, 19(2): 199-215. DOI: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
-  <div class="csl-entry">POLO M, 1997. The Travels of Marco Polo. MARSDEN W, 译. Hertfordshire: Cumberland House.</div>
-  <div class="csl-entry">SCHFIELD R S, 1983. The Impact of Scarcity and Plenty on Population Change in England//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
+  <div class="csl-entry">POLO M, 1997. The travels of Marco Polo. MARSDEN W, tran. Hertfordshire: Cumberland House.</div>
+  <div class="csl-entry">SCHFIELD R S, 1983. The impact of scarcity and plenty on population change in England//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -296,15 +296,15 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗, 2004. 近代中国宪政历程. 中国政法大学出版社.</div>
   <div class="csl-entry">信春鹰, 2013. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明.</div>
   <div class="csl-entry">佚名, 1919. 信玄公旗掛松事件//大審院民事判決録: 卷 25. 356.</div>
-  <div class="csl-entry">佚名, 1966. Department of Transportation Act: 89-670//Stat.: 卷 80. 931, 944-947.</div>
-  <div class="csl-entry">佚名, 1973. Roe <i>v.</i> Wade//U.S.: 卷 410. 113.</div>
-  <div class="csl-entry">佚名, 1982. Natural Resources Defense Council <i>v.</i> Gorsuch//F.2d: 卷 685. 718.</div>
+  <div class="csl-entry">Anon, 1966. Department of Transportation Act: 89-670//Stat.: Vol. 80. 931, 944-947.</div>
+  <div class="csl-entry">Anon, 1973. Roe <i>v.</i> Wade//U.S.: Vol. 410. 113.</div>
+  <div class="csl-entry">Anon, 1982. Natural Resources Defense Council <i>v.</i> Gorsuch//F.2d: Vol. 685. 718.</div>
   <div class="csl-entry">佚名, 1982. 約束手形金//最高裁判所民事判例集: 36卷6号. 1113.</div>
-  <div class="csl-entry">佚名, 1984. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council//U.S.: 卷 467. 837.</div>
-  <div class="csl-entry">佚名, 1987. R. v. Panel on Take-overs and Mergers//QB: 卷 815.</div>
+  <div class="csl-entry">Anon, 1984. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council//U.S.: Vol. 467. 837.</div>
+  <div class="csl-entry">Anon, 1987. R. v. Panel on Take-overs and Mergers//QB: Vol. 815.</div>
   <div class="csl-entry">佚名, 1999. NStZ-RR. 185.</div>
   <div class="csl-entry">佚名, 2000. NJW. 1560.</div>
-  <div class="csl-entry">佚名, 2006. Administrative Procedure Act § 6//U.S.C.: 卷 5.</div>
+  <div class="csl-entry">Anon, 2006. Administrative Procedure Act § 6//U.S.C.: Vol. 5.</div>
   <div class="csl-entry">佚名, 2013. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号//最高人民法院公报.</div>
   <div class="csl-entry">佚名, 2015. 陆红霞诉南通市发改委政府信息公开案//最高人民法院公报.</div>
   <div class="csl-entry">佚名, [2016a]. 法国行政法院网站.</div>
@@ -313,7 +313,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">佚名. 被告人李宁、张磊贪污案一审开庭.</div>
   <div class="csl-entry">佚名. 民法总则.</div>
   <div class="csl-entry">佚名. 包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号.</div>
-  <div class="csl-entry">佚名. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK.</div>
+  <div class="csl-entry">Anon. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK.</div>
   <div class="csl-entry">佚名. StGB.</div>
   <div class="csl-entry">佚名. StPO.</div>
   <div class="csl-entry">佚名. GG.</div>
@@ -330,7 +330,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">最高人民法院, 2018. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号.</div>
   <div class="csl-entry">最高人民法院, 最高人民检察院, 1993. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号.</div>
   <div class="csl-entry">佐藤英明, 2014. 一時所得の要件に関する覚書//金子宏, 中里実, J.マーク・ラムザイヤー. 租税法と市場. 有斐閣: 220.</div>
-  <div class="csl-entry">ALFORD W, 1995. To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization. Stanford University Press.</div>
+  <div class="csl-entry">ALFORD W, 1995. To steal a book is an elegant offense: Intellectual property law in Chinese civilization. Stanford University Press.</div>
   <div class="csl-entry">BADIOU-MONFERRAN C, 1997. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle. La Licorne(43): 75-94.</div>
   <div class="csl-entry">Barbara Ward, 1979. Progress for a small planet. Harvard Business Review(Sep.-Oct.): 89[2022-07-26].</div>
   <div class="csl-entry">BRANDEIS L D, 1913. What publicity can do. Harper’s Weekly: 10.</div>
@@ -338,8 +338,8 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">CHEVALLIER M, 2003. L’État de droit. 4 版. Paris: Montchrestien.</div>
   <div class="csl-entry">DREIER R, PAULSON S, 2003. Rechtsphilosophie Studienausgabe. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag.</div>
   <div class="csl-entry">FISCHER T, 2015. Absurdes Spektakel um den Tod. Die Zeit, 2015-09-29.</div>
-  <div class="csl-entry">HABERMAS J, 1996. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. REHG W, 译. MIT Press.</div>
-  <div class="csl-entry">HORSLEY J, 2006. Rule of Law in China: Incremental Progress//BERGSTEN C F, GILL B, LARDY N R, MITCHELL D. China: The balance sheet. Public Affairs Press.</div>
+  <div class="csl-entry">HABERMAS J, 1996. Between facts and norms: contributions to a discourse theory of law and democracy. REHG W, tran. MIT Press.</div>
+  <div class="csl-entry">HORSLEY J, 2006. Rule of law in China: incremental progress//BERGSTEN C F, GILL B, LARDY N R, MITCHELL D. China: The balance sheet. Public Affairs Press.</div>
   <div class="csl-entry">JOYEUX-PRUNEL B, [2010]. L’histoire de l’art et le quantitatif.</div>
   <div class="csl-entry">KAUFMANN A, 1972. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht//BAUMANN J. Das Abtreibungsverbot des § 218 StGB. 2 版.</div>
   <div class="csl-entry">MCDONELL S, 2016. When China began streaming trials online.</div>

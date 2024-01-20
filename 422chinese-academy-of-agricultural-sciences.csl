@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>中国农业科学院学位论文</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-20T23:19:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -110,15 +110,7 @@
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
-        <!-- 书籍题目大小写改为词首字母大写，不知道为什么在Macro中改了不起作用 -->
-        <choose>
-          <if type="book chapter" match="any">
-            <text variable="title" text-case="title"/>
-          </if>
-          <else>
-            <text variable="title"/>
-          </else>
-        </choose>
+        <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
@@ -396,6 +388,9 @@
       <key macro="author"/>
       <key macro="issued-year"/>
     </sort>
+    <layout suffix="." locale="en">
+      <text macro="entry-layout"/>
+    </layout>
     <layout suffix=".">
       <text macro="entry-layout"/>
     </layout>
