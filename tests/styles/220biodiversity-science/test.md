@@ -12,63 +12,37 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-(Li &#38; Durbin, 2011)<br>
-(宋永昌等, 2015)<br>
-(张明海和马建章, 2010)<br>
-(Begon et al, 1986)<br>
-(蒋志刚等, 2015)<br>
-(Lawton &#38; Brown, 1993)<br>
-(Mueller-Dombois D和Ellenberg H, 1986)<br>
-(于飞海, 2002)<br>
-(International Union for Conservation of Nature (IUCN), 2000)<br>
-
-### 参考文献表
-
-<div class="csl-bib-body hanging-indent">
-  <div class="csl-entry">Begon M, Harper JL, Townsend CR (1986) Ecology: Individuals, Populations and Communities, 2nd edn. Blackwell Scientific Publications, Boston.</div>
-  <div class="csl-entry">International Union for Conservation of Nature (IUCN) (2000) Authority Files for Habitats &#38; Threats. <a href="http://www.iucn.org/themes/ssc/sis/authority.html">http://www.iucn.org/themes/ssc/sis/authority.html</a> (2023-07-04)</div>
-  <div class="csl-entry">Jiang ZG, Ma Y, Wu Y, Wang YX, Feng ZJ (2015) China’s mammal diversity and geographic distribution. Science Press, Beijing. (in Chinese) [蒋志刚, 马勇, 吴毅, 王应祥, 冯祚建 (2015) 中国哺乳动物多样性. 科学出版社, 北京.]</div>
-  <div class="csl-entry">Lawton JH, Brown VK (1993) Redundancy in ecosystems. In: Biodiversity and Ecosystem Function (eds Schulze ED, Mooney HA), pp. 255–270. Springer-Verlag, New York.</div>
-  <div class="csl-entry">Li H, Durbin R (2011) Inference of human population history from individual whole-genome sequences. Nature, 475(7357), 493–496.</div>
-  <div class="csl-entry">Mueller-Dombois D, Ellenberg H (1986) Aims and Methods of Vegetation Ecology, pp. 153–188. Science Press, Beijing. (in Chinese with English abstract) [鲍显诚, 张绅, 杨邦顺, 金振洲, 唐廷贵, 姚璧君, 姜汉侨 (译) (1986) 植被生态学的目的和方法, pp. 153–188. 科学出版社, 北京.]</div>
-  <div class="csl-entry">Song YC, Yan ER, Song K (2015) Synthetic comparison of eight dynamics plots in evergreen broadleaf forests, China. Biodiversity Science, 23(2), 139–148. (in Chinese with English abstract) [宋永昌, 阎恩荣, 宋坤 (2015) 中国常绿阔叶林 8 大动态监测样地植被的综合比较. 生物多样性, 23(2), 139–148.]</div>
-  <div class="csl-entry">Yu FH (2002) Adaptive Strategies of Clonal Plants Growing in Heterogeneous Environments. PhD dissertation, Institute of Botany, Chinese Academy of Sciences, Beijing. (in Chinese) [于飞海 (2002) 克隆植物对异质性环境的生态适应对策. 博士学位论文, 中国科学院植物研究所, 北京.]</div>
-  <div class="csl-entry">Zhang MH, Ma JZ (2010) Current status and protection vision of wild northeast tiger in China. Chinese Journal of Zoology, 45(1), 165–168. (in Chinese) [张明海, 马建章 (2010) 中国野生东北虎现状及其保护愿景展望. 动物学杂志, 45(1), 165–168.]</div>
-</div>
-
 ## 默认测试
 
 ### 引注
 
-(王临惠, 2010, p. 1194)<br>
-(Crane, 1972)<br>
-(贾东琴和柯平, 2011)<br>
-(Kennedy &#38; Garrison, 1975a)<br>
-(Kennedy &#38; Garrison, 1975b)<br>
-(王临惠等, 2010)<br>
-(Frese et al, 2013)<br>
-(陈晋镳等, 1980)<br>
-(Myburg et al, 2014)<br>
+(张三, 2008)<br>
+张三 (2008)<br>
+(Jason, 2008)<br>
+Jason (2008)<br>
+张三 &#38; 李四 (2008)<br>
+Wang &#38; Sun (2009)<br>
+(赵一和陈二, 2008; Wolchik &#38; West, 2009)<br>
+张三 et al (2008)<br>
+Wang et al (2009)<br>
+(赵一等, 2008; Wolchik et al, 2009)<br>
+张三 et al (2019a)<br>
+张三 et al (2019b)<br>
+Qian et al (2020b)<br>
+Qian et al (2020a)<br>
+(张三 et al, 2019a; Qian et al, 2020b)<br>
+张三 et al (2020a)<br>
+张三 et al (2020b)<br>
+Qian et al (2009b)<br>
+Qian et al (2009a)<br>
+(张三 et al, 2020a)<br>
+(Qian et al, 2009b)<br>
+(Wong, 2007)<br>
+(Wong, 2008)<br>
+(Edeline &#38; Weinberger, n.d., 2005, 2002a, 2002b)<br>
+(Deng &#38; Feng, 2005; Chen, 2006; Bai, 2002)<br>
 
-### 参考文献表
-
-<div class="csl-bib-body hanging-indent">
-  <div class="csl-entry">Crane D (1972) Invisible College. Univ. of Chicago Press, Chicago.</div>
-  <div class="csl-entry">Frese KS, Katus HA, Meder B (2013) Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2(1), 378–398.</div>
-  <div class="csl-entry">Kennedy WJ, Garrison RE (1975a) Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 22, 311.</div>
-  <div class="csl-entry">Kennedy WJ, Garrison RE (1975b) Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 8(4), 339–360.</div>
-  <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
-  <div class="csl-entry">王临惠, 支建刚, 王忠一 (2010) 37(4), 147. (in Chinese) [王临惠, 支建刚, 王忠一 (2010) 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 37(4), 147.]</div>
-  <div class="csl-entry">王临惠 (2010) (in Chinese) [王临惠 (2010) 从几组声母的演变看天津方言形成的自然条件和历史条件. 收入: 汉语方言的地理语言学研究 (编 曹志耘), p. 138. 商务印书馆, 北京.]</div>
-  <div class="csl-entry">贾东琴, 柯平 (2011) (in Chinese) [贾东琴, 柯平 (2011) 面向数字素养的高校图书馆数字服务体系研究. 收入: 中国图书馆学会年会论文集 (编 中国图书馆学会), pp. 45–52. 国家图书馆出版社, 北京.]</div>
-  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚 (1980) (in Chinese) [陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚 (1980) 蓟县震旦亚界研究. 收入: 中国震旦亚界 (编 中国地质科学院天津地质矿产研究所), pp. 56–114. 天津科学技术出版社, 天津.]</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">American Association for the Advancement of Science (1883) Science. American Association for the Advancement of Science, Washington, D.C.</div>
@@ -199,4 +173,186 @@ Undefined
   <div class="csl-entry">(2012c) (in Chinese) [(2012c) 综合湿地管理: 综合湿地管理国际研讨会论文集. 海洋出版社, 北京.]</div>
   <div class="csl-entry">(2012d) Dublin Core Metadata Element Set: Version 1.1. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (2014-06-11)</div>
   <div class="csl-entry">(2014) Proceedings of the Second International Conference on Soft Computing for Problem Solving. Springer, New Delhi.</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">Auerbach JS (1993) The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In: Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development (ed Bornstein MF), pp. 43–110. Wiley, Washington,  DC,  US.</div>
+  <div class="csl-entry">Australian Bureau of Statistics (1991) Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990. Author, Canberra, Australian Capital Territory.</div>
+  <div class="csl-entry">Bergmann PG (1993) Relativity. In: The New Encyclopedia Britannica, pp. 501–508. Encyclopedia Britannica, New York.</div>
+  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L (2019) Body ownership increases the interference between observed and executed movements. PLoS ONE, 14(1). Public Library of Science, US.</div>
+  <div class="csl-entry">Huestegge SM, Raettig T, Huestegge L (2019) Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing.</div>
+  <div class="csl-entry">Klatzky R (1998) Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In: Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge (eds Freksa C, Habel C, Wender KF), pp. 1–17. Springer-Verlag.</div>
+  <div class="csl-entry">Lanktree CB, Briere JN (1991) Early data on the Trauma Symptom Checklist for Children (TSC-C). San Diego, CA.</div>
+  <div class="csl-entry">Truscott FW, Emory FL (trans.) (1951) A Philosophical Essay on Probabilities. Dover.</div>
+  <div class="csl-entry">Laplace PS (1951) A philosophical essay on Probabilities. Dover. (in Chinese) [张三, 李四 (译) (1951) 概率哲学. 未名出版社, 北京.]</div>
+  <div class="csl-entry">Li XJ (2004) Contemporary Chinese standard Dictionary, p. 255. Foreign Language Teaching and Research Press, Beijing. (in Chinese) [(2004) 现代汉语规范辞典, p. 255. 外语教学与研究出版社, 北京.]</div>
+  <div class="csl-entry">Lichstein KL, Johnson RS (1990) Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. In: Reducing Medication in Geriatric Populations. Uppsala, Sweden.</div>
+  <div class="csl-entry">Mitchell TR, Larson JR (1987) People in Organizations: An Introduction to Organizational Behavior, 3rd edn. McGraw-Hill, New York.</div>
+  <div class="csl-entry">Mou W, McNamara TP (2002) Intrinsic frames of reference in spatial memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28, 162–170. American Psychological Association, US.</div>
+  <div class="csl-entry">Mou W, Zhang K, McNamara TP (2004) Frames of reference in spatial memories acquired from language. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30, 171–180. American Psychological Association, US.</div>
+  <div class="csl-entry">Qiu YW (2009) Genetics and language Learning. Unpublished doctorial dissertation, East China Normal University, Shanghai. (in Chinese) [邱颖文 (2009) 遗传与语言学习. 博士学位论文, 华东师范大学, 上海.]</div>
+  <div class="csl-entry">Ruby J, Fulton C (1993) Beyond redlining: Editing software that works. Washington, DC.</div>
+  <div class="csl-entry">Wang DF, Cui H (2004) Theoretical analysis of the seven factor model of Chinese personality. In: Selected Papers on Personality and Social Psychology (eds Wang DF, Hou YB), pp. 46–84. Peking University Press, Beijing.</div>
+  <div class="csl-entry">Wang DF, Cui H (2004) Theoretical analysis of the “seven factor” model of Chinese personality. In: Selected papers on personality and social Psychology (编 王登峰, 侯玉波), pp. 46–84. Peking University Press, Beijing. (in Chinese) [王登峰, 崔红 (2004) 中国人“大七”人格结构的理论分析. 收入: 人格与社会心理学论丛 (编 王登峰, 侯玉波), pp. 46–84. 北京大学出版社, 北京.]</div>
+  <div class="csl-entry">Wolchik SA, West SG, Sandler IN, Tein JY, Coatsworth D, Lengua L, Weiss L, Anderson ER, Greene SM, Griffin WA (2000) An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology, 68(5), 843–856.</div>
+  <div class="csl-entry">Yu L (2000) Phonological Representation and Processing in Chinese Spoken Language Production. Unpublished doctorial dissertation, Beijing Normal University.</div>
+  <div class="csl-entry">Yu L (2000) Phonological representation and processing in Chinese spoken language Production. Unpublished doctorial dissertation, Beijing Normal University. (in Chinese) [余林 (2000) 汉语语言产生中的语音表征与加工. 博士学位论文, 北京师范大学.]</div>
+  <div class="csl-entry">Zhang S (2008) History of Psychology. Unnamed Publisher, Beijing. (in Chinese) [(2008) 心理学史. 未名出版社, 北京.]</div>
+  <div class="csl-entry">Zhang S, Li S (2008a) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [张三, 李四 (2008a) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
+  <div class="csl-entry">Zhang S, Li S (2008b) Chinese psychology and the Olympics. Xinhua Daily, 2, 5–7. (in Chinese) [张三, 李四 (2008b) 中国心理学与奥林匹克. 新华日报, 2, 5–7.]</div>
+  <div class="csl-entry">Zhang S, Li S (不详) The past and future of Chinese psychology. Acta Psychologica Sinica. (in Chinese) [张三, 李四 (不详) 中国心理学的过去与未来. 心理学报.]</div>
+  <div class="csl-entry">Zhang S (2008a) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [张三 (2008a) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
+  <div class="csl-entry">Zhang S (2008b) The past and future of Chinese psychology. Acta Psychologica Sinica, 40(增刊), 210–215. (in Chinese) [张三 (2008b) 中国心理学的过去与未来. 心理学报, 40(增刊), 210–215.]</div>
+  <div class="csl-entry">Zhang S (2008c) History of Psychology. Unnamed Publisher, Beijing. (in Chinese) [张三 (2008c) 心理学史. 未名出版社, 北京.]</div>
+  <div class="csl-entry">Zhao Y, Qian E, Sun S, Li S, Zhou W, Wu L, Zheng Q (2008) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七 (2008) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
+  <div class="csl-entry">Zhao YY, Qian E, Sun S, Li S, Zhou W, Wu L, Zheng Q, Wang B (2008) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [赵一一, 钱二, 孙三, 李四, 周五, 吴六, 郑七, 王八 (2008) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
+  <div class="csl-entry">(1980) The New Grove Dictionary of Music and Musicians, 6th edn. Macmillan, London : New York.</div>
+  <div class="csl-entry">(1986) Modern Chinese frequency Dictionary. Beijing Language and Culture University Press, Beijing. (in Chinese) [(1986) 现代汉语频率词典. 北京语言学院出版社, 北京.]</div>
+  <div class="csl-entry">(1989) Children of Color: Psychological Interventions with Minority Youth. Jossey-Bass, Hoboken,  NJ,  US.</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">Brooks P (2000) Troubling Confessions: Speaking Guilt in Law and Literature. University of Chicago Press, Chicago.</div>
+  <div class="csl-entry">Chamberlain HB (1993) On the search for civil society in China. Modern China, 19(2), 199–215.</div>
+  <div class="csl-entry">Marsden W (tran.) (1997) The Travels of Marco Polo. Cumberland House, Hertfordshire.</div>
+  <div class="csl-entry">Schfield RS (1983) The impact of scarcity and plenty on population change in England. In: Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society (eds Rotberg RI, Rabb TK), pp. 55–88. Cambridge University Press, Cambridge, Mass.</div>
+  <div class="csl-entry">任东来 (2000) (in Chinese) [任东来 (2000) 对国际体制和国际制度的理解和翻译. 收入: 全球化与亚太区域化国际研讨会论文集, p. 9. 天津.]</div>
+  <div class="csl-entry">任东来 (不详) (in Chinese) [任东来 (不详) 对国际体制和国际制度的理解和翻译. 天津.]</div>
+  <div class="csl-entry">伤心人（麦孟华） (不详) 第69册, 第1页. (in Chinese) [伤心人（麦孟华） (不详) 说奴隶. 清议报, 第69册, 第1页.]</div>
+  <div class="csl-entry">何龄修 (1998) (3). (in Chinese) [何龄修 (1998) 读顾诚〈南明史〉. 中国史研究(3).]</div>
+  <div class="csl-entry">佚名 (1998) (in Chinese) [佚名 (1998) 晚清洋务运动事类汇钞五十七种. 全国图书馆文献缩微复制中心, 北京.]</div>
+  <div class="csl-entry">倪素香 (2002) (4). (in Chinese) [倪素香 (2002) 德育学科的比较研究与理论探索. 武汉大学学报(4).]</div>
+  <div class="csl-entry">唐振常 (1997) (in Chinese) [唐振常 (1997) 师承与变法. 收入: 识史集, p. 65. 上海古籍出版社, 上海.]</div>
+  <div class="csl-entry">姚际恒 (不详) (in Chinese) [姚际恒 (不详) 古今伪书考, 光绪三年苏州文学山房活字本.]</div>
+  <div class="csl-entry">实藤惠秀 (1982a) (in Chinese) [谭汝谦, 林启彦 (译) (1982a) 中国人留学日本史. 香港中文大学出版社, 香港.]</div>
+  <div class="csl-entry">实藤惠秀 (1982b) (in Chinese) [谭汝谦, 林启彦 (译) (1982b) 中国人留学日本史. 香港中文大学出版社, 香港.]</div>
+  <div class="csl-entry">扬之水 (不详) <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> (2007-09-13) (in Chinese) [扬之水 (不详) 两宋茶诗与茶事. 收入: 《文学遗产通讯》（网络版试刊）2006年第1期. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> (2007-09-13)]</div>
+  <div class="csl-entry">方明东 (2000) (in Chinese) [方明东 (2000) 罗隆基政治思想研究（1913—1949）. 博士学位论文, 北京师范大学历史系.]</div>
+  <div class="csl-entry">李眉 (1986) 2. (in Chinese) [李眉 (1986) 李劼人轶事. 四川工人日报, 2.]</div>
+  <div class="csl-entry">李鹏程 (1994) (in Chinese) [李鹏程 (1994) 当代文化哲学沉思. 人民出版社, 北京.]</div>
+  <div class="csl-entry">杜威·佛克马 (1999) (in Chinese) [杜威·佛克马 (1999) 走向新世界主义. 收入: 全球化与后殖民批评 (编 王宁, 薛晓源), pp. 247–266. 中央编译出版社, 北京.]</div>
+  <div class="csl-entry">杨钟羲 (1991) (in Chinese) [杨钟羲 (1991) 雪桥诗话续集, 影印本. 辽沈书社, 沈阳.]</div>
+  <div class="csl-entry">楼适夷 (1998) (in Chinese) [楼适夷 (1998) 读家书，想傅雷（代序）. 收入: 傅雷家书 (编 傅敏), p. 2. 三联书店, 北京.]</div>
+  <div class="csl-entry">毛祥麟 (1985) (in Chinese) [毛祥麟 (1985) 墨余录. 上海古籍出版社, 上海.]</div>
+  <div class="csl-entry">汪疑今 (1936) 4(6). (in Chinese) [汪疑今 (1936) 江苏的小农及其副业. 中国经济, 4(6).]</div>
+  <div class="csl-entry">狄葆贤 (不详) (in Chinese) [狄葆贤 (不详) 平等阁笔记. 有正书局, 上海.]</div>
+  <div class="csl-entry">王明亮 (1998) <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (1998-10-04) (in Chinese) [王明亮 (1998) 关于中国学术期刊标准化数据库系统工程的进展. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (1998-10-04)]</div>
+  <div class="csl-entry">管志道 (1997) (in Chinese) [管志道 (1997) 答屠仪部赤水丈书. 收入: 续问辨牍. 齐鲁书社, 济南.]</div>
+  <div class="csl-entry">蒋大兴 (2001) (in Chinese) [蒋大兴 (2001) 公司法的展开与评判——方法·判例·制度. 法律出版社, 北京.]</div>
+  <div class="csl-entry">赵景深 (1948) (in Chinese) [赵景深 (1948) 文坛忆旧. 北新书局, 上海.]</div>
+  <div class="csl-entry">魏丽英 (1990) (6). (in Chinese) [魏丽英 (1990) 论近代西北人口波动的主要原因. 社会科学(6). 兰州.]</div>
+  <div class="csl-entry">鲁迅 (1981) (in Chinese) [鲁迅 (1981) 中国小说的历史的变迁. 收入: 鲁迅全集, p. 325. 人民文学出版社, 北京.]</div>
+  <div class="csl-entry">黄义豪 (1997) (3). (in Chinese) [黄义豪 (1997) 评黄龟年四劾秦桧. 福建论坛(3).]</div>
+  <div class="csl-entry">黄仁宇 (1997) (in Chinese) [黄仁宇 (1997) 为什么称为“中国大历史”？——中文版自序. 收入: 中国大历史, p. 2. 三联书店, 北京.]</div>
+  <div class="csl-entry">(1910) (第8年第19期), 1–2. (in Chinese) [(1910) 四川会议厅暂行章程. 广益丛报(第8年第19期), 1–2.]</div>
+  <div class="csl-entry">(1917) (in Chinese) [(1917) 傅良佐致国务院电.]</div>
+  <div class="csl-entry">(1925) 4. (in Chinese) [(1925) 上海各路商界总联合会致外交部电. 民国日报, 4. 上海.]</div>
+  <div class="csl-entry">(1933) 第1张第4版. (in Chinese) [(1933) 西南中委反对在宁召开五全会. 民国日报, 第1张第4版. 上海.]</div>
+  <div class="csl-entry">(1950) (in Chinese) [(1950) 党外人士座谈会记录.]</div>
+  <div class="csl-entry">(1969) Nixon to Kissinger.</div>
+  <div class="csl-entry">(1975) (in Chinese) [(1975) 旧唐书, 标点本. 中华书局, 北京.]</div>
+  <div class="csl-entry">(1983a) (in Chinese) [(1983a) 中国哲学发展史（先秦卷）. 人民出版社, 北京.]</div>
+  <div class="csl-entry">(1983b) (in Chinese) [(1983b) 方苞集, 标点本. 上海古籍出版社, 上海.]</div>
+  <div class="csl-entry">(1985) (in Chinese) [(1985) 太平御览, 影印本. 中华书局, 北京.]</div>
+  <div class="csl-entry">(1986) (in Chinese) [(1986) 荣庆日记. 西北大学出版社, 西安.]</div>
+  <div class="csl-entry">(1987) (in Chinese) [(1987) 清德宗实录, 影印本. 中华书局, 北京.]</div>
+  <div class="csl-entry">(1989) (in Chinese) [(1989) 周恩来传. 人民出版社、中央文献出版社, 北京.]</div>
+  <div class="csl-entry">(1992) (in Chinese) [(1992) 广东通志. 收入: 稀见中国地方志汇刊. 中国书店, 北京.]</div>
+  <div class="csl-entry">(1998) (in Chinese) [(1998) 马克思恩格斯全集. 人民出版社, 北京.]</div>
+  <div class="csl-entry">(2006) (in Chinese) [秦亚青, 苏长和, 门洪华, 魏玲 (译) (2006) 世界政治理论的探索与争鸣. 上海人民出版社, 上海.]</div>
+  <div class="csl-entry">(不详-a) (in Chinese) [(不详-a) 嘉定县志.]</div>
+  <div class="csl-entry">(不详-b) (in Chinese) [(不详-b) 上海县续志.]</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">Alford W (1995) To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization. Stanford University Press.</div>
+  <div class="csl-entry">Badiou-Monferran C (1997) La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle. La Licorne(43), 75–94.</div>
+  <div class="csl-entry">Barbara Ward (1979) Progress for a small planet. Harvard Business Review(Sep.-Oct.), 89.</div>
+  <div class="csl-entry">Brandeis LD (1913) What publicity can do. Harper’s Weekly, 10.</div>
+  <div class="csl-entry">Canaris CW (1990) Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen.</div>
+  <div class="csl-entry">Chevallier M (2003) L’État de droit, 4th edn. Montchrestien, Paris.</div>
+  <div class="csl-entry">Fischer T (2015) Absurdes Spektakel um den Tod. Die Zeit.</div>
+  <div class="csl-entry">Rehg W (tran.) (1996) Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. MIT Press.</div>
+  <div class="csl-entry">Horsley J (2006) Rule of law in China: incremental progress. In: China: The Balance Sheet (eds Bergsten CF, Gill B, Lardy NR, Mitchell D). Public Affairs Press.</div>
+  <div class="csl-entry">Joyeux-Prunel B (n.d.) L’histoire de l’art et le quantitatif. In: Histoire &#38; mesure, vol. XXIII, n° 2, 2008. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (2010-03-17)</div>
+  <div class="csl-entry">Kaufmann A (1972) Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In: Das Abtreibungsverbot des § 218 StGB (ed Baumann J).</div>
+  <div class="csl-entry">McDonell S (2016) When China began streaming trials online. In: BBC News. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a> (2022-07-26)</div>
+  <div class="csl-entry">Meidenbauer M (n.d.) Wissenschaftliches Publizieren. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a> (2017-10-10)</div>
+  <div class="csl-entry">Poisson M (2015a) Le droit de la mer. RGDIP, 15–47.</div>
+  <div class="csl-entry">Poisson M (2015b) Le droit de la mer. In: Le droit des Océans (ed Lapieuvre R), pp. 12–48.</div>
+  <div class="csl-entry">Poisson M (2016a) Le droit de la mer en Méditerranée, pp. 228–229. Congrès de Marseille.</div>
+  <div class="csl-entry">Poisson M (2016b) Le droit de la mer en Méditerranée.</div>
+  <div class="csl-entry">Poisson M (2016c) Le droit de la mer appliqué à la Méditerranée. PhD dissertation, l’Université de Marseille.</div>
+  <div class="csl-entry">Reich CA (1964) The new property. Yale Law Journal, 73(5), 733–787.</div>
+  <div class="csl-entry">Rosenthal A (1990) White House tutors Kremlin in how a presidency works. New York Times, A1.</div>
+  <div class="csl-entry">Roxin C (2006) Strafrecht Allgemeiner Teil, 4th edn. C. H. Beck.</div>
+  <div class="csl-entry">Schwab M (2013) In: Münchener Kommentar BGB.</div>
+  <div class="csl-entry">Vogel B (2017) Rechtsgüterschutz und Normgeltung. Zeitschrift für die gesamte Strafrechtswissenschaft, 129(3), 629–649.</div>
+  <div class="csl-entry">Würdinger M (2012) Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Juristische Schulung(3), 234–240. Verlag C.H. Beck.</div>
+  <div class="csl-entry">中国共产党中央委员会 (2014) (in Chinese) [中国共产党中央委员会 (2014) 中共中央关于全面推进依法治国若干重大问题的决定.]</div>
+  <div class="csl-entry">佐藤英明 (2014) 一時所得の要件に関する覚書. In: 租税法と市場 (eds 金子宏, 中里実, J.マーク・ラムザイヤー), p. 220. 有斐閣.</div>
+  <div class="csl-entry">何海波 (2000) 2. (in Chinese) [何海波 (2000) 判决书上网. 法制日报, 2.]</div>
+  <div class="csl-entry">信春鹰 (2013) (in Chinese) [信春鹰 (2013) 关于《中华人民共和国行政诉讼法修正案（草案）》的说明.]</div>
+  <div class="csl-entry">全国人大常委会 (1991) (in Chinese) [全国人大常委会 (1991) 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定.]</div>
+  <div class="csl-entry">全国人大常委会 (2005) (in Chinese) [全国人大常委会 (2005) 中华人民共和国公司法, 2005年修订.]</div>
+  <div class="csl-entry">全国人大常委会 (2013) (in Chinese) [全国人大常委会 (2013) 中华人民共和国公司法, 2013年修正.]</div>
+  <div class="csl-entry">全国人大常委会 (2017) (in Chinese) [全国人大常委会 (2017) 中华人民共和国刑法修正案（十）.]</div>
+  <div class="csl-entry">最高人民法院, 最高人民检察院 (1993) (in Chinese) [最高人民法院, 最高人民检察院 (1993) 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知.]</div>
+  <div class="csl-entry">最高人民法院 (2018) (in Chinese) [最高人民法院 (2018) 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释.]</div>
+  <div class="csl-entry">国务院 (2007a) (in Chinese) [国务院 (2007a) 国务院关于在全国建立农村最低生活保障制度的通知.]</div>
+  <div class="csl-entry">国务院 (2007b) (in Chinese) [国务院 (2007b) 国务院关于在全国建立农村最低生活保障制度的通知.]</div>
+  <div class="csl-entry">国务院 (2018) (in Chinese) [国务院 (2018) 国务院关于印发打赢蓝天保卫战三年行动计划的通知.]</div>
+  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会 (2015) (in Chinese) [国家质量监督检验检疫总局, 中国国家标准化管理委员会 (2015) 信息与文献 参考文献著录规则.]</div>
+  <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗 (2004) (in Chinese) [夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗 (2004) 近代中国宪政历程. 中国政法大学出版社.]</div>
+  <div class="csl-entry">季卫东 (1993) (1). (in Chinese) [季卫东 (1993) 法律程序的意义：对中国法制建设的另一种思考. 中国社会科学(1).]</div>
+  <div class="csl-entry">张新宝 (2016) (in Chinese) [张新宝 (2016) 侵权责任法, 4 版. 中国人民大学出版社.]</div>
+  <div class="csl-entry">[德]莱纳·沃尔夫 (2012) (in Chinese) [陈霄 (译) (2012) 风险法的风险. 收入: 风险规制：德国的理论与实践 (编 刘刚). 法律出版社.]</div>
+  <div class="csl-entry">我妻栄, 有泉亨 (1950) 民法総則物権法. 日本評論社.</div>
+  <div class="csl-entry">我妻栄 (1971) 新訂担保物権法. 有斐閣.</div>
+  <div class="csl-entry">於保不二雄 (1954) 付加物及び従物と抵当権. 民商法雑誌, 29(5), 1.</div>
+  <div class="csl-entry">李松锋 (2015) (in Chinese) [李松锋 (2015) 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究. 博士学位论文, 中国政法大学.]</div>
+  <div class="csl-entry">欧中坦 (1994) (in Chinese) [谢鹏程 (译) (1994) 千方百计上京城：清朝的京控. 收入: 美国学者论中国法律传统 (编 高道蕴, 高鸿钧, 贺卫方). 中国政法大学出版社.]</div>
+  <div class="csl-entry">汪波 (2004) <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a> (2022-05-03) (in Chinese) [汪波 (2004) 哈尔滨市政法机关正对“宝马案”认真调查复查. 收入: 人民网. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a> (2022-05-03)]</div>
+  <div class="csl-entry">王保树 (1994) (in Chinese) [王保树 (1994) 股份有限公司机关构造中的董事和董事会. 收入: 民商法论丛 (编 梁慧星), p. 110. 法律出版社.]</div>
+  <div class="csl-entry">王名扬 (2007) (in Chinese) [王名扬 (2007) 美国行政法. 北京大学出版社.]</div>
+  <div class="csl-entry">罗豪才, 袁曙宏, 李文栋 (1993) (1), 52–59. (in Chinese) [罗豪才, 袁曙宏, 李文栋 (1993) 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学(1), 52–59.]</div>
+  <div class="csl-entry">[美]富勒 (2005) (in Chinese) [郑戈 (译) (2005) 法律的道德性. 商务印书馆.]</div>
+  <div class="csl-entry">[英]劳特派特 (1971) (in Chinese) [王铁崖, 陈体强 (译) (1971) 奥本海国际法, 8 版. 商务印书馆.]</div>
+  <div class="csl-entry">赵耀彤 (2018) <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> (2022-05-03) (in Chinese) [赵耀彤 (2018) 一名基层法官眼里好律师的样子. 收入: 中国法律评论. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> (2022-05-03)]</div>
+  <div class="csl-entry">邓小平 (1994) (in Chinese) [邓小平 (1994) 精简机构是一场革命. 收入: 邓小平文选. 人民出版社.]</div>
+  <div class="csl-entry">(1919) 信玄公旗掛松事件. In: 大審院民事判決録, p. 356.</div>
+  <div class="csl-entry">(1966) Department of Transportation Act. In: Stat., pp. 931, 944–947.</div>
+  <div class="csl-entry">(1973) Roe <i>v.</i> Wade. In: U.S., p. 113.</div>
+  <div class="csl-entry">(1982a) Natural Resources Defense Council <i>v.</i> Gorsuch. In: F.2d, p. 718.</div>
+  <div class="csl-entry">(1982b) 約束手形金. In: 最高裁判所民事判例集, p. 1113.</div>
+  <div class="csl-entry">(1984) Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council. In: U.S., p. 837.</div>
+  <div class="csl-entry">(1987) R. v. Panel on Take-overs and Mergers. In: QB.</div>
+  <div class="csl-entry">(1999) In: NStZ-RR, p. 185.</div>
+  <div class="csl-entry">(2000) In: NJW, p. 1560.</div>
+  <div class="csl-entry">(2003) Rechtsphilosophie Studienausgabe, 2nd edn. UTB Uni-Taschenbücher Verlag, Heidelberg.</div>
+  <div class="csl-entry">(2006a) (in Chinese) [(2006a) 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社.]</div>
+  <div class="csl-entry">(2006b) Administrative Procedure Act § 6. In: U.S.C.</div>
+  <div class="csl-entry">(2013a) (in Chinese) [(2013a) 英美法原论. 北京大学出版社.]</div>
+  <div class="csl-entry">(2013b) (in Chinese) [(2013b) 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案. 收入: 最高人民法院公报.]</div>
+  <div class="csl-entry">(2015) (in Chinese) [(2015) 陆红霞诉南通市发改委政府信息公开案. 收入: 最高人民法院公报.]</div>
+  <div class="csl-entry">(2017) (in Chinese) [(2017) 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案.]</div>
+  <div class="csl-entry">(不详-a) <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a> (in Chinese) [(不详-a) 被告人李宁、张磊贪污案一审开庭. 收入: 新华网. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>]</div>
+  <div class="csl-entry">(不详-b) <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a> (2016-12-18) (in Chinese) [(不详-b) 法国行政法院网站. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a> (2016-12-18)]</div>
+  <div class="csl-entry">(不详-c) (in Chinese) [(不详-c) 民法总则.]</div>
+  <div class="csl-entry">(不详-d) (in Chinese) [(不详-d) 包郑照诉苍南县人民政府强制拆除房屋案.]</div>
+  <div class="csl-entry">(N.d.-a) United States <i>v.</i> Dino Nastasi et Al.</div>
+  <div class="csl-entry">(N.d.-b) StGB.</div>
+  <div class="csl-entry">(N.d.-c) StPO.</div>
+  <div class="csl-entry">(N.d.-d) GG.</div>
+  <div class="csl-entry">(N.d.-e) Strauß-Karikatur, Kunstfreiheit. In: BVerfGE, p. 369.</div>
+  <div class="csl-entry">(N.d.-f) 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
+  <div class="csl-entry">(N.d.-g) 平成26年版犯罪白書.</div>
+  <div class="csl-entry">(N.d.-h) ジュリスト. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (2022-09-01)</div>
+  <div class="csl-entry">(不详-e) <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> (in Chinese) [(不详-e) 温家宝主持国务院会议 研究房地产业健康发展措施. 收入: 新华网. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>]</div>
 </div>

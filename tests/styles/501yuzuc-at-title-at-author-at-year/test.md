@@ -12,16 +12,6 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
@@ -33,16 +23,7 @@ Undefined
 <sup>[1,2,4]</sup><br>
 <sup>[1–3]</sup><br>
 
-### 参考文献表
-
-<div class="csl-bib-body hanging-indent">
-  <div class="csl-entry">@Social norms and social roles@Sunstein C R. (@1996)</div>
-  <div class="csl-entry">@Why the west rules for now: the patterns of history, and what they reveal about the future@Morri I. (@2010)</div>
-  <div class="csl-entry">@西方文明史: 问题与源头@罗杰斯. (@2011)</div>
-  <div class="csl-entry">@国史旧闻@陈登原. (@2000)</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">@国史旧闻@陈登原. (@2000)</div>
@@ -173,4 +154,186 @@ Undefined
   <div class="csl-entry">@化解医患矛盾需釜底抽薪@李强. (@2012)</div>
   <div class="csl-entry">@Pennsylvania library laws@Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. (@[no date])</div>
   <div class="csl-entry">@Dublin core metadata element set: version 1.1@anonymous. (@2012)</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">@中国心理学的过去与未来@张三. (@2008)</div>
+  <div class="csl-entry">@中国心理学的过去与未来@张三, 李四. (@2008)</div>
+  <div class="csl-entry">@Intrinsic frames of reference in spatial memory.@Mou W, McNamara T P. (@2002)</div>
+  <div class="csl-entry">@中国心理学的过去与未来@赵一, 钱二, 等. (@2008)</div>
+  <div class="csl-entry">@Frames of reference in spatial memories acquired from language@Mou W, Zhang K, et al. (@2004)</div>
+  <div class="csl-entry">@中国心理学的过去与未来@赵一一, 钱二, 等. (@2008)</div>
+  <div class="csl-entry">@An experimental evaluation of theory-based mother and mother-child programs for children of divorce@Wolchik S A, West S G, et al. (@2000)</div>
+  <div class="csl-entry">@中国心理学的过去与未来@张三, 李四. (@[日期不详])</div>
+  <div class="csl-entry">@Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing@Huestegge S M, Raettig T, et al. (@2019)</div>
+  <div class="csl-entry">@Body ownership increases the interference between observed and executed movements.@Burin D, Kilteni K, et al. (@2019)</div>
+  <div class="csl-entry">@中国心理学的过去与未来@张三. (@2008)</div>
+  <div class="csl-entry">@心理学史@张三. (@2008)</div>
+  <div class="csl-entry">@心理学史@佚名. (@2008)</div>
+  <div class="csl-entry">@Children of color: Psychological interventions with minority youth.@anonymous. (@1989)</div>
+  <div class="csl-entry">@A philosophical essay on probabilities@Laplace P-S. (@1951)</div>
+  <div class="csl-entry">@概率哲学@拉普拉斯 P-S. (@1951)</div>
+  <div class="csl-entry">@Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections@Klatzky R. (@1998)</div>
+  <div class="csl-entry">@Theoretical analysis of the seven factor model of Chinese personality@Wang D F, Cui H. (@2004)</div>
+  <div class="csl-entry">@中国人“大七”人格结构的理论分析@王登峰, 崔红. (@2004)</div>
+  <div class="csl-entry">@The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation@Auerbach J S. (@1993)</div>
+  <div class="csl-entry">@Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs@Lichstein K L, Johnson R S. (@1990)</div>
+  <div class="csl-entry">@Early data on the Trauma Symptom Checklist for Children (TSC-C)@Lanktree C B, Briere J N. (@1991)</div>
+  <div class="csl-entry">@Beyond redlining: Editing software that works@Ruby J, Fulton C. (@1993)</div>
+  <div class="csl-entry">@Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990@Australian Bureau of Statistics. (@1991)</div>
+  <div class="csl-entry">@People in organizations: An introduction to organizational behavior@Mitchell T R, Larson J R. (@1987)</div>
+  <div class="csl-entry">@Relativity@Bergmann P G. (@1993)</div>
+  <div class="csl-entry">@The new Grove dictionary of music and musicians@anonymous. (@1980)</div>
+  <div class="csl-entry">@现代汉语规范辞典@佚名. (@2004)</div>
+  <div class="csl-entry">@现代汉语频率词典@佚名. (@1986)</div>
+  <div class="csl-entry">@Phonological representation and processing in Chinese spoken language production@Yu L. (@2000)</div>
+  <div class="csl-entry">@汉语语言产生中的语音表征与加工@余林. (@2000)</div>
+  <div class="csl-entry">@遗传与语言学习@邱颖文. (@2009)</div>
+  <div class="csl-entry">@中国心理学与奥林匹克@张三, 李四. (@2008)</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">@文坛忆旧@赵景深. (@1948)</div>
+  <div class="csl-entry">@荣庆日记@佚名. (@1986)</div>
+  <div class="csl-entry">@公司法的展开与评判——方法·判例·制度@蒋大兴. (@2001)</div>
+  <div class="csl-entry">@中国哲学发展史（先秦卷）@佚名. (@1983)</div>
+  <div class="csl-entry">@中国人留学日本史@实藤惠秀. (@1982)</div>
+  <div class="csl-entry">@周恩来传@佚名. (@1989)</div>
+  <div class="csl-entry">@晚清洋务运动事类汇钞五十七种@佚名. (@1998)</div>
+  <div class="csl-entry">@平等阁笔记@狄葆贤. (@[日期不详])</div>
+  <div class="csl-entry">@马克思恩格斯全集@佚名. (@1998)</div>
+  <div class="csl-entry">@走向新世界主义@杜威·佛克马. (@1999)</div>
+  <div class="csl-entry">@中国小说的历史的变迁@鲁迅. (@1981)</div>
+  <div class="csl-entry">@师承与变法@唐振常. (@1997)</div>
+  <div class="csl-entry">@当代文化哲学沉思@李鹏程. (@1994)</div>
+  <div class="csl-entry">@读家书，想傅雷（代序）@楼适夷. (@1998)</div>
+  <div class="csl-entry">@为什么称为“中国大历史”？——中文版自序@黄仁宇. (@1997)</div>
+  <div class="csl-entry">@古今伪书考@姚际恒. (@[日期不详])</div>
+  <div class="csl-entry">@墨余录@毛祥麟. (@1985)</div>
+  <div class="csl-entry">@雪桥诗话续集@杨钟羲. (@1991)</div>
+  <div class="csl-entry">@太平御览@佚名. (@1985)</div>
+  <div class="csl-entry">@答屠仪部赤水丈书@管志道. (@1997)</div>
+  <div class="csl-entry">@嘉定县志@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@上海县续志@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@广东通志@佚名. (@1992)</div>
+  <div class="csl-entry">@旧唐书@佚名. (@1975)</div>
+  <div class="csl-entry">@方苞集@佚名. (@1983)</div>
+  <div class="csl-entry">@清德宗实录@佚名. (@1987)</div>
+  <div class="csl-entry">@读顾诚〈南明史〉@何龄修. (@1998)</div>
+  <div class="csl-entry">@江苏的小农及其副业@汪疑今. (@1936)</div>
+  <div class="csl-entry">@论近代西北人口波动的主要原因@魏丽英. (@1990)</div>
+  <div class="csl-entry">@评黄龟年四劾秦桧@黄义豪. (@1997)</div>
+  <div class="csl-entry">@德育学科的比较研究与理论探索@倪素香. (@2002)</div>
+  <div class="csl-entry">@李劼人轶事@李眉. (@1986)</div>
+  <div class="csl-entry">@说奴隶@伤心人（麦孟华）. (@[日期不详])</div>
+  <div class="csl-entry">@四川会议厅暂行章程@佚名. (@1910)</div>
+  <div class="csl-entry">@上海各路商界总联合会致外交部电@佚名. (@1925)</div>
+  <div class="csl-entry">@西南中委反对在宁召开五全会@佚名. (@1933)</div>
+  <div class="csl-entry">@罗隆基政治思想研究（1913—1949）@方明东. (@2000)</div>
+  <div class="csl-entry">@对国际体制和国际制度的理解和翻译@任东来. (@[日期不详])</div>
+  <div class="csl-entry">@对国际体制和国际制度的理解和翻译@任东来. (@2000)</div>
+  <div class="csl-entry">@傅良佐致国务院电@佚名. (@1917)</div>
+  <div class="csl-entry">@党外人士座谈会记录@佚名. (@1950)</div>
+  <div class="csl-entry">@关于中国学术期刊标准化数据库系统工程的进展@王明亮. (@1998)</div>
+  <div class="csl-entry">@两宋茶诗与茶事@扬之水. (@[日期不详])</div>
+  <div class="csl-entry">@Troubling confessions: Speaking guilt in law and literature@Brooks P. (@2000)</div>
+  <div class="csl-entry">@The travels of Marco Polo@Polo M. (@1997)</div>
+  <div class="csl-entry">@On the search for civil society in China@Chamberlain H B. (@1993)</div>
+  <div class="csl-entry">@The impact of scarcity and plenty on population change in England@Schfield R S. (@1983)</div>
+  <div class="csl-entry">@Nixon to Kissinger@anonymous. (@1969)</div>
+  <div class="csl-entry">@世界政治理论的探索与争鸣@佚名. (@2006)</div>
+  <div class="csl-entry">@中国人留学日本史@实藤惠秀. (@1982)</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body hanging-indent">
+  <div class="csl-entry">@美国行政法@王名扬. (@2007)</div>
+  <div class="csl-entry">@侵权责任法@张新宝. (@2016)</div>
+  <div class="csl-entry">@英美法原论@佚名. (@2013)</div>
+  <div class="csl-entry">@法律的道德性@[美]富勒. (@2005)</div>
+  <div class="csl-entry">@法律程序的意义：对中国法制建设的另一种思考@季卫东. (@1993)</div>
+  <div class="csl-entry">@股份有限公司机关构造中的董事和董事会@王保树. (@1994)</div>
+  <div class="csl-entry">@风险法的风险@[德]莱纳·沃尔夫. (@2012)</div>
+  <div class="csl-entry">@判决书上网@何海波. (@2000)</div>
+  <div class="csl-entry">@哈尔滨市政法机关正对“宝马案”认真调查复查@汪波. (@2004)</div>
+  <div class="csl-entry">@被告人李宁、张磊贪污案一审开庭@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@一名基层法官眼里好律师的样子@赵耀彤. (@2018)</div>
+  <div class="csl-entry">@法国行政法院网站@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究@李松锋. (@2015)</div>
+  <div class="csl-entry">@民法总则@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@国务院关于在全国建立农村最低生活保障制度的通知@国务院. (@2007)</div>
+  <div class="csl-entry">@包郑照诉苍南县人民政府强制拆除房屋案@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@陆红霞诉南通市发改委政府信息公开案@佚名. (@2015)</div>
+  <div class="csl-entry">@The new property@Reich C A. (@1964)</div>
+  <div class="csl-entry">@What publicity can do@Brandeis L D. (@1913)</div>
+  <div class="csl-entry">@To steal a book is an elegant offense: Intellectual property law in Chinese civilization@Alford W. (@1995)</div>
+  <div class="csl-entry">@当代中国行政法的源流：王名扬教授九十华诞贺寿文集@佚名. (@2006)</div>
+  <div class="csl-entry">@R. v. Panel on Take-overs and Mergers@anonymous. (@1987)</div>
+  <div class="csl-entry">@现代行政法的理论基础——论行政机关与相对一方的权利义务平衡@罗豪才, 袁曙宏, 等. (@1993)</div>
+  <div class="csl-entry">@近代中国宪政历程@夏新华, 胡旭晟, 等. (@2004)</div>
+  <div class="csl-entry">@精简机构是一场革命@邓小平. (@1994)</div>
+  <div class="csl-entry">@奥本海国际法@[英]劳特派特. (@1971)</div>
+  <div class="csl-entry">@中华人民共和国刑法修正案（十）@全国人大常委会. (@2017)</div>
+  <div class="csl-entry">@中华人民共和国公司法@全国人大常委会. (@2005)</div>
+  <div class="csl-entry">@中华人民共和国公司法@全国人大常委会. (@2013)</div>
+  <div class="csl-entry">@最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知@最高人民法院, 最高人民检察院. (@1993)</div>
+  <div class="csl-entry">@全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定@全国人大常委会. (@1991)</div>
+  <div class="csl-entry">@国务院关于在全国建立农村最低生活保障制度的通知@国务院. (@2007)</div>
+  <div class="csl-entry">@最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释@最高人民法院. (@2018)</div>
+  <div class="csl-entry">@国务院关于印发打赢蓝天保卫战三年行动计划的通知@国务院. (@2018)</div>
+  <div class="csl-entry">@信息与文献 参考文献著录规则@国家质量监督检验检疫总局, 中国国家标准化管理委员会. (@2015)</div>
+  <div class="csl-entry">@关于《中华人民共和国行政诉讼法修正案（草案）》的说明@信春鹰. (@2013)</div>
+  <div class="csl-entry">@中共中央关于全面推进依法治国若干重大问题的决定@中国共产党中央委员会. (@2014)</div>
+  <div class="csl-entry">@荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案@佚名. (@2013)</div>
+  <div class="csl-entry">@榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案@佚名. (@2017)</div>
+  <div class="csl-entry">@Progress for a small planet@Barbara Ward. (@1979)</div>
+  <div class="csl-entry">@White House tutors Kremlin in how a presidency works@Rosenthal A. (@1990)</div>
+  <div class="csl-entry">@Between facts and norms: contributions to a discourse theory of law and democracy@Habermas J. (@1996)</div>
+  <div class="csl-entry">@Rule of law in China: incremental progress@Horsley J. (@2006)</div>
+  <div class="csl-entry">@Department of Transportation Act@anonymous. (@1966)</div>
+  <div class="csl-entry">@Administrative Procedure Act § 6@anonymous. (@2006)</div>
+  <div class="csl-entry">@Natural Resources Defense Council <i>v.</i> Gorsuch@anonymous. (@1982)</div>
+  <div class="csl-entry">@Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council@anonymous. (@1984)</div>
+  <div class="csl-entry">@Roe <i>v.</i> Wade@anonymous. (@1973)</div>
+  <div class="csl-entry">@United States <i>v.</i> Dino Nastasi et al.@anonymous. (@[no date])</div>
+  <div class="csl-entry">@When China began streaming trials online@McDonell S. (@2016)</div>
+  <div class="csl-entry">@L’État de droit@Chevallier M. (@2003)</div>
+  <div class="csl-entry">@Le droit de la mer@Poisson M. (@2015)</div>
+  <div class="csl-entry">@La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle@Badiou-Monferran C. (@1997)</div>
+  <div class="csl-entry">@Le droit de la mer@Poisson M. (@2015)</div>
+  <div class="csl-entry">@Le droit de la mer en Méditerranée@Poisson M. (@2016)</div>
+  <div class="csl-entry">@Le droit de la mer en Méditerranée@Poisson M. (@2016)</div>
+  <div class="csl-entry">@Le droit de la mer appliqué à la Méditerranée@Poisson M. (@2016)</div>
+  <div class="csl-entry">@L’histoire de l’art et le quantitatif@Joyeux-Prunel B. (@[日期不详])</div>
+  <div class="csl-entry">@Rechtsgüterschutz und Normgeltung@Vogel B. (@2017)</div>
+  <div class="csl-entry">@Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts@Würdinger M. (@2012)</div>
+  <div class="csl-entry">@Absurdes Spektakel um den Tod@Fischer T. (@2015)</div>
+  <div class="csl-entry">@Strafrecht Allgemeiner Teil@Roxin C. (@2006)</div>
+  <div class="csl-entry">@Rechtsphilosophie Studienausgabe@佚名. (@2003)</div>
+  <div class="csl-entry">@Schwab M. (@2013)</div>
+  <div class="csl-entry">@Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht@Kaufmann A. (@1972)</div>
+  <div class="csl-entry">@Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen@Canaris C-W. (@1990)</div>
+  <div class="csl-entry">@StGB@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@StPO@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@GG@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@Strauß-Karikatur, Kunstfreiheit@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@佚名. (@1999)</div>
+  <div class="csl-entry">@佚名. (@2000)</div>
+  <div class="csl-entry">@Wissenschaftliches Publizieren@Meidenbauer M. (@[日期不详])</div>
+  <div class="csl-entry">@新訂担保物権法@我妻栄. (@1971)</div>
+  <div class="csl-entry">@民法総則物権法@我妻栄, 有泉亨. (@1950)</div>
+  <div class="csl-entry">@付加物及び従物と抵当権@於保不二雄. (@1954)</div>
+  <div class="csl-entry">@一時所得の要件に関する覚書@佐藤英明. (@2014)</div>
+  <div class="csl-entry">@信玄公旗掛松事件@佚名. (@1919)</div>
+  <div class="csl-entry">@約束手形金@佚名. (@1982)</div>
+  <div class="csl-entry">@動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@平成26年版犯罪白書@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@ジュリスト@佚名. (@[日期不详])</div>
+  <div class="csl-entry">@千方百计上京城：清朝的京控@欧中坦. (@1994)</div>
+  <div class="csl-entry">@温家宝主持国务院会议 研究房地产业健康发展措施@佚名. (@[日期不详])</div>
 </div>

@@ -12,16 +12,6 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
@@ -33,16 +23,7 @@ Undefined
 <sup>[1], [2], [4]</sup><br>
 <sup>[1]–[3]</sup><br>
 
-### 参考文献表
-
-<div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	C. R. Sunstein, “Social norms and social roles”, <i>Columbia Law Rev.</i>, vol. 96, p. 903, 1996, doi: <a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
-  <div class="csl-entry">[2]	I. Morri, <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[3]	罗杰斯, 西方文明史: 问题与源头. 大连: 东北财经大学出版社, 2011, 页 15–16.</div>
-  <div class="csl-entry">[4]	陈登原, 国史旧闻, 卷 第 1 卷. 北京: 中华书局, 2000, 页 29.</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	陈登原, 国史旧闻, 卷 第 1 卷. 北京: 中华书局, 2000, 页 29.</div>
@@ -173,4 +154,186 @@ Undefined
   <div class="csl-entry">[126]	李强, “化解医患矛盾需釜底抽薪”, 5月 03, 2012. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a> (见于 3月 25, 2013).</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, “Pennsylvania library laws”. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a> (accessed Mar. 24, 2013).</div>
   <div class="csl-entry">[128]	“Dublin core metadata element set: version 1.1”, Jun. 14, 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (accessed Jun. 11, 2014).</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	张三, “中国心理学的过去与未来”, 心理学报, 卷 40, 页 210–215, 2008.</div>
+  <div class="csl-entry">[2]	张三和李四, “中国心理学的过去与未来”, 心理学报, 卷 40, 页 210–215, 2008.</div>
+  <div class="csl-entry">[3]	W. Mou and T. P. McNamara, “Intrinsic frames of reference in spatial memory.”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 28, pp. 162–170, 2002, doi: <a href="https://doi.org/10.1037/0278-7393.28.1.162">10.1037/0278-7393.28.1.162</a>.</div>
+  <div class="csl-entry">[4]	赵一等, “中国心理学的过去与未来”, 心理学报, 卷 40, 页 210–215, 2008.</div>
+  <div class="csl-entry">[5]	W. Mou, K. Zhang, and T. P. McNamara, “Frames of reference in spatial memories acquired from language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 30, pp. 171–180, 2004, doi: <a href="https://doi.org/10.1037/0278-7393.30.1.171">10.1037/0278-7393.30.1.171</a>.</div>
+  <div class="csl-entry">[6]	赵一一等, “中国心理学的过去与未来”, 心理学报, 卷 40, 页 210–215, 2008.</div>
+  <div class="csl-entry">[7]	S. A. Wolchik <i>et al.</i>, “An experimental evaluation of theory-based mother and mother-child programs for children of divorce”, <i>J Consult Clin Psychol</i>, vol. 68, no. 5, pp. 843–856, Oct. 2000.</div>
+  <div class="csl-entry">[8]	张三和李四, “中国心理学的过去与未来”, 心理学报, <b>印刷中</b>.</div>
+  <div class="csl-entry">[9]	S. M. Huestegge, T. Raettig, and L. Huestegge, “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing”, 2019, <b>Advance online publication</b>, doi: <a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
+  <div class="csl-entry">[10]	D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body ownership increases the interference between observed and executed movements.”, <i>PLoS ONE</i>, vol. 14, no. 1, Art. no. e0209899, 2019, doi: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
+  <div class="csl-entry">[11]	张三, “中国心理学的过去与未来”, 心理学报, 卷 40, 期 增刊, 页 210–215, 2008.</div>
+  <div class="csl-entry">[12]	张三, 心理学史. 北京: 未名出版社, 2008. 见于: 1月 24, 2023. [在线]. 载于: <a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&#38;d=8356562408B64C1B170D52D5D150114E&#38;fenlei=02140103">http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&#38;d=8356562408B64C1B170D52D5D150114E&#38;fenlei=02140103</a></div>
+  <div class="csl-entry">[13]	张三, 编, 心理学史. 北京: 未名出版社, 2008. 见于: 1月 24, 2023. [在线]. 载于: <a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&#38;d=8356562408B64C1B170D52D5D150114E&#38;fenlei=02140103">http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001119281&#38;d=8356562408B64C1B170D52D5D150114E&#38;fenlei=02140103</a></div>
+  <div class="csl-entry">[14]	J. T. Gibbs and L. N. Huang, Eds., <i>Children of color: Psychological interventions with minority youth.</i> Hoboken,  NJ,  US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[15]	P.-S. Laplace, <i>A philosophical essay on probabilities</i>. Dover, 1951.</div>
+  <div class="csl-entry">[16]	拉普拉斯 P.-S., 概率哲学. 北京: 未名出版社, 1951.</div>
+  <div class="csl-entry">[17]	R. Klatzky, “Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections”, in <i>Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</i>, C. Freksa, C. Habel, and K. F. Wender, Eds. Springer-Verlag, 1998, pp. 1–17.</div>
+  <div class="csl-entry">[18]	D. F. Wang and H. Cui, “Theoretical analysis of the seven factor model of Chinese personality”, in <i>Selected papers on personality and social psychology</i>, vol. 1, D. F. Wang and Y. B. Hou, Eds. Beijing: Peking University Press, 2004, pp. 46–84.</div>
+  <div class="csl-entry">[19]	王登峰和崔红, “中国人‘大七’人格结构的理论分析”, 收入 人格与社会心理学论丛, 卷 1, 王登峰和侯玉波, 编 北京: 北京大学出版社, 2004, 页 46–84.</div>
+  <div class="csl-entry">[20]	J. S. Auerbach, “The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation”, in <i>Handbook of child psychology: Vol. 4. Socialization, personality, and social development</i>, 4th ed., M. F. Bornstein, Ed. Washington,  DC,  US: Wiley, 1993, pp. 43–110. doi: <a href="https://doi.org/10.1037/10138-002">10.1037/10138-002</a>.</div>
+  <div class="csl-entry">[21]	K. L. Lichstein and R. S. Johnson, “Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs”, presented at the Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden, Jun. 1990.</div>
+  <div class="csl-entry">[22]	C. B. Lanktree and J. N. Briere, “Early data on the Trauma Symptom Checklist for Children (TSC-C)”, presented at the Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA, Jan. 1991.</div>
+  <div class="csl-entry">[23]	J. Ruby and C. Fulton, “Beyond redlining: Editing software that works”, presented at the Poster session presented at the annual meeting of the Society for Scholarly Publishing, Washington, DC, Jun. 1993.</div>
+  <div class="csl-entry">[24]	Australian Bureau of Statistics, “Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990”, Author, Canberra, Australian Capital Territory, 3209.1, 1991.</div>
+  <div class="csl-entry">[25]	T. R. Mitchell and J. R. Larson, <i>People in organizations: An introduction to organizational behavior</i>, 3rd ed. New York: McGraw-Hill, 1987.</div>
+  <div class="csl-entry">[26]	P. G. Bergmann, “Relativity”, <i>The new encyclopedia Britannica</i>, vol. 26. Encyclopedia Britannica, New York, pp. 501–508, 1993.</div>
+  <div class="csl-entry">[27]	S. Sadie, Ed., <i>The new Grove dictionary of music and musicians</i>, 6th ed., 20 vols. London : New York: Macmillan, 1980.</div>
+  <div class="csl-entry">[28]	李行健, 编, 现代汉语规范辞典. 北京: 外语教学与研究出版社, 2004, 页 255. 见于: 1月 24, 2023. [在线]. 载于: <a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&#38;d=6CE8370C1575089E8C1CA0C567C13999&#38;fenlei=08021204">http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&#38;d=6CE8370C1575089E8C1CA0C567C13999&#38;fenlei=08021204</a></div>
+  <div class="csl-entry">[29]	现代汉语频率词典. 北京: 北京语言学院出版社, 1986. 见于: 1月 24, 2023. [在线]. 载于: <a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001022685&#38;d=71C299B1BB1D244BF2DDA9151F541912&#38;fenlei=0802080332">http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001022685&#38;d=71C299B1BB1D244BF2DDA9151F541912&#38;fenlei=0802080332</a></div>
+  <div class="csl-entry">[30]	L. Yu, “Phonological representation and processing in Chinese spoken language production”, Unpublished doctorial dissertation, Beijing Normal University, 2000. Accessed: Jan. 24, 2023. [Online]. Available: <a href="https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE">https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE</a></div>
+  <div class="csl-entry">[31]	余林, “汉语语言产生中的语音表征与加工”, 博士学位论文, 北京师范大学, 2000.</div>
+  <div class="csl-entry">[32]	邱颖文, “遗传与语言学习”, 博士学位论文, 华东师范大学, 上海, 2009.</div>
+  <div class="csl-entry">[33]	张三和李四, “中国心理学与奥林匹克”, 新华日报, 页 2, 5–7, 8月 08, 2008.</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	赵景深, 文坛忆旧. 上海: 北新书局, 1948.</div>
+  <div class="csl-entry">[2]	荣庆日记. 西安: 西北大学出版社, 1986.</div>
+  <div class="csl-entry">[3]	蒋大兴, 公司法的展开与评判——方法·判例·制度. 北京: 法律出版社, 2001.</div>
+  <div class="csl-entry">[4]	任继愈, 编, 中国哲学发展史（先秦卷）. 北京: 人民出版社, 1983.</div>
+  <div class="csl-entry">[5]	实藤惠秀, 中国人留学日本史. 香港: 香港中文大学出版社, 1982.</div>
+  <div class="csl-entry">[6]	金冲及, 编, 周恩来传. 北京: 人民出版社、中央文献出版社, 1989.</div>
+  <div class="csl-entry">[7]	佚名, 晚清洋务运动事类汇钞五十七种, 卷 上册. 北京: 全国图书馆文献缩微复制中心, 1998.</div>
+  <div class="csl-entry">[8]	狄葆贤, 平等阁笔记. 上海: 有正书局.</div>
+  <div class="csl-entry">[9]	马克思恩格斯全集, 卷 31. 北京: 人民出版社, 1998.</div>
+  <div class="csl-entry">[10]	杜威·佛克马, “走向新世界主义”, 收入 全球化与后殖民批评, 王宁和薛晓源, 编 北京: 中央编译出版社, 1999, 页 247–266.</div>
+  <div class="csl-entry">[11]	鲁迅, “中国小说的历史的变迁”, 收入 鲁迅全集, 卷 第9册, 北京: 人民文学出版社, 1981, 页 325.</div>
+  <div class="csl-entry">[12]	唐振常, “师承与变法”, 收入 识史集, 上海: 上海古籍出版社, 1997, 页 65.</div>
+  <div class="csl-entry">[13]	李鹏程, 当代文化哲学沉思. 北京: 人民出版社, 1994.</div>
+  <div class="csl-entry">[14]	楼适夷, “读家书，想傅雷（代序）”, 收入 傅雷家书, 增补本., 傅敏, 编 北京: 三联书店, 1998, 页 2.</div>
+  <div class="csl-entry">[15]	黄仁宇, “为什么称为‘中国大历史’？——中文版自序”, 收入 中国大历史, 北京: 三联书店, 1997, 页 2.</div>
+  <div class="csl-entry">[16]	姚际恒, “古今伪书考”, 卷 3. </div>
+  <div class="csl-entry">[17]	毛祥麟, “墨余录”. 上海古籍出版社, 上海, 1985.</div>
+  <div class="csl-entry">[18]	杨钟羲, “雪桥诗话续集”, 卷 5. 辽沈书社, 沈阳, 1991.</div>
+  <div class="csl-entry">[19]	“太平御览”, 卷 690. 中华书局, 北京, 1985.</div>
+  <div class="csl-entry">[20]	管志道, “答屠仪部赤水丈书”, 续问辨牍, 卷 2. 齐鲁书社, 济南, 1997.</div>
+  <div class="csl-entry">[21]	“嘉定县志”, 卷 12. </div>
+  <div class="csl-entry">[22]	“上海县续志”, 卷 1. </div>
+  <div class="csl-entry">[23]	“广东通志”, 稀见中国地方志汇刊, 卷 15. 中国书店, 北京, 1992.</div>
+  <div class="csl-entry">[24]	“旧唐书”, 卷 9. 中华书局, 北京, 1975.</div>
+  <div class="csl-entry">[25]	“方苞集”, 卷 6. 上海古籍出版社, 上海, 1983.</div>
+  <div class="csl-entry">[26]	“清德宗实录”, 卷 435. 中华书局, 北京, 1987.</div>
+  <div class="csl-entry">[27]	何龄修, “读顾诚〈南明史〉”, 中国史研究, 期 3, 1998.</div>
+  <div class="csl-entry">[28]	汪疑今, “江苏的小农及其副业”, 中国经济, 卷 4, 期 6, 6月 1936.</div>
+  <div class="csl-entry">[29]	魏丽英, “论近代西北人口波动的主要原因”, 社会科学, 期 6, 1990.</div>
+  <div class="csl-entry">[30]	黄义豪, “评黄龟年四劾秦桧”, 福建论坛, 期 3, 1997.</div>
+  <div class="csl-entry">[31]	倪素香, “德育学科的比较研究与理论探索”, 武汉大学学报, 期 4, 2002.</div>
+  <div class="csl-entry">[32]	李眉, “李劼人轶事”, 四川工人日报, 页 2, 8月 22, 1986.</div>
+  <div class="csl-entry">[33]	伤心人（麦孟华）, “说奴隶”, 清议报, 卷 第69册, 页 第1页.</div>
+  <div class="csl-entry">[34]	“四川会议厅暂行章程”, 广益丛报, 期 第8年第19期, 页 1–2, 9月 03, 1910.</div>
+  <div class="csl-entry">[35]	“上海各路商界总联合会致外交部电”, 民国日报, 上海, 页 4, 8月 14, 1925.</div>
+  <div class="csl-entry">[36]	“西南中委反对在宁召开五全会”, 民国日报, 上海, 页 第1张第4版, 8月 11, 1933.</div>
+  <div class="csl-entry">[37]	方明东, “罗隆基政治思想研究（1913—1949）”, 博士学位论文, 北京师范大学历史系, 2000.</div>
+  <div class="csl-entry">[38]	任东来, “对国际体制和国际制度的理解和翻译”, 天津, 页 9.</div>
+  <div class="csl-entry">[39]	任东来, “对国际体制和国际制度的理解和翻译”, 收入 全球化与亚太区域化国际研讨会论文集, 天津, 6月 2000, 页 9.</div>
+  <div class="csl-entry">[40]	“傅良佐致国务院电”, 9月 15, 1917.</div>
+  <div class="csl-entry">[41]	“党外人士座谈会记录”, 7月 1950.</div>
+  <div class="csl-entry">[42]	王明亮, “关于中国学术期刊标准化数据库系统工程的进展”, 8月 16, 1998. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (见于 10月 04, 1998).</div>
+  <div class="csl-entry">[43]	扬之水, “两宋茶诗与茶事”, <i>《文学遗产通讯》（网络版试刊）2006年第1期</i>. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> (见于 9月 13, 2007).</div>
+  <div class="csl-entry">[44]	P. Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press, 2000.</div>
+  <div class="csl-entry">[45]	M. Polo, <i>The travels of Marco Polo</i>. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[46]	H. B. Chamberlain, “On the search for civil society in China”, <i>Mod. China</i>, vol. 19, no. 2, pp. 199–215, Apr. 1993, doi: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
+  <div class="csl-entry">[47]	R. S. Schfield, “The impact of scarcity and plenty on population change in England”, in <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>, R. I. Rotberg and T. K. Rabb, Eds. Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.</div>
+  <div class="csl-entry">[48]	“Nixon to Kissinger”, Feb. 01, 1969.</div>
+  <div class="csl-entry">[49]	彼得·卡赞斯坦, 罗伯特·基欧汉和斯蒂芬·克拉斯纳, 编, 世界政治理论的探索与争鸣. 上海: 上海人民出版社, 2006.</div>
+  <div class="csl-entry">[50]	实藤惠秀, 中国人留学日本史. 香港: 香港中文大学出版社, 1982.</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	王名扬, 美国行政法. 北京大学出版社, 2007.</div>
+  <div class="csl-entry">[2]	张新宝, 侵权责任法, 4 本. 中国人民大学出版社, 2016.</div>
+  <div class="csl-entry">[3]	高鸿钧和程汉大, 编, 英美法原论. 北京大学出版社, 2013.</div>
+  <div class="csl-entry">[4]	[美]富勒, 法律的道德性. 商务印书馆, 2005.</div>
+  <div class="csl-entry">[5]	季卫东, “法律程序的意义：对中国法制建设的另一种思考”, 中国社会科学, 期 1, 1993.</div>
+  <div class="csl-entry">[6]	王保树, “股份有限公司机关构造中的董事和董事会”, 收入 民商法论丛, 卷 1, 梁慧星, 编 法律出版社, 1994, 页 110.</div>
+  <div class="csl-entry">[7]	[德]莱纳·沃尔夫, “风险法的风险”, 收入 风险规制：德国的理论与实践, 刘刚, 编 法律出版社, 2012. 见于: 8月 04, 2022. [在线]. 载于: <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a></div>
+  <div class="csl-entry">[8]	何海波, “判决书上网”, 法制日报, 页 2, 5月 21, 2000.</div>
+  <div class="csl-entry">[9]	汪波, “哈尔滨市政法机关正对‘宝马案’认真调查复查”, 人民网, 1月 10, 2004. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a> (见于 5月 03, 2022).</div>
+  <div class="csl-entry">[10]	“被告人李宁、张磊贪污案一审开庭”, 新华网. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a></div>
+  <div class="csl-entry">[11]	赵耀彤, “一名基层法官眼里好律师的样子”, 中国法律评论, 12月 01, 2018. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> (见于 5月 03, 2022).</div>
+  <div class="csl-entry">[12]	“法国行政法院网站”. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a> (见于 12月 18, 2016).</div>
+  <div class="csl-entry">[13]	李松锋, “游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究”, 博士学位论文, 中国政法大学, 2015.</div>
+  <div class="csl-entry">[14]	民法总则. </div>
+  <div class="csl-entry">[15]	国务院, “国务院关于在全国建立农村最低生活保障制度的通知”. 7月 11, 2007. 见于: 10月 17, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a></div>
+  <div class="csl-entry">[16]	包郑照诉苍南县人民政府强制拆除房屋案. </div>
+  <div class="csl-entry">[17]	陆红霞诉南通市发改委政府信息公开案, 期 11. 2015. 见于: 10月 17, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a></div>
+  <div class="csl-entry">[18]	C. A. Reich, “The new property”, <i>Yale Law J.</i>, vol. 73, no. 5, pp. 733–787, 1964, doi: <a href="https://doi.org/10.2307/794645">10.2307/794645</a>.</div>
+  <div class="csl-entry">[19]	L. D. Brandeis, “What publicity can do”, <i>Harper’s Weekly</i>, p. 10, Dec. 20, 1913.</div>
+  <div class="csl-entry">[20]	W. Alford, <i>To steal a book is an elegant offense: Intellectual property law in Chinese civilization</i>. Stanford University Press, 1995.</div>
+  <div class="csl-entry">[21]	应松年和马怀德, 编, 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社, 2006.</div>
+  <div class="csl-entry">[22]	<i>R. v. Panel on Take-overs and Mergers</i>, vol. 815. 1987.</div>
+  <div class="csl-entry">[23]	罗豪才, 袁曙宏和李文栋, “现代行政法的理论基础——论行政机关与相对一方的权利义务平衡”, 中国法学, 期 1, 页 52–59, 1993, doi: <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">10.14111/j.cnki.zgfx.1993.01.010</a>.</div>
+  <div class="csl-entry">[24]	夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容和刘姗姗, 近代中国宪政历程. 中国政法大学出版社, 2004. 见于: 9月 03, 2022. [在线]. 载于: <a href="https://book.douban.com/subject/1663375/">https://book.douban.com/subject/1663375/</a></div>
+  <div class="csl-entry">[25]	邓小平, “精简机构是一场革命”, 收入 邓小平文选, 2 本, 卷 2, 人民出版社, 1994.</div>
+  <div class="csl-entry">[26]	[英]劳特派特, 奥本海国际法, 8 本, 卷 上卷第一分册. 商务印书馆, 1971.</div>
+  <div class="csl-entry">[27]	全国人大常委会, 中华人民共和国刑法修正案（十）. 2017. 见于: 10月 14, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a></div>
+  <div class="csl-entry">[28]	全国人大常委会, 中华人民共和国公司法, 2005年修订. 2005. 见于: 10月 14, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a></div>
+  <div class="csl-entry">[29]	全国人大常委会, 中华人民共和国公司法, 2013年修正. 2013. 见于: 10月 27, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a></div>
+  <div class="csl-entry">[30]	最高人民法院和最高人民检察院, “最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知”. 11月 12, 1993. 见于: 10月 14, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a></div>
+  <div class="csl-entry">[31]	全国人大常委会, 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定. 1991. 见于: 10月 27, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a></div>
+  <div class="csl-entry">[32]	国务院, “国务院关于在全国建立农村最低生活保障制度的通知”. 7月 11, 2007. 见于: 10月 27, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a></div>
+  <div class="csl-entry">[33]	最高人民法院, “最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释”. 2月 06, 2018. 见于: 10月 27, 2022. [在线]. 载于: <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a></div>
+  <div class="csl-entry">[34]	国务院, “国务院关于印发打赢蓝天保卫战三年行动计划的通知”. 6月 27, 2018. 见于: 6月 19, 2023. [在线]. 载于: <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a></div>
+  <div class="csl-entry">[35]	国家质量监督检验检疫总局和中国国家标准化管理委员会, “信息与文献 参考文献著录规则”. 2015.</div>
+  <div class="csl-entry">[36]	信春鹰, “关于《中华人民共和国行政诉讼法修正案（草案）》的说明”, 12月 2013. 见于: 6月 19, 2023. [在线]. 载于: <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a></div>
+  <div class="csl-entry">[37]	中国共产党中央委员会, “中共中央关于全面推进依法治国若干重大问题的决定”. 10月 23, 2014. 见于: 6月 19, 2023. [在线]. 载于: <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a></div>
+  <div class="csl-entry">[38]	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案, 期 8. 2013.</div>
+  <div class="csl-entry">[39]	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案. 2017.</div>
+  <div class="csl-entry">[40]	Barbara Ward, “Progress for a small planet”, <i>Harvard Business Review</i>, no. Sep.-Oct., p. 89, 1979. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a></div>
+  <div class="csl-entry">[41]	A. Rosenthal, “White House tutors Kremlin in how a presidency works”, <i>New York Times</i>, p. A1, Jun. 15, 1990. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
+  <div class="csl-entry">[42]	J. Habermas, <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. MIT Press, 1996.</div>
+  <div class="csl-entry">[43]	J. Horsley, “Rule of law in China: incremental progress”, in <i>China: The balance sheet</i>, C. F. Bergsten, B. Gill, N. R. Lardy, and D. Mitchell, Eds. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">[44]	<i>Department of Transportation Act</i>, vol. 80. 1966, pp. 931, 944–947.</div>
+  <div class="csl-entry">[45]	<i>Administrative Procedure Act § 6</i>, vol. 5. 2006.</div>
+  <div class="csl-entry">[46]	<i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol. 685. 1982, p. 718.</div>
+  <div class="csl-entry">[47]	<i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol. 467. 1984, p. 837.</div>
+  <div class="csl-entry">[48]	<i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol. 410. 1973, p. 113.</div>
+  <div class="csl-entry">[49]	<i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et al.</i> </div>
+  <div class="csl-entry">[50]	S. McDonell, “When China began streaming trials online”, <i>BBC News</i>, Sep. 30, 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a> (accessed Jul. 26, 2022).</div>
+  <div class="csl-entry">[51]	M. Chevallier, <i>L’État de droit</i>, 4th ed. Paris: Montchrestien, 2003. [Online]. Available: <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a></div>
+  <div class="csl-entry">[52]	M. Poisson, “Le droit de la mer”, <i>RGDIP</i>, pp. 15–47, 2015.</div>
+  <div class="csl-entry">[53]	C. Badiou-Monferran, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle”, <i>Licorne</i>, no. 43, pp. 75–94, 1997.</div>
+  <div class="csl-entry">[54]	M. Poisson, “Le droit de la mer”, in <i>Le droit des Océans</i>, Éditions de la mer., 2015, pp. 12–48.</div>
+  <div class="csl-entry">[55]	M. Poisson, “Le droit de la mer en Méditerranée”, Congrès de Marseille, Jul. 2016.</div>
+  <div class="csl-entry">[56]	M. Poisson, “Le droit de la mer en Méditerranée”, Rapport de recherche de l’IFREMER 1202, Aug. 2016.</div>
+  <div class="csl-entry">[57]	M. Poisson, “Le droit de la mer appliqué à la Méditerranée”, l’Université de Marseille, 2016.</div>
+  <div class="csl-entry">[58]	B. Joyeux-Prunel, “L’histoire de l’art et le quantitatif”, <i>Histoire &#38; mesure, vol. XXIII, n° 2, 2008</i>. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (accessed Mar. 17, 2010).</div>
+  <div class="csl-entry">[59]	B. Vogel, “Rechtsgüterschutz und Normgeltung”, <i>ZStW</i>, vol. 129, no. 3, pp. 629–649, Dec. 2017, doi: <a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>.</div>
+  <div class="csl-entry">[60]	M. Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Jurist. Schul.</i>, no. 3, pp. 234–240, 2012, Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a></div>
+  <div class="csl-entry">[61]	T. Fischer, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>, Sep. 29, 2015.</div>
+  <div class="csl-entry">[62]	C. Roxin, <i>Strafrecht Allgemeiner Teil</i>, 4th ed., vol. 1. C. H. Beck, 2006.</div>
+  <div class="csl-entry">[63]	R. Dreier and S. Paulson, Eds., <i>Rechtsphilosophie Studienausgabe</i>, 2nd ed. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
+  <div class="csl-entry">[64]	M. Schwab, in <i>Münchener Kommentar BGB</i>, 6th ed., vol. 5, 2013. [Online]. Available: <a href="https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm">https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm</a></div>
+  <div class="csl-entry">[65]	A. Kaufmann, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, in <i>Das Abtreibungsverbot des § 218 StGB</i>, 2nd ed., J. Baumann, Ed. 1972.</div>
+  <div class="csl-entry">[66]	C.-W. Canaris, “Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen”, 1990.</div>
+  <div class="csl-entry">[67]	<i>StGB</i>. </div>
+  <div class="csl-entry">[68]	<i>StPO</i>. </div>
+  <div class="csl-entry">[69]	<i>GG</i>. </div>
+  <div class="csl-entry">[70]	<i>Strauß-Karikatur, Kunstfreiheit</i>, vol. 75. p. 369.</div>
+  <div class="csl-entry">[71]	1999, p. 185.</div>
+  <div class="csl-entry">[72]	2000, p. 1560.</div>
+  <div class="csl-entry">[73]	M. Meidenbauer, “Wissenschaftliches Publizieren”. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a> (accessed Oct. 10, 2017).</div>
+  <div class="csl-entry">[74]	我妻栄, 新訂担保物権法. 有斐閣, 1971.</div>
+  <div class="csl-entry">[75]	我妻栄 and 有泉亨, 民法総則物権法. 日本評論社, 1950.</div>
+  <div class="csl-entry">[76]	於保不二雄, “付加物及び従物と抵当権”, 民商法雑誌, vol. 29, no. 5, p. 1, 1954, [Online]. Available: <a href="https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1">https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1</a></div>
+  <div class="csl-entry">[77]	佐藤英明, “一時所得の要件に関する覚書”, in 租税法と市場, 金子宏, 中里実, and J.マーク・ラムザイヤー, Eds. 有斐閣, 2014, p. 220.</div>
+  <div class="csl-entry">[78]	信玄公旗掛松事件, vol. 25. 1919, p. 356. [Online]. Available: <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a></div>
+  <div class="csl-entry">[79]	約束手形金, vol. 36卷6号. 1982, p. 1113. [Online]. Available: <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a></div>
+  <div class="csl-entry">[80]	動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律. [Online]. Available: <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a></div>
+  <div class="csl-entry">[81]	“平成26年版犯罪白書”. [Online]. Available: <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a></div>
+  <div class="csl-entry">[82]	“ジュリスト”. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (accessed Sep. 01, 2022).</div>
+  <div class="csl-entry">[83]	欧中坦, “千方百计上京城：清朝的京控”, 收入 美国学者论中国法律传统, 高道蕴, 高鸿钧和贺卫方, 编 中国政法大学出版社, 1994.</div>
+  <div class="csl-entry">[84]	“温家宝主持国务院会议 研究房地产业健康发展措施”, 新华网. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a></div>
 </div>

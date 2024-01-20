@@ -12,16 +12,6 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
@@ -33,16 +23,7 @@ Undefined
 <sup>[1,2,4]</sup><br>
 <sup>[1–3]</sup><br>
 
-### 参考文献表
-
-<div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">Sunstein Cass R	</div>
-  <div class="csl-entry">Morri I	</div>
-  <div class="csl-entry">罗杰斯	</div>
-  <div class="csl-entry">陈登原	</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">陈登原	</div>
@@ -172,5 +153,187 @@ Undefined
   <div class="csl-entry">萧钰	</div>
   <div class="csl-entry">李强	</div>
   <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office	</div>
+  <div class="csl-entry">佚名	</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">张三	</div>
+  <div class="csl-entry">张三, 李四	</div>
+  <div class="csl-entry">Mou Weimin, McNamara Timothy P	</div>
+  <div class="csl-entry">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七	</div>
+  <div class="csl-entry">Mou Weimin, Zhang Kan, McNamara Timothy P	</div>
+  <div class="csl-entry">赵一一, 钱二, 孙三, 李四, 周五, 吴六, 郑七, 王八	</div>
+  <div class="csl-entry">Wolchik S A, West S G, Sandler I N, Tein J Y, Coatsworth D, Lengua L, Weiss L, Anderson E R, Greene S M, Griffin W A	</div>
+  <div class="csl-entry">张三, 李四	</div>
+  <div class="csl-entry">Huestegge Sujata M, Raettig Tim, Huestegge Lynn	</div>
+  <div class="csl-entry">Burin Dalila, Kilteni Konstantina, Rabuffetti Marco, Slater Mel, Pia Lorenzo	</div>
+  <div class="csl-entry">张三	</div>
+  <div class="csl-entry">张三	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">Laplace Pierre-Simon	</div>
+  <div class="csl-entry">拉普拉斯 Pierre-Simon	</div>
+  <div class="csl-entry">Klatzky Roberta	</div>
+  <div class="csl-entry">Wang Deng Feng, Cui Hong	</div>
+  <div class="csl-entry">王登峰, 崔红	</div>
+  <div class="csl-entry">Auerbach John S	</div>
+  <div class="csl-entry">Lichstein Kenneth L, Johnson Ronald S	</div>
+  <div class="csl-entry">Lanktree Cheryl B, Briere John N	</div>
+  <div class="csl-entry">Ruby John, Fulton Cain	</div>
+  <div class="csl-entry">Australian Bureau of Statistics	</div>
+  <div class="csl-entry">Mitchell Terence R, Larson James R	</div>
+  <div class="csl-entry">Bergmann P G	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">Yu Lin	</div>
+  <div class="csl-entry">余林	</div>
+  <div class="csl-entry">邱颖文	</div>
+  <div class="csl-entry">张三, 李四	</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">赵景深	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">蒋大兴	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">实藤惠秀	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">狄葆贤	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">杜威·佛克马	</div>
+  <div class="csl-entry">鲁迅	</div>
+  <div class="csl-entry">唐振常	</div>
+  <div class="csl-entry">李鹏程	</div>
+  <div class="csl-entry">楼适夷	</div>
+  <div class="csl-entry">黄仁宇	</div>
+  <div class="csl-entry">姚际恒	</div>
+  <div class="csl-entry">毛祥麟	</div>
+  <div class="csl-entry">杨钟羲	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">管志道	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">何龄修	</div>
+  <div class="csl-entry">汪疑今	</div>
+  <div class="csl-entry">魏丽英	</div>
+  <div class="csl-entry">黄义豪	</div>
+  <div class="csl-entry">倪素香	</div>
+  <div class="csl-entry">李眉	</div>
+  <div class="csl-entry">伤心人（麦孟华）	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">方明东	</div>
+  <div class="csl-entry">任东来	</div>
+  <div class="csl-entry">任东来	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">王明亮	</div>
+  <div class="csl-entry">扬之水	</div>
+  <div class="csl-entry">Brooks Peter	</div>
+  <div class="csl-entry">Polo Marco	</div>
+  <div class="csl-entry">Chamberlain Heath B	</div>
+  <div class="csl-entry">Schfield R S	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">实藤惠秀	</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">王名扬	</div>
+  <div class="csl-entry">张新宝	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">[美]富勒	</div>
+  <div class="csl-entry">季卫东	</div>
+  <div class="csl-entry">王保树	</div>
+  <div class="csl-entry">[德]莱纳·沃尔夫	</div>
+  <div class="csl-entry">何海波	</div>
+  <div class="csl-entry">汪波	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">赵耀彤	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">李松锋	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">国务院	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">Reich Charles A	</div>
+  <div class="csl-entry">Brandeis Louis D	</div>
+  <div class="csl-entry">Alford William	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">罗豪才, 袁曙宏, 李文栋	</div>
+  <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗	</div>
+  <div class="csl-entry">邓小平	</div>
+  <div class="csl-entry">[英]劳特派特	</div>
+  <div class="csl-entry">全国人大常委会	</div>
+  <div class="csl-entry">全国人大常委会	</div>
+  <div class="csl-entry">全国人大常委会	</div>
+  <div class="csl-entry">最高人民法院, 最高人民检察院	</div>
+  <div class="csl-entry">全国人大常委会	</div>
+  <div class="csl-entry">国务院	</div>
+  <div class="csl-entry">最高人民法院	</div>
+  <div class="csl-entry">国务院	</div>
+  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会	</div>
+  <div class="csl-entry">信春鹰	</div>
+  <div class="csl-entry">中国共产党中央委员会	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">Barbara Ward	</div>
+  <div class="csl-entry">Rosenthal Andrew	</div>
+  <div class="csl-entry">Habermas Jürgen	</div>
+  <div class="csl-entry">Horsley Jamie	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">McDonell Stephen	</div>
+  <div class="csl-entry">Chevallier Marc	</div>
+  <div class="csl-entry">Poisson Marc	</div>
+  <div class="csl-entry">Badiou-Monferran Claire	</div>
+  <div class="csl-entry">Poisson Marc	</div>
+  <div class="csl-entry">Poisson Marc	</div>
+  <div class="csl-entry">Poisson Marc	</div>
+  <div class="csl-entry">Poisson Marc	</div>
+  <div class="csl-entry">Joyeux-Prunel Béatrice	</div>
+  <div class="csl-entry">Vogel Benjamin	</div>
+  <div class="csl-entry">Würdinger Markus	</div>
+  <div class="csl-entry">Fischer Thomas	</div>
+  <div class="csl-entry">Roxin Claus	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">Schwab Martin	</div>
+  <div class="csl-entry">Kaufmann Arthur	</div>
+  <div class="csl-entry">Canaris Claus-Wilhelm	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">Meidenbauer Martin	</div>
+  <div class="csl-entry">我妻栄	</div>
+  <div class="csl-entry">我妻栄, 有泉亨	</div>
+  <div class="csl-entry">於保不二雄	</div>
+  <div class="csl-entry">佐藤英明	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">佚名	</div>
+  <div class="csl-entry">欧中坦	</div>
   <div class="csl-entry">佚名	</div>
 </div>

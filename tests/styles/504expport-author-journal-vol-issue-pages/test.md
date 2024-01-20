@@ -12,16 +12,6 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
@@ -33,16 +23,7 @@ Undefined
 <sup>[1,2,4]</sup><br>
 <sup>[1–3]</sup><br>
 
-### 参考文献表
-
-<div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	Sunstein. Columbia Law Review, 1996, 96: 903.</div>
-  <div class="csl-entry">[2]	Morri. . New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[3]	罗杰斯. . 潘惠霞等, 译. 大连: 东北财经大学出版社, 2011: 15–16.</div>
-  <div class="csl-entry">[4]	陈. . 北京: 中华书局, 2000: 29.</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	陈. . 北京: 中华书局, 2000: 29.</div>
@@ -173,4 +154,186 @@ Undefined
   <div class="csl-entry">[126]	李. . (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. . ([no date])[2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
   <div class="csl-entry">[128]	Anonymous. . (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	张. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[2]	张等. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[3]	Mou et al. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162–170.</div>
+  <div class="csl-entry">[4]	赵等. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[5]	Mou et al. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171–180.</div>
+  <div class="csl-entry">[6]	赵等. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[7]	Wolchik et al. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843–856.</div>
+  <div class="csl-entry">[8]	张等. 心理学报, [日期不详].</div>
+  <div class="csl-entry">[9]	Huestegge et al. 2019. .</div>
+  <div class="csl-entry">[10]	Burin et al. PLoS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[11]	张. 心理学报, 2008, 40(增刊): 210–215.</div>
+  <div class="csl-entry">[12]	张. . 北京: 未名出版社, 2008: 450.</div>
+  <div class="csl-entry">[13]	佚名. . 张三, 编. 北京: 未名出版社, 2008: 450.</div>
+  <div class="csl-entry">[14]	Anonymous. . Gibbs J T et al., eds.. Hoboken,  NJ,  US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[15]	Laplace. . Truscott F W et al., trans.. Dover, 1951.</div>
+  <div class="csl-entry">[16]	拉普拉斯. . 张三等, 译. 北京: 未名出版社, 1951.</div>
+  <div class="csl-entry">[17]	Klatzky. . Freksa C et al., eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial Knowledge. Springer-Verlag, 1998: 1–17.</div>
+  <div class="csl-entry">[18]	Wang et al. . Wang D F et al., eds.//Selected papers on personality and social Psychology. Beijing: Peking University Press, 2004: 46–84.</div>
+  <div class="csl-entry">[19]	王等. . 王登峰等, 编//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46–84.</div>
+  <div class="csl-entry">[20]	Auerbach. . Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social Development. 4 edition. Washington,  DC,  US: Wiley, 1993: 43–110.</div>
+  <div class="csl-entry">[21]	Lichstein et al. //Reducing medication in geriatric Populations. .</div>
+  <div class="csl-entry">[22]	Lanktree et al. . .</div>
+  <div class="csl-entry">[23]	Ruby et al. . .</div>
+  <div class="csl-entry">[24]	Australian Bureau of Statistics. . (1991) .</div>
+  <div class="csl-entry">[25]	Mitchell et al. . 3 edition. New York: McGraw-Hill, 1987: 602.</div>
+  <div class="csl-entry">[26]	Bergmann. . New York: Encyclopedia Britannica, 1993: 501–508(1993).</div>
+  <div class="csl-entry">[27]	Anonymous. . Sadie S, ed.. 6 edition. London : New York: Macmillan, 1980: 29.</div>
+  <div class="csl-entry">[28]	佚名. . 李行健, 编. 北京: 外语教学与研究出版社, 2004: 255.</div>
+  <div class="csl-entry">[29]	佚名. . 北京: 北京语言学院出版社, 1986.</div>
+  <div class="csl-entry">[30]	Yu. . Beijing Normal University, 2000.</div>
+  <div class="csl-entry">[31]	余. . 北京师范大学, 2000.</div>
+  <div class="csl-entry">[32]	邱. . 上海: 华东师范大学, 2009.</div>
+  <div class="csl-entry">[33]	张等. 新华日报, 2008: 2, 5–7.</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	赵景深. . 上海: 北新书局, 1948.</div>
+  <div class="csl-entry">[2]	佚名. . 西安: 西北大学出版社, 1986.</div>
+  <div class="csl-entry">[3]	蒋大兴. . 北京: 法律出版社, 2001.</div>
+  <div class="csl-entry">[4]	佚名. . 任继愈, 编. 北京: 人民出版社, 1983.</div>
+  <div class="csl-entry">[5]	实藤惠秀. . 谭汝谦等, 译. 香港: 香港中文大学出版社, 1982.</div>
+  <div class="csl-entry">[6]	佚名. . 金冲及, 编. 北京: 人民出版社、中央文献出版社, 1989.</div>
+  <div class="csl-entry">[7]	佚名. . 北京: 全国图书馆文献缩微复制中心, 1998.</div>
+  <div class="csl-entry">[8]	狄葆贤. . 上海: 有正书局, [日期不详].</div>
+  <div class="csl-entry">[9]	佚名. . 北京: 人民出版社, 1998.</div>
+  <div class="csl-entry">[10]	杜威·佛克马. . 王宁等, 编//全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247–266.</div>
+  <div class="csl-entry">[11]	鲁迅. //鲁迅全集. 北京: 人民文学出版社, 1981: 325.</div>
+  <div class="csl-entry">[12]	唐振常. //识史集. 上海: 上海古籍出版社, 1997: 65.</div>
+  <div class="csl-entry">[13]	李鹏程. . 北京: 人民出版社, 1994.</div>
+  <div class="csl-entry">[14]	楼适夷. . 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998: 2.</div>
+  <div class="csl-entry">[15]	黄仁宇. //中国大历史. 北京: 三联书店, 1997: 2.</div>
+  <div class="csl-entry">[16]	姚际恒. ([日期不详]).</div>
+  <div class="csl-entry">[17]	毛祥麟. . 上海: 上海古籍出版社, 1985(1985).</div>
+  <div class="csl-entry">[18]	杨钟羲. . 沈阳: 辽沈书社, 1991(1991).</div>
+  <div class="csl-entry">[19]	佚名. . 北京: 中华书局, 1985(1985).</div>
+  <div class="csl-entry">[20]	管志道. . 济南: 齐鲁书社, 1997(1997).</div>
+  <div class="csl-entry">[21]	佚名. ([日期不详]).</div>
+  <div class="csl-entry">[22]	佚名. ([日期不详]).</div>
+  <div class="csl-entry">[23]	佚名. . 北京: 中国书店, 1992(1992).</div>
+  <div class="csl-entry">[24]	佚名. . 北京: 中华书局, 1975(1975).</div>
+  <div class="csl-entry">[25]	佚名. . 上海: 上海古籍出版社, 1983(1983).</div>
+  <div class="csl-entry">[26]	佚名. . 北京: 中华书局, 1987(1987).</div>
+  <div class="csl-entry">[27]	何龄修. 中国史研究, 1998(3).</div>
+  <div class="csl-entry">[28]	汪疑今. 中国经济, 1936, 4(6).</div>
+  <div class="csl-entry">[29]	魏丽英. 社会科学, 1990(6).</div>
+  <div class="csl-entry">[30]	黄义豪. 福建论坛, 1997(3).</div>
+  <div class="csl-entry">[31]	倪素香. 武汉大学学报, 2002(4).</div>
+  <div class="csl-entry">[32]	李眉. 四川工人日报, 1986: 2.</div>
+  <div class="csl-entry">[33]	伤心人（麦孟华）. 清议报, [日期不详], 第69册: 第1页.</div>
+  <div class="csl-entry">[34]	佚名. 广益丛报, 1910(第8年第19期): 1–2.</div>
+  <div class="csl-entry">[35]	佚名. 民国日报, 1925: 4.</div>
+  <div class="csl-entry">[36]	佚名. 民国日报, 1933: 第1张第4版.</div>
+  <div class="csl-entry">[37]	方明东. . 北京师范大学历史系, 2000.</div>
+  <div class="csl-entry">[38]	任东来. . .</div>
+  <div class="csl-entry">[39]	任东来. //全球化与亚太区域化国际研讨会论文集. .</div>
+  <div class="csl-entry">[40]	佚名. (1917-09-15).</div>
+  <div class="csl-entry">[41]	佚名. (1950-07).</div>
+  <div class="csl-entry">[42]	王明亮. . (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
+  <div class="csl-entry">[43]	扬之水. . . 《文学遗产通讯》（网络版试刊）2006年第1期. ([日期不详])[2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
+  <div class="csl-entry">[44]	Brooks. . Chicago: University of Chicago Press, 2000.</div>
+  <div class="csl-entry">[45]	Polo. . Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[46]	Chamberlain. Modern China, 1993, 19(2): 199–215.</div>
+  <div class="csl-entry">[47]	Schfield. . Rotberg R I et al., eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
+  <div class="csl-entry">[48]	Anonymous. (1969-02-01).</div>
+  <div class="csl-entry">[49]	佚名. . 彼得·卡赞斯坦等, 编. 秦亚青等, 译. 上海: 上海人民出版社, 2006: 484.</div>
+  <div class="csl-entry">[50]	实藤惠秀. . 谭汝谦等, 译. 香港: 香港中文大学出版社, 1982.</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	王名扬. . 北京大学出版社, 2007.</div>
+  <div class="csl-entry">[2]	张新宝. . 4 版. 中国人民大学出版社, 2016.</div>
+  <div class="csl-entry">[3]	佚名. . 高鸿钧等, 编. 北京大学出版社, 2013.</div>
+  <div class="csl-entry">[4]	[美]富勒. . 郑戈, 译. 商务印书馆, 2005.</div>
+  <div class="csl-entry">[5]	季卫东. 中国社会科学, 1993(1).</div>
+  <div class="csl-entry">[6]	王保树. . 梁慧星, 编//民商法论丛. 法律出版社, 1994: 110.</div>
+  <div class="csl-entry">[7]	[德]莱纳·沃尔夫. . 刘刚, 编. 陈霄, 译//风险规制：德国的理论与实践. 法律出版社, 2012.</div>
+  <div class="csl-entry">[8]	何海波. 法制日报, 2000: 2.</div>
+  <div class="csl-entry">[9]	汪波. . . 人民网. (2004-01-10)[2022-05-03]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>.</div>
+  <div class="csl-entry">[10]	佚名. . . 新华网. ([日期不详]). <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
+  <div class="csl-entry">[11]	赵耀彤. . . 中国法律评论. (2018-12-01)[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
+  <div class="csl-entry">[12]	佚名. . ([日期不详])[2016-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
+  <div class="csl-entry">[13]	李松锋. . 中国政法大学, 2015.</div>
+  <div class="csl-entry">[14]	佚名. .</div>
+  <div class="csl-entry">[15]	国务院. (2007-07-11).</div>
+  <div class="csl-entry">[16]	佚名. ([日期不详]).</div>
+  <div class="csl-entry">[17]	佚名. (2015-07-06).</div>
+  <div class="csl-entry">[18]	Reich. Yale Law Journal, 1964, 73(5): 733–787.</div>
+  <div class="csl-entry">[19]	Brandeis. Harper’s Weekly, 1913: 10.</div>
+  <div class="csl-entry">[20]	Alford. . Stanford University Press, 1995.</div>
+  <div class="csl-entry">[21]	佚名. . 应松年等, 编. 中国法制出版社, 2006.</div>
+  <div class="csl-entry">[22]	Anonymous. (1987).</div>
+  <div class="csl-entry">[23]	罗豪才等. 中国法学, 1993(1): 52–59.</div>
+  <div class="csl-entry">[24]	夏新华等. . 中国政法大学出版社, 2004: 1159.</div>
+  <div class="csl-entry">[25]	邓小平. //邓小平文选. 2 版. 人民出版社, 1994.</div>
+  <div class="csl-entry">[26]	[英]劳特派特. . 王铁崖等, 译. 8 版. 商务印书馆, 1971.</div>
+  <div class="csl-entry">[27]	全国人大常委会. .</div>
+  <div class="csl-entry">[28]	全国人大常委会. 2005年修订 版. .</div>
+  <div class="csl-entry">[29]	全国人大常委会. 2013年修正 版. .</div>
+  <div class="csl-entry">[30]	最高人民法院等. (1993-11-12).</div>
+  <div class="csl-entry">[31]	全国人大常委会. .</div>
+  <div class="csl-entry">[32]	国务院. (2007-07-11).</div>
+  <div class="csl-entry">[33]	最高人民法院. (2018-02-06).</div>
+  <div class="csl-entry">[34]	国务院. (2018-06-27).</div>
+  <div class="csl-entry">[35]	国家质量监督检验检疫总局等. .</div>
+  <div class="csl-entry">[36]	信春鹰. . (2013-12-23) . [2023-06-19]. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.</div>
+  <div class="csl-entry">[37]	中国共产党中央委员会. (2014-10-23).</div>
+  <div class="csl-entry">[38]	佚名. (2013-02-08).</div>
+  <div class="csl-entry">[39]	佚名. (2017-12-16).</div>
+  <div class="csl-entry">[40]	Barbara Ward. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
+  <div class="csl-entry">[41]	Rosenthal. New York Times, 1990: A1.</div>
+  <div class="csl-entry">[42]	Habermas. . Rehg W, tran.. MIT Press, 1996: 676.</div>
+  <div class="csl-entry">[43]	Horsley. . Bergsten C F et al., eds.//China: The balance Sheet. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">[44]	Anonymous. . Stat., 1966, 80: 931, 944–947.</div>
+  <div class="csl-entry">[45]	Anonymous. . U.S.C., 2006, 5.</div>
+  <div class="csl-entry">[46]	Anonymous. (1982).</div>
+  <div class="csl-entry">[47]	Anonymous. (1984).</div>
+  <div class="csl-entry">[48]	Anonymous. (1973).</div>
+  <div class="csl-entry">[49]	Anonymous. ([no date]).</div>
+  <div class="csl-entry">[50]	McDonell. . . BBC News. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
+  <div class="csl-entry">[51]	Chevallier. . 4 版. Paris: Montchrestien, 2003.</div>
+  <div class="csl-entry">[52]	Poisson. RGDIP, 2015: 15–47.</div>
+  <div class="csl-entry">[53]	Badiou-Monferran. La Licorne, 1997(43): 75–94.</div>
+  <div class="csl-entry">[54]	Poisson. //Le droit des Océans. Éditions de la mer 版. .</div>
+  <div class="csl-entry">[55]	Poisson. . (2016-07) .</div>
+  <div class="csl-entry">[56]	Poisson. . (2016-08) .</div>
+  <div class="csl-entry">[57]	Poisson. . l’Université de Marseille, 2016.</div>
+  <div class="csl-entry">[58]	Joyeux-Prunel. . . Histoire &#38; mesure, vol. XXIII, n° 2, 2008. ([日期不详])[2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
+  <div class="csl-entry">[59]	Vogel. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629–649.</div>
+  <div class="csl-entry">[60]	Würdinger. Juristische Schulung, 2012(3): 234–240.</div>
+  <div class="csl-entry">[61]	Fischer. Die Zeit, 2015.</div>
+  <div class="csl-entry">[62]	Roxin. . 4 版. C. H. Beck, 2006: 1136.</div>
+  <div class="csl-entry">[63]	佚名. . Dreier R等, 编. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003: 286.</div>
+  <div class="csl-entry">[64]	Schwab. //Münchener Kommentar BGB. 6 版. .</div>
+  <div class="csl-entry">[65]	Kaufmann. . Baumann J, 编//Das Abtreibungsverbot des § 218 StGB. 2 版. .</div>
+  <div class="csl-entry">[66]	Canaris. . .</div>
+  <div class="csl-entry">[67]	佚名. .</div>
+  <div class="csl-entry">[68]	佚名. .</div>
+  <div class="csl-entry">[69]	佚名. .</div>
+  <div class="csl-entry">[70]	佚名. ([日期不详]).</div>
+  <div class="csl-entry">[71]	佚名. (1999).</div>
+  <div class="csl-entry">[72]	佚名. (2000).</div>
+  <div class="csl-entry">[73]	Meidenbauer. . ([日期不详])[2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
+  <div class="csl-entry">[74]	我妻栄. . 有斐閣, 1971.</div>
+  <div class="csl-entry">[75]	我妻栄等. . 日本評論社, 1950.</div>
+  <div class="csl-entry">[76]	於保不二雄. 民商法雑誌, 1954, 29(5): 1.</div>
+  <div class="csl-entry">[77]	佐藤英明. . 金子宏等, 编//租税法と市場. 有斐閣, 2014: 220.</div>
+  <div class="csl-entry">[78]	佚名. (1919-03-03).</div>
+  <div class="csl-entry">[79]	佚名. (1982-07-15).</div>
+  <div class="csl-entry">[80]	佚名. .</div>
+  <div class="csl-entry">[81]	佚名. ([日期不详]).</div>
+  <div class="csl-entry">[82]	佚名. . ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
+  <div class="csl-entry">[83]	欧中坦. . 高道蕴等, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
+  <div class="csl-entry">[84]	佚名. . . 新华网. ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
 </div>

@@ -12,16 +12,6 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
@@ -33,16 +23,7 @@ Undefined
 <sup>[1,2,4]</sup><br>
 <sup>[1–3]</sup><br>
 
-### 参考文献表
-
-<div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">Social norms and social roles	</div>
-  <div class="csl-entry">Why the west rules for now: the patterns of history, and what they reveal about the future	</div>
-  <div class="csl-entry">西方文明史: 问题与源头	</div>
-  <div class="csl-entry">国史旧闻	</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">国史旧闻	</div>
@@ -173,4 +154,186 @@ Undefined
   <div class="csl-entry">化解医患矛盾需釜底抽薪	</div>
   <div class="csl-entry">Pennsylvania library laws	</div>
   <div class="csl-entry">Dublin core metadata element set: version 1.1	</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">中国心理学的过去与未来	</div>
+  <div class="csl-entry">中国心理学的过去与未来	</div>
+  <div class="csl-entry">Intrinsic frames of reference in spatial memory.	</div>
+  <div class="csl-entry">中国心理学的过去与未来	</div>
+  <div class="csl-entry">Frames of reference in spatial memories acquired from language	</div>
+  <div class="csl-entry">中国心理学的过去与未来	</div>
+  <div class="csl-entry">An experimental evaluation of theory-based mother and mother-child programs for children of divorce	</div>
+  <div class="csl-entry">中国心理学的过去与未来	</div>
+  <div class="csl-entry">Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing	</div>
+  <div class="csl-entry">Body ownership increases the interference between observed and executed movements.	</div>
+  <div class="csl-entry">中国心理学的过去与未来	</div>
+  <div class="csl-entry">心理学史	</div>
+  <div class="csl-entry">心理学史	</div>
+  <div class="csl-entry">Children of color: Psychological interventions with minority youth.	</div>
+  <div class="csl-entry">A philosophical essay on probabilities	</div>
+  <div class="csl-entry">概率哲学	</div>
+  <div class="csl-entry">Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections	</div>
+  <div class="csl-entry">Theoretical analysis of the seven factor model of Chinese personality	</div>
+  <div class="csl-entry">中国人“大七”人格结构的理论分析	</div>
+  <div class="csl-entry">The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation	</div>
+  <div class="csl-entry">Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs	</div>
+  <div class="csl-entry">Early data on the Trauma Symptom Checklist for Children (TSC-C)	</div>
+  <div class="csl-entry">Beyond redlining: Editing software that works	</div>
+  <div class="csl-entry">Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1	</div>
+  <div class="csl-entry">People in organizations: An introduction to organizational behavior	</div>
+  <div class="csl-entry">Relativity	</div>
+  <div class="csl-entry">The new Grove dictionary of music and musicians	</div>
+  <div class="csl-entry">现代汉语规范辞典	</div>
+  <div class="csl-entry">现代汉语频率词典	</div>
+  <div class="csl-entry">Phonological representation and processing in Chinese spoken language production	</div>
+  <div class="csl-entry">汉语语言产生中的语音表征与加工	</div>
+  <div class="csl-entry">遗传与语言学习	</div>
+  <div class="csl-entry">中国心理学与奥林匹克	</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">文坛忆旧	</div>
+  <div class="csl-entry">荣庆日记	</div>
+  <div class="csl-entry">公司法的展开与评判——方法·判例·制度	</div>
+  <div class="csl-entry">中国哲学发展史（先秦卷）	</div>
+  <div class="csl-entry">中国人留学日本史	</div>
+  <div class="csl-entry">周恩来传	</div>
+  <div class="csl-entry">晚清洋务运动事类汇钞五十七种	</div>
+  <div class="csl-entry">平等阁笔记	</div>
+  <div class="csl-entry">马克思恩格斯全集	</div>
+  <div class="csl-entry">走向新世界主义	</div>
+  <div class="csl-entry">中国小说的历史的变迁	</div>
+  <div class="csl-entry">师承与变法	</div>
+  <div class="csl-entry">当代文化哲学沉思	</div>
+  <div class="csl-entry">读家书，想傅雷（代序）	</div>
+  <div class="csl-entry">为什么称为“中国大历史”？——中文版自序	</div>
+  <div class="csl-entry">古今伪书考	</div>
+  <div class="csl-entry">墨余录	</div>
+  <div class="csl-entry">雪桥诗话续集	</div>
+  <div class="csl-entry">太平御览	</div>
+  <div class="csl-entry">答屠仪部赤水丈书	</div>
+  <div class="csl-entry">嘉定县志	</div>
+  <div class="csl-entry">上海县续志	</div>
+  <div class="csl-entry">广东通志	</div>
+  <div class="csl-entry">旧唐书	</div>
+  <div class="csl-entry">方苞集	</div>
+  <div class="csl-entry">清德宗实录	</div>
+  <div class="csl-entry">读顾诚〈南明史〉	</div>
+  <div class="csl-entry">江苏的小农及其副业	</div>
+  <div class="csl-entry">论近代西北人口波动的主要原因	</div>
+  <div class="csl-entry">评黄龟年四劾秦桧	</div>
+  <div class="csl-entry">德育学科的比较研究与理论探索	</div>
+  <div class="csl-entry">李劼人轶事	</div>
+  <div class="csl-entry">说奴隶	</div>
+  <div class="csl-entry">四川会议厅暂行章程	</div>
+  <div class="csl-entry">上海各路商界总联合会致外交部电	</div>
+  <div class="csl-entry">西南中委反对在宁召开五全会	</div>
+  <div class="csl-entry">罗隆基政治思想研究（1913—1949）	</div>
+  <div class="csl-entry">对国际体制和国际制度的理解和翻译	</div>
+  <div class="csl-entry">对国际体制和国际制度的理解和翻译	</div>
+  <div class="csl-entry">傅良佐致国务院电	</div>
+  <div class="csl-entry">党外人士座谈会记录	</div>
+  <div class="csl-entry">关于中国学术期刊标准化数据库系统工程的进展	</div>
+  <div class="csl-entry">两宋茶诗与茶事	</div>
+  <div class="csl-entry">Troubling confessions: Speaking guilt in law and literature	</div>
+  <div class="csl-entry">The travels of Marco Polo	</div>
+  <div class="csl-entry">On the search for civil society in China	</div>
+  <div class="csl-entry">The impact of scarcity and plenty on population change in England	</div>
+  <div class="csl-entry">Nixon to Kissinger	</div>
+  <div class="csl-entry">世界政治理论的探索与争鸣	</div>
+  <div class="csl-entry">中国人留学日本史	</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">美国行政法	</div>
+  <div class="csl-entry">侵权责任法	</div>
+  <div class="csl-entry">英美法原论	</div>
+  <div class="csl-entry">法律的道德性	</div>
+  <div class="csl-entry">法律程序的意义：对中国法制建设的另一种思考	</div>
+  <div class="csl-entry">股份有限公司机关构造中的董事和董事会	</div>
+  <div class="csl-entry">风险法的风险	</div>
+  <div class="csl-entry">判决书上网	</div>
+  <div class="csl-entry">哈尔滨市政法机关正对“宝马案”认真调查复查	</div>
+  <div class="csl-entry">被告人李宁、张磊贪污案一审开庭	</div>
+  <div class="csl-entry">一名基层法官眼里好律师的样子	</div>
+  <div class="csl-entry">法国行政法院网站	</div>
+  <div class="csl-entry">游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究	</div>
+  <div class="csl-entry">民法总则	</div>
+  <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知	</div>
+  <div class="csl-entry">包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号	</div>
+  <div class="csl-entry">陆红霞诉南通市发改委政府信息公开案	</div>
+  <div class="csl-entry">The new property	</div>
+  <div class="csl-entry">What publicity can do	</div>
+  <div class="csl-entry">To steal a book is an elegant offense: Intellectual property law in Chinese civilization	</div>
+  <div class="csl-entry">当代中国行政法的源流：王名扬教授九十华诞贺寿文集	</div>
+  <div class="csl-entry">R. v. Panel on Take-overs and Mergers	</div>
+  <div class="csl-entry">现代行政法的理论基础——论行政机关与相对一方的权利义务平衡	</div>
+  <div class="csl-entry">近代中国宪政历程	</div>
+  <div class="csl-entry">精简机构是一场革命	</div>
+  <div class="csl-entry">奥本海国际法	</div>
+  <div class="csl-entry">中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号	</div>
+  <div class="csl-entry">中华人民共和国公司法	</div>
+  <div class="csl-entry">中华人民共和国公司法	</div>
+  <div class="csl-entry">最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知	</div>
+  <div class="csl-entry">全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定	</div>
+  <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知	</div>
+  <div class="csl-entry">最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释	</div>
+  <div class="csl-entry">国务院关于印发打赢蓝天保卫战三年行动计划的通知	</div>
+  <div class="csl-entry">信息与文献 参考文献著录规则: GB/T 7714—2015	</div>
+  <div class="csl-entry">关于《中华人民共和国行政诉讼法修正案（草案）》的说明	</div>
+  <div class="csl-entry">中共中央关于全面推进依法治国若干重大问题的决定	</div>
+  <div class="csl-entry">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号	</div>
+  <div class="csl-entry">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号	</div>
+  <div class="csl-entry">Progress for a small planet	</div>
+  <div class="csl-entry">White House tutors Kremlin in how a presidency works	</div>
+  <div class="csl-entry">Between facts and norms: contributions to a discourse theory of law and democracy	</div>
+  <div class="csl-entry">Rule of law in China: incremental progress	</div>
+  <div class="csl-entry">Department of Transportation Act: 89-670	</div>
+  <div class="csl-entry">Administrative Procedure Act § 6	</div>
+  <div class="csl-entry">Natural Resources Defense Council <i>v.</i> Gorsuch	</div>
+  <div class="csl-entry">Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council	</div>
+  <div class="csl-entry">Roe <i>v.</i> Wade	</div>
+  <div class="csl-entry">United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK	</div>
+  <div class="csl-entry">When China began streaming trials online	</div>
+  <div class="csl-entry">L’État de droit	</div>
+  <div class="csl-entry">Le droit de la mer	</div>
+  <div class="csl-entry">La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle	</div>
+  <div class="csl-entry">Le droit de la mer	</div>
+  <div class="csl-entry">Le droit de la mer en Méditerranée	</div>
+  <div class="csl-entry">Le droit de la mer en Méditerranée: 1202	</div>
+  <div class="csl-entry">Le droit de la mer appliqué à la Méditerranée	</div>
+  <div class="csl-entry">L’histoire de l’art et le quantitatif	</div>
+  <div class="csl-entry">Rechtsgüterschutz und Normgeltung	</div>
+  <div class="csl-entry">Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts	</div>
+  <div class="csl-entry">Absurdes Spektakel um den Tod	</div>
+  <div class="csl-entry">Strafrecht Allgemeiner Teil	</div>
+  <div class="csl-entry">Rechtsphilosophie Studienausgabe	</div>
+  <div class="csl-entry">64. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht	</div>
+  <div class="csl-entry">Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen	</div>
+  <div class="csl-entry">StGB	</div>
+  <div class="csl-entry">StPO	</div>
+  <div class="csl-entry">GG	</div>
+  <div class="csl-entry">Strauß-Karikatur, Kunstfreiheit	</div>
+  <div class="csl-entry">71. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">72. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">Wissenschaftliches Publizieren	</div>
+  <div class="csl-entry">新訂担保物権法	</div>
+  <div class="csl-entry">民法総則物権法	</div>
+  <div class="csl-entry">付加物及び従物と抵当権	</div>
+  <div class="csl-entry">一時所得の要件に関する覚書	</div>
+  <div class="csl-entry">信玄公旗掛松事件	</div>
+  <div class="csl-entry">約束手形金	</div>
+  <div class="csl-entry">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律	</div>
+  <div class="csl-entry">平成26年版犯罪白書	</div>
+  <div class="csl-entry">ジュリスト	</div>
+  <div class="csl-entry">千方百计上京城：清朝的京控	</div>
+  <div class="csl-entry">温家宝主持国务院会议 研究房地产业健康发展措施	</div>
 </div>

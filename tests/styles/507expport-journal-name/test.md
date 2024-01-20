@@ -12,23 +12,29 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
 
 [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
+[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
@@ -36,20 +42,7 @@ Undefined
 [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
 
-### 参考文献表
-
-<div class="csl-bib-body">
-  <div class="csl-entry">汉语方言的地理语言学研究</div>
-  <div class="csl-entry">中国图书馆学会年会论文集</div>
-  <div class="csl-entry">Sedimentology</div>
-  <div class="csl-entry">Lethaia</div>
-  <div class="csl-entry">山西师范大学学报(社会科学版)</div>
-  <div class="csl-entry">Biology</div>
-  <div class="csl-entry">中国震旦亚界</div>
-  <div class="csl-entry">Nature</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body">
   <div class="csl-entry">船山全书</div>
@@ -101,4 +94,98 @@ Undefined
   <div class="csl-entry">大众科技报</div>
   <div class="csl-entry">北京青年报</div>
   <div class="csl-entry">人民日报</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">心理学报</div>
+  <div class="csl-entry">心理学报</div>
+  <div class="csl-entry">Journal of Experimental Psychology: Learning, Memory, and Cognition</div>
+  <div class="csl-entry">心理学报</div>
+  <div class="csl-entry">Journal of Experimental Psychology: Learning, Memory, and Cognition</div>
+  <div class="csl-entry">心理学报</div>
+  <div class="csl-entry">Journal of Consulting and Clinical Psychology</div>
+  <div class="csl-entry">心理学报</div>
+  <div class="csl-entry">PLoS ONE</div>
+  <div class="csl-entry">心理学报</div>
+  <div class="csl-entry">Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</div>
+  <div class="csl-entry">Selected papers on personality and social psychology</div>
+  <div class="csl-entry">人格与社会心理学论丛</div>
+  <div class="csl-entry">Handbook of child psychology: Vol. 4. Socialization, personality, and social development</div>
+  <div class="csl-entry">Reducing medication in geriatric populations</div>
+  <div class="csl-entry">The new encyclopedia Britannica</div>
+  <div class="csl-entry">新华日报</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">全球化与后殖民批评</div>
+  <div class="csl-entry">鲁迅全集</div>
+  <div class="csl-entry">识史集</div>
+  <div class="csl-entry">傅雷家书</div>
+  <div class="csl-entry">中国大历史</div>
+  <div class="csl-entry">续问辨牍</div>
+  <div class="csl-entry">稀见中国地方志汇刊</div>
+  <div class="csl-entry">中国史研究</div>
+  <div class="csl-entry">中国经济</div>
+  <div class="csl-entry">社会科学</div>
+  <div class="csl-entry">福建论坛</div>
+  <div class="csl-entry">武汉大学学报</div>
+  <div class="csl-entry">四川工人日报</div>
+  <div class="csl-entry">清议报</div>
+  <div class="csl-entry">广益丛报</div>
+  <div class="csl-entry">民国日报</div>
+  <div class="csl-entry">民国日报</div>
+  <div class="csl-entry">全球化与亚太区域化国际研讨会论文集</div>
+  <div class="csl-entry">《文学遗产通讯》（网络版试刊）2006年第1期</div>
+  <div class="csl-entry">Modern China</div>
+  <div class="csl-entry">Hunger and history: The impact of changing food production and consumption pattern on society</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">中国社会科学</div>
+  <div class="csl-entry">民商法论丛</div>
+  <div class="csl-entry">风险规制：德国的理论与实践</div>
+  <div class="csl-entry">法制日报</div>
+  <div class="csl-entry">人民网</div>
+  <div class="csl-entry">新华网</div>
+  <div class="csl-entry">中国法律评论</div>
+  <div class="csl-entry">最高人民法院公报</div>
+  <div class="csl-entry">Yale Law Journal</div>
+  <div class="csl-entry">Harper’s Weekly</div>
+  <div class="csl-entry">QB</div>
+  <div class="csl-entry">中国法学</div>
+  <div class="csl-entry">邓小平文选</div>
+  <div class="csl-entry">最高人民法院公报</div>
+  <div class="csl-entry">Harvard Business Review</div>
+  <div class="csl-entry">New York Times</div>
+  <div class="csl-entry">China: The balance sheet</div>
+  <div class="csl-entry">Stat.</div>
+  <div class="csl-entry">U.S.C.</div>
+  <div class="csl-entry">F.2d</div>
+  <div class="csl-entry">U.S.</div>
+  <div class="csl-entry">U.S.</div>
+  <div class="csl-entry">BBC News</div>
+  <div class="csl-entry">RGDIP</div>
+  <div class="csl-entry">La Licorne</div>
+  <div class="csl-entry">Le droit des Océans</div>
+  <div class="csl-entry">Histoire &#38; mesure, vol. XXIII, n° 2, 2008</div>
+  <div class="csl-entry">Zeitschrift für die gesamte Strafrechtswissenschaft</div>
+  <div class="csl-entry">Juristische Schulung</div>
+  <div class="csl-entry">Die Zeit</div>
+  <div class="csl-entry">Münchener Kommentar BGB</div>
+  <div class="csl-entry">Das Abtreibungsverbot des § 218 StGB</div>
+  <div class="csl-entry">BVerfGE</div>
+  <div class="csl-entry">NStZ-RR</div>
+  <div class="csl-entry">NJW</div>
+  <div class="csl-entry">民商法雑誌</div>
+  <div class="csl-entry">租税法と市場</div>
+  <div class="csl-entry">大審院民事判決録</div>
+  <div class="csl-entry">最高裁判所民事判例集</div>
+  <div class="csl-entry">美国学者论中国法律传统</div>
+  <div class="csl-entry">新华网</div>
 </div>

@@ -134,12 +134,12 @@ def check_groups(path: str, csl_content: str, element_tree):
             if not group.attrib:
                 warning(f'File "{path}", line {group.sourceline}: extra empty group.')
 
-    for group in root.xpath(".//cs:group", namespaces=ns):
-        children = group.getchildren()
-        if len(children) == 1 and children[0].tag != "choose":
-            warning(
-                f'File "{path}", line {group.sourceline}: Group has only one child element.'
-            )
+    # for group in root.xpath(".//cs:group", namespaces=ns):
+    #     children = group.getchildren()
+    #     if len(children) == 1 and children[0].tag != "choose":
+    #         warning(
+    #             f'File "{path}", line {group.sourceline}: Group has only one child element.'
+    #         )
 
 
 def check_macros(path: str, csl_content: str, element_tree):

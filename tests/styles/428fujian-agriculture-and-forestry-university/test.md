@@ -12,16 +12,6 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
@@ -33,16 +23,7 @@ Undefined
 <sup>[1, 2, 4]</sup><br>
 <sup>[1–3]</sup><br>
 
-### 参考文献表
-
-<div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	Sunstein C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903.</div>
-  <div class="csl-entry">[2]	Morri I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[3]	罗杰斯. 西方文明史: 问题与源头[M]. 大连: 东北财经大学出版社, 2011.</div>
-  <div class="csl-entry">[4]	陈登原. 国史旧闻[M]. 北京: 中华书局, 2000.</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	陈登原. 国史旧闻[M]. 北京: 中华书局, 2000.</div>
@@ -173,4 +154,186 @@ Undefined
   <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪[EB/OL](2012-05-03).</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]([no date]).</div>
   <div class="csl-entry">[128]	Anonymous. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14).</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
+  <div class="csl-entry">[2]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
+  <div class="csl-entry">[3]	Mou W, McNamara T P. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.</div>
+  <div class="csl-entry">[4]	赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
+  <div class="csl-entry">[5]	Mou W, Zhang K, McNamara T P. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171-180.</div>
+  <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
+  <div class="csl-entry">[7]	Wolchik S A, West S G, Sandler I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.</div>
+  <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, [日期不详].</div>
+  <div class="csl-entry">[9]	Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. 2019.</div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements.[J]. PLoS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[11]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.</div>
+  <div class="csl-entry">[12]	张三. 心理学史[M]. 北京: 未名出版社, 2008. B84-09.</div>
+  <div class="csl-entry">[13]	佚名. 心理学史[M]. 北京: 未名出版社, 2008. B84-09.</div>
+  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth.[M]. Hoboken,  NJ,  US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[15]	Laplace P-S. A philosophical essay on probabilities[M]. Dover, 1951.</div>
+  <div class="csl-entry">[16]	拉普拉斯 P-S. 概率哲学[M]. 北京: 未名出版社, 1951.</div>
+  <div class="csl-entry">[17]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
+  <div class="csl-entry">[18]	Wang D F, Cui H. Theoretical analysis of the seven factor model of Chinese personality[M]//Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46-84.</div>
+  <div class="csl-entry">[19]	王登峰, 崔红. 中国人“大七”人格结构的理论分析[M]//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46-84.</div>
+  <div class="csl-entry">[20]	Auerbach J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Handbook of child psychology: Vol. 4. Socialization, personality, and social development. Washington,  DC,  US: Wiley, 1993: 43-110.</div>
+  <div class="csl-entry">[21]	Lichstein K L, Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden: , 1990.</div>
+  <div class="csl-entry">[22]	Lanktree C B, Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//San Diego, CA: , 1991.</div>
+  <div class="csl-entry">[23]	Ruby J, Fulton C. Beyond redlining: Editing software that works[C]//Washington, DC: , 1993.</div>
+  <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory. Author. 1991.</div>
+  <div class="csl-entry">[25]	Mitchell T R, Larson J R. People in organizations: An introduction to organizational behavior[M]. New York: McGraw-Hill, 1987.</div>
+  <div class="csl-entry">[26]	Bergmann P G. Relativity[Z]. New York: Encyclopedia Britannica, 1993: 501-508(1993).</div>
+  <div class="csl-entry">[27]	Anonymous. The new Grove dictionary of music and musicians[M]. London : New York: Macmillan, 1980.</div>
+  <div class="csl-entry">[28]	佚名. 现代汉语规范辞典[M]. 北京: 外语教学与研究出版社, 2004. H164.</div>
+  <div class="csl-entry">[29]	佚名. 现代汉语频率词典[M]. 北京: 北京语言学院出版社, 1986. H136-61.</div>
+  <div class="csl-entry">[30]	Yu L. Phonological representation and processing in Chinese spoken language production[D]. Beijing Normal University, 2000.</div>
+  <div class="csl-entry">[31]	余林. 汉语语言产生中的语音表征与加工[D]. 北京师范大学, 2000.</div>
+  <div class="csl-entry">[32]	邱颖文. 遗传与语言学习[D]. 上海: 华东师范大学, 2009.</div>
+  <div class="csl-entry">[33]	张三, 李四. 中国心理学与奥林匹克[N]. 2008-08-08(2, 5-7).</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	赵景深. 文坛忆旧[M]. 上海: 北新书局, 1948.</div>
+  <div class="csl-entry">[2]	佚名. 荣庆日记[M]. 西安: 西北大学出版社, 1986.</div>
+  <div class="csl-entry">[3]	蒋大兴. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社, 2001.</div>
+  <div class="csl-entry">[4]	佚名. 中国哲学发展史（先秦卷）[M]. 北京: 人民出版社, 1983.</div>
+  <div class="csl-entry">[5]	实藤惠秀. 中国人留学日本史[M]. 香港: 香港中文大学出版社, 1982.</div>
+  <div class="csl-entry">[6]	佚名. 周恩来传[M]. 北京: 人民出版社、中央文献出版社, 1989.</div>
+  <div class="csl-entry">[7]	佚名. 晚清洋务运动事类汇钞五十七种[M]. 北京: 全国图书馆文献缩微复制中心, 1998.</div>
+  <div class="csl-entry">[8]	狄葆贤. 平等阁笔记[M]. 上海: 有正书局, [日期不详].</div>
+  <div class="csl-entry">[9]	佚名. 马克思恩格斯全集[M]. 北京: 人民出版社, 1998.</div>
+  <div class="csl-entry">[10]	杜威·佛克马. 走向新世界主义[M]//全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247-266.</div>
+  <div class="csl-entry">[11]	鲁迅. 中国小说的历史的变迁[M]//鲁迅全集. 北京: 人民文学出版社, 1981: 325.</div>
+  <div class="csl-entry">[12]	唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997: 65.</div>
+  <div class="csl-entry">[13]	李鹏程. 当代文化哲学沉思[M]. 北京: 人民出版社, 1994.</div>
+  <div class="csl-entry">[14]	楼适夷. 读家书，想傅雷（代序）[M]//傅雷家书. 北京: 三联书店, 1998: 2.</div>
+  <div class="csl-entry">[15]	黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997: 2.</div>
+  <div class="csl-entry">[16]	姚际恒. 古今伪书考[Z]([日期不详]).</div>
+  <div class="csl-entry">[17]	毛祥麟. 墨余录[Z]. 上海: 上海古籍出版社, 1985(1985).</div>
+  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集[Z]. 沈阳: 辽沈书社, 1991(1991).</div>
+  <div class="csl-entry">[19]	佚名. 太平御览[Z]. 北京: 中华书局, 1985(1985).</div>
+  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[Z]. 济南: 齐鲁书社, 1997(1997).</div>
+  <div class="csl-entry">[21]	佚名. 嘉定县志[Z]([日期不详]).</div>
+  <div class="csl-entry">[22]	佚名. 上海县续志[Z]([日期不详]).</div>
+  <div class="csl-entry">[23]	佚名. 广东通志[Z]. 北京: 中国书店, 1992(1992).</div>
+  <div class="csl-entry">[24]	佚名. 旧唐书[Z]. 北京: 中华书局, 1975(1975).</div>
+  <div class="csl-entry">[25]	佚名. 方苞集[Z]. 上海: 上海古籍出版社, 1983(1983).</div>
+  <div class="csl-entry">[26]	佚名. 清德宗实录[Z]. 北京: 中华书局, 1987(1987).</div>
+  <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
+  <div class="csl-entry">[28]	汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
+  <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
+  <div class="csl-entry">[30]	黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3).</div>
+  <div class="csl-entry">[31]	倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4).</div>
+  <div class="csl-entry">[32]	李眉. 李劼人轶事[N]. 1986-08-22(2).</div>
+  <div class="csl-entry">[33]	伤心人（麦孟华）. 说奴隶[N]. [日期不详](第1页).</div>
+  <div class="csl-entry">[34]	佚名. 四川会议厅暂行章程[N]. 1910-09-03(1-2).</div>
+  <div class="csl-entry">[35]	佚名. 上海各路商界总联合会致外交部电[N]. 1925-08-14(4).</div>
+  <div class="csl-entry">[36]	佚名. 西南中委反对在宁召开五全会[N]. 1933-08-11(第1张第4版).</div>
+  <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
+  <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//天津: , [日期不详]: 9.</div>
+  <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津: , 2000: 9.</div>
+  <div class="csl-entry">[40]	佚名. 傅良佐致国务院电[Z](1917-09-15).</div>
+  <div class="csl-entry">[41]	佚名. 党外人士座谈会记录[Z](1950-07).</div>
+  <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL](1998-08-16).</div>
+  <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]([日期不详]).</div>
+  <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
+  <div class="csl-entry">[45]	Polo M. The travels of Marco Polo[M]. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[46]	Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
+  <div class="csl-entry">[47]	Schfield R S. The impact of scarcity and plenty on population change in England[M]//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+  <div class="csl-entry">[48]	Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
+  <div class="csl-entry">[49]	佚名. 世界政治理论的探索与争鸣[M]. 上海: 上海人民出版社, 2006.</div>
+  <div class="csl-entry">[50]	实藤惠秀. 中国人留学日本史[M]. 香港: 香港中文大学出版社, 1982.</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	王名扬. 美国行政法[M]. 北京大学出版社, 2007.</div>
+  <div class="csl-entry">[2]	张新宝. 侵权责任法[M]. 中国人民大学出版社, 2016.</div>
+  <div class="csl-entry">[3]	佚名. 英美法原论[M]. 北京大学出版社, 2013.</div>
+  <div class="csl-entry">[4]	[美]富勒. 法律的道德性[M]. 商务印书馆, 2005.</div>
+  <div class="csl-entry">[5]	季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1).</div>
+  <div class="csl-entry">[6]	王保树. 股份有限公司机关构造中的董事和董事会[M]//民商法论丛. 法律出版社, 1994: 110.</div>
+  <div class="csl-entry">[7]	[德]莱纳·沃尔夫. 风险法的风险[M]//风险规制：德国的理论与实践. 法律出版社, 2012.</div>
+  <div class="csl-entry">[8]	何海波. 判决书上网[N]. 2000-05-21(2).</div>
+  <div class="csl-entry">[9]	汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB/OL](2004-01-10).</div>
+  <div class="csl-entry">[10]	佚名. 被告人李宁、张磊贪污案一审开庭[EB/OL]([日期不详]).</div>
+  <div class="csl-entry">[11]	赵耀彤. 一名基层法官眼里好律师的样子[EB/OL](2018-12-01).</div>
+  <div class="csl-entry">[12]	佚名. 法国行政法院网站[EB/OL]([日期不详]).</div>
+  <div class="csl-entry">[13]	李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. 中国政法大学, 2015.</div>
+  <div class="csl-entry">[14]	佚名. 民法总则[S]. .</div>
+  <div class="csl-entry">[15]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知[Z](2007-07-11).</div>
+  <div class="csl-entry">[16]	佚名. 包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号[Z]([日期不详]).</div>
+  <div class="csl-entry">[17]	佚名. 陆红霞诉南通市发改委政府信息公开案[Z](2015-07-06).</div>
+  <div class="csl-entry">[18]	Reich C A. The new property[J]. Yale Law Journal, 1964, 73(5): 733-787.</div>
+  <div class="csl-entry">[19]	Brandeis L D. What publicity can do[J]. Harper’s Weekly, 1913: 10.</div>
+  <div class="csl-entry">[20]	Alford W. To steal a book is an elegant offense: Intellectual property law in Chinese civilization[M]. Stanford University Press, 1995.</div>
+  <div class="csl-entry">[21]	佚名. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006.</div>
+  <div class="csl-entry">[22]	Anonymous. R. v. Panel on Take-overs and Mergers[Z](1987).</div>
+  <div class="csl-entry">[23]	罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1): 52-59.</div>
+  <div class="csl-entry">[24]	夏新华, 胡旭晟, 刘鄂, 等. 近代中国宪政历程[M]. 中国政法大学出版社, 2004.</div>
+  <div class="csl-entry">[25]	邓小平. 精简机构是一场革命[M]//邓小平文选. 人民出版社, 1994.</div>
+  <div class="csl-entry">[26]	[英]劳特派特. 奥本海国际法[M]. 商务印书馆, 1971.</div>
+  <div class="csl-entry">[27]	全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[S]. .</div>
+  <div class="csl-entry">[28]	全国人大常委会. 中华人民共和国公司法[S]. 2005年修订 版. .</div>
+  <div class="csl-entry">[29]	全国人大常委会. 中华人民共和国公司法[S]. 2013年修正 版. .</div>
+  <div class="csl-entry">[30]	最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知[Z](1993-11-12).</div>
+  <div class="csl-entry">[31]	全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[S]. .</div>
+  <div class="csl-entry">[32]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知[Z](2007-07-11).</div>
+  <div class="csl-entry">[33]	最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释[Z](2018-02-06).</div>
+  <div class="csl-entry">[34]	国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知[Z](2018-06-27).</div>
+  <div class="csl-entry">[35]	国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. , 2015.</div>
+  <div class="csl-entry">[36]	信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R]. 2013.</div>
+  <div class="csl-entry">[37]	中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[Z](2014-10-23).</div>
+  <div class="csl-entry">[38]	佚名. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[Z](2013-02-08).</div>
+  <div class="csl-entry">[39]	佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[Z](2017-12-16).</div>
+  <div class="csl-entry">[40]	Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
+  <div class="csl-entry">[41]	Rosenthal A. White House tutors Kremlin in how a presidency works[N]. 1990-06-15(A1).</div>
+  <div class="csl-entry">[42]	Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. MIT Press, 1996.</div>
+  <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress[M]//China: The balance sheet. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">[44]	Anonymous. Department of Transportation Act: 89-670[S]//Stat., .</div>
+  <div class="csl-entry">[45]	Anonymous. Administrative Procedure Act § 6[S]//U.S.C., .</div>
+  <div class="csl-entry">[46]	Anonymous. Natural Resources Defense Council <i>v.</i> Gorsuch[Z](1982).</div>
+  <div class="csl-entry">[47]	Anonymous. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[Z](1984).</div>
+  <div class="csl-entry">[48]	Anonymous. Roe <i>v.</i> Wade[Z](1973).</div>
+  <div class="csl-entry">[49]	Anonymous. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[Z]([no date]).</div>
+  <div class="csl-entry">[50]	McDonell S. When China began streaming trials online[EB/OL](2016-09-30).</div>
+  <div class="csl-entry">[51]	Chevallier M. L’État de droit[M]. Paris: Montchrestien, 2003.</div>
+  <div class="csl-entry">[52]	Poisson M. Le droit de la mer[J]. RGDIP, 2015: 15-47.</div>
+  <div class="csl-entry">[53]	Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75-94.</div>
+  <div class="csl-entry">[54]	Poisson M. Le droit de la mer[M]//Le droit des Océans. , 2015: 12-48.</div>
+  <div class="csl-entry">[55]	Poisson M. Le droit de la mer en Méditerranée[R]. Congrès de Marseille. 2016.</div>
+  <div class="csl-entry">[56]	Poisson M. Le droit de la mer en Méditerranée: 1202[R]. 2016.</div>
+  <div class="csl-entry">[57]	Poisson M. Le droit de la mer appliqué à la Méditerranée[D]. l’Université de Marseille, 2016.</div>
+  <div class="csl-entry">[58]	Joyeux-Prunel B. L’histoire de l’art et le quantitatif[EB/OL]([日期不详]).</div>
+  <div class="csl-entry">[59]	Vogel B. Rechtsgüterschutz und Normgeltung[J]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629-649.</div>
+  <div class="csl-entry">[60]	Würdinger M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung, 2012(3): 234-240.</div>
+  <div class="csl-entry">[61]	Fischer T. Absurdes Spektakel um den Tod[N]. 2015-09-29.</div>
+  <div class="csl-entry">[62]	Roxin C. Strafrecht Allgemeiner Teil[M]. C. H. Beck, 2006.</div>
+  <div class="csl-entry">[63]	佚名. Rechtsphilosophie Studienausgabe[M]. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
+  <div class="csl-entry">[64]	Schwab M. [M]//Münchener Kommentar BGB. , 2013.</div>
+  <div class="csl-entry">[65]	Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Das Abtreibungsverbot des § 218 StGB. , 1972.</div>
+  <div class="csl-entry">[66]	Canaris C-W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]//, 1990.</div>
+  <div class="csl-entry">[67]	佚名. StGB[S]. .</div>
+  <div class="csl-entry">[68]	佚名. StPO[S]. .</div>
+  <div class="csl-entry">[69]	佚名. GG[S]. .</div>
+  <div class="csl-entry">[70]	佚名. Strauß-Karikatur, Kunstfreiheit[Z]([日期不详]).</div>
+  <div class="csl-entry">[71]	佚名. [Z](1999).</div>
+  <div class="csl-entry">[72]	佚名. [Z](2000).</div>
+  <div class="csl-entry">[73]	Meidenbauer M. Wissenschaftliches Publizieren[EB/OL]([日期不详]).</div>
+  <div class="csl-entry">[74]	我妻栄. 新訂担保物権法[M]. 有斐閣, 1971.</div>
+  <div class="csl-entry">[75]	我妻栄, 有泉亨. 民法総則物権法[M]. 日本評論社, 1950.</div>
+  <div class="csl-entry">[76]	於保不二雄. 付加物及び従物と抵当権[J]. 民商法雑誌, 1954, 29(5): 1.</div>
+  <div class="csl-entry">[77]	佐藤英明. 一時所得の要件に関する覚書[M]//租税法と市場. 有斐閣, 2014: 220.</div>
+  <div class="csl-entry">[78]	佚名. 信玄公旗掛松事件[Z](1919-03-03).</div>
+  <div class="csl-entry">[79]	佚名. 約束手形金[Z](1982-07-15).</div>
+  <div class="csl-entry">[80]	佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[S]. .</div>
+  <div class="csl-entry">[81]	佚名. 平成26年版犯罪白書[Z]([日期不详]).</div>
+  <div class="csl-entry">[82]	佚名. ジュリスト[EB/OL]([日期不详]).</div>
+  <div class="csl-entry">[83]	欧中坦. 千方百计上京城：清朝的京控[M]//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
+  <div class="csl-entry">[84]	佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]([日期不详]).</div>
 </div>

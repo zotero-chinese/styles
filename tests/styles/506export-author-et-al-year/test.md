@@ -12,45 +12,37 @@ Undefined
 
 Undefined
 
-## 全部文献测试
-
-### 引注
-
-Undefined
-
-### 参考文献表
-
-Undefined
-
 ## 默认测试
 
 ### 引注
 
-(王临惠, 2010)<br>
-(Crane, 1972)<br>
-(贾东琴 等, 2011)<br>
-(Kennedy et al., 1975a)<br>
-(Kennedy et al., 1975b)<br>
-(王临惠 等, 2010)<br>
-(Frese et al., 2013)<br>
-(陈晋镳 等, 1980)<br>
-(Myburg et al., 2014)<br>
+(张三, 2008)<br>
+张三 (2008)<br>
+(Jason, 2008)<br>
+Jason (2008)<br>
+张三 et al. (2008a)<br>
+Wang et al. (2009a)<br>
+(赵一 等, 2008a; Wolchik et al., 2009a)<br>
+张三 et al. (2008b)<br>
+Wang et al. (2009b)<br>
+(赵一 等, 2008b; Wolchik et al., 2009b)<br>
+张三 et al. (2019a)<br>
+张三 et al. (2019b)<br>
+Qian et al. (2020a)<br>
+Qian et al. (2020b)<br>
+(张三 et al., 2019a; Qian et al., 2020a)<br>
+张三 et al. (2020a)<br>
+张三 et al. (2020b)<br>
+Qian et al. (2009a)<br>
+Qian et al. (2009b)<br>
+(张三 et al., 2020a)<br>
+(Qian et al., 2009a)<br>
+(Wong, 2007)<br>
+(Wong, 2008)<br>
+(Edeline et al., 2005, 2002a, 2002b)<br>
+(Deng et al., 2005; Chen, 2006; Bai, 2002)<br>
 
-### 参考文献表
-
-<div class="csl-bib-body">
-  <div class="csl-entry">陈晋镳等, 1980.</div>
-  <div class="csl-entry">贾东琴等, 2011.</div>
-  <div class="csl-entry">王临惠, 2010.</div>
-  <div class="csl-entry">王临惠等, 2010.</div>
-  <div class="csl-entry">Crane, 1972.</div>
-  <div class="csl-entry">Frese <i>et al.</i>, 2013.</div>
-  <div class="csl-entry">Kennedy <i>et al.</i>, 1975a.</div>
-  <div class="csl-entry">Kennedy <i>et al.</i>, 1975b.</div>
-  <div class="csl-entry">Myburg <i>et al.</i>, 2014.</div>
-</div>
-
-### 全部文献
+### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body">
   <div class="csl-entry">白书农, 1998.</div>
@@ -181,4 +173,186 @@ Undefined
   <div class="csl-entry">Weinstein <i>et al.</i>, 1974.</div>
   <div class="csl-entry">World Health Organization, 1970.</div>
   <div class="csl-entry">Yufin, 2000.</div>
+</div>
+
+### 《心理学报》 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">拉普拉斯 P S, 1951.</div>
+  <div class="csl-entry">李行健, 2004.</div>
+  <div class="csl-entry">邱颖文, 2009.</div>
+  <div class="csl-entry">王登峰等, 2004.</div>
+  <div class="csl-entry">佚名, 1986.</div>
+  <div class="csl-entry">余林, 2000.</div>
+  <div class="csl-entry">张三, 2008a.</div>
+  <div class="csl-entry">张三等, 2008a.</div>
+  <div class="csl-entry">张三, 2008b.</div>
+  <div class="csl-entry">张三, 2008c.</div>
+  <div class="csl-entry">张三, 2008d.</div>
+  <div class="csl-entry">张三等, 2008b.</div>
+  <div class="csl-entry">张三等.</div>
+  <div class="csl-entry">赵一等, 2008.</div>
+  <div class="csl-entry">赵一一等, 2008.</div>
+  <div class="csl-entry">Auerbach, 1993.</div>
+  <div class="csl-entry">Australian Bureau of Statistics, 1991.</div>
+  <div class="csl-entry">Bergmann, 1993.</div>
+  <div class="csl-entry">Burin <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">Gibbs <i>et al.</i>, 1989.</div>
+  <div class="csl-entry">Huestegge <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">Klatzky, 1998.</div>
+  <div class="csl-entry">Lanktree <i>et al.</i>, 1991.</div>
+  <div class="csl-entry">Laplace, 1951.</div>
+  <div class="csl-entry">Lichstein <i>et al.</i>, 1990.</div>
+  <div class="csl-entry">Mitchell <i>et al.</i>, 1987.</div>
+  <div class="csl-entry">Mou <i>et al.</i>, 2002.</div>
+  <div class="csl-entry">Mou <i>et al.</i>, 2004.</div>
+  <div class="csl-entry">Ruby <i>et al.</i>, 1993.</div>
+  <div class="csl-entry">Sadie, 1980.</div>
+  <div class="csl-entry">Wang <i>et al.</i>, 2004.</div>
+  <div class="csl-entry">Wolchik <i>et al.</i>, 2000.</div>
+  <div class="csl-entry">Yu, 2000.</div>
+</div>
+
+### 《中国社会科学》 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">彼得·卡赞斯坦等, 2006.</div>
+  <div class="csl-entry">狄葆贤.</div>
+  <div class="csl-entry">杜威·佛克马, 1999.</div>
+  <div class="csl-entry">方明东, 2000.</div>
+  <div class="csl-entry">管志道, 1997.</div>
+  <div class="csl-entry">何龄修, 1998.</div>
+  <div class="csl-entry">黄仁宇, 1997.</div>
+  <div class="csl-entry">黄义豪, 1997.</div>
+  <div class="csl-entry">蒋大兴, 2001.</div>
+  <div class="csl-entry">金冲及, 1989.</div>
+  <div class="csl-entry">李眉, 1986.</div>
+  <div class="csl-entry">李鹏程, 1994.</div>
+  <div class="csl-entry">楼适夷, 1998.</div>
+  <div class="csl-entry">鲁迅, 1981.</div>
+  <div class="csl-entry">毛祥麟, 1985.</div>
+  <div class="csl-entry">倪素香, 2002.</div>
+  <div class="csl-entry">任东来, 2000.</div>
+  <div class="csl-entry">任东来.</div>
+  <div class="csl-entry">任继愈, 1983.</div>
+  <div class="csl-entry">伤心人（麦孟华）.</div>
+  <div class="csl-entry">实藤惠秀, 1982a.</div>
+  <div class="csl-entry">实藤惠秀, 1982b.</div>
+  <div class="csl-entry">唐振常, 1997.</div>
+  <div class="csl-entry">汪疑今, 1936.</div>
+  <div class="csl-entry">王明亮, 1998.</div>
+  <div class="csl-entry">魏丽英, 1990.</div>
+  <div class="csl-entry">扬之水.</div>
+  <div class="csl-entry">杨钟羲, 1991.</div>
+  <div class="csl-entry">姚际恒.</div>
+  <div class="csl-entry">佚名, 1910.</div>
+  <div class="csl-entry">佚名, 1917.</div>
+  <div class="csl-entry">佚名, 1925.</div>
+  <div class="csl-entry">佚名, 1933.</div>
+  <div class="csl-entry">佚名, 1950.</div>
+  <div class="csl-entry">Anon, 1969.</div>
+  <div class="csl-entry">佚名, 1975.</div>
+  <div class="csl-entry">佚名, 1983.</div>
+  <div class="csl-entry">佚名, 1985.</div>
+  <div class="csl-entry">佚名, 1986.</div>
+  <div class="csl-entry">佚名, 1987.</div>
+  <div class="csl-entry">佚名, 1992.</div>
+  <div class="csl-entry">佚名, 1998a.</div>
+  <div class="csl-entry">佚名, 1998b.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">赵景深, 1948.</div>
+  <div class="csl-entry">Brooks, 2000.</div>
+  <div class="csl-entry">Chamberlain, 1993.</div>
+  <div class="csl-entry">Polo, 1997.</div>
+  <div class="csl-entry">Schfield, 1983.</div>
+</div>
+
+### 《法学引注手册》 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">[德]莱纳·沃尔夫, 2012.</div>
+  <div class="csl-entry">邓小平, 1994.</div>
+  <div class="csl-entry">高鸿钧等, 2013.</div>
+  <div class="csl-entry">国家质量监督检验检疫总局等, 2015.</div>
+  <div class="csl-entry">国务院, 2007a.</div>
+  <div class="csl-entry">国务院, 2007b.</div>
+  <div class="csl-entry">国务院, 2018.</div>
+  <div class="csl-entry">何海波, 2000.</div>
+  <div class="csl-entry">季卫东, 1993.</div>
+  <div class="csl-entry">李松锋, 2015.</div>
+  <div class="csl-entry">罗豪才等, 1993.</div>
+  <div class="csl-entry">[美]富勒, 2005.</div>
+  <div class="csl-entry">欧中坦, 1994.</div>
+  <div class="csl-entry">全国人大常委会, 1991.</div>
+  <div class="csl-entry">全国人大常委会, 2005.</div>
+  <div class="csl-entry">全国人大常委会, 2013.</div>
+  <div class="csl-entry">全国人大常委会, 2017.</div>
+  <div class="csl-entry">汪波, 2004.</div>
+  <div class="csl-entry">王保树, 1994.</div>
+  <div class="csl-entry">王名扬, 2007.</div>
+  <div class="csl-entry">我妻栄等, 1950.</div>
+  <div class="csl-entry">我妻栄, 1971.</div>
+  <div class="csl-entry">夏新华等, 2004.</div>
+  <div class="csl-entry">信春鹰, 2013.</div>
+  <div class="csl-entry">佚名, 1919.</div>
+  <div class="csl-entry">Anon, 1966.</div>
+  <div class="csl-entry">Anon, 1973.</div>
+  <div class="csl-entry">Anon, 1982.</div>
+  <div class="csl-entry">佚名, 1982.</div>
+  <div class="csl-entry">Anon, 1984.</div>
+  <div class="csl-entry">Anon, 1987.</div>
+  <div class="csl-entry">佚名, 1999.</div>
+  <div class="csl-entry">佚名, 2000.</div>
+  <div class="csl-entry">Anon, 2006.</div>
+  <div class="csl-entry">佚名, 2013.</div>
+  <div class="csl-entry">佚名, 2015.</div>
+  <div class="csl-entry">佚名, 2017.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">应松年等, 2006.</div>
+  <div class="csl-entry">[英]劳特派特, 1971.</div>
+  <div class="csl-entry">於保不二雄, 1954.</div>
+  <div class="csl-entry">张新宝, 2016.</div>
+  <div class="csl-entry">赵耀彤, 2018.</div>
+  <div class="csl-entry">中国共产党中央委员会, 2014.</div>
+  <div class="csl-entry">最高人民法院等, 1993.</div>
+  <div class="csl-entry">最高人民法院, 2018.</div>
+  <div class="csl-entry">佐藤英明, 2014.</div>
+  <div class="csl-entry">Alford, 1995.</div>
+  <div class="csl-entry">Badiou-Monferran C, 1997.</div>
+  <div class="csl-entry">Barbara Ward, 1979.</div>
+  <div class="csl-entry">Brandeis, 1913.</div>
+  <div class="csl-entry">Canaris C W, 1990.</div>
+  <div class="csl-entry">Chevallier M, 2003.</div>
+  <div class="csl-entry">Dreier R等, 2003.</div>
+  <div class="csl-entry">Fischer T, 2015.</div>
+  <div class="csl-entry">Habermas, 1996.</div>
+  <div class="csl-entry">Horsley, 2006.</div>
+  <div class="csl-entry">Joyeux-Prunel B.</div>
+  <div class="csl-entry">Kaufmann A, 1972.</div>
+  <div class="csl-entry">McDonell, 2016.</div>
+  <div class="csl-entry">Meidenbauer M.</div>
+  <div class="csl-entry">Poisson M, 2015a.</div>
+  <div class="csl-entry">Poisson M, 2015b.</div>
+  <div class="csl-entry">Poisson M, 2016a.</div>
+  <div class="csl-entry">Poisson M, 2016b.</div>
+  <div class="csl-entry">Poisson M, 2016c.</div>
+  <div class="csl-entry">Reich, 1964.</div>
+  <div class="csl-entry">Rosenthal, 1990.</div>
+  <div class="csl-entry">Roxin C, 2006.</div>
+  <div class="csl-entry">Schwab M, 2013.</div>
+  <div class="csl-entry">Vogel B, 2017.</div>
+  <div class="csl-entry">Würdinger M, 2012.</div>
 </div>

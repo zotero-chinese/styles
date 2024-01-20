@@ -43,7 +43,7 @@ def test_style(path):
     if ext != ".csl":
         raise ValueError(f'Invalid CSL style "{path}"')
 
-    # info(f'Running test of "{style_name}.csl"')
+    info(f'Running test of "{style_name}.csl"')
 
     check_style(path)
 
