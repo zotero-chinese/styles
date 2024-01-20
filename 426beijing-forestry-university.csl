@@ -18,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《北京林业大学研究生学位论文写作指南》（2023年11月更新）</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-20T23:33:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -70,6 +70,7 @@
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
+              <text variable="volume-title"/>
             </if>
           </choose>
           <choose>

@@ -554,7 +554,7 @@ Undefined
 
     <div class="csl-block">杨钟羲. 雪桥诗话续集: 卷 5. 影印本. 沈阳: 辽沈书社, 1991. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[19]	太平御览: 卷 690. 影印本. 北京: 中华书局, 1985. 
+  <div class="csl-entry">[19]	太平御览: 卷 690 服章部七. 影印本. 北京: 中华书局, 1985. 
 
     <div class="csl-block">太平御览: 卷 690. 影印本. 北京: 中华书局, 1985. (in Chinese)</div>
 </div>
@@ -562,11 +562,11 @@ Undefined
 
     <div class="csl-block">管志道. 答屠仪部赤水丈书//卷 2. 影印本. 济南: 齐鲁书社, 1997. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[21]	嘉定县志: 卷 12. 
+  <div class="csl-entry">[21]	嘉定县志: 卷 12 风俗. 
 
     <div class="csl-block">嘉定县志: 卷 12. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[22]	上海县续志: 卷 1. 
+  <div class="csl-entry">[22]	上海县续志: 卷 1 疆域. 
 
     <div class="csl-block">上海县续志: 卷 1. (in Chinese)</div>
 </div>
@@ -574,11 +574,11 @@ Undefined
 
     <div class="csl-block">广东通志//卷 15. 影印本. 北京: 中国书店, 1992. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[24]	旧唐书: 卷 9. 标点本. 北京: 中华书局, 1975. 
+  <div class="csl-entry">[24]	旧唐书: 卷 9 玄宗纪下. 标点本. 北京: 中华书局, 1975. 
 
     <div class="csl-block">旧唐书: 卷 9. 标点本. 北京: 中华书局, 1975. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[25]	方苞集: 卷 6. 标点本. 上海: 上海古籍出版社, 1983. 
+  <div class="csl-entry">[25]	方苞集: 卷 6 答程夔州书. 标点本. 上海: 上海古籍出版社, 1983. 
 
     <div class="csl-block">方苞集: 卷 6. 标点本. 上海: 上海古籍出版社, 1983. (in Chinese)</div>
 </div>

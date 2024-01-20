@@ -253,12 +253,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">35.	Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. <b>Hunger and history: The impact of changing food production and consumption pattern on society</b>. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   <div class="csl-entry">36.	荣庆日记[M]. 西安: 西北大学出版社, 1986.</div>
   <div class="csl-entry">37.	马克思恩格斯全集: 卷 31[M]. 北京: 人民出版社, 1998b.</div>
-  <div class="csl-entry">38.	太平御览: 卷 690[Z]. 影印本. 北京: 中华书局, 1985.</div>
-  <div class="csl-entry">39.	嘉定县志: 卷 12[Z].</div>
-  <div class="csl-entry">40.	上海县续志: 卷 1[Z].</div>
+  <div class="csl-entry">38.	太平御览: 卷 690 服章部七[Z]. 影印本. 北京: 中华书局, 1985.</div>
+  <div class="csl-entry">39.	嘉定县志: 卷 12 风俗[Z].</div>
+  <div class="csl-entry">40.	上海县续志: 卷 1 疆域[Z].</div>
   <div class="csl-entry">41.	广东通志[Z]//<b>稀见中国地方志汇刊</b>: 卷 15. 影印本. 北京: 中国书店, 1992.</div>
-  <div class="csl-entry">42.	旧唐书: 卷 9[Z]. 标点本. 北京: 中华书局, 1975.</div>
-  <div class="csl-entry">43.	方苞集: 卷 6[Z]. 标点本. 上海: 上海古籍出版社, 1983.</div>
+  <div class="csl-entry">42.	旧唐书: 卷 9 玄宗纪下[Z]. 标点本. 北京: 中华书局, 1975.</div>
+  <div class="csl-entry">43.	方苞集: 卷 6 答程夔州书[Z]. 标点本. 上海: 上海古籍出版社, 1983.</div>
   <div class="csl-entry">44.	清德宗实录: 卷 435[Z]. 影印本. 北京: 中华书局, 1987.</div>
   <div class="csl-entry">45.	四川会议厅暂行章程[N]. <b>广益丛报</b>, 1910-09-03(1-2).</div>
   <div class="csl-entry">46.	上海各路商界总联合会致外交部电[N]. <b>民国日报</b>, 1925-08-14(4).</div>

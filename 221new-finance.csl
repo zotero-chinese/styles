@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <issn>1000-7091</issn>
-    <updated>2023-07-22T16:14:01+08:00</updated>
+    <updated>2024-01-20T23:33:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -127,6 +127,7 @@
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
+              <text variable="volume-title"/>
             </if>
           </choose>
           <choose>
@@ -156,6 +157,7 @@
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
+              <text variable="volume-title"/>
             </if>
           </choose>
           <choose>

@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2023-12-13T18:59:31+08:00</updated>
+    <updated>2024-01-20T23:34:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -99,6 +99,7 @@
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
+              <text variable="volume-title"/>
             </if>
           </choose>
           <choose>

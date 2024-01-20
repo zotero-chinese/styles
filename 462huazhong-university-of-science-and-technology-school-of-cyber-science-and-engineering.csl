@@ -18,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-20T23:33:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -78,6 +78,7 @@
           <choose>
             <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
+              <text variable="volume-title"/>
             </if>
           </choose>
           <choose>

@@ -251,16 +251,16 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名, 1933. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
   <div class="csl-entry">佚名, 1950. 党外人士座谈会记录[Z].</div>
   <div class="csl-entry">Anon, 1969. Nixon to Kissinger[Z].</div>
-  <div class="csl-entry">佚名, 1975. 旧唐书: 卷 9[Z]. 标点本. 北京: 中华书局.</div>
-  <div class="csl-entry">佚名, 1983. 方苞集: 卷 6[Z]. 标点本. 上海: 上海古籍出版社.</div>
-  <div class="csl-entry">佚名, 1985. 太平御览: 卷 690[Z]. 影印本. 北京: 中华书局.</div>
+  <div class="csl-entry">佚名, 1975. 旧唐书: 卷 9 玄宗纪下[Z]. 标点本. 北京: 中华书局.</div>
+  <div class="csl-entry">佚名, 1983. 方苞集: 卷 6 答程夔州书[Z]. 标点本. 上海: 上海古籍出版社.</div>
+  <div class="csl-entry">佚名, 1985. 太平御览: 卷 690 服章部七[Z]. 影印本. 北京: 中华书局.</div>
   <div class="csl-entry">佚名, 1986. 荣庆日记[M]. 西安: 西北大学出版社.</div>
   <div class="csl-entry">佚名, 1987. 清德宗实录: 卷 435[Z]. 影印本. 北京: 中华书局.</div>
   <div class="csl-entry">佚名, 1992. 广东通志[Z]//稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店.</div>
   <div class="csl-entry">佚名, 1998a. 晚清洋务运动事类汇钞五十七种: 上册[M]. 北京: 全国图书馆文献缩微复制中心.</div>
   <div class="csl-entry">佚名, 1998b. 马克思恩格斯全集: 卷 31[M]. 北京: 人民出版社.</div>
-  <div class="csl-entry">佚名. 嘉定县志: 卷 12[Z].</div>
-  <div class="csl-entry">佚名. 上海县续志: 卷 1[Z].</div>
+  <div class="csl-entry">佚名. 嘉定县志: 卷 12 风俗[Z].</div>
+  <div class="csl-entry">佚名. 上海县续志: 卷 1 疆域[Z].</div>
   <div class="csl-entry">赵景深, 1948. 文坛忆旧[M]. 上海: 北新书局.</div>
   <div class="csl-entry">Brooks P, 2000. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press.</div>
   <div class="csl-entry">Chamberlain H B, 1993. On the search for civil society in China[J/OL]. Modern China, 19(2): 199-215. DOI:<a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
