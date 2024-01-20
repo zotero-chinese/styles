@@ -6,11 +6,30 @@
 
 ### 引注
 
-Undefined
+<sup>[1–18]</sup>
 
 ### 参考文献表
 
-Undefined
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	袁庆龙, 侯文义. Ni-P合金镀层组织形貌及显微硬度研究[J]. 太原理工大学学报, 2001, 32(1): 51-53.</div>
+  <div class="csl-entry">[2]	刘国钧, 郑如斯. 中国书的故事[M]. 北京: 中国青年出版社, 1979.</div>
+  <div class="csl-entry">[3]	孙品一. 科技编辑学论文集（2）[C]//科技编辑学论文集. 北京: 北京师范大学出版社, 1998: 10-22.</div>
+  <div class="csl-entry">[4]	罗云. 安全科学理论体系的发展及趋势探讨[M]//21世纪安全科学与技术的发展趋势. 北京: 科学出版社, 2000: 1-5.</div>
+  <div class="csl-entry">[5]	张和生. 地质力学系统理论[D]. 太原: 太原理工大学, 1998.</div>
+  <div class="csl-entry">[6]	冯西桥. 核反应堆压力容器的LBB分析[R]. 北京: 清华大学核能技术设计研究院, 1997.</div>
+  <div class="csl-entry">[7]	姜锡洲. 一种温热外敷药制备方案[P]. 中国专利: 881056078, 1983-08-12.</div>
+  <div class="csl-entry">[8]	GB/T 16159—1996. 汉语拼音正词法基本规则[S]. 北京: 中国标准出版社, 1996.</div>
+  <div class="csl-entry">[9]	谢希德. 创造学习的新思路[N]. 人民日报, 1998, 12(25): 10.</div>
+  <div class="csl-entry">[10]	姚伯元. 毕业设计(论文)规范化管理与培养学生综合素质[EB/OL]. 中国高等教育网教学研究, 2005-02-02.</div>
+  <div class="csl-entry">[11]	冒伟, 刘景宁, 童薇, 等. 基于相变存储器的存储技术研究综述[J]. 计算机学报, 2015, 38(5): 944-960.</div>
+  <div class="csl-entry">[12]	H. Lang, T. Neumann, A. Kemper, et al. Performance-Optimal Filtering: Bloom Overtakes Cuckoo at High Throughput[J]. Proceedings of the VLDB Endowment, 2019, 12(5): 502-515.</div>
+  <div class="csl-entry">[13]	R. Salkhordeh, O. Mutlu, H. Asadi. An Analytical Model for Performance and Lifetime Estimation of Hybrid DRAM-NVM Main Memories[J]. IEEE Transactions on Computers, 2019, 68(8): 1114-1130.</div>
+  <div class="csl-entry">[14]	张彦, 刘欣然, 徐慧彬. 一种基于虚拟计算环境的分布式存储体系结构[C]//2009全国计算机网络与通信学术会议论文集. 中国电子学会通信学分会, 2009: 12-17.</div>
+  <div class="csl-entry">[15]	J. Kim, S. H. Pugsley, P. V. Gratz, et al. Path Confidence Based Lookahead Prefetching[C]//2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO). Taipei: IEEE, 2016: 1-12.</div>
+  <div class="csl-entry">[16]	R. Salkhordeh, H. Asadi. An Operating System Level Data Migration Scheme in Hybrid DRAM-NVM Memory Architecture[C]//2016 Design, Automation &#38; Test in Europe Conference &#38; Exhibition (DATE). IEEE, 2016: 936-941.</div>
+  <div class="csl-entry">[17]	M. K. A. Qureshi. Memory Access Prediction[P]. 中国 Patent: US8627008B2, 2014-01-07.</div>
+  <div class="csl-entry">[18]	Why Intel Optane Technology? Top 5 Reasons to Deploy[EB/OL]. Intel, 2023-03-11.</div>
+</div>
 
 ## 默认测试
 

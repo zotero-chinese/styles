@@ -6,11 +6,27 @@
 
 ### 引注
 
-Undefined
+<sup>[1–15]</sup>
 
 ### 参考文献表
 
-Undefined
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	刘少奇. 论共产党员的修养[M]. 修订 2 版. 北京: 人民出版社, 1962: 50.</div>
+  <div class="csl-entry">[2]	张筑生. 微分半动力系统的不变集[D]. 北京大学数学研究所, 1983.</div>
+  <div class="csl-entry">[3]	[日]萩原朔太郎著; 于君译. 诗性的哲学散步[M]. 北京: 群众出版社, 2002.</div>
+  <div class="csl-entry">[4]	Morton L T. Use of medical literature[M]. 2nd ed. London: Butterworths, 1977.</div>
+  <div class="csl-entry">[5]	张文修, 丁雪梅. 构筑我国研究生教育的发展调节机制[J]. 学位与研究生教育, 2002(9): 7～9.</div>
+  <div class="csl-entry">[6]	陶仁骥. 密码学与数学[J]. 自然杂志, 1984, 7(7): 527.</div>
+  <div class="csl-entry">[7]	Hewitt J A. Technical services in 1983[J]. Library resources and Technical Services, 1984, 28(3): 205～218.</div>
+  <div class="csl-entry">[8]	张光斗. 也谈 21 世纪高等工程教育的改革. 见: 林功实. 学位与研究生教育. 1995: 14～16.</div>
+  <div class="csl-entry">[9]	廖文武. 中国研究生教育评估发展历程. 见: 叶绍梁等. 第二届中国学位与研究生教育评估研讨会论文集. 上海, 1997.</div>
+  <div class="csl-entry">[10]	谢希德. 创造学习的新思路. 人民日报, 1998-12-25(10).</div>
+  <div class="csl-entry">[11]	GB/T 16159—1996, 汉语拼音正词法基本规则.</div>
+  <div class="csl-entry">[12]	姜锡洲. 一种温热外敷药制备方案. 中国专利: 88105607.3, 1989-07-26.</div>
+  <div class="csl-entry">[13]	国务院学位委员会办公室. 关于加强和改进专业学位教育工作的若干意见. 学位[2002]1号, 2002-03-11.</div>
+  <div class="csl-entry">[14]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16.</div>
+  <div class="csl-entry">[15]	美国大学研究生院排行榜. <a href="http://www.usnews.com/rank/college/htms">http://www.usnews.com/rank/college/htms</a>, 2001-11-11.</div>
+</div>
 
 ## 默认测试
 

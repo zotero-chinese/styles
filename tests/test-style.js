@@ -308,6 +308,10 @@ function get_item_data(paths) {
         test_citations = JSON.parse(fs.readFileSync(paths.test_cites_path, 'utf8'));
         item.test_citations = make_citations(citeproc, test_citations);
         item.test_bibliography = make_bibliography(citeproc);
+    } else if (paths.test_data_path) {
+        let test_citations = collect_cites(style_data, citation_format);
+        item.test_citations = make_citations(citeproc, test_citations);
+        item.test_bibliography = make_bibliography(citeproc);
     }
 
     let default_citations = JSON.parse(fs.readFileSync(paths[`default_test_cites_${citation_format}_path`], 'utf8'));

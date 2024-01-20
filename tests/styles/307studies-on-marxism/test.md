@@ -6,11 +6,19 @@
 
 ### 引注
 
-Undefined
+<sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。<br>
+<sup>2</sup> 逄先知、金冲及主编：《毛泽东传》，2003年。<br>
+<sup>3</sup> [德]黑格尔：《逻辑学》（上），杨一之译，商务印书馆，2001年。<br>
+<sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
 
 ### 参考文献表
 
-Undefined
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
+  <div class="csl-entry">[2]	逄先知、金冲及主编：《毛泽东传》，2003年。</div>
+  <div class="csl-entry">[3]	[德]黑格尔：《逻辑学》（上），杨一之译，商务印书馆，2001年。</div>
+  <div class="csl-entry">[4]	任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
+</div>
 
 ## 默认测试
 
