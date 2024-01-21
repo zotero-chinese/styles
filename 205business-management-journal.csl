@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <issn>1002-5766</issn>
-    <updated>2023-12-21T17:53:21+08:00</updated>
+    <updated>2024-01-21T19:33:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -106,10 +106,7 @@
       <else-if type="bill legislation standard" match="any">
         <text value="S"/>
       </else-if>
-      <else-if type="book">
-        <text value="M"/>
-      </else-if>
-      <else-if type="chapter">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -260,7 +257,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
     <text macro="accessed-date"/>
@@ -312,7 +313,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
     <text macro="accessed-date"/>

@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-21T19:22:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -67,8 +67,15 @@
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
+            <if type="article article-journal" match="none">
+              <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
         </group>
@@ -110,8 +117,10 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article">
-        <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
+      <if type="article collection hearing legal_case legislation regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
+          article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -123,10 +132,7 @@
       <else-if type="bill">
         <text value="S"/>
       </else-if>
-      <else-if type="collection legal_case legislation regulation" match="any">
-        <text value="A"/>
-      </else-if>
-      <else-if type="book chapter" match="any">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -275,13 +281,22 @@
         <text macro="issued-date"/>
         <text macro="accessed-date"/>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
-              <text variable="publisher-place"/>
-              <text variable="publisher"/>
+              <choose>
+                <if variable="publisher publisher-place" match="any">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </if>
+                <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
+                  <text variable="archive-place"/>
+                  <text variable="archive"/>
+                </else>
+              </choose>
             </group>
             <text macro="issued-year"/>
           </group>
@@ -291,11 +306,19 @@
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
-            <text macro="issued-date" prefix="(" suffix=")"/>
+            <choose>
+              <if has-day="issued">
+                <text macro="issued-date" prefix="(" suffix=")"/>
+              </if>
+              <else-if variable="issued">
+                <text macro="issued-year"/>
+              </else-if>
+            </choose>
             <text macro="accessed-date"/>
           </if>
           <else>
@@ -384,7 +407,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">

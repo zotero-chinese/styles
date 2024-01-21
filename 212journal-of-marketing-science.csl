@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>2097-0099</issn>
     <summary>Financial Research Journal author-date style</summary>
-    <updated>2024-01-20T21:55:42+08:00</updated>
+    <updated>2024-01-21T19:34:29+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -128,8 +128,10 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article">
-        <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
+      <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
+          article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -138,11 +140,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill collection legal_case legislation regulation treaty" match="any">
-        <!-- 国标的“档案”（A）类型包括法律法规、政府文件等 -->
-        <text value="A"/>
-      </else-if>
-      <else-if type="book chapter" match="any">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -334,7 +332,11 @@
         <choose>
           <if type="report">
             <group delimiter=" ">
-              <text macro="issued-date" prefix="(" suffix=")"/>
+              <choose>
+                <if has-day="issued">
+                  <text macro="issued-date" prefix="(" suffix=")"/>
+                </if>
+              </choose>
               <text macro="accessed-date" suffix="."/>
             </group>
           </if>
@@ -365,7 +367,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
   </macro>
@@ -392,7 +398,11 @@
         <choose>
           <if type="report">
             <group delimiter=" ">
-              <text macro="issued-date" prefix="(" suffix=")"/>
+              <choose>
+                <if has-day="issued">
+                  <text macro="issued-date" prefix="(" suffix=")"/>
+                </if>
+              </choose>
               <text macro="accessed-date" suffix="."/>
             </group>
           </if>
@@ -424,7 +434,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
   </macro>
@@ -454,7 +468,11 @@
           <text variable="genre" prefix=" "/>
           <text variable="number" prefix=", No. "/>
           <group delimiter=" ">
-            <text macro="issued-date" prefix="(" suffix=")"/>
+            <choose>
+              <if has-day="issued">
+                <text macro="issued-date" prefix="(" suffix=")"/>
+              </if>
+            </choose>
             <text macro="accessed-date" suffix="."/>
           </group>
         </group>
@@ -478,7 +496,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
   </macro>

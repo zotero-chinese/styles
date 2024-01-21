@@ -34,7 +34,7 @@
   <div class="csl-entry">[23]	Ruby J, Fulton C. Beyond redlining: Editing software that works[C]. In: Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author, 1991</div>
   <div class="csl-entry">[25]	Mitchell T R, Larson J R. <i>People in organizations: An introduction to organizational behavior</i>[M]. 3rd ed. New York: McGraw-Hill, 1987</div>
-  <div class="csl-entry">[26]	Bergmann P G. Relativity[Z]. In: <i>The new encyclopedia Britannica: Vol. 26</i>. New York: Encyclopedia Britannica, 1993: 501-508</div>
+  <div class="csl-entry">[26]	Bergmann P G. Relativity[M]. In: <i>The new encyclopedia Britannica: Vol. 26</i>. New York: Encyclopedia Britannica, 1993: 501-508</div>
   <div class="csl-entry">[27]	Sadie S. <i>The new Grove dictionary of music and musicians</i>[M]. 6th ed. London : New York: Macmillan, 1980</div>
   <div class="csl-entry">[28]	李行健. 现代汉语规范辞典[M]. 北京: 外语教学与研究出版社, 2004: 255; Li X J. <i>Contemporary Chinese standard dictionary</i>[M]. Beijing: Foreign Language Teaching and Research Press, 2004: 255 (in Chinese)</div>
   <div class="csl-entry">[29]	现代汉语频率词典[M]. 北京: 北京语言学院出版社, 1986; <i>Modern Chinese frequency dictionary</i>[M]. Beijing: Beijing Language and Culture University Press, 1986 (in Chinese)</div>

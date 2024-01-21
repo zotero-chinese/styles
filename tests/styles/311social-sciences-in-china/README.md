@@ -52,8 +52,6 @@
 <sup>46</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.<br>
 <sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55-88.<br>
 <sup>48</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
-<sup>49</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编：《世界政治理论的探索与争鸣》，秦亚青、苏长和、门洪华、魏玲译，上海：上海人民出版社，2006年。<br>
-<sup>50</sup> 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。<br>
 
 ## 参考文献表
 
@@ -106,6 +104,4 @@
   <div class="csl-entry">[46]	Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.</div>
   <div class="csl-entry">[47]	R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55-88.</div>
   <div class="csl-entry">[48]	Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.</div>
-  <div class="csl-entry">[49]	彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编：《世界政治理论的探索与争鸣》，秦亚青、苏长和、门洪华、魏玲译，上海：上海人民出版社，2006年。</div>
-  <div class="csl-entry">[50]	实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。</div>
 </div>

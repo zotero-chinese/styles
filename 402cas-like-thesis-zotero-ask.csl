@@ -12,7 +12,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>cas-thesis</summary>
-    <updated>2023-12-21T18:05:25+08:00</updated>
+    <updated>2024-01-21T19:35:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -192,7 +192,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
     <!-- <text macro="accessed-date"/> 访问日期 -->

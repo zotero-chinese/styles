@@ -17,7 +17,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2023-12-22T00:19:10+08:00</updated>
+    <updated>2024-01-21T16:25:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -452,11 +452,13 @@
   </macro>
   <macro name="archive-en">
     <group delimiter=", ">
+      <!-- 档案的卷宗号 -->
       <text variable="archive_location"/>
       <text variable="archive_collection"/>
       <text variable="archive"/>
       <choose>
         <if variable="archive-place">
+          <!-- 档案的馆藏地以及收藏机构或单位 -->
           <text variable="archive-place"/>
         </if>
         <else>
@@ -469,6 +471,7 @@
     <group delimiter="，">
       <group>
         <text variable="archive_collection"/>
+        <!-- 档案的卷宗号 -->
         <text variable="archive_location"/>
       </group>
       <group>

@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-13T18:59:53+08:00</updated>
+    <updated>2024-01-21T15:32:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -467,7 +467,7 @@
           <text macro="title-en"/>
           <text macro="publisher-en"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-en"/>
           <text macro="secondary-contributors-en"/>
@@ -511,7 +511,7 @@
           <text macro="title-zh"/>
           <text macro="publisher-zh"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-zh"/>
           <text macro="secondary-contributors-zh"/>

@@ -14,7 +14,7 @@
     <issn>2095-574X</issn>
     <summary>根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《国际安全研究》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-18T00:00:00+08:00</published>
-    <updated>2023-12-21T00:47:44+08:00</updated>
+    <updated>2024-01-21T16:16:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 西文编者、译者、页码以及日期设定 -->
@@ -517,6 +517,7 @@
           <text variable="publisher-place"/>
           <text variable="publisher"/>
           <text variable="archive"/>
+          <!-- 档案的卷宗号 -->
           <text variable="archive_location"/>
         </group>
         <text macro="date"/>

@@ -34,7 +34,7 @@ Undefined
   <div class="csl-entry">. 北京: 北京古籍出版社, 1992	</div>
   <div class="csl-entry">. 刻本 版. 金陵: 湘乡曾国荃, 1865	</div>
   <div class="csl-entry">. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社, 2012	</div>
-  <div class="csl-entry">. 桂林: 广西师范大学出版社, 2001(2001)	</div>
+  <div class="csl-entry">. 桂林: 广西师范大学出版社, 20012001	</div>
   <div class="csl-entry">. 北京: 中国人民大学出版社, 2012	</div>
   <div class="csl-entry">. 北京: 社会科学文献出版社, 2001	</div>
   <div class="csl-entry">. 上海: 同济大学出版社, 2011: 5–6	</div>
@@ -50,9 +50,9 @@ Undefined
   <div class="csl-entry">. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52	</div>
   <div class="csl-entry">. Sodeman W A Jr, Sodeman W A, 编//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772	</div>
   <div class="csl-entry">. American Water Works Association, 编//Water Quality &#38; Treatment: A Handbook on Drinking Water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36	</div>
-  <div class="csl-entry">. 武汉: 中华医学会湖北分会, 1984(1984)	</div>
-  <div class="csl-entry">. 北京: 北京图书馆, 1957(1957)	</div>
-  <div class="csl-entry">. Washington, D.C.: American Association for the Advancement of Science, 1883(1883)	</div>
+  <div class="csl-entry">. 武汉: 中华医学会湖北分会, 19841984	</div>
+  <div class="csl-entry">. 北京: 北京图书馆, 19571957	</div>
+  <div class="csl-entry">. Washington, D.C.: American Association for the Advancement of Science, 18831883	</div>
   <div class="csl-entry">科学通报 (2012, 57(34): 3219)	 </div>
   <div class="csl-entry">人民日报 (2013: 2)	 </div>
   <div class="csl-entry">图书情报工作 (2008, 52(6): 6–12)	 </div>
@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">. (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>	</div>
   <div class="csl-entry">41. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>	</div>
-  <div class="csl-entry">. ([日期不详])[2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>	</div>
+  <div class="csl-entry">. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>	</div>
   <div class="csl-entry">. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>	</div>
   <div class="csl-entry">British Medical Journal (1981, 283(6292): 628)	 </div>
   <div class="csl-entry">. 合肥: 中国科学技术大学, 2000: 17–18	</div>
@@ -152,7 +152,7 @@ Undefined
   <div class="csl-entry">人民日报 (2013)	 </div>
   <div class="csl-entry">. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>	</div>
   <div class="csl-entry">. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>	</div>
-  <div class="csl-entry">. ([日期不详])[2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>	</div>
+  <div class="csl-entry">. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>	</div>
   <div class="csl-entry">. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>	</div>
 </div>
 
@@ -184,7 +184,7 @@ Undefined
   <div class="csl-entry">. 	</div>
   <div class="csl-entry">. (1991)	 </div>
   <div class="csl-entry">. 3 版. New York: McGraw-Hill, 1987: 602	</div>
-  <div class="csl-entry">. New York: Encyclopedia Britannica, 1993: 501–508(1993)	</div>
+  <div class="csl-entry">. New York: Encyclopedia Britannica, 1993: 501–5081993	</div>
   <div class="csl-entry">. Sadie S, 编. 6 版. London : New York: Macmillan, 1980: 29	</div>
   <div class="csl-entry">. 李行健, 编. 北京: 外语教学与研究出版社, 2004: 255	</div>
   <div class="csl-entry">. 北京: 北京语言学院出版社, 1986	</div>
@@ -212,17 +212,17 @@ Undefined
   <div class="csl-entry">. 北京: 人民出版社, 1994	</div>
   <div class="csl-entry">. 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998: 2	</div>
   <div class="csl-entry">//中国大历史. 北京: 三联书店, 1997: 2	</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">. 上海: 上海古籍出版社, 1985(1985)	</div>
-  <div class="csl-entry">. 沈阳: 辽沈书社, 1991(1991)	</div>
-  <div class="csl-entry">. 北京: 中华书局, 1985(1985)	</div>
-  <div class="csl-entry">. 济南: 齐鲁书社, 1997(1997)	</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">. 北京: 中国书店, 1992(1992)	</div>
-  <div class="csl-entry">. 北京: 中华书局, 1975(1975)	</div>
-  <div class="csl-entry">. 上海: 上海古籍出版社, 1983(1983)	</div>
-  <div class="csl-entry">. 北京: 中华书局, 1987(1987)	</div>
+  <div class="csl-entry">16. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. 上海: 上海古籍出版社, 19851985	</div>
+  <div class="csl-entry">. 沈阳: 辽沈书社, 19911991	</div>
+  <div class="csl-entry">. 北京: 中华书局, 19851985	</div>
+  <div class="csl-entry">. 济南: 齐鲁书社, 19971997	</div>
+  <div class="csl-entry">21. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">22. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. 北京: 中国书店, 19921992	</div>
+  <div class="csl-entry">. 北京: 中华书局, 19751975	</div>
+  <div class="csl-entry">. 上海: 上海古籍出版社, 19831983	</div>
+  <div class="csl-entry">. 北京: 中华书局, 19871987	</div>
   <div class="csl-entry">中国史研究 (1998(3))	 </div>
   <div class="csl-entry">中国经济 (1936, 4(6))	 </div>
   <div class="csl-entry">社会科学 (1990(6))	 </div>
@@ -237,9 +237,9 @@ Undefined
   <div class="csl-entry">. 	</div>
   <div class="csl-entry">//全球化与亚太区域化国际研讨会论文集.	 </div>
   <div class="csl-entry">(1917-09-15)	</div>
-  <div class="csl-entry">(1950-07)	</div>
+  <div class="csl-entry">1950	</div>
   <div class="csl-entry">. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>	</div>
-  <div class="csl-entry">. . 《文学遗产通讯》（网络版试刊）2006年第1期. ([日期不详])[2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>	</div>
+  <div class="csl-entry">. . 《文学遗产通讯》（网络版试刊）2006年第1期. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>	</div>
   <div class="csl-entry">. Chicago: University of Chicago Press, 2000	</div>
   <div class="csl-entry">. Marsden W, 译. Hertfordshire: Cumberland House, 1997	</div>
   <div class="csl-entry">Modern China (1993, 19(2): 199–215)	 </div>
@@ -259,19 +259,19 @@ Undefined
   <div class="csl-entry">. 刘刚, 编. 陈霄, 译//风险规制：德国的理论与实践. 法律出版社, 2012	</div>
   <div class="csl-entry">法制日报 (2000: 2)	 </div>
   <div class="csl-entry">. . 人民网. (2004-01-10)[2022-05-03]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>	</div>
-  <div class="csl-entry">. . 新华网. ([日期不详]). <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>	</div>
+  <div class="csl-entry">. . 新华网. . <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>	</div>
   <div class="csl-entry">. . 中国法律评论. (2018-12-01)[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>	</div>
-  <div class="csl-entry">. ([日期不详])[2016-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>	</div>
+  <div class="csl-entry">. [2016-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>	</div>
   <div class="csl-entry">. 中国政法大学, 2015	</div>
   <div class="csl-entry">14. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">(2007-07-11)	</div>
-  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">16. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">(2015-07-06)	</div>
   <div class="csl-entry">Yale Law Journal (1964, 73(5): 733–787)	 </div>
   <div class="csl-entry">Harper’s Weekly (1913: 10)	 </div>
   <div class="csl-entry">. Stanford University Press, 1995	</div>
   <div class="csl-entry">. 应松年, 马怀德, 编. 中国法制出版社, 2006	</div>
-  <div class="csl-entry">(1987)	</div>
+  <div class="csl-entry">1987	</div>
   <div class="csl-entry">中国法学 (1993(1): 52–59)	 </div>
   <div class="csl-entry">. 中国政法大学出版社, 2004: 1159	</div>
   <div class="csl-entry">//邓小平文选. 2 版. 人民出版社, 1994	</div>
@@ -295,10 +295,10 @@ Undefined
   <div class="csl-entry">. Bergsten C F, Gill B, Lardy N R, 等, 编//China: The Balance Sheet. Public Affairs Press, 2006	</div>
   <div class="csl-entry">. Stat., 1966, 80: 931, 944–947	</div>
   <div class="csl-entry">. U.S.C., 2006, 5	</div>
-  <div class="csl-entry">(1982)	</div>
-  <div class="csl-entry">(1984)	</div>
-  <div class="csl-entry">(1973)	</div>
-  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">1982	</div>
+  <div class="csl-entry">1984	</div>
+  <div class="csl-entry">1973	</div>
+  <div class="csl-entry">49. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">. . BBC News. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>	</div>
   <div class="csl-entry">. 4 版. Paris: Montchrestien, 2003	</div>
   <div class="csl-entry">RGDIP (2015: 15–47)	 </div>
@@ -307,7 +307,7 @@ Undefined
   <div class="csl-entry">. (2016-07)	 </div>
   <div class="csl-entry">. (2016-08)	 </div>
   <div class="csl-entry">. l’Université de Marseille, 2016	</div>
-  <div class="csl-entry">. . Histoire &#38; mesure, vol. XXIII, n° 2, 2008. ([日期不详])[2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>	</div>
+  <div class="csl-entry">. . Histoire &#38; mesure, vol. XXIII, n° 2, 2008. [2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>	</div>
   <div class="csl-entry">Zeitschrift für die gesamte Strafrechtswissenschaft (2017, 129(3): 629–649)	 </div>
   <div class="csl-entry">Juristische Schulung (2012(3): 234–240)	 </div>
   <div class="csl-entry">Die Zeit (2015)	 </div>
@@ -319,10 +319,10 @@ Undefined
   <div class="csl-entry">67. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">68. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">69. [CSL STYLE ERROR: reference with no printed form.]</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">(1999)	</div>
-  <div class="csl-entry">(2000)	</div>
-  <div class="csl-entry">. ([日期不详])[2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>	</div>
+  <div class="csl-entry">70. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">1999	</div>
+  <div class="csl-entry">2000	</div>
+  <div class="csl-entry">. [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>	</div>
   <div class="csl-entry">. 有斐閣, 1971	</div>
   <div class="csl-entry">. 日本評論社, 1950	</div>
   <div class="csl-entry">民商法雑誌 (1954, 29(5): 1)	 </div>
@@ -330,10 +330,10 @@ Undefined
   <div class="csl-entry">(1919-03-03)	</div>
   <div class="csl-entry">(1982-07-15)	</div>
   <div class="csl-entry">80. [CSL STYLE ERROR: reference with no printed form.]</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">. ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>	</div>
+  <div class="csl-entry">81. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. [2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>	</div>
   <div class="csl-entry">. 高道蕴, 高鸿钧, 贺卫方, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994	</div>
-  <div class="csl-entry">. . 新华网. ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>	</div>
+  <div class="csl-entry">. . 新华网. . <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>	</div>
 </div>
 
 ### APA 示例文献
@@ -352,8 +352,8 @@ Undefined
   <div class="csl-entry">Human Development (1972, 15(1): 1–12)	 </div>
   <div class="csl-entry">American Journal of Orthopsychiatry (2014, 84(6): 611–618)	 </div>
   <div class="csl-entry">American Journal of Orthopsychiatry (1981, 51(3): 391–402)	 </div>
-  <div class="csl-entry">(2018)	</div>
-  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">2018	</div>
+  <div class="csl-entry">2018	</div>
   <div class="csl-entry">Cochrane Database of Systematic Reviews (2018)	 </div>
   <div class="csl-entry">UpToDate (2019)	 </div>
   <div class="csl-entry">Science (2019, 363(6422): 33–34)	 </div>
@@ -403,9 +403,9 @@ Undefined
   <div class="csl-entry">. Richardson F, 编. National Educational Press, 1973: 113–123	</div>
   <div class="csl-entry">. Liben L S, Mueller U, 编//Handbook of Child Psychology and Developmental Science. 7 版. John Wiley &#38; Sons, 2015: 339–380	</div>
   <div class="csl-entry">. Gold M, 编//The Complete Social Scientist: A Kurt Lewin Reader. American Psychological Association, 1999: 265–284	</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">. Stanford University, 2019(2019)	</div>
+  <div class="csl-entry">65. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">66. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. Stanford University, 20192019	</div>
   <div class="csl-entry">(2019-01-13)	</div>
   <div class="csl-entry">. (2012) . <a href="https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf">https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf</a>	</div>
   <div class="csl-entry">. (2013) . <a href="http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf">http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf</a>	</div>
@@ -430,105 +430,105 @@ Undefined
   <div class="csl-entry">. University of Wisconsin–Madison, 2017	</div>
   <div class="csl-entry">. The College of William &#38; Mary, 2012	</div>
   <div class="csl-entry">Psychology of Sexual Orientation and Gender Diversity (2016, 3(4): 499–500)	 </div>
-  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">2016	</div>
   <div class="csl-entry">The New York Times (2019)	 </div>
   <div class="csl-entry">94. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">. (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>	</div>
-  <div class="csl-entry">(2018)	</div>
-  <div class="csl-entry">(2016)	</div>
-  <div class="csl-entry">(2018)	</div>
-  <div class="csl-entry">(2019)	</div>
-  <div class="csl-entry">. PsyArXiv, 2018(2018)	</div>
-  <div class="csl-entry">. PubMed Central, 2015(2015)	</div>
-  <div class="csl-entry">. ERIC, 2014(2014)	</div>
-  <div class="csl-entry">. ICPSR, 2018(2018)	</div>
-  <div class="csl-entry">. National Archive of Data on Arts and Culture, 2016(2016)	</div>
-  <div class="csl-entry">(2018)	</div>
-  <div class="csl-entry">. University of Kentucky, 2015(2015)	</div>
-  <div class="csl-entry">(2011)	</div>
-  <div class="csl-entry">. Biostat, 2014(2014)	</div>
-  <div class="csl-entry">(2016)	</div>
-  <div class="csl-entry">(2015)	</div>
-  <div class="csl-entry">. App Store, 2019(2019)	</div>
-  <div class="csl-entry">. Google Play Store, 2019(2019)	</div>
+  <div class="csl-entry">2018	</div>
+  <div class="csl-entry">2016	</div>
+  <div class="csl-entry">2018	</div>
+  <div class="csl-entry">2019	</div>
+  <div class="csl-entry">. PsyArXiv, 20182018	</div>
+  <div class="csl-entry">. PubMed Central, 20152015	</div>
+  <div class="csl-entry">. ERIC, 20142014	</div>
+  <div class="csl-entry">. ICPSR, 20182018	</div>
+  <div class="csl-entry">. National Archive of Data on Arts and Culture, 20162016	</div>
+  <div class="csl-entry">2018	</div>
+  <div class="csl-entry">. University of Kentucky, 20152015	</div>
+  <div class="csl-entry">2011	</div>
+  <div class="csl-entry">. Biostat, 20142014	</div>
+  <div class="csl-entry">2016	</div>
+  <div class="csl-entry">2015	</div>
+  <div class="csl-entry">. App Store, 20192019	</div>
+  <div class="csl-entry">. Google Play Store, 20192019	</div>
   <div class="csl-entry">. (2011)	 </div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">. PsycTESTS, 2018(2018)	</div>
-  <div class="csl-entry">. ETS TestLink, 2000(2000)	</div>
-  <div class="csl-entry">. United Artists, 1975(1975)	</div>
-  <div class="csl-entry">. American Pychological Association, 2017(2017)	</div>
-  <div class="csl-entry">. WingNut Films; The Saul Zaentz Company, 2001(2001)	</div>
-  <div class="csl-entry">. Nouvelles Éditions de Films, 1987(1987)	</div>
-  <div class="csl-entry">. Blown Deadline Productions; HBO, 2002–2008(2002–2008)	</div>
+  <div class="csl-entry">114. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. PsycTESTS, 20182018	</div>
+  <div class="csl-entry">. ETS TestLink, 20002000	</div>
+  <div class="csl-entry">. United Artists, 19751975	</div>
+  <div class="csl-entry">. American Pychological Association, 20172017	</div>
+  <div class="csl-entry">. WingNut Films; The Saul Zaentz Company, 20012001	</div>
+  <div class="csl-entry">. Nouvelles Éditions de Films, 19871987	</div>
+  <div class="csl-entry">. Blown Deadline Productions; HBO, 2002–20082002–2008	</div>
   <div class="csl-entry">. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11)	</div>
   <div class="csl-entry">. Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21)	</div>
-  <div class="csl-entry">. TED Conferences, 2018(2018-04)	</div>
+  <div class="csl-entry">. TED Conferences, 20182018	</div>
   <div class="csl-entry">. YouTube, 2012(2012-03-16)	</div>
-  <div class="csl-entry">. American Psychiatric Association, 2018(2018)	</div>
+  <div class="csl-entry">. American Psychiatric Association, 20182018	</div>
   <div class="csl-entry">. Vimeo, 2017(2017-11-24)	</div>
   <div class="csl-entry">. YouTube, 2016(2016-09-30)	</div>
   <div class="csl-entry">. YouTube, 2016(2016-12-06)	</div>
-  <div class="csl-entry">. Decca, 2010(2010)	</div>
-  <div class="csl-entry">. Columbia, 2016(2016)	</div>
-  <div class="csl-entry">. Brilliant Classics, 2012(2012)	</div>
-  <div class="csl-entry">. Parkwood; Columbia, 2016(2016)	</div>
-  <div class="csl-entry">. mcDJ; RCA, 2018(2018)	</div>
-  <div class="csl-entry">. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017(2017)	</div>
-  <div class="csl-entry">. NPR, 2015(2015)	</div>
+  <div class="csl-entry">. Decca, 20102010	</div>
+  <div class="csl-entry">. Columbia, 20162016	</div>
+  <div class="csl-entry">. Brilliant Classics, 20122012	</div>
+  <div class="csl-entry">. Parkwood; Columbia, 20162016	</div>
+  <div class="csl-entry">. mcDJ; RCA, 20182018	</div>
+  <div class="csl-entry">. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 20172017	</div>
+  <div class="csl-entry">. NPR, 20152015	</div>
   <div class="csl-entry">. WBEZ Chicago, 2011(2011-08-12)	</div>
   <div class="csl-entry">(1960-05-04)	</div>
   <div class="csl-entry">. American Rhetoric, 1963(1963-08-28)	</div>
-  <div class="csl-entry">(1826–1827)	</div>
-  <div class="csl-entry">(1930)	</div>
-  <div class="csl-entry">(2018)	</div>
-  <div class="csl-entry">(2015)	</div>
-  <div class="csl-entry">. University of Virginia: Weldon Cooper Center for Public Service, 2013(2013)	</div>
-  <div class="csl-entry">([日期不详])	</div>
-  <div class="csl-entry">(1985)	</div>
-  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">1826–1827	</div>
+  <div class="csl-entry">1930	</div>
+  <div class="csl-entry">2018	</div>
+  <div class="csl-entry">2015	</div>
+  <div class="csl-entry">. University of Virginia: Weldon Cooper Center for Public Service, 20132013	</div>
+  <div class="csl-entry">145. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">1985	</div>
+  <div class="csl-entry">2016	</div>
   <div class="csl-entry">(2019-05-22)	</div>
-  <div class="csl-entry">(2016)	</div>
-  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">2016	</div>
+  <div class="csl-entry">2018	</div>
   <div class="csl-entry">(2018-06-29)	</div>
   <div class="csl-entry">(2018-02-26)	</div>
   <div class="csl-entry">(2018-06-21)	</div>
-  <div class="csl-entry">. . Twitter. ([日期不详])[2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>	</div>
+  <div class="csl-entry">. . Twitter. [2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>	</div>
   <div class="csl-entry">(2018-03-22)	</div>
   <div class="csl-entry">(2018-11-28)	</div>
   <div class="csl-entry">(2018-06-26)	</div>
-  <div class="csl-entry">. . Facebook. ([日期不详])[2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>	</div>
+  <div class="csl-entry">. . Facebook. [2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>	</div>
   <div class="csl-entry">(2018-11-26)	</div>
-  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">160. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">(2018-09-12)	</div>
   <div class="csl-entry">. . CNN. (2019-01-03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>	</div>
   <div class="csl-entry">. . HuffPost. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>	</div>
   <div class="csl-entry">. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>	</div>
-  <div class="csl-entry">. (2018-03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>	</div>
+  <div class="csl-entry">. 2018. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>	</div>
   <div class="csl-entry">. . Mayo Clinic. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>	</div>
-  <div class="csl-entry">. . The research ethics guidebook: A resource for social scientists. ([日期不详]). <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>	</div>
-  <div class="csl-entry">. ([日期不详]). <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>	</div>
-  <div class="csl-entry">. . U.S. Department of Commerce. ([日期不详])[2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>	</div>
-  <div class="csl-entry">(1954)	</div>
-  <div class="csl-entry">(2015)	</div>
-  <div class="csl-entry">(1991)	</div>
-  <div class="csl-entry">(2001)	</div>
-  <div class="csl-entry">(1984)	</div>
-  <div class="csl-entry">(1976)	</div>
-  <div class="csl-entry">(1992)	</div>
+  <div class="csl-entry">. . The research ethics guidebook: A resource for social scientists. . <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>	</div>
+  <div class="csl-entry">. . <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>	</div>
+  <div class="csl-entry">. . U.S. Department of Commerce. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>	</div>
+  <div class="csl-entry">1954	</div>
+  <div class="csl-entry">2015	</div>
+  <div class="csl-entry">1991	</div>
+  <div class="csl-entry">2001	</div>
+  <div class="csl-entry">1984	</div>
+  <div class="csl-entry">1976	</div>
+  <div class="csl-entry">1992	</div>
   <div class="csl-entry">. U.S.C, 1990, 42	</div>
   <div class="csl-entry">. Stat., 1964, 78: 241	</div>
   <div class="csl-entry">. U.S.C, 2015, 20	</div>
   <div class="csl-entry">. Stat., 2009, 123: 5	</div>
   <div class="csl-entry">. U.S.C, 1972, 20	</div>
   <div class="csl-entry">. Fla. Stat., 2009	</div>
-  <div class="csl-entry">(2016)	</div>
-  <div class="csl-entry">(2014)	</div>
+  <div class="csl-entry">2016	</div>
+  <div class="csl-entry">2014	</div>
   <div class="csl-entry">185. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">. Cong. Rec., 2016, 162: 2394	</div>
   <div class="csl-entry">. (2015) . <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>	</div>
-  <div class="csl-entry">(2009)	</div>
+  <div class="csl-entry">2009	</div>
   <div class="csl-entry">. F.R., 2016, 81: 32391	</div>
-  <div class="csl-entry">(2014)	</div>
+  <div class="csl-entry">2014	</div>
   <div class="csl-entry">Using metaphors to present concepts across different intellectual domains (9,367,592)	 </div>
   <div class="csl-entry">192. [CSL STYLE ERROR: reference with no printed form.]</div>
   <div class="csl-entry">193. [CSL STYLE ERROR: reference with no printed form.]</div>

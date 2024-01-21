@@ -164,18 +164,18 @@ Undefined
 <sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》，《心理学报》第40卷，2008年，第210—215页。<br>
 <sup>7</sup> S. A. Wolchik, S. G. West, I. N. Sandler, J. Y. Tein, D. Coatsworth, L. Lengua, L. Weiss, E. R. Anderson, S. M. Greene, and W. A. Griffin, “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce,” <i>Journal of Consulting and Clinical Psychology</i>, vol. 68, no. 5 (October 2000), pp. 843-856.<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》出版时间不详。<br>
-<sup>9</sup> Sujata M. Huestegge, Tim Raettig, and Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” (2019).<br>
-<sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater, and Lorenzo Pia, “Body Ownership Increases the Interference between Observed and Executed Movements.,” <i>PLoS ONE</i>, vol. 14, no. 1 (2019).<br>
+<sup>9</sup> Sujata M. Huestegge, Tim Raettig, and Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i> (2019).<br>
+<sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater, and Lorenzo Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLoS ONE</i>, vol. 14, no. 1 (2019).<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年，第210—215页。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年。<br>
-<sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth.</i>, Hoboken,  NJ,  US: Jossey-Bass, 1989.<br>
+<sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth.</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace, <i>A Philosophical Essay on Probabilities</i>, trans. F. W. Truscott and F. L. Emory, Dover, 1951.<br>
-<sup>16</sup> 拉普拉斯 Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年。<br>
+<sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年。<br>
 <sup>17</sup> Roberta Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections,” in C. Freksa, C. Habel, and K. F. Wender, eds., <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998, pp. 1-17.<br>
 <sup>18</sup> Deng Feng Wang and Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality,” in Deng Feng Wang and Yu Bo Hou, eds., <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004, pp. 46-84.<br>
 <sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》，王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京：北京大学出版社，2004年，第46—84页。<br>
-<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation,” in M. F. Bornstein, ed., <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington,  DC,  US: Wiley, 1993, pp. 43-110.<br>
+<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation,” in M. F. Bornstein, ed., <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993, pp. 43-110.<br>
 <sup>21</sup> Kenneth L. Lichstein and Ronald S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs,” in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden, 1990.<br>
 <sup>22</sup> Cheryl B. Lanktree and John N. Briere, “Early Data on the Trauma Symptom Checklist for Children (TSC-C),” San Diego, CA, 1991.<br>
 <sup>23</sup> John Ruby and Cain Fulton, “Beyond Redlining: Editing Software That Works,” Washington, DC, 1993.<br>
@@ -240,8 +240,6 @@ Undefined
 <sup>46</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.<br>
 <sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55-88.<br>
 <sup>48</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
-<sup>49</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编：《世界政治理论的探索与争鸣》，秦亚青、苏长和、门洪华、魏玲译，上海：上海人民出版社，2006年。<br>
-<sup>50</sup> 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。<br>
 
 ### 《法学引注手册》 示例文献
 
@@ -329,6 +327,7 @@ Undefined
 <sup>82</sup> ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022.<br>
 <sup>83</sup> 欧中坦：《千方百计上京城：清朝的京控》，谢鹏程译，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社，1994年。<br>
 <sup>84</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
+
 ### APA 示例文献
 
 <sup>1</sup> S. M. McCauley and M. H. Christiansen, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development,” <i>Psychological Review</i>, vol. 126, no. 1 (2019), pp. 1-51.<br>
@@ -338,7 +337,7 @@ Undefined
 <sup>5</sup> E. Kalnay, M. Kanamitsu, R. Kistler, W. Collins, D. Deaven, L. Gandin, M. Iredell, S. Saha, G. White, J. Wollen, Y. Zhu, M. Chelliah, W. Ebisuzaki, W. Higgins, J. Janowiak, K. C. Mo, C. Ropelewski, J. Wang, A. Leetma, A. Aaron, B. Baron C. Court, and D. Joseph, “The NCEP/NCAR 40-Year Reanalysis Project,” <i>Bulletin of the American Meteorological Society</i>, vol. 77, no. 3 (January 1996), pp. 437-471.<br>
 <sup>6</sup> R. De Vries, M. Nieuwenhuijze, S. E. Buitendijk, and the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, vol. 29, no. 10 (2013), pp. 1122-1128.<br>
 <sup>7</sup> D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, vol. 14, no. 1 (2019).<br>
-<sup>8</sup> S. M. Huestegge, T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face-Voice Gender Incongruity on Basic Cognitive Information Processing,” <i>Experimental Psychology</i> (2019).<br>
+<sup>8</sup> S. M. Huestegge, T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i>.<br>
 <sup>9</sup> T. Pachur and B. Scheibehenne, “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach,” <i>Psychonomic Bulletin &#38; Review</i>.<br>
 <sup>10</sup> V. Chaves-Morillo, C. Gómez Calero, J. J. Fernández-Muñoz, A. Toledano-Muñoz, J. Fernández-Heute, N. Martinez-Monge, D. Palacios-Ceña, and C. Peñacoba-Puente, “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age,” <i>Clínica y Salud</i>, vol. 28, no. 3 (2018), pp. 155-161.<br>
 <sup>11</sup> J. Piaget, “Intellectual Evolution from Adolescence to Adulthood,” trans. J. Bliss and H. Furth, <i>Human Development</i>, vol. 15, no. 1 (1972), pp. 1-12.<br>

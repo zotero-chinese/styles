@@ -13,7 +13,7 @@
     <category field="literature"/>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文艺争鸣》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2023-12-21T00:10:51+08:00</updated>
+    <updated>2024-01-21T16:16:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -311,6 +311,7 @@
           <text variable="publisher-place" prefix=", " suffix=": "/>
           <text variable="publisher"/>
           <text variable="archive" suffix=", "/>
+          <!-- 档案的卷宗号 -->
           <text variable="archive_location"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
@@ -455,6 +456,7 @@
           <text variable="publisher-place" prefix="，" suffix="："/>
           <text variable="publisher"/>
           <text variable="archive" suffix="，"/>
+          <!-- 档案的卷宗号 -->
           <text variable="archive_location"/>
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
@@ -584,6 +586,7 @@
           <text variable="publisher-place" prefix=", " suffix=": "/>
           <text variable="publisher"/>
           <text variable="archive" suffix=", "/>
+          <!-- 档案的卷宗号 -->
           <text variable="archive_location"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
@@ -728,6 +731,7 @@
           <text variable="publisher-place" prefix="，" suffix="："/>
           <text variable="publisher"/>
           <text variable="archive" suffix="，"/>
+          <!-- 档案的卷宗号 -->
           <text variable="archive_location"/>
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>

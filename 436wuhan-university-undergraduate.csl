@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>武汉大学本科生毕业论文（设计）</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-21T16:25:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -104,8 +104,10 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article">
-        <!-- 预印本 -->
+      <if type="article bill collection hearing legal_case legislation manuscript personal_communication regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
+          article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -114,10 +116,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill collection legal_case legislation manuscript personal_communication regulation" match="any">
-        <text value="A"/>
-      </else-if>
-      <else-if type="book chapter" match="any">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -264,8 +263,17 @@
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
-              <text variable="publisher-place"/>
-              <text variable="publisher"/>
+              <choose>
+                <if variable="publisher publisher-place" match="any">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </if>
+                <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
+                  <text variable="archive-place"/>
+                  <text variable="archive"/>
+                </else>
+              </choose>
             </group>
             <text macro="issued-year"/>
           </group>
@@ -336,7 +344,7 @@
           <text variable="container-title"/>
           <text macro="access"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 专著中的析出文献 -->
           <text macro="container-booklike"/>
           <text macro="publisher"/>

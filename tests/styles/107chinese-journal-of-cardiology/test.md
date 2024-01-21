@@ -39,7 +39,7 @@
   <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
   <div class="csl-entry">[7]	王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.</div>
   <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
-  <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[M]. 桂林: 广西师范大学出版社, 2001.</div>
+  <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.</div>
   <div class="csl-entry">[10]	杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">[11]	赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011:5-6.</div>
@@ -71,7 +71,7 @@
   <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法: 中国, 01128777.2[P]. 2002-03-06.</div>
   <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system: US, US6915001[P]. 2005-07-05.</div>
   <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
-  <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[EB]. 2005.</div>
+  <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[A]. 2005.</div>
   <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy[EB/OL]. 2008[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012][2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core[EB/OL]. 2009[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -241,15 +241,15 @@
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津:9.</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000:9.</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[M]. 1917.</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[M]. 1950.</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电[A]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录[M]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. 1998[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. [2007][2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain HB. On the search for civil society in China[J]. Mod China, 1993, 19(2):199-215. DOI: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
   <div class="csl-entry">[47]	Schfield RS. The impact of scarcity and plenty on population change in England[M]//Rotberg RI, Rabb TK. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983:55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger[M]. 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger[A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -268,42 +268,42 @@
   <div class="csl-entry">[11]	赵耀彤. 一名基层法官眼里好律师的样子[EB/OL]. 2018[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
   <div class="csl-entry">[12]	法国行政法院网站[EB/OL]. [2016][2016-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
   <div class="csl-entry">[13]	李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. 中国政法大学, 2015.</div>
-  <div class="csl-entry">[14]	民法总则[M].</div>
-  <div class="csl-entry">[15]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[EB]. 2007.</div>
-  <div class="csl-entry">[16]	包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号[M].</div>
-  <div class="csl-entry">[17]	陆红霞诉南通市发改委政府信息公开案[EB]//最高人民法院公报. 2015.</div>
+  <div class="csl-entry">[14]	民法总则[A].</div>
+  <div class="csl-entry">[15]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A]. 2007.</div>
+  <div class="csl-entry">[16]	包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号[A].</div>
+  <div class="csl-entry">[17]	陆红霞诉南通市发改委政府信息公开案[A]//最高人民法院公报. 2015.</div>
   <div class="csl-entry">[18]	Reich CA. The new property[J]. Yale Law J, 1964, 73(5):733-787. DOI: <a href="https://doi.org/10.2307/794645">10.2307/794645</a>.</div>
   <div class="csl-entry">[19]	Brandeis LD. What publicity can do[J]. Harper’s Weekly, 1913:10.</div>
   <div class="csl-entry">[20]	Alford W. To steal a book is an elegant offense: Intellectual property law in Chinese civilization[M]. Stanford University Press, 1995.</div>
   <div class="csl-entry">[21]	应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006.</div>
-  <div class="csl-entry">[22]	R. v. Panel on Take-overs and Mergers[M]//QB: Vol. 815. 1987.</div>
+  <div class="csl-entry">[22]	R. v. Panel on Take-overs and Mergers[A]//QB: Vol. 815. 1987.</div>
   <div class="csl-entry">[23]	罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1):52-59. DOI: <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">10.14111/j.cnki.zgfx.1993.01.010</a>.</div>
   <div class="csl-entry">[24]	夏新华, 胡旭晟, 刘鄂, 等. 近代中国宪政历程[M]. 中国政法大学出版社, 2004.</div>
   <div class="csl-entry">[25]	邓小平. 精简机构是一场革命[M]//邓小平文选: 卷 2. 2 版. 人民出版社, 1994.</div>
   <div class="csl-entry">[26]	[英]劳特派特. 奥本海国际法: 上卷第一分册[M]. 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971.</div>
-  <div class="csl-entry">[27]	全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[EB]. 2017.</div>
-  <div class="csl-entry">[28]	全国人大常委会. 中华人民共和国公司法[EB]. 2005年修订. 2005.</div>
-  <div class="csl-entry">[29]	全国人大常委会. 中华人民共和国公司法[EB]. 2013年修正. 2013.</div>
-  <div class="csl-entry">[30]	最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[EB]. 1993.</div>
-  <div class="csl-entry">[31]	全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[EB]. 1991.</div>
-  <div class="csl-entry">[32]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[EB]. 2007.</div>
-  <div class="csl-entry">[33]	最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[EB]. 2018.</div>
-  <div class="csl-entry">[34]	国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[EB]. 2018.</div>
+  <div class="csl-entry">[27]	全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[A]. 2017.</div>
+  <div class="csl-entry">[28]	全国人大常委会. 中华人民共和国公司法[A]. 2005年修订. 2005.</div>
+  <div class="csl-entry">[29]	全国人大常委会. 中华人民共和国公司法[A]. 2013年修正. 2013.</div>
+  <div class="csl-entry">[30]	最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[A]. 1993.</div>
+  <div class="csl-entry">[31]	全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[A]. 1991.</div>
+  <div class="csl-entry">[32]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A]. 2007.</div>
+  <div class="csl-entry">[33]	最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[A]. 2018.</div>
+  <div class="csl-entry">[34]	国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[A]. 2018.</div>
   <div class="csl-entry">[35]	国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. 2015.</div>
   <div class="csl-entry">[36]	信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R]. 2013.</div>
-  <div class="csl-entry">[37]	中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[EB]. 2014.</div>
-  <div class="csl-entry">[38]	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[M]//最高人民法院公报. 2013.</div>
-  <div class="csl-entry">[39]	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[M]. 2017.</div>
+  <div class="csl-entry">[37]	中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[A]. 2014.</div>
+  <div class="csl-entry">[38]	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.</div>
+  <div class="csl-entry">[39]	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[A]. 2017.</div>
   <div class="csl-entry">[40]	Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.):89.</div>
   <div class="csl-entry">[41]	Rosenthal A. White House tutors Kremlin in how a presidency works[N]. New York Times, 1990-06-15(A1).</div>
   <div class="csl-entry">[42]	Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran. MIT Press, 1996.</div>
   <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress[M]//Bergsten CF, Gill B, Lardy NR, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
-  <div class="csl-entry">[44]	Department of Transportation Act: 89-670[M]//Stat.: Vol. 80. 1966:931, 944-947.</div>
-  <div class="csl-entry">[45]	Administrative Procedure Act § 6[M]//U.S.C.: Vol. 5. 2006.</div>
-  <div class="csl-entry">[46]	Natural Resources Defense Council <i>v.</i> Gorsuch[M]//F.2d: Vol. 685. 1982:718.</div>
-  <div class="csl-entry">[47]	Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[M]//U.S.: Vol. 467. 1984:837.</div>
-  <div class="csl-entry">[48]	Roe <i>v.</i> Wade[M]//U.S.: Vol. 410. 1973:113.</div>
-  <div class="csl-entry">[49]	United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[M].</div>
+  <div class="csl-entry">[44]	Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966:931, 944-947.</div>
+  <div class="csl-entry">[45]	Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.</div>
+  <div class="csl-entry">[46]	Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d: Vol. 685. 1982:718.</div>
+  <div class="csl-entry">[47]	Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[A]//U.S.: Vol. 467. 1984:837.</div>
+  <div class="csl-entry">[48]	Roe <i>v.</i> Wade[A]//U.S.: Vol. 410. 1973:113.</div>
+  <div class="csl-entry">[49]	United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[A].</div>
   <div class="csl-entry">[50]	McDonell S. When China began streaming trials online[EB/OL]. 2016[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
   <div class="csl-entry">[51]	Chevallier M. L’État de droit[M]. 4th ed. Paris: Montchrestien, 2003.</div>
   <div class="csl-entry">[52]	Poisson M. Le droit de la mer[J]. RGDIP, 2015:15-47.</div>
@@ -321,20 +321,20 @@
   <div class="csl-entry">[64]	Schwab M. [M]//Münchener Kommentar BGB: Vol. 5. 6th ed. 2013.</div>
   <div class="csl-entry">[65]	Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Baumann J. Das Abtreibungsverbot des § 218 StGB. 2nd ed. 1972.</div>
   <div class="csl-entry">[66]	Canaris CW. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
-  <div class="csl-entry">[67]	StGB[M].</div>
-  <div class="csl-entry">[68]	StPO[M].</div>
-  <div class="csl-entry">[69]	GG[M].</div>
-  <div class="csl-entry">[70]	Strauß-Karikatur, Kunstfreiheit[M]//BVerfGE: Vol. 75. 369.</div>
-  <div class="csl-entry">[71]	[M]//NStZ-RR. 1999:185.</div>
-  <div class="csl-entry">[72]	[M]//NJW. 2000:1560.</div>
+  <div class="csl-entry">[67]	StGB[A].</div>
+  <div class="csl-entry">[68]	StPO[A].</div>
+  <div class="csl-entry">[69]	GG[A].</div>
+  <div class="csl-entry">[70]	Strauß-Karikatur, Kunstfreiheit[A]//BVerfGE: Vol. 75. 369.</div>
+  <div class="csl-entry">[71]	[A]//NStZ-RR. 1999:185.</div>
+  <div class="csl-entry">[72]	[A]//NJW. 2000:1560.</div>
   <div class="csl-entry">[73]	Meidenbauer M. Wissenschaftliches Publizieren[EB/OL]. [2017][2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
   <div class="csl-entry">[74]	我妻栄. 新訂担保物権法[M]. 有斐閣, 1971.</div>
   <div class="csl-entry">[75]	我妻栄, 有泉亨. 民法総則物権法[M]. 日本評論社, 1950.</div>
   <div class="csl-entry">[76]	於保不二雄. 付加物及び従物と抵当権[J]. 民商法雑誌, 1954, 29(5):1.</div>
   <div class="csl-entry">[77]	佐藤英明. 一時所得の要件に関する覚書[M]//金子宏, 中里実, J.マーク・ラムザイヤー. 租税法と市場. 有斐閣, 2014:220.</div>
-  <div class="csl-entry">[78]	信玄公旗掛松事件[EB]//大審院民事判決録: Vol. 25. 1919:356.</div>
-  <div class="csl-entry">[79]	約束手形金[EB]//最高裁判所民事判例集: 36卷6号. 1982:1113.</div>
-  <div class="csl-entry">[80]	動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[EB].</div>
+  <div class="csl-entry">[78]	信玄公旗掛松事件[A]//大審院民事判決録: Vol. 25. 1919:356.</div>
+  <div class="csl-entry">[79]	約束手形金[A]//最高裁判所民事判例集: 36卷6号. 1982:1113.</div>
+  <div class="csl-entry">[80]	動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A].</div>
   <div class="csl-entry">[81]	平成26年版犯罪白書[EB].</div>
   <div class="csl-entry">[82]	ジュリスト[EB/OL]. [2022][2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
   <div class="csl-entry">[83]	欧中坦. 千方百计上京城：清朝的京控[M]. 谢鹏程, 译//高道蕴, 高鸿钧, 贺卫方. 美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
@@ -408,10 +408,10 @@
   <div class="csl-entry">[62]	Richardson F. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973:113-123.</div>
   <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and cognitive development[M]//Liben LS, Mueller U. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015:339-380. DOI: <a href="https://doi.org/10.1002/9781118963418.childpsy209">10.1002/9781118963418.childpsy209</a>.</div>
   <div class="csl-entry">[64]	Lewin K. Group decision and social change[M]//Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999:265-284. DOI: <a href="https://doi.org/10.1037/10319-000">10.1037/10319-000</a>.</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive transference[EB]//APA dictionary of psychology. [2019].</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-report[EB]//Merriam-Webster.com dictionary. [2019].</div>
-  <div class="csl-entry">[67]	Graham G. Behaviorism[EB]//Zalta EN. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
-  <div class="csl-entry">[68]	List of oldest companies[EB]//Wikipedia. 2019.</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive transference[M]//APA dictionary of psychology. [2019].</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-report[M]//Merriam-Webster.com dictionary. [2019].</div>
+  <div class="csl-entry">[67]	Graham G. Behaviorism[M]//Zalta EN. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
+  <div class="csl-entry">[68]	List of oldest companies[M]//Wikipedia. 2019.</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R]. 2012.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424[R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
@@ -481,16 +481,16 @@
   <div class="csl-entry">[135]	Lamar K. Humble[M]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden brain[EB]. NPR, 2015.</div>
   <div class="csl-entry">[137]	Glass I. Amusement park[EB]//This American Life. WBEZ Chicago, 2011.</div>
-  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing[EB]. 1960.</div>
+  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing[EB]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[139]	King ML Jr. I have a dream[EB]. American Rhetoric, 1963.</div>
-  <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite[M]. 1826/1827.</div>
-  <div class="csl-entry">[141]	Wood G. American gothic[EB]. 1930.</div>
-  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic[EB]. 2018.</div>
-  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk[EB]. 2015.</div>
+  <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite[M]. Paris, France: The Louvre, 1826/1827.</div>
+  <div class="csl-entry">[141]	Wood G. American gothic[EB]. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
+  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic[EB]. Openclipart, 2018.</div>
+  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk[EB]. World Science Festival, 2015.</div>
   <div class="csl-entry">[144]	Cable D. The racial dot map[EB]. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">[145]	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[EB]. [2020].</div>
-  <div class="csl-entry">[146]	McCurry S. Afghan girl[EB]. 1985.</div>
-  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[EB]. 2016.</div>
+  <div class="csl-entry">[146]	McCurry S. Afghan girl[EB]. National Geographic, 1985.</div>
+  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[EB]. The Pulitzer Prizes, 2016.</div>
   <div class="csl-entry">[148]	Canan E, Vasilev J. Lecture notes on resource allocation[EB]. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom[EB]. SlideShare, 2016.</div>
   <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations[EB]. Canvas@FNU, 2018.</div>
@@ -513,33 +513,33 @@
   <div class="csl-entry">[167]	Boddy J, Neumann T, Jennings S, et al. Ethics principles[EB/OL]. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
   <div class="csl-entry">[168]	National Nurses United. What employers should do to protect nurses from Zika[EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
   <div class="csl-entry">[169]	U.S. Census Bureau. U.S. and world population clock[EB/OL]. [2019][2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
-  <div class="csl-entry">[170]	Brown v. Board of Education[EB]//U.S.: Vol. 347. 1954:483.</div>
-  <div class="csl-entry">[171]	Obergefell v. Hodges[EB]//U.S.: Vol. 576. 2015.</div>
-  <div class="csl-entry">[172]	Daubert v. Merrell Dow Pharmaceuticals, Inc.[EB]//F.2d: Vol. 951. 1991:1128.</div>
-  <div class="csl-entry">[173]	Burriola v. Greater Toledo YMCA[EB]//F.Supp.2d: Vol. 133. 2001:1034.</div>
-  <div class="csl-entry">[174]	Durflinger v. Artiles[EB]//F.Supp.: Vol. 563. 1984:332.</div>
-  <div class="csl-entry">[175]	Tarasoff v. Regents of the University of California[EB]//Cal.3d: Vol. 17. 1976:425.</div>
-  <div class="csl-entry">[176]	Texas v. Morales[EB]//S.W.2d: Vol. 826. 1992:201.</div>
-  <div class="csl-entry">[177]	American With Disabilities Act of 1990[EB]//U.S.C: Vol. 42. 1990.</div>
-  <div class="csl-entry">[178]	Civil Rights Act of 1964: 88-352[EB]//Stat.: Vol. 78. 1964:241.</div>
-  <div class="csl-entry">[179]	Every Student Succeeds Act[EB]//U.S.C: Vol. 20. 2015.</div>
-  <div class="csl-entry">[180]	Lilly Leadbetter Fair Play Act of 2009: 111-2[EB]//Stat.: Vol. 123. 2009:5.</div>
-  <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act[EB]//U.S.C: Vol. 20. 1972.</div>
-  <div class="csl-entry">[182]	Florida Mental Health Act[EB]//Fla. Stat. 2009.</div>
+  <div class="csl-entry">[170]	Brown v. Board of Education[A]//U.S.: Vol. 347. 1954:483.</div>
+  <div class="csl-entry">[171]	Obergefell v. Hodges[A]//U.S.: Vol. 576. 2015.</div>
+  <div class="csl-entry">[172]	Daubert v. Merrell Dow Pharmaceuticals, Inc.[A]//F.2d: Vol. 951. 1991:1128.</div>
+  <div class="csl-entry">[173]	Burriola v. Greater Toledo YMCA[A]//F.Supp.2d: Vol. 133. 2001:1034.</div>
+  <div class="csl-entry">[174]	Durflinger v. Artiles[A]//F.Supp.: Vol. 563. 1984:332.</div>
+  <div class="csl-entry">[175]	Tarasoff v. Regents of the University of California[A]//Cal.3d: Vol. 17. 1976:425.</div>
+  <div class="csl-entry">[176]	Texas v. Morales[A]//S.W.2d: Vol. 826. 1992:201.</div>
+  <div class="csl-entry">[177]	American With Disabilities Act of 1990[A]//U.S.C: Vol. 42. 1990.</div>
+  <div class="csl-entry">[178]	Civil Rights Act of 1964: 88-352[A]//Stat.: Vol. 78. 1964:241.</div>
+  <div class="csl-entry">[179]	Every Student Succeeds Act[A]//U.S.C: Vol. 20. 2015.</div>
+  <div class="csl-entry">[180]	Lilly Leadbetter Fair Play Act of 2009: 111-2[A]//Stat.: Vol. 123. 2009:5.</div>
+  <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act[A]//U.S.C: Vol. 20. 1972.</div>
+  <div class="csl-entry">[182]	Florida Mental Health Act[A]//Fla. Stat. 2009.</div>
   <div class="csl-entry">[183]	Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB]. 2016.</div>
-  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[EB]. 2014.</div>
-  <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100[EB]. 2013.</div>
-  <div class="csl-entry">[186]	S. Res. 438[EB]//Cong. Rec.: Vol. 162. 2016:2394.</div>
+  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. 2014.</div>
+  <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100[A]. 2013.</div>
+  <div class="csl-entry">[186]	S. Res. 438[A]//Cong. Rec.: Vol. 162. 2016:2394.</div>
   <div class="csl-entry">[187]	H.R. Rep. No. 114-358[R]. 2015.</div>
-  <div class="csl-entry">[188]	Protection of human subjects[EB]//C.F.R.: Vol. 45. 2009.</div>
-  <div class="csl-entry">[189]	Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB]//F.R.: Vol. 81. 2016:32391.</div>
-  <div class="csl-entry">[190]	Exec. Order No. 13,676[EB]//C.F.R.: Vol. 3. 2014:294.</div>
+  <div class="csl-entry">[188]	Protection of human subjects[A]//C.F.R.: Vol. 45. 2009.</div>
+  <div class="csl-entry">[189]	Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A]//F.R.: Vol. 81. 2016:32391.</div>
+  <div class="csl-entry">[190]	Exec. Order No. 13,676[A]//C.F.R.: Vol. 3. 2014:294.</div>
   <div class="csl-entry">[191]	Hiremath SC, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains: U.S., 9,367,592[P]. 2016.</div>
-  <div class="csl-entry">[192]	U.S. Const. art. I, § 3[M].</div>
-  <div class="csl-entry">[193]	S.C. Const. art. XI, § 3[M].</div>
-  <div class="csl-entry">[194]	U.S. Const. amend. XIX[M].</div>
-  <div class="csl-entry">[195]	U.S. Const. amend. XVIII (repealed 1933)[M].</div>
-  <div class="csl-entry">[196]	U.S. Const. amend. I-X[M].</div>
-  <div class="csl-entry">[197]	U.N. Charter art. 1, para. 3[M].</div>
-  <div class="csl-entry">[198]	United nations convention on the rights of the child[EB]. 1989.</div>
+  <div class="csl-entry">[192]	U.S. Const. art. I, § 3[A].</div>
+  <div class="csl-entry">[193]	S.C. Const. art. XI, § 3[A].</div>
+  <div class="csl-entry">[194]	U.S. Const. amend. XIX[A].</div>
+  <div class="csl-entry">[195]	U.S. Const. amend. XVIII (repealed 1933)[A].</div>
+  <div class="csl-entry">[196]	U.S. Const. amend. I-X[A].</div>
+  <div class="csl-entry">[197]	U.N. Charter art. 1, para. 3[A].</div>
+  <div class="csl-entry">[198]	United nations convention on the rights of the child[A]. 1989.</div>
 </div>

@@ -248,15 +248,15 @@
   <div class="csl-entry">[37]	方明东．罗隆基政治思想研究（1913—1949）：［博士学位论文］．北京师范大学历史系，2000</div>
   <div class="csl-entry">[38]	任东来．对国际体制和国际制度的理解和翻译．天津，9</div>
   <div class="csl-entry">[39]	任东来．对国际体制和国际制度的理解和翻译．见：全球化与亚太区域化国际研讨会论文集．天津，2000，9</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电．1917</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录．1950</div>
   <div class="csl-entry">[42]	王明亮．关于中国学术期刊标准化数据库系统工程的进展．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16</div>
   <div class="csl-entry">[43]	扬之水．两宋茶诗与茶事．<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>, 2007-09-13</div>
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000</div>
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo. Marsden W tran. Hertfordshire: Cumberland House, 1997</div>
   <div class="csl-entry">[46]	Chamberlain H B. On the search for civil society in China. Modern China, 1993, 19(2): 199-215</div>
   <div class="csl-entry">[47]	Schfield R S. The impact of scarcity and plenty on population change in England. In: Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983, 55-88</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger. 1969</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -434,10 +434,10 @@
   <div class="csl-entry">[81]	Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses. U.S. Small Business Administration, Office of Advocacy, 2013</div>
   <div class="csl-entry">[82]	Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change. National Education Policy Center, 2018</div>
   <div class="csl-entry">[83]	U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices. U.S. Food and Drug Administration, 2019</div>
-  <div class="csl-entry">[84]	Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate</div>
-  <div class="csl-entry">[85]	Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children</div>
-  <div class="csl-entry">[86]	Pearson J. Fat talk and its effects on state-based body image in women</div>
-  <div class="csl-entry">[87]	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement</div>
+  <div class="csl-entry">[84]	Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate. Milwaukee, WI, United States, 2017</div>
+  <div class="csl-entry">[85]	Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children. New Orleans, LA, United States, 2016</div>
+  <div class="csl-entry">[86]	Pearson J. Fat talk and its effects on state-based body image in women. Sydney, NSW, Australia, 2018</div>
+  <div class="csl-entry">[87]	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018</div>
   <div class="csl-entry">[88]	Harris L. Instructional leadership perceptions and practices of elementary school leaders: [Unpublished doctoral dissertation]. University of Virginia, 2014</div>
   <div class="csl-entry">[89]	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: [University of Wisconsin–Madison Doctoral dissertation]. ProQuest Dissertations and Theses Global / University of Wisconsin–Madison, 2017</div>
   <div class="csl-entry">[90]	Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents: [The College of William &#38; Mary Master’s thesis]. William &#38; Mary Digital Archive, 2012</div>
@@ -447,9 +447,9 @@
   <div class="csl-entry">[94]	Yousafzai M. We are displaced: My journey and stories from refugee girls around the world. 2016</div>
   <div class="csl-entry">[95]	Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>, 2018-02-01</div>
   <div class="csl-entry">[96]	Somewhere else</div>
-  <div class="csl-entry">[97]	Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective</div>
-  <div class="csl-entry">[98]	O’Shea M. Understanding proactive behavior in the workplace as a function of gender</div>
-  <div class="csl-entry">[99]	Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice</div>
+  <div class="csl-entry">[97]	Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective. Department of Psychology, University of Wisconsin-Madison, 2016</div>
+  <div class="csl-entry">[98]	O’Shea M. Understanding proactive behavior in the workplace as a function of gender. Department of Management, University of Kansas, 2018</div>
+  <div class="csl-entry">[99]	Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice. Department of Psychology, University of Washington, 2019</div>
   <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 2018</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 2015</div>
   <div class="csl-entry">[102]	Ho H K. Teacher preparation for early childhood special education in Taiwan. ERIC, 2014</div>
@@ -488,19 +488,19 @@
   <div class="csl-entry">[135]	Lamar K. Humble. In: Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden brain. NPR, 2015</div>
   <div class="csl-entry">[137]	Glass I. Amusement park. In: This American Life. WBEZ Chicago, 2011</div>
-  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing</div>
+  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing. 1960</div>
   <div class="csl-entry">[139]	King M L Jr. I have a dream. American Rhetoric, 1963</div>
-  <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite</div>
-  <div class="csl-entry">[141]	Wood G. American gothic</div>
-  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic</div>
-  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk</div>
+  <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite. 1826/1827</div>
+  <div class="csl-entry">[141]	Wood G. American gothic. 1930</div>
+  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic. 2018</div>
+  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk. 2015</div>
   <div class="csl-entry">[144]	Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 2013</div>
   <div class="csl-entry">[145]	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru</div>
-  <div class="csl-entry">[146]	McCurry S. Afghan girl</div>
-  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted</div>
-  <div class="csl-entry">[148]	Canan E, Vasilev J. Lecture notes on resource allocation</div>
-  <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom</div>
-  <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations</div>
+  <div class="csl-entry">[146]	McCurry S. Afghan girl. 1985</div>
+  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. 2016</div>
+  <div class="csl-entry">[148]	Canan E, Vasilev J. Lecture notes on resource allocation. Department of Management Control and Information Systems, University of Chile, 2019</div>
+  <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom. SlideShare, 2016</div>
+  <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations. Canvas@FNU, 2018</div>
   <div class="csl-entry">[151]	APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>, 2018-06-29</div>
   <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>, 2018-02-26</div>
   <div class="csl-entry">[153]	White B. I treasure every minute we spent together #koko [image attached]. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>, 2018-06-21</div>

@@ -21,7 +21,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-01-20T23:33:02+08:00</updated>
+    <updated>2024-01-21T16:25:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -148,14 +148,21 @@
         <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <text macro="volume"/>
               <text variable="volume-title"/>
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation regulation report standard" match="any">
+            <if type="article article-journal patent" match="none">
+              <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
         </group>
@@ -173,14 +180,21 @@
         <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <text macro="volume"/>
               <text variable="volume-title"/>
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation regulation report standard" match="any">
+            <if type="article article-journal patent" match="none">
+              <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
         </group>
@@ -359,12 +373,21 @@
           <text variable="number"/>
         </group>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=": ">
-            <text variable="publisher-place"/>
-            <text variable="publisher"/>
+            <choose>
+              <if variable="publisher publisher-place" match="any">
+                <text variable="publisher-place"/>
+                <text variable="publisher"/>
+              </if>
+              <else>
+                <!-- 档案的馆藏地以及收藏机构或单位 -->
+                <text variable="archive-place"/>
+                <text variable="archive"/>
+              </else>
+            </choose>
           </group>
           <text variable="page"/>
         </group>
@@ -382,12 +405,21 @@
           <text variable="number"/>
         </group>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=": ">
-            <text variable="publisher-place"/>
-            <text variable="publisher"/>
+            <choose>
+              <if variable="publisher publisher-place" match="any">
+                <text variable="publisher-place"/>
+                <text variable="publisher"/>
+              </if>
+              <else>
+                <!-- 档案的馆藏地以及收藏机构或单位 -->
+                <text variable="archive-place"/>
+                <text variable="archive"/>
+              </else>
+            </choose>
           </group>
           <text variable="page"/>
         </group>
@@ -502,7 +534,7 @@
           <text macro="title-en"/>
           <text macro="publisher-en"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-en"/>
           <text macro="secondary-contributors-en"/>
@@ -548,7 +580,7 @@
           <text macro="title-zh"/>
           <text macro="publisher-zh"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-zh"/>
           <text macro="secondary-contributors-zh"/>

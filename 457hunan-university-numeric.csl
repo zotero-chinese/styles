@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>湖南大学研究生学位论文撰写规范</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-21T16:00:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -256,7 +256,7 @@
           <text macro="issued-date"/>
         </group>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <group delimiter=", ">
           <group delimiter=": ">
             <text variable="publisher-place"/>
@@ -287,7 +287,7 @@
           <text macro="issued-date"/>
         </group>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <group delimiter="，">
           <group delimiter="：">
             <text variable="publisher-place"/>
@@ -406,7 +406,7 @@
           <text macro="title-en"/>
           <text macro="publisher-en"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-en"/>
           <text macro="container-booklike-en"/>
@@ -446,7 +446,7 @@
           <text macro="title-zh"/>
           <text macro="publisher-zh"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-zh"/>
           <text macro="container-booklike-zh"/>

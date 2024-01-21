@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>CMAES style</summary>
-    <updated>2023-12-21T17:04:35+08:00</updated>
+    <updated>2024-01-21T20:51:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -66,10 +66,7 @@
       <else-if type="bill legislation standard" match="any">
         <text value="S"/>
       </else-if>
-      <else-if type="book">
-        <text value="M"/>
-      </else-if>
-      <else-if type="chapter">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -143,16 +140,46 @@
   </macro>
   <macro name="publisher">
     <choose>
-      <if variable="publisher">
+      <if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
+        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
-          <text variable="publisher-place"/>
           <group delimiter=", ">
-            <text variable="publisher"/>
+            <group delimiter=": ">
+              <choose>
+                <if variable="publisher publisher-place" match="any">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </if>
+                <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
+                  <text variable="archive-place"/>
+                  <text variable="archive"/>
+                </else>
+              </choose>
+            </group>
             <text macro="issued-year"/>
           </group>
+          <text variable="page"/>
         </group>
-        <text variable="page" prefix=": "/>
+        <text macro="accessed-date"/>
       </if>
+      <else-if variable="URL DOI" match="any">
+        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+          <else-if variable="issued">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
+        <text macro="accessed-date"/>
+      </else-if>
+      <else>
+        <text macro="issued-year"/>
+      </else>
     </choose>
   </macro>
   <macro name="issued-year">
@@ -216,6 +243,7 @@
             <if variable="container-title">
               <text variable="container-title" form="short"/>
               <text macro="serial-information" prefix=", "/>
+              <text macro="accessed-date"/>
             </if>
             <else>
               <text macro="serial-information" suffix=". "/>
@@ -226,13 +254,12 @@
       </else-if>
       <else-if type="patent">
         <text macro="issued-date" prefix=". "/>
+        <text macro="accessed-date"/>
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
       </else>
     </choose>
-    <text macro="accessed-date"/>
     <group delimiter=". " prefix=". ">
       <text variable="URL"/>
       <text variable="DOI" prefix="DOI:"/>

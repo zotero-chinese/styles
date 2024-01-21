@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>安徽理工大学研究生学位论文</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-21T16:25:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -97,7 +97,7 @@
       <if type="article-journal article-magazine periodical" match="any">
         <text value="J"/>
       </if>
-      <else-if type="book">
+      <else-if type="book classic" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="thesis">
@@ -199,13 +199,22 @@
           <text macro="issued-date"/>
         </group>
       </else-if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="publisher page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
-              <text variable="publisher-place"/>
-              <text variable="publisher"/>
+              <choose>
+                <if variable="publisher publisher-place" match="any">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </if>
+                <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
+                  <text variable="archive-place"/>
+                  <text variable="archive"/>
+                </else>
+              </choose>
             </group>
             <text macro="issued-year"/>
           </group>
@@ -295,7 +304,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title"/>
           <text macro="container-booklike"/>

@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2023-12-31T13:06:54+08:00</updated>
+    <updated>2024-01-21T19:22:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -158,7 +158,14 @@
       <if variable="publisher page" type="book chapter paper-conference thesis" match="none">
         <choose>
           <if variable="URL DOI" match="any">
-            <text macro="issued-date" prefix="(" suffix=")"/>
+            <choose>
+              <if has-day="issued">
+                <text macro="issued-date" prefix="(" suffix=")"/>
+              </if>
+              <else-if variable="issued">
+                <text macro="issued-year"/>
+              </else-if>
+            </choose>
           </if>
         </choose>
       </if>

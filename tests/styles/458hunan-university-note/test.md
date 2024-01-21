@@ -253,15 +253,15 @@
 <sup>37</sup> 方明东．罗隆基政治思想研究（1913—1949）：［博士学位论文］．北京师范大学历史系，2000<br>
 <sup>38</sup> 任东来．对国际体制和国际制度的理解和翻译．天津，9<br>
 <sup>39</sup> 任东来．对国际体制和国际制度的理解和翻译．见：全球化与亚太区域化国际研讨会论文集．天津，2000，9<br>
-<sup>40</sup> 傅良佐致国务院电<br>
-<sup>41</sup> 党外人士座谈会记录<br>
+<sup>40</sup> 傅良佐致国务院电．1917<br>
+<sup>41</sup> 党外人士座谈会记录．1950<br>
 <sup>42</sup> 王明亮．关于中国学术期刊标准化数据库系统工程的进展．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16<br>
 <sup>43</sup> 扬之水．两宋茶诗与茶事．<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>, 2007-09-13<br>
 <sup>44</sup> Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000<br>
 <sup>45</sup> Polo M. The travels of Marco Polo. Marsden W tran. Hertfordshire: Cumberland House, 1997<br>
 <sup>46</sup> Chamberlain H B. On the search for civil society in China. Modern China, 1993, 19(2): 199-215<br>
 <sup>47</sup> Schfield R S. The impact of scarcity and plenty on population change in England. In: Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983, 55-88<br>
-<sup>48</sup> Nixon to Kissinger<br>
+<sup>48</sup> Nixon to Kissinger. 1969<br>
 
 ### 《法学引注手册》 示例文献
 
@@ -435,10 +435,10 @@
 <sup>81</sup> Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses. U.S. Small Business Administration, Office of Advocacy, 2013<br>
 <sup>82</sup> Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change. National Education Policy Center, 2018<br>
 <sup>83</sup> U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices. U.S. Food and Drug Administration, 2019<br>
-<sup>84</sup> Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate<br>
-<sup>85</sup> Maddox S, Hurling J, Stewart E, Edwards A. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children<br>
-<sup>86</sup> Pearson J. Fat talk and its effects on state-based body image in women<br>
-<sup>87</sup> De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement<br>
+<sup>84</sup> Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate. Milwaukee, WI, United States, 2017<br>
+<sup>85</sup> Maddox S, Hurling J, Stewart E, Edwards A. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children. New Orleans, LA, United States, 2016<br>
+<sup>86</sup> Pearson J. Fat talk and its effects on state-based body image in women. Sydney, NSW, Australia, 2018<br>
+<sup>87</sup> De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018<br>
 <sup>88</sup> Harris L. Instructional leadership perceptions and practices of elementary school leaders: [Unpublished doctoral dissertation]. University of Virginia, 2014<br>
 <sup>89</sup> Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: [University of Wisconsin–Madison Doctoral dissertation]. ProQuest Dissertations and Theses Global / University of Wisconsin–Madison, 2017<br>
 <sup>90</sup> Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents: [The College of William &#38; Mary Master’s thesis]. William &#38; Mary Digital Archive, 2012<br>
@@ -448,9 +448,9 @@
 <sup>94</sup> Yousafzai M. We are displaced: My journey and stories from refugee girls around the world. 2016<br>
 <sup>95</sup> Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>, 2018-02-01<br>
 <sup>96</sup> Somewhere else<br>
-<sup>97</sup> Yoo J, Miyamoto Y, Rigotti A, Ryff C. Linking positive affect to blood lipids: A cultural perspective<br>
-<sup>98</sup> O’Shea M. Understanding proactive behavior in the workplace as a function of gender<br>
-<sup>99</sup> Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice<br>
+<sup>97</sup> Yoo J, Miyamoto Y, Rigotti A, Ryff C. Linking positive affect to blood lipids: A cultural perspective. Department of Psychology, University of Wisconsin-Madison, 2016<br>
+<sup>98</sup> O’Shea M. Understanding proactive behavior in the workplace as a function of gender. Department of Management, University of Kansas, 2018<br>
+<sup>99</sup> Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice. Department of Psychology, University of Washington, 2019<br>
 <sup>100</sup> Leuker C, Samartzidis L, Hertwig R, Pleskac T J. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 2018<br>
 <sup>101</sup> Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 2015<br>
 <sup>102</sup> Ho H K. Teacher preparation for early childhood special education in Taiwan. ERIC, 2014<br>
@@ -489,19 +489,19 @@
 <sup>135</sup> Lamar K. Humble. In: Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017<br>
 <sup>136</sup> Vedantam S. Hidden brain. NPR, 2015<br>
 <sup>137</sup> Glass I. Amusement park. In: This American Life. WBEZ Chicago, 2011<br>
-<sup>138</sup> de Beauvoir S. Simone de Beauvoir discusses the art of writing<br>
+<sup>138</sup> de Beauvoir S. Simone de Beauvoir discusses the art of writing. 1960<br>
 <sup>139</sup> King M L Jr. I have a dream. American Rhetoric, 1963<br>
-<sup>140</sup> Delacroix E. Faust attempts to seduce Marguerite<br>
-<sup>141</sup> Wood G. American gothic<br>
-<sup>142</sup> GDJ. Neural network deep learning prismatic<br>
-<sup>143</sup> Rossman J, Palmer R. Sorting through our space junk<br>
+<sup>140</sup> Delacroix E. Faust attempts to seduce Marguerite. 1826/1827<br>
+<sup>141</sup> Wood G. American gothic. 1930<br>
+<sup>142</sup> GDJ. Neural network deep learning prismatic. 2018<br>
+<sup>143</sup> Rossman J, Palmer R. Sorting through our space junk. 2015<br>
 <sup>144</sup> Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 2013<br>
 <sup>145</sup> Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru<br>
-<sup>146</sup> McCurry S. Afghan girl<br>
-<sup>147</sup> Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted<br>
-<sup>148</sup> Canan E, Vasilev J. Lecture notes on resource allocation<br>
-<sup>149</sup> Housand B. Game on! Integrating games and simulations in the classroom<br>
-<sup>150</sup> Mack R, Spake G. Citing open source images and formatting references for presentations<br>
+<sup>146</sup> McCurry S. Afghan girl. 1985<br>
+<sup>147</sup> Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. 2016<br>
+<sup>148</sup> Canan E, Vasilev J. Lecture notes on resource allocation. Department of Management Control and Information Systems, University of Chile, 2019<br>
+<sup>149</sup> Housand B. Game on! Integrating games and simulations in the classroom. SlideShare, 2016<br>
+<sup>150</sup> Mack R, Spake G. Citing open source images and formatting references for presentations. Canvas@FNU, 2018<br>
 <sup>151</sup> APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>, 2018-06-29<br>
 <sup>152</sup> Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>, 2018-02-26<br>
 <sup>153</sup> White B. I treasure every minute we spent together #koko [image attached]. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>, 2018-06-21<br>

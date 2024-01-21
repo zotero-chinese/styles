@@ -203,7 +203,7 @@
   <div class="csl-entry">[23]	J. Ruby, C. Fulton. Beyond Redlining: Editing Software That Works[C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author, 1991.</div>
   <div class="csl-entry">[25]	T. R. Mitchell, J. R. Larson. People in Organizations: An Introduction to Organizational Behavior[M]. 3rd ed. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[26]	P. G. Bergmann. Relativity[Z]//The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+  <div class="csl-entry">[26]	P. G. Bergmann. Relativity[M]//The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   <div class="csl-entry">[27]	S. Sadie. The New Grove Dictionary of Music and Musicians[M]. 6th ed. London : New York: Macmillan, 1980.</div>
   <div class="csl-entry">[28]	李行健. 现代汉语规范辞典[M]. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	现代汉语频率词典[M]. 北京: 北京语言学院出版社, 1986.</div>
@@ -231,17 +231,17 @@
   <div class="csl-entry">[13]	李鹏程. 当代文化哲学沉思[M]. 北京: 人民出版社, 1994.</div>
   <div class="csl-entry">[14]	楼适夷. 读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998: 2.</div>
   <div class="csl-entry">[15]	黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997: 2.</div>
-  <div class="csl-entry">[16]	姚际恒. 古今伪书考: 卷 3[Z]. 光绪三年苏州文学山房活字本.</div>
-  <div class="csl-entry">[17]	毛祥麟. 墨余录[Z]. 上海: 上海古籍出版社, 1985.</div>
-  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集: 卷 5[Z]. 影印本. 沈阳: 辽沈书社, 1991.</div>
-  <div class="csl-entry">[19]	太平御览: 卷 690[Z]. 影印本. 北京: 中华书局, 1985.</div>
-  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[Z]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社, 1997.</div>
-  <div class="csl-entry">[21]	嘉定县志: 卷 12[Z].</div>
-  <div class="csl-entry">[22]	上海县续志: 卷 1[Z].</div>
-  <div class="csl-entry">[23]	广东通志[Z]//稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店, 1992.</div>
-  <div class="csl-entry">[24]	旧唐书: 卷 9[Z]. 标点本. 北京: 中华书局, 1975.</div>
-  <div class="csl-entry">[25]	方苞集: 卷 6[Z]. 标点本. 上海: 上海古籍出版社, 1983.</div>
-  <div class="csl-entry">[26]	清德宗实录: 卷 435[Z]. 影印本. 北京: 中华书局, 1987.</div>
+  <div class="csl-entry">[16]	姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
+  <div class="csl-entry">[17]	毛祥麟. 墨余录[M]. 上海: 上海古籍出版社, 1985.</div>
+  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
+  <div class="csl-entry">[19]	太平御览: 卷 690[M]. 影印本. 北京: 中华书局, 1985.</div>
+  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[M]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社, 1997.</div>
+  <div class="csl-entry">[21]	嘉定县志: 卷 12[M].</div>
+  <div class="csl-entry">[22]	上海县续志: 卷 1[M].</div>
+  <div class="csl-entry">[23]	广东通志[M]//稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店, 1992.</div>
+  <div class="csl-entry">[24]	旧唐书: 卷 9[M]. 标点本. 北京: 中华书局, 1975.</div>
+  <div class="csl-entry">[25]	方苞集: 卷 6[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>
+  <div class="csl-entry">[26]	清德宗实录: 卷 435[M]. 影印本. 北京: 中华书局, 1987.</div>
   <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
   <div class="csl-entry">[28]	汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
@@ -255,15 +255,15 @@
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 2000年6月, 天津. 天津: 9.</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[Z]. 1917.</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[Z]. 1950.</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. 《文学遗产通讯》（网络版试刊）2006年第1期, [2007-09-13].</div>
   <div class="csl-entry">[44]	P. Brooks. Troubling Confessions: Speaking Guilt in Law and Literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	M. Polo. The Travels of Marco Polo[M]. W. Marsden, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	H. B. Chamberlain. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   <div class="csl-entry">[47]	R. S. Schfield. The Impact of Scarcity and Plenty on Population Change in England[M]//R. I. Rotberg, T. K. Rabb. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger[Z]. 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -422,10 +422,10 @@
   <div class="csl-entry">[62]	F. Richardson. Brain and Intelligence: The Ecology of Child Development[M]. National Educational Press, 1973: 113-123.</div>
   <div class="csl-entry">[63]	S. Goldin-Meadow. Gesture and Cognitive Development[M]//L. S. Liben, U. Mueller. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
   <div class="csl-entry">[64]	K. Lewin. Group Decision and Social Change[M]//M. Gold. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive Transference[Z]//APA dictionary of psychology.</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-Report[Z]//Merriam-Webster.com dictionary.</div>
-  <div class="csl-entry">[67]	G. Graham. Behaviorism[Z]//E. N. Zalta. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
-  <div class="csl-entry">[68]	List of Oldest Companies[Z]//Wikipedia. 2019.</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive Transference[M]//APA dictionary of psychology.</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-Report[M]//Merriam-Webster.com dictionary.</div>
+  <div class="csl-entry">[67]	G. Graham. Behaviorism[M]//E. N. Zalta. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
+  <div class="csl-entry">[68]	List of Oldest Companies[M]//Wikipedia. 2019.</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening Trans-Tasman Economic Relations[R]. 2012.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What We Heard: Summary of Key Findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing Forward: Life after Cancer Treatment: 18-2424[R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
@@ -446,7 +446,7 @@
   <div class="csl-entry">[86]	J. Pearson. Fat Talk and Its Effects on State-Based Body Image in Women[Z]. Sydney, NSW, Australia, 2018.</div>
   <div class="csl-entry">[87]	D. De Boer, T. LaFavor. The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[88]	L. Harris. Instructional Leadership Perceptions and Practices of Elementary School Leaders[D]. University of Virginia, 2014.</div>
-  <div class="csl-entry">[89]	M. M. Hollander. Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment[D]. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">[89]	M. M. Hollander. Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment: 10289373[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90]	V. H. Hutcheson. Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents[D]. The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">[91]	L. A. Mirabito, N. C. Heck. Bringing LGBTQ Youth Theater into the Spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
   <div class="csl-entry">[92]	E. Brodsky. The Year We Thought about Love[Z]. 2016.</div>
@@ -460,8 +460,8 @@
   <div class="csl-entry">[100]	C. Leuker, L. Samartzidis, R. Hertwig, et al. When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials[A]. PsyArXiv, 2018.</div>
   <div class="csl-entry">[101]	M. A. Stults-Kolehmainen, R. Sinha. The Effects of Stress on Physical Activity and Exercise[A]. PubMed Central, 2015.</div>
   <div class="csl-entry">[102]	H. K. Ho. Teacher Preparation for Early Childhood Special Education in Taiwan[A]. ERIC, 2014.</div>
-  <div class="csl-entry">[103]	A. D’Souza, M. Wiseheart. Cognitive Effects of Music and Dance Training in Children[DS/OL]. 2018.</div>
-  <div class="csl-entry">[104]	National Center for Education Statistics. Fast Response Survey System (FRSS): Teacher’s Use of Educational Technology in U.S. Public Schools, 2009[DS/OL]. 2016.</div>
+  <div class="csl-entry">[103]	A. D’Souza, M. Wiseheart. Cognitive Effects of Music and Dance Training in Children: ICPSR 37080[DS/OL]. 2018.</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. Fast Response Survey System (FRSS): Teacher’s Use of Educational Technology in U.S. Public Schools, 2009: ICPSR 35531[DS/OL]. 2016.</div>
   <div class="csl-entry">[105]	Pew Research Center. American Trends Panel Wave 26[DS/OL]. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>, 2018.</div>
   <div class="csl-entry">[106]	R. A. Baer. Unpublished Raw Data on the Correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS/OL]. 2015.</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism Outcomes[DS/OL]. 2011.</div>
@@ -473,14 +473,14 @@
   <div class="csl-entry">[113]	A. Tellegen, Y. S. Ben-Porath. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT[Z].</div>
   <div class="csl-entry">[115]	J. Alonso-Tapia, C. Nieto, E. Merino-Tejedor, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. 2018.</div>
-  <div class="csl-entry">[116]	D. Cardoza, J. K. Morris, H. F. Myers, et al. Acculturative Stress Inventory (ASI)[DS/OL]. 2000.</div>
+  <div class="csl-entry">[116]	D. Cardoza, J. K. Morris, H. F. Myers, et al. Acculturative Stress Inventory (ASI): TC022704[DS/OL]. 2000.</div>
   <div class="csl-entry">[117]	M. Forman. One Flew over the Cuckoo’s Nest[Z]. United Artists, 1975.</div>
   <div class="csl-entry">[118]	Accelerated Experiental Dynamic Psychotherapy (AEDP) Supervision[Z]. American Pychological Association, 2017.</div>
   <div class="csl-entry">[119]	P. Jackson. The Lord of the Rings: The Fellowship of the Ring[Z]. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">[120]	L. Malle. Goodbye Children[Z]. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">[121]	The Wire[Z]. Blown Deadline Productions; HBO, 2002–2008.</div>
-  <div class="csl-entry">[122]	K. Barris. Lemons[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
-  <div class="csl-entry">[123]	J. Lynch. Who Shot Mr. Burns? (Part One)[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
+  <div class="csl-entry">[122]	K. Barris. Lemons: Season 3, Episode 12[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
+  <div class="csl-entry">[123]	J. Lynch. Who Shot Mr. Burns? (Part One): Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   <div class="csl-entry">[124]	S. Giertz. Why You Should Make Useless Things[Z]. TED Conferences, 2018.</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to Shame[Z]. YouTube, 2012.</div>
   <div class="csl-entry">[126]	J. F. Goldberg. Evaluating Adverse Drug Effects[Z]. American Psychiatric Association, 2018.</div>
@@ -494,17 +494,17 @@
   <div class="csl-entry">[134]	Childish Gambino. This Is America[Z]. mcDJ; RCA, 2018.</div>
   <div class="csl-entry">[135]	K. Lamar. Humble[Z]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	S. Vedantam. Hidden Brain[Z]. NPR, 2015.</div>
-  <div class="csl-entry">[137]	I. Glass. Amusement Park[Z]//This American Life. WBEZ Chicago, 2011.</div>
-  <div class="csl-entry">[138]	S. de Beauvoir. Simone de Beauvoir Discusses the Art of Writing[Z]. 1960.</div>
+  <div class="csl-entry">[137]	I. Glass. Amusement Park: 443[Z]//This American Life. WBEZ Chicago, 2011.</div>
+  <div class="csl-entry">[138]	S. de Beauvoir. Simone de Beauvoir Discusses the Art of Writing[Z]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[139]	M. L. King Jr. I Have a Dream[Z]. American Rhetoric, 1963.</div>
-  <div class="csl-entry">[140]	E. Delacroix. Faust Attempts to Seduce Marguerite[Z]. 1826–1827.</div>
-  <div class="csl-entry">[141]	G. Wood. American Gothic[Z]. 1930.</div>
-  <div class="csl-entry">[142]	GDJ. Neural Network Deep Learning Prismatic[Z]. 2018.</div>
-  <div class="csl-entry">[143]	J. Rossman, R. Palmer. Sorting through Our Space Junk[Z]. 2015.</div>
+  <div class="csl-entry">[140]	E. Delacroix. Faust Attempts to Seduce Marguerite[Z]. Paris, France: The Louvre, 1826–1827.</div>
+  <div class="csl-entry">[141]	G. Wood. American Gothic[Z]. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
+  <div class="csl-entry">[142]	GDJ. Neural Network Deep Learning Prismatic[Z]. Openclipart, 2018.</div>
+  <div class="csl-entry">[143]	J. Rossman, R. Palmer. Sorting through Our Space Junk[Z]. World Science Festival, 2015.</div>
   <div class="csl-entry">[144]	D. Cable. The Racial Dot Map[CM]. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">[145]	Google. Google Maps Directions for Driving from La Paz, Bolivia, to Lima, Peru[CM].</div>
-  <div class="csl-entry">[146]	S. McCurry. Afghan Girl[Z]. 1985.</div>
-  <div class="csl-entry">[147]	J. Rinaldi. Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted[Z]. 2016.</div>
+  <div class="csl-entry">[146]	S. McCurry. Afghan Girl[Z]. National Geographic, 1985.</div>
+  <div class="csl-entry">[147]	J. Rinaldi. Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted[Z]. The Pulitzer Prizes, 2016.</div>
   <div class="csl-entry">[148]	E. Canan, J. Vasilev. Lecture Notes on Resource Allocation[Z]. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">[149]	B. Housand. Game on! Integrating Games and Simulations in the Classroom[Z]. SlideShare, 2016.</div>
   <div class="csl-entry">[150]	R. Mack, G. Spake. Citing Open Source Images and Formatting References for Presentations[Z]. Canvas@FNU, 2018.</div>
@@ -541,7 +541,7 @@
   <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act[A]//U.S.C: Vol. 20. 1972.</div>
   <div class="csl-entry">[182]	Florida Mental Health Act[A]//Fla. Stat. 2009.</div>
   <div class="csl-entry">[183]	Federal Real Property Reform: How Cutting Red Tape and Better Management Count Achieve Billions in Savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z]. 2016.</div>
-  <div class="csl-entry">[184]	Strengthening the Federal Student Loan Program for Borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[Z]. 2014.</div>
+  <div class="csl-entry">[184]	Strengthening the Federal Student Loan Program for Borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. 2014.</div>
   <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100[A]. 2013.</div>
   <div class="csl-entry">[186]	S. Res. 438[A]//Cong. Rec.: Vol. 162. 2016: 2394.</div>
   <div class="csl-entry">[187]	H.R. Rep. No. 114-358[R]. 2015.</div>

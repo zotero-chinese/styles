@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <issn>1002-7264</issn>
-    <updated>2023-12-21T17:48:38+08:00</updated>
+    <updated>2024-01-21T19:33:31+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -231,7 +231,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
   </macro>
@@ -280,7 +284,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
   </macro>

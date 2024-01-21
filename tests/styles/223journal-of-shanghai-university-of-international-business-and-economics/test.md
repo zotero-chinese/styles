@@ -246,11 +246,11 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[28]	佚名.晚清洋务运动事类汇钞五十七种: 上册[M].北京: 全国图书馆文献缩微复制中心, 1998a.</div>
   <div class="csl-entry">[29]	赵景深.文坛忆旧[M].上海: 北新书局, 1948.</div>
   <div class="csl-entry">[30]	佚名.四川会议厅暂行章程[J].广益丛报, 1910-09-03(1-2).</div>
-  <div class="csl-entry">[31]	佚名.傅良佐致国务院电[M].1917.</div>
+  <div class="csl-entry">[31]	佚名.傅良佐致国务院电: 北洋档案 1011—5961[M].中国第二历史档案馆, 1917.</div>
   <div class="csl-entry">[32]	佚名.上海各路商界总联合会致外交部电[J].民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">[33]	佚名.西南中委反对在宁召开五全会[J].民国日报, 1933-08-11(第1张第4版).</div>
-  <div class="csl-entry">[34]	佚名.党外人士座谈会记录[R].1950.</div>
-  <div class="csl-entry">[35]	Anon, Nixon to Kissinger, 1969.</div>
+  <div class="csl-entry">[34]	佚名.党外人士座谈会记录: 李劼人档案[R].1950.</div>
+  <div class="csl-entry">[35]	Anon, Nixon to Kissinger, National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">[36]	佚名.旧唐书: 卷 9[M].北京: 中华书局, 1975.</div>
   <div class="csl-entry">[37]	佚名.方苞集: 卷 6[M].上海: 上海古籍出版社, 1983.</div>
   <div class="csl-entry">[38]	佚名.太平御览: 卷 690[M].北京: 中华书局, 1985.</div>
@@ -441,10 +441,10 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[81]	Christian, B., and T. Griffiths, Algorithms to Live by: The Computer Science of Human Decisions, Henry Holt and Co., 2016.</div>
   <div class="csl-entry">[82]	Cuellar, N. G., “Study Abroad Programs”, Journal of Transcultural Nursing, 2016, 27(3):209.</div>
   <div class="csl-entry">[83]	Cutts, S., Happiness, Vimeo, 2017.</div>
-  <div class="csl-entry">[84]	de Beauvoir, S., Simone de Beauvoir Discusses the Art of Writing, 1960.</div>
+  <div class="csl-entry">[84]	de Beauvoir, S., Simone de Beauvoir Discusses the Art of Writing, Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[85]	De Boer, D., and T. LaFavor, “The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach”, Perspectives on Resilience: Conceptualization, Measurement, and Enhancement[C]. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[86]	De Vries, R., M. Nieuwenhuijze, S. E. Buitendijk, et al., “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, Midwifery, 2013, 29(10):1122-1128.</div>
-  <div class="csl-entry">[87]	Delacroix, E., Faust Attempts to Seduce Marguerite, 1826/1827.</div>
+  <div class="csl-entry">[87]	Delacroix, E., Faust Attempts to Seduce Marguerite, Paris, France: The Louvre, 1826/1827.</div>
   <div class="csl-entry">[88]	D’Souza, A., and M. Wiseheart, Cognitive Effects of Music and Dance Training in Children, ICPSR 37080, ICPSR, 2018.</div>
   <div class="csl-entry">[89]	Epocrates, Epocrates Medical References, <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>, App Store, 2019a.</div>
   <div class="csl-entry">[90]	Epocrates, “Interaction Check: Aspirin + Sertraline”, Epocrates Medical References[C]. Google Play Store, 2019b.</div>
@@ -455,7 +455,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[95]	Freud, S., The Interpretation of Dreams: The Complete and Definitive Text, Strachey, J., tran., Basic Books, 2010.</div>
   <div class="csl-entry">[96]	Fried, D., and A. Polyakova, Democratic Defense against Disinformation, Atlantic Council, 2018.</div>
   <div class="csl-entry">[97]	Gaiman, N., 100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached], Facebook[C]. 2018.</div>
-  <div class="csl-entry">[98]	GDJ, Neural Network Deep Learning Prismatic, 2018.</div>
+  <div class="csl-entry">[98]	GDJ, Neural Network Deep Learning Prismatic, Openclipart, 2018.</div>
   <div class="csl-entry">[99]	Giertz, S., Why You Should Make Useless Things, TED Conferences, 2018.</div>
   <div class="csl-entry">[100]	Glass, I., “Amusement Park”, This American Life[C]. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">[101]	Gold, M., The Complete Social Scientist: A Kurt Lewin Reader, American Psychological Association, 1999.</div>
@@ -494,7 +494,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[134]	Malle, L., Goodbye Children, Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">[135]	Martin Lillie, C. M., Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency, Mayo Clinic[C]. 2016.</div>
   <div class="csl-entry">[136]	McCauley, S. M., and M. H. Christiansen, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, Psychological Review, 2019, 126(1):1-51.</div>
-  <div class="csl-entry">[137]	McCurry, S., Afghan Girl, 1985.</div>
+  <div class="csl-entry">[137]	McCurry, S., Afghan Girl, National Geographic, 1985.</div>
   <div class="csl-entry">[138]	McDaniel, S. H., E. Salas, and A. E. Kazak, American Psychologist, 2018.</div>
   <div class="csl-entry">[139]	Meadows, D. H., Thinking in Systems: A Primer, Chelsea Green Publishing, 2008.</div>
   <div class="csl-entry">[140]	Mehrholz, J., M. Pohl, T. Platz, et al., “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke”, Cochrane Database of Systematic Reviews, 2018.</div>
@@ -520,8 +520,8 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[160]	Pridham, K. F., R. Limbo, and M. Schroeder, Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents, Springer Publishing Company, 2018.</div>
   <div class="csl-entry">[161]	Project Implicit, Gender-Science IAT.</div>
   <div class="csl-entry">[162]	Richardson, F., Brain and Intelligence: The Ecology of Child Development, National Educational Press, 1973: 113-123.</div>
-  <div class="csl-entry">[163]	Rinaldi, J., Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted, 2016.</div>
-  <div class="csl-entry">[164]	Rossman, J., and R. Palmer, Sorting through Our Space Junk, 2015.</div>
+  <div class="csl-entry">[163]	Rinaldi, J., Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted, The Pulitzer Prizes, 2016.</div>
+  <div class="csl-entry">[164]	Rossman, J., and R. Palmer, Sorting through Our Space Junk, World Science Festival, 2015.</div>
   <div class="csl-entry">[165]	Rowling, J. K., Harry Potter and the Sorceror’s Stone, Pottermore Publishing, 2015.</div>
   <div class="csl-entry">[166]	Sacchett, C., and G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, Cognitive Neuropsychology, 1992, 9(1):73-86.</div>
   <div class="csl-entry">[167]	Sacchett, C., and G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, Balota, D. A., and E. J. Marsh. Cognitive Psychology: Key Readings in Cognition[C]. Psychology Press, 2004: 100-108.</div>
@@ -549,7 +549,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[189]	Weinstock, R., G. B. Leong, and J. A. Silva, “Defining Forensic Psychiatry: Roles and Responsibilities”, Rosner, R. Principles and Practise of Forensic Psychiatry[C]. CRC Press, 2003: 7-13.</div>
   <div class="csl-entry">[190]	Weir, K., “Forgiveness Can Improve Mental and Physical Health”, Monitor on Psychology, 2017, 48(1):30.</div>
   <div class="csl-entry">[191]	White, B., I Treasure Every Minute We Spent Together #koko [Image Attached], Twitter[C]. 2018.</div>
-  <div class="csl-entry">[192]	Wood, G., American Gothic, 1930.</div>
+  <div class="csl-entry">[192]	Wood, G., American Gothic, Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
   <div class="csl-entry">[193]	World Health Organization, Questions and Answers on Immunization and Vaccine Safety, <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>, 2018.</div>
   <div class="csl-entry">[194]	World Health Organization, International Statistical Classification of Diseases and Related Health Problems, World Health Organization, 2019.</div>
   <div class="csl-entry">[195]	Yoo, J., Y. Miyamoto, A. Rigotti, et al., Linking Positive Affect to Blood Lipids: A Cultural Perspective, Unpublished manuscript, 2016.</div>

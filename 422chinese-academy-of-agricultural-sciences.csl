@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>中国农业科学院学位论文</summary>
-    <updated>2024-01-20T23:33:02+08:00</updated>
+    <updated>2024-01-21T16:16:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -113,20 +113,27 @@
         <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <text macro="volume"/>
               <text variable="volume-title"/>
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
+            <if type="article article-journal" match="none">
+              <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
         </group>
       </group>
       <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
+        <if variable="container-title" type="paper-conference" match="none">
           <choose>
             <if variable="event-date">
               <text variable="event-place"/>
@@ -344,7 +351,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">

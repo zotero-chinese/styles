@@ -238,7 +238,7 @@ Undefined
   <div class="csl-entry">[23]	Ruby J, Fulton C. Beyond redlining: Editing software that works[C]. .</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author, 1991.</div>
   <div class="csl-entry">[25]	Mitchell T R, Larson J R. People in organizations: An introduction to organizational behavior[M]. 3 edition. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[26]	Bergmann P G. Relativity[Z]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+  <div class="csl-entry">[26]	Bergmann P G. Relativity[M]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   <div class="csl-entry">[27]	Anonymous. The new Grove dictionary of music and musicians[M]. Sadie S, ed.. 6 edition. London : New York: Macmillan, 1980.</div>
   <div class="csl-entry">[28]	佚名. 现代汉语规范辞典[M/OL]. 李行健, 编. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	佚名. 现代汉语频率词典[M/OL]. 北京: 北京语言学院出版社, 1986.</div>
@@ -278,17 +278,17 @@ Undefined
 
     <div class="csl-block">为什么称为“中国大历史”？</div>
 .</div>
-  <div class="csl-entry">[16]	姚际恒. 古今伪书考[Z].</div>
-  <div class="csl-entry">[17]	毛祥麟. 墨余录[Z]. 上海: 上海古籍出版社, 1985.</div>
-  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集[Z]. 沈阳: 辽沈书社, 1991.</div>
-  <div class="csl-entry">[19]	佚名. 太平御览[Z]. 北京: 中华书局, 1985.</div>
-  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[Z]. 济南: 齐鲁书社, 1997.</div>
-  <div class="csl-entry">[21]	佚名. 嘉定县志[Z].</div>
-  <div class="csl-entry">[22]	佚名. 上海县续志[Z].</div>
-  <div class="csl-entry">[23]	佚名. 广东通志[Z]. 北京: 中国书店, 1992.</div>
-  <div class="csl-entry">[24]	佚名. 旧唐书[Z]. 北京: 中华书局, 1975.</div>
-  <div class="csl-entry">[25]	佚名. 方苞集[Z]. 上海: 上海古籍出版社, 1983.</div>
-  <div class="csl-entry">[26]	佚名. 清德宗实录[Z]. 北京: 中华书局, 1987.</div>
+  <div class="csl-entry">[16]	姚际恒. 古今伪书考[M].</div>
+  <div class="csl-entry">[17]	毛祥麟. 墨余录[M]. 上海: 上海古籍出版社, 1985.</div>
+  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集[M]. 沈阳: 辽沈书社, 1991.</div>
+  <div class="csl-entry">[19]	佚名. 太平御览[M]. 北京: 中华书局, 1985.</div>
+  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[M]. 济南: 齐鲁书社, 1997.</div>
+  <div class="csl-entry">[21]	佚名. 嘉定县志[M].</div>
+  <div class="csl-entry">[22]	佚名. 上海县续志[M].</div>
+  <div class="csl-entry">[23]	佚名. 广东通志[M]. 北京: 中国书店, 1992.</div>
+  <div class="csl-entry">[24]	佚名. 旧唐书[M]. 北京: 中华书局, 1975.</div>
+  <div class="csl-entry">[25]	佚名. 方苞集[M]. 上海: 上海古籍出版社, 1983.</div>
+  <div class="csl-entry">[26]	佚名. 清德宗实录[M]. 北京: 中华书局, 1987.</div>
   <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
   <div class="csl-entry">[28]	汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
@@ -502,10 +502,10 @@ Undefined
   <div class="csl-entry">[62]	Anonymous. Brain and intelligence: The ecology of child development[M]. Richardson F, ed.. National Educational Press, 1973: 113-123.</div>
   <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and cognitive development[M]. Liben L S, Mueller U, eds.//Handbook of child psychology and developmental science. 7 edition. John Wiley &#38; Sons, 2015: 339-380.</div>
   <div class="csl-entry">[64]	Lewin K. Group decision and social change[M]. Gold M, ed.//The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive transference[Z/OL].</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-report[Z/OL].</div>
-  <div class="csl-entry">[67]	Graham G. Behaviorism[Z/OL]. Stanford University, 2019.</div>
-  <div class="csl-entry">[68]	Anonymous. List of oldest companies[Z/OL].</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive transference[M/OL].</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-report[M/OL].</div>
+  <div class="csl-entry">[67]	Graham G. Behaviorism[M/OL]. Stanford University, 2019.</div>
+  <div class="csl-entry">[68]	Anonymous. List of oldest companies[M/OL].</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R/OL].</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R/OL].</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424[R/OL]. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>

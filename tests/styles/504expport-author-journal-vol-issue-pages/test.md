@@ -34,7 +34,7 @@ Undefined
   <div class="csl-entry">[6]	顾. . 北京: 北京古籍出版社, 1992.</div>
   <div class="csl-entry">[7]	王. . 刻本 版. 金陵: 湘乡曾国荃, 1865.</div>
   <div class="csl-entry">[8]	佚名. . 牛志明等, 编. 北京: 海洋出版社, 2012.</div>
-  <div class="csl-entry">[9]	中国第一历史档案馆等. . 桂林: 广西师范大学出版社, 2001(2001).</div>
+  <div class="csl-entry">[9]	中国第一历史档案馆等. . 桂林: 广西师范大学出版社, 20012001.</div>
   <div class="csl-entry">[10]	杨. . 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">[11]	赵. . 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. . 上海: 同济大学出版社, 2011: 5–6.</div>
@@ -50,9 +50,9 @@ Undefined
   <div class="csl-entry">[22]	贾等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
   <div class="csl-entry">[23]	Weinstein et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
   <div class="csl-entry">[24]	Roberson et al. . American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
-  <div class="csl-entry">[25]	中华医学会湖北分会. . 武汉: 中华医学会湖北分会, 1984(1984).</div>
-  <div class="csl-entry">[26]	中国图书馆学会. . 北京: 北京图书馆, 1957(1957).</div>
-  <div class="csl-entry">[27]	American Association for the Advancement of Science. . Washington, D.C.: American Association for the Advancement of Science, 1883(1883).</div>
+  <div class="csl-entry">[25]	中华医学会湖北分会. . 武汉: 中华医学会湖北分会, 19841984.</div>
+  <div class="csl-entry">[26]	中国图书馆学会. . 北京: 北京图书馆, 19571957.</div>
+  <div class="csl-entry">[27]	American Association for the Advancement of Science. . Washington, D.C.: American Association for the Advancement of Science, 18831883.</div>
   <div class="csl-entry">[28]	袁等. 科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">[29]	余. 人民日报, 2013: 2.</div>
   <div class="csl-entry">[30]	李. 图书情报工作, 2008, 52(6): 6–12.</div>
@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">[40]	中国互联网络信息中心. . (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. .</div>
   <div class="csl-entry">[42]	Bawden. . (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">[43]	Online Computer Library Center, Inc. . ([no date])[2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+  <div class="csl-entry">[43]	Online Computer Library Center, Inc. . [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[44]	Hopkinson. . (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">[45]	Anonymous. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘. . 合肥: 中国科学技术大学, 2000: 17–18.</div>
@@ -152,7 +152,7 @@ Undefined
   <div class="csl-entry">[124]	刘等. 人民日报, 2013.</div>
   <div class="csl-entry">[125]	萧. . (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
   <div class="csl-entry">[126]	李. . (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
-  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. . ([no date])[2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
+  <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. . [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
   <div class="csl-entry">[128]	Anonymous. . (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
 </div>
 
@@ -184,7 +184,7 @@ Undefined
   <div class="csl-entry">[23]	Ruby et al. . .</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. . (1991) .</div>
   <div class="csl-entry">[25]	Mitchell et al. . 3 edition. New York: McGraw-Hill, 1987: 602.</div>
-  <div class="csl-entry">[26]	Bergmann. . New York: Encyclopedia Britannica, 1993: 501–508(1993).</div>
+  <div class="csl-entry">[26]	Bergmann. . New York: Encyclopedia Britannica, 1993: 501–5081993.</div>
   <div class="csl-entry">[27]	Anonymous. . Sadie S, ed.. 6 edition. London : New York: Macmillan, 1980: 29.</div>
   <div class="csl-entry">[28]	佚名. . 李行健, 编. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	佚名. . 北京: 北京语言学院出版社, 1986.</div>
@@ -212,17 +212,17 @@ Undefined
   <div class="csl-entry">[13]	李鹏程. . 北京: 人民出版社, 1994.</div>
   <div class="csl-entry">[14]	楼适夷. . 傅敏, 编//傅雷家书. 增补本 版. 北京: 三联书店, 1998: 2.</div>
   <div class="csl-entry">[15]	黄仁宇. //中国大历史. 北京: 三联书店, 1997: 2.</div>
-  <div class="csl-entry">[16]	姚际恒. ([日期不详]).</div>
-  <div class="csl-entry">[17]	毛祥麟. . 上海: 上海古籍出版社, 1985(1985).</div>
-  <div class="csl-entry">[18]	杨钟羲. . 沈阳: 辽沈书社, 1991(1991).</div>
-  <div class="csl-entry">[19]	佚名. . 北京: 中华书局, 1985(1985).</div>
-  <div class="csl-entry">[20]	管志道. . 济南: 齐鲁书社, 1997(1997).</div>
-  <div class="csl-entry">[21]	佚名. ([日期不详]).</div>
-  <div class="csl-entry">[22]	佚名. ([日期不详]).</div>
-  <div class="csl-entry">[23]	佚名. . 北京: 中国书店, 1992(1992).</div>
-  <div class="csl-entry">[24]	佚名. . 北京: 中华书局, 1975(1975).</div>
-  <div class="csl-entry">[25]	佚名. . 上海: 上海古籍出版社, 1983(1983).</div>
-  <div class="csl-entry">[26]	佚名. . 北京: 中华书局, 1987(1987).</div>
+  <div class="csl-entry">[16]	姚际恒. .</div>
+  <div class="csl-entry">[17]	毛祥麟. . 上海: 上海古籍出版社, 19851985.</div>
+  <div class="csl-entry">[18]	杨钟羲. . 沈阳: 辽沈书社, 19911991.</div>
+  <div class="csl-entry">[19]	佚名. . 北京: 中华书局, 19851985.</div>
+  <div class="csl-entry">[20]	管志道. . 济南: 齐鲁书社, 19971997.</div>
+  <div class="csl-entry">[21]	佚名. .</div>
+  <div class="csl-entry">[22]	佚名. .</div>
+  <div class="csl-entry">[23]	佚名. . 北京: 中国书店, 19921992.</div>
+  <div class="csl-entry">[24]	佚名. . 北京: 中华书局, 19751975.</div>
+  <div class="csl-entry">[25]	佚名. . 上海: 上海古籍出版社, 19831983.</div>
+  <div class="csl-entry">[26]	佚名. . 北京: 中华书局, 19871987.</div>
   <div class="csl-entry">[27]	何龄修. 中国史研究, 1998(3).</div>
   <div class="csl-entry">[28]	汪疑今. 中国经济, 1936, 4(6).</div>
   <div class="csl-entry">[29]	魏丽英. 社会科学, 1990(6).</div>
@@ -237,9 +237,9 @@ Undefined
   <div class="csl-entry">[38]	任东来. . .</div>
   <div class="csl-entry">[39]	任东来. //全球化与亚太区域化国际研讨会论文集. .</div>
   <div class="csl-entry">[40]	佚名. (1917-09-15).</div>
-  <div class="csl-entry">[41]	佚名. (1950-07).</div>
+  <div class="csl-entry">[41]	佚名. 1950.</div>
   <div class="csl-entry">[42]	王明亮. . (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
-  <div class="csl-entry">[43]	扬之水. . . 《文学遗产通讯》（网络版试刊）2006年第1期. ([日期不详])[2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
+  <div class="csl-entry">[43]	扬之水. . . 《文学遗产通讯》（网络版试刊）2006年第1期. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">[44]	Brooks. . Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo. . Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain. Modern China, 1993, 19(2): 199–215.</div>
@@ -259,19 +259,19 @@ Undefined
   <div class="csl-entry">[7]	[德]莱纳·沃尔夫. . 刘刚, 编. 陈霄, 译//风险规制：德国的理论与实践. 法律出版社, 2012.</div>
   <div class="csl-entry">[8]	何海波. 法制日报, 2000: 2.</div>
   <div class="csl-entry">[9]	汪波. . . 人民网. (2004-01-10)[2022-05-03]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>.</div>
-  <div class="csl-entry">[10]	佚名. . . 新华网. ([日期不详]). <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
+  <div class="csl-entry">[10]	佚名. . . 新华网. . <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
   <div class="csl-entry">[11]	赵耀彤. . . 中国法律评论. (2018-12-01)[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
-  <div class="csl-entry">[12]	佚名. . ([日期不详])[2016-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
+  <div class="csl-entry">[12]	佚名. . [2016-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
   <div class="csl-entry">[13]	李松锋. . 中国政法大学, 2015.</div>
   <div class="csl-entry">[14]	佚名. .</div>
   <div class="csl-entry">[15]	国务院. (2007-07-11).</div>
-  <div class="csl-entry">[16]	佚名. ([日期不详]).</div>
+  <div class="csl-entry">[16]	佚名. .</div>
   <div class="csl-entry">[17]	佚名. (2015-07-06).</div>
   <div class="csl-entry">[18]	Reich. Yale Law Journal, 1964, 73(5): 733–787.</div>
   <div class="csl-entry">[19]	Brandeis. Harper’s Weekly, 1913: 10.</div>
   <div class="csl-entry">[20]	Alford. . Stanford University Press, 1995.</div>
   <div class="csl-entry">[21]	佚名. . 应松年等, 编. 中国法制出版社, 2006.</div>
-  <div class="csl-entry">[22]	Anonymous. (1987).</div>
+  <div class="csl-entry">[22]	Anonymous. 1987.</div>
   <div class="csl-entry">[23]	罗豪才等. 中国法学, 1993(1): 52–59.</div>
   <div class="csl-entry">[24]	夏新华等. . 中国政法大学出版社, 2004: 1159.</div>
   <div class="csl-entry">[25]	邓小平. //邓小平文选. 2 版. 人民出版社, 1994.</div>
@@ -295,10 +295,10 @@ Undefined
   <div class="csl-entry">[43]	Horsley. . Bergsten C F et al., eds.//China: The balance Sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">[44]	Anonymous. . Stat., 1966, 80: 931, 944–947.</div>
   <div class="csl-entry">[45]	Anonymous. . U.S.C., 2006, 5.</div>
-  <div class="csl-entry">[46]	Anonymous. (1982).</div>
-  <div class="csl-entry">[47]	Anonymous. (1984).</div>
-  <div class="csl-entry">[48]	Anonymous. (1973).</div>
-  <div class="csl-entry">[49]	Anonymous. ([no date]).</div>
+  <div class="csl-entry">[46]	Anonymous. 1982.</div>
+  <div class="csl-entry">[47]	Anonymous. 1984.</div>
+  <div class="csl-entry">[48]	Anonymous. 1973.</div>
+  <div class="csl-entry">[49]	Anonymous. .</div>
   <div class="csl-entry">[50]	McDonell. . . BBC News. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
   <div class="csl-entry">[51]	Chevallier. . 4 版. Paris: Montchrestien, 2003.</div>
   <div class="csl-entry">[52]	Poisson. RGDIP, 2015: 15–47.</div>
@@ -307,7 +307,7 @@ Undefined
   <div class="csl-entry">[55]	Poisson. . (2016-07) .</div>
   <div class="csl-entry">[56]	Poisson. . (2016-08) .</div>
   <div class="csl-entry">[57]	Poisson. . l’Université de Marseille, 2016.</div>
-  <div class="csl-entry">[58]	Joyeux-Prunel. . . Histoire &#38; mesure, vol. XXIII, n° 2, 2008. ([日期不详])[2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
+  <div class="csl-entry">[58]	Joyeux-Prunel. . . Histoire &#38; mesure, vol. XXIII, n° 2, 2008. [2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   <div class="csl-entry">[59]	Vogel. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629–649.</div>
   <div class="csl-entry">[60]	Würdinger. Juristische Schulung, 2012(3): 234–240.</div>
   <div class="csl-entry">[61]	Fischer. Die Zeit, 2015.</div>
@@ -319,10 +319,10 @@ Undefined
   <div class="csl-entry">[67]	佚名. .</div>
   <div class="csl-entry">[68]	佚名. .</div>
   <div class="csl-entry">[69]	佚名. .</div>
-  <div class="csl-entry">[70]	佚名. ([日期不详]).</div>
-  <div class="csl-entry">[71]	佚名. (1999).</div>
-  <div class="csl-entry">[72]	佚名. (2000).</div>
-  <div class="csl-entry">[73]	Meidenbauer. . ([日期不详])[2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
+  <div class="csl-entry">[70]	佚名. .</div>
+  <div class="csl-entry">[71]	佚名. 1999.</div>
+  <div class="csl-entry">[72]	佚名. 2000.</div>
+  <div class="csl-entry">[73]	Meidenbauer. . [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
   <div class="csl-entry">[74]	我妻栄. . 有斐閣, 1971.</div>
   <div class="csl-entry">[75]	我妻栄等. . 日本評論社, 1950.</div>
   <div class="csl-entry">[76]	於保不二雄. 民商法雑誌, 1954, 29(5): 1.</div>
@@ -330,10 +330,10 @@ Undefined
   <div class="csl-entry">[78]	佚名. (1919-03-03).</div>
   <div class="csl-entry">[79]	佚名. (1982-07-15).</div>
   <div class="csl-entry">[80]	佚名. .</div>
-  <div class="csl-entry">[81]	佚名. ([日期不详]).</div>
-  <div class="csl-entry">[82]	佚名. . ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
+  <div class="csl-entry">[81]	佚名. .</div>
+  <div class="csl-entry">[82]	佚名. . [2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
   <div class="csl-entry">[83]	欧中坦. . 高道蕴等, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
-  <div class="csl-entry">[84]	佚名. . . 新华网. ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
+  <div class="csl-entry">[84]	佚名. . . 新华网. . <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
 </div>
 
 ### APA 示例文献
@@ -352,8 +352,8 @@ Undefined
   <div class="csl-entry">[11]	Piaget. Human Development, 1972, 15(1): 1–12.</div>
   <div class="csl-entry">[12]	Shore. American Journal of Orthopsychiatry, 2014, 84(6): 611–618.</div>
   <div class="csl-entry">[13]	Anonymous. American Journal of Orthopsychiatry, 1981, 51(3): 391–402.</div>
-  <div class="csl-entry">[14]	Anonymous. (2018).</div>
-  <div class="csl-entry">[15]	Anonymous. (2018).</div>
+  <div class="csl-entry">[14]	Anonymous. 2018.</div>
+  <div class="csl-entry">[15]	Anonymous. 2018.</div>
   <div class="csl-entry">[16]	Mehrholz et al. Cochrane Database of Systematic Reviews, 2018.</div>
   <div class="csl-entry">[17]	Morey. UpToDate, 2019.</div>
   <div class="csl-entry">[18]	Bergeson. Science, 2019, 363(6422): 33–34.</div>
@@ -403,9 +403,9 @@ Undefined
   <div class="csl-entry">[62]	Anonymous. . Richardson F, ed.. National Educational Press, 1973: 113–123.</div>
   <div class="csl-entry">[63]	Goldin-Meadow. . Liben L S et al., eds.//Handbook of child psychology and developmental Science. 7 edition. John Wiley &#38; Sons, 2015: 339–380.</div>
   <div class="csl-entry">[64]	Lewin. . Gold M, ed.//The complete social scientist: A Kurt Lewin Reader. American Psychological Association, 1999: 265–284.</div>
-  <div class="csl-entry">[65]	American Psychological Association. ([no date]).</div>
-  <div class="csl-entry">[66]	Merriam-Webster. ([no date]).</div>
-  <div class="csl-entry">[67]	Graham. . Stanford University, 2019(2019).</div>
+  <div class="csl-entry">[65]	American Psychological Association. .</div>
+  <div class="csl-entry">[66]	Merriam-Webster. .</div>
+  <div class="csl-entry">[67]	Graham. . Stanford University, 20192019.</div>
   <div class="csl-entry">[68]	Anonymous. (2019-01-13).</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission et al. . (2012) . <a href="https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf">https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf</a>.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. . (2013) . <a href="http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf">http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf</a>.</div>
@@ -430,105 +430,105 @@ Undefined
   <div class="csl-entry">[89]	Hollander. . University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90]	Hutcheson. . The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">[91]	Mirabito et al. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499–500.</div>
-  <div class="csl-entry">[92]	Anonymous. (2016).</div>
+  <div class="csl-entry">[92]	Anonymous. 2016.</div>
   <div class="csl-entry">[93]	Santos. The New York Times, 2019.</div>
   <div class="csl-entry">[94]	Yousafzai. . .</div>
   <div class="csl-entry">[95]	Perkins. . (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
-  <div class="csl-entry">[96]	Anonymous. (2018).</div>
-  <div class="csl-entry">[97]	Yoo et al. (2016).</div>
-  <div class="csl-entry">[98]	O’Shea. (2018).</div>
-  <div class="csl-entry">[99]	Lippincott et al. (2019).</div>
-  <div class="csl-entry">[100]	Leuker et al. . PsyArXiv, 2018(2018).</div>
-  <div class="csl-entry">[101]	Stults-Kolehmainen et al. . PubMed Central, 2015(2015).</div>
-  <div class="csl-entry">[102]	Ho. . ERIC, 2014(2014).</div>
-  <div class="csl-entry">[103]	D’Souza et al. . ICPSR, 2018(2018).</div>
-  <div class="csl-entry">[104]	National Center for Education Statistics. . National Archive of Data on Arts and Culture, 2016(2016).</div>
-  <div class="csl-entry">[105]	Pew Research Center. (2018).</div>
-  <div class="csl-entry">[106]	Baer. . University of Kentucky, 2015(2015).</div>
-  <div class="csl-entry">[107]	Oregan Youth Authority. (2011).</div>
-  <div class="csl-entry">[108]	Borenstein等. . Biostat, 2014(2014).</div>
-  <div class="csl-entry">[109]	SR Research. (2016).</div>
-  <div class="csl-entry">[110]	Tactile Labs. (2015).</div>
-  <div class="csl-entry">[111]	Epocrates. . App Store, 2019(2019).</div>
-  <div class="csl-entry">[112]	Epocrates. . Google Play Store, 2019(2019).</div>
+  <div class="csl-entry">[96]	Anonymous. 2018.</div>
+  <div class="csl-entry">[97]	Yoo et al. 2016.</div>
+  <div class="csl-entry">[98]	O’Shea. 2018.</div>
+  <div class="csl-entry">[99]	Lippincott et al. 2019.</div>
+  <div class="csl-entry">[100]	Leuker et al. . PsyArXiv, 20182018.</div>
+  <div class="csl-entry">[101]	Stults-Kolehmainen et al. . PubMed Central, 20152015.</div>
+  <div class="csl-entry">[102]	Ho. . ERIC, 20142014.</div>
+  <div class="csl-entry">[103]	D’Souza et al. . ICPSR, 20182018.</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. . National Archive of Data on Arts and Culture, 20162016.</div>
+  <div class="csl-entry">[105]	Pew Research Center. 2018.</div>
+  <div class="csl-entry">[106]	Baer. . University of Kentucky, 20152015.</div>
+  <div class="csl-entry">[107]	Oregan Youth Authority. 2011.</div>
+  <div class="csl-entry">[108]	Borenstein等. . Biostat, 20142014.</div>
+  <div class="csl-entry">[109]	SR Research. 2016.</div>
+  <div class="csl-entry">[110]	Tactile Labs. 2015.</div>
+  <div class="csl-entry">[111]	Epocrates. . App Store, 20192019.</div>
+  <div class="csl-entry">[112]	Epocrates. . Google Play Store, 20192019.</div>
   <div class="csl-entry">[113]	Tellegen et al. . (2011) .</div>
-  <div class="csl-entry">[114]	Project Implicit. ([no date]).</div>
-  <div class="csl-entry">[115]	Alonso-Tapia et al. . PsycTESTS, 2018(2018).</div>
-  <div class="csl-entry">[116]	Cardoza et al. . ETS TestLink, 2000(2000).</div>
-  <div class="csl-entry">[117]	Anonymous. . United Artists, 1975(1975).</div>
-  <div class="csl-entry">[118]	Anonymous. . American Pychological Association, 2017(2017).</div>
-  <div class="csl-entry">[119]	Anonymous. . WingNut Films; The Saul Zaentz Company, 2001(2001).</div>
-  <div class="csl-entry">[120]	Anonymous. . Nouvelles Éditions de Films, 1987(1987).</div>
-  <div class="csl-entry">[121]	Anonymous. . Blown Deadline Productions; HBO, 2002–2008(2002–2008).</div>
+  <div class="csl-entry">[114]	Project Implicit. .</div>
+  <div class="csl-entry">[115]	Alonso-Tapia et al. . PsycTESTS, 20182018.</div>
+  <div class="csl-entry">[116]	Cardoza et al. . ETS TestLink, 20002000.</div>
+  <div class="csl-entry">[117]	Anonymous. . United Artists, 19751975.</div>
+  <div class="csl-entry">[118]	Anonymous. . American Pychological Association, 20172017.</div>
+  <div class="csl-entry">[119]	Anonymous. . WingNut Films; The Saul Zaentz Company, 20012001.</div>
+  <div class="csl-entry">[120]	Anonymous. . Nouvelles Éditions de Films, 19871987.</div>
+  <div class="csl-entry">[121]	Anonymous. . Blown Deadline Productions; HBO, 2002–20082002–2008.</div>
   <div class="csl-entry">[122]	Anonymous. . Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
   <div class="csl-entry">[123]	Anonymous. . Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21).</div>
-  <div class="csl-entry">[124]	Anonymous. . TED Conferences, 2018(2018-04).</div>
+  <div class="csl-entry">[124]	Anonymous. . TED Conferences, 20182018.</div>
   <div class="csl-entry">[125]	Anonymous. . YouTube, 2012(2012-03-16).</div>
-  <div class="csl-entry">[126]	Anonymous. . American Psychiatric Association, 2018(2018).</div>
+  <div class="csl-entry">[126]	Anonymous. . American Psychiatric Association, 20182018.</div>
   <div class="csl-entry">[127]	Anonymous. . Vimeo, 2017(2017-11-24).</div>
   <div class="csl-entry">[128]	Anonymous. . YouTube, 2016(2016-09-30).</div>
   <div class="csl-entry">[129]	Anonymous. . YouTube, 2016(2016-12-06).</div>
-  <div class="csl-entry">[130]	Anonymous. . Decca, 2010(2010).</div>
-  <div class="csl-entry">[131]	Bowie. . Columbia, 2016(2016).</div>
-  <div class="csl-entry">[132]	Anonymous. . Brilliant Classics, 2012(2012).</div>
-  <div class="csl-entry">[133]	Beyoncé. . Parkwood; Columbia, 2016(2016).</div>
-  <div class="csl-entry">[134]	Childish Gambino. . mcDJ; RCA, 2018(2018).</div>
-  <div class="csl-entry">[135]	Lamar. . Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017(2017).</div>
-  <div class="csl-entry">[136]	Vedantam. . NPR, 2015(2015).</div>
+  <div class="csl-entry">[130]	Anonymous. . Decca, 20102010.</div>
+  <div class="csl-entry">[131]	Bowie. . Columbia, 20162016.</div>
+  <div class="csl-entry">[132]	Anonymous. . Brilliant Classics, 20122012.</div>
+  <div class="csl-entry">[133]	Beyoncé. . Parkwood; Columbia, 20162016.</div>
+  <div class="csl-entry">[134]	Childish Gambino. . mcDJ; RCA, 20182018.</div>
+  <div class="csl-entry">[135]	Lamar. . Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 20172017.</div>
+  <div class="csl-entry">[136]	Vedantam. . NPR, 20152015.</div>
   <div class="csl-entry">[137]	Glass. . WBEZ Chicago, 2011(2011-08-12).</div>
   <div class="csl-entry">[138]	de Beauvoir. (1960-05-04).</div>
   <div class="csl-entry">[139]	King. . American Rhetoric, 1963(1963-08-28).</div>
-  <div class="csl-entry">[140]	Delacroix. (1826–1827).</div>
-  <div class="csl-entry">[141]	Wood. (1930).</div>
-  <div class="csl-entry">[142]	GDJ. (2018).</div>
-  <div class="csl-entry">[143]	Rossman et al. (2015).</div>
-  <div class="csl-entry">[144]	Cable. . University of Virginia: Weldon Cooper Center for Public Service, 2013(2013).</div>
-  <div class="csl-entry">[145]	Google. ([no date]).</div>
-  <div class="csl-entry">[146]	McCurry. (1985).</div>
-  <div class="csl-entry">[147]	Rinaldi. (2016).</div>
+  <div class="csl-entry">[140]	Delacroix. 1826–1827.</div>
+  <div class="csl-entry">[141]	Wood. 1930.</div>
+  <div class="csl-entry">[142]	GDJ. 2018.</div>
+  <div class="csl-entry">[143]	Rossman et al. 2015.</div>
+  <div class="csl-entry">[144]	Cable. . University of Virginia: Weldon Cooper Center for Public Service, 20132013.</div>
+  <div class="csl-entry">[145]	Google. .</div>
+  <div class="csl-entry">[146]	McCurry. 1985.</div>
+  <div class="csl-entry">[147]	Rinaldi. 2016.</div>
   <div class="csl-entry">[148]	Canan et al. (2019-05-22).</div>
-  <div class="csl-entry">[149]	Housand. (2016).</div>
-  <div class="csl-entry">[150]	Mack et al. (2018).</div>
+  <div class="csl-entry">[149]	Housand. 2016.</div>
+  <div class="csl-entry">[150]	Mack et al. 2018.</div>
   <div class="csl-entry">[151]	APA Education [@APAEducation]. (2018-06-29).</div>
   <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. (2018-02-26).</div>
   <div class="csl-entry">[153]	White. (2018-06-21).</div>
-  <div class="csl-entry">[154]	APA Style [@APA_Style]. . . Twitter. ([no date])[2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
+  <div class="csl-entry">[154]	APA Style [@APA_Style]. . . Twitter. [2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
   <div class="csl-entry">[155]	Gaiman. (2018-03-22).</div>
   <div class="csl-entry">[156]	National Institute of Mental Health. (2018-11-28).</div>
   <div class="csl-entry">[157]	News From Science. (2018-06-26).</div>
-  <div class="csl-entry">[158]	Smithsonian’s National Zoo and Conservation Biology Institute. . . Facebook. ([no date])[2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
+  <div class="csl-entry">[158]	Smithsonian’s National Zoo and Conservation Biology Institute. . . Facebook. [2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
   <div class="csl-entry">[159]	Zeitz MOCAA [@zeitzmocaa]. (2018-11-26).</div>
-  <div class="csl-entry">[160]	The New York Public Library [@nypl]. ([no date]).</div>
+  <div class="csl-entry">[160]	The New York Public Library [@nypl]. .</div>
   <div class="csl-entry">[161]	National Aeronautics and Space Administration [@nasa]. (2018-09-12).</div>
   <div class="csl-entry">[162]	Avramova. . . CNN. (2019-01-03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
   <div class="csl-entry">[163]	Bologna. . . HuffPost. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
   <div class="csl-entry">[164]	Centers for Disease Control and Prevention. . (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
-  <div class="csl-entry">[165]	World Health Organization. . (2018-03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
+  <div class="csl-entry">[165]	World Health Organization. . 2018. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
   <div class="csl-entry">[166]	Martin Lillie. . . Mayo Clinic. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
-  <div class="csl-entry">[167]	Boddy et al. . . The research ethics guidebook: A resource for social scientists. ([no date]). <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
-  <div class="csl-entry">[168]	National Nurses United. . ([no date]). <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
-  <div class="csl-entry">[169]	U.S. Census Bureau. . . U.S. Department of Commerce. ([no date])[2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
-  <div class="csl-entry">[170]	Anonymous. (1954).</div>
-  <div class="csl-entry">[171]	Anonymous. (2015).</div>
-  <div class="csl-entry">[172]	Anonymous. (1991).</div>
-  <div class="csl-entry">[173]	Anonymous. (2001).</div>
-  <div class="csl-entry">[174]	Anonymous. (1984).</div>
-  <div class="csl-entry">[175]	Anonymous. (1976).</div>
-  <div class="csl-entry">[176]	Anonymous. (1992).</div>
+  <div class="csl-entry">[167]	Boddy et al. . . The research ethics guidebook: A resource for social scientists. . <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
+  <div class="csl-entry">[168]	National Nurses United. . . <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
+  <div class="csl-entry">[169]	U.S. Census Bureau. . . U.S. Department of Commerce. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
+  <div class="csl-entry">[170]	Anonymous. 1954.</div>
+  <div class="csl-entry">[171]	Anonymous. 2015.</div>
+  <div class="csl-entry">[172]	Anonymous. 1991.</div>
+  <div class="csl-entry">[173]	Anonymous. 2001.</div>
+  <div class="csl-entry">[174]	Anonymous. 1984.</div>
+  <div class="csl-entry">[175]	Anonymous. 1976.</div>
+  <div class="csl-entry">[176]	Anonymous. 1992.</div>
   <div class="csl-entry">[177]	Anonymous. . U.S.C, 1990, 42.</div>
   <div class="csl-entry">[178]	Anonymous. . Stat., 1964, 78: 241.</div>
   <div class="csl-entry">[179]	Anonymous. . U.S.C, 2015, 20.</div>
   <div class="csl-entry">[180]	Anonymous. . Stat., 2009, 123: 5.</div>
   <div class="csl-entry">[181]	Anonymous. . U.S.C, 1972, 20.</div>
   <div class="csl-entry">[182]	Anonymous. . Fla. Stat., 2009.</div>
-  <div class="csl-entry">[183]	Anonymous. (2016).</div>
-  <div class="csl-entry">[184]	Anonymous. (2014).</div>
+  <div class="csl-entry">[183]	Anonymous. 2016.</div>
+  <div class="csl-entry">[184]	Anonymous. 2014.</div>
   <div class="csl-entry">[185]	Anonymous. .</div>
   <div class="csl-entry">[186]	Anonymous. . Cong. Rec., 2016, 162: 2394.</div>
   <div class="csl-entry">[187]	Anonymous. . (2015) . <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>.</div>
-  <div class="csl-entry">[188]	Anonymous. (2009).</div>
+  <div class="csl-entry">[188]	Anonymous. 2009.</div>
   <div class="csl-entry">[189]	Anonymous. . F.R., 2016, 81: 32391.</div>
-  <div class="csl-entry">[190]	Anonymous. (2014).</div>
+  <div class="csl-entry">[190]	Anonymous. 2014.</div>
   <div class="csl-entry">[191]	Hiremath et al. . 2016.</div>
   <div class="csl-entry">[192]	Anonymous. .</div>
   <div class="csl-entry">[193]	Anonymous. .</div>

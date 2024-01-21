@@ -263,7 +263,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[32]	佚名，“上海各路商界总联合会致外交部电”，《民国日报》，1925年，第4页。</div>
   <div class="csl-entry">[33]	佚名，“西南中委反对在宁召开五全会”，《民国日报》，1933年，第1张第4版。</div>
   <div class="csl-entry">[34]	佚名，《党外人士座谈会记录》。1950年。</div>
-  <div class="csl-entry">[35]	Anon, Nixon to Kissinger. 1969.</div>
+  <div class="csl-entry">[35]	Anon, Nixon to Kissinger. National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">[36]	佚名，《旧唐书》。北京：中华书局，1975年。</div>
   <div class="csl-entry">[37]	佚名，《方苞集》。上海：上海古籍出版社，1983年。</div>
   <div class="csl-entry">[38]	佚名，《太平御览》。北京：中华书局，1985年。</div>
@@ -454,10 +454,10 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[81]	Christian, B., and T. Griffiths, Algorithms to Live by: The Computer Science of Human Decisions. Henry Holt and Co., 2016.</div>
   <div class="csl-entry">[82]	Cuellar, N. G., “Study Abroad Programs”, Journal of Transcultural Nursing, 2016, 27(3), 209.</div>
   <div class="csl-entry">[83]	Cutts, S., Happiness. Vimeo, 2017.</div>
-  <div class="csl-entry">[84]	de Beauvoir, S., Simone de Beauvoir Discusses the Art of Writing. 1960.</div>
+  <div class="csl-entry">[84]	de Beauvoir, S., Simone de Beauvoir Discusses the Art of Writing. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[85]	De Boer, D., and T. LaFavor, The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach, in Perspectives on Resilience: Conceptualization, Measurement, and Enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[86]	De Vries, R., M. Nieuwenhuijze, S. E. Buitendijk, and the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, Midwifery, 2013, 29(10), 1122-1128.</div>
-  <div class="csl-entry">[87]	Delacroix, E., Faust Attempts to Seduce Marguerite. 1826–1827.</div>
+  <div class="csl-entry">[87]	Delacroix, E., Faust Attempts to Seduce Marguerite. Paris, France: The Louvre, 1826–1827.</div>
   <div class="csl-entry">[88]	D’Souza, A., and M. Wiseheart, Cognitive Effects of Music and Dance Training in Children. ICPSR, 2018.</div>
   <div class="csl-entry">[89]	Epocrates, Epocrates Medical References. App Store, 2019a.</div>
   <div class="csl-entry">[90]	Epocrates, Interaction Check: Aspirin + Sertraline, in Epocrates Medical References. Google Play Store, 2019b.</div>
@@ -468,7 +468,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[95]	Freud, S., The Interpretation of Dreams: The Complete and Definitive Text, in J. Strachey, ed. Basic Books, 2010.</div>
   <div class="csl-entry">[96]	Fried, D., and A. Polyakova, Democratic Defense against Disinformation. Atlantic Council, 2018.</div>
   <div class="csl-entry">[97]	Gaiman, N., 100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached], in Facebook. 2018.</div>
-  <div class="csl-entry">[98]	GDJ, Neural Network Deep Learning Prismatic. 2018.</div>
+  <div class="csl-entry">[98]	GDJ, Neural Network Deep Learning Prismatic. Openclipart, 2018.</div>
   <div class="csl-entry">[99]	Giertz, S., Why You Should Make Useless Things. TED Conferences, 2018.</div>
   <div class="csl-entry">[100]	Glass, I., Amusement Park, in This American Life. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">[101]	Gold, M., The Complete Social Scientist: A Kurt Lewin Reader. American Psychological Association, 1999.</div>
@@ -507,7 +507,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[134]	Malle, L., Goodbye Children. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">[135]	Martin Lillie, C. M., Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency, in Mayo Clinic. 2016.</div>
   <div class="csl-entry">[136]	McCauley, S. M., and M. H. Christiansen, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, Psychological Review, 2019, 126(1), 1-51.</div>
-  <div class="csl-entry">[137]	McCurry, S., Afghan Girl. 1985.</div>
+  <div class="csl-entry">[137]	McCurry, S., Afghan Girl. National Geographic, 1985.</div>
   <div class="csl-entry">[138]	McDaniel, S. H., E. Salas, and A. E. Kazak, American Psychologist. 2018.</div>
   <div class="csl-entry">[139]	Meadows, D. H., Thinking in Systems: A Primer, in D. Wright, ed. Chelsea Green Publishing, 2008.</div>
   <div class="csl-entry">[140]	Mehrholz, J., M. Pohl, T. Platz, J. Kugler, and B. Elsner, “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke”, Cochrane Database of Systematic Reviews, 2018.</div>
@@ -533,8 +533,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[160]	Pridham, K. F., R. Limbo, and M. Schroeder, Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">[161]	Project Implicit, Gender-Science IAT.</div>
   <div class="csl-entry">[162]	Richardson, F., Brain and Intelligence: The Ecology of Child Development. National Educational Press, 1973.</div>
-  <div class="csl-entry">[163]	Rinaldi, J., Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted. 2016.</div>
-  <div class="csl-entry">[164]	Rossman, J., and R. Palmer, Sorting through Our Space Junk. 2015.</div>
+  <div class="csl-entry">[163]	Rinaldi, J., Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted. The Pulitzer Prizes, 2016.</div>
+  <div class="csl-entry">[164]	Rossman, J., and R. Palmer, Sorting through Our Space Junk. World Science Festival, 2015.</div>
   <div class="csl-entry">[165]	Rowling, J. K., Harry Potter and the Sorceror’s Stone. Pottermore Publishing, 2015.</div>
   <div class="csl-entry">[166]	Sacchett, C., and G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, Cognitive Neuropsychology, 1992, 9(1), 73-86.</div>
   <div class="csl-entry">[167]	Sacchett, C., and G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, in D. A. Balota and E. J. Marsh, eds., Cognitive Psychology: Key Readings in Cognition. Psychology Press, 2004.</div>
@@ -562,7 +562,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[189]	Weinstock, R., G. B. Leong, and J. A. Silva, “Defining Forensic Psychiatry: Roles and Responsibilities”, in R. Rosner, ed., Principles and Practise of Forensic Psychiatry. CRC Press, 2003.</div>
   <div class="csl-entry">[190]	Weir, K., “Forgiveness Can Improve Mental and Physical Health”, Monitor on Psychology, 2017, 48(1), 30.</div>
   <div class="csl-entry">[191]	White, B., I Treasure Every Minute We Spent Together #koko [Image Attached], in Twitter. 2018.</div>
-  <div class="csl-entry">[192]	Wood, G., American Gothic. 1930.</div>
+  <div class="csl-entry">[192]	Wood, G., American Gothic. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
   <div class="csl-entry">[193]	World Health Organization, Questions and Answers on Immunization and Vaccine Safety. 2018.</div>
   <div class="csl-entry">[194]	World Health Organization, International Statistical Classification of Diseases and Related Health Problems. World Health Organization, 2019.</div>
   <div class="csl-entry">[195]	Yoo, J., Y. Miyamoto, A. Rigotti, and C. Ryff, Linking Positive Affect to Blood Lipids: A Cultural Perspective. Department of Psychology, University of Wisconsin-Madison, 2016.</div>

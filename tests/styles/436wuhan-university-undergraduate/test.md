@@ -194,7 +194,7 @@
   <div class="csl-entry">[23]	Ruby J, Fulton C. Beyond redlining: Editing software that works[A]. Poster session presented at the annual meeting of the Society for Scholarly Publishing[C]. Washington, DC, 1993.</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990[R]. Canberra, Australian Capital Territory: Author, 1991.</div>
   <div class="csl-entry">[25]	Mitchell T R, Larson J R. People in organizations: An introduction to organizational behavior[M]. 3rd ed. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[26]	Bergmann P G. Relativity[Z]. The new encyclopedia Britannica: Vol. 26[M]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+  <div class="csl-entry">[26]	Bergmann P G. Relativity[M]. The new encyclopedia Britannica: Vol. 26[M]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   <div class="csl-entry">[27]	Sadie S. The new Grove dictionary of music and musicians[M]. 6th ed. London : New York: Macmillan, 1980.</div>
   <div class="csl-entry">[28]	李行健. 现代汉语规范辞典[M]. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	现代汉语频率词典[M]. 北京: 北京语言学院出版社, 1986.</div>
@@ -222,17 +222,17 @@
   <div class="csl-entry">[13]	李鹏程. 当代文化哲学沉思[M]. 北京: 人民出版社, 1994.</div>
   <div class="csl-entry">[14]	楼适夷. 读家书，想傅雷（代序）[M]. 傅敏, 傅雷家书[M]. 北京: 三联书店, 1998: 2.</div>
   <div class="csl-entry">[15]	黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]. 中国大历史[M]. 北京: 三联书店, 1997: 2.</div>
-  <div class="csl-entry">[16]	姚际恒. 古今伪书考[Z]. 光绪三年苏州文学山房活字本.</div>
-  <div class="csl-entry">[17]	毛祥麟. 墨余录[Z]. 上海: 上海古籍出版社, 1985.</div>
-  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集[Z]. 影印本. 沈阳: 辽沈书社, 1991.</div>
-  <div class="csl-entry">[19]	太平御览[Z]. 影印本. 北京: 中华书局, 1985.</div>
-  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[Z]. 续问辨牍: 卷 2[M]. 济南: 齐鲁书社, 1997.</div>
-  <div class="csl-entry">[21]	嘉定县志[Z].</div>
-  <div class="csl-entry">[22]	上海县续志[Z].</div>
-  <div class="csl-entry">[23]	广东通志[Z]. 稀见中国地方志汇刊: 卷 15[M]. 北京: 中国书店, 1992.</div>
-  <div class="csl-entry">[24]	旧唐书[Z]. 标点本. 北京: 中华书局, 1975.</div>
-  <div class="csl-entry">[25]	方苞集[Z]. 标点本. 上海: 上海古籍出版社, 1983.</div>
-  <div class="csl-entry">[26]	清德宗实录[Z]. 影印本. 北京: 中华书局, 1987.</div>
+  <div class="csl-entry">[16]	姚际恒. 古今伪书考[M]. 光绪三年苏州文学山房活字本.</div>
+  <div class="csl-entry">[17]	毛祥麟. 墨余录[M]. 上海: 上海古籍出版社, 1985.</div>
+  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
+  <div class="csl-entry">[19]	太平御览[M]. 影印本. 北京: 中华书局, 1985.</div>
+  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[M]. 续问辨牍: 卷 2[M]. 济南: 齐鲁书社, 1997.</div>
+  <div class="csl-entry">[21]	嘉定县志[M].</div>
+  <div class="csl-entry">[22]	上海县续志[M].</div>
+  <div class="csl-entry">[23]	广东通志[M]. 稀见中国地方志汇刊: 卷 15[M]. 北京: 中国书店, 1992.</div>
+  <div class="csl-entry">[24]	旧唐书[M]. 标点本. 北京: 中华书局, 1975.</div>
+  <div class="csl-entry">[25]	方苞集[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>
+  <div class="csl-entry">[26]	清德宗实录[M]. 影印本. 北京: 中华书局, 1987.</div>
   <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
   <div class="csl-entry">[28]	汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
@@ -246,15 +246,15 @@
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[A]. 全球化与亚太区域化国际研讨会, 六月 2000, 天津[C]. 天津: 9.</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[A]. 全球化与亚太区域化国际研讨会论文集[C]. 天津, 2000: 9.</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[A]. 1917.</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[A]. 1950.</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电[A]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录[A]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>. 1998-08-16.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. 《文学遗产通讯》（网络版试刊）2006年第1期. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>. 2007-09-13.</div>
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo[M]. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   <div class="csl-entry">[47]	Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, Hunger and history: The impact of changing food production and consumption pattern on society[M]. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger[A]. 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger[A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -413,10 +413,10 @@
   <div class="csl-entry">[62]	Richardson F. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973: 113-123.</div>
   <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and cognitive development[M]. Liben L S, Mueller U, Handbook of child psychology and developmental science: Vol. 2[M]. John Wiley &#38; Sons, 2015: 339-380.</div>
   <div class="csl-entry">[64]	Lewin K. Group decision and social change[M]. Gold M, The complete social scientist: A Kurt Lewin reader[M]. American Psychological Association, 1999: 265-284.</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive transference[Z]. APA dictionary of psychology[M]. [2019].</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-report[Z]. Merriam-Webster.com dictionary[M]. [2019].</div>
-  <div class="csl-entry">[67]	Graham G. Behaviorism[Z]. Zalta E N, The Stanford encyclopedia of philosophy[M]. Stanford University, 2019.</div>
-  <div class="csl-entry">[68]	List of oldest companies[Z]. Wikipedia[M]. 2019.</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive transference[M]. APA dictionary of psychology[M]. [2019].</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-report[M]. Merriam-Webster.com dictionary[M]. [2019].</div>
+  <div class="csl-entry">[67]	Graham G. Behaviorism[M]. Zalta E N, The Stanford encyclopedia of philosophy[M]. Stanford University, 2019.</div>
+  <div class="csl-entry">[68]	List of oldest companies[M]. Wikipedia[M]. 2019.</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R]. 2012.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment[R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
@@ -486,16 +486,16 @@
   <div class="csl-entry">[135]	Lamar K. Humble[Z]. Damn[M]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden brain[Z]. NPR, 2015.</div>
   <div class="csl-entry">[137]	Glass I. Amusement park[Z]. This American Life[M]. WBEZ Chicago, 2011.</div>
-  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z]. 1960.</div>
+  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[139]	King M L Jr. I have a dream[Z]. American Rhetoric, 1963.</div>
-  <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite[Z]. 1826/1827.</div>
-  <div class="csl-entry">[141]	Wood G. American gothic[Z]. 1930.</div>
-  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic[Z]. 2018.</div>
-  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk[Z]. 2015.</div>
+  <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite[Z]. Paris, France: The Louvre, 1826/1827.</div>
+  <div class="csl-entry">[141]	Wood G. American gothic[Z]. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
+  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic[Z]. Openclipart, 2018.</div>
+  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk[Z]. World Science Festival, 2015.</div>
   <div class="csl-entry">[144]	Cable D. The racial dot map[CM]. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">[145]	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM]. [2020].</div>
-  <div class="csl-entry">[146]	McCurry S. Afghan girl[Z]. 1985.</div>
-  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[Z]. 2016.</div>
+  <div class="csl-entry">[146]	McCurry S. Afghan girl[Z]. National Geographic, 1985.</div>
+  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[Z]. The Pulitzer Prizes, 2016.</div>
   <div class="csl-entry">[148]	Canan E, Vasilev J. Lecture notes on resource allocation[A]. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom[A]. SlideShare, 2016.</div>
   <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations[A]. Canvas@FNU, 2018.</div>
@@ -532,7 +532,7 @@
   <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act[A]. U.S.C: Vol. 20[M]. 1972.</div>
   <div class="csl-entry">[182]	Florida Mental Health Act[A]. Fla. Stat.[M]. 2009.</div>
   <div class="csl-entry">[183]	Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z]. 2016.</div>
-  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[Z]. 2014.</div>
+  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. 2014.</div>
   <div class="csl-entry">[185]	Mental Health on Campus Improvement Act[A]. 2013.</div>
   <div class="csl-entry">[186]	S. Res. 438[A]. Cong. Rec.: Vol. 162[M]. 2016: 2394.</div>
   <div class="csl-entry">[187]	H.R. Rep. No. 114-358[R]. 2015.</div>
@@ -546,5 +546,5 @@
   <div class="csl-entry">[195]	U.S. Const. amend. XVIII (repealed 1933)[A].</div>
   <div class="csl-entry">[196]	U.S. Const. amend. I-X[A].</div>
   <div class="csl-entry">[197]	U.N. Charter art. 1, para. 3[A].</div>
-  <div class="csl-entry">[198]	United nations convention on the rights of the child[Z]. 1989.</div>
+  <div class="csl-entry">[198]	United nations convention on the rights of the child[A]. 1989.</div>
 </div>

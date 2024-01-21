@@ -323,7 +323,7 @@ Undefined
 
     <div class="csl-block">国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995. 北京: 中国标准出版社, 1996: 2-3. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009. (2009).</div>
+  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009. 2009.</div>
   <div class="csl-entry">[104]	卷 39 乞致仕第一//苏魏公文集: 下册. 北京: 中华书局, 1988: 590. 
 
     <div class="csl-block">卷 39 乞致仕第一//下册. 北京: 中华书局, 1988: 590. (in Chinese)</div>
@@ -638,13 +638,13 @@ Undefined
 
     <div class="csl-block">任东来. 对国际体制和国际制度的理解和翻译. 天津, 2000: 9. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[40]	傅良佐致国务院电. 1917. 
+  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961. 1917. 
 
-    <div class="csl-block">傅良佐致国务院电. 1917. (in Chinese)</div>
+    <div class="csl-block">傅良佐致国务院电: 北洋档案 1011—5961. 1917. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[41]	党外人士座谈会记录. 1950. 
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案. 1950. 
 
-    <div class="csl-block">党外人士座谈会记录. 1950. (in Chinese)</div>
+    <div class="csl-block">党外人士座谈会记录: 李劼人档案. 1950. (in Chinese)</div>
 </div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展. (1998-08-16). 
 
@@ -658,7 +658,7 @@ Undefined
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo. MARSDEN W, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain H B. On the search for civil society in China. Modern China, 1993, 19(2): 199-215.</div>
   <div class="csl-entry">[47]	Schfield R S. The impact of scarcity and plenty on population change in England//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger. 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -1028,17 +1028,17 @@ Undefined
   <div class="csl-entry">[66]	Merriam-Webster. Self-report//Merriam-Webster.com dictionary.</div>
   <div class="csl-entry">[67]	Graham G. Behaviorism//ZALTA E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">[68]	List of oldest companies//Wikipedia. (2019-01-13).</div>
-  <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations. (2012).</div>
-  <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation. (2013).</div>
+  <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations. 2012.</div>
+  <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation. 2013.</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
   <div class="csl-entry">[72]	Fried D, Polyakova A. Democratic defense against disinformation. Atlantic Council, 2018.</div>
   <div class="csl-entry">[73]	Segaert A, Bauer A. The extent and nature of veteran homelessness in Canada. Employment and Social Development Canada, 2015.</div>
   <div class="csl-entry">[74]	Blackwell D L, Lucas J W, Clarke T C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012. Centers for Disease Control and Prevention, 2014.</div>
   <div class="csl-entry">[75]	British Cardiovascular Society Working Group. British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients. British Cardiovascular Society, 2016.</div>
-  <div class="csl-entry">[76]	U.S. Securities and Exchange Commission. Agency financial report: Fiscal Year 2017. (2017).</div>
-  <div class="csl-entry">[77]	American Counseling Association. 2014 ACA code of ethics. (2014).</div>
-  <div class="csl-entry">[78]	American Nurses Association. Code of ethics for nurses with interpretive statements. (2015).</div>
-  <div class="csl-entry">[79]	American Psychological Association. Ethical principles of psychologists and code of conduct. (2017).</div>
+  <div class="csl-entry">[76]	U.S. Securities and Exchange Commission. Agency financial report: Fiscal Year 2017. 2017.</div>
+  <div class="csl-entry">[77]	American Counseling Association. 2014 ACA code of ethics. 2014.</div>
+  <div class="csl-entry">[78]	American Nurses Association. Code of ethics for nurses with interpretive statements. 2015.</div>
+  <div class="csl-entry">[79]	American Psychological Association. Ethical principles of psychologists and code of conduct. 2017.</div>
   <div class="csl-entry">[80]	Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
   <div class="csl-entry">[81]	Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82]	Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change. National Education Policy Center, 2018.</div>
@@ -1048,7 +1048,7 @@ Undefined
   <div class="csl-entry">[86]	Pearson J. Fat talk and its effects on state-based body image in women. Sydney, NSW, Australia(2018-09-27/30).</div>
   <div class="csl-entry">[87]	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[88]	Harris L. Instructional leadership perceptions and practices of elementary school leaders. University of Virginia, 2014.</div>
-  <div class="csl-entry">[89]	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">[89]	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90]	Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents. The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">[91]	Mirabito L A, Heck N C. Bringing LGBTQ youth theater into the spotlight. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
   <div class="csl-entry">[92]	Brodsky E. The year we thought about love. 2016.</div>
@@ -1062,22 +1062,22 @@ Undefined
   <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, Pleskac T J. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 2018.</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 2015.</div>
   <div class="csl-entry">[102]	Ho H K. Teacher preparation for early childhood special education in Taiwan. ERIC, 2014.</div>
-  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children. ICPSR, 2018.</div>
-  <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009. National Archive of Data on Arts and Culture, 2016.</div>
-  <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26. (2018).</div>
+  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080. ICPSR, 2018.</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531. National Archive of Data on Arts and Culture, 2016.</div>
+  <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26. 2018.</div>
   <div class="csl-entry">[106]	Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills. University of Kentucky, 2015.</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism outcomes. 2011.</div>
   <div class="csl-entry">[108]	Borenstein M, Hedges L, Higgins J, Rothstein H. Comprehensive meta-analysis. Biostat, 2014. 
 
     <div class="csl-block">Borenstein M, Hedges L, Higgins J, Rothstein H. Comprehensive meta-analysis. Biostat, 2014. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[109]	SR Research. Eyelink 1000 plus. (2016). 
+  <div class="csl-entry">[109]	SR Research. Eyelink 1000 plus. 2016. 
 
-    <div class="csl-block">SR Research. Eyelink 1000 plus. (2016). (in Chinese)</div>
+    <div class="csl-block">SR Research. Eyelink 1000 plus. 2016. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[110]	Tactile Labs. Latero tactile display. (2015). 
+  <div class="csl-entry">[110]	Tactile Labs. Latero tactile display. 2015. 
 
-    <div class="csl-block">Tactile Labs. Latero tactile display. (2015). (in Chinese)</div>
+    <div class="csl-block">Tactile Labs. Latero tactile display. 2015. (in Chinese)</div>
 </div>
   <div class="csl-entry">[111]	Epocrates. Epocrates medical references. App Store, 2019. 
 
@@ -1087,14 +1087,14 @@ Undefined
   <div class="csl-entry">[113]	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT.</div>
   <div class="csl-entry">[115]	Alonso-Tapia J, Nieto C, Merino-Tejedor E, Huertas J A, Ruiz M. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018.</div>
-  <div class="csl-entry">[116]	Cardoza D, Morris J K, Myers H F, Rodriguez N. Acculturative Stress Inventory (ASI). ETS TestLink, 2000.</div>
+  <div class="csl-entry">[116]	Cardoza D, Morris J K, Myers H F, Rodriguez N. Acculturative Stress Inventory (ASI): TC022704. ETS TestLink, 2000.</div>
   <div class="csl-entry">[117]	Forman M. One flew over the cuckoo’s nest. United Artists, 1975.</div>
   <div class="csl-entry">[118]	Accelerated experiental dynamic psychotherapy (AEDP) supervision. American Pychological Association, 2017.</div>
   <div class="csl-entry">[119]	Jackson P. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">[120]	Malle L. Goodbye children. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">[121]	The wire. Blown Deadline Productions; HBO, 2002/2008.</div>
-  <div class="csl-entry">[122]	Barris K. Lemons//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
-  <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One)//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
+  <div class="csl-entry">[122]	Barris K. Lemons: Season 3, Episode 12//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
+  <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   <div class="csl-entry">[124]	Giertz S. Why you should make useless things. TED Conferences, 2018.</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to shame. YouTube, 2012.</div>
   <div class="csl-entry">[126]	Goldberg J F. Evaluating adverse drug effects. American Psychiatric Association, 2018.</div>
@@ -1108,20 +1108,20 @@ Undefined
   <div class="csl-entry">[134]	Childish Gambino. This is America. mcDJ; RCA, 2018.</div>
   <div class="csl-entry">[135]	Lamar K. Humble//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden brain. NPR, 2015.</div>
-  <div class="csl-entry">[137]	Glass I. Amusement park//This American Life. WBEZ Chicago, 2011.</div>
+  <div class="csl-entry">[137]	Glass I. Amusement park: 443//This American Life. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing. (1960-05-04).</div>
   <div class="csl-entry">[139]	King M L Jr. I have a dream. American Rhetoric, 1963.</div>
   <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite. 1826/1827.</div>
-  <div class="csl-entry">[141]	Wood G. American gothic. (1930).</div>
-  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic. (2018).</div>
-  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk. (2015).</div>
+  <div class="csl-entry">[141]	Wood G. American gothic. 1930.</div>
+  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic. 2018.</div>
+  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk. 2015.</div>
   <div class="csl-entry">[144]	Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">[145]	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru.</div>
-  <div class="csl-entry">[146]	McCurry S. Afghan girl. (1985).</div>
-  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. (2016).</div>
+  <div class="csl-entry">[146]	McCurry S. Afghan girl. 1985.</div>
+  <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. 2016.</div>
   <div class="csl-entry">[148]	Canan E, Vasilev J. Lecture notes on resource allocation. Department of Management Control and Information Systems, University of Chile(2019-05-22).</div>
-  <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom. SlideShare(2016).</div>
-  <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations. Canvas@FNU(2018).</div>
+  <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom. SlideShare2016.</div>
+  <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations. Canvas@FNU2018.</div>
   <div class="csl-entry">[151]	APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]//Twitter. (2018-06-29).</div>
   <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity//Twitter. (2018-02-26).</div>
   <div class="csl-entry">[153]	White B. I treasure every minute we spent together #koko [image attached]//Twitter. (2018-06-21).</div>
@@ -1136,30 +1136,30 @@ Undefined
   <div class="csl-entry">[162]	Avramova N. The secret to a long, happy, health life? Think age-positive//CNN. (2019-01-03).</div>
   <div class="csl-entry">[163]	Bologna C. What happens to your mind and body when you feel homesick?//HuffPost. (2018-06-27).</div>
   <div class="csl-entry">[164]	Centers for Disease Control and Prevention. People at high risk of developing flu-related complications. (2018-01-23).</div>
-  <div class="csl-entry">[165]	World Health Organization. Questions and answers on immunization and vaccine safety. (2018-03).</div>
+  <div class="csl-entry">[165]	World Health Organization. Questions and answers on immunization and vaccine safety. 2018.</div>
   <div class="csl-entry">[166]	Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency//Mayo Clinic. (2016-12-29).</div>
   <div class="csl-entry">[167]	Boddy J, Neumann T, Jennings S, Morrow V, Alderson P, Rees R, Gibson W. Ethics principles//The research ethics guidebook: A resource for social scientists.</div>
   <div class="csl-entry">[168]	National Nurses United. What employers should do to protect nurses from Zika.</div>
   <div class="csl-entry">[169]	U.S. Census Bureau. U.S. and world population clock//U.S. Department of Commerce.</div>
   <div class="csl-entry">[170]	Brown v. Board of Education//U.S.: Vol. 347. 1954: 483.</div>
-  <div class="csl-entry">[171]	Obergefell v. Hodges//U.S.: Vol. 576. (2015).</div>
+  <div class="csl-entry">[171]	Obergefell v. Hodges//U.S.: Vol. 576. 2015.</div>
   <div class="csl-entry">[172]	Daubert v. Merrell Dow Pharmaceuticals, Inc.//F.2d: Vol. 951. 1991: 1128.</div>
   <div class="csl-entry">[173]	Burriola v. Greater Toledo YMCA//F.Supp.2d: Vol. 133. 2001: 1034.</div>
   <div class="csl-entry">[174]	Durflinger v. Artiles//F.Supp.: Vol. 563. 1984: 332.</div>
   <div class="csl-entry">[175]	Tarasoff v. Regents of the University of California//Cal.3d: Vol. 17. 1976: 425.</div>
   <div class="csl-entry">[176]	Texas v. Morales//S.W.2d: Vol. 826. 1992: 201.</div>
-  <div class="csl-entry">[177]	American With Disabilities Act of 1990//U.S.C: Vol. 42. (1990).</div>
+  <div class="csl-entry">[177]	American With Disabilities Act of 1990//U.S.C: Vol. 42. 1990.</div>
   <div class="csl-entry">[178]	Civil Rights Act of 1964: 88-352//Stat.: Vol. 78. 1964: 241.</div>
-  <div class="csl-entry">[179]	Every Student Succeeds Act//U.S.C: Vol. 20. (2015).</div>
+  <div class="csl-entry">[179]	Every Student Succeeds Act//U.S.C: Vol. 20. 2015.</div>
   <div class="csl-entry">[180]	Lilly Leadbetter Fair Play Act of 2009: 111-2//Stat.: Vol. 123. 2009: 5.</div>
-  <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act//U.S.C: Vol. 20. (1972).</div>
-  <div class="csl-entry">[182]	Florida Mental Health Act//Fla. Stat. (2009).</div>
-  <div class="csl-entry">[183]	Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs. (2016).</div>
-  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions. (2014).</div>
-  <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100. (2013).</div>
+  <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act//U.S.C: Vol. 20. 1972.</div>
+  <div class="csl-entry">[182]	Florida Mental Health Act//Fla. Stat. 2009.</div>
+  <div class="csl-entry">[183]	Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs. 2016.</div>
+  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions. 2014.</div>
+  <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100. 2013.</div>
   <div class="csl-entry">[186]	S. Res. 438//Cong. Rec.: Vol. 162. 2016: 2394.</div>
-  <div class="csl-entry">[187]	H.R. Rep. No. 114-358. (2015).</div>
-  <div class="csl-entry">[188]	Protection of human subjects//C.F.R.: Vol. 45. (2009).</div>
+  <div class="csl-entry">[187]	H.R. Rep. No. 114-358. 2015.</div>
+  <div class="csl-entry">[188]	Protection of human subjects//C.F.R.: Vol. 45. 2009.</div>
   <div class="csl-entry">[189]	Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees//F.R.: Vol. 81. 2016: 32391.</div>
   <div class="csl-entry">[190]	Exec. Order No. 13,676//C.F.R.: Vol. 3. 2014: 294.</div>
   <div class="csl-entry">[191]	Hiremath S C, Kumar S, Lu F, Salehi A. Using metaphors to present concepts across different intellectual domains: 9,367,592. 2016.</div>

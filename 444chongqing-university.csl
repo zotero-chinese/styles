@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>重庆大学博士、硕士学位论文撰写格式标准及要求（2019年修订）</summary>
-    <updated>2023-12-13T19:13:03+08:00</updated>
+    <updated>2024-01-21T16:25:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -70,19 +70,26 @@
         <text variable="title" text-case="title"/>
         <group delimiter="&#8195;">
           <choose>
-            <if variable="container-title" type="chapter paper-conference" match="none">
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <text macro="volume"/>
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation regulation report" match="any">
+            <if type="article article-journal patent standard" match="none">
+              <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
+            </if>
+          </choose>
+          <choose>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
         </group>
       </group>
       <choose>
-        <if variable="container-title" type="chapter paper-conference" match="none">
+        <if variable="container-title" type="paper-conference" match="none">
           <choose>
             <if variable="event-date">
               <text variable="event-place"/>
@@ -118,8 +125,10 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article">
-        <!-- article 为预印本，符合国标的“档案”（A）类型：“分类保存以备查考的文件和材料，如……科技档案” -->
+      <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
+          article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -128,11 +137,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill collection legal_case legislation regulation treaty" match="any">
-        <!-- 国标的“档案”（A）类型包括法律法规、政府文件等 -->
-        <text value="A"/>
-      </else-if>
-      <else-if type="book chapter" match="any">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -307,8 +312,17 @@
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
-              <text variable="publisher-place"/>
-              <text variable="publisher"/>
+              <choose>
+                <if variable="publisher publisher-place" match="any">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </if>
+                <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
+                  <text variable="archive-place"/>
+                  <text variable="archive"/>
+                </else>
+              </choose>
             </group>
             <text macro="issued-year"/>
           </group>
@@ -389,7 +403,7 @@
           <text macro="title"/>
           <text macro="access"/>
         </else-if>
-        <else-if type="chapter paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="author-bib"/>
           <group delimiter="//">

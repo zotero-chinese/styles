@@ -244,11 +244,11 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
   <div class="csl-entry">姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
   <div class="csl-entry">佚名. 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).</div>
-  <div class="csl-entry">佚名. 傅良佐致国务院电[M].</div>
+  <div class="csl-entry">佚名. 傅良佐致国务院电[M]. 中国第二历史档案馆, 1917.</div>
   <div class="csl-entry">佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
-  <div class="csl-entry">佚名. 党外人士座谈会记录[M].</div>
-  <div class="csl-entry">Anon. Nixon to Kissinger[M].</div>
+  <div class="csl-entry">佚名. 党外人士座谈会记录[M]. 中共四川省委统战部档案室, 1950.</div>
+  <div class="csl-entry">Anon. Nixon to Kissinger[M]. National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">佚名. 旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局, 1975.</div>
   <div class="csl-entry">佚名. 方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>
   <div class="csl-entry">佚名. 太平御览: 卷 690 服章部七[M]. 影印本. 北京: 中华书局, 1985.</div>
@@ -386,7 +386,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Anon. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB]//F.R.: Vol. 81. 2016c: 32391.</div>
   <div class="csl-entry">Anon. King James Bible[M]. King James Bible Online, 2017a.</div>
   <div class="csl-entry">Anon. Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB]. American Pychological Association, 2017b.</div>
-  <div class="csl-entry">Anon. List of oldest companies[EB]//Wikipedia. 2019.</div>
+  <div class="csl-entry">Anon. List of oldest companies[M]//Wikipedia. 2019.</div>
   <div class="csl-entry">Anon. U.S. Const. art. I, § 3[M].</div>
   <div class="csl-entry">Anon. S.C. Const. art. XI, § 3[M].</div>
   <div class="csl-entry">Anon. U.S. Const. amend. XIX[M].</div>
@@ -401,7 +401,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">American Psychiatric Association. Diagnostic and statistical manual of mental disorders[R]. 5th ed. American Psychiatric Association, 2013.</div>
   <div class="csl-entry">American Psychological Association. Ethical principles of psychologists and code of conduct[R]. 2017.</div>
   <div class="csl-entry">American Psychological Association. APA dictionary of psychology[M]. [2019a].</div>
-  <div class="csl-entry">American Psychological Association. Positive transference[EB]//APA dictionary of psychology. [2019b].</div>
+  <div class="csl-entry">American Psychological Association. Positive transference[M]//APA dictionary of psychology. [2019b].</div>
   <div class="csl-entry">Anderson M. Getting consistent with consequences[J]. Educational Leadership, 2018, 76(1): 26-33.</div>
   <div class="csl-entry">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB/OL]. (2018-06-29). <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">APA Style [@APA_Style]. Tweets[EB/OL]. [2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
@@ -432,7 +432,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Cable D. The racial dot map[EB]. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">Cain S. Quiet: The power of introverts in a world that can’t stop talking[M]. Random House Audio, 2012.</div>
   <div class="csl-entry">Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
-  <div class="csl-entry">Canan E, Vasilev J. Lecture notes on resource allocation[EB]. 2019.</div>
+  <div class="csl-entry">Canan E, Vasilev J. Lecture notes on resource allocation[EB]. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
   <div class="csl-entry">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 2000.</div>
   <div class="csl-entry">Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB/OL]. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
@@ -441,21 +441,21 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Christian B, Griffiths T. Algorithms to live by: The computer science of human decisions[M]. Henry Holt and Co., 2016.</div>
   <div class="csl-entry">Cuellar N G. Study abroad programs[J]. Journal of Transcultural Nursing, 2016, 27(3): 209.</div>
   <div class="csl-entry">Cutts S. Happiness[EB]. Vimeo, 2017.</div>
-  <div class="csl-entry">de Beauvoir S. Simone de Beauvoir discusses the art of writing[EB]. 1960.</div>
-  <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[M]//Perspectives on resilience: Conceptualization, measurement, and enhancement.</div>
+  <div class="csl-entry">de Beauvoir S. Simone de Beauvoir discusses the art of writing[EB]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
+  <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[M]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.</div>
-  <div class="csl-entry">Delacroix E. Faust attempts to seduce Marguerite[M].</div>
+  <div class="csl-entry">Delacroix E. Faust attempts to seduce Marguerite[M]. Paris, France: The Louvre, 1826/1827.</div>
   <div class="csl-entry">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS]. ICPSR, 2018.</div>
   <div class="csl-entry">Epocrates. Epocrates medical references[CP/OL]. App Store, 2019a. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">Epocrates. Interaction Check: Aspirin + Sertraline[EB]//Epocrates medical references. Google Play Store, 2019b.</div>
   <div class="csl-entry">Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology: Vol. 1[M]. 5th ed. John Wiley &#38; Sons, 2010.</div>
-  <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB]. 2017.</div>
+  <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB]. Milwaukee, WI, United States, 2017.</div>
   <div class="csl-entry">Fogarty M. How to diagram a sentence (absolute basics)[EB]. YouTube, 2016.</div>
   <div class="csl-entry">Forman M. One flew over the cuckoo’s nest[M]. United Artists, 1975.</div>
   <div class="csl-entry">Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, tran. Basic Books, 2010.</div>
   <div class="csl-entry">Fried D, Polyakova A. Democratic defense against disinformation[R]. Atlantic Council, 2018.</div>
   <div class="csl-entry">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][EB/OL]. (2018-03-22). <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.</div>
-  <div class="csl-entry">GDJ. Neural network deep learning prismatic[EB]. 2018.</div>
+  <div class="csl-entry">GDJ. Neural network deep learning prismatic[EB]. Openclipart, 2018.</div>
   <div class="csl-entry">Giertz S. Why you should make useless things[EB]. TED Conferences, 2018.</div>
   <div class="csl-entry">Glass I. Amusement park[EB]//This American Life. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">Gold M. The complete social scientist: A Kurt Lewin reader[M]. American Psychological Association, 1999.</div>
@@ -463,7 +463,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Goldin-Meadow S. Gesture and cognitive development[M]//Liben L S, Mueller U. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
   <div class="csl-entry">Goldman C. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018-11-28.</div>
   <div class="csl-entry">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[EB]. [2020].</div>
-  <div class="csl-entry">Graham G. Behaviorism[EB]//Zalta E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
+  <div class="csl-entry">Graham G. Behaviorism[M]//Zalta E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">Guarino B. How will humanity react to alien life? Psychologists have some predictions[N]. The Washington Post, 2017-12-04.</div>
   <div class="csl-entry">Hacker Hughes J. Military veteran psychological health and social care: Contemporary approaches[M]. Routledge, 2017.</div>
   <div class="csl-entry">Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>
@@ -473,7 +473,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Hiremath S C, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains: U.S., 9,367,592[P]. 2016. <a href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592">http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592</a>.</div>
   <div class="csl-entry">Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.</div>
   <div class="csl-entry">Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison, 2017.</div>
-  <div class="csl-entry">Housand B. Game on! Integrating games and simulations in the classroom[EB]. 2016.</div>
+  <div class="csl-entry">Housand B. Game on! Integrating games and simulations in the classroom[EB]. SlideShare, 2016.</div>
   <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.</div>
   <div class="csl-entry">Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">Jackson P. The lord of the rings: The fellowship of the ring[M]. WingNut Films; The Saul Zaentz Company, 2001.</div>
@@ -486,20 +486,20 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Lewin K. Group decision and social change[M]//Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
   <div class="csl-entry">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">Lilienfeld S O. Archives of scientific psychology: Heterodox issues in psychology[J]. 2018, 6(1). 2018: 51-104.</div>
-  <div class="csl-entry">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[M].</div>
+  <div class="csl-entry">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[M]. Department of Psychology, University of Washington, 2019.</div>
   <div class="csl-entry">Lynch J. Who shot Mr. Burns? (Part One)[M]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
-  <div class="csl-entry">Mack R, Spake G. Citing open source images and formatting references for presentations[EB]. 2018.</div>
-  <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[M].</div>
+  <div class="csl-entry">Mack R, Spake G. Citing open source images and formatting references for presentations[EB]. Canvas@FNU, 2018.</div>
+  <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[M]. New Orleans, LA, United States, 2016.</div>
   <div class="csl-entry">Madigan S. Narrative therapy[M]. 2nd ed. American Psychological Association, 2019.</div>
   <div class="csl-entry">Malle L. Goodbye children[M]. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency[EB/OL]. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
   <div class="csl-entry">McCauley S M, Christiansen M H. Language learning as language use: A cross-linguistic model of child language development[J]. Psychological Review, 2019, 126(1): 1-51.</div>
-  <div class="csl-entry">McCurry S. Afghan girl[EB]. 1985.</div>
+  <div class="csl-entry">McCurry S. Afghan girl[EB]. National Geographic, 1985.</div>
   <div class="csl-entry">McDaniel S H, Salas E, Kazak A E. American psychologist: The science of teamwork[J]. 2018, 73(4). 2018.</div>
   <div class="csl-entry">Meadows D H. Thinking in systems: A primer[M]. Chelsea Green Publishing, 2008.</div>
   <div class="csl-entry">Mehrholz J, Pohl M, Platz T, et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke[J]. Cochrane Database of Systematic Reviews, 2018.</div>
   <div class="csl-entry">Merriam-Webster. Merriam-Webster.com dictionary[M]. [2019a].</div>
-  <div class="csl-entry">Merriam-Webster. Self-report[EB]//Merriam-Webster.com dictionary. [2019b].</div>
+  <div class="csl-entry">Merriam-Webster. Self-report[M]//Merriam-Webster.com dictionary. [2019b].</div>
   <div class="csl-entry">Mirabito L A, Heck N C. Bringing LGBTQ youth theater into the spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
   <div class="csl-entry">Morey M C. Physical activity and exercise in older adults[J]. UpToDate, 2019.</div>
   <div class="csl-entry">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![EB/OL]. (2018-09-12). <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>.</div>
@@ -509,19 +509,19 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">National Nurses United. What employers should do to protect nurses from Zika[EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
   <div class="csl-entry">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[EB/OL]. (2018-06-26). <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>.</div>
   <div class="csl-entry">Oregan Youth Authority. Recidivism outcomes[DS].</div>
-  <div class="csl-entry">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[M].</div>
+  <div class="csl-entry">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[M]. Department of Management, University of Kansas, 2018.</div>
   <div class="csl-entry">Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review.</div>
-  <div class="csl-entry">Pearson J. Fat talk and its effects on state-based body image in women[EB]. 2018.</div>
+  <div class="csl-entry">Pearson J. Fat talk and its effects on state-based body image in women[EB]. Sydney, NSW, Australia, 2018.</div>
   <div class="csl-entry">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL]. (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
-  <div class="csl-entry">Pew Research Center. American trends panel Wave 26[DS/OL]. (2018). <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
+  <div class="csl-entry">Pew Research Center. American trends panel Wave 26[DS/OL]. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">Piaget J. Intellectual evolution from adolescence to adulthood[J]. Human Development, 1972, 15(1): 1-12.</div>
   <div class="csl-entry">Piaget J, Inhelder B. The psychology of the child[M]. Quadrige, 1966.</div>
   <div class="csl-entry">Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, tran. 2nd ed. Basic Books, 1969.</div>
   <div class="csl-entry">Pridham K F, Limbo R, Schroeder M. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents[M]. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">Project Implicit. Gender-Science IAT[EB].</div>
   <div class="csl-entry">Richardson F. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973: 113-123.</div>
-  <div class="csl-entry">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[EB]. 2016.</div>
-  <div class="csl-entry">Rossman J, Palmer R. Sorting through our space junk[EB]. 2015.</div>
+  <div class="csl-entry">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[EB]. The Pulitzer Prizes, 2016.</div>
+  <div class="csl-entry">Rossman J, Palmer R. Sorting through our space junk[EB]. World Science Festival, 2015.</div>
   <div class="csl-entry">Rowling J K. Harry Potter and the sorceror’s stone[M]. Pottermore Publishing, 2015.</div>
   <div class="csl-entry">Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
   <div class="csl-entry">Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//Balota D A, Marsh E J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
@@ -532,9 +532,9 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Shakespeare W. Much ado about nothing[M]. Washington Square Press, 1995.</div>
   <div class="csl-entry">Shore M F. Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry, 2014, 84(6): 611-618.</div>
   <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute. Home[EB/OL]. [2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
-  <div class="csl-entry">SR Research. Eyelink 1000 plus[CP/OL]. (2016). <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
+  <div class="csl-entry">SR Research. Eyelink 1000 plus[CP/OL]. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
   <div class="csl-entry">Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015.</div>
-  <div class="csl-entry">Tactile Labs. Latero tactile display[CP/OL]. (2015). <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
+  <div class="csl-entry">Tactile Labs. Latero tactile display[CP/OL]. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]//McGoldrick M, Giordano J, Garcia-Preto N. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
   <div class="csl-entry">TED. Brené Brown: Listening to shame[EB]. YouTube, 2012.</div>
   <div class="csl-entry">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
@@ -549,10 +549,10 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Weinstock R, Leong G B, Silva J A. Defining forensic psychiatry: Roles and responsibilities[M]//Rosner R. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.</div>
   <div class="csl-entry">Weir K. Forgiveness can improve mental and physical health[J]. Monitor on Psychology, 2017, 48(1): 30.</div>
   <div class="csl-entry">White B. I treasure every minute we spent together #koko [image attached][EB/OL]. (2018-06-21). <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.</div>
-  <div class="csl-entry">Wood G. American gothic[EB]. 1930.</div>
-  <div class="csl-entry">World Health Organization. Questions and answers on immunization and vaccine safety[EB/OL]. (2018-03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
+  <div class="csl-entry">Wood G. American gothic[EB]. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
+  <div class="csl-entry">World Health Organization. Questions and answers on immunization and vaccine safety[EB/OL]. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
   <div class="csl-entry">World Health Organization. International statistical classification of diseases and related health problems[R]. 11th ed. World Health Organization, 2019.</div>
-  <div class="csl-entry">Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective[M].</div>
+  <div class="csl-entry">Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective[M]. Department of Psychology, University of Wisconsin-Madison, 2016.</div>
   <div class="csl-entry">Yousafzai M. We are displaced: My journey and stories from refugee girls around the world[M]. 2016.</div>
   <div class="csl-entry">Zalta E N. The Stanford encyclopedia of philosophy[M]. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB/OL]. (2018-11-26). <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.</div>

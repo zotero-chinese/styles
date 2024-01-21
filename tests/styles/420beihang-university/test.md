@@ -236,15 +236,15 @@ Undefined
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[A]. 全球化与亚太区域化国际研讨会, 2000年6月, 天津[C]. 天津: 9</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[A]. 全球化与亚太区域化国际研讨会论文集[C]. 天津, 2000: 9</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[M]. 1917</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[M]. 1950</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961[M]. 中国第二历史档案馆, 1917</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[M]. 中共四川省委统战部档案室, 1950</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16/1998-10-04</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>, 2007-09-13</div>
   <div class="csl-entry">[44]	Brooks P. Troubling Confessions: Speaking Guilt in Law and Literature[M]. Chicago: University of Chicago Press, 2000</div>
   <div class="csl-entry">[45]	Polo M. The Travels of Marco Polo[M]. Marsden W., tran. Hertfordshire: Cumberland House, 1997</div>
   <div class="csl-entry">[46]	Chamberlain H. B. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2): 199-215</div>
   <div class="csl-entry">[47]	Schfield R. S. The Impact of Scarcity and Plenty on Population Change in England[M]. Rotberg R. I., Rabb T. K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger[M]. 1969</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[M]. National Archives II, College Park, MD, 1969</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -403,10 +403,10 @@ Undefined
   <div class="csl-entry">[62]	Richardson F. Brain and Intelligence: The Ecology of Child Development[M]. National Educational Press, 1973: 113-123</div>
   <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and Cognitive Development[M]. Liben L. S., Mueller U. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380</div>
   <div class="csl-entry">[64]	Lewin K. Group Decision and Social Change[M]. Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive Transference[EB]. APA dictionary of psychology. [2019]</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-Report[EB]. Merriam-Webster.com dictionary. [2019]</div>
-  <div class="csl-entry">[67]	Graham G. Behaviorism[EB]. Zalta E. N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019</div>
-  <div class="csl-entry">[68]	List of Oldest Companies[EB]. Wikipedia. 2019</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive Transference[M]. APA dictionary of psychology. [2019]</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-Report[M]. Merriam-Webster.com dictionary. [2019]</div>
+  <div class="csl-entry">[67]	Graham G. Behaviorism[M]. Zalta E. N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019</div>
+  <div class="csl-entry">[68]	List of Oldest Companies[M]. Wikipedia. 2019</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening Trans-Tasman Economic Relations[R]. 2012</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What We Heard: Summary of Key Findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing Forward: Life after Cancer Treatment: 18-2424[R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018</div>
@@ -422,12 +422,12 @@ Undefined
   <div class="csl-entry">[81]	Lichtenstein J. Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013</div>
   <div class="csl-entry">[82]	Harwell M. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change[R]. National Education Policy Center, 2018</div>
   <div class="csl-entry">[83]	U.S. Food and Drug Administration. FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices[R]. U.S. Food and Drug Administration, 2019</div>
-  <div class="csl-entry">[84]	Fistek A., Jester E., Sonnenberg K. Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate[EB]. 2017</div>
-  <div class="csl-entry">[85]	Maddox S., Hurling J., Stewart E., et al. If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children[M]. 2016</div>
-  <div class="csl-entry">[86]	Pearson J. Fat Talk and Its Effects on State-Based Body Image in Women[EB]. 2018</div>
-  <div class="csl-entry">[87]	De Boer D., LaFavor T. The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach[M]. Perspectives on resilience: Conceptualization, measurement, and enhancement. 2018</div>
+  <div class="csl-entry">[84]	Fistek A., Jester E., Sonnenberg K. Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate[EB]. Milwaukee, WI, United States, 2017</div>
+  <div class="csl-entry">[85]	Maddox S., Hurling J., Stewart E., et al. If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children[M]. New Orleans, LA, United States, 2016</div>
+  <div class="csl-entry">[86]	Pearson J. Fat Talk and Its Effects on State-Based Body Image in Women[EB]. Sydney, NSW, Australia, 2018</div>
+  <div class="csl-entry">[87]	De Boer D., LaFavor T. The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach[M]. Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018</div>
   <div class="csl-entry">[88]	Harris L. Instructional Leadership Perceptions and Practices of Elementary School Leaders[D]. University of Virginia, 2014</div>
-  <div class="csl-entry">[89]	Hollander M. M. Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment[D]. University of Wisconsin–Madison, 2017</div>
+  <div class="csl-entry">[89]	Hollander M. M. Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment: 10289373[D]. University of Wisconsin–Madison, 2017</div>
   <div class="csl-entry">[90]	Hutcheson V. H. Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents[D]. The College of William &#38; Mary, 2012</div>
   <div class="csl-entry">[91]	Mirabito L. A., Heck N. C. Bringing LGBTQ Youth Theater into the Spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500</div>
   <div class="csl-entry">[92]	Brodsky E. The Year We Thought about Love[M]. 2016</div>
@@ -435,14 +435,14 @@ Undefined
   <div class="csl-entry">[94]	Yousafzai M. We Are Displaced: My Journey and Stories from Refugee Girls around the World[M]. 2016</div>
   <div class="csl-entry">[95]	Perkins D. <i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile[EB/OL]. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>, 2018-02-01</div>
   <div class="csl-entry">[96]	Schur M. Somewhere Else[M]. 2018</div>
-  <div class="csl-entry">[97]	Yoo J., Miyamoto Y., Rigotti A., et al. Linking Positive Affect to Blood Lipids: A Cultural Perspective[M]. 2016</div>
-  <div class="csl-entry">[98]	O’Shea M. Understanding Proactive Behavior in the Workplace as a Function of Gender[M]. 2018</div>
-  <div class="csl-entry">[99]	Lippincott T., Poindexter E. K. Emotion Recognition as a Function of Facial Cues: Implications for Practice[M]. 2019</div>
+  <div class="csl-entry">[97]	Yoo J., Miyamoto Y., Rigotti A., et al. Linking Positive Affect to Blood Lipids: A Cultural Perspective[M]. Department of Psychology, University of Wisconsin-Madison, 2016</div>
+  <div class="csl-entry">[98]	O’Shea M. Understanding Proactive Behavior in the Workplace as a Function of Gender[M]. Department of Management, University of Kansas, 2018</div>
+  <div class="csl-entry">[99]	Lippincott T., Poindexter E. K. Emotion Recognition as a Function of Facial Cues: Implications for Practice[M]. Department of Psychology, University of Washington, 2019</div>
   <div class="csl-entry">[100]	Leuker C., Samartzidis L., Hertwig R., et al. When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials[M]. PsyArXiv, 2018</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen M. A., Sinha R. The Effects of Stress on Physical Activity and Exercise[EB]. PubMed Central, 2015</div>
   <div class="csl-entry">[102]	Ho H.-K. Teacher Preparation for Early Childhood Special Education in Taiwan[EB]. ERIC, 2014</div>
-  <div class="csl-entry">[103]	D’Souza A., Wiseheart M. Cognitive Effects of Music and Dance Training in Children[DS]. 2018</div>
-  <div class="csl-entry">[104]	National Center for Education Statistics. Fast Response Survey System (FRSS): Teacher’s Use of Educational Technology in U.S. Public Schools, 2009[DS]. 2016</div>
+  <div class="csl-entry">[103]	D’Souza A., Wiseheart M. Cognitive Effects of Music and Dance Training in Children: ICPSR 37080[DS]. 2018</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. Fast Response Survey System (FRSS): Teacher’s Use of Educational Technology in U.S. Public Schools, 2009: ICPSR 35531[DS]. 2016</div>
   <div class="csl-entry">[105]	Pew Research Center. American Trends Panel Wave 26[DS/OL]. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>, 2018</div>
   <div class="csl-entry">[106]	Baer R. A. Unpublished Raw Data on the Correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. 2015</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism Outcomes[DS]. 2011</div>
@@ -454,14 +454,14 @@ Undefined
   <div class="csl-entry">[113]	Tellegen A., Ben-Porath Y. S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT[EB]</div>
   <div class="csl-entry">[115]	Alonso-Tapia J., Nieto C., Merino-Tejedor E., et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. 2018</div>
-  <div class="csl-entry">[116]	Cardoza D., Morris J. K., Myers H. F., et al. Acculturative Stress Inventory (ASI)[DS]. 2000</div>
+  <div class="csl-entry">[116]	Cardoza D., Morris J. K., Myers H. F., et al. Acculturative Stress Inventory (ASI): TC022704[DS]. 2000</div>
   <div class="csl-entry">[117]	Forman M. One Flew over the Cuckoo’s Nest[M]. United Artists, 1975</div>
   <div class="csl-entry">[118]	Accelerated Experiental Dynamic Psychotherapy (AEDP) Supervision[EB]. American Pychological Association, 2017</div>
   <div class="csl-entry">[119]	Jackson P. The Lord of the Rings: The Fellowship of the Ring[M]. WingNut Films; The Saul Zaentz Company, 2001</div>
   <div class="csl-entry">[120]	Malle L. Goodbye Children[M]. Nouvelles Éditions de Films, 1987</div>
   <div class="csl-entry">[121]	The Wire[M]. Blown Deadline Productions; HBO, 2002/2008</div>
-  <div class="csl-entry">[122]	Barris K. Lemons[M]. Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017</div>
-  <div class="csl-entry">[123]	Lynch J. Who Shot Mr. Burns? (Part One)[M]. The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995</div>
+  <div class="csl-entry">[122]	Barris K. Lemons: Season 3, Episode 12[M]. Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017</div>
+  <div class="csl-entry">[123]	Lynch J. Who Shot Mr. Burns? (Part One): Season 6, Episode 25[M]. The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995</div>
   <div class="csl-entry">[124]	Giertz S. Why You Should Make Useless Things[EB]. TED Conferences, 2018</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to Shame[EB]. YouTube, 2012</div>
   <div class="csl-entry">[126]	Goldberg J. F. Evaluating Adverse Drug Effects[EB]. American Psychiatric Association, 2018</div>
@@ -475,20 +475,20 @@ Undefined
   <div class="csl-entry">[134]	Childish Gambino. This Is America[M]. mcDJ; RCA, 2018</div>
   <div class="csl-entry">[135]	Lamar K. Humble[M]. Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden Brain[EB]. NPR, 2015</div>
-  <div class="csl-entry">[137]	Glass I. Amusement Park[EB]. This American Life. WBEZ Chicago, 2011</div>
-  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir Discusses the Art of Writing[EB]. 1960</div>
+  <div class="csl-entry">[137]	Glass I. Amusement Park: 443[EB]. This American Life. WBEZ Chicago, 2011</div>
+  <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir Discusses the Art of Writing[EB]. Studs Terkel Radio Archive; The Chicago History Museum, 1960</div>
   <div class="csl-entry">[139]	King M. L. Jr. I Have a Dream[EB]. American Rhetoric, 1963</div>
-  <div class="csl-entry">[140]	Delacroix E. Faust Attempts to Seduce Marguerite[M]. 1826/1827</div>
-  <div class="csl-entry">[141]	Wood G. American Gothic[EB]. 1930</div>
-  <div class="csl-entry">[142]	GDJ. Neural Network Deep Learning Prismatic[EB]. 2018</div>
-  <div class="csl-entry">[143]	Rossman J., Palmer R. Sorting through Our Space Junk[EB]. 2015</div>
+  <div class="csl-entry">[140]	Delacroix E. Faust Attempts to Seduce Marguerite[M]. Paris, France: The Louvre, 1826/1827</div>
+  <div class="csl-entry">[141]	Wood G. American Gothic[EB]. Chicago, IL, United States: Art Institute of Chicago, 1930</div>
+  <div class="csl-entry">[142]	GDJ. Neural Network Deep Learning Prismatic[EB]. Openclipart, 2018</div>
+  <div class="csl-entry">[143]	Rossman J., Palmer R. Sorting through Our Space Junk[EB]. World Science Festival, 2015</div>
   <div class="csl-entry">[144]	Cable D. The Racial Dot Map[EB]. University of Virginia: Weldon Cooper Center for Public Service, 2013</div>
   <div class="csl-entry">[145]	Google. Google Maps Directions for Driving from La Paz, Bolivia, to Lima, Peru[EB]. [2020]</div>
-  <div class="csl-entry">[146]	McCurry S. Afghan Girl[EB]. 1985</div>
-  <div class="csl-entry">[147]	Rinaldi J. Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted[EB]. 2016</div>
-  <div class="csl-entry">[148]	Canan E., Vasilev J. Lecture Notes on Resource Allocation[EB]. 2019</div>
-  <div class="csl-entry">[149]	Housand B. Game on! Integrating Games and Simulations in the Classroom[EB]. 2016</div>
-  <div class="csl-entry">[150]	Mack R., Spake G. Citing Open Source Images and Formatting References for Presentations[EB]. 2018</div>
+  <div class="csl-entry">[146]	McCurry S. Afghan Girl[EB]. National Geographic, 1985</div>
+  <div class="csl-entry">[147]	Rinaldi J. Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted[EB]. The Pulitzer Prizes, 2016</div>
+  <div class="csl-entry">[148]	Canan E., Vasilev J. Lecture Notes on Resource Allocation[EB]. Department of Management Control and Information Systems, University of Chile, 2019</div>
+  <div class="csl-entry">[149]	Housand B. Game on! Integrating Games and Simulations in the Classroom[EB]. SlideShare, 2016</div>
+  <div class="csl-entry">[150]	Mack R., Spake G. Citing Open Source Images and Formatting References for Presentations[EB]. Canvas@FNU, 2018</div>
   <div class="csl-entry">[151]	APA Education [@APAEducation]. College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached][EB/OL]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>, 2018-06-29</div>
   <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. Biologists Have Identified More than 400 Different Plant Species Growing in @BadlandsNPS #DYK #biodoversity[EB/OL]. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>, 2018-02-26</div>
   <div class="csl-entry">[153]	White B. I Treasure Every Minute We Spent Together #koko [Image Attached][EB/OL]. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>, 2018-06-21</div>

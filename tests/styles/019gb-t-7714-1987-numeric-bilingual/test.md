@@ -254,15 +254,15 @@
   <div class="csl-entry">37	方明东. 罗隆基政治思想研究（1913—1949）: 〔学位论文〕. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">38	任东来. 对国际体制和国际制度的理解和翻译. 见: 全球化与亚太区域化国际研讨会, 2000, 天津. 天津. 9</div>
   <div class="csl-entry">39	任东来. 对国际体制和国际制度的理解和翻译. 见: 全球化与亚太区域化国际研讨会论文集. 天津, 2000. 9</div>
-  <div class="csl-entry">40	傅良佐致国务院电. 1917.</div>
-  <div class="csl-entry">41	党外人士座谈会记录. 1950.</div>
+  <div class="csl-entry">40	傅良佐致国务院电 北洋档案 1011—5961. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">41	党外人士座谈会记录 李劼人档案. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">42	王明亮. 关于中国学术期刊标准化数据库系统工程的进展. 1998.</div>
   <div class="csl-entry">43	扬之水. 两宋茶诗与茶事. 见: 《文学遗产通讯》（网络版试刊）2006年第1期</div>
   <div class="csl-entry">44	Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">45	Polo M. The travels of Marco Polo. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">46	Chamberlain H B. On the search for civil society in China. Mod China, 1993, 19(2): 199～215</div>
   <div class="csl-entry">47	Schfield R S. The impact of scarcity and plenty on population change in England. In: Rotberg R I, Rabb T K, ed. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983. 55～88</div>
-  <div class="csl-entry">48	Nixon to Kissinger. 1969.</div>
+  <div class="csl-entry">48	Nixon to Kissinger Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -445,7 +445,7 @@
   <div class="csl-entry">86	Pearson J. Fat talk and its effects on state-based body image in women. Sydney, NSW, Australia, 2018.</div>
   <div class="csl-entry">87	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018</div>
   <div class="csl-entry">88	Harris L. Instructional leadership perceptions and practices of elementary school leaders: 〔dissertation〕. University of Virginia, 2014.</div>
-  <div class="csl-entry">89	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 〔dissertation〕. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">89	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment 10289373: 〔dissertation〕. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">90	Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents: 〔dissertation〕. The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">91	Mirabito L A, Heck N C. Bringing LGBTQ youth theater into the spotlight. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499～500</div>
   <div class="csl-entry">92	Brodsky E, dir. The year we thought about love. 2016.</div>
@@ -459,8 +459,8 @@
   <div class="csl-entry">100	Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 2018.</div>
   <div class="csl-entry">101	Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 2015.</div>
   <div class="csl-entry">102	Ho H K. Teacher preparation for early childhood special education in Taiwan. ERIC, 2014.</div>
-  <div class="csl-entry">103	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children. ICPSR, 2018.</div>
-  <div class="csl-entry">104	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009. National Archive of Data on Arts and Culture, 2016.</div>
+  <div class="csl-entry">103	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children ICPSR 37080. ICPSR, 2018.</div>
+  <div class="csl-entry">104	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009 ICPSR 35531. National Archive of Data on Arts and Culture, 2016.</div>
   <div class="csl-entry">105	Pew Research Center. American trends panel Wave 26. 2018.</div>
   <div class="csl-entry">106	Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills. University of Kentucky, 2015.</div>
   <div class="csl-entry">107	Oregan Youth Authority. Recidivism outcomes. 2011.</div>
@@ -472,14 +472,14 @@
   <div class="csl-entry">113	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
   <div class="csl-entry">114	Project Implicit. Gender-Science IAT.</div>
   <div class="csl-entry">115	Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018.</div>
-  <div class="csl-entry">116	Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI). ETS TestLink, 2000.</div>
+  <div class="csl-entry">116	Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI) TC022704. ETS TestLink, 2000.</div>
   <div class="csl-entry">117	Forman M, dir. One flew over the cuckoo’s nest. United Artists, 1975.</div>
   <div class="csl-entry">118	Accelerated experiental dynamic psychotherapy (AEDP) supervision. American Pychological Association, 2017.</div>
   <div class="csl-entry">119	Jackson P, dir. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">120	Malle L, dir. Goodbye children. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">121	The wire. Blown Deadline Productions; HBO, 2002/2008.</div>
-  <div class="csl-entry">122	Barris K, dir. Lemons. In: Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017</div>
-  <div class="csl-entry">123	Lynch J, dir. Who shot Mr. Burns? (Part One). In: The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995</div>
+  <div class="csl-entry">122	Barris K, dir. Lemons Season 3, Episode 12. In: Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017</div>
+  <div class="csl-entry">123	Lynch J, dir. Who shot Mr. Burns? (Part One) Season 6, Episode 25. In: The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995</div>
   <div class="csl-entry">124	Giertz S, dir. Why you should make useless things. TED Conferences, 2018.</div>
   <div class="csl-entry">125	TED, dir. Brené Brown: Listening to shame. YouTube, 2012.</div>
   <div class="csl-entry">126	Goldberg J F, dir. Evaluating adverse drug effects. American Psychiatric Association, 2018.</div>
@@ -493,17 +493,17 @@
   <div class="csl-entry">134	Childish Gambino. This is America. mcDJ; RCA, 2018.</div>
   <div class="csl-entry">135	Lamar K. Humble. In: Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017</div>
   <div class="csl-entry">136	Vedantam S. Hidden brain. NPR, 2015.</div>
-  <div class="csl-entry">137	Glass I. Amusement park. In: This American Life. WBEZ Chicago, 2011</div>
-  <div class="csl-entry">138	de Beauvoir S. Simone de Beauvoir discusses the art of writing. 1960.</div>
+  <div class="csl-entry">137	Glass I. Amusement park 443. In: This American Life. WBEZ Chicago, 2011</div>
+  <div class="csl-entry">138	de Beauvoir S. Simone de Beauvoir discusses the art of writing. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">139	King M L Jr. I have a dream. American Rhetoric, 1963.</div>
-  <div class="csl-entry">140	Delacroix E. Faust attempts to seduce Marguerite. 1826/1827.</div>
-  <div class="csl-entry">141	Wood G. American gothic. 1930.</div>
-  <div class="csl-entry">142	GDJ. Neural network deep learning prismatic. 2018.</div>
-  <div class="csl-entry">143	Rossman J, Palmer R. Sorting through our space junk. 2015.</div>
+  <div class="csl-entry">140	Delacroix E. Faust attempts to seduce Marguerite. Paris, France: The Louvre, 1826/1827.</div>
+  <div class="csl-entry">141	Wood G. American gothic. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
+  <div class="csl-entry">142	GDJ. Neural network deep learning prismatic. Openclipart, 2018.</div>
+  <div class="csl-entry">143	Rossman J, Palmer R. Sorting through our space junk. World Science Festival, 2015.</div>
   <div class="csl-entry">144	Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">145	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru.</div>
-  <div class="csl-entry">146	McCurry S. Afghan girl. 1985.</div>
-  <div class="csl-entry">147	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. 2016.</div>
+  <div class="csl-entry">146	McCurry S. Afghan girl. National Geographic, 1985.</div>
+  <div class="csl-entry">147	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. The Pulitzer Prizes, 2016.</div>
   <div class="csl-entry">148	Canan E, Vasilev J. Lecture notes on resource allocation. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">149	Housand B. Game on! Integrating games and simulations in the classroom. SlideShare, 2016.</div>
   <div class="csl-entry">150	Mack R, Spake G. Citing open source images and formatting references for presentations. Canvas@FNU, 2018.</div>

@@ -19,7 +19,7 @@
     <category field="social_science"/>
     <issn>0577-9154</issn>
     <summary>Economic Research Journal author-date style</summary>
-    <updated>2023-12-21T17:43:15+08:00</updated>
+    <updated>2024-01-21T19:33:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -236,7 +236,11 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
       </else>
     </choose>
     <!-- <text macro="accessed-date"/> -->
@@ -289,7 +293,14 @@
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
-        <text macro="issued-date" prefix="(" suffix=")"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+          <else-if variable="issued">
+            <text macro="issued-year"/>
+          </else-if>
+        </choose>
       </else>
     </choose>
     <!-- <text macro="accessed-date"/> -->

@@ -191,7 +191,7 @@
   <div class="csl-entry">[23]	Ruby, J. &#38; C. Fulton. Beyond redlining: Editing software that works [C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1 [R]. Canberra, Australian Capital Territory: Author, 1991.</div>
   <div class="csl-entry">[25]	Mitchell, T.R. &#38; J.R. Larson. <i>People in organizations: An introduction to organizational behavior</i> [M]. 3rd ed. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[26]	Bergmann, P.G. Relativity [Z]//<i>The new encyclopedia Britannica</i>: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+  <div class="csl-entry">[26]	Bergmann, P.G. Relativity [M]//<i>The new encyclopedia Britannica</i>: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   <div class="csl-entry">[27]	Sadie, S. <i>The new Grove dictionary of music and musicians</i> [M]. 6th ed. London : New York: Macmillan, 1980.</div>
   <div class="csl-entry">[28]	李行健. 现代汉语规范辞典[M]. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	现代汉语频率词典[M]. 北京: 北京语言学院出版社, 1986.</div>
@@ -219,17 +219,17 @@
   <div class="csl-entry">[13]	李鹏程. 当代文化哲学沉思[M]. 北京: 人民出版社, 1994.</div>
   <div class="csl-entry">[14]	楼适夷. 读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998: 2.</div>
   <div class="csl-entry">[15]	黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997: 2.</div>
-  <div class="csl-entry">[16]	姚际恒. 古今伪书考: 卷 3[Z]. 光绪三年苏州文学山房活字本.</div>
-  <div class="csl-entry">[17]	毛祥麟. 墨余录[Z]. 上海: 上海古籍出版社, 1985.</div>
-  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集: 卷 5[Z]. 影印本. 沈阳: 辽沈书社, 1991.</div>
-  <div class="csl-entry">[19]	太平御览: 卷 690 服章部七[Z]. 影印本. 北京: 中华书局, 1985.</div>
-  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[Z]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社, 1997.</div>
-  <div class="csl-entry">[21]	嘉定县志: 卷 12 风俗[Z].</div>
-  <div class="csl-entry">[22]	上海县续志: 卷 1 疆域[Z].</div>
-  <div class="csl-entry">[23]	广东通志[Z]//稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店, 1992.</div>
-  <div class="csl-entry">[24]	旧唐书: 卷 9 玄宗纪下[Z]. 标点本. 北京: 中华书局, 1975.</div>
-  <div class="csl-entry">[25]	方苞集: 卷 6 答程夔州书[Z]. 标点本. 上海: 上海古籍出版社, 1983.</div>
-  <div class="csl-entry">[26]	清德宗实录: 卷 435[Z]. 影印本. 北京: 中华书局, 1987.</div>
+  <div class="csl-entry">[16]	姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
+  <div class="csl-entry">[17]	毛祥麟. 墨余录[M]. 上海: 上海古籍出版社, 1985.</div>
+  <div class="csl-entry">[18]	杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
+  <div class="csl-entry">[19]	太平御览: 卷 690 服章部七[M]. 影印本. 北京: 中华书局, 1985.</div>
+  <div class="csl-entry">[20]	管志道. 答屠仪部赤水丈书[M]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社, 1997.</div>
+  <div class="csl-entry">[21]	嘉定县志: 卷 12 风俗[M].</div>
+  <div class="csl-entry">[22]	上海县续志: 卷 1 疆域[M].</div>
+  <div class="csl-entry">[23]	广东通志[M]//稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店, 1992.</div>
+  <div class="csl-entry">[24]	旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局, 1975.</div>
+  <div class="csl-entry">[25]	方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>
+  <div class="csl-entry">[26]	清德宗实录: 卷 435[M]. 影印本. 北京: 中华书局, 1987.</div>
   <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
   <div class="csl-entry">[28]	汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
@@ -243,15 +243,15 @@
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 2000年6月, 天津. 天津: 9.</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[Z]. 1917.</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[Z]. 1950.</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">[44]	Brooks, P. <i>Troubling confessions: Speaking guilt in law and literature</i> [M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo, M. <i>The travels of Marco Polo</i> [M]. Marsden, W., tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain, H.B. On the search for civil society in China [J]. <i>Modern China</i>, 1993, 19(2): 199-215.</div>
   <div class="csl-entry">[47]	Schfield, R.S. The impact of scarcity and plenty on population change in England [M]//Rotberg, R.I. &#38; T.K. Rabb. <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger [Z]. 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger [A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -410,10 +410,10 @@
   <div class="csl-entry">[62]	Richardson, F. <i>Brain and intelligence: The ecology of child development</i> [M]. National Educational Press, 1973: 113-123.</div>
   <div class="csl-entry">[63]	Goldin-Meadow, S. Gesture and cognitive development [M]//Liben, L.S. &#38; U. Mueller. <i>Handbook of child psychology and developmental science</i>: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
   <div class="csl-entry">[64]	Lewin, K. Group decision and social change [M]//Gold, M. <i>The complete social scientist: A Kurt Lewin reader</i>. American Psychological Association, 1999: 265-284.</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive transference [Z]//<i>APA dictionary of psychology</i>. [2019].</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-report [Z]//<i>Merriam-Webster.com dictionary</i>. [2019].</div>
-  <div class="csl-entry">[67]	Graham, G. Behaviorism [Z]//Zalta, E.N. <i>The Stanford encyclopedia of philosophy</i>. Summer 2019 ed. Stanford University, 2019.</div>
-  <div class="csl-entry">[68]	List of oldest companies [Z]//<i>Wikipedia</i>. 2019.</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive transference [M]//<i>APA dictionary of psychology</i>. [2019].</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-report [M]//<i>Merriam-Webster.com dictionary</i>. [2019].</div>
+  <div class="csl-entry">[67]	Graham, G. Behaviorism [M]//Zalta, E.N. <i>The Stanford encyclopedia of philosophy</i>. Summer 2019 ed. Stanford University, 2019.</div>
+  <div class="csl-entry">[68]	List of oldest companies [M]//<i>Wikipedia</i>. 2019.</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission &#38; New Zealand Productivity Commission. Strengthening trans-Tasman economic relations [R]. 2012.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation [R]. 2013.</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424 [R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
@@ -429,10 +429,10 @@
   <div class="csl-entry">[81]	Lichtenstein, J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1 [R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82]	Harwell, M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change [R]. National Education Policy Center, 2018.</div>
   <div class="csl-entry">[83]	U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices [R]. U.S. Food and Drug Administration, 2019.</div>
-  <div class="csl-entry">[84]	Fistek, A., E. Jester, &#38; K. Sonnenberg. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate [Z]. 2017.</div>
-  <div class="csl-entry">[85]	Maddox, S., J. Hurling, E. Stewart, &#38; A. Edwards. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children [Z]. 2016.</div>
-  <div class="csl-entry">[86]	Pearson, J. Fat talk and its effects on state-based body image in women [Z]. 2018.</div>
-  <div class="csl-entry">[87]	De Boer, D. &#38; T. LaFavor. The art and significance of successfully identifying resilient individuals A person-focused approach [Z]//<i>Perspectives on resilience: Conceptualization, measurement, and enhancement</i>. 2018.</div>
+  <div class="csl-entry">[84]	Fistek, A., E. Jester, &#38; K. Sonnenberg. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate [Z]. Milwaukee, WI, United States, 2017.</div>
+  <div class="csl-entry">[85]	Maddox, S., J. Hurling, E. Stewart, &#38; A. Edwards. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children [Z]. New Orleans, LA, United States, 2016.</div>
+  <div class="csl-entry">[86]	Pearson, J. Fat talk and its effects on state-based body image in women [Z]. Sydney, NSW, Australia, 2018.</div>
+  <div class="csl-entry">[87]	De Boer, D. &#38; T. LaFavor. The art and significance of successfully identifying resilient individuals A person-focused approach [Z]//<i>Perspectives on resilience: Conceptualization, measurement, and enhancement</i>. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[88]	Harris, L. Instructional leadership perceptions and practices of elementary school leaders [D]. University of Virginia, 2014.</div>
   <div class="csl-entry">[89]	Hollander, M.M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment [D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90]	Hutcheson, V.H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents [D]. The College of William &#38; Mary, 2012.</div>
@@ -442,20 +442,20 @@
   <div class="csl-entry">[94]	Yousafzai, M. <i>We are displaced: My journey and stories from refugee girls around the world</i> [M]. 2016.</div>
   <div class="csl-entry">[95]	Perkins, D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile [EB/OL]. (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
   <div class="csl-entry">[96]	Schur, M. Somewhere else [Z]. 2018.</div>
-  <div class="csl-entry">[97]	Yoo, J., Y. Miyamoto, A. Rigotti, &#38; C. Ryff. Linking positive affect to blood lipids: A cultural perspective [Z]. 2016.</div>
-  <div class="csl-entry">[98]	O’Shea, M. Understanding proactive behavior in the workplace as a function of gender [Z]. 2018.</div>
-  <div class="csl-entry">[99]	Lippincott, T. &#38; E.K. Poindexter. Emotion recognition as a function of facial cues: Implications for practice [Z]. 2019.</div>
+  <div class="csl-entry">[97]	Yoo, J., Y. Miyamoto, A. Rigotti, &#38; C. Ryff. Linking positive affect to blood lipids: A cultural perspective [Z]. Department of Psychology, University of Wisconsin-Madison, 2016.</div>
+  <div class="csl-entry">[98]	O’Shea, M. Understanding proactive behavior in the workplace as a function of gender [Z]. Department of Management, University of Kansas, 2018.</div>
+  <div class="csl-entry">[99]	Lippincott, T. &#38; E.K. Poindexter. Emotion recognition as a function of facial cues: Implications for practice [Z]. Department of Psychology, University of Washington, 2019.</div>
   <div class="csl-entry">[100]	Leuker, C., L. Samartzidis, R. Hertwig, &#38; T.J. Pleskac. When money talks: Judging risk and coercion in high-paying clinical trials [A]. PsyArXiv, 2018.</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen, M.A. &#38; R. Sinha. The effects of stress on physical activity and exercise [A]. PubMed Central, 2015.</div>
   <div class="csl-entry">[102]	Ho, H.K. Teacher preparation for early childhood special education in Taiwan [A]. ERIC, 2014.</div>
   <div class="csl-entry">[103]	D’Souza, A. &#38; M. Wiseheart. Cognitive effects of music and dance training in children [DS]. ICPSR, 2018.</div>
   <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009 [DS]. National Archive of Data on Arts and Culture, 2016.</div>
-  <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26 [DS/OL]. (2018). <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
+  <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26 [DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">[106]	Baer, R.A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills [DS]. University of Kentucky, 2015.</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism outcomes [DS]. 2011.</div>
   <div class="csl-entry">[108]	M. Borenstein, L. Hedges, J. Higgins, H. Rothstein. Comprehensive meta-analysis[CP/OL]. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
-  <div class="csl-entry">[109]	SR Research. Eyelink 1000 plus[CP/OL]. (2016). <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
-  <div class="csl-entry">[110]	Tactile Labs. Latero tactile display[CP/OL]. (2015). <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
+  <div class="csl-entry">[109]	SR Research. Eyelink 1000 plus[CP/OL]. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
+  <div class="csl-entry">[110]	Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">[111]	Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline [Z]//<i>Epocrates medical references</i>. Google Play Store, 2019.</div>
   <div class="csl-entry">[113]	Tellegen, A. &#38; Y.S. Ben-Porath. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual [R]. Pearson, 2011.</div>
@@ -483,19 +483,19 @@
   <div class="csl-entry">[135]	Lamar, K. Humble [Z]//<i>Damn</i>. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	Vedantam, S. Hidden brain [Z]. NPR, 2015.</div>
   <div class="csl-entry">[137]	Glass, I. Amusement park [Z]//<i>This American Life</i>. WBEZ Chicago, 2011.</div>
-  <div class="csl-entry">[138]	de Beauvoir, S. Simone de Beauvoir discusses the art of writing [Z]. 1960.</div>
+  <div class="csl-entry">[138]	de Beauvoir, S. Simone de Beauvoir discusses the art of writing [Z]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[139]	King, M.L., Jr. I have a dream [Z]. American Rhetoric, 1963.</div>
-  <div class="csl-entry">[140]	Delacroix, E. Faust attempts to seduce Marguerite [Z]. 1826/1827.</div>
-  <div class="csl-entry">[141]	Wood, G. American gothic [Z]. 1930.</div>
-  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic [Z]. 2018.</div>
-  <div class="csl-entry">[143]	Rossman, J. &#38; R. Palmer. Sorting through our space junk [Z]. 2015.</div>
+  <div class="csl-entry">[140]	Delacroix, E. Faust attempts to seduce Marguerite [Z]. Paris, France: The Louvre, 1826/1827.</div>
+  <div class="csl-entry">[141]	Wood, G. American gothic [Z]. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
+  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic [Z]. Openclipart, 2018.</div>
+  <div class="csl-entry">[143]	Rossman, J. &#38; R. Palmer. Sorting through our space junk [Z]. World Science Festival, 2015.</div>
   <div class="csl-entry">[144]	Cable, D. The racial dot map [CM]. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">[145]	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru [CM]. [2020].</div>
-  <div class="csl-entry">[146]	McCurry, S. Afghan girl [Z]. 1985.</div>
-  <div class="csl-entry">[147]	Rinaldi, J. Photograph series of a boy who finds his footing after abuse by those he trusted [Z]. 2016.</div>
-  <div class="csl-entry">[148]	Canan, E. &#38; J. Vasilev. Lecture notes on resource allocation [Z]. 2019.</div>
-  <div class="csl-entry">[149]	Housand, B. Game on! Integrating games and simulations in the classroom [Z]. 2016.</div>
-  <div class="csl-entry">[150]	Mack, R. &#38; G. Spake. Citing open source images and formatting references for presentations [Z]. 2018.</div>
+  <div class="csl-entry">[146]	McCurry, S. Afghan girl [Z]. National Geographic, 1985.</div>
+  <div class="csl-entry">[147]	Rinaldi, J. Photograph series of a boy who finds his footing after abuse by those he trusted [Z]. The Pulitzer Prizes, 2016.</div>
+  <div class="csl-entry">[148]	Canan, E. &#38; J. Vasilev. Lecture notes on resource allocation [Z]. Department of Management Control and Information Systems, University of Chile, 2019.</div>
+  <div class="csl-entry">[149]	Housand, B. Game on! Integrating games and simulations in the classroom [Z]. SlideShare, 2016.</div>
+  <div class="csl-entry">[150]	Mack, R. &#38; G. Spake. Citing open source images and formatting references for presentations [Z]. Canvas@FNU, 2018.</div>
   <div class="csl-entry">[151]	APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached] [EB/OL]. (2018-06-29). <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity [EB/OL]. (2018-02-26). <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.</div>
   <div class="csl-entry">[153]	White, B. I treasure every minute we spent together #koko [image attached] [EB/OL]. (2018-06-21). <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.</div>
@@ -510,7 +510,7 @@
   <div class="csl-entry">[162]	Avramova, N. The secret to a long, happy, health life? Think age-positive [EB/OL]. (2019-01-03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
   <div class="csl-entry">[163]	Bologna, C. What happens to your mind and body when you feel homesick? [EB/OL]. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
   <div class="csl-entry">[164]	Centers for Disease Control and Prevention. People at high risk of developing flu-related complications [EB/OL]. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
-  <div class="csl-entry">[165]	World Health Organization. Questions and answers on immunization and vaccine safety [EB/OL]. (2018-03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
+  <div class="csl-entry">[165]	World Health Organization. Questions and answers on immunization and vaccine safety [EB/OL]. 2018. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
   <div class="csl-entry">[166]	Martin Lillie, C.M. Be kind to yourself: How self-compassion can improve your resiliency [EB/OL]. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
   <div class="csl-entry">[167]	Boddy, J., T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees, &#38; W. Gibson. Ethics principles [EB/OL]. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
   <div class="csl-entry">[168]	National Nurses United. What employers should do to protect nurses from Zika [EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
@@ -529,7 +529,7 @@
   <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act [A]//<i>U.S.C</i>: Vol. 20. 1972.</div>
   <div class="csl-entry">[182]	Florida Mental Health Act [A]//<i>Fla. Stat.</i> 2009.</div>
   <div class="csl-entry">[183]	Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs [Z]. 2016.</div>
-  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions [Z]. 2014.</div>
+  <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions [A]. 2014.</div>
   <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100 [A]. 2013.</div>
   <div class="csl-entry">[186]	S. Res. 438 [A]//<i>Cong. Rec.</i>: Vol. 162. 2016: 2394.</div>
   <div class="csl-entry">[187]	H.R. Rep. No. 114-358 [R]. 2015.</div>
