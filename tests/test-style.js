@@ -21,7 +21,7 @@ function get_paths(style_name) {
 
     let test_dir = 'tests';
 
-    let default_data_path = path.join(test_dir, 'default-data.json');
+    let gb_t_7714_data_path = path.join(test_dir, 'gbt7714-data.json');
     let default_test_cites_numeric_path = path.join(test_dir, 'default-test-cites-numeric.json');
     let default_test_cites_author_date_path = path.join(test_dir, 'default-test-cites-author-date.json');
     let default_test_cites_author_date_data_path = path.join(test_dir, 'default-test-cites-author-date-data.json');
@@ -63,7 +63,7 @@ function get_paths(style_name) {
         'test_cites_path': test_cites_path,
         'sample_cites_path': sample_cites_path,
 
-        'gb_t_7714_data_path': default_data_path,
+        'gb_t_7714_data_path': gb_t_7714_data_path,
         'default_test_cites_numeric_path': default_test_cites_numeric_path,
         'default_test_cites_author_date_path': default_test_cites_author_date_path,
         'default_test_cites_author_date_data_path': default_test_cites_author_date_data_path,
