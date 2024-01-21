@@ -27,7 +27,7 @@ Undefined
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	陈登原. 国史旧闻[M]. 北京: 中华书局, 2000, 第 1 卷: 29</div>
-  <div class="csl-entry">[2]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235–236</div>
+  <div class="csl-entry">[2]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛. 北京: 中国人民大学出版社, 2012: 235–236</div>
   <div class="csl-entry">[3]	北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112</div>
   <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. GB/T 25100—2010, 信息与文献 都柏林核心元数据元素集[S] 北京: 中国标准出版社, 2010: 2–3</div>
   <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010</div>
@@ -48,7 +48,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[G]// 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[G]// 马克思, 恩格斯. 马克思恩格斯全集. 北京: 人民出版社, 2013, 第 35 卷: 302</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011, 2011 年卷: 45–52</div>
-  <div class="csl-entry">23.	Weinstein L, Swertz M N. Pathogenic Properties of Invading Microorganism[G]// Sodeman W. A. Jr, Sodeman W. A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745–772</div>
+  <div class="csl-entry">23.	Weinstein L, Swertz M N. Pathogenic Properties of Invading Microorganism[G]// Sodeman W. A. Jr., Sodeman W. A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745–772</div>
   <div class="csl-entry">24.	Roberson J A, Burneson E G. Drinking Water Standards, Regulations and Goals[G]// American Water Works Association. 6 edn.Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 武汉: 中华医学会湖北分会, 1984, 1(1)</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 北京: 北京图书馆, 1957(1–4)</div>
@@ -75,13 +75,13 @@ Undefined
   <div class="csl-entry">47.	Deverell W, Igler D. A Companion to California History[D]. New York: John Wiley &#38; Sons, 2013: 21–22</div>
   <div class="csl-entry">48.	Baker S K, Jackson M E. The Future of Resource Sharing[M]. New York: The Haworth Press, 1995</div>
   <div class="csl-entry">49.	Chernik B E. Introduction to Library Services for Library Technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982</div>
-  <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存[M]. 胡泳, 译, 范海燕, 译. 海口: 海南出版社, 1996</div>
+  <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕. 海口: 海南出版社, 1996</div>
   <div class="csl-entry">[51]	汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997: 16</div>
   <div class="csl-entry">[52]	杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24–29</div>
   <div class="csl-entry">53.	Dowler L. The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment[J]. Journal of Library Administration, 1995, 21(1/2): 5–26</div>
   <div class="csl-entry">54.	Sunstein C R. Social Norms and Social Roles[J]. Columbia Law Review, 1996, 96: 903</div>
   <div class="csl-entry">55.	Morri I. Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010</div>
-  <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 译, 魏婧, 译, 杨艳, 译, 等, 译. 大连: 东北财经大学出版社, 2011: 15–16</div>
+  <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15–16</div>
   <div class="csl-entry">[57]	陈登原. 国史旧闻[M]. 北京: 中华书局, 2000, 第 1 卷: 29</div>
   <div class="csl-entry">58.	Crane D. Invisible College[M]. Chicago: Univ. of Chicago Press, 1972</div>
   <div class="csl-entry">59.	Stieg M F. The Information Needs of Historians[J]. College &#38; Research Libraries, 1981, 42(6): 549–560</div>
@@ -96,13 +96,13 @@ Undefined
   <div class="csl-entry">[68]	张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288</div>
   <div class="csl-entry">[69]	皮锡瑞. 师伏堂日记[M]. 北京: 北京图书馆出版社, 2009, 第 4 册: 155</div>
   <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 理论物理概论[M]. 武汉: 武汉大学出版社, 2010, 上: 112</div>
-  <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 译, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38–39</div>
+  <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 杨慧霞. 北京: 人民卫生出版社, 2010: 38–39</div>
   <div class="csl-entry">[72]	康熙字典: 巳集上: 水部[M].第同文书局影印本版 北京: 中华书局, 1962: 50</div>
   <div class="csl-entry">[73]	汪昂. 增订本草备要[M].第刻本版 京都: 老二酉堂, 1881, 四卷</div>
   <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998</div>
   <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013</div>
-  <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长[M]. 唐巧天, 译, 毛立坤, 译, 姜修宪, 译. 杭州: 浙江大学出版社, 2009</div>
-  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 译, 胡新和, 译. 第2版 北京: 北京大学出版社, 2012</div>
+  <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪. 杭州: 浙江大学出版社, 2009</div>
+  <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和. 第2版 北京: 北京大学出版社, 2012</div>
   <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010: 119</div>
   <div class="csl-entry">79.	Crawford W, Gorman M. Future Libraries: Dreams, Madness, &#38; Reality[M]. Chicago: American Library Association, 1995</div>
   <div class="csl-entry">80.	International Federation of Library Association and Institutions. Names of Persons: National Usages for Entry in Catalogues[M]. 3 edn. London: IFLA International Office for UBC, 1977</div>
@@ -132,10 +132,10 @@ Undefined
   <div class="csl-entry">[104]	卷 39 乞致仕第一[G]//苏魏公文集. 北京: 中华书局, 1988, 下册: 590</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[G]// 李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146–163</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[A]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2002: 22–25</div>
-  <div class="csl-entry">107.	国家标准局信息分类编码研究所. GB/T 2659—1986, 世界各国和地区名称代码[S] 全国文献工作标准化委员会. . 文献工作国家标准汇编: 3 北京: 中国标准出版社, 1988: 59–92</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986, 世界各国和地区名称代码[S] 全国文献工作标准化委员会. . 文献工作国家标准汇编: 3 北京: 中国标准出版社, 1988: 59–92</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[G]//宋史. 北京: 中华书局, 1977, 第 1 册: 49</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[G]// 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012</div>
-  <div class="csl-entry">110.	Buseck P R, Nord G L, Veblen D R. Subsolidus Phenomena in Pyroxenes[G]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211</div>
+  <div class="csl-entry">110.	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus Phenomena in Pyroxenes[G]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211</div>
   <div class="csl-entry">111.	Fourney M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17–38</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6–21</div>

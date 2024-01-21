@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">中国互联网络信息中心	</div>
   <div class="csl-entry">北京市人民政府办公厅	</div>
   <div class="csl-entry">Bawden D	</div>
-  <div class="csl-entry">Online Computer Library Center, Inc	</div>
+  <div class="csl-entry">Online Computer Library Center, Inc.	</div>
   <div class="csl-entry">Hopkinson A	</div>
   <div class="csl-entry">佚名	</div>
   <div class="csl-entry">刘乃安	</div>
@@ -87,8 +87,8 @@ Undefined
   <div class="csl-entry">Stieg Margaret F	</div>
   <div class="csl-entry">王临惠, 支建刚, 王忠一	</div>
   <div class="csl-entry">王临惠	</div>
-  <div class="csl-entry">Kennedy W James, Garrison Robert E	</div>
-  <div class="csl-entry">Kennedy W James, Garrison Robert E	</div>
+  <div class="csl-entry">Kennedy William James, Garrison Robert E	</div>
+  <div class="csl-entry">Kennedy William James, Garrison Robert E	</div>
   <div class="csl-entry">张忠智	</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室	</div>
   <div class="csl-entry">刘彻东	</div>
@@ -135,7 +135,7 @@ Undefined
   <div class="csl-entry">国家标准局信息分类编码研究所	</div>
   <div class="csl-entry">佚名	</div>
   <div class="csl-entry">楼梦鳞, 杨燕	</div>
-  <div class="csl-entry">Buseck P R, Nord G L, Veblen D R	</div>
+  <div class="csl-entry">Buseck Peter R, Nord Gordon L Jr, Veblen David R	</div>
   <div class="csl-entry">Fourney M E	</div>
   <div class="csl-entry">杨洪升	</div>
   <div class="csl-entry">李炳穆	</div>

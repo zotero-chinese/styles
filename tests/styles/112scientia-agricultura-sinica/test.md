@@ -323,7 +323,7 @@ Undefined
 
     <div class="csl-block">国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995. 北京: 中国标准出版社, 1996: 2-3. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009. 2009.</div>
+  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
   <div class="csl-entry">[104]	卷 39 乞致仕第一//苏魏公文集: 下册. 北京: 中华书局, 1988: 590. 
 
     <div class="csl-block">卷 39 乞致仕第一//下册. 北京: 中华书局, 1988: 590. (in Chinese)</div>
@@ -336,7 +336,10 @@ Undefined
 
     <div class="csl-block">汪学军. 中国农业转基因生物研究进展与安全管理//国家环境保护总局生物安全管理办公室. 北京: 中国环境科学出版社, 2002: 22-25. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92. 
+
+    <div class="csl-block">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 北京: 中国标准出版社, 1988: 59-92. (in Chinese)</div>
+</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三//宋史: 第 1 册. 北京: 中华书局, 1977: 49. 
 
     <div class="csl-block">宋史卷三: 本纪第三//第 1 册. 北京: 中华书局, 1977: 49. (in Chinese)</div>
@@ -345,7 +348,7 @@ Undefined
 
     <div class="csl-block">楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析//同济大学土木工程防灾国家重点实验室. 上海: 同济大学出版社, 2011: 011-012. (in Chinese)</div>
 </div>
-  <div class="csl-entry">[110]	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">[110]	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">[111]	Fourney M E. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75. 
 

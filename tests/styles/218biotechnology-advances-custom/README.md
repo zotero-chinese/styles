@@ -6,9 +6,9 @@
 
 (库恩, 2012)<br>
 (Fourney, c1971)<br>
-(贾 and 柯, 2011)<br>
+(贾东琴 and 柯平, 2011)<br>
 (Fan and Sommers, 2013)<br>
-(武 et al., 2008)<br>
+(武丽丽 et al., 2008)<br>
 (Myburg et al., 2014)<br>
 (Bawden, 2008; 中国互联网络信息中心, 2012)<br>
 

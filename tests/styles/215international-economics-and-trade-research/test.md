@@ -108,9 +108,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名, 1977. 宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局: 49.</div>
   <div class="csl-entry">Anon, 1981. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">佚名, 1988. 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局: 590.</div>
-  <div class="csl-entry">Anon, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S].</div>
   <div class="csl-entry">佚名, 2011. 周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">Anon, 2012. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">Anon, [2013]. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S].</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等, 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌, 2013. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 等, 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 57(34): 3219.</div>
@@ -134,7 +134,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Baker, S K, Jackson, M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, P, 2011. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">Bawden, D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">Buseck, P R, Nord, G L, Veblen, D R, c1980. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+  <div class="csl-entry">Buseck, P R, Nord, G L, Jr, Veblen, D R, c1980. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
   <div class="csl-entry">Cairns, B R, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Calkin, D, Ager, A, Thompson, M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 8-9.</div>
   <div class="csl-entry">Caplan, P, 1993. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 4(2): 61-66.</div>
@@ -159,7 +159,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Morri, I, 2010. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A A, Grattapaglia, D, Tuskan, G A, et al., 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
   <div class="csl-entry">O’Brien, J A, 1994. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc, [2012]. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc., [2012]. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">Park, J R, Tosaka, Y, 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
   <div class="csl-entry">Peebles, P Z, Jr, 2001. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A, 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>

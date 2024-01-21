@@ -66,7 +66,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[11] 丁文详，2000．数字革命与竞争国际化．中国青年报，2000-11-20（15）．</div>
   <div class="csl-entry">[12] 傅刚，赵承，李佳路，2000．大风沙过后的思考．北京青年报，2000-01-12．</div>
   <div class="csl-entry">[13] 顾炎武，1992．昌平山水记: 京东考古录．北京：北京古籍出版社．</div>
-  <div class="csl-entry">[14] 国家标准局信息分类编码研究所, 1988. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59-92.</div>
+  <div class="csl-entry">[14] 国家标准局信息分类编码研究所，1988．世界各国和地区名称代码：GB/T 2659—1986//全国文献工作标准化委员会．文献工作国家标准汇编: 3．北京：中国标准出版社：59-92．</div>
   <div class="csl-entry">[15] 国家环境保护局科技标准司，1996．土壤环境质量标准：GB 15616—1995．北京：中国标准出版社：2-3．</div>
   <div class="csl-entry">[16] 哈里森·沃尔德伦，2012．经济数学与金融数学．谢远涛，译．北京：中国人民大学出版社：235-236．</div>
   <div class="csl-entry">[17] 河北绿洲生态环境科技有限公司，2001．一种荒漠化地区生态植被综合培育种植方法：01129210.5．2001-10-24．</div>
@@ -116,9 +116,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[61] 佚名，1977．宋史卷三: 本纪第三//宋史：第 1 册．北京：中华书局：49．</div>
   <div class="csl-entry">[62] Anon, 1981. Coffee drinking and cancer of the pancreas. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">[63] 佚名，1988．卷 39 乞致仕第一//苏魏公文集：下册．北京：中华书局：590．</div>
-  <div class="csl-entry">[64] Anon, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
-  <div class="csl-entry">[65] 佚名，2011．周易外传: 卷 5//王夫之．船山全书：第 6 册．长沙：岳麓书社：1109．</div>
-  <div class="csl-entry">[66] Anon, 2012. Dublin core metadata element set: version 1.1. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">[64] 佚名，2011．周易外传: 卷 5//王夫之．船山全书：第 6 册．长沙：岳麓书社：1109．</div>
+  <div class="csl-entry">[65] Anon, 2012. Dublin core metadata element set: version 1.1. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">[66] Anon. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
   <div class="csl-entry">[67] 于潇，刘义，柴跃廷，等，2012．互联网药品可信交易环境中主体资质审核备案模式．清华大学学报(自然科学版)，52（11）：1518-1523．</div>
   <div class="csl-entry">[68] 余建斌，2013．我们的科技一直在追赶: 访中国工程院院长周济．人民日报，2013-01-12（2）．</div>
   <div class="csl-entry">[69] 袁训来，陈哲，肖书海，等，2012．蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口．科学通报，57（34）：3219．</div>
@@ -142,7 +142,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[87] BAKER S K, JACKSON M E, 1995. The future of resource sharing. New York: The Haworth Press.</div>
   <div class="csl-entry">[88] BALDOCK P, 2011. Developing early childhood services: Past, present and future. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">[89] BAWDEN D, 2008. Origins and concepts of digital literacy. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">[90] BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+  <div class="csl-entry">[90] BUSECK P R, NORD G L Jr, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
   <div class="csl-entry">[91] CAIRNS B R, 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">[92] CALKIN D, AGER A, THOMPSON M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 8-9.</div>
   <div class="csl-entry">[93] CAPLAN P, 1993. Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61-66.</div>

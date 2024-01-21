@@ -71,7 +71,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[11]	丁文详，“数字革命与竞争国际化”，《中国青年报》，2000年，第15页。</div>
   <div class="csl-entry">[12]	傅刚、赵承、李佳路，“大风沙过后的思考”，《北京青年报》，2000年。</div>
   <div class="csl-entry">[13]	顾炎武，《昌平山水记: 京东考古录》。北京：北京古籍出版社，1992年。</div>
-  <div class="csl-entry">[14]	国家标准局信息分类编码研究所, 世界各国和地区名称代码, in 全国文献工作标准化委员会, ed., 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988.</div>
+  <div class="csl-entry">[14]	国家标准局信息分类编码研究所，《世界各国和地区名称代码》，载全国文献工作标准化委员会主编《文献工作国家标准汇编: 3》。北京：中国标准出版社，1988年。</div>
   <div class="csl-entry">[15]	国家环境保护局科技标准司，《土壤环境质量标准》。北京：中国标准出版社，1996年。</div>
   <div class="csl-entry">[16]	哈里森·沃尔德伦，《经济数学与金融数学》。北京：中国人民大学出版社，2012年。</div>
   <div class="csl-entry">[17]	河北绿洲生态环境科技有限公司，《一种荒漠化地区生态植被综合培育种植方法》。中国，2001年。</div>
@@ -140,14 +140,14 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[80]	佚名，“宋史卷三: 本纪第三”，载《宋史》。北京：中华书局，1977年。</div>
   <div class="csl-entry">[81]	Anon, “Coffee Drinking and Cancer of the Pancreas”, British Medical Journal, 1981, 283(6292), 628.</div>
   <div class="csl-entry">[82]	佚名，“卷 39 乞致仕第一”，载《苏魏公文集》。北京：中华书局，1988年。</div>
-  <div class="csl-entry">[83]	Anon, Information and Documentation—The Dublin Core Metadata Element Set. 2009.</div>
-  <div class="csl-entry">[84]	佚名，“周易外传: 卷 5”，载王夫之主编《船山全书》。长沙：岳麓书社，2011年。</div>
-  <div class="csl-entry">[85]	Anon, Dublin Core Metadata Element Set: Version 1.1. 2012.</div>
+  <div class="csl-entry">[83]	佚名，“周易外传: 卷 5”，载王夫之主编《船山全书》。长沙：岳麓书社，2011年。</div>
+  <div class="csl-entry">[84]	Anon, Dublin Core Metadata Element Set: Version 1.1. 2012.</div>
+  <div class="csl-entry">[85]	Anon, Information and Documentation—The Dublin Core Metadata Element Set.</div>
   <div class="csl-entry">[86]	Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, and U. Gupta, Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[87]	Baker, S. K., and M. E. Jackson, The Future of Resource Sharing. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[88]	Baldock, P., Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press, 2011.</div>
   <div class="csl-entry">[89]	Bawden, D., Origins and Concepts of Digital Literacy. 2008.</div>
-  <div class="csl-entry">[90]	Buseck, P. R., G. L. Nord, and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes”, in Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980.</div>
+  <div class="csl-entry">[90]	Buseck, P. R., G. L. Nord Jr., and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes”, in Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980.</div>
   <div class="csl-entry">[91]	Cairns, B. R., Infrared Spectroscopic Studies on Solid Oxygen. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[92]	Calkin, D., A. Ager, and M. Thompson, A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report. 2011.</div>
   <div class="csl-entry">[93]	Caplan, P., “Cataloging Internet Resources”, The Public-Access Computer Systems Review, 1993, 4(2), 61-66.</div>
@@ -172,7 +172,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[112]	Morri, I., Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[113]	Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The Genome of Eucalyptus Grandis”, Nature, 2014, 510, 356-362.</div>
   <div class="csl-entry">[114]	O’Brien, J. A., Introduction to Information Systems. Burr Ridge, III: Irwin, 1994.</div>
-  <div class="csl-entry">[115]	Online Computer Library Center, Inc, About OCLC: History of Cooperation.</div>
+  <div class="csl-entry">[115]	Online Computer Library Center, Inc., About OCLC: History of Cooperation.</div>
   <div class="csl-entry">[116]	Park, J.-R., and Y. Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, Cataloging &#38; Classification Quarterly, 2010, 48(8), 696-715.</div>
   <div class="csl-entry">[117]	Peebles, P. Z., Jr., Probability, Random Variables, and Random Signal Principles. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[118]	Praetzellis, A., Death by Theory: A Tale of Mystery and Archaeological Theory. Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
@@ -183,7 +183,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[123]	Tachibana, R., S. Shimizu, S. Kobayshi, and T. Nakamura, Electronic Watermarking Method and System. US, 2005.</div>
   <div class="csl-entry">[124]	U.S. Department of Transportation Federal Highway Administration, Guidelines for Handling Excavated Acid-Producing Material. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[125]	Walls, S. C., W. J. Barichivich, and M. E. Brown, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, Biology, 2013, 2(1), 399-418.</div>
-  <div class="csl-entry">[126]	Weinstein, L., and M. N. Swertz, “Pathogenic Properties of Invading Microorganism”, in W. A. Sodeman Jr and W. A. Sodeman, eds., Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974.</div>
+  <div class="csl-entry">[126]	Weinstein, L., and M. N. Swertz, “Pathogenic Properties of Invading Microorganism”, in W. A. Sodeman Jr. and W. A. Sodeman, eds., Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974.</div>
   <div class="csl-entry">[127]	World Health Organization, Factors Regulating the Immune Response: Report of WHO Scientific Group. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[128]	Yufin, S. A., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema, 2000.</div>
 </div>

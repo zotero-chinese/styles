@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">[40]	中国互联网络信息中心 2012 第 29 次中国互联网络发展现状统计报告 ((2012-01-16))</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅 2005 关于转发北京市企业投资项目核准暂行实施办法的通知 ((2005-07-12))</div>
   <div class="csl-entry">[42]	Origins and concepts of digital literacy Bawden D <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> [2013-03-08]</div>
-  <div class="csl-entry">[43]	About OCLC (in Chinese) [About OCLC: History of cooperation Online Computer Library Center, Inc <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> [2012-03-27]]</div>
+  <div class="csl-entry">[43]	About OCLC (in Chinese) [About OCLC: History of cooperation Online Computer Library Center, Inc. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> [2012-03-27]]</div>
   <div class="csl-entry">[44]	UNIMARC and metadata (in Chinese) [UNIMARC and metadata: Dublin core Hopkinson A <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> [2013-03-27]]</div>
   <div class="csl-entry">[45]	1981 <i>Br. Med. J.</i> <b>283</b> 628</div>
   <div class="csl-entry">[46]	刘乃安 2000 (合肥: 中国科学技术大学: 17–18)</div>
@@ -128,14 +128,14 @@ Undefined
   <div class="csl-entry">[100]	文献著录 (in Chinese) [全国信息与文献标准化技术委员会 2010 文献著录: 第 4 部分 非书资料 (北京: 中国标准出版社: 3)]</div>
   <div class="csl-entry">[101]	广播电视音像资料编目规范 (in Chinese) [全国广播电视标准化技术委员会 2007 广播电视音像资料编目规范: 第 2 部分 广播资料 (北京: 国家广播电影电视总局广播电视规划院: 1)]</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司 1996 土壤环境质量标准 (北京: 中国标准出版社: 2–3)</div>
-  <div class="csl-entry">[103]	2009 Information and documentation—The Dublin core metadata element set (2009)</div>
+  <div class="csl-entry">[103]	Information and documentation (in Chinese) [[2013] Information and documentation—The Dublin core metadata element set]</div>
   <div class="csl-entry">[104]	1988 苏魏公文集 北京 , 1988 pp590</div>
   <div class="csl-entry">[105]	白书农 1998 植物科学进展 北京 , 1998 pp146–163</div>
   <div class="csl-entry">[106]	汪学军 2002 中国国家生物安全框架实施国际合作项目研讨会论文集 北京 , 2002 pp22–25</div>
   <div class="csl-entry">[107]	国家标准局信息分类编码研究所 1988 文献工作国家标准汇编: 3 北京 , 1988 pp59–92</div>
   <div class="csl-entry">[108]	宋史卷三 (in Chinese) [1977 宋史 北京, 1977 第49页]</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕 2011 汶川地震震害研究 上海 , 2011 pp011–012</div>
-  <div class="csl-entry">[110]	Buseck P R, Nord G L, Veblen D R c1980 Pyroxense Washington, D.C. , c1980 pp117–211</div>
+  <div class="csl-entry">[110]	Buseck P R, Nord G L Jr, Veblen D R c1980 Pyroxense Washington, D.C. , c1980 pp117–211</div>
   <div class="csl-entry">[111]	Fourney M E c1971 Symposium on Applications of Holography in Mechanics University of Southern California, Los Angeles, California , c1971 pp17–38</div>
   <div class="csl-entry">[112]	杨洪升 2013 文献 56</div>
   <div class="csl-entry">[113]	李炳穆 2008 图书情报工作 <b>52</b> 6</div>

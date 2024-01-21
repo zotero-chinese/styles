@@ -128,14 +128,14 @@ Undefined
   <div class="csl-entry">@文献著录: 第 4 部分 非书资料@全国信息与文献标准化技术委员会. (@2010)</div>
   <div class="csl-entry">@广播电视音像资料编目规范: 第 2 部分 广播资料@全国广播电视标准化技术委员会. (@2007)</div>
   <div class="csl-entry">@土壤环境质量标准@国家环境保护局科技标准司. (@1996)</div>
-  <div class="csl-entry">@Information and documentation—The Dublin core metadata element set@anonymous. (@2009)</div>
+  <div class="csl-entry">@Information and documentation—The Dublin core metadata element set@anonymous. (@[no date])</div>
   <div class="csl-entry">@卷 39 乞致仕第一@佚名. (@1988)</div>
   <div class="csl-entry">@植物开花研究@白书农. (@1998)</div>
   <div class="csl-entry">@中国农业转基因生物研究进展与安全管理@汪学军. (@2002)</div>
   <div class="csl-entry">@世界各国和地区名称代码@国家标准局信息分类编码研究所. (@1988)</div>
   <div class="csl-entry">@宋史卷三: 本纪第三@佚名. (@1977)</div>
   <div class="csl-entry">@汶川地震基岩地震动特征分析@楼梦鳞, 杨燕. (@2011)</div>
-  <div class="csl-entry">@Subsolidus phenomena in pyroxenes@Buseck P R, Nord G L, et al. (@c1980)</div>
+  <div class="csl-entry">@Subsolidus phenomena in pyroxenes@Buseck P R, Nord G L Jr, et al. (@c1980)</div>
   <div class="csl-entry">@Advances in holographic photoelasticity@Fourney M E. (@c1971)</div>
   <div class="csl-entry">@四库馆私家抄校书考略@杨洪升. (@2013)</div>
   <div class="csl-entry">@韩国图书馆法@李炳穆. (@2008)</div>

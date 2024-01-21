@@ -55,7 +55,7 @@
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	Weinstein, L. &#38; M.N. Swertz. Pathogenic properties of invading microorganism [M]//Sodeman, W.A., Jr &#38; W.A. Sodeman. <i>Pathologic physiology: mechanisms of disease</i>. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	Weinstein, L. &#38; M.N. Swertz. Pathogenic properties of invading microorganism [M]//Sodeman, W.A., Jr. &#38; W.A. Sodeman. <i>Pathologic physiology: mechanisms of disease</i>. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	Roberson, J.A. &#38; E.G. Burneson. Drinking water standards, regulations and goals [M]//American Water Works Association. <i>Water quality &#38; treatment: a handbook on drinking water</i>. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
@@ -139,10 +139,10 @@
   <div class="csl-entry">[104]	卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
-  <div class="csl-entry">[107]	GB/T 2659—1986, 世界各国和地区名称代码 [S].</div>
+  <div class="csl-entry">[107]	GB/T 2659—1986, 世界各国和地区名称代码[S].</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
-  <div class="csl-entry">[110]	Buseck, P.R., G.L. Nord, &#38; D.R. Veblen. Subsolidus phenomena in pyroxenes [M]//<i>Pyroxense</i>. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">[110]	Buseck, P.R., G.L. Nord Jr., &#38; D.R. Veblen. Subsolidus phenomena in pyroxenes [M]//<i>Pyroxense</i>. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">[111]	Fourney, M.E. Advances in holographic photoelasticity [C]//<i>Symposium on Applications of Holography in Mechanics</i>, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.</div>

@@ -127,7 +127,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">80.	Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">81.	Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">82.	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">83.	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//<b>Pyroxense</b>. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">83.	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//<b>Pyroxense</b>. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">84.	Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">85.	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">86.	Caplan P. Cataloging internet resources[J]. <b>The Public-Access Computer Systems Review</b>, 1993, 4(2): 61-66.</div>
@@ -169,7 +169,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">122.	周易外传: 卷 5[M]//王夫之. <b>船山全书</b>: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">123.	Coffee drinking and cancer of the pancreas[J]. <b>British Medical Journal</b>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">124.	康熙字典: 巳集上: 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
-  <div class="csl-entry">125.	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. 2009.</div>
+  <div class="csl-entry">125.	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. [2013].</div>
   <div class="csl-entry">126.	卷 39 乞致仕第一[M]//<b>苏魏公文集</b>: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">127.	宋史卷三: 本纪第三[M]//<b>宋史</b>: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">128.	Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>

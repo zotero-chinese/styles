@@ -57,7 +57,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化2000-11-20(15)	</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 大风沙过后的思考2000-01-12	</div>
   <div class="csl-entry">顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992	</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3  北京: 中国标准出版社: 59–92, 1988	</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59-92, 1988	</div>
   <div class="csl-entry">国家环境保护局科技标准司. 土壤环境质量标准. 北京: 中国标准出版社: 2-3, 1996	</div>
   <div class="csl-entry">哈里森·沃尔德伦. 经济数学与金融数学[M]. 北京: 中国人民大学出版社, 2012	</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国[P]. 2001-10-24	</div>
@@ -107,7 +107,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985	</div>
   <div class="csl-entry">佚名. 卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局, 1988: 590	</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000	</div>
-  <div class="csl-entry">Anonymous. Information and documentation—The Dublin core metadata element set. , 2009	</div>
   <div class="csl-entry">佚名. 周易外传: 卷 5[M]//船山全书. 长沙: 岳麓书社, 2011a: 1109	</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b	</div>
   <div class="csl-entry">佚名. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012a	</div>
@@ -115,6 +114,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012c	</div>
   <div class="csl-entry">Anonymous. Dublin core metadata element set: version 1.1(2012-06-14)[06/11/2014]	</div>
   <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. New Delhi: Springer, 2014	</div>
+  <div class="csl-entry">Anonymous. Information and documentation—The Dublin core metadata element set. , no date	</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523	</div>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶: 访中国工程院院长周济2013-01-12(2)	</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219	</div>
@@ -135,7 +135,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Baker S. K., Jackson M. E. The future of resource sharing[M]. New York: The Haworth Press, 1995	</div>
   <div class="csl-entry">Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011	</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy(2008-05-04)[03/08/2013]	</div>
-  <div class="csl-entry">Buseck P. R., Nord G. L., Veblen D. R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211	</div>
+  <div class="csl-entry">Buseck P. R., Nord G. L. Jr., Veblen D. R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117–211	</div>
   <div class="csl-entry">Cairns B. R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965	</div>
   <div class="csl-entry">Calkin D., Ager A., Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report2011	</div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61–66	</div>

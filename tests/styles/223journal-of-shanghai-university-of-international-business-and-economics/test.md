@@ -58,7 +58,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[11]	丁文详.数字革命与竞争国际化[J].中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">[12]	傅刚,赵承,李佳路.大风沙过后的思考[J].北京青年报, 2000-01-12.</div>
   <div class="csl-entry">[13]	顾炎武.昌平山水记: 京东考古录[M].北京: 北京古籍出版社, 1992.</div>
-  <div class="csl-entry">[14]	国家标准局信息分类编码研究所, “世界各国和地区名称代码”, 全国文献工作标准化委员会. 文献工作国家标准汇编: 3[C]. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">[14]	国家标准局信息分类编码研究所.世界各国和地区名称代码: GB/T 2659—1986[M].全国文献工作标准化委员会. 文献工作国家标准汇编: 3[C]. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[15]	国家环境保护局科技标准司.土壤环境质量标准: GB 15616—1995[M].北京: 中国标准出版社, 1996: 2-3.</div>
   <div class="csl-entry">[16]	哈里森·沃尔德伦.经济数学与金融数学[M].谢远涛译.北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">[17]	河北绿洲生态环境科技有限公司.一种荒漠化地区生态植被综合培育种植方法: 01129210.5[M].中国, 2001.</div>
@@ -127,14 +127,14 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[80]	佚名.宋史卷三: 本纪第三[A].宋史[C]. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[81]	Anon, “Coffee Drinking and Cancer of the Pancreas”, British Medical Journal, 1981, 283(6292):628.</div>
   <div class="csl-entry">[82]	佚名.卷 39 乞致仕第一[A].苏魏公文集[C]. 北京: 中华书局, 1988: 590.</div>
-  <div class="csl-entry">[83]	Anon, Information and Documentation—The Dublin Core Metadata Element Set, ISO 15836:2009, 2009.</div>
-  <div class="csl-entry">[84]	佚名.周易外传: 卷 5[A].王夫之. 船山全书[C]. 长沙: 岳麓书社, 2011: 1109.</div>
-  <div class="csl-entry">[85]	Anon, Dublin Core Metadata Element Set: Version 1.1, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, 2012.</div>
+  <div class="csl-entry">[83]	佚名.周易外传: 卷 5[A].王夫之. 船山全书[C]. 长沙: 岳麓书社, 2011: 1109.</div>
+  <div class="csl-entry">[84]	Anon, Dublin Core Metadata Element Set: Version 1.1, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, 2012.</div>
+  <div class="csl-entry">[85]	Anon, Information and Documentation—The Dublin Core Metadata Element Set, ISO 15836:2009.</div>
   <div class="csl-entry">[86]	Babu, B. V., A. K. Nagar, K. Deep, et al., Proceedings of the Second International Conference on Soft Computing for Problem Solving, New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[87]	Baker, S. K., and M. E. Jackson, The Future of Resource Sharing, New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[88]	Baldock, P., Developing Early Childhood Services: Past, Present and Future, Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[89]	Bawden, D., Origins and Concepts of Digital Literacy, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008.</div>
-  <div class="csl-entry">[90]	Buseck, P. R., G. L. Nord, and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes”, Pyroxense[C]. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">[90]	Buseck, P. R., G. L. Nord Jr., and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes”, Pyroxense[C]. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">[91]	Cairns, B. R., Infrared Spectroscopic Studies on Solid Oxygen, Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[92]	Calkin, D., A. Ager, and M. Thompson, A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, RMRS-GTR-262, 2011: 8-9.</div>
   <div class="csl-entry">[93]	Caplan, P., “Cataloging Internet Resources”, The Public-Access Computer Systems Review, 1993, 4(2):61-66.</div>
@@ -159,7 +159,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[112]	Morri, I., Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[113]	Myburg, A. A., D. Grattapaglia, G. A. Tuskan, et al., “The Genome of Eucalyptus Grandis”, Nature, 2014, 510:356-362.</div>
   <div class="csl-entry">[114]	O’Brien, J. A., Introduction to Information Systems, Burr Ridge, III: Irwin, 1994.</div>
-  <div class="csl-entry">[115]	Online Computer Library Center, Inc, About OCLC: History of Cooperation, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+  <div class="csl-entry">[115]	Online Computer Library Center, Inc., About OCLC: History of Cooperation, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">[116]	Park, J. R., and Y. Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, Cataloging &#38; Classification Quarterly, 2010, 48(8):696-715.</div>
   <div class="csl-entry">[117]	Peebles, P. Z., Jr., Probability, Random Variables, and Random Signal Principles, New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">[118]	Praetzellis, A., Death by Theory: A Tale of Mystery and Archaeological Theory, Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
@@ -170,7 +170,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">[123]	Tachibana, R., S. Shimizu, S. Kobayshi, et al., Electronic Watermarking Method and System, US6915001, US, 2005.</div>
   <div class="csl-entry">[124]	U.S. Department of Transportation Federal Highway Administration, Guidelines for Handling Excavated Acid-Producing Material, PB 91-194001, Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[125]	Walls, S. C., W. J. Barichivich, and M. E. Brown, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, Biology, 2013, 2(1):399-418.</div>
-  <div class="csl-entry">[126]	Weinstein, L., and M. N. Swertz, “Pathogenic Properties of Invading Microorganism”, Sodeman, W. A., Jr, and W. A. Sodeman. Pathologic Physiology: Mechanisms of Disease[C]. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[126]	Weinstein, L., and M. N. Swertz, “Pathogenic Properties of Invading Microorganism”, Sodeman, W. A., Jr., and W. A. Sodeman. Pathologic Physiology: Mechanisms of Disease[C]. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[127]	World Health Organization, Factors Regulating the Immune Response: Report of WHO Scientific Group, Geneva: WHO, 1970.</div>
   <div class="csl-entry">[128]	Yufin, S. A., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Rotterdam: A. A. Balkema, 2000.</div>
 </div>

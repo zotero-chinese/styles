@@ -60,7 +60,7 @@
 <sup>20</sup> 陈晋镳, 张惠民, 朱士兴, 赵震, and 王振刚, “蓟县震旦亚界研究,” in 中国地质科学院天津地质矿产研究所 (ed.), 中国震旦亚界, 天津: 天津科学技术出版社, 1980, pp. 56–114.<br>
 <sup>21</sup> 马克思, “政治经济学批判,” in 马克思 and 恩格斯 (eds.), 马克思恩格斯全集, 北京: 人民出版社, 2013, p. 302.<br>
 <sup>22</sup> 贾东琴 and 柯平, “面向数字素养的高校图书馆数字服务体系研究,” in 中国图书馆学会 (ed.), 中国图书馆学会年会论文集, 北京: 国家图书馆出版社, 2011, pp. 45–52.<br>
-<sup>23</sup> L. Weinstein and M. N. Swertz, “Pathogenic Properties of Invading Microorganism,” in W. A. Sodeman Jr and W. A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp. 745–772.<br>
+<sup>23</sup> L. Weinstein and M. N. Swertz, “Pathogenic Properties of Invading Microorganism,” in W. A. Sodeman Jr. and W. A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp. 745–772.<br>
 <sup>24</sup> J. A. Roberson and E. G. Burneson, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
 <sup>25</sup> 中华医学会湖北分会, 临床内科杂志, 武汉: 中华医学会湖北分会, 1984.<br>
 <sup>26</sup> 中国图书馆学会, 图书馆学通讯, 北京: 北京图书馆, 1957.<br>
@@ -80,7 +80,7 @@
 <sup>40</sup> 中国互联网络信息中心, <i>第 29 次中国互联网络发展现状统计报告</i>, 2012.<br>
 <sup>41</sup> 北京市人民政府办公厅, 关于转发北京市企业投资项目核准暂行实施办法的通知, 2005.<br>
 <sup>42</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, March 8, 2013.<br>
-<sup>43</sup> Online Computer Library Center, Inc, <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>, March 27, 2012.<br>
+<sup>43</sup> Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>, March 27, 2012.<br>
 <sup>44</sup> A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, April 22, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, March 27, 2013.<br>
 <sup>45</sup> “Coffee Drinking and Cancer of the Pancreas,” <i>British Medical Journal</i>, vol. 283, no. 6292 (1981), p. 628.<br>
 <sup>46</sup> 刘乃安, 生物质材料热解失重动力学及其分析方法研究, 合肥: 中国科学技术大学, 2000, pp. 17–18.<br>
@@ -140,14 +140,14 @@
 <sup>100</sup> 全国信息与文献标准化技术委员会, <i>文献著录: 第 4 部分 非书资料</i>, 北京: 中国标准出版社, 2010, p. 3.<br>
 <sup>101</sup> 全国广播电视标准化技术委员会, <i>广播电视音像资料编目规范: 第 2 部分 广播资料</i>, 北京: 国家广播电影电视总局广播电视规划院, 2007, p. 1.<br>
 <sup>102</sup> 国家环境保护局科技标准司, 土壤环境质量标准, 北京: 中国标准出版社, 1996, pp. 2–3.<br>
-<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>, 2009.<br>
+<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.<br>
 <sup>104</sup> “卷 39 乞致仕第一,” in 苏魏公文集, 北京: 中华书局, 1988, p. 590.<br>
 <sup>105</sup> 白书农, “植物开花研究,” in 李承森 (ed.), 植物科学进展, 北京: 高等教育出版社, 1998, pp. 146–163.<br>
 <sup>106</sup> 汪学军, “中国农业转基因生物研究进展与安全管理,” in 国家环境保护总局生物安全管理办公室 (ed.), 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京: 中国环境科学出版社, 2002, pp. 22–25.<br>
 <sup>107</sup> 国家标准局信息分类编码研究所, “世界各国和地区名称代码,” in 全国文献工作标准化委员会 (ed.), <i>文献工作国家标准汇编: 3</i>, 北京: 中国标准出版社, 1988, pp. 59–92.<br>
 <sup>108</sup> “宋史卷三: 本纪第三,” in 宋史, 北京: 中华书局, 1977, p. 49.<br>
 <sup>109</sup> 楼梦鳞 and 杨燕, “汶川地震基岩地震动特征分析,” in 同济大学土木工程防灾国家重点实验室 (ed.), 汶川地震震害研究, 上海: 同济大学出版社, 2011, pp. 011–012.<br>
-<sup>110</sup> P. R. Buseck, G. L. Nord, and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117–211.<br>
+<sup>110</sup> P. R. Buseck, G. L. Nord Jr., and D. R. Veblen, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117–211.<br>
 <sup>111</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp. 17–38.<br>
 <sup>112</sup> 杨洪升, “四库馆私家抄校书考略,” 文献, no. 1 (2013), pp. 56–75.<br>
 <sup>113</sup> 李炳穆, “韩国图书馆法,” 图书情报工作, vol. 52, no. 6 (2008), pp. 6–21.<br>

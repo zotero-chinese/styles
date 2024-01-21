@@ -57,7 +57,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">10.	丁文详．数字革命与竞争国际化．中国青年报，2000:15</div>
   <div class="csl-entry">11.	傅刚，赵承，李佳路．大风沙过后的思考．北京青年报，2000</div>
   <div class="csl-entry">12.	顾炎武．昌平山水记: 京东考古录．北京: 北京古籍出版社, 1992</div>
-  <div class="csl-entry">13.	国家标准局信息分类编码研究所. 世界各国和地区名称代码. 全国文献工作标准化委员会, ed.//北京: 中国标准出版社, 1988: 59–92</div>
+  <div class="csl-entry">13.	国家标准局信息分类编码研究所．世界各国和地区名称代码．全国文献工作标准化委员会, 编//<i>文献工作国家标准汇编: 3</i>．北京: 中国标准出版社, 1988: 59–92</div>
   <div class="csl-entry">14.	国家环境保护局科技标准司．土壤环境质量标准．北京: 中国标准出版社, 1996: 2–3</div>
   <div class="csl-entry">15.	哈里森·沃尔德伦．经济数学与金融数学．谢远涛, 译．北京: 中国人民大学出版社, 2012: 235–236</div>
   <div class="csl-entry">16.	河北绿洲生态环境科技有限公司．一种荒漠化地区生态植被综合培育种植方法．2001-10-24</div>
@@ -121,7 +121,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">74.	Baker SK, Jackson ME. The future of resource sharing. New York: The Haworth Press, 1995</div>
   <div class="csl-entry">75.	Baldock P. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105</div>
   <div class="csl-entry">76.	Bawden D. Origins and concepts of digital literacy(2008-05-04)</div>
-  <div class="csl-entry">77.	Buseck PR, Nord GL, Veblen DR. Subsolidus phenomena in pyroxenes//Washington, D.C.: Mineralogical Society of America, c1980: 117–211</div>
+  <div class="csl-entry">77.	Buseck PR, Nord GL Jr, Veblen DR. Subsolidus phenomena in pyroxenes//Washington, D.C.: Mineralogical Society of America, c1980: 117–211</div>
   <div class="csl-entry">78.	Cairns BR. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California, 1965</div>
   <div class="csl-entry">79.	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. </div>
   <div class="csl-entry">80.	Caplan P. Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>. 1993, 4:61–66. </div>
@@ -165,14 +165,14 @@ Qian et al （2009a）<br>
   <div class="csl-entry">118.	佚名．职工教育研究论文集．中国职工教育研究会, 编．北京: 人民教育出版社, 1985</div>
   <div class="csl-entry">119.	佚名．卷 39 乞致仕第一//苏魏公文集．北京: 中华书局, 1988: 590</div>
   <div class="csl-entry">120.	Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin SA, ed.. Rotterdam: A. A. Balkema, 2000</div>
-  <div class="csl-entry">121.	Anonymous. Information and documentation—The Dublin core metadata element set. </div>
-  <div class="csl-entry">122.	佚名．周易外传: 卷 5．王夫之, 编//船山全书．长沙: 岳麓书社, 2011a: 1109</div>
-  <div class="csl-entry">123.	佚名．中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集．陈志勇, 编．北京: 经济科学出版社, 2011b</div>
-  <div class="csl-entry">124.	佚名．综合湿地管理国际研讨会论文集．牛志明, 斯温兰德, 雷光春, 编．北京: 海洋出版社, 2012a</div>
-  <div class="csl-entry">125.	佚名．台湾光复六十五周年暨抗战史实学术研讨会论文集．中国社会科学院台湾史研究中心, 编．北京: 九州出版社, 2012b</div>
-  <div class="csl-entry">126.	佚名．综合湿地管理: 综合湿地管理国际研讨会论文集．雷光春, 编．北京: 海洋出版社, 2012c</div>
-  <div class="csl-entry">127.	Anonymous. Dublin core metadata element set: version 1.1(2012-06-14)</div>
-  <div class="csl-entry">128.	Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U, eds.. New Delhi: Springer, 2014</div>
+  <div class="csl-entry">121.	佚名．周易外传: 卷 5．王夫之, 编//船山全书．长沙: 岳麓书社, 2011a: 1109</div>
+  <div class="csl-entry">122.	佚名．中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集．陈志勇, 编．北京: 经济科学出版社, 2011b</div>
+  <div class="csl-entry">123.	佚名．综合湿地管理国际研讨会论文集．牛志明, 斯温兰德, 雷光春, 编．北京: 海洋出版社, 2012a</div>
+  <div class="csl-entry">124.	佚名．台湾光复六十五周年暨抗战史实学术研讨会论文集．中国社会科学院台湾史研究中心, 编．北京: 九州出版社, 2012b</div>
+  <div class="csl-entry">125.	佚名．综合湿地管理: 综合湿地管理国际研讨会论文集．雷光春, 编．北京: 海洋出版社, 2012c</div>
+  <div class="csl-entry">126.	Anonymous. Dublin core metadata element set: version 1.1(2012-06-14)</div>
+  <div class="csl-entry">127.	Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U, eds.. New Delhi: Springer, 2014</div>
+  <div class="csl-entry">128.	Anonymous. Information and documentation—The Dublin core metadata element set. </div>
 </div>
 
 ### 《心理学报》 示例文献

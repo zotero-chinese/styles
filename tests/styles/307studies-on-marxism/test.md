@@ -25,11 +25,11 @@
 ### 引注
 
 <sup>1</sup> Cass R. Sunstein：《Social norms and social roles》第96卷，《Columbia Law Review》1996年，第903页。<br>
-<sup>2</sup> I Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
-<sup>3</sup> I Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
-<sup>4</sup> I Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第260页。<br>
+<sup>2</sup> I. Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
+<sup>3</sup> I. Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
+<sup>4</sup> I. Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第260页。<br>
 <sup>5</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞等译，大连：东北财经大学出版社，2011年，第15-16页。<br>
-<sup>6</sup> I Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第326-329页。<br>
+<sup>6</sup> I. Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第326-329页。<br>
 
 ### GB/T 7714—2015 示例文献
 
@@ -47,7 +47,7 @@
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年。<br>
 <sup>13</sup> 中国造纸学会：《中国造纸年鉴: 2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>14</sup> Peyton Z. Peebles Jr.：《Probability, random variables, and random signal principles》，New York：McGraw-Hill，2001年。<br>
-<sup>15</sup> Sergey A Yufin主编：《Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering》，Rotterdam：A. A. Balkema，2000年。<br>
+<sup>15</sup> Sergey A. Yufin主编：《Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering》，Rotterdam：A. A. Balkema，2000年。<br>
 <sup>16</sup> Peter Baldock：《Developing early childhood services: Past, present and future》，Rotterdam：Open University Press，2011年。<br>
 <sup>17</sup> Xuetong Fan、Christopher H. Sommers：《Food irradiation research and technology》，Ames, Iowa：Blackwell Publishing，2013年。<br>
 <sup>18</sup> 王夫之主编：《周易外传: 卷 5》（第 6 册），《船山全书》，长沙：岳麓书社，2011年。<br>
@@ -55,7 +55,7 @@
 <sup>20</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年。<br>
 <sup>21</sup> 马克思：《政治经济学批判》（第 35 卷），马克思、恩格斯主编：《马克思恩格斯全集》，北京：人民出版社，2013年。<br>
 <sup>22</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》（2011 年卷），中国图书馆学会主编：《中国图书馆学会年会论文集》，北京：国家图书馆出版社，2011年。<br>
-<sup>23</sup> L Weinstein、M N Swertz：《Pathogenic properties of invading microorganism》，William A Sodeman Jr、William A Sodeman主编：《Pathologic physiology: mechanisms of disease》，Philadelphia：Saunders，1974年。<br>
+<sup>23</sup> L. Weinstein、M. N. Swertz：《Pathogenic properties of invading microorganism》，William A Sodeman Jr.、William A. Sodeman主编：《Pathologic physiology: mechanisms of disease》，Philadelphia：Saunders，1974年。<br>
 <sup>24</sup> J. Alan Roberson、Eric G. Burneson：《Drinking water standards, regulations and goals》，American Water Works Association主编：《Water quality &#38; treatment: a handbook on drinking water》，New York：McGraw-Hill，2011年。<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。<br>
@@ -65,8 +65,8 @@
 <sup>30</sup> 李炳穆：《韩国图书馆法》第52卷，《图书情报工作》2008年第6期。<br>
 <sup>31</sup> 李幼平、王莉：《循证医学研究方法: 附视频》第4卷，《中华移植杂志(电子版)》2010年第3期。<br>
 <sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》第33卷，《测绘科学》2008年第5期。<br>
-<sup>33</sup> H Kanamori：《Shaking without quaking》第279卷，《Science》1998年第5359期。<br>
-<sup>34</sup> P Caplan：《Cataloging internet resources》第4卷，《The Public-Access Computer Systems Review》1993年第2期。<br>
+<sup>33</sup> H. Kanamori：《Shaking without quaking》第279卷，《Science》1998年第5359期。<br>
+<sup>34</sup> P. Caplan：《Cataloging internet resources》第4卷，《The Public-Access Computer Systems Review》1993年第2期。<br>
 <sup>35</sup> Karen S. Frese、Hugo A. Katus、Benjamin Meder：《Next-generation sequencing: from understanding biology to personalized medicine》第2卷，《Biology》2013年第1期。<br>
 <sup>36</sup> Alexander A. Myburg、Dario Grattapaglia、Gerald A. Tuskan、Uffe Hellsten、Jeremy Schmutz、等：《The genome of eucalyptus grandis》第510卷，《Nature》2014年。<br>
 <sup>37</sup> 邓一刚：《全智能节电器》，中国，2006年。<br>
@@ -74,28 +74,28 @@
 <sup>39</sup> Ryuki Tachibana、Shuhichi Shimizu、Seiji Kobayshi、Taiga Nakamura：《Electronic watermarking method and system》，US，2005年。<br>
 <sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年。<br>
 <sup>41</sup> 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，2005年。<br>
-<sup>42</sup> D Bawden：《Origins and concepts of digital literacy》，2008年，<a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>。<br>
-<sup>43</sup> Online Computer Library Center, Inc：《About OCLC: History of cooperation》，<a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>。<br>
-<sup>44</sup> A Hopkinson：《UNIMARC and metadata: Dublin core》，2009年，<a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>。<br>
+<sup>42</sup> D. Bawden：《Origins and concepts of digital literacy》，2008年，<a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>。<br>
+<sup>43</sup> Online Computer Library Center, Inc.：《About OCLC: History of cooperation》，<a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>。<br>
+<sup>44</sup> A. Hopkinson：《UNIMARC and metadata: Dublin core》，2009年，<a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>。<br>
 <sup>45</sup> 《Coffee drinking and cancer of the pancreas》第283卷，《British Medical Journal》1981年第6292期。<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，合肥：中国科学技术大学，2000年。<br>
 <sup>47</sup> William Deverell、David Igler：《A companion to California history》，New York：John Wiley &#38; Sons，2013年。<br>
-<sup>48</sup> S K Baker、M E Jackson：《The future of resource sharing》，New York：The Haworth Press，1995年。<br>
-<sup>49</sup> B E Chernik：《Introduction to library services for library technicians》，Littleton, Colo.：Libraries Unlimited, Inc.，1982年。<br>
+<sup>48</sup> S. K. Baker、M. E. Jackson：《The future of resource sharing》，New York：The Haworth Press，1995年。<br>
+<sup>49</sup> B. E. Chernik：《Introduction to library services for library technicians》，Littleton, Colo.：Libraries Unlimited, Inc.，1982年。<br>
 <sup>50</sup> 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海口：海南出版社，1996年。<br>
 <sup>51</sup> 汪冰：《电子图书馆理论与实践研究》，北京：北京图书馆出版社，1997年。<br>
 <sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
 <sup>53</sup> Lawrence Dowler：《The research university’s dilemma: Resource sharing and research in a transinstitutional environment》第21卷，《Journal of Library Administration》1995年第1/2期。<br>
 <sup>54</sup> Cass R. Sunstein：《Social norms and social roles》第96卷，《Columbia Law Review》1996年。<br>
-<sup>55</sup> I Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
+<sup>55</sup> I. Morri：《Why the west rules for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
 <sup>56</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞等译，大连：东北财经大学出版社，2011年。<br>
 <sup>57</sup> 陈登原：《国史旧闻》（第 1 卷），北京：中华书局，2000年。<br>
 <sup>58</sup> Diana Crane：《Invisible college》，Chicago：Univ. of Chicago Press，1972年。<br>
-<sup>59</sup> Margaret F Stieg：《The information needs of historians》第42卷，《College &#38; Research Libraries》1981年第6期。<br>
+<sup>59</sup> Margaret F. Stieg：《The information needs of historians》第42卷，《College &#38; Research Libraries》1981年第6期。<br>
 <sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》第37卷，《山西师范大学学报(社会科学版)》2010年第4期。<br>
 <sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，曹志耘主编：《汉语方言的地理语言学研究》，北京：商务印书馆，2010年。<br>
-<sup>62</sup> W. James Kennedy、Robert E. Garrison：《Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England》第22卷，《Sedimentology》1975年。<br>
-<sup>63</sup> W. James Kennedy、Robert E. Garrison：《Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England》第8卷，《Lethaia》1975年第4期。<br>
+<sup>62</sup> William James Kennedy、Robert E. Garrison：《Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England》第22卷，《Sedimentology》1975年。<br>
+<sup>63</sup> William James Kennedy、Robert E. Garrison：《Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England》第8卷，《Lethaia》1975年第4期。<br>
 <sup>64</sup> 张忠智：《科技书刊的总编(主编)的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会，1997年。<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》，北京：商务印书馆，1996年。<br>
 <sup>66</sup> 刘彻东：《中国的青年刊物: 个性特色为本仁》，《中国出版》1998年第5期。<br>
@@ -111,19 +111,19 @@
 <sup>76</sup> 罗斯基：《战前中国经济的增长》，唐巧天等译，杭州：浙江大学出版社，2009年。<br>
 <sup>77</sup> 库恩：《科学革命的结构: 第 4 版》，金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>
 <sup>78</sup> 侯文顺：《高分子物理: 高分子材料分析、选择与改性》，北京：化学工业出版社，2010年。<br>
-<sup>79</sup> W Crawford、M Gorman：《Future libraries: Dreams, madness, &#38; reality》，Chicago：American Library Association，1995年。<br>
+<sup>79</sup> W. Crawford、M. Gorman：《Future libraries: Dreams, madness, &#38; reality》，Chicago：American Library Association，1995年。<br>
 <sup>80</sup> International Federation of Library Association and Institutions：《Names of persons: National usages for entry in catalogues》，London：IFLA International Office for UBC，1977年。<br>
-<sup>81</sup> J A O’Brien：《Introduction to information systems》，Burr Ridge, III：Irwin，1994年。<br>
-<sup>82</sup> A Kinchy：《Seeds, sciences, and struggle: the global politics of transgenic crops》，Cambridge, Mass.：MIT Press，2012年。<br>
+<sup>81</sup> J. A. O’Brien：《Introduction to information systems》，Burr Ridge, III：Irwin，1994年。<br>
+<sup>82</sup> A. Kinchy：《Seeds, sciences, and struggle: the global politics of transgenic crops》，Cambridge, Mass.：MIT Press，2012年。<br>
 <sup>83</sup> Adrian Praetzellis：《Death by theory: a tale of mystery and archaeological theory》，Rowman &#38; Littlefield Publishing Group, Inc.，2011年。<br>
 <sup>84</sup> 中国职工教育研究会主编：《职工教育研究论文集》，北京：人民教育出版社，1985年。<br>
 <sup>85</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
 <sup>86</sup> 雷光春主编：《综合湿地管理: 综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
 <sup>87</sup> 陈志勇主编：《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
-<sup>88</sup> B V Babu、Atulya K. Nagar、Kusum Deep、Millie Pant、Jagdish Chand Bansal、Kanad Ray、Umesh Gupta主编：《Proceedings of the Second International Conference on Soft Computing for Problem Solving》，New Delhi：Springer，2014年。<br>
+<sup>88</sup> B. V. Babu、Atulya K. Nagar、Kusum Deep、Millie Pant、Jagdish Chand Bansal、Kanad Ray、Umesh Gupta主编：《Proceedings of the Second International Conference on Soft Computing for Problem Solving》，New Delhi：Springer，2014年。<br>
 <sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年。<br>
 <sup>90</sup> 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。<br>
-<sup>91</sup> D Calkin、A Ager、M Thompson：《A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report》，2011年。<br>
+<sup>91</sup> D. Calkin、A. Ager、M. Thompson：《A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report》，2011年。<br>
 <sup>92</sup> U.S. Department of Transportation Federal Highway Administration：《Guidelines for handling excavated acid-producing material》，Springfield：U.S. Department of Commerce National Information Service，1990年。<br>
 <sup>93</sup> World Health Organization：《Factors regulating the immune response: Report of WHO Scientific Group》，Geneva：WHO，1970年。<br>
 <sup>94</sup> 马欢：《人类活动影响下海河流域典型区水循环变化分析》，北京：清华大学，2011年。<br>
@@ -135,21 +135,21 @@
 <sup>100</sup> 全国信息与文献标准化技术委员会：《文献著录: 第 4 部分 非书资料》，北京：中国标准出版社，2010年。<br>
 <sup>101</sup> 全国广播电视标准化技术委员会：《广播电视音像资料编目规范: 第 2 部分 广播资料》，北京：国家广播电影电视总局广播电视规划院，2007年。<br>
 <sup>102</sup> 国家环境保护局科技标准司：《土壤环境质量标准》，北京：中国标准出版社，1996年。<br>
-<sup>103</sup> 《Information and documentation—The Dublin core metadata element set》，2009年。<br>
+<sup>103</sup> 《Information and documentation—The Dublin core metadata element set》。<br>
 <sup>104</sup> 《卷 39 乞致仕第一》（下册），《苏魏公文集》，北京：中华书局，1988年。<br>
 <sup>105</sup> 白书农：《植物开花研究》，李承森主编：《植物科学进展》，北京：高等教育出版社，1998年。<br>
 <sup>106</sup> 汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年。<br>
 <sup>107</sup> 国家标准局信息分类编码研究所：《世界各国和地区名称代码》，北京：中国标准出版社，1988年。<br>
 <sup>108</sup> 《宋史卷三: 本纪第三》（第 1 册），《宋史》，北京：中华书局，1977年。<br>
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年。<br>
-<sup>110</sup> P R Buseck、G L Nord、D R Veblen：《Subsolidus phenomena in pyroxenes》，《Pyroxense》，Washington, D.C.：Mineralogical Society of America，c1980年。<br>
-<sup>111</sup> M E Fourney：《Advances in holographic photoelasticity》，《Symposium on Applications of Holography in Mechanics》，New York：ASME，c1971年。<br>
+<sup>110</sup> Peter R. Buseck、Gordon L Nord Jr.、David R. Veblen：《Subsolidus phenomena in pyroxenes》，《Pyroxense》，Washington, D.C.：Mineralogical Society of America，c1980年。<br>
+<sup>111</sup> M. E. Fourney：《Advances in holographic photoelasticity》，《Symposium on Applications of Holography in Mechanics》，New York：ASME，c1971年。<br>
 <sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
 <sup>113</sup> 李炳穆：《韩国图书馆法》第52卷，《图书情报工作》2008年第6期。<br>
 <sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》第52卷，《清华大学学报(自然科学版)》2012年第11期。<br>
 <sup>115</sup> 陈建军：《从数字地球到智慧地球》第7卷，《国土资源导刊》2010年第10期。<br>
 <sup>116</sup> David J. Des Marais、Harald Strauss、Roger E. Summons、J. M. Hayes：《Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment》第359卷，《Nature》1992年第6396期。<br>
-<sup>117</sup> M Saito、K Miyazaki：《Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu》第57卷，《Bulletin of the geological survey of Japan》2006年第5/6期。<br>
+<sup>117</sup> M. Saito、K. Miyazaki：《Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu》第57卷，《Bulletin of the geological survey of Japan》2006年第5/6期。<br>
 <sup>118</sup> Susan C. Walls、William J. Barichivich、Mary E. Brown：《Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate》第2卷，《Biology》2013年第1期。<br>
 <sup>119</sup> Annaliese K. Franz、Megan A. Danielewicz、Diana M. Wong、Lisa A. Anderson、Jordan R. Boothe：《Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity》第8卷，《ACS Chemical Biology》2013年。<br>
 <sup>120</sup> Jung-Ran Park、Yuji Tosaka：《Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms》第48卷，《Cataloging &#38; Classification Quarterly》2010年第8期。<br>

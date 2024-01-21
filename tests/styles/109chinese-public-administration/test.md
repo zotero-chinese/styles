@@ -128,14 +128,14 @@ Undefined
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京, 2010: 3.</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京, 2007: 1.</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京, 1996: 2-3.</div>
-  <div class="csl-entry">[103]	<i>Information and documentation—The Dublin core metadata element set</i>: ISO 15836:2009. 2009.</div>
+  <div class="csl-entry">[103]	<i>Information and documentation—The Dublin core metadata element set</i>: ISO 15836:2009. [2013].</div>
   <div class="csl-entry">[104]	卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京, 2002: 22-25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986//全国文献工作标准化委员会. <i>文献工作国家标准汇编: 3</i>. 北京, 1988: 59-92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. <i>文献工作国家标准汇编: 3</i>. 北京, 1988: 59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海, 2011: 011-012.</div>
-  <div class="csl-entry">[110]	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes//<i>Pyroxense</i>. Washington, D.C., c1980: 117-211.</div>
+  <div class="csl-entry">[110]	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes//<i>Pyroxense</i>. Washington, D.C., c1980: 117-211.</div>
   <div class="csl-entry">[111]	Fourney M E. Advances in holographic photoelasticity//<i>Symposium on Applications of Holography in Mechanics</i>, August 23–25, 1971, University of Southern California, Los Angeles, California. New York, c1971: 17-38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013（1）.</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008（6）.</div>

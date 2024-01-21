@@ -108,9 +108,9 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名, 1977. 宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局: 49.</div>
   <div class="csl-entry">Anon, 1981. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">佚名, 1988. 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局: 590.</div>
-  <div class="csl-entry">Anon, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   <div class="csl-entry">佚名, 2011. 周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">Anon, 2012. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">Anon, [2013]. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等, 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌, 2013. 我们的科技一直在追赶: 访中国工程院院长周济[N/OL]. 人民日报, 2013-01-12(2)[2013-03-20]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>.</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 等, 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 57(34): 3219.</div>
@@ -134,7 +134,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">BALDOCK P, 2011. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press: 105[2012-11-27]. <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+  <div class="csl-entry">BUSECK P R, NORD G L Jr, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
   <div class="csl-entry">CAIRNS B R, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CALKIN D, AGER A, THOMPSON M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 8-9.</div>
   <div class="csl-entry">CAPLAN P, 1993. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 4(2): 61-66.</div>
@@ -159,7 +159,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">MORRI I, 2010. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J/OL]. Nature, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   <div class="csl-entry">O’BRIEN J A, 1994. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc, [2012]. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc., [2012]. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly, 48(8): 696-715[2013-09-05]. <a href="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</a>. DOI:<a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
   <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">PRAETZELLIS A, 2011. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>

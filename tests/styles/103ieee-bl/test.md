@@ -48,7 +48,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 赵震和王振刚, “蓟县震旦亚界研究”, 收入 中国震旦亚界, 中国地质科学院天津地质矿产研究所, 编 天津: 天津科学技术出版社, 1980, 页 56–114.</div>
   <div class="csl-entry">[21]	马克思, “政治经济学批判”, 收入 马克思恩格斯全集, 卷 第 35 卷, 马克思和恩格斯, 编 北京: 人民出版社, 2013, 页 302.</div>
   <div class="csl-entry">[22]	贾东琴和柯平, “面向数字素养的高校图书馆数字服务体系研究”, 收入 中国图书馆学会年会论文集, 北京, 2011, 卷 2011 年卷, 页 45–52.</div>
-  <div class="csl-entry">[23]	L. Weinstein and M. N. Swertz, “Pathogenic properties of invading microorganism”, in <i>Pathologic physiology: mechanisms of disease</i>, W. A. Sodeman Jr and W. A. Sodeman, Eds. Philadelphia: Saunders, 1974, pp. 745–772.</div>
+  <div class="csl-entry">[23]	L. Weinstein and M. N. Swertz, “Pathogenic properties of invading microorganism”, in <i>Pathologic physiology: mechanisms of disease</i>, W. A. Sodeman Jr. and W. A. Sodeman, Eds. Philadelphia: Saunders, 1974, pp. 745–772.</div>
   <div class="csl-entry">[24]	J. A. Roberson and E. G. Burneson, “Drinking water standards, regulations and goals”, in <i>Water quality &#38; treatment: a handbook on drinking water</i>, 6th ed., American Water Works Association, Ed. New York: McGraw-Hill, 2011, p. 1.1-1.36. Accessed: Dec. 10, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a></div>
   <div class="csl-entry">[25]	中华医学会湖北分会, “临床内科杂志”, 卷 1, 期 1. 中华医学会湖北分会, 武汉, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会, “图书馆学通讯”, 期 1–4. 北京图书馆, 北京, 1957.</div>
@@ -68,7 +68,7 @@ Undefined
   <div class="csl-entry">[40]	中国互联网络信息中心, “第 29 次中国互联网络发展现状统计报告”, 1月 2012. 见于: 3月 26, 2013. [在线]. 载于: <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
   <div class="csl-entry">[41]	北京市人民政府办公厅, 关于转发北京市企业投资项目核准暂行实施办法的通知. 2005. 见于: 7月 12, 2011. [在线]. 载于: <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a></div>
   <div class="csl-entry">[42]	D. Bawden, “Origins and concepts of digital literacy”, May 04, 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (accessed Mar. 08, 2013).</div>
-  <div class="csl-entry">[43]	Online Computer Library Center, Inc, “About OCLC: History of cooperation”. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (accessed Mar. 27, 2012).</div>
+  <div class="csl-entry">[43]	Online Computer Library Center, Inc., “About OCLC: History of cooperation”. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (accessed Mar. 27, 2012).</div>
   <div class="csl-entry">[44]	A. Hopkinson, “UNIMARC and metadata: Dublin core”, Apr. 22, 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> (accessed Mar. 27, 2013).</div>
   <div class="csl-entry">[45]	“Coffee drinking and cancer of the pancreas”, <i>Br. Med. J.</i>, vol. 283, no. 6292, p. 628, 1981.</div>
   <div class="csl-entry">[46]	刘乃安, “生物质材料热解失重动力学及其分析方法研究”, 中国科学技术大学, 合肥, 2000. doi: <a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>.</div>
@@ -128,14 +128,14 @@ Undefined
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会, “文献著录: 第 4 部分 非书资料”. 中国标准出版社, 北京, 页 3, 2010.</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会, “广播电视音像资料编目规范: 第 2 部分 广播资料”. 国家广播电影电视总局广播电视规划院, 北京, 页 1, 2007.</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司, “土壤环境质量标准”. 中国标准出版社, 北京, 页 2–3, 1996. 见于: 10月 14, 2013. [在线]. 载于: <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a></div>
-  <div class="csl-entry">[103]	“Information and documentation—The Dublin core metadata element set”. 2009. Accessed: Mar. 24, 2013. [Online]. Available: <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a></div>
+  <div class="csl-entry">[103]	“Information and documentation—The Dublin core metadata element set”. Accessed: Mar. 24, 2013. [Online]. Available: <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a></div>
   <div class="csl-entry">[104]	“卷 39 乞致仕第一”, 收入 苏魏公文集, 卷 下册, 北京: 中华书局, 1988, 页 590.</div>
   <div class="csl-entry">[105]	白书农, “植物开花研究”, 收入 植物科学进展, 李承森, 编 北京: 高等教育出版社, 1998, 页 146–163.</div>
   <div class="csl-entry">[106]	汪学军, “中国农业转基因生物研究进展与安全管理”, 收入 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 2002, 页 22–25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所, “世界各国和地区名称代码”, <i>文献工作国家标准汇编: 3</i>. 中国标准出版社, 北京, pp. 59–92, 1988.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所, “世界各国和地区名称代码”, <i>文献工作国家标准汇编: 3</i>. 中国标准出版社, 北京, 页 59–92, 1988.</div>
   <div class="csl-entry">[108]	“宋史卷三: 本纪第三”, 收入 宋史, 卷 第 1 册, 北京: 中华书局, 1977, 页 49.</div>
   <div class="csl-entry">[109]	楼梦鳞和杨燕, “汶川地震基岩地震动特征分析”, 收入 汶川地震震害研究, 同济大学土木工程防灾国家重点实验室, 编 上海: 同济大学出版社, 2011, 页 011–012. 见于: 5月 09, 2013. [在线]. 载于: <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a></div>
-  <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord, and D. R. Veblen, “Subsolidus phenomena in pyroxenes”, in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117–211.</div>
+  <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord Jr., and D. R. Veblen, “Subsolidus phenomena in pyroxenes”, in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117–211.</div>
   <div class="csl-entry">[111]	M. E. Fourney, “Advances in holographic photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, University of Southern California, Los Angeles, California, c1971, pp. 17–38.</div>
   <div class="csl-entry">[112]	杨洪升, “四库馆私家抄校书考略”, 文献, 期 1, 页 56–75, 2013.</div>
   <div class="csl-entry">[113]	李炳穆, “韩国图书馆法”, 图书情报工作, 卷 52, 期 6, 页 6–21, 2008.</div>

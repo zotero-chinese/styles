@@ -57,7 +57,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">丁文详. 2000. 数字革命与竞争国际化. 中国青年报, 15.</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 2000. 大风沙过后的思考. 北京青年报[2005–09–28].</div>
   <div class="csl-entry">顾炎武. 1992. 昌平山水记: 京东考古录. 北京: 北京古籍出版社.</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59～92.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59～92.</div>
   <div class="csl-entry">国家环境保护局科技标准司. 1996. 土壤环境质量标准: GB 15616—1995. 北京: 中国标准出版社: 2～3[2013–10–14].</div>
   <div class="csl-entry">哈里森·沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社: 235～236.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5. 2001–10–24[2002–05–28].</div>
@@ -98,16 +98,16 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">西安电子科技大学. 2002. 光折变自适应光外差探测方法: 01128777.2. 2002–03–06[2002–05–28].</div>
   <div class="csl-entry">萧钰. 2001. 出版业信息化迈入快车道(2001–12–19)[2002–04–15].</div>
   <div class="csl-entry">徐光宪, 王祥云. 2010. 物质结构. 北京: 科学出版社.</div>
-  <div class="csl-entry">杨宗英. 1996. 电子图书馆的现实模型. 中国图书馆学报, 2: 24～29.</div>
   <div class="csl-entry">杨保军. 2012. 新闻道德论. 北京: 中国人民大学出版社[2012–11–01].</div>
   <div class="csl-entry">杨洪升. 2013. 四库馆私家抄校书考略. 文献, 1: 56～75.</div>
+  <div class="csl-entry">杨宗英. 1996. 电子图书馆的现实模型. 中国图书馆学报, 2: 24～29.</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 11: 1518～1523.</div>
   <div class="csl-entry">余建斌. 2013. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2[2013–03–20].</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 34: 3219.</div>
-  <div class="csl-entry">张忠智. 1997. 科技书刊的总编(主编)的角色要求. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会: 33～34.</div>
-  <div class="csl-entry">张田勤. 2000. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7.</div>
   <div class="csl-entry">张伯伟. 2002. 全唐五代诗格汇考. 南京: 江苏古籍出版社: 288.</div>
   <div class="csl-entry">张凯军. 2012. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2. 2012–04–05.</div>
+  <div class="csl-entry">张田勤. 2000. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7.</div>
+  <div class="csl-entry">张忠智. 1997. 科技书刊的总编(主编)的角色要求. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会: 33～34.</div>
   <div class="csl-entry">赵学功. 2001. 当代美国外交. 北京: 社会科学文献出版社[2014–06–11].</div>
   <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆. 2001. 中国明朝档案总汇. 桂林: 广西师范大学出版社.</div>
   <div class="csl-entry">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展现状统计报告. [2013–03–26].</div>
@@ -124,7 +124,6 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">佚名. 1985. 职工教育研究论文集. 中国职工教育研究会, 编. 北京: 人民教育出版社.</div>
   <div class="csl-entry">佚名. 1988. 卷 39 乞致仕第一//苏魏公文集. 北京: 中华书局: 590.</div>
   <div class="csl-entry">Anonymous. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin, S. A., ed.. Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Anonymous. 2009. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009. [2013–03–24].</div>
   <div class="csl-entry">佚名. 2011a. 周易外传: 卷 5. 王夫之, 编//船山全书. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">佚名. 2011b. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 陈志勇, 编. 北京: 经济科学出版社[2013–10–14].</div>
   <div class="csl-entry">佚名. 2012a. 综合湿地管理国际研讨会论文集. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社.</div>
@@ -132,10 +131,11 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">佚名. 2012c. 综合湿地管理: 综合湿地管理国际研讨会论文集. 雷光春, 编. 北京: 海洋出版社.</div>
   <div class="csl-entry">Anonymous. 2012. Dublin Core Metadata Element Set: Version 1.1(2012–06–14)[2014–06–11].</div>
   <div class="csl-entry">Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, U. Gupta, eds.. New Delhi: Springer.</div>
+  <div class="csl-entry">Anonymous. [no date]. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009. [2013–03–24].</div>
   <div class="csl-entry">Baker, S. K., M. E. Jackson. 1995. The Future of Resource Sharing. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. 2011. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press: 105[2012–11–27].</div>
   <div class="csl-entry">Bawden, D. 2008. Origins and Concepts of Digital Literacy(2008–05–04)[2013–03–08].</div>
-  <div class="csl-entry">Buseck, P. R., G. L. Nord, D. R. Veblen. c1980. Subsolidus Phenomena in Pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117～211.</div>
+  <div class="csl-entry">Buseck, P. R., G. L. Nord Jr., D. R. Veblen. c1980. Subsolidus Phenomena in Pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117～211.</div>
   <div class="csl-entry">Cairns, B. R. 1965. Infrared Spectroscopic Studies on Solid Oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Calkin, D., A. Ager, M. Thompson. 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262. .</div>
   <div class="csl-entry">Caplan, P. 1993. Cataloging Internet Resources. The Public-Access Computer Systems Review, 4(2): 61～66.</div>
@@ -171,7 +171,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayshi, T. Nakamura. 2005. Electronic Watermarking Method and System: US6915001. 2005–07–05[2013–11–11].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Walls, S. C., W. J. Barichivich, M. E. Brown. 2013. Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate. Biology, 2(1): 399～418[2013–11–04].</div>
-  <div class="csl-entry">Weinstein, L., M. N. Swertz. 1974. Pathogenic Properties of Invading Microorganism. Sodeman, W. A., Jr, W. A. Sodeman, eds.//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders: 745～772.</div>
+  <div class="csl-entry">Weinstein, L., M. N. Swertz. 1974. Pathogenic Properties of Invading Microorganism. Sodeman, W. A., Jr., W. A. Sodeman, eds.//Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders: 745～772.</div>
   <div class="csl-entry">World Health Organization. 1970. Factors Regulating the Immune Response: Report of WHO Scientific Group. Geneva: WHO.</div>
 </div>
 

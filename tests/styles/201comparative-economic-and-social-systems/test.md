@@ -45,17 +45,16 @@ Qian et al. （2009b）<br>
 ### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body hanging-indent">
-  <div class="csl-entry">国家标准局信息分类编码研究所, 1988. “世界各国和地区名称代码.”. 全国文献工作标准化委员会, ed.//<i>文献工作国家标准汇编: 3</i>  北京: 中国标准出版社: 59–92.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. “Science.”. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">Anonymous, 1981. “Coffee drinking and cancer of the pancreas.” <i>British Medical Journal</i>. 283(6292): 628.</div>
   <div class="csl-entry">Anonymous, 2000. “Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering.”. Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
-  <div class="csl-entry">Anonymous, 2009. “Information and documentation—The Dublin core metadata element set.”. [2013-03-24].</div>
   <div class="csl-entry">Anonymous, 2012. “Dublin core metadata element set: version 1.1.”(2012-06-14)[2014-06-11].</div>
   <div class="csl-entry">Anonymous, 2014. “Proceedings of the Second International Conference on Soft Computing for Problem Solving.”. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer.</div>
+  <div class="csl-entry">Anonymous, [no date]. “Information and documentation—The Dublin core metadata element set.”. [2013-03-24].</div>
   <div class="csl-entry">Baker S.K. &#38; Jackson M.E., 1995. “The future of resource sharing.”. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P., 2011. “Developing early childhood services: Past, present and future.”. Rotterdam: Open University Press: 105[2012-11-27].</div>
   <div class="csl-entry">Bawden D., 2008. “Origins and concepts of digital literacy.”(2008-05-04)[2013-03-08].</div>
-  <div class="csl-entry">Buseck P.R., Nord G.L. &#38; Veblen D.R., c1980. “Subsolidus phenomena in pyroxenes.”//<i>Pyroxense</i>  Washington, D.C.: Mineralogical Society of America: 117–211.</div>
+  <div class="csl-entry">Buseck P.R., Nord G.L. Jr. &#38; Veblen D.R., c1980. “Subsolidus phenomena in pyroxenes.”//<i>Pyroxense</i>  Washington, D.C.: Mineralogical Society of America: 117–211.</div>
   <div class="csl-entry">Cairns B.R., 1965. “Infrared spectroscopic studies on solid oxygen.”. Berkeley: Univ. of California.</div>
   <div class="csl-entry">Calkin D., Ager A. &#38; Thompson M., 2011. “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report.”. .</div>
   <div class="csl-entry">Caplan P., 1993. “Cataloging internet resources.” <i>The Public-Access Computer Systems Review</i>. 4(2): 61–66.</div>
@@ -80,7 +79,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Morri I., 2010. “Why the west rules for now: the patterns of history, and what they reveal about the future.”. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg A.A., Grattapaglia D., Tuskan G.A., et al., 2014. “The genome of eucalyptus grandis.” <i>Nature</i>. 510: 356–362[2014-06-25].</div>
   <div class="csl-entry">O’Brien J.A., 1994. “Introduction to information systems.”. 7 edition. Burr Ridge, III: Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc, [no date]. “About OCLC: History of cooperation.”[2012-03-27].</div>
+  <div class="csl-entry">Online Computer Library Center, Inc., [no date]. “About OCLC: History of cooperation.”[2012-03-27].</div>
   <div class="csl-entry">Park J.-R. &#38; Tosaka Y., 2010. “Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>. 48(8): 696–715[2013-09-05].</div>
   <div class="csl-entry">Peebles P.Z. Jr., 2001. “Probability, random variables, and random signal principles.”. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis A., 2011. “Death by theory: a tale of mystery and archaeological theory.”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012-07-26].</div>
@@ -105,6 +104,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">丁文详, 2000：“数字革命与竞争国际化”，《中国青年报》，2000: 15。</div>
   <div class="csl-entry">傅刚、赵承、李佳路, 2000：“大风沙过后的思考”，《北京青年报》，2000[2005-09-28]。</div>
   <div class="csl-entry">顾炎武, 1992：“昌平山水记: 京东考古录”. 北京: 北京古籍出版社。</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所, 1988：“世界各国和地区名称代码”. 全国文献工作标准化委员会, 编//《文献工作国家标准汇编: 3》北京: 中国标准出版社: 59–92。</div>
   <div class="csl-entry">国家环境保护局科技标准司, 1996：“土壤环境质量标准”. 北京: 中国标准出版社: 2–3[2013-10-14]。</div>
   <div class="csl-entry">哈里森·沃尔德伦, 2012：“经济数学与金融数学”. 谢远涛, 译. 北京: 中国人民大学出版社: 235–236。</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司, 2001：“一种荒漠化地区生态植被综合培育种植方法”. 2001-10-24[2002-05-28]。</div>
@@ -145,16 +145,16 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">西安电子科技大学, 2002：“光折变自适应光外差探测方法”. 2002-03-06[2002-05-28]。</div>
   <div class="csl-entry">萧钰, 2001：“出版业信息化迈入快车道”(2001-12-19)[2002-04-15]。</div>
   <div class="csl-entry">徐光宪、王祥云, 2010：“物质结构”. 北京: 科学出版社。</div>
-  <div class="csl-entry">杨宗英, 1996：“电子图书馆的现实模型”，《中国图书馆学报》，1996, 2: 24–29。</div>
   <div class="csl-entry">杨保军, 2012：“新闻道德论”. 北京: 中国人民大学出版社[2012-11-01]。</div>
   <div class="csl-entry">杨洪升, 2013：“四库馆私家抄校书考略”，《文献》，2013, 1: 56–75。</div>
+  <div class="csl-entry">杨宗英, 1996：“电子图书馆的现实模型”，《中国图书馆学报》，1996, 2: 24–29。</div>
   <div class="csl-entry">于潇、刘义、柴跃廷等, 2012：“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报(自然科学版)》，2012, 11: 1518–1523。</div>
   <div class="csl-entry">余建斌, 2013：“我们的科技一直在追赶: 访中国工程院院长周济”，《人民日报》，2013: 2[2013-03-20]。</div>
   <div class="csl-entry">袁训来、陈哲、肖书海等, 2012：“蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口”，《科学通报》，2012, 34: 3219。</div>
-  <div class="csl-entry">张忠智, 1997：“科技书刊的总编(主编)的角色要求”. 中国科学技术期刊编辑学会, 编//《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》北京: 中国科学技术期刊编辑学会学术委员会: 33–34。</div>
-  <div class="csl-entry">张田勤, 2000：“罪犯 DNA 库与生命伦理学计划”，《大众科技报》，2000: 7。</div>
   <div class="csl-entry">张伯伟, 2002：“全唐五代诗格汇考”. 南京: 江苏古籍出版社: 288。</div>
   <div class="csl-entry">张凯军, 2012：“轨道火车及高速轨道火车紧急安全制动辅助装置”. 2012-04-05。</div>
+  <div class="csl-entry">张田勤, 2000：“罪犯 DNA 库与生命伦理学计划”，《大众科技报》，2000: 7。</div>
+  <div class="csl-entry">张忠智, 1997：“科技书刊的总编(主编)的角色要求”. 中国科学技术期刊编辑学会, 编//《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》北京: 中国科学技术期刊编辑学会学术委员会: 33–34。</div>
   <div class="csl-entry">赵学功, 2001：“当代美国外交”. 北京: 社会科学文献出版社[2014-06-11]。</div>
   <div class="csl-entry">中国第一历史档案馆、辽宁省档案馆, 2001：“中国明朝档案总汇”. 桂林: 广西师范大学出版社。</div>
   <div class="csl-entry">中国互联网络信息中心, 2012：“第 29 次中国互联网络发展现状统计报告”. [2013-03-26]。</div>

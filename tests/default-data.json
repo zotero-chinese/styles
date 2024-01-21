@@ -11,8 +11,7 @@
 		"volume": "第 1 卷",
 		"author": [
 			{
-				"family": "陈",
-				"given": "登原"
+				"literal": "陈登原"
 			}
 		],
 		"issued": {
@@ -39,8 +38,7 @@
 		],
 		"translator": [
 			{
-				"family": "谢",
-				"given": "远涛"
+				"literal": "谢远涛"
 			}
 		],
 		"issued": {
@@ -109,12 +107,10 @@
 		"title": "物质结构",
 		"author": [
 			{
-				"family": "徐",
-				"given": "光宪"
+				"literal": "徐光宪"
 			},
 			{
-				"family": "王",
-				"given": "祥云"
+				"literal": "王祥云"
 			}
 		],
 		"issued": {
@@ -136,8 +132,7 @@
 		"title-short": "昌平山水记",
 		"author": [
 			{
-				"family": "顾",
-				"given": "炎武"
+				"literal": "顾炎武"
 			}
 		],
 		"issued": {
@@ -159,8 +154,7 @@
 		"title": "宋论",
 		"author": [
 			{
-				"family": "王",
-				"given": "夫之"
+				"literal": "王夫之"
 			}
 		],
 		"issued": {
@@ -181,15 +175,13 @@
 		"title": "综合湿地管理国际研讨会论文集",
 		"editor": [
 			{
-				"family": "牛",
-				"given": "志明"
+				"literal": "牛志明"
 			},
 			{
 				"literal": "斯温兰德"
 			},
 			{
-				"family": "雷",
-				"given": "光春"
+				"literal": "雷光春"
 			}
 		],
 		"issued": {
@@ -237,8 +229,7 @@
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20101104-BPO-889-1023&cult=CN",
 		"author": [
 			{
-				"family": "杨",
-				"given": "保军"
+				"literal": "杨保军"
 			}
 		],
 		"accessed": {
@@ -269,8 +260,7 @@
 		"URL": "http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1",
 		"author": [
 			{
-				"family": "赵",
-				"given": "学功"
+				"literal": "赵学功"
 			}
 		],
 		"accessed": {
@@ -389,7 +379,7 @@
 		"editor": [
 			{
 				"family": "Yufin",
-				"given": "Sergey A"
+				"given": "Sergey A."
 			}
 		],
 		"issued": {
@@ -486,8 +476,7 @@
 		"volume": "第 6 册",
 		"editor": [
 			{
-				"family": "王",
-				"given": "夫之"
+				"literal": "王夫之"
 			}
 		],
 		"issued": {
@@ -510,18 +499,15 @@
 		"title": "1998 年长江洪水的成因与减灾对策",
 		"author": [
 			{
-				"family": "程",
-				"given": "根伟"
+				"literal": "程根伟"
 			}
 		],
 		"editor": [
 			{
-				"family": "许",
-				"given": "厚泽"
+				"literal": "许厚泽"
 			},
 			{
-				"family": "赵",
-				"given": "其国"
+				"literal": "赵其国"
 			}
 		],
 		"issued": {
@@ -544,24 +530,19 @@
 		"title": "蓟县震旦亚界研究",
 		"author": [
 			{
-				"family": "陈",
-				"given": "晋镳"
+				"literal": "陈晋镳"
 			},
 			{
-				"family": "张",
-				"given": "惠民"
+				"literal": "张惠民"
 			},
 			{
-				"family": "朱",
-				"given": "士兴"
+				"literal": "朱士兴"
 			},
 			{
-				"family": "赵",
-				"given": "震"
+				"literal": "赵震"
 			},
 			{
-				"family": "王",
-				"given": "振刚"
+				"literal": "王振刚"
 			}
 		],
 		"editor": [
@@ -622,12 +603,10 @@
 		"volume": "2011 年卷",
 		"author": [
 			{
-				"family": "贾",
-				"given": "东琴"
+				"literal": "贾东琴"
 			},
 			{
-				"family": "柯",
-				"given": "平"
+				"literal": "柯平"
 			}
 		],
 		"editor": [
@@ -656,22 +635,22 @@
 		"author": [
 			{
 				"family": "Weinstein",
-				"given": "L"
+				"given": "L."
 			},
 			{
 				"family": "Swertz",
-				"given": "M N"
+				"given": "M. N."
 			}
 		],
 		"editor": [
 			{
 				"family": "Sodeman",
 				"given": "William A",
-				"suffix": "Jr"
+				"suffix": "Jr."
 			},
 			{
 				"family": "Sodeman",
-				"given": "William A"
+				"given": "William A."
 			}
 		],
 		"issued": {
@@ -806,36 +785,28 @@
 		"volume": "57",
 		"author": [
 			{
-				"family": "袁",
-				"given": "训来"
+				"literal": "袁训来"
 			},
 			{
-				"family": "陈",
-				"given": "哲"
+				"literal": "陈哲"
 			},
 			{
-				"family": "肖",
-				"given": "书海"
+				"literal": "肖书海"
 			},
 			{
-				"family": "万",
-				"given": "斌"
+				"literal": "万斌"
 			},
 			{
-				"family": "关",
-				"given": "成国"
+				"literal": "关成国"
 			},
 			{
-				"family": "王",
-				"given": "伟"
+				"literal": "王伟"
 			},
 			{
-				"family": "周",
-				"given": "传明"
+				"literal": "周传明"
 			},
 			{
-				"family": "华",
-				"given": "洪"
+				"literal": "华洪"
 			}
 		],
 		"issued": {
@@ -857,8 +828,7 @@
 		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm",
 		"author": [
 			{
-				"family": "余",
-				"given": "建斌"
+				"literal": "余建斌"
 			}
 		],
 		"accessed": {
@@ -892,8 +862,7 @@
 		"volume": "52",
 		"author": [
 			{
-				"family": "李",
-				"given": "炳穆"
+				"literal": "李炳穆"
 			}
 		],
 		"accessed": {
@@ -926,12 +895,10 @@
 		"volume": "4",
 		"author": [
 			{
-				"family": "李",
-				"given": "幼平"
+				"literal": "李幼平"
 			},
 			{
-				"family": "王",
-				"given": "莉"
+				"literal": "王莉"
 			}
 		],
 		"accessed": {
@@ -954,7 +921,6 @@
 	{
 		"id": "gbt7714.04.4.2:05",
 		"type": "article-journal",
-		"abstract": "本文分析了北斗用户终端在实际应用中存在的问题,指出指挥型用户终端的监控能力有限、成本相对较高是影响其推广应用的关键。针对该问题,利用现有资源,设计并搭建了监控管理网,在该网络中创造性地设计了虚拟指挥机系统,起到了指挥型用户终端的作用,弥补了北斗用户终端的不足。文章具体阐述了虚拟指挥机系统的工作原理,介绍了其数据模型,并描述了整个监控管理网的网络功能和体系结构设计,该网络已在很多部门得到应用。",
 		"container-title": "测绘科学",
 		"DOI": "10.3771/j.issn.1009-2307.2008.05.002",
 		"ISSN": "1009-2307",
@@ -966,20 +932,16 @@
 		"volume": "33",
 		"author": [
 			{
-				"family": "武",
-				"given": "丽丽"
+				"literal": "武丽丽"
 			},
 			{
-				"family": "华",
-				"given": "一新"
+				"literal": "华一新"
 			},
 			{
-				"family": "张",
-				"given": "亚军"
+				"literal": "张亚军"
 			},
 			{
-				"family": "刘",
-				"given": "英敏"
+				"literal": "刘英敏"
 			}
 		],
 		"accessed": {
@@ -1012,7 +974,7 @@
 		"author": [
 			{
 				"family": "Kanamori",
-				"given": "H"
+				"given": "H."
 			}
 		],
 		"issued": {
@@ -1035,7 +997,7 @@
 		"author": [
 			{
 				"family": "Caplan",
-				"given": "P"
+				"given": "P."
 			}
 		],
 		"issued": {
@@ -1452,8 +1414,7 @@
 		"title": "全智能节电器",
 		"author": [
 			{
-				"family": "邓",
-				"given": "一刚"
+				"literal": "邓一刚"
 			}
 		],
 		"issued": {
@@ -1615,7 +1576,7 @@
 		"author": [
 			{
 				"family": "Bawden",
-				"given": "D"
+				"given": "D."
 			}
 		],
 		"accessed": {
@@ -1646,7 +1607,7 @@
 		"URL": "http://www.oclc.org/about/cooperation.en.html",
 		"author": [
 			{
-				"literal": "Online Computer Library Center, Inc"
+				"literal": "Online Computer Library Center, Inc."
 			}
 		],
 		"accessed": {
@@ -1669,7 +1630,7 @@
 		"author": [
 			{
 				"family": "Hopkinson",
-				"given": "A"
+				"given": "A."
 			}
 		],
 		"accessed": {
@@ -1721,8 +1682,7 @@
 		"URL": "http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa",
 		"author": [
 			{
-				"family": "刘",
-				"given": "乃安"
+				"literal": "刘乃安"
 			}
 		],
 		"accessed": {
@@ -1793,11 +1753,11 @@
 		"author": [
 			{
 				"family": "Baker",
-				"given": "S K"
+				"given": "S. K."
 			},
 			{
 				"family": "Jackson",
-				"given": "M E"
+				"given": "M. E."
 			}
 		],
 		"issued": {
@@ -1819,7 +1779,7 @@
 		"author": [
 			{
 				"family": "Chernik",
-				"given": "B E"
+				"given": "B. E."
 			}
 		],
 		"issued": {
@@ -1845,12 +1805,10 @@
 		],
 		"translator": [
 			{
-				"family": "胡",
-				"given": "泳"
+				"literal": "胡泳"
 			},
 			{
-				"family": "范",
-				"given": "海燕"
+				"literal": "范海燕"
 			}
 		],
 		"issued": {
@@ -1872,8 +1830,7 @@
 		"title": "电子图书馆理论与实践研究",
 		"author": [
 			{
-				"family": "汪",
-				"given": "冰"
+				"literal": "汪冰"
 			}
 		],
 		"issued": {
@@ -1894,8 +1851,7 @@
 		"title": "电子图书馆的现实模型",
 		"author": [
 			{
-				"family": "杨",
-				"given": "宗英"
+				"literal": "杨宗英"
 			}
 		],
 		"issued": {
@@ -1911,6 +1867,7 @@
 		"type": "article-journal",
 		"container-title": "Journal of Library Administration",
 		"DOI": "10.1300/J111V21N01_02",
+		"ISSN": "0193-0826",
 		"issue": "1/2",
 		"language": "en-US",
 		"page": "5-26",
@@ -1977,7 +1934,7 @@
 		"author": [
 			{
 				"family": "Morri",
-				"given": "I"
+				"given": "I."
 			}
 		],
 		"issued": {
@@ -2005,20 +1962,16 @@
 		],
 		"translator": [
 			{
-				"family": "潘",
-				"given": "惠霞"
+				"literal": "潘惠霞"
 			},
 			{
-				"family": "魏",
-				"given": "婧"
+				"literal": "魏婧"
 			},
 			{
-				"family": "杨",
-				"given": "艳"
+				"literal": "杨艳"
 			},
 			{
-				"family": "汤",
-				"given": "玲"
+				"literal": "汤玲"
 			}
 		],
 		"issued": {
@@ -2065,7 +2018,7 @@
 		"author": [
 			{
 				"family": "Stieg",
-				"given": "Margaret F"
+				"given": "Margaret F."
 			}
 		],
 		"issued": {
@@ -2087,16 +2040,13 @@
 		"volume": "37",
 		"author": [
 			{
-				"family": "王",
-				"given": "临惠"
+				"literal": "王临惠"
 			},
 			{
-				"family": "支",
-				"given": "建刚"
+				"literal": "支建刚"
 			},
 			{
-				"family": "王",
-				"given": "忠一"
+				"literal": "王忠一"
 			}
 		],
 		"issued": {
@@ -2119,14 +2069,12 @@
 		"title": "从几组声母的演变看天津方言形成的自然条件和历史条件",
 		"author": [
 			{
-				"family": "王",
-				"given": "临惠"
+				"literal": "王临惠"
 			}
 		],
 		"editor": [
 			{
-				"family": "曹",
-				"given": "志耘"
+				"literal": "曹志耘"
 			}
 		],
 		"issued": {
@@ -2149,7 +2097,7 @@
 		"author": [
 			{
 				"family": "Kennedy",
-				"given": "W. James"
+				"given": "William James"
 			},
 			{
 				"family": "Garrison",
@@ -2179,7 +2127,7 @@
 		"author": [
 			{
 				"family": "Kennedy",
-				"given": "W. James"
+				"given": "William James"
 			},
 			{
 				"family": "Garrison",
@@ -2207,8 +2155,7 @@
 		"title": "科技书刊的总编(主编)的角色要求",
 		"author": [
 			{
-				"family": "张",
-				"given": "忠智"
+				"literal": "张忠智"
 			}
 		],
 		"editor": [
@@ -2257,8 +2204,7 @@
 		"title-short": "中国的青年刊物",
 		"author": [
 			{
-				"family": "刘",
-				"given": "彻东"
+				"literal": "刘彻东"
 			}
 		],
 		"issued": {
@@ -2281,8 +2227,7 @@
 		"title": "在中国科协学术期刊编辑工作经验交流会上的讲话",
 		"author": [
 			{
-				"family": "裴",
-				"given": "丽生"
+				"literal": "裴丽生"
 			}
 		],
 		"editor": [
@@ -2309,8 +2254,7 @@
 		"title": "全唐五代诗格汇考",
 		"author": [
 			{
-				"family": "张",
-				"given": "伯伟"
+				"literal": "张伯伟"
 			}
 		],
 		"issued": {
@@ -2333,8 +2277,7 @@
 		"volume": "第 4 册",
 		"author": [
 			{
-				"family": "皮",
-				"given": "锡瑞"
+				"literal": "皮锡瑞"
 			}
 		],
 		"issued": {
@@ -2357,16 +2300,13 @@
 		"volume": "上",
 		"author": [
 			{
-				"family": "胡",
-				"given": "承正"
+				"literal": "胡承正"
 			},
 			{
-				"family": "周",
-				"given": "详"
+				"literal": "周详"
 			},
 			{
-				"family": "缪",
-				"given": "灵"
+				"literal": "缪灵"
 			}
 		],
 		"issued": {
@@ -2393,12 +2333,10 @@
 		],
 		"translator": [
 			{
-				"family": "段",
-				"given": "涛"
+				"literal": "段涛"
 			},
 			{
-				"family": "杨",
-				"given": "慧霞"
+				"literal": "杨慧霞"
 			}
 		],
 		"issued": {
@@ -2440,8 +2378,7 @@
 		"volume": "四卷",
 		"author": [
 			{
-				"family": "汪",
-				"given": "昂"
+				"literal": "汪昂"
 			}
 		],
 		"issued": {
@@ -2462,16 +2399,13 @@
 		"title": "中国森林群落分类及其群落特征",
 		"author": [
 			{
-				"family": "蒋",
-				"given": "有绪"
+				"literal": "蒋有绪"
 			},
 			{
-				"family": "郭",
-				"given": "泉水"
+				"literal": "郭泉水"
 			},
 			{
-				"family": "马",
-				"given": "娟"
+				"literal": "马娟"
 			},
 			{
 				"literal": "others"
@@ -2528,16 +2462,13 @@
 		],
 		"translator": [
 			{
-				"family": "唐",
-				"given": "巧天"
+				"literal": "唐巧天"
 			},
 			{
-				"family": "毛",
-				"given": "立坤"
+				"literal": "毛立坤"
 			},
 			{
-				"family": "姜",
-				"given": "修宪"
+				"literal": "姜修宪"
 			}
 		],
 		"issued": {
@@ -2565,12 +2496,10 @@
 		],
 		"translator": [
 			{
-				"family": "金",
-				"given": "吾伦"
+				"literal": "金吾伦"
 			},
 			{
-				"family": "胡",
-				"given": "新和"
+				"literal": "胡新和"
 			}
 		],
 		"issued": {
@@ -2594,8 +2523,7 @@
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20111114-HGS-889-0228",
 		"author": [
 			{
-				"family": "侯",
-				"given": "文顺"
+				"literal": "侯文顺"
 			}
 		],
 		"accessed": {
@@ -2627,11 +2555,11 @@
 		"author": [
 			{
 				"family": "Crawford",
-				"given": "W"
+				"given": "W."
 			},
 			{
 				"family": "Gorman",
-				"given": "M"
+				"given": "M."
 			}
 		],
 		"issued": {
@@ -2677,7 +2605,7 @@
 		"author": [
 			{
 				"family": "O’Brien",
-				"given": "J A"
+				"given": "J. A."
 			}
 		],
 		"issued": {
@@ -2702,7 +2630,7 @@
 		"author": [
 			{
 				"family": "Kinchy",
-				"given": "A"
+				"given": "A."
 			}
 		],
 		"accessed": {
@@ -2808,8 +2736,7 @@
 		"title-short": "综合湿地管理",
 		"editor": [
 			{
-				"family": "雷",
-				"given": "光春"
+				"literal": "雷光春"
 			}
 		],
 		"issued": {
@@ -2832,8 +2759,7 @@
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.201106228-BPO-889-0135&cult=CN",
 		"editor": [
 			{
-				"family": "陈",
-				"given": "志勇"
+				"literal": "陈志勇"
 			}
 		],
 		"accessed": {
@@ -2863,7 +2789,7 @@
 		"editor": [
 			{
 				"family": "Babu",
-				"given": "B V"
+				"given": "B. V."
 			},
 			{
 				"family": "Nagar",
@@ -2938,16 +2864,13 @@
 		"URL": "http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707",
 		"author": [
 			{
-				"family": "汤",
-				"given": "万金"
+				"literal": "汤万金"
 			},
 			{
-				"family": "杨",
-				"given": "跃翔"
+				"literal": "杨跃翔"
 			},
 			{
-				"family": "刘",
-				"given": "文"
+				"literal": "刘文"
 			},
 			{
 				"literal": "others"
@@ -2983,15 +2906,15 @@
 		"author": [
 			{
 				"family": "Calkin",
-				"given": "D"
+				"given": "D."
 			},
 			{
 				"family": "Ager",
-				"given": "A"
+				"given": "A."
 			},
 			{
 				"family": "Thompson",
-				"given": "M"
+				"given": "M."
 			}
 		],
 		"issued": {
@@ -3058,8 +2981,7 @@
 		"URL": "http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&QueryID=.0&CurRec=11&dbname=CDFDLAST2013&filename=1012035905.nh&uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=",
 		"author": [
 			{
-				"family": "马",
-				"given": "欢"
+				"literal": "马欢"
 			}
 		],
 		"accessed": {
@@ -3090,8 +3012,7 @@
 		"URL": "http://thesis.lib.pku.edu.cn/dlib/List.asp?lang=gb&type=Reader&DocGroupID=4&DocID=6328",
 		"author": [
 			{
-				"family": "吴",
-				"given": "云芳"
+				"literal": "吴云芳"
 			}
 		],
 		"accessed": {
@@ -3116,6 +3037,7 @@
 		"type": "thesis",
 		"event-place": "Berkeley",
 		"language": "en-US",
+		"number-of-pages": "224",
 		"publisher": "Univ. of California",
 		"publisher-place": "Berkeley",
 		"title": "Infrared spectroscopic studies on solid oxygen",
@@ -3143,8 +3065,7 @@
 		"title": "轨道火车及高速轨道火车紧急安全制动辅助装置",
 		"author": [
 			{
-				"family": "张",
-				"given": "凯军"
+				"literal": "张凯军"
 			}
 		],
 		"issued": {
@@ -3332,6 +3253,7 @@
 		"language": "en-US",
 		"number": "ISO 15836:2009",
 		"title": "Information and documentation—The Dublin core metadata element set",
+		"title-short": "Information and documentation",
 		"URL": "http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142",
 		"accessed": {
 			"date-parts": [
@@ -3339,13 +3261,6 @@
 					"2013",
 					3,
 					24
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2009"
 				]
 			]
 		}
@@ -3381,14 +3296,12 @@
 		"title": "植物开花研究",
 		"author": [
 			{
-				"family": "白",
-				"given": "书农"
+				"literal": "白书农"
 			}
 		],
 		"editor": [
 			{
-				"family": "李",
-				"given": "承森"
+				"literal": "李承森"
 			}
 		],
 		"issued": {
@@ -3411,8 +3324,7 @@
 		"title": "中国农业转基因生物研究进展与安全管理",
 		"author": [
 			{
-				"family": "汪",
-				"given": "学军"
+				"literal": "汪学军"
 			}
 		],
 		"editor": [
@@ -3432,7 +3344,7 @@
 		"id": "gbt7714.A.07:04",
 		"type": "standard",
 		"event-place": "北京",
-		"language": "en-US",
+		"language": "zh-CN",
 		"note": "editor: 全国文献工作标准化委员会\ncontainer-title: 文献工作国家标准汇编: 3\npage: 59-92",
 		"number": "GB/T 2659—1986",
 		"publisher": "中国标准出版社",
@@ -3484,12 +3396,10 @@
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20120406-YPT-889-0010",
 		"author": [
 			{
-				"family": "楼",
-				"given": "梦鳞"
+				"literal": "楼梦鳞"
 			},
 			{
-				"family": "杨",
-				"given": "燕"
+				"literal": "杨燕"
 			}
 		],
 		"editor": [
@@ -3527,15 +3437,16 @@
 		"author": [
 			{
 				"family": "Buseck",
-				"given": "P R"
+				"given": "Peter R."
 			},
 			{
 				"family": "Nord",
-				"given": "G L"
+				"given": "Gordon L",
+				"suffix": "Jr."
 			},
 			{
 				"family": "Veblen",
-				"given": "D R"
+				"given": "David R."
 			}
 		],
 		"issued": {
@@ -3554,7 +3465,7 @@
 		"author": [
 			{
 				"family": "Fourney",
-				"given": "M E"
+				"given": "M. E."
 			}
 		],
 		"issued": {
@@ -3571,8 +3482,7 @@
 		"title": "四库馆私家抄校书考略",
 		"author": [
 			{
-				"family": "杨",
-				"given": "洪升"
+				"literal": "杨洪升"
 			}
 		],
 		"issued": {
@@ -3594,20 +3504,16 @@
 		"volume": "52",
 		"author": [
 			{
-				"family": "于",
-				"given": "潇"
+				"literal": "于潇"
 			},
 			{
-				"family": "刘",
-				"given": "义"
+				"literal": "刘义"
 			},
 			{
-				"family": "柴",
-				"given": "跃廷"
+				"literal": "柴跃廷"
 			},
 			{
-				"family": "孙",
-				"given": "宏波"
+				"literal": "孙宏波"
 			}
 		],
 		"issued": {
@@ -3631,8 +3537,7 @@
 		"volume": "7",
 		"author": [
 			{
-				"family": "陈",
-				"given": "建军"
+				"literal": "陈建军"
 			}
 		],
 		"accessed": {
@@ -3701,11 +3606,11 @@
 		"author": [
 			{
 				"family": "Saito",
-				"given": "M"
+				"given": "M."
 			},
 			{
 				"family": "Miyazaki",
-				"given": "K"
+				"given": "K."
 			}
 		],
 		"issued": {
@@ -3857,8 +3762,7 @@
 		"title": "数字革命与竞争国际化",
 		"author": [
 			{
-				"family": "丁",
-				"given": "文详"
+				"literal": "丁文详"
 			}
 		],
 		"issued": {
@@ -3880,8 +3784,7 @@
 		"title": "罪犯 DNA 库与生命伦理学计划",
 		"author": [
 			{
-				"family": "张",
-				"given": "田勤"
+				"literal": "张田勤"
 			}
 		],
 		"issued": {
@@ -3903,16 +3806,13 @@
 		"URL": "http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm",
 		"author": [
 			{
-				"family": "傅",
-				"given": "刚"
+				"literal": "傅刚"
 			},
 			{
-				"family": "赵",
-				"given": "承"
+				"literal": "赵承"
 			},
 			{
-				"family": "李",
-				"given": "佳路"
+				"literal": "李佳路"
 			}
 		],
 		"accessed": {
@@ -3943,32 +3843,25 @@
 		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm",
 		"author": [
 			{
-				"family": "刘",
-				"given": "裕国"
+				"literal": "刘裕国"
 			},
 			{
-				"family": "杨",
-				"given": "柳"
+				"literal": "杨柳"
 			},
 			{
-				"family": "张",
-				"given": "洋"
+				"literal": "张洋"
 			},
 			{
-				"family": "王",
-				"given": "汉超"
+				"literal": "王汉超"
 			},
 			{
-				"family": "靳",
-				"given": "博"
+				"literal": "靳博"
 			},
 			{
-				"family": "田",
-				"given": "豆豆"
+				"literal": "田豆豆"
 			},
 			{
-				"family": "付",
-				"given": "文"
+				"literal": "付文"
 			}
 		],
 		"accessed": {
@@ -3998,8 +3891,7 @@
 		"URL": "http://www.creader.com/news/20011219/200112190019.html",
 		"author": [
 			{
-				"family": "萧",
-				"given": "钰"
+				"literal": "萧钰"
 			}
 		],
 		"accessed": {
@@ -4029,8 +3921,7 @@
 		"URL": "http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html",
 		"author": [
 			{
-				"family": "李",
-				"given": "强"
+				"literal": "李强"
 			}
 		],
 		"accessed": {
@@ -4110,8 +4001,7 @@
 		"volume": "52",
 		"author": [
 			{
-				"family": "李",
-				"given": "炳穆"
+				"literal": "李炳穆"
 			}
 		],
 		"issued": {
@@ -4134,8 +4024,7 @@
 		"volume": "第 1 卷",
 		"author": [
 			{
-				"family": "陈",
-				"given": "登原"
+				"literal": "陈登原"
 			}
 		],
 		"issued": {

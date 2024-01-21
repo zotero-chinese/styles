@@ -108,9 +108,9 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">佚名. 宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">Anon. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">佚名. 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
-  <div class="csl-entry">Anon. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. 2009.</div>
   <div class="csl-entry">佚名. 周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">Anon. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">Anon. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. [2013].</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
@@ -134,7 +134,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>

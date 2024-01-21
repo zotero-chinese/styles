@@ -58,7 +58,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">丁文详（2000）：《数字革命与竞争国际化》，《中国青年报》。</div>
   <div class="csl-entry">傅刚、赵承、李佳路（2000）：《大风沙过后的思考》，《北京青年报》。</div>
   <div class="csl-entry">顾炎武（1992）：《昌平山水记: 京东考古录》，北京古籍出版社，1992年。</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所 世界各国和地区名称代码 北京: 中国标准出版社.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所（1988）：《世界各国和地区名称代码》，中国标准出版社，1988年。</div>
   <div class="csl-entry">国家环境保护局科技标准司（1996）：《土壤环境质量标准》，中国标准出版社，1996年。</div>
   <div class="csl-entry">哈里森·沃尔德伦（2012）：《经济数学与金融数学》，中国人民大学出版社，2012年。</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司（2001）：《一种荒漠化地区生态植被综合培育种植方法》，2001年。</div>
@@ -128,7 +128,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Baker, S. K. and Jackson, M. E. <i>The Future of Resource Sharing</i> New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. <i>Developing Early Childhood Services: Past, Present and Future</i> Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>.</div>
-  <div class="csl-entry">Buseck, P. R.; Nord, G. L. and Veblen, D. R. “Subsolidus Phenomena in Pyroxenes.” in <i>Pyroxense</i> Washington, D.C.: Mineralogical Society of America.</div>
+  <div class="csl-entry">Buseck, P. R.; Nord, G. L., Jr. and Veblen, D. R. “Subsolidus Phenomena in Pyroxenes.” in <i>Pyroxense</i> Washington, D.C.: Mineralogical Society of America.</div>
   <div class="csl-entry">Cairns, B. R. <i>Infrared Spectroscopic Studies on Solid Oxygen</i> Berkeley: Univ. of California.</div>
   <div class="csl-entry">Calkin, D.; Ager, A. and Thompson, M. “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report.” RMRS-GTR-262.</div>
   <div class="csl-entry">Caplan, P. “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i>, 1993, 4(2), pp. 61-66.</div>
@@ -153,7 +153,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Morri, I. <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i> New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A.; Grattapaglia, D.; Tuskan, G. A.; Hellsten, U.; Hayes, R. D.; Grimwood, J.; Jenkins, J.; Lindquist, E.; Tice, H.; Bauer, D.; Goodstein, D. M.; Dubchak, I.; Poliakov, A.; Mizrachi, E.; Kullan, A. R. K.; Hussey, S. G.; Pinard, D.; Merwe, K. van der; Singh, P.; Jaarsveld, I. van; Silva-Junior, O. B.; Togawa, R. C.; Pappas, M. R.; Faria, D. A.; Sansaloni, C. P.; Petroli, C. D.; Yang, X.; Ranjan, P.; Tschaplinski, T. J.; Ye, C. Y.; Li, T.; Sterck, L.; Vanneste, K.; Murat, F.; Soler, M.; Clemente, H. S.; Saidi, N.; Cassan-Wang, H.; Dunand, C.; Hefer, C. A.; Bornberg-Bauer, E.; Kersting, A. R.; Vining, K.; Amarasinghe, V.; Ranik, M.; Naithani, S.; Elser, J.; Boyd, A. E.; Liston, A.; Spatafora, J. W.; Dharmwardhana, P.; Raja, R.; Sullivan, C.; Romanel, E.; Alves-Ferreira, M.; Külheim, C.; Foley, W.; Carocha, V.; Paiva, J.; Kudrna, D.; Brommonschenkel, S. H.; Pasquali, G.; Byrne, M.; Rigault, P.; Tibbits, J.; Spokevicius, A.; Jones, R. C.; Steane, D. A.; Vaillancourt, R. E.; Potts, B. M.; Joubert, F.; Barry, K.; Pappas, G. J.; Strauss, S. H.; Jaiswal, P.; Grima-Pettenati, J.; Salse, J.; Van de Peer, Y.; Rokhsar, D. S. and Schmutz, J. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, 2014, vol.510, pp. 356-362.</div>
   <div class="csl-entry">O’Brien, J. A. <i>Introduction to Information Systems</i> Burr Ridge, III: Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc <i>About OCLC: History of Cooperation</i>.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc. <i>About OCLC: History of Cooperation</i>.</div>
   <div class="csl-entry">Park, J. R. and Tosaka, Y. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8), pp. 696-715.</div>
   <div class="csl-entry">Peebles, P. Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i> New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i> Rowman &#38; Littlefield Publishing Group, Inc.</div>
@@ -164,15 +164,15 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Tachibana, R.; Shimizu, S.; Kobayshi, S. and Nakamura, T. <i>Electronic Watermarking Method and System</i> US.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration “Guidelines for Handling Excavated Acid-Producing Material.” PB 91-194001.</div>
   <div class="csl-entry">Walls, S. C.; Barichivich, W. J. and Brown, M. E. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i>, 2013, 2(1), pp. 399-418.</div>
-  <div class="csl-entry">Weinstein, L. and Swertz, M. N. “Pathogenic Properties of Invading Microorganism.” in Sodeman, W. A., Jr and W. A. Sodeman, eds: <i>Pathologic Physiology: Mechanisms of Disease</i> Philadelphia: Saunders.</div>
+  <div class="csl-entry">Weinstein, L. and Swertz, M. N. “Pathogenic Properties of Invading Microorganism.” in Sodeman, W. A., Jr. and W. A. Sodeman, eds: <i>Pathologic Physiology: Mechanisms of Disease</i> Philadelphia: Saunders.</div>
   <div class="csl-entry">World Health Organization “Factors Regulating the Immune Response: Report of WHO Scientific Group.”.</div>
   <div class="csl-entry">Yufin, S. A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i> Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">（1962）：《康熙字典: 巳集上: 水部》，中华书局，1962年。</div>
   <div class="csl-entry">（1977）：《宋史卷三: 本纪第三》，载《宋史》，中华书局，1977年。</div>
   <div class="csl-entry">“Coffee Drinking and Cancer of the Pancreas.” <i>British Medical Journal</i>, 1981, 283(6292), p. 628.</div>
   <div class="csl-entry">（1988）：《卷 39 乞致仕第一》，载《苏魏公文集》，中华书局，1988年。</div>
-  <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
   <div class="csl-entry"><i>Dublin Core Metadata Element Set: Version 1.1</i>.</div>
+  <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
 </div>
 
 ### 《心理学报》 示例文献

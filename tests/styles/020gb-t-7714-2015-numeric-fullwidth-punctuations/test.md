@@ -128,14 +128,14 @@ Undefined
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会．文献著录: 第 4 部分 非书资料：GB/T 3792.4—2009［S］．北京：中国标准出版社，2010：3．</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会．广播电视音像资料编目规范: 第 2 部分 广播资料：GY/T 202.2—2007［S］．北京：国家广播电影电视总局广播电视规划院，2007：1．</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司．土壤环境质量标准：GB 15616—1995［S/OL］．北京：中国标准出版社，1996：2—3［2013-10-14］．<a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>．</div>
-  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. 2009[2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
+  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   <div class="csl-entry">[104]	卷 39 乞致仕第一［M］//苏魏公文集：下册．北京：中华书局，1988：590．</div>
   <div class="csl-entry">[105]	白书农．植物开花研究［M］//李承森．植物科学进展．北京：高等教育出版社，1998：146—163．</div>
   <div class="csl-entry">[106]	汪学军．中国农业转基因生物研究进展与安全管理［C］//国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集．北京：中国环境科学出版社，2002：22—25．</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59—92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所．世界各国和地区名称代码：GB/T 2659—1986［S］//全国文献工作标准化委员会．文献工作国家标准汇编: 3．北京：中国标准出版社，1988：59—92．</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三［M］//宋史：第 1 册．北京：中华书局，1977：49．</div>
   <div class="csl-entry">[109]	楼梦鳞，杨燕．汶川地震基岩地震动特征分析［M/OL］//同济大学土木工程防灾国家重点实验室．汶川地震震害研究．上海：同济大学出版社，2011：011—012［2013-05-09］．<a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>．</div>
-  <div class="csl-entry">[110]	BUSECK P R, NORD G L, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117—211.</div>
+  <div class="csl-entry">[110]	BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117—211.</div>
   <div class="csl-entry">[111]	FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17—38.</div>
   <div class="csl-entry">[112]	杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56—75．</div>
   <div class="csl-entry">[113]	李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6—21．</div>

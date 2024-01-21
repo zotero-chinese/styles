@@ -67,7 +67,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[A]. 中国地质科学院天津地质矿产研究所. 中国震旦亚界[C]. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[A]. 马克思, 恩格斯. 马克思恩格斯全集[C]. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	WEINSTEIN L, SWERTZ M N. Pathogenic Properties of Invading Microorganism[A]. Sodeman, W. A., Jr, and W. A. Sodeman. Pathologic Physiology: Mechanisms of Disease[C]. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	WEINSTEIN L, SWERTZ M N. Pathogenic Properties of Invading Microorganism[A]. Sodeman, W. A., Jr., and W. A. Sodeman. Pathologic Physiology: Mechanisms of Disease[C]. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	ROBERSON J A, BURNESON E G. Drinking Water Standards, Regulations and Goals[A]. American Water Works Association. Water Quality &#38; Treatment: A Handbook on Drinking Water[C]. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 北京: 北京图书馆, 1957.</div>
@@ -147,14 +147,14 @@ Undefined
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[M]. 北京: 中国标准出版社, 2010: 3.</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[M]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[M]. 北京: 中国标准出版社, 1996: 2-3.</div>
-  <div class="csl-entry">[103]	Anon. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009[M]. 2009.</div>
+  <div class="csl-entry">[103]	Anon. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009[M]. [2013].</div>
   <div class="csl-entry">[104]	佚名. 卷 39 乞致仕第一[A]. 苏魏公文集[C]. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[A]. 李承森. 植物科学进展[C]. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[A]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2002: 22-25.</div>
   <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[M]. 全国文献工作标准化委员会. 文献工作国家标准汇编: 3[C]. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108]	佚名. 宋史卷三: 本纪第三[A]. 宋史[C]. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[A]. 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究[C]. 上海: 同济大学出版社, 2011: 011-012.</div>
-  <div class="csl-entry">[110]	BUSECK P R, NORD G L, VEBLEN D R. Subsolidus Phenomena in Pyroxenes[A]. Pyroxense[C]. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">[110]	BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus Phenomena in Pyroxenes[A]. Pyroxense[C]. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">[111]	FOURNEY M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1):56-75.</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6):6-21.</div>

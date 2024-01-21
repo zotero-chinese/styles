@@ -48,7 +48,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[M]. 天津: 天津科学技术出版社, 1980: 56–114</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[M]. 北京: 人民出版社, 2013, 第 35 卷: 302</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会年会论文集[C]. 北京: 2011, 2011 年卷: 45–52</div>
-  <div class="csl-entry">[23]	Weinstein L., Swertz M. N. Pathogenic Properties of Invading Microorganism[M]. Sodeman W. A. Jr, Sodeman W. A. Philadelphia: Saunders, 1974</div>
+  <div class="csl-entry">[23]	Weinstein L., Swertz M. N. Pathogenic Properties of Invading Microorganism[M]. Sodeman W. A. Jr., Sodeman W. A. Philadelphia: Saunders, 1974</div>
   <div class="csl-entry">[24]	Roberson J. A., Burneson E. G. Drinking Water Standards, Regulations and Goals[M]. American Water Works Association. 6 edn. New York: McGraw-Hill, 2011</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 武汉: 1984, 1(1)</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 北京: 1957(1–4)</div>
@@ -132,10 +132,10 @@ Undefined
   <div class="csl-entry">[104]	卷 39 乞致仕第一[M]. 北京: 中华书局, 1988, 下册: 590</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[M]. 北京: 高等教育出版社, 1998: 146–163</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[A]. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 2002: 22–25</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986, 世界各国和地区名称代码[S] 全国文献工作标准化委员会. . 文献工作国家标准汇编: 3 北京: 1988: 59–92</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986, 世界各国和地区名称代码[S]. 文献工作国家标准汇编: 3 北京: 1988: 59–92</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[M]. 北京: 中华书局, 1977, 第 1 册: 49</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]. 上海: 同济大学出版社, 2011: 011–012</div>
-  <div class="csl-entry">[110]	Buseck P. R., Nord G. L., Veblen D. R. Subsolidus Phenomena in Pyroxenes[M]. Washington, D.C.: Mineralogical Society of America, c1980</div>
+  <div class="csl-entry">[110]	Buseck P. R., Nord G. L. Jr., Veblen D. R. Subsolidus Phenomena in Pyroxenes[M]. Washington, D.C.: Mineralogical Society of America, c1980</div>
   <div class="csl-entry">[111]	Fourney M. E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: c1971: 17–38</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6–21</div>

@@ -257,17 +257,17 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">徐光宪, 王祥云. 2010. 物质结构[M]. 北京: 科学出版社，2010年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[54]	杨宗英. 1996. 电子图书馆的现实模型[J]，中国图书馆学报, 2: 24-29. 
-
-    <div class="csl-block">杨宗英. 1996. 电子图书馆的现实模型[J]，中国图书馆学报, 2: 24-29. (In Chinese)</div>
-</div>
-  <div class="csl-entry">[55]	杨保军. 2012. 新闻道德论[D]，中国人民大学出版社博士学位论文学位论文，2012年
+  <div class="csl-entry">[54]	杨保军. 2012. 新闻道德论[D]，中国人民大学出版社博士学位论文学位论文，2012年
 
     <div class="csl-block">杨保军. 2012. 新闻道德论[D]，中国人民大学出版社博士学位论文学位论文，2012年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[56]	杨洪升. 2013. 四库馆私家抄校书考略[J]，文献, 1: 56-75. 
+  <div class="csl-entry">[55]	杨洪升. 2013. 四库馆私家抄校书考略[J]，文献, 1: 56-75. 
 
     <div class="csl-block">杨洪升. 2013. 四库馆私家抄校书考略[J]，文献, 1: 56-75. (In Chinese)</div>
+</div>
+  <div class="csl-entry">[56]	杨宗英. 1996. 电子图书馆的现实模型[J]，中国图书馆学报, 2: 24-29. 
+
+    <div class="csl-block">杨宗英. 1996. 电子图书馆的现实模型[J]，中国图书馆学报, 2: 24-29. (In Chinese)</div>
 </div>
   <div class="csl-entry">[57]	于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]，清华大学学报(自然科学版), 52(11): 1518-1523. 
 
@@ -281,21 +281,21 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]，科学通报, 57(34): 3219. (In Chinese)</div>
 </div>
-  <div class="csl-entry">[60]	张忠智. 1997. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, ed.//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编北京: 中国科学技术期刊编辑学会学术委员会，1997年
-
-    <div class="csl-block">张忠智. 1997. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, ed.//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编北京: 中国科学技术期刊编辑学会学术委员会，1997年 (In Chinese)</div>
-</div>
-  <div class="csl-entry">[61]	张田勤. 2000. 罪犯 DNA 库与生命伦理学计划[N]，大众科技报, : 7. 
-
-    <div class="csl-block">张田勤. 2000. 罪犯 DNA 库与生命伦理学计划[N]，大众科技报, : 7. (In Chinese)</div>
-</div>
-  <div class="csl-entry">[62]	张伯伟. 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002年
+  <div class="csl-entry">[60]	张伯伟. 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002年
 
     <div class="csl-block">张伯伟. 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[63]	张凯军. 2012. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 2012-04-05
+  <div class="csl-entry">[61]	张凯军. 2012. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 2012-04-05
 
     <div class="csl-block">张凯军. 2012. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 2012-04-05 (In Chinese)</div>
+</div>
+  <div class="csl-entry">[62]	张田勤. 2000. 罪犯 DNA 库与生命伦理学计划[N]，大众科技报, : 7. 
+
+    <div class="csl-block">张田勤. 2000. 罪犯 DNA 库与生命伦理学计划[N]，大众科技报, : 7. (In Chinese)</div>
+</div>
+  <div class="csl-entry">[63]	张忠智. 1997. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, ed.//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编北京: 中国科学技术期刊编辑学会学术委员会，1997年
+
+    <div class="csl-block">张忠智. 1997. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, ed.//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编北京: 中国科学技术期刊编辑学会学术委员会，1997年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[64]	赵学功. 2001. 当代美国外交[M]. 北京: 社会科学文献出版社，2001年
 
@@ -361,37 +361,37 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">anonymous. 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[80]	Anonymous. 2009. Information and documentation—The Dublin core metadata element set[S]. 
-
-    <div class="csl-block">anonymous. 2009. Information and documentation—The Dublin core metadata element set[S].  (In Chinese)</div>
-</div>
-  <div class="csl-entry">[81]	Anonymous. 2011a. 周易外传: 卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年
+  <div class="csl-entry">[80]	Anonymous. 2011a. 周易外传: 卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年
 
     <div class="csl-block">anonymous. 2011. 周易外传: 卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[82]	Anonymous. 2011b. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 陈志勇, ed.. 北京: 经济科学出版社，2011年
+  <div class="csl-entry">[81]	Anonymous. 2011b. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 陈志勇, ed.. 北京: 经济科学出版社，2011年
 
     <div class="csl-block">anonymous. 2011. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 陈志勇, ed.. 北京: 经济科学出版社，2011年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[83]	Anonymous. 2012a. 综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, eds.. 北京: 海洋出版社，2012年
+  <div class="csl-entry">[82]	Anonymous. 2012a. 综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, eds.. 北京: 海洋出版社，2012年
 
     <div class="csl-block">anonymous. 2012. 综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, eds.. 北京: 海洋出版社，2012年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[84]	Anonymous. 2012b. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, ed.. 北京: 九州出版社，2012年
+  <div class="csl-entry">[83]	Anonymous. 2012b. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, ed.. 北京: 九州出版社，2012年
 
     <div class="csl-block">anonymous. 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, ed.. 北京: 九州出版社，2012年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[85]	Anonymous. 2012c. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 雷光春, ed.. 北京: 海洋出版社，2012年
+  <div class="csl-entry">[84]	Anonymous. 2012c. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 雷光春, ed.. 北京: 海洋出版社，2012年
 
     <div class="csl-block">anonymous. 2012. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 雷光春, ed.. 北京: 海洋出版社，2012年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[86]	Anonymous. 2012d. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14)
+  <div class="csl-entry">[85]	Anonymous. 2012d. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14)
 
     <div class="csl-block">anonymous. 2012. Dublin core metadata element set: version 1.1[EB/OL](2012-06-14) (In Chinese)</div>
 </div>
-  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年
+  <div class="csl-entry">[86]	Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年
 
     <div class="csl-block">anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
+</div>
+  <div class="csl-entry">[87]	Anonymous. [no date]. Information and documentation—The Dublin core metadata element set[S]. 
+
+    <div class="csl-block">anonymous. [no date]. Information and documentation—The Dublin core metadata element set[S].  (In Chinese)</div>
 </div>
   <div class="csl-entry">[88]	BAKER S K, JACKSON M E. 1995. The future of resource sharing[M]. New York: The Haworth Press，1995年
 
@@ -405,9 +405,9 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">BAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04) (In Chinese)</div>
 </div>
-  <div class="csl-entry">[91]	BUSECK P R, NORD G L, VEBLEN D R. c1980. Subsolidus phenomena in pyroxenes[M]//PyroxenseWashington, D.C.: Mineralogical Society of America，c1980年
+  <div class="csl-entry">[91]	BUSECK P R, NORD G L Jr, VEBLEN D R. c1980. Subsolidus phenomena in pyroxenes[M]//PyroxenseWashington, D.C.: Mineralogical Society of America，c1980年
 
-    <div class="csl-block">BUSECK P R, NORD G L, VEBLEN D R. c1980. Subsolidus phenomena in pyroxenes[M]//PyroxenseWashington, D.C.: Mineralogical Society of America，c1980年 (In Chinese)</div>
+    <div class="csl-block">BUSECK P R, NORD G L Jr, VEBLEN D R. c1980. Subsolidus phenomena in pyroxenes[M]//PyroxenseWashington, D.C.: Mineralogical Society of America，c1980年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[92]	CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，Univ. of California，1965年
 

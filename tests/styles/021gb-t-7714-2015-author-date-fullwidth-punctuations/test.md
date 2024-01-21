@@ -58,7 +58,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">丁文详，2000．数字革命与竞争国际化［N］．中国青年报，2000-11-20（15）．</div>
   <div class="csl-entry">傅刚，赵承，李佳路，2000．大风沙过后的思考［N/OL］．北京青年报，2000-01-12［2005-09-28］．<a href="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</a>．</div>
   <div class="csl-entry">顾炎武，1992．昌平山水记: 京东考古录［M］．北京：北京古籍出版社．</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所, 1988. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59—92.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所，1988．世界各国和地区名称代码：GB/T 2659—1986［S］//全国文献工作标准化委员会．文献工作国家标准汇编: 3．北京：中国标准出版社：59—92．</div>
   <div class="csl-entry">国家环境保护局科技标准司，1996．土壤环境质量标准：GB 15616—1995［S/OL］．北京：中国标准出版社：2—3［2013-10-14］．<a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>．</div>
   <div class="csl-entry">哈里森·沃尔德伦，2012．经济数学与金融数学［M］．谢远涛，译．北京：中国人民大学出版社：235—236．</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司，2001．一种荒漠化地区生态植被综合培育种植方法：01129210.5［P/OL］．2001-10-24［2002-05-28］．<a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>．</div>
@@ -108,9 +108,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名，1977．宋史卷三: 本纪第三［M］//宋史：第 1 册．北京：中华书局：49．</div>
   <div class="csl-entry">Anon, 1981. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">佚名，1988．卷 39 乞致仕第一［M］//苏魏公文集：下册．北京：中华书局：590．</div>
-  <div class="csl-entry">Anon, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   <div class="csl-entry">佚名，2011．周易外传: 卷 5［M］//王夫之．船山全书：第 6 册．长沙：岳麓书社：1109．</div>
   <div class="csl-entry">Anon, 2012. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">Anon. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   <div class="csl-entry">于潇，刘义，柴跃廷，等，2012．互联网药品可信交易环境中主体资质审核备案模式［J］．清华大学学报(自然科学版)，52（11）：1518—1523．</div>
   <div class="csl-entry">余建斌，2013．我们的科技一直在追赶: 访中国工程院院长周济［N/OL］．人民日报，2013-01-12（2）［2013-03-20］．<a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>．</div>
   <div class="csl-entry">袁训来，陈哲，肖书海，等，2012．蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口［J］．科学通报，57（34）：3219．</div>
@@ -134,7 +134,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">BALDOCK P, 2011. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press: 105[2012-11-27]. <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117—211.</div>
+  <div class="csl-entry">BUSECK P R, NORD G L Jr, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117—211.</div>
   <div class="csl-entry">CAIRNS B R, 1965. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CALKIN D, AGER A, THOMPSON M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 8—9.</div>
   <div class="csl-entry">CAPLAN P, 1993. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 4(2): 61—66.</div>

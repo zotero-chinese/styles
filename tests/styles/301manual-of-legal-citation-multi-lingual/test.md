@@ -214,7 +214,7 @@
 <sup>20</sup> 陈晋镳、张惠民等：《蓟县震旦亚界研究》，载中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版。<br>
 <sup>21</sup> 马克思：《政治经济学批判》，载马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，人民出版社2013年版。<br>
 <sup>22</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
-<sup>23</sup> L. Weinstein &#38; M. N. Swertz, <i>Pathogenic Properties of Invading Microorganism</i>, in W. A. Sodeman Jr &#38; W. A. Sodeman eds., Pathologic Physiology: Mechanisms of Disease, Saunders, 1974.<br>
+<sup>23</sup> L. Weinstein &#38; M. N. Swertz, <i>Pathogenic Properties of Invading Microorganism</i>, in W. A. Sodeman Jr. &#38; W. A. Sodeman eds., Pathologic Physiology: Mechanisms of Disease, Saunders, 1974.<br>
 <sup>24</sup> J. Alan Roberson &#38; Eric G. Burneson, <i>Drinking Water Standards, Regulations and Goals</i>, in American Water Works Association ed., Water Quality &#38; Treatment: A Handbook on Drinking Water, McGraw-Hill, 2011.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》（第1卷），中华医学会湖北分会1984年版。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京图书馆1957年版。<br>
@@ -234,7 +234,7 @@
 <sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年1月16日。<br>
 <sup>41</sup> 《关于转发北京市企业投资项目核准暂行实施办法的通知》。<br>
 <sup>42</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
-<sup>43</sup> Online Computer Library Center, Inc, <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).<br>
+<sup>43</sup> Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).<br>
 <sup>44</sup> A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, (22 April 2009), <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
 <sup>45</sup> <i>Coffee Drinking and Cancer of the Pancreas</i>, 283 British Medical Journal 628 (1981).<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学2000年博士学位论文。<br>
@@ -253,8 +253,8 @@
 <sup>59</sup> Margaret F. Stieg, <i>The Information Needs of Historians</i>, 42 College &#38; Research Libraries 549 (1981).<br>
 <sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，载《山西师范大学学报(社会科学版)》2010年第4期。<br>
 <sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，载曹志耘主编：《汉语方言的地理语言学研究》，商务印书馆2010年版。<br>
-<sup>62</sup> W. James Kennedy &#38; Robert E. Garrison, <i>Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England</i>, 22 Sedimentology 311 (1975).<br>
-<sup>63</sup> W. James Kennedy &#38; Robert E. Garrison, <i>Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England</i>, 8 Lethaia 339 (1975).<br>
+<sup>62</sup> William James Kennedy &#38; Robert E. Garrison, <i>Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England</i>, 22 Sedimentology 311 (1975).<br>
+<sup>63</sup> William James Kennedy &#38; Robert E. Garrison, <i>Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England</i>, 8 Lethaia 339 (1975).<br>
 <sup>64</sup> 张忠智：《科技书刊的总编(主编)的角色要求》，载中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会1997年版。<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》（修订本），商务印书馆1996年版。<br>
 <sup>66</sup> 刘彻东：《中国的青年刊物: 个性特色为本仁》，载《中国出版》1998年第5期。<br>
@@ -294,14 +294,14 @@
 <sup>100</sup> 全国信息与文献标准化技术委员会《文献著录: 第 4 部分 非书资料》，GB/T 3792.4—2009。<br>
 <sup>101</sup> 全国广播电视标准化技术委员会《广播电视音像资料编目规范: 第 2 部分 广播资料》，GY/T 202.2—2007。<br>
 <sup>102</sup> 国家环境保护局科技标准司《土壤环境质量标准》，GB 15616—1995。<br>
-<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>, 2009.<br>
+<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.<br>
 <sup>104</sup> 《卷 39 乞致仕第一》，载《苏魏公文集》下册，中华书局1988年版。<br>
 <sup>105</sup> 白书农：《植物开花研究》，载李承森主编：《植物科学进展》，高等教育出版社1998年版。<br>
 <sup>106</sup> 汪学军：《中国农业转基因生物研究进展与安全管理》，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社2002年版。<br>
-<sup>107</sup> 国家标准局信息分类编码研究所, 世界各国和地区名称代码, 文献工作国家标准汇编: 3, 中国标准出版社, 1988.<br>
+<sup>107</sup> 国家标准局信息分类编码研究所《世界各国和地区名称代码》，GB/T 2659—1986。<br>
 <sup>108</sup> 《宋史卷三: 本纪第三》，载《宋史》第 1 册，中华书局1977年版。<br>
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版。<br>
-<sup>110</sup> P. R. Buseck, G. L. Nord &#38; D. R. Veblen, <i>Subsolidus Phenomena in Pyroxenes</i>, in Pyroxense, Mineralogical Society of America, c1980.<br>
+<sup>110</sup> Peter R. Buseck, Gordon L. Nord Jr. &#38; David R. Veblen, <i>Subsolidus Phenomena in Pyroxenes</i>, in Pyroxense, Mineralogical Society of America, c1980.<br>
 <sup>111</sup> M. E. Fourney, <i>Advances in Holographic Photoelasticity</i>, in Symposium on Applications of Holography in Mechanics, ASME, c1971.<br>
 <sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，载《文献》2013年第1期。<br>
 <sup>113</sup> 李炳穆：《韩国图书馆法》，载《图书情报工作》2008年第6期。<br>

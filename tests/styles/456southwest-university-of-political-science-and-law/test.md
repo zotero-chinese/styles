@@ -200,7 +200,7 @@
 <sup>20</sup> 陈晋镳，张惠民，朱士兴等：“蓟县震旦亚界研究”，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年版。<br>
 <sup>21</sup> 马克思：“政治经济学批判”，马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年版。<br>
 <sup>22</sup> 贾东琴，柯平：“面向数字素养的高校图书馆数字服务体系研究”，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年版。<br>
-<sup>23</sup> Weinstein, L. &#38; Swertz, M. N., “Pathogenic properties of invading microorganism,” in Sodeman, W. A., Jr &#38; Sodeman, W. A. eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Saunders, 1974.<br>
+<sup>23</sup> Weinstein, L. &#38; Swertz, M. N., “Pathogenic properties of invading microorganism,” in Sodeman, W. A., Jr. &#38; Sodeman, W. A. eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Saunders, 1974.<br>
 <sup>24</sup> Roberson, J. A. &#38; Burneson, E. G., “Drinking water standards, regulations and goals,” in American Water Works Association ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, McGraw-Hill, 2011.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》，武汉：中华医学会湖北分会，1984年版。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年版。<br>
@@ -220,7 +220,7 @@
 <sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年版。<br>
 <sup>41</sup> 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，京政办发[2005]37号，2005年7月12日发布。<br>
 <sup>42</sup> Bawden, D., <i>Origins and Concepts of Digital Literacy</i>, (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
-<sup>43</sup> Online Computer Library Center, Inc, <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).<br>
+<sup>43</sup> Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).<br>
 <sup>44</sup> Hopkinson, A., <i>UNIMARC and Metadata: Dublin Core</i>, (22 April 2009), <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
 <sup>45</sup> “Coffee drinking and cancer of the pancreas,” <i>British Medical Journal</i>, (283)6292, 1981.<br>
 <sup>46</sup> 刘乃安：“生物质材料热解失重动力学及其分析方法研究”，中国科学技术大学博士学位论文，2000年。<br>
@@ -280,14 +280,14 @@
 <sup>100</sup> 全国信息与文献标准化技术委员会：《文献著录: 第 4 部分 非书资料》，北京：中国标准出版社，2010年版。<br>
 <sup>101</sup> 全国广播电视标准化技术委员会：《广播电视音像资料编目规范: 第 2 部分 广播资料》，北京：国家广播电影电视总局广播电视规划院，2007年版。<br>
 <sup>102</sup> 国家环境保护局科技标准司：《土壤环境质量标准》，北京：中国标准出版社，1996年版。<br>
-<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>, 2009.<br>
+<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.<br>
 <sup>104</sup> “卷 39 乞致仕第一”，《苏魏公文集》下册，北京：中华书局，1988年版。<br>
 <sup>105</sup> 白书农：“植物开花研究”，李承森主编：《植物科学进展》，北京：高等教育出版社，1998年版。<br>
 <sup>106</sup> 汪学军：“中国农业转基因生物研究进展与安全管理”，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年版。<br>
-<sup>107</sup> 国家标准局信息分类编码研究所, 世界各国和地区名称代码, 文献工作国家标准汇编: 3, 中国标准出版社, 1988.<br>
+<sup>107</sup> 国家标准局信息分类编码研究所：《世界各国和地区名称代码》，《文献工作国家标准汇编: 3》，北京：中国标准出版社，1988年版。<br>
 <sup>108</sup> “宋史卷三: 本纪第三”，《宋史》第 1 册，北京：中华书局，1977年版。<br>
 <sup>109</sup> 楼梦鳞，杨燕：“汶川地震基岩地震动特征分析”，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年版。<br>
-<sup>110</sup> Buseck, P. R., Nord, G. L. &#38; Veblen, D. R., “Subsolidus phenomena in pyroxenes,” in <i>Pyroxense</i>, Mineralogical Society of America, c1980.<br>
+<sup>110</sup> Buseck, P. R., Nord, G. L., Jr. &#38; Veblen, D. R., “Subsolidus phenomena in pyroxenes,” in <i>Pyroxense</i>, Mineralogical Society of America, c1980.<br>
 <sup>111</sup> Fourney, M. E., “Advances in holographic photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971.<br>
 <sup>112</sup> 杨洪升：“四库馆私家抄校书考略”，《文献》，2013年第1期。<br>
 <sup>113</sup> 李炳穆：“韩国图书馆法”，《图书情报工作》，2008年第6期。<br>

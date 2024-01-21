@@ -71,7 +71,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Baker SK, Jackson ME. 1995. The future of resource sharing. New York: The Haworth Press</div>
   <div class="csl-entry">Baldock P. 2011. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, pp. 105</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy</div>
-  <div class="csl-entry">Buseck PR, Nord GL, Veblen DR. c1980. Subsolidus phenomena in pyroxenes.//Pyroxense. Washington, D.C.: Mineralogical Society of America, pp. 117-211</div>
+  <div class="csl-entry">Buseck PR, Nord GL Jr, Veblen DR. c1980. Subsolidus phenomena in pyroxenes.//Pyroxense. Washington, D.C.: Mineralogical Society of America, pp. 117-211</div>
   <div class="csl-entry">Cairns BR. 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. pp. 8-9</div>
   <div class="csl-entry">Caplan P. 1993. Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61-66</div>
@@ -133,7 +133,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2011. pp. 5-6 (in Chinese) [同济大学土木工程防灾国家重点实验室. 2011. 汶川地震灾害研究. 上海: 同济大学出版社, pp. 5-6]</div>
   <div class="csl-entry">2003 (in Chinese) [吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究. 北京: 北京大学]</div>
   <div class="csl-entry">2012. pp. 235-236 (in Chinese) [哈里森·沃尔德伦. 2012. 经济数学与金融数学. 北京: 中国人民大学出版社, pp. 235-236]</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码. 全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, pp. 59-92</div>
+  <div class="csl-entry">1988. pp. 59-92 (in Chinese) [国家标准局信息分类编码研究所. 1988. 世界各国和地区名称代码. 全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, pp. 59-92]</div>
   <div class="csl-entry">1996. pp. 2-3 (in Chinese) [国家环境保护局科技标准司. 1996. 土壤环境质量标准. 北京: 中国标准出版社, pp. 2-3]</div>
   <div class="csl-entry">1996 (in Chinese) [尼葛洛庞帝. 1996. 数字化生存. 海口: 海南出版社]</div>
   <div class="csl-entry">2012. (2 版) (in Chinese) [库恩. 2012. 科学革命的结构: 第 4 版 (2 版). 北京: 北京大学出版社]</div>
@@ -187,7 +187,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1985 (in Chinese) [1985. 职工教育研究论文集. 北京: 人民教育出版社]</div>
   <div class="csl-entry">1988. pp. 590 (in Chinese) [1988. 卷 39 乞致仕第一.//苏魏公文集. 北京: 中华书局, pp. 590]</div>
   <div class="csl-entry">2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema</div>
-  <div class="csl-entry">2009. Information and documentation—The Dublin core metadata element set</div>
   <div class="csl-entry">2011a. pp. 1109 (in Chinese) [2011a. 周易外传: 卷 5.//王夫之. 船山全书. 长沙: 岳麓书社, pp. 1109]</div>
   <div class="csl-entry">2011b (in Chinese) [2011b. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社]</div>
   <div class="csl-entry">2012a (in Chinese) [2012a. 综合湿地管理国际研讨会论文集. 北京: 海洋出版社]</div>
@@ -195,6 +194,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2012c (in Chinese) [2012c. 综合湿地管理: 综合湿地管理国际研讨会论文集. 北京: 海洋出版社]</div>
   <div class="csl-entry">2012d. Dublin core metadata element set: version 1.1</div>
   <div class="csl-entry">2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer</div>
+  <div class="csl-entry">N.d. Information and documentation—The Dublin core metadata element set</div>
 </div>
 
 ### 《心理学报》 示例文献

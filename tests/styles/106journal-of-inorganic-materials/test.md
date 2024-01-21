@@ -132,10 +132,10 @@ Undefined
   <div class="csl-entry">[104]	佚名. 卷 39 乞致仕第一//苏魏公文集. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究. 李承森, 编//植物科学进展. 北京: 高等教育出版社, 1998: 146–163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理. 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22–25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59–92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59–92.</div>
   <div class="csl-entry">[108]	佚名. 宋史卷三: 本纪第三//宋史. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012.</div>
-  <div class="csl-entry">[110]	BUSECK P R, NORD G L, VEBLEN D R. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: <i>Mineralogical Society of America</i>, c1980: 117–211.</div>
+  <div class="csl-entry">[110]	BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: <i>Mineralogical Society of America</i>, c1980: 117–211.</div>
   <div class="csl-entry">[111]	FOURNEY M E. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics. New York: <i>ASME</i>, c1971: 17–38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013<b>(1)</b><b>: </b>56–75.</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法. 图书情报工作, 2008, <b>52</b><b>(6)</b><b>: </b>6–21.</div>

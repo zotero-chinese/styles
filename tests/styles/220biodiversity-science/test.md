@@ -67,7 +67,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">Baker SK, Jackson ME (1995) The Future of Resource Sharing. The Haworth Press, New York.</div>
   <div class="csl-entry">Baldock P (2011) Developing Early Childhood Services: Past, Present and Future, p. 105. Open University Press, Rotterdam.</div>
   <div class="csl-entry">Bawden D (2008) Origins and Concepts of Digital Literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (2013-03-08)</div>
-  <div class="csl-entry">Buseck PR, Nord GL, Veblen DR (c1980) Subsolidus phenomena in pyroxenes. In: Pyroxense, pp. 117–211. Mineralogical Society of America, Washington, D.C.</div>
+  <div class="csl-entry">Buseck PR, Nord GL Jr, Veblen DR (c1980) Subsolidus phenomena in pyroxenes. In: Pyroxense, pp. 117–211. Mineralogical Society of America, Washington, D.C.</div>
   <div class="csl-entry">Cairns BR (1965) Infrared Spectroscopic Studies on Solid Oxygen. PhD dissertation, Univ. of California, Berkeley.</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M (2011) A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, pp. 8–9.</div>
   <div class="csl-entry">Caplan P (1993) Cataloging internet resources. The Public-Access Computer Systems Review, 4(2), 61–66.</div>
@@ -92,7 +92,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">Morri I (2010) Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future. Farrar, Straus and Giroux, New York.</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
   <div class="csl-entry">O’Brien JA (1994) Introduction to Information Systems, 7th edn. Irwin, Burr Ridge, III.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc (n.d.) About OCLC: History of Cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (2012-03-27)</div>
+  <div class="csl-entry">Online Computer Library Center, Inc. (n.d.) About OCLC: History of Cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (2012-03-27)</div>
   <div class="csl-entry">Park JR, Tosaka Y (2010) Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8), 696–715.</div>
   <div class="csl-entry">Peebles PZ Jr (2001) Probability, Random Variables, and Random Signal Principles, 4th edn. McGraw-Hill, New York.</div>
   <div class="csl-entry">Praetzellis A (2011) Death by Theory: A Tale of Mystery and Archaeological Theory, Rev. ed., p. 13. Rowman &#38; Littlefield Publishing Group, Inc.</div>
@@ -129,7 +129,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室 (2011) pp. 5–6. (in Chinese) [同济大学土木工程防灾国家重点实验室 (2011) 汶川地震灾害研究, pp. 5–6. 同济大学出版社, 上海.]</div>
   <div class="csl-entry">吴云芳 (2003) (in Chinese) [吴云芳 (2003) 面向中文信息处理的现代汉语并列结构研究. PhD dissertation, 北京大学, 北京.]</div>
   <div class="csl-entry">哈里森·沃尔德伦 (2012) pp. 235–236. (in Chinese) [谢远涛 (译) (2012) 经济数学与金融数学, pp. 235–236. 中国人民大学出版社, 北京.]</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所 (1988) 世界各国和地区名称代码. In: 文献工作国家标准汇编: 3 (ed 全国文献工作标准化委员会), pp. 59–92. 中国标准出版社, 北京.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所 (1988) (in Chinese) [国家标准局信息分类编码研究所 (1988) 世界各国和地区名称代码. 收入: 文献工作国家标准汇编: 3 (编 全国文献工作标准化委员会), pp. 59–92. 中国标准出版社, 北京.]</div>
   <div class="csl-entry">国家环境保护局科技标准司 (1996) pp. 2–3. (in Chinese) [国家环境保护局科技标准司 (1996) 土壤环境质量标准, pp. 2–3. 中国标准出版社, 北京.]</div>
   <div class="csl-entry">尼葛洛庞帝 (1996) (in Chinese) [胡泳, 范海燕 (译) (1996) 数字化生存. 海南出版社, 海口.]</div>
   <div class="csl-entry">库恩 (2012) (in Chinese) [金吾伦, 胡新和 (译) (2012) 科学革命的结构: 第 4 版, 2 版. 北京大学出版社, 北京.]</div>
@@ -146,7 +146,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">杨宗英 (1996) (2), 24–29. (in Chinese) [杨宗英 (1996) 电子图书馆的现实模型. 中国图书馆学报(2), 24–29.]</div>
   <div class="csl-entry">杨洪升 (2013) (1), 56–75. (in Chinese) [杨洪升 (2013) 四库馆私家抄校书考略. 文献(1), 56–75.]</div>
   <div class="csl-entry">楼梦鳞, 杨燕 (2011) (in Chinese) [楼梦鳞, 杨燕 (2011) 汶川地震基岩地震动特征分析. 收入: 汶川地震震害研究 (编 同济大学土木工程防灾国家重点实验室), pp. 011–012. 同济大学出版社, 上海.]</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏 (2008) 33(5), 8–9. (in Chinese with English abstract) [武丽丽, 华一新, 张亚军, 刘英敏 (2008) “北斗一号”监控管理网设计与实现. 测绘科学, 33(5), 8–9.]</div>
+  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏 (2008) 33(5), 8–9. (in Chinese) [武丽丽, 华一新, 张亚军, 刘英敏 (2008) “北斗一号”监控管理网设计与实现. 测绘科学, 33(5), 8–9.]</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, others (2013) (in Chinese) [汤万金, 杨跃翔, 刘文, others (2013) 人体安全重要技术标准研制最终报告.]</div>
   <div class="csl-entry">汪冰 (1997) p. 16. (in Chinese) [汪冰 (1997) 电子图书馆理论与实践研究, p. 16. 北京图书馆出版社, 北京.]</div>
   <div class="csl-entry">汪学军 (2002) (in Chinese) [汪学军 (2002) 中国农业转基因生物研究进展与安全管理. 收入: 中国国家生物安全框架实施国际合作项目研讨会论文集 (编 国家环境保护总局生物安全管理办公室), pp. 22–25. 中国环境科学出版社, 北京.]</div>
@@ -183,7 +183,6 @@ Qian et al (2009a)<br>
   <div class="csl-entry">(1985) (in Chinese) [(1985) 职工教育研究论文集. 人民教育出版社, 北京.]</div>
   <div class="csl-entry">(1988) (in Chinese) [(1988) 卷 39 乞致仕第一. 收入: 苏魏公文集, p. 590. 中华书局, 北京.]</div>
   <div class="csl-entry">(2000) Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. A. A. Balkema, Rotterdam.</div>
-  <div class="csl-entry">(2009) Information and Documentation—The Dublin Core Metadata Element Set.</div>
   <div class="csl-entry">(2011a) (in Chinese) [(2011a) 周易外传: 卷 5. 收入: 船山全书 (编 王夫之), p. 1109. 岳麓书社, 长沙.]</div>
   <div class="csl-entry">(2011b) (in Chinese) [(2011b) 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 经济科学出版社, 北京.]</div>
   <div class="csl-entry">(2012a) (in Chinese) [(2012a) 综合湿地管理国际研讨会论文集. 海洋出版社, 北京.]</div>
@@ -191,6 +190,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">(2012c) (in Chinese) [(2012c) 综合湿地管理: 综合湿地管理国际研讨会论文集. 海洋出版社, 北京.]</div>
   <div class="csl-entry">(2012d) Dublin Core Metadata Element Set: Version 1.1. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (2014-06-11)</div>
   <div class="csl-entry">(2014) Proceedings of the Second International Conference on Soft Computing for Problem Solving. Springer, New Delhi.</div>
+  <div class="csl-entry">(N.d.) Information and Documentation—The Dublin Core Metadata Element Set.</div>
 </div>
 
 ### 《心理学报》 示例文献

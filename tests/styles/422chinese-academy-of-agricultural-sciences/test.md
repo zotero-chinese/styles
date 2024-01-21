@@ -122,9 +122,9 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">佚名, 1977. 宋史卷三: 本纪第三//宋史: 第 1 册. 北京: 中华书局: 49.</div>
   <div class="csl-entry">Anon, 1981. Coffee drinking and cancer of the pancreas. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">佚名, 1988. 卷 39 乞致仕第一//苏魏公文集: 下册. 北京: 中华书局: 590.</div>
-  <div class="csl-entry">Anon, 2009. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
   <div class="csl-entry">佚名, 2011. 周易外传: 卷 5//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">Anon, 2012. Dublin core metadata element set: version 1.1.</div>
+  <div class="csl-entry">Anon, [2013]. Information and documentation—The Dublin core metadata element set: ISO 15836:2009.</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波, 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌, 2013. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2013-01-12(2)[2013-03-20].</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪, 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34): 3219.</div>
@@ -148,7 +148,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The future of resource sharing. New York: The Haworth Press.</div>
   <div class="csl-entry">BALDOCK P, 2011. Developing early childhood services: Past, present and future. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy.</div>
-  <div class="csl-entry">BUSECK P R, NORD G L, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+  <div class="csl-entry">BUSECK P R, NORD G L Jr, VEBLEN D R, c1980. Subsolidus phenomena in pyroxenes//Pyroxense. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
   <div class="csl-entry">CAIRNS B R, 1965. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California.</div>
   <div class="csl-entry">CALKIN D, AGER A, THOMPSON M, 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 8-9.</div>
   <div class="csl-entry">CAPLAN P, 1993. Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61-66.</div>
@@ -173,7 +173,7 @@ QIAN et al. （2009a）<br>
   <div class="csl-entry">MORRI I, 2010. Why the west rules for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J, 2014. The genome of eucalyptus grandis. Nature, 510: 356-362. DOI: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   <div class="csl-entry">O’BRIEN J A, 1994. Introduction to information systems. 7th ed. Burr Ridge, III: Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc, [2012]. About OCLC: History of cooperation.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc., [2012]. About OCLC: History of cooperation.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 48(8): 696-715. DOI: <a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
   <div class="csl-entry">PEEBLES P Z Jr, 2001. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">PRAETZELLIS A, 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>

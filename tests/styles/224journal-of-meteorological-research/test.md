@@ -50,8 +50,8 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Baker, S. K., and M. E. Jackson, 1995: <i>The future of resource sharing</i>. The Haworth Press,.</div>
   <div class="csl-entry">Baldock, P., 2011: <i>Developing early childhood services: Past, present and future</i>. Open University Press,.</div>
   <div class="csl-entry">Bawden, D., 2008: Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (Accessed March 8, 2013).</div>
-  <div class="csl-entry">Buseck, P. R., G. L. Nord, and D. R. Veblen, c1980: Subsolidus phenomena in pyroxenes. <i>Pyroxense</i>, Mineralogical Society of America, 117–211.</div>
-  <div class="csl-entry">Cairns, B. R., 1965: Infrared spectroscopic studies on solid oxygen. Univ. of California, .</div>
+  <div class="csl-entry">Buseck, P. R., G. L. Nord Jr., and D. R. Veblen, c1980: Subsolidus phenomena in pyroxenes. <i>Pyroxense</i>, Mineralogical Society of America, 117–211.</div>
+  <div class="csl-entry">Cairns, B. R., 1965: Infrared spectroscopic studies on solid oxygen. Univ. of California, 224 pp.</div>
   <div class="csl-entry">Calkin, D., A. Ager, and M. Thompson, 2011: <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>.</div>
   <div class="csl-entry">Caplan, P., 1993: Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>, <b>4</b>, 61–66.</div>
   <div class="csl-entry">Chernik, B. E., 1982: <i>Introduction to library services for library technicians</i>. Libraries Unlimited, Inc.,.</div>
@@ -75,7 +75,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Morri, I., 2010: <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux,.</div>
   <div class="csl-entry">Myburg, A. A., et al., 2014: The genome of eucalyptus grandis. <i>Nature</i>, <b>510</b>, 356–362, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
   <div class="csl-entry">O’Brien, J. A., 1994: <i>Introduction to information systems</i>. 7th ed. Irwin,.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc, About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (Accessed March 27, 2012).</div>
+  <div class="csl-entry">Online Computer Library Center, Inc., About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (Accessed March 27, 2012).</div>
   <div class="csl-entry">Park, J.-R., and Y. Tosaka, 2010: Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <b>48</b>, 696–715, <a href="https://doi.org/10.1080/01639374.2010.508711">https://doi.org/10.1080/01639374.2010.508711</a>.</div>
   <div class="csl-entry">Peebles, P. Z., Jr., 2001: <i>Probability, random variables, and random signal principles</i>. 4th ed. McGraw-Hill,.</div>
   <div class="csl-entry">Praetzellis, A., 2011: <i>Death by theory: a tale of mystery and archaeological theory</i>. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.,.</div>
@@ -86,7 +86,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayshi, and T. Nakamura, 2005: Electronic watermarking method and system.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990: <i>Guidelines for handling excavated acid-producing material</i>. U.S. Department of Commerce National Information Service,.</div>
   <div class="csl-entry">Walls, S. C., W. J. Barichivich, and M. E. Brown, 2013: Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <i>Biology</i>, <b>2</b>, 399–418, <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a>.</div>
-  <div class="csl-entry">Weinstein, L., and M. N. Swertz, 1974: Pathogenic properties of invading microorganism. <i>Pathologic physiology: mechanisms of disease</i>, W.A. Sodeman Jr and W.A. Sodeman, Eds., Saunders, 745–772.</div>
+  <div class="csl-entry">Weinstein, L., and M. N. Swertz, 1974: Pathogenic properties of invading microorganism. <i>Pathologic physiology: mechanisms of disease</i>, W.A. Sodeman Jr. and W.A. Sodeman, Eds., Saunders, 745–772.</div>
   <div class="csl-entry">World Health Organization, 1970: <i>Factors regulating the immune response: Report of WHO Scientific Group</i>. WHO,.</div>
   <div class="csl-entry">Yufin, S. A., ed., 2000: <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema,.</div>
   <div class="csl-entry">丁文详, 2000: 数字革命与竞争国际化. 中国青年报, November 20.</div>
@@ -123,15 +123,15 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">张凯军, 2012: 轨道火车及高速轨道火车紧急安全制动辅助装置.</div>
   <div class="csl-entry">张忠智, 1997: 科技书刊的总编(主编)的角色要求. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编, 中国科学技术期刊编辑学会, Ed., 北京, 中国科学技术期刊编辑学会学术委员会, 33–34.</div>
   <div class="csl-entry">张田勤, 2000: 罪犯 DNA 库与生命伦理学计划. 大众科技报, November 12.</div>
-  <div class="csl-entry">徐光宪, and 王祥云, 2010: 物质结构. 科学出版社,.</div>
-  <div class="csl-entry">李幼平, and 王莉, 2010: 循证医学研究方法: 附视频. 中华移植杂志(电子版), <b>4</b>, 225–228.</div>
+  <div class="csl-entry">徐光宪 and 王祥云, 2010: 物质结构. 科学出版社,.</div>
+  <div class="csl-entry">李幼平 and 王莉, 2010: 循证医学研究方法: 附视频. 中华移植杂志(电子版), <b>4</b>, 225–228.</div>
   <div class="csl-entry">李强, 2012: 化解医患矛盾需釜底抽薪. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a> (Accessed March 25, 2013).</div>
   <div class="csl-entry">李炳穆, 2008a: 韩国图书馆法. 图书情报工作, <b>52</b>, 6–12.</div>
   <div class="csl-entry">李炳穆, 2008b: 韩国图书馆法. 图书情报工作, <b>52</b>, 6–21.</div>
   <div class="csl-entry">杨保军, 2012: 新闻道德论. 中国人民大学出版社, <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a> (Accessed November 1, 2012).</div>
   <div class="csl-entry">杨宗英, 1996: 电子图书馆的现实模型. 中国图书馆学报, 24–29.</div>
   <div class="csl-entry">杨洪升, 2013: 四库馆私家抄校书考略. 文献, 56–75.</div>
-  <div class="csl-entry">楼梦鳞, and 杨燕, 2011: 汶川地震基岩地震动特征分析. 汶川地震震害研究, 同济大学土木工程防灾国家重点实验室, Ed., 同济大学出版社, 011–012.</div>
+  <div class="csl-entry">楼梦鳞 and 杨燕, 2011: 汶川地震基岩地震动特征分析. 汶川地震震害研究, 同济大学土木工程防灾国家重点实验室, Ed., 同济大学出版社, 011–012.</div>
   <div class="csl-entry">武丽丽, 华一新, 张亚军, and 刘英敏, 2008: “北斗一号”监控管理网设计与实现. 测绘科学, <b>33</b>, 8–9, <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">https://doi.org/10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, and others, 2013: 人体安全重要技术标准研制最终报告. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a> (Accessed June 24, 2014).</div>
   <div class="csl-entry">汪冰, 1997: 电子图书馆理论与实践研究. 北京图书馆出版社,.</div>
@@ -155,7 +155,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, and 华洪, 2012: 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, <b>57</b>, 3219.</div>
   <div class="csl-entry">裴丽生, 1981: 在中国科协学术期刊编辑工作经验交流会上的讲话. 中国科协学术期刊编辑工作经验交流会资料选, 中国科学技术协会, Ed., 北京, 中国科学技术协会学会工作部, 2–10.</div>
   <div class="csl-entry">西安电子科技大学, 2002: 光折变自适应光外差探测方法.</div>
-  <div class="csl-entry">贾东琴, and 柯平, 2011: 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会年会论文集, 中国图书馆学会, Ed., Vol. 2011 年卷 of, 北京, 国家图书馆出版社, 45–52.</div>
+  <div class="csl-entry">贾东琴 and 柯平, 2011: 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会年会论文集, 中国图书馆学会, Ed., Vol. 2011 年卷 of, 北京, 国家图书馆出版社, 45–52.</div>
   <div class="csl-entry">赵学功, 2001: 当代美国外交. 社会科学文献出版社,.</div>
   <div class="csl-entry">邓一刚, 2006: 全智能节电器.</div>
   <div class="csl-entry">陈建军, 2010: 从数字地球到智慧地球. 国土资源导刊, <b>7</b>, 93, <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">https://doi.org/10.3969/j.issn.1672-5603.2010.10.038</a>.</div>
@@ -171,8 +171,8 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">1977: 宋史卷三: 本纪第三. 宋史, Vol. 第 1 册 of, 中华书局, p. 49.</div>
   <div class="csl-entry">1981: Coffee drinking and cancer of the pancreas. <i>Br. Med. J.</i>, <b>283</b>, 628.</div>
   <div class="csl-entry">1988: 卷 39 乞致仕第一. 苏魏公文集, Vol. 下册 of, 中华书局, p. 590.</div>
-  <div class="csl-entry">2009: Information and documentation—The Dublin core metadata element set.</div>
   <div class="csl-entry">2012: Dublin core metadata element set: version 1.1. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (Accessed June 11, 2014).</div>
+  <div class="csl-entry"> Information and documentation—The Dublin core metadata element set.</div>
 </div>
 
 ### 《心理学报》 示例文献

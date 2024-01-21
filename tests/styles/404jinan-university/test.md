@@ -57,7 +57,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[10]	丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000: 15.</div>
   <div class="csl-entry">[11]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000.</div>
   <div class="csl-entry">[12]	顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
-  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3, 北京: 中国标准出版社, 1988: 59–92.</div>
+  <div class="csl-entry">[13]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3, 北京: 中国标准出版社, 1988: 59–92.</div>
   <div class="csl-entry">[14]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996: 2–3.</div>
   <div class="csl-entry">[15]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235–236.</div>
   <div class="csl-entry">[16]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24.</div>
@@ -135,7 +135,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[88]	Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[89]	Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[90]	Bawden D. Origins and concepts of digital literacy[EB](2008-05-04).</div>
-  <div class="csl-entry">[91]	Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
+  <div class="csl-entry">[91]	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
   <div class="csl-entry">[92]	Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[93]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. .</div>
   <div class="csl-entry">[94]	Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61–66.</div>

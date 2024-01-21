@@ -66,7 +66,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Baker, S. K., &#38; Jackson, M. E. (1995). <i>The future of resource sharing</i>. The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. (2011). <i>Developing early childhood services: Past, present and future</i> (p. 105). Open University Press.</div>
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>.</div>
-  <div class="csl-entry">Buseck, P. R., Nord, G. L., &#38; Veblen, D. R. (c1980). Subsolidus phenomena in pyroxenes. In <i>Pyroxense</i> (pp. 117–211). Mineralogical Society of America.</div>
+  <div class="csl-entry">Buseck, P. R., Nord, G. L., Jr., &#38; Veblen, D. R. (c1980). Subsolidus phenomena in pyroxenes. In <i>Pyroxense</i> (pp. 117–211). Mineralogical Society of America.</div>
   <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Univ. of California, Berkeley.</div>
   <div class="csl-entry">Calkin, D., Ager, A., &#38; Thompson, M. (2011). <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i> (No. RMRS-GTR-262; pp. 8–9).</div>
   <div class="csl-entry">Caplan, P. (1993). Cataloging internet resources. <i>The Public-Access Computer Systems Review</i>, <i>4</i>(2), 61–66.</div>
@@ -84,7 +84,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Franz, A. K., Danielewicz, M. A., Wong, D. M., Anderson, L. A., &#38; Boothe, J. R. (2013). Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. <i>ACS Chemical Biology</i>, <i>8</i>, 1053–1062.</div>
   <div class="csl-entry">Frese, K. S., Katus, H. A., &#38; Meder, B. (2013). Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <i>2</i>(1), 378–398.</div>
   <div class="csl-entry">Hopkinson, A. (2009, April 22). <i>UNIMARC and metadata: Dublin core</i>.</div>
-  <div class="csl-entry"><i>Information and documentation—The Dublin core metadata element set</i> (No. ISO 15836:2009). (2009).</div>
+  <div class="csl-entry"><i>Information and documentation—The Dublin core metadata element set</i> (No. ISO 15836:2009). (n.d.).</div>
   <div class="csl-entry">International Federation of Library Association and Institutions. (1977). <i>Names of persons: National usages for entry in catalogues</i> (3rd ed.). IFLA International Office for UBC.</div>
   <div class="csl-entry">Kanamori, H. (1998). Shaking without quaking. <i>Science</i>, <i>279</i>(5359), 2063.</div>
   <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975a). Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. <i>Sedimentology</i>, <i>22</i>, 311.</div>
@@ -105,7 +105,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayshi, S., &#38; Nakamura, T. (2005). <i>Electronic watermarking method and system</i> (No. US6915001).</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001). U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Walls, S. C., Barichivich, W. J., &#38; Brown, M. E. (2013). Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <i>Biology</i>, <i>2</i>(1), 399–418.</div>
-  <div class="csl-entry">Weinstein, L., &#38; Swertz, M. N. (1974). Pathogenic properties of invading microorganism. In W. A. Sodeman Jr &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (pp. 745–772). Saunders.</div>
+  <div class="csl-entry">Weinstein, L., &#38; Swertz, M. N. (1974). Pathogenic properties of invading microorganism. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (pp. 745–772). Saunders.</div>
   <div class="csl-entry">World Health Organization. (1970). <i>Factors regulating the immune response: Report of WHO Scientific Group</i>. WHO.</div>
   <div class="csl-entry">Yufin, S. A. (Ed.). (2000). <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema.</div>
   <div class="csl-entry">[丁文详. (2000-11-20). 数字革命与竞争国际化. <i>中国青年报</i>, p15.]</div>
@@ -135,7 +135,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[同济大学土木工程防灾国家重点实验室. (2011). <i>汶川地震灾害研究</i> (pp. 5–6). 上海: 同济大学出版社.]</div>
   <div class="csl-entry">[吴云芳. (2003). <i>面向中文信息处理的现代汉语并列结构研究</i>. 北京大学, 北京.]</div>
   <div class="csl-entry">[哈里森·沃尔德伦. (2012). <i>经济数学与金融数学</i> (谢远涛 译; pp. 235–236). 北京: 中国人民大学出版社.]</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. (1988). 世界各国和地区名称代码. In 全国文献工作标准化委员会 (Ed.), <i>文献工作国家标准汇编: 3</i> (No. GB/T 2659—1986; pp. 59–92). 中国标准出版社.</div>
+  <div class="csl-entry">[国家标准局信息分类编码研究所. (1988). 世界各国和地区名称代码. 见 全国文献工作标准化委员会 (编), <i>文献工作国家标准汇编: 3</i> (No. GB/T 2659—1986; pp. 59–92). 北京: 中国标准出版社.]</div>
   <div class="csl-entry">[国家环境保护局科技标准司. (1996). <i>土壤环境质量标准</i> (No. GB 15616—1995; pp. 2–3). 北京: 中国标准出版社.]</div>
   <div class="csl-entry">[宋史卷三: 本纪第三. (1977). 见 <i>宋史</i>(第 1 册) (p. 49). 北京: 中华书局.]</div>
   <div class="csl-entry">[尼葛洛庞帝. (1996). <i>数字化生存</i> (胡泳, 范海燕 译). 海口: 海南出版社.]</div>

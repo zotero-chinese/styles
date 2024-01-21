@@ -45,17 +45,16 @@ Qian et al. （2009b）<br>
 ### GB/T 7714—2015 示例文献
 
 <div class="csl-bib-body hanging-indent">
-  <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, ed.//文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988. 59–92. </div>
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. <i><span style="font-style:normal;">British Medical Journal</span></i>, 1981, 283(6292): 628. </div>
   <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000. . </div>
-  <div class="csl-entry">Anonymous. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. . </div>
   <div class="csl-entry">Anonymous. Dublin core metadata element set: version 1.1[EB](2012–06–14). </div>
   <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014. . </div>
+  <div class="csl-entry">Anonymous. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. . </div>
   <div class="csl-entry">American Association for the Advancement of Science. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883. . </div>
   <div class="csl-entry">Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995. . </div>
   <div class="csl-entry">Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011. 105. </div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008–05–04). </div>
-  <div class="csl-entry">Buseck P R, Nord G L, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980. 117–211. </div>
+  <div class="csl-entry">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980. 117–211. </div>
   <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965. . </div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. . </div>
   <div class="csl-entry">Caplan P. Cataloging internet resources[J]. <i><span style="font-style:normal;">The Public-Access Computer Systems Review</span></i>, 1993, 4(2): 61–66. </div>
@@ -105,6 +104,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000: 15. </div>
   <div class="csl-entry">傅刚，赵承，李佳路. 大风沙过后的思考[N]. 北京青年报, 2000. </div>
   <div class="csl-entry">顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社，1992. . </div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, 编//文献工作国家标准汇编: 3. 北京: 中国标准出版社，1988. 59–92. </div>
   <div class="csl-entry">国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社，1996. 2–3. </div>
   <div class="csl-entry">哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社，2012. 235–236. </div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001–10–24. </div>
@@ -145,9 +145,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P]. 2002–03–06. </div>
   <div class="csl-entry">萧钰. 出版业信息化迈入快车道[EB](2001–12–19). </div>
   <div class="csl-entry">徐光宪，王祥云. 物质结构[M]. 北京: 科学出版社，2010. . </div>
-  <div class="csl-entry">杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24–29. </div>
   <div class="csl-entry">杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社，2012. . </div>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75. </div>
+  <div class="csl-entry">杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24–29. </div>
   <div class="csl-entry">佚名. 康熙字典: 巳集上: 水部[M]. 同文书局影印本 版. 北京: 中华书局，1962. 50. </div>
   <div class="csl-entry">佚名. 宋史卷三: 本纪第三[M]//宋史. 北京: 中华书局，1977. 49. </div>
   <div class="csl-entry">佚名. 职工教育研究论文集[M]. 中国职工教育研究会, 编. 北京: 人民教育出版社，1985. . </div>
@@ -160,10 +160,10 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">于潇，刘义，柴跃廷，等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518–1523. </div>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013: 2. </div>
   <div class="csl-entry">袁训来，陈哲，肖书海，等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219. </div>
-  <div class="csl-entry">张忠智. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会，1997. 33–34. </div>
-  <div class="csl-entry">张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000: 7. </div>
   <div class="csl-entry">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002. 288. </div>
   <div class="csl-entry">张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012–04–05. </div>
+  <div class="csl-entry">张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000: 7. </div>
+  <div class="csl-entry">张忠智. 科技书刊的总编(主编)的角色要求[C]. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会，1997. 33–34. </div>
   <div class="csl-entry">赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社，2001. . </div>
   <div class="csl-entry">中国第一历史档案馆，辽宁省档案馆. 中国明朝档案总汇[Z]. 桂林: 广西师范大学出版社，2001. . </div>
   <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. . </div>
