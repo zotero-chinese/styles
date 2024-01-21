@@ -172,24 +172,24 @@
 <sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》第40卷，《心理学报》2008年。<br>
 <sup>7</sup> S. A. Wolchik、S. G. West、I. N. Sandler、J. Y. Tein、D. Coatsworth、L. Lengua、L. Weiss、E. R. Anderson、S. M. Greene、W. A. Griffin：《An experimental evaluation of theory-based mother and mother-child programs for children of divorce》第68卷，《Journal of Consulting and Clinical Psychology》2000年第5期。<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》。<br>
-<sup>9</sup> Sujata M. Huestegge、Tim Raettig、Lynn Huestegge：《Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing》，2019年。<br>
-<sup>10</sup> Dalila Burin、Konstantina Kilteni、Marco Rabuffetti、Mel Slater、Lorenzo Pia：《Body ownership increases the interference between observed and executed movements.》第14卷，《PLoS ONE》2019年第1期。<br>
+<sup>9</sup> Sujata M. Huestegge、Tim Raettig、Lynn Huestegge：《Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing》，《Experimental Psychology》2019年。<br>
+<sup>10</sup> Dalila Burin、Konstantina Kilteni、Marco Rabuffetti、Mel Slater、Lorenzo Pia：《Body ownership increases the interference between observed and executed movements》第14卷，《PLoS ONE》2019年第1期。<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》第40卷，《心理学报》2008年增刊。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年。<br>
-<sup>14</sup> Jewelle Taylor Gibbs、Larke Nahme Huang主编：《Children of color: Psychological interventions with minority youth.》，Hoboken,  NJ,  US：Jossey-Bass，1989年。<br>
+<sup>14</sup> Jewelle Taylor Gibbs、Larke Nahme Huang主编：《Children of color: Psychological interventions with minority youth.》，Hoboken, NJ, US：Jossey-Bass，1989年。<br>
 <sup>15</sup> Pierre-Simon Laplace：《A philosophical essay on probabilities》，F. W. Truscott、F. L. Emory译，Dover，1951年。<br>
-<sup>16</sup> 拉普拉斯 Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年。<br>
+<sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年。<br>
 <sup>17</sup> Roberta Klatzky：《Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections》，C. Freksa、C. Habel、K. F. Wender主编：《Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge》，Springer-Verlag，1998年。<br>
 <sup>18</sup> Deng Feng Wang、Hong Cui：《Theoretical analysis of the seven factor model of Chinese personality》第1卷，Deng Feng Wang、Yu Bo Hou主编：《Selected papers on personality and social psychology》，Beijing：Peking University Press，2004年。<br>
 <sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》第1卷，王登峰、侯玉波主编：《人格与社会心理学论丛》，北京：北京大学出版社，2004年。<br>
-<sup>20</sup> John S. Auerbach：《The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation》，M. F. Bornstein主编：《Handbook of child psychology: Vol. 4. Socialization, personality, and social development》，Washington,  DC,  US：Wiley，1993年。<br>
+<sup>20</sup> John S. Auerbach：《The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation》，M. F. Bornstein主编：《Handbook of child psychology: Vol. 4. Socialization, personality, and social development》，Washington, DC, US：Wiley，1993年。<br>
 <sup>21</sup> Kenneth L. Lichstein、Ronald S. Johnson：《Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs》，《Reducing medication in geriatric populations》，Uppsala, Sweden，1990年。<br>
 <sup>22</sup> Cheryl B. Lanktree、John N. Briere：《Early data on the Trauma Symptom Checklist for Children (TSC-C)》，San Diego, CA，1991年。<br>
 <sup>23</sup> John Ruby、Cain Fulton：《Beyond redlining: Editing software that works》，Washington, DC，1993年。<br>
 <sup>24</sup> Australian Bureau of Statistics：《Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990》，Canberra, Australian Capital Territory：Author，1991年。<br>
 <sup>25</sup> Terence R. Mitchell、James R. Larson：《People in organizations: An introduction to organizational behavior》，New York：McGraw-Hill，1987年。<br>
-<sup>26</sup> P. G Bergmann：《Relativity》第26卷，New York：Encyclopedia Britannica，1993年。<br>
+<sup>26</sup> P. G. Bergmann：《Relativity》第26卷，New York：Encyclopedia Britannica，1993年。<br>
 <sup>27</sup> Stanley Sadie主编：《The new Grove dictionary of music and musicians》，London : New York：Macmillan，1980年。<br>
 <sup>28</sup> 李行健主编：《现代汉语规范辞典》，北京：外语教学与研究出版社，2004年。<br>
 <sup>29</sup> 《现代汉语频率词典》，北京：北京语言学院出版社，1986年。<br>
@@ -248,8 +248,6 @@
 <sup>46</sup> Heath B. Chamberlain：《On the search for civil society in China》第19卷，《Modern China》1993年第2期。<br>
 <sup>47</sup> R. S. Schfield：《The impact of scarcity and plenty on population change in England》，R. I. Rotberg、T. K. Rabb主编：《Hunger and history: The impact of changing food production and consumption pattern on society》，Cambridge, Mass.：Cambridge University Press，1983年。<br>
 <sup>48</sup> 《Nixon to Kissinger》，1969年。<br>
-<sup>49</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编：《世界政治理论的探索与争鸣》，秦亚青等译，上海：上海人民出版社，2006年。<br>
-<sup>50</sup> 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。<br>
 
 ### 《法学引注手册》 示例文献
 
@@ -337,3 +335,204 @@
 <sup>82</sup> 《ジュリスト》，<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。<br>
 <sup>83</sup> 欧中坦：《千方百计上京城：清朝的京控》，谢鹏程译，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社，1994年。<br>
 <sup>84</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
+
+### APA 示例文献
+
+<sup>1</sup> S. M. McCauley、M. H. Christiansen：《Language learning as language use: A cross-linguistic model of child language development》第126卷，《Psychological Review》2019年第1期。<br>
+<sup>2</sup> E. Ahmann、L. J. Tuttle、M. Saviet、S. D. Wright：《A descriptive review of ADHD coaching research: Implications for college students》第31卷，《Journal of Postsecondary Education and Disability》2018年第1期。<br>
+<sup>3</sup> M. Anderson：《Getting consistent with consequences》第76卷，《Educational Leadership》2018年第1期。<br>
+<sup>4</sup> C. Goldman：《The complicated calibration of love, especially in adoption》，《Chicago Tribune》2018年。<br>
+<sup>5</sup> E. Kalnay、M. Kanamitsu、R. Kistler、W. Collins、D. Deaven、L. Gandin、M. Iredell、S. Saha、G. White、J. Wollen、Y. Zhu、M. Chelliah、W. Ebisuzaki、W. Higgins、J. Janowiak、K. C. Mo、C. Ropelewski、J. Wang、A. Leetma、A. Aaron、B. Baron C. Court、D. Joseph：《The NCEP/NCAR 40-year reanalysis project》第77卷，《Bulletin of the American Meteorological Society》1996年第3期。<br>
+<sup>6</sup> R. De Vries、M. Nieuwenhuijze、S. E. Buitendijk、the members of Midwifery Science Work Group：《What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands》第29卷，《Midwifery》2013年第10期。<br>
+<sup>7</sup> D. Burin、K. Kilteni、M. Rabuffetti、M. Slater、L. Pia：《Body ownership increases the interference between observed and executed movements》第14卷，《PLOS ONE》2019年第1期。<br>
+<sup>8</sup> S. M. Huestegge、T. Raettig、L. Huestegge：《Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing》，《Experimental Psychology》。<br>
+<sup>9</sup> T. Pachur、B. Scheibehenne：《Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach》，《Psychonomic Bulletin &#38; Review》。<br>
+<sup>10</sup> V. Chaves-Morillo、C. Gómez Calero、J. J. Fernández-Muñoz、A. Toledano-Muñoz、J. Fernández-Heute、N. Martinez-Monge、D. Palacios-Ceña、C. Peñacoba-Puente：《Sensorineural anosmia: Relationship between subtype, recognition time, and age》第28卷，《Clínica y Salud》2018年第3期。<br>
+<sup>11</sup> J. Piaget：《Intellectual evolution from adolescence to adulthood》第15卷，J. Bliss、H. Furth译，《Human Development》1972年第1期。<br>
+<sup>12</sup> M. F. Shore：《Marking time in the land of plenty: Reflections on mental health in the United States》第84卷，《American Journal of Orthopsychiatry》2014年第6期。<br>
+<sup>13</sup> 《Marking time in the land of plenty: Reflections on mental health in the United States》第51卷，《American Journal of Orthopsychiatry》1981年第3期。<br>
+<sup>14</sup> S. O. Lilienfeld主编：《Archives of scientific psychology》第6卷，2018年。<br>
+<sup>15</sup> S. H. McDaniel、E. Salas、A. E. Kazak主编：《American psychologist》第73卷，2018年。<br>
+<sup>16</sup> J. Mehrholz、M. Pohl、T. Platz、J. Kugler、B. Elsner：《Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke》，《Cochrane Database of Systematic Reviews》2018年。<br>
+<sup>17</sup> M. C. Morey：《Physical activity and exercise in older adults》，《UpToDate》2019年。<br>
+<sup>18</sup> S. Bergeson：《Really cool neutral plasmas》第363卷，《Science》2019年第6422期。<br>
+<sup>19</sup> M. Bustillos：《On video games and storytelling: An interview with Tom Bissell》，《The New Yorker》2013年。<br>
+<sup>20</sup> K. Weir：《Forgiveness can improve mental and physical health》第48卷，《Monitor on Psychology》2017年第1期。<br>
+<sup>21</sup> B. Guarino：《How will humanity react to alien life? Psychologists have some predictions》，《The Washington Post》2017年。<br>
+<sup>22</sup> A. Hess：《Cats who take direction》，《The New York Times》2019年。<br>
+<sup>23</sup> M. Klymkowsky：《Can we talk scientifically about free will?》，2018年，<a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>。<br>
+<sup>24</sup> KS in NJ：《From this article, it sounds like men are figuring something out that women have known forever. I know of many》，《The Washington Post》2019年。<br>
+<sup>25</sup> A. Author：《How workout buddies can help stave off loneliness》，《The Washington Post》2019年。<br>
+<sup>26</sup> N. G. Cuellar：《Study abroad programs》第27卷，《Journal of Transcultural Nursing》2016年第3期。<br>
+<sup>27</sup> L. S. Brown：《Feminist therapy》，American Psychological Association，2018年。<br>
+<sup>28</sup> R. Burgess：《Rethinking global health: Frameworks of power》，Routledge，2019年。<br>
+<sup>29</sup> S. Cain：《Quiet: The power of introverts in a world that can’t stop talking》，Random House Audio，2012年。<br>
+<sup>30</sup> B. Christian、T. Griffiths：《Algorithms to live by: The computer science of human decisions》，Henry Holt and Co.，2016年。<br>
+<sup>31</sup> D. H. Meadows：《Thinking in systems: A primer》，Chelsea Green Publishing，2008年。<br>
+<sup>32</sup> Henry-James Schmid主编：《Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge》，American Psychological Association; De Gruyter Mouton，2017年。<br>
+<sup>33</sup> J. Hacker Hughes主编：《Military veteran psychological health and social care: Contemporary approaches》，Routledge，2017年。<br>
+<sup>34</sup> K. F. Pridham、R. Limbo、M. Schroeder主编：《Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents》，Springer Publishing Company，2018年。<br>
+<sup>35</sup> N. Amano、H. Kondo：《Lexical characteristics of Japanese language》第7卷，Sansei-do，2000年。<br>
+<sup>36</sup> J. Piaget、B. Inhelder：《The psychology of the child》，Quadrige，1966年。<br>
+<sup>37</sup> J. Piaget、B. Inhelder：《The psychology of the child》，H. Weaver译，Basic Books，1969年。<br>
+<sup>38</sup> S. Freud：《The interpretation of dreams: The complete and definitive text》，J. Strachey译，Basic Books，2010年。<br>
+<sup>39</sup> J. K. Rowling：《Harry Potter and the sorceror’s stone》，Pottermore Publishing，2015年。<br>
+<sup>40</sup> S. T. Fiske、D. T. Gilbert、G. Lindzey：《Handbook of social psychology》第1卷，John Wiley &#38; Sons，2010年。<br>
+<sup>41</sup> C. B. Travis、J. W. White主编：《APA handbook of the psychology of women》第1卷，American Psychological Association，2018年。<br>
+<sup>42</sup> S. Madigan：《Narrative therapy》，American Psychological Association，2019年。<br>
+<sup>43</sup> American Psychiatric Association：《Diagnostic and statistical manual of mental disorders》，American Psychiatric Association，2013年。<br>
+<sup>44</sup> World Health Organization：《International statistical classification of diseases and related health problems》，World Health Organization，2019年。<br>
+<sup>45</sup> American Psychological Association：《APA dictionary of psychology》。<br>
+<sup>46</sup> Merriam-Webster：《Merriam-Webster.com dictionary》。<br>
+<sup>47</sup> E. N. Zalta主编：《The Stanford encyclopedia of philosophy》，Stanford University，2019年。<br>
+<sup>48</sup> M. Gold主编：《The complete social scientist: A Kurt Lewin reader》，American Psychological Association，1999年。<br>
+<sup>49</sup> 《King James Bible》，King James Bible Online，2017年。<br>
+<sup>50</sup> 《The Qur’an》，M. A. S. Abdel Haleem译，Oxford University Press，2004年。<br>
+<sup>51</sup> 《The Torah: The five books of Moses》，The Jewish Publication Society，2015年。<br>
+<sup>52</sup> Aristotle：《Poetics》，S. H. Butcher译，The Internet Classics Archive，1994年。<br>
+<sup>53</sup> W. Shakespeare：《Much ado about nothing》，Washington Square Press，1995年。<br>
+<sup>54</sup> K. F. Balsam、C. R. Martell、K. P. Jones、S. A. Safren：《Affirmative cognitive behavior therapy with sexual and gender minority people》，G. Y. Iwamasa、P. A. Hays主编：《Culturally responsive cognitive behavior therapy: Practice and supervision》，American Psychological Association，2019年。<br>
+<sup>55</sup> R. Weinstock、G. B. Leong、J. A. Silva：《Defining forensic psychiatry: Roles and responsibilities》，R. Rosner主编：《Principles and practise of forensic psychiatry》，CRC Press，2003年。<br>
+<sup>56</sup> N. Tafoya、A. Del Vecchio：《Back to the future: An examination of the Native American Holocaust experience》，M. McGoldrick、J. Giordano、N. Garcia-Preto主编：《Ethnicity and family therapy》，Guilford Press，2005年。<br>
+<sup>57</sup> N. Carcavilla González：《Auditory sensory therapy: Brain activation through music》，J. J. Garcia Meilán主编：《Guía práctica de terapias estimulativas en el Alzhéimer》，Editorial Síntesis，2015年。<br>
+<sup>58</sup> M. Heidegger：《On the essence of truth》，J. Sallis译，D. F. Krell主编：《Basic writings》，Harper Perennial Modern Thought，2008年。<br>
+<sup>59</sup> C. Sacchett、G. W. Humphreys：《Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts》，D. A. Balota、E. J. Marsh主编：《Cognitive psychology: Key readings in cognition》，Psychology Press，2004年。<br>
+<sup>60</sup> C. Sacchett、G. W. Humphreys：《Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts》第9卷，《Cognitive Neuropsychology》1992年第1期。<br>
+<sup>61</sup> U. Bronfenbrenner：《The social ecology of human development: A retrospective conclusion》，U. Bronfenbrenner主编：《Making human beings human: Bioecological perspectives on human development》，SAGE Publications，2005年。<br>
+<sup>62</sup> F. Richardson主编：《Brain and intelligence: The ecology of child development》，National Educational Press，1973年。<br>
+<sup>63</sup> S. Goldin-Meadow：《Gesture and cognitive development》第2卷，L. S. Liben、U. Mueller主编：《Handbook of child psychology and developmental science》，John Wiley &#38; Sons，2015年。<br>
+<sup>64</sup> K. Lewin：《Group decision and social change》，M. Gold主编：《The complete social scientist: A Kurt Lewin reader》，American Psychological Association，1999年。<br>
+<sup>65</sup> American Psychological Association：《Positive transference》。<br>
+<sup>66</sup> Merriam-Webster：《Self-report》。<br>
+<sup>67</sup> G. Graham：《Behaviorism》，Stanford University，2019年。<br>
+<sup>68</sup> 《List of oldest companies》，2019年。<br>
+<sup>69</sup> Australian Government Productivity Commission、New Zealand Productivity Commission：《Strengthening trans-Tasman economic relations》，2012年。<br>
+<sup>70</sup> Canada Council for the Arts：《What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation》，2013年。<br>
+<sup>71</sup> National Cancer Institute：《Facing forward: Life after cancer treatment》，U.S. Department of Health and Human Services, National Institutes of Health，2018年。<br>
+<sup>72</sup> D. Fried、A. Polyakova：《Democratic defense against disinformation》，Atlantic Council，2018年。<br>
+<sup>73</sup> A. Segaert、A. Bauer：《The extent and nature of veteran homelessness in Canada》，Employment and Social Development Canada，2015年。<br>
+<sup>74</sup> D. L. Blackwell、J. W. Lucas、T. C. Clarke：《Summary health statistics for U.S. adults: National Health Interview Survey, 2012》，Centers for Disease Control and Prevention，2014年。<br>
+<sup>75</sup> British Cardiovascular Society Working Group：《British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients》，British Cardiovascular Society，2016年。<br>
+<sup>76</sup> U.S. Securities and Exchange Commission：《Agency financial report: Fiscal Year 2017》，2017年。<br>
+<sup>77</sup> American Counseling Association：《2014 ACA code of ethics》，2014年。<br>
+<sup>78</sup> American Nurses Association：《Code of ethics for nurses with interpretive statements》，2015年。<br>
+<sup>79</sup> American Psychological Association：《Ethical principles of psychologists and code of conduct》，2017年。<br>
+<sup>80</sup> C. B. Blair：《Stress, self-regulation and psychopathology in middle childhood》，Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development，2015—2020年。<br>
+<sup>81</sup> J. Lichtenstein：《Profile of veteran business owners: More young veterans appear to be starting businesses》，U.S. Small Business Administration, Office of Advocacy，2013年。<br>
+<sup>82</sup> M. Harwell：《Don’t expect too much: The limited usefulness of common SES measures and a prescription for change》，National Education Policy Center，2018年。<br>
+<sup>83</sup> U.S. Food and Drug Administration：《FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices》，U.S. Food and Drug Administration，2019年。<br>
+<sup>84</sup> A. Fistek、E. Jester、K. Sonnenberg：《Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate》，Milwaukee, WI, United States，2017年。<br>
+<sup>85</sup> S. Maddox、J. Hurling、E. Stewart、A. Edwards：《If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children》，New Orleans, LA, United States，2016年。<br>
+<sup>86</sup> J. Pearson：《Fat talk and its effects on state-based body image in women》，Sydney, NSW, Australia，2018年。<br>
+<sup>87</sup> D. De Boer、T. LaFavor：《The art and significance of successfully identifying resilient individuals A person-focused approach》，Portland, OR, United States，2018年。<br>
+<sup>88</sup> L. Harris：《Instructional leadership perceptions and practices of elementary school leaders》，University of Virginia，2014年。<br>
+<sup>89</sup> M. M. Hollander：《Resistance to authority: Methodological innovations and new lessons from the Milgram experiment》，University of Wisconsin–Madison，2017年。<br>
+<sup>90</sup> V. H. Hutcheson：《Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents》，The College of William &#38; Mary，2012年。<br>
+<sup>91</sup> L. A. Mirabito、N. C. Heck：《Bringing LGBTQ youth theater into the spotlight》第3卷，《Psychology of Sexual Orientation and Gender Diversity》2016年第4期。<br>
+<sup>92</sup> 《The year we thought about love》，2016年。<br>
+<sup>93</sup> F. Santos：《Reframing refugee children’s stories》，《The New York Times》2019年。<br>
+<sup>94</sup> M. Yousafzai：《We are displaced: My journey and stories from refugee girls around the world》，2016年。<br>
+<sup>95</sup> D. Perkins：《<i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile》，2018年，<a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>。<br>
+<sup>96</sup> 《Somewhere else》，2018年。<br>
+<sup>97</sup> J. Yoo、Y. Miyamoto、A. Rigotti、C. Ryff：《Linking positive affect to blood lipids: A cultural perspective》，Department of Psychology, University of Wisconsin-Madison，2016年。<br>
+<sup>98</sup> M. O’Shea：《Understanding proactive behavior in the workplace as a function of gender》，Department of Management, University of Kansas，2018年。<br>
+<sup>99</sup> T. Lippincott、E. K. Poindexter：《Emotion recognition as a function of facial cues: Implications for practice》，Department of Psychology, University of Washington，2019年。<br>
+<sup>100</sup> C. Leuker、L. Samartzidis、R. Hertwig、T. J. Pleskac：《When money talks: Judging risk and coercion in high-paying clinical trials》，PsyArXiv，2018年。<br>
+<sup>101</sup> M. A. Stults-Kolehmainen、R. Sinha：《The effects of stress on physical activity and exercise》，PubMed Central，2015年。<br>
+<sup>102</sup> H.-K. Ho：《Teacher preparation for early childhood special education in Taiwan》，ERIC，2014年。<br>
+<sup>103</sup> A. D’Souza、M. Wiseheart：《Cognitive effects of music and dance training in children》，ICPSR，2018年。<br>
+<sup>104</sup> National Center for Education Statistics：《Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009》，National Archive of Data on Arts and Culture，2016年。<br>
+<sup>105</sup> Pew Research Center：《American trends panel Wave 26》，2018年。<br>
+<sup>106</sup> R. A. Baer：《Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills》，University of Kentucky，2015年。<br>
+<sup>107</sup> Oregan Youth Authority：《Recidivism outcomes》，2011年。<br>
+<sup>108</sup> M. Borenstein、L. Hedges、J. Higgins、H. Rothstein：《Comprehensive meta-analysis》，Biostat，2014年，<a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>。<br>
+<sup>109</sup> SR Research：《Eyelink 1000 plus》，2016年，<a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>。<br>
+<sup>110</sup> Tactile Labs：《Latero tactile display》，2015年，<a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>。<br>
+<sup>111</sup> Epocrates：《Epocrates medical references》，App Store，2019年，<a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>。<br>
+<sup>112</sup> Epocrates：《Interaction Check: Aspirin + Sertraline》，Google Play Store，2019年。<br>
+<sup>113</sup> A. Tellegen、Y. S. Ben-Porath：《Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual》，Pearson，2011年。<br>
+<sup>114</sup> Project Implicit：《Gender-Science IAT》。<br>
+<sup>115</sup> J. Alonso-Tapia、C. Nieto、E. Merino-Tejedor、J. A. Huertas、M. Ruiz：《Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)》，PsycTESTS，2018年。<br>
+<sup>116</sup> D. Cardoza、J. K. Morris、H. F. Myers、N. Rodriguez：《Acculturative Stress Inventory (ASI)》，ETS TestLink，2000年。<br>
+<sup>117</sup> 《One flew over the cuckoo’s nest》，United Artists，1975年。<br>
+<sup>118</sup> 《Accelerated experiental dynamic psychotherapy (AEDP) supervision》，American Pychological Association，2017年。<br>
+<sup>119</sup> 《The lord of the rings: The fellowship of the ring》，WingNut Films; The Saul Zaentz Company，2001年。<br>
+<sup>120</sup> 《Goodbye children》，Nouvelles Éditions de Films，1987年。<br>
+<sup>121</sup> 《The wire》，Blown Deadline Productions; HBO，2002—2008年。<br>
+<sup>122</sup> 《Lemons》，Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios，2017年。<br>
+<sup>123</sup> 《Who shot Mr. Burns? (Part One)》，Gracie Films; Twentieth Century Fox Film Corporation，1995年。<br>
+<sup>124</sup> 《Why you should make useless things》，TED Conferences，2018年。<br>
+<sup>125</sup> 《Brené Brown: Listening to shame》，YouTube，2012年。<br>
+<sup>126</sup> 《Evaluating adverse drug effects》，American Psychiatric Association，2018年。<br>
+<sup>127</sup> 《Happiness》，Vimeo，2017年。<br>
+<sup>128</sup> 《How to diagram a sentence (absolute basics)》，YouTube，2016年。<br>
+<sup>129</sup> 《How do geckos walk on water?》，YouTube，2016年。<br>
+<sup>130</sup> 《The Brandenburg concertos: Concertos BVW 1043 &#38; 1060》，Decca，2010年。<br>
+<sup>131</sup> D. Bowie：《Blackstar》，Columbia，2016年。<br>
+<sup>132</sup> 《Symphony No. 3 in E-flat major》，Brilliant Classics，2012年。<br>
+<sup>133</sup> Beyoncé：《Formation》，Parkwood; Columbia，2016年。<br>
+<sup>134</sup> Childish Gambino：《This is America》，mcDJ; RCA，2018年。<br>
+<sup>135</sup> K. Lamar：《Humble》，Aftermath Entertainment; Interscope Records; Top Dawg Entertainment，2017年。<br>
+<sup>136</sup> S. Vedantam：《Hidden brain》，NPR，2015年。<br>
+<sup>137</sup> I. Glass：《Amusement park》，WBEZ Chicago，2011年。<br>
+<sup>138</sup> S. de Beauvoir：《Simone de Beauvoir discusses the art of writing》，1960年。<br>
+<sup>139</sup> M. L. King Jr.：《I have a dream》，American Rhetoric，1963年。<br>
+<sup>140</sup> E. Delacroix：《Faust attempts to seduce Marguerite》，1826—1827年。<br>
+<sup>141</sup> G. Wood：《American gothic》，1930年。<br>
+<sup>142</sup> GDJ：《Neural network deep learning prismatic》，2018年。<br>
+<sup>143</sup> J. Rossman、R. Palmer：《Sorting through our space junk》，2015年。<br>
+<sup>144</sup> D. Cable：《The racial dot map》，University of Virginia：Weldon Cooper Center for Public Service，2013年。<br>
+<sup>145</sup> Google：《Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru》。<br>
+<sup>146</sup> S. McCurry：《Afghan girl》，1985年。<br>
+<sup>147</sup> Jessica Rinaldi：《Photograph series of a boy who finds his footing after abuse by those he trusted》，2016年。<br>
+<sup>148</sup> E. Canan、J. Vasilev：《Lecture notes on resource allocation》，Department of Management Control and Information Systems, University of Chile，2019年。<br>
+<sup>149</sup> Brian Housand：《Game on! Integrating games and simulations in the classroom》，SlideShare，2016年。<br>
+<sup>150</sup> R. Mack、G. Spake：《Citing open source images and formatting references for presentations》，Canvas@FNU，2018年。<br>
+<sup>151</sup> APA Education [@APAEducation]：《College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]》，2018年，<a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>。<br>
+<sup>152</sup> Badlands National Park [@BadlandsNPS]：《Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity》，2018年，<a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>。<br>
+<sup>153</sup> B. White：《I treasure every minute we spent together #koko [image attached]》，2018年，<a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>。<br>
+<sup>154</sup> APA Style [@APA_Style]：《Tweets》，<a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>。<br>
+<sup>155</sup> N. Gaiman：《100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached]》，2018年，<a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>。<br>
+<sup>156</sup> National Institute of Mental Health：《Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain》，2018年，<a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>。<br>
+<sup>157</sup> News From Science：《These frogs walk instead of hop. https://scimag.2KlriwH》，2018年，<a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>。<br>
+<sup>158</sup> Smithsonian’s National Zoo and Conservation Biology Institute：《Home》，<a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>。<br>
+<sup>159</sup> Zeitz MOCAA [@zeitzmocaa]：《Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by》，2018年，<a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>。<br>
+<sup>160</sup> The New York Public Library [@nypl]：《The raven》，<a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>。<br>
+<sup>161</sup> National Aeronautics and Space Administration [@nasa]：《I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!》，2018年，<a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>。<br>
+<sup>162</sup> N. Avramova：《The secret to a long, happy, health life? Think age-positive》，2019年，<a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>。<br>
+<sup>163</sup> C. Bologna：《What happens to your mind and body when you feel homesick?》，2018年，<a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>。<br>
+<sup>164</sup> Centers for Disease Control and Prevention：《People at high risk of developing flu-related complications》，2018年，<a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>。<br>
+<sup>165</sup> World Health Organization：《Questions and answers on immunization and vaccine safety》，2018年，<a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>。<br>
+<sup>166</sup> C. M. Martin Lillie：《Be kind to yourself: How self-compassion can improve your resiliency》，2016年，<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>。<br>
+<sup>167</sup> J. Boddy、T. Neumann、S. Jennings、V. Morrow、P. Alderson、R. Rees、W. Gibson：《Ethics principles》，<a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>。<br>
+<sup>168</sup> National Nurses United：《What employers should do to protect nurses from Zika》，<a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>。<br>
+<sup>169</sup> U.S. Census Bureau：《U.S. and world population clock》，<a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>。<br>
+<sup>170</sup> 《Brown v. Board of Education》第347卷，1954年。<br>
+<sup>171</sup> 《Obergefell v. Hodges》第576卷，2015年。<br>
+<sup>172</sup> 《Daubert v. Merrell Dow Pharmaceuticals, Inc.》第951卷，1991年。<br>
+<sup>173</sup> 《Burriola v. Greater Toledo YMCA》第133卷，2001年。<br>
+<sup>174</sup> 《Durflinger v. Artiles》第563卷，1984年。<br>
+<sup>175</sup> 《Tarasoff v. Regents of the University of California》第17卷，1976年。<br>
+<sup>176</sup> 《Texas v. Morales》第826卷，1992年。<br>
+<sup>177</sup> 《American With Disabilities Act of 1990》第42卷，1990年。<br>
+<sup>178</sup> 《Civil Rights Act of 1964》第78卷，1964年。<br>
+<sup>179</sup> 《Every Student Succeeds Act》第20卷，2015年。<br>
+<sup>180</sup> 《Lilly Leadbetter Fair Play Act of 2009》第123卷，2009年。<br>
+<sup>181</sup> 《Patsy Mink Equal Opportunity in Education Act》第20卷，1972年。<br>
+<sup>182</sup> 《Florida Mental Health Act》，2009年。<br>
+<sup>183</sup> 《Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs》，2016年。<br>
+<sup>184</sup> 《Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions》，2014年。<br>
+<sup>185</sup> 《Mental Health on Campus Improvement Act》，2013年。<br>
+<sup>186</sup> 《S. Res. 438》第162卷，2016年。<br>
+<sup>187</sup> 《H.R. Rep. No. 114-358》，2015年。<br>
+<sup>188</sup> 《Protection of human subjects》第45卷，2009年。<br>
+<sup>189</sup> 《Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees》第81卷，2016年。<br>
+<sup>190</sup> 《Exec. Order No. 13,676》第3卷，2014年。<br>
+<sup>191</sup> S. C. Hiremath、S. Kumar、F. Lu、A. Salehi：《Using metaphors to present concepts across different intellectual domains》，U.S.，2016年。<br>
+<sup>192</sup> 《U.S. Const. art. I, § 3》。<br>
+<sup>193</sup> 《S.C. Const. art. XI, § 3》。<br>
+<sup>194</sup> 《U.S. Const. amend. XIX》。<br>
+<sup>195</sup> 《U.S. Const. amend. XVIII (repealed 1933)》。<br>
+<sup>196</sup> 《U.S. Const. amend. I-X》。<br>
+<sup>197</sup> 《U.N. Charter art. 1, para. 3》。<br>
+<sup>198</sup> 《United nations convention on the rights of the child》，1989年。<br>

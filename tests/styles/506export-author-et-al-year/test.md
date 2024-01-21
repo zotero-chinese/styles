@@ -20,22 +20,22 @@ Undefined
 张三 (2008)<br>
 (Jason, 2008)<br>
 Jason (2008)<br>
-张三 et al. (2008a)<br>
+张三 等 (2008)<br>
 Wang et al. (2009a)<br>
 (赵一 等, 2008a; Wolchik et al., 2009a)<br>
-张三 et al. (2008b)<br>
+张三 et al. (2008)<br>
 Wang et al. (2009b)<br>
 (赵一 等, 2008b; Wolchik et al., 2009b)<br>
-张三 et al. (2019a)<br>
-张三 et al. (2019b)<br>
+张三 等 (2019a)<br>
+张三 等 (2019b)<br>
 Qian et al. (2020a)<br>
 Qian et al. (2020b)<br>
-(张三 et al., 2019a; Qian et al., 2020a)<br>
-张三 et al. (2020a)<br>
-张三 et al. (2020b)<br>
+(张三 等, 2019a; Qian et al., 2020a)<br>
+张三 等 (2020a)<br>
+张三 等 (2020b)<br>
 Qian et al. (2009a)<br>
 Qian et al. (2009b)<br>
-(张三 et al., 2020a)<br>
+(张三 等, 2020a)<br>
 (Qian et al., 2009a)<br>
 (Wong, 2007)<br>
 (Wong, 2008)<br>
@@ -178,7 +178,7 @@ Qian et al. (2009b)<br>
 ### 《心理学报》 示例文献
 
 <div class="csl-bib-body">
-  <div class="csl-entry">拉普拉斯 P S, 1951.</div>
+  <div class="csl-entry">拉普拉斯, Pierre-Simon, 1951.</div>
   <div class="csl-entry">李行健, 2004.</div>
   <div class="csl-entry">邱颖文, 2009.</div>
   <div class="csl-entry">王登峰等, 2004.</div>
@@ -216,7 +216,6 @@ Qian et al. (2009b)<br>
 ### 《中国社会科学》 示例文献
 
 <div class="csl-bib-body">
-  <div class="csl-entry">彼得·卡赞斯坦等, 2006.</div>
   <div class="csl-entry">狄葆贤.</div>
   <div class="csl-entry">杜威·佛克马, 1999.</div>
   <div class="csl-entry">方明东, 2000.</div>
@@ -236,8 +235,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">任东来.</div>
   <div class="csl-entry">任继愈, 1983.</div>
   <div class="csl-entry">伤心人（麦孟华）.</div>
-  <div class="csl-entry">实藤惠秀, 1982a.</div>
-  <div class="csl-entry">实藤惠秀, 1982b.</div>
+  <div class="csl-entry">实藤惠秀, 1982.</div>
   <div class="csl-entry">唐振常, 1997.</div>
   <div class="csl-entry">汪疑今, 1936.</div>
   <div class="csl-entry">王明亮, 1998.</div>
@@ -355,4 +353,207 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Schwab M, 2013.</div>
   <div class="csl-entry">Vogel B, 2017.</div>
   <div class="csl-entry">Würdinger M, 2012.</div>
+</div>
+
+### APA 示例文献
+
+<div class="csl-bib-body">
+  <div class="csl-entry">Anon, 1954.</div>
+  <div class="csl-entry">Anon, 1964.</div>
+  <div class="csl-entry">Anon, 1972.</div>
+  <div class="csl-entry">Anon, 1976.</div>
+  <div class="csl-entry">Anon, 1981.</div>
+  <div class="csl-entry">Anon, 1984.</div>
+  <div class="csl-entry">Anon, 1989.</div>
+  <div class="csl-entry">Anon, 1990.</div>
+  <div class="csl-entry">Anon, 1991.</div>
+  <div class="csl-entry">Anon, 1992.</div>
+  <div class="csl-entry">Anon, 2001.</div>
+  <div class="csl-entry">Anon, 2002-2008.</div>
+  <div class="csl-entry">Anon, 2004.</div>
+  <div class="csl-entry">Anon, 2009a.</div>
+  <div class="csl-entry">Anon, 2009b.</div>
+  <div class="csl-entry">Anon, 2009c.</div>
+  <div class="csl-entry">Anon, 2013.</div>
+  <div class="csl-entry">Anon, 2014a.</div>
+  <div class="csl-entry">Anon, 2014b.</div>
+  <div class="csl-entry">Anon, 2015a.</div>
+  <div class="csl-entry">Anon, 2015b.</div>
+  <div class="csl-entry">Anon, 2015c.</div>
+  <div class="csl-entry">Anon, 2015d.</div>
+  <div class="csl-entry">Anon, 2016a.</div>
+  <div class="csl-entry">Anon, 2016b.</div>
+  <div class="csl-entry">Anon, 2016c.</div>
+  <div class="csl-entry">Anon, 2017a.</div>
+  <div class="csl-entry">Anon, 2017b.</div>
+  <div class="csl-entry">Anon, 2019.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">Ahmann <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Alonso-Tapia <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Amano <i>et al.</i>, 2000.</div>
+  <div class="csl-entry">American Counseling Association, 2014.</div>
+  <div class="csl-entry">American Nurses Association, 2015.</div>
+  <div class="csl-entry">American Psychiatric Association, 2013.</div>
+  <div class="csl-entry">American Psychological Association, 2017.</div>
+  <div class="csl-entry">American Psychological Association.</div>
+  <div class="csl-entry">American Psychological Association.</div>
+  <div class="csl-entry">Anderson, 2018.</div>
+  <div class="csl-entry">APA Education [@APAEducation], 2018.</div>
+  <div class="csl-entry">APA Style [@APA_Style].</div>
+  <div class="csl-entry">Aristotle, 1994.</div>
+  <div class="csl-entry">Australian Government Productivity Commission <i>et al.</i>, 2012.</div>
+  <div class="csl-entry">Author, 2019.</div>
+  <div class="csl-entry">Avramova, 2019.</div>
+  <div class="csl-entry">Bach, 2010.</div>
+  <div class="csl-entry">Badlands National Park [@BadlandsNPS], 2018.</div>
+  <div class="csl-entry">Baer, 2015.</div>
+  <div class="csl-entry">Balsam <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">Barris, 2017.</div>
+  <div class="csl-entry">Bergeson, 2019.</div>
+  <div class="csl-entry">Beyoncé, 2016.</div>
+  <div class="csl-entry">Blackwell <i>et al.</i>, 2014.</div>
+  <div class="csl-entry">Blair, 2015-2020.</div>
+  <div class="csl-entry">Boddy <i>et al.</i></div>
+  <div class="csl-entry">Bologna, 2018.</div>
+  <div class="csl-entry">Borenstein M等, 2014.</div>
+  <div class="csl-entry">Bowie, 2016.</div>
+  <div class="csl-entry">British Cardiovascular Society Working Group, 2016.</div>
+  <div class="csl-entry">Brodsky, 2016.</div>
+  <div class="csl-entry">Bronfenbrenner, 2005.</div>
+  <div class="csl-entry">Brown, 2018.</div>
+  <div class="csl-entry">Burgess, 2019.</div>
+  <div class="csl-entry">Burin <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">Bustillos, 2013.</div>
+  <div class="csl-entry">Cable, 2013.</div>
+  <div class="csl-entry">Cain, 2012.</div>
+  <div class="csl-entry">Canada Council for the Arts, 2013.</div>
+  <div class="csl-entry">Canan <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">Carcavilla González, 2015.</div>
+  <div class="csl-entry">Cardoza <i>et al.</i>, 2000.</div>
+  <div class="csl-entry">Centers for Disease Control and Prevention, 2018.</div>
+  <div class="csl-entry">Chaves-Morillo <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Childish Gambino, 2018.</div>
+  <div class="csl-entry">Christian <i>et al.</i>, 2016.</div>
+  <div class="csl-entry">Cuellar, 2016.</div>
+  <div class="csl-entry">Cutts, 2017.</div>
+  <div class="csl-entry">De Beauvoir, 1960.</div>
+  <div class="csl-entry">De Boer <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">De Vries <i>et al.</i>, 2013.</div>
+  <div class="csl-entry">Delacroix, 1826-1827.</div>
+  <div class="csl-entry">D’Souza <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Epocrates, 2019a.</div>
+  <div class="csl-entry">Epocrates, 2019b.</div>
+  <div class="csl-entry">Fiske <i>et al.</i>, 2010.</div>
+  <div class="csl-entry">Fistek <i>et al.</i>, 2017.</div>
+  <div class="csl-entry">Fogarty, 2016.</div>
+  <div class="csl-entry">Forman, 1975.</div>
+  <div class="csl-entry">Freud, 2010.</div>
+  <div class="csl-entry">Fried <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Gaiman, 2018.</div>
+  <div class="csl-entry">GDJ, 2018.</div>
+  <div class="csl-entry">Giertz, 2018.</div>
+  <div class="csl-entry">Glass, 2011.</div>
+  <div class="csl-entry">Gold, 1999.</div>
+  <div class="csl-entry">Goldberg, 2018.</div>
+  <div class="csl-entry">Goldin-Meadow, 2015.</div>
+  <div class="csl-entry">Goldman, 2018.</div>
+  <div class="csl-entry">Google.</div>
+  <div class="csl-entry">Graham, 2019.</div>
+  <div class="csl-entry">Guarino, 2017.</div>
+  <div class="csl-entry">Hacker Hughes, 2017.</div>
+  <div class="csl-entry">Harris, 2014.</div>
+  <div class="csl-entry">Harwell, 2018.</div>
+  <div class="csl-entry">Heidegger, 2008.</div>
+  <div class="csl-entry">Hess, 2019.</div>
+  <div class="csl-entry">Hiremath <i>et al.</i>, 2016.</div>
+  <div class="csl-entry">Ho, 2014.</div>
+  <div class="csl-entry">Hollander, 2017.</div>
+  <div class="csl-entry">Housand, 2016.</div>
+  <div class="csl-entry">Huestegge <i>et al.</i></div>
+  <div class="csl-entry">Hutcheson, 2012.</div>
+  <div class="csl-entry">Jackson, 2001.</div>
+  <div class="csl-entry">Kalnay <i>et al.</i>, 1996.</div>
+  <div class="csl-entry">King, 1963.</div>
+  <div class="csl-entry">Klymkowsky, 2018.</div>
+  <div class="csl-entry">KS in NJ, 2019.</div>
+  <div class="csl-entry">Lamar, 2017.</div>
+  <div class="csl-entry">Leuker <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Lewin, 1999.</div>
+  <div class="csl-entry">Lichtenstein, 2013.</div>
+  <div class="csl-entry">Lilienfeld, 2018.</div>
+  <div class="csl-entry">Lippincott <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">Lynch, 1995.</div>
+  <div class="csl-entry">Mack <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Maddox <i>et al.</i>, 2016.</div>
+  <div class="csl-entry">Madigan, 2019.</div>
+  <div class="csl-entry">Malle, 1987.</div>
+  <div class="csl-entry">Martin Lillie, 2016.</div>
+  <div class="csl-entry">McCauley <i>et al.</i>, 2019.</div>
+  <div class="csl-entry">McCurry, 1985.</div>
+  <div class="csl-entry">McDaniel <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Meadows, 2008.</div>
+  <div class="csl-entry">Mehrholz <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Merriam-Webster.</div>
+  <div class="csl-entry">Merriam-Webster.</div>
+  <div class="csl-entry">Mirabito <i>et al.</i>, 2016.</div>
+  <div class="csl-entry">Morey, 2019.</div>
+  <div class="csl-entry">National Aeronautics and Space Administration [@nasa], 2018.</div>
+  <div class="csl-entry">National Cancer Institute, 2018.</div>
+  <div class="csl-entry">National Center for Education Statistics, 2016.</div>
+  <div class="csl-entry">National Institute of Mental Health, 2018.</div>
+  <div class="csl-entry">National Nurses United.</div>
+  <div class="csl-entry">News From Science, 2018.</div>
+  <div class="csl-entry">Oregan Youth Authority, 2011.</div>
+  <div class="csl-entry">O’Shea, 2018.</div>
+  <div class="csl-entry">Pachur <i>et al.</i></div>
+  <div class="csl-entry">Pearson, 2018.</div>
+  <div class="csl-entry">Perkins, 2018.</div>
+  <div class="csl-entry">Pew Research Center, 2018.</div>
+  <div class="csl-entry">Piaget <i>et al.</i>, 1966.</div>
+  <div class="csl-entry">Piaget <i>et al.</i>, 1969.</div>
+  <div class="csl-entry">Piaget, 1972.</div>
+  <div class="csl-entry">Pridham <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">Project Implicit.</div>
+  <div class="csl-entry">Richardson, 1973.</div>
+  <div class="csl-entry">Rinaldi, 2016.</div>
+  <div class="csl-entry">Rossman <i>et al.</i>, 2015.</div>
+  <div class="csl-entry">Rowling, 2015.</div>
+  <div class="csl-entry">Sacchett <i>et al.</i>, 1992.</div>
+  <div class="csl-entry">Sacchett <i>et al.</i>, 2004.</div>
+  <div class="csl-entry">Santos, 2019.</div>
+  <div class="csl-entry">Schmid, 2017.</div>
+  <div class="csl-entry">Schur, 2018.</div>
+  <div class="csl-entry">Segaert <i>et al.</i>, 2015.</div>
+  <div class="csl-entry">Shakespeare, 1995.</div>
+  <div class="csl-entry">Shore, 2014.</div>
+  <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute.</div>
+  <div class="csl-entry">SR Research, 2016.</div>
+  <div class="csl-entry">Stults-Kolehmainen <i>et al.</i>, 2015.</div>
+  <div class="csl-entry">Tactile Labs, 2015.</div>
+  <div class="csl-entry">Tafoya <i>et al.</i>, 2005.</div>
+  <div class="csl-entry">TED, 2012.</div>
+  <div class="csl-entry">Tellegen <i>et al.</i>, 2011.</div>
+  <div class="csl-entry">The New York Public Library [@nypl].</div>
+  <div class="csl-entry">Travis <i>et al.</i>, 2018.</div>
+  <div class="csl-entry">University of Oxford, 2016.</div>
+  <div class="csl-entry">U.S. Census Bureau.</div>
+  <div class="csl-entry">U.S. Food and Drug Administration, 2019.</div>
+  <div class="csl-entry">U.S. Securities and Exchange Commission, 2017.</div>
+  <div class="csl-entry">Van Beethoven, 2012.</div>
+  <div class="csl-entry">Vedantam, 2015.</div>
+  <div class="csl-entry">Weinstock <i>et al.</i>, 2003.</div>
+  <div class="csl-entry">Weir, 2017.</div>
+  <div class="csl-entry">White, 2018.</div>
+  <div class="csl-entry">Wood, 1930.</div>
+  <div class="csl-entry">World Health Organization, 2018.</div>
+  <div class="csl-entry">World Health Organization, 2019.</div>
+  <div class="csl-entry">Yoo <i>et al.</i>, 2016.</div>
+  <div class="csl-entry">Yousafzai, 2016.</div>
+  <div class="csl-entry">Zalta, 2019.</div>
+  <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa], 2018.</div>
 </div>

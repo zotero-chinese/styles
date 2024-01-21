@@ -167,18 +167,18 @@ Undefined
   <div class="csl-entry">心理学报 (2008, 40: 210–215)	 </div>
   <div class="csl-entry">Journal of Consulting and Clinical Psychology (2000, 68(5): 843–856)	 </div>
   <div class="csl-entry">心理学报 ([日期不详])	 </div>
-  <div class="csl-entry">2019.	 </div>
+  <div class="csl-entry">Experimental Psychology (2019)	 </div>
   <div class="csl-entry">PLoS ONE (2019, 14(1))	 </div>
   <div class="csl-entry">心理学报 (2008, 40(增刊): 210–215)	 </div>
   <div class="csl-entry">. 北京: 未名出版社, 2008: 450	</div>
   <div class="csl-entry">. 张三, 编. 北京: 未名出版社, 2008: 450	</div>
-  <div class="csl-entry">. Gibbs J T, Huang L N, 编. Hoboken,  NJ,  US: Jossey-Bass, 1989	</div>
+  <div class="csl-entry">. Gibbs J T, Huang L N, 编. Hoboken, NJ, US: Jossey-Bass, 1989	</div>
   <div class="csl-entry">. Truscott F W, Emory F L, 译. Dover, 1951	</div>
   <div class="csl-entry">. 张三, 李四, 译. 北京: 未名出版社, 1951	</div>
   <div class="csl-entry">. Freksa C, Habel C, Wender K F, 编//Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge. Springer-Verlag, 1998: 1–17	</div>
   <div class="csl-entry">. Wang D F, Hou Y B, 编//Selected Papers on Personality and Social Psychology. Beijing: Peking University Press, 2004: 46–84	</div>
   <div class="csl-entry">. 王登峰, 侯玉波, 编//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46–84	</div>
-  <div class="csl-entry">. Bornstein M F, 编//Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development. 4 版. Washington,  DC,  US: Wiley, 1993: 43–110	</div>
+  <div class="csl-entry">. Bornstein M F, 编//Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development. 4 版. Washington, DC, US: Wiley, 1993: 43–110	</div>
   <div class="csl-entry">//Reducing Medication in Geriatric Populations.	 </div>
   <div class="csl-entry">. 	</div>
   <div class="csl-entry">. 	</div>
@@ -245,8 +245,6 @@ Undefined
   <div class="csl-entry">Modern China (1993, 19(2): 199–215)	 </div>
   <div class="csl-entry">. Rotberg R I, Rabb T K, 编//Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88	</div>
   <div class="csl-entry">(1969-02-01)	</div>
-  <div class="csl-entry">. 彼得·卡赞斯坦, 罗伯特·基欧汉, 斯蒂芬·克拉斯纳, 编. 秦亚青, 苏长和, 门洪华, 等, 译. 上海: 上海人民出版社, 2006: 484	</div>
-  <div class="csl-entry">. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社, 1982	</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -336,4 +334,207 @@ Undefined
   <div class="csl-entry">. ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>	</div>
   <div class="csl-entry">. 高道蕴, 高鸿钧, 贺卫方, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994	</div>
   <div class="csl-entry">. . 新华网. ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>	</div>
+</div>
+
+### APA 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">Psychological Review (2019, 126(1): 1–51)	 </div>
+  <div class="csl-entry">Journal of Postsecondary Education and Disability (2018, 31(1): 17–39)	 </div>
+  <div class="csl-entry">Educational Leadership (2018, 76(1): 26–33)	 </div>
+  <div class="csl-entry">Chicago Tribune (2018)	 </div>
+  <div class="csl-entry">Bulletin of the American Meteorological Society (1996, 77(3): 437–471)	 </div>
+  <div class="csl-entry">Midwifery (2013, 29(10): 1122–1128)	 </div>
+  <div class="csl-entry">PLOS ONE (2019, 14(1))	 </div>
+  <div class="csl-entry">Experimental Psychology (2019)	 </div>
+  <div class="csl-entry">Psychonomic Bulletin &#38; Review ([日期不详])	 </div>
+  <div class="csl-entry">Clínica y Salud (2018, 28(3): 155–161)	 </div>
+  <div class="csl-entry">Human Development (1972, 15(1): 1–12)	 </div>
+  <div class="csl-entry">American Journal of Orthopsychiatry (2014, 84(6): 611–618)	 </div>
+  <div class="csl-entry">American Journal of Orthopsychiatry (1981, 51(3): 391–402)	 </div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">Cochrane Database of Systematic Reviews (2018)	 </div>
+  <div class="csl-entry">UpToDate (2019)	 </div>
+  <div class="csl-entry">Science (2019, 363(6422): 33–34)	 </div>
+  <div class="csl-entry">The New Yorker (2013)	 </div>
+  <div class="csl-entry">Monitor on Psychology (2017, 48(1): 30)	 </div>
+  <div class="csl-entry">The Washington Post (2017)	 </div>
+  <div class="csl-entry">The New York Times (2019: C1)	 </div>
+  <div class="csl-entry">. . Sci-Ed. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>	</div>
+  <div class="csl-entry">The Washington Post (2019)	 </div>
+  <div class="csl-entry">The Washington Post (2019)	 </div>
+  <div class="csl-entry">Journal of Transcultural Nursing (2016, 27(3): 209)	 </div>
+  <div class="csl-entry">. 2 版. American Psychological Association, 2018	</div>
+  <div class="csl-entry">. Routledge, 2019	</div>
+  <div class="csl-entry">. Random House Audio, 2012	</div>
+  <div class="csl-entry">. Henry Holt and Co., 2016	</div>
+  <div class="csl-entry">. Wright D, 编. Chelsea Green Publishing, 2008	</div>
+  <div class="csl-entry">. Schmid H-J, 编. American Psychological Association; De Gruyter Mouton, 2017	</div>
+  <div class="csl-entry">. Hacker Hughes J, 编. Routledge, 2017	</div>
+  <div class="csl-entry">. Pridham K F, Limbo R, Schroeder M, 编. Springer Publishing Company, 2018	</div>
+  <div class="csl-entry">. Sansei-do, 2000	</div>
+  <div class="csl-entry">. Quadrige, 1966	</div>
+  <div class="csl-entry">. Weaver H, 译. 2 版. Basic Books, 1969	</div>
+  <div class="csl-entry">. Strachey J, 编译. Basic Books, 2010	</div>
+  <div class="csl-entry">. Pottermore Publishing, 2015	</div>
+  <div class="csl-entry">. 5 版. John Wiley &#38; Sons, 2010	</div>
+  <div class="csl-entry">. Travis C B, White J W, 编. American Psychological Association, 2018	</div>
+  <div class="csl-entry">. 2 版. American Psychological Association, 2019	</div>
+  <div class="csl-entry">. (2013)	 </div>
+  <div class="csl-entry">. (2019) . <a href="https://icd.who.int/">https://icd.who.int/</a>	</div>
+  <div class="csl-entry">45. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">46. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. Zalta E N, 编. Summer 2019 ed. 版. Stanford University, 2019	</div>
+  <div class="csl-entry">. Gold M, 编. American Psychological Association, 1999	</div>
+  <div class="csl-entry">. King James Bible Online, 2017	</div>
+  <div class="csl-entry">. Abdel Haleem M A S, 译. Oxford University Press, 2004	</div>
+  <div class="csl-entry">. 3 版. The Jewish Publication Society, 2015	</div>
+  <div class="csl-entry">. Butcher S H, 译. The Internet Classics Archive, 1994	</div>
+  <div class="csl-entry">. Mowat B A, Werstine P, 编. Washington Square Press, 1995	</div>
+  <div class="csl-entry">. Iwamasa G Y, Hays P A, 编//Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision. 2 版. American Psychological Association, 2019: 287–314	</div>
+  <div class="csl-entry">. Rosner R, 编//Principles and Practise of Forensic Psychiatry. 2 版. CRC Press, 2003: 7–13	</div>
+  <div class="csl-entry">. McGoldrick M, Giordano J, Garcia-Preto N, 编//Ethnicity and Family Therapy. 3 版. Guilford Press, 2005: 55–63	</div>
+  <div class="csl-entry">. Garcia Meilán J J, 编//Guía Práctica de Terapias Estimulativas En El Alzhéimer. Editorial Síntesis, 2015: 67–86	</div>
+  <div class="csl-entry">. Krell D F, 编. Sallis J, 译//Basic Writings. Harper Perennial Modern Thought, 2008: 111–138	</div>
+  <div class="csl-entry">. Balota D A, Marsh E J, 编//Cognitive Psychology: Key Readings in Cognition. Psychology Press, 2004: 100–108	</div>
+  <div class="csl-entry">Cognitive Neuropsychology (1992, 9(1): 73–86)	 </div>
+  <div class="csl-entry">. Bronfenbrenner U, 编//Making Human Beings Human: Bioecological Perspectives on Human Development. SAGE Publications, 2005: 27–40	</div>
+  <div class="csl-entry">. Richardson F, 编. National Educational Press, 1973: 113–123	</div>
+  <div class="csl-entry">. Liben L S, Mueller U, 编//Handbook of Child Psychology and Developmental Science. 7 版. John Wiley &#38; Sons, 2015: 339–380	</div>
+  <div class="csl-entry">. Gold M, 编//The Complete Social Scientist: A Kurt Lewin Reader. American Psychological Association, 1999: 265–284	</div>
+  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">. Stanford University, 2019(2019)	</div>
+  <div class="csl-entry">(2019-01-13)	</div>
+  <div class="csl-entry">. (2012) . <a href="https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf">https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf</a>	</div>
+  <div class="csl-entry">. (2013) . <a href="http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf">http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf</a>	</div>
+  <div class="csl-entry">. (2018) . <a href="https://www.cancer.gov/publications/patient-education/life-after-cancer-treatment.pdf">https://www.cancer.gov/publications/patient-education/life-after-cancer-treatment.pdf</a>	</div>
+  <div class="csl-entry">. (2018) . <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>	</div>
+  <div class="csl-entry">. (2015) . <a href="https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/publications-bulletins/veterans-report.html">https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/publications-bulletins/veterans-report.html</a>	</div>
+  <div class="csl-entry">. (2014) . <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>	</div>
+  <div class="csl-entry">. (2016) . <a href="http://www.bcs.com/documents/BCSOOHWP_Final_Report_05092016.pdf">http://www.bcs.com/documents/BCSOOHWP_Final_Report_05092016.pdf</a>	</div>
+  <div class="csl-entry">. (2017) . <a href="https://www.sec.gov/files/sec-2017-agency-financial-report.pdf">https://www.sec.gov/files/sec-2017-agency-financial-report.pdf</a>	</div>
+  <div class="csl-entry">. (2014) . <a href="https://www.counseling.org/knowledge-center">https://www.counseling.org/knowledge-center</a>	</div>
+  <div class="csl-entry">. (2015) . <a href="https://www.nursingworld.org/coe-view-only">https://www.nursingworld.org/coe-view-only</a>	</div>
+  <div class="csl-entry">. (2017) . <a href="https://www.apa.org/ethics/code/index.aspx">https://www.apa.org/ethics/code/index.aspx</a>	</div>
+  <div class="csl-entry">. (2015–[2020]) . <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>	</div>
+  <div class="csl-entry">. (2013) . <a href="https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf">https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf</a>	</div>
+  <div class="csl-entry">. (2018) . <a href="https://nepc.colorado.edu/publication/SES">https://nepc.colorado.edu/publication/SES</a>	</div>
+  <div class="csl-entry">. (2019-02-14) . <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>	</div>
+  <div class="csl-entry">(2017-07-12–15)	</div>
+  <div class="csl-entry">(2016-03-30–04-02)	</div>
+  <div class="csl-entry">(2018-09-27–30)	</div>
+  <div class="csl-entry">(2018-04-26–29)	</div>
+  <div class="csl-entry">. University of Virginia, 2014	</div>
+  <div class="csl-entry">. University of Wisconsin–Madison, 2017	</div>
+  <div class="csl-entry">. The College of William &#38; Mary, 2012	</div>
+  <div class="csl-entry">Psychology of Sexual Orientation and Gender Diversity (2016, 3(4): 499–500)	 </div>
+  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">The New York Times (2019)	 </div>
+  <div class="csl-entry">94. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>	</div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">(2019)	</div>
+  <div class="csl-entry">. PsyArXiv, 2018(2018)	</div>
+  <div class="csl-entry">. PubMed Central, 2015(2015)	</div>
+  <div class="csl-entry">. ERIC, 2014(2014)	</div>
+  <div class="csl-entry">. ICPSR, 2018(2018)	</div>
+  <div class="csl-entry">. National Archive of Data on Arts and Culture, 2016(2016)	</div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">. University of Kentucky, 2015(2015)	</div>
+  <div class="csl-entry">(2011)	</div>
+  <div class="csl-entry">. Biostat, 2014(2014)	</div>
+  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">(2015)	</div>
+  <div class="csl-entry">. App Store, 2019(2019)	</div>
+  <div class="csl-entry">. Google Play Store, 2019(2019)	</div>
+  <div class="csl-entry">. (2011)	 </div>
+  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">. PsycTESTS, 2018(2018)	</div>
+  <div class="csl-entry">. ETS TestLink, 2000(2000)	</div>
+  <div class="csl-entry">. United Artists, 1975(1975)	</div>
+  <div class="csl-entry">. American Pychological Association, 2017(2017)	</div>
+  <div class="csl-entry">. WingNut Films; The Saul Zaentz Company, 2001(2001)	</div>
+  <div class="csl-entry">. Nouvelles Éditions de Films, 1987(1987)	</div>
+  <div class="csl-entry">. Blown Deadline Productions; HBO, 2002–2008(2002–2008)	</div>
+  <div class="csl-entry">. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11)	</div>
+  <div class="csl-entry">. Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21)	</div>
+  <div class="csl-entry">. TED Conferences, 2018(2018-04)	</div>
+  <div class="csl-entry">. YouTube, 2012(2012-03-16)	</div>
+  <div class="csl-entry">. American Psychiatric Association, 2018(2018)	</div>
+  <div class="csl-entry">. Vimeo, 2017(2017-11-24)	</div>
+  <div class="csl-entry">. YouTube, 2016(2016-09-30)	</div>
+  <div class="csl-entry">. YouTube, 2016(2016-12-06)	</div>
+  <div class="csl-entry">. Decca, 2010(2010)	</div>
+  <div class="csl-entry">. Columbia, 2016(2016)	</div>
+  <div class="csl-entry">. Brilliant Classics, 2012(2012)	</div>
+  <div class="csl-entry">. Parkwood; Columbia, 2016(2016)	</div>
+  <div class="csl-entry">. mcDJ; RCA, 2018(2018)	</div>
+  <div class="csl-entry">. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017(2017)	</div>
+  <div class="csl-entry">. NPR, 2015(2015)	</div>
+  <div class="csl-entry">. WBEZ Chicago, 2011(2011-08-12)	</div>
+  <div class="csl-entry">(1960-05-04)	</div>
+  <div class="csl-entry">. American Rhetoric, 1963(1963-08-28)	</div>
+  <div class="csl-entry">(1826–1827)	</div>
+  <div class="csl-entry">(1930)	</div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">(2015)	</div>
+  <div class="csl-entry">. University of Virginia: Weldon Cooper Center for Public Service, 2013(2013)	</div>
+  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">(1985)	</div>
+  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">(2019-05-22)	</div>
+  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">(2018)	</div>
+  <div class="csl-entry">(2018-06-29)	</div>
+  <div class="csl-entry">(2018-02-26)	</div>
+  <div class="csl-entry">(2018-06-21)	</div>
+  <div class="csl-entry">. . Twitter. ([日期不详])[2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>	</div>
+  <div class="csl-entry">(2018-03-22)	</div>
+  <div class="csl-entry">(2018-11-28)	</div>
+  <div class="csl-entry">(2018-06-26)	</div>
+  <div class="csl-entry">. . Facebook. ([日期不详])[2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>	</div>
+  <div class="csl-entry">(2018-11-26)	</div>
+  <div class="csl-entry">([日期不详])	</div>
+  <div class="csl-entry">(2018-09-12)	</div>
+  <div class="csl-entry">. . CNN. (2019-01-03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>	</div>
+  <div class="csl-entry">. . HuffPost. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>	</div>
+  <div class="csl-entry">. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>	</div>
+  <div class="csl-entry">. (2018-03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>	</div>
+  <div class="csl-entry">. . Mayo Clinic. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>	</div>
+  <div class="csl-entry">. . The research ethics guidebook: A resource for social scientists. ([日期不详]). <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>	</div>
+  <div class="csl-entry">. ([日期不详]). <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>	</div>
+  <div class="csl-entry">. . U.S. Department of Commerce. ([日期不详])[2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>	</div>
+  <div class="csl-entry">(1954)	</div>
+  <div class="csl-entry">(2015)	</div>
+  <div class="csl-entry">(1991)	</div>
+  <div class="csl-entry">(2001)	</div>
+  <div class="csl-entry">(1984)	</div>
+  <div class="csl-entry">(1976)	</div>
+  <div class="csl-entry">(1992)	</div>
+  <div class="csl-entry">. U.S.C, 1990, 42	</div>
+  <div class="csl-entry">. Stat., 1964, 78: 241	</div>
+  <div class="csl-entry">. U.S.C, 2015, 20	</div>
+  <div class="csl-entry">. Stat., 2009, 123: 5	</div>
+  <div class="csl-entry">. U.S.C, 1972, 20	</div>
+  <div class="csl-entry">. Fla. Stat., 2009	</div>
+  <div class="csl-entry">(2016)	</div>
+  <div class="csl-entry">(2014)	</div>
+  <div class="csl-entry">185. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">. Cong. Rec., 2016, 162: 2394	</div>
+  <div class="csl-entry">. (2015) . <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>	</div>
+  <div class="csl-entry">(2009)	</div>
+  <div class="csl-entry">. F.R., 2016, 81: 32391	</div>
+  <div class="csl-entry">(2014)	</div>
+  <div class="csl-entry">Using metaphors to present concepts across different intellectual domains (9,367,592)	 </div>
+  <div class="csl-entry">192. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">193. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">194. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">195. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">196. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">197. [CSL STYLE ERROR: reference with no printed form.]</div>
+  <div class="csl-entry">(1989-11-20)	</div>
 </div>

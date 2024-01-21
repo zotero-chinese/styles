@@ -87,6 +87,7 @@
 		"publisher": "University of Chicago Press",
 		"publisher-place": "Chicago",
 		"title": "Troubling confessions: Speaking guilt in law and literature",
+		"title-short": "Troubling confessions",
 		"author": [
 			{
 				"family": "Brooks",
@@ -204,6 +205,7 @@
 		"language": "zh-CN",
 		"publisher": "北京师范大学历史系",
 		"title": "罗隆基政治思想研究（1913—1949）",
+		"title-short": "罗隆基政治思想研究",
 		"author": [
 			{
 				"literal": "方明东"
@@ -418,6 +420,7 @@
 		"publisher": "三联书店",
 		"publisher-place": "北京",
 		"title": "为什么称为“中国大历史”？——中文版自序",
+		"title-short": "为什么称为“中国大历史”？",
 		"author": [
 			{
 				"literal": "黄仁宇"
@@ -492,6 +495,7 @@
 		"publisher": "三联书店",
 		"publisher-place": "北京",
 		"title": "读家书，想傅雷（代序）",
+		"title-short": "读家书，想傅雷",
 		"author": [
 			{
 				"literal": "楼适夷"
@@ -606,6 +610,7 @@
 		"type": "book",
 		"event-place": "香港",
 		"language": "zh-CN",
+		"note": "original-publisher-place: 日",
 		"publisher": "香港中文大学出版社",
 		"publisher-place": "香港",
 		"title": "中国人留学日本史",
@@ -638,6 +643,7 @@
 		"publisher": "人民出版社",
 		"publisher-place": "北京",
 		"title": "中国哲学发展史（先秦卷）",
+		"title-short": "中国哲学发展史",
 		"editor": [
 			{
 				"literal": "任继愈"
@@ -736,6 +742,7 @@
 		"publisher": "法律出版社",
 		"publisher-place": "北京",
 		"title": "公司法的展开与评判——方法·判例·制度",
+		"title-short": "公司法的展开与评判",
 		"author": [
 			{
 				"literal": "蒋大兴"
@@ -1003,81 +1010,6 @@
 				[
 					"2000",
 					6
-				]
-			]
-		}
-	},
-    {
-		"id": "z-test-1",
-		"type": "book",
-		"collection-title": "东方编译所译丛",
-		"event-place": "上海",
-		"ISBN": "978-7-208-05912-2",
-		"language": "zh-CN",
-		"note": "titleTranslation:",
-		"number-of-pages": "484",
-		"publisher": "上海人民出版社",
-		"publisher-place": "上海",
-		"title": "世界政治理论的探索与争鸣",
-		"editor": [
-			{
-				"literal": "彼得·卡赞斯坦"
-			},
-			{
-				"literal": "罗伯特·基欧汉"
-			},
-			{
-				"literal": "斯蒂芬·克拉斯纳"
-			}
-		],
-		"translator": [
-			{
-				"literal": "秦亚青"
-			},
-			{
-				"literal": "苏长和"
-			},
-			{
-				"literal": "门洪华"
-			},
-			{
-				"literal": "魏玲"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2006",
-					1
-				]
-			]
-		}
-	},
-    {
-		"id": "z-test-2",
-		"type": "book",
-		"event-place": "香港",
-		"language": "zh-CN",
-		"publisher": "香港中文大学出版社",
-		"publisher-place": "香港",
-		"title": "中国人留学日本史",
-		"author": [
-			{
-				"literal": "实藤惠秀"
-			}
-		],
-		"translator": [
-			{
-				"literal": "谭汝谦"
-			},
-			{
-				"literal": "林启彦"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1982"
 				]
 			]
 		}

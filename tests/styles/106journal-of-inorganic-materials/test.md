@@ -167,18 +167,18 @@ Undefined
   <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来. 心理学报, 2008, <b>40</b><b>: </b>210–215.</div>
   <div class="csl-entry">[7]	WOLCHIK S A, WEST S G, SANDLER I N, <i>et al.</i> An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <i>Journal of Consulting and Clinical Psychology</i>, 2000, <b>68</b><b>(5)</b><b>: </b>843–856.</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来. 心理学报, [日期不详].</div>
-  <div class="csl-entry">[9]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. 2019. . DOI: <a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
-  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, <i>et al.</i> Body ownership increases the interference between observed and executed movements.: e0209899. <i>PLoS ONE</i>, 2019, <b>14</b><b>(1)</b>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
+  <div class="csl-entry">[9]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Experimental Psychology</i>, 2019. DOI: <a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
+  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, <i>et al.</i> Body ownership increases the interference between observed and executed movements: e0209899. <i>PLoS ONE</i>, 2019, <b>14</b><b>(1)</b>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来. 心理学报, 2008, <b>40</b><b>(增刊)</b><b>: </b>210–215.</div>
   <div class="csl-entry">[12]	张三. 心理学史. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">[13]	佚名. 心理学史. 张三, 编. 北京: 未名出版社, 2008.</div>
-  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth. Gibbs J T, Huang L N, eds.. Hoboken,  NJ,  US: <i>Jossey-Bass</i>, 1989.</div>
+  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: <i>Jossey-Bass</i>, 1989.</div>
   <div class="csl-entry">[15]	LAPLACE P-S. A philosophical essay on probabilities. Truscott F W, Emory F L, trans.. <i>Dover</i>, 1951.</div>
-  <div class="csl-entry">[16]	拉普拉斯 P-S. 概率哲学. 张三, 李四, 译. 北京: 未名出版社, 1951.</div>
+  <div class="csl-entry">[16]	拉普拉斯, PIERRE-SIMON. 概率哲学. 张三, 李四, 译. 北京: 未名出版社, 1951.</div>
   <div class="csl-entry">[17]	KLATZKY R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. Freksa C, Habel C, Wender K F, eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. <i>Springer-Verlag</i>, 1998: 1–17.</div>
   <div class="csl-entry">[18]	WANG D F, CUI H. Theoretical analysis of the seven factor model of Chinese personality. Wang D F, Hou Y B, eds.//Selected papers on personality and social psychology. Beijing: <i>Peking University Press</i>, 2004: 46–84.</div>
   <div class="csl-entry">[19]	王登峰, 崔红. 中国人“大七”人格结构的理论分析. 王登峰, 侯玉波, 编//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46–84.</div>
-  <div class="csl-entry">[20]	AUERBACH J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4 edition. Washington,  DC,  US: <i>Wiley</i>, 1993: 43–110.</div>
+  <div class="csl-entry">[20]	AUERBACH J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4 edition. Washington, DC, US: <i>Wiley</i>, 1993: 43–110.</div>
   <div class="csl-entry">[21]	LICHSTEIN K L, JOHNSON R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs//Reducing medication in geriatric populations. .</div>
   <div class="csl-entry">[22]	LANKTREE C B, BRIERE J N. Early data on the Trauma Symptom Checklist for Children (TSC-C). .</div>
   <div class="csl-entry">[23]	RUBY J, FULTON C. Beyond redlining: Editing software that works. .</div>
@@ -245,8 +245,6 @@ Undefined
   <div class="csl-entry">[46]	CHAMBERLAIN H B. On the search for civil society in China. <i>Modern China</i>, 1993, <b>19</b><b>(2)</b><b>: </b>199–215.</div>
   <div class="csl-entry">[47]	SCHFIELD R S. The impact of scarcity and plenty on population change in England. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: <i>Cambridge University Press</i>, 1983: 55–88.</div>
   <div class="csl-entry">[48]	Anonymous. Nixon to Kissinger(1969–02–01).</div>
-  <div class="csl-entry">[49]	佚名. 世界政治理论的探索与争鸣. 彼得·卡赞斯坦, 罗伯特·基欧汉, 斯蒂芬·克拉斯纳, 编. 秦亚青, 苏长和, 门洪华, 等, 译. 上海: 上海人民出版社, 2006.</div>
-  <div class="csl-entry">[50]	实藤惠秀. 中国人留学日本史. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社, 1982.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -336,4 +334,207 @@ Undefined
   <div class="csl-entry">[82]	佚名. ジュリスト([日期不详])[2022–09–01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
   <div class="csl-entry">[83]	欧中坦. 千方百计上京城：清朝的京控. 高道蕴, 高鸿钧, 贺卫方, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
   <div class="csl-entry">[84]	佚名. 温家宝主持国务院会议 研究房地产业健康发展措施([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
+</div>
+
+### APA 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	MCCAULEY S M, CHRISTIANSEN M H. Language learning as language use: A cross-linguistic model of child language development. <i>Psychological Review</i>, 2019, <b>126</b><b>(1)</b><b>: </b>1–51.</div>
+  <div class="csl-entry">[2]	AHMANN E, TUTTLE L J, SAVIET M, <i>et al.</i> A descriptive review of ADHD coaching research: Implications for college students. <i>Journal of Postsecondary Education and Disability</i>, 2018, <b>31</b><b>(1)</b><b>: </b>17–39.</div>
+  <div class="csl-entry">[3]	ANDERSON M. Getting consistent with consequences. <i>Educational Leadership</i>, 2018, <b>76</b><b>(1)</b><b>: </b>26–33.</div>
+  <div class="csl-entry">[4]	GOLDMAN C. The complicated calibration of love, especially in adoption. <i>Chicago Tribune</i>, 2018.</div>
+  <div class="csl-entry">[5]	KALNAY E, KANAMITSU M, KISTLER R, <i>et al.</i> The NCEP/NCAR 40-year reanalysis project. <i>Bulletin of the American Meteorological Society</i>, 1996, <b>77</b><b>(3)</b><b>: </b>437–471.</div>
+  <div class="csl-entry">[6]	DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, <i>et al.</i> What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands. <i>Midwifery</i>, 2013, <b>29</b><b>(10)</b><b>: </b>1122–1128.</div>
+  <div class="csl-entry">[7]	BURIN D, KILTENI K, RABUFFETTI M, <i>et al.</i> Body ownership increases the interference between observed and executed movements: e0209899. <i>PLOS ONE</i>, 2019, <b>14</b><b>(1)</b>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
+  <div class="csl-entry">[8]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Experimental Psychology</i>, 2019. DOI: <a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
+  <div class="csl-entry">[9]	PACHUR T, SCHEIBEHENNE B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach. <i>Psychonomic Bulletin &#38; Review</i>, [no date].</div>
+  <div class="csl-entry">[10]	CHAVES-MORILLO V, GÓMEZ CALERO C, FERNÁNDEZ-MUÑOZ J J, <i>et al.</i> Sensorineural anosmia: Relationship between subtype, recognition time, and age. <i>Clínica y Salud</i>, 2018, <b>28</b><b>(3)</b><b>: </b>155–161.</div>
+  <div class="csl-entry">[11]	PIAGET J. Intellectual evolution from adolescence to adulthood. <i>Human Development</i>, 1972, <b>15</b><b>(1)</b><b>: </b>1–12.</div>
+  <div class="csl-entry">[12]	SHORE M F. Marking time in the land of plenty: Reflections on mental health in the United States. <i>American Journal of Orthopsychiatry</i>, 2014, <b>84</b><b>(6)</b><b>: </b>611–618.</div>
+  <div class="csl-entry">[13]	Anonymous. Marking time in the land of plenty: Reflections on mental health in the United States. <i>American Journal of Orthopsychiatry</i>, 1981, <b>51</b><b>(3)</b><b>: </b>391–402.</div>
+  <div class="csl-entry">[14]	Anonymous. Archives of scientific psychology(2018).</div>
+  <div class="csl-entry">[15]	Anonymous. American psychologist(2018).</div>
+  <div class="csl-entry">[16]	MEHRHOLZ J, POHL M, PLATZ T, <i>et al.</i> Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke. <i>Cochrane Database of Systematic Reviews</i>, 2018. DOI: <a href="https://doi.org/10.1002/14651858.CD006876.pub5">10.1002/14651858.CD006876.pub5</a>.</div>
+  <div class="csl-entry">[17]	MOREY M C. Physical activity and exercise in older adults. <i>UpToDate</i>, 2019.</div>
+  <div class="csl-entry">[18]	BERGESON S. Really cool neutral plasmas. <i>Science</i>, 2019, <b>363</b><b>(6422)</b><b>: </b>33–34.</div>
+  <div class="csl-entry">[19]	BUSTILLOS M. On video games and storytelling: An interview with Tom Bissell. <i>The New Yorker</i>, 2013.</div>
+  <div class="csl-entry">[20]	WEIR K. Forgiveness can improve mental and physical health. <i>Monitor on Psychology</i>, 2017, <b>48</b><b>(1)</b><b>: </b>30.</div>
+  <div class="csl-entry">[21]	GUARINO B. How will humanity react to alien life? Psychologists have some predictions. <i>The Washington Post</i>, 2017.</div>
+  <div class="csl-entry">[22]	HESS A. Cats who take direction. <i>The New York Times</i>, 2019<b>: </b>C1.</div>
+  <div class="csl-entry">[23]	KLYMKOWSKY M. Can we talk scientifically about free will?(2018–09–15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
+  <div class="csl-entry">[24]	KS IN NJ. From this article, it sounds like men are figuring something out that women have known forever. I know of many. <i>The Washington Post</i>, 2019.</div>
+  <div class="csl-entry">[25]	AUTHOR A. How workout buddies can help stave off loneliness. <i>The Washington Post</i>, 2019.</div>
+  <div class="csl-entry">[26]	CUELLAR N G. Study abroad programs. <i>Journal of Transcultural Nursing</i>, 2016, <b>27</b><b>(3)</b><b>: </b>209.</div>
+  <div class="csl-entry">[27]	BROWN L S. Feminist therapy. 2 edition. <i>American Psychological Association</i>, 2018.</div>
+  <div class="csl-entry">[28]	BURGESS R. Rethinking global health: Frameworks of power. <i>Routledge</i>, 2019.</div>
+  <div class="csl-entry">[29]	CAIN S. Quiet: The power of introverts in a world that can’t stop talking. <i>Random House Audio</i>, 2012.</div>
+  <div class="csl-entry">[30]	CHRISTIAN B, GRIFFITHS T. Algorithms to live by: The computer science of human decisions. <i>Henry Holt and Co.</i>, 2016.</div>
+  <div class="csl-entry">[31]	MEADOWS D H. Thinking in systems: A primer. Wright D, ed.. <i>Chelsea Green Publishing</i>, 2008.</div>
+  <div class="csl-entry">[32]	Anonymous. Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge. Schmid H-J, ed.. <i>American Psychological Association; De Gruyter Mouton</i>, 2017.</div>
+  <div class="csl-entry">[33]	Anonymous. Military veteran psychological health and social care: Contemporary approaches. Hacker Hughes J, ed.. <i>Routledge</i>, 2017.</div>
+  <div class="csl-entry">[34]	Anonymous. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents. Pridham K F, Limbo R, Schroeder M, eds.. <i>Springer Publishing Company</i>, 2018.</div>
+  <div class="csl-entry">[35]	AMANO N, KONDO H. Lexical characteristics of Japanese language. <i>Sansei-do</i>, 2000.</div>
+  <div class="csl-entry">[36]	PIAGET J, INHELDER B. The psychology of the child. <i>Quadrige</i>, 1966.</div>
+  <div class="csl-entry">[37]	PIAGET J, INHELDER B. The psychology of the child. Weaver H, tran.. 2 edition. <i>Basic Books</i>, 1969.</div>
+  <div class="csl-entry">[38]	FREUD S. The interpretation of dreams: The complete and definitive text. Strachey J, ed. &#38; tran.. <i>Basic Books</i>, 2010.</div>
+  <div class="csl-entry">[39]	ROWLING J K. Harry Potter and the sorceror’s stone. <i>Pottermore Publishing</i>, 2015.</div>
+  <div class="csl-entry">[40]	FISKE S T, GILBERT D T, LINDZEY G. Handbook of social psychology. 5 edition. <i>John Wiley &#38; Sons</i>, 2010.</div>
+  <div class="csl-entry">[41]	Anonymous. APA handbook of the psychology of women. Travis C B, White J W, eds.. <i>American Psychological Association</i>, 2018.</div>
+  <div class="csl-entry">[42]	MADIGAN S. Narrative therapy. 2 edition. <i>American Psychological Association</i>, 2019.</div>
+  <div class="csl-entry">[43]	AMERICAN PSYCHIATRIC ASSOCIATION. Diagnostic and statistical manual of mental disorders. 5 edition. <i>American Psychiatric Association</i>, 2013.</div>
+  <div class="csl-entry">[44]	WORLD HEALTH ORGANIZATION. International statistical classification of diseases and related health problems. 11 edition. <i>World Health Organization</i>, 2019.</div>
+  <div class="csl-entry">[45]	AMERICAN PSYCHOLOGICAL ASSOCIATION. APA dictionary of psychology. .</div>
+  <div class="csl-entry">[46]	MERRIAM-WEBSTER. Merriam-Webster.com dictionary. .</div>
+  <div class="csl-entry">[47]	Anonymous. The Stanford encyclopedia of philosophy. Zalta E N, ed.. Summer 2019 ed. edition. <i>Stanford University</i>, 2019.</div>
+  <div class="csl-entry">[48]	Anonymous. The complete social scientist: A Kurt Lewin reader. Gold M, ed.. <i>American Psychological Association</i>, 1999.</div>
+  <div class="csl-entry">[49]	Anonymous. King James Bible. <i>King James Bible Online</i>, 2017.</div>
+  <div class="csl-entry">[50]	Anonymous. The Qur’an. Abdel Haleem M A S, tran.. <i>Oxford University Press</i>, 2004.</div>
+  <div class="csl-entry">[51]	Anonymous. The Torah: The five books of Moses. 3 edition. <i>The Jewish Publication Society</i>, 2015.</div>
+  <div class="csl-entry">[52]	ARISTOTLE. Poetics. Butcher S H, tran.. <i>The Internet Classics Archive</i>, 1994.</div>
+  <div class="csl-entry">[53]	SHAKESPEARE W. Much ado about nothing. Mowat B A, Werstine P, eds.. <i>Washington Square Press</i>, 1995.</div>
+  <div class="csl-entry">[54]	BALSAM K F, MARTELL C R, JONES K P, <i>et al.</i> Affirmative cognitive behavior therapy with sexual and gender minority people. Iwamasa G Y, Hays P A, eds.//Culturally responsive cognitive behavior therapy: Practice and supervision. 2 edition. <i>American Psychological Association</i>, 2019: 287–314.</div>
+  <div class="csl-entry">[55]	WEINSTOCK R, LEONG G B, SILVA J A. Defining forensic psychiatry: Roles and responsibilities. Rosner R, ed.//Principles and practise of forensic psychiatry. 2 edition. <i>CRC Press</i>, 2003: 7–13.</div>
+  <div class="csl-entry">[56]	TAFOYA N, DEL VECCHIO A. Back to the future: An examination of the Native American Holocaust experience. McGoldrick M, Giordano J, Garcia-Preto N, eds.//Ethnicity and family therapy. 3 edition. <i>Guilford Press</i>, 2005: 55–63.</div>
+  <div class="csl-entry">[57]	CARCAVILLA GONZÁLEZ N. Auditory sensory therapy: Brain activation through music. Garcia Meilán J J, ed.//Guía práctica de terapias estimulativas en el Alzhéimer. <i>Editorial Síntesis</i>, 2015: 67–86.</div>
+  <div class="csl-entry">[58]	HEIDEGGER M. On the essence of truth. Krell D F, ed. Sallis J, tran.//Basic writings. <i>Harper Perennial Modern Thought</i>, 2008: 111–138.</div>
+  <div class="csl-entry">[59]	SACCHETT C, HUMPHREYS G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. Balota D A, Marsh E J, eds.//Cognitive psychology: Key readings in cognition. <i>Psychology Press</i>, 2004: 100–108.</div>
+  <div class="csl-entry">[60]	SACCHETT C, HUMPHREYS G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. <i>Cognitive Neuropsychology</i>, 1992, <b>9</b><b>(1)</b><b>: </b>73–86.</div>
+  <div class="csl-entry">[61]	BRONFENBRENNER U. The social ecology of human development: A retrospective conclusion. Bronfenbrenner U, ed.//Making human beings human: Bioecological perspectives on human development. <i>SAGE Publications</i>, 2005: 27–40.</div>
+  <div class="csl-entry">[62]	Anonymous. Brain and intelligence: The ecology of child development. Richardson F, ed.. <i>National Educational Press</i>, 1973: 113–123.</div>
+  <div class="csl-entry">[63]	GOLDIN-MEADOW S. Gesture and cognitive development. Liben L S, Mueller U, eds.//Handbook of child psychology and developmental science. 7 edition. <i>John Wiley &#38; Sons</i>, 2015: 339–380.</div>
+  <div class="csl-entry">[64]	LEWIN K. Group decision and social change. Gold M, ed.//The complete social scientist: A Kurt Lewin reader. <i>American Psychological Association</i>, 1999: 265–284.</div>
+  <div class="csl-entry">[65]	AMERICAN PSYCHOLOGICAL ASSOCIATION. Positive transference([no date]).</div>
+  <div class="csl-entry">[66]	MERRIAM-WEBSTER. Self-report([no date]).</div>
+  <div class="csl-entry">[67]	GRAHAM G. Behaviorism. <i>Stanford University</i>, 2019(2019).</div>
+  <div class="csl-entry">[68]	Anonymous. List of oldest companies(2019–01–13).</div>
+  <div class="csl-entry">[69]	AUSTRALIAN GOVERNMENT PRODUCTIVITY COMMISSION, NEW ZEALAND PRODUCTIVITY COMMISSION. Strengthening trans-Tasman economic relations. .</div>
+  <div class="csl-entry">[70]	CANADA COUNCIL FOR THE ARTS. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation. .</div>
+  <div class="csl-entry">[71]	NATIONAL CANCER INSTITUTE. Facing forward: Life after cancer treatment: 18-2424. <i>U.S. Department of Health and Human Services, National Institutes of Health</i>, 2018.</div>
+  <div class="csl-entry">[72]	FRIED D, POLYAKOVA A. Democratic defense against disinformation. <i>Atlantic Council</i>, 2018.</div>
+  <div class="csl-entry">[73]	SEGAERT A, BAUER A. The extent and nature of veteran homelessness in Canada. <i>Employment and Social Development Canada</i>, 2015.</div>
+  <div class="csl-entry">[74]	BLACKWELL D L, LUCAS J W, CLARKE T C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012. <i>Centers for Disease Control and Prevention</i>, 2014.</div>
+  <div class="csl-entry">[75]	BRITISH CARDIOVASCULAR SOCIETY WORKING GROUP. British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients. <i>British Cardiovascular Society</i>, 2016.</div>
+  <div class="csl-entry">[76]	U.S. SECURITIES AND EXCHANGE COMMISSION. Agency financial report: Fiscal Year 2017. .</div>
+  <div class="csl-entry">[77]	AMERICAN COUNSELING ASSOCIATION. 2014 ACA code of ethics. .</div>
+  <div class="csl-entry">[78]	AMERICAN NURSES ASSOCIATION. Code of ethics for nurses with interpretive statements. .</div>
+  <div class="csl-entry">[79]	AMERICAN PSYCHOLOGICAL ASSOCIATION. Ethical principles of psychologists and code of conduct. .</div>
+  <div class="csl-entry">[80]	BLAIR C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252–04. <i>Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development</i>, 2015–[2020].</div>
+  <div class="csl-entry">[81]	LICHTENSTEIN J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1. <i>U.S. Small Business Administration, Office of Advocacy</i>, 2013.</div>
+  <div class="csl-entry">[82]	HARWELL M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change. <i>National Education Policy Center</i>, 2018.</div>
+  <div class="csl-entry">[83]	U.S. FOOD AND DRUG ADMINISTRATION. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices. <i>U.S. Food and Drug Administration</i>, 2019.</div>
+  <div class="csl-entry">[84]	FISTEK A, JESTER E, SONNENBERG K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate(2017–07–12–15).</div>
+  <div class="csl-entry">[85]	MADDOX S, HURLING J, STEWART E, <i>et al.</i> If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children(2016–03–30–04–02).</div>
+  <div class="csl-entry">[86]	PEARSON J. Fat talk and its effects on state-based body image in women(2018–09–27–30).</div>
+  <div class="csl-entry">[87]	DE BOER D, LAFAVOR T. The art and significance of successfully identifying resilient individuals A person-focused approach(2018–04–26–29).</div>
+  <div class="csl-entry">[88]	HARRIS L. Instructional leadership perceptions and practices of elementary school leaders. <i>University of Virginia</i>, 2014.</div>
+  <div class="csl-entry">[89]	HOLLANDER M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373. <i>University of Wisconsin–Madison</i>, 2017.</div>
+  <div class="csl-entry">[90]	HUTCHESON V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents. <i>The College of William &#38; Mary</i>, 2012.</div>
+  <div class="csl-entry">[91]	MIRABITO L A, HECK N C. Bringing LGBTQ youth theater into the spotlight. <i>Psychology of Sexual Orientation and Gender Diversity</i>, 2016, <b>3</b><b>(4)</b><b>: </b>499–500.</div>
+  <div class="csl-entry">[92]	Anonymous. The year we thought about love(2016).</div>
+  <div class="csl-entry">[93]	SANTOS F. Reframing refugee children’s stories. <i>The New York Times</i>, 2019.</div>
+  <div class="csl-entry">[94]	YOUSAFZAI M. We are displaced: My journey and stories from refugee girls around the world. .</div>
+  <div class="csl-entry">[95]	PERKINS D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile(2018–02–01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
+  <div class="csl-entry">[96]	Anonymous. Somewhere else(2018).</div>
+  <div class="csl-entry">[97]	YOO J, MIYAMOTO Y, RIGOTTI A, <i>et al.</i> Linking positive affect to blood lipids: A cultural perspective(2016).</div>
+  <div class="csl-entry">[98]	O’SHEA M. Understanding proactive behavior in the workplace as a function of gender(2018).</div>
+  <div class="csl-entry">[99]	LIPPINCOTT T, POINDEXTER E K. Emotion recognition as a function of facial cues: Implications for practice(2019).</div>
+  <div class="csl-entry">[100]	LEUKER C, SAMARTZIDIS L, HERTWIG R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials. <i>PsyArXiv</i>, 2018(2018).</div>
+  <div class="csl-entry">[101]	STULTS-KOLEHMAINEN M A, SINHA R. The effects of stress on physical activity and exercise. <i>PubMed Central</i>, 2015(2015).</div>
+  <div class="csl-entry">[102]	HO H-K. Teacher preparation for early childhood special education in Taiwan: ED545393. <i>ERIC</i>, 2014(2014).</div>
+  <div class="csl-entry">[103]	D’SOUZA A, WISEHEART M. Cognitive effects of music and dance training in children: ICPSR 37080. <i>ICPSR</i>, 2018(2018).</div>
+  <div class="csl-entry">[104]	NATIONAL CENTER FOR EDUCATION STATISTICS. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531. <i>National Archive of Data on Arts and Culture</i>, 2016(2016).</div>
+  <div class="csl-entry">[105]	PEW RESEARCH CENTER. American trends panel Wave 26(2018).</div>
+  <div class="csl-entry">[106]	BAER R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills. <i>University of Kentucky</i>, 2015(2015).</div>
+  <div class="csl-entry">[107]	OREGAN YOUTH AUTHORITY. Recidivism outcomes(2011).</div>
+  <div class="csl-entry">[108]	BORENSTEIN M, HEDGES L, HIGGINS J, 等. Comprehensive meta-analysis. <i>Biostat</i>, 2014(2014).</div>
+  <div class="csl-entry">[109]	SR RESEARCH. Eyelink 1000 plus(2016).</div>
+  <div class="csl-entry">[110]	TACTILE LABS. Latero tactile display(2015).</div>
+  <div class="csl-entry">[111]	EPOCRATES. Epocrates medical references. <i>App Store</i>, 2019(2019).</div>
+  <div class="csl-entry">[112]	EPOCRATES. Interaction Check: Aspirin + Sertraline. <i>Google Play Store</i>, 2019(2019).</div>
+  <div class="csl-entry">[113]	TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. <i>Pearson</i>, 2011.</div>
+  <div class="csl-entry">[114]	PROJECT IMPLICIT. Gender-Science IAT([no date]).</div>
+  <div class="csl-entry">[115]	ALONSO-TAPIA J, NIETO C, MERINO-TEJEDOR E, <i>et al.</i> Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). <i>PsycTESTS</i>, 2018(2018).</div>
+  <div class="csl-entry">[116]	CARDOZA D, MORRIS J K, MYERS H F, <i>et al.</i> Acculturative Stress Inventory (ASI): TC022704. <i>ETS TestLink</i>, 2000(2000).</div>
+  <div class="csl-entry">[117]	Anonymous. One flew over the cuckoo’s nest. <i>United Artists</i>, 1975(1975).</div>
+  <div class="csl-entry">[118]	Anonymous. Accelerated experiental dynamic psychotherapy (AEDP) supervision. <i>American Pychological Association</i>, 2017(2017).</div>
+  <div class="csl-entry">[119]	Anonymous. The lord of the rings: The fellowship of the ring. <i>WingNut Films; The Saul Zaentz Company</i>, 2001(2001).</div>
+  <div class="csl-entry">[120]	Anonymous. Goodbye children. <i>Nouvelles Éditions de Films</i>, 1987(1987).</div>
+  <div class="csl-entry">[121]	Anonymous. The wire. <i>Blown Deadline Productions; HBO</i>, 2002–2008(2002–2008).</div>
+  <div class="csl-entry">[122]	Anonymous. Lemons: Season 3, Episode 12. <i>Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios</i>, 2017(2017–01–11).</div>
+  <div class="csl-entry">[123]	Anonymous. Who shot Mr. Burns? (Part One): Season 6, Episode 25. <i>Gracie Films; Twentieth Century Fox Film Corporation</i>, 1995(1995–05–21).</div>
+  <div class="csl-entry">[124]	Anonymous. Why you should make useless things. <i>TED Conferences</i>, 2018(2018–04).</div>
+  <div class="csl-entry">[125]	Anonymous. Brené Brown: Listening to shame. <i>YouTube</i>, 2012(2012–03–16).</div>
+  <div class="csl-entry">[126]	Anonymous. Evaluating adverse drug effects. <i>American Psychiatric Association</i>, 2018(2018).</div>
+  <div class="csl-entry">[127]	Anonymous. Happiness. <i>Vimeo</i>, 2017(2017–11–24).</div>
+  <div class="csl-entry">[128]	Anonymous. How to diagram a sentence (absolute basics). <i>YouTube</i>, 2016(2016–09–30).</div>
+  <div class="csl-entry">[129]	Anonymous. How do geckos walk on water? <i>YouTube</i>, 2016(2016–12–06).</div>
+  <div class="csl-entry">[130]	Anonymous. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060. <i>Decca</i>, 2010(2010).</div>
+  <div class="csl-entry">[131]	BOWIE D. Blackstar. <i>Columbia</i>, 2016(2016).</div>
+  <div class="csl-entry">[132]	Anonymous. Symphony No. 3 in E-flat major. <i>Brilliant Classics</i>, 2012(2012).</div>
+  <div class="csl-entry">[133]	BEYONCÉ. Formation. <i>Parkwood; Columbia</i>, 2016(2016).</div>
+  <div class="csl-entry">[134]	CHILDISH GAMBINO. This is America. <i>mcDJ; RCA</i>, 2018(2018).</div>
+  <div class="csl-entry">[135]	LAMAR K. Humble. <i>Aftermath Entertainment; Interscope Records; Top Dawg Entertainment</i>, 2017(2017).</div>
+  <div class="csl-entry">[136]	VEDANTAM S. Hidden brain. <i>NPR</i>, 2015(2015).</div>
+  <div class="csl-entry">[137]	GLASS I. Amusement park: 443. <i>WBEZ Chicago</i>, 2011(2011–08–12).</div>
+  <div class="csl-entry">[138]	DE BEAUVOIR S. Simone de Beauvoir discusses the art of writing(1960–05–04).</div>
+  <div class="csl-entry">[139]	KING M L Jr. I have a dream. <i>American Rhetoric</i>, 1963(1963–08–28).</div>
+  <div class="csl-entry">[140]	DELACROIX E. Faust attempts to seduce Marguerite(1826–1827).</div>
+  <div class="csl-entry">[141]	WOOD G. American gothic(1930).</div>
+  <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic(2018).</div>
+  <div class="csl-entry">[143]	ROSSMAN J, PALMER R. Sorting through our space junk(2015).</div>
+  <div class="csl-entry">[144]	CABLE D. The racial dot map. University of Virginia: <i>Weldon Cooper Center for Public Service</i>, 2013(2013).</div>
+  <div class="csl-entry">[145]	GOOGLE. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru([no date]).</div>
+  <div class="csl-entry">[146]	MCCURRY S. Afghan girl(1985).</div>
+  <div class="csl-entry">[147]	RINALDI J. Photograph series of a boy who finds his footing after abuse by those he trusted(2016).</div>
+  <div class="csl-entry">[148]	CANAN E, VASILEV J. Lecture notes on resource allocation(2019–05–22).</div>
+  <div class="csl-entry">[149]	HOUSAND B. Game on! Integrating games and simulations in the classroom(2016).</div>
+  <div class="csl-entry">[150]	MACK R, SPAKE G. Citing open source images and formatting references for presentations(2018).</div>
+  <div class="csl-entry">[151]	APA EDUCATION [@APAEDUCATION]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached](2018–06–29).</div>
+  <div class="csl-entry">[152]	BADLANDS NATIONAL PARK [@BADLANDSNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity(2018–02–26).</div>
+  <div class="csl-entry">[153]	WHITE B. I treasure every minute we spent together #koko [image attached](2018–06–21).</div>
+  <div class="csl-entry">[154]	APA STYLE [@APA_STYLE]. Tweets([no date])[2019–11–01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
+  <div class="csl-entry">[155]	GAIMAN N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached](2018–03–22).</div>
+  <div class="csl-entry">[156]	NATIONAL INSTITUTE OF MENTAL HEALTH. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain(2018–11–28).</div>
+  <div class="csl-entry">[157]	NEWS FROM SCIENCE. These frogs walk instead of hop. https://scimag.2KlriwH(2018–06–26).</div>
+  <div class="csl-entry">[158]	SMITHSONIAN’S NATIONAL ZOO AND CONSERVATION BIOLOGY INSTITUTE. Home([no date])[2019–07–22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
+  <div class="csl-entry">[159]	ZEITZ MOCAA [@ZEITZMOCAA]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by(2018–11–26).</div>
+  <div class="csl-entry">[160]	THE NEW YORK PUBLIC LIBRARY [@NYPL]. The raven([no date]).</div>
+  <div class="csl-entry">[161]	NATIONAL AERONAUTICS AND SPACE ADMINISTRATION [@NASA]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!(2018–09–12).</div>
+  <div class="csl-entry">[162]	AVRAMOVA N. The secret to a long, happy, health life? Think age-positive(2019–01–03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
+  <div class="csl-entry">[163]	BOLOGNA C. What happens to your mind and body when you feel homesick?(2018–06–27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
+  <div class="csl-entry">[164]	CENTERS FOR DISEASE CONTROL AND PREVENTION. People at high risk of developing flu-related complications(2018–01–23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
+  <div class="csl-entry">[165]	WORLD HEALTH ORGANIZATION. Questions and answers on immunization and vaccine safety(2018–03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
+  <div class="csl-entry">[166]	MARTIN LILLIE C M. Be kind to yourself: How self-compassion can improve your resiliency(2016–12–29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
+  <div class="csl-entry">[167]	BODDY J, NEUMANN T, JENNINGS S, <i>et al.</i> Ethics principles([no date]). <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
+  <div class="csl-entry">[168]	NATIONAL NURSES UNITED. What employers should do to protect nurses from Zika([no date]). <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
+  <div class="csl-entry">[169]	U.S. CENSUS BUREAU. U.S. and world population clock([no date])[2019–07–03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
+  <div class="csl-entry">[170]	Anonymous. Brown v. Board of Education(1954).</div>
+  <div class="csl-entry">[171]	Anonymous. Obergefell v. Hodges(2015).</div>
+  <div class="csl-entry">[172]	Anonymous. Daubert v. Merrell Dow Pharmaceuticals, Inc.(1991).</div>
+  <div class="csl-entry">[173]	Anonymous. Burriola v. Greater Toledo YMCA(2001).</div>
+  <div class="csl-entry">[174]	Anonymous. Durflinger v. Artiles(1984).</div>
+  <div class="csl-entry">[175]	Anonymous. Tarasoff v. Regents of the University of California(1976).</div>
+  <div class="csl-entry">[176]	Anonymous. Texas v. Morales(1992).</div>
+  <div class="csl-entry">[177]	Anonymous. American With Disabilities Act of 1990//U.S.C. .</div>
+  <div class="csl-entry">[178]	Anonymous. Civil Rights Act of 1964: 88-352//Stat. .</div>
+  <div class="csl-entry">[179]	Anonymous. Every Student Succeeds Act//U.S.C. .</div>
+  <div class="csl-entry">[180]	Anonymous. Lilly Leadbetter Fair Play Act of 2009: 111-2//Stat. .</div>
+  <div class="csl-entry">[181]	Anonymous. Patsy Mink Equal Opportunity in Education Act//U.S.C. .</div>
+  <div class="csl-entry">[182]	Anonymous. Florida Mental Health Act//Fla. Stat. .</div>
+  <div class="csl-entry">[183]	Anonymous. Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs(2016).</div>
+  <div class="csl-entry">[184]	Anonymous. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions(2014).</div>
+  <div class="csl-entry">[185]	Anonymous. Mental Health on Campus Improvement Act: H.R. 1100. .</div>
+  <div class="csl-entry">[186]	Anonymous. S. Res. 438//Cong. Rec. .</div>
+  <div class="csl-entry">[187]	Anonymous. H.R. Rep. No. 114-358. .</div>
+  <div class="csl-entry">[188]	Anonymous. Protection of human subjects(2009).</div>
+  <div class="csl-entry">[189]	Anonymous. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees//F.R. .</div>
+  <div class="csl-entry">[190]	Anonymous. Exec. Order No. 13,676(2014).</div>
+  <div class="csl-entry">[191]	HIREMATH S C, KUMAR S, LU F, <i>et al.</i> Using metaphors to present concepts across different intellectual domains: 9,367,592. 2016.</div>
+  <div class="csl-entry">[192]	Anonymous. U.S. Const. art. I, § 3. .</div>
+  <div class="csl-entry">[193]	Anonymous. S.C. Const. art. XI, § 3. .</div>
+  <div class="csl-entry">[194]	Anonymous. U.S. Const. amend. XIX. .</div>
+  <div class="csl-entry">[195]	Anonymous. U.S. Const. amend. XVIII (repealed 1933). .</div>
+  <div class="csl-entry">[196]	Anonymous. U.S. Const. amend. I-X. .</div>
+  <div class="csl-entry">[197]	Anonymous. U.N. Charter art. 1, para. 3. .</div>
+  <div class="csl-entry">[198]	Anonymous. United nations convention on the rights of the child(1989–11–20).</div>
 </div>

@@ -33,6 +33,7 @@ function get_paths(style_name) {
     let acta_psychologica_sinica_data_path = path.join(test_dir, 'acta-psychologica-sinica-data.json');
     let social_sciences_in_china_data_path = path.join(test_dir, 'social-sciences-in-china-data.json');
     let manual_of_legal_citation_data_path = path.join(test_dir, 'manual-of-legal-citation-data.json');
+    let apa_data_path = path.join(test_dir, 'apa-data.json');
 
     let test_style_dir = path.join(test_dir, 'styles', style_name);
 
@@ -74,6 +75,7 @@ function get_paths(style_name) {
         'acta_psychologica_sinica_data_path': acta_psychologica_sinica_data_path,
         'social_sciences_in_china_data_path': social_sciences_in_china_data_path,
         'manual_of_legal_citation_data_path': manual_of_legal_citation_data_path,
+        'apa_data_path': apa_data_path,
 
         'test_output_path': test_output_path,
         'sample_output_path': sample_output_path,
@@ -260,6 +262,7 @@ function get_item_data(paths) {
         'acta_psychologica_sinica',
         'social_sciences_in_china',
         'manual_of_legal_citation',
+        'apa',
         'default_test_cites_author_date',
     ]) {
         let path = paths[`${data_name}_data_path`];
@@ -298,6 +301,7 @@ function get_item_data(paths) {
         'acta_psychologica_sinica_results': 'Undefined',
         'social_sciences_in_china_results': 'Undefined',
         'manual_of_legal_citation_results': 'Undefined',
+        'apa_results': 'Undefined',
     };
 
     item.file = paths.file;
@@ -328,6 +332,9 @@ function get_item_data(paths) {
 
     // 《法学引注手册》测试
     item.manual_of_legal_citation_results = get_item_results(citeproc, data_dict.manual_of_legal_citation);
+
+    // APA 测试
+    item.apa_results = get_item_results(citeproc, data_dict.apa);
 
     // Sample citations
     let sample_citations;
@@ -378,7 +385,9 @@ function write_file(item, paths) {
         + `### 《中国社会科学》 示例文献\n\n`
         + `${item['social_sciences_in_china_results']}\n\n`
         + `### 《法学引注手册》 示例文献\n\n`
-        + `${item['manual_of_legal_citation_results']}\n`;
+        + `${item['manual_of_legal_citation_results']}\n\n`
+        + `### APA 示例文献\n\n`
+        + `${item['apa_results']}\n`;
 
     fs.writeFileSync(paths['test_output_path'], test_text);
 }

@@ -159,26 +159,26 @@ Undefined
 ### 《心理学报》 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	张. 心理学报, 2008, 40: 210–215.</div>
-  <div class="csl-entry">[2]	张等. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[1]	张三. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[2]	张三等. 心理学报, 2008, 40: 210–215.</div>
   <div class="csl-entry">[3]	Mou et al. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162–170.</div>
-  <div class="csl-entry">[4]	赵等. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[4]	赵一等. 心理学报, 2008, 40: 210–215.</div>
   <div class="csl-entry">[5]	Mou et al. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171–180.</div>
-  <div class="csl-entry">[6]	赵等. 心理学报, 2008, 40: 210–215.</div>
+  <div class="csl-entry">[6]	赵一一等. 心理学报, 2008, 40: 210–215.</div>
   <div class="csl-entry">[7]	Wolchik et al. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843–856.</div>
-  <div class="csl-entry">[8]	张等. 心理学报, [日期不详].</div>
-  <div class="csl-entry">[9]	Huestegge et al. 2019. .</div>
+  <div class="csl-entry">[8]	张三等. 心理学报, [日期不详].</div>
+  <div class="csl-entry">[9]	Huestegge et al. Experimental Psychology, 2019.</div>
   <div class="csl-entry">[10]	Burin et al. PLoS ONE, 2019, 14(1).</div>
-  <div class="csl-entry">[11]	张. 心理学报, 2008, 40(增刊): 210–215.</div>
-  <div class="csl-entry">[12]	张. . 北京: 未名出版社, 2008: 450.</div>
+  <div class="csl-entry">[11]	张三. 心理学报, 2008, 40(增刊): 210–215.</div>
+  <div class="csl-entry">[12]	张三. . 北京: 未名出版社, 2008: 450.</div>
   <div class="csl-entry">[13]	佚名. . 张三, 编. 北京: 未名出版社, 2008: 450.</div>
-  <div class="csl-entry">[14]	Anonymous. . Gibbs J T et al., eds.. Hoboken,  NJ,  US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[14]	Anonymous. . Gibbs J T et al., eds.. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   <div class="csl-entry">[15]	Laplace. . Truscott F W et al., trans.. Dover, 1951.</div>
-  <div class="csl-entry">[16]	拉普拉斯. . 张三等, 译. 北京: 未名出版社, 1951.</div>
+  <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. . 张三等, 译. 北京: 未名出版社, 1951.</div>
   <div class="csl-entry">[17]	Klatzky. . Freksa C et al., eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial Knowledge. Springer-Verlag, 1998: 1–17.</div>
   <div class="csl-entry">[18]	Wang et al. . Wang D F et al., eds.//Selected papers on personality and social Psychology. Beijing: Peking University Press, 2004: 46–84.</div>
-  <div class="csl-entry">[19]	王等. . 王登峰等, 编//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46–84.</div>
-  <div class="csl-entry">[20]	Auerbach. . Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social Development. 4 edition. Washington,  DC,  US: Wiley, 1993: 43–110.</div>
+  <div class="csl-entry">[19]	王登峰等. . 王登峰等, 编//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46–84.</div>
+  <div class="csl-entry">[20]	Auerbach. . Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social Development. 4 edition. Washington, DC, US: Wiley, 1993: 43–110.</div>
   <div class="csl-entry">[21]	Lichstein et al. //Reducing medication in geriatric Populations. .</div>
   <div class="csl-entry">[22]	Lanktree et al. . .</div>
   <div class="csl-entry">[23]	Ruby et al. . .</div>
@@ -189,9 +189,9 @@ Undefined
   <div class="csl-entry">[28]	佚名. . 李行健, 编. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	佚名. . 北京: 北京语言学院出版社, 1986.</div>
   <div class="csl-entry">[30]	Yu. . Beijing Normal University, 2000.</div>
-  <div class="csl-entry">[31]	余. . 北京师范大学, 2000.</div>
-  <div class="csl-entry">[32]	邱. . 上海: 华东师范大学, 2009.</div>
-  <div class="csl-entry">[33]	张等. 新华日报, 2008: 2, 5–7.</div>
+  <div class="csl-entry">[31]	余林. . 北京师范大学, 2000.</div>
+  <div class="csl-entry">[32]	邱颖文. . 上海: 华东师范大学, 2009.</div>
+  <div class="csl-entry">[33]	张三等. 新华日报, 2008: 2, 5–7.</div>
 </div>
 
 ### 《中国社会科学》 示例文献
@@ -245,8 +245,6 @@ Undefined
   <div class="csl-entry">[46]	Chamberlain. Modern China, 1993, 19(2): 199–215.</div>
   <div class="csl-entry">[47]	Schfield. . Rotberg R I et al., eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
   <div class="csl-entry">[48]	Anonymous. (1969-02-01).</div>
-  <div class="csl-entry">[49]	佚名. . 彼得·卡赞斯坦等, 编. 秦亚青等, 译. 上海: 上海人民出版社, 2006: 484.</div>
-  <div class="csl-entry">[50]	实藤惠秀. . 谭汝谦等, 译. 香港: 香港中文大学出版社, 1982.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -336,4 +334,207 @@ Undefined
   <div class="csl-entry">[82]	佚名. . ([日期不详])[2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
   <div class="csl-entry">[83]	欧中坦. . 高道蕴等, 编. 谢鹏程, 译//美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
   <div class="csl-entry">[84]	佚名. . . 新华网. ([日期不详]). <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
+</div>
+
+### APA 示例文献
+
+<div class="csl-bib-body second-field-align-flush">
+  <div class="csl-entry">[1]	McCauley et al. Psychological Review, 2019, 126(1): 1–51.</div>
+  <div class="csl-entry">[2]	Ahmann et al. Journal of Postsecondary Education and Disability, 2018, 31(1): 17–39.</div>
+  <div class="csl-entry">[3]	Anderson. Educational Leadership, 2018, 76(1): 26–33.</div>
+  <div class="csl-entry">[4]	Goldman. Chicago Tribune, 2018.</div>
+  <div class="csl-entry">[5]	Kalnay et al. Bulletin of the American Meteorological Society, 1996, 77(3): 437–471.</div>
+  <div class="csl-entry">[6]	De Vries et al. Midwifery, 2013, 29(10): 1122–1128.</div>
+  <div class="csl-entry">[7]	Burin et al. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[8]	Huestegge et al. Experimental Psychology, 2019.</div>
+  <div class="csl-entry">[9]	Pachur et al. Psychonomic Bulletin &#38; Review, [no date].</div>
+  <div class="csl-entry">[10]	Chaves-Morillo et al. Clínica y Salud, 2018, 28(3): 155–161.</div>
+  <div class="csl-entry">[11]	Piaget. Human Development, 1972, 15(1): 1–12.</div>
+  <div class="csl-entry">[12]	Shore. American Journal of Orthopsychiatry, 2014, 84(6): 611–618.</div>
+  <div class="csl-entry">[13]	Anonymous. American Journal of Orthopsychiatry, 1981, 51(3): 391–402.</div>
+  <div class="csl-entry">[14]	Anonymous. (2018).</div>
+  <div class="csl-entry">[15]	Anonymous. (2018).</div>
+  <div class="csl-entry">[16]	Mehrholz et al. Cochrane Database of Systematic Reviews, 2018.</div>
+  <div class="csl-entry">[17]	Morey. UpToDate, 2019.</div>
+  <div class="csl-entry">[18]	Bergeson. Science, 2019, 363(6422): 33–34.</div>
+  <div class="csl-entry">[19]	Bustillos. The New Yorker, 2013.</div>
+  <div class="csl-entry">[20]	Weir. Monitor on Psychology, 2017, 48(1): 30.</div>
+  <div class="csl-entry">[21]	Guarino. The Washington Post, 2017.</div>
+  <div class="csl-entry">[22]	Hess. The New York Times, 2019: C1.</div>
+  <div class="csl-entry">[23]	Klymkowsky. . . Sci-Ed. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
+  <div class="csl-entry">[24]	KS in NJ. The Washington Post, 2019.</div>
+  <div class="csl-entry">[25]	Author. The Washington Post, 2019.</div>
+  <div class="csl-entry">[26]	Cuellar. Journal of Transcultural Nursing, 2016, 27(3): 209.</div>
+  <div class="csl-entry">[27]	Brown. . 2 edition. American Psychological Association, 2018.</div>
+  <div class="csl-entry">[28]	Burgess. . Routledge, 2019.</div>
+  <div class="csl-entry">[29]	Cain. . Random House Audio, 2012.</div>
+  <div class="csl-entry">[30]	Christian et al. . Henry Holt and Co., 2016.</div>
+  <div class="csl-entry">[31]	Meadows. . Wright D, ed.. Chelsea Green Publishing, 2008.</div>
+  <div class="csl-entry">[32]	Anonymous. . Schmid H-J, ed.. American Psychological Association; De Gruyter Mouton, 2017.</div>
+  <div class="csl-entry">[33]	Anonymous. . Hacker Hughes J, ed.. Routledge, 2017.</div>
+  <div class="csl-entry">[34]	Anonymous. . Pridham K F et al., eds.. Springer Publishing Company, 2018.</div>
+  <div class="csl-entry">[35]	Amano et al. . Sansei-do, 2000.</div>
+  <div class="csl-entry">[36]	Piaget et al. . Quadrige, 1966.</div>
+  <div class="csl-entry">[37]	Piaget et al. . Weaver H, tran.. 2 edition. Basic Books, 1969.</div>
+  <div class="csl-entry">[38]	Freud. . Strachey J, ed. &#38; tran.. Basic Books, 2010.</div>
+  <div class="csl-entry">[39]	Rowling. . Pottermore Publishing, 2015.</div>
+  <div class="csl-entry">[40]	Fiske et al. . 5 edition. John Wiley &#38; Sons, 2010.</div>
+  <div class="csl-entry">[41]	Anonymous. . Travis C B et al., eds.. American Psychological Association, 2018.</div>
+  <div class="csl-entry">[42]	Madigan. . 2 edition. American Psychological Association, 2019.</div>
+  <div class="csl-entry">[43]	American Psychiatric Association. . (2013) .</div>
+  <div class="csl-entry">[44]	World Health Organization. . (2019) . <a href="https://icd.who.int/">https://icd.who.int/</a>.</div>
+  <div class="csl-entry">[45]	American Psychological Association. . .</div>
+  <div class="csl-entry">[46]	Merriam-Webster. . .</div>
+  <div class="csl-entry">[47]	Anonymous. . Zalta E N, ed.. Summer 2019 ed. edition. Stanford University, 2019.</div>
+  <div class="csl-entry">[48]	Anonymous. . Gold M, ed.. American Psychological Association, 1999.</div>
+  <div class="csl-entry">[49]	Anonymous. . King James Bible Online, 2017.</div>
+  <div class="csl-entry">[50]	Anonymous. . Abdel Haleem M A S, tran.. Oxford University Press, 2004.</div>
+  <div class="csl-entry">[51]	Anonymous. . 3 edition. The Jewish Publication Society, 2015.</div>
+  <div class="csl-entry">[52]	Aristotle. . Butcher S H, tran.. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">[53]	Shakespeare. . Mowat B A et al., eds.. Washington Square Press, 1995.</div>
+  <div class="csl-entry">[54]	Balsam et al. . Iwamasa G Y et al., eds.//Culturally responsive cognitive behavior therapy: Practice and Supervision. 2 edition. American Psychological Association, 2019: 287–314.</div>
+  <div class="csl-entry">[55]	Weinstock et al. . Rosner R, ed.//Principles and practise of forensic Psychiatry. 2 edition. CRC Press, 2003: 7–13.</div>
+  <div class="csl-entry">[56]	Tafoya et al. . McGoldrick M et al., eds.//Ethnicity and family Therapy. 3 edition. Guilford Press, 2005: 55–63.</div>
+  <div class="csl-entry">[57]	Carcavilla González. . Garcia Meilán J J, ed.//Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67–86.</div>
+  <div class="csl-entry">[58]	Heidegger. . Krell D F, ed. Sallis J, tran.//Basic Writings. Harper Perennial Modern Thought, 2008: 111–138.</div>
+  <div class="csl-entry">[59]	Sacchett et al. . Balota D A et al., eds.//Cognitive psychology: Key readings in Cognition. Psychology Press, 2004: 100–108.</div>
+  <div class="csl-entry">[60]	Sacchett et al. Cognitive Neuropsychology, 1992, 9(1): 73–86.</div>
+  <div class="csl-entry">[61]	Bronfenbrenner. . Bronfenbrenner U, ed.//Making human beings human: Bioecological perspectives on human Development. SAGE Publications, 2005: 27–40.</div>
+  <div class="csl-entry">[62]	Anonymous. . Richardson F, ed.. National Educational Press, 1973: 113–123.</div>
+  <div class="csl-entry">[63]	Goldin-Meadow. . Liben L S et al., eds.//Handbook of child psychology and developmental Science. 7 edition. John Wiley &#38; Sons, 2015: 339–380.</div>
+  <div class="csl-entry">[64]	Lewin. . Gold M, ed.//The complete social scientist: A Kurt Lewin Reader. American Psychological Association, 1999: 265–284.</div>
+  <div class="csl-entry">[65]	American Psychological Association. ([no date]).</div>
+  <div class="csl-entry">[66]	Merriam-Webster. ([no date]).</div>
+  <div class="csl-entry">[67]	Graham. . Stanford University, 2019(2019).</div>
+  <div class="csl-entry">[68]	Anonymous. (2019-01-13).</div>
+  <div class="csl-entry">[69]	Australian Government Productivity Commission et al. . (2012) . <a href="https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf">https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf</a>.</div>
+  <div class="csl-entry">[70]	Canada Council for the Arts. . (2013) . <a href="http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf">http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf</a>.</div>
+  <div class="csl-entry">[71]	National Cancer Institute. . (2018) . <a href="https://www.cancer.gov/publications/patient-education/life-after-cancer-treatment.pdf">https://www.cancer.gov/publications/patient-education/life-after-cancer-treatment.pdf</a>.</div>
+  <div class="csl-entry">[72]	Fried et al. . (2018) . <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>.</div>
+  <div class="csl-entry">[73]	Segaert et al. . (2015) . <a href="https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/publications-bulletins/veterans-report.html">https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/publications-bulletins/veterans-report.html</a>.</div>
+  <div class="csl-entry">[74]	Blackwell et al. . (2014) . <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>.</div>
+  <div class="csl-entry">[75]	British Cardiovascular Society Working Group. . (2016) . <a href="http://www.bcs.com/documents/BCSOOHWP_Final_Report_05092016.pdf">http://www.bcs.com/documents/BCSOOHWP_Final_Report_05092016.pdf</a>.</div>
+  <div class="csl-entry">[76]	U.S. Securities and Exchange Commission. . (2017) . <a href="https://www.sec.gov/files/sec-2017-agency-financial-report.pdf">https://www.sec.gov/files/sec-2017-agency-financial-report.pdf</a>.</div>
+  <div class="csl-entry">[77]	American Counseling Association. . (2014) . <a href="https://www.counseling.org/knowledge-center">https://www.counseling.org/knowledge-center</a>.</div>
+  <div class="csl-entry">[78]	American Nurses Association. . (2015) . <a href="https://www.nursingworld.org/coe-view-only">https://www.nursingworld.org/coe-view-only</a>.</div>
+  <div class="csl-entry">[79]	American Psychological Association. . (2017) . <a href="https://www.apa.org/ethics/code/index.aspx">https://www.apa.org/ethics/code/index.aspx</a>.</div>
+  <div class="csl-entry">[80]	Blair. . (2015–[2020]) . <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
+  <div class="csl-entry">[81]	Lichtenstein. . (2013) . <a href="https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf">https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf</a>.</div>
+  <div class="csl-entry">[82]	Harwell. . (2018) . <a href="https://nepc.colorado.edu/publication/SES">https://nepc.colorado.edu/publication/SES</a>.</div>
+  <div class="csl-entry">[83]	U.S. Food and Drug Administration. . (2019-02-14) . <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>.</div>
+  <div class="csl-entry">[84]	Fistek et al. (2017-07-12–15).</div>
+  <div class="csl-entry">[85]	Maddox et al. (2016-03-30–04-02).</div>
+  <div class="csl-entry">[86]	Pearson. (2018-09-27–30).</div>
+  <div class="csl-entry">[87]	De Boer et al. (2018-04-26–29).</div>
+  <div class="csl-entry">[88]	Harris. . University of Virginia, 2014.</div>
+  <div class="csl-entry">[89]	Hollander. . University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">[90]	Hutcheson. . The College of William &#38; Mary, 2012.</div>
+  <div class="csl-entry">[91]	Mirabito et al. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499–500.</div>
+  <div class="csl-entry">[92]	Anonymous. (2016).</div>
+  <div class="csl-entry">[93]	Santos. The New York Times, 2019.</div>
+  <div class="csl-entry">[94]	Yousafzai. . .</div>
+  <div class="csl-entry">[95]	Perkins. . (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
+  <div class="csl-entry">[96]	Anonymous. (2018).</div>
+  <div class="csl-entry">[97]	Yoo et al. (2016).</div>
+  <div class="csl-entry">[98]	O’Shea. (2018).</div>
+  <div class="csl-entry">[99]	Lippincott et al. (2019).</div>
+  <div class="csl-entry">[100]	Leuker et al. . PsyArXiv, 2018(2018).</div>
+  <div class="csl-entry">[101]	Stults-Kolehmainen et al. . PubMed Central, 2015(2015).</div>
+  <div class="csl-entry">[102]	Ho. . ERIC, 2014(2014).</div>
+  <div class="csl-entry">[103]	D’Souza et al. . ICPSR, 2018(2018).</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. . National Archive of Data on Arts and Culture, 2016(2016).</div>
+  <div class="csl-entry">[105]	Pew Research Center. (2018).</div>
+  <div class="csl-entry">[106]	Baer. . University of Kentucky, 2015(2015).</div>
+  <div class="csl-entry">[107]	Oregan Youth Authority. (2011).</div>
+  <div class="csl-entry">[108]	Borenstein等. . Biostat, 2014(2014).</div>
+  <div class="csl-entry">[109]	SR Research. (2016).</div>
+  <div class="csl-entry">[110]	Tactile Labs. (2015).</div>
+  <div class="csl-entry">[111]	Epocrates. . App Store, 2019(2019).</div>
+  <div class="csl-entry">[112]	Epocrates. . Google Play Store, 2019(2019).</div>
+  <div class="csl-entry">[113]	Tellegen et al. . (2011) .</div>
+  <div class="csl-entry">[114]	Project Implicit. ([no date]).</div>
+  <div class="csl-entry">[115]	Alonso-Tapia et al. . PsycTESTS, 2018(2018).</div>
+  <div class="csl-entry">[116]	Cardoza et al. . ETS TestLink, 2000(2000).</div>
+  <div class="csl-entry">[117]	Anonymous. . United Artists, 1975(1975).</div>
+  <div class="csl-entry">[118]	Anonymous. . American Pychological Association, 2017(2017).</div>
+  <div class="csl-entry">[119]	Anonymous. . WingNut Films; The Saul Zaentz Company, 2001(2001).</div>
+  <div class="csl-entry">[120]	Anonymous. . Nouvelles Éditions de Films, 1987(1987).</div>
+  <div class="csl-entry">[121]	Anonymous. . Blown Deadline Productions; HBO, 2002–2008(2002–2008).</div>
+  <div class="csl-entry">[122]	Anonymous. . Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
+  <div class="csl-entry">[123]	Anonymous. . Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21).</div>
+  <div class="csl-entry">[124]	Anonymous. . TED Conferences, 2018(2018-04).</div>
+  <div class="csl-entry">[125]	Anonymous. . YouTube, 2012(2012-03-16).</div>
+  <div class="csl-entry">[126]	Anonymous. . American Psychiatric Association, 2018(2018).</div>
+  <div class="csl-entry">[127]	Anonymous. . Vimeo, 2017(2017-11-24).</div>
+  <div class="csl-entry">[128]	Anonymous. . YouTube, 2016(2016-09-30).</div>
+  <div class="csl-entry">[129]	Anonymous. . YouTube, 2016(2016-12-06).</div>
+  <div class="csl-entry">[130]	Anonymous. . Decca, 2010(2010).</div>
+  <div class="csl-entry">[131]	Bowie. . Columbia, 2016(2016).</div>
+  <div class="csl-entry">[132]	Anonymous. . Brilliant Classics, 2012(2012).</div>
+  <div class="csl-entry">[133]	Beyoncé. . Parkwood; Columbia, 2016(2016).</div>
+  <div class="csl-entry">[134]	Childish Gambino. . mcDJ; RCA, 2018(2018).</div>
+  <div class="csl-entry">[135]	Lamar. . Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017(2017).</div>
+  <div class="csl-entry">[136]	Vedantam. . NPR, 2015(2015).</div>
+  <div class="csl-entry">[137]	Glass. . WBEZ Chicago, 2011(2011-08-12).</div>
+  <div class="csl-entry">[138]	de Beauvoir. (1960-05-04).</div>
+  <div class="csl-entry">[139]	King. . American Rhetoric, 1963(1963-08-28).</div>
+  <div class="csl-entry">[140]	Delacroix. (1826–1827).</div>
+  <div class="csl-entry">[141]	Wood. (1930).</div>
+  <div class="csl-entry">[142]	GDJ. (2018).</div>
+  <div class="csl-entry">[143]	Rossman et al. (2015).</div>
+  <div class="csl-entry">[144]	Cable. . University of Virginia: Weldon Cooper Center for Public Service, 2013(2013).</div>
+  <div class="csl-entry">[145]	Google. ([no date]).</div>
+  <div class="csl-entry">[146]	McCurry. (1985).</div>
+  <div class="csl-entry">[147]	Rinaldi. (2016).</div>
+  <div class="csl-entry">[148]	Canan et al. (2019-05-22).</div>
+  <div class="csl-entry">[149]	Housand. (2016).</div>
+  <div class="csl-entry">[150]	Mack et al. (2018).</div>
+  <div class="csl-entry">[151]	APA Education [@APAEducation]. (2018-06-29).</div>
+  <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. (2018-02-26).</div>
+  <div class="csl-entry">[153]	White. (2018-06-21).</div>
+  <div class="csl-entry">[154]	APA Style [@APA_Style]. . . Twitter. ([no date])[2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
+  <div class="csl-entry">[155]	Gaiman. (2018-03-22).</div>
+  <div class="csl-entry">[156]	National Institute of Mental Health. (2018-11-28).</div>
+  <div class="csl-entry">[157]	News From Science. (2018-06-26).</div>
+  <div class="csl-entry">[158]	Smithsonian’s National Zoo and Conservation Biology Institute. . . Facebook. ([no date])[2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
+  <div class="csl-entry">[159]	Zeitz MOCAA [@zeitzmocaa]. (2018-11-26).</div>
+  <div class="csl-entry">[160]	The New York Public Library [@nypl]. ([no date]).</div>
+  <div class="csl-entry">[161]	National Aeronautics and Space Administration [@nasa]. (2018-09-12).</div>
+  <div class="csl-entry">[162]	Avramova. . . CNN. (2019-01-03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
+  <div class="csl-entry">[163]	Bologna. . . HuffPost. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
+  <div class="csl-entry">[164]	Centers for Disease Control and Prevention. . (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
+  <div class="csl-entry">[165]	World Health Organization. . (2018-03). <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
+  <div class="csl-entry">[166]	Martin Lillie. . . Mayo Clinic. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
+  <div class="csl-entry">[167]	Boddy et al. . . The research ethics guidebook: A resource for social scientists. ([no date]). <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
+  <div class="csl-entry">[168]	National Nurses United. . ([no date]). <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
+  <div class="csl-entry">[169]	U.S. Census Bureau. . . U.S. Department of Commerce. ([no date])[2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
+  <div class="csl-entry">[170]	Anonymous. (1954).</div>
+  <div class="csl-entry">[171]	Anonymous. (2015).</div>
+  <div class="csl-entry">[172]	Anonymous. (1991).</div>
+  <div class="csl-entry">[173]	Anonymous. (2001).</div>
+  <div class="csl-entry">[174]	Anonymous. (1984).</div>
+  <div class="csl-entry">[175]	Anonymous. (1976).</div>
+  <div class="csl-entry">[176]	Anonymous. (1992).</div>
+  <div class="csl-entry">[177]	Anonymous. . U.S.C, 1990, 42.</div>
+  <div class="csl-entry">[178]	Anonymous. . Stat., 1964, 78: 241.</div>
+  <div class="csl-entry">[179]	Anonymous. . U.S.C, 2015, 20.</div>
+  <div class="csl-entry">[180]	Anonymous. . Stat., 2009, 123: 5.</div>
+  <div class="csl-entry">[181]	Anonymous. . U.S.C, 1972, 20.</div>
+  <div class="csl-entry">[182]	Anonymous. . Fla. Stat., 2009.</div>
+  <div class="csl-entry">[183]	Anonymous. (2016).</div>
+  <div class="csl-entry">[184]	Anonymous. (2014).</div>
+  <div class="csl-entry">[185]	Anonymous. .</div>
+  <div class="csl-entry">[186]	Anonymous. . Cong. Rec., 2016, 162: 2394.</div>
+  <div class="csl-entry">[187]	Anonymous. . (2015) . <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>.</div>
+  <div class="csl-entry">[188]	Anonymous. (2009).</div>
+  <div class="csl-entry">[189]	Anonymous. . F.R., 2016, 81: 32391.</div>
+  <div class="csl-entry">[190]	Anonymous. (2014).</div>
+  <div class="csl-entry">[191]	Hiremath et al. . 2016.</div>
+  <div class="csl-entry">[192]	Anonymous. .</div>
+  <div class="csl-entry">[193]	Anonymous. .</div>
+  <div class="csl-entry">[194]	Anonymous. .</div>
+  <div class="csl-entry">[195]	Anonymous. .</div>
+  <div class="csl-entry">[196]	Anonymous. .</div>
+  <div class="csl-entry">[197]	Anonymous. .</div>
+  <div class="csl-entry">[198]	Anonymous. (1989-11-20).</div>
 </div>
