@@ -311,6 +311,9 @@ function get_item_data(paths) {
     if (paths.test_cites_path) {
         test_citations = JSON.parse(fs.readFileSync(paths.test_cites_path, 'utf8'));
         item.test_citations = make_citations(citeproc, test_citations);
+
+        let ids = collect_ids(style_data);
+        citeproc.updateItems(ids);
         item.test_bibliography = make_bibliography(citeproc);
     } else if (paths.test_data_path) {
         let test_citations = collect_cites(style_data, citation_format);

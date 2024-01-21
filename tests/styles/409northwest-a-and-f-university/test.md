@@ -33,6 +33,7 @@
   <div class="csl-entry">马世骏, 张三, 李四. 1990</div>
   <div class="csl-entry">萧钰. 2001. 出版业信息化迈入快车道. <a href="http://www.creader.com/news/20011219/200112120019.html">http://www.creader.com/news/20011219/200112120019.html</a> [2002-04-15]</div>
   <div class="csl-entry">张田琴. 2000-11-12. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7</div>
+  <div class="csl-entry">中国科学院青藏高原综合科学考察队. 1992. 横断山区昆虫: 第一册. 北京: 科学出版社: 108</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室. 1996</div>
   <div class="csl-entry">钟文发. 1996. 非线性规划在可燃毒物配置中的应用. 见: 赵玮 (主编). 运筹学的理论与应用—中国运筹学会第五届大会论文集. 西安: 西安电子科技大学出版社: 468~471</div>
   <div class="csl-entry">朱勍. 2001. 聚苯乙烯负载的高价碘试剂的合成及其在合成中的应用. [博士学位论文]. 杭州: 浙江大学</div>

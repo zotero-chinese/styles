@@ -101,68 +101,70 @@
   <div class="csl-entry">9. 季卫东：“法律程序的意义：对中国法制建设的另一种思考”，《中国社会科学》，1993年第1期。</div>
   <div class="csl-entry">10. 李松锋：“游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究”，中国政法大学博士学位论文，2015年。</div>
   <div class="csl-entry">11. 罗豪才，袁曙宏，李文栋：“现代行政法的理论基础——论行政机关与相对一方的权利义务平衡”，《中国法学》，1993年第1期。</div>
-  <div class="csl-entry">12. 王保树：“股份有限公司机关构造中的董事和董事会”，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年版。</div>
-  <div class="csl-entry">13. 国家质量监督检验检疫总局，中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
-  <div class="csl-entry">14. 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。</div>
-  <div class="csl-entry">15. 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。</div>
-  <div class="csl-entry">16. 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。</div>
-  <div class="csl-entry">17. 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，人民网2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。</div>
-  <div class="csl-entry">18. 赵耀彤：《一名基层法官眼里好律师的样子》，微信公众号“中国法律评论”2018年12月1日，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。</div>
-  <div class="csl-entry">19. 最高人民法院，最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。</div>
-  <div class="csl-entry">20. 《被告人李宁、张磊贪污案一审开庭》，新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。</div>
-  <div class="csl-entry">21. 法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。</div>
-  <div class="csl-entry">22. 《民法总则》第 27 条第 2 款第 3 项。</div>
-  <div class="csl-entry">23. 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。</div>
-  <div class="csl-entry">24. 陆红霞诉南通市发改委政府信息公开案，《最高人民法院公报》2015年7月6日第11期。</div>
-  <div class="csl-entry">25. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报（2013）锡民终字第497号（2013年2月8日）。</div>
-  <div class="csl-entry">26. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
-  <div class="csl-entry">27. 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）。</div>
-  <div class="csl-entry">28. 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）。</div>
-  <div class="csl-entry">29. 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁。</div>
-  <div class="csl-entry">30. 佐藤英明「一時所得の要件に関する覚書」金子宏=中里実=J.マーク・ラムザイヤー編『租税法と市場』（有斐閣，2014年）220頁。</div>
-  <div class="csl-entry">31. 大審院1919年3月3日判決，大審院民事判決録25輯356頁。</div>
-  <div class="csl-entry">32. 最高裁判所1982年7月15日判決，最高裁判所民事判例集36卷6号1113頁。</div>
-  <div class="csl-entry">33. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。</div>
-  <div class="csl-entry">34. 「平成26年版犯罪白書」。</div>
-  <div class="csl-entry">35. 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。</div>
-  <div class="csl-entry">36. Chevallier, M., <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
-  <div class="csl-entry">37. Badiou-Monferran, C., « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.</div>
-  <div class="csl-entry">38. Poisson, M., « Le droit de la mer, » <i>RGDIP</i>, 2015, p. 15-47.</div>
-  <div class="csl-entry">39. Poisson, M., « Le droit de la mer, » in Lapieuvre, R. (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
-  <div class="csl-entry">40. Poisson, M., <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.</div>
-  <div class="csl-entry">41. Poisson, M., <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
-  <div class="csl-entry">42. Poisson, M., <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.</div>
-  <div class="csl-entry">43. Joyeux-Prunel, B., « L’histoire de l’art et le quantitatif, » Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
-  <div class="csl-entry">44. Alford, W., <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
-  <div class="csl-entry">45. Habermas, J., <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, translated by Rehg, W., MIT Press, 1996.</div>
-  <div class="csl-entry">46. Barbara Ward, “Progress for a small planet,” <i>Harvard Business Review</i>, Sep.-Oct., 1979, p. 89.</div>
-  <div class="csl-entry">47. Brandeis, L. D., “What publicity can do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.</div>
-  <div class="csl-entry">48. Horsley, J., “Rule of law in China: incremental progress,” in Bergsten, C. F., Gill, B., Lardy, N. R., et al. eds., <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.</div>
-  <div class="csl-entry">49. Reich, C. A., “The new property,” <i>Yale Law Journal</i>, (73)5, 1964.</div>
-  <div class="csl-entry">50. Rosenthal, A., “White House tutors Kremlin in how a presidency works,” New York Times, 15 June 1990, at A1.</div>
-  <div class="csl-entry">51. McDonell, S., <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
-  <div class="csl-entry">52. Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).</div>
-  <div class="csl-entry">53. Administrative Procedure Act § 6, 5 U.S.C. § 555 (2006).</div>
-  <div class="csl-entry">54. Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).</div>
-  <div class="csl-entry">55. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, 467 U.S. 837 (1984).</div>
-  <div class="csl-entry">56. Roe <i>v.</i> Wade, 410 U.S. 113 (1973).</div>
-  <div class="csl-entry">57. United States <i>v.</i> Dino Nastasi et al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).</div>
-  <div class="csl-entry">58. R. v. Panel on Take-overs and Mergers, 815 QB (1987).</div>
-  <div class="csl-entry">59. Dreier, Ralf/Paulson, Stanley (Hrsg.), Rechtsphilosophie Studienausgabe, 2. Aufl. 2003.</div>
-  <div class="csl-entry">60. Roxin, Claus, Strafrecht Allgemeiner Teil, Band I, 4. Aufl. 2006.</div>
-  <div class="csl-entry">61. Canaris, Claus-Wilhelm, Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen, FS-Steindorff, 1990.</div>
-  <div class="csl-entry">62. Fischer, Thomas, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.</div>
-  <div class="csl-entry">63. Kaufmann, Arthur, Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht, in: Baumann, Jürgen (Hrsg.), Das Abtreibungsverbot des § 218 StGB, 2. Aufl. 1972.</div>
-  <div class="csl-entry">64. Schwab, Martin, in: Münchener Kommentar BGB, Band V, 6. Aufl. 2013.</div>
-  <div class="csl-entry">65. Vogel, Benjamin, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
-  <div class="csl-entry">66. Würdinger, Markus, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>
-  <div class="csl-entry">67. Meidenbauer, Martin, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
-  <div class="csl-entry">68. § 32 II StGB.</div>
-  <div class="csl-entry">69. § 58a I Nr. 2 StPO.</div>
-  <div class="csl-entry">70. Art. 2 II GG.</div>
-  <div class="csl-entry">71. BVerfGE 75, 369.</div>
-  <div class="csl-entry">72. BGH NStZ-RR 1999, 185.</div>
-  <div class="csl-entry">73. BGH NJW 2000, 1560.</div>
+  <div class="csl-entry">12. 欧中坦：“千方百计上京城：清朝的京控”，谢鹏程译，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社，1994年版。</div>
+  <div class="csl-entry">13. 王保树：“股份有限公司机关构造中的董事和董事会”，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年版。</div>
+  <div class="csl-entry">14. 国家质量监督检验检疫总局，中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。</div>
+  <div class="csl-entry">15. 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。</div>
+  <div class="csl-entry">16. 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年11月4日发布。</div>
+  <div class="csl-entry">17. 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年10月27日发布。</div>
+  <div class="csl-entry">18. 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，人民网2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。</div>
+  <div class="csl-entry">19. 赵耀彤：《一名基层法官眼里好律师的样子》，微信公众号“中国法律评论”2018年12月1日，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。</div>
+  <div class="csl-entry">20. 最高人民法院，最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，法发〔1993〕36号，1993年11月12日发布。</div>
+  <div class="csl-entry">21. 《被告人李宁、张磊贪污案一审开庭》，新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。</div>
+  <div class="csl-entry">22. 法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。</div>
+  <div class="csl-entry">23. 《民法总则》第 27 条第 2 款第 3 项。</div>
+  <div class="csl-entry">24. 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。</div>
+  <div class="csl-entry">25. 陆红霞诉南通市发改委政府信息公开案，《最高人民法院公报》2015年7月6日第11期。</div>
+  <div class="csl-entry">26. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报（2013）锡民终字第497号（2013年2月8日）。</div>
+  <div class="csl-entry">27. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。</div>
+  <div class="csl-entry">28. 《温家宝主持国务院会议 研究房地产业健康发展措施》，新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。</div>
+  <div class="csl-entry">29. 我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）。</div>
+  <div class="csl-entry">30. 我妻栄=有泉亨『民法総則物権法（法律学体系·コンメンタール篇）』（日本評論社，1950年）。</div>
+  <div class="csl-entry">31. 於保不二雄「付加物及び従物と抵当権」民商法雑誌29巻5号（1954年）1頁。</div>
+  <div class="csl-entry">32. 佐藤英明「一時所得の要件に関する覚書」金子宏=中里実=J.マーク・ラムザイヤー編『租税法と市場』（有斐閣，2014年）220頁。</div>
+  <div class="csl-entry">33. 大審院1919年3月3日判決，大審院民事判決録25輯356頁。</div>
+  <div class="csl-entry">34. 最高裁判所1982年7月15日判決，最高裁判所民事判例集36卷6号1113頁。</div>
+  <div class="csl-entry">35. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律。</div>
+  <div class="csl-entry">36. 「平成26年版犯罪白書」。</div>
+  <div class="csl-entry">37. 「ジュリスト」（访问于2022年9月1日）<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>。</div>
+  <div class="csl-entry">38. Chevallier, M., <i>L’État de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
+  <div class="csl-entry">39. Badiou-Monferran, C., « La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle, » <i>La Licorne</i>, n<sup>o</sup> 43, 1997, p. 75-94.</div>
+  <div class="csl-entry">40. Poisson, M., « Le droit de la mer, » <i>RGDIP</i>, 2015, p. 15-47.</div>
+  <div class="csl-entry">41. Poisson, M., « Le droit de la mer, » in Lapieuvre, R. (dir.), <i>Le droit des Océans</i>, Éditions de la mer, 2015, p. 12-48.</div>
+  <div class="csl-entry">42. Poisson, M., <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, juillet 2016, p. 228-229.</div>
+  <div class="csl-entry">43. Poisson, M., <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, n<sup>o</sup> 1202, août 2016.</div>
+  <div class="csl-entry">44. Poisson, M., <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de l’Université de Marseille, 17 juin 2016.</div>
+  <div class="csl-entry">45. Joyeux-Prunel, B., « L’histoire de l’art et le quantitatif, » Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [En ligne: <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]. Consulté le 17 mars 2010.</div>
+  <div class="csl-entry">46. Alford, W., <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
+  <div class="csl-entry">47. Habermas, J., <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, translated by Rehg, W., MIT Press, 1996.</div>
+  <div class="csl-entry">48. Barbara Ward, “Progress for a small planet,” <i>Harvard Business Review</i>, Sep.-Oct., 1979, p. 89.</div>
+  <div class="csl-entry">49. Brandeis, L. D., “What publicity can do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.</div>
+  <div class="csl-entry">50. Horsley, J., “Rule of law in China: incremental progress,” in Bergsten, C. F., Gill, B., Lardy, N. R., et al. eds., <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.</div>
+  <div class="csl-entry">51. Reich, C. A., “The new property,” <i>Yale Law Journal</i>, (73)5, 1964.</div>
+  <div class="csl-entry">52. Rosenthal, A., “White House tutors Kremlin in how a presidency works,” New York Times, 15 June 1990, at A1.</div>
+  <div class="csl-entry">53. McDonell, S., <i>When China Began Streaming Trials Online</i>, BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
+  <div class="csl-entry">54. Department of Transportation Act, Pub. L. No. 89-670, § 9, 80 Stat. 931, 944-947 (1966).</div>
+  <div class="csl-entry">55. Administrative Procedure Act § 6, 5 U.S.C. § 555 (2006).</div>
+  <div class="csl-entry">56. Natural Resources Defense Council <i>v.</i> Gorsuch, 685 F.2d 718 (D.C. Cir. 1982).</div>
+  <div class="csl-entry">57. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, 467 U.S. 837 (1984).</div>
+  <div class="csl-entry">58. Roe <i>v.</i> Wade, 410 U.S. 113 (1973).</div>
+  <div class="csl-entry">59. United States <i>v.</i> Dino Nastasi et al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).</div>
+  <div class="csl-entry">60. R. v. Panel on Take-overs and Mergers, 815 QB (1987).</div>
+  <div class="csl-entry">61. Dreier, Ralf/Paulson, Stanley (Hrsg.), Rechtsphilosophie Studienausgabe, 2. Aufl. 2003.</div>
+  <div class="csl-entry">62. Roxin, Claus, Strafrecht Allgemeiner Teil, Band I, 4. Aufl. 2006.</div>
+  <div class="csl-entry">63. Canaris, Claus-Wilhelm, Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen, FS-Steindorff, 1990.</div>
+  <div class="csl-entry">64. Fischer, Thomas, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.</div>
+  <div class="csl-entry">65. Kaufmann, Arthur, Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht, in: Baumann, Jürgen (Hrsg.), Das Abtreibungsverbot des § 218 StGB, 2. Aufl. 1972.</div>
+  <div class="csl-entry">66. Schwab, Martin, in: Münchener Kommentar BGB, Band V, 6. Aufl. 2013.</div>
+  <div class="csl-entry">67. Vogel, Benjamin, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).</div>
+  <div class="csl-entry">68. Würdinger, Markus, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, JuS 2012.</div>
+  <div class="csl-entry">69. Meidenbauer, Martin, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. (abgerufen am 10. Oktober 2017).</div>
+  <div class="csl-entry">70. § 32 II StGB.</div>
+  <div class="csl-entry">71. § 58a I Nr. 2 StPO.</div>
+  <div class="csl-entry">72. Art. 2 II GG.</div>
+  <div class="csl-entry">73. BVerfGE 75, 369.</div>
+  <div class="csl-entry">74. BGH NStZ-RR 1999, 185.</div>
+  <div class="csl-entry">75. BGH NJW 2000, 1560.</div>
 </div>
 
 ## 默认测试
