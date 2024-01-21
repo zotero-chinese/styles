@@ -71,11 +71,14 @@
 ### 引注
 
 <sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, Vol.96, 1996, p.903.<br>
-<sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
-<sup>3</sup> I. Morri, <i>Why the West Rules for Now</i>.<br>
-<sup>4</sup> I. Morri, <i>Why the West Rules for Now</i>, p.260.<br>
-<sup>5</sup> 罗杰斯著，潘惠霞等译：《西方文明史: 问题与源头》，大连：东北财经大学出版社2011年版，第15–16页。<br>
-<sup>6</sup> I. Morri, <i>Why the West Rules for Now</i>, pp.326–329.<br>
+<sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
+<sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
+<sup>4</sup> I. Morri, <i>Why the West Rules for Now</i>, pp.326–329.<br>
+<sup>5</sup> I. Morri, <i>Why the West Rules for Now</i>, pp.326–329.<br>
+<sup>6</sup> I. Morri, <i>Why the West Rules for Now</i>, p.260.<br>
+<sup>7</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
+<sup>8</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
+<sup>9</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第331页。<br>
 
 ### GB/T 7714—2015 示例文献
 

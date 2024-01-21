@@ -172,11 +172,14 @@
 ### 引注
 
 <sup>1</sup> Sunstein, C. R., “Social norms and social roles,” <i>Columbia Law Review</i>, (96), 1996, 903.<br>
-<sup>2</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.<br>
-<sup>3</sup> Ibid.<br>
-<sup>4</sup> Ibid, p. 260.<br>
-<sup>5</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、等译，大连：东北财经大学出版社，2011年版，第15-16页。<br>
-<sup>6</sup> Supra note 2, Morri, I., p. 326-329.<br>
+<sup>2</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
+<sup>3</sup> 应松年，马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年版。<br>
+<sup>4</sup> Supra note 2, Morri, I., p. 326-329.<br>
+<sup>5</sup> Ibid.<br>
+<sup>6</sup> Ibid, p. 260.<br>
+<sup>7</sup> 同前注，应松年、马怀德书，第330页。<br>
+<sup>8</sup> 同上注。<br>
+<sup>9</sup> 同上注，第331页。<br>
 
 ### GB/T 7714—2015 示例文献
 
