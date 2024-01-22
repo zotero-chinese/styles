@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>1000-7091</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL`。</summary>
-    <updated>2024-01-21T19:22:14+08:00</updated>
+    <updated>2024-01-22T21:33:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -130,9 +130,11 @@
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
     <text variable="page" prefix=": "/>
-    <if variable="DOI">
-      <text variable="DOI" prefix=". doi: "/>
-    </if>
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix=". doi: "/>
+      </if>
+    </choose>
   </macro>
   <macro name="publisher">
     <choose>

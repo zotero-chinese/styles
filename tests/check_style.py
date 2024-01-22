@@ -107,6 +107,16 @@ def check_conditions(path: str, csl_content: str, element_tree):
                     condition.attrib.pop("match")
 
 
+def check_condition_parents(path, root):
+    for element_name in ["if", "else-if", "else"]:
+        for condition in root.xpath(f".//cs:{element_name}", namespaces=ns):
+            parent = condition.getparent()
+            if "choose" not in parent.tag:
+                warning(
+                    f'File "{path}", line {condition.sourceline}: condition not in "choose".'
+                )
+
+
 def reorder_condition_values(root):
     for element_name in ["if", "else-if"]:
         for condition in root.xpath(f".//cs:{element_name}", namespaces=ns):
@@ -403,6 +413,8 @@ def check_style(file):
     check_affixes(root)
 
     check_conditions(file, csl_content, style)
+
+    check_condition_parents(file, root)
 
     reorder_condition_values(root)
 
