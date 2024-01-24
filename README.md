@@ -1967,6 +1967,30 @@ available-date: 2014-01-26
 > 3. Brochard L., Slutsky A., Pesenti A. Mechanical Ventilation to Minimize Progression of Lung Injury in Acute Respiratory Failure[J]. American Journal of Respiratory and Critical Care Medicine, 2017, 195(4): 438–442
 
 
+## [440university-of-chinese-academy-of-sciences-author-date.csl]
+
+《[中国科学院大学研究生学位论文撰写规范指导意见](http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html)》（2022 年 3 月 7 日修订）样式。在 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 基础上修改。
+
+显示效果：
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">程根伟. 1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
+    <div class="csl-entry">傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 2000-04-12(14).</div>
+    <div class="csl-entry">江锡洲. 一种温热外敷药制备方案: 88105607.3[P]. 1989-07-26.</div>
+    <div class="csl-entry">田婉淑. 中国两栖爬行动物鉴定手册[M]. 北京: 科学出版社, 1986: 98-106.</div>
+    <div class="csl-entry">王静, 周启心, 田孟, 等. 树鼩模型:抑郁症的社会竞争失败与学习和记忆的被捕获条件反射[J]. 动物学研究, 2011, 32(1): 24-30.</div>
+    <div class="csl-entry">西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P]. 2002.</div>
+    <div class="csl-entry">辛希孟. 信息技术与信息服务国际研讨会论文集 A集[M]. 北京: 中国社会科学出版社, 1994.</div>
+    <div class="csl-entry">赵耀东. 新时代的工业工程师[M]. 台北: 天下文化出版社, 1998.</div>
+    <div class="csl-entry">郑本兴. 云南玉龙雪山第四纪冰期与冰川演化模式[J]. 冰川冻土, 2000, 22(1): 53-61.</div>
+    <div class="csl-entry">中国地质学会. 地质评论[J]. 1936, 1(1). 北京: 地质出版社, 1936.</div>
+    <div class="csl-entry">中国图书馆学会. 图书馆学通讯[J]. 1957. 北京: 北京图书馆, 1957: 98-106.</div>
+    <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw Hill, 2001.</div>
+  </div>
+</blockquote>
+
+
 ## [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]
 
 [华中科技大学同济医学院学位论文](http://jcyxy.tjmu.edu.cn/info/1573/6839.htm)样式。在 [418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl] 的基础上修改：作者 3 人以上写 3 人再加“等”或“et al.”。
@@ -2774,7 +2798,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [437zhejiang-university-chinese-punctuation.csl]: 437zhejiang-university-chinese-punctuation.csl
 [438xi-an-jiaotong-university.csl]: 438xi-an-jiaotong-university.csl
 [439hebei-medical-university.csl]: 439hebei-medical-university.csl
-[440university-of-chinese-academy-of-sciences.csl]: 440university-of-chinese-academy-of-sciences.csl
+[440university-of-chinese-academy-of-sciences-author-date.csl]: 440university-of-chinese-academy-of-sciences-author-date.csl
 [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]: 441huazhong-university-of-science-and-technology-tongji-medical-college.csl
 [442chongqing-university-of-posts-and-telecommunications.csl]: 442chongqing-university-of-posts-and-telecommunications.csl
 [443chengdu-university-of-technology.csl]: 443chengdu-university-of-technology.csl

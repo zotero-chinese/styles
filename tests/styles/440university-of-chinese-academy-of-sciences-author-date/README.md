@@ -1,4 +1,4 @@
-# 440university-of-chinese-academy-of-sciences.csl 示例
+# 440university-of-chinese-academy-of-sciences-author-date.csl 示例
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->
 
@@ -7,7 +7,7 @@
 （田婉淑, 1986）<br>
 （赵耀东, 1998）<br>
 （辛希孟, 1994）<br>
-（Peebles, Jr, 2001）<br>
+（Peebles, 2001）<br>
 （程根伟, 1999）<br>
 （中国地质学会, 1936）<br>
 （中国图书馆学会, 1957）<br>
@@ -31,5 +31,5 @@
   <div class="csl-entry">郑本兴. 云南玉龙雪山第四纪冰期与冰川演化模式[J]. 冰川冻土, 2000, 22(1): 53-61.</div>
   <div class="csl-entry">中国地质学会. 地质评论[J]. 1936, 1(1). 北京: 地质出版社, 1936.</div>
   <div class="csl-entry">中国图书馆学会. 图书馆学通讯[J]. 1957. 北京: 北京图书馆, 1957: 98-106.</div>
-  <div class="csl-entry">Peebles, Jr P Z. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw Hill, 2001.</div>
+  <div class="csl-entry">Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw Hill, 2001.</div>
 </div>
