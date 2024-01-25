@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>同济大学学位论文写作规范（2023更新）</summary>
-    <updated>2024-01-21T15:32:15+08:00</updated>
+    <updated>2024-01-25T14:07:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -535,7 +535,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout delimiter=", " prefix="[" suffix="]">
+    <layout delimiter="," prefix="[" suffix="]" vertical-align="sup">
       <text variable="citation-number"/>
     </layout>
   </citation>
