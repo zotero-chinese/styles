@@ -2395,7 +2395,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[5]	霍夫斯塔主编．禽病学：下册．第7版．胡祥壁译．北京：农业出版社，1981：798～799</div>
     <div class="csl-entry">[6]	Timoshenko S P. Theory of plate and shells. 2nd ed. New York: McGraw-Hill, 1959: 17～36</div>
     <div class="csl-entry">[7]	张全福，王里青．“百家争鸣”与理工科学报编辑工作．见：郑福寿主编．学报编辑论丛：第 2 集．南京：河海大学出版社，1991：1～4</div>
-    <div class="csl-entry">[8]	丁光莹．钢筋混凝土框架结构非线性反应分析的随机模拟分析：[学位论文]．上海：同济大学，2001</div>
+    <div class="csl-entry">[8]	丁光莹．钢筋混凝土框架结构非线性反应分析的随机模拟分析：[博士学位论文]．上海：同济大学，2001</div>
     <div class="csl-entry">[9]	Cairns B R. Infrared spectroscopic studies on solid oxygen: [dissertation]. Berkeley: Univ of California, 1965</div>
     <div class="csl-entry">[10]	姜锡洲．一种温热外敷药制备方法．中国专利，881056073．1989-07-26</div>
     <div class="csl-entry">[11]	全国文献工作标准化技术委员会第六分委员会．GB 6447—86 文摘编写规则．北京：中国标准出版社，1986</div>

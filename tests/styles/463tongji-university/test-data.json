@@ -36,7 +36,6 @@
 		"journalAbbreviation": "J. Gen. App. Microbiol.",
 		"language": "en-US",
 		"page": "23-34",
-		"source": "J-Stage",
 		"title": "Characterization of alpha-galactosidase from corynebacterium murisepticum and mechanism of its induction",
 		"volume": "38",
 		"author": [
@@ -73,6 +72,7 @@
 		"language": "zh-CN",
 		"page": "339-357",
 		"title": "论一致分布与近似分析：数论方法（I）",
+		"title-short": "论一致分布与近似分析",
 		"author": [
 			{
 				"literal": "华罗庚"
@@ -221,9 +221,10 @@
 		"id": "tongji:09",
 		"type": "thesis",
 		"event-place": "Berkeley",
-		"genre": "dissertation",
+		"genre": "Doctoral dissertation",
 		"language": "en-US",
-		"publisher": "Univ of California",
+		"number-of-pages": "224",
+		"publisher": "Univ. of California",
 		"publisher-place": "Berkeley",
 		"title": "Infrared spectroscopic studies on solid oxygen",
 		"author": [
@@ -266,7 +267,6 @@
 	{
 		"id": "tongji:11",
 		"type": "standard",
-		"abstract": ".GB 6447—86 .",
 		"event-place": "北京",
 		"language": "zh-CN",
 		"number": "GB 6447—86",

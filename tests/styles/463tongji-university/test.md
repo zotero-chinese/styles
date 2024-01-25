@@ -18,7 +18,7 @@
   <div class="csl-entry">[5]	霍夫斯塔主编．禽病学：下册．第7版．胡祥壁译．北京：农业出版社，1981：798～799</div>
   <div class="csl-entry">[6]	Timoshenko S P. Theory of plate and shells. 2nd ed. New York: McGraw-Hill, 1959: 17～36</div>
   <div class="csl-entry">[7]	张全福，王里青．“百家争鸣”与理工科学报编辑工作．见：郑福寿主编．学报编辑论丛：第 2 集．南京：河海大学出版社，1991：1～4</div>
-  <div class="csl-entry">[8]	丁光莹．钢筋混凝土框架结构非线性反应分析的随机模拟分析：[学位论文]．上海：同济大学，2001</div>
+  <div class="csl-entry">[8]	丁光莹．钢筋混凝土框架结构非线性反应分析的随机模拟分析：[博士学位论文]．上海：同济大学，2001</div>
   <div class="csl-entry">[9]	Cairns B R. Infrared spectroscopic studies on solid oxygen: [dissertation]. Berkeley: Univ of California, 1965</div>
   <div class="csl-entry">[10]	姜锡洲．一种温热外敷药制备方法．中国专利，881056073．1989-07-26</div>
   <div class="csl-entry">[11]	全国文献工作标准化技术委员会第六分委员会．GB 6447—86 文摘编写规则．北京：中国标准出版社，1986</div>
@@ -47,7 +47,7 @@
   <div class="csl-entry">[7]	王夫之．宋论．刻本．金陵：湘乡曾国荃，1865</div>
   <div class="csl-entry">[8]	牛志明，斯温兰德，雷光春主编．综合湿地管理国际研讨会论文集．北京：海洋出版社，2012</div>
   <div class="csl-entry">[9]	中国第一历史档案馆，辽宁省档案馆．中国明朝档案总汇．桂林：广西师范大学出版社，2001</div>
-  <div class="csl-entry">[10]	杨保军．新闻道德论：[学位论文]．北京：中国人民大学出版社，2012</div>
+  <div class="csl-entry">[10]	杨保军．新闻道德论：[博士学位论文]．北京：中国人民大学出版社，2012</div>
   <div class="csl-entry">[11]	赵学功．当代美国外交．北京：社会科学文献出版社，2001</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室．汶川地震灾害研究．上海：同济大学出版社，2011：5～6</div>
   <div class="csl-entry">[13]	中国造纸学会．中国造纸年鉴: 2003．北京：中国轻工业出版社，2003</div>
@@ -83,7 +83,7 @@
   <div class="csl-entry">[43]	Online Computer Library Center, Inc. About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
   <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas. Br Med J, 1981, 283(6292): 628</div>
-  <div class="csl-entry">[46]	刘乃安．生物质材料热解失重动力学及其分析方法研究：[学位论文]．合肥：中国科学技术大学，2000：17～18</div>
+  <div class="csl-entry">[46]	刘乃安．生物质材料热解失重动力学及其分析方法研究：[博士学位论文]．合肥：中国科学技术大学，2000：17～18</div>
   <div class="csl-entry">[47]	Deverell W, Igler D. A companion to California history: [dissertation]. New York: John Wiley &#38; Sons, 2013: 21～22</div>
   <div class="csl-entry">[48]	Baker S K, Jackson M E. The future of resource sharing. New York: The Haworth Press, 1995</div>
   <div class="csl-entry">[49]	Chernik B E. Introduction to library services for library technicians. Littleton, Colo.: Libraries Unlimited, Inc, 1982</div>
@@ -131,8 +131,8 @@
   <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report RMRS-GTR-262. 2011: 8～9</div>
   <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material PB 91-194001. Springfield: US Department of Commerce National Information Service, 1990</div>
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970</div>
-  <div class="csl-entry">[94]	马欢．人类活动影响下海河流域典型区水循环变化分析：[学位论文]．北京：清华大学，2011：27</div>
-  <div class="csl-entry">[95]	吴云芳．面向中文信息处理的现代汉语并列结构研究：[学位论文]．北京：北京大学，2003</div>
+  <div class="csl-entry">[94]	马欢．人类活动影响下海河流域典型区水循环变化分析：[博士学位论文]．北京：清华大学，2011：27</div>
+  <div class="csl-entry">[95]	吴云芳．面向中文信息处理的现代汉语并列结构研究：[博士学位论文]．北京：北京大学，2003</div>
   <div class="csl-entry">[96]	Cairns B R. Infrared spectroscopic studies on solid oxygen: [dissertation]. Berkeley: Univ of California, 1965</div>
   <div class="csl-entry">[97]	张凯军．轨道火车及高速轨道火车紧急安全制动辅助装置．中国专利，201220158825.2．2012-04-05</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司．一种荒漠化地区生态植被综合培育种植方法．中国专利，01129210.5．2001-10-24</div>
@@ -201,8 +201,8 @@
   <div class="csl-entry">[28]	李行健主编．现代汉语规范辞典．北京：外语教学与研究出版社，2004：255</div>
   <div class="csl-entry">[29]	现代汉语频率词典．北京：北京语言学院出版社，1986</div>
   <div class="csl-entry">[30]	Yu L. Phonological representation and processing in Chinese spoken language production: [dissertation]. Beijing Normal University, 2000</div>
-  <div class="csl-entry">[31]	余林．汉语语言产生中的语音表征与加工：[学位论文]．北京师范大学，2000</div>
-  <div class="csl-entry">[32]	邱颖文．遗传与语言学习：[学位论文]．上海：华东师范大学，2009</div>
+  <div class="csl-entry">[31]	余林．汉语语言产生中的语音表征与加工：[博士学位论文]．北京师范大学，2000</div>
+  <div class="csl-entry">[32]	邱颖文．遗传与语言学习：[博士学位论文]．上海：华东师范大学，2009</div>
   <div class="csl-entry">[33]	张三，李四．中国心理学与奥林匹克．新华日报，2008-08-08（2, 5～7）</div>
 </div>
 
@@ -245,7 +245,7 @@
   <div class="csl-entry">[34]	四川会议厅暂行章程．广益丛报，1910-09-03（1～2）</div>
   <div class="csl-entry">[35]	上海各路商界总联合会致外交部电．民国日报，1925-08-14（4）</div>
   <div class="csl-entry">[36]	西南中委反对在宁召开五全会．民国日报，1933-08-11（第1张第4版）</div>
-  <div class="csl-entry">[37]	方明东．罗隆基政治思想研究（1913—1949）：[学位论文]．北京师范大学历史系，2000</div>
+  <div class="csl-entry">[37]	方明东．罗隆基政治思想研究（1913—1949）：[博士学位论文]．北京师范大学历史系，2000</div>
   <div class="csl-entry">[38]	任东来．对国际体制和国际制度的理解和翻译．见：全球化与亚太区域化国际研讨会，2000，天津．天津：9</div>
   <div class="csl-entry">[39]	任东来．对国际体制和国际制度的理解和翻译．见：全球化与亚太区域化国际研讨会论文集．天津，2000：9</div>
   <div class="csl-entry">[40]	傅良佐致国务院电．1917</div>
@@ -274,7 +274,7 @@
   <div class="csl-entry">[10]	被告人李宁、张磊贪污案一审开庭．<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a></div>
   <div class="csl-entry">[11]	赵耀彤．一名基层法官眼里好律师的样子．2018．<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a></div>
   <div class="csl-entry">[12]	法国行政法院网站．<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a></div>
-  <div class="csl-entry">[13]	李松锋．游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究：[学位论文]．中国政法大学，2015</div>
+  <div class="csl-entry">[13]	李松锋．游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究：[博士学位论文]．中国政法大学，2015</div>
   <div class="csl-entry">[14]	民法总则</div>
   <div class="csl-entry">[15]	国务院．国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号．2007</div>
   <div class="csl-entry">[16]	包郑照诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字 7 号</div>
@@ -318,7 +318,7 @@
   <div class="csl-entry">[54]	Poisson M．Le droit de la mer．见：Lapieuvre R主编．Le droit des Océans．Éditions de la mer．2015：12～48</div>
   <div class="csl-entry">[55]	Poisson M．Le droit de la mer en Méditerranée．Congrès de Marseille，2016：228～229</div>
   <div class="csl-entry">[56]	Poisson M．Le droit de la mer en Méditerranée：1202．2016</div>
-  <div class="csl-entry">[57]	Poisson M．Le droit de la mer appliqué à la Méditerranée：[学位论文]．l’Université de Marseille，2016</div>
+  <div class="csl-entry">[57]	Poisson M．Le droit de la mer appliqué à la Méditerranée：[博士学位论文]．l’Université de Marseille，2016</div>
   <div class="csl-entry">[58]	Joyeux-Prunel B．L’histoire de l’art et le quantitatif．<a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a></div>
   <div class="csl-entry">[59]	Vogel B．Rechtsgüterschutz und Normgeltung．ZStW，2017，129（3）：629～649</div>
   <div class="csl-entry">[60]	Würdinger M．Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts．Jurist Schul，2012（3）：234～240</div>
