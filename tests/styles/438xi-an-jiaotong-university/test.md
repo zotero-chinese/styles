@@ -48,7 +48,7 @@ Undefined
   <div class="csl-entry">[20]	陈晋镳，张惠民，朱士兴等. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴，柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	Weinstein L, Swertz MN. Pathogenic properties of invading microorganism[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[23]	Weinstein L, Swertz MN. Pathogenic properties of invading microorganism[M]//Sodeman WA Jr, Sodeman WA. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
   <div class="csl-entry">[24]	Roberson JA, Burneson EG. Drinking water standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
@@ -173,12 +173,12 @@ Undefined
   <div class="csl-entry">[12]	张三. 心理学史[M]. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">[13]	作者不详. 心理学史[M]. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">[14]	Gibbs JT, Huang LN. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
-  <div class="csl-entry">[15]	Laplace PS. A philosophical essay on probabilities[M]. Truscott F W, Emory F L, trans. Dover, 1951.</div>
+  <div class="csl-entry">[15]	Laplace PS. A philosophical essay on probabilities[M]. Truscott FW, Emory FL, trans. Dover, 1951.</div>
   <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951.</div>
-  <div class="csl-entry">[17]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
-  <div class="csl-entry">[18]	Wang DF, Cui H. Theoretical analysis of the seven factor model of Chinese personality[M]//Wang D F, Hou Y B. Selected papers on personality and social psychology: Vol. 1. Beijing: Peking University Press, 2004: 46-84.</div>
+  <div class="csl-entry">[17]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Freksa C, Habel C, Wender KF. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
+  <div class="csl-entry">[18]	Wang DF, Cui H. Theoretical analysis of the seven factor model of Chinese personality[M]//Wang DF, Hou YB. Selected papers on personality and social psychology: Vol. 1. Beijing: Peking University Press, 2004: 46-84.</div>
   <div class="csl-entry">[19]	王登峰，崔红. 中国人“大七”人格结构的理论分析[M]//王登峰, 侯玉波. 人格与社会心理学论丛: 卷 1. 北京: 北京大学出版社, 2004: 46-84.</div>
-  <div class="csl-entry">[20]	Auerbach JS. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Bornstein M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley, 1993: 43-110.</div>
+  <div class="csl-entry">[20]	Auerbach JS. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Bornstein MF. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley, 1993: 43-110.</div>
   <div class="csl-entry">[21]	Lichstein KL, Johnson RS. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden, 1990.</div>
   <div class="csl-entry">[22]	Lanktree CB, Briere JN. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA, 1991.</div>
   <div class="csl-entry">[23]	Ruby J, Fulton C. Beyond redlining: Editing software that works[C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
@@ -243,7 +243,7 @@ Undefined
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain HB. On the search for civil society in China[J]. Mod. China, 1993, 19(2): 199-215.</div>
-  <div class="csl-entry">[47]	Schfield RS. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+  <div class="csl-entry">[47]	Schfield RS. The impact of scarcity and plenty on population change in England[M]//Rotberg RI, Rabb TK. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   <div class="csl-entry">[48]	Nixon to Kissinger, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
@@ -292,7 +292,7 @@ Undefined
   <div class="csl-entry">[40]	Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
   <div class="csl-entry">[41]	Rosenthal A. White House tutors Kremlin in how a presidency works[N]. New York Times, 1990-06-15(A1).</div>
   <div class="csl-entry">[42]	Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran. MIT Press, 1996.</div>
-  <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress[M]//Bergsten CF, Gill B, Lardy NR, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">[44]	Department of Transportation Act, 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.</div>
   <div class="csl-entry">[45]	Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.</div>
   <div class="csl-entry">[46]	Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d: Vol. 685. 1982: 718.</div>
@@ -388,24 +388,24 @@ Undefined
   <div class="csl-entry">[47]	Zalta EN. The Stanford encyclopedia of philosophy[M]. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">[48]	Gold M. The complete social scientist: A Kurt Lewin reader[M]. American Psychological Association, 1999.</div>
   <div class="csl-entry">[49]	King James Bible[M]. King James Bible Online, 2017.</div>
-  <div class="csl-entry">[50]	The Qur’an[M]. Abdel Haleem M A S, tran. Oxford University Press, 2004.</div>
+  <div class="csl-entry">[50]	The Qur’an[M]. Abdel Haleem MAS, tran. Oxford University Press, 2004.</div>
   <div class="csl-entry">[51]	The Torah: The five books of Moses[M]. 3rd ed. The Jewish Publication Society, 2015.</div>
-  <div class="csl-entry">[52]	Aristotle. Poetics[M]. Butcher S H, tran. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">[52]	Aristotle. Poetics[M]. Butcher SH, tran. The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">[53]	Shakespeare W. Much ado about nothing[M]. Washington Square Press, 1995.</div>
-  <div class="csl-entry">[54]	Balsam KF, Martell CR, Jones KP, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[M]//Iwamasa G Y, Hays P A. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.</div>
+  <div class="csl-entry">[54]	Balsam KF, Martell CR, Jones KP, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[M]//Iwamasa GY, Hays PA. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.</div>
   <div class="csl-entry">[55]	Weinstock R, Leong GB, Silva JA. Defining forensic psychiatry: Roles and responsibilities[M]//Rosner R. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.</div>
   <div class="csl-entry">[56]	Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]//McGoldrick M, Giordano J, Garcia-Preto N. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
-  <div class="csl-entry">[57]	Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
-  <div class="csl-entry">[58]	Heidegger M. On the essence of truth[M]. Sallis J, tran.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
-  <div class="csl-entry">[59]	Sacchett C, Humphreys GW. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//Balota D A, Marsh E J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
+  <div class="csl-entry">[57]	Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán JJ. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
+  <div class="csl-entry">[58]	Heidegger M. On the essence of truth[M]. Sallis J, tran.//Krell DF. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+  <div class="csl-entry">[59]	Sacchett C, Humphreys GW. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//Balota DA, Marsh EJ. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
   <div class="csl-entry">[60]	Sacchett C, Humphreys GW. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
   <div class="csl-entry">[61]	Bronfenbrenner U. The social ecology of human development: A retrospective conclusion[M]//Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
   <div class="csl-entry">[62]	Richardson F. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973: 113-123.</div>
-  <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and cognitive development[M]//Liben L S, Mueller U. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
+  <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and cognitive development[M]//Liben LS, Mueller U. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
   <div class="csl-entry">[64]	Lewin K. Group decision and social change[M]//Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
   <div class="csl-entry">[65]	American Psychological Association. Positive transference[M]//APA dictionary of psychology. [2019].</div>
   <div class="csl-entry">[66]	Merriam-Webster. Self-report[M]//Merriam-Webster.com dictionary. [2019].</div>
-  <div class="csl-entry">[67]	Graham G. Behaviorism[M]//Zalta E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
+  <div class="csl-entry">[67]	Graham G. Behaviorism[M]//Zalta EN. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">[68]	List of oldest companies[M]//Wikipedia. 2019.</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R]. 2012.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
