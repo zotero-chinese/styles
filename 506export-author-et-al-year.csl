@@ -11,18 +11,10 @@
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <contributor>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </contributor>
-    <contributor>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>按照语言显示作者“等”或“et al.”，年代</summary>
-    <updated>2023-12-20T21:26:09+08:00</updated>
+    <updated>2024-02-03T17:56:46+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

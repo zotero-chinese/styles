@@ -7,19 +7,15 @@
     <link href="http://www.zotero.org/styles/lanzhou-university" rel="self"/>
     <link href="https://ge.lzu.edu.cn/yjsxw/upload/files/20230404/61cd8e5356084aa28c55ed238ba871bc.pdf" rel="documentation"/>
     <author>
-      <name>heromyth</name>
-      <email>zxpmyth@yahoo.com.cn</email>
-    </author>
-    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <category field="generic-base"/>
     <category field="science"/>
     <summary>This style just partly implemented what the Chinese GB/T 7714-2005 requires.</summary>
-    <updated>2023-12-21T19:24:03+08:00</updated>
+    <updated>2024-02-03T17:58:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
