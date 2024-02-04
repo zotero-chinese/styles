@@ -17,7 +17,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-01-21T16:25:14+08:00</updated>
+    <updated>2024-02-04T22:23:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -262,8 +262,10 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
-              <text macro="issued-year"/>
-              <text variable="volume"/>
+              <group delimiter=",">
+                <text macro="issued-year"/>
+                <text variable="volume"/>
+              </group>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
