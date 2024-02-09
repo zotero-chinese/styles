@@ -61,7 +61,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="long" and="text" et-al-min="3"/>
+          <name form="short" and="text" et-al-min="3"/>
         </names>
       </if>
       <else>
