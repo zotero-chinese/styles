@@ -18,29 +18,29 @@ Undefined
 
 （张三, 2008）<br>
 张三 （2008）<br>
-（Jason J, 2008）<br>
-Jason J （2008）<br>
+（Jason, 2008）<br>
+Jason （2008）<br>
 张三和李四 （2008）<br>
-Wang W和Sun L （2009）<br>
-（赵一和陈二, 2008; Wolchik S A和West S G, 2009）<br>
+Wang和Sun （2009）<br>
+（赵一和陈二, 2008; Wolchik和West, 2009）<br>
 张三等 （2008）<br>
-Wang W等 （2009）<br>
-（赵一等, 2008; Wolchik S A等, 2009）<br>
+Wang等 （2009）<br>
+（赵一等, 2008; Wolchik等, 2009）<br>
 张三等 （2019a）<br>
 张三等 （2019b）<br>
-Qian Y等 （2020a）<br>
-Qian Y等 （2020b）<br>
-（张三等, 2019a; Qian Y等, 2020a）<br>
+Qian等 （2020a）<br>
+Qian等 （2020b）<br>
+（张三等, 2019a; Qian等, 2020a）<br>
 张三等 （2020a）<br>
 张三等 （2020b）<br>
-Qian Y等 （2009a）<br>
-Qian Y等 （2009b）<br>
+Qian等 （2009a）<br>
+Qian等 （2009b）<br>
 （张三等, 2020a）<br>
-（Qian Y等, 2009a）<br>
-（Wong K D, 2007）<br>
-（Wong P G, 2008）<br>
-（Edeline J-M和Weinberger N M, 2002a, 2002b, 2005, [日期不详]）<br>
-（Bai Y, 2002; Chen E, 2006; Deng S和Feng S, 2005）<br>
+（Qian等, 2009a）<br>
+（Wong, 2007）<br>
+（Wong, 2008）<br>
+（Edeline和Weinberger, 2002a, 2002b, 2005, [日期不详]）<br>
+（Bai, 2002; Chen, 2006; Deng和Feng, 2005）<br>
 
 ### GB/T 7714—2015 示例文献
 

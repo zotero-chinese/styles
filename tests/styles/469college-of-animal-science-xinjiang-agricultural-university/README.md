@@ -5,12 +5,12 @@
 ## 引注
 
 （库恩, 2012）<br>
-（Fourney M E, c1971）<br>
+（Fourney, c1971）<br>
 （贾东琴和柯平, 2011）<br>
-（Fan X和Sommers C H, 2013）<br>
+（Fan和Sommers, 2013）<br>
 （武丽丽等, 2008）<br>
-（Myburg A A等, 2014）<br>
-（中国互联网络信息中心, 2012; Bawden D, 2008）<br>
+（Myburg等, 2014）<br>
+（中国互联网络信息中心, 2012; Bawden, 2008）<br>
 
 ## 参考文献表
 
