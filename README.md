@@ -2036,24 +2036,23 @@ available-date: 2014-01-26
 
 ## [444chongqing-university.csl]
 
-[重庆大学研究生学位论文](http://www.cfl.cqu.edu.cn/info/1367/8626.htm)样式。在 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 的基础上修改。
+《[重庆大学博士、硕士学位论文格式标准（2023年修订）](http://graduate.cqu.edu.cn/xwsy/xwsq.htm)》样式。在 [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl] 的基础上修改。
 
 显示效果：
 
 <blockquote>
   <div class="csl-bib-body second-field-align-flush">
-    <div class="csl-entry">[1]	袁庆龙, 侯文义. Ni-P合金镀层组织形貌及显微硬度研究[J]. 太原理工大学学报, 2001, 32(1): 51-53.</div>
-    <div class="csl-entry">[2]	刘国钧, 郑如斯. 中国书的故事[M]. 北京: 中国青年出版社, 1979.</div>
-    <div class="csl-entry">[3]	孙品一. 科技编辑学论文集（2）[C]//科技编辑学论文集. 北京: 北京师范大学出版社, 1998: 10-22.</div>
-    <div class="csl-entry">[4]	罗云. 安全科学理论体系的发展及趋势探讨[M]//21世纪安全科学与技术的发展趋势. 北京: 科学出版社, 2000: 1-5.</div>
-    <div class="csl-entry">[5]	张和生. 地质力学系统理论[D]. 太原: 太原理工大学, 1998.</div>
-    <div class="csl-entry">[6]	冯西桥. 核反应堆压力容器的LBB分析[R]. 北京: 清华大学核能技术设计研究院, 1997.</div>
-    <div class="csl-entry">[7]	姜锡洲. 一种温热外敷药制备方案[P]. 中国专利: 881056078, 1983-08-12.</div>
-    <div class="csl-entry">[8]	GB/T 16159—1996. 汉语拼音正词法基本规则[S]. 北京: 中国标准出版社, 1996.</div>
-    <div class="csl-entry">[9]	谢希德. 创造学习的新思路[N]. 人民日报, 1998, 12(25): 10.</div>
-    <div class="csl-entry">[10]	姚伯元. 毕业设计(论文)规范化管理与培养学生综合素质[EB/OL]. 中国高等教育网教学研究, 2005-02-02.</div>
+    <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2]	FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4]	FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+    <div class="csl-entry">[8]	BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   </div>
 </blockquote>
+
 
 ## [445nanjing-agricultural-university.csl]
 
