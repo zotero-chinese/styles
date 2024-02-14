@@ -22,7 +22,7 @@
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">姜明安，《行政法概要》，北京，北京大学出版社，1986。</div>
   <div class="csl-entry">刘艺，“高校被诉引起的行政法思考”，《现代法学》，2001年第二期，93–97页。</div>
-  <div class="csl-entry">马怀德，“公务法人问题研究”，《中国教育法制评论》，北京，教育科学出版社，2002，31–42。</div>
+  <div class="csl-entry">马怀德，“公务法人问题研究”，劳凯声，《中国教育法制评论》，北京，教育科学出版社，2002，31–42。</div>
   <div class="csl-entry">王常委，“评家用汽车热销”（非出版物），中国人民大学红楼，1996。</div>
   <div class="csl-entry">王常委，1996年10月12日，“汽车”，评家用汽车热销，互联网，<a href="https://doi.org/writin-dev-h@mailbase.ac.uk">writin-dev-h@mailbase.ac.uk</a>，2001年5月4日。</div>
   <div class="csl-entry">温晓莉，“论知识经济社会微观公共权力的法律规则”，《法学》，2001年第十二期，11–16页。</div>
