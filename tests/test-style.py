@@ -7,6 +7,7 @@ import sys
 from lxml import etree
 
 from check_style import check_style
+import update_readme
 
 
 TEST_DIR = os.path.join("tests", "styles")
@@ -72,6 +73,8 @@ def main():
 
     for path in paths:
         test_style(path)
+
+    update_readme.main()
 
 
 if __name__ == "__main__":
