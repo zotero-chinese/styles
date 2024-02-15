@@ -1359,7 +1359,6 @@ original-title: Better with More Choices?Impact of Choice Set Size on Variety Se
 original-container-title: Acta psychologica sinica
 ```
 存在问题：中文翻译后面会多一个空行，可以在文章定稿后通过在 Word 中查找 `^l^p` 替换为 `^p` 批量删除。
-<blockquote>
 
 显示效果：
 
