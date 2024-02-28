@@ -3372,9 +3372,9 @@ available-date: 2014-01-26
 </blockquote>
 
 
-## [444chongqing-university.csl]
+## [444chongqing-university-numeric.csl]
 
-《[重庆大学博士、硕士学位论文格式标准（2023年修订）](http://graduate.cqu.edu.cn/xwsy/xwsq.htm)》样式。在 [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl] 的基础上修改。
+《[重庆大学博士、硕士学位论文格式标准（2023年修订）](http://graduate.cqu.edu.cn/xwsy/xwsq.htm)》顺序编码制样式。在 [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl] 的基础上修改。
 
 显示效果：
 
@@ -4118,6 +4118,36 @@ available-date: 2014-01-26
 </blockquote>
 
 
+## [473chongqing-university-author-date.csl]
+
+《[重庆大学博士、硕士学位论文格式标准（2023年修订）](http://graduate.cqu.edu.cn/xwsy/xwsq.htm)》著者-出版年制样式。在 [011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl] 的基础上修改。
+
+显示效果：
+
+<blockquote>
+  （库恩, 2012）<br>
+  （Fourney, c1971）<br>
+  （贾东琴 等, 2011）<br>
+  （Fan et al., 2013）<br>
+  （武丽丽 等, 2008）<br>
+  （Myburg et al., 2014）<br>
+  （中国互联网络信息中心, 2012; Bawden, 2008）<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">贾东琴等, 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
+    <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版[M]. 金吾伦等, 译. 2 版. 北京: 北京大学出版社.</div>
+    <div class="csl-entry">武丽丽等, 2008. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 33(5): 8-9.</div>
+    <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告[R].</div>
+    <div class="csl-entry">Bawden, D., 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Fan, X. et al., 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
+    <div class="csl-entry">Fourney, M. E., c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+    <div class="csl-entry">Myburg, A. A. et al., 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
+  </div>
+</blockquote>
+
+
 ## [501yuzuc-at-title-at-author-at-year.csl]
 
 显示效果：
@@ -4598,7 +4628,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [441huazhong-university-of-science-and-technology-tongji-medical-college.csl]: 441huazhong-university-of-science-and-technology-tongji-medical-college.csl
 [442chongqing-university-of-posts-and-telecommunications.csl]: 442chongqing-university-of-posts-and-telecommunications.csl
 [443chengdu-university-of-technology.csl]: 443chengdu-university-of-technology.csl
-[444chongqing-university.csl]: 444chongqing-university.csl
+[444chongqing-university-numeric.csl]: 444chongqing-university-numeric.csl
 [445nanjing-agricultural-university.csl]: 445nanjing-agricultural-university.csl
 [446tsinghua-university-academy-of-arts-and-design.csl]: 446tsinghua-university-academy-of-arts-and-design.csl
 [447anhui-university-of-science-and-technology.csl]: 447anhui-university-of-science-and-technology.csl
@@ -4627,6 +4657,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [470shanxi-agricultural-university.csl]: 470shanxi-agricultural-university.csl
 [471south-china-agricultural-university.csl]: 471south-china-agricultural-university.csl
 [472china-agricultural-university-college-of-humanities-and-development-studies.csl]: 472china-agricultural-university-college-of-humanities-and-development-studies.csl
+[473chongqing-university-author-date.csl]: 473chongqing-university-author-date.csl
 [501yuzuc-at-title-at-author-at-year.csl]: 501yuzuc-at-title-at-author-at-year.csl
 [502export-authors.csl]: 502export-authors.csl
 [503export-journal-year-vol-pages.csl]: 503export-journal-year-vol-pages.csl
