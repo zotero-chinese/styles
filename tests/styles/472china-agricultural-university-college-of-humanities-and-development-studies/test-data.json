@@ -1,0 +1,472 @@
+[
+	{
+		"id": "cau.cohd.2:3",
+		"type": "article-journal",
+		"container-title": "The Journal of Peasant Studies",
+		"DOI": "10.1080/03066150.2018.1478812",
+		"ISSN": "0306-6150",
+		"issue": "7",
+		"language": "en-US",
+		"page": "1151-1176",
+		"title": "Marxism and the vernacular revolutionary traditions",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/03066150.2018.1478812",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Shanin",
+				"given": "Teodor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.8:2",
+		"type": "article-journal",
+		"archive_location": "41",
+		"container-title": "The Journal of Peasant Studies",
+		"DOI": "10.1080/03066150.2018.1439932",
+		"ISSN": "0306-6150",
+		"issue": "4",
+		"journalAbbreviation": "The Journal of Peasant Studies",
+		"language": "en-US",
+		"page": "689-714",
+		"title": "Forum: Fifty years of debate on peasantries, 1966–2016",
+		"title-short": "Forum",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/03066150.2018.1439932",
+		"volume": "45",
+		"author": [
+			{
+				"family": "Bernstein",
+				"given": "Henry"
+			},
+			{
+				"family": "Friedmann",
+				"given": "Harriet"
+			},
+			{
+				"family": "Ploeg",
+				"given": "Jan Douwe",
+				"non-dropping-particle": "van der"
+			},
+			{
+				"family": "Shanin",
+				"given": "Teodor"
+			},
+			{
+				"family": "White",
+				"given": "Ben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.7:2",
+		"type": "article",
+		"language": "en-US",
+		"note": "genre: Working Paper\nnumber: 153",
+		"publisher": "International Policy Centre for Inclusive Growth (IPC-IG)",
+		"title": "Family farming in Europe and Central Asia: History, characteristics, threats and potentials",
+		"title-short": "Family farming in Europe and Central Asia",
+		"URL": "http://www.fao.org/3/a-i6536e.pdf",
+		"author": [
+			{
+				"family": "Ploeg",
+				"given": "J. D.",
+				"non-dropping-particle": "van der"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.8:1",
+		"type": "article-journal",
+		"container-title": "中国社会科学",
+		"ISSN": "1002-4921",
+		"issue": "9",
+		"language": "zh-CN",
+		"page": "4-73, 204-205",
+		"title": "“习近平新时代中国特色社会主义经济思想”笔谈",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=ZSHK201809001&v=",
+		"author": [
+			{
+				"literal": "洪银兴"
+			},
+			{
+				"literal": "刘伟"
+			},
+			{
+				"literal": "高培勇"
+			},
+			{
+				"literal": "金碚"
+			},
+			{
+				"literal": "闫坤"
+			},
+			{
+				"literal": "高世楫"
+			},
+			{
+				"literal": "李佐军"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.7:1",
+		"type": "paper-conference",
+		"event-place": "南京",
+		"event-title": "中国社会学会 2018 年学术年会发展社会学分论坛：国家发展与乡村振兴",
+		"language": "zh-CN",
+		"publisher-place": "南京",
+		"title": "乡村振兴的别样探寻——江苏特色田园乡村建设及其推进",
+		"title-short": "乡村振兴的别样探寻",
+		"author": [
+			{
+				"literal": "吴业苗"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.6:1",
+		"type": "article-newspaper",
+		"container-title": "人民日报",
+		"language": "zh-CN",
+		"page": "9",
+		"title": "更好实现以人为核心的城镇化",
+		"author": [
+			{
+				"literal": "尹稚"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.4:1",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "齐心开创共建“一带一路 美好未来——在第二届“一带一路”国际合作高峰论坛开幕式上的主旨演讲",
+		"title-short": "齐心开创共建“ 一带一路” 美好未来——在第二届 “ 一带一路” 国际合作高峰论坛开幕式上的主旨演讲",
+		"URL": "http://cpc.people.com.cn/n1/2019/0427/c64094-31053291.html",
+		"author": [
+			{
+				"literal": "习近平"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.2:2",
+		"type": "article-journal",
+		"container-title": "中国社会科学",
+		"ISSN": "1002-4921",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "89-103",
+		"title": "农业农村发展中的政府与市场、社会：一个分析框架",
+		"title-short": "农业农村发展中的政府与市场、社会",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=F5NaIWgMQ1AfNbebnNodEk_BIkIYmhGvMoP_AemjRUtQuS00E7TRigtwrpzNGYjM0AAwORnSQ6RwRJeVUxWr5PvjUSPOfbv6oOnU789cPnfD1rpPhzmBBI-NpxzTzvolTOD-y9JnfAY=&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "郁建兴"
+			},
+			{
+				"literal": "高翔"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.5:2",
+		"type": "chapter",
+		"container-title": "Peasants and globalization: Political economy, rural transformation, and the agrarian question",
+		"event-place": "London",
+		"language": "en-US",
+		"page": "239-261",
+		"publisher": "Routledge",
+		"publisher-place": "London",
+		"title": "Agrarian Questions from Transition to Globalization",
+		"author": [
+			{
+				"family": "Bernstein",
+				"given": "Henry"
+			}
+		],
+		"editor": [
+			{
+				"family": "Akram-Lodhi",
+				"given": "A. Haroon"
+			},
+			{
+				"family": "Kay",
+				"given": "Cristobal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.2:1",
+		"type": "article-journal",
+		"container-title": "中国社会科学",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "37-51",
+		"title": "重建社会学与人类学的回顾和体会",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=F5NaIWgMQ1AuRsHbULw-r9yMKEw0HA4WSk3oEEAnsysrP1gKoP753syW4fLURSluGOtsGaBfeH19yj07EZwSwMky0L342s1jmA3Bn0-gsFJ9XWQ2S39piyl2XwkRQwek__HbcX1-zEA=&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "费孝通"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.1:2",
+		"type": "book",
+		"event-place": "上海",
+		"ISBN": "978-7-108-06574-2",
+		"language": "zh-CN",
+		"publisher": "生活·读书·新知三联书店",
+		"publisher-place": "上海",
+		"title": "东方学",
+		"author": [
+			{
+				"literal": "爱德华·W. 萨义德"
+			}
+		],
+		"translator": [
+			{
+				"literal": "王宇根"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.5:1",
+		"type": "chapter",
+		"container-title": "农业的政治经济分析",
+		"event-place": "重庆",
+		"language": "zh-CN",
+		"page": "1-32",
+		"publisher": "重庆出版社",
+		"publisher-place": "重庆",
+		"title": "导论: 激进政治视域中的农业与农民问题",
+		"title-short": "导论",
+		"author": [
+			{
+				"literal": "周凡"
+			}
+		],
+		"editor": [
+			{
+				"literal": "何增科"
+			},
+			{
+				"literal": "周凡"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.3:1",
+		"type": "thesis",
+		"genre": "硕士学位论文",
+		"language": "zh-CN",
+		"publisher": "中国社会科学院研究生院",
+		"title": "浅析我国地理标志的保护模式",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=F5NaIWgMQ1CmAcayrP9eiISo62MRCJPM_NYazVhisrilR1nNkRxvCKkCxU2uOfy7gckyovuzxJhRfTkPeLl62mQYjv2cm8PLo5EiHZgj0WhFIH9ptr8TQXhJH_h9tYVTsOolSO2YQTo2lQFG1hrIvg==&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "陈幸"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.1:1",
+		"type": "book",
+		"event-place": "北京",
+		"ISBN": "978-7-301-17482-1",
+		"language": "zh-CN",
+		"publisher": "北京大学出版社",
+		"publisher-place": "北京",
+		"title": "乡土中国",
+		"author": [
+			{
+				"literal": "费孝通"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "cau.cohd.1:3",
+		"type": "book",
+		"event-place": "Halifax",
+		"language": "en",
+		"publisher": "Fernwood Publishing",
+		"publisher-place": "Halifax",
+		"title": "Class dynamics of agrarian change",
+		"author": [
+			{
+				"family": "Bernstein",
+				"given": "Henry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]
