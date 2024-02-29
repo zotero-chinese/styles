@@ -20,10 +20,10 @@ Undefined
 张三 （2008）<br>
 （Jason, 2008）<br>
 Jason （2008）<br>
-张三 等 （2008）<br>
+张三 等 （2008a）<br>
 Wang et al. （2009a）<br>
 （赵一 等，2008a；Wolchik et al., 2009a）<br>
-张三 et al. （2008）<br>
+张三 等 （2008b）<br>
 Wang et al. （2009b）<br>
 （赵一 等，2008b；Wolchik et al., 2009b）<br>
 张三 等 （2019a）<br>

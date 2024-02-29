@@ -23,7 +23,7 @@ Jason （2008）<br>
 张三和李四 （2008）<br>
 Wang and Sun （2009）<br>
 （赵一和陈二，2008; Wolchik and West，2009）<br>
-张三 et al. （2008）<br>
+张三等 （2008）<br>
 Wang et al. （2009）<br>
 （赵一等，2008; Wolchik et al.，2009）<br>
 张三等 （2019a）<br>

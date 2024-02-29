@@ -34,10 +34,10 @@
 张三 （2008）<br>
 （JASON, 2008）<br>
 JASON （2008）<br>
-张三 等 （2008）<br>
+张三 等 （2008a）<br>
 WANG et al. （2009a）<br>
 （赵一 等, 2008a; WOLCHIK et al., 2009a）<br>
-张三 et al. （2008）<br>
+张三 等 （2008b）<br>
 WANG et al. （2009b）<br>
 （赵一 等, 2008b; WOLCHIK et al., 2009b）<br>
 张三 等 （2019a）<br>
