@@ -20,19 +20,19 @@ Undefined
 张三 （2008）<br>
 （Jason, 2008）<br>
 Jason （2008）<br>
-张三 等 （2008）<br>
+张三等 （2008）<br>
 Wang et al. （2009a）<br>
 （赵一 等, 2008a; Wolchik et al., 2009a）<br>
 张三 et al. （2008）<br>
 Wang et al. （2009b）<br>
 （赵一 等, 2008b; Wolchik et al., 2009b）<br>
-张三 等 （2019a）<br>
-张三 等 （2019b）<br>
+张三等 （2019a）<br>
+张三等 （2019b）<br>
 Qian et al. （2020a）<br>
 Qian et al. （2020b）<br>
 （张三 等, 2019a; Qian et al., 2020a）<br>
-张三 等 （2020a）<br>
-张三 等 （2020b）<br>
+张三等 （2020a）<br>
+张三等 （2020b）<br>
 Qian et al. （2009a）<br>
 Qian et al. （2009b）<br>
 （张三 等, 2020a）<br>
