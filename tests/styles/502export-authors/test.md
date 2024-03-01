@@ -339,14 +339,14 @@ Undefined
 ### APA 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">McCauley S M, Christiansen M H	</div>
+  <div class="csl-entry">McCauley Stewart M, Christiansen Morten H	</div>
   <div class="csl-entry">Ahmann E, Tuttle L J, Saviet M, Wright S D	</div>
   <div class="csl-entry">Anderson M	</div>
   <div class="csl-entry">Goldman C	</div>
   <div class="csl-entry">Kalnay E, Kanamitsu M, Kistler R, Collins W, Deaven D, Gandin L, Iredell M, Saha S, White G, Wollen J, Zhu Y, Chelliah M, Ebisuzaki W, Higgins W, Janowiak J, Mo K C, Ropelewski C, Wang J, Leetma A, Aaron A, Court B Baron C, Joseph D	</div>
   <div class="csl-entry">De Vries R, Nieuwenhuijze M, Buitendijk S E, the members of Midwifery Science Work Group	</div>
   <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L	</div>
-  <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L	</div>
+  <div class="csl-entry">Huestegge Sujata M, Raettig Tim, Huestegge Lynn	</div>
   <div class="csl-entry">Pachur T, Scheibehenne B	</div>
   <div class="csl-entry">Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz J J, Toledano-Muñoz A, Fernández-Heute J, Martinez-Monge N, Palacios-Ceña D, Peñacoba-Puente C	</div>
   <div class="csl-entry">Piaget J	</div>

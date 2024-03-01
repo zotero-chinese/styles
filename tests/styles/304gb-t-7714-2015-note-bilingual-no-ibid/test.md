@@ -161,18 +161,18 @@ Undefined
 
 <sup>1</sup> 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>2</sup> 张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
-<sup>3</sup> MOU W, MCNAMARA T P. Intrinsic frames of reference in spatial memory.[J/OL]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170. DOI:<a href="https://doi.org/10.1037/0278-7393.28.1.162">10.1037/0278-7393.28.1.162</a>.<br>
+<sup>3</sup> MOU W, MCNAMARA T P. Intrinsic frames of reference in spatial memory[J/OL]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170. DOI:<a href="https://doi.org/10.1037/0278-7393.28.1.162">10.1037/0278-7393.28.1.162</a>.<br>
 <sup>4</sup> 赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>5</sup> MOU W, ZHANG K, MCNAMARA T P. Frames of reference in spatial memories acquired from language[J/OL]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171-180. DOI:<a href="https://doi.org/10.1037/0278-7393.30.1.171">10.1037/0278-7393.30.1.171</a>.<br>
 <sup>6</sup> 赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>7</sup> WOLCHIK S A, WEST S G, SANDLER I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.<br>
 <sup>8</sup> 张三, 李四. 中国心理学的过去与未来[J]. 心理学报.<br>
 <sup>9</sup> HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J/OL]. Experimental Psychology, 2019. DOI:<a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.<br>
-<sup>10</sup> BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J/OL]. PLoS ONE, 2019, 14(1). DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.<br>
+<sup>10</sup> BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J/OL]. PLOS ONE, 2019, 14(1). DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.<br>
 <sup>11</sup> 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.<br>
 <sup>12</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
 <sup>13</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
-<sup>14</sup> GIBBS J T, HUANG L N. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass, 1989.<br>
+<sup>14</sup> GIBBS J T, HUANG L N. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> LAPLACE P S. A philosophical essay on probabilities[M]. TRUSCOTT F W, EMORY F L, trans. Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951.<br>
 <sup>17</sup> KLATZKY R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//FREKSA C, HABEL C, WENDER K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.<br>
@@ -333,7 +333,7 @@ Undefined
 
 ### APA 示例文献
 
-<sup>1</sup> MCCAULEY S M, CHRISTIANSEN M H. Language learning as language use: A cross-linguistic model of child language development[J/OL]. Psychological Review, 2019, 126(1): 1-51. <a href="http://some.url">http://some.url</a>. DOI:<a href="https://doi.org/10.1037/rev0000126">10.1037/rev0000126</a>.<br>
+<sup>1</sup> MCCAULEY S M, CHRISTIANSEN M H. Language learning as language use: A cross-linguistic model of child language development[J/OL]. Psychological Review, 2019, 126(1): 1-51. DOI:<a href="https://doi.org/10.1037/rev0000126">10.1037/rev0000126</a>.<br>
 <sup>2</sup> AHMANN E, TUTTLE L J, SAVIET M, et al. A descriptive review of ADHD coaching research: Implications for college students[J/OL]. Journal of Postsecondary Education and Disability, 2018, 31(1): 17-39. <a href="https://www.ahead.org/professional-resources/publications/jped/archived-jped/jped-volume-31">https://www.ahead.org/professional-resources/publications/jped/archived-jped/jped-volume-31</a>.<br>
 <sup>3</sup> ANDERSON M. Getting consistent with consequences[J]. Educational Leadership, 2018, 76(1): 26-33.<br>
 <sup>4</sup> GOLDMAN C. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018-11-28.<br>

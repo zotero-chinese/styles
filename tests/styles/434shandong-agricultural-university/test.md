@@ -183,7 +183,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">王登峰, 崔红. 中国人“大七”人格结构的理论分析[M]//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46-84	</div>
   <div class="csl-entry">Anonymous. The new Grove dictionary of music and musicians[M]. London : New York: Macmillan, 1980	</div>
   <div class="csl-entry">佚名. 现代汉语频率词典[M]. 北京: 北京语言学院出版社, 1986	</div>
-  <div class="csl-entry">Anonymous. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass, 1989	</div>
+  <div class="csl-entry">Anonymous. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989	</div>
   <div class="csl-entry">佚名. 现代汉语规范辞典[M]. 北京: 外语教学与研究出版社, 2004	</div>
   <div class="csl-entry">佚名. 心理学史[M]. 北京: 未名出版社, 2008	</div>
   <div class="csl-entry">余林. 汉语语言产生中的语音表征与加工北京师范大学, 2000	</div>
@@ -198,14 +198,14 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Auerbach J. S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Handbook of child psychology: Vol. 4. Socialization, personality, and social development. Washington, DC, US: Wiley, 1993: 43–110	</div>
   <div class="csl-entry">Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990[R]. Canberra, Australian Capital Territory: Author, 1991	</div>
   <div class="csl-entry">Bergmann P. G. Relativity. New York: Encyclopedia Britannica: 501–508	</div>
-  <div class="csl-entry">Burin D., Kilteni K., Rabuffetti M., Slater M., Pia L. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 2019, 14(1)	</div>
+  <div class="csl-entry">Burin D., Kilteni K., Rabuffetti M., Slater M., Pia L. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1)	</div>
   <div class="csl-entry">Huestegge S. M., Raettig T., Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019	</div>
   <div class="csl-entry">Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledgeSpringer-Verlag, 1998: 1–17	</div>
   <div class="csl-entry">Lanktree C. B., Briere J. N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//San Diego, CA: , 1991	</div>
   <div class="csl-entry">Laplace P.-S. A philosophical essay on probabilitiesDover, 1951	</div>
   <div class="csl-entry">Lichstein K. L., Johnson R. S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden: , 1990	</div>
   <div class="csl-entry">Mitchell T. R., Larson J. R. People in organizations: An introduction to organizational behavior[M]. New York: McGraw-Hill, 1987	</div>
-  <div class="csl-entry">Mou W., McNamara T. P. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162–170	</div>
+  <div class="csl-entry">Mou W., McNamara T. P. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162–170	</div>
   <div class="csl-entry">Mou W., Zhang K., McNamara T. P. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171–180	</div>
   <div class="csl-entry">Ruby J., Fulton C. Beyond redlining: Editing software that works[C]//Washington, DC: , 1993	</div>
   <div class="csl-entry">Wang D. F., Cui H. Theoretical analysis of the seven factor model of Chinese personality[M]//Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46–84	</div>
@@ -488,7 +488,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Ho H.-K. Teacher preparation for early childhood special education in Taiwan. ERIC	</div>
   <div class="csl-entry">Hollander M. M. Resistance to authority: Methodological innovations and new lessons from the Milgram experimentUniversity of Wisconsin–Madison, 2017	</div>
   <div class="csl-entry">Housand B. Game on! Integrating games and simulations in the classroom	</div>
-  <div class="csl-entry">Huestegge S. M., Raettig T., Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, no date	</div>
+  <div class="csl-entry">Huestegge S. M., Raettig T., Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019	</div>
   <div class="csl-entry">Hutcheson V. H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescentsThe College of William &#38; Mary, 2012	</div>
   <div class="csl-entry">Kalnay E., Kanamitsu M., Kistler R., Collins W., Deaven D., Gandin L., Iredell M., Saha S., White G., Wollen J., Zhu Y., Chelliah M., Ebisuzaki W., Higgins W., Janowiak J., Mo K. C., Ropelewski C., Wang J., Leetma A., Aaron A., Court B. B. C., Joseph D. The NCEP/NCAR 40-year reanalysis project[J]. Bulletin of the American Meteorological Society, 1996, 77(3): 437–471	</div>
   <div class="csl-entry">King M. L. Jr. I have a dream. American Rhetoric(1963-08-28)	</div>

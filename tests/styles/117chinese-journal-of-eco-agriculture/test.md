@@ -12,7 +12,7 @@
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	ALTIERI M A, NICHOLLS C I. Biodiversity and pest management in agroecosystems[M]. 2nd ed. New York: Food Products Press, 2004</div>
-  <div class="csl-entry">[2]	BIESMEIJER J C, ROBERTS S P M, REEMER M, et al. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands.[J]. Science, 2006, 313(5785): 351-354</div>
+  <div class="csl-entry">[2]	BIESMEIJER J C, ROBERTS S P M, REEMER M, et al. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands[J]. Science, 2006, 313(5785): 351-354</div>
   <div class="csl-entry">[3]	GARNSEY S M, PERMAR T A, CAMBRA M, et al. Direct tissue blot immunoassay (DTBIA) for detection of citrus tristeza virus (CTV)[C]//MORENO P, DE GRACA J V, YOKOMI R K. Proceedings of the 12th Conference on International Organization of Citrus Virologist. Riverside: Vol. 12. Riverside, USA, 1993: 39-50</div>
   <div class="csl-entry">[4]	MCDONALD A H, NICOL J M. Nematode parasites of cereals[M]//LUC M, SIKORA R A, BRIDGE J. Plant parasitic nematodes in subtropical and tropical agriculture. Wallingford, UK: CABI Publishing, 2005: 131-191</div>
   <div class="csl-entry">[5]	钦俊德. 昆虫与植物的关系[M]. 北京: 科学出版社, 1987: 52-78; QIN J D. The relationships between insects and plants[M]. Beijing: Science Press, 1987: 52-78</div>
@@ -173,18 +173,18 @@
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215; ZHANG S. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 2008, 40: 210-215</div>
   <div class="csl-entry">[2]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215; ZHANG S, LI S. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 2008, 40: 210-215</div>
-  <div class="csl-entry">[3]	MOU W, MCNAMARA T P. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170</div>
+  <div class="csl-entry">[3]	MOU W, MCNAMARA T P. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170</div>
   <div class="csl-entry">[4]	赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215; ZHAO Y, QIAN E, SUN S, et al. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 2008, 40: 210-215</div>
   <div class="csl-entry">[5]	MOU W, ZHANG K, MCNAMARA T P. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171-180</div>
   <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215; ZHAO Y Y, QIAN E, SUN S, et al. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 2008, 40: 210-215</div>
   <div class="csl-entry">[7]	WOLCHIK S A, WEST S G, SANDLER I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报; ZHANG S, LI S. The past and future of Chinese psychology[J]. Acta Psychologica Sinica</div>
   <div class="csl-entry">[9]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019</div>
-  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 2019, 14(1)</div>
+  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1)</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215; ZHANG S. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 2008, 40(增刊): 210-215</div>
   <div class="csl-entry">[12]	张三. 心理学史[M]. 北京: 未名出版社, 2008; ZHANG S. History of psychology[M]. Beijing: Unnamed Publisher, 2008</div>
   <div class="csl-entry">[13]	张三. 心理学史[M]. 北京: 未名出版社, 2008; ZHANG S. History of psychology[M]. Beijing: Unnamed Publisher, 2008</div>
-  <div class="csl-entry">[14]	GIBBS J T, HUANG L N. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass, 1989</div>
+  <div class="csl-entry">[14]	GIBBS J T, HUANG L N. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989</div>
   <div class="csl-entry">[15]	LAPLACE P S. A philosophical essay on probabilities[M]. TRUSCOTT F W, EMORY F L, trans. Dover, 1951</div>
   <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951; LAPLACE P S. A philosophical essay on probabilities[M]. Dover, 1951</div>
   <div class="csl-entry">[17]	KLATZKY R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//FREKSA C, HABEL C, WENDER K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17</div>

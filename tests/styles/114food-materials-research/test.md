@@ -168,11 +168,11 @@ Undefined
   <div class="csl-entry">7. 	Wolchik SA, West SG, Sandler IN, Tein JY, Coatsworth D, et al. 2000. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <i>J. Consult. Clin. Psychol.</i> 68(5): 843–56</div>
   <div class="csl-entry">8. 	张三, 李四. 中国心理学的过去与未来. 心理学报</div>
   <div class="csl-entry">9. 	Huestegge SM, Raettig T, Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp. Psychol.</i></div>
-  <div class="csl-entry">10. 	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. 2019. Body ownership increases the interference between observed and executed movements. <i>PLoS ONE</i>. 14(1): </div>
+  <div class="csl-entry">10. 	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. 2019. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>. 14(1): </div>
   <div class="csl-entry">11. 	张三. 2008. 中国心理学的过去与未来. 心理学报. 40(增刊): 210–15</div>
   <div class="csl-entry">12. 	张三, 2008. 心理学史. 北京: 未名出版社. pp. 450</div>
   <div class="csl-entry">13. 	张三, ed, 2008. 心理学史. 北京: 未名出版社. pp. 450</div>
-  <div class="csl-entry">14. 	Gibbs JT, Huang LN, Eds., 1989. <i>Children of color: Psychological interventions with minority youth.</i> Hoboken, NJ, US: Jossey-Bass</div>
+  <div class="csl-entry">14. 	Gibbs JT, Huang LN, Eds., 1989. <i>Children of color: Psychological interventions with minority youth</i>. Hoboken, NJ, US: Jossey-Bass</div>
   <div class="csl-entry">15. 	Laplace P-S, 1951. <i>A philosophical essay on probabilities</i>. Dover</div>
   <div class="csl-entry">16. 	拉普拉斯, Pierre-Simon, 1951. 概率哲学. 北京: 未名出版社</div>
   <div class="csl-entry">17. 	Klatzky R, 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In <i>Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</i>, ed C Freksa, C Habel, KF Wender. Springer-Verlag. pp. 1–17</div>
@@ -339,14 +339,14 @@ Undefined
 ### APA 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">1. 	McCauley SM, Christiansen MH. 2019. Language learning as language use: A cross-linguistic model of child language development. <i>Psycsol. Rev.</i> 126(1): 1–51</div>
+  <div class="csl-entry">1. 	McCauley SM, Christiansen MH. 2019. Language learning as language use: A cross-linguistic model of child language development. <i>Psychol. Rev.</i> 126(1): 1–51</div>
   <div class="csl-entry">2. 	Ahmann E, Tuttle LJ, Saviet M, Wright SD. 2018. A descriptive review of ADHD coaching research: Implications for college students. <i>J. Postsecond. Educ. Disabil.</i> 31(1): 17–39</div>
   <div class="csl-entry">3. 	Anderson M. 2018. Getting consistent with consequences. <i>Educ. Leadership</i>. 76(1): 26–33</div>
   <div class="csl-entry">4. 	Goldman C. 2018. The complicated calibration of love, especially in adoption. <i>Chicago Tribune</i>, Nov. 28</div>
   <div class="csl-entry">5. 	Kalnay E, Kanamitsu M, Kistler R, Collins W, Deaven D, et al. 1996. The NCEP/NCAR 40-year reanalysis project. <i>Bull. Am. Meteorol. Soc.</i> 77(3): 437–71</div>
   <div class="csl-entry">6. 	De Vries R, Nieuwenhuijze M, Buitendijk SE, the members of Midwifery Science Work Group. 2013. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands. <i>Midwifery</i>. 29(10): 1122–28</div>
   <div class="csl-entry">7. 	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. 2019. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>. 14(1): </div>
-  <div class="csl-entry">8. 	Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp. Psychol.</i></div>
+  <div class="csl-entry">8. 	Huestegge SM, Raettig T, Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp. Psychol.</i></div>
   <div class="csl-entry">9. 	Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach. <i>Psychon. Bull. Rev.</i></div>
   <div class="csl-entry">10. 	Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz JJ, Toledano-Muñoz A, Fernández-Heute J, et al. 2018. Sensorineural anosmia: Relationship between subtype, recognition time, and age. <i>Clínica y Salud</i>. 28(3): 155–61</div>
   <div class="csl-entry">11. 	Piaget J. 1972. Intellectual evolution from adolescence to adulthood. <i>Hum. Dev.</i> 15(1): 1–12</div>

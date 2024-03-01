@@ -178,7 +178,7 @@
   <div class="csl-entry">[7]	S. A. Wolchik, S. G. West, I. N. Sandler, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来. 心理学报</div>
   <div class="csl-entry">[9]	Sujata M. Huestegge, Tim Raettig, Lynn Huestegge. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology, 2019</div>
-  <div class="csl-entry">[10]	Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, et al. Body ownership increases the interference between observed and executed movements. PLoS ONE, 2019, 14(1)</div>
+  <div class="csl-entry">[10]	Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, et al. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1)</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来. 心理学报, 2008, 40(增刊): 210-215</div>
   <div class="csl-entry">[12]	张三. 心理学史. 北京: 未名出版社, 2008</div>
   <div class="csl-entry">[13]	张三. 心理学史. 北京: 未名出版社, 2008</div>
@@ -349,14 +349,14 @@
 ### APA 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	S. M. McCauley, M. H. Christiansen. Language learning as language use: A cross-linguistic model of child language development. Psychological Review, 2019, 126(1): 1-51</div>
+  <div class="csl-entry">[1]	Stewart M. McCauley, Morten H. Christiansen. Language learning as language use: A cross-linguistic model of child language development. Psychological Review, 2019, 126(1): 1-51</div>
   <div class="csl-entry">[2]	E. Ahmann, L. J. Tuttle, M. Saviet, et al. A descriptive review of ADHD coaching research: Implications for college students. Journal of Postsecondary Education and Disability, 2018, 31(1): 17-39</div>
   <div class="csl-entry">[3]	M. Anderson. Getting consistent with consequences. Educational Leadership, 2018, 76(1): 26-33</div>
   <div class="csl-entry">[4]	C. Goldman. The complicated calibration of love, especially in adoption. Chicago Tribune, 2018-11-28</div>
   <div class="csl-entry">[5]	E. Kalnay, M. Kanamitsu, R. Kistler, et al. The NCEP/NCAR 40-year reanalysis project. Bulletin of the American Meteorological Society, 1996, 77(3): 437-471</div>
   <div class="csl-entry">[6]	R. De Vries, M. Nieuwenhuijze, S. E. Buitendijk, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands. Midwifery, 2013, 29(10): 1122-1128</div>
   <div class="csl-entry">[7]	D. Burin, K. Kilteni, M. Rabuffetti, et al. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1)</div>
-  <div class="csl-entry">[8]	S. M. Huestegge, T. Raettig, L. Huestegge. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology, 2019</div>
+  <div class="csl-entry">[8]	Sujata M. Huestegge, Tim Raettig, Lynn Huestegge. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology, 2019</div>
   <div class="csl-entry">[9]	T. Pachur, B. Scheibehenne. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach. Psychonomic Bulletin &#38; Review</div>
   <div class="csl-entry">[10]	V. Chaves-Morillo, C. Gómez Calero, J. J. Fernández-Muñoz, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age. Clínica y Salud, 2018, 28(3): 155-161</div>
   <div class="csl-entry">[11]	J. Piaget. Intellectual evolution from adolescence to adulthood. Human Development, 1972, 15(1): 1-12</div>

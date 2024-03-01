@@ -179,18 +179,18 @@ Qian等 （2009b）<br>
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	Anonymous. The new Grove dictionary of music and musicians[M]. 6. London : New York: Macmillan, 1980.</div>
-  <div class="csl-entry">[2]	Anonymous. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[2]	Anonymous. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   <div class="csl-entry">[3]	Auerbach J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[A]. Handbook of child psychology: Vol. 4. Socialization, personality, and social development[C]. Washington, DC, US: Wiley, 1993: 43-110.</div>
   <div class="csl-entry">[4]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory. Author. 1991.</div>
   <div class="csl-entry">[5]	Bergmann P G. Relativity[A]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
-  <div class="csl-entry">[6]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[6]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1).</div>
   <div class="csl-entry">[7]	Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.</div>
   <div class="csl-entry">[8]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[A]. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledgeSpringer-Verlag, 1998: 1-17.</div>
   <div class="csl-entry">[9]	Lanktree C B, Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[A]. [C]. San Diego, CA: , 1991.</div>
   <div class="csl-entry">[10]	Laplace P-S. A philosophical essay on probabilities[M]. Dover, 1951.</div>
   <div class="csl-entry">[11]	Lichstein K L, Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[A]. Reducing medication in geriatric populations[C]. Uppsala, Sweden: , 1990.</div>
   <div class="csl-entry">[12]	Mitchell T R, Larson J R. People in organizations: An introduction to organizational behavior[M]. 3. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[13]	Mou W, McNamara T P. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.</div>
+  <div class="csl-entry">[13]	Mou W, McNamara T P. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.</div>
   <div class="csl-entry">[14]	Mou W, Zhang K, McNamara T P. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171-180.</div>
   <div class="csl-entry">[15]	Ruby J, Fulton C. Beyond redlining: Editing software that works[A]. [C]. Washington, DC: , 1993.</div>
   <div class="csl-entry">[16]	Wang D F, Cui H. Theoretical analysis of the seven factor model of Chinese personality[A]. Selected papers on personality and social psychology[C]. Beijing: Peking University Press, 2004: 46-84.</div>

@@ -168,11 +168,11 @@ Undefined
   <div class="csl-entry">[7]	Wolchik S A, West S G, Sandler I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <i>Journal of Consulting and Clinical Psychology</i>, 2000, 68(5): 843-856.</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报.</div>
   <div class="csl-entry">[9]	Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Experimental Psychology</i>, 2019.</div>
-  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements. <i>PLoS ONE</i>, 2019, 14(1).</div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>, 2019, 14(1).</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008（增刊）.</div>
   <div class="csl-entry">[12]	张三. 心理学史[M]. 北京, 2008.</div>
   <div class="csl-entry">[13]	张三. 心理学史[M]. 北京, 2008.</div>
-  <div class="csl-entry">[14]	Gibbs J T, Huang L N. <i>Children of color: Psychological interventions with minority youth.</i> Hoboken, NJ, US, 1989.</div>
+  <div class="csl-entry">[14]	Gibbs J T, Huang L N. <i>Children of color: Psychological interventions with minority youth</i>. Hoboken, NJ, US, 1989.</div>
   <div class="csl-entry">[15]	Laplace P S. <i>A philosophical essay on probabilities</i>. Truscott F W, Emory F Ltrans. 1951.</div>
   <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四译. 北京, 1951.</div>
   <div class="csl-entry">[17]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections//Freksa C, Habel C, Wender K F. <i>Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</i>. 1998: 1-17.</div>

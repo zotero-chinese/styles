@@ -161,7 +161,7 @@ Undefined
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">中国心理学的过去与未来	</div>
   <div class="csl-entry">中国心理学的过去与未来	</div>
-  <div class="csl-entry">Intrinsic frames of reference in spatial memory.	</div>
+  <div class="csl-entry">Intrinsic frames of reference in spatial memory	</div>
   <div class="csl-entry">中国心理学的过去与未来	</div>
   <div class="csl-entry">Frames of reference in spatial memories acquired from language	</div>
   <div class="csl-entry">中国心理学的过去与未来	</div>
@@ -172,7 +172,7 @@ Undefined
   <div class="csl-entry">中国心理学的过去与未来	</div>
   <div class="csl-entry">心理学史	</div>
   <div class="csl-entry">心理学史	</div>
-  <div class="csl-entry">Children of color: Psychological interventions with minority youth.	</div>
+  <div class="csl-entry">Children of color: Psychological interventions with minority youth	</div>
   <div class="csl-entry">A philosophical essay on probabilities	</div>
   <div class="csl-entry">概率哲学	</div>
   <div class="csl-entry">Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections	</div>

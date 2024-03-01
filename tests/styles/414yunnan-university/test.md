@@ -183,7 +183,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">王登峰, 崔红. 2004. 中国人“大七”人格结构的理论分析[M]. 王登峰, 侯玉波, 编//人格与社会心理学论丛. 北京: 北京大学出版社: 46–84.</div>
   <div class="csl-entry">Anonymous. 1980. The new Grove dictionary of music and musicians[M]. Sadie S, ed.. 6 edition. London : New York: Macmillan.</div>
   <div class="csl-entry">佚名. 1986. 现代汉语频率词典[M]. 北京: 北京语言学院出版社.</div>
-  <div class="csl-entry">Anonymous. 1989. Children of color: Psychological interventions with minority youth.[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass.</div>
+  <div class="csl-entry">Anonymous. 1989. Children of color: Psychological interventions with minority youth[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">佚名. 2004. 现代汉语规范辞典[M]. 李行健, 编. 北京: 外语教学与研究出版社: 255.</div>
   <div class="csl-entry">佚名. 2008. 心理学史[M]. 张三, 编. 北京: 未名出版社.</div>
   <div class="csl-entry">余林. 2000. 汉语语言产生中的语音表征与加工[D]. 北京师范大学.</div>
@@ -198,14 +198,14 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">AUERBACH J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]. Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4 edition. Washington, DC, US: Wiley: 43–110.</div>
   <div class="csl-entry">AUSTRALIAN BUREAU OF STATISTICS. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author.</div>
   <div class="csl-entry">BERGMANN P G. 1993. Relativity[M]. New York: Encyclopedia Britannica: 501–508.</div>
-  <div class="csl-entry">BURIN D, KILTENI K, RABUFFETTI M, et al. 2019. Body ownership increases the interference between observed and executed movements: e0209899[J]. PLoS ONE. 14(1).</div>
+  <div class="csl-entry">BURIN D, KILTENI K, RABUFFETTI M, et al. 2019. Body ownership increases the interference between observed and executed movements: e0209899[J]. PLOS ONE. 14(1).</div>
   <div class="csl-entry">HUESTEGGE S M, RAETTIG T, HUESTEGGE L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology.</div>
   <div class="csl-entry">KLATZKY R. 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]. Freksa C, Habel C, Wender K F, eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1–17.</div>
   <div class="csl-entry">LANKTREE C B, BRIERE J N. 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]. .</div>
   <div class="csl-entry">LAPLACE P-S. 1951. A philosophical essay on probabilities[M]. Truscott F W, Emory F L, trans.. Dover.</div>
   <div class="csl-entry">LICHSTEIN K L, JOHNSON R S. 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. .</div>
   <div class="csl-entry">MITCHELL T R, LARSON J R. 1987. People in organizations: An introduction to organizational behavior[M]. 3 edition. New York: McGraw-Hill.</div>
-  <div class="csl-entry">MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition. 28: 162–170.</div>
+  <div class="csl-entry">MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition. 28: 162–170.</div>
   <div class="csl-entry">MOU W, ZHANG K, MCNAMARA T P. 2004. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition. 30: 171–180.</div>
   <div class="csl-entry">RUBY J, FULTON C. 1993. Beyond redlining: Editing software that works[C]. .</div>
   <div class="csl-entry">WANG D F, CUI H. 2004. Theoretical analysis of the seven factor model of Chinese personality[M]. Wang D F, Hou Y B, eds.//Selected papers on personality and social psychology. Beijing: Peking University Press: 46–84.</div>

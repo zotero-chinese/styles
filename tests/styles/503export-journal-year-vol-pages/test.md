@@ -168,7 +168,7 @@ Undefined
   <div class="csl-entry">Journal of Consulting and Clinical Psychology (2000, 68(5): 843–856)	 </div>
   <div class="csl-entry">心理学报 ([日期不详])	 </div>
   <div class="csl-entry">Experimental Psychology (2019)	 </div>
-  <div class="csl-entry">PLoS ONE (2019, 14(1))	 </div>
+  <div class="csl-entry">PLOS ONE (2019, 14(1))	 </div>
   <div class="csl-entry">心理学报 (2008, 40(增刊): 210–215)	 </div>
   <div class="csl-entry">. 北京: 未名出版社, 2008: 450	</div>
   <div class="csl-entry">. 张三, 编. 北京: 未名出版社, 2008: 450	</div>

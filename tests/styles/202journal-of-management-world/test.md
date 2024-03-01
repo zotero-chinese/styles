@@ -221,15 +221,15 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（15）Auerbach, J. S., 1993, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation”, in Bornstein, M. F., ed: <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley.</div>
   <div class="csl-entry">（16）Australian Bureau of Statistics, 1991, “Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990”, 3209.1.</div>
   <div class="csl-entry">（17）Bergmann, P. G., 1993, <i>Relativity</i>, New York: Encyclopedia Britannica.</div>
-  <div class="csl-entry">（18）Burin, D., Kilteni, K., Rabuffetti, M., Slater, M. and Pia, L., 2019, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLoS ONE</i>, 14(1).</div>
-  <div class="csl-entry">（19）Gibbs, J. T. and Huang, L. N., eds., 1989, <i>Children of Color: Psychological Interventions with Minority Youth.</i>, Hoboken, NJ, US: Jossey-Bass.</div>
+  <div class="csl-entry">（18）Burin, D., Kilteni, K., Rabuffetti, M., Slater, M. and Pia, L., 2019, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, 14(1).</div>
+  <div class="csl-entry">（19）Gibbs, J. T. and Huang, L. N., eds., 1989, <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">（20）Huestegge, S. M., Raettig, T. and Huestegge, L., 2019, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>.</div>
   <div class="csl-entry">（21）Klatzky, R., 1998, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections”, in Freksa, C., C. Habel and K. F. Wender, eds: <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag.</div>
   <div class="csl-entry">（22）Lanktree, C. B. and Briere, J. N., 1991, “Early Data on the Trauma Symptom Checklist for Children (TSC-C)”, San Diego, CA.</div>
   <div class="csl-entry">（23）Laplace, P. S., 1951, <i>A Philosophical Essay on Probabilities</i>, Dover.</div>
   <div class="csl-entry">（24）Lichstein, K. L. and Johnson, R. S., 1990, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs”, in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden.</div>
   <div class="csl-entry">（25）Mitchell, T. R. and Larson, J. R., 1987, <i>People in Organizations: An Introduction to Organizational Behavior</i>, New York: McGraw-Hill.</div>
-  <div class="csl-entry">（26）Mou, W. and McNamara, T. P., 2002, “Intrinsic Frames of Reference in Spatial Memory.”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.28, pp.162~170.</div>
+  <div class="csl-entry">（26）Mou, W. and McNamara, T. P., 2002, “Intrinsic Frames of Reference in Spatial Memory”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.28, pp.162~170.</div>
   <div class="csl-entry">（27）Mou, W., Zhang, K. and McNamara, T. P., 2004, “Frames of Reference in Spatial Memories Acquired from Language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.30, pp.171~180.</div>
   <div class="csl-entry">（28）Ruby, J. and Fulton, C., 1993, “Beyond Redlining: Editing Software That Works”, Washington, DC.</div>
   <div class="csl-entry">（29）Sadie, S., ed., 1980, <i>The New Grove Dictionary of Music and Musicians</i>, London : New York: Macmillan.</div>
@@ -457,7 +457,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（71）Ho, H. K., 2014, “Teacher Preparation for Early Childhood Special Education in Taiwan”, No.ED545393.</div>
   <div class="csl-entry">（72）Hollander, M. M., 2017, <i>Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment</i>, University of Wisconsin–Madison.</div>
   <div class="csl-entry">（73）Housand, B., 2016, “Game on! Integrating Games and Simulations in the Classroom”, PowerPoint slides.</div>
-  <div class="csl-entry">（74）Huestegge, S. M., Raettig, T. and Huestegge, L., “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>.</div>
+  <div class="csl-entry">（74）Huestegge, S. M., Raettig, T. and Huestegge, L., 2019, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>.</div>
   <div class="csl-entry">（75）Hutcheson, V. H., 2012, <i>Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents</i>, The College of William &#38; Mary.</div>
   <div class="csl-entry">（76）Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., Aaron, A., Court, B. B. C. and Joseph, D., 1996, “The NCEP/NCAR 40-Year Reanalysis Project”, <i>Bulletin of the American Meteorological Society</i>, 77(3), pp.437~471.</div>
   <div class="csl-entry">（77）King, M. L., Jr., 1963, <i>I Have a Dream</i>, American Rhetoric.</div>

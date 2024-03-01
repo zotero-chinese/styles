@@ -108,7 +108,7 @@ Undefined
   <div class="csl-entry">Journal of Consulting and Clinical Psychology</div>
   <div class="csl-entry">心理学报</div>
   <div class="csl-entry">Experimental Psychology</div>
-  <div class="csl-entry">PLoS ONE</div>
+  <div class="csl-entry">PLOS ONE</div>
   <div class="csl-entry">心理学报</div>
   <div class="csl-entry">Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</div>
   <div class="csl-entry">Selected papers on personality and social psychology</div>

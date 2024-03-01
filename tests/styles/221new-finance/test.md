@@ -204,7 +204,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[16] AUERBACH J S, 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation//BORNSTEIN M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley: 43-110.</div>
   <div class="csl-entry">[17] Australian Bureau of Statistics, 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1. Canberra, Australian Capital Territory: Author.</div>
   <div class="csl-entry">[18] BERGMANN P G, 1993. Relativity//The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica: 501-508.</div>
-  <div class="csl-entry">[19] BURIN D, KILTENI K, RABUFFETTI M, et al., 2019. Body ownership increases the interference between observed and executed movements. PLoS ONE, 14(1).</div>
+  <div class="csl-entry">[19] BURIN D, KILTENI K, RABUFFETTI M, et al., 2019. Body ownership increases the interference between observed and executed movements. PLOS ONE, 14(1).</div>
   <div class="csl-entry">[20] GIBBS J T, HUANG L N, 1989. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">[21] HUESTEGGE S M, RAETTIG T, HUESTEGGE L, 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology.</div>
   <div class="csl-entry">[22] KLATZKY R, 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections//FREKSA C, HABEL C, WENDER K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1-17.</div>
@@ -482,7 +482,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[114] HO H K, 2014. Teacher preparation for early childhood special education in Taiwan. ERIC.</div>
   <div class="csl-entry">[115] HOLLANDER M M, 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373. University of Wisconsin–Madison.</div>
   <div class="csl-entry">[116] HOUSAND B, 2016. Game on! Integrating games and simulations in the classroom. SlideShare.</div>
-  <div class="csl-entry">[117] HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology.</div>
+  <div class="csl-entry">[117] HUESTEGGE S M, RAETTIG T, HUESTEGGE L, 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology.</div>
   <div class="csl-entry">[118] HUTCHESON V H, 2012. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents. The College of William &#38; Mary.</div>
   <div class="csl-entry">[119] JACKSON P, 2001. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company.</div>
   <div class="csl-entry">[120] KALNAY E, KANAMITSU M, KISTLER R, et al., 1996. The NCEP/NCAR 40-year reanalysis project. Bulletin of the American Meteorological Society, 77(3): 437-471.</div>

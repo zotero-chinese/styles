@@ -161,18 +161,18 @@ Undefined
 
 <sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年，第210–215页。<br>
 <sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》2008年，第210–215页。<br>
-<sup>3</sup> Weimin Mou and Timothy P. McNamara, “Intrinsic frames of reference in spatial memory.,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 28, 2002, pp. 162–170.<br>
+<sup>3</sup> Weimin Mou and Timothy P. McNamara, “Intrinsic frames of reference in spatial memory,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 28, 2002, pp. 162–170.<br>
 <sup>4</sup> 赵一等：《中国心理学的过去与未来》，《心理学报》2008年，第210–215页。<br>
 <sup>5</sup> Weimin Mou, Kan Zhang and Timothy P. McNamara, “Frames of reference in spatial memories acquired from language,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 30, 2004, pp. 171–180.<br>
 <sup>6</sup> 赵一一等：《中国心理学的过去与未来》，《心理学报》2008年，第210–215页。<br>
 <sup>7</sup> S. A. Wolchik et al., “An experimental evaluation of theory-based mother and mother-child programs for children of divorce,” <i>Journal of Consulting and Clinical Psychology</i>, Vol. 68, No. 5, 2000, pp. 843–856.<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》。<br>
 <sup>9</sup> Sujata M. Huestegge, Tim Raettig and Lynn Huestegge, “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing,” <i>Experimental Psychology</i>, 2019.<br>
-<sup>10</sup> Dalila Burin et al., “Body ownership increases the interference between observed and executed movements,” <i>PLoS ONE</i>, Vol. 14, No. 1, 2019.<br>
+<sup>10</sup> Dalila Burin et al., “Body ownership increases the interference between observed and executed movements,” <i>PLOS ONE</i>, Vol. 14, No. 1, 2019.<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年第增刊期，第210–215页。<br>
 <sup>12</sup> 张三：《心理学史》，未名出版社2008年版。<br>
 <sup>13</sup> 张三主编：《心理学史》，未名出版社2008年版。<br>
-<sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang eds., <i>Children of color: Psychological interventions with minority youth.</i>, Jossey-Bass, 1989.<br>
+<sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang eds., <i>Children of color: Psychological interventions with minority youth</i>, Jossey-Bass, 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace, <i>A philosophical essay on probabilities</i> trans. F. W. Truscott and F. L. Emory, Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon著，张三、李四译：《概率哲学》，未名出版社1951年版。<br>
 <sup>17</sup> Roberta Klatzky, “Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections,” in C. Freksa, C. Habel and K. F. Wender eds., <i>Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</i>, Springer-Verlag, 1998, pp. 1–17.<br>
@@ -333,14 +333,14 @@ Undefined
 
 ### APA 示例文献
 
-<sup>1</sup> S. M. McCauley and M. H. Christiansen, “Language learning as language use: A cross-linguistic model of child language development,” <i>Psychological Review</i>, Vol. 126, No. 1, 2019, pp. 1–51.<br>
+<sup>1</sup> Stewart M. McCauley and Morten H. Christiansen, “Language learning as language use: A cross-linguistic model of child language development,” <i>Psychological Review</i>, Vol. 126, No. 1, 2019, pp. 1–51.<br>
 <sup>2</sup> E. Ahmann et al., “A descriptive review of ADHD coaching research: Implications for college students,” <i>Journal of Postsecondary Education and Disability</i>, Vol. 31, No. 1, 2018, pp. 17–39.<br>
 <sup>3</sup> M. Anderson, “Getting consistent with consequences,” <i>Educational Leadership</i>, Vol. 76, No. 1, 2018, pp. 26–33.<br>
 <sup>4</sup> C. Goldman, “The complicated calibration of love, especially in adoption,” <i>Chicago Tribune</i>, November 28, 2018.<br>
 <sup>5</sup> E. Kalnay et al., “The NCEP/NCAR 40-year reanalysis project,” <i>Bulletin of the American Meteorological Society</i>, Vol. 77, No. 3, 1996, pp. 437–471.<br>
 <sup>6</sup> R. De Vries et al., “What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, Vol. 29, No. 10, 2013, pp. 1122–1128.<br>
 <sup>7</sup> D. Burin et al., “Body ownership increases the interference between observed and executed movements,” <i>PLOS ONE</i>, Vol. 14, No. 1, 2019.<br>
-<sup>8</sup> S. M. Huestegge, T. Raettig and L. Huestegge, “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing,” <i>Experimental Psychology</i>, .<br>
+<sup>8</sup> Sujata M. Huestegge, Tim Raettig and Lynn Huestegge, “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing,” <i>Experimental Psychology</i>, 2019.<br>
 <sup>9</sup> T. Pachur and B. Scheibehenne, “Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach,” <i>Psychonomic Bulletin &#38; Review</i>, .<br>
 <sup>10</sup> V. Chaves-Morillo et al., “Sensorineural anosmia: Relationship between subtype, recognition time, and age,” <i>Clínica y Salud</i>, Vol. 28, No. 3, 2018, pp. 155–161.<br>
 <sup>11</sup> J. Piaget, “Intellectual evolution from adolescence to adulthood,” <i>Human Development</i>, Vol. 15, No. 1, 1972, pp. 1–12.<br>

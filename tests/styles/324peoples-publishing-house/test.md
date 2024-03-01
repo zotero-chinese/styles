@@ -169,18 +169,18 @@
 
 <sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
-<sup>3</sup> Mou, Weimin and McNamara, Timothy P., “Intrinsic Frames of Reference in Spatial Memory.”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.28, 2002, pp.162-170.<br>
+<sup>3</sup> Mou, Weimin and McNamara, Timothy P., “Intrinsic Frames of Reference in Spatial Memory”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.28, 2002, pp.162-170.<br>
 <sup>4</sup> 赵一、钱二、孙三、李四、周五、吴六、郑七：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>5</sup> Mou, Weimin, Zhang, Kan, and McNamara, Timothy P., “Frames of Reference in Spatial Memories Acquired from Language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.30, 2004, pp.171-180.<br>
 <sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>7</sup> Wolchik, S. A., West, S. G., Sandler, I. N., Tein, J. Y., Coatsworth, D., Lengua, L., Weiss, L., Anderson, E. R., Greene, S. M., and Griffin, W. A., “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce”, <i>Journal of Consulting and Clinical Psychology</i>, Vol.68, No.5, October 2000, pp.843-856.<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》出版时间不详。<br>
 <sup>9</sup> Huestegge, Sujata M., Raettig, Tim, and Huestegge, Lynn, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>, 2019.<br>
-<sup>10</sup> Burin, Dalila, Kilteni, Konstantina, Rabuffetti, Marco, Slater, Mel, and Pia, Lorenzo, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLoS ONE</i>, Vol.14, No.1, 2019.<br>
+<sup>10</sup> Burin, Dalila, Kilteni, Konstantina, Rabuffetti, Marco, Slater, Mel, and Pia, Lorenzo, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年。<br>
 <sup>12</sup> 张三：《心理学史》，未名出版社2008年版。<br>
 <sup>13</sup> 张三主编：《心理学史》，未名出版社2008年版。<br>
-<sup>14</sup> Gibbs, Jewelle Taylor and Huang, Larke Nahme, eds., <i>Children of Color: Psychological Interventions with Minority Youth.</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
+<sup>14</sup> Gibbs, Jewelle Taylor and Huang, Larke Nahme, eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> Laplace, Pierre-Simon, <i>A Philosophical Essay on Probabilities</i>, trans. Truscott, F. W. and Emory, F. L., Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，未名出版社1951年版。<br>
 <sup>17</sup> Klatzky, Roberta, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections”, in Freksa, C., Habel, C., and Wender, K. F., eds., <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998.<br>
@@ -341,14 +341,14 @@
 
 ### APA 示例文献
 
-<sup>1</sup> McCauley, S. M. and Christiansen, M. H., “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, Vol.126, No.1, 2019, pp.1-51.<br>
+<sup>1</sup> McCauley, Stewart M. and Christiansen, Morten H., “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, Vol.126, No.1, 2019, pp.1-51.<br>
 <sup>2</sup> Ahmann, E., Tuttle, L. J., Saviet, M., and Wright, S. D., “A Descriptive Review of ADHD Coaching Research: Implications for College Students”, <i>Journal of Postsecondary Education and Disability</i>, Vol.31, No.1, 2018, pp.17-39.<br>
 <sup>3</sup> Anderson, M., “Getting Consistent with Consequences”, <i>Educational Leadership</i>, Vol.76, No.1, 2018, pp.26-33.<br>
 <sup>4</sup> Goldman, C., “The Complicated Calibration of Love, Especially in Adoption”, <i>Chicago Tribune</i>, November 2018.<br>
 <sup>5</sup> Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., Aaron, A., Court, B. Baron C., and Joseph, D., “The NCEP/NCAR 40-Year Reanalysis Project”, <i>Bulletin of the American Meteorological Society</i>, Vol.77, No.3, January 1996, pp.437-471.<br>
 <sup>6</sup> De Vries, R., Nieuwenhuijze, M., Buitendijk, S. E., and the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, Vol.29, No.10, 2013, pp.1122-1128.<br>
 <sup>7</sup> Burin, D., Kilteni, K., Rabuffetti, M., Slater, M., and Pia, L., “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
-<sup>8</sup> Huestegge, S. M., Raettig, T., and Huestegge, L., “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>.<br>
+<sup>8</sup> Huestegge, Sujata M., Raettig, Tim, and Huestegge, Lynn, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>, 2019.<br>
 <sup>9</sup> Pachur, T. and Scheibehenne, B., “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach”, <i>Psychonomic Bulletin &#38; Review</i>.<br>
 <sup>10</sup> Chaves-Morillo, V., Gómez Calero, C., Fernández-Muñoz, J. J., Toledano-Muñoz, A., Fernández-Heute, J., Martinez-Monge, N., Palacios-Ceña, D., and Peñacoba-Puente, C., “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age”, <i>Clínica y Salud</i>, Vol.28, No.3, 2018, pp.155-161.<br>
 <sup>11</sup> Piaget, J., “Intellectual Evolution from Adolescence to Adulthood”, trans. Bliss, J. and Furth, H., <i>Human Development</i>, Vol.15, No.1, 1972, pp.1-12.<br>

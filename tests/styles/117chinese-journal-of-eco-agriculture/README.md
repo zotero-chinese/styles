@@ -10,7 +10,7 @@
 
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	ALTIERI M A, NICHOLLS C I. Biodiversity and pest management in agroecosystems[M]. 2nd ed. New York: Food Products Press, 2004</div>
-  <div class="csl-entry">[2]	BIESMEIJER J C, ROBERTS S P M, REEMER M, et al. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands.[J]. Science, 2006, 313(5785): 351-354</div>
+  <div class="csl-entry">[2]	BIESMEIJER J C, ROBERTS S P M, REEMER M, et al. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands[J]. Science, 2006, 313(5785): 351-354</div>
   <div class="csl-entry">[3]	GARNSEY S M, PERMAR T A, CAMBRA M, et al. Direct tissue blot immunoassay (DTBIA) for detection of citrus tristeza virus (CTV)[C]//MORENO P, DE GRACA J V, YOKOMI R K. Proceedings of the 12th Conference on International Organization of Citrus Virologist. Riverside: Vol. 12. Riverside, USA, 1993: 39-50</div>
   <div class="csl-entry">[4]	MCDONALD A H, NICOL J M. Nematode parasites of cereals[M]//LUC M, SIKORA R A, BRIDGE J. Plant parasitic nematodes in subtropical and tropical agriculture. Wallingford, UK: CABI Publishing, 2005: 131-191</div>
   <div class="csl-entry">[5]	钦俊德. 昆虫与植物的关系[M]. 北京: 科学出版社, 1987: 52-78; QIN J D. The relationships between insects and plants[M]. Beijing: Science Press, 1987: 52-78</div>

@@ -174,18 +174,18 @@
 
 <sup>1</sup> 张三, “中国心理学的过去与未来,” 心理学报, vol. 40 (2008), pp. 210–215.<br>
 <sup>2</sup> 张三 and 李四, “中国心理学的过去与未来,” 心理学报, vol. 40 (2008), pp. 210–215.<br>
-<sup>3</sup> W. Mou and T. P. McNamara, “Intrinsic Frames of Reference in Spatial Memory.,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 28 (2002), pp. 162–170.<br>
+<sup>3</sup> W. Mou and T. P. McNamara, “Intrinsic Frames of Reference in Spatial Memory,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 28 (2002), pp. 162–170.<br>
 <sup>4</sup> 赵一, 钱二, 孙三, 李四, 周五, 吴六, and 郑七, “中国心理学的过去与未来,” 心理学报, vol. 40 (2008), pp. 210–215.<br>
 <sup>5</sup> W. Mou, K. Zhang, and T. P. McNamara, “Frames of Reference in Spatial Memories Acquired from Language,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 30 (2004), pp. 171–180.<br>
 <sup>6</sup> 赵一一, 钱二, 孙三, 李四, 周五, 吴六, 郑七, and 王八, “中国心理学的过去与未来,” 心理学报, vol. 40 (2008), pp. 210–215.<br>
 <sup>7</sup> S. A. Wolchik, S. G. West, I. N. Sandler, J. Y. Tein, D. Coatsworth, L. Lengua, L. Weiss, E. R. Anderson, S. M. Greene, and W. A. Griffin, “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce,” <i>Journal of Consulting and Clinical Psychology</i>, vol. 68, no. 5 (October 2000), pp. 843–856.<br>
 <sup>8</sup> 张三 and 李四, “中国心理学的过去与未来,” 心理学报.<br>
 <sup>9</sup> S. M. Huestegge, T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i> (2019).<br>
-<sup>10</sup> D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLoS ONE</i>, vol. 14, no. 1 (2019).<br>
+<sup>10</sup> D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, vol. 14, no. 1 (2019).<br>
 <sup>11</sup> 张三, “中国心理学的过去与未来,” 心理学报, vol. 40, no. 增刊 (2008), pp. 210–215.<br>
 <sup>12</sup> 张三, 心理学史, 北京: 未名出版社, 2008.<br>
 <sup>13</sup> 张三 (ed.), 心理学史, 北京: 未名出版社, 2008.<br>
-<sup>14</sup> J. T. Gibbs and L. N. Huang (eds.), <i>Children of Color: Psychological Interventions with Minority Youth.</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
+<sup>14</sup> J. T. Gibbs and L. N. Huang (eds.), <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> P.-S. Laplace, <i>A Philosophical Essay on Probabilities</i>, trans. by F. W. Truscott and F. L. Emory, Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon, 概率哲学, trans. by 张三 and 李四, 北京: 未名出版社, 1951.<br>
 <sup>17</sup> R. Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections,” in C. Freksa, C. Habel, and K. F. Wender (eds.), <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998, pp. 1–17.<br>
@@ -353,7 +353,7 @@
 <sup>5</sup> E. Kalnay, M. Kanamitsu, R. Kistler, W. Collins, D. Deaven, L. Gandin, M. Iredell, S. Saha, G. White, J. Wollen, Y. Zhu, M. Chelliah, W. Ebisuzaki, W. Higgins, J. Janowiak, K. C. Mo, C. Ropelewski, J. Wang, A. Leetma, A. Aaron, B. B. C. Court, and D. Joseph, “The NCEP/NCAR 40-Year Reanalysis Project,” <i>Bulletin of the American Meteorological Society</i>, vol. 77, no. 3 (January 1996), pp. 437–471.<br>
 <sup>6</sup> R. De Vries, M. Nieuwenhuijze, S. E. Buitendijk, and the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, vol. 29, no. 10 (2013), pp. 1122–1128.<br>
 <sup>7</sup> D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, vol. 14, no. 1 (2019).<br>
-<sup>8</sup> S. M. Huestegge, T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i>.<br>
+<sup>8</sup> S. M. Huestegge, T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i> (2019).<br>
 <sup>9</sup> T. Pachur and B. Scheibehenne, “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach,” <i>Psychonomic Bulletin &#38; Review</i>.<br>
 <sup>10</sup> V. Chaves-Morillo, C. Gómez Calero, J. J. Fernández-Muñoz, A. Toledano-Muñoz, J. Fernández-Heute, N. Martinez-Monge, D. Palacios-Ceña, and C. Peñacoba-Puente, “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age,” <i>Clínica y Salud</i>, vol. 28, no. 3 (2018), pp. 155–161.<br>
 <sup>11</sup> J. Piaget, “Intellectual Evolution from Adolescence to Adulthood,” trans. by J. Bliss and H. Furth, <i>Human Development</i>, vol. 15, no. 1 (1972), pp. 1–12.<br>

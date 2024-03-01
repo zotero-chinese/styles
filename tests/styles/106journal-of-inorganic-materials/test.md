@@ -168,7 +168,7 @@ Undefined
   <div class="csl-entry">[7]	WOLCHIK S A, WEST S G, SANDLER I N, <i>et al.</i> An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <i>Journal of Consulting and Clinical Psychology</i>, 2000, <b>68</b><b>(5)</b><b>: </b>843–856.</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来. 心理学报, [日期不详].</div>
   <div class="csl-entry">[9]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Experimental Psychology</i>, 2019. DOI: <a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
-  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, <i>et al.</i> Body ownership increases the interference between observed and executed movements: e0209899. <i>PLoS ONE</i>, 2019, <b>14</b><b>(1)</b>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
+  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, <i>et al.</i> Body ownership increases the interference between observed and executed movements: e0209899. <i>PLOS ONE</i>, 2019, <b>14</b><b>(1)</b>. DOI: <a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来. 心理学报, 2008, <b>40</b><b>(增刊)</b><b>: </b>210–215.</div>
   <div class="csl-entry">[12]	张三. 心理学史. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">[13]	佚名. 心理学史. 张三, 编. 北京: 未名出版社, 2008.</div>

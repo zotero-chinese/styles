@@ -168,7 +168,7 @@ Undefined
   <div class="csl-entry">[7]	Wolchik et al. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843–856.</div>
   <div class="csl-entry">[8]	张三等. 心理学报, [日期不详].</div>
   <div class="csl-entry">[9]	Huestegge et al. Experimental Psychology, 2019.</div>
-  <div class="csl-entry">[10]	Burin et al. PLoS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[10]	Burin et al. PLOS ONE, 2019, 14(1).</div>
   <div class="csl-entry">[11]	张三. 心理学报, 2008, 40(增刊): 210–215.</div>
   <div class="csl-entry">[12]	张三. . 北京: 未名出版社, 2008: 450.</div>
   <div class="csl-entry">[13]	佚名. . 张三, 编. 北京: 未名出版社, 2008: 450.</div>

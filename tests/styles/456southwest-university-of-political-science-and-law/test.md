@@ -316,18 +316,18 @@
 
 <sup>1</sup> 张三：“中国心理学的过去与未来”，《心理学报》，2008年。<br>
 <sup>2</sup> 张三，李四：“中国心理学的过去与未来”，《心理学报》，2008年。<br>
-<sup>3</sup> Mou, W. &#38; McNamara, T. P., “Intrinsic frames of reference in spatial memory.,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, (28), 2002.<br>
+<sup>3</sup> Mou, W. &#38; McNamara, T. P., “Intrinsic frames of reference in spatial memory,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, (28), 2002.<br>
 <sup>4</sup> 赵一，钱二，孙三等：“中国心理学的过去与未来”，《心理学报》，2008年。<br>
 <sup>5</sup> Mou, W., Zhang, K. &#38; McNamara, T. P., “Frames of reference in spatial memories acquired from language,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, (30), 2004.<br>
 <sup>6</sup> 赵一一，钱二，孙三等：“中国心理学的过去与未来”，《心理学报》，2008年。<br>
 <sup>7</sup> Wolchik, S. A., West, S. G., Sandler, I. N., et al., “An experimental evaluation of theory-based mother and mother-child programs for children of divorce,” <i>Journal of Consulting and Clinical Psychology</i>, (68)5, 2000.<br>
 <sup>8</sup> 张三，李四：“中国心理学的过去与未来”，《心理学报》。<br>
 <sup>9</sup> Huestegge, S. M., Raettig, T. &#38; Huestegge, L., “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing,” <i>Experimental Psychology</i>, 2019.<br>
-<sup>10</sup> Burin, D., Kilteni, K., Rabuffetti, M., et al., “Body ownership increases the interference between observed and executed movements,” <i>PLoS ONE</i>, (14)1, 2019.<br>
+<sup>10</sup> Burin, D., Kilteni, K., Rabuffetti, M., et al., “Body ownership increases the interference between observed and executed movements,” <i>PLOS ONE</i>, (14)1, 2019.<br>
 <sup>11</sup> 张三：“中国心理学的过去与未来”，《心理学报》，2008年增刊。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年版。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年版。<br>
-<sup>14</sup> Gibbs, J. T. &#38; Huang, L. N. eds., <i>Children of Color: Psychological Interventions with Minority Youth.</i>, Jossey-Bass, 1989.<br>
+<sup>14</sup> Gibbs, J. T. &#38; Huang, L. N. eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Jossey-Bass, 1989.<br>
 <sup>15</sup> Laplace, P.-S., <i>A Philosophical Essay on Probabilities</i>, translated by Truscott, F. W. &#38; Emory, F. L., Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年版。<br>
 <sup>17</sup> Klatzky, R., “Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections,” in Freksa, C., Habel, C. &#38; Wender, K. F. eds., <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998.<br>
@@ -495,7 +495,7 @@
 <sup>5</sup> Kalnay, E., Kanamitsu, M., Kistler, R., et al., “The NCEP/NCAR 40-year reanalysis project,” <i>Bulletin of the American Meteorological Society</i>, (77)3, 1996.<br>
 <sup>6</sup> De Vries, R., Nieuwenhuijze, M., Buitendijk, S. E., et al., “What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, (29)10, 2013.<br>
 <sup>7</sup> Burin, D., Kilteni, K., Rabuffetti, M., et al., “Body ownership increases the interference between observed and executed movements,” <i>PLOS ONE</i>, (14)1, 2019.<br>
-<sup>8</sup> Huestegge, S. M., Raettig, T. &#38; Huestegge, L., “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing,” <i>Experimental Psychology</i>.<br>
+<sup>8</sup> Huestegge, S. M., Raettig, T. &#38; Huestegge, L., “Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing,” <i>Experimental Psychology</i>, 2019.<br>
 <sup>9</sup> Pachur, T. &#38; Scheibehenne, B., “Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach,” <i>Psychonomic Bulletin &#38; Review</i>.<br>
 <sup>10</sup> Chaves-Morillo, V., Gómez Calero, C., Fernández-Muñoz, J. J., et al., “Sensorineural anosmia: Relationship between subtype, recognition time, and age,” <i>Clínica y Salud</i>, (28)3, 2018.<br>
 <sup>11</sup> Piaget, J., “Intellectual evolution from adolescence to adulthood,” <i>Human Development</i>, (15)1, 1972.<br>

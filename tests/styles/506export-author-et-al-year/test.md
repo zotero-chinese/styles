@@ -474,7 +474,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Ho, 2014.</div>
   <div class="csl-entry">Hollander, 2017.</div>
   <div class="csl-entry">Housand, 2016.</div>
-  <div class="csl-entry">Huestegge <i>et al.</i></div>
+  <div class="csl-entry">Huestegge <i>et al.</i>, 2019.</div>
   <div class="csl-entry">Hutcheson, 2012.</div>
   <div class="csl-entry">Jackson, 2001.</div>
   <div class="csl-entry">Kalnay <i>et al.</i>, 1996.</div>

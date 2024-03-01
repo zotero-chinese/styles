@@ -96,7 +96,7 @@
 		"language": "en-US",
 		"note": "publisher-place: US\npublisher: American Psychological Association",
 		"page": "162-170",
-		"title": "Intrinsic frames of reference in spatial memory.",
+		"title": "Intrinsic frames of reference in spatial memory",
 		"volume": "28",
 		"author": [
 			{
@@ -276,12 +276,12 @@
 	{
 		"id": "cps.4.07:1",
 		"type": "article-journal",
-		"container-title": "PLoS ONE",
+		"container-title": "PLOS ONE",
 		"DOI": "10.1371/journal.pone.0209899",
-		"ISSN": "1932-6203(Electronic)",
 		"issue": "1",
+		"journalAbbreviation": "PLOS ONE",
 		"language": "en-US",
-		"note": "publisher-place: US\npublisher: Public Library of Science\nnumber: e0209899",
+		"note": "number: e0209899",
 		"title": "Body ownership increases the interference between observed and executed movements",
 		"volume": "14",
 		"author": [
@@ -321,7 +321,7 @@
 		"DOI": "10.1027/1618-3169/a000440",
 		"journalAbbreviation": "Exp. Psychol.",
 		"language": "en-US",
-		"note": "available-date: 2019\nstatus: advance online publication",
+		"note": "status: advance online publication",
 		"title": "Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing",
 		"title-short": "Are face-incongruent voices harder to process?",
 		"author": [
@@ -418,7 +418,7 @@
 		"language": "en-US",
 		"publisher": "Jossey-Bass",
 		"publisher-place": "Hoboken, NJ, US",
-		"title": "Children of color: Psychological interventions with minority youth.",
+		"title": "Children of color: Psychological interventions with minority youth",
 		"title-short": "Children of color",
 		"editor": [
 			{

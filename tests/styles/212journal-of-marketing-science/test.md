@@ -618,9 +618,9 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">anonymous. 1986. Modern Chinese frequency dictionary[M]. 北京: 北京语言学院出版社，1986年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[15]	Anonymous. 1989. Children of color: Psychological interventions with minority youth.[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass，1989年
+  <div class="csl-entry">[15]	Anonymous. 1989. Children of color: Psychological interventions with minority youth[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass，1989年
 
-    <div class="csl-block">anonymous. 1989. Children of color: Psychological interventions with minority youth.[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass，1989年 (In Chinese)</div>
+    <div class="csl-block">anonymous. 1989. Children of color: Psychological interventions with minority youth[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass，1989年 (In Chinese)</div>
 </div>
   <div class="csl-entry">[16]	Anonymous. 2004. 现代汉语规范辞典[M]. 李行健, ed.. 北京: 外语教学与研究出版社，2004年
 
@@ -642,9 +642,9 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">BERGMANN P G. 1993. Relativity[M]. New York: Encyclopedia Britannica: 501-508 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[21]	BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. 2019. Body ownership increases the interference between observed and executed movements[J]，PLoS ONE, 14(1). 
+  <div class="csl-entry">[21]	BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. 2019. Body ownership increases the interference between observed and executed movements[J]，PLOS ONE, 14(1). 
 
-    <div class="csl-block">BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. 2019. Body ownership increases the interference between observed and executed movements[J]，PLoS ONE, 14(1). (In Chinese)</div>
+    <div class="csl-block">BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. 2019. Body ownership increases the interference between observed and executed movements[J]，PLOS ONE, 14(1). (In Chinese)</div>
 </div>
   <div class="csl-entry">[22]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]，Experimental Psychology
 
@@ -670,9 +670,9 @@ Qian Y et al. （2009a）<br>
 
     <div class="csl-block">MITCHELL T R, LARSON J R. 1987. People in organizations: An introduction to organizational behavior[M]. 3 edition. New York: McGraw-Hill，1987年 (In Chinese)</div>
 </div>
-  <div class="csl-entry">[28]	MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory.[J]，Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170. 
+  <div class="csl-entry">[28]	MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory[J]，Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170. 
 
-    <div class="csl-block">MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory.[J]，Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170. (In Chinese)</div>
+    <div class="csl-block">MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory[J]，Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170. (In Chinese)</div>
 </div>
   <div class="csl-entry">[29]	MOU W, ZHANG K, MCNAMARA T P. 2004. Frames of reference in spatial memories acquired from language[J]，Journal of Experimental Psychology: Learning, Memory, and Cognition, 30: 171-180. 
 

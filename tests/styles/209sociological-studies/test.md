@@ -240,8 +240,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Auerbach, John S. 1993, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation.” In M. F. Bornstein (ed.), <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>. Washington, DC, US: Wiley.</div>
   <div class="csl-entry">Australian Bureau of Statistics 1991, <i>Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990</i>. Canberra, Australian Capital Territory: Author.</div>
   <div class="csl-entry">Bergmann, P. G. 1993, “Relativity.” In <i>The New Encyclopedia Britannica</i>. New York: Encyclopedia Britannica.</div>
-  <div class="csl-entry">Burin, Dalila, Konstantina Kilteni, Marco Rabuffetti, Mel Slater &#38; Lorenzo Pia 2019, “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLoS ONE</i> 14(1).</div>
-  <div class="csl-entry">Gibbs, Jewelle Taylor &#38; Larke Nahme Huang 1989, <i>Children of Color: Psychological Interventions with Minority Youth.</i> Hoboken, NJ, US: Jossey-Bass.</div>
+  <div class="csl-entry">Burin, Dalila, Konstantina Kilteni, Marco Rabuffetti, Mel Slater &#38; Lorenzo Pia 2019, “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLOS ONE</i> 14(1).</div>
+  <div class="csl-entry">Gibbs, Jewelle Taylor &#38; Larke Nahme Huang 1989, <i>Children of Color: Psychological Interventions with Minority Youth</i>. Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">Huestegge, Sujata M., Tim Raettig &#38; Lynn Huestegge 2019, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>.</div>
   <div class="csl-entry">Klatzky, Roberta 1998, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections.” In C. Freksa, C. Habel &#38; K. F. Wender (eds.), <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>. Springer-Verlag.</div>
   <div class="csl-entry">Lanktree, Cheryl B. &#38; John N. Briere 1991, <i>Early Data on the Trauma Symptom Checklist for Children (TSC-C)</i>. San Diego, CA.</div>
@@ -519,7 +519,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Ho, H. K. 2014, <i>Teacher Preparation for Early Childhood Special Education in Taiwan</i>. ERIC.</div>
   <div class="csl-entry">Hollander, M. M. 2017, <i>Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment</i>. University of Wisconsin–Madison Doctoral dissertation.</div>
   <div class="csl-entry">Housand, Brian 2016, <i>Game on! Integrating Games and Simulations in the Classroom</i>. SlideShare.</div>
-  <div class="csl-entry">Huestegge, S. M., T. Raettig &#38; L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>.</div>
+  <div class="csl-entry">Huestegge, Sujata M., Tim Raettig &#38; Lynn Huestegge 2019, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>.</div>
   <div class="csl-entry">Hutcheson, V. H. 2012, <i>Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents</i>. The College of William &#38; Mary Master’s thesis.</div>
   <div class="csl-entry">Jackson, P. 2001, <i>The Lord of the Rings: The Fellowship of the Ring</i>. WingNut Films; The Saul Zaentz Company.</div>
   <div class="csl-entry">Kalnay, E., M. Kanamitsu, R. Kistler, W. Collins, D. Deaven, L. Gandin, M. Iredell, S. Saha, G. White, J. Wollen, Y. Zhu, M. Chelliah, W. Ebisuzaki, W. Higgins, J. Janowiak, K. C. Mo, C. Ropelewski, J. Wang, A. Leetma, A. Aaron, B. Baron C. Court &#38; D. Joseph 1996, “The NCEP/NCAR 40-Year Reanalysis Project.” <i>Bulletin of the American Meteorological Society</i> 77(3).</div>
@@ -538,7 +538,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Madigan, S. 2019, <i>Narrative Therapy</i>. American Psychological Association.</div>
   <div class="csl-entry">Malle, L. 1987, <i>Goodbye Children</i>. Nouvelles Éditions de Films.</div>
   <div class="csl-entry">Martin Lillie, C. M. 2016, <i>Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency</i> (<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>).</div>
-  <div class="csl-entry">McCauley, S. M. &#38; M. H. Christiansen 2019, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development.” <i>Psychological Review</i> 126(1).</div>
+  <div class="csl-entry">McCauley, Stewart M. &#38; Morten H. Christiansen 2019, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development.” <i>Psychological Review</i> 126(1).</div>
   <div class="csl-entry">McCurry, S. 1985, <i>Afghan Girl</i>.</div>
   <div class="csl-entry">McDaniel, S. H., E. Salas &#38; A. E. Kazak 2018, <i>American Psychologist</i>.</div>
   <div class="csl-entry">Meadows, D. H. 2008, <i>Thinking in Systems: A Primer</i>. Chelsea Green Publishing.</div>

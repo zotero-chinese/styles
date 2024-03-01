@@ -4,22 +4,22 @@
 		"type": "article-journal",
 		"container-title": "Psychological Review",
 		"DOI": "10.1037/rev0000126",
+		"ISSN": "1939-1471",
 		"issue": "1",
-		"journalAbbreviation": "Psycsol. Rev.",
+		"journalAbbreviation": "Psychol. Rev.",
 		"language": "en-US",
 		"page": "1-51",
 		"title": "Language learning as language use: A cross-linguistic model of child language development",
 		"title-short": "Language learning as language use",
-		"URL": "http://some.url",
 		"volume": "126",
 		"author": [
 			{
 				"family": "McCauley",
-				"given": "S. M."
+				"given": "Stewart M."
 			},
 			{
 				"family": "Christiansen",
-				"given": "M. H."
+				"given": "Morten H."
 			}
 		],
 		"issued": {
@@ -230,6 +230,7 @@
 		"type": "article-journal",
 		"container-title": "Midwifery",
 		"DOI": "10.1016/j.midw.2013.07.007",
+		"ISSN": "0266-6138",
 		"issue": "10",
 		"journalAbbreviation": "Midwifery",
 		"language": "en-US",
@@ -267,6 +268,7 @@
 		"container-title": "PLOS ONE",
 		"DOI": "10.1371/journal.pone.0209899",
 		"issue": "1",
+		"journalAbbreviation": "PLOS ONE",
 		"language": "en-US",
 		"note": "number: e0209899",
 		"title": "Body ownership increases the interference between observed and executed movements",
@@ -308,23 +310,30 @@
 		"DOI": "10.1027/1618-3169/a000440",
 		"journalAbbreviation": "Exp. Psychol.",
 		"language": "en-US",
-		"note": "available-date: 2019\nstatus: advance online publication",
+		"note": "status: advance online publication",
 		"title": "Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing",
 		"title-short": "Are face-incongruent voices harder to process?",
 		"author": [
 			{
 				"family": "Huestegge",
-				"given": "S. M."
+				"given": "Sujata M."
 			},
 			{
 				"family": "Raettig",
-				"given": "T."
+				"given": "Tim"
 			},
 			{
 				"family": "Huestegge",
-				"given": "L."
+				"given": "Lynn"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
 	},
 	{
 		"id": "apa.10.1:8",
@@ -4025,7 +4034,6 @@
 		"genre": "Video",
 		"language": "en-US",
 		"title": "These frogs walk instead of hop. https://scimag.2KlriwH",
-		"title-short": "These frogs walk instead of hop. https",
 		"URL": "https://www.facebook.com/ScienceNOW/videos/10155508587605108",
 		"author": [
 			{

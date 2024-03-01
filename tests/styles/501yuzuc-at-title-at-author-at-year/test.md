@@ -161,7 +161,7 @@ Undefined
 <div class="csl-bib-body hanging-indent">
   <div class="csl-entry">@中国心理学的过去与未来@张三. (@2008)</div>
   <div class="csl-entry">@中国心理学的过去与未来@张三, 李四. (@2008)</div>
-  <div class="csl-entry">@Intrinsic frames of reference in spatial memory.@Mou W, McNamara T P. (@2002)</div>
+  <div class="csl-entry">@Intrinsic frames of reference in spatial memory@Mou W, McNamara T P. (@2002)</div>
   <div class="csl-entry">@中国心理学的过去与未来@赵一, 钱二, 等. (@2008)</div>
   <div class="csl-entry">@Frames of reference in spatial memories acquired from language@Mou W, Zhang K, et al. (@2004)</div>
   <div class="csl-entry">@中国心理学的过去与未来@赵一一, 钱二, 等. (@2008)</div>
@@ -172,7 +172,7 @@ Undefined
   <div class="csl-entry">@中国心理学的过去与未来@张三. (@2008)</div>
   <div class="csl-entry">@心理学史@张三. (@2008)</div>
   <div class="csl-entry">@心理学史@佚名. (@2008)</div>
-  <div class="csl-entry">@Children of color: Psychological interventions with minority youth.@anonymous. (@1989)</div>
+  <div class="csl-entry">@Children of color: Psychological interventions with minority youth@anonymous. (@1989)</div>
   <div class="csl-entry">@A philosophical essay on probabilities@Laplace P-S. (@1951)</div>
   <div class="csl-entry">@概率哲学@拉普拉斯, Pierre-Simon. (@1951)</div>
   <div class="csl-entry">@Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections@Klatzky R. (@1998)</div>

@@ -169,18 +169,18 @@
 
 <sup>1</sup> 张三：《中国心理学的过去与未来》第40卷，《心理学报》2008年。<br>
 <sup>2</sup> 张三、李四：《中国心理学的过去与未来》第40卷，《心理学报》2008年。<br>
-<sup>3</sup> Weimin Mou、Timothy P. McNamara：《Intrinsic frames of reference in spatial memory.》第28卷，《Journal of Experimental Psychology: Learning, Memory, and Cognition》2002年。<br>
+<sup>3</sup> Weimin Mou、Timothy P. McNamara：《Intrinsic frames of reference in spatial memory》第28卷，《Journal of Experimental Psychology: Learning, Memory, and Cognition》2002年。<br>
 <sup>4</sup> 赵一、钱二、孙三、李四、周五、吴六、郑七：《中国心理学的过去与未来》第40卷，《心理学报》2008年。<br>
 <sup>5</sup> Weimin Mou、Kan Zhang、Timothy P. McNamara：《Frames of reference in spatial memories acquired from language》第30卷，《Journal of Experimental Psychology: Learning, Memory, and Cognition》2004年。<br>
 <sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》第40卷，《心理学报》2008年。<br>
 <sup>7</sup> S. A. Wolchik、S. G. West、I. N. Sandler、J. Y. Tein、D. Coatsworth、L. Lengua、L. Weiss、E. R. Anderson、S. M. Greene、W. A. Griffin：《An experimental evaluation of theory-based mother and mother-child programs for children of divorce》第68卷，《Journal of Consulting and Clinical Psychology》2000年第5期。<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》。<br>
 <sup>9</sup> Sujata M. Huestegge、Tim Raettig、Lynn Huestegge：《Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing》，《Experimental Psychology》2019年。<br>
-<sup>10</sup> Dalila Burin、Konstantina Kilteni、Marco Rabuffetti、Mel Slater、Lorenzo Pia：《Body ownership increases the interference between observed and executed movements》第14卷，《PLoS ONE》2019年第1期。<br>
+<sup>10</sup> Dalila Burin、Konstantina Kilteni、Marco Rabuffetti、Mel Slater、Lorenzo Pia：《Body ownership increases the interference between observed and executed movements》第14卷，《PLOS ONE》2019年第1期。<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》第40卷，《心理学报》2008年增刊。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年。<br>
-<sup>14</sup> Jewelle Taylor Gibbs、Larke Nahme Huang主编：《Children of color: Psychological interventions with minority youth.》，Hoboken, NJ, US：Jossey-Bass，1989年。<br>
+<sup>14</sup> Jewelle Taylor Gibbs、Larke Nahme Huang主编：《Children of color: Psychological interventions with minority youth》，Hoboken, NJ, US：Jossey-Bass，1989年。<br>
 <sup>15</sup> Pierre-Simon Laplace：《A philosophical essay on probabilities》，F. W. Truscott、F. L. Emory译，Dover，1951年。<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年。<br>
 <sup>17</sup> Roberta Klatzky：《Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections》，C. Freksa、C. Habel、K. F. Wender主编：《Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge》，Springer-Verlag，1998年。<br>
@@ -341,14 +341,14 @@
 
 ### APA 示例文献
 
-<sup>1</sup> S. M. McCauley、M. H. Christiansen：《Language learning as language use: A cross-linguistic model of child language development》第126卷，《Psychological Review》2019年第1期。<br>
+<sup>1</sup> Stewart M. McCauley、Morten H. Christiansen：《Language learning as language use: A cross-linguistic model of child language development》第126卷，《Psychological Review》2019年第1期。<br>
 <sup>2</sup> E. Ahmann、L. J. Tuttle、M. Saviet、S. D. Wright：《A descriptive review of ADHD coaching research: Implications for college students》第31卷，《Journal of Postsecondary Education and Disability》2018年第1期。<br>
 <sup>3</sup> M. Anderson：《Getting consistent with consequences》第76卷，《Educational Leadership》2018年第1期。<br>
 <sup>4</sup> C. Goldman：《The complicated calibration of love, especially in adoption》，《Chicago Tribune》2018年。<br>
 <sup>5</sup> E. Kalnay、M. Kanamitsu、R. Kistler、W. Collins、D. Deaven、L. Gandin、M. Iredell、S. Saha、G. White、J. Wollen、Y. Zhu、M. Chelliah、W. Ebisuzaki、W. Higgins、J. Janowiak、K. C. Mo、C. Ropelewski、J. Wang、A. Leetma、A. Aaron、B. Baron C. Court、D. Joseph：《The NCEP/NCAR 40-year reanalysis project》第77卷，《Bulletin of the American Meteorological Society》1996年第3期。<br>
 <sup>6</sup> R. De Vries、M. Nieuwenhuijze、S. E. Buitendijk、the members of Midwifery Science Work Group：《What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands》第29卷，《Midwifery》2013年第10期。<br>
 <sup>7</sup> D. Burin、K. Kilteni、M. Rabuffetti、M. Slater、L. Pia：《Body ownership increases the interference between observed and executed movements》第14卷，《PLOS ONE》2019年第1期。<br>
-<sup>8</sup> S. M. Huestegge、T. Raettig、L. Huestegge：《Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing》，《Experimental Psychology》。<br>
+<sup>8</sup> Sujata M. Huestegge、Tim Raettig、Lynn Huestegge：《Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing》，《Experimental Psychology》2019年。<br>
 <sup>9</sup> T. Pachur、B. Scheibehenne：《Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach》，《Psychonomic Bulletin &#38; Review》。<br>
 <sup>10</sup> V. Chaves-Morillo、C. Gómez Calero、J. J. Fernández-Muñoz、A. Toledano-Muñoz、J. Fernández-Heute、N. Martinez-Monge、D. Palacios-Ceña、C. Peñacoba-Puente：《Sensorineural anosmia: Relationship between subtype, recognition time, and age》第28卷，《Clínica y Salud》2018年第3期。<br>
 <sup>11</sup> J. Piaget：《Intellectual evolution from adolescence to adulthood》第15卷，J. Bliss、H. Furth译，《Human Development》1972年第1期。<br>

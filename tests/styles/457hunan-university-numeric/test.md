@@ -180,7 +180,7 @@
   <div class="csl-entry">[7]	Wolchik S A, West S G, Sandler I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856</div>
   <div class="csl-entry">[8]	张三，李四．中国心理学的过去与未来．心理学报</div>
   <div class="csl-entry">[9]	Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology, 2019</div>
-  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements. PLoS ONE, 2019, 14(1)</div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1)</div>
   <div class="csl-entry">[11]	张三．中国心理学的过去与未来．心理学报，2008，40(增刊)：210-215</div>
   <div class="csl-entry">[12]	张三．心理学史．北京：未名出版社，2008</div>
   <div class="csl-entry">[13]	张三．心理学史．北京：未名出版社，2008</div>

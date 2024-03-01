@@ -161,18 +161,18 @@ Undefined
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215.</div>
   <div class="csl-entry">[2]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215.</div>
-  <div class="csl-entry">[3]	MOU W, MCNAMARA T P. Intrinsic frames of reference in spatial memory.[J]. J. Exp. Psychol. Learn. Mem. Cogn., 2002, 28: 162–170. DOI:<a href="https://doi.org/10.1037/0278-7393.28.1.162">10.1037/0278-7393.28.1.162</a>.</div>
+  <div class="csl-entry">[3]	MOU W, MCNAMARA T P. Intrinsic frames of reference in spatial memory[J]. J. Exp. Psychol. Learn. Mem. Cogn., 2002, 28: 162–170. DOI:<a href="https://doi.org/10.1037/0278-7393.28.1.162">10.1037/0278-7393.28.1.162</a>.</div>
   <div class="csl-entry">[4]	赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215.</div>
   <div class="csl-entry">[5]	MOU W, ZHANG K, MCNAMARA T P. Frames of reference in spatial memories acquired from language[J]. J. Exp. Psychol. Learn. Mem. Cogn., 2004, 30: 171–180. DOI:<a href="https://doi.org/10.1037/0278-7393.30.1.171">10.1037/0278-7393.30.1.171</a>.</div>
   <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215.</div>
   <div class="csl-entry">[7]	WOLCHIK S A, WEST S G, SANDLER I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. J. Consult. Clin. Psychol., 2000, 68(5): 843–856.</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, [日期不详].</div>
   <div class="csl-entry">[9]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Exp. Psychol., 2019. DOI:<a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
-  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 2019, 14(1). DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
+  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1). DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210–215.</div>
   <div class="csl-entry">[12]	张三. 心理学史[M]. 北京: 未名出版社, 2008[2023-01-24].</div>
   <div class="csl-entry">[13]	佚名. 心理学史[M]. 张三, 编. 北京: 未名出版社, 2008[2023-01-24].</div>
-  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth.[M]. GIBBS J T, HUANG L N, eds.. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth[M]. GIBBS J T, HUANG L N, eds.. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   <div class="csl-entry">[15]	LAPLACE P-S. A philosophical essay on probabilities[M]. TRUSCOTT F W, EMORY F L, trans.. Dover, 1951.</div>
   <div class="csl-entry">[16]	拉普拉斯, PIERRE-SIMON. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951.</div>
   <div class="csl-entry">[17]	KLATZKY R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]. FREKSA C, HABEL C, WENDER K F, eds.//Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge. Springer-Verlag, 1998: 1–17.</div>
@@ -339,7 +339,7 @@ Undefined
 ### APA 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	MCCAULEY S M, CHRISTIANSEN M H. Language learning as language use: A cross-linguistic model of child language development[J/OL]. Psycsol. Rev., 2019, 126(1): 1–51. <a href="http://some.url">http://some.url</a>. DOI:<a href="https://doi.org/10.1037/rev0000126">10.1037/rev0000126</a>.</div>
+  <div class="csl-entry">[1]	MCCAULEY S M, CHRISTIANSEN M H. Language learning as language use: A cross-linguistic model of child language development[J]. Psychol. Rev., 2019, 126(1): 1–51. DOI:<a href="https://doi.org/10.1037/rev0000126">10.1037/rev0000126</a>.</div>
   <div class="csl-entry">[2]	AHMANN E, TUTTLE L J, SAVIET M, et al. A descriptive review of ADHD coaching research: Implications for college students[J/OL]. J. Postsecond. Educ. Disabil., 2018, 31(1): 17–39. <a href="https://www.ahead.org/professional-resources/publications/jped/archived-jped/jped-volume-31">https://www.ahead.org/professional-resources/publications/jped/archived-jped/jped-volume-31</a>.</div>
   <div class="csl-entry">[3]	ANDERSON M. Getting consistent with consequences[J]. Educ. Leadership, 2018, 76(1): 26–33.</div>
   <div class="csl-entry">[4]	GOLDMAN C. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018.</div>

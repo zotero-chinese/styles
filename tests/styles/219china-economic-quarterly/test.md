@@ -209,7 +209,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[16]	Auerbach, J. S., “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation”, in M. F. Bornstein, ed., Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development. Washington, DC, US: Wiley, 1993.</div>
   <div class="csl-entry">[17]	Australian Bureau of Statistics, Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990. Canberra, Australian Capital Territory: Author, 1991.</div>
   <div class="csl-entry">[18]	Bergmann, P. G., Relativity, in The New Encyclopedia Britannica. New York: Encyclopedia Britannica, 1993.</div>
-  <div class="csl-entry">[19]	Burin, D., K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements”, PLoS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[19]	Burin, D., K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements”, PLOS ONE, 2019, 14(1).</div>
   <div class="csl-entry">[20]	Gibbs, J. T., and L. N. Huang, Children of Color: Psychological Interventions with Minority Youth. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   <div class="csl-entry">[21]	Huestegge, S. M., T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, Experimental Psychology, 2019.</div>
   <div class="csl-entry">[22]	Klatzky, R., “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections”, in C. Freksa, C. Habel, and K. F. Wender, eds., Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge. Springer-Verlag, 1998.</div>
@@ -217,7 +217,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[24]	Laplace, P.-S., A Philosophical Essay on Probabilities. Dover, 1951.</div>
   <div class="csl-entry">[25]	Lichstein, K. L., and R. S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs”, in Reducing Medication in Geriatric Populations. Uppsala, Sweden, 1990.</div>
   <div class="csl-entry">[26]	Mitchell, T. R., and J. R. Larson, People in Organizations: An Introduction to Organizational Behavior. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[27]	Mou, W., and T. P. McNamara, “Intrinsic Frames of Reference in Spatial Memory.”, Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28, 162-170.</div>
+  <div class="csl-entry">[27]	Mou, W., and T. P. McNamara, “Intrinsic Frames of Reference in Spatial Memory”, Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28, 162-170.</div>
   <div class="csl-entry">[28]	Mou, W., K. Zhang, and T. P. McNamara, “Frames of Reference in Spatial Memories Acquired from Language”, Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30, 171-180.</div>
   <div class="csl-entry">[29]	Ruby, J., and C. Fulton, “Beyond Redlining: Editing Software That Works”. Washington, DC, 1993.</div>
   <div class="csl-entry">[30]	Sadie, S., The New Grove Dictionary of Music and Musicians. London : New York: Macmillan, 1980.</div>
@@ -487,7 +487,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[114]	Ho, H.-K., Teacher Preparation for Early Childhood Special Education in Taiwan. ERIC, 2014.</div>
   <div class="csl-entry">[115]	Hollander, M. M., Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[116]	Housand, B., Game on! Integrating Games and Simulations in the Classroom. SlideShare, 2016.</div>
-  <div class="csl-entry">[117]	Huestegge, S. M., T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, Experimental Psychology.</div>
+  <div class="csl-entry">[117]	Huestegge, S. M., T. Raettig, and L. Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, Experimental Psychology, 2019.</div>
   <div class="csl-entry">[118]	Hutcheson, V. H., Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents. The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">[119]	Jackson, P., The Lord of the Rings: The Fellowship of the Ring. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">[120]	Kalnay, E., M. Kanamitsu, R. Kistler, W. Collins, D. Deaven, L. Gandin, M. Iredell, S. Saha, G. White, J. Wollen, Y. Zhu, M. Chelliah, W. Ebisuzaki, W. Higgins, J. Janowiak, K. C. Mo, C. Ropelewski, J. Wang, A. Leetma, A. Aaron, B. B. C. Court, and D. Joseph, “The NCEP/NCAR 40-Year Reanalysis Project”, Bulletin of the American Meteorological Society, 1996, 77(3), 437-471.</div>

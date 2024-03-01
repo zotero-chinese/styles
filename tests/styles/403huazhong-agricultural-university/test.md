@@ -193,7 +193,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">13.	Auerbach JS. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. Bornstein MF, ed.//4 edition. Washington, DC, US: Wiley, 1993: 43–110</div>
   <div class="csl-entry">14.	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990. Canberra, Australian Capital Territory: Author, 1991</div>
   <div class="csl-entry">15.	Bergmann PG. Relativity. New York: Encyclopedia Britannica, 1993: 501–5081993</div>
-  <div class="csl-entry">16.	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements. <i>PLoS ONE</i>. 2019, 14. US: Public Library of Science, 2019</div>
+  <div class="csl-entry">16.	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>, 2019, 14</div>
   <div class="csl-entry">17.	Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp Psychol</i>, 2019</div>
   <div class="csl-entry">18.	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. Freksa C, Habel C, Wender KF, eds.//Springer-Verlag, 1998: 1–17</div>
   <div class="csl-entry">19.	Lanktree CB, Briere JN. Early data on the Trauma Symptom Checklist for Children (TSC-C). </div>
@@ -389,7 +389,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">29.	Bronfenbrenner U. The social ecology of human development: A retrospective conclusion. Bronfenbrenner U, ed.//SAGE Publications, 2005: 27–40</div>
   <div class="csl-entry">30.	Brown LS. Feminist therapy. 2 edition. American Psychological Association, 2018</div>
   <div class="csl-entry">31.	Burgess R. Rethinking global health: Frameworks of power. Routledge, 2019</div>
-  <div class="csl-entry">32.	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>. 2019, 14. </div>
+  <div class="csl-entry">32.	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>, 2019, 14</div>
   <div class="csl-entry">33.	Bustillos M. On video games and storytelling: An interview with Tom Bissell. <i>The New Yorker</i>. 2013. </div>
   <div class="csl-entry">34.	Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 20132013</div>
   <div class="csl-entry">35.	Cain S. Quiet: The power of introverts in a world that can’t stop talking. Random House Audio, 2012</div>
@@ -444,7 +444,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">84.	Maddox S, Hurling J, Stewart E, Edwards A. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children(2016-03-30–04-02)</div>
   <div class="csl-entry">85.	Madigan S. Narrative therapy. 2 edition. American Psychological Association, 2019</div>
   <div class="csl-entry">86.	Martin Lillie CM. Be kind to yourself: How self-compassion can improve your resiliency(2016-12-29)</div>
-  <div class="csl-entry">87.	McCauley SM, Christiansen MH. Language learning as language use: A cross-linguistic model of child language development. <i>Psycsol Rev</i>, 2019, 126:1–51</div>
+  <div class="csl-entry">87.	McCauley SM, Christiansen MH. Language learning as language use: A cross-linguistic model of child language development. <i>Psychol Rev</i>, 2019, 126:1–51</div>
   <div class="csl-entry">88.	McCurry S. Afghan girl1985</div>
   <div class="csl-entry">89.	Meadows DH. Thinking in systems: A primer. Wright D, ed.. Chelsea Green Publishing, 2008</div>
   <div class="csl-entry">90.	Mehrholz J, Pohl M, Platz T, Kugler J, Elsner B. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke. <i>Cochrane Db Syst Rev</i>, 2018</div>

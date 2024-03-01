@@ -196,15 +196,15 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">AUERBACH J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//BORNSTEIN M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley: 43-110.</div>
   <div class="csl-entry">Australian Bureau of Statistics. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author.</div>
   <div class="csl-entry">BERGMANN P G. 1993. Relativity[M]//The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica: 501-508.</div>
-  <div class="csl-entry">BURIN D, KILTENI K, RABUFFETTI M, et al. 2019. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 14(1).</div>
-  <div class="csl-entry">GIBBS J T, HUANG L N. 1989. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass.</div>
+  <div class="csl-entry">BURIN D, KILTENI K, RABUFFETTI M, et al. 2019. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 14(1).</div>
+  <div class="csl-entry">GIBBS J T, HUANG L N. 1989. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">HUESTEGGE S M, RAETTIG T, HUESTEGGE L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology.</div>
   <div class="csl-entry">KLATZKY R. 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//FREKSA C, HABEL C, WENDER K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1-17.</div>
   <div class="csl-entry">LANKTREE C B, BRIERE J N. 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA.</div>
   <div class="csl-entry">LAPLACE P S. 1951. A philosophical essay on probabilities[M]. TRUSCOTT F W, EMORY F L, trans. Dover.</div>
   <div class="csl-entry">LICHSTEIN K L, JOHNSON R S. 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden.</div>
   <div class="csl-entry">MITCHELL T R, LARSON J R. 1987. People in organizations: An introduction to organizational behavior[M]. 3rd ed. New York: McGraw-Hill.</div>
-  <div class="csl-entry">MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170.</div>
+  <div class="csl-entry">MOU W, MCNAMARA T P. 2002. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170.</div>
   <div class="csl-entry">MOU W, ZHANG K, MCNAMARA T P. 2004. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30: 171-180.</div>
   <div class="csl-entry">RUBY J, FULTON C. 1993. Beyond redlining: Editing software that works[C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
   <div class="csl-entry">SADIE S. 1980. The new Grove dictionary of music and musicians[M]. 6th ed. London : New York: Macmillan.</div>
@@ -493,7 +493,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">MADIGAN S. 2019. Narrative therapy[M]. 2nd ed. American Psychological Association.</div>
   <div class="csl-entry">MALLE L. 1987. Goodbye children[M]. Nouvelles Éditions de Films.</div>
   <div class="csl-entry">MARTIN LILLIE C M. 2016. Be kind to yourself: How self-compassion can improve your resiliency[EB/OL]. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
-  <div class="csl-entry">MCCAULEY S M, CHRISTIANSEN M H. 2019. Language learning as language use: A cross-linguistic model of child language development[J/OL]. Psychological Review, 126(1): 1-51. <a href="http://some.url">http://some.url</a>.</div>
+  <div class="csl-entry">MCCAULEY S M, CHRISTIANSEN M H. 2019. Language learning as language use: A cross-linguistic model of child language development[J]. Psychological Review, 126(1): 1-51.</div>
   <div class="csl-entry">MCCURRY S. 1985. Afghan girl[EB/OL]. National Geographic. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
   <div class="csl-entry">MCDANIEL S H, SALAS E, KAZAK A E. 2018. American psychologist: The science of teamwork[J]. 2018, 73(4).</div>
   <div class="csl-entry">MEADOWS D H. 2008. Thinking in systems: A primer[M]. Chelsea Green Publishing.</div>

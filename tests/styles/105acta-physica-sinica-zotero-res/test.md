@@ -168,11 +168,11 @@ Undefined
   <div class="csl-entry">[7]	Wolchik S A, West S G, Sandler I N, Tein J Y, Coatsworth D, Lengua L, Weiss L, Anderson E R, Greene S M, Griffin W A 2000 <i>J. Consult. Clin. Psychol.</i> <b>68</b> 843</div>
   <div class="csl-entry">[8]	The past and future of Chinese psychology (in Chinese) [张三, 李四 心理学报]</div>
   <div class="csl-entry">[9]	Huestegge S M, Raettig T, Huestegge L 2019 <i>Exp. Psychol.</i></div>
-  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L 2019 <i>PLoS ONE</i> <b>14</b></div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L 2019 <i>PLOS ONE</i> <b>14</b></div>
   <div class="csl-entry">[11]	The past and future of Chinese psychology (in Chinese) [张三 2008 心理学报 <b>40</b> 210]</div>
   <div class="csl-entry">[12]	History of psychology (in Chinese) [张三 2008 心理学史 (北京: 未名出版社) 第450页]</div>
   <div class="csl-entry">[13]	History of psychology (in Chinese) [张三 2008 心理学史 (北京: 未名出版社) 第450页]</div>
-  <div class="csl-entry">[14]	Gibbs J T, Huang L N 1989 Children of color: Psychological interventions with minority youth. (Hoboken, NJ, US: Jossey-Bass)</div>
+  <div class="csl-entry">[14]	Gibbs J T, Huang L N 1989 Children of color: Psychological interventions with minority youth (Hoboken, NJ, US: Jossey-Bass)</div>
   <div class="csl-entry">[15]	Laplace P S TRUSCOTT F W, EMORY F L 1951 A philosophical essay on probabilities (Dover)</div>
   <div class="csl-entry">[16]	A philosophical essay on probabilities (in Chinese) [拉普拉斯, Pierre-Simon著 (张三, 李四译) 1951 概率哲学 (北京: 未名出版社)]</div>
   <div class="csl-entry">[17]	Klatzky R 1998 Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge , 1998-10-02 pp1–17</div>
@@ -339,7 +339,7 @@ Undefined
 ### APA 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	McCauley S M, Christiansen M H 2019 <i>Psycsol. Rev.</i> <b>126</b> 1</div>
+  <div class="csl-entry">[1]	McCauley S M, Christiansen M H 2019 <i>Psychol. Rev.</i> <b>126</b> 1</div>
   <div class="csl-entry">[2]	Ahmann E, Tuttle L J, Saviet M, Wright S D 2018 <i>J. Postsecond. Educ. Disabil.</i> <b>31</b> 17</div>
   <div class="csl-entry">[3]	Anderson M 2018 <i>Educ. Leadership</i> <b>76</b> 26</div>
   <div class="csl-entry">[4]	Goldman C 2018 <i>Chicago Tribune</i> 2018-11-28</div>

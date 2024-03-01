@@ -215,18 +215,18 @@ Undefined
 <div class="csl-bib-body">
   <div class="csl-entry">[1]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
   <div class="csl-entry">[2]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
-  <div class="csl-entry">[3]	Mou W, McNamara T P. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.</div>
+  <div class="csl-entry">[3]	Mou W, McNamara T P. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.</div>
   <div class="csl-entry">[4]	赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
   <div class="csl-entry">[5]	Mou W, Zhang K, McNamara T P. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171-180.</div>
   <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
   <div class="csl-entry">[7]	Wolchik S A, West S G, Sandler I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来[J]. 心理学报, [日期不详].</div>
   <div class="csl-entry">[9]	Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.</div>
-  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1).</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.</div>
   <div class="csl-entry">[12]	张三. 心理学史[M]. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">[13]	佚名. 心理学史[M]. 张三, 编. 北京: 未名出版社, 2008.</div>
-  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth.[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[14]	Anonymous. Children of color: Psychological interventions with minority youth[M]. Gibbs J T, Huang L N, eds.. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   <div class="csl-entry">[15]	Laplace P-S. A philosophical essay on probabilities[M]. Truscott F W, Emory F L, trans.. Dover, 1951.</div>
   <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951.</div>
   <div class="csl-entry">[17]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]. Freksa C, Habel C, Wender K F, eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
@@ -438,7 +438,7 @@ Undefined
 ### APA 示例文献
 
 <div class="csl-bib-body">
-  <div class="csl-entry">[1]	McCauley S M, Christiansen M H. Language learning as language use: A cross-linguistic model of child language development[J/OL]. Psychological Review, 2019, 126(1): 1-51.</div>
+  <div class="csl-entry">[1]	McCauley S M, Christiansen M H. Language learning as language use: A cross-linguistic model of child language development[J]. Psychological Review, 2019, 126(1): 1-51.</div>
   <div class="csl-entry">[2]	Ahmann E, Tuttle L J, Saviet M, et al. A descriptive review of ADHD coaching research: Implications for college students[J/OL]. Journal of Postsecondary Education and Disability, 2018, 31(1): 17-39.</div>
   <div class="csl-entry">[3]	Anderson M. Getting consistent with consequences[J]. Educational Leadership, 2018, 76(1): 26-33.</div>
   <div class="csl-entry">[4]	Goldman C. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018.</div>

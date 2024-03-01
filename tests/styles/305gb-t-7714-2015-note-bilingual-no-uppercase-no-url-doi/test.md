@@ -161,18 +161,18 @@ Undefined
 
 <sup>1</sup> 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>2</sup> 张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
-<sup>3</sup> Mou W, McNamara T P. Intrinsic frames of reference in spatial memory.[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.<br>
+<sup>3</sup> Mou W, McNamara T P. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2002, 28: 162-170.<br>
 <sup>4</sup> 赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>5</sup> Mou W, Zhang K, McNamara T P. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 2004, 30: 171-180.<br>
 <sup>6</sup> 赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>7</sup> Wolchik S A, West S G, Sandler I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.<br>
 <sup>8</sup> 张三, 李四. 中国心理学的过去与未来[J]. 心理学报.<br>
 <sup>9</sup> Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.<br>
-<sup>10</sup> Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLoS ONE, 2019, 14(1).<br>
+<sup>10</sup> Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1).<br>
 <sup>11</sup> 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.<br>
 <sup>12</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
 <sup>13</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
-<sup>14</sup> Gibbs J T, Huang L N. Children of color: Psychological interventions with minority youth.[M]. Hoboken, NJ, US: Jossey-Bass, 1989.<br>
+<sup>14</sup> Gibbs J T, Huang L N. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> Laplace P S. A philosophical essay on probabilities[M]. Truscott F W, Emory F L, trans. Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951.<br>
 <sup>17</sup> Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.<br>

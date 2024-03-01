@@ -233,7 +233,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Auerbach J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In: Bornstein M F (editor). Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley: 43~110</div>
   <div class="csl-entry">Australian Bureau of Statistics. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1. Canberra, Australian Capital Territory: Author</div>
   <div class="csl-entry">Bergmann P G. 1993. Relativity. In: The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica: 501~508</div>
-  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. 2019. Body ownership increases the interference between observed and executed movements. <i>PLoS ONE</i>, 14(1)</div>
+  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. 2019. Body ownership increases the interference between observed and executed movements. <i>PLOS ONE</i>, 14(1)</div>
   <div class="csl-entry">Gibbs J T, Huang L N. 1989. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US: Jossey-Bass</div>
   <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp Psychol</i></div>
   <div class="csl-entry">Klatzky R. 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In: Freksa C, Habel C, Wender K F (editors). Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1~17</div>
@@ -511,7 +511,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Ho H K. 2014. Teacher preparation for early childhood special education in Taiwan. ERIC</div>
   <div class="csl-entry">Hollander M M. 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373. [Doctoral dissertation]. University of Wisconsin–Madison</div>
   <div class="csl-entry">Housand B. 2016. Game on! Integrating games and simulations in the classroom. SlideShare</div>
-  <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp Psychol</i></div>
+  <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Exp Psychol</i></div>
   <div class="csl-entry">Hutcheson V H. 2012. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents. [Master’s thesis]. The College of William &#38; Mary</div>
   <div class="csl-entry">Jackson P. 2001. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company</div>
   <div class="csl-entry">Kalnay E, Kanamitsu M, Kistler R, Collins W, Deaven D, Gandin L, Iredell M, Saha S, White G, Wollen J, Zhu Y, Chelliah M, Ebisuzaki W, Higgins W, Janowiak J, Mo K C, Ropelewski C, Wang J, Leetma A, Aaron A, Court B B C, Joseph D. 1996. The NCEP/NCAR 40-year reanalysis project. <i>Bull Am Meteorol Soc</i>, 77(3): 437~471</div>
@@ -530,7 +530,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Madigan S. 2019. Narrative therapy. 2nd ed. American Psychological Association</div>
   <div class="csl-entry">Malle L. 1987. Goodbye children. Nouvelles Éditions de Films</div>
   <div class="csl-entry">Martin Lillie C M. 2016. Be kind to yourself: How self-compassion can improve your resiliency. <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a></div>
-  <div class="csl-entry">McCauley S M, Christiansen M H. 2019. Language learning as language use: A cross-linguistic model of child language development. <i>Psycsol Rev</i>, 126(1): 1~51</div>
+  <div class="csl-entry">McCauley S M, Christiansen M H. 2019. Language learning as language use: A cross-linguistic model of child language development. <i>Psychol Rev</i>, 126(1): 1~51</div>
   <div class="csl-entry">McCurry S. 1985. Afghan girl. National Geographic</div>
   <div class="csl-entry">McDaniel S H, Salas E, Kazak A E. 2018. American psychologist: The science of teamwork. 2018, 73(4)</div>
   <div class="csl-entry">Meadows D H. 2008. Thinking in systems: A primer. Chelsea Green Publishing</div>

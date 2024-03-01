@@ -182,7 +182,7 @@ Qian et al （2009b）<br>
   <div class="csl-entry">2. Mou W, Zhang K, McNamara TP. Frames of reference in spatial memories acquired from language. <b>Journal of Experimental Psychology: Learning, Memory, and Cognition</b>. 2004, 30: 171–180. US: American Psychological Association, 2004: 171–180	</div>
   <div class="csl-entry">3. Wolchik SA, West SG, Sandler IN, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <b>Journal of Consulting and Clinical Psychology</b>. 2000, 68(5): 843–856.	 </div>
   <div class="csl-entry">4. Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <b>Experimental Psychology</b>. 2019.	 </div>
-  <div class="csl-entry">5. Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements. <b>PLoS ONE</b>. 2019, 14(1). US: Public Library of Science, 2019	</div>
+  <div class="csl-entry">5. Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements. <b>PLOS ONE</b>. 2019, 14(1).	 </div>
   <div class="csl-entry">6. Anonymous. Children of color: Psychological interventions with minority youth. Gibbs JT, Huang LN, eds.. Hoboken, NJ, US: Jossey-Bass, 1989	</div>
   <div class="csl-entry">7. Laplace P-S. A philosophical essay on probabilities. Truscott FW, Emory FL, trans.. Dover, 1951	</div>
   <div class="csl-entry">8. Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. Freksa C, Habel C, Wender KF, eds.//Springer-Verlag, 1998: 1–17	</div>
