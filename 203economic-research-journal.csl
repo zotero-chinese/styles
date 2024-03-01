@@ -91,7 +91,7 @@
     </choose>
   </macro>
   <macro name="title">
-    <text variable="title" prefix="“" suffix="”"/>
+    <text variable="title" text-case="title" prefix="“" suffix="”"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="title-zh">
