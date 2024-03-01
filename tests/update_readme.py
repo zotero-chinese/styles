@@ -33,8 +33,8 @@ def get_sample(file):
         res = f"{cite}\n\n{bib}"
 
     # 敏感词
-    res = res.replace("毛泽东", "ZDM")
-    res = res.replace("习近平", "JPX")
+    res = res.replace("毛泽东", "MZD")
+    res = res.replace("习近平", "XXX")
     res = res.replace("发改委", "FGW")
 
     res = re.sub(r"[ \t]+\n", "\n", res)
