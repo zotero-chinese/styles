@@ -6,13 +6,13 @@
 
 ### 引注
 
-(陈佳贵, 1995)<br>
-(Engers and Gans, 1998)<br>
-(蒋一苇, 1998)<br>
-([英]瑟尔沃, 2001)<br>
-(Fukuyama, 1999)<br>
-(Caselli, 2005)<br>
-(Broda et al., 2006)<br>
+（陈佳贵，1995）<br>
+（Engers and Gans，1998）<br>
+（蒋一苇，1998）<br>
+（[英]瑟尔沃，2001）<br>
+（Fukuyama，1999）<br>
+（Caselli，2005）<br>
+（Broda et al.，2006）<br>
 
 ### 参考文献表
 
@@ -30,31 +30,31 @@
 
 ### 引注
 
-(张三, 2008)<br>
-张三 (2008)<br>
-(Jason, 2008)<br>
-Jason (2008)<br>
-张三和李四 (2008)<br>
-Wang and Sun (2009)<br>
-(赵一和陈二, 2008; Wolchik and West, 2009)<br>
-张三等 (2008)<br>
-Wang et al. (2009)<br>
-(赵一等, 2008; Wolchik et al., 2009)<br>
-张三等 (2019a)<br>
-张三等 (2019b)<br>
-Qian et al. (2020b)<br>
-Qian et al. (2020a)<br>
-(张三等, 2019a; Qian et al., 2020b)<br>
-张三等 (2020a)<br>
-张三等 (2020b)<br>
-Qian et al. (2009b)<br>
-Qian et al. (2009a)<br>
-(张三等, 2020a)<br>
-(Qian et al., 2009b)<br>
-(Wong, 2007)<br>
-(Wong, 2008)<br>
-(Edeline and Weinberger, 2005, 2002a, 2002b)<br>
-(Deng and Feng, 2005; Chen, 2006; Bai, 2002)<br>
+（张三，2008）<br>
+张三 （2008）<br>
+（Jason，2008）<br>
+Jason （2008）<br>
+张三和李四 （2008）<br>
+Wang and Sun （2009）<br>
+（赵一和陈二，2008；Wolchik and West，2009）<br>
+张三等 （2008）<br>
+Wang et al. （2009）<br>
+（赵一等，2008；Wolchik et al.，2009）<br>
+张三等 （2019a）<br>
+张三等 （2019b）<br>
+Qian et al. （2020b）<br>
+Qian et al. （2020a）<br>
+（张三等，2019a；Qian et al.，2020b）<br>
+张三等 （2020a）<br>
+张三等 （2020b）<br>
+Qian et al. （2009b）<br>
+Qian et al. （2009a）<br>
+（张三等，2020a）<br>
+（Qian et al.，2009b）<br>
+（Wong，2007）<br>
+（Wong，2008）<br>
+（Edeline and Weinberger, 2005, 2002a, 2002b）<br>
+（Deng and Feng，2005；Chen，2006；Bai，2002）<br>
 
 ### GB/T 7714—2015 示例文献
 

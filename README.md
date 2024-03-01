@@ -1185,13 +1185,13 @@ original-publisher-place: Nanjing
 显示效果：
 
 <blockquote>
-  (陈佳贵, 1995)<br>
-  (Engers and Gans, 1998)<br>
-  (蒋一苇, 1998)<br>
-  ([英]瑟尔沃, 2001)<br>
-  (Fukuyama, 1999)<br>
-  (Caselli, 2005)<br>
-  (Broda et al., 2006)<br>
+  （陈佳贵，1995）<br>
+  （Engers and Gans，1998）<br>
+  （蒋一苇，1998）<br>
+  （[英]瑟尔沃，2001）<br>
+  （Fukuyama，1999）<br>
+  （Caselli，2005）<br>
+  （Broda et al.，2006）<br>
 </blockquote>
 
 <blockquote>
