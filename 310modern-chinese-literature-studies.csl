@@ -14,7 +14,7 @@
     <issn>1003-0263</issn>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《中国现代文学研究丛刊》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2024-01-21T16:16:32+08:00</updated>
+    <updated>2024-03-01T14:57:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -150,7 +150,7 @@
                 <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
                 <label form="short" prefix=" "/>
               </names>
-              <text variable="title" prefix="“" suffix="”"/>
+              <text variable="title" quotes="true"/>
             </else>
           </choose>
         </else-if>

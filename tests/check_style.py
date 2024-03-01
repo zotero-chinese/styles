@@ -64,11 +64,16 @@ def warning(s):
     print(f"Warning: {s}", file=sys.stderr)
 
 
-def check_affixes(root):
+def check_affixes(path, root):
     for element in root.xpath(".//*[@prefix='']"):
         del element.attrib["prefix"]
     for element in root.xpath(".//*[@suffix='']"):
         del element.attrib["suffix"]
+
+    for element in root.xpath(".//*[@prefix='“' or @suffix='”']"):
+        warning(
+            f'File "{path}", line {element.sourceline}: Quotes in dilimiters. Use \'quotes="true"\' instead.'
+        )
 
     for tag in ["layout", "date", "group"]:
         for element in root.xpath(f".//cs:{tag}[@delimiter='']", namespaces=ns):
@@ -410,7 +415,7 @@ def check_style(file):
 
     # info(f'Running test of "{style_name}.csl"')
 
-    check_affixes(root)
+    check_affixes(file, root)
 
     check_conditions(file, csl_content, style)
 

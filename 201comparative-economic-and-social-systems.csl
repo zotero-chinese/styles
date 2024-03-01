@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>1003-3947</issn>
     <summary>comparative economic and social systems author-date style</summary>
-    <updated>2024-01-21T19:33:15+08:00</updated>
+    <updated>2024-03-01T14:57:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -87,7 +87,7 @@
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="title-zh">
-    <text variable="title" prefix="“" suffix="”"/>
+    <text variable="title" quotes="true"/>
     <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="container-contributors">

@@ -165,7 +165,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Peebles, P. Z., Jr., 2001, “Probability, Random Variables, and Random Signal Principles”. 4 edition. New York: McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A., 2011, “Death by Theory: A Tale of Mystery and Archaeological Theory”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   <div class="csl-entry">Roberson, J. A., and E. G. Burneson, 2011, “Drinking Water Standards, Regulations and Goals”. American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
-  <div class="csl-entry">Saito, M., and K. Miyazaki, 2006, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6), 169—176.</div>
+  <div class="csl-entry">Saito, M., and K. Miyazaki, 2006, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6), 169—176.</div>
   <div class="csl-entry">Stieg, M. F., 1981, “The Information Needs of Historians”, <i>College &#38; Research Libraries</i>, 42(6), 549—560.</div>
   <div class="csl-entry">Sunstein, C. R., 1996, “Social Norms and Social Roles”, <i>Columbia Law Review</i>, 96, 903.</div>
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayshi, et al., 2005, “Electronic Watermarking Method and System”. 2005-07-05.</div>
@@ -192,7 +192,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">赵一一、钱二、孙三等，2008：《中国心理学的过去与未来》，《心理学报》。</div>
   <div class="csl-entry">Anonymous, 1980, “The New Grove Dictionary of Music and Musicians”. Sadie, S., ed.. 6 edition. London : New York: Macmillan.</div>
   <div class="csl-entry">佚名，1986：《现代汉语频率词典》. 北京: 北京语言学院出版社，1986年。</div>
-  <div class="csl-entry">Anonymous, 1989, “Children of Color: Psychological Interventions with Minority Youth.”. Gibbs, J. T., L. N. Huang, eds.. Hoboken, NJ, US: Jossey-Bass.</div>
+  <div class="csl-entry">Anonymous, 1989, “Children of Color: Psychological Interventions with Minority Youth.” Gibbs, J. T., L. N. Huang, eds.. Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">佚名，2004：《现代汉语规范辞典》. 李行健, 编. 北京: 外语教学与研究出版社，2004年。</div>
   <div class="csl-entry">佚名，2008：《心理学史》. 张三, 编. 北京: 未名出版社，2008年。</div>
   <div class="csl-entry">Auerbach, J. S., 1993, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation”. Bornstein, M. F., ed.//, <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>4 edition. Washington, DC, US: Wiley: 43—110.</div>
@@ -321,7 +321,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名，[日期不详]：《法国行政法院网站》。</div>
   <div class="csl-entry">佚名，[日期不详]：《民法总则》. 。</div>
   <div class="csl-entry">佚名，[日期不详]：《包郑照诉苍南县人民政府强制拆除房屋案》。</div>
-  <div class="csl-entry">Anonymous, [no date], “United States <i>v.</i> Dino Nastasi et Al.”.</div>
+  <div class="csl-entry">Anonymous, [no date], “United States <i>v.</i> Dino Nastasi et Al.”</div>
   <div class="csl-entry">Anonymous, [no date], “StGB”. .</div>
   <div class="csl-entry">Anonymous, [no date], “StPO”. .</div>
   <div class="csl-entry">Anonymous, [no date], “GG”. .</div>
@@ -379,7 +379,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, 1987, “Goodbye Children”. Nouvelles Éditions de Films.</div>
   <div class="csl-entry">Anonymous, 1989, “United Nations Convention on the Rights of the Child”(1989-11-20).</div>
   <div class="csl-entry">Anonymous, 1990, “American With Disabilities Act of 1990”//, <i>U.S.C</i>.</div>
-  <div class="csl-entry">Anonymous, 1991, “Daubert v. Merrell Dow Pharmaceuticals, Inc.”.</div>
+  <div class="csl-entry">Anonymous, 1991, “Daubert v. Merrell Dow Pharmaceuticals, Inc.”</div>
   <div class="csl-entry">Anonymous, 1992, “Texas v. Morales”.</div>
   <div class="csl-entry">Anonymous, 1995, “Who Shot Mr. Burns? (Part One)”. Gracie Films; Twentieth Century Fox Film Corporation(1995-05-21).</div>
   <div class="csl-entry">Anonymous, 1999, “The Complete Social Scientist: A Kurt Lewin Reader”. Gold, M., ed.. American Psychological Association.</div>
@@ -402,7 +402,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, 2015d, “H.R. Rep. No. 114-358”.</div>
   <div class="csl-entry">Anonymous, 2016a, “The Year We Thought about Love”.</div>
   <div class="csl-entry">Anonymous, 2016b, “How to Diagram a Sentence (Absolute Basics)”. YouTube(2016-09-30).</div>
-  <div class="csl-entry">Anonymous, 2016c, “How Do Geckos Walk on Water?”. YouTube(2016-12-06).</div>
+  <div class="csl-entry">Anonymous, 2016c, “How Do Geckos Walk on Water?” YouTube(2016-12-06).</div>
   <div class="csl-entry">Anonymous, 2016d, “Federal Real Property Reform: How Cutting Red Tape and Better Management Count Achieve Billions in Savings, U.S. Senate Committee on Homeland Security and Governmental Affairs”.</div>
   <div class="csl-entry">Anonymous, 2016e, “S. Res. 438”//, <i>Cong. Rec.</i></div>
   <div class="csl-entry">Anonymous, 2016f, “Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees”//, <i>F.R.</i></div>
