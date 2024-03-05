@@ -2699,9 +2699,9 @@ available-date: 2014-01-26
 </blockquote>
 
 
-## [418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]
+## [418huazhong-university-of-science-and-technology.csl]
 
-[华中科技大学人工智能与自动化学院学位论文](https://aia.hust.edu.cn/info/1122/5294.htm)样式：作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
+[华中科技大学](http://gs.hust.edu.cn/info/1041/5462.htm)理工科样式：6 人以内须列出全部作者，6 人以上写 6 人再加“等”（英文加“et al.”）。
 
 显示效果：
 
@@ -4624,7 +4624,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [414yunnan-university.csl]: 414yunnan-university.csl
 [415zhejiang-university.csl]: 415zhejiang-university.csl
 [416zhongnan-university-of-economics-and-law.csl]: 416zhongnan-university-of-economics-and-law.csl
-[418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]: 418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl
+[418huazhong-university-of-science-and-technology.csl]: 418huazhong-university-of-science-and-technology.csl
 [419beijing-normal-university.csl]: 419beijing-normal-university.csl
 [420beihang-university.csl]: 420beihang-university.csl
 [421hebei-agricultural-university.csl]: 421hebei-agricultural-university.csl

@@ -1,4 +1,4 @@
-# 418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl 测试
+# 418huazhong-university-of-science-and-technology.csl 测试
 
 <!-- 此文件由脚本自动生成，请勿手动修改！ -->
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>华中科技大学 - 人工智能与自动化学院</title>
+    <title>华中科技大学</title>
     <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation</id>
     <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
-    <link href="https://aia.hust.edu.cn/info/1122/5294.htm" rel="documentation"/>
+    <link href="http://gs.hust.edu.cn/info/1041/5462.htm" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -16,7 +16,8 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-01-21T16:25:13+08:00</updated>
+    <summary>华中科技大学学位论文参考模板（理工科-博士，2023-02-10 发布）</summary>
+    <updated>2024-03-05T12:22:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
