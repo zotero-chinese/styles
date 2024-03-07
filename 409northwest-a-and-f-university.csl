@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>西北农林科技大学</title>
@@ -19,9 +19,14 @@
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
+    <contributor>
+      <name>Jared Hu</name>
+      <email>jaredhhu@outlook.com</email>
+    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-01-21T16:25:14+08:00</updated>
+    <summary>NWAFU 西北农林科技大学学位论文</summary>
+    <updated>2024-03-07T17:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -238,7 +243,7 @@
   <macro name="thesis-type-zh">
     <choose>
       <if variable="genre">
-        <text variable="genre" prefix="[" suffix="]"/>
+        <text variable="genre" prefix="[" suffix="学位论文]"/>
       </if>
       <else>
         <text value="[博士学位论文]"/>
@@ -309,7 +314,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+              <text variable="container-title" strip-periods="true" font-style="italic"/>
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
