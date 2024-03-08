@@ -5,16 +5,15 @@
     <title-short>HUST - SEEE</title-short>
     <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering</id>
     <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering" rel="self"/>
-    <link href="http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
-    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="http://www.zotero.org/styles/003gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="template"/>
+    <link href="https://seee.hust.edu.cn/" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2024-03-08T12:25:00+08:00</updated>
+    <category field="engineering"/>
+    <updated>2024-03-08T12:44:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

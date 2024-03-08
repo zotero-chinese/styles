@@ -4172,6 +4172,8 @@ available-date: 2014-01-26
 
 ## [475huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering.csl]
 
+华中科技大学电气与电子工程学院样式（[#276](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/issues/276)）。在 [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl] 基础上修改。
+
 显示效果：
 
 > <sup>[1–8]</sup>
