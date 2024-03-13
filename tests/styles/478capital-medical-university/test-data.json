@@ -2,7 +2,7 @@
 	{
 		"id": "ccmu.5.9.1:1",
 		"type": "article-journal",
-		"container-title": "清华大学学报: 自然科学版",
+		"container-title": "清华大学学报",
 		"issue": "2",
 		"language": "zh-CN",
 		"page": "1-7",
@@ -19,7 +19,7 @@
 				"literal": "余昌钰"
 			},
 			{
-				"literal": "others"
+				"literal": "徐晓东"
 			}
 		],
 		"issued": {
@@ -90,7 +90,7 @@
 		"id": "ccmu.5.9.1:4",
 		"type": "thesis",
 		"event-place": "北京",
-		"genre": "博士学位论文",
+		"genre": "硕士学位论文",
 		"language": "zh-CN",
 		"publisher": "清华大学无线电系",
 		"publisher-place": "北京",
@@ -134,10 +134,13 @@
 	{
 		"id": "ccmu.5.9.1:6",
 		"type": "standard",
+		"event-place": "北京",
 		"genre": "国家标准",
 		"language": "zh-CN",
 		"note": "applyDate: 1994-07-01\nsubstitute: GB 3100—1986\nCCS: A51",
 		"number": "GB 3100—1993",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
 		"source": "全国标准信息公共服务平台",
 		"status": "现行",
 		"title": "国际单位制及其应用",

@@ -11,13 +11,13 @@
 ### 参考文献表
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	张昆, 冯立群, 余昌钰, 等. 机器人柔性手腕的球面齿轮设计研究. 清华大学学报: 自然科学版, 1994, 34(2): 1-7.</div>
+  <div class="csl-entry">[1]	张昆, 冯立群, 余昌钰, 徐晓东. 机器人柔性手腕的球面齿轮设计研究. 清华大学学报, 1994, 34(2): 1-7.</div>
   <div class="csl-entry">[2]	竺可桢. 物理学论. 北京: 科学出版社, 1973: 56-60.</div>
   <div class="csl-entry">[3]	Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor. In: White H J, Smith R, eds. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44-46.</div>
-  <div class="csl-entry">[4]	郑开青. 通讯系统模拟及软件: [博士学位论文]. 北京: 清华大学无线电系, 1987.</div>
+  <div class="csl-entry">[4]	郑开青. 通讯系统模拟及软件: [硕士学位论文]. 北京: 清华大学无线电系, 1987.</div>
   <div class="csl-entry">[5]	姜锡洲. 一种温热外敷药制备方案. 中国专利, 88105607.3, 1980-07-26.</div>
-  <div class="csl-entry">[6]	国家市场监督管理总局. GB 3100—1993. 国际单位制及其应用. 1993.</div>
-  <div class="csl-entry">[7]	Ratziu V., Francque S., Sanyal A. Breakthroughs in therapies for NASH and remaining challenges. J Hepatol, 2022, 76(6): 1263-1278.</div>
+  <div class="csl-entry">[6]	国家市场监督管理总局. GB 3100—1993. 国际单位制及其应用. 北京: 中国标准出版社, 1993.</div>
+  <div class="csl-entry">[7]	Ratziu V, Francque S, Sanyal A. Breakthroughs in therapies for NASH and remaining challenges. J Hepatol, 2022, 76(6): 1263-1278.</div>
 </div>
 
 ## 默认测试
@@ -47,32 +47,32 @@
   <div class="csl-entry">[11]	赵学功. 当代美国外交. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究. 上海: 同济大学出版社, 2011: 5-6.</div>
   <div class="csl-entry">[13]	中国造纸学会. 中国造纸年鉴: 2003. 北京: 中国轻工业出版社, 2003.</div>
-  <div class="csl-entry">[14]	Peebles P. Z. Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001.</div>
-  <div class="csl-entry">[15]	Yufin S. A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[14]	Peebles PZ Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[15]	Yufin SA. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16]	Baldock P. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105.</div>
-  <div class="csl-entry">[17]	Fan X., Sommers C. H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+  <div class="csl-entry">[17]	Fan X, Sommers CH. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   <div class="csl-entry">[18]	周易外传: 卷 5. 见: 王夫之, 编. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">[19]	程根伟. 1998 年长江洪水的成因与减灾对策. 见: 许厚泽, 赵其国, 编. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
-  <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究. 见: 中国地质科学院天津地质矿产研究所, 编. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
+  <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 蓟县震旦亚界研究. 见: 中国地质科学院天津地质矿产研究所, 编. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判. 见: 马克思, 恩格斯, 编. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会, 编. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">[23]	Weinstein L., Swertz M. N. Pathogenic properties of invading microorganism. In: Sodeman W A Jr, Sodeman W A, eds. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
-  <div class="csl-entry">[24]	Roberson J. A., Burneson E. G. Drinking water standards, regulations and goals. In: American Water Works Association, ed. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">[23]	Weinstein L, Swertz MN. Pathogenic properties of invading microorganism. In: Sodeman W A Jr, Sodeman W A, eds. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
+  <div class="csl-entry">[24]	Roberson JA, Burneson EG. Drinking water standards, regulations and goals. In: American Water Works Association, ed. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯. 1957(1-4). 北京: 北京图书馆, 1957.</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 2012, 57(34): 3219.</div>
+  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法. 图书情报工作, 2008, 52(6): 6-12.</div>
   <div class="csl-entry">[31]	李幼平, 王莉. 循证医学研究方法: 附视频. 中华移植杂志(电子版), 2010, 4(3): 225-228.</div>
-  <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9.</div>
+  <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9.</div>
   <div class="csl-entry">[33]	Kanamori H. Shaking without quaking. Science, 1998, 279(5359): 2063.</div>
   <div class="csl-entry">[34]	Caplan P. Cataloging internet resources. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
-  <div class="csl-entry">[35]	Frese K. S., Katus H. A., Meder B. Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2013, 2(1): 378-398.</div>
-  <div class="csl-entry">[36]	Myburg A. A., Grattapaglia D., Tuskan G. A., et al. The genome of eucalyptus grandis. Nature, 2014, 510: 356-362.</div>
+  <div class="csl-entry">[35]	Frese KS, Katus HA, Meder B. Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2013, 2(1): 378-398.</div>
+  <div class="csl-entry">[36]	Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J. The genome of eucalyptus grandis. Nature, 2014, 510: 356-362.</div>
   <div class="csl-entry">[37]	邓一刚. 全智能节电器. 中国专利, 200610171314.3, 2006-12-13.</div>
   <div class="csl-entry">[38]	西安电子科技大学. 光折变自适应光外差探测方法. 中国专利, 01128777.2, 2002-03-06.</div>
-  <div class="csl-entry">[39]	Tachibana R., Shimizu S., Kobayshi S., et al. Electronic watermarking method and system. USpatent, US6915001, 2005-07-05.</div>
+  <div class="csl-entry">[39]	Tachibana R, Shimizu S, Kobayshi S, Nakamura T. Electronic watermarking method and system. USpatent, US6915001, 2005-07-05.</div>
   <div class="csl-entry">[40]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012.</div>
   <div class="csl-entry">[41]	北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号. 2005.</div>
   <div class="csl-entry">[42]	Bawden D. Origins and concepts of digital literacy. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -80,23 +80,23 @@
   <div class="csl-entry">[44]	Hopkinson A. UNIMARC and metadata: Dublin core. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">[45]	Coffee drinking and cancer of the pancreas. Br Med J, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[46]	刘乃安. 生物质材料热解失重动力学及其分析方法研究. 合肥: 中国科学技术大学, 2000: 17-18.</div>
-  <div class="csl-entry">[47]	Deverell W., Igler D. A companion to California history: [Doctoral dissertation]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
-  <div class="csl-entry">[48]	Baker S. K., Jackson M. E. The future of resource sharing. New York: The Haworth Press, 1995.</div>
-  <div class="csl-entry">[49]	Chernik B. E. Introduction to library services for library technicians. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
+  <div class="csl-entry">[47]	Deverell W, Igler D. A companion to California history: [Doctoral dissertation]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
+  <div class="csl-entry">[48]	Baker SK, Jackson ME. The future of resource sharing. New York: The Haworth Press, 1995.</div>
+  <div class="csl-entry">[49]	Chernik BE. Introduction to library services for library technicians. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">[50]	尼葛洛庞帝. 数字化生存. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.</div>
   <div class="csl-entry">[51]	汪冰. 电子图书馆理论与实践研究. 北京: 北京图书馆出版社, 1997: 16.</div>
   <div class="csl-entry">[52]	杨宗英. 电子图书馆的现实模型. 中国图书馆学报, 1996(2): 24-29.</div>
   <div class="csl-entry">[53]	Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
-  <div class="csl-entry">[54]	Sunstein C. R. Social norms and social roles. Columbia Law Rev, 1996, 96: 903.</div>
+  <div class="csl-entry">[54]	Sunstein CR. Social norms and social roles. Columbia Law Rev, 1996, 96: 903.</div>
   <div class="csl-entry">[55]	Morri I. Why the west rules for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
+  <div class="csl-entry">[56]	罗杰斯. 西方文明史: 问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">[57]	陈登原. 国史旧闻: 第 1 卷. 北京: 中华书局, 2000: 29.</div>
   <div class="csl-entry">[58]	Crane D. Invisible college. Chicago: Univ. of Chicago Press, 1972.</div>
-  <div class="csl-entry">[59]	Stieg M. F. The information needs of historians. Coll Res Libr, 1981, 42(6): 549-560.</div>
+  <div class="csl-entry">[59]	Stieg MF. The information needs of historians. Coll Res Libr, 1981, 42(6): 549-560.</div>
   <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议. 山西师范大学学报(社会科学版), 2010, 37(4): 147.</div>
   <div class="csl-entry">[61]	王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件. 见: 曹志耘, 编. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
-  <div class="csl-entry">[62]	Kennedy W. J., Garrison R. E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 1975, 22: 311.</div>
-  <div class="csl-entry">[63]	Kennedy W. J., Garrison R. E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 1975, 8(4): 339-360.</div>
+  <div class="csl-entry">[62]	Kennedy WJ, Garrison RE. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, 1975, 22: 311.</div>
+  <div class="csl-entry">[63]	Kennedy WJ, Garrison RE. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 1975, 8(4): 339-360.</div>
   <div class="csl-entry">[64]	张忠智. 科技书刊的总编(主编)的角色要求. 见: 中国科学技术期刊编辑学会, 编. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
   <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 现代汉语词典. 修订本. 北京: 商务印书馆, 1996.</div>
   <div class="csl-entry">[66]	刘彻东. 中国的青年刊物: 个性特色为本仁. 中国出版, 1998(5): 38-39.</div>
@@ -107,32 +107,32 @@
   <div class="csl-entry">[71]	美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.</div>
   <div class="csl-entry">[72]	康熙字典: 巳集上: 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">[73]	汪昂. 增订本草备要: 四卷. 刻本. 京都: 老二酉堂, 1881.</div>
-  <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征. 北京: 科学出版社, 1998.</div>
+  <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, others. 中国森林群落分类及其群落特征. 北京: 科学出版社, 1998.</div>
   <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南. 北京: 九州出版社, 2013.</div>
   <div class="csl-entry">[76]	罗斯基. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.</div>
   <div class="csl-entry">[77]	库恩. 科学革命的结构: 第 4 版. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
   <div class="csl-entry">[78]	侯文顺. 高分子物理: 高分子材料分析、选择与改性. 北京: 化学工业出版社, 2010: 119.</div>
-  <div class="csl-entry">[79]	Crawford W., Gorman M. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association, 1995.</div>
+  <div class="csl-entry">[79]	Crawford W, Gorman M. Future libraries: Dreams, madness, &#38; reality. Chicago: American Library Association, 1995.</div>
   <div class="csl-entry">[80]	International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
-  <div class="csl-entry">[81]	O’Brien J. A. Introduction to information systems. 7th ed. Burr Ridge, III: Irwin, 1994.</div>
+  <div class="csl-entry">[81]	O’Brien JA. Introduction to information systems. 7th ed. Burr Ridge, III: Irwin, 1994.</div>
   <div class="csl-entry">[82]	Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">[83]	Praetzellis A. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">[84]	中国职工教育研究会. 职工教育研究论文集. 北京: 人民教育出版社, 1985.</div>
   <div class="csl-entry">[85]	中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社, 2012.</div>
   <div class="csl-entry">[86]	雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">[87]	陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社, 2011.</div>
-  <div class="csl-entry">[88]	Babu B. V., Nagar A. K., Deep K., et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">[88]	Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. 2013.</div>
-  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013. 2013.</div>
-  <div class="csl-entry">[91]	Calkin D., Ager A., Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8-9.</div>
+  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, others. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013. 2013.</div>
+  <div class="csl-entry">[91]	Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8-9.</div>
   <div class="csl-entry">[92]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[93]	World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group. Geneva: WHO, 1970.</div>
   <div class="csl-entry">[94]	马欢. 人类活动影响下海河流域典型区水循环变化分析. 北京: 清华大学, 2011: 27.</div>
   <div class="csl-entry">[95]	吴云芳. 面向中文信息处理的现代汉语并列结构研究. 北京: 北京大学, 2003.</div>
-  <div class="csl-entry">[96]	Cairns B. R. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California, 1965.</div>
+  <div class="csl-entry">[96]	Cairns BR. Infrared spectroscopic studies on solid oxygen. Berkeley: Univ. of California, 1965.</div>
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置. 中国专利, 201220158825.2, 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法. 中国专利, 01129210.5, 2001-10-24.</div>
-  <div class="csl-entry">[99]	Koseki A., Momose H., Kawahito M., et al. Compiler. USpatent, US828402, 2002-05-25.</div>
+  <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, Komatsu H. Compiler. USpatent, US828402, 2002-05-25.</div>
   <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. GB/T 3792.4—2009. 文献著录: 第 4 部分 非书资料. 北京: 中国标准出版社, 2010: 3.</div>
   <div class="csl-entry">[101]	全国广播电视标准化技术委员会. GY/T 202.2—2007. 广播电视音像资料编目规范: 第 2 部分 广播资料. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
   <div class="csl-entry">[102]	国家环境保护局科技标准司. GB 15616—1995. 土壤环境质量标准. 北京: 中国标准出版社, 1996: 2-3.</div>
@@ -143,21 +143,21 @@
   <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986. 世界各国和地区名称代码. 见: 全国文献工作标准化委员会, 编. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三. 见: 宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 同济大学土木工程防灾国家重点实验室, 编. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
-  <div class="csl-entry">[110]	Buseck P. R., Nord G. L. Jr., Veblen D. R. Subsolidus phenomena in pyroxenes. In: Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">[111]	Fourney M. E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+  <div class="csl-entry">[110]	Buseck PR, Nord GL Jr, Veblen DR. Subsolidus phenomena in pyroxenes. In: Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">[111]	Fourney ME. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75.</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法. 图书情报工作, 2008, 52(6): 6-21.</div>
-  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
+  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">[115]	陈建军. 从数字地球到智慧地球. 国土资源导刊, 2010, 7(10): 93.</div>
-  <div class="csl-entry">[116]	Des Marais D. J., Strauss H., Summons R. E., et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature, 1992, 359(6396): 605-609.</div>
-  <div class="csl-entry">[117]	Saito M., Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
-  <div class="csl-entry">[118]	Walls S. C., Barichivich W. J., Brown M. E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. Biology, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">[119]	Franz A. K., Danielewicz M. A., Wong D. M., et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chem Biol, 2013, 8: 1053-1062.</div>
-  <div class="csl-entry">[120]	Park J. R., Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
+  <div class="csl-entry">[116]	Des Marais DJ, Strauss H, Summons RE, Hayes JM. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature, 1992, 359(6396): 605-609.</div>
+  <div class="csl-entry">[117]	Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
+  <div class="csl-entry">[118]	Walls SC, Barichivich WJ, Brown ME. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. Biology, 2013, 2(1): 399-418.</div>
+  <div class="csl-entry">[119]	Franz AK, Danielewicz MA, Wong DM, Anderson LA, Boothe JR. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chem Biol, 2013, 8: 1053-1062.</div>
+  <div class="csl-entry">[120]	Park JR, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
   <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化. 中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划. 大众科技报, 2000-11-12(7).</div>
   <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考. 北京青年报, 2000-01-12.</div>
-  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围? 人民日报, 2013-01-12.</div>
+  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 雾霾来袭, 如何突围? 人民日报, 2013-01-12.</div>
   <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
   <div class="csl-entry">[126]	李强. 化解医患矛盾需釜底抽薪. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
   <div class="csl-entry">[127]	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
@@ -169,30 +169,30 @@
 <div class="csl-bib-body second-field-align-flush">
   <div class="csl-entry">[1]	张三. 中国心理学的过去与未来. 心理学报, 2008, 40: 210-215.</div>
   <div class="csl-entry">[2]	张三, 李四. 中国心理学的过去与未来. 心理学报, 2008, 40: 210-215.</div>
-  <div class="csl-entry">[3]	Mou W., McNamara T. P. Intrinsic frames of reference in spatial memory. J Exp Psychol Learn Mem Cogn, 2002, 28: 162-170.</div>
-  <div class="csl-entry">[4]	赵一, 钱二, 孙三, 等. 中国心理学的过去与未来. 心理学报, 2008, 40: 210-215.</div>
-  <div class="csl-entry">[5]	Mou W., Zhang K., McNamara T. P. Frames of reference in spatial memories acquired from language. J Exp Psychol Learn Mem Cogn, 2004, 30: 171-180.</div>
-  <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来. 心理学报, 2008, 40: 210-215.</div>
-  <div class="csl-entry">[7]	Wolchik S. A., West S. G., Sandler I. N., et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. J Consult Clin Psychol, 2000, 68(5): 843-856.</div>
+  <div class="csl-entry">[3]	Mou W, McNamara TP. Intrinsic frames of reference in spatial memory. J Exp Psychol Learn Mem Cogn, 2002, 28: 162-170.</div>
+  <div class="csl-entry">[4]	赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. 中国心理学的过去与未来. 心理学报, 2008, 40: 210-215.</div>
+  <div class="csl-entry">[5]	Mou W, Zhang K, McNamara TP. Frames of reference in spatial memories acquired from language. J Exp Psychol Learn Mem Cogn, 2004, 30: 171-180.</div>
+  <div class="csl-entry">[6]	赵一一, 钱二, 孙三, 李四, 周五, 吴六, 郑七, 王八. 中国心理学的过去与未来. 心理学报, 2008, 40: 210-215.</div>
+  <div class="csl-entry">[7]	Wolchik SA, West SG, Sandler IN, Tein JY, Coatsworth D, Lengua L, Weiss L, Anderson ER, Greene SM, Griffin WA. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. J Consult Clin Psychol, 2000, 68(5): 843-856.</div>
   <div class="csl-entry">[8]	张三, 李四. 中国心理学的过去与未来. 心理学报.</div>
-  <div class="csl-entry">[9]	Huestegge S. M., Raettig T., Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Exp Psychol, 2019.</div>
-  <div class="csl-entry">[10]	Burin D., Kilteni K., Rabuffetti M., et al. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[9]	Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Exp Psychol, 2019.</div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1).</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来. 心理学报, 2008, 40(增刊): 210-215.</div>
   <div class="csl-entry">[12]	张三. 心理学史. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">[13]	张三. 心理学史. 北京: 未名出版社, 2008.</div>
-  <div class="csl-entry">[14]	Gibbs J. T., Huang L. N. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
-  <div class="csl-entry">[15]	Laplace P. S. A philosophical essay on probabilities. Truscott F. W., Emory F. L., trans. Dover, 1951.</div>
+  <div class="csl-entry">[14]	Gibbs JT, Huang LN. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
+  <div class="csl-entry">[15]	Laplace PS. A philosophical essay on probabilities. Truscott FW, Emory FL, trans. Dover, 1951.</div>
   <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. 概率哲学. 张三, 李四, 译. 北京: 未名出版社, 1951.</div>
   <div class="csl-entry">[17]	Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In: Freksa C, Habel C, Wender K F, eds. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
-  <div class="csl-entry">[18]	Wang D. F., Cui H. Theoretical analysis of the seven factor model of Chinese personality. In: Wang D F, Hou Y B, eds. Selected papers on personality and social psychology: Vol. 1. Beijing: Peking University Press, 2004: 46-84.</div>
+  <div class="csl-entry">[18]	Wang DF, Cui H. Theoretical analysis of the seven factor model of Chinese personality. In: Wang D F, Hou Y B, eds. Selected papers on personality and social psychology: Vol. 1. Beijing: Peking University Press, 2004: 46-84.</div>
   <div class="csl-entry">[19]	王登峰, 崔红. 中国人“大七”人格结构的理论分析. 见: 王登峰, 侯玉波, 编. 人格与社会心理学论丛: 卷 1. 北京: 北京大学出版社, 2004: 46-84.</div>
-  <div class="csl-entry">[20]	Auerbach J. S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In: Bornstein M F, ed. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley, 1993: 43-110.</div>
-  <div class="csl-entry">[21]	Lichstein K. L., Johnson R. S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. In: Reducing medication in geriatric populations. Uppsala, Sweden, 1990.</div>
-  <div class="csl-entry">[22]	Lanktree C. B., Briere J. N. Early data on the Trauma Symptom Checklist for Children (TSC-C). In: Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA, 1991.</div>
-  <div class="csl-entry">[23]	Ruby J., Fulton C. Beyond redlining: Editing software that works. In: Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
+  <div class="csl-entry">[20]	Auerbach JS. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In: Bornstein M F, ed. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley, 1993: 43-110.</div>
+  <div class="csl-entry">[21]	Lichstein KL, Johnson RS. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. In: Reducing medication in geriatric populations. Uppsala, Sweden, 1990.</div>
+  <div class="csl-entry">[22]	Lanktree CB, Briere JN. Early data on the Trauma Symptom Checklist for Children (TSC-C). In: Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA, 1991.</div>
+  <div class="csl-entry">[23]	Ruby J, Fulton C. Beyond redlining: Editing software that works. In: Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1. Canberra, Australian Capital Territory: Author, 1991.</div>
-  <div class="csl-entry">[25]	Mitchell T. R., Larson J. R. People in organizations: An introduction to organizational behavior. 3rd ed. New York: McGraw-Hill, 1987.</div>
-  <div class="csl-entry">[26]	Bergmann P. G. Relativity. In: The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+  <div class="csl-entry">[25]	Mitchell TR, Larson JR. People in organizations: An introduction to organizational behavior. 3rd ed. New York: McGraw-Hill, 1987.</div>
+  <div class="csl-entry">[26]	Bergmann PG. Relativity. In: The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   <div class="csl-entry">[27]	Sadie S. The new Grove dictionary of music and musicians. 6th ed. London : New York: Macmillan, 1980.</div>
   <div class="csl-entry">[28]	李行健. 现代汉语规范辞典. 北京: 外语教学与研究出版社, 2004: 255.</div>
   <div class="csl-entry">[29]	现代汉语频率词典. 北京: 北京语言学院出版社, 1986.</div>
@@ -249,9 +249,9 @@
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000.</div>
-  <div class="csl-entry">[45]	Polo M. The travels of Marco Polo. Marsden W., tran. Hertfordshire: Cumberland House, 1997.</div>
-  <div class="csl-entry">[46]	Chamberlain H. B. On the search for civil society in China. Mod China, 1993, 19(2): 199-215.</div>
-  <div class="csl-entry">[47]	Schfield R. S. The impact of scarcity and plenty on population change in England. In: Rotberg R I, Rabb T K, eds. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+  <div class="csl-entry">[45]	Polo M. The travels of Marco Polo. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[46]	Chamberlain HB. On the search for civil society in China. Mod China, 1993, 19(2): 199-215.</div>
+  <div class="csl-entry">[47]	Schfield RS. The impact of scarcity and plenty on population change in England. In: Rotberg R I, Rabb T K, eds. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD, 1969.</div>
 </div>
 
@@ -275,13 +275,13 @@
   <div class="csl-entry">[15]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号. 2007.</div>
   <div class="csl-entry">[16]	包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号.</div>
   <div class="csl-entry">[17]	陆红霞诉南通市发改委政府信息公开案. 见: 最高人民法院公报. 2015.</div>
-  <div class="csl-entry">[18]	Reich C. A. The new property. Yale Law J, 1964, 73(5): 733-787.</div>
-  <div class="csl-entry">[19]	Brandeis L. D. What publicity can do. Harper’s Weekly, 1913: 10.</div>
+  <div class="csl-entry">[18]	Reich CA. The new property. Yale Law J, 1964, 73(5): 733-787.</div>
+  <div class="csl-entry">[19]	Brandeis LD. What publicity can do. Harper’s Weekly, 1913: 10.</div>
   <div class="csl-entry">[20]	Alford W. To steal a book is an elegant offense: Intellectual property law in Chinese civilization. Stanford University Press, 1995.</div>
   <div class="csl-entry">[21]	应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社, 2006.</div>
   <div class="csl-entry">[22]	R. v. Panel on Take-overs and Mergers. In: QB: Vol. 815. 1987.</div>
   <div class="csl-entry">[23]	罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学, 1993(1): 52-59.</div>
-  <div class="csl-entry">[24]	夏新华, 胡旭晟, 刘鄂, 等. 近代中国宪政历程. 中国政法大学出版社, 2004.</div>
+  <div class="csl-entry">[24]	夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗. 近代中国宪政历程. 中国政法大学出版社, 2004.</div>
   <div class="csl-entry">[25]	邓小平. 精简机构是一场革命. 见: 邓小平文选: 卷 2. 2 版. 人民出版社, 1994.</div>
   <div class="csl-entry">[26]	[英]劳特派特. 奥本海国际法: 上卷第一分册. 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971.</div>
   <div class="csl-entry">[27]	全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号. 2017.</div>
@@ -299,8 +299,8 @@
   <div class="csl-entry">[39]	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号. 2017.</div>
   <div class="csl-entry">[40]	Barbara Ward. Progress for a small planet. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
   <div class="csl-entry">[41]	Rosenthal A. White House tutors Kremlin in how a presidency works. New York Times, 1990-06-15(A1).</div>
-  <div class="csl-entry">[42]	Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy. Rehg W., tran. MIT Press, 1996.</div>
-  <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress. In: Bergsten C F, Gill B, Lardy N R, et al., eds. China: The balance sheet. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">[42]	Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy. Rehg W, tran. MIT Press, 1996.</div>
+  <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress. In: Bergsten C F, Gill B, Lardy N R, Mitchell D, eds. China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">[44]	Department of Transportation Act: 89-670. In: Stat.: Vol. 80. 1966: 931, 944-947.</div>
   <div class="csl-entry">[45]	Administrative Procedure Act § 6. In: U.S.C.: Vol. 5. 2006.</div>
   <div class="csl-entry">[46]	Natural Resources Defense Council <i>v.</i> Gorsuch. In: F.2d: Vol. 685. 1982: 718.</div>
@@ -320,10 +320,10 @@
   <div class="csl-entry">[60]	Würdinger M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Jurist Schul, 2012(3): 234-240.</div>
   <div class="csl-entry">[61]	Fischer T. Absurdes Spektakel um den Tod. Die Zeit, 2015-09-29.</div>
   <div class="csl-entry">[62]	Roxin C. Strafrecht Allgemeiner Teil: 卷 1. 4 版. C. H. Beck, 2006.</div>
-  <div class="csl-entry">[63]	Dreier R., Paulson S. Rechtsphilosophie Studienausgabe. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
+  <div class="csl-entry">[63]	Dreier R, Paulson S. Rechtsphilosophie Studienausgabe. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
   <div class="csl-entry">[64]	Schwab M. 见: Münchener Kommentar BGB: 卷 5. 6 版. 2013.</div>
   <div class="csl-entry">[65]	Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. 见: Baumann J, 编. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.</div>
-  <div class="csl-entry">[66]	Canaris C. W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen. 见. 1990.</div>
+  <div class="csl-entry">[66]	Canaris CW. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen. 见. 1990.</div>
   <div class="csl-entry">[67]	StGB.</div>
   <div class="csl-entry">[68]	StPO.</div>
   <div class="csl-entry">[69]	GG.</div>
@@ -347,23 +347,23 @@
 ### APA 示例文献
 
 <div class="csl-bib-body second-field-align-flush">
-  <div class="csl-entry">[1]	McCauley S. M., Christiansen M. H. Language learning as language use: A cross-linguistic model of child language development. Psychol Rev, 2019, 126(1): 1-51.</div>
-  <div class="csl-entry">[2]	Ahmann E., Tuttle L. J., Saviet M., et al. A descriptive review of ADHD coaching research: Implications for college students. J Postsecond Educ Disabil, 2018, 31(1): 17-39.</div>
+  <div class="csl-entry">[1]	McCauley SM, Christiansen MH. Language learning as language use: A cross-linguistic model of child language development. Psychol Rev, 2019, 126(1): 1-51.</div>
+  <div class="csl-entry">[2]	Ahmann E, Tuttle LJ, Saviet M, Wright SD. A descriptive review of ADHD coaching research: Implications for college students. J Postsecond Educ Disabil, 2018, 31(1): 17-39.</div>
   <div class="csl-entry">[3]	Anderson M. Getting consistent with consequences. Educ Leadership, 2018, 76(1): 26-33.</div>
   <div class="csl-entry">[4]	Goldman C. The complicated calibration of love, especially in adoption. Chicago Tribune, 2018-11-28.</div>
-  <div class="csl-entry">[5]	Kalnay E., Kanamitsu M., Kistler R., et al. The NCEP/NCAR 40-year reanalysis project. Bull Am Meteorol Soc, 1996, 77(3): 437-471.</div>
-  <div class="csl-entry">[6]	De Vries R., Nieuwenhuijze M., Buitendijk S. E., et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands. Midwifery, 2013, 29(10): 1122-1128.</div>
-  <div class="csl-entry">[7]	Burin D., Kilteni K., Rabuffetti M., et al. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1).</div>
-  <div class="csl-entry">[8]	Huestegge S. M., Raettig T., Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Exp Psychol, 2019.</div>
-  <div class="csl-entry">[9]	Pachur T., Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach. Psychon Bull Rev.</div>
-  <div class="csl-entry">[10]	Chaves-Morillo V., Gómez Calero C., Fernández-Muñoz J. J., et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age. Clínica y Salud, 2018, 28(3): 155-161.</div>
+  <div class="csl-entry">[5]	Kalnay E, Kanamitsu M, Kistler R, Collins W, Deaven D, Gandin L, Iredell M, Saha S, White G, Wollen J, Zhu Y, Chelliah M, Ebisuzaki W, Higgins W, Janowiak J, Mo KC, Ropelewski C, Wang J, Leetma A, Aaron A, Court BBC, Joseph D. The NCEP/NCAR 40-year reanalysis project. Bull Am Meteorol Soc, 1996, 77(3): 437-471.</div>
+  <div class="csl-entry">[6]	De Vries R, Nieuwenhuijze M, Buitendijk SE, the members of Midwifery Science Work Group. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands. Midwifery, 2013, 29(10): 1122-1128.</div>
+  <div class="csl-entry">[7]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[8]	Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Exp Psychol, 2019.</div>
+  <div class="csl-entry">[9]	Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach. Psychon Bull Rev.</div>
+  <div class="csl-entry">[10]	Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz JJ, Toledano-Muñoz A, Fernández-Heute J, Martinez-Monge N, Palacios-Ceña D, Peñacoba-Puente C. Sensorineural anosmia: Relationship between subtype, recognition time, and age. Clínica y Salud, 2018, 28(3): 155-161.</div>
   <div class="csl-entry">[11]	Piaget J. Intellectual evolution from adolescence to adulthood. Hum Dev, 1972, 15(1): 1-12.</div>
-  <div class="csl-entry">[12]	Shore M. F. Marking time in the land of plenty: Reflections on mental health in the United States. Am J Orthopsychiatry, 2014, 84(6): 611-618.</div>
+  <div class="csl-entry">[12]	Shore MF. Marking time in the land of plenty: Reflections on mental health in the United States. Am J Orthopsychiatry, 2014, 84(6): 611-618.</div>
   <div class="csl-entry">[13]	Marking time in the land of plenty: Reflections on mental health in the United States. Am J Orthopsychiatry, 1981, 51(3): 391-402.</div>
-  <div class="csl-entry">[14]	Lilienfeld S. O. Archives of scientific psychology: Heterodox issues in psychology. 2018, 6(1). 2018: 51-104.</div>
-  <div class="csl-entry">[15]	McDaniel S. H., Salas E., Kazak A. E. American psychologist: The science of teamwork. 2018, 73(4). 2018.</div>
-  <div class="csl-entry">[16]	Mehrholz J., Pohl M., Platz T., et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke. Cochrane Db Syst Rev, 2018.</div>
-  <div class="csl-entry">[17]	Morey M. C. Physical activity and exercise in older adults. UpToDate, 2019.</div>
+  <div class="csl-entry">[14]	Lilienfeld SO. Archives of scientific psychology: Heterodox issues in psychology. 2018, 6(1). 2018: 51-104.</div>
+  <div class="csl-entry">[15]	McDaniel SH, Salas E, Kazak AE. American psychologist: The science of teamwork. 2018, 73(4). 2018.</div>
+  <div class="csl-entry">[16]	Mehrholz J, Pohl M, Platz T, Kugler J, Elsner B. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke. Cochrane Db Syst Rev, 2018.</div>
+  <div class="csl-entry">[17]	Morey MC. Physical activity and exercise in older adults. UpToDate, 2019.</div>
   <div class="csl-entry">[18]	Bergeson S. Really cool neutral plasmas. Science, 2019, 363(6422): 33-34.</div>
   <div class="csl-entry">[19]	Bustillos M. On video games and storytelling: An interview with Tom Bissell. The New Yorker, 2013.</div>
   <div class="csl-entry">[20]	Weir K. Forgiveness can improve mental and physical health. Monitor on Psychology, 2017, 48(1): 30.</div>
@@ -372,41 +372,41 @@
   <div class="csl-entry">[23]	Klymkowsky M. Can we talk scientifically about free will? (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
   <div class="csl-entry">[24]	KS in NJ. From this article, it sounds like men are figuring something out that women have known forever. I know of many. The Washington Post, 2019-01-15.</div>
   <div class="csl-entry">[25]	Author A. How workout buddies can help stave off loneliness. The Washington Post, 2019-01-15.</div>
-  <div class="csl-entry">[26]	Cuellar N. G. Study abroad programs. J Transcult Nurs, 2016, 27(3): 209.</div>
-  <div class="csl-entry">[27]	Brown L. S. Feminist therapy. 2nd ed. American Psychological Association, 2018.</div>
+  <div class="csl-entry">[26]	Cuellar NG. Study abroad programs. J Transcult Nurs, 2016, 27(3): 209.</div>
+  <div class="csl-entry">[27]	Brown LS. Feminist therapy. 2nd ed. American Psychological Association, 2018.</div>
   <div class="csl-entry">[28]	Burgess R. Rethinking global health: Frameworks of power. Routledge, 2019.</div>
   <div class="csl-entry">[29]	Cain S. Quiet: The power of introverts in a world that can’t stop talking. Random House Audio, 2012.</div>
-  <div class="csl-entry">[30]	Christian B., Griffiths T. Algorithms to live by: The computer science of human decisions. Henry Holt and Co., 2016.</div>
-  <div class="csl-entry">[31]	Meadows D. H. Thinking in systems: A primer. Chelsea Green Publishing, 2008.</div>
-  <div class="csl-entry">[32]	Schmid H. J. Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge. American Psychological Association; De Gruyter Mouton, 2017.</div>
+  <div class="csl-entry">[30]	Christian B, Griffiths T. Algorithms to live by: The computer science of human decisions. Henry Holt and Co., 2016.</div>
+  <div class="csl-entry">[31]	Meadows DH. Thinking in systems: A primer. Chelsea Green Publishing, 2008.</div>
+  <div class="csl-entry">[32]	Schmid HJ. Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge. American Psychological Association; De Gruyter Mouton, 2017.</div>
   <div class="csl-entry">[33]	Hacker Hughes J. Military veteran psychological health and social care: Contemporary approaches. Routledge, 2017.</div>
-  <div class="csl-entry">[34]	Pridham K. F., Limbo R., Schroeder M. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents. Springer Publishing Company, 2018.</div>
-  <div class="csl-entry">[35]	Amano N., Kondo H. Lexical characteristics of Japanese language: Vol. 7. Sansei-do, 2000.</div>
-  <div class="csl-entry">[36]	Piaget J., Inhelder B. The psychology of the child. Quadrige, 1966.</div>
-  <div class="csl-entry">[37]	Piaget J., Inhelder B. The psychology of the child. Weaver H., tran. 2nd ed. Basic Books, 1969.</div>
-  <div class="csl-entry">[38]	Freud S. The interpretation of dreams: The complete and definitive text. Strachey J., tran. Basic Books, 2010.</div>
-  <div class="csl-entry">[39]	Rowling J. K. Harry Potter and the sorceror’s stone. Pottermore Publishing, 2015.</div>
-  <div class="csl-entry">[40]	Fiske S. T., Gilbert D. T., Lindzey G. Handbook of social psychology: Vol. 1. 5th ed. John Wiley &#38; Sons, 2010.</div>
-  <div class="csl-entry">[41]	Travis C. B., White J. W. APA handbook of the psychology of women: Vol. 1 History, theory, and battlegrounds. American Psychological Association, 2018.</div>
+  <div class="csl-entry">[34]	Pridham KF, Limbo R, Schroeder M. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents. Springer Publishing Company, 2018.</div>
+  <div class="csl-entry">[35]	Amano N, Kondo H. Lexical characteristics of Japanese language: Vol. 7. Sansei-do, 2000.</div>
+  <div class="csl-entry">[36]	Piaget J, Inhelder B. The psychology of the child. Quadrige, 1966.</div>
+  <div class="csl-entry">[37]	Piaget J, Inhelder B. The psychology of the child. Weaver H, tran. 2nd ed. Basic Books, 1969.</div>
+  <div class="csl-entry">[38]	Freud S. The interpretation of dreams: The complete and definitive text. Strachey J, tran. Basic Books, 2010.</div>
+  <div class="csl-entry">[39]	Rowling JK. Harry Potter and the sorceror’s stone. Pottermore Publishing, 2015.</div>
+  <div class="csl-entry">[40]	Fiske ST, Gilbert DT, Lindzey G. Handbook of social psychology: Vol. 1. 5th ed. John Wiley &#38; Sons, 2010.</div>
+  <div class="csl-entry">[41]	Travis CB, White JW. APA handbook of the psychology of women: Vol. 1 History, theory, and battlegrounds. American Psychological Association, 2018.</div>
   <div class="csl-entry">[42]	Madigan S. Narrative therapy. 2nd ed. American Psychological Association, 2019.</div>
   <div class="csl-entry">[43]	American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th ed. American Psychiatric Association, 2013.</div>
   <div class="csl-entry">[44]	World Health Organization. International statistical classification of diseases and related health problems. 11th ed. World Health Organization, 2019.</div>
   <div class="csl-entry">[45]	American Psychological Association. APA dictionary of psychology. [2019].</div>
   <div class="csl-entry">[46]	Merriam-Webster. Merriam-Webster.com dictionary. [2019].</div>
-  <div class="csl-entry">[47]	Zalta E. N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
+  <div class="csl-entry">[47]	Zalta EN. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">[48]	Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999.</div>
   <div class="csl-entry">[49]	King James Bible. King James Bible Online, 2017.</div>
-  <div class="csl-entry">[50]	The Qur’an. Abdel Haleem M. A. S., tran. Oxford University Press, 2004.</div>
+  <div class="csl-entry">[50]	The Qur’an. Abdel Haleem MAS, tran. Oxford University Press, 2004.</div>
   <div class="csl-entry">[51]	The Torah: The five books of Moses. 3rd ed. The Jewish Publication Society, 2015.</div>
-  <div class="csl-entry">[52]	Aristotle. Poetics. Butcher S. H., tran. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">[52]	Aristotle. Poetics. Butcher SH, tran. The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">[53]	Shakespeare W. Much ado about nothing. Washington Square Press, 1995.</div>
-  <div class="csl-entry">[54]	Balsam K. F., Martell C. R., Jones K. P., et al. Affirmative cognitive behavior therapy with sexual and gender minority people. In: Iwamasa G Y, Hays P A, eds. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.</div>
-  <div class="csl-entry">[55]	Weinstock R., Leong G. B., Silva J. A. Defining forensic psychiatry: Roles and responsibilities. In: Rosner R, ed. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.</div>
-  <div class="csl-entry">[56]	Tafoya N., Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience. In: McGoldrick M, Giordano J, Garcia-Preto N, eds. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
+  <div class="csl-entry">[54]	Balsam KF, Martell CR, Jones KP, Safren SA. Affirmative cognitive behavior therapy with sexual and gender minority people. In: Iwamasa G Y, Hays P A, eds. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.</div>
+  <div class="csl-entry">[55]	Weinstock R, Leong GB, Silva JA. Defining forensic psychiatry: Roles and responsibilities. In: Rosner R, ed. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.</div>
+  <div class="csl-entry">[56]	Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience. In: McGoldrick M, Giordano J, Garcia-Preto N, eds. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
   <div class="csl-entry">[57]	Carcavilla González N. Auditory sensory therapy: Brain activation through music. In: Garcia Meilán J J, ed. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
-  <div class="csl-entry">[58]	Heidegger M. On the essence of truth. Sallis J., tran. In: Krell D F, ed. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
-  <div class="csl-entry">[59]	Sacchett C., Humphreys G. W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. In: Balota D A, Marsh E J, eds. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
-  <div class="csl-entry">[60]	Sacchett C., Humphreys G. W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
+  <div class="csl-entry">[58]	Heidegger M. On the essence of truth. Sallis J, tran. In: Krell D F, ed. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+  <div class="csl-entry">[59]	Sacchett C, Humphreys GW. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. In: Balota D A, Marsh E J, eds. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
+  <div class="csl-entry">[60]	Sacchett C, Humphreys GW. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
   <div class="csl-entry">[61]	Bronfenbrenner U. The social ecology of human development: A retrospective conclusion. In: Bronfenbrenner U, ed. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
   <div class="csl-entry">[62]	Richardson F. Brain and intelligence: The ecology of child development. National Educational Press, 1973: 113-123.</div>
   <div class="csl-entry">[63]	Goldin-Meadow S. Gesture and cognitive development. In: Liben L S, Mueller U, eds. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
@@ -418,51 +418,51 @@
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations. 2012.</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation. 2013.</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
-  <div class="csl-entry">[72]	Fried D., Polyakova A. Democratic defense against disinformation. Atlantic Council, 2018.</div>
-  <div class="csl-entry">[73]	Segaert A., Bauer A. The extent and nature of veteran homelessness in Canada. Employment and Social Development Canada, 2015.</div>
-  <div class="csl-entry">[74]	Blackwell D. L., Lucas J. W., Clarke T. C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012. Centers for Disease Control and Prevention, 2014.</div>
+  <div class="csl-entry">[72]	Fried D, Polyakova A. Democratic defense against disinformation. Atlantic Council, 2018.</div>
+  <div class="csl-entry">[73]	Segaert A, Bauer A. The extent and nature of veteran homelessness in Canada. Employment and Social Development Canada, 2015.</div>
+  <div class="csl-entry">[74]	Blackwell DL, Lucas JW, Clarke TC. Summary health statistics for U.S. adults: National Health Interview Survey, 2012. Centers for Disease Control and Prevention, 2014.</div>
   <div class="csl-entry">[75]	British Cardiovascular Society Working Group. British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients. British Cardiovascular Society, 2016.</div>
   <div class="csl-entry">[76]	U.S. Securities and Exchange Commission. Agency financial report: Fiscal Year 2017. 2017.</div>
   <div class="csl-entry">[77]	American Counseling Association. 2014 ACA code of ethics. 2014.</div>
   <div class="csl-entry">[78]	American Nurses Association. Code of ethics for nurses with interpretive statements. 2015.</div>
   <div class="csl-entry">[79]	American Psychological Association. Ethical principles of psychologists and code of conduct. 2017.</div>
-  <div class="csl-entry">[80]	Blair C. B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
+  <div class="csl-entry">[80]	Blair CB. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
   <div class="csl-entry">[81]	Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82]	Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change. National Education Policy Center, 2018.</div>
   <div class="csl-entry">[83]	U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices. U.S. Food and Drug Administration, 2019.</div>
-  <div class="csl-entry">[84]	Fistek A., Jester E., Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate. Milwaukee, WI, United States, 2017.</div>
-  <div class="csl-entry">[85]	Maddox S., Hurling J., Stewart E., et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children. New Orleans, LA, United States, 2016.</div>
+  <div class="csl-entry">[84]	Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate. Milwaukee, WI, United States, 2017.</div>
+  <div class="csl-entry">[85]	Maddox S, Hurling J, Stewart E, Edwards A. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children. New Orleans, LA, United States, 2016.</div>
   <div class="csl-entry">[86]	Pearson J. Fat talk and its effects on state-based body image in women. Sydney, NSW, Australia, 2018.</div>
-  <div class="csl-entry">[87]	De Boer D., LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
+  <div class="csl-entry">[87]	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[88]	Harris L. Instructional leadership perceptions and practices of elementary school leaders: [Unpublished doctoral dissertation]. University of Virginia, 2014.</div>
-  <div class="csl-entry">[89]	Hollander M. M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373: [Doctoral dissertation]. University of Wisconsin–Madison, 2017.</div>
-  <div class="csl-entry">[90]	Hutcheson V. H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents: [Master’s thesis]. The College of William &#38; Mary, 2012.</div>
-  <div class="csl-entry">[91]	Mirabito L. A., Heck N. C. Bringing LGBTQ youth theater into the spotlight. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
+  <div class="csl-entry">[89]	Hollander MM. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373: [Doctoral dissertation]. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">[90]	Hutcheson VH. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents: [Master’s thesis]. The College of William &#38; Mary, 2012.</div>
+  <div class="csl-entry">[91]	Mirabito LA, Heck NC. Bringing LGBTQ youth theater into the spotlight. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
   <div class="csl-entry">[92]	Brodsky E. The year we thought about love. 2016.</div>
   <div class="csl-entry">[93]	Santos F. Reframing refugee children’s stories. The New York Times, 2019-01-11.</div>
   <div class="csl-entry">[94]	Yousafzai M. We are displaced: My journey and stories from refugee girls around the world. 2016.</div>
   <div class="csl-entry">[95]	Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile. (2018-02-01). <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
   <div class="csl-entry">[96]	Schur M. Somewhere else. 2018.</div>
-  <div class="csl-entry">[97]	Yoo J., Miyamoto Y., Rigotti A., et al. Linking positive affect to blood lipids: A cultural perspective. Department of Psychology, University of Wisconsin-Madison, 2016.</div>
+  <div class="csl-entry">[97]	Yoo J, Miyamoto Y, Rigotti A, Ryff C. Linking positive affect to blood lipids: A cultural perspective. Department of Psychology, University of Wisconsin-Madison, 2016.</div>
   <div class="csl-entry">[98]	O’Shea M. Understanding proactive behavior in the workplace as a function of gender. Department of Management, University of Kansas, 2018.</div>
-  <div class="csl-entry">[99]	Lippincott T., Poindexter E. K. Emotion recognition as a function of facial cues: Implications for practice. Department of Psychology, University of Washington, 2019.</div>
-  <div class="csl-entry">[100]	Leuker C., Samartzidis L., Hertwig R., et al. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 2018.</div>
-  <div class="csl-entry">[101]	Stults-Kolehmainen M. A., Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 2015.</div>
-  <div class="csl-entry">[102]	Ho H. K. Teacher preparation for early childhood special education in Taiwan. ERIC, 2014.</div>
-  <div class="csl-entry">[103]	D’Souza A., Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080. ICPSR, 2018.</div>
+  <div class="csl-entry">[99]	Lippincott T, Poindexter EK. Emotion recognition as a function of facial cues: Implications for practice. Department of Psychology, University of Washington, 2019.</div>
+  <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, Pleskac TJ. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 2018.</div>
+  <div class="csl-entry">[101]	Stults-Kolehmainen MA, Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 2015.</div>
+  <div class="csl-entry">[102]	Ho HK. Teacher preparation for early childhood special education in Taiwan. ERIC, 2014.</div>
+  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080. ICPSR, 2018.</div>
   <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531. National Archive of Data on Arts and Culture, 2016.</div>
   <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
-  <div class="csl-entry">[106]	Baer R. A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills. University of Kentucky, 2015.</div>
+  <div class="csl-entry">[106]	Baer RA. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills. University of Kentucky, 2015.</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism outcomes. 2011.</div>
-  <div class="csl-entry">[108]	Borenstein M., Hedges L., Higgins J., 等. Comprehensive meta-analysis. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
+  <div class="csl-entry">[108]	Borenstein M, Hedges L, Higgins J, Rothstein H. Comprehensive meta-analysis. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
   <div class="csl-entry">[109]	SR Research. Eyelink 1000 plus. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
   <div class="csl-entry">[110]	Tactile Labs. Latero tactile display. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">[111]	Epocrates. Epocrates medical references. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline. In: Epocrates medical references. Google Play Store, 2019.</div>
-  <div class="csl-entry">[113]	Tellegen A., Ben-Porath Y. S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
+  <div class="csl-entry">[113]	Tellegen A, Ben-Porath YS. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT.</div>
-  <div class="csl-entry">[115]	Alonso-Tapia J., Nieto C., Merino-Tejedor E., et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018.</div>
-  <div class="csl-entry">[116]	Cardoza D., Morris J. K., Myers H. F., et al. Acculturative Stress Inventory (ASI): TC022704. ETS TestLink, 2000.</div>
+  <div class="csl-entry">[115]	Alonso-Tapia J, Nieto C, Merino-Tejedor E, Huertas JA, Ruiz M. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018.</div>
+  <div class="csl-entry">[116]	Cardoza D, Morris JK, Myers HF, Rodriguez N. Acculturative Stress Inventory (ASI): TC022704. ETS TestLink, 2000.</div>
   <div class="csl-entry">[117]	Forman M. One flew over the cuckoo’s nest. United Artists, 1975.</div>
   <div class="csl-entry">[118]	Accelerated experiental dynamic psychotherapy (AEDP) supervision. American Pychological Association, 2017.</div>
   <div class="csl-entry">[119]	Jackson P. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company, 2001.</div>
@@ -472,11 +472,11 @@
   <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25. In: The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   <div class="csl-entry">[124]	Giertz S. Why you should make useless things. TED Conferences, 2018.</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to shame. YouTube, 2012.</div>
-  <div class="csl-entry">[126]	Goldberg J. F. Evaluating adverse drug effects. American Psychiatric Association, 2018.</div>
+  <div class="csl-entry">[126]	Goldberg JF. Evaluating adverse drug effects. American Psychiatric Association, 2018.</div>
   <div class="csl-entry">[127]	Cutts S. Happiness. Vimeo, 2017.</div>
   <div class="csl-entry">[128]	Fogarty M. How to diagram a sentence (absolute basics). YouTube, 2016.</div>
   <div class="csl-entry">[129]	University of Oxford. How do geckos walk on water? YouTube, 2016.</div>
-  <div class="csl-entry">[130]	Bach J. S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060. Decca, 2010.</div>
+  <div class="csl-entry">[130]	Bach JS. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060. Decca, 2010.</div>
   <div class="csl-entry">[131]	Bowie D. Blackstar. Columbia, 2016.</div>
   <div class="csl-entry">[132]	van Beethoven L. Symphony No. 3 in E-flat major. In: Beethoven: Complete Symphonies. Brilliant Classics, 2012.</div>
   <div class="csl-entry">[133]	Beyoncé. Formation. In: Lemonade. Parkwood; Columbia, 2016.</div>
@@ -485,18 +485,18 @@
   <div class="csl-entry">[136]	Vedantam S. Hidden brain. NPR, 2015.</div>
   <div class="csl-entry">[137]	Glass I. Amusement park: 443. In: This American Life. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
-  <div class="csl-entry">[139]	King M. L. Jr. I have a dream. American Rhetoric, 1963.</div>
+  <div class="csl-entry">[139]	King ML Jr. I have a dream. American Rhetoric, 1963.</div>
   <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite. Paris, France: The Louvre, 1826/1827.</div>
   <div class="csl-entry">[141]	Wood G. American gothic. Chicago, IL, United States: Art Institute of Chicago, 1930.</div>
   <div class="csl-entry">[142]	GDJ. Neural network deep learning prismatic. Openclipart, 2018.</div>
-  <div class="csl-entry">[143]	Rossman J., Palmer R. Sorting through our space junk. World Science Festival, 2015.</div>
+  <div class="csl-entry">[143]	Rossman J, Palmer R. Sorting through our space junk. World Science Festival, 2015.</div>
   <div class="csl-entry">[144]	Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">[145]	Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru. [2020].</div>
   <div class="csl-entry">[146]	McCurry S. Afghan girl. National Geographic, 1985.</div>
   <div class="csl-entry">[147]	Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted. The Pulitzer Prizes, 2016.</div>
-  <div class="csl-entry">[148]	Canan E., Vasilev J. Lecture notes on resource allocation. Department of Management Control and Information Systems, University of Chile, 2019.</div>
+  <div class="csl-entry">[148]	Canan E, Vasilev J. Lecture notes on resource allocation. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">[149]	Housand B. Game on! Integrating games and simulations in the classroom. SlideShare, 2016.</div>
-  <div class="csl-entry">[150]	Mack R., Spake G. Citing open source images and formatting references for presentations. Canvas@FNU, 2018.</div>
+  <div class="csl-entry">[150]	Mack R, Spake G. Citing open source images and formatting references for presentations. Canvas@FNU, 2018.</div>
   <div class="csl-entry">[151]	APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]. (2018-06-29). <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">[152]	Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity. (2018-02-26). <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.</div>
   <div class="csl-entry">[153]	White B. I treasure every minute we spent together #koko [image attached]. (2018-06-21). <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.</div>
@@ -512,8 +512,8 @@
   <div class="csl-entry">[163]	Bologna C. What happens to your mind and body when you feel homesick? (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
   <div class="csl-entry">[164]	Centers for Disease Control and Prevention. People at high risk of developing flu-related complications. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
   <div class="csl-entry">[165]	World Health Organization. Questions and answers on immunization and vaccine safety. 2018. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
-  <div class="csl-entry">[166]	Martin Lillie C. M. Be kind to yourself: How self-compassion can improve your resiliency. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
-  <div class="csl-entry">[167]	Boddy J., Neumann T., Jennings S., et al. Ethics principles. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
+  <div class="csl-entry">[166]	Martin Lillie CM. Be kind to yourself: How self-compassion can improve your resiliency. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
+  <div class="csl-entry">[167]	Boddy J, Neumann T, Jennings S, Morrow V, Alderson P, Rees R, Gibson W. Ethics principles. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
   <div class="csl-entry">[168]	National Nurses United. What employers should do to protect nurses from Zika. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
   <div class="csl-entry">[169]	U.S. Census Bureau. U.S. and world population clock. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
   <div class="csl-entry">[170]	Brown v. Board of Education. In: U.S.: Vol. 347. 1954: 483.</div>
@@ -537,7 +537,7 @@
   <div class="csl-entry">[188]	Protection of human subjects. In: C.F.R.: Vol. 45. 2009.</div>
   <div class="csl-entry">[189]	Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees. In: F.R.: Vol. 81. 2016: 32391.</div>
   <div class="csl-entry">[190]	Exec. Order No. 13,676. In: C.F.R.: Vol. 3. 2014: 294.</div>
-  <div class="csl-entry">[191]	Hiremath S. C., Kumar S., Lu F., et al. Using metaphors to present concepts across different intellectual domains. U.S.patent, 9,367,592, 2016.</div>
+  <div class="csl-entry">[191]	Hiremath SC, Kumar S, Lu F, Salehi A. Using metaphors to present concepts across different intellectual domains. U.S.patent, 9,367,592, 2016.</div>
   <div class="csl-entry">[192]	U.S. Const. art. I, § 3.</div>
   <div class="csl-entry">[193]	S.C. Const. art. XI, § 3.</div>
   <div class="csl-entry">[194]	U.S. Const. amend. XIX.</div>
