@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
@@ -24,14 +24,14 @@
     </contributor>
     <category citation-format="author-date"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
-    <updated>2024-03-24T12:48:25+00:00</updated>
+    <updated>2024-03-24T12:52:43+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="—"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="—"/>
-      <date-part name="day" suffix="日" range-delimiter="—"/>
+      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
+      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
+      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
       <term name="anonymous" form="short">佚名</term>
@@ -110,7 +110,7 @@
     <group delimiter=", ">
       <group delimiter=": ">
         <text variable="title"/>
-        <group delimiter=" ">
+        <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <text macro="volume"/>
