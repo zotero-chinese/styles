@@ -1067,12 +1067,12 @@ original-publisher-place: Nanjing
   <div class="csl-bib-body hanging-indent">
     <div class="csl-entry">贾东琴、柯平，2011：《面向数字素养的高校图书馆数字服务体系研究》. 中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社，2011年。</div>
     <div class="csl-entry">库恩，2012：《科学革命的结构: 第 4 版》. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012年。</div>
-    <div class="csl-entry">武丽丽、华一新、张亚军等，2008：《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期。</div>
+    <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏，2008：《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期。</div>
     <div class="csl-entry">中国互联网络信息中心，2012：《第 29 次中国互联网络发展现状统计报告》. 。</div>
     <div class="csl-entry">Bawden, D., 2008, “Origins and Concepts of Digital Literacy”(2008-05-04).</div>
     <div class="csl-entry">Fan, X., and C. H. Sommers, 2013, “Food Irradiation Research and Technology”. 2 edition. Ames, Iowa: Blackwell Publishing: 25—26.</div>
     <div class="csl-entry">Fourney, M. E., c1971, “Advances in Holographic Photoelasticity”//, <i>Symposium on Applications of Holography in Mechanics</i>New York: ASME: 17—38.</div>
-    <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, et al., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, 510, 356—362.</div>
+    <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, 510, 356—362.</div>
   </div>
 </blockquote>
 
@@ -2699,9 +2699,9 @@ available-date: 2014-01-26
 </blockquote>
 
 
-## [418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]
+## [418huazhong-university-of-science-and-technology.csl]
 
-[华中科技大学人工智能与自动化学院学位论文](https://aia.hust.edu.cn/info/1122/5294.htm)样式：作者按中文写法，姓在前、名在后；英文书刊：作者按英文习惯写法，如名在前、姓在后，名用首字母缩写、姓用全称。一般6人以内须列出全部作者，6人以上写6人再加`等`（英文加`et al`））。每个参考文献的最后不加标点符号，1.5倍行间距。
+[华中科技大学](http://gs.hust.edu.cn/info/1041/5462.htm)理工科样式：6 人以内须列出全部作者，6 人以上写 6 人再加“等”（英文加“et al.”）。
 
 显示效果：
 
@@ -4148,6 +4148,128 @@ available-date: 2014-01-26
 </blockquote>
 
 
+## [474east-china-university-of-science-and-technology-undergraduate.csl]
+
+[华东理工大学本科毕业论文](https://jwc.ecust.edu.cn/2023/1128/c3975a163108/page.htm) 样式，在 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改。
+
+显示效果：
+
+> <sup>[1–8]</sup>
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2]	Fan X., Sommers C. H. Food Irradiation Research and Technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 见: 中国图书馆学会编. 中国图书馆学会年会论文集: 2011 年卷[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4]	Fourney M. E. Advances in Holographic Photoelasticity[A]. In: Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6]	Myburg A. A., Grattapaglia D., Tuskan G. A., et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+    <div class="csl-entry">[8]	Bawden D. Origins and Concepts of Digital Literacy[EB/OL]. 2008-05-04.</div>
+  </div>
+</blockquote>
+
+
+## [475huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering.csl]
+
+华中科技大学电气与电子工程学院样式（[#276](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/issues/276)）。在 [003gb-t-7714-2015-numeric-bilingual-no-url-doi.csl] 基础上修改。
+
+显示效果：
+
+> <sup>[1–8]</sup>
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩．科学革命的结构: 第 4 版［M］．金吾伦，胡新和，译．第2版．北京：北京大学出版社，2012．</div>
+    <div class="csl-entry">[2]	FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd Edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3]	贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45-52．</div>
+    <div class="csl-entry">[4]	FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8-9．</div>
+    <div class="csl-entry">[6]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告［R］．2012．</div>
+    <div class="csl-entry">[8]	BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
+
+
+## [476south-western-university-of-finance-and-ecnomics-authr-date.csl]
+
+显示效果：
+
+<blockquote>
+  （库恩，2012）<br>
+  （Fourney，c1971）<br>
+  （贾东琴、柯平，2011）<br>
+  （Fan and Sommers，2013）<br>
+  （武丽丽等，2008）<br>
+  （Myburg et al.，2014）<br>
+  （中国互联网络信息中心，2012；Bawden，2008）<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">[1]贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》，国家图书馆出版社，2011年.</div>
+    <div class="csl-entry">[2]库恩：《科学革命的结构: 第 4 版》，北京大学出版社，2012年.</div>
+    <div class="csl-entry">[3]武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》，2008年第5期.</div>
+    <div class="csl-entry">[4]中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年.</div>
+    <div class="csl-entry">[5]Bawden, D., 2008, <i>Origins and Concepts of Digital Literacy</i>.</div>
+    <div class="csl-entry">[6]Fan, X. and Sommers, C. H., 2013, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing.</div>
+    <div class="csl-entry">[7]Fourney, M. E., c1971, “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME.</div>
+    <div class="csl-entry">[8]Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., Merwe, K. van der, Singh, P., Jaarsveld, I. van, Silva-Junior, O. B., Togawa, R. C., Pappas, M. R., Faria, D. A., Sansaloni, C. P., Petroli, C. D., Yang, X., Ranjan, P., Tschaplinski, T. J., Ye, C. Y., Li, T., Sterck, L., Vanneste, K., Murat, F., Soler, M., Clemente, H. S., Saidi, N., Cassan-Wang, H., Dunand, C., Hefer, C. A., Bornberg-Bauer, E., Kersting, A. R., Vining, K., Amarasinghe, V., Ranik, M., Naithani, S., Elser, J., Boyd, A. E., Liston, A., Spatafora, J. W., Dharmwardhana, P., Raja, R., Sullivan, C., Romanel, E., Alves-Ferreira, M., Külheim, C., Foley, W., Carocha, V., Paiva, J., Kudrna, D., Brommonschenkel, S. H., Pasquali, G., Byrne, M., Rigault, P., Tibbits, J., Spokevicius, A., Jones, R. C., Steane, D. A., Vaillancourt, R. E., Potts, B. M., Joubert, F., Barry, K., Pappas, G. J., Strauss, S. H., Jaiswal, P., Grima-Pettenati, J., Salse, J., Van de Peer, Y., Rokhsar, D. S. and Schmutz, J., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, vol.510, pp.356~362.</div>
+  </div>
+</blockquote>
+
+
+## [477renmin-university-of-china-undergranduate.csl]
+
+中国人民大学《[本科毕业论文(设计)管理办法补充说明及指导手册填写要求](http://jiaowu.ruc.edu.cn/docs/2023-01/f90c79b8b21c4229bbe7f9c79abb7c14.doc)》（2014-2015学年校办字33号）样式。基于 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 和 APA 进行修改。
+
+显示效果：
+
+> [1–15]
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	王众托. 企业信息化与管理变革[M]. 北京: 中国人民大学出版社, 2001.</div>
+    <div class="csl-entry">[2]	夸美纽斯. 大教学论[M]. 傅任敢, 译. 教育科学出版社, 1999.</div>
+    <div class="csl-entry">[3]	Powell, W. W., &#38; DiMaggio, P. J. (1991). <i>The New Institutionalism in Organizational Analysis</i> (pp. 78–80). University of Chicago Press.</div>
+    <div class="csl-entry">[4]	孙立平. 总体性社会研究——对改革前中国社会结构的概要分析[J]. 中国社会科学, 1993, (1): 190–192.</div>
+    <div class="csl-entry">[5]	Bloland, H. G. (1979). Interpretive Sociologies and the Study of Higher Education Organizations. <i>The Review of Higher Education</i>, <i>3</i>(1), 1–14.</div>
+    <div class="csl-entry">[6]	张永平. 全球化背景下中国高等教育市场化的特点分析——独立学院的个案研究[D]. 香港: 香港中文大学, 2009: 105–109, 137–147.</div>
+    <div class="csl-entry">[7]	陈志平. 减灾设计研究新动态[N]. 科技日报, 1997-12-12(5).</div>
+    <div class="csl-entry">[8]	王大泉. 我国高等学校章程建设的现状、问题与发展路径[A]. 北京大学教育法研究中心, 北京大学宪法与行政法研究中心. 大学治理与大学章程理论研讨会论文集[C]. 2011: 227.</div>
+    <div class="csl-entry">[9]	北京大学现行章程[A]. 王学珍, 郭建荣. 北京大学史料(第2卷)[M]. 北京: 北京大学出版社, 2000: 92.</div>
+    <div class="csl-entry">[10]	中华人民共和国高等教育法[A]. 教育部法制办公室. 教育法律法规规章汇编[M]. 北京: 教育科学出版社, 2004: 75.</div>
+    <div class="csl-entry">[11]	卢晖林, 郭于华, 潘毅. “两岸三地”高校富士康调查报告[R]. 北京: 北京大学社会学系, 2010.</div>
+    <div class="csl-entry">[12]	王旭明. 关于高考的六点思考[EB/OL]. <a href="http://www.edu.cn/gaokao30_5897/20070719/t20070719_244190.shtml">http://www.edu.cn/gaokao30_5897/20070719/t20070719_244190.shtml</a>. 2008年12月9日访问.</div>
+    <div class="csl-entry">[13]	中共温州市委, 温州市人民政府. 温州市关于实施国家民办教育综合改革试点加快教育改革与发展的若干意见[Z]. 温委〔2011〕8 号. 2010-10-20.</div>
+    <div class="csl-entry">[14]	GB/T 16159—1996, 汉语拼音正词法基本规则[S].</div>
+    <div class="csl-entry">[15]	姜锡洲. 一种温热外敷药制备方案: 881056073[P]. 中国专利: 1989-07-26.</div>
+  </div>
+</blockquote>
+
+
+## [478capital-medical-university.csl]
+
+《[首都医科大学研究生学位论文](https://yjsh.ccmu.edu.cn/xwgz/lwdb/65d371968cab4a54ad9a1531f3538700.htm)》（2023-04-26）样式，在 [019gb-t-7714-1987-numeric-bilingual.csl] 基础上修改。
+
+显示效果：
+
+> <sup>[1–7]</sup>
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	张昆, 冯立群, 余昌钰, 徐晓东. 机器人柔性手腕的球面齿轮设计研究. 清华大学学报, 1994, 34(2): 1-7.</div>
+    <div class="csl-entry">[2]	竺可桢. 物理学论. 北京: 科学出版社, 1973: 56-60.</div>
+    <div class="csl-entry">[3]	Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor. In: White H J, Smith R, eds. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44-46.</div>
+    <div class="csl-entry">[4]	郑开青. 通讯系统模拟及软件: [硕士学位论文]. 北京: 清华大学无线电系, 1987.</div>
+    <div class="csl-entry">[5]	姜锡洲. 一种温热外敷药制备方案. 中国专利, 88105607.3, 1980-07-26.</div>
+    <div class="csl-entry">[6]	国家市场监督管理总局. GB 3100—1993. 国际单位制及其应用. 北京: 中国标准出版社, 1993.</div>
+    <div class="csl-entry">[7]	Ratziu V, Francque S, Sanyal A. Breakthroughs in therapies for NASH and remaining challenges. J Hepatol, 2022, 76(6): 1263-1278.</div>
+  </div>
+</blockquote>
+
+
 ## [501yuzuc-at-title-at-author-at-year.csl]
 
 显示效果：
@@ -4602,7 +4724,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [414yunnan-university.csl]: 414yunnan-university.csl
 [415zhejiang-university.csl]: 415zhejiang-university.csl
 [416zhongnan-university-of-economics-and-law.csl]: 416zhongnan-university-of-economics-and-law.csl
-[418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl]: 418huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation.csl
+[418huazhong-university-of-science-and-technology.csl]: 418huazhong-university-of-science-and-technology.csl
 [419beijing-normal-university.csl]: 419beijing-normal-university.csl
 [420beihang-university.csl]: 420beihang-university.csl
 [421hebei-agricultural-university.csl]: 421hebei-agricultural-university.csl
@@ -4658,6 +4780,11 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [471south-china-agricultural-university.csl]: 471south-china-agricultural-university.csl
 [472china-agricultural-university-college-of-humanities-and-development-studies.csl]: 472china-agricultural-university-college-of-humanities-and-development-studies.csl
 [473chongqing-university-author-date.csl]: 473chongqing-university-author-date.csl
+[474east-china-university-of-science-and-technology-undergraduate.csl]: 474east-china-university-of-science-and-technology-undergraduate.csl
+[475huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering.csl]: 475huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering.csl
+[476south-western-university-of-finance-and-ecnomics-authr-date.csl]: 476south-western-university-of-finance-and-ecnomics-authr-date.csl
+[477renmin-university-of-china-undergranduate.csl]: 477renmin-university-of-china-undergranduate.csl
+[478capital-medical-university.csl]: 478capital-medical-university.csl
 [501yuzuc-at-title-at-author-at-year.csl]: 501yuzuc-at-title-at-author-at-year.csl
 [502export-authors.csl]: 502export-authors.csl
 [503export-journal-year-vol-pages.csl]: 503export-journal-year-vol-pages.csl
