@@ -165,7 +165,7 @@
   </macro>
   <!-- 题名 -->
   <macro name="title-en">
-    <group delimiter=".">
+    <group delimiter=". ">
       <group delimiter=": ">
         <text variable="title"/>
         <group delimiter="&#8195;">
@@ -368,8 +368,33 @@
       </if>
     </choose>
   </macro>
-  <!-- 连续出版物中的出处项 -->
-  <macro name="container-periodical">
+  <!-- 英文连续出版物中的出处项 -->
+  <macro name="container-periodical-en">
+    <choose>
+      <if type="article-newspaper">
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码” -->
+        <group delimiter=", ">
+          <text variable="container-title" form="short" strip-periods="true"/>
+          <text variable="page"/>
+        </group>
+      </if>
+      <else>
+        <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码” -->
+        <group delimiter=": ">
+          <group>
+            <group delimiter=", ">
+              <text variable="container-title" form="short" strip-periods="true"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!-- 中文连续出版物中的出处项 -->
+  <macro name="container-periodical-zh">
     <choose>
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名,出版日期(版次):页码” -->
@@ -439,7 +464,7 @@
   <macro name="publisher-en">
     <choose>
       <if type="patent">
-        <group delimiter=",">
+        <group delimiter=", ">
           <group delimiter=" ">
             <text macro="patent-country-en"/>
             <text macro="patent-type-en"/>
@@ -448,23 +473,23 @@
         </group>
       </if>
       <else-if type="paper-conference">
-        <!-- 会议论文集的格式“出版者,页码”（出版者为会议名称） -->
-        <group delimiter=",">
+        <!-- 会议论文集的格式“出版者, 页码”（出版者为会议名称） -->
+        <group delimiter=", ">
           <text variable="publisher"/>
           <text variable="page"/>
         </group>
       </else-if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia thesis">
-        <!-- 专著、学位论文的格式“出版地:出版者” -->
-        <group delimiter=":">
+        <!-- 专著、学位论文的格式“出版地: 出版者” -->
+        <group delimiter=": ">
           <text variable="publisher-place"/>
           <text variable="publisher"/>
         </group>
       </else-if>
       <else-if type="periodical" variable="archive archive-place publisher publisher-place page" match="any">
-        <!-- 期刊的格式“出版地:出版者:页码” -->
-        <group delimiter=":">
-          <group delimiter=":">
+        <!-- 期刊的格式“出版地: 出版者: 页码” -->
+        <group delimiter=": ">
+          <group delimiter=": ">
             <choose>
               <if variable="publisher publisher-place" match="any">
                 <text variable="publisher-place"/>
@@ -623,7 +648,7 @@
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
           <text macro="title-en"/>
-          <text macro="container-periodical"/>
+          <text macro="container-periodical-en"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
@@ -669,7 +694,7 @@
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
           <text macro="title-zh"/>
-          <text macro="container-periodical"/>
+          <text macro="container-periodical-zh"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
