@@ -53,7 +53,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="page-range-delimiter">~</term>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 英文主要责任者 -->
