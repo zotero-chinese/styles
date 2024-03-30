@@ -56,8 +56,25 @@
       <term name="page-range-delimiter">~</term>
     </terms>
   </locale>
-  <!-- 主要责任者 -->
-  <macro name="author">
+  <!-- 英文主要责任者 -->
+  <macro name="author-en">
+    <names variable="author">
+      <name delimiter=", "/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 中文主要责任者 -->
+  <macro name="author-zh">
     <names variable="author">
       <name delimiter=","/>
       <substitute>
@@ -593,8 +610,8 @@
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout-en">
-    <group delimiter=".">
-      <text macro="author"/>
+    <group delimiter=". ">
+      <text macro="author-en"/>
       <text macro="date"/>
       <choose>
         <if type="periodical">
@@ -640,7 +657,7 @@
   </macro>
   <macro name="entry-layout-zh">
     <group delimiter=".">
-      <text macro="author"/>
+      <text macro="author-zh"/>
       <text macro="date"/>
       <choose>
         <if type="periodical">
@@ -709,7 +726,7 @@
   </citation>
   <bibliography entry-spacing="0" hanging-indent="true">
     <sort>
-      <key macro="author"/>
+      <key macro="author-en"/>
       <key macro="date"/>
     </sort>
     <layout locale="en">
