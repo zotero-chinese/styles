@@ -26,7 +26,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>西北农林科技大学（研究生学位论文）</summary>
-    <updated>2024-03-29T10:00:00+08:00</updated>
+    <updated>2024-04-01T10:37:37+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -479,7 +479,7 @@
           <text variable="page"/>
         </group>
       </else-if>
-      <else-if type="book chapter classic entry-dictionary entry-encyclopedia thesis">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia thesis" match="any">
         <!-- 专著、学位论文的格式“出版地: 出版者” -->
         <group delimiter=": ">
           <text variable="publisher-place"/>
@@ -525,7 +525,7 @@
           <text variable="page"/>
         </group>
       </else-if>
-      <else-if type="book chapter classic entry-dictionary entry-encyclopedia thesis">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia thesis" match="any">
         <!-- 专著、学位论文的格式“出版地:出版者” -->
         <group delimiter=":">
           <text variable="publisher-place"/>
