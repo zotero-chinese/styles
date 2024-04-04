@@ -1697,6 +1697,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [225acta-geologica-sinica.csl]
 
+《地质学报》样式。
+
 显示效果：
 
 <blockquote>
