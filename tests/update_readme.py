@@ -2,6 +2,13 @@ import glob
 import os
 import re
 
+from lxml import etree
+
+
+NSMAP = {
+    "cs": "http://purl.org/net/xbiblio/csl",
+}
+
 
 def indent_text(text, indent=2):
     return "\n".join([" " * indent + line for line in text.splitlines()])
@@ -40,6 +47,51 @@ def get_sample(file):
     res = re.sub(r"[ \t]+\n", "\n", res)
 
     return res
+
+
+def get_info(file, csl_files):
+    if file.startswith("5"):
+        return ""
+    style = etree.parse(file)
+
+    title = ""
+    title_elements = style.xpath(".//cs:title", namespaces=NSMAP)
+    if title_elements:
+        title = title_elements[0].text or ""
+
+    summary = ""
+    summary_elements = style.xpath(".//cs:summary", namespaces=NSMAP)
+    if summary_elements:
+        summary = summary_elements[0].text or ""
+
+    doc_link = ""
+    doc_link_elements = style.xpath(
+        ".//cs:link[@rel='documentation']", namespaces=NSMAP
+    )
+    if doc_link_elements:
+        doc_link = doc_link_elements[0].attrib["href"]
+
+    template_link = ""
+    template_link_elements = style.xpath(
+        ".//cs:link[@rel='template']", namespaces=NSMAP
+    )
+    if template_link_elements:
+        template_link = template_link_elements[0].attrib["href"]
+    template_file = ""
+    if template_link:
+        template_file = template_link.split("/")[-1] + ".csl"
+
+    if "《" in summary:
+        info = f"[{summary}]({doc_link})样式。"
+    else:
+        info = f"[{title}]({doc_link})样式。"
+
+    if template_link:
+        if template_file in csl_files:
+            info += f"在 [{template_file}] 基础上修改。"
+        else:
+            info += f"在 [{template_file}]({template_link}) 基础上修改。"
+    return info
 
 
 class Readme:
@@ -109,19 +161,32 @@ def main():
             del readme.style_samples[file]
             continue
 
-        matched = re.match(r"(.*?)显示效果：?(.*)", description, flags=re.DOTALL)
+        matched = re.match(
+            r"(## \[.*?\])\s*(.*?)显示效果：?(.*)", description, flags=re.DOTALL
+        )
         if matched:
-            info = matched.group(1).strip()
-            sample = matched.group(2).strip()
+            heading = matched.group(1).strip()
+            info = matched.group(2).strip()
+            sample = matched.group(3).strip()
+
+            if not info:
+                info = get_info(file, csl_files)
+
             sample = get_sample(file)
-            description = f"{info}\n\n显示效果：\n\n{sample}"
+            description = f"{heading}"
+            if info:
+                description += f"\n\n{info}"
+            description += f"\n\n显示效果：\n\n{sample}"
             readme.style_samples[file] = description
 
     for file in csl_files:
         if file not in readme.style_samples:
-            info = f"## [{file}]"
+            description = f"## [{file}]"
+            info = get_info(file, csl_files)
+            if info:
+                description += f"\n\n{info}"
             sample = get_sample(file)
-            description = f"{info}\n\n显示效果：\n\n{sample}"
+            description += f"\n\n显示效果：\n\n{sample}"
             readme.style_samples[file] = description
 
     for file in csl_files:

@@ -287,6 +287,8 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 ## [016nsfc-author-date.csl]
 
+[NSFC作者年代 (显示全部作者, 姓名取消大写, 无 URL DOI)](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -315,6 +317,8 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 ## [017gb-t-7714-2005-numeric-bilingual.csl]
 
+[GB/T 7714-2005 (顺序编码, 双语)](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D78562D3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
 显示效果：
 
 > <sup>[1–8]</sup>
@@ -334,6 +338,8 @@ GB/T 7714—2015 著者-出版年制。支持双语：按照语言显示“等�
 
 
 ## [018gb-t-7714-2005-author-date-bilingual.csl]
+
+[GB/T 7714-2005 (著者-出版年, 双语)](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-author-date.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date) 基础上修改。
 
 显示效果：
 
@@ -396,6 +402,8 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 
 ## [020gb-t-7714-2015-numeric-fullwidth-punctuations.csl]
 
+[GB/T 7714-2015（顺序编码，全角标点）](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
 显示效果：
 
 > <sup>[1–8]</sup>
@@ -415,6 +423,8 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 
 
 ## [021gb-t-7714-2015-author-date-fullwidth-punctuations.csl]
+
+[GB/T 7714-2015（著者-出版年，全角标点）](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-author-date.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date) 基础上修改。
 
 显示效果：
 
@@ -443,7 +453,6 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 
 
 ## [022journals-of-natural-sciences-in-chinese-universities.csl]
-
 
 《[中国高等学校自然科学学报编排规范](http://gxb.zzu.edu.cn/Upload/Park/ccc5c171-124b-4f01-a4d0-44db19516ff8.pdf)》。[019gb-t-7714-1987-numeric-bilingual.csl] 基础上修改。
 
@@ -575,6 +584,8 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 
 
 ## [105acta-physica-sinica-zotero-res.csl]
+
+[Acta Physica Sinica (物理学报)](https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm)样式。
 
 显示效果：
 
@@ -798,6 +809,8 @@ original-publisher: China Environmental Science Press
 
 ## [113acta-microbiologica-sinica.csl]
 
+[微生物学报](https://actamicro.ijournals.cn/actamicrocn/site/menus/20130129090332001?id=20070609220743001)样式。
+
 显示效果：
 
 > <sup>[1–8]</sup>
@@ -817,6 +830,8 @@ original-publisher: China Environmental Science Press
 
 
 ## [114food-materials-research.csl]
+
+[Food Materials Research](https://www.maxapress.com/fmr/for_authors)样式。
 
 显示效果：
 
@@ -903,6 +918,8 @@ original-publisher-place: Nanjing
 
 ## [117chinese-journal-of-eco-agriculture.csl]
 
+[中国生态农业学报](http://www.ecoagri.ac.cn/news_list.htm?column=xiazaizhongxin)样式。在 [gb-t-7714-2015-numeric-bilingual-no-url-doi.csl](http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi) 基础上修改。
+
 显示效果：
 
 > <sup>[1–11]</sup>
@@ -925,6 +942,8 @@ original-publisher-place: Nanjing
 
 
 ## [118journal-of-china-agricultural-university.csl]
+
+[中国农业大学学报](http://zgnydxxb.ijournals.cn/zgnydxxb/ch/first_menu.aspx?parent_id=20161229035248001)样式。在 [gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl](http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi) 基础上修改。
 
 显示效果：
 
@@ -1498,6 +1517,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [218biotechnology-advances-custom.csl]
 
+[Biotechnology Advances Custom](http://www.elsevier.com/journals/biological-conservation/0006-3207/guide-for-authors#68000)样式。在 [ecology-letters.csl](http://www.zotero.org/styles/ecology-letters) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -1622,6 +1643,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 ## [222journal-of-finance-and-economics.csl]
 
+[财经研究](https://qks.sufe.edu.cn/J/CJYJ/Channel/12/CN)样式。在 [gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl](http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -1668,6 +1691,8 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 
 
 ## [224journal-of-meteorological-research.csl]
+
+[气象学报英文版（英文版）](http://jmr.cmsjournal.net/author_guide)样式。在 [american-meteorological-society.csl](http://www.zotero.org/styles/american-meteorological-society) 基础上修改。
 
 显示效果：
 
@@ -1765,6 +1790,8 @@ available-date: 2014-01-26
 
 
 ## [302historical-research.csl]
+
+[历史研究](http://lsyj.ajcass.org/Home/List)样式。在 [china-national-standard-gb-t-7714-2015-note.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note) 基础上修改。
 
 显示效果：
 
@@ -1906,6 +1933,8 @@ available-date: 2014-01-26
 
 ## [308world-history.csl]
 
+[根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《世界历史》引文规范改制，具体用法和特性见说明](http://sjlsbjb.ajcass.org/Home/Show/?ChannelID=11735)样式。
+
 显示效果：
 
 <blockquote>
@@ -1922,6 +1951,8 @@ available-date: 2014-01-26
 
 
 ## [309journal-of-world-economics-and-politics.csl]
+
+[世界经济与政治](http://www.iwep.org.cn/cbw/cbw_xsqk/xsqk_sjjjyzz/xsqk_zsgf/)样式。在 [social-sciences-in-china.csl](http://www.zotero.org/styles/social-sciences-in-china) 基础上修改。
 
 显示效果：
 
@@ -1958,6 +1989,8 @@ available-date: 2014-01-26
 
 ## [310modern-chinese-literature-studies.csl]
 
+[根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《中国现代文学研究丛刊》引文规范改制，具体用法和特性见说明](http://www.zgxdwxyjck.cn/)样式。
+
 显示效果：
 
 <blockquote>
@@ -1974,6 +2007,8 @@ available-date: 2014-01-26
 
 
 ## [311social-sciences-in-china.csl]
+
+[中国社会科学](http://sscp.cssn.cn/tgxt/zgshkxtg/)样式。
 
 显示效果：
 
@@ -2031,6 +2066,8 @@ available-date: 2014-01-26
 
 ## [312journal-of-international-relations.csl]
 
+[根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《国际关系研究》引文规范改制，具体用法和特性见说明](https://iir.sass.org.cn/2019/0717/c1653a42491/page.htm)样式。
+
 显示效果：
 
 <blockquote>
@@ -2047,6 +2084,8 @@ available-date: 2014-01-26
 
 
 ## [313international-security-studies.csl]
+
+[根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《国际安全研究》引文规范改制，具体用法和特性见说明](http://gjaqyj.cnjournals.com/gjaqyj/ch/first_menu.aspx?parent_id=20130701085855001)样式。
 
 显示效果：
 
@@ -2065,6 +2104,8 @@ available-date: 2014-01-26
 
 ## [314the-journal-of-international-studies.csl]
 
+[国际政治研究](https://www.jis.pku.edu.cn/Zhushi1407/1102984.htm)样式。在 [journal-of-world-economics-and-politics.csl](http://www.zotero.org/styles/journal-of-world-economics-and-politics) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -2081,6 +2122,8 @@ available-date: 2014-01-26
 
 
 ## [315foreign-affairs-review.csl]
+
+[外交评论](https://wjxy.cbpt.cnki.net/WKH/WebPublication/index.aspx)样式。在 [journal-of-world-economics-and-politics.csl](http://www.zotero.org/styles/journal-of-world-economics-and-politics) 基础上修改。
 
 显示效果：
 
@@ -2099,6 +2142,8 @@ available-date: 2014-01-26
 
 ## [316pacific-journal.csl]
 
+[根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《太平洋学报》引文规范改制，具体用法和特性见说明](http://www.pacificjournal.com.cn/CN/column/column41.shtml)样式。
+
 显示效果：
 
 <blockquote>
@@ -2115,6 +2160,8 @@ available-date: 2014-01-26
 
 
 ## [317journal-of-contemporary-asia-pacific-studies.csl]
+
+[根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《当代亚太》引文规范改制，具体用法和特性见说明]()样式。
 
 显示效果：
 
@@ -2133,6 +2180,8 @@ available-date: 2014-01-26
 
 ## [318exploration-and-free-views.csl]
 
+[根据fanzhen《历史研究》引文规范以及众多国际问题期刊引文规范改制，支持中英混排，仅支持今人论文、图书、章节、学位论文、网页](http://www.tsyzm.com/CN/column/column6.shtml)样式。
+
 显示效果：
 
 <blockquote>
@@ -2149,6 +2198,8 @@ available-date: 2014-01-26
 
 
 ## [319literary-review.csl]
+
+[根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文学评论》引文规范改制，具体用法和特性见说明](http://wxpl.ajcass.org/Home/Index)样式。
 
 显示效果：
 
@@ -2167,6 +2218,8 @@ available-date: 2014-01-26
 
 ## [320literary-and-artistic-contention.csl]
 
+[根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文艺争鸣》引文规范改制，具体用法和特性见说明](http://www.wenyizhengming.com/danye.php?SortID=178&pid=35)样式。
+
 显示效果：
 
 <blockquote>
@@ -2183,6 +2236,8 @@ available-date: 2014-01-26
 
 
 ## [321journalism-and-communication.csl]
+
+[根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《新闻与传播研究》引文规范改制，具体用法和特性见说明](http://www.xwycbyj.org/)样式。
 
 显示效果：
 
@@ -2201,6 +2256,8 @@ available-date: 2014-01-26
 
 ## [322contemporary-international-relations.csl]
 
+[根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《现代国际关系》引文规范改制，具体用法和特性见说明]()样式。
+
 显示效果：
 
 <blockquote>
@@ -2217,6 +2274,8 @@ available-date: 2014-01-26
 
 
 ## [323gb-t-7714-2015-note-fullwidth-punctuations.csl]
+
+[GB/T 7714-2015（脚注，全角标点）](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-note.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note) 基础上修改。
 
 显示效果：
 
@@ -2249,6 +2308,8 @@ available-date: 2014-01-26
 
 ## [401cas-like-thesis.csl]
 
+[cas-like-thesis](http://yjs.hzau.edu.cn/info/1202/3774.htm)样式。
+
 显示效果：
 
 <blockquote>
@@ -2276,6 +2337,8 @@ available-date: 2014-01-26
 
 
 ## [402cas-like-thesis-zotero-ask.csl]
+
+[cas-like-thesisaa](http://yjs.hzau.edu.cn/info/1202/3774.htm)样式。
 
 显示效果：
 
@@ -2421,6 +2484,8 @@ available-date: 2014-01-26
 
 ## [407nanjing-agricultural-university-old.csl]
 
+[南京农业大学（旧版）](http://grasch.njau.edu.cn/info/1011/1839.htm)样式。
+
 显示效果：
 
 > <sup>[1–8]</sup>
@@ -2493,6 +2558,8 @@ available-date: 2014-01-26
 
 ## [410shanghai-jiao-tong-university.csl]
 
+[上海交通大学](https://gk.sjtu.edu.cn/Data/View/648)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
 显示效果：
 
 > <sup>[1–8]</sup>
@@ -2544,6 +2611,8 @@ available-date: 2014-01-26
 
 ## [412tsinghua-university-author-date.csl]
 
+[清华大学（著者-出版年）](http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&parentColumnId=0010506&itemSeq=5365)样式。在 [china-national-standard-gb-t-7714-2015-author-date.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -2570,6 +2639,8 @@ available-date: 2014-01-26
 
 
 ## [413tsinghua-university-numeric.csl]
+
+[清华大学（顺序编码）](http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&parentColumnId=0010506&itemSeq=5365)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
 
 显示效果：
 
@@ -2821,6 +2892,8 @@ available-date: 2014-01-26
 
 
 ## [423ningbo-university.csl]
+
+[宁波大学](http://graduate.nbu.edu.cn/info/1049/15542.htm)样式。
 
 显示效果：
 
@@ -3195,6 +3268,8 @@ available-date: 2014-01-26
 
 ## [437zhejiang-university-chinese-punctuation.csl]
 
+[浙江大学-中文标点](http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782)样式。在 [china-national-standard-gb-t-7714-2015-author-date.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -3355,6 +3430,8 @@ available-date: 2014-01-26
 
 ## [443chengdu-university-of-technology.csl]
 
+[成都理工大学](http://www.gra.cdut.edu.cn/info/1023/2130.htm)样式。在 [china-national-standard-gb-t-7714-2015-author-date.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -3429,6 +3506,8 @@ available-date: 2014-01-26
 
 
 ## [446tsinghua-university-academy-of-arts-and-design.csl]
+
+[清华大学 - 美术学院](https://www.ad.tsinghua.edu.cn/)样式。在 [social-sciences-in-china.csl](http://www.zotero.org/styles/social-sciences-in-china) 基础上修改。
 
 显示效果：
 
@@ -3681,6 +3760,8 @@ available-date: 2014-01-26
 
 ## [456southwest-university-of-political-science-and-law.csl]
 
+[西南政法大学](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)样式。在 [manual-of-legal-citation-multi-lingual.csl](http://www.zotero.org/styles/manual-of-legal-citation-multi-lingual) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -3842,6 +3923,8 @@ available-date: 2014-01-26
 
 ## [463tongji-university.csl]
 
+[同济大学](https://gs.tongji.edu.cn/info/1063/1754.htm)样式。在 [chinese-gb7714-1987-numeric.csl](http://www.zotero.org/styles/chinese-gb7714-1987-numeric) 基础上修改。
+
 显示效果：
 
 > <sup>[1–11]</sup>
@@ -3865,6 +3948,8 @@ available-date: 2014-01-26
 
 ## [464hunan-normal-university.csl]
 
+[湖南师范大学](https://yjsy.hunnu.edu.cn/__local/3/04/8A/26688DAF90A1EDD477ADBE21D15_88680BF7_56B1F.pdf)样式。在 [gb-t-7714-2005-numeric-bilingual.csl](http://www.zotero.org/styles/gb-t-7714-2005-numeric-bilingual) 基础上修改。
+
 显示效果：
 
 > <sup>[1–6]</sup>
@@ -3882,6 +3967,8 @@ available-date: 2014-01-26
 
 
 ## [465south-china-agricultural-university-undergraduate.csl]
+
+[华南农业大学（本科生）](https://jwc.scau.edu.cn/2016/0331/c5197a147427/page.htm)样式。在 [gb-t-7714-2005-author-date-bilingual.csl](http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual) 基础上修改。
 
 显示效果：
 
@@ -3910,6 +3997,8 @@ available-date: 2014-01-26
 
 
 ## [466china-agriculture-university-natural-science.csl]
+
+[中国农业大学（自然科学）](https://gradsch1.cau.edu.cn/art/2019/3/18/art_41503_770264.html)样式。在 [gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl](http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi) 基础上修改。
 
 显示效果：
 
@@ -4025,6 +4114,8 @@ available-date: 2014-01-26
 
 
 ## [470shanxi-agricultural-university.csl]
+
+[山西农业大学](https://grs.sxau.edu.cn/info/1056/1397.htm)样式。
 
 显示效果：
 
@@ -4203,6 +4294,8 @@ available-date: 2014-01-26
 
 ## [476south-western-university-of-finance-and-ecnomics-authr-date.csl]
 
+[西南财经大学毕业论文](https://gs.swufe.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1975186424&wbfileid=7C9185235E6B5CD0FDF7311006495CF6)样式。在 [journal-of-management-world.csl](http://www.zotero.org/styles/journal-of-management-world) 基础上修改。
+
 显示效果：
 
 <blockquote>
@@ -4334,6 +4427,8 @@ available-date: 2014-01-26
 
 ## [481guangdong-university-of-technology.csl]
 
+[广东工业大学](https://yjs.gdut.edu.cn/info/1124/3127.htm)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
 显示效果：
 
 > <sup>[1–8]</sup>
@@ -4353,6 +4448,8 @@ available-date: 2014-01-26
 
 
 ## [482china-university-of-mining-and-technology.csl]
+
+[中国矿业大学研究生学位论文](https://gs.cumt.edu.cn/info/1049/3149.htm)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
 
 显示效果：
 
@@ -4395,6 +4492,8 @@ available-date: 2014-01-26
 
 
 ## [484china-agricultural-university-natural-sciences.csl]
+
+[《中国农业大学研究生学位论文格式及书写规范》（研生 (2019) 10 号）](http://gradsch.cau.edu.cn/homepage/infoSingleArticle.do?articleId=4316)样式。在 [002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl] 基础上修改。
 
 显示效果：
 
