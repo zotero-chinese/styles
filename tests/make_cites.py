@@ -3,7 +3,7 @@ import os
 import sys
 
 
-# python3 make-cites.py tests/styles/301manual-of-legal-citation-multi-lingual/test-data.json
+# python3 make_cites.py tests/styles/301manual-of-legal-citation-multi-lingual/test-data.json
 
 
 TEST_DIR = os.path.join('tests', 'styles')
