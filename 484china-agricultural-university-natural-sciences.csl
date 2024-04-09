@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《中国农业大学研究生学位论文格式及书写规范》（研生 (2019) 10 号）</summary>
-    <updated>2024-04-08T21:07:31+08:00</updated>
+    <updated>2024-04-09T10:00:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -583,11 +583,11 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-zh"/>
     </layout>
