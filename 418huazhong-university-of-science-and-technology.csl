@@ -177,7 +177,7 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
-    <text term="in" text-case="capitalize-first" suffix=": "/>
+    <text term="in" suffix=": "/>
     <choose>
       <if type="paper-conference" variable="event-title" match="all">
         <!-- 会议名称(或论文集) -->
