@@ -16,7 +16,7 @@
   <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
   <div class="csl-entry">[5]	M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, R. E. Guldberg, K. J. Jepsen, R. Müller. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-  <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. In: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
+  <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
   <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
   <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
   <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
@@ -58,8 +58,8 @@
   <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 蓟县震旦亚界研究. 见: 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114</div>
   <div class="csl-entry">[21]	马克思. 政治经济学批判. 见: 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302</div>
   <div class="csl-entry">[22]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会年会论文集: 2011 年卷, 北京, 国家图书馆出版社, 2011: 45-52</div>
-  <div class="csl-entry">[23]	L. Weinstein, M. N. Swertz. Pathogenic properties of invading microorganism. In: Pathologic physiology: mechanisms of disease, Philadelphia: Saunders, 1974: 745-772</div>
-  <div class="csl-entry">[24]	J. A. Roberson, E. G. Burneson. Drinking water standards, regulations and goals. In: Water quality &#38; treatment: a handbook on drinking water, New York: McGraw-Hill, 2011: 1.1-1.36</div>
+  <div class="csl-entry">[23]	L. Weinstein, M. N. Swertz. Pathogenic properties of invading microorganism. in: Pathologic physiology: mechanisms of disease, Philadelphia: Saunders, 1974: 745-772</div>
+  <div class="csl-entry">[24]	J. A. Roberson, E. G. Burneson. Drinking water standards, regulations and goals. in: Water quality &#38; treatment: a handbook on drinking water, New York: McGraw-Hill, 2011: 1.1-1.36</div>
   <div class="csl-entry">[25]	中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984</div>
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯. 1957(1-4). 北京: 北京图书馆, 1957</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. Science. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883</div>
@@ -145,8 +145,8 @@
   <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 见: 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三. 见: 宋史: 第 1 册. 北京: 中华书局, 1977: 49</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012</div>
-  <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord Jr., D. R. Veblen. Subsolidus phenomena in pyroxenes. In: Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>
-  <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23–25 Aug. 1971, ASME, c1971: 17-38</div>
+  <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord Jr., D. R. Veblen. Subsolidus phenomena in pyroxenes. in: Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>
+  <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity. in: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23–25 Aug. 1971, ASME, c1971: 17-38</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法. 图书情报工作, 2008, 52(6): 6-21</div>
   <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523</div>
@@ -185,16 +185,16 @@
   <div class="csl-entry">[14]	J. T. Gibbs, L. N. Huang. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US: Jossey-Bass, 1989</div>
   <div class="csl-entry">[15]	P. S. Laplace. A philosophical essay on probabilities. F. W. Truscott, F. L. Emory, trans. Dover, 1951</div>
   <div class="csl-entry">[16]	拉普拉斯, Pierre-Simon. 概率哲学. 张三, 李四, 译. 北京: 未名出版社, 1951</div>
-  <div class="csl-entry">[17]	R. Klatzky. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In: Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge, Springer-Verlag, 1998: 1-17</div>
-  <div class="csl-entry">[18]	D. F. Wang, H. Cui. Theoretical analysis of the seven factor model of Chinese personality. In: Selected papers on personality and social psychology: Vol. 1, Beijing: Peking University Press, 2004: 46-84</div>
+  <div class="csl-entry">[17]	R. Klatzky. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. in: Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge, Springer-Verlag, 1998: 1-17</div>
+  <div class="csl-entry">[18]	D. F. Wang, H. Cui. Theoretical analysis of the seven factor model of Chinese personality. in: Selected papers on personality and social psychology: Vol. 1, Beijing: Peking University Press, 2004: 46-84</div>
   <div class="csl-entry">[19]	王登峰, 崔红. 中国人“大七”人格结构的理论分析. 见: 人格与社会心理学论丛: 卷 1. 北京: 北京大学出版社, 2004: 46-84</div>
-  <div class="csl-entry">[20]	J. S. Auerbach. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. In: Handbook of child psychology: Vol. 4. Socialization, personality, and social development, Washington, DC, US: Wiley, 1993: 43-110</div>
-  <div class="csl-entry">[21]	K. L. Lichstein, R. S. Johnson. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. In: Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden, 1990</div>
-  <div class="csl-entry">[22]	C. B. Lanktree, J. N. Briere. Early data on the Trauma Symptom Checklist for Children (TSC-C). In: Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA, 1991</div>
-  <div class="csl-entry">[23]	J. Ruby, C. Fulton. Beyond redlining: Editing software that works. In: Poster session presented at the annual meeting of the Society for Scholarly Publishing, Washington, DC, 1993</div>
+  <div class="csl-entry">[20]	J. S. Auerbach. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation. in: Handbook of child psychology: Vol. 4. Socialization, personality, and social development, Washington, DC, US: Wiley, 1993: 43-110</div>
+  <div class="csl-entry">[21]	K. L. Lichstein, R. S. Johnson. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. in: Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden, 1990</div>
+  <div class="csl-entry">[22]	C. B. Lanktree, J. N. Briere. Early data on the Trauma Symptom Checklist for Children (TSC-C). in: Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA, 1991</div>
+  <div class="csl-entry">[23]	J. Ruby, C. Fulton. Beyond redlining: Editing software that works. in: Poster session presented at the annual meeting of the Society for Scholarly Publishing, Washington, DC, 1993</div>
   <div class="csl-entry">[24]	Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1. Canberra, Australian Capital Territory: Author, 1991</div>
   <div class="csl-entry">[25]	T. R. Mitchell, J. R. Larson. People in organizations: An introduction to organizational behavior (third edition). New York: McGraw-Hill, 1987</div>
-  <div class="csl-entry">[26]	P. G. Bergmann. Relativity. In: The new encyclopedia Britannica: Vol. 26, New York: Encyclopedia Britannica, 1993: 501-508</div>
+  <div class="csl-entry">[26]	P. G. Bergmann. Relativity. in: The new encyclopedia Britannica: Vol. 26, New York: Encyclopedia Britannica, 1993: 501-508</div>
   <div class="csl-entry">[27]	S. Sadie. The new Grove dictionary of music and musicians (sixth edition). London : New York: Macmillan, 1980</div>
   <div class="csl-entry">[28]	李行健. 现代汉语规范辞典. 北京: 外语教学与研究出版社, 2004: 255</div>
   <div class="csl-entry">[29]	现代汉语频率词典. 北京: 北京语言学院出版社, 1986</div>
@@ -253,7 +253,7 @@
   <div class="csl-entry">[44]	P. Brooks. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000</div>
   <div class="csl-entry">[45]	M. Polo. The travels of Marco Polo. W. Marsden, tran. Hertfordshire: Cumberland House, 1997</div>
   <div class="csl-entry">[46]	H. B. Chamberlain. On the search for civil society in China. Modern China, 1993, 19(2): 199-215</div>
-  <div class="csl-entry">[47]	R. S. Schfield. The impact of scarcity and plenty on population change in England. In: Hunger and history: The impact of changing food production and consumption pattern on society, Cambridge, Mass.: Cambridge University Press, 1983: 55-88</div>
+  <div class="csl-entry">[47]	R. S. Schfield. The impact of scarcity and plenty on population change in England. in: Hunger and history: The impact of changing food production and consumption pattern on society, Cambridge, Mass.: Cambridge University Press, 1983: 55-88</div>
   <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD, 1969</div>
 </div>
 
@@ -281,7 +281,7 @@
   <div class="csl-entry">[19]	L. D. Brandeis. What publicity can do. Harper’s Weekly, 1913: 10</div>
   <div class="csl-entry">[20]	W. Alford. To steal a book is an elegant offense: Intellectual property law in Chinese civilization. Stanford University Press, 1995</div>
   <div class="csl-entry">[21]	应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社, 2006</div>
-  <div class="csl-entry">[22]	R. v. Panel on Take-overs and Mergers. In: QB: Vol. 815, 1987</div>
+  <div class="csl-entry">[22]	R. v. Panel on Take-overs and Mergers. in: QB: Vol. 815, 1987</div>
   <div class="csl-entry">[23]	罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学, 1993(1): 52-59</div>
   <div class="csl-entry">[24]	夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗. 近代中国宪政历程. 中国政法大学出版社, 2004</div>
   <div class="csl-entry">[25]	邓小平. 精简机构是一场革命. 见: 邓小平文选: 卷 2. 人民出版社, 1994</div>
@@ -302,12 +302,12 @@
   <div class="csl-entry">[40]	Barbara Ward. Progress for a small planet. Harvard Business Review, 1979(Sep.-Oct.): 89</div>
   <div class="csl-entry">[41]	A. Rosenthal. White House tutors Kremlin in how a presidency works. New York Times, 1990-06-15(A1)</div>
   <div class="csl-entry">[42]	J. Habermas. Between facts and norms: contributions to a discourse theory of law and democracy. W. Rehg, tran. MIT Press, 1996</div>
-  <div class="csl-entry">[43]	J. Horsley. Rule of law in China: incremental progress. In: China: The balance sheet, Public Affairs Press, 2006</div>
-  <div class="csl-entry">[44]	Department of Transportation Act: 89-670. In: Stat.: Vol. 80, 1966: 931, 944-947</div>
-  <div class="csl-entry">[45]	Administrative Procedure Act § 6. In: U.S.C.: Vol. 5, 2006</div>
-  <div class="csl-entry">[46]	Natural Resources Defense Council <i>v.</i> Gorsuch. In: F.2d: Vol. 685, 1982: 718</div>
-  <div class="csl-entry">[47]	Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council. In: U.S.: Vol. 467, 1984: 837</div>
-  <div class="csl-entry">[48]	Roe <i>v.</i> Wade. In: U.S.: Vol. 410, 1973: 113</div>
+  <div class="csl-entry">[43]	J. Horsley. Rule of law in China: incremental progress. in: China: The balance sheet, Public Affairs Press, 2006</div>
+  <div class="csl-entry">[44]	Department of Transportation Act: 89-670. in: Stat.: Vol. 80, 1966: 931, 944-947</div>
+  <div class="csl-entry">[45]	Administrative Procedure Act § 6. in: U.S.C.: Vol. 5, 2006</div>
+  <div class="csl-entry">[46]	Natural Resources Defense Council <i>v.</i> Gorsuch. in: F.2d: Vol. 685, 1982: 718</div>
+  <div class="csl-entry">[47]	Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council. in: U.S.: Vol. 467, 1984: 837</div>
+  <div class="csl-entry">[48]	Roe <i>v.</i> Wade. in: U.S.: Vol. 410, 1973: 113</div>
   <div class="csl-entry">[49]	United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK</div>
   <div class="csl-entry">[50]	S. McDonell. When China began streaming trials online. 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a></div>
   <div class="csl-entry">[51]	M. Chevallier. L’État de droit（第四版）. Paris: Montchrestien, 2003</div>
@@ -402,21 +402,21 @@
   <div class="csl-entry">[51]	The Torah: The five books of Moses (third edition). The Jewish Publication Society, 2015</div>
   <div class="csl-entry">[52]	Aristotle. Poetics. S. H. Butcher, tran. The Internet Classics Archive, 1994</div>
   <div class="csl-entry">[53]	W. Shakespeare. Much ado about nothing. Washington Square Press, 1995</div>
-  <div class="csl-entry">[54]	K. F. Balsam, C. R. Martell, K. P. Jones, S. A. Safren. Affirmative cognitive behavior therapy with sexual and gender minority people. In: Culturally responsive cognitive behavior therapy: Practice and supervision, American Psychological Association, 2019: 287-314</div>
-  <div class="csl-entry">[55]	R. Weinstock, G. B. Leong, J. A. Silva. Defining forensic psychiatry: Roles and responsibilities. In: Principles and practise of forensic psychiatry, CRC Press, 2003: 7-13</div>
-  <div class="csl-entry">[56]	N. Tafoya, A. Del Vecchio. Back to the future: An examination of the Native American Holocaust experience. In: Ethnicity and family therapy, Guilford Press, 2005: 55-63</div>
-  <div class="csl-entry">[57]	N. Carcavilla González. Auditory sensory therapy: Brain activation through music. In: Guía práctica de terapias estimulativas en el Alzhéimer, Editorial Síntesis, 2015: 67-86</div>
-  <div class="csl-entry">[58]	M. Heidegger. On the essence of truth. J. Sallis, tran. In: Basic writings, Harper Perennial Modern Thought, 2008: 111-138</div>
-  <div class="csl-entry">[59]	C. Sacchett, G. W. Humphreys. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. In: Cognitive psychology: Key readings in cognition, Psychology Press, 2004: 100-108</div>
+  <div class="csl-entry">[54]	K. F. Balsam, C. R. Martell, K. P. Jones, S. A. Safren. Affirmative cognitive behavior therapy with sexual and gender minority people. in: Culturally responsive cognitive behavior therapy: Practice and supervision, American Psychological Association, 2019: 287-314</div>
+  <div class="csl-entry">[55]	R. Weinstock, G. B. Leong, J. A. Silva. Defining forensic psychiatry: Roles and responsibilities. in: Principles and practise of forensic psychiatry, CRC Press, 2003: 7-13</div>
+  <div class="csl-entry">[56]	N. Tafoya, A. Del Vecchio. Back to the future: An examination of the Native American Holocaust experience. in: Ethnicity and family therapy, Guilford Press, 2005: 55-63</div>
+  <div class="csl-entry">[57]	N. Carcavilla González. Auditory sensory therapy: Brain activation through music. in: Guía práctica de terapias estimulativas en el Alzhéimer, Editorial Síntesis, 2015: 67-86</div>
+  <div class="csl-entry">[58]	M. Heidegger. On the essence of truth. J. Sallis, tran. in: Basic writings, Harper Perennial Modern Thought, 2008: 111-138</div>
+  <div class="csl-entry">[59]	C. Sacchett, G. W. Humphreys. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. in: Cognitive psychology: Key readings in cognition, Psychology Press, 2004: 100-108</div>
   <div class="csl-entry">[60]	C. Sacchett, G. W. Humphreys. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. Cognitive Neuropsychology, 1992, 9(1): 73-86</div>
-  <div class="csl-entry">[61]	U. Bronfenbrenner. The social ecology of human development: A retrospective conclusion. In: Making human beings human: Bioecological perspectives on human development, SAGE Publications, 2005: 27-40</div>
+  <div class="csl-entry">[61]	U. Bronfenbrenner. The social ecology of human development: A retrospective conclusion. in: Making human beings human: Bioecological perspectives on human development, SAGE Publications, 2005: 27-40</div>
   <div class="csl-entry">[62]	F. Richardson. Brain and intelligence: The ecology of child development. National Educational Press, 1973: 113-123</div>
-  <div class="csl-entry">[63]	S. Goldin-Meadow. Gesture and cognitive development. In: Handbook of child psychology and developmental science: Vol. 2, John Wiley &#38; Sons, 2015: 339-380</div>
-  <div class="csl-entry">[64]	K. Lewin. Group decision and social change. In: The complete social scientist: A Kurt Lewin reader, American Psychological Association, 1999: 265-284</div>
-  <div class="csl-entry">[65]	American Psychological Association. Positive transference. In: APA dictionary of psychology, [2019]</div>
-  <div class="csl-entry">[66]	Merriam-Webster. Self-report. In: Merriam-Webster.com dictionary, [2019]</div>
-  <div class="csl-entry">[67]	G. Graham. Behaviorism. In: The Stanford encyclopedia of philosophy, Stanford University, 2019</div>
-  <div class="csl-entry">[68]	List of oldest companies. In: Wikipedia, 2019</div>
+  <div class="csl-entry">[63]	S. Goldin-Meadow. Gesture and cognitive development. in: Handbook of child psychology and developmental science: Vol. 2, John Wiley &#38; Sons, 2015: 339-380</div>
+  <div class="csl-entry">[64]	K. Lewin. Group decision and social change. in: The complete social scientist: A Kurt Lewin reader, American Psychological Association, 1999: 265-284</div>
+  <div class="csl-entry">[65]	American Psychological Association. Positive transference. in: APA dictionary of psychology, [2019]</div>
+  <div class="csl-entry">[66]	Merriam-Webster. Self-report. in: Merriam-Webster.com dictionary, [2019]</div>
+  <div class="csl-entry">[67]	G. Graham. Behaviorism. in: The Stanford encyclopedia of philosophy, Stanford University, 2019</div>
+  <div class="csl-entry">[68]	List of oldest companies. in: Wikipedia, 2019</div>
   <div class="csl-entry">[69]	Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations. 2012</div>
   <div class="csl-entry">[70]	Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation. 2013</div>
   <div class="csl-entry">[71]	National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424. U.S. Department of Health and Human Services, National Institutes of Health, 2018</div>
@@ -435,7 +435,7 @@
   <div class="csl-entry">[84]	A. Fistek, E. Jester, K. Sonnenberg. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate. Milwaukee, WI, United States, 2017</div>
   <div class="csl-entry">[85]	S. Maddox, J. Hurling, E. Stewart, A. Edwards. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children. New Orleans, LA, United States, 2016</div>
   <div class="csl-entry">[86]	J. Pearson. Fat talk and its effects on state-based body image in women. Sydney, NSW, Australia, 2018</div>
-  <div class="csl-entry">[87]	D. De Boer, T. LaFavor. The art and significance of successfully identifying resilient individuals A person-focused approach. In: Perspectives on resilience: Conceptualization, measurement, and enhancement, Portland, OR, United States, 2018</div>
+  <div class="csl-entry">[87]	D. De Boer, T. LaFavor. The art and significance of successfully identifying resilient individuals A person-focused approach. in: Perspectives on resilience: Conceptualization, measurement, and enhancement, Portland, OR, United States, 2018</div>
   <div class="csl-entry">[88]	L. Harris. Instructional leadership perceptions and practices of elementary school leaders [Unpublished doctoral dissertation]. University of Virginia, 2014</div>
   <div class="csl-entry">[89]	M. M. Hollander. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373 [Doctoral dissertation]. University of Wisconsin–Madison, 2017</div>
   <div class="csl-entry">[90]	V. H. Hutcheson. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents [Master’s thesis]. The College of William &#38; Mary, 2012</div>
@@ -460,7 +460,7 @@
   <div class="csl-entry">[109]	SR Research. Eyelink 1000 plus. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a></div>
   <div class="csl-entry">[110]	Tactile Labs. Latero tactile display. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a></div>
   <div class="csl-entry">[111]	Epocrates. Epocrates medical references. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a></div>
-  <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline. In: Epocrates medical references, Google Play Store, 2019</div>
+  <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline. in: Epocrates medical references, Google Play Store, 2019</div>
   <div class="csl-entry">[113]	A. Tellegen, Y. S. Ben-Porath. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT</div>
   <div class="csl-entry">[115]	J. Alonso-Tapia, C. Nieto, E. Merino-Tejedor, J. A. Huertas, M. Ruiz. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018</div>
@@ -470,8 +470,8 @@
   <div class="csl-entry">[119]	P. Jackson. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company, 2001</div>
   <div class="csl-entry">[120]	L. Malle. Goodbye children. Nouvelles Éditions de Films, 1987</div>
   <div class="csl-entry">[121]	The wire. Blown Deadline Productions; HBO, 2002/2008</div>
-  <div class="csl-entry">[122]	K. Barris. Lemons: Season 3, Episode 12. In: Black-ish, Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017</div>
-  <div class="csl-entry">[123]	J. Lynch. Who shot Mr. Burns? (Part One): Season 6, Episode 25. In: The Simpsons, Gracie Films; Twentieth Century Fox Film Corporation, 1995</div>
+  <div class="csl-entry">[122]	K. Barris. Lemons: Season 3, Episode 12. in: Black-ish, Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017</div>
+  <div class="csl-entry">[123]	J. Lynch. Who shot Mr. Burns? (Part One): Season 6, Episode 25. in: The Simpsons, Gracie Films; Twentieth Century Fox Film Corporation, 1995</div>
   <div class="csl-entry">[124]	S. Giertz. Why you should make useless things. TED Conferences, 2018</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to shame. YouTube, 2012</div>
   <div class="csl-entry">[126]	J. F. Goldberg. Evaluating adverse drug effects. American Psychiatric Association, 2018</div>
@@ -480,12 +480,12 @@
   <div class="csl-entry">[129]	University of Oxford. How do geckos walk on water? YouTube, 2016</div>
   <div class="csl-entry">[130]	J. S. Bach. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060. Decca, 2010</div>
   <div class="csl-entry">[131]	D. Bowie. Blackstar. Columbia, 2016</div>
-  <div class="csl-entry">[132]	L. van Beethoven. Symphony No. 3 in E-flat major. In: Beethoven: Complete Symphonies, Brilliant Classics, 2012</div>
-  <div class="csl-entry">[133]	Beyoncé. Formation. In: Lemonade, Parkwood; Columbia, 2016</div>
+  <div class="csl-entry">[132]	L. van Beethoven. Symphony No. 3 in E-flat major. in: Beethoven: Complete Symphonies, Brilliant Classics, 2012</div>
+  <div class="csl-entry">[133]	Beyoncé. Formation. in: Lemonade, Parkwood; Columbia, 2016</div>
   <div class="csl-entry">[134]	Childish Gambino. This is America. mcDJ; RCA, 2018</div>
-  <div class="csl-entry">[135]	K. Lamar. Humble. In: Damn, Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017</div>
+  <div class="csl-entry">[135]	K. Lamar. Humble. in: Damn, Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017</div>
   <div class="csl-entry">[136]	S. Vedantam. Hidden brain. NPR, 2015</div>
-  <div class="csl-entry">[137]	I. Glass. Amusement park: 443. In: This American Life, WBEZ Chicago, 2011</div>
+  <div class="csl-entry">[137]	I. Glass. Amusement park: 443. in: This American Life, WBEZ Chicago, 2011</div>
   <div class="csl-entry">[138]	S. de Beauvoir. Simone de Beauvoir discusses the art of writing. Studs Terkel Radio Archive; The Chicago History Museum, 1960</div>
   <div class="csl-entry">[139]	M. L. King Jr. I have a dream. American Rhetoric, 1963</div>
   <div class="csl-entry">[140]	E. Delacroix. Faust attempts to seduce Marguerite. Paris, France: The Louvre, 1826/1827</div>
@@ -518,27 +518,27 @@
   <div class="csl-entry">[167]	J. Boddy, T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees, et al. Ethics principles. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a></div>
   <div class="csl-entry">[168]	National Nurses United. What employers should do to protect nurses from Zika. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a></div>
   <div class="csl-entry">[169]	U.S. Census Bureau. U.S. and world population clock. [2019]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a></div>
-  <div class="csl-entry">[170]	Brown v. Board of Education. In: U.S.: Vol. 347, 1954: 483</div>
-  <div class="csl-entry">[171]	Obergefell v. Hodges. In: U.S.: Vol. 576, 2015</div>
-  <div class="csl-entry">[172]	Daubert v. Merrell Dow Pharmaceuticals, Inc. In: F.2d: Vol. 951, 1991: 1128</div>
-  <div class="csl-entry">[173]	Burriola v. Greater Toledo YMCA. In: F.Supp.2d: Vol. 133, 2001: 1034</div>
-  <div class="csl-entry">[174]	Durflinger v. Artiles. In: F.Supp.: Vol. 563, 1984: 332</div>
-  <div class="csl-entry">[175]	Tarasoff v. Regents of the University of California. In: Cal.3d: Vol. 17, 1976: 425</div>
-  <div class="csl-entry">[176]	Texas v. Morales. In: S.W.2d: Vol. 826, 1992: 201</div>
-  <div class="csl-entry">[177]	American With Disabilities Act of 1990. In: U.S.C: Vol. 42, 1990</div>
-  <div class="csl-entry">[178]	Civil Rights Act of 1964: 88-352. In: Stat.: Vol. 78, 1964: 241</div>
-  <div class="csl-entry">[179]	Every Student Succeeds Act. In: U.S.C: Vol. 20, 2015</div>
-  <div class="csl-entry">[180]	Lilly Leadbetter Fair Play Act of 2009: 111-2. In: Stat.: Vol. 123, 2009: 5</div>
-  <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act. In: U.S.C: Vol. 20, 1972</div>
-  <div class="csl-entry">[182]	Florida Mental Health Act. In: Fla. Stat., 2009</div>
+  <div class="csl-entry">[170]	Brown v. Board of Education. in: U.S.: Vol. 347, 1954: 483</div>
+  <div class="csl-entry">[171]	Obergefell v. Hodges. in: U.S.: Vol. 576, 2015</div>
+  <div class="csl-entry">[172]	Daubert v. Merrell Dow Pharmaceuticals, Inc. in: F.2d: Vol. 951, 1991: 1128</div>
+  <div class="csl-entry">[173]	Burriola v. Greater Toledo YMCA. in: F.Supp.2d: Vol. 133, 2001: 1034</div>
+  <div class="csl-entry">[174]	Durflinger v. Artiles. in: F.Supp.: Vol. 563, 1984: 332</div>
+  <div class="csl-entry">[175]	Tarasoff v. Regents of the University of California. in: Cal.3d: Vol. 17, 1976: 425</div>
+  <div class="csl-entry">[176]	Texas v. Morales. in: S.W.2d: Vol. 826, 1992: 201</div>
+  <div class="csl-entry">[177]	American With Disabilities Act of 1990. in: U.S.C: Vol. 42, 1990</div>
+  <div class="csl-entry">[178]	Civil Rights Act of 1964: 88-352. in: Stat.: Vol. 78, 1964: 241</div>
+  <div class="csl-entry">[179]	Every Student Succeeds Act. in: U.S.C: Vol. 20, 2015</div>
+  <div class="csl-entry">[180]	Lilly Leadbetter Fair Play Act of 2009: 111-2. in: Stat.: Vol. 123, 2009: 5</div>
+  <div class="csl-entry">[181]	Patsy Mink Equal Opportunity in Education Act. in: U.S.C: Vol. 20, 1972</div>
+  <div class="csl-entry">[182]	Florida Mental Health Act. in: Fla. Stat., 2009</div>
   <div class="csl-entry">[183]	Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs. 2016</div>
   <div class="csl-entry">[184]	Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions. 2014</div>
   <div class="csl-entry">[185]	Mental Health on Campus Improvement Act: H.R. 1100. 2013</div>
-  <div class="csl-entry">[186]	S. Res. 438. In: Cong. Rec.: Vol. 162, 2016: 2394</div>
+  <div class="csl-entry">[186]	S. Res. 438. in: Cong. Rec.: Vol. 162, 2016: 2394</div>
   <div class="csl-entry">[187]	H.R. Rep. No. 114-358. 2015</div>
-  <div class="csl-entry">[188]	Protection of human subjects. In: C.F.R.: Vol. 45, 2009</div>
-  <div class="csl-entry">[189]	Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees. In: F.R.: Vol. 81, 2016: 32391</div>
-  <div class="csl-entry">[190]	Exec. Order No. 13,676. In: C.F.R.: Vol. 3, 2014: 294</div>
+  <div class="csl-entry">[188]	Protection of human subjects. in: C.F.R.: Vol. 45, 2009</div>
+  <div class="csl-entry">[189]	Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees. in: F.R.: Vol. 81, 2016: 32391</div>
+  <div class="csl-entry">[190]	Exec. Order No. 13,676. in: C.F.R.: Vol. 3, 2014: 294</div>
   <div class="csl-entry">[191]	S. C. Hiremath, S. Kumar, F. Lu, A. Salehi. Using metaphors to present concepts across different intellectual domains. U.S., 9,367,592, 2016</div>
   <div class="csl-entry">[192]	U.S. Const. art. I, § 3</div>
   <div class="csl-entry">[193]	S.C. Const. art. XI, § 3</div>
