@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>华中科技大学</title>
+    <title>华中科技大学（理工科）</title>
     <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation</id>
     <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
@@ -16,8 +16,8 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>华中科技大学学位论文参考模板（理工科-博士，2023-02-10 发布）</summary>
-    <updated>2024-04-10T20:47:11+08:00</updated>
+    <summary>理工科-博士-华中科技大学学位论文参考模板（2023-02-10 发布）</summary>
+    <updated>2024-04-10T21:11:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -424,7 +424,7 @@
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter=", ">
-            <text macro="title-en"/>
+            <text macro="title-zh"/>
             <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
             但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
             <text macro="container-booklike"/>
