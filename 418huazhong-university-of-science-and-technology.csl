@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>华中科技大学学位论文参考模板（理工科-博士，2023-02-10 发布）</summary>
-    <updated>2024-03-05T12:22:55+08:00</updated>
+    <updated>2024-04-10T20:47:11+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -378,12 +378,10 @@
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <text macro="title-en"/>
-          <text macro="secondary-contributors"/>
-          <!-- <text macro="container-contributors"/> -->
-          <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
-            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
           <group delimiter=", ">
+            <text macro="title-en"/>
+            <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
+            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
             <text macro="container-booklike"/>
             <text macro="publisher"/>
           </group>
@@ -423,23 +421,15 @@
           <text macro="title-zh"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="paper-conference">
-          <!-- 会议论文集 -->
-          <text macro="title-zh"/>
-          <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
-            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
           <group delimiter=", ">
+            <text macro="title-en"/>
+            <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
+            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
             <text macro="container-booklike"/>
             <text macro="publisher"/>
           </group>
-        </else-if>
-        <else-if type="chapter" variable="container-title" match="any">
-          <!-- 4.2 专著中的析出文献 -->
-          <text macro="title-zh"/>
-          <text macro="secondary-contributors"/>
-          <!-- <text macro="container-contributors"/> -->
-          <text macro="container-booklike"/>
-          <text macro="publisher"/>
         </else-if>
         <else>
           <!-- 4.1 专著 -->
