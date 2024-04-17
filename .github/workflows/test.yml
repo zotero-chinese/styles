@@ -27,7 +27,7 @@ jobs:
           node-version: 16
 
       - name: Run regression tests
-        run: python3 tests/test-style.py
+        run: python3 tests/test_style.py
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v4

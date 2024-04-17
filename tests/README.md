@@ -7,13 +7,13 @@ Requirements:
 Run regression test of a specific style.
 
 ```bash
-python3 tests/test-style.py 000gb-t-7714-2015-numeric-bilingual.csl
+python3 tests/test_style.py 000gb-t-7714-2015-numeric-bilingual.csl
 ```
 
-The `tests/test-style.py` calls `tests/test-style.js` to generate the results.
+The `tests/test_style.py` calls `tests/test-style.js` to generate the results.
 
 Run tests of all files.
 
 ```bash
-python3 tests/test-style.py
+python3 tests/test_style.py
 ```
