@@ -3710,7 +3710,7 @@ available-date: 2014-01-26
 
 ## [452dalian-university-of-technology.csl]
 
-[大连理工大学研究生学位论文](https://gs.dlut.edu.cn/info/1210/13319.htm)样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
+[《大连理工大学学位论文格式规范》](https://gs.dlut.edu.cn/info/1210/13319.htm)（2024-02-26）样式。[002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi.csl]基础上修改。
 
 显示效果：
 
