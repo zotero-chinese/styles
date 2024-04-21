@@ -4579,6 +4579,28 @@ available-date: 2014-01-26
 </blockquote>
 
 
+## [485chinese-academy-of-forestry.csl]
+
+[中国林业科学研究院](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
+显示效果：
+
+> <sup>[1–8]</sup>
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩．科学革命的结构: 第 4 版［M］．金吾伦，胡新和，译．2 版．北京：北京大学出版社，2012．</div>
+    <div class="csl-entry">[2]	Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3]	贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45-52．</div>
+    <div class="csl-entry">[4]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8-9．</div>
+    <div class="csl-entry">[6]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告［R］．2012．</div>
+    <div class="csl-entry">[8]	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
+
+
 ## [501yuzuc-at-title-at-author-at-year.csl]
 
 显示效果：
@@ -5104,6 +5126,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [482china-university-of-mining-and-technology.csl]: 482china-university-of-mining-and-technology.csl
 [483guangdong-university-of-technology.csl]: 483guangdong-university-of-technology.csl
 [484china-agricultural-university-natural-sciences.csl]: 484china-agricultural-university-natural-sciences.csl
+[485chinese-academy-of-forestry.csl]: 485chinese-academy-of-forestry.csl
 [501yuzuc-at-title-at-author-at-year.csl]: 501yuzuc-at-title-at-author-at-year.csl
 [502export-authors.csl]: 502export-authors.csl
 [503export-journal-year-vol-pages.csl]: 503export-journal-year-vol-pages.csl
