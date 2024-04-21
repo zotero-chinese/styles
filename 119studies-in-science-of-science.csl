@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="social_science"/>
     <issn>1003-2053</issn>
-    <updated>2024-04-21T10:40:40+08:00</updated>
+    <updated>2024-04-21T10:44:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -601,13 +601,8 @@
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="original-container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
-            <group delimiter=". ">
-              <text macro="title-ZHtoEN"/>
-            </group>
-            <group delimiter=". ">
-              <text macro="container-contributors"/>
-              <text macro="container-booklike-ZHtoEN"/>
-            </group>
+            <text macro="title-ZHtoEN"/>
+            <text macro="container-booklike-ZHtoEN"/>
           </group>
           <text macro="edition"/>
           <text macro="publisher-ZHtoEN"/>
