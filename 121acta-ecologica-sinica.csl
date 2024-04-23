@@ -11,9 +11,10 @@
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="biology"/>
+    <issn>1000-0933</issn>
     <summary>期刊要求“正文内参考文献按顺序号标注在文字右上角时，一旦是连续文献号请一定确认使用一字线符号‘&#8212;’。”CSL 无法实现，只能搜索替换。</summary>
-    <updated>2024-04-23T10:17:55+08:00</updated>
+    <updated>2024-04-23T10:35:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
