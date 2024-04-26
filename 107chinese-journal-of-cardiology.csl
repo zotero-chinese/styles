@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 默认语言为英文；2. 按照语言显示“等”或“et al.”；3. 姓名取消全大写；4. 西文的名无空格；5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；6. 页码的冒号前无空格；7. 优先显示 DOI。</summary>
-    <updated>2024-01-21T16:25:13+08:00</updated>
+    <updated>2024-04-26T10:30:22+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -332,10 +332,6 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-journal" variable="available-date" match="all">
-        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
-        <date variable="available-date" form="numeric" date-parts="year"/>
-      </else-if>
       <else>
         <!-- 选取引用日期的年份作为估计的出版年 -->
         <date variable="accessed" form="numeric" date-parts="year" prefix="[" suffix="]"/>

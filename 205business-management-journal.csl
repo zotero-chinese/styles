@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <issn>1002-5766</issn>
-    <updated>2024-01-22T21:35:02+08:00</updated>
+    <updated>2024-04-26T10:30:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -180,10 +180,6 @@
       <if variable="issued">
         <date variable="issued" date-parts="year" form="numeric"/>
       </if>
-      <else-if type="article-journal" variable="available-date" match="all">
-        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
-        <date variable="available-date" form="numeric" date-parts="year"/>
-      </else-if>
       <else>
         <text term="no date" prefix="[" suffix="]"/>
       </else>

@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>0578-1752</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。</summary>
-    <updated>2024-01-21T19:22:14+08:00</updated>
+    <updated>2024-04-26T10:30:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
@@ -434,10 +434,6 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-journal" variable="available-date" match="all">
-        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
-        <date variable="available-date" form="numeric" date-parts="year"/>
-      </else-if>
       <else>
         <!-- 选取引用日期的年份作为估计的出版年 -->
         <date variable="accessed" form="numeric" date-parts="year" prefix="[" suffix="]"/>

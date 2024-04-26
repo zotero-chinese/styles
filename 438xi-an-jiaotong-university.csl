@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。新增: 5.patent加入place; 6.中文“等”前取消逗号; 7.添加载体”[/CD]”等; 8:standard的title置后</summary>
-    <updated>2024-02-03T17:54:35+08:00</updated>
+    <updated>2024-04-26T10:30:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -361,10 +361,6 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-journal" variable="available-date" match="all">
-        <!-- 网络首发（advance online publication）的期刊文章的日期使用 available-date -->
-        <date variable="available-date" form="numeric" date-parts="year"/>
-      </else-if>
       <else>
         <!-- 选取引用日期的年份作为估计的出版年 -->
         <date variable="accessed" form="numeric" date-parts="year" prefix="[" suffix="]"/>

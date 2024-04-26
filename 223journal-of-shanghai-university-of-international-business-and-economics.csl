@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-01-21T16:25:14+08:00</updated>
+    <updated>2024-04-26T10:30:37+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -325,9 +325,6 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-journal" variable="available-date" match="all">
-        <date variable="available-date" form="numeric" date-parts="year"/>
-      </else-if>
     </choose>
   </macro>
   <macro name="issued-date">
