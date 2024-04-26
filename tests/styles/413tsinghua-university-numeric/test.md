@@ -41,7 +41,7 @@
   <div class="csl-entry">[28]	中国地质学会. 地质评论[J]. 1936, 1(1). 北京: 地质出版社, 1936.</div>
   <div class="csl-entry">[29]	中国图书馆学会. 图书馆学通讯[J]. 1957. 北京: 北京图书馆, 1957: 98-106.</div>
   <div class="csl-entry">[30]	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[31]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 2000-04-12: 14[2002-03-06]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm</a>.</div>
+  <div class="csl-entry">[31]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 2000-04-12(14)[2002-03-06]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm</a>.</div>
   <div class="csl-entry">[32]	萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.htm">http://www.creader.com/news/20011219/200112190019.htm</a>.</div>
   <div class="csl-entry">[33]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2000-01-08]. <a href="http://www.oclc.org/about/cooperation.en.htm">http://www.oclc.org/about/cooperation.en.htm</a>.</div>
   <div class="csl-entry">[34]	Scitor Corporation. Project scheduler[CP]. Sunnyvale, Calif.: Scitor Corporation, 1983.</div>
@@ -89,7 +89,7 @@
   <div class="csl-entry">[26]	中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.</div>
   <div class="csl-entry">[27]	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
-  <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N/OL]. 人民日报, 2013-01-12: 2[2013-03-20]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>.</div>
+  <div class="csl-entry">[29]	余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N/OL]. 人民日报, 2013-01-12(2)[2013-03-20]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>.</div>
   <div class="csl-entry">[30]	李炳穆. 韩国图书馆法[J/OL]. 图书情报工作, 2008, 52(6): 6-12[2013-10-25]. <a href="http://www.docin.com/p-400265742.html">http://www.docin.com/p-400265742.html</a>.</div>
   <div class="csl-entry">[31]	李幼平, 王莉. 循证医学研究方法: 附视频[J/OL]. 中华移植杂志(电子版), 2010, 4(3): 225-228[2014-06-09]. <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a>.</div>
   <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
@@ -181,8 +181,8 @@
   <div class="csl-entry">[118]	Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J/OL]. Biology, 2013, 2(1): 399-418[2013-11-04]. <a href="http://www.mdpi.com/2079-7737/2/1/399">http://www.mdpi.com/2079-7737/2/1/399</a>. DOI:<a href="https://doi.org/10.3390/biology2010399">10.3390/biology2010399</a>.</div>
   <div class="csl-entry">[119]	Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J/OL]. ACS Chemical Biology, 2013, 8: 1053-1062[2014-06-26]. <a href="http://pubs.acs.org/doi/ipdf/10.1021/cb300573r">http://pubs.acs.org/doi/ipdf/10.1021/cb300573r</a>. DOI:<a href="https://doi.org/10.1021/cb300573r">10.1021/cb300573r</a>.</div>
   <div class="csl-entry">[120]	Park J R, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715[2013-09-05]. <a href="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</a>. DOI:<a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
-  <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20: 15.</div>
-  <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12: 7.</div>
+  <div class="csl-entry">[121]	丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
+  <div class="csl-entry">[122]	张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).</div>
   <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 北京青年报, 2000-01-12[2005-09-28]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</a>.</div>
   <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围?[N/OL]. 人民日报, 2013-01-12[2013-11-06]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm</a>.</div>
   <div class="csl-entry">[125]	萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
@@ -226,7 +226,7 @@
   <div class="csl-entry">[30]	Yu L. Phonological representation and processing in Chinese spoken language production[D/OL]. Beijing Normal University, 2000[2023-01-24]. <a href="https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE">https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE</a>.</div>
   <div class="csl-entry">[31]	余林. 汉语语言产生中的语音表征与加工[D]. 北京师范大学, 2000.</div>
   <div class="csl-entry">[32]	邱颖文. 遗传与语言学习[D]. 上海: 华东师范大学, 2009.</div>
-  <div class="csl-entry">[33]	张三, 李四. 中国心理学与奥林匹克[N]. 新华日报, 2008-08-08: 2, 5-7.</div>
+  <div class="csl-entry">[33]	张三, 李四. 中国心理学与奥林匹克[N]. 新华日报, 2008-08-08(2, 5-7).</div>
 </div>
 
 ### 《中国社会科学》 示例文献
@@ -263,23 +263,23 @@
   <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
   <div class="csl-entry">[30]	黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3).</div>
   <div class="csl-entry">[31]	倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4).</div>
-  <div class="csl-entry">[32]	李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22: 2.</div>
-  <div class="csl-entry">[33]	伤心人（麦孟华）. 说奴隶[N]. 清议报, 第69册: 第1页.</div>
-  <div class="csl-entry">[34]	四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(第8年第19期): 1-2.</div>
-  <div class="csl-entry">[35]	上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14: 4.</div>
-  <div class="csl-entry">[36]	西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11: 第1张第4版.</div>
+  <div class="csl-entry">[32]	李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).</div>
+  <div class="csl-entry">[33]	伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).</div>
+  <div class="csl-entry">[34]	四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).</div>
+  <div class="csl-entry">[35]	上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
+  <div class="csl-entry">[36]	西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[A]. 中国第二历史档案馆, 1917.</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[Z]. 中共四川省委统战部档案室, 1950.</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain H B. On the search for civil society in China[J/OL]. Modern China, 1993, 19(2): 199-215. DOI:<a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
   <div class="csl-entry">[47]	Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger[A]. National Archives II, College Park, MD, 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -292,7 +292,7 @@
   <div class="csl-entry">[5]	季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1).</div>
   <div class="csl-entry">[6]	王保树. 股份有限公司机关构造中的董事和董事会[M]//梁慧星. 民商法论丛: 卷 1. 法律出版社, 1994: 110.</div>
   <div class="csl-entry">[7]	[德]莱纳·沃尔夫. 风险法的风险[M/OL]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社, 2012[2022-08-04]. <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a>.</div>
-  <div class="csl-entry">[8]	何海波. 判决书上网[N]. 法制日报, 2000-05-21: 2.</div>
+  <div class="csl-entry">[8]	何海波. 判决书上网[N]. 法制日报, 2000-05-21(2).</div>
   <div class="csl-entry">[9]	汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB/OL]. (2004-01-10)[2022-05-03]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>.</div>
   <div class="csl-entry">[10]	被告人李宁、张磊贪污案一审开庭[EB/OL]. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
   <div class="csl-entry">[11]	赵耀彤. 一名基层法官眼里好律师的样子[EB/OL]. (2018-12-01)[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
@@ -325,7 +325,7 @@
   <div class="csl-entry">[38]	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.</div>
   <div class="csl-entry">[39]	榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[A]. 2017.</div>
   <div class="csl-entry">[40]	Barbara Ward. Progress for a small planet[J/OL]. Harvard Business Review, 1979(Sep.-Oct.): 89[2022-07-26]. <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a>.</div>
-  <div class="csl-entry">[41]	Rosenthal A. White House tutors Kremlin in how a presidency works[N/OL]. New York Times, 1990-06-15: A1[2022-07-26]. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.</div>
+  <div class="csl-entry">[41]	Rosenthal A. White House tutors Kremlin in how a presidency works[N/OL]. New York Times, 1990-06-15(A1)[2022-07-26]. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.</div>
   <div class="csl-entry">[42]	Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran. MIT Press, 1996.</div>
   <div class="csl-entry">[43]	Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">[44]	Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.</div>
@@ -395,7 +395,7 @@
   <div class="csl-entry">[19]	Bustillos M. On video games and storytelling: An interview with Tom Bissell[J/OL]. The New Yorker, 2013. <a href="https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell">https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell</a>.</div>
   <div class="csl-entry">[20]	Weir K. Forgiveness can improve mental and physical health[J]. Monitor on Psychology, 2017, 48(1): 30.</div>
   <div class="csl-entry">[21]	Guarino B. How will humanity react to alien life? Psychologists have some predictions[N/OL]. The Washington Post, 2017-12-04. <a href="https://www.washingtonpost.com/news/speaking-of-science/wp/2017/12/04/how-will-humanity-react-to-alien-life-psychologists-have-some-predictions">https://www.washingtonpost.com/news/speaking-of-science/wp/2017/12/04/how-will-humanity-react-to-alien-life-psychologists-have-some-predictions</a>.</div>
-  <div class="csl-entry">[22]	Hess A. Cats who take direction[N]. The New York Times, 2019-01-03: C1.</div>
+  <div class="csl-entry">[22]	Hess A. Cats who take direction[N]. The New York Times, 2019-01-03(C1).</div>
   <div class="csl-entry">[23]	Klymkowsky M. Can we talk scientifically about free will?[EB/OL]. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
   <div class="csl-entry">[24]	KS in NJ. From this article, it sounds like men are figuring something out that women have known forever. I know of many[N/OL]. The Washington Post, 2019-01-15. <a href="https://wapo.st/2HDToGJ">https://wapo.st/2HDToGJ</a>.</div>
   <div class="csl-entry">[25]	Author A. How workout buddies can help stave off loneliness[N]. The Washington Post, 2019-01-15.</div>
@@ -462,7 +462,7 @@
   <div class="csl-entry">[86]	Pearson J. Fat talk and its effects on state-based body image in women[Z/OL]. Sydney, NSW, Australia, 2018. <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a>.</div>
   <div class="csl-entry">[87]	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[88]	Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>
-  <div class="csl-entry">[89]	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">[89]	Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90]	Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D/OL]. The College of William &#38; Mary, 2012. <a href="https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf">https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf</a>.</div>
   <div class="csl-entry">[91]	Mirabito L A, Heck N C. Bringing LGBTQ youth theater into the spotlight[J/OL]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500. DOI:<a href="https://doi.org/10.1037/sgd0000205">10.1037/sgd0000205</a>.</div>
   <div class="csl-entry">[92]	Brodsky E. The year we thought about love[Z]. 2016.</div>
@@ -476,8 +476,8 @@
   <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[A/OL]. PsyArXiv, 2018. DOI:<a href="https://doi.org/10.17605/OSF.IO/9P7CB">10.17605/OSF.IO/9P7CB</a>.</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[A/OL]. PubMed Central, 2015. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304</a>.</div>
   <div class="csl-entry">[102]	Ho H K. Teacher preparation for early childhood special education in Taiwan[A/OL]. ERIC, 2014. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
-  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS/OL]. ICPSR, 2018. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
-  <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009[DS/OL]. National Archive of Data on Arts and Culture, 2016. DOI:<a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
+  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS/OL]. ICPSR, 2018. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS/OL]. National Archive of Data on Arts and Culture, 2016. DOI:<a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
   <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26[DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">[106]	Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015.</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism outcomes[DS]. 2011.</div>
@@ -489,14 +489,14 @@
   <div class="csl-entry">[113]	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT[Z/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
   <div class="csl-entry">[115]	Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. PsycTESTS, 2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
-  <div class="csl-entry">[116]	Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 2000.</div>
+  <div class="csl-entry">[116]	Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.</div>
   <div class="csl-entry">[117]	Forman M. One flew over the cuckoo’s nest[Z]. United Artists, 1975.</div>
   <div class="csl-entry">[118]	Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z/educational DVD]. American Pychological Association, 2017. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
   <div class="csl-entry">[119]	Jackson P. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">[120]	Malle L. Goodbye children[Z]. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">[121]	The wire[Z]. Blown Deadline Productions; HBO, 2002/2008.</div>
-  <div class="csl-entry">[122]	Barris K. Lemons[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
-  <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One)[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
+  <div class="csl-entry">[122]	Barris K. Lemons: Season 3, Episode 12[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
+  <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   <div class="csl-entry">[124]	Giertz S. Why you should make useless things[Z/OL]. TED Conferences, 2018. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to shame[Z/OL]. YouTube, 2012. <a href="https://www.youtube.com/watch?v=psN1DORYYV0">https://www.youtube.com/watch?v=psN1DORYYV0</a>.</div>
   <div class="csl-entry">[126]	Goldberg J F. Evaluating adverse drug effects[Z/OL]. American Psychiatric Association, 2018. <a href="https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172">https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172</a>.</div>
@@ -510,7 +510,7 @@
   <div class="csl-entry">[134]	Childish Gambino. This is America[Z]. mcDJ; RCA, 2018.</div>
   <div class="csl-entry">[135]	Lamar K. Humble[Z]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden brain[Z/OL]. NPR, 2015. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
-  <div class="csl-entry">[137]	Glass I. Amusement park[Z/OL]//This American Life. WBEZ Chicago, 2011. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
+  <div class="csl-entry">[137]	Glass I. Amusement park: 443[Z/OL]//This American Life. WBEZ Chicago, 2011. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
   <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z/OL]. Studs Terkel Radio Archive; The Chicago History Museum, 1960. <a href="https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing">https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</a>.</div>
   <div class="csl-entry">[139]	King M L Jr. I have a dream[Z/OL]. American Rhetoric, 1963. <a href="https://www.americanrhetoric.com/speeches/mlkihaveadream.htm">https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</a>.</div>
   <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite[Z]. Paris, France: The Louvre, 1826/1827.</div>

@@ -39,7 +39,7 @@
   <div class="csl-entry">[28]	中国地质学会. 地质评论[J]. 1936, 1(1). 北京: 地质出版社, 1936.</div>
   <div class="csl-entry">[29]	中国图书馆学会. 图书馆学通讯[J]. 1957. 北京: 北京图书馆, 1957: 98-106.</div>
   <div class="csl-entry">[30]	American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[31]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 2000-04-12: 14[2002-03-06]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm</a>.</div>
+  <div class="csl-entry">[31]	傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 2000-04-12(14)[2002-03-06]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm</a>.</div>
   <div class="csl-entry">[32]	萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.htm">http://www.creader.com/news/20011219/200112190019.htm</a>.</div>
   <div class="csl-entry">[33]	Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2000-01-08]. <a href="http://www.oclc.org/about/cooperation.en.htm">http://www.oclc.org/about/cooperation.en.htm</a>.</div>
   <div class="csl-entry">[34]	Scitor Corporation. Project scheduler[CP]. Sunnyvale, Calif.: Scitor Corporation, 1983.</div>
