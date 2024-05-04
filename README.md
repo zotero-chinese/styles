@@ -2440,6 +2440,20 @@ available-date: 2014-01-26
 </blockquote>
 
 
+## [325educational-history-studies.csl]
+
+[教育史研究](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JYUY202001020)样式。在 [social-sciences-in-china.csl](http://www.zotero.org/styles/social-sciences-in-china) 基础上修改。
+
+显示效果：
+
+<blockquote>
+  <sup>1</sup> 布鲁纳著，邵瑞珍、张渭城译：《布鲁纳教育论著选》，人民教育出版社，2018年，第35—36页。<br>
+  <sup>2</sup> 廖哲勋：《实事求是地评价普通高中新课程改革》，《课程·教材·教法》2010年第9期。<br>
+  <sup>3</sup> Burton J. Bledstein. The Culture of Professionalism: The Middle Class and the Development of Higher Education in America. New York: W. W. Norton &#38; Company, Inc. 1976. pp. 33-39.<br>
+  <sup>4</sup> Alexander J. Inglis. The Socialization of the High School. Teachers College Record, 1915, 16(3). p. 216.<br>
+</blockquote>
+
+
 ## [401cas-like-thesis.csl]
 
 [cas-like-thesis](http://yjs.hzau.edu.cn/info/1202/3774.htm)样式。
@@ -5136,6 +5150,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [322contemporary-international-relations.csl]: 322contemporary-international-relations.csl
 [323gb-t-7714-2015-note-fullwidth-punctuations.csl]: 323gb-t-7714-2015-note-fullwidth-punctuations.csl
 [324peoples-publishing-house.csl]: 324peoples-publishing-house.csl
+[325educational-history-studies.csl]: 325educational-history-studies.csl
 [401cas-like-thesis.csl]: 401cas-like-thesis.csl
 [402cas-like-thesis-zotero-ask.csl]: 402cas-like-thesis-zotero-ask.csl
 [403huazhong-agricultural-university.csl]: 403huazhong-agricultural-university.csl
