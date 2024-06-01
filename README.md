@@ -1906,6 +1906,27 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 </blockquote>
 
 
+## [226communication-and-society.csl]
+
+[傳播與社會學刊](http://cschinese.com/submission03.asp)样式。在 [apa.csl](http://www.zotero.org/styles/apa) 基础上修改。
+
+显示效果：
+
+<blockquote>
+  （李金銓，2004：2–4）<br>
+  （祝建華，2001）<br>
+  （Wilfley, 1989, p. 15）<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">李金銓（2004）。《超越西方霸權：傳媒與文化中國的現代性》。香港：牛津大學出版社。</div>
+    <div class="csl-entry">祝建華（2001）。〈中文傳播研究之理論化與本土化：以受眾及媒介效果整合理論為例〉。《新聞學研究》，第68期，頁1–22。</div>
+    <div class="csl-entry">Wilfley, D. E. (1989). <i>Interpersonal analyses of bulimia: Normal-weight and obese</i>. Unpublished doctoral dissertation, University of Missouri, Columbia.</div>
+  </div>
+</blockquote>
+
+
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
 《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》（2020 年版）。
@@ -5237,6 +5258,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [223journal-of-shanghai-university-of-international-business-and-economics.csl]: 223journal-of-shanghai-university-of-international-business-and-economics.csl
 [224journal-of-meteorological-research.csl]: 224journal-of-meteorological-research.csl
 [225acta-geologica-sinica.csl]: 225acta-geologica-sinica.csl
+[226communication-and-society.csl]: 226communication-and-society.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [302historical-research.csl]: 302historical-research.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 303gb-t-7714-2015-note-bilingual.csl

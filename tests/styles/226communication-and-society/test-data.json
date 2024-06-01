@@ -1,0 +1,825 @@
+[
+	{
+		"id": "cs.4.6.6:1",
+		"type": "thesis",
+		"genre": "博士論文",
+		"language": "zh-TW",
+		"publisher": "浸會大學傳理學院",
+		"title": "公眾的想像：媒介使用與中國人的國家主義建構",
+		"title-short": "公眾的想像",
+		"author": [
+			{
+				"literal": "張榮顯"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.5:2",
+		"type": "book",
+		"event-place": "New York",
+		"language": "en-US",
+		"note": "original-date: 1814",
+		"number-of-pages": "234",
+		"publisher": "Dover",
+		"publisher-place": "New York",
+		"source": "Internet Archive",
+		"title": "A philosophical essay on probabilities",
+		"URL": "http://archive.org/details/philosophicaless00lapliala",
+		"author": [
+			{
+				"family": "Laplace",
+				"given": "Pierre-Simon"
+			}
+		],
+		"translator": [
+			{
+				"family": "Truscott",
+				"given": "F. W."
+			},
+			{
+				"family": "Emory",
+				"given": "F. L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1902"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.4:2",
+		"type": "chapter",
+		"container-title": "Excellence in public relations and communication management",
+		"event-place": "Hillsdale, NJ",
+		"ISBN": "978-0-203-81230-3",
+		"language": "en-US",
+		"page": "1-30",
+		"publisher": "Lawrence Erlbaum Associates",
+		"publisher-place": "Hillsdale, NJ",
+		"title": "Communication, public relations, and effective organizations: An overview of the book",
+		"title-short": "Communication, public relations, and effective organizations",
+		"author": [
+			{
+				"family": "Grunig",
+				"given": "James E."
+			}
+		],
+		"editor": [
+			{
+				"family": "Grunig",
+				"given": "James E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.8:2",
+		"type": "article-newspaper",
+		"container-title": "明報",
+		"language": "zh-TW",
+		"page": "A5",
+		"title": "報評會成立，接受私隱投訴",
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.8:3",
+		"type": "article-newspaper",
+		"container-title": "The Washington Post",
+		"ISSN": "0190-8286",
+		"language": "en-US",
+		"page": "A1, A4",
+		"source": "www.washingtonpost.com",
+		"title": "Obesity affects economic, social status",
+		"URL": "https://www.washingtonpost.com/archive/politics/1993/09/30/obesity-affects-economic-social-status/87aff38c-a24d-4d5f-99e5-e0d7f73ff9d9/",
+		"author": [
+			{
+				"family": "Schwartz",
+				"given": "John"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.3:4",
+		"type": "book",
+		"collection-title": "Meta-analytic procedures for social research, Rev. ed",
+		"edition": "Rev. ed.",
+		"event-place": "Newbury Park, CA",
+		"ISBN": "978-0-8039-4245-5",
+		"language": "en-US",
+		"publisher": "Sage",
+		"publisher-place": "Newbury Park, CA",
+		"source": "APA PsycNet",
+		"title": "Meta-analytic procedures for social research",
+		"author": [
+			{
+				"family": "Rosenthal",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.3:5",
+		"type": "book",
+		"event-place": "Greenwich, CT",
+		"ISBN": "978-0-89232-638-9",
+		"language": "en-US",
+		"number-of-pages": "321",
+		"publisher": "JAI Press",
+		"publisher-place": "Greenwich, CT",
+		"source": "Google Books",
+		"title": "Research on negotiation in organizations",
+		"editor": [
+			{
+				"family": "Sheppard",
+				"given": "Blair H."
+			},
+			{
+				"family": "Bazerman",
+				"given": "Max H."
+			},
+			{
+				"family": "Lewicki",
+				"given": "Roy J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.3:3",
+		"type": "book",
+		"event-place": "New York",
+		"ISBN": "978-0-03-058337-7",
+		"language": "en-US",
+		"number-of-pages": "586",
+		"publisher": "Holt, Rinehart & Winston",
+		"publisher-place": "New York",
+		"source": "Internet Archive",
+		"title": "Managing public relations",
+		"URL": "http://archive.org/details/managingpublicre0000unse",
+		"author": [
+			{
+				"family": "Grunig",
+				"given": "James E."
+			},
+			{
+				"family": "Hunt",
+				"given": "Tond"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.1:3",
+		"type": "article-journal",
+		"container-title": "Journal of Public Relations Research",
+		"DOI": "10.1207/s1532754xjprr0703_01",
+		"ISSN": "1062-726X, 1532-754X",
+		"issue": "3",
+		"journalAbbreviation": "Journal of Public Relations Research",
+		"language": "en-US",
+		"page": "163-186",
+		"title": "Models of public relations in an international setting",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1207/s1532754xjprr0703_01",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Grunig",
+				"given": "James E."
+			},
+			{
+				"family": "Grunig",
+				"given": "Larissa A."
+			},
+			{
+				"family": "Sriramesh",
+				"given": "K."
+			},
+			{
+				"family": "Huang",
+				"given": "Yi-Hui"
+			},
+			{
+				"family": "Lyra",
+				"given": "Anastasia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.9:1",
+		"type": "webpage",
+		"container-title": "中華傳播網",
+		"language": "zh-TW",
+		"title": "新意識形態與中國傳媒—新世紀新聞傳媒研究的一個前沿課題",
+		"URL": "http://academmic.mediachina.net/xsjd_view.jps?id=1802",
+		"author": [
+			{
+				"literal": "潘知常"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					10,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.8:1",
+		"type": "article-newspaper",
+		"container-title": "中國時報",
+		"language": "zh-TW",
+		"page": "15",
+		"title": "媒體如何擺脫政治糾葛？",
+		"author": [
+			{
+				"literal": "林鶴玲"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.4:1",
+		"type": "chapter",
+		"container-title": "全球化與文化間傳播",
+		"event-place": "北京",
+		"language": "zh-TW",
+		"page": "240-254",
+		"publisher": "北京廣播學院出版社",
+		"publisher-place": "北京",
+		"source": "Baidu Scholar",
+		"title": "全球化與文化產品的混雜化",
+		"author": [
+			{
+				"literal": "汪琪"
+			}
+		],
+		"editor": [
+			{
+				"literal": "郭鎮之"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.7:2",
+		"type": "article-magazine",
+		"container-title": "Science",
+		"ISSN": "0036-8075",
+		"issue": "5494",
+		"language": "en-US",
+		"note": "PMID: 11185010",
+		"page": "1113-1120",
+		"source": "PubMed",
+		"title": "Neuroscience: breaking down scientific barriers to the study of brain and mind",
+		"title-short": "Neuroscience",
+		"volume": "290",
+		"author": [
+			{
+				"family": "Kandel",
+				"given": "E. R."
+			},
+			{
+				"family": "Squire",
+				"given": "L. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					11,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.7:1",
+		"type": "article-magazine",
+		"container-title": "信報財經月刊",
+		"issue": "315",
+		"language": "zh-TW",
+		"page": "35-37",
+		"title": "香港傳媒「非典」一役的總結",
+		"URL": "https://gbcode.rthk.hk/TuniS/app3.rthk.hk/mediadigest/content.php?aid=162",
+		"author": [
+			{
+				"literal": "張圭陽"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.3:1",
+		"type": "book",
+		"event-place": "香港",
+		"ISBN": "978-0-19-597250-4",
+		"language": "zh-TW",
+		"number-of-pages": "367",
+		"publisher": "牛津大學出版社",
+		"publisher-place": "香港",
+		"source": "Douban",
+		"title": "超越西方霸權：傳媒與文化中國的現代性",
+		"URL": "https://book.douban.com/subject/1369261/",
+		"author": [
+			{
+				"literal": "李金銓"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.2:1",
+		"type": "paper-conference",
+		"event-place": "澳門",
+		"event-title": "中華傳播學會2004 年學術研討會",
+		"language": "zh-TW",
+		"publisher-place": "澳門",
+		"title": "新聞乎？廣告乎？醫療風險資訊的媒體再現與反思",
+		"author": [
+			{
+				"literal": "徐美苓"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.1:2",
+		"type": "article-journal",
+		"container-title": "Public Relations Review",
+		"DOI": "10.1016/S0363-8111(00)00042-4",
+		"ISSN": "03638111",
+		"issue": "2",
+		"journalAbbreviation": "Public Relations Review",
+		"language": "en-US",
+		"license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+		"page": "219-236",
+		"title": "The personal influence model and Gao Guanxi in Taiwan Chinese public relations",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0363811100000424",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Huang",
+				"given": "Yi-Hui"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.1:1",
+		"type": "article-journal",
+		"container-title": "新聞學研究",
+		"issue": "68",
+		"language": "zh-TW",
+		"page": "1-22",
+		"source": "Baidu Scholar",
+		"title": "中文傳播研究之理論化與本土化：以受眾及媒介效果整合理論為例",
+		"title-short": "中文傳播研究之理論化與本土化",
+		"URL": "http://mcr.nccu.edu.tw/issueArticle.asp?P_No=79&amp;CA_ID=958",
+		"author": [
+			{
+				"literal": "祝建華"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.3:2",
+		"type": "book",
+		"event-place": "台北",
+		"ISBN": "978-957-11-3448-2",
+		"language": "zh-TW",
+		"publisher": "五南",
+		"publisher-place": "台北",
+		"source": "Douban",
+		"title": "中華傳播理論與原則",
+		"URL": "https://book.douban.com/subject/1368592/",
+		"editor": [
+			{
+				"literal": "陳國明"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.9:2",
+		"type": "webpage",
+		"language": "zh-TW",
+		"title": "財劃法後政治人物聲望民調",
+		"URL": "http://www.tvbs.com.tw/code/tvbsnews/poll/2002-02/20020222/020222.asp",
+		"author": [
+			{
+				"literal": "TVBS民意調查中心"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2002",
+					3,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					2,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.6:4",
+		"type": "thesis",
+		"event-place": "Victoria, British Columbia, Canada",
+		"genre": "Unpublished master’s thesis",
+		"language": "en-US",
+		"note": "ERIC Number: ED333965",
+		"publisher": "University of Victoria",
+		"publisher-place": "Victoria, British Columbia, Canada",
+		"source": "ERIC",
+		"title": "Fathers’ participation in family work: Consequences for fathers’ stress and father-child relations",
+		"title-short": "Fathers’ Participation in Family Work",
+		"author": [
+			{
+				"family": "Almeida",
+				"given": "David M."
+			}
+		],
+		"contributor": [
+			{
+				"family": "Galambos",
+				"given": "Nancy L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1990",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.6:3",
+		"type": "thesis",
+		"event-place": "Columbia",
+		"genre": "Unpublished doctoral dissertation",
+		"language": "en-US",
+		"publisher": "University of Missouri",
+		"publisher-place": "Columbia",
+		"title": "Interpersonal analyses of bulimia: Normal-weight and obese",
+		"title-short": "Interpersonal analyses of bulimia",
+		"author": [
+			{
+				"family": "Wilfley",
+				"given": "D. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.6:2",
+		"type": "thesis",
+		"genre": "碩士論文",
+		"language": "zh-TW",
+		"publisher": "政治大學新聞研究所",
+		"title": "新聞記者之社會智慧與消息來源互動策略之人際關係研究",
+		"author": [
+			{
+				"literal": "楊怡珊"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.5:1",
+		"type": "book",
+		"event-place": "北京",
+		"ISBN": "978-0-534-55132-2",
+		"language": "zh-TW",
+		"note": "original-author: Straubhaar || Joseph\noriginal-author: LaRose || R.\noriginal-title: Media now: Communication media in the information age\noriginal-publisher-place: Belmont, CA\noriginal-publisher: Wadsworth",
+		"number-of-pages": "606",
+		"publisher": "清華大學出版社",
+		"publisher-place": "北京",
+		"source": "Internet Archive",
+		"title": "資訊時代的傳播媒介",
+		"title-short": "Media now",
+		"URL": "http://archive.org/details/medianowcommunic0003stra",
+		"author": [
+			{
+				"literal": "約瑟夫．斯特勞巴哈"
+			},
+			{
+				"literal": "羅伯特．拉羅斯"
+			}
+		],
+		"translator": [
+			{
+				"literal": "熊澄宇"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.9:3",
+		"type": "webpage",
+		"language": "en-US",
+		"title": "Towards a Canadian health IWAY: Vision, opportunities and future steps",
+		"URL": "http://www.canarie.ca/press/publications/pdf/health/healthvision.doc",
+		"author": [
+			{
+				"literal": "Canarie, Inc."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2000",
+					11,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1997",
+					9,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "cs.4.6.2:2",
+		"type": "paper-conference",
+		"event-place": "San Diego",
+		"event-title": "2003 International Communication Association Annual Conference",
+		"language": "en-US",
+		"publisher-place": "San Diego",
+		"title": "Voter cynicism, perception of media negativism and voting behavior in Taiwan’s 2001 election",
+		"author": [
+			{
+				"family": "Peng",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					5
+				]
+			]
+		}
+	}
+]
