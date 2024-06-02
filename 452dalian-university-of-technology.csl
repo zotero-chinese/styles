@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>大连理工大学</title>
     <id>http://www.zotero.org/styles/dalian-university-of-technology</id>
@@ -16,8 +16,8 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>《大连理工大学学位论文格式规范》（2024-02-26）：1. 多个作者都是“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <summary>《大连理工大学学位论文格式规范》（2024-02-19）</summary>
+    <updated>2024-06-02T22:01:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -97,15 +97,10 @@
         </if>
       </choose>
     </group>
-    <!-- 会议论文的文献类型不显示在题目后面 -->
-    <choose>
-      <if type="paper-conference" match="none">
-        <group delimiter="/" prefix="[" suffix="]">
-          <text macro="type-id"/>
-          <text macro="medium-id"/>
-        </group>
-      </if>
-    </choose>
+    <group delimiter="/" prefix="[" suffix="]">
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
+    </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
@@ -224,10 +219,6 @@
                 <text variable="container-title"/>
               </else>
             </choose>
-            <group delimiter="/" prefix="[" suffix="]">
-              <text macro="type-id"/>
-              <text macro="medium-id"/>
-            </group>
           </group>
           <text variable="event-place"/>
         </group>
@@ -263,7 +254,6 @@
         </group>
       </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -293,7 +283,6 @@
       <if type="patent">
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </if>
       <else-if type="paper-conference">
         <!-- 论文集、会议录不显示出版地和出版者 -->
@@ -302,8 +291,7 @@
           <text variable="page"/>
         </group>
       </else-if>
-      <else-if type="book chapter periodical thesis" variable="publisher page" match="any">
-        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
+      <else>
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
@@ -323,32 +311,6 @@
           </group>
           <text variable="page"/>
         </group>
-        <text macro="accessed-date"/>
-      </else-if>
-      <else-if variable="URL">
-        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
-        -->
-        <choose>
-          <if type="dataset post post-weblog software webpage" match="any">
-            <!-- 限制更少的类型作为“纯电子文献“ -->
-            <choose>
-              <if has-day="issued">
-                <text macro="issued-date" prefix="(" suffix=")"/>
-              </if>
-              <else-if variable="issued">
-                <text macro="issued-year"/>
-              </else-if>
-            </choose>
-            <text macro="accessed-date"/>
-          </if>
-          <else>
-            <text macro="issued-year"/>
-          </else>
-        </choose>
-      </else-if>
-      <else>
-        <text macro="issued-year"/>
       </else>
     </choose>
   </macro>
