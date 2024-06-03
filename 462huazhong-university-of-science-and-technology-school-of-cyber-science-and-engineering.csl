@@ -18,15 +18,19 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-03T21:52:11+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <date form="text">
-      <date-part name="month" suffix=" " range-delimiter="–"/>
-      <date-part name="day" suffix=", " range-delimiter="–"/>
-      <date-part name="year" range-delimiter="–"/>
+      <date-part name="month" suffix=" " range-delimiter="-"/>
+      <date-part name="day" suffix=", " range-delimiter="-"/>
+      <date-part name="year" range-delimiter="-"/>
     </date>
+    <terms>
+      <term name="month-06" form="short">June</term>
+      <term name="month-07" form="short">July</term>
+    </terms>
   </locale>
   <locale xml:lang="zh">
     <date form="text">

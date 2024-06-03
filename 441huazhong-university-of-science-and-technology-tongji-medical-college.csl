@@ -13,14 +13,14 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-03T21:52:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <date form="text">
-      <date-part name="day" suffix=" " range-delimiter="–"/>
-      <date-part name="month" form="short" suffix=" " range-delimiter="–"/>
-      <date-part name="year" range-delimiter="–"/>
+      <date-part name="day" suffix=" " range-delimiter="-"/>
+      <date-part name="month" form="short" suffix=" " range-delimiter="-"/>
+      <date-part name="year" range-delimiter="-"/>
     </date>
     <terms>
       <term name="month-06" form="short">June</term>

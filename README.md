@@ -3007,7 +3007,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
     <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
     <div class="csl-entry">[5]	M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, R. E. Guldberg, K. J. Jepsen, R. Müller. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-    <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters, in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
+    <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters, in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12-15 Nov. 2018, IEEE, 2019: 1361-1364</div>
     <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
     <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
     <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
@@ -3609,7 +3609,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
     <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
     <div class="csl-entry">[5]	M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-    <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, et al. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
+    <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, et al. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12-15 Nov. 2018, IEEE, 2019: 1361-1364</div>
     <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
     <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
     <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
@@ -4126,7 +4126,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
     <div class="csl-entry">[4]	Ed S. Lein, Michael J. Hawrylycz, Nancy Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
     <div class="csl-entry">[5]	Mary L. Bouxsein, Stephen K. Boyd, Blaine A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-    <div class="csl-entry">[6]	Suli Yang, Jing Liu, Andrea Arpaci-Dusseau, et al. Principled schedulability analysis for distributed storage systems using thread architecture models. In: Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018), Carlsbad, CA, USA, October 8–10, 2018, USENIX Association, 2018: 161-176</div>
+    <div class="csl-entry">[6]	Suli Yang, Jing Liu, Andrea Arpaci-Dusseau, et al. Principled schedulability analysis for distributed storage systems using thread architecture models. In: Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018), Carlsbad, CA, USA, October 8-10, 2018, USENIX Association, 2018: 161-176</div>
     <div class="csl-entry">[7]	Ting Yao, Jiguang Wan, Ping Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
     <div class="csl-entry">[8]	刘德林, 李德奎. 多功能可擦写存储器. 中国, 发明专利, 202010575613.3, 2020</div>
     <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
@@ -4496,7 +4496,7 @@ available-date: 2014-01-26
     <div class="csl-entry">[1]	库恩．科学革命的结构: 第 4 版［M］．金吾伦，胡新和，译．第2版．北京：北京大学出版社，2012．</div>
     <div class="csl-entry">[2]	FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd Edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
     <div class="csl-entry">[3]	贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45-52．</div>
-    <div class="csl-entry">[4]	FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[4]	FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, 23-25 Aug. 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
     <div class="csl-entry">[5]	武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8-9．</div>
     <div class="csl-entry">[6]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
     <div class="csl-entry">[7]	中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告［R］．2012．</div>

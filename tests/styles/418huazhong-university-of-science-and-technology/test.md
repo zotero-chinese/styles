@@ -16,7 +16,7 @@
   <div class="csl-entry">[3]	詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   <div class="csl-entry">[4]	E. S. Lein, M. J. Hawrylycz, N. Ao, M. Ayres, A. Bensinger, A. Bernard, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
   <div class="csl-entry">[5]	M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, R. E. Guldberg, K. J. Jepsen, R. Müller. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
-  <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters, in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12–15 Nov. 2018, IEEE, 2019: 1361-1364</div>
+  <div class="csl-entry">[6]	S. Yamaki, M. Abet, M. Kawamata, M. Yoshizawa. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters, in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12-15 Nov. 2018, IEEE, 2019: 1361-1364</div>
   <div class="csl-entry">[7]	T. Yao, J. Wan, P. Huang, X. He, F. Wu, C. Xie. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
   <div class="csl-entry">[8]	刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
   <div class="csl-entry">[9]	李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
@@ -146,7 +146,7 @@
   <div class="csl-entry">[108]	宋史卷三: 本纪第三, 见: 宋史: 第 1 册, 北京: 中华书局, 1977: 49</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析, 见: 汶川地震震害研究, 上海: 同济大学出版社, 2011: 011-012</div>
   <div class="csl-entry">[110]	P. R. Buseck, G. L. Nord Jr., D. R. Veblen. Subsolidus phenomena in pyroxenes, in: Pyroxense, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>
-  <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity, in: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23–25 Aug. 1971, ASME, c1971: 17-38</div>
+  <div class="csl-entry">[111]	M. E. Fourney. Advances in holographic photoelasticity, in: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23-25 Aug. 1971, ASME, c1971: 17-38</div>
   <div class="csl-entry">[112]	杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75</div>
   <div class="csl-entry">[113]	李炳穆. 韩国图书馆法. 图书情报工作, 2008, 52(6): 6-21</div>
   <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523</div>
