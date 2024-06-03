@@ -58,8 +58,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">丁文详. 2000. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 2000. 大风沙过后的思考[N]. 北京青年报, 2000-01-12.</div>
   <div class="csl-entry">顾炎武. 1992. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社.</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. GB/T 2659—1986 世界各国和地区名称代码[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59-92.</div>
-  <div class="csl-entry">国家环境保护局科技标准司. 1996. GB 15616—1995 土壤环境质量标准[S]. 北京: 中国标准出版社: 2-3.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. 1988. GB/T 2659—1986 世界各国和地区名称代码[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社: 59-92.</div>
+  <div class="csl-entry">国家环境保护局科技标准司. 1996. GB 15616—1995 土壤环境质量标准[S]. 北京: 中国标准出版社: 2-3.</div>
   <div class="csl-entry">哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社: 235-236.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法: 中国, 01129210.5[P]. 2001-10-24[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>.</div>
   <div class="csl-entry">侯文顺. 2010. 高分子物理: 高分子材料分析、选择与改性[M]. 北京: 化学工业出版社: 119.</div>
@@ -85,9 +85,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">牛志明, 斯温兰德, 雷光春. 2012. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社.</div>
   <div class="csl-entry">裴丽生. 1981. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部: 2-10.</div>
   <div class="csl-entry">皮锡瑞. 2009. 师伏堂日记: 第 4 册[M]. 北京: 北京图书馆出版社: 155.</div>
-  <div class="csl-entry">全国广播电视标准化技术委员会. 2007. GY/T 202.2—2007 广播电视音像资料编目规范: 第 2 部分 广播资料[S]. 北京: 国家广播电影电视总局广播电视规划院: 1.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 2010a. GB/T 25100—2010 信息与文献 都柏林核心元数据元素集[S]. 北京: 中国标准出版社: 2-3.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 2010b. GB/T 3792.4—2009 文献著录: 第 4 部分 非书资料[S]. 北京: 中国标准出版社: 3.</div>
+  <div class="csl-entry">全国广播电视标准化技术委员会. 2007. GY/T 202.2—2007 广播电视音像资料编目规范: 第 2 部分 广播资料[S]. 北京: 国家广播电影电视总局广播电视规划院: 1.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 2010a. GB/T 25100—2010 信息与文献 都柏林核心元数据元素集[S]. 北京: 中国标准出版社: 2-3.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 2010b. GB/T 3792.4—2009 文献著录: 第 4 部分 非书资料[S]. 北京: 中国标准出版社: 3.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 2013. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R].</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室. 2011. 汶川地震灾害研究[M]. 上海: 同济大学出版社: 5-6.</div>
   <div class="csl-entry">汪昂. 1881. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂.</div>
@@ -110,7 +110,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 1988. 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局: 590.</div>
   <div class="csl-entry">佚名. 2011. 周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">Anon. 2012. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
-  <div class="csl-entry">Anon. [2013]. ISO 15836:2009 Information and documentation—The Dublin core metadata element set[S].</div>
+  <div class="csl-entry">Anon. [2013]. ISO 15836:2009 Information and documentation—The Dublin core metadata element set[S].</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌. 2013. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 等. 2012. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 57(34): 3219.</div>
@@ -244,11 +244,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">杨钟羲. 1991. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社.</div>
   <div class="csl-entry">姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
   <div class="csl-entry">佚名. 1910. 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).</div>
-  <div class="csl-entry">佚名. 1917. 傅良佐致国务院电[M]. 中国第二历史档案馆.</div>
+  <div class="csl-entry">佚名. 1917. 傅良佐致国务院电: 北洋档案 1011—5961[M]. 中国第二历史档案馆.</div>
   <div class="csl-entry">佚名. 1925. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">佚名. 1933. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
-  <div class="csl-entry">佚名. 1950. 党外人士座谈会记录[M]. 中共四川省委统战部档案室.</div>
-  <div class="csl-entry">Anon. 1969. Nixon to Kissinger[M]. National Archives II, College Park, MD.</div>
+  <div class="csl-entry">佚名. 1950. 党外人士座谈会记录: 李劼人档案[M]. 中共四川省委统战部档案室.</div>
+  <div class="csl-entry">Anon. 1969. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[M]. National Archives II, College Park, MD.</div>
   <div class="csl-entry">佚名. 1975. 旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局.</div>
   <div class="csl-entry">佚名. 1983. 方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社.</div>
   <div class="csl-entry">佚名. 1985. 太平御览: 卷 690 服章部七[M]. 影印本. 北京: 中华书局.</div>
@@ -272,7 +272,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[德]莱纳·沃尔夫. 2012. 风险法的风险[M]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社.</div>
   <div class="csl-entry">邓小平. 1994. 精简机构是一场革命[M]//邓小平文选: 卷 2. 2 版. 人民出版社.</div>
   <div class="csl-entry">高鸿钧, 程汉大. 2013. 英美法原论[M]. 北京大学出版社.</div>
-  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 2015. GB/T 7714—2015 信息与文献 参考文献著录规则[S].</div>
+  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 2015. GB/T 7714—2015 信息与文献 参考文献著录规则[S].</div>
   <div class="csl-entry">国务院. 2007a. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[EB].</div>
   <div class="csl-entry">国务院. 2007b. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[EB].</div>
   <div class="csl-entry">国务院. 2018. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[EB].</div>

@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《水利水运工程学报》投稿论文格式模板</summary>
-    <updated>2024-04-26T10:30:22+08:00</updated>
+    <updated>2024-06-03T23:52:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -73,7 +73,14 @@
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
-        <text variable="title"/>
+        <group delimiter=" ">
+          <choose>
+            <if type="standard">
+              <text variable="number"/>
+            </if>
+          </choose>
+          <text variable="title"/>
+        </group>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
@@ -88,8 +95,15 @@
               </if>
             </choose>
             <choose>
-              <if type="bill legal_case legislation patent regulation report standard" match="any">
+              <if type="article article-journal standard" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
                 <text variable="number"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="collection manuscript personal_communication" match="any">
+                <!-- 档案的卷宗号 -->
+                <text variable="archive_location"/>
               </if>
             </choose>
           </group>
@@ -114,7 +128,14 @@
   <macro name="title-ZHtoEN">
     <group delimiter=", ">
       <group delimiter=": ">
-        <text variable="original-title"/>
+        <group delimiter=" ">
+          <choose>
+            <if type="standard">
+              <text variable="number"/>
+            </if>
+          </choose>
+          <text variable="original-title"/>
+        </group>
         <group delimiter="&#8195;">
           <choose>
             <if variable="original-container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
@@ -129,8 +150,15 @@
               </if>
             </choose>
             <choose>
-              <if type="bill legal_case legislation patent regulation report standard" match="any">
+              <if type="article article-journal standard" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
                 <text variable="number"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="collection manuscript personal_communication" match="any">
+                <!-- 档案的卷宗号 -->
+                <text variable="archive_location"/>
               </if>
             </choose>
           </group>

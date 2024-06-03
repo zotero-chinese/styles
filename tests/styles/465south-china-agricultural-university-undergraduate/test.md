@@ -58,8 +58,8 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-01-12.</div>
   <div class="csl-entry">顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
-  <div class="csl-entry">国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996: 2-3.</div>
+  <div class="csl-entry">国家标准局信息分类编码研究所. GB/T 2659—1986 世界各国和地区名称代码[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">国家环境保护局科技标准司. GB 15616—1995 土壤环境质量标准[S]. 北京: 中国标准出版社, 1996: 2-3.</div>
   <div class="csl-entry">哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国, 01129210.5[P]. 2001-10-24[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>.</div>
   <div class="csl-entry">侯文顺. 高分子物理: 高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010: 119.</div>
@@ -85,9 +85,9 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[A]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选[C]. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
   <div class="csl-entry">皮锡瑞. 师伏堂日记: 第 4 册[M]. 北京: 北京图书馆出版社, 2009: 155.</div>
-  <div class="csl-entry">全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010a: 2-3.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010b: 3.</div>
+  <div class="csl-entry">全国广播电视标准化技术委员会. GY/T 202.2—2007 广播电视音像资料编目规范: 第 2 部分 广播资料[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. GB/T 25100—2010 信息与文献 都柏林核心元数据元素集[S]. 北京: 中国标准出版社, 2010a: 2-3.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. GB/T 3792.4—2009 文献著录: 第 4 部分 非书资料[S]. 北京: 中国标准出版社, 2010b: 3.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
   <div class="csl-entry">汪昂. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂, 1881.</div>
@@ -110,7 +110,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">佚名. 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">佚名. 周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">Anon. Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
-  <div class="csl-entry">Anon. Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. [2013].</div>
+  <div class="csl-entry">Anon. ISO 15836:2009 Information and documentation—The Dublin core metadata element set[S]. [2013].</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
@@ -244,11 +244,11 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
   <div class="csl-entry">姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
   <div class="csl-entry">佚名. 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).</div>
-  <div class="csl-entry">佚名. 傅良佐致国务院电[M]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">佚名. 傅良佐致国务院电: 北洋档案 1011—5961[M]. 中国第二历史档案馆, 1917.</div>
   <div class="csl-entry">佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
-  <div class="csl-entry">佚名. 党外人士座谈会记录[M]. 中共四川省委统战部档案室, 1950.</div>
-  <div class="csl-entry">Anon. Nixon to Kissinger[M]. National Archives II, College Park, MD, 1969.</div>
+  <div class="csl-entry">佚名. 党外人士座谈会记录: 李劼人档案[M]. 中共四川省委统战部档案室, 1950.</div>
+  <div class="csl-entry">Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[M]. National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">佚名. 旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局, 1975.</div>
   <div class="csl-entry">佚名. 方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>
   <div class="csl-entry">佚名. 太平御览: 卷 690 服章部七[M]. 影印本. 北京: 中华书局, 1985.</div>
@@ -272,7 +272,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">[德]莱纳·沃尔夫. 风险法的风险[M]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社, 2012.</div>
   <div class="csl-entry">邓小平. 精简机构是一场革命[M]//邓小平文选: 卷 2. 2 版. 人民出版社, 1994.</div>
   <div class="csl-entry">高鸿钧, 程汉大. 英美法原论[M]. 北京大学出版社, 2013.</div>
-  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S].</div>
+  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. GB/T 7714—2015 信息与文献 参考文献著录规则[S].</div>
   <div class="csl-entry">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[EB]. 2007a.</div>
   <div class="csl-entry">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[EB]. 2007b.</div>
   <div class="csl-entry">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[EB]. 2018.</div>
@@ -413,7 +413,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[EB/OL]. (2018-02-26). <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.</div>
   <div class="csl-entry">Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015.</div>
   <div class="csl-entry">Balsam K F, Martell C R, Jones K P, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[M]//Iwamasa G Y, Hays P A. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.</div>
-  <div class="csl-entry">Barris K. Lemons[M]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
+  <div class="csl-entry">Barris K. Lemons: Season 3, Episode 12[M]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
   <div class="csl-entry">Bergeson S. Really cool neutral plasmas[J]. Science, 2019, 363(6422): 33-34.</div>
   <div class="csl-entry">Beyoncé. Formation[M]//Lemonade. Parkwood; Columbia, 2016.</div>
   <div class="csl-entry">Blackwell D L, Lucas J W, Clarke T C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012[R]. Centers for Disease Control and Prevention, 2014.</div>
@@ -434,7 +434,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
   <div class="csl-entry">Canan E, Vasilev J. Lecture notes on resource allocation[EB]. Department of Management Control and Information Systems, University of Chile, 2019.</div>
   <div class="csl-entry">Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
-  <div class="csl-entry">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 2000.</div>
+  <div class="csl-entry">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.</div>
   <div class="csl-entry">Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB/OL]. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
   <div class="csl-entry">Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz J J, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J]. Clínica y Salud, 2018, 28(3): 155-161.</div>
   <div class="csl-entry">Childish Gambino. This is America[M]. mcDJ; RCA, 2018.</div>
@@ -445,7 +445,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[M]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.</div>
   <div class="csl-entry">Delacroix E. Faust attempts to seduce Marguerite[M]. Paris, France: The Louvre, 1826/1827.</div>
-  <div class="csl-entry">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS]. ICPSR, 2018.</div>
+  <div class="csl-entry">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018.</div>
   <div class="csl-entry">Epocrates. Epocrates medical references[CP/OL]. App Store, 2019a. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">Epocrates. Interaction Check: Aspirin + Sertraline[EB]//Epocrates medical references. Google Play Store, 2019b.</div>
   <div class="csl-entry">Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology: Vol. 1[M]. 5th ed. John Wiley &#38; Sons, 2010.</div>
@@ -457,7 +457,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][EB/OL]. (2018-03-22). <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.</div>
   <div class="csl-entry">GDJ. Neural network deep learning prismatic[EB]. Openclipart, 2018.</div>
   <div class="csl-entry">Giertz S. Why you should make useless things[EB]. TED Conferences, 2018.</div>
-  <div class="csl-entry">Glass I. Amusement park[EB]//This American Life. WBEZ Chicago, 2011.</div>
+  <div class="csl-entry">Glass I. Amusement park: 443[EB]//This American Life. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">Gold M. The complete social scientist: A Kurt Lewin reader[M]. American Psychological Association, 1999.</div>
   <div class="csl-entry">Goldberg J F. Evaluating adverse drug effects[EB]. American Psychiatric Association, 2018.</div>
   <div class="csl-entry">Goldin-Meadow S. Gesture and cognitive development[M]//Liben L S, Mueller U. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.</div>
@@ -472,7 +472,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Hess A. Cats who take direction[N]. The New York Times, 2019-01-03(C1).</div>
   <div class="csl-entry">Hiremath S C, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains: U.S., 9,367,592[P]. 2016. <a href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592">http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592</a>.</div>
   <div class="csl-entry">Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.</div>
-  <div class="csl-entry">Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">Housand B. Game on! Integrating games and simulations in the classroom[EB]. SlideShare, 2016.</div>
   <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.</div>
   <div class="csl-entry">Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary, 2012.</div>
@@ -487,7 +487,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">Lilienfeld S O. Archives of scientific psychology: Heterodox issues in psychology[J]. 2018, 6(1). 2018: 51-104.</div>
   <div class="csl-entry">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[M]. Department of Psychology, University of Washington, 2019.</div>
-  <div class="csl-entry">Lynch J. Who shot Mr. Burns? (Part One)[M]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
+  <div class="csl-entry">Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25[M]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   <div class="csl-entry">Mack R, Spake G. Citing open source images and formatting references for presentations[EB]. Canvas@FNU, 2018.</div>
   <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[M]. New Orleans, LA, United States, 2016.</div>
   <div class="csl-entry">Madigan S. Narrative therapy[M]. 2nd ed. American Psychological Association, 2019.</div>
@@ -504,7 +504,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">Morey M C. Physical activity and exercise in older adults[J]. UpToDate, 2019.</div>
   <div class="csl-entry">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![EB/OL]. (2018-09-12). <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>.</div>
   <div class="csl-entry">National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424[R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
-  <div class="csl-entry">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009[DS]. National Archive of Data on Arts and Culture, 2016.</div>
+  <div class="csl-entry">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. National Archive of Data on Arts and Culture, 2016.</div>
   <div class="csl-entry">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[EB/OL]. (2018-11-28). <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>.</div>
   <div class="csl-entry">National Nurses United. What employers should do to protect nurses from Zika[EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
   <div class="csl-entry">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[EB/OL]. (2018-06-26). <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>.</div>

@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>华南农业大学研究生学位论文写作指南（2019年12月）</summary>
-    <updated>2024-04-26T10:30:24+08:00</updated>
+    <updated>2024-06-04T00:04:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -101,33 +101,40 @@
   <!-- 题名 -->
   <macro name="title">
     <group delimiter=", ">
-      <group delimiter="&#8195;">
-        <choose>
-          <if type="standard">
-            <text variable="number"/>
-          </if>
-        </choose>
-        <group delimiter=": ">
+      <group delimiter=": ">
+        <group delimiter=" ">
+          <choose>
+            <if type="standard">
+              <text variable="number"/>
+            </if>
+          </choose>
           <text variable="title"/>
-          <group delimiter="&#8195;">
+        </group>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+              <text macro="volume"/>
+              <text variable="volume-title"/>
+            </if>
+          </choose>
+          <group delimiter=", ">
             <choose>
-              <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-                <text macro="volume"/>
-                <text variable="volume-title"/>
+              <if type="patent">
+                <text macro="patent-country"/>
               </if>
             </choose>
-            <group delimiter=", ">
-              <choose>
-                <if type="patent">
-                  <text macro="patent-country"/>
-                </if>
-              </choose>
-              <choose>
-                <if type="article article-journal standard" match="none">
-                  <text variable="number"/>
-                </if>
-              </choose>
-            </group>
+            <choose>
+              <if type="article article-journal standard" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
+                <text variable="number"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="collection manuscript personal_communication" match="any">
+                <!-- 档案的卷宗号 -->
+                <text variable="archive_location"/>
+              </if>
+            </choose>
           </group>
         </group>
       </group>

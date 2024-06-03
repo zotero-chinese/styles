@@ -34,7 +34,7 @@
   <div class="csl-entry">[1]	陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000:29.</div>
   <div class="csl-entry">[2]	哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012:235-236.</div>
   <div class="csl-entry">[3]	北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012:112.</div>
-  <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010:2-3.</div>
+  <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. GB/T 25100—2010 信息与文献 都柏林核心元数据元素集[S]. 北京: 中国标准出版社, 2010:2-3.</div>
   <div class="csl-entry">[5]	徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.</div>
   <div class="csl-entry">[6]	顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
   <div class="csl-entry">[7]	王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.</div>
@@ -130,14 +130,14 @@
   <div class="csl-entry">[97]	张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 中国, 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国, 01129210.5[P]. 2001-10-24.</div>
   <div class="csl-entry">[99]	Koseki A, Momose H, Kawahito M, et al. Compiler: US, US828402[P]. 2002-05-25.</div>
-  <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010:3.</div>
-  <div class="csl-entry">[101]	全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007:1.</div>
-  <div class="csl-entry">[102]	国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996:2-3.</div>
-  <div class="csl-entry">[103]	Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. [2013].</div>
+  <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. GB/T 3792.4—2009 文献著录: 第 4 部分 非书资料[S]. 北京: 中国标准出版社, 2010:3.</div>
+  <div class="csl-entry">[101]	全国广播电视标准化技术委员会. GY/T 202.2—2007 广播电视音像资料编目规范: 第 2 部分 广播资料[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007:1.</div>
+  <div class="csl-entry">[102]	国家环境保护局科技标准司. GB 15616—1995 土壤环境质量标准[S]. 北京: 中国标准出版社, 1996:2-3.</div>
+  <div class="csl-entry">[103]	ISO 15836:2009 Information and documentation—The Dublin core metadata element set[S]. [2013].</div>
   <div class="csl-entry">[104]	卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988:590.</div>
   <div class="csl-entry">[105]	白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998:146-163.</div>
   <div class="csl-entry">[106]	汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002:22-25.</div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988:59-92.</div>
+  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986 世界各国和地区名称代码[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988:59-92.</div>
   <div class="csl-entry">[108]	宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977:49.</div>
   <div class="csl-entry">[109]	楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011:011-012.</div>
   <div class="csl-entry">[110]	Buseck PR, Nord GL Jr, Veblen DR. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980:117-211.</div>
@@ -241,15 +241,15 @@
   <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津:9.</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000:9.</div>
-  <div class="csl-entry">[40]	傅良佐致国务院电[A]. 中国第二历史档案馆, 1917.</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录[M]. 中共四川省委统战部档案室, 1950.</div>
+  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[M]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. 1998[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. [2007][2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">[45]	Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	Chamberlain HB. On the search for civil society in China[J]. Mod China, 1993, 19(2):199-215. DOI: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
   <div class="csl-entry">[47]	Schfield RS. The impact of scarcity and plenty on population change in England[M]//Rotberg RI, Rabb TK. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983:55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger[A]. National Archives II, College Park, MD, 1969.</div>
+  <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
 </div>
 
 ### 《法学引注手册》 示例文献
@@ -289,7 +289,7 @@
   <div class="csl-entry">[32]	国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A]. 2007.</div>
   <div class="csl-entry">[33]	最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[A]. 2018.</div>
   <div class="csl-entry">[34]	国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[A]. 2018.</div>
-  <div class="csl-entry">[35]	国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. 2015.</div>
+  <div class="csl-entry">[35]	国家质量监督检验检疫总局, 中国国家标准化管理委员会. GB/T 7714—2015 信息与文献 参考文献著录规则[S]. 2015.</div>
   <div class="csl-entry">[36]	信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R]. 2013.</div>
   <div class="csl-entry">[37]	中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[A]. 2014.</div>
   <div class="csl-entry">[38]	荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.</div>
@@ -432,7 +432,7 @@
   <div class="csl-entry">[86]	Pearson J. Fat talk and its effects on state-based body image in women[EB]. Sydney, NSW, Australia, 2018.</div>
   <div class="csl-entry">[87]	De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[M]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
   <div class="csl-entry">[88]	Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>
-  <div class="csl-entry">[89]	Hollander MM. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison, 2017.</div>
+  <div class="csl-entry">[89]	Hollander MM. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90]	Hutcheson VH. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary, 2012.</div>
   <div class="csl-entry">[91]	Mirabito LA, Heck NC. Bringing LGBTQ youth theater into the spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4):499-500. DOI: <a href="https://doi.org/10.1037/sgd0000205">10.1037/sgd0000205</a>.</div>
   <div class="csl-entry">[92]	Brodsky E. The year we thought about love[M]. 2016.</div>
@@ -446,8 +446,8 @@
   <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv, 2018. DOI: <a href="https://doi.org/10.17605/OSF.IO/9P7CB">10.17605/OSF.IO/9P7CB</a>.</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen MA, Sinha R. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015.</div>
   <div class="csl-entry">[102]	Ho HK. Teacher preparation for early childhood special education in Taiwan[A]. ERIC, 2014.</div>
-  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DB]. ICPSR, 2018. DOI: <a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
-  <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009[DB]. National Archive of Data on Arts and Culture, 2016. DOI: <a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
+  <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DB]. ICPSR, 2018. DOI: <a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
+  <div class="csl-entry">[104]	National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DB]. National Archive of Data on Arts and Culture, 2016. DOI: <a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
   <div class="csl-entry">[105]	Pew Research Center. American trends panel Wave 26[DB/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">[106]	Baer RA. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DB]. University of Kentucky, 2015.</div>
   <div class="csl-entry">[107]	Oregan Youth Authority. Recidivism outcomes[DB]. 2011.</div>
@@ -459,14 +459,14 @@
   <div class="csl-entry">[113]	Tellegen A, Ben-Porath YS. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT[EB].</div>
   <div class="csl-entry">[115]	Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DB]. PsycTESTS, 2018. DOI: <a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
-  <div class="csl-entry">[116]	Cardoza D, Morris JK, Myers HF, et al. Acculturative Stress Inventory (ASI)[DB]. ETS TestLink, 2000.</div>
+  <div class="csl-entry">[116]	Cardoza D, Morris JK, Myers HF, et al. Acculturative Stress Inventory (ASI): TC022704[DB]. ETS TestLink, 2000.</div>
   <div class="csl-entry">[117]	Forman M. One flew over the cuckoo’s nest[M]. United Artists, 1975.</div>
   <div class="csl-entry">[118]	Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. American Pychological Association, 2017.</div>
   <div class="csl-entry">[119]	Jackson P. The lord of the rings: The fellowship of the ring[M/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">[120]	Malle L. Goodbye children[M]. Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">[121]	The wire[M]. Blown Deadline Productions; HBO, 2002/2008.</div>
-  <div class="csl-entry">[122]	Barris K. Lemons[M]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
-  <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One)[M]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
+  <div class="csl-entry">[122]	Barris K. Lemons: Season 3, Episode 12[M]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.</div>
+  <div class="csl-entry">[123]	Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25[M]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   <div class="csl-entry">[124]	Giertz S. Why you should make useless things[EB]. TED Conferences, 2018.</div>
   <div class="csl-entry">[125]	TED. Brené Brown: Listening to shame[EB]. YouTube, 2012.</div>
   <div class="csl-entry">[126]	Goldberg JF. Evaluating adverse drug effects[EB]. American Psychiatric Association, 2018.</div>
@@ -480,7 +480,7 @@
   <div class="csl-entry">[134]	Childish Gambino. This is America[M]. mcDJ; RCA, 2018.</div>
   <div class="csl-entry">[135]	Lamar K. Humble[M]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">[136]	Vedantam S. Hidden brain[EB]. NPR, 2015.</div>
-  <div class="csl-entry">[137]	Glass I. Amusement park[EB]//This American Life. WBEZ Chicago, 2011.</div>
+  <div class="csl-entry">[137]	Glass I. Amusement park: 443[EB]//This American Life. WBEZ Chicago, 2011.</div>
   <div class="csl-entry">[138]	de Beauvoir S. Simone de Beauvoir discusses the art of writing[EB]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.</div>
   <div class="csl-entry">[139]	King ML Jr. I have a dream[EB]. American Rhetoric, 1963.</div>
   <div class="csl-entry">[140]	Delacroix E. Faust attempts to seduce Marguerite[M]. Paris, France: The Louvre, 1826/1827.</div>
