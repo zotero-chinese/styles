@@ -19,7 +19,7 @@
     <issn>1000-324X</issn>
     <summary>《无机材料学报》写作及排版规范</summary>
     <published>2022-03-24T00:00:00+08:00</published>
-    <updated>2024-06-06T12:32:56+08:00</updated>
+    <updated>2024-06-06T14:49:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -245,7 +245,7 @@
               <choose>
                 <if variable="publisher publisher-place" match="any">
                   <text variable="publisher-place"/>
-                  <text variable="publisher" font-style="italic"/>
+                  <text variable="publisher"/>
                 </if>
                 <else>
                   <!-- 档案的馆藏地以及收藏机构或单位 -->
