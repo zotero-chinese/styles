@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>1000-7091</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL`。</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-06T09:22:08+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -262,14 +262,14 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0">
-    <layout suffix="." locale="zh">
+    <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <text macro="entry-layout"/>
-      <text variable="title-short" display="block" prefix="."/>
+      <text macro="entry-layout" suffix="."/>
+      <text variable="title-short" suffix="." display="block"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <text macro="entry-layout"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
 </style>

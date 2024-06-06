@@ -540,8 +540,8 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.
-      <div class="csl-block">科学革命的结构</div>
-    .</div>
+      <div class="csl-block">科学革命的结构.</div>
+    </div>
     <div class="csl-entry">[2] FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26[2014-06-26].</div>
     <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
     <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38.</div>
@@ -767,8 +767,8 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1] 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.
-      <div class="csl-block">科学革命的结构</div>
-    .</div>
+      <div class="csl-block">科学革命的结构.</div>
+    </div>
     <div class="csl-entry">[2] Fan X, Sommers C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
     <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.</div>
     <div class="csl-entry">[4] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
@@ -1565,28 +1565,28 @@ original-container-title: Acta psychologica sinica
 
 <blockquote>
   <div class="csl-bib-body">
-    <div class="csl-entry">[1]	贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年
+    <div class="csl-entry">[1]	贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年.
       <div class="csl-block">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年 (In Chinese)</div>
     </div>
-    <div class="csl-entry">[2]	库恩. 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, trans.. 2 edition. 北京: 北京大学出版社，2012年
+    <div class="csl-entry">[2]	库恩. 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, trans.. 2 edition. 北京: 北京大学出版社，2012年.
       <div class="csl-block">库恩. 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, trans.. 2 edition. 北京: 北京大学出版社，2012年 (In Chinese)</div>
     </div>
-    <div class="csl-entry">[3]	武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现[J]，测绘科学, 33(5): 8-9.
+    <div class="csl-entry">[3]	武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现[J]，测绘科学, 33(5): 8-9. .
       <div class="csl-block">武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现[J]，测绘科学, 33(5): 8-9. (In Chinese)</div>
     </div>
     <div class="csl-entry">[4]	中国互联网络信息中心. 2012. 第 29 次中国互联网络发展现状统计报告[R]. (2012-01-16) [2013-03-26].
       <div class="csl-block">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展现状统计报告[R]. (2012-01-16) [2013-03-26]. (In Chinese)</div>
     </div>
-    <div class="csl-entry">[5]	BAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04)
+    <div class="csl-entry">[5]	BAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04).
       <div class="csl-block">BAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04) (In Chinese)</div>
     </div>
-    <div class="csl-entry">[6]	FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年
+    <div class="csl-entry">[6]	FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年.
       <div class="csl-block">FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年 (In Chinese)</div>
     </div>
-    <div class="csl-entry">[7]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年
+    <div class="csl-entry">[7]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年.
       <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年 (In Chinese)</div>
     </div>
-    <div class="csl-entry">[8]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362.
+    <div class="csl-entry">[8]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. .
       <div class="csl-block">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. (In Chinese)</div>
     </div>
   </div>
@@ -3101,8 +3101,8 @@ available-date: 2014-01-26
 <blockquote>
   <div class="csl-bib-body">
     <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.
-      <div class="csl-block">科学革命的结构</div>
-    .</div>
+      <div class="csl-block">科学革命的结构.</div>
+    </div>
     <div class="csl-entry">[2]	Fan X, Sommers C H. Food irradiation research and technology[M/OL]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
     <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.</div>
     <div class="csl-entry">[4]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
