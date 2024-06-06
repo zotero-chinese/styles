@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>2097-0099</issn>
     <summary>Financial Research Journal author-date style</summary>
-    <updated>2024-06-06T09:52:16+08:00</updated>
+    <updated>2024-06-06T13:44:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -130,7 +130,8 @@
     <choose>
       <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
         <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
-          article 为预印本，符合“科技档案” -->
+         article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">

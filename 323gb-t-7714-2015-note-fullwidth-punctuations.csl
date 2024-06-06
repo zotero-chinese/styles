@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点。</summary>
-    <updated>2024-01-21T20:18:56+08:00</updated>
+    <updated>2024-06-06T13:45:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -492,7 +492,8 @@
       </else-if>
       <else-if variable="URL DOI" match="any">
         <!-- 纯电子资源联机网络文献的格式“（更新或修改日期）［引用日期］”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if has-day="issued">
             <text macro="issued-date" prefix="（" suffix="）"/>
@@ -741,13 +742,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en"/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
-    <layout suffix="．">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout-zh" suffix="．"/>
     </layout>
   </bibliography>
 </style>

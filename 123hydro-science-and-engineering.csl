@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《水利水运工程学报》投稿论文格式模板</summary>
-    <updated>2024-06-03T23:52:49+08:00</updated>
+    <updated>2024-06-06T13:45:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -464,7 +464,8 @@
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
@@ -521,7 +522,8 @@
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->

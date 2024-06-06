@@ -439,9 +439,7 @@ def check_style(file):
 def write_style(style, path):
     with open(path) as f:
         original_content = f.read()
-    style_str = etree.tostring(
-        style, pretty_print=True, xml_declaration=True, encoding="utf-8"
-    ).decode("utf-8")
+    style_str = etree.tostring(style, pretty_print=True, xml_declaration=True, encoding="utf-8").decode("utf-8")
     style_str = style_str.replace("'", '"', 4)
     style_str = style_str.replace(" ", "&#160;")  # no-break space
     style_str = style_str.replace(" ", "&#8195;")  # em space
@@ -452,13 +450,11 @@ def write_style(style, path):
     style_str = style_str.replace("—", "&#8212;")  # em dash
     style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
     style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
-    style_str = re.sub(r"(\S)[ \t]+-->", r"\1 -->", style_str)
+    style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
 
     if style_str != original_content:
         now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
-        style_str = re.sub(
-            r"<updated>[^<]*</updated>", f"<updated>{now}</updated>", style_str
-        )
+        style_str = re.sub(r"<updated>[^<]*</updated>", f"<updated>{now}</updated>", style_str)
     with open(path, "w") as f:
         f.write(style_str)
 

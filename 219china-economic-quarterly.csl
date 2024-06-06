@@ -12,7 +12,7 @@
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <summary>1. 样式的默认语言为英文。其他语言的文献需要在 `language` 字段填写对应的语言代码（如 `zh-CN`）；2. CSL 无法实现要求的中英文混排。</summary>
-    <updated>2024-01-21T19:43:17+08:00</updated>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -357,13 +357,13 @@
       <key macro="author-bib-en"/>
       <key macro="date"/>
     </sort>
-    <layout suffix="。" locale="zh">
+    <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout-zh" suffix="。"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en"/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>

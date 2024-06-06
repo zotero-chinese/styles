@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <category field="political_science"/>
-    <updated>2023-12-22T00:19:11+08:00</updated>
+    <updated>2024-06-06T13:18:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -1695,25 +1695,25 @@
       <key macro="type-sort"/>
       <key macro="author-zh"/>
     </sort>
-    <layout suffix="." locale="de">
+    <layout locale="de">
       <text macro="citation-number"/>
-      <text macro="source-de"/>
+      <text macro="source-de" suffix="."/>
     </layout>
-    <layout suffix="." locale="fr">
+    <layout locale="fr">
       <text macro="citation-number"/>
-      <text macro="source-fr"/>
+      <text macro="source-fr" suffix="."/>
     </layout>
-    <layout suffix="。" locale="ja">
+    <layout locale="ja">
       <text macro="citation-number"/>
-      <text macro="source-ja"/>
+      <text macro="source-ja" suffix="。"/>
     </layout>
-    <layout suffix="。" locale="zh">
+    <layout locale="zh">
       <text macro="citation-number"/>
-      <text macro="source-zh"/>
+      <text macro="source-zh" suffix="。"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text macro="citation-number"/>
-      <text macro="source-en"/>
+      <text macro="source-en" suffix="."/>
     </layout>
   </bibliography>
 </style>

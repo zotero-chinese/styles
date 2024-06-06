@@ -19,7 +19,7 @@
     <category field="social_science"/>
     <issn>0577-9154</issn>
     <summary>Economic Research Journal author-date style</summary>
-    <updated>2024-04-26T10:30:22+08:00</updated>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -333,11 +333,11 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <layout suffix="。" locale="zh">
-      <text macro="entry-layout"/>
+    <layout locale="zh">
+      <text macro="entry-layout" suffix="。"/>
     </layout>
-    <layout suffix=".">
-      <text macro="entry-layout-en"/>
+    <layout>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>

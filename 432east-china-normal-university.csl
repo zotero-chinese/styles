@@ -13,7 +13,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-04-26T10:30:24+08:00</updated>
+    <updated>2024-06-06T13:26:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -336,15 +336,15 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush" hanging-indent="true">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
       <key variable="language" sort="ascending"/>
       <key macro="author-intext-zh" sort="ascending"/>
     </sort>
-    <layout locale="en-US" suffix=".">
+    <layout locale="en">
       <text macro="entry-layout-en"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text macro="entry-layout-zh"/>
     </layout>
   </bibliography>

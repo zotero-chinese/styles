@@ -14,7 +14,7 @@
     <category field="biology"/>
     <issn>1000-0933</issn>
     <summary>期刊要求“正文内参考文献按顺序号标注在文字右上角时，一旦是连续文献号请一定确认使用一字线符号‘&#8212;’。”CSL 无法实现，只能搜索替换。</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -369,13 +369,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
 </style>

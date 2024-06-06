@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>华南农业大学研究生学位论文写作指南（2019年12月）</summary>
-    <updated>2024-06-04T00:04:27+08:00</updated>
+    <updated>2024-06-06T13:18:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -500,11 +500,11 @@
       <key macro="author"/>
       <key macro="issued-year"/>
     </sort>
-    <layout suffix="." locale="en">
-      <text macro="entry-layout"/>
+    <layout locale="en">
+      <text macro="entry-layout" suffix="."/>
     </layout>
-    <layout suffix=".">
-      <text macro="entry-layout"/>
+    <layout>
+      <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
 </style>

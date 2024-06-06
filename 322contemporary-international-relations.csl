@@ -13,7 +13,7 @@
     <issn>1000-6192</issn>
     <summary>根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《现代国际关系》引文规范改制，具体用法和特性见说明</summary>
     <published>2022-10-31T00:00:00+08:00</published>
-    <updated>2024-01-21T16:16:32+08:00</updated>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 西文编者、译者、页码以及日期设定 -->
@@ -650,11 +650,11 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en" suffix="." delimiter="; ">
-      <text macro="en-layout"/>
+    <layout locale="en" delimiter="; ">
+      <text macro="en-layout" suffix="."/>
     </layout>
-    <layout suffix="。" delimiter="；">
-      <text macro="zh-layout"/>
+    <layout delimiter="；">
+      <text macro="zh-layout" suffix="。"/>
     </layout>
   </bibliography>
 </style>
