@@ -14,6 +14,9 @@ CSL.Output.Formats.html['@display/left-margin'] = function (state, str) {
 CSL.Output.Formats.html['@display/right-inline'] = function (state, str) {
     return str;
 };
+CSL.Output.Formats.html['@display/block'] = function (state, str) {
+    return "\n    <div class=\"csl-block\">" + str + "</div>\n  ";
+};
 
 
 function get_paths(style_name) {
