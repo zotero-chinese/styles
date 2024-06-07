@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《大连理工大学学位论文格式规范》（2024-02-19）</summary>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-06-07T10:42:42+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -210,16 +210,14 @@
       <if type="paper-conference">
         <!-- 会议论文优先使用会议名称，并且加文献类型标识 -->
         <group delimiter=", ">
-          <group>
-            <choose>
-              <if variable="event-title">
-                <text variable="event-title"/>
-              </if>
-              <else>
-                <text variable="container-title"/>
-              </else>
-            </choose>
-          </group>
+          <choose>
+            <if variable="event-title">
+              <text variable="event-title"/>
+            </if>
+            <else>
+              <text variable="container-title"/>
+            </else>
+          </choose>
           <text variable="event-place"/>
         </group>
       </if>
@@ -402,16 +400,10 @@
         </else-if>
         <else-if type="chapter" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-          <group delimiter="//">
-            <group delimiter=". ">
-              <text macro="title"/>
-              <text macro="secondary-contributors"/>
-            </group>
-            <group delimiter=". ">
-              <text macro="container-contributors"/>
-              <text macro="container-booklike"/>
-            </group>
-          </group>
+          <text macro="title"/>
+          <text macro="secondary-contributors"/>
+          <text macro="container-contributors"/>
+          <text macro="container-booklike"/>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

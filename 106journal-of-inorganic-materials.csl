@@ -19,7 +19,7 @@
     <issn>1000-324X</issn>
     <summary>《无机材料学报》写作及排版规范</summary>
     <published>2022-03-24T00:00:00+08:00</published>
-    <updated>2024-06-06T14:49:53+08:00</updated>
+    <updated>2024-06-06T22:19:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -150,21 +150,24 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
-    <group delimiter=", ">
-      <choose>
-        <if type="paper-conference" variable="event-title" match="all">
-          <!-- 会议论文优先使用会议名称 -->
-          <text variable="event-title"/>
-          <text variable="event-place"/>
-          <date variable="event-date" form="numeric" date-parts="year"/>
-        </if>
-        <else-if variable="container-title">
-          <group delimiter=": ">
-            <text variable="container-title"/>
-            <text macro="volume"/>
-          </group>
-        </else-if>
-      </choose>
+    <group delimiter=". ">
+      <text macro="container-contributors"/>
+      <group delimiter=", ">
+        <choose>
+          <if type="paper-conference" variable="event-title" match="all">
+            <!-- 会议论文优先使用会议名称 -->
+            <text variable="event-title"/>
+            <text variable="event-place"/>
+            <date variable="event-date" form="numeric" date-parts="year"/>
+          </if>
+          <else-if variable="container-title">
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text macro="volume"/>
+            </group>
+          </else-if>
+        </choose>
+      </group>
     </group>
   </macro>
   <!-- 连续出版物中的出处项 -->
@@ -381,11 +384,7 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <group delimiter=". ">
-              <text macro="container-contributors"/>
-              <text macro="container-booklike"/>
-            </group>
-          </group>
+            <text macro="container-booklike"/></group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>
