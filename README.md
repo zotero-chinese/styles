@@ -500,6 +500,28 @@ GB/T 7714—1987 《[文后参考文献著录规则](https://std.samr.gov.cn/gb/
 </blockquote>
 
 
+## [024gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi-except-aop.csl]
+
+[GB/T 7714-2015 (顺序编码, 双语, 姓名取消大写, 无 URL DOI, 网络首发文献除外)](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)样式。在 [china-national-standard-gb-t-7714-2015-numeric.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric) 基础上修改。
+
+显示效果：
+
+> <sup>[1–8]</sup>
+
+<blockquote>
+  <div class="csl-bib-body second-field-align-flush">
+    <div class="csl-entry">[1]	库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-entry">[2]	Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-entry">[3]	贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-entry">[4]	Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-entry">[6]	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-entry">[7]	中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+    <div class="csl-entry">[8]	Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  </div>
+</blockquote>
+
+
 ## [101chinese-medical-association.csl]
 
 中华医学会系列杂志样式。[000gb-t-7714-2015-numeric-bilingual.csl] 基础上修改，作者为大写，支持中文作者超过 3 个为“`等`”，英文为“`et al`”。英文期刊名称为缩写，缩写使用方法：在 Word 的 Zotero 工具条上点击 `Document preferences`，选择`Chinese Medical Association（numeric, Chinese`后，点击 `Use MEDLINE journal abbreviations` 前的复选框，使之选中，则使用 MEDLINE 的缩写格式；如果这个缩写格式不适合，不要选中 `Use MEDLINE journal abbreviations`，在 `Zotero` 中 `Info` 下面的 `Journal Abbr` 字段内填写杂志的缩写，则会调用自已填写的杂志缩写，`Juris—M` 对杂志缩写处理选项更多。
@@ -5241,6 +5263,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [021gb-t-7714-2015-author-date-fullwidth-punctuations.csl]: 021gb-t-7714-2015-author-date-fullwidth-punctuations.csl
 [022journals-of-natural-sciences-in-chinese-universities.csl]: 022journals-of-natural-sciences-in-chinese-universities.csl
 [023gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi-with-locator.csl]: 023gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi-with-locator.csl
+[024gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi-except-aop.csl]: 024gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi-except-aop.csl
 [101chinese-medical-association.csl]: 101chinese-medical-association.csl
 [102transactions-of-the-chinese-society-of-agricultural-engineering.csl]: 102transactions-of-the-chinese-society-of-agricultural-engineering.csl
 [103ieee-bl.csl]: 103ieee-bl.csl
