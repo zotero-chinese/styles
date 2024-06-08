@@ -8,15 +8,38 @@
 
 ### 引注
 
-<sup>1</sup> [NO_PRINTED_FORM]<br>
-<sup>2</sup> [NO_PRINTED_FORM]<br>
-<sup>3</sup> [NO_PRINTED_FORM]<br>
-<sup>4</sup> [NO_PRINTED_FORM]<br>
+<sup>1</sup> 库恩：《科学革命的结构: 第 4 版》第2版，金吾伦、胡新和译，北京大学出版社2012年版。<br>
+<sup>2</sup> Fan, Xuetong and Sommers, Christopher H., <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
+<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
+<sup>4</sup> Fourney, M. E., “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.<br>
+<sup>5</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>
+<sup>6</sup> Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol.510, June 2014, pp.356-362.<br>
+<sup>7</sup> Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol.510, June 2014, pp.356-362.<br>
+<sup>8</sup> Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol.510, June 2014, p.357.<br>
+<sup>9</sup> Fan, Xuetong and Sommers, Christopher H., <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp.326-329.<br>
 
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩：《科学革命的结构: 第 4 版》第2版，金吾伦、胡新和译，北京大学出版社2012年版。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fan, Xuetong and Sommers, Christopher H., <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol.510, June 2014, pp.356-362.</div>
+  </div>
 </div>
 
 ## 默认测试

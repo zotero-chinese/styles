@@ -8,26 +8,35 @@
 
 ### 引注
 
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-
+[1–8]
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan, X., &#38; Sommers, C. H. (2013). <i>Food Irradiation Research and Technology</i> (2nd ed., pp. 25–26). Blackwell Publishing.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集(2011 年卷)[C]. 北京: 国家图书馆出版社, 2011: 45–52.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney, M. E. (c1971). Advances in Holographic Photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, 17–38.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 200833, (5): 8–9.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., et al. (2014). The Genome of Eucalyptus Grandis. <i>Nature</i>, <i>510</i>, 356–362.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
+  </div>
 </div>
 
 ## 默认测试

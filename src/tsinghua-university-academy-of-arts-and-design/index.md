@@ -8,16 +8,38 @@
 
 ### 引注
 
-<sup>1</sup> [NO_PRINTED_FORM]<br>
-<sup>2</sup> [NO_PRINTED_FORM]<br>
-<sup>3</sup> [NO_PRINTED_FORM]<br>
-<sup>4</sup> [NO_PRINTED_FORM]<br>
-<sup>5</sup> [NO_PRINTED_FORM]<br>
+<sup>1</sup> 库恩, <i>科学革命的结构: 第 4 版</i>, trans. by 金吾伦 and 胡新和, 北京: 北京大学出版社, 2012.<br>
+<sup>2</sup> X. Fan and C. H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26.<br>
+<sup>3</sup> 贾东琴 and 柯平, “面向数字素养的高校图书馆数字服务体系研究,” in 中国图书馆学会 (ed.), 中国图书馆学会年会论文集, 北京: 国家图书馆出版社, 2011, pp. 45–52.<br>
+<sup>4</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp. 17–38.<br>
+<sup>5</sup> 武丽丽, 华一新, 张亚军, and 刘英敏, “‘北斗一号’监控管理网设计与实现,” 测绘科学, vol. 33, no. 5 (2008), pp. 8–9.<br>
+<sup>6</sup> A. A. Myburg, D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510 (June 2014), pp. 356–362.<br>
+<sup>7</sup> A. A. Myburg, D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510 (June 2014).<br>
+<sup>8</sup> A. A. Myburg, D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510 (June 2014), p. 357.<br>
+<sup>9</sup> X. Fan and C. H. Sommers, <i>Food Irradiation Research and Technology</i>, pp. 326–329.<br>
 
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩, <i>科学革命的结构: 第 4 版</i>, trans. by 金吾伦 and 胡新和, 北京: 北京大学出版社, 2012.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴 and 柯平, “面向数字素养的高校图书馆数字服务体系研究,” in 中国图书馆学会 (ed.), 中国图书馆学会年会论文集, 北京: 国家图书馆出版社, 2011, pp. 45–52.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp. 17–38.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, and 刘英敏, “‘北斗一号’监控管理网设计与实现,” 测绘科学, vol. 33, no. 5 (2008), pp. 8–9.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg, D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510 (June 2014), pp. 356–362.</div>
+  </div>
 </div>
 
 ## 默认测试

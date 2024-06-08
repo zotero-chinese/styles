@@ -1,5 +1,7 @@
 import { dirname, join } from "node:path";
 import fs from "fs-extra";
+import { isEmpty } from "radash";
+
 const collator = Intl.Collator("en", { numeric: true });
 
 // CSL-JSON Items
@@ -62,8 +64,8 @@ export function getCustomCites(
 
   if (fs.existsSync(citesFilePath)) {
     return fs.readJsonSync(citesFilePath);
-  } else if (items) {
-    return getCitationItems(items);
+  } else if (!isEmpty(items.lenth)) {
+    return [getCitationItems(items)];
   } else {
     return [];
   }
