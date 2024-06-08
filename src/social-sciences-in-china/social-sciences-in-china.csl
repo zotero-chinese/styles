@@ -17,7 +17,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2024-01-21T16:25:14+08:00</updated>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -721,13 +721,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout suffix="。" locale="zh">
+    <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="source-zh"/>
+      <text macro="source-zh" suffix="。"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="source-en"/>
+      <text macro="source-en" suffix="."/>
     </layout>
   </bibliography>
 </style>

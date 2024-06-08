@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《东南大学研究生学位论文格式规定》（2023-04-24）</summary>
-    <updated>2024-06-02T21:44:34+08:00</updated>
+    <updated>2024-06-06T13:45:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -224,7 +224,8 @@
     <choose>
       <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
         <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
-          article 为预印本，符合“科技档案” -->
+         article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -503,7 +504,8 @@
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
@@ -566,7 +568,8 @@
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“（更新或修改日期）［引用日期］”。
-          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。 -->
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
             <!-- 限制更少的类型作为“纯电子文献“ -->
@@ -780,13 +783,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en"/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
-    <layout suffix="．">
+    <layout>
       <text variable="citation-number" prefix="［" suffix="］"/>
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout-zh" suffix="．"/>
     </layout>
   </bibliography>
 </style>

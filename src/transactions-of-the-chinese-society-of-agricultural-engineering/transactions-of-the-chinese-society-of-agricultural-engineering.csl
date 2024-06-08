@@ -11,7 +11,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-04-26T10:30:24+08:00</updated>
+    <updated>2024-06-06T09:22:18+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -229,14 +229,14 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3">
-    <layout suffix="." locale="zh">
+    <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <text macro="entry-layout"/>
-      <text variable="title-short" display="block" prefix="."/>
+      <text macro="entry-layout" suffix="."/>
+      <text variable="title-short" suffix="." display="block"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <text macro="entry-layout"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
 </style>

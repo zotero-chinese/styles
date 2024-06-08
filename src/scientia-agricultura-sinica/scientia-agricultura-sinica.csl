@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>0578-1752</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-06T22:19:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
@@ -199,49 +199,55 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
-    <group delimiter=", ">
-      <choose>
-        <if variable="container-title">
-          <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter=": ">
-            <text variable="container-title"/>
-            <text macro="volume"/>
-          </group>
-        </if>
-        <else-if type="paper-conference">
-          <!-- 有些会议没有论文集，使用会议名代替 -->
-          <text variable="event-title"/>
-        </else-if>
-      </choose>
-      <!-- 会议时间和会议地点 -->
-      <choose>
-        <if type="paper-conference" variable="event-date" match="all">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
+    <group delimiter=". ">
+      <text macro="container-contributors"/>
+      <group delimiter=", ">
+        <choose>
+          <if variable="container-title">
+            <!-- 优先使用专著或会议论文集的题名 -->
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text macro="volume"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
+            <!-- 有些会议没有论文集，使用会议名代替 -->
+            <text variable="event-title"/>
+          </else-if>
+        </choose>
+        <!-- 会议时间和会议地点 -->
+        <choose>
+          <if type="paper-conference" variable="event-date" match="all">
+            <date variable="event-date" form="text"/>
+            <text variable="event-place"/>
+          </if>
+        </choose>
+      </group>
     </group>
   </macro>
   <!-- 翻译专著题名 -->
   <macro name="container-booklike-zh">
-    <group delimiter=", ">
-      <group delimiter=": ">
+    <group delimiter=". ">
+      <text macro="container-contributors"/>
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <choose>
+            <if variable="original-container-title">
+              <text variable="original-container-title"/>
+            </if>
+            <else>
+              <text variable="event-title"/>
+            </else>
+          </choose>
+          <text macro="volume"/>
+        </group>
         <choose>
-          <if variable="original-container-title">
-            <text variable="original-container-title"/>
+          <if variable="event-date">
+            <date variable="event-date" form="text"/>
+            <text variable="event-place"/>
           </if>
-          <else>
-            <text variable="event-title"/>
-          </else>
         </choose>
-        <text macro="volume"/>
       </group>
-      <choose>
-        <if variable="event-date">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
     </group>
   </macro>
   <!-- 连续出版物中的出处项 -->
@@ -464,11 +470,7 @@
           <text macro="title"/>
           <text macro="secondary-contributors"/>
         </group>
-        <group delimiter=". ">
-          <text macro="container-contributors"/>
-          <text macro="container-booklike"/>
-        </group>
-      </group>
+        <text macro="container-booklike"/></group>
       <text macro="edition"/>
       <text macro="publisher"/>
       <!-- <text macro="access"/> -->
@@ -545,11 +547,7 @@
           <text macro="title-zh"/>
           <text macro="secondary-contributors"/>
         </group>
-        <group delimiter=". ">
-          <text macro="container-contributors"/>
-          <text macro="container-booklike-zh"/>
-        </group>
-      </group>
+        <text macro="container-booklike-zh"/></group>
       <text macro="edition"/>
       <text macro="publisher"/>
       <!-- <text macro="access"/> -->
@@ -615,13 +613,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0">
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]&#9;"/> <!-- tab间隔 -->
-      <text macro="entry-layout"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]&#9;"/>
-      <text macro="entry-layout" suffix=". "/>
+      <text macro="entry-layout" suffix="."/>
       <text macro="entry-layout-zh" suffix=". (in Chinese)" display="block"/>
     </layout>
   </bibliography>

@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-06-03T21:52:41+08:00</updated>
+    <updated>2024-06-06T13:46:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -374,7 +374,8 @@
           <group delimiter=", ">
             <text macro="secondary-contributors"/>
             <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
-            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
+              但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号
+            -->
             <text macro="container-booklike"/>
             <text macro="publisher"/>
           </group>
@@ -419,7 +420,8 @@
           <group delimiter=", ">
             <text macro="title-zh"/>
             <!-- 格式要求“会议名称(或论文集). 会议城市, 国家”中的是句点，
-            但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号 -->
+              但是示例“(APSIPA ASC), Honolulu, HI, USA”中是逗号
+            -->
             <text macro="container-booklike"/>
             <text macro="publisher"/>
           </group>

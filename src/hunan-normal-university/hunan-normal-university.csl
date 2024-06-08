@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>湖南师范大学研究生学位论文的撰写格式（处发〔2006〕42 号）</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-06T22:19:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -285,51 +285,57 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike-en">
-    <group delimiter=", ">
-      <choose>
-        <if variable="container-title">
-          <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter=": ">
-            <text variable="container-title" font-style="italic"/>
-            <text macro="volume"/>
-          </group>
-        </if>
-        <else-if type="paper-conference">
-          <!-- 有些会议没有论文集，使用会议名代替 -->
-          <text variable="event-title"/>
-        </else-if>
-      </choose>
-      <!-- 会议时间和会议地点 -->
-      <choose>
-        <if type="paper-conference" variable="event-date" match="all">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
+    <group delimiter=". ">
+      <text macro="container-contributors-en"/>
+      <group delimiter=", ">
+        <choose>
+          <if variable="container-title">
+            <!-- 优先使用专著或会议论文集的题名 -->
+            <group delimiter=": ">
+              <text variable="container-title" font-style="italic"/>
+              <text macro="volume"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
+            <!-- 有些会议没有论文集，使用会议名代替 -->
+            <text variable="event-title"/>
+          </else-if>
+        </choose>
+        <!-- 会议时间和会议地点 -->
+        <choose>
+          <if type="paper-conference" variable="event-date" match="all">
+            <date variable="event-date" form="text"/>
+            <text variable="event-place"/>
+          </if>
+        </choose>
+      </group>
     </group>
   </macro>
   <macro name="container-booklike-zh">
-    <group delimiter=", ">
-      <choose>
-        <if variable="container-title">
-          <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter=": ">
-            <text variable="container-title"/>
-            <text macro="volume"/>
-          </group>
-        </if>
-        <else-if type="paper-conference">
-          <!-- 有些会议没有论文集，使用会议名代替 -->
-          <text variable="event-title"/>
-        </else-if>
-      </choose>
-      <!-- 会议时间和会议地点 -->
-      <choose>
-        <if type="paper-conference" variable="event-date" match="all">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
+    <group delimiter=". ">
+      <text macro="container-contributors-zh"/>
+      <group delimiter=", ">
+        <choose>
+          <if variable="container-title">
+            <!-- 优先使用专著或会议论文集的题名 -->
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text macro="volume"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
+            <!-- 有些会议没有论文集，使用会议名代替 -->
+            <text variable="event-title"/>
+          </else-if>
+        </choose>
+        <!-- 会议时间和会议地点 -->
+        <choose>
+          <if type="paper-conference" variable="event-date" match="all">
+            <date variable="event-date" form="text"/>
+            <text variable="event-place"/>
+          </if>
+        </choose>
+      </group>
     </group>
   </macro>
   <!-- 连续出版物中的出处项 -->
@@ -553,11 +559,7 @@
               <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
             </group>
-            <group delimiter=". ">
-              <text macro="container-contributors-en"/>
-              <text macro="container-booklike-en"/>
-            </group>
-          </group>
+            <text macro="container-booklike-en"/></group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>
@@ -612,11 +614,7 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
-            <group delimiter=". ">
-              <text macro="container-contributors-zh"/>
-              <text macro="container-booklike-zh"/>
-            </group>
-          </group>
+            <text macro="container-booklike-zh"/></group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>
@@ -641,13 +639,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en"/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
   </bibliography>
 </style>

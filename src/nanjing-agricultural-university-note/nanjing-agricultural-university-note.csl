@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>南京农业大学研究生学位论文（人文社科类）2023版，脚注式</summary>
-    <updated>2024-01-21T20:36:09+08:00</updated>
+    <updated>2024-06-06T22:19:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -301,45 +301,51 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike-en">
-    <group delimiter=", ">
-      <group delimiter=": ">
+    <group delimiter=". ">
+      <text macro="container-contributors-en"/>
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title"/>
+            </if>
+            <else>
+              <text variable="event-title"/>
+            </else>
+          </choose>
+          <text macro="volume-en"/>
+        </group>
         <choose>
-          <if variable="container-title">
-            <text variable="container-title"/>
+          <if variable="event-date">
+            <date variable="event-date" form="text"/>
+            <text variable="event-place"/>
           </if>
-          <else>
-            <text variable="event-title"/>
-          </else>
         </choose>
-        <text macro="volume-en"/>
       </group>
-      <choose>
-        <if variable="event-date">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
     </group>
   </macro>
   <macro name="container-booklike-zh">
-    <group delimiter="，">
-      <group delimiter="：">
+    <group delimiter="．">
+      <text macro="container-contributors-zh"/>
+      <group delimiter="，">
+        <group delimiter="：">
+          <choose>
+            <if variable="container-title">
+              <text variable="container-title"/>
+            </if>
+            <else>
+              <text variable="event-title"/>
+            </else>
+          </choose>
+          <text macro="volume-zh"/>
+        </group>
         <choose>
-          <if variable="container-title">
-            <text variable="container-title"/>
+          <if variable="event-date">
+            <date variable="event-date" form="text"/>
+            <text variable="event-place"/>
           </if>
-          <else>
-            <text variable="event-title"/>
-          </else>
         </choose>
-        <text macro="volume-zh"/>
       </group>
-      <choose>
-        <if variable="event-date">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
     </group>
   </macro>
   <!-- 连续出版物中的出处项 -->
@@ -611,11 +617,7 @@
               <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
             </group>
-            <group delimiter=". ">
-              <text macro="container-contributors-en"/>
-              <text macro="container-booklike-en"/>
-            </group>
-          </group>
+            <text macro="container-booklike-en"/></group>
           <text macro="edition"/>
           <text macro="publisher-en"/>
         </else-if>
@@ -662,11 +664,7 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
-            <group delimiter="．">
-              <text macro="container-contributors-zh"/>
-              <text macro="container-booklike-zh"/>
-            </group>
-          </group>
+            <text macro="container-booklike-zh"/></group>
           <text macro="edition"/>
           <text macro="publisher-zh"/>
         </else-if>
@@ -722,13 +720,13 @@
       <key macro="type-sort-2"/>
       <key macro="author-en"/>
     </sort>
-    <layout suffix="." locale="en">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en"/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
-    <layout suffix="．">
+    <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout-zh" suffix="．"/>
     </layout>
   </bibliography>
 </style>

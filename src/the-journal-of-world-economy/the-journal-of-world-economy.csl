@@ -16,7 +16,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2023-12-21T01:50:07+08:00</updated>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -285,13 +285,13 @@
       <key macro="author-bib-en"/>
       <key variable="issued"/>
     </sort>
-    <layout suffix="。" locale="zh">
+    <layout locale="zh">
       <!-- <text variable="citation-number" prefix="（" suffix="）"/> -->
-      <text macro="bib-layout-zh"/>
+      <text macro="bib-layout-zh" suffix="。"/>
     </layout>
-    <layout suffix=".">
+    <layout>
       <!-- <text variable="citation-number" prefix="（" suffix="）"/> -->
-      <text macro="bib-layout-en"/>
+      <text macro="bib-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>

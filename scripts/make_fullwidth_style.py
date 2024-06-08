@@ -195,7 +195,7 @@ def write_style(style, path):
     style_str = style_str.replace("—", "&#8212;")  # em dash
     style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
     style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
-    style_str = re.sub(r"(\S)\s*-->", r"\1 -->", style_str)
+    style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
 
     if style_str != original_content:
         now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
