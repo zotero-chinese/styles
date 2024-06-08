@@ -1,3 +1,10 @@
+node_modules
+*/.vuepress/.*
+dist
+.vscode
+yarn-error.log
+.DS_Store
+
 Exported Items.json# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -14,7 +21,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/
