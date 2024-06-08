@@ -1,0 +1,25 @@
+{
+  "dir": "northwestern-polytechnical-university",
+  "file": "northwestern-polytechnical-university.csl",
+  "style_class": "in-text",
+  "title": "西北工业大学",
+  "id": "http://www.zotero.org/styles/northwestern-polytechnical-university",
+  "link_self": "http://www.zotero.org/styles/northwestern-polytechnical-university",
+  "link_template": "http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "link_documentation": "https://gs.nwpu.edu.cn/info/2283/15345.htm",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

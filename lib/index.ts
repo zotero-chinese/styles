@@ -57,10 +57,15 @@ async function build() {
   const spinner = ora();
   const result = await Promise.all(
     FastGlob.globSync("**/*.csl").map(async (path) => {
-      spinner.start(`${getFileName(path)}`);
-      const result = generateAndWrite(path);
-      spinner.succeed(`${getFileName(path)} - done`);
-      return result;
+      try {
+        spinner.start(`${getFileName(path)}`);
+        const result = generateAndWrite(path);
+        spinner.succeed(`${getFileName(path)} - done`);
+        return result;
+      } catch (e) {
+        consola.error(path, e);
+        throw new Error(e);
+      }
     })
   );
   // fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });

@@ -1,0 +1,25 @@
+{
+  "dir": "huazhong-university-of-science-and-technology",
+  "file": "huazhong-university-of-science-and-technology.csl",
+  "style_class": "in-text",
+  "title": "华中科技大学（理工科）",
+  "id": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation",
+  "link_self": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation",
+  "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
+  "link_documentation": "http://gs.hust.edu.cn/info/1041/5462.htm",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

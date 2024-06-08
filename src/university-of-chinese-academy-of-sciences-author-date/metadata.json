@@ -1,0 +1,24 @@
+{
+  "dir": "university-of-chinese-academy-of-sciences-author-date",
+  "file": "university-of-chinese-academy-of-sciences-author-date.csl",
+  "style_class": "in-text",
+  "title": "中国科学院大学（著者-出版年）",
+  "id": "http://www.zotero.org/styles/university-of-chinese-academy-of-sciences-author-date",
+  "link_self": "http://www.zotero.org/styles/university-of-chinese-academy-of-sciences-author-date",
+  "link_template": "http://www.zotero.org/styles/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
+  "link_documentation": "http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

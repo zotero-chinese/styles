@@ -1,0 +1,25 @@
+{
+  "dir": "chinese-academy-of-agricultural-sciences",
+  "file": "chinese-academy-of-agricultural-sciences.csl",
+  "style_class": "in-text",
+  "title": "中国农业科学院",
+  "id": "http://www.zotero.org/styles/chinese-academy-of-agricultural-sciences",
+  "link_self": "http://www.zotero.org/styles/chinese-academy-of-agricultural-sciences",
+  "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
+  "link_documentation": "https://gs.caas.cn/xwxk/xwsy/227175.htm ",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "有DOI",
+    "有URL"
+  ]
+}

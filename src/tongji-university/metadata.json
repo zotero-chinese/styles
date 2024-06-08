@@ -1,0 +1,25 @@
+{
+  "dir": "tongji-university",
+  "file": "tongji-university.csl",
+  "style_class": "in-text",
+  "title": "同济大学",
+  "id": "http://www.zotero.org/styles/tongji-university",
+  "link_self": "http://www.zotero.org/styles/tongji-university",
+  "link_template": "http://www.zotero.org/styles/chinese-gb7714-1987-numeric",
+  "link_documentation": "https://gs.tongji.edu.cn/info/1063/1754.htm",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "dir": "communication-and-society",
+  "file": "communication-and-society.csl",
+  "style_class": "in-text",
+  "title": "傳播與社會學刊",
+  "id": "http://www.zotero.org/styles/apa",
+  "link_self": "http://www.zotero.org/styles/communication-and-society",
+  "link_template": "http://www.zotero.org/styles/apa",
+  "link_documentation": "http://cschinese.com/submission03.asp",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "communications",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "有DOI",
+    "有URL"
+  ]
+}

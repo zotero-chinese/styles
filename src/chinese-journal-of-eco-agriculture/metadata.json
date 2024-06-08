@@ -1,0 +1,25 @@
+{
+  "dir": "chinese-journal-of-eco-agriculture",
+  "file": "chinese-journal-of-eco-agriculture.csl",
+  "style_class": "in-text",
+  "title": "中国生态农业学报",
+  "id": "http://www.zotero.org/styles/chinese-journal-of-eco-agriculture",
+  "link_self": "http://www.zotero.org/styles/chinese-journal-of-eco-agriculture",
+  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi",
+  "link_documentation": "http://www.ecoagri.ac.cn/news_list.htm?column=xiazaizhongxin",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "biology",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

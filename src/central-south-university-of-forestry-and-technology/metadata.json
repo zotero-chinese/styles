@@ -1,0 +1,25 @@
+{
+  "dir": "central-south-university-of-forestry-and-technology",
+  "file": "central-south-university-of-forestry-and-technology.csl",
+  "style_class": "in-text",
+  "title": "中南林业科技大学",
+  "id": "http://www.zotero.org/styles/central-south-university-of-forestry-and-technology",
+  "link_self": "http://www.zotero.org/styles/central-south-university-of-forestry-and-technology",
+  "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
+  "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

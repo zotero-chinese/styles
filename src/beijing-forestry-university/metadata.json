@@ -1,0 +1,25 @@
+{
+  "dir": "beijing-forestry-university",
+  "file": "beijing-forestry-university.csl",
+  "style_class": "in-text",
+  "title": "北京林业大学",
+  "id": "http://www.zotero.org/styles/beijing-forestry-university",
+  "link_self": "http://www.zotero.org/styles/beijing-forestry-university",
+  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "link_documentation": "http://graduate.bjfu.edu.cn/xwgl/xwlw/349457.html",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

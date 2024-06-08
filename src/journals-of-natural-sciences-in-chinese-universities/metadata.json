@@ -1,0 +1,25 @@
+{
+  "dir": "journals-of-natural-sciences-in-chinese-universities",
+  "file": "journals-of-natural-sciences-in-chinese-universities.csl",
+  "style_class": "in-text",
+  "title": "中国高等学校自然科学学报编排规范",
+  "id": "http://www.zotero.org/styles/journals-of-natural-sciences-in-chinese-universities",
+  "link_self": "http://www.zotero.org/styles/journals-of-natural-sciences-in-chinese-universities",
+  "link_template": "http://www.zotero.org/styles/chinese-gb7714-1987-numeric",
+  "link_documentation": "http://gxb.zzu.edu.cn/Upload/Park/ccc5c171-124b-4f01-a4d0-44db19516ff8.pdf",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "dir": "peoples-publishing-house",
+  "file": "peoples-publishing-house.csl",
+  "style_class": "note",
+  "title": "人民出版社",
+  "id": "http://www.zotero.org/styles/peoples-publishing-house",
+  "link_self": "http://www.zotero.org/styles/peoples-publishing-house",
+  "link_template": "http://www.zotero.org/styles/social-sciences-in-china",
+  "link_documentation": "http://www.pph166.com/",
+  "author": [],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "<sup>1</sup> [NO_PRINTED_FORM]<br>\n<sup>2</sup> [NO_PRINTED_FORM]<br>\n<sup>3</sup> [NO_PRINTED_FORM]<br>\n<sup>4</sup> [NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "无标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

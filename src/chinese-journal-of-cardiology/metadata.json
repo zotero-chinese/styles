@@ -1,0 +1,25 @@
+{
+  "dir": "chinese-journal-of-cardiology",
+  "file": "chinese-journal-of-cardiology.csl",
+  "style_class": "in-text",
+  "title": "中华心血管病杂志",
+  "id": "http://www.zotero.org/styles/chinese-journal-of-cardiology",
+  "link_self": "http://www.zotero.org/styles/chinese-journal-of-cardiology",
+  "link_template": "http://www.zotero.org/styles/chinese-gb7714-2005-numeric",
+  "link_documentation": "http://www.cjcv.org.cn/author/4323.jhtml",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "有DOI",
+    "有URL"
+  ]
+}

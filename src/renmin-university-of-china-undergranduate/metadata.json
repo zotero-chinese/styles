@@ -1,0 +1,25 @@
+{
+  "dir": "renmin-university-of-china-undergranduate",
+  "file": "renmin-university-of-china-undergranduate.csl",
+  "style_class": "in-text",
+  "title": "中国人民大学（本科生）",
+  "id": "http://www.zotero.org/styles/renmin-university-of-china-undergraduate",
+  "link_self": "http://www.zotero.org/styles/renmin-university-of-china-undergraduate",
+  "link_template": "http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "link_documentation": "http://jiaowu.ruc.edu.cn/docs/2023-01/f90c79b8b21c4229bbe7f9c79abb7c14.doc",
+  "author": [],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "无标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

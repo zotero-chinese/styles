@@ -1,0 +1,25 @@
+{
+  "dir": "advances-in-psychological-science",
+  "file": "advances-in-psychological-science.csl",
+  "style_class": "in-text",
+  "title": "心理科学进展",
+  "id": "http://www.zotero.org/styles/advances-in-psychological-science",
+  "link_self": "http://www.zotero.org/styles/advances-in-psychological-science",
+  "link_template": "http://www.zotero.org/styles/apa",
+  "link_documentation": "https://journal.psych.ac.cn/xlkxjz/CN/item/downloadFile.jsp?filedisplay=20220223114547.pdf",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "psychology",
+  "summary": "",
+  "updated": "",
+  "citations": "(张三, 2008)<br>\n(张三, 李四, 2008)<br>\n(Mou &#38; McNamara, 2002)<br>\n(赵一 等, 2008)<br>\n(Mou et al., 2004)<br>\n(现代汉语频率词典, 1986)<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\"><i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.</div>\n  <div class=\"csl-entry\">张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>\n  <div class=\"csl-entry\">张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>\n  <div class=\"csl-entry\">赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.</div>\n  <div class=\"csl-entry\">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>\n  <div class=\"csl-entry\">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of reference in spatial memories acquired from language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

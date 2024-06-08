@@ -1,0 +1,24 @@
+{
+  "dir": "nanjing-agricultural-university",
+  "file": "nanjing-agricultural-university.csl",
+  "style_class": "in-text",
+  "title": "南京农业大学（著者-出版年）",
+  "id": "http://www.zotero.org/styles/nanjing-agricultural-university",
+  "link_self": "http://www.zotero.org/styles/nanjing-agricultural-university",
+  "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
+  "link_documentation": "https://grasch.njau.edu.cn/info/1011/4128.htm",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "summary": "",
+  "updated": "",
+  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-flush hangingindent-false\">\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

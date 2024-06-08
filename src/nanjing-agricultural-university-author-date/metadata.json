@@ -1,0 +1,25 @@
+{
+  "dir": "nanjing-agricultural-university-author-date",
+  "file": "nanjing-agricultural-university-author-date.csl",
+  "style_class": "in-text",
+  "title": "南京农业大学（著者-出版年）",
+  "id": "http://www.zotero.org/styles/nanjing-agricultural-university-author-date",
+  "link_self": "http://www.zotero.org/styles/nanjing-agricultural-university-author-date",
+  "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
+  "link_documentation": "https://grasch.njau.edu.cn/info/1011/1839.htm",
+  "author": [],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "",
+  "updated": "",
+  "citations": "（库恩，2012）<br>\n（Fourney, c1971）<br>\n（贾东琴和柯平，2011）<br>\n（Fan and Sommers, 2013）<br>\n（武丽丽等，2008）<br>\n（Myburg et al., 2014）<br>\n（Bawden, 2008; 中国互联网络信息中心，2012）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">Bawden D. Origins and concepts of digital literacy[EB](2008–05–04).</div>\n  <div class=\"csl-entry\">Fan X, Sommers C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013.25–26.</div>\n  <div class=\"csl-entry\">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971.17–38.</div>\n  <div class=\"csl-entry\">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. <i><span style=\"font-style:normal;\">Nature</span></i>, 2014, 510: 356–362.</div>\n  <div class=\"csl-entry\">贾东琴，柯平.面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社， 2011.45–52.</div>\n  <div class=\"csl-entry\">库恩.科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社， 2012.</div>\n  <div class=\"csl-entry\">武丽丽，华一新，张亚军，等.“北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9.</div>\n  <div class=\"csl-entry\">中国互联网络信息中心.第 29 次中国互联网络发展现状统计报告[R]. .</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}
