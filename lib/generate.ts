@@ -135,7 +135,7 @@ export function generateAndWrite(csl_file: string) {
     `<!-- 此文件由脚本自动生成，请勿手动修改！ -->`,
     `<!-- markdownlint-disable -->`,
     `<!-- prettier-ignore -->\n`,
-    `<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->\n`,
+    `<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->\n`,
     `## 样式预览\n`,
     toDetails("引注", result.citations, false),
     toDetails("参考文献表", result.bibliography, false),

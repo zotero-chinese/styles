@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <!-- prettier-ignore -->
 
-<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE-->
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE FILE -->
 
 ## 样式预览
 
