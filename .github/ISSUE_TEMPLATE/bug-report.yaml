@@ -1,0 +1,75 @@
+name: 错误报告
+description: 报告错误帮助我们改进
+title: "错误："
+labels:
+  - bug
+  # - Needs Triage
+body:
+  - type: textarea
+    attributes:
+      label: 涉及到的样式文件
+      description: |
+        例如:
+          - xxxx1.csl
+          - xxxx2.csl
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 描述错误
+      description: |
+        清晰简洁地描述错误是什么，预期的结果是什么。
+        如果必要，请添加屏幕截图以帮助解释。
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 条目信息
+      description: |
+        将出错的文献条目导出为 CSL-JSON 格式。
+
+        在 Zotero 中，选中条目，右击，导出，CSL-JSON 格式。
+
+        例如：
+
+        ```json
+          [
+            {
+              "id": "doe1984his",
+              "type": "book",
+              "title": "His anonymous life",
+              "author": [
+                {
+                  "family": "Doe",
+                  "given": "John"
+                }
+              ],
+              "issued": {
+                "date-parts": [
+                  [
+                    "1984"
+                  ]
+                ]
+              }
+            }
+          ]
+        ```
+      value: |
+        ```json
+          {}
+        ```
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 其他相关信息
+      description: |
+        Links? References? Anything that will give us more context about the issue you are encountering!
+        在此处添加有关该问题的其他信息。
+    validations:
+      required: false
