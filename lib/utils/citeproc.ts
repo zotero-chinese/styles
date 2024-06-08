@@ -43,15 +43,18 @@ export function makeCiteprocSys(items: Item[]) {
 export function getCiteproc(items: Item[], style: string) {
   const sys = makeCiteprocSys(items);
 
+  // @ts-ignore
   // CSL.Output.Formats.html["@display/left-margin"] = function (state, str) {
   //   return str + "\t";
   // };
+  // // @ts-ignore
   // CSL.Output.Formats.html["@display/right-inline"] = function (state, str) {
   //   return str;
   // };
-  // CSL.Output.Formats.html["@display/block"] = function (state, str) {
-  //   return '\n    <div class="csl-block">' + str + "</div>\n  ";
-  // };
+  // @ts-ignore
+  CSL.Output.Formats.html["@display/block"] = function (state, str) {
+    return '\n    <div class="csl-block">' + str + "</div>\n  ";
+  };
 
   const citeproc = new CSL.Engine(sys, style);
   citeproc.opt.development_extensions.wrap_url_and_doi = true;
