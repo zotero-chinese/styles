@@ -1,6 +1,6 @@
 {
   "[markdown]": {
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     "editor.formatOnPaste": false,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
