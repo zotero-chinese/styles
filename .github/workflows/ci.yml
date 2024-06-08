@@ -51,7 +51,7 @@ jobs:
 
   # send-dispatch:
   #   name: 请求部署上线
-  #   if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
+  #   if: github.repository == 'redleafnew/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
   #   needs:
   #     - build
   #   runs-on: ubuntu-latest
@@ -65,7 +65,7 @@ jobs:
 
   sync:
     name: 同步到 Gitee
-    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
+    if: github.repository == 'redleafnew/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
     needs:
       - build
     runs-on: ubuntu-latest

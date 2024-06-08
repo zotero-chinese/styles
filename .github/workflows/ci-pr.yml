@@ -10,7 +10,7 @@ jobs:
   upload:
     name: 上传运行信息
     runs-on: ubuntu-latest
-    if: github.repository == 'zotero-chinese/styles' && github.event_name == 'pull_request'
+    if: github.repository == 'redleafnew/Chinese-STD-GB-T-7714-related-csl' && github.event_name == 'pull_request'
     steps:
       - name: 保存 PR 编号
         run: |
