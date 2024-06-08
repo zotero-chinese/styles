@@ -11,7 +11,7 @@ email 前后加 __
 - GitHub 仓库：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
 - Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
 
-## CSL文件名说明：
+## CSL文件名说明
 
 0开头为 [china-national-standard-gb-t-7714-2015-numeric.csl]或[001gb-t-7714-2015-author-date-bilingual.csl]基础修改的样式；
 
@@ -25,17 +25,7 @@ email 前后加 __
 
 5开头为其它样式。
 
-
 ## `csl` 文件的下载及添加
-
-### 所有 `csl` 文件
-
-![下载及使用动图](/img/download-csl.gif)
-
-### 单个 `csl` 文件
-
-![下载及使用动图](/img/download-s-csl.gif)
-
 
 ## 如何使用
 
@@ -68,7 +58,6 @@ email 前后加 __
 ## LICENSE
 
 All styles in this repository are released under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/) license.
-
 
 ## 更多 `Zotero` 使用教程及技巧
 
@@ -262,7 +251,7 @@ Word参考文献列表末尾有DOI，想修改CSL文件，但CSL代码找不到�
 
 `Word` 中没有 `Zotero` 工具条的解决办法之一 <https://zhuanlan.zhihu.com/p/58931999>。
 
-`Zotero` 第三方工具条：（作者，年代）→作者（年代）快速切换，支持`WPS Office` https://zhuanlan.zhihu.com/p/648205028
+`Zotero` 第三方工具条：（作者，年代）→作者（年代）快速切换，支持`WPS Office` <https://zhuanlan.zhihu.com/p/648205028>
 
 `WPS Office`中使用`Zotero`插入参考文献不报错的方法<https://zhuanlan.zhihu.com/p/580194390>。
 
