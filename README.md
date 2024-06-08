@@ -6,6 +6,7 @@
 
 - GitHub 仓库：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
 - Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
+- CSL 官方仓库：<https://github.com/citation-style-language/styles>
 
 ## 如何使用
 
@@ -46,15 +47,55 @@ Zotero 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484
 
 ## 没有找到符合需要的样式？
 
-Todo
+请前往 [ISSUE](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或请求新的样式。
+
+注意，请认真完成 ISSUE 模板预置的问题，这些问题可以极大提高我们的处理效率，不完整填写的 ISSUE 将被直接关闭。
 
 ## 贡献指南
 
-Todo
+项目运行需要安装 [Node.js](https://nodejs.org/zh-cn/) 和 Git。
+
+```bash
+# Clone 这个仓库
+git clone https://github.com/zotero-chinese/styles.git --recursive
+
+# 进入项目目录
+cd styles
+
+# 如果是第一次接触 Node.js 或运行后续命令时提示 yarn 命令不存在，
+# 请执行下一行以安装 pnpm 包管理器
+npm install -g pnpm
+
+# 安装依赖
+pnpm install
+
+# 监听 CSL 文件变化并热更新
+pnpm dev
+
+# 生成所有数据
+pnpm build
+
+# 预览一个 CSL 的结果
+pnpm preview "csl path related to project root"
+# 你也可以直接运行脚本
+tsx ./lib/index.ts "csl path related to project root"
+```
+
+提交新样式时，在 `src` 目录为每一个 style 建立一个单独的文件夹，在文件夹中，存放 `[style name].csl`。如果需要为这个样式提高单独的测试条目，可以分别建立 `items.json` 或 `cites.json`，这两个 JSON 文件的格式分别为 CSL-JSON 的 Items 和 CitationItems[^csl-json]。
+
+[^csl-json]: [CSL-JSON - citeproc-js](https://citeproc-js.readthedocs.io/en/latest/csl-json/markup.html)
+
+`metadata.json` 和 `index.md` 均为脚本自动生成，为 中文 CSL 样式商店网站的构建提供数据，请勿手动修改这些文件，所有的修改都将在下一次脚本运行时被覆盖。
 
 ## 协议
 
 本仓库中的样式文件均采用 [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/) 协议分发。
+
+## 贡献者
+
+感谢所有贡献者！
+
+[![contributors](https://cdn.jsdelivr.net/gh/zotero-chinese/.github@main/.github-contributors/redleafnew_Chinese-STD-GB-T-7714-related-csl.svg)](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/graphs/contributors)
 
 ## 更多 Zotero 使用教程及技巧
 
