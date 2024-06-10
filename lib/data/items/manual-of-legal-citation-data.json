@@ -11,11 +11,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2007"
-				]
-			]
+			"date-parts": [["2007"]]
 		}
 	},
 	{
@@ -31,11 +27,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -53,11 +45,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -77,11 +65,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2005"
-				]
-			]
+			"date-parts": [["2005"]]
 		}
 	},
 	{
@@ -98,11 +82,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1993"
-				]
-			]
+			"date-parts": [["1993"]]
 		}
 	},
 	{
@@ -125,11 +105,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
+			"date-parts": [["1994"]]
 		}
 	},
 	{
@@ -162,11 +138,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
+			"date-parts": [["1994"]]
 		}
 	},
 	{
@@ -182,13 +154,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2000",
-					5,
-					21
-				]
-			]
+			"date-parts": [["2000", 5, 21]]
 		}
 	},
 	{
@@ -204,22 +170,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					5,
-					3
-				]
-			]
+			"date-parts": [["2022", 5, 3]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2004",
-					1,
-					10
-				]
-			]
+			"date-parts": [["2004", 1, 10]]
 		}
 	},
 	{
@@ -244,22 +198,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					5,
-					3
-				]
-			]
+			"date-parts": [["2022", 5, 3]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					12,
-					1
-				]
-			]
+			"date-parts": [["2018", 12, 1]]
 		}
 	},
 	{
@@ -269,13 +211,7 @@
 		"title": "法国行政法院网站",
 		"URL": "http://english.conseil-etat.fr/Judging",
 		"accessed": {
-			"date-parts": [
-				[
-					"2016",
-					12,
-					18
-				]
-			]
+			"date-parts": [["2016", 12, 18]]
 		}
 	},
 	{
@@ -292,11 +228,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -320,22 +252,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					17
-				]
-			]
+			"date-parts": [["2022", 10, 17]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2007",
-					7,
-					11
-				]
-			]
+			"date-parts": [["2007", 7, 11]]
 		}
 	},
 	{
@@ -357,22 +277,10 @@
 		"title": "陆红霞诉南通市发改委政府信息公开案",
 		"URL": "https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html",
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					17
-				]
-			]
+			"date-parts": [["2022", 10, 17]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2015",
-					7,
-					6
-				]
-			]
+			"date-parts": [["2015", 7, 6]]
 		}
 	},
 	{
@@ -393,11 +301,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1964"
-				]
-			]
+			"date-parts": [["1964"]]
 		}
 	},
 	{
@@ -414,13 +318,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1913",
-					12,
-					20
-				]
-			]
+			"date-parts": [["1913", 12, 20]]
 		}
 	},
 	{
@@ -437,11 +335,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1995"
-				]
-			]
+			"date-parts": [["1995"]]
 		}
 	},
 	{
@@ -469,20 +363,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					25
-				]
-			]
+			"date-parts": [["2022", 7, 25]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1993"
-				]
-			]
+			"date-parts": [["1993"]]
 		}
 	},
 	{
@@ -501,11 +385,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
+			"date-parts": [["2006"]]
 		}
 	},
 	{
@@ -541,11 +421,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
+			"date-parts": [["2006"]]
 		}
 	},
 	{
@@ -559,11 +435,7 @@
 		"title": "Department of Transportation Act",
 		"volume": "80",
 		"issued": {
-			"date-parts": [
-				[
-					"1966"
-				]
-			]
+			"date-parts": [["1966"]]
 		}
 	},
 	{
@@ -575,11 +447,7 @@
 		"title": "Administrative Procedure Act § 6",
 		"volume": "5",
 		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
+			"date-parts": [["2006"]]
 		}
 	},
 	{
@@ -592,11 +460,7 @@
 		"title": "Natural Resources Defense Council <i>v.</i> Gorsuch",
 		"volume": "685",
 		"issued": {
-			"date-parts": [
-				[
-					"1982"
-				]
-			]
+			"date-parts": [["1982"]]
 		}
 	},
 	{
@@ -608,11 +472,7 @@
 		"title": "Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council",
 		"volume": "467",
 		"issued": {
-			"date-parts": [
-				[
-					"1984"
-				]
-			]
+			"date-parts": [["1984"]]
 		}
 	},
 	{
@@ -632,11 +492,7 @@
 		"title": "Roe <i>v.</i> Wade",
 		"volume": "410",
 		"issued": {
-			"date-parts": [
-				[
-					"1973"
-				]
-			]
+			"date-parts": [["1973"]]
 		}
 	},
 	{
@@ -653,11 +509,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1990"
-				]
-			]
+			"date-parts": [["1990"]]
 		}
 	},
 	{
@@ -673,13 +525,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015",
-					9,
-					29
-				]
-			]
+			"date-parts": [["2015", 9, 29]]
 		}
 	},
 	{
@@ -702,11 +548,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1972"
-				]
-			]
+			"date-parts": [["1972"]]
 		}
 	},
 	{
@@ -732,13 +574,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2003",
-					11,
-					1
-				]
-			]
+			"date-parts": [["2003", 11, 1]]
 		}
 	},
 	{
@@ -762,20 +598,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					26
-				]
-			]
+			"date-parts": [["2022", 7, 26]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
+			"date-parts": [["2012"]]
 		}
 	},
 	{
@@ -798,22 +624,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					26
-				]
-			]
+			"date-parts": [["2022", 7, 26]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2017", 12, 20]]
 		}
 	},
 	{
@@ -841,11 +655,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -864,11 +674,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1950"
-				]
-			]
+			"date-parts": [["1950"]]
 		}
 	},
 	{
@@ -885,11 +691,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1971"
-				]
-			]
+			"date-parts": [["1971"]]
 		}
 	},
 	{
@@ -908,11 +710,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1954"
-				]
-			]
+			"date-parts": [["1954"]]
 		}
 	},
 	{
@@ -938,13 +736,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1996",
-					5,
-					10
-				]
-			]
+			"date-parts": [["1996", 5, 10]]
 		}
 	},
 	{
@@ -964,22 +756,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					26
-				]
-			]
+			"date-parts": [["2022", 7, 26]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1990",
-					6,
-					15
-				]
-			]
+			"date-parts": [["1990", 6, 15]]
 		}
 	},
 	{
@@ -997,20 +777,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					26
-				]
-			]
+			"date-parts": [["2022", 7, 26]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1979"
-				]
-			]
+			"date-parts": [["1979"]]
 		}
 	},
 	{
@@ -1028,11 +798,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1052,11 +818,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2003"
-				]
-			]
+			"date-parts": [["2003"]]
 		}
 	},
 	{
@@ -1075,11 +837,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -1096,11 +854,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1119,11 +873,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1140,12 +890,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					7
-				]
-			]
+			"date-parts": [["2016", 7]]
 		}
 	},
 	{
@@ -1162,12 +907,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					8
-				]
-			]
+			"date-parts": [["2016", 8]]
 		}
 	},
 	{
@@ -1183,13 +923,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					6,
-					17
-				]
-			]
+			"date-parts": [["2016", 6, 17]]
 		}
 	},
 	{
@@ -1202,13 +936,7 @@
 		"number": "（2013）锡民终字第497号",
 		"title": "荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案",
 		"issued": {
-			"date-parts": [
-				[
-					"2013",
-					2,
-					8
-				]
-			]
+			"date-parts": [["2013", 2, 8]]
 		}
 	},
 	{
@@ -1220,13 +948,7 @@
 		"number": "（2011）民一终字第 81 号",
 		"title": "榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案",
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					12,
-					16
-				]
-			]
+			"date-parts": [["2017", 12, 16]]
 		}
 	},
 	{
@@ -1255,21 +977,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					8,
-					4
-				]
-			]
+			"date-parts": [["2022", 8, 4]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2012",
-					10
-				]
-			]
+			"date-parts": [["2012", 10]]
 		}
 	},
 	{
@@ -1291,13 +1002,7 @@
 		"URL": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158",
 		"volume": "36卷6号",
 		"issued": {
-			"date-parts": [
-				[
-					"1982",
-					7,
-					15
-				]
-			]
+			"date-parts": [["1982", 7, 15]]
 		}
 	},
 	{
@@ -1311,13 +1016,7 @@
 		"URL": "https://ja.wikipedia.org/wiki/信玄公旗掛松事件",
 		"volume": "25",
 		"issued": {
-			"date-parts": [
-				[
-					"1919",
-					3,
-					3
-				]
-			]
+			"date-parts": [["1919", 3, 3]]
 		}
 	},
 	{
@@ -1335,11 +1034,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -1361,11 +1056,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
+			"date-parts": [["2006"]]
 		}
 	},
 	{
@@ -1392,11 +1083,7 @@
 		"language": "de-DE",
 		"page": "185",
 		"issued": {
-			"date-parts": [
-				[
-					"1999"
-				]
-			]
+			"date-parts": [["1999"]]
 		}
 	},
 	{
@@ -1407,11 +1094,7 @@
 		"language": "de-DE",
 		"page": "1560",
 		"issued": {
-			"date-parts": [
-				[
-					"2000"
-				]
-			]
+			"date-parts": [["2000"]]
 		}
 	},
 	{
@@ -1448,13 +1131,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2017",
-					10,
-					10
-				]
-			]
+			"date-parts": [["2017", 10, 10]]
 		}
 	},
 	{
@@ -1471,22 +1148,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					7,
-					26
-				]
-			]
+			"date-parts": [["2022", 7, 26]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					9,
-					30
-				]
-			]
+			"date-parts": [["2016", 9, 30]]
 		}
 	},
 	{
@@ -1503,13 +1168,7 @@
 		"title": "ジュリスト",
 		"URL": "http://www.yuhikaku.co.jp/jurist",
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					9,
-					1
-				]
-			]
+			"date-parts": [["2022", 9, 1]]
 		}
 	},
 	{
@@ -1526,13 +1185,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2010",
-					3,
-					17
-				]
-			]
+			"date-parts": [["2010", 3, 17]]
 		}
 	},
 	{
@@ -1566,22 +1219,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					9,
-					3
-				]
-			]
+			"date-parts": [["2022", 9, 3]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2004",
-					12,
-					1
-				]
-			]
+			"date-parts": [["2004", 12, 1]]
 		}
 	},
 	{
@@ -1592,11 +1233,7 @@
 		"title": "R. v. Panel on Take-overs and Mergers",
 		"volume": "815",
 		"issued": {
-			"date-parts": [
-				[
-					"1987"
-				]
-			]
+			"date-parts": [["1987"]]
 		}
 	},
 	{
@@ -1614,22 +1251,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					14
-				]
-			]
+			"date-parts": [["2022", 10, 14]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					11,
-					4
-				]
-			]
+			"date-parts": [["2017", 11, 4]]
 		}
 	},
 	{
@@ -1646,22 +1271,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					14
-				]
-			]
+			"date-parts": [["2022", 10, 14]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2005",
-					10,
-					27
-				]
-			]
+			"date-parts": [["2005", 10, 27]]
 		}
 	},
 	{
@@ -1681,22 +1294,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					14
-				]
-			]
+			"date-parts": [["2022", 10, 14]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1993",
-					11,
-					12
-				]
-			]
+			"date-parts": [["1993", 11, 12]]
 		}
 	},
 	{
@@ -1714,22 +1315,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					27
-				]
-			]
+			"date-parts": [["2022", 10, 27]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					2,
-					6
-				]
-			]
+			"date-parts": [["2018", 2, 6]]
 		}
 	},
 	{
@@ -1746,22 +1335,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					27
-				]
-			]
+			"date-parts": [["2022", 10, 27]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1991",
-					9,
-					4
-				]
-			]
+			"date-parts": [["1991", 9, 4]]
 		}
 	},
 	{
@@ -1778,22 +1355,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					27
-				]
-			]
+			"date-parts": [["2022", 10, 27]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2013",
-					12,
-					28
-				]
-			]
+			"date-parts": [["2013", 12, 28]]
 		}
 	},
 	{
@@ -1810,22 +1375,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					27
-				]
-			]
+			"date-parts": [["2022", 10, 27]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2007",
-					7,
-					11
-				]
-			]
+			"date-parts": [["2007", 7, 11]]
 		}
 	},
 	{
@@ -1842,22 +1395,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					6,
-					19
-				]
-			]
+			"date-parts": [["2023", 6, 19]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					6,
-					27
-				]
-			]
+			"date-parts": [["2018", 6, 27]]
 		}
 	},
 	{
@@ -1874,22 +1415,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					6,
-					19
-				]
-			]
+			"date-parts": [["2023", 6, 19]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2014",
-					10,
-					23
-				]
-			]
+			"date-parts": [["2014", 10, 23]]
 		}
 	},
 	{
@@ -1906,22 +1435,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					6,
-					19
-				]
-			]
+			"date-parts": [["2023", 6, 19]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2013",
-					12,
-					23
-				]
-			]
+			"date-parts": [["2013", 12, 23]]
 		}
 	},
 	{
@@ -1939,11 +1456,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
+			"date-parts": [["1994"]]
 		}
 	},
 	{
@@ -1968,11 +1481,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1971"
-				]
-			]
+			"date-parts": [["1971"]]
 		}
 	}
 ]

@@ -1,7 +1,6 @@
 <!-- 以下内容用于申请新的 CSL 样式。
 如果反馈样式 bug 请删掉下列内容，并填写样式文件名、错误信息、预期结果、屏幕截图等信息。 -->
 
-
 **样式信息**
 
 <!-- 这些信息需要填写在 CSL 样式中，如果没有对应信息可以留空。 -->
@@ -27,7 +26,6 @@ literature, math, medicine, philosophy, physics, political_science, psychology,
 science, social_science, sociology, theology, zoology
 -->
 
-
 **测试条目**
 
 <!-- 如果参考文献格式与 GB/T 7714 差异较大，需要将其示例文献录入 Zotero 方便我们进行测试。
@@ -47,7 +45,6 @@ Zotero ID:
   3. 《中国社会科学》: <https://www.zotero.org/groups/4677213/chinese_csl_development/collections/Y7Z6YG2V>
   4. 《法学引注手册》: <https://www.zotero.org/groups/4677213/chinese_csl_development/collections/GTTN32IE>
 -->
-
 
 **其他样式信息**
 

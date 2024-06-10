@@ -4,14 +4,14 @@ interface Item {
 }
 
 interface CitationItem {
-  "id": string;
-  "locator"?: number | string;
-  "label"?: string;
+  id: string;
+  locator?: number | string;
+  label?: string;
   "suppress-author"?: boolean;
   "author-only"?: boolean;
-  "prefix"?: string;
-  "suffix"?: string;
-  "position"?: number;
+  prefix?: string;
+  suffix?: string;
+  position?: number;
   "near-note"?: boolean;
 }
 

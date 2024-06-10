@@ -5,5 +5,9 @@
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": ["redhat.vscode-xml", "esbenp.prettier-vscode"],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
-  "unwantedRecommendations": ["ms-azuretools.vscode-docker", "firefox-devtools.vscode-firefox-debug", "GitHub.copilot"]
+  "unwantedRecommendations": [
+    "ms-azuretools.vscode-docker",
+    "firefox-devtools.vscode-firefox-debug",
+    "GitHub.copilot"
+  ]
 }

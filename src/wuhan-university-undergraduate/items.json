@@ -17,31 +17,13 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2022", 12, 20]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2001",
-					10,
-					24
-				]
-			]
+			"date-parts": [["2001", 10, 24]]
 		},
 		"submitted": {
-			"date-parts": [
-				[
-					"2001",
-					6,
-					15
-				]
-			]
+			"date-parts": [["2001", 6, 15]]
 		}
 	},
 	{
@@ -76,20 +58,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2022", 12, 20]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1970"
-				]
-			]
+			"date-parts": [["1970"]]
 		}
 	},
 	{
@@ -112,11 +84,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -143,20 +111,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2022", 12, 20]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2002"
-				]
-			]
+			"date-parts": [["2002"]]
 		}
 	},
 	{
@@ -181,20 +139,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2022", 12, 20]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2003"
-				]
-			]
+			"date-parts": [["2003"]]
 		}
 	},
 	{
@@ -212,22 +160,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2022", 12, 20]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2004",
-					4,
-					17
-				]
-			]
+			"date-parts": [["2004", 4, 17]]
 		}
 	},
 	{
@@ -242,20 +178,10 @@
 		"title": "拼音正词法基本规则",
 		"URL": "http://www.pinyin.info/rules/pinyinrules_simp.html",
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					12,
-					20
-				]
-			]
+			"date-parts": [["2022", 12, 20]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1996"
-				]
-			]
+			"date-parts": [["1996"]]
 		}
 	},
 	{
@@ -271,13 +197,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2003",
-					1,
-					18
-				]
-			]
+			"date-parts": [["2003", 1, 18]]
 		}
 	}
 ]

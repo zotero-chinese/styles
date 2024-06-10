@@ -16,11 +16,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1998"
-				]
-			]
+			"date-parts": [["1998"]]
 		}
 	},
 	{
@@ -55,11 +51,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1993"
-				]
-			]
+			"date-parts": [["1993"]]
 		}
 	},
 	{
@@ -76,11 +68,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1993"
-				]
-			]
+			"date-parts": [["1993"]]
 		}
 	},
 	{
@@ -105,11 +93,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2007"
-				]
-			]
+			"date-parts": [["2007"]]
 		}
 	},
 	{
@@ -131,13 +115,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					28
-				]
-			]
+			"date-parts": [["2019", 9, 28]]
 		}
 	},
 	{
@@ -153,11 +131,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
+			"date-parts": [["2006"]]
 		}
 	},
 	{
@@ -186,13 +160,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2007",
-					5,
-					12
-				]
-			]
+			"date-parts": [["2007", 5, 12]]
 		}
 	},
 	{
@@ -203,13 +171,7 @@
 		"language": "zh-CN",
 		"title": "傅良佐致国务院电",
 		"issued": {
-			"date-parts": [
-				[
-					"1917",
-					9,
-					15
-				]
-			]
+			"date-parts": [["1917", 9, 15]]
 		}
 	},
 	{
@@ -220,12 +182,7 @@
 		"language": "zh-CN",
 		"title": "党外人士座谈会记录",
 		"issued": {
-			"date-parts": [
-				[
-					"1950",
-					7
-				]
-			]
+			"date-parts": [["1950", 7]]
 		}
 	},
 	{
@@ -247,11 +204,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1997"
-				]
-			]
+			"date-parts": [["1997"]]
 		}
 	},
 	{
@@ -273,11 +226,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2001"
-				]
-			]
+			"date-parts": [["2001"]]
 		}
 	},
 	{
@@ -308,11 +257,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1998"
-				]
-			]
+			"date-parts": [["1998"]]
 		}
 	},
 	{
@@ -328,13 +273,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1968",
-					12,
-					3
-				]
-			]
+			"date-parts": [["1968", 12, 3]]
 		}
 	},
 	{
@@ -353,11 +292,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1993"
-				]
-			]
+			"date-parts": [["1993"]]
 		}
 	},
 	{
@@ -399,13 +334,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2004",
-					1,
-					30
-				]
-			]
+			"date-parts": [["2004", 1, 30]]
 		}
 	},
 	{
@@ -416,13 +345,7 @@
 		"number": "A/48/344,",
 		"title": "United Nations Register of Conventional Arms: Report of the Secretary General",
 		"issued": {
-			"date-parts": [
-				[
-					"1993",
-					10,
-					11
-				]
-			]
+			"date-parts": [["1993", 10, 11]]
 		}
 	},
 	{
@@ -442,12 +365,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2012",
-					3
-				]
-			]
+			"date-parts": [["2012", 3]]
 		}
 	},
 	{
@@ -458,13 +376,7 @@
 		"language": "en-US",
 		"title": "Nixon to Kissinger",
 		"issued": {
-			"date-parts": [
-				[
-					"1969",
-					2,
-					1
-				]
-			]
+			"date-parts": [["1969", 2, 1]]
 		}
 	},
 	{
@@ -475,13 +387,7 @@
 		"language": "en-US",
 		"title": "USIA: United States Doctrinal Program",
 		"issued": {
-			"date-parts": [
-				[
-					"1954",
-					1,
-					15
-				]
-			]
+			"date-parts": [["1954", 1, 15]]
 		}
 	},
 	{
@@ -499,11 +405,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1990"
-				]
-			]
+			"date-parts": [["1990"]]
 		}
 	},
 	{
@@ -513,13 +415,7 @@
 		"title": "中国对欧盟政策文件",
 		"URL": "https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml",
 		"accessed": {
-			"date-parts": [
-				[
-					"2020",
-					12,
-					1
-				]
-			]
+			"date-parts": [["2020", 12, 1]]
 		}
 	},
 	{
@@ -534,16 +430,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2020",
-					12,
-					1
-				]
-			]
+			"date-parts": [["2020", 12, 1]]
 		}
 	},
-    {
+	{
 		"id": "z-test-1",
 		"type": "book",
 		"collection-title": "东方编译所译丛",
@@ -581,15 +471,10 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2006",
-					1
-				]
-			]
+			"date-parts": [["2006", 1]]
 		}
 	},
-    {
+	{
 		"id": "z-test-2",
 		"type": "book",
 		"event-place": "香港",
@@ -611,11 +496,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1982"
-				]
-			]
+			"date-parts": [["1982"]]
 		}
 	}
 ]

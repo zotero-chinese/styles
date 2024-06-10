@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "tsx ./lib/index.ts watch",
     "build": "tsx ./lib/index.ts all",
-    "preview": "tsx ./lib/index.ts"
+    "preview": "tsx ./lib/index.ts",
+    "format": "prettier . --write"
   },
   "author": "zotero-chinese",
   "license": "GPL-3.0",
@@ -29,6 +30,7 @@
     "fast-glob": "^3.3.2",
     "fs-extra": "^11.2.0",
     "ora": "^8.0.1",
+    "prettier": "^3.3.1",
     "radash": "^12.1.0",
     "scule": "^1.3.0",
     "tinypool": "^0.8.4",

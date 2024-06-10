@@ -22,20 +22,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					8,
-					3
-				]
-			]
+			"date-parts": [["2023", 8, 3]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2001"
-				]
-			],
+			"date-parts": [["2001"]],
 			"season": "Spring"
 		}
 	},
@@ -56,11 +46,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2004"
-				]
-			]
+			"date-parts": [["2004"]]
 		}
 	},
 	{
@@ -84,21 +70,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					8,
-					3
-				]
-			]
+			"date-parts": [["2023", 8, 3]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1995",
-					12
-				]
-			]
+			"date-parts": [["1995", 12]]
 		}
 	},
 	{
@@ -119,21 +94,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					8,
-					3
-				]
-			]
+			"date-parts": [["2023", 8, 3]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1996",
-					8
-				]
-			]
+			"date-parts": [["1996", 8]]
 		}
 	}
 ]

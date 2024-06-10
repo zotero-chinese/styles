@@ -23,11 +23,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -61,11 +57,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -85,11 +77,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -105,13 +93,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					11,
-					28
-				]
-			]
+			"date-parts": [["2018", 11, 28]]
 		}
 	},
 	{
@@ -216,13 +198,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1996",
-					1,
-					1
-				]
-			]
+			"date-parts": [["1996", 1, 1]]
 		}
 	},
 	{
@@ -255,11 +231,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -296,11 +268,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -328,11 +296,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -402,11 +366,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -438,11 +398,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1972"
-				]
-			]
+			"date-parts": [["1972"]]
 		}
 	},
 	{
@@ -465,11 +421,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -485,11 +437,7 @@
 		"title-short": "Marking time in the land of plenty",
 		"volume": "51",
 		"issued": {
-			"date-parts": [
-				[
-					"1981"
-				]
-			]
+			"date-parts": [["1981"]]
 		}
 	},
 	{
@@ -505,11 +453,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -533,11 +477,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -571,11 +511,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -592,20 +528,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					7,
-					22
-				]
-			]
+			"date-parts": [["2019", 7, 22]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -626,13 +552,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					4
-				]
-			]
+			"date-parts": [["2019", 1, 4]]
 		}
 	},
 	{
@@ -650,13 +570,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013",
-					3,
-					19
-				]
-			]
+			"date-parts": [["2013", 3, 19]]
 		}
 	},
 	{
@@ -675,12 +589,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					1
-				]
-			]
+			"date-parts": [["2017", 1]]
 		}
 	},
 	{
@@ -697,13 +606,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					12,
-					4
-				]
-			]
+			"date-parts": [["2017", 12, 4]]
 		}
 	},
 	{
@@ -720,13 +623,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					3
-				]
-			]
+			"date-parts": [["2019", 1, 3]]
 		}
 	},
 	{
@@ -743,13 +640,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					9,
-					15
-				]
-			]
+			"date-parts": [["2018", 9, 15]]
 		}
 	},
 	{
@@ -766,13 +657,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					15
-				]
-			]
+			"date-parts": [["2019", 1, 15]]
 		}
 	},
 	{
@@ -788,13 +673,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					15
-				]
-			]
+			"date-parts": [["2019", 1, 15]]
 		}
 	},
 	{
@@ -816,11 +695,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -838,11 +713,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -859,11 +730,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -882,11 +749,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
+			"date-parts": [["2012"]]
 		}
 	},
 	{
@@ -908,11 +771,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -935,11 +794,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2008"
-				]
-			]
+			"date-parts": [["2008"]]
 		}
 	},
 	{
@@ -957,11 +812,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -978,11 +829,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -1008,11 +855,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -1034,11 +877,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2000"
-				]
-			]
+			"date-parts": [["2000"]]
 		}
 	},
 	{
@@ -1059,11 +898,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1966"
-				]
-			]
+			"date-parts": [["1966"]]
 		}
 	},
 	{
@@ -1091,11 +926,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1969"
-				]
-			]
+			"date-parts": [["1969"]]
 		}
 	},
 	{
@@ -1125,11 +956,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2010"
-				]
-			]
+			"date-parts": [["2010"]]
 		}
 	},
 	{
@@ -1147,11 +974,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1178,11 +1001,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2010"
-				]
-			]
+			"date-parts": [["2010"]]
 		}
 	},
 	{
@@ -1204,11 +1023,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -1227,11 +1042,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -1247,11 +1058,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -1268,11 +1075,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -1287,13 +1090,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					6,
-					14
-				]
-			]
+			"date-parts": [["2019", 6, 14]]
 		}
 	},
 	{
@@ -1308,13 +1105,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					5,
-					5
-				]
-			]
+			"date-parts": [["2019", 5, 5]]
 		}
 	},
 	{
@@ -1332,11 +1123,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -1354,11 +1141,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1999"
-				]
-			]
+			"date-parts": [["1999"]]
 		}
 	},
 	{
@@ -1370,11 +1153,7 @@
 		"title": "King James Bible",
 		"URL": "https://www.kingjamesbibleonline.org/",
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -1390,11 +1169,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2004"
-				]
-			]
+			"date-parts": [["2004"]]
 		}
 	},
 	{
@@ -1407,11 +1182,7 @@
 		"title": "The Torah: The five books of Moses",
 		"title-short": "The Torah",
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1435,11 +1206,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
+			"date-parts": [["1994"]]
 		}
 	},
 	{
@@ -1466,11 +1233,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1995"
-				]
-			]
+			"date-parts": [["1995"]]
 		}
 	},
 	{
@@ -1512,11 +1275,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -1550,11 +1309,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2003"
-				]
-			]
+			"date-parts": [["2003"]]
 		}
 	},
 	{
@@ -1593,11 +1348,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2005"
-				]
-			]
+			"date-parts": [["2005"]]
 		}
 	},
 	{
@@ -1624,11 +1375,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1659,11 +1406,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2008"
-				]
-			]
+			"date-parts": [["2008"]]
 		}
 	},
 	{
@@ -1697,11 +1440,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2004"
-				]
-			]
+			"date-parts": [["2004"]]
 		}
 	},
 	{
@@ -1726,11 +1465,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1992"
-				]
-			]
+			"date-parts": [["1992"]]
 		}
 	},
 	{
@@ -1756,11 +1491,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2005"
-				]
-			]
+			"date-parts": [["2005"]]
 		}
 	},
 	{
@@ -1778,11 +1509,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1973"
-				]
-			]
+			"date-parts": [["1973"]]
 		}
 	},
 	{
@@ -1813,11 +1540,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -1842,11 +1565,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1999"
-				]
-			]
+			"date-parts": [["1999"]]
 		}
 	},
 	{
@@ -1862,13 +1581,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					8,
-					31
-				]
-			]
+			"date-parts": [["2019", 8, 31]]
 		}
 	},
 	{
@@ -1884,13 +1597,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					7,
-					12
-				]
-			]
+			"date-parts": [["2019", 7, 12]]
 		}
 	},
 	{
@@ -1915,11 +1622,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -1930,13 +1633,7 @@
 		"title": "List of oldest companies",
 		"URL": "https://en.wikipedia.org/w/index.php?title=List_of_oldest_companies&oldid=878158136",
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					13
-				]
-			]
+			"date-parts": [["2019", 1, 13]]
 		}
 	},
 	{
@@ -1954,11 +1651,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
+			"date-parts": [["2012"]]
 		}
 	},
 	{
@@ -1974,11 +1667,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -1997,11 +1686,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2022,11 +1707,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2047,11 +1728,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -2079,11 +1756,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -2100,11 +1773,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2120,11 +1789,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -2139,11 +1804,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -2158,11 +1819,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -2177,11 +1834,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -2201,11 +1854,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -2225,11 +1874,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -2248,11 +1893,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2269,13 +1910,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					2,
-					14
-				]
-			]
+			"date-parts": [["2019", 2, 14]]
 		}
 	},
 	{
@@ -2305,13 +1940,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					7,
-					12
-				]
-			]
+			"date-parts": [["2017", 7, 12]]
 		}
 	},
 	{
@@ -2344,13 +1973,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					3,
-					30
-				]
-			]
+			"date-parts": [["2016", 3, 30]]
 		}
 	},
 	{
@@ -2371,13 +1994,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					9,
-					27
-				]
-			]
+			"date-parts": [["2018", 9, 27]]
 		}
 	},
 	{
@@ -2401,13 +2018,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					4,
-					26
-				]
-			]
+			"date-parts": [["2018", 4, 26]]
 		}
 	},
 	{
@@ -2424,11 +2035,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -2448,11 +2055,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -2472,11 +2075,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
+			"date-parts": [["2012"]]
 		}
 	},
 	{
@@ -2501,11 +2100,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2520,11 +2115,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2542,13 +2133,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					11
-				]
-			]
+			"date-parts": [["2019", 1, 11]]
 		}
 	},
 	{
@@ -2564,11 +2149,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2586,13 +2167,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					2,
-					1
-				]
-			]
+			"date-parts": [["2018", 2, 1]]
 		}
 	},
 	{
@@ -2613,11 +2188,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2648,11 +2219,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2670,11 +2237,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2697,11 +2260,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -2731,11 +2290,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2756,11 +2311,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -2778,11 +2329,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -2806,11 +2353,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2830,11 +2373,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2850,11 +2389,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -2870,11 +2405,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -2889,11 +2420,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2011"
-				]
-			]
+			"date-parts": [["2011"]]
 		}
 	},
 	{
@@ -2923,11 +2450,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -2942,11 +2465,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -2961,11 +2480,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -2982,11 +2497,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -3005,11 +2516,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019"
-				]
-			]
+			"date-parts": [["2019"]]
 		}
 	},
 	{
@@ -3030,11 +2537,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2011"
-				]
-			]
+			"date-parts": [["2011"]]
 		}
 	},
 	{
@@ -3080,11 +2583,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -3113,11 +2612,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2000"
-				]
-			]
+			"date-parts": [["2000"]]
 		}
 	},
 	{
@@ -3134,11 +2629,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1975"
-				]
-			]
+			"date-parts": [["1975"]]
 		}
 	},
 	{
@@ -3152,11 +2643,7 @@
 		"title": "Accelerated experiental dynamic psychotherapy (AEDP) supervision",
 		"URL": "http://www.apa.org/pubs/videos/4310958.aspx",
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -3175,11 +2662,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2001"
-				]
-			]
+			"date-parts": [["2001"]]
 		}
 	},
 	{
@@ -3196,11 +2679,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1987"
-				]
-			]
+			"date-parts": [["1987"]]
 		}
 	},
 	{
@@ -3211,11 +2690,7 @@
 		"publisher": "Blown Deadline Productions; HBO",
 		"title": "The wire",
 		"issued": {
-			"date-parts": [
-				[
-					"2002"
-				]
-			]
+			"date-parts": [["2002"]]
 		}
 	},
 	{
@@ -3240,13 +2715,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					1,
-					11
-				]
-			]
+			"date-parts": [["2017", 1, 11]]
 		}
 	},
 	{
@@ -3275,13 +2744,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1995",
-					5,
-					21
-				]
-			]
+			"date-parts": [["1995", 5, 21]]
 		}
 	},
 	{
@@ -3299,12 +2762,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					4
-				]
-			]
+			"date-parts": [["2018", 4]]
 		}
 	},
 	{
@@ -3322,13 +2780,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2012",
-					3,
-					16
-				]
-			]
+			"date-parts": [["2012", 3, 16]]
 		}
 	},
 	{
@@ -3346,11 +2798,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -3368,13 +2816,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					11,
-					24
-				]
-			]
+			"date-parts": [["2017", 11, 24]]
 		}
 	},
 	{
@@ -3392,13 +2834,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					9,
-					30
-				]
-			]
+			"date-parts": [["2016", 9, 30]]
 		}
 	},
 	{
@@ -3415,13 +2851,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					12,
-					6
-				]
-			]
+			"date-parts": [["2016", 12, 6]]
 		}
 	},
 	{
@@ -3439,11 +2869,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2010"
-				]
-			]
+			"date-parts": [["2010"]]
 		}
 	},
 	{
@@ -3460,11 +2886,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -3482,11 +2904,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
+			"date-parts": [["2012"]]
 		}
 	},
 	{
@@ -3502,11 +2920,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -3522,11 +2936,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -3543,11 +2953,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
+			"date-parts": [["2017"]]
 		}
 	},
 	{
@@ -3595,13 +3001,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1960",
-					5,
-					4
-				]
-			]
+			"date-parts": [["1960", 5, 4]]
 		}
 	},
 	{
@@ -3620,13 +3020,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1963",
-					8,
-					28
-				]
-			]
+			"date-parts": [["1963", 8, 28]]
 		}
 	},
 	{
@@ -3643,11 +3037,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1826"
-				]
-			]
+			"date-parts": [["1826"]]
 		}
 	},
 	{
@@ -3665,11 +3055,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1930"
-				]
-			]
+			"date-parts": [["1930"]]
 		}
 	},
 	{
@@ -3686,11 +3072,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -3712,11 +3094,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -3735,11 +3113,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -3754,13 +3128,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2020",
-					2,
-					16
-				]
-			]
+			"date-parts": [["2020", 2, 16]]
 		}
 	},
 	{
@@ -3778,11 +3146,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"1985"
-				]
-			]
+			"date-parts": [["1985"]]
 		}
 	},
 	{
@@ -3799,11 +3163,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -3826,13 +3186,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					5,
-					22
-				]
-			]
+			"date-parts": [["2019", 5, 22]]
 		}
 	},
 	{
@@ -3851,11 +3205,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -3878,11 +3228,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018"
-				]
-			]
+			"date-parts": [["2018"]]
 		}
 	},
 	{
@@ -3900,13 +3246,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					6,
-					29
-				]
-			]
+			"date-parts": [["2018", 6, 29]]
 		}
 	},
 	{
@@ -3923,13 +3263,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					2,
-					26
-				]
-			]
+			"date-parts": [["2018", 2, 26]]
 		}
 	},
 	{
@@ -3948,13 +3282,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					6,
-					21
-				]
-			]
+			"date-parts": [["2018", 6, 21]]
 		}
 	},
 	{
@@ -3971,13 +3299,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					11,
-					1
-				]
-			]
+			"date-parts": [["2019", 11, 1]]
 		}
 	},
 	{
@@ -3995,13 +3317,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					3,
-					22
-				]
-			]
+			"date-parts": [["2018", 3, 22]]
 		}
 	},
 	{
@@ -4018,13 +3334,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					11,
-					28
-				]
-			]
+			"date-parts": [["2018", 11, 28]]
 		}
 	},
 	{
@@ -4041,13 +3351,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					6,
-					26
-				]
-			]
+			"date-parts": [["2018", 6, 26]]
 		}
 	},
 	{
@@ -4064,13 +3368,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					7,
-					22
-				]
-			]
+			"date-parts": [["2019", 7, 22]]
 		}
 	},
 	{
@@ -4087,13 +3385,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					11,
-					26
-				]
-			]
+			"date-parts": [["2018", 11, 26]]
 		}
 	},
 	{
@@ -4110,13 +3402,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					4,
-					16
-				]
-			]
+			"date-parts": [["2019", 4, 16]]
 		}
 	},
 	{
@@ -4133,13 +3419,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					9,
-					12
-				]
-			]
+			"date-parts": [["2018", 9, 12]]
 		}
 	},
 	{
@@ -4156,13 +3436,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					1,
-					3
-				]
-			]
+			"date-parts": [["2019", 1, 3]]
 		}
 	},
 	{
@@ -4179,13 +3453,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					6,
-					27
-				]
-			]
+			"date-parts": [["2018", 6, 27]]
 		}
 	},
 	{
@@ -4200,13 +3468,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					1,
-					23
-				]
-			]
+			"date-parts": [["2018", 1, 23]]
 		}
 	},
 	{
@@ -4221,12 +3483,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2018",
-					3
-				]
-			]
+			"date-parts": [["2018", 3]]
 		}
 	},
 	{
@@ -4244,13 +3501,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					12,
-					29
-				]
-			]
+			"date-parts": [["2016", 12, 29]]
 		}
 	},
 	{
@@ -4316,13 +3567,7 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					7,
-					3
-				]
-			]
+			"date-parts": [["2019", 7, 3]]
 		}
 	},
 	{
@@ -4335,11 +3580,7 @@
 		"URL": "http://www.oyez.org/cases/1940-1955/347us483",
 		"volume": "347",
 		"issued": {
-			"date-parts": [
-				[
-					"1954"
-				]
-			]
+			"date-parts": [["1954"]]
 		}
 	},
 	{
@@ -4351,11 +3592,7 @@
 		"URL": "https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf",
 		"volume": "576",
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -4369,11 +3606,7 @@
 		"URL": "https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals",
 		"volume": "951",
 		"issued": {
-			"date-parts": [
-				[
-					"1991"
-				]
-			]
+			"date-parts": [["1991"]]
 		}
 	},
 	{
@@ -4387,11 +3620,7 @@
 		"URL": "https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/",
 		"volume": "133",
 		"issued": {
-			"date-parts": [
-				[
-					"2001"
-				]
-			]
+			"date-parts": [["2001"]]
 		}
 	},
 	{
@@ -4406,11 +3635,7 @@
 		"URL": "https://openjurist.org/727/f2d/888/durflinger-v-artiles",
 		"volume": "563",
 		"issued": {
-			"date-parts": [
-				[
-					"1984"
-				]
-			]
+			"date-parts": [["1984"]]
 		}
 	},
 	{
@@ -4424,11 +3649,7 @@
 		"URL": "https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california",
 		"volume": "17",
 		"issued": {
-			"date-parts": [
-				[
-					"1976"
-				]
-			]
+			"date-parts": [["1976"]]
 		}
 	},
 	{
@@ -4442,11 +3663,7 @@
 		"URL": "https://www.leagle.com/decision/19921027826sw2d20111010",
 		"volume": "826",
 		"issued": {
-			"date-parts": [
-				[
-					"1992"
-				]
-			]
+			"date-parts": [["1992"]]
 		}
 	},
 	{
@@ -4459,11 +3676,7 @@
 		"URL": "https://www.ada.gov/pubs/adastatute08.htm",
 		"volume": "42",
 		"issued": {
-			"date-parts": [
-				[
-					"1990"
-				]
-			]
+			"date-parts": [["1990"]]
 		}
 	},
 	{
@@ -4477,11 +3690,7 @@
 		"URL": "https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf",
 		"volume": "78",
 		"issued": {
-			"date-parts": [
-				[
-					"1964"
-				]
-			]
+			"date-parts": [["1964"]]
 		}
 	},
 	{
@@ -4494,11 +3703,7 @@
 		"URL": "https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf",
 		"volume": "20",
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -4512,11 +3717,7 @@
 		"URL": "https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf",
 		"volume": "123",
 		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
+			"date-parts": [["2009"]]
 		}
 	},
 	{
@@ -4529,11 +3730,7 @@
 		"URL": "https://www.justice.org/crt/title-ix-education-amendments-1972",
 		"volume": "20",
 		"issued": {
-			"date-parts": [
-				[
-					"1972"
-				]
-			]
+			"date-parts": [["1972"]]
 		}
 	},
 	{
@@ -4546,11 +3743,7 @@
 		"title": "Florida Mental Health Act",
 		"URL": "http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&URL=0300-0399/0394/0394.html",
 		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
+			"date-parts": [["2009"]]
 		}
 	},
 	{
@@ -4562,11 +3755,7 @@
 		"title-short": "Federal real property reform",
 		"URL": "http://www.gsa.gov/portal/content/233107",
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -4578,11 +3767,7 @@
 		"title-short": "Strengthening the federal student loan program",
 		"URL": "https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers",
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -4594,11 +3779,7 @@
 		"title": "Mental Health on Campus Improvement Act",
 		"URL": "https://www.congress.gov/bill/113th-congress/house-bill/1100",
 		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
+			"date-parts": [["2013"]]
 		}
 	},
 	{
@@ -4612,11 +3793,7 @@
 		"URL": "https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2",
 		"volume": "162",
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -4626,11 +3803,7 @@
 		"title": "H.R. Rep. No. 114-358",
 		"URL": "https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf",
 		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
+			"date-parts": [["2015"]]
 		}
 	},
 	{
@@ -4644,11 +3817,7 @@
 		"URL": "https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf",
 		"volume": "45",
 		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
+			"date-parts": [["2009"]]
 		}
 	},
 	{
@@ -4663,13 +3832,7 @@
 		"URL": "https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and",
 		"volume": "81",
 		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					5,
-					23
-				]
-			]
+			"date-parts": [["2016", 5, 23]]
 		}
 	},
 	{
@@ -4683,11 +3846,7 @@
 		"URL": "https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf",
 		"volume": "3",
 		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
+			"date-parts": [["2014"]]
 		}
 	},
 	{
@@ -4719,11 +3878,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [
-				[
-					"2016"
-				]
-			]
+			"date-parts": [["2016"]]
 		}
 	},
 	{
@@ -4770,13 +3925,7 @@
 		"title": "United nations convention on the rights of the child",
 		"URL": "https://www.ohchr.org/en/professionalinterest/pages/crc.aspx",
 		"issued": {
-			"date-parts": [
-				[
-					"1989",
-					11,
-					20
-				]
-			]
+			"date-parts": [["1989", 11, 20]]
 		}
 	}
 ]

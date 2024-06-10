@@ -15,21 +15,10 @@
 		"URL": "https://book.douban.com/subject/1662428/",
 		"volume": "2",
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					24
-				]
-			]
+			"date-parts": [["2022", 10, 24]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"1995",
-					1
-				]
-			]
+			"date-parts": [["1995", 1]]
 		}
 	},
 	{
@@ -59,21 +48,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					24
-				]
-			]
+			"date-parts": [["2022", 10, 24]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2001",
-					1
-				]
-			]
+			"date-parts": [["2001", 1]]
 		}
 	},
 	{
@@ -94,20 +72,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					25
-				]
-			]
+			"date-parts": [["2022", 10, 25]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
+			"date-parts": [["2006"]]
 		}
 	},
 	{
@@ -130,20 +98,10 @@
 			}
 		],
 		"accessed": {
-			"date-parts": [
-				[
-					"2022",
-					10,
-					25
-				]
-			]
+			"date-parts": [["2022", 10, 25]]
 		},
 		"issued": {
-			"date-parts": [
-				[
-					"2003"
-				]
-			]
+			"date-parts": [["2003"]]
 		}
 	}
 ]

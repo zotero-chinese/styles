@@ -1,3 +1,12 @@
+# 自动生成文件
 src/**/index.md
 src/**/metadata.json
 dist/*
+node_modules
+pnpm-lock.yaml
+
+# CSL 文件由 redhat.vscode-xml 插件格式化
+src/**/*.csl
+
+# 子模块
+lib/locales
