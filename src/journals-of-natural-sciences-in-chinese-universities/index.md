@@ -8,34 +8,46 @@
 
 ### 引注
 
-[1–8]
+[1–12]
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-1 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-2 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">1</div><div class="csl-right-inline">库恩．科学革命的结构: 第 4 版．第2版．金吾伦，胡新和译．北京：北京大学出版社，2012</div>
+    <div class="csl-left-margin">1</div><div class="csl-right-inline">高景德，王祥珩．交流电机的多回路理论．清华大学学报（自然科学版），1987，27（1）：1～8</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25～26</div>
+    <div class="csl-left-margin">2</div><div class="csl-right-inline">Nadkarni M A, Nair C K K, Pandey V N, et al. Characterization of alpha-galactosidase from corynebacterium murisepticum and mechanism of its induction. J Gen App Microbiol, 1992, 38(1): 23～34</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3</div><div class="csl-right-inline">贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究．见：中国图书馆学会主编．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45～52</div>
+    <div class="csl-left-margin">3</div><div class="csl-right-inline">华罗庚，王元．论一致分布与近似分析：数论方法（I）．中国科学，1973（4）：339～357</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17～38</div>
+    <div class="csl-left-margin">4</div><div class="csl-right-inline">竺可桢．物候学．北京：科学出版社，1973</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5</div><div class="csl-right-inline">武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现．测绘科学，2008，33（5）：8～9</div>
+    <div class="csl-left-margin">5</div><div class="csl-right-inline">霍夫斯塔主编．禽病学：下册．第7版．胡祥壁译．北京：农业出版社，1981：798～799</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis. Nature, 2014, 510: 356～362</div>
+    <div class="csl-left-margin">6</div><div class="csl-right-inline">Timoshenko S P. Theory of plate and shells. 2nd ed. New York: McGraw-Hill, 1959: 17～36</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">7</div><div class="csl-right-inline">中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告．2012</div>
+    <div class="csl-left-margin">7</div><div class="csl-right-inline">张全福，王里青．“百家争鸣”与理工科学报编辑工作．见：郑福寿主编．学报编辑论丛：第 2 集．南京：河海大学出版社，1991：1～4</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy. 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
+    <div class="csl-left-margin">8</div><div class="csl-right-inline">Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor. In: White H J, Smith R, eds. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44～46</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">9</div><div class="csl-right-inline">张筑生．微分半动力系统的不变集：[学位论文]．北京：北京大学数学系，1983</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">10</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen: [dissertation]. Berkeley: Univ of California, 1965</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">11</div><div class="csl-right-inline">姜锡洲．一种温热外敷药制备方法．中国专利，881056073．1989-07-26</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">12</div><div class="csl-right-inline">全国文献工作标准化技术委员会第六分委员会．GB 6447—86 文摘编写规则．北京：中国标准出版社，1986</div>
   </div>
 </div>
 

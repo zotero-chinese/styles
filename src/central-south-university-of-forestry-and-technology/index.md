@@ -14,28 +14,28 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M](2 版). 金吾伦, 胡新和, 译. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">田大伦, 项文化, 康文星, 等. 杉木人工林养分循环的研究[J]. 中南林业科技大学学报, 1993, 12(1): 16-21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">FAN X, SOMMERS C H. Food irradiation research and technology[M](2nd ed.). Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">OU J P, YOSHIDA O, SOONG T T, et al. Recent advance in applications of passive energy dissipation systems[J]. Earthquake Engineering, 1997, 38(3): 358-361.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 见: 中国图书馆学会主编. 中国图书馆学会年会论文集: 2011 年卷[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">吴富祯. 测树学[M]. 北京: 中国林业出版社, 1992: 1-7.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">FOURNEY M E. Advances in holographic photoelasticity[A]. In: Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">刘煊章, 项文化, 康文星, 等. 杉木人工林生态系统生物量的动态格局[A]. 见: 刘煊章主编. 森林生态系统定位研究[C]. 北京: 中国林业出版社, 1993: 18-22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">徐刚标. 银杏种质离体培养与保存[D]. 株洲: 中南林业科技大学研究生处, 1988.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">冯西桥. 核反应堆压力管道与容器的LBB分析[R]. 北京: 清华大学核能技术设计研究院, 1997: 4-9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">谢希德. 创造学习的新思路[N]. 人民日报, 1998-12-25(10).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">姜锡洲. 一种温热外用药制备方案[P]. 中国专利: 881056073, 1989-07-26.</div>
   </div>
 </div>
 

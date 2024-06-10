@@ -43,24 +43,24 @@
 ### 引注
 
 （张三, 2008）<br>
-（张三, 2008）<br>
+张三 （2008）<br>
 （Jason, 2008）<br>
-（Jason, 2008）<br>
-（张三 和李四, 2008）<br>
-（Wang and Sun, 2009）<br>
+Jason （2008）<br>
+张三 和李四 （2008）<br>
+Wang and Sun （2009）<br>
 （Wolchik and West, 2009; 赵一 和陈二, 2008）<br>
-（张三 等, 2008）<br>
-（Wang et al, 2009）<br>
+张三 等 （2008）<br>
+Wang et al （2009）<br>
 （Wolchik et al, 2009; 赵一 等, 2008）<br>
-（张三 等, 2019a）<br>
-（张三 等, 2019b）<br>
-（Qian et al, 2020a）<br>
-（Qian et al, 2020b）<br>
+张三 等 （2019a）<br>
+张三 等 （2019b）<br>
+Qian et al （2020a）<br>
+Qian et al （2020b）<br>
 （Qian et al, 2020a; 张三 等, 2019a）<br>
-（张三 等, 2020a）<br>
-（张三 等, 2020b）<br>
-（Qian et al, 2009a）<br>
-（Qian et al, 2009b）<br>
+张三 等 （2020a）<br>
+张三 等 （2020b）<br>
+Qian et al （2009a）<br>
+Qian et al （2009b）<br>
 （张三 等, 2020a）<br>
 （Qian et al, 2009a）<br>
 （Wong, 2007）<br>

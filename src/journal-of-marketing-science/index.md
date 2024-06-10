@@ -51,24 +51,24 @@
 ### 引注
 
 （张三，2008）<br>
-（张三，2008）<br>
+张三 （2008）<br>
 （Jason J，2008）<br>
-（Jason J，2008）<br>
-（张三 et al.，2008a）<br>
-（Wang W et al.，2009a）<br>
+Jason J （2008）<br>
+张三 et al. （2008a）<br>
+Wang W et al. （2009a）<br>
 （赵一 et al.，2008a；Wolchik S A et al.，2009a）<br>
-（张三 et al.，2008b）<br>
-（Wang W et al.，2009b）<br>
+张三 et al. （2008b）<br>
+Wang W et al. （2009b）<br>
 （赵一 et al.，2008b；Wolchik S A et al.，2009b）<br>
-（张三 et al.，2019a）<br>
-（张三 et al.，2019b）<br>
-（Qian Y et al.，2020b）<br>
-（Qian Y et al.，2020a）<br>
+张三 et al. （2019a）<br>
+张三 et al. （2019b）<br>
+Qian Y et al. （2020b）<br>
+Qian Y et al. （2020a）<br>
 （张三 et al.，2019a；Qian Y et al.，2020b）<br>
-（张三 et al.，2020a）<br>
-（张三 et al.，2020b）<br>
-（Qian Y et al.，2009b）<br>
-（Qian Y et al.，2009a）<br>
+张三 et al. （2020a）<br>
+张三 et al. （2020b）<br>
+Qian Y et al. （2009b）<br>
+Qian Y et al. （2009a）<br>
 （张三 et al.，2020a）<br>
 （Qian Y et al.，2009b）<br>
 （Wong K D，2007）<br>

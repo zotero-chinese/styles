@@ -8,34 +8,43 @@
 
 ### 引注
 
-<sup>[1–8]</sup>
+<sup>[1–11]</sup>
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩．科学革命的结构: 第 4 版．金吾伦，胡新和译．2 版．北京：北京大学出版社，2012</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">张直明，张言，陈北熊．滑动轴承的流体动力润滑理论．北京：高等教育出版社，1986，104-105</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, 25-26</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Mitchell A L. Introduction to genetic algorithms. Cambridge: MIT Press, 1996, 35-40</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究．见：中国图书馆学会年会论文集．北京：国家图书馆出版社，2011，45-52</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">李斌，沙键，张其瑞，等．介观耦合电路的量子压缩效应．科学通报，1996，41(14)：1275-1277</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics. New York: ASME, c1971, 17-38</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Chen D H, Bogy D B, Wang K C, et al. Singular stress field  near the comer of jointed dissimilar materials. Journal of  Applied Mechanics, 1993, 60(3): 607-613</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，等．“北斗一号”监控管理网设计与实现．测绘科学，2008，33(5)：8-9</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">张筑生．微分半动力系统的不变集：［北京大学硕士学位论文］．北京：北京大学数学系数学研究所，1995，60-65</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis. Nature, 2014, 510: 356-362</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies of solid oxygen: [dissertation]. Berkeley: Univ. of California, 1965, 89-91</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心．第 29 次中国互联网络发展现状统计报告</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">田荣．连续与非连续变形分析的流形方法及其在土力学中的应用．见：中国土木工程学会第八届全国土力学及岩土工程学术会议论文集．北京：万国学术出版社，1999，51-53</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008-05-04</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Melbourne C. Load relieving systems. In: Proc of Int Conf on  Non conventional Structures. London, 1987, 93-95</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">姚光起．一种氧化锆材料的制备方法．中国专利．891056088，1980-07-03</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Jenkins L. Testimony of Emund Chairman of FASB. <a href="https://doi.org/www.fasb.org.uk">www.fasb.org.uk</a>, 2002-02-14</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">福轩．中国汽车工业核心竞争力评析．中国机电日报，2002-04-20</div>
   </div>
 </div>
 

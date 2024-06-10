@@ -32,24 +32,24 @@
 ### 引注
 
 (张三, 2008)<br>
-(张三, 2008)<br>
+张三 (2008)<br>
 (Jason, 2008)<br>
-(Jason, 2008)<br>
-(张三, 李四, 2008)<br>
-(Wang &#38; Sun, 2009)<br>
+Jason (2008)<br>
+张三, 李四 (2008)<br>
+Wang &#38; Sun (2009)<br>
 (赵一, 陈二, 2008; Wolchik &#38; West, 2009)<br>
-(张三 等, 2008)<br>
-(Wang et al., 2009)<br>
+张三 等 (2008)<br>
+Wang et al. (2009)<br>
 (赵一 等, 2008; Wolchik et al., 2009)<br>
-(张三, 李四,  等, 2019)<br>
-(张三, 王五,  等, 2019)<br>
-(Qian, Zhao, Zhou, Sun, et al., 2020)<br>
-(Qian, Zhao, Zhou, Li, et al., 2020)<br>
+张三, 李四,  等 (2019)<br>
+张三, 王五,  等 (2019)<br>
+Qian, Zhao, Zhou, Sun, et al. (2020)<br>
+Qian, Zhao, Zhou, Li, et al. (2020)<br>
 (张三, 李四,  等, 2019; Qian, Zhao, Zhou, Sun, et al., 2020)<br>
-(张三, 李四, 王五, 2020)<br>
-(张三, 李四, 赵六, 2020)<br>
-(Qian, Zhao, Zhou, &#38; Sun, 2009)<br>
-(Qian, Zhao, Zhou, &#38; Li, 2009)<br>
+张三, 李四, 王五 (2020)<br>
+张三, 李四, 赵六 (2020)<br>
+Qian, Zhao, Zhou, &#38; Sun (2009)<br>
+Qian, Zhao, Zhou, &#38; Li (2009)<br>
 (张三, 李四, 王五, 2020)<br>
 (Qian, Zhao, Zhou, &#38; Sun, 2009)<br>
 (K. D. Wong, 2007)<br>

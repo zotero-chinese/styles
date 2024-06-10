@@ -21,8 +21,8 @@ import {
 import {
   allDefaultItems,
   getCustomItems,
-  allDefaultCitationItems,
   getCustomCites,
+  getAllDefaultCitationItems,
 } from "./data/index.js";
 
 import { customFields } from "./customFields.js";
@@ -42,6 +42,7 @@ export function generate(cslFilePath: string): StyleFullResult {
   // 获取 citeproc 实例
   const citeproc = getCiteproc(items, style);
   const cslXml = citeproc.cslXml;
+  const citation_format = getCitationFormat(cslXml);
 
   const path: Path = {
     dir: dirname(cslFilePath).replace("src/", ""),
@@ -58,16 +59,16 @@ export function generate(cslFilePath: string): StyleFullResult {
     link_documentation: getRefDocument(cslXml),
     author: [],
     contributor: [],
-    citation_format: getCitationFormat(cslXml),
+    citation_format,
     field: getField(cslXml),
     summary: "",
     updated: "",
   };
 
   // CSL-JSON CitationItems
-  const citations: { [key: string]: CitationItem[] } = {
-    ...allDefaultCitationItems,
-    custom: getCustomCites(cslFilePath, customItems),
+  const citations: { [key: string]: CitationItems } = {
+    ...getAllDefaultCitationItems(citation_format),
+    custom: getCustomCites(cslFilePath, customItems, citation_format),
   };
 
   // 获取引注和参考文献表信息
@@ -91,6 +92,8 @@ export function generate(cslFilePath: string): StyleFullResult {
     mlc_result: getItemResults(citeproc, citations["mlc"]),
     ssc_result: getItemResults(citeproc, citations["ssc"]),
   };
+
+  // console.log(citations[camelCase(`test_${info.citation_format}`)]);
 
   // 获取自定义字段信息
   // const custom = customFields[path.file] || {};

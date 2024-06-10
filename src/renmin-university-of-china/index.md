@@ -8,26 +8,35 @@
 
 ### 引注
 
-(库恩, 2012)<br>
-(Fourney, c1971)<br>
-(贾东琴和柯平, 2011)<br>
-(Fan and Sommers, 2013)<br>
-(武丽丽等, 2008)<br>
-(Myburg et al., 2014)<br>
-(中国互联网络信息中心, 2012; Bawden, 2008)<br>
+(姜明安, 1986)<br>
+(Gellhorn and Boyer, 1959)<br>
+(刘艺, 2001)<br>
+(Smith, 1987)<br>
+(马怀德, 2002)<br>
+(Wright, 1986)<br>
+(王常委, 1996)<br>
+(Rignall, 1991)<br>
+(温晓莉, 2001)<br>
+(CIA, 1997)<br>
+(王常委, 1996)<br>
+(Janet, 1999)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">贾东琴、柯平，“面向数字素养的高校图书馆数字服务体系研究”，中国图书馆学会，《中国图书馆学会年会论文集》2011 年卷，北京，国家图书馆出版社，2011，45–52。</div>
-  <div class="csl-entry">库恩，《科学革命的结构: 第 4 版》，北京，北京大学出版社，2012。</div>
-  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏，“‘北斗一号’监控管理网设计与实现”，《测绘科学》，2008年第33卷第五期，8–9页。</div>
-  <div class="csl-entry">中国互联网络信息中心，“第 29 次中国互联网络发展现状统计报告”，2012。</div>
-  <div class="csl-entry">Bawden, D., “Origins and concepts of digital literacy”, 2008, Available at <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> [March 8, 2013].</div>
-  <div class="csl-entry">Fan, X. and C. H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.</div>
-  <div class="csl-entry">Fourney, M. E., “Advances in holographic photoelasticity”, In: <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, 17–38.</div>
-  <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The genome of eucalyptus grandis”, <i>Nature</i> 510, 2014, 356–362.</div>
+  <div class="csl-entry">姜明安，《行政法概要》，北京，北京大学出版社，1986。</div>
+  <div class="csl-entry">刘艺，“高校被诉引起的行政法思考”，《现代法学》，2001年第二期，93–97页。</div>
+  <div class="csl-entry">马怀德，“公务法人问题研究”，劳凯声，《中国教育法制评论》，北京，教育科学出版社，2002，31–42。</div>
+  <div class="csl-entry">王常委，“评家用汽车热销”（非出版物），中国人民大学红楼，1996。</div>
+  <div class="csl-entry">王常委，1996年10月12日，“汽车”，评家用汽车热销，互联网，<a href="https://doi.org/writin-dev-h@mailbase.ac.uk">writin-dev-h@mailbase.ac.uk</a>，2001年5月4日。</div>
+  <div class="csl-entry">温晓莉，“论知识经济社会微观公共权力的法律规则”，《法学》，2001年第十二期，11–16页。</div>
+  <div class="csl-entry">CIA, “Australia”, In: <i>World Factbook</i>. [Online], 1997, Available at <a href="http://www.odci.gov/cia/publications/factbook/index.html">http://www.odci.gov/cia/publications/factbook/index.html</a> [January 14, 1999].</div>
+  <div class="csl-entry">Gellhorn, E. and B. B. Boyer, <i>Administrative Law and Process in a Nutshell</i>, West Publishing Company, 1959.</div>
+  <div class="csl-entry">Janet, S., “Essay Writing:Fred Astaire&#38; Gene Kelly”, 1999, Available <a href="https://doi.org/writin-dev-h@mailbase.ac.uk">writin-dev-h@mailbase.ac.uk</a>.</div>
+  <div class="csl-entry">Rignall, M., <i>Oral Narratives in English and Greek</i>. Unpublished MA thesis (C.A.L.S), University of Reading, 1991.</div>
+  <div class="csl-entry">Smith, M. L., “Publishing qualitative research”, <i>American Educational Research Journal</i> 24(2), 1987, 173–183.</div>
+  <div class="csl-entry">Wright, P., “Reactions to an Ads contents versus judgements of Ads impact”, In: J. C. Olson and K. Sentis, eds. <i>Advertising and Consumer Psychology</i>. Vol. 3, New York: Praeger, 1986, 108–117.</div>
 </div>
 
 ## 默认测试
@@ -35,24 +44,24 @@
 ### 引注
 
 (张三, 2008)<br>
-(张三, 2008)<br>
+张三 (2008)<br>
 (Jason, 2008)<br>
-(Jason, 2008)<br>
-(张三和李四, 2008)<br>
-(Wang and Sun, 2009)<br>
+Jason (2008)<br>
+张三和李四 (2008)<br>
+Wang and Sun (2009)<br>
 (赵一和陈二, 2008; Wolchik and West, 2009)<br>
-(张三等, 2008)<br>
-(Wang et al., 2009)<br>
+张三等 (2008)<br>
+Wang et al. (2009)<br>
 (赵一等, 2008; Wolchik et al., 2009)<br>
-(张三, 李四, 等, 2019)<br>
-(张三, 王五, 等, 2019)<br>
-(Qian, Zhao, Zhou, Sun, et al., 2020)<br>
-(Qian, Zhao, Zhou, Li, et al., 2020)<br>
+张三, 李四, 等 (2019)<br>
+张三, 王五, 等 (2019)<br>
+Qian, Zhao, Zhou, Sun, et al. (2020)<br>
+Qian, Zhao, Zhou, Li, et al. (2020)<br>
 (张三, 李四, 等, 2019; Qian, Zhao, Zhou, Sun, et al., 2020)<br>
-(张三, 李四和王五, 2020)<br>
-(张三, 李四和赵六, 2020)<br>
-(Qian, Zhao, Zhou, and Sun, 2009)<br>
-(Qian, Zhao, Zhou, and Li, 2009)<br>
+张三, 李四和王五 (2020)<br>
+张三, 李四和赵六 (2020)<br>
+Qian, Zhao, Zhou, and Sun (2009)<br>
+Qian, Zhao, Zhou, and Li (2009)<br>
 (张三, 李四和王五, 2020)<br>
 (Qian, Zhao, Zhou, and Sun, 2009)<br>
 (Wong, 2007)<br>

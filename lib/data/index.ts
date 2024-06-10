@@ -29,8 +29,10 @@ export const allDefaultItems: Item[] = [
   ...authorDateItems,
 ];
 
-export const allDefaultCitationItems: { [key: string]: CitationItem[] | any } =
-  {
+export function getAllDefaultCitationItems(citation_format: string): {
+  [key: string]: CitationItem[] | any;
+} {
+  return {
     sampleAuthorDate,
     sampleNote,
     sampleNumeric,
@@ -38,12 +40,13 @@ export const allDefaultCitationItems: { [key: string]: CitationItem[] | any } =
     testNote,
     testNumeric,
 
-    aps: getCitationItems(apsItems),
-    apa: getCitationItems(apaItems),
-    gb: getCitationItems(gbItems),
-    mlc: getCitationItems(mlcItems),
-    ssc: getCitationItems(sscItems),
+    aps: getCitationItems(apsItems, citation_format),
+    apa: getCitationItems(apaItems, citation_format),
+    gb: getCitationItems(gbItems, citation_format),
+    mlc: getCitationItems(mlcItems, citation_format),
+    ssc: getCitationItems(sscItems, citation_format),
   };
+}
 
 export function getCustomItems(cslPath: string): Item[] {
   const dirName = dirname(cslPath);
@@ -57,16 +60,20 @@ export function getCustomItems(cslPath: string): Item[] {
 
 export function getCustomCites(
   cslPath: string,
-  items?: Item[]
-): CitationItem[] {
+  items?: Item[],
+  citation_format?: string
+): CitationItems {
   const dirName = dirname(cslPath);
   const citesFilePath = join(dirName, "cites.json");
 
   if (fs.existsSync(citesFilePath)) {
+    // 存在 cites.json
     return fs.readJsonSync(citesFilePath);
-  } else if (!isEmpty(items.lenth)) {
-    return [getCitationItems(items)];
+  } else if (items && !isEmpty(items.length)) {
+    // 不存在 cites.json 但存在 items.json
+    return getCitationItems(items, citation_format);
   } else {
+    // cites.json 和 items.json 都不存在
     return [];
   }
 }
@@ -74,19 +81,21 @@ export function getCustomCites(
 export function getCitationItems(
   items: Item[],
   citation_format?: string
-): { id: string }[] {
+): CitationItems {
   let ids = getIds(items);
 
   if (citation_format === "numeric") {
     return [
-      ...ids.map((id) => {
-        return { id };
-      }),
+      ...[
+        ids.map((id) => {
+          return { id };
+        }),
+      ],
     ];
   }
 
   return ids.map((id) => {
-    return { id };
+    return [{ id }];
   });
 }
 

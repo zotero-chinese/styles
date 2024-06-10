@@ -8,26 +8,25 @@
 
 ### 引注
 
-（库恩, 2012）<br>
-（FOURNEY, c1971）<br>
-（贾东琴 等, 2011）<br>
-（FAN et al., 2013）<br>
-（武丽丽 等, 2008）<br>
-（MYBURG et al., 2014）<br>
-（中国互联网络信息中心, 2012; BAWDEN, 2008）<br>
+（全国信息与文献标准化技术委员会, 2010）<br>
+（中国造纸学会, 2003）<br>
+（CHEN F F, 2016）<br>
+（刘彻东, 1998）<br>
+（余建斌, 2013）<br>
+（邓一刚, 2006）<br>
+（西安电子科技大学, 2002）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">贾东琴, 柯平, 2011. 面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
-  <div class="csl-entry">库恩, 2012. 科学革命的结构: 第 4 版. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏, 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8-9. DOI: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
-  <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展现状统计报告.</div>
-  <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy.</div>
-  <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
-  <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J, 2014. The genome of eucalyptus grandis. Nature, 510: 356-362. DOI: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+  <div class="csl-entry">邓一刚, 2006. 全智能节电器: 200610171314.3.</div>
+  <div class="csl-entry">刘彻东, 1998. 中国的青年刊物:个性特色为本. 中国出版(5): 38-39.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2010. 信息与文献 都柏林核心元数 据元素集: GB/T 25100-2010. 北京: 中国标准出版社: 2-3.</div>
+  <div class="csl-entry">西安电子科技大学, 2002. 光折变自适应光外差探测方法: 01128777.2.</div>
+  <div class="csl-entry">余建斌, 2013. 我们的科技一直在追赶: 访中国工程院院长周济. 人民日报, 2013.</div>
+  <div class="csl-entry">中国造纸学会, 2003. 中国造纸年鉴. 北京: 中国轻工业出版社.</div>
+  <div class="csl-entry">CHEN F F, 2016. 等离子体物理学导论. 北京: 科学出版社: 29.</div>
 </div>
 
 ## 默认测试
@@ -35,24 +34,24 @@
 ### 引注
 
 （张三, 2008）<br>
-（张三, 2008）<br>
+张三 （2008）<br>
 （JASON, 2008）<br>
-（JASON, 2008）<br>
-（张三 等, 2008a）<br>
-（WANG et al., 2009a）<br>
+JASON （2008）<br>
+张三 等 （2008a）<br>
+WANG et al. （2009a）<br>
 （赵一 等, 2008a; WOLCHIK et al., 2009a）<br>
-（张三 等, 2008b）<br>
-（WANG et al., 2009b）<br>
+张三 等 （2008b）<br>
+WANG et al. （2009b）<br>
 （赵一 等, 2008b; WOLCHIK et al., 2009b）<br>
-（张三 等, 2019a）<br>
-（张三 等, 2019b）<br>
-（QIAN et al., 2020b）<br>
-（QIAN et al., 2020a）<br>
+张三 等 （2019a）<br>
+张三 等 （2019b）<br>
+QIAN et al. （2020b）<br>
+QIAN et al. （2020a）<br>
 （张三 等, 2019a; QIAN et al., 2020b）<br>
-（张三 等, 2020a）<br>
-（张三 等, 2020b）<br>
-（QIAN et al., 2009b）<br>
-（QIAN et al., 2009a）<br>
+张三 等 （2020a）<br>
+张三 等 （2020b）<br>
+QIAN et al. （2009b）<br>
+QIAN et al. （2009a）<br>
 （张三 等, 2020a）<br>
 （QIAN et al., 2009b）<br>
 （WONG, 2007）<br>

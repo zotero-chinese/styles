@@ -8,34 +8,43 @@
 
 ### 引注
 
-<sup>[1–8]</sup>
+<sup>[1–11]</sup>
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012; [M]. 2012</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">ALTIERI M A, NICHOLLS C I. Biodiversity and pest management in agroecosystems[M]. 2nd ed. New York: Food Products Press, 2004</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">BIESMEIJER J C, ROBERTS S P M, REEMER M, et al. Parallel declines in pollinators and insect-pollinated plants in Britain and the Netherlands[J]. Science, 2006, 313(5785): 351-354</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52; [C]. 2011: 45-52</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">GARNSEY S M, PERMAR T A, CAMBRA M, et al. Direct tissue blot immunoassay (DTBIA) for detection of citrus tristeza virus (CTV)[C]//MORENO P, DE GRACA J V, YOKOMI R K. Proceedings of the 12th Conference on International Organization of Citrus Virologist. Riverside: Vol. 12. Riverside, USA, 1993: 39-50</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–[25, ]1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">MCDONALD A H, NICOL J M. Nematode parasites of cereals[M]//LUC M, SIKORA R A, BRIDGE J. Plant parasitic nematodes in subtropical and tropical agriculture. Wallingford, UK: CABI Publishing, 2005: 131-191</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9; [J]. 2008, 33(5): 8-9</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">钦俊德. 昆虫与植物的关系[M]. 北京: 科学出版社, 1987: 52-78; QIN J D. The relationships between insects and plants[M]. Beijing: Science Press, 1987: 52-78</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">孙玉凤, 张永军, 陆宴辉, 等. 基于棉花挥发性物质的盲椿象可持续性防治[C]//吴孔明, 郭予元. 植保科技创新与病虫防控专业化——中国植物保护学会2011年学术年会论文集. 北京: 中国农业科学技术出版社, 2011: 823; SUN Y F, ZHANG Y J, LU Y H, et al. The sustainability control of blind stink bug based on the cotton volatile substances[C]//Plant protection science and technology innovation and specialization of the prevention and control of diseases and pests—Academic annual Conference of Botanical China Society of Plant Protection in 2011. Beijing: China Agricultural Science and Technology Press, 2011: 823</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R]. 2012; [R]. 2012</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">TAUTZ D, ARCTANDER P, MINELLI A, et al. DNA points the way ahead in taxonomy[J]. Nature, 2002, 418(6897): 479</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">吴孔明, 郭予元. 部分GK系列Bt棉对棉铃虫抗性的田间评价[J]. 植物保护学报, 2000, 27(4): 317-321; WU K M, GUO Y Y. Field resistance evaluations of BT transgenic cotton GK series to cotton bollwoam[J]. Journal of Plant Protection, 2000, 27(4): 317-321</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">叶恭银, 胡萃, 舒庆尧. 转基因抗虫水稻的转育及其合理持续利用[M]//世界农业发展与研究. 北京: 中国环境科学出版社, 1998: 406-414; YE G Y, HU C, SHU Q Y. The development of transgenic rice resistant to insect pests and its wise and sustainable use[M]//Agricultural Development and Research in the 21st Century. Beijing: China Environmental Science Press, 1998: 406-414</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">曾士迈, 王沛有, 武修英, 等. 小麦对条锈病的水平抗病性研究初报[J]. 植物保护学报, 1979, 6(1): 1-10; ZENG S M, WANG P Y, WU X Y, et al. Preliminary study on the method of evaluation of horizontal resistance of wheat cultivars to stripe rust[J]. Journal of Plant Protection, 1979, 6(1): 1-10</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张徐波. Dpp-Omb信号以区域化的方式调控果蝇翅的生长[D]. 北京: 中国农业大学, 2013; ZHANG X B. Dpp-Omb signaling regulates growth in a region specific manner during Drosophila wing development[D]. Beijing: China Agricultural University, 2013</div>
   </div>
 </div>
 
@@ -99,7 +108,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–[4, ]2000[M]. Rotterdam: A. A. Balkema, 2000</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">BALDOCK P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105</div>

@@ -8,26 +8,19 @@
 
 ### 引注
 
-（库恩，2012）<br>
-（Fourney, c1971）<br>
-（贾东琴 等，2011）<br>
-（Fan et al., 2013）<br>
-（武丽丽 等，2008）<br>
-（Myburg et al., 2014）<br>
-（中国互联网络信息中心，2012；Bawden, 2008）<br>
+（作者，2015）<br>
+（作者1 等，2018）<br>
+（作者，2021）<br>
+（Nunn et al., 2014）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">[1] 贾东琴，柯平，2011．面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社：45-52．</div>
-  <div class="csl-entry">[2] 库恩，2012．科学革命的结构: 第 4 版．金吾伦，胡新和，译．2 版．北京：北京大学出版社．</div>
-  <div class="csl-entry">[3] 武丽丽，华一新，张亚军，等，2008．“北斗一号”监控管理网设计与实现．测绘科学，33（5）：8-9．</div>
-  <div class="csl-entry">[4] 中国互联网络信息中心，2012．第 29 次中国互联网络发展现状统计报告．</div>
-  <div class="csl-entry">[5] BAWDEN D, 2008. Origins and concepts of digital literacy. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">[6] FAN X, SOMMERS C H, 2013. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">[7] FOURNEY M E, c1971. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
-  <div class="csl-entry">[8] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis. Nature, 510: 356-362.</div>
+  <div class="csl-entry">[1] 作者，2015．著作名．上海：上海人民出版社：50-51．</div>
+  <div class="csl-entry">[2] 作者，2021．论文标题．城市：授予单位．</div>
+  <div class="csl-entry">[3] 作者1，作者2，作者3，等，2018．文章标题．期刊名称（11）：35-50．</div>
+  <div class="csl-entry">[4] NUNN N, QIAN N, 2014. US food aid and civil conflict. American Economic Review, 104(6): 1630-1666.</div>
 </div>
 
 ## 默认测试
@@ -35,24 +28,24 @@
 ### 引注
 
 （张三，2008）<br>
-（张三，2008）<br>
+张三 （2008）<br>
 （Jason, 2008）<br>
-（Jason, 2008）<br>
-（张三 等，2008a）<br>
-（Wang et al., 2009a）<br>
+Jason （2008）<br>
+张三 等 （2008a）<br>
+Wang et al. （2009a）<br>
 （赵一 等，2008a；Wolchik et al., 2009a）<br>
-（张三 等，2008b）<br>
-（Wang et al., 2009b）<br>
+张三 等 （2008b）<br>
+Wang et al. （2009b）<br>
 （赵一 等，2008b；Wolchik et al., 2009b）<br>
-（张三 等，2019a）<br>
-（张三 等，2019b）<br>
-（Qian et al., 2020a）<br>
-（Qian et al., 2020b）<br>
+张三 等 （2019a）<br>
+张三 等 （2019b）<br>
+Qian et al. （2020a）<br>
+Qian et al. （2020b）<br>
 （张三 等，2019a；Qian et al., 2020a）<br>
-（张三 等，2020a）<br>
-（张三 等，2020b）<br>
-（Qian et al., 2009a）<br>
-（Qian et al., 2009b）<br>
+张三 等 （2020a）<br>
+张三 等 （2020b）<br>
+Qian et al. （2009a）<br>
+Qian et al. （2009b）<br>
 （张三 等，2020a）<br>
 （Qian et al., 2009a）<br>
 （Wong, 2007）<br>

@@ -13,12 +13,23 @@ interface CitationItem {
   suffix?: string;
   position?: number;
   "near-note"?: boolean;
+
+  /**
+   * 此属性不是 CSL-JSON 的属性，是 cites.json 里自定义的快捷方式，
+   *
+   * 存在此属性的 citationItem，将会传递到 Citation.properties.mode
+   */
+  mode?: string;
 }
 
+type CitationItems = CitationItem[][];
+
 interface Citation {
-  citationsItems: CitationItem[];
+  citationItems: CitationItems;
   properties: {
     noteIndex: number;
+    mode?: string;
+    [key: string]: any;
   };
   citationID?: string;
   sortedItems?: Item[];

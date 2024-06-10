@@ -8,26 +8,29 @@
 
 ### 引注
 
-(库恩, 2012)<br>
-(Fourney, c1971)<br>
-(贾东琴和柯平, 2011)<br>
-(Fan &#38; Sommers, 2013)<br>
-(武丽丽等, 2008)<br>
-(Myburg et al, 2014)<br>
-(中国互联网络信息中心, 2012; Bawden, 2008)<br>
+(Li &#38; Durbin, 2011)<br>
+(宋永昌等, 2015)<br>
+(张明海和马建章, 2010)<br>
+(Begon et al, 1986)<br>
+(蒋志刚等, 2015)<br>
+(Lawton &#38; Brown, 1993)<br>
+(Mueller-Dombois D和Ellenberg H, 1986)<br>
+(于飞海, 2002)<br>
+(International Union for Conservation of Nature (IUCN), 2000)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Bawden D (2008) Origins and Concepts of Digital Literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (2013-03-08)</div>
-  <div class="csl-entry">Fan X, Sommers CH (2013) Food Irradiation Research and Technology, 2nd edn., pp. 25–26. Blackwell Publishing, Ames, Iowa.</div>
-  <div class="csl-entry">Fourney ME (c1971) Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, pp. 17–38. ASME, New York.</div>
-  <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J (2014) The genome of eucalyptus grandis. Nature, 510, 356–362.</div>
-  <div class="csl-entry">中国互联网络信息中心 (2012) (in Chinese) [中国互联网络信息中心 (2012) 第 29 次中国互联网络发展现状统计报告.]</div>
-  <div class="csl-entry">库恩 (2012) (in Chinese) [金吾伦, 胡新和 (译) (2012) 科学革命的结构: 第 4 版, 2 版. 北京大学出版社, 北京.]</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏 (2008) 33(5), 8–9. (in Chinese) [武丽丽, 华一新, 张亚军, 刘英敏 (2008) “北斗一号”监控管理网设计与实现. 测绘科学, 33(5), 8–9.]</div>
-  <div class="csl-entry">贾东琴, 柯平 (2011) (in Chinese) [贾东琴, 柯平 (2011) 面向数字素养的高校图书馆数字服务体系研究. 收入: 中国图书馆学会年会论文集 (编 中国图书馆学会), pp. 45–52. 国家图书馆出版社, 北京.]</div>
+  <div class="csl-entry">Begon M, Harper JL, Townsend CR (1986) Ecology: Individuals, Populations and Communities, 2nd edn. Blackwell Scientific Publications, Boston.</div>
+  <div class="csl-entry">International Union for Conservation of Nature (IUCN) (2000) Authority Files for Habitats &#38; Threats. <a href="http://www.iucn.org/themes/ssc/sis/authority.html">http://www.iucn.org/themes/ssc/sis/authority.html</a> (2023-07-04)</div>
+  <div class="csl-entry">Jiang ZG, Ma Y, Wu Y, Wang YX, Feng ZJ (2015) China’s mammal diversity and geographic distribution. Science Press, Beijing. (in Chinese) [蒋志刚, 马勇, 吴毅, 王应祥, 冯祚建 (2015) 中国哺乳动物多样性. 科学出版社, 北京.]</div>
+  <div class="csl-entry">Lawton JH, Brown VK (1993) Redundancy in ecosystems. In: Biodiversity and Ecosystem Function (eds Schulze ED, Mooney HA), pp. 255–270. Springer-Verlag, New York.</div>
+  <div class="csl-entry">Li H, Durbin R (2011) Inference of human population history from individual whole-genome sequences. Nature, 475(7357), 493–496.</div>
+  <div class="csl-entry">Mueller-Dombois D, Ellenberg H (1986) Aims and Methods of Vegetation Ecology, pp. 153–188. Science Press, Beijing. (in Chinese with English abstract) [鲍显诚, 张绅, 杨邦顺, 金振洲, 唐廷贵, 姚璧君, 姜汉侨 (译) (1986) 植被生态学的目的和方法, pp. 153–188. 科学出版社, 北京.]</div>
+  <div class="csl-entry">Song YC, Yan ER, Song K (2015) Synthetic comparison of eight dynamics plots in evergreen broadleaf forests, China. Biodiversity Science, 23(2), 139–148. (in Chinese with English abstract) [宋永昌, 阎恩荣, 宋坤 (2015) 中国常绿阔叶林 8 大动态监测样地植被的综合比较. 生物多样性, 23(2), 139–148.]</div>
+  <div class="csl-entry">Yu FH (2002) Adaptive Strategies of Clonal Plants Growing in Heterogeneous Environments. PhD dissertation, Institute of Botany, Chinese Academy of Sciences, Beijing. (in Chinese) [于飞海 (2002) 克隆植物对异质性环境的生态适应对策. 博士学位论文, 中国科学院植物研究所, 北京.]</div>
+  <div class="csl-entry">Zhang MH, Ma JZ (2010) Current status and protection vision of wild northeast tiger in China. Chinese Journal of Zoology, 45(1), 165–168. (in Chinese) [张明海, 马建章 (2010) 中国野生东北虎现状及其保护愿景展望. 动物学杂志, 45(1), 165–168.]</div>
 </div>
 
 ## 默认测试
@@ -35,24 +38,24 @@
 ### 引注
 
 (张三, 2008)<br>
-(张三, 2008)<br>
+张三 (2008)<br>
 (Jason, 2008)<br>
-(Jason, 2008)<br>
-(张三和李四, 2008)<br>
-(Wang &#38; Sun, 2009)<br>
+Jason (2008)<br>
+张三和李四 (2008)<br>
+Wang &#38; Sun (2009)<br>
 (赵一和陈二, 2008; Wolchik &#38; West, 2009)<br>
-(张三等, 2008)<br>
-(Wang et al, 2009)<br>
+张三等 (2008)<br>
+Wang et al (2009)<br>
 (赵一等, 2008; Wolchik et al, 2009)<br>
-(张三等, 2019a)<br>
-(张三等, 2019b)<br>
-(Qian et al, 2020b)<br>
-(Qian et al, 2020a)<br>
+张三等 (2019a)<br>
+张三等 (2019b)<br>
+Qian et al (2020b)<br>
+Qian et al (2020a)<br>
 (张三等, 2019a; Qian et al, 2020b)<br>
-(张三等, 2020a)<br>
-(张三等, 2020b)<br>
-(Qian et al, 2009b)<br>
-(Qian et al, 2009a)<br>
+张三等 (2020a)<br>
+张三等 (2020b)<br>
+Qian et al (2009b)<br>
+Qian et al (2009a)<br>
 (张三等, 2020a)<br>
 (Qian et al, 2009b)<br>
 (Wong, 2007)<br>

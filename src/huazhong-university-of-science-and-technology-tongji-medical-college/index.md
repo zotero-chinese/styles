@@ -8,34 +8,37 @@
 
 ### 引注
 
-<sup>[1–8]</sup>
+<sup>[1–9]</sup>
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版（第二版）. 金吾伦, 胡新和, 译. 北京: 北京大学出版社, 2012</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">闫明礼, 张东刚. CFG桩复合地基技术及工程实践（第二版）. 北京: 中国水利水电出版社, 2006</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">X. Fan, C. H. Sommers. Food irradiation research and technology (second edition). Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">M. Chalfie, S. Kain. Green fluorescent protein: properties, applications, and protocols. Hoboken, New Jersey: Wiley-Interscience, 1998</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究, 见: 中国图书馆学会年会论文集: 2011 年卷, 北京, 国家图书馆出版社, 2011: 45-52</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">詹向红, 李德新. 中医药防治阿尔茨海默病实验研究述要. 中华中医药学刊, 2004, 22(11): 2094-2096</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">M. E. Fourney. Advances in holographic photoelasticity. in: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23-25 Aug. 1971, ASME, c1971: 17-38</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">E. S. Lein, M. J. Hawrylycz, N. Ao, et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature, 2007, 445(7124): 168-176</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">M. L. Bouxsein, S. K. Boyd, B. A. Christiansen, et al. Guidelines for assessment of bone microstructure in rodents using micro-computed tomography. Journal of Bone and Mineral Research, 2010, 25(7): 1468-1486</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg, D. Grattapaglia, G. A. Tuskan, et al. The genome of eucalyptus grandis. Nature, 2014, 510: 356-362</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">S. Yamaki, M. Abet, M. Kawamata, et al. Performance evaluation of phase-only correlation functions from the viewpoint of correlation Filters. in: 2018 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Honolulu, HI, USA, 12-15 Nov. 2018, IEEE, 2019: 1361-1364</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">T. Yao, J. Wan, P. Huang, et al. Building efficient key-value stores via a lightweight compaction tree. ACM Transactions on Storage, 2018, 13(4): 1-28</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">D. Bawden. Origins and concepts of digital literacy. 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">刘加林, 刘乃安. 多功能一次性压舌板. 中国, 发明专利, ZL92214985.2, 1993</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">李清泉. 基于混合结构的三维GIS数据模型与空间分析研究[博士学位论文]. 武汉: 武汉测绘科技大学, 1998</div>
   </div>
 </div>
 

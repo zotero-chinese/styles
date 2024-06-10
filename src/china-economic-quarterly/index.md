@@ -8,41 +8,34 @@
 
 ### 引注
 
-（库恩，2012）<br>
-（Fourney, c1971）<br>
-（贾东琴和柯平，2011）<br>
-（Fan and Sommers, 2013）<br>
-（武丽丽等，2008）<br>
-（Myburg et al., 2014）<br>
-（中国互联网络信息中心，2012；Bawden, 2008）<br>
+（Black, 1948）<br>
+（吉登斯，2000）<br>
+（布伦纳，1999）<br>
+（Ahmad and Wang, 1991）<br>
+（Riskin et al., 2001）<br>
+（王美今和张松，2000）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">贾东琴、柯平，“面向数字素养的高校图书馆数字服务体系研究”，载中国图书馆学会主编《中国图书馆学会年会论文集》。北京：国家图书馆出版社，2011年。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">布伦纳，“中国农村财产分配的重新考察”，载赵人伟、李实、李思勤主编《中国居民收入分配再研究》。北京：中国财政经济出版社，1999年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩，《科学革命的结构: 第 4 版》。北京：北京大学出版社，2012年。</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">吉登斯，《现代性的后果》。译林出版社，2000年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏，“‘北斗一号’监控管理网设计与实现”，《测绘科学》，2008年第5期，第8–9页。</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">王美今、张松，“中国新股弱势问题研究”，《经济研究》，2000年第9期，第49–56页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">中国互联网络信息中心，《第 29 次中国互联网络发展现状统计报告》。2012年。</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Ahmad, E., and Y. Wang, “Inequality and Poverty in China: Institutional Change and Public Policy, 1978 to 1988”, The World Bank Economic Review, 1991, 5(2), 231-257.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Bawden, D., Origins and Concepts of Digital Literacy. 2008.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Black, D., His Anonymous Life. 1948.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Fan, X., and C. H. Sommers, Food Irradiation Research and Technology. Ames, Iowa: Blackwell Publishing, 2013.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, in Symposium on Applications of Holography in Mechanics. New York: ASME, c1971.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz, “The Genome of Eucalyptus Grandis”, Nature, 2014, 510, 356-362.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Riskin, C., R. Zhao, and S. Li, China’s Retreat from Equality: Income Distribution and Economic Transition. New York: M.E. Sharpe, 2001.</div>
   </div>
 </div>
 
@@ -51,24 +44,24 @@
 ### 引注
 
 （张三，2008）<br>
-（张三，2008）<br>
+张三 （2008）<br>
 （Jason, 2008）<br>
-（Jason, 2008）<br>
-（张三和李四，2008）<br>
-（Wang and Sun, 2009）<br>
+Jason （2008）<br>
+张三和李四 （2008）<br>
+Wang and Sun （2009）<br>
 （赵一和陈二，2008；Wolchik and West, 2009）<br>
-（张三等，2008）<br>
-（Wang et al., 2009）<br>
+张三等 （2008）<br>
+Wang et al. （2009）<br>
 （赵一等，2008；Wolchik et al., 2009）<br>
-（张三等，2019a）<br>
-（张三等，2019b）<br>
-（Qian et al., 2020b）<br>
-（Qian et al., 2020a）<br>
+张三等 （2019a）<br>
+张三等 （2019b）<br>
+Qian et al. （2020b）<br>
+Qian et al. （2020a）<br>
 （张三等，2019a；Qian et al., 2020b）<br>
-（张三等，2020a）<br>
-（张三等，2020b）<br>
-（Qian et al., 2009b）<br>
-（Qian et al., 2009a）<br>
+张三等 （2020a）<br>
+张三等 （2020b）<br>
+Qian et al. （2009b）<br>
+Qian et al. （2009a）<br>
 （张三等，2020a）<br>
 （Qian et al., 2009b）<br>
 （Wong, 2007）<br>

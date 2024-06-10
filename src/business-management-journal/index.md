@@ -43,24 +43,24 @@
 ### 引注
 
 (张三, 2008)<sup>[1]</sup><br>
-(张三, 2008)<sup>[1]</sup><br>
+(张三) (2008)<sup>[1]</sup><br>
 (Jason, 2008)<sup>[2]</sup><br>
-(Jason, 2008)<sup>[2]</sup><br>
-(张三和李四, 2008)<sup>[3]</sup><br>
-(Wang &#38; Sun, 2009)<sup>[4]</sup><br>
+(Jason) (2008)<sup>[2]</sup><br>
+(张三和李四) (2008)<sup>[3]</sup><br>
+(Wang &#38; Sun) (2009)<sup>[4]</sup><br>
 (赵一和陈二, 2008)<sup>[5]</sup>(Wolchik &#38; West, 2009)<sup>[6]</sup><br>
-(张三等, 2008)<sup>[7]</sup><br>
-(Wang等, 2009)<sup>[8]</sup><br>
+(张三等) (2008)<sup>[7]</sup><br>
+(Wang等) (2009)<sup>[8]</sup><br>
 (赵一等, 2008)<sup>[9]</sup>(Wolchik等, 2009)<sup>[10]</sup><br>
-(张三等, 2019a)<sup>[11]</sup><br>
-(张三等, 2019b)<sup>[12]</sup><br>
-(Qian等, 2020a)<sup>[13]</sup><br>
-(Qian等, 2020b)<sup>[14]</sup><br>
+(张三等) (2019a)<sup>[11]</sup><br>
+(张三等) (2019b)<sup>[12]</sup><br>
+(Qian等) (2020a)<sup>[13]</sup><br>
+(Qian等) (2020b)<sup>[14]</sup><br>
 (张三等, 2019a)<sup>[11]</sup>(Qian等, 2020a)<sup>[13]</sup><br>
-(张三等, 2020a)<sup>[15]</sup><br>
-(张三等, 2020b)<sup>[16]</sup><br>
-(Qian等, 2009a)<sup>[17]</sup><br>
-(Qian等, 2009b)<sup>[18]</sup><br>
+(张三等) (2020a)<sup>[15]</sup><br>
+(张三等) (2020b)<sup>[16]</sup><br>
+(Qian等) (2009a)<sup>[17]</sup><br>
+(Qian等) (2009b)<sup>[18]</sup><br>
 (张三等, 2020a)<sup>[15]</sup><br>
 (Qian等, 2009a)<sup>[17]</sup><br>
 (Wong, 2007)<sup>[19]</sup><br>
