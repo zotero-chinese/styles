@@ -1957,6 +1957,44 @@ Wang, H, Qin, X, Li, X, et al., 2020. Effect of chilling methods on the surface 
 </blockquote>
 
 
+## [227science-of-science-and-management-of-s-and-t.csl]
+
+[《科学学与科学技术管理》投稿指南](https://www.ssstm.org/CN/column/column6.shtml)样式。在 [china-national-standard-gb-t-7714-2015-author-date.csl](http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date) 基础上修改。
+
+显示效果：
+
+<blockquote>
+  (库恩, 2012)<br>
+  (Fourney, c1971)<br>
+  (贾东琴 等, 2011)<br>
+  (Fan et al., 2013)<br>
+  (武丽丽 等, 2008)<br>
+  (Myburg et al., 2014)<br>
+  (中国互联网络信息中心, 2012; Bawden, 2008)<br>
+</blockquote>
+
+<blockquote>
+  <div class="csl-bib-body hanging-indent">
+    <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.
+      <div class="csl-block">(Anonymous. 2011. [C]. 45-52.)</div>
+    </div>
+    <div class="csl-entry">库恩. 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.
+      <div class="csl-block">(Anonymous. 2012. [M].)</div>
+    </div>
+    <div class="csl-entry">武丽丽, 华一新, 张亚军, 等. 2008. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 33(5): 8-9.
+      <div class="csl-block">(Anonymous. 2008. [J]. 33(5): 8-9.)</div>
+    </div>
+    <div class="csl-entry">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展现状统计报告[R].
+      <div class="csl-block">(Anonymous. 2012. [R].)</div>
+    </div>
+    <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-entry">Fan X, Sommers C H. 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
+    <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+    <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
+  </div>
+</blockquote>
+
+
 ## [301manual-of-legal-citation-multi-lingual.csl]
 
 《[法学引注手册](https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5)》（2020 年版）。
@@ -5312,6 +5350,7 @@ WPS Office中添加Zotero工具条的方法<https://zhuanlan.zhihu.com/p/5802059
 [224journal-of-meteorological-research.csl]: 224journal-of-meteorological-research.csl
 [225acta-geologica-sinica.csl]: 225acta-geologica-sinica.csl
 [226communication-and-society.csl]: 226communication-and-society.csl
+[227science-of-science-and-management-of-s-and-t.csl]: 227science-of-science-and-management-of-s-and-t.csl
 [301manual-of-legal-citation-multi-lingual.csl]: 301manual-of-legal-citation-multi-lingual.csl
 [302historical-research.csl]: 302historical-research.csl
 [303gb-t-7714-2015-note-bilingual.csl]: 303gb-t-7714-2015-note-bilingual.csl
