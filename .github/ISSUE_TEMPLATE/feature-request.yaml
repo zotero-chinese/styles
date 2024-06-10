@@ -78,7 +78,6 @@ body:
   - type: input
     attributes:
       label: Zotero ID
-      placeholder: e.g. Acta Psychologica Sinica / Tsinghua University
     validations:
       required: false
 
