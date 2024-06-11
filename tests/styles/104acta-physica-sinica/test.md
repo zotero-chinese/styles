@@ -243,7 +243,7 @@ Undefined
   <div class="csl-entry">[44]	Troubling confessions (in Chinese) [Brooks P 2000 Troubling confessions: Speaking guilt in law and literature (Chicago: University of Chicago Press)]</div>
   <div class="csl-entry">[45]	Polo M MARSDEN W 1997 The travels of Marco Polo (Hertfordshire: Cumberland House)</div>
   <div class="csl-entry">[46]	Chamberlain H B 1993 <i>Mod. China</i> <b>19</b> 199</div>
-  <div class="csl-entry">[47]	Hunger and History (in Chinese) [Schfield R S 1983 Hunger and history: The impact of changing food production and consumption pattern on society Cambridge, Mass., 1983 第55–88页]</div>
+  <div class="csl-entry">[47]	Schfield R S 1983 Hunger and history: The impact of changing food production and consumption pattern on society Cambridge, Mass. , 1983 pp55–88</div>
   <div class="csl-entry">[48]	1969 Nixon to Kissinger</div>
 </div>
 

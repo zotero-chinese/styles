@@ -259,7 +259,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[31]	佚名．傅良佐致国务院电［A］．1917．</div>
   <div class="csl-entry">[32]	佚名．上海各路商界总联合会致外交部电［N］．民国日报，1925-08-14（4）．</div>
   <div class="csl-entry">[33]	佚名．西南中委反对在宁召开五全会［N］．民国日报，1933-08-11（第1张第4版）．</div>
-  <div class="csl-entry">[34]	佚名．党外人士座谈会记录［Z］．1950．</div>
+  <div class="csl-entry">[34]	佚名．党外人士座谈会记录［A］．1950．</div>
   <div class="csl-entry">[35]	佚名．旧唐书：卷．9［M］．标点本．北京：中华书局，1975．</div>
   <div class="csl-entry">[36]	佚名．方苞集：卷．6［M］．标点本．上海：上海古籍出版社，1983．</div>
   <div class="csl-entry">[37]	佚名．太平御览：卷．690［M］．影印本．北京：中华书局，1985．</div>

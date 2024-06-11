@@ -247,7 +247,7 @@ Qian等 （2009b）<br>
   <div class="csl-entry">[29]	佚名. 傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
   <div class="csl-entry">[30]	佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">[31]	佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
-  <div class="csl-entry">[32]	佚名. 党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950.</div>
+  <div class="csl-entry">[32]	佚名. 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">[33]	Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">[34]	佚名. 旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局, 1975.</div>
   <div class="csl-entry">[35]	佚名. 方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>

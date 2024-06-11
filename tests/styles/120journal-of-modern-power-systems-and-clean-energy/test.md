@@ -237,7 +237,7 @@ Undefined
   <div class="csl-entry">[38]	任东来, “对国际体制和国际制度的理解和翻译,” 天津, p. 9.</div>
   <div class="csl-entry">[39]	任东来, “对国际体制和国际制度的理解和翻译,” in 全球化与亚太区域化国际研讨会论文集, 天津, Jun. 2000, p. 9.</div>
   <div class="csl-entry">[40]	“傅良佐致国务院电,” Sep. 15, 1917.</div>
-  <div class="csl-entry">[41]	“党外人士座谈会记录,” Jul. 1950.</div>
+  <div class="csl-entry">[41]	“党外人士座谈会记录.” Jul. 1950.</div>
   <div class="csl-entry">[42]	王明亮, “关于中国学术期刊标准化数据库系统工程的进展.” Accessed: Oct. 04, 1998. [Online]. Available: <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a></div>
   <div class="csl-entry">[43]	扬之水, “两宋茶诗与茶事,” 《文学遗产通讯》（网络版试刊）2006年第1期. Accessed: Sep. 13, 2007. [Online]. Available: <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   <div class="csl-entry">[44]	P. Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press, 2000.</div>

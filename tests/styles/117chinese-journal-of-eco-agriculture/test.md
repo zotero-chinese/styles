@@ -249,7 +249,7 @@
   <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9; [C]. 9</div>
   <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9; [C]. 2000: 9</div>
   <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917; 北洋档案 1011—5961[A]. 1917</div>
-  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950; 李劼人档案[Z]. 1950</div>
+  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950; 李劼人档案[A]. 1950</div>
   <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>; [EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a></div>
   <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>; [EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   <div class="csl-entry">[44]	BROOKS P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000</div>

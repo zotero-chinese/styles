@@ -237,7 +237,7 @@ Undefined
   <div class="csl-entry">38. 	任东来. 对国际体制和国际制度的理解和翻译</div>
   <div class="csl-entry">39. 	任东来. 2000. 对国际体制和国际制度的理解和翻译</div>
   <div class="csl-entry">40. 	傅良佐致国务院电. 1917</div>
-  <div class="csl-entry">41. 	党外人士座谈会记录. 1950. Work. Pap.</div>
+  <div class="csl-entry">41. 	党外人士座谈会记录. 1950</div>
   <div class="csl-entry">42. 	王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展. <a href="https://doi.org/www.cajcd.cn/pub/wml.txt">www.cajcd.cn/pub/wml.txt</a></div>
   <div class="csl-entry">43. 	扬之水. 两宋茶诗与茶事. 《文学遗产通讯》（网络版试刊）2006年第1期. <a href="https://doi.org/www.literature.org.cn">www.literature.org.cn</a></div>
   <div class="csl-entry">44. 	Brooks P, 2000. <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press</div>
