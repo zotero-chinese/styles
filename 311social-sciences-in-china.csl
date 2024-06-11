@@ -17,7 +17,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-06-11T10:45:31+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -337,6 +337,10 @@
       <text variable="container-title" text-case="title" font-style="italic"/>
     </group>
   </macro>
+  <macro name="container-booklike-short-en">
+    <text term="in" suffix=" "/>
+    <text variable="container-title" text-case="title" font-style="italic"/>
+  </macro>
   <macro name="container-booklike-zh">
     <group delimiter="：">
       <names variable="editor">
@@ -364,6 +368,22 @@
         </choose>
       </group>
     </group>
+  </macro>
+  <macro name="container-booklike-short-zh">
+    <choose>
+      <if variable="container-title">
+        <text variable="container-title" prefix="《" suffix="》"/>
+        <choose>
+          <if type="classic" match="none">
+            <text macro="edition-zh" prefix="（" suffix="）"/>
+            <text macro="volume-zh"/>
+          </if>
+          <else-if variable="volume-title" match="none">
+            <text macro="volume-zh"/>
+          </else-if>
+        </choose>
+      </if>
+    </choose>
   </macro>
   <macro name="series-zh">
     <text variable="collection-title" prefix="《" suffix="》"/>
@@ -689,10 +709,18 @@
         <text macro="source-en"/>
       </if>
       <else>
-        <group delimiter=", ">
+        <!-- 再次引证时的项目简化 -->
+        <group delimiter=": ">
           <text macro="author-en"/>
-          <text macro="title-short-en"/>
-          <text macro="locator-en"/>
+          <group delimiter=", ">
+            <text macro="title-short-en"/>
+            <choose>
+              <if type="chapter paper-conference" match="any">
+                <text macro="container-booklike-short-en"/>
+              </if>
+            </choose>
+            <text macro="locator-en"/>
+          </group>
         </group>
       </else>
     </choose>
@@ -704,10 +732,17 @@
       </if>
       <else>
         <!-- 再次引证时的项目简化 -->
-        <group delimiter="，">
+        <group delimiter="：">
           <text macro="author-zh"/>
-          <text macro="title-short-zh"/>
-          <text macro="locator-zh"/>
+          <group delimiter="，">
+            <text macro="title-short-zh"/>
+            <choose>
+              <if type="chapter paper-conference" match="any">
+                <text macro="container-booklike-short-zh"/>
+              </if>
+            </choose>
+            <text macro="locator-zh"/>
+          </group>
         </group>
       </else>
     </choose>

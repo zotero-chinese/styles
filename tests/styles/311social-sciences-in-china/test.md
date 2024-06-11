@@ -6,11 +6,19 @@
 
 ### 引注
 
-Undefined
+<sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年。<br>
+<sup>2</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年，第325页。<br>
+<sup>3</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
+<sup>4</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55-88.<br>
+<sup>5</sup> 赵景深：《文坛忆旧》，第24页。<br>
+<sup>6</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，第326页。<br>
+<sup>7</sup> Peter Brooks: <i>Troubling Confessions</i>, p. 24.<br>
+<sup>8</sup> R. S. Schfield: “The Impact of Scarcity and Plenty on Population Change in England,” in <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, p. 326.<br>
 
 ### 参考文献表
 
-Undefined
+<div class="csl-bib-body second-field-align-flush">
+</div>
 
 ## 默认测试
 
@@ -19,12 +27,12 @@ Undefined
 <sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, vol. 96 (1996), p. 903.<br>
 <sup>2</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p. 260.<br>
 <sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>4</sup> I. Morri, <i>Why the West Rules for Now</i>, pp. 326-329.<br>
-<sup>5</sup> I. Morri, <i>Why the West Rules for Now</i>, pp. 326-329.<br>
-<sup>6</sup> I. Morri, <i>Why the West Rules for Now</i>, p. 260.<br>
-<sup>7</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
-<sup>8</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
-<sup>9</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第331页。<br>
+<sup>4</sup> I. Morri: <i>Why the West Rules for Now</i>, pp. 326-329.<br>
+<sup>5</sup> I. Morri: <i>Why the West Rules for Now</i>, pp. 326-329.<br>
+<sup>6</sup> I. Morri: <i>Why the West Rules for Now</i>, p. 260.<br>
+<sup>7</sup> 应松年、马怀德主编：《当代中国行政法的源流》，第330页。<br>
+<sup>8</sup> 应松年、马怀德主编：《当代中国行政法的源流》，第330页。<br>
+<sup>9</sup> 应松年、马怀德主编：《当代中国行政法的源流》，第331页。<br>
 
 ### GB/T 7714—2015 示例文献
 

@@ -26,7 +26,6 @@
 		"publisher": "Cambridge University Press",
 		"publisher-place": "Cambridge, Mass.",
 		"title": "The impact of scarcity and plenty on population change in England",
-		"title-short": "Hunger and History",
 		"author": [
 			{
 				"family": "Schfield",
@@ -846,6 +845,7 @@
 		"archive": "中共四川省委统战部档案室",
 		"archive_location": "李劼人档案",
 		"language": "zh-CN",
+		"note": "type: collection",
 		"title": "党外人士座谈会记录",
 		"issued": {
 			"date-parts": [
