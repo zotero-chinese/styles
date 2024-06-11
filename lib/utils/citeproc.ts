@@ -227,6 +227,19 @@ export function getCitationFormat(cslXml: CslXml) {
   ];
 }
 
-export function getSummary(cslXml: CslXml) {
-  return cslXml.getNodesByName(cslXml.dataObj, "summary")[0]?.children[0];
+export function getSummary(cslXml: CslXml): string {
+  return cslXml.getNodesByName(cslXml.dataObj, "summary")[0]
+    ?.children[0] as string;
+}
+
+export function getUpdated(cslXml: CslXml): string {
+  return cslXml.getNodesByName(cslXml.dataObj, "updated")[0]
+    ?.children[0] as string;
+}
+
+export function getRight(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "rights")[0]
+    ?.children[0] as string;
+}
+
 }

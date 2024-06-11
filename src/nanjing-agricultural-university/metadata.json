@@ -10,8 +10,8 @@
   "author": [],
   "contributor": [],
   "citation_format": "author-date",
-  "summary": "",
-  "updated": "",
+  "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。",
+  "updated": "2024-06-06T22:19:17+08:00",
   "citations": "（Andolfo et al., 2014）<br>\n（Bethke et al., 2016）<br>\n（杨安钢等，2001）<br>\n（杨月等，2014）<br>\n（曹向锋，2010）<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">曹向锋．外来入侵植物黄顶菊在中国潜在适生区预测及其风险评估［D］．南京：南京农业大学，2010：88－120．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">杨安钢，毛积芳，药立波．生物化学与分子生物学实验技术［M］．北京：高等教育出版社，2001：28－59．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">杨月，刘兵，刘小军，等．小麦生育期模拟模型的比较研究［J］．南京农业大学学报，2014，37（1）：6－14．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Andolfo G, Jupe F, Witek K, et al. Defining the full tomato NB-LRR resistance gene repertoire using genomic and cDNA RenSeq[J]. BMC plant biology, 2014, 14: 120.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">Bethke G, Thao A, Xiong G, et al. Pectin biosynthesis is critical for cell wall integrity and immunity in arabidopsis thaliana[J]. The Plant Cell, 2016, 28(2): 537-556.</div>\n  </div>\n</div>",
   "tags": [

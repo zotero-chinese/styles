@@ -16,6 +16,8 @@ import {
   make_bibliography,
   getStyleClass,
   getItemResults,
+  getSummary,
+  getUpdated,
 } from "./utils/citeproc.js";
 
 import {
@@ -61,8 +63,8 @@ export function generate(cslFilePath: string): StyleFullResult {
     contributor: [],
     citation_format,
     field: getField(cslXml),
-    summary: "",
-    updated: "",
+    summary: getSummary(cslXml),
+    updated: getUpdated(cslXml),
   };
 
   // CSL-JSON CitationItems
