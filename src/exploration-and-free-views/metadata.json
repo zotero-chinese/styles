@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/exploration-and-free-views",
   "link_self": "http://www.zotero.org/styles/exploration-and-free-views",
   "link_documentation": "http://www.tsyzm.com/CN/column/column6.shtml",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "humanities",

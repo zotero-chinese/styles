@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/hainan-university",
   "link_template": "http://www.zotero.org/styles/jinan-university",
   "link_documentation": "https://www.doc88.com/p-1813465766850.html",
-  "author": [],
+  "author": [
+    {
+      "name": "不秃燃的小老弟"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

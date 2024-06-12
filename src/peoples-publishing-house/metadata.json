@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/peoples-publishing-house",
   "link_template": "http://www.zotero.org/styles/social-sciences-in-china",
   "link_documentation": "http://www.pph166.com/",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "generic-base",

@@ -7,8 +7,19 @@
   "link_self": "http://www.zotero.org/styles/zhejiang-university-chinese-punctuation",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "http://grs.zju.edu.cn/redir.php?catalog_id=10038&object_id=12782",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "yc"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "updated": "2024-06-06T13:18:48+08:00",

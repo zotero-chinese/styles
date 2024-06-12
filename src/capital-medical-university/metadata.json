@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/capital-medical-university",
   "link_template": "http://www.zotero.org/styles/019gb-t-7714-1987-numeric-bilingual",
   "link_documentation": "https://yjsh.ccmu.edu.cn/xwgz/lwdb/65d371968cab4a54ad9a1531f3538700.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

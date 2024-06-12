@@ -242,4 +242,26 @@ export function getRight(cslXml: CslXml) {
     ?.children[0] as string;
 }
 
+export function getAuthors(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "author").map((v) => {
+    return {
+      name: (
+        v.children.filter(
+          (n) => typeof n !== "string" && n.name === "name"
+        )[0] as Chind
+      )?.children[0] as string,
+    };
+  });
+}
+
+export function getContributors(cslXml: CslXml) {
+  return cslXml.getNodesByName(cslXml.dataObj, "contributor").map((v) => {
+    return {
+      name: (
+        v.children.filter(
+          (n) => typeof n !== "string" && n.name === "name"
+        )[0] as Chind
+      )?.children[0] as string,
+    };
+  });
 }

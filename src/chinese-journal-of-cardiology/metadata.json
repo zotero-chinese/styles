@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/chinese-journal-of-cardiology",
   "link_template": "http://www.zotero.org/styles/chinese-gb7714-2005-numeric",
   "link_documentation": "http://www.cjcv.org.cn/author/4323.jhtml",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

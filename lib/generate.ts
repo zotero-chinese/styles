@@ -18,6 +18,8 @@ import {
   getItemResults,
   getSummary,
   getUpdated,
+  getAuthors,
+  getContributors,
 } from "./utils/citeproc.js";
 
 import {
@@ -59,8 +61,8 @@ export function generate(cslFilePath: string): StyleFullResult {
     link_self: getRefSelf(cslXml),
     link_template: getRefTemplate(cslXml),
     link_documentation: getRefDocument(cslXml),
-    author: [],
-    contributor: [],
+    author: getAuthors(cslXml),
+    contributor: getContributors(cslXml),
     citation_format,
     field: getField(cslXml),
     summary: getSummary(cslXml),

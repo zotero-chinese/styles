@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/educational-history-studies",
   "link_template": "http://www.zotero.org/styles/social-sciences-in-china",
   "link_documentation": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JYUY202001020",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "history",

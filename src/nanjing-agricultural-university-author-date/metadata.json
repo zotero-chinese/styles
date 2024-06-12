@@ -7,8 +7,19 @@
   "link_self": "http://www.zotero.org/styles/nanjing-agricultural-university-author-date",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "https://grasch.njau.edu.cn/info/1011/1839.htm",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "yc"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "updated": "2024-06-06T13:18:48+08:00",

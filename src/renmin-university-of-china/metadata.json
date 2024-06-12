@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/renmin-university-of-china",
   "link_self": "http://www.zotero.org/styles/renmin-university-of-china",
   "link_documentation": "https://grs.ruc.edu.cn/info/1140/2509.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

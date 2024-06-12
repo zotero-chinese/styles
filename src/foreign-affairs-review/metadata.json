@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/foreign-affairs-review",
   "link_template": "http://www.zotero.org/styles/journal-of-world-economics-and-politics",
   "link_documentation": "https://wjxy.cbpt.cnki.net/WKH/WebPublication/index.aspx",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "note",
   "field": "political_science",
   "updated": "2024-06-06T13:18:48+08:00",

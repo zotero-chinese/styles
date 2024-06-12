@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/new-finance",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
   "link_documentation": "https://xjro.cbpt.cnki.net/WKC/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "social_science",

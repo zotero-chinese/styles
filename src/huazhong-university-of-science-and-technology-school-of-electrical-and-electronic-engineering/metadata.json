@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering",
   "link_template": "http://www.zotero.org/styles/003gb-t-7714-2015-numeric-bilingual-no-url-doi",
   "link_documentation": "https://seee.hust.edu.cn/",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "engineering",

@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/modern-chinese-literature-studies",
   "link_self": "http://www.zotero.org/styles/modern-chinese-literature-studies",
   "link_documentation": "http://www.zgxdwxyjck.cn/",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "literature",

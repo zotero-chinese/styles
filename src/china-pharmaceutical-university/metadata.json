@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/china-pharmaceutical-university",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "http://jwc.cpu.edu.cn/23/27/c924a140071/page.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

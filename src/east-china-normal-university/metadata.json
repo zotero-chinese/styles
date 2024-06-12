@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/east-china-normal-university",
   "link_template": "http://www.zotero.org/styles/jinan-university",
   "link_documentation": "http://phy.ecnu.edu.cn/c2/3f/c24394a246335/page.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "不秃燃的小老弟"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

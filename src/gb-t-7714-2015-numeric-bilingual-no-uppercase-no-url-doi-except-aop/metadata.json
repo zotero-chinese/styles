@@ -7,8 +7,19 @@
   "link_self": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi-except-aop",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "牛耕田"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "numeric",
   "field": "generic-base",
   "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 网络首发（advance online publication, AOP）文章显示“/OL”载体标识、DOI 或 URL；4. 其余的仅纯电子资源显示“/OL”载体标识、引用日期、URL，无 DOI。",

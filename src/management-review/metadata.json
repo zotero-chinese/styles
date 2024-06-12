@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/management-review",
   "link_self": "http://www.zotero.org/styles/management-review",
   "link_documentation": "http://journal05.magtech.org.cn/jweb_glpl/CN/column/column6.shtml",
-  "author": [],
+  "author": [
+    {
+      "name": "王小布"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "engineering",

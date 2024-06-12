@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/advances-in-psychological-science",
   "link_template": "http://www.zotero.org/styles/apa",
   "link_documentation": "https://journal.psych.ac.cn/xlkxjz/CN/item/downloadFile.jsp?filedisplay=20220223114547.pdf",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "psychology",

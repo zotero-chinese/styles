@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/chongqing-university-of-posts-and-telecommunications",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual",
   "link_documentation": "http://yjs.cqupt.edu.cn/info/1194/4721.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

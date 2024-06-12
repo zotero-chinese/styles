@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/shanghai-university",
   "link_template": "http://www.zotero.org/styles/chinas-industrial-economics",
   "link_documentation": "https://gs.shu.edu.cn/pygl.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Antares"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "numeric",

@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/southwestern-university-of-finance-and-ecnomics",
   "link_template": "http://www.zotero.org/styles/journal-of-management-world",
   "link_documentation": "https://gs.swufe.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1975186424&wbfileid=7C9185235E6B5CD0FDF7311006495CF6",
-  "author": [],
+  "author": [
+    {
+      "name": "Chenhao Liao"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "social_science",

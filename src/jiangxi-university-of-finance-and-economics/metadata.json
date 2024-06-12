@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/jiangxi-university-of-finance-and-economics",
   "link_template": "http://www.zotero.org/styles/jinan-university",
   "link_documentation": "http://grs.jxufe.edu.cn/news-show-3761.html",
-  "author": [],
+  "author": [
+    {
+      "name": "不秃燃的小老弟"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

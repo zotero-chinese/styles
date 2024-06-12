@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/literary-review",
   "link_self": "http://www.zotero.org/styles/literary-review",
   "link_documentation": "http://wxpl.ajcass.org/Home/Index",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "literature",

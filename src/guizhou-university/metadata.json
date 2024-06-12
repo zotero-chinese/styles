@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/guizhou-university",
   "link_template": "http://www.zotero.org/styles/comparative-economic-and-social-systems",
   "link_documentation": "http://gs.gzu.edu.cn/2021/0518/c11830a151778/page.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "不秃燃的小老弟"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/university-of-chinese-academy-of-sciences-author-date",
   "link_template": "http://www.zotero.org/styles/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
   "link_documentation": "http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "summary": "《中国科学院大学研究生学位论文撰写规范指导意见》（2022 年 3 月 7 日修订）著者-出版年制",

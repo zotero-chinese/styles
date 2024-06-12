@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/international-security-studies",
   "link_self": "http://www.zotero.org/styles/international-security-studies",
   "link_documentation": "http://gjaqyj.cnjournals.com/gjaqyj/ch/first_menu.aspx?parent_id=20130701085855001",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "political_science",

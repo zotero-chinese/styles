@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/northwestern-polytechnical-university",
   "link_template": "http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "https://gs.nwpu.edu.cn/info/2283/15345.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/cas-like-thesis",
   "link_self": "http://www.zotero.org/styles/cas-like-thesis",
   "link_documentation": "http://yjs.hzau.edu.cn/info/1202/3774.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

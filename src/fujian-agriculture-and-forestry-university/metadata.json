@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/fujian-agriculture-and-forestry-university",
   "link_template": "http://www.zotero.org/styles/jinan-university",
   "link_documentation": "https://yjsy.fafu.edu.cn/fa/05/c8301a195077/page.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "不秃燃的小老弟"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

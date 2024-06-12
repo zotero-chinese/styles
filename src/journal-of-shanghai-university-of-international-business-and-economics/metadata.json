@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/journal-of-shanghai-university-of-international-business-and-economics",
   "link_template": "http://www.zotero.org/styles/journal-of-shanghai-university-of-international-business-and-economics",
   "link_documentation": "https://xuebao.suibe.edu.cn/shdwjmdxxb/site/menu/20201105133131001",
-  "author": [],
+  "author": [
+    {
+      "name": "Su Wen"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

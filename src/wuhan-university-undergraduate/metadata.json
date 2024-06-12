@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/wuhan-university-undergraduate",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual",
   "link_documentation": "https://civ.whu.edu.cn/__local/7/65/BE/EBE513F22AD878EAE587C0D0081_14AFF292_28400.doc?e=..doc",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

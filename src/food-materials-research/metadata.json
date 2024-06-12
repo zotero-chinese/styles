@@ -6,8 +6,28 @@
   "id": "http://www.zotero.org/styles/food-materials-research",
   "link_self": "http://www.zotero.org/styles/food-materials-research",
   "link_documentation": "https://www.maxapress.com/fmr/for_authors",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "Minyi Han"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Michael Berkowitz"
+    },
+    {
+      "name": "Julian Onions"
+    },
+    {
+      "name": "Rintze Zelle"
+    },
+    {
+      "name": "Sebastian Karcher"
+    },
+    {
+      "name": "Aurimas Vinckevicius"
+    }
+  ],
   "citation_format": "numeric",
   "field": "generic-base",
   "updated": "2023-02-14T07:35:26+00:00",

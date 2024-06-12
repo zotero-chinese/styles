@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/journal-of-marketing-science",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "http://www.jms.org.cn:8081/jms/fileup/jms/ITEM/20220923110330.pdf",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

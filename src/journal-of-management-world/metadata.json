@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/journal-of-management-world",
   "link_template": "http://www.zotero.org/styles/social-sciences-in-china",
   "link_documentation": "http://www.mwm.net.cn/Web/Format",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "social_science",
   "updated": "2024-06-06T13:18:48+08:00",

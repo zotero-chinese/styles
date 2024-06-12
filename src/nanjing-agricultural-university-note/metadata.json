@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/nanjing-agricultural-university-note",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "https://grasch.njau.edu.cn/info/1011/4128.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "generic-base",

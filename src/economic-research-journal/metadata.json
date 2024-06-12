@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/economic-research-journal",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "http://www.erj.cn/cn/Info.aspx?m=20100913105301153616&page=1",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "social_science",
   "summary": "Economic Research Journal author-date style",

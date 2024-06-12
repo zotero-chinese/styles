@@ -7,8 +7,19 @@
   "link_self": "http://www.zotero.org/styles/southwest-university",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "洋芋"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "updated": "2024-06-06T13:18:48+08:00",

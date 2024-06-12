@@ -7,8 +7,22 @@
   "link_self": "http://www.zotero.org/styles/northwest-a-and-f-university",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "https://yjshy.nwafu.edu.cn/xwgl/xwsy/xwlwxzgf/8ae4dda6e6be4ac6895f509d84bc68c3.htm",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "YuYuYu"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    },
+    {
+      "name": "Jared Hu"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "summary": "《西北农林科技大学研究生学位论文撰写规范指导意见》（2024-03-14）附件2. 参考文献著录规则",

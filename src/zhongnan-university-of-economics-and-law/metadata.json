@@ -6,8 +6,19 @@
   "id": "http://www.zotero.org/styles/zhongnan-university-of-economics-and-law",
   "link_self": "http://www.zotero.org/styles/zhongnan-university-of-economics-and-law",
   "link_documentation": "http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "李刚"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "summary": "zuel-thesis中南财经政法大学学位论文",

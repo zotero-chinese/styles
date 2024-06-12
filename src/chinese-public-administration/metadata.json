@@ -7,8 +7,19 @@
   "link_self": "http://www.zotero.org/styles/chinese-public-administration",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
   "link_documentation": "http://www.cpaj.com.cn/ggzz_jj.shtml",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    },
+    {
+      "name": "BBbear"
+    }
+  ],
   "citation_format": "numeric",
   "field": "political_science",
   "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名缩写不加点；3. 中文不加页码；4. 英文题目为单词首字母大写，包括of, to等，需要手动改为小写；英文期刊名为斜体。",

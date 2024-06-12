@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/journal-of-plant-protection",
   "link_self": "http://www.zotero.org/styles/journal-of-plant-protection",
   "link_documentation": "http://www.zwbhxb.com.cn/ch/first_menu.aspx?parent_id=20081122190830001",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "engineering",

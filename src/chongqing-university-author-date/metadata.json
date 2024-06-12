@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/chongqing-university-author-date",
   "link_template": "http://www.zotero.org/styles/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
   "link_documentation": "http://graduate.cqu.edu.cn/xwsy/xwsq.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "summary": "重庆大学博士、硕士学位论文格式标准（2023年修订）",

@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/world-history",
   "link_self": "http://www.zotero.org/styles/world-history",
   "link_documentation": "http://sjlsbjb.ajcass.org/Home/Show/?ChannelID=11735",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "history",

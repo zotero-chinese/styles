@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/china-economic-quarterly",
   "link_self": "http://www.zotero.org/styles/china-economic-quarterly",
   "link_documentation": "https://www.nsd.pku.edu.cn/cbw/jjxjk/tgzg/250625.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "social_science",

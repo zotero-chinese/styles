@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-cyber-science-and-engineering",
   "link_template": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation",
   "link_documentation": "http://cse.hust.edu.cn/yjsjy/wjxz.htm",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "shandianchengzi"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "numeric",
   "field": "generic-base",
   "summary": "中文文献（含图书、期刊论文、会议论文、专利等）：作者按中文写法，姓在前、名在后；英文文献（含图书、期刊论文、会议论文、专利等）：作者按英文习惯写法，名在前、姓在后，名和姓均用全称，如果作者名超过两个单词，中间名使用简称，如“C.”，不要混用。3人以内列出全部作者，3人以上列出3人再加“等”（英文加“et al”）。每个参考文献的最后不加标点符号。",

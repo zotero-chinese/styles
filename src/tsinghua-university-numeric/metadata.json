@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/tsinghua-university-numeric",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
   "link_documentation": "http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&parentColumnId=0010506&itemSeq=5365",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

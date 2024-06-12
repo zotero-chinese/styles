@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/biodiversity-science",
   "link_self": "http://www.zotero.org/styles/biodiversity-science",
   "link_documentation": "https://www.biodiversity-science.net/UserFiles/File/%E3%80%8A%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7%E3%80%8B2016%E5%B9%B4%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E4%BF%AE%E6%94%B9%E6%A0%BC%E5%BC%8F.pdf",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "biology",

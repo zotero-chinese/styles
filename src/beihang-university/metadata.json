@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/beihang-university",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2005-numeric-bilingual",
   "link_documentation": "http://graduate.buaa.edu.cn/info/1039/7831.htm",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "numeric",
   "field": "generic-base",
   "updated": "2024-06-03T23:57:19+08:00",

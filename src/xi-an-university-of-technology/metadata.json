@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/xi-an-university-of-technology",
   "link_template": "http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "https://gitee.com/link?target=https%3A%2F%2Fyjsy.xaut.edu.cn%2Finfo%2F1080%2F1732.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

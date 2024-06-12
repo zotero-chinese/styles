@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-tongji-medical-college",
   "link_template": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation",
   "link_documentation": "http://jcyxy.tjmu.edu.cn/info/1573/6839.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

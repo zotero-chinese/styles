@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/university-of-chinese-academy-of-sciences-numeric",
   "link_template": "http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",

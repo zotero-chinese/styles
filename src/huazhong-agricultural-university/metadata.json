@@ -6,8 +6,16 @@
   "id": "http://www.zotero.org/styles/huazhong-agricultural-university",
   "link_self": "http://www.zotero.org/styles/huazhong-agricultural-university",
   "link_documentation": "http://yjs.hzau.edu.cn/info/1202/3774.htm",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Northword"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "summary": "hzau-thesis华中农业大学学位论文",

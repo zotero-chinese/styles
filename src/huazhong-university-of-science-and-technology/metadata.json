@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
   "link_documentation": "http://gs.hust.edu.cn/info/1041/5462.htm",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "numeric",
   "field": "generic-base",
   "summary": "理工科-博士-华中科技大学学位论文参考模板（2023-02-10 发布）",

@@ -6,8 +6,37 @@
   "id": "http://www.zotero.org/styles/ieee-bl",
   "link_self": "http://www.zotero.org/styles/ieee-bl",
   "link_documentation": "http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "Michael Berkowitz"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Julian Onions"
+    },
+    {
+      "name": "Rintze Zelle"
+    },
+    {
+      "name": "Stephen Frank"
+    },
+    {
+      "name": "Sebastian Karcher"
+    },
+    {
+      "name": "Giuseppe Silano"
+    },
+    {
+      "name": "Patrick O'Brien"
+    },
+    {
+      "name": "Brenton M. Wiernik"
+    },
+    {
+      "name": "Oliver Couch"
+    }
+  ],
   "citation_format": "numeric",
   "field": "engineering",
   "summary": "IEEE style as per the 2021 guidelines, V 01.29.2021.",

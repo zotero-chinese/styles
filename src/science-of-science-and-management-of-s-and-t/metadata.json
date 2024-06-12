@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/science-of-science-and-management-of-s-and-t",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "https://www.ssstm.org/CN/column/column6.shtml",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

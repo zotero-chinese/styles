@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/journal-of-china-agricultural-university",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "http://zgnydxxb.ijournals.cn/zgnydxxb/ch/first_menu.aspx?parent_id=20161229035248001",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "science",

@@ -7,8 +7,28 @@
   "link_self": "http://www.zotero.org/styles/elsevier-harvard-custom",
   "link_template": "http://www.zotero.org/styles/ecology-letters",
   "link_documentation": "http://www.elsevier.com/journals/biological-conservation/0006-3207/guide-for-authors#68000",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "David Kaplan"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Simon Kornblith"
+    },
+    {
+      "name": "Bruce D'Arcus"
+    },
+    {
+      "name": "Curtis M. Humphrey"
+    },
+    {
+      "name": "Richard Karnesky"
+    },
+    {
+      "name": "Sebastian Karcher"
+    }
+  ],
   "citation_format": "author-date",
   "field": "biology",
   "updated": "2023-12-21T01:16:55+08:00",

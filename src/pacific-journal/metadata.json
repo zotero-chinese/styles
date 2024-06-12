@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/pacific-journal",
   "link_self": "http://www.zotero.org/styles/pacific-journal",
   "link_documentation": "http://www.pacificjournal.com.cn/CN/column/column41.shtml",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "humanities",

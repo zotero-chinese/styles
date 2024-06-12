@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/chinas-industrial-economics",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "http://ciejournal.ajcass.org/CommonBlock/SiteContentDetail?contentID=147144",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

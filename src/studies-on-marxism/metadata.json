@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/studies-on-marxism",
   "link_self": "http://www.zotero.org/styles/studies-on-marxism",
   "link_documentation": "http://www.mkszyyj.net/Show/11787?itemid=47369",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "political_science",

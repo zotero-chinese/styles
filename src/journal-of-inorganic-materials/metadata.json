@@ -7,8 +7,16 @@
   "link_self": "http://www.zotero.org/styles/journal-of-inorganic-materials",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi",
   "link_documentation": "http://www.jim.org.cn/CN/column/item63.shtml",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "Northword"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "numeric",
   "field": "chemistry",
   "summary": "《无机材料学报》写作及排版规范",

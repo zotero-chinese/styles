@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/south-china-agricultural-university-undergraduate",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual",
   "link_documentation": "https://jwc.scau.edu.cn/2016/0331/c5197a147427/page.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

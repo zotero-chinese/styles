@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/literary-and-artistic-contention",
   "link_self": "http://www.zotero.org/styles/literary-and-artistic-contention",
   "link_documentation": "http://www.wenyizhengming.com/danye.php?SortID=178&pid=35",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "literature",

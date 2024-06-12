@@ -5,8 +5,16 @@
   "title": "北京理工大学",
   "id": "http://www.zotero.org/styles/beijing-institute-of-technology",
   "link_self": "http://www.zotero.org/styles/beijing-institute-of-technology",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "jiayoudangdang"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "jiayoudangdang"
+    }
+  ],
   "citation_format": "numeric",
   "field": "generic-base",
   "summary": "北京理工大学引用样式",

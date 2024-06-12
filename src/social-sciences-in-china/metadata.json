@@ -6,8 +6,16 @@
   "id": "http://www.zotero.org/styles/social-sciences-in-china",
   "link_self": "http://www.zotero.org/styles/social-sciences-in-china",
   "link_documentation": "http://sscp.cssn.cn/tgxt/zgshkxtg/",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "note",
   "field": "humanities",
   "updated": "2024-06-06T13:18:48+08:00",

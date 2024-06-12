@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/business-management-journal",
   "link_self": "http://www.zotero.org/styles/business-management-journal",
   "link_documentation": "http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

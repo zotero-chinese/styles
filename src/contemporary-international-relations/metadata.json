@@ -5,7 +5,11 @@
   "title": "现代国际关系",
   "id": "http://www.zotero.org/styles/contemporary-international-relations",
   "link_self": "http://www.zotero.org/styles/contemporary-international-relations",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "political_science",

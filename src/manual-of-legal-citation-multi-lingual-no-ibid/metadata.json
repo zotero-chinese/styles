@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/manual-of-legal-citation-multi-lingual-no-ibid",
   "link_template": "http://www.zotero.org/styles/bluebook-law-review",
   "link_documentation": "https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5",
-  "author": [],
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "law",

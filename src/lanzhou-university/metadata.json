@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/lanzhou-university",
   "link_self": "http://www.zotero.org/styles/lanzhou-university",
   "link_documentation": "https://ge.lzu.edu.cn/yjsxw/upload/files/20230404/61cd8e5356084aa28c55ed238ba871bc.pdf",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "engineering",

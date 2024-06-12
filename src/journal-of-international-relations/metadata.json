@@ -6,7 +6,11 @@
   "id": "http://www.zotero.org/styles/journal-of-international-relations",
   "link_self": "http://www.zotero.org/styles/journal-of-international-relations",
   "link_documentation": "https://iir.sass.org.cn/2019/0717/c1653a42491/page.htm",
-  "author": [],
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
   "contributor": [],
   "citation_format": "note",
   "field": "political_science",

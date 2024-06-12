@@ -7,8 +7,22 @@
   "link_self": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "牛耕田"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Raymond"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。",
   "updated": "2024-06-06T22:19:17+08:00",

@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/beijing-normal-university",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "http://bs.bnu.edu.cn/docs/20150408171708698394.pdf",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "summary": "北京师范大学硕士论文样式",

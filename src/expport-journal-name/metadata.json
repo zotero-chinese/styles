@@ -5,7 +5,11 @@
   "title": "导出期刊名称Export Journal Name",
   "id": "http://www.zotero.org/styles/expport-journal-name",
   "link_self": "http://www.zotero.org/styles/export-author-journal-year-vol-issue-pages",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",

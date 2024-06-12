@@ -7,8 +7,19 @@
   "link_self": "http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
-  "author": [],
-  "contributor": [],
+  "author": [
+    {
+      "name": "heromyth"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Kristene Collins"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "author-date",
   "field": "generic-base",
   "summary": "按照语言显示“等”或“et al.”",

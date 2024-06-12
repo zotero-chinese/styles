@@ -7,7 +7,11 @@
   "link_self": "http://www.zotero.org/styles/scientia-agricultura-sinica",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
   "link_documentation": "https://www.chinaagrisci.com/CN/column/column6.shtml",
-  "author": [],
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",
