@@ -276,7 +276,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名.1917.傅良佐致国务院电[A].中国第二历史档案馆.</div>
   <div class="csl-entry">佚名.1925-08-14.上海各路商界总联合会致外交部电[N].民国日报,4.</div>
   <div class="csl-entry">佚名.1933-08-11.西南中委反对在宁召开五全会[N].民国日报,第1张第4版.</div>
-  <div class="csl-entry">佚名.1950.党外人士座谈会记录[Z].中共四川省委统战部档案室.</div>
+  <div class="csl-entry">佚名.1950.党外人士座谈会记录[A].中共四川省委统战部档案室.</div>
   <div class="csl-entry">Anon. 1969. Nixon to Kissinger[A]. National Archives II, College Park, MD.</div>
   <div class="csl-entry">佚名.1975.旧唐书:卷 9 玄宗纪下[M].标点本.北京:中华书局.</div>
   <div class="csl-entry">佚名.1983.方苞集:卷 6 答程夔州书[M].标点本.上海:上海古籍出版社.</div>

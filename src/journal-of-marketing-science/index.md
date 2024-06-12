@@ -676,8 +676,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[31]	Anonymous. 1933. 西南中委反对在宁召开五全会[N]，民国日报, : 第1张第4版. .
     <div class="csl-block">anonymous. 1933. 西南中委反对在宁召开五全会[N]，民国日报, : 第1张第4版. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[32]	Anonymous. 1950. 党外人士座谈会记录[Z].
-    <div class="csl-block">anonymous. 1950. 党外人士座谈会记录[Z] (In Chinese)</div>
+  <div class="csl-entry">[32]	Anonymous. 1950. 党外人士座谈会记录[A].
+    <div class="csl-block">anonymous. 1950. 党外人士座谈会记录[A] (In Chinese)</div>
   </div>
   <div class="csl-entry">[33]	Anonymous. 1969. Nixon to Kissinger[A](1969-02-01).
     <div class="csl-block">anonymous. 1969. Nixon to Kissinger[A](1969-02-01) (In Chinese)</div>
