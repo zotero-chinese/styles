@@ -677,7 +677,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名. 党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名. 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>

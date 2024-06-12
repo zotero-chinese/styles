@@ -678,7 +678,7 @@
     <div class="csl-left-margin">40. </div><div class="csl-right-inline">傅良佐致国务院电. 1917</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">41. </div><div class="csl-right-inline">党外人士座谈会记录. 1950. Work. Pap.</div>
+    <div class="csl-left-margin">41. </div><div class="csl-right-inline">党外人士座谈会记录. 1950</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">42. </div><div class="csl-right-inline">王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展. <a href="https://doi.org/www.cajcd.cn/pub/wml.txt">www.cajcd.cn/pub/wml.txt</a></div>

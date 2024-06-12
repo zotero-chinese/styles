@@ -678,7 +678,7 @@
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">傅良佐致国务院电：北洋档案 1011—5961［A］．中国第二历史档案馆，1917．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">党外人士座谈会记录：李劼人档案［Z］．中共四川省委统战部档案室，1950．</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">党外人士座谈会记录：李劼人档案［A］．中共四川省委统战部档案室，1950．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮．关于中国学术期刊标准化数据库系统工程的进展［EB/OL］．（1998-08-16）［1998-10-04］．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>．</div>

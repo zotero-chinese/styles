@@ -722,7 +722,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">46.</div><div class="csl-right-inline">傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">47.</div><div class="csl-right-inline">党外人士座谈会记录: 李劼人档案[Z]. 中共四川省委统战部档案室, 1950.</div>
+    <div class="csl-left-margin">47.</div><div class="csl-right-inline">党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">48.</div><div class="csl-right-inline">Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>

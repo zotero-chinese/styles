@@ -678,7 +678,7 @@
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">“傅良佐致国务院电”, 9月 15, 1917.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">“党外人士座谈会记录”, 7月 1950.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">“党外人士座谈会记录”. 7月 1950.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮, “关于中国学术期刊标准化数据库系统工程的进展”, 8月 16, 1998. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (见于 10月 04, 1998).</div>

@@ -696,7 +696,7 @@
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B 1993 <i>Mod. China</i> <b>19</b> 199</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Hunger and History (in Chinese) [Schfield R S 1983 Hunger and history: The impact of changing food production and consumption pattern on society Cambridge, Mass., 1983 第55–88页]</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Schfield R S 1983 Hunger and history: The impact of changing food production and consumption pattern on society Cambridge, Mass. , 1983 pp55–88</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[48]</div><div class="csl-right-inline">1969 Nixon to Kissinger</div>
