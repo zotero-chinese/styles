@@ -1,0 +1,562 @@
+[
+	{
+		"id": "ss:01",
+		"type": "book",
+		"collection-title": "思想译丛",
+		"event-place": "北京",
+		"ISBN": "978-7-5039-2080-6",
+		"language": "zh-CN",
+		"number-of-pages": "224",
+		"publisher": "文化艺术出版社",
+		"publisher-place": "北京",
+		"title": "时尚的哲学",
+		"URL": "https://book.douban.com/subject/1003013/",
+		"author": [
+			{
+				"family": "齐美尔",
+				"given": ""
+			}
+		],
+		"translator": [
+			{
+				"family": "费",
+				"given": "勇"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "ss:02",
+		"type": "book",
+		"event-place": "Cambridge",
+		"ISBN": "978-0-521-81213-9",
+		"language": "en-US",
+		"number-of-pages": "298",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"title": "The Moral Fundations of Trust",
+		"author": [
+			{
+				"family": "Uslaner",
+				"given": "Eric M."
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "ss:03",
+		"type": "book",
+		"collection-title": "人文与社会译丛",
+		"event-place": "北京",
+		"ISBN": "978-7-80657-029-6",
+		"language": "zh-CN",
+		"number-of-pages": "155 页",
+		"publisher": "译林出版社",
+		"publisher-place": "北京",
+		"title": "现代性的后果",
+		"URL": "https://book.douban.com/subject/1083052/",
+		"author": [
+			{
+				"family": "吉登斯",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2000", 2]]
+		}
+	},
+	{
+		"id": "ss:04",
+		"type": "article-journal",
+		"container-title": "中国社会科学",
+		"ISSN": "1002-4921",
+		"issue": "3",
+		"language": "zh-CN",
+		"page": "45-51",
+		"title": "信任及其伦理意义",
+		"URL": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=ZSHK201803005&v=MjA3MjVSNFQ2ajU0TzN6cXFCdEdGckNVUjdpZlllZG1GQ3ZtVTczSVB6N0RaYkc0SDluTXJJOUZZWVFLREg4NHY=&uid=WEEvREcwSlJHSldSdmVpa3VEenplSGg1WHlEeXNOS3gxc0ZKa0NwSUNyOD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!",
+		"author": [
+			{
+				"family": "杨",
+				"given": "国荣"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "ss:05",
+		"type": "article-journal",
+		"container-title": "社会科学研究",
+		"ISSN": "1000-4769",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "104-111",
+		"title": "现阶段我国医患矛盾的类型、特征与对策",
+		"URL": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=SHYJ201406015&v=MjQxNDM0dlI0VDZqNTRPM3pxcUJ0R0ZyQ1VSN2lmWWVkbUZDdm1VNzNJTmlYU1pMRzRIOVhNcVk5RVlZUUtESDg=&uid=WEEvREcwSlJHSldSdmVpa3VEenplSGg1WHlEeXNOS3gxc0ZKa0NwSUNyOD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!",
+		"author": [
+			{
+				"literal": "朱力"
+			},
+			{
+				"literal": "袁迎春"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2014"]]
+		}
+	},
+	{
+		"id": "ss:06",
+		"type": "article-journal",
+		"container-title": "American Sociological Review",
+		"DOI": "10/dz4hgz",
+		"ISSN": "0003-1224",
+		"issue": "4",
+		"language": "en-US",
+		"note": "publisher: [American Sociological Association, Sage Publications, Inc.]",
+		"page": "512",
+		"title": "Regression Models with Ordinal Variables",
+		"URL": "https://www.jstor.org/stable/2095465",
+		"volume": "49",
+		"author": [
+			{
+				"family": "Winship",
+				"given": "Christopher"
+			},
+			{
+				"family": "Mare",
+				"given": "Robert D."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["1984", 8]]
+		}
+	},
+	{
+		"id": "ss:07",
+		"type": "article-journal",
+		"container-title": "社会学研究",
+		"ISSN": "1002-5936",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "183-201+230",
+		"title": "“约束—内化”vs.反思性实践认知——社会工作伦理守则与留职意愿关系研究",
+		"URL": "https://t.cnki.net/kcms/detail?v=SXoM_Tyef4CAZtS9ngVF_BTjNSHZDBZ-6T4bZoFml6HEKd3ppj8r02ZYD3SVy3oBZaVh_CKITFfPDOa27w1qSR-FzMqMhIFFmn_ox2CXv-fC4zVLeWsrn5XZnMTHWXJ8&uniplatform=NZKPT",
+		"volume": "37",
+		"author": [
+			{
+				"literal": "刘江"
+			},
+			{
+				"literal": "顾东辉"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2022"]]
+		}
+	},
+	{
+		"id": "ss:08",
+		"type": "chapter",
+		"container-title": "A Matter of Principles?: Ferment in U.S. Bioethics",
+		"event-place": "Valley Forge",
+		"language": "en-US",
+		"page": "284–309",
+		"publisher": "Trinity Press International",
+		"publisher-place": "Valley Forge",
+		"title": "Character and Moral Life: A Virtue Approach to Biomedical Ethics",
+		"author": [
+			{
+				"family": "Drane",
+				"given": "James F"
+			}
+		],
+		"editor": [
+			{
+				"family": "DuBose",
+				"given": "Edwin R."
+			},
+			{
+				"family": "Hamel",
+				"given": "Ronald P."
+			},
+			{
+				"family": "O'Connell",
+				"given": "Laurence J."
+			}
+		],
+		"issued": {
+			"date-parts": [["1994"]]
+		}
+	},
+	{
+		"id": "ss:09",
+		"type": "article-journal",
+		"container-title": "社会学研究",
+		"ISSN": "1002-5936",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "68-89+227-228",
+		"title": "家庭化与新生代农民工生活方式转型",
+		"URL": "https://t.cnki.net/kcms/detail?v=SXoM_Tyef4ABDgOvXfNsxeVb_1ZqwF3bAyGKGqRXHpc7z7_a2A5s2U5HIrxls1u1Gp393cORrRA4lOT1geRMi2d0QhHM_P3PPF0_NdX3qzAAE56VGDYzC9ubSOKWxtwB&uniplatform=NZKPT",
+		"volume": "37",
+		"author": [
+			{
+				"literal": "王欧"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2022"]]
+		}
+	},
+	{
+		"id": "ss:10",
+		"type": "chapter",
+		"collection-title": "清华社会学评论",
+		"container-title": "清华社会学评论",
+		"event-place": "北京",
+		"ISBN": "978-7-5201-0928-4",
+		"language": "zh-CN",
+		"number-of-volumes": "15",
+		"publisher": "社会科学文献出版社",
+		"publisher-place": "北京",
+		"title": "行动与困境———新生代农民工与“农民工生产体制”的碰撞",
+		"URL": "https://book.douban.com/subject/27082356/",
+		"volume": "6",
+		"editor": [
+			{
+				"family": "沈",
+				"given": "原"
+			}
+		],
+		"author": [
+			{
+				"family": "清华大学社会学系课题组",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "ss:11",
+		"type": "book",
+		"collection-title": "中国社会学经典文库",
+		"edition": "修订版",
+		"ISBN": "978-7-80768-188-5",
+		"language": "zh-CN",
+		"number-of-pages": "560",
+		"publisher": "生活·读书·新知三联书店",
+		"title": "跨越边界的社区：北京“浙江村”的生活史",
+		"URL": "https://book.douban.com/subject/30116399/",
+		"author": [
+			{
+				"family": "项",
+				"given": "飙"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "ss:12",
+		"type": "thesis",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "南京师范大学",
+		"title": "大学仪式研究",
+		"URL": "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&filename=1015529096.nh&v=MDM3MzdJUUtESDg0dlI0VDZqNTRPM3pxcUJ0R0ZyQ1VSN2lmWWVSdkZ5bmhVYi9CVkYyNkc3YTZGOUhGcVpFYlA=&uid=WEEvREcwSlJHSldSdmVqMDh6cEFITnRXUVV3NXZvOGRzUkRRSm9tWDZhaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!",
+		"author": [
+			{
+				"literal": "李启波"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "黄军伟"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2014"]]
+		}
+	},
+	{
+		"id": "ss:13",
+		"type": "article-journal",
+		"container-title": "社会学研究",
+		"ISSN": "1002-5936",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "203-225+230",
+		"title": "责任制考试、通过仪式抑或学术仪式?——博士学位论文答辩制度的意义建构",
+		"URL": "https://t.cnki.net/kcms/detail?v=SXoM_Tyef4CCpWlaCb7aP-UiedbQjiBZlDL_ogdYq3V-5_H-PRu6cFXwuAQ2qsEwMesR66X_b4syvy9NCMlbzhMY_r0_1g1wEnv6cJXny7S27UCMWGvQfqYHVMMPEMTPoWenRuwDzjE=&uniplatform=NZKPT",
+		"volume": "37",
+		"author": [
+			{
+				"literal": "张文琪"
+			},
+			{
+				"literal": "朱志勇"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2022"]]
+		}
+	},
+	{
+		"id": "ss:14",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "博士论文答辩不能成为一场游戏",
+		"URL": "http://zqb.cyol.com/html/2016-06/17/nw.D110000zgqnb_20160617_4-07.htm",
+		"author": [
+			{
+				"family": "中国青年报",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2016"]]
+		}
+	},
+	{
+		"id": "ss:15",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "中华人民共和国学位条例暂行实施办法",
+		"URL": "http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyxzfg/202204/t20220422_620528.html",
+		"author": [
+			{
+				"family": "中华人民共和国教育部",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "ss:16",
+		"type": "article-journal",
+		"container-title": "社会学研究",
+		"DOI": "10/gqs686",
+		"ISSN": "1002-5936",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "14-36+242",
+		"title": "马克思的“过渡”理论与“卡夫丁峡谷”之谜",
+		"URL": "https://t.cnki.net/kcms/detail?v=SXoM_Tyef4C42UDKLhKe8OkhDtqaIXsfUnA9zajpZxtIkDv5Jkpz34pbkKHkehcuPJMIc23FzXg-b01L05xYWeOJC_wyoJfirEEG-snYhpAdYejPQWumxhOdnNdApspc&uniplatform=NZKPT",
+		"author": [
+			{
+				"literal": "冯钢"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "ss:17",
+		"type": "book",
+		"collection-title": "马克思恩格斯全集（中文第二版）",
+		"event-place": "北京",
+		"ISBN": "978-7-01-016036-8",
+		"language": "zh-CN",
+		"number-of-pages": "1062",
+		"number-of-volumes": "49",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"title": "马克思恩格斯全集",
+		"URL": "https://book.douban.com/subject/26808783/",
+		"volume": "1",
+		"author": [
+			{
+				"family": "马克思",
+				"given": ""
+			}
+		],
+		"translator": [
+			{
+				"family": "中共中央马恩列斯著作编译局",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["1972"]]
+		}
+	},
+	{
+		"id": "ss:18",
+		"type": "book",
+		"collection-title": "马克思恩格斯全集（中文第二版）",
+		"event-place": "北京",
+		"ISBN": "978-7-01-017048-0",
+		"language": "zh-CN",
+		"number-of-pages": "1104",
+		"number-of-volumes": "49",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"title": "马克思恩格斯全集",
+		"URL": "https://book.douban.com/subject/26992829/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "马克思",
+				"given": ""
+			}
+		],
+		"translator": [
+			{
+				"family": "中共中央马恩列斯著作编译局",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["1972"]]
+		}
+	},
+	{
+		"id": "ss:19",
+		"type": "article-newspaper",
+		"container-title": "中国教育报",
+		"language": "zh-CN",
+		"title": "吹响建设教育强国的冲锋号———深入学习习近平总书记教育思想( 二)",
+		"author": [
+			{
+				"family": "王",
+				"given": "嘉毅"
+			}
+		],
+		"issued": {
+			"date-parts": [["2017", 8, 1]]
+		}
+	},
+	{
+		"id": "ss:20",
+		"type": "article-journal",
+		"container-title": "Social Science & Medicine",
+		"DOI": "10/f5bhc5",
+		"ISSN": "0277-9536",
+		"language": "en-US",
+		"page": "10-14",
+		"title": "How do you measure trust in the health system? A systematic review of the literature",
+		"URL": "https://api.elsevier.com/content/article/PII:S0277953613002724?httpAccept=text/xml",
+		"volume": "91",
+		"author": [
+			{
+				"family": "Ozawa",
+				"given": "Sachiko"
+			},
+			{
+				"family": "Sripad",
+				"given": "Pooja"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2013", 8]]
+		}
+	},
+	{
+		"id": "ss:21",
+		"type": "paper-conference",
+		"event-title": "转型期乡村社会性质研究学术研讨会会议论 文集",
+		"language": "en-US",
+		"title": "国家政权建设与乡村自治单位——问题与回顾",
+		"author": [
+			{
+				"family": "张",
+				"given": "静"
+			}
+		],
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "ss:22",
+		"type": "article-newspaper",
+		"container-title": "澎湃新闻",
+		"language": "zh-CN",
+		"title": "“封城”二十日里的武汉百步亭：一线社区工作者口述_澎湃人物_澎湃新闻-The Paper",
+		"URL": "https://www.thepaper.cn/newsDetail_forward_5922202",
+		"author": [
+			{
+				"family": "张",
+				"given": "小莲"
+			},
+			{
+				"family": "任",
+				"given": "雾"
+			},
+			{
+				"family": "蓝",
+				"given": "泽齐"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 6, 20]]
+		},
+		"issued": {
+			"date-parts": [["2020", 2, 12]]
+		}
+	}
+]

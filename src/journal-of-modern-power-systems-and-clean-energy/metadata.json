@@ -1,0 +1,29 @@
+{
+  "dir": "journal-of-modern-power-systems-and-clean-energy",
+  "file": "journal-of-modern-power-systems-and-clean-energy.csl",
+  "style_class": "in-text",
+  "title": "Journal of Modern Power Systems and Clean Energy",
+  "id": "http://www.zotero.org/styles/journal-of-modern-power-systems-and-clean-energy",
+  "link_self": "http://www.zotero.org/styles/journal-of-modern-power-systems-and-clean-energy",
+  "link_template": "http://www.zotero.org/styles/ieee",
+  "link_documentation": "http://www.mpce.info/uploadfile/mpce/20240408/MPCE%20Word%20Template.docx",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "engineering",
+  "summary": "MPCE Word Template (20240408)",
+  "updated": "2024-04-21T11:37:16+08:00",
+  "citations": "[1], [2], [3], [4], [5], [6], [7], [8]",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">库恩, <i>科学革命的结构: 第 4 版</i>, 2nd ed. 北京: 北京大学出版社, 2012.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: Jun. 26, 2014. [Online]. Available: <a href=\"http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary\">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">贾东琴 and 柯平, “面向数字素养的高校图书馆数字服务体系研究,” in 中国图书馆学会年会论文集, 中国图书馆学会, Ed., 北京: 国家图书馆出版社, 2011, pp. 45–52.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">M. E. Fourney, “Advances in holographic photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp. 17–38.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">武丽丽, 华一新, 张亚军, and 刘英敏, “‘北斗一号’监控管理网设计与实现,” 测绘科学, vol. 33, no. 5, pp. 8–9, 2008, doi: <a href=\"https://doi.org/10.3771/j.issn.1009-2307.2008.05.002\">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, pp. 356–362, Jun. 2014, doi: <a href=\"https://doi.org/10.1038/nature13308\">10.1038/nature13308</a>.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">中国互联网络信息中心, “第 29 次中国互联网络发展现状统计报告,” Jan. 2012. Accessed: Mar. 26, 2013. [Online]. Available: <a href=\"http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680\">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">D. Bawden, “Origins and concepts of digital literacy.” Accessed: Mar. 08, 2013. [Online]. Available: <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "有DOI",
+    "有URL"
+  ]
+}

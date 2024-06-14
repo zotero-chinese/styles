@@ -1,0 +1,116 @@
+[
+	{
+		"id": "cjc:01",
+		"type": "article-journal",
+		"container-title": "Journal of the American College of Cardiology",
+		"DOI": "10/f2vbrs",
+		"ISSN": "1558-3597",
+		"issue": "13",
+		"journalAbbreviation": "J Am Coll Cardiol",
+		"language": "en-US",
+		"note": "number: 13\nPMID: 25257638",
+		"page": "1359-1361",
+		"title": "Beta-blockers in the treatment of congenital long QT syndrome: is one beta-blocker superior to another?",
+		"volume": "64",
+		"author": [
+			{
+				"family": "Wilde",
+				"given": "Arthur A. M."
+			},
+			{
+				"family": "Ackerman",
+				"given": "Michael J."
+			}
+		],
+		"issued": {
+			"date-parts": [["2014", 9, 30]]
+		}
+	},
+	{
+		"id": "cjc:02",
+		"type": "report",
+		"event-place": "Bethesda (MD)",
+		"language": "en-US",
+		"note": "type: dataset",
+		"publisher": "National Library of Medicine (US)",
+		"publisher-place": "Bethesda (MD)",
+		"title": "Online multiple congenital anomaly/mental retardation (MCA/MR) syndromes",
+		"URL": "http://www.nlm.nih.gov/mesh/jablonski/syndrome_title.html",
+		"author": [
+			{
+				"family": "Jablonski",
+				"given": "S"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2002", 12, 12]]
+		},
+		"issued": {
+			"date-parts": [["1999"]]
+		}
+	},
+	{
+		"id": "cjc:03",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "中国大百科全书出版社",
+		"publisher-place": "北京",
+		"title": "中国心血管病报告 2011",
+		"author": [
+			{
+				"literal": "卫生部心血管病防治中心"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "cjc:04",
+		"type": "article-journal",
+		"container-title": "中华心血管病杂志",
+		"DOI": "10/gqs68c",
+		"issue": "9",
+		"language": "zh-CN",
+		"note": "number: 9",
+		"page": "773-776",
+		"title": "介入治疗开通慢性完全闭塞病变的长期临床疗效",
+		"volume": "37",
+		"author": [
+			{
+				"literal": "伊宪华"
+			},
+			{
+				"literal": "韩雅玲"
+			},
+			{
+				"literal": "李毅"
+			},
+			{
+				"literal": "王守力"
+			},
+			{
+				"literal": "荆全民"
+			},
+			{
+				"literal": "马颖艳"
+			},
+			{
+				"literal": "王效增"
+			},
+			{
+				"literal": "栾波"
+			},
+			{
+				"literal": "王耿"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 4, 29]]
+		},
+		"issued": {
+			"date-parts": [["2009", 9]]
+		}
+	}
+]

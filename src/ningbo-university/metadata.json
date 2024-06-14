@@ -1,0 +1,28 @@
+{
+  "dir": "ningbo-university",
+  "file": "ningbo-university.csl",
+  "style_class": "in-text",
+  "title": "宁波大学",
+  "id": "http://www.zotero.org/styles/ningbo-university",
+  "link_self": "http://www.zotero.org/styles/ningbo-university",
+  "link_documentation": "http://graduate.nbu.edu.cn/info/1049/15542.htm",
+  "author": [
+    {
+      "name": "Bingsong Bai"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写，支持中文作者超过 `3` 个为“`等`”，英文为“`et al`”。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。",
+  "updated": "2024-06-06T09:47:50+08:00",
+  "citations": "<sup>[1–8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-8 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">[1]\t库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.\n    <div class=\"csl-block\">科学革命的结构.</div>\n  </div>\n  <div class=\"csl-entry\">[2]\tFan X, Sommers C H. Food irradiation research and technology[M/OL]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>\n  <div class=\"csl-entry\">[3]\t贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.</div>\n  <div class=\"csl-entry\">[4]\tFourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>\n  <div class=\"csl-entry\">[5]\t武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9.</div>\n  <div class=\"csl-entry\">[6]\tMyburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362.</div>\n  <div class=\"csl-entry\">[7]\t中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL].</div>\n  <div class=\"csl-entry\">[8]\tBawden D. Origins and concepts of digital literacy[EB/OL].</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

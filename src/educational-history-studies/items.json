@@ -1,0 +1,81 @@
+[
+	{
+		"id": "ehs:1",
+		"type": "book",
+		"event-place": "人民教育出版社",
+		"language": "zh-CN",
+		"note": "page: 35-36",
+		"publisher-place": "人民教育出版社",
+		"title": "布鲁纳教育论著选",
+		"author": [
+			{
+				"literal": "布鲁纳"
+			}
+		],
+		"translator": [
+			{
+				"literal": "邵瑞珍"
+			},
+			{
+				"literal": "张渭城"
+			}
+		],
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "ehs:2",
+		"type": "article-journal",
+		"container-title": "课程·教材·教法",
+		"issue": "9",
+		"language": "zh-CN",
+		"title": "实事求是地评价普通高中新课程改革",
+		"author": [
+			{
+				"literal": "廖哲勋"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "ehs:3",
+		"type": "book",
+		"event-place": "New York",
+		"language": "en-US",
+		"note": "page: 33-39",
+		"publisher": "W. W. Norton & Company, Inc.",
+		"publisher-place": "New York",
+		"title": "The culture of professionalism: The middle class and the development of higher education in America",
+		"author": [
+			{
+				"family": "Bledstein",
+				"given": "Burton J."
+			}
+		],
+		"issued": {
+			"date-parts": [["1976"]]
+		}
+	},
+	{
+		"id": "ehs:4",
+		"type": "article-journal",
+		"container-title": "Teachers College Record",
+		"issue": "3",
+		"language": "en-US",
+		"page": "216",
+		"title": "The socialization of the high school",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Inglis",
+				"given": "Alexander J."
+			}
+		],
+		"issued": {
+			"date-parts": [["1915"]]
+		}
+	}
+]

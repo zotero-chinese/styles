@@ -1,0 +1,29 @@
+{
+  "dir": "acta-psychologica-sinica",
+  "file": "acta-psychologica-sinica.csl",
+  "style_class": "in-text",
+  "title": "心理学报",
+  "id": "http://www.zotero.org/styles/acta-psychologica-sinica",
+  "link_self": "http://www.zotero.org/styles/acta-psychologica-sinica",
+  "link_template": "http://www.zotero.org/styles/apa",
+  "link_documentation": "https://journal.psych.ac.cn/xlxb/fileup/0439-755X/ITEM/20220223114333.pdf",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "psychology",
+  "summary": "1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。",
+  "updated": "2023-02-02T00:33:22+08:00",
+  "citations": "(张三, 2008)<br>\n(张三, 李四, 2008)<br>\n(Mou &#38; McNamara, 2002)<br>\n(赵一 等, 2008)<br>\n(Mou et al., 2004)<br>\n(现代汉语频率词典, 1986)<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">Mou, W., &#38; McNamara, T. P. (2002). Intrinsic frames of reference in spatial memory. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>28</i>, 162–170.</div>\n  <div class=\"csl-entry\">Mou, W., Zhang, K., &#38; McNamara, T. P. (2004). Frames of reference in spatial memories acquired from language. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, <i>30</i>, 171–180.</div>\n  <div class=\"csl-entry\">Zhang S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. [张三. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>\n  <div class=\"csl-entry\">Zhang S., &#38; Li S. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. [张三, 李四. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>\n  <div class=\"csl-entry\">Zhao Y., Qian E., Sun S., Li S., Zhou W., Wu L., &#38; Zheng Q. (2008). The past and future of Chinese psychology. <i>Acta Psychologica Sinica</i>, <i>40</i>, 210–215. [赵一, 钱二, 孙三, 李四, 周五, 吴六, 郑七. (2008). 中国心理学的过去与未来. <i>心理学报</i>, <i>40</i>, 210–215.]</div>\n  <div class=\"csl-entry\"><i>Modern Chinese frequency dictionary</i>. (1986). Beijing Language and Culture University Press. [<i>现代汉语频率词典</i>. (1986). 北京: 北京语言学院出版社.]</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

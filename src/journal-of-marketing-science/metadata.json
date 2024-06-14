@@ -1,0 +1,29 @@
+{
+  "dir": "journal-of-marketing-science",
+  "file": "journal-of-marketing-science.csl",
+  "style_class": "in-text",
+  "title": "营销科学学报",
+  "id": "http://www.zotero.org/styles/journal-of-marketing-science",
+  "link_self": "http://www.zotero.org/styles/journal-of-marketing-science",
+  "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
+  "link_documentation": "http://www.jms.org.cn:8081/jms/fileup/jms/ITEM/20220923110330.pdf",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "Financial Research Journal author-date style",
+  "updated": "2024-06-06T13:44:19+08:00",
+  "citations": "（库恩，2012）<br>\n（Fourney M E，c1971）<br>\n（贾东琴 et al.，2011）<br>\n（Fan X et al.，2013）<br>\n（武丽丽 et al.，2008）<br>\n（Myburg A A et al.，2014）<br>\n（中国互联网络信息中心，2012；Bawden D，2008）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-150 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">[1]\t贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年.\n    <div class=\"csl-block\">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年 (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[2]\t库恩. 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, trans.. 2 edition. 北京: 北京大学出版社，2012年.\n    <div class=\"csl-block\">库恩. 2012. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, trans.. 2 edition. 北京: 北京大学出版社，2012年 (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[3]\t武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现[J]，测绘科学, 33(5): 8-9. .\n    <div class=\"csl-block\">武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现[J]，测绘科学, 33(5): 8-9. (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[4]\t中国互联网络信息中心. 2012. 第 29 次中国互联网络发展现状统计报告[R]. (2012-01-16) [2013-03-26].\n    <div class=\"csl-block\">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展现状统计报告[R]. (2012-01-16) [2013-03-26]. (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[5]\tBAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04).\n    <div class=\"csl-block\">BAWDEN D. 2008. Origins and concepts of digital literacy[EB/OL](2008-05-04) (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[6]\tFAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年.\n    <div class=\"csl-block\">FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年 (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[7]\tFOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年.\n    <div class=\"csl-block\">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年 (In Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[8]\tMYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. .\n    <div class=\"csl-block\">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. (In Chinese)</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

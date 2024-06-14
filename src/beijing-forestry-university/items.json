@@ -1,0 +1,85 @@
+[
+	{
+		"id": "bfu.g.01:04",
+		"type": "article",
+		"abstract": "Quadrupedal landing is a complex process involving large impacts, elaborate contact transitions, and is a crucial recovery behavior observed in many biological animals. This work presents a real-time, optimal landing controller that is free of pre-specified contact schedules. The controller determines optimal touchdown postures and reaction force profiles and is able to recover from a variety of falling configurations. The quadrupedal platform used, the MIT Mini Cheetah, recovered safely from drops of up to 8 m in simulation, as well as from a range of orientations and planar velocities. The controller is also tested on hardware, successfully recovering from drops of up to 2 m.",
+		"DOI": "10.48550/arXiv.2110.02799",
+		"language": "en-US",
+		"number": "arXiv:2110.02799",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Real-time Optimal Landing Control of the MIT Mini Cheetah",
+		"URL": "http://arxiv.org/abs/2110.02799",
+		"author": [
+			{
+				"family": "Jeon",
+				"given": "Se Hwan"
+			},
+			{
+				"family": "Kim",
+				"given": "Sangbae"
+			},
+			{
+				"family": "Kim",
+				"given": "Donghyun"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 12, 4]]
+		},
+		"issued": {
+			"date-parts": [["2021", 10, 6]]
+		}
+	},
+	{
+		"id": "bfu.g.10:23",
+		"type": "post-weblog",
+		"container-title": "微信公众号“英语学习指南”",
+		"language": "zh-CN",
+		"title": "如何有效学习英语",
+		"author": [
+			{
+				"literal": "张三"
+			}
+		],
+		"issued": {
+			"date-parts": [["2022", 6, 20]]
+		}
+	},
+	{
+		"id": "bfu.g.10:24",
+		"type": "webpage",
+		"language": "en-US",
+		"title": "Robots",
+		"URL": "https://innfos.com/",
+		"author": [
+			{
+				"literal": "Innfos"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2020", 4, 30]]
+		},
+		"issued": {
+			"date-parts": [["2020", 1, 1]]
+		}
+	},
+	{
+		"id": "bfu.g.10:25",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "出版业信息化迈入快车道",
+		"URL": "http://www.reader.com/news/20011219/200112190019.html",
+		"author": [
+			{
+				"literal": "萧钰"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2002", 4, 15]]
+		},
+		"issued": {
+			"date-parts": [["2001", 12, 19]]
+		}
+	}
+]

@@ -1,0 +1,94 @@
+[
+	{
+		"id": "nf:01",
+		"type": "book",
+		"event-place": "上海",
+		"language": "zh-CN",
+		"note": "page: 50-51",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"title": "著作名",
+		"author": [
+			{
+				"literal": "作者"
+			}
+		],
+		"issued": {
+			"date-parts": [["2015"]]
+		}
+	},
+	{
+		"id": "nf:02",
+		"type": "article-journal",
+		"container-title": "期刊名称",
+		"issue": "11",
+		"language": "zh-CN",
+		"page": "35-50",
+		"title": "文章标题",
+		"author": [
+			{
+				"literal": "作者1"
+			},
+			{
+				"literal": "作者2"
+			},
+			{
+				"literal": "作者3"
+			},
+			{
+				"literal": "作者4"
+			}
+		],
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "nf:03",
+		"type": "thesis",
+		"event-place": "城市",
+		"language": "zh-CN",
+		"publisher": "授予单位",
+		"publisher-place": "城市",
+		"title": "论文标题",
+		"author": [
+			{
+				"literal": "作者"
+			}
+		],
+		"issued": {
+			"date-parts": [["2021"]]
+		}
+	},
+	{
+		"id": "nf:04",
+		"type": "article-journal",
+		"abstract": "We study the effect of U.S. food aid on conflict in recipient countries. Our analysis exploits\ntime variation in food aid shipments due to changes in U.S. wheat production and cross-sectional\nvariation in a country's tendency to receive any U.S. food aid. According to our estimates, an\nincrease in U.S. food aid increases the incidence and duration of civil conflicts, but has no robust\neffect on inter-state conflicts or the onset of civil conflicts. We also provide suggestive evidence\nthat the effects are most pronounced in countries with a recent history of civil conflict.",
+		"container-title": "American Economic Review",
+		"DOI": "10.1257/aer.104.6.1630",
+		"ISSN": "0002-8282",
+		"issue": "6",
+		"language": "en-US",
+		"page": "1630-1666",
+		"source": "www.aeaweb.org",
+		"title": "US food aid and civil conflict",
+		"URL": "https://www.aeaweb.org/articles?id=10.1257/aer.104.6.1630",
+		"volume": "104",
+		"author": [
+			{
+				"family": "Nunn",
+				"given": "Nathan"
+			},
+			{
+				"family": "Qian",
+				"given": "Nancy"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 7, 22]]
+		},
+		"issued": {
+			"date-parts": [["2014", 6]]
+		}
+	}
+]

@@ -1,0 +1,159 @@
+[
+	{
+		"id": "thu-ay:05",
+		"type": "article-journal",
+		"container-title": "JAWRA Journal of the American Water Resources Association",
+		"DOI": "10/bj78p4",
+		"issue": "3",
+		"language": "en-US",
+		"note": "publisher: Wiley Online Library",
+		"page": "811–825",
+		"title": "Effect of watershed subdivision on SWAT flow, sediment, and nutrient predictions",
+		"volume": "40",
+		"author": [
+			{
+				"family": "Jha",
+				"given": "Manoj"
+			},
+			{
+				"family": "Gassman",
+				"given": "Philip W"
+			},
+			{
+				"family": "Secchi",
+				"given": "Silvia"
+			},
+			{
+				"family": "Gu",
+				"given": "Roy"
+			},
+			{
+				"family": "Arnold",
+				"given": "Jeff"
+			}
+		],
+		"issued": {
+			"date-parts": [["2004"]]
+		}
+	},
+	{
+		"id": "thu-ay:03",
+		"type": "book",
+		"event-place": "New York",
+		"language": "en-US",
+		"publisher": "The Haworth Press",
+		"publisher-place": "New York",
+		"title": "The future of resource sharing",
+		"author": [
+			{
+				"family": "Baker",
+				"given": "S K"
+			},
+			{
+				"family": "Jackson",
+				"given": "M E"
+			}
+		],
+		"issued": {
+			"date-parts": [["1995"]]
+		}
+	},
+	{
+		"id": "thu-ay:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 16",
+		"publisher": "北京图书馆出版社",
+		"publisher-place": "北京",
+		"title": "电子图书馆理论与实践研究",
+		"author": [
+			{
+				"family": "汪",
+				"given": "冰"
+			}
+		],
+		"issued": {
+			"date-parts": [["1997"]]
+		}
+	},
+	{
+		"id": "thu-ay:02",
+		"type": "article-journal",
+		"container-title": "中国图书馆学报",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "24-29",
+		"title": "电子图书馆的现实模型",
+		"author": [
+			{
+				"family": "杨",
+				"given": "宗英"
+			}
+		],
+		"issued": {
+			"date-parts": [["1996"]]
+		}
+	},
+	{
+		"id": "thu-ay:04",
+		"type": "book",
+		"event-place": "Chicago",
+		"language": "en-US",
+		"publisher": "Univ. of Chicago Press",
+		"publisher-place": "Chicago",
+		"title": "Invisible college",
+		"author": [
+			{
+				"family": "Crane",
+				"given": "Diana"
+			}
+		],
+		"issued": {
+			"date-parts": [["1972"]]
+		}
+	},
+	{
+		"id": "thu-ay:07",
+		"type": "article-journal",
+		"container-title": "College & Research Libraries",
+		"DOI": "10.5860/crl_42_06_549",
+		"issue": "6",
+		"language": "en-US",
+		"page": "549-560",
+		"title": "The information needs of historians",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Stieg",
+				"given": "Margaret F"
+			}
+		],
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "thu-ay:06",
+		"type": "article-journal",
+		"container-title": "Sedimentology",
+		"DOI": "10.1111/j.1365-3091.1975.tb01637.x",
+		"language": "en-US",
+		"page": "311",
+		"title": "Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "W. James"
+			},
+			{
+				"family": "Garrison",
+				"given": "Robert E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1975"]]
+		}
+	}
+]

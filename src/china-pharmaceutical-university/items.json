@@ -1,0 +1,239 @@
+[
+	{
+		"id": "cpu-bachelor.app.5.1:01",
+		"type": "article-journal",
+		"abstract": "AIM:To clarify both the character of the absorption and the stability of crocin in various sites along the intestinal tract,and also to determine the partition coefficient of crocin-1 in water/n-caprylic alcohol system. METHOD:The intestinal absorption and stability was investigated using in situ perfusion method in rats; Shaking flask test was used to determine the partition coefficient of crocin-1;Concentration of crocin-1 was detected by HPLC.RESULT:Decrease of Crocin-1 in various intestine segments is as follows:Duodenum 13.81%,Jejunum 9.89%,Ileum 10.07%,and Colon 10.04%,but crocin-1 can't be found in blood; Degradation of Crocin-1 during incubation in refluxing solution of various intestinal segments is as follows:Duodenum 13.01%,Jejunum 10.11%,Ileum 9.95%,and Colon 10.45%; The partition coefficient of crocin-1 P =0.093±0.004,log P =-1.03±0.02.CONCLUSION:The results suggest that crocin is unstable and can't be absorbed in the whole intestinal tract.",
+		"container-title": "Journal of China Pharmaceutical University",
+		"ISSN": "1000-5048",
+		"issue": "3",
+		"journalAbbreviation": "J. China Pharm. Univ.",
+		"language": "en-US",
+		"note": "original-title: 西红花苷大鼠小肠吸收研究及油水分配系数的测定\noriginal-container-title: 中国药科大学学报\nCSCD: 核心库\n中文核心期刊/北大核心: 是\n中国科技核心期刊: 是\n复合影响因子: 1.138\n综合影响因子: 0.811",
+		"page": "89-90",
+		"source": "CNKI",
+		"title": "Studies on the intestinal absorption of crocin in rats and determination of the partition coefficient",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2004&filename=ZGYD200403022&v=",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "J Y"
+			},
+			{
+				"family": "Zhang",
+				"given": "J S"
+			},
+			{
+				"family": "Zhang",
+				"given": "Y"
+			},
+			{
+				"family": "Zhang",
+				"given": "Y H"
+			}
+		],
+		"issued": {
+			"date-parts": [["2004"]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.1:02",
+		"type": "article-journal",
+		"abstract": "Adipocytes contain large lipid droplets in their cytoplasm. When cultured, they float on top of the medium, clump together, and do not gain equal and sufficient access to the medium. Morphological changes cannot be observed and the majority of adipocytes undergo cell lysis within 72 h of isolation. We have used a ceiling culture method for human mature adipocytes which uses their buoyant property to allow them to adhere to a floating glass surface, where they remain viable for several weeks. Using confocal immunofluorescence microscopy we showed the cellular expression and subcellular localization of leptin in ceiling-cultured adipocytes. The secretion of leptin was increased from ceiling cultures following tumour necrosis factor-alpha treatment. Proliferation of mature human adipocytes in serum-containing medium was demonstrated by incorporation of bromodeoxyuridine, 2% of adipocytes showing positive incorporation after 4 h labelling. Proliferation was also evident from the budding of daughter cells. Apoptosis in the ceiling cultures was increased by 48 h serum deprivation (30-35 vs 10-15% in the control) and was assayed by propidium iodide staining and terminal deoxynucleotidyl transferase-mediated dUTP-fluorescein nick-end labelling. Lipolysis, analysed by liquid scintillation counting, was increased by forskolin (10 microM for 90 min) and lipogenesis, shown by autoradiography, was stimulated by insulin (10 and 100 nM for 4 h). These findings indicate that ceiling-cultured adipocytes maintain adipocyte-specific functions and that ceiling culture, which overcomes the shortcomings of adipocyte suspension culture, can be used to study adipocyte cell biology.",
+		"container-title": "The Journal of Endocrinology",
+		"DOI": "10.1677/joe.0.1640119",
+		"ISSN": "0022-0795",
+		"issue": "1/2",
+		"journalAbbreviation": "J. Endocrinol.",
+		"language": "en-US",
+		"note": "PMID: 10657847\nJCR分区: Q2\n中科院分区升级版: 医学2区\n影响因子: 4.67\n5年影响因子: 5.533\nJCI: 0.84\n中科院分区基础版: 医学2区",
+		"page": "119-128",
+		"source": "PubMed",
+		"title": "Ceiling culture of mature human adipocytes: use in studies of adipocyte functions",
+		"title-short": "Ceiling culture of mature human adipocytes",
+		"volume": "164",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "H. H."
+			},
+			{
+				"family": "Kumar",
+				"given": "S."
+			},
+			{
+				"family": "Barnett",
+				"given": "A. H."
+			},
+			{
+				"family": "Eggo",
+				"given": "M. C."
+			}
+		],
+		"issued": {
+			"date-parts": [["2000", 2]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.2:03",
+		"type": "book",
+		"abstract": "本书的内容以最近一年来的一些学术会议的大会邀请报告为主，刊有34篇文章，涉及了药理学及其相关学科的方方面面，其中有关分子生物学在药理学中的应用，新技术的介绍等在书中占有一定的篇幅，还介绍了爱滋病、脂肪性肝炎的治疗进展。",
+		"archive_location": "R96",
+		"event-place": "Beijing",
+		"ISBN": "978-7-117-05517-8",
+		"language": "en-US",
+		"note": "original-title: 药理学进展\npage: 74",
+		"number-of-pages": "345",
+		"publisher": "People’s Medical Publishing House",
+		"publisher-place": "Beijing",
+		"source": "Superlib",
+		"title": "Advances in Pharmacology",
+		"URL": "http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000001358286&d=60FCE51E58B1EA1365F1EBC9D831DBFF&fenlei=162007",
+		"author": [
+			{
+				"family": "Qi",
+				"given": "R M"
+			},
+			{
+				"family": "Wang",
+				"given": "Z G"
+			},
+			{
+				"family": "Wang",
+				"given": "S Q"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 5, 28]]
+		},
+		"issued": {
+			"date-parts": [["2003", 7]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.4:07",
+		"type": "patent",
+		"abstract": "The invention provides the benzhydrylsulphinyl derivatives of the formula:\n    \n       (C.sub.6 H.sub.5).sub.2 CH--SO--(CH.sub.2).sub.n --R       I\n    \n    where n is 1, 2 or 3 and R is C(═O)NHOH, C(═NH)NH2, C(═NH)NHOH, 2-Δ2 -imidazolinyl or NR1 R2 (where R1 is H or C1 -C3 -alkyl and R2 is H, C1 -C3 -alkyl, or CH2 CH2 OH, and R1 and R2 considered together can form, with the nitrogen atom to which they are bonded, a N-heterocyclic group of 5 to 7 ring members, which can be substituted and can contain a second hetero-atom such as O and N), and their addition salts. These products are useful in therapy for treating disturbances of the central nervous system.",
+		"event-place": "US",
+		"language": "en-US",
+		"number": "4066686A",
+		"publisher-place": "US",
+		"title": "New benzhydrysulphinyl derivatives",
+		"URL": "https://patents.google.com/patent/US4066686A/en",
+		"author": [
+			{
+				"family": "Lafon",
+				"given": "Louis"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2011", 10, 25]]
+		},
+		"issued": {
+			"date-parts": [["1978", 1, 3]]
+		},
+		"submitted": {
+			"date-parts": [["1976", 9, 30]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.5:08",
+		"type": "webpage",
+		"language": "en-US",
+		"title": "FDA approves shard system REMS for TIRF products",
+		"URL": "http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm285345.htm",
+		"author": [
+			{
+				"literal": "U.S. Food and Drug Administration"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 1, 13]]
+		},
+		"issued": {
+			"date-parts": [["2011", 12, 29]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.2:04",
+		"type": "book",
+		"edition": "4",
+		"event-place": "New York",
+		"language": "en-US",
+		"note": "page: 149",
+		"publisher": "McGraw Hill",
+		"publisher-place": "New York",
+		"title": "Probability, random variables, and random signal principles",
+		"author": [
+			{
+				"family": "Peebles",
+				"given": "Peyton Z."
+			}
+		],
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.6:09",
+		"type": "thesis",
+		"event-place": "Changchun",
+		"genre": "Master's Thesis",
+		"language": "en-US",
+		"note": "original-title: 吡考他胺抗血小板聚集性的临床研究",
+		"publisher": "Jilin University",
+		"publisher-place": "Changchun",
+		"source": "CNKI",
+		"title": "Study of the clinical anti-aggregating effect of picotamide on platelet",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD9904&filename=2004100475.nh&v=",
+		"author": [
+			{
+				"literal": "Tian Z"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "王文志"
+			}
+		],
+		"issued": {
+			"date-parts": [["2004"]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.3:05",
+		"type": "standard",
+		"event-place": "Beijing",
+		"language": "en-US",
+		"note": "original-title: 化学品 分配系数(正辛醇-水)摇瓶法试验",
+		"number": "GB/T 21853-2008",
+		"publisher": "Standards Press of China",
+		"publisher-place": "Beijing",
+		"title": "Chemicals—Partition  Coefficient (n-octanol/water)—Shake Flask Method",
+		"author": [
+			{
+				"literal": "China Association for Standardization"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cpu-bachelor.app.5.3:06",
+		"type": "standard",
+		"event-place": "Beijing",
+		"language": "en-US",
+		"note": "volume: part 2\noriginal-title: 中华人民共和国药典：二部\npage: 310-312",
+		"publisher": "China Medical Science Press",
+		"publisher-place": "Beijing",
+		"title": "Chinese Pharmacopoeia",
+		"author": [
+			{
+				"literal": "Chinese Pharmacopoeia Commission"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	}
+]

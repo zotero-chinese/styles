@@ -1,0 +1,38 @@
+{
+  "name": "styles",
+  "version": "1.0.0",
+  "description": "CSL 中文样式库",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx ./lib/index.ts watch",
+    "build": "tsx ./lib/index.ts all",
+    "preview": "tsx ./lib/index.ts",
+    "format": "prettier . --write"
+  },
+  "author": "zotero-chinese",
+  "license": "GPL-3.0",
+  "keywords": [
+    "csl",
+    "zotero",
+    "styles",
+    "citeproc-js"
+  ],
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.12.8",
+    "chokidar": "3.5.3",
+    "citeproc": "2.4.63",
+    "concurrently": "7.4.0",
+    "consola": "^3.2.3",
+    "cross-env": "7.0.3",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0",
+    "ora": "^8.0.1",
+    "prettier": "^3.3.1",
+    "radash": "^12.1.0",
+    "scule": "^1.3.0",
+    "tinypool": "^0.8.4",
+    "tsx": "^4.9.1",
+    "typescript": "^5.4.5"
+  }
+}

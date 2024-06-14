@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 反馈关于网站的问题
+    url: https://github.com/zotero-chinese/website
+    about: "前往 zotero-chinese/website 仓库参与讨论！"
+
+  - name: 提问、求助、好想法
+    url: https://github.com/orgs/zotero-chinese/discussions/new/choose
+    about: "前往 Discussion 参与讨论！"

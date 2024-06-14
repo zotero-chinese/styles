@@ -1,0 +1,28 @@
+{
+  "dir": "communication-and-society",
+  "file": "communication-and-society.csl",
+  "style_class": "in-text",
+  "title": "傳播與社會學刊",
+  "id": "http://www.zotero.org/styles/apa",
+  "link_self": "http://www.zotero.org/styles/communication-and-society",
+  "link_template": "http://www.zotero.org/styles/apa",
+  "link_documentation": "http://cschinese.com/submission03.asp",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "communications",
+  "updated": "2024-06-02T20:58:32+08:00",
+  "citations": "（李金銓，2004：2–4）<br>\n（祝建華，2001）<br>\n（Wilfley, 1989, p. 15）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">李金銓（2004）。《超越西方霸權：傳媒與文化中國的現代性》。香港：牛津大學出版社。</div>\n  <div class=\"csl-entry\">祝建華（2001）。〈中文傳播研究之理論化與本土化：以受眾及媒介效果整合理論為例〉。《新聞學研究》，第68期，頁1–22。</div>\n  <div class=\"csl-entry\">Wilfley, D. E. (1989). <i>Interpersonal analyses of bulimia: Normal-weight and obese</i>. Unpublished doctoral dissertation, University of Missouri, Columbia.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "有DOI",
+    "有URL"
+  ]
+}

@@ -1,0 +1,538 @@
+[
+	{
+		"id": "cps.2.1:1",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.1:1",
+		"author": [
+			{
+				"literal": "张三"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.1:2",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.1:2",
+		"author": [
+			{
+				"family": "Jason",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.1:3",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.1:3",
+		"author": [
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.1:4",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.1:4",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Wu"
+			},
+			{
+				"family": "Sun",
+				"given": "Liu"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "cps.2.1:5",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.1:5",
+		"author": [
+			{
+				"literal": "赵一"
+			},
+			{
+				"literal": "陈二"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.1:6",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.1:6",
+		"author": [
+			{
+				"family": "Wolchik",
+				"given": "S. A."
+			},
+			{
+				"family": "West",
+				"given": "S. G."
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "cps.2.2:1",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.2:1",
+		"author": [
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			},
+			{
+				"literal": "王五"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.2:2",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.2:2",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Wu"
+			},
+			{
+				"family": "Sun",
+				"given": "Liu"
+			},
+			{
+				"family": "Zheng",
+				"given": "Qi"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "cps.2.2:3",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.2:3",
+		"author": [
+			{
+				"literal": "赵一"
+			},
+			{
+				"literal": "陈二"
+			},
+			{
+				"literal": "张三"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.2:4",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.2:4",
+		"author": [
+			{
+				"family": "Wolchik",
+				"given": "S. A."
+			},
+			{
+				"family": "West",
+				"given": "S. G."
+			},
+			{
+				"family": "Sandler",
+				"given": "I. N."
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "cps.2.2.1:1a",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.2.1:1a",
+		"author": [
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			},
+			{
+				"literal": "赵一"
+			}
+		],
+		"issued": {
+			"date-parts": [["2019"]]
+		}
+	},
+	{
+		"id": "cps.2.2.1:1b",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.2.1:1b",
+		"author": [
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "王五"
+			},
+			{
+				"literal": "钱二"
+			}
+		],
+		"issued": {
+			"date-parts": [["2019"]]
+		}
+	},
+	{
+		"id": "cps.2.2.1:2a",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.2.1:2a",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Yi"
+			},
+			{
+				"family": "Zhao",
+				"given": "Er"
+			},
+			{
+				"family": "Zhou",
+				"given": "San"
+			},
+			{
+				"family": "Sun",
+				"given": "Si"
+			},
+			{
+				"family": "Wu",
+				"given": "Liu"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "cps.2.2.1:2b",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.2.1:2b",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Yi"
+			},
+			{
+				"family": "Zhao",
+				"given": "Er"
+			},
+			{
+				"family": "Zhou",
+				"given": "San"
+			},
+			{
+				"family": "Li",
+				"given": "Si"
+			},
+			{
+				"family": "Wu",
+				"given": "Liu"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "cps.2.3:1",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.3:1",
+		"author": [
+			{
+				"family": "Wong",
+				"given": "K. D."
+			}
+		],
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "cps.2.3:2",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.3:2",
+		"author": [
+			{
+				"family": "Wong",
+				"given": "P. G."
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "cps.2.2.2:1a",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.2.2:1a",
+		"author": [
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			},
+			{
+				"literal": "王五"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "cps.2.2.2:1b",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "引注测试 2.2.2:1b",
+		"author": [
+			{
+				"literal": "张三"
+			},
+			{
+				"literal": "李四"
+			},
+			{
+				"literal": "赵六"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "cps.2.2.2:2a",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.2.2:2a",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Yi"
+			},
+			{
+				"family": "Zhao",
+				"given": "Er"
+			},
+			{
+				"family": "Zhou",
+				"given": "San"
+			},
+			{
+				"family": "Sun",
+				"given": "Si"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "cps.2.2.2:2b",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.2.2:2b",
+		"author": [
+			{
+				"family": "Qian",
+				"given": "Yi"
+			},
+			{
+				"family": "Zhao",
+				"given": "Er"
+			},
+			{
+				"family": "Zhou",
+				"given": "San"
+			},
+			{
+				"family": "Li",
+				"given": "Si"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "cps.2.4:1",
+		"type": "book",
+		"language": "en-US",
+		"note": "status: in press",
+		"title": "Citation test 2.4:1",
+		"author": [
+			{
+				"family": "Edeline",
+				"given": "Jean-Marc"
+			},
+			{
+				"family": "Weinberger",
+				"given": "Norman M."
+			}
+		]
+	},
+	{
+		"id": "cps.2.4:2",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.4:2",
+		"author": [
+			{
+				"family": "Edeline",
+				"given": "Jean-Marc"
+			},
+			{
+				"family": "Weinberger",
+				"given": "Norman M."
+			}
+		],
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "cps.2.4:3",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.4:3",
+		"author": [
+			{
+				"family": "Edeline",
+				"given": "Jean-Marc"
+			},
+			{
+				"family": "Weinberger",
+				"given": "Norman M."
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "cps.2.4:4",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.4:4",
+		"author": [
+			{
+				"family": "Edeline",
+				"given": "Jean-Marc"
+			},
+			{
+				"family": "Weinberger",
+				"given": "Norman M."
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "cps.2.4:5",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.4:5",
+		"author": [
+			{
+				"family": "Deng",
+				"given": "San"
+			},
+			{
+				"family": "Feng",
+				"given": "Si"
+			}
+		],
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "cps.2.4:7",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.4:7",
+		"author": [
+			{
+				"family": "Bai",
+				"given": "Yi"
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "cps.2.4:6",
+		"type": "book",
+		"language": "en-US",
+		"title": "Citation test 2.4:6",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Er"
+			}
+		],
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	}
+]

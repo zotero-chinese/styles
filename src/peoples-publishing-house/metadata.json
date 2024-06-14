@@ -1,0 +1,28 @@
+{
+  "dir": "peoples-publishing-house",
+  "file": "peoples-publishing-house.csl",
+  "style_class": "note",
+  "title": "人民出版社",
+  "id": "http://www.zotero.org/styles/peoples-publishing-house",
+  "link_self": "http://www.zotero.org/styles/peoples-publishing-house",
+  "link_template": "http://www.zotero.org/styles/social-sciences-in-china",
+  "link_documentation": "http://www.pph166.com/",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "generic-base",
+  "updated": "2024-06-06T13:18:48+08:00",
+  "citations": "<sup>1</sup> 李铁映：《中国经济改革的双重探索》，《经济研究》2004年第2期。<br>\n<sup>2</sup> 国际货币基金组织：《国际资本市场发展、前景和政策》中译本，中国金融出版社1996年版。<br>\n<sup>3</sup> Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol.56, No.2, Spring 2001, pp.339-374.<br>\n<sup>4</sup> Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995.<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">国际货币基金组织：《国际资本市场发展、前景和政策》中译本，中国金融出版社1996年版。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">李铁映：《中国经济改革的双重探索》，《经济研究》2004年第2期。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol.56, No.2, Spring 2001, pp.339-374.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "无标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

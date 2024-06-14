@@ -1,0 +1,28 @@
+{
+  "dir": "new-finance",
+  "file": "new-finance.csl",
+  "style_class": "in-text",
+  "title": "新金融",
+  "id": "http://www.zotero.org/styles/new-finance",
+  "link_self": "http://www.zotero.org/styles/new-finance",
+  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
+  "link_documentation": "https://xjro.cbpt.cnki.net/WKC/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "social_science",
+  "updated": "2024-06-06T22:19:17+08:00",
+  "citations": "（作者，2015）<br>\n（作者1 等，2018）<br>\n（作者，2021）<br>\n（Nunn et al., 2014）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">[1] 作者，2015．著作名．上海：上海人民出版社：50-51．</div>\n  <div class=\"csl-entry\">[2] 作者，2021．论文标题．城市：授予单位．</div>\n  <div class=\"csl-entry\">[3] 作者1，作者2，作者3，等，2018．文章标题．期刊名称（11）：35-50．</div>\n  <div class=\"csl-entry\">[4] NUNN N, QIAN N, 2014. US food aid and civil conflict. American Economic Review, 104(6): 1630-1666.</div>\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

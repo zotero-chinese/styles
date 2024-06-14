@@ -1,17 +1,44 @@
 {
-    "[xml]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnSaveMode": "file",
-        "editor.tabSize": 2
-    },
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "xml.format.emptyElements": "collapse",
-    "xml.format.enforceQuoteStyle": "preferred",
-    "xml.format.joinContentLines": true,
-    "xml.format.maxLineWidth": 0,
-    "xml.format.preservedNewlines": 0,
-    "xml.format.spaceBeforeEmptyCloseTag": false,
-    "xml.preferences.quoteStyle": "double"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "markdownlint.config": {
+    "default": true,
+    "MD012": false,
+    "MD033": false,
+    "no-hard-tabs": true
+  },
+
+  "[xml]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+
+  "xml.format.emptyElements": "collapse",
+  "xml.format.enforceQuoteStyle": "preferred",
+  "xml.format.joinContentLines": true,
+  "xml.format.maxLineWidth": 0,
+  "xml.format.preservedNewlines": 0,
+  "xml.format.spaceBeforeEmptyCloseTag": false,
+  "xml.preferences.quoteStyle": "double",
+  "xml.fileAssociations": [
+    {
+      "systemId": "https://github.com/citation-style-language/schema/blob/master/schemas/styles/csl.rnc",
+      "pattern": "**/*.csl"
+    }
+  ],
+
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    // "node_modules":true,
+    // "**/LICENSE": true
+  }
 }

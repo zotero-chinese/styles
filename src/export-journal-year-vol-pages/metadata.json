@@ -1,0 +1,26 @@
+{
+  "dir": "export-journal-year-vol-pages",
+  "file": "export-journal-year-vol-pages.csl",
+  "style_class": "in-text",
+  "title": "导出期刊年卷期Export Journal",
+  "id": "http://www.zotero.org/styles/export-journal-year-vol-pages",
+  "link_self": "http://www.zotero.org/styles/export-journal-year-vol-pages",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "updated": "2024-04-26T10:30:22+08:00",
+  "citations": "<sup>[1–8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-99 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">.\n    <div class=\"csl-left-margin\"> 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">. 2 版. Ames, Iowa: Blackwell Publishing, 2013: 25–26</div></div>\n  <div class=\"csl-entry\">.\n    <div class=\"csl-left-margin\"> 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">测绘科学 (2008, 33(5): 8–9)</div> </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">Nature (2014, 510: 356–362)</div> </div>\n  <div class=\"csl-entry\">.\n    <div class=\"csl-left-margin\"> (2012-01-16) . [2013-03-26]. <a href=\"http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680\">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div></div>\n  <div class=\"csl-entry\">.\n    <div class=\"csl-left-margin\"> (2008-05-04)[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div></div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "无标题",
+    "期刊缩写",
+    "无DOI",
+    "无URL"
+  ]
+}

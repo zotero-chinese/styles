@@ -1,0 +1,502 @@
+[
+	{
+		"id": "wep.1.1:01",
+		"type": "book",
+		"ISBN": "978-7-301-03623-5",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: tKl8AAAACAAJ",
+		"number-of-pages": "424",
+		"publisher": "北京大学出版社",
+		"source": "Google Books",
+		"title": "国际法引论",
+		"author": [
+			{
+				"family": "王铁崖",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "wep.1.2:01",
+		"type": "book",
+		"abstract": "本书包括:表现为权力斗争的国际政治、国家权力、国家权力的限制、权力均衡、现代世界中的国际政治等10部分.",
+		"ISBN": "978-7-100-01231-7",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: VTF_AAAACAAJ",
+		"number-of-pages": "688",
+		"publisher": "商务印书馆",
+		"source": "Google Books",
+		"title": "国家间的政治: 为权力与和平而斗争",
+		"title-short": "国家间的政治",
+		"author": [
+			{
+				"literal": "汉斯·摩根索"
+			}
+		],
+		"translator": [
+			{
+				"literal": "杨岐鸣"
+			},
+			{
+				"literal": "王燕生"
+			},
+			{
+				"literal": "赵归"
+			},
+			{
+				"literal": "林小云"
+			}
+		],
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "wep.1.3:01",
+		"type": "article-journal",
+		"container-title": "欧洲研究",
+		"issue": "5",
+		"language": "zh-CN",
+		"page": "14-19",
+		"title": "民族与民族主义",
+		"author": [
+			{
+				"literal": "王缉思"
+			}
+		],
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "wep.1.4:01",
+		"type": "chapter",
+		"container-title": "中国学者看世界: 国际秩序卷",
+		"ISBN": "978-7-80228-207-0",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: MQtKHwAACAAJ",
+		"page": "3-35",
+		"publisher": "新世界出版社",
+		"source": "Google Books",
+		"title": "“天下”概念与世界制度",
+		"author": [
+			{
+				"literal": "赵汀阳"
+			}
+		],
+		"editor": [
+			{
+				"literal": "秦亚"
+			}
+		],
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "wep.1.5:01",
+		"type": "book",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"title": "论语.学而"
+	},
+	{
+		"id": "wep.1.6:01",
+		"type": "article-newspaper",
+		"container-title": "人民日报",
+		"language": "zh-CN",
+		"title": "新时代的中国与世界",
+		"author": [
+			{
+				"literal": "中华人民共和国国务院新闻办公室"
+			}
+		],
+		"issued": {
+			"date-parts": [["2019", 9, 28]]
+		}
+	},
+	{
+		"id": "wep.1.7:01",
+		"type": "thesis",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "清华大学",
+		"title": "国际规范的演化",
+		"author": [
+			{
+				"literal": "周方银"
+			}
+		],
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "wep.1.8:01",
+		"type": "paper-conference",
+		"event-title": "第二届中国国际关系学会博士论坛会议",
+		"language": "zh-CN",
+		"note": "organizer: 中国社会科学院研究生院\nevent-date: 2007-05-12",
+		"title": "国际关系学科中美国知识霸权的探讨",
+		"author": [
+			{
+				"literal": "白云真"
+			}
+		]
+	},
+	{
+		"id": "wep.1.8:01b",
+		"type": "paper-conference",
+		"event-title": "第二届中国国际关系学会博士论坛会议",
+		"language": "zh-CN",
+		"publisher": "中国社会科学院研究生院",
+		"title": "国际关系学科中美国知识霸权的探讨",
+		"author": [
+			{
+				"literal": "白云真"
+			}
+		],
+		"issued": {
+			"date-parts": [["2007", 5, 12]]
+		}
+	},
+	{
+		"id": "wep.1.9:01",
+		"type": "personal_communication",
+		"archive": "中国第二历史档案馆",
+		"archive_location": "北洋档案 1011—5961",
+		"language": "zh-CN",
+		"title": "傅良佐致国务院电",
+		"issued": {
+			"date-parts": [["1917", 9, 15]]
+		}
+	},
+	{
+		"id": "wep.1.9:02",
+		"type": "manuscript",
+		"archive": "中共四川省委统战部档案室",
+		"archive_location": "李劼人档案",
+		"language": "zh-CN",
+		"title": "党外人士座谈会记录",
+		"issued": {
+			"date-parts": [["1950", 7]]
+		}
+	},
+	{
+		"id": "wep.2.1:01",
+		"type": "book",
+		"event-place": "Boston:",
+		"language": "en-US",
+		"publisher": "Little Brown Company",
+		"publisher-place": "Boston:",
+		"title": "Power and Interdependence: World Politics in Transition",
+		"author": [
+			{
+				"family": "Keohane",
+				"given": "Robert O."
+			},
+			{
+				"family": "Nye",
+				"given": "Joseph S."
+			}
+		],
+		"issued": {
+			"date-parts": [["1997"]]
+		}
+	},
+	{
+		"id": "wep.2.2:01",
+		"type": "article-journal",
+		"container-title": "British Journal of Politics & International Relations",
+		"DOI": "10.1111/1467-856x.00058",
+		"issue": "2",
+		"journalAbbreviation": "Brit. J. Polit. Int. Rel.",
+		"language": "en-US",
+		"note": "publisher: Wiley Online Library",
+		"page": "223-244",
+		"title": "New Thinking on International Society",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Dunne",
+				"given": "Tim"
+			}
+		],
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "wep.2.3:01",
+		"type": "chapter",
+		"container-title": "The globalization of world politics",
+		"event-place": "Oxford",
+		"language": "en-US",
+		"note": "publisher: Oxford University Press Oxford, UK",
+		"page": "169-170",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford",
+		"title": "New Approaches to International Theory",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Steve"
+			}
+		],
+		"editor": [
+			{
+				"family": "Baylis",
+				"given": "John"
+			},
+			{
+				"family": "Smith",
+				"given": "Steve"
+			}
+		],
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "wep.2.4:01",
+		"type": "article-newspaper",
+		"container-title": "The New York Times",
+		"language": "en-US",
+		"title": "Nixon's Key Adviser on Defense",
+		"author": [
+			{
+				"family": "Kissinger",
+				"given": "Henry A."
+			}
+		],
+		"issued": {
+			"date-parts": [["1968", 12, 3]]
+		}
+	},
+	{
+		"id": "wep.2.5:01",
+		"type": "thesis",
+		"event-place": "Cambridge",
+		"genre": "Ph.D. Dissertation",
+		"language": "en-US",
+		"publisher": "Harvard University",
+		"publisher-place": "Cambridge",
+		"title": "NATO After the Cold War: State Behavior in a Changing World Order",
+		"author": [
+			{
+				"family": "Weitz",
+				"given": "Richard W."
+			}
+		],
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "wep.2.6:01",
+		"type": "paper-conference",
+		"event-title": "Ford Foundation Project on Non-traditional Security",
+		"language": "en-US",
+		"note": "publisher-place: Seoul, Republic of Korea\nevent-date: 2004-01-30",
+		"title": "Liberal Theory and the Politics of Security in Northeast Asia",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Ikenberry",
+				"given": "G John"
+			},
+			{
+				"family": "Moravcsik",
+				"given": "Andrew"
+			}
+		]
+	},
+	{
+		"id": "wep.2.6:01b",
+		"type": "paper-conference",
+		"event-place": "Seoul, Republic of Korea",
+		"event-title": "Ford Foundation Project on Non-traditional Security",
+		"language": "en-US",
+		"publisher-place": "Seoul, Republic of Korea",
+		"title": "Liberal Theory and the Politics of Security in Northeast Asia",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Ikenberry",
+				"given": "G John"
+			},
+			{
+				"family": "Moravcsik",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [["2004", 1, 30]]
+		}
+	},
+	{
+		"id": "wep.2.7:01",
+		"type": "report",
+		"genre": "UN General Assembly Document",
+		"language": "en-US",
+		"number": "A/48/344,",
+		"title": "United Nations Register of Conventional Arms: Report of the Secretary General",
+		"issued": {
+			"date-parts": [["1993", 10, 11]]
+		}
+	},
+	{
+		"id": "wep.2.7:02",
+		"type": "report",
+		"collection-title": "SFB-Governance Working Paper Series",
+		"event-place": "Berlin",
+		"language": "en-US",
+		"number": "32",
+		"publisher": "Research Center (SFB) 700",
+		"publisher-place": "Berlin",
+		"title": "Governance Configurations in Areas of Limited Statehood: Actors, Modes, Institutions, and Resources",
+		"author": [
+			{
+				"family": "Risse",
+				"given": "Thomas"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012", 3]]
+		}
+	},
+	{
+		"id": "wep.2.8:01",
+		"type": "personal_communication",
+		"archive": "National Archives II, College Park, MD",
+		"archive_location": "Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)",
+		"language": "en-US",
+		"title": "Nixon to Kissinger",
+		"issued": {
+			"date-parts": [["1969", 2, 1]]
+		}
+	},
+	{
+		"id": "wep.2.8:02",
+		"type": "manuscript",
+		"archive": "Declassified Documents Reference System, Gale Group, Inc.",
+		"archive_location": "CK3100094653",
+		"language": "en-US",
+		"title": "USIA: United States Doctrinal Program",
+		"issued": {
+			"date-parts": [["1954", 1, 15]]
+		}
+	},
+	{
+		"id": "wep.2.8:03",
+		"type": "book",
+		"event-place": "Washington, D.C.",
+		"language": "en-US",
+		"publisher": "U.S. Government Printing Office",
+		"publisher-place": "Washington, D.C.",
+		"title": "Foreign Relations of United States (FRUS), 1955–1957",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "U.S. Department of State"
+			}
+		],
+		"issued": {
+			"date-parts": [["1990"]]
+		}
+	},
+	{
+		"id": "wep.3:01",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "中国对欧盟政策文件",
+		"URL": "https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml",
+		"accessed": {
+			"date-parts": [["2020", 12, 1]]
+		}
+	},
+	{
+		"id": "wep.3:02",
+		"type": "webpage",
+		"language": "en-US",
+		"title": "Transforming Our World: The 2030 Agenda for Sustainable Development",
+		"URL": "https://sustainabledevelopment.un.org/post2015/transformingourworld",
+		"author": [
+			{
+				"literal": "The United Nations"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2020", 12, 1]]
+		}
+	},
+	{
+		"id": "z-test-1",
+		"type": "book",
+		"collection-title": "东方编译所译丛",
+		"event-place": "上海",
+		"ISBN": "978-7-208-05912-2",
+		"language": "zh-CN",
+		"note": "titleTranslation:",
+		"number-of-pages": "484",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"title": "世界政治理论的探索与争鸣",
+		"editor": [
+			{
+				"literal": "彼得·卡赞斯坦"
+			},
+			{
+				"literal": "罗伯特·基欧汉"
+			},
+			{
+				"literal": "斯蒂芬·克拉斯纳"
+			}
+		],
+		"translator": [
+			{
+				"literal": "秦亚青"
+			},
+			{
+				"literal": "苏长和"
+			},
+			{
+				"literal": "门洪华"
+			},
+			{
+				"literal": "魏玲"
+			}
+		],
+		"issued": {
+			"date-parts": [["2006", 1]]
+		}
+	},
+	{
+		"id": "z-test-2",
+		"type": "book",
+		"event-place": "香港",
+		"language": "zh-CN",
+		"publisher": "香港中文大学出版社",
+		"publisher-place": "香港",
+		"title": "中国人留学日本史",
+		"author": [
+			{
+				"literal": "实藤惠秀"
+			}
+		],
+		"translator": [
+			{
+				"literal": "谭汝谦"
+			},
+			{
+				"literal": "林启彦"
+			}
+		],
+		"issued": {
+			"date-parts": [["1982"]]
+		}
+	}
+]

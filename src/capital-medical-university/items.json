@@ -1,0 +1,176 @@
+[
+	{
+		"id": "ccmu.5.9.1:1",
+		"type": "article-journal",
+		"container-title": "清华大学学报",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "1-7",
+		"title": "机器人柔性手腕的球面齿轮设计研究",
+		"volume": "34",
+		"author": [
+			{
+				"literal": "张昆"
+			},
+			{
+				"literal": "冯立群"
+			},
+			{
+				"literal": "余昌钰"
+			},
+			{
+				"literal": "徐晓东"
+			}
+		],
+		"issued": {
+			"date-parts": [["1994"]]
+		}
+	},
+	{
+		"id": "ccmu.5.9.1:2",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 56-60",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "物理学论",
+		"author": [
+			{
+				"literal": "竺可桢"
+			}
+		],
+		"issued": {
+			"date-parts": [["1973"]]
+		}
+	},
+	{
+		"id": "ccmu.5.9.1:3",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the third annual meeting of the International Society for Experimental Hematology",
+		"event-place": "Houston",
+		"language": "en-US",
+		"page": "44-46",
+		"publisher": "International Society for Experimental Hematology",
+		"publisher-place": "Houston",
+		"title": "Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor",
+		"author": [
+			{
+				"family": "Dupont",
+				"given": "B."
+			}
+		],
+		"editor": [
+			{
+				"family": "White",
+				"given": "H. J."
+			},
+			{
+				"family": "Smith",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [["1974"]]
+		}
+	},
+	{
+		"id": "ccmu.5.9.1:4",
+		"type": "thesis",
+		"event-place": "北京",
+		"genre": "硕士学位论文",
+		"language": "zh-CN",
+		"publisher": "清华大学无线电系",
+		"publisher-place": "北京",
+		"title": "通讯系统模拟及软件",
+		"author": [
+			{
+				"literal": "郑开青"
+			}
+		],
+		"issued": {
+			"date-parts": [["1987"]]
+		}
+	},
+	{
+		"id": "ccmu.5.9.1:5",
+		"type": "patent",
+		"event-place": "中国",
+		"language": "zh-CN",
+		"number": "88105607.3",
+		"publisher-place": "中国",
+		"title": "一种温热外敷药制备方案",
+		"author": [
+			{
+				"literal": "姜锡洲"
+			}
+		],
+		"issued": {
+			"date-parts": [["1980", 7, 26]]
+		}
+	},
+	{
+		"id": "ccmu.5.9.1:6",
+		"type": "standard",
+		"event-place": "北京",
+		"genre": "国家标准",
+		"language": "zh-CN",
+		"note": "applyDate: 1994-07-01\nsubstitute: GB 3100—1986\nCCS: A51",
+		"number": "GB 3100—1993",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"source": "全国标准信息公共服务平台",
+		"status": "现行",
+		"title": "国际单位制及其应用",
+		"URL": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7AA78D3A7E05397BE0A0AB82A",
+		"author": [
+			{
+				"literal": "国家市场监督管理总局"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 3, 13]]
+		},
+		"issued": {
+			"date-parts": [["1993", 7, 1]]
+		}
+	},
+	{
+		"id": "ccmu.5.9.1:7",
+		"type": "article-journal",
+		"archive_location": "63",
+		"call-number": "1",
+		"container-title": "Journal of Hepatology",
+		"DOI": "10.1016/j.jhep.2022.04.002",
+		"ISSN": "0168-8278",
+		"issue": "6",
+		"journalAbbreviation": "J. Hepatol.",
+		"language": "en-US",
+		"note": "publisher: Elsevier\nPMID: 35589249",
+		"page": "1263-1278",
+		"source": "25.7 (Q1)",
+		"title": "Breakthroughs in therapies for NASH and remaining challenges",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0168827822002100",
+		"volume": "76",
+		"author": [
+			{
+				"family": "Ratziu",
+				"given": "Vlad"
+			},
+			{
+				"family": "Francque",
+				"given": "Sven"
+			},
+			{
+				"family": "Sanyal",
+				"given": "Arun"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 3, 13]]
+		},
+		"issued": {
+			"date-parts": [["2022", 6]]
+		}
+	}
+]
