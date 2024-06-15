@@ -454,17 +454,20 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">方明东. 2000. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系.
     <div class="csl-block">(Anonymous. 2000. [D].)</div>
   </div>
+  <div class="csl-entry">费成康. 1999. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学(9): 63-67.
+    <div class="csl-block">(Anonymous. 1999. [J]. (9): 63-67.)</div>
+  </div>
   <div class="csl-entry">管志道. 1997. 答屠仪部赤水丈书[M]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社.
     <div class="csl-block">(Anonymous. 1997. [M].)</div>
   </div>
-  <div class="csl-entry">何龄修. 1998. 读顾诚〈南明史〉[J]. 中国史研究(3).
-    <div class="csl-block">(Anonymous. 1998. [J]. (3).)</div>
+  <div class="csl-entry">何龄修. 1998. 读顾诚〈南明史〉[J]. 中国史研究(3): 167-173.
+    <div class="csl-block">(Anonymous. 1998. [J]. (3): 167-173.)</div>
   </div>
   <div class="csl-entry">黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店: 2.
     <div class="csl-block">(Anonymous. 1997. [M]. 2.)</div>
   </div>
-  <div class="csl-entry">黄义豪. 1997. 评黄龟年四劾秦桧[J]. 福建论坛(3).
-    <div class="csl-block">(Anonymous. 1997. [J]. (3).)</div>
+  <div class="csl-entry">黄义豪. 1997. 评黄龟年四劾秦桧[J]. 福建论坛(3): 26-27.
+    <div class="csl-block">(Anonymous. 1997. [J]. (3): 26-27.)</div>
   </div>
   <div class="csl-entry">蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社.
     <div class="csl-block">(Anonymous. 2001. [M].)</div>
@@ -487,8 +490,8 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">毛祥麟. 1985. 墨余录[M]. 上海: 上海古籍出版社.
     <div class="csl-block">(Anonymous. 1985. [M].)</div>
   </div>
-  <div class="csl-entry">倪素香. 2002. 德育学科的比较研究与理论探索[J]. 武汉大学学报(4).
-    <div class="csl-block">(Anonymous. 2002. [J]. (4).)</div>
+  <div class="csl-entry">倪素香. 2002. 德育学科的比较研究与理论探索[J]. 武汉大学学报(4): 512-513.
+    <div class="csl-block">(Anonymous. 2002. [J]. (4): 512-513.)</div>
   </div>
   <div class="csl-entry">任东来. 2000. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津: 9.
     <div class="csl-block">(Anonymous. 2000. [C]. 9.)</div>
@@ -514,8 +517,8 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.
     <div class="csl-block">(Anonymous. 1998. [EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.)</div>
   </div>
-  <div class="csl-entry">魏丽英. 1990. 论近代西北人口波动的主要原因[J]. 社会科学(6).
-    <div class="csl-block">(Anonymous. 1990. [J]. (6).)</div>
+  <div class="csl-entry">魏丽英. 1990. 论近代西北人口波动的若干主要原因[J]. 社会科学(6): 68-73, 86.
+    <div class="csl-block">(Anonymous. 1990. [J]. (6): 68-73, 86.)</div>
   </div>
   <div class="csl-entry">扬之水. [2007]. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.
     <div class="csl-block">(Anonymous. [2007]. [EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.)</div>

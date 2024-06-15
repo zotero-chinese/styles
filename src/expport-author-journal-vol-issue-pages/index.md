@@ -636,70 +636,73 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">佚名. . 北京: 中华书局, 19871987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修. 中国史研究, 1998(3).</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修. 中国史研究, 1998(3): 167–173.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今. 中国经济, 1936, 4(6).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英. 社会科学, 1990(6).</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英. 社会科学, 1990(6): 68–73, 86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">黄义豪. 福建论坛, 1997(3).</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康. 社会科学, 1999(9): 63–67.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">倪素香. 武汉大学学报, 2002(4).</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">黄义豪. 福建论坛, 1997(3): 26–27.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">李眉. 四川工人日报, 1986: 2.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">倪素香. 武汉大学学报, 2002(4): 512–513.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">伤心人（麦孟华）. 清议报, [日期不详], 第69册: 第1页.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉. 四川工人日报, 1986: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">佚名. 广益丛报, 1910(第8年第19期): 1–2.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）. 清议报, [日期不详], 第69册: 第1页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名. 民国日报, 1925: 4.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名. 广益丛报, 1910(第8年第19期): 1–2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 民国日报, 1933: 第1张第4版.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 民国日报, 1925: 4.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">方明东. . 北京师范大学历史系, 2000.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名. 民国日报, 1933: 第1张第4版.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">任东来. . .</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. . 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. //全球化与亚太区域化国际研讨会论文集. .</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. . .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. (1917-09-15).</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">任东来. //全球化与亚太区域化国际研讨会论文集. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. 1950.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. (1917-09-15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮. . (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">佚名. 1950.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水. . . 《文学遗产通讯》（网络版试刊）2006年第1期. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">王明亮. . (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Brooks. . Chicago: University of Chicago Press, 2000.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">扬之水. . . 《文学遗产通讯》（网络版试刊）2006年第1期. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo. . Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Brooks. . Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain. Modern China, 1993, 19(2): 199–215.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Polo. . Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Schfield. . Rotberg R I et al., eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain. Modern China, 1993, 19(2): 199–215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. (1969-02-01).</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield. . Rotberg R I et al., eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anonymous. (1969-02-01).</div>
   </div>
 </div>
 

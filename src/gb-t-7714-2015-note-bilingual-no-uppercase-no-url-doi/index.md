@@ -264,28 +264,29 @@
 <sup>24</sup> 旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局, 1975.<br>
 <sup>25</sup> 方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社, 1983.<br>
 <sup>26</sup> 清德宗实录: 卷 435[M]. 影印本. 北京: 中华书局, 1987.<br>
-<sup>27</sup> 何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).<br>
+<sup>27</sup> 何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167-173.<br>
 <sup>28</sup> 汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).<br>
-<sup>29</sup> 魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).<br>
-<sup>30</sup> 黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3).<br>
-<sup>31</sup> 倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4).<br>
-<sup>32</sup> 李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).<br>
-<sup>33</sup> 伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).<br>
-<sup>34</sup> 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).<br>
-<sup>35</sup> 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).<br>
-<sup>36</sup> 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).<br>
-<sup>37</sup> 方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.<br>
-<sup>38</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.<br>
-<sup>39</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.<br>
-<sup>40</sup> 傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.<br>
-<sup>41</sup> 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.<br>
-<sup>42</sup> 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.<br>
-<sup>43</sup> 扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.<br>
-<sup>44</sup> Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.<br>
-<sup>45</sup> Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.<br>
-<sup>46</sup> Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.<br>
-<sup>47</sup> Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.<br>
-<sup>48</sup> Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.<br>
+<sup>29</sup> 魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 1990(6): 68-73, 86.<br>
+<sup>30</sup> 费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学, 1999(9): 63-67.<br>
+<sup>31</sup> 黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3): 26-27.<br>
+<sup>32</sup> 倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512-513.<br>
+<sup>33</sup> 李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).<br>
+<sup>34</sup> 伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).<br>
+<sup>35</sup> 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).<br>
+<sup>36</sup> 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).<br>
+<sup>37</sup> 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).<br>
+<sup>38</sup> 方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.<br>
+<sup>39</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.<br>
+<sup>40</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.<br>
+<sup>41</sup> 傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.<br>
+<sup>42</sup> 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.<br>
+<sup>43</sup> 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.<br>
+<sup>44</sup> 扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.<br>
+<sup>45</sup> Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.<br>
+<sup>46</sup> Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.<br>
+<sup>47</sup> Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.<br>
+<sup>48</sup> Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.<br>
+<sup>49</sup> Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -260,9 +260,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2000. pp. 9 (in Chinese) [任东来. 2000. 对国际体制和国际制度的理解和翻译.//全球化与亚太区域化国际研讨会论文集. 天津, pp. 9]</div>
   <div class="csl-entry">不详. pp. 9 (in Chinese) [任东来. 不详. 对国际体制和国际制度的理解和翻译.//全球化与亚太区域化国际研讨会. 天津, pp. 9]</div>
   <div class="csl-entry">不详. 第69册: 第1页 (in Chinese) [伤心人（麦孟华）. 不详. 说奴隶. 清议报, 第69册: 第1页]</div>
-  <div class="csl-entry">1998. (3) (in Chinese) [何龄修. 1998. 读顾诚〈南明史〉. 中国史研究(3)]</div>
+  <div class="csl-entry">1998. (3): 167-173 (in Chinese) [何龄修. 1998. 读顾诚〈南明史〉. 中国史研究(3): 167-173]</div>
   <div class="csl-entry">1998 (in Chinese) [佚名. 1998. 晚清洋务运动事类汇钞五十七种. 北京: 全国图书馆文献缩微复制中心]</div>
-  <div class="csl-entry">2002. (4) (in Chinese) [倪素香. 2002. 德育学科的比较研究与理论探索. 武汉大学学报(4)]</div>
+  <div class="csl-entry">2002. (4): 512-513 (in Chinese) [倪素香. 2002. 德育学科的比较研究与理论探索. 武汉大学学报(4): 512-513]</div>
   <div class="csl-entry">1997. pp. 65 (in Chinese) [唐振常. 1997. 师承与变法.//识史集. 上海: 上海古籍出版社, pp. 65]</div>
   <div class="csl-entry">不详. (光绪三年苏州文学山房活字本) (in Chinese) [姚际恒. 不详. 古今伪书考 (光绪三年苏州文学山房活字本)]</div>
   <div class="csl-entry">1982. 日 (in Chinese) [实藤惠秀. 1982. 中国人留学日本史. 香港: 香港中文大学出版社]</div>
@@ -279,10 +279,11 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1998 (in Chinese) [王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展]</div>
   <div class="csl-entry">1997. (影印本) (in Chinese) [管志道. 1997. 答屠仪部赤水丈书 (影印本). 续问辨牍. 济南: 齐鲁书社]</div>
   <div class="csl-entry">2001 (in Chinese) [蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度. 北京: 法律出版社]</div>
+  <div class="csl-entry">1999. (9): 63-67 (in Chinese) [费成康. 1999. 葡萄牙人如何进入澳门问题辨正. 社会科学(9): 63-67]</div>
   <div class="csl-entry">1948 (in Chinese) [赵景深. 1948. 文坛忆旧. 上海: 北新书局]</div>
-  <div class="csl-entry">1990. (6) (in Chinese) [魏丽英. 1990. 论近代西北人口波动的主要原因. 社会科学(6)]</div>
+  <div class="csl-entry">1990. (6): 68-73, 86 (in Chinese) [魏丽英. 1990. 论近代西北人口波动的若干主要原因. 社会科学(6): 68-73, 86]</div>
   <div class="csl-entry">1981. pp. 325 (in Chinese) [鲁迅. 1981. 中国小说的历史的变迁.//鲁迅全集. 北京: 人民文学出版社, pp. 325]</div>
-  <div class="csl-entry">1997. (3) (in Chinese) [黄义豪. 1997. 评黄龟年四劾秦桧. 福建论坛(3)]</div>
+  <div class="csl-entry">1997. (3): 26-27 (in Chinese) [黄义豪. 1997. 评黄龟年四劾秦桧. 福建论坛(3): 26-27]</div>
   <div class="csl-entry">1997. pp. 2 (in Chinese) [黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序.//中国大历史. 北京: 三联书店, pp. 2]</div>
   <div class="csl-entry">1910. (第8年第19期): 1-2 (in Chinese) [1910. 四川会议厅暂行章程. 广益丛报(第8年第19期): 1-2]</div>
   <div class="csl-entry">1917 (in Chinese) [1917. 傅良佐致国务院电]</div>

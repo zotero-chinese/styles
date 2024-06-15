@@ -636,70 +636,73 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">“清德宗实录,” vol. 435. 中华书局, 北京, 1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修, “读顾诚〈南明史〉,” 中国史研究, no. 3, 1998.</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修, “读顾诚〈南明史〉,” 中国史研究, no. 3, pp. 167–173, 1998.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今, “江苏的小农及其副业,” 中国经济, vol. 4, no. 6, Jun. 1936.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英, “论近代西北人口波动的主要原因,” 社会科学, no. 6, 1990.</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英, “论近代西北人口波动的若干主要原因,” 社会科学, no. 6, pp. 68–73, 86, 1990, doi: <a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">10.15891/j.cnki.cn62-1093/c.1990.06.017</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">黄义豪, “评黄龟年四劾秦桧,” 福建论坛, no. 3, 1997.</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康, “葡萄牙人如何进入澳门问题辨正,” 社会科学, no. 9, pp. 63–67, 1999, Accessed: Jun. 12, 2024. [Online]. Available: <a href="https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">倪素香, “德育学科的比较研究与理论探索,” 武汉大学学报, no. 4, 2002.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">黄义豪, “评黄龟年四劾秦桧,” 福建论坛, no. 3, pp. 26–27, 1997.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">李眉, “李劼人轶事,” 四川工人日报, p. 2, Aug. 22, 1986.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">倪素香, “德育学科的比较研究与理论探索,” 武汉大学学报, no. 4, pp. 512–513, 2002.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">伤心人（麦孟华）, “说奴隶,” 清议报, vol. 第69册, p. 第1页.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉, “李劼人轶事,” 四川工人日报, p. 2, Aug. 22, 1986.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">“四川会议厅暂行章程,” 广益丛报, no. 第8年第19期, pp. 1–2, Sep. 03, 1910.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）, “说奴隶,” 清议报, vol. 第69册, p. 第1页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">“上海各路商界总联合会致外交部电,” 民国日报, 上海, p. 4, Aug. 14, 1925.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">“四川会议厅暂行章程,” 广益丛报, no. 第8年第19期, pp. 1–2, Sep. 03, 1910.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">“西南中委反对在宁召开五全会,” 民国日报, 上海, p. 第1张第4版, Aug. 11, 1933.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">“上海各路商界总联合会致外交部电,” 民国日报, 上海, p. 4, Aug. 14, 1925.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">方明东, “罗隆基政治思想研究（1913—1949）,” 博士学位论文, 北京师范大学历史系, 2000.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">“西南中委反对在宁召开五全会,” 民国日报, 上海, p. 第1张第4版, Aug. 11, 1933.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">任东来, “对国际体制和国际制度的理解和翻译,” 天津, p. 9.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东, “罗隆基政治思想研究（1913—1949）,” 博士学位论文, 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来, “对国际体制和国际制度的理解和翻译,” in 全球化与亚太区域化国际研讨会论文集, 天津, Jun. 2000, p. 9.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来, “对国际体制和国际制度的理解和翻译,” 天津, p. 9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">“傅良佐致国务院电,” Sep. 15, 1917.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">任东来, “对国际体制和国际制度的理解和翻译,” in 全球化与亚太区域化国际研讨会论文集, 天津, Jun. 2000, p. 9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">“党外人士座谈会记录.” Jul. 1950.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">“傅良佐致国务院电,” Sep. 15, 1917.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮, “关于中国学术期刊标准化数据库系统工程的进展.” Accessed: Oct. 04, 1998. [Online]. Available: <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a></div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">“党外人士座谈会记录.” Jul. 1950.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水, “两宋茶诗与茶事,” 《文学遗产通讯》（网络版试刊）2006年第1期. Accessed: Sep. 13, 2007. [Online]. Available: <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">王明亮, “关于中国学术期刊标准化数据库系统工程的进展.” Accessed: Oct. 04, 1998. [Online]. Available: <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">P. Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press, 2000.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">扬之水, “两宋茶诗与茶事,” 《文学遗产通讯》（网络版试刊）2006年第1期. Accessed: Sep. 13, 2007. [Online]. Available: <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">M. Polo, <i>The travels of Marco Polo</i>. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">P. Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">H. B. Chamberlain, “On the search for civil society in China,” <i>Modern China</i>, vol. 19, no. 2, pp. 199–215, Apr. 1993, doi: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">M. Polo, <i>The travels of Marco Polo</i>. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">R. S. Schfield, “The impact of scarcity and plenty on population change in England,” in <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>, R. I. Rotberg and T. K. Rabb, Eds., Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">H. B. Chamberlain, “On the search for civil society in China,” <i>Modern China</i>, vol. 19, no. 2, pp. 199–215, Apr. 1993, doi: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">“Nixon to Kissinger,” Feb. 01, 1969.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">R. S. Schfield, “The impact of scarcity and plenty on population change in England,” in <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>, R. I. Rotberg and T. K. Rabb, Eds., Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">“Nixon to Kissinger,” Feb. 01, 1969.</div>
   </div>
 </div>
 

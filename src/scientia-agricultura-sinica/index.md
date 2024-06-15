@@ -497,62 +497,65 @@
   <div class="csl-entry">[26]	清德宗实录: 卷 435. 影印本. 北京: 中华书局, 1987.
     <div class="csl-block">清德宗实录: 卷 435. 影印本. 北京: 中华书局, 1987. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉. 中国史研究, 1998(3).
-    <div class="csl-block">何龄修. 读顾诚〈南明史〉. 中国史研究, 1998(3). (in Chinese)</div>
+  <div class="csl-entry">[27]	何龄修. 读顾诚〈南明史〉. 中国史研究, 1998(3): 167-173.
+    <div class="csl-block">何龄修. 读顾诚〈南明史〉. 中国史研究, 1998(3): 167-173. (in Chinese)</div>
   </div>
   <div class="csl-entry">[28]	汪疑今. 江苏的小农及其副业. 中国经济, 1936, 4(6).
     <div class="csl-block">汪疑今. 江苏的小农及其副业. 中国经济, 1936, 4(6). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的主要原因. 社会科学, 1990(6).
-    <div class="csl-block">魏丽英. 论近代西北人口波动的主要原因. 社会科学, 1990(6). (in Chinese)</div>
+  <div class="csl-entry">[29]	魏丽英. 论近代西北人口波动的若干主要原因. 社会科学, 1990(6): 68-73, 86.
+    <div class="csl-block">魏丽英. 论近代西北人口波动的若干主要原因. 社会科学, 1990(6): 68-73, 86. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[30]	黄义豪. 评黄龟年四劾秦桧. 福建论坛, 1997(3).
-    <div class="csl-block">黄义豪. 评黄龟年四劾秦桧. 福建论坛, 1997(3). (in Chinese)</div>
+  <div class="csl-entry">[30]	费成康. 葡萄牙人如何进入澳门问题辨正. 社会科学, 1999(9): 63-67.
+    <div class="csl-block">费成康. 葡萄牙人如何进入澳门问题辨正. 社会科学, 1999(9): 63-67. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[31]	倪素香. 德育学科的比较研究与理论探索. 武汉大学学报, 2002(4).
-    <div class="csl-block">倪素香. 德育学科的比较研究与理论探索. 武汉大学学报, 2002(4). (in Chinese)</div>
+  <div class="csl-entry">[31]	黄义豪. 评黄龟年四劾秦桧. 福建论坛, 1997(3): 26-27.
+    <div class="csl-block">黄义豪. 评黄龟年四劾秦桧. 福建论坛, 1997(3): 26-27. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[32]	李眉. 李劼人轶事. 四川工人日报, 1986-08-22(2).
+  <div class="csl-entry">[32]	倪素香. 德育学科的比较研究与理论探索. 武汉大学学报, 2002(4): 512-513.
+    <div class="csl-block">倪素香. 德育学科的比较研究与理论探索. 武汉大学学报, 2002(4): 512-513. (in Chinese)</div>
+  </div>
+  <div class="csl-entry">[33]	李眉. 李劼人轶事. 四川工人日报, 1986-08-22(2).
     <div class="csl-block">李眉. 李劼人轶事. 四川工人日报, 1986-08-22(2). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[33]	伤心人（麦孟华）. 说奴隶. 清议报(第1页).
+  <div class="csl-entry">[34]	伤心人（麦孟华）. 说奴隶. 清议报(第1页).
     <div class="csl-block">伤心人（麦孟华）. 说奴隶. 清议报(第1页). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[34]	四川会议厅暂行章程. 广益丛报, 1910-09-03(1-2).
+  <div class="csl-entry">[35]	四川会议厅暂行章程. 广益丛报, 1910-09-03(1-2).
     <div class="csl-block">四川会议厅暂行章程. 广益丛报, 1910-09-03(1-2). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[35]	上海各路商界总联合会致外交部电. 民国日报, 1925-08-14(4).
+  <div class="csl-entry">[36]	上海各路商界总联合会致外交部电. 民国日报, 1925-08-14(4).
     <div class="csl-block">上海各路商界总联合会致外交部电. 民国日报, 1925-08-14(4). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[36]	西南中委反对在宁召开五全会. 民国日报, 1933-08-11(第1张第4版).
+  <div class="csl-entry">[37]	西南中委反对在宁召开五全会. 民国日报, 1933-08-11(第1张第4版).
     <div class="csl-block">西南中委反对在宁召开五全会. 民国日报, 1933-08-11(第1张第4版). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[37]	方明东. 罗隆基政治思想研究（1913—1949）. 北京师范大学历史系, 2000.
+  <div class="csl-entry">[38]	方明东. 罗隆基政治思想研究（1913—1949）. 北京师范大学历史系, 2000.
     <div class="csl-block">方明东. 罗隆基政治思想研究（1913—1949）. 北京师范大学历史系, 2000. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[38]	任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.
+  <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.
     <div class="csl-block">任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会, 2000年6月, 天津. 天津: 9. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[39]	任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.
+  <div class="csl-entry">[40]	任东来. 对国际体制和国际制度的理解和翻译//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.
     <div class="csl-block">任东来. 对国际体制和国际制度的理解和翻译. 天津, 2000: 9. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[40]	傅良佐致国务院电: 北洋档案 1011—5961. 1917.
+  <div class="csl-entry">[41]	傅良佐致国务院电: 北洋档案 1011—5961. 1917.
     <div class="csl-block">傅良佐致国务院电: 北洋档案 1011—5961. 1917. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[41]	党外人士座谈会记录: 李劼人档案. 1950.
+  <div class="csl-entry">[42]	党外人士座谈会记录: 李劼人档案. 1950.
     <div class="csl-block">党外人士座谈会记录: 李劼人档案. 1950. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[42]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展. (1998-08-16).
+  <div class="csl-entry">[43]	王明亮. 关于中国学术期刊标准化数据库系统工程的进展. (1998-08-16).
     <div class="csl-block">王明亮. 关于中国学术期刊标准化数据库系统工程的进展. (1998-08-16). (in Chinese)</div>
   </div>
-  <div class="csl-entry">[43]	扬之水. 两宋茶诗与茶事//《文学遗产通讯》（网络版试刊）2006年第1期.
+  <div class="csl-entry">[44]	扬之水. 两宋茶诗与茶事//《文学遗产通讯》（网络版试刊）2006年第1期.
     <div class="csl-block">扬之水. 两宋茶诗与茶事. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[44]	Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000.</div>
-  <div class="csl-entry">[45]	Polo M. The travels of Marco Polo. MARSDEN W, tran. Hertfordshire: Cumberland House, 1997.</div>
-  <div class="csl-entry">[46]	Chamberlain H B. On the search for civil society in China. Modern China, 1993, 19(2): 199-215.</div>
-  <div class="csl-entry">[47]	Schfield R S. The impact of scarcity and plenty on population change in England//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). 1969.</div>
+  <div class="csl-entry">[45]	Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000.</div>
+  <div class="csl-entry">[46]	Polo M. The travels of Marco Polo. MARSDEN W, tran. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[47]	Chamberlain H B. On the search for civil society in China. Modern China, 1993, 19(2): 199-215.</div>
+  <div class="csl-entry">[48]	Schfield R S. The impact of scarcity and plenty on population change in England//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+  <div class="csl-entry">[49]	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). 1969.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

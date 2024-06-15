@@ -277,6 +277,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">狄葆贤，《平等阁笔记》，上海：有正书局。</div>
   <div class="csl-entry">杜威·佛克马，1999，《走向新世界主义》，王宁、薛晓源主编《全球化与后殖民批评》，北京：中央编译出版社。</div>
   <div class="csl-entry">方明东，2000，《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系博士学位论文。</div>
+  <div class="csl-entry">费成康，1999，《葡萄牙人如何进入澳门问题辨正》，《社会科学》第9期。</div>
   <div class="csl-entry">管志道，1997，《答屠仪部赤水丈书》，《续问辨牍》第2卷，济南：齐鲁书社。</div>
   <div class="csl-entry">何龄修，1998，《读顾诚〈南明史〉》，《中国史研究》第3期。</div>
   <div class="csl-entry">黄仁宇，1997，《为什么称为“中国大历史”？——中文版自序》，《中国大历史》，北京：三联书店。</div>
@@ -297,7 +298,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">唐振常，1997，《师承与变法》，《识史集》，上海：上海古籍出版社。</div>
   <div class="csl-entry">汪疑今，1936，《江苏的小农及其副业》，《中国经济》第6期。</div>
   <div class="csl-entry">王明亮，1998，《关于中国学术期刊标准化数据库系统工程的进展》（<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>）。</div>
-  <div class="csl-entry">魏丽英，1990，《论近代西北人口波动的主要原因》，《社会科学》第6期。</div>
+  <div class="csl-entry">魏丽英，1990，《论近代西北人口波动的若干主要原因》，《社会科学》第6期。</div>
   <div class="csl-entry">扬之水，《两宋茶诗与茶事》（<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>）。</div>
   <div class="csl-entry">杨钟羲，1991，《雪桥诗话续集》影印本第5卷，沈阳：辽沈书社。</div>
   <div class="csl-entry">姚际恒，《古今伪书考》光绪三年苏州文学山房活字本第3卷。</div>

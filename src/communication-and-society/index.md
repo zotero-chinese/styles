@@ -253,7 +253,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">任继愈（編）（1983）。《中国哲学发展史（先秦卷）》。北京：人民出版社。</div>
   <div class="csl-entry">伤心人（麦孟华）（不詳）。〈说奴隶〉。《清议报》，第第69册卷，第第1页版。（Original work published 光绪二十六年十一月二十一日）</div>
   <div class="csl-entry">扬之水（不詳）。〈两宋茶诗与茶事〉。取《文学遗产通讯》（网络版试刊）2006年第1期。上網日期：2007年9月13日，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
-  <div class="csl-entry">何龄修（1998）。〈读顾诚〈南明史〉〉。《中国史研究》，第3期。</div>
+  <div class="csl-entry">何龄修（1998）。〈读顾诚〈南明史〉〉。《中国史研究》，第3期，頁167–173。</div>
   <div class="csl-entry">佚名（1998）。《晚清洋务运动事类汇钞五十七种：卷 上册》。北京：全国图书馆文献缩微复制中心。</div>
   <div class="csl-entry">李眉（1986年8月22日）。〈李劼人轶事〉。《四川工人日报》，第2版。</div>
   <div class="csl-entry">李鹏程（1994）。《当代文化哲学沉思》。北京：人民出版社。</div>
@@ -264,21 +264,22 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">实藤惠秀（1982）。《中国人留学日本史》 （谭汝谦 &#38; 林启彦譯）。香港：香港中文大学出版社。</div>
   <div class="csl-entry">金冲及（編）（1989）。《周恩来传》。北京：人民出版社、中央文献出版社。</div>
   <div class="csl-entry">姚际恒（不詳）。《古今伪书考》 （光绪三年苏州文学山房活字本，卷 3）。</div>
+  <div class="csl-entry">费成康（1999）。〈葡萄牙人如何进入澳门问题辨正〉。《社会科学》，第9期，頁63–67。</div>
   <div class="csl-entry">赵景深（1948）。《文坛忆旧》。上海：北新书局。</div>
-  <div class="csl-entry">倪素香（2002）。〈德育学科的比较研究与理论探索〉。《武汉大学学报》，第4期。</div>
+  <div class="csl-entry">倪素香（2002）。〈德育学科的比较研究与理论探索〉。《武汉大学学报》，第4期，頁512–513。</div>
   <div class="csl-entry">《党外人士座谈会记录》 （李劼人档案）（1950）。中共四川省委统战部档案室。</div>
   <div class="csl-entry">唐振常（1997）。〈师承与变法〉。<i>识史集</i>（頁65）。上海：上海古籍出版社。</div>
   <div class="csl-entry">《荣庆日记》（1986）。西安：西北大学出版社。</div>
   <div class="csl-entry">《清德宗实录》 （影印本，卷 435）（1987）。北京：中华书局。（Original work published 光绪二十四年十二月上）</div>
   <div class="csl-entry">《傅良佐致国务院电》 （北洋档案 1011—5961）（1917年9月15日）。中国第二历史档案馆。</div>
   <div class="csl-entry">鲁迅（1981）。〈中国小说的历史的变迁〉。<i>鲁迅全集：卷 第9册</i>（頁325）。北京：人民文学出版社。</div>
-  <div class="csl-entry">黄义豪（1997）。〈评黄龟年四劾秦桧〉。《福建论坛》，第3期。</div>
+  <div class="csl-entry">黄义豪（1997）。〈评黄龟年四劾秦桧〉。《福建论坛》，第3期，頁26–27。</div>
   <div class="csl-entry">黄仁宇（1997）。〈为什么称为“中国大历史”？——中文版自序〉。<i>中国大历史</i>（頁2）。北京：三联书店。</div>
   <div class="csl-entry">楼适夷（1998）。〈读家书，想傅雷（代序）〉。傅敏（編），<i>傅雷家书</i>（增补本，頁2）。北京：三联书店。</div>
   <div class="csl-entry">蒋大兴（2001）。《公司法的展开与评判——方法·判例·制度》。北京：法律出版社。</div>
   <div class="csl-entry">《嘉定县志》 （卷 12）（不詳）。（Original work published 乾隆）</div>
   <div class="csl-entry">管志道（1997）。〈答屠仪部赤水丈书〉。<i>续问辨牍</i>（影印本，卷 2）。济南：齐鲁书社。</div>
-  <div class="csl-entry">魏丽英（1990）。〈论近代西北人口波动的主要原因〉。《社会科学》，第6期。</div>
+  <div class="csl-entry">魏丽英（1990）。〈论近代西北人口波动的若干主要原因〉。《社会科学》，第6期，頁68–73, 86。<a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017</a></div>
   <div class="csl-entry">Brooks, P. (2000). <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press.</div>
   <div class="csl-entry">Chamberlain, H. B. (1993). On the search for civil society in China. <i>Modern China</i>, <i>19</i>(2), 199–215. <a href="https://doi.org/10.1177/009770049301900206">https://doi.org/10.1177/009770049301900206</a></div>
   <div class="csl-entry"><i>Nixon to Kissinger</i> (Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)). (1969, February 1). National Archives II, College Park, MD.</div>

@@ -585,13 +585,13 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">管志道．答屠仪部赤水丈书［M］//续问辨牍：卷．2．影印本．济南：齐鲁书社，1997．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">何龄修．读顾诚〈南明史〉［J］．中国史研究，1998（3）．</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">何龄修．读顾诚〈南明史〉［J］．中国史研究，1998（3）：167－173．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">黄仁宇．为什么称为“中国大历史”？——中文版自序［M］//中国大历史．北京：三联书店，1997：2．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">黄义豪．评黄龟年四劾秦桧［J］．福建论坛，1997（3）．</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">黄义豪．评黄龟年四劾秦桧［J］．福建论坛，1997（3）：26－27．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">蒋大兴．公司法的展开与评判——方法·判例·制度［M］．北京：法律出版社，2001．</div>
@@ -615,7 +615,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">毛祥麟．墨余录［M］．上海：上海古籍出版社，1985．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">倪素香．德育学科的比较研究与理论探索［J］．武汉大学学报，2002（4）．</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">倪素香．德育学科的比较研究与理论探索［J］．武汉大学学报，2002（4）：512－513．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">任东来．对国际体制和国际制度的理解和翻译［C］//全球化与亚太区域化国际研讨会论文集．天津，2000：9．</div>
@@ -642,7 +642,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">王明亮．关于中国学术期刊标准化数据库系统工程的进展［EB/OL］．（1998-08-16）［1998-10-04］．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英．论近代西北人口波动的主要原因［J］．社会科学，1990（6）．</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英．论近代西北人口波动的若干主要原因［J］．社会科学，1990（6）：68－73, 86．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">扬之水．两宋茶诗与茶事［EB/OL］．［2007-09-13］．<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>．</div>
@@ -702,19 +702,22 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">佚名．上海县续志：卷．1［M］．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">费成康．葡萄牙人如何进入澳门问题辨正［J］．社会科学，1999（9）：63－67．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   </div>
 </div>
 

@@ -252,28 +252,29 @@
 <sup>24</sup> 《旧唐书》，标点本，第9卷，北京：中华书局，1975年。<br>
 <sup>25</sup> 《方苞集》，标点本，第6卷，上海：上海古籍出版社，1983年。<br>
 <sup>26</sup> 《清德宗实录》，影印本，第435卷，北京：中华书局，1987年。<br>
-<sup>27</sup> 何龄修：《读顾诚〈南明史〉》，载《中国史研究》1998年第3期。<br>
+<sup>27</sup> 何龄修：《读顾诚〈南明史〉》，载《中国史研究》1998年第3期，第167–173页。<br>
 <sup>28</sup> 汪疑今：《江苏的小农及其副业》，载《中国经济》1936年第6期。<br>
-<sup>29</sup> 魏丽英：《论近代西北人口波动的主要原因》，载《社会科学》（兰州）1990年第6期。<br>
-<sup>30</sup> 黄义豪：《评黄龟年四劾秦桧》，载《福建论坛》1997年第3期。<br>
-<sup>31</sup> 倪素香：《德育学科的比较研究与理论探索》，载《武汉大学学报》2002年第4期。<br>
-<sup>32</sup> 李眉：《李劼人轶事》，载《四川工人日报》1986年8月22日。<br>
-<sup>33</sup> 伤心人（麦孟华）：《说奴隶》，载《清议报》。<br>
-<sup>34</sup> 《四川会议厅暂行章程》，载《广益丛报》1910年9月3日。<br>
-<sup>35</sup> 《上海各路商界总联合会致外交部电》，载《民国日报》1925年8月14日。<br>
-<sup>36</sup> 《西南中委反对在宁召开五全会》，载《民国日报》1933年8月11日。<br>
-<sup>37</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系博士学位论文学位论文，2000年。<br>
-<sup>38</sup> 任东来：《对国际体制和国际制度的理解和翻译》，第9页。<br>
-<sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，2000年6月，第9页。<br>
-<sup>40</sup> 《傅良佐致国务院电》，中国第二历史档案馆：北洋档案 1011—5961，1917年。<br>
-<sup>41</sup> 《党外人士座谈会记录》，中共四川省委统战部档案室：李劼人档案，1950年。<br>
-<sup>42</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日， <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>。<br>
-<sup>43</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期， <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>。<br>
-<sup>44</sup> Peter Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>45</sup> Marco Polo, <i>The travels of Marco Polo</i>, trans. William Marsden, Hertfordshire: Cumberland House, 1997.<br>
-<sup>46</sup> Heath B. Chamberlain, “On the search for civil society in China,” <i>Modern China</i>, Vol. 19, No. 2, 1993, pp. 199–215.<br>
-<sup>47</sup> R. S. Schfield, “The impact of scarcity and plenty on population change in England,” in R. I. Rotberg and T. K. Rabb eds., <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.<br>
-<sup>48</sup> <i>Nixon to Kissinger</i>, National Archives II, College Park, MD, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), 1969.<br>
+<sup>29</sup> 魏丽英：《论近代西北人口波动的若干主要原因》，载《社会科学》（兰州）1990年第6期，第68–73, 86页。<br>
+<sup>30</sup> 费成康：《葡萄牙人如何进入澳门问题辨正》，载《社会科学》1999年第9期，第63–67页。<br>
+<sup>31</sup> 黄义豪：《评黄龟年四劾秦桧》，载《福建论坛》1997年第3期，第26–27页。<br>
+<sup>32</sup> 倪素香：《德育学科的比较研究与理论探索》，载《武汉大学学报》2002年第4期，第512–513页。<br>
+<sup>33</sup> 李眉：《李劼人轶事》，载《四川工人日报》1986年8月22日。<br>
+<sup>34</sup> 伤心人（麦孟华）：《说奴隶》，载《清议报》。<br>
+<sup>35</sup> 《四川会议厅暂行章程》，载《广益丛报》1910年9月3日。<br>
+<sup>36</sup> 《上海各路商界总联合会致外交部电》，载《民国日报》1925年8月14日。<br>
+<sup>37</sup> 《西南中委反对在宁召开五全会》，载《民国日报》1933年8月11日。<br>
+<sup>38</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系博士学位论文学位论文，2000年。<br>
+<sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，第9页。<br>
+<sup>40</sup> 任东来：《对国际体制和国际制度的理解和翻译》，2000年6月，第9页。<br>
+<sup>41</sup> 《傅良佐致国务院电》，中国第二历史档案馆：北洋档案 1011—5961，1917年。<br>
+<sup>42</sup> 《党外人士座谈会记录》，中共四川省委统战部档案室：李劼人档案，1950年。<br>
+<sup>43</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日， <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>。<br>
+<sup>44</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期， <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>。<br>
+<sup>45</sup> Peter Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>, Chicago: University of Chicago Press, 2000.<br>
+<sup>46</sup> Marco Polo, <i>The travels of Marco Polo</i>, trans. William Marsden, Hertfordshire: Cumberland House, 1997.<br>
+<sup>47</sup> Heath B. Chamberlain, “On the search for civil society in China,” <i>Modern China</i>, Vol. 19, No. 2, 1993, pp. 199–215.<br>
+<sup>48</sup> R. S. Schfield, “The impact of scarcity and plenty on population change in England,” in R. I. Rotberg and T. K. Rabb eds., <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.<br>
+<sup>49</sup> <i>Nixon to Kissinger</i>, National Archives II, College Park, MD, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), 1969.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

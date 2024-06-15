@@ -593,139 +593,142 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">方明东，2000，《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系博士学位论文学位论文，2000年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">管志道，1997，《答屠仪部赤水丈书》. 济南: 齐鲁书社。</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">费成康，1999，《葡萄牙人如何进入澳门问题辨正》，《社会科学》第9期，第63~67页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">何龄修，1998，《读顾诚〈南明史〉》，《中国史研究》第3期。</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">管志道，1997，《答屠仪部赤水丈书》. 济南: 齐鲁书社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">黄仁宇，1997，《为什么称为“中国大历史”？——中文版自序》//《中国大历史》北京: 三联书店，1997年。</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">何龄修，1998，《读顾诚〈南明史〉》，《中国史研究》第3期，第167~173页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">黄义豪，1997，《评黄龟年四劾秦桧》，《福建论坛》第3期。</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">黄仁宇，1997，《为什么称为“中国大历史”？——中文版自序》//《中国大历史》北京: 三联书店，1997年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">蒋大兴，2001，《公司法的展开与评判——方法·判例·制度》. 北京: 法律出版社，2001年。</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">黄义豪，1997，《评黄龟年四劾秦桧》，《福建论坛》第3期，第26~27页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">李眉，1986，《李劼人轶事》，《四川工人日报》第2页。</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">蒋大兴，2001，《公司法的展开与评判——方法·判例·制度》. 北京: 法律出版社，2001年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">李鹏程，1994，《当代文化哲学沉思》. 北京: 人民出版社，1994年。</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">李眉，1986，《李劼人轶事》，《四川工人日报》第2页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">楼适夷，1998，《读家书，想傅雷（代序）》. 傅敏, 编//《傅雷家书》增补本 版. 北京: 三联书店，1998年。</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">李鹏程，1994，《当代文化哲学沉思》. 北京: 人民出版社，1994年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">鲁迅，1981，《中国小说的历史的变迁》//《鲁迅全集》北京: 人民文学出版社，1981年。</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">楼适夷，1998，《读家书，想傅雷（代序）》. 傅敏, 编//《傅雷家书》增补本 版. 北京: 三联书店，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">毛祥麟，1985，《墨余录》. 上海: 上海古籍出版社。</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">鲁迅，1981，《中国小说的历史的变迁》//《鲁迅全集》北京: 人民文学出版社，1981年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">倪素香，2002，《德育学科的比较研究与理论探索》，《武汉大学学报》第4期。</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">毛祥麟，1985，《墨余录》. 上海: 上海古籍出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">任东来，2000，《对国际体制和国际制度的理解和翻译》//《全球化与亚太区域化国际研讨会论文集》。</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">倪素香，2002，《德育学科的比较研究与理论探索》，《武汉大学学报》第4期，第512~513页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">任东来，[日期不详]，《对国际体制和国际制度的理解和翻译》. 。</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">任东来，2000，《对国际体制和国际制度的理解和翻译》//《全球化与亚太区域化国际研讨会论文集》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">伤心人（麦孟华），[日期不详]，《说奴隶》，《清议报》第第1页页。</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">任东来，[日期不详]，《对国际体制和国际制度的理解和翻译》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">实藤惠秀，1982，《中国人留学日本史》. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社，1982年。</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">伤心人（麦孟华），[日期不详]，《说奴隶》，《清议报》第第1页页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">唐振常，1997，《师承与变法》//《识史集》上海: 上海古籍出版社，1997年。</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">实藤惠秀，1982，《中国人留学日本史》. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社，1982年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">汪疑今，1936，《江苏的小农及其副业》，《中国经济》第6期。</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">唐振常，1997，《师承与变法》//《识史集》上海: 上海古籍出版社，1997年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">王明亮，1998，《关于中国学术期刊标准化数据库系统工程的进展》(1998-08-16)。</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">汪疑今，1936，《江苏的小农及其副业》，《中国经济》第6期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">魏丽英，1990，《论近代西北人口波动的主要原因》，《社会科学》第6期。</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">王明亮，1998，《关于中国学术期刊标准化数据库系统工程的进展》(1998-08-16)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">扬之水，[日期不详]，《两宋茶诗与茶事》。</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">魏丽英，1990，《论近代西北人口波动的若干主要原因》，《社会科学》第6期，第68~73, 86页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">杨钟羲，1991，《雪桥诗话续集》. 沈阳: 辽沈书社。</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">扬之水，[日期不详]，《两宋茶诗与茶事》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">姚际恒，[日期不详]，《古今伪书考》。</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">杨钟羲，1991，《雪桥诗话续集》. 沈阳: 辽沈书社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">佚名，1998a，《晚清洋务运动事类汇钞五十七种》. 北京: 全国图书馆文献缩微复制中心，1998年。</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">姚际恒，[日期不详]，《古今伪书考》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">赵景深，1948，《文坛忆旧》. 上海: 北新书局，1948年。</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">佚名，1998a，《晚清洋务运动事类汇钞五十七种》. 北京: 全国图书馆文献缩微复制中心，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">佚名，1910，《四川会议厅暂行章程》，《广益丛报》第第8年第19期期，第1~2页。</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">赵景深，1948，《文坛忆旧》. 上海: 北新书局，1948年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">佚名，1917，《傅良佐致国务院电》(1917-09-15)。</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">佚名，1910，《四川会议厅暂行章程》，《广益丛报》第第8年第19期期，第1~2页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">佚名，1925，《上海各路商界总联合会致外交部电》，《民国日报》第4页。</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">佚名，1917，《傅良佐致国务院电》(1917-09-15)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">佚名，1933，《西南中委反对在宁召开五全会》，《民国日报》第第1张第4版页。</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">佚名，1925，《上海各路商界总联合会致外交部电》，《民国日报》第4页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名，1950，《党外人士座谈会记录》。</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名，1933，《西南中委反对在宁召开五全会》，《民国日报》第第1张第4版页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Anonymous. 1969. “Nixon to Kissinger”(1969-02-01).</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">佚名，1950，《党外人士座谈会记录》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">佚名，1975，《旧唐书》. 北京: 中华书局。</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Anonymous. 1969. “Nixon to Kissinger”(1969-02-01).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名，1983a，《中国哲学发展史（先秦卷）》. 任继愈, 编. 北京: 人民出版社，1983年。</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名，1975，《旧唐书》. 北京: 中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名，1983b，《方苞集》. 上海: 上海古籍出版社。</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名，1983a，《中国哲学发展史（先秦卷）》. 任继愈, 编. 北京: 人民出版社，1983年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名，1985，《太平御览》. 北京: 中华书局。</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名，1983b，《方苞集》. 上海: 上海古籍出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">佚名，1986，《荣庆日记》. 西安: 西北大学出版社，1986年。</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">佚名，1985，《太平御览》. 北京: 中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">佚名，1987，《清德宗实录》. 北京: 中华书局。</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">佚名，1986，《荣庆日记》. 西安: 西北大学出版社，1986年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名，1989，《周恩来传》. 金冲及, 编. 北京: 人民出版社、中央文献出版社，1989年。</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名，1987，《清德宗实录》. 北京: 中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名，1992，《广东通志》. 北京: 中国书店。</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名，1989，《周恩来传》. 金冲及, 编. 北京: 人民出版社、中央文献出版社，1989年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">佚名，1998b，《马克思恩格斯全集》. 北京: 人民出版社，1998年。</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">佚名，1992，《广东通志》. 北京: 中国书店。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">佚名，[日期不详]，《嘉定县志》。</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">佚名，1998b，《马克思恩格斯全集》. 北京: 人民出版社，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">佚名，[日期不详]，《上海县续志》。</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">佚名，[日期不详]，《嘉定县志》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Brooks, P. 2000. “Troubling Confessions: Speaking Guilt in Law and Literature”. Chicago: University of Chicago Press.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">佚名，[日期不详]，《上海县续志》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain, H.B. 1993. “On the Search for Civil Society in China,” <i>Modern China</i>, 19(2): pp.199~215.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Brooks, P. 2000. “Troubling Confessions: Speaking Guilt in Law and Literature”. Chicago: University of Chicago Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Polo, M. 1997. “The Travels of Marco Polo.” Marsden W, tran.. Hertfordshire: Cumberland House.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain, H.B. 1993. “On the Search for Civil Society in China,” <i>Modern China</i>, 19(2): pp.199~215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield, R.S. 1983. “The Impact of Scarcity and Plenty on Population Change in England.” Rotberg R I, T K Rabb, eds.//, <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>Cambridge, Mass.: Cambridge University Press: 55~88.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Polo, M. 1997. “The Travels of Marco Polo.” Marsden W, tran.. Hertfordshire: Cumberland House.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Schfield, R.S. 1983. “The Impact of Scarcity and Plenty on Population Change in England.” Rotberg R I, T K Rabb, eds.//, <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>Cambridge, Mass.: Cambridge University Press: 55~88.</div>
   </div>
 </div>
 

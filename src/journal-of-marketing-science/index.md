@@ -592,139 +592,142 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[3]	方明东. 2000. 罗隆基政治思想研究（1913—1949）[D]，北京师范大学历史系博士学位论文学位论文，2000年.
     <div class="csl-block">方明东. 2000. 罗隆基政治思想研究（1913—1949）[D]，北京师范大学历史系博士学位论文学位论文，2000年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[4]	管志道. 1997. 答屠仪部赤水丈书[M]. 济南: 齐鲁书社.
+  <div class="csl-entry">[4]	费成康. 1999. 葡萄牙人如何进入澳门问题辨正[J]，社会科学, 9: 63-67. .
+    <div class="csl-block">费成康. 1999. 葡萄牙人如何进入澳门问题辨正[J]，社会科学, 9: 63-67. (In Chinese)</div>
+  </div>
+  <div class="csl-entry">[5]	管志道. 1997. 答屠仪部赤水丈书[M]. 济南: 齐鲁书社.
     <div class="csl-block">管志道. 1997. 答屠仪部赤水丈书[M]. 济南: 齐鲁书社 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[5]	何龄修. 1998. 读顾诚〈南明史〉[J]，中国史研究, 3. .
-    <div class="csl-block">何龄修. 1998. 读顾诚〈南明史〉[J]，中国史研究, 3. (In Chinese)</div>
+  <div class="csl-entry">[6]	何龄修. 1998. 读顾诚〈南明史〉[J]，中国史研究, 3: 167-173. .
+    <div class="csl-block">何龄修. 1998. 读顾诚〈南明史〉[J]，中国史研究, 3: 167-173. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[6]	黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史北京: 三联书店，1997年.
+  <div class="csl-entry">[7]	黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史北京: 三联书店，1997年.
     <div class="csl-block">黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史北京: 三联书店，1997年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[7]	黄义豪. 1997. 评黄龟年四劾秦桧[J]，福建论坛, 3. .
-    <div class="csl-block">黄义豪. 1997. 评黄龟年四劾秦桧[J]，福建论坛, 3. (In Chinese)</div>
+  <div class="csl-entry">[8]	黄义豪. 1997. 评黄龟年四劾秦桧[J]，福建论坛, 3: 26-27. .
+    <div class="csl-block">黄义豪. 1997. 评黄龟年四劾秦桧[J]，福建论坛, 3: 26-27. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[8]	蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社，2001年.
+  <div class="csl-entry">[9]	蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社，2001年.
     <div class="csl-block">蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社，2001年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[9]	李眉. 1986. 李劼人轶事[N]，四川工人日报, : 2. .
+  <div class="csl-entry">[10]	李眉. 1986. 李劼人轶事[N]，四川工人日报, : 2. .
     <div class="csl-block">李眉. 1986. 李劼人轶事[N]，四川工人日报, : 2. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[10]	李鹏程. 1994. 当代文化哲学沉思[M]. 北京: 人民出版社，1994年.
+  <div class="csl-entry">[11]	李鹏程. 1994. 当代文化哲学沉思[M]. 北京: 人民出版社，1994年.
     <div class="csl-block">李鹏程. 1994. 当代文化哲学沉思[M]. 北京: 人民出版社，1994年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[11]	楼适夷. 1998. 读家书，想傅雷（代序）[M]. 傅敏, ed.//傅雷家书增补本 edition. 北京: 三联书店，1998年.
+  <div class="csl-entry">[12]	楼适夷. 1998. 读家书，想傅雷（代序）[M]. 傅敏, ed.//傅雷家书增补本 edition. 北京: 三联书店，1998年.
     <div class="csl-block">楼适夷. 1998. 读家书，想傅雷（代序）[M]. 傅敏, ed.//傅雷家书增补本 edition. 北京: 三联书店，1998年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[12]	鲁迅. 1981. 中国小说的历史的变迁[M]//鲁迅全集北京: 人民文学出版社，1981年.
+  <div class="csl-entry">[13]	鲁迅. 1981. 中国小说的历史的变迁[M]//鲁迅全集北京: 人民文学出版社，1981年.
     <div class="csl-block">鲁迅. 1981. 中国小说的历史的变迁[M]//鲁迅全集北京: 人民文学出版社，1981年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[13]	毛祥麟. 1985. 墨余录[M]. 上海: 上海古籍出版社.
+  <div class="csl-entry">[14]	毛祥麟. 1985. 墨余录[M]. 上海: 上海古籍出版社.
     <div class="csl-block">毛祥麟. 1985. 墨余录[M]. 上海: 上海古籍出版社 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[14]	倪素香. 2002. 德育学科的比较研究与理论探索[J]，武汉大学学报, 4. .
-    <div class="csl-block">倪素香. 2002. 德育学科的比较研究与理论探索[J]，武汉大学学报, 4. (In Chinese)</div>
+  <div class="csl-entry">[15]	倪素香. 2002. 德育学科的比较研究与理论探索[J]，武汉大学学报, 4: 512-513. .
+    <div class="csl-block">倪素香. 2002. 德育学科的比较研究与理论探索[J]，武汉大学学报, 4: 512-513. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[15]	任东来. 2000. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集.
+  <div class="csl-entry">[16]	任东来. 2000. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集.
     <div class="csl-block">任东来. 2000. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[16]	任东来. [no date]. 对国际体制和国际制度的理解和翻译[C]. .
+  <div class="csl-entry">[17]	任东来. [no date]. 对国际体制和国际制度的理解和翻译[C]. .
     <div class="csl-block">任东来. [no date]. 对国际体制和国际制度的理解和翻译[C].  (In Chinese)</div>
   </div>
-  <div class="csl-entry">[17]	伤心人（麦孟华）. [no date]. 说奴隶[N]，清议报, 第69册: 第1页. .
+  <div class="csl-entry">[18]	伤心人（麦孟华）. [no date]. 说奴隶[N]，清议报, 第69册: 第1页. .
     <div class="csl-block">伤心人（麦孟华）. [no date]. 说奴隶[N]，清议报, 第69册: 第1页. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[18]	实藤惠秀. 1982. 中国人留学日本史[M]. 谭汝谦, 林启彦, trans.. 香港: 香港中文大学出版社，1982年.
+  <div class="csl-entry">[19]	实藤惠秀. 1982. 中国人留学日本史[M]. 谭汝谦, 林启彦, trans.. 香港: 香港中文大学出版社，1982年.
     <div class="csl-block">实藤惠秀. 1982. 中国人留学日本史[M]. 谭汝谦, 林启彦, trans.. 香港: 香港中文大学出版社，1982年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[19]	唐振常. 1997. 师承与变法[M]//识史集上海: 上海古籍出版社，1997年.
+  <div class="csl-entry">[20]	唐振常. 1997. 师承与变法[M]//识史集上海: 上海古籍出版社，1997年.
     <div class="csl-block">唐振常. 1997. 师承与变法[M]//识史集上海: 上海古籍出版社，1997年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[20]	汪疑今. 1936. 江苏的小农及其副业[J]，中国经济, 4(6). .
+  <div class="csl-entry">[21]	汪疑今. 1936. 江苏的小农及其副业[J]，中国经济, 4(6). .
     <div class="csl-block">汪疑今. 1936. 江苏的小农及其副业[J]，中国经济, 4(6). (In Chinese)</div>
   </div>
-  <div class="csl-entry">[21]	王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL](1998-08-16).
+  <div class="csl-entry">[22]	王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL](1998-08-16).
     <div class="csl-block">王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL](1998-08-16) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[22]	魏丽英. 1990. 论近代西北人口波动的主要原因[J]，社会科学, 6. .
-    <div class="csl-block">魏丽英. 1990. 论近代西北人口波动的主要原因[J]，社会科学, 6. (In Chinese)</div>
+  <div class="csl-entry">[23]	魏丽英. 1990. 论近代西北人口波动的若干主要原因[J]，社会科学, 6: 68-73, 86. .
+    <div class="csl-block">魏丽英. 1990. 论近代西北人口波动的若干主要原因[J]，社会科学, 6: 68-73, 86. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[23]	扬之水. [no date]. 两宋茶诗与茶事[EB/OL].
+  <div class="csl-entry">[24]	扬之水. [no date]. 两宋茶诗与茶事[EB/OL].
     <div class="csl-block">扬之水. [no date]. 两宋茶诗与茶事[EB/OL] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[24]	杨钟羲. 1991. 雪桥诗话续集[M]. 沈阳: 辽沈书社.
+  <div class="csl-entry">[25]	杨钟羲. 1991. 雪桥诗话续集[M]. 沈阳: 辽沈书社.
     <div class="csl-block">杨钟羲. 1991. 雪桥诗话续集[M]. 沈阳: 辽沈书社 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[25]	姚际恒. [no date]. 古今伪书考[M].
+  <div class="csl-entry">[26]	姚际恒. [no date]. 古今伪书考[M].
     <div class="csl-block">姚际恒. [no date]. 古今伪书考[M] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[26]	佚名. 1998. 晚清洋务运动事类汇钞五十七种[M]. 北京: 全国图书馆文献缩微复制中心，1998年.
+  <div class="csl-entry">[27]	佚名. 1998. 晚清洋务运动事类汇钞五十七种[M]. 北京: 全国图书馆文献缩微复制中心，1998年.
     <div class="csl-block">佚名. 1998. 晚清洋务运动事类汇钞五十七种[M]. 北京: 全国图书馆文献缩微复制中心，1998年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[27]	赵景深. 1948. 文坛忆旧[M]. 上海: 北新书局，1948年.
+  <div class="csl-entry">[28]	赵景深. 1948. 文坛忆旧[M]. 上海: 北新书局，1948年.
     <div class="csl-block">赵景深. 1948. 文坛忆旧[M]. 上海: 北新书局，1948年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[28]	Anonymous. 1910. 四川会议厅暂行章程[N]，广益丛报, 第8年第19期: 1-2. .
+  <div class="csl-entry">[29]	Anonymous. 1910. 四川会议厅暂行章程[N]，广益丛报, 第8年第19期: 1-2. .
     <div class="csl-block">anonymous. 1910. 四川会议厅暂行章程[N]，广益丛报, 第8年第19期: 1-2. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[29]	Anonymous. 1917. 傅良佐致国务院电[A](1917-09-15).
+  <div class="csl-entry">[30]	Anonymous. 1917. 傅良佐致国务院电[A](1917-09-15).
     <div class="csl-block">anonymous. 1917. 傅良佐致国务院电[A](1917-09-15) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[30]	Anonymous. 1925. 上海各路商界总联合会致外交部电[N]，民国日报, : 4. .
+  <div class="csl-entry">[31]	Anonymous. 1925. 上海各路商界总联合会致外交部电[N]，民国日报, : 4. .
     <div class="csl-block">anonymous. 1925. 上海各路商界总联合会致外交部电[N]，民国日报, : 4. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[31]	Anonymous. 1933. 西南中委反对在宁召开五全会[N]，民国日报, : 第1张第4版. .
+  <div class="csl-entry">[32]	Anonymous. 1933. 西南中委反对在宁召开五全会[N]，民国日报, : 第1张第4版. .
     <div class="csl-block">anonymous. 1933. 西南中委反对在宁召开五全会[N]，民国日报, : 第1张第4版. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[32]	Anonymous. 1950. 党外人士座谈会记录[A].
+  <div class="csl-entry">[33]	Anonymous. 1950. 党外人士座谈会记录[A].
     <div class="csl-block">anonymous. 1950. 党外人士座谈会记录[A] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[33]	Anonymous. 1969. Nixon to Kissinger[A](1969-02-01).
+  <div class="csl-entry">[34]	Anonymous. 1969. Nixon to Kissinger[A](1969-02-01).
     <div class="csl-block">anonymous. 1969. Nixon to Kissinger[A](1969-02-01) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[34]	Anonymous. 1975. 旧唐书[M]. 北京: 中华书局.
+  <div class="csl-entry">[35]	Anonymous. 1975. 旧唐书[M]. 北京: 中华书局.
     <div class="csl-block">anonymous. 1975. 旧唐书[M]. 北京: 中华书局 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[35]	Anonymous. 1983a. 中国哲学发展史（先秦卷）[M]. 任继愈, ed.. 北京: 人民出版社，1983年.
+  <div class="csl-entry">[36]	Anonymous. 1983a. 中国哲学发展史（先秦卷）[M]. 任继愈, ed.. 北京: 人民出版社，1983年.
     <div class="csl-block">anonymous. 1983. 中国哲学发展史（先秦卷）[M]. 任继愈, ed.. 北京: 人民出版社，1983年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[36]	Anonymous. 1983b. 方苞集[M]. 上海: 上海古籍出版社.
+  <div class="csl-entry">[37]	Anonymous. 1983b. 方苞集[M]. 上海: 上海古籍出版社.
     <div class="csl-block">anonymous. 1983. 方苞集[M]. 上海: 上海古籍出版社 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[37]	Anonymous. 1985. 太平御览[M]. 北京: 中华书局.
+  <div class="csl-entry">[38]	Anonymous. 1985. 太平御览[M]. 北京: 中华书局.
     <div class="csl-block">anonymous. 1985. 太平御览[M]. 北京: 中华书局 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[38]	Anonymous. 1986. 荣庆日记[M]. 西安: 西北大学出版社，1986年.
+  <div class="csl-entry">[39]	Anonymous. 1986. 荣庆日记[M]. 西安: 西北大学出版社，1986年.
     <div class="csl-block">anonymous. 1986. 荣庆日记[M]. 西安: 西北大学出版社，1986年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[39]	Anonymous. 1987. 清德宗实录[M]. 北京: 中华书局.
+  <div class="csl-entry">[40]	Anonymous. 1987. 清德宗实录[M]. 北京: 中华书局.
     <div class="csl-block">anonymous. 1987. 清德宗实录[M]. 北京: 中华书局 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[40]	Anonymous. 1989. 周恩来传[M]. 金冲及, ed.. 北京: 人民出版社、中央文献出版社，1989年.
+  <div class="csl-entry">[41]	Anonymous. 1989. 周恩来传[M]. 金冲及, ed.. 北京: 人民出版社、中央文献出版社，1989年.
     <div class="csl-block">anonymous. 1989. 周恩来传[M]. 金冲及, ed.. 北京: 人民出版社、中央文献出版社，1989年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[41]	Anonymous. 1992. 广东通志[M]. 北京: 中国书店.
+  <div class="csl-entry">[42]	Anonymous. 1992. 广东通志[M]. 北京: 中国书店.
     <div class="csl-block">anonymous. 1992. 广东通志[M]. 北京: 中国书店 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[42]	Anonymous. 1998. 马克思恩格斯全集[M]. 北京: 人民出版社，1998年.
+  <div class="csl-entry">[43]	Anonymous. 1998. 马克思恩格斯全集[M]. 北京: 人民出版社，1998年.
     <div class="csl-block">anonymous. 1998. 马克思恩格斯全集[M]. 北京: 人民出版社，1998年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[43]	Anonymous. [no date]. 嘉定县志[M].
+  <div class="csl-entry">[44]	Anonymous. [no date]. 嘉定县志[M].
     <div class="csl-block">anonymous. [no date]. 嘉定县志[M] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[44]	Anonymous. [no date]. 上海县续志[M].
+  <div class="csl-entry">[45]	Anonymous. [no date]. 上海县续志[M].
     <div class="csl-block">anonymous. [no date]. 上海县续志[M] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[45]	BROOKS P. 2000. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press，2000年.
+  <div class="csl-entry">[46]	BROOKS P. 2000. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press，2000年.
     <div class="csl-block">BROOKS P. 2000. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press，2000年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[46]	CHAMBERLAIN H B. 1993. On the search for civil society in China[J]，Modern China, 19(2): 199-215. .
+  <div class="csl-entry">[47]	CHAMBERLAIN H B. 1993. On the search for civil society in China[J]，Modern China, 19(2): 199-215. .
     <div class="csl-block">CHAMBERLAIN H B. 1993. On the search for civil society in China[J]，Modern China, 19(2): 199-215. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[47]	POLO M. 1997. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House，1997年.
+  <div class="csl-entry">[48]	POLO M. 1997. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House，1997年.
     <div class="csl-block">POLO M. 1997. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House，1997年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[48]	SCHFIELD R S. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on societyCambridge, Mass.: Cambridge University Press，1983年.
+  <div class="csl-entry">[49]	SCHFIELD R S. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on societyCambridge, Mass.: Cambridge University Press，1983年.
     <div class="csl-block">SCHFIELD R S. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on societyCambridge, Mass.: Cambridge University Press，1983年 (In Chinese)</div>
   </div>
 </div>

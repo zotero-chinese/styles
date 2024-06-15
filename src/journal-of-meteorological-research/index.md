@@ -253,9 +253,9 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">任东来, 对国际体制和国际制度的理解和翻译. 天津, 9.</div>
   <div class="csl-entry">任继愈, ed., 1983: 中国哲学发展史（先秦卷）. 人民出版社,.</div>
   <div class="csl-entry">伤心人（麦孟华）, 说奴隶. 清议报.</div>
-  <div class="csl-entry">何龄修, 1998: 读顾诚〈南明史〉. 中国史研究,.</div>
+  <div class="csl-entry">何龄修, 1998: 读顾诚〈南明史〉. 中国史研究, 167–173.</div>
   <div class="csl-entry">佚名, 1998: 晚清洋务运动事类汇钞五十七种. 全国图书馆文献缩微复制中心,.</div>
-  <div class="csl-entry">倪素香, 2002: 德育学科的比较研究与理论探索. 武汉大学学报,.</div>
+  <div class="csl-entry">倪素香, 2002: 德育学科的比较研究与理论探索. 武汉大学学报, 512–513.</div>
   <div class="csl-entry">唐振常, 1997: 师承与变法. 识史集, 上海古籍出版社, p. 65.</div>
   <div class="csl-entry">姚际恒, 古今伪书考. <b>3</b>.</div>
   <div class="csl-entry">实藤惠秀, 1982: 中国人留学日本史. 香港中文大学出版社,.</div>
@@ -272,11 +272,12 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">王明亮, 1998: 关于中国学术期刊标准化数据库系统工程的进展. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (Accessed October 4, 1998).</div>
   <div class="csl-entry">管志道, 1997: 答屠仪部赤水丈书. 续问辨牍, <b>2</b>.</div>
   <div class="csl-entry">蒋大兴, 2001: 公司法的展开与评判——方法·判例·制度. 法律出版社,.</div>
+  <div class="csl-entry">费成康, 1999: 葡萄牙人如何进入澳门问题辨正. 社会科学, 63–67.</div>
   <div class="csl-entry">赵景深, 1948: 文坛忆旧. 北新书局,.</div>
   <div class="csl-entry">金冲及, ed., 1989: 周恩来传. 人民出版社、中央文献出版社,.</div>
-  <div class="csl-entry">魏丽英, 1990: 论近代西北人口波动的主要原因. 社会科学,.</div>
+  <div class="csl-entry">魏丽英, 1990: 论近代西北人口波动的若干主要原因. 社会科学, 68–73, 86, <a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017</a>.</div>
   <div class="csl-entry">鲁迅, 1981: 中国小说的历史的变迁. 鲁迅全集, Vol. 第9册 of, 人民文学出版社, p. 325.</div>
-  <div class="csl-entry">黄义豪, 1997: 评黄龟年四劾秦桧. 福建论坛,.</div>
+  <div class="csl-entry">黄义豪, 1997: 评黄龟年四劾秦桧. 福建论坛, 26–27.</div>
   <div class="csl-entry">黄仁宇, 1997: 为什么称为“中国大历史”？——中文版自序. 中国大历史, 三联书店, p. 2.</div>
   <div class="csl-entry">1910: 四川会议厅暂行章程. 广益丛报, September 3.</div>
   <div class="csl-entry">1917: 傅良佐致国务院电.</div>

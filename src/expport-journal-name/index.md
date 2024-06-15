@@ -157,6 +157,7 @@
   <div class="csl-entry">中国史研究</div>
   <div class="csl-entry">中国经济</div>
   <div class="csl-entry">社会科学</div>
+  <div class="csl-entry">社会科学</div>
   <div class="csl-entry">福建论坛</div>
   <div class="csl-entry">武汉大学学报</div>
   <div class="csl-entry">四川工人日报</div>

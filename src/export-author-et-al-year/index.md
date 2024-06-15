@@ -248,6 +248,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">狄葆贤.</div>
   <div class="csl-entry">杜威·佛克马, 1999.</div>
   <div class="csl-entry">方明东, 2000.</div>
+  <div class="csl-entry">费成康, 1999.</div>
   <div class="csl-entry">管志道, 1997.</div>
   <div class="csl-entry">何龄修, 1998.</div>
   <div class="csl-entry">黄仁宇, 1997.</div>

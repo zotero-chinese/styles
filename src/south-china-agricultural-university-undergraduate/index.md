@@ -248,10 +248,11 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局.</div>
   <div class="csl-entry">杜威·佛克马. 走向新世界主义[M]//王宁, 薛晓源. 全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247-266.</div>
   <div class="csl-entry">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
+  <div class="csl-entry">费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学, 1999(9): 63-67.</div>
   <div class="csl-entry">管志道. 答屠仪部赤水丈书[M]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社, 1997.</div>
-  <div class="csl-entry">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
+  <div class="csl-entry">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167-173.</div>
   <div class="csl-entry">黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997: 2.</div>
-  <div class="csl-entry">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3).</div>
+  <div class="csl-entry">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3): 26-27.</div>
   <div class="csl-entry">蒋大兴. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社, 2001.</div>
   <div class="csl-entry">金冲及. 周恩来传[M]. 北京: 人民出版社、中央文献出版社, 1989.</div>
   <div class="csl-entry">李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).</div>
@@ -259,7 +260,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">楼适夷. 读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998: 2.</div>
   <div class="csl-entry">鲁迅. 中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社, 1981: 325.</div>
   <div class="csl-entry">毛祥麟. 墨余录[M]. 上海: 上海古籍出版社, 1985.</div>
-  <div class="csl-entry">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4).</div>
+  <div class="csl-entry">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512-513.</div>
   <div class="csl-entry">任东来. 对国际体制和国际制度的理解和翻译[A]//全球化与亚太区域化国际研讨会论文集[C]. 天津, 2000: 9.</div>
   <div class="csl-entry">任东来. 对国际体制和国际制度的理解和翻译[A]//全球化与亚太区域化国际研讨会, [C], 六月 2000, 天津. 天津: 9.</div>
   <div class="csl-entry">任继愈. 中国哲学发展史（先秦卷）[M]. 北京: 人民出版社, 1983.</div>
@@ -268,7 +269,7 @@ Qian, Zhao, Zhou et al. (2009b)<br>
   <div class="csl-entry">唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997: 65.</div>
   <div class="csl-entry">汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   <div class="csl-entry">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
-  <div class="csl-entry">魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
+  <div class="csl-entry">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 1990(6): 68-73, 86.</div>
   <div class="csl-entry">扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
   <div class="csl-entry">姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>

@@ -260,28 +260,29 @@
 <sup>24</sup> 旧唐书, 北京: 中华书局, 1975.<br>
 <sup>25</sup> 方苞集, 上海: 上海古籍出版社, 1983.<br>
 <sup>26</sup> 清德宗实录, 北京: 中华书局, 1987.<br>
-<sup>27</sup> 何龄修, “读顾诚〈南明史〉,” 中国史研究, no. 3 (1998).<br>
+<sup>27</sup> 何龄修, “读顾诚〈南明史〉,” 中国史研究, no. 3 (1998), pp. 167–173.<br>
 <sup>28</sup> 汪疑今, “江苏的小农及其副业,” 中国经济, vol. 4, no. 6 (June 1936).<br>
-<sup>29</sup> 魏丽英, “论近代西北人口波动的主要原因,” 社会科学, no. 6 (1990).<br>
-<sup>30</sup> 黄义豪, “评黄龟年四劾秦桧,” 福建论坛, no. 3 (1997).<br>
-<sup>31</sup> 倪素香, “德育学科的比较研究与理论探索,” 武汉大学学报, no. 4 (2002).<br>
-<sup>32</sup> 李眉, “李劼人轶事,” 四川工人日报 (August 1986), p. 2.<br>
-<sup>33</sup> 伤心人（麦孟华）, “说奴隶,” 清议报, vol. 第69册, 第1页.<br>
-<sup>34</sup> “四川会议厅暂行章程,” 广益丛报, no. 第8年第19期 (September 1910), pp. 1–2.<br>
-<sup>35</sup> “上海各路商界总联合会致外交部电,” 民国日报 (August 1925), p. 4.<br>
-<sup>36</sup> “西南中委反对在宁召开五全会,” 民国日报 (August 1933), 第1张第4版.<br>
-<sup>37</sup> 方明东, <i>罗隆基政治思想研究（1913—1949）</i>, 北京师范大学历史系, 2000.<br>
-<sup>38</sup> 任东来, 对国际体制和国际制度的理解和翻译, 天津, p. 9.<br>
-<sup>39</sup> 任东来, “对国际体制和国际制度的理解和翻译,” in 全球化与亚太区域化国际研讨会论文集, 天津, 2000, p. 9.<br>
-<sup>40</sup> 傅良佐致国务院电, 1917.<br>
-<sup>41</sup> 党外人士座谈会记录, 1950.<br>
-<sup>42</sup> 王明亮, 关于中国学术期刊标准化数据库系统工程的进展, August 16, 1998, <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, October 4, 1998.<br>
-<sup>43</sup> 扬之水, 两宋茶诗与茶事, <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>, September 13, 2007.<br>
-<sup>44</sup> P. Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>45</sup> M. Polo, <i>The Travels of Marco Polo</i>, trans. by William Marsden, Hertfordshire: Cumberland House, 1997.<br>
-<sup>46</sup> H. B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199–215.<br>
-<sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.<br>
-<sup>48</sup> <i>Nixon to Kissinger</i>, 1969.<br>
+<sup>29</sup> 魏丽英, “论近代西北人口波动的若干主要原因,” 社会科学, no. 6 (1990), pp. 68–73, 86.<br>
+<sup>30</sup> 费成康, “葡萄牙人如何进入澳门问题辨正,” 社会科学, no. 9 (1999), pp. 63–67.<br>
+<sup>31</sup> 黄义豪, “评黄龟年四劾秦桧,” 福建论坛, no. 3 (1997), pp. 26–27.<br>
+<sup>32</sup> 倪素香, “德育学科的比较研究与理论探索,” 武汉大学学报, no. 4 (2002), pp. 512–513.<br>
+<sup>33</sup> 李眉, “李劼人轶事,” 四川工人日报 (August 1986), p. 2.<br>
+<sup>34</sup> 伤心人（麦孟华）, “说奴隶,” 清议报, vol. 第69册, 第1页.<br>
+<sup>35</sup> “四川会议厅暂行章程,” 广益丛报, no. 第8年第19期 (September 1910), pp. 1–2.<br>
+<sup>36</sup> “上海各路商界总联合会致外交部电,” 民国日报 (August 1925), p. 4.<br>
+<sup>37</sup> “西南中委反对在宁召开五全会,” 民国日报 (August 1933), 第1张第4版.<br>
+<sup>38</sup> 方明东, <i>罗隆基政治思想研究（1913—1949）</i>, 北京师范大学历史系, 2000.<br>
+<sup>39</sup> 任东来, 对国际体制和国际制度的理解和翻译, 天津, p. 9.<br>
+<sup>40</sup> 任东来, “对国际体制和国际制度的理解和翻译,” in 全球化与亚太区域化国际研讨会论文集, 天津, 2000, p. 9.<br>
+<sup>41</sup> 傅良佐致国务院电, 1917.<br>
+<sup>42</sup> 党外人士座谈会记录, 1950.<br>
+<sup>43</sup> 王明亮, 关于中国学术期刊标准化数据库系统工程的进展, August 16, 1998, <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, October 4, 1998.<br>
+<sup>44</sup> 扬之水, 两宋茶诗与茶事, <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>, September 13, 2007.<br>
+<sup>45</sup> P. Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
+<sup>46</sup> M. Polo, <i>The Travels of Marco Polo</i>, trans. by William Marsden, Hertfordshire: Cumberland House, 1997.<br>
+<sup>47</sup> H. B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199–215.<br>
+<sup>48</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp. 55–88.<br>
+<sup>49</sup> <i>Nixon to Kissinger</i>, 1969.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -636,70 +636,73 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">1987 清德宗实录 影印本 (北京: 中华书局)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修 1998 中国史研究</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修 1998 中国史研究 167</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今 1936 中国经济 <b>4</b></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英 1990 社会科学</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英 1990 社会科学 68</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">黄义豪 1997 福建论坛</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康 1999 社会科学 63</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">倪素香 2002 武汉大学学报</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">黄义豪 1997 福建论坛 26</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">李眉 1986 四川工人日报 1986-08-22 2</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">倪素香 2002 武汉大学学报 512</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">伤心人（麦孟华） 清议报 <b>第69册</b> 第1页</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉 1986 四川工人日报 1986-08-22 2</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">1910 广益丛报 1910-09-03 1</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华） 清议报 <b>第69册</b> 第1页</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">1925 民国日报 1925-08-14 4</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">1910 广益丛报 1910-09-03 1</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">1933 民国日报 1933-08-11 第1张第4版</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">1925 民国日报 1925-08-14 4</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">罗隆基政治思想研究 (in Chinese) [方明东 2000 博士学位论文学位论文 (北京师范大学历史系)]</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">1933 民国日报 1933-08-11 第1张第4版</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">任东来 天津 pp9</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">罗隆基政治思想研究 (in Chinese) [方明东 2000 博士学位论文学位论文 (北京师范大学历史系)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来 2000 全球化与亚太区域化国际研讨会论文集 天津 , 2000-06 pp9</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来 天津 pp9</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">1917 傅良佐致国务院电</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">任东来 2000 全球化与亚太区域化国际研讨会论文集 天津 , 2000-06 pp9</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">1950 党外人士座谈会记录</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">1917 傅良佐致国务院电</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">关于中国学术期刊标准化数据库系统工程的进展 王明亮 <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> [1998-10-04]</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">1950 党外人士座谈会记录</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">两宋茶诗与茶事 扬之水 <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> [2007-09-13]</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">关于中国学术期刊标准化数据库系统工程的进展 王明亮 <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> [1998-10-04]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Troubling confessions (in Chinese) [Brooks P 2000 Troubling confessions: Speaking guilt in law and literature (Chicago: University of Chicago Press)]</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">两宋茶诗与茶事 扬之水 <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> [2007-09-13]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M MARSDEN W 1997 The travels of Marco Polo (Hertfordshire: Cumberland House)</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Troubling confessions (in Chinese) [Brooks P 2000 Troubling confessions: Speaking guilt in law and literature (Chicago: University of Chicago Press)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B 1993 <i>Mod. China</i> <b>19</b> 199</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Polo M MARSDEN W 1997 The travels of Marco Polo (Hertfordshire: Cumberland House)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Schfield R S 1983 Hunger and history: The impact of changing food production and consumption pattern on society Cambridge, Mass. , 1983 pp55–88</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain H B 1993 <i>Mod. China</i> <b>19</b> 199</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">1969 Nixon to Kissinger</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield R S 1983 Hunger and history: The impact of changing food production and consumption pattern on society Cambridge, Mass. , 1983 pp55–88</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">1969 Nixon to Kissinger</div>
   </div>
 </div>
 

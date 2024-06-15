@@ -291,30 +291,31 @@
   <div class="csl-entry">[24] 佚名. 旧唐书[M]. 北京: 中华书局, 19751975.</div>
   <div class="csl-entry">[25] 佚名. 方苞集[M]. 上海: 上海古籍出版社, 19831983.</div>
   <div class="csl-entry">[26] 佚名. 清德宗实录[M]. 北京: 中华书局, 19871987.</div>
-  <div class="csl-entry">[27] 何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
+  <div class="csl-entry">[27] 何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167-173.</div>
   <div class="csl-entry">[28] 汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
-  <div class="csl-entry">[29] 魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
-  <div class="csl-entry">[30] 黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3).</div>
-  <div class="csl-entry">[31] 倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4).</div>
-  <div class="csl-entry">[32] 李眉. 李劼人轶事[N]. 四川工人日报, 1986: 2.</div>
-  <div class="csl-entry">[33] 伤心人（麦孟华）. 说奴隶[N]. 清议报, [日期不详], 第69册: 第1页.</div>
-  <div class="csl-entry">[34] 佚名. 四川会议厅暂行章程[N]. 广益丛报, 1910(第8年第19期): 1-2.</div>
-  <div class="csl-entry">[35] 佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925: 4.</div>
-  <div class="csl-entry">[36] 佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933: 第1张第4版.</div>
-  <div class="csl-entry">[37] 方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.
+  <div class="csl-entry">[29] 魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 1990(6): 68-73, 86. doi: <a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">10.15891/j.cnki.cn62-1093/c.1990.06.017</a>.</div>
+  <div class="csl-entry">[30] 费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学, 1999(9): 63-67.</div>
+  <div class="csl-entry">[31] 黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3): 26-27.</div>
+  <div class="csl-entry">[32] 倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512-513.</div>
+  <div class="csl-entry">[33] 李眉. 李劼人轶事[N]. 四川工人日报, 1986: 2.</div>
+  <div class="csl-entry">[34] 伤心人（麦孟华）. 说奴隶[N]. 清议报, [日期不详], 第69册: 第1页.</div>
+  <div class="csl-entry">[35] 佚名. 四川会议厅暂行章程[N]. 广益丛报, 1910(第8年第19期): 1-2.</div>
+  <div class="csl-entry">[36] 佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925: 4.</div>
+  <div class="csl-entry">[37] 佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933: 第1张第4版.</div>
+  <div class="csl-entry">[38] 方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.
     <div class="csl-block">罗隆基政治思想研究.</div>
   </div>
-  <div class="csl-entry">[38] 任东来. 对国际体制和国际制度的理解和翻译[C]. .</div>
-  <div class="csl-entry">[39] 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. .</div>
-  <div class="csl-entry">[40] 佚名. 傅良佐致国务院电[Z](1917-09-15).</div>
-  <div class="csl-entry">[41] 佚名. 党外人士座谈会记录[Z]1950.</div>
-  <div class="csl-entry">[42] 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB](1998-08-16).</div>
-  <div class="csl-entry">[43] 扬之水. 两宋茶诗与茶事[EB].</div>
-  <div class="csl-entry">[44] Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
-  <div class="csl-entry">[45] Polo M. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
-  <div class="csl-entry">[46] Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215. doi: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
-  <div class="csl-entry">[47] Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
-  <div class="csl-entry">[48] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
+  <div class="csl-entry">[39] 任东来. 对国际体制和国际制度的理解和翻译[C]. .</div>
+  <div class="csl-entry">[40] 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. .</div>
+  <div class="csl-entry">[41] 佚名. 傅良佐致国务院电[Z](1917-09-15).</div>
+  <div class="csl-entry">[42] 佚名. 党外人士座谈会记录[Z]1950.</div>
+  <div class="csl-entry">[43] 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB](1998-08-16).</div>
+  <div class="csl-entry">[44] 扬之水. 两宋茶诗与茶事[EB].</div>
+  <div class="csl-entry">[45] Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
+  <div class="csl-entry">[46] Polo M. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[47] Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215. doi: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
+  <div class="csl-entry">[48] Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+  <div class="csl-entry">[49] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -247,7 +247,8 @@
   <div class="csl-entry">@清德宗实录@佚名. (@1987)</div>
   <div class="csl-entry">@读顾诚〈南明史〉@何龄修. (@1998)</div>
   <div class="csl-entry">@江苏的小农及其副业@汪疑今. (@1936)</div>
-  <div class="csl-entry">@论近代西北人口波动的主要原因@魏丽英. (@1990)</div>
+  <div class="csl-entry">@论近代西北人口波动的若干主要原因@魏丽英. (@1990)</div>
+  <div class="csl-entry">@葡萄牙人如何进入澳门问题辨正@费成康. (@1999)</div>
   <div class="csl-entry">@评黄龟年四劾秦桧@黄义豪. (@1997)</div>
   <div class="csl-entry">@德育学科的比较研究与理论探索@倪素香. (@2002)</div>
   <div class="csl-entry">@李劼人轶事@李眉. (@1986)</div>

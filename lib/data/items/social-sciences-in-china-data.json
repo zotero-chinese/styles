@@ -190,6 +190,7 @@
 		"issue": "4",
 		"language": "zh-CN",
 		"note": "section: 社会科学版",
+		"page": "512-513",
 		"title": "德育学科的比较研究与理论探索",
 		"author": [
 			{
@@ -261,10 +262,12 @@
 		"id": "ssc.2.2.1:03",
 		"type": "article-journal",
 		"container-title": "社会科学",
+		"DOI": "10.15891/j.cnki.cn62-1093/c.1990.06.017",
 		"issue": "6",
 		"language": "zh-CN",
 		"note": "publisher-place: 兰州",
-		"title": "论近代西北人口波动的主要原因",
+		"page": "68-73, 86",
+		"title": "论近代西北人口波动的若干主要原因",
 		"author": [
 			{
 				"literal": "魏丽英"
@@ -280,6 +283,7 @@
 		"container-title": "中国史研究",
 		"issue": "3",
 		"language": "zh-CN",
+		"page": "167-173",
 		"title": "读顾诚〈南明史〉",
 		"author": [
 			{
@@ -655,6 +659,7 @@
 		"issue": "3",
 		"language": "zh-CN",
 		"note": "section: 文史哲版",
+		"page": "26-27",
 		"title": "评黄龟年四劾秦桧",
 		"author": [
 			{
@@ -817,6 +822,28 @@
 		],
 		"issued": {
 			"date-parts": [["2000", 6]]
+		}
+	},
+	{
+		"id": "ssc.2.2.1:04",
+		"type": "article-journal",
+		"container-title": "社会科学",
+		"issue": "9",
+		"language": "zh",
+		"page": "63-67",
+		"source": "CNKI",
+		"title": "葡萄牙人如何进入澳门问题辨正",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "费成康"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 6, 12]]
+		},
+		"issued": {
+			"date-parts": [["1999"]]
 		}
 	}
 ]

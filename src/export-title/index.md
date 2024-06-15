@@ -445,7 +445,9 @@
   <div class="csl-entry">
     <div class="csl-left-margin">江苏的小农及其副业</div></div>
   <div class="csl-entry">
-    <div class="csl-left-margin">论近代西北人口波动的主要原因</div></div>
+    <div class="csl-left-margin">论近代西北人口波动的若干主要原因</div></div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">葡萄牙人如何进入澳门问题辨正</div></div>
   <div class="csl-entry">
     <div class="csl-left-margin">评黄龟年四劾秦桧</div></div>
   <div class="csl-entry">

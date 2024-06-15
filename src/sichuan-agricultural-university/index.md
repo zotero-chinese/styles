@@ -636,70 +636,73 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">清德宗实录: 卷 435[M]. 影印本. 北京: 中华书局, 1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3).</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167-173.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英. 论近代西北人口波动的主要原因[J]. 社会科学, 1990(6).</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 1990(6): 68-73, 86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3).</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学, 1999(9): 63-67.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4).</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3): 26-27.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512-513.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
   </div>
 </div>
 
