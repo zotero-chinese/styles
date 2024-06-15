@@ -81,11 +81,11 @@
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。<br>
 <sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol.1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年，第3219页。<br>
+<sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年。<br>
 <sup>29</sup> 余建斌：《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》2013年1月12日，第2版。<br>
-<sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年，第6—12页。<br>
-<sup>31</sup> 李幼平、王莉：《循证医学研究方法: 附视频》，《中华移植杂志(电子版)》第4卷第3期，2010年，第225—228页。<br>
-<sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年，第8—9页。<br>
+<sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
+<sup>31</sup> 李幼平、王莉：《循证医学研究方法: 附视频》，《中华移植杂志(电子版)》第4卷第3期，2010年。<br>
+<sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>
 <sup>33</sup> H. Kanamori, “Shaking without Quaking,” <i>Science</i>, vol. 279, no. 5359 (1998), p. 2063.<br>
 <sup>34</sup> P. Caplan, “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, vol. 4, no. 2 (1993), pp. 61-66.<br>
 <sup>35</sup> Karen S. Frese, Hugo A. Katus, and Benjamin Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine,” <i>Biology</i>, vol. 2, no. 1 (2013), pp. 378-398.<br>
@@ -105,7 +105,7 @@
 <sup>49</sup> B. E. Chernik, <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
 <sup>50</sup> 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海口：海南出版社，1996年。<br>
 <sup>51</sup> 汪冰：《电子图书馆理论与实践研究》，北京：北京图书馆出版社，1997年，第16页。<br>
-<sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期，第24—29页。<br>
+<sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
 <sup>53</sup> Lawrence Dowler, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment,” <i>Journal of Library Administration</i>, vol. 21, no. 1/2 (1995), pp. 5-26.<br>
 <sup>54</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, vol. 96 (1996), p. 903.<br>
 <sup>55</sup> I. Morri, <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
@@ -113,13 +113,13 @@
 <sup>57</sup> 陈登原：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
 <sup>58</sup> Diana Crane, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.<br>
 <sup>59</sup> Margaret F. Stieg, “The Information Needs of Historians,” <i>College &#38; Research Libraries</i>, vol. 42, no. 6 (1981), pp. 549-560.<br>
-<sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报(社会科学版)》第37卷第4期，2010年，第147页。<br>
+<sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报(社会科学版)》第37卷第4期，2010年。<br>
 <sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，曹志耘主编：《汉语方言的地理语言学研究》，北京：商务印书馆，2010年，第138页。<br>
 <sup>62</sup> William James Kennedy and Robert E. Garrison, “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England,” <i>Sedimentology</i>, vol. 22 (1975), p. 311.<br>
 <sup>63</sup> William James Kennedy and Robert E. Garrison, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England,” <i>Lethaia</i>, vol. 8, no. 4 (October 1975), pp. 339-360.<br>
 <sup>64</sup> 张忠智：《科技书刊的总编(主编)的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会，1997年，第33—34页。<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》（修订本），北京：商务印书馆，1996年。<br>
-<sup>66</sup> 刘彻东：《中国的青年刊物: 个性特色为本仁》，《中国出版》1998年第5期，第38—39页。<br>
+<sup>66</sup> 刘彻东：《中国的青年刊物: 个性特色为本仁》，《中国出版》1998年第5期。<br>
 <sup>67</sup> 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，北京：中国科学技术协会学会工作部，1981年，第2—10页。<br>
 <sup>68</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第288页。<br>
 <sup>69</sup> 皮锡瑞：《师伏堂日记》第 4 册，北京：北京图书馆出版社，2009年，第155页。<br>
@@ -165,10 +165,10 @@
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第011—012页。<br>
 <sup>110</sup> Peter R. Buseck, Gordon L. Nord Jr., and David R. Veblen, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117-211.<br>
 <sup>111</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp. 17-38.<br>
-<sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期，第56—75页。<br>
-<sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年，第6—21页。<br>
-<sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第52卷第11期，2012年，第1518—1523页。<br>
-<sup>115</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》第7卷第10期，2010年，第93页。<br>
+<sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
+<sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
+<sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第52卷第11期，2012年。<br>
+<sup>115</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》第7卷第10期，2010年。<br>
 <sup>116</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, and J. M. Hayes, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, vol. 359, no. 6396 (October 1992), pp. 605-609.<br>
 <sup>117</sup> M. Saito and K. Miyazaki, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6 (2006), pp. 169-176.<br>
 <sup>118</sup> Susan C. Walls, William J. Barichivich, and Mary E. Brown, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate,” <i>Biology</i>, vol. 2, no. 1 (2013), pp. 399-418.<br>
@@ -190,17 +190,17 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷，2008年，第210—215页。<br>
-<sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》第40卷，2008年，第210—215页。<br>
+<sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
+<sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>3</sup> Weimin Mou and Timothy P. McNamara, “Intrinsic Frames of Reference in Spatial Memory,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 28 (2002), pp. 162-170.<br>
-<sup>4</sup> 赵一、钱二、孙三、李四、周五、吴六、郑七：《中国心理学的过去与未来》，《心理学报》第40卷，2008年，第210—215页。<br>
+<sup>4</sup> 赵一、钱二、孙三、李四、周五、吴六、郑七：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>5</sup> Weimin Mou, Kan Zhang, and Timothy P. McNamara, “Frames of Reference in Spatial Memories Acquired from Language,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 30 (2004), pp. 171-180.<br>
-<sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》，《心理学报》第40卷，2008年，第210—215页。<br>
+<sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>7</sup> S. A. Wolchik, S. G. West, I. N. Sandler, J. Y. Tein, D. Coatsworth, L. Lengua, L. Weiss, E. R. Anderson, S. M. Greene, and W. A. Griffin, “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce,” <i>Journal of Consulting and Clinical Psychology</i>, vol. 68, no. 5 (October 2000), pp. 843-856.<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》出版时间不详。<br>
 <sup>9</sup> Sujata M. Huestegge, Tim Raettig, and Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i> (2019).<br>
 <sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater, and Lorenzo Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, vol. 14, no. 1 (2019).<br>
-<sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年，第210—215页。<br>
+<sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
@@ -309,7 +309,7 @@
 <sup>20</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
 <sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
 <sup>22</sup> <i>R. v. Panel on Take-Overs and Mergers</i>, vol.815, 1987.<br>
-<sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52—59页。<br>
+<sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程》，中国政法大学出版社，2004年。<br>
 <sup>25</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》（第2版）第2卷，人民出版社，1994年。<br>
 <sup>26</sup> [英]劳特派特：《奥本海国际法》（第8版）上卷第一分册，王铁崖、陈体强译，商务印书馆，1971年。<br>
