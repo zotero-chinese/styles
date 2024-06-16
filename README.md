@@ -4,7 +4,7 @@
 
 [^gbt7714]: 《[GB/T 7714—2015 信息与文献 参考文献著录规则](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)》（[PDF](http://www.cessp.org.cn/a258.html)）
 
-- GitHub 仓库：<https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl>
+- GitHub 仓库：<https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl>
 - Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
 - CSL 官方仓库：<https://github.com/citation-style-language/styles>
 
@@ -47,7 +47,7 @@ Zotero 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484
 
 ## 没有找到符合需要的样式？
 
-请前往 [ISSUE](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或请求新的样式。
+请前往 [ISSUE](https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或请求新的样式。
 
 注意，请认真完成 ISSUE 模板预置的问题，这些问题可以极大提高我们的处理效率，不完整填写的 ISSUE 将被直接关闭。
 
@@ -57,7 +57,7 @@ Zotero 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484
 
 ```bash
 # Clone 这个仓库
-git clone https://github.com/zotero-chinese/styles.git --recursive
+git clone https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl.git --recursive
 
 # 进入项目目录
 cd styles

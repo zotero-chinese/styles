@@ -49,23 +49,23 @@ jobs:
           author_name: GitHub Actions
           author_email: github-actions[bot]@users.noreply.github.com
 
-  # send-dispatch:
-  #   name: 请求部署上线
-  #   if: github.repository == 'redleafnew/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
-  #   needs:
-  #     - build
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Repository Dispatch
-  #       uses: peter-evans/repository-dispatch@v3
-  #       with:
-  #         token: ${{ secrets.ACCESS_TOKEN }}
-  #         repository: zotero-chinese/website
-  #         event-type: update-content
+  send-dispatch:
+    name: 请求部署上线
+    if: github.repository == 'zotero-chinese/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
+    needs:
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: zotero-chinese/website
+          event-type: update-content
 
   sync:
     name: 同步到 Gitee
-    if: github.repository == 'redleafnew/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
+    if: github.repository == 'zotero-chinese/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
     needs:
       - build
     runs-on: ubuntu-latest
@@ -74,5 +74,5 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
-          source-repo: "git@github.com:redleafnew/Chinese-STD-GB-T-7714-related-csl.git" # github仓库地址
+          source-repo: "git@github.com:zotero-chinese/Chinese-STD-GB-T-7714-related-csl.git" # github仓库地址
           destination-repo: "git@gitee.com:redleafnew00/Chinese-STD-GB-T-7714-related-csl.git" # gitee仓库地址

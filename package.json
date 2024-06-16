@@ -1,7 +1,8 @@
 {
-  "name": "styles",
+  "name": "csl-styles",
   "version": "1.0.0",
   "description": "CSL 中文样式库",
+  "private": "true",
   "type": "module",
   "scripts": {
     "dev": "tsx ./lib/index.ts watch",
