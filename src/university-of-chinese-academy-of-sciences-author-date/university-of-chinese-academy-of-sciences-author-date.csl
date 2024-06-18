@@ -4,7 +4,7 @@
     <title>中国科学院大学（著者-出版年）</title>
     <id>http://www.zotero.org/styles/university-of-chinese-academy-of-sciences-author-date</id>
     <link href="http://www.zotero.org/styles/university-of-chinese-academy-of-sciences-author-date" rel="self"/>
-    <link href="http://www.zotero.org/styles/011gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses" rel="template"/>
     <link href="http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <summary>《中国科学院大学研究生学位论文撰写规范指导意见》（2022 年 3 月 7 日修订）著者-出版年制</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T15:36:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

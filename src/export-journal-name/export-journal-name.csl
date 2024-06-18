@@ -3,15 +3,15 @@
   <!-- 根据GB-T7714-2015-numeric修改 -->
   <info>
     <title>导出期刊名称Export Journal Name</title>
-    <id>http://www.zotero.org/styles/expport-journal-name</id>
-    <link href="http://www.zotero.org/styles/export-author-journal-year-vol-issue-pages" rel="self"/>
+    <id>http://www.zotero.org/styles/export-journal-name</id>
+    <link href="http://www.zotero.org/styles/export-journal-name" rel="self"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2023-01-15T17:49:33+08:00</updated>
+    <updated>2024-06-18T16:22:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 参考文献表格式 -->

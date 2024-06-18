@@ -1,6 +1,6 @@
 {
-  "dir": "expport-author-journal-vol-issue-pages",
-  "file": "expport-author-journal-vol-issue-pages.csl",
+  "dir": "export-author-journal-year-vol-issue-pages",
+  "file": "export-author-journal-year-vol-issue-pages.csl",
   "style_class": "in-text",
   "title": "导出作者期刊卷期页Export Author Journal",
   "id": "http://www.zotero.org/styles/export-author-journal-year-vol-issue-pages",

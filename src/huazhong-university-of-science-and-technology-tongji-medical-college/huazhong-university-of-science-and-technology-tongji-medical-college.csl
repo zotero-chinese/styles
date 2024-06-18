@@ -5,7 +5,7 @@
     <title-short>TJMC</title-short>
     <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-tongji-medical-college</id>
     <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-tongji-medical-college" rel="self"/>
-    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation" rel="template"/>
+    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology" rel="template"/>
     <link href="http://jcyxy.tjmu.edu.cn/info/1573/6839.htm" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-06-06T13:46:36+08:00</updated>
+    <updated>2024-06-18T15:49:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

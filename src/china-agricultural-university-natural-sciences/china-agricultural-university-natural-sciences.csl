@@ -4,7 +4,7 @@
     <title>中国农业大学（自然科学）</title>
     <id>http://www.zotero.org/styles/china-agricultural-university-natural-sciences</id>
     <link href="http://www.zotero.org/styles/china-agricultural-university-natural-sciences" rel="self"/>
-    <link href="http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
     <link href="http://gradsch.cau.edu.cn/homepage/infoSingleArticle.do?articleId=4316" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《中国农业大学研究生学位论文格式及书写规范》（研生 (2019) 10 号）</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T15:36:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

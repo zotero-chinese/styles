@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>华中科技大学（理工科）</title>
-    <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation</id>
-    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-artificial-intelligence-and-automation" rel="self"/>
+    <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology</id>
+    <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="http://gs.hust.edu.cn/info/1041/5462.htm" rel="documentation"/>
     <author>
@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>理工科-博士-华中科技大学学位论文参考模板（2023-02-10 发布）</summary>
-    <updated>2024-06-06T13:46:22+08:00</updated>
+    <updated>2024-06-18T15:49:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

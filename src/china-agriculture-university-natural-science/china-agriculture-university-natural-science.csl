@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>中国农业大学（自然科学）</title>
-    <id>http://www.zotero.org/styles/china-agriculture-university</id>
-    <link href="http://www.zotero.org/styles/china-agriculture-university" rel="self"/>
+    <id>http://www.zotero.org/styles/china-agriculture-university-natural-science</id>
+    <link href="http://www.zotero.org/styles/china-agriculture-university-natural-science" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
     <link href="https://gradsch1.cau.edu.cn/art/2019/3/18/art_41503_770264.html" rel="documentation"/>
     <author>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中国农业大学研究生学位论文格式及书写规范（2019年修订）（研生[2019]10号）</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T16:17:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -429,7 +429,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

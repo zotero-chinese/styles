@@ -4,7 +4,7 @@
     <title>西安电子科技大学（本科生）</title>
     <id>http://www.zotero.org/styles/xidian-university-undergraduate</id>
     <link href="http://www.zotero.org/styles/xidian-university-undergraduate" rel="self"/>
-    <link href="http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
     <link href="https://see.xidian.edu.cn/html/news/2703.html" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《西安电子科技大学本科生毕业设计（论文）撰写规范》（2009-05-16）</summary>
-    <updated>2024-06-06T22:19:18+08:00</updated>
+    <updated>2024-06-18T15:36:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

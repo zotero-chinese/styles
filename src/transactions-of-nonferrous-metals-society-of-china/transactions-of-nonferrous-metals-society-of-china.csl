@@ -4,7 +4,7 @@
     <title>Transactions of Nonferrous Metals Society of China）</title>
     <id>http://www.zotero.org/styles/transactions-of-nonferrous-metals-society-of-china</id>
     <link href="http://www.zotero.org/styles/transactions-of-nonferrous-metals-society-of-china" rel="self"/>
-    <link href="http://www.zotero.org/styles/003gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="template"/>
     <link href="https://www.sciencedirect.com/journal/transactions-of-nonferrous-metals-society-of-china/publish/guide-for-authors" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="chemistry"/>
     <summary>中国有色金属学报（英文版）</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T15:36:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

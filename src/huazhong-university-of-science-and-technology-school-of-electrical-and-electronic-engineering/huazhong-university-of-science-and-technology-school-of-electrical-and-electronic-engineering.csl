@@ -5,7 +5,7 @@
     <title-short>HUST - SEEE</title-short>
     <id>http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering</id>
     <link href="http://www.zotero.org/styles/huazhong-university-of-science-and-technology-school-of-electrical-and-electronic-engineering" rel="self"/>
-    <link href="http://www.zotero.org/styles/003gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="template"/>
     <link href="https://seee.hust.edu.cn/" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="engineering"/>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T15:36:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

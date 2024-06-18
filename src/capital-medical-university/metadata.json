@@ -5,7 +5,7 @@
   "title": "首都医科大学",
   "id": "http://www.zotero.org/styles/capital-medical-university",
   "link_self": "http://www.zotero.org/styles/capital-medical-university",
-  "link_template": "http://www.zotero.org/styles/019gb-t-7714-1987-numeric-bilingual",
+  "link_template": "http://www.zotero.org/styles/gb-t-7714-1987-numeric-bilingual",
   "link_documentation": "https://yjsh.ccmu.edu.cn/xwgz/lwdb/65d371968cab4a54ad9a1531f3538700.htm",
   "author": [
     {
@@ -16,7 +16,7 @@
   "citation_format": "numeric",
   "field": "generic-base",
   "summary": "首都医科大学研究生学位论文（2023-04-26）",
-  "updated": "2024-06-06T13:18:49+08:00",
+  "updated": "2024-06-18T15:36:05+08:00",
   "citations": "<sup>[1–7]</sup>",
   "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">张昆, 冯立群, 余昌钰, 徐晓东. 机器人柔性手腕的球面齿轮设计研究. 清华大学学报, 1994, 34(2): 1-7.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">竺可桢. 物理学论. 北京: 科学出版社, 1973: 56-60.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor. In: White H J, Smith R, eds. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44-46.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">郑开青. 通讯系统模拟及软件: [硕士学位论文]. 北京: 清华大学无线电系, 1987.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">姜锡洲. 一种温热外敷药制备方案. 中国专利, 88105607.3, 1980-07-26.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">国家市场监督管理总局. GB 3100—1993. 国际单位制及其应用. 北京: 中国标准出版社, 1993.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">Ratziu V, Francque S, Sanyal A. Breakthroughs in therapies for NASH and remaining challenges. J Hepatol, 2022, 76(6): 1263-1278.</div>\n  </div>\n</div>",
   "tags": [

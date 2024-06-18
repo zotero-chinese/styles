@@ -4,7 +4,7 @@
     <title>华北农学报</title>
     <id>http://www.zotero.org/styles/acta-agriculurae-boreali-sinica</id>
     <link href="http://www.zotero.org/styles/acta-agriculurae-boreali-sinica" rel="self"/>
-    <link href="http://www.zotero.org/styles/013gb-t-7714-2015-numeric-aulower-bilan-ce.csl" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase" rel="template"/>
     <link href="http://www.hbnxb.net/CN/column/column7.shtml#" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -14,7 +14,7 @@
     <category field="generic-base"/>
     <issn>1000-7091</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL`。</summary>
-    <updated>2024-06-06T09:22:08+08:00</updated>
+    <updated>2024-06-18T15:39:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
