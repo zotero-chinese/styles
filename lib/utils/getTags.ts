@@ -63,12 +63,12 @@ export function getTags(style: string) {
   const tags: Tag[] = [
     result.includes("MCCAULEY") ? "姓名大写" : "姓名小写",
     result.includes("Language learning as language use") ? "有标题" : "无标题",
-    result.includes("Psychol. Rev.") ? "期刊全称" : "期刊缩写",
+    result.includes("Psychological Review") ? "期刊全称" : "期刊缩写",
     result.includes("https://psycnet.apa.org") ||
     result.includes("https://doi.org")
-      ? "有DOI"
-      : "无DOI",
-    result.includes("10.1037/rev0000126") ? "有URL" : "无URL",
+      ? "有URL"
+      : "无URL",
+    result.includes("10.1037/rev0000126") ? "有DOI" : "无DOI",
   ];
 
   return { tags };
