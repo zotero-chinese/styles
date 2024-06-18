@@ -17,7 +17,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2024-06-12T07:32:54+08:00</updated>
+    <updated>2024-06-18T14:31:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -67,7 +67,7 @@
   <macro name="volume-en">
     <choose>
       <if is-numeric="volume">
-        <label variable="volume" form="short"/>
+        <label variable="volume" form="short" suffix=" "/>
         <number variable="volume"/>
       </if>
       <else>

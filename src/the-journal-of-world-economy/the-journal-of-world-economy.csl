@@ -5,7 +5,7 @@
     <id>http://www.zotero.org/styles/the-journal-of-world-economy</id>
     <link href="http://www.zotero.org/styles/the-journal-of-world-economy" rel="self"/>
     <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
-    <link href="https://manu30.magtech.com.cn/sjjj/attached/file/20200810/20200810171351_281.doc" rel="documentation"/>
+    <link href="https://manu30.magtech.com.cn/sjjj/CN/column/column10.shtml" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -16,7 +16,8 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <summary>《世界经济》稿件体例调整规范</summary>
+    <updated>2024-06-18T15:00:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -139,7 +140,7 @@
         </if>
         <else>
           <group>
-            <label variable="volume" form="short"/>
+            <label variable="volume" form="short" suffix=" "/>
             <number variable="volume"/>
           </group>
         </else>

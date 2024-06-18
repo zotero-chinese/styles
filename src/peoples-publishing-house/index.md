@@ -10,7 +10,7 @@
 
 <sup>1</sup> 李铁映：《中国经济改革的双重探索》，《经济研究》2004年第2期。<br>
 <sup>2</sup> 国际货币基金组织：《国际资本市场发展、前景和政策》中译本，中国金融出版社1996年版。<br>
-<sup>3</sup> Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol.56, No.2, Spring 2001, pp.339-374.<br>
+<sup>3</sup> Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol. 56, No.2, Spring 2001, pp.339-374.<br>
 <sup>4</sup> Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995.<br>
 
 
@@ -27,7 +27,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol.56, No.2, Spring 2001, pp.339-374.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol. 56, No.2, Spring 2001, pp.339-374.</div>
   </div>
 </div>
 
@@ -35,7 +35,7 @@
 
 ### 引注
 
-<sup>1</sup> Sunstein, Cass R., “Social Norms and Social Roles”, <i>Columbia Law Review</i>, Vol.96, 1996, p.903.<br>
+<sup>1</sup> Sunstein, Cass R., “Social Norms and Social Roles”, <i>Columbia Law Review</i>, Vol. 96, 1996, p.903.<br>
 <sup>2</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
 <sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
 <sup>4</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
@@ -76,16 +76,16 @@
 <sup>24</sup> Roberson, J. Alan and Burneson, Eric G., “Drinking Water Standards, Regulations and Goals”, in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，中华医学会湖北分会1984年版。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京图书馆1957年版。<br>
-<sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol.1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
+<sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol. 1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
 <sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年。<br>
 <sup>29</sup> 余建斌：《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》2013年1月12日。<br>
 <sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
 <sup>31</sup> 李幼平、王莉：《循证医学研究方法: 附视频》，《中华移植杂志(电子版)》第4卷第3期，2010年。<br>
 <sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>
-<sup>33</sup> Kanamori, H., “Shaking without Quaking”, <i>Science</i>, Vol.279, No.5359, 1998, p.2063.<br>
-<sup>34</sup> Caplan, P., “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, Vol.4, No.2, 1993, pp.61-66.<br>
-<sup>35</sup> Frese, Karen S., Katus, Hugo A., and Meder, Benjamin, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, Vol.2, No.1, 2013, pp.378-398.<br>
-<sup>36</sup> Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol.510, June 2014, pp.356-362.<br>
+<sup>33</sup> Kanamori, H., “Shaking without Quaking”, <i>Science</i>, Vol. 279, No.5359, 1998, p.2063.<br>
+<sup>34</sup> Caplan, P., “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, Vol. 4, No.2, 1993, pp.61-66.<br>
+<sup>35</sup> Frese, Karen S., Katus, Hugo A., and Meder, Benjamin, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, Vol. 2, No.1, 2013, pp.378-398.<br>
+<sup>36</sup> Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol. 510, June 2014, pp.356-362.<br>
 <sup>37</sup> 邓一刚：《全智能节电器》，2006年版。<br>
 <sup>38</sup> 西安电子科技大学：《光折变自适应光外差探测方法》，2002年版。<br>
 <sup>39</sup> Tachibana, Ryuki, Shimizu, Shuhichi, Kobayshi, Seiji, and Nakamura, Taiga, <i>Electronic Watermarking Method and System</i>, US, 2005.<br>
@@ -94,7 +94,7 @@
 <sup>42</sup> Bawden, D., Origins and Concepts of Digital Literacy, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.<br>
 <sup>43</sup> Online Computer Library Center, Inc., About OCLC: History of Cooperation, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.<br>
 <sup>44</sup> Hopkinson, A., UNIMARC and Metadata: Dublin Core, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.<br>
-<sup>45</sup> “Coffee Drinking and Cancer of the Pancreas”, <i>British Medical Journal</i>, Vol.283, No.6292, 1981, p.628.<br>
+<sup>45</sup> “Coffee Drinking and Cancer of the Pancreas”, <i>British Medical Journal</i>, Vol. 283, No.6292, 1981, p.628.<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学2000年版。<br>
 <sup>47</sup> Deverell, William and Igler, David, “A Companion to California History”, Doctoral Dissertation, John Wiley &#38; Sons, 2013.<br>
 <sup>48</sup> Baker, S. K. and Jackson, M. E., <i>The Future of Resource Sharing</i>, New York: The Haworth Press, 1995.<br>
@@ -102,17 +102,17 @@
 <sup>50</sup> 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海南出版社1996年版。<br>
 <sup>51</sup> 汪冰：《电子图书馆理论与实践研究》，北京图书馆出版社1997年版。<br>
 <sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
-<sup>53</sup> Dowler, Lawrence, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment”, <i>Journal of Library Administration</i>, Vol.21, No.1/2, 1995, pp.5-26.<br>
-<sup>54</sup> Sunstein, Cass R., “Social Norms and Social Roles”, <i>Columbia Law Review</i>, Vol.96, 1996, p.903.<br>
+<sup>53</sup> Dowler, Lawrence, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment”, <i>Journal of Library Administration</i>, Vol. 21, No.1/2, 1995, pp.5-26.<br>
+<sup>54</sup> Sunstein, Cass R., “Social Norms and Social Roles”, <i>Columbia Law Review</i>, Vol. 96, 1996, p.903.<br>
 <sup>55</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
 <sup>56</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，东北财经大学出版社2011年版。<br>
 <sup>57</sup> 陈登原：《国史旧闻》第 1 卷，中华书局2000年版。<br>
 <sup>58</sup> Crane, Diana, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.<br>
-<sup>59</sup> Stieg, Margaret F., “The Information Needs of Historians”, <i>College &#38; Research Libraries</i>, Vol.42, No.6, 1981, pp.549-560.<br>
+<sup>59</sup> Stieg, Margaret F., “The Information Needs of Historians”, <i>College &#38; Research Libraries</i>, Vol. 42, No.6, 1981, pp.549-560.<br>
 <sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报(社会科学版)》第37卷第4期，2010年。<br>
 <sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，曹志耘主编：《汉语方言的地理语言学研究》，商务印书馆2010年版。<br>
-<sup>62</sup> Kennedy, William James and Garrison, Robert E., “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England”, <i>Sedimentology</i>, Vol.22, 1975, p.311.<br>
-<sup>63</sup> Kennedy, William James and Garrison, Robert E., “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England”, <i>Lethaia</i>, Vol.8, No.4, October 1975, pp.339-360.<br>
+<sup>62</sup> Kennedy, William James and Garrison, Robert E., “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England”, <i>Sedimentology</i>, Vol. 22, 1975, p.311.<br>
+<sup>63</sup> Kennedy, William James and Garrison, Robert E., “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England”, <i>Lethaia</i>, Vol. 8, No.4, October 1975, pp.339-360.<br>
 <sup>64</sup> 张忠智：《科技书刊的总编(主编)的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会1997年版。<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》修订本，商务印书馆1996年版。<br>
 <sup>66</sup> 刘彻东：《中国的青年刊物: 个性特色为本仁》，《中国出版》1998年第5期。<br>
@@ -165,11 +165,11 @@
 <sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
 <sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第52卷第11期，2012年。<br>
 <sup>115</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》第7卷第10期，2010年。<br>
-<sup>116</sup> Des Marais, David J., Strauss, Harald, Summons, Roger E., and Hayes, J. M., “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, <i>Nature</i>, Vol.359, No.6396, October 1992, pp.605-609.<br>
-<sup>117</sup> Saito, M. and Miyazaki, K., “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, Vol.57, No.5/6, 2006, pp.169-176.<br>
-<sup>118</sup> Walls, Susan C., Barichivich, William J., and Brown, Mary E., “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, <i>Biology</i>, Vol.2, No.1, 2013, pp.399-418.<br>
-<sup>119</sup> Franz, Annaliese K., Danielewicz, Megan A., Wong, Diana M., Anderson, Lisa A., and Boothe, Jordan R., “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, Vol.8, 2013, pp.1053-1062.<br>
-<sup>120</sup> Park, Jung-Ran and Tosaka, Yuji, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, Vol.48, No.8, 2010, pp.696-715.<br>
+<sup>116</sup> Des Marais, David J., Strauss, Harald, Summons, Roger E., and Hayes, J. M., “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, <i>Nature</i>, Vol. 359, No.6396, October 1992, pp.605-609.<br>
+<sup>117</sup> Saito, M. and Miyazaki, K., “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, Vol. 57, No.5/6, 2006, pp.169-176.<br>
+<sup>118</sup> Walls, Susan C., Barichivich, William J., and Brown, Mary E., “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, <i>Biology</i>, Vol. 2, No.1, 2013, pp.399-418.<br>
+<sup>119</sup> Franz, Annaliese K., Danielewicz, Megan A., Wong, Diana M., Anderson, Lisa A., and Boothe, Jordan R., “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, Vol. 8, 2013, pp.1053-1062.<br>
+<sup>120</sup> Park, Jung-Ran and Tosaka, Yuji, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, Vol. 48, No.8, 2010, pp.696-715.<br>
 <sup>121</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日。<br>
 <sup>122</sup> 张田勤：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年11月12日。<br>
 <sup>123</sup> 傅刚、赵承、李佳路：《大风沙过后的思考》，《北京青年报》2000年1月12日。<br>
@@ -188,14 +188,14 @@
 
 <sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
 <sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
-<sup>3</sup> Mou, Weimin and McNamara, Timothy P., “Intrinsic Frames of Reference in Spatial Memory”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.28, 2002, pp.162-170.<br>
+<sup>3</sup> Mou, Weimin and McNamara, Timothy P., “Intrinsic Frames of Reference in Spatial Memory”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 28, 2002, pp.162-170.<br>
 <sup>4</sup> 赵一、钱二、孙三、李四、周五、吴六、郑七：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
-<sup>5</sup> Mou, Weimin, Zhang, Kan, and McNamara, Timothy P., “Frames of Reference in Spatial Memories Acquired from Language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.30, 2004, pp.171-180.<br>
+<sup>5</sup> Mou, Weimin, Zhang, Kan, and McNamara, Timothy P., “Frames of Reference in Spatial Memories Acquired from Language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 30, 2004, pp.171-180.<br>
 <sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》，《心理学报》第40卷，2008年。<br>
-<sup>7</sup> Wolchik, S. A., West, S. G., Sandler, I. N., Tein, J. Y., Coatsworth, D., Lengua, L., Weiss, L., Anderson, E. R., Greene, S. M., and Griffin, W. A., “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce”, <i>Journal of Consulting and Clinical Psychology</i>, Vol.68, No.5, October 2000, pp.843-856.<br>
+<sup>7</sup> Wolchik, S. A., West, S. G., Sandler, I. N., Tein, J. Y., Coatsworth, D., Lengua, L., Weiss, L., Anderson, E. R., Greene, S. M., and Griffin, W. A., “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce”, <i>Journal of Consulting and Clinical Psychology</i>, Vol. 68, No.5, October 2000, pp.843-856.<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》出版时间不详。<br>
 <sup>9</sup> Huestegge, Sujata M., Raettig, Tim, and Huestegge, Lynn, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>, 2019.<br>
-<sup>10</sup> Burin, Dalila, Kilteni, Konstantina, Rabuffetti, Marco, Slater, Mel, and Pia, Lorenzo, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
+<sup>10</sup> Burin, Dalila, Kilteni, Konstantina, Rabuffetti, Marco, Slater, Mel, and Pia, Lorenzo, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, Vol. 14, No.1, 2019.<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年。<br>
 <sup>12</sup> 张三：《心理学史》，未名出版社2008年版。<br>
 <sup>13</sup> 张三主编：《心理学史》，未名出版社2008年版。<br>
@@ -211,7 +211,7 @@
 <sup>23</sup> Ruby, John and Fulton, Cain, “Beyond Redlining: Editing Software That Works”, Washington, DC, 1993.<br>
 <sup>24</sup> Australian Bureau of Statistics, “Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990”, Canberra, Australian Capital Territory: Author, 1991.<br>
 <sup>25</sup> Mitchell, Terence R. and Larson, James R., <i>People in Organizations: An Introduction to Organizational Behavior</i>, New York: McGraw-Hill, 1987.<br>
-<sup>26</sup> Bergmann, P. G., <i>Relativity</i>, vol.26, New York: Encyclopedia Britannica, 1993.<br>
+<sup>26</sup> Bergmann, P. G., <i>Relativity</i>, vol. 26, New York: Encyclopedia Britannica, 1993.<br>
 <sup>27</sup> Sadie, Stanley, ed., <i>The New Grove Dictionary of Music and Musicians</i>, London : New York: Macmillan, 1980.<br>
 <sup>28</sup> 李行健主编：《现代汉语规范辞典》，外语教学与研究出版社2004年版。<br>
 <sup>29</sup> 《现代汉语频率词典》，北京语言学院出版社1986年版。<br>
@@ -273,7 +273,7 @@
 <sup>44</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
 <sup>45</sup> Brooks, Peter, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
 <sup>46</sup> Polo, Marco, <i>The Travels of Marco Polo</i>, trans. Marsden, William, Hertfordshire: Cumberland House, 1997.<br>
-<sup>47</sup> Chamberlain, Heath B., “On the Search for Civil Society in China”, <i>Modern China</i>, Vol.19, No.2, April 1993, pp.199-215.<br>
+<sup>47</sup> Chamberlain, Heath B., “On the Search for Civil Society in China”, <i>Modern China</i>, Vol. 19, No.2, April 1993, pp.199-215.<br>
 <sup>48</sup> Schfield, R. S., “The Impact of Scarcity and Plenty on Population Change in England”, in Rotberg, R. I. and Rabb, T. K., eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983.<br>
 <sup>49</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
 
@@ -301,11 +301,11 @@
 <sup>15</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
 <sup>16</sup> 《包郑照诉苍南县人民政府强制拆除房屋案》，出版时间不详。<br>
 <sup>17</sup> 《陆红霞诉南通市发改委政府信息公开案》，2015年版。<br>
-<sup>18</sup> Reich, Charles A., “The New Property”, <i>Yale Law Journal</i>, Vol.73, No.5, 1964, pp.733-787.<br>
+<sup>18</sup> Reich, Charles A., “The New Property”, <i>Yale Law Journal</i>, Vol. 73, No.5, 1964, pp.733-787.<br>
 <sup>19</sup> Brandeis, Louis D., “What Publicity Can Do”, <i>Harper’s Weekly</i>, December 1913, p.10.<br>
 <sup>20</sup> Alford, William, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
 <sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
-<sup>22</sup> <i>R. v. Panel on Take-Overs and Mergers</i>, vol.815, 1987.<br>
+<sup>22</sup> <i>R. v. Panel on Take-Overs and Mergers</i>, vol. 815, 1987.<br>
 <sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
 <sup>25</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》第2版第2卷，人民出版社1994年版。<br>
@@ -327,11 +327,11 @@
 <sup>41</sup> Rosenthal, Andrew, “White House Tutors Kremlin in How a Presidency Works”, <i>New York Times</i>, June 1990, p.A1.<br>
 <sup>42</sup> Habermas, Jürgen, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, trans. Rehg, William, MIT Press, 1996.<br>
 <sup>43</sup> Horsley, Jamie, “Rule of Law in China: Incremental Progress”, in Bergsten, C. Fred, Gill, Bates, Lardy, Nicholas R., and Mitchell, Derek, eds., <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.<br>
-<sup>44</sup> <i>Department of Transportation Act</i>, vol.80, 1966.<br>
-<sup>45</sup> <i>Administrative Procedure Act § 6</i>, vol.5, 2006.<br>
-<sup>46</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol.685, 1982.<br>
-<sup>47</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol.467, 1984.<br>
-<sup>48</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol.410, 1973.<br>
+<sup>44</sup> <i>Department of Transportation Act</i>, vol. 80, 1966.<br>
+<sup>45</sup> <i>Administrative Procedure Act § 6</i>, vol. 5, 2006.<br>
+<sup>46</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol. 685, 1982.<br>
+<sup>47</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol. 467, 1984.<br>
+<sup>48</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol. 410, 1973.<br>
 <sup>49</sup> <i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i><br>
 <sup>50</sup> McDonell, Stephen, When China Began Streaming Trials Online, BBC News, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.<br>
 <sup>51</sup> Chevallier, Marc, <i>L’État de droit</i>, Paris: Montchrestien, 2003.<br>
@@ -342,10 +342,10 @@
 <sup>56</sup> Poisson, Marc, “Le droit de la mer en Méditerranée”, 2016.<br>
 <sup>57</sup> Poisson, Marc, “Le droit de la mer appliqué à la Méditerranée”, Ph.D. Dissertation, l’Université de Marseille, 2016.<br>
 <sup>58</sup> Joyeux-Prunel, Béatrice, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.<br>
-<sup>59</sup> Vogel, Benjamin, “Rechtsgüterschutz und Normgeltung”, <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, Vol.129, No.3, December 2017, pp.629-649.<br>
+<sup>59</sup> Vogel, Benjamin, “Rechtsgüterschutz und Normgeltung”, <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, Vol. 129, No.3, December 2017, pp.629-649.<br>
 <sup>60</sup> Würdinger, Markus, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Juristische Schulung</i>, No.3, 2012, pp.234-240.<br>
 <sup>61</sup> Fischer, Thomas, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>, September 2015.<br>
-<sup>62</sup> Roxin, Claus, <i>Strafrecht Allgemeiner Teil</i>, vol.1, C. H. Beck, 2006.<br>
+<sup>62</sup> Roxin, Claus, <i>Strafrecht Allgemeiner Teil</i>, vol. 1, C. H. Beck, 2006.<br>
 <sup>63</sup> Dreier, Ralf and Paulson, Stanley, eds., <i>Rechtsphilosophie Studienausgabe</i>, Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
 <sup>64</sup> Schwab, Martin, in <i>Münchener Kommentar BGB</i>, 2013.<br>
 <sup>65</sup> Kaufmann, Arthur, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, in Baumann, Jürgen, ed., <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.<br>
@@ -353,15 +353,15 @@
 <sup>67</sup> <i>StGB</i>.<br>
 <sup>68</sup> <i>StPO</i>.<br>
 <sup>69</sup> <i>GG</i>.<br>
-<sup>70</sup> <i>Strauß-Karikatur, Kunstfreiheit</i>, vol.75.<br>
+<sup>70</sup> <i>Strauß-Karikatur, Kunstfreiheit</i>, vol. 75.<br>
 <sup>71</sup> 1999.<br>
 <sup>72</sup> 2000.<br>
 <sup>73</sup> Meidenbauer, Martin, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.<br>
 <sup>74</sup> 我妻栄, 新訂担保物権法, 有斐閣, 1971.<br>
 <sup>75</sup> 我妻栄 and 有泉亨, 民法総則物権法, 日本評論社, 1950.<br>
-<sup>76</sup> 於保不二雄, “付加物及び従物と抵当権”, 民商法雑誌, Vol.29, No.5, 1954, p.1.<br>
+<sup>76</sup> 於保不二雄, “付加物及び従物と抵当権”, 民商法雑誌, Vol. 29, No.5, 1954, p.1.<br>
 <sup>77</sup> 佐藤英明, “一時所得の要件に関する覚書”, in 金子宏, 中里実, and J.マーク・ラムザイヤー, eds., 租税法と市場, 有斐閣, 2014.<br>
-<sup>78</sup> 信玄公旗掛松事件, vol.25, 1919.<br>
+<sup>78</sup> 信玄公旗掛松事件, vol. 25, 1919.<br>
 <sup>79</sup> 約束手形金, 36卷6号, 1982.<br>
 <sup>80</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
 <sup>81</sup> <i>平成26年版犯罪白書</i>.<br>
@@ -376,32 +376,32 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> McCauley, Stewart M. and Christiansen, Morten H., “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, Vol.126, No.1, 2019, pp.1-51.<br>
-<sup>2</sup> Ahmann, E., Tuttle, L. J., Saviet, M., and Wright, S. D., “A Descriptive Review of ADHD Coaching Research: Implications for College Students”, <i>Journal of Postsecondary Education and Disability</i>, Vol.31, No.1, 2018, pp.17-39.<br>
-<sup>3</sup> Anderson, M., “Getting Consistent with Consequences”, <i>Educational Leadership</i>, Vol.76, No.1, 2018, pp.26-33.<br>
+<sup>1</sup> McCauley, Stewart M. and Christiansen, Morten H., “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, Vol. 126, No.1, 2019, pp.1-51.<br>
+<sup>2</sup> Ahmann, E., Tuttle, L. J., Saviet, M., and Wright, S. D., “A Descriptive Review of ADHD Coaching Research: Implications for College Students”, <i>Journal of Postsecondary Education and Disability</i>, Vol. 31, No.1, 2018, pp.17-39.<br>
+<sup>3</sup> Anderson, M., “Getting Consistent with Consequences”, <i>Educational Leadership</i>, Vol. 76, No.1, 2018, pp.26-33.<br>
 <sup>4</sup> Goldman, C., “The Complicated Calibration of Love, Especially in Adoption”, <i>Chicago Tribune</i>, November 2018.<br>
-<sup>5</sup> Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., Aaron, A., Court, B. Baron C., and Joseph, D., “The NCEP/NCAR 40-Year Reanalysis Project”, <i>Bulletin of the American Meteorological Society</i>, Vol.77, No.3, January 1996, pp.437-471.<br>
-<sup>6</sup> De Vries, R., Nieuwenhuijze, M., Buitendijk, S. E., and the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, Vol.29, No.10, 2013, pp.1122-1128.<br>
-<sup>7</sup> Burin, D., Kilteni, K., Rabuffetti, M., Slater, M., and Pia, L., “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
+<sup>5</sup> Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., Aaron, A., Court, B. Baron C., and Joseph, D., “The NCEP/NCAR 40-Year Reanalysis Project”, <i>Bulletin of the American Meteorological Society</i>, Vol. 77, No.3, January 1996, pp.437-471.<br>
+<sup>6</sup> De Vries, R., Nieuwenhuijze, M., Buitendijk, S. E., and the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, Vol. 29, No.10, 2013, pp.1122-1128.<br>
+<sup>7</sup> Burin, D., Kilteni, K., Rabuffetti, M., Slater, M., and Pia, L., “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, Vol. 14, No.1, 2019.<br>
 <sup>8</sup> Huestegge, Sujata M., Raettig, Tim, and Huestegge, Lynn, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, <i>Experimental Psychology</i>, 2019.<br>
 <sup>9</sup> Pachur, T. and Scheibehenne, B., “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach”, <i>Psychonomic Bulletin &#38; Review</i>.<br>
-<sup>10</sup> Chaves-Morillo, V., Gómez Calero, C., Fernández-Muñoz, J. J., Toledano-Muñoz, A., Fernández-Heute, J., Martinez-Monge, N., Palacios-Ceña, D., and Peñacoba-Puente, C., “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age”, <i>Clínica y Salud</i>, Vol.28, No.3, 2018, pp.155-161.<br>
-<sup>11</sup> Piaget, J., “Intellectual Evolution from Adolescence to Adulthood”, trans. Bliss, J. and Furth, H., <i>Human Development</i>, Vol.15, No.1, 1972, pp.1-12.<br>
-<sup>12</sup> Shore, M. F., “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, Vol.84, No.6, 2014, pp.611-618.<br>
-<sup>13</sup> “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, Vol.51, No.3, 1981, pp.391-402.<br>
-<sup>14</sup> Lilienfeld, S. O., ed., <i>Archives of Scientific Psychology</i>, vol.6, 2018.<br>
-<sup>15</sup> McDaniel, S. H., Salas, E., and Kazak, A. E., eds., <i>American Psychologist</i>, vol.73, 2018.<br>
+<sup>10</sup> Chaves-Morillo, V., Gómez Calero, C., Fernández-Muñoz, J. J., Toledano-Muñoz, A., Fernández-Heute, J., Martinez-Monge, N., Palacios-Ceña, D., and Peñacoba-Puente, C., “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age”, <i>Clínica y Salud</i>, Vol. 28, No.3, 2018, pp.155-161.<br>
+<sup>11</sup> Piaget, J., “Intellectual Evolution from Adolescence to Adulthood”, trans. Bliss, J. and Furth, H., <i>Human Development</i>, Vol. 15, No.1, 1972, pp.1-12.<br>
+<sup>12</sup> Shore, M. F., “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, Vol. 84, No.6, 2014, pp.611-618.<br>
+<sup>13</sup> “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, Vol. 51, No.3, 1981, pp.391-402.<br>
+<sup>14</sup> Lilienfeld, S. O., ed., <i>Archives of Scientific Psychology</i>, vol. 6, 2018.<br>
+<sup>15</sup> McDaniel, S. H., Salas, E., and Kazak, A. E., eds., <i>American Psychologist</i>, vol. 73, 2018.<br>
 <sup>16</sup> Mehrholz, J., Pohl, M., Platz, T., Kugler, J., and Elsner, B., “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke”, <i>Cochrane Database of Systematic Reviews</i>, 2018.<br>
 <sup>17</sup> Morey, M. C., “Physical Activity and Exercise in Older Adults”, <i>UpToDate</i>, 2019.<br>
-<sup>18</sup> Bergeson, S., “Really Cool Neutral Plasmas”, <i>Science</i>, Vol.363, No.6422, January 2019, pp.33-34.<br>
+<sup>18</sup> Bergeson, S., “Really Cool Neutral Plasmas”, <i>Science</i>, Vol. 363, No.6422, January 2019, pp.33-34.<br>
 <sup>19</sup> Bustillos, M., “On Video Games and Storytelling: An Interview with Tom Bissell”, <i>The New Yorker</i>, March 2013.<br>
-<sup>20</sup> Weir, K., “Forgiveness Can Improve Mental and Physical Health”, <i>Monitor on Psychology</i>, Vol.48, No.1, January 2017, p.30.<br>
+<sup>20</sup> Weir, K., “Forgiveness Can Improve Mental and Physical Health”, <i>Monitor on Psychology</i>, Vol. 48, No.1, January 2017, p.30.<br>
 <sup>21</sup> Guarino, B., “How Will Humanity React to Alien Life? Psychologists Have Some Predictions”, <i>The Washington Post</i>, December 2017.<br>
 <sup>22</sup> Hess, A., “Cats Who Take Direction”, <i>The New York Times</i>, January 2019, p.C1.<br>
 <sup>23</sup> Klymkowsky, M., Can We Talk Scientifically about Free Will?, Sci-Ed, 2018, <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.<br>
 <sup>24</sup> KS in NJ, “From This Article, It Sounds like Men Are Figuring Something out That Women Have Known Forever. I Know of Many”, <i>The Washington Post</i>, January 2019.<br>
 <sup>25</sup> Author, A., “How Workout Buddies Can Help Stave off Loneliness”, <i>The Washington Post</i>, January 2019.<br>
-<sup>26</sup> Cuellar, N. G., “Study Abroad Programs”, <i>Journal of Transcultural Nursing</i>, Vol.27, No.3, 2016, p.209.<br>
+<sup>26</sup> Cuellar, N. G., “Study Abroad Programs”, <i>Journal of Transcultural Nursing</i>, Vol. 27, No.3, 2016, p.209.<br>
 <sup>27</sup> Brown, L. S., <i>Feminist Therapy</i>, American Psychological Association, 2018.<br>
 <sup>28</sup> Burgess, R., <i>Rethinking Global Health: Frameworks of Power</i>, Routledge, 2019.<br>
 <sup>29</sup> Cain, S., <i>Quiet: The Power of Introverts in a World That Can’t Stop Talking</i>, Random House Audio, 2012.<br>
@@ -410,13 +410,13 @@
 <sup>32</sup> Schmid, Henry-James, ed., <i>Entrenchment and the Psychology of Language Learning: How We Reorganize and Adapt Linguistic Knowledge</i>, American Psychological Association; De Gruyter Mouton, 2017.<br>
 <sup>33</sup> Hacker Hughes, J., ed., <i>Military Veteran Psychological Health and Social Care: Contemporary Approaches</i>, Routledge, 2017.<br>
 <sup>34</sup> Pridham, K. F., Limbo, R., and Schroeder, M., eds., <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>, Springer Publishing Company, 2018.<br>
-<sup>35</sup> Amano, N. and Kondo, H., <i>Lexical Characteristics of Japanese Language</i>, vol.7, Sansei-do, 2000.<br>
+<sup>35</sup> Amano, N. and Kondo, H., <i>Lexical Characteristics of Japanese Language</i>, vol. 7, Sansei-do, 2000.<br>
 <sup>36</sup> Piaget, J. and Inhelder, B., <i>The Psychology of the Child</i>, Quadrige, 1966.<br>
 <sup>37</sup> Piaget, J. and Inhelder, B., <i>The Psychology of the Child</i>, trans. Weaver, H., Basic Books, 1969.<br>
 <sup>38</sup> Freud, S., <i>The Interpretation of Dreams: The Complete and Definitive Text</i>, trans. Strachey, J., Basic Books, 2010.<br>
 <sup>39</sup> Rowling, J. K., <i>Harry Potter and the Sorceror’s Stone</i>, Pottermore Publishing, 2015.<br>
-<sup>40</sup> Fiske, S. T., Gilbert, D. T., and Lindzey, G., <i>Handbook of Social Psychology</i>, vol.1, John Wiley &#38; Sons, 2010.<br>
-<sup>41</sup> Travis, C. B. and White, J. W., eds., <i>APA Handbook of the Psychology of Women</i>, vol.1, American Psychological Association, 2018.<br>
+<sup>40</sup> Fiske, S. T., Gilbert, D. T., and Lindzey, G., <i>Handbook of Social Psychology</i>, vol. 1, John Wiley &#38; Sons, 2010.<br>
+<sup>41</sup> Travis, C. B. and White, J. W., eds., <i>APA Handbook of the Psychology of Women</i>, vol. 1, American Psychological Association, 2018.<br>
 <sup>42</sup> Madigan, S., <i>Narrative Therapy</i>, American Psychological Association, 2019.<br>
 <sup>43</sup> American Psychiatric Association, “Diagnostic and Statistical Manual of Mental Disorders”, American Psychiatric Association, 2013.<br>
 <sup>44</sup> World Health Organization, “International Statistical Classification of Diseases and Related Health Problems”, World Health Organization, 2019.<br>
@@ -435,7 +435,7 @@
 <sup>57</sup> Carcavilla González, N., “Auditory Sensory Therapy: Brain Activation through Music”, in Garcia Meilán, J. J., ed., <i>Guía Práctica de Terapias Estimulativas En El Alzhéimer</i>, Editorial Síntesis, 2015.<br>
 <sup>58</sup> Heidegger, M., “On the Essence of Truth”, trans. Sallis, J., in Krell, D. F., ed., <i>Basic Writings</i>, Harper Perennial Modern Thought, 2008.<br>
 <sup>59</sup> Sacchett, C. and Humphreys, G. W., “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, in Balota, D. A. and Marsh, E. J., eds., <i>Cognitive Psychology: Key Readings in Cognition</i>, Psychology Press, 2004.<br>
-<sup>60</sup> Sacchett, C. and Humphreys, G. W., “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, <i>Cognitive Neuropsychology</i>, Vol.9, No.1, 1992, pp.73-86.<br>
+<sup>60</sup> Sacchett, C. and Humphreys, G. W., “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, <i>Cognitive Neuropsychology</i>, Vol. 9, No.1, 1992, pp.73-86.<br>
 <sup>61</sup> Bronfenbrenner, U., “The Social Ecology of Human Development: A Retrospective Conclusion”, in Bronfenbrenner, U., ed., <i>Making Human Beings Human: Bioecological Perspectives on Human Development</i>, SAGE Publications, 2005.<br>
 <sup>62</sup> Richardson, F., ed., <i>Brain and Intelligence: The Ecology of Child Development</i>, National Educational Press, 1973.<br>
 <sup>63</sup> Goldin-Meadow, S., “Gesture and Cognitive Development”, in Liben, L. S. and Mueller, U., eds., <i>Handbook of Child Psychology and Developmental Science</i>, John Wiley &#38; Sons, 2015.<br>
@@ -466,7 +466,7 @@
 <sup>88</sup> Harris, L., “Instructional Leadership Perceptions and Practices of Elementary School Leaders”, Unpublished Doctoral Dissertation, University of Virginia, 2014.<br>
 <sup>89</sup> Hollander, M. M., “Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment”, Doctoral Dissertation, University of Wisconsin–Madison, 2017.<br>
 <sup>90</sup> Hutcheson, V. H., “Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents”, Master’s Thesis, The College of William &#38; Mary, 2012.<br>
-<sup>91</sup> Mirabito, L. A. and Heck, N. C., “Bringing LGBTQ Youth Theater into the Spotlight”, <i>Psychology of Sexual Orientation and Gender Diversity</i>, Vol.3, No.4, 2016, pp.499-500.<br>
+<sup>91</sup> Mirabito, L. A. and Heck, N. C., “Bringing LGBTQ Youth Theater into the Spotlight”, <i>Psychology of Sexual Orientation and Gender Diversity</i>, Vol. 3, No.4, 2016, pp.499-500.<br>
 <sup>92</sup> <i>The Year We Thought about Love</i>, 2016.<br>
 <sup>93</sup> Santos, F., “Reframing Refugee Children’s Stories”, <i>The New York Times</i>, January 2019.<br>
 <sup>94</sup> Yousafzai, M., <i>We Are Displaced: My Journey and Stories from Refugee Girls around the World</i>, 2016.<br>
@@ -545,27 +545,27 @@
 <sup>167</sup> Boddy, J., Neumann, T., Jennings, S., Morrow, V., Alderson, P., Rees, R., and Gibson, W., Ethics Principles, The research ethics guidebook: A resource for social scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
 <sup>168</sup> National Nurses United, What Employers Should Do to Protect Nurses from Zika, <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
 <sup>169</sup> U.S. Census Bureau, U.S. and World Population Clock, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>，July 3, 2019.<br>
-<sup>170</sup> <i>Brown v. Board of Education</i>, vol.347, 1954.<br>
-<sup>171</sup> <i>Obergefell v. Hodges</i>, vol.576, 2015.<br>
-<sup>172</sup> <i>Daubert v. Merrell Dow Pharmaceuticals, Inc.</i>, vol.951, 1991.<br>
-<sup>173</sup> <i>Burriola v. Greater Toledo YMCA</i>, vol.133, 2001.<br>
-<sup>174</sup> <i>Durflinger v. Artiles</i>, vol.563, 1984.<br>
-<sup>175</sup> <i>Tarasoff v. Regents of the University of California</i>, vol.17, 1976.<br>
-<sup>176</sup> <i>Texas v. Morales</i>, vol.826, 1992.<br>
-<sup>177</sup> <i>American With Disabilities Act of 1990</i>, vol.42, 1990.<br>
-<sup>178</sup> <i>Civil Rights Act of 1964</i>, vol.78, 1964.<br>
-<sup>179</sup> <i>Every Student Succeeds Act</i>, vol.20, 2015.<br>
-<sup>180</sup> <i>Lilly Leadbetter Fair Play Act of 2009</i>, vol.123, 2009.<br>
-<sup>181</sup> <i>Patsy Mink Equal Opportunity in Education Act</i>, vol.20, 1972.<br>
+<sup>170</sup> <i>Brown v. Board of Education</i>, vol. 347, 1954.<br>
+<sup>171</sup> <i>Obergefell v. Hodges</i>, vol. 576, 2015.<br>
+<sup>172</sup> <i>Daubert v. Merrell Dow Pharmaceuticals, Inc.</i>, vol. 951, 1991.<br>
+<sup>173</sup> <i>Burriola v. Greater Toledo YMCA</i>, vol. 133, 2001.<br>
+<sup>174</sup> <i>Durflinger v. Artiles</i>, vol. 563, 1984.<br>
+<sup>175</sup> <i>Tarasoff v. Regents of the University of California</i>, vol. 17, 1976.<br>
+<sup>176</sup> <i>Texas v. Morales</i>, vol. 826, 1992.<br>
+<sup>177</sup> <i>American With Disabilities Act of 1990</i>, vol. 42, 1990.<br>
+<sup>178</sup> <i>Civil Rights Act of 1964</i>, vol. 78, 1964.<br>
+<sup>179</sup> <i>Every Student Succeeds Act</i>, vol. 20, 2015.<br>
+<sup>180</sup> <i>Lilly Leadbetter Fair Play Act of 2009</i>, vol. 123, 2009.<br>
+<sup>181</sup> <i>Patsy Mink Equal Opportunity in Education Act</i>, vol. 20, 1972.<br>
 <sup>182</sup> <i>Florida Mental Health Act</i>, 2009.<br>
 <sup>183</sup> <i>Federal Real Property Reform: How Cutting Red Tape and Better Management Count Achieve Billions in Savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>, 2016.<br>
 <sup>184</sup> <i>Strengthening the Federal Student Loan Program for Borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions</i>, 2014.<br>
 <sup>185</sup> <i>Mental Health on Campus Improvement Act</i>, 2013.<br>
-<sup>186</sup> <i>S. Res. 438</i>, vol.162, 2016.<br>
+<sup>186</sup> <i>S. Res. 438</i>, vol. 162, 2016.<br>
 <sup>187</sup> “H.R. Rep. No. 114-358”, 2015.<br>
-<sup>188</sup> <i>Protection of Human Subjects</i>, vol.45, 2009.<br>
-<sup>189</sup> <i>Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees</i>, vol.81, 2016.<br>
-<sup>190</sup> <i>Exec. Order No. 13,676</i>, vol.3, 2014.<br>
+<sup>188</sup> <i>Protection of Human Subjects</i>, vol. 45, 2009.<br>
+<sup>189</sup> <i>Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees</i>, vol. 81, 2016.<br>
+<sup>190</sup> <i>Exec. Order No. 13,676</i>, vol. 3, 2014.<br>
 <sup>191</sup> Hiremath, S. C., Kumar, S., Lu, F., and Salehi, A., <i>Using Metaphors to Present Concepts across Different Intellectual Domains</i>, U.S., 2016.<br>
 <sup>192</sup> <i>U.S. Const. Art. I, § 3</i>.<br>
 <sup>193</sup> <i>S.C. Const. Art. XI, § 3</i>.<br>

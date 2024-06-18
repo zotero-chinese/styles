@@ -12,7 +12,7 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-06-18T15:13:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -63,7 +63,7 @@
   <macro name="volume-en">
     <choose>
       <if is-numeric="volume">
-        <label variable="volume" form="short"/>
+        <label variable="volume" form="short" suffix=" "/>
         <number variable="volume"/>
       </if>
       <else>
@@ -205,7 +205,7 @@
     <group delimiter=", ">
       <text variable="container-title" text-case="title" font-style="italic"/>
       <group>
-        <label variable="volume" form="short" text-case="capitalize-first"/>
+        <label variable="volume" form="short" text-case="capitalize-first" suffix=" "/>
         <number variable="volume"/>
       </group>
       <group>

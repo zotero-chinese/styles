@@ -14,7 +14,7 @@
     <category field="history"/>
     <category field="social_science"/>
     <issn>2096-6660</issn>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-06-18T14:50:06+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -74,7 +74,7 @@
   <macro name="volume-en">
     <choose>
       <if is-numeric="volume">
-        <label variable="volume" form="short"/>
+        <label variable="volume" form="short" suffix=" "/>
         <number variable="volume"/>
       </if>
       <else>

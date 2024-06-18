@@ -4,7 +4,7 @@
     <title>国际政治研究</title>
     <id>http://www.zotero.org/styles/the-journal-of-international-studies</id>
     <link href="http://www.zotero.org/styles/the-journal-of-international-studies" rel="self"/>
-    <link href="http://www.zotero.org/styles/journal-of-world-economics-and-politics" rel="template"/>
+    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
     <link href="https://www.jis.pku.edu.cn/Zhushi1407/1102984.htm" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>
@@ -18,7 +18,7 @@
     <category field="political_science"/>
     <category field="social_science"/>
     <issn>1671-4709</issn>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-06-18T15:16:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -96,7 +96,7 @@
   <macro name="volume-en">
     <choose>
       <if is-numeric="volume">
-        <label variable="volume" form="short" text-case="capitalize-first"/>
+        <label variable="volume" form="short" text-case="capitalize-first" suffix=" "/>
         <number variable="volume"/>
       </if>
       <else>

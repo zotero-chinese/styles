@@ -80,7 +80,7 @@
 <sup>24</sup> J. Alan Roberson and Eric G. Burneson, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。<br>
-<sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol.1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
+<sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol. 1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
 <sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年。<br>
 <sup>29</sup> 余建斌：《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》2013年1月12日，第2版。<br>
 <sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
@@ -215,7 +215,7 @@
 <sup>23</sup> John Ruby and Cain Fulton, “Beyond Redlining: Editing Software That Works,” Washington, DC, 1993.<br>
 <sup>24</sup> Australian Bureau of Statistics, “Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990,” Canberra, Australian Capital Territory: Author, 1991.<br>
 <sup>25</sup> Terence R. Mitchell and James R. Larson, <i>People in Organizations: An Introduction to Organizational Behavior</i>, New York: McGraw-Hill, 1987.<br>
-<sup>26</sup> P. G. Bergmann, <i>Relativity</i>, vol.26, New York: Encyclopedia Britannica, 1993, pp. 501-508.<br>
+<sup>26</sup> P. G. Bergmann, <i>Relativity</i>, vol. 26, New York: Encyclopedia Britannica, 1993, pp. 501-508.<br>
 <sup>27</sup> Stanley Sadie, ed., <i>The New Grove Dictionary of Music and Musicians</i>, London : New York: Macmillan, 1980.<br>
 <sup>28</sup> 李行健主编：《现代汉语规范辞典》，北京：外语教学与研究出版社，2004年，第255页。<br>
 <sup>29</sup> 《现代汉语频率词典》，北京：北京语言学院出版社，1986年。<br>
@@ -309,7 +309,7 @@
 <sup>19</sup> Louis D. Brandeis, “What Publicity Can Do,” <i>Harper’s Weekly</i> (December 1913), p. 10.<br>
 <sup>20</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
 <sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>22</sup> <i>R. v. Panel on Take-Overs and Mergers</i>, vol.815, 1987.<br>
+<sup>22</sup> <i>R. v. Panel on Take-Overs and Mergers</i>, vol. 815, 1987.<br>
 <sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程》，中国政法大学出版社，2004年。<br>
 <sup>25</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》（第2版）第2卷，人民出版社，1994年。<br>
@@ -331,11 +331,11 @@
 <sup>41</sup> Andrew Rosenthal, “White House Tutors Kremlin in How a Presidency Works,” <i>New York Times</i> (June 1990), p. A1.<br>
 <sup>42</sup> Jürgen Habermas, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, trans. William Rehg, MIT Press, 1996.<br>
 <sup>43</sup> Jamie Horsley, “Rule of Law in China: Incremental Progress,” in C. Fred Bergsten, Bates Gill, Nicholas R. Lardy, and Derek Mitchell, eds., <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.<br>
-<sup>44</sup> <i>Department of Transportation Act</i>, vol.80, 1966, pp. 931, 944-947.<br>
-<sup>45</sup> <i>Administrative Procedure Act § 6</i>, vol.5, 2006.<br>
-<sup>46</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol.685, 1982, p. 718.<br>
-<sup>47</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol.467, 1984, p. 837.<br>
-<sup>48</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol.410, 1973, p. 113.<br>
+<sup>44</sup> <i>Department of Transportation Act</i>, vol. 80, 1966, pp. 931, 944-947.<br>
+<sup>45</sup> <i>Administrative Procedure Act § 6</i>, vol. 5, 2006.<br>
+<sup>46</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol. 685, 1982, p. 718.<br>
+<sup>47</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol. 467, 1984, p. 837.<br>
+<sup>48</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol. 410, 1973, p. 113.<br>
 <sup>49</sup> <i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i><br>
 <sup>50</sup> Stephen McDonell, When China Began Streaming Trials Online, BBC News, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.<br>
 <sup>51</sup> Marc Chevallier, <i>L’État de droit</i>, Paris: Montchrestien, 2003.<br>
@@ -349,7 +349,7 @@
 <sup>59</sup> Benjamin Vogel, “Rechtsgüterschutz und Normgeltung,” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, vol. 129, no. 3 (December 2017), pp. 629-649.<br>
 <sup>60</sup> Markus Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts,” <i>Juristische Schulung</i>, no. 3 (2012), pp. 234-240.<br>
 <sup>61</sup> Thomas Fischer, “Absurdes Spektakel um den Tod,” <i>Die Zeit</i> (September 2015).<br>
-<sup>62</sup> Claus Roxin, <i>Strafrecht Allgemeiner Teil</i>, vol.1, C. H. Beck, 2006.<br>
+<sup>62</sup> Claus Roxin, <i>Strafrecht Allgemeiner Teil</i>, vol. 1, C. H. Beck, 2006.<br>
 <sup>63</sup> Ralf Dreier and Stanley Paulson, eds., <i>Rechtsphilosophie Studienausgabe</i>, Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
 <sup>64</sup> Martin Schwab, in <i>Münchener Kommentar BGB</i>, 2013.<br>
 <sup>65</sup> Arthur Kaufmann, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht,” in Jürgen Baumann, ed., <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.<br>
@@ -357,7 +357,7 @@
 <sup>67</sup> <i>StGB</i>.<br>
 <sup>68</sup> <i>StPO</i>.<br>
 <sup>69</sup> <i>GG</i>.<br>
-<sup>70</sup> <i>Strauß-Karikatur, Kunstfreiheit</i>, vol.75, p. 369.<br>
+<sup>70</sup> <i>Strauß-Karikatur, Kunstfreiheit</i>, vol. 75, p. 369.<br>
 <sup>71</sup> 1999, p. 185.<br>
 <sup>72</sup> 2000, p. 1560.<br>
 <sup>73</sup> Martin Meidenbauer, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.<br>
@@ -365,7 +365,7 @@
 <sup>75</sup> 我妻栄 and 有泉亨, 民法総則物権法, 日本評論社, 1950.<br>
 <sup>76</sup> 於保不二雄, “付加物及び従物と抵当権,” 民商法雑誌, vol. 29, no. 5 (1954), p. 1.<br>
 <sup>77</sup> 佐藤英明, “一時所得の要件に関する覚書,” in 金子宏, 中里実, and J.マーク・ラムザイヤー, eds., 租税法と市場, 有斐閣, 2014, p. 220.<br>
-<sup>78</sup> 信玄公旗掛松事件, vol.25, 1919, p. 356.<br>
+<sup>78</sup> 信玄公旗掛松事件, vol. 25, 1919, p. 356.<br>
 <sup>79</sup> 約束手形金, 36卷6号, 1982, p. 1113.<br>
 <sup>80</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
 <sup>81</sup> <i>平成26年版犯罪白書</i>.<br>
@@ -393,8 +393,8 @@
 <sup>11</sup> J. Piaget, “Intellectual Evolution from Adolescence to Adulthood,” trans. J. Bliss and H. Furth, <i>Human Development</i>, vol. 15, no. 1 (1972), pp. 1-12.<br>
 <sup>12</sup> M. F. Shore, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States,” <i>American Journal of Orthopsychiatry</i>, vol. 84, no. 6 (2014), pp. 611-618.<br>
 <sup>13</sup> “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States,” <i>American Journal of Orthopsychiatry</i>, vol. 51, no. 3 (1981), pp. 391-402.<br>
-<sup>14</sup> S. O. Lilienfeld, ed., <i>Archives of Scientific Psychology</i>, vol.6, 2018, pp. 51-104.<br>
-<sup>15</sup> S. H. McDaniel, E. Salas, and A. E. Kazak, eds., <i>American Psychologist</i>, vol.73, 2018.<br>
+<sup>14</sup> S. O. Lilienfeld, ed., <i>Archives of Scientific Psychology</i>, vol. 6, 2018, pp. 51-104.<br>
+<sup>15</sup> S. H. McDaniel, E. Salas, and A. E. Kazak, eds., <i>American Psychologist</i>, vol. 73, 2018.<br>
 <sup>16</sup> J. Mehrholz, M. Pohl, T. Platz, J. Kugler, and B. Elsner, “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke,” <i>Cochrane Database of Systematic Reviews</i> (2018).<br>
 <sup>17</sup> M. C. Morey, “Physical Activity and Exercise in Older Adults,” <i>UpToDate</i> (2019).<br>
 <sup>18</sup> S. Bergeson, “Really Cool Neutral Plasmas,” <i>Science</i>, vol. 363, no. 6422 (January 2019), pp. 33-34.<br>
@@ -414,13 +414,13 @@
 <sup>32</sup> Henry-James Schmid, ed., <i>Entrenchment and the Psychology of Language Learning: How We Reorganize and Adapt Linguistic Knowledge</i>, American Psychological Association; De Gruyter Mouton, 2017.<br>
 <sup>33</sup> J. Hacker Hughes, ed., <i>Military Veteran Psychological Health and Social Care: Contemporary Approaches</i>, Routledge, 2017.<br>
 <sup>34</sup> K. F. Pridham, R. Limbo, and M. Schroeder, eds., <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>, Springer Publishing Company, 2018.<br>
-<sup>35</sup> N. Amano and H. Kondo, <i>Lexical Characteristics of Japanese Language</i>, vol.7, Sansei-do, 2000.<br>
+<sup>35</sup> N. Amano and H. Kondo, <i>Lexical Characteristics of Japanese Language</i>, vol. 7, Sansei-do, 2000.<br>
 <sup>36</sup> J. Piaget and B. Inhelder, <i>The Psychology of the Child</i>, Quadrige, 1966.<br>
 <sup>37</sup> J. Piaget and B. Inhelder, <i>The Psychology of the Child</i>, trans. H. Weaver, Basic Books, 1969.<br>
 <sup>38</sup> S. Freud, <i>The Interpretation of Dreams: The Complete and Definitive Text</i>, trans. J. Strachey, Basic Books, 2010.<br>
 <sup>39</sup> J. K. Rowling, <i>Harry Potter and the Sorceror’s Stone</i>, Pottermore Publishing, 2015.<br>
-<sup>40</sup> S. T. Fiske, D. T. Gilbert, and G. Lindzey, <i>Handbook of Social Psychology</i>, vol.1, John Wiley &#38; Sons, 2010.<br>
-<sup>41</sup> C. B. Travis and J. W. White, eds., <i>APA Handbook of the Psychology of Women</i>, vol.1, American Psychological Association, 2018.<br>
+<sup>40</sup> S. T. Fiske, D. T. Gilbert, and G. Lindzey, <i>Handbook of Social Psychology</i>, vol. 1, John Wiley &#38; Sons, 2010.<br>
+<sup>41</sup> C. B. Travis and J. W. White, eds., <i>APA Handbook of the Psychology of Women</i>, vol. 1, American Psychological Association, 2018.<br>
 <sup>42</sup> S. Madigan, <i>Narrative Therapy</i>, American Psychological Association, 2019.<br>
 <sup>43</sup> American Psychiatric Association, “Diagnostic and Statistical Manual of Mental Disorders,” American Psychiatric Association, 2013.<br>
 <sup>44</sup> World Health Organization, “International Statistical Classification of Diseases and Related Health Problems,” World Health Organization, 2019.<br>
@@ -549,27 +549,27 @@
 <sup>167</sup> J. Boddy, T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees, and W. Gibson, Ethics Principles, The research ethics guidebook: A resource for social scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
 <sup>168</sup> National Nurses United, What Employers Should Do to Protect Nurses from Zika, <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
 <sup>169</sup> U.S. Census Bureau, U.S. and World Population Clock, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>，July 3, 2019.<br>
-<sup>170</sup> <i>Brown v. Board of Education</i>, vol.347, 1954, p. 483.<br>
-<sup>171</sup> <i>Obergefell v. Hodges</i>, vol.576, 2015.<br>
-<sup>172</sup> <i>Daubert v. Merrell Dow Pharmaceuticals, Inc.</i>, vol.951, 1991, p. 1128.<br>
-<sup>173</sup> <i>Burriola v. Greater Toledo YMCA</i>, vol.133, 2001, p. 1034.<br>
-<sup>174</sup> <i>Durflinger v. Artiles</i>, vol.563, 1984, p. 332.<br>
-<sup>175</sup> <i>Tarasoff v. Regents of the University of California</i>, vol.17, 1976, p. 425.<br>
-<sup>176</sup> <i>Texas v. Morales</i>, vol.826, 1992, p. 201.<br>
-<sup>177</sup> <i>American With Disabilities Act of 1990</i>, vol.42, 1990.<br>
-<sup>178</sup> <i>Civil Rights Act of 1964</i>, vol.78, 1964, p. 241.<br>
-<sup>179</sup> <i>Every Student Succeeds Act</i>, vol.20, 2015.<br>
-<sup>180</sup> <i>Lilly Leadbetter Fair Play Act of 2009</i>, vol.123, 2009, p. 5.<br>
-<sup>181</sup> <i>Patsy Mink Equal Opportunity in Education Act</i>, vol.20, 1972.<br>
+<sup>170</sup> <i>Brown v. Board of Education</i>, vol. 347, 1954, p. 483.<br>
+<sup>171</sup> <i>Obergefell v. Hodges</i>, vol. 576, 2015.<br>
+<sup>172</sup> <i>Daubert v. Merrell Dow Pharmaceuticals, Inc.</i>, vol. 951, 1991, p. 1128.<br>
+<sup>173</sup> <i>Burriola v. Greater Toledo YMCA</i>, vol. 133, 2001, p. 1034.<br>
+<sup>174</sup> <i>Durflinger v. Artiles</i>, vol. 563, 1984, p. 332.<br>
+<sup>175</sup> <i>Tarasoff v. Regents of the University of California</i>, vol. 17, 1976, p. 425.<br>
+<sup>176</sup> <i>Texas v. Morales</i>, vol. 826, 1992, p. 201.<br>
+<sup>177</sup> <i>American With Disabilities Act of 1990</i>, vol. 42, 1990.<br>
+<sup>178</sup> <i>Civil Rights Act of 1964</i>, vol. 78, 1964, p. 241.<br>
+<sup>179</sup> <i>Every Student Succeeds Act</i>, vol. 20, 2015.<br>
+<sup>180</sup> <i>Lilly Leadbetter Fair Play Act of 2009</i>, vol. 123, 2009, p. 5.<br>
+<sup>181</sup> <i>Patsy Mink Equal Opportunity in Education Act</i>, vol. 20, 1972.<br>
 <sup>182</sup> <i>Florida Mental Health Act</i>, 2009.<br>
 <sup>183</sup> <i>Federal Real Property Reform: How Cutting Red Tape and Better Management Count Achieve Billions in Savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>, 2016.<br>
 <sup>184</sup> <i>Strengthening the Federal Student Loan Program for Borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions</i>, 2014.<br>
 <sup>185</sup> <i>Mental Health on Campus Improvement Act</i>, 2013.<br>
-<sup>186</sup> <i>S. Res. 438</i>, vol.162, 2016, p. 2394.<br>
+<sup>186</sup> <i>S. Res. 438</i>, vol. 162, 2016, p. 2394.<br>
 <sup>187</sup> “H.R. Rep. No. 114-358,” 2015.<br>
-<sup>188</sup> <i>Protection of Human Subjects</i>, vol.45, 2009.<br>
-<sup>189</sup> <i>Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees</i>, vol.81, 2016, p. 32391.<br>
-<sup>190</sup> <i>Exec. Order No. 13,676</i>, vol.3, 2014, p. 294.<br>
+<sup>188</sup> <i>Protection of Human Subjects</i>, vol. 45, 2009.<br>
+<sup>189</sup> <i>Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees</i>, vol. 81, 2016, p. 32391.<br>
+<sup>190</sup> <i>Exec. Order No. 13,676</i>, vol. 3, 2014, p. 294.<br>
 <sup>191</sup> S. C. Hiremath, S. Kumar, F. Lu, and A. Salehi, <i>Using Metaphors to Present Concepts across Different Intellectual Domains</i>, U.S., 2016.<br>
 <sup>192</sup> <i>U.S. Const. Art. I, § 3</i>.<br>
 <sup>193</sup> <i>S.C. Const. Art. XI, § 3</i>.<br>
