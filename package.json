@@ -1,7 +1,8 @@
 {
-  "name": "styles",
+  "name": "@zotero-chinese/styles",
   "version": "1.0.0",
   "description": "CSL 中文样式库",
+  "private": "true",
   "type": "module",
   "scripts": {
     "dev": "tsx ./lib/index.ts watch",
@@ -10,7 +11,7 @@
     "format": "prettier . --write"
   },
   "author": "zotero-chinese",
-  "license": "GPL-3.0",
+  "license": "CC-BY-SA-3.0",
   "keywords": [
     "csl",
     "zotero",
