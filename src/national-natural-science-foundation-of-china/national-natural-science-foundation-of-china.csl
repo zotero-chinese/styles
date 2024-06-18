@@ -2,9 +2,9 @@
 <!-- 将代码中所有font-weight="bold"替换为font-style="italic" 可以实现期刊名斜体（中文期刊除外） -->
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>NSFC作者年代 (显示全部作者, 姓名取消大写, 无 URL DOI)</title>
-    <id>http://www.zotero.org/styles/nsfc-author-date</id>
-    <link href="http://www.zotero.org/styles/nsfc-author-date" rel="self"/>
+    <title>国家自然科学基金委员会（著者-出版年）</title>
+    <id>http://www.zotero.org/styles/national-natural-science-foundation-of-china</id>
+    <link href="http://www.zotero.org/styles/national-natural-science-foundation-of-china" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
@@ -13,8 +13,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>1. 显示全部作者，姓名取消全大写；2.期刊名称加粗 ；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <summary>显示全部作者，姓名不大写，无 URL、DOI</summary>
+    <updated>2024-06-18T23:32:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -450,7 +450,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

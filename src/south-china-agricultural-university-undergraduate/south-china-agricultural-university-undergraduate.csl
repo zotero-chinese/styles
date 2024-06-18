@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>华南农业大学（本科生）</title>
+    <title>华南农业大学（本科）</title>
     <id>http://www.zotero.org/styles/south-china-agricultural-university-undergraduate</id>
     <link href="http://www.zotero.org/styles/south-china-agricultural-university-undergraduate" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual" rel="template"/>
@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>华南农业大学本科生毕业论文（设计）撰写规范（华南农教〔2012〕30 号）</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T22:16:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -479,7 +479,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

@@ -6,6 +6,7 @@
     <link href="http://www.zotero.org/styles/journal-of-inorganic-materials" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi" rel="template"/>
     <link href="http://www.jim.org.cn/CN/column/item63.shtml" rel="documentation"/>
+    <link href="https://www.jim.org.cn/attached/file/20231221/20231221091140_894.docx" rel="documentation"/>
     <author>
       <name>Northword</name>
       <website>https://github.com/northword</website>
@@ -17,9 +18,9 @@
     <category citation-format="numeric"/>
     <category field="chemistry"/>
     <issn>1000-324X</issn>
-    <summary>《无机材料学报》写作及排版规范</summary>
+    <summary>《无机材料学报》写作及排版规范（2022-10-27）</summary>
     <published>2022-03-24T00:00:00+08:00</published>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T19:01:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -384,7 +385,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

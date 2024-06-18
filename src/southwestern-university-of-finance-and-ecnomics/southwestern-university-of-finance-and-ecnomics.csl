@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale-sort="zh-CN" default-locale="en-US">
   <info>
-    <title>西南财经大学毕业论文</title>
+    <title>西南财经大学（本科）</title>
     <id>http://www.zotero.org/styles/southwestern-university-of-finance-and-ecnomics</id>
     <link href="http://www.zotero.org/styles/southwestern-university-of-finance-and-ecnomics" rel="self"/>
     <link href="http://www.zotero.org/styles/journal-of-management-world" rel="template"/>
+    <link href="https://gs.swufe.edu.cn/info/1050/1190.htm" rel="documentation"/>
     <link href="https://gs.swufe.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&amp;owner=1975186424&amp;wbfileid=7C9185235E6B5CD0FDF7311006495CF6" rel="documentation"/>
     <author>
       <name>Chenhao Liao</name>
@@ -12,7 +13,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2024-06-18T16:03:23+08:00</updated>
+    <summary>附件3：西南财经大学本科生毕业论文（设计）撰写与印制规范.docx（2023-10-13）</summary>
+    <updated>2024-06-18T22:52:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

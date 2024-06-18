@@ -5,7 +5,8 @@
     <id>http://www.zotero.org/styles/historical-research</id>
     <link href="http://www.zotero.org/styles/historical-research" rel="self"/>
     <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
-    <link href="http://lsyj.ajcass.org/html/Index_lsyj.html" rel="documentation"/>
+    <link href="https://lsyj.ajcass.com/" rel="documentation"/>
+    <link href="https://history.bnu.edu.cn/docs//2022-05/f1c3e29e121243c7905a2e474da07b19.pdf" rel="documentation"/>
     <author>
       <name>Fanzhen</name>
       <email>fanzhensopunk@gmail.com</email>
@@ -20,7 +21,8 @@
     </contributor>
     <category citation-format="note"/>
     <category field="history"/>
-    <updated>2024-06-18T14:43:22+08:00</updated>
+    <summary>关于 《历史研究》 文献引证标注方式的规定（2004-12-15）</summary>
+    <updated>2024-06-18T18:58:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

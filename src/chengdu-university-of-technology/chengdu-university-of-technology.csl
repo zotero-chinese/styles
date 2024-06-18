@@ -5,15 +5,16 @@
     <id>http://www.zotero.org/styles/chengdu-university-of-technology</id>
     <link href="http://www.zotero.org/styles/chengdu-university-of-technology" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://www.gra.cdut.edu.cn/info/1023/2130.htm" rel="documentation"/>
+    <link href="https://gra.cdut.edu.cn/info/1023/2130.htm" rel="documentation"/>
+    <link href="https://gra.cdut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&amp;owner=1663504335&amp;wbfileid=12295248" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <summary>成都理工大学博士学位论文模板20230905.doc</summary>
+    <updated>2024-06-18T18:28:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -431,7 +432,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

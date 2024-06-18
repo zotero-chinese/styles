@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" initialize-with=". " default-locale="en-US">
   <info>
-    <title>清华大学 - 美术学院</title>
-    <id>http://www.zotero.org/styles/tsinghua-university-academy-of-arts-and-design</id>
-    <link href="http://www.zotero.org/styles/tsinghua-university-academy-of-arts-and-design" rel="self"/>
+    <title>清华大学（人文社科）</title>
+    <id>http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences</id>
+    <link href="http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences" rel="self"/>
     <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
-    <link href="https://www.ad.tsinghua.edu.cn/" rel="documentation"/>
+    <link href="http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&amp;parentColumnId=0010506&amp;itemSeq=5365" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="note"/>
     <category field="humanities"/>
-    <summary>清华大学美术学院研究生学位论文引证规范</summary>
-    <updated>2023-03-29T21:48:10+08:00</updated>
+    <summary>清华大学研究生学位论文写作指南（2023 年 3 月）附录 I 综合性期刊文献引证技术规范（试行稿）</summary>
+    <updated>2024-06-18T22:23:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 责任者 -->

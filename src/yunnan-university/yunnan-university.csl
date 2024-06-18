@@ -6,18 +6,21 @@
     <id>http://www.zotero.org/styles/yunnan-university</id>
     <link href="http://www.zotero.org/styles/yunnan-university" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://github.com/zotero-chinese/styles/issues/10" rel="documentation"/>
     <author>
+      <name>Sunny-27</name>
+    </author>
+    <contributor>
       <name>redleafnew</name>
       <email>redleafnew@163.com</email>
-    </author>
+    </contributor>
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-06-18T19:52:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

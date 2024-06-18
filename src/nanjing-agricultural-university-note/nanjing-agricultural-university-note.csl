@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>南京农业大学（脚注）</title>
+    <title>南京农业大学（人文社科类，脚注）</title>
     <id>http://www.zotero.org/styles/nanjing-agricultural-university-note</id>
     <link href="http://www.zotero.org/styles/nanjing-agricultural-university-note" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2015-note-bilingual-no-uppercase-no-url-doi" rel="template"/>
@@ -12,8 +12,8 @@
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <summary>南京农业大学研究生学位论文（人文社科类）2023版，脚注式</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <summary>附件2南京农业大学研究生学位论文格式规范（人文社科类）.pdf（2023-03-21），顺序编码制上标脚注式</summary>
+    <updated>2024-06-18T19:28:08+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -617,7 +617,8 @@
               <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
             </group>
-            <text macro="container-booklike-en"/></group>
+            <text macro="container-booklike-en"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher-en"/>
         </else-if>
@@ -664,7 +665,8 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
-            <text macro="container-booklike-zh"/></group>
+            <text macro="container-booklike-zh"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher-zh"/>
         </else-if>

@@ -6,15 +6,16 @@
     <id>http://www.zotero.org/styles/chinese-academy-of-agricultural-sciences</id>
     <link href="http://www.zotero.org/styles/chinese-academy-of-agricultural-sciences" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
-    <link href="https://gs.caas.cn/xwxk/xwsy/227175.htm " rel="documentation"/>
+    <link href="https://gs.caas.cn/xwxk/xwsy/227175.htm" rel="documentation"/>
+    <link href="https://gs.caas.cn/docs/2021-09/20210901084518989523.doc" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>中国农业科学院学位论文</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <summary>中国农业科学院研究生学位论文写作规范202006.doc</summary>
+    <updated>2024-06-18T18:50:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -357,7 +358,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

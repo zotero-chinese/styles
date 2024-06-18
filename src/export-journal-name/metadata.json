@@ -2,7 +2,7 @@
   "dir": "export-journal-name",
   "file": "export-journal-name.csl",
   "style_class": "in-text",
-  "title": "导出期刊名称Export Journal Name",
+  "title": "导出刊名",
   "id": "http://www.zotero.org/styles/export-journal-name",
   "link_self": "http://www.zotero.org/styles/export-journal-name",
   "author": [
@@ -13,7 +13,7 @@
   "contributor": [],
   "citation_format": "author-date",
   "field": "generic-base",
-  "updated": "2024-06-18T16:22:24+08:00",
+  "updated": "2024-06-18T23:27:24+08:00",
   "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">Symposium on Applications of Holography in Mechanics</div>\n  <div class=\"csl-entry\">中国图书馆学会年会论文集</div>\n  <div class=\"csl-entry\">测绘科学</div>\n  <div class=\"csl-entry\">Nature</div>\n</div>",
   "tags": [

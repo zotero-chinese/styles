@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <info>
-    <title>Yuzuc@title@author@year</title>
-    <id>http://www.zotero.org/styles/yuzuc-at-title-at-author-at-year</id>
-    <link href="http://www.zotero.org/styles/yuzuc-at-title-at-author-at-year" rel="self"/>
-    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <title>导出笔记用的样式（@题名@作者@出版年）</title>
+    <id>http://www.zotero.org/styles/export-title-author-year</id>
+    <link href="http://www.zotero.org/styles/export-title-author-year" rel="self"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-18T23:27:18+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

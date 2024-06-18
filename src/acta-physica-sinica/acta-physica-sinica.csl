@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>Acta Physica Sinica (物理学报)</title> <!-- Zotero仓库版 -->
+    <title>物理学报</title>
     <id>http://www.zotero.org/styles/acta-physica-sinica</id>
     <link href="http://www.zotero.org/styles/acta-physica-sinica" rel="self"/>
     <link href="https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm" rel="documentation"/>
@@ -11,8 +11,8 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>The Chinese GB/T 7714-2015 numeric style</summary>
-    <updated>2024-04-26T10:30:22+08:00</updated>
+    <summary>翻译的英文格式填写在 title-short 中</summary>
+    <updated>2024-06-18T22:37:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

@@ -2,7 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " name-as-sort-order="all" sort-separator=" ">
   <!-- 根据GB-T7714-2015-numeric修改 -->
   <info>
-    <title>导出题目Export Title</title>
+    <title>导出题名</title>
     <id>http://www.zotero.org/styles/export-title</id>
     <link href="http://www.zotero.org/styles/export-title" rel="self"/>
     <link href="http://grasch.njau.edu.cn/info/1011/1839.htm" rel="documentation"/>
@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2023-12-21T17:03:40+08:00</updated>
+    <updated>2024-06-18T23:27:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

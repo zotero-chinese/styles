@@ -5,6 +5,7 @@
     <title-short>Lanzhou University</title-short>
     <id>http://www.zotero.org/styles/lanzhou-university</id>
     <link href="http://www.zotero.org/styles/lanzhou-university" rel="self"/>
+    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
     <link href="https://ge.lzu.edu.cn/yjsxw/upload/files/20230404/61cd8e5356084aa28c55ed238ba871bc.pdf" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -14,8 +15,8 @@
     <category field="engineering"/>
     <category field="generic-base"/>
     <category field="science"/>
-    <summary>This style just partly implemented what the Chinese GB/T 7714-2005 requires.</summary>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <summary>在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
+    <updated>2024-06-18T23:13:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

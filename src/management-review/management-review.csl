@@ -6,6 +6,7 @@
     <title-short>glpl</title-short>
     <id>http://www.zotero.org/styles/management-review</id>
     <link href="http://www.zotero.org/styles/management-review" rel="self"/>
+    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
     <link href="http://journal05.magtech.org.cn/jweb_glpl/CN/column/column6.shtml" rel="documentation"/>
     <author>
       <uri>Lyumbreit@gmail.com</uri>
@@ -17,8 +18,8 @@
     <category field="generic-base"/>
     <category field="science"/>
     <issn>1003-1952</issn>
-    <summary>This style just partly implemented what the Chinese GB/T 7714-2005 requires.</summary>
-    <updated>2023-12-21T19:19:37+08:00</updated>
+    <summary>在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
+    <updated>2024-06-18T23:13:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

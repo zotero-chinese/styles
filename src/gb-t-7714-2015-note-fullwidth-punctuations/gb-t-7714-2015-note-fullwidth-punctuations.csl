@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714-2015（脚注，全角标点）</title>
+    <title>GB/T 7714—2015（脚注，双语，全角标点）</title>
     <id>http://www.zotero.org/styles/gb-t-7714-2015-note-fullwidth-punctuations</id>
     <link href="http://www.zotero.org/styles/gb-t-7714-2015-note-fullwidth-punctuations" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="template"/>
@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T22:57:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -622,7 +622,8 @@
               <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
             </group>
-            <text macro="container-booklike-en"/></group>
+            <text macro="container-booklike-en"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher-en"/>
         </else-if>
@@ -669,7 +670,8 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
-            <text macro="container-booklike-zh"/></group>
+            <text macro="container-booklike-zh"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher-zh"/>
         </else-if>

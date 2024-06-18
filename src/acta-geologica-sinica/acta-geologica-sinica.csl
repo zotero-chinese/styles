@@ -5,26 +5,15 @@
     <title>地质学报</title>
     <id>http://www.zotero.org/styles/acta-geologica-sinica</id>
     <link href="http://www.zotero.org/styles/acta-geologica-sinica" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual" rel="template"/>
     <link href="https://www.geojournals.cn/dzxb/dzxb/site/menu/2008061202354001" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
-    </contributor>
-    <contributor>
-      <name>Raymond</name>
-    </contributor>
-    <contributor>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </contributor>
+    </author>
     <category citation-format="author-date"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T23:21:28+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -412,7 +401,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

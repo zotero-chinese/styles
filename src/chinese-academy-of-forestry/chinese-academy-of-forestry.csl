@@ -3,9 +3,9 @@
   <info>
     <title>中国林业科学研究院</title>
     <id>http://www.zotero.org/styles/chinese-academy-of-forestry</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="self"/>
+    <link href="http://www.zotero.org/styles/chinese-academy-of-forestry" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
-    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://github.com/zotero-chinese/styles/issues/295" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>研究生论文撰写规范指南（2024年）</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-06-18T18:30:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -656,7 +656,8 @@
               <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
             </group>
-            <text macro="container-booklike-en"/></group>
+            <text macro="container-booklike-en"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher-en"/>
         </else-if>
@@ -703,7 +704,8 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
-            <text macro="container-booklike-zh"/></group>
+            <text macro="container-booklike-zh"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher-zh"/>
         </else-if>

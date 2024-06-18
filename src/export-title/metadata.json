@@ -2,7 +2,7 @@
   "dir": "export-title",
   "file": "export-title.csl",
   "style_class": "in-text",
-  "title": "导出题目Export Title",
+  "title": "导出题名",
   "id": "http://www.zotero.org/styles/export-title",
   "link_self": "http://www.zotero.org/styles/export-title",
   "link_documentation": "http://grasch.njau.edu.cn/info/1011/1839.htm",
@@ -14,7 +14,7 @@
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",
-  "updated": "2023-12-21T17:03:40+08:00",
+  "updated": "2024-06-18T23:27:21+08:00",
   "citations": "<sup>[1–8]</sup>",
   "bibliography": "<div class=\"csl-bib-body maxoffset-40 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">科学革命的结构: 第 4 版</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">Food irradiation research and technology</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">面向数字素养的高校图书馆数字服务体系研究</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">Advances in holographic photoelasticity</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">“北斗一号”监控管理网设计与实现</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">The genome of eucalyptus grandis</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">第 29 次中国互联网络发展现状统计报告</div></div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">Origins and concepts of digital literacy</div></div>\n</div>",
   "tags": [

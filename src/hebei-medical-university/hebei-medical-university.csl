@@ -5,6 +5,7 @@
     <title-short>HBMU</title-short>
     <id>http://www.zotero.org/styles/hebei-medical-university</id>
     <link href="http://www.zotero.org/styles/hebei-medical-university" rel="self"/>
+    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
     <link href="https://gschool.hebmu.edu.cn/a/2020/03/06/0774B2A85AC24B679BF1A9DA7363AA33.html" rel="documentation"/>
     <author>
       <name>godwin_ma</name>
@@ -14,8 +15,8 @@
     <category field="engineering"/>
     <category field="generic-base"/>
     <category field="science"/>
-    <summary>This style just partly implemented what the Chinese GB/T 7714-2005 requires.</summary>
-    <updated>2023-12-21T19:23:04+08:00</updated>
+    <summary>在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
+    <updated>2024-06-18T23:13:47+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

@@ -3,7 +3,7 @@
   <info>
     <title>Biotechnology Advances Custom</title>
     <id>http://www.zotero.org/styles/biotechnology-advances-custom</id>
-    <link href="http://www.zotero.org/styles/elsevier-harvard-custom" rel="self"/>
+    <link href="http://www.zotero.org/styles/biotechnology-advances-custom" rel="self"/>
     <link href="http://www.zotero.org/styles/ecology-letters" rel="template"/>
     <link href="http://www.elsevier.com/journals/biological-conservation/0006-3207/guide-for-authors#68000" rel="documentation"/>
     <author>
@@ -31,7 +31,7 @@
     <category citation-format="author-date"/>
     <category field="biology"/>
     <category field="generic-base"/>
-    <updated>2023-12-21T01:16:55+08:00</updated>
+    <updated>2024-06-18T18:24:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="container">

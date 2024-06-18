@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>气象学报英文版（英文版）</title>
+    <title>Journal of Meteorological Research</title>
     <title-short>JMR</title-short>
     <id>http://www.zotero.org/styles/journal-of-meteorological-research</id>
     <link href="http://www.zotero.org/styles/journal-of-meteorological-research" rel="self"/>
@@ -14,7 +14,8 @@
     <category citation-format="author-date"/>
     <category field="science"/>
     <issn>2095-6037</issn>
-    <updated>2024-01-04T21:42:09+08:00</updated>
+    <summary>气象学报（英文版）</summary>
+    <updated>2024-06-18T22:18:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

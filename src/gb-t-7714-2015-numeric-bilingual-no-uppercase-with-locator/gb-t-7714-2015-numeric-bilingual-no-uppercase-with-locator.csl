@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>中国农业大学（自然科学）</title>
-    <id>http://www.zotero.org/styles/china-agriculture-university-natural-science</id>
-    <link href="http://www.zotero.org/styles/china-agriculture-university-natural-science" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
-    <link href="https://gradsch1.cau.edu.cn/art/2019/3/18/art_41503_770264.html" rel="documentation"/>
+    <title>GB/T 7714&#8212;2015（顺序编码，双语，姓名不大写，引注有页码）</title>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-with-locator</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-with-locator" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
+    </author>
+    <contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
+    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
-    </author>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>中国农业大学研究生学位论文格式及书写规范（2019年修订）（研生[2019]10号）</summary>
-    <updated>2024-06-18T16:17:52+08:00</updated>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 引文页码在括号外。</summary>
+    <updated>2024-06-18T23:14:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -59,11 +67,6 @@
   <!-- 题名 -->
   <macro name="title">
     <group delimiter=", ">
-      <choose>
-        <if type="standard">
-          <text variable="number"/>
-        </if>
-      </choose>
       <group delimiter=": ">
         <text variable="title"/>
         <group delimiter="&#8195;">
@@ -74,7 +77,7 @@
             </if>
           </choose>
           <choose>
-            <if type="article article-journal patent standard" match="none">
+            <if type="article article-journal" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
             </if>
@@ -174,17 +177,12 @@
   <!-- 文献载体标识 -->
   <macro name="medium-id">
     <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
-        <choose>
-          <if variable="medium">
-            <text variable="medium"/>
-          </if>
-          <else-if variable="URL">
-            <text value="OL"/>
-          </else-if>
-        </choose>
+      <if variable="medium">
+        <text variable="medium"/>
       </if>
+      <else-if variable="URL DOI" match="any">
+        <text value="OL"/>
+      </else-if>
     </choose>
   </macro>
   <!-- 其他责任者 -->
@@ -287,23 +285,26 @@
   <macro name="publisher">
     <choose>
       <if type="patent">
-        <!-- 专利国别, 专利文献种类, 专利号. 公告曰期 -->
-        <group delimiter=". ">
-          <group delimiter=", ">
-            <text macro="patent-country"/>
-            <text variable="genre"/>
-            <text variable="number"/>
-          </group>
-          <text macro="issued-date"/>
-        </group>
+        <!-- 专利的出版项格式“公告日期[引用日期]” -->
+        <text macro="issued-date"/>
+        <text macro="accessed-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
-              <text variable="publisher-place"/>
-              <text variable="publisher" strip-periods="true"/>
+              <choose>
+                <if variable="publisher publisher-place" match="any">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </if>
+                <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
+                  <text variable="archive-place"/>
+                  <text variable="archive"/>
+                </else>
+              </choose>
             </group>
             <text macro="issued-year"/>
           </group>
@@ -311,42 +312,22 @@
         </group>
         <text macro="accessed-date"/>
       </else-if>
-      <else-if variable="URL">
+      <else-if variable="URL DOI" match="any">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
           原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
         -->
         <choose>
-          <if type="dataset post post-weblog software webpage" match="any">
-            <!-- 限制更少的类型作为“纯电子文献“ -->
-            <choose>
-              <if has-day="issued">
-                <text macro="issued-date" prefix="(" suffix=")"/>
-              </if>
-              <else-if variable="issued">
-                <text macro="issued-year"/>
-              </else-if>
-            </choose>
-            <text macro="accessed-date"/>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
           </if>
-          <else>
+          <else-if variable="issued">
             <text macro="issued-year"/>
-          </else>
+          </else-if>
         </choose>
+        <text macro="accessed-date"/>
       </else-if>
       <else>
         <text macro="issued-year"/>
-      </else>
-    </choose>
-  </macro>
-  <!-- 专利国别 -->
-  <macro name="patent-country">
-    <choose>
-      <!-- 专利的国别应使用 `jurisdiction`，但 Zotero 没有对应的字段，所以使用 `publisher-place` 作为备选 -->
-      <if variable="jurisdiction">
-        <text variable="jurisdiction"/>
-      </if>
-      <else>
-        <text variable="publisher-place"/>
       </else>
     </choose>
   </macro>
@@ -377,24 +358,17 @@
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
-        <choose>
-          <if variable="URL">
-            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
-          </if>
-        </choose>
+      <if variable="URL DOI" match="any">
+        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
       </if>
     </choose>
   </macro>
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
-    <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅纯电子资源显示 URL -->
-        <text variable="URL"/>
-      </if>
-    </choose>
+    <group delimiter=". ">
+      <text variable="URL"/>
+      <text variable="DOI" prefix="DOI:"/>
+    </group>
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
@@ -449,11 +423,14 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text variable="citation-number"/>
+    <layout vertical-align="sup" delimiter=",">
+      <group>
+        <text variable="citation-number" prefix="[" suffix="]"/>
+        <text variable="locator"/>
+      </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout" suffix="."/>
