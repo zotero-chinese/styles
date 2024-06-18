@@ -51,7 +51,7 @@ jobs:
 
   send-dispatch:
     name: 请求部署上线
-    if: github.repository == 'zotero-chinese/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
+    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
     needs:
       - build
     runs-on: ubuntu-latest
@@ -65,14 +65,14 @@ jobs:
 
   sync:
     name: 同步到 Gitee
-    if: github.repository == 'zotero-chinese/Chinese-STD-GB-T-7714-related-csl' && github.event_name != 'pull_request'
+    if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'
     needs:
       - build
     runs-on: ubuntu-latest
     steps:
-      - uses: wearerequired/git-mirror-action@master #开源actions包
+      - uses: wearerequired/git-mirror-action@master
         env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
-          source-repo: "git@github.com:zotero-chinese/Chinese-STD-GB-T-7714-related-csl.git" # github仓库地址
+          source-repo: "git@github.com:zotero-chinese/styles.git" # github仓库地址
           destination-repo: "git@gitee.com:redleafnew00/Chinese-STD-GB-T-7714-related-csl.git" # gitee仓库地址

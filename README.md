@@ -4,7 +4,7 @@
 
 [^gbt7714]: 《[GB/T 7714—2015 信息与文献 参考文献著录规则](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)》（[PDF](http://www.cessp.org.cn/a258.html)）
 
-- GitHub 仓库：<https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl>
+- GitHub 仓库：<https://github.com/zotero-chinese/styles>
 - Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
 - CSL 官方仓库：<https://github.com/citation-style-language/styles>
 
@@ -47,7 +47,7 @@ Zotero 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484
 
 ## 没有找到符合需要的样式？
 
-请前往 [ISSUE](https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或请求新的样式。
+请前往 [ISSUE](https://github.com/zotero-chinese/styles/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或请求新的样式。
 
 注意，请认真完成 ISSUE 模板预置的问题，这些问题可以极大提高我们的处理效率，不完整填写的 ISSUE 将被直接关闭。
 
@@ -57,12 +57,15 @@ Zotero 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484
 
 ```bash
 # Clone 这个仓库
-git clone https://github.com/zotero-chinese/Chinese-STD-GB-T-7714-related-csl.git --recursive
+git clone --recursive https://github.com/zotero-chinese/styles.git
 
 # 进入项目目录
 cd styles
 
-# 如果是第一次接触 Node.js 或运行后续命令时提示 yarn 命令不存在，
+# 子模块是必须的，如果在 clone 时没有添加 recursive 选项，需要运行下一行初始化子模块
+git submodule update --init
+
+# 如果是第一次接触 Node.js 或运行后续命令时提示 pnpm 命令不存在，
 # 请执行下一行以安装 pnpm 包管理器
 npm install -g pnpm
 
@@ -76,9 +79,9 @@ pnpm dev
 pnpm build
 
 # 预览一个 CSL 的结果
-pnpm preview "csl path related to project root"
+pnpm preview "src/accounting-research/accounting-research.csl"
 # 你也可以直接运行脚本
-tsx ./lib/index.ts "csl path related to project root"
+tsx ./lib/index.ts "src/accounting-research/accounting-research.csl"
 ```
 
 提交新样式时，在 `src` 目录为每一个 style 建立一个单独的文件夹，在文件夹中，存放 `[style name].csl`。如果需要为这个样式提高单独的测试条目，可以分别建立 `items.json` 或 `cites.json`，这两个 JSON 文件的格式分别为 CSL-JSON 的 Items 和 CitationItems[^csl-json]。
@@ -95,7 +98,7 @@ tsx ./lib/index.ts "csl path related to project root"
 
 感谢所有贡献者！
 
-[![contributors](https://cdn.jsdelivr.net/gh/zotero-chinese/.github@main/.github-contributors/redleafnew_Chinese-STD-GB-T-7714-related-csl.svg)](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=zotero-chinese/styles)](https://github.com/zotero-chinese/styles/graphs/contributors)
 
 ## 更多 Zotero 使用教程及技巧
 
