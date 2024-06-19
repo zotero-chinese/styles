@@ -1,0 +1,408 @@
+[
+	{
+		"id": "aps:01",
+		"type": "article-journal",
+		"abstract": "颗粒物质是由众多离散颗粒组成的软凝聚态物质，涉及多个物理层次结构和机制，是多尺度问题. 首先阐述了颗粒物质多尺度力学的研究框架，指出颗粒间接触力链构成的细观尺度是核心，颗粒物质显示出的独特静态堆积特性和动态流变特性都与细观尺度力链的复杂演变规律直接相关. 围绕着定量描述力链特征这一目标，采用严格的球形颗粒Hertz法向接触理论和Mindlin-Deresiewicz切向接触理论，对重力作用下12000个球心共面的二维等径颗粒静态堆积进行了离散动力学模拟，对力链分布特征、接触力规律等做了量化分析，考察了颗粒",
+		"container-title": "物理学报",
+		"DOI": "10.7498/aps.57.4667",
+		"ISSN": "1000-3290",
+		"issue": "8",
+		"language": "zh-CN",
+		"license": "http://creativecommons.org/licenses/by/3.0/",
+		"note": "publisher: 物理学报\noriginal-author: Sun || Qi Cheng\noriginal-author: Wang || Guang Qian\noriginal-container-title: Acta Physica Sinica\noriginal-container-title-short: Acta Phys. Sin.",
+		"page": "4667-4674",
+		"source": "wulixb.iphy.ac.cn",
+		"title": "静态堆积颗粒中的力链分布",
+		"URL": "https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.57.4667",
+		"volume": "57",
+		"author": [
+			{
+				"family": "孙其诚",
+				"given": ""
+			},
+			{
+				"family": "王光谦",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					4,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:02",
+		"type": "article-journal",
+		"abstract": "We investigate the generalized synchronization between two unidirectionally linearly and nonlinearly coupled chaotic nonidentical Ikeda models and find existence conditions of the generalized synchronization. Also we study the chaos synchronization between nonidentical Ikeda models with variable feedback-delay times and find the existence and sufficient stability conditions for the retarded synchronization manifold with the coupling-delay lag time. Generalization of the approach to the wide class of nonlinear chaotic systems is also presented.",
+		"container-title": "Physical Review E",
+		"DOI": "10.1103/PhysRevE.71.016201",
+		"issue": "1",
+		"journalAbbreviation": "Phys. Rev. E",
+		"language": "en-US",
+		"note": "number: 016201\npublisher: American Physical Society",
+		"source": "APS",
+		"title": "Generalized synchronization in time-delayed systems",
+		"URL": "https://link.aps.org/doi/10.1103/PhysRevE.71.016201",
+		"volume": "71",
+		"author": [
+			{
+				"family": "Shahverdiev",
+				"given": "E. M."
+			},
+			{
+				"family": "Shore",
+				"given": "K. A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					1,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:03",
+		"type": "book",
+		"abstract": "Nicolaas Bloembergen, recipient of the Nobel Prize for Physics (1981), wrote Nonlinear Optics in 1964, when the field of nonlinear optics was only three years old. The available literature has since grown by at least three orders of magnitude.The vitality of Nonlinear Optics is evident from the still-growing number of scientists and engineers engaged in the study of new nonlinear phenomena and in the development of new nonlinear devices in the field of opto-electronics. This monograph should be helpful in providing a historical introduction and a general background of basic ideas both for experts specializing in this discipline and for scientists and students who wish to become acquainted with it.This is the fourth reprint and includes new references to the recent literature.",
+		"event-place": "New York",
+		"language": "en-US",
+		"note": "page: 12-20",
+		"number-of-pages": "192",
+		"publisher": "Benjamin",
+		"publisher-place": "New York",
+		"source": "Google Books",
+		"title": "Nonlinear optics",
+		"author": [
+			{
+				"family": "Bloembergen",
+				"given": "Nicolaas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:04",
+		"type": "book",
+		"abstract": "研究生教学用书",
+		"event-place": "北京",
+		"ISBN": "978-7-04-012738-6",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: pQhGJwAACAAJ\npage: 341\noriginal-author: Feng || Rui\noriginal-author: Jin || Guo Rui\noriginal-title: Condensed Matter Physics\noriginal-publisher-place: Beijing\noriginal-publisher: Higher Education Press",
+		"number-of-pages": "639",
+		"publisher": "高等教育出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "凝聚态物理学",
+		"volume": "上卷",
+		"author": [
+			{
+				"family": "冯端",
+				"given": ""
+			},
+			{
+				"family": "金国钧",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:05",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: TB3CZwEACAAJ\npage: 110-113\noriginal-author: Eckertova   || L.\noriginal-translator: Wang G Y\noriginal-title: Thin film physics\noriginal-publisher-place: Beijing\noriginal-publisher: Science Press",
+		"number-of-pages": "225",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "薄膜物理学",
+		"author": [
+			{
+				"family": "埃克托瓦",
+				"given": "L."
+			}
+		],
+		"translator": [
+			{
+				"literal": "王广阳"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:06",
+		"type": "chapter",
+		"container-title": "Collection in sensory physiology",
+		"event-place": "Berlin",
+		"language": "en-US",
+		"page": "13-20",
+		"publisher": "Springer-Verlag",
+		"publisher-place": "Berlin",
+		"title": "Title",
+		"author": [
+			{
+				"family": "Hardie",
+				"given": "R. C."
+			},
+			{
+				"family": "Smith",
+				"given": "F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:07",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 14th International Symposium on Plasma Chemistry",
+		"event-place": "Prague, Czech Republic",
+		"language": "en-US",
+		"note": "event-date: 1999-08-02/1999-08-06",
+		"page": "1099-1106",
+		"publisher-place": "Prague, Czech Republic",
+		"title": "Title",
+		"author": [
+			{
+				"family": "Tabbal",
+				"given": "A. M."
+			},
+			{
+				"family": "Mérel",
+				"given": "P."
+			},
+			{
+				"family": "Chaker",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:08",
+		"type": "thesis",
+		"event-place": "北京",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"note": "original-author: Yang || Kai Hua\noriginal-title: Thesis title\noriginal-genre: Ph.D. dissertation\noriginal-publisher-place: Beijing\noriginal-publisher: Peking University",
+		"publisher": "北京大学",
+		"publisher-place": "北京",
+		"title": "论文题目",
+		"author": [
+			{
+				"literal": "杨凯华"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:09",
+		"type": "thesis",
+		"event-place": "合肥",
+		"genre": "硕士学位论文",
+		"language": "zh-CN",
+		"note": "original-author: Guo || Zhe Ying\noriginal-title: Thesis title\noriginal-genre: M.S. thesis \noriginal-publisher-place: Hefei\noriginal-publisher: University of Science and Technology of China",
+		"publisher": "中国科学技术大学",
+		"publisher-place": "合肥",
+		"title": "论文题目",
+		"author": [
+			{
+				"literal": "郭哲颖"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:10",
+		"type": "article",
+		"abstract": "We present a feasibility study of a method to measure the cosine of twice the CKM Unitarity Triangle angle beta using a time-dependent Dalitz plot analysis of B0 -> D pi+ pi- decays, where the neutral D meson is reconstructed in decays to CP eigenstates. We show that this method can be used at the B factories to make a measurement of cos(2beta) that is competitive with, or more precise than, other techniques using different quark-level transitions, while sin(2beta) can be measured to an accuracy more precise than any existing measurement using b -> c ubar d transitions. Furthermore, this technique has great potential to be employed at LHCb.",
+		"language": "en-US",
+		"note": "arXiv:0809.0872 [hep-ex, physics:hep-ph]",
+		"number": "arXiv:0809.0872v1",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "A method to measure cos(2beta) using time-dependent dalitz plot analysis of B0 -> D_CP pi+ pi-",
+		"URL": "http://arxiv.org/abs/0809.0872v1",
+		"author": [
+			{
+				"family": "Latham",
+				"given": "Thomas"
+			},
+			{
+				"family": "Gershon",
+				"given": "Tim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					9,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:11",
+		"type": "webpage",
+		"abstract": "Sorry, it seems you were trying to access a page that doesn't exist.",
+		"container-title": "Computing Sciences Research",
+		"language": "en-US",
+		"title": "High-precision software directory",
+		"URL": "https://crd.lbl.gov/~dhbailey/mpdist/",
+		"author": [
+			{
+				"family": "Bailey",
+				"given": "David H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2010",
+					8,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "aps:12",
+		"type": "patent",
+		"authority": "United States",
+		"call-number": "US05739413",
+		"event-place": "US",
+		"language": "en-US",
+		"number": "US4081490A",
+		"publisher-place": "US",
+		"title": "Hydrocarbon conversion over ZSM-35",
+		"URL": "https://patents.google.com/patent/US4081490A/en?oq=US4081490",
+		"author": [
+			{
+				"family": "Plank",
+				"given": "Charles J."
+			},
+			{
+				"family": "Rosinski",
+				"given": "Edward J."
+			},
+			{
+				"family": "Rubin",
+				"given": "Mae K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					6,
+					19
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1978",
+					3,
+					28
+				]
+			]
+		},
+		"submitted": {
+			"date-parts": [
+				[
+					"1976",
+					11,
+					8
+				]
+			]
+		}
+	}
+]
