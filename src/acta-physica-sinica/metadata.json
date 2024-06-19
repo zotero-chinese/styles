@@ -5,22 +5,27 @@
   "title": "物理学报",
   "id": "http://www.zotero.org/styles/acta-physica-sinica",
   "link_self": "http://www.zotero.org/styles/acta-physica-sinica",
+  "link_template": "http://www.zotero.org/styles/american-physics-society-without-titles",
   "link_documentation": "https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm",
   "author": [
     {
       "name": "韩小土"
     }
   ],
-  "contributor": [],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
   "citation_format": "numeric",
-  "field": "generic-base",
-  "summary": "翻译的英文格式填写在 title-short 中",
-  "updated": "2024-06-18T22:37:19+08:00",
-  "citations": "<sup>[1–8]</sup>",
-  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">科学革命的结构 (in Chinese) [库恩著 (金吾伦, 胡新和译) 2012 科学革命的结构: 第 4 版 2 版 (北京: 北京大学出版社)]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Fan X, Sommers C H 2013 Food irradiation research and technology 2 版 (Ames, Iowa: Blackwell Publishing: 25–26)</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">贾东琴, 柯平 2011 中国图书馆学会年会论文集 北京 , 2011 pp45–52</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Fourney M E c1971 Symposium on Applications of Holography in Mechanics University of Southern California, Los Angeles, California , c1971 pp17–38</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">武丽丽, 华一新, 张亚军, 刘英敏 2008 测绘科学 <b>33</b> 8</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J 2014 <i>Nature</i> <b>510</b> 356</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">中国互联网络信息中心 2012 第 29 次中国互联网络发展现状统计报告 ((2012-01-16))</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">Origins and concepts of digital literacy Bawden D <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> [2013-03-08]</div>\n  </div>\n</div>",
+  "field": "physics",
+  "summary": "参考文献引用须知.doc（2013年10月）。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。",
+  "updated": "2024-06-19T18:26:02+08:00",
+  "citations": "<sup>[1–12]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">Sun Q C, Wang G Q 2008 <i>Acta Phys. Sin.</i> <b>57</b> 4667 (in Chinese) [孙其诚, 王光谦 2008 物理学报 <b>57</b> 4667]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Shahverdiev E M, Shore K A 2005 <i>Phys. Rev. E</i> <b>71</b> 016201</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">Bloembergen N 1965 <i>Nonlinear Optics</i> (New York: Benjamin) pp12–20</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Feng R, Jin G R 2003 <i>Condensed Matter Physics</i> (Beijing: Higher Education Press) p341 (in Chinese) [冯端, 金国钧 2003 凝聚态物理学 (上卷) (北京: 高等教育出版社) p341]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">Eckertova L 1986 <i>Thin film physics</i> (Beijing: Science Press) pp110–113 (in Chinese) [埃克托瓦 L 1986 薄膜物理学 (北京: 科学出版社) pp110–113]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Hardie R C, Smith F 1983 <i>Collection in Sensory Physiology</i> (Berlin: Springer-Verlag) p13</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">Tabbal A M, Mérel P, Chaker M 1999 <i>Proceedings of the 14th International Symposium on Plasma Chemistry</i> Prague, Czech Republic, 1999年8月2–6日 p1099</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">Yang K H 2001 <i>Ph.D. Dissertation</i> (Beijing: Peking University) (in Chinese) [杨凯华 2001 博士学位论文 (北京: 北京大学)]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[9]</div><div class=\"csl-right-inline\">Guo Z Y 2001 <i>M.S. Thesis</i> (Hefei: University of Science and Technology of China) (in Chinese) [郭哲颖 2001 硕士学位论文 (合肥: 中国科学技术大学)]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[10]</div><div class=\"csl-right-inline\">Latham T, Gershon T 2008 arXiv:0809.0872v1</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[11]</div><div class=\"csl-right-inline\">Bailey D H <a href=\"https://crd.lbl.gov/~dhbailey/mpdist/\">https://crd.lbl.gov/~dhbailey/mpdist/</a> [2010-8-11]</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[12]</div><div class=\"csl-right-inline\">Plank C J, Rosinski E J, Rubin M K 1978 <i>US Patent</i> US4081490A</div>\n  </div>\n</div>",
   "tags": [
     "姓名小写",
-    "有标题",
+    "无标题",
     "期刊缩写",
     "无URL",
     "无DOI"
