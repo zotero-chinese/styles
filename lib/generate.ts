@@ -49,7 +49,7 @@ export function generate(cslFilePath: string): StyleFullResult {
   const citation_format = getCitationFormat(cslXml);
 
   const path: Path = {
-    dir: dirname(cslFilePath).replace("src/", ""),
+    dir: dirname(cslFilePath).replace(/src\/|src\\/, ""),
     file: basename(cslFilePath),
   };
 
