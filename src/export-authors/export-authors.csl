@@ -61,7 +61,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" second-field-align="flush">
+  <bibliography>
     <layout>
       <!-- <text variable="citation-number" prefix="[" suffix="]"/> -->
       <text macro="entry-layout"/>
