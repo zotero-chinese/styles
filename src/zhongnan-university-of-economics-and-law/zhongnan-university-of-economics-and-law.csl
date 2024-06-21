@@ -5,6 +5,7 @@
     <title-short>ZUEL</title-short>
     <id>http://www.zotero.org/styles/zhongnan-university-of-economics-and-law</id>
     <link href="http://www.zotero.org/styles/zhongnan-university-of-economics-and-law" rel="self"/>
+    <!-- 2024-06-21 注：下格式规范链接（中南财经政法大学外国语学院）已失效 -->
     <link href="http://yjsy.zuel.edu.cn/_upload/article/files/91/48/4c466ac54413adece8865a87def4/43ec08b9-9d6f-41fc-95a3-a78c054e51fb.pdf" rel="documentation"/>
     <link href="http://wyxy.zuel.edu.cn/2018/0104/c837a184451/page.htm" rel="documentation"/>
     <author>
@@ -22,7 +23,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>zuel-thesis中南财经政法大学学位论文</summary>
-    <updated>2024-04-26T10:30:23+08:00</updated>
+    <updated>2024-06-21T16:12:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -187,7 +188,6 @@
     </choose>
   </macro>
   <macro name="entry-layout-zh">
-    <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -244,7 +244,6 @@
     </choose>
   </macro>
   <macro name="entry-layout-en">
-    <text variable="citation-number" prefix="[" suffix="] "/>
     <text macro="author" suffix=". "/>
     <text macro="title"/>
     <choose>
@@ -334,9 +333,11 @@
       <key macro="issued-year"/>
     </sort>
     <layout locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en" suffix="."/>
     </layout>
     <layout>
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-zh" suffix="."/>
     </layout>
   </bibliography>
