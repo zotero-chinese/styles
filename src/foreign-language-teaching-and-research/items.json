@@ -1,0 +1,58 @@
+[
+	{
+		"id": "fltr:10:1",
+		"type": "book",
+		"edition": "6",
+		"event-place": "Oxford",
+		"language": "en-US",
+		"publisher": "OUP",
+		"publisher-place": "Oxford",
+		"title": "Oxford Advanced Learner’s Dictionary of Current English",
+		"author": [
+			{
+				"family": "Hornby",
+				"given": "A. S."
+			}
+		],
+		"editor": [
+			{
+				"family": "Wehmeier",
+				"given": "Sally"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "fltr:10:2",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "Original Tile: The Contemporary Chinese Dictionary",
+		"publisher": "外语教学与研究出版社",
+		"publisher-place": "北京",
+		"title": "现代汉语词典",
+		"editor": [
+			{
+				"literal": "中国社会科学院语言研究所词典编辑室"
+			}
+		],
+		"translator": [
+			{
+				"literal": "外语教学与研究出版社语言学与辞书部双语词典编辑室"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	}
+]
