@@ -23,44 +23,55 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: dropdown
     attributes:
       label: 相关领域
       options:
-        - label: anthropology
-        - label: astronomy
-        - label: biology
-        - label: botany
-        - label: chemistry
-        - label: communications
-        - label: engineering
-        - label: geography
-        - label: geology
-        - label: history
-        - label: humanities
-        - label: law
-        - label: linguistics
-        - label: literature
-        - label: math
-        - label: medicine
-        - label: philosophy
-        - label: physics
-        - label: political_science
-        - label: psychology
-        - label: science
-        - label: social_science
-        - label: sociology
-        - label: zoology
+        - anthropology
+        - astronomy
+        - biology
+        - botany
+        - chemistry
+        - communications
+        - engineering
+        - geography
+        - geology
+        - history
+        - humanities
+        - law
+        - linguistics
+        - literature
+        - math
+        - medicine
+        - philosophy
+        - physics
+        - political_science
+        - psychology
+        - science
+        - social_science
+        - sociology
+        - zoology
 
   - type: textarea
     attributes:
       label: 参考文献格式
-      description: 尽量提供**官网**的链接，或者上传官方的格式文件。
+      description: 尽量提供**官网**的链接，或者上传官方的格式文件。请提供各个条目类型的格式，而不是仅提供一条格式。
       value: |
         - 官方文件链接：
         - 参考文献格式的更新日期：[例如 2020-07-30]
         - （学校）文件号：[例如“研生[2019]10号”]
         - （期刊）ISSN 号：[例如 0439-755X]
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 相近样式
+      description: 请在 https://zotero-chinese.com/styles 查找与你需要的样式最相近的样式，将链接或样式名填写在下面，并简要说明与其差别。
+      value: |
+        相近样式：
+        
+        区别：
     validations:
       required: true
 
@@ -89,10 +100,7 @@ body:
         如果你没有把条目录入到上述群组，那可以把 CSL-JSON 数据贴在此处，或把文件拖拽到下面的输入框。
 
         将文献条目导出为 CSL-JSON 格式：在 Zotero 中，选中条目，右击，导出，CSL-JSON 格式。
-      value: |
-        ```json
-         {}
-        ```
+      render: json
     validations:
       required: false
 
