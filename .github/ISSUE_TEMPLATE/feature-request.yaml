@@ -66,11 +66,11 @@ body:
   - type: textarea
     attributes:
       label: 文件号
-      description: 上述格式文件的编号或期刊 ISSN 号
+      description: 上述格式文件的编号或期刊 ISSN 号，例如 `研生[2019]10号` 或 `0439-755X`
       value: |
-        - 参考文献格式的更新日期：[例如 2020-07-30]
-        - （学校）文件号：[例如“研生[2019]10号”]
-        - （期刊）ISSN 号：[例如 0439-755X]
+        - 参考文献格式的更新日期：
+        - （学校）文件号：
+        - （期刊）ISSN 号：
 
   - type: textarea
     attributes:
@@ -78,7 +78,7 @@ body:
       description: 请在 https://zotero-chinese.com/styles 查找与你需要的样式最相近的样式，将链接或样式名填写在下面，并简要说明与其差别。
       value: |
         相近样式：
-        
+
         区别：
     validations:
       required: true
@@ -108,7 +108,10 @@ body:
         如果你没有把条目录入到上述群组，那可以把 CSL-JSON 数据贴在此处，或把文件拖拽到下面的输入框。
 
         将文献条目导出为 CSL-JSON 格式：在 Zotero 中，选中条目，右击，导出，CSL-JSON 格式。
-      render: json
+      value: |
+        ```json
+        {}
+        ```
     validations:
       required: false
 
