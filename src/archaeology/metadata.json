@@ -1,0 +1,28 @@
+{
+  "dir": "archaeology",
+  "file": "archaeology.csl",
+  "style_class": "in-text",
+  "title": "考古",
+  "id": "http://www.zotero.org/styles/archaeology",
+  "link_self": "http://www.zotero.org/styles/archaeology",
+  "link_template": "http://www.zotero.org/styles/journal-of-management-world",
+  "link_documentation": "https://kgzzs.ajcass.com/",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "anthropology",
+  "updated": "2024-07-01T21:00:49+08:00",
+  "citations": "<sup>[1–8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">库恩：《科学革命的结构: 第 4 版》，北京大学出版社，2012年。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Fan, X. and Sommers, C. H., 2013, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，见中国图书馆学会主编：《中国图书馆学会年会论文集》，国家图书馆出版社，2011年。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Fourney, M. E., c1971, “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Myburg, A. A. et al., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, vol.510, pp.356~362.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">Bawden, D., 2008, <i>Origins and Concepts of Digital Literacy</i>.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
