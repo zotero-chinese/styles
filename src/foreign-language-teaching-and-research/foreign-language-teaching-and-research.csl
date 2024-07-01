@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <summary>《外语教学与研究》参考文献格式要求</summary>
-    <updated>2024-06-23T00:28:13+08:00</updated>
+    <updated>2024-07-01T20:29:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -796,17 +796,37 @@
       </choose>
     </group>
   </macro>
+  <macro name="locator">
+    <choose>
+      <if locator="page">
+        <text variable="locator"/>
+      </if>
+      <else-if is-numeric="locator">
+        <label variable="locator" form="short" suffix=" "/>
+        <number variable="locator"/>
+      </else-if>
+      <else>
+        <text variable="locator"/>
+      </else>
+    </choose>
+  </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <layout prefix="（" suffix="）" delimiter="，" locale="zh">
-      <group delimiter=" ">
-        <text macro="author-intext-zh"/>
-        <text macro="date"/>
+      <group delimiter="：">
+        <group delimiter=" ">
+          <text macro="author-intext-zh"/>
+          <text macro="date"/>
+        </group>
+        <text macro="locator"/>
       </group>
     </layout>
     <layout prefix="(" suffix=")" delimiter=", ">
-      <group delimiter=" ">
-        <text macro="author-intext-en"/>
-        <text macro="date"/>
+      <group delimiter=": ">
+        <group delimiter=" ">
+          <text macro="author-intext-en"/>
+          <text macro="date"/>
+        </group>
+        <text macro="locator"/>
       </group>
     </layout>
   </citation>

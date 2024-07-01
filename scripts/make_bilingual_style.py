@@ -13,6 +13,8 @@ NSMAP = {
 
 def get_english_elements(root):
     new_elements = list(root.xpath(".//cs:layout[@locale='en']", namespaces=NSMAP))
+    if not new_elements:
+        new_elements = list(root.xpath(".//cs:layout[not(@locale)]", namespaces=NSMAP))
     en_macros = []
     en_macro_names = set()
     while new_elements:
@@ -91,7 +93,7 @@ def main():
     # quit()
 
     en_macros, en_macro_names = get_english_elements(root)
-    # print(en_macros)
+    print(en_macros)
 
     original_variables = [
         "author",
