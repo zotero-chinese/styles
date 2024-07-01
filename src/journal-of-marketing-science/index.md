@@ -50,10 +50,10 @@
 
 ### 引注
 
-（张三，2008）<br>
-张三 （2008）<br>
-（Jason J，2008）<br>
-Jason J （2008）<br>
+（张三，2008，pp.42）<br>
+张三 （2008，pp.42）<br>
+（Jason J，2008，pp.42）<br>
+Jason J （2008，pp.42）<br>
 张三 et al. （2008a）<br>
 Wang W et al. （2009a）<br>
 （赵一 et al.，2008a；Wolchik S A et al.，2009a）<br>

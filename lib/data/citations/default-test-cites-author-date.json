@@ -1,23 +1,31 @@
 [
 	[
 		{
-			"id": "cps.2.1:1"
+			"id": "cps.2.1:1",
+			"label": "page",
+			"locator": "42"
 		}
 	],
 	[
 		{
 			"id": "cps.2.1:1",
+			"label": "page",
+			"locator": "42",
 			"mode": "composite"
 		}
 	],
 	[
 		{
-			"id": "cps.2.1:2"
+			"id": "cps.2.1:2",
+			"label": "page",
+			"locator": "42"
 		}
 	],
 	[
 		{
 			"id": "cps.2.1:2",
+			"label": "page",
+			"locator": "42",
 			"mode": "composite"
 		}
 	],

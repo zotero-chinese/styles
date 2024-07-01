@@ -42,10 +42,10 @@
 
 ### 引注
 
-（张三, 2008）<br>
-张三 （2008）<br>
-（Jason J, 2008）<br>
-Jason J （2008）<br>
+（张三, 2008, p.42）<br>
+张三 （2008, p.42）<br>
+（Jason J, 2008, p.42）<br>
+Jason J （2008, p.42）<br>
 张三和李四 （2008）<br>
 Wang W和Sun L （2009）<br>
 （Wolchik SA和West SG, 2009; 赵一和陈二, 2008）<br>
