@@ -91,10 +91,17 @@ body:
         ## 测试条目信息
 
         如果参考文献格式与 GB/T 7714 差异较大，需要将其示例文献录入 Zotero 方便我们进行测试。
-        1. 加入 Zotero 群组 [Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)；
+        
+        方法 1：将测试条目录入开发群组
+        
+        1. 申请加入 Zotero 群组 [Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)；
         2. 提供 Zotero ID，我们会稍后将此账号修改为 admin 权限允许编辑；
         3. 获得编辑权限后，在“期刊”或“学位论文”的 collection 中以期刊/学校名称创建 subcollection；
         4. 将期刊/学校**官方**的示例文献全部录入，没有对应网页的文献需手动录入。不要修改其他 collection 的内容。
+
+        方法 2：提供测试条目信息
+        
+        将测试条目录入你的 Zotero，然后选中条目 -> 右击 -> 导出，选择 CSL-JSON 格式。 
 
   - type: input
     attributes:
@@ -108,8 +115,6 @@ body:
       label: 条目信息
       description: |
         如果你没有把条目录入到上述群组，那可以把 CSL-JSON 数据贴在此处，或把文件拖拽到下面的输入框。
-
-        将文献条目导出为 CSL-JSON 格式：在 Zotero 中，选中条目，右击，导出，CSL-JSON 格式。
       value: |
         ```json
         {}
