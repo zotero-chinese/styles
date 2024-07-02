@@ -23,46 +23,67 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: dropdown
     attributes:
       label: 相关领域
       options:
-        - label: anthropology
-        - label: astronomy
-        - label: biology
-        - label: botany
-        - label: chemistry
-        - label: communications
-        - label: engineering
-        - label: geography
-        - label: geology
-        - label: history
-        - label: humanities
-        - label: law
-        - label: linguistics
-        - label: literature
-        - label: math
-        - label: medicine
-        - label: philosophy
-        - label: physics
-        - label: political_science
-        - label: psychology
-        - label: science
-        - label: social_science
-        - label: sociology
-        - label: zoology
+        - anthropology
+        - astronomy
+        - biology
+        - botany
+        - chemistry
+        - communications
+        - engineering
+        - geography
+        - geology
+        - history
+        - humanities
+        - law
+        - linguistics
+        - literature
+        - math
+        - medicine
+        - philosophy
+        - physics
+        - political_science
+        - psychology
+        - science
+        - social_science
+        - sociology
+        - zoology
 
   - type: textarea
     attributes:
       label: 参考文献格式
-      description: 尽量提供**官网**的链接，或者上传官方的格式文件。
+      description: 提供**官网**的链接，并上传一份格式文件。
       value: |
-        - 官方文件链接：
-        - 参考文献格式的更新日期：[例如 2020-07-30]
-        - （学校）文件号：[例如“研生[2019]10号”]
-        - （期刊）ISSN 号：[例如 0439-755X]
+        官方网页链接：
+
+        官方文件链接：
+
+        上传格式文件：
+
+        格式参考：
     validations:
       required: true
+
+  - type: textarea
+    attributes:
+      label: 文件号
+      description: 上述格式文件的编号或期刊 ISSN 号，例如“`研生[2019]10号`”或“`0439-755X`”。
+      value: |
+        - 参考文献格式的更新日期：
+        - （学校）文件号：
+        - （期刊）ISSN 号：
+
+  - type: textarea
+    attributes:
+      label: 相近样式
+      description: 请在 https://zotero-chinese.com/styles 查找与你需要的样式最相近的样式，将链接或样式名填写在下面，并简要说明与其差别。
+      value: |
+        相近样式：
+
+        区别：
 
   - type: markdown
     attributes:
@@ -70,10 +91,17 @@ body:
         ## 测试条目信息
 
         如果参考文献格式与 GB/T 7714 差异较大，需要将其示例文献录入 Zotero 方便我们进行测试。
-        1. 加入 Zotero 群组 [Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)；
+        
+        方法 1：将测试条目录入开发群组
+        
+        1. 申请加入 Zotero 群组 [Chinese CSL development](https://www.zotero.org/groups/4677213/chinese_csl_development)；
         2. 提供 Zotero ID，我们会稍后将此账号修改为 admin 权限允许编辑；
         3. 获得编辑权限后，在“期刊”或“学位论文”的 collection 中以期刊/学校名称创建 subcollection；
         4. 将期刊/学校**官方**的示例文献全部录入，没有对应网页的文献需手动录入。不要修改其他 collection 的内容。
+
+        方法 2：提供测试条目信息
+        
+        将测试条目录入你的 Zotero，然后选中条目 -> 右击 -> 导出，选择 CSL-JSON 格式。 
 
   - type: input
     attributes:
@@ -87,21 +115,9 @@ body:
       label: 条目信息
       description: |
         如果你没有把条目录入到上述群组，那可以把 CSL-JSON 数据贴在此处，或把文件拖拽到下面的输入框。
-
-        将文献条目导出为 CSL-JSON 格式：在 Zotero 中，选中条目，右击，导出，CSL-JSON 格式。
       value: |
         ```json
-         {}
+        {}
         ```
     validations:
       required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        ## 其他信息
-
-  - type: textarea
-    attributes:
-      label: 其他信息
-      placeholder: 例如：与国标有哪些差异
