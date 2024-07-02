@@ -116,8 +116,3 @@ body:
         ```
     validations:
       required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        ## 其他信息
