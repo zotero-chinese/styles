@@ -14,7 +14,7 @@
     <category field="anthropology"/>
     <category field="humanities"/>
     <issn>0453-2899</issn>
-    <updated>2024-07-01T21:00:49+08:00</updated>
+    <updated>2024-07-16T15:44:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -52,22 +52,6 @@
       </substitute>
     </names>
   </macro>
-  <macro name="author-intext-en">
-    <names variable="author">
-      <name form="short" and="text"/>
-      <substitute>
-        <names variable="editor"/>
-      </substitute>
-    </names>
-  </macro>
-  <macro name="author-intext-zh">
-    <names variable="author">
-      <name delimiter="、"/>
-      <substitute>
-        <names variable="editor"/>
-      </substitute>
-    </names>
-  </macro>
   <macro name="date-bib-en">
     <date variable="issued">
       <date-part name="year"/>
@@ -75,11 +59,6 @@
   </macro>
   <macro name="date-bib-zh">
     <date variable="issued" form="text" date-parts="year"/>
-  </macro>
-  <macro name="date-intext">
-    <date variable="issued">
-      <date-part name="year"/>
-    </date>
   </macro>
   <macro name="title-en">
     <choose>

@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <summary>重庆大学博士、硕士学位论文格式标准（2023年修订）</summary>
-    <updated>2024-06-18T22:14:41+08:00</updated>
+    <updated>2024-07-16T15:54:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -82,22 +82,6 @@
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
       <name form="long"/>
       <et-al term="space-et-al"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anon"/>
-      </substitute>
-    </names>
-  </macro>
-  <macro name="author-intext-narrative-zh">
-    <names variable="author">
-      <name form="long"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

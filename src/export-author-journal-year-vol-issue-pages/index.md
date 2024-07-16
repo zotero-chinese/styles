@@ -123,10 +123,10 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">贾东琴等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Weinstein et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 745–772.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Weinstein et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745–772.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Roberson et al. . American Water Works Association, ed.//Water quality &#38; treatment: A handbook on drinking Water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Roberson et al. . American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">中华医学会湖北分会. . 武汉: 中华医学会湖北分会, 19841984.</div>
@@ -498,19 +498,19 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">拉普拉斯, Pierre-Simon. . 张三等, 译. 北京: 未名出版社, 1951.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Klatzky. . Freksa C et al., eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial Knowledge. Springer-Verlag, 1998: 1–17.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Klatzky. . Freksa C et al., eds.//Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1–17.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Wang et al. . Wang D F et al., eds.//Selected papers on personality and social Psychology. Beijing: Peking University Press, 2004: 46–84.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Wang et al. . Wang D F et al., eds.//Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46–84.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">王登峰等. . 王登峰等, 编//人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46–84.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Auerbach. . Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social Development. 4 edition. Washington, DC, US: Wiley, 1993: 43–110.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Auerbach. . Bornstein M F, ed.//Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4 edition. Washington, DC, US: Wiley, 1993: 43–110.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Lichstein et al. //Reducing medication in geriatric Populations. .</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Lichstein et al. //Reducing medication in geriatric populations. .</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree et al. . .</div>
@@ -699,7 +699,7 @@
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain. Modern China, 1993, 19(2): 199–215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield. . Rotberg R I et al., eds.//Hunger and history: The impact of changing food production and consumption pattern on Society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield. . Rotberg R I et al., eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anonymous. (1969-02-01).</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Habermas. . Rehg W, tran.. MIT Press, 1996: 676.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Horsley. . Bergsten C F et al., eds.//China: The balance Sheet. Public Affairs Press, 2006.</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Horsley. . Bergsten C F et al., eds.//China: The balance sheet. Public Affairs Press, 2006.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Anonymous. . Stat., 1966, 80: 931, 944–947.</div>
@@ -1134,37 +1134,37 @@
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Shakespeare. . Mowat B A et al., eds.. Washington Square Press, 1995.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Balsam et al. . Iwamasa G Y et al., eds.//Culturally responsive cognitive behavior therapy: Practice and Supervision. 2 edition. American Psychological Association, 2019: 287–314.</div>
+    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Balsam et al. . Iwamasa G Y et al., eds.//Culturally responsive cognitive behavior therapy: Practice and supervision. 2 edition. American Psychological Association, 2019: 287–314.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Weinstock et al. . Rosner R, ed.//Principles and practise of forensic Psychiatry. 2 edition. CRC Press, 2003: 7–13.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Weinstock et al. . Rosner R, ed.//Principles and practise of forensic psychiatry. 2 edition. CRC Press, 2003: 7–13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Tafoya et al. . McGoldrick M et al., eds.//Ethnicity and family Therapy. 3 edition. Guilford Press, 2005: 55–63.</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Tafoya et al. . McGoldrick M et al., eds.//Ethnicity and family therapy. 3 edition. Guilford Press, 2005: 55–63.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Carcavilla González. . Garcia Meilán J J, ed.//Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67–86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger. . Krell D F, ed. Sallis J, tran.//Basic Writings. Harper Perennial Modern Thought, 2008: 111–138.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger. . Krell D F, ed. Sallis J, tran.//Basic writings. Harper Perennial Modern Thought, 2008: 111–138.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Sacchett et al. . Balota D A et al., eds.//Cognitive psychology: Key readings in Cognition. Psychology Press, 2004: 100–108.</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Sacchett et al. . Balota D A et al., eds.//Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100–108.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Sacchett et al. Cognitive Neuropsychology, 1992, 9(1): 73–86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Bronfenbrenner. . Bronfenbrenner U, ed.//Making human beings human: Bioecological perspectives on human Development. SAGE Publications, 2005: 27–40.</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Bronfenbrenner. . Bronfenbrenner U, ed.//Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27–40.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Anonymous. . Richardson F, ed.. National Educational Press, 1973: 113–123.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Goldin-Meadow. . Liben L S et al., eds.//Handbook of child psychology and developmental Science. 7 edition. John Wiley &#38; Sons, 2015: 339–380.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Goldin-Meadow. . Liben L S et al., eds.//Handbook of child psychology and developmental science. 7 edition. John Wiley &#38; Sons, 2015: 339–380.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Lewin. . Gold M, ed.//The complete social scientist: A Kurt Lewin Reader. American Psychological Association, 1999: 265–284.</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Lewin. . Gold M, ed.//The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265–284.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association. .</div>

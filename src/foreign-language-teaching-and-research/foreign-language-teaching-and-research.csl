@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <summary>《外语教学与研究》参考文献格式要求</summary>
-    <updated>2024-07-01T20:29:27+08:00</updated>
+    <updated>2024-07-16T15:41:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -135,7 +135,7 @@
         <group delimiter="/">
           <date variable="issued" form="numeric" date-parts="year"/>
           <choose>
-            <if type="book" variable="translator">
+            <if type="book" variable="translator" match="all">
               <date variable="original-date" form="numeric" date-parts="year"/>
             </if>
           </choose>
@@ -310,7 +310,7 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="chapter entry-dictionary entry-encyclopedia">
+      <else-if type="chapter entry-dictionary entry-encyclopedia" match="any">
         <text value="A"/>
       </else-if>
       <else-if type="dataset">

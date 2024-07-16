@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-06-20T12:47:23+08:00</updated>
+    <updated>2024-07-16T15:49:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -39,25 +39,6 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <!-- 主要责任者 -->
-  <macro name="author">
-    <names variable="author">
-      <name>
-        <name-part name="family" text-case="uppercase"/>
-      </name>
-      <institution/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-      </substitute>
-    </names>
-  </macro>
   <!-- 题名 -->
   <macro name="title">
     <group delimiter=", ">
