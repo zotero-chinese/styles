@@ -11,10 +11,10 @@
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="science"/>
     <issn>0578-1752</issn>
     <summary>添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-07-16T16:12:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 翻译显示后缀为zh -->
@@ -470,7 +470,8 @@
           <text macro="title"/>
           <text macro="secondary-contributors"/>
         </group>
-        <text macro="container-booklike"/></group>
+        <text macro="container-booklike"/>
+      </group>
       <text macro="edition"/>
       <text macro="publisher"/>
       <!-- <text macro="access"/> -->
@@ -547,7 +548,8 @@
           <text macro="title-zh"/>
           <text macro="secondary-contributors"/>
         </group>
-        <text macro="container-booklike-zh"/></group>
+        <text macro="container-booklike-zh"/>
+      </group>
       <text macro="edition"/>
       <text macro="publisher"/>
       <!-- <text macro="access"/> -->

@@ -8,14 +8,7 @@
 
 ### 引注
 
-<sup>[1]</sup><br>
-<sup>[2]</sup><br>
-<sup>[3]</sup><br>
-<sup>[4]</sup><br>
-<sup>[5]</sup><br>
-<sup>[6]</sup><br>
-<sup>[7,8]</sup><br>
-
+<sup>[1–8]</sup>
 
 ### 参考文献表
 
@@ -24,13 +17,13 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和译. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">FOURNEY M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">FAN X, SOMMERS C H. Food Irradiation Research and Technology[M]. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">FAN X, SOMMERS C H. Food Irradiation Research and Technology[M]. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">FOURNEY M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5):8-9.</div>
@@ -51,30 +44,11 @@
 ### 引注
 
 <sup>[1]</sup><br>
-[NO_PRINTED_FORM] <sup>[1]</sup><br>
 <sup>[2]</sup><br>
-[NO_PRINTED_FORM] <sup>[2]</sup><br>
-[NO_PRINTED_FORM] <sup>[3]</sup><br>
-[NO_PRINTED_FORM] <sup>[4]</sup><br>
-<sup>[5,6]</sup><br>
-[NO_PRINTED_FORM] <sup>[7]</sup><br>
-[NO_PRINTED_FORM] <sup>[8]</sup><br>
-<sup>[9,10]</sup><br>
-[NO_PRINTED_FORM] <sup>[11]</sup><br>
-[NO_PRINTED_FORM] <sup>[12]</sup><br>
-[NO_PRINTED_FORM] <sup>[13]</sup><br>
-[NO_PRINTED_FORM] <sup>[14]</sup><br>
-<sup>[11,13]</sup><br>
-[NO_PRINTED_FORM] <sup>[15]</sup><br>
-[NO_PRINTED_FORM] <sup>[16]</sup><br>
-[NO_PRINTED_FORM] <sup>[17]</sup><br>
-[NO_PRINTED_FORM] <sup>[18]</sup><br>
-<sup>[15]</sup><br>
-<sup>[17]</sup><br>
-<sup>[19]</sup><br>
-<sup>[20]</sup><br>
-<sup>[21–24]</sup><br>
-<sup>[25–27]</sup><br>
+<sup>[3]</sup><br>
+<sup>[1,3]</sup><br>
+<sup>[1,2,4]</sup><br>
+<sup>[1–3]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献

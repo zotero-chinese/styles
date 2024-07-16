@@ -13,10 +13,10 @@
       <email>liuxiaolong125@126.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="science"/>
     <issn>l001-6791</issn>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-07-16T16:10:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -488,7 +488,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

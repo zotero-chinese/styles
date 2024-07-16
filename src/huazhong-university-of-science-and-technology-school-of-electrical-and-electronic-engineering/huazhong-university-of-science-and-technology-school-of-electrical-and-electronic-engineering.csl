@@ -12,8 +12,9 @@
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="numeric"/>
+    <category field="generic-base"/>
     <category field="engineering"/>
-    <updated>2024-06-18T15:36:05+08:00</updated>
+    <updated>2024-07-16T17:30:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -735,7 +736,8 @@
               <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
             </group>
-            <text macro="container-booklike-en"/></group>
+            <text macro="container-booklike-en"/>
+          </group>
           <text macro="edition-en"/>
           <text macro="publisher-en"/>
         </else-if>
@@ -782,7 +784,8 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
-            <text macro="container-booklike-zh"/></group>
+            <text macro="container-booklike-zh"/>
+          </group>
           <text macro="edition-zh"/>
           <text macro="publisher-zh"/>
         </else-if>

@@ -11,9 +11,9 @@
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="engineering"/>
     <summary>《水利水运工程学报》投稿论文格式模板</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-07-16T16:28:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -630,7 +630,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

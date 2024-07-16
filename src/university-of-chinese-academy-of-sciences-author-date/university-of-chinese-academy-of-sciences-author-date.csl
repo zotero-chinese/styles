@@ -11,8 +11,9 @@
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="author-date"/>
+    <category field="generic-base"/>
     <summary>《中国科学院大学研究生学位论文撰写规范指导意见》（2022 年 3 月 7 日修订）著者-出版年制</summary>
-    <updated>2024-06-18T15:36:05+08:00</updated>
+    <updated>2024-07-16T16:43:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -454,7 +455,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

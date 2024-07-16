@@ -12,11 +12,10 @@
       <email>godwin_ma@163.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="engineering"/>
     <category field="generic-base"/>
-    <category field="science"/>
+    <category field="medicine"/>
     <summary>在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
-    <updated>2024-06-18T23:13:47+08:00</updated>
+    <updated>2024-07-16T17:37:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

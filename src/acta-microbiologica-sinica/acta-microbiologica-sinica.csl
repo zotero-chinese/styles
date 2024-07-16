@@ -10,9 +10,9 @@
       <email>chivele.lee@gmail.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="biology"/>
     <summary>文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL` 和 `DOI`。</summary>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2024-07-16T16:17:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

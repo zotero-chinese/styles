@@ -11,9 +11,9 @@
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="science"/>
     <summary>食品科学样式，除标准借用bill，书籍显示页码，其他与000gb-t-7714-2015-numeric-bilingual.csl相同。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-07-16T16:27:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -444,7 +444,8 @@
           <text macro="title"/>
           <text macro="secondary-contributors"/>
         </group>
-        <text macro="container-booklike"/></group>
+        <text macro="container-booklike"/>
+      </group>
       <text macro="edition"/>
       <text macro="publisher"/>
       <text macro="access"/>

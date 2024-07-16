@@ -10,9 +10,9 @@
       <name>Antares</name>
       <email>zh3yu@outlook.com</email>
     </author>
-    <category citation-format="author-date"/>
-    <category field="numeric"/>
-    <updated>2024-06-06T13:18:49+08:00</updated>
+    <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <updated>2024-07-16T16:39:16+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

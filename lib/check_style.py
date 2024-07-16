@@ -56,12 +56,104 @@ INFO_ITEM_ORDER = [
 ]
 
 
+VALID_FIELDS = [
+    "anthropology",
+    "astronomy",
+    "biology",
+    "botany",
+    "chemistry",
+    "communications",
+    "engineering",
+    "generic-base",
+    "geography",
+    "geology",
+    "history",
+    "humanities",
+    "law",
+    "linguistics",
+    "literature",
+    "math",
+    "medicine",
+    "philosophy",
+    "physics",
+    "political_science",
+    "psychology",
+    "science",
+    "social_science",
+    "sociology",
+    "theology",
+    "zoology",
+]
+
+
 def info(s):
     print(f"Info: {s}", file=sys.stderr)
 
 
 def warning(s):
     print(f"Warning: {s}", file=sys.stderr)
+
+def check_fields(file, csl_content, root):
+    for field_el in root.xpath(".//cs:category[@field]", namespaces=ns):
+        field = field_el.attrib["field"]
+        if field not in VALID_FIELDS:
+            msg = f'File "{file}", line {field_el.sourceline}: Invalid field'
+            warning(msg)
+
+
+def check_field(file, csl_content, root):
+    field = ""
+    fields = []
+    field_el = None
+    for field_el in root.xpath(".//cs:category[@field]", namespaces=ns):
+        if not field:
+            field = field_el.attrib["field"]
+        fields.append(field_el.attrib["field"])
+
+    title = root.xpath(".//cs:title", namespaces=ns)[0].text
+    style_id = root.xpath(".//cs:id", namespaces=ns)[0].text
+    summary = ""
+    if summary_els := root.xpath(".//cs:summary", namespaces=ns):
+        summary = summary_els[0].text
+
+    if "export" in style_id:
+        return
+
+    if not field:
+        msg = f'File "{file}": Empty field'
+        warning(msg)
+
+    if "GB/T 7714" in title:
+        assert field == "generic-base"
+        return
+
+    # fields_str = " ".join(fields)
+    # # if fields_str != "generic-base":
+    # if len(fields) > 1:
+    #     print(title, fields_str, sep="\t")
+
+    if field == "generic-base":
+
+        def warn_field(file, field_el):
+            if field_el is not None:
+                msg = f'File "{file}", line {field_el.sourceline}: Inappropriate field'
+            else:
+                msg = f'File "{file}": Inappropriate field'
+            warning(msg)
+
+        if (
+            "journal" in title.lower()
+            or "学报" in title
+            or "journal" in style_id
+            or root.xpath(".//cs:issn", namespaces=ns)
+        ):
+            if "编排规范" in title:
+                return
+            warn_field(file, field_el)
+        # elif "学位论文" not in summary and "出版社" not in title:
+        #     warn_field(file, field_el)
+        elif "大学" not in title and "研究院" not in title and "科学院" not in title and "出版社" not in title:
+            warn_field(file, field_el)
 
 
 def check_affixes(path, root):
@@ -323,10 +415,6 @@ def reorder_info_items(root):
                 tag += "[@citation-format]"
             if (tag == "category") & (infoNode.get("field") is not None):
                 tag += "[@field]"
-            try:
-                counter.append((INFO_ITEM_ORDER.index(tag), infoNode.get("field")))
-            except:
-                print("Unknown element: " + tag)
         # check if node is a comment
         elif etree.tostring(
             infoNode, encoding="utf-8", xml_declaration=False
@@ -415,6 +503,10 @@ def check_style(file):
 
     # info(f'Running test of "{style_name}.csl"')
 
+    check_fields(file, csl_content, style)
+
+    check_field(file, csl_content, style)
+
     check_affixes(file, root)
 
     check_conditions(file, csl_content, style)
@@ -448,6 +540,7 @@ def write_style(style, path):
     # style_str = style_str.replace("–", "&#8211;")  # en dash
     style_str = style_str.replace("&#8211;", "–")  # en dash
     style_str = style_str.replace("—", "&#8212;")  # em dash
+    style_str = style_str.replace("GB/T 7714&#8212;", "GB/T 7714—")  # em dash
     style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
     style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
     style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
@@ -455,8 +548,8 @@ def write_style(style, path):
     if style_str != original_content:
         now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
         style_str = re.sub(r"<updated>[^<]*</updated>", f"<updated>{now}</updated>", style_str)
-    with open(path, "w") as f:
-        f.write(style_str)
+        with open(path, "w") as f:
+            f.write(style_str)
 
 
 def main():
