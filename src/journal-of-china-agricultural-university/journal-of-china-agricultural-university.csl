@@ -14,7 +14,7 @@
     <category field="science"/>
     <issn>1007-4333</issn>
     <summary/>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-07-16T17:49:57+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -710,7 +710,8 @@
           <text macro="title-en"/>
           <group delimiter=": ">
             <text term="in" text-case="capitalize-first"/>
-            <text macro="container-booklike-en"/></group>
+            <text macro="container-booklike-en"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>
@@ -822,7 +823,8 @@
               <text macro="title-zh"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike-zh"/></group>
+            <text macro="container-booklike-zh"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

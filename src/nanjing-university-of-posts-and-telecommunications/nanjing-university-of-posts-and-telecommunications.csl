@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2024-06-06T22:19:17+08:00</updated>
+    <updated>2024-07-16T17:49:57+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -414,7 +414,8 @@
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
-            <text macro="container-booklike"/></group>
+            <text macro="container-booklike"/>
+          </group>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>
