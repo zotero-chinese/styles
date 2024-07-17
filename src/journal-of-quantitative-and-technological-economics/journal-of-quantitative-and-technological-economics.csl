@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1000-3894</issn>
     <summary>《数量经济技术经济研究》体例（2022-09-09）</summary>
-    <updated>2024-07-17T16:41:01+08:00</updated>
+    <updated>2024-07-17T22:51:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -416,8 +416,10 @@
         <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
         <group delimiter=", ">
           <text variable="container-title"/>
-          <text variable="volume"/>
-          <text variable="issue" prefix="(" suffix=")"/>
+          <group>
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
           <text variable="page"/>
         </group>
       </else>
