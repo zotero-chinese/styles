@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1000-3894</issn>
     <summary>《数量经济技术经济研究》体例（2022-09-09）</summary>
-    <updated>2024-07-17T09:56:03+08:00</updated>
+    <updated>2024-07-17T16:30:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -48,9 +48,25 @@
     </terms>
   </locale>
   <!-- 主要责任者 -->
-  <macro name="author">
+  <macro name="author-en">
     <names variable="author">
       <name/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-zh">
+    <names variable="author">
+      <name delimiter=","/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -111,7 +127,7 @@
           <group delimiter="&#8195;">
             <choose>
               <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-                <text macro="volume"/>
+                <text macro="volume-en"/>
                 <text variable="volume-title"/>
               </if>
             </choose>
@@ -153,7 +169,7 @@
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume"/>
+              <text macro="volume-zh"/>
               <text variable="volume-title"/>
             </if>
           </choose>
@@ -188,7 +204,7 @@
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
-  <macro name="volume">
+  <macro name="volume-en">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
@@ -197,6 +213,22 @@
               <label variable="volume" form="short" text-case="capitalize-first"/>
               <text variable="volume"/>
             </group>
+          </if>
+          <else>
+            <text variable="volume"/>
+          </else>
+        </choose>
+      </if>
+    </choose>
+  </macro>
+  <macro name="volume-zh">
+    <choose>
+      <if type="article article-journal article-magazine article-newspaper periodical" match="none">
+        <choose>
+          <if is-numeric="volume">
+            <text value="第"/>
+            <text variable="volume"/>
+            <label variable="volume" form="short"/>
           </if>
           <else>
             <text variable="volume"/>
@@ -299,7 +331,7 @@
   </macro>
   <macro name="container-contributors-zh">
     <names variable="editor">
-      <name/>
+      <name delimiter=","/>
       <label form="short"/>
       <substitute>
         <names variable="editorial-director"/>
@@ -319,7 +351,7 @@
               <!-- 优先使用专著或会议论文集的题名 -->
               <group delimiter=": ">
                 <text variable="container-title"/>
-                <text macro="volume"/>
+                <text macro="volume-en"/>
               </group>
             </if>
             <else-if type="paper-conference">
@@ -347,16 +379,16 @@
     </group>
   </macro>
   <macro name="container-booklike-zh">
-    <group delimiter=". ">
+    <group delimiter=".">
       <text macro="container-contributors-zh"/>
       <group>
-        <group delimiter=", ">
+        <group delimiter=",">
           <choose>
             <if variable="container-title">
               <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter=": ">
+              <group delimiter=":">
                 <text variable="container-title"/>
-                <text macro="volume"/>
+                <text macro="volume-zh"/>
               </group>
             </if>
             <else-if type="paper-conference">
@@ -409,7 +441,7 @@
     <choose>
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
-        <group delimiter=", ">
+        <group delimiter=",">
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
@@ -417,8 +449,8 @@
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
-        <group delimiter=": ">
-          <group delimiter=", ">
+        <group delimiter=":">
+          <group delimiter=",">
             <text variable="container-title"/>
             <text macro="issued-year"/>
             <choose>
@@ -520,8 +552,8 @@
       </if>
       <else>
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
-        <group delimiter=": ">
-          <group delimiter=", ">
+        <group delimiter=":">
+          <group delimiter=",">
             <choose>
               <if variable="publisher">
                 <group>
@@ -591,7 +623,7 @@
   <!-- 参考文献表格式 -->
   <macro name="entry-layout-en">
     <group delimiter=", ">
-      <text macro="author"/>
+      <text macro="author-en"/>
       <text macro="issued-year"/>
       <choose>
         <if type="periodical">
@@ -635,10 +667,8 @@
     </group>
   </macro>
   <macro name="entry-layout-zh">
-    <group delimiter=". ">
-      <group delimiter=", ">
-        <text macro="author"/>
-      </group>
+    <group delimiter=".">
+      <text macro="author-zh"/>
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
@@ -696,7 +726,7 @@
   </citation>
   <bibliography entry-spacing="0">
     <sort>
-      <key macro="author"/>
+      <key macro="author-en"/>
       <key macro="issued-year"/>
     </sort>
     <layout locale="zh">
