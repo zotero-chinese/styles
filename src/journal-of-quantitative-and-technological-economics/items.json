@@ -6,13 +6,10 @@
 		"container-title": "数量经济技术经济研究",
 		"DOI": "10.13653/j.cnki.jqte.20220805.001",
 		"ISSN": "1000-3894",
-		"issue": "9",
 		"language": "zh-CN",
-		"page": "177-204",
 		"source": "CNKI",
 		"title": "交错双重差分：处理效应异质性与估计方法选择",
 		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=dFlgZ3unFPjoitVaQZZ2iiRAaNSq5unZ0IGLkgdzJykldPZ9a1TZ6t2xuAim7oZkTbpscgulA_0SQ6vnVlS3tIIn7HJ2isVZwxSI8H7trG5M1V7BwaQOaoyrC-nkPLdQ&uniplatform=NZKPT&language=gb",
-		"volume": "39",
 		"author": [
 			{
 				"literal": "刘冲"
@@ -77,6 +74,7 @@
 	{
 		"id": "jqte:02",
 		"type": "book",
+		"language": "zh-CN",
 		"publisher": "南开大学出版社",
 		"title": "计量经济分析",
 		"author": [
@@ -143,7 +141,8 @@
 	{
 		"id": "jqte:05",
 		"type": "thesis",
-		"genre": "PhD Thesis",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
 		"publisher": "华中科技大学",
 		"title": "动态面板数据模型估计及其内生结构突变检验理论与应用",
 		"author": [
@@ -168,6 +167,7 @@
 		"ISSN": "0038-0121",
 		"issue": "4",
 		"journalAbbreviation": "Socio-Economic Planning Sciences",
+		"language": "en-US",
 		"page": "274-287",
 		"source": "ScienceDirect",
 		"title": "A directional slacks-based measure of technical inefficiency",
@@ -207,8 +207,7 @@
 		"type": "book",
 		"event-place": "Cheltenham, UK",
 		"ISBN": "1-85898-666-4",
-		"language": "eng",
-		"note": "container-title: On voting : a public choice approach\nLCCN: 97-30636",
+		"language": "en-US",
 		"publisher": "Edward Elgar Pub.",
 		"publisher-place": "Cheltenham, UK",
 		"title": "On voting : a public choice approach",
@@ -233,6 +232,7 @@
 		"collection-title": "Working Paper Series",
 		"DOI": "10.3386/w6833",
 		"genre": "Working Paper",
+		"language": "en-US",
 		"note": "DOI: 10.3386/w6833",
 		"number": "6833",
 		"publisher": "National Bureau of Economic Research",
@@ -276,6 +276,7 @@
 		"id": "jqte:09",
 		"type": "thesis",
 		"abstract": "This paper investigates asymmetric effects of monetary policy over the business cycle. A two-state Markov Switching Model is employed to model both recessions and expansions. For the United States and Germany, strong evidence is found that monetary policy is more effective in a recession than during a boom. Also some evidence is found for asymmetry in the United Kingdom and Belgium. In the Netherlands, monetary policy is not very effective in either regime.",
+		"language": "en-US",
 		"note": "publisher: s.n.",
 		"publisher": "University of Groningen",
 		"source": "the University of Groningen research portal",
@@ -301,7 +302,7 @@
 		"container-title": "Global Competition and Integration",
 		"event-place": "Boston, MA",
 		"ISBN": "978-1-4615-5109-6",
-		"language": "en",
+		"language": "en-US",
 		"note": "DOI: 10.1007/978-1-4615-5109-6_14",
 		"page": "315-327",
 		"publisher": "Springer US",

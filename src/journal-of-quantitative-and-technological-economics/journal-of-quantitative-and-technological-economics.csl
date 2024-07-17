@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1000-3894</issn>
     <summary>《数量经济技术经济研究》体例（2022-09-09）</summary>
-    <updated>2024-07-16T15:45:03+08:00</updated>
+    <updated>2024-07-17T09:56:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -396,12 +396,10 @@
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
-        <group delimiter=": ">
-          <group delimiter=", ">
-            <text variable="container-title"/>
-            <text variable="volume"/>
-            <text variable="issue" prefix="(" suffix=")"/>
-          </group>
+        <group delimiter=", ">
+          <text variable="container-title"/>
+          <text variable="volume"/>
+          <text variable="issue" prefix="(" suffix=")"/>
           <text variable="page"/>
         </group>
       </else>
@@ -423,8 +421,14 @@
           <group delimiter=", ">
             <text variable="container-title"/>
             <text macro="issued-year"/>
-            <text variable="volume"/>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <choose>
+              <if variable="issue">
+                <text variable="issue" prefix="(" suffix=")"/>
+              </if>
+              <else>
+                <text variable="volume"/>
+              </else>
+            </choose>
           </group>
           <text variable="page"/>
         </group>
@@ -489,7 +493,7 @@
       </else-if>
       <else>
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
-        <group delimiter=": ">
+        <group delimiter=", ">
           <group delimiter=": ">
             <choose>
               <if variable="publisher publisher-place" match="any">
@@ -589,47 +593,45 @@
     <group delimiter=", ">
       <text macro="author"/>
       <text macro="issued-year"/>
-      <group delimiter=". ">
-        <choose>
-          <if type="periodical">
-            <!-- 4.3 连续出版物 -->
-            <text macro="title-en"/>
-            <text macro="year-volume-issue"/>
-            <text macro="publisher-en"/>
-          </if>
-          <else-if type="article-journal article-magazine article-newspaper" match="any">
-            <!-- 4.4 连续出版物中的析出文献 -->
-            <text macro="title-en"/>
-            <text macro="container-periodical-en"/>
-          </else-if>
-          <else-if type="patent">
-            <!-- 4.5 专利文献 -->
-            <text macro="title-en"/>
-            <text macro="publisher-en"/>
-          </else-if>
-          <else-if type="dataset post post-weblog software webpage" match="any">
-            <!-- 4.6 电子资源 -->
-            <text macro="title-en"/>
-            <text macro="publisher-en"/>
-          </else-if>
-          <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
-            <!-- 4.2 专著中的析出文献 -->
-            <text macro="title-en"/>
-            <text macro="secondary-contributors"/>
-            <text macro="container-booklike-en"/>
-            <text macro="edition"/>
-            <text macro="publisher-en"/>
-          </else-if>
-          <else>
-            <!-- 4.1 专著 -->
-            <text macro="title-en"/>
-            <text macro="secondary-contributors"/>
-            <text macro="edition"/>
-            <text macro="publisher-en"/>
-          </else>
-        </choose>
-        <text macro="access"/>
-      </group>
+      <choose>
+        <if type="periodical">
+          <!-- 4.3 连续出版物 -->
+          <text macro="title-en"/>
+          <text macro="year-volume-issue"/>
+          <text macro="publisher-en"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
+          <text macro="title-en"/>
+          <text macro="container-periodical-en"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 4.5 专利文献 -->
+          <text macro="title-en"/>
+          <text macro="publisher-en"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
+          <text macro="title-en"/>
+          <text macro="publisher-en"/>
+        </else-if>
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
+          <text macro="title-en"/>
+          <text macro="secondary-contributors"/>
+          <text macro="container-booklike-en"/>
+          <text macro="edition"/>
+          <text macro="publisher-en"/>
+        </else-if>
+        <else>
+          <!-- 4.1 专著 -->
+          <text macro="title-en"/>
+          <text macro="secondary-contributors"/>
+          <text macro="edition"/>
+          <text macro="publisher-en"/>
+        </else>
+      </choose>
+      <text macro="access"/>
     </group>
   </macro>
   <macro name="entry-layout-zh">
