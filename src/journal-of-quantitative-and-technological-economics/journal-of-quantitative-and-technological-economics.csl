@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1000-3894</issn>
     <summary>《数量经济技术经济研究》体例（2022-09-09）</summary>
-    <updated>2024-07-17T16:30:21+08:00</updated>
+    <updated>2024-07-17T16:41:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -367,14 +367,7 @@
             </if>
           </choose>
         </group>
-        <choose>
-          <if type="paper-conference">
-            <text value="[C]"/>
-          </if>
-          <else>
-            <text value="[M]"/>
-          </else>
-        </choose>
+        <text value="[C]"/>
       </group>
     </group>
   </macro>
@@ -404,14 +397,7 @@
             </if>
           </choose>
         </group>
-        <choose>
-          <if type="paper-conference">
-            <text value="[C]"/>
-          </if>
-          <else>
-            <text value="[M]"/>
-          </else>
-        </choose>
+        <text value="[C]"/>
       </group>
     </group>
   </macro>
