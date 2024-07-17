@@ -1,0 +1,349 @@
+[
+	{
+		"id": "jqte:04",
+		"type": "article-journal",
+		"abstract": "双重差分法是社会科学中进行因果推断和政策评估时最广泛采用的研究手段。然而，近年来不断涌现的前沿文献发现，对于交错双重差分的情形，因存在处理效应异质性，采用传统双向固定效应模型可能会造成严重的估计偏误。为此，理论计量领域诞生了多种异质性—稳健的估计方法，但这也让应用者在实践中对如何选取合适的估计方法、如何验证前提假设产生困惑。本文阐释了处理效应异质性导致潜在偏误的根源，总结了三类异质性—稳健估计方法的经济学直觉。本文对比了这些方法的核心假设、应用场景和估计量性质，通过模拟数据检验了估计效果，并对验证“平行性趋势”假设进行了深入讨论。最后，针对国内当前的使用现状，本文结合应用案例和现有综述文章，为应用研究者提供了操作建议。",
+		"container-title": "数量经济技术经济研究",
+		"DOI": "10.13653/j.cnki.jqte.20220805.001",
+		"ISSN": "1000-3894",
+		"issue": "9",
+		"language": "zh-CN",
+		"page": "177-204",
+		"source": "CNKI",
+		"title": "交错双重差分：处理效应异质性与估计方法选择",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=dFlgZ3unFPjoitVaQZZ2iiRAaNSq5unZ0IGLkgdzJykldPZ9a1TZ6t2xuAim7oZkTbpscgulA_0SQ6vnVlS3tIIn7HJ2isVZwxSI8H7trG5M1V7BwaQOaoyrC-nkPLdQ&uniplatform=NZKPT&language=gb",
+		"volume": "39",
+		"author": [
+			{
+				"literal": "刘冲"
+			},
+			{
+				"literal": "沙学康"
+			},
+			{
+				"literal": "张妍"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:01",
+		"type": "article-journal",
+		"abstract": "本文从释放“实业”潜力和加剧“虚拟”特性的竞争性视角，构建“数字化转型-企业发展方向-赋能实体/加剧金融化”的理论框架，系统论证和揭示了企业数字化转型的真实经济影响。研究发现，企业数字化转型能够显著提升其实业投资水平，抑制“脱实向虚”,且上述效应在盈利水平较低和市场竞争程度较高的行业中表现更加明显。进一步研究表明，增强产品核心竞争力、拓展市场战略布局和提升运营管理效率是企业数字化转型释放赋能效应的重要路径。我们还发现，数字化赋能有助于企业培育“专精特新”的深耕式发展模式，提升其专业化优势。本文深化了对数字技术与企业经济行为之间内在逻辑关系的理论认知，并为有效推进数字经济与实体经济的深度融合、实现全球价值链中高端攀升目标以及预防利用数字技术加剧“脱实向虚”的潜在风险提供了重要政策参考。",
+		"container-title": "数量经济技术经济研究",
+		"DOI": "10.13653/j.cnki.jqte.2022.09.001",
+		"ISSN": "1000-3894",
+		"issue": "9",
+		"language": "zh-CN",
+		"page": "1-25",
+		"source": "CNKI",
+		"title": "企业数字化转型与中国实体经济发展",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=pVWNQl4Rae8JWYAhkn0W7pqGuIHo2sb3MYEF4X-KOVkEIv4i5_ERWaJRnfIURuHlRtx3lqmppUrmnRU_8NE0qswYdrYecNJzzrvQtNDTxCimkmcDiPPADy8HM7a08o-P-hl1aq-1bI9KeJgwD5ca53G7-kJSa1NDCMPKWExDNAvtQ4ID7rsuYTLbuc9Uh9_N&uniplatform=NZKPT&language=CHS",
+		"volume": "39",
+		"author": [
+			{
+				"literal": "李万利"
+			},
+			{
+				"literal": "潘文东"
+			},
+			{
+				"literal": "袁凯彬"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:02",
+		"type": "book",
+		"publisher": "南开大学出版社",
+		"title": "计量经济分析",
+		"author": [
+			{
+				"literal": "张晓峒"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:03",
+		"type": "chapter",
+		"abstract": "本文运用多维贫困指数(MPI),对CHNS五个调查年度的农村家庭数据进行实证分析。研究结果表明,1991~2009年多维贫困发生率和M0呈现降低趋势,但是贫困缺口类指标M1和M2基本为上升趋势。根据多维贫困的维度分解,减少能量摄入和健康维度的贫困有助于降低M0,而减少收入和教育维度的贫困有利于M1和M2的下降。",
+		"container-title": "21世纪数量经济学",
+		"language": "zh-CN",
+		"page": "465-482",
+		"publisher": "社会科学文献出版社",
+		"source": "CNKI",
+		"title": "中国农村多维贫困测度与维度分解",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=pVWNQl4Rae8iIPOWMFLSqQnzePQk_y3dGsygU8OT42czJr5NMVi_0yJHewyXLidJR2tqBa9SNBVfcTT_baq68rtXdWPPByl4regFlAUXdRzdogSxVtJYoW_plmqi_vWCYrktLH4RglHmWXgPisfx4dRY-aVBQjQFdoCo8L7uZfzM_Pk3ARbRsQ5W8rxqVBQP&uniplatform=NZKPT&language=CHS",
+		"volume": "14",
+		"author": [
+			{
+				"literal": "洪兴建"
+			},
+			{
+				"literal": "齐宁林"
+			},
+			{
+				"literal": "皇甫俊丽"
+			}
+		],
+		"editor": [
+			{
+				"literal": "李平"
+			},
+			{
+				"literal": "赵新泉"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:05",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"publisher": "华中科技大学",
+		"title": "动态面板数据模型估计及其内生结构突变检验理论与应用",
+		"author": [
+			{
+				"literal": "王津港"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:06",
+		"type": "article-journal",
+		"abstract": "Radial measures of efficiency estimated using linear programming (LP) methods can be biased since slack in the constraints defining the technology suggests that at least one input can be reduced, or one output can be expanded, even though a firm is deemed to be “technically efficient.” In this paper, we propose a directional slacks-based measure of technical inefficiency to account for the potential of slack in technological constraints. When no such slacks exist, directional slacks-based inefficiency collapses to the directional technology distance function. Our proposed measure helps to generalize some of the existing slacks-based measures of inefficiency. We examine the financial services provided by Japanese cooperative Shinkin banks, and estimate their inefficiency during the period 2002–2005. This inefficiency declined slightly during the period. We thus propose that slack is an important source of inefficiency which is often not captured by the directional technology distance function.",
+		"container-title": "Socio-Economic Planning Sciences",
+		"DOI": "10.1016/j.seps.2008.12.001",
+		"ISSN": "0038-0121",
+		"issue": "4",
+		"journalAbbreviation": "Socio-Economic Planning Sciences",
+		"page": "274-287",
+		"source": "ScienceDirect",
+		"title": "A directional slacks-based measure of technical inefficiency",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0038012108000645",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Fukuyama",
+				"given": "Hirofumi"
+			},
+			{
+				"family": "Weber",
+				"given": "William L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:07",
+		"type": "book",
+		"event-place": "Cheltenham, UK",
+		"ISBN": "1-85898-666-4",
+		"language": "eng",
+		"note": "container-title: On voting : a public choice approach\nLCCN: 97-30636",
+		"publisher": "Edward Elgar Pub.",
+		"publisher-place": "Cheltenham, UK",
+		"title": "On voting : a public choice approach",
+		"author": [
+			{
+				"family": "Tullock",
+				"given": "Gordon."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:08",
+		"type": "article",
+		"abstract": "The paper explores the view that the Asian currency and financial crises in 1997 and 1998 reflected structural and policy distortions in the countries of the region, even if market overreaction and herding caused the plunge of exchange rates, asset prices, and economic activity to be more severe than warranted by the initial weak economic conditions. The first part of the paper provides an overview of economic fundamentals in Asia on the eve of the crisis, with emphasis on current account imbalances, quantity and quality of financial overlending,' banking problems, and composition, maturity and size of capital inflows.",
+		"collection-title": "Working Paper Series",
+		"DOI": "10.3386/w6833",
+		"genre": "Working Paper",
+		"note": "DOI: 10.3386/w6833",
+		"number": "6833",
+		"publisher": "National Bureau of Economic Research",
+		"source": "National Bureau of Economic Research",
+		"title": "What Caused the Asian Currency and Financial Crisis? Part I: A Macroeconomic Overview",
+		"title-short": "What Caused the Asian Currency and Financial Crisis?",
+		"URL": "https://www.nber.org/papers/w6833",
+		"author": [
+			{
+				"family": "Corsetti",
+				"given": "Giancarlo"
+			},
+			{
+				"family": "Pesenti",
+				"given": "Paolo"
+			},
+			{
+				"family": "Roubini",
+				"given": "Nouriel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:09",
+		"type": "thesis",
+		"abstract": "This paper investigates asymmetric effects of monetary policy over the business cycle. A two-state Markov Switching Model is employed to model both recessions and expansions. For the United States and Germany, strong evidence is found that monetary policy is more effective in a recession than during a boom. Also some evidence is found for asymmetry in the United Kingdom and Belgium. In the Netherlands, monetary policy is not very effective in either regime.",
+		"note": "publisher: s.n.",
+		"publisher": "University of Groningen",
+		"source": "the University of Groningen research portal",
+		"title": "A classification of empirical CGE modelling",
+		"author": [
+			{
+				"family": "Thissen",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "jqte:10",
+		"type": "chapter",
+		"abstract": "It seems safe to say that nobody anticipated anything like the current crisis in Asia. True, where some “Asia skeptics” - including myself - who regarded the claim of an Asian economic miracle as overstated, and argued that Asia was bound to run into diminishing returns eventually. And some people - again including myself- raised warning flags a year or two before the Thai crisis, noting that the current account deficits of Southeast Asian countries were as high as or higher than those of Latin America in 1994, and arguing that Asian economies had no special immunity to financial crises. But even pessimists expected something along the lines of a conventional currency crisis followed by at most a modest downturn, and we expected the longer-term slowdown in growth to emerge only gradually. What we have actually seen is something both more complex and more drastic: collapses in domestic asset markets, widespread bank failures, bankruptcies on the part of many firms, and what looks likely to be a much more severe real downturn than even the most negative-minded anticipated.",
+		"container-title": "Global Competition and Integration",
+		"event-place": "Boston, MA",
+		"ISBN": "978-1-4615-5109-6",
+		"language": "en",
+		"note": "DOI: 10.1007/978-1-4615-5109-6_14",
+		"page": "315-327",
+		"publisher": "Springer US",
+		"publisher-place": "Boston, MA",
+		"source": "Springer Link",
+		"title": "What Happened to Asia",
+		"URL": "https://doi.org/10.1007/978-1-4615-5109-6_14",
+		"author": [
+			{
+				"family": "Krugman",
+				"given": "Paul"
+			}
+		],
+		"editor": [
+			{
+				"family": "Sato",
+				"given": "Ryuzo"
+			},
+			{
+				"family": "Ramachandran",
+				"given": "Rama V."
+			},
+			{
+				"family": "Mino",
+				"given": "Kazuo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	}
+]
