@@ -1,0 +1,68 @@
+[
+	{
+		"id": "cre:3.1:1",
+		"type": "article",
+		"language": "zh-CN",
+		"number": "C2016009",
+		"publisher": "北京大学国家发展研究院",
+		"title": "我国的产能过剩及其衡量方法",
+		"URL": "https://www.nsd.pku.edu.cn/publications/tlg/tlg2015/2016/0905/27159.html",
+		"author": [
+			{
+				"literal": "余淼杰"
+			},
+			{
+				"literal": "崔晓敏"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "cre:3.1:2",
+		"type": "article",
+		"abstract": "In this paper, we provide a case study of the impact of globalization on income inequality using data across Chinese regions. The literature on cross-country studies has been criticized because differences in legal systems and other institutions across countries are difficult to control for, and the inequality data across countries may not be compatible. An in-depth case study of a particular country's experience can provide a useful complement to cross-country regressions. We construct a measure of urban-rural income ratio for 100 or so Chinese cities (urban areas and adjacent rural counties) over the period 1988-1993. The central finding is that cities that experience a greater degree of openness in trade also tend to demonstrate a greater decline in urban-rural income inequality. Thus, globalization has helped to reduce, rather than increase, the urban-rural income inequality. This pattern in the data suggests that inferences based solely on China's national aggregate figures (overall openness and overall inequality) can be misleading. The negative association between openness and inequality holds up when we apply a geography-based instrumental variable approach to correct for possible endogeneity of a region's trade openness.",
+		"collection-title": "Working Paper Series",
+		"DOI": "10.3386/w8611",
+		"genre": "Working paper",
+		"language": "en-US",
+		"number": "8611",
+		"publisher": "NBER",
+		"source": "National Bureau of Economic Research",
+		"title": "Globalization and inequality: evidence from within China",
+		"title-short": "Globalization and inequality",
+		"URL": "https://www.nber.org/papers/w8611",
+		"author": [
+			{
+				"family": "Wei",
+				"given": "Shang-Jin"
+			},
+			{
+				"family": "Wu",
+				"given": "Yi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					11
+				]
+			]
+		}
+	}
+]
