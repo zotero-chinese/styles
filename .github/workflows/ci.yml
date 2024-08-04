@@ -61,7 +61,7 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           repository: zotero-chinese/website
-          event-type: update-content
+          event-type: update-triggered-by-styles-repo
 
   sync:
     name: 同步到 Gitee
