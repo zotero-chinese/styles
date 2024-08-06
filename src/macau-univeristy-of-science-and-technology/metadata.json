@@ -1,0 +1,39 @@
+{
+  "dir": "macau-univeristy-of-science-and-technology",
+  "file": "macau-univeristy-of-science-and-technology.csl",
+  "style_class": "in-text",
+  "title": "澳门科技大学",
+  "id": "http://www.zotero.org/styles/must",
+  "link_self": "http://www.zotero.org/styles/must",
+  "link_template": "http://www.zotero.org/styles/must",
+  "link_documentation": "https://www.must.edu.mo/images/MSB/files/%E7%A2%A9%E5%A3%AB%E8%88%87%E5%8D%9A%E5%A3%AB%E8%AB%96%E6%96%87%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB%E6%A0%BC%E5%BC%8F%E8%A3%9C%E5%85%85%E8%AA%AA%E6%98%8E_2024.pdf",
+  "author": [
+    {
+      "name": "牛耕田"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    },
+    {
+      "name": "Northword"
+    },
+    {
+      "name": "rachelrqguo"
+    }
+  ],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "澳门科技大学",
+  "updated": "2024-08-06T12:51:40+00:00",
+  "citations": "（库恩，2012）<br>\n（Fourney，c1971）<br>\n（贾东琴、柯平，2011）<br>\n（Fan &#38; Sommers，2013）<br>\n（武丽丽、华一新、张亚军、刘英敏，2008）<br>\n（Myburg, Grattapaglia, Tuskan, Hellsten, Hayes, Grimwood, Jenkins, Lindquist, Tice, Bauer, Goodstein, Dubchak, Poliakov, Mizrachi, Kullan, Hussey, Pinard, van der Merwe, Singh, et al.，2014）<br>\n（中国互联网络信息中心，2012；Bawden，2008）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">武丽丽、华一新、张亚军、&#38; 刘英敏 (2008)。“北斗一号”监控管理网设计与实现。<b>测绘科学</b>, 33(5), 8-9。</div>\n  <div class=\"csl-entry\">Bawden D.(2008). Origins and concepts of digital literacy. (2008-05-04)[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n  <div class=\"csl-entry\">贾东琴 &#38; 柯平 (2011)。面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷。北京: 国家图书馆出版社: 45-52。</div>\n  <div class=\"csl-entry\">库恩 (2012)。<b>科学革命的结构: 第 4 版</b>。金吾伦, 胡新和, 译。2 版。北京: 北京大学出版社。</div>\n  <div class=\"csl-entry\">中国互联网络信息中心 (2012)。第 29 次中国互联网络发展现状统计报告。</div>\n  <div class=\"csl-entry\">Fan X &#38; Sommers C H.(2013). <i>Food irradiation research and technology</i>. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>\n  <div class=\"csl-entry\">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, et al.(2014). The genome of eucalyptus grandis. <i>Nature</i>, 510,356-362.</div>\n  <div class=\"csl-entry\">Fourney M E.(c1971). Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
