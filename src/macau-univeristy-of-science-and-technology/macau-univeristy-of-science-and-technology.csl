@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf</summary>
-    <updated>2024-08-11T08:02:57+08:00</updated>
+    <updated>2024-08-11T08:22:22+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -2919,7 +2919,7 @@
         <choose>
           <if type="paper-conference">
             <choose>
-              <if variable="collection-editor compiler editor editorial-director issue page volume" match="none">
+              <if variable="collection-editor compiler editor editorial-director issue page volume container-title" match="none">
                 <!-- Don't print event info for conference papers published in a proceedings -->
                 <group delimiter=", ">
                   <text macro="event-title"/>
@@ -2948,7 +2948,7 @@
         <choose>
           <if type="paper-conference">
             <choose>
-              <if variable="collection-editor compiler editor editorial-director issue page volume" match="none">
+              <if variable="collection-editor compiler editor editorial-director issue page volume container-title" match="none">
                 <!-- Don't print event info for conference papers published in a proceedings -->
                 <group delimiter="，">
                   <text macro="event-title"/>
