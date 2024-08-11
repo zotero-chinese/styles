@@ -22,7 +22,7 @@ def main():
         cites = [[{'id': item['id']}] for item in sorted(data, key=lambda x: x['id'])]
 
         test_dir, data_file = os.path.split(data_path)
-        cites_path = os.path.join(test_dir, 'test-cites.json')
+        cites_path = os.path.join(test_dir, "cites.json")
         with open(cites_path, 'w') as f:
             json.dump(cites, f, indent='\t', ensure_ascii=False)
             f.write('\n')

@@ -16,7 +16,8 @@
 （James, 1988）<br>
 （毛璐，2010）<br>
 （Calms, 1965）<br>
-（張保隆等，1997）<br>
+（張保隆、謝寶煖與盧昆宏，1997）<br>
+（張保隆等人，1997）<br>
 （Borgman, 1988）<br>
 
 
@@ -46,14 +47,14 @@ Jason （2008, p. 42）<br>
 张三與李四 （2008）<br>
 Wang &#38; Sun （2009）<br>
 （赵一與陈二，2008；Wolchik &#38; West, 2009）<br>
-张三等 （2008）<br>
-Wang et al. （2009）<br>
-（赵一等，2008；Wolchik et al., 2009）<br>
-张三、李四等 （2019）<br>
-张三、王五等 （2019）<br>
-Qian, Zhao, Zhou, Sun, et al. （2020）<br>
-Qian, Zhao, Zhou, Li, et al. （2020）<br>
-（张三、李四等，2019；Qian, Zhao, Zhou, Sun, et al., 2020）<br>
+张三、李四與王五 （2008）<br>
+Wang, Sun, &#38; Zheng （2009）<br>
+（赵一、陈二與张三，2008；Wolchik, West, &#38; Sandler, 2009）<br>
+张三、李四與赵一 （2019）<br>
+张三、王五與钱二 （2019）<br>
+Qian, Zhao, Zhou, Sun, &#38; Wu （2020）<br>
+Qian, Zhao, Zhou, Li, &#38; Wu （2020）<br>
+（张三、李四等人，2019；Qian, Zhao, Zhou, Sun, et al., 2020）<br>
 张三、李四與王五 （2020）<br>
 张三、李四與赵六 （2020）<br>
 Qian, Zhao, Zhou, &#38; Sun （2009）<br>
@@ -102,7 +103,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Kinchy, A. (2012). <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i> (p. 50). Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Koseki, A., Momose, H., Kawahito, M., &#38; Komatsu, H. (2002). <i>Compiler</i> (Patent No. US828402). US.</div>
   <div class="csl-entry">Morri, I. (2010). <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux.</div>
-  <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., van der Merwe, K., Singh, P., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356-362.</div>
+  <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Schmutz, J., et al. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356-362.</div>
   <div class="csl-entry">O’Brien, J. A. (1994). <i>Introduction to information systems</i> (7th ed.). Burr Ridge, III: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. (n.d.). <i>About OCLC: History of cooperation</i>. Retrieved March 27, 2012, from <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
   <div class="csl-entry">Park, J.-R., &#38; Tosaka, Y. (2010). Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms. <i>Cataloging &#38; Classification Quarterly</i>, <i>48</i>(8), 696-715.</div>
@@ -496,7 +497,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Huestegge, S. M., Raettig, T., &#38; Huestegge, L. (2019). Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. <i>Experimental Psychology</i>. Advance online publication.</div>
   <div class="csl-entry">Hutcheson, V. H. (2012). <i>Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents</i>. Master’s thesis, William &#38; Mary Digital Archive.</div>
   <div class="csl-entry">Jackson, P. (Director). (2001). <i>The lord of the rings: The fellowship of the ring</i> [Film; Four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company.</div>
-  <div class="csl-entry">Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., … Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. <i>Bulletin of the American Meteorological Society</i>, <i>77</i>(3), 437-471.</div>
+  <div class="csl-entry">Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., Aaron, A., Court, B. B. C., &#38; Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. <i>Bulletin of the American Meteorological Society</i>, <i>77</i>(3), 437-471.</div>
   <div class="csl-entry"><i>King James Bible</i>. (2017). King James Bible Online. (Original work published 1769)</div>
   <div class="csl-entry">King, M. L., Jr. (1963, August 28). <i>I have a dream</i> [Speech audio recording]. American Rhetoric.</div>
   <div class="csl-entry">Klymkowsky, M. (2018, September 15). Can we talk scientifically about free will? <i>Sci-Ed</i>. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a></div>

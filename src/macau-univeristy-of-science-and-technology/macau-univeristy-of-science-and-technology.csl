@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf</summary>
-    <updated>2024-08-11T08:22:22+08:00</updated>
+    <updated>2024-08-11T15:29:45+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -94,6 +94,7 @@
   <locale xml:lang="zh">
     <terms>
       <term name="and">與</term>
+      <term name="and others">等人</term>
       <term name="in">載於</term>
       <term name="editor">主編</term>
       <term name="editor" form="short">主編</term>
@@ -482,6 +483,7 @@
             <group delimiter="，">
               <names variable="author">
                 <name delimiter="、" and="text" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+                <et-al term="and others"/>
                 <substitute>
                   <text macro="title-intext-zh"/>
                 </substitute>
@@ -492,6 +494,7 @@
           <else>
             <names variable="author" delimiter="，">
               <name delimiter="、" and="text" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+              <et-al term="and others"/>
               <substitute>
                 <text macro="title-intext-zh"/>
               </substitute>
@@ -502,6 +505,7 @@
       <else>
         <names variable="composer" delimiter="，">
           <name delimiter="、" and="text" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+          <et-al term="and others"/>
           <substitute>
             <names variable="author"/>
             <names variable="illustrator"/>
@@ -3641,7 +3645,7 @@
       <text variable="locator"/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
+  <citation et-al-subsequent-min="3" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
     <sort>
       <key macro="author-sort-en" names-min="3" names-use-first="1"/>
       <key macro="date-sort-group" sort="ascending"/>
@@ -3663,7 +3667,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="true" et-al-min="21" et-al-use-first="19" et-al-use-last="true" entry-spacing="0" line-spacing="2">
+  <bibliography hanging-indent="true" entry-spacing="0" line-spacing="2">
     <sort>
       <key variable="language"/>
       <key macro="author-sort-en"/>
