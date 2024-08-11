@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf</summary>
-    <updated>2024-08-11T15:29:45+08:00</updated>
+    <updated>2024-08-11T19:23:47+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -482,7 +482,7 @@
           <if variable="archive container-title DOI publisher URL" match="none">
             <group delimiter="，">
               <names variable="author">
-                <name delimiter="、" and="text" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+                <name delimiter="、"/>
                 <et-al term="and others"/>
                 <substitute>
                   <text macro="title-intext-zh"/>
@@ -493,7 +493,7 @@
           </if>
           <else>
             <names variable="author" delimiter="，">
-              <name delimiter="、" and="text" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+              <name delimiter="、"/>
               <et-al term="and others"/>
               <substitute>
                 <text macro="title-intext-zh"/>
@@ -504,7 +504,7 @@
       </else-if>
       <else>
         <names variable="composer" delimiter="，">
-          <name delimiter="、" and="text" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+          <name delimiter="、"/>
           <et-al term="and others"/>
           <substitute>
             <names variable="author"/>

@@ -8,7 +8,7 @@
 
 ### 引注
 
-（方兆本與朱俊鹏，2012）<br>
+（方兆本、朱俊鹏，2012）<br>
 （Powers &#38; Cookson, 1999）<br>
 （何某某，2008）<br>
 （Okuda &#38; Okuda, 1993）<br>
@@ -16,7 +16,7 @@
 （James, 1988）<br>
 （毛璐，2010）<br>
 （Calms, 1965）<br>
-（張保隆、謝寶煖與盧昆宏，1997）<br>
+（張保隆、謝寶煖、盧昆宏，1997）<br>
 （張保隆等人，1997）<br>
 （Borgman, 1988）<br>
 
@@ -44,22 +44,22 @@
 张三 （2008，頁 42）<br>
 （Jason, 2008, p. 42）<br>
 Jason （2008, p. 42）<br>
-张三與李四 （2008）<br>
+张三、李四 （2008）<br>
 Wang &#38; Sun （2009）<br>
-（赵一與陈二，2008；Wolchik &#38; West, 2009）<br>
-张三、李四與王五 （2008）<br>
+（赵一、陈二，2008；Wolchik &#38; West, 2009）<br>
+张三、李四、王五 （2008）<br>
 Wang, Sun, &#38; Zheng （2009）<br>
-（赵一、陈二與张三，2008；Wolchik, West, &#38; Sandler, 2009）<br>
-张三、李四與赵一 （2019）<br>
-张三、王五與钱二 （2019）<br>
+（赵一、陈二、张三，2008；Wolchik, West, &#38; Sandler, 2009）<br>
+张三、李四、赵一 （2019）<br>
+张三、王五、钱二 （2019）<br>
 Qian, Zhao, Zhou, Sun, &#38; Wu （2020）<br>
 Qian, Zhao, Zhou, Li, &#38; Wu （2020）<br>
-（张三、李四等人，2019；Qian, Zhao, Zhou, Sun, et al., 2020）<br>
-张三、李四與王五 （2020）<br>
-张三、李四與赵六 （2020）<br>
+（张三、李四、等人，2019；Qian, Zhao, Zhou, Sun, et al., 2020）<br>
+张三、李四、王五 （2020）<br>
+张三、李四、赵六 （2020）<br>
 Qian, Zhao, Zhou, &#38; Sun （2009）<br>
 Qian, Zhao, Zhou, &#38; Li （2009）<br>
-（张三、李四與王五，2020）<br>
+（张三、李四、王五，2020）<br>
 （Qian, Zhao, Zhou, &#38; Sun, 2009）<br>
 （K. D. Wong, 2007）<br>
 （P. G. Wong, 2008）<br>
