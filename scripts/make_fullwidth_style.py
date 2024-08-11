@@ -15,9 +15,11 @@ halfwidth_chars = ',.!?:;()[]–'
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("file")
+    parser.add_argument("new_file", nargs="?")
     args = parser.parse_args()
 
     path = args.file
+    new_path = args.new_file or path
 
     parser = etree.XMLParser(remove_blank_text=True)
     style = etree.parse(path, parser=parser)
@@ -46,7 +48,7 @@ def main():
 
     modify_layouts(root, halwidth_macro_names)
 
-    write_style(style, path)
+    write_style(style, path, new_path)
 
 
 def get_half_width_macros(macros):
@@ -137,8 +139,25 @@ def modify_macro_zh(macro, halwidth_macro_names):
             if fullwidth_value != value:
                 # print(f'"{value}" => "{fullwidth_value}"')
                 element.attrib[attr] = fullwidth_value
+    for element in macro.xpath(".//cs:group[@delimiter=' ']", namespaces=NSMAP):
+        del element.attrib["delimiter"]
     for element in macro.xpath(".//cs:name[not(@delimiter)]", namespaces=NSMAP):
         element.attrib["delimiter"] = "，"
+    for element in macro.xpath(".//cs:name", namespaces=NSMAP):
+        if element.attrib.get("name-as-sort-order") == "first":
+            del element.attrib["name-as-sort-order"]
+        if "sort-separator" in element.attrib:
+            del element.attrib["sort-separator"]
+        if element.attrib.get("initialize") == "true":
+            del element.attrib["initialize"]
+        if "initialize-with" in element.attrib:
+            del element.attrib["initialize-with"]
+        if element.attrib.get("form") == "short":
+            del element.attrib["form"]
+    for element in macro.xpath(".//*[@text-case]", namespaces=NSMAP):
+        text_case = element.attrib["text-case"]
+        if text_case == "title" or text_case == "sentence":
+            del element.attrib["text-case"]
     for comment in macro.xpath(".//comment()"):
         text = comment.text
         fullwidth_text = make_fullwidth_str(text)
@@ -163,16 +182,40 @@ def make_fullwidth_str(s: str) -> str:
 
 
 def modify_layouts(root, halwidth_macro_names):
+    default_locale = root.attrib.get("default-locale", "")
+    main_locale = "zh"
+    if default_locale.startswith("en"):
+        main_locale = "en"
+    if root.xpath(".//*[@text-case='title']", namespaces=NSMAP):
+        main_locale = "en"
+
+    if main_locale == "zh":
+        if not default_locale.startswith("zh"):
+            root.attrib["default-locale"] = "zh-CN"
+    else:
+        if not default_locale.startswith("en"):
+            root.attrib["default-locale"] = "en-US"
+            root.attrib["default-locale-sort"] = "zh-CN"
+
     for area in ["citation", "bibliography"]:
-        locales: list[etree._Element] = list(root.xpath(f".//cs:{area}/cs:layout", namespaces=NSMAP))
-        if len(locales) == 1:
-            layout_en = locales[0]
-            layout_zh = deepcopy(layout_en)
-            layout_en.attrib["locale"] = "en"
-            layout_en.addnext(layout_zh)
-        elif len(locales) == 2:
-            layout_en = locales[0]
-            layout_zh = locales[1]
+        layouts: list[etree._Element] = list(
+            root.xpath(f".//cs:{area}/cs:layout", namespaces=NSMAP)
+        )
+        if len(layouts) == 1:
+            if main_locale == "zh":
+                layout_zh = layouts[0]
+                layout_en = deepcopy(layout_zh)
+                layout_en.attrib["locale"] = "en"
+                layout_zh.addprevious(layout_en)
+            else:
+                layout_en = layouts[0]
+                layout_zh = deepcopy(layout_en)
+                layout_zh.attrib["locale"] = "zh"
+                layout_en.addprevious(layout_zh)
+
+        elif len(layouts) == 2:
+            layout_en = layouts[0]
+            layout_zh = layouts[1]
             if "locale" in layout_en.attrib and "zh" in layout_en.attrib["locale"]:
                 layout_en, layout_zh = layout_zh, layout_en
         else:
@@ -181,7 +224,7 @@ def modify_layouts(root, halwidth_macro_names):
         modify_macro_en(layout_en, halwidth_macro_names)
         modify_macro_zh(layout_zh, halwidth_macro_names)
 
-def write_style(style, path):
+def write_style(style, path, new_path):
     with open(path) as f:
         original_content = f.read()
     style_str = etree.tostring(style, pretty_print=True, xml_declaration=True, encoding="utf-8").decode("utf-8")
@@ -200,7 +243,7 @@ def write_style(style, path):
     if style_str != original_content:
         now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
         style_str = re.sub(r"<updated>[^<]*</updated>", f"<updated>{now}</updated>", style_str)
-    with open(path, "w") as f:
+    with open(new_path, "w") as f:
         f.write(style_str)
 
 
