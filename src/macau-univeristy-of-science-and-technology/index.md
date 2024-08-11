@@ -8,26 +8,31 @@
 
 ### 引注
 
-（库恩，2012）<br>
-（Fourney, c1971）<br>
-（贾东琴與柯平，2011）<br>
-（Fan &#38; Sommers, 2013）<br>
-（武丽丽等，2008）<br>
-（Myburg et al., 2014）<br>
-（中国互联网络信息中心，2012；Bawden, 2008）<br>
+（方兆本與朱俊鹏，2012）<br>
+（Powers &#38; Cookson, 1999）<br>
+（何某某，2008）<br>
+（Okuda &#38; Okuda, 1993）<br>
+（黃堅厚，1978）<br>
+（James, 1988）<br>
+（毛璐，2010）<br>
+（Calms, 1965）<br>
+（張保隆等，1997）<br>
+（Borgman, 1988）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
-  <div class="csl-entry">Fan, X., &#38; Sommers, C. H. (2013). <i>Food irradiation research and technology</i> (2nd ed., pp. 25-26). Ames, Iowa: Blackwell Publishing. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
-  <div class="csl-entry">Fourney, M. E. (c1971). Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, 17-38. New York: ASME.</div>
-  <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., van der Merwe, K., Singh, P., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356-362. <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a></div>
-  <div class="csl-entry">中国互联网络信息中心（2012）。<b>第 29 次中国互联网络发展现状统计报告</b>。<a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
-  <div class="csl-entry">库恩（2012）。<b>科学革命的结构: 第 4 版</b>（金吾伦 &#38; 胡新和，译；2 本）。北京：北京大学出版社。</div>
-  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）。《北斗一号》监控管理网设计与实现。<b>测绘科学</b>，5，8-9。<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">https://doi.org/10.3771/j.issn.1009-2307.2008.05.002</a></div>
-  <div class="csl-entry">贾东琴、柯平（2011）。面向数字素养的高校图书馆数字服务体系研究。載於中国图书馆学会（主編），中国图书馆学会年会论文集：2011 年卷（頁 45-52）。北京：国家图书馆出版社。</div>
+  <div class="csl-entry">Borgman, C. L. (1988). Human factors in the use of information systems: Research methods and results. <i>Information Research: Research Methods in Library and Information Science</i>, 139-165. London: Taylor Graham.</div>
+  <div class="csl-entry">Calms, R. B. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Doctoral dissertation, University of California at Berkeley.</div>
+  <div class="csl-entry">James, N. E. (1988). Two Sides of Paradise: The Eden Myth According to Kirk and Spock. In D. Palumbo (Ed.), <i>Spectrum of the fantastic</i> (pp. 219-223). Westport, CT: Greenwood.</div>
+  <div class="csl-entry">Okuda, M., &#38; Okuda, D. (1993). <i>Star Trek Chronology: The History of the Future</i> (First Edition). New York: Pocket Books.</div>
+  <div class="csl-entry">Powers, J. M., &#38; Cookson, P. W. (1999). The Politics of School Choice Research: Fact, Fiction, and Statistics. <i>Educational Policy</i>, <i>13</i>(1), 104-122. <a href="https://doi.org/10.1177/0895904899131009">https://doi.org/10.1177/0895904899131009</a></div>
+  <div class="csl-entry">方兆本、朱俊鹏（2012）。中国金融稳定的度量及预测。<b>金融论坛</b>，10，4-10。<a href="https://doi.org/10.16529/j.cnki.11-4613/f.2012.10.001">https://doi.org/10.16529/j.cnki.11-4613/f.2012.10.001</a></div>
+  <div class="csl-entry">毛璐（2010）。<b>大学毕业生职业适应性问题研究</b>。博士论文，湖南师范大学。<a href="https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEc5JOt7mFV_9XYwf5mWj3CuM6M9v8G-T8nUJh19uHn1iJJRP3Kd2n3Dks1aid1xcnovd9yJ7kI270HMxUohR_G220xmG2oO5TNPLdSQwWUY35QBF7CFdKMTBT4l3mHgBwj0RljDCfl2KBnaXKtt4J03eSSLingA_fX0UMQEdj63WuIRqWgs1O8pk5ICWWIhqEtIPwW4L_UBmM4SlsEMmVAdQjwdqB2bwafjKcBWniHSeWd4-DFSJFj3khugPAbxznm2OT24fjE__FdC5Q9JFJrGfJAxi89AnjGJWki7-FO3qc97DwIlWZq0&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEc5JOt7mFV_9XYwf5mWj3CuM6M9v8G-T8nUJh19uHn1iJJRP3Kd2n3Dks1aid1xcnovd9yJ7kI270HMxUohR_G220xmG2oO5TNPLdSQwWUY35QBF7CFdKMTBT4l3mHgBwj0RljDCfl2KBnaXKtt4J03eSSLingA_fX0UMQEdj63WuIRqWgs1O8pk5ICWWIhqEtIPwW4L_UBmM4SlsEMmVAdQjwdqB2bwafjKcBWniHSeWd4-DFSJFj3khugPAbxznm2OT24fjE__FdC5Q9JFJrGfJAxi89AnjGJWki7-FO3qc97DwIlWZq0&#38;uniplatform=NZKPT&#38;language=CHS</a></div>
+  <div class="csl-entry">何某某（2008）。<b>災害與科技對策</b>。北京：中國社會科學出版社。</div>
+  <div class="csl-entry">張保隆、謝寶煖、盧昆宏（1997）。品質管理策略與圖書館業務機能相關性之研究。<b>1997 海峽兩岸管理科學學術研討會論文集</b>，190-195。台北：私立銘傳管理學院。<a href="https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEfp2nXnR9MCXCj1kJtZ-cMPpxB8EaL0EC_o1k9ZH3Hx4AFUC1G-_bgIn4XBq5T6d1foWdOGfUOM1zyFpj2AuUzIYrhojpKzeo-ItZs0CEQVArfLULygSbxSqhlw8NBhKWTRyGOH3Z3Hu5VlyBdQkde6EpI5JH8WDK7loT6B8Iu-VQnsAwPBctFGQ9N7eOH8VVKFt7C837PuQ7lNnS6XS4mj58YLk3sBgFrkI9F70rygVAIXJZc5VgG_ojFxi7y9x6qjLmRaFNDzcg==&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEfp2nXnR9MCXCj1kJtZ-cMPpxB8EaL0EC_o1k9ZH3Hx4AFUC1G-_bgIn4XBq5T6d1foWdOGfUOM1zyFpj2AuUzIYrhojpKzeo-ItZs0CEQVArfLULygSbxSqhlw8NBhKWTRyGOH3Z3Hu5VlyBdQkde6EpI5JH8WDK7loT6B8Iu-VQnsAwPBctFGQ9N7eOH8VVKFt7C837PuQ7lNnS6XS4mj58YLk3sBgFrkI9F70rygVAIXJZc5VgG_ojFxi7y9x6qjLmRaFNDzcg==&#38;uniplatform=NZKPT&#38;language=CHS</a></div>
+  <div class="csl-entry">黃堅厚（1978）。語義分析法。載於張國樞、李四、&#38; 王五（主編），<b>社會及行為科學研究法</b>（頁 721-740）。</div>
 </div>
 
 ## 默认测试

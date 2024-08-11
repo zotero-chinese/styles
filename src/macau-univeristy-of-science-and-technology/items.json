@@ -1,0 +1,330 @@
+[
+	{
+		"id": "must.1:1",
+		"type": "article-journal",
+		"abstract": "本文为评价中国金融系统稳定水平构建了一个综合的金融稳定度量指标,该指标综合考虑了金融系统的发展、脆弱性、稳健性和世界经济形势等方面的信息。度量指标建立基于主要宏观经济指标的计量模型,模型结果显示度量指标对关键宏观经济指标有较高敏感性。此外,基于计量模型结果使用蒙特卡洛随机模拟的方法对度量指标进行了预测。研究结果显示:中国金融稳定水平多年来稳中有升,且能很好地反映国际金融危机的冲击和国内重大金融事件及改革对金融稳定的影响。模拟预测结果显示2012年度量指标先降后升,即经济面临一定的下行风险。",
+		"container-title": "金融论坛",
+		"DOI": "10.16529/j.cnki.11-4613/f.2012.10.001",
+		"ISSN": "1009-9190",
+		"issue": "10",
+		"language": "zh",
+		"license": "Citation Key: must.5:1",
+		"page": "4-10",
+		"source": "CNKI",
+		"title": "中国金融稳定的度量及预测",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEelzzdBL0vlRm90V_ZLmDgjzCXnMx-RJQgi0FJpdgIuBOllbhx7qSIXd9D_5hkzv9paK_cJUtrt6gb8wcBTas1wlj6dr1yY642_ftriheEYMg==&uniplatform=NZKPT",
+		"volume": "17",
+		"author": [
+			{
+				"literal": "方兆本"
+			},
+			{
+				"literal": "朱俊鹏"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.1:2",
+		"type": "article-journal",
+		"abstract": "This article examines past and present research on school choice within its larger political context, focusing on market-driven choice programs such as vouchers and charter schools. Although methodologically and theoretically the domain of choice research is in its infancy, a growing number of increasingly sophisticated studies of choice programs allow us to start drawing more definitive conclusions about the effects of choice on students and schools. After a brief overview of the larger political context in which choice research takes place, we examine in detail the current state of knowledge on school choice: who is participating in choice programs, the effect of choice on parent and student satisfaction and student achievement, and the impact of choice programs on school districts and school reform. We conclude with a brief discussion of the implications of the politics of research on market-driven choice for American education.",
+		"container-title": "Educational Policy",
+		"DOI": "10.1177/0895904899131009",
+		"ISSN": "0895-9048",
+		"issue": "1",
+		"language": "en",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "104-122",
+		"source": "SAGE Journals",
+		"title": "The Politics of School Choice Research: Fact, Fiction, and Statistics",
+		"title-short": "The Politics of School Choice Research",
+		"URL": "https://doi.org/10.1177/0895904899131009",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Powers",
+				"given": "Jeanne M."
+			},
+			{
+				"family": "Cookson",
+				"given": "Peter W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "must.2:1",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh",
+		"publisher": "中國社會科學出版社",
+		"publisher-place": "北京",
+		"title": "災害與科技對策",
+		"author": [
+			{
+				"literal": "何某某"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.2:2",
+		"type": "book",
+		"abstract": "A comprehensive chronology of Star Trek history begins with the birth of Captain James T. Kirk and his service on the Enterprise to the most recent adventures of Captain Jean Luc Picard and his crew.",
+		"edition": "First Edition",
+		"event-place": "New York",
+		"ISBN": "978-0-671-79611-2",
+		"language": "en",
+		"number-of-pages": "192",
+		"publisher": "Pocket Books",
+		"publisher-place": "New York",
+		"source": "Amazon",
+		"title": "Star Trek Chronology: The History of the Future",
+		"title-short": "Star Trek Chronology",
+		"author": [
+			{
+				"family": "Okuda",
+				"given": "Michael"
+			},
+			{
+				"family": "Okuda",
+				"given": "Denise"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "must.3:1",
+		"type": "chapter",
+		"container-title": "社會及行為科學研究法",
+		"language": "zh",
+		"page": "721-740",
+		"title": "語義分析法",
+		"author": [
+			{
+				"literal": "黃堅厚"
+			}
+		],
+		"editor": [
+			{
+				"literal": "張國樞"
+			},
+			{
+				"literal": "李四"
+			},
+			{
+				"literal": "王五"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.3:2",
+		"type": "chapter",
+		"container-title": "Spectrum of the fantastic",
+		"event-place": "Westport, CT",
+		"language": "en",
+		"page": "219-223",
+		"publisher": "Greenwood",
+		"publisher-place": "Westport, CT",
+		"title": "Two Sides of Paradise: The Eden Myth According to Kirk and Spock",
+		"author": [
+			{
+				"family": "James",
+				"given": "Nancy E."
+			}
+		],
+		"editor": [
+			{
+				"family": "Palumbo",
+				"given": "Donald"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.4:1",
+		"type": "thesis",
+		"abstract": "大学毕业生职业适应性是社会适应性的重要组成部分,具体表现为大学毕业生对工作技能、心理、人际关系、环境等的适应过程和适应结果,是人与职业的相互协调和有机统一的过程,同时也是衡量大学生毕业生职业生活是否和谐的最重要指标。因此,在国内就业形势越来越严峻的背景下,对大学毕业生职业适应性展开研究具有十分重要的意义。本研究立足于个人社会化理论视角,运用社会学规范的实证研究方法,以问卷调查法为主,文献法、个案访谈为辅的方式收集资料。在长沙市的芙蓉区、岳麓区、雨花区、长沙县和宁乡县范围内的机关单位、事业单位和企业单位中随机抽取250名参加工作的大学毕业生作为本次调查样本,在系统地分析大学毕业生职业适应性现状的基础上,分别探讨了大学毕业生的阶层背景、竞争能力和社会支持网络对大学毕业生职业技能适应性、职业人际适应、职业心理适应性和职业环境适应性的影响程度,并在实证研究的基础上提出了相应的对策建议。本研究结果表明：大学毕业生的职业适应性在整体上处于良好的状态。其中职业技能适应性和职业人际适应性程度高于其职业心理适应性和职业环境适应性程度；大学毕业生的阶层背景对其职业适应性水平有显著影响；大学毕业生的竞争能力对其职业适应性水平有显著影响；大学毕业生的社会支持对其职业适应性水平有显著影响。因此,在提高大学毕业生的职业适应性水平的过程中,增强自身核心竞争力是提高大学毕业生职业适应性的前提条件；加强学校职业教育的实效性是提高大学毕业生职业适应性的重要保障；构建与拓展社会支持网络是提高大学毕业生职业适应性的重要途径。",
+		"genre": "博士论文",
+		"language": "zh",
+		"publisher": "湖南师范大学",
+		"source": "CNKI",
+		"title": "大学毕业生职业适应性问题研究",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEc5JOt7mFV_9XYwf5mWj3CuM6M9v8G-T8nUJh19uHn1iJJRP3Kd2n3Dks1aid1xcnovd9yJ7kI270HMxUohR_G220xmG2oO5TNPLdSQwWUY35QBF7CFdKMTBT4l3mHgBwj0RljDCfl2KBnaXKtt4J03eSSLingA_fX0UMQEdj63WuIRqWgs1O8pk5ICWWIhqEtIPwW4L_UBmM4SlsEMmVAdQjwdqB2bwafjKcBWniHSeWd4-DFSJFj3khugPAbxznm2OT24fjE__FdC5Q9JFJrGfJAxi89AnjGJWki7-FO3qc97DwIlWZq0&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "毛璐"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.4:2",
+		"type": "thesis",
+		"genre": "Doctoral dissertation",
+		"language": "en",
+		"publisher": "University of California at Berkeley",
+		"title": "Infrared spectroscopic studies on solid oxygen",
+		"author": [
+			{
+				"family": "Calms",
+				"given": "Robert Brian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.5:1",
+		"type": "paper-conference",
+		"container-title": "1997 海峽兩岸管理科學學術研討會論文集",
+		"event-place": "台北",
+		"language": "zh",
+		"page": "190-195",
+		"publisher": "私立銘傳管理學院",
+		"publisher-place": "台北",
+		"source": "CNKI",
+		"title": "品質管理策略與圖書館業務機能相關性之研究",
+		"title-short": "产业空间变迁下的危害物流空间与都市防灾机制探讨",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=9koCHBfbQEfp2nXnR9MCXCj1kJtZ-cMPpxB8EaL0EC_o1k9ZH3Hx4AFUC1G-_bgIn4XBq5T6d1foWdOGfUOM1zyFpj2AuUzIYrhojpKzeo-ItZs0CEQVArfLULygSbxSqhlw8NBhKWTRyGOH3Z3Hu5VlyBdQkde6EpI5JH8WDK7loT6B8Iu-VQnsAwPBctFGQ9N7eOH8VVKFt7C837PuQ7lNnS6XS4mj58YLk3sBgFrkI9F70rygVAIXJZc5VgG_ojFxi7y9x6qjLmRaFNDzcg==&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "張保隆"
+			},
+			{
+				"literal": "謝寶煖"
+			},
+			{
+				"literal": "盧昆宏"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "must.5:2",
+		"type": "paper-conference",
+		"container-title": "Information research: Research methods in library and information science",
+		"event-place": "London",
+		"language": "en",
+		"page": "139-165",
+		"publisher": "Taylor Graham",
+		"publisher-place": "London",
+		"title": "Human factors in the use of information systems: Research methods and results",
+		"author": [
+			{
+				"family": "Borgman",
+				"given": "Charles Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	}
+]
