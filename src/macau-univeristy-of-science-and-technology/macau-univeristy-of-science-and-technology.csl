@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf</summary>
-    <updated>2024-08-10T19:51:04+08:00</updated>
+    <updated>2024-08-11T08:02:57+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -585,17 +585,6 @@
                     <date-part name="day" prefix=" "/>
                   </date>
                 </if>
-                <else-if type="paper-conference">
-                  <!-- Capture 'speech' stored as 'paper-conference' -->
-                  <choose>
-                    <if variable="collection-editor compiler editor editorial-director issue page volume" match="none">
-                      <date variable="issued">
-                        <date-part name="month"/>
-                        <date-part name="day" prefix=" "/>
-                      </date>
-                    </if>
-                  </choose>
-                </else-if>
                 <!-- Only year: article article-journal book chapter classic entry entry-dictionary entry-encyclopedia dataset figure graphic
                      manuscript map musical_score paper-conference[published] patent periodical report review review-book software standard thesis -->
               </choose>
@@ -640,18 +629,6 @@
                     <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
                   </date>
                 </if>
-                <else-if type="paper-conference">
-                  <!-- Capture 'speech' stored as 'paper-conference' -->
-                  <choose>
-                    <if variable="collection-editor compiler editor editorial-director issue page volume" match="none">
-                      <text value="年"/>
-                      <date variable="issued">
-                        <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-                        <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-                      </date>
-                    </if>
-                  </choose>
-                </else-if>
                 <!-- Only year: article article-journal book chapter classic entry entry-dictionary entry-encyclopedia dataset figure graphic
                      manuscript map musical_score paper-conference［published］patent periodical report review review-book software standard thesis -->
               </choose>
@@ -678,21 +655,6 @@
       <if type="article article-journal book chapter dataset entry entry-dictionary entry-encyclopedia figure graphic manuscript map musical_score patent report review review-book thesis" match="any">
         <date variable="issued" date-parts="year" form="numeric"/>
       </if>
-      <else-if type="paper-conference">
-        <!-- Capture 'speech' stored as 'paper-conference' -->
-        <choose>
-          <if variable="collection-editor compiler editor editorial-director issue page volume" match="any">
-            <date variable="issued" date-parts="year" form="numeric"/>
-          </if>
-          <else>
-            <date variable="issued">
-              <date-part name="year" form="long"/>
-              <date-part name="month" form="numeric-leading-zeros"/>
-              <date-part name="day" form="numeric-leading-zeros"/>
-            </date>
-          </else>
-        </choose>
-      </else-if>
       <else>
         <date variable="issued">
           <date-part name="year" form="long"/>
@@ -843,17 +805,6 @@
       <else-if type="article-journal article-magazine article-newspaper periodical post-weblog review review-book" match="any">
         <text macro="periodical-title-en"/>
       </else-if>
-      <else-if type="paper-conference">
-        <!-- Treat paper-conference as book-like if it has an editor, otherwise as periodical-like -->
-        <choose>
-          <if variable="collection-editor compiler editor editorial-director" match="any">
-            <text macro="booklike-title-en"/>
-          </if>
-          <else>
-            <text macro="periodical-title-en"/>
-          </else>
-        </choose>
-      </else-if>
       <else>
         <text macro="booklike-title-en"/>
       </else>
@@ -869,17 +820,6 @@
              Assume that review and review-book are published in periodicals/blogs，not just on a web page（ex. 69） -->
       <else-if type="article-journal article-magazine article-newspaper periodical post-weblog review review-book" match="any">
         <text macro="periodical-title-zh"/>
-      </else-if>
-      <else-if type="paper-conference">
-        <!-- Treat paper-conference as book-like if it has an editor，otherwise as periodical-like -->
-        <choose>
-          <if variable="collection-editor compiler editor editorial-director" match="any">
-            <text macro="booklike-title-zh"/>
-          </if>
-          <else>
-            <text macro="periodical-title-zh"/>
-          </else>
-        </choose>
       </else-if>
       <else>
         <text macro="booklike-title-zh"/>
@@ -2293,17 +2233,6 @@
   <macro name="locators-booklike-en">
     <choose>
       <if type="article-journal article-magazine article-newspaper broadcast event interview patent performance periodical post post-weblog review review-book speech webpage" match="any"/>
-      <else-if type="paper-conference">
-        <choose>
-          <if variable="collection-editor compiler editor editorial-director" match="any">
-            <group delimiter=", ">
-              <text macro="version"/>
-              <text macro="edition"/>
-              <text macro="volume-booklike-en"/>
-            </group>
-          </if>
-        </choose>
-      </else-if>
       <else>
         <group delimiter=", ">
           <text macro="version"/>
@@ -2316,17 +2245,6 @@
   <macro name="locators-booklike-zh">
     <choose>
       <if type="article-journal article-magazine article-newspaper broadcast event interview patent performance periodical post post-weblog review review-book speech webpage" match="any"/>
-      <else-if type="paper-conference">
-        <choose>
-          <if variable="collection-editor compiler editor editorial-director" match="any">
-            <group delimiter="，">
-              <text macro="version"/>
-              <text macro="edition"/>
-              <text macro="volume-booklike-zh"/>
-            </group>
-          </if>
-        </choose>
-      </else-if>
       <else>
         <group delimiter="，">
           <text macro="version"/>
@@ -2583,17 +2501,6 @@
         <!-- Periodical items -->
         <text macro="container-periodical-en"/>
       </if>
-      <else-if type="paper-conference">
-        <!-- Determine if paper-conference is a periodical- or book-like -->
-        <choose>
-          <if variable="editor editorial-director collection-editor container-author" match="any">
-            <text macro="container-booklike-en"/>
-          </if>
-          <else>
-            <text macro="container-periodical-en"/>
-          </else>
-        </choose>
-      </else-if>
       <else-if type="post webpage" match="none">
         <!-- post and webpage treat container-title like publisher -->
         <text macro="container-booklike-en"/>
@@ -2606,17 +2513,6 @@
         <!-- Periodical items -->
         <text macro="container-periodical-zh"/>
       </if>
-      <else-if type="paper-conference">
-        <!-- Determine if paper-conference is a periodical- or book-like -->
-        <choose>
-          <if variable="editor editorial-director collection-editor container-author" match="any">
-            <text macro="container-booklike-zh"/>
-          </if>
-          <else>
-            <text macro="container-periodical-zh"/>
-          </else>
-        </choose>
-      </else-if>
       <else-if type="post webpage" match="none">
         <!-- post and webpage treat container-title like publisher -->
         <text macro="container-booklike-zh"/>
@@ -2701,29 +2597,29 @@
             <if type="song">
               <text term="on" text-case="capitalize-first"/>
             </if>
-            <else>
+            <else-if type="paper-conference" match="none">
               <text term="in" text-case="capitalize-first"/>
-            </else>
+            </else-if>
           </choose>
           <group delimiter=", ">
             <names variable="executive-producer">
-              <name and="symbol" initialize-with=". " delimiter=", "/>
+              <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" and="symbol" initialize-with=". " delimiter=", "/>
               <label form="long" text-case="title" prefix=" (" suffix=")"/>
               <substitute>
                 <names variable="series-creator"/>
                 <names variable="editor-translator">
-                  <name and="symbol" initialize-with=". " delimiter=", "/>
+                  <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" and="symbol" initialize-with=". " delimiter=", "/>
                   <label form="short" text-case="title" prefix=" (" suffix=")"/>
                 </names>
                 <!-- TODO: Translator omitted here on the assumption that editor-translators are uncommon
                            for chapter citations. If needed, direct entry or automatic population of
                            `editor-translator` can produce combined labels. -->
                 <names variable="editor">
-                  <name and="symbol" initialize-with=". " delimiter=", "/>
+                  <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" and="symbol" initialize-with=". " delimiter=", "/>
                   <label form="short" text-case="title" prefix=" (" suffix=")"/>
                 </names>
                 <names variable="editorial-director">
-                  <name and="symbol" initialize-with=". " delimiter=", "/>
+                  <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" and="symbol" initialize-with=". " delimiter=", "/>
                   <label form="short" text-case="title" prefix=" (" suffix=")"/>
                 </names>
                 <names variable="compiler"/>
@@ -2735,7 +2631,7 @@
                 </choose>
                 <names variable="curator"/>
                 <names variable="collection-editor">
-                  <name and="symbol" initialize-with=". " delimiter=", "/>
+                  <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" and="symbol" initialize-with=". " delimiter=", "/>
                   <label form="short" text-case="title" prefix=" (" suffix=")"/>
                 </names>
                 <names variable="container-author"/>
@@ -2769,29 +2665,29 @@
           <if type="song">
             <text term="on" text-case="capitalize-first"/>
           </if>
-          <else>
+          <else-if type="paper-conference" match="none">
             <text term="in" text-case="capitalize-first"/>
-          </else>
+          </else-if>
         </choose>
         <group delimiter="，">
           <names variable="executive-producer">
-            <name delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+            <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
             <label form="long" text-case="title" prefix="（" suffix="）"/>
             <substitute>
               <names variable="series-creator"/>
               <names variable="editor-translator">
-                <name delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+                <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
                 <label form="short" text-case="title" prefix="（" suffix="）"/>
               </names>
               <!-- TODO: Translator omitted here on the assumption that editor-translators are uncommon
                            for chapter citations. If needed，direct entry or automatic population of
                            `editor-translator` can produce combined labels. -->
               <names variable="editor">
-                <name delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+                <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
                 <label form="short" text-case="title" prefix="（" suffix="）"/>
               </names>
               <names variable="editorial-director">
-                <name delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+                <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
                 <label form="short" text-case="title" prefix="（" suffix="）"/>
               </names>
               <names variable="compiler"/>
@@ -2803,7 +2699,7 @@
               </choose>
               <names variable="curator"/>
               <names variable="collection-editor">
-                <name delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
+                <name et-al-min="3" et-al-use-first="1" et-al-use-last="false" delimiter="、" and="symbol" delimiter-precedes-et-al="never" delimiter-precedes-last="never"/>
                 <label form="short" text-case="title" prefix="（" suffix="）"/>
               </names>
               <names variable="container-author"/>
@@ -2967,44 +2863,52 @@
   </macro>
   <macro name="access-en">
     <choose>
-      <if variable="DOI">
-        <text variable="DOI" prefix="https://doi.org/"/>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="https://doi.org/"/>
+          </if>
+          <else-if variable="URL">
+            <group delimiter=" ">
+              <choose>
+                <if variable="issued status" match="none">
+                  <group delimiter=" ">
+                    <text term="retrieved" text-case="capitalize-first"/>
+                    <date variable="accessed" form="text" suffix=","/>
+                    <text term="from"/>
+                  </group>
+                </if>
+              </choose>
+              <text variable="URL"/>
+            </group>
+          </else-if>
+        </choose>
       </if>
-      <else-if variable="URL">
-        <group delimiter=" ">
-          <choose>
-            <if variable="issued status" match="none">
-              <group delimiter=" ">
-                <text term="retrieved" text-case="capitalize-first"/>
-                <date variable="accessed" form="text" suffix=","/>
-                <text term="from"/>
-              </group>
-            </if>
-          </choose>
-          <text variable="URL"/>
-        </group>
-      </else-if>
     </choose>
   </macro>
   <macro name="access-zh">
     <choose>
-      <if variable="DOI">
-        <text variable="DOI" prefix="https://doi.org/"/>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <choose>
+          <if variable="DOI">
+            <text variable="DOI" prefix="https://doi.org/"/>
+          </if>
+          <else-if variable="URL">
+            <group delimiter=" ">
+              <choose>
+                <if variable="issued status" match="none">
+                  <group>
+                    <text term="retrieved" text-case="capitalize-first"/>
+                    <date variable="accessed" form="text" suffix="，"/>
+                    <text term="from"/>
+                  </group>
+                </if>
+              </choose>
+              <text variable="URL"/>
+            </group>
+          </else-if>
+        </choose>
       </if>
-      <else-if variable="URL">
-        <group delimiter=" ">
-          <choose>
-            <if variable="issued status" match="none">
-              <group>
-                <text term="retrieved" text-case="capitalize-first"/>
-                <date variable="accessed" form="text" suffix="，"/>
-                <text term="from"/>
-              </group>
-            </if>
-          </choose>
-          <text variable="URL"/>
-        </group>
-      </else-if>
     </choose>
   </macro>
   <macro name="event-en">
