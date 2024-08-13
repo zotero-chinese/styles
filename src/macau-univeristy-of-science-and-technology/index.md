@@ -46,15 +46,15 @@
 Jason （2008, p. 42）<br>
 张三、李四 （2008）<br>
 Wang &#38; Sun （2009）<br>
-（赵一、陈二，2008；Wolchik &#38; West, 2009）<br>
+（Wolchik &#38; West, 2009; 赵一、陈二，2008）<br>
 张三、李四、王五 （2008）<br>
 Wang, Sun, &#38; Zheng （2009）<br>
-（赵一、陈二、张三，2008；Wolchik, West, &#38; Sandler, 2009）<br>
+（Wolchik, West, &#38; Sandler, 2009; 赵一、陈二、张三，2008）<br>
 张三、李四、赵一 （2019）<br>
 张三、王五、钱二 （2019）<br>
 Qian, Zhao, Zhou, Sun, &#38; Wu （2020）<br>
 Qian, Zhao, Zhou, Li, &#38; Wu （2020）<br>
-（张三、李四、等人，2019；Qian, Zhao, Zhou, Sun, et al., 2020）<br>
+（Qian, Zhao, Zhou, Sun, et al., 2020; 张三、李四等人，2019）<br>
 张三、李四、王五 （2020）<br>
 张三、李四、赵六 （2020）<br>
 Qian, Zhao, Zhou, &#38; Sun （2009）<br>
