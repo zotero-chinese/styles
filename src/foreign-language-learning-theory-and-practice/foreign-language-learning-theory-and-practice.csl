@@ -16,7 +16,7 @@
     <category field="linguistics"/>
     <issn>1674-1234</issn>
     <summary>外语教学理论与实践.pdf</summary>
-    <updated>2024-08-14T12:33:58+08:00</updated>
+    <updated>2024-08-15T09:28:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -63,7 +63,7 @@
   </macro>
   <macro name="author-bib-zh">
     <names variable="author">
-      <name delimiter="，" delimiter-precedes-et-al="never"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short" prefix="（" suffix="）"/>
       <substitute>
         <names variable="composer"/>
@@ -95,7 +95,7 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" delimiter="，" and="text"/>
+      <name form="long" delimiter="、" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -469,16 +469,20 @@
         <key macro="author-intext-en"/>
         <key macro="date"/>
       </sort>
-      <group delimiter="，">
-        <text macro="author-intext-zh"/>
-        <text macro="date"/>
+      <group delimiter="：">
+        <group delimiter="，">
+          <text macro="author-intext-zh"/>
+          <text macro="date"/>
+        </group>
         <text variable="locator"/>
       </group>
     </layout>
     <layout prefix="（" suffix="）" delimiter="；">
-      <group delimiter="，">
-        <text macro="author-intext-en"/>
-        <text macro="date"/>
+      <group delimiter=": ">
+        <group delimiter=", ">
+          <text macro="author-intext-en"/>
+          <text macro="date"/>
+        </group>
         <text variable="locator"/>
       </group>
     </layout>

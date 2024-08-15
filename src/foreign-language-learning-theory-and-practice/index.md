@@ -9,12 +9,12 @@
 ### 引注
 
 （库恩，2012）<br>
-（Fourney，c1971）<br>
-（贾东琴和柯平，2011）<br>
-（Fan, Sommers，2013）<br>
+（Fourney, c1971）<br>
+（贾东琴、柯平，2011）<br>
+（Fan, Sommers, 2013）<br>
 （武丽丽等，2008）<br>
-（Myburg et al.，2014）<br>
-（Bawden，2008；中国互联网络信息中心，2012）<br>
+（Myburg et al., 2014）<br>
+（Bawden, 2008；中国互联网络信息中心，2012）<br>
 
 
 ### 参考文献表
@@ -24,9 +24,9 @@
   <div class="csl-entry">Fan X. &#38; C. H. Sommers. 2013. <i>Food Irradiation Research and Technology</i>. 2nd ed. Ames, Iowa: Blackwell Publishing.</div>
   <div class="csl-entry">Fourney M. E. c1971. “Advances in holographic photoelasticity”. In <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME.</div>
   <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan et al. 2014. “The genome of eucalyptus grandis”. <i>Nature</i> 510.</div>
-  <div class="csl-entry">贾东琴，柯平，2011，面向数字素养的高校图书馆数字服务体系研究，见中国图书馆学会（编），《中国图书馆学会年会论文集》（2011 年卷），北京：国家图书馆出版社。</div>
+  <div class="csl-entry">贾东琴、柯平，2011，面向数字素养的高校图书馆数字服务体系研究，见中国图书馆学会（编），《中国图书馆学会年会论文集》（2011 年卷），北京：国家图书馆出版社。</div>
   <div class="csl-entry">库恩，2012，《科学革命的结构: 第 4 版》（2 版），北京：北京大学出版社。</div>
-  <div class="csl-entry">武丽丽，华一新，张亚军等，2008，“北斗一号”监控管理网设计与实现，《测绘科学》第5期。</div>
+  <div class="csl-entry">武丽丽、华一新、张亚军等，2008，“北斗一号”监控管理网设计与实现，《测绘科学》第5期。</div>
   <div class="csl-entry">中国互联网络信息中心，2012，《第 29 次中国互联网络发展现状统计报告》。</div>
 </div>
 
@@ -34,31 +34,31 @@
 
 ### 引注
 
-（张三，2008，42）<br>
-张三 （2008，42）<br>
-（Jason，2008，42）<br>
-Jason （2008，42）<br>
-张三和李四 （2008）<br>
+（张三，2008：42）<br>
+张三 （2008：42）<br>
+（Jason, 2008: 42）<br>
+Jason （2008: 42）<br>
+张三、李四 （2008）<br>
 Wang, Sun （2009）<br>
-（Wolchik, West，2009；赵一和陈二，2008）<br>
+（Wolchik, West, 2009；赵一、陈二，2008）<br>
 张三等 （2008）<br>
 Wang et al. （2009）<br>
-（Wolchik et al.，2009；赵一等，2008）<br>
+（Wolchik et al., 2009；赵一等，2008）<br>
 张三等 （2019a）<br>
 张三等 （2019b）<br>
 Qian et al. （2020a）<br>
 Qian et al. （2020b）<br>
-（Qian et al.，2020a；张三等，2019a）<br>
+（Qian et al., 2020a；张三等，2019a）<br>
 张三等 （2020a）<br>
 张三等 （2020b）<br>
 Qian et al. （2009a）<br>
 Qian et al. （2009b）<br>
 （张三等，2020a）<br>
-（Qian et al.，2009a）<br>
-（Wong，2007）<br>
-（Wong，2008）<br>
-（Edeline, Weinberger，2002a, 2002b, 2005）<br>
-（Bai，2002；Chen，2006；Deng, Feng，2005）<br>
+（Qian et al., 2009a）<br>
+（Wong, 2007）<br>
+（Wong, 2008）<br>
+（Edeline, Weinberger, 2002a, 2002b, 2005）<br>
+（Bai, 2002；Chen, 2006；Deng, Feng, 2005）<br>
 
 
 ### GB/T 7714—2015 示例文献
@@ -115,74 +115,74 @@ Qian et al. （2009b）<br>
   <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
   <div class="csl-entry">白书农，1998，植物开花研究，见李承森（编），《植物科学进展》，北京：高等教育出版社。</div>
   <div class="csl-entry">北京市人民政府办公厅，2005，《关于转发北京市企业投资项目核准暂行实施办法的通知》。</div>
-  <div class="csl-entry">北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所，2012，《历代王朝与民族宗教》，北京：民族出版社。</div>
+  <div class="csl-entry">北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所，2012，《历代王朝与民族宗教》，北京：民族出版社。</div>
   <div class="csl-entry">陈登原，2000a，《国史旧闻》（第 1 卷），北京：中华书局。</div>
   <div class="csl-entry">陈登原，2000b，《国史旧闻》（第 1 卷），北京：中华书局。</div>
   <div class="csl-entry">陈建军，2010，从数字地球到智慧地球，《国土资源导刊》第10期。</div>
-  <div class="csl-entry">陈晋镳，张惠民，朱士兴等，1980，蓟县震旦亚界研究，见中国地质科学院天津地质矿产研究所（编），《中国震旦亚界》，天津：天津科学技术出版社。</div>
+  <div class="csl-entry">陈晋镳、张惠民、朱士兴等，1980，蓟县震旦亚界研究，见中国地质科学院天津地质矿产研究所（编），《中国震旦亚界》，天津：天津科学技术出版社。</div>
   <div class="csl-entry">陈志勇（编），2011，《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社。</div>
   <div class="csl-entry">程根伟，1999，1998 年长江洪水的成因与减灾对策，见许厚泽，赵其国（编），《长江流域洪涝灾害与科技对策》，北京：科学出版社。</div>
   <div class="csl-entry">邓一刚，2006，《全智能节电器》，中国，200610171314.3。</div>
   <div class="csl-entry">丁文详，2000，数字革命与竞争国际化，《中国青年报》。</div>
-  <div class="csl-entry">傅刚，赵承，李佳路，2000，大风沙过后的思考，《北京青年报》。</div>
+  <div class="csl-entry">傅刚、赵承、李佳路，2000，大风沙过后的思考，《北京青年报》。</div>
   <div class="csl-entry">顾炎武，1992，《昌平山水记: 京东考古录》，北京：北京古籍出版社。</div>
   <div class="csl-entry">国家标准局信息分类编码研究所，1988，世界各国和地区名称代码，见全国文献工作标准化委员会（编），《文献工作国家标准汇编: 3》，北京：中国标准出版社。</div>
   <div class="csl-entry">国家环境保护局科技标准司，1996，《土壤环境质量标准》，北京：中国标准出版社。</div>
   <div class="csl-entry">哈里森·沃尔德伦，2012，《经济数学与金融数学》，北京：中国人民大学出版社。</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司，2001，《一种荒漠化地区生态植被综合培育种植方法》，中国，01129210.5。</div>
   <div class="csl-entry">侯文顺，2010，《高分子物理: 高分子材料分析、选择与改性》，北京：化学工业出版社。</div>
-  <div class="csl-entry">胡承正，周详，缪灵，2010，《理论物理概论》（上），武汉：武汉大学出版社。</div>
-  <div class="csl-entry">贾东琴，柯平，2011，面向数字素养的高校图书馆数字服务体系研究，见中国图书馆学会（编），《中国图书馆学会年会论文集》（2011 年卷），北京：国家图书馆出版社。</div>
-  <div class="csl-entry">蒋有绪，郭泉水，马娟等，1998，《中国森林群落分类及其群落特征》，北京：科学出版社。</div>
+  <div class="csl-entry">胡承正、周详、缪灵，2010，《理论物理概论》（上），武汉：武汉大学出版社。</div>
+  <div class="csl-entry">贾东琴、柯平，2011，面向数字素养的高校图书馆数字服务体系研究，见中国图书馆学会（编），《中国图书馆学会年会论文集》（2011 年卷），北京：国家图书馆出版社。</div>
+  <div class="csl-entry">蒋有绪、郭泉水、马娟等，1998，《中国森林群落分类及其群落特征》，北京：科学出版社。</div>
   <div class="csl-entry">库恩，2012，《科学革命的结构: 第 4 版》（2 版），北京：北京大学出版社。</div>
   <div class="csl-entry">雷光春（编），2012，《综合湿地管理: 综合湿地管理国际研讨会论文集》，北京：海洋出版社。</div>
   <div class="csl-entry">李炳穆，2008a，韩国图书馆法，《图书情报工作》第6期。</div>
   <div class="csl-entry">李炳穆，2008b，韩国图书馆法，《图书情报工作》第6期。</div>
   <div class="csl-entry">李强，2012，化解医患矛盾需釜底抽薪，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>（2013.3.25）。</div>
-  <div class="csl-entry">李幼平，王莉，2010，循证医学研究方法: 附视频，《中华移植杂志(电子版)》第3期。</div>
+  <div class="csl-entry">李幼平、王莉，2010，循证医学研究方法: 附视频，《中华移植杂志(电子版)》第3期。</div>
   <div class="csl-entry">刘彻东，1998，中国的青年刊物: 个性特色为本仁，《中国出版》第5期。</div>
   <div class="csl-entry">刘乃安，2000，《生物质材料热解失重动力学及其分析方法研究》，合肥：中国科学技术大学。</div>
-  <div class="csl-entry">刘裕国，杨柳，张洋等，2013，雾霾来袭, 如何突围?，《人民日报》。</div>
-  <div class="csl-entry">楼梦鳞，杨燕，2011，汶川地震基岩地震动特征分析，见同济大学土木工程防灾国家重点实验室（编），《汶川地震震害研究》，上海：同济大学出版社。</div>
+  <div class="csl-entry">刘裕国、杨柳、张洋等，2013，雾霾来袭, 如何突围?，《人民日报》。</div>
+  <div class="csl-entry">楼梦鳞、杨燕，2011，汶川地震基岩地震动特征分析，见同济大学土木工程防灾国家重点实验室（编），《汶川地震震害研究》，上海：同济大学出版社。</div>
   <div class="csl-entry">罗杰斯，2011，《西方文明史: 问题与源头》，大连：东北财经大学出版社。</div>
   <div class="csl-entry">罗斯基，2009，《战前中国经济的增长》，杭州：浙江大学出版社。</div>
   <div class="csl-entry">马欢，2011，《人类活动影响下海河流域典型区水循环变化分析》，北京：清华大学。</div>
   <div class="csl-entry">马克思，2013，政治经济学批判，见马克思，恩格斯（编），《马克思恩格斯全集》（第 35 卷），北京：人民出版社。</div>
   <div class="csl-entry">美国妇产科医师学会，2010，《新生儿脑病和脑性瘫痪发病机制与病理生理》，北京：人民卫生出版社。</div>
   <div class="csl-entry">尼葛洛庞帝，1996，《数字化生存》，海口：海南出版社。</div>
-  <div class="csl-entry">牛志明，斯温兰德，雷光春（编），2012，《综合湿地管理国际研讨会论文集》，北京：海洋出版社。</div>
+  <div class="csl-entry">牛志明、斯温兰德、雷光春（编），2012，《综合湿地管理国际研讨会论文集》，北京：海洋出版社。</div>
   <div class="csl-entry">裴丽生，1981，在中国科协学术期刊编辑工作经验交流会上的讲话，见中国科学技术协会（编），《中国科协学术期刊编辑工作经验交流会资料选》，北京：中国科学技术协会学会工作部。</div>
   <div class="csl-entry">皮锡瑞，2009，《师伏堂日记》（第 4 册），北京：北京图书馆出版社。</div>
   <div class="csl-entry">全国广播电视标准化技术委员会，2007，《广播电视音像资料编目规范: 第 2 部分 广播资料》，北京：国家广播电影电视总局广播电视规划院。</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会，2010a，《信息与文献 都柏林核心元数据元素集》，北京：中国标准出版社。</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会，2010b，《文献著录: 第 4 部分 非书资料》，北京：中国标准出版社。</div>
-  <div class="csl-entry">汤万金，杨跃翔，刘文等，2013，《人体安全重要技术标准研制最终报告》。</div>
+  <div class="csl-entry">汤万金、杨跃翔、刘文等，2013，《人体安全重要技术标准研制最终报告》。</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室，2011，《汶川地震灾害研究》，上海：同济大学出版社。</div>
   <div class="csl-entry">汪昂，1881，《增订本草备要》（刻本四卷），京都：老二酉堂。</div>
   <div class="csl-entry">汪冰，1997，《电子图书馆理论与实践研究》，北京：北京图书馆出版社。</div>
   <div class="csl-entry">汪学军，2002，中国农业转基因生物研究进展与安全管理，见国家环境保护总局生物安全管理办公室（编），《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社。</div>
   <div class="csl-entry">王夫之，1865，《宋论》（刻本），金陵：湘乡曾国荃。</div>
   <div class="csl-entry">王临惠，2010，从几组声母的演变看天津方言形成的自然条件和历史条件，见曹志耘（编），《汉语方言的地理语言学研究》，北京：商务印书馆。</div>
-  <div class="csl-entry">王临惠，支建刚，王忠一，2010，天津方言的源流关系刍议，《山西师范大学学报(社会科学版)》第4期。</div>
+  <div class="csl-entry">王临惠、支建刚、王忠一，2010，天津方言的源流关系刍议，《山西师范大学学报(社会科学版)》第4期。</div>
   <div class="csl-entry">吴云芳，2003，《面向中文信息处理的现代汉语并列结构研究》，北京：北京大学。</div>
-  <div class="csl-entry">武丽丽，华一新，张亚军等，2008，“北斗一号”监控管理网设计与实现，《测绘科学》第5期。</div>
+  <div class="csl-entry">武丽丽、华一新、张亚军等，2008，“北斗一号”监控管理网设计与实现，《测绘科学》第5期。</div>
   <div class="csl-entry">西安电子科技大学，2002，《光折变自适应光外差探测方法》，中国，01128777.2。</div>
   <div class="csl-entry">萧钰，2001，出版业信息化迈入快车道，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>（2002.4.15）。</div>
-  <div class="csl-entry">徐光宪，王祥云，2010，《物质结构》，北京：科学出版社。</div>
+  <div class="csl-entry">徐光宪、王祥云，2010，《物质结构》，北京：科学出版社。</div>
   <div class="csl-entry">杨保军，2012，《新闻道德论》，北京：中国人民大学出版社。</div>
   <div class="csl-entry">杨洪升，2013，四库馆私家抄校书考略，《文献》第1期。</div>
   <div class="csl-entry">杨宗英，1996，电子图书馆的现实模型，《中国图书馆学报》第2期。</div>
-  <div class="csl-entry">于潇，刘义，柴跃廷等，2012，互联网药品可信交易环境中主体资质审核备案模式，《清华大学学报(自然科学版)》第11期。</div>
+  <div class="csl-entry">于潇、刘义、柴跃廷等，2012，互联网药品可信交易环境中主体资质审核备案模式，《清华大学学报(自然科学版)》第11期。</div>
   <div class="csl-entry">余建斌，2013，我们的科技一直在追赶: 访中国工程院院长周济，《人民日报》。</div>
-  <div class="csl-entry">袁训来，陈哲，肖书海等，2012，蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口，《科学通报》第34期。</div>
+  <div class="csl-entry">袁训来、陈哲、肖书海等，2012，蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口，《科学通报》第34期。</div>
   <div class="csl-entry">张伯伟，2002，《全唐五代诗格汇考》，南京：江苏古籍出版社。</div>
   <div class="csl-entry">张凯军，2012，《轨道火车及高速轨道火车紧急安全制动辅助装置》，中国，201220158825.2。</div>
   <div class="csl-entry">张田勤，2000，罪犯 DNA 库与生命伦理学计划，《大众科技报》。</div>
   <div class="csl-entry">张忠智，1997，科技书刊的总编(主编)的角色要求，见中国科学技术期刊编辑学会（编），《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会。</div>
   <div class="csl-entry">赵学功，2001，《当代美国外交》，北京：社会科学文献出版社。</div>
-  <div class="csl-entry">中国第一历史档案馆，辽宁省档案馆，2001，《中国明朝档案总汇》，桂林：广西师范大学出版社。</div>
+  <div class="csl-entry">中国第一历史档案馆、辽宁省档案馆，2001，《中国明朝档案总汇》，桂林：广西师范大学出版社。</div>
   <div class="csl-entry">中国互联网络信息中心，2012，《第 29 次中国互联网络发展现状统计报告》。</div>
-  <div class="csl-entry">中国企业投资协会，台湾并购与私募股权协会，汇盈国际投资集团，2013，《投资台湾: 大陆企业赴台投资指南》，北京：九州出版社。</div>
+  <div class="csl-entry">中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团，2013，《投资台湾: 大陆企业赴台投资指南》，北京：九州出版社。</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心（编），2012，《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社。</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室，1996，《现代汉语词典》（修订本），北京：商务印书馆。</div>
   <div class="csl-entry">中国图书馆学会，1957，《图书馆学通讯》，北京：北京图书馆。</div>
@@ -224,17 +224,17 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">拉普拉斯, Pierre-Simon，1951，《概率哲学》，北京：未名出版社。</div>
   <div class="csl-entry">李行健（编），2004，《现代汉语规范辞典》，北京：外语教学与研究出版社。</div>
   <div class="csl-entry">邱颖文，2009，《遗传与语言学习》，上海：华东师范大学。</div>
-  <div class="csl-entry">王登峰，崔红，2004，中国人“大七”人格结构的理论分析，见王登峰，侯玉波（编），《人格与社会心理学论丛》（第1卷），北京：北京大学出版社。</div>
+  <div class="csl-entry">王登峰、崔红，2004，中国人“大七”人格结构的理论分析，见王登峰，侯玉波（编），《人格与社会心理学论丛》（第1卷），北京：北京大学出版社。</div>
   <div class="csl-entry">余林，2000，《汉语语言产生中的语音表征与加工》，北京师范大学。</div>
   <div class="csl-entry">张三，2008a，中国心理学的过去与未来，《心理学报》第40卷。</div>
   <div class="csl-entry">张三，2008b，中国心理学的过去与未来，《心理学报》增刊。</div>
   <div class="csl-entry">张三，2008c，《心理学史》，北京：未名出版社。</div>
   <div class="csl-entry">张三（编），2008d，《心理学史》，北京：未名出版社。</div>
-  <div class="csl-entry">张三，李四，2008a，中国心理学的过去与未来，《心理学报》第40卷。</div>
-  <div class="csl-entry">张三，李四，2008b，中国心理学与奥林匹克，《新华日报》。</div>
-  <div class="csl-entry">张三，李四，中国心理学的过去与未来，《心理学报》。</div>
-  <div class="csl-entry">赵一，钱二，孙三等，2008，中国心理学的过去与未来，《心理学报》第40卷。</div>
-  <div class="csl-entry">赵一一，钱二，孙三等，2008，中国心理学的过去与未来，《心理学报》第40卷。</div>
+  <div class="csl-entry">张三、李四，2008a，中国心理学的过去与未来，《心理学报》第40卷。</div>
+  <div class="csl-entry">张三、李四，2008b，中国心理学与奥林匹克，《新华日报》。</div>
+  <div class="csl-entry">张三、李四，中国心理学的过去与未来，《心理学报》。</div>
+  <div class="csl-entry">赵一、钱二、孙三等，2008，中国心理学的过去与未来，《心理学报》第40卷。</div>
+  <div class="csl-entry">赵一一、钱二、孙三等，2008，中国心理学的过去与未来，《心理学报》第40卷。</div>
   <div class="csl-entry">1986，《现代汉语频率词典》，北京：北京语言学院出版社。</div>
 </div>
 
@@ -352,15 +352,15 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">“ジュリスト”. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (September 1, 2022h).</div>
   <div class="csl-entry">[德]莱纳·沃尔夫，2012，风险法的风险，见刘刚（编），《风险规制：德国的理论与实践》，法律出版社。</div>
   <div class="csl-entry">邓小平，1994，精简机构是一场革命（2 版），见《邓小平文选》（2 版第2卷），人民出版社。</div>
-  <div class="csl-entry">高鸿钧，程汉大（编），2013，《英美法原论》，北京大学出版社。</div>
-  <div class="csl-entry">国家质量监督检验检疫总局，中国国家标准化管理委员会，2015，《信息与文献 参考文献著录规则》。</div>
+  <div class="csl-entry">高鸿钧、程汉大（编），2013，《英美法原论》，北京大学出版社。</div>
+  <div class="csl-entry">国家质量监督检验检疫总局、中国国家标准化管理委员会，2015，《信息与文献 参考文献著录规则》。</div>
   <div class="csl-entry">国务院，2007a，《国务院关于在全国建立农村最低生活保障制度的通知》。</div>
   <div class="csl-entry">国务院，2007b，《国务院关于在全国建立农村最低生活保障制度的通知》。</div>
   <div class="csl-entry">国务院，2018，《国务院关于印发打赢蓝天保卫战三年行动计划的通知》。</div>
   <div class="csl-entry">何海波，2000，判决书上网，《法制日报》。</div>
   <div class="csl-entry">季卫东，1993，法律程序的意义：对中国法制建设的另一种思考，《中国社会科学》第1期。</div>
   <div class="csl-entry">李松锋，2015，《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学。</div>
-  <div class="csl-entry">罗豪才，袁曙宏，李文栋，1993，现代行政法的理论基础——论行政机关与相对一方的权利义务平衡，《中国法学》第1期。</div>
+  <div class="csl-entry">罗豪才、袁曙宏、李文栋，1993，现代行政法的理论基础——论行政机关与相对一方的权利义务平衡，《中国法学》第1期。</div>
   <div class="csl-entry">[美]富勒，2005，《法律的道德性》，商务印书馆。</div>
   <div class="csl-entry">欧中坦，1994，千方百计上京城：清朝的京控，见高道蕴，高鸿钧，贺卫方（编），《美国学者论中国法律传统》，中国政法大学出版社。</div>
   <div class="csl-entry">全国人大常委会，1991，《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》。</div>
@@ -370,15 +370,15 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">汪波，2004，哈尔滨市政法机关正对“宝马案”认真调查复查，见《人民网》。</div>
   <div class="csl-entry">王保树，1994，股份有限公司机关构造中的董事和董事会，见梁慧星（编），《民商法论丛》（第1卷），法律出版社。</div>
   <div class="csl-entry">王名扬，2007，《美国行政法》，北京大学出版社。</div>
-  <div class="csl-entry">夏新华，胡旭晟，刘鄂等，2004，《近代中国宪政历程》，中国政法大学出版社。</div>
+  <div class="csl-entry">夏新华、胡旭晟、刘鄂等，2004，《近代中国宪政历程》，中国政法大学出版社。</div>
   <div class="csl-entry">信春鹰，2013，《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》。</div>
-  <div class="csl-entry">应松年，马怀德（编），2006，《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社。</div>
+  <div class="csl-entry">应松年、马怀德（编），2006，《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社。</div>
   <div class="csl-entry">[英]劳特派特，1971，《奥本海国际法》（8 版上卷第一分册），商务印书馆。</div>
   <div class="csl-entry">张新宝，2016，《侵权责任法》（4 版），中国人民大学出版社。</div>
   <div class="csl-entry">赵耀彤，2018，一名基层法官眼里好律师的样子，见《中国法律评论》。</div>
   <div class="csl-entry">中国共产党中央委员会，2014，《中共中央关于全面推进依法治国若干重大问题的决定》。</div>
   <div class="csl-entry">最高人民法院，2018，《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》。</div>
-  <div class="csl-entry">最高人民法院，最高人民检察院，1993，《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》。</div>
+  <div class="csl-entry">最高人民法院、最高人民检察院，1993，《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》。</div>
   <div class="csl-entry">2013，荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，见《最高人民法院公报》。</div>
   <div class="csl-entry">2015，陆红霞诉南通市发改委政府信息公开案，见《最高人民法院公报》。</div>
   <div class="csl-entry">2017，《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》。</div>
