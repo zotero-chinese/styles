@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>学位论文答辩相关材料下载.rar（2020-03-17）</summary>
-    <updated>2024-08-25T21:43:24+08:00</updated>
+    <updated>2024-08-27T12:05:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -376,11 +376,11 @@
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
     <layout locale="en">
-      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="citation-number" suffix="."/>
       <text macro="entry-layout" suffix="."/>
     </layout>
     <layout>
-      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="citation-number" suffix="."/>
       <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
