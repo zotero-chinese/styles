@@ -258,7 +258,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title" form="short" text-case="title"/>
+              <text variable="container-title" form="long" text-case="title"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
