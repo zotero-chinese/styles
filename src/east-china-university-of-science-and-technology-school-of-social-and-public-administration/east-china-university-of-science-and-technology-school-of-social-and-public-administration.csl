@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <summary>7.社会与公共管理学院研究生学位论文撰写规范.pdf</summary>
-    <updated>2024-09-08T21:18:29+08:00</updated>
+    <updated>2024-09-14T22:52:37+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -611,7 +611,7 @@
       </else-if>
     </choose>
   </macro>
-  <macro name="source-en">
+  <macro name="entry-layout-en">
     <group delimiter=", ">
       <text macro="author-en"/>
       <text macro="title-en"/>
@@ -654,7 +654,7 @@
       <text macro="locator-or-page-en"/>
     </group>
   </macro>
-  <macro name="source-zh">
+  <macro name="entry-layout-zh">
     <group delimiter="：">
       <text macro="author-zh"/>
       <group delimiter="，">
@@ -719,50 +719,6 @@
         <text macro="locator-or-page-zh"/>
       </group>
     </group>
-  </macro>
-  <macro name="entry-layout-en">
-    <choose>
-      <if position="first">
-        <text macro="source-en"/>
-      </if>
-      <else>
-        <!-- 再次引证时的项目简化 -->
-        <group delimiter=": ">
-          <text macro="author-en"/>
-          <group delimiter=", ">
-            <text macro="title-short-en"/>
-            <choose>
-              <if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-en"/>
-              </if>
-            </choose>
-            <text macro="locator-en"/>
-          </group>
-        </group>
-      </else>
-    </choose>
-  </macro>
-  <macro name="entry-layout-zh">
-    <choose>
-      <if position="first">
-        <text macro="source-zh"/>
-      </if>
-      <else>
-        <!-- 再次引证时的项目简化 -->
-        <group delimiter="：">
-          <text macro="author-zh"/>
-          <group delimiter="，">
-            <text macro="title-short-zh"/>
-            <choose>
-              <if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-zh"/>
-              </if>
-            </choose>
-            <text macro="locator-zh"/>
-          </group>
-        </group>
-      </else>
-    </choose>
   </macro>
   <macro name="category-sort">
     <choose>
