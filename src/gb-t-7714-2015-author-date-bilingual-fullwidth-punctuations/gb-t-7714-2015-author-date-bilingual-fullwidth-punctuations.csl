@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>GB/T 7714—2015（著者-出版年，双语，全角标点）</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-fullwidth-punctuations</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-fullwidth-punctuations" rel="self"/>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-fullwidth-punctuations</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-fullwidth-punctuations" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点。</summary>
-    <updated>2024-06-18T22:57:53+08:00</updated>
+    <updated>2024-09-15T15:55:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714—2015（顺序编码，双语，全角标点）</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-fullwidth-punctuations</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-fullwidth-punctuations" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <title>GB/T 7714—2015（脚注，双语，全角标点）</title>
+    <id>http://www.zotero.org/styles/gb-t-7714-2015-note-bilingual-fullwidth-punctuations</id>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-note-bilingual-fullwidth-punctuations" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
@@ -14,10 +14,10 @@
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
-    <category citation-format="numeric"/>
+    <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点。</summary>
-    <updated>2024-06-18T22:57:53+08:00</updated>
+    <updated>2024-09-15T15:55:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -28,6 +28,7 @@
     </date>
     <terms>
       <term name="edition" form="short">版</term>
+      <term name="ibid">同上</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -351,10 +352,9 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <text macro="locator" prefix="(" suffix=")"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
@@ -364,7 +364,7 @@
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <text macro="locator"/>
         </group>
       </else>
     </choose>
@@ -378,10 +378,9 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="（" suffix="）"/>
+        <text macro="locator" prefix="（" suffix="）"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名，年，卷（期）：页码［引用日期］” -->
         <group delimiter="：">
           <group>
             <group delimiter="，">
@@ -391,7 +390,7 @@
             </group>
             <text variable="issue" prefix="（" suffix="）"/>
           </group>
-          <text variable="page"/>
+          <text macro="locator"/>
         </group>
       </else>
     </choose>
@@ -453,7 +452,7 @@
             </group>
             <text macro="issued-year-en"/>
           </group>
-          <text variable="page"/>
+          <text macro="locator"/>
         </group>
         <text macro="accessed-date-en"/>
       </else-if>
@@ -493,7 +492,7 @@
             </group>
             <text macro="issued-year-zh"/>
           </group>
-          <text variable="page"/>
+          <text macro="locator"/>
         </group>
         <text macro="accessed-date-zh"/>
       </else-if>
@@ -550,6 +549,17 @@
   <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
+  </macro>
+  <!-- 引文页码 -->
+  <macro name="locator">
+    <choose>
+      <if locator="page">
+        <text variable="locator"/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
   </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date-en">
@@ -676,12 +686,59 @@
       <text macro="access-zh"/>
     </group>
   </macro>
-  <citation collapse="citation-number" after-collapse-delimiter=",">
-    <sort>
-      <key variable="citation-number"/>
-    </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text variable="citation-number"/>
+  <!-- 脚注中引用的格式 -->
+  <macro name="note-layout-en">
+    <choose>
+      <if position="ibid-with-locator">
+        <group delimiter=": ">
+          <text term="ibid"/>
+          <text variable="locator"/>
+        </group>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <group delimiter=": ">
+          <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
+          <text variable="first-reference-note-number" prefix="同"/>
+          <text variable="locator"/>
+        </group>
+      </else-if>
+      <else>
+        <text macro="entry-layout-en"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="note-layout-zh">
+    <choose>
+      <if position="ibid-with-locator">
+        <group delimiter="：">
+          <text term="ibid"/>
+          <text variable="locator"/>
+        </group>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <group delimiter="：">
+          <!-- 国标要求提供的示例中脚注编号是用圈码，在 CSL 中无法实现 -->
+          <text variable="first-reference-note-number" prefix="同"/>
+          <text variable="locator"/>
+        </group>
+      </else-if>
+      <else>
+        <text macro="entry-layout-zh"/>
+      </else>
+    </choose>
+  </macro>
+  <citation et-al-min="4" et-al-use-first="3">
+    <layout delimiter="; " suffix="." locale="en">
+      <text macro="note-layout-en"/>
+    </layout>
+    <layout delimiter="；" suffix="．">
+      <text macro="note-layout-zh"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">

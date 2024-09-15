@@ -1,10 +1,10 @@
 {
-  "dir": "gb-t-7714-2015-note-fullwidth-punctuations",
-  "file": "gb-t-7714-2015-note-fullwidth-punctuations.csl",
+  "dir": "gb-t-7714-2015-note-bilingual-fullwidth-punctuations",
+  "file": "gb-t-7714-2015-note-bilingual-fullwidth-punctuations.csl",
   "style_class": "note",
   "title": "GB/T 7714—2015（脚注，双语，全角标点）",
-  "id": "http://www.zotero.org/styles/gb-t-7714-2015-note-fullwidth-punctuations",
-  "link_self": "http://www.zotero.org/styles/gb-t-7714-2015-note-fullwidth-punctuations",
+  "id": "http://www.zotero.org/styles/gb-t-7714-2015-note-bilingual-fullwidth-punctuations",
+  "link_self": "http://www.zotero.org/styles/gb-t-7714-2015-note-bilingual-fullwidth-punctuations",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note",
   "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
   "author": [
