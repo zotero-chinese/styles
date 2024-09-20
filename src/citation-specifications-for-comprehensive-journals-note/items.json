@@ -1,0 +1,1194 @@
+[
+	{
+		"id": "cscj.1.2.5:2",
+		"type": "book",
+		"event-place": "Hertfordshire",
+		"language": "en-US",
+		"publisher": "Cumberland House",
+		"publisher-place": "Hertfordshire",
+		"title": "The travels of Marco Polo",
+		"author": [
+			{
+				"family": "Polo",
+				"given": "Marco"
+			}
+		],
+		"translator": [
+			{
+				"family": "Marsden",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.5:3",
+		"type": "book",
+		"ISBN": "978-0-521-34933-8",
+		"language": "en-US",
+		"note": "Google-Books-ID: u23ilntsjfMC",
+		"number-of-pages": "356",
+		"publisher": "Cambridge University Press",
+		"source": "Google Books",
+		"title": "The Brenner debate: Agrarian class structure and economic development in pre-industrial Europe",
+		"title-short": "The Brenner Debate",
+		"editor": [
+			{
+				"family": "Aston",
+				"given": "Trevor Henry"
+			},
+			{
+				"family": "Philpin",
+				"given": "C. H. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					3,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.5:1",
+		"type": "book",
+		"event-place": "Berkeley",
+		"ISBN": "978-0-520-07383-8",
+		"language": "en-US",
+		"number-of-pages": "404",
+		"publisher": "University of California Press",
+		"publisher-place": "Berkeley",
+		"source": "Google Books",
+		"title": "The arts of power: Three halls of state in Italy, 1300-1600",
+		"title-short": "Arts of Power",
+		"author": [
+			{
+				"family": "Starn",
+				"given": "Randolph"
+			},
+			{
+				"family": "Partridge",
+				"given": "Loren W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.5:5",
+		"type": "article-journal",
+		"container-title": "Modern China",
+		"DOI": "10.1177/009770049301900206",
+		"ISSN": "0097-7004",
+		"issue": "2",
+		"journalAbbreviation": "Mod. China",
+		"language": "en-US",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "199-215",
+		"title": "On the Search for Civil Society in China",
+		"URL": "https://doi.org/10.1177/009770049301900206",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Chamberlain",
+				"given": "Heath B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.5:4",
+		"type": "chapter",
+		"container-title": "Hunger and History: The Impact of Changing Food Production and Consumption Patterns on Society",
+		"event-place": "Cambridge",
+		"language": "en-US",
+		"note": "publisher: The MIT Press",
+		"page": "265-291",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "JSTOR",
+		"title": "The impact of scarcity and plenty on population change in England, 1541–1871",
+		"URL": "https://www.jstor.org/stable/203704",
+		"author": [
+			{
+				"family": "Schofield",
+				"given": "Roger"
+			}
+		],
+		"editor": [
+			{
+				"family": "Rotberg",
+				"given": "Robert I."
+			},
+			{
+				"family": "Rabb",
+				"given": "Theodore K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.1:1",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: gcj_OAAACAAJ",
+		"number-of-pages": "116",
+		"publisher": "中国社会科学出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "〈明史·佛郎机传〉笺正",
+		"author": [
+			{
+				"literal": "戴裔煊"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.1:2",
+		"type": "book",
+		"event-place": "北京",
+		"ISBN": "978-7-5005-2983-5",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: hC1tAAAAIAAJ",
+		"number-of-pages": "706",
+		"publisher": "中国财政经济出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "清代外债史论",
+		"author": [
+			{
+				"literal": "许毅"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.1:3",
+		"type": "book",
+		"event-place": "广州",
+		"ISBN": "978-7-306-00212-9",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: CZVGYAAACAAJ",
+		"number-of-pages": "643",
+		"publisher": "中山大学出版社",
+		"publisher-place": "广州",
+		"source": "Google Books",
+		"title": "东印度公司对华贸易编年史：1635-1834",
+		"title-short": "东印度公司对华贸易编年史",
+		"volume": "第4、5卷合订本",
+		"author": [
+			{
+				"literal": "马士"
+			}
+		],
+		"translator": [
+			{
+				"literal": "区宗华"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:1",
+		"type": "chapter",
+		"container-title": "中国古代科技成就",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: jfkZy3zZ57QC",
+		"page": "382-391",
+		"publisher": "中国青年出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "中国养蚕科学技术的发展和传播",
+		"author": [
+			{
+				"literal": "汪子春"
+			}
+		],
+		"editor": [
+			{
+				"literal": "自然科学史研究所"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:2",
+		"type": "chapter",
+		"container-title": "鲁迅全集",
+		"event-place": "北京",
+		"ISBN": "978-7-02-005033-8",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: ZYVpAAAAIAAJ",
+		"publisher": "人民文学出版社",
+		"publisher-place": "北京",
+		"source": "Google Books",
+		"title": "中国小说的历史的变迁",
+		"volume": "第9册",
+		"author": [
+			{
+				"literal": "鲁迅"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:3",
+		"type": "chapter",
+		"container-title": "识史集",
+		"event-place": "上海",
+		"ISBN": "978-7-5325-2188-3",
+		"language": "zh-CN",
+		"publisher": "上海古籍出版社",
+		"publisher-place": "上海",
+		"source": "Google Books",
+		"title": "师承与变法",
+		"author": [
+			{
+				"literal": "唐振常"
+			}
+		],
+		"editor": [
+			{
+				"literal": "唐振常"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:4",
+		"type": "chapter",
+		"container-title": "基督教与近代文化",
+		"event-place": "台北",
+		"ISBN": "978-7-208-01896-9",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: HWxnAAAAIAAJ",
+		"page": "135-143",
+		"publisher": "宇宙光出版社",
+		"publisher-place": "台北",
+		"source": "Google Books",
+		"title": "早期传教士在港创办的第一份中文报刊――〈遐迩贯珍〉",
+		"author": [
+			{
+				"literal": "李志刚"
+			}
+		],
+		"editor": [
+			{
+				"literal": "李志刚"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:5",
+		"type": "chapter",
+		"container-title": "蔡元培书信集",
+		"event-place": "杭州",
+		"language": "zh-CN",
+		"note": "original-date: 1911-06-03\nGoogle-Books-ID: F95jAAAAIAAJ",
+		"publisher": "浙江教育出版社",
+		"publisher-place": "杭州",
+		"source": "Google Books",
+		"title": "复孙毓修函",
+		"volume": "上册",
+		"author": [
+			{
+				"literal": "蔡元培"
+			}
+		],
+		"editor": [
+			{
+				"literal": "高平叔"
+			},
+			{
+				"literal": "王世儒"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:6",
+		"type": "chapter",
+		"container-title": "中国大历史",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "生活·读 书·新知三联书店",
+		"publisher-place": "北京",
+		"title": "为什么称为“中国大历史”?——中文版自序",
+		"title-short": "为什么称为“中国大历史”?",
+		"author": [
+			{
+				"literal": "黄仁宇"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.2:7",
+		"type": "chapter",
+		"container-title": "傅雷家书",
+		"edition": "增补本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "三联书店",
+		"publisher-place": "北京",
+		"title": "读家书，想傅雷（代序）",
+		"author": [
+			{
+				"literal": "楼适夷"
+			}
+		],
+		"editor": [
+			{
+				"literal": "傅敏"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.1:1",
+		"type": "book",
+		"edition": "光绪三年苏州文学山房活字本",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"title": "古今伪书考",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "姚际恒"
+			}
+		]
+	},
+	{
+		"id": "cscj.1.2.3.2:1",
+		"type": "book",
+		"edition": "标点本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\nvolume-title: 文苑三·吴汝纶传",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "清史稿",
+		"volume": "卷四八六",
+		"author": [
+			{
+				"literal": "赵尔巽"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.2:2",
+		"type": "book",
+		"edition": "标点本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\nvolume-title: 东莞城隍",
+		"number-of-pages": "215",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "广东新语",
+		"volume": "9",
+		"author": [
+			{
+				"literal": "屈大均"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.2:3",
+		"type": "book",
+		"edition": "影印本",
+		"event-place": "沈阳",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"publisher": "辽沈书社",
+		"publisher-place": "沈阳",
+		"title": "雪桥诗话续集",
+		"volume": "5",
+		"author": [
+			{
+				"literal": "杨钟羲"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.2:5",
+		"type": "book",
+		"edition": "标点本",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 唐高宗永徽六年十月乙卯",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "资治通鉴",
+		"volume": "卷二〇〇〇",
+		"editor": [
+			{
+				"literal": "司马光"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1956"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.2:6",
+		"type": "book",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 乾隆\nvolume-title: 风俗",
+		"title": "嘉定县志",
+		"volume": "卷一二"
+	},
+	{
+		"id": "cscj.1.2.3.2:7",
+		"type": "chapter",
+		"container-title": "稀见中国地方志汇刊",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "type: classic\noriginal-date: 万历\nvolume-title: 郡县志二·广州府·城池",
+		"publisher": "中国书店",
+		"publisher-place": "北京",
+		"title": "广东通志",
+		"volume": "卷一五",
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.3:1",
+		"type": "chapter",
+		"collection-title": "四库全书存目丛书",
+		"container-title": "续问辨牍",
+		"edition": "影印本",
+		"event-place": "济南",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"publisher": "齐鲁书社",
+		"publisher-place": "济南",
+		"title": "答屠仪部赤水丈书",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "管志道"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.3.3:2",
+		"type": "chapter",
+		"collection-number": "432",
+		"collection-title": "文渊阁四库丛书",
+		"container-title": "宋名臣奏议",
+		"event-place": "上海",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"publisher": "上海古籍出版社",
+		"publisher-place": "上海",
+		"title": "上太宗论塘泊屯田之利",
+		"volume": "卷一〇五",
+		"author": [
+			{
+				"literal": "何承矩"
+			}
+		],
+		"editor": [
+			{
+				"literal": "赵汝愚"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:1",
+		"type": "article-journal",
+		"container-title": "历史研究",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "33-43, 190-191",
+		"title": "明代流刑考",
+		"author": [
+			{
+				"literal": "吴艳红"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:2",
+		"type": "article-magazine",
+		"container-title": "新青年",
+		"issue": "第6号",
+		"language": "zh-CN",
+		"title": "家族制度为专制主义之根据论",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "吴虞"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1917",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:3",
+		"type": "article-journal",
+		"container-title": "新史学",
+		"issue": "1",
+		"language": "zh-CN",
+		"note": "publisher-place: 台北",
+		"page": "55-82",
+		"title": "中国二十世纪史学与西方--论现代历史意识的产生",
+		"volume": "9",
+		"author": [
+			{
+				"literal": "王晴佳"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:4",
+		"type": "article-journal",
+		"container-title": "社会科学",
+		"issue": "6",
+		"language": "zh-CN",
+		"note": "publisher-place: 兰州",
+		"title": "论近代西北人口波动的主要原因",
+		"author": [
+			{
+				"literal": "魏丽英"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:5",
+		"type": "article-journal",
+		"container-title": "社会科学",
+		"issue": "9",
+		"language": "zh-CN",
+		"note": "publisher-place: 上海",
+		"title": "葡萄牙人如何进入澳门问题辨证",
+		"author": [
+			{
+				"literal": "费成康"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:6",
+		"type": "article-journal",
+		"container-title": "传记文学",
+		"issue": "3",
+		"language": "zh-CN",
+		"note": "publisher-place: 北京",
+		"title": "回忆父亲董希文",
+		"author": [
+			{
+				"literal": "董一沙"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:7",
+		"type": "article-journal",
+		"container-title": "传记文学",
+		"issue": "1",
+		"language": "zh-CN",
+		"note": "publisher-place: 台北",
+		"title": "创办史语所与支持安阳考古工作的贡献",
+		"volume": "28",
+		"author": [
+			{
+				"literal": "李济"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:8",
+		"type": "article-journal",
+		"container-title": "福建论坛",
+		"issue": "3",
+		"language": "zh-CN",
+		"note": "section: 文史哲版",
+		"title": "评黄龟年四劾秦桧",
+		"author": [
+			{
+				"literal": "黄义豪"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:9",
+		"type": "article-journal",
+		"container-title": "福建论坛",
+		"issue": "3",
+		"language": "zh-CN",
+		"note": "section: 经济社会版",
+		"title": "新加坡推行儒家伦理道德教育的社会学思考",
+		"author": [
+			{
+				"literal": "苏振芳"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:10",
+		"type": "article-journal",
+		"container-title": "武汉大学学报",
+		"issue": "2",
+		"language": "zh-CN",
+		"note": "section: 人文科学版",
+		"title": "英国议会圈地及其影响",
+		"author": [
+			{
+				"literal": "叶明勇"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.1:11",
+		"type": "article-journal",
+		"container-title": "武汉大学学报",
+		"issue": "4",
+		"language": "zh-CN",
+		"note": "section: 社会科学版",
+		"page": "512-513",
+		"title": "德育学科的比较研究与理论探索",
+		"author": [
+			{
+				"literal": "倪素香"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.2:1",
+		"type": "article-newspaper",
+		"container-title": "四川工人日报",
+		"language": "zh-CN",
+		"page": "2",
+		"title": "李劼人轶事",
+		"author": [
+			{
+				"literal": "李眉"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986",
+					8,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.2:2",
+		"type": "article-newspaper",
+		"container-title": "时报",
+		"language": "zh-CN",
+		"page": "4",
+		"title": "女子参政同盟会宣言书",
+		"issued": {
+			"date-parts": [
+				[
+					"1912",
+					4,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.4.2:3",
+		"type": "article-newspaper",
+		"container-title": "广益丛报",
+		"language": "zh-CN",
+		"note": "issue: 第8年第19期",
+		"page": "第1—2页",
+		"title": "四川会议厅暂行章程",
+		"issued": {
+			"date-parts": [
+				[
+					"1910",
+					9,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.6:1",
+		"type": "thesis",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "北京师范大学历史系",
+		"title": "罗隆基政治思想研究（1913—1949）",
+		"author": [
+			{
+				"literal": "方明东"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.6:2",
+		"type": "paper-conference",
+		"event-place": "天津",
+		"event-title": "全球化与亚太区域化国际研讨会",
+		"language": "zh-CN",
+		"publisher-place": "天津",
+		"title": "对国际体制和国际制度的理解和翻译",
+		"author": [
+			{
+				"literal": "任东来"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.6:3",
+		"type": "report",
+		"genre": "博士后研究报告",
+		"language": "zh-CN",
+		"publisher": "北京大学",
+		"title": "对汉代政治的若干考察——以郡(国)县体制为中心",
+		"title-short": "对汉代政治的若干考察",
+		"author": [
+			{
+				"literal": "周长山"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.6:4",
+		"type": "manuscript",
+		"archive": "中共四川省委统战部档案室",
+		"archive_location": "李劼人档案，无编号",
+		"language": "zh-CN",
+		"note": "type: collection",
+		"title": "党外人士座谈会记录",
+		"issued": {
+			"date-parts": [
+				[
+					"1950",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.6:5",
+		"type": "personal_communication",
+		"archive": "中国第二历史档案馆",
+		"archive_location": "北洋档案 1011—5961",
+		"language": "zh-CN",
+		"title": "傅良佐致国务院电",
+		"issued": {
+			"date-parts": [
+				[
+					"1917",
+					9,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.7:1",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "关于中国学术期刊标准化数据库系统工程的进展",
+		"URL": "http://www.cajcd.cn/pub/wml.txt/980810-2.html",
+		"author": [
+			{
+				"literal": "王明亮"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"1998",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					8,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.7:2",
+		"type": "article-journal",
+		"container-title": "文学遗产通讯",
+		"issue": "1",
+		"language": "zh-CN",
+		"note": "section: 网路版试刊",
+		"title": "两宋茶诗与茶事",
+		"URL": "http://www.literature.org.cn/Article.asp?ID=199",
+		"author": [
+			{
+				"literal": "扬之水"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2007",
+					9,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.8:1a",
+		"type": "book",
+		"event-place": "南京",
+		"language": "zh-CN",
+		"publisher": "金陵大学农学院",
+		"publisher-place": "南京",
+		"title": "江宁县淳化镇乡村社会之研究",
+		"author": [
+			{
+				"literal": "乔启明"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1934"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.8:1b",
+		"type": "chapter",
+		"container-title": "中国农村治理的历史与现状:以定县、邹平和江宁为例",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "社会科学文献出版社",
+		"publisher-place": "北京",
+		"title": "民国时期江宁的乡村治理",
+		"author": [
+			{
+				"literal": "马俊亚"
+			}
+		],
+		"editor": [
+			{
+				"literal": "徐秀丽"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.8:3",
+		"type": "speech",
+		"language": "zh-CN",
+		"title": "在长沙晨光学校演说",
+		"author": [
+			{
+				"literal": "章太炎"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1925",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "cscj.1.2.8:4",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "章太炎年谱长编",
+		"volume": "下册",
+		"author": [
+			{
+				"literal": "汤志钧"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	}
+]
