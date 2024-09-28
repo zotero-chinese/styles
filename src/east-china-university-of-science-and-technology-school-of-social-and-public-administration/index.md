@@ -22,13 +22,17 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div></div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">赵景深：《文坛忆旧》，上海：北新书局1948年版。</div>
+  </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div></div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年版，第325页。</div>
+  </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div></div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.</div>
+  </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div></div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">R S Schfield, <i>The Impact of Scarcity and Plenty on Population Change in England</i>, in R I Rotberg and T K Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55-88.</div>
+  </div>
 </div>
 
 ## 默认测试

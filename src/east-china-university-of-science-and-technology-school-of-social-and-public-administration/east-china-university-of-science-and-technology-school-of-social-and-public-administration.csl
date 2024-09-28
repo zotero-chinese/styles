@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <summary>7.社会与公共管理学院研究生学位论文撰写规范.pdf</summary>
-    <updated>2024-09-14T22:52:37+08:00</updated>
+    <updated>2024-09-28T16:24:44+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -774,11 +774,11 @@
     </sort>
     <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="source-zh" suffix="。"/>
+      <text macro="entry-layout-zh" suffix="。"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="source-en" suffix="."/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>
