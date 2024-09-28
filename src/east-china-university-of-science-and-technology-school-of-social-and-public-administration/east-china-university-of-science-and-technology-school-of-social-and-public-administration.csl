@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <summary>7.社会与公共管理学院研究生学位论文撰写规范.pdf</summary>
-    <updated>2024-09-28T16:24:44+08:00</updated>
+    <updated>2024-09-28T16:33:22+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -606,9 +606,9 @@
       <if variable="locator">
         <text macro="locator-zh"/>
       </if>
-      <else-if type="article-journal article-magazine" match="none">
+      <else>
         <text macro="page-zh"/>
-      </else-if>
+      </else>
     </choose>
   </macro>
   <macro name="entry-layout-en">
