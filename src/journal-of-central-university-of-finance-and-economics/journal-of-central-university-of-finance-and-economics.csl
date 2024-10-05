@@ -11,10 +11,10 @@
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
-    <author>
+    <contributor>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
-    </author>
+    </contributor>
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <issn>1000-1549</issn>
@@ -451,7 +451,7 @@
                 <group delimiter="">
                   <text variable="volume" prefix=","/>
                   <text variable="issue" prefix="(" suffix=")"/>
-              </group>
+                </group>
               </if>
               <else>
                 <text variable="volume" prefix=","/>
@@ -620,7 +620,7 @@
   <macro name="entry-layout-en">
     <group delimiter=", ">
       <text macro="author-en"/>
-     <!-- <text macro="issued-year"/>  -->
+      <!-- <text macro="issued-year"/>  -->
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->

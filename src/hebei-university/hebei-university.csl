@@ -12,10 +12,10 @@
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <author>
+    <contributor>
       <name>不秃燃的小老弟</name>
       <email>yanglun2019@126.com</email>
-    </author>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <updated>2024-10-04T09:14:00+00:00</updated>
@@ -25,8 +25,7 @@
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
-      <term name="page-range-delimiter">-</term>
-      <term name="range-delimiter">/</term>
+      <term name="page-range-delimiter">/</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -36,8 +35,7 @@
   <locale xml:lang="en">
     <terms>
       <term name="et-al">et al.</term>
-      <term name="page-range-delimiter">-</term>
-      <term name="range-delimiter">/</term>
+      <term name="page-range-delimiter">/</term>
     </terms>
   </locale>
   <macro name="author">
@@ -421,8 +419,8 @@
       </else>
     </choose>
   </macro>
-  <citation collapse="citation-number" after-collapse-delimiter="," range-delimiter="///">
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]" range-delimiter="///">
+  <citation collapse="citation-number" after-collapse-delimiter=",">
+    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>
     </layout>
   </citation>
