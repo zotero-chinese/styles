@@ -15,7 +15,7 @@
     <category field="engineering"/>
     <issn>2096-1146</issn>
     <summary>《信息安全学报》模板.doc（2016-01-23）</summary>
-    <updated>2024-10-05T11:08:59+08:00</updated>
+    <updated>2024-10-05T17:25:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -632,11 +632,11 @@
     <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]&#9;"/>
       <text macro="entry-layout-ZHtoEN" suffix="."/>
-      <text macro="entry-layout" suffix="." display="block"/>
+      <text macro="entry-layout" prefix="(" suffix=".)" display="block"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]&#9;"/>
-      <text macro="entry-layout" suffix="." display="block"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
 </style>
