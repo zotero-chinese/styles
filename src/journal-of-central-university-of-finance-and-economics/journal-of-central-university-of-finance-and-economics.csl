@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>中央财经大学学报</title>
     <id>http://www.zotero.org/styles/journal-of-central-university-of-finance-and-economics</id>
@@ -11,10 +11,10 @@
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
-    <contributor>
+    <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
-    </contributor>
+    </author>
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <issn>1000-1549</issn>
@@ -48,7 +48,7 @@
     <terms>
       <term name="and">和</term>
       <term name="et-al">等</term>
-      <term name="page-range-delimiter">~</term>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->
@@ -105,7 +105,7 @@
   <macro name="author-intext-zh">
     <names variable="author">
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long"/>
+      <name and="text" form="long"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -418,14 +418,14 @@
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
-        <group delimiter=", ">
+        <group delimiter="">
           <text variable="container-title"/>
-          <text macro="issued-year"/>
+          <text macro="issued-year" prefix="," suffix=","/>
           <group>
             <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <text variable="page" prefix=":"/>
         </group>
       </else>
     </choose>
@@ -449,9 +449,9 @@
             <choose>
               <if variable="issue">
                 <group delimiter="">
-                  <text variable="volume" prefix=","/>
+                  <!-- <text variable="volume" prefix=","/> -->
                   <text variable="issue" prefix="(" suffix=")"/>
-                </group>
+              </group>
               </if>
               <else>
                 <text variable="volume" prefix=","/>
@@ -618,9 +618,9 @@
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout-en">
-    <group delimiter=", ">
+    <group delimiter=". ">
       <text macro="author-en"/>
-      <!-- <text macro="issued-year"/>  -->
+     <!-- <text macro="issued-year"/>  -->
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
@@ -650,6 +650,7 @@
           <text macro="container-booklike-en"/>
           <text macro="edition"/>
           <text macro="publisher-en"/>
+          <text macro="issued-year"/>
         </else-if>
         <else>
           <!-- 4.1 专著 -->
@@ -657,6 +658,7 @@
           <text macro="secondary-contributors"/>
           <text macro="edition"/>
           <text macro="publisher-en"/>
+          <text macro="issued-year"/>
         </else>
       </choose>
       <text macro="access"/>
@@ -707,17 +709,29 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
-    <layout prefix="（" suffix="）" delimiter="；" locale="zh">
-      <group delimiter="，">
+    <layout delimiter="；" locale="zh">
+      <group  prefix="（" suffix="）" delimiter="，">
         <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
-      </group>
+       
+      </group> 
+      <group >
+        <text value="[" vertical-align="sup" />
+       <text variable="citation-number" vertical-align="sup" />
+       <text value="]" vertical-align="sup" />
+       </group>
     </layout>
-    <layout prefix="（" suffix="）" delimiter="；">
-      <group delimiter="，">
+    <layout delimiter="；">
+      <group  prefix="（" suffix="）" delimiter="，">
         <text macro="author-intext-en"/>
         <text macro="issued-year"/>
+       
       </group>
+      <group >
+        <text value="[" vertical-align="sup" />
+       <text variable="citation-number" vertical-align="sup" />
+       <text value="]" vertical-align="sup" />
+       </group>
     </layout>
   </citation>
   <bibliography entry-spacing="0">
