@@ -9,13 +9,14 @@
   "link_documentation": "http://www.jsass.org.cn/skzy/xsqk/sjjjyzz/tgxz/202004/t20200402_13224.html",
   "author": [
     {
-      "name": "韩小土"
-    },
-    {
       "name": "Zeping Lee"
     }
   ],
-  "contributor": [],
+  "contributor": [
+    {
+      "name": "韩小土"
+    }
+  ],
   "citation_format": "note",
   "field": "political_science",
   "summary": "世界经济与政治论坛",
