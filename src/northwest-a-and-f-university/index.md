@@ -8,13 +8,13 @@
 
 ### 引注
 
-（库恩 2012）<br>
-（Fourney c1971）<br>
-（贾东琴和柯平 2011）<br>
-（Fan and Sommers 2013）<br>
-（武丽丽等 2008）<br>
-（Myburg et al. 2014）<br>
-（中国互联网络信息中心 2012; Bawden 2008）<br>
+(库恩 2012)<br>
+(Fourney c1971)<br>
+(贾东琴和柯平 2011)<br>
+(Fan and Sommers 2013)<br>
+(武丽丽等 2008)<br>
+(Myburg et al. 2014)<br>
+(中国互联网络信息中心 2012; Bawden 2008)<br>
 
 
 ### 参考文献表
@@ -34,31 +34,31 @@
 
 ### 引注
 
-（张三 2008：42）<br>
-张三 （2008：42）<br>
-（Jason 2008: 42）<br>
-Jason （2008: 42）<br>
-张三和李四 （2008）<br>
-Wang and Sun （2009）<br>
-（赵一和陈二 2008; Wolchik and West 2009）<br>
-张三等 （2008）<br>
-Wang et al. （2009）<br>
-（赵一等 2008; Wolchik et al. 2009）<br>
-张三等 （2019a）<br>
-张三等 （2019b）<br>
-Qian et al. （2020b）<br>
-Qian et al. （2020a）<br>
-（张三等 2019a; Qian et al. 2020b）<br>
-张三等 （2020a）<br>
-张三等 （2020b）<br>
-Qian et al. （2009b）<br>
-Qian et al. （2009a）<br>
-（张三等 2020a）<br>
-（Qian et al. 2009b）<br>
-（Wong 2007）<br>
-（Wong 2008）<br>
-（Edeline and Weinberger 2002a, 2002b, 2005）<br>
-（Bai 2002; Chen 2006; Deng and Feng 2005）<br>
+(张三 2008：42)<br>
+张三 (2008：42)<br>
+(Jason 2008: 42)<br>
+Jason (2008: 42)<br>
+张三和李四 (2008)<br>
+Wang and Sun (2009)<br>
+(赵一和陈二 2008; Wolchik and West 2009)<br>
+张三等 (2008)<br>
+Wang et al. (2009)<br>
+(赵一等 2008; Wolchik et al. 2009)<br>
+张三等 (2019a)<br>
+张三等 (2019b)<br>
+Qian et al. (2020b)<br>
+Qian et al. (2020a)<br>
+(张三等 2019a; Qian et al. 2020b)<br>
+张三等 (2020a)<br>
+张三等 (2020b)<br>
+Qian et al. (2009b)<br>
+Qian et al. (2009a)<br>
+(张三等 2020a)<br>
+(Qian et al. 2009b)<br>
+(Wong 2007)<br>
+(Wong 2008)<br>
+(Edeline and Weinberger 2002a, 2002b, 2005)<br>
+(Bai 2002; Chen 2006; Deng and Feng 2005)<br>
 
 
 ### GB/T 7714—2015 示例文献
