@@ -26,7 +26,7 @@
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney ME. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23—25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽，华一新，张亚军等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg AA, Grattapaglia D, Tuskan GA, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
@@ -114,7 +114,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">程根伟. 1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴等. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴，等. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
@@ -138,7 +138,7 @@
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">袁训来，陈哲，肖书海等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">袁训来，陈哲，肖书海，等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[29]</div><div class="csl-right-inline">余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).</div>
@@ -150,7 +150,7 @@
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">李幼平，王莉. 循证医学研究方法: 附视频[J]. 中华移植杂志(电子版), 2010, 4(3): 225-228.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">武丽丽，华一新，张亚军等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Kanamori H. Shaking without quaking[J]. Science, 1998, 279(5359): 2063.</div>
@@ -276,7 +276,7 @@
     <div class="csl-left-margin">[73]</div><div class="csl-right-inline">汪昂. 增订本草备要, 四卷[M]. 刻本. 京都: 老二酉堂, 1881.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">蒋有绪，郭泉水，马娟等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">蒋有绪，郭泉水，马娟，等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">中国企业投资协会，台湾并购与私募股权协会，汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.</div>
@@ -324,7 +324,7 @@
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R]. 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金，杨跃翔，刘文等. 人体安全重要技术标准研制最终报告, 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金，杨跃翔，刘文，等. 人体安全重要技术标准研制最终报告, 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report, RMRS-GTR-262[R]. 2011: 8-9.</div>
@@ -396,7 +396,7 @@
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">于潇，刘义，柴跃廷等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.</div>
@@ -426,7 +426,7 @@
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">傅刚，赵承，李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-01-12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">刘裕国，杨柳，张洋等. 雾霾来袭, 如何突围?[N]. 人民日报, 2013-01-12.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">刘裕国，杨柳，张洋，等. 雾霾来袭, 如何突围?[N]. 人民日报, 2013-01-12.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[125]</div><div class="csl-right-inline">萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19) [2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
@@ -459,13 +459,13 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Mou W, McNamara TP. Intrinsic frames of reference in spatial memory[J]. J Exp Psychol Learn Mem Cogn, 2002, 28: 162-170.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">赵一，钱二，孙三等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">赵一，钱二，孙三，等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Mou W, Zhang K, McNamara TP. Frames of reference in spatial memories acquired from language[J]. J Exp Psychol Learn Mem Cogn, 2004, 30: 171-180.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">赵一一，钱二，孙三等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">赵一一，钱二，孙三，等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Wolchik SA, West SG, Sandler IN, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. J Consult Clin Psychol, 2000, 68(5): 843-856.</div>
@@ -783,7 +783,7 @@
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">罗豪才，袁曙宏，李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1): 52-59.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华，胡旭晟，刘鄂等. 近代中国宪政历程[M]. 中国政法大学出版社, 2004.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华，胡旭晟，刘鄂，等. 近代中国宪政历程[M]. 中国政法大学出版社, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平. 精简机构是一场革命[M]//邓小平文选: 卷 2. 2 版. 人民出版社, 1994.</div>
