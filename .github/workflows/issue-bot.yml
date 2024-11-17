@@ -1,0 +1,42 @@
+name: issue-bot
+
+on:
+  issues:
+    types: [opened, edited, closed]
+  issue_comment:
+    types: [created, edited]
+  schedule:
+    - cron: "30 1 * * *"
+
+permissions: {}
+
+jobs:
+  label:
+    permissions:
+      issues: write # to add label to an issues (retorquere/label-gun)
+      pull-requests: write # to add label, comment on pull request (retorquere/label-gun)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: retorquere/label-gun@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          label.awaiting: "等待贡献者回复"
+
+  stable:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v9
+        with:
+          days-before-issue-stale: 360
+          days-before-issue-close: 7
+          stale-issue-label: "过期"
+          stale-issue-message: "该 issue 已被标记为「过期」，因为已经超过 360 天没有活动。"
+          close-issue-message: "该 issue 已关闭，因为它被标记为「过期」后 7 天内仍一直处于非活动状态。"
+          exempt-issue-labels: "help wanted"
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
