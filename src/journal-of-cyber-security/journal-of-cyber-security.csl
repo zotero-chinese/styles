@@ -631,8 +631,10 @@
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]&#9;"/>
-      <text macro="entry-layout-ZHtoEN" suffix="."/>
-      <text macro="entry-layout" prefix="(" suffix=".)" display="block"/>
+      <group>
+        <text macro="entry-layout-ZHtoEN" suffix="."/>
+        <text macro="entry-layout" prefix="(" suffix=".)" display="block"/>
+      </group>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]&#9;"/>
