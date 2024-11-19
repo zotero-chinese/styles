@@ -23,7 +23,7 @@
 ### 注意事项
 
 > [!IMPORTANT]
-> 如果你使用了支持双语混排的样式（中文作者超过 `3` 个为`等`，英文为 `et al`），你需要在 Zotero 或 JurisM 中为每一个文献条目设置 `语言` 字段。
+> 如果你使用了支持双语混排的样式（中文作者超过 `3` 个为`等`，英文为 `et al.`），你需要在 Zotero 或 JurisM 中为每一个文献条目设置 `语言` 字段。
 >
 > - 对于中文条目，语言可以为 `zh` 或 `zh-CN`；
 > - 对于英文条目，语言可以为 `en` 或 `en-US`；
@@ -84,11 +84,11 @@ pnpm preview "src/accounting-research/accounting-research.csl"
 tsx ./lib/index.ts "src/accounting-research/accounting-research.csl"
 ```
 
-提交新样式时，在 `src` 目录为每一个 style 建立一个单独的文件夹，在文件夹中，存放 `[style name].csl`。如果需要为这个样式提高单独的测试条目，可以分别建立 `items.json` 或 `cites.json`，这两个 JSON 文件的格式分别为 CSL-JSON 的 Items 和 CitationItems[^csl-json]。
+提交新样式时，在 `src` 目录为每一个 style 建立一个单独的文件夹，在文件夹中，存放 `[style name].csl`。如果需要为这个样式提供单独的测试条目，可以分别建立 `items.json` 或 `cites.json`，这两个 JSON 文件的格式分别为 CSL-JSON 的 Items 和 CitationItems[^csl-json]。
 
 [^csl-json]: [CSL-JSON - citeproc-js](https://citeproc-js.readthedocs.io/en/latest/csl-json/markup.html)
 
-`metadata.json` 和 `index.md` 均为脚本自动生成，为 中文 CSL 样式商店网站的构建提供数据，请勿手动修改这些文件，所有的修改都将在下一次脚本运行时被覆盖。
+`metadata.json` 和 `index.md` 均为脚本自动生成，为中文 CSL 样式商店网站的构建提供数据，请勿手动修改这些文件，所有的修改都将在下一次脚本运行时被覆盖。
 
 ## 协议
 
