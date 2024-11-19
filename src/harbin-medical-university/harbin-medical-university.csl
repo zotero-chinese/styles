@@ -5,15 +5,15 @@
     <id>http://www.zotero.org/styles/harbin-medical-university</id>
     <link href="http://www.zotero.org/styles/harbin-medical-university" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
-    <link href="https://yjsy.hrbmu.edu.cn/info/1033/1483.htm" rel="documentation"/>
+    <link href="https://yjsy.hrbmu.edu.cn/info/1030/2354.htm" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>学位论文答辩相关材料下载.rar（2020-03-17）</summary>
-    <updated>2024-08-27T12:05:49+08:00</updated>
+    <summary>哈尔滨医科大学研究生学位论文写作规范(2024）.docx（2024-03-04）</summary>
+    <updated>2024-11-19T19:50:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -164,7 +164,7 @@
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
-          <text variable="container-title" font-style="italic"/>
+          <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
         <text variable="page" prefix="(" suffix=")"/>
@@ -173,7 +173,7 @@
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
         <group>
           <group delimiter=". ">
-            <text variable="container-title" font-style="italic"/>
+            <text variable="container-title"/>
             <group delimiter=":">
               <group delimiter=";">
                 <text macro="issued-year"/>
