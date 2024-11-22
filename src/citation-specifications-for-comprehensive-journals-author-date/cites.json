@@ -1,0 +1,75 @@
+[
+	[
+		{
+			"id": "cscj.2:1",
+			"label": "page",
+			"locator": "110"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:7",
+			"label": "chapter",
+			"locator": "第5章"
+		},
+		{
+			"id": "cscj.2:8",
+			"label": "page",
+			"locator": "233-245、272-278"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:2",
+			"label": "page",
+			"locator": "438"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:3",
+			"label": "page",
+			"locator": "56"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:4"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:5"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:6",
+			"label": "page",
+			"locator": "131-188"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:9",
+			"prefix": "转引自",
+			"label": "page",
+			"locator": "83"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:10"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:11"
+		}
+	],
+	[
+		{
+			"id": "cscj.2:12"
+		}
+	]
+]
