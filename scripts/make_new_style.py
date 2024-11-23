@@ -7,13 +7,22 @@ import shutil
 DEFAULT_BASE_STYLE = "gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi"
 
 
+def make_style_id(style_name: str):
+    style_id = style_name.lower()
+    style_id = re.sub(r"[()!?]", " ", style_id)
+    style_id = style_id.replace("&", " and ")
+    style_id = re.sub(r"\s+", " ", style_id)
+    style_id = style_id.replace(" ", "-")
+    return style_id
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("style")
     parser.add_argument("base_style", nargs="?")
     args = parser.parse_args()
 
-    style = args.style.lower().replace(" ", "-").replace("&", "and")
+    style = make_style_id(args.style)
 
     base_style = args.base_style or DEFAULT_BASE_STYLE
     if base_style.startswith("src/"):

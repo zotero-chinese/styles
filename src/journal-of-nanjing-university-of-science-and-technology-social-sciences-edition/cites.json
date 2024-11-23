@@ -1,0 +1,43 @@
+[
+	[
+		{
+			"id": "jnustss:1",
+			"label": "page",
+			"locator": "205-206"
+		}
+	],
+	[
+		{
+			"id": "jnustss:2",
+			"label": "page",
+			"locator": "433"
+		}
+	],
+	[
+		{
+			"id": "jnustss:3",
+			"label": "page",
+			"locator": "100"
+		}
+	],
+	[
+		{
+			"id": "jnustss:4"
+		}
+	],
+	[
+		{
+			"id": "jnustss:5"
+		}
+	],
+	[
+		{
+			"id": "jnustss:6"
+		}
+	],
+	[
+		{
+			"id": "jnustss:7"
+		}
+	]
+]

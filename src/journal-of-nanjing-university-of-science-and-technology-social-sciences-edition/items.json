@@ -1,0 +1,247 @@
+[
+	{
+		"id": "jnustss:1",
+		"type": "book",
+		"abstract": "列斐伏尔结合超现实主义、法国的黑格尔主义、尼采和存在主义等思潮，用马克思主义异化理论推进对日常生活领域的批判。所谓异化，在于资本主义社会是一个交换价值超越、脱离使用价值的社会，一个为生产而生产而不是为日常生活而生产的社会，这就导致了资本主义社会中生活意义消失的异化现象。前工业社会中人对自然、暴力统治的直接恐惧不见了，人们今天生活在一个无法逃脱的符号化、抽象化、功能化时代。列斐伏尔把日常生活的琐碎细节作为其分析的出发点和指引，这一日常生活经验为商品侵入，被非本真遮蔽，但它呈现为抵抗和更新社会生活的基础。日常生活具有可能性，可能性这一列斐伏尔常用的词语蕴含了变革的需求，他始终坚持，今天的社会解放一定是总体性的，是日常生活的节日化、艺术化与瞬间化。",
+		"event-place": "北京",
+		"ISBN": "978-7-5201-0891-1",
+		"language": "zh-CN",
+		"number-of-pages": "708",
+		"publisher": "社会科学文献出版社",
+		"publisher-place": "北京",
+		"source": "Douban",
+		"title": "日常生活批判",
+		"title-short": "日常生活批判",
+		"URL": "https://book.douban.com/subject/27065463/",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "亨利·列斐伏尔"
+			}
+		],
+		"translator": [
+			{
+				"literal": "叶齐茂"
+			},
+			{
+				"literal": "倪晓晖"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnustss:2",
+		"type": "book",
+		"abstract": "本书以文本学的解读方法，研究列斐伏尔这位现代法国哲学家、西方马克思主义创始人的日常生活批判哲学思想及其发展过程。在列斐伏尔那里，“每天生活”同“日常生活”以及“日常 性”之间是有质的区别的。他的早期思想集中研究了那种从来就存在着的，但充满着价值与神秘，即具有风格的“每天生活”；而他的中后期思想则侧重批判了作为现代社会异化现象的“日常 生活”及作为现代性的机械重复节奏的“日常性”问题。他早期对日常生活主要采取了一种相对比较哲学化的与乐观的立场，认为被异化的日常生活世界既包括着被压迫的因素，也包括着解放的因素；而他的后期则对日常生活理解得更加微观与社会学化一些，也相对悲观了一些。他认为在发达资本主义社会，日常生活被全面地纳入到生产与消费的总体环节中去，现代社会成了一个“消费引导型科层制社会”，而不是一个可供人们自由选择的休闲社会、丰裕社会。拯救现代性的命运只能通过一场以日常生活为平台的文化革命。列斐伏尔既是西方马克思主义的创始人，也是20世纪70年代以来所谓“后马克思主义思潮”的不自学推动者，在其晚年他把社会历史辩证法改造所谓“空间化本体论”，这实际上是把历史辩证法“空间法”的“后现代转向”。但他直到生命的最后一刻，还坚守着马克思的政治信仰与哲学理论基本底线。",
+		"collection-title": "当代国外马克思主义哲学研究丛书",
+		"event-place": "北京",
+		"ISBN": "978-7-303-22781-5",
+		"language": "zh-CN",
+		"number-of-pages": "513",
+		"publisher": "北京师范大学出版社",
+		"publisher-place": "北京",
+		"source": "Douban",
+		"title": "现代性的平庸与神奇：列斐伏尔日常生活批判哲学的文本学解读",
+		"title-short": "现代性的平庸与神奇",
+		"URL": "https://book.douban.com/subject/27148315/",
+		"author": [
+			{
+				"literal": "刘怀玉"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "jnustss:3",
+		"type": "book",
+		"abstract": "In the only comprehensive guide to Lefebvre's work, Rob Shields draws on the full range of Lefebvre's writings including many previously untranslated and unpublished works and correspondence.",
+		"event-place": "London",
+		"ISBN": "978-0-415-09369-9",
+		"language": "en-US",
+		"note": "Google-Books-ID: IXADTl_De4AC",
+		"number-of-pages": "240",
+		"publisher": "Routledge",
+		"publisher-place": "London",
+		"source": "Google Books",
+		"title": "Lefebvre, love, and struggle: Spatial dialectics",
+		"title-short": "Lefebvre, love, and struggle",
+		"author": [
+			{
+				"family": "Shields",
+				"given": "Rob"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnustss:4",
+		"type": "article-newspaper",
+		"container-title": "人民日报",
+		"language": "zh-CN",
+		"page": "2",
+		"title": "在哲学社会科学工作座谈会上的讲话",
+		"author": [
+			{
+				"literal": "习近平"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					5,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "jnustss:5",
+		"type": "article-journal",
+		"abstract": "2020年北斗三号全球组网的完成标志着建设历时26年的北斗工程迈入全球发展的新阶段。\"北斗走出去\"行动已经伴随\"一带一路\"项目的开展取得了显著成效,奠定了大发展的商业基础。本文从高质量发展和数字赋能的角度阐述\"北斗走出去\"融合\"数字一带一路\"的战略价值、商业模式和风险管控,从北斗融合\"数字一带一路\"白名单、北斗地基增强系统发展、人力资源培育、示范项目支持等方面提出政策建议。",
+		"container-title": "经济与管理研究",
+		"DOI": "10.13502/j.cnki.issn1000-7636.2021.05.001",
+		"issue": "5",
+		"language": "zh-CN",
+		"page": "3-11",
+		"source": "CNKI",
+		"title": "北斗走出去，数字赋能“一带一路”",
+		"URL": "https://doi.org/10.13502/j.cnki.issn1000-7636.2021.05.001",
+		"volume": "42",
+		"author": [
+			{
+				"literal": "韩立岩"
+			},
+			{
+				"literal": "陈建宇"
+			},
+			{
+				"literal": "姚婷"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "jnustss:6",
+		"type": "article-journal",
+		"abstract": "Despite widespread skepticism about government ownership in transitional economies, China's rapid industrial growth has been led by public enterprises. Kornai's theory of soft budbet constraints, born of the failure of earlier Hungarian reforms, fosters such skepticism-but it assumes as fixed organizational characteristics that in fact vary widely across government jurisdictions. Local governments with smaller industrial bases have clearer financial incentives and constraints, fewer nonfinancial interests in enterprises, and a greater capacity to monitor them. In China's vast public sector, the fastest growth in output and productivity has occurred where government ownership rights are clearest and most easily enforced, which enables officials to manage public industry as a diversified market-oriented firm.",
+		"container-title": "American Journal of Sociology",
+		"DOI": "10.1086/230725",
+		"ISSN": "0002-9602",
+		"issue": "2",
+		"language": "en-US",
+		"note": "publisher: The University of Chicago Press",
+		"page": "263-301",
+		"source": "journals.uchicago.edu (Atypon)",
+		"title": "Local Governments as Industrial Firms: An Organizational Analysis of China's Transitional Economy",
+		"title-short": "Local Governments as Industrial Firms",
+		"URL": "https://www.journals.uchicago.edu/doi/10.1086/230725",
+		"volume": "101",
+		"author": [
+			{
+				"family": "Walder",
+				"given": "Andrew G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "jnustss:7",
+		"type": "webpage",
+		"container-title": "中国社会科学网",
+		"language": "zh-CN",
+		"title": "开辟新时代政治学研究新境界",
+		"URL": "https://baijiahao.baidu.com/s?id=172415532686831880&wfr=spider&for=pc",
+		"author": [
+			{
+				"literal": "张树华"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					8
+				]
+			]
+		}
+	}
+]
