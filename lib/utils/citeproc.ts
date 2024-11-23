@@ -214,17 +214,22 @@ export function getRefTemplate(cslXml: CslXml) {
 }
 
 export function getField(cslXml: CslXml) {
-  return cslXml
-    .getNodesByName(cslXml.dataObj, "category")
-    .filter((node) => "field" in node.attrs)[0]?.attrs["field"];
+  return (
+    cslXml
+      .getNodesByName(cslXml.dataObj, "category")
+      .filter((node) => "field" in node.attrs)[0]?.attrs["field"] ??
+    "generic-base"
+  );
 }
 
 export function getCitationFormat(cslXml: CslXml) {
-  return cslXml
-    .getNodesByName(cslXml.dataObj, "category")
-    .filter((node) => "citation-format" in node.attrs)[0]?.attrs[
-    "citation-format"
-  ];
+  return (
+    cslXml
+      .getNodesByName(cslXml.dataObj, "category")
+      .filter((node) => "citation-format" in node.attrs)[0]?.attrs[
+      "citation-format"
+    ] ?? "numeric"
+  );
 }
 
 export function getSummary(cslXml: CslXml): string {
