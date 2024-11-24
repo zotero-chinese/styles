@@ -13,13 +13,13 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+  <div class="csl-entry">科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
   <div class="csl-entry">Food irradiation research and technology[M]. 2 版. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   <div class="csl-entry">面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   <div class="csl-entry">Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, 1971年8月23—25日, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">测绘科学, 2008, 33(5): 8-9.</div>
   <div class="csl-entry">Nature, 2014, 510: 356-362.</div>
-  <div class="csl-entry">第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
+  <div class="csl-entry">第 29 次中国互联网络发展状况统计报告[R]. 2012.</div>
   <div class="csl-entry">Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
 </div>
 
@@ -45,32 +45,32 @@
   <div class="csl-entry">历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.</div>
   <div class="csl-entry">信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.</div>
   <div class="csl-entry">物质结构[M]. 北京: 科学出版社, 2010.</div>
-  <div class="csl-entry">昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.</div>
+  <div class="csl-entry">昌平山水记：京东考古录[M]. 北京: 北京古籍出版社, 1982.</div>
   <div class="csl-entry">宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.</div>
   <div class="csl-entry">综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.</div>
   <div class="csl-entry">新闻道德论[D]. 北京: 中国人民大学出版社, 2012.</div>
   <div class="csl-entry">当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
-  <div class="csl-entry">中国造纸年鉴: 2003[M]. 北京: 中国轻工业出版社, 2003.</div>
+  <div class="csl-entry">中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.</div>
   <div class="csl-entry">Probability, random variables, and random signal principles[M]. 4 版. New York: McGraw-Hill, 2001.</div>
   <div class="csl-entry">Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 2000年2月1—4日[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">Food irradiation research and technology[M]. 2 版. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
+  <div class="csl-entry">周易外传：卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.</div>
   <div class="csl-entry">1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
-  <div class="csl-entry">蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
+  <div class="csl-entry">蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   <div class="csl-entry">政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   <div class="csl-entry">面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
-  <div class="csl-entry">Pathogenic properties of invading microorganism[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.</div>
-  <div class="csl-entry">Drinking water standards, regulations and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">Pathogenic properties of invading microorganisms[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.</div>
+  <div class="csl-entry">Drinking water standards, regulations, and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6 版. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   <div class="csl-entry">1984, 1(1). 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">1957(1-4). 北京: 北京图书馆, 1957.</div>
   <div class="csl-entry">1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">人民日报, 2013-01-12(2).</div>
   <div class="csl-entry">图书情报工作, 2008, 52(6): 6-12.</div>
-  <div class="csl-entry">中华移植杂志(电子版), 2010, 4(3): 225-228.</div>
+  <div class="csl-entry">中华移植杂志（电子版）, 2010, 4(3): 225-228.</div>
   <div class="csl-entry">测绘科学, 2008, 33(5): 8-9.</div>
   <div class="csl-entry">Science, 1998, 279(5359): 2063.</div>
   <div class="csl-entry">The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
@@ -79,14 +79,14 @@
   <div class="csl-entry">全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
   <div class="csl-entry">光折变自适应光外差探测方法: 01128777.2[P]. 2002-03-06.</div>
   <div class="csl-entry">Electronic watermarking method and system: US6915001[P]. 2005-07-05.</div>
-  <div class="csl-entry">第 29 次中国互联网络发展现状统计报告[R]. 2012.</div>
-  <div class="csl-entry">关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[A]. 2005.</div>
+  <div class="csl-entry">第 29 次中国互联网络发展状况统计报告[R]. 2012.</div>
+  <div class="csl-entry">关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号[A]. 2005.</div>
   <div class="csl-entry">Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
-  <div class="csl-entry">UNIMARC and metadata: Dublin core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+  <div class="csl-entry">UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">British Medical Journal, 1981, 283(6292): 628.</div>
   <div class="csl-entry">生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
-  <div class="csl-entry">A companion to California history[D]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
+  <div class="csl-entry">A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   <div class="csl-entry">The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.</div>
@@ -94,41 +94,41 @@
   <div class="csl-entry">中国图书馆学报, 1996(2): 24-29.</div>
   <div class="csl-entry">Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
   <div class="csl-entry">Columbia Law Review, 1996, 96: 903.</div>
-  <div class="csl-entry">Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
+  <div class="csl-entry">Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
   <div class="csl-entry">Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.</div>
   <div class="csl-entry">College &#38; Research Libraries, 1981, 42(6): 549-560.</div>
-  <div class="csl-entry">山西师范大学学报(社会科学版), 2010, 37(4): 147.</div>
-  <div class="csl-entry">从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
+  <div class="csl-entry">山西师范大学学报（社会科学版）, 2010, 37(4): 147.</div>
+  <div class="csl-entry">从几组声母的演变看天津方言形成的自然条件和历史背景[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
   <div class="csl-entry">Sedimentology, 1975, 22: 311.</div>
   <div class="csl-entry">Lethaia, 1975, 8(4): 339-360.</div>
-  <div class="csl-entry">科技书刊的总编(主编)的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
+  <div class="csl-entry">科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
   <div class="csl-entry">现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.</div>
   <div class="csl-entry">中国出版, 1998(5): 38-39.</div>
   <div class="csl-entry">在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
   <div class="csl-entry">全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
-  <div class="csl-entry">师伏堂日记: 第 4 册[M]. 北京: 北京图书馆出版社, 2009: 155.</div>
+  <div class="csl-entry">师伏堂日记: 第 4 册[M]. 北京: 国家图书馆, 2009: 155.</div>
   <div class="csl-entry">理论物理概论: 上[M]. 武汉: 武汉大学出版社, 2010: 112.</div>
-  <div class="csl-entry">新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.</div>
-  <div class="csl-entry">康熙字典: 巳集上: 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.</div>
+  <div class="csl-entry">康熙字典：巳集上：水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂, 1881.</div>
   <div class="csl-entry">中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.</div>
-  <div class="csl-entry">投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.</div>
+  <div class="csl-entry">投资台湾：大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.</div>
   <div class="csl-entry">战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.</div>
-  <div class="csl-entry">科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
-  <div class="csl-entry">高分子物理: 高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010: 119.</div>
+  <div class="csl-entry">科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+  <div class="csl-entry">高分子物理：高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010: 119.</div>
   <div class="csl-entry">Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.</div>
   <div class="csl-entry">Names of persons: National usages for entry in catalogues[M]. 3 版. London: IFLA International Office for UBC, 1977.</div>
-  <div class="csl-entry">Introduction to information systems[M]. 7 版. Burr Ridge, III: Irwin, 1994.</div>
+  <div class="csl-entry">Introduction to information systems[M]. 7 版. Burr Ridge, IL: Irwin, 1994.</div>
   <div class="csl-entry">Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">职工教育研究论文集[M]. 北京: 人民教育出版社, 1985.</div>
   <div class="csl-entry">台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012.</div>
-  <div class="csl-entry">综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
-  <div class="csl-entry">中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.</div>
+  <div class="csl-entry">综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
+  <div class="csl-entry">中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.</div>
   <div class="csl-entry">Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日[M]. New Delhi: Springer, 2014.</div>
-  <div class="csl-entry">国防白皮书: 中国武装力量的多样化运用[R]. 2013.</div>
+  <div class="csl-entry">国防白皮书：中国武装力量的多样化运用[R]. 2013.</div>
   <div class="csl-entry">人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
@@ -139,21 +139,21 @@
   <div class="csl-entry">轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24.</div>
   <div class="csl-entry">Compiler: US828402[P]. 2002-05-25.</div>
-  <div class="csl-entry">文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.</div>
-  <div class="csl-entry">广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
+  <div class="csl-entry">文献著录：第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.</div>
+  <div class="csl-entry">广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
   <div class="csl-entry">土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社, 1996: 2-3.</div>
-  <div class="csl-entry">Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S]. [2013].</div>
+  <div class="csl-entry">Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S]. [2013].</div>
   <div class="csl-entry">卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.</div>
   <div class="csl-entry">植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   <div class="csl-entry">中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
-  <div class="csl-entry">世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.</div>
-  <div class="csl-entry">宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
+  <div class="csl-entry">世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京: 中国标准出版社, 1988: 59-92.</div>
+  <div class="csl-entry">宋史卷三：本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
-  <div class="csl-entry">Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
+  <div class="csl-entry">Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   <div class="csl-entry">Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, 1971年8月23—25日, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">文献, 2013(1): 56-75.</div>
   <div class="csl-entry">图书情报工作, 2008, 52(6): 6-21.</div>
-  <div class="csl-entry">清华大学学报(自然科学版), 2012, 52(11): 1518-1523.</div>
+  <div class="csl-entry">清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">国土资源导刊, 2010, 7(10): 93.</div>
   <div class="csl-entry">Nature, 1992, 359(6396): 605-609.</div>
   <div class="csl-entry">Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
@@ -167,7 +167,7 @@
   <div class="csl-entry">出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
   <div class="csl-entry">化解医患矛盾需釜底抽薪[EB/OL]. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
   <div class="csl-entry">Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
-  <div class="csl-entry">Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">Dublin Core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -229,11 +229,11 @@
   <div class="csl-entry">平等阁笔记[M]. 上海: 有正书局.</div>
   <div class="csl-entry">马克思恩格斯全集: 卷 31[M]. 北京: 人民出版社, 1998.</div>
   <div class="csl-entry">走向新世界主义[M]//王宁, 薛晓源. 全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247-266.</div>
-  <div class="csl-entry">中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社, 1981: 325.</div>
-  <div class="csl-entry">师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997: 65.</div>
+  <div class="csl-entry">中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社, 1981.</div>
+  <div class="csl-entry">师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997.</div>
   <div class="csl-entry">当代文化哲学沉思[M]. 北京: 人民出版社, 1994.</div>
-  <div class="csl-entry">读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998: 2.</div>
-  <div class="csl-entry">为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997: 2.</div>
+  <div class="csl-entry">读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998.</div>
+  <div class="csl-entry">为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997.</div>
   <div class="csl-entry">古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
   <div class="csl-entry">墨余录[M]. 上海: 上海古籍出版社, 1985.</div>
   <div class="csl-entry">雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.</div>
@@ -253,12 +253,11 @@
   <div class="csl-entry">武汉大学学报, 2002(4): 512-513.</div>
   <div class="csl-entry">四川工人日报, 1986-08-22(2).</div>
   <div class="csl-entry">清议报(第1页).</div>
-  <div class="csl-entry">广益丛报, 1910-09-03(1-2).</div>
+  <div class="csl-entry">广益丛报, 1910-09-03(第1—2页).</div>
   <div class="csl-entry">民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">民国日报, 1933-08-11(第1张第4版).</div>
   <div class="csl-entry">罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
-  <div class="csl-entry">对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 2000年6月, 天津. 天津: 9.</div>
-  <div class="csl-entry">对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.</div>
+  <div class="csl-entry">对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会. 天津, 2000.</div>
   <div class="csl-entry">傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>
   <div class="csl-entry">党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
   <div class="csl-entry">关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
@@ -281,7 +280,7 @@
   <div class="csl-entry">侵权责任法[M]. 4 版. 中国人民大学出版社, 2016.</div>
   <div class="csl-entry">英美法原论[M]. 北京大学出版社, 2013.</div>
   <div class="csl-entry">法律的道德性[M]. 郑戈, 译. 商务印书馆, 2005.</div>
-  <div class="csl-entry">中国社会科学, 1993(1).</div>
+  <div class="csl-entry">中国社会科学, 1993(1): 83-103.</div>
   <div class="csl-entry">股份有限公司机关构造中的董事和董事会[M]//梁慧星. 民商法论丛: 卷 1. 法律出版社, 1994: 110.</div>
   <div class="csl-entry">风险法的风险[M]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社, 2012.</div>
   <div class="csl-entry">法制日报, 2000-05-21(2).</div>
@@ -303,6 +302,8 @@
   <div class="csl-entry">近代中国宪政历程[M]. 中国政法大学出版社, 2004.</div>
   <div class="csl-entry">精简机构是一场革命[M]//邓小平文选: 卷 2. 2 版. 人民出版社, 1994.</div>
   <div class="csl-entry">奥本海国际法: 上卷第一分册[M]. 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971.</div>
+  <div class="csl-entry">中国法律与中国社会[M]. 商务印书馆, 2010.</div>
+  <div class="csl-entry">中国法学, 2006(1): 144-164.</div>
   <div class="csl-entry">中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[A]. 2017.</div>
   <div class="csl-entry">中华人民共和国公司法[A]. 2005年修订. 2005.</div>
   <div class="csl-entry">中华人民共和国公司法[A]. 2013年修正. 2013.</div>

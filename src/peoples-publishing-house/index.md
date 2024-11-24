@@ -36,11 +36,11 @@
 ### 引注
 
 <sup>1</sup> Sunstein, Cass R., “Social Norms and Social Roles”, <i>Columbia Law Review</i>, Vol. 96, 1996, p.903.<br>
-<sup>2</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
+<sup>2</sup> Morris, Ian, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
 <sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
-<sup>4</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
-<sup>5</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
-<sup>6</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
+<sup>4</sup> Morris, Ian, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
+<sup>5</sup> Morris, Ian, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
+<sup>6</sup> Morris, Ian, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
 <sup>7</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版，第330页。<br>
 <sup>8</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版，第330页。<br>
 <sup>9</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版，第331页。<br>
@@ -55,48 +55,48 @@
 <sup>3</sup> 北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所：《历代王朝与民族宗教》，民族出版社2012年版。<br>
 <sup>4</sup> 全国信息与文献标准化技术委员会：《信息与文献 都柏林核心元数据元素集》，中国标准出版社2010年版。<br>
 <sup>5</sup> 徐光宪、王祥云：《物质结构》，科学出版社2010年版。<br>
-<sup>6</sup> 顾炎武：《昌平山水记: 京东考古录》，北京古籍出版社1992年版。<br>
+<sup>6</sup> 顾炎武：《昌平山水记：京东考古录》，北京古籍出版社1982年版。<br>
 <sup>7</sup> 王夫之：《宋论》刻本，湘乡曾国荃1865年版。<br>
 <sup>8</sup> 牛志明、斯温兰德、雷光春主编：《综合湿地管理国际研讨会论文集》，海洋出版社2012年版。<br>
 <sup>9</sup> 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，2001年。<br>
 <sup>10</sup> 杨保军：《新闻道德论》，中国人民大学出版社2012年版。<br>
 <sup>11</sup> 赵学功：《当代美国外交》，社会科学文献出版社2001年版。<br>
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，同济大学出版社2011年版。<br>
-<sup>13</sup> 中国造纸学会：《中国造纸年鉴: 2003》，中国轻工业出版社2003年版。<br>
+<sup>13</sup> 中国造纸学会：《中国造纸年鉴：2003》，中国轻工业出版社2003年版。<br>
 <sup>14</sup> Peebles, Peyton Z., Jr., <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill, 2001.<br>
 <sup>15</sup> Yufin, Sergey A., ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>16</sup> Baldock, Peter, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press, 2011.<br>
 <sup>17</sup> Fan, Xuetong and Sommers, Christopher H., <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
-<sup>18</sup> 王夫之主编：《周易外传: 卷 5》，《船山全书》第 6 册，岳麓书社2011年版。<br>
+<sup>18</sup> 王夫之主编：《周易外传：卷 5》，《船山全书》第 6 册，岳麓书社2011年版。<br>
 <sup>19</sup> 程根伟：《1998 年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，科学出版社1999年版。<br>
-<sup>20</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版。<br>
+<sup>20</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界的研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版。<br>
 <sup>21</sup> 马克思：《政治经济学批判》，马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，人民出版社2013年版。<br>
 <sup>22</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
-<sup>23</sup> Weinstein, L. and Swertz, M. N., “Pathogenic Properties of Invading Microorganism”, in Sodeman, William A., Jr. and Sodeman, William A., eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974.<br>
-<sup>24</sup> Roberson, J. Alan and Burneson, Eric G., “Drinking Water Standards, Regulations and Goals”, in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011.<br>
+<sup>23</sup> Weinstein, L. and Swartz, M. N., “Pathogenic Properties of Invading Microorganisms”, in Sodeman, William A., Jr. and Sodeman, William A., eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974.<br>
+<sup>24</sup> Roberson, J. Alan and Burneson, Eric G., “Drinking Water Standards, Regulations, and Goals”, in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，中华医学会湖北分会1984年版。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京图书馆1957年版。<br>
 <sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol. 1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年。<br>
-<sup>29</sup> 余建斌：《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》2013年1月12日。<br>
+<sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年。<br>
+<sup>29</sup> 余建斌：《我们的科技一直在追赶：访中国工程院院长周济》，《人民日报》2013年1月12日。<br>
 <sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
-<sup>31</sup> 李幼平、王莉：《循证医学研究方法: 附视频》，《中华移植杂志(电子版)》第4卷第3期，2010年。<br>
+<sup>31</sup> 李幼平、王莉：《循证医学研究方法：附视频》，《中华移植杂志（电子版）》第4卷第3期，2010年。<br>
 <sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>
 <sup>33</sup> Kanamori, H., “Shaking without Quaking”, <i>Science</i>, Vol. 279, No.5359, 1998, p.2063.<br>
-<sup>34</sup> Caplan, P., “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, Vol. 4, No.2, 1993, pp.61-66.<br>
+<sup>34</sup> Caplan, Priscilla, “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, Vol. 4, No.2, 1993, pp.61-66.<br>
 <sup>35</sup> Frese, Karen S., Katus, Hugo A., and Meder, Benjamin, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, Vol. 2, No.1, 2013, pp.378-398.<br>
 <sup>36</sup> Myburg, Alexander A., Grattapaglia, Dario, Tuskan, Gerald A., Hellsten, Uffe, Hayes, Richard D., Grimwood, Jane, Jenkins, Jerry, Lindquist, Erika, Tice, Hope, Bauer, Diane, Goodstein, David M., Dubchak, Inna, Poliakov, Alexandre, Mizrachi, Eshchar, Kullan, Anand R. K., Hussey, Steven G., Pinard, Desre, Merwe, Karen van der, Singh, Pooja, Jaarsveld, Ida van, Silva-Junior, Orzenil B., Togawa, Roberto C., Pappas, Marilia R., Faria, Danielle A., Sansaloni, Carolina P., Petroli, Cesar D., Yang, Xiaohan, Ranjan, Priya, Tschaplinski, Timothy J., Ye, Chu-Yu, Li, Ting, Sterck, Lieven, Vanneste, Kevin, Murat, Florent, Soler, Marçal, Clemente, Hélène San, Saidi, Naijib, Cassan-Wang, Hua, Dunand, Christophe, Hefer, Charles A., Bornberg-Bauer, Erich, Kersting, Anna R., Vining, Kelly, Amarasinghe, Vindhya, Ranik, Martin, Naithani, Sushma, Elser, Justin, Boyd, Alexander E., Liston, Aaron, Spatafora, Joseph W., Dharmwardhana, Palitha, Raja, Rajani, Sullivan, Christopher, Romanel, Elisson, Alves-Ferreira, Marcio, Külheim, Carsten, Foley, William, Carocha, Victor, Paiva, Jorge, Kudrna, David, Brommonschenkel, Sergio H., Pasquali, Giancarlo, Byrne, Margaret, Rigault, Philippe, Tibbits, Josquin, Spokevicius, Antanas, Jones, Rebecca C., Steane, Dorothy A., Vaillancourt, René E., Potts, Brad M., Joubert, Fourie, Barry, Kerrie, Pappas, Georgios J., Strauss, Steven H., Jaiswal, Pankaj, Grima-Pettenati, Jacqueline, Salse, Jérôme, Van de Peer, Yves, Rokhsar, Daniel S., and Schmutz, Jeremy, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, Vol. 510, June 2014, pp.356-362.<br>
 <sup>37</sup> 邓一刚：《全智能节电器》，2006年版。<br>
 <sup>38</sup> 西安电子科技大学：《光折变自适应光外差探测方法》，2002年版。<br>
-<sup>39</sup> Tachibana, Ryuki, Shimizu, Shuhichi, Kobayshi, Seiji, and Nakamura, Taiga, <i>Electronic Watermarking Method and System</i>, US, 2005.<br>
-<sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展现状统计报告》，2012年版。<br>
+<sup>39</sup> Tachibana, Ryuki, Shimizu, Shuhichi, Kobayashi, Seiji, and Nakamura, Taiga, <i>Electronic Watermarking Method and System</i>, US, 2005.<br>
+<sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年版。<br>
 <sup>41</sup> 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，2005年版。<br>
 <sup>42</sup> Bawden, D., Origins and Concepts of Digital Literacy, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.<br>
 <sup>43</sup> Online Computer Library Center, Inc., About OCLC: History of Cooperation, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.<br>
 <sup>44</sup> Hopkinson, A., UNIMARC and Metadata: Dublin Core, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.<br>
 <sup>45</sup> “Coffee Drinking and Cancer of the Pancreas”, <i>British Medical Journal</i>, Vol. 283, No.6292, 1981, p.628.<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学2000年版。<br>
-<sup>47</sup> Deverell, William and Igler, David, “A Companion to California History”, Doctoral Dissertation, John Wiley &#38; Sons, 2013.<br>
+<sup>47</sup> Deverell, William and Igler, David, eds., <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013.<br>
 <sup>48</sup> Baker, S. K. and Jackson, M. E., <i>The Future of Resource Sharing</i>, New York: The Haworth Press, 1995.<br>
 <sup>49</sup> Chernik, B. E., <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
 <sup>50</sup> 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海南出版社1996年版。<br>
@@ -104,66 +104,66 @@
 <sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
 <sup>53</sup> Dowler, Lawrence, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment”, <i>Journal of Library Administration</i>, Vol. 21, No.1/2, 1995, pp.5-26.<br>
 <sup>54</sup> Sunstein, Cass R., “Social Norms and Social Roles”, <i>Columbia Law Review</i>, Vol. 96, 1996, p.903.<br>
-<sup>55</sup> Morri, I., <i>Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
-<sup>56</sup> 罗杰斯：《西方文明史: 问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，东北财经大学出版社2011年版。<br>
+<sup>55</sup> Morris, Ian, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
+<sup>56</sup> 罗杰斯：《西方文明史：问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，东北财经大学出版社2011年版。<br>
 <sup>57</sup> 陈登原：《国史旧闻》第 1 卷，中华书局2000年版。<br>
 <sup>58</sup> Crane, Diana, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.<br>
 <sup>59</sup> Stieg, Margaret F., “The Information Needs of Historians”, <i>College &#38; Research Libraries</i>, Vol. 42, No.6, 1981, pp.549-560.<br>
-<sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报(社会科学版)》第37卷第4期，2010年。<br>
-<sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史条件》，曹志耘主编：《汉语方言的地理语言学研究》，商务印书馆2010年版。<br>
+<sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报（社会科学版）》第37卷第4期，2010年。<br>
+<sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史背景》，曹志耘主编：《汉语方言的地理语言学研究》，商务印书馆2010年版。<br>
 <sup>62</sup> Kennedy, William James and Garrison, Robert E., “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England”, <i>Sedimentology</i>, Vol. 22, 1975, p.311.<br>
 <sup>63</sup> Kennedy, William James and Garrison, Robert E., “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England”, <i>Lethaia</i>, Vol. 8, No.4, October 1975, pp.339-360.<br>
-<sup>64</sup> 张忠智：《科技书刊的总编(主编)的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会1997年版。<br>
+<sup>64</sup> 张忠智：《科技书刊的总编（主编）的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会1997年版。<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》修订本，商务印书馆1996年版。<br>
-<sup>66</sup> 刘彻东：《中国的青年刊物: 个性特色为本仁》，《中国出版》1998年第5期。<br>
+<sup>66</sup> 刘彻东：《中国的青年刊物：个性特色为本仁》，《中国出版》1998年第5期。<br>
 <sup>67</sup> 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，中国科学技术协会学会工作部1981年版。<br>
 <sup>68</sup> 张伯伟：《全唐五代诗格汇考》，江苏古籍出版社2002年版。<br>
-<sup>69</sup> 皮锡瑞：《师伏堂日记》第 4 册，北京图书馆出版社2009年版。<br>
+<sup>69</sup> 皮锡瑞：《师伏堂日记》第 4 册，国家图书馆2009年版。<br>
 <sup>70</sup> 胡承正、周详、缪灵：《理论物理概论》上，武汉大学出版社2010年版。<br>
-<sup>71</sup> 美国妇产科医师学会：《新生儿脑病和脑性瘫痪发病机制与病理生理》，段涛、杨慧霞译，人民卫生出版社2010年版。<br>
-<sup>72</sup> 《康熙字典: 巳集上: 水部》同文书局影印本，中华书局1962年版。<br>
+<sup>71</sup> 美国妇产科医师学会：《新生儿脑病和脑性瘫痪：发病机制与病理生理》，段涛、杨慧霞译，人民卫生出版社2010年版。<br>
+<sup>72</sup> 《康熙字典：巳集上：水部》同文书局影印本，中华书局1962年版。<br>
 <sup>73</sup> 汪昂：《增订本草备要》刻本四卷，老二酉堂1881年版。<br>
 <sup>74</sup> 蒋有绪、郭泉水、马娟、others：《中国森林群落分类及其群落特征》，科学出版社1998年版。<br>
-<sup>75</sup> 中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团：《投资台湾: 大陆企业赴台投资指南》，九州出版社2013年版。<br>
+<sup>75</sup> 中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团：《投资台湾：大陆企业赴台投资指南》，九州出版社2013年版。<br>
 <sup>76</sup> 罗斯基：《战前中国经济的增长》，唐巧天、毛立坤、姜修宪译，浙江大学出版社2009年版。<br>
-<sup>77</sup> 库恩：《科学革命的结构: 第 4 版》第2版，金吾伦、胡新和译，北京大学出版社2012年版。<br>
-<sup>78</sup> 侯文顺：《高分子物理: 高分子材料分析、选择与改性》，化学工业出版社2010年版。<br>
-<sup>79</sup> Crawford, W. and Gorman, M., <i>Future Libraries: Dreams, Madness, &#38; Reality</i>, Chicago: American Library Association, 1995.<br>
+<sup>77</sup> 库恩：《科学革命的结构：第 4 版》第2版，金吾伦、胡新和译，北京大学出版社2012年版。<br>
+<sup>78</sup> 侯文顺：《高分子物理：高分子材料分析、选择与改性》，化学工业出版社2010年版。<br>
+<sup>79</sup> Crawford, Walt and Gorman, Michael, <i>Future Libraries: Dreams, Madness, &#38; Reality</i>, Chicago: American Library Association, 1995.<br>
 <sup>80</sup> International Federation of Library Association and Institutions, <i>Names of Persons: National Usages for Entry in Catalogues</i>, London: IFLA International Office for UBC, 1977.<br>
-<sup>81</sup> O’Brien, J. A., <i>Introduction to Information Systems</i>, Burr Ridge, III: Irwin, 1994.<br>
+<sup>81</sup> O’Brien, J. A., <i>Introduction to Information Systems</i>, Burr Ridge, IL: Irwin, 1994.<br>
 <sup>82</sup> Kinchy, A., <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 2012.<br>
 <sup>83</sup> Praetzellis, Adrian, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011.<br>
 <sup>84</sup> 中国职工教育研究会主编：《职工教育研究论文集》，人民教育出版社1985年版。<br>
 <sup>85</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，九州出版社2012年版。<br>
-<sup>86</sup> 雷光春主编：《综合湿地管理: 综合湿地管理国际研讨会论文集》，海洋出版社2012年版。<br>
-<sup>87</sup> 陈志勇主编：《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》，经济科学出版社2011年版。<br>
+<sup>86</sup> 雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，海洋出版社2012年版。<br>
+<sup>87</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，经济科学出版社2011年版。<br>
 <sup>88</sup> Babu, B. V., Nagar, Atulya K., Deep, Kusum, Pant, Millie, Bansal, Jagdish Chand, Ray, Kanad, and Gupta, Umesh, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, New Delhi: Springer, 2014.<br>
-<sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书: 中国武装力量的多样化运用》，2013年版。<br>
+<sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年版。<br>
 <sup>90</sup> 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年版。<br>
 <sup>91</sup> Calkin, D., Ager, A., and Thompson, M., “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report”, 2011.<br>
 <sup>92</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Material”, Springfield: U.S. Department of Commerce National Information Service, 1990.<br>
 <sup>93</sup> World Health Organization, “Factors Regulating the Immune Response: Report of WHO Scientific Group”, Geneva: WHO, 1970.<br>
 <sup>94</sup> 马欢：《人类活动影响下海河流域典型区水循环变化分析》，清华大学2011年版。<br>
 <sup>95</sup> 吴云芳：《面向中文信息处理的现代汉语并列结构研究》，北京大学2003年版。<br>
-<sup>96</sup> Cairns, Bruce Richard, “Infrared Spectroscopic Studies on Solid Oxygen”, Ph.D. Dissertation, Univ. of California, 1965.<br>
+<sup>96</sup> Cairns, Bruce Richard, “Infrared Spectroscopic Studies on Solid Oxygen”, Doctoral Dissertation, Univ. of California, 1965.<br>
 <sup>97</sup> 张凯军：《轨道火车及高速轨道火车紧急安全制动辅助装置》，2012年版。<br>
 <sup>98</sup> 河北绿洲生态环境科技有限公司：《一种荒漠化地区生态植被综合培育种植方法》，2001年版。<br>
 <sup>99</sup> Koseki, Akira, Momose, Hiroyuki, Kawahito, Motohiro, and Komatsu, Hideaki, <i>Compiler</i>, US, 2002.<br>
-<sup>100</sup> 全国信息与文献标准化技术委员会：《文献著录: 第 4 部分 非书资料》，中国标准出版社2010年版。<br>
-<sup>101</sup> 全国广播电视标准化技术委员会：《广播电视音像资料编目规范: 第 2 部分 广播资料》，国家广播电影电视总局广播电视规划院2007年版。<br>
+<sup>100</sup> 全国信息与文献标准化技术委员会：《文献著录：第 4 部分 非书资料》，中国标准出版社2010年版。<br>
+<sup>101</sup> 全国广播电视标准化技术委员会：《广播电视音像资料编目规范：第 2 部分 广播资料》，国家广播电影电视总局广播电视规划院2007年版。<br>
 <sup>102</sup> 国家环境保护局科技标准司：《土壤环境质量标准》，中国标准出版社1996年版。<br>
 <sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.<br>
 <sup>104</sup> 《卷 39 乞致仕第一》，《苏魏公文集》下册，中华书局1988年版。<br>
 <sup>105</sup> 白书农：《植物开花研究》，李承森主编：《植物科学进展》，高等教育出版社1998年版。<br>
 <sup>106</sup> 汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社2002年版。<br>
 <sup>107</sup> 国家标准局信息分类编码研究所：《世界各国和地区名称代码》，中国标准出版社1988年版。<br>
-<sup>108</sup> 《宋史卷三: 本纪第三》，《宋史》第 1 册，中华书局1977年版。<br>
+<sup>108</sup> 《宋史卷三：本纪第三》，《宋史》第 1 册，中华书局1977年版。<br>
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版。<br>
-<sup>110</sup> Buseck, Peter R., Nord, Gordon L., Jr., and Veblen, David R., “Subsolidus Phenomena in Pyroxenes”, in <i>Pyroxense</i>, Washington, D.C.: Mineralogical Society of America, c1980.<br>
+<sup>110</sup> Buseck, Peter R., Nord, Gordon L., Jr., and Veblen, David R., “Subsolidus Phenomena in Pyroxenes”, in <i>Pyroxenes</i>, Washington, D.C.: Mineralogical Society of America, c1980.<br>
 <sup>111</sup> Fourney, M. E., “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.<br>
 <sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
 <sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
-<sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第52卷第11期，2012年。<br>
+<sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年。<br>
 <sup>115</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》第7卷第10期，2010年。<br>
 <sup>116</sup> Des Marais, David J., Strauss, Harald, Summons, Roger E., and Hayes, J. M., “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, <i>Nature</i>, Vol. 359, No.6396, October 1992, pp.605-609.<br>
 <sup>117</sup> Saito, M. and Miyazaki, K., “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, Vol. 57, No.5/6, 2006, pp.169-176.<br>
@@ -171,9 +171,9 @@
 <sup>119</sup> Franz, Annaliese K., Danielewicz, Megan A., Wong, Diana M., Anderson, Lisa A., and Boothe, Jordan R., “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, Vol. 8, 2013, pp.1053-1062.<br>
 <sup>120</sup> Park, Jung-Ran and Tosaka, Yuji, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, Vol. 48, No.8, 2010, pp.696-715.<br>
 <sup>121</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日。<br>
-<sup>122</sup> 张田勤：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年11月12日。<br>
+<sup>122</sup> 张田勘：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年11月12日。<br>
 <sup>123</sup> 傅刚、赵承、李佳路：《大风沙过后的思考》，《北京青年报》2000年1月12日。<br>
-<sup>124</sup> 刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭, 如何突围?》，《人民日报》2013年1月12日。<br>
+<sup>124</sup> 刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭，如何突围？》，《人民日报》2013年1月12日。<br>
 <sup>125</sup> 萧钰：《出版业信息化迈入快车道》，2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>，2002年4月15日。<br>
 <sup>126</sup> 李强：《化解医患矛盾需釜底抽薪》，2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>，2013年3月25日。<br>
 <sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, Pennsylvania Library Laws, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>，March 24, 2013.<br>
@@ -266,16 +266,15 @@
 <sup>37</sup> 《西南中委反对在宁召开五全会》，《民国日报》（上海）1933年8月11日。<br>
 <sup>38</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系2000年版。<br>
 <sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，全球化与亚太区域化国际研讨会论文，天津，2000年6月。<br>
-<sup>40</sup> 任东来：《对国际体制和国际制度的理解和翻译》，《全球化与亚太区域化国际研讨会论文集》，2000年版。<br>
-<sup>41</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案 1011—5961，中国第二历史档案馆藏。<br>
-<sup>42</sup> 《党外人士座谈会记录》，1950年7月，李劼人档案，中共四川省委统战部档案室藏。<br>
-<sup>43</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。<br>
-<sup>44</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
-<sup>45</sup> Brooks, Peter, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>46</sup> Polo, Marco, <i>The Travels of Marco Polo</i>, trans. Marsden, William, Hertfordshire: Cumberland House, 1997.<br>
-<sup>47</sup> Chamberlain, Heath B., “On the Search for Civil Society in China”, <i>Modern China</i>, Vol. 19, No.2, April 1993, pp.199-215.<br>
-<sup>48</sup> Schfield, R. S., “The Impact of Scarcity and Plenty on Population Change in England”, in Rotberg, R. I. and Rabb, T. K., eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983.<br>
-<sup>49</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
+<sup>40</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案 1011—5961，中国第二历史档案馆藏。<br>
+<sup>41</sup> 《党外人士座谈会记录》，1950年7月，李劼人档案，中共四川省委统战部档案室藏。<br>
+<sup>42</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。<br>
+<sup>43</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
+<sup>44</sup> Brooks, Peter, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
+<sup>45</sup> Polo, Marco, <i>The Travels of Marco Polo</i>, trans. Marsden, William, Hertfordshire: Cumberland House, 1997.<br>
+<sup>46</sup> Chamberlain, Heath B., “On the Search for Civil Society in China”, <i>Modern China</i>, Vol. 19, No.2, April 1993, pp.199-215.<br>
+<sup>47</sup> Schfield, R. S., “The Impact of Scarcity and Plenty on Population Change in England”, in Rotberg, R. I. and Rabb, T. K., eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983.<br>
+<sup>48</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -310,64 +309,66 @@
 <sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
 <sup>25</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》第2版第2卷，人民出版社1994年版。<br>
 <sup>26</sup> [英]劳特派特：《奥本海国际法》第8版上卷第一分册，王铁崖、陈体强译，商务印书馆1971年版。<br>
-<sup>27</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年版。<br>
-<sup>28</sup> 全国人大常委会：《中华人民共和国公司法》2005年修订，2005年版。<br>
-<sup>29</sup> 全国人大常委会：《中华人民共和国公司法》2013年修正，2013年版。<br>
-<sup>30</sup> 最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，1993年版。<br>
-<sup>31</sup> 全国人大常委会：《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年版。<br>
-<sup>32</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
-<sup>33</sup> 最高人民法院：《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》，2018年版。<br>
-<sup>34</sup> 国务院：《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，2018年版。<br>
-<sup>35</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。<br>
-<sup>36</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年版。<br>
-<sup>37</sup> 中国共产党中央委员会：《中共中央关于全面推进依法治国若干重大问题的决定》，2014年版。<br>
-<sup>38</sup> 《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》，2013年版。<br>
-<sup>39</sup> 《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年版。<br>
-<sup>40</sup> Barbara Ward, “Progress for a Small Planet”, <i>Harvard Business Review</i>, No.Sep.-Oct., 1979, p.89.<br>
-<sup>41</sup> Rosenthal, Andrew, “White House Tutors Kremlin in How a Presidency Works”, <i>New York Times</i>, June 1990, p.A1.<br>
-<sup>42</sup> Habermas, Jürgen, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, trans. Rehg, William, MIT Press, 1996.<br>
-<sup>43</sup> Horsley, Jamie, “Rule of Law in China: Incremental Progress”, in Bergsten, C. Fred, Gill, Bates, Lardy, Nicholas R., and Mitchell, Derek, eds., <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.<br>
-<sup>44</sup> <i>Department of Transportation Act</i>, vol. 80, 1966.<br>
-<sup>45</sup> <i>Administrative Procedure Act § 6</i>, vol. 5, 2006.<br>
-<sup>46</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol. 685, 1982.<br>
-<sup>47</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol. 467, 1984.<br>
-<sup>48</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol. 410, 1973.<br>
-<sup>49</sup> <i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i><br>
-<sup>50</sup> McDonell, Stephen, When China Began Streaming Trials Online, BBC News, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.<br>
-<sup>51</sup> Chevallier, Marc, <i>L’État de droit</i>, Paris: Montchrestien, 2003.<br>
-<sup>52</sup> Poisson, Marc, “Le droit de la mer”, <i>RGDIP</i>, 2015, pp.15-47.<br>
-<sup>53</sup> Badiou-Monferran, Claire, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle”, <i>La Licorne</i>, No.43, 1997, pp.75-94.<br>
-<sup>54</sup> Poisson, Marc, “Le droit de la mer”, in <i>Le droit des Océans</i>, 2015.<br>
-<sup>55</sup> Poisson, Marc, “Le droit de la mer en Méditerranée”, Congrès de Marseille, 2016.<br>
-<sup>56</sup> Poisson, Marc, “Le droit de la mer en Méditerranée”, 2016.<br>
-<sup>57</sup> Poisson, Marc, “Le droit de la mer appliqué à la Méditerranée”, Ph.D. Dissertation, l’Université de Marseille, 2016.<br>
-<sup>58</sup> Joyeux-Prunel, Béatrice, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.<br>
-<sup>59</sup> Vogel, Benjamin, “Rechtsgüterschutz und Normgeltung”, <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, Vol. 129, No.3, December 2017, pp.629-649.<br>
-<sup>60</sup> Würdinger, Markus, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Juristische Schulung</i>, No.3, 2012, pp.234-240.<br>
-<sup>61</sup> Fischer, Thomas, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>, September 2015.<br>
-<sup>62</sup> Roxin, Claus, <i>Strafrecht Allgemeiner Teil</i>, vol. 1, C. H. Beck, 2006.<br>
-<sup>63</sup> Dreier, Ralf and Paulson, Stanley, eds., <i>Rechtsphilosophie Studienausgabe</i>, Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
-<sup>64</sup> Schwab, Martin, in <i>Münchener Kommentar BGB</i>, 2013.<br>
-<sup>65</sup> Kaufmann, Arthur, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, in Baumann, Jürgen, ed., <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.<br>
-<sup>66</sup> Canaris, Claus-Wilhelm, “Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen”, 1990.<br>
-<sup>67</sup> <i>StGB</i>.<br>
-<sup>68</sup> <i>StPO</i>.<br>
-<sup>69</sup> <i>GG</i>.<br>
-<sup>70</sup> <i>Strauß-Karikatur, Kunstfreiheit</i>, vol. 75.<br>
-<sup>71</sup> 1999.<br>
-<sup>72</sup> 2000.<br>
-<sup>73</sup> Meidenbauer, Martin, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.<br>
-<sup>74</sup> 我妻栄, 新訂担保物権法, 有斐閣, 1971.<br>
-<sup>75</sup> 我妻栄 and 有泉亨, 民法総則物権法, 日本評論社, 1950.<br>
-<sup>76</sup> 於保不二雄, “付加物及び従物と抵当権”, 民商法雑誌, Vol. 29, No.5, 1954, p.1.<br>
-<sup>77</sup> 佐藤英明, “一時所得の要件に関する覚書”, in 金子宏, 中里実, and J.マーク・ラムザイヤー, eds., 租税法と市場, 有斐閣, 2014.<br>
-<sup>78</sup> 信玄公旗掛松事件, vol. 25, 1919.<br>
-<sup>79</sup> 約束手形金, 36卷6号, 1982.<br>
-<sup>80</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
-<sup>81</sup> <i>平成26年版犯罪白書</i>.<br>
-<sup>82</sup> ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022.<br>
-<sup>83</sup> 欧中坦：《千方百计上京城：清朝的京控》，谢鹏程译，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社1994年版。<br>
-<sup>84</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
+<sup>27</sup> 瞿同祖：《中国法律与中国社会》，商务印书馆2010年版。<br>
+<sup>28</sup> 崔国斌：《知识产权法官造法批判》，《中国法学》2006年第1期。<br>
+<sup>29</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年版。<br>
+<sup>30</sup> 全国人大常委会：《中华人民共和国公司法》2005年修订，2005年版。<br>
+<sup>31</sup> 全国人大常委会：《中华人民共和国公司法》2013年修正，2013年版。<br>
+<sup>32</sup> 最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，1993年版。<br>
+<sup>33</sup> 全国人大常委会：《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年版。<br>
+<sup>34</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
+<sup>35</sup> 最高人民法院：《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》，2018年版。<br>
+<sup>36</sup> 国务院：《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，2018年版。<br>
+<sup>37</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年版。<br>
+<sup>38</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年版。<br>
+<sup>39</sup> 中国共产党中央委员会：《中共中央关于全面推进依法治国若干重大问题的决定》，2014年版。<br>
+<sup>40</sup> 《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》，2013年版。<br>
+<sup>41</sup> 《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年版。<br>
+<sup>42</sup> Barbara Ward, “Progress for a Small Planet”, <i>Harvard Business Review</i>, No.Sep.-Oct., 1979, p.89.<br>
+<sup>43</sup> Rosenthal, Andrew, “White House Tutors Kremlin in How a Presidency Works”, <i>New York Times</i>, June 1990, p.A1.<br>
+<sup>44</sup> Habermas, Jürgen, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, trans. Rehg, William, MIT Press, 1996.<br>
+<sup>45</sup> Horsley, Jamie, “Rule of Law in China: Incremental Progress”, in Bergsten, C. Fred, Gill, Bates, Lardy, Nicholas R., and Mitchell, Derek, eds., <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.<br>
+<sup>46</sup> <i>Department of Transportation Act</i>, vol. 80, 1966.<br>
+<sup>47</sup> <i>Administrative Procedure Act § 6</i>, vol. 5, 2006.<br>
+<sup>48</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol. 685, 1982.<br>
+<sup>49</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol. 467, 1984.<br>
+<sup>50</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol. 410, 1973.<br>
+<sup>51</sup> <i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i><br>
+<sup>52</sup> McDonell, Stephen, When China Began Streaming Trials Online, BBC News, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.<br>
+<sup>53</sup> Chevallier, Marc, <i>L’État de droit</i>, Paris: Montchrestien, 2003.<br>
+<sup>54</sup> Poisson, Marc, “Le droit de la mer”, <i>RGDIP</i>, 2015, pp.15-47.<br>
+<sup>55</sup> Badiou-Monferran, Claire, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle”, <i>La Licorne</i>, No.43, 1997, pp.75-94.<br>
+<sup>56</sup> Poisson, Marc, “Le droit de la mer”, in <i>Le droit des Océans</i>, 2015.<br>
+<sup>57</sup> Poisson, Marc, “Le droit de la mer en Méditerranée”, Congrès de Marseille, 2016.<br>
+<sup>58</sup> Poisson, Marc, “Le droit de la mer en Méditerranée”, 2016.<br>
+<sup>59</sup> Poisson, Marc, “Le droit de la mer appliqué à la Méditerranée”, Thèse de doctorat, l’Université de Marseille, 2016.<br>
+<sup>60</sup> Joyeux-Prunel, Béatrice, L’histoire de l’art et le quantitatif, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.<br>
+<sup>61</sup> Vogel, Benjamin, “Rechtsgüterschutz und Normgeltung”, <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, Vol. 129, No.3, December 2017, pp.629-649.<br>
+<sup>62</sup> Würdinger, Markus, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Juristische Schulung</i>, No.3, 2012, pp.234-240.<br>
+<sup>63</sup> Fischer, Thomas, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>, September 2015.<br>
+<sup>64</sup> Roxin, Claus, <i>Strafrecht Allgemeiner Teil</i>, vol. 1, C. H. Beck, 2006.<br>
+<sup>65</sup> Dreier, Ralf and Paulson, Stanley, eds., <i>Rechtsphilosophie Studienausgabe</i>, Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
+<sup>66</sup> Schwab, Martin, in <i>Münchener Kommentar BGB</i>, 2013.<br>
+<sup>67</sup> Kaufmann, Arthur, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, in Baumann, Jürgen, ed., <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.<br>
+<sup>68</sup> Canaris, Claus-Wilhelm, “Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen”, 1990.<br>
+<sup>69</sup> <i>StGB</i>.<br>
+<sup>70</sup> <i>StPO</i>.<br>
+<sup>71</sup> <i>GG</i>.<br>
+<sup>72</sup> <i>Strauß-Karikatur, Kunstfreiheit</i>, vol. 75.<br>
+<sup>73</sup> 1999.<br>
+<sup>74</sup> 2000.<br>
+<sup>75</sup> Meidenbauer, Martin, Wissenschaftliches Publizieren, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.<br>
+<sup>76</sup> 我妻栄, 新訂担保物権法, 有斐閣, 1971.<br>
+<sup>77</sup> 我妻栄 and 有泉亨, 民法総則物権法, 日本評論社, 1950.<br>
+<sup>78</sup> 於保不二雄, “付加物及び従物と抵当権”, 民商法雑誌, Vol. 29, No.5, 1954, p.1.<br>
+<sup>79</sup> 佐藤英明, “一時所得の要件に関する覚書”, in 金子宏, 中里実, and J.マーク・ラムザイヤー, eds., 租税法と市場, 有斐閣, 2014.<br>
+<sup>80</sup> 信玄公旗掛松事件, vol. 25, 1919.<br>
+<sup>81</sup> 約束手形金, 36卷6号, 1982.<br>
+<sup>82</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
+<sup>83</sup> <i>平成26年版犯罪白書</i>.<br>
+<sup>84</sup> ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022.<br>
+<sup>85</sup> 欧中坦：《千方百计上京城：清朝的京控》，谢鹏程译，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社1994年版。<br>
+<sup>86</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

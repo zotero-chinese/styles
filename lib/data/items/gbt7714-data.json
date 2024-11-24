@@ -108,7 +108,7 @@
 		"language": "zh-CN",
 		"publisher": "北京古籍出版社",
 		"publisher-place": "北京",
-		"title": "昌平山水记: 京东考古录",
+		"title": "昌平山水记：京东考古录",
 		"title-short": "昌平山水记",
 		"author": [
 			{
@@ -116,7 +116,7 @@
 			}
 		],
 		"issued": {
-			"date-parts": [["1992"]]
+			"date-parts": [["1982"]]
 		}
 	},
 	{
@@ -253,7 +253,7 @@
 		"language": "zh-CN",
 		"publisher": "中国轻工业出版社",
 		"publisher-place": "北京",
-		"title": "中国造纸年鉴: 2003",
+		"title": "中国造纸年鉴：2003",
 		"title-short": "中国造纸年鉴",
 		"URL": "http://www.cadal.zju.edu.cn/book/view/25010080",
 		"author": [
@@ -367,7 +367,7 @@
 		"page": "1109",
 		"publisher": "岳麓书社",
 		"publisher-place": "长沙",
-		"title": "周易外传: 卷 5",
+		"title": "周易外传：卷 5",
 		"title-short": "周易外传",
 		"volume": "第 6 册",
 		"editor": [
@@ -415,7 +415,7 @@
 		"page": "56-114",
 		"publisher": "天津科学技术出版社",
 		"publisher-place": "天津",
-		"title": "蓟县震旦亚界研究",
+		"title": "蓟县震旦亚界的研究",
 		"author": [
 			{
 				"literal": "陈晋镳"
@@ -504,17 +504,17 @@
 		"container-title": "Pathologic physiology: mechanisms of disease",
 		"event-place": "Philadelphia",
 		"language": "en-US",
-		"page": "745-772",
+		"page": "457-472",
 		"publisher": "Saunders",
 		"publisher-place": "Philadelphia",
-		"title": "Pathogenic properties of invading microorganism",
+		"title": "Pathogenic properties of invading microorganisms",
 		"author": [
 			{
 				"family": "Weinstein",
 				"given": "L."
 			},
 			{
-				"family": "Swertz",
+				"family": "Swartz",
 				"given": "M. N."
 			}
 		],
@@ -543,7 +543,7 @@
 		"page": "1.1-1.36",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Drinking water standards, regulations and goals",
+		"title": "Drinking water standards, regulations, and goals",
 		"URL": "http://lib.myilibrary.com/Open.aspx?id=291430",
 		"author": [
 			{
@@ -630,7 +630,7 @@
 		"issue": "34",
 		"language": "zh-CN",
 		"page": "3219",
-		"title": "蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口",
+		"title": "蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口",
 		"title-short": "蓝田生物群",
 		"volume": "57",
 		"author": [
@@ -669,7 +669,7 @@
 		"container-title": "人民日报",
 		"language": "zh-CN",
 		"page": "2",
-		"title": "我们的科技一直在追赶: 访中国工程院院长周济",
+		"title": "我们的科技一直在追赶：访中国工程院院长周济",
 		"title-short": "我们的科技一直在追赶",
 		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm",
 		"author": [
@@ -709,11 +709,11 @@
 	{
 		"id": "gbt7714.04.4.2:04",
 		"type": "article-journal",
-		"container-title": "中华移植杂志(电子版)",
+		"container-title": "中华移植杂志（电子版）",
 		"issue": "3",
 		"language": "zh-CN",
 		"page": "225-228",
-		"title": "循证医学研究方法: 附视频",
+		"title": "循证医学研究方法：附视频",
 		"title-short": "循证医学研究方法",
 		"URL": "http://www.cqvip.com/Read/Read.aspx?id=36658332",
 		"volume": "4",
@@ -789,6 +789,7 @@
 		"id": "gbt7714.04.4.2:07",
 		"type": "article-journal",
 		"container-title": "The Public-Access Computer Systems Review",
+		"ISSN": "1048-6542",
 		"issue": "2",
 		"language": "en-US",
 		"page": "61-66",
@@ -797,7 +798,7 @@
 		"author": [
 			{
 				"family": "Caplan",
-				"given": "P."
+				"given": "Priscilla"
 			}
 		],
 		"issued": {
@@ -842,6 +843,7 @@
 		"type": "article-journal",
 		"container-title": "Nature",
 		"DOI": "10.1038/nature13308",
+		"ISSN": "1476-4687",
 		"language": "en-US",
 		"page": "356-362",
 		"title": "The genome of eucalyptus grandis",
@@ -1235,7 +1237,7 @@
 				"given": "Shuhichi"
 			},
 			{
-				"family": "Kobayshi",
+				"family": "Kobayashi",
 				"given": "Seiji"
 			},
 			{
@@ -1254,7 +1256,7 @@
 		"id": "gbt7714.04.6.2:01",
 		"type": "report",
 		"language": "zh-CN",
-		"title": "第 29 次中国互联网络发展现状统计报告",
+		"title": "第 29 次中国互联网络发展状况统计报告",
 		"URL": "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680",
 		"author": [
 			{
@@ -1272,7 +1274,8 @@
 		"id": "gbt7714.04.6.2:02",
 		"type": "legislation",
 		"language": "zh-CN",
-		"number": "京政办发[2005]37号",
+		"note": "type: regulation",
+		"number": "京政办发［2005］37 号",
 		"title": "关于转发北京市企业投资项目核准暂行实施办法的通知",
 		"URL": "http://china.findlaw.cn/fagui/p_1/39934.html",
 		"author": [
@@ -1326,7 +1329,7 @@
 		"id": "gbt7714.04.6.2:05",
 		"type": "webpage",
 		"language": "en-US",
-		"title": "UNIMARC and metadata: Dublin core",
+		"title": "UNIMARC and metadata: Dublin Core",
 		"title-short": "UNIMARC and metadata",
 		"URL": "http://archive.ifla.org/IV/ifla64/138-161e.htm",
 		"author": [
@@ -1360,6 +1363,7 @@
 		"id": "gbt7714.08.7:01",
 		"type": "thesis",
 		"event-place": "合肥",
+		"genre": "博士学位论文",
 		"language": "zh-CN",
 		"note": "DOI: 10.7666/d.y351065\npage: 17-18",
 		"publisher": "中国科学技术大学",
@@ -1380,16 +1384,16 @@
 	},
 	{
 		"id": "gbt7714.08.7:02",
-		"type": "thesis",
+		"type": "book",
 		"event-place": "New York",
-		"genre": "Doctoral dissertation",
+		"ISBN": "978-1-4051-6183-1",
 		"language": "en-US",
-		"note": "DOI: 10.1002/9781444305036.ch2\npage: 21-22",
+		"note": "DOI: 10.1002/9781444305036\npage: 21-22",
 		"publisher": "John Wiley & Sons",
 		"publisher-place": "New York",
 		"title": "A companion to California history",
-		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary",
-		"author": [
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary",
+		"editor": [
 			{
 				"family": "Deverell",
 				"given": "William"
@@ -1559,12 +1563,12 @@
 		"language": "en-US",
 		"publisher": "Farrar, Straus and Giroux",
 		"publisher-place": "New York",
-		"title": "Why the west rules for now: the patterns of history, and what they reveal about the future",
-		"title-short": "Why the west rules for now",
+		"title": "Why the West rules–for now: the patterns of history, and what they reveal about the future",
+		"title-short": "Why the West rules–for now",
 		"author": [
 			{
-				"family": "Morri",
-				"given": "I."
+				"family": "Morris",
+				"given": "Ian"
 			}
 		],
 		"issued": {
@@ -1579,7 +1583,7 @@
 		"note": "page: 15-16",
 		"publisher": "东北财经大学出版社",
 		"publisher-place": "大连",
-		"title": "西方文明史: 问题与源头",
+		"title": "西方文明史：问题与源头",
 		"title-short": "西方文明史",
 		"author": [
 			{
@@ -1646,7 +1650,7 @@
 	{
 		"id": "gbt7714.10.2.3:01a",
 		"type": "article-journal",
-		"container-title": "山西师范大学学报(社会科学版)",
+		"container-title": "山西师范大学学报（社会科学版）",
 		"issue": "4",
 		"language": "zh-CN",
 		"page": "147",
@@ -1676,7 +1680,7 @@
 		"page": "138",
 		"publisher": "商务印书馆",
 		"publisher-place": "北京",
-		"title": "从几组声母的演变看天津方言形成的自然条件和历史条件",
+		"title": "从几组声母的演变看天津方言形成的自然条件和历史背景",
 		"author": [
 			{
 				"literal": "王临惠"
@@ -1717,14 +1721,13 @@
 	{
 		"id": "gbt7714.10.2.3:02b",
 		"type": "article-journal",
+		"archive": "idunn.no (Atypon)",
 		"container-title": "Lethaia",
-		"DOI": "10.1111/j.1502-3931.1975.tb00940.x",
 		"ISSN": "0024-1164",
 		"issue": "4",
 		"language": "en-US",
 		"page": "339-360",
 		"title": "Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England",
-		"URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1502-3931.1975.tb00940.x",
 		"volume": "8",
 		"author": [
 			{
@@ -1749,7 +1752,7 @@
 		"page": "33-34",
 		"publisher": "中国科学技术期刊编辑学会学术委员会",
 		"publisher-place": "北京",
-		"title": "科技书刊的总编(主编)的角色要求",
+		"title": "科技书刊的总编（主编）的角色要求",
 		"author": [
 			{
 				"literal": "张忠智"
@@ -1789,7 +1792,7 @@
 		"issue": "5",
 		"language": "zh-CN",
 		"page": "38-39",
-		"title": "中国的青年刊物: 个性特色为本仁",
+		"title": "中国的青年刊物：个性特色为本仁",
 		"title-short": "中国的青年刊物",
 		"author": [
 			{
@@ -1848,7 +1851,7 @@
 		"event-place": "北京",
 		"language": "zh-CN",
 		"note": "page: 155",
-		"publisher": "北京图书馆出版社",
+		"publisher": "国家图书馆",
 		"publisher-place": "北京",
 		"title": "师伏堂日记",
 		"volume": "第 4 册",
@@ -1894,7 +1897,8 @@
 		"note": "page: 38-39",
 		"publisher": "人民卫生出版社",
 		"publisher-place": "北京",
-		"title": "新生儿脑病和脑性瘫痪发病机制与病理生理",
+		"title": "新生儿脑病和脑性瘫痪：发病机制与病理生理",
+		"title-short": "新生儿脑病和脑性瘫痪",
 		"author": [
 			{
 				"literal": "美国妇产科医师学会"
@@ -1921,7 +1925,7 @@
 		"note": "page: 50",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
-		"title": "康熙字典: 巳集上: 水部",
+		"title": "康熙字典：巳集上：水部",
 		"title-short": "康熙字典",
 		"issued": {
 			"date-parts": [["1962"]]
@@ -1979,7 +1983,7 @@
 		"language": "zh-CN",
 		"publisher": "九州出版社",
 		"publisher-place": "北京",
-		"title": "投资台湾: 大陆企业赴台投资指南",
+		"title": "投资台湾：大陆企业赴台投资指南",
 		"title-short": "投资台湾",
 		"author": [
 			{
@@ -2032,7 +2036,7 @@
 		"language": "zh-CN",
 		"publisher": "北京大学出版社",
 		"publisher-place": "北京",
-		"title": "科学革命的结构: 第 4 版",
+		"title": "科学革命的结构：第 4 版",
 		"title-short": "科学革命的结构",
 		"author": [
 			{
@@ -2059,7 +2063,7 @@
 		"note": "page: 119",
 		"publisher": "化学工业出版社",
 		"publisher-place": "北京",
-		"title": "高分子物理: 高分子材料分析、选择与改性",
+		"title": "高分子物理：高分子材料分析、选择与改性",
 		"title-short": "高分子物理",
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20111114-HGS-889-0228",
 		"author": [
@@ -2086,11 +2090,11 @@
 		"author": [
 			{
 				"family": "Crawford",
-				"given": "W."
+				"given": "Walt"
 			},
 			{
 				"family": "Gorman",
-				"given": "M."
+				"given": "Michael"
 			}
 		],
 		"issued": {
@@ -2120,10 +2124,10 @@
 		"id": "gbt7714.A.01:14",
 		"type": "book",
 		"edition": "7",
-		"event-place": "Burr Ridge, III",
+		"event-place": "Burr Ridge, IL",
 		"language": "en-US",
 		"publisher": "Irwin",
-		"publisher-place": "Burr Ridge, III",
+		"publisher-place": "Burr Ridge, IL",
 		"title": "Introduction to information systems",
 		"author": [
 			{
@@ -2223,7 +2227,7 @@
 		"language": "zh-CN",
 		"publisher": "海洋出版社",
 		"publisher-place": "北京",
-		"title": "综合湿地管理: 综合湿地管理国际研讨会论文集",
+		"title": "综合湿地管理：综合湿地管理国际研讨会论文集",
 		"title-short": "综合湿地管理",
 		"editor": [
 			{
@@ -2241,7 +2245,7 @@
 		"language": "zh-CN",
 		"publisher": "经济科学出版社",
 		"publisher-place": "北京",
-		"title": "中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集",
+		"title": "中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集",
 		"title-short": "中国财税文化价值研究",
 		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.201106228-BPO-889-0135&cult=CN",
 		"editor": [
@@ -2301,7 +2305,7 @@
 		"id": "gbt7714.A.03:01",
 		"type": "report",
 		"language": "zh-CN",
-		"title": "国防白皮书: 中国武装力量的多样化运用",
+		"title": "国防白皮书：中国武装力量的多样化运用",
 		"title-short": "国防白皮书",
 		"URL": "http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm",
 		"author": [
@@ -2410,6 +2414,7 @@
 		"id": "gbt7714.A.04:01",
 		"type": "thesis",
 		"event-place": "北京",
+		"genre": "博士学位论文",
 		"language": "zh-CN",
 		"note": "page: 27",
 		"publisher": "清华大学",
@@ -2432,6 +2437,7 @@
 		"id": "gbt7714.A.04:02",
 		"type": "thesis",
 		"event-place": "北京",
+		"genre": "博士学位论文",
 		"language": "zh-CN",
 		"publisher": "北京大学",
 		"publisher-place": "北京",
@@ -2453,6 +2459,7 @@
 		"id": "gbt7714.A.04:03",
 		"type": "thesis",
 		"event-place": "Berkeley",
+		"genre": "Doctoral dissertation",
 		"language": "en-US",
 		"number-of-pages": "224",
 		"publisher": "Univ. of California",
@@ -2552,7 +2559,7 @@
 		"number": "GB/T 3792.4—2009",
 		"publisher": "中国标准出版社",
 		"publisher-place": "北京",
-		"title": "文献著录: 第 4 部分 非书资料",
+		"title": "文献著录：第 4 部分 非书资料",
 		"title-short": "文献著录",
 		"author": [
 			{
@@ -2572,7 +2579,7 @@
 		"number": "GY/T 202.2—2007",
 		"publisher": "国家广播电影电视总局广播电视规划院",
 		"publisher-place": "北京",
-		"title": "广播电视音像资料编目规范: 第 2 部分 广播资料",
+		"title": "广播电视音像资料编目规范：第 2 部分 广播资料",
 		"title-short": "广播电视音像资料编目规范",
 		"author": [
 			{
@@ -2611,7 +2618,7 @@
 		"type": "standard",
 		"language": "en-US",
 		"number": "ISO 15836:2009",
-		"title": "Information and documentation—The Dublin core metadata element set",
+		"title": "Information and documentation—The Dublin Core metadata element set",
 		"title-short": "Information and documentation",
 		"URL": "http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142",
 		"accessed": {
@@ -2686,7 +2693,7 @@
 		"type": "standard",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "editor: 全国文献工作标准化委员会\ncontainer-title: 文献工作国家标准汇编: 3\npage: 59-92",
+		"note": "editor: 全国文献工作标准化委员会\ncontainer-title: 文献工作国家标准汇编：3\npage: 59-92",
 		"number": "GB/T 2659—1986",
 		"publisher": "中国标准出版社",
 		"publisher-place": "北京",
@@ -2709,7 +2716,7 @@
 		"page": "49",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
-		"title": "宋史卷三: 本纪第三",
+		"title": "宋史卷三：本纪第三",
 		"title-short": "宋史卷三",
 		"volume": "第 1 册",
 		"issued": {
@@ -2750,7 +2757,7 @@
 	{
 		"id": "gbt7714.A.07:07",
 		"type": "chapter",
-		"container-title": "Pyroxense",
+		"container-title": "Pyroxenes",
 		"event-place": "Washington, D.C.",
 		"language": "en-US",
 		"page": "117-211",
@@ -2815,7 +2822,7 @@
 	{
 		"id": "gbt7714.A.08:03",
 		"type": "article-journal",
-		"container-title": "清华大学学报(自然科学版)",
+		"container-title": "清华大学学报（自然科学版）",
 		"issue": "11",
 		"language": "zh-CN",
 		"page": "1518-1523",
@@ -2866,6 +2873,7 @@
 		"id": "gbt7714.A.08:05",
 		"type": "article-journal",
 		"container-title": "Nature",
+		"ISSN": "0028-0836",
 		"issue": "6396",
 		"language": "en-US",
 		"page": "605-609",
@@ -3044,7 +3052,7 @@
 		"title": "罪犯 DNA 库与生命伦理学计划",
 		"author": [
 			{
-				"literal": "张田勤"
+				"literal": "张田勘"
 			}
 		],
 		"issued": {
@@ -3081,7 +3089,7 @@
 		"type": "article-newspaper",
 		"container-title": "人民日报",
 		"language": "zh-CN",
-		"title": "雾霾来袭, 如何突围?",
+		"title": "雾霾来袭，如何突围？",
 		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm",
 		"author": [
 			{
@@ -3168,8 +3176,8 @@
 		"id": "gbt7714.A.10:04",
 		"type": "webpage",
 		"language": "en-US",
-		"title": "Dublin core metadata element set: version 1.1",
-		"title-short": "Dublin core metadata element set",
+		"title": "Dublin Core metadata element set: version 1.1",
+		"title-short": "Dublin Core metadata element set",
 		"URL": "http://dublincore.org/documents/dces/",
 		"accessed": {
 			"date-parts": [["2014", 6, 11]]

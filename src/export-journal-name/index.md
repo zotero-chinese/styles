@@ -72,7 +72,7 @@
   <div class="csl-entry">科学通报</div>
   <div class="csl-entry">人民日报</div>
   <div class="csl-entry">图书情报工作</div>
-  <div class="csl-entry">中华移植杂志(电子版)</div>
+  <div class="csl-entry">中华移植杂志（电子版）</div>
   <div class="csl-entry">测绘科学</div>
   <div class="csl-entry">Science</div>
   <div class="csl-entry">The Public-Access Computer Systems Review</div>
@@ -83,7 +83,7 @@
   <div class="csl-entry">Journal of Library Administration</div>
   <div class="csl-entry">Columbia Law Review</div>
   <div class="csl-entry">College &#38; Research Libraries</div>
-  <div class="csl-entry">山西师范大学学报(社会科学版)</div>
+  <div class="csl-entry">山西师范大学学报（社会科学版）</div>
   <div class="csl-entry">汉语方言的地理语言学研究</div>
   <div class="csl-entry">Sedimentology</div>
   <div class="csl-entry">Lethaia</div>
@@ -93,14 +93,14 @@
   <div class="csl-entry">苏魏公文集</div>
   <div class="csl-entry">植物科学进展</div>
   <div class="csl-entry">中国国家生物安全框架实施国际合作项目研讨会论文集</div>
-  <div class="csl-entry">文献工作国家标准汇编: 3</div>
+  <div class="csl-entry">文献工作国家标准汇编：3</div>
   <div class="csl-entry">宋史</div>
   <div class="csl-entry">汶川地震震害研究</div>
-  <div class="csl-entry">Pyroxense</div>
+  <div class="csl-entry">Pyroxenes</div>
   <div class="csl-entry">Symposium on Applications of Holography in Mechanics</div>
   <div class="csl-entry">文献</div>
   <div class="csl-entry">图书情报工作</div>
-  <div class="csl-entry">清华大学学报(自然科学版)</div>
+  <div class="csl-entry">清华大学学报（自然科学版）</div>
   <div class="csl-entry">国土资源导刊</div>
   <div class="csl-entry">Nature</div>
   <div class="csl-entry">Bulletin of the geological survey of Japan</div>
@@ -165,7 +165,6 @@
   <div class="csl-entry">广益丛报</div>
   <div class="csl-entry">民国日报</div>
   <div class="csl-entry">民国日报</div>
-  <div class="csl-entry">全球化与亚太区域化国际研讨会论文集</div>
   <div class="csl-entry">《文学遗产通讯》（网络版试刊）2006年第1期</div>
   <div class="csl-entry">Modern China</div>
   <div class="csl-entry">Hunger and history: The impact of changing food production and consumption pattern on society</div>
@@ -191,6 +190,7 @@
   <div class="csl-entry">QB</div>
   <div class="csl-entry">中国法学</div>
   <div class="csl-entry">邓小平文选</div>
+  <div class="csl-entry">中国法学</div>
   <div class="csl-entry">最高人民法院公报</div>
   <div class="csl-entry">Harvard Business Review</div>
   <div class="csl-entry">New York Times</div>

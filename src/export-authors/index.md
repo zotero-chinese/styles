@@ -62,7 +62,7 @@
   <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚</div>
   <div class="csl-entry">马克思</div>
   <div class="csl-entry">贾东琴, 柯平</div>
-  <div class="csl-entry">Weinstein L, Swertz M N</div>
+  <div class="csl-entry">Weinstein L, Swartz M N</div>
   <div class="csl-entry">Roberson J Alan, Burneson Eric G</div>
   <div class="csl-entry">中华医学会湖北分会</div>
   <div class="csl-entry">中国图书馆学会</div>
@@ -73,12 +73,12 @@
   <div class="csl-entry">李幼平, 王莉</div>
   <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏</div>
   <div class="csl-entry">Kanamori H</div>
-  <div class="csl-entry">Caplan P</div>
+  <div class="csl-entry">Caplan Priscilla</div>
   <div class="csl-entry">Frese Karen S, Katus Hugo A, Meder Benjamin</div>
   <div class="csl-entry">Myburg Alexander A, Grattapaglia Dario, Tuskan Gerald A, Hellsten Uffe, Hayes Richard D, Grimwood Jane, Jenkins Jerry, Lindquist Erika, Tice Hope, Bauer Diane, Goodstein David M, Dubchak Inna, Poliakov Alexandre, Mizrachi Eshchar, Kullan Anand R K, Hussey Steven G, Pinard Desre, van der Merwe Karen, Singh Pooja, van Jaarsveld Ida, Silva-Junior Orzenil B, Togawa Roberto C, Pappas Marilia R, Faria Danielle A, Sansaloni Carolina P, Petroli Cesar D, Yang Xiaohan, Ranjan Priya, Tschaplinski Timothy J, Ye Chu-Yu, Li Ting, Sterck Lieven, Vanneste Kevin, Murat Florent, Soler Marçal, Clemente Hélène San, Saidi Naijib, Cassan-Wang Hua, Dunand Christophe, Hefer Charles A, Bornberg-Bauer Erich, Kersting Anna R, Vining Kelly, Amarasinghe Vindhya, Ranik Martin, Naithani Sushma, Elser Justin, Boyd Alexander E, Liston Aaron, Spatafora Joseph W, Dharmwardhana Palitha, Raja Rajani, Sullivan Christopher, Romanel Elisson, Alves-Ferreira Marcio, Külheim Carsten, Foley William, Carocha Victor, Paiva Jorge, Kudrna David, Brommonschenkel Sergio H, Pasquali Giancarlo, Byrne Margaret, Rigault Philippe, Tibbits Josquin, Spokevicius Antanas, Jones Rebecca C, Steane Dorothy A, Vaillancourt René E, Potts Brad M, Joubert Fourie, Barry Kerrie, Pappas Georgios J, Strauss Steven H, Jaiswal Pankaj, Grima-Pettenati Jacqueline, Salse Jérôme, Van de Peer Yves, Rokhsar Daniel S, Schmutz Jeremy</div>
   <div class="csl-entry">邓一刚</div>
   <div class="csl-entry">西安电子科技大学</div>
-  <div class="csl-entry">Tachibana Ryuki, Shimizu Shuhichi, Kobayshi Seiji, Nakamura Taiga</div>
+  <div class="csl-entry">Tachibana Ryuki, Shimizu Shuhichi, Kobayashi Seiji, Nakamura Taiga</div>
   <div class="csl-entry">中国互联网络信息中心</div>
   <div class="csl-entry">北京市人民政府办公厅</div>
   <div class="csl-entry">Bawden D</div>
@@ -86,7 +86,7 @@
   <div class="csl-entry">Hopkinson A</div>
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">刘乃安</div>
-  <div class="csl-entry">Deverell William, Igler David</div>
+  <div class="csl-entry">佚名</div>
   <div class="csl-entry">Baker S K, Jackson M E</div>
   <div class="csl-entry">Chernik B E</div>
   <div class="csl-entry">尼葛洛庞帝</div>
@@ -94,7 +94,7 @@
   <div class="csl-entry">杨宗英</div>
   <div class="csl-entry">Dowler Lawrence</div>
   <div class="csl-entry">Sunstein Cass R</div>
-  <div class="csl-entry">Morri I</div>
+  <div class="csl-entry">Morris Ian</div>
   <div class="csl-entry">罗杰斯</div>
   <div class="csl-entry">陈登原</div>
   <div class="csl-entry">Crane Diana</div>
@@ -118,7 +118,7 @@
   <div class="csl-entry">罗斯基</div>
   <div class="csl-entry">库恩</div>
   <div class="csl-entry">侯文顺</div>
-  <div class="csl-entry">Crawford W, Gorman M</div>
+  <div class="csl-entry">Crawford Walt, Gorman Michael</div>
   <div class="csl-entry">International Federation of Library Association and Institutions</div>
   <div class="csl-entry">O’Brien J A</div>
   <div class="csl-entry">Kinchy A</div>
@@ -161,7 +161,7 @@
   <div class="csl-entry">Franz Annaliese K, Danielewicz Megan A, Wong Diana M, Anderson Lisa A, Boothe Jordan R</div>
   <div class="csl-entry">Park Jung-Ran, Tosaka Yuji</div>
   <div class="csl-entry">丁文详</div>
-  <div class="csl-entry">张田勤</div>
+  <div class="csl-entry">张田勘</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路</div>
   <div class="csl-entry">刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文</div>
   <div class="csl-entry">萧钰</div>
@@ -258,7 +258,6 @@
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">方明东</div>
   <div class="csl-entry">任东来</div>
-  <div class="csl-entry">任东来</div>
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">佚名</div>
   <div class="csl-entry">王明亮</div>
@@ -303,6 +302,8 @@
   <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗</div>
   <div class="csl-entry">邓小平</div>
   <div class="csl-entry">[英]劳特派特</div>
+  <div class="csl-entry">瞿同祖</div>
+  <div class="csl-entry">崔国斌</div>
   <div class="csl-entry">全国人大常委会</div>
   <div class="csl-entry">全国人大常委会</div>
   <div class="csl-entry">全国人大常委会</div>

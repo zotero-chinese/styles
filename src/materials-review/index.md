@@ -14,7 +14,7 @@
 
 <div class="csl-bib-body maxoffset-39 second-field-align-false hangingindent-true">
   <div class="csl-entry">1	2012 (in Chinese)
-    <div class="csl-block">库恩. <i>科学革命的结构: 第 4 版</i>. 金吾伦, 胡新和, 译. 2 版. 北京大学出版社, 2012.</div>
+    <div class="csl-block">库恩. <i>科学革命的结构：第 4 版</i>. 金吾伦, 胡新和, 译. 2 版. 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">2	Fan X, Sommers C H. <i>Food irradiation research and technology</i>. 2nd ed. Blackwell Publishing, Ames, Iowa, 2013, pp. 25-26.</div>
   <div class="csl-entry">3	2011, pp. 45-52 (in Chinese)
@@ -26,7 +26,7 @@
   </div>
   <div class="csl-entry">6	Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis. <i>Nature</i>, 2014, 510: 356-362.</div>
   <div class="csl-entry">7	2012 (in Chinese)
-    <div class="csl-block">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012.</div>
+    <div class="csl-block">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012.</div>
   </div>
   <div class="csl-entry">8	Bawden D. Origins and concepts of digital literacy. 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
 </div>
@@ -63,8 +63,8 @@
   <div class="csl-entry">5	2010 (in Chinese)
     <div class="csl-block">徐光宪, 王祥云. <i>物质结构</i>. 科学出版社, 2010.</div>
   </div>
-  <div class="csl-entry">6	1992 (in Chinese)
-    <div class="csl-block">顾炎武. <i>昌平山水记: 京东考古录</i>. 北京古籍出版社, 1992.</div>
+  <div class="csl-entry">6	1982 (in Chinese)
+    <div class="csl-block">顾炎武. <i>昌平山水记：京东考古录</i>. 北京古籍出版社, 1982.</div>
   </div>
   <div class="csl-entry">7	1865 (in Chinese)
     <div class="csl-block">王夫之. <i>宋论</i>. 刻本. 湘乡曾国荃, 1865.</div>
@@ -85,20 +85,20 @@
     <div class="csl-block">同济大学土木工程防灾国家重点实验室. <i>汶川地震灾害研究</i>. 同济大学出版社, 2011, pp. 5-6.</div>
   </div>
   <div class="csl-entry">13	2003 (in Chinese)
-    <div class="csl-block">中国造纸学会. <i>中国造纸年鉴: 2003</i>. 中国轻工业出版社, 2003.</div>
+    <div class="csl-block">中国造纸学会. <i>中国造纸年鉴：2003</i>. 中国轻工业出版社, 2003.</div>
   </div>
   <div class="csl-entry">14	Peebles P Z Jr. <i>Probability, random variables, and random signal principles</i>. 4th ed. McGraw-Hill, New York, 2001.</div>
   <div class="csl-entry">15	Yufin S A. <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Moscow, Russia, February 1–4, 2000. A. A. Balkema, Rotterdam, 2000.</div>
   <div class="csl-entry">16	Baldock P. <i>Developing early childhood services: Past, present and future</i>. Open University Press, Rotterdam, 2011, pp. 105.</div>
   <div class="csl-entry">17	Fan X, Sommers C H. <i>Food irradiation research and technology</i>. 2nd ed. Blackwell Publishing, Ames, Iowa, 2013, pp. 25-26.</div>
   <div class="csl-entry">18	In. 2011, pp. 1109 (in Chinese)
-    <div class="csl-block">周易外传: 卷 5. 见: 船山全书: 第 6 册. 岳麓书社, 2011, pp. 1109.</div>
+    <div class="csl-block">周易外传：卷 5. 见: 船山全书: 第 6 册. 岳麓书社, 2011, pp. 1109.</div>
   </div>
   <div class="csl-entry">19	In. 1999, pp. 32-36 (in Chinese)
     <div class="csl-block">程根伟. 1998 年长江洪水的成因与减灾对策. 见: 长江流域洪涝灾害与科技对策. 科学出版社, 1999, pp. 32-36.</div>
   </div>
   <div class="csl-entry">20	In. 1980, pp. 56-114 (in Chinese)
-    <div class="csl-block">陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究. 见: 中国震旦亚界. 天津科学技术出版社, 1980, pp. 56-114.</div>
+    <div class="csl-block">陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究. 见: 中国震旦亚界. 天津科学技术出版社, 1980, pp. 56-114.</div>
   </div>
   <div class="csl-entry">21	In. 2013, pp. 302 (in Chinese)
     <div class="csl-block">马克思. 政治经济学批判. 见: 马克思恩格斯全集: 第 35 卷. 人民出版社, 2013, pp. 302.</div>
@@ -106,8 +106,8 @@
   <div class="csl-entry">22	2011, pp. 45-52 (in Chinese)
     <div class="csl-block">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会年会论文集: 2011 年卷. 国家图书馆出版社, 2011, pp. 45-52.</div>
   </div>
-  <div class="csl-entry">23	Weinstein L, Swertz M N. Pathogenic properties of invading microorganism. In: Pathologic physiology: mechanisms of disease. Saunders, Philadelphia, 1974, pp. 745-772.</div>
-  <div class="csl-entry">24	Roberson J A, Burneson E G. Drinking water standards, regulations and goals. In: Water quality &#38; treatment: a handbook on drinking water. 6th ed. McGraw-Hill, New York, 2011, pp. 1.1-1.36.</div>
+  <div class="csl-entry">23	Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms. In: Pathologic physiology: mechanisms of disease. Saunders, Philadelphia, 1974, pp. 457-472.</div>
+  <div class="csl-entry">24	Roberson J A, Burneson E G. Drinking water standards, regulations, and goals. In: Water quality &#38; treatment: a handbook on drinking water. 6th ed. McGraw-Hill, New York, 2011, pp. 1.1-1.36.</div>
   <div class="csl-entry">25	1984, 1(1). 1984 (in Chinese)
     <div class="csl-block">中华医学会湖北分会. 临床内科杂志. 1984, 1(1). 中华医学会湖北分会, 1984.</div>
   </div>
@@ -116,16 +116,16 @@
   </div>
   <div class="csl-entry">27	American Association for the Advancement of Science. Science. 1883, 1(1). American Association for the Advancement of Science, Washington, D.C., 1883.</div>
   <div class="csl-entry">28	2012, 57(34): 3219 (in Chinese)
-    <div class="csl-block">袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口. <i>科学通报</i>, 2012, 57(34): 3219.</div>
+    <div class="csl-block">袁训来, 陈哲, 肖书海, 等. 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口. <i>科学通报</i>, 2012, 57(34): 3219.</div>
   </div>
   <div class="csl-entry">29	2013-01-12(2) (in Chinese)
-    <div class="csl-block">余建斌. 我们的科技一直在追赶: 访中国工程院院长周济. <i>人民日报</i>, 2013-01-12(2).</div>
+    <div class="csl-block">余建斌. 我们的科技一直在追赶：访中国工程院院长周济. <i>人民日报</i>, 2013-01-12(2).</div>
   </div>
   <div class="csl-entry">30	2008, 52(6): 6-12 (in Chinese)
     <div class="csl-block">李炳穆. 韩国图书馆法. <i>图书情报工作</i>, 2008, 52(6): 6-12.</div>
   </div>
   <div class="csl-entry">31	2010, 4(3): 225-228 (in Chinese)
-    <div class="csl-block">李幼平, 王莉. 循证医学研究方法: 附视频. <i>中华移植杂志(电子版)</i>, 2010, 4(3): 225-228.</div>
+    <div class="csl-block">李幼平, 王莉. 循证医学研究方法：附视频. <i>中华移植杂志（电子版）</i>, 2010, 4(3): 225-228.</div>
   </div>
   <div class="csl-entry">32	2008, 33(5): 8-9 (in Chinese)
     <div class="csl-block">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现. <i>测绘科学</i>, 2008, 33(5): 8-9.</div>
@@ -140,21 +140,21 @@
   <div class="csl-entry">38	01128777.2, 2002 (in Chinese)
     <div class="csl-block">西安电子科技大学. 光折变自适应光外差探测方法. 中国专利, 01128777.2, 2002.</div>
   </div>
-  <div class="csl-entry">39	Tachibana R, Shimizu S, Kobayshi S, et al. Electronic watermarking method and system. US patent, US6915001, 2005.</div>
+  <div class="csl-entry">39	Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system. US patent, US6915001, 2005.</div>
   <div class="csl-entry">40	2012 (in Chinese)
-    <div class="csl-block">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 2012.</div>
+    <div class="csl-block">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012.</div>
   </div>
-  <div class="csl-entry">41	京政办发[2005]37号. 2005 (in Chinese)
-    <div class="csl-block">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号. 2005.</div>
+  <div class="csl-entry">41	京政办发［2005］37 号. 2005 (in Chinese)
+    <div class="csl-block">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号. 2005.</div>
   </div>
   <div class="csl-entry">42	Bawden D. Origins and concepts of digital literacy. 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">43	Online Computer Library Center, Inc. About OCLC: History of cooperation. [2012]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
-  <div class="csl-entry">44	Hopkinson A. UNIMARC and metadata: Dublin core. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+  <div class="csl-entry">44	Hopkinson A. UNIMARC and metadata: Dublin Core. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry">45	Coffee drinking and cancer of the pancreas. <i>British Medical Journal</i>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">46	
     <div class="csl-block">刘乃安. 生物质材料热解失重动力学及其分析方法研究. 博士学位论文, 中国科学技术大学.</div>
   </div>
-  <div class="csl-entry">47	Deverell W, Igler D. A companion to California history. Doctoral dissertation, John Wiley &#38; Sons, New York.</div>
+  <div class="csl-entry">47	Deverell W, Igler D. <i>A companion to California history</i>. John Wiley &#38; Sons, New York, 2013, pp. 21-22.</div>
   <div class="csl-entry">48	Baker S K, Jackson M E. <i>The future of resource sharing</i>. The Haworth Press, New York, 1995.</div>
   <div class="csl-entry">49	Chernik B E. <i>Introduction to library services for library technicians</i>. Libraries Unlimited, Inc., Littleton, Colo., 1982.</div>
   <div class="csl-entry">50	1996 (in Chinese)
@@ -168,9 +168,9 @@
   </div>
   <div class="csl-entry">53	Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. <i>Journal of Library Administration</i>, 1995, 21(1/2): 5-26.</div>
   <div class="csl-entry">54	Sunstein C R. Social norms and social roles. <i>Columbia Law Review</i>, 1996, 96: 903.</div>
-  <div class="csl-entry">55	Morri I. <i>Why the west rules for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux, New York, 2010.</div>
+  <div class="csl-entry">55	Morris I. <i>Why the West rules–for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux, New York, 2010.</div>
   <div class="csl-entry">56	2011, pp. 15-16 (in Chinese)
-    <div class="csl-block">罗杰斯. <i>西方文明史: 问题与源头</i>. 潘惠霞, 魏婧, 杨艳, 等, 译. 东北财经大学出版社, 2011, pp. 15-16.</div>
+    <div class="csl-block">罗杰斯. <i>西方文明史：问题与源头</i>. 潘惠霞, 魏婧, 杨艳, 等, 译. 东北财经大学出版社, 2011, pp. 15-16.</div>
   </div>
   <div class="csl-entry">57	2000, pp. 29 (in Chinese)
     <div class="csl-block">陈登原. <i>国史旧闻</i>: 第 1 卷. 中华书局, 2000, pp. 29.</div>
@@ -178,21 +178,21 @@
   <div class="csl-entry">58	Crane D. <i>Invisible college</i>. Univ. of Chicago Press, Chicago, 1972.</div>
   <div class="csl-entry">59	Stieg M F. The information needs of historians. <i>College &#38; Research Libraries</i>, 1981, 42(6): 549-560.</div>
   <div class="csl-entry">60	2010, 37(4): 147 (in Chinese)
-    <div class="csl-block">王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议. <i>山西师范大学学报(社会科学版)</i>, 2010, 37(4): 147.</div>
+    <div class="csl-block">王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议. <i>山西师范大学学报（社会科学版）</i>, 2010, 37(4): 147.</div>
   </div>
   <div class="csl-entry">61	2010, pp. 138 (in Chinese)
-    <div class="csl-block">王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件. 见: 汉语方言的地理语言学研究. 商务印书馆, 2010, pp. 138.</div>
+    <div class="csl-block">王临惠. 从几组声母的演变看天津方言形成的自然条件和历史背景. 见: 汉语方言的地理语言学研究. 商务印书馆, 2010, pp. 138.</div>
   </div>
   <div class="csl-entry">62	Kennedy W J, Garrison R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. <i>Sedimentology</i>, 1975, 22: 311.</div>
   <div class="csl-entry">63	Kennedy W J, Garrison R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, 1975, 8(4): 339-360.</div>
   <div class="csl-entry">64	1997, pp. 33-34 (in Chinese)
-    <div class="csl-block">张忠智. 科技书刊的总编(主编)的角色要求. 见: 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 中国科学技术期刊编辑学会学术委员会, 1997, pp. 33-34.</div>
+    <div class="csl-block">张忠智. 科技书刊的总编（主编）的角色要求. 见: 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 中国科学技术期刊编辑学会学术委员会, 1997, pp. 33-34.</div>
   </div>
   <div class="csl-entry">65	1996 (in Chinese)
     <div class="csl-block">中国社会科学院语言研究所词典编辑室. <i>现代汉语词典</i>. 修订本. 商务印书馆, 1996.</div>
   </div>
   <div class="csl-entry">66	1998(5): 38-39 (in Chinese)
-    <div class="csl-block">刘彻东. 中国的青年刊物: 个性特色为本仁. <i>中国出版</i>, 1998(5): 38-39.</div>
+    <div class="csl-block">刘彻东. 中国的青年刊物：个性特色为本仁. <i>中国出版</i>, 1998(5): 38-39.</div>
   </div>
   <div class="csl-entry">67	1981, pp. 2-10 (in Chinese)
     <div class="csl-block">裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话. 见: 中国科协学术期刊编辑工作经验交流会资料选. 中国科学技术协会学会工作部, 1981, pp. 2-10.</div>
@@ -201,16 +201,16 @@
     <div class="csl-block">张伯伟. <i>全唐五代诗格汇考</i>. 江苏古籍出版社, 2002, pp. 288.</div>
   </div>
   <div class="csl-entry">69	2009, pp. 155 (in Chinese)
-    <div class="csl-block">皮锡瑞. <i>师伏堂日记</i>: 第 4 册. 北京图书馆出版社, 2009, pp. 155.</div>
+    <div class="csl-block">皮锡瑞. <i>师伏堂日记</i>: 第 4 册. 国家图书馆, 2009, pp. 155.</div>
   </div>
   <div class="csl-entry">70	2010, pp. 112 (in Chinese)
     <div class="csl-block">胡承正, 周详, 缪灵. <i>理论物理概论</i>: 上. 武汉大学出版社, 2010, pp. 112.</div>
   </div>
   <div class="csl-entry">71	2010, pp. 38-39 (in Chinese)
-    <div class="csl-block">美国妇产科医师学会. <i>新生儿脑病和脑性瘫痪发病机制与病理生理</i>. 段涛, 杨慧霞, 译. 人民卫生出版社, 2010, pp. 38-39.</div>
+    <div class="csl-block">美国妇产科医师学会. <i>新生儿脑病和脑性瘫痪：发病机制与病理生理</i>. 段涛, 杨慧霞, 译. 人民卫生出版社, 2010, pp. 38-39.</div>
   </div>
   <div class="csl-entry">72	1962, pp. 50 (in Chinese)
-    <div class="csl-block"><i>康熙字典: 巳集上: 水部</i>. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
+    <div class="csl-block"><i>康熙字典：巳集上：水部</i>. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
   </div>
   <div class="csl-entry">73	1881 (in Chinese)
     <div class="csl-block">汪昂. <i>增订本草备要</i>: 四卷. 刻本. 老二酉堂, 1881.</div>
@@ -219,20 +219,20 @@
     <div class="csl-block">蒋有绪, 郭泉水, 马娟, 等. <i>中国森林群落分类及其群落特征</i>. 科学出版社, 1998.</div>
   </div>
   <div class="csl-entry">75	2013 (in Chinese)
-    <div class="csl-block">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. <i>投资台湾: 大陆企业赴台投资指南</i>. 九州出版社, 2013.</div>
+    <div class="csl-block">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. <i>投资台湾：大陆企业赴台投资指南</i>. 九州出版社, 2013.</div>
   </div>
   <div class="csl-entry">76	2009 (in Chinese)
     <div class="csl-block">罗斯基. <i>战前中国经济的增长</i>. 唐巧天, 毛立坤, 姜修宪, 译. 浙江大学出版社, 2009.</div>
   </div>
   <div class="csl-entry">77	2012 (in Chinese)
-    <div class="csl-block">库恩. <i>科学革命的结构: 第 4 版</i>. 金吾伦, 胡新和, 译. 2 版. 北京大学出版社, 2012.</div>
+    <div class="csl-block">库恩. <i>科学革命的结构：第 4 版</i>. 金吾伦, 胡新和, 译. 2 版. 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">78	2010, pp. 119 (in Chinese)
-    <div class="csl-block">侯文顺. <i>高分子物理: 高分子材料分析、选择与改性</i>. 化学工业出版社, 2010, pp. 119.</div>
+    <div class="csl-block">侯文顺. <i>高分子物理：高分子材料分析、选择与改性</i>. 化学工业出版社, 2010, pp. 119.</div>
   </div>
   <div class="csl-entry">79	Crawford W, Gorman M. <i>Future libraries: Dreams, madness, &#38; reality</i>. American Library Association, Chicago, 1995.</div>
   <div class="csl-entry">80	International Federation of Library Association and Institutions. <i>Names of persons: National usages for entry in catalogues</i>. 3rd ed. IFLA International Office for UBC, London, 1977.</div>
-  <div class="csl-entry">81	O’Brien J A. <i>Introduction to information systems</i>. 7th ed. Irwin, Burr Ridge, III, 1994.</div>
+  <div class="csl-entry">81	O’Brien J A. <i>Introduction to information systems</i>. 7th ed. Irwin, Burr Ridge, IL, 1994.</div>
   <div class="csl-entry">82	Kinchy A. <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press, Cambridge, Mass., 2012, pp. 50.</div>
   <div class="csl-entry">83	Praetzellis A. <i>Death by theory: a tale of mystery and archaeological theory</i>. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, pp. 13.</div>
   <div class="csl-entry">84	1985 (in Chinese)
@@ -242,14 +242,14 @@
     <div class="csl-block">中国社会科学院台湾史研究中心. <i>台湾光复六十五周年暨抗战史实学术研讨会论文集</i>. 九州出版社, 2012.</div>
   </div>
   <div class="csl-entry">86	2012 (in Chinese)
-    <div class="csl-block">雷光春. <i>综合湿地管理: 综合湿地管理国际研讨会论文集</i>. 海洋出版社, 2012.</div>
+    <div class="csl-block">雷光春. <i>综合湿地管理：综合湿地管理国际研讨会论文集</i>. 海洋出版社, 2012.</div>
   </div>
   <div class="csl-entry">87	2011 (in Chinese)
-    <div class="csl-block">陈志勇. <i>中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集</i>. 经济科学出版社, 2011.</div>
+    <div class="csl-block">陈志勇. <i>中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集</i>. 经济科学出版社, 2011.</div>
   </div>
   <div class="csl-entry">88	Babu B V, Nagar A K, Deep K, et al. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, December 28–30, 2012. Springer, New Delhi, 2014.</div>
   <div class="csl-entry">89	2013 (in Chinese)
-    <div class="csl-block">中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用. 2013.</div>
+    <div class="csl-block">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用. 2013.</div>
   </div>
   <div class="csl-entry">90	7178999X-2006BAK04A10/10.2013. 2013 (in Chinese)
     <div class="csl-block">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013. 2013.</div>
@@ -263,7 +263,7 @@
   <div class="csl-entry">95	
     <div class="csl-block">吴云芳. 面向中文信息处理的现代汉语并列结构研究. 博士学位论文, 北京大学.</div>
   </div>
-  <div class="csl-entry">96	Cairns B R. Infrared spectroscopic studies on solid oxygen. Ph.D. Thesis, Univ. of California, Berkeley.</div>
+  <div class="csl-entry">96	Cairns B R. Infrared spectroscopic studies on solid oxygen. Doctoral dissertation, Univ. of California, Berkeley.</div>
   <div class="csl-entry">97	201220158825.2, 2012 (in Chinese)
     <div class="csl-block">张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置. 中国专利, 201220158825.2, 2012.</div>
   </div>
@@ -272,15 +272,15 @@
   </div>
   <div class="csl-entry">99	Koseki A, Momose H, Kawahito M, et al. Compiler. US patent, US828402, 2002.</div>
   <div class="csl-entry">100	GB/T 3792.4—2009. 2010, pp. 3 (in Chinese)
-    <div class="csl-block">全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009. 中国标准出版社, 2010, pp. 3.</div>
+    <div class="csl-block">全国信息与文献标准化技术委员会. 文献著录：第 4 部分 非书资料: GB/T 3792.4—2009. 中国标准出版社, 2010, pp. 3.</div>
   </div>
   <div class="csl-entry">101	GY/T 202.2—2007. 2007, pp. 1 (in Chinese)
-    <div class="csl-block">全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007. 国家广播电影电视总局广播电视规划院, 2007, pp. 1.</div>
+    <div class="csl-block">全国广播电视标准化技术委员会. 广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007. 国家广播电影电视总局广播电视规划院, 2007, pp. 1.</div>
   </div>
   <div class="csl-entry">102	GB 15616—1995. 1996, pp. 2-3 (in Chinese)
     <div class="csl-block">国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995. 中国标准出版社, 1996, pp. 2-3.</div>
   </div>
-  <div class="csl-entry">103	Information and documentation—The Dublin core metadata element set: ISO 15836:2009. [2013].</div>
+  <div class="csl-entry">103	Information and documentation—The Dublin Core metadata element set: ISO 15836:2009. [2013].</div>
   <div class="csl-entry">104	In. 1988, pp. 590 (in Chinese)
     <div class="csl-block">卷 39 乞致仕第一. 见: 苏魏公文集: 下册. 中华书局, 1988, pp. 590.</div>
   </div>
@@ -291,15 +291,15 @@
     <div class="csl-block">汪学军. 中国农业转基因生物研究进展与安全管理. 见: 中国国家生物安全框架实施国际合作项目研讨会论文集. 中国环境科学出版社, 2002, pp. 22-25.</div>
   </div>
   <div class="csl-entry">107	GB/T 2659—1986. 1988, pp. 59-92 (in Chinese)
-    <div class="csl-block">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 见: 文献工作国家标准汇编: 3. 中国标准出版社, 1988, pp. 59-92.</div>
+    <div class="csl-block">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986. 见: 文献工作国家标准汇编：3. 中国标准出版社, 1988, pp. 59-92.</div>
   </div>
   <div class="csl-entry">108	In. 1977, pp. 49 (in Chinese)
-    <div class="csl-block">宋史卷三: 本纪第三. 见: 宋史: 第 1 册. 中华书局, 1977, pp. 49.</div>
+    <div class="csl-block">宋史卷三：本纪第三. 见: 宋史: 第 1 册. 中华书局, 1977, pp. 49.</div>
   </div>
   <div class="csl-entry">109	In. 2011, pp. 011-012 (in Chinese)
     <div class="csl-block">楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析. 见: 汶川地震震害研究. 同济大学出版社, 2011, pp. 011-012.</div>
   </div>
-  <div class="csl-entry">110	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes. In: Pyroxense. Mineralogical Society of America, Washington, D.C., c1980, pp. 117-211.</div>
+  <div class="csl-entry">110	Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes. In: Pyroxenes. Mineralogical Society of America, Washington, D.C., c1980, pp. 117-211.</div>
   <div class="csl-entry">111	Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. ASME, New York, c1971, pp. 17-38.</div>
   <div class="csl-entry">112	2013(1): 56-75 (in Chinese)
     <div class="csl-block">杨洪升. 四库馆私家抄校书考略. <i>文献</i>, 2013(1): 56-75.</div>
@@ -308,7 +308,7 @@
     <div class="csl-block">李炳穆. 韩国图书馆法. <i>图书情报工作</i>, 2008, 52(6): 6-21.</div>
   </div>
   <div class="csl-entry">114	2012, 52(11): 1518-1523 (in Chinese)
-    <div class="csl-block">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式. <i>清华大学学报(自然科学版)</i>, 2012, 52(11): 1518-1523.</div>
+    <div class="csl-block">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式. <i>清华大学学报（自然科学版）</i>, 2012, 52(11): 1518-1523.</div>
   </div>
   <div class="csl-entry">115	2010, 7(10): 93 (in Chinese)
     <div class="csl-block">陈建军. 从数字地球到智慧地球. <i>国土资源导刊</i>, 2010, 7(10): 93.</div>
@@ -322,13 +322,13 @@
     <div class="csl-block">丁文详. 数字革命与竞争国际化. <i>中国青年报</i>, 2000-11-20(15).</div>
   </div>
   <div class="csl-entry">122	2000-11-12(7) (in Chinese)
-    <div class="csl-block">张田勤. 罪犯 DNA 库与生命伦理学计划. <i>大众科技报</i>, 2000-11-12(7).</div>
+    <div class="csl-block">张田勘. 罪犯 DNA 库与生命伦理学计划. <i>大众科技报</i>, 2000-11-12(7).</div>
   </div>
   <div class="csl-entry">123	2000-01-12 (in Chinese)
     <div class="csl-block">傅刚, 赵承, 李佳路. 大风沙过后的思考. <i>北京青年报</i>, 2000-01-12.</div>
   </div>
   <div class="csl-entry">124	2013-01-12 (in Chinese)
-    <div class="csl-block">刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围? <i>人民日报</i>, 2013-01-12.</div>
+    <div class="csl-block">刘裕国, 杨柳, 张洋, 等. 雾霾来袭，如何突围？. <i>人民日报</i>, 2013-01-12.</div>
   </div>
   <div class="csl-entry">125	2001. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a> (in Chinese)
     <div class="csl-block">萧钰. 出版业信息化迈入快车道. 2001. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
@@ -337,7 +337,7 @@
     <div class="csl-block">李强. 化解医患矛盾需釜底抽薪. 2012. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
   </div>
   <div class="csl-entry">127	Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws. [2013]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
-  <div class="csl-entry">128	Dublin core metadata element set: version 1.1. 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">128	Dublin Core metadata element set: version 1.1. 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -449,20 +449,20 @@
   <div class="csl-entry">10	In. 1999, pp. 247-266 (in Chinese)
     <div class="csl-block">杜威·佛克马. 走向新世界主义. 见: 全球化与后殖民批评. 中央编译出版社, 1999, pp. 247-266.</div>
   </div>
-  <div class="csl-entry">11	In. 1981, pp. 325 (in Chinese)
-    <div class="csl-block">鲁迅. 中国小说的历史的变迁. 见: 鲁迅全集: 第9册. 人民文学出版社, 1981, pp. 325.</div>
+  <div class="csl-entry">11	In. 1981 (in Chinese)
+    <div class="csl-block">鲁迅. 中国小说的历史的变迁. 见: 鲁迅全集: 第9册. 人民文学出版社, 1981.</div>
   </div>
-  <div class="csl-entry">12	In. 1997, pp. 65 (in Chinese)
-    <div class="csl-block">唐振常. 师承与变法. 见: 识史集. 上海古籍出版社, 1997, pp. 65.</div>
+  <div class="csl-entry">12	In. 1997 (in Chinese)
+    <div class="csl-block">唐振常. 师承与变法. 见: 识史集. 上海古籍出版社, 1997.</div>
   </div>
   <div class="csl-entry">13	1994 (in Chinese)
     <div class="csl-block">李鹏程. <i>当代文化哲学沉思</i>. 人民出版社, 1994.</div>
   </div>
-  <div class="csl-entry">14	In. 1998, pp. 2 (in Chinese)
-    <div class="csl-block">楼适夷. 读家书，想傅雷（代序）. 见: 傅雷家书. 增补本. 三联书店, 1998, pp. 2.</div>
+  <div class="csl-entry">14	In. 1998 (in Chinese)
+    <div class="csl-block">楼适夷. 读家书，想傅雷（代序）. 见: 傅雷家书. 增补本. 三联书店, 1998.</div>
   </div>
-  <div class="csl-entry">15	In. 1997, pp. 2 (in Chinese)
-    <div class="csl-block">黄仁宇. 为什么称为“中国大历史”？——中文版自序. 见: 中国大历史. 三联书店, 1997, pp. 2.</div>
+  <div class="csl-entry">15	In. 1997 (in Chinese)
+    <div class="csl-block">黄仁宇. 为什么称为“中国大历史”？——中文版自序. 见: 中国大历史. 三联书店, 1997.</div>
   </div>
   <div class="csl-entry">16	
     <div class="csl-block">姚际恒. 古今伪书考: 卷 3. 光绪三年苏州文学山房活字本.</div>
@@ -521,8 +521,8 @@
   <div class="csl-entry">34	(第1页) (in Chinese)
     <div class="csl-block">伤心人（麦孟华）. 说奴隶. <i>清议报</i>(第1页).</div>
   </div>
-  <div class="csl-entry">35	1910-09-03(1-2) (in Chinese)
-    <div class="csl-block">四川会议厅暂行章程. <i>广益丛报</i>, 1910-09-03(1-2).</div>
+  <div class="csl-entry">35	1910-09-03(第1—2页) (in Chinese)
+    <div class="csl-block">四川会议厅暂行章程. <i>广益丛报</i>, 1910-09-03(第1—2页).</div>
   </div>
   <div class="csl-entry">36	1925-08-14(4) (in Chinese)
     <div class="csl-block">上海各路商界总联合会致外交部电. <i>民国日报</i>, 1925-08-14(4).</div>
@@ -533,29 +533,26 @@
   <div class="csl-entry">38	
     <div class="csl-block">方明东. 罗隆基政治思想研究（1913—1949）. 博士学位论文, 北京师范大学历史系.</div>
   </div>
-  <div class="csl-entry">39	pp. 9 (in Chinese)
-    <div class="csl-block">任东来. 对国际体制和国际制度的理解和翻译. 见: 全球化与亚太区域化国际研讨会, 2000年6月, 天津. pp. 9.</div>
+  <div class="csl-entry">39	2000 (in Chinese)
+    <div class="csl-block">任东来. 对国际体制和国际制度的理解和翻译. 见: 全球化与亚太区域化国际研讨会. 2000.</div>
   </div>
-  <div class="csl-entry">40	2000, pp. 9 (in Chinese)
-    <div class="csl-block">任东来. 对国际体制和国际制度的理解和翻译. 见: 全球化与亚太区域化国际研讨会论文集. 2000, pp. 9.</div>
-  </div>
-  <div class="csl-entry">41	北洋档案 1011—5961. 中国第二历史档案馆, 1917 (in Chinese)
+  <div class="csl-entry">40	北洋档案 1011—5961. 中国第二历史档案馆, 1917 (in Chinese)
     <div class="csl-block">傅良佐致国务院电: 北洋档案 1011—5961. 中国第二历史档案馆, 1917.</div>
   </div>
-  <div class="csl-entry">42	李劼人档案. 中共四川省委统战部档案室, 1950 (in Chinese)
+  <div class="csl-entry">41	李劼人档案. 中共四川省委统战部档案室, 1950 (in Chinese)
     <div class="csl-block">党外人士座谈会记录: 李劼人档案. 中共四川省委统战部档案室, 1950.</div>
   </div>
-  <div class="csl-entry">43	1998. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (in Chinese)
+  <div class="csl-entry">42	1998. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> (in Chinese)
     <div class="csl-block">王明亮. 关于中国学术期刊标准化数据库系统工程的进展. 1998. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   </div>
-  <div class="csl-entry">44	[2007]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> (in Chinese)
+  <div class="csl-entry">43	[2007]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> (in Chinese)
     <div class="csl-block">扬之水. 两宋茶诗与茶事. [2007]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   </div>
-  <div class="csl-entry">45	Brooks P. <i>Troubling confessions: Speaking guilt in law and literature</i>. University of Chicago Press, Chicago, 2000.</div>
-  <div class="csl-entry">46	Polo M. <i>The travels of Marco Polo</i>. Marsden W, tran. Cumberland House, Hertfordshire, 1997.</div>
-  <div class="csl-entry">47	Chamberlain H B. On the search for civil society in China. <i>Modern China</i>, 1993, 19(2): 199-215.</div>
-  <div class="csl-entry">48	Schfield R S. The impact of scarcity and plenty on population change in England. In: Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge University Press, Cambridge, Mass., 1983, pp. 55-88.</div>
-  <div class="csl-entry">49	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD, 1969.</div>
+  <div class="csl-entry">44	Brooks P. <i>Troubling confessions: Speaking guilt in law and literature</i>. University of Chicago Press, Chicago, 2000.</div>
+  <div class="csl-entry">45	Polo M. <i>The travels of Marco Polo</i>. Marsden W, tran. Cumberland House, Hertfordshire, 1997.</div>
+  <div class="csl-entry">46	Chamberlain H B. On the search for civil society in China. <i>Modern China</i>, 1993, 19(2): 199-215.</div>
+  <div class="csl-entry">47	Schfield R S. The impact of scarcity and plenty on population change in England. In: Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge University Press, Cambridge, Mass., 1983, pp. 55-88.</div>
+  <div class="csl-entry">48	Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD, 1969.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -577,8 +574,8 @@
   <div class="csl-entry">4	2005 (in Chinese)
     <div class="csl-block">[美]富勒. <i>法律的道德性</i>. 郑戈, 译. 商务印书馆, 2005.</div>
   </div>
-  <div class="csl-entry">5	1993(1) (in Chinese)
-    <div class="csl-block">季卫东. 法律程序的意义：对中国法制建设的另一种思考. <i>中国社会科学</i>, 1993(1).</div>
+  <div class="csl-entry">5	1993(1): 83-103 (in Chinese)
+    <div class="csl-block">季卫东. 法律程序的意义：对中国法制建设的另一种思考. <i>中国社会科学</i>, 1993(1): 83-103.</div>
   </div>
   <div class="csl-entry">6	In. 1994, pp. 110 (in Chinese)
     <div class="csl-block">王保树. 股份有限公司机关构造中的董事和董事会. 见: 民商法论丛: 卷 1. 法律出版社, 1994, pp. 110.</div>
@@ -635,156 +632,162 @@
   <div class="csl-entry">26	1971 (in Chinese)
     <div class="csl-block">[英]劳特派特. <i>奥本海国际法</i>: 上卷第一分册. 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971.</div>
   </div>
-  <div class="csl-entry">27	中华人民共和国主席令第80号. 2017 (in Chinese)
+  <div class="csl-entry">27	2010 (in Chinese)
+    <div class="csl-block">瞿同祖. <i>中国法律与中国社会</i>. 商务印书馆, 2010.</div>
+  </div>
+  <div class="csl-entry">28	2006(1): 144-164 (in Chinese)
+    <div class="csl-block">崔国斌. 知识产权法官造法批判. <i>中国法学</i>, 2006(1): 144-164.</div>
+  </div>
+  <div class="csl-entry">29	中华人民共和国主席令第80号. 2017 (in Chinese)
     <div class="csl-block">全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号. 2017.</div>
   </div>
-  <div class="csl-entry">28	2005 (in Chinese)
+  <div class="csl-entry">30	2005 (in Chinese)
     <div class="csl-block">全国人大常委会. 中华人民共和国公司法. 2005年修订. 2005.</div>
   </div>
-  <div class="csl-entry">29	2013 (in Chinese)
+  <div class="csl-entry">31	2013 (in Chinese)
     <div class="csl-block">全国人大常委会. 中华人民共和国公司法. 2013年修正. 2013.</div>
   </div>
-  <div class="csl-entry">30	法发〔1993〕36号. 1993 (in Chinese)
+  <div class="csl-entry">32	法发〔1993〕36号. 1993 (in Chinese)
     <div class="csl-block">最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号. 1993.</div>
   </div>
-  <div class="csl-entry">31	1991 (in Chinese)
+  <div class="csl-entry">33	1991 (in Chinese)
     <div class="csl-block">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定. 1991.</div>
   </div>
-  <div class="csl-entry">32	国发〔2007〕19号. 2007 (in Chinese)
+  <div class="csl-entry">34	国发〔2007〕19号. 2007 (in Chinese)
     <div class="csl-block">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号. 2007.</div>
   </div>
-  <div class="csl-entry">33	法释〔2018〕1号. 2018 (in Chinese)
+  <div class="csl-entry">35	法释〔2018〕1号. 2018 (in Chinese)
     <div class="csl-block">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号. 2018.</div>
   </div>
-  <div class="csl-entry">34	国发〔2018〕22号. 2018 (in Chinese)
+  <div class="csl-entry">36	国发〔2018〕22号. 2018 (in Chinese)
     <div class="csl-block">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号. 2018.</div>
   </div>
-  <div class="csl-entry">35	GB/T 7714—2015. 2015 (in Chinese)
+  <div class="csl-entry">37	GB/T 7714—2015. 2015 (in Chinese)
     <div class="csl-block">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015. 2015.</div>
   </div>
-  <div class="csl-entry">36	2013 (in Chinese)
+  <div class="csl-entry">38	2013 (in Chinese)
     <div class="csl-block">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明. 2013.</div>
   </div>
-  <div class="csl-entry">37	2014 (in Chinese)
+  <div class="csl-entry">39	2014 (in Chinese)
     <div class="csl-block">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定. 2014.</div>
   </div>
-  <div class="csl-entry">38	（2013）锡民终字第497号. 2013 (in Chinese)
+  <div class="csl-entry">40	（2013）锡民终字第497号. 2013 (in Chinese)
     <div class="csl-block">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号. 见: 最高人民法院公报. 2013.</div>
   </div>
-  <div class="csl-entry">39	（2011）民一终字第 81 号. 2017 (in Chinese)
+  <div class="csl-entry">41	（2011）民一终字第 81 号. 2017 (in Chinese)
     <div class="csl-block">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号. 2017.</div>
   </div>
-  <div class="csl-entry">40	Barbara Ward. Progress for a small planet. <i>Harvard Business Review</i>, 1979(Sep.-Oct.): 89.</div>
-  <div class="csl-entry">41	Rosenthal A. White House tutors Kremlin in how a presidency works. <i>New York Times</i>, 1990-06-15(A1).</div>
-  <div class="csl-entry">42	Habermas J. <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. Rehg W, tran. MIT Press, 1996.</div>
-  <div class="csl-entry">43	Horsley J. Rule of law in China: incremental progress. In: China: The balance sheet. Public Affairs Press, 2006.</div>
-  <div class="csl-entry">44	Department of Transportation Act: 89-670. In: Stat.: Vol. 80. 1966, pp. 931, 944-947.</div>
-  <div class="csl-entry">45	Administrative Procedure Act § 6. In: U.S.C.: Vol. 5. 2006.</div>
-  <div class="csl-entry">46	Natural Resources Defense Council <i>v.</i> Gorsuch. In: F.2d: Vol. 685. 1982, pp. 718.</div>
-  <div class="csl-entry">47	Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council. In: U.S.: Vol. 467. 1984, pp. 837.</div>
-  <div class="csl-entry">48	Roe <i>v.</i> Wade. In: U.S.: Vol. 410. 1973, pp. 113.</div>
-  <div class="csl-entry">49	United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK.</div>
-  <div class="csl-entry">50	McDonell S. When China began streaming trials online. 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
-  <div class="csl-entry">51	2003 (in Chinese)
+  <div class="csl-entry">42	Barbara Ward. Progress for a small planet. <i>Harvard Business Review</i>, 1979(Sep.-Oct.): 89.</div>
+  <div class="csl-entry">43	Rosenthal A. White House tutors Kremlin in how a presidency works. <i>New York Times</i>, 1990-06-15(A1).</div>
+  <div class="csl-entry">44	Habermas J. <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. Rehg W, tran. MIT Press, 1996.</div>
+  <div class="csl-entry">45	Horsley J. Rule of law in China: incremental progress. In: China: The balance sheet. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">46	Department of Transportation Act: 89-670. In: Stat.: Vol. 80. 1966, pp. 931, 944-947.</div>
+  <div class="csl-entry">47	Administrative Procedure Act § 6. In: U.S.C.: Vol. 5. 2006.</div>
+  <div class="csl-entry">48	Natural Resources Defense Council <i>v.</i> Gorsuch. In: F.2d: Vol. 685. 1982, pp. 718.</div>
+  <div class="csl-entry">49	Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council. In: U.S.: Vol. 467. 1984, pp. 837.</div>
+  <div class="csl-entry">50	Roe <i>v.</i> Wade. In: U.S.: Vol. 410. 1973, pp. 113.</div>
+  <div class="csl-entry">51	United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK.</div>
+  <div class="csl-entry">52	McDonell S. When China began streaming trials online. 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
+  <div class="csl-entry">53	2003 (in Chinese)
     <div class="csl-block">Chevallier M. <i>L’État de droit</i>. 4 版. Montchrestien, 2003.</div>
   </div>
-  <div class="csl-entry">52	2015: 15-47 (in Chinese)
+  <div class="csl-entry">54	2015: 15-47 (in Chinese)
     <div class="csl-block">Poisson M. Le droit de la mer. <i>RGDIP</i>, 2015: 15-47.</div>
   </div>
-  <div class="csl-entry">53	1997(43): 75-94 (in Chinese)
+  <div class="csl-entry">55	1997(43): 75-94 (in Chinese)
     <div class="csl-block">Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle. <i>La Licorne</i>, 1997(43): 75-94.</div>
   </div>
-  <div class="csl-entry">54	In. 2015, pp. 12-48 (in Chinese)
+  <div class="csl-entry">56	In. 2015, pp. 12-48 (in Chinese)
     <div class="csl-block">Poisson M. Le droit de la mer. 见: Le droit des Océans. Éditions de la mer. 2015, pp. 12-48.</div>
   </div>
-  <div class="csl-entry">55	2016, pp. 228-229 (in Chinese)
+  <div class="csl-entry">57	2016, pp. 228-229 (in Chinese)
     <div class="csl-block">Poisson M. Le droit de la mer en Méditerranée. Congrès de Marseille, 2016, pp. 228-229.</div>
   </div>
-  <div class="csl-entry">56	1202. 2016 (in Chinese)
+  <div class="csl-entry">58	1202. 2016 (in Chinese)
     <div class="csl-block">Poisson M. Le droit de la mer en Méditerranée: 1202. 2016.</div>
   </div>
-  <div class="csl-entry">57	
-    <div class="csl-block">Poisson M. Le droit de la mer appliqué à la Méditerranée. 博士学位论文, l’Université de Marseille.</div>
+  <div class="csl-entry">59	
+    <div class="csl-block">Poisson M. Le droit de la mer appliqué à la Méditerranée. Thèse de doctorat, l’Université de Marseille.</div>
   </div>
-  <div class="csl-entry">58	[2010]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (in Chinese)
+  <div class="csl-entry">60	[2010]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (in Chinese)
     <div class="csl-block">Joyeux-Prunel B. L’histoire de l’art et le quantitatif. [2010]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   </div>
-  <div class="csl-entry">59	2017, 129(3): 629-649 (in Chinese)
+  <div class="csl-entry">61	2017, 129(3): 629-649 (in Chinese)
     <div class="csl-block">Vogel B. Rechtsgüterschutz und Normgeltung. <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 2017, 129(3): 629-649.</div>
   </div>
-  <div class="csl-entry">60	2012(3): 234-240 (in Chinese)
+  <div class="csl-entry">62	2012(3): 234-240 (in Chinese)
     <div class="csl-block">Würdinger M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. <i>Juristische Schulung</i>, 2012(3): 234-240.</div>
   </div>
-  <div class="csl-entry">61	2015-09-29 (in Chinese)
+  <div class="csl-entry">63	2015-09-29 (in Chinese)
     <div class="csl-block">Fischer T. Absurdes Spektakel um den Tod. <i>Die Zeit</i>, 2015-09-29.</div>
   </div>
-  <div class="csl-entry">62	2006 (in Chinese)
+  <div class="csl-entry">64	2006 (in Chinese)
     <div class="csl-block">Roxin C. <i>Strafrecht Allgemeiner Teil</i>: 卷 1. 4 版. C. H. Beck, 2006.</div>
   </div>
-  <div class="csl-entry">63	2003 (in Chinese)
+  <div class="csl-entry">65	2003 (in Chinese)
     <div class="csl-block">Dreier R, Paulson S. <i>Rechtsphilosophie Studienausgabe</i>. 2 版. UTB Uni-Taschenbücher Verlag, 2003.</div>
   </div>
-  <div class="csl-entry">64	In. 2013 (in Chinese)
+  <div class="csl-entry">66	In. 2013 (in Chinese)
     <div class="csl-block">Schwab M. 见: Münchener Kommentar BGB: 卷 5. 6 版. 2013.</div>
   </div>
-  <div class="csl-entry">65	In. 1972 (in Chinese)
+  <div class="csl-entry">67	In. 1972 (in Chinese)
     <div class="csl-block">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. 见: Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.</div>
   </div>
-  <div class="csl-entry">66	In. 1990 (in Chinese)
+  <div class="csl-entry">68	In. 1990 (in Chinese)
     <div class="csl-block">Canaris C W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen. 见. 1990.</div>
   </div>
-  <div class="csl-entry">67	
+  <div class="csl-entry">69	
     <div class="csl-block">StGB.</div>
   </div>
-  <div class="csl-entry">68	
+  <div class="csl-entry">70	
     <div class="csl-block">StPO.</div>
   </div>
-  <div class="csl-entry">69	
+  <div class="csl-entry">71	
     <div class="csl-block">GG.</div>
   </div>
-  <div class="csl-entry">70	pp. 369 (in Chinese)
+  <div class="csl-entry">72	pp. 369 (in Chinese)
     <div class="csl-block">Strauß-Karikatur, Kunstfreiheit. 见: BVerfGE: 卷 75. pp. 369.</div>
   </div>
-  <div class="csl-entry">71	1999, pp. 185 (in Chinese)
+  <div class="csl-entry">73	1999, pp. 185 (in Chinese)
     <div class="csl-block">见: NStZ-RR. 1999, pp. 185.</div>
   </div>
-  <div class="csl-entry">72	2000, pp. 1560 (in Chinese)
+  <div class="csl-entry">74	2000, pp. 1560 (in Chinese)
     <div class="csl-block">见: NJW. 2000, pp. 1560.</div>
   </div>
-  <div class="csl-entry">73	[2017]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a> (in Chinese)
+  <div class="csl-entry">75	[2017]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a> (in Chinese)
     <div class="csl-block">Meidenbauer M. Wissenschaftliches Publizieren. [2017]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
   </div>
-  <div class="csl-entry">74	1971 (in Chinese)
+  <div class="csl-entry">76	1971 (in Chinese)
     <div class="csl-block">我妻栄. <i>新訂担保物権法</i>. 有斐閣, 1971.</div>
   </div>
-  <div class="csl-entry">75	1950 (in Chinese)
+  <div class="csl-entry">77	1950 (in Chinese)
     <div class="csl-block">我妻栄, 有泉亨. <i>民法総則物権法</i>. 日本評論社, 1950.</div>
   </div>
-  <div class="csl-entry">76	1954, 29(5): 1 (in Chinese)
+  <div class="csl-entry">78	1954, 29(5): 1 (in Chinese)
     <div class="csl-block">於保不二雄. 付加物及び従物と抵当権. <i>民商法雑誌</i>, 1954, 29(5): 1.</div>
   </div>
-  <div class="csl-entry">77	In. 2014, pp. 220 (in Chinese)
+  <div class="csl-entry">79	In. 2014, pp. 220 (in Chinese)
     <div class="csl-block">佐藤英明. 一時所得の要件に関する覚書. 见: 租税法と市場. 有斐閣, 2014, pp. 220.</div>
   </div>
-  <div class="csl-entry">78	1919, pp. 356 (in Chinese)
+  <div class="csl-entry">80	1919, pp. 356 (in Chinese)
     <div class="csl-block">信玄公旗掛松事件. 见: 大審院民事判決録: 卷 25. 1919, pp. 356.</div>
   </div>
-  <div class="csl-entry">79	1982, pp. 1113 (in Chinese)
+  <div class="csl-entry">81	1982, pp. 1113 (in Chinese)
     <div class="csl-block">約束手形金. 见: 最高裁判所民事判例集: 36卷6号. 1982, pp. 1113.</div>
   </div>
-  <div class="csl-entry">80	
+  <div class="csl-entry">82	
     <div class="csl-block">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
   </div>
-  <div class="csl-entry">81	
+  <div class="csl-entry">83	
     <div class="csl-block">平成26年版犯罪白書.</div>
   </div>
-  <div class="csl-entry">82	[2022]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (in Chinese)
+  <div class="csl-entry">84	[2022]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (in Chinese)
     <div class="csl-block">ジュリスト. [2022]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
   </div>
-  <div class="csl-entry">83	In. 1994 (in Chinese)
+  <div class="csl-entry">85	In. 1994 (in Chinese)
     <div class="csl-block">欧中坦. 千方百计上京城：清朝的京控. 谢鹏程, 译. 见: 美国学者论中国法律传统. 中国政法大学出版社, 1994.</div>
   </div>
-  <div class="csl-entry">84	<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> (in Chinese)
+  <div class="csl-entry">86	<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> (in Chinese)
     <div class="csl-block">温家宝主持国务院会议 研究房地产业健康发展措施. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
   </div>
 </div>
@@ -795,7 +798,7 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<div class="csl-bib-body maxoffset-117 second-field-align-false hangingindent-true">
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">1	McCauley S M, Christiansen M H. Language learning as language use: A cross-linguistic model of child language development. <i>Psychological Review</i>, 2019, 126(1): 1-51.</div>
   <div class="csl-entry">2	Ahmann E, Tuttle L J, Saviet M, et al. A descriptive review of ADHD coaching research: Implications for college students. <i>Journal of Postsecondary Education and Disability</i>, 2018, 31(1): 17-39.</div>
   <div class="csl-entry">3	Anderson M. Getting consistent with consequences. <i>Educational Leadership</i>, 2018, 76(1): 26-33.</div>
@@ -903,18 +906,10 @@
   <div class="csl-entry">105	Pew Research Center. American trends panel Wave 26. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">106	Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills. University of Kentucky, 2015.</div>
   <div class="csl-entry">107	Oregan Youth Authority. Recidivism outcomes. 2011.</div>
-  <div class="csl-entry">108	2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a> (in Chinese)
-    <div class="csl-block">Borenstein M, Hedges L, Higgins J, 等. Comprehensive meta-analysis. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
-  </div>
-  <div class="csl-entry">109	2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a> (in Chinese)
-    <div class="csl-block">SR Research. Eyelink 1000 plus. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
-  </div>
-  <div class="csl-entry">110	2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a> (in Chinese)
-    <div class="csl-block">Tactile Labs. Latero tactile display. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
-  </div>
-  <div class="csl-entry">111	2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a> (in Chinese)
-    <div class="csl-block">Epocrates. Epocrates medical references. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
-  </div>
+  <div class="csl-entry">108	Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
+  <div class="csl-entry">109	SR Research. Eyelink 1000 plus. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
+  <div class="csl-entry">110	Tactile Labs. Latero tactile display. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
+  <div class="csl-entry">111	Epocrates. Epocrates medical references. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">112	Epocrates. Interaction Check: Aspirin + Sertraline. In: Epocrates medical references. Google Play Store, 2019.</div>
   <div class="csl-entry">113	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
   <div class="csl-entry">114	Project Implicit. Gender-Science IAT.</div>

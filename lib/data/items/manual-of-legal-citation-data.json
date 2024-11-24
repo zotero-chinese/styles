@@ -74,6 +74,7 @@
 		"container-title": "中国社会科学",
 		"issue": "1",
 		"language": "zh-CN",
+		"page": "83-103",
 		"title": "法律程序的意义：对中国法制建设的另一种思考",
 		"title-short": "法律程序的意义",
 		"author": [
@@ -589,7 +590,6 @@
 		"page": "234-240",
 		"source": "dialnet.unirioja.es",
 		"title": "Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts",
-		"title-short": "Referendarexamensklausur - Zivilrecht",
 		"URL": "https://dialnet.unirioja.es/servlet/articulo?codigo=3906259",
 		"author": [
 			{
@@ -913,6 +913,7 @@
 	{
 		"id": "molc.86.6:01",
 		"type": "thesis",
+		"genre": "Thèse de doctorat",
 		"language": "fr-FR",
 		"publisher": "l’Université de Marseille",
 		"title": "Le droit de la mer appliqué à la Méditerranée",
@@ -1482,6 +1483,53 @@
 		],
 		"issued": {
 			"date-parts": [["1971"]]
+		}
+	},
+	{
+		"id": "molc.45.1:02",
+		"type": "article-journal",
+		"container-title": "中国法学",
+		"DOI": "10.14111/j.cnki.zgfx.2006.01.013",
+		"ISSN": "1003-1707",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "144-164",
+		"source": "CNKI",
+		"title": "知识产权法官造法批判",
+		"URL": "https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013",
+		"author": [
+			{
+				"literal": "崔国斌"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 11, 6]]
+		},
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "molc.45.1:01",
+		"type": "book",
+		"collection-title": "中华现代学术名著丛书",
+		"ISBN": "978-7-100-07448-3",
+		"language": "zh-CN",
+		"number-of-pages": "428",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "中国法律与中国社会",
+		"URL": "https://book.douban.com/subject/6004646/",
+		"author": [
+			{
+				"literal": "瞿同祖"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 11, 6]]
+		},
+		"issued": {
+			"date-parts": [["2010", 12, 1]]
 		}
 	}
 ]

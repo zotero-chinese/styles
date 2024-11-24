@@ -78,7 +78,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">邓一刚, 2006.</div>
   <div class="csl-entry">丁文详, 2000.</div>
   <div class="csl-entry">傅刚等, 2000.</div>
-  <div class="csl-entry">顾炎武, 1992.</div>
+  <div class="csl-entry">顾炎武, 1982.</div>
   <div class="csl-entry">国家标准局信息分类编码研究所, 1988.</div>
   <div class="csl-entry">国家环境保护局科技标准司, 1996.</div>
   <div class="csl-entry">哈里森·沃尔德伦, 2012.</div>
@@ -137,7 +137,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">袁训来等, 2012.</div>
   <div class="csl-entry">张伯伟, 2002.</div>
   <div class="csl-entry">张凯军, 2012.</div>
-  <div class="csl-entry">张田勤, 2000.</div>
+  <div class="csl-entry">张田勘, 2000.</div>
   <div class="csl-entry">张忠智, 1997.</div>
   <div class="csl-entry">赵学功, 2001.</div>
   <div class="csl-entry">中国第一历史档案馆等, 2001.</div>
@@ -177,7 +177,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Kennedy <i>et al.</i>, 1975b.</div>
   <div class="csl-entry">Kinchy, 2012.</div>
   <div class="csl-entry">Koseki <i>et al.</i>, 2002.</div>
-  <div class="csl-entry">Morri, 2010.</div>
+  <div class="csl-entry">Morris, 2010.</div>
   <div class="csl-entry">Myburg <i>et al.</i>, 2014.</div>
   <div class="csl-entry">O’Brien, 1994.</div>
   <div class="csl-entry">Online Computer Library Center, Inc.</div>
@@ -262,7 +262,6 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">毛祥麟, 1985.</div>
   <div class="csl-entry">倪素香, 2002.</div>
   <div class="csl-entry">任东来, 2000.</div>
-  <div class="csl-entry">任东来.</div>
   <div class="csl-entry">任继愈, 1983.</div>
   <div class="csl-entry">伤心人（麦孟华）.</div>
   <div class="csl-entry">实藤惠秀, 1982.</div>
@@ -303,6 +302,7 @@ Qian et al. (2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
+  <div class="csl-entry">崔国斌, 2006.</div>
   <div class="csl-entry">[德]莱纳·沃尔夫, 2012.</div>
   <div class="csl-entry">邓小平, 1994.</div>
   <div class="csl-entry">高鸿钧等, 2013.</div>
@@ -316,6 +316,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">罗豪才等, 1993.</div>
   <div class="csl-entry">[美]富勒, 2005.</div>
   <div class="csl-entry">欧中坦, 1994.</div>
+  <div class="csl-entry">瞿同祖, 2010.</div>
   <div class="csl-entry">全国人大常委会, 1991.</div>
   <div class="csl-entry">全国人大常委会, 2005.</div>
   <div class="csl-entry">全国人大常委会, 2013.</div>
@@ -458,7 +459,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Blair, 2015-2020.</div>
   <div class="csl-entry">Boddy <i>et al.</i></div>
   <div class="csl-entry">Bologna, 2018.</div>
-  <div class="csl-entry">Borenstein M等, 2014.</div>
+  <div class="csl-entry">Borenstein <i>et al.</i>, 2014.</div>
   <div class="csl-entry">Bowie, 2016.</div>
   <div class="csl-entry">British Cardiovascular Society Working Group, 2016.</div>
   <div class="csl-entry">Brodsky, 2016.</div>

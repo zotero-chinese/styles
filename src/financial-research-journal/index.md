@@ -24,13 +24,13 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">贾东琴和柯平，2011，《面向数字素养的高校图书馆数字服务体系研究》. 中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社，2011年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩，2012，《科学革命的结构: 第 4 版》. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012年。</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩，2012，《科学革命的结构：第 4 版》. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽、华一新、张亚军和刘英敏，2008，《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期，第8~9页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">中国互联网络信息中心，2012，《第 29 次中国互联网络发展现状统计报告》. 。</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">中国互联网络信息中心，2012，《第 29 次中国互联网络发展状况统计报告》. 。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Bawden, D. 2008. “Origins and Concepts of Digital Literacy”(2008-05-04).</div>
@@ -86,7 +86,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">白书农，1998，《植物开花研究》. 李承森, 编//《植物科学进展》北京: 高等教育出版社，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">北京市人民政府办公厅，2005，《关于转发北京市企业投资项目核准暂行实施办法的通知》. 。</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">北京市人民政府办公厅，2005，《关于转发北京市企业投资项目核准暂行实施办法的通知》(2005-07-12)。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">北京市政协民族和宗教委员会和北京联合大学民族与宗教研究所，2012，《历代王朝与民族宗教》. 北京: 民族出版社，2012年。</div>
@@ -101,7 +101,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">陈建军，2010，《从数字地球到智慧地球》，《国土资源导刊》第10期，第93页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">陈晋镳、张惠民、朱士兴、赵震和王振刚，1980，《蓟县震旦亚界研究》. 中国地质科学院天津地质矿产研究所, 编//《中国震旦亚界》天津: 天津科学技术出版社，1980年。</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">陈晋镳、张惠民、朱士兴、赵震和王振刚，1980，《蓟县震旦亚界的研究》. 中国地质科学院天津地质矿产研究所, 编//《中国震旦亚界》天津: 天津科学技术出版社，1980年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">程根伟，1999，《1998 年长江洪水的成因与减灾对策》. 许厚泽, 赵其国, 编//《长江流域洪涝灾害与科技对策》北京: 科学出版社，1999年。</div>
@@ -116,10 +116,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">傅刚、赵承和李佳路，2000，《大风沙过后的思考》，《北京青年报》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">顾炎武，1992，《昌平山水记: 京东考古录》. 北京: 北京古籍出版社，1992年。</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">顾炎武，1982，《昌平山水记：京东考古录》. 北京: 北京古籍出版社，1982年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">国家标准局信息分类编码研究所，1988，《世界各国和地区名称代码》. 全国文献工作标准化委员会, 编//《文献工作国家标准汇编: 3》北京: 中国标准出版社，1988年。</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">国家标准局信息分类编码研究所，1988，《世界各国和地区名称代码》. 全国文献工作标准化委员会, 编//《文献工作国家标准汇编：3》北京: 中国标准出版社，1988年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">国家环境保护局科技标准司，1996，《土壤环境质量标准》. 北京: 中国标准出版社，1996年。</div>
@@ -131,7 +131,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">河北绿洲生态环境科技有限公司，2001，《一种荒漠化地区生态植被综合培育种植方法》. 2001-10-24。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">侯文顺，2010，《高分子物理: 高分子材料分析、选择与改性》. 北京: 化学工业出版社，2010年。</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">侯文顺，2010，《高分子物理：高分子材料分析、选择与改性》. 北京: 化学工业出版社，2010年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">胡承正、周详和缪灵，2010，《理论物理概论》. 武汉: 武汉大学出版社，2010年。</div>
@@ -143,7 +143,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">蒋有绪、郭泉水、马娟和others，1998，《中国森林群落分类及其群落特征》. 北京: 科学出版社，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">库恩，2012，《科学革命的结构: 第 4 版》. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012年。</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">库恩，2012，《科学革命的结构：第 4 版》. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">李炳穆，2008a，《韩国图书馆法》，《图书情报工作》第6期，第6~12页。</div>
@@ -155,34 +155,34 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">李强，2012，《化解医患矛盾需釜底抽薪》(2012-05-03)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">李幼平和王莉，2010，《循证医学研究方法: 附视频》，《中华移植杂志(电子版)》第3期，第225~228页。</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">李幼平和王莉，2010，《循证医学研究方法：附视频》，《中华移植杂志（电子版）》第3期，第225~228页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">刘彻东，1998，《中国的青年刊物: 个性特色为本仁》，《中国出版》第5期，第38~39页。</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">刘彻东，1998，《中国的青年刊物：个性特色为本仁》，《中国出版》第5期，第38~39页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">刘乃安，2000，《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学，2000年。</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">刘乃安，2000，《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学博士学位论文学位论文，2000年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">刘裕国、杨柳、张洋、王汉超、靳博、田豆豆和付文，2013，《雾霾来袭, 如何突围?》，《人民日报》。</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">刘裕国、杨柳、张洋、王汉超、靳博、田豆豆和付文，2013，《雾霾来袭，如何突围？》，《人民日报》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[29]</div><div class="csl-right-inline">楼梦鳞和杨燕，2011，《汶川地震基岩地震动特征分析》. 同济大学土木工程防灾国家重点实验室, 编//《汶川地震震害研究》上海: 同济大学出版社，2011年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">罗杰斯，2011，《西方文明史: 问题与源头》. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社，2011年。</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">罗杰斯，2011，《西方文明史：问题与源头》. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社，2011年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">罗斯基，2009，《战前中国经济的增长》. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社，2009年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">马欢，2011，《人类活动影响下海河流域典型区水循环变化分析》，清华大学，2011年。</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">马欢，2011，《人类活动影响下海河流域典型区水循环变化分析》，清华大学博士学位论文学位论文，2011年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">马克思，2013，《政治经济学批判》. 马克思, 恩格斯, 编//《马克思恩格斯全集》北京: 人民出版社，2013年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">美国妇产科医师学会，2010，《新生儿脑病和脑性瘫痪发病机制与病理生理》. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社，2010年。</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">美国妇产科医师学会，2010，《新生儿脑病和脑性瘫痪：发病机制与病理生理》. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社，2010年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">尼葛洛庞帝，1996，《数字化生存》. 胡泳, 范海燕, 译. 海口: 海南出版社，1996年。</div>
@@ -191,16 +191,16 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">裴丽生，1981，《在中国科协学术期刊编辑工作经验交流会上的讲话》. 中国科学技术协会, 编//《中国科协学术期刊编辑工作经验交流会资料选》北京: 中国科学技术协会学会工作部，1981年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">皮锡瑞，2009，《师伏堂日记》. 北京: 北京图书馆出版社，2009年。</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">皮锡瑞，2009，《师伏堂日记》. 北京: 国家图书馆，2009年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">全国广播电视标准化技术委员会，2007，《广播电视音像资料编目规范: 第 2 部分 广播资料》. 北京: 国家广播电影电视总局广播电视规划院，2007年。</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">全国广播电视标准化技术委员会，2007，《广播电视音像资料编目规范：第 2 部分 广播资料》. 北京: 国家广播电影电视总局广播电视规划院，2007年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2010a，《信息与文献 都柏林核心元数据元素集》. 北京: 中国标准出版社，2010年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2010b，《文献著录: 第 4 部分 非书资料》. 北京: 中国标准出版社，2010年。</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2010b，《文献著录：第 4 部分 非书资料》. 北京: 中国标准出版社，2010年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">汤万金、杨跃翔、刘文和others，2013，《人体安全重要技术标准研制最终报告》. 。</div>
@@ -221,13 +221,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">王夫之，1865，《宋论》. 刻本 版. 金陵: 湘乡曾国荃，1865年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">王临惠，2010，《从几组声母的演变看天津方言形成的自然条件和历史条件》. 曹志耘, 编//《汉语方言的地理语言学研究》北京: 商务印书馆，2010年。</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">王临惠，2010，《从几组声母的演变看天津方言形成的自然条件和历史背景》. 曹志耘, 编//《汉语方言的地理语言学研究》北京: 商务印书馆，2010年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">王临惠、支建刚和王忠一，2010，《天津方言的源流关系刍议》，《山西师范大学学报(社会科学版)》第4期，第147页。</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">王临惠、支建刚和王忠一，2010，《天津方言的源流关系刍议》，《山西师范大学学报（社会科学版）》第4期，第147页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">吴云芳，2003，《面向中文信息处理的现代汉语并列结构研究》，北京大学，2003年。</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">吴云芳，2003，《面向中文信息处理的现代汉语并列结构研究》，北京大学博士学位论文学位论文，2003年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[50]</div><div class="csl-right-inline">武丽丽、华一新、张亚军和刘英敏，2008，《“北斗一号”监控管理网设计与实现》，《测绘科学》第5期，第8~9页。</div>
@@ -251,13 +251,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">杨宗英，1996，《电子图书馆的现实模型》，《中国图书馆学报》第2期，第24~29页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">于潇、刘义、柴跃廷和孙宏波，2012，《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报(自然科学版)》第11期，第1518~1523页。</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">于潇、刘义、柴跃廷和孙宏波，2012，《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第11期，第1518~1523页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">余建斌，2013，《我们的科技一直在追赶: 访中国工程院院长周济》，《人民日报》第2页。</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">余建斌，2013，《我们的科技一直在追赶：访中国工程院院长周济》，《人民日报》第2页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明和华洪，2012，《蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第34期，第3219页。</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明和华洪，2012，《蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第34期，第3219页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">张伯伟，2002，《全唐五代诗格汇考》. 南京: 江苏古籍出版社，2002年。</div>
@@ -266,10 +266,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">张凯军，2012，《轨道火车及高速轨道火车紧急安全制动辅助装置》. 2012-04-05。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">张田勤，2000，《罪犯 DNA 库与生命伦理学计划》，《大众科技报》第7页。</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">张田勘，2000，《罪犯 DNA 库与生命伦理学计划》，《大众科技报》第7页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">张忠智，1997，《科技书刊的总编(主编)的角色要求》. 中国科学技术期刊编辑学会, 编//《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》北京: 中国科学技术期刊编辑学会学术委员会，1997年。</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">张忠智，1997，《科技书刊的总编（主编）的角色要求》. 中国科学技术期刊编辑学会, 编//《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》北京: 中国科学技术期刊编辑学会学术委员会，1997年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">赵学功，2001，《当代美国外交》. 北京: 社会科学文献出版社，2001年。</div>
@@ -278,10 +278,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">中国第一历史档案馆和辽宁省档案馆，2001，《中国明朝档案总汇》. 桂林: 广西师范大学出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">中国互联网络信息中心，2012，《第 29 次中国互联网络发展现状统计报告》. 。</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">中国互联网络信息中心，2012，《第 29 次中国互联网络发展状况统计报告》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">中国企业投资协会、台湾并购与私募股权协会和汇盈国际投资集团，2013，《投资台湾: 大陆企业赴台投资指南》. 北京: 九州出版社，2013年。</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">中国企业投资协会、台湾并购与私募股权协会和汇盈国际投资集团，2013，《投资台湾：大陆企业赴台投资指南》. 北京: 九州出版社，2013年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">中国社会科学院语言研究所词典编辑室，1996，《现代汉语词典》. 修订本 版. 北京: 商务印书馆，1996年。</div>
@@ -290,10 +290,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">中国图书馆学会，1957，《图书馆学通讯》. 北京: 北京图书馆。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">中国造纸学会，2003，《中国造纸年鉴: 2003》. 北京: 中国轻工业出版社，2003年。</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">中国造纸学会，2003，《中国造纸年鉴：2003》. 北京: 中国轻工业出版社，2003年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室，2013，《国防白皮书: 中国武装力量的多样化运用》. 。</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室，2013，《国防白皮书：中国武装力量的多样化运用》. 。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">中华医学会湖北分会，1984，《临床内科杂志》. 武汉: 中华医学会湖北分会。</div>
@@ -302,10 +302,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[73]</div><div class="csl-right-inline">American Association for the Advancement of Science. 1883. “Science.” Washington, D.C.: American Association for the Advancement of Science.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">佚名，1962，《康熙字典: 巳集上: 水部》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">佚名，1962，《康熙字典：巳集上：水部》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">佚名，1977，《宋史卷三: 本纪第三》//《宋史》北京: 中华书局，1977年。</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">佚名，1977，《宋史卷三：本纪第三》//《宋史》北京: 中华书局，1977年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Anonymous. 1981. “Coffee Drinking and Cancer of the Pancreas,” <i>British Medical Journal</i>, 283(6292): pp.628.</div>
@@ -320,10 +320,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">Anonymous. 2000. “Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering.” Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名，2011a，《周易外传: 卷 5》. 王夫之, 编//《船山全书》长沙: 岳麓书社，2011年。</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名，2011a，《周易外传：卷 5》. 王夫之, 编//《船山全书》长沙: 岳麓书社，2011年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名，2011b，《中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集》. 陈志勇, 编. 北京: 经济科学出版社，2011年。</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名，2011b，《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》. 陈志勇, 编. 北京: 经济科学出版社，2011年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">佚名，2012a，《综合湿地管理国际研讨会论文集》. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社，2012年。</div>
@@ -332,55 +332,55 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">佚名，2012b，《台湾光复六十五周年暨抗战史实学术研讨会论文集》. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社，2012年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名，2012c，《综合湿地管理: 综合湿地管理国际研讨会论文集》. 雷光春, 编. 北京: 海洋出版社，2012年。</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名，2012c，《综合湿地管理：综合湿地管理国际研讨会论文集》. 雷光春, 编. 北京: 海洋出版社，2012年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Anonymous. 2012. “Dublin Core Metadata Element Set: Version 1.1”(2012-06-14).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Anonymous. 2014. “Proceedings of the Second International Conference on Soft Computing for Problem Solving.” Babu B V, A K Nagar, K Deep, M Pant, J C Bansal, K Ray, U Gupta, eds.. New Delhi: Springer.</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Anonymous. 2013. “A Companion to California History.” Deverell W, D Igler, eds.. New York: John Wiley &#38; Sons: 21~22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">Anonymous. [no date]. “Information and Documentation—The Dublin Core Metadata Element Set”. .</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">Anonymous. 2014. “Proceedings of the Second International Conference on Soft Computing for Problem Solving.” Babu B V, A K Nagar, K Deep, M Pant, J C Bansal, K Ray, U Gupta, eds.. New Delhi: Springer.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Baker, S.K. and M.E. Jackson. 1995. “The Future of Resource Sharing”. New York: The Haworth Press.</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Anonymous. [no date]. “Information and Documentation—The Dublin Core Metadata Element Set”. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">Baldock, P. 2011. “Developing Early Childhood Services: Past, Present and Future”. Rotterdam: Open University Press: 105.</div>
+    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">Baker, S.K. and M.E. Jackson. 1995. “The Future of Resource Sharing”. New York: The Haworth Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Bawden, D. 2008. “Origins and Concepts of Digital Literacy”(2008-05-04).</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Baldock, P. 2011. “Developing Early Childhood Services: Past, Present and Future”. Rotterdam: Open University Press: 105.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Buseck, P.R., G.L. Nord Jr., and D.R. Veblen. c1980. “Subsolidus Phenomena in Pyroxenes”//, <i>Pyroxense</i>Washington, D.C.: Mineralogical Society of America: 117~211.</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Bawden, D. 2008. “Origins and Concepts of Digital Literacy”(2008-05-04).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Cairns, B.R. 1965. “Infrared Spectroscopic Studies on Solid Oxygen”. Berkeley: Univ. of California.</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Buseck, P.R., G.L. Nord Jr., and D.R. Veblen. c1980. “Subsolidus Phenomena in Pyroxenes”//, <i>Pyroxenes</i>Washington, D.C.: Mineralogical Society of America: 117~211.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">Calkin, D., A. Ager, and M. Thompson. 2011. “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” , No. RMRS-GTR-262.</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">Cairns, B.R. 1965. “Infrared Spectroscopic Studies on Solid Oxygen”. Berkeley: Univ. of California.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Caplan, P. 1993. “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, 4(2): pp.61~66.</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Calkin, D., A. Ager, and M. Thompson. 2011. “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” , No. RMRS-GTR-262.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Chernik, B.E. 1982. “Introduction to Library Services for Library Technicians”. Littleton, Colo.: Libraries Unlimited, Inc.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Caplan, P. 1993. “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, 4(2): pp.61~66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. [no date]. “Pennsylvania Library Laws.”</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Chernik, B.E. 1982. “Introduction to Library Services for Library Technicians”. Littleton, Colo.: Libraries Unlimited, Inc.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Crane, D. 1972. “Invisible College”. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. [no date]. “Pennsylvania Library Laws.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">Crawford, W. and M. Gorman. 1995. “Future Libraries: Dreams, Madness, &#38; Reality”. Chicago: American Library Association.</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">Crane, D. 1972. “Invisible College”. Chicago: Univ. of Chicago Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Des Marais, D.J., H. Strauss, R.E. Summons, and J.M. Hayes. 1992. “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, 359(6396): pp.605~609.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Crawford, W. and M. Gorman. 1995. “Future Libraries: Dreams, Madness, &#38; Reality”. Chicago: American Library Association.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Deverell, W. and D. Igler. 2013. “A Companion to California History”. New York: John Wiley &#38; Sons: 21~22.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Des Marais, D.J., H. Strauss, R.E. Summons, and J.M. Hayes. 1992. “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, 359(6396): pp.605~609.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Dowler, L. 1995. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment,” <i>Journal of Library Administration</i>, 21(1/2): pp.5~26.</div>
@@ -419,13 +419,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Koseki, A., H. Momose, M. Kawahito, and H. Komatsu. 2002. “Compiler.” 2002-05-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Morri, I. 2010. “Why the West Rules for Now: The Patterns of History, and What They Reveal about the Future”. New York: Farrar, Straus and Giroux.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Morris, I. 2010. “Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future”. New York: Farrar, Straus and Giroux.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Myburg, A.A., D. Grattapaglia, G.A. Tuskan, U. Hellsten, R.D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D.M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A.R.K. Kullan, S.G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O.B. Silva-Junior, R.C. Togawa, M.R. Pappas, D.A. Faria, C.P. Sansaloni, C.D. Petroli, X. Yang, P. Ranjan, T.J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H.S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C.A. Hefer, E. Bornberg-Bauer, A.R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A.E. Boyd, A. Liston, J.W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S.H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R.C. Jones, D.A. Steane, R.E. Vaillancourt, B.M. Potts, F. Joubert, K. Barry, G.J. Pappas, S.H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D.S. Rokhsar, and J. Schmutz. 2014. “The Genome of Eucalyptus Grandis,” <i>Nature</i>, 510: pp.356~362.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">O’Brien, J.A. 1994. “Introduction to Information Systems”. 7 edition. Burr Ridge, III: Irwin.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">O’Brien, J.A. 1994. “Introduction to Information Systems”. 7 edition. Burr Ridge, IL: Irwin.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Online Computer Library Center, Inc. [no date]. “About OCLC: History of Cooperation.”</div>
@@ -440,7 +440,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Praetzellis, A. 2011. “Death by Theory: A Tale of Mystery and Archaeological Theory”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Roberson, J.A. and E.G. Burneson. 2011. “Drinking Water Standards, Regulations and Goals.” American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Roberson, J.A. and E.G. Burneson. 2011. “Drinking Water Standards, Regulations, and Goals.” American Water Works Association, ed.//, <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>6 edition. New York: McGraw-Hill: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Saito, M. and K. Miyazaki. 2006. “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): pp.169~176.</div>
@@ -452,7 +452,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Sunstein, C.R. 1996. “Social Norms and Social Roles,” <i>Columbia Law Review</i>, 96: pp.903.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Tachibana, R., S. Shimizu, S. Kobayshi, and T. Nakamura. 2005. “Electronic Watermarking Method and System.” 2005-07-05.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Tachibana, R., S. Shimizu, S. Kobayashi, and T. Nakamura. 2005. “Electronic Watermarking Method and System.” 2005-07-05.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[125]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. 1990. “Guidelines for Handling Excavated Acid-Producing Material,” U.S. Department of Commerce National Information Service, No. PB 91-194001.</div>
@@ -461,7 +461,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Walls, S.C., W.J. Barichivich, and M.E. Brown. 2013. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate,” <i>Biology</i>, 2(1): pp.399~418.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Weinstein, L. and M.N. Swertz. 1974. “Pathogenic Properties of Invading Microorganism.” Sodeman W A Jr, W A Sodeman, eds.//, <i>Pathologic Physiology: Mechanisms of Disease</i>Philadelphia: Saunders: 745~772.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Weinstein, L. and M.N. Swartz. 1974. “Pathogenic Properties of Invading Microorganisms.” Sodeman W A Jr, W A Sodeman, eds.//, <i>Pathologic Physiology: Mechanisms of Disease</i>Philadelphia: Saunders: 457~472.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">World Health Organization. 1970. “Factors Regulating the Immune Response: Report of WHO Scientific Group,” WHO.</div>
@@ -629,106 +629,103 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">倪素香，2002，《德育学科的比较研究与理论探索》，《武汉大学学报》第4期，第512~513页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">任东来，2000，《对国际体制和国际制度的理解和翻译》//《全球化与亚太区域化国际研讨会论文集》。</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">任东来，2000，《对国际体制和国际制度的理解和翻译》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">任东来，[日期不详]，《对国际体制和国际制度的理解和翻译》. 。</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">伤心人（麦孟华），[日期不详]，《说奴隶》，《清议报》第第1页页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">伤心人（麦孟华），[日期不详]，《说奴隶》，《清议报》第第1页页。</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">实藤惠秀，1982，《中国人留学日本史》. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社，1982年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">实藤惠秀，1982，《中国人留学日本史》. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社，1982年。</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">唐振常，1997，《师承与变法》//《识史集》上海: 上海古籍出版社，1997年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">唐振常，1997，《师承与变法》//《识史集》上海: 上海古籍出版社，1997年。</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">汪疑今，1936，《江苏的小农及其副业》，《中国经济》第6期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">汪疑今，1936，《江苏的小农及其副业》，《中国经济》第6期。</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">王明亮，1998，《关于中国学术期刊标准化数据库系统工程的进展》(1998-08-16)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">王明亮，1998，《关于中国学术期刊标准化数据库系统工程的进展》(1998-08-16)。</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">魏丽英，1990，《论近代西北人口波动的若干主要原因》，《社会科学》第6期，第68~73, 86页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">魏丽英，1990，《论近代西北人口波动的若干主要原因》，《社会科学》第6期，第68~73, 86页。</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">扬之水，[日期不详]，《两宋茶诗与茶事》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">扬之水，[日期不详]，《两宋茶诗与茶事》。</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">杨钟羲，1991，《雪桥诗话续集》. 沈阳: 辽沈书社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">杨钟羲，1991，《雪桥诗话续集》. 沈阳: 辽沈书社。</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">姚际恒，[日期不详]，《古今伪书考》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">姚际恒，[日期不详]，《古今伪书考》。</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">佚名，1998a，《晚清洋务运动事类汇钞五十七种》. 北京: 全国图书馆文献缩微复制中心，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">佚名，1998a，《晚清洋务运动事类汇钞五十七种》. 北京: 全国图书馆文献缩微复制中心，1998年。</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">赵景深，1948，《文坛忆旧》. 上海: 北新书局，1948年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">赵景深，1948，《文坛忆旧》. 上海: 北新书局，1948年。</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">佚名，1910，《四川会议厅暂行章程》，《广益丛报》第第8年第19期期，第第1—2页页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">佚名，1910，《四川会议厅暂行章程》，《广益丛报》第第8年第19期期，第1~2页。</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">佚名，1917，《傅良佐致国务院电》(1917-09-15)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">佚名，1917，《傅良佐致国务院电》(1917-09-15)。</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">佚名，1925，《上海各路商界总联合会致外交部电》，《民国日报》第4页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">佚名，1925，《上海各路商界总联合会致外交部电》，《民国日报》第4页。</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">佚名，1933，《西南中委反对在宁召开五全会》，《民国日报》第第1张第4版页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名，1933，《西南中委反对在宁召开五全会》，《民国日报》第第1张第4版页。</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名，1950，《党外人士座谈会记录》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">佚名，1950，《党外人士座谈会记录》。</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Anonymous. 1969. “Nixon to Kissinger”(1969-02-01).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Anonymous. 1969. “Nixon to Kissinger”(1969-02-01).</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">佚名，1975，《旧唐书》. 北京: 中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名，1975，《旧唐书》. 北京: 中华书局。</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">佚名，1983a，《中国哲学发展史（先秦卷）》. 任继愈, 编. 北京: 人民出版社，1983年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名，1983a，《中国哲学发展史（先秦卷）》. 任继愈, 编. 北京: 人民出版社，1983年。</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名，1983b，《方苞集》. 上海: 上海古籍出版社。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名，1983b，《方苞集》. 上海: 上海古籍出版社。</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名，1985，《太平御览》. 北京: 中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">佚名，1985，《太平御览》. 北京: 中华书局。</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">佚名，1986，《荣庆日记》. 西安: 西北大学出版社，1986年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">佚名，1986，《荣庆日记》. 西安: 西北大学出版社，1986年。</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">佚名，1987，《清德宗实录》. 北京: 中华书局。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名，1987，《清德宗实录》. 北京: 中华书局。</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名，1989，《周恩来传》. 金冲及, 编. 北京: 人民出版社、中央文献出版社，1989年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名，1989，《周恩来传》. 金冲及, 编. 北京: 人民出版社、中央文献出版社，1989年。</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名，1992，《广东通志》. 北京: 中国书店。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">佚名，1992，《广东通志》. 北京: 中国书店。</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">佚名，1998b，《马克思恩格斯全集》. 北京: 人民出版社，1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">佚名，1998b，《马克思恩格斯全集》. 北京: 人民出版社，1998年。</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">佚名，[日期不详]，《嘉定县志》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">佚名，[日期不详]，《嘉定县志》。</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">佚名，[日期不详]，《上海县续志》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">佚名，[日期不详]，《上海县续志》。</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Brooks, P. 2000. “Troubling Confessions: Speaking Guilt in Law and Literature”. Chicago: University of Chicago Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Brooks, P. 2000. “Troubling Confessions: Speaking Guilt in Law and Literature”. Chicago: University of Chicago Press.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain, H.B. 1993. “On the Search for Civil Society in China,” <i>Modern China</i>, 19(2): pp.199~215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Chamberlain, H.B. 1993. “On the Search for Civil Society in China,” <i>Modern China</i>, 19(2): pp.199~215.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Polo, M. 1997. “The Travels of Marco Polo.” Marsden W, tran.. Hertfordshire: Cumberland House.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Polo, M. 1997. “The Travels of Marco Polo.” Marsden W, tran.. Hertfordshire: Cumberland House.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Schfield, R.S. 1983. “The Impact of Scarcity and Plenty on Population Change in England.” Rotberg R I, T K Rabb, eds.//, <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>Cambridge, Mass.: Cambridge University Press: 55~88.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield, R.S. 1983. “The Impact of Scarcity and Plenty on Population Change in England.” Rotberg R I, T K Rabb, eds.//, <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>Cambridge, Mass.: Cambridge University Press: 55~88.</div>
   </div>
 </div>
 
@@ -740,256 +737,262 @@ Qian et al. （2009a）<br>
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">[德]莱纳·沃尔夫，2012，《风险法的风险》. 刘刚, 编. 陈霄, 译//《风险规制：德国的理论与实践》法律出版社，2012年。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">崔国斌，2006，《知识产权法官造法批判》，《中国法学》第1期，第144~164页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">邓小平，1994，《精简机构是一场革命》//《邓小平文选》2 版. 人民出版社，1994年。</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">[德]莱纳·沃尔夫，2012，《风险法的风险》. 刘刚, 编. 陈霄, 译//《风险规制：德国的理论与实践》法律出版社，2012年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">国家质量监督检验检疫总局和中国国家标准化管理委员会，2015，《信息与文献 参考文献著录规则》. 。</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">邓小平，1994，《精简机构是一场革命》//《邓小平文选》2 版. 人民出版社，1994年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">国务院，2007a，《国务院关于在全国建立农村最低生活保障制度的通知》(2007-07-11)。</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">国家质量监督检验检疫总局和中国国家标准化管理委员会，2015，《信息与文献 参考文献著录规则》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">国务院，2007b，《国务院关于在全国建立农村最低生活保障制度的通知》(2007-07-11)。</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">国务院，2007a，《国务院关于在全国建立农村最低生活保障制度的通知》(2007-07-11)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">国务院，2018，《国务院关于印发打赢蓝天保卫战三年行动计划的通知》(2018-06-27)。</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">国务院，2007b，《国务院关于在全国建立农村最低生活保障制度的通知》(2007-07-11)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">何海波，2000，《判决书上网》，《法制日报》第2页。</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">国务院，2018，《国务院关于印发打赢蓝天保卫战三年行动计划的通知》(2018-06-27)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">季卫东，1993，《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》第1期。</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">何海波，2000，《判决书上网》，《法制日报》第2页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">李松锋，2015，《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学博士学位论文学位论文，2015年。</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">季卫东，1993，《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》第1期，第83~103页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">罗豪才、袁曙宏和李文栋，1993，《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》第1期，第52~59页。</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">李松锋，2015，《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学博士学位论文学位论文，2015年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">[美]富勒，2005，《法律的道德性》. 郑戈, 译. 商务印书馆，2005年。</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">罗豪才、袁曙宏和李文栋，1993，《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》第1期，第52~59页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">欧中坦，1994，《千方百计上京城：清朝的京控》. 高道蕴, 高鸿钧, 贺卫方, 编. 谢鹏程, 译//《美国学者论中国法律传统》中国政法大学出版社，1994年。</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">[美]富勒，2005，《法律的道德性》. 郑戈, 译. 商务印书馆，2005年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">全国人大常委会，1991，《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》. 。</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">欧中坦，1994，《千方百计上京城：清朝的京控》. 高道蕴, 高鸿钧, 贺卫方, 编. 谢鹏程, 译//《美国学者论中国法律传统》中国政法大学出版社，1994年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">全国人大常委会，2005，《中华人民共和国公司法》. 2005年修订 版. 。</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">瞿同祖，2010，《中国法律与中国社会》. 商务印书馆，2010年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">全国人大常委会，2013，《中华人民共和国公司法》. 2013年修正 版. 。</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">全国人大常委会，1991，《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">全国人大常委会，2017，《中华人民共和国刑法修正案（十）》. 。</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">全国人大常委会，2005，《中华人民共和国公司法》. 2005年修订 版. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">汪波，2004，《哈尔滨市政法机关正对“宝马案”认真调查复查》(2004-01-10)。</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">全国人大常委会，2013，《中华人民共和国公司法》. 2013年修正 版. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">王保树，1994，《股份有限公司机关构造中的董事和董事会》. 梁慧星, 编//《民商法论丛》法律出版社，1994年。</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">全国人大常委会，2017，《中华人民共和国刑法修正案（十）》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">王名扬，2007，《美国行政法》. 北京大学出版社，2007年。</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">汪波，2004，《哈尔滨市政法机关正对“宝马案”认真调查复查》(2004-01-10)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">我妻栄. 1971. “新訂担保物権法”. 有斐閣.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">王保树，1994，《股份有限公司机关构造中的董事和董事会》. 梁慧星, 编//《民商法论丛》法律出版社，1994年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">我妻栄 and 有泉亨. 1950. “民法総則物権法”. 日本評論社.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">王名扬，2007，《美国行政法》. 北京大学出版社，2007年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">夏新华、胡旭晟、刘鄂、甘正气、万利容和刘姗姗，2004，《近代中国宪政历程》. 中国政法大学出版社，2004年。</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">我妻栄. 1971. “新訂担保物権法”. 有斐閣.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">信春鹰，2013，《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》. 。</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">我妻栄 and 有泉亨. 1950. “民法総則物権法”. 日本評論社.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">[英]劳特派特，1971，《奥本海国际法》. 王铁崖, 陈体强, 译. 8 版. 商务印书馆，1971年。</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华、胡旭晟、刘鄂、甘正气、万利容和刘姗姗，2004，《近代中国宪政历程》. 中国政法大学出版社，2004年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">於保不二雄. 1954. “付加物及び従物と抵当権,” 民商法雑誌, 29(5): pp.1.</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">信春鹰，2013，《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">张新宝，2016，《侵权责任法》. 4 版. 中国人民大学出版社，2016年。</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特，1971，《奥本海国际法》. 王铁崖, 陈体强, 译. 8 版. 商务印书馆，1971年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">赵耀彤，2018，《一名基层法官眼里好律师的样子》(2018-12-01)。</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">於保不二雄. 1954. “付加物及び従物と抵当権,” 民商法雑誌, 29(5): pp.1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">中国共产党中央委员会，2014，《中共中央关于全面推进依法治国若干重大问题的决定》(2014-10-23)。</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">张新宝，2016，《侵权责任法》. 4 版. 中国人民大学出版社，2016年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">最高人民法院，2018，《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》(2018-02-06)。</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">赵耀彤，2018，《一名基层法官眼里好律师的样子》(2018-12-01)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">最高人民法院和最高人民检察院，1993，《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》(1993-11-12)。</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">中国共产党中央委员会，2014，《中共中央关于全面推进依法治国若干重大问题的决定》(2014-10-23)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">佐藤英明. 2014. “一時所得の要件に関する覚書.” 金子宏, 中里実, J.マーク・ラムザイヤー, eds.//, 租税法と市場有斐閣: 220.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">最高人民法院，2018，《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》(2018-02-06)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Alford, W. 1995. “To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization”. Stanford University Press.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院和最高人民检察院，1993，《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》(1993-11-12)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Anonymous. 1919. “信玄公旗掛松事件”(1919-03-03).</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">佐藤英明. 2014. “一時所得の要件に関する覚書.” 金子宏, 中里実, J.マーク・ラムザイヤー, eds.//, 租税法と市場有斐閣: 220.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Anonymous. 1966. “Department of Transportation Act”//, <i>Stat.</i></div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Alford, W. 1995. “To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization”. Stanford University Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Anonymous. 1973. “Roe <i>v.</i> Wade.”</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Anonymous. 1919. “信玄公旗掛松事件”(1919-03-03).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Anonymous. 1982a. “Natural Resources Defense Council <i>v.</i> Gorsuch.”</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Anonymous. 1966. “Department of Transportation Act”//, <i>Stat.</i></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Anonymous. 1982b. “約束手形金”(1982-07-15).</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Anonymous. 1973. “Roe <i>v.</i> Wade.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Anonymous. 1984. “Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council.”</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Anonymous. 1982a. “Natural Resources Defense Council <i>v.</i> Gorsuch.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anonymous. 1987. “R. v. Panel on Take-Overs and Mergers.”</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anonymous. 1982b. “約束手形金”(1982-07-15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">Anonymous. 1999. .</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">Anonymous. 1984. “Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">Anonymous. 2000. .</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">Anonymous. 1987. “R. v. Panel on Take-Overs and Mergers.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Anonymous. 2003. “Rechtsphilosophie Studienausgabe.” Dreier R, S Paulson, eds.. 2 edition. Heidelberg: UTB Uni-Taschenbücher Verlag.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Anonymous. 1999. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">佚名，2006，《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》. 应松年, 马怀德, 编. 中国法制出版社，2006年。</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Anonymous. 2000. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Anonymous. 2006. “Administrative Procedure Act § 6”//, <i>U.S.C.</i></div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Anonymous. 2003. “Rechtsphilosophie Studienausgabe.” Dreier R, S Paulson, eds.. 2 edition. Heidelberg: UTB Uni-Taschenbücher Verlag.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">佚名，2013a，《英美法原论》. 高鸿钧, 程汉大, 编. 北京大学出版社，2013年。</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">佚名，2006，《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》. 应松年, 马怀德, 编. 中国法制出版社，2006年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">佚名，2013b，《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》(2013-02-08)。</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Anonymous. 2006. “Administrative Procedure Act § 6”//, <i>U.S.C.</i></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">佚名，2015，《陆红霞诉南通市发改委政府信息公开案》(2015-07-06)。</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">佚名，2013a，《英美法原论》. 高鸿钧, 程汉大, 编. 北京大学出版社，2013年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">佚名，2017，《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》(2017-12-16)。</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">佚名，2013b，《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》(2013-02-08)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">佚名，[日期不详]，《被告人李宁、张磊贪污案一审开庭》。</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">佚名，2015，《陆红霞诉南通市发改委政府信息公开案》(2015-07-06)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">佚名，[日期不详]，《法国行政法院网站》。</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">佚名，2017，《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》(2017-12-16)。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">佚名，[日期不详]，《民法总则》. 。</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">佚名，[日期不详]，《被告人李宁、张磊贪污案一审开庭》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">佚名，[日期不详]，《包郑照诉苍南县人民政府强制拆除房屋案》。</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">佚名，[日期不详]，《法国行政法院网站》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Anonymous. [no date]. “United States <i>v.</i> Dino Nastasi et Al.”</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">佚名，[日期不详]，《民法总则》. 。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Anonymous. [no date]. “StGB”. .</div>
+    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">佚名，[日期不详]，《包郑照诉苍南县人民政府强制拆除房屋案》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Anonymous. [no date]. “StPO”. .</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Anonymous. [no date]. “United States <i>v.</i> Dino Nastasi et Al.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Anonymous. [no date]. “GG”. .</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Anonymous. [no date]. “StGB”. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Anonymous. [no date]. “Strauß-Karikatur, Kunstfreiheit.”</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Anonymous. [no date]. “StPO”. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Anonymous. [no date]. “動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律”. .</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Anonymous. [no date]. “GG”. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Anonymous. [no date]. “平成26年版犯罪白書.”</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Anonymous. [no date]. “Strauß-Karikatur, Kunstfreiheit.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Anonymous. [no date]. “ジュリスト.”</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Anonymous. [no date]. “動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律”. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">佚名，[日期不详]，《温家宝主持国务院会议 研究房地产业健康发展措施》。</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Anonymous. [no date]. “平成26年版犯罪白書.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Badiou-Monferran, C. 1997. “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle,” <i>La Licorne</i>, (43): pp.75~94.</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Anonymous. [no date]. “ジュリスト.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Barbara Ward. 1979. “Progress for a Small Planet,” <i>Harvard Business Review</i>, (Sep.-Oct.): pp.89.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">佚名，[日期不详]，《温家宝主持国务院会议 研究房地产业健康发展措施》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Brandeis, L.D. 1913. “What Publicity Can Do,” <i>Harper’s Weekly</i>pp.10.</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Badiou-Monferran, C. 1997. “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle,” <i>La Licorne</i>, (43): pp.75~94.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">Canaris, C.-W. 1990. “Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen”. .</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">Barbara Ward. 1979. “Progress for a Small Planet,” <i>Harvard Business Review</i>, (Sep.-Oct.): pp.89.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Chevallier, M. 2003. “L’État de droit”. 4 edition. Paris: Montchrestien.</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Brandeis, L.D. 1913. “What Publicity Can Do,” <i>Harper’s Weekly</i>pp.10.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Fischer, T. 2015. “Absurdes Spektakel um den Tod,” <i>Die Zeit</i>.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Canaris, C.-W. 1990. “Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen”. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Habermas, J. 1996. “Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy.” Rehg W, tran.. MIT Press.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Chevallier, M. 2003. “L’État de droit”. 4 edition. Paris: Montchrestien.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Horsley, J. 2006. “Rule of Law in China: Incremental Progress.” Bergsten C F, B Gill, N R Lardy, D Mitchell, eds.//, <i>China: The Balance Sheet</i>Public Affairs Press.</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Fischer, T. 2015. “Absurdes Spektakel um den Tod,” <i>Die Zeit</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Joyeux-Prunel, B. [no date]. “L’histoire de l’art et le quantitatif.”</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Habermas, J. 1996. “Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy.” Rehg W, tran.. MIT Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Kaufmann, A. 1972. “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht.” Baumann J, ed.//, <i>Das Abtreibungsverbot des § 218 StGB</i>2 edition. .</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Horsley, J. 2006. “Rule of Law in China: Incremental Progress.” Bergsten C F, B Gill, N R Lardy, D Mitchell, eds.//, <i>China: The Balance Sheet</i>Public Affairs Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">McDonell, S. 2016. “When China Began Streaming Trials Online”(2016-09-30).</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">Joyeux-Prunel, B. [no date]. “L’histoire de l’art et le quantitatif.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">Meidenbauer, M. [no date]. “Wissenschaftliches Publizieren.”</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">Kaufmann, A. 1972. “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht.” Baumann J, ed.//, <i>Das Abtreibungsverbot des § 218 StGB</i>2 edition. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">Poisson, M. 2015a. “Le droit de la mer,” <i>RGDIP</i>pp.15~47.</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">McDonell, S. 2016. “When China Began Streaming Trials Online”(2016-09-30).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Poisson, M. 2015b. “Le droit de la mer”//, <i>Le droit des Océans</i>Éditions de la mer edition. .</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Meidenbauer, M. [no date]. “Wissenschaftliches Publizieren.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Poisson, M. 2016a. “Le droit de la mer en Méditerranée,” Congrès de Marseille.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Poisson, M. 2015a. “Le droit de la mer,” <i>RGDIP</i>pp.15~47.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Poisson, M. 2016b. “Le droit de la mer en Méditerranée,” Rapport de recherche de l’IFREMER, No. 1202.</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Poisson, M. 2015b. “Le droit de la mer”//, <i>Le droit des Océans</i>Éditions de la mer edition. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">Poisson, M. 2016c. “Le droit de la mer appliqué à la Méditerranée”. l’Université de Marseille.</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">Poisson, M. 2016a. “Le droit de la mer en Méditerranée,” Congrès de Marseille.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">Reich, C.A. 1964. “The New Property,” <i>Yale Law Journal</i>, 73(5): pp.733~787.</div>
+    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">Poisson, M. 2016b. “Le droit de la mer en Méditerranée,” Rapport de recherche de l’IFREMER, No. 1202.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Rosenthal, A. 1990. “White House Tutors Kremlin in How a Presidency Works,” <i>New York Times</i>pp.A1.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Poisson, M. 2016c. “Le droit de la mer appliqué à la Méditerranée”. l’Université de Marseille.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Roxin, C. 2006. “Strafrecht Allgemeiner Teil”. 4 edition. C. H. Beck.</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Reich, C.A. 1964. “The New Property,” <i>Yale Law Journal</i>, 73(5): pp.733~787.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Schwab, M. 2013. //, <i>Münchener Kommentar BGB</i>6 edition. .</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Rosenthal, A. 1990. “White House Tutors Kremlin in How a Presidency Works,” <i>New York Times</i>pp.A1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Vogel, B. 2017. “Rechtsgüterschutz und Normgeltung,” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 129(3): pp.629~649.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Roxin, C. 2006. “Strafrecht Allgemeiner Teil”. 4 edition. C. H. Beck.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Würdinger, M. 2012. “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts,” <i>Juristische Schulung</i>, (3): pp.234~240.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Schwab, M. 2013. //, <i>Münchener Kommentar BGB</i>6 edition. .</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Vogel, B. 2017. “Rechtsgüterschutz und Normgeltung,” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 129(3): pp.629~649.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Würdinger, M. 2012. “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts,” <i>Juristische Schulung</i>, (3): pp.234~240.</div>
   </div>
 </div>
 

@@ -8,7 +8,7 @@
 
 ### 引注
 
-<sup>1</sup> 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
+<sup>1</sup> 库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
 <sup>2</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
 <sup>3</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
 <sup>4</sup> FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>
@@ -23,7 +23,7 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
@@ -47,7 +47,7 @@
 ### 引注
 
 <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
-<sup>2</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+<sup>2</sup> MORRIS I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
 <sup>3</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006.<br>
 <sup>4</sup> 同2: 326-329.<br>
 <sup>5</sup> 同上.<br>
@@ -66,32 +66,32 @@
 <sup>3</sup> 北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.<br>
 <sup>4</sup> 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.<br>
 <sup>5</sup> 徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.<br>
-<sup>6</sup> 顾炎武. 昌平山水记: 京东考古录[M]. 北京: 北京古籍出版社, 1992.<br>
+<sup>6</sup> 顾炎武. 昌平山水记：京东考古录[M]. 北京: 北京古籍出版社, 1982.<br>
 <sup>7</sup> 王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.<br>
 <sup>8</sup> 牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
 <sup>9</sup> 中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.<br>
 <sup>10</sup> 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.<br>
 <sup>11</sup> 赵学功. 当代美国外交[M/OL]. 北京: 社会科学文献出版社, 2001[2014-06-11]. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a>.<br>
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M/OL]. 上海: 同济大学出版社, 2011: 5-6[2013-05-09]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>.<br>
-<sup>13</sup> 中国造纸学会. 中国造纸年鉴: 2003[M/OL]. 北京: 中国轻工业出版社, 2003[2014-04-25]. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a>.<br>
+<sup>13</sup> 中国造纸学会. 中国造纸年鉴：2003[M/OL]. 北京: 中国轻工业出版社, 2003[2014-04-25]. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a>.<br>
 <sup>14</sup> PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.<br>
 <sup>15</sup> YUFIN S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema, 2000.<br>
 <sup>16</sup> BALDOCK P. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press, 2011: 105[2012-11-27]. <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.<br>
 <sup>17</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
-<sup>18</sup> 周易外传: 卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.<br>
+<sup>18</sup> 周易外传：卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.<br>
 <sup>19</sup> 程根伟. 1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.<br>
-<sup>20</sup> 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.<br>
+<sup>20</sup> 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.<br>
 <sup>21</sup> 马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.<br>
 <sup>22</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
-<sup>23</sup> WEINSTEIN L, SWERTZ M N. Pathogenic properties of invading microorganism[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 745-772.<br>
-<sup>24</sup> ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M/OL]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10]. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.<br>
+<sup>23</sup> WEINSTEIN L, SWARTZ M N. Pathogenic properties of invading microorganisms[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.<br>
+<sup>24</sup> ROBERSON J A, BURNESON E G. Drinking water standards, regulations, and goals[M/OL]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10]. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.<br>
 <sup>25</sup> 中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.<br>
 <sup>26</sup> 中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.<br>
 <sup>27</sup> American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>28</sup> 袁训来, 陈哲, 肖书海, 等. 蓝田生物群: 一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.<br>
-<sup>29</sup> 余建斌. 我们的科技一直在追赶: 访中国工程院院长周济[N/OL]. 人民日报, 2013-01-12(2)[2013-03-20]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>.<br>
+<sup>28</sup> 袁训来, 陈哲, 肖书海, 等. 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.<br>
+<sup>29</sup> 余建斌. 我们的科技一直在追赶：访中国工程院院长周济[N/OL]. 人民日报, 2013-01-12(2)[2013-03-20]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>.<br>
 <sup>30</sup> 李炳穆. 韩国图书馆法[J/OL]. 图书情报工作, 2008, 52(6): 6-12[2013-10-25]. <a href="http://www.docin.com/p-400265742.html">http://www.docin.com/p-400265742.html</a>.<br>
-<sup>31</sup> 李幼平, 王莉. 循证医学研究方法: 附视频[J/OL]. 中华移植杂志(电子版), 2010, 4(3): 225-228[2014-06-09]. <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a>.<br>
+<sup>31</sup> 李幼平, 王莉. 循证医学研究方法：附视频[J/OL]. 中华移植杂志（电子版）, 2010, 4(3): 225-228[2014-06-09]. <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a>.<br>
 <sup>32</sup> 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.<br>
 <sup>33</sup> KANAMORI H. Shaking without quaking[J/OL]. Science, 1998, 279(5359): 2063. DOI:<a href="https://doi.org/10.1126/science.279.5359.2063">10.1126/science.279.5359.2063</a>.<br>
 <sup>34</sup> CAPLAN P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.<br>
@@ -99,15 +99,15 @@
 <sup>36</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.<br>
 <sup>37</sup> 邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.<br>
 <sup>38</sup> 西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P/OL]. 2002-03-06[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a>.<br>
-<sup>39</sup> TACHIBANA R, SHIMIZU S, KOBAYSHI S, et al. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.<br>
-<sup>40</sup> 中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.<br>
-<sup>41</sup> 北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发[2005]37号[A/OL]. (2005-07-12)[2011-07-12]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.<br>
+<sup>39</sup> TACHIBANA R, SHIMIZU S, KOBAYASHI S, et al. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.<br>
+<sup>40</sup> 中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.<br>
+<sup>41</sup> 北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号[A/OL]. (2005-07-12)[2011-07-12]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.<br>
 <sup>42</sup> BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
 <sup>43</sup> Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.<br>
-<sup>44</sup> HOPKINSON A. UNIMARC and metadata: Dublin core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
+<sup>44</sup> HOPKINSON A. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
 <sup>45</sup> Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.<br>
 <sup>46</sup> 刘乃安. 生物质材料热解失重动力学及其分析方法研究[D/OL]. 合肥: 中国科学技术大学, 2000: 17-18[2014-08-29]. <a href="http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa">http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa</a>. DOI:<a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>.<br>
-<sup>47</sup> DEVERELL W, IGLER D. A companion to California history[D/OL]. New York: John Wiley &#38; Sons, 2013: 21-22[2014-06-24]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036.ch2/summary</a>. DOI:<a href="https://doi.org/10.1002/9781444305036.ch2">10.1002/9781444305036.ch2</a>.<br>
+<sup>47</sup> DEVERELL W, IGLER D. A companion to California history[M/OL]. New York: John Wiley &#38; Sons, 2013: 21-22[2014-06-24]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary</a>. DOI:<a href="https://doi.org/10.1002/9781444305036">10.1002/9781444305036</a>.<br>
 <sup>48</sup> BAKER S K, JACKSON M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.<br>
 <sup>49</sup> CHERNIK B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
 <sup>50</sup> 尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.<br>
@@ -115,41 +115,41 @@
 <sup>52</sup> 杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.<br>
 <sup>53</sup> DOWLER L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J/OL]. Journal of Library Administration, 1995, 21(1/2): 5-26. DOI:<a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.<br>
 <sup>54</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
-<sup>55</sup> MORRI I. Why the west rules for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
-<sup>56</sup> 罗杰斯. 西方文明史: 问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+<sup>55</sup> MORRIS I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+<sup>56</sup> 罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
 <sup>57</sup> 陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.<br>
 <sup>58</sup> CRANE D. Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.<br>
 <sup>59</sup> STIEG M F. The information needs of historians[J/OL]. College &#38; Research Libraries, 1981, 42(6): 549-560. DOI:<a href="https://doi.org/10.5860/crl_42_06_549">10.5860/crl_42_06_549</a>.<br>
-<sup>60</sup> 王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报(社会科学版), 2010, 37(4): 147.<br>
-<sup>61</sup> 王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.<br>
+<sup>60</sup> 王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.<br>
+<sup>61</sup> 王临惠. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.<br>
 <sup>62</sup> KENNEDY W J, GARRISON R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J/OL]. Sedimentology, 1975, 22: 311. DOI:<a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">10.1111/j.1365-3091.1975.tb01637.x</a>.<br>
-<sup>63</sup> KENNEDY W J, GARRISON R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J/OL]. Lethaia, 1975, 8(4): 339-360. <a href="https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1502-3931.1975.tb00940.x">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1502-3931.1975.tb00940.x</a>. DOI:<a href="https://doi.org/10.1111/j.1502-3931.1975.tb00940.x">10.1111/j.1502-3931.1975.tb00940.x</a>.<br>
-<sup>64</sup> 张忠智. 科技书刊的总编(主编)的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.<br>
+<sup>63</sup> KENNEDY W J, GARRISON R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia, 1975, 8(4): 339-360.<br>
+<sup>64</sup> 张忠智. 科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.<br>
-<sup>66</sup> 刘彻东. 中国的青年刊物: 个性特色为本仁[J]. 中国出版, 1998(5): 38-39.<br>
+<sup>66</sup> 刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38-39.<br>
 <sup>67</sup> 裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.<br>
 <sup>68</sup> 张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.<br>
-<sup>69</sup> 皮锡瑞. 师伏堂日记: 第 4 册[M]. 北京: 北京图书馆出版社, 2009: 155.<br>
+<sup>69</sup> 皮锡瑞. 师伏堂日记: 第 4 册[M]. 北京: 国家图书馆, 2009: 155.<br>
 <sup>70</sup> 胡承正, 周详, 缪灵. 理论物理概论: 上[M]. 武汉: 武汉大学出版社, 2010: 112.<br>
-<sup>71</sup> 美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.<br>
-<sup>72</sup> 康熙字典: 巳集上: 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.<br>
+<sup>71</sup> 美国妇产科医师学会. 新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.<br>
+<sup>72</sup> 康熙字典：巳集上：水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.<br>
 <sup>73</sup> 汪昂. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂, 1881.<br>
 <sup>74</sup> 蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.<br>
-<sup>75</sup> 中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾: 大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.<br>
+<sup>75</sup> 中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾：大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.<br>
 <sup>76</sup> 罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.<br>
-<sup>77</sup> 库恩. 科学革命的结构: 第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
-<sup>78</sup> 侯文顺. 高分子物理: 高分子材料分析、选择与改性[M/OL]. 北京: 化学工业出版社, 2010: 119[2012-11-27]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228</a>.<br>
+<sup>77</sup> 库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
+<sup>78</sup> 侯文顺. 高分子物理：高分子材料分析、选择与改性[M/OL]. 北京: 化学工业出版社, 2010: 119[2012-11-27]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228</a>.<br>
 <sup>79</sup> CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.<br>
 <sup>80</sup> International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.<br>
-<sup>81</sup> O’BRIEN J A. Introduction to information systems[M]. 7th ed. Burr Ridge, III: Irwin, 1994.<br>
+<sup>81</sup> O’BRIEN J A. Introduction to information systems[M]. 7th ed. Burr Ridge, IL: Irwin, 1994.<br>
 <sup>82</sup> KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50[2013-07-14]. <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a>.<br>
 <sup>83</sup> PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.<br>
 <sup>84</sup> 中国职工教育研究会. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985.<br>
 <sup>85</sup> 中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012.<br>
-<sup>86</sup> 雷光春. 综合湿地管理: 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
-<sup>87</sup> 陈志勇. 中国财税文化价值研究: “中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社, 2011[2013-10-14]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN</a>.<br>
+<sup>86</sup> 雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
+<sup>87</sup> 陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社, 2011[2013-10-14]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN</a>.<br>
 <sup>88</sup> BABU B V, NAGAR A K, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer, 2014.<br>
-<sup>89</sup> 中华人民共和国国务院新闻办公室. 国防白皮书: 中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.<br>
+<sup>89</sup> 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.<br>
 <sup>90</sup> 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL]. (2013-09-30)[2014-06-24]. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a>.<br>
 <sup>91</sup> CALKIN D, AGER A, THOMPSON M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.<br>
 <sup>92</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.<br>
@@ -160,21 +160,21 @@
 <sup>97</sup> 张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.<br>
 <sup>98</sup> 河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P/OL]. 2001-10-24[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>.<br>
 <sup>99</sup> KOSEKI A, MOMOSE H, KAWAHITO M, et al. Compiler: US828402[P/OL]. 2002-05-25[2002-05-28]. <a href="http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM">http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM</a>.<br>
-<sup>100</sup> 全国信息与文献标准化技术委员会. 文献著录: 第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.<br>
-<sup>101</sup> 全国广播电视标准化技术委员会. 广播电视音像资料编目规范: 第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.<br>
+<sup>100</sup> 全国信息与文献标准化技术委员会. 文献著录：第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.<br>
+<sup>101</sup> 全国广播电视标准化技术委员会. 广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.<br>
 <sup>102</sup> 国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S/OL]. 北京: 中国标准出版社, 1996: 2-3[2013-10-14]. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>.<br>
-<sup>103</sup> Information and documentation—The Dublin core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.<br>
+<sup>103</sup> Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.<br>
 <sup>104</sup> 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.<br>
 <sup>105</sup> 白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.<br>
 <sup>106</sup> 汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.<br>
-<sup>107</sup> 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编: 3. 北京: 中国标准出版社, 1988: 59-92.<br>
-<sup>108</sup> 宋史卷三: 本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.<br>
+<sup>107</sup> 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京: 中国标准出版社, 1988: 59-92.<br>
+<sup>108</sup> 宋史卷三：本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.<br>
 <sup>109</sup> 楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M/OL]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012[2013-05-09]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>.<br>
-<sup>110</sup> BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxense. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.<br>
+<sup>110</sup> BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.<br>
 <sup>111</sup> FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>
 <sup>112</sup> 杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.<br>
 <sup>113</sup> 李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.<br>
-<sup>114</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报(自然科学版), 2012, 52(11): 1518-1523.<br>
+<sup>114</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
 <sup>115</sup> 陈建军. 从数字地球到智慧地球[J/OL]. 国土资源导刊, 2010, 7(10): 93[2013-03-20]. <a href="http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx">http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx</a>. DOI:<a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">10.3969/j.issn.1672-5603.2010.10.038</a>.<br>
 <sup>116</sup> DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.<br>
 <sup>117</sup> SAITO M, MIYAZAKI K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J/OL]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176. DOI:<a href="https://doi.org/10.9795/bullgsj.57.169">10.9795/bullgsj.57.169</a>.<br>
@@ -182,13 +182,13 @@
 <sup>119</sup> FRANZ A K, DANIELEWICZ M A, WONG D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J/OL]. ACS Chemical Biology, 2013, 8: 1053-1062[2014-06-26]. <a href="http://pubs.acs.org/doi/ipdf/10.1021/cb300573r">http://pubs.acs.org/doi/ipdf/10.1021/cb300573r</a>. DOI:<a href="https://doi.org/10.1021/cb300573r">10.1021/cb300573r</a>.<br>
 <sup>120</sup> PARK J R, TOSAKA Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715[2013-09-05]. <a href="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</a>. DOI:<a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.<br>
 <sup>121</sup> 丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).<br>
-<sup>122</sup> 张田勤. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).<br>
+<sup>122</sup> 张田勘. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).<br>
 <sup>123</sup> 傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 北京青年报, 2000-01-12[2005-09-28]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</a>.<br>
-<sup>124</sup> 刘裕国, 杨柳, 张洋, 等. 雾霾来袭, 如何突围?[N/OL]. 人民日报, 2013-01-12[2013-11-06]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm</a>.<br>
+<sup>124</sup> 刘裕国, 杨柳, 张洋, 等. 雾霾来袭，如何突围？[N/OL]. 人民日报, 2013-01-12[2013-11-06]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm</a>.<br>
 <sup>125</sup> 萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.<br>
 <sup>126</sup> 李强. 化解医患矛盾需釜底抽薪[EB/OL]. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.<br>
 <sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.<br>
-<sup>128</sup> Dublin core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
+<sup>128</sup> Dublin Core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -248,11 +248,11 @@
 <sup>8</sup> 狄葆贤. 平等阁笔记[M]. 上海: 有正书局.<br>
 <sup>9</sup> 马克思恩格斯全集: 卷 31[M]. 北京: 人民出版社, 1998.<br>
 <sup>10</sup> 杜威·佛克马. 走向新世界主义[M]//王宁, 薛晓源. 全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247-266.<br>
-<sup>11</sup> 鲁迅. 中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社, 1981: 325.<br>
-<sup>12</sup> 唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997: 65.<br>
+<sup>11</sup> 鲁迅. 中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社, 1981.<br>
+<sup>12</sup> 唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997.<br>
 <sup>13</sup> 李鹏程. 当代文化哲学沉思[M]. 北京: 人民出版社, 1994.<br>
-<sup>14</sup> 楼适夷. 读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998: 2.<br>
-<sup>15</sup> 黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997: 2.<br>
+<sup>14</sup> 楼适夷. 读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店, 1998.<br>
+<sup>15</sup> 黄仁宇. 为什么称为“中国大历史”？——中文版自序[M]//中国大历史. 北京: 三联书店, 1997.<br>
 <sup>16</sup> 姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.<br>
 <sup>17</sup> 毛祥麟. 墨余录[M]. 上海: 上海古籍出版社, 1985.<br>
 <sup>18</sup> 杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社, 1991.<br>
@@ -272,21 +272,20 @@
 <sup>32</sup> 倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512-513.<br>
 <sup>33</sup> 李眉. 李劼人轶事[N]. 四川工人日报, 1986-08-22(2).<br>
 <sup>34</sup> 伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).<br>
-<sup>35</sup> 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(1-2).<br>
+<sup>35</sup> 四川会议厅暂行章程[N]. 广益丛报, 1910-09-03(第1—2页).<br>
 <sup>36</sup> 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).<br>
 <sup>37</sup> 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).<br>
 <sup>38</sup> 方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.<br>
-<sup>39</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会, 六月 2000, 天津. 天津: 9.<br>
-<sup>40</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会论文集. 天津, 2000: 9.<br>
-<sup>41</sup> 傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.<br>
-<sup>42</sup> 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.<br>
-<sup>43</sup> 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.<br>
-<sup>44</sup> 扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.<br>
-<sup>45</sup> BROOKS P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.<br>
-<sup>46</sup> POLO M. The travels of Marco Polo[M]. MARSDEN W, tran. Hertfordshire: Cumberland House, 1997.<br>
-<sup>47</sup> CHAMBERLAIN H B. On the search for civil society in China[J/OL]. Modern China, 1993, 19(2): 199-215. DOI:<a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.<br>
-<sup>48</sup> SCHFIELD R S. The impact of scarcity and plenty on population change in England[M]//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.<br>
-<sup>49</sup> Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.<br>
+<sup>39</sup> 任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会. 天津, 2000.<br>
+<sup>40</sup> 傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.<br>
+<sup>41</sup> 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.<br>
+<sup>42</sup> 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.<br>
+<sup>43</sup> 扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.<br>
+<sup>44</sup> BROOKS P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.<br>
+<sup>45</sup> POLO M. The travels of Marco Polo[M]. MARSDEN W, tran. Hertfordshire: Cumberland House, 1997.<br>
+<sup>46</sup> CHAMBERLAIN H B. On the search for civil society in China[J/OL]. Modern China, 1993, 19(2): 199-215. DOI:<a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.<br>
+<sup>47</sup> SCHFIELD R S. The impact of scarcity and plenty on population change in England[M]//ROTBERG R I, RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.<br>
+<sup>48</sup> Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -299,7 +298,7 @@
 <sup>2</sup> 张新宝. 侵权责任法[M]. 4 版. 中国人民大学出版社, 2016.<br>
 <sup>3</sup> 高鸿钧, 程汉大. 英美法原论[M]. 北京大学出版社, 2013.<br>
 <sup>4</sup> [美]富勒. 法律的道德性[M]. 郑戈, 译. 商务印书馆, 2005.<br>
-<sup>5</sup> 季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1).<br>
+<sup>5</sup> 季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1): 83-103.<br>
 <sup>6</sup> 王保树. 股份有限公司机关构造中的董事和董事会[M]//梁慧星. 民商法论丛: 卷 1. 法律出版社, 1994: 110.<br>
 <sup>7</sup> [德]莱纳·沃尔夫. 风险法的风险[M/OL]. 陈霄, 译//刘刚. 风险规制：德国的理论与实践. 法律出版社, 2012[2022-08-04]. <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a>.<br>
 <sup>8</sup> 何海波. 判决书上网[N]. 法制日报, 2000-05-21(2).<br>
@@ -321,64 +320,66 @@
 <sup>24</sup> 夏新华, 胡旭晟, 刘鄂, 等. 近代中国宪政历程[M/OL]. 中国政法大学出版社, 2004[2022-09-03]. <a href="https://book.douban.com/subject/1663375/">https://book.douban.com/subject/1663375/</a>.<br>
 <sup>25</sup> 邓小平. 精简机构是一场革命[M]//邓小平文选: 卷 2. 2 版. 人民出版社, 1994.<br>
 <sup>26</sup> [英]劳特派特. 奥本海国际法: 上卷第一分册[M]. 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971.<br>
-<sup>27</sup> 全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[A/OL]. (2017-11-04)[2022-10-14]. <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a>.<br>
-<sup>28</sup> 全国人大常委会. 中华人民共和国公司法[A/OL]. 2005年修订. (2005-10-27)[2022-10-14]. <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a>.<br>
-<sup>29</sup> 全国人大常委会. 中华人民共和国公司法[A/OL]. 2013年修正. (2013-12-28)[2022-10-27]. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.<br>
-<sup>30</sup> 最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[A/OL]. (1993-11-12)[2022-10-14]. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.<br>
-<sup>31</sup> 全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[A/OL]. (1991-09-04)[2022-10-27]. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.<br>
-<sup>32</sup> 国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A/OL]. (2007-07-11)[2022-10-27]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.<br>
-<sup>33</sup> 最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[A/OL]. (2018-02-06)[2022-10-27]. <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a>.<br>
-<sup>34</sup> 国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[A/OL]. (2018-06-27)[2023-06-19]. <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a>.<br>
-<sup>35</sup> 国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. 2015.<br>
-<sup>36</sup> 信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R/OL]. (2013-12-23)[2023-06-19]. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.<br>
-<sup>37</sup> 中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[A/OL]. (2014-10-23)[2023-06-19]. <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a>.<br>
-<sup>38</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.<br>
-<sup>39</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[A]. 2017.<br>
-<sup>40</sup> Barbara Ward. Progress for a small planet[J/OL]. Harvard Business Review, 1979(Sep.-Oct.): 89[2022-07-26]. <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a>.<br>
-<sup>41</sup> ROSENTHAL A. White House tutors Kremlin in how a presidency works[N/OL]. New York Times, 1990-06-15(A1)[2022-07-26]. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.<br>
-<sup>42</sup> HABERMAS J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. REHG W, tran. MIT Press, 1996.<br>
-<sup>43</sup> HORSLEY J. Rule of law in China: incremental progress[M]//BERGSTEN C F, GILL B, LARDY N R, et al. China: The balance sheet. Public Affairs Press, 2006.<br>
-<sup>44</sup> Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.<br>
-<sup>45</sup> Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.<br>
-<sup>46</sup> Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d: Vol. 685. 1982: 718.<br>
-<sup>47</sup> Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[A]//U.S.: Vol. 467. 1984: 837.<br>
-<sup>48</sup> Roe <i>v.</i> Wade[A]//U.S.: Vol. 410. 1973: 113.<br>
-<sup>49</sup> United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[A].<br>
-<sup>50</sup> MCDONELL S. When China began streaming trials online[EB/OL]. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
-<sup>51</sup> CHEVALLIER M. L’État de droit[M/OL]. 4 版. Paris: Montchrestien, 2003. <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a>.<br>
-<sup>52</sup> POISSON M. Le droit de la mer[J]. RGDIP, 2015: 15-47.<br>
-<sup>53</sup> BADIOU-MONFERRAN C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75-94.<br>
-<sup>54</sup> POISSON M. Le droit de la mer[M]//LAPIEUVRE R. Le droit des Océans. Éditions de la mer. 2015: 12-48.<br>
-<sup>55</sup> POISSON M. Le droit de la mer en Méditerranée[R]. Congrès de Marseille, 2016: 228-229.<br>
-<sup>56</sup> POISSON M. Le droit de la mer en Méditerranée: 1202[R]. 2016.<br>
-<sup>57</sup> POISSON M. Le droit de la mer appliqué à la Méditerranée[D]. l’Université de Marseille, 2016.<br>
-<sup>58</sup> JOYEUX-PRUNEL B. L’histoire de l’art et le quantitatif[EB/OL]. [2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.<br>
-<sup>59</sup> VOGEL B. Rechtsgüterschutz und Normgeltung[J/OL]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629-649[2022-07-26]. <a href="https://www.degruyter.com/document/doi/10.1515/zstw-2017-0033/html?lang=de">https://www.degruyter.com/document/doi/10.1515/zstw-2017-0033/html?lang=de</a>. DOI:<a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>.<br>
-<sup>60</sup> WÜRDINGER M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J/OL]. Juristische Schulung, 2012(3): 234-240[2022-07-26]. <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.<br>
-<sup>61</sup> FISCHER T. Absurdes Spektakel um den Tod[N]. Die Zeit, 2015-09-29.<br>
-<sup>62</sup> ROXIN C. Strafrecht Allgemeiner Teil: 卷 1[M]. 4 版. C. H. Beck, 2006.<br>
-<sup>63</sup> DREIER R, PAULSON S. Rechtsphilosophie Studienausgabe[M]. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
-<sup>64</sup> SCHWAB M. [M/OL]//Münchener Kommentar BGB: 卷 5. 6 版. 2013. <a href="https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm">https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm</a>.<br>
-<sup>65</sup> KAUFMANN A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//BAUMANN J. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.<br>
-<sup>66</sup> CANARIS C W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.<br>
-<sup>67</sup> StGB[A].<br>
-<sup>68</sup> StPO[A].<br>
-<sup>69</sup> GG[A].<br>
-<sup>70</sup> Strauß-Karikatur, Kunstfreiheit[A]//BVerfGE: 卷 75. 369.<br>
-<sup>71</sup> [A]//NStZ-RR. 1999: 185.<br>
-<sup>72</sup> [A]//NJW. 2000: 1560.<br>
-<sup>73</sup> MEIDENBAUER M. Wissenschaftliches Publizieren[EB/OL]. [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.<br>
-<sup>74</sup> 我妻栄. 新訂担保物権法[M]. 有斐閣, 1971.<br>
-<sup>75</sup> 我妻栄, 有泉亨. 民法総則物権法[M]. 日本評論社, 1950.<br>
-<sup>76</sup> 於保不二雄. 付加物及び従物と抵当権[J/OL]. 民商法雑誌, 1954, 29(5): 1. <a href="https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1">https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1</a>.<br>
-<sup>77</sup> 佐藤英明. 一時所得の要件に関する覚書[M]//金子宏, 中里実, J.マーク・ラムザイヤー. 租税法と市場. 有斐閣, 2014: 220.<br>
-<sup>78</sup> 信玄公旗掛松事件[A/OL]//大審院民事判決録: 卷 25. 1919: 356. <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.<br>
-<sup>79</sup> 約束手形金[A/OL]//最高裁判所民事判例集: 36卷6号. 1982: 1113. <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.<br>
-<sup>80</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A/OL]. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.<br>
-<sup>81</sup> 平成26年版犯罪白書[Z/OL]. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.<br>
-<sup>82</sup> ジュリスト[EB/OL]. [2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.<br>
-<sup>83</sup> 欧中坦. 千方百计上京城：清朝的京控[M]. 谢鹏程, 译//高道蕴, 高鸿钧, 贺卫方. 美国学者论中国法律传统. 中国政法大学出版社, 1994.<br>
-<sup>84</sup> 温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.<br>
+<sup>27</sup> 瞿同祖. 中国法律与中国社会[M/OL]. 商务印书馆, 2010[2024-11-06]. <a href="https://book.douban.com/subject/6004646/">https://book.douban.com/subject/6004646/</a>.<br>
+<sup>28</sup> 崔国斌. 知识产权法官造法批判[J/OL]. 中国法学, 2006(1): 144-164[2024-11-06]. <a href="https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013">https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013</a>. DOI:<a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">10.14111/j.cnki.zgfx.2006.01.013</a>.<br>
+<sup>29</sup> 全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[A/OL]. (2017-11-04)[2022-10-14]. <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a>.<br>
+<sup>30</sup> 全国人大常委会. 中华人民共和国公司法[A/OL]. 2005年修订. (2005-10-27)[2022-10-14]. <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a>.<br>
+<sup>31</sup> 全国人大常委会. 中华人民共和国公司法[A/OL]. 2013年修正. (2013-12-28)[2022-10-27]. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.<br>
+<sup>32</sup> 最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[A/OL]. (1993-11-12)[2022-10-14]. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.<br>
+<sup>33</sup> 全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[A/OL]. (1991-09-04)[2022-10-27]. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.<br>
+<sup>34</sup> 国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A/OL]. (2007-07-11)[2022-10-27]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.<br>
+<sup>35</sup> 最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[A/OL]. (2018-02-06)[2022-10-27]. <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a>.<br>
+<sup>36</sup> 国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[A/OL]. (2018-06-27)[2023-06-19]. <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a>.<br>
+<sup>37</sup> 国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. 2015.<br>
+<sup>38</sup> 信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R/OL]. (2013-12-23)[2023-06-19]. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.<br>
+<sup>39</sup> 中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[A/OL]. (2014-10-23)[2023-06-19]. <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a>.<br>
+<sup>40</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.<br>
+<sup>41</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[A]. 2017.<br>
+<sup>42</sup> Barbara Ward. Progress for a small planet[J/OL]. Harvard Business Review, 1979(Sep.-Oct.): 89[2022-07-26]. <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a>.<br>
+<sup>43</sup> ROSENTHAL A. White House tutors Kremlin in how a presidency works[N/OL]. New York Times, 1990-06-15(A1)[2022-07-26]. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.<br>
+<sup>44</sup> HABERMAS J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. REHG W, tran. MIT Press, 1996.<br>
+<sup>45</sup> HORSLEY J. Rule of law in China: incremental progress[M]//BERGSTEN C F, GILL B, LARDY N R, et al. China: The balance sheet. Public Affairs Press, 2006.<br>
+<sup>46</sup> Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.<br>
+<sup>47</sup> Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.<br>
+<sup>48</sup> Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d: Vol. 685. 1982: 718.<br>
+<sup>49</sup> Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[A]//U.S.: Vol. 467. 1984: 837.<br>
+<sup>50</sup> Roe <i>v.</i> Wade[A]//U.S.: Vol. 410. 1973: 113.<br>
+<sup>51</sup> United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[A].<br>
+<sup>52</sup> MCDONELL S. When China began streaming trials online[EB/OL]. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
+<sup>53</sup> CHEVALLIER M. L’État de droit[M/OL]. 4 版. Paris: Montchrestien, 2003. <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a>.<br>
+<sup>54</sup> POISSON M. Le droit de la mer[J]. RGDIP, 2015: 15-47.<br>
+<sup>55</sup> BADIOU-MONFERRAN C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75-94.<br>
+<sup>56</sup> POISSON M. Le droit de la mer[M]//LAPIEUVRE R. Le droit des Océans. Éditions de la mer. 2015: 12-48.<br>
+<sup>57</sup> POISSON M. Le droit de la mer en Méditerranée[R]. Congrès de Marseille, 2016: 228-229.<br>
+<sup>58</sup> POISSON M. Le droit de la mer en Méditerranée: 1202[R]. 2016.<br>
+<sup>59</sup> POISSON M. Le droit de la mer appliqué à la Méditerranée[D]. l’Université de Marseille, 2016.<br>
+<sup>60</sup> JOYEUX-PRUNEL B. L’histoire de l’art et le quantitatif[EB/OL]. [2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.<br>
+<sup>61</sup> VOGEL B. Rechtsgüterschutz und Normgeltung[J/OL]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629-649[2022-07-26]. <a href="https://www.degruyter.com/document/doi/10.1515/zstw-2017-0033/html?lang=de">https://www.degruyter.com/document/doi/10.1515/zstw-2017-0033/html?lang=de</a>. DOI:<a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>.<br>
+<sup>62</sup> WÜRDINGER M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J/OL]. Juristische Schulung, 2012(3): 234-240[2022-07-26]. <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.<br>
+<sup>63</sup> FISCHER T. Absurdes Spektakel um den Tod[N]. Die Zeit, 2015-09-29.<br>
+<sup>64</sup> ROXIN C. Strafrecht Allgemeiner Teil: 卷 1[M]. 4 版. C. H. Beck, 2006.<br>
+<sup>65</sup> DREIER R, PAULSON S. Rechtsphilosophie Studienausgabe[M]. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
+<sup>66</sup> SCHWAB M. [M/OL]//Münchener Kommentar BGB: 卷 5. 6 版. 2013. <a href="https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm">https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm</a>.<br>
+<sup>67</sup> KAUFMANN A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//BAUMANN J. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.<br>
+<sup>68</sup> CANARIS C W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.<br>
+<sup>69</sup> StGB[A].<br>
+<sup>70</sup> StPO[A].<br>
+<sup>71</sup> GG[A].<br>
+<sup>72</sup> Strauß-Karikatur, Kunstfreiheit[A]//BVerfGE: 卷 75. 369.<br>
+<sup>73</sup> [A]//NStZ-RR. 1999: 185.<br>
+<sup>74</sup> [A]//NJW. 2000: 1560.<br>
+<sup>75</sup> MEIDENBAUER M. Wissenschaftliches Publizieren[EB/OL]. [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.<br>
+<sup>76</sup> 我妻栄. 新訂担保物権法[M]. 有斐閣, 1971.<br>
+<sup>77</sup> 我妻栄, 有泉亨. 民法総則物権法[M]. 日本評論社, 1950.<br>
+<sup>78</sup> 於保不二雄. 付加物及び従物と抵当権[J/OL]. 民商法雑誌, 1954, 29(5): 1. <a href="https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1">https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1</a>.<br>
+<sup>79</sup> 佐藤英明. 一時所得の要件に関する覚書[M]//金子宏, 中里実, J.マーク・ラムザイヤー. 租税法と市場. 有斐閣, 2014: 220.<br>
+<sup>80</sup> 信玄公旗掛松事件[A/OL]//大審院民事判決録: 卷 25. 1919: 356. <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.<br>
+<sup>81</sup> 約束手形金[A/OL]//最高裁判所民事判例集: 36卷6号. 1982: 1113. <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.<br>
+<sup>82</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A/OL]. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.<br>
+<sup>83</sup> 平成26年版犯罪白書[Z/OL]. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.<br>
+<sup>84</sup> ジュリスト[EB/OL]. [2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.<br>
+<sup>85</sup> 欧中坦. 千方百计上京城：清朝的京控[M]. 谢鹏程, 译//高道蕴, 高鸿钧, 贺卫方. 美国学者论中国法律传统. 中国政法大学出版社, 1994.<br>
+<sup>86</sup> 温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -494,7 +495,7 @@
 <sup>105</sup> Pew Research Center. American trends panel Wave 26[DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.<br>
 <sup>106</sup> BAER R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015.<br>
 <sup>107</sup> Oregan Youth Authority. Recidivism outcomes[DS]. 2011.<br>
-<sup>108</sup> BORENSTEIN M, HEDGES L, HIGGINS J, 等. Comprehensive meta-analysis[CP/OL]. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.<br>
+<sup>108</sup> BORENSTEIN M, HEDGES L, HIGGINS J, et al. Comprehensive meta-analysis[CP/OL]. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.<br>
 <sup>109</sup> SR Research. Eyelink 1000 plus[CP/OL]. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.<br>
 <sup>110</sup> Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>

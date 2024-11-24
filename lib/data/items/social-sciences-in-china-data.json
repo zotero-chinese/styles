@@ -207,16 +207,16 @@
 		"event-place": "天津",
 		"event-title": "全球化与亚太区域化国际研讨会",
 		"language": "zh-CN",
-		"note": "event-date: 2000-06",
-		"page": "9",
 		"publisher-place": "天津",
 		"title": "对国际体制和国际制度的理解和翻译",
 		"author": [
 			{
-				"family": "任东来",
-				"given": ""
+				"literal": "任东来"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [["2000", 6]]
+		}
 	},
 	{
 		"id": "ssc.2.2.2:04",
@@ -237,7 +237,7 @@
 		"container-title": "广益丛报",
 		"language": "zh-CN",
 		"note": "issue: 第8年第19期",
-		"page": "1-2",
+		"page": "第1—2页",
 		"section": "新章",
 		"title": "四川会议厅暂行章程",
 		"issued": {
@@ -334,7 +334,6 @@
 		"container-title": "中国大历史",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"page": "2",
 		"publisher": "三联书店",
 		"publisher-place": "北京",
 		"title": "为什么称为“中国大历史”？——中文版自序",
@@ -354,7 +353,6 @@
 		"container-title": "识史集",
 		"event-place": "上海",
 		"language": "zh-CN",
-		"page": "65",
 		"publisher": "上海古籍出版社",
 		"publisher-place": "上海",
 		"title": "师承与变法",
@@ -397,7 +395,6 @@
 		"edition": "增补本",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"page": "2",
 		"publisher": "三联书店",
 		"publisher-place": "北京",
 		"title": "读家书，想傅雷（代序）",
@@ -440,7 +437,6 @@
 		"container-title": "鲁迅全集",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"page": "325",
 		"publisher": "人民文学出版社",
 		"publisher-place": "北京",
 		"title": "中国小说的历史的变迁",
@@ -806,30 +802,11 @@
 		}
 	},
 	{
-		"id": "ssc.2.3.1:02b",
-		"type": "paper-conference",
-		"container-title": "全球化与亚太区域化国际研讨会论文集",
-		"event-place": "天津",
-		"language": "zh-CN",
-		"page": "9",
-		"publisher-place": "天津",
-		"title": "对国际体制和国际制度的理解和翻译",
-		"author": [
-			{
-				"family": "任东来",
-				"given": ""
-			}
-		],
-		"issued": {
-			"date-parts": [["2000", 6]]
-		}
-	},
-	{
 		"id": "ssc.2.2.1:04",
 		"type": "article-journal",
 		"container-title": "社会科学",
 		"issue": "9",
-		"language": "zh",
+		"language": "zh-CN",
 		"page": "63-67",
 		"source": "CNKI",
 		"title": "葡萄牙人如何进入澳门问题辨正",
