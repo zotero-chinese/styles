@@ -1,5 +1,7 @@
 from copy import deepcopy
 import datetime
+import json
+from pprint import pprint
 import re
 import argparse
 
@@ -11,29 +13,74 @@ NSMAP = {
 }
 
 
-def get_english_elements(root):
-    new_elements = list(root.xpath(".//cs:layout[@locale='en']", namespaces=NSMAP))
-    if not new_elements:
-        new_elements = list(root.xpath(".//cs:layout[not(@locale)]", namespaces=NSMAP))
-    en_macros = []
-    en_macro_names = set()
-    while new_elements:
-        added_elements = []
-        for element in new_elements:
-            en_macros.append(element)
-            macro_calls = element.xpath(".//cs:text[@macro]", namespaces=NSMAP)
-            for macro_call in macro_calls:
-                macro_name = macro_call.attrib["macro"]
-                # print(macro_name)
-                if macro_name not in en_macro_names:
-                    # print(macro_name)
-                    en_macro_names.add(macro_name)
-                    macro = root.xpath(
-                        f".//cs:macro[@name='{macro_name}']", namespaces=NSMAP
-                    )[0]
-                    added_elements.append(macro)
-        new_elements = added_elements
-    return en_macros, en_macro_names
+def find_all_macro_dependencies(elements, macro_dict):
+    elements_to_visit = list(reversed(elements))
+    visted_macros = {}
+    called_macros = []
+    while elements_to_visit:
+        # print(
+        #     [
+        #         e.attrib["name"]
+        #         if e.tag == "{http://purl.org/net/xbiblio/csl}macro"
+        #         else e.tag
+        #         for e in elements_to_visit
+        #     ]
+        # )
+        element = elements_to_visit.pop()
+
+        if element.tag == "{http://purl.org/net/xbiblio/csl}macro":
+            macro_name = element.attrib["name"]
+            if macro_name not in visted_macros:
+                called_macros.append(element)
+                visted_macros[macro_name] = True
+
+        for text_macro in reversed(
+            element.xpath(".//cs:text[@macro]", namespaces=NSMAP)
+        ):
+            macro_name = text_macro.attrib["macro"]
+            child_macro = macro_dict[macro_name]
+            elements_to_visit.append(child_macro)
+    return called_macros
+
+
+def find_reversed_dependencies(elements, macro_dict, reverse_macro_dependencies):
+    elements_to_visit = list(reversed(elements))
+    visted_macros = {}
+    res = []
+    while elements_to_visit:
+        # print(
+        #     [
+        #         e.attrib["name"]
+        #         if e.tag == "{http://purl.org/net/xbiblio/csl}macro"
+        #         else e.tag
+        #         for e in elements_to_visit
+        #     ]
+        # )
+        element = elements_to_visit.pop()
+
+        if element.tag != "{http://purl.org/net/xbiblio/csl}macro":
+            continue
+        macro_name = element.attrib["name"]
+        if macro_name not in visted_macros:
+            res.append(element)
+            visted_macros[macro_name] = True
+
+            for reverse_macro_dep in reversed(reverse_macro_dependencies[macro_name]):
+                elements_to_visit.append(macro_dict[reverse_macro_dep])
+    return res
+
+
+def get_english_layouts(root):
+    res = []
+    for area in ["citation", "intext", "bibliography"]:
+        for locale in ["@locale='en'", "not(@locale)"]:
+            layouts = list(
+                root.xpath(f"./cs:{area}/cs:layout[{locale}]", namespaces=NSMAP)
+            )
+            if layouts:
+                res.extend(layouts)
+                break
+    return res
 
 
 def write_style(style, path):
@@ -72,28 +119,33 @@ def main():
 
     macros = root.xpath(".//cs:macro", namespaces=NSMAP)
 
-    macro_calling_dict = dict()
-    macro_called_dict = dict()
+    macro_dict = {}
+    macro_dependencies = dict()
+    reverse_macro_dependencies = dict()
 
-    for macro in macros:
+    for macro in list(macros):
         macro_name = macro.attrib["name"]
-        macro_calling_dict[macro_name] = set()
-        macro_called_dict[macro_name] = set()
+        macro_dict[macro_name] = macro
+
+        macro_dependencies[macro_name] = []
+        reverse_macro_dependencies[macro_name] = []
+
+    for macro_name, macro in macro_dict.items():
+        macro_name = macro.attrib["name"]
         for element in macro.xpath(".//*[@macro]", namespaces=NSMAP):
             called_macro_name = element.attrib["macro"]
+            assert called_macro_name in macro_dict
+            if called_macro_name not in macro_dependencies[macro_name]:
+                macro_dependencies[macro_name].append(called_macro_name)
+                reverse_macro_dependencies[called_macro_name].append(macro_name)
 
-            macro_calling_dict[macro_name].add(called_macro_name)
+    # pprint(macro_dependencies)
+    # pprint(reverse_macro_dependencies)
 
-            if called_macro_name not in macro_called_dict:
-                macro_called_dict[called_macro_name] = set()
-            macro_called_dict[called_macro_name].add(macro_name)
+    en_layouts = get_english_layouts(root)
 
-    # print(macro_calling_dict)
-    # print(macro_called_dict)
-    # quit()
-
-    en_macros, en_macro_names = get_english_elements(root)
-    print(en_macros)
+    en_macros = find_all_macro_dependencies(en_layouts, macro_dict)
+    # print([macro.attrib["name"] for macro in en_macros])
 
     original_variables = [
         "author",
@@ -101,10 +153,11 @@ def main():
         "container-title",
         "publisher",
         "publisher-place",
+        # "genre",
+        # "event-title",
     ]
 
     affected_macros = []
-    affected_macro_names = []
 
     for macro in en_macros:
         for element in macro.xpath(".//*[@variable]", namespaces=NSMAP):
@@ -112,27 +165,15 @@ def main():
                 var in original_variables for var in element.attrib["variable"].split()
             ):
                 affected_macros.append(macro)
-                affected_macro_names.append(macro.attrib["name"])
                 break
 
-    # print(affected_macro_names)
-
-    new_affected_macro_names = affected_macro_names
-    affected_macro_names = []
-    while new_affected_macro_names:
-        affected_macro_names.extend(new_affected_macro_names)
-        new_affected_macro_names = []
-
-        for macro_name in affected_macro_names:
-            for called_macro_name in macro_called_dict[macro_name]:
-                if (
-                    called_macro_name not in affected_macro_names
-                    and called_macro_name not in new_affected_macro_names
-                    and called_macro_name in en_macro_names
-                ):
-                    new_affected_macro_names.append(called_macro_name)
+    affected_macros = find_reversed_dependencies(
+        affected_macros, macro_dict, reverse_macro_dependencies
+    )
+    affected_macro_names = [macro.attrib["name"] for macro in affected_macros]
 
     # print(affected_macro_names)
+    # quit()
 
     modified_macro_name = {}
     for macro_name in affected_macro_names:
@@ -141,7 +182,7 @@ def main():
         else:
             modified_macro_name[macro_name] = macro_name + "-ZHtoEN"
 
-    print(modified_macro_name)
+    # print(modified_macro_name)
 
     for macro in macros:
         macro_name = macro.attrib["name"]
