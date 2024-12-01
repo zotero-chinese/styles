@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>安徽医科大学博士、硕士学位论文撰写要求（2016-10-09）</summary>
-    <updated>2024-11-29T16:26:17+08:00</updated>
+    <updated>2024-12-01T21:03:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -74,44 +74,46 @@
   </macro>
   <!-- 题名 -->
   <macro name="title-en">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <text variable="title"/>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume"/>
-              <text variable="volume-title"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="article article-journal" match="none">
-              <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="collection manuscript personal_communication" match="any">
-              <!-- 档案的卷宗号 -->
-              <text variable="archive_location"/>
-            </if>
-          </choose>
+    <group delimiter=" ">
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <text variable="title"/>
+          <group delimiter="&#8195;">
+            <choose>
+              <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+                <text macro="volume"/>
+                <text variable="volume-title"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="article article-journal" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
+                <text variable="number"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="collection manuscript personal_communication" match="any">
+                <!-- 档案的卷宗号 -->
+                <text variable="archive_location"/>
+              </if>
+            </choose>
+          </group>
         </group>
+        <choose>
+          <if variable="container-title" type="paper-conference" match="none">
+            <choose>
+              <if variable="event-date">
+                <text variable="event-place"/>
+                <date variable="event-date" form="text"/>
+              </if>
+            </choose>
+          </if>
+        </choose>
       </group>
-      <choose>
-        <if variable="container-title" type="paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
+      <group delimiter="/" prefix="[" suffix="]">
+        <text macro="type-id"/>
+        <text macro="medium-id"/>
+      </group>
     </group>
   </macro>
   <macro name="title-zh">
@@ -726,11 +728,11 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="en">
-      <text variable="citation-number" prefix="［" suffix="］"/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en" suffix="."/>
     </layout>
     <layout>
-      <text variable="citation-number" prefix="［" suffix="］"/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-zh" suffix="．"/>
     </layout>
   </bibliography>
