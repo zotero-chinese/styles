@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="humanities"/>
     <category field="social_science"/>
-    <updated>2024-11-23T19:18:39+08:00</updated>
+    <updated>2024-12-04T14:00:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -70,7 +70,7 @@
     <choose>
       <if variable="issued">
         <choose>
-          <if type="article-journal" match="any">
+          <if type="article-journal">
             <date variable="issued" form="text" date-parts="year-month"/>
           </if>
           <else-if type="article-magazine article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">

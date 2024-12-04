@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1674-2486</issn>
     <summary>《公共行政评论》稿件体例（2022年7月修订）.doc</summary>
-    <updated>2024-08-11T16:56:11+08:00</updated>
+    <updated>2024-12-04T14:00:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -272,129 +272,127 @@
     </group>
   </macro>
   <macro name="author-bib-zh">
-    <group>
-      <names variable="composer" delimiter="、">
-        <name name-as-sort-order="all" delimiter="、"/>
-        <substitute>
-          <names variable="author"/>
-          <!-- Note: `narrator` only cited in secondary-contributors -->
-          <names variable="illustrator"/>
-          <!-- TODO: Replace `delimiter` with `collapse` to combine names variables when that becomes available. -->
-          <choose>
-            <if type="broadcast">
-              <names variable="script-writer director" delimiter="，&amp; ">
-                <!-- Note: Actors/performers and producers［not executive］not cited in APA style. -->
-                <name name-as-sort-order="all" delimiter="、"/>
-                <label form="long"/>
-              </names>
-            </if>
-          </choose>
-          <names variable="director">
-            <!-- For non-broadcast items，APA only cites directors and not writers. -->
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <!-- TODO: Replace `delimiter` with `collapse` to combine names variables when that becomes available. -->
-          <names variable="guest host" delimiter="，&amp; ">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <names variable="producer">
-            <!-- Note: Producers not cited if there is a writer/director，but use if they are the principle creator. -->
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <choose>
-            <if variable="container-title">
-              <choose>
-                <if type="book classic collection entry entry-dictionary entry-encyclopedia" match="any">
-                  <!-- Items with book-like container-title substitute with their title and parenthetical，but leave bracketed after container-title. This mimics the `container-booklike` formatting. -->
-                  <choose>
-                    <if variable="title">
-                      <group>
-                        <text macro="title-zh"/>
-                        <text macro="parenthetical-zh"/>
-                      </group>
-                    </if>
-                    <else>
-                      <text macro="title-and-descriptions-zh"/>
-                    </else>
-                  </choose>
-                </if>
-              </choose>
-            </if>
-          </choose>
-          <names variable="executive-producer">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <names variable="series-creator">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <names variable="editor-translator">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="short"/>
-          </names>
-          <!-- Note: Translator is not cited as a primary creator（only as Ed. & Trans.）． -->
-          <names variable="editor">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="short"/>
-          </names>
-          <names variable="editorial-director">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="short"/>
-          </names>
-          <names variable="compiler">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <choose>
-            <if type="event performance speech" match="any">
-              <names variable="chair">
-                <name name-as-sort-order="all" delimiter="、"/>
-                <label form="long"/>
-              </names>
-              <names variable="organizer">
-                <name name-as-sort-order="all" delimiter="、"/>
-                <label form="long"/>
-              </names>
-            </if>
-          </choose>
-          <names variable="curator">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="long"/>
-          </names>
-          <names variable="collection-editor">
-            <name name-as-sort-order="all" delimiter="、"/>
-            <label form="short"/>
-          </names>
-          <choose>
-            <if variable="title">
-              <!-- If an item has a title，substitute missing author with title and parenthetical，but leave bracketed
+    <names variable="composer" delimiter="、">
+      <name name-as-sort-order="all" delimiter="、"/>
+      <substitute>
+        <names variable="author"/>
+        <!-- Note: `narrator` only cited in secondary-contributors -->
+        <names variable="illustrator"/>
+        <!-- TODO: Replace `delimiter` with `collapse` to combine names variables when that becomes available. -->
+        <choose>
+          <if type="broadcast">
+            <names variable="script-writer director" delimiter="，&amp; ">
+              <!-- Note: Actors/performers and producers［not executive］not cited in APA style. -->
+              <name name-as-sort-order="all" delimiter="、"/>
+              <label form="long"/>
+            </names>
+          </if>
+        </choose>
+        <names variable="director">
+          <!-- For non-broadcast items，APA only cites directors and not writers. -->
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <!-- TODO: Replace `delimiter` with `collapse` to combine names variables when that becomes available. -->
+        <names variable="guest host" delimiter="，&amp; ">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <names variable="producer">
+          <!-- Note: Producers not cited if there is a writer/director，but use if they are the principle creator. -->
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <choose>
+          <if variable="container-title">
+            <choose>
+              <if type="book classic collection entry entry-dictionary entry-encyclopedia" match="any">
+                <!-- Items with book-like container-title substitute with their title and parenthetical，but leave bracketed after container-title. This mimics the `container-booklike` formatting. -->
+                <choose>
+                  <if variable="title">
+                    <group>
+                      <text macro="title-zh"/>
+                      <text macro="parenthetical-zh"/>
+                    </group>
+                  </if>
+                  <else>
+                    <text macro="title-and-descriptions-zh"/>
+                  </else>
+                </choose>
+              </if>
+            </choose>
+          </if>
+        </choose>
+        <names variable="executive-producer">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <names variable="series-creator">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <names variable="editor-translator">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="short"/>
+        </names>
+        <!-- Note: Translator is not cited as a primary creator（only as Ed. & Trans.）． -->
+        <names variable="editor">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="short"/>
+        </names>
+        <names variable="editorial-director">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="short"/>
+        </names>
+        <names variable="compiler">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <choose>
+          <if type="event performance speech" match="any">
+            <names variable="chair">
+              <name name-as-sort-order="all" delimiter="、"/>
+              <label form="long"/>
+            </names>
+            <names variable="organizer">
+              <name name-as-sort-order="all" delimiter="、"/>
+              <label form="long"/>
+            </names>
+          </if>
+        </choose>
+        <names variable="curator">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="long"/>
+        </names>
+        <names variable="collection-editor">
+          <name name-as-sort-order="all" delimiter="、"/>
+          <label form="short"/>
+        </names>
+        <choose>
+          <if variable="title">
+            <!-- If an item has a title，substitute missing author with title and parenthetical，but leave bracketed
                    after the date（in the 'title' position）． -->
-              <group>
-                <text macro="title-zh"/>
-                <text macro="parenthetical-zh"/>
-              </group>
-            </if>
-            <else>
-              <!-- If an item has no title，substitute with bracketed followed by parenthetical. -->
-              <text macro="title-and-descriptions-zh"/>
-            </else>
-          </choose>
-        </substitute>
-      </names>
-      <choose>
-        <!-- Print "with" contributor for books，but not for other types that commonly have them（eg，thesis，software） -->
-        <if type="book classic collection" match="any">
-          <names variable="contributor" prefix="（" suffix="）">
-            <label form="verb" suffix=" "/>
-            <name name-as-sort-order="all" delimiter="、"/>
-          </names>
-        </if>
-      </choose>
-    </group>
+            <group>
+              <text macro="title-zh"/>
+              <text macro="parenthetical-zh"/>
+            </group>
+          </if>
+          <else>
+            <!-- If an item has no title，substitute with bracketed followed by parenthetical. -->
+            <text macro="title-and-descriptions-zh"/>
+          </else>
+        </choose>
+      </substitute>
+    </names>
+    <choose>
+      <!-- Print "with" contributor for books，but not for other types that commonly have them（eg，thesis，software） -->
+      <if type="book classic collection" match="any">
+        <names variable="contributor" prefix="（" suffix="）">
+          <label form="verb" suffix=" "/>
+          <name name-as-sort-order="all" delimiter="、"/>
+        </names>
+      </if>
+    </choose>
   </macro>
   <macro name="author-intext-en">
     <choose>
@@ -542,23 +540,13 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-sort-en">
+  <macro name="author-sort">
     <choose>
       <if type="bill hearing legal_case legislation regulation treaty" match="any">
         <text macro="title-legal-en"/>
       </if>
       <else>
         <text macro="author-bib-en"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="author-sort-zh">
-    <choose>
-      <if type="bill hearing legal_case legislation regulation treaty" match="any">
-        <text macro="title-legal-zh"/>
-      </if>
-      <else>
-        <text macro="author-bib-zh"/>
       </else>
     </choose>
   </macro>
@@ -651,7 +639,7 @@
   <macro name="date-sort">
     <!-- This is necessary to ensure that citeproc sorts all item types chonologically in the same list. -->
     <choose>
-      <if type="article article-journal book chapter entry entry-dictionary entry-encyclopedia dataset figure graphic manuscript map musical_score patent report review review-book thesis" match="any">
+      <if type="article article-journal book chapter dataset entry entry-dictionary entry-encyclopedia figure graphic manuscript map musical_score patent report review review-book thesis" match="any">
         <date variable="issued" date-parts="year" form="numeric"/>
       </if>
       <else-if type="paper-conference">
@@ -867,7 +855,7 @@
   <macro name="periodical-title-en">
     <!-- For periodicals, assume that part-number and part-title refer to the article and append to title -->
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text macro="title-plus-part-title-en"/>
       </if>
       <else>
@@ -879,7 +867,7 @@
   <macro name="periodical-title-zh">
     <!-- For periodicals，assume that part-number and part-title refer to the article and append to title -->
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text macro="title-plus-part-title-zh"/>
       </if>
       <else>
@@ -891,7 +879,7 @@
   <macro name="booklike-title-en">
     <!-- For book-like items, assume part-number and part-title refer to the book/volume. -->
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="title"/>
       </if>
       <else>
@@ -903,7 +891,7 @@
   <macro name="booklike-title-zh">
     <!-- For book-like items，assume part-number and part-title refer to the book/volume. -->
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="title"/>
       </if>
       <else>
@@ -1040,7 +1028,7 @@
   </macro>
   <macro name="title-intext-en">
     <choose>
-      <if type="bill report">
+      <if type="bill report" match="any">
         <!-- Bills, resolutions, and congressional reports are not italicized and substitute bill number if no title. -->
         <!-- Can't distinguish congressional reports from other reports,
              but giving the genre and number seems fine for other reports too. -->
@@ -1072,7 +1060,7 @@
             <!-- Hearings are italicized -->
             <text variable="title" form="short" font-style="italic" text-case="title"/>
           </else-if>
-          <else-if type="legal_case" match="any">
+          <else-if type="legal_case">
             <!-- Cases are italicized -->
             <text variable="title" font-style="italic"/>
           </else-if>
@@ -1084,7 +1072,7 @@
             <!-- Webpages are always italicized -->
             <text variable="title" form="short" font-style="italic" text-case="title"/>
           </else-if>
-          <else-if variable="container-title" match="any">
+          <else-if variable="container-title">
             <!-- Other types are italicized or quoted based on presence of container-title. As in title macro. -->
             <text variable="title" form="short" quotes="true" text-case="title"/>
           </else-if>
@@ -1097,7 +1085,7 @@
   </macro>
   <macro name="title-intext-zh">
     <choose>
-      <if type="bill report">
+      <if type="bill report" match="any">
         <!-- Bills，resolutions，and congressional reports are not italicized and substitute bill number if no title. -->
         <!-- Can't distinguish congressional reports from other reports，but giving the genre and number seems fine for other reports too. -->
         <choose>
@@ -1128,7 +1116,7 @@
             <!-- Hearings are italicized -->
             <text variable="title" form="short" font-style="italic"/>
           </else-if>
-          <else-if type="legal_case" match="any">
+          <else-if type="legal_case">
             <!-- Cases are italicized -->
             <text variable="title" font-style="italic"/>
           </else-if>
@@ -1140,7 +1128,7 @@
             <!-- Webpages are always italicized -->
             <text variable="title" form="short" font-style="italic"/>
           </else-if>
-          <else-if variable="container-title" match="any">
+          <else-if variable="container-title">
             <!-- Other types are italicized or quoted based on presence of container-title. As in title macro. -->
             <text variable="title" form="short" quotes="true"/>
           </else-if>
@@ -1182,7 +1170,7 @@
             <text macro="locators-booklike-en"/>
           </group>
         </else-if>
-        <else-if type="report" match="any">
+        <else-if type="report">
           <choose>
             <if variable="title" match="none">
               <!-- If there is no title, then genre and number are already printed as the title. -->
@@ -1262,7 +1250,7 @@
             <text macro="locators-booklike-zh"/>
           </group>
         </else-if>
-        <else-if type="report" match="any">
+        <else-if type="report">
           <choose>
             <if variable="title" match="none">
               <!-- If there is no title，then genre and number are already printed as the title. -->
@@ -1310,7 +1298,7 @@
   </macro>
   <macro name="parenthetical-container-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group prefix="(" suffix=")">
           <group delimiter="; ">
             <text macro="database-location"/>
@@ -1328,7 +1316,7 @@
   </macro>
   <macro name="parenthetical-container-zh">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group prefix="（" suffix="）">
           <group delimiter="；">
             <text macro="database-location"/>
@@ -1441,7 +1429,7 @@
                   </names>
                 </group>
                 <choose>
-                  <if variable="genre" match="any">
+                  <if variable="genre">
                     <choose>
                       <if variable="number" match="none">
                         <text variable="medium" text-case="capitalize-first"/>
@@ -1528,7 +1516,7 @@
               </else>
             </choose>
             <choose>
-              <if variable="genre" match="any">
+              <if variable="genre">
                 <choose>
                   <if variable="number" match="none">
                     <text variable="medium" text-case="capitalize-first"/>
@@ -1658,7 +1646,7 @@
                   </names>
                 </group>
                 <choose>
-                  <if variable="genre" match="any">
+                  <if variable="genre">
                     <choose>
                       <if variable="number" match="none">
                         <text variable="medium" text-case="capitalize-first"/>
@@ -1745,7 +1733,7 @@
               </else>
             </choose>
             <choose>
-              <if variable="genre" match="any">
+              <if variable="genre">
                 <choose>
                   <if variable="number" match="none">
                     <text variable="medium" text-case="capitalize-first"/>
@@ -1780,7 +1768,7 @@
   <macro name="bracketed-intext-en">
     <group prefix="[" suffix="]">
       <choose>
-        <if variable="reviewed-title" match="any">
+        <if variable="reviewed-title">
           <group delimiter=" ">
             <text term="review-of" text-case="capitalize-first"/>
             <text macro="reviewed-title-intext"/>
@@ -1828,7 +1816,7 @@
   <macro name="bracketed-intext-zh">
     <group prefix="［" suffix="］">
       <choose>
-        <if variable="reviewed-title" match="any">
+        <if variable="reviewed-title">
           <group>
             <text term="review-of" text-case="capitalize-first"/>
             <text macro="reviewed-title-intext"/>
@@ -1930,7 +1918,7 @@
         </names>
       </group>
       <choose>
-        <if variable="genre" match="any">
+        <if variable="genre">
           <choose>
             <if variable="number" match="none">
               <text variable="medium" text-case="capitalize-first"/>
@@ -1997,7 +1985,7 @@
         </names>
       </group>
       <choose>
-        <if variable="genre" match="any">
+        <if variable="genre">
           <choose>
             <if variable="number" match="none">
               <text variable="medium" text-case="capitalize-first"/>
@@ -2018,11 +2006,11 @@
             </if>
           </choose>
         </if>
-        <else-if type="software" match="all">
+        <else-if type="software">
           <!-- For entries in mobile app reference works, place bracketed after the container-title -->
           <text macro="format-en"/>
         </else-if>
-        <else-if type="document report standard">
+        <else-if type="document report standard" match="any">
           <!-- For chapters in report, standards, and generic documents, place bracketed after the container title -->
           <text macro="format-en"/>
         </else-if>
@@ -2040,11 +2028,11 @@
             </if>
           </choose>
         </if>
-        <else-if type="software" match="all">
+        <else-if type="software">
           <!-- For entries in mobile app reference works，place bracketed after the container-title -->
           <text macro="format-zh"/>
         </else-if>
-        <else-if type="document report standard">
+        <else-if type="document report standard" match="any">
           <!-- For chapters in report，standards，and generic documents，place bracketed after the container title -->
           <text macro="format-zh"/>
         </else-if>
@@ -2394,7 +2382,7 @@
     <group delimiter=", ">
       <!-- Report series [ex. 52] -->
       <choose>
-        <if type="document report standard">
+        <if type="document report standard" match="any">
           <group delimiter=" ">
             <text variable="collection-title" text-case="title"/>
             <text variable="collection-number"/>
@@ -2406,7 +2394,7 @@
         <text variable="supplement-number"/>
       </group>
       <choose>
-        <if variable="volume" match="any">
+        <if variable="volume">
           <choose>
             <!-- Non-numeric volumes are already printed as part of the book title -->
             <if variable="volume-title"/>
@@ -2441,7 +2429,7 @@
     <group delimiter="，">
       <!-- Report series［ex. 52］ -->
       <choose>
-        <if type="document report standard">
+        <if type="document report standard" match="any">
           <group>
             <text variable="collection-title"/>
             <text variable="collection-number"/>
@@ -2453,7 +2441,7 @@
         <text variable="supplement-number"/>
       </group>
       <choose>
-        <if variable="volume" match="any">
+        <if variable="volume">
           <choose>
             <!-- Non-numeric volumes are already printed as part of the book title -->
             <if variable="volume-title"/>
@@ -2548,7 +2536,7 @@
   </macro>
   <macro name="format-intext">
     <choose>
-      <if variable="genre" match="any">
+      <if variable="genre">
         <text variable="genre" text-case="capitalize-first"/>
       </if>
       <else-if variable="medium">
@@ -2730,7 +2718,7 @@
   </macro>
   <macro name="container-booklike-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group delimiter=" ">
           <choose>
             <if type="song">
@@ -2789,7 +2777,7 @@
   </macro>
   <macro name="container-booklike-zh">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group>
           <choose>
             <if type="song">
@@ -2973,7 +2961,7 @@
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <choose>
-          <if variable="DOI" match="any">
+          <if variable="DOI">
             <text variable="DOI" prefix="https://doi.org/"/>
           </if>
           <else-if variable="URL">
@@ -2998,7 +2986,7 @@
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <choose>
-          <if variable="DOI" match="any">
+          <if variable="DOI">
             <text variable="DOI" prefix="https://doi.org/"/>
           </if>
           <else-if variable="URL">
@@ -3218,39 +3206,37 @@
     <!-- `hearing`：for hearings and testimony -->
     <!-- `legislation`：for statutes，constitutional items，and charters -->
     <!-- `regulation`：codified regulations，uncodified regulations，executive orders -->
-    <group>
-      <choose>
-        <if type="treaty">
-          <group delimiter="，" suffix="．">
-            <!-- APA generally defers to Bluebook for legal citations，but diverges without
+    <choose>
+      <if type="treaty">
+        <group delimiter="，" suffix="．">
+          <!-- APA generally defers to Bluebook for legal citations，but diverges without
                 explanation for treaty items. We follow the Bluebook format that was used
                 in APA 6th ed. -->
-            <!-- APA manual omits treaty parties/authors，but per Bluebook
+          <!-- APA manual omits treaty parties/authors，but per Bluebook
                 they should be included at least for bilateral treaties. -->
-            <names variable="author">
-              <name delimiter="-"/>
-            </names>
-            <text macro="date-legal-zh"/>
-            <!-- APA manual omits treaty source/report called for by Bluebook in favor of just URL.
+          <names variable="author">
+            <name delimiter="-"/>
+          </names>
+          <text macro="date-legal-zh"/>
+          <!-- APA manual omits treaty source/report called for by Bluebook in favor of just URL.
                 Both are included here，following the APA style used for all other item types
                 to end the reference with a period，then give the URL afterward. -->
+          <text macro="container-legal-zh"/>
+        </group>
+      </if>
+      <else>
+        <group suffix="．">
+          <group delimiter="，">
+            <text macro="title-legal-zh"/>
             <text macro="container-legal-zh"/>
           </group>
-        </if>
-        <else>
-          <group suffix="．">
-            <group delimiter="，">
-              <text macro="title-legal-zh"/>
-              <text macro="container-legal-zh"/>
-            </group>
-            <text macro="date-legal-zh"/>
-            <text macro="parenthetical-legal-zh"/>
-          </group>
-        </else>
-      </choose>
-      <text variable="references"/>
-      <text macro="access-zh"/>
-    </group>
+          <text macro="date-legal-zh"/>
+          <text macro="parenthetical-legal-zh"/>
+        </group>
+      </else>
+    </choose>
+    <text variable="references"/>
+    <text macro="access-zh"/>
   </macro>
   <macro name="title-legal-en">
     <choose>
@@ -3263,7 +3249,7 @@
              references to the whole hearing. We simply follow the Bluebook rules for both, but
              use APA style capitalization (not capitalizing "Before" or the title of the hearing). -->
         <group delimiter=": " font-style="italic">
-          <text variable="title" text-case="capitalize-first"/>
+          <text variable="title"/>
           <group delimiter=" ">
             <text term="hearing" form="long" text-case="capitalize-first"/>
             <group delimiter=" ">
@@ -3293,7 +3279,7 @@
              references to the whole hearing. We simply follow the Bluebook rules for both，but
              use APA style capitalization（not capitalizing "Before" or the title of the hearing）． -->
         <group delimiter="：" font-style="italic">
-          <text variable="title" text-case="capitalize-first"/>
+          <text variable="title"/>
           <group>
             <text term="hearing" form="long" text-case="capitalize-first"/>
             <group>
@@ -3322,7 +3308,7 @@
         <group prefix="(" suffix=")" delimiter=" ">
           <text variable="authority"/>
           <choose>
-            <if variable="container-title" match="any">
+            <if variable="container-title">
               <!-- Print only year for cases published in reporters -->
               <date variable="issued" form="numeric" date-parts="year"/>
             </if>
@@ -3370,7 +3356,7 @@
         <group prefix="（" suffix="）">
           <text variable="authority"/>
           <choose>
-            <if variable="container-title" match="any">
+            <if variable="container-title">
               <!-- Print only year for cases published in reporters -->
               <date variable="issued" form="numeric" date-parts="year"/>
             </if>
@@ -3747,7 +3733,7 @@
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
     <sort>
-      <key macro="author-sort-en" names-min="3" names-use-first="1"/>
+      <key macro="author-sort" names-min="3" names-use-first="1"/>
       <key macro="date-sort-group" sort="ascending"/>
       <key macro="date-sort" sort="ascending"/>
       <key variable="status"/>
@@ -3769,7 +3755,7 @@
   </citation>
   <bibliography hanging-indent="true" entry-spacing="0" line-spacing="2">
     <sort>
-      <key macro="author-sort-en"/>
+      <key macro="author-sort"/>
       <key macro="date-sort-group" sort="ascending"/>
       <key macro="date-sort" sort="ascending"/>
       <key variable="status"/>

@@ -15,7 +15,7 @@
     <category field="engineering"/>
     <issn>2096-1146</issn>
     <summary>《信息安全学报》模板.doc（2016-01-23）</summary>
-    <updated>2024-10-05T17:25:23+08:00</updated>
+    <updated>2024-12-04T14:00:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -203,7 +203,7 @@
   <!-- 文献载体标识 -->
   <macro name="medium-id">
     <choose>
-      <if type="article" match="any">
+      <if type="article">
         <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
         <choose>
           <if variable="medium">

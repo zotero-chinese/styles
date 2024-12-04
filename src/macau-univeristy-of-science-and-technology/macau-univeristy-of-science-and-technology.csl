@@ -556,16 +556,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="author-sort-zh">
-    <choose>
-      <if type="bill hearing legal_case legislation regulation treaty" match="any">
-        <text macro="title-legal-zh"/>
-      </if>
-      <else>
-        <text macro="author-bib-zh"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="date-bib-en">
     <group delimiter=" " prefix="(" suffix=")">
       <choose>
@@ -991,10 +981,10 @@
                     <label variable="volume" form="short" text-case="capitalize-first"/>
                     <text variable="volume"/>
                   </group>
-                  <else>
-                    <text variable="volume"/>
-                  </else>
                 </if>
+                <else>
+                  <text variable="volume"/>
+                </else>
               </choose>
               <text variable="volume-title"/>
             </group>

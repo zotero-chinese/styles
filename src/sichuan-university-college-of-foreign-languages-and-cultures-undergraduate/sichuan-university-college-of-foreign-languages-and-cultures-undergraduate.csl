@@ -14,7 +14,7 @@
     <category citation-format="author"/>
     <category field="literature"/>
     <summary>四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf</summary>
-    <updated>2024-12-08T13:29:13+08:00</updated>
+    <updated>2024-12-08T15:33:45+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -119,7 +119,7 @@
   </macro>
   <macro name="title-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="title" quotes="true" text-case="title"/>
       </if>
       <else>
@@ -132,7 +132,7 @@
       <if type="collection">
         <text variable="title" prefix="《" suffix="》"/>
       </if>
-      <else-if variable="container-title" match="any">
+      <else-if variable="container-title">
         <text variable="title" quotes="true"/>
       </else-if>
       <else>
@@ -142,7 +142,7 @@
   </macro>
   <macro name="title-short">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="title" form="short" quotes="true" text-case="title"/>
       </if>
       <else>
@@ -152,7 +152,7 @@
   </macro>
   <macro name="title-short-zh">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="original-title" form="short" quotes="true" text-case="title"/>
       </if>
       <else>
@@ -168,7 +168,7 @@
   </macro>
   <macro name="other-contributors-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group delimiter=", ">
           <names variable="container-author" delimiter=", ">
             <label form="verb" suffix=" "/>
@@ -204,7 +204,7 @@
   </macro>
   <macro name="container-contributors-zh">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group delimiter=", ">
           <names variable="container-author" delimiter=", ">
             <name delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize="false"/>
@@ -232,7 +232,7 @@
   </macro>
   <macro name="other-contributors-zh">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group delimiter=", ">
           <names variable="translator" delimiter=", ">
             <name delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize="false"/>
@@ -321,14 +321,14 @@
             <text macro="volume-lowercase-en"/>
           </if>
           <!-- other contributors preceding the volume -->
-          <else-if variable="author" match="all">
+          <else-if variable="author">
             <choose>
               <if variable="editor translator container-author illustrator interviewer director" match="any">
                 <text macro="volume-lowercase-en"/>
               </if>
             </choose>
           </else-if>
-          <else-if variable="editor" match="all">
+          <else-if variable="editor">
             <choose>
               <if variable="translator container-author illustrator interviewer director" match="any">
                 <text macro="volume-lowercase-en"/>
@@ -367,14 +367,14 @@
             <text macro="volume-lowercase-zh"/>
           </if>
           <!-- other contributors preceding the volume -->
-          <else-if variable="author" match="all">
+          <else-if variable="author">
             <choose>
               <if variable="editor translator container-author illustrator interviewer director" match="any">
                 <text macro="volume-lowercase-zh"/>
               </if>
             </choose>
           </else-if>
-          <else-if variable="editor" match="all">
+          <else-if variable="editor">
             <choose>
               <if variable="translator container-author illustrator interviewer director" match="any">
                 <text macro="volume-lowercase-zh"/>
@@ -400,7 +400,7 @@
   </macro>
   <macro name="publisher-en">
     <choose>
-      <if type="thesis" match="any">
+      <if type="thesis">
         <group delimiter=". ">
           <date variable="issued" form="numeric" date-parts="year"/>
           <group delimiter=", ">
@@ -409,7 +409,7 @@
           </group>
         </group>
       </if>
-      <else-if type="article-magazine article-newspaper article-journal" match="none">
+      <else-if type="article-journal article-magazine article-newspaper" match="none">
         <text variable="publisher"/>
       </else-if>
     </choose>
@@ -417,7 +417,7 @@
   <macro name="publisher-zh">
     <group delimiter=". ">
       <choose>
-        <if type="thesis" match="any">
+        <if type="thesis">
           <choose>
             <if variable="genre">
               <text variable="genre"/>
@@ -429,7 +429,7 @@
         </if>
       </choose>
       <choose>
-        <if type="article-magazine article-newspaper article-journal" match="none">
+        <if type="article-journal article-magazine article-newspaper" match="none">
           <group delimiter=": ">
             <text variable="publisher-place"/>
             <text variable="publisher"/>
@@ -440,10 +440,10 @@
   </macro>
   <macro name="publication-date-en">
     <choose>
-      <if type="book chapter paper-conference motion_picture" match="any">
+      <if type="book chapter motion_picture paper-conference" match="any">
         <date variable="issued" form="numeric" date-parts="year"/>
       </if>
-      <else-if type="article-journal" match="any">
+      <else-if type="article-journal">
         <date variable="issued" form="text" date-parts="year-month"/>
       </else-if>
       <else-if type="speech thesis" match="none">
@@ -453,10 +453,10 @@
   </macro>
   <macro name="publication-date-zh">
     <choose>
-      <if type="book chapter paper-conference motion_picture thesis" match="any">
+      <if type="book chapter motion_picture paper-conference thesis" match="any">
         <date variable="issued" form="numeric" date-parts="year"/>
       </if>
-      <else-if type="article-journal" match="any">
+      <else-if type="article-journal">
         <date variable="issued" form="numeric" date-parts="year" prefix="(" suffix=")"/>
       </else-if>
       <else-if type="speech" match="none">
@@ -526,7 +526,7 @@
   </macro>
   <macro name="container2-location-zh">
     <choose>
-      <if type="dataset post post-weblog software webpage">
+      <if type="dataset post post-weblog software webpage" match="any">
         <text variable="container-title"/>
       </if>
     </choose>

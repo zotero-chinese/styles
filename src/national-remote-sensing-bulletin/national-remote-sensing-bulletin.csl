@@ -111,23 +111,6 @@
       </substitute>
     </names>
   </macro>
-  <macro name="author-intext-ZHtoEN">
-    <names variable="original-author">
-      <name form="short" and="text"/>
-      <et-al term="et-al-zh"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="original-container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anon"/>
-      </substitute>
-    </names>
-  </macro>
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">

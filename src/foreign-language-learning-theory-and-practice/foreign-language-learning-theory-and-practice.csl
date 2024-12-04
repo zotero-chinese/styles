@@ -145,19 +145,6 @@
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
-  <macro name="volume-en">
-    <choose>
-      <if is-numeric="volume">
-        <group delimiter=" ">
-          <label variable="volume" form="short"/>
-          <text variable="volume"/>
-        </group>
-      </if>
-      <else>
-        <text variable="volume"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="volume-zh">
     <choose>
       <if is-numeric="volume">

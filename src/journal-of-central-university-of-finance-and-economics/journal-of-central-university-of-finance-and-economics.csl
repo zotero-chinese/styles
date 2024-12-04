@@ -100,6 +100,9 @@
       </substitute>
     </names>
   </macro>
+  <macro name="anon">
+    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
+  </macro>
   <!-- 题名 -->
   <macro name="title">
     <group delimiter="，">
@@ -488,7 +491,7 @@
     </layout>
     <layout delimiter="；">
       <group delimiter="，" prefix="（" suffix="）">
-        <text macro="author-intext-en"/>
+        <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
       </group>
       <group vertical-align="sup">

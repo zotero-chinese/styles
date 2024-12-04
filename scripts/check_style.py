@@ -1,10 +1,21 @@
 import argparse
 import datetime
-import glob
+from pathlib import Path
 import re
 import sys
 
 from lxml import etree
+
+
+BAD_QUOTE_STYLES = [
+    "comparative-economic-and-social-systems",
+    "exploration-and-free-views",
+    "journal-of-international-relations",
+    "literary-and-artistic-contention",
+    "literary-review",
+    "modern-chinese-literature-studies",
+    "the-journal-of-world-economy",
+]
 
 
 ns = {
@@ -152,7 +163,13 @@ def check_field(file, csl_content, root):
             warn_field(file, field_el)
         # elif "学位论文" not in summary and "出版社" not in title:
         #     warn_field(file, field_el)
-        elif "大学" not in title and "研究院" not in title and "科学院" not in title and "出版社" not in title:
+        elif (
+            "大学" not in title
+            and "大學" not in title
+            and "研究院" not in title
+            and "科学院" not in title
+            and "出版社" not in title
+        ):
             warn_field(file, field_el)
 
 
@@ -162,10 +179,13 @@ def check_affixes(path, root):
     for element in root.xpath(".//*[@suffix='']"):
         del element.attrib["suffix"]
 
-    for element in root.xpath(".//*[@prefix='“' or @suffix='”']"):
-        warning(
-            f'File "{path}", line {element.sourceline}: Quotes in dilimiters. Use \'quotes="true"\' instead.'
-        )
+    style_id = Path(path).stem
+
+    if style_id not in BAD_QUOTE_STYLES:
+        for element in root.xpath(".//*[@prefix='“' or @suffix='”']"):
+            warning(
+                f'File "{path}", line {element.sourceline}: Quotes in dilimiters. Use \'quotes="true"\' instead.'
+            )
 
     for tag in ["layout", "date", "group"]:
         for element in root.xpath(f".//cs:{tag}[@delimiter='']", namespaces=ns):
@@ -540,8 +560,10 @@ def write_style(style, path):
     # style_str = style_str.replace("–", "&#8211;")  # en dash
     style_str = style_str.replace("&#8211;", "–")  # en dash
     style_str = style_str.replace("—", "&#8212;")  # em dash
+    style_str = re.sub(r"(<title>.*?)&#8212;", r"\1—", style_str)
+    style_str = re.sub(r"(<summary>.*?)&#8212;", r"\1—", style_str)
     style_str = style_str.replace("GB/T 7714&#8212;", "GB/T 7714—")  # em dash
-    style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
+    style_str = re.sub(r"(\S)[ \t]+<!--", r"\1  <!--", style_str)
     style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
     style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
 
@@ -559,7 +581,7 @@ def main():
 
     files = args.files
     if not files:
-        files = list(sorted(glob.glob("*.csl")))
+        files = sorted(Path("./src").glob("**/*.csl"))
 
     for file in files:
         check_style(file)

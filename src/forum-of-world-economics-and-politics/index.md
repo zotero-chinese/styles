@@ -176,7 +176,7 @@
 <sup>113</sup> 李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.<br>
 <sup>114</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
 <sup>115</sup> 陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.<br>
-<sup>116</sup> David J. Des marais, Harald Strauss, Roger E. Summons, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.<br>
+<sup>116</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.<br>
 <sup>117</sup> M. Saito, K. Miyazaki. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.<br>
 <sup>118</sup> Susan C. Walls, William J. Barichivich, Mary E. Brown. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399-418.<br>
 <sup>119</sup> Annaliese K. Franz, Megan A. Danielewicz, Diana M. Wong, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053-1062.<br>
@@ -393,11 +393,11 @@
 <sup>3</sup> M. Anderson. Getting consistent with consequences[J]. Educational Leadership, 2018, 76(1): 26-33.<br>
 <sup>4</sup> C. Goldman. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018-11-28.<br>
 <sup>5</sup> E. Kalnay, M. Kanamitsu, R. Kistler, et al. The NCEP/NCAR 40-year reanalysis project[J]. Bulletin of the American Meteorological Society, 1996, 77(3): 437-471.<br>
-<sup>6</sup> R. De vries, M. Nieuwenhuijze, S. E. Buitendijk, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.<br>
+<sup>6</sup> R. De Vries, M. Nieuwenhuijze, S. E. Buitendijk, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.<br>
 <sup>7</sup> D. Burin, K. Kilteni, M. Rabuffetti, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1).<br>
 <sup>8</sup> Sujata M. Huestegge, Tim Raettig, Lynn Huestegge. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.<br>
 <sup>9</sup> T. Pachur, B. Scheibehenne. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review.<br>
-<sup>10</sup> V. Chaves-morillo, C. Gómez calero, J. J. Fernández-muñoz, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J]. Clínica y Salud, 2018, 28(3): 155-161.<br>
+<sup>10</sup> V. Chaves-Morillo, C. Gómez Calero, J. J. Fernández-Muñoz, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J]. Clínica y Salud, 2018, 28(3): 155-161.<br>
 <sup>11</sup> J. Piaget. Intellectual evolution from adolescence to adulthood[J]. Human Development, 1972, 15(1): 1-12.<br>
 <sup>12</sup> M. F. Shore. Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry, 2014, 84(6): 611-618.<br>
 <sup>13</sup> Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry, 1981, 51(3): 391-402.<br>
@@ -420,7 +420,7 @@
 <sup>30</sup> B. Christian, T. Griffiths. Algorithms to live by: The computer science of human decisions[M]. Henry Holt and Co., 2016.<br>
 <sup>31</sup> D. H. Meadows. Thinking in systems: A primer[M]. Chelsea Green Publishing, 2008.<br>
 <sup>32</sup> Henry-James Schmid. Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge[M]. American Psychological Association; De Gruyter Mouton, 2017.<br>
-<sup>33</sup> J. Hacker hughes. Military veteran psychological health and social care: Contemporary approaches[M]. Routledge, 2017.<br>
+<sup>33</sup> J. Hacker Hughes. Military veteran psychological health and social care: Contemporary approaches[M]. Routledge, 2017.<br>
 <sup>34</sup> K. F. Pridham, R. Limbo, M. Schroeder. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents[M]. Springer Publishing Company, 2018.<br>
 <sup>35</sup> N. Amano, H. Kondo. Lexical characteristics of Japanese language: Vol. 7[M]. Sansei-do, 2000.<br>
 <sup>36</sup> J. Piaget, B. Inhelder. The psychology of the child[M]. Quadrige, 1966.<br>
@@ -443,14 +443,14 @@
 <sup>53</sup> W. Shakespeare. Much ado about nothing[M]. Washington Square Press, 1995.<br>
 <sup>54</sup> K. F. Balsam, C. R. Martell, K. P. Jones, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[M]//G. Y. IWAMASA, P. A. HAYS. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.<br>
 <sup>55</sup> R. Weinstock, G. B. Leong, J. A. Silva. Defining forensic psychiatry: Roles and responsibilities[M]//R. ROSNER. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.<br>
-<sup>56</sup> N. Tafoya, A. Del vecchio. Back to the future: An examination of the Native American Holocaust experience[M]//M. MCGOLDRICK, J. GIORDANO, N. GARCIA-PRETO. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.<br>
-<sup>57</sup> N. Carcavilla gonzález. Auditory sensory therapy: Brain activation through music[M]//J. J. GARCIA MEILÁN. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.<br>
+<sup>56</sup> N. Tafoya, A. Del Vecchio. Back to the future: An examination of the Native American Holocaust experience[M]//M. MCGOLDRICK, J. GIORDANO, N. GARCIA-PRETO. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.<br>
+<sup>57</sup> N. Carcavilla González. Auditory sensory therapy: Brain activation through music[M]//J. J. GARCIA MEILÁN. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.<br>
 <sup>58</sup> M. Heidegger. On the essence of truth[M]. J. SALLIS, tran.//D. F. KRELL. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.<br>
 <sup>59</sup> C. Sacchett, G. W. Humphreys. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//D. A. BALOTA, E. J. MARSH. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.<br>
 <sup>60</sup> C. Sacchett, G. W. Humphreys. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86.<br>
 <sup>61</sup> U. Bronfenbrenner. The social ecology of human development: A retrospective conclusion[M]//U. BRONFENBRENNER. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.<br>
 <sup>62</sup> F. Richardson. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973: 113-123.<br>
-<sup>63</sup> S. Goldin-meadow. Gesture and cognitive development[M]//L. S. LIBEN, U. MUELLER. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.<br>
+<sup>63</sup> S. Goldin-Meadow. Gesture and cognitive development[M]//L. S. LIBEN, U. MUELLER. Handbook of child psychology and developmental science: Vol. 2. 7th ed. John Wiley &#38; Sons, 2015: 339-380.<br>
 <sup>64</sup> K. Lewin. Group decision and social change[M]//M. GOLD. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.<br>
 <sup>65</sup> American Psychological Association. Positive transference[M]//APA dictionary of psychology.<br>
 <sup>66</sup> Merriam-Webster. Self-report[M]//Merriam-Webster.com dictionary.<br>
@@ -474,7 +474,7 @@
 <sup>84</sup> A. Fistek, E. Jester, K. Sonnenberg. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z]. Milwaukee, WI, United States, 2017.<br>
 <sup>85</sup> S. Maddox, J. Hurling, E. Stewart, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z]. New Orleans, LA, United States, 2016.<br>
 <sup>86</sup> J. Pearson. Fat talk and its effects on state-based body image in women[Z]. Sydney, NSW, Australia, 2018.<br>
-<sup>87</sup> D. De boer, T. LaFavor. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.<br>
+<sup>87</sup> D. De Boer, T. LaFavor. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.<br>
 <sup>88</sup> L. Harris. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.<br>
 <sup>89</sup> M. M. Hollander. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.<br>
 <sup>90</sup> V. H. Hutcheson. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary, 2012.<br>
@@ -488,7 +488,7 @@
 <sup>98</sup> M. O’Shea. Understanding proactive behavior in the workplace as a function of gender[Z]. Department of Management, University of Kansas, 2018.<br>
 <sup>99</sup> T. Lippincott, E. K. Poindexter. Emotion recognition as a function of facial cues: Implications for practice[Z]. Department of Psychology, University of Washington, 2019.<br>
 <sup>100</sup> C. Leuker, L. Samartzidis, R. Hertwig, et al. When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv, 2018.<br>
-<sup>101</sup> M. A. Stults-kolehmainen, R. Sinha. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015.<br>
+<sup>101</sup> M. A. Stults-Kolehmainen, R. Sinha. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015.<br>
 <sup>102</sup> H.-K. Ho. Teacher preparation for early childhood special education in Taiwan[A]. ERIC, 2014.<br>
 <sup>103</sup> A. D’Souza, M. Wiseheart. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018.<br>
 <sup>104</sup> National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. National Archive of Data on Arts and Culture, 2016.<br>
@@ -500,9 +500,9 @@
 <sup>110</sup> Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>
 <sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline[Z]//Epocrates medical references. Google Play Store, 2019.<br>
-<sup>113</sup> A. Tellegen, Y. S. Ben-porath. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.<br>
+<sup>113</sup> A. Tellegen, Y. S. Ben-Porath. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.<br>
 <sup>114</sup> Project Implicit. Gender-Science IAT[Z].<br>
-<sup>115</sup> J. Alonso-tapia, C. Nieto, E. Merino-tejedor, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.<br>
+<sup>115</sup> J. Alonso-Tapia, C. Nieto, E. Merino-Tejedor, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.<br>
 <sup>116</sup> D. Cardoza, J. K. Morris, H. F. Myers, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.<br>
 <sup>117</sup> M. Forman. One flew over the cuckoo’s nest[Z]. United Artists, 1975.<br>
 <sup>118</sup> Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z]. American Pychological Association, 2017.<br>
@@ -519,13 +519,13 @@
 <sup>129</sup> University of Oxford. How do geckos walk on water?[Z]. YouTube, 2016.<br>
 <sup>130</sup> J. S. Bach. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca, 2010.<br>
 <sup>131</sup> D. Bowie. Blackstar[Z]. Columbia, 2016.<br>
-<sup>132</sup> L. Van Beethoven. Symphony No. 3 in E-flat major[Z]//Beethoven: Complete Symphonies. Brilliant Classics, 2012.<br>
+<sup>132</sup> L. van Beethoven. Symphony No. 3 in E-flat major[Z]//Beethoven: Complete Symphonies. Brilliant Classics, 2012.<br>
 <sup>133</sup> Beyoncé. Formation[Z]//Lemonade. Parkwood; Columbia, 2016.<br>
 <sup>134</sup> Childish Gambino. This is America[Z]. mcDJ; RCA, 2018.<br>
 <sup>135</sup> K. Lamar. Humble[Z]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.<br>
 <sup>136</sup> S. Vedantam. Hidden brain[Z]. NPR, 2015.<br>
 <sup>137</sup> I. Glass. Amusement park: 443[Z]//This American Life. WBEZ Chicago, 2011.<br>
-<sup>138</sup> S. De Beauvoir. Simone de Beauvoir discusses the art of writing[Z]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.<br>
+<sup>138</sup> S. de Beauvoir. Simone de Beauvoir discusses the art of writing[Z]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.<br>
 <sup>139</sup> M. L. King Jr. I have a dream[Z]. American Rhetoric, 1963.<br>
 <sup>140</sup> E. Delacroix. Faust attempts to seduce Marguerite[Z]. Paris, France: The Louvre, 1826-1827.<br>
 <sup>141</sup> G. Wood. American gothic[Z]. Chicago, IL, United States: Art Institute of Chicago, 1930.<br>
@@ -553,7 +553,7 @@
 <sup>163</sup> C. Bologna. What happens to your mind and body when you feel homesick?[EB/OL]. (2018-06-27). <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.<br>
 <sup>164</sup> Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB/OL]. (2018-01-23). <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.<br>
 <sup>165</sup> World Health Organization. Questions and answers on immunization and vaccine safety[EB/OL]. 2018. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.<br>
-<sup>166</sup> C. M. Martin lillie. Be kind to yourself: How self-compassion can improve your resiliency[EB/OL]. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
+<sup>166</sup> C. M. Martin Lillie. Be kind to yourself: How self-compassion can improve your resiliency[EB/OL]. (2016-12-29). <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
 <sup>167</sup> J. Boddy, T. Neumann, S. Jennings, et al. Ethics principles[EB/OL]. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
 <sup>168</sup> National Nurses United. What employers should do to protect nurses from Zika[EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
 <sup>169</sup> U.S. Census Bureau. U.S. and world population clock[EB/OL]. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.<br>

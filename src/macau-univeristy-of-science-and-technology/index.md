@@ -259,7 +259,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Schfield, R. S. (1983). The impact of scarcity and plenty on population change in England. In R. I. Rotberg &#38; T. K. Rabb (Eds.), <i>Hunger and history: The impact of changing food production and consumption pattern on society</i> (pp. 55-88). Cambridge, Mass.: Cambridge University Press.</div>
   <div class="csl-entry">上海各路商界总联合会致外交部电（1925年8月14日）。<b>民国日报</b>，4。</div>
   <div class="csl-entry"><b>上海县续志：卷 1。疆域</b>（不详）。（Original work published 民国）</div>
-  <div class="csl-entry">广东通志（1992）。載於<b>稀见中国地方志汇刊：卷 15。15。郡县志二·广州府·城池</b>（影印本）。北京：中国书店。（Original work published 万历）</div>
+  <div class="csl-entry">广东通志（1992）。載於<b>稀见中国地方志汇刊：卷 15。郡县志二·广州府·城池</b>（影印本）。北京：中国书店。（Original work published 万历）</div>
   <div class="csl-entry"><b>马克思恩格斯全集</b>（卷 31）（1998）。北京：人民出版社。</div>
   <div class="csl-entry"><b>太平御览：卷 690。服章部七</b>（影印本）（1985）。北京：中华书局。</div>
   <div class="csl-entry">方明东（2000）。<b>罗隆基政治思想研究（1913—1949）</b>。博士学位论文，北京师范大学历史系。</div>

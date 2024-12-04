@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1008-2646</issn>
     <summary>《南京理工大学学报（社科版）》稿件格式规范</summary>
-    <updated>2024-11-23T20:27:49+08:00</updated>
+    <updated>2024-12-04T14:00:50+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -73,7 +73,7 @@
     <choose>
       <if variable="issued">
         <choose>
-          <if type="article-journal" match="any">
+          <if type="article-journal">
             <date variable="issued" form="numeric" date-parts="year"/>
           </if>
           <else-if type="article-magazine article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
@@ -275,13 +275,11 @@
     </names>
   </macro>
   <macro name="container-periodical-en">
-    <group>
-      <group delimiter=", ">
-        <text variable="container-title" text-case="title"/>
-        <number variable="volume"/>
-      </group>
-      <number variable="issue" prefix="(" suffix=")"/>
+    <group delimiter=", ">
+      <text variable="container-title" text-case="title"/>
+      <number variable="volume"/>
     </group>
+    <number variable="issue" prefix="(" suffix=")"/>
   </macro>
   <macro name="container-booklike-en">
     <text term="in" suffix=" "/>
@@ -493,17 +491,6 @@
       </group>
     </group>
   </macro>
-  <macro name="page-en">
-    <choose>
-      <if is-numeric="page">
-        <label variable="page" form="short" suffix=" "/>
-        <number variable="page"/>
-      </if>
-      <else>
-        <text variable="page"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="page-zh">
     <choose>
       <if is-numeric="page">
@@ -544,16 +531,6 @@
           </group>
         </group>
       </if>
-    </choose>
-  </macro>
-  <macro name="locator-or-page-en">
-    <choose>
-      <if variable="locator">
-        <text macro="locator-en"/>
-      </if>
-      <else>
-        <text macro="page-en"/>
-      </else>
     </choose>
   </macro>
   <macro name="locator-or-page-zh">

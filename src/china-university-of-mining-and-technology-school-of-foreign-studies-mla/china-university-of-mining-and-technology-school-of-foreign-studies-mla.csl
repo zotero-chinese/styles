@@ -108,7 +108,7 @@
   </macro>
   <macro name="title-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="title" quotes="true" text-case="title"/>
       </if>
       <else>
@@ -118,7 +118,7 @@
   </macro>
   <macro name="title-short-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <text variable="title" form="short" quotes="true" text-case="title"/>
       </if>
       <else>
@@ -131,7 +131,7 @@
   </macro>
   <macro name="other-contributors-en">
     <choose>
-      <if variable="container-title" match="any">
+      <if variable="container-title">
         <group delimiter=", ">
           <names variable="container-author" delimiter=", ">
             <label form="verb" suffix=" "/>
@@ -197,14 +197,14 @@
             <text macro="volume-lowercase-en"/>
           </if>
           <!-- other contributors preceding the volume -->
-          <else-if variable="author" match="all">
+          <else-if variable="author">
             <choose>
               <if variable="editor translator container-author illustrator interviewer director" match="any">
                 <text macro="volume-lowercase-en"/>
               </if>
             </choose>
           </else-if>
-          <else-if variable="editor" match="all">
+          <else-if variable="editor">
             <choose>
               <if variable="translator container-author illustrator interviewer director" match="any">
                 <text macro="volume-lowercase-en"/>
@@ -236,7 +236,7 @@
   </macro>
   <macro name="publisher-en">
     <choose>
-      <if type="thesis" match="any">
+      <if type="thesis">
         <group delimiter=". ">
           <date variable="issued" form="numeric" date-parts="year"/>
           <group delimiter=", ">
@@ -245,17 +245,17 @@
           </group>
         </group>
       </if>
-      <else-if type="article-magazine article-newspaper article-journal" match="none">
+      <else-if type="article-journal article-magazine article-newspaper" match="none">
         <text variable="publisher"/>
       </else-if>
     </choose>
   </macro>
   <macro name="publication-date-en">
     <choose>
-      <if type="book chapter paper-conference motion_picture" match="any">
+      <if type="book chapter motion_picture paper-conference" match="any">
         <date variable="issued" form="numeric" date-parts="year"/>
       </if>
-      <else-if type="article-journal" match="any">
+      <else-if type="article-journal">
         <date variable="issued" form="text" date-parts="year-month"/>
       </else-if>
       <else-if type="speech thesis" match="none">
@@ -349,7 +349,7 @@
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume-zh-zh"/>
+              <text macro="volume-zh"/>
               <text variable="volume-title"/>
             </if>
           </choose>
@@ -746,7 +746,7 @@
           <text macro="date"/>
         </group>
         <choose>
-          <if locator="page line" match="any">
+          <if locator="line page" match="any">
             <text variable="locator"/>
           </if>
           <else>
@@ -765,7 +765,7 @@
           <text macro="date"/>
         </group>
         <choose>
-          <if locator="page line" match="any">
+          <if locator="line page" match="any">
             <text variable="locator"/>
           </if>
           <else>

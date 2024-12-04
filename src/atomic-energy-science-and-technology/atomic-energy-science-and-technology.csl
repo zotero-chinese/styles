@@ -14,7 +14,7 @@
     <category field="physics"/>
     <issn>1000-6931</issn>
     <summary>参考文献著录格式.doc</summary>
-    <updated>2024-11-25T17:39:36+08:00</updated>
+    <updated>2024-12-04T14:00:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -391,7 +391,7 @@
                 <if variable="publisher-place">
                   <text variable="publisher-place"/>
                 </if>
-                <else-if type="book classic chapter paper-conference" match="any">
+                <else-if type="book chapter classic paper-conference" match="any">
                   <text term="no-place" form="short" text-case="capitalize-first" prefix="[" suffix="]"/>
                 </else-if>
               </choose>
@@ -399,7 +399,7 @@
                 <if variable="publisher">
                   <text variable="publisher"/>
                 </if>
-                <else-if type="book classic chapter paper-conference" match="any">
+                <else-if type="book chapter classic paper-conference" match="any">
                   <text term="no-publisher" form="short" prefix="[" suffix="]"/>
                 </else-if>
               </choose>

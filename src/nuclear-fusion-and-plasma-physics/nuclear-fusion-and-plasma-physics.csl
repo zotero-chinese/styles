@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="physics"/>
     <summary>文后参考文献著录格式</summary>
-    <updated>2024-11-29T15:12:06+08:00</updated>
+    <updated>2024-12-04T14:00:50+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -137,7 +137,7 @@
       <else-if type="book classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
-      <else-if type="chapter paper-conference">
+      <else-if type="chapter paper-conference" match="any">
         <text value="A"/>
       </else-if>
       <else-if type="dataset">

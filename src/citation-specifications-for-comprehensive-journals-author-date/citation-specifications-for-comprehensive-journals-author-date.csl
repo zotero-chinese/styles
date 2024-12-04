@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="humanities"/>
     <category field="social_science"/>
-    <updated>2024-11-23T19:19:27+08:00</updated>
+    <updated>2024-12-04T14:00:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -170,9 +170,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="title-short-zh">
-    <text variable="title" form="short" prefix="《" suffix="》"/>
-  </macro>
   <macro name="translator-en">
     <names variable="translator">
       <label form="verb-short" suffix=" "/>
@@ -256,10 +253,6 @@
       </names>
       <text variable="container-title" text-case="title" font-style="italic"/>
     </group>
-  </macro>
-  <macro name="container-booklike-short-en">
-    <text term="in" suffix=" "/>
-    <text variable="container-title" text-case="title" font-style="italic"/>
   </macro>
   <macro name="container-booklike-zh">
     <choose>
@@ -596,12 +589,10 @@
         </else-if>
         <else-if type="collection manuscript personal_communication" match="any">
           <text macro="archive-zh"/>
-          <text macro="locator-zh"/>
         </else-if>
         <else>
           <text macro="translator-zh"/>
           <text macro="publisher-zh"/>
-          <text macro="locator-zh"/>
         </else>
       </choose>
     </group>

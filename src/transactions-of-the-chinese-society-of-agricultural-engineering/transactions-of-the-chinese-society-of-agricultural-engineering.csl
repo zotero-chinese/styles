@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
-    <updated>2024-11-08T16:39:25+08:00</updated>
+    <updated>2024-12-04T14:00:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -270,7 +270,7 @@
     </choose>
     <!-- 学位论文显示页码，学位论文无page项，引用页码需要放在总页数字段 -->
     <choose>
-      <if type="thesis" match="any">
+      <if type="thesis">
         <text variable="number-of-pages" prefix=": "/>
       </if>
       <!-- 书籍不显示日期 -->
@@ -293,7 +293,7 @@
           <if variable="container-title">
             <text value="//"/>
             <text macro="container-contributors" suffix=". "/>
-            <text macro="container-title-translation" suffix=". " text-case="title"/>
+            <text macro="container-title-translation" suffix=". "/>
           </if>
           <else>
             <text value=". "/>
@@ -306,7 +306,7 @@
         <group prefix=". ">
           <choose>
             <if variable="original-container-title">
-              <text macro="container-title-translation" text-case="title"/>
+              <text macro="container-title-translation"/>
               <text macro="serial-information" prefix=", "/>
             </if>
             <else>

@@ -18,7 +18,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <summary>《太平洋学报》脚注格式</summary>
-    <updated>2024-09-15T15:28:33+08:00</updated>
+    <updated>2024-12-04T14:00:54+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -216,22 +216,6 @@
       </else>
     </choose>
   </macro>
-  <macro name="title-short-en">
-    <choose>
-      <if type="article-journal article-magazine article-newspaper chapter paper-conference report thesis" match="any">
-        <text variable="title" form="short" text-case="title" quotes="true"/>
-      </if>
-      <else-if type="collection manuscript personal_communication post post-weblog software webpage" match="any">
-        <text variable="title" form="short" text-case="title"/>
-      </else-if>
-      <else>
-        <text variable="title" form="short" text-case="title" font-style="italic"/>
-      </else>
-    </choose>
-  </macro>
-  <macro name="title-short-zh">
-    <text variable="title" form="short" prefix="《" suffix="》"/>
-  </macro>
   <macro name="translator-en">
     <names variable="translator">
       <label form="short" suffix=" "/>
@@ -270,7 +254,7 @@
           <if type="article-newspaper collection manuscript personal_communication post post-weblog software webpage" match="any">
             <date variable="issued" form="text"/>
           </if>
-          <else-if type="book classic chapter" match="any">
+          <else-if type="book chapter classic" match="any">
             <date variable="issued" form="text" date-parts="year"/>
             <text term="edition" form="short"/>
           </else-if>
@@ -361,10 +345,6 @@
       <text variable="container-title" text-case="title" font-style="italic"/>
     </group>
   </macro>
-  <macro name="container-booklike-short-en">
-    <text term="in" suffix=" "/>
-    <text variable="container-title" text-case="title" font-style="italic"/>
-  </macro>
   <macro name="container-booklike-zh">
     <group delimiter="：">
       <names variable="editor">
@@ -392,22 +372,6 @@
         </choose>
       </group>
     </group>
-  </macro>
-  <macro name="container-booklike-short-zh">
-    <choose>
-      <if variable="container-title">
-        <text variable="container-title" prefix="《" suffix="》"/>
-        <choose>
-          <if type="classic" match="none">
-            <text macro="edition-zh" prefix="（" suffix="）"/>
-            <text macro="volume-zh"/>
-          </if>
-          <else-if variable="volume-title" match="none">
-            <text macro="volume-zh"/>
-          </else-if>
-        </choose>
-      </if>
-    </choose>
   </macro>
   <macro name="series-zh">
     <text variable="collection-title" prefix="《" suffix="》"/>

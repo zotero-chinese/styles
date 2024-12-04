@@ -163,7 +163,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">汤万金等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   <div class="csl-entry">汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社，1997: 16.</div>
   <div class="csl-entry">汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社，2002: 22–25.</div>
-  <div class="csl-entry">汪昂. 增订本草备要[M]. 刻本. 京都: 老二酉堂，1881.</div>
+  <div class="csl-entry">汪昂. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂，1881.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24.</div>
   <div class="csl-entry">牛志明等. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社，2012.</div>
   <div class="csl-entry">王临惠. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆，2010: 138.</div>
@@ -171,12 +171,12 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">周易外传：卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社，2011: 1109.</div>
   <div class="csl-entry">王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃，1865.</div>
   <div class="csl-entry">白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社，1998: 146–63.</div>
-  <div class="csl-entry">皮锡瑞. 师伏堂日记[M]. 北京: 国家图书馆，2009: 155.</div>
+  <div class="csl-entry">皮锡瑞. 师伏堂日记: 第 4 册[M]. 北京: 国家图书馆，2009: 155.</div>
   <div class="csl-entry">程根伟. 1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社，1999: 32–36.</div>
   <div class="csl-entry">罗斯基. 战前中国经济的增长[M]. 唐巧天等，译. 杭州: 浙江大学出版社，2009.</div>
   <div class="csl-entry">罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞等，译. 大连: 东北财经大学出版社，2011: 15–16.</div>
   <div class="csl-entry">美国妇产科医师学会. 新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞，译. 北京: 人民卫生出版社，2010: 38–39.</div>
-  <div class="csl-entry">胡承正等. 理论物理概论[M]. 武汉: 武汉大学出版社，2010: 112.</div>
+  <div class="csl-entry">胡承正等. 理论物理概论: 上[M]. 武汉: 武汉大学出版社，2010: 112.</div>
   <div class="csl-entry">萧钰. 出版业信息化迈入快车道[EB/OL]. （2001-12-19）[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
   <div class="csl-entry">蒋有绪等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社，1998.</div>
   <div class="csl-entry">袁训来等. 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报，2012，57（34）: 3219.</div>
@@ -188,8 +188,8 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊，2010，7（10）: 93.</div>
   <div class="csl-entry">陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社，2011.</div>
   <div class="csl-entry">陈晋镳等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社，1980: 56–114.</div>
-  <div class="csl-entry">陈登原. 国史旧闻[M]. 北京: 中华书局，2000: 29.</div>
-  <div class="csl-entry">---. 国史旧闻[M]. 北京: 中华书局，2000: 29.</div>
+  <div class="csl-entry">陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局，2000: 29.</div>
+  <div class="csl-entry">---. 国史旧闻: 第 1 卷[M]. 北京: 中华书局，2000: 29.</div>
   <div class="csl-entry">雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社，2012.</div>
   <div class="csl-entry">顾炎武. 昌平山水记：京东考古录[M]. 北京: 北京古籍出版社，1982.</div>
   <div class="csl-entry">马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社，2013: 302.</div>
@@ -250,35 +250,35 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry"><i>Nixon to Kissinger</i>. 1 Feb. 1969. National Archives II, College Park, MD, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP).</div>
   <div class="csl-entry">Polo, Marco. <i>The Travels of Marco Polo</i>. Translated by William Marsden, Cumberland House, 1997.</div>
   <div class="csl-entry">Schfield, R. S. “The Impact of Scarcity and Plenty on Population Change in England.” <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, edited by R. I. Rotberg and T. K. Rabb, Cambridge University Press, 1983, pp. 55–88.</div>
-  <div class="csl-entry">上海县续志: 疆域[M].</div>
+  <div class="csl-entry">上海县续志: 卷 1 疆域[M].</div>
   <div class="csl-entry">上海各路商界总联合会致外交部电[N]. 民国日报，1925-08-14（4）.</div>
   <div class="csl-entry">任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会. 天津，2000.</div>
   <div class="csl-entry">任继愈. 中国哲学发展史（先秦卷）[M]. 北京: 人民出版社，1983.</div>
   <div class="csl-entry">伤心人（麦孟华）. 说奴隶[N]. 清议报（第1页）.</div>
   <div class="csl-entry">何龄修. 读顾诚〈南明史〉[J]. 中国史研究，1998（3）: 167–73.</div>
-  <div class="csl-entry">佚名. 晚清洋务运动事类汇钞五十七种[M]. 北京: 全国图书馆文献缩微复制中心，1998.</div>
+  <div class="csl-entry">佚名. 晚清洋务运动事类汇钞五十七种: 上册[M]. 北京: 全国图书馆文献缩微复制中心，1998.</div>
   <div class="csl-entry">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报，2002（4）: 512–13.</div>
   <div class="csl-entry">傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆，1917.</div>
   <div class="csl-entry">党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室，1950.</div>
   <div class="csl-entry">唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社，1997.</div>
-  <div class="csl-entry">嘉定县志: 风俗[M].</div>
+  <div class="csl-entry">嘉定县志: 卷 12 风俗[M].</div>
   <div class="csl-entry">四川会议厅暂行章程[N]. 广益丛报，1910-09-03（第1—2页）.</div>
-  <div class="csl-entry">太平御览: 服章部七[M]. 影印本. 北京: 中华书局，1985.</div>
-  <div class="csl-entry">姚际恒. 古今伪书考[M]. 光绪三年苏州文学山房活字本.</div>
+  <div class="csl-entry">太平御览: 卷 690 服章部七[M]. 影印本. 北京: 中华书局，1985.</div>
+  <div class="csl-entry">姚际恒. 古今伪书考: 卷 3[M]. 光绪三年苏州文学山房活字本.</div>
   <div class="csl-entry">实藤惠秀. 中国人留学日本史[M]. 谭汝谦, 林启彦，译. 香港: 香港中文大学出版社，1982.</div>
   <div class="csl-entry">广东通志[M]//稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店，1992.</div>
   <div class="csl-entry">扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   <div class="csl-entry">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系，2000.</div>
-  <div class="csl-entry">方苞集: 答程夔州书[M]. 标点本. 上海: 上海古籍出版社，1983.</div>
-  <div class="csl-entry">旧唐书: 玄宗纪下[M]. 标点本. 北京: 中华书局，1975.</div>
+  <div class="csl-entry">方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社，1983.</div>
+  <div class="csl-entry">旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局，1975.</div>
   <div class="csl-entry">李眉. 李劼人轶事[N]. 四川工人日报，1986-08-22（2）.</div>
   <div class="csl-entry">李鹏程. 当代文化哲学沉思[M]. 北京: 人民出版社，1994.</div>
   <div class="csl-entry">杜威·佛克马. 走向新世界主义[M]//王宁, 薛晓源. 全球化与后殖民批评. 北京: 中央编译出版社，1999: 247–66.</div>
-  <div class="csl-entry">杨钟羲. 雪桥诗话续集[M]. 影印本. 沈阳: 辽沈书社，1991.</div>
+  <div class="csl-entry">杨钟羲. 雪桥诗话续集: 卷 5[M]. 影印本. 沈阳: 辽沈书社，1991.</div>
   <div class="csl-entry">楼适夷. 读家书，想傅雷（代序）[M]//傅敏. 傅雷家书. 增补本. 北京: 三联书店，1998.</div>
   <div class="csl-entry">毛祥麟. 墨余录[M]. 上海: 上海古籍出版社，1985.</div>
   <div class="csl-entry">汪疑今. 江苏的小农及其副业[J]. 中国经济，1936，4（6）.</div>
-  <div class="csl-entry">清德宗实录[M]. 影印本. 北京: 中华书局，1987.</div>
+  <div class="csl-entry">清德宗实录: 卷 435[M]. 影印本. 北京: 中华书局，1987.</div>
   <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局.</div>
   <div class="csl-entry">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. （1998-08-16）[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.</div>
   <div class="csl-entry">管志道. 答屠仪部赤水丈书[M]//续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社，1997.</div>
@@ -288,7 +288,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学，1999（9）: 63–67.</div>
   <div class="csl-entry">赵景深. 文坛忆旧[M]. 上海: 北新书局，1948.</div>
   <div class="csl-entry">金冲及. 周恩来传[M]. 北京: 人民出版社、中央文献出版社，1989.</div>
-  <div class="csl-entry">马克思恩格斯全集[M]. 北京: 人民出版社，1998.</div>
+  <div class="csl-entry">马克思恩格斯全集: 卷 31[M]. 北京: 人民出版社，1998.</div>
   <div class="csl-entry">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学，1990（6）: 68–73, 86.</div>
   <div class="csl-entry">鲁迅. 中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社，1981.</div>
   <div class="csl-entry">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛，1997（3）: 26–27.</div>
@@ -379,7 +379,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“約束手形金.” 最高裁判所民事判例集, vol. 36卷6号, 15 July 1982, p. 1113, <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
   <div class="csl-entry">罗豪才等. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学，1993（1）: 52–59.</div>
   <div class="csl-entry">[美]富勒. 法律的道德性[M]. 郑戈，译. 商务印书馆，2005.</div>
-  <div class="csl-entry">[英]劳特派特. 奥本海国际法[M]. 王铁崖, 陈体强，译. 8 版. 商务印书馆，1971.</div>
+  <div class="csl-entry">[英]劳特派特. 奥本海国际法: 上卷第一分册[M]. 王铁崖, 陈体强，译. 8 版. 商务印书馆，1971.</div>
   <div class="csl-entry">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.</div>
   <div class="csl-entry">被告人李宁、张磊贪污案一审开庭[EB/OL]. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
   <div class="csl-entry">赵耀彤. 一名基层法官眼里好律师的样子[EB/OL]. （2018-12-01）[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>

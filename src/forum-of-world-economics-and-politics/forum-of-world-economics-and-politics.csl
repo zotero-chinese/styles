@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <summary>世界经济与政治论坛</summary>
-    <updated>2024-10-04T12:15:51+08:00</updated>
+    <updated>2024-12-04T14:00:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -48,9 +48,7 @@
   <!-- 主要责任者 -->
   <macro name="author-en">
     <names variable="author">
-      <name>
-        <name-part name="family" text-case="sentence"/>
-      </name>
+      <name/>
       <institution/>
       <substitute>
         <names variable="composer"/>
