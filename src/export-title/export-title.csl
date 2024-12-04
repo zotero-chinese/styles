@@ -21,6 +21,11 @@
       </if>
     </choose>
   </macro>
+  <citation>
+    <layout>
+      <text variable="title"/>
+    </layout>
+  </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3">
     <layout>
       <text macro="title"/>

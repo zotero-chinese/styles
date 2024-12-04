@@ -532,13 +532,13 @@
       <key macro="issued-year"/>
     </sort>
     <layout locale="en">
-      <text variable="citation-number" prefix="[" suffix="]&#9;"/> <!-- 表示制表符 -->
+      <text variable="citation-number" prefix="[" suffix="]&#9;"/>  <!-- 表示制表符 -->
       <text macro="entry-layout-en" suffix="."/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]&#9;"/>
       <text macro="entry-layout" suffix="."/>
-      <text macro="bib-zh" suffix=" (In Chinese)" display="block"/> <!-- 翻译的英文 -->
+      <text macro="bib-zh" suffix=" (In Chinese)" display="block"/>  <!-- 翻译的英文 -->
     </layout>
   </bibliography>
 </style>

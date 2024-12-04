@@ -8,7 +8,7 @@
 
 ### 引注
 
-[NO_PRINTED_FORM]
+科学革命的结构：第 4 版Food irradiation research and technology面向数字素养的高校图书馆数字服务体系研究Advances in holographic photoelasticity“北斗一号”监控管理网设计与实现The genome of eucalyptus grandis第 29 次中国互联网络发展状况统计报告Origins and concepts of digital literacy
 
 ### 参考文献表
 
@@ -27,12 +27,12 @@
 
 ### 引注
 
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
+Social norms and social roles<br>
+Why the West rules–for now: the patterns of history, and what they reveal about the future<br>
+西方文明史：问题与源头<br>
+西方文明史：问题与源头Social norms and social roles<br>
+Social norms and social rolesWhy the West rules–for now: the patterns of history, and what they reveal about the future国史旧闻<br>
+Social norms and social rolesWhy the West rules–for now: the patterns of history, and what they reveal about the future西方文明史：问题与源头<br>
 
 
 ### GB/T 7714—2015 示例文献

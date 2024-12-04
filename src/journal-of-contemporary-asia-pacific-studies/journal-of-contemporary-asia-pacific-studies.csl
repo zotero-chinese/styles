@@ -97,7 +97,8 @@
       <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
     </names>
     <choose>
-      <if type="book"> <!-- 西文书籍 -->
+      <if type="book">
+        <!-- 西文书籍 -->
         <group delimiter=", ">
           <names variable="editor">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
@@ -119,9 +120,11 @@
           <text variable="locator"/>
         </group>
       </if>
-      <else-if type="chapter"> <!-- 西文章节 -->
+      <else-if type="chapter">
+        <!-- 西文章节 -->
         <choose>
-          <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+          <if variable="locator">
+            <!-- 如果有自定义页码，调用 -->
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <names variable="editor" prefix="in ">
@@ -144,7 +147,8 @@
               <text variable="locator"/>
             </group>
           </if>
-          <else> <!-- 无自定义页码，输出原本页码 -->
+          <else>
+            <!-- 无自定义页码，输出原本页码 -->
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <names variable="editor" prefix="in ">
@@ -169,15 +173,18 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="webpage"> <!-- 西文网页 -->
+      <else-if type="webpage">
+        <!-- 西文网页 -->
         <text variable="title" quotes="true" suffix=", "/>
         <text variable="container-title" font-style="italic" suffix=", "/>
         <date form="text" variable="issued" suffix=", "/>
         <text variable="URL"/>
       </else-if>
-      <else-if type="paper-conference"> <!-- 西文会议论文 -->
+      <else-if type="paper-conference">
+        <!-- 西文会议论文 -->
         <choose>
-          <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+          <if variable="locator">
+            <!-- 如果有自定义页码，调用 -->
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <text variable="event"/>
@@ -189,7 +196,8 @@
               <text variable="locator"/>
             </group>
           </if>
-          <else> <!-- 无自定义页码，输出原本页码 -->
+          <else>
+            <!-- 无自定义页码，输出原本页码 -->
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <text variable="event"/>
@@ -203,9 +211,11 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="thesis"> <!-- 西文学位论文 -->
+      <else-if type="thesis">
+        <!-- 西文学位论文 -->
         <text variable="title" font-style="italic" suffix=", "/>
-        <text variable="genre" suffix=" Dissertation, "/> <!-- 文献管理软件中仅需要输入学位类型即可 -->
+        <text variable="genre" suffix=" Dissertation, "/>
+        <!-- 文献管理软件中仅需要输入学位类型即可 -->
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher" suffix=", "/>
         <date date-parts="year" form="numeric" variable="issued"/>
@@ -214,9 +224,11 @@
           <text variable="locator"/>
         </group>
       </else-if>
-      <else-if type="article article-journal article-magazine" match="any"> <!-- 西文期刊 -->
+      <else-if type="article article-journal article-magazine" match="any">
+        <!-- 西文期刊 -->
         <choose>
-          <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+          <if variable="locator">
+            <!-- 如果有自定义页码，调用 -->
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <text variable="container-title" font-style="italic"/>
@@ -227,7 +239,8 @@
             <label variable="locator" form="short" prefix=", "/>
             <text variable="locator"/>
           </if>
-          <else> <!-- 无自定义页码，输出原本页码 -->
+          <else>
+            <!-- 无自定义页码，输出原本页码 -->
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <text variable="container-title" font-style="italic"/>
@@ -240,7 +253,8 @@
           </else>
         </choose>
       </else-if>
-      <else> <!-- 西文其他类型文献 -->
+      <else>
+        <!-- 西文其他类型文献 -->
         <choose>
           <if variable="locator">
             <names variable="editor" suffix=", ">
@@ -290,8 +304,10 @@
   <macro name="zh-layout">
     <choose>
       <if type="article article-journal article-magazine" match="any">
-        <choose> <!-- 中文期刊 -->
-          <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+        <choose>
+          <!-- 中文期刊 -->
+          <if variable="locator">
+            <!-- 如果有自定义页码，调用 -->
             <text macro="author"/>
             <text macro="secondAuthor"/>
             <group delimiter="，">
@@ -306,7 +322,8 @@
               <text variable="locator" prefix="第" suffix="页"/>
             </group>
           </if>
-          <else> <!-- 无自定义页码，输出原本页码 -->
+          <else>
+            <!-- 无自定义页码，输出原本页码 -->
             <text macro="author"/>
             <text macro="secondAuthor"/>
             <group delimiter="，">
@@ -322,7 +339,8 @@
           </else>
         </choose>
       </if>
-      <else-if type="article-newspaper"> <!-- 中文报纸 -->
+      <else-if type="article-newspaper">
+        <!-- 中文报纸 -->
         <text macro="author" suffix="："/>
         <group delimiter="，">
           <text macro="secondAuthor"/>
@@ -332,12 +350,15 @@
         <date form="text" variable="issued"/>
         <text variable="edition" prefix="，第" suffix="版"/>
       </else-if>
-      <else-if type="chapter"> <!-- 中文章节 -->
+      <else-if type="chapter">
+        <!-- 中文章节 -->
         <choose>
-          <if variable="translator"> <!-- 中文译本编著 -->
+          <if variable="translator">
+            <!-- 中文译本编著 -->
             <text macro="author" suffix="："/>
             <choose>
-              <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+              <if variable="locator">
+                <!-- 如果有自定义页码，调用 -->
                 <text variable="title" prefix="《" suffix="》，"/>
                 <text macro="editor" prefix="载" suffix="主编："/>
                 <group delimiter="，">
@@ -354,7 +375,8 @@
                 <text macro="locators-zh"/>
                 <text variable="locator" prefix="，第" suffix="页"/>
               </if>
-              <else> <!-- 无自定义页码，输出原本页码 -->
+              <else>
+                <!-- 无自定义页码，输出原本页码 -->
                 <text variable="title" prefix="《" suffix="》，"/>
                 <text macro="editor" prefix="载" suffix="主编，"/>
                 <text macro="secondAuthor" suffix="："/>
@@ -372,10 +394,12 @@
               </else>
             </choose>
           </if>
-          <else> <!-- 中文章节 -->
+          <else>
+            <!-- 中文章节 -->
             <text macro="author" suffix="："/>
             <choose>
-              <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+              <if variable="locator">
+                <!-- 如果有自定义页码，调用 -->
                 <text variable="title" prefix="《" suffix="》，"/>
                 <text macro="editor" prefix="载" suffix="主编："/>
                 <group delimiter="，">
@@ -391,7 +415,8 @@
                 <text macro="locators-zh"/>
                 <text variable="locator" prefix="，第" suffix="页"/>
               </if>
-              <else> <!-- 无自定义页码，输出原本页码 -->
+              <else>
+                <!-- 无自定义页码，输出原本页码 -->
                 <text variable="title" prefix="《" suffix="》，"/>
                 <text macro="editor" prefix="载" suffix="主编："/>
                 <group delimiter="，">
@@ -410,7 +435,8 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="webpage"> <!-- 中文网页 -->
+      <else-if type="webpage">
+        <!-- 中文网页 -->
         <text macro="author" suffix="："/>
         <group delimiter="，">
           <text variable="title" prefix="《" suffix="》"/>
@@ -419,10 +445,12 @@
           <text variable="URL" prefix=" "/>
         </group>
       </else-if>
-      <else-if type="paper-conference"> <!-- 中文会议论文 -->
+      <else-if type="paper-conference">
+        <!-- 中文会议论文 -->
         <text macro="author" suffix="："/>
         <choose>
-          <if variable="locator"> <!-- 如果有自定义页码，调用 -->
+          <if variable="locator">
+            <!-- 如果有自定义页码，调用 -->
             <group delimiter="，">
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
@@ -432,7 +460,8 @@
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
           </if>
-          <else> <!-- 无自定义页码，输出原本页码 -->
+          <else>
+            <!-- 无自定义页码，输出原本页码 -->
             <group delimiter="，">
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
@@ -442,7 +471,8 @@
           </else>
         </choose>
       </else-if>
-      <else-if type="thesis"> <!-- 中文学位论文 -->
+      <else-if type="thesis">
+        <!-- 中文学位论文 -->
         <text macro="author"/>
         <text macro="secondAuthor" prefix="，"/>
         <group delimiter="，">
@@ -456,9 +486,11 @@
         <text macro="locators-zh"/>
         <text variable="locator" prefix="，第" suffix="页"/>
       </else-if>
-      <else-if type="book"> <!-- 中文书籍 -->
+      <else-if type="book">
+        <!-- 中文书籍 -->
         <choose>
-          <if variable="translator"> <!-- 中文译著 -->
+          <if variable="translator">
+            <!-- 中文译著 -->
             <text macro="author" suffix="："/>
             <text macro="editor" suffix="主编："/>
             <group delimiter="，">
@@ -475,7 +507,8 @@
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
           </if>
-          <else> <!-- 中文书籍 -->
+          <else>
+            <!-- 中文书籍 -->
             <text macro="author" suffix="："/>
             <text macro="editor" suffix="主编："/>
             <group delimiter="，">
@@ -493,7 +526,8 @@
           </else>
         </choose>
       </else-if>
-      <else> <!-- 中文其他类型文献 -->
+      <else>
+        <!-- 中文其他类型文献 -->
         <text macro="author" suffix="："/>
         <text macro="editor" suffix="主编："/>
         <group delimiter="，" suffix="，">
@@ -519,7 +553,8 @@
   <citation>
     <layout locale="en" suffix="." delimiter="; ">
       <choose>
-        <if position="ibid-with-locator"> <!-- 有自定义页码的连续文献引用 -->
+        <if position="ibid-with-locator">
+          <!-- 有自定义页码的连续文献引用 -->
           <group>
             <text term="ibid" suffix=", "/>
             <group>
@@ -528,10 +563,12 @@
             </group>
           </group>
         </if>
-        <else-if position="ibid"> <!-- 无自定义页码的连续文献引用 -->
+        <else-if position="ibid">
+          <!-- 无自定义页码的连续文献引用 -->
           <text term="ibid"/>
         </else-if>
-        <else-if position="subsequent" type="book" match="all"> <!-- 相同文献引用省略出版信息 -->
+        <else-if position="subsequent" type="book" match="all">
+          <!-- 相同文献引用省略出版信息 -->
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -618,17 +655,20 @@
     </layout>
     <layout suffix="。" delimiter="；">
       <choose>
-        <if position="ibid-with-locator"> <!-- 有自定义页码的连续文献引用 -->
+        <if position="ibid-with-locator">
+          <!-- 有自定义页码的连续文献引用 -->
           <group delimiter="，">
             <text term="ibid"/>
             <text macro="locators-zh"/>
             <text variable="locator" prefix="第" suffix="页"/>
           </group>
         </if>
-        <else-if position="ibid"> <!-- 无自定义页码的连续文献引用 -->
+        <else-if position="ibid">
+          <!-- 无自定义页码的连续文献引用 -->
           <text term="ibid"/>
         </else-if>
-        <else-if position="subsequent"> <!-- 相同文献引用省略出版信息 -->
+        <else-if position="subsequent">
+          <!-- 相同文献引用省略出版信息 -->
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》"/>
           <text macro="locators-zh"/>

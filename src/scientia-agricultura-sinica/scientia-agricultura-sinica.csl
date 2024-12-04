@@ -616,7 +616,7 @@
   </citation>
   <bibliography entry-spacing="0">
     <layout locale="en">
-      <text variable="citation-number" prefix="[" suffix="]&#9;"/> <!-- tab间隔 -->
+      <text variable="citation-number" prefix="[" suffix="]&#9;"/>  <!-- tab间隔 -->
       <text macro="entry-layout" suffix="."/>
     </layout>
     <layout>

@@ -21,15 +21,17 @@ class CslStyle:
         }
         self.title = title
         self.title_short = ""
-        self.template_link = None
+        self.template_links = []
         self.documentation_links = []
         self.author = {"name": "John Doe", "email": "john_doe@gmail.com"}
         self.contributors = []
         self.citation_format = citation_format or "numeric"
         self.fields = []
         self.issn = None
+        self.eissn = None
         self.summary = style_id
         # now = datetime.datetime.now().astimezone()
+        self.published = None
         self.updated = datetime.datetime.now().astimezone()
         self.locales = []
         self.macros = []
@@ -64,23 +66,15 @@ class CslStyle:
                 style.style_id = info.text.removeprefix(ZOTERO_STYLE_PREFIX)
             elif info.tag == f"{CSL_PREFIX}link":
                 if info.attrib["rel"] == "template":
-                    style.template_link = info.attrib["href"]
+                    style.template_links.append(info.attrib["href"])
                 elif info.attrib["rel"] == "documentation":
                     style.documentation_links.append(info.attrib["href"])
             elif info.tag == f"{CSL_PREFIX}author":
-                style.author = {
-                    "name": info[0].text,
-                    "email": info[1].text if len(info) > 1 else None,
-                }
+                style.author = get_contributor(info) or {"name": "John Doe"}
             elif info.tag == f"{CSL_PREFIX}contributor":
-                if len(info) == 0:
-                    continue
-                style.contributors.append(
-                    {
-                        "name": info[0].text,
-                        "email": info[1].text if len(info) > 1 else None,
-                    }
-                )
+                contributor = get_contributor(info)
+                if contributor:
+                    style.contributors.append(contributor)
             elif info.tag == f"{CSL_PREFIX}category":
                 if "citation-format" in info.attrib:
                     style.citation_format = info.attrib["citation-format"]
@@ -91,8 +85,12 @@ class CslStyle:
                     style.fields.append(info.attrib["field"])
             elif info.tag == f"{CSL_PREFIX}issn":
                 style.issn = info.text
+            elif info.tag == f"{CSL_PREFIX}eissn":
+                style.eissn = info.text
             elif info.tag == f"{CSL_PREFIX}summary":
                 style.summary = info.text
+            elif info.tag == f"{CSL_PREFIX}published":
+                style.published = datetime.datetime.fromisoformat(str(info.text))
             elif info.tag == f"{CSL_PREFIX}updated":
                 style.updated = datetime.datetime.fromisoformat(str(info.text))
 
@@ -139,9 +137,9 @@ class CslStyle:
         self_link.attrib["href"] = f"{ZOTERO_STYLE_PREFIX}{self.style_id}"
         self_link.attrib["rel"] = "self"
 
-        if self.template_link:
+        for template_link in self.template_links:
             link = etree.SubElement(info, f"{CSL_PREFIX}link")
-            link.attrib["href"] = self.template_link
+            link.attrib["href"] = template_link
             link.attrib["rel"] = "template"
 
         for document_link in self.documentation_links:
@@ -165,9 +163,17 @@ class CslStyle:
             issn = etree.SubElement(info, f"{CSL_PREFIX}issn")
             issn.text = self.issn
 
+        if self.eissn:
+            eissn = etree.SubElement(info, f"{CSL_PREFIX}eissn")
+            eissn.text = self.eissn
+
         if self.summary:
             summary = etree.SubElement(info, f"{CSL_PREFIX}summary")
             summary.text = self.summary
+
+        if self.published:
+            published = etree.SubElement(info, f"{CSL_PREFIX}published")
+            published.text = self.published.isoformat(timespec="seconds")
 
         updated = etree.SubElement(info, f"{CSL_PREFIX}updated")
         updated.text = self.updated.isoformat(timespec="seconds")
@@ -217,7 +223,28 @@ class CslStyle:
         if contributor["email"]:
             email = etree.SubElement(contributor_elem, f"{CSL_PREFIX}email")
             email.text = contributor["email"]
+        if contributor["uri"]:
+            uri = etree.SubElement(contributor_elem, f"{CSL_PREFIX}uri")
+            uri.text = contributor["uri"]
         return contributor_elem
+
+def get_contributor(element):
+    contributor = {
+        "name": None,
+        "email": None,
+        "uri": None,
+    }
+    for info_item in element:
+        if info_item.tag == f"{CSL_PREFIX}name":
+            contributor["name"] = info_item.text
+        elif info_item.tag == f"{CSL_PREFIX}email":
+            contributor["email"] = info_item.text
+        elif info_item.tag == f"{CSL_PREFIX}uri":
+            contributor["uri"] = info_item.text
+
+    if not contributor["name"]:
+        return None
+    return contributor
 
 
 if __name__ == "__main__":

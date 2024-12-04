@@ -364,7 +364,7 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
-              <text macro="issued-year"/> <!-- 0320 -->
+              <text macro="issued-year"/>  <!-- 0320 -->
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
@@ -391,7 +391,7 @@
           <group>
             <group delimiter="，">
               <text variable="container-title"/>
-              <text macro="issued-year"/> <!-- 0320 -->
+              <text macro="issued-year"/>  <!-- 0320 -->
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>

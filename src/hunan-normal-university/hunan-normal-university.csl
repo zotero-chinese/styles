@@ -580,8 +580,8 @@
     <group delimiter=". ">
       <choose>
         <if type="periodical">
-          <text macro="author-zh"/>
           <!-- 4.3 连续出版物 -->
+          <text macro="author-zh"/>
           <text macro="title-zh"/>
           <text macro="year-volume-issue"/>
           <text macro="publisher"/>

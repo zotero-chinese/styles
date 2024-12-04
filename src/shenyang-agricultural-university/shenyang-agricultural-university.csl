@@ -169,7 +169,7 @@
           </group>
           <!-- <text macro="publisher"/> -->
         </group>
-      </else-if> <!-- 学位论文 -->
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
           <choose>
@@ -230,7 +230,7 @@
           </group>
           <!-- <text macro="publisher"/> -->
         </group>
-      </else-if> <!-- 学位论文 -->
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". ">
           <choose>

@@ -256,18 +256,6 @@
       <date-part name="year"/>
     </date>
   </macro>
-  <!-- 英文文献没有版本项 -->
-  <!-- <macro name="edition-en">
-    <choose>
-      <if is-numeric="edition">
-        <number variable="edition" form="ordinal"/>
-        <label variable="edition" form="short" prefix=" "/>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro> -->
   <macro name="edition-zh">
     <choose>
       <if is-numeric="edition">

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with=". " page-range-format="expanded" default-locale="en-US">
-  <!-- 如果用户选择了英文以外的语言，英文标题无法被正确转为 title case，所以这里设置 default-locale="en-US" -->
   <info>
     <title>心理学报</title>
     <id>http://www.zotero.org/styles/acta-psychologica-sinica</id>
@@ -842,12 +841,12 @@
     <!-- 文献列表中的各组成部分 -->
     <group delimiter=" ">
       <group delimiter=". " suffix=".">
-      <text macro="author-bib-ZH"/>
-      <text macro="date-bib-ZH"/>
-      <text macro="title-and-descriptions-ZH"/>
-      <text macro="container-ZH"/>
-      <text macro="event-EN"/>
-      <text macro="publisher-ZH"/>
+        <text macro="author-bib-ZH"/>
+        <text macro="date-bib-ZH"/>
+        <text macro="title-and-descriptions-ZH"/>
+        <text macro="container-ZH"/>
+        <text macro="event-EN"/>
+        <text macro="publisher-ZH"/>
       </group>
       <text macro="access-EN"/>
       <text macro="publication-history-EN"/>

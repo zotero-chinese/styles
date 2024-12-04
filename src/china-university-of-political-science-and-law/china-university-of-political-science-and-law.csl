@@ -61,8 +61,8 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
-      <term name="article-locator" form="short">条</term> <!-- 《宪法》第十八条翻译为“Article 18” -->
-      <term name="book" form="short">编</term> <!-- 《民法典》第一编翻译为“Book One” -->
+      <term name="article-locator" form="short">条</term>  <!-- 《宪法》第十八条翻译为“Article 18” -->
+      <term name="book" form="short">编</term>  <!-- 《民法典》第一编翻译为“Book One” -->
       <term name="accessed">访问</term>
       <term name="compiler">整理</term>
       <term name="compiler" form="short">整理</term>

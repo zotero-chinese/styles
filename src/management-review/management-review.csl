@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with-hyphen="false" demote-non-dropping-particle="sort-only" default-locale="en-US">
-  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>管理评论</title>
     <title-short>glpl</title-short>
@@ -9,7 +8,6 @@
     <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
     <link href="http://journal05.magtech.org.cn/jweb_glpl/CN/column/column6.shtml" rel="documentation"/>
     <author>
-      <uri>Lyumbreit@gmail.com</uri>
       <name>王小布</name>
       <email>Lyumbreit@gmail.com</email>
     </author>

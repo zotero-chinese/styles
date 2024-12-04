@@ -23,7 +23,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="zh-et-al">et al</term> <!-- 翻译中的"等" -->
+      <term name="zh-et-al">et al</term>  <!-- 翻译中的"等" -->
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -268,7 +268,7 @@
         </choose>
       </else>
     </choose>
-    <!-- 学位论文显示页码，学位论文无page项，引用页码需要放在总页数字段-->
+    <!-- 学位论文显示页码，学位论文无page项，引用页码需要放在总页数字段 -->
     <choose>
       <if type="thesis" match="any">
         <text variable="number-of-pages" prefix=": "/>

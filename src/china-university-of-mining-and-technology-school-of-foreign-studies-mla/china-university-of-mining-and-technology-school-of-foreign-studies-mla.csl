@@ -192,11 +192,11 @@
     <group delimiter=", ">
       <group>
         <choose>
-          <!--lowercase if we have a preceding element-->
+          <!-- lowercase if we have a preceding element -->
           <if variable="edition container-title" match="any">
             <text macro="volume-lowercase-en"/>
           </if>
-          <!--other contributors preceding the volume-->
+          <!-- other contributors preceding the volume -->
           <else-if variable="author" match="all">
             <choose>
               <if variable="editor translator container-author illustrator interviewer director" match="any">
@@ -315,7 +315,7 @@
     </choose>
   </macro>
   <macro name="accessed-en">
-    <!--using accessed where we don't have an issued date; follows recommendation on p. 53 -->
+    <!-- using accessed where we don't have an issued date; follows recommendation on p. 53 -->
     <choose>
       <if variable="issued" match="none">
         <group delimiter=" ">
@@ -672,7 +672,7 @@
       <text macro="title-en"/>
       <date variable="original-date" form="numeric" date-parts="year"/>
       <group delimiter=", ">
-        <!---This group corresponds to MLA's "Container 1"-->
+        <!-- This group corresponds to MLA's "Container 1" -->
         <text macro="container-title-en"/>
         <text macro="other-contributors-en"/>
         <text macro="version-en"/>
@@ -682,8 +682,8 @@
         <text macro="location-en"/>
       </group>
       <group delimiter=", ">
-        <!---This group corresponds to MLA's "Container 2"-->
-        <!--currently just using this one for archival info-->
+        <!-- This group corresponds to MLA's "Container 2" -->
+        <!-- currently just using this one for archival info -->
         <text macro="container2-title-en"/>
         <text macro="container2-location-en"/>
       </group>
