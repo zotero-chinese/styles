@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="sort-only">
   <info>
     <title>IEEE（双语）</title>
-    <id>http://www.zotero.org/styles/ieee-bl</id>
-    <link href="http://www.zotero.org/styles/ieee-bl" rel="self"/>
+    <id>http://www.zotero.org/styles/ieee-bilingual</id>
+    <link href="http://www.zotero.org/styles/ieee-bilingual" rel="self"/>
     <!-- <link href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf" rel="documentation"/> - 2018 guidelines -->
     <link href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" rel="documentation"/>
     <link href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/" rel="documentation"/>

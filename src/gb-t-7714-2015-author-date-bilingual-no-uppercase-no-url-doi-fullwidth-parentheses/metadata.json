@@ -1,10 +1,10 @@
 {
-  "dir": "gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
-  "file": "gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses.csl",
+  "dir": "gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses",
+  "file": "gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses.csl",
   "style_class": "in-text",
   "title": "GB/T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI，全角括号）",
-  "id": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
-  "link_self": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-full-width-parentheses",
+  "id": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses",
+  "link_self": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date",
   "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
   "author": [

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>科学通报</title>
-    <id>http://www.zotero.org/styles/chinese-science-bulletin</id>
-    <link href="http://www.zotero.org/styles/chinese-science-bulletin" rel="self"/>
+    <title>科学通报（双语）</title>
+    <id>http://www.zotero.org/styles/chinese-science-bulletin-bilingual</id>
+    <link href="http://www.zotero.org/styles/chinese-science-bulletin-bilingual" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2005-numeric-bilingual-no-uppercase-no-url" rel="template"/>
     <link href="https://www.sciengine.com/CSB/authorCenter" rel="documentation"/>
     <author>

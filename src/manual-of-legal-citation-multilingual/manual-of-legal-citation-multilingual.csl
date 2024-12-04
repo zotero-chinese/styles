@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize-with=". " demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>法学引注手册（多语言，重复引用不省略）</title>
-    <id>http://www.zotero.org/styles/manual-of-legal-citation-multi-lingual-no-ibid</id>
-    <link href="http://www.zotero.org/styles/manual-of-legal-citation-multi-lingual-no-ibid" rel="self"/>
+    <title>法学引注手册（多语言）</title>
+    <id>http://www.zotero.org/styles/manual-of-legal-citation-multilingual</id>
+    <link href="http://www.zotero.org/styles/manual-of-legal-citation-multilingual" rel="self"/>
     <link href="http://www.zotero.org/styles/bluebook-law-review" rel="template"/>
     <link href="https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5" rel="documentation"/>
     <link href="https://colr.xmu.edu.cn/_upload/article/files/67/3c/bdf817f64039947a52276727ef01/082c41aa-fed1-4460-97fa-7f471901a879.pdf" rel="documentation"/>
@@ -13,8 +13,8 @@
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <summary>1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的“法学引注手册”分类，其中录入了《手册》的示例文献。3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段。4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。6. 英国案例和法文文献的支持尚不完善，需要测试反馈。7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。9. 重复引用的文献不略写。</summary>
-    <updated>2024-06-18T22:33:27+08:00</updated>
+    <summary>1. 文献的语言默认为英语，其他语言的文献需要在 `language` 字段填写对应的语言代码。2. 各类文献的字段信息填写方式可以参考 Zotero 群组“Chinese CSL development”的“法学引注手册”分类，其中录入了《手册》的示例文献。3. 最高人民法院发布的指导性案例，需要连同“案例编号”、”发布时间”（注意区别于”裁判时间”）分别在填写在 `Extra` 中的 `Series`, `Series Number` 和 `available-date` 字段。4. 《最高人民法院公报》上的案例，发布时间和期号需要分别填写在 `Extra` 的 `available-date` 和 `Issue` 字段。5. 司法案例的裁判文书名称需要填写在 `Extra` 的 `Genre` 字段，比如 `Genre: 行政判决书`。6. 英国案例和法文文献的支持尚不完善，需要测试反馈。7. 德文的“法律评注”使用 book section 文献类型，并将标题留空。8. 德文的“祝贺文集“与“纪念文集”使用 book section 文献类型，但需要将书名填在 `Series` 字段。</summary>
+    <updated>2024-06-06T13:18:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -96,11 +96,27 @@
       </substitute>
     </names>
   </macro>
+  <macro name="author-short-de">
+    <names variable="author">
+      <name et-al-min="4" et-al-use-first="1" form="short" delimiter="/"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
   <macro name="author-en">
     <names variable="author">
       <!-- 英文引注体例：四人以上的，可以只写第一作者，余下用 et al.。 -->
       <name et-al-min="4" et-al-use-first="1" initialize="false" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
       <label form="short" prefix=" "/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-short-en">
+    <names variable="author">
+      <name initialize="false" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
       <substitute>
         <names variable="editor"/>
       </substitute>
@@ -128,6 +144,15 @@
     <names variable="author">
       <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
+      <substitute>
+        <names variable="editor"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 略写文献时，标示文献性质的“编”“主编”等可以省略 -->
+  <macro name="author-short-zh">
+    <names variable="author">
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="editor"/>
       </substitute>
@@ -1661,19 +1686,132 @@
     </choose>
   </macro>
   <macro name="citation-layout-de">
-    <text macro="source-de"/>
+    <choose>
+      <if position="first">
+        <text macro="source-de"/>
+      </if>
+      <else>
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <group delimiter=", ">
+              <text macro="author-short-de"/>
+              <!-- 若为法律评注，再次出现时，标出书名 -->
+              <choose>
+                <!-- 有书名但文章名为空的 chapter 文献视为“法律评注” -->
+                <if type="chapter" variable="container-title" match="all">
+                  <choose>
+                    <if variable="title" match="none">
+                      <text variable="container-title"/>
+                    </if>
+                  </choose>
+                </if>
+              </choose>
+            </group>
+            <text variable="first-reference-note-number" prefix="(Fn. " suffix=")"/>
+          </group>
+          <text macro="locator-de"/>
+        </group>
+      </else>
+    </choose>
   </macro>
   <macro name="citation-layout-en">
-    <text macro="source-en"/>
+    <choose>
+      <if position="ibid-with-locator">
+        <text term="ibid" strip-periods="true"/>
+        <text macro="locator-en" prefix=", "/>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid" strip-periods="true"/>
+      </else-if>
+      <else-if position="subsequent">
+        <choose>
+          <if disambiguate="true">
+            <group delimiter=", ">
+              <text variable="first-reference-note-number" prefix="Supra note "/>
+              <text macro="author-short-en"/>
+              <text variable="title" form="short"/>
+              <text macro="locator-en"/>
+            </group>
+          </if>
+          <else>
+            <group delimiter=", ">
+              <text variable="first-reference-note-number" prefix="Supra note "/>
+              <text macro="author-short-en"/>
+              <text macro="locator-en"/>
+            </group>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <text macro="source-en"/>
+      </else>
+    </choose>
   </macro>
   <macro name="citation-layout-fr">
-    <text macro="source-fr"/>
+    <choose>
+      <if position="ibid-with-locator">
+        <text term="ibid"/>
+        <text macro="locator-en" prefix=", "/>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <group delimiter=", ">
+          <text macro="author-fr"/>
+          <text macro="title-fr"/>
+          <text term="op-cit"/>
+          <text macro="locator-fr"/>
+        </group>
+      </else-if>
+      <else>
+        <text macro="source-fr"/>
+      </else>
+    </choose>
   </macro>
   <macro name="citation-layout-ja">
     <text macro="source-ja"/>
   </macro>
   <macro name="citation-layout-zh">
-    <text macro="source-zh"/>
+    <choose>
+      <if position="ibid-with-locator">
+        <text term="ibid"/>
+        <text macro="locator-zh" prefix="，"/>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <choose>
+          <if disambiguate="true">
+            <group delimiter="，">
+              <group>
+                <text term="op-cit"/>
+                <text variable="first-reference-note-number" prefix="〔" suffix="〕"/>
+              </group>
+              <group delimiter="：">
+                <text macro="author-short-zh"/>
+                <text variable="title" form="short" prefix="《" suffix="》"/>
+              </group>
+              <text macro="locator-zh"/>
+            </group>
+          </if>
+          <else>
+            <group delimiter="，">
+              <group>
+                <text term="op-cit"/>
+                <text variable="first-reference-note-number" prefix="〔" suffix="〕"/>
+              </group>
+              <text macro="author-short-zh" suffix="书"/>
+              <text macro="locator-zh"/>
+            </group>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <text macro="source-zh"/>
+      </else>
+    </choose>
   </macro>
   <macro name="citation-number">
     <text variable="citation-number" prefix="〔" suffix="〕"/>

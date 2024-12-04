@@ -1,10 +1,10 @@
 {
-  "dir": "wuhan-university-of-technology",
-  "file": "wuhan-university-of-technology.csl",
+  "dir": "wuhan-university-of-technology-undergraduate",
+  "file": "wuhan-university-of-technology-undergraduate.csl",
   "style_class": "in-text",
   "title": "武汉理工大学（本科）",
-  "id": "http://www.zotero.org/styles/wuhan-university-of-technology",
-  "link_self": "http://www.zotero.org/styles/wuhan-university-of-technology",
+  "id": "http://www.zotero.org/styles/wuhan-university-of-technology-undergraduate",
+  "link_self": "http://www.zotero.org/styles/wuhan-university-of-technology-undergraduate",
   "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
   "link_documentation": "http://jwc.whut.edu.cn/Web/Details?id=41&type=010205",
   "author": [

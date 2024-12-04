@@ -1,10 +1,10 @@
 {
-  "dir": "manual-of-legal-citation-multi-lingual-no-ibid",
-  "file": "manual-of-legal-citation-multi-lingual-no-ibid.csl",
+  "dir": "manual-of-legal-citation-multilingual-no-ibid",
+  "file": "manual-of-legal-citation-multilingual-no-ibid.csl",
   "style_class": "note",
   "title": "法学引注手册（多语言，重复引用不省略）",
-  "id": "http://www.zotero.org/styles/manual-of-legal-citation-multi-lingual-no-ibid",
-  "link_self": "http://www.zotero.org/styles/manual-of-legal-citation-multi-lingual-no-ibid",
+  "id": "http://www.zotero.org/styles/manual-of-legal-citation-multilingual-no-ibid",
+  "link_self": "http://www.zotero.org/styles/manual-of-legal-citation-multilingual-no-ibid",
   "link_template": "http://www.zotero.org/styles/bluebook-law-review",
   "link_documentation": "https://www.pup.cn/bookDetail?id=910497ac470d4880ab56c6709bb1d7c5",
   "author": [

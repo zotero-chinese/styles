@@ -1,10 +1,10 @@
 {
-  "dir": "acta-physica-sinica",
-  "file": "acta-physica-sinica.csl",
+  "dir": "acta-physica-sinica-bilingual",
+  "file": "acta-physica-sinica-bilingual.csl",
   "style_class": "in-text",
-  "title": "物理学报",
-  "id": "http://www.zotero.org/styles/acta-physica-sinica",
-  "link_self": "http://www.zotero.org/styles/acta-physica-sinica",
+  "title": "物理学报（双语）",
+  "id": "http://www.zotero.org/styles/acta-physica-sinica-bilingual",
+  "link_self": "http://www.zotero.org/styles/acta-physica-sinica-bilingual",
   "link_template": "http://www.zotero.org/styles/american-physics-society-without-titles",
   "link_documentation": "https://wulixb.iphy.ac.cn/news/tougaoxuzhi.htm",
   "author": [
