@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" initialize-with=". " default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize-with=". " default-locale="en-US">
   <info>
     <title>清华大学（人文社科）</title>
     <id>http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences</id>

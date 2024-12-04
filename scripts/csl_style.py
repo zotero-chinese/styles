@@ -16,8 +16,8 @@ class CslStyle:
         self.style_id = style_id
         self.style_attrib = {
             # "xmlns": "http://purl.org/net/xbiblio/csl",
-            "version": "1.0",
             "class": "in-text",
+            "version": "1.0",
         }
         self.title = title
         self.title_short = ""

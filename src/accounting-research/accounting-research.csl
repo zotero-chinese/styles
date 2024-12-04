@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=". " names-delimiter=". " name-as-sort-order="first" sort-separator=", " default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=". " names-delimiter=". " name-as-sort-order="first" sort-separator=", " default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>会计研究</title>
     <id>http://www.zotero.org/styles/accounting-research</id>
