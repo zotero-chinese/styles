@@ -776,9 +776,6 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]" locale="en">
-      <text variable="citation-number"/>
-    </layout>
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>
     </layout>
