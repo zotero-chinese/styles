@@ -14,7 +14,7 @@
     <category citation-format="author"/>
     <category field="literature"/>
     <summary>四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf</summary>
-    <updated>2024-12-07T17:44:56+08:00</updated>
+    <updated>2024-12-07T17:50:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -104,7 +104,7 @@
   <macro name="author-short-zh">
     <group delimiter=", ">
       <names variable="original-author">
-        <name and="text" delimiter=", "/>
+        <name form="short" initialize-with=". " and="text"/>
         <substitute>
           <text macro="title-short-zh"/>
           <names variable="author"/>
@@ -615,7 +615,7 @@
       <text macro="accessed"/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true">
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true">
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=" ">
         <choose>

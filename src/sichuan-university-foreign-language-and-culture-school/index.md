@@ -41,14 +41,14 @@ Jason (2008)<br>
 张三和李四 (2008)<br>
 Wang and Sun (2009)<br>
 (赵一和陈二 2008; Wolchik and West 2009)<br>
-张三等 (2008)<br>
-Wang et al. (2009)<br>
-(赵一等 2008; Wolchik et al. 2009)<br>
-张三, 李四, 等 (2019)<br>
-张三, 王五, 等 (2019)<br>
+张三, 李四和王五 (2008)<br>
+Wang, Sun, and Zheng (2009)<br>
+(赵一, 陈二和张三 2008; Wolchik, West, and Sandler 2009)<br>
+张三, 李四和赵一 (2019)<br>
+张三, 王五和钱二 (2019)<br>
 Qian, Zhao, Zhou, Sun, et al. (2020)<br>
 Qian, Zhao, Zhou, Li, et al. (2020)<br>
-(张三, 李四, 等 2019; Qian, Zhao, Zhou, Sun, et al. 2020)<br>
+(张三, 李四和赵一 2019; Qian, Zhao, Zhou, Sun, et al. 2020)<br>
 张三, 李四和王五 (2020)<br>
 张三, 李四和赵六 (2020)<br>
 Qian, Zhao, Zhou, and Sun (2009)<br>
@@ -77,14 +77,14 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">程根伟. “1998 年长江洪水的成因与减灾对策.” 许厚泽, 赵其国编. 长江流域洪涝灾害与科技对策, 北京: 科学出版社, 1999, 32–36.</div>
   <div class="csl-entry">邓一刚. 全智能节电器. 200610171314.3, 中国, 2006年12月13日.</div>
   <div class="csl-entry">丁文详. “数字革命与竞争国际化.” 中国青年报, 2000年11月20日, 15.</div>
-  <div class="csl-entry">傅刚, 等. “大风沙过后的思考.” 北京青年报, 2000年1月12日.</div>
+  <div class="csl-entry">傅刚, 赵承, 李佳路. “大风沙过后的思考.” 北京青年报, 2000年1月12日.</div>
   <div class="csl-entry">顾炎武. 昌平山水记：京东考古录. 北京: 北京古籍出版社, 1982.</div>
   <div class="csl-entry">国家标准局信息分类编码研究所. “世界各国和地区名称代码.” 全国文献工作标准化委员会编. 文献工作国家标准汇编：3, GB/T 2659—1986, 北京: 中国标准出版社, 1988年, 59–92.</div>
   <div class="csl-entry">国家环境保护局科技标准司. 土壤环境质量标准. GB 15616—1995, 北京: 中国标准出版社, 1996年, 2–3.</div>
   <div class="csl-entry">哈里森·沃尔德伦. 经济数学与金融数学. 谢远涛译, 北京: 中国人民大学出版社, 2012, 235–36.</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法. 01129210.5, 中国, 2001年10月24日.</div>
   <div class="csl-entry">侯文顺. 高分子物理：高分子材料分析、选择与改性. 北京: 化学工业出版社, 2010, 119.</div>
-  <div class="csl-entry">胡承正, 等. 理论物理概论. 武汉: 武汉大学出版社, 2010, 112.</div>
+  <div class="csl-entry">胡承正, 周详, 缪灵. 理论物理概论. 武汉: 武汉大学出版社, 2010, 112.</div>
   <div class="csl-entry">贾东琴, 柯平. “面向数字素养的高校图书馆数字服务体系研究.” 中国图书馆学会编. 中国图书馆学会年会论文集, 卷 2011 年卷, 北京: 国家图书馆出版社, 2011, 45–52.</div>
   <div class="csl-entry">蒋有绪, 等. 中国森林群落分类及其群落特征. 北京: 科学出版社, 1998.</div>
   <div class="csl-entry">“卷 39 乞致仕第一.” 苏魏公文集, 卷 下册, 北京: 中华书局, 1988, 590.</div>
@@ -120,7 +120,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">王夫之. 宋论. 刻本, 金陵: 湘乡曾国荃, 1865.</div>
   <div class="csl-entry">---, 编辑. “周易外传：卷 5.” 船山全书, 卷 第 6 册, 长沙: 岳麓书社, 2011, 1109.</div>
   <div class="csl-entry">王临惠. “从几组声母的演变看天津方言形成的自然条件和历史背景.” 曹志耘编. 汉语方言的地理语言学研究, 北京: 商务印书馆, 2010, 138.</div>
-  <div class="csl-entry">---. “天津方言的源流关系刍议.” 山西师范大学学报（社会科学版）. 37. 4 (2010) 147.</div>
+  <div class="csl-entry">王临惠, 支建刚, 王忠一. “天津方言的源流关系刍议.” 山西师范大学学报（社会科学版）. 37. 4 (2010) 147.</div>
   <div class="csl-entry">吴云芳. 面向中文信息处理的现代汉语并列结构研究. 博士学位论文. 北京: 北京大学, 2003.</div>
   <div class="csl-entry">武丽丽, 等. “‘北斗一号’监控管理网设计与实现.” 测绘科学. 33. 5 (2008) 8–9.</div>
   <div class="csl-entry">西安电子科技大学. 光折变自适应光外差探测方法. 01128777.2, 中国, 2002年3月6日.</div>
@@ -139,7 +139,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">赵学功. 当代美国外交. 北京: 社会科学文献出版社, 2001.</div>
   <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆. 《中国明朝档案总汇》. 桂林: 广西师范大学出版社, 2001年.</div>
   <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012年1月16日.</div>
-  <div class="csl-entry">中国企业投资协会, 等. 投资台湾：大陆企业赴台投资指南. 北京: 九州出版社, 2013.</div>
+  <div class="csl-entry">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾：大陆企业赴台投资指南. 北京: 九州出版社, 2013.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 编辑. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社, 2012.</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室. 现代汉语词典. 修订本, 北京: 商务印书馆, 1996.</div>
   <div class="csl-entry">中国图书馆学会. 图书馆学通讯. 1–4, 北京: 北京图书馆, 1957年.</div>
@@ -152,9 +152,9 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Baker, S. K., and M. E. Jackson. <i>The Future of Resource Sharing</i>. The Haworth Press, 1995.</div>
   <div class="csl-entry">Baldock, Peter. <i>Developing Early Childhood Services: Past, Present and Future</i>. Open University Press, 2011, p. 105, <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
   <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">Buseck, Peter R., et al. “Subsolidus Phenomena in Pyroxenes.” <i>Pyroxenes</i>, Mineralogical Society of America, c1980, pp. 117–211.</div>
+  <div class="csl-entry">Buseck, Peter R., Gordon L. Nord Jr., and David R. Veblen. “Subsolidus Phenomena in Pyroxenes.” <i>Pyroxenes</i>, Mineralogical Society of America, c1980, pp. 117–211.</div>
   <div class="csl-entry">Cairns, Bruce Richard. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. 1965. Univ. of California, Doctoral dissertation.</div>
-  <div class="csl-entry">Calkin, D., et al. <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>. RMRS-GTR-262, 2011, pp. 8–9.</div>
+  <div class="csl-entry">Calkin, D., A. Ager, and M. Thompson. <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>. RMRS-GTR-262, 2011, pp. 8–9.</div>
   <div class="csl-entry">Caplan, Priscilla. “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i>, vol. 4, no. 2, 1993, pp. 61–66.</div>
   <div class="csl-entry">Chernik, B. E. <i>Introduction to Library Services for Library Technicians</i>. Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">“Coffee Drinking and Cancer of the Pancreas.” <i>British Medical Journal</i>, vol. 283, no. 6292, 1981, p. 628.</div>
@@ -168,7 +168,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26, <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
   <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>
   <div class="csl-entry">Franz, Annaliese K., et al. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i>, vol. 8, 2013, pp. 1053–62, <a href="https://doi.org/10.1021/cb300573r">https://doi.org/10.1021/cb300573r</a>.</div>
-  <div class="csl-entry">Frese, Karen S., et al. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 378–98, <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a>.</div>
+  <div class="csl-entry">Frese, Karen S., Hugo A. Katus, and Benjamin Meder. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 378–98, <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a>.</div>
   <div class="csl-entry">Hopkinson, A. <i>UNIMARC and Metadata: Dublin Core</i>. 22 Apr. 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
   <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>. ISO 15836:2009, <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>. Accessed 24 Mar. 2013.</div>
   <div class="csl-entry">International Federation of Library Association and Institutions. <i>Names of Persons: National Usages for Entry in Catalogues</i>. 3rd ed., IFLA International Office for UBC, 1977.</div>
@@ -190,7 +190,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Sunstein, Cass R. “Social Norms and Social Roles.” <i>Columbia Law Review</i>, vol. 96, 1996, p. 903, <a href="https://doi.org/10.2307/1123430">https://doi.org/10.2307/1123430</a>.</div>
   <div class="csl-entry">Tachibana, Ryuki, et al. <i>Electronic Watermarking Method and System</i>. US6915001, 5 July 2005, <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. <i>Guidelines for Handling Excavated Acid-Producing Material</i>. PB 91-194001, U.S. Department of Commerce National Information Service, 1990.</div>
-  <div class="csl-entry">Walls, Susan C., et al. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 399–418, <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a>.</div>
+  <div class="csl-entry">Walls, Susan C., William J. Barichivich, and Mary E. Brown. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 399–418, <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a>.</div>
   <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, edited by William A Sodeman Jr. and William A. Sodeman, Saunders, 1974, pp. 457–72.</div>
   <div class="csl-entry">World Health Organization. <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. WHO, 1970.</div>
   <div class="csl-entry">Yufin, Sergey A., editor. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema, 2000.</div>
@@ -223,13 +223,13 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Bergmann, P. G. “Relativity.” <i>The New Encyclopedia Britannica</i>, vol. 26, Encyclopedia Britannica, 1993, pp. 501–08.</div>
   <div class="csl-entry">Burin, Dalila, et al. “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLOS ONE</i>, vol. 14, no. 1, e0209899, 2019, <a href="https://doi.org/10.1371/journal.pone.0209899">https://doi.org/10.1371/journal.pone.0209899</a>.</div>
   <div class="csl-entry">Gibbs, Jewelle Taylor, and Larke Nahme Huang, editors. <i>Children of Color: Psychological Interventions with Minority Youth</i>. Jossey-Bass, 1989.</div>
-  <div class="csl-entry">Huestegge, Sujata M., et al. “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>, 2019, <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.</div>
+  <div class="csl-entry">Huestegge, Sujata M., Tim Raettig, and Lynn Huestegge. “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>, 2019, <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.</div>
   <div class="csl-entry">Klatzky, Roberta. “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections.” <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, edited by C. Freksa et al., Springer-Verlag, 1998, pp. 1–17.</div>
   <div class="csl-entry">Lanktree, Cheryl B., and John N. Briere. <i>Early Data on the Trauma Symptom Checklist for Children (TSC-C)</i>. 1991.</div>
   <div class="csl-entry">Laplace, Pierre-Simon. <i>A Philosophical Essay on Probabilities</i>. 1814. Translated by F. W. Truscott and F. L. Emory, Dover, 1951.</div>
   <div class="csl-entry">Lichstein, Kenneth L., and Ronald S. Johnson. “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs.” <i>Reducing Medication in Geriatric Populations</i>, 1990.</div>
   <div class="csl-entry">Mitchell, Terence R., and James R. Larson. <i>People in Organizations: An Introduction to Organizational Behavior</i>. 3rd ed., McGraw-Hill, 1987.</div>
-  <div class="csl-entry">Mou, Weimin, et al. “Frames of Reference in Spatial Memories Acquired from Language.” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 30, 2004, pp. 171–80, <a href="https://doi.org/10.1037/0278-7393.30.1.171">https://doi.org/10.1037/0278-7393.30.1.171</a>.</div>
+  <div class="csl-entry">Mou, Weimin, Kan Zhang, and Timothy P. McNamara. “Frames of Reference in Spatial Memories Acquired from Language.” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 30, 2004, pp. 171–80, <a href="https://doi.org/10.1037/0278-7393.30.1.171">https://doi.org/10.1037/0278-7393.30.1.171</a>.</div>
   <div class="csl-entry">Mou, Weimin, and Timothy P. McNamara. “Intrinsic Frames of Reference in Spatial Memory.” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol. 28, 2002, pp. 162–70, <a href="https://doi.org/10.1037/0278-7393.28.1.162">https://doi.org/10.1037/0278-7393.28.1.162</a>.</div>
   <div class="csl-entry">Ruby, John, and Cain Fulton. <i>Beyond Redlining: Editing Software That Works</i>. 1993.</div>
   <div class="csl-entry">Sadie, Stanley, editor. <i>The New Grove Dictionary of Music and Musicians</i>. 6th ed., Macmillan, 1980.</div>
@@ -318,7 +318,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">季卫东. “法律程序的意义：对中国法制建设的另一种思考.” 中国社会科学. 1 (1993) 83–103.</div>
   <div class="csl-entry">李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究. 博士学位论文. 中国政法大学, 2015.</div>
   <div class="csl-entry">“陆红霞诉南通市发改委政府信息公开案.” 最高人民法院公报, 11, 2015年7月6日.</div>
-  <div class="csl-entry">罗豪才, 等. “现代行政法的理论基础——论行政机关与相对一方的权利义务平衡.” 中国法学. 1 (1993) 52–59.</div>
+  <div class="csl-entry">罗豪才, 袁曙宏, 李文栋. “现代行政法的理论基础——论行政机关与相对一方的权利义务平衡.” 中国法学. 1 (1993) 52–59.</div>
   <div class="csl-entry">[美]富勒. 法律的道德性. 郑戈译, 商务印书馆, 2005.</div>
   <div class="csl-entry">民法总则.</div>
   <div class="csl-entry">欧中坦. “千方百计上京城：清朝的京控.” 高道蕴, 等编. 美国学者论中国法律传统, 谢鹏程译, 中国政法大学出版社, 1994.</div>
@@ -421,7 +421,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Balsam, K. F., et al. “Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People.” <i>Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision</i>, edited by G. Y. Iwamasa and P. A. Hays, 2nd ed., American Psychological Association, 2019, pp. 287–314, <a href="https://doi.org/10.1037/0000119-012">https://doi.org/10.1037/0000119-012</a>.</div>
   <div class="csl-entry">Bergeson, S. “Really Cool Neutral Plasmas.” <i>Science</i>, vol. 363, no. 6422, Jan. 2019, pp. 33–34, <a href="https://doi.org/10.1126/science.aau7988">https://doi.org/10.1126/science.aau7988</a>.</div>
   <div class="csl-entry">Beyoncé. “Formation.” <i>Lemonade</i>, Parkwood; Columbia, 2016.</div>
-  <div class="csl-entry">Blackwell, D. L., et al. <i>Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012</i>. Centers for Disease Control and Prevention, 2014, <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>.</div>
+  <div class="csl-entry">Blackwell, D. L., J. W. Lucas, and T. C. Clarke. <i>Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012</i>. Centers for Disease Control and Prevention, 2014, <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>.</div>
   <div class="csl-entry">Blair, C. B. <i>Stress, Self-Regulation and Psychopathology in Middle Childhood</i>. Grant, 5R01HD081252-04, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020, <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
   <div class="csl-entry">Boddy, J., et al. “Ethics Principles.” <i>The Research Ethics Guidebook: A Resource for Social Scientists</i>, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
   <div class="csl-entry">Bologna, C. “What Happens to Your Mind and Body When You Feel Homesick?” <i>HuffPost</i>, 27 June 2018, <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
@@ -462,8 +462,8 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“Every Student Succeeds Act.” <i>U.S.C</i>, vol. 20, 2015, <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
   <div class="csl-entry">“Exec. Order No. 13,676.” <i>C.F.R.</i>, vol. 3, 2014, p. 294, <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
   <div class="csl-entry"><i>Federal Real Property Reform: How Cutting Red Tape and Better Management Count Achieve Billions in Savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>. 2016, <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
-  <div class="csl-entry">Fiske, S. T., et al. <i>Handbook of Social Psychology</i>. 5th ed., vol. 1, John Wiley &#38; Sons, 2010, <a href="https://doi.org/10.1002/9780470561119">https://doi.org/10.1002/9780470561119</a>.</div>
-  <div class="csl-entry">Fistek, A., et al. <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a>. Milwaukee, WI, United States.</div>
+  <div class="csl-entry">Fiske, S. T., D. T. Gilbert, and G. Lindzey. <i>Handbook of Social Psychology</i>. 5th ed., vol. 1, John Wiley &#38; Sons, 2010, <a href="https://doi.org/10.1002/9780470561119">https://doi.org/10.1002/9780470561119</a>.</div>
+  <div class="csl-entry">Fistek, A., E. Jester, and K. Sonnenberg. <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a>. Milwaukee, WI, United States.</div>
   <div class="csl-entry">“Florida Mental Health Act.” 1971. <i>Fla. Stat.</i>, 2009, <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
   <div class="csl-entry">Freud, S. <i>The Interpretation of Dreams: The Complete and Definitive Text</i>. 1900. Edited &#38; translated by J. Strachey, Basic Books, 2010.</div>
   <div class="csl-entry">Fried, D., and A. Polyakova. <i>Democratic Defense against Disinformation</i>. Atlantic Council, 2018, <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>.</div>
@@ -490,7 +490,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry"><i>How Do Geckos Walk on Water?</i> Directed by University of Oxford, YouTube, 2016, <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.</div>
   <div class="csl-entry"><i>How to Diagram a Sentence (Absolute Basics)</i>. Directed by M. Fogarty, YouTube, 2016, <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a>.</div>
   <div class="csl-entry"><i>H.R. Rep. No. 114-358</i>. 2015, <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>.</div>
-  <div class="csl-entry">Huestegge, Sujata M., et al. “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>, 2019, <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.</div>
+  <div class="csl-entry">Huestegge, Sujata M., Tim Raettig, and Lynn Huestegge. “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i>, 2019, <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.</div>
   <div class="csl-entry">Hutcheson, V. H. <i>Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents</i>. 2012. The College of William &#38; Mary, Master’s thesis, <a href="https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf">https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf</a>. William &#38; Mary Digital Archive.</div>
   <div class="csl-entry">Kalnay, E., et al. “The NCEP/NCAR 40-Year Reanalysis Project.” <i>Bulletin of the American Meteorological Society</i>, vol. 77, no. 3, Jan. 1996, pp. 437–71, <a href="https://doi.org/fg6rf9">https://doi.org/fg6rf9</a>.</div>
   <div class="csl-entry"><i>King James Bible</i>. 1769. King James Bible Online, 2017, <a href="https://www.kingjamesbibleonline.org/">https://www.kingjamesbibleonline.org/</a>.</div>
@@ -513,7 +513,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Martin Lillie, C. M. “Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency.” <i>Mayo Clinic</i>, 29 Dec. 2016, <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.</div>
   <div class="csl-entry">McCauley, Stewart M., and Morten H. Christiansen. “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development.” <i>Psychological Review</i>, vol. 126, no. 1, 2019, pp. 1–51, <a href="https://doi.org/10.1037/rev0000126">https://doi.org/10.1037/rev0000126</a>.</div>
   <div class="csl-entry">McCurry, S. <i>Afghan Girl</i>. 1985, <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>. National Geographic.</div>
-  <div class="csl-entry">McDaniel, S. H., et al., editors. <i>American Psychologist</i>. no. 4, 2018.</div>
+  <div class="csl-entry">McDaniel, S. H., E. Salas, and A. E. Kazak, editors. <i>American Psychologist</i>. no. 4, 2018.</div>
   <div class="csl-entry">Meadows, D. H. <i>Thinking in Systems: A Primer</i>. Edited by D. Wright, Chelsea Green Publishing, 2008.</div>
   <div class="csl-entry">Mehrholz, J., et al. “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke.” <i>Cochrane Database of Systematic Reviews</i>, 2018, <a href="https://doi.org/10.1002/14651858.CD006876.pub5">https://doi.org/10.1002/14651858.CD006876.pub5</a>.</div>
   <div class="csl-entry"><i>Mental Health on Campus Improvement Act</i>. H.R. 1100, 2013, <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
@@ -539,7 +539,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Piaget, J. “Intellectual Evolution from Adolescence to Adulthood.” 1970. <i>Human Development</i>, translated by J. Bliss and H. Furth, vol. 15, no. 1, 1972, pp. 1–12, <a href="https://doi.org/10.1159/00027/1225">https://doi.org/10.1159/00027/1225</a>.</div>
   <div class="csl-entry">Piaget, J., and B. Inhelder. <i>The Psychology of the Child</i>. Quadrige, 1966.</div>
   <div class="csl-entry">---. <i>The Psychology of the Child</i>. 1966. Translated by H. Weaver, 2nd ed., Basic Books, 1969.</div>
-  <div class="csl-entry">Pridham, K. F., et al., editors. <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>. Springer Publishing Company, 2018, <a href="http://a.co/0IAiVgt">http://a.co/0IAiVgt</a>.</div>
+  <div class="csl-entry">Pridham, K. F., R. Limbo, and M. Schroeder, editors. <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>. Springer Publishing Company, 2018, <a href="http://a.co/0IAiVgt">http://a.co/0IAiVgt</a>.</div>
   <div class="csl-entry">Project Implicit. <i>Gender-Science IAT</i>. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
   <div class="csl-entry">“Protection of Human Subjects.” <i>C.F.R.</i>, vol. 45, 2009, <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
   <div class="csl-entry">Richardson, F., editor. <i>Brain and Intelligence: The Ecology of Child Development</i>. National Educational Press, 1973, pp. 113–23.</div>
@@ -583,7 +583,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">U.S. Food and Drug Administration. <i>FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices</i>. Press release, U.S. Food and Drug Administration, 14 Feb. 2019, <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>.</div>
   <div class="csl-entry">U.S. Securities and Exchange Commission. <i>Agency Financial Report: Fiscal Year 2017</i>. 2017, <a href="https://www.sec.gov/files/sec-2017-agency-financial-report.pdf">https://www.sec.gov/files/sec-2017-agency-financial-report.pdf</a>.</div>
   <div class="csl-entry">Vedantam, S. <i>Hidden Brain</i>. NPR, 2015, <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
-  <div class="csl-entry">Weinstock, R., et al. “Defining Forensic Psychiatry: Roles and Responsibilities.” <i>Principles and Practise of Forensic Psychiatry</i>, edited by R. Rosner, 2nd ed., CRC Press, 2003, pp. 7–13.</div>
+  <div class="csl-entry">Weinstock, R., G. B. Leong, and J. A. Silva. “Defining Forensic Psychiatry: Roles and Responsibilities.” <i>Principles and Practise of Forensic Psychiatry</i>, edited by R. Rosner, 2nd ed., CRC Press, 2003, pp. 7–13.</div>
   <div class="csl-entry">Weir, K. “Forgiveness Can Improve Mental and Physical Health.” <i>Monitor on Psychology</i>, vol. 48, no. 1, Jan. 2017, p. 30.</div>
   <div class="csl-entry">White, B. “I Treasure Every Minute We Spent Together #koko [Image Attached].” <i>Twitter</i>, 21 June 2018, <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.</div>
   <div class="csl-entry">“Who Shot Mr. Burns? (Part One).” <i>The Simpsons</i>, directed by J. Lynch, Season 6, Episode 25, Gracie Films; Twentieth Century Fox Film Corporation, 21 May 1995.</div>
