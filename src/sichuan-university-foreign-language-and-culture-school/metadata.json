@@ -1,0 +1,29 @@
+{
+  "dir": "sichuan-university-foreign-language-and-culture-school",
+  "file": "sichuan-university-foreign-language-and-culture-school.csl",
+  "style_class": "in-text",
+  "title": "四川大学外国语学院（本科）",
+  "id": "http://www.zotero.org/styles/sichuan-university-foreign-language-and-culture-school",
+  "link_self": "http://www.zotero.org/styles/sichuan-university-foreign-language-and-culture-school",
+  "link_template": "http://www.zotero.org/styles/modern-language-association",
+  "link_documentation": "https://flc.scu.edu.cn/index.htm",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "literature",
+  "summary": "四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf",
+  "updated": "2024-12-07T17:44:56+08:00",
+  "citations": "(库恩 2012)<br>\n(Fourney c1971)<br>\n(贾东琴和柯平 2011)<br>\n(Fan and Sommers 2013)<br>\n(武丽丽等 2008)<br>\n(Myburg et al. 2014)<br>\n(中国互联网络信息中心 2012; Bawden 2008)<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">贾东琴, 柯平. “面向数字素养的高校图书馆数字服务体系研究.” 中国图书馆学会编. 中国图书馆学会年会论文集, 卷 2011 年卷, 北京: 国家图书馆出版社, 2011, 45–52.</div>\n  <div class=\"csl-entry\">库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和译, 第2版, 北京: 北京大学出版社, 2012.</div>\n  <div class=\"csl-entry\">武丽丽, 等. “‘北斗一号’监控管理网设计与实现.” 测绘科学. 33. 5 (2008) 8–9.</div>\n  <div class=\"csl-entry\">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012年1月16日.</div>\n  <div class=\"csl-entry\">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008, <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n  <div class=\"csl-entry\">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26, <a href=\"http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary\">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>\n  <div class=\"csl-entry\">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>\n  <div class=\"csl-entry\">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, vol. 510, June 2014, pp. 356–62, <a href=\"https://doi.org/10.1038/nature13308\">https://doi.org/10.1038/nature13308</a>.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "有URL",
+    "有DOI"
+  ]
+}

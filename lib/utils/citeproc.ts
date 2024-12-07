@@ -223,13 +223,18 @@ export function getField(cslXml: CslXml) {
 }
 
 export function getCitationFormat(cslXml: CslXml) {
-  return (
+  let citationFormat =
     cslXml
       .getNodesByName(cslXml.dataObj, "category")
       .filter((node) => "citation-format" in node.attrs)[0]?.attrs[
       "citation-format"
-    ] ?? "numeric"
-  );
+    ] ?? "numeric";
+  if (citationFormat === "author") {
+    citationFormat = "author-date";
+  } else if (citationFormat === "label") {
+    citationFormat = "numeric";
+  }
+  return citationFormat;
 }
 
 export function getSummary(cslXml: CslXml): string {
