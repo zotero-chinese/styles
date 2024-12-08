@@ -20,14 +20,14 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">贾东琴, 柯平. “面向数字素养的高校图书馆数字服务体系研究.” 中国图书馆学会编. 中国图书馆学会年会论文集, 卷 2011 年卷, 北京: 国家图书馆出版社, 2011, 45–52.</div>
-  <div class="csl-entry">库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和译, 第2版, 北京: 北京大学出版社, 2012.</div>
-  <div class="csl-entry">武丽丽, 等. “‘北斗一号’监控管理网设计与实现.” 测绘科学. 33. 5 (2008) 8–9.</div>
-  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012年1月16日.</div>
   <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26, <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
   <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, vol. 510, June 2014, pp. 356–62, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
+  <div class="csl-entry">贾东琴, 柯平. “面向数字素养的高校图书馆数字服务体系研究.” 中国图书馆学会编. 中国图书馆学会年会论文集, 卷 2011 年卷, 北京: 国家图书馆出版社, 2011, 45–52.</div>
+  <div class="csl-entry">库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和译, 第2版, 北京: 北京大学出版社, 2012.</div>
+  <div class="csl-entry">武丽丽, 等. “‘北斗一号’监控管理网设计与实现.” 测绘科学. 33. 5 (2008) 8–9.</div>
+  <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012年1月16日.</div>
 </div>
 
 ## 默认测试
@@ -66,6 +66,53 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">American Association for the Advancement of Science. <i>Science</i>. no. 1, American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">Babu, B. V., et al., editors. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer, 2014.</div>
+  <div class="csl-entry">Baker, S. K., and M. E. Jackson. <i>The Future of Resource Sharing</i>. The Haworth Press, 1995.</div>
+  <div class="csl-entry">Baldock, Peter. <i>Developing Early Childhood Services: Past, Present and Future</i>. Open University Press, 2011, p. 105, <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
+  <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">Buseck, Peter R., Gordon L. Nord Jr., and David R. Veblen. “Subsolidus Phenomena in Pyroxenes.” <i>Pyroxenes</i>, Mineralogical Society of America, c1980, pp. 117–211.</div>
+  <div class="csl-entry">Cairns, Bruce Richard. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. 1965. Univ. of California, Doctoral dissertation.</div>
+  <div class="csl-entry">Calkin, D., A. Ager, and M. Thompson. <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>. RMRS-GTR-262, 2011, pp. 8–9.</div>
+  <div class="csl-entry">Caplan, Priscilla. “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i>, vol. 4, no. 2, 1993, pp. 61–66.</div>
+  <div class="csl-entry">Chernik, B. E. <i>Introduction to Library Services for Library Technicians</i>. Libraries Unlimited, Inc., 1982.</div>
+  <div class="csl-entry">“Coffee Drinking and Cancer of the Pancreas.” <i>British Medical Journal</i>, vol. 283, no. 6292, 1981, p. 628.</div>
+  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. <i>Pennsylvania Library Laws</i>. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>. Accessed 24 Mar. 2013.</div>
+  <div class="csl-entry">Crane, Diana. <i>Invisible College</i>. Univ. of Chicago Press, 1972.</div>
+  <div class="csl-entry">Crawford, Walt, and Michael Gorman. <i>Future Libraries: Dreams, Madness, &#38; Reality</i>. American Library Association, 1995.</div>
+  <div class="csl-entry">Des Marais, David J., et al. “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment.” <i>Nature</i>, vol. 359, no. 6396, Oct. 1992, pp. 605–09.</div>
+  <div class="csl-entry">Deverell, William, and David Igler, editors. <i>A Companion to California History</i>. John Wiley &#38; Sons, 2013, pp. 21–22, <a href="https://doi.org/10.1002/9781444305036">https://doi.org/10.1002/9781444305036</a>.</div>
+  <div class="csl-entry">Dowler, Lawrence. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i>, vol. 21, no. 1/2, 1995, pp. 5–26, <a href="https://doi.org/10.1300/J111V21N01_02">https://doi.org/10.1300/J111V21N01_02</a>.</div>
+  <div class="csl-entry"><i>Dublin Core Metadata Element Set: Version 1.1</i>. 14 June 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26, <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>
+  <div class="csl-entry">Franz, Annaliese K., et al. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i>, vol. 8, 2013, pp. 1053–62, <a href="https://doi.org/10.1021/cb300573r">https://doi.org/10.1021/cb300573r</a>.</div>
+  <div class="csl-entry">Frese, Karen S., Hugo A. Katus, and Benjamin Meder. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 378–98, <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a>.</div>
+  <div class="csl-entry">Hopkinson, A. <i>UNIMARC and Metadata: Dublin Core</i>. 22 Apr. 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+  <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>. ISO 15836:2009, <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>. Accessed 24 Mar. 2013.</div>
+  <div class="csl-entry">International Federation of Library Association and Institutions. <i>Names of Persons: National Usages for Entry in Catalogues</i>. 3rd ed., IFLA International Office for UBC, 1977.</div>
+  <div class="csl-entry">Kanamori, H. “Shaking without Quaking.” <i>Science</i>, vol. 279, no. 5359, 1998, p. 2063, <a href="https://doi.org/10.1126/science.279.5359.2063">https://doi.org/10.1126/science.279.5359.2063</a>.</div>
+  <div class="csl-entry">Kennedy, William James, and Robert E. Garrison. “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England.” <i>Sedimentology</i>, vol. 22, 1975, p. 311, <a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">https://doi.org/10.1111/j.1365-3091.1975.tb01637.x</a>.</div>
+  <div class="csl-entry">---. “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England.” <i>Lethaia</i>, vol. 8, no. 4, Oct. 1975, pp. 339–60. idunn.no (Atypon).</div>
+  <div class="csl-entry">Kinchy, A. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. MIT Press, 2012, p. 50, <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a>.</div>
+  <div class="csl-entry">Koseki, Akira, et al. <i>Compiler</i>. US828402, 25 May 2002, <a href="http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM">http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM</a>.</div>
+  <div class="csl-entry">Morris, Ian. <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>. Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, vol. 510, June 2014, pp. 356–62, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
+  <div class="csl-entry">O’Brien, J. A. <i>Introduction to Information Systems</i>. 7th ed., Irwin, 1994.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc. <i>About OCLC: History of Cooperation</i>. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>. Accessed 27 Mar. 2012.</div>
+  <div class="csl-entry">Park, Jung-Ran, and Yuji Tosaka. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8, 2010, pp. 696–715, <a href="https://doi.org/10.1080/01639374.2010.508711">https://doi.org/10.1080/01639374.2010.508711</a>.</div>
+  <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
+  <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13, <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>
+  <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Standards, Regulations, and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, edited by American Water Works Association, 6th ed., McGraw-Hill, 2011, p. 1.1-1.36, <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.</div>
+  <div class="csl-entry">Saito, M., and K. Miyazaki. “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6, 2006, pp. 169–76, <a href="https://doi.org/10.9795/bullgsj.57.169">https://doi.org/10.9795/bullgsj.57.169</a>.</div>
+  <div class="csl-entry">Stieg, Margaret F. “The Information Needs of Historians.” <i>College &#38; Research Libraries</i>, vol. 42, no. 6, 1981, pp. 549–60, <a href="https://doi.org/10.5860/crl_42_06_549">https://doi.org/10.5860/crl_42_06_549</a>.</div>
+  <div class="csl-entry">Sunstein, Cass R. “Social Norms and Social Roles.” <i>Columbia Law Review</i>, vol. 96, 1996, p. 903, <a href="https://doi.org/10.2307/1123430">https://doi.org/10.2307/1123430</a>.</div>
+  <div class="csl-entry">Tachibana, Ryuki, et al. <i>Electronic Watermarking Method and System</i>. US6915001, 5 July 2005, <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
+  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. <i>Guidelines for Handling Excavated Acid-Producing Material</i>. PB 91-194001, U.S. Department of Commerce National Information Service, 1990.</div>
+  <div class="csl-entry">Walls, Susan C., William J. Barichivich, and Mary E. Brown. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 399–418, <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a>.</div>
+  <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, edited by William A Sodeman Jr. and William A. Sodeman, Saunders, 1974, pp. 457–72.</div>
+  <div class="csl-entry">World Health Organization. <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. WHO, 1970.</div>
+  <div class="csl-entry">Yufin, Sergey A., editor. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema, 2000.</div>
   <div class="csl-entry">白书农. “植物开花研究.” 李承森编. 植物科学进展, 北京: 高等教育出版社, 1998, 146–63.</div>
   <div class="csl-entry">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知. 京政办发［2005］37 号, 2005年7月12日.</div>
   <div class="csl-entry">北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教. 北京: 民族出版社, 2012, 112.</div>
@@ -147,53 +194,6 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">中国职工教育研究会, 编辑. 职工教育研究论文集. 北京: 人民教育出版社, 1985.</div>
   <div class="csl-entry">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用. 2013年4月16日.</div>
   <div class="csl-entry">中华医学会湖北分会. 临床内科杂志. 1, 武汉: 中华医学会湖北分会, 1984年.</div>
-  <div class="csl-entry">American Association for the Advancement of Science. <i>Science</i>. no. 1, American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">Babu, B. V., et al., editors. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer, 2014.</div>
-  <div class="csl-entry">Baker, S. K., and M. E. Jackson. <i>The Future of Resource Sharing</i>. The Haworth Press, 1995.</div>
-  <div class="csl-entry">Baldock, Peter. <i>Developing Early Childhood Services: Past, Present and Future</i>. Open University Press, 2011, p. 105, <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.</div>
-  <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">Buseck, Peter R., Gordon L. Nord Jr., and David R. Veblen. “Subsolidus Phenomena in Pyroxenes.” <i>Pyroxenes</i>, Mineralogical Society of America, c1980, pp. 117–211.</div>
-  <div class="csl-entry">Cairns, Bruce Richard. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. 1965. Univ. of California, Doctoral dissertation.</div>
-  <div class="csl-entry">Calkin, D., A. Ager, and M. Thompson. <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>. RMRS-GTR-262, 2011, pp. 8–9.</div>
-  <div class="csl-entry">Caplan, Priscilla. “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i>, vol. 4, no. 2, 1993, pp. 61–66.</div>
-  <div class="csl-entry">Chernik, B. E. <i>Introduction to Library Services for Library Technicians</i>. Libraries Unlimited, Inc., 1982.</div>
-  <div class="csl-entry">“Coffee Drinking and Cancer of the Pancreas.” <i>British Medical Journal</i>, vol. 283, no. 6292, 1981, p. 628.</div>
-  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. <i>Pennsylvania Library Laws</i>. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>. Accessed 24 Mar. 2013.</div>
-  <div class="csl-entry">Crane, Diana. <i>Invisible College</i>. Univ. of Chicago Press, 1972.</div>
-  <div class="csl-entry">Crawford, Walt, and Michael Gorman. <i>Future Libraries: Dreams, Madness, &#38; Reality</i>. American Library Association, 1995.</div>
-  <div class="csl-entry">Des Marais, David J., et al. “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment.” <i>Nature</i>, vol. 359, no. 6396, Oct. 1992, pp. 605–09.</div>
-  <div class="csl-entry">Deverell, William, and David Igler, editors. <i>A Companion to California History</i>. John Wiley &#38; Sons, 2013, pp. 21–22, <a href="https://doi.org/10.1002/9781444305036">https://doi.org/10.1002/9781444305036</a>.</div>
-  <div class="csl-entry">Dowler, Lawrence. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i>, vol. 21, no. 1/2, 1995, pp. 5–26, <a href="https://doi.org/10.1300/J111V21N01_02">https://doi.org/10.1300/J111V21N01_02</a>.</div>
-  <div class="csl-entry"><i>Dublin Core Metadata Element Set: Version 1.1</i>. 14 June 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
-  <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26, <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
-  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>
-  <div class="csl-entry">Franz, Annaliese K., et al. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i>, vol. 8, 2013, pp. 1053–62, <a href="https://doi.org/10.1021/cb300573r">https://doi.org/10.1021/cb300573r</a>.</div>
-  <div class="csl-entry">Frese, Karen S., Hugo A. Katus, and Benjamin Meder. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 378–98, <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a>.</div>
-  <div class="csl-entry">Hopkinson, A. <i>UNIMARC and Metadata: Dublin Core</i>. 22 Apr. 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
-  <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>. ISO 15836:2009, <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>. Accessed 24 Mar. 2013.</div>
-  <div class="csl-entry">International Federation of Library Association and Institutions. <i>Names of Persons: National Usages for Entry in Catalogues</i>. 3rd ed., IFLA International Office for UBC, 1977.</div>
-  <div class="csl-entry">Kanamori, H. “Shaking without Quaking.” <i>Science</i>, vol. 279, no. 5359, 1998, p. 2063, <a href="https://doi.org/10.1126/science.279.5359.2063">https://doi.org/10.1126/science.279.5359.2063</a>.</div>
-  <div class="csl-entry">Kennedy, William James, and Robert E. Garrison. “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England.” <i>Sedimentology</i>, vol. 22, 1975, p. 311, <a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">https://doi.org/10.1111/j.1365-3091.1975.tb01637.x</a>.</div>
-  <div class="csl-entry">---. “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England.” <i>Lethaia</i>, vol. 8, no. 4, Oct. 1975, pp. 339–60. idunn.no (Atypon).</div>
-  <div class="csl-entry">Kinchy, A. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. MIT Press, 2012, p. 50, <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a>.</div>
-  <div class="csl-entry">Koseki, Akira, et al. <i>Compiler</i>. US828402, 25 May 2002, <a href="http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM">http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM</a>.</div>
-  <div class="csl-entry">Morris, Ian. <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>. Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, vol. 510, June 2014, pp. 356–62, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
-  <div class="csl-entry">O’Brien, J. A. <i>Introduction to Information Systems</i>. 7th ed., Irwin, 1994.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc. <i>About OCLC: History of Cooperation</i>. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>. Accessed 27 Mar. 2012.</div>
-  <div class="csl-entry">Park, Jung-Ran, and Yuji Tosaka. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8, 2010, pp. 696–715, <a href="https://doi.org/10.1080/01639374.2010.508711">https://doi.org/10.1080/01639374.2010.508711</a>.</div>
-  <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
-  <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13, <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>
-  <div class="csl-entry">Roberson, J. Alan, and Eric G. Burneson. “Drinking Water Standards, Regulations, and Goals.” <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, edited by American Water Works Association, 6th ed., McGraw-Hill, 2011, p. 1.1-1.36, <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.</div>
-  <div class="csl-entry">Saito, M., and K. Miyazaki. “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu.” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6, 2006, pp. 169–76, <a href="https://doi.org/10.9795/bullgsj.57.169">https://doi.org/10.9795/bullgsj.57.169</a>.</div>
-  <div class="csl-entry">Stieg, Margaret F. “The Information Needs of Historians.” <i>College &#38; Research Libraries</i>, vol. 42, no. 6, 1981, pp. 549–60, <a href="https://doi.org/10.5860/crl_42_06_549">https://doi.org/10.5860/crl_42_06_549</a>.</div>
-  <div class="csl-entry">Sunstein, Cass R. “Social Norms and Social Roles.” <i>Columbia Law Review</i>, vol. 96, 1996, p. 903, <a href="https://doi.org/10.2307/1123430">https://doi.org/10.2307/1123430</a>.</div>
-  <div class="csl-entry">Tachibana, Ryuki, et al. <i>Electronic Watermarking Method and System</i>. US6915001, 5 July 2005, <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.</div>
-  <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. <i>Guidelines for Handling Excavated Acid-Producing Material</i>. PB 91-194001, U.S. Department of Commerce National Information Service, 1990.</div>
-  <div class="csl-entry">Walls, Susan C., William J. Barichivich, and Mary E. Brown. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i>, vol. 2, no. 1, 2013, pp. 399–418, <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a>.</div>
-  <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, edited by William A Sodeman Jr. and William A. Sodeman, Saunders, 1974, pp. 457–72.</div>
-  <div class="csl-entry">World Health Organization. <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. WHO, 1970.</div>
-  <div class="csl-entry">Yufin, Sergey A., editor. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema, 2000.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -203,21 +203,6 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">拉普拉斯, Pierre-Simon (Laplace Pierre-Simon). 概率哲学. 1814. 张三, 李四译, 北京: 未名出版社, 1951.</div>
-  <div class="csl-entry">李行健, 编辑 (Li Xing Jian). 现代汉语规范辞典. 北京: 外语教学与研究出版社, 2004, 255.</div>
-  <div class="csl-entry">邱颖文 (Qiu Ying Wen). 遗传与语言学习. 博士学位论文. 上海: 华东师范大学, 2009.</div>
-  <div class="csl-entry">王登峰, 崔红 (Wang Deng Feng和Cui Hong). “中国人‘大七’人格结构的理论分析.” 王登峰, 侯玉波编. 人格与社会心理学论丛, 卷 1, 北京: 北京大学出版社, 2004, 46–84.</div>
-  <div class="csl-entry">现代汉语频率词典. 北京: 北京语言学院出版社, 1986.</div>
-  <div class="csl-entry">余林 (Yu Lin). 汉语语言产生中的语音表征与加工. 博士学位论文. 北京师范大学, 2000.</div>
-  <div class="csl-entry">张三 (Zhang San). 心理学史. 北京: 未名出版社, 2008.</div>
-  <div class="csl-entry">---, 编辑 (Zhang San). 心理学史. 北京: 未名出版社, 2008.</div>
-  <div class="csl-entry">--- (Zhang San). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
-  <div class="csl-entry">--- (Zhang San). “中国心理学的过去与未来.” 心理学报. 40. 增刊 (2008) 210–15.</div>
-  <div class="csl-entry">张三, 李四 (Zhang San和Li Si). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
-  <div class="csl-entry">--- (Zhang San和Li Si). “中国心理学的过去与未来.” 心理学报.</div>
-  <div class="csl-entry">--- (Zhang San和Li Si). “中国心理学与奥林匹克.” 新华日报, 2008年8月8日, 2, 5–7.</div>
-  <div class="csl-entry">赵一, 等 (Zhao Yi等). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
-  <div class="csl-entry">赵一一, 等 (Zhao Yi Yi等). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
   <div class="csl-entry">Auerbach, John S. “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation.” <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, edited by M. F. Bornstein, 4th ed., Wiley, 1993, pp. 43–110, <a href="https://doi.org/10.1037/10138-002">https://doi.org/10.1037/10138-002</a>.</div>
   <div class="csl-entry">Australian Bureau of Statistics. <i>Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990</i>. 3209.1, Author, 1991.</div>
   <div class="csl-entry">Bergmann, P. G. “Relativity.” <i>The New Encyclopedia Britannica</i>, vol. 26, Encyclopedia Britannica, 1993, pp. 501–08.</div>
@@ -236,6 +221,21 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Wang, Deng Feng, and Hong Cui. “Theoretical Analysis of the Seven Factor Model of Chinese Personality.” <i>Selected Papers on Personality and Social Psychology</i>, edited by Deng Feng Wang and Yu Bo Hou, vol. 1, Peking University Press, 2004, pp. 46–84.</div>
   <div class="csl-entry">Wolchik, S. A., et al. “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce.” <i>Journal of Consulting and Clinical Psychology</i>, vol. 68, no. 5, Oct. 2000, pp. 843–56.</div>
   <div class="csl-entry">Yu, Lin. <i>Phonological Representation and Processing in Chinese Spoken Language Production</i>. 2000. Beijing Normal University, Unpublished doctorial dissertation, <a href="https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE">https://gongjushu.cnki.net/rbook/Search/SimpleSearch?key=%E8%BE%9E%E5%85%B8&#38;t=0&#38;c=0&#38;tn=%E8%AF%8D%E7%9B%AE</a>.</div>
+  <div class="csl-entry">拉普拉斯, Pierre-Simon (Laplace Pierre-Simon). 概率哲学. 1814. 张三, 李四译, 北京: 未名出版社, 1951.</div>
+  <div class="csl-entry">李行健, 编辑 (Li Xing Jian). 现代汉语规范辞典. 北京: 外语教学与研究出版社, 2004, 255.</div>
+  <div class="csl-entry">邱颖文 (Qiu Ying Wen). 遗传与语言学习. 博士学位论文. 上海: 华东师范大学, 2009.</div>
+  <div class="csl-entry">王登峰, 崔红 (Wang Deng Feng和Cui Hong). “中国人‘大七’人格结构的理论分析.” 王登峰, 侯玉波编. 人格与社会心理学论丛, 卷 1, 北京: 北京大学出版社, 2004, 46–84.</div>
+  <div class="csl-entry">现代汉语频率词典. 北京: 北京语言学院出版社, 1986.</div>
+  <div class="csl-entry">余林 (Yu Lin). 汉语语言产生中的语音表征与加工. 博士学位论文. 北京师范大学, 2000.</div>
+  <div class="csl-entry">张三 (Zhang San). 心理学史. 北京: 未名出版社, 2008.</div>
+  <div class="csl-entry">---, 编辑 (Zhang San). 心理学史. 北京: 未名出版社, 2008.</div>
+  <div class="csl-entry">--- (Zhang San). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
+  <div class="csl-entry">--- (Zhang San). “中国心理学的过去与未来.” 心理学报. 40. 增刊 (2008) 210–15.</div>
+  <div class="csl-entry">张三, 李四 (Zhang San和Li Si). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
+  <div class="csl-entry">--- (Zhang San和Li Si). “中国心理学的过去与未来.” 心理学报.</div>
+  <div class="csl-entry">--- (Zhang San和Li Si). “中国心理学与奥林匹克.” 新华日报, 2008年8月8日, 2, 5–7.</div>
+  <div class="csl-entry">赵一, 等 (Zhao Yi等). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
+  <div class="csl-entry">赵一一, 等 (Zhao Yi Yi等). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -245,6 +245,11 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Brooks, Peter. <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>. University of Chicago Press, 2000.</div>
+  <div class="csl-entry">Chamberlain, Heath B. “On the Search for Civil Society in China.” <i>Modern China</i>, vol. 19, no. 2, Apr. 1993, pp. 199–215, <a href="https://doi.org/10.1177/009770049301900206">https://doi.org/10.1177/009770049301900206</a>.</div>
+  <div class="csl-entry"><i>Nixon to Kissinger</i>. 1 Feb. 1969. National Archives II, College Park, MD, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP).</div>
+  <div class="csl-entry">Polo, Marco. <i>The Travels of Marco Polo</i>. Translated by William Marsden, Cumberland House, 1997.</div>
+  <div class="csl-entry">Schfield, R. S. “The Impact of Scarcity and Plenty on Population Change in England.” <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, edited by R. I. Rotberg and T. K. Rabb, Cambridge University Press, 1983, pp. 55–88.</div>
   <div class="csl-entry">《党外人士座谈会记录》. 1950年7月. 中共四川省委统战部档案室, 李劼人档案.</div>
   <div class="csl-entry">狄葆贤. 平等阁笔记. 上海: 有正书局.</div>
   <div class="csl-entry">杜威·佛克马. “走向新世界主义.” 王宁, 薛晓源编. 全球化与后殖民批评, 北京: 中央编译出版社, 1999, 247–66.</div>
@@ -288,11 +293,6 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">姚际恒. 古今伪书考. 光绪三年苏州文学山房活字本, 卷 3.</div>
   <div class="csl-entry">佚名. 晚清洋务运动事类汇钞五十七种. 北京: 全国图书馆文献缩微复制中心, 1998.</div>
   <div class="csl-entry">赵景深. 文坛忆旧. 上海: 北新书局, 1948.</div>
-  <div class="csl-entry">Brooks, Peter. <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>. University of Chicago Press, 2000.</div>
-  <div class="csl-entry">Chamberlain, Heath B. “On the Search for Civil Society in China.” <i>Modern China</i>, vol. 19, no. 2, Apr. 1993, pp. 199–215, <a href="https://doi.org/10.1177/009770049301900206">https://doi.org/10.1177/009770049301900206</a>.</div>
-  <div class="csl-entry"><i>Nixon to Kissinger</i>. 1 Feb. 1969. National Archives II, College Park, MD, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP).</div>
-  <div class="csl-entry">Polo, Marco. <i>The Travels of Marco Polo</i>. Translated by William Marsden, Cumberland House, 1997.</div>
-  <div class="csl-entry">Schfield, R. S. “The Impact of Scarcity and Plenty on Population Change in England.” <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, edited by R. I. Rotberg and T. K. Rabb, Cambridge University Press, 1983, pp. 55–88.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -302,12 +302,58 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Canaris, Claus-Wilhelm. <i>Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen</i>. 1990.</div>
+  <div class="csl-entry">Dreier, Ralf, and Stanley Paulson, editors. <i>Rechtsphilosophie Studienausgabe</i>. 2nd ed., UTB Uni-Taschenbücher Verlag, 2003.</div>
+  <div class="csl-entry">Fischer, Thomas. “Absurdes Spektakel um den Tod.” <i>Die Zeit</i>, 29 Sept. 2015.</div>
+  <div class="csl-entry"><i>GG</i>.</div>
+  <div class="csl-entry">Kaufmann, Arthur. “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht.” <i>Das Abtreibungsverbot des § 218 StGB</i>, edited by Jürgen Baumann, 2nd ed., 1972.</div>
+  <div class="csl-entry">Meidenbauer, Martin. <i>Wissenschaftliches Publizieren</i>. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. Accessed 10 Oct. 2017.</div>
+  <div class="csl-entry">Roxin, Claus. <i>Strafrecht Allgemeiner Teil</i>. 4th ed., vol. 1, C. H. Beck, 2006.</div>
+  <div class="csl-entry">Schwab, Martin. <i>Münchener Kommentar BGB</i>, 6th ed., vol. 5, 2013, <a href="https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm">https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm</a>.</div>
+  <div class="csl-entry"><i>StGB</i>.</div>
+  <div class="csl-entry"><i>StPO</i>.</div>
+  <div class="csl-entry">“Strauß-Karikatur, Kunstfreiheit.” <i>BVerfGE</i>, vol. 75, p. 369.</div>
+  <div class="csl-entry">Vogel, Benjamin. “Rechtsgüterschutz und Normgeltung.” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, vol. 129, no. 3, Dec. 2017, pp. 629–49, <a href="https://doi.org/10.1515/zstw-2017-0033">https://doi.org/10.1515/zstw-2017-0033</a>.</div>
+  <div class="csl-entry">Würdinger, Markus. “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts.” <i>Juristische Schulung</i>, no. 3, 2012, pp. 234–40. <i>dialnet.unirioja.es</i>, <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.</div>
+  <div class="csl-entry"><i>NStZ-RR</i>, 1999, p. 185.</div>
+  <div class="csl-entry"><i>NJW</i>, 2000, p. 1560.</div>
+  <div class="csl-entry">“Administrative Procedure Act § 6.” <i>U.S.C.</i>, vol. 5, 2006.</div>
+  <div class="csl-entry">Alford, William. <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>. Stanford University Press, 1995.</div>
+  <div class="csl-entry">Barbara Ward. “Progress for a Small Planet.” <i>Harvard Business Review</i>, no. Sep.-Oct., 1979, p. 89, <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a>.</div>
+  <div class="csl-entry">Brandeis, Louis D. “What Publicity Can Do.” <i>Harper’s Weekly</i>, 20 Dec. 1913, p. 10.</div>
+  <div class="csl-entry">“Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council.” <i>U.S.</i>, vol. 467, 1984, p. 837.</div>
+  <div class="csl-entry">“Department of Transportation Act.” <i>Stat.</i>, vol. 80, 89-670, 1966, pp. 931, 944–47.</div>
+  <div class="csl-entry">Habermas, Jürgen. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Translated by William Rehg, MIT Press, 1996.</div>
+  <div class="csl-entry">Horsley, Jamie. “Rule of Law in China: Incremental Progress.” <i>China: The Balance Sheet</i>, edited by C. Fred Bergsten et al., Public Affairs Press, 2006.</div>
+  <div class="csl-entry">McDonell, Stephen. “When China Began Streaming Trials Online.” <i>BBC News</i>, 30 Sept. 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
+  <div class="csl-entry">“Natural Resources Defense Council <i>v.</i> Gorsuch.” <i>F.2d</i>, vol. 685, 1982, p. 718.</div>
+  <div class="csl-entry">“R. v. Panel on Take-Overs and Mergers.” <i>QB</i>, vol. 815, 1987.</div>
+  <div class="csl-entry">Reich, Charles A. “The New Property.” <i>Yale Law Journal</i>, vol. 73, no. 5, 1964, pp. 733–87, <a href="https://doi.org/10.2307/794645">https://doi.org/10.2307/794645</a>.</div>
+  <div class="csl-entry">“Roe <i>v.</i> Wade.” <i>U.S.</i>, vol. 410, 1973, p. 113.</div>
+  <div class="csl-entry">Rosenthal, Andrew. “White House Tutors Kremlin in How a Presidency Works.” <i>New York Times</i>, 15 June 1990, p. A1. <i>NYTimes.com</i>, <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.</div>
+  <div class="csl-entry"><i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i> 3:15-cr-00213-FDW-DCK.</div>
+  <div class="csl-entry">Badiou-Monferran, Claire. “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle.” <i>La Licorne</i>, no. 43, 1997, pp. 75–94.</div>
+  <div class="csl-entry">Chevallier, Marc. <i>L’État de droit</i>. 4th ed., Montchrestien, 2003, <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a>.</div>
+  <div class="csl-entry">Joyeux-Prunel, Béatrice. “L’histoire de l’art et le quantitatif.” <i>Histoire &#38; mesure, vol. XXIII, n° 2, 2008</i>, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>. Accessed 17 Mar. 2010.</div>
+  <div class="csl-entry">Poisson, Marc. “Le droit de la mer.” <i>RGDIP</i>, 2015, pp. 15–47.</div>
+  <div class="csl-entry">---. “Le droit de la mer.” <i>Le droit des Océans</i>, Éditions de la mer, 2015, pp. 12–48.</div>
+  <div class="csl-entry">---. <i>Le droit de la mer appliqué à la Méditerranée</i>. 2016. l’Université de Marseille, Thèse de doctorat.</div>
+  <div class="csl-entry">---. <i>Le droit de la mer en Méditerranée</i>. Congrès de Marseille, July 2016, pp. 228–29.</div>
+  <div class="csl-entry">---. <i>Le droit de la mer en Méditerranée</i>. Rapport de recherche de l’IFREMER, 1202, Aug. 2016.</div>
+  <div class="csl-entry">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.</div>
+  <div class="csl-entry"><i>平成26年版犯罪白書</i>. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.</div>
+  <div class="csl-entry">我妻栄. 新訂担保物権法. 有斐閣, 1971.</div>
+  <div class="csl-entry">我妻栄 and 有泉亨. 民法総則物権法. 日本評論社, 1950.</div>
+  <div class="csl-entry">“信玄公旗掛松事件.” 大審院民事判決録, vol. 25, 3 Mar. 1919, p. 356, <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.</div>
+  <div class="csl-entry">於保不二雄. “付加物及び従物と抵当権.” 民商法雑誌, vol. 29, no. 5, 1954, p. 1, <a href="https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1">https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1</a>.</div>
+  <div class="csl-entry">“約束手形金.” 最高裁判所民事判例集, vol. 36卷6号, 15 July 1982, p. 1113, <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
+  <div class="csl-entry">佐藤英明. “一時所得の要件に関する覚書.” 租税法と市場, edited by 金子宏 et al., 有斐閣, 2014, p. 220.</div>
+  <div class="csl-entry">ジュリスト. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>. Accessed 1 Sept. 2022.</div>
   <div class="csl-entry">包郑照诉苍南县人民政府强制拆除房屋案. （1988）浙法民上字 7 号.</div>
   <div class="csl-entry">“被告人李宁、张磊贪污案一审开庭.” 新华网. 新华网.</div>
   <div class="csl-entry">崔国斌. “知识产权法官造法批判.” 中国法学. 1 (2006) 144–64.</div>
   <div class="csl-entry">[德]莱纳·沃尔夫. “风险法的风险.” 刘刚编. 风险规制：德国的理论与实践, 陈霄译, 法律出版社, 2012.</div>
   <div class="csl-entry">邓小平. “精简机构是一场革命.” 邓小平文选, 第2版, 卷 2, 人民出版社, 1994.</div>
-  <div class="csl-entry">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.</div>
   <div class="csl-entry">法国行政法院网站. 见于 2016年12月18日.</div>
   <div class="csl-entry">高鸿钧, 程汉大, 编辑. 英美法原论. 北京大学出版社, 2013.</div>
   <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则. GB/T 7714—2015, 2015年.</div>
@@ -322,7 +368,6 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">[美]富勒. 法律的道德性. 郑戈译, 商务印书馆, 2005.</div>
   <div class="csl-entry">民法总则.</div>
   <div class="csl-entry">欧中坦. “千方百计上京城：清朝的京控.” 高道蕴, 等编. 美国学者论中国法律传统, 谢鹏程译, 中国政法大学出版社, 1994.</div>
-  <div class="csl-entry"><i>平成26年版犯罪白書</i>. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.</div>
   <div class="csl-entry">瞿同祖. 中国法律与中国社会. 商务印书馆, 2010.</div>
   <div class="csl-entry">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定. 1991年9月4日.</div>
   <div class="csl-entry">---. 中华人民共和国公司法. 2005年修订, 2005年10月27日.</div>
@@ -333,61 +378,16 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">王保树. “股份有限公司机关构造中的董事和董事会.” 梁慧星编. 民商法论丛, 卷 1, 法律出版社, 1994, 110.</div>
   <div class="csl-entry">王名扬. 美国行政法. 北京大学出版社, 2007.</div>
   <div class="csl-entry">“温家宝主持国务院会议 研究房地产业健康发展措施.” 新华网. 新华网.</div>
-  <div class="csl-entry">我妻栄. 新訂担保物権法. 有斐閣, 1971.</div>
-  <div class="csl-entry">我妻栄 and 有泉亨. 民法総則物権法. 日本評論社, 1950.</div>
   <div class="csl-entry">夏新华, 等. 近代中国宪政历程. 中国政法大学出版社, 2004.</div>
   <div class="csl-entry">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明. 2013年12月23日.</div>
-  <div class="csl-entry">“信玄公旗掛松事件.” 大審院民事判決録, vol. 25, 3 Mar. 1919, p. 356, <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.</div>
   <div class="csl-entry">应松年, 马怀德, 编辑. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社, 2006.</div>
   <div class="csl-entry">[英]劳特派特. 奥本海国际法. 王铁崖, 陈体强译, 第8版, 卷 上卷第一分册, 商务印书馆, 1971.</div>
-  <div class="csl-entry">於保不二雄. “付加物及び従物と抵当権.” 民商法雑誌, vol. 29, no. 5, 1954, p. 1, <a href="https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1">https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1</a>.</div>
   <div class="csl-entry">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案. （2011）民一终字第 81 号, 2017年12月16日.</div>
-  <div class="csl-entry">“約束手形金.” 最高裁判所民事判例集, vol. 36卷6号, 15 July 1982, p. 1113, <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
   <div class="csl-entry">张新宝. 侵权责任法. 第4版, 中国人民大学出版社, 2016.</div>
   <div class="csl-entry">赵耀彤. “一名基层法官眼里好律师的样子.” 中国法律评论, 2018年12月1日. 中国法律评论.</div>
   <div class="csl-entry">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定. 2014年10月23日.</div>
   <div class="csl-entry">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释. 法释〔2018〕1号, 2018年2月6日.</div>
   <div class="csl-entry">最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知. 法发〔1993〕36号, 1993年11月12日.</div>
-  <div class="csl-entry">佐藤英明. “一時所得の要件に関する覚書.” 租税法と市場, edited by 金子宏 et al., 有斐閣, 2014, p. 220.</div>
-  <div class="csl-entry">“Administrative Procedure Act § 6.” <i>U.S.C.</i>, vol. 5, 2006.</div>
-  <div class="csl-entry">Alford, William. <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>. Stanford University Press, 1995.</div>
-  <div class="csl-entry">Badiou-Monferran, Claire. “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle.” <i>La Licorne</i>, no. 43, 1997, pp. 75–94.</div>
-  <div class="csl-entry">Barbara Ward. “Progress for a Small Planet.” <i>Harvard Business Review</i>, no. Sep.-Oct., 1979, p. 89, <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a>.</div>
-  <div class="csl-entry">Brandeis, Louis D. “What Publicity Can Do.” <i>Harper’s Weekly</i>, 20 Dec. 1913, p. 10.</div>
-  <div class="csl-entry">Canaris, Claus-Wilhelm. <i>Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen</i>. 1990.</div>
-  <div class="csl-entry">Chevallier, Marc. <i>L’État de droit</i>. 4th ed., Montchrestien, 2003, <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a>.</div>
-  <div class="csl-entry">“Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council.” <i>U.S.</i>, vol. 467, 1984, p. 837.</div>
-  <div class="csl-entry">“Department of Transportation Act.” <i>Stat.</i>, vol. 80, 89-670, 1966, pp. 931, 944–47.</div>
-  <div class="csl-entry">Dreier, Ralf, and Stanley Paulson, editors. <i>Rechtsphilosophie Studienausgabe</i>. 2nd ed., UTB Uni-Taschenbücher Verlag, 2003.</div>
-  <div class="csl-entry">Fischer, Thomas. “Absurdes Spektakel um den Tod.” <i>Die Zeit</i>, 29 Sept. 2015.</div>
-  <div class="csl-entry"><i>GG</i>.</div>
-  <div class="csl-entry">Habermas, Jürgen. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Translated by William Rehg, MIT Press, 1996.</div>
-  <div class="csl-entry">Horsley, Jamie. “Rule of Law in China: Incremental Progress.” <i>China: The Balance Sheet</i>, edited by C. Fred Bergsten et al., Public Affairs Press, 2006.</div>
-  <div class="csl-entry">Joyeux-Prunel, Béatrice. “L’histoire de l’art et le quantitatif.” <i>Histoire &#38; mesure, vol. XXIII, n° 2, 2008</i>, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>. Accessed 17 Mar. 2010.</div>
-  <div class="csl-entry">Kaufmann, Arthur. “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht.” <i>Das Abtreibungsverbot des § 218 StGB</i>, edited by Jürgen Baumann, 2nd ed., 1972.</div>
-  <div class="csl-entry">McDonell, Stephen. “When China Began Streaming Trials Online.” <i>BBC News</i>, 30 Sept. 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
-  <div class="csl-entry">Meidenbauer, Martin. <i>Wissenschaftliches Publizieren</i>. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>. Accessed 10 Oct. 2017.</div>
-  <div class="csl-entry">“Natural Resources Defense Council <i>v.</i> Gorsuch.” <i>F.2d</i>, vol. 685, 1982, p. 718.</div>
-  <div class="csl-entry">Poisson, Marc. “Le droit de la mer.” <i>RGDIP</i>, 2015, pp. 15–47.</div>
-  <div class="csl-entry">---. “Le droit de la mer.” <i>Le droit des Océans</i>, Éditions de la mer, 2015, pp. 12–48.</div>
-  <div class="csl-entry">---. <i>Le droit de la mer appliqué à la Méditerranée</i>. 2016. l’Université de Marseille, Thèse de doctorat.</div>
-  <div class="csl-entry">---. <i>Le droit de la mer en Méditerranée</i>. Congrès de Marseille, July 2016, pp. 228–29.</div>
-  <div class="csl-entry">---. <i>Le droit de la mer en Méditerranée</i>. Rapport de recherche de l’IFREMER, 1202, Aug. 2016.</div>
-  <div class="csl-entry">“R. v. Panel on Take-Overs and Mergers.” <i>QB</i>, vol. 815, 1987.</div>
-  <div class="csl-entry">Reich, Charles A. “The New Property.” <i>Yale Law Journal</i>, vol. 73, no. 5, 1964, pp. 733–87, <a href="https://doi.org/10.2307/794645">https://doi.org/10.2307/794645</a>.</div>
-  <div class="csl-entry">“Roe <i>v.</i> Wade.” <i>U.S.</i>, vol. 410, 1973, p. 113.</div>
-  <div class="csl-entry">Rosenthal, Andrew. “White House Tutors Kremlin in How a Presidency Works.” <i>New York Times</i>, 15 June 1990, p. A1. <i>NYTimes.com</i>, <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.</div>
-  <div class="csl-entry">Roxin, Claus. <i>Strafrecht Allgemeiner Teil</i>. 4th ed., vol. 1, C. H. Beck, 2006.</div>
-  <div class="csl-entry">Schwab, Martin. <i>Münchener Kommentar BGB</i>, 6th ed., vol. 5, 2013, <a href="https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm">https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm</a>.</div>
-  <div class="csl-entry"><i>StGB</i>.</div>
-  <div class="csl-entry"><i>StPO</i>.</div>
-  <div class="csl-entry">“Strauß-Karikatur, Kunstfreiheit.” <i>BVerfGE</i>, vol. 75, p. 369.</div>
-  <div class="csl-entry"><i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i> 3:15-cr-00213-FDW-DCK.</div>
-  <div class="csl-entry">Vogel, Benjamin. “Rechtsgüterschutz und Normgeltung.” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, vol. 129, no. 3, Dec. 2017, pp. 629–49, <a href="https://doi.org/10.1515/zstw-2017-0033">https://doi.org/10.1515/zstw-2017-0033</a>.</div>
-  <div class="csl-entry">Würdinger, Markus. “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts.” <i>Juristische Schulung</i>, no. 3, 2012, pp. 234–40. <i>dialnet.unirioja.es</i>, <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a>.</div>
-  <div class="csl-entry">ジュリスト. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>. Accessed 1 Sept. 2022.</div>
-  <div class="csl-entry"><i>NStZ-RR</i>, 1999, p. 185.</div>
-  <div class="csl-entry"><i>NJW</i>, 2000, p. 1560.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

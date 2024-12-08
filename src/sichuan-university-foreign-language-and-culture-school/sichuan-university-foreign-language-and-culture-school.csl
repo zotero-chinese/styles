@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="minimal-two" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
-    <title>四川大学外国语学院（本科）</title>
+    <title>四川大学 - 外国语学院（本科）</title>
     <id>http://www.zotero.org/styles/sichuan-university-foreign-language-and-culture-school</id>
     <link href="http://www.zotero.org/styles/sichuan-university-foreign-language-and-culture-school" rel="self"/>
     <link href="http://www.zotero.org/styles/modern-language-association" rel="template"/>
@@ -14,7 +14,7 @@
     <category citation-format="author"/>
     <category field="literature"/>
     <summary>四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf</summary>
-    <updated>2024-12-07T17:50:59+08:00</updated>
+    <updated>2024-12-08T13:29:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -647,6 +647,7 @@
   </citation>
   <bibliography hanging-indent="true" et-al-min="3" et-al-use-first="1" line-spacing="2" entry-spacing="0" subsequent-author-substitute="---">
     <sort>
+      <key variable="language"/>
       <key macro="author-en"/>
       <key variable="title"/>
     </sort>
