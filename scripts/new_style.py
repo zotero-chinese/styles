@@ -9,10 +9,8 @@ DEFAULT_BASE_STYLE = "gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi"
 
 def make_style_id(style_name: str):
     style_id = style_name.lower()
-    style_id = re.sub(r"[()!?]", " ", style_id)
     style_id = style_id.replace("&", " and ")
-    style_id = re.sub(r"\s+", " ", style_id)
-    style_id = style_id.replace(" ", "-")
+    style_id = re.sub(r"[^0-9A-Za-z]+", "-", style_id)
     return style_id
 
 
