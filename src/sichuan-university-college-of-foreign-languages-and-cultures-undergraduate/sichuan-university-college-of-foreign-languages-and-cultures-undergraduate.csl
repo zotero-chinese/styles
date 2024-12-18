@@ -14,7 +14,7 @@
     <category citation-format="author"/>
     <category field="literature"/>
     <summary>四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf</summary>
-    <updated>2024-12-08T15:33:45+08:00</updated>
+    <updated>2024-12-18T18:13:18+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -24,6 +24,8 @@
       <date-part name="year"/>
     </date>
     <terms>
+      <term name="no-date" form="short">n.d.</term>
+      <term name="no-publisher" form="short">n.p.</term>
       <term name="month-01" form="short">Jan.</term>
       <term name="month-02" form="short">Feb.</term>
       <term name="month-03" form="short">Mar.</term>
@@ -119,7 +121,7 @@
   </macro>
   <macro name="title-en">
     <choose>
-      <if variable="container-title">
+      <if type="dataset post post-weblog software webpage" variable="container-title" match="any">
         <text variable="title" quotes="true" text-case="title"/>
       </if>
       <else>
@@ -159,6 +161,26 @@
         <text variable="original-title" form="short" font-style="italic" text-case="title"/>
       </else>
     </choose>
+  </macro>
+  <macro name="container-periodical-en">
+    <group delimiter=": ">
+      <group delimiter=" ">
+        <text macro="container-title-en"/>
+        <choose>
+          <if type="article-journal">
+            <group delimiter=".">
+              <text variable="volume"/>
+              <text variable="issue"/>
+            </group>
+            <text macro="publication-date-en" prefix="(" suffix=")"/>
+          </if>
+          <else>
+            <text macro="publication-date-en"/>
+          </else>
+        </choose>
+      </group>
+      <text variable="page"/>
+    </group>
   </macro>
   <macro name="container-title-en">
     <text variable="container-title" font-style="italic" text-case="title"/>
@@ -409,6 +431,16 @@
           </group>
         </group>
       </if>
+      <else-if type="post post-weblog song broadcast motion_picture webapge" match="any">
+        <choose>
+          <if variable="publisher">
+            <text variable="publisher"/>
+          </if>
+          <else>
+            <text term="no-publisher" form="short" text-case="capitalize-first"/>
+          </else>
+        </choose>
+      </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="none">
         <text variable="publisher"/>
       </else-if>
@@ -440,11 +472,21 @@
   </macro>
   <macro name="publication-date-en">
     <choose>
-      <if type="book chapter motion_picture paper-conference" match="any">
+      <if type="article-journal book chapter paper-conference" match="any">
         <date variable="issued" form="numeric" date-parts="year"/>
       </if>
-      <else-if type="article-journal">
-        <date variable="issued" form="text" date-parts="year-month"/>
+      <else-if type="article-magazine article-newspaper" match="any">
+        <date variable="issued" form="text"/>
+      </else-if>
+      <else-if type="broadcast post post-weblog song webpage motion_picture" match="any">
+        <choose>
+          <if variable="issued">
+            <date variable="issued" form="text"/>
+          </if>
+          <else>
+            <text term="no-date" form="short" text-case="capitalize-first"/>
+          </else>
+        </choose>
       </else-if>
       <else-if type="speech thesis" match="none">
         <date variable="issued" form="text"/>
@@ -470,11 +512,6 @@
         <label variable="page" form="short"/>
         <text variable="page"/>
       </group>
-      <choose>
-        <if variable="source" match="none">
-          <text macro="URI-en"/>
-        </if>
-      </choose>
     </group>
   </macro>
   <macro name="location-zh">
@@ -512,13 +549,10 @@
   </macro>
   <macro name="container2-location-en">
     <choose>
-      <if variable="source">
+      <if variable="DOI URL medium" match="any">
         <choose>
-          <if variable="DOI URL" match="any">
-            <group delimiter=", ">
-              <text variable="source" font-style="italic"/>
-              <text macro="URI-en"/>
-            </group>
+          <if type="article-journal article-magazine article-newspaper" match="any">
+            <text variable="source"/>
           </if>
         </choose>
       </if>
@@ -544,11 +578,24 @@
   <macro name="accessed">
     <!-- using accessed where we don't have an issued date; follows recommendation on p. 53 -->
     <choose>
-      <if variable="issued" match="none">
-        <group delimiter=" ">
-          <text term="accessed" text-case="capitalize-first"/>
-          <date variable="accessed" form="text"/>
-        </group>
+      <if variable="DOI URL" match="any">
+        <choose>
+          <if type="article-journal article-magazine article-newspaper dataset entry entry-dictionary entry-encyclopedia post post-weblog software webpage song broadcast motion_picture" match="any">
+            <group delimiter=". ">
+              <group>
+                <choose>
+                  <if variable="medium">
+                    <text variable="medium"/>
+                  </if>
+                  <else>
+                    <text value="Web"/>
+                  </else>
+                </choose>
+              </group>
+              <date variable="accessed" form="text"/>
+            </group>
+          </if>
+        </choose>
       </if>
     </choose>
   </macro>
@@ -557,16 +604,23 @@
       <text macro="author-en"/>
       <text macro="title-en"/>
       <date variable="original-date" form="numeric" date-parts="year"/>
-      <group delimiter=", ">
-        <!-- -This group corresponds to MLA's "Container 1" -->
-        <text macro="container-title-en"/>
-        <text macro="other-contributors-en"/>
-        <text macro="version-en"/>
-        <text macro="number-en"/>
-        <text macro="publisher-en"/>
-        <text macro="publication-date-en"/>
-        <text macro="location-en"/>
-      </group>
+      <choose>
+        <if type="article-journal article-magazine article-newspaper" match="any">
+          <text macro="container-periodical-en"/>
+        </if>
+        <else>
+          <group delimiter=", ">
+            <!-- -This group corresponds to MLA's "Container 1" -->
+            <text macro="container-title-en"/>
+            <text macro="other-contributors-en"/>
+            <text macro="version-en"/>
+            <text macro="number-en"/>
+            <text macro="publisher-en"/>
+            <text macro="publication-date-en"/>
+            <text macro="location-en"/>
+          </group>
+        </else>
+      </choose>
       <group delimiter=", ">
         <!-- -This group corresponds to MLA's "Container 2" -->
         <!-- currently just using this one for archival info -->
@@ -612,7 +666,6 @@
         <text macro="container2-title-zh"/>
         <text macro="container2-location-zh"/>
       </group>
-      <text macro="accessed"/>
     </group>
   </macro>
   <citation et-al-min="4" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true">
