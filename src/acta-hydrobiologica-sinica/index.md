@@ -459,13 +459,13 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Mou W, McNamara T P. Intrinsic frames of reference in spatial memory [J]. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, 2002, <b>28</b>: 162-170.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Zhao Y, Qian E, Sun S, 等. The past and future of Chinese psychology [J]. <i>Acta Psychologica Sinica</i>, 2008, <b>40</b>: 210-215. [赵一, 钱二, 孙三, 等. 中国心理学的过去与未来 [J]. 心理学报, 2008, <b>40</b>: 210-215.]</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Zhao Y, Qian E, Sun S, <i>et al.</i> The past and future of Chinese psychology [J]. <i>Acta Psychologica Sinica</i>, 2008, <b>40</b>: 210-215. [赵一, 钱二, 孙三, 等. 中国心理学的过去与未来 [J]. 心理学报, 2008, <b>40</b>: 210-215.]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Mou W, Zhang K, McNamara T P. Frames of reference in spatial memories acquired from language [J]. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, 2004, <b>30</b>: 171-180.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Zhao Y Y, Qian E, Sun S, 等. The past and future of Chinese psychology [J]. <i>Acta Psychologica Sinica</i>, 2008, <b>40</b>: 210-215. [赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来 [J]. 心理学报, 2008, <b>40</b>: 210-215.]</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Zhao Y Y, Qian E, Sun S, <i>et al.</i> The past and future of Chinese psychology [J]. <i>Acta Psychologica Sinica</i>, 2008, <b>40</b>: 210-215. [赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来 [J]. 心理学报, 2008, <b>40</b>: 210-215.]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Wolchik S A, West S G, Sandler I N, <i>et al.</i> An experimental evaluation of theory-based mother and mother-child programs for children of divorce [J]. <i>Journal of Consulting and Clinical Psychology</i>, 2000, <b>68</b>(5): 843-856.</div>

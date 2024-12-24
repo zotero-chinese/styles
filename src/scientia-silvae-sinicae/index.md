@@ -410,10 +410,10 @@ Qian et al. （2009b）<br>
     <div class="csl-block">(Zhang S, Li S. The past and future of Chinese psychology. Acta Psychologica Sinica.［in Chinese］)</div>
   </div>
   <div class="csl-entry">赵一, 钱二, 孙三, 等. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215.
-    <div class="csl-block">(Zhao Y, Qian E, Sun S, 等. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215.［in Chinese］)</div>
+    <div class="csl-block">(Zhao Y, Qian E, Sun S, <i>et al.</i> 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215.［in Chinese］)</div>
   </div>
   <div class="csl-entry">赵一一, 钱二, 孙三, 等. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215.
-    <div class="csl-block">(Zhao Y Y, Qian E, Sun S, 等. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215.［in Chinese］)</div>
+    <div class="csl-block">(Zhao Y Y, Qian E, Sun S, <i>et al.</i> 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215.［in Chinese］)</div>
   </div>
   <div class="csl-entry">佚名. 1986. 现代汉语频率词典. 北京: 北京语言学院出版社.
     <div class="csl-block">(1986. Modern Chinese frequency dictionary. Beijing: Beijing Language and Culture University Press.［in Chinese］)</div>

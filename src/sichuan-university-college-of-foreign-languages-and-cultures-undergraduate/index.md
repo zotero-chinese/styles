@@ -234,8 +234,8 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">张三, 李四 (Zhang San和Li Si). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
   <div class="csl-entry">--- (Zhang San和Li Si). “中国心理学的过去与未来.” 心理学报.</div>
   <div class="csl-entry">--- (Zhang San和Li Si). “中国心理学与奥林匹克.” 新华日报, 2008年8月8日, 2, 5–7.</div>
-  <div class="csl-entry">赵一, 等 (Zhao Yi等). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
-  <div class="csl-entry">赵一一, 等 (Zhao Yi Yi等). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
+  <div class="csl-entry">赵一, 等 (Zhao Yi et al.). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
+  <div class="csl-entry">赵一一, 等 (Zhao Yi Yi et al.). “中国心理学的过去与未来.” 心理学报. 40 (2008) 210–15.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

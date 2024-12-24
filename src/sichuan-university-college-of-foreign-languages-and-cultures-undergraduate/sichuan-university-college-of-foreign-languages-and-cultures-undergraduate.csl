@@ -14,7 +14,7 @@
     <category citation-format="author"/>
     <category field="literature"/>
     <summary>四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf</summary>
-    <updated>2024-12-18T18:13:18+08:00</updated>
+    <updated>2024-12-24T14:52:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -56,6 +56,11 @@
       <term name="thesis">博士学位论文</term>
     </terms>
   </locale>
+  <locale>
+    <terms>
+      <term name="et-al-en">et al.</term>
+    </terms>
+  </locale>
   <macro name="author-en">
     <names variable="author">
       <name name-as-sort-order="first" and="text" delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize="false" initialize-with=". "/>
@@ -80,6 +85,7 @@
       </names>
       <names variable="original-author" prefix="(" suffix=")">
         <name name-as-sort-order="first" and="text" delimiter-precedes-last="never" delimiter-precedes-et-al="never" initialize="false"/>
+        <et-al term="et-al-en"/>
         <substitute>
           <text macro="original-title"/>
         </substitute>

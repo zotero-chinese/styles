@@ -413,10 +413,10 @@ Qian et al. (2009b)<br>
     <div class="csl-block">(Zhang S, Li S. The past and future of Chinese psychology[J]. Acta Psychologica Sinica.)</div>
   </div>
   <div class="csl-entry">赵一, 钱二, 孙三, 等. 2008. 中国心理学的过去与未来[J]. 心理学报, 40: 210-215.
-    <div class="csl-block">(Zhao Y, Qian E, Sun S, 等. 2008. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 40: 210-215.)</div>
+    <div class="csl-block">(Zhao Y, Qian E, Sun S, et al. 2008. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 40: 210-215.)</div>
   </div>
   <div class="csl-entry">赵一一, 钱二, 孙三, 等. 2008. 中国心理学的过去与未来[J]. 心理学报, 40: 210-215.
-    <div class="csl-block">(Zhao Y Y, Qian E, Sun S, 等. 2008. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 40: 210-215.)</div>
+    <div class="csl-block">(Zhao Y Y, Qian E, Sun S, et al. 2008. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 40: 210-215.)</div>
   </div>
   <div class="csl-entry">Auerbach J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Bornstein M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley: 43-110.</div>
   <div class="csl-entry">Australian Bureau of Statistics. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author.</div>

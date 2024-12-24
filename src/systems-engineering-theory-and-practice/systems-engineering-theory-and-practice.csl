@@ -14,7 +14,7 @@
     <category field="engineering"/>
     <issn>1000-6788</issn>
     <summary>《系统工程理论与实践》格式规范</summary>
-    <updated>2024-07-01T21:47:00+08:00</updated>
+    <updated>2024-12-24T14:53:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -38,6 +38,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="et-al-en">et al.</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -60,6 +61,7 @@
   <macro name="author-ZHtoEN">
     <names variable="original-author">
       <name/>
+      <et-al term="et-al-en"/>
     </names>
   </macro>
   <!-- 题名 -->

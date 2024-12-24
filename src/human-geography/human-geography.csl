@@ -14,7 +14,7 @@
     <category field="geography"/>
     <issn>1003-2398</issn>
     <summary>《人文地理》稿件格式要求</summary>
-    <updated>2024-11-28T23:57:40+08:00</updated>
+    <updated>2024-12-24T14:42:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -38,6 +38,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="et-al-en">et al.</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -58,7 +59,9 @@
     </names>
   </macro>
   <macro name="author-ZHtoEN">
-    <names variable="original-author"/>
+    <names variable="original-author">
+      <et-al term="et-al-en"/>
+    </names>
   </macro>
   <!-- 题名 -->
   <macro name="title">
