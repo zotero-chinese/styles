@@ -26,7 +26,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>《西北农林科技大学本科生毕业论文（设计）》（2023-10-31）附表5 本科生毕业论文（设计）撰写规范</summary>
-    <updated>2024-06-18T22:16:48+08:00</updated>
+    <updated>2024-12-25T19:01:06+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -279,22 +279,24 @@
   <macro name="container-booklike">
     <choose>
       <if variable="container-title">
-        <text term="in" text-case="capitalize-first" suffix=": "/>
-        <group delimiter=". ">
-          <text macro="container-contributors"/>
-          <choose>
-            <if variable="container-title">
-              <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter=": ">
-                <text variable="container-title"/>
-                <text macro="volume"/>
-              </group>
-            </if>
-            <else-if type="paper-conference">
-              <!-- 有些会议没有论文集，使用会议名代替 -->
-              <text variable="event-title"/>
-            </else-if>
-          </choose>
+        <group delimiter=": ">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=". ">
+            <text macro="container-contributors"/>
+            <choose>
+              <if variable="container-title">
+                <!-- 优先使用专著或会议论文集的题名 -->
+                <group delimiter=": ">
+                  <text variable="container-title"/>
+                  <text macro="volume"/>
+                </group>
+              </if>
+              <else-if type="paper-conference">
+                <!-- 有些会议没有论文集，使用会议名代替 -->
+                <text variable="event-title"/>
+              </else-if>
+            </choose>
+          </group>
         </group>
       </if>
     </choose>

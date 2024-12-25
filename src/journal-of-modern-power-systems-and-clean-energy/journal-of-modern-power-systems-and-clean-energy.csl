@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <summary>MPCE Word Template (20240408)</summary>
-    <updated>2024-04-21T11:37:16+08:00</updated>
+    <updated>2024-12-25T19:00:45+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -266,11 +266,13 @@
   <macro name="collection">
     <choose>
       <if variable="collection-title">
-        <text term="in" suffix=" "/>
-        <group delimiter=", " suffix=". ">
-          <text variable="collection-title"/>
-          <text variable="collection-number" prefix="no. "/>
-          <text variable="volume" prefix="vol. "/>
+        <group delimiter=" ">
+          <text term="in"/>
+          <group delimiter=", " suffix=". ">
+            <text variable="collection-title"/>
+            <text variable="collection-number" prefix="no. "/>
+            <text variable="volume" prefix="vol. "/>
+          </group>
         </group>
       </if>
     </choose>
@@ -335,7 +337,7 @@
           <group delimiter=", " suffix=".">
             <text macro="title"/>
             <group delimiter=" ">
-              <text term="in" suffix=" "/>
+              <text term="in"/>
               <text variable="container-title" font-style="italic"/>
             </group>
             <text macro="locators"/>

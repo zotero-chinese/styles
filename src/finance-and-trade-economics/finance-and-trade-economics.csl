@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <issn>1002-8102</issn>
-    <updated>2024-07-16T16:50:51+08:00</updated>
+    <updated>2024-12-25T18:50:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -142,13 +142,15 @@
   <macro name="container-booklike-en">
     <choose>
       <if variable="container-title">
-        <text term="in" suffix=" " text-case="capitalize-first"/>
-        <group delimiter=", ">
-          <names variable="editor">
-            <name and="symbol" name-as-sort-order="all" delimiter-precedes-last="always"/>
-            <label form="short" prefix=" (" suffix=")"/>
-          </names>
-          <text variable="container-title" text-case="title" font-style="italic"/>
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=", ">
+            <names variable="editor">
+              <name and="symbol" name-as-sort-order="all" delimiter-precedes-last="always"/>
+              <label form="short" prefix=" (" suffix=")"/>
+            </names>
+            <text variable="container-title" text-case="title" font-style="italic"/>
+          </group>
         </group>
       </if>
       <else-if type="paper-conference">

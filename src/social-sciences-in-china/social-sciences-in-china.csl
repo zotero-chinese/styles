@@ -16,7 +16,7 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2024-07-16T17:20:42+08:00</updated>
+    <updated>2024-12-25T19:01:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -315,18 +315,30 @@
     </group>
   </macro>
   <macro name="container-booklike-en">
-    <text term="in" suffix=" "/>
-    <group delimiter=", ">
-      <names variable="editor">
-        <name and="text"/>
-        <label form="short" prefix=", "/>
-      </names>
-      <text variable="container-title" text-case="title" font-style="italic"/>
-    </group>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=" ">
+          <text term="in"/>
+          <group delimiter=", ">
+            <names variable="editor">
+              <name and="text"/>
+              <label form="short" prefix=", "/>
+            </names>
+            <text variable="container-title" text-case="title" font-style="italic"/>
+          </group>
+        </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-short-en">
-    <text term="in" suffix=" "/>
-    <text variable="container-title" text-case="title" font-style="italic"/>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=" ">
+          <text term="in"/>
+          <text variable="container-title" text-case="title" font-style="italic"/>
+        </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-zh">
     <group delimiter="：">

@@ -1280,7 +1280,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Forman, M., One Flew over the Cuckoo’s Nest. United Artists, 1975.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Freud, S., The Interpretation of Dreams: The Complete and Definitive Text, in J. Strachey, ed. Basic Books, 2010.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Freud, S., The Interpretation of Dreams: The Complete and Definitive Text. Basic Books, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Fried, D., and A. Polyakova, Democratic Defense against Disinformation. Atlantic Council, 2018.</div>
@@ -1412,7 +1412,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[138]</div><div class="csl-right-inline">McDaniel, S. H., E. Salas, and A. E. Kazak, American Psychologist. 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">Meadows, D. H., Thinking in Systems: A Primer, in D. Wright, ed. Chelsea Green Publishing, 2008.</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">Meadows, D. H., Thinking in Systems: A Primer. Chelsea Green Publishing, 2008.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Mehrholz, J., M. Pohl, T. Platz, J. Kugler, and B. Elsner, “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke”, Cochrane Database of Systematic Reviews, 2018.</div>
@@ -1511,7 +1511,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Segaert, A., and A. Bauer, The Extent and Nature of Veteran Homelessness in Canada. Employment and Social Development Canada, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Shakespeare, W., Much Ado about Nothing, in B. A. Mowat and P. Werstine, eds. Washington Square Press, 1995.</div>
+    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Shakespeare, W., Much Ado about Nothing. Washington Square Press, 1995.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Shore, M. F., “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, American Journal of Orthopsychiatry, 2014, 84(6), 611-618.</div>

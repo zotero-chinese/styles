@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1008-2646</issn>
     <summary>《南京理工大学学报（社科版）》稿件格式规范</summary>
-    <updated>2024-12-04T14:00:50+08:00</updated>
+    <updated>2024-12-25T18:45:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -282,18 +282,30 @@
     <number variable="issue" prefix="(" suffix=")"/>
   </macro>
   <macro name="container-booklike-en">
-    <text term="in" suffix=" "/>
-    <group delimiter=", ">
-      <names variable="editor">
-        <name and="text"/>
-        <label form="short" prefix=", "/>
-      </names>
-      <text variable="container-title" text-case="title"/>
-    </group>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=" ">
+          <text term="in"/>
+          <group delimiter=", ">
+            <names variable="editor">
+              <name and="text"/>
+              <label form="short" prefix=", "/>
+            </names>
+            <text variable="container-title" text-case="title"/>
+          </group>
+        </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-short-en">
-    <text term="in" suffix=" "/>
-    <text variable="container-title" text-case="title"/>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=" ">
+          <text term="in"/>
+          <text variable="container-title" text-case="title"/>
+        </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-zh">
     <choose>

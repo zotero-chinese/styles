@@ -15,7 +15,7 @@
     <category field="communications"/>
     <issn>1002-5685</issn>
     <summary>投稿须知与格式规范（2025年版） (2024-12-12)</summary>
-    <updated>2024-12-18T21:29:58+08:00</updated>
+    <updated>2024-12-25T18:49:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -345,17 +345,19 @@
   <macro name="container-booklike-en">
     <choose>
       <if variable="container-title">
-        <text term="in" text-case="capitalize-first" suffix=" "/>
-        <group delimiter=", ">
-          <names variable="editor">
-            <name and="symbol"/>
-            <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
-          </names>
-          <group delimiter=" ">
-            <text variable="container-title" font-style="italic"/>
-            <group delimiter=" " prefix="(" suffix=")">
-              <label variable="page" form="short"/>
-              <text variable="page"/>
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=", ">
+            <names variable="editor">
+              <name and="symbol"/>
+              <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
+            </names>
+            <group delimiter=" ">
+              <text variable="container-title" font-style="italic"/>
+              <group delimiter=" " prefix="(" suffix=")">
+                <label variable="page" form="short"/>
+                <text variable="page"/>
+              </group>
             </group>
           </group>
         </group>

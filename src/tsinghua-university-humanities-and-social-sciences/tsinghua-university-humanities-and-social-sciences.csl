@@ -15,7 +15,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <summary>清华大学研究生学位论文写作指南（2023 年 3 月）附录 I 综合性期刊文献引证技术规范（试行稿）</summary>
-    <updated>2024-07-16T17:10:48+08:00</updated>
+    <updated>2024-12-25T18:55:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 责任者 -->
@@ -87,10 +87,12 @@
   <macro name="container-booklike">
     <choose>
       <if variable="container-title">
-        <text term="in" suffix=" "/>
-        <group delimiter=", ">
-          <text macro="container-contributors"/>
-          <text variable="container-title" font-style="italic" text-case="title"/>
+        <group delimiter=" ">
+          <text term="in"/>
+          <group delimiter=", ">
+            <text macro="container-contributors"/>
+            <text variable="container-title" font-style="italic" text-case="title"/>
+          </group>
         </group>
       </if>
     </choose>

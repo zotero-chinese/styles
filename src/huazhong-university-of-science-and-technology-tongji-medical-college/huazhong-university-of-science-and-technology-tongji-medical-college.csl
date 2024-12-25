@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-06-18T15:49:48+08:00</updated>
+    <updated>2024-12-25T18:52:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -173,19 +173,21 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike">
-    <text term="in" suffix=": "/>
-    <choose>
-      <if type="paper-conference" variable="event-title" match="all">
-        <!-- 会议名称(或论文集) -->
-        <text variable="event-title"/>
-      </if>
-      <else>
-        <group delimiter=": ">
-          <text variable="container-title"/>
-          <text macro="volume"/>
-        </group>
-      </else>
-    </choose>
+    <group delimiter=": ">
+      <text term="in"/>
+      <choose>
+        <if type="paper-conference" variable="event-title" match="all">
+          <!-- 会议名称(或论文集) -->
+          <text variable="event-title"/>
+        </if>
+        <else>
+          <group delimiter=": ">
+            <text variable="container-title"/>
+            <text macro="volume"/>
+          </group>
+        </else>
+      </choose>
+    </group>
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">

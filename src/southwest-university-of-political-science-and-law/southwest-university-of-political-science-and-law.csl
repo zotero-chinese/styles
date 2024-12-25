@@ -14,7 +14,7 @@
     <category citation-format="note"/>
     <category field="law"/>
     <category field="political_science"/>
-    <updated>2024-06-06T13:18:49+08:00</updated>
+    <updated>2024-12-25T19:01:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -278,11 +278,13 @@
         <else-if type="article-magazine article-newspaper" match="any">
           <group delimiter=", ">
             <text variable="title"/>
-            <group delimiter=" ">
-              <text term="in" suffix=":"/>
-              <text macro="container-de"/>
-              <text value="v."/>
-              <text macro="issuance-de"/>
+            <group delimiter=": ">
+              <text term="in"/>
+              <group delimiter=" ">
+                <text macro="container-de"/>
+                <text value="v."/>
+                <text macro="issuance-de"/>
+              </group>
             </group>
             <text macro="locator-de"/>
           </group>

@@ -209,6 +209,7 @@ class CslStyle:
         style_str = style_str.replace("&#8211;", "–")  # en dash
         style_str = style_str.replace("—", "&#8212;")  # em dash
         style_str = re.sub(r"(<title>.*?)&#8212;", r"\1—", style_str)
+        style_str = re.sub(r"(<summary>.*?)&#8212;", r"\1—", style_str)
         style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
         style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
         style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
@@ -251,34 +252,4 @@ def get_contributor(element):
 if __name__ == "__main__":
     for path in Path("src").glob("**/*.csl"):
         style = CslStyle.from_file(path)
-        ids = [style.style_id]
-        for template_link in style.template_links:
-            ids.append(template_link.removeprefix(ZOTERO_STYLE_PREFIX))
-
-        if style.style_id != path.stem:
-            print(path)
-            warn(style.style_id)
-            print()
-        if style.style_id != path.parent.stem:
-            print(path)
-            warn(style.style_id)
-            print()
-        for style_id in ids:
-            paths = [
-                Path(f"src/{style_id}/{style_id}.csl"),
-                Path(f"../styles/{style_id}.csl"),
-            ]
-            if style_id.endswith("-bilingual") and not style_id.startswith("gb-t"):
-                original_id = style_id.removesuffix("-bilingual")
-                paths[1] = Path(f"../styles/{original_id}.csl")
-                for p in paths:
-                    if not p.exists():
-                        print(path)
-                        print(p, p.exists())
-                        print()
-            else:
-                if paths[0].exists() == paths[1].exists():
-                    print(path)
-                    print(paths[0], paths[0].exists())
-                    print(paths[1], paths[1].exists())
-                    print()
+        style.to_file(path)

@@ -11,7 +11,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-06-06T13:18:49+08:00</updated>
+    <updated>2024-12-25T19:01:17+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -212,28 +212,34 @@
     </choose>
   </macro>
   <macro name="container-booklike-en">
-    <text term="in" text-case="capitalize-first" suffix=": "/>
-    <group delimiter=" ">
-      <names variable="editor">
-        <name and="text"/>
-        <label form="short" prefix=", "/>
-        <substitute>
-          <names variable="container-author"/>
-        </substitute>
-      </names>
-      <group delimiter=". ">
-        <text variable="container-title" text-case="title" font-style="italic"/>
-        <group delimiter=" ">
-          <label variable="volume" form="short" text-case="capitalize-first"/>
-          <number variable="volume"/>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=": ">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=" ">
+            <names variable="editor">
+              <name and="text"/>
+              <label form="short" prefix=", "/>
+              <substitute>
+                <names variable="container-author"/>
+              </substitute>
+            </names>
+            <group delimiter=". ">
+              <text variable="container-title" text-case="title" font-style="italic"/>
+              <group delimiter=" ">
+                <label variable="volume" form="short" text-case="capitalize-first"/>
+                <number variable="volume"/>
+              </group>
+              <choose>
+                <if type="dataset post post-weblog software webpage" match="any">
+                  <text term="online" text-case="title" prefix="[" suffix="]"/>
+                </if>
+              </choose>
+            </group>
+          </group>
         </group>
-        <choose>
-          <if type="dataset post post-weblog software webpage" match="any">
-            <text term="online" text-case="title" prefix="[" suffix="]"/>
-          </if>
-        </choose>
-      </group>
-    </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-zh">
     <group delimiter="，">

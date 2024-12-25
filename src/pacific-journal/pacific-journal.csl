@@ -18,7 +18,7 @@
     <category field="humanities"/>
     <category field="social_science"/>
     <summary>《太平洋学报》脚注格式</summary>
-    <updated>2024-12-04T14:00:54+08:00</updated>
+    <updated>2024-12-25T19:01:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -336,14 +336,20 @@
     </group>
   </macro>
   <macro name="container-booklike-en">
-    <text term="in" suffix=" "/>
-    <group delimiter=", ">
-      <names variable="editor">
-        <name and="text"/>
-        <label form="short" prefix=", "/>
-      </names>
-      <text variable="container-title" text-case="title" font-style="italic"/>
-    </group>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=" ">
+          <text term="in"/>
+          <group delimiter=", ">
+            <names variable="editor">
+              <name and="text"/>
+              <label form="short" prefix=", "/>
+            </names>
+            <text variable="container-title" text-case="title" font-style="italic"/>
+          </group>
+        </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-zh">
     <group delimiter="：">

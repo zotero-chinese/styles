@@ -136,32 +136,44 @@
     </choose>
   </macro>
   <macro name="container-booklike-en">
-    <text term="in" suffix=" "/>
-    <group delimiter=", ">
-      <names variable="editor">
-        <name and="text"/>
-        <label form="short" prefix=", "/>
-        <substitute>
-          <names variable="editorial-director"/>
-          <names variable="collection-editor"/>
-          <names variable="container-author"/>
-        </substitute>
-      </names>
-      <text variable="container-title" text-case="title"/>
-    </group>
+    <choose>
+      <if variable="container-title">
+        <group delimiter=" ">
+          <text term="in"/>
+          <group delimiter=", ">
+            <names variable="editor">
+              <name and="text"/>
+              <label form="short" prefix=", "/>
+              <substitute>
+                <names variable="editorial-director"/>
+                <names variable="collection-editor"/>
+                <names variable="container-author"/>
+              </substitute>
+            </names>
+            <text variable="container-title" text-case="title"/>
+          </group>
+        </group>
+      </if>
+    </choose>
   </macro>
   <macro name="container-booklike-zh">
-    <text term="in"/>
-    <names variable="editor">
-      <name delimiter="、"/>
-      <label form="short"/>
-      <substitute>
-        <names variable="editorial-director"/>
-        <names variable="collection-editor"/>
-        <names variable="container-author"/>
-      </substitute>
-    </names>
-    <text variable="container-title" prefix="《" suffix="》"/>
+    <choose>
+      <if variable="container-title">
+        <group>
+          <text term="in"/>
+          <names variable="editor">
+            <name delimiter="、"/>
+            <label form="short"/>
+            <substitute>
+              <names variable="editorial-director"/>
+              <names variable="collection-editor"/>
+              <names variable="container-author"/>
+            </substitute>
+          </names>
+          <text variable="container-title" prefix="《" suffix="》"/>
+        </group>
+      </if>
+    </choose>
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical-en">

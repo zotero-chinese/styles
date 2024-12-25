@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="science"/>
-    <updated>2024-07-16T16:27:00+08:00</updated>
+    <updated>2024-12-25T18:50:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -78,8 +78,10 @@
   <macro name="container-booklike">
     <choose>
       <if type="chapter paper-conference" match="any">
-        <text term="in" text-case="capitalize-first" suffix=" "/>
-        <text variable="container-title" font-style="italic"/>
+        <group delimiter=" ">
+          <text term="in" text-case="capitalize-first"/>
+          <text variable="container-title" font-style="italic"/>
+        </group>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <text variable="container-title" form="short" font-style="italic"/>

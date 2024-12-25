@@ -26,7 +26,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>《西北农林科技大学研究生学位论文撰写规范指导意见》（2024-03-14）附件2. 参考文献著录规则</summary>
-    <updated>2024-04-01T18:31:37+08:00</updated>
+    <updated>2024-12-25T18:54:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -322,21 +322,23 @@
   <macro name="container-booklike-en">
     <choose>
       <if variable="container-title">
-        <text term="in" text-case="capitalize-first" suffix=": "/>
-        <group delimiter=", ">
-          <text macro="container-contributors-en"/>
-          <choose>
-            <if type="paper-conference">
-              <!-- 会议论文集不使用此项 -->
-            </if>
-            <else-if variable="container-title">
-              <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter=":">
-                <text variable="container-title"/>
-                <text macro="volume"/>
-              </group>
-            </else-if>
-          </choose>
+        <group delimiter=": ">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=", ">
+            <text macro="container-contributors-en"/>
+            <choose>
+              <if type="paper-conference">
+                <!-- 会议论文集不使用此项 -->
+              </if>
+              <else-if variable="container-title">
+                <!-- 优先使用专著或会议论文集的题名 -->
+                <group delimiter=":">
+                  <text variable="container-title"/>
+                  <text macro="volume"/>
+                </group>
+              </else-if>
+            </choose>
+          </group>
         </group>
       </if>
     </choose>
@@ -344,21 +346,23 @@
   <macro name="container-booklike-zh">
     <choose>
       <if variable="container-title">
-        <text term="in" text-case="capitalize-first" suffix=":"/>
-        <group delimiter=",">
-          <text macro="container-contributors-zh"/>
-          <choose>
-            <if type="paper-conference">
-              <!-- 会议论文集不使用此项 -->
-            </if>
-            <else-if variable="container-title">
-              <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter=":">
-                <text variable="container-title"/>
-                <text macro="volume"/>
-              </group>
-            </else-if>
-          </choose>
+        <group delimiter=":">
+          <text term="in" text-case="capitalize-first"/>
+          <group delimiter=",">
+            <text macro="container-contributors-zh"/>
+            <choose>
+              <if type="paper-conference">
+                <!-- 会议论文集不使用此项 -->
+              </if>
+              <else-if variable="container-title">
+                <!-- 优先使用专著或会议论文集的题名 -->
+                <group delimiter=":">
+                  <text variable="container-title"/>
+                  <text macro="volume"/>
+                </group>
+              </else-if>
+            </choose>
+          </group>
         </group>
       </if>
     </choose>
