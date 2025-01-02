@@ -15,7 +15,7 @@
     <category field="biology"/>
     <issn>1674-0858</issn>
     <summary>《环境昆虫学报》文章写作格式模板.pdf</summary>
-    <updated>2024-12-25T16:06:10+08:00</updated>
+    <updated>2025-01-02T21:09:18+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -387,7 +387,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title" form="short" font-style="italic"/>
+              <text variable="container-title" font-style="italic"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
