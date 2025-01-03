@@ -437,7 +437,7 @@
           </group>
         </group>
       </if>
-      <else-if type="post post-weblog song broadcast motion_picture webapge" match="any">
+      <else-if type="broadcast motion_picture post post-weblog song webapge" match="any">
         <choose>
           <if variable="publisher">
             <text variable="publisher"/>
@@ -484,7 +484,7 @@
       <else-if type="article-magazine article-newspaper" match="any">
         <date variable="issued" form="text"/>
       </else-if>
-      <else-if type="broadcast post post-weblog song webpage motion_picture" match="any">
+      <else-if type="broadcast motion_picture post post-weblog song webpage" match="any">
         <choose>
           <if variable="issued">
             <date variable="issued" form="text"/>
@@ -586,7 +586,7 @@
     <choose>
       <if variable="DOI URL" match="any">
         <choose>
-          <if type="article-journal article-magazine article-newspaper dataset entry entry-dictionary entry-encyclopedia post post-weblog software webpage song broadcast motion_picture" match="any">
+          <if type="article-journal article-magazine article-newspaper broadcast dataset entry entry-dictionary entry-encyclopedia motion_picture post post-weblog software song webpage" match="any">
             <group delimiter=". ">
               <group>
                 <choose>

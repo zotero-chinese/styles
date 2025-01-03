@@ -525,7 +525,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">Mitchell T. R., Larson J. R. People in organizations: An introduction to organizational behavior[M]. 3rd ed. New York: McGraw-Hill, 1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">Bergmann P. G. Relativity[Z]//The new encyclopedia Britannica: Vol. 26[M]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">Bergmann P. G. Relativity[A]//The new encyclopedia Britannica: Vol. 26[M]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">Sadie S. The new Grove dictionary of music and musicians[M]. 6th ed. London : New York: Macmillan, 1980.</div>
@@ -1170,16 +1170,16 @@
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Lewin K. Group decision and social change[A]//Gold M. The complete social scientist: A Kurt Lewin reader[M]. American Psychological Association, 1999: 265-284.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association. Positive transference[Z]//APA dictionary of psychology[M]. [2019].</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association. Positive transference[A]//APA dictionary of psychology[M]. [2019].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster. Self-report[Z]//Merriam-Webster.com dictionary[M]. [2019].</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster. Self-report[A]//Merriam-Webster.com dictionary[M]. [2019].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Graham G. Behaviorism[Z]//Zalta E. N. The Stanford encyclopedia of philosophy[M]. Summer 2019 ed. Stanford University, 2019.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Graham G. Behaviorism[A]//Zalta E. N. The Stanford encyclopedia of philosophy[M]. Summer 2019 ed. Stanford University, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">List of oldest companies[Z]//Wikipedia[M]. 2019.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">List of oldest companies[A]//Wikipedia[M]. 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R]. 2012.</div>

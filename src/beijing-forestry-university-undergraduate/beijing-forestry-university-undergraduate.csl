@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>北京林业大学毕业论文（设计）撰写与印制规范（2024版）</summary>
-    <updated>2025-01-02T22:01:08+08:00</updated>
+    <updated>2025-01-03T11:42:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -135,7 +135,7 @@
       <else-if type="book classic" match="any">
         <text value="M"/>
       </else-if>
-      <else-if type="chapter paper-conference" match="any">
+      <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
         <text value="A"/>
       </else-if>
       <else-if type="dataset">

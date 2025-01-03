@@ -525,7 +525,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">MITCHELL T R, LARSON J R. People in Organizations: An Introduction to Organizational Behavior[M]. New York: McGraw-Hill, 1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">BERGMANN P G. Relativity[M]. The New Encyclopedia Britannica[C]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">BERGMANN P G. Relativity[A]. The New Encyclopedia Britannica[C]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">SADIE S. The New Grove Dictionary of Music and Musicians[M]. London : New York: Macmillan, 1980.</div>
@@ -1170,16 +1170,16 @@
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">LEWIN K. Group Decision and Social Change[A]. Gold, M. The Complete Social Scientist: A Kurt Lewin Reader[C]. American Psychological Association, 1999: 265-284.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">AMERICAN PSYCHOLOGICAL ASSOCIATION. Positive Transference[M]. APA Dictionary of Psychology[C]. [2019].</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">AMERICAN PSYCHOLOGICAL ASSOCIATION. Positive Transference[A]. APA Dictionary of Psychology[C]. [2019].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">MERRIAM-WEBSTER. Self-Report[M]. Merriam-Webster.Com Dictionary[C]. [2019].</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">MERRIAM-WEBSTER. Self-Report[A]. Merriam-Webster.Com Dictionary[C]. [2019].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">GRAHAM G. Behaviorism[M]. Zalta, E. N. The Stanford Encyclopedia of Philosophy[C]. Stanford University, 2019.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">GRAHAM G. Behaviorism[A]. Zalta, E. N. The Stanford Encyclopedia of Philosophy[C]. Stanford University, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Anon. List of Oldest Companies[M]. Wikipedia[C]. 2019.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Anon. List of Oldest Companies[A]. Wikipedia[C]. 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">AUSTRALIAN GOVERNMENT PRODUCTIVITY COMMISSION, NEW ZEALAND PRODUCTIVITY COMMISSION. Strengthening Trans-Tasman Economic Relations[M]. 2012.</div>

@@ -524,7 +524,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Australian Bureau of Statistics. Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990: 3209.1[M]. Canberra, Australian Capital Territory: Author, 1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Bergmann, P. G. Relativity[M]. The New Encyclopedia Britannica[C]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Bergmann, P. G. Relativity[A]. The New Encyclopedia Britannica[C]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Burin, D., K. Kilteni, M. Rabuffetti, M. Slater, and L. Pia. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1).</div>
@@ -1025,7 +1025,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">American Psychological Association. APA Dictionary of Psychology[M]. [2019a].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">American Psychological Association. Positive Transference[M]. APA Dictionary of Psychology[C]. [2019b].</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">American Psychological Association. Positive Transference[A]. APA Dictionary of Psychology[C]. [2019b].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Anderson, M. Getting Consistent with Consequences[J]. Educational Leadership, 2018, 76(1):26-33.</div>
@@ -1115,7 +1115,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Anon. Accelerated Experiental Dynamic Psychotherapy (AEDP) Supervision[M]. American Pychological Association, 2017b.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anon. List of Oldest Companies[M]. Wikipedia[C]. 2019.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anon. List of Oldest Companies[A]. Wikipedia[C]. 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">Anon. U.S. Const. Art. I, § 3[M].</div>
@@ -1316,7 +1316,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Google. Google Maps Directions for Driving from La Paz, Bolivia, to Lima, Peru[M]. [2020].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Graham, G. Behaviorism[M]. Zalta, E. N. The Stanford Encyclopedia of Philosophy[C]. Stanford University, 2019.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Graham, G. Behaviorism[A]. Zalta, E. N. The Stanford Encyclopedia of Philosophy[C]. Stanford University, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Guarino, B. How Will Humanity React to Alien Life? Psychologists Have Some Predictions[J]. The Washington Post, 2017-12-04.</div>
@@ -1424,7 +1424,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Merriam-Webster. Merriam-Webster.Com Dictionary[M]. [2019a].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">Merriam-Webster. Self-Report[M]. Merriam-Webster.Com Dictionary[C]. [2019b].</div>
+    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">Merriam-Webster. Self-Report[A]. Merriam-Webster.Com Dictionary[C]. [2019b].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Mirabito, L. A., and N. C. Heck. Bringing LGBTQ Youth Theater into the Spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4):499-500.</div>
