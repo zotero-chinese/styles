@@ -6,7 +6,6 @@
     <link href="http://www.zotero.org/styles/journal-of-agrotechnical-economics" rel="self"/>
     <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses" rel="template"/>
     <link href="http://www.iaecn.cn/WKB2/WebPublication/index.aspx?mid=iaecn" rel="documentation"/>
-    <link href="http://www.iaecn.cn/WKB2/WebPublication/index.aspx?mid=iaecn#" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
@@ -15,7 +14,7 @@
     <category field="social_science"/>
     <issn>1000-6370</issn>
     <summary>《农业经济问题》《农业技术经济》英文参考文献模板</summary>
-    <updated>2025-01-02T21:41:05+08:00</updated>
+    <updated>2025-01-03T09:29:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -402,6 +401,11 @@
     </group>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key variable="language"/>
+      <key macro="author-intext-en"/>
+      <key macro="issued-year"/>
+    </sort>
     <layout prefix="（" suffix="）" delimiter="；" locale="zh">
       <group delimiter="，">
         <text macro="author-intext-zh"/>

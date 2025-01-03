@@ -14,7 +14,7 @@
 （Fan等，2013）<br>
 （武丽丽等，2008）<br>
 （Myburg等，2014）<br>
-（中国互联网络信息中心，2012；Bawden，2008）<br>
+（Bawden，2008；中国互联网络信息中心，2012）<br>
 
 
 ### 参考文献表
@@ -56,15 +56,15 @@
 Jason （2008）<br>
 张三等 （2008a）<br>
 Wang等 （2009a）<br>
-（赵一等，2008a；Wolchik等，2009a）<br>
+（Wolchik等，2009a；赵一等，2008a）<br>
 张三等 （2008b）<br>
 Wang等 （2009b）<br>
-（赵一等，2008b；Wolchik等，2009b）<br>
+（Wolchik等，2009b；赵一等，2008b）<br>
 张三等 （2019a）<br>
 张三等 （2019b）<br>
 Qian等 （2020b）<br>
 Qian等 （2020a）<br>
-（张三等，2019a；Qian等，2020b）<br>
+（Qian等，2020b；张三等，2019a）<br>
 张三等 （2020a）<br>
 张三等 （2020b）<br>
 Qian等 （2009b）<br>
@@ -73,8 +73,8 @@ Qian等 （2009a）<br>
 （Qian等，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
-（Edeline等, 2005, 2002a, 2002b）<br>
-（Deng等，2005；Chen，2006；Bai，2002）<br>
+（Edeline等，2002a, 2002b, 2005）<br>
+（Bai，2002；Chen，2006；Deng等，2005）<br>
 
 
 ### GB/T 7714—2015 示例文献
