@@ -373,7 +373,6 @@
         </group>
       </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 中文连续出版物中的析出文献的出处项（刊名、年、卷、期等信息） -->
   <macro name="container-periodical-zh">
@@ -400,7 +399,6 @@
         </group>
       </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -430,7 +428,6 @@
       <if type="patent">
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
@@ -453,7 +450,6 @@
           </group>
           <text variable="page"/>
         </group>
-        <text macro="accessed-date"/>
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。

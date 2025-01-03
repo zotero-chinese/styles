@@ -246,7 +246,6 @@
         </group>
       </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -278,7 +277,6 @@
         <text macro="patent-country_region" suffix=": "/>
         <text variable="number" suffix=", "/>
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </if>
       <!-- 图书 需要标明所引页码  第一优先选项 其他 中输入“Pages:11-26”  备选项  “存档位置”手动写入引用页码范围，例如60-65 图书类型的条目 存档位置、版权、索书号等几乎不被占用 备选可行，毕竟只输入数字还是要快一些 -->
       <else-if type="book chapter" match="any">
@@ -313,7 +311,6 @@
           </group>
           <text variable="page"/>
         </group>
-        <text macro="accessed-date"/>
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。

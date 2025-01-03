@@ -275,7 +275,6 @@
         </group>
       </else>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical-zh">
@@ -316,7 +315,6 @@
         </group>
       </else>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -377,7 +375,6 @@
         </choose>
       </if>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
   </macro>
   <!-- 专著的出版项 用于翻译 -->
   <macro name="publisher-zh">
@@ -424,7 +421,6 @@
         </choose>
       </if>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
   </macro>
   <!-- 出版年 -->
   <macro name="issued-year">
@@ -503,7 +499,6 @@
       <text macro="title"/>
       <group>
         <text macro="issued-date"/>
-        <!-- <text macro="accessed-date"/> -->
       </group>
       <!-- <text macro="access"/> -->
     </group>
@@ -581,7 +576,6 @@
       <text macro="title-zh"/>
       <group>
         <text macro="issued-date"/>
-        <!-- <text macro="accessed-date"/> -->
       </group>
       <!-- <text macro="access"/> -->
     </group>

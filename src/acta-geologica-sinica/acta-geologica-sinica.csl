@@ -273,7 +273,6 @@
         </group>
       </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <macro name="edition">
     <choose>
@@ -299,7 +298,6 @@
     <choose>
       <if type="patent">
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <group delimiter=": ">
@@ -317,7 +315,6 @@
           </group>
           <text variable="page"/>
         </group>
-        <text macro="accessed-date"/>
       </else-if>
       <else-if variable="URL">
         <choose>

@@ -372,7 +372,6 @@
         </choose>
       </if>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
   </macro>
   <!-- 出版年 -->
   <macro name="issued-year">

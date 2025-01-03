@@ -247,7 +247,6 @@
         </choose>
       </else>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>

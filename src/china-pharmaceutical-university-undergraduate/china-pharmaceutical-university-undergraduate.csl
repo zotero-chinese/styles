@@ -225,39 +225,36 @@
   </macro>
   <!-- 连续出版物中的出处项 -->
   <macro name="container-periodical">
-    <group delimiter=" ">
-      <choose>
-        <if type="article-newspaper">
-          <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
-          <group delimiter=", ">
-            <group delimiter=" ">
-              <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
-              <text variable="original-container-title" prefix="(" suffix=")"/>
-            </group>
-            <text macro="issued-date"/>
+    <choose>
+      <if type="article-newspaper">
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
+        <group delimiter=", ">
+          <group delimiter=" ">
+            <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+            <text variable="original-container-title" prefix="(" suffix=")"/>
           </group>
-          <text variable="page" prefix="(" suffix=")"/>
-        </if>
-        <else>
-          <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
-          <group delimiter=": ">
-            <group>
-              <group delimiter=", ">
-                <group delimiter=" ">
-                  <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
-                  <text variable="original-container-title" prefix="(" suffix=")"/>
-                </group>
-                <text macro="issued-year"/>
-                <text variable="volume"/>
+          <text macro="issued-date"/>
+        </group>
+        <text variable="page" prefix="(" suffix=")"/>
+      </if>
+      <else>
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
+        <group delimiter=": ">
+          <group>
+            <group delimiter=", ">
+              <group delimiter=" ">
+                <text variable="container-title" form="short" strip-periods="true" font-style="italic"/>
+                <text variable="original-container-title" prefix="(" suffix=")"/>
               </group>
-              <text variable="issue" prefix="(" suffix=")"/>
+              <text macro="issued-year"/>
+              <text variable="volume"/>
             </group>
-            <text variable="page"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-        </else>
-      </choose>
-      <text macro="accessed-date"/>
-    </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">

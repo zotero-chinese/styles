@@ -245,7 +245,6 @@
         </choose>
       </else>
     </choose>
-    <!-- <text macro="accessed-date"/> -->
     <!-- 删除访问日期显示 -->
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">

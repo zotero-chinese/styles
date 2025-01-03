@@ -633,10 +633,6 @@
           </else>
         </choose>
       </if>
-      <else>
-        <!-- 选取引用日期的年份作为估计的出版年 -->
-        <date variable="accessed" form="numeric" date-parts="year" prefix="[" suffix="]"/>
-      </else>
     </choose>
   </macro>
   <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->

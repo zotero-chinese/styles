@@ -144,7 +144,7 @@
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">袁训来, 陈哲, 肖书海, <i>et al.</i> 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口 [J]. 科学通报, 2012, 57(34): 3219.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">余建斌. 我们的科技一直在追赶：访中国工程院院长周济 [N]. 人民日报, 2013-01-12 (2).</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">余建斌. 我们的科技一直在追赶：访中国工程院院长周济 [N]. 人民日报, 2013-01-12(2).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">李炳穆. 韩国图书馆法 [J]. 图书情报工作, 2008, 52(6): 6-12.</div>
@@ -420,10 +420,10 @@
     <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Park JR, Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms [J]. <i>Cataloging &#38; Classification Quarterly</i>, 2010, 48(8): 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化 [N]. 中国青年报, 2000-11-20 (15).</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化 [N]. 中国青年报, 2000-11-20(15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张田勘. 罪犯 DNA 库与生命伦理学计划 [N]. 大众科技报, 2000-11-12 (7).</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张田勘. 罪犯 DNA 库与生命伦理学计划 [N]. 大众科技报, 2000-11-12(7).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">傅刚, 赵承, 李佳路. 大风沙过后的思考 [N]. 北京青年报, 2000-01-12.</div>
@@ -549,7 +549,7 @@
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">邱颖文. 遗传与语言学习 (Genetics and language learning) [D]. 上海: 华东师范大学, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">张三, 李四. 中国心理学与奥林匹克 [N]. 新华日报 (Xinhua Daily), 2008-08-08 (2, 5-7).</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">张三, 李四. 中国心理学与奥林匹克 [N]. 新华日报 (Xinhua Daily), 2008-08-08(2, 5-7).</div>
   </div>
 </div>
 
@@ -657,19 +657,19 @@
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">倪素香. 德育学科的比较研究与理论探索 [J]. 武汉大学学报, 2002(4): 512-513.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉. 李劼人轶事 [N]. 四川工人日报, 1986-08-22 (2).</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">李眉. 李劼人轶事 [N]. 四川工人日报, 1986-08-22(2).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）. 说奴隶 [N]. 清议报 (第1页).</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）. 说奴隶 [N]. 清议报(第1页).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">四川会议厅暂行章程 [N]. 广益丛报, 1910-09-03 (第1—2页).</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">四川会议厅暂行章程 [N]. 广益丛报, 1910-09-03(第1—2页).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">上海各路商界总联合会致外交部电 [N]. 民国日报, 1925-08-14 (4).</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">上海各路商界总联合会致外交部电 [N]. 民国日报, 1925-08-14(4).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">西南中委反对在宁召开五全会 [N]. 民国日报, 1933-08-11 (第1张第4版).</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">西南中委反对在宁召开五全会 [N]. 民国日报, 1933-08-11(第1张第4版).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. 罗隆基政治思想研究（1913—1949） [D]. 北京师范大学历史系, 2000.</div>
@@ -735,7 +735,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">[德]莱纳·沃尔夫. 风险法的风险 [M]. 陈霄, tran. 刘刚. 风险规制：德国的理论与实践. 法律出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">何海波. 判决书上网 [N]. 法制日报, 2000-05-21 (2).</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">何海波. 判决书上网 [N]. 法制日报, 2000-05-21(2).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查 [EB/OL]. (2004-01-10) [2022-05-03]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>.</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward. Progress for a small planet [J]. <i>Harvard Business Review</i>, 1979(Sep.-Oct.): 89.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. White House tutors Kremlin in how a presidency works [N]. <i>New York Times</i>, 1990-06-15 (A1).</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. White House tutors Kremlin in how a presidency works [N]. <i>New York Times</i>, 1990-06-15(A1).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. <i>Between facts and norms: contributions to a discourse theory of law and democracy</i> [M]. Rehg W, tran. MIT Press, 1996.</div>
@@ -1044,7 +1044,7 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Guarino B. How will humanity react to alien life? Psychologists have some predictions [N]. <i>The Washington Post</i>, 2017-12-04.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Hess A. Cats who take direction [N]. <i>The New York Times</i>, 2019-01-03 (C1).</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Hess A. Cats who take direction [N]. <i>The New York Times</i>, 2019-01-03(C1).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Klymkowsky M. Can we talk scientifically about free will? [EB/OL]. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
