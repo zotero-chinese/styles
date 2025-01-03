@@ -225,7 +225,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">李行健, 编辑 (Li Xing Jian). 现代汉语规范辞典. 北京: 外语教学与研究出版社, 2004, 255.</div>
   <div class="csl-entry">邱颖文 (Qiu Ying Wen). 遗传与语言学习. 博士学位论文. 上海: 华东师范大学, 2009.</div>
   <div class="csl-entry">王登峰, 崔红 (Wang Deng Feng和Cui Hong). “中国人‘大七’人格结构的理论分析.” 王登峰, 侯玉波编. 人格与社会心理学论丛, 卷 1, 北京: 北京大学出版社, 2004, 46–84.</div>
-  <div class="csl-entry">现代汉语频率词典. 北京: 北京语言学院出版社, 1986.</div>
+  <div class="csl-entry">现代汉语频率词典 Modern Chinese frequency dictionary. 北京: 北京语言学院出版社, 1986.</div>
   <div class="csl-entry">余林 (Yu Lin). 汉语语言产生中的语音表征与加工. 博士学位论文. 北京师范大学, 2000.</div>
   <div class="csl-entry">张三 (Zhang San). 心理学史. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">---, 编辑 (Zhang San). 心理学史. 北京: 未名出版社, 2008.</div>

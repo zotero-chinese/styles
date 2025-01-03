@@ -8,14 +8,7 @@
 
 ### 引注
 
-（库恩，2012）<sup>[1]</sup><br>
-（Fourney，c1971）<sup>[2]</sup><br>
-（贾东琴和柯平，2011）<sup>[3]</sup><br>
-（Fan和Sommers，2013）<sup>[4]</sup><br>
-（武丽丽等，2008）<sup>[5]</sup><br>
-（Myburg等，2014）<sup>[6]</sup><br>
-（中国互联网络信息中心，2012）<sup>[7]</sup>；（Bawden，2008）<sup>[8]</sup><br>
-
+（贾东琴和柯平，2011）<sup>[3]</sup>；（库恩，2012）<sup>[1]</sup>；（武丽丽等，2008）<sup>[5]</sup>；（中国互联网络信息中心，2012）<sup>[7]</sup>；（Bawden，2008）<sup>[8]</sup>；（Fan和Sommers，2013）<sup>[2]</sup>；（Fourney，c1971）<sup>[4]</sup>；（Myburg等，2014）<sup>[6]</sup>
 
 ### 参考文献表
 
@@ -24,13 +17,13 @@
     <div class="csl-left-margin">［1］</div><div class="csl-right-inline">库恩. 科学革命的结构：第 4 版［M］. 金吾伦，胡新和，译. 2 版. 北京：北京大学出版社，2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［2］</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity［C］//Symposium on Applications of Holography in Mechanics，August 23–25, 1971，University of Southern California, Los Angeles, California. New York：ASME，c1971：17-38.</div>
+    <div class="csl-left-margin">［2］</div><div class="csl-right-inline">Fan X，Sommers C H. Food irradiation research and technology［M］. 2nd ed. Ames, Iowa：Blackwell Publishing，2013：25-26.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［3］</div><div class="csl-right-inline">贾东琴，柯平. 面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会. 中国图书馆学会年会论文集：2011 年卷. 北京：国家图书馆出版社，2011：45-52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［4］</div><div class="csl-right-inline">Fan X，Sommers C H. Food irradiation research and technology［M］. 2nd ed. Ames, Iowa：Blackwell Publishing，2013：25-26.</div>
+    <div class="csl-left-margin">［4］</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity［C］//Symposium on Applications of Holography in Mechanics，August 23–25, 1971，University of Southern California, Los Angeles, California. New York：ASME，c1971：17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［5］</div><div class="csl-right-inline">武丽丽，华一新，张亚军，等. “北斗一号”监控管理网设计与实现［J］. 测绘科学，2008，33（5）：8-9.</div>
@@ -50,31 +43,12 @@
 
 ### 引注
 
-（张三，2008）<sup>[1](42)</sup><br>
-（张三） （2008）<sup>[1](42)</sup><br>
-（Jason，2008）<sup>[2](42)</sup><br>
-（Jason） （2008）<sup>[2](42)</sup><br>
-（张三和李四） （2008）<sup>[3]</sup><br>
-（Wang和Sun） （2009）<sup>[4]</sup><br>
-（赵一和陈二，2008）<sup>[5]</sup>；（Wolchik和West，2009）<sup>[6]</sup><br>
-（张三等） （2008）<sup>[7]</sup><br>
-（Wang等） （2009）<sup>[8]</sup><br>
-（赵一等，2008）<sup>[9]</sup>；（Wolchik等，2009）<sup>[10]</sup><br>
-（张三等） （2019）<sup>[11]</sup><br>
-（张三等） （2019）<sup>[12]</sup><br>
-（Qian等） （2020）<sup>[13]</sup><br>
-（Qian等） （2020）<sup>[14]</sup><br>
-（张三等，2019）<sup>[11]</sup>；（Qian等，2020）<sup>[13]</sup><br>
-（张三等） （2020）<sup>[15]</sup><br>
-（张三等） （2020）<sup>[16]</sup><br>
-（Qian等） （2009）<sup>[17]</sup><br>
-（Qian等） （2009）<sup>[18]</sup><br>
-（张三等，2020）<sup>[15]</sup><br>
-（Qian等，2009）<sup>[17]</sup><br>
-（Wong，2007）<sup>[19]</sup><br>
-（Wong，2008）<sup>[20]</sup><br>
-（Edeline和Weinberger，2002）<sup>[21]</sup>；（Edeline和Weinberger，2002）<sup>[22]</sup>；（Edeline和Weinberger，2005）<sup>[23]</sup>；（Edeline和Weinberger）<sup>[24]</sup><br>
-（Bai，2002）<sup>[27]</sup>；（Chen，2006）<sup>[26]</sup>；（Deng和Feng，2005）<sup>[25]</sup><br>
+（Sunstein，1996）<sup>[1]</sup><br>
+（Morris，2010）<sup>[2](260)</sup><br>
+（罗杰斯，2011）<sup>[3](326-329)</sup><br>
+（罗杰斯，2011）<sup>[3]</sup>；（Sunstein，1996）<sup>[1]</sup><br>
+（陈登原，2000）<sup>[4]</sup>；（Morris，2010）<sup>[2]</sup>；（Sunstein，1996）<sup>[1]</sup><br>
+（罗杰斯，2011）<sup>[3]</sup>；（Morris，2010）<sup>[2]</sup>；（Sunstein，1996）<sup>[1]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献

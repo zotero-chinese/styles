@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN" default-locale-sort="zh-TW">
   <info>
     <title>贵州大学</title>
     <title-short>GZU</title-short>
@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>comparative economic and social systems author-date style</summary>
-    <updated>2024-06-06T13:18:48+08:00</updated>
+    <updated>2025-01-03T12:31:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -403,6 +403,11 @@
   </citation>
   <!-- 参考文献表 -->
   <bibliography entry-spacing="0" second-field-align="flush">
+    <sort>
+      <!-- 参考文献按一定顺序排列：先中文后英文，中文按著者姓氏笔画顺序，英文按著者首字母顺序。 -->
+      <key macro="author"/>
+      <key macro="issued-year"/>
+    </sort>
     <layout locale="en">
       <text variable="citation-number" suffix="."/>
       <text macro="entry-layout-en" suffix="."/>

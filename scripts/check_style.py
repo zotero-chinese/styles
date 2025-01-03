@@ -421,6 +421,72 @@ def check_text_case(path: str, csl_content: str, element_tree):
             del element.attrib["text-case"]
 
 
+def check_style_options(style: CslStyle):
+    name_options = ["et-al-min", "et-al-use-first"]
+    valid_options = {
+        "numeric": {
+            "collapse": ["citation-number"],
+            "after-collapse-delimiter": [],
+        },
+        "author-date": {
+            "et-al-subsequent-min": [],
+            "et-al-subsequent-use-first": [],
+            "disambiguate-add-givenname": [],
+            "givenname-disambiguation-rule": [],
+            "disambiguate-add-names": [],
+            "disambiguate-add-year-suffix": [],
+            "cite-group-delimiter": [],
+            "collapse": [
+                "year",
+                "year-suffix",
+                "year-suffix-ranged",
+            ],
+            "year-suffix-delimiter": [],
+            "after-collapse-delimiter": [],
+        },
+        "author": {
+            "et-al-subsequent-min": [],
+            "et-al-subsequent-use-first": [],
+            "disambiguate-add-givenname": [],
+            "givenname-disambiguation-rule": [],
+            "disambiguate-add-names": [],
+            "disambiguate-add-year-suffix": [],
+            "cite-group-delimiter": [],
+            "collapse": [
+                "year",
+                "year-suffix",
+                "year-suffix-ranged",
+            ],
+            "year-suffix-delimiter": [],
+            "after-collapse-delimiter": [],
+        },
+        "note": {
+            "et-al-subsequent-min": [],
+            "et-al-subsequent-use-first": [],
+            "disambiguate-add-givenname": [],
+            "givenname-disambiguation-rule": [],
+            "disambiguate-add-names": [],
+            "disambiguate-add-year-suffix": [],
+        },
+    }
+    for attr, value in style.citation.attrib.items():
+        if attr in name_options:
+            continue
+
+        format_options = valid_options[style.citation_format]
+        if attr not in format_options:
+            warning(
+                f'File "{style.path}", line {style.citation.sourceline}: Invalid option "{attr}"'
+            )
+            continue
+        else:
+            if format_options[attr]:
+                if value not in format_options[attr]:
+                    warning(
+                        f'File "{style.path}", line {style.citation.sourceline}: Invalid value "{value}" for option "{attr}"'
+                    )
+
+
 def check_sort(style: CslStyle):
     for key in style.style.xpath(".//cs:key[@sort='ascending']", namespaces=ns):
         warning(
@@ -567,6 +633,8 @@ def check_style(file):
     # check_medium(file, csl_content)
 
     check_text_case(file, csl_content, style)
+
+    check_style_options(csl_style)
 
     check_sort(csl_style)
 

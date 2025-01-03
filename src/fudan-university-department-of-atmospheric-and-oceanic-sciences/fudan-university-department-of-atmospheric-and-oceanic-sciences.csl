@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>复旦大学大气与海洋科学系论文写作规范-2023.docx（2023-09-11）</summary>
-    <updated>2024-08-31T23:19:44+08:00</updated>
+    <updated>2025-01-03T12:12:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -23,6 +23,7 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
+      <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
@@ -53,6 +54,7 @@
             <names variable="editor"/>
           </if>
         </choose>
+        <text macro="anon"/>
       </substitute>
     </names>
   </macro>
@@ -75,8 +77,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name delimiter="，" and="text" form="long"/>
-      <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
+      <name and="text" form="long"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -472,7 +473,7 @@
     <sort>
       <key macro="issued-year"/>
     </sort>
-    <layout prefix="（" suffix="）" delimiter="; " locale="en">
+    <layout prefix="（" suffix="）" delimiter="；" locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>
         <text macro="issued-year"/>
@@ -485,13 +486,15 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued-year"/>
+    </sort>
     <layout locale="en">
-      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout" suffix="."/>
     </layout>
     <layout>
-      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>

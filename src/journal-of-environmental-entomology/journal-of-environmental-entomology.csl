@@ -15,7 +15,7 @@
     <category field="biology"/>
     <issn>1674-0858</issn>
     <summary>《环境昆虫学报》文章写作格式模板.pdf</summary>
-    <updated>2025-01-02T21:09:18+08:00</updated>
+    <updated>2025-01-03T12:33:54+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -82,23 +82,6 @@
         <names variable="director"/>
         <choose>
           <if variable="container-title" match="none">
-            <names variable="editor"/>
-          </if>
-        </choose>
-        <text macro="anon"/>
-      </substitute>
-    </names>
-  </macro>
-  <macro name="author-intext-ZHtoEN">
-    <names variable="original-author">
-      <name form="short" and="text"/>
-      <et-al font-style="italic"/>
-      <substitute>
-        <names variable="composer"/>
-        <names variable="illustrator"/>
-        <names variable="director"/>
-        <choose>
-          <if variable="original-container-title" match="none">
             <names variable="editor"/>
           </if>
         </choose>

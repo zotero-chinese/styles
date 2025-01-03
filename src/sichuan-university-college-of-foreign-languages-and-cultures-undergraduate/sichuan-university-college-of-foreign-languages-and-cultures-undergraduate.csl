@@ -14,7 +14,7 @@
     <category citation-format="author"/>
     <category field="literature"/>
     <summary>四川大学外国语学院本科毕业论文写作及文献格式（2024修订版）.pdf</summary>
-    <updated>2024-12-24T14:52:17+08:00</updated>
+    <updated>2025-01-03T12:44:16+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -87,7 +87,7 @@
         <name name-as-sort-order="first" and="text" delimiter-precedes-last="never" delimiter-precedes-et-al="never" initialize="false"/>
         <et-al term="et-al-en"/>
         <substitute>
-          <text macro="original-title"/>
+          <text variable="original-title"/>
         </substitute>
       </names>
     </group>
@@ -569,16 +569,6 @@
       <if type="dataset post post-weblog software webpage" match="any">
         <text variable="container-title"/>
       </if>
-    </choose>
-  </macro>
-  <macro name="URI-en">
-    <choose>
-      <if variable="DOI">
-        <text variable="DOI" prefix="https://doi.org/"/>
-      </if>
-      <else>
-        <text variable="URL"/>
-      </else>
     </choose>
   </macro>
   <macro name="accessed">

@@ -4,15 +4,16 @@
     <title>经济管理</title>
     <id>http://www.zotero.org/styles/business-management-journal</id>
     <link href="http://www.zotero.org/styles/business-management-journal" rel="self"/>
-    <link href="http://www.jjgl.cass.cn/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118" rel="documentation"/>
+    <link href="https://jjgl.ajcass.com/CommonBlock/GetSiteDescribeDetail/12118?channelID=12118" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <category citation-format="author-date"/>
+    <category citation-format="numeric"/>
     <category field="social_science"/>
     <issn>1002-5766</issn>
-    <updated>2025-01-03T10:49:32+08:00</updated>
+    <summary>《经济管理》投稿指南（2022年修订）</summary>
+    <updated>2025-01-03T13:29:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -317,7 +318,7 @@
     </choose>
     <text macro="accessed-date"/>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true">
+  <citation et-al-min="2" et-al-use-first="1">
     <sort>
       <key macro="author-intext"/>
       <key macro="issued-year"/>
