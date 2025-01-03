@@ -360,7 +360,7 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
-      <key variable="language" sort="ascending"/>
+      <key variable="language"/>
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>

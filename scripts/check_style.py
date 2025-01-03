@@ -419,6 +419,24 @@ def check_text_case(path: str, csl_content: str, element_tree):
             del element.attrib["text-case"]
 
 
+def check_sort(path: str, csl_content: str, element_tree):
+    for key in element_tree.xpath(".//cs:key[@sort='ascending']", namespaces=ns):
+        warning(
+            f'File "{path}", line {key.sourceline}: Extra attribute \'sort="ascending"\''
+        )
+        del key.attrib["sort"]
+
+    root = element_tree.getroot()
+    style_class = root.attrib.get("class", "note")
+    if style_class != "note":
+        for area_name in ["citation", "bibliography"]:
+            areas = root.xpath(f".//cs:{area_name}", namespaces=ns)
+            if areas and not root.xpath(f".//cs:{area_name}/cs:sort", namespaces=ns):
+                warning(
+                    f'File "{path}", line {areas[0].sourceline}: Missing <sort> in <{area_name}>'
+                )
+
+
 # https://github.com/citation-style-language/utilities/blob/master/csl-reindenting-and-info-reordering.py
 def reorder_info_items(root):
     csInfo = root.find(".//{http://purl.org/net/xbiblio/csl}info")
@@ -542,6 +560,8 @@ def check_style(file):
     # check_medium(file, csl_content)
 
     check_text_case(file, csl_content, style)
+
+    check_sort(file, csl_content, style)
 
     reorder_info_items(root)
 

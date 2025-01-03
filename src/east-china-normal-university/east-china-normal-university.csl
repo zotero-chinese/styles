@@ -313,7 +313,7 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
-      <key macro="issued-year" sort="ascending"/>
+      <key macro="issued-year"/>
     </sort>
     <layout locale="en" prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
@@ -338,8 +338,8 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
-      <key variable="language" sort="ascending"/>
-      <key macro="author-intext-zh" sort="ascending"/>
+      <key variable="language"/>
+      <key macro="author-intext-zh"/>
     </sort>
     <layout locale="en">
       <text macro="entry-layout-en"/>

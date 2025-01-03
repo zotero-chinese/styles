@@ -2820,8 +2820,8 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
     <sort>
       <key macro="author-sort" names-min="3" names-use-first="1"/>
-      <key macro="date-sort-group" sort="ascending"/>
-      <key macro="date-sort" sort="ascending"/>
+      <key macro="date-sort-group"/>
+      <key macro="date-sort"/>
       <key variable="status"/>
     </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
@@ -2842,8 +2842,8 @@
   <bibliography hanging-indent="true" et-al-min="21" et-al-use-first="19" et-al-use-last="true" entry-spacing="0" line-spacing="2">
     <sort>
       <key macro="author-sort"/>
-      <key macro="date-sort-group" sort="ascending"/>
-      <key macro="date-sort" sort="ascending"/>
+      <key macro="date-sort-group"/>
+      <key macro="date-sort"/>
       <key variable="status"/>
       <key macro="title"/>
     </sort>
