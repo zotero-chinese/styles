@@ -6,6 +6,8 @@ import sys
 
 from lxml import etree
 
+from csl_style import CslStyle
+
 
 BAD_QUOTE_STYLES = [
     "comparative-economic-and-social-systems",
@@ -419,21 +421,24 @@ def check_text_case(path: str, csl_content: str, element_tree):
             del element.attrib["text-case"]
 
 
-def check_sort(path: str, csl_content: str, element_tree):
-    for key in element_tree.xpath(".//cs:key[@sort='ascending']", namespaces=ns):
+def check_sort(style: CslStyle):
+    for key in style.style.xpath(".//cs:key[@sort='ascending']", namespaces=ns):
         warning(
-            f'File "{path}", line {key.sourceline}: Extra attribute \'sort="ascending"\''
+            f'File "{style.path}", line {key.sourceline}: Extra attribute \'sort="ascending"\''
         )
         del key.attrib["sort"]
 
-    root = element_tree.getroot()
-    style_class = root.attrib.get("class", "note")
-    if style_class != "note":
+    citation_format = style.citation_format
+    if citation_format != "note":
         for area_name in ["citation", "bibliography"]:
-            areas = root.xpath(f".//cs:{area_name}", namespaces=ns)
-            if areas and not root.xpath(f".//cs:{area_name}/cs:sort", namespaces=ns):
+            if citation_format == "numeric" and area_name == "bibliography":
+                continue
+            areas = style.style.xpath(f".//cs:{area_name}", namespaces=ns)
+            if areas and not style.style.xpath(
+                f".//cs:{area_name}/cs:sort", namespaces=ns
+            ):
                 warning(
-                    f'File "{path}", line {areas[0].sourceline}: Missing <sort> in <{area_name}>'
+                    f'File "{style.path}", line {areas[0].sourceline}: Missing <sort> in <{area_name}>'
                 )
 
 
@@ -539,6 +544,8 @@ def check_style(file):
     style = etree.parse(file, parser)
     root = style.getroot()
 
+    csl_style = CslStyle.from_file(file)
+
     # info(f'Running test of "{style_name}.csl"')
 
     check_fields(file, csl_content, style)
@@ -561,7 +568,7 @@ def check_style(file):
 
     check_text_case(file, csl_content, style)
 
-    check_sort(file, csl_content, style)
+    check_sort(csl_style)
 
     reorder_info_items(root)
 

@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>石河子大学学位论文格式要求与写作规范（2021-09-01，a石大校办发〔2021〕25号）</summary>
-    <updated>2024-11-28T21:16:05+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -755,6 +755,10 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="issued-year-en"/>
+    </sort>
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>

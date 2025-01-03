@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="linguistics"/>
     <summary>《外语教学与研究》参考文献格式要求</summary>
-    <updated>2024-07-16T16:28:12+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -812,6 +812,11 @@
     </choose>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key variable="language"/>
+      <key macro="author-intext-en"/>
+      <key macro="date"/>
+    </sort>
     <layout prefix="（" suffix="）" delimiter="，" locale="zh">
       <group delimiter="：">
         <group delimiter=" ">

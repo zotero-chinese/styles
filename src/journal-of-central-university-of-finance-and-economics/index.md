@@ -73,8 +73,8 @@
 （Qian等，2009）<sup>[17]</sup><br>
 （Wong，2007）<sup>[19]</sup><br>
 （Wong，2008）<sup>[20]</sup><br>
-（Edeline和Weinberger）<sup>[21]</sup>；（Edeline和Weinberger，2005）<sup>[22]</sup>；（Edeline和Weinberger，2002）<sup>[23]</sup>；（Edeline和Weinberger，2002）<sup>[24]</sup><br>
-（Deng和Feng，2005）<sup>[25]</sup>；（Chen，2006）<sup>[26]</sup>；（Bai，2002）<sup>[27]</sup><br>
+（Edeline和Weinberger，2002）<sup>[21]</sup>；（Edeline和Weinberger，2002）<sup>[22]</sup>；（Edeline和Weinberger，2005）<sup>[23]</sup>；（Edeline和Weinberger）<sup>[24]</sup><br>
+（Bai，2002）<sup>[27]</sup>；（Chen，2006）<sup>[26]</sup>；（Deng和Feng，2005）<sup>[25]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献

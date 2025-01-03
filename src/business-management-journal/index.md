@@ -14,7 +14,7 @@
 (Fan &#38; Sommers, 2013)<sup>[4]</sup><br>
 (武丽丽等, 2008)<sup>[5]</sup><br>
 (Myburg等, 2014)<sup>[6]</sup><br>
-(中国互联网络信息中心, 2012)<sup>[7]</sup>(Bawden, 2008)<sup>[8]</sup><br>
+(Bawden, 2008)<sup>[8]</sup>(中国互联网络信息中心, 2012)<sup>[7]</sup><br>
 
 
 ### 参考文献表
@@ -40,15 +40,15 @@
 (Jason) (2008)<sup>[2]</sup><br>
 (张三和李四) (2008)<sup>[3]</sup><br>
 (Wang &#38; Sun) (2009)<sup>[4]</sup><br>
-(赵一和陈二, 2008)<sup>[5]</sup>(Wolchik &#38; West, 2009)<sup>[6]</sup><br>
+(Wolchik &#38; West, 2009)<sup>[5]</sup>(赵一和陈二, 2008)<sup>[6]</sup><br>
 (张三等) (2008)<sup>[7]</sup><br>
 (Wang等) (2009)<sup>[8]</sup><br>
-(赵一等, 2008)<sup>[9]</sup>(Wolchik等, 2009)<sup>[10]</sup><br>
+(Wolchik等, 2009)<sup>[9]</sup>(赵一等, 2008)<sup>[10]</sup><br>
 (张三等) (2019a)<sup>[11]</sup><br>
 (张三等) (2019b)<sup>[12]</sup><br>
 (Qian等) (2020a)<sup>[13]</sup><br>
 (Qian等) (2020b)<sup>[14]</sup><br>
-(张三等, 2019a)<sup>[11]</sup>(Qian等, 2020a)<sup>[13]</sup><br>
+(Qian等, 2020a)<sup>[13]</sup>(张三等, 2019a)<sup>[11]</sup><br>
 (张三等) (2020a)<sup>[15]</sup><br>
 (张三等) (2020b)<sup>[16]</sup><br>
 (Qian等) (2009a)<sup>[17]</sup><br>
@@ -57,8 +57,8 @@
 (Qian等, 2009a)<sup>[17]</sup><br>
 (Wong, 2007)<sup>[19]</sup><br>
 (Wong, 2008)<sup>[20]</sup><br>
-(Edeline &#38; Weinberger)<sup>[21]</sup>(Edeline &#38; Weinberger, 2005)<sup>[22]</sup>(Edeline &#38; Weinberger, 2002a)<sup>[23]</sup>(Edeline &#38; Weinberger, 2002b)<sup>[24]</sup><br>
-(Deng &#38; Feng, 2005)<sup>[25]</sup>(Chen, 2006)<sup>[26]</sup>(Bai, 2002)<sup>[27]</sup><br>
+(Edeline &#38; Weinberger, 2002a)<sup>[21]</sup>(Edeline &#38; Weinberger, 2002b)<sup>[22]</sup>(Edeline &#38; Weinberger, 2005)<sup>[23]</sup>(Edeline &#38; Weinberger)<sup>[24]</sup><br>
+(Bai, 2002)<sup>[27]</sup>(Chen, 2006)<sup>[26]</sup>(Deng &#38; Feng, 2005)<sup>[25]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献

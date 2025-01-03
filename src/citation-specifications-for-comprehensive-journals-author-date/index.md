@@ -9,7 +9,7 @@
 ### 引注
 
 （韦伯，1993：110）<br>
-（韦伯，2005：第5章, 2004a：233-245、272-278）<br>
+（韦伯，2004a：233-245、272-278, 2005：第5章）<br>
 （韦伯，2004b：438）<br>
 （Marshall，1964：56）<br>
 （唐兴霖、马骏，1999）<br>
@@ -89,8 +89,8 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
 （Qian, Zhao, Zhou &#38; Sun，2009）<br>
 （K. D. Wong，2007）<br>
 （P. G. Wong，2008）<br>
-（Edeline &#38; Weinberger，no date, 2005, 2002a, 2002b）<br>
-（Deng &#38; Feng，2005；Chen，2006；Bai，2002）<br>
+（Edeline &#38; Weinberger，2002a, 2002b, 2005, no date）<br>
+（Bai，2002；Chen，2006；Deng &#38; Feng，2005）<br>
 
 
 ### GB/T 7714—2015 示例文献

@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="literature"/>
     <summary>学术论文参考文献格式</summary>
-    <updated>2024-11-28T20:44:39+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -739,6 +739,10 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <sort>
+      <key macro="author-short-en"/>
+      <key macro="issued-year-zh"/>
+    </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=": ">
         <group delimiter=", ">

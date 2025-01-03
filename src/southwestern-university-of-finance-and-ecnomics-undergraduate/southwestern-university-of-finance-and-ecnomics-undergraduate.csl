@@ -15,7 +15,7 @@
     <category field="generic-base"/>
     <category field="social_science"/>
     <summary>附件3：西南财经大学本科生毕业论文（设计）撰写与印制规范.docx（2023-10-13）</summary>
-    <updated>2024-12-25T18:46:15+08:00</updated>
+    <updated>2025-01-03T10:49:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -254,6 +254,10 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="date-intext"/>
+    </sort>
     <layout delimiter="；" prefix="（" suffix="）" locale="zh">
       <group delimiter="，">
         <text macro="author-intext-zh"/>

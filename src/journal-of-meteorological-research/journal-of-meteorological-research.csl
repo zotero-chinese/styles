@@ -15,7 +15,7 @@
     <category field="science"/>
     <issn>2095-6037</issn>
     <summary>气象学报（英文版）</summary>
-    <updated>2024-06-18T22:18:41+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -133,6 +133,10 @@
     </choose>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year-suffix" year-suffix-delimiter=",">
+    <sort>
+      <key macro="author"/>
+      <key macro="year-date"/>
+    </sort>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
         <group delimiter=" ">

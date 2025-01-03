@@ -14,7 +14,7 @@
     <category field="social_science"/>
     <issn>1002-0241</issn>
     <summary>《科学学与科学技术管理》投稿指南</summary>
-    <updated>2024-12-24T14:46:14+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -669,6 +669,10 @@
     </group>
   </macro>
   <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="issued-year"/>
+    </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>

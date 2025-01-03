@@ -19,7 +19,7 @@
     <category field="social_science"/>
     <issn>1000-1549</issn>
     <summary>《中央财经大学学报》文章格式（2024版）</summary>
-    <updated>2024-11-23T22:51:42+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -477,6 +477,10 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="issued-year"/>
+    </sort>
     <layout delimiter="；" locale="en">
       <group delimiter="，" prefix="（" suffix="）">
         <text macro="author-intext-en"/>

@@ -14,7 +14,7 @@
 (Fan and Sommers 2013)<br>
 (武丽丽等 2008)<br>
 (Myburg et al. 2014)<br>
-(中国互联网络信息中心 2012; Bawden 2008)<br>
+(Bawden 2008; 中国互联网络信息中心 2012)<br>
 
 
 ### 参考文献表
@@ -40,15 +40,15 @@
 Jason (2008)<br>
 张三和李四 (2008)<br>
 Wang and Sun (2009)<br>
-(赵一和陈二 2008; Wolchik and West 2009)<br>
+(Wolchik and West 2009; 赵一和陈二 2008)<br>
 张三, 李四和王五 (2008)<br>
 Wang, Sun, and Zheng (2009)<br>
-(赵一, 陈二和张三 2008; Wolchik, West, and Sandler 2009)<br>
+(Wolchik, West, and Sandler 2009; 赵一, 陈二和张三 2008)<br>
 张三, 李四和赵一 (2019)<br>
 张三, 王五和钱二 (2019)<br>
 Qian, Zhao, Zhou, Sun, et al. (2020)<br>
 Qian, Zhao, Zhou, Li, et al. (2020)<br>
-(张三, 李四和赵一 2019; Qian, Zhao, Zhou, Sun, et al. 2020)<br>
+(Qian, Zhao, Zhou, Sun, et al. 2020; 张三, 李四和赵一 2019)<br>
 张三, 李四和王五 (2020)<br>
 张三, 李四和赵六 (2020)<br>
 Qian, Zhao, Zhou, and Sun (2009)<br>
@@ -58,7 +58,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 (Wong 2007)<br>
 (Wong 2008)<br>
 (Edeline and Weinberger; Edeline and Weinberger 2005; Edeline and Weinberger, <i>Citation Test 2.4:3</i> 2002; Edeline and Weinberger, <i>Citation Test 2.4:4</i> 2002)<br>
-(Deng and Feng 2005; Chen 2006; Bai 2002)<br>
+(Bai 2002; Chen 2006; Deng and Feng 2005)<br>
 
 
 ### GB/T 7714—2015 示例文献

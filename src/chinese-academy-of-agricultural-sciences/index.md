@@ -56,8 +56,8 @@ QIAN et al. （2009a）<br>
 （QIAN et al., 2009b）<br>
 （WONG, 2007）<br>
 （WONG, 2008）<br>
-（EDELINE et al., 2005, 2002a, 2002b）<br>
-（DENG et al., 2005; CHEN, 2006; BAI, 2002）<br>
+（EDELINE et al., 2002a, 2002b, 2005）<br>
+（BAI, 2002; CHEN, 2006; DENG et al., 2005）<br>
 
 
 ### GB/T 7714—2015 示例文献

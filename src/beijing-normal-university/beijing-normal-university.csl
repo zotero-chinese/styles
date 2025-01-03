@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>北京师范大学硕士论文样式</summary>
-    <updated>2024-07-16T16:42:42+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -490,6 +490,10 @@
     </choose>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="issued-year"/>
+    </sort>
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>

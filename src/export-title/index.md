@@ -30,7 +30,7 @@
 Social norms and social roles<br>
 Why the West rules–for now: the patterns of history, and what they reveal about the future<br>
 西方文明史：问题与源头<br>
-西方文明史：问题与源头Social norms and social roles<br>
+Social norms and social roles西方文明史：问题与源头<br>
 Social norms and social rolesWhy the West rules–for now: the patterns of history, and what they reveal about the future国史旧闻<br>
 Social norms and social rolesWhy the West rules–for now: the patterns of history, and what they reveal about the future西方文明史：问题与源头<br>
 

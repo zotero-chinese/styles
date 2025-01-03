@@ -19,7 +19,7 @@
 （叶恭银等，1998）<br>
 （曾士迈等，1979）<br>
 （张徐波，2013）<br>
-（曾士迈等，1979；吴孔明和郭予元，2000）<br>
+（吴孔明和郭予元，2000；曾士迈等，1979）<br>
 
 
 ### 参考文献表
@@ -48,15 +48,15 @@
 Jason （2008，pp. 42）<br>
 张三和李四 （2008）<br>
 Wang &#38; Sun （2009）<br>
-（赵一和陈二，2008；Wolchik &#38; West，2009）<br>
+（Wolchik &#38; West，2009；赵一和陈二，2008）<br>
 张三等 （2008）<br>
 Wang et al. （2009）<br>
-（赵一等，2008；Wolchik et al.，2009）<br>
+（Wolchik et al.，2009；赵一等，2008）<br>
 张三等 （2019a）<br>
 张三等 （2019b）<br>
 Qian et al. （2020b）<br>
 Qian et al. （2020a）<br>
-（张三等，2019a；Qian et al.，2020b）<br>
+（Qian et al.，2020b；张三等，2019a）<br>
 张三等 （2020a）<br>
 张三等 （2020b）<br>
 Qian et al. （2009b）<br>
@@ -65,8 +65,8 @@ Qian et al. （2009a）<br>
 （Qian et al.，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
-（Edeline &#38; Weinberger，n.d., 2005, 2002a, 2002b）<br>
-（Deng &#38; Feng，2005；Chen，2006；Bai，2002）<br>
+（Edeline &#38; Weinberger，2002a, 2002b, 2005, n.d.）<br>
+（Bai，2002；Chen，2006；Deng &#38; Feng，2005）<br>
 
 
 ### GB/T 7714—2015 示例文献

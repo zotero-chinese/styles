@@ -16,8 +16,8 @@
   "citation_format": "author-date",
   "field": "literature",
   "summary": "学术论文参考文献格式",
-  "updated": "2024-11-28T20:44:39+08:00",
-  "citations": "(库恩, 2012)<br>\n(Fourney, c1971)<br>\n(贾东琴和柯平, 2011)<br>\n(Fan and Sommers, 2013)<br>\n(武丽丽等, 2008)<br>\n(Myburg et al., 2014)<br>\n(中国互联网络信息中心, 2012; Bawden, 2008)<br>\n",
+  "updated": "2025-01-03T10:47:12+08:00",
+  "citations": "(库恩, 2012)<br>\n(Fourney, c1971)<br>\n(贾东琴和柯平, 2011)<br>\n(Fan and Sommers, 2013)<br>\n(武丽丽等, 2008)<br>\n(Myburg et al., 2014)<br>\n(Bawden, 2008; 中国互联网络信息中心, 2012)<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008, <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n  <div class=\"csl-entry\">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26, <a href=\"http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary\">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>\n  <div class=\"csl-entry\">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>\n  <div class=\"csl-entry\">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, vol. 510, June 2014, pp. 356–62, <a href=\"https://doi.org/10.1038/nature13308\">https://doi.org/10.1038/nature13308</a>.</div>\n  <div class=\"csl-entry\">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R]. 2012.</div>\n  <div class=\"csl-entry\">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和，译. 2 版. 北京: 北京大学出版社，2012.</div>\n  <div class=\"csl-entry\">武丽丽等. “北斗一号”监控管理网设计与实现[J]. 测绘科学，2008，33（5）: 8–9.</div>\n  <div class=\"csl-entry\">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社，2011: 45–52.</div>\n</div>",
   "tags": [
     "姓名小写",

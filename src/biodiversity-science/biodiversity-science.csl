@@ -13,7 +13,7 @@
     <category field="biology"/>
     <issn>1005-0094</issn>
     <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2024-12-25T18:48:37+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -68,6 +68,16 @@
       </else>
     </choose>
   </macro>
+  <macro name="author-intext-en">
+    <names variable="author">
+      <name form="short" and="symbol"/>
+    </names>
+  </macro>
+  <macro name="author-intext-zh">
+    <names variable="author">
+      <name and="text"/>
+    </names>
+  </macro>
   <macro name="author-sort">
     <choose>
       <if variable="original-author">
@@ -78,16 +88,6 @@
       </else>
     </choose>
     <names variable="author"/>
-  </macro>
-  <macro name="author-intext-en">
-    <names variable="author">
-      <name form="short" and="symbol"/>
-    </names>
-  </macro>
-  <macro name="author-intext-zh">
-    <names variable="author">
-      <name and="text"/>
-    </names>
   </macro>
   <macro name="date">
     <choose>
@@ -309,6 +309,10 @@
     </choose>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="date"/>
+    </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=", ">
         <text macro="author-intext-zh"/>

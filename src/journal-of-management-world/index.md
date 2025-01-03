@@ -18,7 +18,7 @@
 （Weiss，2010）<br>
 （Kang and Kim，2008）<br>
 （Banker et al.，2013）<br>
-（Weiss，2010；Kang and Kim，2008；Banker et al.，2013）<br>
+（Banker et al.，2013；Kang and Kim，2008；Weiss，2010）<br>
 （Krugman，2006）<br>
 （Fama，1989）<br>
 （Skolnik，2008）<br>
@@ -70,8 +70,8 @@ Qian et al. （2009a）<br>
 （Qian et al.，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
-（Edeline and Weinberger, 2005, 2002a, 2002b）<br>
-（Deng and Feng，2005；Chen，2006；Bai，2002）<br>
+（Edeline and Weinberger，2002a, 2002b, 2005）<br>
+（Bai，2002；Chen，2006；Deng and Feng，2005）<br>
 
 
 ### GB/T 7714—2015 示例文献

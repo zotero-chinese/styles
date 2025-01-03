@@ -57,8 +57,8 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
 （Qian, Zhao, Zhou &#38; Sun，2009）<br>
 （K. D. Wong，2007）<br>
 （P. G. Wong，2008）<br>
-（Edeline &#38; Weinberger，n.d., 2005, 2002a, 2002b）<br>
-（Deng &#38; Feng，2005；Chen，2006；Bai，2002）<br>
+（Edeline &#38; Weinberger，2002a, 2002b, 2005, n.d.）<br>
+（Bai，2002；Chen，2006；Deng &#38; Feng，2005）<br>
 
 
 ### GB/T 7714—2015 示例文献

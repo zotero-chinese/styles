@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="humanities"/>
     <category field="social_science"/>
-    <updated>2024-12-25T17:49:56+08:00</updated>
+    <updated>2025-01-03T10:49:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -604,6 +604,10 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" disambiguate-add-names="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="date-intext"/>
+    </sort>
     <layout delimiter="；" prefix="（" suffix="）" locale="zh">
       <group delimiter="：">
         <group delimiter="，">

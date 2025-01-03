@@ -11,11 +11,11 @@
     }
   ],
   "contributor": [],
-  "citation_format": "author-date",
+  "citation_format": "numeric",
   "field": "generic-base",
-  "updated": "2024-06-20T12:46:24+08:00",
-  "citations": "[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n[NO_PRINTED_FORM]<br>\n",
-  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">Symposium on Applications of Holography in Mechanics</div>\n  <div class=\"csl-entry\">中国图书馆学会年会论文集</div>\n  <div class=\"csl-entry\">测绘科学</div>\n  <div class=\"csl-entry\">Nature</div>\n</div>",
+  "updated": "2025-01-03T10:51:39+08:00",
+  "citations": "[NO_PRINTED_FORM]",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">中国图书馆学会年会论文集</div>\n  <div class=\"csl-entry\">Symposium on Applications of Holography in Mechanics</div>\n  <div class=\"csl-entry\">测绘科学</div>\n  <div class=\"csl-entry\">Nature</div>\n</div>",
   "tags": [
     "姓名小写",
     "无标题",

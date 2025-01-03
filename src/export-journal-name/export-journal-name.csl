@@ -8,9 +8,9 @@
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
     </author>
-    <category citation-format="author-date"/>
+    <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-06-20T12:46:24+08:00</updated>
+    <updated>2025-01-03T10:51:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- 参考文献表格式 -->
@@ -21,7 +21,11 @@
       </if>
     </choose>
   </macro>
-  <citation/>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+  </citation>
   <bibliography>
     <layout>
       <text macro="entry-layout"/>

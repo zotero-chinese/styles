@@ -8,20 +8,13 @@
 
 ### 引注
 
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-
+[NO_PRINTED_FORM]
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">Symposium on Applications of Holography in Mechanics</div>
   <div class="csl-entry">中国图书馆学会年会论文集</div>
+  <div class="csl-entry">Symposium on Applications of Holography in Mechanics</div>
   <div class="csl-entry">测绘科学</div>
   <div class="csl-entry">Nature</div>
 </div>
@@ -30,25 +23,6 @@
 
 ### 引注
 
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
-[NO_PRINTED_FORM] [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>
 [NO_PRINTED_FORM]<br>

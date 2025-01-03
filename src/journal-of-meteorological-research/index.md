@@ -14,7 +14,7 @@
 (Fan and Sommers 2013)<br>
 (武丽丽 et al. 2008)<br>
 (Myburg et al. 2014)<br>
-(中国互联网络信息中心 2012; Bawden 2008)<br>
+(Bawden 2008; 中国互联网络信息中心 2012)<br>
 
 
 ### 参考文献表
@@ -40,15 +40,15 @@
 Jason (2008, p. 42)<br>
 张三 and 李四 (2008)<br>
 Wang and Sun (2009)<br>
-(赵一 and 陈二 2008; Wolchik and West 2009)<br>
+(Wolchik and West 2009; 赵一 and 陈二 2008)<br>
 张三 et al. (2008)<br>
 Wang et al. (2009)<br>
-(赵一 et al. 2008; Wolchik et al. 2009)<br>
+(Wolchik et al. 2009; 赵一 et al. 2008)<br>
 张三 et al. (2019a)<br>
 张三 et al. (2019b)<br>
 Qian et al. (2020b)<br>
 Qian et al. (2020a)<br>
-(张三 et al. 2019a; Qian et al. 2020b)<br>
+(Qian et al. 2020b; 张三 et al. 2019a)<br>
 张三 et al. (2020a)<br>
 张三 et al. (2020b)<br>
 Qian et al. (2009b)<br>
@@ -57,8 +57,8 @@ Qian et al. (2009a)<br>
 (Qian et al. 2009b)<br>
 (Wong 2007)<br>
 (Wong 2008)<br>
-(Edeline and Weinberger, 2005, 2002a,b)<br>
-(Deng and Feng 2005; Chen 2006; Bai 2002)<br>
+(Edeline and Weinberger 2002a,b, 2005)<br>
+(Bai 2002; Chen 2006; Deng and Feng 2005)<br>
 
 
 ### GB/T 7714—2015 示例文献

@@ -14,7 +14,7 @@
     <category field="social_science"/>
     <issn>1002-8870</issn>
     <summary>《中国农村经济》《中国农村观察》体例规范.docx</summary>
-    <updated>2024-07-30T13:52:45+08:00</updated>
+    <updated>2025-01-03T10:47:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -578,6 +578,10 @@
     </group>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="date"/>
+    </sort>
     <layout prefix="（" suffix="）" delimiter="；" locale="zh">
       <group delimiter="，">
         <text macro="author-intext-zh"/>

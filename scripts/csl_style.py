@@ -1,8 +1,7 @@
 import datetime
 from pathlib import Path
 import re
-from warnings import warn
-from xml.dom.minidom import Element
+import sys
 
 from lxml import etree
 
@@ -12,8 +11,17 @@ NSMAP = {"cs": "http://purl.org/net/xbiblio/csl"}
 ZOTERO_STYLE_PREFIX = "http://www.zotero.org/styles/"
 
 
+def warn(msg, file: str | Path, element=None):
+    warn_msg = f'Warning: File "{str(file)}"'
+    if element is not None:
+        warn_msg += f", line {element.sourceline}"
+    warn_msg += f": {msg}"
+    print(warn_msg, file=sys.stderr)
+
+
 class CslStyle:
     def __init__(self, style_id="", title="", citation_format=None):
+        self.original_text = ""
         self.style_id = style_id
         self.style_attrib = {
             # "xmlns": "http://purl.org/net/xbiblio/csl",
@@ -40,6 +48,9 @@ class CslStyle:
         self.intext = None
         self.bibliography = None
 
+        self.style = etree.fromstring(self.to_string().encode())
+        self.path = ""
+
     def _make_citation_element(self):
         citation = etree.Element(f"{CSL_PREFIX}citation")
         layout = etree.SubElement(citation, f"{CSL_PREFIX}layout")
@@ -50,8 +61,11 @@ class CslStyle:
     @classmethod
     def from_file(cls, path: str | Path):
         style = CslStyle()
+        style.path = str(path)
         tree = etree.parse(str(path))
+        style.original_text = Path(path).read_text()
         root = tree.getroot()
+        style.style = root
 
         for attr, value in root.attrib.items():
             if attr == "xmlns":
@@ -116,7 +130,7 @@ class CslStyle:
 
         return style
 
-    def to_file(self, path):
+    def to_string(self):
         xml_style = etree.Element(f"{CSL_PREFIX}style", nsmap={None: CSL_NAMESPACE})
 
         for attr, value in self.style_attrib.items():
@@ -215,17 +229,28 @@ class CslStyle:
         style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
 
         # style_str = re.sub(r"/>\s*<!--(?! <)", r"/>  <!--", style_str)
+        return style_str
 
-        Path(path).write_text(style_str)
+    def to_file(self, path):
+        style_str = self.to_string()
+        if style_str != self.original_text:
+            self.updated = datetime.datetime.now().astimezone()
+            style_str = re.sub(
+                r"<updated>[^<]*</updated>",
+                f"<updated>{self.updated.isoformat(timespec='seconds')}</updated>",
+                style_str,
+            )
+            Path(path).write_text(style_str)
+            self.original_text = style_str
 
     def _make_contributor_element(self, root, elem_name, contributor):
         contributor_elem = etree.SubElement(root, f"{CSL_PREFIX}{elem_name}")
         name = etree.SubElement(contributor_elem, f"{CSL_PREFIX}name")
         name.text = contributor["name"]
-        if contributor["email"]:
+        if contributor.get("email"):
             email = etree.SubElement(contributor_elem, f"{CSL_PREFIX}email")
             email.text = contributor["email"]
-        if contributor["uri"]:
+        if contributor.get("uri"):
             uri = etree.SubElement(contributor_elem, f"{CSL_PREFIX}uri")
             uri.text = contributor["uri"]
         return contributor_elem
@@ -252,4 +277,57 @@ def get_contributor(element):
 if __name__ == "__main__":
     for path in Path("src").glob("**/*.csl"):
         style = CslStyle.from_file(path)
+
+        if style.citation_format == "numeric":
+            if not style.citation.xpath(".//cs:sort", namespaces=NSMAP):
+                sort = etree.Element(f"{CSL_PREFIX}sort")
+                style.citation.insert(0, sort)
+                key = etree.Element(f"{CSL_PREFIX}key")
+                key.attrib["variable"] = "citation-number"
+                sort.append(key)
+                etree.indent(sort)
+        elif style.citation_format == "author-date":
+            if not style.citation.xpath(".//cs:sort", namespaces=NSMAP):
+                sort = etree.Element(f"{CSL_PREFIX}sort")
+                style.citation.insert(0, sort)
+
+                if style.style.xpath(
+                    ".//cs:bibliography//cs:key[@variable='language']", namespaces=NSMAP
+                ):
+                    key = etree.Element(f"{CSL_PREFIX}key")
+                    key.attrib["variable"] = "language"
+                    sort.append(key)
+
+                sort_macro = ""
+                for macro_name in ["author-intext", "author"]:
+                    for macro in style.macros:
+                        if macro_name in macro.attrib["name"]:
+                            sort_macro = macro.attrib["name"]
+                            break
+                    if sort_macro:
+                        break
+                if sort_macro:
+                    key = etree.Element(f"{CSL_PREFIX}key")
+                    key.attrib["macro"] = sort_macro
+                    sort.append(key)
+                else:
+                    warn('No sort macro found for "author-intext"', style.path)
+
+                sort_macro = ""
+                for macro_name in ["date-intext", "issued-year", "date"]:
+                    for macro in style.macros:
+                        if macro_name in macro.attrib["name"]:
+                            sort_macro = macro.attrib["name"]
+                            break
+                    if sort_macro:
+                        break
+                if sort_macro:
+                    key = etree.Element(f"{CSL_PREFIX}key")
+                    key.attrib["macro"] = sort_macro
+                    sort.append(key)
+                else:
+                    warn('No sort macro found for "author-intext"', style.path)
+
+                etree.indent(sort)
+
         style.to_file(path)
