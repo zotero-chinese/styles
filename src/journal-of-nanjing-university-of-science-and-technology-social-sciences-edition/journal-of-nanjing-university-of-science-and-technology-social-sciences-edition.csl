@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1008-2646</issn>
     <summary>《南京理工大学学报（社科版）》稿件格式规范</summary>
-    <updated>2024-12-25T18:45:49+08:00</updated>
+    <updated>2025-01-07T16:57:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -103,12 +103,12 @@
     <choose>
       <if variable="issued">
         <choose>
-          <if type="article-magazine article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
+          <if type="article-journal article-magazine" match="any">
+            <date variable="issued" form="text" date-parts="year"/>
+          </if>
+          <if type="article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
             <date variable="issued" form="text"/>
           </if>
-          <else-if type="article-journal" variable="volume" match="all">
-            <date variable="issued" form="text" date-parts="year-month"/>
-          </else-if>
           <else-if type="paper-conference">
             <choose>
               <if variable="container-title">
@@ -274,13 +274,6 @@
       <label form="short"/>
     </names>
   </macro>
-  <macro name="container-periodical-en">
-    <group delimiter=", ">
-      <text variable="container-title" text-case="title"/>
-      <number variable="volume"/>
-    </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-  </macro>
   <macro name="container-booklike-en">
     <choose>
       <if variable="container-title">
@@ -350,16 +343,27 @@
       </if>
     </choose>
   </macro>
+  <macro name="container-periodical-en">
+    <group delimiter=", ">
+      <text variable="container-title" text-case="title"/>
+      <number variable="volume"/>
+    </group>
+    <number variable="issue" prefix="(" suffix=")"/>
+  </macro>
   <macro name="container-periodical-zh">
     <choose>
       <if type="article-newspaper">
         <text variable="container-title" prefix="《" suffix="》"/>
         <text variable="publisher-place" prefix="（" suffix="）"/>
         <group delimiter="，">
-          <group>
-            <text macro="volume-zh"/>
-            <text macro="issue-zh"/>
-          </group>
+          <choose>
+            <if variable="issue">
+              <text macro="issue-zh"/>
+            </if>
+            <else>
+              <text macro="volume-zh"/>
+            </else>
+          </choose>
           <text macro="date-zh"/>
           <text variable="section" quotes="true"/>
         </group>
@@ -525,7 +529,7 @@
   <macro name="access-en">
     <choose>
       <if type="post post-weblog software webpage" match="any">
-        <group delimiter="，">
+        <group delimiter=", ">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>
         </group>
@@ -712,9 +716,12 @@
           <group delimiter=", ">
             <text macro="title-short-en"/>
             <choose>
-              <if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-en"/>
+              <if type="article-journal article-magazine article-newspaper" match="any">
+                <text macro="container-periodical-en"/>
               </if>
+              <else-if type="chapter paper-conference" match="any">
+                <text macro="container-booklike-short-en"/>
+              </else-if>
             </choose>
             <text macro="locator-en"/>
           </group>
@@ -734,9 +741,12 @@
           <group delimiter="，">
             <text macro="title-short-zh"/>
             <choose>
-              <if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-zh"/>
+              <if type="article-journal article-magazine article-newspaper" match="any">
+                <text macro="container-periodical-zh"/>
               </if>
+              <else-if type="chapter paper-conference" match="any">
+                <text macro="container-booklike-short-zh"/>
+              </else-if>
             </choose>
             <text macro="locator-zh"/>
           </group>

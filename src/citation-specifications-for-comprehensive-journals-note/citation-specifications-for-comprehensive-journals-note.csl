@@ -13,7 +13,7 @@
     <category citation-format="note"/>
     <category field="humanities"/>
     <category field="social_science"/>
-    <updated>2024-12-25T17:50:56+08:00</updated>
+    <updated>2025-01-07T16:56:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -100,12 +100,15 @@
     <choose>
       <if variable="issued">
         <choose>
-          <if type="article-magazine article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
+          <if type="article-journal" variable="volume" match="all">
+            <date variable="issued" form="text" date-parts="year-month"/>
+          </if>
+          <if type="article-magazine" variable="volume" match="all">
             <date variable="issued" form="text"/>
           </if>
-          <else-if type="article-journal" variable="volume" match="all">
-            <date variable="issued" form="text" date-parts="year-month"/>
-          </else-if>
+          <if type="article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
+            <date variable="issued" form="text"/>
+          </if>
           <else-if type="paper-conference">
             <choose>
               <if variable="container-title">
@@ -269,19 +272,6 @@
       <label form="short"/>
     </names>
   </macro>
-  <macro name="container-periodical-en">
-    <group delimiter=", ">
-      <text variable="container-title" text-case="title" font-style="italic"/>
-      <group delimiter=" ">
-        <label variable="volume" form="short"/>
-        <number variable="volume"/>
-      </group>
-      <group delimiter=" ">
-        <label variable="issue" form="short"/>
-        <number variable="issue"/>
-      </group>
-    </group>
-  </macro>
   <macro name="container-booklike-en">
     <choose>
       <if variable="container-title">
@@ -350,6 +340,19 @@
         </choose>
       </if>
     </choose>
+  </macro>
+  <macro name="container-periodical-en">
+    <group delimiter=", ">
+      <text variable="container-title" text-case="title" font-style="italic"/>
+      <group delimiter=" ">
+        <label variable="volume" form="short"/>
+        <number variable="volume"/>
+      </group>
+      <group delimiter=" ">
+        <label variable="issue" form="short"/>
+        <number variable="issue"/>
+      </group>
+    </group>
   </macro>
   <macro name="container-periodical-zh">
     <choose>
@@ -545,7 +548,7 @@
   <macro name="access-en">
     <choose>
       <if type="post post-weblog software webpage" match="any">
-        <group delimiter="，">
+        <group delimiter=", ">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>
         </group>
@@ -741,9 +744,12 @@
           <group delimiter=", ">
             <text macro="title-short-en"/>
             <choose>
-              <if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-en"/>
+              <if type="article-journal article-magazine article-newspaper" match="any">
+                <text macro="container-periodical-en"/>
               </if>
+              <else-if type="chapter paper-conference" match="any">
+                <text macro="container-booklike-short-en"/>
+              </else-if>
             </choose>
             <text macro="locator-en"/>
           </group>
@@ -763,9 +769,12 @@
           <group delimiter="，">
             <text macro="title-short-zh"/>
             <choose>
-              <if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-zh"/>
+              <if type="article-journal article-magazine article-newspaper" match="any">
+                <text macro="container-periodical-zh"/>
               </if>
+              <else-if type="chapter paper-conference" match="any">
+                <text macro="container-booklike-short-zh"/>
+              </else-if>
             </choose>
             <text macro="locator-zh"/>
           </group>

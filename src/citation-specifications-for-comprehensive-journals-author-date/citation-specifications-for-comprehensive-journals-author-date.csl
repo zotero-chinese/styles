@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="humanities"/>
     <category field="social_science"/>
-    <updated>2025-01-03T10:49:32+08:00</updated>
+    <updated>2025-01-07T16:47:50+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -231,19 +231,6 @@
       <label form="short"/>
     </names>
   </macro>
-  <macro name="container-periodical-en">
-    <group delimiter=", ">
-      <text variable="container-title" text-case="title" font-style="italic"/>
-      <group delimiter=" ">
-        <label variable="volume" form="short"/>
-        <number variable="volume"/>
-      </group>
-      <group delimiter=" ">
-        <label variable="issue" form="short"/>
-        <number variable="issue"/>
-      </group>
-    </group>
-  </macro>
   <macro name="container-booklike-en">
     <choose>
       <if variable="container-title">
@@ -286,6 +273,19 @@
         </group>
       </if>
     </choose>
+  </macro>
+  <macro name="container-periodical-en">
+    <group delimiter=", ">
+      <text variable="container-title" text-case="title" font-style="italic"/>
+      <group delimiter=" ">
+        <label variable="volume" form="short"/>
+        <number variable="volume"/>
+      </group>
+      <group delimiter=" ">
+        <label variable="issue" form="short"/>
+        <number variable="issue"/>
+      </group>
+    </group>
   </macro>
   <macro name="container-periodical-zh">
     <choose>
@@ -466,7 +466,7 @@
   <macro name="access-en">
     <choose>
       <if type="post post-weblog software webpage" match="any">
-        <group delimiter="，">
+        <group delimiter=", ">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>
         </group>

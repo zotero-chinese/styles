@@ -24,7 +24,7 @@
   <div class="csl-entry">库恩（2012）：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社。</div>
   <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）：《“北斗一号”监控管理网设计与实现》，《测绘科学》，第5期。</div>
   <div class="csl-entry">中国互联网络信息中心（2012）：《第 29 次中国互联网络发展状况统计报告》。</div>
-  <div class="csl-entry">Bawden, D. (2008): <i>Origins and Concepts of Digital Literacy</i>, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.</div>
+  <div class="csl-entry">Bawden, D. (2008): <i>Origins and Concepts of Digital Literacy</i>, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, March 8, 2013.</div>
   <div class="csl-entry">Fan, X. and C. H. Sommers (2013): <i>Food Irradiation Research and Technology</i>, Blackwell Publishing.</div>
   <div class="csl-entry">Fourney, M. E. (c1971): “Advances in Holographic Photoelasticity”, In: <i>Symposium on Applications of Holography in Mechanics</i>, ASME.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar and J. Schmutz (2014): “The Genome of Eucalyptus Grandis”, <i>Nature</i>, 510, 356-362.</div>
@@ -148,13 +148,13 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray and U. Gupta (eds.) (2014): <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, Springer.</div>
   <div class="csl-entry">Baker, S. K. and M. E. Jackson (1995): <i>The Future of Resource Sharing</i>, The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. (2011): <i>Developing Early Childhood Services: Past, Present and Future</i>, Open University Press.</div>
-  <div class="csl-entry">Bawden, D. (2008): <i>Origins and Concepts of Digital Literacy</i>, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.</div>
+  <div class="csl-entry">Bawden, D. (2008): <i>Origins and Concepts of Digital Literacy</i>, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, March 8, 2013.</div>
   <div class="csl-entry">Buseck, P. R., G. L. Nord Jr. and D. R. Veblen (c1980): “Subsolidus Phenomena in Pyroxenes”, In: <i>Pyroxenes</i>, Mineralogical Society of America.</div>
   <div class="csl-entry">Cairns, B. R. (1965): <i>Infrared Spectroscopic Studies on Solid Oxygen</i>, Doctoral dissertation, Univ. of California.</div>
   <div class="csl-entry">Calkin, D., A. Ager and M. Thompson (2011): <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>.</div>
   <div class="csl-entry">Caplan, P. (1993): “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, 4, 61-66.</div>
   <div class="csl-entry">Chernik, B. E. (1982): <i>Introduction to Library Services for Library Technicians</i>, Libraries Unlimited, Inc.</div>
-  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office: <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>，March 24, 2013.</div>
+  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office: <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>, March 24, 2013.</div>
   <div class="csl-entry">Crane, D. (1972): <i>Invisible College</i>, Univ. of Chicago Press.</div>
   <div class="csl-entry">Crawford, W. and M. Gorman (1995): <i>Future Libraries: Dreams, Madness, &#38; Reality</i>, American Library Association.</div>
   <div class="csl-entry">Des Marais, D. J., H. Strauss, R. E. Summons and J. M. Hayes (1992): “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, <i>Nature</i>, 359, 605-609.</div>
@@ -164,7 +164,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Fourney, M. E. (c1971): “Advances in Holographic Photoelasticity”, In: <i>Symposium on Applications of Holography in Mechanics</i>, ASME.</div>
   <div class="csl-entry">Franz, A. K., M. A. Danielewicz, D. M. Wong, L. A. Anderson and J. R. Boothe (2013): “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, 8, 1053-1062.</div>
   <div class="csl-entry">Frese, K. S., H. A. Katus and B. Meder (2013): “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, 2, 378-398.</div>
-  <div class="csl-entry">Hopkinson, A. (2009): <i>UNIMARC and Metadata: Dublin Core</i>, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.</div>
+  <div class="csl-entry">Hopkinson, A. (2009): <i>UNIMARC and Metadata: Dublin Core</i>, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, March 27, 2013.</div>
   <div class="csl-entry">International Federation of Library Association and Institutions (1977): <i>Names of Persons: National Usages for Entry in Catalogues</i>, IFLA International Office for UBC.</div>
   <div class="csl-entry">Kanamori, H. (1998): “Shaking without Quaking”, <i>Science</i>, 279, 2063.</div>
   <div class="csl-entry">Kennedy, W. J. and R. E. Garrison (1975a): “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England”, <i>Sedimentology</i>, 22, 311.</div>
@@ -174,7 +174,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Morris, I. (2010): <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar and J. Schmutz (2014): “The Genome of Eucalyptus Grandis”, <i>Nature</i>, 510, 356-362.</div>
   <div class="csl-entry">O’Brien, J. A. (1994): <i>Introduction to Information Systems</i>, Irwin.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc.: <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc.: <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>, March 27, 2012.</div>
   <div class="csl-entry">Park, J. R. and Y. Tosaka (2010): “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48, 696-715.</div>
   <div class="csl-entry">Peebles, P. Z., Jr. (2001): <i>Probability, Random Variables, and Random Signal Principles</i>, McGraw-Hill.</div>
   <div class="csl-entry">Praetzellis, A. (2011): <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
@@ -192,7 +192,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">（1977）：《宋史卷三：本纪第三》，载于《宋史》第 1 册，中华书局，第49页。</div>
   <div class="csl-entry">(1981): “Coffee Drinking and Cancer of the Pancreas”, <i>British Medical Journal</i>, 283, 628.</div>
   <div class="csl-entry">（1988）：《卷 39 乞致仕第一》，载于《苏魏公文集》下册，中华书局，第590页。</div>
-  <div class="csl-entry">(2012): <i>Dublin Core Metadata Element Set: Version 1.1</i>, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>，June 11, 2014.</div>
+  <div class="csl-entry">(2012): <i>Dublin Core Metadata Element Set: Version 1.1</i>, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, June 11, 2014.</div>
   <div class="csl-entry">(No date): <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
 </div>
 
@@ -347,10 +347,10 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Fischer, T. (2015): “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>.</div>
   <div class="csl-entry">Habermas, J. (1996): <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, trans. by W. Rehg, MIT Press.</div>
   <div class="csl-entry">Horsley, J. (2006): “Rule of Law in China: Incremental Progress”, In: Bergsten, C. F., B. Gill, N. R. Lardy and D. Mitchell, <i>China: The Balance Sheet</i>, Public Affairs Press.</div>
-  <div class="csl-entry">Joyeux-Prunel, B.: <i>L’histoire de l’art et le quantitatif</i>, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.</div>
+  <div class="csl-entry">Joyeux-Prunel, B.: <i>L’histoire de l’art et le quantitatif</i>, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>, March 17, 2010.</div>
   <div class="csl-entry">Kaufmann, A. (1972): “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, In: Baumann, J., <i>Das Abtreibungsverbot des § 218 StGB</i>.</div>
-  <div class="csl-entry">McDonell, S. (2016): <i>When China Began Streaming Trials Online</i>, BBC News, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.</div>
-  <div class="csl-entry">Meidenbauer, M.: <i>Wissenschaftliches Publizieren</i>, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.</div>
+  <div class="csl-entry">McDonell, S. (2016): <i>When China Began Streaming Trials Online</i>, BBC News, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>, July 26, 2022.</div>
+  <div class="csl-entry">Meidenbauer, M.: <i>Wissenschaftliches Publizieren</i>, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>, October 10, 2017.</div>
   <div class="csl-entry">Poisson, M. (2015a): “Le droit de la mer”, <i>RGDIP</i>, 15-47.</div>
   <div class="csl-entry">Poisson, M. (2015b): “Le droit de la mer”, In: <i>Le droit des Océans</i>.</div>
   <div class="csl-entry">Poisson, M. (2016a): <i>Le droit de la mer en Méditerranée</i>, Report, Congrès de Marseille.</div>
@@ -386,7 +386,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">(No date): “Strauß-Karikatur, Kunstfreiheit”, In: <i>BVerfGE</i>.</div>
   <div class="csl-entry">(No date): 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
   <div class="csl-entry">(No date): <i>平成26年版犯罪白書</i>.</div>
-  <div class="csl-entry">ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022h.</div>
+  <div class="csl-entry">ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>, September 1, 2022h.</div>
   <div class="csl-entry">《温家宝主持国务院会议 研究房地产业健康发展措施》，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。</div>
 </div>
 
@@ -408,7 +408,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">American Psychological Association (no date): “Positive Transference”, In: <i>APA Dictionary of Psychology</i>.</div>
   <div class="csl-entry">Anderson, M. (2018): “Getting Consistent with Consequences”, <i>Educational Leadership</i>, 76, 26-33.</div>
   <div class="csl-entry">APA Education [@APAEducation] (2018): <i>College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached]</i>, Twitter, <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
-  <div class="csl-entry">APA Style [@APA_Style]: <i>Tweets</i>, Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>，November 1, 2019.</div>
+  <div class="csl-entry">APA Style [@APA_Style]: <i>Tweets</i>, Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>, November 1, 2019.</div>
   <div class="csl-entry">Aristotle (1994): <i>Poetics</i>, trans. by S. H. Butcher, The Internet Classics Archive.</div>
   <div class="csl-entry">Australian Government Productivity Commission and New Zealand Productivity Commission (2012): <i>Strengthening Trans-Tasman Economic Relations</i>.</div>
   <div class="csl-entry">Author, A. (2019): “How Workout Buddies Can Help Stave off Loneliness”, <i>The Washington Post</i>.</div>
@@ -523,15 +523,15 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Segaert, A. and A. Bauer (2015): <i>The Extent and Nature of Veteran Homelessness in Canada</i>, Report, Employment and Social Development Canada.</div>
   <div class="csl-entry">Shakespeare, W. (1995): <i>Much Ado about Nothing</i>, Washington Square Press.</div>
   <div class="csl-entry">Shore, M. F. (2014): “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, 84, 611-618.</div>
-  <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute: <i>Home</i>, Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>，July 22, 2019.</div>
+  <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute: <i>Home</i>, Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>, July 22, 2019.</div>
   <div class="csl-entry">SR Research (2016): <i>Eyelink 1000 Plus</i>, <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
   <div class="csl-entry">Stults-Kolehmainen, M. A. and R. Sinha (2015): <i>The Effects of Stress on Physical Activity and Exercise</i>, PubMed Central.</div>
   <div class="csl-entry">Tactile Labs (2015): <i>Latero Tactile Display</i>, <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">Tafoya, N. and A. Del Vecchio (2005): “Back to the Future: An Examination of the Native American Holocaust Experience”, In: McGoldrick, M., J. Giordano and N. Garcia-Preto, <i>Ethnicity and Family Therapy</i>, Guilford Press.</div>
   <div class="csl-entry">Tellegen, A. and Y. S. Ben-Porath (2011): <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>, Report, Pearson.</div>
-  <div class="csl-entry">The New York Public Library [@nypl]: <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>，April 16, 2019.</div>
+  <div class="csl-entry">The New York Public Library [@nypl]: <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>, April 16, 2019.</div>
   <div class="csl-entry">Travis, C. B. and J. W. White (eds.) (2018): <i>APA Handbook of the Psychology of Women</i>, vol. 1, American Psychological Association.</div>
-  <div class="csl-entry">U.S. Census Bureau: <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>，July 3, 2019.</div>
+  <div class="csl-entry">U.S. Census Bureau: <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>, July 3, 2019.</div>
   <div class="csl-entry">U.S. Food and Drug Administration (2019): <i>FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices</i>, Press release, U.S. Food and Drug Administration.</div>
   <div class="csl-entry">U.S. Securities and Exchange Commission (2017): <i>Agency Financial Report: Fiscal Year 2017</i>.</div>
   <div class="csl-entry">Vedantam, S. (2015): <i>Hidden Brain</i>, NPR.</div>

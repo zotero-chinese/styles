@@ -345,7 +345,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Baldock, Peter, 2011, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Bawden, D., 2008, <i>Origins and Concepts of Digital Literacy</i>, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Bawden, D., 2008, <i>Origins and Concepts of Digital Literacy</i>, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, March 8, 2013.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Buseck, Peter R., Gordon L. Nord Jr. &#38; David R. Veblen, c1980, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxenes</i>, Washington, D.C.: Mineralogical Society of America, pp. 117-211.</div>
@@ -363,7 +363,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Chernik, B. E., 1982, <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>，March 24, 2013.</div>
+    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>, March 24, 2013.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Crane, Diana, 1972, <i>Invisible College</i>, Chicago: Univ. of Chicago Press.</div>
@@ -393,7 +393,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[98]</div><div class="csl-right-inline">Frese, Karen S., Hugo A. Katus &#38; Benjamin Meder, 2013, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine,” <i>Biology</i>, vol. 2, no. 1, pp. 378-398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Hopkinson, A., 2009, <i>UNIMARC and Metadata: Dublin Core</i>, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Hopkinson, A., 2009, <i>UNIMARC and Metadata: Dublin Core</i>, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, March 27, 2013.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[100]</div><div class="csl-right-inline">International Federation of Library Association and Institutions, 1977, <i>Names of Persons: National Usages for Entry in Catalogues</i>, London: IFLA International Office for UBC.</div>
@@ -423,7 +423,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">O’Brien, J. A., 1994, <i>Introduction to Information Systems</i>, Burr Ridge, IL: Irwin.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>, March 27, 2012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Park, Jung-Ran &#38; Yuji Tosaka, 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8, pp. 696-715.</div>
@@ -477,7 +477,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">1988，《卷 39 乞致仕第一》，《苏魏公文集》下册，北京：中华书局，第590页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">2012, <i>Dublin Core Metadata Element Set: Version 1.1</i>, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>，June 11, 2014.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">2012, <i>Dublin Core Metadata Element Set: Version 1.1</i>, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, June 11, 2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">No date, <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
@@ -888,16 +888,16 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley, Jamie, 2006, “Rule of Law in China: Incremental Progress,” in C. Fred Bergsten, Bates Gill, Nicholas R. Lardy &#38; Derek Mitchell (eds.), <i>China: The Balance Sheet</i>, Public Affairs Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Joyeux-Prunel, Béatrice, <i>L’histoire de l’art et le quantitatif</i>, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Joyeux-Prunel, Béatrice, <i>L’histoire de l’art et le quantitatif</i>, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>, March 17, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Kaufmann, Arthur, 1972, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht,” in Jürgen Baumann (ed.), <i>Das Abtreibungsverbot des § 218 StGB</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">McDonell, Stephen, 2016, <i>When China Began Streaming Trials Online</i>, BBC News, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">McDonell, Stephen, 2016, <i>When China Began Streaming Trials Online</i>, BBC News, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>, July 26, 2022.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Meidenbauer, Martin, <i>Wissenschaftliches Publizieren</i>, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Meidenbauer, Martin, <i>Wissenschaftliches Publizieren</i>, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>, October 10, 2017.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Poisson, Marc, 2015a, “Le droit de la mer,” <i>RGDIP</i>, pp. 15-47.</div>
@@ -1005,7 +1005,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">No date, <i>平成26年版犯罪白書</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022h.</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>, September 1, 2022h.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[86]</div><div class="csl-right-inline">《温家宝主持国务院会议 研究房地产业健康发展措施》，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。</div>
@@ -1053,7 +1053,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">APA Education [@APAEducation], 2018, <i>College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached]</i>, Twitter, <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">APA Style [@APA_Style], <i>Tweets</i>, Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>，November 1, 2019.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">APA Style [@APA_Style], <i>Tweets</i>, Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>, November 1, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Aristotle, 1994, <i>Poetics</i>, trans. by S. H. Butcher, The Internet Classics Archive.</div>
@@ -1398,7 +1398,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Shore, M. F., 2014, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States,” <i>American Journal of Orthopsychiatry</i>, vol. 84, no. 6, pp. 611-618.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute, <i>Home</i>, Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>，July 22, 2019.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute, <i>Home</i>, Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>, July 22, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">SR Research, 2016, <i>Eyelink 1000 Plus</i>, <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
@@ -1416,13 +1416,13 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Tellegen, A. &#38; Y. S. Ben-Porath, 2011, <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>, Report, Pearson.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">The New York Public Library [@nypl], <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>，April 16, 2019.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">The New York Public Library [@nypl], <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>, April 16, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">Travis, C. B. &#38; J. W. White (eds.), 2018, <i>APA Handbook of the Psychology of Women</i>, vol. 1, American Psychological Association.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">U.S. Census Bureau, <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>，July 3, 2019.</div>
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">U.S. Census Bureau, <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>, July 3, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[136]</div><div class="csl-right-inline">U.S. Food and Drug Administration, 2019, <i>FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices</i>, Press release, U.S. Food and Drug Administration.</div>

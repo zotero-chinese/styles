@@ -57,7 +57,7 @@
 <sup>47</sup> 章太炎：《在长沙晨光学校演说》，1925年；转引自汤志钧：《章太炎年谱长编》下册，北京：中华书局，1979年，第823页。<br>
 <sup>48</sup> 戴裔煊：《〈明史·佛郎机传〉笺正》，第26页。<br>
 <sup>49</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，第326页。<br>
-<sup>50</sup> 扬之水：《两宋茶诗与茶事》。<br>
+<sup>50</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网路版试刊）2006年第1期。<br>
 <sup>51</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，第67页。<br>
 
 
@@ -273,9 +273,9 @@
 <sup>39</sup> Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayashi, and Taiga Nakamura, <i>Electronic Watermarking Method and System</i>, US, 2005.<br>
 <sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>41</sup> 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，2005年。<br>
-<sup>42</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.<br>
-<sup>43</sup> Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.<br>
-<sup>44</sup> A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, April 22, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.<br>
+<sup>42</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, March 8, 2013.<br>
+<sup>43</sup> Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>, March 27, 2012.<br>
+<sup>44</sup> A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, April 22, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, March 27, 2013.<br>
 <sup>45</sup> “Coffee Drinking and Cancer of the Pancreas,” <i>British Medical Journal</i>, vol. 283, no. 6292 (1981), p. 628.<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，博士学位论文，中国科学技术大学，2000年。<br>
 <sup>47</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013.<br>
@@ -358,8 +358,8 @@
 <sup>124</sup> 刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭，如何突围？》，《人民日报》2013年1月12日。<br>
 <sup>125</sup> 萧钰：《出版业信息化迈入快车道》，2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>，2002年4月15日。<br>
 <sup>126</sup> 李强：《化解医患矛盾需釜底抽薪》，2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>，2013年3月25日。<br>
-<sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>，March 24, 2013.<br>
-<sup>128</sup> <i>Dublin Core Metadata Element Set: Version 1.1</i>, June 14, 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>，June 11, 2014.<br>
+<sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>, March 24, 2013.<br>
+<sup>128</sup> <i>Dublin Core Metadata Element Set: Version 1.1</i>, June 14, 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>, June 11, 2014.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -516,7 +516,7 @@
 <sup>49</sup> “Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council,” in <i>U.S.</i>, 1984.<br>
 <sup>50</sup> “Roe <i>v.</i> Wade,” in <i>U.S.</i>, 1973.<br>
 <sup>51</sup> <i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i>, no date.<br>
-<sup>52</sup> Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News, September 30, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.<br>
+<sup>52</sup> Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News, September 30, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>, July 26, 2022.<br>
 <sup>53</sup> Marc Chevallier, <i>L’État de droit</i>, Paris: Montchrestien, 2003.<br>
 <sup>54</sup> Marc Poisson, “Le droit de la mer,” <i>RGDIP</i> (2015), pp. 15-47.<br>
 <sup>55</sup> Claire Badiou-Monferran, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle,” <i>La Licorne</i>, no. 43 (1997), pp. 75-94.<br>
@@ -524,7 +524,7 @@
 <sup>57</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Report, Congrès de Marseille, 2016.<br>
 <sup>58</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Rapport de recherche de l’IFREMER, 2016.<br>
 <sup>59</sup> Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, Thèse de doctorat, l’Université de Marseille, 2016.<br>
-<sup>60</sup> Béatrice Joyeux-Prunel, <i>L’histoire de l’art et le quantitatif</i>, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.<br>
+<sup>60</sup> Béatrice Joyeux-Prunel, <i>L’histoire de l’art et le quantitatif</i>, Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>, March 17, 2010.<br>
 <sup>61</sup> Benjamin Vogel, “Rechtsgüterschutz und Normgeltung,” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, vol. 129, no. 3 (December 2017), pp. 629-649.<br>
 <sup>62</sup> Markus Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts,” <i>Juristische Schulung</i>, no. 3 (2012), pp. 234-240.<br>
 <sup>63</sup> Thomas Fischer, “Absurdes Spektakel um den Tod,” <i>Die Zeit</i> (September 29, 2015).<br>
@@ -539,7 +539,7 @@
 <sup>72</sup> “Strauß-Karikatur, Kunstfreiheit,” in <i>BVerfGE</i>, no date.<br>
 <sup>73</sup> In <i>NStZ-RR</i>, 1999.<br>
 <sup>74</sup> In <i>NJW</i>, 2000.<br>
-<sup>75</sup> Martin Meidenbauer, <i>Wissenschaftliches Publizieren</i>, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.<br>
+<sup>75</sup> Martin Meidenbauer, <i>Wissenschaftliches Publizieren</i>, <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>, October 10, 2017.<br>
 <sup>76</sup> 我妻栄, 新訂担保物権法, 有斐閣, 1971.<br>
 <sup>77</sup> 我妻栄 and 有泉亨, 民法総則物権法, 日本評論社, 1950.<br>
 <sup>78</sup> 於保不二雄, “付加物及び従物と抵当権,” 民商法雑誌, vol. 29, no. 5 (1954), p. 1.<br>
@@ -548,7 +548,7 @@
 <sup>81</sup> “約束手形金,” in 最高裁判所民事判例集, 1982.<br>
 <sup>82</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律, no date.<br>
 <sup>83</sup> <i>平成26年版犯罪白書</i>, no date.<br>
-<sup>84</sup> ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022.<br>
+<sup>84</sup> ジュリスト, <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>, September 1, 2022.<br>
 <sup>85</sup> 欧中坦：《千方百计上京城：清朝的京控》，见高道蕴、高鸿钧、贺卫方编：《美国学者论中国法律传统》，谢鹏程译，中国政法大学出版社，1994年。<br>
 <sup>86</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
 
@@ -712,13 +712,13 @@
 <sup>151</sup> APA Education [@APAEducation], <i>College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached]</i>, Twitter, June 29, 2018, <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.<br>
 <sup>152</sup> Badlands National Park [@BadlandsNPS], <i>Biologists Have Identified More than 400 Different Plant Species Growing in @BadlandsNPS #DYK #biodoversity</i>, Twitter, February 26, 2018, <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.<br>
 <sup>153</sup> B. White, <i>I Treasure Every Minute We Spent Together #koko [Image Attached]</i>, Twitter, June 21, 2018, <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.<br>
-<sup>154</sup> APA Style [@APA_Style], <i>Tweets</i>, Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>，November 1, 2019.<br>
+<sup>154</sup> APA Style [@APA_Style], <i>Tweets</i>, Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>, November 1, 2019.<br>
 <sup>155</sup> N. Gaiman, <i>100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached]</i>, Facebook, March 22, 2018, <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.<br>
 <sup>156</sup> National Institute of Mental Health, <i>Suicide Affects All Ages, Genders, Races, and Ethnicities. Check out These 5 Action Steps for Helping Someone in Emotional Pain</i>, Facebook, November 28, 2018, <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>.<br>
 <sup>157</sup> News From Science, <i>These Frogs Walk Instead of Hop. Https://Scimag.2KlriwH</i>, Facebook, June 26, 2018, <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>.<br>
-<sup>158</sup> Smithsonian’s National Zoo and Conservation Biology Institute, <i>Home</i>, Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>，July 22, 2019.<br>
+<sup>158</sup> Smithsonian’s National Zoo and Conservation Biology Institute, <i>Home</i>, Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>, July 22, 2019.<br>
 <sup>159</sup> Zeitz MOCAA [@zeitzmocaa], <i>Grade 6 Learners from Parkfields Primary School in Hanover Park Visited the Museum for a Tour and Workshop Hosted By</i>, Instagram, November 26, 2018, <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.<br>
-<sup>160</sup> The New York Public Library [@nypl], <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>，April 16, 2019.<br>
+<sup>160</sup> The New York Public Library [@nypl], <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>, April 16, 2019.<br>
 <sup>161</sup> National Aeronautics and Space Administration [@nasa], <i>I’m NASA Astronaut Scott Tingle. Ask Me Anything about Adjusting to Being Back on Earth after My First Spaceflight!</i>, Reddit, September 12, 2018, <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>.<br>
 <sup>162</sup> N. Avramova, <i>The Secret to a Long, Happy, Health Life? Think Age-Positive</i>, CNN, January 3, 2019, <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.<br>
 <sup>163</sup> C. Bologna, <i>What Happens to Your Mind and Body When You Feel Homesick?</i>, HuffPost, June 27, 2018, <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.<br>
@@ -727,7 +727,7 @@
 <sup>166</sup> C. M. Martin Lillie, <i>Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency</i>, Mayo Clinic, December 29, 2016, <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
 <sup>167</sup> J. Boddy, T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees, and W. Gibson, <i>Ethics Principles</i>, The research ethics guidebook: A resource for social scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
 <sup>168</sup> National Nurses United, <i>What Employers Should Do to Protect Nurses from Zika</i>, <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
-<sup>169</sup> U.S. Census Bureau, <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>，July 3, 2019.<br>
+<sup>169</sup> U.S. Census Bureau, <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>, July 3, 2019.<br>
 <sup>170</sup> “Brown v. Board of Education,” in <i>U.S.</i>, 1954.<br>
 <sup>171</sup> “Obergefell v. Hodges,” in <i>U.S.</i>, 2015.<br>
 <sup>172</sup> “Daubert v. Merrell Dow Pharmaceuticals, Inc.,” in <i>F.2d</i>, 1991.<br>
