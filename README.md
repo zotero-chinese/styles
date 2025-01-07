@@ -1,9 +1,10 @@
-# GB/T 7714—2015 相关的 CSL 样式
+# 中文 CSL 样式 - Zotero 中文社区
 
-本仓库提供了一系列由 GB/T 7714—2015[^gbt7714] 衍生的 CSL 样式，多数均支持 `et al` 与 `等` 双语混排。
+本仓库提供了一系列中文期刊和学位论文的 CSL 样式，其中大部分是由 GB/T 7714—2015[^gbt7714] 衍生的。
 
 [^gbt7714]: 《[GB/T 7714—2015 信息与文献 参考文献著录规则](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)》（[PDF](http://www.cessp.org.cn/a258.html)）
 
+- 中文 CSL 样式 - Zotero 中文社区：<https://zotero-chinese.com/styles/>
 - GitHub 仓库：<https://github.com/zotero-chinese/styles>
 - Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
 - CSL 官方仓库：<https://github.com/citation-style-language/styles>
@@ -25,8 +26,8 @@
 > [!IMPORTANT]
 > 如果你使用了支持双语混排的样式（中文作者超过 `3` 个为`等`，英文为 `et al.`），你需要在 Zotero 或 JurisM 中为每一个文献条目设置 `语言` 字段。
 >
-> - 对于中文条目，语言可以为 `zh` 或 `zh-CN`；
-> - 对于英文条目，语言可以为 `en` 或 `en-US`；
+> - 对于中文条目，语言可以为 `zh-CN`；
+> - 对于英文条目，语言可以为 `en-US`；
 >
 > 注意：不能是 `English`，`中文` 等！
 >
@@ -47,7 +48,7 @@ Zotero 添加 `csl` 格式文件也可见 <https://zhuanlan.zhihu.com/p/64624484
 
 ## 没有找到符合需要的样式？
 
-请前往 [ISSUE](https://github.com/zotero-chinese/styles/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或请求新的样式。
+请前往 [ISSUE](https://github.com/zotero-chinese/styles/issues/new/choose) 发布一个帖子，反馈已有样式的缺陷或申请新的样式。
 
 注意，请认真完成 ISSUE 模板预置的问题，这些问题可以极大提高我们的处理效率，不完整填写的 ISSUE 将被直接关闭。
 
