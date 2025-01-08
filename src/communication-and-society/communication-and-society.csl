@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="communications"/>
     <issn>1992-1985</issn>
-    <updated>2024-06-18T16:16:07+08:00</updated>
+    <updated>2025-01-08T17:55:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -81,7 +81,7 @@
       <term name="et-al">et al.</term>
     </terms>
   </locale>
-  <locale xml:lang="zh-TW">
+  <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
       <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>

@@ -13,9 +13,14 @@
     <category field="social_science"/>
     <issn>1002-5766</issn>
     <summary>《经济管理》投稿指南（2022年修订）</summary>
-    <updated>2025-01-03T13:29:14+08:00</updated>
+    <updated>2025-01-08T17:54:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="and others">等</term>
+    </terms>
+  </locale>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
@@ -28,11 +33,6 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
-    </terms>
-  </locale>
-  <locale xml:lang="en-US">
-    <terms>
-      <term name="and others">等</term>
     </terms>
   </locale>
   <macro name="author-en">

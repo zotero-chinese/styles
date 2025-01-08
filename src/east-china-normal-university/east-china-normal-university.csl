@@ -13,7 +13,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2024-06-06T13:26:27+08:00</updated>
+    <updated>2025-01-08T17:52:54+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -24,11 +24,6 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
-    </terms>
-  </locale>
-  <locale xml:lang="en-US">
-    <terms>
-      <term name="et-al">et al.</term>
     </terms>
   </locale>
   <macro name="author">

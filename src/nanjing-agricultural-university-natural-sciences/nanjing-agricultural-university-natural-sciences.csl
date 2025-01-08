@@ -17,9 +17,14 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>附件1南京农业大学研究生学位论文格式规范（自然科学类）.pdf（2023-03-21）</summary>
-    <updated>2024-06-19T12:14:13+08:00</updated>
+    <updated>2025-01-08T17:55:12+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
   <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
@@ -35,11 +40,6 @@
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
       <term name="page-range-delimiter">－</term>
-    </terms>
-  </locale>
-  <locale xml:lang="en-US">
-    <terms>
-      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <locale>
