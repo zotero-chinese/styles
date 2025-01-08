@@ -1315,8 +1315,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[104]	DE BEAUVOIR S. 1960. Simone de Beauvoir discusses the art of writing[Z](1960-05-04).
     <div class="csl-block">DE BEAUVOIR S. 1960. Simone de Beauvoir discusses the art of writing[Z](1960-05-04) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[105]	DE BOER D, LAFAVOR T. 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29).
-    <div class="csl-block">DE BOER D, LAFAVOR T. 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29) (In Chinese)</div>
+  <div class="csl-entry">[105]	DE BOER D, LAFAVOR T. 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29).
+    <div class="csl-block">DE BOER D, LAFAVOR T. 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29) (In Chinese)</div>
   </div>
   <div class="csl-entry">[106]	DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, THE MEMBERS OF MIDWIFERY SCIENCE WORK GROUP. 2013. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]，Midwifery, 29(10): 1122-1128. .
     <div class="csl-block">DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, THE MEMBERS OF MIDWIFERY SCIENCE WORK GROUP. 2013. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]，Midwifery, 29(10): 1122-1128. (In Chinese)</div>
@@ -1336,8 +1336,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[111]	FISKE S T, GILBERT D T, LINDZEY G. 2010. Handbook of social psychology[M]. 5 edition. John Wiley &#38; Sons，2010年.
     <div class="csl-block">FISKE S T, GILBERT D T, LINDZEY G. 2010. Handbook of social psychology[M]. 5 edition. John Wiley &#38; Sons，2010年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[112]	FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15).
-    <div class="csl-block">FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15) (In Chinese)</div>
+  <div class="csl-entry">[112]	FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).
+    <div class="csl-block">FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15) (In Chinese)</div>
   </div>
   <div class="csl-entry">[113]	FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books，2010年.
     <div class="csl-block">FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books，2010年 (In Chinese)</div>
@@ -1429,8 +1429,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[142]	MACK R, SPAKE G. 2018. Citing open source images and formatting references for presentations[Z].
     <div class="csl-block">MACK R, SPAKE G. 2018. Citing open source images and formatting references for presentations[Z] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[143]	MADDOX S, HURLING J, STEWART E, EDWARDS A. 2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02).
-    <div class="csl-block">MADDOX S, HURLING J, STEWART E, EDWARDS A. 2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02) (In Chinese)</div>
+  <div class="csl-entry">[143]	MADDOX S, HURLING J, STEWART E, EDWARDS A. 2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02).
+    <div class="csl-block">MADDOX S, HURLING J, STEWART E, EDWARDS A. 2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02) (In Chinese)</div>
   </div>
   <div class="csl-entry">[144]	MADIGAN S. 2019. Narrative therapy[M]. 2 edition. American Psychological Association，2019年.
     <div class="csl-block">MADIGAN S. 2019. Narrative therapy[M]. 2 edition. American Psychological Association，2019年 (In Chinese)</div>
@@ -1489,8 +1489,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[162]	PACHUR T, SCHEIBEHENNE B. [no date]. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]，Psychonomic Bulletin &#38; Review.
     <div class="csl-block">PACHUR T, SCHEIBEHENNE B. [no date]. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]，Psychonomic Bulletin &#38; Review (In Chinese)</div>
   </div>
-  <div class="csl-entry">[163]	PEARSON J. 2018. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30).
-    <div class="csl-block">PEARSON J. 2018. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30) (In Chinese)</div>
+  <div class="csl-entry">[163]	PEARSON J. 2018. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30).
+    <div class="csl-block">PEARSON J. 2018. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30) (In Chinese)</div>
   </div>
   <div class="csl-entry">[164]	PERKINS D. 2018. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL](2018-02-01).
     <div class="csl-block">PERKINS D. 2018. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL](2018-02-01) (In Chinese)</div>

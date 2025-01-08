@@ -1316,7 +1316,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z](1960-05-04).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29).</div>
+    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[106]</div><div class="csl-right-inline">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.</div>
@@ -1337,7 +1337,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology[M]. 5. John Wiley &#38; Sons, 2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15).</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Freud S. The interpretation of dreams: The complete and definitive text[M]. Basic Books, 2010.</div>
@@ -1430,7 +1430,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[142]</div><div class="csl-right-inline">Mack R, Spake G. Citing open source images and formatting references for presentations[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02).</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[144]</div><div class="csl-right-inline">Madigan S. Narrative therapy[M]. 2. American Psychological Association, 2019.</div>
@@ -1490,7 +1490,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[162]</div><div class="csl-right-inline">Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review, [no date].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30).</div>
+    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[164]</div><div class="csl-right-inline">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL](2018-02-01).</div>

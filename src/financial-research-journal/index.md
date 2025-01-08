@@ -1316,7 +1316,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">de Beauvoir, S. 1960. “Simone de Beauvoir Discusses the Art of Writing”(1960-05-04).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">De Boer, D. and T. LaFavor. 2018. “The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach”(2018-04-26–29).</div>
+    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">De Boer, D. and T. LaFavor. 2018. “The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach”(2018-04-26/29).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[106]</div><div class="csl-right-inline">De Vries, R., M. Nieuwenhuijze, S.E. Buitendijk, and the members of Midwifery Science Work Group. 2013. “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, 29(10): pp.1122~1128.</div>
@@ -1337,7 +1337,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fiske, S.T., D.T. Gilbert, and G. Lindzey. 2010. “Handbook of Social Psychology”. 5 edition. John Wiley &#38; Sons.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Fistek, A., E. Jester, and K. Sonnenberg. 2017. “Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate”(2017-07-12–15).</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Fistek, A., E. Jester, and K. Sonnenberg. 2017. “Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate”(2017-07-12/15).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Freud, S. 2010. “The Interpretation of Dreams: The Complete and Definitive Text.” Strachey J, ed. &#38; tran.. Basic Books.</div>
@@ -1430,7 +1430,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[142]</div><div class="csl-right-inline">Mack, R. and G. Spake. 2018. “Citing Open Source Images and Formatting References for Presentations.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Maddox, S., J. Hurling, E. Stewart, and A. Edwards. 2016. “If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children”(2016-03-30–04-02).</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Maddox, S., J. Hurling, E. Stewart, and A. Edwards. 2016. “If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children”(2016-03-30/04-02).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[144]</div><div class="csl-right-inline">Madigan, S. 2019. “Narrative Therapy”. 2 edition. American Psychological Association.</div>
@@ -1490,7 +1490,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[162]</div><div class="csl-right-inline">Pachur, T. and B. Scheibehenne. [no date]. “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach,” <i>Psychonomic Bulletin &#38; Review</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">Pearson, J. 2018. “Fat Talk and Its Effects on State-Based Body Image in Women”(2018-09-27–30).</div>
+    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">Pearson, J. 2018. “Fat Talk and Its Effects on State-Based Body Image in Women”(2018-09-27/30).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[164]</div><div class="csl-right-inline">Perkins, D. 2018. “<i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile”(2018-02-01).</div>

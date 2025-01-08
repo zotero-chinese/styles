@@ -1215,7 +1215,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. . (2017) . <a href="https://www.apa.org/ethics/code/index.aspx">https://www.apa.org/ethics/code/index.aspx</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair. . (2015–[2020]) . <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair. . (2015/[2020]) . <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein. . (2013) . <a href="https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf">https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf</a>.</div>
@@ -1227,16 +1227,16 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration. . (2019-02-14) . <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek et al. (2017-07-12–15).</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek et al. (2017-07-12/15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Maddox et al. (2016-03-30–04-02).</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Maddox et al. (2016-03-30/04-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson. (2018-09-27–30).</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson. (2018-09-27/30).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer et al. (2018-04-26–29).</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer et al. (2018-04-26/29).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Harris. . University of Virginia, 2014.</div>

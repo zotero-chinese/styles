@@ -1227,16 +1227,16 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration. 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15).</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Maddox S, Hurling J, Stewart E, Edwards A. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02).</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Maddox S, Hurling J, Stewart E, Edwards A. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30).</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29).</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>

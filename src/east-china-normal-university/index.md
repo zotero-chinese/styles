@@ -501,14 +501,14 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Christian B, Griffiths T. Algorithms to live by: The computer science of human decisions[M]. Henry Holt and Co., 2016</div>
   <div class="csl-entry">Cuellar N G. Study abroad programs[J]. Journal of Transcultural Nursing, 2016, 27(3): 209</div>
   <div class="csl-entry">de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z](1960-05-04)</div>
-  <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29)</div>
+  <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29)</div>
   <div class="csl-entry">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122–1128</div>
   <div class="csl-entry">Delacroix E. Faust attempts to seduce Marguerite[Z]</div>
   <div class="csl-entry">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS]. ICPSR, 2018</div>
   <div class="csl-entry">Epocrates. Epocrates medical references[Z]. App Store, 2019a</div>
   <div class="csl-entry">Epocrates. Interaction Check: Aspirin + Sertraline[Z]. Google Play Store, 2019b</div>
   <div class="csl-entry">Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology[M]. 5 edition. John Wiley &#38; Sons, 2010</div>
-  <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15)</div>
+  <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15)</div>
   <div class="csl-entry">Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books, 2010</div>
   <div class="csl-entry">Fried D, Polyakova A. Democratic defense against disinformation[R]. Atlantic Council, 2018</div>
   <div class="csl-entry">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][Z](2018-03-22)</div>
@@ -539,7 +539,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013</div>
   <div class="csl-entry">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]</div>
   <div class="csl-entry">Mack R, Spake G. Citing open source images and formatting references for presentations[Z]</div>
-  <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02)</div>
+  <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02)</div>
   <div class="csl-entry">Madigan S. Narrative therapy[M]. 2 edition. American Psychological Association, 2019</div>
   <div class="csl-entry">Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency[EB](2016-12-29)</div>
   <div class="csl-entry">McCauley S M, Christiansen M H. Language learning as language use: A cross-linguistic model of child language development[J]. Psychological Review, 2019, 126(1): 1–51</div>
@@ -559,7 +559,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Oregan Youth Authority. Recidivism outcomes[DS]</div>
   <div class="csl-entry">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z]</div>
   <div class="csl-entry">Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review, [no date]</div>
-  <div class="csl-entry">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30)</div>
+  <div class="csl-entry">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30)</div>
   <div class="csl-entry">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB](2018-02-01)</div>
   <div class="csl-entry">Pew Research Center. American trends panel Wave 26[DS]</div>
   <div class="csl-entry">Piaget J. Intellectual evolution from adolescence to adulthood[J]. Human Development, 1972, 15(1): 1–12</div>

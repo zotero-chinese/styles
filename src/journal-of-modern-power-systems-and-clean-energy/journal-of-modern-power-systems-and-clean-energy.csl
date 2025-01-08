@@ -59,12 +59,12 @@
       <if type="article-journal report" match="any">
         <date variable="issued">
           <date-part name="month" form="short" suffix=" "/>
-          <date-part name="year" form="long"/>
+          <date-part name="year"/>
         </date>
       </if>
       <else-if type="bill book chapter graphic legal_case legislation song thesis" match="any">
         <date variable="issued">
-          <date-part name="year" form="long"/>
+          <date-part name="year"/>
         </date>
       </else-if>
       <else-if type="paper-conference">

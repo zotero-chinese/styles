@@ -165,9 +165,9 @@
     <choose>
       <if variable="issued">
         <date variable="issued" delimiter="-">
-          <date-part name="year"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
+          <date-part name="year" range-delimiter="/"/>
+          <date-part name="month" form="numeric-leading-zeros" range-delimiter="/"/>
+          <date-part name="day" form="numeric-leading-zeros" range-delimiter="/"/>
         </date>
       </if>
       <else>
@@ -177,9 +177,9 @@
   </macro>
   <macro name="accessed-date">
     <date variable="accessed" delimiter="-" prefix="[" suffix="]">
-      <date-part name="year"/>
-      <date-part name="month" form="numeric-leading-zeros"/>
-      <date-part name="day" form="numeric-leading-zeros"/>
+      <date-part name="year" range-delimiter="/"/>
+      <date-part name="month" form="numeric-leading-zeros" range-delimiter="/"/>
+      <date-part name="day" form="numeric-leading-zeros" range-delimiter="/"/>
     </date>
   </macro>
   <macro name="entry-layout">

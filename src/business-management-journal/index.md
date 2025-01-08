@@ -454,10 +454,10 @@
   <div class="csl-entry">[81] Lichtenstein J. Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82] Harwell M. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change[R]. National Education Policy Center, 2018.</div>
   <div class="csl-entry">[83] U.S. Food and Drug Administration. FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices[R]. U.S. Food and Drug Administration, 2019.</div>
-  <div class="csl-entry">[84] Fistek A., E. Jester, and K. Sonnenberg. Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate[Z](2017-07-12–15).</div>
-  <div class="csl-entry">[85] Maddox S., J. Hurling, E. Stewart, et al. If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children[Z](2016-03-30–04-02).</div>
-  <div class="csl-entry">[86] Pearson J. Fat Talk and Its Effects on State-Based Body Image in Women[Z](2018-09-27–30).</div>
-  <div class="csl-entry">[87] De Boer D. and T. LaFavor. The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach[Z](2018-04-26–29).</div>
+  <div class="csl-entry">[84] Fistek A., E. Jester, and K. Sonnenberg. Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate[Z](2017-07-12/15).</div>
+  <div class="csl-entry">[85] Maddox S., J. Hurling, E. Stewart, et al. If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children[Z](2016-03-30/04-02).</div>
+  <div class="csl-entry">[86] Pearson J. Fat Talk and Its Effects on State-Based Body Image in Women[Z](2018-09-27/30).</div>
+  <div class="csl-entry">[87] De Boer D. and T. LaFavor. The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach[Z](2018-04-26/29).</div>
   <div class="csl-entry">[88] Harris L. Instructional Leadership Perceptions and Practices of Elementary School Leaders[D]. University of Virginia, 2014.</div>
   <div class="csl-entry">[89] Hollander M. M. Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90] Hutcheson V. H. Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents[D]. The College of William &#38; Mary, 2012.</div>

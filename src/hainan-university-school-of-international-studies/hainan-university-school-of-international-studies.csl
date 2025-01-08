@@ -468,18 +468,18 @@
           </if>
           <else>
             <date variable="issued">
-              <date-part name="year" form="long"/>
-              <date-part name="month" form="numeric-leading-zeros"/>
-              <date-part name="day" form="numeric-leading-zeros"/>
+              <date-part name="year"/>
+              <date-part name="month" form="numeric-leading-zeros" range-delimiter="/"/>
+              <date-part name="day" form="numeric-leading-zeros" range-delimiter="/"/>
             </date>
           </else>
         </choose>
       </else-if>
       <else>
         <date variable="issued">
-          <date-part name="year" form="long"/>
-          <date-part name="month" form="numeric-leading-zeros"/>
-          <date-part name="day" form="numeric-leading-zeros"/>
+          <date-part name="year"/>
+          <date-part name="month" form="numeric-leading-zeros" range-delimiter="/"/>
+          <date-part name="day" form="numeric-leading-zeros" range-delimiter="/"/>
         </date>
       </else>
     </choose>

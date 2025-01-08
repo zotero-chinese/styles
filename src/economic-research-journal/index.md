@@ -501,14 +501,14 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Christian, B., and T. Griffiths, 2016, “Algorithms to Live by: The Computer Science of Human Decisions”. Henry Holt and Co.</div>
   <div class="csl-entry">Cuellar, N. G., 2016, “Study Abroad Programs”, <i>Journal of Transcultural Nursing</i>, 27(3), 209.</div>
   <div class="csl-entry">de Beauvoir, S., 1960, “Simone de Beauvoir Discusses the Art of Writing”(1960-05-04).</div>
-  <div class="csl-entry">De Boer, D., and T. LaFavor, 2018, “The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach”(2018-04-26–29).</div>
+  <div class="csl-entry">De Boer, D., and T. LaFavor, 2018, “The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach”(2018-04-26/29).</div>
   <div class="csl-entry">De Vries, R., M. Nieuwenhuijze, S. E. Buitendijk, and the members of Midwifery Science Work Group, 2013, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, 29(10), 1122—1128.</div>
   <div class="csl-entry">Delacroix, E., 1826–1827, “Faust Attempts to Seduce Marguerite”.</div>
   <div class="csl-entry">D’Souza, A., and M. Wiseheart, 2018, “Cognitive Effects of Music and Dance Training in Children”. ICPSR.</div>
   <div class="csl-entry">Epocrates, 2019a, “Epocrates Medical References”. App Store.</div>
   <div class="csl-entry">Epocrates, 2019b, “Interaction Check: Aspirin + Sertraline”. Google Play Store.</div>
   <div class="csl-entry">Fiske, S. T., D. T. Gilbert, and G. Lindzey, 2010, “Handbook of Social Psychology”. 5 edition. John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Fistek, A., E. Jester, and K. Sonnenberg, 2017, “Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate”(2017-07-12–15).</div>
+  <div class="csl-entry">Fistek, A., E. Jester, and K. Sonnenberg, 2017, “Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate”(2017-07-12/15).</div>
   <div class="csl-entry">Freud, S., 2010, “The Interpretation of Dreams: The Complete and Definitive Text”. Strachey, J., ed. &#38; tran.. Basic Books.</div>
   <div class="csl-entry">Fried, D., and A. Polyakova, 2018, “Democratic Defense against Disinformation”, Atlantic Council.</div>
   <div class="csl-entry">Gaiman, N., 2018, “100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached]”(2018-03-22).</div>
@@ -539,7 +539,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Lichtenstein, J., 2013, “Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses”, U.S. Small Business Administration, Office of Advocacy Issue brief, No. 1.</div>
   <div class="csl-entry">Lippincott, T., and E. K. Poindexter, 2019, “Emotion Recognition as a Function of Facial Cues: Implications for Practice”.</div>
   <div class="csl-entry">Mack, R., and G. Spake, 2018, “Citing Open Source Images and Formatting References for Presentations”.</div>
-  <div class="csl-entry">Maddox, S., J. Hurling, E. Stewart, and A. Edwards, 2016, “If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children”(2016-03-30–04-02).</div>
+  <div class="csl-entry">Maddox, S., J. Hurling, E. Stewart, and A. Edwards, 2016, “If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children”(2016-03-30/04-02).</div>
   <div class="csl-entry">Madigan, S., 2019, “Narrative Therapy”. 2 edition. American Psychological Association.</div>
   <div class="csl-entry">Martin Lillie, C. M., 2016, “Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency”(2016-12-29).</div>
   <div class="csl-entry">McCauley, S. M., and M. H. Christiansen, 2019, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, 126(1), 1—51.</div>
@@ -559,7 +559,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Oregan Youth Authority, 2011, “Recidivism Outcomes”.</div>
   <div class="csl-entry">O’Shea, M., 2018, “Understanding Proactive Behavior in the Workplace as a Function of Gender”.</div>
   <div class="csl-entry">Pachur, T., and B. Scheibehenne, [no date], “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach”, <i>Psychonomic Bulletin &#38; Review</i>.</div>
-  <div class="csl-entry">Pearson, J., 2018, “Fat Talk and Its Effects on State-Based Body Image in Women”(2018-09-27–30).</div>
+  <div class="csl-entry">Pearson, J., 2018, “Fat Talk and Its Effects on State-Based Body Image in Women”(2018-09-27/30).</div>
   <div class="csl-entry">Perkins, D., 2018, “<i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile”(2018-02-01).</div>
   <div class="csl-entry">Pew Research Center, 2018, “American Trends Panel Wave 26”.</div>
   <div class="csl-entry">Piaget, J., 1972, “Intellectual Evolution from Adolescence to Adulthood”, <i>Human Development</i>, 15(1), 1—12.</div>

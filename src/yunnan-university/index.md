@@ -501,14 +501,14 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">CHRISTIAN B, GRIFFITHS T. 2016. Algorithms to live by: The computer science of human decisions[M]. Henry Holt and Co.</div>
   <div class="csl-entry">CUELLAR N G. 2016. Study abroad programs[J]. Journal of Transcultural Nursing. 27(3): 209.</div>
   <div class="csl-entry">DE BEAUVOIR S. 1960. Simone de Beauvoir discusses the art of writing[Z](1960-05-04).</div>
-  <div class="csl-entry">DE BOER D, LAFAVOR T. 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29).</div>
+  <div class="csl-entry">DE BOER D, LAFAVOR T. 2018. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29).</div>
   <div class="csl-entry">DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, et al. 2013. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery. 29(10): 1122–1128.</div>
   <div class="csl-entry">DELACROIX E. 1826–1827. Faust attempts to seduce Marguerite[Z].</div>
   <div class="csl-entry">D’SOUZA A, WISEHEART M. 2018. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR.</div>
   <div class="csl-entry">EPOCRATES. 2019a. Epocrates medical references[Z]. App Store.</div>
   <div class="csl-entry">EPOCRATES. 2019b. Interaction Check: Aspirin + Sertraline[Z]. Google Play Store.</div>
   <div class="csl-entry">FISKE S T, GILBERT D T, LINDZEY G. 2010. Handbook of social psychology[M]. 5 edition. John Wiley &#38; Sons.</div>
-  <div class="csl-entry">FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15).</div>
+  <div class="csl-entry">FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).</div>
   <div class="csl-entry">FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books.</div>
   <div class="csl-entry">FRIED D, POLYAKOVA A. 2018. Democratic defense against disinformation[R]. Atlantic Council.</div>
   <div class="csl-entry">GAIMAN N. 2018. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][Z](2018-03-22).</div>
@@ -539,7 +539,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">LICHTENSTEIN J. 2013. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy.</div>
   <div class="csl-entry">LIPPINCOTT T, POINDEXTER E K. 2019. Emotion recognition as a function of facial cues: Implications for practice[Z].</div>
   <div class="csl-entry">MACK R, SPAKE G. 2018. Citing open source images and formatting references for presentations[Z].</div>
-  <div class="csl-entry">MADDOX S, HURLING J, STEWART E, et al. 2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02).</div>
+  <div class="csl-entry">MADDOX S, HURLING J, STEWART E, et al. 2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02).</div>
   <div class="csl-entry">MADIGAN S. 2019. Narrative therapy[M]. 2 edition. American Psychological Association.</div>
   <div class="csl-entry">MARTIN LILLIE C M. 2016. Be kind to yourself: How self-compassion can improve your resiliency[EB](2016-12-29).</div>
   <div class="csl-entry">MCCAULEY S M, CHRISTIANSEN M H. 2019. Language learning as language use: A cross-linguistic model of child language development[J]. Psychological Review. 126(1): 1–51.</div>
@@ -559,7 +559,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">OREGAN YOUTH AUTHORITY. 2011. Recidivism outcomes[DS].</div>
   <div class="csl-entry">O’SHEA M. 2018. Understanding proactive behavior in the workplace as a function of gender[Z].</div>
   <div class="csl-entry">PACHUR T, SCHEIBEHENNE B. [no date]. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review.</div>
-  <div class="csl-entry">PEARSON J. 2018. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30).</div>
+  <div class="csl-entry">PEARSON J. 2018. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30).</div>
   <div class="csl-entry">PERKINS D. 2018. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB](2018-02-01).</div>
   <div class="csl-entry">PEW RESEARCH CENTER. 2018. American trends panel Wave 26[DS].</div>
   <div class="csl-entry">PIAGET J. 1972. Intellectual evolution from adolescence to adulthood[J]. Human Development. 15(1): 1–12.</div>

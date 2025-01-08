@@ -818,10 +818,10 @@
   <div class="csl-entry">[81] LICHTENSTEIN J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82] HARWELL M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center, 2018.</div>
   <div class="csl-entry">[83] U.S. FOOD AND DRUG ADMINISTRATION. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration, 2019.</div>
-  <div class="csl-entry">[84] FISTEK A, JESTER E, SONNENBERG K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15).</div>
-  <div class="csl-entry">[85] MADDOX S, HURLING J, STEWART E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02).</div>
-  <div class="csl-entry">[86] PEARSON J. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30).</div>
-  <div class="csl-entry">[87] DE BOER D, LAFAVOR T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29).</div>
+  <div class="csl-entry">[84] FISTEK A, JESTER E, SONNENBERG K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).</div>
+  <div class="csl-entry">[85] MADDOX S, HURLING J, STEWART E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02).</div>
+  <div class="csl-entry">[86] PEARSON J. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30).</div>
+  <div class="csl-entry">[87] DE BOER D, LAFAVOR T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29).</div>
   <div class="csl-entry">[88] HARRIS L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>
   <div class="csl-entry">[89] HOLLANDER M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">[90] HUTCHESON V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary, 2012.</div>
