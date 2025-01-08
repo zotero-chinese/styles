@@ -14,7 +14,7 @@
     <category field="law"/>
     <issn>1002-4875</issn>
     <summary>《中外法学》注释体例</summary>
-    <updated>2025-01-03T19:06:33+08:00</updated>
+    <updated>2025-01-08T15:54:47+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -62,7 +62,7 @@
     <terms>
       <term name="article-locator" form="short">条</term>  <!-- 《宪法》第十八条翻译为“Article 18” -->
       <term name="book" form="short">编</term>  <!-- 《民法典》第一编翻译为“Book One” -->
-      <term name="accessed">访问</term>
+      <term name="accessed">最后访问日期</term>
       <term name="compiler">整理</term>
       <term name="compiler" form="short">整理</term>
       <term name="edition" form="short">版</term>
@@ -161,18 +161,14 @@
       <if variable="URL">
         <group delimiter=" ">
           <text variable="URL"/>
-          <choose>
-            <if variable="issued" match="none">
-              <group prefix="(" suffix=")">
-                <text term="accessed" suffix=" "/>
-                <date variable="accessed">
-                  <date-part name="month" form="short" suffix=" "/>
-                  <date-part name="day" suffix=", "/>
-                  <date-part name="year"/>
-                </date>
-              </group>
-            </if>
-          </choose>
+          <group prefix="(" suffix=")">
+            <text term="accessed" suffix=" "/>
+            <date variable="accessed">
+              <date-part name="month" suffix=" "/>
+              <date-part name="day" suffix=" "/>
+              <date-part name="year"/>
+            </date>
+          </group>
         </group>
       </if>
     </choose>
@@ -185,9 +181,9 @@
           <choose>
             <!-- 一般不要求注明“访问日期”。网页没有显示上传日期的，引用时可以标注最后访问日期 -->
             <if variable="issued" match="none">
-              <group>
-                <date variable="accessed" form="text"/>
+              <group delimiter="：">
                 <text term="accessed"/>
+                <date variable="accessed" form="text"/>
               </group>
             </if>
           </choose>
@@ -425,10 +421,7 @@
         <else-if type="post post-weblog webpage" match="any">
           <group delimiter=", ">
             <text macro="title-en"/>
-            <group delimiter=" ">
-              <text macro="container-en"/>
-              <text macro="issuance-en" prefix="(" suffix=")"/>
-            </group>
+            <text macro="issuance-en"/>
             <text macro="access-en"/>
           </group>
         </else-if>
@@ -646,7 +639,7 @@
         <text variable="title"/>
       </else-if>
       <else-if type="post post-weblog webpage" match="any">
-        <text variable="title" quotes="true"/>
+        <text variable="title" text-case="title" quotes="true"/>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper chapter paper-conference" variable="container-title" match="any">
         <text variable="title" text-case="title" quotes="true"/>
@@ -658,16 +651,8 @@
   </macro>
   <macro name="title-zh">
     <choose>
-      <if type="webpage">
-        <choose>
-          <if variable="container-title">
-            <text variable="title" prefix="《" suffix="》"/>
-          </if>
-          <else>
-            <text variable="title"/>
-          </else>
-        </choose>
-        <text macro="edition-zh" prefix="（" suffix="）"/>
+      <if type="legal_case">
+        <text variable="title"/>
       </if>
       <else-if type="legislation treaty" match="any">
         <text variable="title" form="short" prefix="《" suffix="》"/>
@@ -699,8 +684,11 @@
           </choose>
         </group>
       </else-if>
-      <else-if type="legal_case">
-        <text variable="title"/>
+      <else-if type="post post-weblog webpage">
+        <text variable="title" prefix="《" suffix="》"/>
+      </else-if>
+      <else-if type="article-journal article-magazine article-newspaper chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+        <text variable="title" quotes="true"/>
       </else-if>
       <else>
         <text variable="title" prefix="《" suffix="》"/>
@@ -877,17 +865,21 @@
             <text macro="issue-zh"/>
           </else-if>
           <else>
-            <text variable="authority"/>
-            <choose>
-              <if variable="genre">
-                <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
-                <text variable="genre"/>
-              </if>
-              <else>
-                <text value="判决书"/>
-              </else>
-            </choose>
-            <text variable="number"/>
+            <group delimiter="，">
+              <group>
+                <text variable="authority"/>
+                <choose>
+                  <if variable="genre">
+                    <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
+                    <text variable="genre"/>
+                  </if>
+                  <else>
+                    <text value="判决书"/>
+                  </else>
+                </choose>
+              </group>
+              <text variable="number"/>
+            </group>
           </else>
         </choose>
       </else-if>
@@ -1109,20 +1101,8 @@
   <macro name="locator-en">
     <choose>
       <if is-numeric="locator">
-        <choose>
-          <if type="article-journal">
-            <!-- 采用期刊卷数和文章首页页码分别标注在期刊名称前后的，文章特定内容的页码前不加 p.，逗号后直接写页码。 -->
-            <text variable="locator"/>
-          </if>
-          <else-if type="article-newspaper">
-            <text term="at" suffix=" "/>
-            <text variable="locator"/>
-          </else-if>
-          <else>
-            <label variable="locator" form="short" suffix=" "/>
-            <text variable="locator"/>
-          </else>
-        </choose>
+        <label variable="locator" form="short" suffix=" "/>
+        <text variable="locator"/>
       </if>
       <else>
         <text variable="locator"/>

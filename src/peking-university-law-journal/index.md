@@ -10,12 +10,12 @@
 
 <sup>1</sup> 库恩：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京大学出版社2012年版。<br>
 <sup>2</sup> Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
-<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
+<sup>3</sup> 贾东琴、柯平：“面向数字素养的高校图书馆数字服务体系研究”，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
 <sup>4</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.<br>
-<sup>5</sup> 武丽丽、华一新等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期。<br>
+<sup>5</sup> 武丽丽、华一新等：“‘北斗一号’监控管理网设计与实现”，《测绘科学》2008年第5期。<br>
 <sup>6</sup> Alexander A. Myburg et al., “The Genome of Eucalyptus Grandis,” <i>Nature</i>, Vol. 510, 2014, pp. 356-362.<br>
 <sup>7</sup> Ibid.<br>
-<sup>8</sup> Ibid., 357.<br>
+<sup>8</sup> Ibid., p. 357.<br>
 <sup>9</sup> See Xuetong Fan et al., supra note 2, pp. 326-329.<br>
 
 
@@ -29,13 +29,13 @@
     <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。</div>
+    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">贾东琴、柯平：“面向数字素养的高校图书馆数字服务体系研究”，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期。</div>
+    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏：“‘北斗一号’监控管理网设计与实现”，《测绘科学》2008年第5期。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">Alexander A. Myburg et al., “The Genome of Eucalyptus Grandis,” <i>Nature</i>, Vol. 510, 2014, pp. 356-362.</div>
@@ -46,7 +46,7 @@
 
 ### 引注
 
-<sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, Vol. 96, 1996, 903.<br>
+<sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, Vol. 96, 1996, p. 903.<br>
 <sup>2</sup> Ian Morris, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p. 260.<br>
 <sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
 <sup>4</sup> See Ian Morris, supra note 2, pp. 326-329.<br>
@@ -78,21 +78,21 @@
 <sup>15</sup> Sergey A. Yufin (ed.), <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>16</sup> Peter Baldock, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press, 2011.<br>
 <sup>17</sup> Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
-<sup>18</sup> 王夫之主编：《周易外传：卷 5》，载《船山全书》第 6 册，岳麓书社2011年版。<br>
-<sup>19</sup> 程根伟：《1998 年长江洪水的成因与减灾对策》，载许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，科学出版社1999年版。<br>
-<sup>20</sup> 陈晋镳、张惠民等：《蓟县震旦亚界的研究》，载中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版。<br>
-<sup>21</sup> 马克思：《政治经济学批判》，载马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，人民出版社2013年版。<br>
-<sup>22</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
+<sup>18</sup> 王夫之主编：“周易外传：卷 5”，载《船山全书》第 6 册，岳麓书社2011年版。<br>
+<sup>19</sup> 程根伟：“1998 年长江洪水的成因与减灾对策”，载许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，科学出版社1999年版。<br>
+<sup>20</sup> 陈晋镳、张惠民等：“蓟县震旦亚界的研究”，载中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版。<br>
+<sup>21</sup> 马克思：“政治经济学批判”，载马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，人民出版社2013年版。<br>
+<sup>22</sup> 贾东琴、柯平：“面向数字素养的高校图书馆数字服务体系研究”，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
 <sup>23</sup> L. Weinstein &#38; M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in W. A. Sodeman Jr. &#38; W. A. Sodeman eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974.<br>
 <sup>24</sup> J. Alan Roberson &#38; Eric G. Burneson, “Drinking Water Standards, Regulations, and Goals,” in American Water Works Association ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》（第1卷），中华医学会湖北分会1984年版。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京图书馆1957年版。<br>
 <sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>28</sup> 袁训来、陈哲等：《蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》2012年第34期。<br>
-<sup>29</sup> 余建斌：《我们的科技一直在追赶：访中国工程院院长周济》，载《人民日报》2013年1月12日，第2版。<br>
-<sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》2008年第6期。<br>
-<sup>31</sup> 李幼平、王莉：《循证医学研究方法：附视频》，《中华移植杂志（电子版）》2010年第3期。<br>
-<sup>32</sup> 武丽丽、华一新等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期。<br>
+<sup>28</sup> 袁训来、陈哲等：“蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口”，《科学通报》2012年第34期。<br>
+<sup>29</sup> 余建斌：“我们的科技一直在追赶：访中国工程院院长周济”，载《人民日报》2013年1月12日，第2版。<br>
+<sup>30</sup> 李炳穆：“韩国图书馆法”，《图书情报工作》2008年第6期。<br>
+<sup>31</sup> 李幼平、王莉：“循证医学研究方法：附视频”，《中华移植杂志（电子版）》2010年第3期。<br>
+<sup>32</sup> 武丽丽、华一新等：“‘北斗一号’监控管理网设计与实现”，《测绘科学》2008年第5期。<br>
 <sup>33</sup> H. Kanamori, “Shaking without Quaking,” <i>Science</i>, Vol. 279, No. 5359, 1998, p. 2063.<br>
 <sup>34</sup> Priscilla Caplan, “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, Vol. 4, No. 2, 1993, pp. 61-66.<br>
 <sup>35</sup> Karen S. Frese, Hugo A. Katus &#38; Benjamin Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine,” <i>Biology</i>, Vol. 2, No. 1, 2013, pp. 378-398.<br>
@@ -102,9 +102,9 @@
 <sup>39</sup> Ryuki Tachibana et al., <i>Electronic Watermarking Method and System</i>, US, 2005.<br>
 <sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年1月16日。<br>
 <sup>41</sup> 《关于转发北京市企业投资项目核准暂行实施办法的通知》，京政办发［2005］37 号。<br>
-<sup>42</sup> D. Bawden, “Origins and concepts of digital literacy,” (4 May 2008), <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
-<sup>43</sup> Online Computer Library Center, Inc., “About OCLC: History of cooperation,” <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited Mar. 27, 2012).<br>
-<sup>44</sup> A. Hopkinson, “UNIMARC and metadata: Dublin Core,” (22 April 2009), <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
+<sup>42</sup> D. Bawden, “Origins and Concepts of Digital Literacy,” 4 May 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (last visited March 8 2013).<br>
+<sup>43</sup> Online Computer Library Center, Inc., “About OCLC: History of Cooperation,” <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (last visited March 27 2012).<br>
+<sup>44</sup> A. Hopkinson, “UNIMARC and Metadata: Dublin Core,” 22 April 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> (last visited March 27 2013).<br>
 <sup>45</sup> “Coffee Drinking and Cancer of the Pancreas,” <i>British Medical Journal</i>, Vol. 283, No. 6292, 1981, p. 628.<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学2000年博士学位论文。<br>
 <sup>47</sup> William Deverell &#38; David Igler (eds.), <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013.<br>
@@ -112,7 +112,7 @@
 <sup>49</sup> B. E. Chernik, <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
 <sup>50</sup> 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海南出版社1996年版。<br>
 <sup>51</sup> 汪冰：《电子图书馆理论与实践研究》，北京图书馆出版社1997年版。<br>
-<sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
+<sup>52</sup> 杨宗英：“电子图书馆的现实模型”，《中国图书馆学报》1996年第2期。<br>
 <sup>53</sup> Lawrence Dowler, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment,” <i>Journal of Library Administration</i>, Vol. 21, No. 1/2, 1995, pp. 5-26.<br>
 <sup>54</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, Vol. 96, 1996, p. 903.<br>
 <sup>55</sup> Ian Morris, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
@@ -120,14 +120,14 @@
 <sup>57</sup> 陈登原：《国史旧闻》（第 1 卷），中华书局2000年版。<br>
 <sup>58</sup> Diana Crane, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.<br>
 <sup>59</sup> Margaret F. Stieg, “The Information Needs of Historians,” <i>College &#38; Research Libraries</i>, Vol. 42, No. 6, 1981, pp. 549-560.<br>
-<sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报（社会科学版）》2010年第4期。<br>
-<sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史背景》，载曹志耘主编：《汉语方言的地理语言学研究》，商务印书馆2010年版。<br>
+<sup>60</sup> 王临惠、支建刚、王忠一：“天津方言的源流关系刍议”，《山西师范大学学报（社会科学版）》2010年第4期。<br>
+<sup>61</sup> 王临惠：“从几组声母的演变看天津方言形成的自然条件和历史背景”，载曹志耘主编：《汉语方言的地理语言学研究》，商务印书馆2010年版。<br>
 <sup>62</sup> William James Kennedy &#38; Robert E. Garrison, “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England,” <i>Sedimentology</i>, Vol. 22, 1975, p. 311.<br>
 <sup>63</sup> William James Kennedy &#38; Robert E. Garrison, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England,” <i>Lethaia</i>, Vol. 8, No. 4, 1975, pp. 339-360.<br>
-<sup>64</sup> 张忠智：《科技书刊的总编（主编）的角色要求》，载中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会1997年版。<br>
+<sup>64</sup> 张忠智：“科技书刊的总编（主编）的角色要求”，载中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会1997年版。<br>
 <sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》（修订本），商务印书馆1996年版。<br>
-<sup>66</sup> 刘彻东：《中国的青年刊物：个性特色为本仁》，《中国出版》1998年第5期。<br>
-<sup>67</sup> 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，载中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，中国科学技术协会学会工作部1981年版。<br>
+<sup>66</sup> 刘彻东：“中国的青年刊物：个性特色为本仁”，《中国出版》1998年第5期。<br>
+<sup>67</sup> 裴丽生：“在中国科协学术期刊编辑工作经验交流会上的讲话”，载中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，中国科学技术协会学会工作部1981年版。<br>
 <sup>68</sup> 张伯伟：《全唐五代诗格汇考》，江苏古籍出版社2002年版。<br>
 <sup>69</sup> 皮锡瑞：《师伏堂日记》（第 4 册），国家图书馆2009年版。<br>
 <sup>70</sup> 胡承正、周详、缪灵：《理论物理概论》（上），武汉大学出版社2010年版。<br>
@@ -164,31 +164,31 @@
 <sup>101</sup> 全国广播电视标准化技术委员会《广播电视音像资料编目规范：第 2 部分 广播资料》，GY/T 202.2—2007。<br>
 <sup>102</sup> 国家环境保护局科技标准司《土壤环境质量标准》，GB 15616—1995。<br>
 <sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.<br>
-<sup>104</sup> 《卷 39 乞致仕第一》，载《苏魏公文集》下册，中华书局1988年版。<br>
-<sup>105</sup> 白书农：《植物开花研究》，载李承森主编：《植物科学进展》，高等教育出版社1998年版。<br>
-<sup>106</sup> 汪学军：《中国农业转基因生物研究进展与安全管理》，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社2002年版。<br>
-<sup>107</sup> 国家标准局信息分类编码研究所《世界各国和地区名称代码》，GB/T 2659—1986。<br>
-<sup>108</sup> 《宋史卷三：本纪第三》，载《宋史》第 1 册，中华书局1977年版。<br>
-<sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版。<br>
+<sup>104</sup> “卷 39 乞致仕第一”，载《苏魏公文集》下册，中华书局1988年版。<br>
+<sup>105</sup> 白书农：“植物开花研究”，载李承森主编：《植物科学进展》，高等教育出版社1998年版。<br>
+<sup>106</sup> 汪学军：“中国农业转基因生物研究进展与安全管理”，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社2002年版。<br>
+<sup>107</sup> 国家标准局信息分类编码研究所“世界各国和地区名称代码”，GB/T 2659—1986。<br>
+<sup>108</sup> “宋史卷三：本纪第三”，载《宋史》第 1 册，中华书局1977年版。<br>
+<sup>109</sup> 楼梦鳞、杨燕：“汶川地震基岩地震动特征分析”，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版。<br>
 <sup>110</sup> Peter R. Buseck, Gordon L. Nord Jr. &#38; David R. Veblen, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxenes</i>, Washington, D.C.: Mineralogical Society of America, c1980.<br>
 <sup>111</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.<br>
-<sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
-<sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》2008年第6期。<br>
-<sup>114</sup> 于潇、刘义等：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012年第11期。<br>
-<sup>115</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》2010年第10期。<br>
+<sup>112</sup> 杨洪升：“四库馆私家抄校书考略”，《文献》2013年第1期。<br>
+<sup>113</sup> 李炳穆：“韩国图书馆法”，《图书情报工作》2008年第6期。<br>
+<sup>114</sup> 于潇、刘义等：“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报（自然科学版）》2012年第11期。<br>
+<sup>115</sup> 陈建军：“从数字地球到智慧地球”，《国土资源导刊》2010年第10期。<br>
 <sup>116</sup> David J. Des Marais et al., “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, Vol. 359, No. 6396, 1992, pp. 605-609.<br>
 <sup>117</sup> M. Saito &#38; K. Miyazaki, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, Vol. 57, No. 5/6, 2006, pp. 169-176.<br>
 <sup>118</sup> Susan C. Walls, William J. Barichivich &#38; Mary E. Brown, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate,” <i>Biology</i>, Vol. 2, No. 1, 2013, pp. 399-418.<br>
 <sup>119</sup> Annaliese K. Franz et al., “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity,” <i>ACS Chemical Biology</i>, Vol. 8, 2013, pp. 1053-1062.<br>
 <sup>120</sup> Jung-Ran Park &#38; Yuji Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, Vol. 48, No. 8, 2010, pp. 696-715.<br>
-<sup>121</sup> 丁文详：《数字革命与竞争国际化》，载《中国青年报》2000年11月20日，第15版。<br>
-<sup>122</sup> 张田勘：《罪犯 DNA 库与生命伦理学计划》，载《大众科技报》2000年11月12日，第7版。<br>
-<sup>123</sup> 傅刚、赵承、李佳路：《大风沙过后的思考》，载《北京青年报》2000年1月12日。<br>
-<sup>124</sup> 刘裕国、杨柳等：《雾霾来袭，如何突围？》，载《人民日报》2013年1月12日。<br>
-<sup>125</sup> 萧钰：出版业信息化迈入快车道，载2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>。<br>
-<sup>126</sup> 李强：化解医患矛盾需釜底抽薪，载2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>。<br>
-<sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, “Pennsylvania library laws,” <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a> (last visited Mar. 24, 2013).<br>
-<sup>128</sup> “Dublin Core metadata element set: version 1.1,” (14 June 2012), <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
+<sup>121</sup> 丁文详：“数字革命与竞争国际化”，载《中国青年报》2000年11月20日，第15版。<br>
+<sup>122</sup> 张田勘：“罪犯 DNA 库与生命伦理学计划”，载《大众科技报》2000年11月12日，第7版。<br>
+<sup>123</sup> 傅刚、赵承、李佳路：“大风沙过后的思考”，载《北京青年报》2000年1月12日。<br>
+<sup>124</sup> 刘裕国、杨柳等：“雾霾来袭，如何突围？”，载《人民日报》2013年1月12日。<br>
+<sup>125</sup> 萧钰：《出版业信息化迈入快车道》，载2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>。<br>
+<sup>126</sup> 李强：《化解医患矛盾需釜底抽薪》，载2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>。<br>
+<sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, “Pennsylvania Library Laws,” <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a> (last visited March 24 2013).<br>
+<sup>128</sup> “Dublin Core Metadata Element Set: Version 1.1,” 14 June 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (last visited June 11 2014).<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -197,17 +197,17 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年。<br>
-<sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》2008年。<br>
+<sup>1</sup> 张三：“中国心理学的过去与未来”，《心理学报》2008年。<br>
+<sup>2</sup> 张三、李四：“中国心理学的过去与未来”，《心理学报》2008年。<br>
 <sup>3</sup> Weimin Mou &#38; Timothy P. McNamara, “Intrinsic Frames of Reference in Spatial Memory,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 28, 2002, pp. 162-170.<br>
-<sup>4</sup> 赵一、钱二等：《中国心理学的过去与未来》，《心理学报》2008年。<br>
+<sup>4</sup> 赵一、钱二等：“中国心理学的过去与未来”，《心理学报》2008年。<br>
 <sup>5</sup> Weimin Mou, Kan Zhang &#38; Timothy P. McNamara, “Frames of Reference in Spatial Memories Acquired from Language,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol. 30, 2004, pp. 171-180.<br>
-<sup>6</sup> 赵一一、钱二等：《中国心理学的过去与未来》，《心理学报》2008年。<br>
+<sup>6</sup> 赵一一、钱二等：“中国心理学的过去与未来”，《心理学报》2008年。<br>
 <sup>7</sup> S. A. Wolchik et al., “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce,” <i>Journal of Consulting and Clinical Psychology</i>, Vol. 68, No. 5, 2000, pp. 843-856.<br>
-<sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》。<br>
+<sup>8</sup> 张三、李四：“中国心理学的过去与未来”，《心理学报》。<br>
 <sup>9</sup> Sujata M. Huestegge, Tim Raettig &#38; Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i>, 2019.<br>
 <sup>10</sup> Dalila Burin et al., “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, Vol. 14, No. 1, 2019.<br>
-<sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年增刊。<br>
+<sup>11</sup> 张三：“中国心理学的过去与未来”，《心理学报》2008年增刊。<br>
 <sup>12</sup> 张三：《心理学史》，未名出版社2008年版。<br>
 <sup>13</sup> 张三主编：《心理学史》，未名出版社2008年版。<br>
 <sup>14</sup> Jewelle Taylor Gibbs &#38; Larke Nahme Huang (eds.), <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
@@ -215,7 +215,7 @@
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，未名出版社1951年版。<br>
 <sup>17</sup> Roberta Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections,” in C. Freksa, C. Habel &#38; K. F. Wender eds., <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998.<br>
 <sup>18</sup> Deng Feng Wang &#38; Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality,” in D. F. Wang &#38; Y. B. Hou eds., 1 <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004.<br>
-<sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》，载王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京大学出版社2004年版。<br>
+<sup>19</sup> 王登峰、崔红：“中国人‘大七’人格结构的理论分析”，载王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京大学出版社2004年版。<br>
 <sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation,” in M. F. Bornstein ed., <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993.<br>
 <sup>21</sup> Kenneth L. Lichstein &#38; Ronald S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs,” in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden, 1990.<br>
 <sup>22</sup> Cheryl B. Lanktree &#38; John N. Briere, “Early Data on the Trauma Symptom Checklist for Children (TSC-C),” San Diego, CA, 1991.<br>
@@ -229,7 +229,7 @@
 <sup>30</sup> Lin Yu, <i>Phonological Representation and Processing in Chinese Spoken Language Production</i>, Beijing Normal University, 2000.<br>
 <sup>31</sup> 余林：《汉语语言产生中的语音表征与加工》，北京师范大学2000年博士学位论文。<br>
 <sup>32</sup> 邱颖文：《遗传与语言学习》，华东师范大学2009年博士学位论文。<br>
-<sup>33</sup> 张三、李四：《中国心理学与奥林匹克》，载《新华日报》2008年8月8日，第2, 5-7版。<br>
+<sup>33</sup> 张三、李四：“中国心理学与奥林匹克”，载《新华日报》2008年8月8日，第2, 5-7版。<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -247,40 +247,40 @@
 <sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》（上册），全国图书馆文献缩微复制中心1998年版。<br>
 <sup>8</sup> 狄葆贤：《平等阁笔记》，有正书局版。<br>
 <sup>9</sup> 《马克思恩格斯全集》（第31卷），人民出版社1998年版。<br>
-<sup>10</sup> 杜威·佛克马：《走向新世界主义》，载王宁、薛晓源主编：《全球化与后殖民批评》，中央编译出版社1999年版。<br>
-<sup>11</sup> 鲁迅：《中国小说的历史的变迁》，载《鲁迅全集》第9册，人民文学出版社1981年版。<br>
-<sup>12</sup> 唐振常：《师承与变法》，载《识史集》，上海古籍出版社1997年版。<br>
+<sup>10</sup> 杜威·佛克马：“走向新世界主义”，载王宁、薛晓源主编：《全球化与后殖民批评》，中央编译出版社1999年版。<br>
+<sup>11</sup> 鲁迅：“中国小说的历史的变迁”，载《鲁迅全集》第9册，人民文学出版社1981年版。<br>
+<sup>12</sup> 唐振常：“师承与变法”，载《识史集》，上海古籍出版社1997年版。<br>
 <sup>13</sup> 李鹏程：《当代文化哲学沉思》，人民出版社1994年版。<br>
-<sup>14</sup> 楼适夷：《读家书，想傅雷（代序）》（增补本），载傅敏主编：《傅雷家书》，三联书店1998年版。<br>
-<sup>15</sup> 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，载《中国大历史》，三联书店1997年版。<br>
+<sup>14</sup> 楼适夷：“读家书，想傅雷（代序）”，载傅敏主编：《傅雷家书》，三联书店1998年版。<br>
+<sup>15</sup> 黄仁宇：“为什么称为‘中国大历史’？——中文版自序”，载《中国大历史》，三联书店1997年版。<br>
 <sup>16</sup> 姚际恒：《古今伪书考》（光绪三年苏州文学山房活字本第3卷）。<br>
 <sup>17</sup> 毛祥麟：《墨余录》，上海古籍出版社1985年版。<br>
 <sup>18</sup> 杨钟羲：《雪桥诗话续集》（影印本第5卷），辽沈书社1991年版。<br>
 <sup>19</sup> 《太平御览》（影印本第690卷），中华书局1985年版。<br>
-<sup>20</sup> 管志道：《答屠仪部赤水丈书》（影印本），载《续问辨牍》，齐鲁书社1997年版。<br>
+<sup>20</sup> 管志道：“答屠仪部赤水丈书”，载《续问辨牍》，齐鲁书社1997年版。<br>
 <sup>21</sup> 《嘉定县志》（第12卷）。<br>
 <sup>22</sup> 《上海县续志》（第1卷）。<br>
-<sup>23</sup> 《广东通志》（影印本），载《稀见中国地方志汇刊》，中国书店1992年版。<br>
+<sup>23</sup> “广东通志”，载《稀见中国地方志汇刊》，中国书店1992年版。<br>
 <sup>24</sup> 《旧唐书》（标点本第9卷），中华书局1975年版。<br>
 <sup>25</sup> 《方苞集》（标点本第6卷），上海古籍出版社1983年版。<br>
 <sup>26</sup> 《清德宗实录》（影印本第435卷），中华书局1987年版。<br>
-<sup>27</sup> 何龄修：《读顾诚〈南明史〉》，《中国史研究》1998年第3期。<br>
-<sup>28</sup> 汪疑今：《江苏的小农及其副业》，《中国经济》1936年第6期。<br>
-<sup>29</sup> 魏丽英：《论近代西北人口波动的若干主要原因》，《社会科学》1990年第6期。<br>
-<sup>30</sup> 费成康：《葡萄牙人如何进入澳门问题辨正》，《社会科学》1999年第9期。<br>
-<sup>31</sup> 黄义豪：《评黄龟年四劾秦桧》，《福建论坛》1997年第3期。<br>
-<sup>32</sup> 倪素香：《德育学科的比较研究与理论探索》，《武汉大学学报》2002年第4期。<br>
-<sup>33</sup> 李眉：《李劼人轶事》，载《四川工人日报》1986年8月22日，第2版。<br>
-<sup>34</sup> 伤心人（麦孟华）：《说奴隶》，载《清议报》，第1页。<br>
-<sup>35</sup> 《四川会议厅暂行章程》，载《广益丛报》1910年9月3日，第1—2页。<br>
-<sup>36</sup> 《上海各路商界总联合会致外交部电》，载《民国日报》1925年8月14日，第4版。<br>
-<sup>37</sup> 《西南中委反对在宁召开五全会》，载《民国日报》1933年8月11日，第1张第4版。<br>
+<sup>27</sup> 何龄修：“读顾诚〈南明史〉”，《中国史研究》1998年第3期。<br>
+<sup>28</sup> 汪疑今：“江苏的小农及其副业”，《中国经济》1936年第6期。<br>
+<sup>29</sup> 魏丽英：“论近代西北人口波动的若干主要原因”，《社会科学》1990年第6期。<br>
+<sup>30</sup> 费成康：“葡萄牙人如何进入澳门问题辨正”，《社会科学》1999年第9期。<br>
+<sup>31</sup> 黄义豪：“评黄龟年四劾秦桧”，《福建论坛》1997年第3期。<br>
+<sup>32</sup> 倪素香：“德育学科的比较研究与理论探索”，《武汉大学学报》2002年第4期。<br>
+<sup>33</sup> 李眉：“李劼人轶事”，载《四川工人日报》1986年8月22日，第2版。<br>
+<sup>34</sup> 伤心人（麦孟华）：“说奴隶”，载《清议报》，第1页。<br>
+<sup>35</sup> “四川会议厅暂行章程”，载《广益丛报》1910年9月3日，第1—2页。<br>
+<sup>36</sup> “上海各路商界总联合会致外交部电”，载《民国日报》1925年8月14日，第4版。<br>
+<sup>37</sup> “西南中委反对在宁召开五全会”，载《民国日报》1933年8月11日，第1张第4版。<br>
 <sup>38</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系2000年博士学位论文。<br>
-<sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，2000年版。<br>
+<sup>39</sup> 任东来：“对国际体制和国际制度的理解和翻译”，2000年版。<br>
 <sup>40</sup> 《傅良佐致国务院电》，1917年版。<br>
 <sup>41</sup> 《党外人士座谈会记录》，1950年版。<br>
-<sup>42</sup> 王明亮：关于中国学术期刊标准化数据库系统工程的进展，载1998年8月16日，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>。<br>
-<sup>43</sup> 扬之水：《两宋茶诗与茶事》，载《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日访问。<br>
+<sup>42</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，载1998年8月16日，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>。<br>
+<sup>43</sup> 扬之水：《两宋茶诗与茶事》，载《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，最后访问日期：2007年9月13日。<br>
 <sup>44</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
 <sup>45</sup> Marco Polo, <i>The Travels of Marco Polo</i>, translated by William Marsden, Hertfordshire: Cumberland House, 1997.<br>
 <sup>46</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, Vol. 19, No. 2, 1993, pp. 199-215.<br>
@@ -298,30 +298,30 @@
 <sup>2</sup> 张新宝：《侵权责任法》（第4版），中国人民大学出版社2016年版。<br>
 <sup>3</sup> 高鸿钧、程汉大主编：《英美法原论》，北京大学出版社2013年版。<br>
 <sup>4</sup> [美]富勒：《法律的道德性》，郑戈译，商务印书馆2005年版。<br>
-<sup>5</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》1993年第1期。<br>
-<sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
-<sup>7</sup> [德]莱纳·沃尔夫：《风险法的风险》，陈霄译，载刘刚主编：《风险规制：德国的理论与实践》，法律出版社2012年版。<br>
-<sup>8</sup> 何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。<br>
+<sup>5</sup> 季卫东：“法律程序的意义：对中国法制建设的另一种思考”，《中国社会科学》1993年第1期。<br>
+<sup>6</sup> 王保树：“股份有限公司机关构造中的董事和董事会”，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。<br>
+<sup>7</sup> [德]莱纳·沃尔夫：“风险法的风险”，陈霄译，载刘刚主编：《风险规制：德国的理论与实践》，法律出版社2012年版。<br>
+<sup>8</sup> 何海波：“判决书上网”，载《法制日报》2000年5月21日，第2版。<br>
 <sup>9</sup> 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，载人民网2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。<br>
 <sup>10</sup> 《被告人李宁、张磊贪污案一审开庭》，载新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。<br>
 <sup>11</sup> 赵耀彤：《一名基层法官眼里好律师的样子》，载微信公众号“中国法律评论”2018年12月1日，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
-<sup>12</sup> 法国行政法院网站，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日访问。<br>
+<sup>12</sup> 《法国行政法院网站》，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，最后访问日期：2016年12月18日。<br>
 <sup>13</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，中国政法大学2015年博士学位论文。<br>
 <sup>14</sup> 《民法总则》第 27 条第 2 款第 3 项。<br>
 <sup>15</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。<br>
-<sup>16</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
+<sup>16</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书，（1988）浙法民上字 7 号。<br>
 <sup>17</sup> 陆红霞诉南通市发改委政府信息公开案，载《最高人民法院公报》2015年第11期。<br>
 <sup>18</sup> Charles A. Reich, “The New Property,” <i>Yale Law Journal</i>, Vol. 73, No. 5, 1964, pp. 733-787.<br>
 <sup>19</sup> Louis D. Brandeis, “What Publicity Can Do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.<br>
 <sup>20</sup> William Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
 <sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社2006年版。<br>
 <sup>22</sup> R. v. Panel on Take-overs and Mergers, 815 QB (1987).<br>
-<sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期。<br>
+<sup>23</sup> 罗豪才、袁曙宏、李文栋：“现代行政法的理论基础——论行政机关与相对一方的权利义务平衡”，《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟等：《近代中国宪政历程》，中国政法大学出版社2004年版。<br>
-<sup>25</sup> 邓小平：《精简机构是一场革命》（第2版），载《邓小平文选》第2卷，人民出版社1994年版。<br>
+<sup>25</sup> 邓小平：“精简机构是一场革命”，载《邓小平文选》第2卷，人民出版社1994年版。<br>
 <sup>26</sup> [英]劳特派特：《奥本海国际法》（第8版上卷第一分册），王铁崖、陈体强译，商务印书馆1971年版。<br>
 <sup>27</sup> 瞿同祖：《中国法律与中国社会》，商务印书馆2010年版。<br>
-<sup>28</sup> 崔国斌：《知识产权法官造法批判》，《中国法学》2006年第1期。<br>
+<sup>28</sup> 崔国斌：“知识产权法官造法批判”，《中国法学》2006年第1期。<br>
 <sup>29</sup> 《刑法修正案（十）》。<br>
 <sup>30</sup> 《公司法》（2005年修订）。<br>
 <sup>31</sup> 《公司法》（2013年修正）。<br>
@@ -334,7 +334,7 @@
 <sup>38</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年12月23日在第十二届全国人民代表大会常务委员会第六次会议上。<br>
 <sup>39</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。<br>
 <sup>40</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院指导案例24号（2014年）。<br>
-<sup>41</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书（2011）民一终字第 81 号，2017年12月16日。<br>
+<sup>41</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，最高人民法院民事裁定书，（2011）民一终字第 81 号，2017年12月16日。<br>
 <sup>42</sup> Barbara Ward, “Progress for a Small Planet,” <i>Harvard Business Review</i>, Sep.-Oct., 1979, p. 89.<br>
 <sup>43</sup> Andrew Rosenthal, “White House Tutors Kremlin in How a Presidency Works,” <i>New York Times</i>, 15 June 1990, at A1.<br>
 <sup>44</sup> Jürgen Habermas, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, translated by William Rehg, MIT Press, 1996.<br>
@@ -345,7 +345,7 @@
 <sup>49</sup> Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, 467 U.S. 837 (1984).<br>
 <sup>50</sup> Roe <i>v.</i> Wade, 410 U.S. 113 (1973).<br>
 <sup>51</sup> United States <i>v.</i> Dino Nastasi et al., No. 3:15-cr-00213-FDW-DCK (W.D. North Carolina).<br>
-<sup>52</sup> Stephen McDonell, “When China began streaming trials online,” BBC News (30 September 2016), <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
+<sup>52</sup> Stephen McDonell, “When China Began Streaming Trials Online,” 30 September 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a> (last visited July 26 2022).<br>
 <sup>53</sup> Marc Chevallier, <i>L’État de droit</i>, Paris: Montchrestien, 2003.<br>
 <sup>54</sup> Marc Poisson, “Le droit de la mer,” <i>RGDIP</i>, 2015, pp. 15-47.<br>
 <sup>55</sup> Claire Badiou-Monferran, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle,” <i>La Licorne</i>, No. 43, 1997, pp. 75-94.<br>
@@ -353,7 +353,7 @@
 <sup>57</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, Congrès de Marseille, 2016.<br>
 <sup>58</sup> Marc Poisson, <i>Le droit de la mer en Méditerranée</i>, 2016.<br>
 <sup>59</sup> Marc Poisson, <i>Le droit de la mer appliqué à la Méditerranée</i>, l’Université de Marseille, 2016.<br>
-<sup>60</sup> Béatrice Joyeux-Prunel, “L’histoire de l’art et le quantitatif,” Histoire &#38; mesure, vol. XXIII, n° 2, 2008, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (last visited Mar. 17, 2010).<br>
+<sup>60</sup> Béatrice Joyeux-Prunel, “L’histoire de l’art et le quantitatif,” <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (last visited March 17 2010).<br>
 <sup>61</sup> Benjamin Vogel, Rechtsgüterschutz und Normgeltung, ZStW 129 (2017).<br>
 <sup>62</sup> Markus Würdinger, Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts, Jurist. Schul. 2012.<br>
 <sup>63</sup> Thomas Fischer, Absurdes Spektakel um den Tod, in: Die Zeit v. 29. 9. 2015.<br>
@@ -377,8 +377,8 @@
 <sup>81</sup> 約束手形金, 36卷6号 最高裁判所民事判例集 1113 (最高裁判所 1982).<br>
 <sup>82</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
 <sup>83</sup> <i>平成26年版犯罪白書</i>.<br>
-<sup>84</sup> “ジュリスト,” <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (last visited Sep. 1, 2022).<br>
-<sup>85</sup> 欧中坦：《千方百计上京城：清朝的京控》，谢鹏程译，载高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社1994年版。<br>
+<sup>84</sup> “ジュリスト,” <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (last visited September 1 2022).<br>
+<sup>85</sup> 欧中坦：“千方百计上京城：清朝的京控”，谢鹏程译，载高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社1994年版。<br>
 <sup>86</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，载新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
 
 
@@ -410,7 +410,7 @@
 <sup>20</sup> K. Weir, “Forgiveness Can Improve Mental and Physical Health,” <i>Monitor on Psychology</i>, Vol. 48, No. 1, January 2017, p. 30.<br>
 <sup>21</sup> B. Guarino, “How Will Humanity React to Alien Life? Psychologists Have Some Predictions,” <i>The Washington Post</i>, 4 December 2017.<br>
 <sup>22</sup> A. Hess, “Cats Who Take Direction,” <i>The New York Times</i>, 3 January 2019, at C1.<br>
-<sup>23</sup> M. Klymkowsky, “Can we talk scientifically about free will?,” Sci-Ed (15 September 2018), <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.<br>
+<sup>23</sup> M. Klymkowsky, “Can We Talk Scientifically about Free Will?,” 15 September 2018, <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.<br>
 <sup>24</sup> KS in NJ, “From This Article, It Sounds like Men Are Figuring Something out That Women Have Known Forever. I Know of Many,” <i>The Washington Post</i>, 15 January 2019.<br>
 <sup>25</sup> A. Author, “How Workout Buddies Can Help Stave off Loneliness,” <i>The Washington Post</i>, 15 January 2019.<br>
 <sup>26</sup> N. G. Cuellar, “Study Abroad Programs,” <i>Journal of Transcultural Nursing</i>, Vol. 27, No. 3, 2016, p. 209.<br>
@@ -482,7 +482,7 @@
 <sup>92</sup> <i>The Year We Thought about Love</i>, 2016.<br>
 <sup>93</sup> F. Santos, “Reframing Refugee Children’s Stories,” <i>The New York Times</i>, 11 January 2019.<br>
 <sup>94</sup> M. Yousafzai, <i>We Are Displaced: My Journey and Stories from Refugee Girls around the World</i>, 2016.<br>
-<sup>95</sup> D. Perkins, “<i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile,” (1 February 2018), <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.<br>
+<sup>95</sup> D. Perkins, “<i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile,” 1 February 2018, <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.<br>
 <sup>96</sup> <i>Somewhere Else</i>, 2018.<br>
 <sup>97</sup> J. Yoo et al., <i>Linking Positive Affect to Blood Lipids: A Cultural Perspective</i>, Department of Psychology, University of Wisconsin-Madison, 2016.<br>
 <sup>98</sup> M. O’Shea, <i>Understanding Proactive Behavior in the Workplace as a Function of Gender</i>, Department of Management, University of Kansas, 2018.<br>
@@ -538,25 +538,25 @@
 <sup>148</sup> E. Canan &#38; J. Vasilev, <i>Lecture Notes on Resource Allocation</i>, Department of Management Control and Information Systems, University of Chile, 2019.<br>
 <sup>149</sup> Brian Housand, <i>Game on! Integrating Games and Simulations in the Classroom</i>, SlideShare, 2016.<br>
 <sup>150</sup> R. Mack &#38; G. Spake, <i>Citing Open Source Images and Formatting References for Presentations</i>, Canvas@FNU, 2018.<br>
-<sup>151</sup> APA Education [@APAEducation], “College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached],” Twitter (29 June 2018), <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.<br>
-<sup>152</sup> Badlands National Park [@BadlandsNPS], “Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity,” Twitter (26 February 2018), <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.<br>
-<sup>153</sup> B. White, “I treasure every minute we spent together #koko [image attached],” Twitter (21 June 2018), <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.<br>
-<sup>154</sup> APA Style [@APA_Style], “Tweets,” Twitter, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a> (last visited Nov. 1, 2019).<br>
-<sup>155</sup> N. Gaiman, “100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached],” Facebook (22 March 2018), <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.<br>
-<sup>156</sup> National Institute of Mental Health, “Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain,” Facebook (28 November 2018), <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>.<br>
-<sup>157</sup> News From Science, “These frogs walk instead of hop. https://scimag.2KlriwH,” Facebook (26 June 2018), <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>.<br>
-<sup>158</sup> Smithsonian’s National Zoo and Conservation Biology Institute, “Home,” Facebook, <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a> (last visited Jul. 22, 2019).<br>
-<sup>159</sup> Zeitz MOCAA [@zeitzmocaa], “Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by,” Instagram (26 November 2018), <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.<br>
-<sup>160</sup> The New York Public Library [@nypl], “The raven,” Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a> (last visited Apr. 16, 2019).<br>
-<sup>161</sup> National Aeronautics and Space Administration [@nasa], “I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!,” Reddit (12 September 2018), <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>.<br>
-<sup>162</sup> N. Avramova, “The secret to a long, happy, health life? Think age-positive,” CNN (3 January 2019), <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.<br>
-<sup>163</sup> C. Bologna, “What happens to your mind and body when you feel homesick?,” HuffPost (27 June 2018), <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.<br>
-<sup>164</sup> Centers for Disease Control and Prevention, “People at high risk of developing flu-related complications,” (23 January 2018), <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.<br>
-<sup>165</sup> World Health Organization, “Questions and answers on immunization and vaccine safety,” (March 2018), <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.<br>
-<sup>166</sup> C. M. Martin Lillie, “Be kind to yourself: How self-compassion can improve your resiliency,” Mayo Clinic (29 December 2016), <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
-<sup>167</sup> J. Boddy et al., “Ethics principles,” The Research Ethics Guidebook: A Resource for Social Scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
-<sup>168</sup> National Nurses United, “What employers should do to protect nurses from Zika,” <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
-<sup>169</sup> U.S. Census Bureau, “U.S. and world population clock,” U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a> (last visited Jul. 3, 2019).<br>
+<sup>151</sup> APA Education [@APAEducation], “College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached],” 29 June 2018, <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.<br>
+<sup>152</sup> Badlands National Park [@BadlandsNPS], “Biologists Have Identified More than 400 Different Plant Species Growing in @BadlandsNPS #DYK #biodoversity,” 26 February 2018, <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.<br>
+<sup>153</sup> B. White, “I Treasure Every Minute We Spent Together #koko [Image Attached],” 21 June 2018, <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.<br>
+<sup>154</sup> APA Style [@APA_Style], “Tweets,” <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a> (last visited November 1 2019).<br>
+<sup>155</sup> N. Gaiman, “100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached],” 22 March 2018, <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.<br>
+<sup>156</sup> National Institute of Mental Health, “Suicide Affects All Ages, Genders, Races, and Ethnicities. Check out These 5 Action Steps for Helping Someone in Emotional Pain,” 28 November 2018, <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>.<br>
+<sup>157</sup> News From Science, “These Frogs Walk Instead of Hop. Https://Scimag.2KlriwH,” 26 June 2018, <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>.<br>
+<sup>158</sup> Smithsonian’s National Zoo and Conservation Biology Institute, “Home,” <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a> (last visited July 22 2019).<br>
+<sup>159</sup> Zeitz MOCAA [@zeitzmocaa], “Grade 6 Learners from Parkfields Primary School in Hanover Park Visited the Museum for a Tour and Workshop Hosted By,” 26 November 2018, <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.<br>
+<sup>160</sup> The New York Public Library [@nypl], “The Raven,” <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a> (last visited April 16 2019).<br>
+<sup>161</sup> National Aeronautics and Space Administration [@nasa], “I’m NASA Astronaut Scott Tingle. Ask Me Anything about Adjusting to Being Back on Earth after My First Spaceflight!,” 12 September 2018, <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>.<br>
+<sup>162</sup> N. Avramova, “The Secret to a Long, Happy, Health Life? Think Age-Positive,” 3 January 2019, <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.<br>
+<sup>163</sup> C. Bologna, “What Happens to Your Mind and Body When You Feel Homesick?,” 27 June 2018, <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.<br>
+<sup>164</sup> Centers for Disease Control and Prevention, “People at High Risk of Developing Flu-Related Complications,” 23 January 2018, <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.<br>
+<sup>165</sup> World Health Organization, “Questions and Answers on Immunization and Vaccine Safety,” March 2018, <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.<br>
+<sup>166</sup> C. M. Martin Lillie, “Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency,” 29 December 2016, <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
+<sup>167</sup> J. Boddy et al., “Ethics Principles,” <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
+<sup>168</sup> National Nurses United, “What Employers Should Do to Protect Nurses from Zika,” <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
+<sup>169</sup> U.S. Census Bureau, “U.S. and World Population Clock,” <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a> (last visited July 3 2019).<br>
 <sup>170</sup> Brown v. Board of Education, 347 U.S. 483 (1954).<br>
 <sup>171</sup> Obergefell v. Hodges, 576 U.S. (2015).<br>
 <sup>172</sup> Daubert v. Merrell Dow Pharmaceuticals, Inc., 951 F.2d 1128 (9th Cir. 1991).<br>
