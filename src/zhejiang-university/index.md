@@ -20,7 +20,7 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008–05–04).</div>
+  <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008-05-04).</div>
   <div class="csl-entry">Fan X, Sommers C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013. 25–26.</div>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971. 17–38.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. <i><span style="font-style:normal;">Nature</span></i>, 2014, 510: 356–362.</div>
@@ -68,14 +68,14 @@ Qian et al. （2009b）<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. <i><span style="font-style:normal;">British Medical Journal</span></i>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000. .</div>
-  <div class="csl-entry">Anonymous. Dublin Core metadata element set: version 1.1[EB](2012–06–14).</div>
+  <div class="csl-entry">Anonymous. Dublin Core metadata element set: version 1.1[EB](2012-06-14).</div>
   <div class="csl-entry">Anonymous. A companion to California history[M]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013. 21–22.</div>
   <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014. .</div>
   <div class="csl-entry">Anonymous. Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S]. .</div>
   <div class="csl-entry">American Association for the Advancement of Science. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883. .</div>
   <div class="csl-entry">Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995. .</div>
   <div class="csl-entry">Baldock P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011. 105.</div>
-  <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008–05–04).</div>
+  <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008-05-04).</div>
   <div class="csl-entry">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980. 117–211.</div>
   <div class="csl-entry">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965. .</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. .</div>
@@ -90,13 +90,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971. 17–38.</div>
   <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. <i><span style="font-style:normal;">ACS Chemical Biology</span></i>, 2013, 8: 1053–1062.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. <i><span style="font-style:normal;">Biology</span></i>, 2013, 2(1): 378–398.</div>
-  <div class="csl-entry">Hopkinson A. UNIMARC and metadata: Dublin Core[EB](2009–04–22).</div>
+  <div class="csl-entry">Hopkinson A. UNIMARC and metadata: Dublin Core[EB](2009-04-22).</div>
   <div class="csl-entry">International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3 edition. London: IFLA International Office for UBC, 1977. .</div>
   <div class="csl-entry">Kanamori H. Shaking without quaking[J]. <i><span style="font-style:normal;">Science</span></i>, 1998, 279(5359): 2063.</div>
   <div class="csl-entry">Kennedy W J, Garrison R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. <i><span style="font-style:normal;">Sedimentology</span></i>, 1975a, 22: 311.</div>
   <div class="csl-entry">Kennedy W J, Garrison R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. <i><span style="font-style:normal;">Lethaia</span></i>, 1975b, 8(4): 339–360.</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012. 50.</div>
-  <div class="csl-entry">Koseki A, Momose H, Kawahito M, et al. Compiler: US828402[P]. 2002–05–25.</div>
+  <div class="csl-entry">Koseki A, Momose H, Kawahito M, et al. Compiler: US828402[P]. 2002-05-25.</div>
   <div class="csl-entry">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010. .</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. <i><span style="font-style:normal;">Nature</span></i>, 2014, 510: 356–362.</div>
   <div class="csl-entry">O’Brien J A. Introduction to information systems[M]. 7 edition. Burr Ridge, IL: Irwin, 1994. .</div>
@@ -108,27 +108,27 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. <i><span style="font-style:normal;">Bulletin of the geological survey of Japan</span></i>, 2006, 57(5/6): 169–176.</div>
   <div class="csl-entry">Stieg M F. The information needs of historians[J]. <i><span style="font-style:normal;">College &#38; Research Libraries</span></i>, 1981, 42(6): 549–560.</div>
   <div class="csl-entry">Sunstein C R. Social norms and social roles[J]. <i><span style="font-style:normal;">Columbia Law Review</span></i>, 1996, 96: 903.</div>
-  <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US6915001[P]. 2005–07–05.</div>
+  <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US6915001[P]. 2005-07-05.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990. .</div>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. <i><span style="font-style:normal;">Biology</span></i>, 2013, 2(1): 399–418.</div>
   <div class="csl-entry">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974. 457–472.</div>
   <div class="csl-entry">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970. .</div>
   <div class="csl-entry">白书农. 植物开花研究[M]. 李承森, 编//植物科学进展. 北京: 高等教育出版社，1998. 146–163.</div>
-  <div class="csl-entry">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号[Z](2005–07–12).</div>
+  <div class="csl-entry">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号[Z](2005-07-12).</div>
   <div class="csl-entry">北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社，2012. 112.</div>
   <div class="csl-entry">陈登原. 国史旧闻[M]. 北京: 中华书局，2000a. 29.</div>
   <div class="csl-entry">陈登原. 国史旧闻[M]. 北京: 中华书局，2000b. 29.</div>
   <div class="csl-entry">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.</div>
   <div class="csl-entry">陈晋镳，张惠民，朱士兴，等. 蓟县震旦亚界的研究[M]. 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社，1980. 56–114.</div>
   <div class="csl-entry">程根伟. 1998 年长江洪水的成因与减灾对策[M]. 许厚泽, 赵其国, 编//长江流域洪涝灾害与科技对策. 北京: 科学出版社，1999. 32–36.</div>
-  <div class="csl-entry">邓一刚. 全智能节电器: 200610171314.3[P]. 2006–12–13.</div>
+  <div class="csl-entry">邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.</div>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000: 15.</div>
   <div class="csl-entry">傅刚，赵承，李佳路. 大风沙过后的思考[N]. 北京青年报, 2000.</div>
   <div class="csl-entry">顾炎武. 昌平山水记：京东考古录[M]. 北京: 北京古籍出版社，1982. .</div>
   <div class="csl-entry">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]. 全国文献工作标准化委员会, 编//文献工作国家标准汇编：3. 北京: 中国标准出版社，1988. 59–92.</div>
   <div class="csl-entry">国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S]. 北京: 中国标准出版社，1996. 2–3.</div>
   <div class="csl-entry">哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社，2012. 235–236.</div>
-  <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001–10–24.</div>
+  <div class="csl-entry">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24.</div>
   <div class="csl-entry">侯文顺. 高分子物理：高分子材料分析、选择与改性[M]. 北京: 化学工业出版社，2010. 119.</div>
   <div class="csl-entry">胡承正，周详，缪灵. 理论物理概论[M]. 武汉: 武汉大学出版社，2010. 112.</div>
   <div class="csl-entry">贾东琴，柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社，2011. 45–52.</div>
@@ -136,7 +136,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社，2012. .</div>
   <div class="csl-entry">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008a, 52(6): 6–12.</div>
   <div class="csl-entry">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008b, 52(6): 6–21.</div>
-  <div class="csl-entry">李强. 化解医患矛盾需釜底抽薪[EB](2012–05–03).</div>
+  <div class="csl-entry">李强. 化解医患矛盾需釜底抽薪[EB](2012-05-03).</div>
   <div class="csl-entry">李幼平，王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225–228.</div>
   <div class="csl-entry">刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38–39.</div>
   <div class="csl-entry">刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学，2000. 17–18.</div>
@@ -163,8 +163,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">王临惠，支建刚，王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.</div>
   <div class="csl-entry">吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学，2003. .</div>
   <div class="csl-entry">武丽丽，华一新，张亚军，等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9.</div>
-  <div class="csl-entry">西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P]. 2002–03–06.</div>
-  <div class="csl-entry">萧钰. 出版业信息化迈入快车道[EB](2001–12–19).</div>
+  <div class="csl-entry">西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P]. 2002-03-06.</div>
+  <div class="csl-entry">萧钰. 出版业信息化迈入快车道[EB](2001-12-19).</div>
   <div class="csl-entry">徐光宪，王祥云. 物质结构[M]. 北京: 科学出版社，2010. .</div>
   <div class="csl-entry">杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社，2012. .</div>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75.</div>
@@ -182,7 +182,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶：访中国工程院院长周济[N]. 人民日报, 2013: 2.</div>
   <div class="csl-entry">袁训来，陈哲，肖书海，等. 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.</div>
   <div class="csl-entry">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002. 288.</div>
-  <div class="csl-entry">张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012–04–05.</div>
+  <div class="csl-entry">张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">张田勘. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000: 7.</div>
   <div class="csl-entry">张忠智. 科技书刊的总编（主编）的角色要求[C]. 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会，1997. 33–34.</div>
   <div class="csl-entry">赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社，2001. .</div>
@@ -245,7 +245,7 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Anonymous. Nixon to Kissinger[Z](1969–02–01).</div>
+  <div class="csl-entry">Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
   <div class="csl-entry">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000. .</div>
   <div class="csl-entry">Chamberlain H B. On the search for civil society in China[J]. <i><span style="font-style:normal;">Modern China</span></i>, 1993, 19(2): 199–215.</div>
   <div class="csl-entry">Polo M. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House, 1997. .</div>
@@ -270,13 +270,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">实藤惠秀. 中国人留学日本史[M]. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社，1982. .</div>
   <div class="csl-entry">唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社，1997. .</div>
   <div class="csl-entry">汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
-  <div class="csl-entry">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB](1998–08–16).</div>
+  <div class="csl-entry">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB](1998-08-16).</div>
   <div class="csl-entry">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 1990(6): 68–73, 86.</div>
   <div class="csl-entry">扬之水. 两宋茶诗与茶事[EB].</div>
   <div class="csl-entry">杨钟羲. 雪桥诗话续集[M]. 沈阳: 辽沈书社，1991. .</div>
   <div class="csl-entry">姚际恒. 古今伪书考[M].</div>
   <div class="csl-entry">佚名. 四川会议厅暂行章程[N]. 广益丛报, 1910(第8年第19期): 第1—2页.</div>
-  <div class="csl-entry">佚名. 傅良佐致国务院电[Z](1917–09–15).</div>
+  <div class="csl-entry">佚名. 傅良佐致国务院电[Z](1917-09-15).</div>
   <div class="csl-entry">佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925: 4.</div>
   <div class="csl-entry">佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933: 第1张第4版.</div>
   <div class="csl-entry">佚名. 党外人士座谈会记录[Z].</div>
@@ -329,7 +329,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Brandeis L D. What publicity can do[J]. <i><span style="font-style:normal;">Harper’s Weekly</span></i>, 1913: 10.</div>
   <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran.. MIT Press, 1996. .</div>
   <div class="csl-entry">Horsley J. Rule of law in China: incremental progress[M]. Bergsten C F, Gill B, Lardy N R, et al., eds.//China: The balance sheet. Public Affairs Press, 2006. .</div>
-  <div class="csl-entry">McDonell S. When China began streaming trials online[EB](2016–09–30).</div>
+  <div class="csl-entry">McDonell S. When China began streaming trials online[EB](2016-09-30).</div>
   <div class="csl-entry">Reich C A. The new property[J]. <i><span style="font-style:normal;">Yale Law Journal</span></i>, 1964, 73(5): 733–787.</div>
   <div class="csl-entry">Rosenthal A. White House tutors Kremlin in how a presidency works[N]. <i><span style="font-style:normal;">New York Times</span></i>, 1990: A1.</div>
   <div class="csl-entry">Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75–94.</div>
@@ -342,8 +342,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Poisson M. Le droit de la mer appliqué à la Méditerranée[D]. l’Université de Marseille，2016c. .</div>
   <div class="csl-entry">我妻栄. 新訂担保物権法[M]. 有斐閣，1971. .</div>
   <div class="csl-entry">我妻栄，有泉亨. 民法総則物権法[M]. 日本評論社，1950. .</div>
-  <div class="csl-entry">佚名. 信玄公旗掛松事件[Z](1919–03–03).</div>
-  <div class="csl-entry">佚名. 約束手形金[Z](1982–07–15).</div>
+  <div class="csl-entry">佚名. 信玄公旗掛松事件[Z](1919-03-03).</div>
+  <div class="csl-entry">佚名. 約束手形金[Z](1982-07-15).</div>
   <div class="csl-entry">佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[S]. .</div>
   <div class="csl-entry">佚名. 平成26年版犯罪白書[Z].</div>
   <div class="csl-entry">佚名. ジュリスト[EB].</div>
@@ -353,9 +353,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[德]莱纳·沃尔夫. 风险法的风险[M]. 刘刚, 编. 陈霄, 译//风险规制：德国的理论与实践. 法律出版社，2012. .</div>
   <div class="csl-entry">邓小平. 精简机构是一场革命[M]//邓小平文选. 2 版. 人民出版社，1994. .</div>
   <div class="csl-entry">国家质量监督检验检疫总局，中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. .</div>
-  <div class="csl-entry">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[Z](2007a–07–11).</div>
-  <div class="csl-entry">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[Z](2007b–07–11).</div>
-  <div class="csl-entry">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[Z](2018–06–27).</div>
+  <div class="csl-entry">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[Z](2007a-07-11).</div>
+  <div class="csl-entry">国务院. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[Z](2007b-07-11).</div>
+  <div class="csl-entry">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知: 国发〔2018〕22号[Z](2018-06-27).</div>
   <div class="csl-entry">何海波. 判决书上网[N]. 法制日报, 2000: 2.</div>
   <div class="csl-entry">季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1): 83–103.</div>
   <div class="csl-entry">李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. 中国政法大学，2015. .</div>
@@ -367,16 +367,16 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">全国人大常委会. 中华人民共和国公司法[S]. 2005年修订 版. .</div>
   <div class="csl-entry">全国人大常委会. 中华人民共和国公司法[S]. 2013年修正 版. .</div>
   <div class="csl-entry">全国人大常委会. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号[S]. .</div>
-  <div class="csl-entry">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB](2004–01–10).</div>
+  <div class="csl-entry">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB](2004-01-10).</div>
   <div class="csl-entry">王保树. 股份有限公司机关构造中的董事和董事会[M]. 梁慧星, 编//民商法论丛. 法律出版社，1994. 110.</div>
   <div class="csl-entry">王名扬. 美国行政法[M]. 北京大学出版社，2007. .</div>
   <div class="csl-entry">夏新华，胡旭晟，刘鄂，等. 近代中国宪政历程[M]. 中国政法大学出版社，2004. .</div>
   <div class="csl-entry">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R]. .</div>
   <div class="csl-entry">佚名. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 应松年, 马怀德, 编. 中国法制出版社，2006. .</div>
   <div class="csl-entry">佚名. 英美法原论[M]. 高鸿钧, 程汉大, 编. 北京大学出版社，2013a. .</div>
-  <div class="csl-entry">佚名. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[Z](2013b–02–08).</div>
-  <div class="csl-entry">佚名. 陆红霞诉南通市发改委政府信息公开案[Z](2015–07–06).</div>
-  <div class="csl-entry">佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[Z](2017–12–16).</div>
+  <div class="csl-entry">佚名. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[Z](2013b-02-08).</div>
+  <div class="csl-entry">佚名. 陆红霞诉南通市发改委政府信息公开案[Z](2015-07-06).</div>
+  <div class="csl-entry">佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[Z](2017-12-16).</div>
   <div class="csl-entry">佚名. 被告人李宁、张磊贪污案一审开庭[EB].</div>
   <div class="csl-entry">佚名. 法国行政法院网站[EB].</div>
   <div class="csl-entry">佚名. 民法总则[S]. .</div>
@@ -384,10 +384,10 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB].</div>
   <div class="csl-entry">[英]劳特派特. 奥本海国际法[M]. 王铁崖, 陈体强, 译. 8 版. 商务印书馆，1971. .</div>
   <div class="csl-entry">张新宝. 侵权责任法[M]. 4 版. 中国人民大学出版社，2016. .</div>
-  <div class="csl-entry">赵耀彤. 一名基层法官眼里好律师的样子[EB](2018–12–01).</div>
-  <div class="csl-entry">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[Z](2014–10–23).</div>
-  <div class="csl-entry">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[Z](2018–02–06).</div>
-  <div class="csl-entry">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[Z](1993–11–12).</div>
+  <div class="csl-entry">赵耀彤. 一名基层法官眼里好律师的样子[EB](2018-12-01).</div>
+  <div class="csl-entry">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[Z](2014-10-23).</div>
+  <div class="csl-entry">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[Z](2018-02-06).</div>
+  <div class="csl-entry">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[Z](1993-11-12).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -406,11 +406,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Marking time in the land of plenty: Reflections on mental health in the United States[J]. <i><span style="font-style:normal;">American Journal of Orthopsychiatry</span></i>, 1981, 51(3): 391–402.</div>
   <div class="csl-entry">Anonymous. Durflinger v. Artiles[Z].</div>
   <div class="csl-entry">Anonymous. Goodbye children[Z]. Nouvelles Éditions de Films, 1987. .</div>
-  <div class="csl-entry">Anonymous. United nations convention on the rights of the child[Z](1989–11–20).</div>
+  <div class="csl-entry">Anonymous. United nations convention on the rights of the child[Z](1989-11-20).</div>
   <div class="csl-entry">Anonymous. American With Disabilities Act of 1990[S]//U.S.C. .</div>
   <div class="csl-entry">Anonymous. Daubert v. Merrell Dow Pharmaceuticals, Inc.[Z].</div>
   <div class="csl-entry">Anonymous. Texas v. Morales[Z].</div>
-  <div class="csl-entry">Anonymous. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]. Gracie Films; Twentieth Century Fox Film Corporation, 1995. (1995–05–21).</div>
+  <div class="csl-entry">Anonymous. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]. Gracie Films; Twentieth Century Fox Film Corporation, 1995. (1995-05-21).</div>
   <div class="csl-entry">Anonymous. The complete social scientist: A Kurt Lewin reader[M]. Gold M, ed.. American Psychological Association, 1999. .</div>
   <div class="csl-entry">Anonymous. The lord of the rings: The fellowship of the ring[Z]. WingNut Films; The Saul Zaentz Company, 2001a. .</div>
   <div class="csl-entry">Anonymous. Burriola v. Greater Toledo YMCA[Z].</div>
@@ -420,7 +420,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Florida Mental Health Act[S]//Fla. Stat. .</div>
   <div class="csl-entry">Anonymous. Protection of human subjects[Z].</div>
   <div class="csl-entry">Anonymous. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca, 2010. .</div>
-  <div class="csl-entry">Anonymous. Brené Brown: Listening to shame[Z]. YouTube, 2012a. (2012–03–16).</div>
+  <div class="csl-entry">Anonymous. Brené Brown: Listening to shame[Z]. YouTube, 2012a. (2012-03-16).</div>
   <div class="csl-entry">Anonymous. Symphony No. 3 in E-flat major[Z]. Brilliant Classics, 2012b. .</div>
   <div class="csl-entry">Anonymous. Mental Health on Campus Improvement Act: H.R. 1100[S]. .</div>
   <div class="csl-entry">Anonymous. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[Z].</div>
@@ -430,8 +430,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Every Student Succeeds Act[S]//U.S.C. .</div>
   <div class="csl-entry">Anonymous. H.R. Rep. No. 114-358[R]. .</div>
   <div class="csl-entry">Anonymous. The year we thought about love[Z].</div>
-  <div class="csl-entry">Anonymous. How to diagram a sentence (absolute basics)[Z]. YouTube, 2016b. (2016–09–30).</div>
-  <div class="csl-entry">Anonymous. How do geckos walk on water?[Z]. YouTube, 2016c. (2016–12–06).</div>
+  <div class="csl-entry">Anonymous. How to diagram a sentence (absolute basics)[Z]. YouTube, 2016b. (2016-09-30).</div>
+  <div class="csl-entry">Anonymous. How do geckos walk on water?[Z]. YouTube, 2016c. (2016-12-06).</div>
   <div class="csl-entry">Anonymous. Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z].</div>
   <div class="csl-entry">Anonymous. S. Res. 438[S]//Cong. Rec. .</div>
   <div class="csl-entry">Anonymous. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[S]//F.R. .</div>
@@ -439,8 +439,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Military veteran psychological health and social care: Contemporary approaches[M]. Hacker Hughes J, ed.. Routledge, 2017b. .</div>
   <div class="csl-entry">Anonymous. King James Bible[M]. King James Bible Online, 2017c. .</div>
   <div class="csl-entry">Anonymous. Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z]. American Pychological Association, 2017d. .</div>
-  <div class="csl-entry">Anonymous. Lemons: Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017e. (2017–01–11).</div>
-  <div class="csl-entry">Anonymous. Happiness[Z]. Vimeo, 2017f. (2017–11–24).</div>
+  <div class="csl-entry">Anonymous. Lemons: Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017e. (2017-01-11).</div>
+  <div class="csl-entry">Anonymous. Happiness[Z]. Vimeo, 2017f. (2017-11-24).</div>
   <div class="csl-entry">Anonymous. Archives of scientific psychology[Z].</div>
   <div class="csl-entry">Anonymous. American psychologist[Z].</div>
   <div class="csl-entry">Anonymous. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents[M]. Pridham K F, Limbo R, Schroeder M, eds.. Springer Publishing Company, 2018c. .</div>
@@ -449,7 +449,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Why you should make useless things[Z]. TED Conferences, 2018f. .</div>
   <div class="csl-entry">Anonymous. Evaluating adverse drug effects[Z]. American Psychiatric Association, 2018g. .</div>
   <div class="csl-entry">Anonymous. The Stanford encyclopedia of philosophy[M]. Zalta E N, ed.. Summer 2019 ed. edition. Stanford University, 2019a. .</div>
-  <div class="csl-entry">Anonymous. List of oldest companies[M](2019b–01–13).</div>
+  <div class="csl-entry">Anonymous. List of oldest companies[M](2019b-01-13).</div>
   <div class="csl-entry">Anonymous. U.S. Const. art. I, § 3[S]. .</div>
   <div class="csl-entry">Anonymous. S.C. Const. art. XI, § 3[S]. .</div>
   <div class="csl-entry">Anonymous. U.S. Const. amend. XIX[S]. .</div>
@@ -466,13 +466,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">American Psychological Association. APA dictionary of psychology[M]. .</div>
   <div class="csl-entry">American Psychological Association. Positive transference[M].</div>
   <div class="csl-entry">Anderson M. Getting consistent with consequences[J]. <i><span style="font-style:normal;">Educational Leadership</span></i>, 2018, 76(1): 26–33.</div>
-  <div class="csl-entry">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][Z](2018–06–29).</div>
+  <div class="csl-entry">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][Z](2018-06-29).</div>
   <div class="csl-entry">APA Style [@APA_Style]. Tweets[EB].</div>
   <div class="csl-entry">Aristotle. Poetics[M]. Butcher S H, tran.. The Internet Classics Archive, 1994. .</div>
   <div class="csl-entry">Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R]. .</div>
   <div class="csl-entry">Author A. How workout buddies can help stave off loneliness[N]. <i><span style="font-style:normal;">The Washington Post</span></i>, 2019.</div>
-  <div class="csl-entry">Avramova N. The secret to a long, happy, health life? Think age-positive[EB](2019–01–03).</div>
-  <div class="csl-entry">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[Z](2018–02–26).</div>
+  <div class="csl-entry">Avramova N. The secret to a long, happy, health life? Think age-positive[EB](2019-01-03).</div>
+  <div class="csl-entry">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[Z](2018-02-26).</div>
   <div class="csl-entry">Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015. .</div>
   <div class="csl-entry">Balsam K F, Martell C R, Jones K P, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[M]. Iwamasa G Y, Hays P A, eds.//Culturally responsive cognitive behavior therapy: Practice and supervision. 2 edition. American Psychological Association, 2019. 287–314.</div>
   <div class="csl-entry">Bergeson S. Really cool neutral plasmas[J]. <i><span style="font-style:normal;">Science</span></i>, 2019, 363(6422): 33–34.</div>
@@ -480,7 +480,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Blackwell D L, Lucas J W, Clarke T C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012[R]. Centers for Disease Control and Prevention, 2014. .</div>
   <div class="csl-entry">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252–04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020. .</div>
   <div class="csl-entry">Boddy J, Neumann T, Jennings S, et al. Ethics principles[EB].</div>
-  <div class="csl-entry">Bologna C. What happens to your mind and body when you feel homesick?[EB](2018–06–27).</div>
+  <div class="csl-entry">Bologna C. What happens to your mind and body when you feel homesick?[EB](2018-06-27).</div>
   <div class="csl-entry">Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[Z]. Biostat, 2014. .</div>
   <div class="csl-entry">Bowie D. Blackstar[Z]. Columbia, 2016. .</div>
   <div class="csl-entry">British Cardiovascular Society Working Group. British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients[R]. British Cardiovascular Society, 2016. .</div>
@@ -492,28 +492,28 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Cable D. The racial dot map[Z]. University of Virginia: Weldon Cooper Center for Public Service, 2013. .</div>
   <div class="csl-entry">Cain S. Quiet: The power of introverts in a world that can’t stop talking[M]. Random House Audio, 2012. .</div>
   <div class="csl-entry">Canada Council for the Arts. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. .</div>
-  <div class="csl-entry">Canan E, Vasilev J. Lecture notes on resource allocation[Z](2019–05–22).</div>
+  <div class="csl-entry">Canan E, Vasilev J. Lecture notes on resource allocation[Z](2019-05-22).</div>
   <div class="csl-entry">Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]. Garcia Meilán J J, ed.//Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015. 67–86.</div>
   <div class="csl-entry">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000. .</div>
-  <div class="csl-entry">Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB](2018–01–23).</div>
+  <div class="csl-entry">Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB](2018-01-23).</div>
   <div class="csl-entry">Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz J J, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J]. <i><span style="font-style:normal;">Clínica y Salud</span></i>, 2018, 28(3): 155–161.</div>
   <div class="csl-entry">Childish Gambino. This is America[Z]. mcDJ; RCA, 2018. .</div>
   <div class="csl-entry">Christian B, Griffiths T. Algorithms to live by: The computer science of human decisions[M]. Henry Holt and Co., 2016. .</div>
   <div class="csl-entry">Cuellar N G. Study abroad programs[J]. <i><span style="font-style:normal;">Journal of Transcultural Nursing</span></i>, 2016, 27(3): 209.</div>
-  <div class="csl-entry">de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z](1960–05–04).</div>
-  <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018–04–26–29).</div>
+  <div class="csl-entry">de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z](1960-05-04).</div>
+  <div class="csl-entry">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26–29).</div>
   <div class="csl-entry">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. <i><span style="font-style:normal;">Midwifery</span></i>, 2013, 29(10): 1122–1128.</div>
   <div class="csl-entry">Delacroix E. Faust attempts to seduce Marguerite[Z].</div>
   <div class="csl-entry">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018. .</div>
   <div class="csl-entry">Epocrates. Epocrates medical references[Z]. App Store, 2019a. .</div>
   <div class="csl-entry">Epocrates. Interaction Check: Aspirin + Sertraline[Z]. Google Play Store, 2019b. .</div>
   <div class="csl-entry">Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology[M]. 5 edition. John Wiley &#38; Sons, 2010. .</div>
-  <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017–07–12–15).</div>
+  <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12–15).</div>
   <div class="csl-entry">Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books, 2010. .</div>
   <div class="csl-entry">Fried D, Polyakova A. Democratic defense against disinformation[R]. Atlantic Council, 2018. .</div>
-  <div class="csl-entry">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][Z](2018–03–22).</div>
+  <div class="csl-entry">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][Z](2018-03-22).</div>
   <div class="csl-entry">GDJ. Neural network deep learning prismatic[Z].</div>
-  <div class="csl-entry">Glass I. Amusement park: 443[Z]. WBEZ Chicago, 2011. (2011–08–12).</div>
+  <div class="csl-entry">Glass I. Amusement park: 443[Z]. WBEZ Chicago, 2011. (2011-08-12).</div>
   <div class="csl-entry">Goldin-Meadow S. Gesture and cognitive development[M]. Liben L S, Mueller U, eds.//Handbook of child psychology and developmental science. 7 edition. John Wiley &#38; Sons, 2015. 339–380.</div>
   <div class="csl-entry">Goldman C. The complicated calibration of love, especially in adoption[N]. <i><span style="font-style:normal;">Chicago Tribune</span></i>, 2018.</div>
   <div class="csl-entry">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[Z].</div>
@@ -530,8 +530,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. <i><span style="font-style:normal;">Experimental Psychology</span></i>, 2019.</div>
   <div class="csl-entry">Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary, 2012. .</div>
   <div class="csl-entry">Kalnay E, Kanamitsu M, Kistler R, et al. The NCEP/NCAR 40-year reanalysis project[J]. <i><span style="font-style:normal;">Bulletin of the American Meteorological Society</span></i>, 1996, 77(3): 437–471.</div>
-  <div class="csl-entry">King M L Jr. I have a dream[Z]. American Rhetoric, 1963. (1963–08–28).</div>
-  <div class="csl-entry">Klymkowsky M. Can we talk scientifically about free will?[EB](2018–09–15).</div>
+  <div class="csl-entry">King M L Jr. I have a dream[Z]. American Rhetoric, 1963. (1963-08-28).</div>
+  <div class="csl-entry">Klymkowsky M. Can we talk scientifically about free will?[EB](2018-09-15).</div>
   <div class="csl-entry">KS in NJ. From this article, it sounds like men are figuring something out that women have known forever. I know of many[N]. <i><span style="font-style:normal;">The Washington Post</span></i>, 2019.</div>
   <div class="csl-entry">Lamar K. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017. .</div>
   <div class="csl-entry">Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[Z]. PsyArXiv, 2018. .</div>
@@ -539,9 +539,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013. .</div>
   <div class="csl-entry">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z].</div>
   <div class="csl-entry">Mack R, Spake G. Citing open source images and formatting references for presentations[Z].</div>
-  <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016–03–30–04–02).</div>
+  <div class="csl-entry">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30–04-02).</div>
   <div class="csl-entry">Madigan S. Narrative therapy[M]. 2 edition. American Psychological Association, 2019. .</div>
-  <div class="csl-entry">Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency[EB](2016–12–29).</div>
+  <div class="csl-entry">Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency[EB](2016-12-29).</div>
   <div class="csl-entry">McCauley S M, Christiansen M H. Language learning as language use: A cross-linguistic model of child language development[J]. <i><span style="font-style:normal;">Psychological Review</span></i>, 2019, 126(1): 1–51.</div>
   <div class="csl-entry">McCurry S. Afghan girl[Z].</div>
   <div class="csl-entry">Meadows D H. Thinking in systems: A primer[M]. Wright D, ed.. Chelsea Green Publishing, 2008. .</div>
@@ -550,17 +550,17 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Merriam-Webster. Self-report[M].</div>
   <div class="csl-entry">Mirabito L A, Heck N C. Bringing LGBTQ youth theater into the spotlight[J]. <i><span style="font-style:normal;">Psychology of Sexual Orientation and Gender Diversity</span></i>, 2016, 3(4): 499–500.</div>
   <div class="csl-entry">Morey M C. Physical activity and exercise in older adults[J]. <i><span style="font-style:normal;">UpToDate</span></i>, 2019.</div>
-  <div class="csl-entry">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![Z](2018–09–12).</div>
+  <div class="csl-entry">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![Z](2018-09-12).</div>
   <div class="csl-entry">National Cancer Institute. Facing forward: Life after cancer treatment: 18-2424[R]. U.S. Department of Health and Human Services, National Institutes of Health, 2018. .</div>
   <div class="csl-entry">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. National Archive of Data on Arts and Culture, 2016. .</div>
-  <div class="csl-entry">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[Z](2018–11–28).</div>
+  <div class="csl-entry">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[Z](2018-11-28).</div>
   <div class="csl-entry">National Nurses United. What employers should do to protect nurses from Zika[EB].</div>
-  <div class="csl-entry">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[Z](2018–06–26).</div>
+  <div class="csl-entry">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[Z](2018-06-26).</div>
   <div class="csl-entry">Oregan Youth Authority. Recidivism outcomes[DS].</div>
   <div class="csl-entry">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z].</div>
   <div class="csl-entry">Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. <i><span style="font-style:normal;">Psychonomic Bulletin &#38; Review</span></i>, [no date].</div>
-  <div class="csl-entry">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018–09–27–30).</div>
-  <div class="csl-entry">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB](2018–02–01).</div>
+  <div class="csl-entry">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27–30).</div>
+  <div class="csl-entry">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB](2018-02-01).</div>
   <div class="csl-entry">Pew Research Center. American trends panel Wave 26[DS].</div>
   <div class="csl-entry">Piaget J. Intellectual evolution from adolescence to adulthood[J]. <i><span style="font-style:normal;">Human Development</span></i>, 1972, 15(1): 1–12.</div>
   <div class="csl-entry">Piaget J, Inhelder B. The psychology of the child[M]. Quadrige, 1966. .</div>
@@ -588,13 +588,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Vedantam S. Hidden brain[Z]. NPR, 2015. .</div>
   <div class="csl-entry">Weinstock R, Leong G B, Silva J A. Defining forensic psychiatry: Roles and responsibilities[M]. Rosner R, ed.//Principles and practise of forensic psychiatry. 2 edition. CRC Press, 2003. 7–13.</div>
   <div class="csl-entry">Weir K. Forgiveness can improve mental and physical health[J]. <i><span style="font-style:normal;">Monitor on Psychology</span></i>, 2017, 48(1): 30.</div>
-  <div class="csl-entry">White B. I treasure every minute we spent together #koko [image attached][Z](2018–06–21).</div>
+  <div class="csl-entry">White B. I treasure every minute we spent together #koko [image attached][Z](2018-06-21).</div>
   <div class="csl-entry">Wood G. American gothic[Z].</div>
   <div class="csl-entry">World Health Organization. Questions and answers on immunization and vaccine safety[EB].</div>
   <div class="csl-entry">World Health Organization. International statistical classification of diseases and related health problems[R]. 11 edition. World Health Organization, 2019. .</div>
   <div class="csl-entry">Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective[Z].</div>
   <div class="csl-entry">Yousafzai M. We are displaced: My journey and stories from refugee girls around the world[M]. .</div>
-  <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[Z](2018–11–26).</div>
+  <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[Z](2018-11-26).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

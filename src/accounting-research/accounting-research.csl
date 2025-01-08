@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2024-07-16T16:16:21+08:00</updated>
+    <updated>2025-01-08T16:50:30+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -23,14 +23,13 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">～</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
     </terms>
   </locale>
-  <locale xml:lang="en">
+  <locale>
     <terms>
       <term name="page-range-delimiter">～</term>
     </terms>
@@ -139,7 +138,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="-">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>
@@ -151,7 +150,7 @@
     </choose>
   </macro>
   <macro name="accessed-date">
-    <date variable="accessed" delimiter="–" prefix="[" suffix="]">
+    <date variable="accessed" delimiter="-" prefix="[" suffix="]">
       <date-part name="year"/>
       <date-part name="month" form="numeric-leading-zeros"/>
       <date-part name="day" form="numeric-leading-zeros"/>
