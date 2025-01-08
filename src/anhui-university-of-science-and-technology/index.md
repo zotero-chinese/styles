@@ -56,7 +56,7 @@
 <sup>[3]</sup><br>
 <sup>[1,3]</sup><br>
 <sup>[1,2,4]</sup><br>
-<sup>[1–3]</sup><br>
+<sup>[1～3]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献

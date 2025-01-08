@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>西安电子科技大学研究生学位论文模板（2015版）-申请专业学位硕士研究生使用-2024.04.rar — 1、西安电子科技大学研究生学位论文模板（2015年版）-2022.11修订.docx</summary>
-    <updated>2024-12-07T18:33:02+08:00</updated>
+    <updated>2025-01-08T17:10:41+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -38,6 +38,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>

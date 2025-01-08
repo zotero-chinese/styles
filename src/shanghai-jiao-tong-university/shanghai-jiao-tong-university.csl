@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 区分中文和西文的“等”和“et al.”。2. 西文名缩写，名在前姓在后。3. 不显示 DOI。4. 网页显示URL。</summary>
-    <updated>2024-07-16T17:49:57+08:00</updated>
+    <updated>2025-01-08T17:10:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -45,6 +45,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>

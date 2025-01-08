@@ -28,6 +28,11 @@
       <term name="month-07" form="short">July</term>
     </terms>
   </locale>
+  <locale>
+    <terms>
+      <term name="citation-range-delimiter">-</term>
+    </terms>
+  </locale>
   <macro name="author">
     <names variable="author">
       <name et-al-min="6" et-al-use-first="5" initialize-with="" name-as-sort-order="all" sort-separator=" "/>

@@ -14,7 +14,7 @@
     <category field="science"/>
     <issn>0023-074X</issn>
     <summary>《科学通报》投稿指南.pdf</summary>
-    <updated>2024-07-16T16:10:30+08:00</updated>
+    <updated>2025-01-08T17:10:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -52,6 +52,7 @@
     </date>
     <terms>
       <term name="et-al-en">et al.</term>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">–</term>
     </terms>
   </locale>

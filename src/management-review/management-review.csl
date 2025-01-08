@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1003-1952</issn>
     <summary>在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
-    <updated>2024-07-16T17:03:31+08:00</updated>
+    <updated>2025-01-08T17:09:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -34,6 +34,7 @@
   </locale>
   <locale>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="edition">第%s版</term>
     </terms>
   </locale>

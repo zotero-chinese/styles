@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="physics"/>
     <summary>《原子核物理评论》Word 论文模板</summary>
-    <updated>2024-11-28T23:57:09+08:00</updated>
+    <updated>2025-01-08T17:10:42+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -39,6 +39,7 @@
     </date>
     <terms>
       <term name="et-al-en">et al.</term>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>

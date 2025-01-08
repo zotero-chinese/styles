@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 引文页码在括号外。</summary>
-    <updated>2024-07-16T15:49:39+08:00</updated>
+    <updated>2025-01-08T17:10:42+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -45,6 +45,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>

@@ -8,7 +8,7 @@
 
 ### 引注
 
-<sup>[1–8]</sup>
+<sup>[1-8]</sup>
 
 ### 参考文献表
 
@@ -48,7 +48,7 @@
 <sup>[3]</sup><br>
 <sup>[1, 3]</sup><br>
 <sup>[1, 2, 4]</sup><br>
-<sup>[1–3]</sup><br>
+<sup>[1-3]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献
@@ -1215,7 +1215,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. Ethical principles of psychologists and code of conduct[R]. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development. 2015–2020.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development. 2015/2020.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy. 2013.</div>
@@ -1338,7 +1338,7 @@
     <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Anonymous. Goodbye children[Z]. Nouvelles Éditions de Films, 19871987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002–20082002–2008.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002/20082002/2008.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Anonymous. Lemons: Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
@@ -1395,7 +1395,7 @@
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">King M L Jr. I have a dream[Z]. American Rhetoric, 1963(1963-08-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite[Z]1826–1827.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite[Z]1826/1827.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic[Z]1930.</div>

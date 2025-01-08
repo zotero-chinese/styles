@@ -15,7 +15,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>北京理工大学引用样式</summary>
-    <updated>2025-01-03T10:47:12+08:00</updated>
+    <updated>2025-01-08T17:10:42+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -41,6 +41,7 @@
     </date>
     <!-- 页码/日期之间的分隔符显示不同格式的横杠（或其它标点） -->
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>

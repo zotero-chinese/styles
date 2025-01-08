@@ -19,10 +19,6 @@
   </info>
   <locale xml:lang="en">
     <style-options punctuation-in-quote="false"/>
-    <terms>
-      <!-- 英文页码的连接号使用 ~ -->
-      <term name="page-range-delimiter">~</term>
-    </terms>
   </locale>
   <locale xml:lang="zh">
     <terms>
@@ -31,7 +27,13 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
+      <term name="page-range-delimiter">～</term>
       <term name="editor" form="short">主编</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="citation-range-delimiter">-</term>
     </terms>
   </locale>
   <macro name="author-bib-en">

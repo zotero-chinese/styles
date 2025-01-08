@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中山大学研究生学位论文格式要求.pdf</summary>
-    <updated>2024-12-06T21:42:39+08:00</updated>
+    <updated>2025-01-08T18:38:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -44,6 +44,9 @@
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
+    <terms>
+      <term name="citation-range-delimiter">-</term>
+    </terms>
   </locale>
   <!-- 主要责任者 -->
   <macro name="author-en">

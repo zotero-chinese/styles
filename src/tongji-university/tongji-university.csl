@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>同济大学学位论文写作规范（2023更新）</summary>
-    <updated>2024-01-25T14:13:23+08:00</updated>
+    <updated>2025-01-08T18:04:48+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -41,6 +41,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">～</term>
       <term name="page-range-delimiter">～</term>
     </terms>
   </locale>

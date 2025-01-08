@@ -11,15 +11,11 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2025-01-03T10:49:33+08:00</updated>
+    <updated>2025-01-08T18:03:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <style-options punctuation-in-quote="false"/>
-    <terms>
-      <!-- 英文页码的连接号使用 hyphen -->
-      <term name="page-range-delimiter">–</term>
-    </terms>
   </locale>
   <locale xml:lang="zh">
     <terms>
@@ -32,12 +28,16 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <!-- 中文页码的连接号使用一字线（em dash） -->
-      <term name="page-range-delimiter">～</term>
       <term name="editor" form="short">主编</term>
       <term name="compiler" form="short">整理</term>
       <term name="long-ordinal-11">十一</term>
       <term name="long-ordinal-12">十二</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <!-- 连接号使用波浪线 -->
+      <term name="page-range-delimiter">～</term>
     </terms>
   </locale>
   <macro name="author-en">

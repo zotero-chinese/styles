@@ -19,7 +19,7 @@
     <category citation-format="numeric"/>
     <category field="physics"/>
     <summary>参考文献引用须知.doc（2013年10月）。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2024-06-19T18:26:12+08:00</updated>
+    <updated>2025-01-08T17:28:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -35,6 +35,7 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
+      <term name="page-range-delimiter">&#8212;</term>
     </terms>
   </locale>
   <macro name="author">

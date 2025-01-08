@@ -15,7 +15,7 @@
     <category field="chemistry"/>
     <issn>1005-281X</issn>
     <summary>投稿论文模板 (Word) 2022-2-22 更新</summary>
-    <updated>2024-12-08T14:27:44+08:00</updated>
+    <updated>2025-01-08T17:10:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -45,6 +45,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
       <term name="thesis-en">Doctoral dissertation</term>
     </terms>

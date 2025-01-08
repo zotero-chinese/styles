@@ -8,7 +8,7 @@
 
 ### 引注
 
-<sup>[1–8]</sup>
+<sup>[1-8]</sup>
 
 ### 参考文献表
 
@@ -29,7 +29,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg, A. A. et al., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, vol.510, pp.356~362.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg, A. A. et al., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, vol.510, pp.356–362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年。</div>
@@ -48,7 +48,7 @@
 <sup>[3]</sup><br>
 <sup>[1,3]</sup><br>
 <sup>[1,2,4]</sup><br>
-<sup>[1–3]</sup><br>
+<sup>[1-3]</sup><br>
 
 
 ### GB/T 7714—2015 示例文献
@@ -156,13 +156,13 @@
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Kanamori, H., 1998, “Shaking without Quaking”, <i>Science</i>, 279(5359), p.2063.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Caplan, P., 1993, “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, 4(2), pp.61~66.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Caplan, P., 1993, “Cataloging Internet Resources”, <i>The Public-Access Computer Systems Review</i>, 4(2), pp.61–66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Frese, K. S. et al., 2013, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, 2(1), pp.378~398.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Frese, K. S. et al., 2013, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, 2(1), pp.378–398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Myburg, A. A. et al., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, vol.510, pp.356~362.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Myburg, A. A. et al., 2014, “The Genome of Eucalyptus Grandis”, <i>Nature</i>, vol.510, pp.356–362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">邓一刚：《全智能节电器》，2006年。</div>
@@ -213,7 +213,7 @@
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Dowler, L., 1995, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment”, <i>Journal of Library Administration</i>, 21(1/2), pp.5~26.</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Dowler, L., 1995, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment”, <i>Journal of Library Administration</i>, 21(1/2), pp.5–26.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Sunstein, C. R., 1996, “Social Norms and Social Roles”, <i>Columbia Law Review</i>, vol.96, p.903.</div>
@@ -231,7 +231,7 @@
     <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Crane, D., 1972, <i>Invisible College</i>, Chicago: Univ. of Chicago Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Stieg, M. F., 1981, “The Information Needs of Historians”, <i>College &#38; Research Libraries</i>, 42(6), pp.549~560.</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Stieg, M. F., 1981, “The Information Needs of Historians”, <i>College &#38; Research Libraries</i>, 42(6), pp.549–560.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">王临惠等：《天津方言的源流关系刍议》，《山西师范大学学报（社会科学版）》2010年第4期。</div>
@@ -243,7 +243,7 @@
     <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Kennedy, W. J. and Garrison, R. E., 1975, “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England”, <i>Sedimentology</i>, vol.22, p.311.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Kennedy, W. J. and Garrison, R. E., 1975, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England”, <i>Lethaia</i>, 8(4), pp.339~360.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Kennedy, W. J. and Garrison, R. E., 1975, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England”, <i>Lethaia</i>, 8(4), pp.339–360.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">张忠智：《科技书刊的总编（主编）的角色要求》，见中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，中国科学技术期刊编辑学会学术委员会，1997年。</div>
@@ -402,19 +402,19 @@
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">陈建军：《从数字地球到智慧地球》，《国土资源导刊》2010年第10期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Des Marais, D. J. et al., 1992, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, <i>Nature</i>, 359(6396), pp.605~609.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Des Marais, D. J. et al., 1992, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment”, <i>Nature</i>, 359(6396), pp.605–609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Saito, M. and Miyazaki, K., 2006, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6), pp.169~176.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Saito, M. and Miyazaki, K., 2006, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu”, <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6), pp.169–176.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Walls, S. C. et al., 2013, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, <i>Biology</i>, 2(1), pp.399~418.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Walls, S. C. et al., 2013, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, <i>Biology</i>, 2(1), pp.399–418.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Franz, A. K. et al., 2013, “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, vol.8, pp.1053~1062.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Franz, A. K. et al., 2013, “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, vol.8, pp.1053–1062.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Park, J. R. and Tosaka, Y., 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48(8), pp.696~715.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Park, J. R. and Tosaka, Y., 2010, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms”, <i>Cataloging &#38; Classification Quarterly</i>, 48(8), pp.696–715.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">丁文详：《数字革命与竞争国际化》，《中国青年报》2000年。</div>
@@ -456,19 +456,19 @@
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">张三、李四：《中国心理学的过去与未来》，《心理学报》2008年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Mou, W. and McNamara, T. P., 2002, “Intrinsic Frames of Reference in Spatial Memory”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.28, pp.162~170.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Mou, W. and McNamara, T. P., 2002, “Intrinsic Frames of Reference in Spatial Memory”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.28, pp.162–170.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">赵一等：《中国心理学的过去与未来》，《心理学报》2008年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Mou, W. et al., 2004, “Frames of Reference in Spatial Memories Acquired from Language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.30, pp.171~180.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Mou, W. et al., 2004, “Frames of Reference in Spatial Memories Acquired from Language”, <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, vol.30, pp.171–180.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">赵一一等：《中国心理学的过去与未来》，《心理学报》2008年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Wolchik, S. A. et al., 2000, “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce”, <i>Journal of Consulting and Clinical Psychology</i>, 68(5), pp.843~856.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Wolchik, S. A. et al., 2000, “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce”, <i>Journal of Consulting and Clinical Psychology</i>, 68(5), pp.843–856.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">张三、李四：《中国心理学的过去与未来》，《心理学报》。</div>
@@ -693,7 +693,7 @@
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo, M., 1997, <i>The Travels of Marco Polo</i>, Hertfordshire: Cumberland House.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain, H. B., 1993, “On the Search for Civil Society in China”, <i>Modern China</i>, 19(2), pp.199~215.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain, H. B., 1993, “On the Search for Civil Society in China”, <i>Modern China</i>, 19(2), pp.199–215.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Schfield, R. S., 1983, “The Impact of Scarcity and Plenty on Population Change in England”, in Rotberg, R. I. and T. K. Rabb, eds: <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press.</div>
@@ -762,7 +762,7 @@
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">《陆红霞诉南通市发改委政府信息公开案》，2015年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Reich, C. A., 1964, “The New Property”, <i>Yale Law Journal</i>, 73(5), pp.733~787.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Reich, C. A., 1964, “The New Property”, <i>Yale Law Journal</i>, 73(5), pp.733–787.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Brandeis, L. D., 1913, “What Publicity Can Do”, <i>Harper’s Weekly</i>, p.10.</div>
@@ -870,10 +870,10 @@
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Chevallier, M., 2003, <i>L’État de droit</i>, Paris: Montchrestien.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Poisson, M., 2015, “Le droit de la mer”, <i>RGDIP</i>, pp.15~47.</div>
+    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Poisson, M., 2015, “Le droit de la mer”, <i>RGDIP</i>, pp.15–47.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Badiou-Monferran, C., 1997, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle”, <i>La Licorne</i>, (43), pp.75~94.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Badiou-Monferran, C., 1997, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle”, <i>La Licorne</i>, (43), pp.75–94.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Poisson, M., 2015, “Le droit de la mer”, in <i>Le droit des Océans</i>.</div>
@@ -891,10 +891,10 @@
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Joyeux-Prunel, B., <i>L’histoire de l’art et le quantitatif</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Vogel, B., 2017, “Rechtsgüterschutz und Normgeltung”, <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 129(3), pp.629~649.</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Vogel, B., 2017, “Rechtsgüterschutz und Normgeltung”, <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 129(3), pp.629–649.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Würdinger, M., 2012, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Juristische Schulung</i>, (3), pp.234~240.</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Würdinger, M., 2012, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Juristische Schulung</i>, (3), pp.234–240.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Fischer, T., 2015, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>.</div>
@@ -978,22 +978,22 @@
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">McCauley, S. M. and Christiansen, M. H., 2019, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, 126(1), pp.1~51.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">McCauley, S. M. and Christiansen, M. H., 2019, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development”, <i>Psychological Review</i>, 126(1), pp.1–51.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Ahmann, E. et al., 2018, “A Descriptive Review of ADHD Coaching Research: Implications for College Students”, <i>Journal of Postsecondary Education and Disability</i>, 31(1), pp.17~39.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Ahmann, E. et al., 2018, “A Descriptive Review of ADHD Coaching Research: Implications for College Students”, <i>Journal of Postsecondary Education and Disability</i>, 31(1), pp.17–39.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anderson, M., 2018, “Getting Consistent with Consequences”, <i>Educational Leadership</i>, 76(1), pp.26~33.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anderson, M., 2018, “Getting Consistent with Consequences”, <i>Educational Leadership</i>, 76(1), pp.26–33.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Goldman, C., 2018, “The Complicated Calibration of Love, Especially in Adoption”, <i>Chicago Tribune</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Kalnay, E. et al., 1996, “The NCEP/NCAR 40-Year Reanalysis Project”, <i>Bulletin of the American Meteorological Society</i>, 77(3), pp.437~471.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Kalnay, E. et al., 1996, “The NCEP/NCAR 40-Year Reanalysis Project”, <i>Bulletin of the American Meteorological Society</i>, 77(3), pp.437–471.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">De Vries, R. et al., 2013, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, 29(10), pp.1122~1128.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">De Vries, R. et al., 2013, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, 29(10), pp.1122–1128.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Burin, D. et al., 2019, “Body Ownership Increases the Interference between Observed and Executed Movements”, <i>PLOS ONE</i>, 14(1).</div>
@@ -1005,16 +1005,16 @@
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Pachur, T. and Scheibehenne, B., “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach”, <i>Psychonomic Bulletin &#38; Review</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Chaves-Morillo, V. et al., 2018, “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age”, <i>Clínica y Salud</i>, 28(3), pp.155~161.</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Chaves-Morillo, V. et al., 2018, “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age”, <i>Clínica y Salud</i>, 28(3), pp.155–161.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Piaget, J., 1972, “Intellectual Evolution from Adolescence to Adulthood”, <i>Human Development</i>, 15(1), pp.1~12.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Piaget, J., 1972, “Intellectual Evolution from Adolescence to Adulthood”, <i>Human Development</i>, 15(1), pp.1–12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Shore, M. F., 2014, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, 84(6), pp.611~618.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Shore, M. F., 2014, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, 84(6), pp.611–618.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">1981, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, 51(3), pp.391~402.</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">1981, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, <i>American Journal of Orthopsychiatry</i>, 51(3), pp.391–402.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Lilienfeld, S. O., ed., 2018, <i>Archives of Scientific Psychology</i>.</div>
@@ -1029,7 +1029,7 @@
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Morey, M. C., 2019, “Physical Activity and Exercise in Older Adults”, <i>UpToDate</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Bergeson, S., 2019, “Really Cool Neutral Plasmas”, <i>Science</i>, 363(6422), pp.33~34.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Bergeson, S., 2019, “Really Cool Neutral Plasmas”, <i>Science</i>, 363(6422), pp.33–34.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Bustillos, M., 2013, “On Video Games and Storytelling: An Interview with Tom Bissell”, <i>The New Yorker</i>.</div>
@@ -1155,7 +1155,7 @@
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Sacchett, C. and Humphreys, G. W., 2004, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, in Balota, D. A. and E. J. Marsh, eds: <i>Cognitive Psychology: Key Readings in Cognition</i>, Psychology Press.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Sacchett, C. and Humphreys, G. W., 1992, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, <i>Cognitive Neuropsychology</i>, 9(1), pp.73~86.</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Sacchett, C. and Humphreys, G. W., 1992, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, <i>Cognitive Neuropsychology</i>, 9(1), pp.73–86.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Bronfenbrenner, U., 2005, “The Social Ecology of Human Development: A Retrospective Conclusion”, in Bronfenbrenner, U., ed: <i>Making Human Beings Human: Bioecological Perspectives on Human Development</i>, SAGE Publications.</div>
@@ -1248,7 +1248,7 @@
     <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Hutcheson, V. H., 2012, <i>Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents</i>, The College of William &#38; Mary.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Mirabito, L. A. and Heck, N. C., 2016, “Bringing LGBTQ Youth Theater into the Spotlight”, <i>Psychology of Sexual Orientation and Gender Diversity</i>, 3(4), pp.499~500.</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Mirabito, L. A. and Heck, N. C., 2016, “Bringing LGBTQ Youth Theater into the Spotlight”, <i>Psychology of Sexual Orientation and Gender Diversity</i>, 3(4), pp.499–500.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[92]</div><div class="csl-right-inline">2016, <i>The Year We Thought about Love</i>.</div>

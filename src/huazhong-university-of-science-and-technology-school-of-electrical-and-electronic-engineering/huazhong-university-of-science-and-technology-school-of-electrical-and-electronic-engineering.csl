@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <category field="engineering"/>
-    <updated>2024-07-16T17:30:24+08:00</updated>
+    <updated>2025-01-08T17:45:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -40,8 +40,6 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <!-- 中文文献的页码分隔符使用全角一字线 -->
-      <!-- <term name="page-range-delimiter">&#8212;</term> -->
     </terms>
   </locale>
   <locale>
@@ -51,6 +49,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>

@@ -11,7 +11,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-06-18T23:27:27+08:00</updated>
+    <updated>2025-01-08T17:10:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -30,6 +30,7 @@
   </locale>
   <locale>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">–</term>
     </terms>
   </locale>

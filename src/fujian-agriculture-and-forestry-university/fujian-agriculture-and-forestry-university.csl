@@ -13,23 +13,27 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2025-01-03T10:49:33+08:00</updated>
+    <updated>2025-01-08T17:44:54+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous">佚名</term>
       <term name="edition">版</term>
-      <term name="page-range-delimiter">-</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
     </terms>
   </locale>
-  <locale xml:lang="en">
+  <locale>
+    <date form="numeric">
+      <date-part name="year" range-delimiter="/"/>
+      <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
+      <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
+    </date>
     <terms>
-      <term name="et-al">et al.</term>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
