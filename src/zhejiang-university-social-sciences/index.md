@@ -173,7 +173,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">Koseki A, Momose H, Kawahito M, <i>et al.</i> Compiler: US828402[P]. 2002-05-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, <i>et al.</i> The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
@@ -1541,7 +1541,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[179]</div><div class="csl-right-inline">TED. Brené Brown: Listening to shame[Z]. YouTube, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Tellegen A &#38; Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
+    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Tellegen A &#38; Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[181]</div><div class="csl-right-inline">The New York Public Library [@nypl]. The raven[EB/OL]. [2019-04-16]. <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>.</div>

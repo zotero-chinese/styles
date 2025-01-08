@@ -28,11 +28,11 @@
 ### 引注
 
 Social norms and social roles<br>
-Why the West rules–for now: the patterns of history, and what they reveal about the future<br>
+Why the West rules—for now: the patterns of history, and what they reveal about the future<br>
 西方文明史：问题与源头<br>
 Social norms and social roles西方文明史：问题与源头<br>
-Social norms and social rolesWhy the West rules–for now: the patterns of history, and what they reveal about the future国史旧闻<br>
-Social norms and social rolesWhy the West rules–for now: the patterns of history, and what they reveal about the future西方文明史：问题与源头<br>
+Social norms and social rolesWhy the West rules—for now: the patterns of history, and what they reveal about the future国史旧闻<br>
+Social norms and social rolesWhy the West rules—for now: the patterns of history, and what they reveal about the future西方文明史：问题与源头<br>
 
 
 ### GB/T 7714—2015 示例文献
@@ -94,7 +94,7 @@ Social norms and social rolesWhy the West rules–for now: the patterns of histo
   <div class="csl-entry">电子图书馆的现实模型</div>
   <div class="csl-entry">The research university’s dilemma: Resource sharing and research in a transinstitutional environment</div>
   <div class="csl-entry">Social norms and social roles</div>
-  <div class="csl-entry">Why the West rules–for now: the patterns of history, and what they reveal about the future</div>
+  <div class="csl-entry">Why the West rules—for now: the patterns of history, and what they reveal about the future</div>
   <div class="csl-entry">西方文明史：问题与源头</div>
   <div class="csl-entry">国史旧闻</div>
   <div class="csl-entry">Invisible college</div>
@@ -480,7 +480,7 @@ Social norms and social rolesWhy the West rules–for now: the patterns of histo
   <div class="csl-entry">Latero tactile display</div>
   <div class="csl-entry">Epocrates medical references</div>
   <div class="csl-entry">Interaction Check: Aspirin + Sertraline</div>
-  <div class="csl-entry">Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</div>
+  <div class="csl-entry">Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</div>
   <div class="csl-entry">Gender-Science IAT</div>
   <div class="csl-entry">Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)</div>
   <div class="csl-entry">Acculturative Stress Inventory (ASI)</div>

@@ -178,7 +178,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kennedy W. J., Garrison R. E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia, 1975b, 8(4): 339–360</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012</div>
   <div class="csl-entry">Koseki A., Momose H., Kawahito M., Komatsu H. Compiler: US[P]. 2002-05-25</div>
-  <div class="csl-entry">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010</div>
+  <div class="csl-entry">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010</div>
   <div class="csl-entry">Myburg A. A., Grattapaglia D., Tuskan G. A., Hellsten U., Hayes R. D., Grimwood J., Jenkins J., Lindquist E., Tice H., Bauer D., Goodstein D. M., Dubchak I., Poliakov A., Mizrachi E., Kullan A. R. K., Hussey S. G., Pinard D., van der Merwe K., Singh P., van Jaarsveld I., Silva-Junior O. B., Togawa R. C., Pappas M. R., Faria D. A., Sansaloni C. P., Petroli C. D., Yang X., Ranjan P., Tschaplinski T. J., Ye C.-Y., Li T., Sterck L., Vanneste K., Murat F., Soler M., Clemente H. S., Saidi N., Cassan-Wang H., Dunand C., Hefer C. A., Bornberg-Bauer E., Kersting A. R., Vining K., Amarasinghe V., Ranik M., Naithani S., Elser J., Boyd A. E., Liston A., Spatafora J. W., Dharmwardhana P., Raja R., Sullivan C., Romanel E., Alves-Ferreira M., Külheim C., Foley W., Carocha V., Paiva J., Kudrna D., Brommonschenkel S. H., Pasquali G., Byrne M., Rigault P., Tibbits J., Spokevicius A., Jones R. C., Steane D. A., Vaillancourt R. E., Potts B. M., Joubert F., Barry K., Pappas G. J., Strauss S. H., Jaiswal P., Grima-Pettenati J., Salse J., Van de Peer Y., Rokhsar D. S., Schmutz J. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356–362</div>
   <div class="csl-entry">O’Brien J. A. Introduction to information systems[M]. Burr Ridge, IL: Irwin, 1994</div>
   <div class="csl-entry">Online Computer Library Center, Inc. About OCLC: History of cooperation[03/27/2012]</div>
@@ -580,7 +580,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Stults-Kolehmainen M. A., Sinha R. The effects of stress on physical activity and exercise. PubMed Central</div>
   <div class="csl-entry">Tactile Labs. Latero tactile display</div>
   <div class="csl-entry">Tafoya N., Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]//Ethnicity and family therapyGuilford Press, 2005: 55–63</div>
-  <div class="csl-entry">Tellegen A., Ben-Porath Y. S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical ManualPearson, 2011</div>
+  <div class="csl-entry">Tellegen A., Ben-Porath Y. S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical ManualPearson, 2011</div>
   <div class="csl-entry">The New York Public Library [@nypl]. The raven[04/16/2019]</div>
   <div class="csl-entry">U.S. Census Bureau. U.S. and world population clock[07/03/2019]</div>
   <div class="csl-entry">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devicesU.S. Food and Drug Administration, 2019</div>

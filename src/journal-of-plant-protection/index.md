@@ -99,7 +99,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kennedy WJ, Garrison RE. 1975b. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. Lethaia, 8(4): 339-360</div>
   <div class="csl-entry">Kinchy A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops. Cambridge, Mass.: MIT Press, pp. 50</div>
   <div class="csl-entry">Koseki A, Momose H, Kawahito M, Komatsu H. 2002. Compiler. US</div>
-  <div class="csl-entry">Morris I. 2010. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux</div>
+  <div class="csl-entry">Morris I. 2010. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, et al. 2014. The genome of eucalyptus grandis. Nature, 510: 356-362</div>
   <div class="csl-entry">O’Brien JA. 1994. Introduction to information systems (7th edition). Burr Ridge, IL: Irwin</div>
   <div class="csl-entry">Online Computer Library Center, Inc. n.d. About OCLC: History of cooperation</div>
@@ -529,7 +529,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Stults-Kolehmainen MA, Sinha R. 2015. The effects of stress on physical activity and exercise. PubMed Central</div>
   <div class="csl-entry">Tactile Labs. 2015. Latero tactile display</div>
   <div class="csl-entry">Tafoya N, Del Vecchio A. 2005. Back to the future: An examination of the Native American Holocaust experience (3rd edition).//McGoldrick M, Giordano J, Garcia-Preto N. Ethnicity and family therapy. Guilford Press, pp. 55-63</div>
-  <div class="csl-entry">Tellegen A, Ben-Porath YS. 2011. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson</div>
+  <div class="csl-entry">Tellegen A, Ben-Porath YS. 2011. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson</div>
   <div class="csl-entry">The New York Public Library [@nypl]. n.d. The raven. Instagram</div>
   <div class="csl-entry">U.S. Census Bureau. n.d. U.S. and world population clock. U.S. Department of Commerce</div>
   <div class="csl-entry">U.S. Food and Drug Administration. 2019. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices. U.S. Food and Drug Administration</div>

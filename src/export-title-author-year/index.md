@@ -94,7 +94,7 @@
   <div class="csl-entry">@电子图书馆的现实模型@杨宗英. (@1996)</div>
   <div class="csl-entry">@The research university’s dilemma: Resource sharing and research in a transinstitutional environment@Dowler L. (@1995)</div>
   <div class="csl-entry">@Social norms and social roles@Sunstein C R. (@1996)</div>
-  <div class="csl-entry">@Why the West rules–for now: the patterns of history, and what they reveal about the future@Morris I. (@2010)</div>
+  <div class="csl-entry">@Why the West rules—for now: the patterns of history, and what they reveal about the future@Morris I. (@2010)</div>
   <div class="csl-entry">@西方文明史：问题与源头@罗杰斯. (@2011)</div>
   <div class="csl-entry">@国史旧闻@陈登原. (@2000)</div>
   <div class="csl-entry">@Invisible college@Crane D. (@1972)</div>
@@ -483,7 +483,7 @@
   <div class="csl-entry">@Latero tactile display@Tactile Labs. (@2015)</div>
   <div class="csl-entry">@Epocrates medical references@Epocrates. (@2019)</div>
   <div class="csl-entry">@Interaction Check: Aspirin + Sertraline@Epocrates. (@2019)</div>
-  <div class="csl-entry">@Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual@Tellegen A, Ben-Porath Y S. (@2011)</div>
+  <div class="csl-entry">@Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual@Tellegen A, Ben-Porath Y S. (@2011)</div>
   <div class="csl-entry">@Gender-Science IAT@Project Implicit. (@[no date])</div>
   <div class="csl-entry">@Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)@Alonso-Tapia J, Nieto C, et al. (@2018)</div>
   <div class="csl-entry">@Acculturative Stress Inventory (ASI)@Cardoza D, Morris J K, et al. (@2000)</div>

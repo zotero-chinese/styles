@@ -93,7 +93,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Kennedy, W. J., and R. E. Garrison, 1975b: Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, <b>8</b>, 339–360.</div>
   <div class="csl-entry">Kinchy, A., 2012: <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. MIT Press,.</div>
   <div class="csl-entry">Koseki, A., H. Momose, M. Kawahito, and H. Komatsu, 2002: Compiler.</div>
-  <div class="csl-entry">Morris, I., 2010: <i>Why the West rules–for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux,.</div>
+  <div class="csl-entry">Morris, I., 2010: <i>Why the West rules—for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux,.</div>
   <div class="csl-entry">Myburg, A. A., et al., 2014: The genome of eucalyptus grandis. <i>Nature</i>, <b>510</b>, 356–362, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
   <div class="csl-entry">O’Brien, J. A., 1994: <i>Introduction to information systems</i>. 7th ed. Irwin,.</div>
   <div class="csl-entry">Online Computer Library Center, Inc., About OCLC: History of cooperation. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (Accessed March 27, 2012).</div>
@@ -529,7 +529,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Stults-Kolehmainen, M. A., and R. Sinha, 2015: The effects of stress on physical activity and exercise.</div>
   <div class="csl-entry">Tactile Labs, 2015: Latero tactile display.</div>
   <div class="csl-entry">Tafoya, N., and A. Del Vecchio, 2005: Back to the future: An examination of the Native American Holocaust experience. <i>Ethnicity and family therapy</i>, M. McGoldrick, J. Giordano, and N. Garcia-Preto, Eds., Guilford Press, 55–63.</div>
-  <div class="csl-entry">Tellegen, A., and Y. S. Ben-Porath, 2011: <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson,.</div>
+  <div class="csl-entry">Tellegen, A., and Y. S. Ben-Porath, 2011: <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson,.</div>
   <div class="csl-entry">The New York Public Library [@nypl], The raven. <i>Instagram</i>,. <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a> (Accessed April 16, 2019).</div>
   <div class="csl-entry">Travis, C. B., and J. W. White, eds., 2018: <i>APA handbook of the psychology of women</i>. American Psychological Association,.</div>
   <div class="csl-entry">U.S. Census Bureau, U.S. and world population clock. <i>U.S. Department of Commerce</i>,. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a> (Accessed July 3, 2019).</div>

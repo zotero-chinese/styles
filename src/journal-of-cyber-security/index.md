@@ -168,7 +168,7 @@
   </div>
   <div class="csl-entry">[53]	Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. <i>Journal of Library Administration</i>, 1995, 21(1/2): 5-26.</div>
   <div class="csl-entry">[54]	Sunstein C R. Social norms and social roles[J]. <i>Columbia Law Review</i>, 1996, 96: 903.</div>
-  <div class="csl-entry">[55]	Morris I. Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[55]	Morris I. Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56]	[M]. 2011: 15-16.
     <div class="csl-block">(罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.)</div>
   </div>
@@ -847,7 +847,7 @@
   <div class="csl-entry">[110]	Tactile Labs. Latero Tactile Display. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>. 2015年.</div>
   <div class="csl-entry">[111]	Epocrates. Epocrates Medical References. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>. 2019年.</div>
   <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline. <i>Epocrates medical references</i>. Google Play Store, 2019.</div>
-  <div class="csl-entry">[113]	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
+  <div class="csl-entry">[113]	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT.</div>
   <div class="csl-entry">[115]	Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). 2018年.</div>
   <div class="csl-entry">[116]	Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704. 2000年.</div>

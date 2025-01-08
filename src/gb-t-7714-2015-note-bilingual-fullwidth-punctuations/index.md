@@ -47,7 +47,7 @@
 ### 引注
 
 <sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
-<sup>2</sup> MORRIS I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+<sup>2</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
 <sup>3</sup> 应松年，马怀德．当代中国行政法的源流：王名扬教授九十华诞贺寿文集［M］．中国法制出版社，2006．<br>
 <sup>4</sup> 同2: 326—329.<br>
 <sup>5</sup> Ibid.<br>
@@ -115,7 +115,7 @@
 <sup>52</sup> 杨宗英．电子图书馆的现实模型［J］．中国图书馆学报，1996（2）：24—29．<br>
 <sup>53</sup> DOWLER L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J/OL]. Journal of Library Administration, 1995, 21(1/2): 5—26. DOI:<a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.<br>
 <sup>54</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
-<sup>55</sup> MORRIS I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+<sup>55</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
 <sup>56</sup> 罗杰斯．西方文明史：问题与源头［M］．潘惠霞，魏婧，杨艳，等，译．大连：东北财经大学出版社，2011：15—16．<br>
 <sup>57</sup> 陈登原．国史旧闻：第 1 卷［M］．北京：中华书局，2000：29．<br>
 <sup>58</sup> CRANE D. Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.<br>
@@ -500,7 +500,7 @@
 <sup>110</sup> Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>
 <sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline[Z/OL]//Epocrates medical references. Google Play Store, 2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.<br>
-<sup>113</sup> TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.<br>
+<sup>113</sup> TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.<br>
 <sup>114</sup> Project Implicit. Gender-Science IAT[Z/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.<br>
 <sup>115</sup> ALONSO-TAPIA J, NIETO C, MERINO-TEJEDOR E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. PsycTESTS, 2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.<br>
 <sup>116</sup> CARDOZA D, MORRIS J K, MYERS H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.<br>

@@ -419,7 +419,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Koseki, A., H. Momose, M. Kawahito, and H. Komatsu. 2002. “Compiler.” 2002-05-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Morris, I. 2010. “Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future”. New York: Farrar, Straus and Giroux.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Morris, I. 2010. “Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future”. New York: Farrar, Straus and Giroux.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Myburg, A.A., D. Grattapaglia, G.A. Tuskan, U. Hellsten, R.D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D.M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A.R.K. Kullan, S.G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O.B. Silva-Junior, R.C. Togawa, M.R. Pappas, D.A. Faria, C.P. Sansaloni, C.D. Petroli, X. Yang, P. Ranjan, T.J. Tschaplinski, C.-Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H.S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C.A. Hefer, E. Bornberg-Bauer, A.R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A.E. Boyd, A. Liston, J.W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S.H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R.C. Jones, D.A. Steane, R.E. Vaillancourt, B.M. Potts, F. Joubert, K. Barry, G.J. Pappas, S.H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D.S. Rokhsar, and J. Schmutz. 2014. “The Genome of Eucalyptus Grandis,” <i>Nature</i>, 510: pp.356~362.</div>
@@ -1553,7 +1553,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Tafoya, N. and A. Del Vecchio. 2005. “Back to the Future: An Examination of the Native American Holocaust Experience.” McGoldrick M, J Giordano, N Garcia-Preto, eds.//, <i>Ethnicity and Family Therapy</i>3 edition. Guilford Press: 55~63.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Tellegen, A. and Y.S. Ben-Porath. 2011. “Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual,” Pearson.</div>
+    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Tellegen, A. and Y.S. Ben-Porath. 2011. “Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual,” Pearson.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[185]</div><div class="csl-right-inline">The New York Public Library [@nypl]. [no date]. “The Raven.”</div>

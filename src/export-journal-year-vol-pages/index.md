@@ -94,7 +94,7 @@
   <div class="csl-entry">中国图书馆学报, 1996(2): 24-29.</div>
   <div class="csl-entry">Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
   <div class="csl-entry">Columbia Law Review, 1996, 96: 903.</div>
-  <div class="csl-entry">Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   <div class="csl-entry">国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.</div>
   <div class="csl-entry">Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.</div>
@@ -483,7 +483,7 @@
   <div class="csl-entry">Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">Interaction Check: Aspirin + Sertraline[Z]//Epocrates medical references. Google Play Store, 2019.</div>
-  <div class="csl-entry">Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
+  <div class="csl-entry">Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">Gender-Science IAT[Z].</div>
   <div class="csl-entry">Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.</div>
   <div class="csl-entry">Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.</div>

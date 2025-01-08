@@ -93,7 +93,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kennedy W. J. &#38; R. E. Garrison. 1975b. “Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England”. <i>Lethaia</i> 8.</div>
   <div class="csl-entry">Kinchy A. 2012. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Koseki A., H. Momose, M. Kawahito et al. 2002. <i>Compiler</i>. US, US828402.</div>
-  <div class="csl-entry">Morris I. 2010. <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>. New York: Farrar, Straus and Giroux.</div>
+  <div class="csl-entry">Morris I. 2010. <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan et al. 2014. “The genome of eucalyptus grandis”. <i>Nature</i> 510.</div>
   <div class="csl-entry">O’Brien J. A. 1994. <i>Introduction to Information Systems</i>. 7th ed. Burr Ridge, IL: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. “About OCLC: History of cooperation”. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a> (March 27, 2012).</div>
@@ -541,7 +541,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Tactile Labs. 2015. <i>Latero Tactile Display</i>. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">Tafoya N. &#38; A. Del Vecchio. 2005. “Back to the future: An examination of the Native American Holocaust experience”. In M. McGoldrick, J. Giordano, &#38; N. Garcia-Preto (eds.). <i>Ethnicity and Family Therapy</i>. 3rd ed. Guilford Press.</div>
   <div class="csl-entry">TED (dir.). 2012. <i>Brené Brown: Listening to Shame</i>. YouTube.</div>
-  <div class="csl-entry">Tellegen A. &#38; Y. S. Ben-Porath. 2011. <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson.</div>
+  <div class="csl-entry">Tellegen A. &#38; Y. S. Ben-Porath. 2011. <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson.</div>
   <div class="csl-entry">The New York Public Library [@nypl]. “The raven”. In <i>Instagram</i>.</div>
   <div class="csl-entry">Travis C. B. &#38; J. W. White (eds.). 2018. <i>APA Handbook of the Psychology of Women</i>. American Psychological Association.</div>
   <div class="csl-entry">University of Oxford (dir.). 2016. <i>How Do Geckos Walk on Water?</i> YouTube.</div>

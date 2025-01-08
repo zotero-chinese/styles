@@ -103,7 +103,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975b). Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, <i>8</i>(4), 339-360.</div>
   <div class="csl-entry">Kinchy, A. (2012). <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i> (p. 50). Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Koseki, A., Momose, H., Kawahito, M., &#38; Komatsu, H. (2002). <i>Compiler</i> (Patent No. US828402). US.</div>
-  <div class="csl-entry">Morris, I. (2010). <i>Why the West rules–for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux.</div>
+  <div class="csl-entry">Morris, I. (2010). <i>Why the West rules—for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Schmutz, J., et al. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356-362.</div>
   <div class="csl-entry">O’Brien, J. A. (1994). <i>Introduction to information systems</i> (7th ed.). Burr Ridge, IL: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. (n.d.). <i>About OCLC: History of cooperation</i>. Retrieved March 27, 2012, from <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
@@ -574,7 +574,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Tafoya, N., &#38; Del Vecchio, A. (2005). Back to the future: An examination of the Native American Holocaust experience. In M. McGoldrick et al. (Eds.), <i>Ethnicity and family therapy</i> (3rd ed., pp. 55-63). Guilford Press.</div>
   <div class="csl-entry">Tarasoff v. Regents of the University of California, 17 Cal.3d 425 (1976).</div>
   <div class="csl-entry">TED (Director). (2012, March 16). <i>Brené Brown: Listening to shame</i> [Video]. YouTube.</div>
-  <div class="csl-entry">Tellegen, A., &#38; Ben-Porath, Y. S. (2011). <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson.</div>
+  <div class="csl-entry">Tellegen, A., &#38; Ben-Porath, Y. S. (2011). <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson.</div>
   <div class="csl-entry">Texas v. Morales, 826 S.W.2d 201 (Tex. Ct. App. 1992).</div>
   <div class="csl-entry">The New York Public Library [@nypl]. (n.d.). <i>The raven</i> [Highlight]. Instagram. Retrieved April 16, 2019, from <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a></div>
   <div class="csl-entry"><i>The Qur’an</i> (M. A. S. Abdel Haleem, Trans.). (2004). Oxford University Press.</div>

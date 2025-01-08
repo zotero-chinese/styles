@@ -108,7 +108,7 @@
   <div class="csl-entry">[52] 杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.</div>
   <div class="csl-entry">[53] Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 1995, 21(1/2): 5-26. doi: <a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.</div>
   <div class="csl-entry">[54] Sunstein C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903. doi: <a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
-  <div class="csl-entry">[55] Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[55] Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56] 罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.
     <div class="csl-block">西方文明史.</div>
   </div>
@@ -549,7 +549,7 @@
   <div class="csl-entry">[110] Tactile Labs. Latero tactile display[Z]2015.</div>
   <div class="csl-entry">[111] Epocrates. Epocrates medical references[Z]. App Store, 20192019.</div>
   <div class="csl-entry">[112] Epocrates. Interaction Check: Aspirin + Sertraline[Z]. Google Play Store, 20192019.</div>
-  <div class="csl-entry">[113] Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R].（2011）.</div>
+  <div class="csl-entry">[113] Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R].（2011）.</div>
   <div class="csl-entry">[114] Project Implicit. Gender-Science IAT[Z].</div>
   <div class="csl-entry">[115] Alonso-Tapia J, Nieto C, Merino-Tejedor E, Huertas J A, Ruiz M. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 20182018.</div>
   <div class="csl-entry">[116] Cardoza D, Morris J K, Myers H F, Rodriguez N. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 20002000.</div>

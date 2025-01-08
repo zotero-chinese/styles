@@ -413,7 +413,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Koseki, A., H. Momose, M. Kawahito, and H. Komatsu. Compiler: US828402[M]. US, 2002.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Morris, I. Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Morris, I. Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar, and J. Schmutz. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510:356-362.</div>
@@ -1538,7 +1538,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[179]</div><div class="csl-right-inline">TED. Brené Brown: Listening to Shame[M]. YouTube, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Tellegen, A., and Y. S. Ben-Porath. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[M]. Pearson, 2011.</div>
+    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Tellegen, A., and Y. S. Ben-Porath. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[M]. Pearson, 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[181]</div><div class="csl-right-inline">The New York Public Library [@nypl]. The Raven[EB/OL]. Instagram[C]. [2019].</div>

@@ -219,7 +219,7 @@
     <div class="csl-left-margin">54. </div><div class="csl-right-inline">Sunstein CR. 1996. Social norms and social roles. <i>Columbia Law Rev.</i> 96: 903</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">55. </div><div class="csl-right-inline">Morris I, 2010. <i>Why the West rules–for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux</div>
+    <div class="csl-left-margin">55. </div><div class="csl-right-inline">Morris I, 2010. <i>Why the West rules—for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">56. </div><div class="csl-right-inline">罗杰斯, 2011. 西方文明史：问题与源头. 大连: 东北财经大学出版社</div>
@@ -1314,7 +1314,7 @@
     <div class="csl-left-margin">112. </div><div class="csl-right-inline">Epocrates. 2019. Interaction Check: Aspirin + Sertraline</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">113. </div><div class="csl-right-inline">Tellegen A, Ben-Porath YS. 2011. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson</div>
+    <div class="csl-left-margin">113. </div><div class="csl-right-inline">Tellegen A, Ben-Porath YS. 2011. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">114. </div><div class="csl-right-inline">Project Implicit. Gender-Science IAT</div>

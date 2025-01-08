@@ -418,8 +418,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[112]	KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H. 2002. Compiler[P]. 2002-05-25.
     <div class="csl-block">KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H. 2002. Compiler[P]. 2002-05-25 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[113]	MORRIS I. 2010. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux，2010年.
-    <div class="csl-block">MORRIS I. 2010. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux，2010年 (In Chinese)</div>
+  <div class="csl-entry">[113]	MORRIS I. 2010. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux，2010年.
+    <div class="csl-block">MORRIS I. 2010. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux，2010年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[114]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. .
     <div class="csl-block">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. (In Chinese)</div>
@@ -1552,8 +1552,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[183]	TAFOYA N, DEL VECCHIO A. 2005. Back to the future: An examination of the Native American Holocaust experience[M]. McGoldrick M, Giordano J, Garcia-Preto N, eds.//Ethnicity and family therapy3 edition. Guilford Press，2005年.
     <div class="csl-block">TAFOYA N, DEL VECCHIO A. 2005. Back to the future: An examination of the Native American Holocaust experience[M]. McGoldrick M, Giordano J, Garcia-Preto N, eds.//Ethnicity and family therapy3 edition. Guilford Press，2005年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[184]	TELLEGEN A, BEN-PORATH Y S. 2011. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011年.
-    <div class="csl-block">TELLEGEN A, BEN-PORATH Y S. 2011. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011年 (In Chinese)</div>
+  <div class="csl-entry">[184]	TELLEGEN A, BEN-PORATH Y S. 2011. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011年.
+    <div class="csl-block">TELLEGEN A, BEN-PORATH Y S. 2011. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[185]	THE NEW YORK PUBLIC LIBRARY [@NYPL]. [no date]. The raven[EB/OL].
     <div class="csl-block">THE NEW YORK PUBLIC LIBRARY [@NYPL]. [no date]. The raven[EB/OL] (In Chinese)</div>

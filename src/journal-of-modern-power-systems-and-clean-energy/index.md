@@ -219,7 +219,7 @@
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">C. R. Sunstein, “Social norms and social roles,” <i>Columbia Law Review</i>, vol. 96, p. 903, 1996, doi: <a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">I. Morris, <i>Why the West rules–for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">I. Morris, <i>Why the West rules—for now: the patterns of history, and what they reveal about the future</i>. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">罗杰斯, 西方文明史：问题与源头. 大连: 东北财经大学出版社, 2011, pp. 15–16.</div>
@@ -1314,7 +1314,7 @@
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates, “Interaction Check: Aspirin + Sertraline,” <i>Epocrates medical references</i>. Google Play Store, 2019. [Online]. Available: <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">A. Tellegen and Y. S. Ben-Porath, “Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual,” Pearson, 2011.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">A. Tellegen and Y. S. Ben-Porath, “Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual,” Pearson, 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit, “Gender-Science IAT.” [Online]. Available: <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a></div>

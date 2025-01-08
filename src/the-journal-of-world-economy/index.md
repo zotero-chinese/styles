@@ -171,7 +171,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Kennedy, W. J. and Garrison, R. E. “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England.” <i>Lethaia</i>, 1975b, 8(4), pp. 339-360.</div>
   <div class="csl-entry">Kinchy, A. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i> Cambridge, Mass.: MIT Press.</div>
   <div class="csl-entry">Koseki, A.; Momose, H.; Kawahito, M. and Komatsu, H. <i>Compiler</i> US.</div>
-  <div class="csl-entry">Morris, I. <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i> New York: Farrar, Straus and Giroux.</div>
+  <div class="csl-entry">Morris, I. <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i> New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A.; Grattapaglia, D.; Tuskan, G. A.; Hellsten, U.; Hayes, R. D.; Grimwood, J.; Jenkins, J.; Lindquist, E.; Tice, H.; Bauer, D.; Goodstein, D. M.; Dubchak, I.; Poliakov, A.; Mizrachi, E.; Kullan, A. R. K.; Hussey, S. G.; Pinard, D.; Merwe, K. van der; Singh, P.; Jaarsveld, I. van; Silva-Junior, O. B.; Togawa, R. C.; Pappas, M. R.; Faria, D. A.; Sansaloni, C. P.; Petroli, C. D.; Yang, X.; Ranjan, P.; Tschaplinski, T. J.; Ye, C. Y.; Li, T.; Sterck, L.; Vanneste, K.; Murat, F.; Soler, M.; Clemente, H. S.; Saidi, N.; Cassan-Wang, H.; Dunand, C.; Hefer, C. A.; Bornberg-Bauer, E.; Kersting, A. R.; Vining, K.; Amarasinghe, V.; Ranik, M.; Naithani, S.; Elser, J.; Boyd, A. E.; Liston, A.; Spatafora, J. W.; Dharmwardhana, P.; Raja, R.; Sullivan, C.; Romanel, E.; Alves-Ferreira, M.; Külheim, C.; Foley, W.; Carocha, V.; Paiva, J.; Kudrna, D.; Brommonschenkel, S. H.; Pasquali, G.; Byrne, M.; Rigault, P.; Tibbits, J.; Spokevicius, A.; Jones, R. C.; Steane, D. A.; Vaillancourt, R. E.; Potts, B. M.; Joubert, F.; Barry, K.; Pappas, G. J.; Strauss, S. H.; Jaiswal, P.; Grima-Pettenati, J.; Salse, J.; Van de Peer, Y.; Rokhsar, D. S. and Schmutz, J. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, 2014, vol. 510, pp. 356-362.</div>
   <div class="csl-entry">O’Brien, J. A. <i>Introduction to Information Systems</i> Burr Ridge, IL: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. <i>About OCLC: History of Cooperation</i>.</div>
@@ -526,7 +526,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Stults-Kolehmainen, M. A. and Sinha, R. “The Effects of Stress on Physical Activity and Exercise.”.</div>
   <div class="csl-entry">Tactile Labs <i>Latero Tactile Display</i>.</div>
   <div class="csl-entry">Tafoya, N. and Del Vecchio, A. “Back to the Future: An Examination of the Native American Holocaust Experience.” in McGoldrick, M., J. Giordano and N. Garcia-Preto, eds: <i>Ethnicity and Family Therapy</i> Guilford Press.</div>
-  <div class="csl-entry">Tellegen, A. and Ben-Porath, Y. S. “Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual.”.</div>
+  <div class="csl-entry">Tellegen, A. and Ben-Porath, Y. S. “Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual.”.</div>
   <div class="csl-entry">The New York Public Library [@nypl] <i>The Raven</i>.</div>
   <div class="csl-entry">Travis, C. B. and White, J. W., eds. <i>APA Handbook of the Psychology of Women</i> American Psychological Association.</div>
   <div class="csl-entry">U.S. Census Bureau <i>U.S. and World Population Clock</i>.</div>

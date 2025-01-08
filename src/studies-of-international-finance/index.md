@@ -177,7 +177,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[109] Kennedy W J，Garrison R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia，1975b，8（4）：339-360</div>
   <div class="csl-entry">[110] Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.：MIT Press，2012：50</div>
   <div class="csl-entry">[111] Koseki A，Momose H，Kawahito M，et al. Compiler：US828402[P]. 2002-05-25</div>
-  <div class="csl-entry">[112] Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York：Farrar, Straus and Giroux，2010</div>
+  <div class="csl-entry">[112] Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York：Farrar, Straus and Giroux，2010</div>
   <div class="csl-entry">[113] Myburg A A，Grattapaglia D，Tuskan G A，et al. The genome of eucalyptus grandis[J]. Nature，2014，510：356-362</div>
   <div class="csl-entry">[114] O’Brien J A. Introduction to information systems[M]. 7th ed. Burr Ridge, IL：Irwin，1994</div>
   <div class="csl-entry">[115] Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a></div>
@@ -576,7 +576,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[177] Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a></div>
   <div class="csl-entry">[178] Tafoya N，Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]//McGoldrick M，Giordano J，Garcia-Preto N. Ethnicity and family therapy. 3rd ed. Guilford Press，2005：55-63</div>
   <div class="csl-entry">[179] TED. Brené Brown: Listening to shame[Z]. YouTube，2012</div>
-  <div class="csl-entry">[180] Tellegen A，Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011</div>
+  <div class="csl-entry">[180] Tellegen A，Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011</div>
   <div class="csl-entry">[181] The New York Public Library [@nypl]. The raven[EB/OL]. [2019-04-16]. <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a></div>
   <div class="csl-entry">[182] Travis C B，White J W. APA handbook of the psychology of women：Vol. 1 History, theory, and battlegrounds[M]. American Psychological Association，2018</div>
   <div class="csl-entry">[183] University of Oxford. How do geckos walk on water?[Z]. YouTube，2016</div>

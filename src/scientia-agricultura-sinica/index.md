@@ -168,7 +168,7 @@
   </div>
   <div class="csl-entry">[53]	Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
   <div class="csl-entry">[54]	Sunstein C R. Social norms and social roles. Columbia Law Review, 1996, 96: 903.</div>
-  <div class="csl-entry">[55]	Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[55]	Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56]	罗杰斯. 西方文明史：问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.
     <div class="csl-block">罗杰斯. 西方文明史：问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16. (in Chinese)</div>
   </div>
@@ -911,7 +911,7 @@
   <div class="csl-entry">[110]	Tactile Labs. Latero tactile display. 2015.</div>
   <div class="csl-entry">[111]	Epocrates. Epocrates medical references. App Store, 2019.</div>
   <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline//Epocrates medical references. Google Play Store, 2019.</div>
-  <div class="csl-entry">[113]	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
+  <div class="csl-entry">[113]	Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT.</div>
   <div class="csl-entry">[115]	Alonso-Tapia J, Nieto C, Merino-Tejedor E, Huertas J A, Ruiz M. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018.</div>
   <div class="csl-entry">[116]	Cardoza D, Morris J K, Myers H F, Rodriguez N. Acculturative Stress Inventory (ASI): TC022704. ETS TestLink, 2000.</div>

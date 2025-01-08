@@ -93,7 +93,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Kennedy, W. J., &#38; Garrison, R. E. (1975b). Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England. <i>Lethaia</i>, <i>8</i>(4), 339–360.</div>
   <div class="csl-entry">Kinchy, A. (2012). <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i> (p. 50). MIT Press.</div>
   <div class="csl-entry">Koseki, A., Momose, H., Kawahito, M., &#38; Komatsu, H. (2002). <i>Compiler</i> (No. US828402).</div>
-  <div class="csl-entry">Morris, I. (2010). <i>Why the West rules–for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux.</div>
+  <div class="csl-entry">Morris, I. (2010). <i>Why the West rules—for now: the patterns of history, and what they reveal about the future</i>. Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356–362.</div>
   <div class="csl-entry">O’Brien, J. A. (1994). <i>Introduction to information systems</i> (7th ed.). Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. (n.d.). <i>About OCLC: History of cooperation</i>.</div>
@@ -560,7 +560,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Tactile Labs. (2015). <i>Latero tactile display</i>.</div>
   <div class="csl-entry">Tafoya, N., &#38; Del Vecchio, A. (2005). Back to the future: An examination of the Native American Holocaust experience. In M. McGoldrick, J. Giordano, &#38; N. Garcia-Preto (Eds.), <i>Ethnicity and family therapy</i> (3rd ed., pp. 55–63). Guilford Press.</div>
   <div class="csl-entry">Tarasoff v. Regents of the University of California. (1976). In <i>Cal.3d</i> (Vol. 17, p. 425).</div>
-  <div class="csl-entry">Tellegen, A., &#38; Ben-Porath, Y. S. (2011). <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson.</div>
+  <div class="csl-entry">Tellegen, A., &#38; Ben-Porath, Y. S. (2011). <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson.</div>
   <div class="csl-entry">Texas v. Morales. (1992). In <i>S.W.2d</i> (Vol. 826, p. 201).</div>
   <div class="csl-entry"><i>The Brandenburg concertos: Concertos BVW 1043 &#38; 1060</i>. (2010). Decca. (Original work published 1721)</div>
   <div class="csl-entry"><i>The lord of the rings: The fellowship of the ring</i>. (2001). WingNut Films; The Saul Zaentz Company.</div>

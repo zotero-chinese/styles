@@ -64,11 +64,11 @@
 ### 引注
 
 <sup>1</sup> Sunstein C R. Social norms and social roles. Columbia Law Review, 1996, 96: 903<br>
-<sup>2</sup> Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 260<br>
+<sup>2</sup> Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 260<br>
 <sup>3</sup> 应松年，马怀德．当代中国行政法的源流：王名扬教授九十华诞贺寿文集．中国法制出版社，2006<br>
-<sup>4</sup> Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 326-329<br>
-<sup>5</sup> Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 326-329<br>
-<sup>6</sup> Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 260<br>
+<sup>4</sup> Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 326-329<br>
+<sup>5</sup> Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 326-329<br>
+<sup>6</sup> Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010, 260<br>
 <sup>7</sup> 应松年，马怀德．当代中国行政法的源流：王名扬教授九十华诞贺寿文集．中国法制出版社，2006，330<br>
 <sup>8</sup> 应松年，马怀德．当代中国行政法的源流：王名扬教授九十华诞贺寿文集．中国法制出版社，2006，330<br>
 <sup>9</sup> 应松年，马怀德．当代中国行政法的源流：王名扬教授九十华诞贺寿文集．中国法制出版社，2006，331<br>
@@ -132,7 +132,7 @@
 <sup>52</sup> 杨宗英．电子图书馆的现实模型．中国图书馆学报，1996(2)：24-29<br>
 <sup>53</sup> Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, 1995, 21(1/2): 5-26<br>
 <sup>54</sup> Sunstein C R. Social norms and social roles. Columbia Law Review, 1996, 96: 903<br>
-<sup>55</sup> Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010<br>
+<sup>55</sup> Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future. New York: Farrar, Straus and Giroux, 2010<br>
 <sup>56</sup> 罗杰斯．西方文明史：问题与源头．潘惠霞，魏婧，杨艳，汤玲译．大连：东北财经大学出版社，2011，15-16<br>
 <sup>57</sup> 陈登原．国史旧闻．北京：中华书局，2000，29<br>
 <sup>58</sup> Crane D. Invisible college. Chicago: Univ. of Chicago Press, 1972<br>
@@ -517,7 +517,7 @@
 <sup>110</sup> Tactile Labs. Latero tactile display. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>, 2015<br>
 <sup>111</sup> Epocrates. Epocrates medical references. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>, 2019<br>
 <sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline. In: Epocrates medical references. Google Play Store, 2019<br>
-<sup>113</sup> Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011<br>
+<sup>113</sup> Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson, 2011<br>
 <sup>114</sup> Project Implicit. Gender-Science IAT<br>
 <sup>115</sup> Alonso-Tapia J, Nieto C, Merino-Tejedor E, Huertas J A, Ruiz M. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). PsycTESTS, 2018. 2018<br>
 <sup>116</sup> Cardoza D, Morris J K, Myers H F, Rodriguez N. Acculturative Stress Inventory (ASI). ETS TestLink, 2000. 2000<br>

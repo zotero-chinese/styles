@@ -168,7 +168,7 @@
   </div>
   <div class="csl-entry">[53] DOWLER L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 1995, 21(1/2): 5–26.</div>
   <div class="csl-entry">[54] SUNSTEIN C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903[2012-01-26].</div>
-  <div class="csl-entry">[55] MORRIS I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[55] MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56] 罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15–16.
     <div class="csl-block">罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 2011. (in Chinese with English abstract)</div>
   </div>
@@ -847,7 +847,7 @@
   <div class="csl-entry">[110] TACTILE LABS. Latero tactile display[Z]2015.</div>
   <div class="csl-entry">[111] EPOCRATES. Epocrates medical references[Z]. App Store, 20192019.</div>
   <div class="csl-entry">[112] EPOCRATES. Interaction Check: Aspirin + Sertraline[Z]. Google Play Store, 20192019.</div>
-  <div class="csl-entry">[113] TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
+  <div class="csl-entry">[113] TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">[114] PROJECT IMPLICIT. Gender-Science IAT[Z].</div>
   <div class="csl-entry">[115] ALONSO-TAPIA J, NIETO C, MERINO-TEJEDOR E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 20182018.</div>
   <div class="csl-entry">[116] CARDOZA D, MORRIS J K, MYERS H F, et al. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 20002000.</div>

@@ -97,7 +97,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kennedy W.J. &#38; Garrison R.E., 1975b. “Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England.” <i>Lethaia</i>. 8(4): 339–360.</div>
   <div class="csl-entry">Kinchy A., 2012. “Seeds, sciences, and struggle: the global politics of transgenic crops.”. Cambridge, Mass.: MIT Press: 50[2013-07-14].</div>
   <div class="csl-entry">Koseki A., Momose H., Kawahito M., et al., 2002. “Compiler.”. 2002-05-25[2002-05-28].</div>
-  <div class="csl-entry">Morris I., 2010. “Why the West rules–for now: the patterns of history, and what they reveal about the future.”. New York: Farrar, Straus and Giroux.</div>
+  <div class="csl-entry">Morris I., 2010. “Why the West rules—for now: the patterns of history, and what they reveal about the future.”. New York: Farrar, Straus and Giroux.</div>
   <div class="csl-entry">Myburg A.A., Grattapaglia D., Tuskan G.A., et al., 2014. “The genome of eucalyptus grandis.” <i>Nature</i>. 510: 356–362[2014-06-25].</div>
   <div class="csl-entry">O’Brien J.A., 1994. “Introduction to information systems.”. 7 edition. Burr Ridge, IL: Irwin.</div>
   <div class="csl-entry">Online Computer Library Center, Inc., [no date]. “About OCLC: History of cooperation.”[2012-03-27].</div>
@@ -580,7 +580,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Stults-Kolehmainen M.A. &#38; Sinha R., 2015. “The effects of stress on physical activity and exercise.”. PubMed Central.</div>
   <div class="csl-entry">Tactile Labs, 2015. “Latero tactile display.”.</div>
   <div class="csl-entry">Tafoya N. &#38; Del Vecchio A., 2005. “Back to the future: An examination of the Native American Holocaust experience.”. McGoldrick M, Giordano J, Garcia-Preto N, eds.//<i>Ethnicity and Family Therapy</i>  3 edition. Guilford Press: 55–63.</div>
-  <div class="csl-entry">Tellegen A. &#38; Ben-Porath Y.S., 2011. “Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual.”. Pearson.</div>
+  <div class="csl-entry">Tellegen A. &#38; Ben-Porath Y.S., 2011. “Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual.”. Pearson.</div>
   <div class="csl-entry">The New York Public Library [@nypl], [no date]. “The raven.”[2019-04-16].</div>
   <div class="csl-entry">U.S. Census Bureau, [no date]. “U.S. and world population clock.”[2019-07-03].</div>
   <div class="csl-entry">U.S. Food and Drug Administration, 2019. “FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices.”. U.S. Food and Drug Administration.</div>

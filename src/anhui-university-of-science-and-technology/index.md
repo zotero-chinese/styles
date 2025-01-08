@@ -227,7 +227,7 @@
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Sunstein C R. Social norms and social roles[J]. Columbia Law Review, 1996, 96: 903.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">罗杰斯著; 潘惠霞等译. 西方文明史：问题与源头[M]. 大连: 东北财经大学出版社, 2011: 15～16.</div>
@@ -1322,7 +1322,7 @@
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline. In: Epocrates medical references. Google Play Store, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual. 2011.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT.</div>

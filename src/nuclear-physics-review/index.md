@@ -168,7 +168,7 @@
   </div>
   <div class="csl-entry">[53]	DOWLER L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 1995, 21(1/2): 5-26. doi: <a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.</div>
   <div class="csl-entry">[54]	SUNSTEIN C R. Social norms and social roles[J]. Columbia Law Rev, 1996, 96: 903. doi: <a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.</div>
-  <div class="csl-entry">[55]	MORRIS I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">[55]	MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">[56]	[M]. 2011: 15-16 (in Chinese).
     <div class="csl-block">(罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16)</div>
   </div>
@@ -911,7 +911,7 @@
   <div class="csl-entry">[110]	Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">[111]	Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">[112]	Epocrates. Interaction Check: Aspirin + Sertraline[Z] // Epocrates medical references. Google Play Store, 2019.</div>
-  <div class="csl-entry">[113]	TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
+  <div class="csl-entry">[113]	TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">[114]	Project Implicit. Gender-Science IAT[Z].</div>
   <div class="csl-entry">[115]	ALONSO-TAPIA J, NIETO C, MERINO-TEJEDOR E, <i>et al.</i> Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.</div>
   <div class="csl-entry">[116]	CARDOZA D, MORRIS J K, MYERS H F, <i>et al.</i> Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.</div>

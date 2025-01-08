@@ -419,7 +419,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">112.</div><div class="csl-right-inline">Koseki A, Momose H, Kawahito M, Komatsu H. Compiler: US[P]. 2002-05-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">113.</div><div class="csl-right-inline">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">113.</div><div class="csl-right-inline">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">114.</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C-Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356–362.</div>
@@ -1553,7 +1553,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">183.</div><div class="csl-right-inline">Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]//Ethnicity and family therapyGuilford Press, 2005: 55–63.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">184.</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical ManualPearson, 2011.</div>
+    <div class="csl-left-margin">184.</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical ManualPearson, 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">185.</div><div class="csl-right-inline">The New York Public Library [@nypl]. The raven[04/16/2019].</div>

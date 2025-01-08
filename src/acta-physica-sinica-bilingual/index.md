@@ -231,7 +231,7 @@
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Sunstein C R 1996 <i>Columbia Law Rev.</i> <b>96</b> 903</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris I 2010 <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i> (New York: Farrar, Straus and Giroux)</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris I 2010 <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i> (New York: Farrar, Straus and Giroux)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">2011 pp15–16 (in Chinese) [罗杰斯 2011 西方文明史：问题与源头 (大连: 东北财经大学出版社) pp15–16]</div>
@@ -1324,7 +1324,7 @@
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates 2019 <i>Epocrates Medical References</i> (Google Play Store)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S 2011 <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i> No. (Pearson)</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S 2011 <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i> No. (Pearson)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit n.d.</div>

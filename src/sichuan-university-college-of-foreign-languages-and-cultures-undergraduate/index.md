@@ -96,7 +96,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">---. “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England.” <i>Lethaia</i> 8.4 (1975): 339–60. idunn.no (Atypon).</div>
   <div class="csl-entry">Kinchy, A. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>. MIT Press, 2012, p. 50.</div>
   <div class="csl-entry">Koseki, Akira, et al. <i>Compiler</i>. US828402, 25 May 2002.</div>
-  <div class="csl-entry">Morris, Ian. <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>. Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">Morris, Ian. <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>. Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510 (2014): 356–62. Web. 25 June 2014.</div>
   <div class="csl-entry">O’Brien, J. A. <i>Introduction to Information Systems</i>. 7th ed., Irwin, 1994.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. “About OCLC: History of Cooperation.” N.d. Web. 27 Mar. 2012.</div>
@@ -564,7 +564,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Tactile Labs. “Latero Tactile Display.” 2015. Web.</div>
   <div class="csl-entry">Tafoya, N., and A. Del Vecchio. “Back to the Future: An Examination of the Native American Holocaust Experience.” <i>Ethnicity and Family Therapy</i>, edited by M. McGoldrick et al., 3rd ed., Guilford Press, 2005, pp. 55–63.</div>
   <div class="csl-entry">“Tarasoff v. Regents of the University of California.” <i>Cal.3d</i>, vol. 17, 1976, p. 425.</div>
-  <div class="csl-entry">Tellegen, A., and Y. S. Ben-Porath. <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson, 2011.</div>
+  <div class="csl-entry">Tellegen, A., and Y. S. Ben-Porath. <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>. Pearson, 2011.</div>
   <div class="csl-entry">“Texas v. Morales.” <i>S.W.2d</i>, vol. 826, 1992, p. 201.</div>
   <div class="csl-entry"><i>The Brandenburg Concertos: Concertos BVW 1043 &#38; 1060</i>. 1721. Decca, 2010.</div>
   <div class="csl-entry"><i>The Lord of the Rings: The Fellowship of the Ring</i>. Directed by P. Jackson, four-disc special extended ed. on DVD, WingNut Films; The Saul Zaentz Company, 2001.</div>

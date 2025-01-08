@@ -414,7 +414,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Koseki, Akira, Hiroyuki Momose, Motohiro Kawahito &#38; Hideaki Komatsu, 2002, <i>Compiler</i>, US.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Morris, Ian, 2010, <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Morris, Ian, 2010, <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Myburg, Alexander A., Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar &#38; Jeremy Schmutz, 2014, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510, pp. 356-362.</div>
@@ -1413,7 +1413,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline">Tafoya, N. &#38; A. Del Vecchio, 2005, “Back to the Future: An Examination of the Native American Holocaust Experience,” in M. McGoldrick, J. Giordano &#38; N. Garcia-Preto (eds.), <i>Ethnicity and Family Therapy</i>, Guilford Press, pp. 55-63.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Tellegen, A. &#38; Y. S. Ben-Porath, 2011, <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>, Report, Pearson.</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Tellegen, A. &#38; Y. S. Ben-Porath, 2011, <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>, Report, Pearson.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">The New York Public Library [@nypl], <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>, April 16, 2019.</div>

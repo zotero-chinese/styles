@@ -45,7 +45,7 @@
 ### 引注
 
 <sup>1</sup> Sunstein, C. R., “Social norms and social roles,” <i>Columbia Law Review</i>, (96), 1996, 903.<br>
-<sup>2</sup> Morris, I., <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
+<sup>2</sup> Morris, I., <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010, p. 260.<br>
 <sup>3</sup> 应松年，马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年版。<br>
 <sup>4</sup> Supra note 2, Morris, Ian, p. 326-329.<br>
 <sup>5</sup> Ibid.<br>
@@ -113,7 +113,7 @@
 <sup>52</sup> 杨宗英：“电子图书馆的现实模型”，《中国图书馆学报》，1996年第2期。<br>
 <sup>53</sup> Dowler, L., “The research university’s dilemma: Resource sharing and research in a transinstitutional environment,” <i>Journal of Library Administration</i>, (21)1/2, 1995.<br>
 <sup>54</sup> Sunstein, C. R., “Social norms and social roles,” <i>Columbia Law Review</i>, (96), 1996.<br>
-<sup>55</sup> Morris, I., <i>Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.<br>
+<sup>55</sup> Morris, I., <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>, Farrar, Straus and Giroux, 2010.<br>
 <sup>56</sup> 罗杰斯：《西方文明史：问题与源头》，潘惠霞、魏婧、杨艳、等译，大连：东北财经大学出版社，2011年版。<br>
 <sup>57</sup> 陈登原：《国史旧闻》，北京：中华书局，2000年版。<br>
 <sup>58</sup> Crane, D., <i>Invisible College</i>, Univ. of Chicago Press, 1972.<br>
@@ -498,7 +498,7 @@
 <sup>110</sup> Tactile Labs, <i>Latero Tactile Display</i>, 2015.<br>
 <sup>111</sup> Epocrates, <i>Epocrates Medical References</i>, App Store, 2019.<br>
 <sup>112</sup> Epocrates, <i>Interaction Check: Aspirin + Sertraline</i>, Epocrates Medical References, Google Play Store, 2019.<br>
-<sup>113</sup> Tellegen, A. &#38; Ben-Porath, Y. S., <i>Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual</i>, Pearson, 2011.<br>
+<sup>113</sup> Tellegen, A. &#38; Ben-Porath, Y. S., <i>Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual</i>, Pearson, 2011.<br>
 <sup>114</sup> Project Implicit, <i>Gender-Science IAT</i>.<br>
 <sup>115</sup> Alonso-Tapia, J., Nieto, C., Merino-Tejedor, E., et al., <i>Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)</i>, PsycTESTS, 2018.<br>
 <sup>116</sup> Cardoza, D., Morris, J. K., Myers, H. F., et al., <i>Acculturative Stress Inventory (ASI)</i>, ETS TestLink, 2000.<br>

@@ -163,7 +163,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Kennedy WJ, Garrison RE. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. <i>Lethaia</i>, 1975b, 8(4): 339-360.</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">Koseki A, Momose H, Kawahito M, <i>et al.</i> Compiler: US828402[P]. 2002-05-25.</div>
-  <div class="csl-entry">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+  <div class="csl-entry">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, <i>et al.</i> The genome of eucalyptus grandis[J]. <i>Nature</i>, 2014, 510: 356-362.</div>
   <div class="csl-entry">O’Brien JA. Introduction to information systems[M]. 7th ed. Burr Ridge, IL: Irwin, 1994.</div>
   <div class="csl-entry">Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
@@ -521,7 +521,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Stults-Kolehmainen MA, Sinha R. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015.</div>
   <div class="csl-entry">Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]. In: McGoldrick M, Giordano J, Garcia-Preto N, eds. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
-  <div class="csl-entry">Tellegen A, Ben-Porath YS. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
+  <div class="csl-entry">Tellegen A, Ben-Porath YS. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">The New York Public Library [@nypl]. The raven[EB/OL]. [2019-04-16]. <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>.</div>
   <div class="csl-entry">U.S. Census Bureau. U.S. and world population clock[EB/OL]. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
   <div class="csl-entry">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration, 2019.</div>

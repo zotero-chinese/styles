@@ -176,7 +176,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Koseki A, Momose H, Kawahito M, et al. Compiler[P]. US. 2002-05-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Morris I. Why the West rules–for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>
@@ -1553,7 +1553,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[A]. Ethnicity and family therapyGuilford Press, 2005: 55-63.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson. 2011.</div>
+    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson. 2011.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[185]</div><div class="csl-right-inline">The New York Public Library [@nypl]. The raven[Z].</div>

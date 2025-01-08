@@ -36,11 +36,11 @@
 ### 引注
 
 <sup>1</sup> Cass R. Sunstein：《Social norms and social roles》第96卷，《Columbia Law Review》1996年，第903页。<br>
-<sup>2</sup> Ian Morris：《Why the West rules–for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第260页。<br>
+<sup>2</sup> Ian Morris：《Why the West rules—for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第260页。<br>
 <sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>4</sup> Ian Morris：《Why the West rules–for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第326-329页。<br>
-<sup>5</sup> Ian Morris：《Why the West rules–for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第326-329页。<br>
-<sup>6</sup> Ian Morris：《Why the West rules–for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第260页。<br>
+<sup>4</sup> Ian Morris：《Why the West rules—for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第326-329页。<br>
+<sup>5</sup> Ian Morris：《Why the West rules—for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第326-329页。<br>
+<sup>6</sup> Ian Morris：《Why the West rules—for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年，第260页。<br>
 <sup>7</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第330页。<br>
 <sup>8</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第330页。<br>
 <sup>9</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第331页。<br>
@@ -104,7 +104,7 @@
 <sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
 <sup>53</sup> Lawrence Dowler：《The research university’s dilemma: Resource sharing and research in a transinstitutional environment》第21卷，《Journal of Library Administration》1995年第1/2期。<br>
 <sup>54</sup> Cass R. Sunstein：《Social norms and social roles》第96卷，《Columbia Law Review》1996年。<br>
-<sup>55</sup> Ian Morris：《Why the West rules–for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
+<sup>55</sup> Ian Morris：《Why the West rules—for now: the patterns of history, and what they reveal about the future》，New York：Farrar, Straus and Giroux，2010年。<br>
 <sup>56</sup> 罗杰斯：《西方文明史：问题与源头》，潘惠霞等译，大连：东北财经大学出版社，2011年。<br>
 <sup>57</sup> 陈登原：《国史旧闻》（第 1 卷），北京：中华书局，2000年。<br>
 <sup>58</sup> Diana Crane：《Invisible college》，Chicago：Univ. of Chicago Press，1972年。<br>
@@ -489,7 +489,7 @@
 <sup>110</sup> Tactile Labs：《Latero tactile display》，2015年，<a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>。<br>
 <sup>111</sup> Epocrates：《Epocrates medical references》，App Store，2019年，<a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>。<br>
 <sup>112</sup> Epocrates：《Interaction Check: Aspirin + Sertraline》，Google Play Store，2019年。<br>
-<sup>113</sup> A. Tellegen、Y. S. Ben-Porath：《Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual》，Pearson，2011年。<br>
+<sup>113</sup> A. Tellegen、Y. S. Ben-Porath：《Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual》，Pearson，2011年。<br>
 <sup>114</sup> Project Implicit：《Gender-Science IAT》。<br>
 <sup>115</sup> J. Alonso-Tapia、C. Nieto、E. Merino-Tejedor、J. A. Huertas、M. Ruiz：《Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)》，PsycTESTS，2018年。<br>
 <sup>116</sup> D. Cardoza、J. K. Morris、H. F. Myers、N. Rodriguez：《Acculturative Stress Inventory (ASI)》，ETS TestLink，2000年。<br>

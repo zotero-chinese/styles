@@ -48,11 +48,11 @@
 ### 引注
 
 <sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” Columbia Law Review, 96, 1996, p.903.<br>
-<sup>2</sup> Ian Morris, Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
+<sup>2</sup> Ian Morris, Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
 <sup>3</sup> 应松年、马怀德编著：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>4</sup> Ian Morris: Why the West Rules–for Now, pp.326-329.<br>
-<sup>5</sup> Ian Morris: Why the West Rules–for Now, pp.326-329.<br>
-<sup>6</sup> Ian Morris: Why the West Rules–for Now, p.260.<br>
+<sup>4</sup> Ian Morris: Why the West Rules—for Now, pp.326-329.<br>
+<sup>5</sup> Ian Morris: Why the West Rules—for Now, pp.326-329.<br>
+<sup>6</sup> Ian Morris: Why the West Rules—for Now, p.260.<br>
 <sup>7</sup> 应松年、马怀德编著：《当代中国行政法的源流》，第330页。<br>
 <sup>8</sup> 应松年、马怀德编著：《当代中国行政法的源流》，第330页。<br>
 <sup>9</sup> 应松年、马怀德编著：《当代中国行政法的源流》，第331页。<br>
@@ -116,7 +116,7 @@
 <sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
 <sup>53</sup> Lawrence Dowler, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment,” Journal of Library Administration, 21(1/2), 1995.<br>
 <sup>54</sup> Cass R. Sunstein, “Social Norms and Social Roles,” Columbia Law Review, 96, 1996.<br>
-<sup>55</sup> Ian Morris, Why the West Rules–for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010.<br>
+<sup>55</sup> Ian Morris, Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010.<br>
 <sup>56</sup> 罗杰斯：《西方文明史：问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，大连：东北财经大学出版社，2011年。<br>
 <sup>57</sup> 陈登原：《国史旧闻》（第 1 卷），北京：中华书局，2000年。<br>
 <sup>58</sup> Diana Crane, Invisible College, Chicago: Univ. of Chicago Press, 1972.<br>
@@ -501,7 +501,7 @@
 <sup>110</sup> Tactile Labs, Latero Tactile Display, 2015, <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates, Epocrates Medical References, 2019, <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>
 <sup>112</sup> Epocrates, “Interaction Check: Aspirin + Sertraline,” in Epocrates Medical References, Google Play Store, 2019.<br>
-<sup>113</sup> A. Tellegen and Y. S. Ben-Porath, Minnesota Multiphasic Personality Inventory–2 Restructured Form (MMPI-2-RF): Technical Manual, Report, Pearson, 2011.<br>
+<sup>113</sup> A. Tellegen and Y. S. Ben-Porath, Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual, Report, Pearson, 2011.<br>
 <sup>114</sup> Project Implicit, Gender-Science IAT, no date.<br>
 <sup>115</sup> J. Alonso-Tapia, C. Nieto, E. Merino-Tejedor, J. A. Huertas, and M. Ruiz, Situated Goals Questionnaire for University Students (SGQ-U, CMS-U), 2018.<br>
 <sup>116</sup> D. Cardoza, J. K. Morris, H. F. Myers, and N. Rodriguez, Acculturative Stress Inventory (ASI), 2000.<br>
