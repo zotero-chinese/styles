@@ -61,7 +61,7 @@
   <macro name="author-en">
     <names variable="author">
       <name name-as-sort-order="first" and="text" delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize="false" initialize-with=". "/>
-      <label form="long" prefix=", "/>
+      <label form="short" prefix=", "/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>
@@ -126,6 +126,41 @@
       </else>
     </choose>
   </macro>
+  <macro name="container-peridical-en">
+    <choose>
+      <if type="article-journal">
+        <group delimiter=": ">
+          <group delimiter=" ">
+            <group delimiter=". ">
+              <group delimiter=" ">
+                <text macro="container-title-en"/>
+                <text variable="volume"/>
+              </group>
+              <text variable="issue"/>
+            </group>
+            <text macro="publication-date-en" prefix="(" suffix=")"/>
+          </group>
+          <text macro="location-en"/>
+        </group>
+      </if>
+      <else-if type="article-magazine">
+        <group delimiter=": ">
+          <group delimiter=" ">
+            <text macro="container-title-en"/>
+            <text macro="publication-date-en"/>
+          </group>
+          <text macro="location-en"/>
+        </group>
+      </else-if>
+      <else-if type="article-newspaper">
+        <group delimiter=", ">
+          <text macro="container-title-en"/>
+          <text macro="publication-date-en"/>
+          <text macro="location-en"/>
+        </group>
+      </else-if>
+    </choose>
+  </macro>
   <macro name="container-title-en">
     <text variable="container-title" font-style="italic" text-case="title"/>
   </macro>
@@ -134,15 +169,15 @@
       <if variable="container-title">
         <group delimiter=", ">
           <names variable="container-author" delimiter=", ">
-            <label form="verb" suffix=" "/>
+            <label form="short" text-case="capitalize-first" suffix=" "/>
             <name and="text"/>
           </names>
           <names variable="editor translator" delimiter=", ">
-            <label form="verb" suffix=" "/>
+            <label form="short" text-case="capitalize-first" suffix=" "/>
             <name and="text"/>
           </names>
           <names variable="director illustrator interviewer" delimiter=", ">
-            <label form="verb" suffix=" "/>
+            <label form="short" text-case="capitalize-first" suffix=" "/>
             <name and="text"/>
           </names>
         </group>
@@ -150,15 +185,15 @@
       <else>
         <group delimiter=", ">
           <names variable="container-author" delimiter=", ">
-            <label form="verb" suffix=" " text-case="capitalize-first"/>
+            <label form="short" text-case="capitalize-first" suffix=" "/>
             <name and="text"/>
           </names>
           <names variable="editor translator" delimiter=", ">
-            <label form="verb" suffix=" " text-case="capitalize-first"/>
+            <label form="short" text-case="capitalize-first" suffix=" "/>
             <name and="text"/>
           </names>
           <names variable="director illustrator interviewer" delimiter=", ">
-            <label form="verb" suffix=" " text-case="capitalize-first"/>
+            <label form="short" text-case="capitalize-first" suffix=" "/>
             <name and="text"/>
           </names>
         </group>
@@ -256,7 +291,14 @@
         <date variable="issued" form="numeric" date-parts="year"/>
       </if>
       <else-if type="article-journal">
-        <date variable="issued" form="text" date-parts="year-month"/>
+        <date variable="issued" form="numeric" date-parts="year"/>
+      </else-if>
+      <else-if type="article-magazine aritcle-newspaper" match="any">
+        <date variable="issued">
+          <date-part name="day" suffix=" "/>
+          <date-part name="month" suffix=" "/>
+          <date-part name="year"/>
+        </date>
       </else-if>
       <else-if type="speech thesis" match="none">
         <date variable="issued" form="text"/>
@@ -265,14 +307,17 @@
   </macro>
   <macro name="location-en">
     <group delimiter=", ">
-      <group delimiter=" ">
-        <label variable="page" form="short"/>
-        <text variable="page"/>
-      </group>
       <choose>
-        <if variable="source" match="none">
-          <text macro="URI-en"/>
+        <if type="article-journal article-magazine" match="any">
+          <text variable="page"/>
         </if>
+        <else-if type="article-newspaper">
+          <label variable="page" text-case="capitalize-first" suffix=" "/>
+          <text variable="page"/>
+        </else-if>
+        <else-if variable="container-title" match="any">
+          <text variable="page"/>
+        </else-if>
       </choose>
     </group>
   </macro>
@@ -292,7 +337,7 @@
   </macro>
   <macro name="container2-location-en">
     <choose>
-      <if variable="source">
+      <if type="dataset post post-weblog software webpage" match="any">
         <choose>
           <if variable="DOI URL" match="any">
             <group delimiter=", ">
@@ -669,13 +714,20 @@
       <date variable="original-date" form="numeric" date-parts="year"/>
       <group delimiter=", ">
         <!-- This group corresponds to MLA's "Container 1" -->
-        <text macro="container-title-en"/>
-        <text macro="other-contributors-en"/>
-        <text macro="version-en"/>
-        <text macro="number-en"/>
-        <text macro="publisher-en"/>
-        <text macro="publication-date-en"/>
-        <text macro="location-en"/>
+        <choose>
+          <if type="article-journal article-magazine article-newspaper" match="any">
+            <text macro="container-peridical-en"/>
+          </if>
+          <else>
+            <text macro="container-title-en"/>
+            <text macro="other-contributors-en"/>
+            <text macro="version-en"/>
+            <text macro="number-en"/>
+            <text macro="publisher-en"/>
+            <text macro="publication-date-en"/>
+            <text macro="location-en"/>
+          </else>
+        </choose>
       </group>
       <group delimiter=", ">
         <!-- This group corresponds to MLA's "Container 2" -->
