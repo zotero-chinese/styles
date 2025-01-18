@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1000-3894</issn>
     <summary>《数量经济技术经济研究》体例（2022-09-09）</summary>
-    <updated>2025-01-03T10:47:12+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -100,8 +100,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long"/>
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

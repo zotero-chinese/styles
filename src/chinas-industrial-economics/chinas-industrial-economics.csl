@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2025-01-03T11:42:53+08:00</updated>
+    <updated>2025-01-18T20:26:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -93,7 +93,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" and="text" delimiter-precedes-et-al="never"/>
+      <name and="text" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

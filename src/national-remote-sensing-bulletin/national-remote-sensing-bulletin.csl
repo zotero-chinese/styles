@@ -15,7 +15,7 @@
     <category field="geography"/>
     <issn>1007-4619</issn>
     <summary>《遥感学报》中文体例模版2021.docx；由于 CSL 功能的限制，参考文献表中英文文献会出现“和”，需要手动替换为“and”。</summary>
-    <updated>2025-01-03T10:49:32+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -114,7 +114,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" and="text"/>
+      <name and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

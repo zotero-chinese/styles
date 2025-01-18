@@ -11,7 +11,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2025-01-08T18:03:32+08:00</updated>
+    <updated>2025-01-18T20:26:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -78,7 +78,7 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="author">
-      <name and="text" form="long"/>
+      <name and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

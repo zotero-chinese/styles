@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="sociology"/>
     <issn>1002-5936</issn>
-    <updated>2025-01-03T10:47:12+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -89,7 +89,7 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" delimiter="、"/>
+      <name delimiter="、"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>附件1-5.华南农业大学本科毕业论文（设计）撰写规范（封面模板、原创性声明及使用授权声明、正文结构参考样式、参考文献著录规则、评分参考标准）.pdf（2024-11-26，华南农办〔2024〕56号）</summary>
-    <updated>2024-12-07T18:12:11+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -78,7 +78,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" and="text"/>
+      <name and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

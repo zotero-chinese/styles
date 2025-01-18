@@ -26,7 +26,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>《西北农林科技大学本科生毕业论文（设计）》（2023-10-31）附表5 本科生毕业论文（设计）撰写规范</summary>
-    <updated>2024-12-25T19:01:06+08:00</updated>
+    <updated>2025-01-18T20:26:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -93,7 +93,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" and="text"/>
+      <name and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

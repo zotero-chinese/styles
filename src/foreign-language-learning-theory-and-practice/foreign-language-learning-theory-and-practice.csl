@@ -16,7 +16,7 @@
     <category field="linguistics"/>
     <issn>1674-1234</issn>
     <summary>外语教学理论与实践.pdf</summary>
-    <updated>2025-01-03T12:03:58+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -95,7 +95,7 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long" delimiter="、" delimiter-precedes-et-al="never"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

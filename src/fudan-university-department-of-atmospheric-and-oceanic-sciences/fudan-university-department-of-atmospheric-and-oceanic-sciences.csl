@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>复旦大学大气与海洋科学系论文写作规范-2023.docx（2023-09-11）</summary>
-    <updated>2025-01-03T12:12:53+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -77,7 +77,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name and="text" form="long"/>
+      <name and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

@@ -14,7 +14,7 @@
     <category field="social_science"/>
     <issn>1006-1029</issn>
     <summary>《国际金融研究》投稿指南</summary>
-    <updated>2025-01-03T10:49:33+08:00</updated>
+    <updated>2025-01-18T20:26:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -85,8 +85,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <name form="long" delimiter="，" and="text"/>
+      <name delimiter="，" and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

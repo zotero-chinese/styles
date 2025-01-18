@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点。</summary>
-    <updated>2025-01-03T10:49:33+08:00</updated>
+    <updated>2025-01-18T20:26:03+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -89,7 +89,7 @@
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext-en">
     <names variable="author">
-      <name form="short"/>
+      <name form="short" and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -106,7 +106,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name delimiter="，" form="long"/>
+      <name delimiter="，" and="text"/>
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
       <et-al term="space-et-al"/>
       <substitute>

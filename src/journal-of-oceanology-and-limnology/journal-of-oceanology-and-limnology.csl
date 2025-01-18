@@ -14,7 +14,7 @@
     <category field="geography"/>
     <issn>0029-814X</issn>
     <summary>海洋与湖沼参考文献格式模板-2021-11-19.pdf</summary>
-    <updated>2024-09-14T22:12:17+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -71,7 +71,7 @@
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext-en">
     <names variable="author">
-      <name form="short"/>
+      <name form="short" and="text"/>
       <et-al term="et-al" font-style="italic"/>
       <substitute>
         <names variable="composer"/>
@@ -89,7 +89,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long"/>
+      <name and="text"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

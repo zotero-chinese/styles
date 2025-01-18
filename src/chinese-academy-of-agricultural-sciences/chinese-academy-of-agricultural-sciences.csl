@@ -16,7 +16,7 @@
     <category field="generic-base"/>
     <category field="science"/>
     <summary>中国农业科学院研究生学位论文写作规范202006.doc</summary>
-    <updated>2025-01-03T10:47:12+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -69,8 +69,7 @@
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
   <macro name="author-intext-en">
     <names variable="author">
-      <!-- <name form="short" text-case="uppercase"/> -->
-      <name form="short">
+      <name form="short" and="text">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <substitute>
@@ -89,7 +88,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name form="long"/>
+      <name and="text"/>
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
       <et-al term="space-et-al"/>
       <substitute>

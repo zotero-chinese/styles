@@ -13,7 +13,7 @@
     <category field="social_science"/>
     <issn>1002-5766</issn>
     <summary>《经济管理》投稿指南（2022年修订）</summary>
-    <updated>2025-01-08T17:54:03+08:00</updated>
+    <updated>2025-01-18T20:26:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -76,7 +76,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name form="long" and="text" et-al-min="3"/>
+          <name and="text" et-al-min="3"/>
         </names>
       </if>
       <else>
