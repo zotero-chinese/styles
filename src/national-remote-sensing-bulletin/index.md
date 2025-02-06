@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">2011. 45-52 (贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52)</div>
   <div class="csl-entry">2012 (库恩. 2012. 科学革命的结构：第 4 版. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社)</div>
-  <div class="csl-entry">2008. 33(5): 8-9 (武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8-9) [[DOI: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>]]</div>
+  <div class="csl-entry">2008. 33(5): 8-9 (武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8-9) [DOI: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>]</div>
   <div class="csl-entry">2012 (中国互联网络信息中心. 2012. 第 29 次中国互联网络发展状况统计报告)</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Fan X和Sommers C H. 2013. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
@@ -71,7 +71,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">2012. 112 (北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 2012. 历代王朝与民族宗教. 北京: 民族出版社: 112)</div>
   <div class="csl-entry">2000a. 29 (陈登原. 2000. 国史旧闻: 第 1 卷. 北京: 中华书局: 29)</div>
   <div class="csl-entry">2000b. 29 (陈登原. 2000. 国史旧闻: 第 1 卷. 北京: 中华书局: 29)</div>
-  <div class="csl-entry">2010. 7(10): 93 (陈建军. 2010. 从数字地球到智慧地球. 国土资源导刊, 7(10): 93) [[DOI: <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">10.3969/j.issn.1672-5603.2010.10.038</a>]]</div>
+  <div class="csl-entry">2010. 7(10): 93 (陈建军. 2010. 从数字地球到智慧地球. 国土资源导刊, 7(10): 93) [DOI: <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">10.3969/j.issn.1672-5603.2010.10.038</a>]</div>
   <div class="csl-entry">1980. 56-114 (陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 1980. 蓟县震旦亚界的研究. 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社: 56-114)</div>
   <div class="csl-entry">2011 (陈志勇. 2011. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社)</div>
   <div class="csl-entry">1999. 32-36 (程根伟. 1999. 1998 年长江洪水的成因与减灾对策. 许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社: 32-36)</div>
@@ -91,10 +91,10 @@ Qian等 （2009a）<br>
   <div class="csl-entry">2012 (雷光春. 2012. 综合湿地管理：综合湿地管理国际研讨会论文集. 北京: 海洋出版社)</div>
   <div class="csl-entry">2008a. 52(6): 6-12 (李炳穆. 2008. 韩国图书馆法. 图书情报工作, 52(6): 6-12)</div>
   <div class="csl-entry">2008b. 52(6): 6-21 (李炳穆. 2008. 韩国图书馆法. 图书情报工作, 52(6): 6-21)</div>
-  <div class="csl-entry">2012 (李强. 2012. 化解医患矛盾需釜底抽薪) [<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>]</div>
+  <div class="csl-entry">2012 (李强. 2012. 化解医患矛盾需釜底抽薪) <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a></div>
   <div class="csl-entry">2010. 4(3): 225-228 (李幼平, 王莉. 2010. 循证医学研究方法：附视频. 中华移植杂志（电子版）, 4(3): 225-228)</div>
   <div class="csl-entry">1998. (5): 38-39 (刘彻东. 1998. 中国的青年刊物：个性特色为本仁. 中国出版(5): 38-39)</div>
-  <div class="csl-entry">2000. 17-18 (刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究. 合肥: 中国科学技术大学: 17-18) [[DOI: <a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>]]</div>
+  <div class="csl-entry">2000. 17-18 (刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究. 合肥: 中国科学技术大学: 17-18) [DOI: <a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>]</div>
   <div class="csl-entry">2013. 2013-01-12 (刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 2013. 雾霾来袭，如何突围？. 人民日报, 2013-01-12)</div>
   <div class="csl-entry">2011. 011-012 (楼梦鳞, 杨燕. 2011. 汶川地震基岩地震动特征分析. 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社: 011-012)</div>
   <div class="csl-entry">2011. 15-16 (罗杰斯. 2011. 西方文明史：问题与源头. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社: 15-16)</div>
@@ -118,9 +118,9 @@ Qian等 （2009a）<br>
   <div class="csl-entry">2010. 138 (王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史背景. 曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138)</div>
   <div class="csl-entry">2010. 37(4): 147 (王临惠, 支建刚, 王忠一. 2010. 天津方言的源流关系刍议. 山西师范大学学报（社会科学版）, 37(4): 147)</div>
   <div class="csl-entry">2003 (吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究. 北京: 北京大学)</div>
-  <div class="csl-entry">2008. 33(5): 8-9 (武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8-9) [[DOI: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>]]</div>
+  <div class="csl-entry">2008. 33(5): 8-9 (武丽丽, 华一新, 张亚军, 刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学, 33(5): 8-9) [DOI: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>]</div>
   <div class="csl-entry">2002. 01128777.2. 2002-03-06 (西安电子科技大学. 2002. 光折变自适应光外差探测方法: 01128777.2. 2002-03-06)</div>
-  <div class="csl-entry">2001 (萧钰. 2001. 出版业信息化迈入快车道) [<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>]</div>
+  <div class="csl-entry">2001 (萧钰. 2001. 出版业信息化迈入快车道) <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a></div>
   <div class="csl-entry">2010 (徐光宪, 王祥云. 2010. 物质结构. 北京: 科学出版社)</div>
   <div class="csl-entry">2012 (杨保军. 2012. 新闻道德论. 北京: 中国人民大学出版社)</div>
   <div class="csl-entry">2013. (1): 56-75 (杨洪升. 2013. 四库馆私家抄校书考略. 文献(1): 56-75)</div>
@@ -267,9 +267,9 @@ Qian等 （2009a）<br>
   <div class="csl-entry">1982. 日 (实藤惠秀. 1982. 中国人留学日本史. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社)</div>
   <div class="csl-entry">1997 (唐振常. 1997. 师承与变法. 识史集. 上海: 上海古籍出版社)</div>
   <div class="csl-entry">1936. 4(6) (汪疑今. 1936. 江苏的小农及其副业. 中国经济, 4(6))</div>
-  <div class="csl-entry">1998 (王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展) [<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>]</div>
-  <div class="csl-entry">1990. (6): 68-73, 86 (魏丽英. 1990. 论近代西北人口波动的若干主要原因. 社会科学(6): 68-73, 86) [[DOI: <a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">10.15891/j.cnki.cn62-1093/c.1990.06.017</a>]]</div>
-  <div class="csl-entry">[2007] (扬之水. [2007]. 两宋茶诗与茶事) [<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>]</div>
+  <div class="csl-entry">1998 (王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展) <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a></div>
+  <div class="csl-entry">1990. (6): 68-73, 86 (魏丽英. 1990. 论近代西北人口波动的若干主要原因. 社会科学(6): 68-73, 86) [DOI: <a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">10.15891/j.cnki.cn62-1093/c.1990.06.017</a>]</div>
+  <div class="csl-entry">[2007] (扬之水. [2007]. 两宋茶诗与茶事) <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   <div class="csl-entry">1991 (杨钟羲. 1991. 雪桥诗话续集: 卷 5. 影印本. 沈阳: 辽沈书社)</div>
   <div class="csl-entry">(姚际恒. 古今伪书考: 卷 3. 光绪三年苏州文学山房活字本)</div>
   <div class="csl-entry">1910. 1910-09-03(第1—2页) (佚名. 1910. 四川会议厅暂行章程. 广益丛报, 1910-09-03(第1—2页))</div>
@@ -302,7 +302,7 @@ Qian等 （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">2006. (1): 144-164 (崔国斌. 2006. 知识产权法官造法批判. 中国法学(1): 144-164) [[DOI: <a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">10.14111/j.cnki.zgfx.2006.01.013</a>]]</div>
+  <div class="csl-entry">2006. (1): 144-164 (崔国斌. 2006. 知识产权法官造法批判. 中国法学(1): 144-164) [DOI: <a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">10.14111/j.cnki.zgfx.2006.01.013</a>]</div>
   <div class="csl-entry">2012 ([德]莱纳·沃尔夫. 2012. 风险法的风险. 陈霄, 译. 刘刚. 风险规制：德国的理论与实践. 法律出版社)</div>
   <div class="csl-entry">1994 (邓小平. 1994. 精简机构是一场革命. 邓小平文选: 卷 2. 2 版. 人民出版社)</div>
   <div class="csl-entry">2013 (高鸿钧, 程汉大. 2013. 英美法原论. 北京大学出版社)</div>
@@ -313,7 +313,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">2000. 2000-05-21(2) (何海波. 2000. 判决书上网. 法制日报, 2000-05-21(2))</div>
   <div class="csl-entry">1993. (1): 83-103 (季卫东. 1993. 法律程序的意义：对中国法制建设的另一种思考. 中国社会科学(1): 83-103)</div>
   <div class="csl-entry">2015 (李松锋. 2015. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究. 中国政法大学)</div>
-  <div class="csl-entry">1993. (1): 52-59 (罗豪才, 袁曙宏, 李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学(1): 52-59) [[DOI: <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">10.14111/j.cnki.zgfx.1993.01.010</a>]]</div>
+  <div class="csl-entry">1993. (1): 52-59 (罗豪才, 袁曙宏, 李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学(1): 52-59) [DOI: <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">10.14111/j.cnki.zgfx.1993.01.010</a>]</div>
   <div class="csl-entry">2005 ([美]富勒. 2005. 法律的道德性. 郑戈, 译. 商务印书馆)</div>
   <div class="csl-entry">1994 (欧中坦. 1994. 千方百计上京城：清朝的京控. 谢鹏程, 译. 高道蕴, 高鸿钧, 贺卫方. 美国学者论中国法律传统. 中国政法大学出版社)</div>
   <div class="csl-entry">2010 (瞿同祖. 2010. 中国法律与中国社会. 商务印书馆)</div>
@@ -321,7 +321,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">2005 (全国人大常委会. 2005. 中华人民共和国公司法. 2005年修订)</div>
   <div class="csl-entry">2013 (全国人大常委会. 2013. 中华人民共和国公司法. 2013年修正)</div>
   <div class="csl-entry">2017. 中华人民共和国主席令第80号 (全国人大常委会. 2017. 中华人民共和国刑法修正案（十）: 中华人民共和国主席令第80号)</div>
-  <div class="csl-entry">2004 (汪波. 2004. 哈尔滨市政法机关正对“宝马案”认真调查复查) [<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>]</div>
+  <div class="csl-entry">2004 (汪波. 2004. 哈尔滨市政法机关正对“宝马案”认真调查复查) <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a></div>
   <div class="csl-entry">1994. 110 (王保树. 1994. 股份有限公司机关构造中的董事和董事会. 梁慧星. 民商法论丛: 卷 1. 法律出版社: 110)</div>
   <div class="csl-entry">2007 (王名扬. 2007. 美国行政法. 北京大学出版社)</div>
   <div class="csl-entry">1971 (我妻栄. 1971. 新訂担保物権法. 有斐閣)</div>
@@ -340,10 +340,10 @@ Qian等 （2009a）<br>
   <div class="csl-entry">Anon. 2006. Administrative Procedure Act § 6. U.S.C.: Vol. 5.</div>
   <div class="csl-entry">2013. （2013）锡民终字第497号 (佚名. 2013. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号. 最高人民法院公报)</div>
   <div class="csl-entry">2015 (佚名. 2015. 陆红霞诉南通市发改委政府信息公开案. 最高人民法院公报)</div>
-  <div class="csl-entry">[2016a] (佚名. [2016]. 法国行政法院网站) [<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>]</div>
+  <div class="csl-entry">[2016a] (佚名. [2016]. 法国行政法院网站) <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a></div>
   <div class="csl-entry">2017. （2011）民一终字第 81 号 (佚名. 2017. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号)</div>
-  <div class="csl-entry">[2022b] (佚名. [2022]. ジュリスト) [<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>]</div>
-  <div class="csl-entry">(佚名. 被告人李宁、张磊贪污案一审开庭) [<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>]</div>
+  <div class="csl-entry">[2022b] (佚名. [2022]. ジュリスト) <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a></div>
+  <div class="csl-entry">(佚名. 被告人李宁、张磊贪污案一审开庭) <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a></div>
   <div class="csl-entry">(佚名. 民法总则)</div>
   <div class="csl-entry">（1988）浙法民上字 7 号 (佚名. 包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号)</div>
   <div class="csl-entry">Anon. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK.</div>
@@ -353,12 +353,12 @@ Qian等 （2009a）<br>
   <div class="csl-entry">369 (佚名. Strauß-Karikatur, Kunstfreiheit. BVerfGE: 卷 75. 369)</div>
   <div class="csl-entry">(佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律)</div>
   <div class="csl-entry">(佚名. 平成26年版犯罪白書)</div>
-  <div class="csl-entry">(佚名. 温家宝主持国务院会议 研究房地产业健康发展措施) [<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>]</div>
+  <div class="csl-entry">(佚名. 温家宝主持国务院会议 研究房地产业健康发展措施) <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a></div>
   <div class="csl-entry">2006 (应松年, 马怀德. 2006. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社)</div>
   <div class="csl-entry">1971 ([英]劳特派特. 1971. 奥本海国际法: 上卷第一分册. 王铁崖, 陈体强, 译. 8 版. 商务印书馆)</div>
   <div class="csl-entry">1954. 29(5): 1 (於保不二雄. 1954. 付加物及び従物と抵当権. 民商法雑誌, 29(5): 1)</div>
   <div class="csl-entry">2016 (张新宝. 2016. 侵权责任法. 4 版. 中国人民大学出版社)</div>
-  <div class="csl-entry">2018 (赵耀彤. 2018. 一名基层法官眼里好律师的样子) [<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>]</div>
+  <div class="csl-entry">2018 (赵耀彤. 2018. 一名基层法官眼里好律师的样子) <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a></div>
   <div class="csl-entry">2014 (中国共产党中央委员会. 2014. 中共中央关于全面推进依法治国若干重大问题的决定)</div>
   <div class="csl-entry">2018. 法释〔2018〕1号 (最高人民法院. 2018. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号)</div>
   <div class="csl-entry">1993. 法发〔1993〕36号 (最高人民法院, 最高人民检察院. 1993. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号)</div>
@@ -373,10 +373,10 @@ Qian等 （2009a）<br>
   <div class="csl-entry">2015. 2015-09-29 (Fischer T. 2015. Absurdes Spektakel um den Tod. Die Zeit, 2015-09-29)</div>
   <div class="csl-entry">Habermas J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy. Rehg W, tran. MIT Press.</div>
   <div class="csl-entry">Horsley J. 2006. Rule of law in China: incremental progress. Bergsten C F, Gill B, Lardy N R, Mitchell D. China: The balance sheet. Public Affairs Press.</div>
-  <div class="csl-entry">[2010] (Joyeux-Prunel B. [2010]. L’histoire de l’art et le quantitatif) [<a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>]</div>
+  <div class="csl-entry">[2010] (Joyeux-Prunel B. [2010]. L’histoire de l’art et le quantitatif) <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a></div>
   <div class="csl-entry">1972 (Kaufmann A. 1972. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. Baumann J. Das Abtreibungsverbot des § 218 StGB. 2 版)</div>
   <div class="csl-entry">McDonell S. 2016. When China began streaming trials online <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
-  <div class="csl-entry">[2017] (Meidenbauer M. [2017]. Wissenschaftliches Publizieren) [<a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>]</div>
+  <div class="csl-entry">[2017] (Meidenbauer M. [2017]. Wissenschaftliches Publizieren) <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a></div>
   <div class="csl-entry">2015a. 15-47 (Poisson M. 2015. Le droit de la mer. RGDIP: 15-47)</div>
   <div class="csl-entry">2015b. 12-48 (Poisson M. 2015. Le droit de la mer. Lapieuvre R. Le droit des Océans. Éditions de la mer. 12-48)</div>
   <div class="csl-entry">2016a. 228-229 (Poisson M. 2016. Le droit de la mer en Méditerranée. Congrès de Marseille: 228-229)</div>
@@ -386,7 +386,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">Rosenthal A. 1990. White House tutors Kremlin in how a presidency works. New York Times, 1990-06-15(A1).</div>
   <div class="csl-entry">2006 (Roxin C. 2006. Strafrecht Allgemeiner Teil: 卷 1. 4 版. C. H. Beck)</div>
   <div class="csl-entry">2013 (Schwab M. 2013. Münchener Kommentar BGB: 卷 5. 6 版)</div>
-  <div class="csl-entry">2017. 129(3): 629-649 (Vogel B. 2017. Rechtsgüterschutz und Normgeltung. Zeitschrift für die gesamte Strafrechtswissenschaft, 129(3): 629-649) [[DOI: <a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>]]</div>
+  <div class="csl-entry">2017. 129(3): 629-649 (Vogel B. 2017. Rechtsgüterschutz und Normgeltung. Zeitschrift für die gesamte Strafrechtswissenschaft, 129(3): 629-649) [DOI: <a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>]</div>
   <div class="csl-entry">2012. (3): 234-240 (Würdinger M. 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Juristische Schulung(3): 234-240)</div>
 </div>
 
