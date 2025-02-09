@@ -23,6 +23,19 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    attributes:
+      label: 参考文献格式
+      description: 提供**官网**的链接，并上传一份格式文件。
+      value: |
+        官方网页链接：
+
+        官方文件链接：
+
+        上传格式文件：
+    validations:
+      required: true
+
   - type: dropdown
     attributes:
       label: 相关领域
@@ -60,19 +73,6 @@ body:
         - （期刊）ISSN 号：
         - （学校）文件号：
         - 参考文献格式的更新日期：
-
-  - type: textarea
-    attributes:
-      label: 参考文献格式
-      description: 提供**官网**的链接，并上传一份格式文件。
-      value: |
-        官方网页链接：
-
-        官方文件链接：
-
-        上传格式文件：
-    validations:
-      required: true
 
   - type: textarea
     attributes:
