@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>清华大学研究生学位论文写作指南（2023 年 3 月）</summary>
-    <updated>2025-01-18T20:26:04+08:00</updated>
+    <updated>2025-02-10T18:13:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -231,12 +231,17 @@
   <!-- 文献载体标识 -->
   <macro name="medium-id">
     <choose>
-      <if variable="medium">
-        <text variable="medium"/>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+        <choose>
+          <if variable="medium">
+            <text variable="medium"/>
+          </if>
+          <else-if variable="URL">
+            <text value="OL"/>
+          </else-if>
+        </choose>
       </if>
-      <else-if variable="URL DOI" match="any">
-        <text value="OL"/>
-      </else-if>
     </choose>
   </macro>
   <!-- 其他责任者 -->
@@ -310,7 +315,6 @@
         </group>
       </else>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -340,7 +344,6 @@
       <if type="patent">
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
@@ -360,18 +363,22 @@
           </group>
           <text variable="page"/>
         </group>
-        <text macro="accessed-date"/>
       </else-if>
-      <else-if variable="URL DOI" match="any">
+      <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
           原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
         -->
         <choose>
-          <if has-day="issued">
-            <text macro="issued-date" prefix="(" suffix=")"/>
+          <if type="dataset post post-weblog software webpage" match="any">
+            <!-- 限制更少的类型作为“纯电子文献“ -->
+            <choose>
+              <if has-day="issued">
+                <text macro="issued-date" prefix="(" suffix=")"/>
+              </if>
+            </choose>
+            <text macro="accessed-date"/>
           </if>
         </choose>
-        <text macro="accessed-date"/>
       </else-if>
     </choose>
   </macro>
@@ -402,17 +409,24 @@
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
-      <if variable="URL DOI" match="any">
-        <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
+        <choose>
+          <if variable="URL">
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </if>
+        </choose>
       </if>
     </choose>
   </macro>
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
-    <group delimiter=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group>
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
+        <text variable="URL"/>
+      </if>
+    </choose>
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
@@ -488,7 +502,6 @@
     <sort>
       <key macro="author"/>
       <key macro="issued-year"/>
-      <key variable="title"/>
     </sort>
     <layout locale="en">
       <text macro="entry-layout" suffix="."/>
