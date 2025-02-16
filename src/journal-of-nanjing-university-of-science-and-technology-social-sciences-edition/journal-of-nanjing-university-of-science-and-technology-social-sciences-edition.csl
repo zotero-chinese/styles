@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1008-2646</issn>
     <summary>《南京理工大学学报（社科版）》稿件格式规范</summary>
-    <updated>2025-01-07T16:57:14+08:00</updated>
+    <updated>2025-02-16T21:39:34+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -61,7 +61,7 @@
   </macro>
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter="、"/>
+      <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label/>
       <substitute>
         <names variable="editor"/>
@@ -589,7 +589,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="source-en">
+  <macro name="entry-layout-en">
     <group delimiter=", ">
       <text macro="author-en"/>
       <text macro="title-en"/>
@@ -639,7 +639,7 @@
       </choose>
     </group>
   </macro>
-  <macro name="source-zh">
+  <macro name="entry-layout-zh">
     <group delimiter="：">
       <text macro="author-zh"/>
       <group delimiter="，">
@@ -704,57 +704,7 @@
       </group>
     </group>
   </macro>
-  <macro name="entry-layout-en">
-    <choose>
-      <if position="first">
-        <text macro="source-en"/>
-      </if>
-      <else>
-        <!-- 再次引证时的项目简化 -->
-        <group delimiter=": ">
-          <text macro="author-en"/>
-          <group delimiter=", ">
-            <text macro="title-short-en"/>
-            <choose>
-              <if type="article-journal article-magazine article-newspaper" match="any">
-                <text macro="container-periodical-en"/>
-              </if>
-              <else-if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-en"/>
-              </else-if>
-            </choose>
-            <text macro="locator-en"/>
-          </group>
-        </group>
-      </else>
-    </choose>
-  </macro>
-  <macro name="entry-layout-zh">
-    <choose>
-      <if position="first">
-        <text macro="source-zh"/>
-      </if>
-      <else>
-        <!-- 再次引证时的项目简化 -->
-        <group delimiter="：">
-          <text macro="author-zh"/>
-          <group delimiter="，">
-            <text macro="title-short-zh"/>
-            <choose>
-              <if type="article-journal article-magazine article-newspaper" match="any">
-                <text macro="container-periodical-zh"/>
-              </if>
-              <else-if type="chapter paper-conference" match="any">
-                <text macro="container-booklike-short-zh"/>
-              </else-if>
-            </choose>
-            <text macro="locator-zh"/>
-          </group>
-        </group>
-      </else>
-    </choose>
-  </macro>
-  <citation>
+  <citation et-al-min="4" et-al-use-first="3">
     <layout delimiter="；" suffix="。" locale="zh">
       <text macro="entry-layout-zh"/>
     </layout>
@@ -762,14 +712,14 @@
       <text macro="entry-layout-en"/>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="source-zh" suffix="。"/>
+      <text macro="entry-layout-zh" suffix="。"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="source-en" suffix="."/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>
