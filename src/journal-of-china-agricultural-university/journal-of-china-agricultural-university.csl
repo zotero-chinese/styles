@@ -14,7 +14,7 @@
     <category field="science"/>
     <issn>1007-4333</issn>
     <summary>jcau投稿模板2024.doc</summary>
-    <updated>2025-01-08T17:10:41+08:00</updated>
+    <updated>2025-02-17T20:27:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -856,10 +856,9 @@
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh" suffix="; "/>
-      <group delimiter=" ">
-        <text macro="entry-layout-ZHtoEN"/>
-        <text value="(in Chinese)"/>
+      <group delimiter="; ">
+        <text macro="entry-layout-zh"/>
+        <text macro="entry-layout-ZHtoEN" suffix=" (in Chinese)"/>
       </group>
     </layout>
   </bibliography>

@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="political_science"/>
     <summary>世界经济与政治论坛</summary>
-    <updated>2024-12-04T14:00:52+08:00</updated>
+    <updated>2025-02-17T20:25:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -730,7 +730,7 @@
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh" suffix=". "/>
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
   </bibliography>
 </style>
