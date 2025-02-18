@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>哈尔滨医科大学研究生学位论文撰写指南（2024年12月修订）.docx</summary>
-    <updated>2025-01-08T17:10:41+08:00</updated>
+    <updated>2025-02-18T15:15:21+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -235,7 +235,7 @@
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
-          <text variable="container-title"/>
+          <text variable="container-title" form="short" strip-periods="true"/>
           <text macro="issued-date"/>
         </group>
         <text variable="page" prefix="(" suffix=")"/>
@@ -245,7 +245,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title"/>
+              <text variable="container-title" form="short" strip-periods="true"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
