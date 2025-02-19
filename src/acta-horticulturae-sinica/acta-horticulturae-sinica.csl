@@ -126,7 +126,7 @@
   </macro>
   <macro name="author-sort">
     <choose>
-      <if type="original-author">
+      <if variable="original-author">
         <text macro="author-ZHtoEN"/>
       </if>
       <else>
@@ -175,13 +175,13 @@
       </choose>
     </group>
     <choose>
-      <if type="thesis" prefix="[" suffix="]">
+      <if type="thesis">
         <choose>
           <if variable="genre">
-            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="genre" text-case="capitalize-first"  prefix="[" suffix="]"/>
           </if>
           <else>
-            <text term="thesis" text-case="capitalize-first"/>
+            <text term="thesis" text-case="capitalize-first"  prefix="[" suffix="]"/>
           </else>
         </choose>
       </if>
@@ -224,13 +224,13 @@
       </choose>
     </group>
     <choose>
-      <if type="thesis" prefix="[" suffix="]">
+      <if type="thesis">
         <choose>
           <if variable="genre">
-            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="genre" text-case="capitalize-first" prefix="[" suffix="]"/>
           </if>
           <else>
-            <text term="thesis" text-case="capitalize-first"/>
+            <text term="thesis" text-case="capitalize-first" prefix="[" suffix="]"/>
           </else>
         </choose>
       </if>
