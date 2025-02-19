@@ -158,8 +158,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1998. (5)：38–39. (in Chinese)
     <div class="csl-block">刘彻东. 1998. 中国的青年刊物：个性特色为本仁. 中国出版(5)：38–39.</div>
   </div>
-  <div class="csl-entry">2000. 博士学位论文. 17–18. (in Chinese)
-    <div class="csl-block">刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究博士学位论文. 合肥：中国科学技术大学：17–18.</div>
+  <div class="csl-entry">2000. [博士学位论文]. 17–18. (in Chinese)
+    <div class="csl-block">刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究[博士学位论文]. 合肥：中国科学技术大学：17–18.</div>
   </div>
   <div class="csl-entry">2013. 2013-01-12. (in Chinese)
     <div class="csl-block">刘裕国，杨柳，张洋，王汉超，靳博，田豆豆，付文. 2013. 雾霾来袭，如何突围？. 人民日报，2013-01-12.</div>
@@ -173,8 +173,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2009. (in Chinese)
     <div class="csl-block">罗斯基. 2009. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪，译. 杭州：浙江大学出版社.</div>
   </div>
-  <div class="csl-entry">2011. 博士学位论文. 27. (in Chinese)
-    <div class="csl-block">马欢. 2011. 人类活动影响下海河流域典型区水循环变化分析博士学位论文. 北京：清华大学：27.</div>
+  <div class="csl-entry">2011. [博士学位论文]. 27. (in Chinese)
+    <div class="csl-block">马欢. 2011. 人类活动影响下海河流域典型区水循环变化分析[博士学位论文]. 北京：清华大学：27.</div>
   </div>
   <div class="csl-entry">2013. 302. (in Chinese)
     <div class="csl-block">马克思. 2013. 政治经济学批判//马克思, 恩格斯. 马克思恩格斯全集：第 35 卷. 北京：人民出版社：302.</div>
@@ -227,8 +227,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2010. 37(4)：147. (in Chinese)
     <div class="csl-block">王临惠，支建刚，王忠一. 2010. 天津方言的源流关系刍议. 山西师范大学学报（社会科学版），37(4)：147.</div>
   </div>
-  <div class="csl-entry">2003. 博士学位论文. (in Chinese)
-    <div class="csl-block">吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究博士学位论文. 北京：北京大学.</div>
+  <div class="csl-entry">2003. [博士学位论文]. (in Chinese)
+    <div class="csl-block">吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究[博士学位论文]. 北京：北京大学.</div>
   </div>
   <div class="csl-entry">2008. 33(5)：8–9. (in Chinese)
     <div class="csl-block">武丽丽，华一新，张亚军，刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学，33(5)：8–9.</div>
@@ -242,8 +242,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2010. (in Chinese)
     <div class="csl-block">徐光宪，王祥云. 2010. 物质结构. 北京：科学出版社.</div>
   </div>
-  <div class="csl-entry">2012. 博士学位论文. (in Chinese)
-    <div class="csl-block">杨保军. 2012. 新闻道德论博士学位论文. 北京：中国人民大学出版社.</div>
+  <div class="csl-entry">2012. [博士学位论文]. (in Chinese)
+    <div class="csl-block">杨保军. 2012. 新闻道德论[博士学位论文]. 北京：中国人民大学出版社.</div>
   </div>
   <div class="csl-entry">2013. (1)：56–75. (in Chinese)
     <div class="csl-block">杨洪升. 2013. 四库馆私家抄校书考略. 文献(1)：56–75.</div>
@@ -326,7 +326,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Baldock P. 2011. Developing early childhood services: Past, present and future. Rotterdam：Open University Press：105.</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Buseck P R，Nord G L Jr，Veblen D R. c1980. Subsolidus phenomena in pyroxenes//Pyroxenes. Washington, D.C.：Mineralogical Society of America：117–211.</div>
-  <div class="csl-entry">Cairns B R. 1965. Infrared spectroscopic studies on solid oxygenDoctoral dissertation. Berkeley：Univ. of California.</div>
+  <div class="csl-entry">Cairns B R. 1965. Infrared spectroscopic studies on solid oxygen[Doctoral dissertation]. Berkeley：Univ. of California.</div>
   <div class="csl-entry">Calkin D，Ager A，Thompson M. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report：RMRS-GTR-262. 8–9.</div>
   <div class="csl-entry">Caplan P. 1993. Cataloging internet resources. The Public-Access Computer Systems Review，4(2)：61–66.</div>
   <div class="csl-entry">Chernik B E. 1982. Introduction to library services for library technicians. Littleton, Colo.：Libraries Unlimited, Inc.</div>
@@ -373,20 +373,41 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-51 second-field-align-false hangingindent-true">
+  <div class="csl-entry">1986. Modern Chinese frequency dictionary. Beijing：Beijing Language and Culture University Press. (in Chinese)
+    <div class="csl-block">佚名. 1986. 现代汉语频率词典. 北京：北京语言学院出版社.</div>
+  </div>
+  <div class="csl-entry">Auerbach J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation//Bornstein M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US：Wiley：43–110.</div>
+  <div class="csl-entry">Australian Bureau of Statistics. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990：3209.1. Canberra, Australian Capital Territory：Author.</div>
+  <div class="csl-entry">Bergmann P G. 1993. Relativity//The new encyclopedia Britannica：Vol. 26. New York：Encyclopedia Britannica：501–508.</div>
+  <div class="csl-entry">Burin D，Kilteni K，Rabuffetti M，Slater M，Pia L. 2019. Body ownership increases the interference between observed and executed movements. PLOS ONE，14(1).</div>
+  <div class="csl-entry">Gibbs J T，Huang L N. 1989. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US：Jossey-Bass.</div>
+  <div class="csl-entry">Huestegge S M，Raettig T，Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology.</div>
+  <div class="csl-entry">Klatzky R. 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag：1–17.</div>
+  <div class="csl-entry">Lanktree C B，Briere J N. 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA.</div>
+  <div class="csl-entry">Laplace P S. 1951. A philosophical essay on probabilities. Truscott F W, Emory F L，trans. Dover.</div>
   <div class="csl-entry">Laplace Pierre Simon. 1951. A philosophical essay on probabilities. Dover. (in Chinese)
     <div class="csl-block">拉普拉斯, Pierre-Simon. 1951. 概率哲学. 张三, 李四，译. 北京：未名出版社.</div>
   </div>
   <div class="csl-entry">Li Xing Jian. 2004. Contemporary Chinese standard dictionary. Beijing：Foreign Language Teaching and Research Press：255. (in Chinese)
     <div class="csl-block">李行健. 2004. 现代汉语规范辞典. 北京：外语教学与研究出版社：255.</div>
   </div>
-  <div class="csl-entry">Qiu Ying Wen. 2009. Genetics and language learning博士学位论文. Shanghai：East China Normal University. (in Chinese)
-    <div class="csl-block">邱颖文. 2009. 遗传与语言学习博士学位论文. 上海：华东师范大学.</div>
+  <div class="csl-entry">Lichstein K L，Johnson R S. 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs//Reducing medication in geriatric populations. Uppsala, Sweden.</div>
+  <div class="csl-entry">Mitchell T R，Larson J R. 1987. People in organizations: An introduction to organizational behavior. 3rd ed. New York：McGraw-Hill.</div>
+  <div class="csl-entry">Mou W，McNamara T P. 2002. Intrinsic frames of reference in spatial memory. Journal of Experimental Psychology: Learning, Memory, and Cognition，28：162–170.</div>
+  <div class="csl-entry">Mou W，Zhang K，McNamara T P. 2004. Frames of reference in spatial memories acquired from language. Journal of Experimental Psychology: Learning, Memory, and Cognition，30：171–180.</div>
+  <div class="csl-entry">Qiu Ying Wen. 2009. Genetics and language learning[博士学位论文]. Shanghai：East China Normal University. (in Chinese)
+    <div class="csl-block">邱颖文. 2009. 遗传与语言学习[博士学位论文]. 上海：华东师范大学.</div>
   </div>
+  <div class="csl-entry">Ruby J，Fulton C. 1993. Beyond redlining: Editing software that works//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
+  <div class="csl-entry">Sadie S. 1980. The new Grove dictionary of music and musicians. 6th ed. London : New York：Macmillan.</div>
+  <div class="csl-entry">Wang D F，Cui H. 2004. Theoretical analysis of the seven factor model of Chinese personality//Wang D F, Hou Y B. Selected papers on personality and social psychology：Vol. 1. Beijing：Peking University Press：46–84.</div>
   <div class="csl-entry">Wang Deng Feng，Cui Hong. 2004. Theoretical analysis of the “seven factor” model of Chinese personality//Selected papers on personality and social psychology. Beijing：Peking University Press：46–84. (in Chinese)
     <div class="csl-block">王登峰，崔红. 2004. 中国人“大七”人格结构的理论分析//王登峰, 侯玉波. 人格与社会心理学论丛：卷 1. 北京：北京大学出版社：46–84.</div>
   </div>
-  <div class="csl-entry">Yu Lin. 2000. Phonological representation and processing in Chinese spoken language production博士学位论文. Beijing Normal University. (in Chinese)
-    <div class="csl-block">余林. 2000. 汉语语言产生中的语音表征与加工博士学位论文. 北京师范大学.</div>
+  <div class="csl-entry">Wolchik S A，West S G，Sandler I N，Tein J Y，Coatsworth D，Lengua L，Weiss L，Anderson E R，Greene S M，Griffin W A. 2000. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology，68(5)：843–856.</div>
+  <div class="csl-entry">Yu L. 2000. Phonological representation and processing in Chinese spoken language production[Unpublished doctorial dissertation]. Beijing Normal University.</div>
+  <div class="csl-entry">Yu Lin. 2000. Phonological representation and processing in Chinese spoken language production[博士学位论文]. Beijing Normal University. (in Chinese)
+    <div class="csl-block">余林. 2000. 汉语语言产生中的语音表征与加工[博士学位论文]. 北京师范大学.</div>
   </div>
   <div class="csl-entry">Zhang San. 2008a. The past and future of Chinese psychology. Acta Psychologica Sinica，40：210–215. (in Chinese)
     <div class="csl-block">张三. 2008. 中国心理学的过去与未来. 心理学报，40：210–215.</div>
@@ -409,33 +430,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Zhang San，Li Si. The past and future of Chinese psychology. Acta Psychologica Sinica. (in Chinese)
     <div class="csl-block">张三，李四. 中国心理学的过去与未来. 心理学报.</div>
   </div>
-  <div class="csl-entry">Zhao Yi，Qian Er，Sun San，Li Si，Zhou Wu，Wu Liu，Zheng Qi. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica，40：210–215. (in Chinese)
-    <div class="csl-block">赵一，钱二，孙三，李四，周五，吴六，郑七. 2008. 中国心理学的过去与未来. 心理学报，40：210–215.</div>
-  </div>
   <div class="csl-entry">Zhao Yi Yi，Qian Er，Sun San，Li Si，Zhou Wu，Wu Liu，Zheng Qi，Wang Ba. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica，40：210–215. (in Chinese)
     <div class="csl-block">赵一一，钱二，孙三，李四，周五，吴六，郑七，王八. 2008. 中国心理学的过去与未来. 心理学报，40：210–215.</div>
   </div>
-  <div class="csl-entry">1986. Modern Chinese frequency dictionary. Beijing：Beijing Language and Culture University Press. (in Chinese)
-    <div class="csl-block">佚名. 1986. 现代汉语频率词典. 北京：北京语言学院出版社.</div>
+  <div class="csl-entry">Zhao Yi，Qian Er，Sun San，Li Si，Zhou Wu，Wu Liu，Zheng Qi. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica，40：210–215. (in Chinese)
+    <div class="csl-block">赵一，钱二，孙三，李四，周五，吴六，郑七. 2008. 中国心理学的过去与未来. 心理学报，40：210–215.</div>
   </div>
-  <div class="csl-entry">Auerbach J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation//Bornstein M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US：Wiley：43–110.</div>
-  <div class="csl-entry">Australian Bureau of Statistics. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990：3209.1. Canberra, Australian Capital Territory：Author.</div>
-  <div class="csl-entry">Bergmann P G. 1993. Relativity//The new encyclopedia Britannica：Vol. 26. New York：Encyclopedia Britannica：501–508.</div>
-  <div class="csl-entry">Burin D，Kilteni K，Rabuffetti M，Slater M，Pia L. 2019. Body ownership increases the interference between observed and executed movements. PLOS ONE，14(1).</div>
-  <div class="csl-entry">Gibbs J T，Huang L N. 1989. Children of color: Psychological interventions with minority youth. Hoboken, NJ, US：Jossey-Bass.</div>
-  <div class="csl-entry">Huestegge S M，Raettig T，Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology.</div>
-  <div class="csl-entry">Klatzky R. 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag：1–17.</div>
-  <div class="csl-entry">Lanktree C B，Briere J N. 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA.</div>
-  <div class="csl-entry">Laplace P S. 1951. A philosophical essay on probabilities. Truscott F W, Emory F L，trans. Dover.</div>
-  <div class="csl-entry">Lichstein K L，Johnson R S. 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs//Reducing medication in geriatric populations. Uppsala, Sweden.</div>
-  <div class="csl-entry">Mitchell T R，Larson J R. 1987. People in organizations: An introduction to organizational behavior. 3rd ed. New York：McGraw-Hill.</div>
-  <div class="csl-entry">Mou W，McNamara T P. 2002. Intrinsic frames of reference in spatial memory. Journal of Experimental Psychology: Learning, Memory, and Cognition，28：162–170.</div>
-  <div class="csl-entry">Mou W，Zhang K，McNamara T P. 2004. Frames of reference in spatial memories acquired from language. Journal of Experimental Psychology: Learning, Memory, and Cognition，30：171–180.</div>
-  <div class="csl-entry">Ruby J，Fulton C. 1993. Beyond redlining: Editing software that works//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
-  <div class="csl-entry">Sadie S. 1980. The new Grove dictionary of music and musicians. 6th ed. London : New York：Macmillan.</div>
-  <div class="csl-entry">Wang D F，Cui H. 2004. Theoretical analysis of the seven factor model of Chinese personality//Wang D F, Hou Y B. Selected papers on personality and social psychology：Vol. 1. Beijing：Peking University Press：46–84.</div>
-  <div class="csl-entry">Wolchik S A，West S G，Sandler I N，Tein J Y，Coatsworth D，Lengua L，Weiss L，Anderson E R，Greene S M，Griffin W A. 2000. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology，68(5)：843–856.</div>
-  <div class="csl-entry">Yu L. 2000. Phonological representation and processing in Chinese spoken language productionUnpublished doctorial dissertation. Beijing Normal University.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -451,8 +451,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1999. 247–266. (in Chinese)
     <div class="csl-block">杜威·佛克马. 1999. 走向新世界主义//王宁, 薛晓源. 全球化与后殖民批评. 北京：中央编译出版社：247–266.</div>
   </div>
-  <div class="csl-entry">2000. 博士学位论文. (in Chinese)
-    <div class="csl-block">方明东. 2000. 罗隆基政治思想研究（1913—1949）博士学位论文. 北京师范大学历史系.</div>
+  <div class="csl-entry">2000. [博士学位论文]. (in Chinese)
+    <div class="csl-block">方明东. 2000. 罗隆基政治思想研究（1913—1949）[博士学位论文]. 北京师范大学历史系.</div>
   </div>
   <div class="csl-entry">1999. (9)：63–67. (in Chinese)
     <div class="csl-block">费成康. 1999. 葡萄牙人如何进入澳门问题辨正. 社会科学(9)：63–67.</div>
@@ -618,8 +618,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1993. (1)：83–103. (in Chinese)
     <div class="csl-block">季卫东. 1993. 法律程序的意义：对中国法制建设的另一种思考. 中国社会科学(1)：83–103.</div>
   </div>
-  <div class="csl-entry">2015. 博士学位论文. (in Chinese)
-    <div class="csl-block">李松锋. 2015. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究博士学位论文. 中国政法大学.</div>
+  <div class="csl-entry">2015. [博士学位论文]. (in Chinese)
+    <div class="csl-block">李松锋. 2015. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[博士学位论文]. 中国政法大学.</div>
   </div>
   <div class="csl-entry">1993. (1)：52–59. (in Chinese)
     <div class="csl-block">罗豪才，袁曙宏，李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学(1)：52–59.</div>
@@ -745,7 +745,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Poisson M. 2015b. Le droit de la mer//Lapieuvre R. Le droit des Océans. Éditions de la mer. 12–48.</div>
   <div class="csl-entry">Poisson M. 2016a. Le droit de la mer en Méditerranée. Congrès de Marseille：228–229.</div>
   <div class="csl-entry">Poisson M. 2016b. Le droit de la mer en Méditerranée：1202.</div>
-  <div class="csl-entry">Poisson M. 2016c. Le droit de la mer appliqué à la MéditerranéeThèse de doctorat. l’Université de Marseille.</div>
+  <div class="csl-entry">Poisson M. 2016c. Le droit de la mer appliqué à la Méditerranée[Thèse de doctorat]. l’Université de Marseille.</div>
   <div class="csl-entry">Reich C A. 1964. The new property. Yale Law Journal，73(5)：733–787.</div>
   <div class="csl-entry">Rosenthal A. 1990. White House tutors Kremlin in how a presidency works. New York Times，1990-06-15(A1).</div>
   <div class="csl-entry">Roxin C. 2006. Strafrecht Allgemeiner Teil：Vol. 1. 4th ed. C. H. Beck.</div>
@@ -869,16 +869,16 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Graham G. 2019. Behaviorism//Zalta E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University.</div>
   <div class="csl-entry">Guarino B. 2017. How will humanity react to alien life? Psychologists have some predictions. The Washington Post，2017-12-04.</div>
   <div class="csl-entry">Hacker Hughes J. 2017. Military veteran psychological health and social care: Contemporary approaches. Routledge.</div>
-  <div class="csl-entry">Harris L. 2014. Instructional leadership perceptions and practices of elementary school leadersUnpublished doctoral dissertation. University of Virginia.</div>
+  <div class="csl-entry">Harris L. 2014. Instructional leadership perceptions and practices of elementary school leaders[Unpublished doctoral dissertation]. University of Virginia.</div>
   <div class="csl-entry">Harwell M. 2018. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change. National Education Policy Center.</div>
   <div class="csl-entry">Heidegger M. 2008. On the essence of truth. Sallis J，tran.//Krell D F. Basic writings. Harper Perennial Modern Thought：111–138.</div>
   <div class="csl-entry">Hess A. 2019. Cats who take direction. The New York Times，2019-01-03(C1).</div>
   <div class="csl-entry">Hiremath S C，Kumar S，Lu F，Salehi A. 2016. Using metaphors to present concepts across different intellectual domains：9,367,592. 2016.</div>
   <div class="csl-entry">Ho H K. 2014. Teacher preparation for early childhood special education in Taiwan. ERIC.</div>
-  <div class="csl-entry">Hollander M M. 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment：10289373Doctoral dissertation. University of Wisconsin–Madison.</div>
+  <div class="csl-entry">Hollander M M. 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment：10289373[Doctoral dissertation]. University of Wisconsin–Madison.</div>
   <div class="csl-entry">Housand B. 2016. Game on! Integrating games and simulations in the classroom. SlideShare.</div>
   <div class="csl-entry">Huestegge S M，Raettig T，Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology.</div>
-  <div class="csl-entry">Hutcheson V H. 2012. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescentsMaster’s thesis. The College of William &#38; Mary.</div>
+  <div class="csl-entry">Hutcheson V H. 2012. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[Master’s thesis]. The College of William &#38; Mary.</div>
   <div class="csl-entry">Jackson P. 2001. The lord of the rings: The fellowship of the ring. WingNut Films; The Saul Zaentz Company.</div>
   <div class="csl-entry">Kalnay E，Kanamitsu M，Kistler R，Collins W，Deaven D，Gandin L，Iredell M，Saha S，White G，Wollen J，Zhu Y，Chelliah M，Ebisuzaki W，Higgins W，Janowiak J，Mo K C，Ropelewski C，Wang J，Leetma A，Aaron A，Court B B C，Joseph D. 1996. The NCEP/NCAR 40-year reanalysis project. Bulletin of the American Meteorological Society，77(3)：437–471.</div>
   <div class="csl-entry">King M L Jr. 1963. I have a dream. American Rhetoric.</div>
