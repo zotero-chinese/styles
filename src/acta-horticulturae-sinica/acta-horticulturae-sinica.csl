@@ -14,7 +14,7 @@
     <category field="botany"/>
     <issn>0513-353X</issn>
     <summary>《园艺学报》论文模板</summary>
-    <updated>2025-02-20T12:08:36+08:00</updated>
+    <updated>2025-02-20T22:41:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -40,6 +40,7 @@
     </terms>
   </locale>
   <locale>
+    <style-options punctuation-in-quote="false"/>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
