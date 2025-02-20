@@ -83,10 +83,10 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2012. 112. (in Chinese)
     <div class="csl-block">北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所. 2012. 历代王朝与民族宗教. 北京：民族出版社：112.</div>
   </div>
-  <div class="csl-entry">2000a. 第 1 卷. 29. (in Chinese)
+  <div class="csl-entry">2000a. 29. (in Chinese)
     <div class="csl-block">陈登原. 2000. 国史旧闻：第 1 卷. 北京：中华书局：29.</div>
   </div>
-  <div class="csl-entry">2000b. 第 1 卷. 29. (in Chinese)
+  <div class="csl-entry">2000b. 29. (in Chinese)
     <div class="csl-block">陈登原. 2000. 国史旧闻：第 1 卷. 北京：中华书局：29.</div>
   </div>
   <div class="csl-entry">2010. 7(10)：93. (in Chinese)
@@ -128,7 +128,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2010. 119. (in Chinese)
     <div class="csl-block">侯文顺. 2010. 高分子物理：高分子材料分析、选择与改性. 北京：化学工业出版社：119.</div>
   </div>
-  <div class="csl-entry">2010. 上. 112. (in Chinese)
+  <div class="csl-entry">2010. 112. (in Chinese)
     <div class="csl-block">胡承正，周详，缪灵. 2010. 理论物理概论：上. 武汉：武汉大学出版社：112.</div>
   </div>
   <div class="csl-entry">2011. 45–52. (in Chinese)
@@ -158,7 +158,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1998. (5)：38–39. (in Chinese)
     <div class="csl-block">刘彻东. 1998. 中国的青年刊物：个性特色为本仁. 中国出版(5)：38–39.</div>
   </div>
-  <div class="csl-entry">2000. [博士学位论文]. 17–18. (in Chinese)
+  <div class="csl-entry">2000. 17–18. (in Chinese)
     <div class="csl-block">刘乃安. 2000. 生物质材料热解失重动力学及其分析方法研究[博士学位论文]. 合肥：中国科学技术大学：17–18.</div>
   </div>
   <div class="csl-entry">2013. 2013-01-12. (in Chinese)
@@ -173,7 +173,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2009. (in Chinese)
     <div class="csl-block">罗斯基. 2009. 战前中国经济的增长. 唐巧天, 毛立坤, 姜修宪，译. 杭州：浙江大学出版社.</div>
   </div>
-  <div class="csl-entry">2011. [博士学位论文]. 27. (in Chinese)
+  <div class="csl-entry">2011. 27. (in Chinese)
     <div class="csl-block">马欢. 2011. 人类活动影响下海河流域典型区水循环变化分析[博士学位论文]. 北京：清华大学：27.</div>
   </div>
   <div class="csl-entry">2013. 302. (in Chinese)
@@ -191,7 +191,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1981. 2–10. (in Chinese)
     <div class="csl-block">裴丽生. 1981. 在中国科协学术期刊编辑工作经验交流会上的讲话//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京：中国科学技术协会学会工作部：2–10.</div>
   </div>
-  <div class="csl-entry">2009. 第 4 册. 155. (in Chinese)
+  <div class="csl-entry">2009. 155. (in Chinese)
     <div class="csl-block">皮锡瑞. 2009. 师伏堂日记：第 4 册. 北京：国家图书馆：155.</div>
   </div>
   <div class="csl-entry">2007. GY/T 202.2—2007. 1. (in Chinese)
@@ -209,7 +209,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2011. 5–6. (in Chinese)
     <div class="csl-block">同济大学土木工程防灾国家重点实验室. 2011. 汶川地震灾害研究. 上海：同济大学出版社：5–6.</div>
   </div>
-  <div class="csl-entry">1881. 四卷. (in Chinese)
+  <div class="csl-entry">1881. (in Chinese)
     <div class="csl-block">汪昂. 1881. 增订本草备要：四卷. 刻本. 京都：老二酉堂.</div>
   </div>
   <div class="csl-entry">1997. 16. (in Chinese)
@@ -227,7 +227,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2010. 37(4)：147. (in Chinese)
     <div class="csl-block">王临惠，支建刚，王忠一. 2010. 天津方言的源流关系刍议. 山西师范大学学报（社会科学版），37(4)：147.</div>
   </div>
-  <div class="csl-entry">2003. [博士学位论文]. (in Chinese)
+  <div class="csl-entry">2003. (in Chinese)
     <div class="csl-block">吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究[博士学位论文]. 北京：北京大学.</div>
   </div>
   <div class="csl-entry">2008. 33(5)：8–9. (in Chinese)
@@ -242,7 +242,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2010. (in Chinese)
     <div class="csl-block">徐光宪，王祥云. 2010. 物质结构. 北京：科学出版社.</div>
   </div>
-  <div class="csl-entry">2012. [博士学位论文]. (in Chinese)
+  <div class="csl-entry">2012. (in Chinese)
     <div class="csl-block">杨保军. 2012. 新闻道德论[博士学位论文]. 北京：中国人民大学出版社.</div>
   </div>
   <div class="csl-entry">2013. (1)：56–75. (in Chinese)
@@ -395,7 +395,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Mitchell T R，Larson J R. 1987. People in organizations: An introduction to organizational behavior. 3rd ed. New York：McGraw-Hill.</div>
   <div class="csl-entry">Mou W，McNamara T P. 2002. Intrinsic frames of reference in spatial memory. Journal of Experimental Psychology: Learning, Memory, and Cognition，28：162–170.</div>
   <div class="csl-entry">Mou W，Zhang K，McNamara T P. 2004. Frames of reference in spatial memories acquired from language. Journal of Experimental Psychology: Learning, Memory, and Cognition，30：171–180.</div>
-  <div class="csl-entry">Qiu Ying Wen. 2009. Genetics and language learning[博士学位论文]. Shanghai：East China Normal University. (in Chinese)
+  <div class="csl-entry">Qiu Ying Wen. 2009. Genetics and language learning [Unpublished doctorial dissertation]. Shanghai：East China Normal University. (in Chinese)
     <div class="csl-block">邱颖文. 2009. 遗传与语言学习[博士学位论文]. 上海：华东师范大学.</div>
   </div>
   <div class="csl-entry">Ruby J，Fulton C. 1993. Beyond redlining: Editing software that works//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
@@ -406,7 +406,7 @@ Qian et al. （2009a）<br>
   </div>
   <div class="csl-entry">Wolchik S A，West S G，Sandler I N，Tein J Y，Coatsworth D，Lengua L，Weiss L，Anderson E R，Greene S M，Griffin W A. 2000. An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology，68(5)：843–856.</div>
   <div class="csl-entry">Yu L. 2000. Phonological representation and processing in Chinese spoken language production[Unpublished doctorial dissertation]. Beijing Normal University.</div>
-  <div class="csl-entry">Yu Lin. 2000. Phonological representation and processing in Chinese spoken language production[博士学位论文]. Beijing Normal University. (in Chinese)
+  <div class="csl-entry">Yu Lin. 2000. Phonological representation and processing in Chinese spoken language production [Unpublished doctorial dissertation]. Beijing Normal University. (in Chinese)
     <div class="csl-block">余林. 2000. 汉语语言产生中的语音表征与加工[博士学位论文]. 北京师范大学.</div>
   </div>
   <div class="csl-entry">Zhang San. 2008a. The past and future of Chinese psychology. Acta Psychologica Sinica，40：210–215. (in Chinese)
@@ -451,13 +451,13 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1999. 247–266. (in Chinese)
     <div class="csl-block">杜威·佛克马. 1999. 走向新世界主义//王宁, 薛晓源. 全球化与后殖民批评. 北京：中央编译出版社：247–266.</div>
   </div>
-  <div class="csl-entry">2000. [博士学位论文]. (in Chinese)
+  <div class="csl-entry">2000. (in Chinese)
     <div class="csl-block">方明东. 2000. 罗隆基政治思想研究（1913—1949）[博士学位论文]. 北京师范大学历史系.</div>
   </div>
   <div class="csl-entry">1999. (9)：63–67. (in Chinese)
     <div class="csl-block">费成康. 1999. 葡萄牙人如何进入澳门问题辨正. 社会科学(9)：63–67.</div>
   </div>
-  <div class="csl-entry">1997. 卷 2. (in Chinese)
+  <div class="csl-entry">1997. (in Chinese)
     <div class="csl-block">管志道. 1997. 答屠仪部赤水丈书//续问辨牍：卷 2. 影印本. 济南：齐鲁书社.</div>
   </div>
   <div class="csl-entry">1998. (3)：167–173. (in Chinese)
@@ -520,13 +520,13 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">[2007]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>. (in Chinese)
     <div class="csl-block">扬之水. [2007]. 两宋茶诗与茶事. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
   </div>
-  <div class="csl-entry">1991. 卷 5. (in Chinese)
+  <div class="csl-entry">1991. (in Chinese)
     <div class="csl-block">杨钟羲. 1991. 雪桥诗话续集：卷 5. 影印本. 沈阳：辽沈书社.</div>
   </div>
-  <div class="csl-entry">卷 3. (in Chinese)
+  <div class="csl-entry">
     <div class="csl-block">姚际恒. 古今伪书考：卷 3. 光绪三年苏州文学山房活字本.</div>
   </div>
-  <div class="csl-entry">1998a. 上册. (in Chinese)
+  <div class="csl-entry">1998a. (in Chinese)
     <div class="csl-block">佚名. 1998. 晚清洋务运动事类汇钞五十七种：上册. 北京：全国图书馆文献缩微复制中心.</div>
   </div>
   <div class="csl-entry">1948. (in Chinese)
@@ -548,31 +548,31 @@ Qian et al. （2009a）<br>
     <div class="csl-block">佚名. 1950. 党外人士座谈会记录：李劼人档案. 中共四川省委统战部档案室.</div>
   </div>
   <div class="csl-entry">Anon. 1969. Nixon to Kissinger：Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD.</div>
-  <div class="csl-entry">1975. 卷 9 玄宗纪下. (in Chinese)
+  <div class="csl-entry">1975. (in Chinese)
     <div class="csl-block">佚名. 1975. 旧唐书：卷 9 玄宗纪下. 标点本. 北京：中华书局.</div>
   </div>
-  <div class="csl-entry">1983. 卷 6 答程夔州书. (in Chinese)
+  <div class="csl-entry">1983. (in Chinese)
     <div class="csl-block">佚名. 1983. 方苞集：卷 6 答程夔州书. 标点本. 上海：上海古籍出版社.</div>
   </div>
-  <div class="csl-entry">1985. 卷 690 服章部七. (in Chinese)
+  <div class="csl-entry">1985. (in Chinese)
     <div class="csl-block">佚名. 1985. 太平御览：卷 690 服章部七. 影印本. 北京：中华书局.</div>
   </div>
   <div class="csl-entry">1986. (in Chinese)
     <div class="csl-block">佚名. 1986. 荣庆日记. 西安：西北大学出版社.</div>
   </div>
-  <div class="csl-entry">1987. 卷 435. (in Chinese)
+  <div class="csl-entry">1987. (in Chinese)
     <div class="csl-block">佚名. 1987. 清德宗实录：卷 435. 影印本. 北京：中华书局.</div>
   </div>
-  <div class="csl-entry">1992. 卷 15 郡县志二·广州府·城池. (in Chinese)
+  <div class="csl-entry">1992. (in Chinese)
     <div class="csl-block">佚名. 1992. 广东通志//稀见中国地方志汇刊：卷 15. 影印本. 北京：中国书店.</div>
   </div>
-  <div class="csl-entry">1998b. 卷 31. (in Chinese)
+  <div class="csl-entry">1998b. (in Chinese)
     <div class="csl-block">佚名. 1998. 马克思恩格斯全集：卷 31. 北京：人民出版社.</div>
   </div>
-  <div class="csl-entry">卷 12 风俗. (in Chinese)
+  <div class="csl-entry">
     <div class="csl-block">佚名. 嘉定县志：卷 12 风俗.</div>
   </div>
-  <div class="csl-entry">卷 1 疆域. (in Chinese)
+  <div class="csl-entry">
     <div class="csl-block">佚名. 上海县续志：卷 1 疆域.</div>
   </div>
   <div class="csl-entry">Brooks P. 2000. Troubling confessions: Speaking guilt in law and literature. Chicago：University of Chicago Press.</div>
@@ -618,7 +618,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1993. (1)：83–103. (in Chinese)
     <div class="csl-block">季卫东. 1993. 法律程序的意义：对中国法制建设的另一种思考. 中国社会科学(1)：83–103.</div>
   </div>
-  <div class="csl-entry">2015. [博士学位论文]. (in Chinese)
+  <div class="csl-entry">2015. (in Chinese)
     <div class="csl-block">李松锋. 2015. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[博士学位论文]. 中国政法大学.</div>
   </div>
   <div class="csl-entry">1993. (1)：52–59. (in Chinese)
@@ -665,7 +665,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2006. (in Chinese)
     <div class="csl-block">应松年，马怀德. 2006. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集. 中国法制出版社.</div>
   </div>
-  <div class="csl-entry">1971. 上卷第一分册. (in Chinese)
+  <div class="csl-entry">1971. (in Chinese)
     <div class="csl-block">[英]劳特派特. 1971. 奥本海国际法：上卷第一分册. 王铁崖, 陈体强，译. 8 版. 商务印书馆.</div>
   </div>
   <div class="csl-entry">於保不二雄. 1954. 付加物及び従物と抵当権. 民商法雑誌，29(5)：1.</div>
