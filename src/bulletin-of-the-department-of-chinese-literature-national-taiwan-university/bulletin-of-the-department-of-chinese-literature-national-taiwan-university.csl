@@ -14,7 +14,7 @@
     <category field="literature"/>
     <issn>1013-2422</issn>
     <summary>《臺大中文學報》撰稿格式</summary>
-    <updated>2025-02-23T21:41:04+08:00</updated>
+    <updated>2025-02-23T23:30:11+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -28,6 +28,19 @@
       <term name="in">收錄於</term>
       <term name="editor" form="short">主編</term>
       <term name="thesis">博士論文</term>
+      <term name="page" form="short">頁</term>
+      <term name="open-quote">「</term>
+      <term name="close-quote">」</term>
+      <term name="open-inner-quote">『</term>
+      <term name="close-inner-quote">』</term>
+      <term name="book" form="short">冊</term>
+      <term name="chapter" form="short">章</term>
+      <term name="column" form="short">欄</term>
+      <term name="figure" form="short">圖</term>
+      <term name="issue" form="short">期</term>
+      <term name="line" form="short">行</term>
+      <term name="note" form="short">註</term>
+      <term name="opus" form="short">op.</term>
     </terms>
   </locale>
   <locale>
@@ -331,7 +344,7 @@
         <text value="版"/>
       </if>
       <else>
-        <label variable="page"/>
+        <label variable="page" form="short"/>
         <number variable="page"/>
       </else>
     </choose>
@@ -395,7 +408,7 @@
         <text value="版"/>
       </if>
       <else>
-        <label variable="locator"/>
+        <label variable="locator" form="short"/>
         <number variable="locator"/>
       </else>
     </choose>
@@ -594,7 +607,7 @@
     </choose>
   </macro>
   <citation>
-    <layout delimiter="；" suffix="。" locale="zh-TW">
+    <layout delimiter="；" suffix="。" locale="zh">
       <text macro="entry-layout-zh"/>
     </layout>
     <layout delimiter="; " suffix=".">
@@ -602,7 +615,7 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout locale="zh-TW">
+    <layout locale="zh">
       <text variable="citation-number" suffix="."/>
       <text macro="source-zh" suffix="。"/>
     </layout>
