@@ -1,0 +1,389 @@
+[
+	{
+		"id": "bdclntu.1.1:1",
+		"type": "book",
+		"event-place": "臺北",
+		"language": "zh-TW",
+		"publisher": "藝文印書館",
+		"publisher-place": "臺北",
+		"title": "禮記校證",
+		"author": [
+			{
+				"literal": "王夢鷗"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.2.1:1",
+		"type": "article-journal",
+		"container-title": "幼獅學誌",
+		"issue": "14",
+		"language": "zh-TW",
+		"page": "172-194",
+		"title": "張炎的詞學批評",
+		"author": [
+			{
+				"literal": "徐信義"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.2.2:1",
+		"type": "chapter",
+		"container-title": "歷史與思想",
+		"event-place": "臺北",
+		"language": "zh-TW",
+		"page": "121-156",
+		"publisher": "聯經出版事業公司",
+		"publisher-place": "臺北",
+		"title": "清代思想史的一個新解釋",
+		"author": [
+			{
+				"literal": "余英時"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.2.2:2",
+		"type": "paper-conference",
+		"container-title": "林文月先生學術成就與薪傳國際學術研討會",
+		"event-place": "臺北",
+		"language": "zh-TW",
+		"page": "1-16",
+		"publisher": "臺灣大學中國文學系",
+		"publisher-place": "臺北",
+		"title": "八十自述",
+		"author": [
+			{
+				"literal": "林文月"
+			}
+		],
+		"editor": [
+			{
+				"literal": "臺灣大學中國文學系"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.2.3:1",
+		"type": "thesis",
+		"event-place": "臺北",
+		"genre": "博士論文",
+		"language": "zh-TW",
+		"publisher": "政治大學中國文學研究所",
+		"publisher-place": "臺北",
+		"title": "類篇研究",
+		"author": [
+			{
+				"literal": "孔仲溫"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "○○○"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.3.1:1",
+		"type": "book",
+		"edition": "南宋鄂州覆北宋刊龍爪本",
+		"language": "zh-TW",
+		"note": "type: classic",
+		"title": "資治通鑑",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "宋‧司馬光"
+			}
+		],
+		"issued": {
+			"literal": "約西元 12 世紀"
+		}
+	},
+	{
+		"id": "bdclntu.1.3.2:1",
+		"type": "book",
+		"edition": "百部叢書集成影印湖北叢書本",
+		"event-place": "臺北",
+		"language": "zh-TW",
+		"note": "type: classic",
+		"publisher": "藝文印書館",
+		"publisher-place": "臺北",
+		"title": "尚書辨解",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "明‧郝敬"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.4:1",
+		"type": "article-newspaper",
+		"container-title": "中央日報",
+		"language": "zh-TW",
+		"page": "22",
+		"title": "國內漢學研究的方向和問題",
+		"author": [
+			{
+				"literal": "丁邦新"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988",
+					4,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.1.5:1",
+		"type": "article-journal",
+		"container-title": "臺大中文學報",
+		"issue": "3",
+		"language": "zh-TW",
+		"page": "1",
+		"title": "論校詩之難",
+		"author": [
+			{
+				"literal": "王叔岷"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.2.1:1",
+		"type": "book",
+		"event-place": "London",
+		"language": "en-US",
+		"note": "original-title: 史前宗教：史前考古學的研究",
+		"publisher": "Thames and Hudson",
+		"publisher-place": "London",
+		"title": "Prehistoric religion: A study in prehistoric archaeology",
+		"author": [
+			{
+				"family": "James",
+				"given": "Edwin O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.2.2.1:1",
+		"type": "article-journal",
+		"container-title": "Archives of the Chinese art society of America",
+		"language": "en-US",
+		"note": "original-title: 中國早期墓葬的強弩使用者",
+		"page": "8-15",
+		"title": "The minatory crossbowman in early Chinese tombs",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Rudolph",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.2.2.2:1",
+		"type": "chapter",
+		"container-title": "The origins of Chinese civilization",
+		"event-place": "Berkeley",
+		"language": "en-US",
+		"note": "original-title: 史前與早期歷史的中國人與其四鄰",
+		"page": "460-463",
+		"publisher": "University of California Press",
+		"publisher-place": "Berkeley",
+		"title": "The Chinese and their neighbors in prehistoric and early historic times",
+		"author": [
+			{
+				"family": "Pulleyblank",
+				"given": "E. G."
+			}
+		],
+		"editor": [
+			{
+				"family": "Keightley",
+				"given": "David N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.2.2.3:1",
+		"type": "thesis",
+		"event-place": "Cambridge",
+		"genre": "Ph. D. dissertation",
+		"language": "en-US",
+		"note": "original-title: 史前宗教：史前考古學的研究",
+		"publisher": "Harvard University",
+		"publisher-place": "Cambridge",
+		"title": "Prehistoric religion: A study in prehistoric archaeology",
+		"author": [
+			{
+				"family": "James",
+				"given": "Edwin O."
+			}
+		],
+		"contributor": [
+			{
+				"literal": "○○○"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.2.2.4:1",
+		"type": "paper-conference",
+		"event-place": "New York",
+		"event-title": "Conference of the American Historical Association",
+		"language": "en-US",
+		"note": "original-title: 車子傳入中國的歷史回顧",
+		"publisher-place": "New York",
+		"title": "Historical perspectives on the introduction of chariot into China",
+		"author": [
+			{
+				"family": "Shanghnessy",
+				"given": "Edward L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.3:1",
+		"type": "chapter",
+		"container-title": "民國叢書",
+		"edition": "重印民國 36 年上海群益書局版",
+		"event-place": "上海",
+		"language": "zh-TW",
+		"publisher": "上海書局",
+		"publisher-place": "上海",
+		"title": "十批判書",
+		"volume": "第 4 編第 1 冊",
+		"author": [
+			{
+				"literal": "郭沫若"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "bdclntu.3:2",
+		"type": "book",
+		"edition": "四庫全書珍本第四集",
+		"event-place": "臺北",
+		"language": "zh-TW",
+		"note": "type: classic",
+		"publisher": "臺灣商務印書館",
+		"publisher-place": "臺北",
+		"title": "龜山集‧語錄一",
+		"volume": "第 992 冊，卷 10",
+		"author": [
+			{
+				"literal": "宋‧楊時"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	}
+]
