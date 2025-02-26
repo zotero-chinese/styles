@@ -345,7 +345,7 @@
   </citation>
   <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
     <layout locale="zh">
-      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text variable="citation-number" suffix="."/>
       <text macro="entry-layout-zh"/>
     </layout>
     <layout>
