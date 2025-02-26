@@ -1,0 +1,318 @@
+[
+	{
+		"id": "cril.6.3:1",
+		"type": "book",
+		"edition": "8",
+		"language": "zh-CN",
+		"publisher": "商务印书馆",
+		"title": "奥本海国际法",
+		"volume": "上卷",
+		"author": [
+			{
+				"literal": "[英]劳特派特"
+			}
+		],
+		"translator": [
+			{
+				"literal": "王铁崖"
+			},
+			{
+				"literal": "陈体强"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.1:1",
+		"type": "book",
+		"language": "zh-CN",
+		"publisher": "商务印书馆",
+		"title": "国际法",
+		"author": [
+			{
+				"literal": "周鲠生"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.1:2",
+		"type": "book",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"title": "国际法",
+		"editor": [
+			{
+				"literal": "王铁崖"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.1:3",
+		"type": "book",
+		"edition": "6",
+		"language": "en-US",
+		"publisher": "Cambridge University Press",
+		"title": "International law",
+		"author": [
+			{
+				"family": "Shaw",
+				"given": "Malcolm N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.2:1",
+		"type": "article-journal",
+		"container-title": "国际法研究",
+		"issue": "5",
+		"language": "zh-CN",
+		"page": "5",
+		"title": "人类命运共同体与国际法",
+		"author": [
+			{
+				"literal": "徐宏"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.2:2",
+		"type": "article-journal",
+		"container-title": "European Journal of International Law",
+		"language": "en-US",
+		"page": "435-440",
+		"title": "Revising the draft articles on state responsibility",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Crawford",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.2:3",
+		"type": "chapter",
+		"container-title": "The international bill of rights: the covenant on civil and political rights",
+		"language": "en-US",
+		"page": "75-76",
+		"publisher": "Columbia University Press",
+		"title": "To respect and to ensure: state obligations and permissible derogations",
+		"author": [
+			{
+				"family": "Buergenthal",
+				"given": "Thomas"
+			}
+		],
+		"editor": [
+			{
+				"family": "Henkin",
+				"given": "Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.4:1",
+		"type": "article-newspaper",
+		"container-title": "经济参考报",
+		"language": "zh-CN",
+		"page": "8",
+		"title": "运用国际海洋法建设海洋强国",
+		"author": [
+			{
+				"literal": "刘楠来"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					7,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.4:2",
+		"type": "article-newspaper",
+		"container-title": "Wall Street Journal",
+		"language": "en-US",
+		"page": "B1",
+		"title": "A global journal report: administration sets new hurdles for human-rights cases",
+		"author": [
+			{
+				"family": "Waldman",
+				"given": "Peter"
+			},
+			{
+				"family": "Mapes",
+				"given": "Timothy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					8,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.5:1",
+		"type": "legislation",
+		"language": "zh-CN",
+		"number": "A/RES/71/9",
+		"title": "阿富汗局势",
+		"author": [
+			{
+				"literal": "联合国大会2016年11月17日第71/9号决议"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.5:2",
+		"type": "legislation",
+		"language": "en-US",
+		"number": "2012/C 326/02",
+		"title": "Charter of Fundamental Rights of the European Union",
+		"author": [
+			{
+				"literal": "The European Parliament, the Council of the European Union and the European Commission"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.6:1",
+		"type": "legal_case",
+		"authority": "最高人民法院",
+		"language": "zh-CN",
+		"note": "genre: 民事判决书",
+		"number": "（2016）最高法民再61号",
+		"title": "交通运输部南海救助局与阿昌格罗斯投资公司、香港安达欧森有限公司上海代表处海难救助合同纠纷案",
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.6:2",
+		"type": "legal_case",
+		"container-title": "Judgment",
+		"language": "en-US",
+		"number": "para. 123",
+		"page": "7",
+		"title": "Gabčíkovo-Nagymaros Project (Hungary v. Slovakia)",
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.7:1",
+		"type": "webpage",
+		"container-title": "新华网",
+		"language": "zh-CN",
+		"title": "中国政府支持联合国改革",
+		"URL": "http://news.xinhuanet.com/world/2005-06/02/content_3036195.htm",
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					2,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "cril.6.7:2",
+		"type": "webpage",
+		"container-title": "WTO official website",
+		"language": "en-US",
+		"title": "The WTO at 25: A Message from the Director-General",
+		"URL": "https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					2
+				]
+			]
+		}
+	}
+]
