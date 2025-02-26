@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with="" initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>Xi 'an Polytechnic University GB/T 7714—2015</title>
-    <id>http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi</id>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
-    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <title>西安工程大学</title>
+    <id>http://www.zotero.org/styles/xi-an-polytechnic-university</id>
+    <link href="http://www.zotero.org/styles/xi-an-polytechnic-university" rel="self"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
+    <link href="https://yjsy.xpu.edu.cn/bfsy/xwgz.htm" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
+      <name>Chen Jianglong</name>
     </author>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
-    <contributor>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2025-02-26T18:37:25+08:00</updated>
+    <summary>西安工程大学</summary>
+    <updated>2025-02-26T18:38:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -52,7 +43,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name initialize-with=""/>
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -69,8 +60,7 @@
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
-        <!-- This part ensures the title uses sentence case -->
-        <text variable="title" text-case="sentence"/>
+        <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
