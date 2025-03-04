@@ -1,0 +1,93 @@
+[
+	[
+		{
+			"id": "cril.6.1:1",
+			"label": "page",
+			"locator": "2"
+		}
+	],
+	[
+		{
+			"id": "cril.6.1:2",
+			"label": "page",
+			"locator": "10"
+		}
+	],
+	[
+		{
+			"id": "cril.6.1:3",
+			"label": "page",
+			"locator": "224"
+		}
+	],
+	[
+		{
+			"id": "cril.6.2:1",
+			"label": "page",
+			"locator": "5"
+		}
+	],
+	[
+		{
+			"id": "cril.6.2:2",
+			"label": "page",
+			"locator": "440"
+		}
+	],
+	[
+		{
+			"id": "cril.6.2:3",
+			"label": "page",
+			"locator": "75-76"
+		}
+	],
+	[
+		{
+			"id": "cril.6.3:1",
+			"label": "page",
+			"locator": "102-104"
+		}
+	],
+	[
+		{
+			"id": "cril.6.4:1"
+		}
+	],
+	[
+		{
+			"id": "cril.6.4:2"
+		}
+	],
+	[
+		{
+			"id": "cril.6.5:1"
+		}
+	],
+	[
+		{
+			"id": "cril.6.5:2"
+		}
+	],
+	[
+		{
+			"id": "cril.6.6:1"
+		}
+	],
+	[
+		{
+			"id": "cril.6.6:2",
+			"label": "page",
+			"locator": "p. 7, para. 123"
+		}
+	],
+	[
+		{
+			"id": "cril.6.7:1"
+		}
+	],
+	[
+		{
+			"id": "cril.6.7:2"
+		}
+	]
+]

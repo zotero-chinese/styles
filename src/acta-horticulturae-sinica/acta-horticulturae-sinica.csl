@@ -14,7 +14,7 @@
     <category field="botany"/>
     <issn>0513-353X</issn>
     <summary>《园艺学报》论文模板</summary>
-    <updated>2025-02-16T21:33:45+08:00</updated>
+    <updated>2025-02-20T22:41:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -40,6 +40,7 @@
     </terms>
   </locale>
   <locale>
+    <style-options punctuation-in-quote="false"/>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
@@ -178,55 +179,6 @@
       <if type="thesis">
         <choose>
           <if variable="genre">
-            <text variable="genre" text-case="capitalize-first"  prefix="[" suffix="]"/>
-          </if>
-          <else>
-            <text term="thesis" text-case="capitalize-first"  prefix="[" suffix="]"/>
-          </else>
-        </choose>
-      </if>
-    </choose>
-  </macro>
-  <macro name="title-ZHtoEN">
-    <group delimiter="，">
-      <group delimiter="：">
-        <text variable="original-title"/>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="original-container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume"/>
-              <text variable="volume-title"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="article article-journal" match="none">
-              <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="collection manuscript personal_communication" match="any">
-              <!-- 档案的卷宗号 -->
-              <text variable="archive_location"/>
-            </if>
-          </choose>
-        </group>
-      </group>
-      <choose>
-        <if variable="original-container-title" type="paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-    </group>
-    <choose>
-      <if type="thesis">
-        <choose>
-          <if variable="genre">
             <text variable="genre" text-case="capitalize-first" prefix="[" suffix="]"/>
           </if>
           <else>
@@ -235,6 +187,41 @@
         </choose>
       </if>
     </choose>
+  </macro>
+  <macro name="title-ZHtoEN">
+    <group delimiter=" ">
+      <group delimiter=", ">
+        <group delimiter=": ">
+          <text variable="original-title"/>
+          <group delimiter="&#8195;">
+            <choose>
+              <if type="article article-journal" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
+                <text variable="number"/>
+              </if>
+            </choose>
+            <choose>
+              <if type="collection manuscript personal_communication" match="any">
+                <!-- 档案的卷宗号 -->
+                <text variable="archive_location"/>
+              </if>
+            </choose>
+          </group>
+        </group>
+      </group>
+      <choose>
+        <if type="thesis">
+          <choose>
+            <if variable="original-genre">
+              <text variable="original-genre" text-case="capitalize-first" prefix="[" suffix="]"/>
+            </if>
+            <else>
+              <text value="Ph. D. Dissertation" prefix="[" suffix="]"/>
+            </else>
+          </choose>
+        </if>
+      </choose>
+    </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
