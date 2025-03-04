@@ -45,7 +45,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name>
+      <name delimiter-precedes-et-al="never">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
