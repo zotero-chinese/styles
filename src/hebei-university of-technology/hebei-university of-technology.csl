@@ -182,7 +182,7 @@
         <text variable="medium"/>
       </if>
       <else-if variable="URL DOI" match="any">
-        <text value="OL"/>
+        <!-- <text value="OL"/> -->
       </else-if>
     </choose>
   </macro>
@@ -417,7 +417,7 @@
           <text macro="publisher"/>
         </else>
       </choose>
-      <text macro="access"/>
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
