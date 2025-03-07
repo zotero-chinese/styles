@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " initialize-with="" initialize-with-hyphen="false" demote-non-dropping-particle="never" page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>生物多样性</title>
-    <id>http://www.zotero.org/styles/biodiversity-science</id>
-    <link href="http://www.zotero.org/styles/biodiversity-science" rel="self"/>
-    <link href="https://www.biodiversity-science.net/UserFiles/File/《生物多样性》2016年参考文献修改格式.pdf" rel="documentation"/>
+    <title>植物生理学报</title>
+    <id>http://www.zotero.org/styles/plant-physiology-journal</id>
+    <link href="http://www.zotero.org/styles/plant-physiology-journal" rel="self"/>
+    <link href="http://www.zotero.org/styles/biodiversity-science" rel="template"/>
+    <link href="https://www.sciengine.com/PPJ/authorCenter?scroll=section_1" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
     <category citation-format="author-date"/>
-    <category field="biology"/>
-    <issn>1005-0094</issn>
-    <summary>1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2025-03-07T15:10:16+08:00</updated>
+    <category field="botany"/>
+    <issn>2095-1108</issn>
+    <summary>《植物生理学报》投稿指南</summary>
+    <updated>2025-03-07T15:25:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
-      <term name="et-al">et al</term>
+      <term name="and">和</term>
+      <term name="thesis">dissertation</term>
     </terms>
   </locale>
   <locale xml:lang="zh">
@@ -28,6 +30,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
+      <term name="thesis">学位论文</term>
     </terms>
   </locale>
   <locale>
@@ -37,6 +40,8 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="et-al-en">et al</term>
+      <term name="et-al-zh">等</term>
       <term name="edition" form="short">edn.</term>
       <term name="page-range-delimiter">–</term>
       <term name="page" form="short">
@@ -61,7 +66,10 @@
   <macro name="author-bib-translation">
     <choose>
       <if variable="original-author">
-        <names variable="original-author"/>
+        <names variable="original-author">
+          <name/>
+          <et-al term="et-al-en"/>
+        </names>
       </if>
       <else>
         <names variable="author"/>
@@ -70,7 +78,8 @@
   </macro>
   <macro name="author-intext-en">
     <names variable="author">
-      <name form="short" and="symbol"/>
+      <name form="short" and="text"/>
+      <et-al term="et-al-zh"/>
     </names>
   </macro>
   <macro name="author-intext-zh">
@@ -110,7 +119,14 @@
           <text variable="title"/>
         </if>
         <else>
-          <text variable="title" text-case="title"/>
+          <group delimiter=" ">
+            <text variable="title" text-case="title"/>
+            <choose>
+              <if type="thesis">
+                <text term="thesis" prefix=" (" suffix=")"/>
+              </if>
+            </choose>
+          </group>
           <text macro="edition"/>
           <text macro="page"/>
         </else>
@@ -124,7 +140,14 @@
           <text variable="original-title"/>
         </if>
         <else>
-          <text variable="original-title" text-case="title"/>
+          <group delimiter=" ">
+            <text variable="original-title" text-case="title"/>
+            <choose>
+              <if type="thesis">
+                <text value="(dissertation)"/>
+              </if>
+            </choose>
+          </group>
           <text macro="page"/>
         </else>
       </choose>
@@ -315,20 +338,24 @@
     </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=", ">
-        <text macro="author-intext-zh"/>
-        <text macro="date"/>
+        <group>
+          <text macro="author-intext-zh"/>
+          <text macro="date"/>
+        </group>
         <text macro="locator"/>
       </group>
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <text macro="author-intext-en"/>
-        <text macro="date"/>
+        <group>
+          <text macro="author-intext-en"/>
+          <text macro="date"/>
+        </group>
         <text macro="locator"/>
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="true" entry-spacing="0">
+  <bibliography et-al-min="4" et-al-use-first="3" hanging-indent="true" entry-spacing="0">
     <sort>
       <key macro="author-sort"/>
       <key macro="date"/>
