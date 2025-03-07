@@ -24,7 +24,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Begon M, Harper JL, Townsend CR (1986) Ecology: Individuals, Populations and Communities, 2nd edn. Blackwell Scientific Publications, Boston.</div>
   <div class="csl-entry">International Union for Conservation of Nature (IUCN) (2000) Authority Files for Habitats &#38; Threats. <a href="http://www.iucn.org/themes/ssc/sis/authority.html">http://www.iucn.org/themes/ssc/sis/authority.html</a> (2023-07-04)</div>
-  <div class="csl-entry">Jiang ZG, Ma Y, Wu Y, et al (2015) China’s mammal diversity and geographic distribution. Science Press, Beijing. (in Chinese) [蒋志刚, 马勇, 吴毅, 等 (2015) 中国哺乳动物多样性. 科学出版社, 北京.]</div>
+  <div class="csl-entry">Jiang ZG, Ma Y, Wu Y, et al (2015) China’s mammal diversity and geographic distribution. Science Press, Beijing. (in Chinese) [蒋志刚, 马勇, 吴毅等 (2015) 中国哺乳动物多样性. 科学出版社, 北京.]</div>
   <div class="csl-entry">Lawton JH, Brown VK (1993) Redundancy in ecosystems. In: Biodiversity and Ecosystem Function (eds Schulze ED, Mooney HA), pp. 255–270. Springer-Verlag, New York.</div>
   <div class="csl-entry">Li H, Durbin R (2011) Inference of human population history from individual whole-genome sequences. Nature, 475(7357), 493–496.</div>
   <div class="csl-entry">Mueller-Dombois D, Ellenberg H (1986) Aims and Methods of Vegetation Ecology, pp. 153–188. Science Press, Beijing. (in Chinese with English abstract) [鲍显诚, 张绅, 杨邦顺, 等 (译) (1986) 植被生态学的目的和方法, pp. 153–188. 科学出版社, 北京.]</div>
@@ -43,15 +43,15 @@
 Jason (2008, p. 42)<br>
 张三和李四 (2008)<br>
 Wang和Sun (2009)<br>
-(Wolchik和West2009; 赵一和陈二2008)<br>
+(赵一和陈二2008; Wolchik和West2009)<br>
 张三等 (2008)<br>
 Wang等 (2009)<br>
-(Wolchik等2009; 赵一等2008)<br>
+(赵一等2008; Wolchik等2009)<br>
 张三等 (2019a)<br>
 张三等 (2019b)<br>
 Qian等 (2020a)<br>
 Qian等 (2020b)<br>
-(Qian等2020a; 张三等2019a)<br>
+(张三等2019a; Qian等2020a)<br>
 张三等 (2020a)<br>
 张三等 (2020b)<br>
 Qian等 (2009a)<br>
@@ -61,7 +61,7 @@ Qian等 (2009b)<br>
 (Wong2007)<br>
 (Wong2008)<br>
 (Edeline和Weinberger2002a, 2002b, 2005, n.d.)<br>
-(Bai2002; Chen2006; Deng和Feng2005)<br>
+(Bai2002; Deng和Feng2005; Chen2006)<br>
 
 
 ### GB/T 7714—2015 示例文献
@@ -119,7 +119,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室 (1996) (in Chinese) [中国社会科学院语言研究所词典编辑室 (1996) 现代汉语词典, 修订本. 商务印书馆, 北京.]</div>
   <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆 (2001) (in Chinese) [中国第一历史档案馆, 辽宁省档案馆 (2001) 中国明朝档案总汇. 广西师范大学出版社, 桂林.]</div>
   <div class="csl-entry">中国造纸学会 (2003) (in Chinese) [中国造纸学会 (2003) 中国造纸年鉴：2003. 中国轻工业出版社, 北京.]</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等 (2012) 52(11), 1518–1523. (in Chinese) [于潇, 刘义, 柴跃廷, 等 (2012) 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, 52(11), 1518–1523.]</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等 (2012) 52(11), 1518–1523. (in Chinese) [于潇, 刘义, 柴跃廷等 (2012) 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, 52(11), 1518–1523.]</div>
   <div class="csl-entry">余建斌 (2013) 2. (in Chinese) [余建斌 (2013) 我们的科技一直在追赶：访中国工程院院长周济. 人民日报, 2.]</div>
   <div class="csl-entry">侯文顺 (2010) p. 119. (in Chinese) [侯文顺 (2010) 高分子物理：高分子材料分析、选择与改性, p. 119. 化学工业出版社, 北京.]</div>
   <div class="csl-entry">傅刚, 赵承, 李佳路 (2000) (in Chinese) [傅刚, 赵承, 李佳路 (2000) 大风沙过后的思考. 北京青年报.]</div>
@@ -128,7 +128,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">全国广播电视标准化技术委员会 (2007) p. 1. (in Chinese) [全国广播电视标准化技术委员会 (2007) 广播电视音像资料编目规范：第 2 部分 广播资料, p. 1. 国家广播电影电视总局广播电视规划院, 北京.]</div>
   <div class="csl-entry">刘乃安 (2000) pp. 17–18. (in Chinese) [刘乃安 (2000) 生物质材料热解失重动力学及其分析方法研究 (学位论文), pp. 17–18. 博士学位论文, 中国科学技术大学, 合肥.]</div>
   <div class="csl-entry">刘彻东 (1998) (5), 38–39. (in Chinese) [刘彻东 (1998) 中国的青年刊物：个性特色为本仁. 中国出版(5), 38–39.]</div>
-  <div class="csl-entry">刘裕国, 杨柳, 张洋, 等 (2013) (in Chinese) [刘裕国, 杨柳, 张洋, 等 (2013) 雾霾来袭，如何突围？. 人民日报.]</div>
+  <div class="csl-entry">刘裕国, 杨柳, 张洋, 等 (2013) (in Chinese) [刘裕国, 杨柳, 张洋等 (2013) 雾霾来袭，如何突围？. 人民日报.]</div>
   <div class="csl-entry">北京市人民政府办公厅 (2005) (in Chinese) [北京市人民政府办公厅 (2005) 关于转发北京市企业投资项目核准暂行实施办法的通知.]</div>
   <div class="csl-entry">北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所 (2012) p. 112. (in Chinese) [北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所 (2012) 历代王朝与民族宗教, p. 112. 民族出版社, 北京.]</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室 (2011) pp. 5–6. (in Chinese) [同济大学土木工程防灾国家重点实验室 (2011) 汶川地震灾害研究, pp. 5–6. 同济大学出版社, 上海.]</div>
@@ -151,8 +151,8 @@ Qian等 (2009b)<br>
   <div class="csl-entry">杨宗英 (1996) (2), 24–29. (in Chinese) [杨宗英 (1996) 电子图书馆的现实模型. 中国图书馆学报(2), 24–29.]</div>
   <div class="csl-entry">杨洪升 (2013) (1), 56–75. (in Chinese) [杨洪升 (2013) 四库馆私家抄校书考略. 文献(1), 56–75.]</div>
   <div class="csl-entry">楼梦鳞, 杨燕 (2011) (in Chinese) [楼梦鳞, 杨燕 (2011) 汶川地震基岩地震动特征分析. 收入: 汶川地震震害研究 (编 同济大学土木工程防灾国家重点实验室), pp. 011–012. 同济大学出版社, 上海.]</div>
-  <div class="csl-entry">武丽丽, 华一新, 张亚军, 等 (2008) 33(5), 8–9. (in Chinese) [武丽丽, 华一新, 张亚军, 等 (2008) “北斗一号”监控管理网设计与实现. 测绘科学, 33(5), 8–9.]</div>
-  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等 (2013) (in Chinese) [汤万金, 杨跃翔, 刘文, 等 (2013) 人体安全重要技术标准研制最终报告.]</div>
+  <div class="csl-entry">武丽丽, 华一新, 张亚军, 等 (2008) 33(5), 8–9. (in Chinese) [武丽丽, 华一新, 张亚军等 (2008) “北斗一号”监控管理网设计与实现. 测绘科学, 33(5), 8–9.]</div>
+  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等 (2013) (in Chinese) [汤万金, 杨跃翔, 刘文等 (2013) 人体安全重要技术标准研制最终报告.]</div>
   <div class="csl-entry">汪冰 (1997) p. 16. (in Chinese) [汪冰 (1997) 电子图书馆理论与实践研究, p. 16. 北京图书馆出版社, 北京.]</div>
   <div class="csl-entry">汪学军 (2002) (in Chinese) [汪学军 (2002) 中国农业转基因生物研究进展与安全管理. 收入: 中国国家生物安全框架实施国际合作项目研讨会论文集 (编 国家环境保护总局生物安全管理办公室), pp. 22–25. 中国环境科学出版社, 北京.]</div>
   <div class="csl-entry">汪昂 (1881) (in Chinese) [汪昂 (1881) 增订本草备要, 刻本. 老二酉堂, 京都.]</div>
@@ -168,15 +168,15 @@ Qian等 (2009b)<br>
   <div class="csl-entry">美国妇产科医师学会 (2010) pp. 38–39. (in Chinese) [段涛, 杨慧霞 (译) (2010) 新生儿脑病和脑性瘫痪：发病机制与病理生理, pp. 38–39. 人民卫生出版社, 北京.]</div>
   <div class="csl-entry">胡承正, 周详, 缪灵 (2010) p. 112. (in Chinese) [胡承正, 周详, 缪灵 (2010) 理论物理概论, p. 112. 武汉大学出版社, 武汉.]</div>
   <div class="csl-entry">萧钰 (2001) <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a> (2002-04-15) (in Chinese) [萧钰 (2001) 出版业信息化迈入快车道. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a> (2002-04-15)]</div>
-  <div class="csl-entry">蒋有绪, 郭泉水, 马娟, 等 (1998) (in Chinese) [蒋有绪, 郭泉水, 马娟, 等 (1998) 中国森林群落分类及其群落特征. 科学出版社, 北京.]</div>
-  <div class="csl-entry">袁训来, 陈哲, 肖书海, 等 (2012) 57(34), 3219. (in Chinese) [袁训来, 陈哲, 肖书海, 等 (2012) 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34), 3219.]</div>
+  <div class="csl-entry">蒋有绪, 郭泉水, 马娟, 等 (1998) (in Chinese) [蒋有绪, 郭泉水, 马娟等 (1998) 中国森林群落分类及其群落特征. 科学出版社, 北京.]</div>
+  <div class="csl-entry">袁训来, 陈哲, 肖书海, 等 (2012) 57(34), 3219. (in Chinese) [袁训来, 陈哲, 肖书海等 (2012) 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口. 科学通报, 57(34), 3219.]</div>
   <div class="csl-entry">裴丽生 (1981) (in Chinese) [裴丽生 (1981) 在中国科协学术期刊编辑工作经验交流会上的讲话. 收入: 中国科协学术期刊编辑工作经验交流会资料选 (编 中国科学技术协会), pp. 2–10. 中国科学技术协会学会工作部, 北京.]</div>
   <div class="csl-entry">西安电子科技大学 (2002) (in Chinese) [西安电子科技大学 (2002) 光折变自适应光外差探测方法. 中国.]</div>
   <div class="csl-entry">贾东琴, 柯平 (2011) (in Chinese) [贾东琴, 柯平 (2011) 面向数字素养的高校图书馆数字服务体系研究. 收入: 中国图书馆学会年会论文集 (编 中国图书馆学会), pp. 45–52. 国家图书馆出版社, 北京.]</div>
   <div class="csl-entry">赵学功 (2001) (in Chinese) [赵学功 (2001) 当代美国外交. 社会科学文献出版社, 北京.]</div>
   <div class="csl-entry">邓一刚 (2006) (in Chinese) [邓一刚 (2006) 全智能节电器. 中国.]</div>
   <div class="csl-entry">陈建军 (2010) 7(10), 93. (in Chinese) [陈建军 (2010) 从数字地球到智慧地球. 国土资源导刊, 7(10), 93.]</div>
-  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等 (1980) (in Chinese) [陈晋镳, 张惠民, 朱士兴, 等 (1980) 蓟县震旦亚界的研究. 收入: 中国震旦亚界 (编 中国地质科学院天津地质矿产研究所), pp. 56–114. 天津科学技术出版社, 天津.]</div>
+  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等 (1980) (in Chinese) [陈晋镳, 张惠民, 朱士兴等 (1980) 蓟县震旦亚界的研究. 收入: 中国震旦亚界 (编 中国地质科学院天津地质矿产研究所), pp. 56–114. 天津科学技术出版社, 天津.]</div>
   <div class="csl-entry">陈登原 (2000a) p. 29. (in Chinese) [陈登原 (2000a) 国史旧闻, p. 29. 中华书局, 北京.]</div>
   <div class="csl-entry">陈登原 (2000b) p. 29. (in Chinese) [陈登原 (2000b) 国史旧闻, p. 29. 中华书局, 北京.]</div>
   <div class="csl-entry">顾炎武 (1982) (in Chinese) [顾炎武 (1982) 昌平山水记：京东考古录. 北京古籍出版社, 北京.]</div>
@@ -234,8 +234,8 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Zhang S (2008a) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [张三 (2008a) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
   <div class="csl-entry">Zhang S (2008b) The past and future of Chinese psychology. Acta Psychologica Sinica, 40(增刊), 210–215. (in Chinese) [张三 (2008b) 中国心理学的过去与未来. 心理学报, 40(增刊), 210–215.]</div>
   <div class="csl-entry">Zhang S (2008c) History of Psychology. Unnamed Publisher, Beijing. (in Chinese) [张三 (2008c) 心理学史. 未名出版社, 北京.]</div>
-  <div class="csl-entry">Zhao Y, Qian E, Sun S, et al (2008) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [赵一, 钱二, 孙三, 等 (2008) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
-  <div class="csl-entry">Zhao YY, Qian E, Sun S, et al (2008) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [赵一一, 钱二, 孙三, 等 (2008) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
+  <div class="csl-entry">Zhao Y, Qian E, Sun S, et al (2008) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [赵一, 钱二, 孙三等 (2008) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
+  <div class="csl-entry">Zhao YY, Qian E, Sun S, et al (2008) The past and future of Chinese psychology. Acta Psychologica Sinica, 40, 210–215. (in Chinese) [赵一一, 钱二, 孙三等 (2008) 中国心理学的过去与未来. 心理学报, 40, 210–215.]</div>
   <div class="csl-entry">(1980) The New Grove Dictionary of Music and Musicians, 6th edn. Macmillan, London : New York.</div>
   <div class="csl-entry">(1986) Modern Chinese frequency Dictionary. Beijing Language and Culture University Press, Beijing. (in Chinese) [(1986) 现代汉语频率词典. 北京语言学院出版社, 北京.]</div>
   <div class="csl-entry">(1989) Children of Color: Psychological Interventions with Minority Youth. Jossey-Bass, Hoboken, NJ, US.</div>
@@ -343,7 +343,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">国务院 (2007b) (in Chinese) [国务院 (2007b) 国务院关于在全国建立农村最低生活保障制度的通知.]</div>
   <div class="csl-entry">国务院 (2018) (in Chinese) [国务院 (2018) 国务院关于印发打赢蓝天保卫战三年行动计划的通知.]</div>
   <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会 (2015) (in Chinese) [国家质量监督检验检疫总局, 中国国家标准化管理委员会 (2015) 信息与文献 参考文献著录规则.]</div>
-  <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 等 (2004) (in Chinese) [夏新华, 胡旭晟, 刘鄂, 等 (2004) 近代中国宪政历程. 中国政法大学出版社.]</div>
+  <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 等 (2004) (in Chinese) [夏新华, 胡旭晟, 刘鄂等 (2004) 近代中国宪政历程. 中国政法大学出版社.]</div>
   <div class="csl-entry">季卫东 (1993) (1), 83–103. (in Chinese) [季卫东 (1993) 法律程序的意义：对中国法制建设的另一种思考. 中国社会科学(1), 83–103.]</div>
   <div class="csl-entry">崔国斌 (2006) (1), 144–164. (in Chinese) [崔国斌 (2006) 知识产权法官造法批判. 中国法学(1), 144–164.]</div>
   <div class="csl-entry">张新宝 (2016) (in Chinese) [张新宝 (2016) 侵权责任法, 4 版. 中国人民大学出版社.]</div>

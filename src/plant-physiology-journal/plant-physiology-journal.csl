@@ -14,7 +14,7 @@
     <category field="botany"/>
     <issn>2095-1108</issn>
     <summary>《植物生理学报》投稿指南</summary>
-    <updated>2025-03-07T15:25:05+08:00</updated>
+    <updated>2025-03-07T16:51:16+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -50,7 +50,7 @@
       </term>
     </terms>
   </locale>
-  <macro name="author-bib">
+  <macro name="author-bib-en">
     <choose>
       <if variable="translator">
         <names variable="translator">
@@ -60,6 +60,21 @@
       </if>
       <else>
         <names variable="author"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="author-bib-zh">
+    <choose>
+      <if variable="translator">
+        <names variable="translator">
+          <name/>
+          <label form="short" prefix=" (" suffix=")"/>
+        </names>
+      </if>
+      <else>
+        <names variable="author">
+          <name delimiter-precedes-et-al="never"/>
+        </names>
       </else>
     </choose>
   </macro>
@@ -294,9 +309,21 @@
       </if>
     </choose>
   </macro>
-  <macro name="bib-layout">
+  <macro name="bib-layout-en">
     <group delimiter=" ">
-      <text macro="author-bib"/>
+      <text macro="author-bib-en"/>
+      <text macro="date" prefix="(" suffix=")"/>
+      <group delimiter=". " suffix=".">
+        <text macro="title"/>
+        <text macro="container"/>
+        <text macro="publisher"/>
+      </group>
+      <text macro="access"/>
+    </group>
+  </macro>
+  <macro name="bib-layout-zh">
+    <group delimiter=" ">
+      <text macro="author-bib-zh"/>
       <text macro="date" prefix="(" suffix=")"/>
       <group delimiter=". " suffix=".">
         <text macro="title"/>
@@ -333,8 +360,8 @@
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
-      <key macro="author-intext-en"/>
       <key macro="date"/>
+      <key macro="author-intext-en"/>
     </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=", ">
@@ -371,11 +398,11 @@
             <text value="(in Chinese)"/>
           </else>
         </choose>
-        <text macro="bib-layout" prefix="[" suffix="]"/>
+        <text macro="bib-layout-zh" prefix="[" suffix="]"/>
       </group>
     </layout>
     <layout>
-      <text macro="bib-layout"/>
+      <text macro="bib-layout-en"/>
     </layout>
   </bibliography>
 </style>
