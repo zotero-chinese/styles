@@ -14,7 +14,7 @@
     <category field="botany"/>
     <issn>2095-1108</issn>
     <summary>《植物生理学报》参考文献样式。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`(每个作者单列一行), `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2025-03-11T17:21:03+08:00</updated>
+    <updated>2025-03-11T17:25:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -311,11 +311,9 @@
         <text macro="author-bib-en"/>
         <text macro="date" prefix="(" suffix=")"/>
       </group>
-      <group delimiter=". " suffix="">
-        <text macro="title-en"/>
-        <text macro="container"/>
-        <text macro="publisher"/>
-      </group>
+      <text macro="title-en"/>
+      <text macro="container"/>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>
@@ -325,11 +323,9 @@
         <text macro="author-bib-zh"/>
         <text macro="date" prefix="(" suffix=")"/>
       </group>
-      <group delimiter=". " suffix="">
-        <text macro="title-zh"/>
-        <text macro="container"/>
-        <text macro="publisher"/>
-      </group>
+      <text macro="title-zh"/>
+      <text macro="container"/>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>
@@ -339,11 +335,9 @@
         <text macro="author-bib-translation"/>
         <text macro="date" prefix="(" suffix=")"/>
       </group>
-      <group delimiter=". " suffix="">
-        <text macro="title-translation"/>
-        <text macro="container-translation"/>
-        <text macro="publisher-translation"/>
-      </group>
+      <text macro="title-translation"/>
+      <text macro="container-translation"/>
+      <text macro="publisher-translation"/>
       <text macro="access"/>
     </group>
   </macro>
