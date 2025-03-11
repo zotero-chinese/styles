@@ -8,13 +8,13 @@
 
 ### 引注
 
-(Li等2011)<br>
+(Li和Durbin2011)<br>
 (宋永昌等2015)<br>
-(张明海等2010)<br>
+(张明海和马建章2010)<br>
 (Begon等1986)<br>
 (蒋志刚等2015)<br>
-(Lawton等1993)<br>
-(Mueller-Dombois D等1986)<br>
+(Lawton和Brown1993)<br>
+(Mueller-Dombois D和Ellenberg H1986)<br>
 (于飞海2002)<br>
 (International Union for Conservation of Nature (IUCN)2000)<br>
 
@@ -41,12 +41,12 @@
 张三 (2008, p. 42)<br>
 (Jason2008, p. 42)<br>
 Jason (2008, p. 42)<br>
-张三等 (2008b)<br>
-Wang等 (2009b)<br>
-(赵一等2008b; Wolchik等2009b)<br>
-张三等 (2008a)<br>
-Wang等 (2009a)<br>
-(赵一等2008a; Wolchik等2009a)<br>
+张三和李四 (2008)<br>
+Wang和Sun (2009)<br>
+(赵一和陈二2008; Wolchik和West2009)<br>
+张三等 (2008)<br>
+Wang等 (2009)<br>
+(赵一等2008; Wolchik等2009)<br>
 张三等 (2019a)<br>
 张三等 (2019b)<br>
 Qian等 (2020a)<br>
@@ -60,8 +60,8 @@ Qian等 (2009b)<br>
 (Qian等2009a)<br>
 (Wong2007)<br>
 (Wong2008)<br>
-(Edeline等2002a, 2002b, 2005, n.d.)<br>
-(Bai2002; Deng等2005; Chen2006)<br>
+(Edeline和Weinberger2002a, 2002b, 2005, n.d.)<br>
+(Bai2002; Deng和Feng2005; Chen2006)<br>
 
 
 ### GB/T 7714—2015 示例文献

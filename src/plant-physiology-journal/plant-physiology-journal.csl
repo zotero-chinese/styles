@@ -14,7 +14,7 @@
     <category field="botany"/>
     <issn>2095-1108</issn>
     <summary>《植物生理学报》参考文献样式。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`(每个作者单列一行), `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2025-03-07T16:51:16+08:00</updated>
+    <updated>2025-03-11T17:05:34+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -36,7 +36,7 @@
     </terms>
   </locale>
   <locale>
-  <style-options punctuation-in-quote="false"/>
+    <style-options punctuation-in-quote="false"/>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
@@ -257,18 +257,18 @@
     </choose>
   </macro>
   <macro name="publisher">
-      <choose>
-    <if variable="publisher-place">
-      <text variable="publisher-place" suffix=": "/>
-    </if>
+    <choose>
+      <if variable="publisher-place">
+        <text variable="publisher-place" suffix=": "/>
+      </if>
     </choose>
     <text variable="publisher"/>
   </macro>
   <macro name="publisher-translation">
     <choose>
-    <if variable="original-publisher-place">
-      <text variable="original-publisher-place" suffix=": "/>
-    </if>
+      <if variable="original-publisher-place">
+        <text variable="original-publisher-place" suffix=": "/>
+      </if>
     </choose>
     <text variable="original-publisher"/>
   </macro>
@@ -298,8 +298,8 @@
   <macro name="bib-layout-en">
     <group delimiter=". ">
       <group delimiter=" ">
-      <text macro="author-bib-en"/>
-      <text macro="date" prefix="(" suffix=")"/>
+        <text macro="author-bib-en"/>
+        <text macro="date" prefix="(" suffix=")"/>
       </group>
       <group delimiter=". " suffix="">
         <text macro="title"/>
@@ -312,8 +312,8 @@
   <macro name="bib-layout-zh">
     <group delimiter=". ">
       <group delimiter="">
-      <text macro="author-bib-zh"/>
-      <text macro="date" prefix="(" suffix=")"/>
+        <text macro="author-bib-zh"/>
+        <text macro="date" prefix="(" suffix=")"/>
       </group>
       <group delimiter=". " suffix="">
         <text macro="title"/>
@@ -326,8 +326,8 @@
   <macro name="bib-layout-translation">
     <group delimiter=". ">
       <group delimiter=" ">
-      <text macro="author-bib-translation"/>
-      <text macro="date" prefix="(" suffix=")"/>
+        <text macro="author-bib-translation"/>
+        <text macro="date" prefix="(" suffix=")"/>
       </group>
       <group delimiter=". " suffix="">
         <text macro="title-translation"/>
@@ -350,7 +350,7 @@
       </else>
     </choose>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="date"/>
       <key macro="author-intext-en"/>
@@ -374,7 +374,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography et-al-min="3" et-al-use-first="3" hanging-indent="true" entry-spacing="0">
+  <bibliography et-al-min="4" et-al-use-first="3" hanging-indent="true" entry-spacing="0">
     <sort>
       <key macro="author-sort"/>
       <key macro="date"/>
