@@ -13,13 +13,14 @@
     <category citation-format="author-date"/>
     <category field="botany"/>
     <issn>2095-1108</issn>
-    <summary>《植物生理学报》投稿指南</summary>
-    <updated>2025-03-07T16:51:16+08:00</updated>
+    <summary>《植物生理学报》参考文献样式。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`(每个作者单列一行), `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。</summary>
+    <updated>2025-03-11T17:25:43+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
       <term name="and">和</term>
+      <term name="et-al">et al</term>
       <term name="thesis">dissertation</term>
     </terms>
   </locale>
@@ -34,6 +35,7 @@
     </terms>
   </locale>
   <locale>
+    <style-options punctuation-in-quote="false"/>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
       <date-part name="month" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
@@ -79,17 +81,10 @@
     </choose>
   </macro>
   <macro name="author-bib-translation">
-    <choose>
-      <if variable="original-author">
-        <names variable="original-author">
-          <name/>
-          <et-al term="et-al-en"/>
-        </names>
-      </if>
-      <else>
-        <names variable="author"/>
-      </else>
-    </choose>
+    <names variable="original-author">
+      <name/>
+      <et-al term="et-al-en"/>
+    </names>
   </macro>
   <macro name="author-intext-en">
     <names variable="author">
@@ -127,7 +122,7 @@
       </else>
     </choose>
   </macro>
-  <macro name="title">
+  <macro name="title-en">
     <group delimiter=", ">
       <choose>
         <if type="article-journal article-magazine article-newspaper chapter paper-conference" variable="container-title" match="any">
@@ -138,7 +133,28 @@
             <text variable="title" text-case="title"/>
             <choose>
               <if type="thesis">
-                <text term="thesis" prefix=" (" suffix=")"/>
+                <text term="thesis" prefix="(" suffix=")"/>
+              </if>
+            </choose>
+          </group>
+          <text macro="edition"/>
+          <text macro="page"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+  <macro name="title-zh">
+    <group delimiter=", ">
+      <choose>
+        <if type="article-journal article-magazine article-newspaper chapter paper-conference" variable="container-title" match="any">
+          <text variable="title"/>
+        </if>
+        <else>
+          <group>
+            <text variable="title" text-case="title"/>
+            <choose>
+              <if type="thesis">
+                <text term="thesis" prefix="(" suffix=")"/>
               </if>
             </choose>
           </group>
@@ -195,7 +211,7 @@
   <macro name="container">
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
-        <group delimiter=", ">
+        <group delimiter=": ">
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
@@ -227,7 +243,7 @@
   <macro name="container-translation">
     <choose>
       <if type="article-journal article-magazine article-newspaper" match="any">
-        <group delimiter=", ">
+        <group delimiter=": ">
           <group>
             <group delimiter=", ">
               <text variable="original-container-title"/>
@@ -251,40 +267,20 @@
     </choose>
   </macro>
   <macro name="publisher">
-    <group delimiter=", ">
-      <choose>
-        <if type="thesis">
-          <choose>
-            <if variable="genre">
-              <text variable="genre"/>
-            </if>
-            <else>
-              <text value="PhD dissertation"/>
-            </else>
-          </choose>
-        </if>
-      </choose>
-      <text variable="publisher"/>
-      <text variable="publisher-place"/>
-    </group>
+    <choose>
+      <if variable="publisher-place">
+        <text variable="publisher-place" suffix=": "/>
+      </if>
+    </choose>
+    <text variable="publisher"/>
   </macro>
   <macro name="publisher-translation">
-    <group delimiter=", ">
-      <choose>
-        <if type="thesis">
-          <choose>
-            <if variable="original-genre">
-              <text variable="original-genre"/>
-            </if>
-            <else>
-              <text value="PhD dissertation"/>
-            </else>
-          </choose>
-        </if>
-      </choose>
-      <text variable="original-publisher"/>
-      <text variable="original-publisher-place"/>
-    </group>
+    <choose>
+      <if variable="original-publisher-place">
+        <text variable="original-publisher-place" suffix=": "/>
+      </if>
+    </choose>
+    <text variable="original-publisher"/>
   </macro>
   <macro name="page">
     <choose>
@@ -310,38 +306,38 @@
     </choose>
   </macro>
   <macro name="bib-layout-en">
-    <group delimiter=" ">
-      <text macro="author-bib-en"/>
-      <text macro="date" prefix="(" suffix=")"/>
-      <group delimiter=". " suffix=".">
-        <text macro="title"/>
-        <text macro="container"/>
-        <text macro="publisher"/>
+    <group delimiter=". ">
+      <group delimiter=" ">
+        <text macro="author-bib-en"/>
+        <text macro="date" prefix="(" suffix=")"/>
       </group>
+      <text macro="title-en"/>
+      <text macro="container"/>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>
   <macro name="bib-layout-zh">
-    <group delimiter=" ">
-      <text macro="author-bib-zh"/>
-      <text macro="date" prefix="(" suffix=")"/>
-      <group delimiter=". " suffix=".">
-        <text macro="title"/>
-        <text macro="container"/>
-        <text macro="publisher"/>
+    <group delimiter=". ">
+      <group delimiter="">
+        <text macro="author-bib-zh"/>
+        <text macro="date" prefix="(" suffix=")"/>
       </group>
+      <text macro="title-zh"/>
+      <text macro="container"/>
+      <text macro="publisher"/>
       <text macro="access"/>
     </group>
   </macro>
   <macro name="bib-layout-translation">
-    <group delimiter=" ">
-      <text macro="author-bib-translation"/>
-      <text macro="date" prefix="(" suffix=")"/>
-      <group delimiter=". " suffix=".">
-        <text macro="title-translation"/>
-        <text macro="container-translation"/>
-        <text macro="publisher-translation"/>
+    <group delimiter=". ">
+      <group delimiter=" ">
+        <text macro="author-bib-translation"/>
+        <text macro="date" prefix="(" suffix=")"/>
       </group>
+      <text macro="title-translation"/>
+      <text macro="container-translation"/>
+      <text macro="publisher-translation"/>
       <text macro="access"/>
     </group>
   </macro>
@@ -374,7 +370,7 @@
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <group>
+        <group delimiter=" ">
           <text macro="author-intext-en"/>
           <text macro="date"/>
         </group>
