@@ -74,7 +74,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Baldock P (2011). Developing Early Childhood Services: Past, Present and Future, p. 105. Rotterdam: Open University Press</div>
   <div class="csl-entry">Bawden D (2008). Origins and Concepts of Digital Literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (2013-03-08)</div>
   <div class="csl-entry">Buseck PR, Nord GL Jr, Veblen DR (c1980). Subsolidus phenomena in pyroxenes. In: Pyroxenes, pp. 117–211. Washington, D.C.: Mineralogical Society of America</div>
-  <div class="csl-entry">Cairns BR (1965). Infrared Spectroscopic Studies on Solid Oxygen(dissertation). Berkeley: Univ. of California</div>
+  <div class="csl-entry">Cairns BR (1965). Infrared Spectroscopic Studies on Solid Oxygen (dissertation). Berkeley: Univ. of California</div>
   <div class="csl-entry">Calkin D, Ager A, Thompson M (2011). A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, pp. 8–9</div>
   <div class="csl-entry">Caplan P (1993). Cataloging internet resources. The Public-Access Computer Systems Review, 4(2): 61–66</div>
   <div class="csl-entry">Chernik BE (1982). Introduction to Library Services for Library Technicians. Littleton, Colo.: Libraries Unlimited, Inc.</div>
@@ -225,7 +225,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Wang DF, Cui H (2004). Theoretical analysis of the seven factor model of Chinese personality. In: Selected Papers on Personality and Social Psychology (eds Wang DF, Hou YB), pp. 46–84. Beijing: Peking University Press</div>
   <div class="csl-entry">Wang DF, Cui H (2004). Theoretical analysis of the “seven factor” model of Chinese personality. In: Selected papers on personality and social Psychology (编 王登峰, 侯玉波), pp. 46–84. Beijing: Peking University Press (in Chinese) [王登峰, 崔红(2004). 中国人“大七”人格结构的理论分析. 收入: 人格与社会心理学论丛 (编 王登峰, 侯玉波), pp. 46–84. 北京: 北京大学出版社]</div>
   <div class="csl-entry">Wolchik SA, West SG, Sandler IN, et al (2000). An experimental evaluation of theory-based mother and mother-child programs for children of divorce. Journal of Consulting and Clinical Psychology, 68(5): 843–856</div>
-  <div class="csl-entry">Yu L (2000). Phonological Representation and Processing in Chinese Spoken Language Production(dissertation). Beijing Normal University</div>
+  <div class="csl-entry">Yu L (2000). Phonological Representation and Processing in Chinese Spoken Language Production (dissertation). Beijing Normal University</div>
   <div class="csl-entry">Yu L (2000). Phonological representation and processing in Chinese spoken language Production (dissertation). Beijing Normal University (in Chinese) [余林(2000). 汉语语言产生中的语音表征与加工(学位论文). 北京师范大学]</div>
   <div class="csl-entry">Zhang S (2008). History of Psychology. Beijing: Unnamed Publisher (in Chinese) [(2008). 心理学史. 北京: 未名出版社]</div>
   <div class="csl-entry">Zhang S, Li S (2008a). The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210–215 (in Chinese) [张三, 李四(2008a). 中国心理学的过去与未来. 心理学报, 40: 210–215]</div>
@@ -322,7 +322,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Poisson M (2015b). Le droit de la mer. In: Le droit des Océans (ed Lapieuvre R), pp. 12–48</div>
   <div class="csl-entry">Poisson M (2016a). Le droit de la mer en Méditerranée, pp. 228–229. Congrès de Marseille</div>
   <div class="csl-entry">Poisson M (2016b). Le droit de la mer en Méditerranée</div>
-  <div class="csl-entry">Poisson M (2016c). Le droit de la mer appliqué à la Méditerranée(dissertation). l’Université de Marseille</div>
+  <div class="csl-entry">Poisson M (2016c). Le droit de la mer appliqué à la Méditerranée (dissertation). l’Université de Marseille</div>
   <div class="csl-entry">Reich CA (1964). The new property. Yale Law Journal, 73(5): 733–787</div>
   <div class="csl-entry">Rosenthal A (1990). White House tutors Kremlin in how a presidency works. New York Times: A1</div>
   <div class="csl-entry">Roxin C (2006). Strafrecht Allgemeiner Teil, 4th edn. C. H. Beck</div>
@@ -463,16 +463,16 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Google (n.d.). Google Maps Directions for Driving from La Paz, Bolivia, to Lima, Peru</div>
   <div class="csl-entry">Graham G (2019). Behaviorism. In: The Stanford Encyclopedia of Philosophy (ed Zalta EN). Stanford University</div>
   <div class="csl-entry">Guarino B (2017). How will humanity react to alien life? Psychologists have some predictions. The Washington Post</div>
-  <div class="csl-entry">Harris L (2014). Instructional Leadership Perceptions and Practices of Elementary School Leaders(dissertation). University of Virginia</div>
+  <div class="csl-entry">Harris L (2014). Instructional Leadership Perceptions and Practices of Elementary School Leaders (dissertation). University of Virginia</div>
   <div class="csl-entry">Harwell M (2018). Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change. National Education Policy Center</div>
   <div class="csl-entry">Sallis J (tran.) (2008). On the essence of truth. In: Basic Writings (ed Krell DF), pp. 111–138. Harper Perennial Modern Thought</div>
   <div class="csl-entry">Hess A (2019). Cats who take direction. The New York Times: C1</div>
   <div class="csl-entry">Hiremath SC, Kumar S, Lu F, et al (2016). Using Metaphors to Present Concepts across Different Intellectual Domains. U.S.: </div>
   <div class="csl-entry">Ho HK (2014). Teacher Preparation for Early Childhood Special Education in Taiwan. ERIC</div>
-  <div class="csl-entry">Hollander MM (2017). Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment(dissertation). University of Wisconsin–Madison</div>
+  <div class="csl-entry">Hollander MM (2017). Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment (dissertation). University of Wisconsin–Madison</div>
   <div class="csl-entry">Housand B (2016). Game on! Integrating Games and Simulations in the Classroom. SlideShare: </div>
   <div class="csl-entry">Huestegge SM, Raettig T, Huestegge L (2019). Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing. Experimental Psychology</div>
-  <div class="csl-entry">Hutcheson VH (2012). Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents(dissertation). The College of William &#38; Mary</div>
+  <div class="csl-entry">Hutcheson VH (2012). Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents (dissertation). The College of William &#38; Mary</div>
   <div class="csl-entry">Kalnay E, Kanamitsu M, Kistler R, et al (1996). The NCEP/NCAR 40-year reanalysis project. Bulletin of the American Meteorological Society, 77(3): 437–471</div>
   <div class="csl-entry">King ML Jr (1963). I Have a Dream. American Rhetoric</div>
   <div class="csl-entry">Klymkowsky M (2018). Can we talk scientifically about free will? In: Sci-Ed. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a></div>
