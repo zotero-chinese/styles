@@ -14,7 +14,7 @@
     <category field="botany"/>
     <issn>2095-1108</issn>
     <summary>《植物生理学报》参考文献样式。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`(每个作者单列一行), `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。</summary>
-    <updated>2025-03-11T17:05:34+08:00</updated>
+    <updated>2025-03-11T17:10:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -366,7 +366,7 @@
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <group>
+        <group delimiter=" ">
           <text macro="author-intext-en"/>
           <text macro="date"/>
         </group>
