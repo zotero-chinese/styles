@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>四川大学研究生学位论文（华西临床医学院）</title>
-    <id>http://www.zotero.org/styles/sichuan-university-huaxi</id>
-    <link href="http://www.zotero.org/styles/sichuan-university-huaxi" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase" rel="template"/>
-    <!-- 华西临床医学院学位论文格式模板-(试行版) - 20230424.docx -->
+    <title>四川大学 - 华西临床医学院</title>
+    <id>http://www.zotero.org/styles/sichuan-university-west-china-school-of-medicine</id>
+    <link href="http://www.zotero.org/styles/sichuan-university-west-china-school-of-medicine" rel="self"/>
+    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
     <link href="https://yjs.cd120.com/contents/450/2804.html" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
+      <name>Northword</name>
+      <email>northword@outlook.com</email>
     </author>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
-    <contributor>
-      <name>Northword</name>
-      <email>northword@outlook.com</email>
-    </contributor>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 有 DOI。5. 期刊缩写无点</summary>
-    <updated>2025-03-09T21:10:40+08:00</updated>
+    <category field="medicine"/>
+    <summary>华西临床医学院学位论文格式模板-(试行版) - 20230424.docx</summary>
+    <updated>2025-03-11T16:51:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
