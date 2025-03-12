@@ -11,11 +11,14 @@
       <name>godwin_ma</name>
       <email>godwin_ma@163.com</email>
     </author>
+    <contributor>
+      <name>aoaim</name>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <category field="medicine"/>
-    <summary>在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
-    <updated>2025-01-08T17:09:49+08:00</updated>
+    <summary>根据学校最新学硕论文格式要求修改和完善，在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
+    <updated>2025-03-12T14:50:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -344,11 +347,11 @@
     </layout>
   </citation>
   <bibliography et-al-min="3" et-al-use-first="3" second-field-align="flush" entry-spacing="0">
-    <layout locale="zh">
+    <layout locale="zh" suffix=".">
       <text variable="citation-number" suffix="."/>
       <text macro="entry-layout-zh"/>
     </layout>
-    <layout>
+    <layout suffix=".">
       <text variable="citation-number" suffix="."/>
       <text macro="entry-layout-en"/>
     </layout>
