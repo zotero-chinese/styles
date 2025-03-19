@@ -11,6 +11,8 @@ def make_style_id(style_name: str):
     style_id = style_name.lower()
     style_id = style_id.replace("&", " and ")
     style_id = re.sub(r"[^0-9A-Za-z]+", "-", style_id)
+    style_id = re.sub(r"^-*", "", style_id)
+    style_id = re.sub(r"-*$", "", style_id)
     return style_id
 
 
