@@ -62,7 +62,7 @@ Qian等 （2009a）<br>
 （Qian等，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
-（Edeline和Weinberger，2002a, 2002b, 2005）<br>
+（Edeline和Weinberger，2002a，2002b，2005）<br>
 （Bai，2002；Chen，2006；Deng和Feng，2005）<br>
 
 

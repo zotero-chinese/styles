@@ -603,7 +603,7 @@
       </choose>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" disambiguate-add-names="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" disambiguate-add-names="true" collapse="year" cite-group-delimiter="，" givenname-disambiguation-rule="primary-name-with-initials">
     <sort>
       <key macro="author-intext-en"/>
       <key macro="date-intext"/>

@@ -539,7 +539,7 @@
       <text macro="access"/>
     </group>
   </macro>
-  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+  <citation et-al-min="2" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter="，">
     <sort>
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>

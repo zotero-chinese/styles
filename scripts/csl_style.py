@@ -1,7 +1,7 @@
 import datetime
-from pathlib import Path
 import re
 import sys
+from pathlib import Path
 
 from lxml import etree
 
@@ -12,7 +12,7 @@ ZOTERO_STYLE_PREFIX = "http://www.zotero.org/styles/"
 
 
 def warn(msg, file: str | Path, element=None):
-    warn_msg = f'Warning: File "{str(file)}"'
+    warn_msg = f'Warning: File "{file!s}"'
     if element is not None:
         warn_msg += f", line {element.sourceline}"
     warn_msg += f": {msg}"
@@ -278,56 +278,12 @@ if __name__ == "__main__":
     for path in Path("src").glob("**/*.csl"):
         style = CslStyle.from_file(path)
 
-        if style.citation_format == "numeric":
-            if not style.citation.xpath(".//cs:sort", namespaces=NSMAP):
-                sort = etree.Element(f"{CSL_PREFIX}sort")
-                style.citation.insert(0, sort)
-                key = etree.Element(f"{CSL_PREFIX}key")
-                key.attrib["variable"] = "citation-number"
-                sort.append(key)
-                etree.indent(sort)
-        elif style.citation_format == "author-date":
-            if not style.citation.xpath(".//cs:sort", namespaces=NSMAP):
-                sort = etree.Element(f"{CSL_PREFIX}sort")
-                style.citation.insert(0, sort)
-
-                if style.style.xpath(
-                    ".//cs:bibliography//cs:key[@variable='language']", namespaces=NSMAP
-                ):
-                    key = etree.Element(f"{CSL_PREFIX}key")
-                    key.attrib["variable"] = "language"
-                    sort.append(key)
-
-                sort_macro = ""
-                for macro_name in ["author-intext", "author"]:
-                    for macro in style.macros:
-                        if macro_name in macro.attrib["name"]:
-                            sort_macro = macro.attrib["name"]
-                            break
-                    if sort_macro:
-                        break
-                if sort_macro:
-                    key = etree.Element(f"{CSL_PREFIX}key")
-                    key.attrib["macro"] = sort_macro
-                    sort.append(key)
-                else:
-                    warn('No sort macro found for "author-intext"', style.path)
-
-                sort_macro = ""
-                for macro_name in ["date-intext", "issued-year", "date"]:
-                    for macro in style.macros:
-                        if macro_name in macro.attrib["name"]:
-                            sort_macro = macro.attrib["name"]
-                            break
-                    if sort_macro:
-                        break
-                if sort_macro:
-                    key = etree.Element(f"{CSL_PREFIX}key")
-                    key.attrib["macro"] = sort_macro
-                    sort.append(key)
-                else:
-                    warn('No sort macro found for "author-intext"', style.path)
-
-                etree.indent(sort)
-
-        style.to_file(path)
+        if (
+            '<group delimiter="，">\n        <text macro="author-intext"'
+            in style.original_text
+            and 'cite-group-delimiter="，"' not in style.original_text
+        ):
+            modified = style.original_text.replace(
+                'collapse="year"', 'collapse="year" cite-group-delimiter="，"'
+            )
+            Path(style.path).write_text(modified)

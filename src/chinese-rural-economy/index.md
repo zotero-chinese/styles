@@ -46,7 +46,7 @@ Qian et al. （2009a）<br>
 （Qian et al.，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
-（Edeline and Weinberger，2002a, 2002b, 2005, n.d.）<br>
+（Edeline and Weinberger，2002a，2002b，2005，n.d.）<br>
 （Bai，2002；Chen，2006；Deng and Feng，2005）<br>
 
 
