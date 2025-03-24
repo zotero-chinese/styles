@@ -1,7 +1,6 @@
 import { argv, exit } from "node:process";
 import { watch } from "chokidar";
 import FastGlob from "fast-glob";
-import fs from "fs-extra";
 import consola from "consola";
 import ora from "ora";
 
@@ -52,7 +51,7 @@ function serve() {
     });
 }
 
-async function build() {
+export async function build() {
   console.time("build");
   const spinner = ora();
   const result = await Promise.all(
