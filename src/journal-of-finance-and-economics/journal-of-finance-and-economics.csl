@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <issn>1001-9952</issn>
-    <updated>2025-03-23T23:03:59+08:00</updated>
+    <updated>2025-03-24T11:15:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -480,7 +480,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
       <key macro="author"/>
       <key macro="issued-year"/>
