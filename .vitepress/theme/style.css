@@ -1,0 +1,34 @@
+.csl-bib-body {
+  word-break: break-word;
+  text-align: justify;
+}
+
+/* second-field-align 首行缩进适配 */
+/* https://github.com/zotero-chinese/website/issues/48 */
+.csl-bib-body.second-field-align-flush .csl-entry {
+  display: flex;
+  align-items: flex-start;
+}
+
+.csl-bib-body.second-field-align-flush .csl-left-margin {
+  width: 2em;
+  flex-shrink: 0; /* 确保左边距不会缩小 */
+}
+
+.csl-bib-body.second-field-align-flush.maxoffset-3 .csl-left-margin {
+  width: 2.5em;
+}
+
+.csl-bib-body.second-field-align-flush.maxoffset-4 .csl-left-margin {
+  width: 3em;
+}
+
+.csl-bib-body.second-field-align-flush.maxoffset-5 .csl-left-margin {
+  width: 3.5em;
+}
+
+/* hangingindent 悬挂缩进适配 */
+.csl-bib-body.hangingindent-true .csl-entry {
+  padding-left: 2em;
+  text-indent: -2em;
+}
