@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>northeast-forestry-university</summary>
-    <updated>2025-04-13T11:22:09+08:00</updated>
+    <updated>2025-04-13T11:46:46+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -403,13 +403,10 @@
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
     <choose>
-      <if variable="DOI">
-        <text variable="DOI" prefix="DOI: "/>
-      </if>
-      <else-if type="dataset post post-weblog software webpage" match="any">
+      <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
-      </else-if>
+      </if>
     </choose>
   </macro>
   <!-- 参考文献表格式 -->
