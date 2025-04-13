@@ -1,0 +1,29 @@
+{
+  "dir": "north-china-university-of-technology-department-of-english-undergraduate",
+  "file": "north-china-university-of-technology-department-of-english-undergraduate.csl",
+  "style_class": "in-text",
+  "title": "北方工业大学 - 英语专业（本科）",
+  "id": "http://www.zotero.org/styles/north-china-university-of-technology-department-of-english-undergraduate",
+  "link_self": "http://www.zotero.org/styles/north-china-university-of-technology-department-of-english-undergraduate",
+  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "link_documentation": "https://github.com/zotero-chinese/styles/issues/493",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "北方工业大学本科毕业论文模板（学校模板，英语专业参考）.docx",
+  "updated": "2025-04-13T13:32:20+08:00",
+  "citations": "(Bawden, 2008; Fan and Sommers, 2013; Fourney, c1971; Myburg et al., 2014; 贾东琴和柯平, 2011; 库恩, 2012; 武丽丽等, 2008; 中国互联网络信息中心, 2012)",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">Bawden, D., 2008. Origins and Concepts of Digital Literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Fan, X. &#38; C. H. Sommers, 2013. <i>Food Irradiation Research and Technology</i>[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">Fourney, M. E., c1971. Advances in Holographic Photoelasticity[C]. In <i>Symposium on Applications of Holography in Mechanics</i>, August 23–25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME: 17-38.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar &#38; J. Schmutz, 2014. The Genome of Eucalyptus Grandis[J], <i>Nature</i>, 510: 356-362.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">贾东琴，柯平，2011．面向数字素养的高校图书馆数字服务体系研究[C]．中国图书馆学会．中国图书馆学会年会论文集：2011 年卷[C]．北京：国家图书馆出版社：45-52．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">库恩，2012．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">武丽丽，华一新，张亚军，刘英敏，2008．“北斗一号”监控管理网设计与实现[J]．测绘科学，33(5)：8-9．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">中国互联网络信息中心，2012．第 29 次中国互联网络发展状况统计报告[R]．</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
