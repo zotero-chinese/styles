@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。新增: 5.patent加入place; 6.中文“等”前取消逗号; 7.添加载体”[/CD]”等; 8:standard的title置后</summary>
-    <updated>2025-01-08T17:10:38+08:00</updated>
+    <updated>2025-04-16T20:48:35+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -41,7 +41,6 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -66,7 +65,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize="false" delimiter="，"/>
+          <name initialize="false" delimiter="，" delimiter-precedes-et-al="never"/>
         </names>
       </if>
       <else>
@@ -100,7 +99,7 @@
           <choose>
             <if type="article article-journal standard" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
+              <text variable="call-number"/>
             </if>
           </choose>
           <choose>
@@ -273,6 +272,7 @@
         </group>
       </else>
     </choose>
+    <text macro="accessed-date"/>
   </macro>
   <!-- 版本项 -->
   <macro name="edition">
@@ -325,6 +325,7 @@
           </group>
           <text variable="page"/>
         </group>
+        <text macro="accessed-date"/>
       </else-if>
       <else-if variable="URL">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
