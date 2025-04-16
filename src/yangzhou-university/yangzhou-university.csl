@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with="" names-delimiter=". " sort-separator=" " default-locale="zh-CN">
   <info>
     <title>扬州大学</title>
     <title-short>YZU</title-short>
@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>comparative economic and social systems author-date style</summary>
-    <updated>2025-01-08T18:35:21+08:00</updated>
+    <updated>2025-04-16T09:35:37+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
