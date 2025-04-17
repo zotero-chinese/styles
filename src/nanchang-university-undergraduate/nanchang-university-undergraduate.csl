@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>南昌大学本科生毕业设计（论文）书写式样</summary>
-    <updated>2025-04-13T13:44:54+08:00</updated>
+    <updated>2025-04-17T19:47:09+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -629,8 +629,8 @@
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
-              <text macro="title-en"/>
               <text macro="secondary-contributors-en"/>
+              <text macro="title-en"/>
             </group>
             <text macro="container-booklike-en"/>
           </group>
@@ -639,8 +639,8 @@
         </else-if>
         <else>
           <!-- 4.1 专著 -->
-          <text macro="title-en"/>
           <text macro="secondary-contributors-en"/>
+          <text macro="title-en"/>
           <text macro="edition"/>
           <text macro="publisher-en"/>
         </else>
@@ -677,8 +677,8 @@
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter="．">
-              <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
+              <text macro="title-zh"/>
             </group>
             <text macro="container-booklike-zh"/>
           </group>
@@ -687,8 +687,8 @@
         </else-if>
         <else>
           <!-- 4.1 专著 -->
-          <text macro="title-zh"/>
           <text macro="secondary-contributors-zh"/>
+          <text macro="title-zh"/>
           <text macro="edition"/>
           <text macro="publisher-zh"/>
         </else>

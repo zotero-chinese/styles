@@ -14,7 +14,7 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社，2012．</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩．金吾伦，胡新和，译．科学革命的结构：第 4 版[M]．2 版．北京：北京大学出版社，2012．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
@@ -60,7 +60,7 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">陈登原．国史旧闻：第 1 卷[M]．北京：中华书局，2000：29．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">哈里森·沃尔德伦．经济数学与金融数学[M]．谢远涛，译．北京：中国人民大学出版社，2012：235-236．</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">哈里森·沃尔德伦．谢远涛，译．经济数学与金融数学[M]．北京：中国人民大学出版社，2012：235-236．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所．历代王朝与民族宗教[M]．北京：民族出版社，2012：112．</div>
@@ -204,7 +204,7 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Chernik B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">尼葛洛庞帝．数字化生存[M]．胡泳，范海燕，译．海口：海南出版社，1996．</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">尼葛洛庞帝．胡泳，范海燕，译．数字化生存[M]．海口：海南出版社，1996．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">汪冰．电子图书馆理论与实践研究[M]．北京：北京图书馆出版社，1997：16．</div>
@@ -222,7 +222,7 @@
     <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">罗杰斯．西方文明史：问题与源头[M]．潘惠霞，魏婧，杨艳，等，译．大连：东北财经大学出版社，2011：15-16．</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">罗杰斯．潘惠霞，魏婧，杨艳，等，译．西方文明史：问题与源头[M]．大连：东北财经大学出版社，2011：15-16．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">陈登原．国史旧闻：第 1 卷[M]．北京：中华书局，2000：29．</div>
@@ -267,7 +267,7 @@
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">胡承正，周详，缪灵．理论物理概论：上[M]．武汉：武汉大学出版社，2010：112．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">美国妇产科医师学会．新生儿脑病和脑性瘫痪：发病机制与病理生理[M]．段涛，杨慧霞，译．北京：人民卫生出版社，2010：38-39．</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">美国妇产科医师学会．段涛，杨慧霞，译．新生儿脑病和脑性瘫痪：发病机制与病理生理[M]．北京：人民卫生出版社，2010：38-39．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">康熙字典：巳集上：水部[M]．同文书局影印本．北京：中华书局，1962：50．</div>
@@ -282,10 +282,10 @@
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">中国企业投资协会，台湾并购与私募股权协会，汇盈国际投资集团．投资台湾：大陆企业赴台投资指南[M]．北京：九州出版社，2013．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">罗斯基．战前中国经济的增长[M]．唐巧天，毛立坤，姜修宪，译．杭州：浙江大学出版社，2009．</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">罗斯基．唐巧天，毛立坤，姜修宪，译．战前中国经济的增长[M]．杭州：浙江大学出版社，2009．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社，2012．</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩．金吾伦，胡新和，译．科学革命的结构：第 4 版[M]．2 版．北京：北京大学出版社，2012．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[78]</div><div class="csl-right-inline">侯文顺．高分子物理：高分子材料分析、选择与改性[M]．北京：化学工业出版社，2010：119．</div>
@@ -492,10 +492,10 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Gibbs J T, Huang L N. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Laplace P S. A philosophical essay on probabilities[M]. Truscott F W, Emory F L, trans. Dover, 1951.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Laplace P S. Truscott F W, Emory F L, trans. A philosophical essay on probabilities[M]. Dover, 1951.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">拉普拉斯, Pierre-Simon．概率哲学[M]．张三，李四，译．北京：未名出版社，1951．</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">拉普拉斯, Pierre-Simon．张三，李四，译．概率哲学[M]．北京：未名出版社，1951．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
@@ -570,7 +570,7 @@
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">任继愈．中国哲学发展史（先秦卷）[M]．北京：人民出版社，1983．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">实藤惠秀．中国人留学日本史[M]．谭汝谦，林启彦，译．香港：香港中文大学出版社，1982．</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">实藤惠秀．谭汝谦，林启彦，译．中国人留学日本史[M]．香港：香港中文大学出版社，1982．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">金冲及．周恩来传[M]．北京：人民出版社、中央文献出版社，1989．</div>
@@ -690,7 +690,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. Marsden W, tran. The travels of Marco Polo[M]. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
@@ -720,7 +720,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">高鸿钧，程汉大．英美法原论[M]．北京大学出版社，2013．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">[美]富勒．法律的道德性[M]．郑戈，译．商务印书馆，2005．</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">[美]富勒．郑戈，译．法律的道德性[M]．商务印书馆，2005．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">季卫东．法律程序的意义：对中国法制建设的另一种思考[J]．中国社会科学，1993（1）：83-103．</div>
@@ -729,7 +729,7 @@
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">王保树．股份有限公司机关构造中的董事和董事会[M]//梁慧星．民商法论丛：卷 1．法律出版社，1994：110．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">[德]莱纳·沃尔夫．风险法的风险[M]．陈霄，译//刘刚．风险规制：德国的理论与实践．法律出版社，2012．</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">[德]莱纳·沃尔夫．陈霄，译．风险法的风险[M]//刘刚．风险规制：德国的理论与实践．法律出版社，2012．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">何海波．判决书上网[N]．法制日报，2000-05-21（2）．</div>
@@ -786,7 +786,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平．精简机构是一场革命[M]//邓小平文选：卷 2．2 版．人民出版社，1994．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特．奥本海国际法：上卷第一分册[M]．王铁崖，陈体强，译．8 版．商务印书馆，1971．</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特．王铁崖，陈体强，译．奥本海国际法：上卷第一分册[M]．8 版．商务印书馆，1971．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">瞿同祖．中国法律与中国社会[M]．商务印书馆，2010．</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. White House tutors Kremlin in how a presidency works[N]. New York Times, 1990-06-15(A1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran. MIT Press, 1996.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. Rehg W, tran. Between facts and norms: contributions to a discourse theory of law and democracy[M]. MIT Press, 1996.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
@@ -963,7 +963,7 @@
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">ジュリスト[EB/OL]．[2022-09-01]．<a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">欧中坦．千方百计上京城：清朝的京控[M]．谢鹏程，译//高道蕴，高鸿钧，贺卫方．美国学者论中国法律传统．中国政法大学出版社，1994．</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">欧中坦．谢鹏程，译．千方百计上京城：清朝的京控[M]//高道蕴，高鸿钧，贺卫方．美国学者论中国法律传统．中国政法大学出版社，1994．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[86]</div><div class="csl-right-inline">温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]．<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>．</div>
@@ -1086,10 +1086,10 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Piaget J, Inhelder B. The psychology of the child[M]. Quadrige, 1966.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, tran. 2nd ed. Basic Books, 1969.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J, Inhelder B. Weaver H, tran. The psychology of the child[M]. 2nd ed. Basic Books, 1969.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, tran. Basic Books, 2010.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. Strachey J, tran. The interpretation of dreams: The complete and definitive text[M]. Basic Books, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Rowling J K. Harry Potter and the sorceror’s stone[M]. Pottermore Publishing, 2015.</div>
@@ -1125,13 +1125,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">King James Bible[M]. King James Bible Online, 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an[M]. Abdel Haleem M A S, tran. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Abdel Haleem M A S, tran. The Qur’an[M]. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">The Torah: The five books of Moses[M]. 3rd ed. The Jewish Publication Society, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. Poetics[M]. Butcher S H, tran. The Internet Classics Archive, 1994.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. Butcher S H, tran. Poetics[M]. The Internet Classics Archive, 1994.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Shakespeare W. Much ado about nothing[M]. Washington Square Press, 1995.</div>
@@ -1149,7 +1149,7 @@
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger M. On the essence of truth[M]. Sallis J, tran.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger M. Sallis J, tran. On the essence of truth[M]//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//Balota D A, Marsh E J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
