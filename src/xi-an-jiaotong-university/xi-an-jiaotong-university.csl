@@ -41,6 +41,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -97,10 +98,14 @@
             </if>
           </choose>
           <choose>
-            <if type="article article-journal standard" match="none">
-              <!-- 预印本和期刊文章的编号用于其他位置 -->
+            <if type="patent" variable="call-number" match="all">
+              <!-- 专利优先使用申请号 -->
               <text variable="call-number"/>
             </if>
+            <else-if type="article article-journal standard" match="none">
+              <!-- 预印本和期刊文章的编号用于其他位置 -->
+              <text variable="number"/>
+            </else-if>
           </choose>
           <choose>
             <if type="collection manuscript personal_communication" match="any">
