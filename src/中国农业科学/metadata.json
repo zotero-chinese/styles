@@ -1,0 +1,29 @@
+{
+  "dir": "中国农业科学",
+  "file": "中国农业科学.csl",
+  "style_class": "in-text",
+  "title": "中国农业科学",
+  "id": "https://www.zotero-chinese.com/styles/中国农业科学",
+  "link_self": "https://www.zotero-chinese.com/styles/中国农业科学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）",
+  "link_documentation": "https://www.chinaagrisci.com/CN/column/column6.shtml",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "science",
+  "summary": "添加平行语言支持，即在中文文献后添加其英文的翻译。作者为全部大写，显示所有作者文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，显示 `DOI`。",
+  "updated": "2025-04-19T15:29:07+08:00",
+  "citations": "<sup>[1-8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-60 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">[1]\t库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.\n    <div class=\"csl-block\">库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012. (in Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[2]\tFan X, Sommers C H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>\n  <div class=\"csl-entry\">[3]\t贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.\n    <div class=\"csl-block\">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52. (in Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[4]\tFourney M E. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>\n  <div class=\"csl-entry\">[5]\t武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9.\n    <div class=\"csl-block\">武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现. 测绘科学, 2008, 33(5): 8-9. (in Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[6]\tMyburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. The genome of eucalyptus grandis. Nature, 2014, 510: 356-362.</div>\n  <div class=\"csl-entry\">[7]\t中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. (2012-01-16).\n    <div class=\"csl-block\">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. (2012-01-16). (in Chinese)</div>\n  </div>\n  <div class=\"csl-entry\">[8]\tBawden D. Origins and concepts of digital literacy. (2008-05-04).</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

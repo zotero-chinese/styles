@@ -1,0 +1,33 @@
+{
+  "dir": "GB-T-7714—2015（注释，双语，姓名不大写，无URL、DOI，重复引用不省略）",
+  "file": "GB-T-7714—2015（注释，双语，姓名不大写，无URL、DOI，重复引用不省略）.csl",
+  "style_class": "note",
+  "title": "GB/T 7714—2015（注释，双语，姓名不大写，无 URL、DOI，重复引用不省略）",
+  "id": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（注释，双语，姓名不大写，无URL、DOI，重复引用不省略）",
+  "link_self": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（注释，双语，姓名不大写，无URL、DOI，重复引用不省略）",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（注释，双语，姓名不大写，无URL、DOI）",
+  "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A",
+  "author": [
+    {
+      "name": "牛耕田"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "note",
+  "field": "generic-base",
+  "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 重复引用不省略。",
+  "updated": "2025-04-19T23:13:58+08:00",
+  "citations": "<sup>1</sup> 库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>\n<sup>2</sup> Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.<br>\n<sup>3</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>\n<sup>4</sup> Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>\n<sup>5</sup> 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.<br>\n<sup>6</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.<br>\n<sup>7</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.<br>\n<sup>8</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 357.<br>\n<sup>9</sup> Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 326-329.<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

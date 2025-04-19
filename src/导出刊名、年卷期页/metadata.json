@@ -1,0 +1,27 @@
+{
+  "dir": "导出刊名、年卷期页",
+  "file": "导出刊名、年卷期页.csl",
+  "style_class": "in-text",
+  "title": "导出刊名、年卷期页",
+  "id": "https://www.zotero-chinese.com/styles/导出刊名、年卷期页",
+  "link_self": "https://www.zotero-chinese.com/styles/导出刊名、年卷期页",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "updated": "2025-04-19T23:05:40+08:00",
+  "citations": "<sup>[1-8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>\n  <div class=\"csl-entry\">Food irradiation research and technology[M]. 2 版. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>\n  <div class=\"csl-entry\">面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>\n  <div class=\"csl-entry\">Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, 1971年8月23—25日, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>\n  <div class=\"csl-entry\">测绘科学, 2008, 33(5): 8-9.</div>\n  <div class=\"csl-entry\">Nature, 2014, 510: 356-362.</div>\n  <div class=\"csl-entry\">第 29 次中国互联网络发展状况统计报告[R]. 2012.</div>\n  <div class=\"csl-entry\">Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "无标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
