@@ -1,0 +1,29 @@
+{
+  "dir": "国际金融研究",
+  "file": "国际金融研究.csl",
+  "style_class": "in-text",
+  "title": "国际金融研究",
+  "id": "https://www.zotero-chinese.com/styles/国际金融研究",
+  "link_self": "https://www.zotero-chinese.com/styles/国际金融研究",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI，全角括号）",
+  "link_documentation": "http://www.gjjryj.org.cn/CN/column/column2.shtml",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "social_science",
+  "summary": "《国际金融研究》投稿指南",
+  "updated": "2025-01-18T20:26:03+08:00",
+  "citations": "（库恩，2012）<br>\n（Fourney，c1971）<br>\n（贾东琴和柯平，2011）<br>\n（Fan &#38; Sommers，2013）<br>\n（武丽丽等，2008）<br>\n（Myburg et al.，2014）<br>\n（中国互联网络信息中心，2012；Bawden，2008）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">[1] 贾东琴，柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集：2011 年卷. 北京：国家图书馆出版社，2011：45-52</div>\n  <div class=\"csl-entry\">[2] 库恩. 科学革命的结构：第 4 版[M]. 金吾伦，胡新和，译. 2 版. 北京：北京大学出版社，2012</div>\n  <div class=\"csl-entry\">[3] 武丽丽，华一新，张亚军，等. “北斗一号”监控管理网设计与实现[J]. 测绘科学，2008，33（5）：8-9</div>\n  <div class=\"csl-entry\">[4] 中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R]. 2012</div>\n  <div class=\"csl-entry\">[5] Bawden D. Origins and concepts of digital literacy[EB/OL]. （2008-05-04）[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>\n  <div class=\"csl-entry\">[6] Fan X，Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa：Blackwell Publishing，2013：25-26</div>\n  <div class=\"csl-entry\">[7] Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics，August 23–25, 1971，University of Southern California, Los Angeles, California. New York：ASME，c1971：17-38</div>\n  <div class=\"csl-entry\">[8] Myburg A A，Grattapaglia D，Tuskan G A，et al. The genome of eucalyptus grandis[J]. Nature，2014，510：356-362</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

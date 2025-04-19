@@ -1,0 +1,33 @@
+{
+  "dir": "北京林业大学",
+  "file": "北京林业大学.csl",
+  "style_class": "in-text",
+  "title": "北京林业大学",
+  "id": "https://www.zotero-chinese.com/styles/北京林业大学",
+  "link_self": "https://www.zotero-chinese.com/styles/北京林业大学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
+  "link_documentation": "http://graduate.bjfu.edu.cn/xwgl/xwlw/349457.html",
+  "author": [
+    {
+      "name": "不秃燃的小老弟"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "《北京林业大学研究生学位论文写作指南》（2023年11月更新）",
+  "updated": "2025-01-08T17:10:42+08:00",
+  "citations": "<sup>[1-4]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">Jeon S H, Kim S, Kim D. Real-time Optimal Landing Control of the MIT Mini Cheetah[J]. arXiv preprint arXiv:2110.02799, 2021.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">张三. 如何有效学习英语[EB]. 微信公众号“英语学习指南”, 2022-06-20.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">Innfos. Robots[EB/OL]. 2020-01-01[2020-04-30]. <a href=\"https://innfos.com/\">https://innfos.com/</a>.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">萧钰. 出版业信息化迈入快车道[EB/OL]. 2001-12-19[2002-04-15]. <a href=\"http://www.reader.com/news/20011219/200112190019.html\">http://www.reader.com/news/20011219/200112190019.html</a>.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

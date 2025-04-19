@@ -1,0 +1,29 @@
+{
+  "dir": "湖南大学（顺序编码）",
+  "file": "湖南大学（顺序编码）.csl",
+  "style_class": "in-text",
+  "title": "湖南大学（顺序编码）",
+  "id": "https://www.zotero-chinese.com/styles/湖南大学（顺序编码）",
+  "link_self": "https://www.zotero-chinese.com/styles/湖南大学（顺序编码）",
+  "link_template": "http://www.zotero.org/styles/chinese-gb7714-1987-numeric",
+  "link_documentation": "http://gra.hnu.edu.cn/info/1276/3444.htm",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "湖南大学研究生学位论文撰写规范",
+  "updated": "2025-01-08T17:10:39+08:00",
+  "citations": "<sup>[1-11]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">张直明，张言，陈北熊．滑动轴承的流体动力润滑理论．北京：高等教育出版社，1986，104-105</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Mitchell A L. Introduction to genetic algorithms. Cambridge: MIT Press, 1996, 35-40</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">李斌，沙键，张其瑞，等．介观耦合电路的量子压缩效应．科学通报，1996，41(14)：1275-1277</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Chen D H, Bogy D B, Wang K C, et al. Singular stress field  near the comer of jointed dissimilar materials. Journal of  Applied Mechanics, 1993, 60(3): 607-613</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">张筑生．微分半动力系统的不变集：［北京大学硕士学位论文］．北京：北京大学数学系数学研究所，1995，60-65</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Cairns B R. Infrared spectroscopic studies of solid oxygen: [dissertation]. Berkeley: Univ. of California, 1965, 89-91</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">田荣．连续与非连续变形分析的流形方法及其在土力学中的应用．见：中国土木工程学会第八届全国土力学及岩土工程学术会议论文集．北京：万国学术出版社，1999，51-53</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">Melbourne C. Load relieving systems. In: Proc of Int Conf on  Non conventional Structures. London, 1987, 93-95</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[9]</div><div class=\"csl-right-inline\">姚光起．一种氧化锆材料的制备方法．中国专利．891056088，1980-07-03</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[10]</div><div class=\"csl-right-inline\">Jenkins L. Testimony of Emund Chairman of FASB. <a href=\"https://doi.org/www.fasb.org.uk\">www.fasb.org.uk</a>, 2002-02-14</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[11]</div><div class=\"csl-right-inline\">福轩．中国汽车工业核心竞争力评析．中国机电日报，2002-04-20</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

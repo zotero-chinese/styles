@@ -1,0 +1,29 @@
+{
+  "dir": "湖南师范大学",
+  "file": "湖南师范大学.csl",
+  "style_class": "in-text",
+  "title": "湖南师范大学",
+  "id": "https://www.zotero-chinese.com/styles/湖南师范大学",
+  "link_self": "https://www.zotero-chinese.com/styles/湖南师范大学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2005（顺序编码，双语）",
+  "link_documentation": "https://yjsy.hunnu.edu.cn/__local/3/04/8A/26688DAF90A1EDD477ADBE21D15_88680BF7_56B1F.pdf",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "湖南师范大学研究生学位论文的撰写格式（处发〔2006〕42 号）",
+  "updated": "2025-01-08T17:10:42+08:00",
+  "citations": "<sup>[1-6]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">夏鲁惠. 高等学校毕业设计(论文)教学情况调研报告[J]. 高等理科教育, 2004(1): 46-48, 52.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Heider, E.R. &#38; D.C. Olivier. The structure of the color space in naming and memory for two languages [J]. <i>Cognitive Psychology</i>, 1972, 3(2): 337-354.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">伍蠡甫. 西方文论选[M]. 上海: 上海译文出版社, 1979: 12-17.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">张筑生. 微分半动力系统的不变集[D]. 北京: 北京大学数学系数学研究所, 1983: 1-7.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">冯西桥, 何树延. 核反应堆管道和压力容器的LBB分析[R]. 北京: 清华大学核能技术设计研究院, 1998: 9-10.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">GB/T 16159—1996, 汉语拼音正词法基本规则[S].</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

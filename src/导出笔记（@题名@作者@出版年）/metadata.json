@@ -1,0 +1,26 @@
+{
+  "dir": "导出笔记（@题名@作者@出版年）",
+  "file": "导出笔记（@题名@作者@出版年）.csl",
+  "style_class": "in-text",
+  "title": "导出笔记（@题名@作者@出版年）",
+  "id": "https://www.zotero-chinese.com/styles/导出笔记（@题名@作者@出版年）",
+  "link_self": "https://www.zotero-chinese.com/styles/导出笔记（@题名@作者@出版年）",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "updated": "2024-06-19T00:37:02+08:00",
+  "citations": "<sup>[1–8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">@科学革命的结构：第 4 版@库恩. (@2012)</div>\n  <div class=\"csl-entry\">@Food irradiation research and technology@Fan X, Sommers C H. (@2013)</div>\n  <div class=\"csl-entry\">@面向数字素养的高校图书馆数字服务体系研究@贾东琴, 柯平. (@2011)</div>\n  <div class=\"csl-entry\">@Advances in holographic photoelasticity@Fourney M E. (@c1971)</div>\n  <div class=\"csl-entry\">@“北斗一号”监控管理网设计与实现@武丽丽, 华一新, 等. (@2008)</div>\n  <div class=\"csl-entry\">@The genome of eucalyptus grandis@Myburg A A, Grattapaglia D, et al. (@2014)</div>\n  <div class=\"csl-entry\">@第 29 次中国互联网络发展状况统计报告@中国互联网络信息中心. (@2012)</div>\n  <div class=\"csl-entry\">@Origins and concepts of digital literacy@Bawden D. (@2008)</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无URL",
+    "无DOI"
+  ]
+}
