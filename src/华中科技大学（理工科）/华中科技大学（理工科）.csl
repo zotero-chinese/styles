@@ -4,7 +4,7 @@
     <title>华中科技大学（理工科）</title>
     <id>https://www.zotero-chinese.com/styles/华中科技大学（理工科）</id>
     <link href="https://www.zotero-chinese.com/styles/华中科技大学（理工科）" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="http://gs.hust.edu.cn/info/1041/5462.htm" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>理工科-博士-华中科技大学学位论文参考模板（2023-02-10 发布）</summary>
-    <updated>2025-01-08T17:10:40+08:00</updated>
+    <updated>2025-04-19T15:29:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

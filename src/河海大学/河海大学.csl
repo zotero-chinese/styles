@@ -5,7 +5,7 @@
     <title-short>HHU</title-short>
     <id>https://www.zotero-chinese.com/styles/河海大学</id>
     <link href="https://www.zotero-chinese.com/styles/河海大学" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="https://gs.hhu.edu.cn/_upload/article/files/30/7d/e5eafe3b4ef28e40f4569d9f928b/8ce9b41e-9c28-44e4-81a5-fff20722ab93.pdf" rel="documentation"/>
     <author>
       <name>不秃燃的小老弟</name>
@@ -13,7 +13,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2025-01-08T17:34:43+08:00</updated>
+    <updated>2025-04-19T15:29:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

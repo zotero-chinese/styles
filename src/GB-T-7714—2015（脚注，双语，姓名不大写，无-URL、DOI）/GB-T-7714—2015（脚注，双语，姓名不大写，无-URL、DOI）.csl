@@ -4,7 +4,7 @@
     <title>GB/T 7714—2015（脚注，双语，姓名不大写，无 URL、DOI）</title>
     <id>https://www.zotero-chinese.com/styles/GB-T-7714—2015（脚注，双语，姓名不大写，无-URL、DOI）</id>
     <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（脚注，双语，姓名不大写，无-URL、DOI）" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（脚注，双语）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
@@ -17,7 +17,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2024-06-18T23:16:03+08:00</updated>
+    <updated>2025-04-19T15:32:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

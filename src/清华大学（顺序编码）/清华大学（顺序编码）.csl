@@ -4,7 +4,7 @@
     <title>清华大学（顺序编码）</title>
     <id>https://www.zotero-chinese.com/styles/清华大学（顺序编码）</id>
     <link href="https://www.zotero-chinese.com/styles/清华大学（顺序编码）" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&amp;parentColumnId=0010506&amp;itemSeq=5365" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>清华大学研究生学位论文写作指南（2023 年 3 月）</summary>
-    <updated>2025-02-10T18:11:59+08:00</updated>
+    <updated>2025-04-19T15:29:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

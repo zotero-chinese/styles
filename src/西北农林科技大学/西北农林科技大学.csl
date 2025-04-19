@@ -5,7 +5,7 @@
     <title-short>NWAFU</title-short>
     <id>https://www.zotero-chinese.com/styles/西北农林科技大学</id>
     <link href="https://www.zotero-chinese.com/styles/西北农林科技大学" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
     <link href="https://yjshy.nwafu.edu.cn/xwgl/xwsy/xwlwxzgf/8ae4dda6e6be4ac6895f509d84bc68c3.htm" rel="documentation"/>
     <author>
       <name>YuYuYu</name>
@@ -26,7 +26,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>《西北农林科技大学研究生学位论文撰写规范指导意见》（2024-03-14）附件2. 参考文献著录规则</summary>
-    <updated>2025-01-18T20:26:04+08:00</updated>
+    <updated>2025-04-19T15:30:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

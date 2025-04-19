@@ -5,7 +5,7 @@
     <title-short>ZJU</title-short>
     <id>https://www.zotero-chinese.com/styles/浙江大学</id>
     <link href="https://www.zotero-chinese.com/styles/浙江大学" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
     <link href="http://grs.zju.edu.cn/redir.php?catalog_id=10038&amp;object_id=12782" rel="documentation"/>
     <author>
       <name>yc</name>
@@ -21,7 +21,7 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2025-01-08T16:50:30+08:00</updated>
+    <updated>2025-04-19T15:30:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

@@ -4,7 +4,7 @@
     <title>中华心血管病杂志</title>
     <id>https://www.zotero-chinese.com/styles/中华心血管病杂志</id>
     <link href="https://www.zotero-chinese.com/styles/中华心血管病杂志" rel="self"/>
-    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语）" rel="template"/>
     <link href="http://www.cjcv.org.cn/author/4323.jhtml" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <summary>1. 默认语言为英文；2. 按照语言显示“等”或“et al.”；3. 姓名取消全大写；4. 西文的名无空格；5. 仅纯电子资源显示载体类型标识“OL”、“引用日期”和 URL；6. 页码的冒号前无空格；7. 优先显示 DOI。</summary>
-    <updated>2025-01-08T17:10:42+08:00</updated>
+    <updated>2025-04-19T15:35:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

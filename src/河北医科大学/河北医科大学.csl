@@ -5,7 +5,7 @@
     <title-short>HBMU</title-short>
     <id>https://www.zotero-chinese.com/styles/河北医科大学</id>
     <link href="https://www.zotero-chinese.com/styles/河北医科大学" rel="self"/>
-    <link href="http://www.zotero.org/styles/chinese-gb7714-2005-numeric" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语）" rel="template"/>
     <link href="https://gschool.hebmu.edu.cn/a/2020/03/06/0774B2A85AC24B679BF1A9DA7363AA33.html" rel="documentation"/>
     <author>
       <name>godwin_ma</name>
@@ -18,7 +18,7 @@
     <category field="generic-base"/>
     <category field="medicine"/>
     <summary>根据学校最新学硕论文格式要求修改和完善，在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
-    <updated>2025-03-12T14:50:00+08:00</updated>
+    <updated>2025-04-19T15:35:13+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

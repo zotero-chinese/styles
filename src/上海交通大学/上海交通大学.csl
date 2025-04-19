@@ -4,7 +4,7 @@
     <title>上海交通大学</title>
     <id>https://www.zotero-chinese.com/styles/上海交通大学</id>
     <link href="https://www.zotero-chinese.com/styles/上海交通大学" rel="self"/>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="https://gk.sjtu.edu.cn/Data/View/648" rel="documentation"/>
     <author>
       <name>redleafnew</name>
@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 区分中文和西文的“等”和“et al.”。2. 西文名缩写，名在前姓在后。3. 不显示 DOI。4. 网页显示URL。</summary>
-    <updated>2025-01-08T17:10:36+08:00</updated>
+    <updated>2025-04-19T15:29:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
