@@ -5,7 +5,7 @@
   "title": "外语教学与研究",
   "id": "https://www.zotero-chinese.com/styles/外语教学与研究",
   "link_self": "https://www.zotero-chinese.com/styles/外语教学与研究",
-  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无-URL、DOI，全角括号）",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无URL、DOI，全角括号）",
   "link_documentation": "https://wjyy.cbpt.cnki.net/WKG/WebPublication/wkTextContent.aspx?navigationContentID=fb02c076-ad27-4740-aa32-01c23807b2f2&mid=wjyy",
   "author": [
     {
@@ -16,7 +16,7 @@
   "citation_format": "author-date",
   "field": "linguistics",
   "summary": "《外语教学与研究》参考文献格式要求",
-  "updated": "2025-01-18T20:26:04+08:00",
+  "updated": "2025-04-19T23:05:40+08:00",
   "citations": "(Hornby 2000)<br>\n(中国社会科学院语言研究所词典编辑室 2002）<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">Hornby, A. S. 2000. <i>Oxford Advanced Learner’s Dictionary of Current English</i>, ed. Sally Wehmeier (6th edition) [M]. Oxford: OUP.</div>\n  <div class=\"csl-entry\">中国社会科学院语言研究所词典编辑室（编），2002，《现代汉语词典》[C]，外语教学与研究出版社语言学与辞书部双语词典编辑室译。北京：外语教学与研究出版社。</div>\n</div>",
   "tags": [

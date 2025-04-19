@@ -5,7 +5,7 @@
     <title-short>RUC (undergraguate)</title-short>
     <id>https://www.zotero-chinese.com/styles/中国人民大学（本科）</id>
     <link href="https://www.zotero-chinese.com/styles/中国人民大学（本科）" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无-URL、DOI）" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
     <link href="http://www.zotero.org/styles/apa" rel="template"/>
     <link href="http://jiaowu.ruc.edu.cn/docs/2023-01/f90c79b8b21c4229bbe7f9c79abb7c14.doc" rel="documentation"/>
     <author>
@@ -14,7 +14,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2025-01-08T17:10:42+08:00</updated>
+    <updated>2025-04-19T23:05:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

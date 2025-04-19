@@ -5,7 +5,7 @@
   "title": "材料导报",
   "id": "https://www.zotero-chinese.com/styles/材料导报",
   "link_self": "https://www.zotero-chinese.com/styles/材料导报",
-  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无-URL、DOI）",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）",
   "link_documentation": "http://www.mat-rev.com/cldb/ch/common_item.aspx?parent_id=20140107045538001&menu_id=20180524023530008",
   "author": [
     {
@@ -16,7 +16,7 @@
   "citation_format": "numeric",
   "field": "chemistry",
   "summary": "《材料导报》研究论文(Research article)投稿模板.docx (2021-12-15)；参考文献及人名著录格式要求.pdf (2021-12-14)",
-  "updated": "2025-01-08T17:10:40+08:00",
+  "updated": "2025-04-19T23:05:39+08:00",
   "citations": "<sup>[1-8]</sup>",
   "bibliography": "<div class=\"csl-bib-body maxoffset-39 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">1\t2012 (in Chinese)\n    <div class=\"csl-block\">库恩. <i>科学革命的结构：第 4 版</i>. 金吾伦, 胡新和, 译. 2 版. 北京大学出版社, 2012.</div>\n  </div>\n  <div class=\"csl-entry\">2\tFan X, Sommers C H. <i>Food irradiation research and technology</i>. 2nd ed. Blackwell Publishing, Ames, Iowa, 2013, pp. 25-26.</div>\n  <div class=\"csl-entry\">3\t2011, pp. 45-52 (in Chinese)\n    <div class=\"csl-block\">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会年会论文集: 2011 年卷. 国家图书馆出版社, 2011, pp. 45-52.</div>\n  </div>\n  <div class=\"csl-entry\">4\tFourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. ASME, New York, c1971, pp. 17-38.</div>\n  <div class=\"csl-entry\">5\t2008, 33(5): 8-9 (in Chinese)\n    <div class=\"csl-block\">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现. <i>测绘科学</i>, 2008, 33(5): 8-9.</div>\n  </div>\n  <div class=\"csl-entry\">6\tMyburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis. <i>Nature</i>, 2014, 510: 356-362.</div>\n  <div class=\"csl-entry\">7\t2012 (in Chinese)\n    <div class=\"csl-block\">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告. 2012.</div>\n  </div>\n  <div class=\"csl-entry\">8\tBawden D. Origins and concepts of digital literacy. 2008. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n</div>",
   "tags": [

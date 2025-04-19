@@ -4,7 +4,7 @@
     <title>水科学进展</title>
     <id>https://www.zotero-chinese.com/styles/水科学进展</id>
     <link href="https://www.zotero-chinese.com/styles/水科学进展" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无-URL、DOI）" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI）" rel="template"/>
     <link href="https://www.zotero-chinese.com/styles/植物保护学报" rel="template"/>
     <link href="https://www.zotero-chinese.com/styles/营销科学学报" rel="template"/>
     <link href="http://skxjz.nhri.cn/news/tougaozhinan.htm" rel="documentation"/>
@@ -16,7 +16,7 @@
     <category field="science"/>
     <issn>l001-6791</issn>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
-    <updated>2025-01-08T17:10:37+08:00</updated>
+    <updated>2025-04-19T23:05:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
