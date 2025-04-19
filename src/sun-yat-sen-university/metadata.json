@@ -3,9 +3,9 @@
   "file": "sun-yat-sen-university.csl",
   "style_class": "in-text",
   "title": "中山大学",
-  "id": "http://www.zotero.org/styles/sun-yat-sen-university",
-  "link_self": "http://www.zotero.org/styles/sun-yat-sen-university",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/中山大学",
+  "link_self": "https://www.zotero-chinese.com/styles/中山大学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，无 URL、DOI）",
   "link_documentation": "https://graduate.sysu.edu.cn/rules",
   "author": [
     {

@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>地质学报</title>
-    <id>http://www.zotero.org/styles/acta-geologica-sinica</id>
-    <link href="http://www.zotero.org/styles/acta-geologica-sinica" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2005-author-date-bilingual" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/地质学报</id>
+    <link href="https://www.zotero-chinese.com/styles/地质学报" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T 7714—2005（著者-出版年，双语）" rel="template"/>
     <link href="https://www.geojournals.cn/dzxb/dzxb/site/menu/2008061202354001" rel="documentation"/>
     <author>
       <name>韩小土</name>

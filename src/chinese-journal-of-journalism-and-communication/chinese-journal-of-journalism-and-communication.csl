@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>国际新闻界</title>
-    <id>http://www.zotero.org/styles/chinese-journal-of-journalism-and-communication</id>
-    <link href="http://www.zotero.org/styles/chinese-journal-of-journalism-and-communication" rel="self"/>
-    <link href="http://www.zotero.org/styles/citation-specifications-for-comprehensive-journals-author-date" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/国际新闻界</id>
+    <link href="https://www.zotero-chinese.com/styles/国际新闻界" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）" rel="template"/>
     <link href="http://cjjc.ruc.edu.cn/CN/column/7/items" rel="documentation"/>
     <link href="http://cjjc.ruc.edu.cn/CN/item/downloadFile.do?id=98" rel="documentation"/>
     <author>

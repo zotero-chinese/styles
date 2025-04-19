@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with="." initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>湖南师范大学</title>
-    <id>http://www.zotero.org/styles/hunan-normal-university</id>
-    <link href="http://www.zotero.org/styles/hunan-normal-university" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2005-numeric-bilingual" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/湖南师范大学</id>
+    <link href="https://www.zotero-chinese.com/styles/湖南师范大学" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T 7714—2005（顺序编码，双语）" rel="template"/>
     <link href="https://yjsy.hunnu.edu.cn/__local/3/04/8A/26688DAF90A1EDD477ADBE21D15_88680BF7_56B1F.pdf" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

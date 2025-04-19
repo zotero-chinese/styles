@@ -3,9 +3,9 @@
   "file": "south-china-university-of-technology-school-of-public-administration.csl",
   "style_class": "in-text",
   "title": "华南理工大学 - 公共管理学院",
-  "id": "http://www.zotero.org/styles/south-china-university-of-technology-school-of-public-administration",
-  "link_self": "http://www.zotero.org/styles/south-china-university-of-technology-school-of-public-administration",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/华南理工大学 - 公共管理学院",
+  "link_self": "https://www.zotero-chinese.com/styles/华南理工大学 - 公共管理学院",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
   "link_documentation": "https://github.com/zotero-chinese/styles/issues/366",
   "author": [
     {

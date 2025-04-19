@@ -3,9 +3,9 @@
   "file": "nanjing-institute-of-technology.csl",
   "style_class": "in-text",
   "title": "南京工程学院",
-  "id": "http://www.zotero.org/styles/nanjing-institute-of-technology",
-  "link_self": "http://www.zotero.org/styles/nanjing-institute-of-technology",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/南京工程学院",
+  "link_self": "https://www.zotero-chinese.com/styles/南京工程学院",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
   "link_documentation": "https://grad.njit.edu.cn/info/1166/1978.htm",
   "author": [
     {

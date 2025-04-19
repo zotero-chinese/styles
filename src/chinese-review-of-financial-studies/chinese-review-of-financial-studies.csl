@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>金融评论</title>
-    <id>http://www.zotero.org/styles/chinese-review-of-financial-studies</id>
-    <link href="http://www.zotero.org/styles/chinese-review-of-financial-studies" rel="self"/>
-    <link href="http://www.zotero.org/styles/citation-specifications-for-comprehensive-journals-author-date" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/金融评论</id>
+    <link href="https://www.zotero-chinese.com/styles/金融评论" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）" rel="template"/>
     <link href="https://jrpl.ajcass.com/" rel="documentation"/>
     <link href="https://mp.weixin.qq.com/s/ojm3BFLHQKY4E_OJEag6Ew" rel="documentation"/>
     <author>

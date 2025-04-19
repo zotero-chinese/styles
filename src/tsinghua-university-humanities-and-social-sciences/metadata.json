@@ -3,9 +3,9 @@
   "file": "tsinghua-university-humanities-and-social-sciences.csl",
   "style_class": "note",
   "title": "清华大学（人文社科）",
-  "id": "http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences",
-  "link_self": "http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences",
-  "link_template": "http://www.zotero.org/styles/citation-specifications-for-comprehensive-journals-note",
+  "id": "https://www.zotero-chinese.com/styles/清华大学（人文社科）",
+  "link_self": "https://www.zotero-chinese.com/styles/清华大学（人文社科）",
+  "link_template": "https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）",
   "link_documentation": "http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&parentColumnId=0010506&itemSeq=5365",
   "author": [
     {

@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>综合性期刊文献引证技术规范（著者—出版年）</title>
-    <id>http://www.zotero.org/styles/citation-specifications-for-comprehensive-journals-author-date</id>
-    <link href="http://www.zotero.org/styles/citation-specifications-for-comprehensive-journals-author-date" rel="self"/>
-    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）</id>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="https://wjk.usst.edu.cn/2022/0523/c13371a269712/page.htm" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>教育史研究</title>
-    <id>http://www.zotero.org/styles/educational-history-studies</id>
-    <link href="http://www.zotero.org/styles/educational-history-studies" rel="self"/>
-    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/教育史研究</id>
+    <link href="https://www.zotero-chinese.com/styles/教育史研究" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDLAST2020&amp;filename=JYUY202001020" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

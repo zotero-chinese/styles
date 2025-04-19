@@ -3,9 +3,9 @@
   "file": "southeast-university.csl",
   "style_class": "in-text",
   "title": "东南大学",
-  "id": "http://www.zotero.org/styles/southeast-university",
-  "link_self": "http://www.zotero.org/styles/southeast-university",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/东南大学",
+  "link_self": "https://www.zotero-chinese.com/styles/东南大学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
   "link_documentation": "https://seugs.seu.edu.cn/2023/0424/c26669a442680/page.htm",
   "author": [
     {

@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>新金融</title>
-    <id>http://www.zotero.org/styles/new-finance</id>
-    <link href="http://www.zotero.org/styles/new-finance" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/新金融</id>
+    <link href="https://www.zotero-chinese.com/styles/新金融" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI，全角括号）" rel="template"/>
     <link href="https://xjro.cbpt.cnki.net/WKC/WebPublication/wkList.aspx?columnID=eaf499e4-5e56-4b65-bf00-a5305c9c5eaf" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

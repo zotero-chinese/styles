@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale-sort="zh-CN" default-locale="en-US">
   <info>
     <title>考古</title>
-    <id>http://www.zotero.org/styles/archaeology</id>
-    <link href="http://www.zotero.org/styles/archaeology" rel="self"/>
-    <link href="http://www.zotero.org/styles/journal-of-management-world" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/考古</id>
+    <link href="https://www.zotero-chinese.com/styles/考古" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/管理世界" rel="template"/>
     <link href="https://kgzzs.ajcass.com/" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

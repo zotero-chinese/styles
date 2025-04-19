@@ -3,9 +3,9 @@
   "file": "beihang-university.csl",
   "style_class": "in-text",
   "title": "北京航空航天大学",
-  "id": "http://www.zotero.org/styles/beihang-university",
-  "link_self": "http://www.zotero.org/styles/beihang-university",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2005-numeric-bilingual",
+  "id": "https://www.zotero-chinese.com/styles/北京航空航天大学",
+  "link_self": "https://www.zotero-chinese.com/styles/北京航空航天大学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2005（顺序编码，双语）",
   "link_documentation": "http://graduate.buaa.edu.cn/info/1039/7831.htm",
   "author": [
     {

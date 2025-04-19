@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>清华大学（人文社科）</title>
-    <id>http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences</id>
-    <link href="http://www.zotero.org/styles/tsinghua-university-humanities-and-social-sciences" rel="self"/>
-    <link href="http://www.zotero.org/styles/citation-specifications-for-comprehensive-journals-note" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/清华大学（人文社科）</id>
+    <link href="https://www.zotero-chinese.com/styles/清华大学（人文社科）" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
     <link href="http://yjsy.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=001050603&amp;parentColumnId=0010506&amp;itemSeq=5365" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

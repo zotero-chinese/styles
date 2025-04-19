@@ -3,9 +3,9 @@
   "file": "shanghai-university.csl",
   "style_class": "in-text",
   "title": "上海大学",
-  "id": "http://www.zotero.org/styles/shanghai-university",
-  "link_self": "http://www.zotero.org/styles/shanghai-university",
-  "link_template": "http://www.zotero.org/styles/chinas-industrial-economics",
+  "id": "https://www.zotero-chinese.com/styles/上海大学",
+  "link_self": "https://www.zotero-chinese.com/styles/上海大学",
+  "link_template": "https://www.zotero-chinese.com/styles/中国工业经济",
   "link_documentation": "https://gs.shu.edu.cn/pygl.htm",
   "author": [
     {

@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" et-al-min="4" et-al-use-first="1" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>外交评论</title>
-    <id>http://www.zotero.org/styles/foreign-affairs-review</id>
-    <link href="http://www.zotero.org/styles/foreign-affairs-review" rel="self"/>
-    <link href="http://www.zotero.org/styles/journal-of-world-economics-and-politics" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/外交评论</id>
+    <link href="https://www.zotero-chinese.com/styles/外交评论" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/世界经济与政治" rel="template"/>
     <link href="https://wjxy.cbpt.cnki.net/WKH/WebPublication/index.aspx" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>

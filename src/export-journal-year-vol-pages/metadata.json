@@ -3,9 +3,9 @@
   "file": "export-journal-year-vol-pages.csl",
   "style_class": "in-text",
   "title": "导出刊名、年卷期页",
-  "id": "http://www.zotero.org/styles/export-journal-year-vol-pages",
-  "link_self": "http://www.zotero.org/styles/export-journal-year-vol-pages",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/导出刊名、年卷期页",
+  "link_self": "https://www.zotero-chinese.com/styles/导出刊名、年卷期页",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
   "author": [
     {
       "name": "韩小土"

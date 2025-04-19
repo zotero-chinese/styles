@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale-sort="zh-CN" default-locale="en-US">
   <info>
     <title>管理世界</title>
-    <id>http://www.zotero.org/styles/journal-of-management-world</id>
-    <link href="http://www.zotero.org/styles/journal-of-management-world" rel="self"/>
-    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/管理世界</id>
+    <link href="https://www.zotero-chinese.com/styles/管理世界" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="http://www.mwm.net.cn/Web/Format" rel="documentation"/>
     <author>
       <name>韩小土</name>

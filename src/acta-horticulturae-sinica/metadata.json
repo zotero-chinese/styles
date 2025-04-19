@@ -3,9 +3,9 @@
   "file": "acta-horticulturae-sinica.csl",
   "style_class": "in-text",
   "title": "园艺学报",
-  "id": "http://www.zotero.org/styles/acta-horticulturae-sinica",
-  "link_self": "http://www.zotero.org/styles/acta-horticulturae-sinica",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-author-date-bilingual-no-uppercase-no-url-doi-fullwidth-parentheses",
+  "id": "https://www.zotero-chinese.com/styles/园艺学报",
+  "link_self": "https://www.zotero-chinese.com/styles/园艺学报",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI，全角括号）",
   "link_documentation": "https://www.ahs.ac.cn/CN/column/column184.shtml",
   "author": [
     {

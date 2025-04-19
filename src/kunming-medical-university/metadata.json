@@ -3,9 +3,9 @@
   "file": "kunming-medical-university.csl",
   "style_class": "in-text",
   "title": "昆明医科大学",
-  "id": "http://www.zotero.org/styles/kunming-medical-university",
-  "link_self": "http://www.zotero.org/styles/kunming-medical-university",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/昆明医科大学",
+  "link_self": "https://www.zotero-chinese.com/styles/昆明医科大学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
   "link_documentation": "https://www.kmmu.edu.cn/list322.aspx",
   "author": [
     {

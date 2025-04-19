@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>太平洋学报</title>
-    <id>http://www.zotero.org/styles/pacific-journal</id>
-    <link href="http://www.zotero.org/styles/pacific-journal" rel="self"/>
-    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/太平洋学报</id>
+    <link href="https://www.zotero-chinese.com/styles/太平洋学报" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="http://www.pacificjournal.com.cn/CN/column/column41.shtml" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>

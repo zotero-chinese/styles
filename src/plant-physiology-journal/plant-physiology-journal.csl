@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " initialize-with="" initialize-with-hyphen="false" demote-non-dropping-particle="never" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>植物生理学报</title>
-    <id>http://www.zotero.org/styles/plant-physiology-journal</id>
-    <link href="http://www.zotero.org/styles/plant-physiology-journal" rel="self"/>
-    <link href="http://www.zotero.org/styles/biodiversity-science" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/植物生理学报</id>
+    <link href="https://www.zotero-chinese.com/styles/植物生理学报" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/生物多样性" rel="template"/>
     <link href="https://www.sciengine.com/PPJ/authorCenter?scroll=section_1" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

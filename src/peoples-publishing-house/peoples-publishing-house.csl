@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-as-sort-order="all" sort-separator=", " initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>人民出版社</title>
-    <id>http://www.zotero.org/styles/peoples-publishing-house</id>
-    <link href="http://www.zotero.org/styles/peoples-publishing-house" rel="self"/>
-    <link href="http://www.zotero.org/styles/social-sciences-in-china" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/人民出版社</id>
+    <link href="https://www.zotero-chinese.com/styles/人民出版社" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="http://www.pph166.com/" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <info>
     <title>中华医学会</title>
-    <id>http://www.zotero.org/styles/chinese-medical-association</id>
-    <link href="http://www.zotero.org/styles/chinese-medical-association" rel="self"/>
+    <id>https://www.zotero-chinese.com/styles/中华医学会</id>
+    <link href="https://www.zotero-chinese.com/styles/中华医学会" rel="self"/>
     <link href="https://cmaes.medline.org.cn/Login/tgxz.aspx" rel="documentation"/>
     <author>
       <name>韩小土</name>

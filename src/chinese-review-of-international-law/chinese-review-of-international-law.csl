@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize-with=". " demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
     <title>国际法研究</title>
-    <id>http://www.zotero.org/styles/chinese-review-of-international-law</id>
-    <link href="http://www.zotero.org/styles/chinese-review-of-international-law" rel="self"/>
-    <link href="http://www.zotero.org/styles/manual-of-legal-citation-multilingual-no-ibid" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/国际法研究</id>
+    <link href="https://www.zotero-chinese.com/styles/国际法研究" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/法学引注手册（多语言，重复引用不省略）" rel="template"/>
     <link href="https://guojifayanjiu.ajcass.com/Home/Show/?ChannelID=12791" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

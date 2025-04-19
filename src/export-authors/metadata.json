@@ -3,9 +3,9 @@
   "file": "export-authors.csl",
   "style_class": "in-text",
   "title": "导出全部作者",
-  "id": "http://www.zotero.org/styles/export-authors",
-  "link_self": "http://www.zotero.org/styles/export-authors",
-  "link_template": "http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi",
+  "id": "https://www.zotero-chinese.com/styles/导出全部作者",
+  "link_self": "https://www.zotero-chinese.com/styles/导出全部作者",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）",
   "author": [
     {
       "name": "韩小土"

@@ -3,8 +3,8 @@
   "file": "chinese-academy-of-forestry.csl",
   "style_class": "in-text",
   "title": "中国林业科学研究院",
-  "id": "http://www.zotero.org/styles/chinese-academy-of-forestry",
-  "link_self": "http://www.zotero.org/styles/chinese-academy-of-forestry",
+  "id": "https://www.zotero-chinese.com/styles/中国林业科学研究院",
+  "link_self": "https://www.zotero-chinese.com/styles/中国林业科学研究院",
   "link_template": "http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric",
   "link_documentation": "https://github.com/zotero-chinese/styles/issues/295",
   "author": [

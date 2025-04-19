@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>西北工业大学</title>
-    <id>http://www.zotero.org/styles/northwestern-polytechnical-university</id>
-    <link href="http://www.zotero.org/styles/northwestern-polytechnical-university" rel="self"/>
-    <link href="http://www.zotero.org/styles/gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
+    <id>https://www.zotero-chinese.com/styles/西北工业大学</id>
+    <link href="https://www.zotero-chinese.com/styles/西北工业大学" rel="self"/>
+    <link href="https://www.zotero-chinese.com/styles/GB-T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）" rel="template"/>
     <link href="https://gs.nwpu.edu.cn/info/2283/15345.htm" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>

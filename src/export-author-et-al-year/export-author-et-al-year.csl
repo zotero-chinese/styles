@@ -2,8 +2,8 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>导出作者、出版年</title>
-    <id>http://www.zotero.org/styles/export-author-et-al-year</id>
-    <link href="http://www.zotero.org/styles/export-author-et-al-year" rel="self"/>
+    <id>https://www.zotero-chinese.com/styles/导出作者、出版年</id>
+    <link href="https://www.zotero-chinese.com/styles/导出作者、出版年" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
     <author>
       <name>韩小土</name>
