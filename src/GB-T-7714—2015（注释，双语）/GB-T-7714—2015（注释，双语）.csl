@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714—2015（脚注，双语，重复引用不省略）</title>
-    <id>https://www.zotero-chinese.com/styles/GB-T-7714—2015（脚注，双语，重复引用不省略）</id>
-    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（脚注，双语，重复引用不省略）" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（脚注，双语）" rel="template"/>
+    <title>GB/T 7714—2015（注释，双语）</title>
+    <id>https://www.zotero-chinese.com/styles/GB-T-7714—2015（注释，双语）</id>
+    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（注释，双语）" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-note" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
     </author>
     <contributor>
       <name>Zeping Lee</name>
@@ -16,8 +16,8 @@
     </contributor>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 重复引用不省略，完整显示。</summary>
-    <updated>2025-04-19T15:32:10+08:00</updated>
+    <summary>按照语言显示“等”或“et al.”</summary>
+    <updated>2025-04-19T23:15:20+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -41,6 +41,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="ibid">同上</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -434,12 +435,36 @@
       <text macro="access"/>
     </group>
   </macro>
+  <!-- 注释中引用的格式 -->
+  <macro name="note-layout">
+    <choose>
+      <if position="ibid-with-locator">
+        <group delimiter=": ">
+          <text term="ibid"/>
+          <text variable="locator"/>
+        </group>
+      </if>
+      <else-if position="ibid">
+        <text term="ibid"/>
+      </else-if>
+      <else-if position="subsequent">
+        <group delimiter=": ">
+          <!-- 国标要求提供的示例中注释编号是用圈码，在 CSL 中无法实现 -->
+          <text variable="first-reference-note-number" prefix="同"/>
+          <text variable="locator"/>
+        </group>
+      </else-if>
+      <else>
+        <text macro="entry-layout"/>
+      </else>
+    </choose>
+  </macro>
   <citation et-al-min="4" et-al-use-first="3">
     <layout delimiter="; " suffix="." locale="en">
-      <text macro="entry-layout"/>
+      <text macro="note-layout"/>
     </layout>
     <layout delimiter="; " suffix=".">
-      <text macro="entry-layout"/>
+      <text macro="note-layout"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
