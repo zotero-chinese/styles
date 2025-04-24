@@ -264,6 +264,15 @@
 				"literal": "赵学功"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -497,7 +506,7 @@
 		],
 		"editor": [
 			{
-				"literal": "《环球科学》杂志社编"
+				"literal": "《环球科学》杂志社"
 			}
 		],
 		"translator": [
@@ -627,7 +636,7 @@
 				"literal": "马克思"
 			}
 		],
-		"editor": [
+		"container-author": [
 			{
 				"literal": "马克思"
 			},
@@ -667,6 +676,15 @@
 				"literal": "同济大学土木工程防灾国家重点实验室"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					5,
+					9
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -742,6 +760,15 @@
 				"literal": "American Water Works Association"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2012",
+					12,
+					10
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -760,7 +787,7 @@
 		"publisher-place": "武汉",
 		"title": "临床内科杂志",
 		"volume": "1984，1（1）-",
-		"author": [
+		"editor": [
 			{
 				"literal": "中华医学会湖北分会"
 			}
@@ -783,7 +810,7 @@
 		"publisher-place": "北京",
 		"title": "图书馆学通讯",
 		"volume": "1957（1）-1990（4）",
-		"author": [
+		"editor": [
 			{
 				"literal": "中国图书馆学会"
 			}
@@ -799,7 +826,7 @@
 		"publisher-place": "Washington, D.C.",
 		"title": "Science",
 		"volume": "1883, 1(1)-",
-		"author": [
+		"editor": [
 			{
 				"literal": "American Association for the Advancement of Science"
 			}
@@ -823,6 +850,15 @@
 		"title": "Public library quarterly",
 		"URL": "http://www.tandfonline.com/loi/wplq",
 		"volume": "1979, 1(1)-",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -926,6 +962,15 @@
 				"literal": "段明莲"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					25
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -950,6 +995,15 @@
 				"literal": "陈建军"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					3,
+					20
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -971,6 +1025,15 @@
 				"literal": "陈缮真"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -1035,6 +1098,15 @@
 				"literal": "石志飞"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -1613,6 +1685,15 @@
 				"given": "O."
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -1656,6 +1737,15 @@
 				"given": "Masato"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -1699,11 +1789,12 @@
 		"type": "book",
 		"event-place": "北京",
 		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
 		"publisher": "海洋出版社",
 		"publisher-place": "北京",
 		"title": "综合湿地管理：综合湿地管理国际研讨会论文集",
 		"title-short": "综合湿地管理",
-		"author": [
+		"editor": [
 			{
 				"literal": "牛志明"
 			},
@@ -1728,10 +1819,11 @@
 		"type": "book",
 		"event-place": "北京",
 		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
 		"publisher": "九州出版社",
 		"publisher-place": "北京",
 		"title": "台湾光复六十五周年暨抗战史实学术研讨会论文集",
-		"author": [
+		"editor": [
 			{
 				"literal": "中国社会科学院台湾史研究中心"
 			}
@@ -1838,6 +1930,7 @@
 		"type": "book",
 		"event-place": "北京",
 		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
 		"publisher": "经济科学出版社",
 		"publisher-place": "北京",
 		"title": "中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集",
@@ -1881,6 +1974,15 @@
 				"given": "S. S."
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -1917,6 +2019,15 @@
 				"given": "Zhi Hong"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -1930,10 +2041,11 @@
 		"type": "book",
 		"event-place": "Rotterdam",
 		"language": "en-US",
+		"note": "tex.entrytype: proceedings",
 		"publisher": "A. A. Balkema",
 		"publisher-place": "Rotterdam",
 		"title": "Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000",
-		"author": [
+		"editor": [
 			{
 				"family": "Yufin",
 				"given": "Sergey A."
@@ -1952,6 +2064,7 @@
 		"type": "book",
 		"event-place": "New Delhi",
 		"language": "en-US",
+		"note": "tex.entrytype: proceedings",
 		"publisher": "Springer",
 		"publisher-place": "New Delhi",
 		"title": "Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012",
@@ -2086,6 +2199,15 @@
 				"literal": "何筱梅"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2103,7 +2225,7 @@
 		"note": "page: 18",
 		"publisher": "Wright State University",
 		"publisher-place": "Ohio",
-		"title": "Improving Knowledge Graph Understanding with Contextual Views",
+		"title": "Improving knowledge graph understanding with contextual views",
 		"URL": "http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301",
 		"author": [
 			{
@@ -2111,6 +2233,15 @@
 				"given": "A."
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2287,6 +2418,15 @@
 				"literal": "中国联合网络通信有限公司研究院"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2320,6 +2460,15 @@
 				"given": "Matthew P."
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2384,7 +2533,16 @@
 			{
 				"literal": "United Nations Department of Economic and Social Affairs"
 			}
-		]
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.9.3:1",
@@ -2587,7 +2745,16 @@
 		"language": "en-US",
 		"number": "ISO 21378:2019",
 		"title": "Audit data collection",
-		"URL": "https://www.iso.org/standard/70823.html"
+		"URL": "https://www.iso.org/standard/70823.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.9.3:10",
@@ -2603,6 +2770,15 @@
 				"literal": "International Electrotechnical Commission (IEC)"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2621,6 +2797,15 @@
 		"publisher-place": "New York",
 		"title": "IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation",
 		"URL": "https://ieeexplore.ieee.org/document/9390505",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2640,7 +2825,16 @@
 			{
 				"literal": "American Institute of Aeronautics and Astronautics (AIAA)"
 			}
-		]
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.9.3:13",
@@ -2648,7 +2842,16 @@
 		"language": "en-US",
 		"number": "ISO/IEC 80079-20-2:2016(en)",
 		"title": "Explosive atmospheres-Part 20-2: Material characteristics-Combustible dusts test methods",
-		"URL": "https://www.iso.org/obp/ui/en/#!iso:std:66564:en"
+		"URL": "https://www.iso.org/obp/ui/en/#!iso:std:66564:en",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.9.3:14",
@@ -2656,7 +2859,16 @@
 		"language": "en-US",
 		"number": "ISO/IEC 80079-20-2:2016(fr)",
 		"title": "Atmosphères explosives-Partie 20-2: Caractéristiques des produits-Méthodes d’essai des poussières combustibles",
-		"URL": "https://www.iso.org/obp/ui/fr/#!iso:std:66564:fr"
+		"URL": "https://www.iso.org/obp/ui/fr/#!iso:std:66564:fr",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.10.3:1",
@@ -2747,6 +2959,15 @@
 				"literal": "康佐"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2857,6 +3078,15 @@
 				"literal": "中国科学院苏州生物医学工程技术研究所"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2947,6 +3177,15 @@
 				"literal": "TRISCO ICAP PTY LTD"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2971,7 +3210,7 @@
 		"type": "patent",
 		"event-place": "哈尔滨",
 		"language": "zh-CN",
-		"note": "publisher-place: 哈尔滨\npublisher: 哈尔滨工程大学出版社",
+		"note": "tex.location: 哈尔滨\npublisher: 哈尔滨工程大学出版社",
 		"publisher-place": "哈尔滨",
 		"title": "中国焊接行业专利成果展示汇编：2014-2023",
 		"author": [
@@ -3338,6 +3577,15 @@
 				"literal": "湖北省建设厅"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -3356,6 +3604,15 @@
 		"note": "type: collection\narchive-place: 武汉",
 		"title": "中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告",
 		"URL": "https://archive.whu.edu.cn/index/forwardView/20/51",
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -3376,6 +3633,15 @@
 				"given": "Hugh"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -3461,7 +3727,7 @@
 		"type": "map",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "dimensions: 128x84cm",
+		"note": "tex.entrytype: map\ndimensions: 128x84cm",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
 		"scale": "1:25000",
@@ -3484,7 +3750,7 @@
 		"type": "map",
 		"event-place": "武汉",
 		"language": "zh-CN",
-		"note": "dimensions: 138x96cm",
+		"note": "tex.entrytype: map\ndimensions: 138x96cm",
 		"publisher": "武汉大学出版社",
 		"publisher-place": "武汉",
 		"scale": "1:170000",
@@ -3507,7 +3773,7 @@
 		"type": "map",
 		"event-place": "武汉",
 		"language": "zh-CN",
-		"note": "dimensions: 97x67cm",
+		"note": "tex.entrytype: map\ndimensions: 97x67cm",
 		"publisher": "武汉大学出版社",
 		"publisher-place": "武汉",
 		"title": "阳新县标准地名图",
@@ -3529,7 +3795,7 @@
 		"type": "map",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "dimensions: 100x70cm",
+		"note": "tex.entrytype: map\ndimensions: 100x70cm",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
 		"scale": "1:3000000",
@@ -3554,13 +3820,23 @@
 		"id": "gbt7714.8.13:5",
 		"type": "map",
 		"language": "zh-CN",
+		"note": "tex.entrytype: map",
 		"title": "一带一路经济走廊及其途经城市分布地势图",
 		"URL": "http://ydyl.china.com.cn/2016-10/27/content_39582227.htm",
 		"author": [
 			{
 				"literal": "国家测绘地理信息局"
 			}
-		]
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.13:6",
@@ -3568,6 +3844,7 @@
 		"edition": "2",
 		"event-place": "北京",
 		"language": "zh-CN",
+		"note": "tex.entrytype: map",
 		"publisher": "中国地图出版社",
 		"publisher-place": "北京",
 		"title": "内蒙古自治区地图册",
@@ -3592,7 +3869,7 @@
 		"type": "map",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "type: map\nvolume: 第 2 册\npage: 6",
+		"note": "type: map\nvolume: 第 2 册\npage: 6\ntex.entrytype: map",
 		"publisher": "地图出版社",
 		"publisher-place": "北京",
 		"title": "中国历史地图集",
@@ -3614,6 +3891,7 @@
 		"type": "map",
 		"event-place": "上海",
 		"language": "zh-CN",
+		"note": "tex.entrytype: map",
 		"publisher": "商务印书馆",
 		"publisher-place": "上海",
 		"title": "京兆直隶图",
@@ -3623,6 +3901,15 @@
 				"literal": "童世亨"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -3636,6 +3923,7 @@
 		"type": "map",
 		"event-place": "Abingdon",
 		"language": "en-US",
+		"note": "tex.entrytype: map",
 		"publisher": "Routledge",
 		"publisher-place": "Abingdon",
 		"title": "Historical Atlas of Indonesia",
@@ -3706,6 +3994,15 @@
 				"literal": "卢宾宾"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					28
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
@@ -4025,6 +4322,7 @@
 		"type": "article",
 		"language": "zh-CN",
 		"note": "CSTR: 32003.36.ChinaXiv.202303.00020.V1",
+		"number": "ChinaXiv:202303.00020",
 		"publisher": "ChinaXiv",
 		"title": "元宇宙在图书馆的应用：理论研究与实践进展",
 		"URL": "http://www.chinaxiv.org/abs/202303.00020",
@@ -4060,6 +4358,7 @@
 		"type": "article",
 		"language": "zh-CN",
 		"note": "CSTR: 32012.36.PSSXiv.202408.01096",
+		"number": "PSSXiv:202408.01096",
 		"publisher": "PSSXiv",
 		"title": "数据要素的统计测算方法探究",
 		"URL": "https://zsyyb.cn/abs/202408.01096",
@@ -4188,14 +4487,18 @@
 		"type": "article",
 		"language": "en-US",
 		"note": "version: 2",
-		"title": "Controlled manipulation of light by cooperative response of atoms tn an opt ical lattice",
-		"URL": "https://doi.org/10.48550/arXiv.1112.613",
+		"number": "arXiv:1112.613",
+		"publisher": "arXiv",
+		"title": "Controlled manipulation of light by cooperative response of atoms tn an optical lattice",
+		"URL": "https://doi.org/10.48550/arXiv.1112.6136",
 		"author": [
 			{
-				"literal": "JENKINS S"
+				"family": "Jenkins",
+				"given": "Stewart D."
 			},
 			{
-				"literal": "RUOSTEKOSKI J"
+				"family": "Ruostekoski",
+				"given": "Janne"
 			}
 		],
 		"accessed": {

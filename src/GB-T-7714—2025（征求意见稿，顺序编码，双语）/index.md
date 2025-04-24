@@ -68,7 +68,7 @@
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">卷 39：乞致仕第一[M]//苏颂. 苏魏公文集：下册. 北京：中华书局，1988：590.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦，译//《环球科学》杂志社编. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京：机械工业出版社，2023：15-18.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦，译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京：机械工业出版社，2023：15-18.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">周易外传：卷 5[M]//王夫之. 船山全书：第 1 册. 修订版. 长沙：岳麓书社，2011：983-1029.</div>
@@ -200,7 +200,7 @@
     <div class="csl-left-margin">[62]</div><div class="csl-right-inline">何筱梅. 新媒体时代原生广告的策略与发展研究[D/OL]. 武汉：武汉大学，2016：24-25. <a href="http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782">http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">CHRISTOU A. Improving Knowledge Graph Understanding with Contextual Views[D/OL]. Ohio：Wright State University，2024：18. <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a>.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">CHRISTOU A. Improving knowledge graph understanding with contextual views[D/OL]. Ohio：Wright State University，2024：18. <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">曲恩熙. 社交媒体时代 AIGC 信息虚假研究[D/OL]. 大连：东北财经大学，2023：16. DOI:<a href="https://doi.org/10.27006/d.cnki.gdbcu.2023.000233">10.27006/d.cnki.gdbcu.2023.000233</a>.</div>
@@ -419,7 +419,7 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">BLOSS C S，WINEINGER N E，PETERS M，et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[PP/OL]. bioRxiv（2015-10-28）[2018-07-12]. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">JENKINS S，RUOSTEKOSKI J. Controlled manipulation of light by cooperative response of atoms tn an opt ical lattice[PP/OL]. V2. （2012-03-18）[2020-06-24]. <a href="https://doi.org/10.48550/arXiv.1112.613">https://doi.org/10.48550/arXiv.1112.613</a>.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">JENKINS S D，RUOSTEKOSKI J. Controlled manipulation of light by cooperative response of atoms tn an optical lattice[PP/OL]. V2. arXiv（2012-03-18）[2020-06-24]. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>.</div>
   </div>
 </div>
 
