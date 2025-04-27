@@ -1,10 +1,10 @@
 {
-  "dir": "journal-of-meteorological-research",
-  "file": "journal-of-meteorological-research.csl",
+  "dir": "Journal-of-Meteorological-Research",
+  "file": "Journal-of-Meteorological-Research.csl",
   "style_class": "in-text",
   "title": "Journal of Meteorological Research",
-  "id": "http://www.zotero.org/styles/journal-of-meteorological-research",
-  "link_self": "http://www.zotero.org/styles/journal-of-meteorological-research",
+  "id": "https://www.zotero-chinese.com/styles/Journal-of-Meteorological-Research",
+  "link_self": "https://www.zotero-chinese.com/styles/Journal-of-Meteorological-Research",
   "link_template": "http://www.zotero.org/styles/american-meteorological-society",
   "link_documentation": "http://jmr.cmsjournal.net/author_guide",
   "author": [

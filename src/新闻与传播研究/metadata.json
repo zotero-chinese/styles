@@ -1,0 +1,28 @@
+{
+  "dir": "新闻与传播研究",
+  "file": "新闻与传播研究.csl",
+  "style_class": "note",
+  "title": "新闻与传播研究",
+  "id": "https://www.zotero-chinese.com/styles/新闻与传播研究",
+  "link_self": "https://www.zotero-chinese.com/styles/新闻与传播研究",
+  "link_documentation": "http://www.xwycbyj.org/",
+  "author": [
+    {
+      "name": "Edward Zhou"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "communications",
+  "summary": "根据fanzhen《历史研究》引文规范、pulipuli制作的APA中文格式以及《新闻与传播研究》引文规范改制，具体用法和特性见说明",
+  "updated": "2024-06-06T13:18:48+08:00",
+  "citations": "<sup>1</sup> 库恩，《科学革命的结构：第 4 版》2，金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>\n<sup>2</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>\n<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年，第45–52页。<br>\n<sup>4</sup> M. E. Fourney, “Advances in holographic photoelasticity,” University of Southern California, Los Angeles, Californiac1971, pp. 17–38.<br>\n<sup>5</sup> 武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8–9页。<br>\n<sup>6</sup> Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, Vol. 510, 2014, pp. 356–362.<br>\n<sup>7</sup> Ibid.<br>\n<sup>8</sup> Ibid., p. 357.<br>\n<sup>9</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, pp. 326–329.<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年，第45–52页。</div>\n  <div class=\"csl-entry\">库恩，《科学革命的结构：第 4 版》2，金吾伦、胡新和译，北京：北京大学出版社，2012年。</div>\n  <div class=\"csl-entry\">武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8–9页。</div>\n  <div class=\"csl-entry\">Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.</div>\n  <div class=\"csl-entry\">M. E. Fourney, “Advances in holographic photoelasticity,” University of Southern California, Los Angeles, Californiac1971, pp. 17–38.</div>\n  <div class=\"csl-entry\">Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, Vol. 510, 2014, pp. 356–362.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
