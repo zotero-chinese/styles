@@ -4,7 +4,7 @@ import shutil
 from pathlib import Path
 
 ZOTERO_REPO_PREFIX = "https://zotero-chinese.com/styles"
-DEFAULT_BASE_STYLE = "gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi"
+DEFAULT_BASE_STYLE = "GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）"
 
 
 def make_style_id(style_name: str):
