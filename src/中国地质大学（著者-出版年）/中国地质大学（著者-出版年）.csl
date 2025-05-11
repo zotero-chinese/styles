@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" delimiter-precedes-last="contextual" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>中国地质大学（武汉）硕士研究生毕业论文引文样式规范（作者-年份）</title>
-    <id>https://www.zotero-chinese.com/styles/中国地质大学（武汉）作者-年份</id>
-    <link href="https://www.zotero-chinese.com/styles/中国地质大学（武汉）作者-年份" rel="self"/>
+    <title>中国地质大学（武汉）（著者-出版年）</title>
+    <id>https://www.zotero-chinese.com/styles/中国地质大学（武汉）（著者-出版年）</id>
+    <link href="https://www.zotero-chinese.com/styles/中国地质大学（武汉）（著者-出版年）" rel="self"/>
     <link href="https://www.zotero-chinese.com/styles/云南大学" rel="template"/>
     <link href="https://graduate.cug.edu.cn/info/1062/5671.htm" rel="documentation"/>
     <author>
@@ -12,8 +12,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>中国地质大学（武汉）硕士研究生毕业论文写作规范（2017版）</summary>
-    <updated>2025-05-10T17:10:42+08:00</updated>
+    <summary>中国地质大学（武汉）研究生学位论文写作规范（2013-12-11）</summary>
+    <updated>2025-05-11T17:38:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -28,7 +28,7 @@
     </terms>
   </locale>
   <locale>
-      <terms>
+    <terms>
       <term name="space-et-al"> 等</term>
     </terms>
   </locale>

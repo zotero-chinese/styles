@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>中国地质大学（顺序编码）</title>
-    <id>https://www.zotero-chinese.com/styles/中国地质大学（顺序编码）</id>
-    <link href="https://www.zotero-chinese.com/styles/中国地质大学（顺序编码）" rel="self"/>
+    <title>中国地质大学（武汉）（本科，顺序编码）</title>
+    <id>https://www.zotero-chinese.com/styles/中国地质大学（武汉）（本科，顺序编码）</id>
+    <link href="https://www.zotero-chinese.com/styles/中国地质大学（武汉）（本科，顺序编码）" rel="self"/>
     <link href="https://www.zotero-chinese.com/styles/北京大学（顺序编码）" rel="template"/>
     <link href="https://bksy.cug.edu.cn/info/1489/1851.htm" rel="documentation"/>
     <author>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中国地质大学（武汉）学士学位论文写作规范（2018版）</summary>
-    <updated>2025-04-21T17:10:42+08:00</updated>
+    <updated>2025-05-11T17:36:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
