@@ -8,7 +8,14 @@
 
 ### 引注
 
-（武丽丽 等，2008；Bawden，2008；贾东琴和柯平，2011；库恩，2012；中国互联网络信息中心，2012；Fan and Sommers，2013；Myburg et al.，2014；Fourney，c1971）
+（库恩，2012）<br>
+（Fourney，c1971）<br>
+（贾东琴和柯平，2011）<br>
+（Fan and Sommers，2013）<br>
+（武丽丽 等，2008）<br>
+（Myburg et al.，2014）<br>
+（Bawden，2008；中国互联网络信息中心，2012）<br>
+
 
 ### 参考文献表
 
@@ -27,12 +34,31 @@
 
 ### 引注
 
-（Sunstein，1996）<br>
-（Morris，2010，p.260）<br>
-（罗杰斯，2011，pp.326–329）<br>
-（Sunstein，1996；罗杰斯，2011）<br>
-（Sunstein，1996；陈登原，2000；Morris，2010）<br>
-（Sunstein，1996；Morris，2010；罗杰斯，2011）<br>
+（张三，2008，p.42）<br>
+张三 （2008，p.42）<br>
+（Jason，2008，p.42）<br>
+Jason （2008，p.42）<br>
+张三和李四 （2008）<br>
+Wang and Sun （2009）<br>
+（赵一和陈二，2008；Wolchik and West，2009）<br>
+张三 等 （2008）<br>
+Wang et al. （2009）<br>
+（赵一 等，2008；Wolchik et al.，2009）<br>
+张三 等 （2019a）<br>
+张三 等 （2019b）<br>
+Qian et al. （2020a）<br>
+Qian et al. （2020b）<br>
+（张三 等，2019a；Qian et al.，2020a）<br>
+张三 等 （2020a）<br>
+张三 等 （2020b）<br>
+Qian et al. （2009a）<br>
+Qian et al. （2009b）<br>
+（张三 等，2020a）<br>
+（Qian et al.，2009a）<br>
+（Wong，2007）<br>
+（Wong，2008）<br>
+（Edeline and Weinberger，2002a，2002b，2005，[no date]）<br>
+（Bai，2002；Deng and Feng，2005；Chen，2006）<br>
 
 
 ### GB/T 7714—2015 示例文献
