@@ -18,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <summary>投稿格式样例稿件.pdf</summary>
-    <updated>2025-05-11T17:05:32+08:00</updated>
+    <updated>2025-05-11T17:11:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -240,7 +240,7 @@
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
-          <text variable="container-title"/>
+          <text variable="container-title" form="short" strip-periods="true"/>
           <text macro="issued-date"/>
         </group>
         <text variable="page" prefix="(" suffix=")"/>
@@ -250,7 +250,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title"/>
+              <text variable="container-title" form="short" strip-periods="true"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
