@@ -3,6 +3,7 @@ import re
 import shutil
 from pathlib import Path
 
+ZOTERO_REPO_PREFIX = "https://zotero-chinese.com/styles"
 DEFAULT_BASE_STYLE = "gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi"
 
 
@@ -38,24 +39,24 @@ def main():
     )
     style_content = re.sub(
         r"<id>.*?</id>",
-        f"<id>http://www.zotero.org/styles/{style}</id>",
+        f"<id>{ZOTERO_REPO_PREFIX}/{style}</id>",
         style_content,
     )
     style_content = re.sub(
         r'<link .*? rel="self"/>',
-        f'<link href="http://www.zotero.org/styles/{style}" rel="self"/>',
+        f'<link href="{ZOTERO_REPO_PREFIX}/{style}" rel="self"/>',
         style_content,
     )
     if 'rel="template"' in style_content:
         style_content = re.sub(
             r'<link .*? rel="template"/>',
-            f'<link href="http://www.zotero.org/styles/{base_style}" rel="template"/>',
+            f'<link href="{ZOTERO_REPO_PREFIX}/{base_style}" rel="template"/>',
             style_content,
         )
     else:
         style_content = re.sub(
             r'rel="self"/>',
-            f'rel="self"/>\n    <link href="http://www.zotero.org/styles/{base_style}" rel="template"/>',
+            f'rel="self"/>\n    <link href="{ZOTERO_REPO_PREFIX}/{base_style}" rel="template"/>',
             style_content,
         )
     if "<summary>" in style_content:
