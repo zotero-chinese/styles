@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>征求意见稿.pdf</summary>
-    <updated>2025-04-24T23:23:07+08:00</updated>
+    <updated>2025-05-17T19:03:23+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -70,14 +70,7 @@
   <macro name="title">
     <group delimiter=". ">
       <group delimiter="：">
-        <choose>
-          <if type="personal_communication">
-            <text variable="title" prefix="[" suffix="]"/>
-          </if>
-          <else>
-            <text variable="title"/>
-          </else>
-        </choose>
+        <text variable="title"/>
         <choose>
           <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference periodical" match="none">
             <group delimiter="&#8195;">
@@ -130,7 +123,7 @@
       <else-if variable="number">
         <text variable="number"/>
       </else-if>
-      <else-if type="collection manuscript personal_communication" match="any">
+      <else-if type="collection manuscript personal_communication" variable="archive" match="any">
         <!-- 档案的档号 -->
         <text variable="archive_location"/>
       </else-if>
@@ -153,7 +146,7 @@
         <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等 -->
         <text value="A"/>
       </if>
-      <else-if type="book chapter classic entry-dictionary entry-encyclopedia pamphlet" match="any">
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -168,7 +161,7 @@
       <else-if type="patent">
         <text value="P"/>
       </else-if>
-      <else-if type="broadcast figure graphic motion_picture post post-weblog song speech webpage" variable="URL" match="all">
+      <else-if type="post post-weblog webpage" variable="URL" match="all">
         <text value="EB"/>
       </else-if>
       <else-if type="report">
@@ -182,6 +175,15 @@
       </else-if>
       <else-if type="thesis">
         <text value="D"/>
+      </else-if>
+      <else-if variable="archive">
+        <text value="A"/>
+      </else-if>
+      <else-if variable="URL DOI" match="any">
+        <text value="EB"/>
+      </else-if>
+      <else-if variable="publisher">
+        <text value="M"/>
       </else-if>
       <else>
         <text value="Z"/>
@@ -388,7 +390,7 @@
               </else>
             </choose>
           </else-if>
-          <else-if type="article-newspaper collection patent personal_communication report" match="any">
+          <else-if type="article-newspaper collection patent personal_communication report" variable="archive" match="any">
             <date variable="issued" form="numeric"/>
           </else-if>
           <else>

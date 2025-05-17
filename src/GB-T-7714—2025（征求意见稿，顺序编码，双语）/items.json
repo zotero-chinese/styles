@@ -267,9 +267,9 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2025",
-					2,
-					28
+					"2014",
+					6,
+					11
 				]
 			]
 		},
@@ -418,9 +418,9 @@
 		"accessed": {
 			"date-parts": [
 				[
-					"2025",
-					2,
-					28
+					"2013",
+					7,
+					14
 				]
 			]
 		},
@@ -630,7 +630,7 @@
 		"publisher": "人民出版社",
 		"publisher-place": "北京",
 		"title": "政治经济学批判",
-		"volume": "第 35 卷",
+		"volume": "35",
 		"author": [
 			{
 				"literal": "马克思"
@@ -814,7 +814,14 @@
 			{
 				"literal": "中国图书馆学会"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
 	},
 	{
 		"id": "gbt7714.8.4.2:3",
@@ -1149,7 +1156,9 @@
 		"id": "gbt7714.8.5.3:10",
 		"type": "article-journal",
 		"container-title": "The public-access computer systems review",
+		"ISSN": "1048-6542",
 		"issue": "2",
+		"journalAbbreviation": "Public-Access Comput. Syst. Rev.",
 		"language": "en-US",
 		"page": "61-66",
 		"title": "Cataloging internet resources",
@@ -1173,6 +1182,7 @@
 		"type": "article-journal",
 		"container-title": "Bulletin of the geological survey of Japan",
 		"issue": "5/6",
+		"journalAbbreviation": "Bull. Geol. Surv. Jpn.",
 		"language": "en-US",
 		"page": "169-176",
 		"title": "Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu",
@@ -1180,11 +1190,11 @@
 		"author": [
 			{
 				"family": "Saito",
-				"given": "M."
+				"given": "Makoto"
 			},
 			{
 				"family": "Miyazaki",
-				"given": "K."
+				"given": "Kazuhiro"
 			}
 		],
 		"issued": {
@@ -1199,11 +1209,10 @@
 		"id": "gbt7714.8.5.3:12",
 		"type": "article-journal",
 		"container-title": "Nature",
-		"ISSN": "1476-4687",
-		"journalAbbreviation": "Nature",
+		"ISSN": "0028-0836",
 		"language": "en-US",
 		"page": "605-609",
-		"title": "Carbon isotope evidence for the stepwise oxidation of the proterozoic environment",
+		"title": "Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment",
 		"volume": "359",
 		"author": [
 			{
@@ -1226,7 +1235,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"1992"
+					"1992",
+					10,
+					15
 				]
 			]
 		}
@@ -1236,6 +1247,7 @@
 		"type": "article-journal",
 		"container-title": "Cataloging & classification quarterly",
 		"issue": "8",
+		"journalAbbreviation": "Cat. Classif. Q.",
 		"language": "en-US",
 		"page": "696-715",
 		"title": "Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms",
@@ -1264,7 +1276,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2010"
+					"2010",
+					9,
+					23
 				]
 			]
 		}
@@ -1307,7 +1321,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2013"
+					"2013",
+					3,
+					1
 				]
 			]
 		}
@@ -1318,7 +1334,6 @@
 		"container-title": "Nature",
 		"DOI": "10.1038/nature13308",
 		"ISSN": "1476-4687",
-		"journalAbbreviation": "Nature",
 		"language": "en-US",
 		"page": "356-362",
 		"title": "The genome of Eucalyptus grandis",
@@ -1672,17 +1687,18 @@
 		"type": "article-journal",
 		"container-title": "Insect science",
 		"DOI": "10.1111/1744-7917.13496",
+		"journalAbbreviation": "Insect Sci.",
 		"language": "en-US",
 		"title": "Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps",
 		"URL": "https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001398099800001",
 		"author": [
 			{
 				"family": "Santer",
-				"given": "R. D."
+				"given": "Roger D."
 			},
 			{
 				"family": "Akanyeti",
-				"given": "O."
+				"given": "Otar"
 			}
 		],
 		"accessed": {
@@ -1706,6 +1722,8 @@
 		"id": "gbt7714.8.5.3:17",
 		"type": "article-journal",
 		"container-title": "Journal of electron spectroscopy and related phenomena",
+		"ISSN": "0368-2048",
+		"journalAbbreviation": "J. Electron Spectrosc. Relat. Phenom.",
 		"language": "en-US",
 		"page": "147370",
 		"title": "Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator",
@@ -1749,7 +1767,8 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2023"
+					"2023",
+					8
 				]
 			]
 		}
@@ -1800,7 +1819,7 @@
 			},
 			{
 				"family": "Swingland",
-				"given": "I. R."
+				"given": "Ian R."
 			},
 			{
 				"literal": "雷光春"
@@ -1971,7 +1990,7 @@
 		"author": [
 			{
 				"family": "Wang",
-				"given": "S. S."
+				"given": "Shan Shan"
 			}
 		],
 		"accessed": {
@@ -2045,6 +2064,7 @@
 		"publisher": "A. A. Balkema",
 		"publisher-place": "Rotterdam",
 		"title": "Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000",
+		"title-short": "Geoecology and computers",
 		"editor": [
 			{
 				"family": "Yufin",
@@ -2230,7 +2250,7 @@
 		"author": [
 			{
 				"family": "Christou",
-				"given": "A."
+				"given": "Antrea"
 			}
 		],
 		"accessed": {
@@ -2460,15 +2480,6 @@
 				"given": "Matthew P."
 			}
 		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2025",
-					2,
-					28
-				]
-			]
-		},
 		"issued": {
 			"date-parts": [
 				[
@@ -2528,7 +2539,7 @@
 		"type": "report",
 		"language": "en-US",
 		"title": "United Nations E-Government survey 2024: accelerating digital transformation for sustainable development",
-		"URL": "https://publicadministration.un.org/egovkb/enus/Reports/UN-E-Government-Survey-2024",
+		"URL": "https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024",
 		"author": [
 			{
 				"literal": "United Nations Department of Economic and Social Affairs"
@@ -2718,17 +2729,23 @@
 	},
 	{
 		"id": "gbt7714.8.9.3:8",
-		"type": "standard",
+		"type": "chapter",
+		"container-title": "文献工作国家标准汇编：3",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "editor: 全国文献工作标准化委员会\ncontainer-title: 文献工作国家标准汇编：3\npage: 59-92",
-		"number": "GB/T 2659—1986",
+		"note": "type: standard\nnumber: GB/T 2659—1986\ntex.entrysubtype: standard",
+		"page": "59-92",
 		"publisher": "中国标准出版社",
 		"publisher-place": "北京",
 		"title": "世界各国和地区名称代码",
 		"author": [
 			{
 				"literal": "国家标准局信息分类编码研究所"
+			}
+		],
+		"editor": [
+			{
+				"literal": "全国文献工作标准化委员会"
 			}
 		],
 		"issued": {
@@ -3207,10 +3224,11 @@
 	},
 	{
 		"id": "gbt7714.8.10.3:9",
-		"type": "patent",
+		"type": "book",
 		"event-place": "哈尔滨",
 		"language": "zh-CN",
-		"note": "tex.location: 哈尔滨\npublisher: 哈尔滨工程大学出版社",
+		"note": "type: patent\ntex.entrysubtype: patent",
+		"publisher": "哈尔滨工程大学出版社",
 		"publisher-place": "哈尔滨",
 		"title": "中国焊接行业专利成果展示汇编：2014-2023",
 		"author": [
@@ -3404,11 +3422,11 @@
 		"author": [
 			{
 				"family": "António",
-				"given": "M."
+				"given": "Marco"
 			},
 			{
 				"family": "Pepper",
-				"given": "L."
+				"given": "Lucy"
 			}
 		],
 		"accessed": {
@@ -3439,11 +3457,11 @@
 		"author": [
 			{
 				"family": "Bevington",
-				"given": "D."
+				"given": "David"
 			},
 			{
 				"family": "Brown",
-				"given": "J. R."
+				"given": "John Russell"
 			}
 		],
 		"accessed": {
@@ -3544,11 +3562,11 @@
 	},
 	{
 		"id": "gbt7714.8.12:1",
-		"type": "document",
+		"type": "personal_communication",
 		"archive": "中国第一历史档案馆",
 		"archive_location": "04-01-35-0399-039",
 		"language": "zh-CN",
-		"note": "type: collection\narchive-place: 北京",
+		"note": "archive-place: 北京\ntex.number: 04-01-35-0399-039\ntex.location: 北京\ntex.institution: 中国第一历史档案馆",
 		"title": "奏请上海道库洋务外销要款无款可筹仍拨药厘接济事",
 		"author": [
 			{
@@ -3565,11 +3583,11 @@
 	},
 	{
 		"id": "gbt7714.8.12:2",
-		"type": "document",
+		"type": "manuscript",
 		"archive": "湖北省档案馆",
 		"archive_location": "LS031-001-0001-001",
 		"language": "zh-CN",
-		"note": "type: collection\narchive-place: 武汉",
+		"note": "type: pamphlet\narchive-place: 武汉\ntex.number: LS031-001-0001-001\ntex.location: 武汉\ntex.institution: 湖北省档案馆",
 		"title": "湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令",
 		"URL": "https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF",
 		"author": [
@@ -3598,10 +3616,10 @@
 	},
 	{
 		"id": "gbt7714.8.12:3",
-		"type": "document",
+		"type": "manuscript",
 		"archive": "武汉大学档案馆",
 		"language": "zh-CN",
-		"note": "type: collection\narchive-place: 武汉",
+		"note": "type: pamphlet\narchive-place: 武汉\ntex.location: 武汉\ntex.institution: 武汉大学档案馆",
 		"title": "中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告",
 		"URL": "https://archive.whu.edu.cn/index/forwardView/20/51",
 		"accessed": {
@@ -3625,12 +3643,17 @@
 		"id": "gbt7714.8.12:4",
 		"type": "personal_communication",
 		"language": "en-US",
-		"title": "Letter to Bess of Hardwick",
+		"title": "[Letter to Bess of Hardwick]",
 		"URL": "https://www.bessofhardwick.org/letter.jsp?letter=25",
 		"author": [
 			{
 				"family": "Fitzwilliam",
 				"given": "Hugh"
+			}
+		],
+		"recipient": [
+			{
+				"literal": "Bess of Hardwick"
 			}
 		],
 		"accessed": {
@@ -3657,7 +3680,7 @@
 		"type": "book",
 		"event-place": "桂林",
 		"language": "zh-CN",
-		"note": "type: collection",
+		"note": "type: collection\ntex.entrysubtype: archive",
 		"publisher": "广西师范大学出版社",
 		"publisher-place": "桂林",
 		"title": "中国明朝档案总汇",
@@ -3682,7 +3705,7 @@
 		"type": "book",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "type: collection\npage: 150-152",
+		"note": "type: collection\npage: 150-152\ntex.entrysubtype: archive",
 		"publisher": "商务印书馆",
 		"publisher-place": "北京",
 		"title": "清代奏折汇编：农业·环境",
@@ -3708,7 +3731,7 @@
 		"container-title": "近代图书馆档案汇编",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "type: collection",
+		"note": "type: collection\ntex.entrytype: archive",
 		"page": "297",
 		"publisher": "国家图书馆出版社",
 		"publisher-place": "北京",
@@ -3869,7 +3892,7 @@
 		"type": "map",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "type: map\nvolume: 第 2 册\npage: 6\ntex.entrytype: map",
+		"note": "volume: 第 2 册\npage: 6\ntex.entrytype: map",
 		"publisher": "地图出版社",
 		"publisher-place": "北京",
 		"title": "中国历史地图集",
@@ -3929,7 +3952,8 @@
 		"title": "Historical Atlas of Indonesia",
 		"author": [
 			{
-				"literal": "CRIBB R"
+				"family": "Cribb",
+				"given": "Robert"
 			}
 		],
 		"issued": {
@@ -3942,10 +3966,10 @@
 	},
 	{
 		"id": "gbt7714.8.14:1",
-		"type": "dataset",
+		"type": "book",
 		"event-place": "北京",
 		"language": "zh-CN",
-		"note": "page: 10-75",
+		"note": "type: dataset\npage: 10-75\ntex.entrytype: book\ntex.entrysubtype: dataset",
 		"publisher": "中国农业科技出版社",
 		"publisher-place": "北京",
 		"title": "中国草地资源科学数据",
@@ -3967,6 +3991,7 @@
 		"type": "article-journal",
 		"container-title": "中国科学：地球科学",
 		"language": "zh-CN",
+		"note": "tex.entrysubtype: dataset",
 		"title": "ESDC：一种用于支持地学文献信息抽取的开放地球科学数据语料库",
 		"URL": "http://kns.cnki.net/kcms/detail/11.5842.P.20241113.0954.002.html",
 		"author": [
@@ -4321,7 +4346,7 @@
 		"id": "gbt7714.8.15:1",
 		"type": "article",
 		"language": "zh-CN",
-		"note": "CSTR: 32003.36.ChinaXiv.202303.00020.V1",
+		"note": "CSTR: 32003.36.ChinaXiv.202303.00020.V1\ntex.CSTR: 32003.36.ChinaXiv.202303.00020.V1",
 		"number": "ChinaXiv:202303.00020",
 		"publisher": "ChinaXiv",
 		"title": "元宇宙在图书馆的应用：理论研究与实践进展",
@@ -4357,7 +4382,7 @@
 		"id": "gbt7714.8.15:2",
 		"type": "article",
 		"language": "zh-CN",
-		"note": "CSTR: 32012.36.PSSXiv.202408.01096",
+		"note": "CSTR: 32012.36.PSSXiv.202408.01096\ntex.CSTR: 32012.36.PSSXiv.202408.01096",
 		"number": "PSSXiv:202408.01096",
 		"publisher": "PSSXiv",
 		"title": "数据要素的统计测算方法探究",
@@ -4396,7 +4421,7 @@
 		"id": "gbt7714.8.15:3",
 		"type": "article",
 		"language": "zh-CN",
-		"note": "version: 1\nCSTR: 16666.11.nbsdc.ye67g4dp",
+		"note": "version: 1\nCSTR: 16666.11.nbsdc.ye67g4dp\ntex.urldate: 2025-02-12\ntex.CSTR: 16666.11.nbsdc.ye67g4dp",
 		"publisher": "国家基础学科公共科学数据中心",
 		"title": "放射治疗成像与剂量控制体模数据集",
 		"author": [
@@ -4487,7 +4512,7 @@
 		"type": "article",
 		"language": "en-US",
 		"note": "version: 2",
-		"number": "arXiv:1112.613",
+		"number": "arXiv:1112.6136",
 		"publisher": "arXiv",
 		"title": "Controlled manipulation of light by cooperative response of atoms tn an optical lattice",
 		"URL": "https://doi.org/10.48550/arXiv.1112.6136",

@@ -80,7 +80,7 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴，等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津：天津科学技术出版社，1980：56-114.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">马克思. 政治经济学批判[M]//马克思，恩格斯. 马克思恩格斯全集：第 35 卷. 2 版. 北京：人民出版社，2013：302.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">马克思. 政治经济学批判[M]//马克思，恩格斯. 马克思恩格斯全集：卷35. 2 版. 北京：人民出版社，2013：302.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">楼梦麟，杨燕. 汶川地震基岩地震动特征分析[M/OL]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海：同济大学出版社，2011：11-12. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>.</div>
@@ -137,7 +137,7 @@
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">SAITO M，MIYAZAKI K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan，2006，57（5/6）：169-176.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">DES MARAIS D J，STRAUSS H，SUMMONS R E，et al. Carbon isotope evidence for the stepwise oxidation of the proterozoic environment[J]. Nature，1992，359：605-609.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">DES MARAIS D J，STRAUSS H，SUMMONS R E，et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature，1992，359：605-609.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">PARK J R，TOSAKA Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; classification quarterly，2010，48（8）：696-715. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a>.</div>
@@ -230,7 +230,7 @@
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">World Health Organization. Factors regulating the immune response: report of WHO Scientific Group[R]. Geneva：WHO，1970：4-5.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R/OL]. <a href="https://publicadministration.un.org/egovkb/enus/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/enus/Reports/UN-E-Government-Survey-2024</a>.</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R/OL]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[74]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 文献著录：第 4 部分 非书资料：GB/T 3792.4—2009[S]. 北京：中国标准出版社，2010：3.</div>
@@ -1059,7 +1059,7 @@
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 天津：全球化与亚太区域化国际研讨会，2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">[傅良佐致国务院电]：北洋档案 1011—5961[A]. 中国第二历史档案馆，1917-09-15.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">傅良佐致国务院电：北洋档案 1011—5961[A]. 中国第二历史档案馆，1917-09-15.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">党外人士座谈会记录：李劼人档案[A]. 中共四川省委统战部档案室，1950-07.</div>
@@ -1083,7 +1083,7 @@
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">SCHFIELD R S. The impact of scarcity and plenty on population change in England[M]//ROTBERG R I，RABB T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.：Cambridge University Press，1983：55-88.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">[Nixon to Kissinger]：Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD，1969-02-01.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Nixon to Kissinger：Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD，1969-02-01.</div>
   </div>
 </div>
 
@@ -1341,7 +1341,7 @@
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A/OL]. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">平成26年版犯罪白書[Z/OL]. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">平成26年版犯罪白書[EB/OL]. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">ジュリスト[EB/OL]. [2022-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
@@ -1695,13 +1695,13 @@
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP/OL]. V18.12. App Store，2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[Z/OL]//Epocrates medical references. V18.12. Google Play Store，2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. V18.12. Google Play Store，2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">TELLEGEN A，BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[Z/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[EB/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">ALONSO-TAPIA J，NIETO C，MERINO-TEJEDOR E，et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. PsycTESTS2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
@@ -1710,25 +1710,25 @@
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">CARDOZA D，MORRIS J K，MYERS H F，et al. Acculturative Stress Inventory (ASI)：TC022704[DS]. ETS TestLink2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">FORMAN M. One flew over the cuckoo’s nest[Z]. United Artists，1975.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">FORMAN M. One flew over the cuckoo’s nest[M]. United Artists，1975.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. American Pychological Association，（2017）. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">JACKSON P. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company，2001.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">JACKSON P. The lord of the rings: The fellowship of the ring[M/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company，2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">MALLE L. Goodbye children[Z]. Nouvelles Éditions de Films，1987.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">MALLE L. Goodbye children[M]. Nouvelles Éditions de Films，1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[Z]. Blown Deadline Productions; HBO，2002-2008.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[M]. Blown Deadline Productions; HBO，2002-2008.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">BARRIS K. Lemons：Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios，2017.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">BARRIS K. Lemons：Season 3, Episode 12[M]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios，2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">LYNCH J. Who shot Mr. Burns? (Part One)：Season 6, Episode 25[Z]. Gracie Films; Twentieth Century Fox Film Corporation，1995.</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">LYNCH J. Who shot Mr. Burns? (Part One)：Season 6, Episode 25[M]. Gracie Films; Twentieth Century Fox Film Corporation，1995.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">GIERTZ S. Why you should make useless things[EB/OL]. TED Conferences，（2018-04）. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.</div>
@@ -1749,22 +1749,22 @@
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline">University of Oxford. How do geckos walk on water?[EB/OL]. YouTube，（2016-12-06）. <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">BACH J S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca，2010.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">BACH J S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[M]. Decca，2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">BOWIE D. Blackstar[Z]. Columbia，2016.</div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">BOWIE D. Blackstar[M]. Columbia，2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">VAN BEETHOVEN L. Symphony No. 3 in E-flat major[Z]. Brilliant Classics，2012.</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">VAN BEETHOVEN L. Symphony No. 3 in E-flat major[M]. Brilliant Classics，2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Beyoncé. Formation[Z]. Parkwood; Columbia，2016.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Beyoncé. Formation[M]. Parkwood; Columbia，2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">Childish Gambino. This is America[Z]. mcDJ; RCA，2018.</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">Childish Gambino. This is America[M]. mcDJ; RCA，2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">LAMAR K. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment，2017.</div>
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">LAMAR K. Humble[M]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment，2017.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[136]</div><div class="csl-right-inline">VEDANTAM S. Hidden brain[EB/OL]. NPR，（2015）. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
@@ -1773,22 +1773,22 @@
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">GLASS I. Amusement park：443[EB/OL]. WBEZ Chicago，（2011-08-12）. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">DE BEAUVOIR S. Simone de Beauvoir discusses the art of writing[Z/OL]. Studs Terkel Radio Archive; The Chicago History Museum，1960. <a href="https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing">https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</a>.</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">DE BEAUVOIR S. Simone de Beauvoir discusses the art of writing[A/OL]. Studs Terkel Radio Archive; The Chicago History Museum，1960-05-04. <a href="https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing">https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">KING M L Jr. I have a dream[EB/OL]. American Rhetoric，（1963-08-28）. <a href="https://www.americanrhetoric.com/speeches/mlkihaveadream.htm">https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">DELACROIX E. Faust attempts to seduce Marguerite[Z]. Paris, France：The Louvre，1826-1827.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">DELACROIX E. Faust attempts to seduce Marguerite[A]. Paris, France：The Louvre，1826/1827.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">WOOD G. American gothic[EB/OL]. Chicago, IL, United States：Art Institute of Chicago，（1930）. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">WOOD G. American gothic[A/OL]. Chicago, IL, United States：Art Institute of Chicago，（1930）. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[EB/OL]. Openclipart，（2018）. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
+    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[A/OL]. Openclipart，（2018）. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">ROSSMAN J，PALMER R. Sorting through our space junk[EB/OL]. World Science Festival，（2015）. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">ROSSMAN J，PALMER R. Sorting through our space junk[A/OL]. World Science Festival，（2015）. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[144]</div><div class="csl-right-inline">CABLE D. The racial dot map[CM/OL]. University of Virginia：Weldon Cooper Center for Public Service，2013. <a href="https://demographics.coopercenter.org/Racial-Dot-Map">https://demographics.coopercenter.org/Racial-Dot-Map</a>.</div>
@@ -1797,10 +1797,10 @@
     <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM/OL]. <a href="https://goo.gl/YYE3GR">https://goo.gl/YYE3GR</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">MCCURRY S. Afghan girl[EB/OL]. National Geographic，（1985）. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
+    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">MCCURRY S. Afghan girl[A/OL]. National Geographic，（1985）. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">RINALDI J. Photograph series of a boy who finds his footing after abuse by those he trusted[EB/OL]. The Pulitzer Prizes，（2016）. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
+    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">RINALDI J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. The Pulitzer Prizes，（2016）. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[148]</div><div class="csl-right-inline">CANAN E，VASILEV J. Lecture notes on resource allocation[A/OL]. Department of Management Control and Information Systems, University of Chile，2019. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
@@ -1908,7 +1908,7 @@
     <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act[A/OL]//Fla. Stat. 2009. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
+    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A/OL]. 2014. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
