@@ -1,7 +1,7 @@
-from copy import deepcopy
+import argparse
 import datetime
 import re
-import argparse
+from copy import deepcopy
 
 from lxml import etree
 
@@ -202,6 +202,8 @@ def modify_layouts(root, halwidth_macro_names):
             root.xpath(f".//cs:{area}/cs:layout", namespaces=NSMAP)
         )
         if len(layouts) == 1:
+            if layouts[0].xpath(".//*[@variable='citation-number']", namespaces=NSMAP):
+                break
             if main_locale == "zh":
                 layout_zh = layouts[0]
                 layout_en = deepcopy(layout_zh)
