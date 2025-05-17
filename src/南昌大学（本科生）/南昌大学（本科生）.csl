@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>南昌大学本科生毕业设计（论文）书写式样</summary>
-    <updated>2025-04-19T23:05:40+08:00</updated>
+    <updated>2025-05-17T15:13:30+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -700,9 +700,6 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]" locale="en">
-      <text variable="citation-number"/>
-    </layout>
     <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
       <text variable="citation-number"/>
     </layout>
