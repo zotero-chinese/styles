@@ -75,4 +75,4 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
           source-repo: "git@github.com:zotero-chinese/styles.git" # github仓库地址
-          destination-repo: "git@gitee.com:redleafnew00/Chinese-STD-GB-T-7714-related-csl.git" # gitee仓库地址
+          destination-repo: "git@gitee.com:zotero-chinese-x/styles.git" # gitee仓库地址
