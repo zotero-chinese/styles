@@ -4,6 +4,7 @@
   "description": "CSL 中文样式库",
   "private": "true",
   "type": "module",
+  "packageManager": "pnpm@10.10.0",
   "scripts": {
     "dev": "tsx ./lib/index.ts watch",
     "build": "tsx ./lib/index.ts all",

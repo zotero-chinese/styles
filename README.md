@@ -67,8 +67,8 @@ cd styles
 git submodule update --init
 
 # 如果是第一次接触 Node.js 或运行后续命令时提示 pnpm 命令不存在，
-# 请执行下一行以安装 pnpm 包管理器
-npm install -g pnpm
+# 请执行下一行以启用 pnpm 包管理器
+corepack enable
 
 # 安装依赖
 pnpm install
