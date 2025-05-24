@@ -17,7 +17,7 @@
     <text variable="title"/>
     <choose>
       <if type="bill broadcast legal_case legislation patent report song standard" match="any">
-        <text variable="number" prefix=": "/>
+        <number variable="number" prefix=": "/>
       </if>
     </choose>
   </macro>

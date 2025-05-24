@@ -117,7 +117,7 @@
   </macro>
   <macro name="page">
     <label variable="page" suffix=" " form="short"/>
-    <text variable="page"/>
+    <number variable="page"/>
   </macro>
   <macro name="edition">
     <choose>
@@ -128,7 +128,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition" suffix="."/>
+        <number variable="edition" suffix="."/>
       </else>
     </choose>
   </macro>
@@ -170,7 +170,7 @@
           <group prefix=" " delimiter=", ">
             <text variable="container-title" font-style="italic"/>
             <text macro="day-month"/>
-            <text variable="edition"/>
+            <number variable="edition"/>
           </group>
         </if>
         <else-if type="thesis">
@@ -196,14 +196,14 @@
                 <text macro="editor"/>
               </group>
               <group delimiter=" ">
-                <text variable="volume" prefix="Vol. " suffix=" of"/>
+                <number variable="volume" prefix="Vol. " suffix=" of"/>
                 <text variable="collection-title" font-style="italic"/>
                 <text macro="series-editor"/>
               </group>
               <text variable="event"/>
               <text variable="publisher-place"/>
               <text variable="publisher"/>
-              <text variable="page"/>
+              <number variable="page"/>
             </group>
           </group>
         </else-if>
@@ -216,7 +216,7 @@
                 <text macro="editor"/>
               </group>
               <group delimiter=" ">
-                <text variable="volume" prefix="Vol. " suffix=" of"/>
+                <number variable="volume" prefix="Vol. " suffix=" of"/>
                 <text variable="collection-title" font-style="italic"/>
                 <text macro="series-editor"/>
               </group>
@@ -232,8 +232,8 @@
           <group prefix=" " suffix="." delimiter=" ">
             <text variable="container-title" form="short" font-style="italic" suffix=","/>
             <group delimiter=", ">
-              <text variable="volume" font-weight="bold"/>
-              <text variable="page"/>
+              <number variable="volume" font-weight="bold"/>
+              <number variable="page"/>
               <text variable="DOI" prefix="https://doi.org/"/>
             </group>
           </group>

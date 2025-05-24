@@ -141,11 +141,11 @@
     <choose>
       <if is-numeric="volume">
         <text value="第"/>
-        <text variable="volume"/>
+        <number variable="volume"/>
         <label variable="volume"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -229,12 +229,12 @@
       <group>
         <choose>
           <if is-numeric="volume">
-            <text variable="volume"/>
+            <number variable="volume"/>
           </if>
         </choose>
         <choose>
           <if is-numeric="issue">
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </if>
         </choose>
       </group>
@@ -245,11 +245,11 @@
     <choose>
       <if is-numeric="issue">
         <text value="第"/>
-        <text variable="issue"/>
+        <number variable="issue"/>
         <label variable="issue"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -257,11 +257,11 @@
     <choose>
       <if is-numeric="edition">
         <text value="第"/>
-        <text variable="edition"/>
+        <number variable="edition"/>
         <label variable="edition"/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>

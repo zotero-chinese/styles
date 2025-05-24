@@ -168,7 +168,7 @@
         <label variable="issue" form="short"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -188,7 +188,7 @@
         <number variable="page"/>
       </if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>
@@ -198,7 +198,7 @@
         <number variable="number" prefix="No."/>
       </if>
       <else>
-        <text variable="number"/>
+        <number variable="number"/>
       </else>
     </choose>
   </macro>

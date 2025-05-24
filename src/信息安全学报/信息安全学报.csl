@@ -94,7 +94,7 @@
           <choose>
             <if type="article article-journal report" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
+              <number variable="number"/>
             </if>
           </choose>
           <choose>
@@ -132,7 +132,7 @@
           <choose>
             <if type="article article-journal report" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
+              <number variable="number"/>
             </if>
           </choose>
           <choose>
@@ -167,11 +167,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
           </if>
           <else>
-            <text variable="volume"/>
+            <number variable="volume"/>
           </else>
         </choose>
       </if>
@@ -290,7 +290,7 @@
           </group>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -301,11 +301,11 @@
                 <text variable="container-title"/>
               </group>
               <text macro="issued-year"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -320,7 +320,7 @@
           </group>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -331,11 +331,11 @@
                 <text variable="original-container-title"/>
               </group>
               <text macro="issued-year"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -350,7 +350,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -358,9 +358,9 @@
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <text variable="volume"/>
+      <number variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
+    <number variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -372,7 +372,7 @@
       <else-if type="paper-conference">
         <group delimiter=": ">
           <text macro="issued-year"/>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else-if>
       <else-if type="dataset post post-weblog software webpage" match="any"/>
@@ -387,7 +387,7 @@
                 <text term="report" text-case="capitalize-first"/>
               </else>
             </choose>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
           <group delimiter=", ">
             <text variable="publisher"/>
@@ -401,7 +401,7 @@
           <group delimiter=" ">
             <text variable="publisher"/>
             <text term="preprint" text-case="capitalize-first"/>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
         </group>
       </else-if>
@@ -424,7 +424,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -438,7 +438,7 @@
       <else-if type="paper-conference">
         <group delimiter=": ">
           <text macro="issued-year"/>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else-if>
       <else-if type="dataset post post-weblog software webpage" match="any"/>
@@ -453,7 +453,7 @@
                 <text term="report" text-case="capitalize-first"/>
               </else>
             </choose>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
           <group delimiter=", ">
             <text variable="original-publisher"/>
@@ -467,7 +467,7 @@
           <group delimiter=" ">
             <text variable="original-publisher"/>
             <text term="preprint" text-case="capitalize-first"/>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
         </group>
       </else-if>
@@ -490,7 +490,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>

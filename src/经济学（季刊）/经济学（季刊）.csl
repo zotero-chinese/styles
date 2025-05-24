@@ -182,11 +182,11 @@
         <group delimiter=", ">
           <text variable="container-title" text-case="title"/>
           <date variable="issued" form="text" date-parts="year"/>
-          <text variable="volume"/>
+          <number variable="volume"/>
         </group>
-        <text variable="issue" prefix="(" suffix=")"/>
+        <number variable="issue" prefix="(" suffix=")"/>
       </group>
-      <text variable="page"/>
+      <number variable="page"/>
     </group>
   </macro>
   <macro name="container-periodical-zh">
@@ -214,7 +214,7 @@
         <label variable="issue"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -226,7 +226,7 @@
         <label variable="volume"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -238,7 +238,7 @@
         <label variable="page"/>
       </if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>

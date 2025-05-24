@@ -164,7 +164,7 @@
           <text variable="title" prefix="“" suffix=",” "/>
           <group>
             <label variable="page" form="short"/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if position="subsequent" type="chapter" match="all">
@@ -174,7 +174,7 @@
           <text variable="title" prefix="“" suffix=",” "/>
           <group>
             <label variable="page" form="short"/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if type="book">
@@ -217,7 +217,7 @@
           <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
           <group>
             <label variable="page" form="short"/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if type="paper-conference">
@@ -231,7 +231,7 @@
           <date date-parts="year-month-date" form="text" variable="issued"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if type="thesis">
@@ -256,8 +256,8 @@
               </names>
               <text variable="title" prefix="“" suffix=",” "/>
               <text variable="container-title" font-style="italic" suffix=", "/>
-              <text variable="volume" prefix="Vol. " suffix=", "/>
-              <text variable="issue" prefix="No. " suffix=", "/>
+              <number variable="volume" prefix="Vol. " suffix=", "/>
+              <number variable="issue" prefix="No. " suffix=", "/>
               <date date-parts="year" form="text" variable="issued"/>
               <group>
                 <label variable="locator" form="short" prefix=", "/>
@@ -270,12 +270,12 @@
               </names>
               <text variable="title" prefix="“" suffix=",” "/>
               <text variable="container-title" font-style="italic" suffix=", "/>
-              <text variable="volume" prefix="Vol. " suffix=", "/>
-              <text variable="issue" prefix="No. " suffix=", "/>
+              <number variable="volume" prefix="Vol. " suffix=", "/>
+              <number variable="issue" prefix="No. " suffix=", "/>
               <date date-parts="year" form="text" variable="issued"/>
               <group>
                 <label variable="page" form="short" prefix=", "/>
-                <text variable="page"/>
+                <number variable="page"/>
               </group>
             </else>
           </choose>
@@ -315,7 +315,7 @@
           <text variable="archive_location"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else>
       </choose>
@@ -349,7 +349,7 @@
           <text macro="secondAuthor" suffix="，"/>
           <text variable="container-title" prefix="《" suffix="》"/>
           <date date-parts="year" form="text" variable="issued"/>
-          <text variable="issue" prefix="第" suffix="期"/>
+          <number variable="issue" prefix="第" suffix="期"/>
         </else-if>
         <else-if type="article-newspaper">
           <text macro="author" suffix="："/>
@@ -357,7 +357,7 @@
           <text macro="secondAuthor" suffix="，"/>
           <text variable="container-title" prefix="《" suffix="》"/>
           <date form="text" variable="issued"/>
-          <text variable="edition" prefix="，"/>
+          <number variable="edition" prefix="，"/>
           <text variable="section" prefix="，"/>
         </else-if>
         <else-if type="chapter">
@@ -368,10 +368,10 @@
               <text macro="editor" prefix="见" suffix="主编："/>
               <text variable="container-title" prefix="《" suffix="》"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
               <text macro="secondAuthor" prefix="，" suffix="，"/>
-              <text variable="page" prefix="第" suffix="页，"/>
+              <number variable="page" prefix="第" suffix="页，"/>
               <text variable="publisher" suffix="，"/>
               <text macro="date" suffix="版"/>
             </if>
@@ -381,9 +381,9 @@
               <text macro="editor" prefix="见" suffix="主编："/>
               <text variable="container-title" prefix="《" suffix="》"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
-              <text variable="page" prefix="，第" suffix="页，"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
+              <number variable="page" prefix="，第" suffix="页，"/>
               <text variable="publisher" suffix="，"/>
               <text macro="date" suffix="版"/>
             </else>
@@ -424,8 +424,8 @@
               <text variable="title" prefix="《" suffix="》，"/>
               <text macro="secondAuthor"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
               <text variable="publisher" prefix="，"/>
               <text macro="date" prefix="，" suffix="版"/>
               <text macro="locators-zh"/>
@@ -436,8 +436,8 @@
               <text macro="editor" suffix="主编："/>
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
               <text variable="publisher" prefix="，"/>
               <text macro="date" prefix="，" suffix="版"/>
               <text macro="locators-zh"/>
@@ -451,8 +451,8 @@
           <text variable="title" prefix="《" suffix="》"/>
           <text macro="secondAuthor"/>
           <date date-parts="year-month-date" form="text" variable="issued" prefix="，" suffix="，"/>
-          <text variable="edition"/>
-          <text variable="volume" prefix="第" suffix="卷"/>
+          <number variable="edition"/>
+          <number variable="volume" prefix="第" suffix="卷"/>
           <text variable="publisher-place" prefix="，" suffix="："/>
           <text variable="publisher"/>
           <text variable="archive" suffix="，"/>
@@ -510,7 +510,7 @@
           <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
           <group>
             <label variable="page" form="short"/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if type="paper-conference">
@@ -524,7 +524,7 @@
           <date date-parts="year-month-date" form="text" variable="issued"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if type="thesis">
@@ -547,12 +547,12 @@
           </names>
           <text variable="title" prefix="“" suffix=",” "/>
           <text variable="container-title" font-style="italic" suffix=", "/>
-          <text variable="volume" prefix="Vol. " suffix=", "/>
-          <text variable="issue" prefix="No. " suffix=", "/>
+          <number variable="volume" prefix="Vol. " suffix=", "/>
+          <number variable="issue" prefix="No. " suffix=", "/>
           <date date-parts="year" form="text" variable="issued"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else-if>
         <else-if type="article-newspaper">
@@ -590,7 +590,7 @@
           <text variable="archive_location"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
-            <text variable="page"/>
+            <number variable="page"/>
           </group>
         </else>
       </choose>
@@ -624,7 +624,7 @@
           <text macro="secondAuthor" suffix="，"/>
           <text variable="container-title" prefix="《" suffix="》"/>
           <date date-parts="year" form="text" variable="issued"/>
-          <text variable="issue" prefix="第" suffix="期"/>
+          <number variable="issue" prefix="第" suffix="期"/>
         </else-if>
         <else-if type="article-newspaper">
           <text macro="author" suffix="："/>
@@ -632,7 +632,7 @@
           <text macro="secondAuthor" suffix="，"/>
           <text variable="container-title" prefix="《" suffix="》"/>
           <date form="text" variable="issued"/>
-          <text variable="edition" prefix="，"/>
+          <number variable="edition" prefix="，"/>
           <text variable="section" prefix="，"/>
         </else-if>
         <else-if type="chapter">
@@ -643,10 +643,10 @@
               <text macro="editor" prefix="见" suffix="主编："/>
               <text variable="container-title" prefix="《" suffix="》"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
               <text macro="secondAuthor" prefix="，" suffix="，"/>
-              <text variable="page" prefix="第" suffix="页，"/>
+              <number variable="page" prefix="第" suffix="页，"/>
               <text variable="publisher" suffix="，"/>
               <text macro="date" suffix="版"/>
             </if>
@@ -656,9 +656,9 @@
               <text macro="editor" prefix="见" suffix="主编："/>
               <text variable="container-title" prefix="《" suffix="》"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
-              <text variable="page" prefix="，第" suffix="页，"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
+              <number variable="page" prefix="，第" suffix="页，"/>
               <text variable="publisher" suffix="，"/>
               <text macro="date" suffix="版"/>
             </else>
@@ -699,8 +699,8 @@
               <text variable="title" prefix="《" suffix="》，"/>
               <text macro="secondAuthor" suffix="，"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
               <text variable="publisher"/>
               <text macro="date" prefix="，" suffix="版"/>
               <text macro="locators-zh"/>
@@ -711,8 +711,8 @@
               <text macro="editor" suffix="主编："/>
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="collection-number" prefix="第" suffix="册"/>
-              <text variable="edition"/>
-              <text variable="volume" prefix="第" suffix="卷"/>
+              <number variable="edition"/>
+              <number variable="volume" prefix="第" suffix="卷"/>
               <text variable="publisher" prefix="，"/>
               <text macro="date" prefix="，" suffix="版"/>
               <text macro="locators-zh"/>
@@ -726,8 +726,8 @@
           <text variable="title" prefix="《" suffix="》"/>
           <text macro="secondAuthor"/>
           <date date-parts="year-month-date" form="text" variable="issued" prefix="，" suffix="，"/>
-          <text variable="edition"/>
-          <text variable="volume" prefix="第" suffix="卷"/>
+          <number variable="edition"/>
+          <number variable="volume" prefix="第" suffix="卷"/>
           <text variable="publisher-place" prefix="，" suffix="："/>
           <text variable="publisher"/>
           <text variable="archive" suffix="，"/>

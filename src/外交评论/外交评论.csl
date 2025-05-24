@@ -101,7 +101,7 @@
         <number variable="volume"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -113,7 +113,7 @@
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -125,7 +125,7 @@
         <label variable="edition" form="short"/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -154,12 +154,12 @@
           <choose>
             <if is-numeric="number">
               <text variable="genre"/>
-              <text variable="number" prefix="No."/>
+              <number variable="number" prefix="No."/>
             </if>
             <else>
               <group delimiter=" ">
                 <text variable="genre"/>
-                <text variable="number"/>
+                <number variable="number"/>
               </group>
             </else>
           </choose>
@@ -235,7 +235,7 @@
         <label variable="issue" form="short"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -439,7 +439,7 @@
         <number variable="page"/>
       </if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>
@@ -458,7 +458,7 @@
         </choose>
       </if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>

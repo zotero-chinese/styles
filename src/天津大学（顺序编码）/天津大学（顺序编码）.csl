@@ -100,7 +100,7 @@
           <choose>
             <if type="article article-journal" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
+              <number variable="number"/>
             </if>
           </choose>
           <choose>
@@ -142,7 +142,7 @@
             <if type="bill legal_case legislation patent regulation report standard" match="any">
               <choose>
                 <if variable="number">
-                  <text variable="number"/>
+                  <number variable="number"/>
                 </if>
                 <!-- 如果专利号码不还在用申请代码 -->
                 <else-if type="patent">
@@ -177,11 +177,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
           </if>
           <else>
-            <text variable="volume"/>
+            <number variable="volume"/>
           </else>
         </choose>
       </if>
@@ -195,11 +195,11 @@
           <if is-numeric="volume">
             <group delimiter="．">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
           </if>
           <else>
-            <text variable="volume"/>
+            <number variable="volume"/>
           </else>
         </choose>
       </if>
@@ -352,7 +352,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <group delimiter=": ">
@@ -360,11 +360,11 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>  <!-- 0320 -->
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -378,7 +378,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <group delimiter="：">
@@ -386,11 +386,11 @@
             <group delimiter="，">
               <text variable="container-title"/>
               <text macro="issued-year"/>  <!-- 0320 -->
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -405,7 +405,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -413,9 +413,9 @@
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <text variable="volume"/>
+      <number variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
+    <number variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 英文专著的出版项 -->
   <macro name="publisher">
@@ -443,7 +443,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -491,7 +491,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
         <text macro="accessed-date-zh"/>
       </else-if>
@@ -584,9 +584,9 @@
   <macro name="year-volume-issue-zh">
     <group delimiter="，">
       <text macro="issued-year"/>
-      <text variable="volume"/>
+      <number variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
+    <number variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 英文参考文献表格式 -->
   <macro name="entry-layout">
