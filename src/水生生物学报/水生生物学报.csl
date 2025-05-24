@@ -84,7 +84,7 @@
             <choose>
               <if type="article article-journal" match="none">
                 <!-- 预印本和期刊文章的编号用于其他位置 -->
-                <text variable="number"/>
+                <number variable="number"/>
               </if>
             </choose>
             <choose>
@@ -134,7 +134,7 @@
             <choose>
               <if type="article article-journal" match="none">
                 <!-- 预印本和期刊文章的编号用于其他位置 -->
-                <text variable="number"/>
+                <number variable="number"/>
               </if>
             </choose>
             <choose>
@@ -177,7 +177,7 @@
             <choose>
               <if type="article article-journal" match="none">
                 <!-- 预印本和期刊文章的编号用于其他位置 -->
-                <text variable="number"/>
+                <number variable="number"/>
               </if>
             </choose>
             <choose>
@@ -213,11 +213,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
           </if>
           <else>
-            <text variable="volume"/>
+            <number variable="volume"/>
           </else>
         </choose>
       </if>
@@ -371,7 +371,7 @@
           <text variable="container-title" font-style="italic"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -380,11 +380,11 @@
             <group delimiter=", ">
               <text variable="container-title" font-style="italic"/>
               <text macro="issued-year"/>
-              <text variable="volume" font-weight="bold"/>
+              <number variable="volume" font-weight="bold"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -397,7 +397,7 @@
           <text variable="original-container-title" font-style="italic"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -406,11 +406,11 @@
             <group delimiter=", ">
               <text variable="original-container-title" font-style="italic"/>
               <text macro="issued-year"/>
-              <text variable="volume" font-weight="bold"/>
+              <number variable="volume" font-weight="bold"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -425,7 +425,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -433,9 +433,9 @@
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <text variable="volume"/>
+      <number variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
+    <number variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -463,7 +463,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -518,7 +518,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">

@@ -292,7 +292,7 @@
         <label variable="edition" form="short" text-case="capitalize-first" prefix=" "/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -304,7 +304,7 @@
         <label variable="edition" form="short" text-case="capitalize-first"/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -356,7 +356,7 @@
               <text variable="container-title" font-style="italic"/>
               <group delimiter=" " prefix="(" suffix=")">
                 <label variable="page" form="short"/>
-                <text variable="page"/>
+                <number variable="page"/>
               </group>
             </group>
           </group>
@@ -376,7 +376,7 @@
           <group>
             <text variable="container-title" prefix="《" suffix="》"/>
             <group prefix="（" suffix="）">
-              <text variable="page"/>
+              <number variable="page"/>
             </group>
           </group>
         </group>

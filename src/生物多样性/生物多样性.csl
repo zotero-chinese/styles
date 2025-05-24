@@ -139,7 +139,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -161,11 +161,11 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </if>
       <else-if variable="container-title">
@@ -193,11 +193,11 @@
           <group>
             <group delimiter=", ">
               <text variable="original-container-title"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </if>
       <else-if variable="original-container-title">
@@ -257,7 +257,7 @@
         </group>
       </if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>

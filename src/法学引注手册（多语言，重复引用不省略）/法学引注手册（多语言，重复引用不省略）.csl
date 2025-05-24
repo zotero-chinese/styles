@@ -239,7 +239,7 @@
                 <!-- 若同时有期刊卷册数和年份，则将卷册数标注在期刊名称之后，随后再以括号标记年份。 -->
                 <if variable="volume">
                   <text macro="container-de"/>
-                  <text variable="volume"/>
+                  <number variable="volume"/>
                   <text macro="issuance-de" prefix="(" suffix=")"/>
                 </if>
                 <else>
@@ -336,12 +336,12 @@
                 </if>
                 <!-- 引用判例集中的判决时，标出判例集的名称、卷号 -->
                 <else>
-                  <text variable="volume"/>
+                  <number variable="volume"/>
                 </else>
               </choose>
             </group>
             <group delimiter=" ">
-              <text variable="page-first"/>
+              <number variable="page-first"/>
               <text variable="locator" prefix="(" suffix=")"/>
             </group>
           </group>
@@ -368,7 +368,7 @@
             <group delimiter=" ">
               <text macro="container-en"/>
               <group delimiter=", ">
-                <text variable="page-first"/>
+                <number variable="page-first"/>
                 <text macro="locator-en"/>
               </group>
               <text macro="issuance-en" prefix="(" suffix=")"/>
@@ -412,7 +412,7 @@
                   <text macro="title-en"/>
                   <group delimiter=" ">
                     <text value="Pub. L. No."/>
-                    <text variable="number"/>
+                    <number variable="number"/>
                   </group>
                   <text macro="section-en"/>
                   <text macro="container-en"/>
@@ -429,7 +429,7 @@
                 </group>
               </else>
             </choose>
-            <text variable="page"/>
+            <number variable="page"/>
             <text macro="locator-en"/>
             <text macro="issuance-en" prefix="(" suffix=")"/>
           </group>
@@ -441,13 +441,13 @@
               <text macro="title-en"/>
               <group delimiter=" ">
                 <text value="No."/>
-                <text variable="number"/>
+                <number variable="number"/>
               </group>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
             <text macro="container-en"/>
             <group delimiter=", ">
-              <text variable="page"/>
+              <number variable="page"/>
               <text variable="locator"/>
             </group>
             <group delimiter=" " prefix="(" suffix=")">
@@ -516,7 +516,7 @@
           </choose>
           <group>
             <text value="nᵒ "/>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
           <text macro="issuance-fr"/>
           <text macro="locator-or-page-fr"/>
@@ -540,7 +540,7 @@
                   <text macro="title-en"/>
                   <group delimiter=" ">
                     <text value="Pub. L. No."/>
-                    <text variable="number"/>
+                    <number variable="number"/>
                   </group>
                   <text macro="container-en"/>
                 </group>
@@ -551,7 +551,7 @@
                 <text macro="container-en"/>
               </else>
             </choose>
-            <text variable="page"/>
+            <number variable="page"/>
             <text macro="locator-fr"/>
             <text macro="issuance-en" prefix="(" suffix=")"/>
           </group>
@@ -563,13 +563,13 @@
               <text macro="title-en"/>
               <group delimiter=" ">
                 <text value="No."/>
-                <text variable="number"/>
+                <number variable="number"/>
               </group>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
             <text macro="container-en"/>
             <group delimiter=", ">
-              <text variable="page"/>
+              <number variable="page"/>
               <text variable="locator"/>
             </group>
             <group delimiter=" " prefix="(" suffix=")">
@@ -636,7 +636,7 @@
             <text variable="container-title"/>
             <text macro="volume-ja"/>
             <group>
-              <text variable="number"/>
+              <number variable="number"/>
               <text term="issue" form="short"/>
             </group>
             <text macro="locator-or-page-ja"/>
@@ -766,7 +766,7 @@
           <text macro="title-zh"/>
           <choose>
             <if variable="section locator" match="none">
-              <text variable="number"/>
+              <number variable="number"/>
             </if>
           </choose>
           <choose>
@@ -825,7 +825,7 @@
           <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
         </group>
       </else-if>
@@ -960,7 +960,7 @@
             </else-if>
             <else-if variable="section locator" match="any">
               <!-- 64.1 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》(法释 〔2018〕1 号)，第 100 条。 -->
-              <text variable="number"/>
+              <number variable="number"/>
             </else-if>
           </choose>
         </group>
@@ -1007,7 +1007,7 @@
         <label variable="edition" form="short" prefix=" "/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -1018,7 +1018,7 @@
         <label variable="edition" form="short" prefix=" "/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -1030,7 +1030,7 @@
         <label variable="edition" form="short"/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -1084,7 +1084,7 @@
       </else-if>
       <else-if type="legislation">
         <group delimiter=" ">
-          <text variable="volume"/>
+          <number variable="volume"/>
           <text variable="container-title"/>
         </group>
       </else-if>
@@ -1097,7 +1097,7 @@
     <choose>
       <if type="article-journal article-magazine" match="any">
         <group delimiter=" ">
-          <text variable="volume"/>
+          <number variable="volume"/>
           <text variable="container-title" text-case="title"/>
         </group>
       </if>
@@ -1107,7 +1107,7 @@
           <group delimiter=", ">
             <text macro="editor-en"/>
             <group delimiter=" ">
-              <text variable="volume"/>
+              <number variable="volume"/>
               <text variable="container-title" text-case="title"/>
             </group>
           </group>
@@ -1115,7 +1115,7 @@
       </else-if>
       <else-if type="legislation">
         <group delimiter=" ">
-          <text variable="volume"/>
+          <number variable="volume"/>
           <text variable="container-title" text-case="title"/>
         </group>
       </else-if>
@@ -1235,7 +1235,7 @@
                 <text value="判决书"/>
               </else>
             </choose>
-            <text variable="number"/>
+            <number variable="number"/>
           </else>
         </choose>
       </else-if>
@@ -1277,7 +1277,7 @@
         <number variable="volume" form="roman" text-case="uppercase"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -1302,7 +1302,7 @@
         </choose>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -1314,7 +1314,7 @@
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -1325,7 +1325,7 @@
         <number variable="issue"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -1336,7 +1336,7 @@
         <label variable="issue" form="short"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -1355,7 +1355,7 @@
         </choose>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -1552,7 +1552,7 @@
             <number variable="page"/>
           </if>
           <else>
-            <text variable="page"/>
+            <number variable="page"/>
           </else>
         </choose>
       </else-if>
@@ -1604,11 +1604,11 @@
         <choose>
           <if type="article-newspaper">
             <text term="at" suffix=" "/>
-            <text variable="page" form="short"/>
+            <number variable="page" form="short"/>
           </if>
           <else-if type="article-magazine">
             <label variable="page" form="short" suffix=" "/>
-            <text variable="page"/>
+            <number variable="page"/>
           </else-if>
         </choose>
       </else-if>
@@ -1621,10 +1621,10 @@
       </if>
       <else-if is-numeric="page">
         <label variable="page" form="short" suffix=" "/>
-        <text variable="page"/>
+        <number variable="page"/>
       </else-if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>
@@ -1634,11 +1634,11 @@
         <text macro="locator-ja"/>
       </if>
       <else-if is-numeric="page">
-        <text variable="page-first"/>
+        <number variable="page-first"/>
         <label variable="page" form="short"/>
       </else-if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>
@@ -1652,11 +1652,11 @@
         <choose>
           <if is-numeric="page">
             <text value="第"/>
-            <text variable="page"/>
+            <number variable="page"/>
             <text value="版"/>
           </if>
           <else>
-            <text variable="page"/>
+            <number variable="page"/>
           </else>
         </choose>
       </else-if>

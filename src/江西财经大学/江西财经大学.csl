@@ -73,7 +73,7 @@
     <text variable="title"/>
     <choose>
       <if type="bill broadcast legal_case legislation report song standard" match="any">
-        <text variable="number" prefix=": "/>
+        <number variable="number" prefix=": "/>
       </if>
     </choose>
     <group delimiter="/" prefix="[" suffix="]">
@@ -157,7 +157,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <text variable="edition"/>
+          <number variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -166,10 +166,10 @@
   <macro name="serial-information">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <text variable="volume"/>
+      <number variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
-    <text variable="page" prefix=": "/>
+    <number variable="issue" prefix="(" suffix=")"/>
+    <number variable="page" prefix=": "/>
   </macro>
   <macro name="publisher">
     <choose>
@@ -181,7 +181,7 @@
             <text macro="issued-year"/>
           </group>
         </group>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -249,7 +249,7 @@
       <else-if type="book">
         <group prefix=". ">
           <group>
-            <text variable="edition" suffix=". "/>
+            <number variable="edition" suffix=". "/>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-year"/>
@@ -283,7 +283,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </else-if>
       <!-- 中文会议集析出的文献 -->
       <else-if type="paper-conference">
@@ -292,7 +292,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </else-if>
       <!-- 其它文献类型 -->
       <else-if type="bill standard" match="any">
@@ -300,7 +300,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </else-if>
       <!-- 中文报纸 -->
       <else-if type="article-newspaper">
@@ -308,7 +308,7 @@
           <group>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
-            <text variable="page" prefix="(" suffix=")"/>
+            <number variable="page" prefix="(" suffix=")"/>
           </group>
         </group>
       </else-if>
@@ -369,7 +369,7 @@
       <else-if type="book">
         <group prefix=". ">
           <group>
-            <text variable="edition" suffix=". "/>
+            <number variable="edition" suffix=". "/>
             <text variable="publisher-place" suffix=": "/>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-year"/>
@@ -403,7 +403,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </else-if>
       <!-- 英文会议集析出的文献 -->
       <else-if type="paper-conference">
@@ -412,7 +412,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </else-if>
       <!-- 其它文献类型 -->
       <else-if type="bill standard" match="any">
@@ -420,7 +420,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </else-if>
       <!-- 英文报纸 -->
       <else-if type="article-newspaper">
@@ -428,7 +428,7 @@
           <group>
             <text variable="publisher" suffix=", "/>
             <text macro="issued-date"/>
-            <text variable="page" prefix="(" suffix=")"/>
+            <number variable="page" prefix="(" suffix=")"/>
           </group>
         </group>
       </else-if>

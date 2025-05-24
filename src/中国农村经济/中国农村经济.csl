@@ -171,7 +171,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -183,7 +183,7 @@
         <label variable="edition" form="short"/>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -197,7 +197,7 @@
         </group>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -281,11 +281,11 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title" text-case="title" font-style="italic"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -328,7 +328,7 @@
         <label variable="issue" form="short"/>
       </if>
       <else>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -340,7 +340,7 @@
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <text variable="volume"/>
+        <number variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -367,7 +367,7 @@
         <group delimiter=" ">
           <text variable="publisher"/>
           <text macro="working-paper-genre"/>
-          <text variable="number"/>
+          <number variable="number"/>
         </group>
       </if>
       <else-if type="thesis">
@@ -453,7 +453,7 @@
         <number variable="number"/>
       </if>
       <else>
-        <text variable="number"/>
+        <number variable="number"/>
       </else>
     </choose>
   </macro>
@@ -469,7 +469,7 @@
         <label variable="page" form="short"/>
       </else-if>
       <else>
-        <text variable="page"/>
+        <number variable="page"/>
       </else>
     </choose>
   </macro>
@@ -509,7 +509,7 @@
           <!-- 会议论文 -->
           <text macro="title-en"/>
           <text macro="event-en"/>
-          <text variable="page"/>
+          <number variable="page"/>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
@@ -517,14 +517,14 @@
           <text macro="secondary-contributors-en"/>
           <text macro="container-booklike-en"/>
           <text macro="publisher-en"/>
-          <text variable="page"/>
+          <number variable="page"/>
         </else-if>
         <else>
           <!-- 4.1 专著 -->
           <text macro="title-en"/>
           <text macro="secondary-contributors-en"/>
           <text macro="publisher-en"/>
-          <text variable="page"/>
+          <number variable="page"/>
         </else>
       </choose>
       <text macro="access"/>

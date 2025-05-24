@@ -323,7 +323,7 @@
         <group delimiter=" ">
           <text variable="genre" text-case="title"/>
           <text value="No."/>
-          <text variable="number"/>
+          <number variable="number"/>
         </group>
       </if>
     </choose>
@@ -349,7 +349,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -377,7 +377,7 @@
       </choose>
       <group delimiter=" ">
         <label variable="page" form="short" suffix=" "/>
-        <text variable="page"/>
+        <number variable="page"/>
       </group>
     </group>
   </macro>
@@ -404,12 +404,12 @@
         <choose>
           <if variable="volume">
             <group>
-              <text variable="volume" font-style="italic"/>
-              <text variable="issue" prefix="(" suffix=")"/>
+              <number variable="volume" font-style="italic"/>
+              <number variable="issue" prefix="(" suffix=")"/>
             </group>
           </if>
           <else>
-            <text variable="issue" font-style="italic"/>
+            <number variable="issue" font-style="italic"/>
           </else>
         </choose>
         <choose>
@@ -419,17 +419,17 @@
                 <!-- 《心理学报》报纸文献的版次有前缀“p” -->
                 <group>
                   <label variable="page" form="short" plural="never" strip-periods="true"/>
-                  <text variable="page"/>
+                  <number variable="page"/>
                 </group>
               </if>
               <else>
-                <text variable="page"/>
+                <number variable="page"/>
               </else>
             </choose>
           </if>
           <else>
             <!-- 只有论文编号而无页码的电子刊论文 -->
-            <text variable="number" prefix="Article "/>
+            <number variable="number" prefix="Article "/>
           </else>
         </choose>
       </group>
@@ -475,7 +475,7 @@
                 <if is-numeric="volume" match="none">
                   <group delimiter=" ">
                     <label variable="volume" form="short" text-case="capitalize-first"/>
-                    <text variable="volume"/>
+                    <number variable="volume"/>
                   </group>
                 </if>
               </choose>
@@ -761,11 +761,11 @@
       <!-- <number variable="volume" form="numeric"/> -->
       <group delimiter=" ">
         <label variable="issue" text-case="capitalize-first"/>
-        <text variable="issue"/>
+        <number variable="issue"/>
       </group>
       <group delimiter=" ">
         <label variable="page" form="short" suffix=" "/>
-        <text variable="page"/>
+        <number variable="page"/>
       </group>
     </group>
   </macro>
@@ -808,7 +808,7 @@
                   <number variable="volume" form="long-ordinal" prefix="(" suffix=")"/>
                 </if>
                 <else>
-                  <text variable="volume" prefix="(" suffix=")"/>
+                  <number variable="volume" prefix="(" suffix=")"/>
                 </else>
               </choose>
             </group>
@@ -960,8 +960,7 @@
             <text macro="locators-booklike-ZHtoEN"/>
           </group>
         </else-if>
-        <else-if variable="original-container-title">
-        </else-if>
+        <else-if variable="original-container-title"/>
         <else>
           <text macro="number-EN"/>
           <text macro="locators-booklike-ZHtoEN"/>
@@ -991,7 +990,7 @@
         <group delimiter=" ">
           <text variable="orginal-genre" text-case="title"/>
           <text value="No."/>
-          <text variable="number"/>
+          <number variable="number"/>
         </group>
       </if>
     </choose>
@@ -1045,7 +1044,7 @@
       </choose>
       <group delimiter=" ">
         <label variable="page" form="short" suffix=" "/>
-        <text variable="page"/>
+        <number variable="page"/>
       </group>
     </group>
   </macro>
@@ -1072,11 +1071,11 @@
         <choose>
           <if variable="volume">
             <group>
-              <text variable="volume" font-style="italic"/>
+              <number variable="volume" font-style="italic"/>
               <choose>
                 <if is-numeric="issue">
                   <!-- 仅当 issue 是数字时输出期号，避免“增刊”的情况 -->
-                  <text variable="issue" prefix="(" suffix=")"/>
+                  <number variable="issue" prefix="(" suffix=")"/>
                 </if>
                 <else>
                   <text variable="original-issue" text-case="capitalize-first" prefix="(" suffix=")"/>
@@ -1087,7 +1086,7 @@
           <else>
             <choose>
               <if is-numeric="issue">
-                <text variable="issue" font-style="italic"/>
+                <number variable="issue" font-style="italic"/>
               </if>
               <else>
                 <text variable="original-issue" text-case="capitalize-first" prefix="(" suffix=")"/>
@@ -1097,11 +1096,11 @@
         </choose>
         <choose>
           <if variable="page">
-            <text variable="page"/>
+            <number variable="page"/>
           </if>
           <else>
             <!-- 只有论文编号而无页码的电子刊论文 -->
-            <text variable="number" prefix="Article "/>
+            <number variable="number" prefix="Article "/>
           </else>
         </choose>
       </group>

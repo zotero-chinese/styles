@@ -93,7 +93,7 @@
           <choose>
             <if type="article article-journal" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
+              <number variable="number"/>
             </if>
           </choose>
           <choose>
@@ -128,11 +128,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
           </if>
           <else>
-            <text variable="volume"/>
+            <number variable="volume"/>
           </else>
         </choose>
       </if>
@@ -232,7 +232,7 @@
           <text variable="container-title" text-case="title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <group delimiter=":">
@@ -240,11 +240,11 @@
             <group delimiter=", ">
               <text variable="container-title" text-case="title"/>
               <text macro="issued-year"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -275,7 +275,7 @@
         </choose>
         <text macro="issued-year"/>
       </group>
-      <text variable="page"/>
+      <number variable="page"/>
     </group>
   </macro>
   <!-- 出版年 -->

@@ -85,7 +85,7 @@
     <group delimiter=", ">
       <choose>
         <if type="standard">
-          <text variable="number"/>
+          <number variable="number"/>
         </if>
       </choose>
       <text variable="title"/>
@@ -147,7 +147,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <number variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -156,11 +156,11 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <text variable="volume"/>
+              <number variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <number variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else>
     </choose>
@@ -175,7 +175,7 @@
         </group>
       </if>
       <else>
-        <text variable="edition"/>
+        <number variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -189,14 +189,14 @@
               <text macro="patent-country"/>
               <text term="patent"/>
             </group>
-            <text variable="number"/>
+            <number variable="number"/>
           </group>
           <text macro="issued-date"/>
         </group>
       </if>
       <else-if type="legal_case legislation regulation report" match="any">
         <group delimiter=", ">
-          <text variable="number"/>
+          <number variable="number"/>
           <text macro="issued-date"/>
         </group>
       </else-if>
@@ -219,7 +219,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <number variable="page"/>
         </group>
       </else-if>
     </choose>

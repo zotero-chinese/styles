@@ -109,7 +109,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <text variable="edition"/>
+          <number variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -117,16 +117,16 @@
   </macro>
   <macro name="serial-information">
     <group prefix=", " suffix=": ">
-      <text variable="volume"/>
-      <text variable="issue" prefix="(" suffix=")"/>
+      <number variable="volume"/>
+      <number variable="issue" prefix="(" suffix=")"/>
     </group>
     <text term="page" form="short"/>
-    <text variable="page"/>
+    <number variable="page"/>
   </macro>
   <macro name="serial-information-zh">
     <group delimiter="，">
-      <text variable="issue" prefix="第" suffix="期"/>
-      <text variable="page" prefix="第" suffix="页"/>
+      <number variable="issue" prefix="第" suffix="期"/>
+      <number variable="page" prefix="第" suffix="页"/>
     </group>
   </macro>
   <macro name="publisher">
@@ -138,7 +138,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-        <text variable="page" prefix=": "/>
+        <number variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -203,7 +203,7 @@
         <group prefix=", ">
           <text variable="publisher"/>
           <text variable="genre" prefix=" "/>
-          <text variable="number" prefix=", No. "/>
+          <number variable="number" prefix=", No. "/>
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
