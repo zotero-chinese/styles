@@ -1,6 +1,3 @@
 [submodule "lib/locales"]
 	path = lib/locales
 	url = https://github.com/citation-style-language/locales.git
-[submodule "lib/schema"]
-	path = lib/schema
-	url = https://github.com/zotero-chinese/csl-m-schema-rng
