@@ -29,8 +29,10 @@
   "xml.preferences.quoteStyle": "double",
   "xml.fileAssociations": [
     {
-      "systemId": "https://github.com/citation-style-language/schema/blob/master/schemas/styles/csl.rnc",
-      "pattern": "**/*.csl"
+      "pattern": "**/*.csl",
+      // "systemId": "${workspaceFolder}/lib/schema/generated-schemas/merged/csl-mlz.rng"
+      "systemId": "${workspaceFolder}/node_modules/@zotero-chinese/csl-m-schema-rng/generated-schemas/merged/csl-mlz.rng"
+      // "systemId": "${workspaceFolder}/node_modules/@zotero-chinese/csl-m-schema-rng/generated-schemas/merged/csl.rng"
     }
   ],
 
@@ -40,5 +42,7 @@
   "files.exclude": {
     // "node_modules":true,
     // "**/LICENSE": true
-  }
+  },
+
+  "git.autofetch": true
 }

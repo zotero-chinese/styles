@@ -22,6 +22,7 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.12.8",
+    "@zotero-chinese/csl-m-schema-rng": "github:zotero-chinese/csl-m-schema-rng",
     "chokidar": "3.5.3",
     "citeproc": "2.4.63",
     "concurrently": "7.4.0",
