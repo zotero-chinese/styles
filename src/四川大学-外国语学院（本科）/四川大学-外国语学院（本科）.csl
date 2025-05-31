@@ -175,8 +175,8 @@
         <choose>
           <if type="article-journal">
             <group delimiter=".">
-              <number variable="volume"/>
-              <number variable="issue"/>
+              <text variable="volume"/>
+              <text variable="issue"/>
             </group>
             <text macro="publication-date-en" prefix="(" suffix=")"/>
           </if>
@@ -185,7 +185,7 @@
           </else>
         </choose>
       </group>
-      <number variable="page"/>
+      <text variable="page"/>
     </group>
   </macro>
   <macro name="container-title-en">
@@ -296,7 +296,7 @@
           </group>
         </if>
         <else>
-          <number variable="edition" text-case="capitalize-first"/>
+          <text variable="edition" text-case="capitalize-first"/>
         </else>
       </choose>
       <text variable="version"/>
@@ -314,7 +314,7 @@
           </group>
         </if>
         <else>
-          <number variable="edition" text-case="capitalize-first"/>
+          <text variable="edition" text-case="capitalize-first"/>
         </else>
       </choose>
       <text variable="version"/>
@@ -324,18 +324,18 @@
   <macro name="volume-lowercase-en">
     <group delimiter=" ">
       <text term="volume" form="short"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
   </macro>
   <macro name="volume-lowercase-zh">
     <choose>
       <if type="article-journal">
-        <number variable="volume"/>
+        <text variable="volume"/>
       </if>
       <else>
         <group delimiter=" ">
           <text term="volume" form="short"/>
-          <number variable="volume"/>
+          <text variable="volume"/>
         </group>
       </else>
     </choose>
@@ -369,21 +369,21 @@
           <else>
             <group delimiter=" ">
               <text term="volume" form="short" text-case="capitalize-first"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
           </else>
         </choose>
       </group>
       <group delimiter=" ">
         <text term="issue" form="short"/>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </group>
       <choose>
         <if type="report">
           <text variable="genre"/>
         </if>
       </choose>
-      <number variable="number"/>
+      <text variable="number"/>
     </group>
   </macro>
   <macro name="number-zh">
@@ -413,17 +413,17 @@
             <text macro="volume-lowercase-zh"/>
           </else-if>
           <else>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </else>
         </choose>
       </group>
-      <number variable="issue"/>
+      <text variable="issue"/>
       <choose>
         <if type="report">
           <text variable="genre"/>
         </if>
       </choose>
-      <number variable="number"/>
+      <text variable="number"/>
     </group>
   </macro>
   <macro name="publisher-en">
@@ -516,13 +516,13 @@
     <group delimiter=", ">
       <group delimiter=" ">
         <label variable="page" form="short"/>
-        <number variable="page"/>
+        <text variable="page"/>
       </group>
     </group>
   </macro>
   <macro name="location-zh">
     <group delimiter=", ">
-      <number variable="page"/>
+      <text variable="page"/>
     </group>
   </macro>
   <macro name="container2-title-en">

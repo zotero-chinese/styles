@@ -48,7 +48,7 @@
             </group>
           </if>
           <else>
-            <number variable="edition" text-case="capitalize-first" suffix="."/>
+            <text variable="edition" text-case="capitalize-first" suffix="."/>
           </else>
         </choose>
       </if>
@@ -226,13 +226,13 @@
         <group delimiter=" ">
           <text value="Art."/>
           <text term="issue" form="short"/>
-          <number variable="number"/>
+          <text variable="number"/>
         </group>
       </if>
       <else>
         <group delimiter=" ">
           <label variable="page" form="short"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -271,7 +271,7 @@
           <group delimiter=", " suffix=". ">
             <text variable="collection-title"/>
             <text variable="collection-number" prefix="no. "/>
-            <number variable="volume" prefix="vol. "/>
+            <text variable="volume" prefix="vol. "/>
           </group>
         </group>
       </if>
@@ -355,7 +355,7 @@
             <text macro="publisher"/>
             <group delimiter=" ">
               <text variable="genre"/>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
             <text macro="issued"/>
           </group>
@@ -380,7 +380,7 @@
         <else-if type="patent">
           <group delimiter=", ">
             <text macro="title"/>
-            <number variable="number"/>
+            <text variable="number"/>
             <text macro="issued"/>
           </group>
           <text macro="access"/>

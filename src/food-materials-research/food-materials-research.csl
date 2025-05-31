@@ -71,7 +71,7 @@
           <text variable="title" font-style="italic"/>
           <group>
             <label variable="volume" form="short" suffix=" " text-case="capitalize-first"/>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </group>
         </group>
       </else-if>
@@ -109,10 +109,10 @@
           <if variable="volume">
             <group prefix=". ">
               <group suffix=": ">
-                <number variable="volume"/>
-                <number variable="issue" prefix="(" suffix=")"/>
+                <text variable="volume"/>
+                <text variable="issue" prefix="(" suffix=")"/>
               </group>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </if>
           <else>
@@ -120,11 +120,11 @@
               <if is-numeric="page">
                 <group prefix=", ">
                   <label variable="page" form="short" suffix=" "/>
-                  <number variable="page"/>
+                  <text variable="page"/>
                 </group>
               </if>
               <else>
-                <number variable="page" prefix=". "/>
+                <text variable="page" prefix=". "/>
               </else>
             </choose>
           </else>
@@ -135,12 +135,12 @@
           <text macro="date-m-d"/>
           <group>
             <label variable="page" form="short" suffix=" "/>
-            <number variable="page"/>
+            <text variable="page"/>
           </group>
         </group>
       </else-if>
       <else>
-        <number variable="page"/>
+        <text variable="page"/>
       </else>
     </choose>
   </macro>
@@ -169,7 +169,7 @@
           <text macro="publisher"/>
           <group prefix=" ">
             <label variable="page" form="short" suffix=" "/>
-            <number variable="page"/>
+            <text variable="page"/>
           </group>
           <!-- <group delimiter=" ">
             <label variable="number-of-pages" form="short"/>
@@ -203,14 +203,14 @@
       </else-if>
       <else-if type="patent">
         <group font-style="italic">
-          <number variable="number"/>
+          <text variable="number"/>
         </group>
       </else-if>
       <else-if type="report">
         <group delimiter=". ">
           <text macro="container-booklike"/>
           <group delimiter=", ">
-            <number variable="number" font-style="italic"/>
+            <text variable="number" font-style="italic"/>
             <text variable="publisher"/>
             <text variable="publisher-place"/>
           </group>

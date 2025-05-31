@@ -63,7 +63,7 @@
     <group delimiter=", ">
       <choose>
         <if type="standard">
-          <number variable="number"/>
+          <text variable="number"/>
         </if>
       </choose>
       <group delimiter=": ">
@@ -79,7 +79,7 @@
                   <text value="中国"/>
                 </else>
               </choose>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
           </if>
         </choose>
@@ -96,11 +96,11 @@
       <if is-numeric="volume">
         <group delimiter=" ">
           <label variable="volume" form="short" text-case="capitalize-first"/>
-          <number variable="volume"/>
+          <text variable="volume"/>
         </group>
       </if>
       <else>
-        <number variable="volume"/>
+        <text variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -224,7 +224,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -233,11 +233,11 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -252,7 +252,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -280,7 +280,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -322,7 +322,7 @@
         </else>
       </choose>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 参考文献表的格式 -->
   <macro name="entry-layout">

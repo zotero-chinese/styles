@@ -169,7 +169,7 @@
             <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
             <group>
               <label variable="page" form="short"/>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -212,7 +212,7 @@
             </group>
             <group>
               <label variable="page" form="short" prefix=", "/>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -238,8 +238,8 @@
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <text variable="container-title" font-style="italic"/>
-              <number variable="volume" prefix="vol. "/>
-              <number variable="issue" prefix="no. " suffix=" "/>
+              <text variable="volume" prefix="vol. "/>
+              <text variable="issue" prefix="no. " suffix=" "/>
             </group>
             <date date-parts="year-month" form="text" variable="issued" prefix="(" suffix=")"/>
             <group>
@@ -252,13 +252,13 @@
             <group prefix=" " delimiter=", ">
               <text variable="title" quotes="true"/>
               <text variable="container-title" font-style="italic"/>
-              <number variable="volume" prefix="vol. "/>
-              <number variable="issue" prefix="no. " suffix=" "/>
+              <text variable="volume" prefix="vol. "/>
+              <text variable="issue" prefix="no. " suffix=" "/>
             </group>
             <date date-parts="year-month" form="text" variable="issued" prefix="(" suffix=")"/>
             <group>
               <label variable="page" form="short" prefix=", "/>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -303,7 +303,7 @@
             <date date-parts="year" form="numeric" variable="issued"/>
             <group>
               <label variable="page" form="short" prefix=", "/>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -327,7 +327,7 @@
             <text variable="publisher-place" prefix="（" suffix="）"/>
             <date date-parts="year" form="text" variable="issued"/>
             <group delimiter="，">
-              <number variable="issue" prefix="第" suffix="期"/>
+              <text variable="issue" prefix="第" suffix="期"/>
             </group>
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
@@ -343,9 +343,9 @@
             <text variable="publisher-place" prefix="（" suffix="）"/>
             <date date-parts="year" form="text" variable="issued"/>
             <group delimiter="，">
-              <number variable="issue" prefix="第" suffix="期"/>
+              <text variable="issue" prefix="第" suffix="期"/>
             </group>
-            <number variable="page" prefix="，第" suffix="页"/>
+            <text variable="page" prefix="，第" suffix="页"/>
           </else>
         </choose>
       </if>
@@ -358,7 +358,7 @@
           <text variable="container-title" prefix="《" suffix="》，"/>
         </group>
         <date form="text" variable="issued"/>
-        <number variable="edition" prefix="，第" suffix="版"/>
+        <text variable="edition" prefix="，第" suffix="版"/>
       </else-if>
       <else-if type="chapter">
         <!-- 中文章节 -->
@@ -376,8 +376,8 @@
                   <group>
                     <text variable="container-title" prefix="《" suffix="》"/>
                     <text variable="collection-number" prefix="第" suffix="册"/>
-                    <number variable="edition"/>
-                    <number variable="volume" prefix="第" suffix="卷"/>
+                    <text variable="edition"/>
+                    <text variable="volume" prefix="第" suffix="卷"/>
                   </group>
                   <text variable="publisher"/>
                 </group>
@@ -394,13 +394,13 @@
                   <group>
                     <text variable="container-title" prefix="《" suffix="》"/>
                     <text variable="collection-number" prefix="第" suffix="册"/>
-                    <number variable="edition"/>
-                    <number variable="volume" prefix="第" suffix="卷"/>
+                    <text variable="edition"/>
+                    <text variable="volume" prefix="第" suffix="卷"/>
                   </group>
                   <text variable="publisher"/>
                 </group>
                 <text macro="date" suffix="版"/>
-                <number variable="page" prefix="，第" suffix="页"/>
+                <text variable="page" prefix="，第" suffix="页"/>
               </else>
             </choose>
           </if>
@@ -416,8 +416,8 @@
                   <group>
                     <text variable="container-title" prefix="《" suffix="》"/>
                     <text variable="collection-number" prefix="第" suffix="册"/>
-                    <number variable="edition"/>
-                    <number variable="volume" prefix="第" suffix="卷"/>
+                    <text variable="edition"/>
+                    <text variable="volume" prefix="第" suffix="卷"/>
                   </group>
                   <text variable="publisher"/>
                   <text macro="date" suffix="版"/>
@@ -433,13 +433,13 @@
                   <group>
                     <text variable="container-title" prefix="《" suffix="》"/>
                     <text variable="collection-number" prefix="第" suffix="册"/>
-                    <number variable="edition"/>
-                    <number variable="volume" prefix="第" suffix="卷"/>
+                    <text variable="edition"/>
+                    <text variable="volume" prefix="第" suffix="卷"/>
                   </group>
                   <text variable="publisher"/>
                   <text macro="date" suffix="版"/>
                 </group>
-                <number variable="page" prefix="，第" suffix="页"/>
+                <text variable="page" prefix="，第" suffix="页"/>
               </else>
             </choose>
           </else>
@@ -479,7 +479,7 @@
               <text variable="event-place"/>
               <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
-            <number variable="page" prefix="，第" suffix="页"/>
+            <text variable="page" prefix="，第" suffix="页"/>
           </else>
         </choose>
       </else-if>
@@ -509,8 +509,8 @@
               <group>
                 <text variable="title" prefix="《" suffix="》"/>
                 <text variable="collection-number" prefix="第" suffix="册"/>
-                <number variable="edition"/>
-                <number variable="volume" prefix="第" suffix="卷"/>
+                <text variable="edition"/>
+                <text variable="volume" prefix="第" suffix="卷"/>
               </group>
               <text variable="publisher"/>
             </group>
@@ -526,8 +526,8 @@
               <group>
                 <text variable="title" prefix="《" suffix="》"/>
                 <text variable="collection-number" prefix="第" suffix="册"/>
-                <number variable="edition"/>
-                <number variable="volume" prefix="第" suffix="卷"/>
+                <text variable="edition"/>
+                <text variable="volume" prefix="第" suffix="卷"/>
               </group>
               <text variable="publisher"/>
             </group>
@@ -544,8 +544,8 @@
         <text variable="title" prefix="《" suffix="》"/>
         <group delimiter="，">
           <text variable="collection-number" prefix="第" suffix="册"/>
-          <number variable="edition"/>
-          <number variable="volume" prefix="第" suffix="卷"/>
+          <text variable="edition"/>
+          <text variable="volume" prefix="第" suffix="卷"/>
         </group>
         <text macro="secondAuthor" prefix="，"/>
         <group delimiter="：">
@@ -646,7 +646,7 @@
           <text variable="title" quotes="true" suffix=", "/>
           <group>
             <label variable="page" form="short"/>
-            <number variable="page"/>
+            <text variable="page"/>
           </group>
         </else-if>
         <else-if position="subsequent" type="chapter" match="all">
@@ -656,7 +656,7 @@
           <text variable="title" quotes="true" suffix=", "/>
           <group>
             <label variable="page" form="short"/>
-            <number variable="page"/>
+            <text variable="page"/>
           </group>
         </else-if>
         <else>

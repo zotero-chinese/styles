@@ -55,11 +55,11 @@
   </macro>
   <macro name="title">
     <text variable="title"/>
-    <!-- <number variable="number" prefix=": "/> -->
+    <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="title-zh">
     <text variable="title"/>
-    <!-- <number variable="number" prefix=": "/> -->
+    <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="container-contributors">
     <names variable="container-author">
@@ -77,7 +77,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <number variable="edition"/>
+          <text variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -86,18 +86,18 @@
   <macro name="serial-information">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-    <number variable="page" prefix=": "/>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-    <number variable="page" prefix=": "/>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="publisher">
     <choose>
@@ -108,7 +108,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -199,7 +199,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </else-if>
       <!-- 英文专著 -->
       <else-if type="monograph">
@@ -228,7 +228,7 @@
         <text variable="publisher-place" prefix=". " suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </else-if>
       <!-- 英文专利 -->
       <else-if type="patent">
@@ -239,7 +239,7 @@
       <else-if type="article-newspaper">
         <text variable="publisher" prefix="[N]. " suffix=", "/>
         <text macro="issued-date"/>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>
@@ -305,7 +305,7 @@
         <text variable="publisher-place" suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </else-if>
       <!-- 中文专著 -->
       <else-if type="monograph">
@@ -334,7 +334,7 @@
         <text variable="publisher-place" prefix=". " suffix=": "/>
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </else-if>
       <!-- 中文专利 -->
       <else-if type="patent">
@@ -345,7 +345,7 @@
       <else-if type="article-newspaper">
         <text variable="publisher" prefix="[N]. " suffix=", "/>
         <text macro="issued-date"/>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </else-if>
       <else>
         <text macro="publisher" prefix=". "/>

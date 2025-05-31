@@ -84,7 +84,7 @@
   </macro>
   <macro name="title">
     <text variable="title" strip-periods="false" font-style="normal" font-variant="normal" prefix=" "/>
-    <number variable="number" prefix=": "/>
+    <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
       <choose>
@@ -96,7 +96,7 @@
   </macro>
   <macro name="title-zh">
     <text variable="title" font-style="normal"/>
-    <number variable="number" prefix=": "/>
+    <text variable="number" prefix=": "/>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
       <choose>
@@ -164,7 +164,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <number variable="edition"/>
+          <text variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -172,17 +172,17 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <number variable="volume" prefix=", "/>
+      <text variable="volume" prefix=", "/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-    <number variable="page" prefix=": "/>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
     <group delimiter=", ">
-      <number variable="volume" prefix=", "/>
+      <text variable="volume" prefix=", "/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-    <number variable="page" prefix=": "/>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="publisher">
     <choose>
@@ -194,7 +194,7 @@
           </group>
         </group>
         <date date-parts="year" form="text" variable="issued" prefix=" " suffix=". "/>
-        <number variable="page"/>
+        <text variable="page"/>
       </if>
     </choose>
   </macro>
@@ -208,7 +208,7 @@
           </group>
         </group>
         <date date-parts="year" form="numeric" variable="issued" suffix=". "/>
-        <number variable="page"/>
+        <text variable="page"/>
       </if>
     </choose>
   </macro>

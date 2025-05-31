@@ -66,7 +66,7 @@
         <label variable="volume"/>
       </if>
       <else>
-        <number variable="volume" prefix="（" suffix="）"/>
+        <text variable="volume" prefix="（" suffix="）"/>
       </else>
     </choose>
   </macro>
@@ -98,7 +98,7 @@
         <label variable="issue"/>
       </if>
       <else>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </else>
     </choose>
   </macro>

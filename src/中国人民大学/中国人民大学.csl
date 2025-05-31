@@ -114,7 +114,7 @@
         <label variable="edition" form="short"/>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -195,7 +195,7 @@
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <number variable="volume"/>
+        <text variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -207,7 +207,7 @@
         <label variable="issue" form="short"/>
       </if>
       <else>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -362,7 +362,7 @@
         </choose>
       </if>
       <else>
-        <number variable="page"/>
+        <text variable="page"/>
       </else>
     </choose>
   </macro>
@@ -374,13 +374,13 @@
         <if type="article-journal article-magazine article-newspaper" match="any">
           <text macro="container-periodical-en"/>
           <text macro="date-en"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </if>
         <else-if type="chapter paper-conference" match="any">
           <text macro="container-booklike-en"/>
           <text macro="publisher-en"/>
           <text macro="date-en"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </else-if>
         <else-if type="collection manuscript personal_communication" match="any">
           <text macro="date-en"/>

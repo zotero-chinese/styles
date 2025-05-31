@@ -104,10 +104,10 @@
         <choose>
           <if is-numeric="volume">
             <label variable="volume" form="short"/>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </if>
           <else>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </else>
         </choose>
       </if>
@@ -121,7 +121,7 @@
         <text variable="call-number"/>
       </if>
       <else-if variable="number">
-        <number variable="number"/>
+        <text variable="number"/>
       </else-if>
       <else-if type="collection manuscript personal_communication" variable="archive" match="any">
         <!-- 档案的档号 -->
@@ -248,7 +248,7 @@
           <text variable="container-title"/>
           <text macro="date"/>
         </group>
-        <number variable="page" prefix="（" suffix="）"/>
+        <text variable="page" prefix="（" suffix="）"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名，年，卷（期）：页码” -->
@@ -257,16 +257,16 @@
             <group delimiter="，">
               <text variable="container-title"/>
               <text macro="date"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="（" suffix="）"/>
+            <text variable="issue" prefix="（" suffix="）"/>
           </group>
           <choose>
             <if variable="page">
-              <number variable="page"/>
+              <text variable="page"/>
             </if>
             <else>
-              <number variable="number"/>
+              <text variable="number"/>
             </else>
           </choose>
         </group>
@@ -283,7 +283,7 @@
         </group>
       </if>
       <else-if variable="edition">
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else-if>
       <else-if variable="version">
         <label variable="version" form="short" text-case="capitalize-first" strip-periods="true"/>
@@ -306,13 +306,13 @@
                 </group>
                 <text macro="date"/>
               </group>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </if>
           <else>
             <group delimiter="：">
               <text macro="date"/>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </else>
         </choose>
@@ -328,7 +328,7 @@
                 </group>
                 <text macro="date"/>
               </group>
-              <number variable="page"/>
+              <text variable="page"/>
             </group>
           </if>
           <else>
@@ -363,7 +363,7 @@
             </group>
             <text macro="date"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -445,7 +445,7 @@
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
           <text macro="title"/>
-          <number variable="volume"/>
+          <text variable="volume"/>
           <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
@@ -493,7 +493,7 @@
               </group>
               <text macro="date"/>
             </group>
-            <number variable="page"/>
+            <text variable="page"/>
           </group>
         </else-if>
         <else>

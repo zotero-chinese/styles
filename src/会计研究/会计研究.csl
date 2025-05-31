@@ -74,7 +74,7 @@
     <text variable="title" text-case="title"/>
     <choose>
       <if type="bill broadcast legal_case legislation patent report song standard" match="any">
-        <number variable="number" prefix=": "/>
+        <text variable="number" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -93,7 +93,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <number variable="edition"/>
+          <text variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -101,15 +101,15 @@
   </macro>
   <macro name="serial-information">
     <group delimiter=", ">
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-    <number variable="page" prefix=": "/>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
     <group delimiter=": ">
-      <number variable="issue"/>
-      <number variable="page"/>
+      <text variable="issue"/>
+      <text variable="page"/>
     </group>
   </macro>
   <macro name="publisher">
@@ -121,7 +121,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>

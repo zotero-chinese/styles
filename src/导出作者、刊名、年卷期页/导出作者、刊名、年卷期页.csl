@@ -57,7 +57,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <number variable="edition"/>
+          <text variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -66,10 +66,10 @@
   <macro name="serial-information">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
-    <number variable="page" prefix=": "/>
+    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="publisher">
     <choose>
@@ -81,7 +81,7 @@
             <text macro="issued-year"/>
           </group>
         </group>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>

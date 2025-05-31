@@ -94,7 +94,7 @@
           <choose>
             <if type="article article-journal patent standard" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
           <choose>
@@ -109,7 +109,7 @@
         <if type="patent">
           <group delimiter=", ">
             <text macro="patent-country-en"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
         </if>
       </choose>
@@ -132,7 +132,7 @@
         </choose>
         <choose>
           <if type="bill legal_case legislation regulation report" match="any">
-            <number variable="number"/>
+            <text variable="number"/>
           </if>
         </choose>
       </group>
@@ -140,7 +140,7 @@
         <if type="patent">
           <group delimiter=", ">
             <text macro="patent-country-ZHtoEN"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
         </if>
       </choose>
@@ -164,7 +164,7 @@
           <choose>
             <if type="article article-journal patent standard" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
           <choose>
@@ -179,7 +179,7 @@
         <if type="patent">
           <group delimiter=", ">
             <text macro="patent-country-zh"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
         </if>
       </choose>
@@ -197,11 +197,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
           </if>
           <else>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </else>
         </choose>
       </if>
@@ -433,7 +433,7 @@
           <text variable="container-title" font-style="italic"/>
           <text macro="issued-date"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -442,11 +442,11 @@
             <group delimiter=", ">
               <text variable="container-title" font-style="italic"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -459,7 +459,7 @@
           <text variable="original-container-title" font-style="italic"/>
           <text macro="issued-date"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -468,11 +468,11 @@
             <group delimiter=", ">
               <text variable="original-container-title" font-style="italic"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -485,7 +485,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -494,11 +494,11 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -513,7 +513,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -521,9 +521,9 @@
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -550,7 +550,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -595,7 +595,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -712,7 +712,7 @@
           <text macro="publisher"/>
         </else-if>
         <else-if type="standard">
-          <number variable="number"/>
+          <text variable="number"/>
           <text macro="title-en"/>
           <text macro="publisher"/>
         </else-if>
@@ -768,7 +768,7 @@
           <text macro="publisher-ZHtoEN"/>
         </else-if>
         <else-if type="standard">
-          <number variable="number"/>
+          <text variable="number"/>
           <text macro="title-ZHtoEN"/>
           <text macro="publisher-ZHtoEN"/>
         </else-if>
@@ -825,7 +825,7 @@
           <text macro="publisher"/>
         </else-if>
         <else-if type="standard">
-          <number variable="number"/>
+          <text variable="number"/>
           <text macro="title-zh"/>
           <text macro="publisher"/>
         </else-if>

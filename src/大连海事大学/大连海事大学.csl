@@ -79,13 +79,13 @@
           <!-- <choose>
             <if type="patent" match="any">
               <text macro="patent-country" suffix=", "/>
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose> -->
           <choose>
             <if type="article article-journal patent" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
           <choose>
@@ -230,7 +230,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -239,11 +239,11 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -258,7 +258,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -266,9 +266,9 @@
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -276,7 +276,7 @@
       <if type="patent">
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="patent-country_region" suffix=": "/>
-        <number variable="number" suffix=", "/>
+        <text variable="number" suffix=", "/>
         <text macro="issued-date"/>
       </if>
       <!-- 图书 需要标明所引页码  第一优先选项 其他 中输入“Pages:11-26”  备选项  “存档位置”手动写入引用页码范围，例如60-65 图书类型的条目 存档位置、版权、索书号等几乎不被占用 备选可行，毕竟只输入数字还是要快一些 -->
@@ -310,7 +310,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -359,7 +359,7 @@
   <macro name="book_seleced_page">
     <choose>
       <if variable="page">
-        <number variable="page"/>
+        <text variable="page"/>
       </if>
       <else-if variable="archive_location">
         <!-- 档案的卷宗号 -->

@@ -211,7 +211,7 @@
         <label variable="issue" form="short"/>
       </if>
       <else>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -223,7 +223,7 @@
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <number variable="volume"/>
+        <text variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -243,7 +243,7 @@
         <number variable="page"/>
       </if>
       <else>
-        <number variable="page"/>
+        <text variable="page"/>
       </else>
     </choose>
   </macro>
@@ -253,7 +253,7 @@
         <number variable="number" prefix="No."/>
       </if>
       <else>
-        <number variable="number"/>
+        <text variable="number"/>
       </else>
     </choose>
   </macro>

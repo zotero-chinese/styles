@@ -120,7 +120,7 @@
                     <text macro="patent-country"/>
                   </if>
                 </choose>
-                <number variable="number"/>
+                <text variable="number"/>
               </group>
             </if>
           </choose>
@@ -156,11 +156,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
           </if>
           <else>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </else>
         </choose>
       </if>
@@ -299,7 +299,7 @@
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
@@ -307,11 +307,11 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -326,7 +326,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -334,9 +334,9 @@
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -361,7 +361,7 @@
               </else>
             </choose>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
       <else-if variable="URL">

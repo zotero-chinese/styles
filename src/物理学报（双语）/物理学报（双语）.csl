@@ -134,18 +134,18 @@
           </group>
         </if>
         <else>
-          <number variable="edition"/>
+          <text variable="edition"/>
         </else>
       </choose>
       <choose>
         <if is-numeric="volume">
           <group delimiter=" ">
             <label variable="volume" form="short" text-case="capitalize-first"/>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </group>
         </if>
         <else>
-          <number variable="volume"/>
+          <text variable="volume"/>
         </else>
       </choose>
     </group>
@@ -155,7 +155,7 @@
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
           <text variable="container-title" form="short" text-case="title" font-style="italic"/>
-          <number variable="volume" font-weight="bold"/>
+          <text variable="volume" font-weight="bold"/>
         </if>
         <else-if type="paper-conference">
           <choose>
@@ -196,7 +196,7 @@
               <text variable="original-container-title" text-case="title" font-style="italic"/>
             </else>
           </choose>
-          <number variable="volume" font-weight="bold"/>
+          <text variable="volume" font-weight="bold"/>
         </if>
         <else-if type="paper-conference">
           <choose>
@@ -248,7 +248,7 @@
             </choose>
             <text term="patent" text-case="capitalize-first"/>
           </group>
-          <number variable="number"/>
+          <text variable="number"/>
         </group>
       </else-if>
       <else-if type="article article-journal article-magazine article-newspaper" match="none">
@@ -284,7 +284,7 @@
             </choose>
             <text term="patent" text-case="capitalize-first"/>
           </group>
-          <number variable="number"/>
+          <text variable="number"/>
         </group>
       </else-if>
       <else-if type="article article-journal article-magazine article-newspaper" match="none">
@@ -300,27 +300,27 @@
       <if type="article-journal article-magazine article-newspaper" match="any">
         <choose>
           <if variable="number">
-            <number variable="number"/>
+            <text variable="number"/>
           </if>
           <else>
-            <number variable="page-first"/>
+            <text variable="page-first"/>
           </else>
         </choose>
       </if>
       <else-if type="broadcast chapter entry entry-dictionary entry-encyclopedia paper-conference" match="any">
         <label variable="page" form="short" plural="never" strip-periods="true"/>
-        <number variable="page-first"/>
+        <text variable="page-first"/>
       </else-if>
       <else>
         <label variable="page" form="short" strip-periods="true"/>
-        <number variable="page"/>
+        <text variable="page"/>
       </else>
     </choose>
   </macro>
   <macro name="access">
     <choose>
       <if type="article">
-        <number variable="number"/>
+        <text variable="number"/>
       </if>
       <else-if type="dataset interview manuscript pamphlet personal_communication post post-weblog speech webpage" match="any">
         <group delimiter=" ">

@@ -149,11 +149,11 @@
     <choose>
       <if is-numeric="volume">
         <text value="第"/>
-        <number variable="volume"/>
+        <text variable="volume"/>
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <number variable="volume"/>
+        <text variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -245,7 +245,7 @@
         <label variable="issue"/>
       </if>
       <else-if variable="issue">
-        <number variable="issue"/>
+        <text variable="issue"/>
       </else-if>
       <else-if is-numeric="volume">
         <text value="第"/>
@@ -253,7 +253,7 @@
         <label variable="volume"/>
       </else-if>
       <else-if variable="volume">
-        <number variable="volume"/>
+        <text variable="volume"/>
       </else-if>
     </choose>
   </macro>
@@ -267,7 +267,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -280,7 +280,7 @@
           <group delimiter=", ">
             <text macro="patent-country"/>
             <text variable="genre"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
         </group>
       </if>
@@ -311,7 +311,7 @@
           <group delimiter="，">
             <text macro="patent-country"/>
             <text variable="genre"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
         </group>
       </if>

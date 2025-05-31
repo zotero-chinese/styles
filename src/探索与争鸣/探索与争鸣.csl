@@ -96,7 +96,7 @@
         <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
         <group>
           <label variable="page" form="short"/>
-          <number variable="page" suffix="."/>
+          <text variable="page" suffix="."/>
         </group>
       </else-if>
       <else-if type="webpage">
@@ -119,12 +119,12 @@
       <else>
         <text variable="title" prefix="“" suffix=",” "/>
         <text variable="container-title" font-style="italic" suffix=", "/>
-        <number variable="volume" prefix="Vol. " suffix=", "/>
-        <number variable="issue" prefix="No. "/>
+        <text variable="volume" prefix="Vol. " suffix=", "/>
+        <text variable="issue" prefix="No. "/>
         <date date-parts="year" form="text" variable="issued" prefix="(" suffix="), "/>
         <group>
           <label variable="page" form="short"/>
-          <number variable="page" suffix="."/>
+          <text variable="page" suffix="."/>
         </group>
       </else>
     </choose>
@@ -179,7 +179,7 @@
           <text variable="title" prefix="：《" suffix="》，"/>
           <text macro="container-title"/>
           <date date-parts="year" form="text" variable="issued"/>
-          <number variable="issue" prefix="第" suffix="期。"/>
+          <text variable="issue" prefix="第" suffix="期。"/>
         </else-if>
         <else-if type="article-newspaper">
           <text macro="author"/>
@@ -197,7 +197,7 @@
           <text variable="publisher-place" suffix="："/>
           <text variable="publisher"/>
           <date date-parts="year" form="text" variable="issued" prefix="，"/>
-          <number variable="page" prefix="，第" suffix="页。"/>
+          <text variable="page" prefix="，第" suffix="页。"/>
         </else-if>
         <else-if type="webpage">
           <text macro="author" suffix="："/>
@@ -270,7 +270,7 @@
           <text variable="title" prefix="：《" suffix="》，"/>
           <text macro="container-title"/>
           <date date-parts="year" form="text" variable="issued"/>
-          <number variable="issue" prefix="第" suffix="期。"/>
+          <text variable="issue" prefix="第" suffix="期。"/>
         </else-if>
         <else-if type="article-newspaper">
           <text macro="author"/>
@@ -288,7 +288,7 @@
           <text variable="publisher-place" suffix="："/>
           <text variable="publisher"/>
           <date date-parts="year" form="text" variable="issued" prefix="，"/>
-          <number variable="page" prefix="，第" suffix="页。"/>
+          <text variable="page" prefix="，第" suffix="页。"/>
         </else-if>
         <else-if type="webpage">
           <text macro="author" suffix="："/>

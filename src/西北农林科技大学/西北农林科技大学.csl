@@ -152,7 +152,7 @@
           <choose>
             <if type="article article-journal patent" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
         </group>
@@ -179,7 +179,7 @@
           <choose>
             <if type="article article-journal patent" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
         </group>
@@ -206,11 +206,11 @@
           <if is-numeric="volume">
             <group delimiter=" ">
               <label variable="volume" form="short" text-case="capitalize-first"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
           </if>
           <else>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </else>
         </choose>
       </if>
@@ -410,7 +410,7 @@
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码” -->
         <group delimiter=", ">
           <text variable="container-title" form="short" strip-periods="true"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </if>
       <else>
@@ -419,11 +419,11 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title" form="short" strip-periods="true"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -435,7 +435,7 @@
         <!-- 报纸的出处项：“刊名,出版日期(版次):页码” -->
         <group delimiter=",">
           <text variable="container-title" form="short" strip-periods="true"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </if>
       <else>
@@ -444,11 +444,11 @@
           <group>
             <group delimiter=",">
               <text variable="container-title" form="short" strip-periods="true"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -463,7 +463,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -474,7 +474,7 @@
         <label variable="edition" form="short"/>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -482,9 +482,9 @@
   <macro name="year-volume-issue">
     <group delimiter=",">
       <text macro="date-bib"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher-en">
@@ -495,7 +495,7 @@
             <text macro="patent-country-en"/>
             <text macro="patent-type-en"/>
           </group>
-          <number variable="number"/>
+          <text variable="number"/>
         </group>
       </if>
       <else-if type="paper-conference">
@@ -538,14 +538,14 @@
             <text macro="patent-country-zh"/>
             <text macro="patent-type-zh"/>
           </group>
-          <number variable="number"/>
+          <text variable="number"/>
         </group>
       </if>
       <else-if type="paper-conference">
         <!-- 会议论文集的格式“出版者,页码”（出版者为会议名称） -->
         <group delimiter=",">
           <text variable="publisher"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
       <else-if type="book chapter periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
@@ -630,7 +630,7 @@
         <number variable="page"/>
       </if>
       <else>
-        <number variable="page"/>
+        <text variable="page"/>
       </else>
     </choose>
   </macro>

@@ -196,9 +196,9 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
           <text macro="locator"/>
         </group>
@@ -221,9 +221,9 @@
             <group delimiter="，">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
           <text macro="locator"/>
         </group>
@@ -240,7 +240,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -251,7 +251,7 @@
         <group delimiter=", ">
           <group delimiter=". ">
             <text macro="patent-country-en"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
           <text macro="issued-date"/>
         </group>
@@ -282,7 +282,7 @@
         <group delimiter="，">
           <group delimiter="．">
             <text macro="patent-country-zh"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
           <text macro="issued-date"/>
         </group>
@@ -371,7 +371,7 @@
         <text variable="locator"/>
       </if>
       <else>
-        <number variable="page"/>
+        <text variable="page"/>
       </else>
     </choose>
   </macro>

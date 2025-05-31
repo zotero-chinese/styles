@@ -197,11 +197,11 @@
             <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -222,11 +222,11 @@
             <group delimiter="，">
               <text variable="container-title"/>
               <text macro="issued-year"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -241,7 +241,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -252,7 +252,7 @@
         <group delimiter=", ">
           <group delimiter=". ">
             <text macro="patent-country-en"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
           <text macro="issued-date"/>
         </group>
@@ -272,7 +272,7 @@
             </choose>
           </group>
           <text macro="issued-year"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
     </choose>
@@ -283,7 +283,7 @@
         <group delimiter="，">
           <group delimiter="．">
             <text macro="patent-country-zh"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
           <text macro="issued-date"/>
         </group>
@@ -303,7 +303,7 @@
             </choose>
           </group>
           <text macro="issued-year"/>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else-if>
     </choose>

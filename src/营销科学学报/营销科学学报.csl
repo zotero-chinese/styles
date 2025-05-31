@@ -214,7 +214,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <number variable="edition"/>
+          <text variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -224,27 +224,27 @@
     <group prefix=", ">
       <choose>
         <if variable="volume">
-          <number variable="volume"/>
-          <number variable="issue" prefix="(" suffix=")"/>
+          <text variable="volume"/>
+          <text variable="issue" prefix="(" suffix=")"/>
         </if>
         <else>
-          <number variable="issue"/>
+          <text variable="issue"/>
         </else>
       </choose>
     </group>
-    <number variable="page" prefix=": "/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="serial-information-zh">
     <choose>
       <if variable="volume">
-        <number variable="volume"/>
-        <number variable="issue" prefix="(" suffix=")"/>
+        <text variable="volume"/>
+        <text variable="issue" prefix="(" suffix=")"/>
       </if>
       <else>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </else>
     </choose>
-    <number variable="page" prefix=": "/>
+    <text variable="page" prefix=": "/>
   </macro>
   <macro name="publisher">
     <choose>
@@ -255,7 +255,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -460,7 +460,7 @@
         <group prefix=", ">
           <text variable="publisher"/>
           <text variable="genre" prefix=" "/>
-          <number variable="number" prefix=", No. "/>
+          <text variable="number" prefix=", No. "/>
           <group delimiter=" ">
             <choose>
               <if has-day="issued">

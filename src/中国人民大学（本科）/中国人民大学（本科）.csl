@@ -134,7 +134,7 @@
     <group delimiter=", ">
       <choose>
         <if type="standard">
-          <number variable="number"/>
+          <text variable="number"/>
         </if>
       </choose>
       <group delimiter=": ">
@@ -149,7 +149,7 @@
           <choose>
             <if type="article article-journal regulation standard" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
           <choose>
@@ -187,7 +187,7 @@
             <label variable="volume" form="short"/>
           </if>
           <else>
-            <number variable="volume"/>
+            <text variable="volume"/>
           </else>
         </choose>
       </if>
@@ -313,7 +313,7 @@
           <text variable="container-title"/>
           <text macro="issued-date-zh"/>
         </group>
-        <number variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -322,11 +322,11 @@
             <text variable="container-title"/>
             <group>
               <text macro="issued-year-zh"/>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
-            <number variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
       </else>
     </choose>
@@ -341,7 +341,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -349,9 +349,9 @@
   <macro name="year-volume-issue-zh">
     <group delimiter=", ">
       <text macro="issued-year-zh"/>
-      <number variable="volume"/>
+      <text variable="volume"/>
     </group>
-    <number variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher-zh">
@@ -370,7 +370,7 @@
       <else-if type="regulation">
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <group delimiter=". ">
-          <number variable="number"/>
+          <text variable="number"/>
           <text macro="issued-date-zh"/>
         </group>
       </else-if>
@@ -393,7 +393,7 @@
             </group>
             <text macro="issued-year-zh"/>
           </group>
-          <number variable="page"/>
+          <text variable="page"/>
         </group>
         <text macro="accessed-date-zh"/>
       </else-if>
@@ -703,7 +703,7 @@
                     <if is-numeric="volume" match="none">
                       <group delimiter=" ">
                         <label variable="volume" form="short" text-case="capitalize-first"/>
-                        <number variable="volume"/>
+                        <text variable="volume"/>
                       </group>
                     </if>
                   </choose>
@@ -722,7 +722,7 @@
                 <if is-numeric="volume" match="none">
                   <group delimiter=" ">
                     <label variable="volume" form="short" text-case="capitalize-first"/>
-                    <number variable="volume"/>
+                    <text variable="volume"/>
                   </group>
                 </if>
               </choose>
@@ -751,7 +751,7 @@
             </choose>
             <group delimiter=" ">
               <label variable="number" form="short" text-case="capitalize-first"/>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
           </group>
         </if>
@@ -1201,7 +1201,7 @@
             <text variable="genre" text-case="title"/>
             <group delimiter=" ">
               <label variable="number" form="short" text-case="capitalize-first"/>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
           </group>
           <choose>
@@ -1264,7 +1264,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -1304,11 +1304,11 @@
       </choose>
       <group delimiter=" ">
         <label variable="issue" text-case="capitalize-first"/>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </group>
       <group delimiter=" ">
         <label variable="page" form="short" suffix=" "/>
-        <number variable="page"/>
+        <text variable="page"/>
       </group>
     </group>
   </macro>
@@ -1394,12 +1394,12 @@
         <choose>
           <if variable="volume">
             <group>
-              <number variable="volume" font-style="italic"/>
-              <number variable="issue" prefix="(" suffix=")"/>
+              <text variable="volume" font-style="italic"/>
+              <text variable="issue" prefix="(" suffix=")"/>
             </group>
           </if>
           <else>
-            <number variable="issue" font-style="italic"/>
+            <text variable="issue" font-style="italic"/>
           </else>
         </choose>
         <choose>
@@ -1408,11 +1408,11 @@
             <!-- This should be localized -->
             <group delimiter=" ">
               <text term="article-locator" text-case="capitalize-first"/>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
           </if>
           <else>
-            <number variable="page"/>
+            <text variable="page"/>
           </else>
         </choose>
       </group>
@@ -1452,7 +1452,7 @@
                 <if is-numeric="volume" match="none">
                   <group delimiter=" ">
                     <label variable="volume" form="short" text-case="capitalize-first"/>
-                    <number variable="volume"/>
+                    <text variable="volume"/>
                   </group>
                 </if>
               </choose>
@@ -1665,7 +1665,7 @@
               <group delimiter=" ">
                 <!-- APA manual omits the bill number, but it should be included per Bluebook if relevant -->
                 <text term="on"/>
-                <number variable="number"/>
+                <text variable="number"/>
               </group>
               <group delimiter=" ">
                 <!-- Use the `at` term to hold "before the" -->
@@ -1735,12 +1735,12 @@
           <text variable="container-title"/>
           <choose>
             <if variable="page page-first" match="any">
-              <number variable="page-first"/>
+              <text variable="page-first"/>
             </if>
             <else>
               <group delimiter=" ">
                 <label variable="number" form="short" text-case="capitalize-first"/>
-                <number variable="number"/>
+                <text variable="number"/>
               </group>
             </else>
           </choose>
@@ -1751,7 +1751,7 @@
           <choose>
             <if variable="container-title">
               <group delimiter=" ">
-                <number variable="volume"/>
+                <text variable="volume"/>
                 <text variable="container-title"/>
                 <group delimiter=" ">
                   <label variable="section" form="symbol"/>
@@ -1759,7 +1759,7 @@
                 </group>
                 <choose>
                   <if variable="page page-first" match="any">
-                    <number variable="page-first"/>
+                    <text variable="page-first"/>
                   </if>
                   <else>
                     <text value="___"/>
@@ -1770,7 +1770,7 @@
             <else>
               <group delimiter=" ">
                 <label variable="number" form="short" text-case="capitalize-first"/>
-                <number variable="number"/>
+                <text variable="number"/>
               </group>
             </else>
           </choose>
@@ -1789,7 +1789,7 @@
                   <label variable="number" form="short" text-case="capitalize-first"/>
                 </if>
               </choose>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
           </group>
           <group delimiter=" ">
@@ -1798,9 +1798,9 @@
             <text variable="chapter-number"/>
           </group>
           <group delimiter=" ">
-            <number variable="volume"/>
+            <text variable="volume"/>
             <text variable="container-title"/>
-            <number variable="page-first"/>
+            <text variable="page-first"/>
           </group>
         </group>
       </else-if>
@@ -1816,17 +1816,17 @@
           <if variable="number">
             <!-- There's a public law number. -->
             <group delimiter=", ">
-              <number variable="number" prefix="Pub. L. No. "/>
+              <text variable="number" prefix="Pub. L. No. "/>
               <group delimiter=" ">
-                <number variable="volume"/>
+                <text variable="volume"/>
                 <text variable="container-title"/>
-                <number variable="page-first"/>
+                <text variable="page-first"/>
               </group>
             </group>
           </if>
           <else>
             <group delimiter=" ">
-              <number variable="volume"/>
+              <text variable="volume"/>
               <text variable="container-title"/>
               <choose>
                 <if variable="section">
@@ -1836,7 +1836,7 @@
                   </group>
                 </if>
                 <else>
-                  <number variable="page-first"/>
+                  <text variable="page-first"/>
                 </else>
               </choose>
             </group>
@@ -1849,11 +1849,11 @@
             <text variable="genre"/>
             <group delimiter=" ">
               <label variable="number" form="short" text-case="capitalize-first"/>
-              <number variable="number"/>
+              <text variable="number"/>
             </group>
           </group>
           <group delimiter=" ">
-            <number variable="volume"/>
+            <text variable="volume"/>
             <text variable="container-title"/>
             <choose>
               <if variable="section">
@@ -1863,7 +1863,7 @@
                 </group>
               </if>
               <else>
-                <number variable="page-first"/>
+                <text variable="page-first"/>
               </else>
             </choose>
           </group>

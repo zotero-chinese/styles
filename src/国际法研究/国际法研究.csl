@@ -127,7 +127,7 @@
               <text macro="issuance-en" prefix="(" suffix=")"/>
               <text macro="container-en"/>
               <group delimiter=", ">
-                <number variable="page-first"/>
+                <text variable="page-first"/>
                 <text macro="locator-en"/>
               </group>
             </group>
@@ -176,7 +176,7 @@
                   <text macro="title-en"/>
                   <group delimiter=" ">
                     <text value="Pub. L. No."/>
-                    <number variable="number"/>
+                    <text variable="number"/>
                   </group>
                   <text macro="section-en"/>
                   <text macro="container-en"/>
@@ -193,7 +193,7 @@
                 </group>
               </else>
             </choose>
-            <number variable="page"/>
+            <text variable="page"/>
             <text macro="locator-en"/>
             <text macro="issuance-en" prefix="(" suffix=")"/>
           </group>
@@ -205,13 +205,13 @@
               <text macro="title-en"/>
               <group delimiter=" ">
                 <text value="No."/>
-                <number variable="number"/>
+                <text variable="number"/>
               </group>
-              <number variable="volume"/>
+              <text variable="volume"/>
             </group>
             <text macro="container-en"/>
             <group delimiter=", ">
-              <number variable="page"/>
+              <text variable="page"/>
               <text variable="locator"/>
             </group>
             <group delimiter=" " prefix="(" suffix=")">
@@ -333,7 +333,7 @@
           <text macro="title-zh"/>
           <choose>
             <if variable="section locator" match="none">
-              <number variable="number"/>
+              <text variable="number"/>
             </if>
           </choose>
           <choose>
@@ -392,7 +392,7 @@
           <text macro="author-zh"/>
           <group delimiter="，">
             <text macro="title-zh"/>
-            <number variable="number"/>
+            <text variable="number"/>
           </group>
         </group>
       </else-if>
@@ -490,7 +490,7 @@
             </else-if>
             <else-if variable="section locator" match="any">
               <!-- 64.1 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》(法释 〔2018〕1 号)，第 100 条。 -->
-              <number variable="number"/>
+              <text variable="number"/>
             </else-if>
           </choose>
         </group>
@@ -539,7 +539,7 @@
         </group>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -551,7 +551,7 @@
         <label variable="edition" form="short"/>
       </if>
       <else>
-        <number variable="edition"/>
+        <text variable="edition"/>
       </else>
     </choose>
   </macro>
@@ -571,7 +571,7 @@
     <choose>
       <if type="article-journal article-magazine" match="any">
         <group delimiter=" ">
-          <number variable="volume"/>
+          <text variable="volume"/>
           <text variable="container-title" text-case="title" font-style="italic"/>
         </group>
       </if>
@@ -581,7 +581,7 @@
           <group delimiter=", ">
             <text macro="editor-en"/>
             <group delimiter=" ">
-              <number variable="volume"/>
+              <text variable="volume"/>
               <text variable="container-title" text-case="title"/>
             </group>
           </group>
@@ -589,7 +589,7 @@
       </else-if>
       <else-if type="legislation">
         <group delimiter=" ">
-          <number variable="volume"/>
+          <text variable="volume"/>
           <text variable="container-title" text-case="title"/>
         </group>
       </else-if>
@@ -642,7 +642,7 @@
           </else-if>
           <else>
             <text variable="authority"/>
-            <number variable="number"/>
+            <text variable="number"/>
             <choose>
               <if variable="genre">
                 <!-- 用户需要在 genre 中填写司法案例的文书名称，如“民事判决书”、“行政判决书” -->
@@ -694,7 +694,7 @@
         <label variable="volume" form="short"/>
       </if>
       <else>
-        <number variable="volume"/>
+        <text variable="volume"/>
       </else>
     </choose>
   </macro>
@@ -713,7 +713,7 @@
         </choose>
       </if>
       <else>
-        <number variable="issue"/>
+        <text variable="issue"/>
       </else>
     </choose>
   </macro>
@@ -852,11 +852,11 @@
       <else-if variable="page">
         <choose>
           <if type="article-newspaper">
-            <number variable="page" form="short"/>
+            <text variable="page" form="short"/>
           </if>
           <else-if type="article-magazine">
             <label variable="page" form="short" suffix=" "/>
-            <number variable="page"/>
+            <text variable="page"/>
           </else-if>
         </choose>
       </else-if>
@@ -872,11 +872,11 @@
         <choose>
           <if is-numeric="page">
             <text value="第"/>
-            <number variable="page"/>
+            <text variable="page"/>
             <text value="版"/>
           </if>
           <else>
-            <number variable="page"/>
+            <text variable="page"/>
           </else>
         </choose>
       </else-if>

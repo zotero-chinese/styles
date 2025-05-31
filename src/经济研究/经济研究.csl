@@ -92,11 +92,11 @@
   </macro>
   <macro name="title">
     <text variable="title" text-case="title" quotes="true"/>
-    <!-- <number variable="number" prefix=": "/> -->
+    <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="title-zh">
     <text variable="title" prefix="《" suffix="》"/>
-    <!-- <number variable="number" prefix=": "/> -->
+    <!-- <text variable="number" prefix=": "/> -->
   </macro>
   <macro name="container-contributors">
     <names variable="container-author">
@@ -113,7 +113,7 @@
     <choose>
       <if variable="edition">
         <group delimiter=" ">
-          <number variable="edition"/>
+          <text variable="edition"/>
           <label variable="edition"/>
         </group>
       </if>
@@ -121,16 +121,16 @@
   </macro>
   <macro name="serial-information">
     <group prefix=", ">
-      <number variable="volume"/>
-      <number variable="issue" prefix="(" suffix=")"/>
+      <text variable="volume"/>
+      <text variable="issue" prefix="(" suffix=")"/>
     </group>
-    <number variable="page" prefix=", "/>
+    <text variable="page" prefix=", "/>
   </macro>
   <macro name="serial-information-zh">
     <!-- <text macro="issued-year" suffix="年"/> -->
-    <!-- <number variable="volume"/> -->
-    <number variable="issue" prefix="第" suffix="期"/>
-    <!-- <number variable="page" prefix=": "/> -->
+    <!-- <text variable="volume"/> -->
+    <text variable="issue" prefix="第" suffix="期"/>
+    <!-- <text variable="page" prefix=": "/> -->
   </macro>
   <macro name="publisher">
     <choose>
@@ -141,7 +141,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-        <number variable="page" prefix=": "/>
+        <text variable="page" prefix=": "/>
       </if>
     </choose>
   </macro>
@@ -155,7 +155,7 @@
             <text variable="publisher"/>
           </group>
         </group>
-        <!-- <number variable="page" prefix=": "/> -->
+        <!-- <text variable="page" prefix=": "/> -->
         <text macro="issued-year" prefix="，" suffix="年"/>
       </if>
     </choose>
@@ -210,7 +210,7 @@
         <group prefix=", ">
           <text variable="publisher"/>
           <text variable="genre" prefix=" "/>
-          <number variable="number" prefix=", No. "/>
+          <text variable="number" prefix=", No. "/>
         </group>
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
