@@ -465,7 +465,7 @@
   <macro name="citation-locator-en">
     <group delimiter=" ">
       <choose>
-        <if locator="chapter">
+        <if locator="Chapter">
           <label variable="locator" text-case="capitalize-first"/>
         </if>
         <else>
@@ -478,7 +478,7 @@
   <macro name="citation-locator-cn">
     <text variable="locator"/>
     <choose>
-      <if locator="chapter">
+      <if locator="Chapter">
         <label variable="locator" text-case="capitalize-first"/>
       </if>
       <else>
