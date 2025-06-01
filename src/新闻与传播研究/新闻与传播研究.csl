@@ -197,7 +197,7 @@
               <text variable="event"/>
               <text variable="event-place"/>
             </group>
-            <date date-parts="year-month-date" form="text" variable="issued"/>
+            <date date-parts="year-month-day" form="text" variable="issued"/>
             <group>
               <label variable="locator" form="short" prefix=", "/>
               <text variable="locator"/>
@@ -210,7 +210,7 @@
               <text variable="event"/>
               <text variable="event-place"/>
             </group>
-            <date date-parts="year-month-date" form="text" variable="issued"/>
+            <date date-parts="year-month-day" form="text" variable="issued"/>
             <group>
               <label variable="page" form="short" prefix=", "/>
               <text variable="page"/>
@@ -432,7 +432,7 @@
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
@@ -443,7 +443,7 @@
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text variable="page" prefix="，第" suffix="页"/>
           </else>

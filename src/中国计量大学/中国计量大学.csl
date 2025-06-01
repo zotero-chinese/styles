@@ -377,10 +377,10 @@
       <if type="article-journal" variable="DOI" match="all">
         <text variable="DOI" prefix="DOI: "/>
       </if>
-      <if type="article dataset post post-weblog software webpage" match="any">
+      <else-if type="article dataset post post-weblog software webpage" match="any">
         <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
-      </if>
+      </else-if>
     </choose>
   </macro>
   <!-- 参考文献表格式 -->

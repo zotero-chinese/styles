@@ -332,9 +332,9 @@
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
     <choose>
-      <if type="article-journal article-newspaper artiel-magazine" match="any">
+      <if type="article-journal article-newspaper article-magazine" match="any">
         <choose>
-          <if variable="volume isuue page" match="none">
+          <if variable="volume issue page" match="none">
             <text variable="DOI" prefix="DOI: "/>
           </if>
         </choose>
