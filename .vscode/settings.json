@@ -30,8 +30,9 @@
   "xml.fileAssociations": [
     {
       "pattern": "**/*.csl",
-      // "systemId": "${workspaceFolder}/lib/schema/generated-schemas/merged/csl-mlz.rng"
+      // 修改后的 CSL-M
       "systemId": "${workspaceFolder}/node_modules/@zotero-chinese/csl-m-schema-rng/generated-schemas/merged/csl-mlz.rng"
+      // 原始的官方 CSL 1.0.2
       // "systemId": "${workspaceFolder}/node_modules/@zotero-chinese/csl-m-schema-rng/generated-schemas/merged/csl.rng"
     }
   ],
