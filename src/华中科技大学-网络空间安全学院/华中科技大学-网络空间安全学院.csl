@@ -454,7 +454,7 @@
     </layout>
   </citation>
   <!-- 参考文献表, 作者个数不超过3个 -->
-  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush" line-spacing="1.5">
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en"/>

@@ -102,9 +102,9 @@
 <sup>39</sup> Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayashi, and Taiga Nakamura, <i>Electronic Watermarking Method and System</i>, 2005.<br>
 <sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>41</sup> 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，2005年。<br>
-<sup>42</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
+<sup>42</sup> D. Bawden, <i>Origins and Concepts of Digital Literacy</i>, May 4, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
 <sup>43</sup> Online Computer Library Center, Inc., <i>About OCLC: History of Cooperation</i>, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.<br>
-<sup>44</sup> A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
+<sup>44</sup> A. Hopkinson, <i>UNIMARC and Metadata: Dublin Core</i>, April 22, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
 <sup>45</sup> “Coffee Drinking and Cancer of the Pancreas”, <i>British Medical Journal</i>, Vol.283, No.6292, 1981, p.628.<br>
 <sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，中国科学技术大学博士学位论文，2000年，第17—18页。<br>
 <sup>47</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, John Wiley &#38; Sons, 2013, pp.21-22.<br>
@@ -188,7 +188,7 @@
 <sup>125</sup> 萧钰：“出版业信息化迈入快车道”，2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>。<br>
 <sup>126</sup> 李强：“化解医患矛盾需釜底抽薪”，2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>。<br>
 <sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, <i>Pennsylvania Library Laws</i>, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.<br>
-<sup>128</sup> <i>Dublin Core Metadata Element Set: Version 1.1</i>, 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
+<sup>128</sup> <i>Dublin Core Metadata Element Set: Version 1.1</i>, June 14, 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -345,7 +345,7 @@
 <sup>49</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council</i>, vol. 467, 1984, p.837.<br>
 <sup>50</sup> <i>Roe <span style="font-style:normal;">v.</span> Wade</i>, vol. 410, 1973, p.113.<br>
 <sup>51</sup> <i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i><br>
-<sup>52</sup> Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
+<sup>52</sup> Stephen McDonell, <i>When China Began Streaming Trials Online</i>, BBC News, September 30, 2016, <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.<br>
 <sup>53</sup> Marc Chevallier, <i>L’État de droit</i>, Montchrestien, 2003.<br>
 <sup>54</sup> Marc Poisson, “Le droit de la mer”, <i>RGDIP</i>, 2015, pp.15-47.<br>
 <sup>55</sup> Claire Badiou-Monferran, “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle”, <i>La Licorne</i>, No.43, 1997, pp.75-94.<br>
@@ -482,7 +482,7 @@
 <sup>92</sup> <i>The Year We Thought about Love</i>, 2016.<br>
 <sup>93</sup> F. Santos, “Reframing Refugee Children’s Stories”, The New York Times, January 11, 2019.<br>
 <sup>94</sup> M. Yousafzai, <i>We Are Displaced: My Journey and Stories from Refugee Girls around the World</i>, 2016.<br>
-<sup>95</sup> D. Perkins, <i><span style="font-style:normal;">The Good Place</span> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile</i>, 2018, <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.<br>
+<sup>95</sup> D. Perkins, <i><span style="font-style:normal;">The Good Place</span> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile</i>, February 1, 2018, <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.<br>
 <sup>96</sup> <i>Somewhere Else</i>, 2018.<br>
 <sup>97</sup> J. Yoo, Y. Miyamoto, A. Rigotti, and C. Ryff, Linking Positive Affect to Blood Lipids: A Cultural Perspective, 2016, Department of Psychology, University of Wisconsin-Madison.<br>
 <sup>98</sup> M. O’Shea, Understanding Proactive Behavior in the Workplace as a Function of Gender, 2018, Department of Management, University of Kansas.<br>
@@ -549,11 +549,11 @@
 <sup>159</sup> Zeitz MOCAA [@zeitzmocaa], <i>Grade 6 Learners from Parkfields Primary School in Hanover Park Visited the Museum for a Tour and Workshop Hosted By</i>, Instagram, November 26, 2018, <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.<br>
 <sup>160</sup> The New York Public Library [@nypl], <i>The Raven</i>, Instagram, <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>.<br>
 <sup>161</sup> National Aeronautics and Space Administration [@nasa], <i>I’m NASA Astronaut Scott Tingle. Ask Me Anything about Adjusting to Being Back on Earth after My First Spaceflight!</i>, Reddit, September 12, 2018, <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>.<br>
-<sup>162</sup> N. Avramova, <i>The Secret to a Long, Happy, Health Life? Think Age-Positive</i>, CNN, 2019, <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.<br>
-<sup>163</sup> C. Bologna, <i>What Happens to Your Mind and Body When You Feel Homesick?</i>, HuffPost, 2018, <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.<br>
-<sup>164</sup> Centers for Disease Control and Prevention, <i>People at High Risk of Developing Flu-Related Complications</i>, 2018, <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.<br>
-<sup>165</sup> World Health Organization, <i>Questions and Answers on Immunization and Vaccine Safety</i>, 2018, <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.<br>
-<sup>166</sup> C. M. Martin Lillie, <i>Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency</i>, Mayo Clinic, 2016, <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
+<sup>162</sup> N. Avramova, <i>The Secret to a Long, Happy, Health Life? Think Age-Positive</i>, CNN, January 3, 2019, <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.<br>
+<sup>163</sup> C. Bologna, <i>What Happens to Your Mind and Body When You Feel Homesick?</i>, HuffPost, June 27, 2018, <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.<br>
+<sup>164</sup> Centers for Disease Control and Prevention, <i>People at High Risk of Developing Flu-Related Complications</i>, January 23, 2018, <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.<br>
+<sup>165</sup> World Health Organization, <i>Questions and Answers on Immunization and Vaccine Safety</i>, March 2018, <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.<br>
+<sup>166</sup> C. M. Martin Lillie, <i>Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency</i>, Mayo Clinic, December 29, 2016, <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>.<br>
 <sup>167</sup> J. Boddy, T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees, and W. Gibson, <i>Ethics Principles</i>, The research ethics guidebook: A resource for social scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
 <sup>168</sup> National Nurses United, <i>What Employers Should Do to Protect Nurses from Zika</i>, <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
 <sup>169</sup> U.S. Census Bureau, <i>U.S. and World Population Clock</i>, U.S. Department of Commerce, <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.<br>

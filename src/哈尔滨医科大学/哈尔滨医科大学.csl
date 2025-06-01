@@ -384,6 +384,8 @@
       <if variable="DOI">
         <text variable="DOI" prefix="DOI:"/>
       </if>
+    </choose>
+    <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>

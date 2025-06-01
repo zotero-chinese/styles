@@ -27,11 +27,6 @@
       </term>
     </terms>
   </locale>
-  <locale>
-    <terms>
-      <term name="space-et-al"> 等</term>
-    </terms>
-  </locale>
   <macro name="author">
     <choose>
       <if variable="author">
@@ -59,7 +54,6 @@
     </choose>
   </macro>
   <macro name="author-intext-en">
-    <et-al term="space-et-al"/>
     <choose>
       <if variable="author">
         <names variable="author">

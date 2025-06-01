@@ -249,7 +249,7 @@
   <macro name="container-booklike">
     <group delimiter=". ">
       <text macro="container-contributors"/>
-      <group macro="container-contributors">
+      <group>
         <group delimiter=": ">
           <text variable="container-title"/>
           <text macro="volume"/>

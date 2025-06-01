@@ -110,7 +110,7 @@
           </else>
         </choose>
         <choose>
-          <if variable="book chapter" match="any">
+          <if locator="book chapter" match="any">
             <text macro="book-volume"/>
           </if>
         </choose>

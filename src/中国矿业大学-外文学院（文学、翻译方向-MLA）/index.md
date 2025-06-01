@@ -307,7 +307,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council.” <i>U.S.</i>, vol. 467, 1984, 837.</div>
   <div class="csl-entry">“Department of Transportation Act.” <i>Stat.</i>, vol. 80, 89-670, 1966, 931, 944–47.</div>
   <div class="csl-entry">Dreier, Ralf, and Stanley Paulson, eds. <i>Rechtsphilosophie Studienausgabe</i>. 2nd ed., UTB Uni-Taschenbücher Verlag, 2003.</div>
-  <div class="csl-entry">Fischer, Thomas. “Absurdes Spektakel um den Tod.” <i>Die Zeit</i>, 29 Sept. 2015.</div>
+  <div class="csl-entry">Fischer, Thomas. “Absurdes Spektakel um den Tod.” <i>Die Zeit</i>, 29 September 2015.</div>
   <div class="csl-entry"><i>GG</i>.</div>
   <div class="csl-entry">Habermas, Jürgen. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Trans. William Rehg, MIT Press, 1996.</div>
   <div class="csl-entry">Horsley, Jamie. “Rule of Law in China: Incremental Progress.” <i>China: The Balance Sheet</i>, Eds. C. Fred Bergsten et al., Public Affairs Press, 2006.</div>
@@ -409,7 +409,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">APA Style [@APA_Style]. “Tweets.” <i>Twitter</i>. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>. Accessed 1 Nov. 2019.</div>
   <div class="csl-entry">Aristotle. <i>Poetics</i>. 349BC. Trans. S. H. Butcher, The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">Australian Government Productivity Commission and New Zealand Productivity Commission. <i>Strengthening Trans-Tasman Economic Relations</i>. 2012.</div>
-  <div class="csl-entry">Author, A. “How Workout Buddies Can Help Stave off Loneliness.” <i>The Washington Post</i>, 15 Jan. 2019.</div>
+  <div class="csl-entry">Author, A. “How Workout Buddies Can Help Stave off Loneliness.” <i>The Washington Post</i>, 15 January 2019.</div>
   <div class="csl-entry">Avramova, N. “The Secret to a Long, Happy, Health Life? Think Age-Positive.” <i>CNN</i>, 3 Jan. 2019. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
   <div class="csl-entry">Badlands National Park [@BadlandsNPS]. “Biologists Have Identified More than 400 Different Plant Species Growing in @BadlandsNPS #DYK #biodoversity.” <i>Twitter</i>, 26 Feb. 2018. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.</div>
   <div class="csl-entry">Baer, R. A. <i>Unpublished Raw Data on the Correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills</i>. University of Kentucky, 2015.</div>
@@ -467,17 +467,17 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Glass, I. “Amusement Park.” <i>This American Life</i>, 443, WBEZ Chicago, 12 Aug. 2011.</div>
   <div class="csl-entry">Gold, M., ed. <i>The Complete Social Scientist: A Kurt Lewin Reader</i>. American Psychological Association, 1999.</div>
   <div class="csl-entry">Goldin-Meadow, S. “Gesture and Cognitive Development.” <i>Handbook of Child Psychology and Developmental Science</i>, Eds. L. S. Liben and U. Mueller, 7th ed., vol. 2, John Wiley &#38; Sons, 2015, 339–80.</div>
-  <div class="csl-entry">Goldman, C. “The Complicated Calibration of Love, Especially in Adoption.” <i>Chicago Tribune</i>, 28 Nov. 2018.</div>
+  <div class="csl-entry">Goldman, C. “The Complicated Calibration of Love, Especially in Adoption.” <i>Chicago Tribune</i>, 28 November 2018.</div>
   <div class="csl-entry"><i>Goodbye Children</i>. Dir. L. Malle, Nouvelles Éditions de Films, 1987.</div>
   <div class="csl-entry">Google. <i>Google Maps Directions for Driving from La Paz, Bolivia, to Lima, Peru</i>. Accessed 16 Feb. 2020.</div>
   <div class="csl-entry">Graham, G. “Behaviorism.” <i>The Stanford Encyclopedia of Philosophy</i>, Ed. E. N. Zalta, Summer 2019 ed., Stanford University, 2019.</div>
-  <div class="csl-entry">Guarino, B. “How Will Humanity React to Alien Life? Psychologists Have Some Predictions.” <i>The Washington Post</i>, 4 Dec. 2017.</div>
+  <div class="csl-entry">Guarino, B. “How Will Humanity React to Alien Life? Psychologists Have Some Predictions.” <i>The Washington Post</i>, 4 December 2017.</div>
   <div class="csl-entry">Hacker Hughes, J., ed. <i>Military Veteran Psychological Health and Social Care: Contemporary Approaches</i>. Routledge, 2017.</div>
   <div class="csl-entry"><i>Happiness</i>. Dir. S. Cutts, Vimeo, 2017.</div>
   <div class="csl-entry">Harris, L. <i>Instructional Leadership Perceptions and Practices of Elementary School Leaders</i>. 2014. University of Virginia, Unpublished doctoral dissertation.</div>
   <div class="csl-entry">Harwell, M. <i>Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change</i>. Policy brief, National Education Policy Center, 2018.</div>
   <div class="csl-entry">Heidegger, M. “On the Essence of Truth.” 1961. <i>Basic Writings</i>, Ed. D. F. Krell, Trans. J. Sallis, Harper Perennial Modern Thought, 2008, 111–38.</div>
-  <div class="csl-entry">Hess, A. “Cats Who Take Direction.” <i>The New York Times</i>, 3 Jan. 2019, Page , C1.</div>
+  <div class="csl-entry">Hess, A. “Cats Who Take Direction.” <i>The New York Times</i>, 3 January 2019, Page , C1.</div>
   <div class="csl-entry">Hiremath, S. C., et al. <i>Using Metaphors to Present Concepts across Different Intellectual Domains</i>. 9,367,592, 2016.</div>
   <div class="csl-entry">Ho, H. K. <i>Teacher Preparation for Early Childhood Special Education in Taiwan</i>. ED545393, ERIC, 2014.</div>
   <div class="csl-entry">Hollander, M. M. <i>Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment</i>. 10289373, 2017. University of Wisconsin–Madison, Doctoral dissertation. ProQuest Dissertations and Theses Global / University of Wisconsin–Madison.</div>
@@ -491,7 +491,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry"><i>King James Bible</i>. 1769. King James Bible Online, 2017.</div>
   <div class="csl-entry">King, M. L., Jr. <i>I Have a Dream</i>. American Rhetoric, 28 Aug. 1963.</div>
   <div class="csl-entry">Klymkowsky, M. “Can We Talk Scientifically about Free Will?” <i>Sci-Ed</i>, 15 Sept. 2018. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
-  <div class="csl-entry">KS in NJ. “From This Article, It Sounds like Men Are Figuring Something out That Women Have Known Forever. I Know of Many.” <i>The Washington Post</i>, 15 Jan. 2019.</div>
+  <div class="csl-entry">KS in NJ. “From This Article, It Sounds like Men Are Figuring Something out That Women Have Known Forever. I Know of Many.” <i>The Washington Post</i>, 15 January 2019.</div>
   <div class="csl-entry">Lamar, K. “Humble.” <i>Damn</i>, Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   <div class="csl-entry">“Lemons.” <i>Black-Ish</i>, Dir. K. Barris, Season 3, Episode 12, Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 11 Jan. 2017.</div>
   <div class="csl-entry">Leuker, C., et al. <i>When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials</i>. PsyArXiv, 2018.</div>
@@ -544,7 +544,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“S. Res. 438.” <i>Cong. Rec.</i>, vol. 162, 2016, 2394.</div>
   <div class="csl-entry">Sacchett, C., and G. W. Humphreys. “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts.” <i>Cognitive Psychology: Key Readings in Cognition</i>, Eds. D. A. Balota and E. J. Marsh, Psychology Press, 2004, 100–08.</div>
   <div class="csl-entry">---. “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts.” <i>Cognitive Neuropsychology</i> 9. 1 (1992): 73–86.</div>
-  <div class="csl-entry">Santos, F. “Reframing Refugee Children’s Stories.” <i>The New York Times</i>, 11 Jan. 2019.</div>
+  <div class="csl-entry">Santos, F. “Reframing Refugee Children’s Stories.” <i>The New York Times</i>, 11 January 2019.</div>
   <div class="csl-entry"><i>S.C. Const. Art. XI, § 3</i>.</div>
   <div class="csl-entry">Schmid, Henry-James, ed. <i>Entrenchment and the Psychology of Language Learning: How We Reorganize and Adapt Linguistic Knowledge</i>. American Psychological Association; De Gruyter Mouton, 2017.</div>
   <div class="csl-entry">Segaert, A., and A. Bauer. <i>The Extent and Nature of Veteran Homelessness in Canada</i>. Employment and Social Development Canada, 2015.</div>

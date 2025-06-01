@@ -38,7 +38,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="et-al-en">et al.</term>
+      <term name="en-et-al">et al.</term>
       <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
@@ -69,7 +69,7 @@
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
-      <et-al term="et-al-en" font-style="italic"/>
+      <et-al term="en-et-al" font-style="italic"/>
     </names>
   </macro>
   <!-- 题名 -->

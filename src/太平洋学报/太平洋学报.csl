@@ -239,7 +239,7 @@
       <else-if type="article-newspaper">
         <date variable="issued" form="text"/>
       </else-if>
-      <else-if type="post post-weblog webapge" match="any">
+      <else-if type="post post-weblog webpage" match="any">
         <date variable="issued" form="text"/>
       </else-if>
       <else>
@@ -389,18 +389,16 @@
     <choose>
       <if type="thesis">
         <text variable="publisher"/>
-        <choose>
-          <group delimiter="，">
-            <choose>
-              <if variable="genre">
-                <text variable="genre"/>
-              </if>
-              <else>
-                <text term="thesis"/>
-              </else>
-            </choose>
-          </group>
-        </choose>
+        <group delimiter="，">
+          <choose>
+            <if variable="genre">
+              <text variable="genre"/>
+            </if>
+            <else>
+              <text term="thesis"/>
+            </else>
+          </choose>
+        </group>
       </if>
       <else>
         <text variable="publisher"/>

@@ -774,7 +774,7 @@
     <div class="csl-left-margin">21.</div><div class="csl-right-inline">当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 应松年, 马怀德. 中国法制出版社, 2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">22.</div><div class="csl-right-inline">R. v. Panel on Take-overs and Mergers[M]. QB, 1987, 815.</div>
+    <div class="csl-left-margin">22.</div><div class="csl-right-inline">R. v. Panel on Take-Overs and Mergers[M]. QB, 1987, 815.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">23.</div><div class="csl-right-inline">罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1): 52–59.</div>
@@ -808,6 +808,9 @@
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">33.</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[S].</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">34.</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知[J].2007.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">35.</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释[J].2018.</div>
@@ -858,7 +861,7 @@
     <div class="csl-left-margin">50.</div><div class="csl-right-inline">Roe <i>v.</i> Wade[M]. U.S., 1973, 410: 113.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">51.</div><div class="csl-right-inline">United States <i>v.</i> Dino Nastasi et al.[M].</div>
+    <div class="csl-left-margin">51.</div><div class="csl-right-inline">United States <i>v.</i> Dino Nastasi et Al.[M].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">52.</div><div class="csl-right-inline">McDonell S. When China Began Streaming Trials Online[EB/OL]. BBC News, 2016-09-30. (2016-09-30)[2022-07-26] . <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
@@ -1536,10 +1539,10 @@
     <div class="csl-left-margin">187.</div><div class="csl-right-inline">H.R. Rep. No. 114-358[R].2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">188.</div><div class="csl-right-inline">Protection of human subjects[J]. C.F.R., 2009, 45.</div>
+    <div class="csl-left-margin">188.</div><div class="csl-right-inline">Protection of Human Subjects[J]. C.F.R., 2009, 45.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">189.</div><div class="csl-right-inline">Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[S]. F.R. , 81: 32391.</div>
+    <div class="csl-left-margin">189.</div><div class="csl-right-inline">Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees[S]. F.R. , 81: 32391.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">190.</div><div class="csl-right-inline">Exec. Order No. 13,676[J]. C.F.R., 2014, 3: 294.</div>
@@ -1548,22 +1551,22 @@
     <div class="csl-left-margin">191.</div><div class="csl-right-inline">Hiremath S C, Kumar S, Lu F, et al. Using Metaphors to Present Concepts across Different Intellectual Domains: 中国, 9,367,592[P]. U.S.: 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">192.</div><div class="csl-right-inline">U.S. Const. art. I, § 3[S].</div>
+    <div class="csl-left-margin">192.</div><div class="csl-right-inline">U.S. Const. Art. I, § 3[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">193.</div><div class="csl-right-inline">S.C. Const. art. XI, § 3[S].</div>
+    <div class="csl-left-margin">193.</div><div class="csl-right-inline">S.C. Const. Art. XI, § 3[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">194.</div><div class="csl-right-inline">U.S. Const. amend. XIX[S].</div>
+    <div class="csl-left-margin">194.</div><div class="csl-right-inline">U.S. Const. Amend. XIX[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">195.</div><div class="csl-right-inline">U.S. Const. amend. XVIII (repealed 1933)[S].</div>
+    <div class="csl-left-margin">195.</div><div class="csl-right-inline">U.S. Const. Amend. XVIII (Repealed 1933)[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">196.</div><div class="csl-right-inline">U.S. Const. amend. I-X[S].</div>
+    <div class="csl-left-margin">196.</div><div class="csl-right-inline">U.S. Const. Amend. I-X[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">197.</div><div class="csl-right-inline">U.N. Charter art. 1, para. 3[S].</div>
+    <div class="csl-left-margin">197.</div><div class="csl-right-inline">U.N. Charter Art. 1, Para. 3[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">198.</div><div class="csl-right-inline">United Nations Convention on the Rights of the Child[J].1989.</div>

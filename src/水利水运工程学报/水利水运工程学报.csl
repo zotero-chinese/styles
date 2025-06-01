@@ -23,7 +23,7 @@
       <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
-      <term name="et-al-en">et al.</term>
+      <term name="en-et-al">et al.</term>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
@@ -67,7 +67,7 @@
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
-      <et-al term="et-al-en"/>
+      <et-al term="en-et-al"/>
     </names>
   </macro>
   <!-- 题名 -->

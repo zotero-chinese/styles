@@ -363,7 +363,7 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">GB 15616—1995，土壤环境质量标准［S］．北京：中国标准出版社，1996：2-3.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">ISO 15836:2009, Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S]. [2013].</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">ISO 15836:2009, Information and documentation—The Dublin Core metadata element set[S]. [2013].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">卷 39 乞致仕第一［M］，苏魏公文集：下册．北京：中华书局，1988：590.</div>

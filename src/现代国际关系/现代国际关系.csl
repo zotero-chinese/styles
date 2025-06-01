@@ -4,6 +4,7 @@
     <title>现代国际关系</title>
     <id>https://www.zotero-chinese.com/styles/现代国际关系</id>
     <link href="https://www.zotero-chinese.com/styles/现代国际关系" rel="self"/>
+    <link href="" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>
       <email>edwardzhoujiaxi@gmail.com</email>
@@ -196,7 +197,7 @@
               <text variable="title" quotes="true"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <group>
               <label variable="locator" form="short" prefix=", "/>
@@ -209,7 +210,7 @@
               <text variable="title" quotes="true"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <group>
               <label variable="page" form="short" prefix=", "/>
@@ -463,7 +464,7 @@
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
@@ -473,7 +474,7 @@
             <group delimiter="，">
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text variable="page" prefix="，第" suffix="页"/>
           </else>

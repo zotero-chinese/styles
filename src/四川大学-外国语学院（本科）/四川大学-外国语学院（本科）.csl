@@ -58,7 +58,7 @@
   </locale>
   <locale>
     <terms>
-      <term name="et-al-en">et al.</term>
+      <term name="en-et-al">et al.</term>
     </terms>
   </locale>
   <macro name="author-en">
@@ -85,7 +85,7 @@
       </names>
       <names variable="original-author" prefix="(" suffix=")">
         <name name-as-sort-order="first" and="text" delimiter-precedes-last="never" delimiter-precedes-et-al="never" initialize="false"/>
-        <et-al term="et-al-en"/>
+        <et-al term="en-et-al"/>
         <substitute>
           <text variable="original-title"/>
         </substitute>
@@ -437,7 +437,7 @@
           </group>
         </group>
       </if>
-      <else-if type="broadcast motion_picture post post-weblog song webapge" match="any">
+      <else-if type="broadcast motion_picture post post-weblog song webpage" match="any">
         <choose>
           <if variable="publisher">
             <text variable="publisher"/>

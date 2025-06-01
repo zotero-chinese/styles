@@ -46,7 +46,7 @@
   </macro>
   <macro name="date">
     <choose>
-      <if type="aritcle-newspaper">
+      <if type="article-newspaper">
         <date variable="issued" form="text"/>
       </if>
       <else>
