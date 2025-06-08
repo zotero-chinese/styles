@@ -115,7 +115,7 @@
     </group>
   </macro>
   <macro name="title-zh">
-    <group delimiter="：">
+    <group delimiter="">
       <group delimiter=" ">
         <choose>
           <if type="standard">
@@ -138,11 +138,15 @@
           </group>
         </group>
       </group>
+      <group delimiter="/" prefix="[" suffix="]．">
+        <text macro="type-id"/>
+        <!-- <text macro="medium-id"/> -->
+      </group>
       <choose>
         <if type="thesis">
           <choose>
             <if variable="genre">
-              <text variable="genre" prefix="[" suffix="]"/>
+              <text variable="genre" prefix="[" suffix="学位论文]"/>
             </if>
             <else>
               <text value="[博士学位论文]"/>
@@ -150,10 +154,6 @@
           </choose>
         </if>
       </choose>
-    </group>
-    <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <!-- <text macro="medium-id"/> -->
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
