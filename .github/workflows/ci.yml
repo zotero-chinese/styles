@@ -31,7 +31,7 @@ jobs:
       - run: pnpm build
       # - run: pnpm format
 
-      - uses: northword/autofix-ci-action@fix-git-cjk-path
+      - uses: autofix-ci/action@main
 
   send-dispatch:
     name: 请求部署上线
