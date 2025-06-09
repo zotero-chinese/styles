@@ -1,23 +1,25 @@
 import { argv, exit } from "node:process";
 import { watch } from "chokidar";
 import FastGlob from "fast-glob";
-import fs from "fs-extra";
 import consola from "consola";
 import ora from "ora";
-
-// import { isMainThread } from "worker_threads";
-// import Tinypool from "tinypool";
-
+import Tinypool from "tinypool";
 import { generateAndWrite } from "./generate.js";
 import { getFileName } from "./utils/string.js";
+import { fileURLToPath } from "node:url";
+import path from "node:path";
 
-const arg = argv[2],
-  src = "src",
-  dist = "dist";
+const arg = argv[2];
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const workerPath = path.resolve(__dirname, "./worker.mjs");
+const pool = new Tinypool({
+  filename: workerPath,
+  // execArgv: ["--import", "tsx"],
+  runtime: "child_process",
+});
 
 async function main() {
-  // fs.ensureDir(dist);
-
   if (arg == "watch") {
     serve();
   } else if (arg == "all") {
@@ -54,13 +56,11 @@ function serve() {
 
 async function build() {
   console.time("build");
-  const spinner = ora();
   const result = await Promise.all(
     FastGlob.globSync("**/*.csl").map(async (path) => {
       try {
-        spinner.start(`${getFileName(path)}`);
-        const result = generateAndWrite(path);
-        spinner.succeed(`${getFileName(path)} - done`);
+        const result = await pool.run({ filePath: `${path}` });
+        consola.success(`${getFileName(path)} - done`);
         return result;
       } catch (e) {
         consola.error(path, e);
@@ -68,37 +68,8 @@ async function build() {
       }
     })
   );
-  // fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
   console.timeEnd("build");
 }
-
-// 尝试使用 worker 运行缩短时间
-// async function build() {
-//   if (isMainThread) {
-//     console.time("build");
-//     let result: StyleFullResult[] = [];
-
-//     const pool = new Tinypool({
-//       filename: "./dist/generate.js",
-//     });
-
-//     result = await Promise.all(
-//       FastGlob.globSync("**/*.csl").map((path) => {
-//         // (async function () {
-//         //   console.log(await  pool.run( path ););
-//         // })();
-
-//         return pool.run(path);
-//       })
-//     );
-//     fs.outputJSONSync(`${dist}/result.json`, result, { spaces: 2 });
-//     console.timeEnd("build");
-//   } else {
-//     module.exports = (path: string) => {
-//       return run(path);
-//     };
-//   }
-// }
 
 main().catch((err) => {
   consola.error(err);
