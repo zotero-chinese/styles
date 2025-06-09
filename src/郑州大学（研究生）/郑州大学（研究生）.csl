@@ -146,7 +146,7 @@
         <if type="thesis">
           <choose>
             <if variable="genre">
-              <text variable="genre" prefix="[" suffix="]"/>
+              <text variable="genre" prefix=". [" suffix="]"/>
             </if>
             <else>
               <text value="[博士学位论文]"/>
