@@ -342,7 +342,11 @@
         </choose>
       </else>
     </choose>
-    <text macro="accessed-date"/>
+    <choose>
+      <if type="thesis" match="none">
+        <text macro="accessed-date"/>
+      </if>
+    </choose>
     <text value="" prefix=". "/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">

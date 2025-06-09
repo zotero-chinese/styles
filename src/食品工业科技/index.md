@@ -49,7 +49,7 @@
   <div class="csl-entry">[7] 王夫之. 宋论[M]. 刻本 版. 金陵: 湘乡曾国荃, 1865. [王夫之. 宋论[M]. 刻本 版. 1865. ] </div>
   <div class="csl-entry">[8] 佚名. 综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社, 2012. [佚名. 综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, 编. 2012. ] </div>
   <div class="csl-entry">[9] 中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[Z]. 桂林: 广西师范大学出版社, 20012001. [中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[Z]. 20012001. ] </div>
-  <div class="csl-entry">[10] 杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012. [杨保军. 新闻道德论[D]. 2012[2012-11-01]. ] </div>
+  <div class="csl-entry">[10] 杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012. [杨保军. 新闻道德论[D]. 2012. ] </div>
   <div class="csl-entry">[11] 赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001. [赵学功. 当代美国外交[M]. 2001[2014-06-11]. ] </div>
   <div class="csl-entry">[12] 同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6. [同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 2011[2013-05-09]. ] </div>
   <div class="csl-entry">[13] 中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003. [中国造纸学会. 中国造纸年鉴：2003[M]. 2003[2014-04-25]. ] </div>
@@ -85,7 +85,7 @@
   <div class="csl-entry">[43] ONLINE COMPUTER LIBRARY CENTER, INC. About OCLC: History of cooperation[EB][2012-03-27].</div>
   <div class="csl-entry">[44] HOPKINSON A. UNIMARC and metadata: Dublin Core[EB](2009-04-22)[2013-03-27].</div>
   <div class="csl-entry">[45] Anonymous. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
-  <div class="csl-entry">[46] 刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18. [刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 2000[2014-08-29]. ] </div>
+  <div class="csl-entry">[46] 刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18. [刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 2000. ] </div>
   <div class="csl-entry">[47] Anonymous. A companion to California history[M]. DEVERELL W, IGLER D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   <div class="csl-entry">[48] BAKER S K, JACKSON M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">[49] CHERNIK B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
@@ -133,8 +133,8 @@
   <div class="csl-entry">[91] CALKIN D, AGER A, THOMPSON M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. .</div>
   <div class="csl-entry">[92] U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[93] WORLD HEALTH ORGANIZATION. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
-  <div class="csl-entry">[94] 马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27. [马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 2011[2013-10-14]. ] </div>
-  <div class="csl-entry">[95] 吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003. [吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 2003[2013-10-14]. ] </div>
+  <div class="csl-entry">[94] 马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27. [马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 2011. ] </div>
+  <div class="csl-entry">[95] 吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003. [吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 2003. ] </div>
   <div class="csl-entry">[96] CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965: 224.</div>
   <div class="csl-entry">[97] 张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05. [张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05. ] </div>
   <div class="csl-entry">[98] 河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24[2002-05-28]. [河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24[2002-05-28]. ] </div>
