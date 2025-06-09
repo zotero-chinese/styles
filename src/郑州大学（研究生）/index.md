@@ -84,7 +84,7 @@
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">中国第一历史档案馆，辽宁省档案馆．中国明朝档案总汇[M]．桂林：广西师范大学出版社，2001</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">杨保军．新闻道德论[D][博士学位论文]．北京：中国人民大学出版社，2012</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">杨保军．新闻道德论[D]. [博士学位论文]．北京：中国人民大学出版社，2012</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵学功．当代美国外交[M]．北京：社会科学文献出版社，2001</div>
@@ -192,7 +192,7 @@
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Coffee drinking and cancer of the pancreas[J]. Br Med J, 1981, 283(6292): 628</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">刘乃安．生物质材料热解失重动力学及其分析方法研究[D][博士学位论文]．合肥：中国科学技术大学，2000：17～18</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">刘乃安．生物质材料热解失重动力学及其分析方法研究[D]. [博士学位论文]．合肥：中国科学技术大学，2000：17～18</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Deverell W, Igler D, eds. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21～22</div>
@@ -336,10 +336,10 @@
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">马欢．人类活动影响下海河流域典型区水循环变化分析[D][博士学位论文]．北京：清华大学，2011：27</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">马欢．人类活动影响下海河流域典型区水循环变化分析[D]. [博士学位论文]．北京：清华大学，2011：27</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">吴云芳．面向中文信息处理的现代汉语并列结构研究[D][博士学位论文]．北京：北京大学，2003</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">吴云芳．面向中文信息处理的现代汉语并列结构研究[D]. [博士学位论文]．北京：北京大学，2003</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen: [dissertation][D]. Berkeley: Univ of California, 1965</div>
@@ -540,10 +540,10 @@
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">Yu L. Phonological representation and processing in Chinese spoken language production: [dissertation][D]. Beijing Normal University, 2000</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">余林．汉语语言产生中的语音表征与加工[D][博士学位论文]．北京师范大学，2000</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">余林．汉语语言产生中的语音表征与加工[D]. [博士学位论文]．北京师范大学，2000</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">邱颖文．遗传与语言学习[D][博士学位论文]．上海：华东师范大学，2009</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">邱颖文．遗传与语言学习[D]. [博士学位论文]．上海：华东师范大学，2009</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">张三，李四．中国心理学与奥林匹克[N]．新华日报，2008-08-08（2, 5～7）</div>
@@ -669,7 +669,7 @@
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">西南中委反对在宁召开五全会[N]．民国日报，1933-08-11（第1张第4版）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东．罗隆基政治思想研究（1913—1949）[D][博士学位论文]．北京师范大学历史系，2000</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东．罗隆基政治思想研究（1913—1949）[D]. [博士学位论文]．北京师范大学历史系，2000</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来．对国际体制和国际制度的理解和翻译[C]．见：全球化与亚太区域化国际研讨会．天津，2000</div>
@@ -747,7 +747,7 @@
     <div class="csl-left-margin">[12]</div><div class="csl-right-inline">法国行政法院网站[EB]．<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">李松锋．游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D][博士学位论文]．中国政法大学，2015</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">李松锋．游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. [博士学位论文]．中国政法大学，2015</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">民法总则[M]</div>
@@ -885,7 +885,7 @@
     <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Poisson M．Le droit de la mer en Méditerranée：1202[R]．2016</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Poisson M．Le droit de la mer appliqué à la Méditerranée[D][Thèse de doctorat]．l’Université de Marseille，2016</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Poisson M．Le droit de la mer appliqué à la Méditerranée[D]. [Thèse de doctorat]．l’Université de Marseille，2016</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Joyeux-Prunel B．L’histoire de l’art et le quantitatif[EB]．<a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a></div>
