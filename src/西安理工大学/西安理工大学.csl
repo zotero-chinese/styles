@@ -91,7 +91,7 @@
             </if>
           </choose>
           <choose>
-            <if type="article article-journal patent standand" match="none">
+            <if type="article article-journal patent standard" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
             </if>

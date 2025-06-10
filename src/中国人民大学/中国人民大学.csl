@@ -142,14 +142,14 @@
       <if type="book classic" match="any">
         <text variable="title" prefix="《" suffix="》"/>
       </if>
-      <if type="thesis">
+      <else-if type="thesis">
         <text variable="title" prefix="《" suffix="》"/>
         <text variable="genre" prefix="（" suffix="）"/>
-      </if>
-      <if type="pamphlet">
+      </else-if>
+      <else-if type="pamphlet">
         <text variable="title" quotes="true"/>
         <text variable="genre" prefix="（" suffix="）"/>
-      </if>
+      </else-if>
       <else>
         <text variable="title" quotes="true"/>
       </else>
@@ -191,7 +191,7 @@
     <choose>
       <if is-numeric="volume">
         <text value="第"/>
-        <number variable="volume" form="long-orginal"/>
+        <number variable="volume" form="long-ordinal"/>
         <label variable="volume" form="short"/>
       </if>
       <else>

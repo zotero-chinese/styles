@@ -33,16 +33,12 @@
         <single>p. </single>
         <multiple>pp. </multiple>
       </term>
-      <term name="locator" form="short">
-        <single>p. </single>
-        <multiple>pp. </multiple>
-      </term>
-      <date form="text">
-        <date-part name="month" suffix=" "/>
-        <date-part name="day" suffix=", "/>
-        <date-part name="year"/>
-      </date>
     </terms>
+    <date form="text">
+      <date-part name="month" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year"/>
+    </date>
   </locale>
   <!-- 中文相同文献、页码设置、出版时间空缺设定 -->
   <locale xml:lang="zh">
@@ -191,7 +187,7 @@
               <text variable="title" quotes="true"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <group>
               <label variable="locator" form="short" prefix=", "/>
@@ -204,7 +200,7 @@
               <text variable="title" quotes="true"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <group>
               <label variable="page" form="short" prefix=", "/>
@@ -462,7 +458,7 @@
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
               <text variable="event-place"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text macro="locators-zh"/>
             <text variable="locator" prefix="，第" suffix="页"/>
@@ -472,7 +468,7 @@
             <group delimiter="，">
               <text variable="title" prefix="《" suffix="》"/>
               <text variable="event"/>
-              <date date-parts="year-month-date" form="text" variable="issued"/>
+              <date date-parts="year-month-day" form="text" variable="issued"/>
             </group>
             <text variable="page" prefix="，第" suffix="页"/>
           </else>
@@ -694,10 +690,10 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en" delimiter="; ">
+    <layout locale="en">
       <text macro="en-layout" suffix="."/>
     </layout>
-    <layout delimiter="；">
+    <layout>
       <text macro="zh-layout" suffix="。"/>
     </layout>
   </bibliography>

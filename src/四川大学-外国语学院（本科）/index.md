@@ -20,7 +20,7 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Bawden, D. “Origins and Concepts of Digital Literacy.” 4 May 2008. Web. 8 Mar. 2013.</div>
+  <div class="csl-entry">Bawden, D. “Origins and Concepts of Digital Literacy.” N.p., 4 May 2008. Web. 8 Mar. 2013.</div>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26.</div>
   <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510 (2014): 356–62. Web. 25 June 2014.</div>
@@ -70,25 +70,25 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Babu, B. V., et al., editors. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer, 2014.</div>
   <div class="csl-entry">Baker, S. K., and M. E. Jackson. <i>The Future of Resource Sharing</i>. The Haworth Press, 1995.</div>
   <div class="csl-entry">Baldock, Peter. <i>Developing Early Childhood Services: Past, Present and Future</i>. Open University Press, 2011, p. 105.</div>
-  <div class="csl-entry">Bawden, D. “Origins and Concepts of Digital Literacy.” 4 May 2008. Web. 8 Mar. 2013.</div>
+  <div class="csl-entry">Bawden, D. “Origins and Concepts of Digital Literacy.” N.p., 4 May 2008. Web. 8 Mar. 2013.</div>
   <div class="csl-entry">Buseck, Peter R., Gordon L. Nord Jr., and David R. Veblen. “Subsolidus Phenomena in Pyroxenes.” <i>Pyroxenes</i>, Mineralogical Society of America, c1980, pp. 117–211.</div>
   <div class="csl-entry">Cairns, Bruce Richard. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>. 1965. Univ. of California, Doctoral dissertation.</div>
   <div class="csl-entry">Calkin, D., A. Ager, and M. Thompson. <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i>. RMRS-GTR-262, 2011, pp. 8–9.</div>
   <div class="csl-entry">Caplan, Priscilla. “Cataloging Internet Resources.” <i>The Public-Access Computer Systems Review</i> 4.2 (1993): 61–66.</div>
   <div class="csl-entry">Chernik, B. E. <i>Introduction to Library Services for Library Technicians</i>. Libraries Unlimited, Inc., 1982.</div>
   <div class="csl-entry">“Coffee Drinking and Cancer of the Pancreas.” <i>British Medical Journal</i> 283.6292 (1981): 628.</div>
-  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. “Pennsylvania Library Laws.” N.d. Web. 24 Mar. 2013.</div>
+  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. “Pennsylvania Library Laws.” N.p., N.d. Web. 24 Mar. 2013.</div>
   <div class="csl-entry">Crane, Diana. <i>Invisible College</i>. Univ. of Chicago Press, 1972.</div>
   <div class="csl-entry">Crawford, Walt, and Michael Gorman. <i>Future Libraries: Dreams, Madness, &#38; Reality</i>. American Library Association, 1995.</div>
   <div class="csl-entry">Des Marais, David J., et al. “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment.” <i>Nature</i> 359.6396 (1992): 605–09.</div>
   <div class="csl-entry">Deverell, William, and David Igler, editors. <i>A Companion to California History</i>. John Wiley &#38; Sons, 2013, pp. 21–22.</div>
   <div class="csl-entry">Dowler, Lawrence. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i> 21.1/2 (1995): 5–26. Web.</div>
-  <div class="csl-entry">“Dublin Core Metadata Element Set: Version 1.1.” 14 June 2012. Web. 11 June 2014.</div>
+  <div class="csl-entry">“Dublin Core Metadata Element Set: Version 1.1.” N.p., 14 June 2012. Web. 11 June 2014.</div>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25–26.</div>
   <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17–38.</div>
   <div class="csl-entry">Franz, Annaliese K., et al. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i> 8 (2013): 1053–62. Web. 26 June 2014.</div>
   <div class="csl-entry">Frese, Karen S., Hugo A. Katus, and Benjamin Meder. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i> 2.1 (2013): 378–98. Web. 19 Mar. 2013.</div>
-  <div class="csl-entry">Hopkinson, A. “UNIMARC and Metadata: Dublin Core.” 22 Apr. 2009. Web. 27 Mar. 2013.</div>
+  <div class="csl-entry">Hopkinson, A. “UNIMARC and Metadata: Dublin Core.” N.p., 22 Apr. 2009. Web. 27 Mar. 2013.</div>
   <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>. ISO 15836:2009.</div>
   <div class="csl-entry">International Federation of Library Association and Institutions. <i>Names of Persons: National Usages for Entry in Catalogues</i>. 3rd ed., IFLA International Office for UBC, 1977.</div>
   <div class="csl-entry">Kanamori, H. “Shaking without Quaking.” <i>Science</i> 279.5359 (1998): 2063. Web.</div>
@@ -99,7 +99,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Morris, Ian. <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>. Farrar, Straus and Giroux, 2010.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510 (2014): 356–62. Web. 25 June 2014.</div>
   <div class="csl-entry">O’Brien, J. A. <i>Introduction to Information Systems</i>. 7th ed., Irwin, 1994.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc. “About OCLC: History of Cooperation.” N.d. Web. 27 Mar. 2012.</div>
+  <div class="csl-entry">Online Computer Library Center, Inc. “About OCLC: History of Cooperation.” N.p., N.d. Web. 27 Mar. 2012.</div>
   <div class="csl-entry">Park, Jung-Ran, and Yuji Tosaka. “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms.” <i>Cataloging &#38; Classification Quarterly</i> 48.8 (2010): 696–715. Web. 5 Sept. 2013.</div>
   <div class="csl-entry">Peebles, Peyton Z., Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed., McGraw-Hill, 2001.</div>
   <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.</div>
@@ -307,7 +307,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Fischer, Thomas. “Absurdes Spektakel um den Tod.” <i>Die Zeit</i> 29 Sept. 2015.</div>
   <div class="csl-entry"><i>GG</i>.</div>
   <div class="csl-entry">Kaufmann, Arthur. “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht.” <i>Das Abtreibungsverbot des § 218 StGB</i>, edited by Jürgen Baumann, 2nd ed., 1972.</div>
-  <div class="csl-entry">Meidenbauer, Martin. “Wissenschaftliches Publizieren.” N.d. Web. 10 Oct. 2017.</div>
+  <div class="csl-entry">Meidenbauer, Martin. “Wissenschaftliches Publizieren.” N.p., N.d. Web. 10 Oct. 2017.</div>
   <div class="csl-entry">Roxin, Claus. <i>Strafrecht Allgemeiner Teil</i>. 4th ed., vol. 1, C. H. Beck, 2006.</div>
   <div class="csl-entry">Schwab, Martin. <i>Münchener Kommentar BGB</i>, 6th ed., vol. 5, 2013.</div>
   <div class="csl-entry"><i>StGB</i>.</div>
@@ -325,7 +325,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“Department of Transportation Act.” <i>Stat.</i>, vol. 80, 89-670, 1966, pp. 931, 944–47.</div>
   <div class="csl-entry">Habermas, Jürgen. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Translated by William Rehg, MIT Press, 1996.</div>
   <div class="csl-entry">Horsley, Jamie. “Rule of Law in China: Incremental Progress.” <i>China: The Balance Sheet</i>, edited by C. Fred Bergsten et al., Public Affairs Press, 2006.</div>
-  <div class="csl-entry">McDonell, Stephen. “When China Began Streaming Trials Online.” <i>BBC News</i>, 30 Sept. 2016. Web. 26 July 2022.</div>
+  <div class="csl-entry">McDonell, Stephen. “When China Began Streaming Trials Online.” <i>BBC News</i>, N.p., 30 Sept. 2016. Web. 26 July 2022.</div>
   <div class="csl-entry">“Natural Resources Defense Council <i>v.</i> Gorsuch.” <i>F.2d</i>, vol. 685, 1982, p. 718.</div>
   <div class="csl-entry">“R. v. Panel on Take-Overs and Mergers.” <i>QB</i>, vol. 815, 1987.</div>
   <div class="csl-entry">Reich, Charles A. “The New Property.” <i>Yale Law Journal</i> 73.5 (1964): 733–87. Web.</div>
@@ -334,7 +334,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry"><i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et Al.</i> 3:15-cr-00213-FDW-DCK.</div>
   <div class="csl-entry">Badiou-Monferran, Claire. “La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle.” <i>La Licorne</i> 43 (1997): 75–94.</div>
   <div class="csl-entry">Chevallier, Marc. <i>L’État de droit</i>. 4th ed., Montchrestien, 2003.</div>
-  <div class="csl-entry">Joyeux-Prunel, Béatrice. “L’histoire de l’art et le quantitatif.” <i>Histoire &#38; mesure, vol. XXIII, n° 2, 2008</i>, N.d. Web. 17 Mar. 2010.</div>
+  <div class="csl-entry">Joyeux-Prunel, Béatrice. “L’histoire de l’art et le quantitatif.” <i>Histoire &#38; mesure, vol. XXIII, n° 2, 2008</i>, N.p., N.d. Web. 17 Mar. 2010.</div>
   <div class="csl-entry">Poisson, Marc. “Le droit de la mer.” <i>RGDIP</i> (2015): 15–47.</div>
   <div class="csl-entry">---. “Le droit de la mer.” <i>Le droit des Océans</i>, Éditions de la mer, 2015, pp. 12–48.</div>
   <div class="csl-entry">---. <i>Le droit de la mer appliqué à la Méditerranée</i>. 2016. l’Université de Marseille, Thèse de doctorat.</div>
@@ -348,7 +348,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">於保不二雄. “付加物及び従物と抵当権.” 民商法雑誌 29.5 (1954): 1. Web.</div>
   <div class="csl-entry">“約束手形金.” 最高裁判所民事判例集, vol. 36卷6号, 15 July 1982, p. 1113.</div>
   <div class="csl-entry">佐藤英明. “一時所得の要件に関する覚書.” 租税法と市場, edited by 金子宏 et al., 有斐閣, 2014, p. 220.</div>
-  <div class="csl-entry">“ジュリスト.” N.d. Web. 1 Sept. 2022.</div>
+  <div class="csl-entry">“ジュリスト.” N.p., N.d. Web. 1 Sept. 2022.</div>
   <div class="csl-entry">包郑照诉苍南县人民政府强制拆除房屋案. （1988）浙法民上字 7 号.</div>
   <div class="csl-entry">“被告人李宁、张磊贪污案一审开庭.” 新华网. 新华网.</div>
   <div class="csl-entry">崔国斌. “知识产权法官造法批判.” 中国法学. 1 (2006) 144–64.</div>
@@ -411,11 +411,11 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">“American With Disabilities Act of 1990.” <i>U.S.C</i>, vol. 42, 1990.</div>
   <div class="csl-entry">Anderson, M. “Getting Consistent with Consequences.” <i>Educational Leadership</i> 76.1 (2018): 26–33.</div>
   <div class="csl-entry">APA Education [@APAEducation]. “College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached].” <i>Twitter</i>, N.p., 29 June 2018. Web.</div>
-  <div class="csl-entry">APA Style [@APA_Style]. “Tweets.” <i>Twitter</i>, N.d. Web. 1 Nov. 2019.</div>
+  <div class="csl-entry">APA Style [@APA_Style]. “Tweets.” <i>Twitter</i>, N.p., N.d. Web. 1 Nov. 2019.</div>
   <div class="csl-entry">Aristotle. <i>Poetics</i>. 349BC. Translated by S. H. Butcher, The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">Australian Government Productivity Commission and New Zealand Productivity Commission. <i>Strengthening Trans-Tasman Economic Relations</i>. 2012.</div>
   <div class="csl-entry">Author, A. “How Workout Buddies Can Help Stave off Loneliness.” <i>The Washington Post</i> 15 Jan. 2019.</div>
-  <div class="csl-entry">Avramova, N. “The Secret to a Long, Happy, Health Life? Think Age-Positive.” <i>CNN</i>, 3 Jan. 2019. Web.</div>
+  <div class="csl-entry">Avramova, N. “The Secret to a Long, Happy, Health Life? Think Age-Positive.” <i>CNN</i>, N.p., 3 Jan. 2019. Web.</div>
   <div class="csl-entry">Badlands National Park [@BadlandsNPS]. “Biologists Have Identified More than 400 Different Plant Species Growing in @BadlandsNPS #DYK #biodoversity.” <i>Twitter</i>, N.p., 26 Feb. 2018. Web.</div>
   <div class="csl-entry">Baer, R. A. “Unpublished Raw Data on the Correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills.” University of Kentucky, 2015.</div>
   <div class="csl-entry">Balsam, K. F., et al. “Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People.” <i>Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision</i>, edited by G. Y. Iwamasa and P. A. Hays, 2nd ed., American Psychological Association, 2019, pp. 287–314.</div>
@@ -423,8 +423,8 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Beyoncé. “Formation.” <i>Lemonade</i>, Parkwood; Columbia, 2016.</div>
   <div class="csl-entry">Blackwell, D. L., J. W. Lucas, and T. C. Clarke. <i>Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012</i>. Centers for Disease Control and Prevention, 2014.</div>
   <div class="csl-entry">Blair, C. B. <i>Stress, Self-Regulation and Psychopathology in Middle Childhood</i>. Grant, 5R01HD081252-04, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020.</div>
-  <div class="csl-entry">Boddy, J., et al. “Ethics Principles.” <i>The Research Ethics Guidebook: A Resource for Social Scientists</i>, N.d. Web.</div>
-  <div class="csl-entry">Bologna, C. “What Happens to Your Mind and Body When You Feel Homesick?” <i>HuffPost</i>, 27 June 2018. Web.</div>
+  <div class="csl-entry">Boddy, J., et al. “Ethics Principles.” <i>The Research Ethics Guidebook: A Resource for Social Scientists</i>, N.p., N.d. Web.</div>
+  <div class="csl-entry">Bologna, C. “What Happens to Your Mind and Body When You Feel Homesick?” <i>HuffPost</i>, N.p., 27 June 2018. Web.</div>
   <div class="csl-entry">Borenstein, M., et al. “Comprehensive Meta-Analysis.” 3.3.070, Biostat, 2014. Web.</div>
   <div class="csl-entry">Bowie, D. <i>Blackstar</i>. Columbia, 2016.</div>
   <div class="csl-entry"><i>Brené Brown: Listening to Shame</i>. Directed by TED, YouTube, 16 Mar. 2012. Web.</div>
@@ -442,7 +442,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Canan, E., and J. Vasilev. <i>Lecture Notes on Resource Allocation</i>. 22 May 2019.</div>
   <div class="csl-entry">Carcavilla González, N. “Auditory Sensory Therapy: Brain Activation through Music.” <i>Guía Práctica de Terapias Estimulativas En El Alzhéimer</i>, edited by J. J. Garcia Meilán, Editorial Síntesis, 2015, pp. 67–86.</div>
   <div class="csl-entry">Cardoza, D., et al. “Acculturative Stress Inventory (ASI).” TC022704, ETS TestLink, 2000.</div>
-  <div class="csl-entry">Centers for Disease Control and Prevention. “People at High Risk of Developing Flu-Related Complications.” 23 Jan. 2018. Web.</div>
+  <div class="csl-entry">Centers for Disease Control and Prevention. “People at High Risk of Developing Flu-Related Complications.” N.p., 23 Jan. 2018. Web.</div>
   <div class="csl-entry">Chaves-Morillo, V., et al. “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age.” <i>Clínica y Salud</i> 28.3 (2018): 155–61. Web.</div>
   <div class="csl-entry">Childish Gambino. <i>This Is America</i>. mcDJ; RCA, 2018.</div>
   <div class="csl-entry">Christian, B., and T. Griffiths. <i>Algorithms to Live by: The Computer Science of Human Decisions</i>. Henry Holt and Co., 2016.</div>
@@ -510,7 +510,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Maddox, S., et al. <i>If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children</i>. New Orleans, LA, United States.</div>
   <div class="csl-entry">Madigan, S. <i>Narrative Therapy</i>. 2nd ed., American Psychological Association, 2019.</div>
   <div class="csl-entry">“Marking Time in the Land of Plenty: Reflections on Mental Health in the United States.” <i>American Journal of Orthopsychiatry</i> 51.3 (1981): 391–402. Web.</div>
-  <div class="csl-entry">Martin Lillie, C. M. “Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency.” <i>Mayo Clinic</i>, 29 Dec. 2016. Web.</div>
+  <div class="csl-entry">Martin Lillie, C. M. “Be Kind to Yourself: How Self-Compassion Can Improve Your Resiliency.” <i>Mayo Clinic</i>, N.p., 29 Dec. 2016. Web.</div>
   <div class="csl-entry">McCauley, Stewart M., and Morten H. Christiansen. “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development.” <i>Psychological Review</i> 126.1 (2019): 1–51. Web.</div>
   <div class="csl-entry">McCurry, S. <i>Afghan Girl</i>. 1985. National Geographic.</div>
   <div class="csl-entry">McDaniel, S. H., E. Salas, and A. E. Kazak, editors. <i>American Psychologist</i>. no. 4, 2018.</div>
@@ -525,7 +525,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">National Cancer Institute. <i>Facing Forward: Life after Cancer Treatment</i>. NIH publication, 18-2424, U.S. Department of Health and Human Services, National Institutes of Health, 2018.</div>
   <div class="csl-entry">National Center for Education Statistics. “Fast Response Survey System (FRSS): Teacher’s Use of Educational Technology in U.S. Public Schools, 2009.” V3, ICPSR 35531, National Archive of Data on Arts and Culture, 2016. Web.</div>
   <div class="csl-entry">National Institute of Mental Health. “Suicide Affects All Ages, Genders, Races, and Ethnicities. Check out These 5 Action Steps for Helping Someone in Emotional Pain.” <i>Facebook</i>, N.p., 28 Nov. 2018. Web.</div>
-  <div class="csl-entry">National Nurses United. “What Employers Should Do to Protect Nurses from Zika.” N.d. Web.</div>
+  <div class="csl-entry">National Nurses United. “What Employers Should Do to Protect Nurses from Zika.” N.p., N.d. Web.</div>
   <div class="csl-entry">News From Science. “These Frogs Walk Instead of Hop. Https://Scimag.2KlriwH.” <i>Facebook</i>, N.p., 26 June 2018. Web.</div>
   <div class="csl-entry">“Obergefell v. Hodges.” <i>U.S.</i>, vol. 576, 2015.</div>
   <div class="csl-entry"><i>One Flew over the Cuckoo’s Nest</i>. Directed by M. Forman, United Artists, 1975.</div>
@@ -534,7 +534,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Pachur, T., and B. Scheibehenne. “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach.” <i>Psychonomic Bulletin &#38; Review</i>.</div>
   <div class="csl-entry">“Patsy Mink Equal Opportunity in Education Act.” <i>U.S.C</i>, vol. 20, 1972.</div>
   <div class="csl-entry">Pearson, J. <i>Fat Talk and Its Effects on State-Based Body Image in Women</i>. Sydney, NSW, Australia.</div>
-  <div class="csl-entry">Perkins, D. “<i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile.” 1 Feb. 2018. Web.</div>
+  <div class="csl-entry">Perkins, D. “<i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile.” N.p., 1 Feb. 2018. Web.</div>
   <div class="csl-entry">Pew Research Center. “American Trends Panel Wave 26.” 2018. Web.</div>
   <div class="csl-entry">Piaget, J. “Intellectual Evolution from Adolescence to Adulthood.” 1970. <i>Human Development</i> 15.1 (1972): 1–12. Web.</div>
   <div class="csl-entry">Piaget, J., and B. Inhelder. <i>The Psychology of the Child</i>. Quadrige, 1966.</div>
@@ -555,7 +555,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Segaert, A., and A. Bauer. <i>The Extent and Nature of Veteran Homelessness in Canada</i>. Employment and Social Development Canada, 2015.</div>
   <div class="csl-entry">Shakespeare, W. <i>Much Ado about Nothing</i>. 1623. Edited by B. A. Mowat and P. Werstine, Washington Square Press, 1995.</div>
   <div class="csl-entry">Shore, M. F. “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States.” 1981. <i>American Journal of Orthopsychiatry</i> 84.6 (2014): 611–18. Web.</div>
-  <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute. “Home.” <i>Facebook</i>, N.d. Web. 22 July 2019.</div>
+  <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute. “Home.” <i>Facebook</i>, N.p., N.d. Web. 22 July 2019.</div>
   <div class="csl-entry"><i>Somewhere Else</i>. Directed by M. Schur, N.p., 2018.</div>
   <div class="csl-entry">SR Research. “Eyelink 1000 Plus.” 2016. Web.</div>
   <div class="csl-entry"><i>Strengthening the Federal Student Loan Program for Borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions</i>. 2014.</div>
@@ -575,7 +575,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Travis, C. B., and J. W. White, editors. <i>APA Handbook of the Psychology of Women</i>. American Psychological Association, 2018.</div>
   <div class="csl-entry"><i>U.N. Charter Art. 1, Para. 3</i>.</div>
   <div class="csl-entry"><i>United Nations Convention on the Rights of the Child</i>. 20 Nov. 1989.</div>
-  <div class="csl-entry">U.S. Census Bureau. “U.S. and World Population Clock.” <i>U.S. Department of Commerce</i>, N.d. Web. 3 July 2019.</div>
+  <div class="csl-entry">U.S. Census Bureau. “U.S. and World Population Clock.” <i>U.S. Department of Commerce</i>, N.p., N.d. Web. 3 July 2019.</div>
   <div class="csl-entry"><i>U.S. Const. Amend. I-X</i>.</div>
   <div class="csl-entry"><i>U.S. Const. Amend. XIX</i>.</div>
   <div class="csl-entry"><i>U.S. Const. Amend. XVIII (Repealed 1933)</i>.</div>
@@ -590,7 +590,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry"><i>Why You Should Make Useless Things</i>. Directed by S. Giertz, TED Conferences, Apr. 2018. Web.</div>
   <div class="csl-entry">Wood, G. <i>American Gothic</i>. 1930. Art Institute of Chicago, Chicago, IL, United States.</div>
   <div class="csl-entry">World Health Organization. <i>International Statistical Classification of Diseases and Related Health Problems</i>. 11th ed., World Health Organization, 2019.</div>
-  <div class="csl-entry">---. “Questions and Answers on Immunization and Vaccine Safety.” Mar. 2018. Web.</div>
+  <div class="csl-entry">---. “Questions and Answers on Immunization and Vaccine Safety.” N.p., Mar. 2018. Web.</div>
   <div class="csl-entry">Yoo, J., et al. <i>Linking Positive Affect to Blood Lipids: A Cultural Perspective</i>. 2016.</div>
   <div class="csl-entry">Yousafzai, M. <i>We Are Displaced: My Journey and Stories from Refugee Girls around the World</i>. 2016.</div>
   <div class="csl-entry">Zalta, E. N., editor. <i>The Stanford Encyclopedia of Philosophy</i>. Summer 2019 ed., Stanford University, 2019.</div>
