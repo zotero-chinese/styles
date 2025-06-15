@@ -78,7 +78,7 @@
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。<br>
 <sup>27</sup> American Association for the Advancement of Science：《Science》第1卷，Washington, D.C.：American Association for the Advancement of Science，1883年。<br>
 <sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口》第57卷，《科学通报》2012年第34期。<br>
-<sup>29</sup> 余建斌：《我们的科技一直在追赶：访中国工程院院长周济》，《人民日报》2013年。<br>
+<sup>29</sup> 余建斌：《我们的科技一直在追赶：访中国工程院院长周济》，《人民日报》2013年1月12日。<br>
 <sup>30</sup> 李炳穆：《韩国图书馆法》第52卷，《图书情报工作》2008年第6期。<br>
 <sup>31</sup> 李幼平、王莉：《循证医学研究方法：附视频》第4卷，《中华移植杂志（电子版）》2010年第3期。<br>
 <sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》第33卷，《测绘科学》2008年第5期。<br>
@@ -170,10 +170,10 @@
 <sup>118</sup> Susan C. Walls、William J. Barichivich、Mary E. Brown：《Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate》第2卷，《Biology》2013年第1期。<br>
 <sup>119</sup> Annaliese K. Franz、Megan A. Danielewicz、Diana M. Wong、Lisa A. Anderson、Jordan R. Boothe：《Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity》第8卷，《ACS Chemical Biology》2013年。<br>
 <sup>120</sup> Jung-Ran Park、Yuji Tosaka：《Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms》第48卷，《Cataloging &#38; Classification Quarterly》2010年第8期。<br>
-<sup>121</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年。<br>
-<sup>122</sup> 张田勘：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年。<br>
-<sup>123</sup> 傅刚、赵承、李佳路：《大风沙过后的思考》，《北京青年报》2000年。<br>
-<sup>124</sup> 刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭，如何突围？》，《人民日报》2013年。<br>
+<sup>121</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日。<br>
+<sup>122</sup> 张田勘：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年11月12日。<br>
+<sup>123</sup> 傅刚、赵承、李佳路：《大风沙过后的思考》，《北京青年报》2000年1月12日。<br>
+<sup>124</sup> 刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭，如何突围？》，《人民日报》2013年1月12日。<br>
 <sup>125</sup> 萧钰：《出版业信息化迈入快车道》，2001年，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>。<br>
 <sup>126</sup> 李强：《化解医患矛盾需釜底抽薪》，2012年，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>。<br>
 <sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office：《Pennsylvania library laws》，<a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>。<br>
@@ -218,7 +218,7 @@
 <sup>30</sup> Lin Yu：《Phonological representation and processing in Chinese spoken language production》，Beijing Normal University，2000年。<br>
 <sup>31</sup> 余林：《汉语语言产生中的语音表征与加工》，北京师范大学，2000年。<br>
 <sup>32</sup> 邱颖文：《遗传与语言学习》，上海：华东师范大学，2009年。<br>
-<sup>33</sup> 张三、李四：《中国心理学与奥林匹克》，《新华日报》2008年。<br>
+<sup>33</sup> 张三、李四：《中国心理学与奥林匹克》，《新华日报》2008年8月8日。<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -259,11 +259,11 @@
 <sup>30</sup> 费成康：《葡萄牙人如何进入澳门问题辨正》，《社会科学》1999年第9期。<br>
 <sup>31</sup> 黄义豪：《评黄龟年四劾秦桧》，《福建论坛》1997年第3期。<br>
 <sup>32</sup> 倪素香：《德育学科的比较研究与理论探索》，《武汉大学学报》2002年第4期。<br>
-<sup>33</sup> 李眉：《李劼人轶事》，《四川工人日报》1986年。<br>
+<sup>33</sup> 李眉：《李劼人轶事》，《四川工人日报》1986年8月22日。<br>
 <sup>34</sup> 伤心人（麦孟华）：《说奴隶》（第69册），《清议报》。<br>
-<sup>35</sup> 《四川会议厅暂行章程》，《广益丛报》1910年第8年第19期。<br>
-<sup>36</sup> 《上海各路商界总联合会致外交部电》，《民国日报》1925年。<br>
-<sup>37</sup> 《西南中委反对在宁召开五全会》，《民国日报》1933年。<br>
+<sup>35</sup> 《四川会议厅暂行章程》，《广益丛报》1910年9月3日第8年第19期。<br>
+<sup>36</sup> 《上海各路商界总联合会致外交部电》，《民国日报》1925年8月14日。<br>
+<sup>37</sup> 《西南中委反对在宁召开五全会》，《民国日报》1933年8月11日。<br>
 <sup>38</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系，2000年。<br>
 <sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，天津，2000年。<br>
 <sup>40</sup> 《傅良佐致国务院电》，1917年。<br>
@@ -290,7 +290,7 @@
 <sup>5</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》1993年第1期。<br>
 <sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》第1卷，梁慧星主编：《民商法论丛》，法律出版社，1994年。<br>
 <sup>7</sup> [德]莱纳·沃尔夫：《风险法的风险》，陈霄译，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
-<sup>8</sup> 何海波：《判决书上网》，《法制日报》2000年。<br>
+<sup>8</sup> 何海波：《判决书上网》，《法制日报》2000年5月21日。<br>
 <sup>9</sup> 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，2004年，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>。<br>
 <sup>10</sup> 《被告人李宁、张磊贪污案一审开庭》，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。<br>
 <sup>11</sup> 赵耀彤：《一名基层法官眼里好律师的样子》，2018年，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
@@ -325,7 +325,7 @@
 <sup>40</sup> 《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》，2013年。<br>
 <sup>41</sup> 《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年。<br>
 <sup>42</sup> Barbara Ward：《Progress for a small planet》，《Harvard Business Review》1979年Sep.-Oct.。<br>
-<sup>43</sup> Andrew Rosenthal：《White House tutors Kremlin in how a presidency works》，《New York Times》1990年。<br>
+<sup>43</sup> Andrew Rosenthal：《White House tutors Kremlin in how a presidency works》，《New York Times》1990年6月15日。<br>
 <sup>44</sup> Jürgen Habermas：《Between facts and norms: contributions to a discourse theory of law and democracy》，William Rehg译，MIT Press，1996年。<br>
 <sup>45</sup> Jamie Horsley：《Rule of law in China: incremental progress》，C. Fred Bergsten、Bates Gill、Nicholas R. Lardy、Derek Mitchell主编：《China: The balance sheet》，Public Affairs Press，2006年。<br>
 <sup>46</sup> 《Department of Transportation Act》第80卷，1966年。<br>
@@ -345,7 +345,7 @@
 <sup>60</sup> Béatrice Joyeux-Prunel：《L’histoire de l’art et le quantitatif》，<a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>。<br>
 <sup>61</sup> Benjamin Vogel：《Rechtsgüterschutz und Normgeltung》第129卷，《Zeitschrift für die gesamte Strafrechtswissenschaft》2017年第3期。<br>
 <sup>62</sup> Markus Würdinger：《Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts》，《Juristische Schulung》2012年第3期。<br>
-<sup>63</sup> Thomas Fischer：《Absurdes Spektakel um den Tod》，《Die Zeit》2015年。<br>
+<sup>63</sup> Thomas Fischer：《Absurdes Spektakel um den Tod》，《Die Zeit》2015年9月29日。<br>
 <sup>64</sup> Claus Roxin：《Strafrecht Allgemeiner Teil》第1卷，C. H. Beck，2006年。<br>
 <sup>65</sup> Ralf Dreier、Stanley Paulson主编：《Rechtsphilosophie Studienausgabe》，Heidelberg：UTB Uni-Taschenbücher Verlag，2003年。<br>
 <sup>66</sup> Martin Schwab：第5卷，《Münchener Kommentar BGB》，2013年。<br>
@@ -380,7 +380,7 @@
 <sup>1</sup> Stewart M. McCauley、Morten H. Christiansen：《Language learning as language use: A cross-linguistic model of child language development》第126卷，《Psychological Review》2019年第1期。<br>
 <sup>2</sup> E. Ahmann、L. J. Tuttle、M. Saviet、S. D. Wright：《A descriptive review of ADHD coaching research: Implications for college students》第31卷，《Journal of Postsecondary Education and Disability》2018年第1期。<br>
 <sup>3</sup> M. Anderson：《Getting consistent with consequences》第76卷，《Educational Leadership》2018年第1期。<br>
-<sup>4</sup> C. Goldman：《The complicated calibration of love, especially in adoption》，《Chicago Tribune》2018年。<br>
+<sup>4</sup> C. Goldman：《The complicated calibration of love, especially in adoption》，《Chicago Tribune》2018年11月28日。<br>
 <sup>5</sup> E. Kalnay、M. Kanamitsu、R. Kistler、W. Collins、D. Deaven、L. Gandin、M. Iredell、S. Saha、G. White、J. Wollen、Y. Zhu、M. Chelliah、W. Ebisuzaki、W. Higgins、J. Janowiak、K. C. Mo、C. Ropelewski、J. Wang、A. Leetma、A. Aaron、B. Baron C. Court、D. Joseph：《The NCEP/NCAR 40-year reanalysis project》第77卷，《Bulletin of the American Meteorological Society》1996年第3期。<br>
 <sup>6</sup> R. De Vries、M. Nieuwenhuijze、S. E. Buitendijk、the members of Midwifery Science Work Group：《What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands》第29卷，《Midwifery》2013年第10期。<br>
 <sup>7</sup> D. Burin、K. Kilteni、M. Rabuffetti、M. Slater、L. Pia：《Body ownership increases the interference between observed and executed movements》第14卷，《PLOS ONE》2019年第1期。<br>
@@ -397,11 +397,11 @@
 <sup>18</sup> S. Bergeson：《Really cool neutral plasmas》第363卷，《Science》2019年第6422期。<br>
 <sup>19</sup> M. Bustillos：《On video games and storytelling: An interview with Tom Bissell》，《The New Yorker》2013年。<br>
 <sup>20</sup> K. Weir：《Forgiveness can improve mental and physical health》第48卷，《Monitor on Psychology》2017年第1期。<br>
-<sup>21</sup> B. Guarino：《How will humanity react to alien life? Psychologists have some predictions》，《The Washington Post》2017年。<br>
-<sup>22</sup> A. Hess：《Cats who take direction》，《The New York Times》2019年。<br>
+<sup>21</sup> B. Guarino：《How will humanity react to alien life? Psychologists have some predictions》，《The Washington Post》2017年12月4日。<br>
+<sup>22</sup> A. Hess：《Cats who take direction》，《The New York Times》2019年1月3日。<br>
 <sup>23</sup> M. Klymkowsky：《Can we talk scientifically about free will?》，2018年，<a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>。<br>
-<sup>24</sup> KS in NJ：《From this article, it sounds like men are figuring something out that women have known forever. I know of many》，《The Washington Post》2019年。<br>
-<sup>25</sup> A. Author：《How workout buddies can help stave off loneliness》，《The Washington Post》2019年。<br>
+<sup>24</sup> KS in NJ：《From this article, it sounds like men are figuring something out that women have known forever. I know of many》，《The Washington Post》2019年1月15日。<br>
+<sup>25</sup> A. Author：《How workout buddies can help stave off loneliness》，《The Washington Post》2019年1月15日。<br>
 <sup>26</sup> N. G. Cuellar：《Study abroad programs》第27卷，《Journal of Transcultural Nursing》2016年第3期。<br>
 <sup>27</sup> L. S. Brown：《Feminist therapy》，American Psychological Association，2018年。<br>
 <sup>28</sup> R. Burgess：《Rethinking global health: Frameworks of power》，Routledge，2019年。<br>
@@ -469,7 +469,7 @@
 <sup>90</sup> V. H. Hutcheson：《Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents》，The College of William &#38; Mary，2012年。<br>
 <sup>91</sup> L. A. Mirabito、N. C. Heck：《Bringing LGBTQ youth theater into the spotlight》第3卷，《Psychology of Sexual Orientation and Gender Diversity》2016年第4期。<br>
 <sup>92</sup> 《The year we thought about love》，2016年。<br>
-<sup>93</sup> F. Santos：《Reframing refugee children’s stories》，《The New York Times》2019年。<br>
+<sup>93</sup> F. Santos：《Reframing refugee children’s stories》，《The New York Times》2019年1月11日。<br>
 <sup>94</sup> M. Yousafzai：《We are displaced: My journey and stories from refugee girls around the world》，2016年。<br>
 <sup>95</sup> D. Perkins：《<i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile》，2018年，<a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>。<br>
 <sup>96</sup> 《Somewhere else》，2018年。<br>

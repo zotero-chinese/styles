@@ -810,6 +810,9 @@
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[S].</div>
   </div>
   <div class="csl-entry">
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知[J].2007.</div>
+  </div>
+  <div class="csl-entry">
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释[J].2018.</div>
   </div>
   <div class="csl-entry">

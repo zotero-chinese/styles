@@ -172,9 +172,9 @@
           <if type="article-journal article-magazine" match="any">
             <date variable="issued" form="text" date-parts="year"/>
           </if>
-          <if type="article-newspaper collection manuscript personal_communication post post-weblog software webpage" match="any">
+          <else-if type="article-newspaper collection manuscript personal_communication post post-weblog software webpage" match="any">
             <date variable="issued" form="text"/>
-          </if>
+          </else-if>
           <else>
             <date variable="issued" form="text" date-parts="year"/>
             <text term="edition" form="short"/>
