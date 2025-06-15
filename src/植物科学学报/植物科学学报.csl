@@ -20,7 +20,7 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 显示全部作者。</summary>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 显示前5名作者；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
     <updated>2025-06-15T17:10:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
