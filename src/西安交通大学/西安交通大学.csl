@@ -167,7 +167,7 @@
         </group>
       </group>
     </group>
-    <group delimiter="/" prefix=" [" suffix="]">
+    <group delimiter="/" prefix="［" suffix="］">
       <text macro="type-id"/>
       <text macro="medium-id"/>
     </group>
@@ -334,7 +334,7 @@
     <choose>
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
-        <group delimiter=", ">
+        <group delimiter="，">
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
@@ -344,7 +344,7 @@
         <!-- 普通期刊 -->
         <group delimiter="：">
           <group>
-            <group delimiter=", ">
+            <group delimiter="，">
               <text variable="container-title" form="short" text-case="title" strip-periods="true"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
