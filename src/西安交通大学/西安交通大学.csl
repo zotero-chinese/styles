@@ -590,7 +590,7 @@
     <!-- zh格式 -->
     <layout locale="zh-CN">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh" suffix="."/>
+      <text macro="entry-layout-zh" suffix="．"/>
     </layout>
     <!-- en格式 -->
     <layout>
