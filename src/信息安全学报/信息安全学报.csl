@@ -51,7 +51,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="et-al-en">et al.</term>
+      <term name="en-et-al">et al.</term>
       <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
@@ -75,7 +75,7 @@
   <macro name="author-ZHtoEN">
     <names variable="original-author">
       <name/>
-      <et-al term="et-al-en"/>
+      <et-al term="en-et-al"/>
     </names>
   </macro>
   <!-- 题名 -->

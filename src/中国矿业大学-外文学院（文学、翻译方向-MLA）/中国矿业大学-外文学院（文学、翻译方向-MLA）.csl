@@ -293,7 +293,7 @@
       <else-if type="article-journal">
         <date variable="issued" form="numeric" date-parts="year"/>
       </else-if>
-      <else-if type="article-magazine aritcle-newspaper" match="any">
+      <else-if type="article-magazine article-newspaper" match="any">
         <date variable="issued">
           <date-part name="day" suffix=" "/>
           <date-part name="month" suffix=" "/>

@@ -105,12 +105,12 @@
           <if type="article-journal" variable="volume" match="all">
             <date variable="issued" form="text" date-parts="year-month"/>
           </if>
-          <if type="article-magazine" variable="volume" match="all">
+          <else-if type="article-magazine" variable="volume" match="all">
             <date variable="issued" form="text"/>
-          </if>
-          <if type="article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
+          </else-if>
+          <else-if type="article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
             <date variable="issued" form="text"/>
-          </if>
+          </else-if>
           <else-if type="paper-conference">
             <choose>
               <if variable="container-title">
