@@ -7,6 +7,7 @@
   "packageManager": "pnpm@10.10.0",
   "scripts": {
     "dev": "tsx ./lib/index.ts watch",
+    "dev:open": "vitepress dev --open",
     "build": "tsx ./lib/index.ts all",
     "preview": "tsx ./lib/index.ts",
     "format": "prettier . --write"
@@ -36,6 +37,7 @@
     "scule": "^1.3.0",
     "tinypool": "^0.8.4",
     "tsx": "^4.20.3",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "vitepress": "^1.6.3"
   }
 }

@@ -67,22 +67,23 @@ cd styles
 git submodule update --init
 
 # 如果是第一次接触 Node.js 或运行后续命令时提示 pnpm 命令不存在，
-# 请执行下一行以启用 pnpm 包管理器
+# 请执行下一行以安装 pnpm 包管理器
 corepack enable
 
 # 安装依赖
 pnpm install
 
 # 监听 CSL 文件变化并热更新
+## 方式 1：仅生成预览结果
 pnpm dev
+## 方式 2：在浏览器中实时预览结果
+pnpm dev:open
 
 # 生成所有数据
 pnpm build
 
 # 预览一个 CSL 的结果
 pnpm preview "src/accounting-research/accounting-research.csl"
-# 你也可以直接运行脚本
-tsx ./lib/index.ts "src/accounting-research/accounting-research.csl"
 ```
 
 提交新样式时，在 `src` 目录为每一个 style 建立一个单独的文件夹，在文件夹中，存放 `[style name].csl`。如果需要为这个样式提供单独的测试条目，可以分别建立 `items.json` 或 `cites.json`，这两个 JSON 文件的格式分别为 CSL-JSON 的 Items 和 CitationItems[^csl-json]。

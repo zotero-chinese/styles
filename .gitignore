@@ -5,6 +5,9 @@ yarn-error.log
 .DS_Store
 package-lock.json
 yarn.lock
+.vitepress/dist
+.vitepress/cache
+.vitepress/*.timestamp*
 
 Exported Items.json# Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,7 +1,7 @@
 import { argv, exit } from "node:process";
 import { watch } from "chokidar";
 import FastGlob from "fast-glob";
-import consola from "consola";
+import { consola } from "consola";
 import ora from "ora";
 import Tinypool from "tinypool";
 import { generateAndWrite } from "./generate.js";
@@ -54,7 +54,7 @@ function serve() {
     });
 }
 
-async function build() {
+export async function build() {
   console.time("build");
   const result = await Promise.all(
     FastGlob.globSync("**/*.csl").map(async (path) => {
