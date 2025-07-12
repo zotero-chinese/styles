@@ -960,8 +960,7 @@
             <text macro="locators-booklike-ZHtoEN"/>
           </group>
         </else-if>
-        <else-if variable="original-container-title">
-        </else-if>
+        <else-if variable="original-container-title"/>
         <else>
           <text macro="number-EN"/>
           <text macro="locators-booklike-ZHtoEN"/>
@@ -989,7 +988,7 @@
     <choose>
       <if variable="number">
         <group delimiter=" ">
-          <text variable="orginal-genre" text-case="title"/>
+          <text variable="original-genre" text-case="title"/>
           <text value="No."/>
           <text variable="number"/>
         </group>
