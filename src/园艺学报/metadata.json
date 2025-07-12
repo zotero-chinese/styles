@@ -1,0 +1,29 @@
+{
+  "dir": "园艺学报",
+  "file": "园艺学报.csl",
+  "style_class": "in-text",
+  "title": "园艺学报",
+  "id": "https://www.zotero-chinese.com/styles/园艺学报",
+  "link_self": "https://www.zotero-chinese.com/styles/园艺学报",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无URL、DOI，全角括号）",
+  "link_documentation": "https://www.ahs.ac.cn/CN/column/column184.shtml",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "botany",
+  "summary": "《园艺学报》论文模板",
+  "updated": "2025-04-19T23:05:38+08:00",
+  "citations": "（库恩，2012）<br>\n（Fourney，c1971）<br>\n（贾东琴和柯平，2011）<br>\n（Fan &#38; Sommers，2013）<br>\n（武丽丽 等，2008）<br>\n（Myburg et al.，2014）<br>\n（中国互联网络信息中心，2012；Bawden，2008）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-39 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">2011. 45–52. (in Chinese)\n    <div class=\"csl-block\">贾东琴，柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会. 中国图书馆学会年会论文集：2011 年卷. 北京：国家图书馆出版社：45–52.</div>\n  </div>\n  <div class=\"csl-entry\">2012. (in Chinese)\n    <div class=\"csl-block\">库恩. 2012. 科学革命的结构：第 4 版. 金吾伦, 胡新和，译. 2 版. 北京：北京大学出版社.</div>\n  </div>\n  <div class=\"csl-entry\">2008. 33(5)：8–9. (in Chinese)\n    <div class=\"csl-block\">武丽丽，华一新，张亚军，刘英敏. 2008. “北斗一号”监控管理网设计与实现. 测绘科学，33(5)：8–9.</div>\n  </div>\n  <div class=\"csl-entry\">2012. (in Chinese)\n    <div class=\"csl-block\">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展状况统计报告.</div>\n  </div>\n  <div class=\"csl-entry\">Bawden D. 2008. Origins and concepts of digital literacy. (2008-05-04)[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n  <div class=\"csl-entry\">Fan X，Sommers C H. 2013. Food irradiation research and technology. 2nd ed. Ames, Iowa：Blackwell Publishing：25–26.</div>\n  <div class=\"csl-entry\">Fourney M E. c1971. Advances in holographic photoelasticity//Symposium on Applications of Holography in Mechanics，1971年8月23—25日，University of Southern California, Los Angeles, California. New York：ASME：17–38.</div>\n  <div class=\"csl-entry\">Myburg A A，Grattapaglia D，Tuskan G A，Hellsten U，Hayes R D，Grimwood J，Jenkins J，Lindquist E，Tice H，Bauer D，Goodstein D M，Dubchak I，Poliakov A，Mizrachi E，Kullan A R K，Hussey S G，Pinard D，van der Merwe K，Singh P，van Jaarsveld I，Silva-Junior O B，Togawa R C，Pappas M R，Faria D A，Sansaloni C P，Petroli C D，Yang X，Ranjan P，Tschaplinski T J，Ye C Y，Li T，Sterck L，Vanneste K，Murat F，Soler M，Clemente H S，Saidi N，Cassan-Wang H，Dunand C，Hefer C A，Bornberg-Bauer E，Kersting A R，Vining K，Amarasinghe V，Ranik M，Naithani S，Elser J，Boyd A E，Liston A，Spatafora J W，Dharmwardhana P，Raja R，Sullivan C，Romanel E，Alves-Ferreira M，Külheim C，Foley W，Carocha V，Paiva J，Kudrna D，Brommonschenkel S H，Pasquali G，Byrne M，Rigault P，Tibbits J，Spokevicius A，Jones R C，Steane D A，Vaillancourt R E，Potts B M，Joubert F，Barry K，Pappas G J，Strauss S H，Jaiswal P，Grima-Pettenati J，Salse J，Van de Peer Y，Rokhsar D S，Schmutz J. 2014. The genome of eucalyptus grandis. Nature，510：356–362.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

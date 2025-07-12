@@ -1,0 +1,28 @@
+{
+  "dir": "人民出版社",
+  "file": "人民出版社.csl",
+  "style_class": "note",
+  "title": "人民出版社",
+  "id": "https://www.zotero-chinese.com/styles/人民出版社",
+  "link_self": "https://www.zotero-chinese.com/styles/人民出版社",
+  "link_template": "https://www.zotero-chinese.com/styles/中国社会科学",
+  "link_documentation": "http://www.pph166.com/",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "generic-base",
+  "updated": "2024-12-25T16:50:49+08:00",
+  "citations": "<sup>1</sup> 李铁映：《中国经济改革的双重探索》，《经济研究》2004年第2期。<br>\n<sup>2</sup> 国际货币基金组织：《国际资本市场发展、前景和政策》中译本，中国金融出版社1996年版。<br>\n<sup>3</sup> Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol. 56, No.2, Spring 2001, pp.339-374.<br>\n<sup>4</sup> Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995.<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">国际货币基金组织：《国际资本市场发展、前景和政策》中译本，中国金融出版社1996年版。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">李铁映：《中国经济改革的双重探索》，《经济研究》2004年第2期。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">Preeg, Ernest H., <i>Traders in a Brave New World: The Uruguay Round and the Future of the International Trading System</i>, Chicago, IL: University of Chicago Press, 1995.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Steinberg, Richard H., “In the Shadow of Law or Power? Consensus-Based Bargaining and Outcomes in the GATT/WTO”, <i>International Organization</i>, Vol. 56, No.2, Spring 2001, pp.339-374.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

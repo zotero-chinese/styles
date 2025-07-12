@@ -4,7 +4,7 @@
   "description": "CSL 中文样式库",
   "private": "true",
   "type": "module",
-  "packageManager": "pnpm@10.6.1",
+  "packageManager": "pnpm@10.10.0",
   "scripts": {
     "dev": "vitepress dev",
     "build": "tsx ./lib/index.ts all && vitepress build",
@@ -22,19 +22,22 @@
   ],
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.17.24",
+    "@types/node": "^20.19.7",
+    "@zotero-chinese/csl-m-schema-rng": "github:zotero-chinese/csl-m-schema-rng",
     "chokidar": "3.5.3",
     "citeproc": "2.4.63",
     "concurrently": "7.4.0",
-    "consola": "^3.4.0",
+    "consola": "^3.4.2",
+    "cross-env": "7.0.3",
     "fast-glob": "^3.3.3",
     "fs-extra": "^11.3.0",
     "ora": "^8.2.0",
-    "prettier": "^3.5.3",
-    "radash": "^12.1.0",
+    "prettier": "^3.6.2",
+    "radash": "^12.1.1",
     "scule": "^1.3.0",
-    "tsx": "^4.19.3",
-    "typescript": "^5.8.2",
+    "tinypool": "^0.8.4",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
     "vitepress": "^1.6.3"
   }
 }

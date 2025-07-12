@@ -29,10 +29,15 @@
   "xml.preferences.quoteStyle": "double",
   "xml.fileAssociations": [
     {
-      "systemId": "https://github.com/citation-style-language/schema/blob/master/schemas/styles/csl.rnc",
-      "pattern": "**/*.csl"
+      "pattern": "**/*.csl",
+      // 修改后的 CSL-M
+      "systemId": "${workspaceFolder}/node_modules/@zotero-chinese/csl-m-schema-rng/generated-schemas/merged/csl-mlz.rng"
+      // 原始的官方 CSL 1.0.2
+      // "systemId": "${workspaceFolder}/node_modules/@zotero-chinese/csl-m-schema-rng/generated-schemas/merged/csl.rng"
     }
   ],
+
+  "git.autofetch": true,
 
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
@@ -40,5 +45,7 @@
   "files.exclude": {
     // "node_modules":true,
     // "**/LICENSE": true
-  }
+  },
+
+  "git.autofetch": true
 }

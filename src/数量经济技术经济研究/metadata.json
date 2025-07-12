@@ -1,0 +1,29 @@
+{
+  "dir": "数量经济技术经济研究",
+  "file": "数量经济技术经济研究.csl",
+  "style_class": "in-text",
+  "title": "数量经济技术经济研究",
+  "id": "https://www.zotero-chinese.com/styles/数量经济技术经济研究",
+  "link_self": "https://www.zotero-chinese.com/styles/数量经济技术经济研究",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无URL、DOI，全角括号）",
+  "link_documentation": "http://www.jqte.net/sljjjsjjyj/ch/reader/more_news_list.aspx?category_id=cyxz",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "social_science",
+  "summary": "《数量经济技术经济研究》体例（2022-09-09）",
+  "updated": "2025-04-19T23:05:40+08:00",
+  "citations": "（李万利等，2022）<br>\n（张晓峒，2000）<br>\n（洪兴建等，2014）<br>\n（刘冲等，2022）<br>\n（王津港，2009）<br>\n（Fukuyama和Weber，2009）<br>\n（Tullock，1998）<br>\n（Corsetti等，1998）<br>\n（Thissen，1998）<br>\n（Krugman，1999）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">[1] 洪兴建,齐宁林,皇甫俊丽.中国农村多维贫困测度与维度分解[A].李平,赵新泉主编.21世纪数量经济学:第14卷[C].社会科学文献出版社,2014:465~482.</div>\n  <div class=\"csl-entry\">[2] 李万利,潘文东,袁凯彬.企业数字化转型与中国实体经济发展[J].数量经济技术经济研究,2022,(9):1~25.</div>\n  <div class=\"csl-entry\">[3] 刘冲,沙学康,张妍.交错双重差分：处理效应异质性与估计方法选择[J/OL].数量经济技术经济研究,2022.DOI:<a href=\"https://doi.org/10.13653/j.cnki.jqte.20220805.001\">10.13653/j.cnki.jqte.20220805.001</a>.</div>\n  <div class=\"csl-entry\">[4] 王津港.动态面板数据模型估计及其内生结构突变检验理论与应用[D].华中科技大学博士学位论文,2009.</div>\n  <div class=\"csl-entry\">[5] 张晓峒.计量经济分析[M].南开大学出版社,2000.</div>\n  <div class=\"csl-entry\">[6] Corsetti G., Pesenti P., Roubini N., 1998, <i>What Caused the Asian Currency and Financial Crisis? Part I: A Macroeconomic Overview</i> [R], Working Paper, No. 6833.</div>\n  <div class=\"csl-entry\">[7] Fukuyama H., Weber W. L., 2009, <i>A Directional Slacks-Based Measure of Technical Inefficiency</i> [J], Socio-Economic Planning Sciences, 43(4), 274~287.</div>\n  <div class=\"csl-entry\">[8] Krugman P., 1999, <i>What Happened to Asia</i> [A], Sato R., Ramachandran R. V., Mino K. eds. Global Competition and Integration [C], Boston, MA: Springer US, 315~327.</div>\n  <div class=\"csl-entry\">[9] Thissen M., 1998, <i>A Classification of Empirical CGE Modelling</i> [D], University of Groningen.</div>\n  <div class=\"csl-entry\">[10] Tullock Gordon., 1998, <i>On Voting : A Public Choice Approach</i> [M], Cheltenham, UK: Edward Elgar Pub.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" delimiter-precedes-last="never" et-al-min="4" et-al-use-first="1" sort-separator="；" page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
+  <info>
+    <title>中国现代文学研究丛刊</title>
+    <id>https://www.zotero-chinese.com/styles/中国现代文学研究丛刊</id>
+    <link href="https://www.zotero-chinese.com/styles/中国现代文学研究丛刊" rel="self"/>
+    <link href="http://www.zgxdwxyjck.cn/" rel="documentation"/>
+    <author>
+      <name>Edward Zhou</name>
+      <email>edwardzhoujiaxi@gmail.com</email>
+    </author>
+    <category citation-format="note"/>
+    <category field="literature"/>
+    <issn>1003-0263</issn>
+    <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《中国现代文学研究丛刊》引文规范改制，具体用法和特性见说明</summary>
+    <published>2021-02-24T00:00:00+08:00</published>
+    <updated>2024-03-01T14:57:23+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
+      <term name="translator" form="short">
+        <single>trans.</single>
+        <multiple>trans.</multiple>
+      </term>
+      <term name="page" form="short">
+        <single>p. </single>
+        <multiple>pp. </multiple>
+      </term>
+    </terms>
+    <date form="text">
+      <date-part name="month" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year"/>
+    </date>
+  </locale>
+  <locale xml:lang="zh">
+    <terms>
+      <term name="ibid">同上</term>
+      <term name="page" form="short"/>
+      <term name="anonymous">出版时间不详</term>
+    </terms>
+  </locale>
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="、" sort-separator="，"/>
+    </names>
+  </macro>
+  <macro name="editor">
+    <names variable="editor">
+      <name delimiter="、" sort-separator="，"/>
+    </names>
+  </macro>
+  <macro name="date">
+    <choose>
+      <if variable="issued">
+        <date date-parts="year" form="text" variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="anonymous"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="secondAuthor">
+    <names variable="translator" suffix="译">
+      <name delimiter="、" sort-separator="，"/>
+    </names>
+  </macro>
+  <macro name="locators-zh">
+    <choose>
+      <if type="book thesis" match="any">
+        <label variable="locator" form="symbol"/>
+      </if>
+    </choose>
+  </macro>
+  <citation>
+    <layout locale="en" suffix="." delimiter="; ">
+      <choose>
+        <if position="ibid-with-locator">
+          <group>
+            <text term="ibid" suffix=", "/>
+            <group>
+              <label variable="locator" form="short"/>
+              <text variable="locator" suffix="."/>
+            </group>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <text term="ibid"/>
+        </else-if>
+        <else-if position="subsequent" type="book" match="all">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <names variable="editor" prefix="in " suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="title" font-style="italic"/>
+          <group>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
+          </group>
+        </else-if>
+        <else-if position="subsequent" type="thesis" match="all">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <names variable="editor" prefix="in " suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="title" font-style="italic"/>
+          <group>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
+          </group>
+        </else-if>
+        <else-if position="subsequent" type="article article-journal article-magazine" match="all">
+          <choose>
+            <if variable="locator">
+              <names variable="author" suffix=", ">
+                <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+              </names>
+              <names variable="editor" prefix="in " suffix=", ">
+                <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+                <label form="short" prefix=" "/>
+              </names>
+              <text variable="title" prefix="“" suffix=",” "/>
+              <group>
+                <label variable="locator" form="short"/>
+                <text variable="locator"/>
+              </group>
+            </if>
+            <else>
+              <names variable="author" suffix=", ">
+                <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+              </names>
+              <names variable="editor" suffix=", ">
+                <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+                <label form="short" prefix=" "/>
+              </names>
+              <text variable="title" quotes="true"/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if position="subsequent" type="paper-conference" match="all">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <names variable="editor" prefix="in " suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <group>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if position="subsequent" type="chapter" match="all">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <group>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="book">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <names variable="editor" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="title" font-style="italic"/>
+          <names variable="translator">
+            <label form="short" prefix=" " suffix=" "/>
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="publisher-place" prefix=", " suffix=": "/>
+          <text variable="publisher" suffix=", "/>
+          <date date-parts="year" form="numeric" variable="issued"/>
+          <group>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
+          </group>
+        </else-if>
+        <else-if type="chapter">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <names variable="editor" prefix="in " suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="container-title" font-style="italic"/>
+          <names variable="translator">
+            <label form="short" prefix=" " suffix=" "/>
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="publisher-place" prefix=", " suffix=": "/>
+          <text variable="publisher" suffix=", "/>
+          <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
+          <group>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="paper-conference">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text macro="author" suffix=", "/>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="event" suffix=", "/>
+          <text variable="event-place" suffix=", "/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
+          <group>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" font-style="italic" suffix=", "/>
+          <text variable="genre" suffix=" Dissertation, "/>
+          <text variable="publisher-place" suffix=": "/>
+          <text variable="publisher" suffix=", "/>
+          <date date-parts="year" form="numeric" variable="issued"/>
+          <group>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
+          </group>
+        </else-if>
+        <else-if type="article article-journal article-magazine" match="any">
+          <choose>
+            <if variable="locator">
+              <names variable="author" suffix=", ">
+                <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+              </names>
+              <text variable="title" prefix="“" suffix=",” "/>
+              <text variable="container-title" font-style="italic" suffix=", "/>
+              <text variable="volume" prefix="Vol. " suffix=", "/>
+              <text variable="issue" prefix="No. " suffix=", "/>
+              <date date-parts="year" form="text" variable="issued"/>
+              <group>
+                <label variable="locator" form="short" prefix=", "/>
+                <text variable="locator"/>
+              </group>
+            </if>
+            <else>
+              <names variable="author" suffix=", ">
+                <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+              </names>
+              <text variable="title" prefix="“" suffix=",” "/>
+              <text variable="container-title" font-style="italic" suffix=", "/>
+              <text variable="volume" prefix="Vol. " suffix=", "/>
+              <text variable="issue" prefix="No. " suffix=", "/>
+              <date date-parts="year" form="text" variable="issued"/>
+              <group>
+                <label variable="page" form="short" prefix=", "/>
+                <text variable="page"/>
+              </group>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="article-newspaper">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="container-title" font-style="italic" suffix=", "/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
+        </else-if>
+        <else-if type="post webpage" match="any">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="container-title" font-style="italic" suffix=", "/>
+          <date form="text" variable="issued" suffix=", "/>
+          <text variable="URL"/>
+          <date variable="accessed" prefix=", ">
+            <date-part name="year" suffix="年"/>
+            <date-part name="month" form="numeric" suffix="月"/>
+            <date-part name="day" suffix="日"/>
+          </date>
+        </else-if>
+        <else>
+          <text macro="author"/>
+          <text macro="editor"/>
+          <text variable="title"/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix=", " suffix=", "/>
+          <text macro="secondAuthor" prefix=", "/>
+          <text variable="publisher-place" prefix=", " suffix=": "/>
+          <text variable="publisher"/>
+          <text variable="archive" suffix=", "/>
+          <!-- 档案的卷宗号 -->
+          <text variable="archive_location"/>
+          <group>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+    <layout suffix="。" delimiter="；">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter="，">
+            <text term="ibid"/>
+            <text macro="locators-zh"/>
+            <text variable="locator" prefix="第" suffix="页"/>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <group delimiter="，">
+            <text term="ibid"/>
+          </group>
+        </else-if>
+        <else-if position="subsequent">
+          <group>
+            <text macro="author" suffix="："/>
+            <text macro="editor" suffix="主编："/>
+            <text variable="title" prefix="《" suffix="》"/>
+            <text macro="locators-zh"/>
+            <text variable="locator" prefix="，第" suffix="页"/>
+          </group>
+        </else-if>
+        <else-if type="article article-journal article-magazine" match="any">
+          <text macro="author"/>
+          <text variable="title" prefix="：《" suffix="》，"/>
+          <text macro="secondAuthor" suffix="，"/>
+          <text variable="container-title" prefix="《" suffix="》"/>
+          <date date-parts="year" form="text" variable="issued"/>
+          <text variable="issue" prefix="第" suffix="期"/>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text macro="author" suffix="："/>
+          <text variable="title" prefix="《" suffix="》，"/>
+          <text macro="secondAuthor" suffix="，"/>
+          <text variable="container-title" prefix="《" suffix="》"/>
+          <date form="text" variable="issued"/>
+          <text variable="edition" prefix="，"/>
+          <text variable="section" prefix="，"/>
+        </else-if>
+        <else-if type="chapter">
+          <choose>
+            <if variable="translator">
+              <text macro="author"/>
+              <text variable="title" prefix="：《" suffix="》，"/>
+              <text variable="container-title" prefix="《" suffix="》"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text macro="editor" prefix="，" suffix="主编"/>
+              <text macro="secondAuthor" prefix="，" suffix="，"/>
+              <text variable="publisher"/>
+              <text macro="date" suffix="版"/>
+              <text variable="page" prefix="，第" suffix="页"/>
+            </if>
+            <else>
+              <text macro="author"/>
+              <text variable="title" prefix="：《" suffix="》，"/>
+              <text variable="container-title" prefix="《" suffix="》"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text macro="editor" prefix="，" suffix="主编"/>
+              <text variable="publisher" prefix="，"/>
+              <text macro="date" suffix="版"/>
+              <text variable="page" prefix="，第" suffix="页"/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="post webpage" match="any">
+          <text macro="author" suffix="："/>
+          <text variable="title" prefix="《" suffix="》，"/>
+          <text variable="container-title" suffix="，"/>
+          <date form="text" variable="issued" suffix="，"/>
+          <text variable="URL" suffix="，"/>
+          <date form="text" variable="accessed"/>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="author" suffix="："/>
+          <text variable="title" prefix="《" suffix="》，"/>
+          <text variable="event" suffix="，"/>
+          <text variable="event-place" suffix="，"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
+          <text macro="locators-zh"/>
+          <text variable="locator" prefix="，第" suffix="页"/>
+        </else-if>
+        <else-if type="thesis">
+          <text macro="author"/>
+          <text variable="title" prefix="：《" suffix="》，"/>
+          <text macro="secondAuthor" suffix="，"/>
+          <text variable="publisher"/>
+          <text variable="genre" suffix="学位论文，"/>
+          <date date-parts="year" form="text" variable="issued"/>
+          <text macro="locators-zh"/>
+          <text variable="locator" prefix="，第" suffix="页"/>
+        </else-if>
+        <else-if type="book">
+          <choose>
+            <if variable="translator">
+              <text macro="author" suffix="，"/>
+              <text macro="editor" suffix="主编，"/>
+              <text variable="title" prefix="《" suffix="》，"/>
+              <text macro="secondAuthor" suffix="，"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text variable="publisher"/>
+              <text macro="date" suffix="版"/>
+              <text macro="locators-zh"/>
+              <text variable="locator" prefix="，第" suffix="页"/>
+            </if>
+            <else>
+              <text macro="author" suffix="："/>
+              <text macro="editor" suffix="主编："/>
+              <text variable="title" prefix="《" suffix="》"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text variable="publisher" prefix="，"/>
+              <text macro="date" suffix="版"/>
+              <text macro="locators-zh"/>
+              <text variable="locator" prefix="，第" suffix="页"/>
+            </else>
+          </choose>
+        </else-if>
+        <else>
+          <text macro="author"/>
+          <text macro="editor" suffix="主编"/>
+          <text variable="title" prefix="《" suffix="》"/>
+          <text macro="secondAuthor"/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix="，" suffix="，"/>
+          <text variable="edition"/>
+          <text variable="volume" prefix="第" suffix="卷"/>
+          <text variable="publisher-place" prefix="，" suffix="："/>
+          <text variable="publisher"/>
+          <text variable="archive" suffix="，"/>
+          <!-- 档案的卷宗号 -->
+          <text variable="archive_location"/>
+          <text macro="locators-zh"/>
+          <text variable="locator" prefix="，第" suffix="页"/>
+        </else>
+      </choose>
+    </layout>
+  </citation>
+  <bibliography>
+    <sort>
+      <key variable="author"/>
+    </sort>
+    <layout locale="en" suffix=".">
+      <choose>
+        <if type="book">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <names variable="editor" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="title" font-style="italic"/>
+          <names variable="translator">
+            <label form="short" prefix=" " suffix=" "/>
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="publisher-place" prefix=", " suffix=": "/>
+          <text variable="publisher" suffix=", "/>
+          <date date-parts="year" form="numeric" variable="issued"/>
+          <group>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="locator"/>
+          </group>
+        </if>
+        <else-if type="chapter">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <names variable="editor" prefix="in " suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+            <label form="short" prefix=" "/>
+          </names>
+          <text variable="container-title" font-style="italic"/>
+          <names variable="translator">
+            <label form="short" prefix=" " suffix=" "/>
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="publisher-place" prefix=", " suffix=": "/>
+          <text variable="publisher" suffix=", "/>
+          <date date-parts="year" form="numeric" variable="issued" suffix=", "/>
+          <group>
+            <label variable="page" form="short"/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="paper-conference">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text macro="author" suffix=", "/>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="event" suffix=", "/>
+          <text variable="event-place" suffix=", "/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
+          <group>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" font-style="italic" suffix=", "/>
+          <text variable="genre" suffix=" Dissertation, "/>
+          <text variable="publisher-place" suffix=": "/>
+          <text variable="publisher" suffix=", "/>
+          <date date-parts="year" form="numeric" variable="issued"/>
+          <group>
+            <label variable="locator" form="short" prefix=", "/>
+            <text variable="locator"/>
+          </group>
+        </else-if>
+        <else-if type="article article-journal article-magazine" match="any">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="container-title" font-style="italic" suffix=", "/>
+          <text variable="volume" prefix="Vol. " suffix=", "/>
+          <text variable="issue" prefix="No. " suffix=", "/>
+          <date date-parts="year" form="text" variable="issued"/>
+          <group>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="page"/>
+          </group>
+        </else-if>
+        <else-if type="article-newspaper">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="container-title" font-style="italic" suffix=", "/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
+        </else-if>
+        <else-if type="post webpage" match="any">
+          <names variable="author" suffix=", ">
+            <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
+          </names>
+          <text variable="title" prefix="“" suffix=",” "/>
+          <text variable="container-title" font-style="italic" suffix=", "/>
+          <date form="text" variable="issued" suffix=", "/>
+          <text variable="URL"/>
+          <date variable="accessed" prefix=", ">
+            <date-part name="year" suffix="年"/>
+            <date-part name="month" form="numeric" suffix="月"/>
+            <date-part name="day" suffix="日"/>
+          </date>
+        </else-if>
+        <else>
+          <text macro="author"/>
+          <text macro="editor"/>
+          <text variable="title"/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix=", " suffix=", "/>
+          <text macro="secondAuthor" prefix=", "/>
+          <text variable="publisher-place" prefix=", " suffix=": "/>
+          <text variable="publisher"/>
+          <text variable="archive" suffix=", "/>
+          <!-- 档案的卷宗号 -->
+          <text variable="archive_location"/>
+          <group>
+            <label variable="page" form="short" prefix=", "/>
+            <text variable="page"/>
+          </group>
+        </else>
+      </choose>
+    </layout>
+    <layout suffix="。">
+      <choose>
+        <if position="ibid-with-locator">
+          <group delimiter="，">
+            <text term="ibid"/>
+            <text macro="locators-zh"/>
+            <text variable="locator" prefix="第" suffix="页"/>
+          </group>
+        </if>
+        <else-if position="ibid">
+          <group delimiter="，">
+            <text term="ibid"/>
+          </group>
+        </else-if>
+        <else-if position="subsequent">
+          <group>
+            <text macro="author" suffix="："/>
+            <text macro="editor" suffix="主编："/>
+            <text variable="title" prefix="《" suffix="》"/>
+            <text macro="locators-zh"/>
+            <text variable="locator" prefix="，第" suffix="页"/>
+          </group>
+        </else-if>
+        <else-if type="article article-journal article-magazine" match="any">
+          <text macro="author"/>
+          <text variable="title" prefix="：《" suffix="》，"/>
+          <text macro="secondAuthor" suffix="，"/>
+          <text variable="container-title" prefix="《" suffix="》"/>
+          <date date-parts="year" form="text" variable="issued"/>
+          <text variable="issue" prefix="第" suffix="期"/>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text macro="author" suffix="："/>
+          <text variable="title" prefix="《" suffix="》，"/>
+          <text macro="secondAuthor" suffix="，"/>
+          <text variable="container-title" prefix="《" suffix="》"/>
+          <date form="text" variable="issued"/>
+          <text variable="edition" prefix="，"/>
+          <text variable="section" prefix="，"/>
+        </else-if>
+        <else-if type="chapter">
+          <choose>
+            <if variable="translator">
+              <text macro="author"/>
+              <text variable="title" prefix="：《" suffix="》，"/>
+              <text variable="container-title" prefix="《" suffix="》"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text macro="editor" prefix="，" suffix="主编"/>
+              <text macro="secondAuthor" prefix="，" suffix="，"/>
+              <text variable="publisher"/>
+              <text macro="date" suffix="版"/>
+              <text variable="page" prefix="，第" suffix="页"/>
+            </if>
+            <else>
+              <text macro="author"/>
+              <text variable="title" prefix="：《" suffix="》，"/>
+              <text variable="container-title" prefix="《" suffix="》"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text macro="editor" prefix="，" suffix="主编"/>
+              <text variable="publisher" prefix="，"/>
+              <text macro="date" suffix="版"/>
+              <text variable="page" prefix="，第" suffix="页"/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="post webpage" match="any">
+          <text macro="author" suffix="："/>
+          <text variable="title" prefix="《" suffix="》，"/>
+          <text variable="container-title" suffix="，"/>
+          <date form="text" variable="issued" suffix="，"/>
+          <text variable="URL" suffix="，"/>
+          <date form="text" variable="accessed"/>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="author" suffix="："/>
+          <text variable="title" prefix="《" suffix="》，"/>
+          <text variable="event" suffix="，"/>
+          <text variable="event-place" suffix="，"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
+          <text macro="locators-zh"/>
+          <text variable="locator" prefix="，第" suffix="页"/>
+        </else-if>
+        <else-if type="thesis">
+          <text macro="author"/>
+          <text variable="title" prefix="：《" suffix="》，"/>
+          <text macro="secondAuthor" suffix="，"/>
+          <text variable="publisher"/>
+          <text variable="genre" suffix="学位论文，"/>
+          <date date-parts="year" form="text" variable="issued"/>
+          <text macro="locators-zh"/>
+          <text variable="locator" prefix="，第" suffix="页"/>
+        </else-if>
+        <else-if type="book">
+          <choose>
+            <if variable="translator">
+              <text macro="author" suffix="，"/>
+              <text macro="editor" suffix="主编，"/>
+              <text variable="title" prefix="《" suffix="》，"/>
+              <text macro="secondAuthor" suffix="，"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text variable="publisher"/>
+              <text macro="date" suffix="版"/>
+              <text macro="locators-zh"/>
+              <text variable="locator" prefix="，第" suffix="页"/>
+            </if>
+            <else>
+              <text macro="author" suffix="："/>
+              <text macro="editor" suffix="主编："/>
+              <text variable="title" prefix="《" suffix="》"/>
+              <text variable="collection-number" prefix="第" suffix="册"/>
+              <text variable="edition"/>
+              <text variable="volume" prefix="第" suffix="卷"/>
+              <text variable="publisher" prefix="，"/>
+              <text macro="date" suffix="版"/>
+              <text macro="locators-zh"/>
+              <text variable="locator" prefix="，第" suffix="页"/>
+            </else>
+          </choose>
+        </else-if>
+        <else>
+          <text macro="author"/>
+          <text macro="editor" suffix="主编"/>
+          <text variable="title" prefix="《" suffix="》"/>
+          <text macro="secondAuthor"/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix="，" suffix="，"/>
+          <text variable="edition"/>
+          <text variable="volume" prefix="第" suffix="卷"/>
+          <text variable="publisher-place" prefix="，" suffix="："/>
+          <text variable="publisher"/>
+          <text variable="archive" suffix="，"/>
+          <!-- 档案的卷宗号 -->
+          <text variable="archive_location"/>
+          <text macro="locators-zh"/>
+          <text variable="locator" prefix="，第" suffix="页"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

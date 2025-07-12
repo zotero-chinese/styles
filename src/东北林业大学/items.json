@@ -1,0 +1,811 @@
+[
+	{
+		"id": "gbt7714-1987.3.1.2:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"number-of-pages": "76",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"title": "论共产党员的修养",
+		"author": [
+			{
+				"literal": "刘少奇"
+			}
+		],
+		"issued": {
+			"date-parts": [["1962"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.4.2:01",
+		"type": "chapter",
+		"container-title": "Pathologic physiology: mechanisms of disease",
+		"event-place": "Philadelphia",
+		"language": "en-US",
+		"page": "457-472",
+		"publisher": "Saunders",
+		"publisher-place": "Philadelphia",
+		"title": "Pathogenic properties of invading microorganism",
+		"author": [
+			{
+				"family": "Weinstein",
+				"given": "L"
+			},
+			{
+				"family": "Swertz",
+				"given": "M N"
+			}
+		],
+		"editor": [
+			{
+				"family": "Sodeman",
+				"given": "William A",
+				"suffix": "Jr."
+			},
+			{
+				"family": "Sodeman",
+				"given": "William A"
+			}
+		],
+		"issued": {
+			"date-parts": [["1974"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.2.2:01",
+		"type": "document",
+		"language": "zh-CN",
+		"note": "type: periodical\nvolume: 1\nissue: 1\npublisher-place: 北京",
+		"publisher": "地质出版社",
+		"title": "地质评论",
+		"author": [
+			{
+				"literal": "中国地质学会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1936"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.1.2:02",
+		"type": "book",
+		"collection-title": "Information sources for research and development",
+		"event-place": "London",
+		"ISBN": "0-408-70916-2",
+		"language": "en-US",
+		"note": "Google-Books-ID: gEBrAAAAMAAJ",
+		"number-of-pages": "462",
+		"publisher": "Butterworths",
+		"publisher-place": "London",
+		"source": "Google Books",
+		"title": "Use of medical literature",
+		"editor": [
+			{
+				"family": "Morton",
+				"given": "Leslie Thomas"
+			}
+		],
+		"issued": {
+			"date-parts": [["1977"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.5.2:01",
+		"type": "article-journal",
+		"container-title": "中国科学",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "400-429",
+		"title": "地壳构造与地壳运动",
+		"author": [
+			{
+				"literal": "李四光"
+			}
+		],
+		"issued": {
+			"date-parts": [["1973"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.5.2:02",
+		"type": "article-journal",
+		"container-title": "Annals of Internal Medicine",
+		"DOI": "10.7326/0003-4819-92-2-316",
+		"ISSN": "0003-4819",
+		"issue": "2.2",
+		"journalAbbreviation": "Ann. Intern. Med.",
+		"language": "en-US",
+		"note": "publisher: American College of Physicians",
+		"page": "316-318",
+		"title": "Neuropathology of diabetic neurogenic bladder",
+		"URL": "https://www.acpjournals.org/doi/10.7326/0003-4819-92-2-316",
+		"volume": "92",
+		"author": [
+			{
+				"family": "Mastri",
+				"given": "Angeline R."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 4, 18]]
+		},
+		"issued": {
+			"date-parts": [["1980", 2, 1]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.3.2:01",
+		"type": "patent",
+		"call-number": "CH1045476A",
+		"event-place": "Schweiz",
+		"language": "de-DE",
+		"note": "genre: Patentschrift",
+		"number": "608626",
+		"publisher-place": "Schweiz",
+		"title": "Anordnung zur lichtelektrischen Erfassung der Mitte eines Lichtfeldes",
+		"URL": "https://patents.google.com/patent/CH608626A5/en?oq=CH608626",
+		"author": [
+			{
+				"family": "Feist",
+				"given": "Wieland"
+			},
+			{
+				"family": "Wahnert",
+				"given": "Claus"
+			},
+			{
+				"family": "Feistauer",
+				"given": "Erich"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 4, 18]]
+		},
+		"issued": {
+			"date-parts": [["1979", 1, 15]]
+		},
+		"submitted": {
+			"date-parts": [["1976", 8, 17]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.1:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 24",
+		"publisher": "人民卫生出版社",
+		"publisher-place": "北京",
+		"title": "医用药理学",
+		"editor": [
+			{
+				"literal": "上海第一医院"
+			}
+		],
+		"issued": {
+			"date-parts": [["1977"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.1:02",
+		"type": "book",
+		"language": "en-US",
+		"note": "Google-Books-ID: q9LPMgEACAAJ\npage: 350",
+		"publisher": "Academic Press",
+		"source": "Google Books",
+		"title": "Advances in pharmacology and chemotherapy",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Garattini",
+				"given": "Silvio"
+			}
+		],
+		"issued": {
+			"date-parts": [["1978"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.1:03",
+		"type": "book",
+		"language": "en-US",
+		"note": "DOI: 10.1007/3-540-08907-1\npage: 226",
+		"publisher": "Springer",
+		"title": "Reviews of physiology, biochemistry and pharmacology",
+		"volume": "83",
+		"author": [
+			{
+				"family": "Adrian",
+				"given": "R. H."
+			}
+		],
+		"issued": {
+			"date-parts": [["1978"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.1:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "高等教育出版社",
+		"publisher-place": "北京",
+		"title": "图书馆目录",
+		"editor": [
+			{
+				"literal": "刘国钧"
+			},
+			{
+				"literal": "陈绍业"
+			},
+			{
+				"literal": "王凤蕭"
+			}
+		],
+		"issued": {
+			"date-parts": [["1957"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.1:02",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "我国西沙群岛的土壤和鸟粪磷矿",
+		"author": [
+			{
+				"literal": "中国科学院南京土壤研究所西沙群岛考察组"
+			}
+		],
+		"issued": {
+			"date-parts": [["1977"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.1:03",
+		"type": "book",
+		"abstract": "Textbook on indexing methodology - describes the characteristics of indexes for monographs and periodicals, focuses on indexing procedures, editing, use of a thesaurus, and of word processing and computer aided techniques, etc., summarizes evaluation techniques, and touches upon job requirements and training of professional indexers. Bibliography pp. 233 to 238, diagram and illustrations.",
+		"event-place": "New York",
+		"language": "en-US",
+		"publisher": "Academic Pr.",
+		"publisher-place": "New York",
+		"source": "Google Books",
+		"title": "Indexing concepts and methods",
+		"author": [
+			{
+				"family": "Borko",
+				"given": "Harold"
+			},
+			{
+				"family": "Bernier",
+				"given": "Charles L."
+			}
+		],
+		"issued": {
+			"date-parts": [["1978"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.1:04",
+		"type": "book",
+		"abstract": "Manual for the cataloguing of personal names in all languages - presents national cataloguing practice (incl. Samples), with translation into english. References.",
+		"edition": "3",
+		"language": "en-US",
+		"publisher": "IFLA International Office for UBC",
+		"source": "Google Books",
+		"title": "Names of persons: National usages for entry in catalogues",
+		"title-short": "Names of persons",
+		"author": [
+			{
+				"literal": "International Federation of Library Association and Institutions"
+			}
+		],
+		"issued": {
+			"date-parts": [["1977"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.2:01",
+		"type": "book",
+		"archive": "JSTOR",
+		"event-place": "Toronto",
+		"language": "en-US",
+		"publisher": "University of Toronto Pr.",
+		"publisher-place": "Toronto",
+		"title": "Proceedings of the fifth Canadian Mathematical Congress: University of Montreal, 1961",
+		"URL": "http://www.jstor.org/stable/10.3138/j.ctvfrxksz",
+		"editor": [
+			{
+				"family": "Rosenthall",
+				"given": "Edward M."
+			}
+		],
+		"issued": {
+			"date-parts": [["1963"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.3:01",
+		"type": "report",
+		"event-place": "Geneva",
+		"language": "en-US",
+		"publisher": "WHO",
+		"publisher-place": "Geneva",
+		"title": "Factors regulating the immune response: Report of WHO Scientific Group",
+		"author": [
+			{
+				"literal": "World Health Organization"
+			}
+		],
+		"issued": {
+			"date-parts": [["1970"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.4:01",
+		"type": "thesis",
+		"genre": "学位论文",
+		"language": "zh-CN",
+		"publisher": "北京大学数学研究所",
+		"title": "微分半动力系统的不变集",
+		"URL": "https://books.google.com/books?id=DsdVnQEACAAJ",
+		"author": [
+			{
+				"literal": "张筑生"
+			}
+		],
+		"issued": {
+			"date-parts": [["1983"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.4:02",
+		"type": "thesis",
+		"event-place": "Berkeley",
+		"genre": "dissertation",
+		"language": "en-US",
+		"publisher": "Univ. of California",
+		"publisher-place": "Berkeley",
+		"title": "Infrared spectroscopic studies on solid oxygen",
+		"author": [
+			{
+				"family": "Cairns",
+				"given": "Bruce Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [["1965"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.5:01",
+		"type": "book",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"note": "page: 447",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "地球物理学基础",
+		"author": [
+			{
+				"literal": "傅承义"
+			},
+			{
+				"literal": "陈运泰"
+			},
+			{
+				"literal": "祁贵中"
+			}
+		],
+		"issued": {
+			"date-parts": [["1985"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.5:02",
+		"type": "chapter",
+		"container-title": "世界地质科技发展动向",
+		"event-place": "北京",
+		"language": "zh-CN",
+		"page": "38-39",
+		"publisher": "地质出版社",
+		"publisher-place": "北京",
+		"title": "国际矿物学研究的动向",
+		"author": [
+			{
+				"literal": "黄蕴慧"
+			}
+		],
+		"editor": [
+			{
+				"literal": "程裕淇"
+			}
+		],
+		"issued": {
+			"date-parts": [["1982"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.5:03",
+		"type": "chapter",
+		"container-title": "Reviews in mineralogy, pyroxenes",
+		"language": "en-US",
+		"page": "117-211",
+		"publisher": "Mineralogical Society of America",
+		"title": "Subsolidus phenomena in pyroxenes",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Buseck",
+				"given": "Peter R."
+			},
+			{
+				"family": "Nord",
+				"given": "Gordon L",
+				"suffix": "Jr."
+			},
+			{
+				"family": "Veblen",
+				"given": "David R."
+			}
+		],
+		"editor": [
+			{
+				"family": "Prewitt",
+				"given": "Charles T."
+			}
+		],
+		"issued": {
+			"date-parts": [["1980"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.5:04",
+		"type": "book",
+		"abstract": "Developments in Petrology, Volume 8: Numerical Petrology: Statistical Interpretation of Geochemical Data presents the methods that are likely to be useful to the average petrologist. This book deals with the problems of closed data and singular matrices in multiple discriminant analysis and classification procedure. Organized into 12 chapters, this volume begins with an overview of the petrological data that can be quantified, including both discrete and continuous variables. This text then examines the methods of testing for differences between the means of two populations. Other chapters consider the three methods of evaluating linear trends within such bivatiate plots, namely, the use of the correlation coefficient, linear regression analysis, and either structural or functional relationships. This book discusses as well the propagation of errors in mineral and normative recalculations. The final chapter deals with the use of computers to manage the tremendous amount of information that is available. This book is a valuable resource for petrologists, geochemists, and geologists.",
+		"event-place": "Amsterdam",
+		"language": "en-US",
+		"note": "Google-Books-ID: 1kBZ0AEACAAJ\npage: 210",
+		"publisher": "Elsevier",
+		"publisher-place": "Amsterdam",
+		"source": "Google Books",
+		"title": "Numerical petrology: Statistical interpretation of geochemical data",
+		"title-short": "Numerical petrology",
+		"author": [
+			{
+				"family": "Le Maitre",
+				"given": "Roger Walter"
+			}
+		],
+		"issued": {
+			"date-parts": [["1982", 7, 1]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.6:01",
+		"type": "article-journal",
+		"container-title": "中国科学",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "339-357",
+		"title": "论一致分布与近似分析：数论方法（I）",
+		"author": [
+			{
+				"literal": "华罗庚"
+			},
+			{
+				"literal": "王元"
+			}
+		],
+		"issued": {
+			"date-parts": [["1973"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.6:02",
+		"type": "article-journal",
+		"abstract": "密码研究历来带着神秘色彩。但近来西方一些国家却开始公开讨论密码学的理论问题。这是怎么一回事呢?《密码学与数学》将会让你了解它的来龙去脉。",
+		"container-title": "自然杂志",
+		"ISSN": "0253-9608",
+		"issue": "7",
+		"language": "zh-CN",
+		"page": "527",
+		"source": "CNKI",
+		"title": "密码学与数学",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKth5mPLKqXjbyzE23kHsboObquo4tRDKBFbThwqHta2K_2E_cLAcVxGbAlzpEeDcOGQqoSeFZZmO&uniplatform=NZKPT",
+		"volume": "7",
+		"author": [
+			{
+				"literal": "陶仁骥"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 3, 29]]
+		},
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.6:03",
+		"type": "article-journal",
+		"container-title": "地质学报",
+		"language": "zh-CN",
+		"page": "194-208",
+		"title": "亚洲地层与地质历史概述",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "亚洲地质图编图组"
+			}
+		],
+		"issued": {
+			"date-parts": [["1978"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.6:04",
+		"type": "article-newspaper",
+		"container-title": "光明日报",
+		"language": "zh-CN",
+		"page": "4",
+		"title": "略论辛交革命前后的章太炎",
+		"author": [
+			{
+				"literal": "赵均宇"
+			}
+		],
+		"issued": {
+			"date-parts": [["1977", 3, 24]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.a.6:05",
+		"type": "article-journal",
+		"container-title": "Library Resources and Technical Services",
+		"issue": "3",
+		"language": "en-US",
+		"page": "205-218",
+		"title": "Technical services in 1983",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Hewitt",
+				"given": "Joe A"
+			}
+		],
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.2:02",
+		"type": "paper-conference",
+		"abstract": "Subglacial observations are presented of three important erosional processes, abrasion of the bed by debris embedded in the glacier sole, crushing of subglacial bedrock due to the pressure fluctuation produced by glacier flow over a bedrock hummock, and removal by plucking of the debris produced by the previous processes. The processes are then analyzed theoretically.",
+		"container-title": "Glacial Geomorphology",
+		"DOI": "10.1007/978-94-011-6491-7_2",
+		"event-place": "London",
+		"ISBN": "978-94-011-6491-7",
+		"language": "en-US",
+		"page": "41-87",
+		"publisher": "Allen & Unwin",
+		"publisher-place": "London",
+		"source": "Springer Link",
+		"title": "Processes and patterns of glacial erosion",
+		"author": [
+			{
+				"family": "Boulton",
+				"given": "Geoffrey S."
+			}
+		],
+		"editor": [
+			{
+				"family": "Coates",
+				"given": "Donald R."
+			}
+		],
+		"issued": {
+			"date-parts": [["1982"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.2:03",
+		"type": "article-journal",
+		"abstract": "The distribution of striated pavements, tillite, outwash deposits, faceted and striated stones, boulders preserved in laminated sequences and interpreted as dropped by ice floes, and other records, show that a large part of Australia was glaciated during the late Paleozoic. Alpine glaciers grew in the Carboniferous upon mountain ranges bordering the Tasman geosyncline in Queensland and northern New South Wales, beginning in the latest Namurian and culminating during the Westphalian and early Stephanian. Later, following deep erosion, continental ice sheets expanded at the end of the Carboniferous (latest Stephanian), and reached their maximum extent in the Early Permian (Sakmarian), when they spread across Tasmania, Victoria, South Australia, and much of New South Wales. They reached the Northern Territory in central Australia, and covered a large part of Western Australia, with centers in regions bordering the Perth, Carnarvon, Canning, Officer, and Bonaparte Gulf basins. A broad arcuate depression, at times occupied by the sea, crossed the continent from Western Australia, through central South Australia, and northeastward into Queensland. The ice sheets rapidly dwindled in the Artinskian; although in eastern Australia and Tasmania, large blocks were dropped into marine sediments from distant glaciers, continuing into the Late Permian (early Kazanian).The piecemeal stratigraphic record indicates that continental ice spread northeastward into Tasmania from highlands bordering the region on the southwest, and northward through glacial valleys along the coast of South Australia. The apparent source region is now under the deep ocean, but in the late Paleozoic was probably occupied by then-adjacent Antarctica. The spread northward of continental ice sheets at the end of the Carboniferous corresponds with a rapid shift of paleolatitude as determined from published paleomagnetic studies. Continental glaciers apparently grew when Gondwanaland moved near the South Pole and an unfrozen paleo-Pacific was close by to provide abundant moisture.",
+		"container-title": "The Bulletin of the Geological Society of America",
+		"DOI": "10.1130/0016-7606(1971)82[2515:LPGPIA]2.0.CO;2",
+		"ISSN": "0016-7606",
+		"issue": "9",
+		"journalAbbreviation": "Bull. Geol. Soc. Am.",
+		"language": "en-US",
+		"page": "2515-2540",
+		"source": "Silverchair",
+		"title": "Late Paleozoic Glaciation: Part IV, Australia",
+		"title-short": "Late Paleozoic Glaciation",
+		"URL": "https://doi.org/10.1130/0016-7606(1971)82[2515:LPGPIA]2.0.CO;2",
+		"volume": "82",
+		"author": [
+			{
+				"family": "Crowell",
+				"given": "John C."
+			},
+			{
+				"family": "Frakes",
+				"given": "Lawrence A."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 12, 10]]
+		},
+		"issued": {
+			"date-parts": [["1971", 9, 1]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.2:04",
+		"type": "article-journal",
+		"abstract": "Lower and upper tills from the area along the north shore of Lake Erie were studied by various field and laboratory methods in order to determine which of them would be the most suitable for later and more detailed investigations. Where only differentiation of two tills is required the following methods were found to give the best results: determination of color and grain-size, petrographic analyses, particularly of the 0.5-1.0 mm grade, heavy mineral investigations and determination of carbonate content of the silt+clay grade. Where provenance is the dominant consideration field studies of till fabric and till stones (alignment of stones, orientation of pentagonal pebbles, striage on boulder pavements), petrographic investigation of sand and pebble grades, heavy mineral investigations, particle size analyses, and determination of carbonate content, seem to be most suitable as illustrated in this paper. Some preliminary conclusions are drawn in respect to provenance of the two tills and ice flow directions. The upper till has a higher percentage of local materials from the Lake Erie basin, such as Devonian shales and Pleistocene lacustrine deposits. This indicates an intensive erosion of the lake depression during the period of deposition of the upper till. Differences in the pre-Cambrian components of the two tills suggest that the earlier ice flow, depositing the lower till, came from north-northeast, but the later one, depositing the upper till, was along the Lake Ontario and Lake Erie basins.",
+		"container-title": "Journal of Sedimentary Petrology",
+		"DOI": "10.1306/D4269625-2B26-11D7-8648000102C1865D",
+		"ISSN": "1527-1404",
+		"issue": "4",
+		"journalAbbreviation": "J. Sedim. Petrol.",
+		"language": "en-US",
+		"page": "238-259",
+		"source": "Silverchair",
+		"title": "Differentiation of the lower and the upper till along the north shore of Lake Erie",
+		"URL": "https://doi.org/10.1306/D4269625-2B26-11D7-8648000102C1865D",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Dreimanis",
+				"given": "Aleksis"
+			},
+			{
+				"family": "Reavely",
+				"given": "George Harold"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 12, 10]]
+		},
+		"issued": {
+			"date-parts": [["1953", 12, 1]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.8.2.3:02",
+		"type": "article-journal",
+		"container-title": "Lethaia",
+		"DOI": "10.1111/j.1502-3931.1975.tb00940.x",
+		"ISSN": "0024-1164",
+		"issue": "4",
+		"language": "en-US",
+		"page": "339-360",
+		"title": "Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England",
+		"URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1502-3931.1975.tb00940.x",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "William James"
+			},
+			{
+				"family": "Garrison",
+				"given": "Robert E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1975", 10]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.8.2.3:01",
+		"type": "article-journal",
+		"container-title": "Sedimentology",
+		"DOI": "10.1111/j.1365-3091.1975.tb01637.x",
+		"language": "en-US",
+		"page": "311-386",
+		"title": "Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "William James"
+			},
+			{
+				"family": "Garrison",
+				"given": "Robert E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1975"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.8.2.1:02",
+		"type": "article-journal",
+		"container-title": "College & Research Libraries",
+		"DOI": "10.5860/crl_42_06_549",
+		"issue": "6",
+		"journalAbbreviation": "Coll. Res. Libr.",
+		"language": "en-US",
+		"page": "549-560",
+		"title": "The information needs of historians",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Stieg",
+				"given": "Margaret F"
+			}
+		],
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.8.2.1:01",
+		"type": "book",
+		"event-place": "Chicago",
+		"language": "en-US",
+		"publisher": "Univ. of Chicago Press",
+		"publisher-place": "Chicago",
+		"title": "Invisible college",
+		"author": [
+			{
+				"family": "Crane",
+				"given": "Diana"
+			}
+		],
+		"issued": {
+			"date-parts": [["1972"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.3.2.2:02",
+		"type": "document",
+		"language": "en-US",
+		"note": "type: periodical\nedition: Preliminary ed.\npublisher-place: Ottawa\ncollection-title: Annual census of manufacturers\nISSN: 0700-0758",
+		"publisher": "Statistics Canada",
+		"title": "Communications equipment manufacturers",
+		"author": [
+			{
+				"literal": "Manufacturing and Primary Industries Division, Statistics Canada"
+			}
+		],
+		"issued": {
+			"date-parts": [["1970"]]
+		}
+	},
+	{
+		"id": "gbt7714-1987.7.2:01",
+		"type": "article-journal",
+		"abstract": "Debris transported by glacier is derived either supraglacially from nunataks and valley sides or from erosion of the subglacial bed. Debris produced above the glacier by fracturing of rock walls has a dominant coarse fraction with angular boulders. Subsequent englacial or supraglacial transport is relatively passive and little comminution occurs. Debris eroded from subglacial bedrock is initially transported in a basal zone of traction, where particles frequently come into contact with the glacier bed and are retarded by it so that large forces may be generated between particles and the bed and at interparticle contacts. The material introduced into this tractional zone may be subglacial bedrock which has undergone a crushing-plucking event and which has a dominant coarse fraction, or supraglacially derived material which finds its way to the glacier bed. These parent debris assemblages are further comminuted by failure in response to locally concentrated compressive stresses, and attrition at shearing interfaces. Boulders transported through the tractional zone will tend to be rounded and bear several directions of striation. Large boulders embedded in lodgement till will tend to be streamlined with striae parallel to glacier flow and with an abruptly truncated distal extremity, rather like a roche moutonnée. Textural and boulder shape characteristics can be used to help distinguish different types of till.",
+		"container-title": "Sedimentology",
+		"DOI": "10.1111/j.1365-3091.1978.tb00329.x",
+		"ISSN": "1365-3091",
+		"issue": "6",
+		"language": "en-US",
+		"page": "773-799",
+		"source": "Wiley Online Library",
+		"title": "Boulder shapes and grain-size distributions of debris as indicators of transport paths through a glacier and till genesis",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3091.1978.tb00329.x",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Boulton",
+				"given": "Geoffrey S."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 12, 10]]
+		},
+		"issued": {
+			"date-parts": [["1978"]]
+		}
+	}
+]

@@ -1,22 +1,30 @@
-name: ci-pr
+name: autofix.ci # needed to securely identify the workflow
 
 on:
-  #   pull_request:
-  #     branches:
-  #       - main
-  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
 
 jobs:
-  upload:
-    name: 上传运行信息
+  autofix:
+    name: 自动修复格式和预览
     runs-on: ubuntu-latest
-    if: github.repository == 'redleafnew/Chinese-STD-GB-T-7714-related-csl' && github.event_name == 'pull_request'
     steps:
-      - name: 保存 PR 编号
-        run: |
-          echo "${{ github.event.number }}" > pr_num
-      - name: 上传 PR 编号
-        uses: actions/upload-artifact@v4
+      - uses: actions/checkout@v4
         with:
-          name: pr-num
-          path: ./pr_num
+          fetch-depth: 0
+          submodules: recursive
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install
+
+      - run: pnpm build
+      # - run: pnpm format
+
+      - uses: autofix-ci/action@main

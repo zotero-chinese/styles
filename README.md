@@ -6,7 +6,7 @@
 
 - 中文 CSL 样式 - Zotero 中文社区：<https://zotero-chinese.com/styles/>
 - GitHub 仓库：<https://github.com/zotero-chinese/styles>
-- Gitee 镜像：<https://gitee.com/redleafnew00/Chinese-STD-GB-T-7714-related-csl>（自动同步）
+- Gitee 镜像：<https://gitee.com/zotero-chinese-x/styles>（自动同步）
 - CSL 官方仓库：<https://github.com/citation-style-language/styles>
 
 ## 如何使用

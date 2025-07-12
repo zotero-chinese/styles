@@ -1,0 +1,29 @@
+{
+  "dir": "武汉大学（本科）",
+  "file": "武汉大学（本科）.csl",
+  "style_class": "in-text",
+  "title": "武汉大学（本科）",
+  "id": "https://www.zotero-chinese.com/styles/武汉大学（本科）",
+  "link_self": "https://www.zotero-chinese.com/styles/武汉大学（本科）",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）",
+  "link_documentation": "https://uc.whu.edu.cn/xs/bylw_sj_.htm",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "附件3.武汉大学本科生毕业论文（设计）书写印制规范（2024年）.doc",
+  "updated": "2025-01-08T17:10:36+08:00",
+  "citations": "<sup>[1-9]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">戴军, 袁惠新, 俞建峰. 膜技术在含油废水处理中的应用[J]. 膜科学与技术, 2002(01): 59-64.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">毛峡, 孙赟. 和谐图案的自动生成研究[A]. 第一届中国情感计算及智能交互学术会议论文集[C]. 北京: 中国科学院自动化研究所, 2003: 293-297.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">王湛. 膜分离技术基础[M]. 北京: 化学工业出版社, 2019.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">张志祥. 间断动力系统的随机扰动及其在守恒律方程中的应用[D]. 北京大学.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">World Health Organization. Factors regulating the immune response : report of a WHO scientific group[R]. Geneva: WHO, 1970.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 中国, 01129210.5[P]. 2001-10-24.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">GB/T 16159—1996, 拼音正词法基本规则[S]. 北京: 中国标准出版社, 1996.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">毛侠. 情感工学破解“舒服”之谜[N]. 光明日报, 2004-04-17(B1).</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[9]</div><div class=\"csl-right-inline\">陈剑. 上博简《民之父母》“而得既塞於四海矣”句解释[EB/OL]. 简帛研究网站. <a href=\"https://www.bamboosilk.org/Wssf/2003/chenjian03.htm\">https://www.bamboosilk.org/Wssf/2003/chenjian03.htm</a>. 2003-01-18.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}

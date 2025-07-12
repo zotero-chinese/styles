@@ -1,16 +1,18 @@
 import argparse
-from pathlib import Path
 import re
 import shutil
+from pathlib import Path
 
-
-DEFAULT_BASE_STYLE = "gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi"
+ZOTERO_REPO_PREFIX = "https://zotero-chinese.com/styles"
+DEFAULT_BASE_STYLE = "GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）"
 
 
 def make_style_id(style_name: str):
-    style_id = style_name.lower()
-    style_id = style_id.replace("&", " and ")
-    style_id = re.sub(r"[^0-9A-Za-z]+", "-", style_id)
+    style_id = style_name.replace(" ", "-")
+    style_id = style_id.replace("/", "-")
+    style_id = re.sub(r"-+", "-", style_id)
+    style_id = re.sub(r"^-*", "", style_id)
+    style_id = re.sub(r"-*$", "", style_id)
     return style_id
 
 
@@ -37,24 +39,24 @@ def main():
     )
     style_content = re.sub(
         r"<id>.*?</id>",
-        f"<id>http://www.zotero.org/styles/{style}</id>",
+        f"<id>{ZOTERO_REPO_PREFIX}/{style}</id>",
         style_content,
     )
     style_content = re.sub(
         r'<link .*? rel="self"/>',
-        f'<link href="http://www.zotero.org/styles/{style}" rel="self"/>',
+        f'<link href="{ZOTERO_REPO_PREFIX}/{style}" rel="self"/>',
         style_content,
     )
     if 'rel="template"' in style_content:
         style_content = re.sub(
             r'<link .*? rel="template"/>',
-            f'<link href="http://www.zotero.org/styles/{base_style}" rel="template"/>',
+            f'<link href="{ZOTERO_REPO_PREFIX}/{base_style}" rel="template"/>',
             style_content,
         )
     else:
         style_content = re.sub(
             r'rel="self"/>',
-            f'rel="self"/>\n    <link href="http://www.zotero.org/styles/{base_style}" rel="template"/>',
+            f'rel="self"/>\n    <link href="{ZOTERO_REPO_PREFIX}/{base_style}" rel="template"/>',
             style_content,
         )
     if "<summary>" in style_content:
