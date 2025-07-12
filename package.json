@@ -6,11 +6,11 @@
   "type": "module",
   "packageManager": "pnpm@10.10.0",
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "tsx ./lib/index.ts all && vitepress build",
+    "dev": "tsx ./lib/index.ts watch",
+    "dev:open": "vitepress dev --open",
+    "build": "tsx ./lib/index.ts all",
     "preview": "tsx ./lib/index.ts",
-    "format": "prettier . --write",
-    "docs:preview": "vitepress preview ."
+    "format": "prettier . --write"
   },
   "author": "zotero-chinese",
   "license": "CC-BY-SA-3.0",

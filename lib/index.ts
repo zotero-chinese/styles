@@ -1,7 +1,7 @@
 import { argv, exit } from "node:process";
 import { watch } from "chokidar";
 import FastGlob from "fast-glob";
-import consola from "consola";
+import { consola } from "consola";
 import ora from "ora";
 import Tinypool from "tinypool";
 import { generateAndWrite } from "./generate.js";

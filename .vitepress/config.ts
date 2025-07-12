@@ -96,10 +96,18 @@ export default defineConfig({
         name: "zotero-chinese-csl-dev",
         apply: "serve",
         async watchChange(id, change) {
+          const onChange = async (path: string) => {
+            try {
+              await generateAndWrite(path);
+            } catch (e) {
+              this.debug(e);
+              this.warn("生成预览时发生错误，请检查 CSL 代码是否有误！");
+            }
+          };
+
           if (id.endsWith(".csl")) {
             console.log(`${id} changed`);
-
-            await generateAndWrite(id);
+            await onChange(id);
             return;
           }
 
@@ -112,7 +120,7 @@ export default defineConfig({
               .filter((p) => p.endsWith(".csl"))
               .map((p) => `${dir}/${p}`)[0];
 
-            await generateAndWrite(cslPath);
+            await onChange(cslPath);
             return;
           }
         },

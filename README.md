@@ -74,7 +74,10 @@ corepack enable
 pnpm install
 
 # 监听 CSL 文件变化并热更新
+## 方式 1：仅生成预览结果
 pnpm dev
+## 方式 2：在浏览器中实时预览结果
+pnpm dev:open
 
 # 生成所有数据
 pnpm build
