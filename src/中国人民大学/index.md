@@ -80,7 +80,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所，《历代王朝与民族宗教》，北京，民族出版社，2012。</div>
   <div class="csl-entry">陈登原，《国史旧闻》，北京，中华书局，2000。</div>
   <div class="csl-entry">陈登原，《国史旧闻》，北京，中华书局，2000。</div>
-  <div class="csl-entry">陈建军，“从数字地球到智慧地球”，《国土资源导刊》，2010年第7卷第十期，93页。</div>
+  <div class="csl-entry">陈建军，“从数字地球到智慧地球”，《国土资源导刊》，2010年第七卷第十期，93页。</div>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、王振刚，“蓟县震旦亚界的研究”，中国地质科学院天津地质矿产研究所，《中国震旦亚界》，天津，天津科学技术出版社，1980，56～114。</div>
   <div class="csl-entry">陈志勇主编，《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京，经济科学出版社，2011。</div>
   <div class="csl-entry">程根伟，“1998 年长江洪水的成因与减灾对策”，许厚泽、赵其国，《长江流域洪涝灾害与科技对策》，北京，科学出版社，1999，32～36。</div>
@@ -101,7 +101,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">李炳穆，“韩国图书馆法”，《图书情报工作》，2008年第52卷第六期，6～12页。</div>
   <div class="csl-entry">李炳穆，“韩国图书馆法”，《图书情报工作》，2008年第52卷第六期，6～21页。</div>
   <div class="csl-entry">李强，2012年5月3日，“化解医患矛盾需釜底抽薪”，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>，2013年3月25日。</div>
-  <div class="csl-entry">李幼平、王莉，“循证医学研究方法：附视频”，《中华移植杂志（电子版）》，2010年第4卷第三期，225～228页。</div>
+  <div class="csl-entry">李幼平、王莉，“循证医学研究方法：附视频”，《中华移植杂志（电子版）》，2010年第四卷第三期，225～228页。</div>
   <div class="csl-entry">刘彻东，“中国的青年刊物：个性特色为本仁”，《中国出版》，1998年第五期，38～39页。</div>
   <div class="csl-entry">刘乃安，《生物质材料热解失重动力学及其分析方法研究》（博士学位论文），中国科学技术大学，2000。</div>
   <div class="csl-entry">刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文，“雾霾来袭，如何突围？”，《人民日报》，2013年1月12日。</div>
@@ -215,7 +215,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">拉普拉斯, Pierre-Simon，《概率哲学》，北京，未名出版社，1951。</div>
   <div class="csl-entry">李行健主编，《现代汉语规范辞典》，北京，外语教学与研究出版社，2004。</div>
   <div class="csl-entry">邱颖文，《遗传与语言学习》（博士学位论文），华东师范大学，2009。</div>
-  <div class="csl-entry">王登峰、崔红，“中国人‘大七’人格结构的理论分析”，王登峰、侯玉波，《人格与社会心理学论丛》第1卷，北京，北京大学出版社，2004，46～84。</div>
+  <div class="csl-entry">王登峰、崔红，“中国人‘大七’人格结构的理论分析”，王登峰、侯玉波，《人格与社会心理学论丛》第一卷，北京，北京大学出版社，2004，46～84。</div>
   <div class="csl-entry">余林，《汉语语言产生中的语音表征与加工》（博士学位论文），北京师范大学，2000。</div>
   <div class="csl-entry">张三，“中国心理学的过去与未来”，《心理学报》，2008年第40卷，210～215页。</div>
   <div class="csl-entry">张三，“中国心理学的过去与未来”，《心理学报》，2008年第40卷增刊，210～215页。</div>
@@ -258,7 +258,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">杜威·佛克马，“走向新世界主义”，王宁、薛晓源，《全球化与后殖民批评》，北京，中央编译出版社，1999，247～266。</div>
   <div class="csl-entry">方明东，《罗隆基政治思想研究（1913—1949）》（博士学位论文），北京师范大学历史系，2000。</div>
   <div class="csl-entry">费成康，“葡萄牙人如何进入澳门问题辨正”，《社会科学》，1999年第九期，63～67页。</div>
-  <div class="csl-entry">管志道，《答屠仪部赤水丈书》，《续问辨牍》（影印本）第2卷，济南，齐鲁书社，1997。</div>
+  <div class="csl-entry">管志道，《答屠仪部赤水丈书》，《续问辨牍》（影印本）第二卷，济南，齐鲁书社，1997。</div>
   <div class="csl-entry">何龄修，“读顾诚〈南明史〉”，《中国史研究》，1998年第三期，167～173页。</div>
   <div class="csl-entry">黄仁宇，“为什么称为‘中国大历史’？——中文版自序”，《中国大历史》，北京，三联书店，1997。</div>
   <div class="csl-entry">黄义豪，“评黄龟年四劾秦桧”，《福建论坛》，1997年第三期，26～27页。</div>
@@ -275,7 +275,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">伤心人（麦孟华），“说奴隶”，《清议报》，第69册，第1页。</div>
   <div class="csl-entry">实藤惠秀，《中国人留学日本史》，香港，香港中文大学出版社，1982。</div>
   <div class="csl-entry">唐振常，“师承与变法”，《识史集》，上海，上海古籍出版社，1997。</div>
-  <div class="csl-entry">汪疑今，“江苏的小农及其副业”，《中国经济》，1936年6月15日第4卷第六期。</div>
+  <div class="csl-entry">汪疑今，“江苏的小农及其副业”，《中国经济》，1936年6月15日第四卷第六期。</div>
   <div class="csl-entry">王明亮，1998年8月16日，“关于中国学术期刊标准化数据库系统工程的进展”，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。</div>
   <div class="csl-entry">魏丽英，“论近代西北人口波动的若干主要原因”，《社会科学》，1990年第六期，68～73, 86页。</div>
   <div class="csl-entry">谢兴尧整理，《荣庆日记》，西安，西北大学出版社，1986。</div>
@@ -313,7 +313,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">崔国斌，“知识产权法官造法批判”，《中国法学》，2006年第一期，144～164页。</div>
   <div class="csl-entry">[德]莱纳·沃尔夫，“风险法的风险”，刘刚，《风险规制：德国的理论与实践》，法律出版社，2012。</div>
-  <div class="csl-entry">邓小平，“精简机构是一场革命”，《邓小平文选》（第2版）第2卷，人民出版社，1994。</div>
+  <div class="csl-entry">邓小平，“精简机构是一场革命”，《邓小平文选》（第2版）第二卷，人民出版社，1994。</div>
   <div class="csl-entry">高鸿钧、程汉大主编，《英美法原论》，北京大学出版社，2013。</div>
   <div class="csl-entry">国家质量监督检验检疫总局、中国国家标准化管理委员会，“信息与文献 参考文献著录规则”，2015。</div>
   <div class="csl-entry">国务院，“国务院关于在全国建立农村最低生活保障制度的通知”，2007。</div>
@@ -331,7 +331,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">全国人大常委会，“中华人民共和国公司法”，2013。</div>
   <div class="csl-entry">全国人大常委会，“中华人民共和国刑法修正案（十）”，2017。</div>
   <div class="csl-entry">汪波，2004年1月10日，“哈尔滨市政法机关正对‘宝马案’认真调查复查”，人民网，互联网，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>，2022年5月3日。</div>
-  <div class="csl-entry">王保树，“股份有限公司机关构造中的董事和董事会”，梁慧星，《民商法论丛》第1卷，法律出版社，1994，110。</div>
+  <div class="csl-entry">王保树，“股份有限公司机关构造中的董事和董事会”，梁慧星，《民商法论丛》第一卷，法律出版社，1994，110。</div>
   <div class="csl-entry">王名扬，《美国行政法》，北京大学出版社，2007。</div>
   <div class="csl-entry">我妻栄, 新訂担保物権法, 有斐閣, 1971.</div>
   <div class="csl-entry">我妻栄 and 有泉亨, 民法総則物権法, 日本評論社, 1950.</div>

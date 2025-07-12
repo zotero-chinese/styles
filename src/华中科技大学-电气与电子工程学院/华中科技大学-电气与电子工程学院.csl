@@ -120,21 +120,19 @@
                 <text variable="volume-title"/>
               </if>
             </choose>
-            <choose>
-              <group delimiter=", ">
-                <choose>
-                  <if type="patent">
-                    <text macro="patent-country"/>
-                  </if>
-                </choose>
-                <choose>
-                  <if type="article article-journal standard" match="none">
-                    <!-- 预印本和期刊文章的编号用于其他位置 -->
-                    <text variable="number"/>
-                  </if>
-                </choose>
-              </group>
-            </choose>
+            <group delimiter=", ">
+              <choose>
+                <if type="patent">
+                  <text macro="patent-country"/>
+                </if>
+              </choose>
+              <choose>
+                <if type="article article-journal standard" match="none">
+                  <!-- 预印本和期刊文章的编号用于其他位置 -->
+                  <text variable="number"/>
+                </if>
+              </choose>
+            </group>
             <choose>
               <if type="collection manuscript personal_communication" match="any">
                 <!-- 档案的卷宗号 -->
@@ -177,21 +175,19 @@
                 <text variable="volume-title"/>
               </if>
             </choose>
-            <choose>
-              <group delimiter="，">
-                <choose>
-                  <if type="patent">
-                    <text macro="patent-country"/>
-                  </if>
-                </choose>
-                <choose>
-                  <if type="article article-journal standard" match="none">
-                    <!-- 预印本和期刊文章的编号用于其他位置 -->
-                    <text variable="number"/>
-                  </if>
-                </choose>
-              </group>
-            </choose>
+            <group delimiter="，">
+              <choose>
+                <if type="patent">
+                  <text macro="patent-country"/>
+                </if>
+              </choose>
+              <choose>
+                <if type="article article-journal standard" match="none">
+                  <!-- 预印本和期刊文章的编号用于其他位置 -->
+                  <text variable="number"/>
+                </if>
+              </choose>
+            </group>
             <choose>
               <if type="collection manuscript personal_communication" match="any">
                 <!-- 档案的卷宗号 -->

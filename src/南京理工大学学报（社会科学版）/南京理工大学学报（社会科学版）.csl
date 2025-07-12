@@ -106,9 +106,9 @@
           <if type="article-journal article-magazine" match="any">
             <date variable="issued" form="text" date-parts="year"/>
           </if>
-          <if type="article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
+          <else-if type="article-newspaper collection dataset manuscript personal_communication post post-weblog software webpage" match="any">
             <date variable="issued" form="text"/>
-          </if>
+          </else-if>
           <else-if type="paper-conference">
             <choose>
               <if variable="container-title">

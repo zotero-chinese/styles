@@ -88,9 +88,7 @@
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
       <choose>
-        <if variable="URL">
-          <text/>
-        </if>
+        <if variable="URL"/>
       </choose>
     </group>
   </macro>
@@ -100,9 +98,7 @@
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
       <choose>
-        <if variable="URL">
-          <text/>
-        </if>
+        <if variable="URL"/>
       </choose>
     </group>
   </macro>
@@ -282,7 +278,6 @@
         </choose>
       </else>
     </choose>
-    <text/>
   </macro>
   <macro name="entry-layout-zh">
     <text macro="author-zh" suffix=". "/>
@@ -330,7 +325,6 @@
         </choose>
       </else>
     </choose>
-    <text/>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
     <sort>

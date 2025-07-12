@@ -275,7 +275,7 @@
         </group>
       </group>
     </layout>
-    <layout locale="" prefix="（" suffix="）" delimiter="; ">
+    <layout prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-zh"/>
         <text macro="issued-year"/>

@@ -63,10 +63,10 @@
   <macro name="author-intext-en">
     <names variable="author">
       <name form="short" and="text"/>
+      <et-al font-style="italic"/>
       <substitute>
         <names variable="editor"/>
       </substitute>
-      <et-al font-style="italic"/>
     </names>
   </macro>
   <macro name="author-intext-zh">

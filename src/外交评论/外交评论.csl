@@ -274,8 +274,8 @@
   </macro>
   <macro name="container-booklike-zh">
     <choose>
-      <text term="in"/>
       <if variable="container-title">
+        <text term="in"/>
         <names variable="editor" suffix="：">
           <name delimiter="、"/>
           <label form="short"/>

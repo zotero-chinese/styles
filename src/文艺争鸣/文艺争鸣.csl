@@ -30,16 +30,12 @@
         <single>p. </single>
         <multiple>pp. </multiple>
       </term>
-      <term name="locator" form="short">
-        <single>p. </single>
-        <multiple>pp. </multiple>
-      </term>
-      <date form="text">
-        <date-part name="month" suffix=" "/>
-        <date-part name="day" suffix=", "/>
-        <date-part name="year"/>
-      </date>
     </terms>
+    <date form="text">
+      <date-part name="month" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year"/>
+    </date>
   </locale>
   <locale xml:lang="zh">
     <terms>
@@ -228,7 +224,7 @@
           <text variable="title" prefix="“" suffix=",” "/>
           <text variable="event" suffix=", "/>
           <text variable="event-place" suffix=", "/>
-          <date date-parts="year-month-date" form="text" variable="issued"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
             <text variable="page"/>
@@ -286,9 +282,9 @@
           </names>
           <text variable="title" prefix="“" suffix=",” "/>
           <text variable="container-title" font-style="italic" suffix=", "/>
-          <date date-parts="year-month-date" form="text" variable="issued"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
         </else-if>
-        <else-if type="post-blog webpage" match="any">
+        <else-if type="post webpage" match="any">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -306,7 +302,7 @@
           <text macro="author"/>
           <text macro="editor"/>
           <text variable="title"/>
-          <date date-parts="year-month-date" form="text" variable="issued" prefix=", " suffix=", "/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix=", " suffix=", "/>
           <text macro="secondAuthor" prefix=", "/>
           <text variable="publisher-place" prefix=", " suffix=": "/>
           <text variable="publisher"/>
@@ -389,7 +385,7 @@
             </else>
           </choose>
         </else-if>
-        <else-if type="post-blog webpage" match="any">
+        <else-if type="post webpage" match="any">
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="container-title" suffix="，"/>
@@ -402,7 +398,7 @@
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="event" suffix="，"/>
           <text variable="event-place" suffix="，"/>
-          <date date-parts="year-month-date" form="text" variable="issued"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
         </else-if>
@@ -450,7 +446,7 @@
           <text macro="editor" suffix="主编"/>
           <text variable="title" prefix="《" suffix="》"/>
           <text macro="secondAuthor"/>
-          <date date-parts="year-month-date" form="text" variable="issued" prefix="，" suffix="，"/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix="，" suffix="，"/>
           <text variable="edition"/>
           <text variable="volume" prefix="第" suffix="卷"/>
           <text variable="publisher-place" prefix="，" suffix="："/>
@@ -468,7 +464,7 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en" suffix="." delimiter="; ">
+    <layout locale="en" suffix=".">
       <choose>
         <if type="book">
           <names variable="author" suffix=", ">
@@ -521,7 +517,7 @@
           <text variable="title" prefix="“" suffix=",” "/>
           <text variable="event" suffix=", "/>
           <text variable="event-place" suffix=", "/>
-          <date date-parts="year-month-date" form="text" variable="issued"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
           <group>
             <label variable="page" form="short" prefix=", "/>
             <text variable="page"/>
@@ -561,9 +557,9 @@
           </names>
           <text variable="title" prefix="“" suffix=",” "/>
           <text variable="container-title" font-style="italic" suffix=", "/>
-          <date date-parts="year-month-date" form="text" variable="issued"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
         </else-if>
-        <else-if type="post-blog webpage" match="any">
+        <else-if type="post webpage" match="any">
           <names variable="author" suffix=", ">
             <name and="text" et-al-min="4" et-al-use-first="1" sort-separator=""/>
           </names>
@@ -581,7 +577,7 @@
           <text macro="author"/>
           <text macro="editor"/>
           <text variable="title"/>
-          <date date-parts="year-month-date" form="text" variable="issued" prefix=", " suffix=", "/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix=", " suffix=", "/>
           <text macro="secondAuthor" prefix=", "/>
           <text variable="publisher-place" prefix=", " suffix=": "/>
           <text variable="publisher"/>
@@ -595,7 +591,7 @@
         </else>
       </choose>
     </layout>
-    <layout suffix="。" delimiter="；">
+    <layout suffix="。">
       <choose>
         <if position="ibid-with-locator">
           <group delimiter="，">
@@ -664,7 +660,7 @@
             </else>
           </choose>
         </else-if>
-        <else-if type="post-blog webpage" match="any">
+        <else-if type="post webpage" match="any">
           <text macro="author" suffix="："/>
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="container-title" suffix="，"/>
@@ -677,7 +673,7 @@
           <text variable="title" prefix="《" suffix="》，"/>
           <text variable="event" suffix="，"/>
           <text variable="event-place" suffix="，"/>
-          <date date-parts="year-month-date" form="text" variable="issued"/>
+          <date date-parts="year-month-day" form="text" variable="issued"/>
           <text macro="locators-zh"/>
           <text variable="locator" prefix="，第" suffix="页"/>
         </else-if>
@@ -725,7 +721,7 @@
           <text macro="editor" suffix="主编"/>
           <text variable="title" prefix="《" suffix="》"/>
           <text macro="secondAuthor"/>
-          <date date-parts="year-month-date" form="text" variable="issued" prefix="，" suffix="，"/>
+          <date date-parts="year-month-day" form="text" variable="issued" prefix="，" suffix="，"/>
           <text variable="edition"/>
           <text variable="volume" prefix="第" suffix="卷"/>
           <text variable="publisher-place" prefix="，" suffix="："/>

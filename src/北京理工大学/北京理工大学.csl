@@ -4,6 +4,8 @@
     <title>北京理工大学</title>
     <id>https://www.zotero-chinese.com/styles/北京理工大学</id>
     <link href="https://www.zotero-chinese.com/styles/北京理工大学" rel="self"/>
+    <link href="" rel="template"/>
+    <link href="" rel="documentation"/>
     <author>
       <name>jiayoudangdang</name>
       <email>jiayoudangdang@example.com</email>
@@ -46,8 +48,8 @@
     </terms>
   </locale>
   <macro name="author">
-    <names variable="author" et-al-min="4" et-al-use-first="3">
-      <name>
+    <names variable="author">
+      <name et-al-min="4" et-al-use-first="3">
         <name-part name="family"/>
         <name-part name="given"/>
       </name>
@@ -108,7 +110,7 @@
           </else>
         </choose>
         <choose>
-          <if variable="book chapter" match="any">
+          <if locator="book chapter" match="any">
             <text macro="book-volume"/>
           </if>
         </choose>

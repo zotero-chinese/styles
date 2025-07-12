@@ -103,9 +103,9 @@
     </terms>
   </locale>
   <locale>
-    <terrms>
+    <terms>
       <term name="page-range-delimiter">-</term>
-    </terrms>
+    </terms>
   </locale>
   <!-- For Indigeneous Knowledge, assume the item is stored as `document` or `speech`
        and that Nation/Community, treaty, where the Elder lives,
