@@ -10,10 +10,14 @@
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
+    <contributor>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>《西安理工大学研究生学位论文撰写规范》（2018-07-18）附录H-图书馆提供的《文后参考文献著录规则》</summary>
-    <updated>2025-04-19T23:05:38+08:00</updated>
+    <updated>2025-06-26T23:05:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -677,6 +681,8 @@
           <!-- 4.6 电子资源 -->
           <text macro="author-en"/>
           <text macro="title-en"/>
+          <!-- 网址，电子文献的出版或可获得地址 放在出版日期前面 20250626 -->
+          <text macro="access"/>
           <text macro="publisher-en"/>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
@@ -706,7 +712,8 @@
           <text macro="publisher-en"/>
         </else>
       </choose>
-      <text macro="access"/>
+      <!-- 网址，电子文献的出版或可获得地址 移动到出版日期前面 20250626 -->
+      <!-- <text macro="access"/> -->
     </group>
   </macro>
   <macro name="entry-layout-zh">

@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
@@ -31,7 +28,13 @@ jobs:
       - run: pnpm build
       # - run: pnpm format
 
-      - uses: autofix-ci/action@551dded8c6cc8a1054039c8bc0b8b48c51dfc6ef
+      - name: 提交变更项
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "src"
+          message: "Auto Build Preview"
+          author_name: GitHub Actions
+          author_email: github-actions[bot]@users.noreply.github.com
 
   send-dispatch:
     name: 请求部署上线

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with="" initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>西安交通大学</title>
-    <id>https://www.zotero-chinese.com/styles/西安交通大学</id>
-    <link href="https://www.zotero-chinese.com/styles/西安交通大学" rel="self"/>
+    <title>南京中医药大学</title>
+    <id>https://www.zotero-chinese.com/styles/南京中医药大学</id>
+    <link href="https://www.zotero-chinese.com/styles/南京中医药大学" rel="self"/>
     <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
-    <link href="https://gs.xjtu.edu.cn/info/1209/7605.htm" rel="documentation"/>
+    <link href="https://gra.njucm.edu.cn/2025/0307/c2939a152768/page.htm" rel="documentation"/>
     <author>
-      <name>pencilheart</name>
-      <email>495474804@qq.com</email>
+      <name>韩小土</name>
+      <email>redleafnew@163.com</email>
     </author>
+    <contributor>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
+    </contributor>
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。新增: 5.patent加入place; 6.中文“等”前取消逗号; 7.添加载体”[/CD]”等; 8:standard的title置后</summary>
-    <updated>2025-06-25T15:29:07+08:00</updated>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
+    <updated>2025-06-29T23:05:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -65,51 +65,23 @@
       </substitute>
     </names>
   </macro>
-  <!-- 中文主要责任者 -->
-  <macro name="author-zh">
-    <choose>
-      <if variable="author">
-        <names variable="author">
-          <name initialize="false" delimiter="，"/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro>
   <!-- 题名 -->
   <macro name="title">
-    <group delimiter=". ">
-      <choose>
-        <if type="standard">
-          <text variable="number"/>
-        </if>
-      </choose>
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="title"/>
-          <choose>
-            <if type="patent">
-              <text variable="event-place"/>
-            </if>
-          </choose>
-        </group>
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="title"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <text macro="volume"/>
+              <text variable="volume-title"/>
             </if>
           </choose>
           <choose>
-            <if type="patent" variable="call-number" match="all">
-              <!-- 专利优先使用申请号 -->
-              <text variable="call-number"/>
-            </if>
-            <else-if type="article article-journal standard" match="none">
+            <if type="article article-journal" match="none">
               <!-- 预印本和期刊文章的编号用于其他位置 -->
               <text variable="number"/>
-            </else-if>
+            </if>
           </choose>
           <choose>
             <if type="collection manuscript personal_communication" match="any">
@@ -119,55 +91,18 @@
           </choose>
         </group>
       </group>
+      <choose>
+        <if variable="container-title" type="paper-conference" match="none">
+          <choose>
+            <if variable="event-date">
+              <text variable="event-place"/>
+              <date variable="event-date" form="text"/>
+            </if>
+          </choose>
+        </if>
+      </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
-    </group>
-  </macro>
-  <!-- 中文期刊题名，用于显示文献类型[]前面的空格 -->
-  <macro name="title-zh">
-    <group delimiter=". ">
-      <choose>
-        <if type="standard">
-          <text variable="number"/>
-        </if>
-      </choose>
-      <group delimiter=", ">
-        <group delimiter=": ">
-          <text variable="title"/>
-          <choose>
-            <if type="patent">
-              <text variable="event-place"/>
-            </if>
-          </choose>
-        </group>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="patent" variable="call-number" match="all">
-              <!-- 专利优先使用申请号 -->
-              <text variable="call-number"/>
-            </if>
-            <else-if type="article article-journal standard" match="none">
-              <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
-            </else-if>
-          </choose>
-          <choose>
-            <if type="collection manuscript personal_communication" match="any">
-              <!-- 档案的卷宗号 -->
-              <text variable="archive_location"/>
-            </if>
-          </choose>
-        </group>
-      </group>
-    </group>
-    <group delimiter="/" prefix="［" suffix="］">
       <text macro="type-id"/>
       <text macro="medium-id"/>
     </group>
@@ -240,16 +175,16 @@
       </else>
     </choose>
   </macro>
+  <!-- 文献载体标识 -->
   <macro name="medium-id">
     <choose>
-      <!-- 仅纯电子资源extra中“medium: DK”显示载体：DK(disk),MT(magnetic tape), CD(CD-ROM), OL(online)。常规variable见https://docs.citationstyles.org/en/stable/specification.html#name-variable-terms网页 -->
-      <if type="dataset patent post post-weblog software webpage" match="any">
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
         <choose>
           <if variable="medium">
             <text variable="medium"/>
           </if>
           <else-if variable="URL">
-            <!-- 纯电子资源且无page则显示“OL” -->
             <text value="OL"/>
           </else-if>
         </choose>
@@ -314,38 +249,11 @@
         <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
-        <!-- 普通期刊 -->
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title" form="short" text-case="title" strip-periods="true"/>
-              <text macro="issued-year"/>
-              <text variable="volume"/>
-            </group>
-            <text variable="issue" prefix="(" suffix=")"/>
-          </group>
-          <text variable="page"/>
-        </group>
-      </else>
-    </choose>
-  </macro>
-  <!-- 连续出版物中的出处项，用于中文期刊的冒号 -->
-  <macro name="container-periodical-zh">
-    <choose>
-      <if type="article-newspaper">
-        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
-        <group delimiter="，">
-          <text variable="container-title"/>
-          <text macro="issued-date"/>
-        </group>
-        <text variable="page" prefix="(" suffix=")"/>
-      </if>
-      <else>
-        <!-- 普通期刊 -->
-        <group delimiter="：">
-          <group>
-            <group delimiter="，">
-              <text variable="container-title" form="short" text-case="title" strip-periods="true"/>
+              <text variable="container-title"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
@@ -384,7 +292,6 @@
       <if type="patent">
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
@@ -462,11 +369,11 @@
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
-      <if type="dataset patent post post-weblog software webpage" match="any">
-        <!-- 仅当专利或纯电子资源显示 URL 时才出现引用日期 -->
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
         <choose>
           <if variable="URL">
-            <date variable="accessed" form="numeric" prefix=" [" suffix="]"/>
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
           </if>
         </choose>
       </if>
@@ -475,14 +382,14 @@
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
     <choose>
-      <if type="dataset patent post post-weblog software webpage" match="any">
-        <!-- 仅专利或纯电子资源显示 URL -->
+      <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
       </if>
     </choose>
   </macro>
   <!-- 参考文献表格式 -->
-  <macro name="entry-layout-en">
+  <macro name="entry-layout">
     <group delimiter=". ">
       <text macro="author"/>
       <choose>
@@ -530,54 +437,6 @@
       <text macro="access"/>
     </group>
   </macro>
-  <macro name="entry-layout-zh">
-    <group delimiter="．">
-      <text macro="author-zh"/>
-      <choose>
-        <if type="periodical">
-          <!-- 4.3 连续出版物 -->
-          <text macro="title-zh"/>
-          <text macro="year-volume-issue"/>
-          <text macro="publisher"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <!-- 4.4 连续出版物中的析出文献 -->
-          <text macro="title-zh"/>
-          <text macro="container-periodical-zh"/>
-        </else-if>
-        <else-if type="patent">
-          <!-- 4.5 专利文献 -->
-          <text macro="title-zh"/>
-          <text macro="publisher"/>
-        </else-if>
-        <else-if type="dataset post post-weblog software webpage" match="any">
-          <!-- 4.6 电子资源 -->
-          <text macro="title-zh"/>
-          <text macro="publisher"/>
-        </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
-          <!-- 4.2 专著中的析出文献 -->
-          <group delimiter="//">
-            <group delimiter="．">
-              <text macro="title-zh"/>
-              <text macro="secondary-contributors"/>
-            </group>
-            <text macro="container-booklike"/>
-          </group>
-          <text macro="edition"/>
-          <text macro="publisher"/>
-        </else-if>
-        <else>
-          <!-- 4.1 专著 -->
-          <text macro="title-zh"/>
-          <text macro="secondary-contributors"/>
-          <text macro="edition"/>
-          <text macro="publisher"/>
-        </else>
-      </choose>
-      <text macro="access"/>
-    </group>
-  </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number"/>
@@ -587,15 +446,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <!-- zh格式 -->
-    <layout locale="zh-CN">
+    <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh" suffix="．"/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
-    <!-- en格式 -->
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en" suffix="."/>
+      <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
 </style>

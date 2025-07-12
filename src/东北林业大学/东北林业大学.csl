@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>东北林业大学</title>
     <id>https://www.zotero-chinese.com/styles/东北林业大学</id>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>northeast-forestry-university</summary>
-    <updated>2025-04-13T11:46:46+08:00</updated>
+    <updated>2025-05-29T19:49:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -67,7 +67,7 @@
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
-        <text variable="title"/>
+        <text variable="title" text-case="title"/>
         <group delimiter="&#8195;">
           <choose>
             <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
@@ -146,7 +146,7 @@
           <if variable="container-title">
             <!-- 优先使用专著或会议论文集的题名 -->
             <group delimiter=": ">
-              <text variable="container-title"/>
+              <text variable="container-title" text-case="title"/>
               <text macro="volume"/>
             </group>
           </if>
@@ -171,7 +171,7 @@
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
         <group delimiter=", ">
-          <text variable="container-title"/>
+          <text variable="container-title" text-case="title"/>
           <text macro="issued-date"/>
         </group>
         <text variable="page" prefix="(" suffix=")"/>
@@ -181,7 +181,7 @@
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
-              <text variable="container-title"/>
+              <text variable="container-title" text-case="title"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
@@ -515,13 +515,13 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <layout locale="en">
+    <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en" suffix="."/>
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh" suffix="."/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>
