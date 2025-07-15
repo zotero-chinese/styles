@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>西南交通大学研究生学位论文撰写范式（2024年8月修订）</summary>
-    <updated>2025-04-19T23:05:40+08:00</updated>
+    <updated>2025-07-15T23:05:40+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -407,16 +407,32 @@
           <text macro="publisher"/>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
-          <!-- 4.2 专著中的析出文献 -->
-          <group delimiter="//">
-            <group delimiter=". ">
-              <text macro="title"/>
-              <text macro="secondary-contributors"/>
-            </group>
-            <text macro="container-booklike"/>
-          </group>
-          <text macro="edition"/>
-          <text macro="publisher"/>
+          <choose>
+            <!-- 4.2 专著中的析出文献 非会议论文 -->
+            <if type="paper-conference" match="none">
+              <group delimiter="//">
+                <group delimiter=". ">
+                  <text macro="title"/>
+                  <text macro="secondary-contributors"/>
+                </group>
+                <text macro="container-booklike"/>
+              </group>
+              <text macro="edition"/>
+              <text macro="publisher"/>
+            </if>
+            <else-if>
+              <!-- 4.2 专著中的析出文献 会议论文 -->
+              <group delimiter=". ">
+                <group delimiter=". ">
+                  <text macro="title"/>
+                  <text macro="secondary-contributors"/>
+                </group>
+                <text macro="container-booklike"/>
+              </group>
+              <text macro="edition"/>
+              <text macro="publisher"/>
+            </else-if>
+          </choose>
         </else-if>
         <else>
           <!-- 4.1 专著 -->

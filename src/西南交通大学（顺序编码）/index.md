@@ -20,10 +20,10 @@
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
@@ -120,7 +120,7 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.</div>
@@ -237,7 +237,7 @@
     <div class="csl-left-margin">[60]</div><div class="csl-right-inline">王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">王临惠. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">王临惠. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]. 曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 1975, 22: 311.</div>
@@ -246,7 +246,7 @@
     <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia, 1975, 8(4): 339-360.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">张忠智. 科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">张忠智. 科技书刊的总编（主编）的角色要求[C]. 中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.</div>
@@ -255,7 +255,7 @@
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38-39.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]. 中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
@@ -372,7 +372,7 @@
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研究进展与安全管理[C]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京: 中国标准出版社, 1988: 59-92.</div>
@@ -387,7 +387,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
@@ -510,13 +510,13 @@
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Auerbach J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Bornstein M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley, 1993: 43-110.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Lichstein K L, Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden, 1990.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Lichstein K L, Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]. Reducing medication in geriatric populations. Uppsala, Sweden, 1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree C B, Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA, 1991.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree C B, Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]. Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA, 1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Ruby J, Fulton C. Beyond redlining: Editing software that works[C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Ruby J, Fulton C. Beyond redlining: Editing software that works[C]. Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC, 1993.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author, 1991.</div>
@@ -672,7 +672,7 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会. 天津, 2000.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 全球化与亚太区域化国际研讨会. 天津, 2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">傅良佐致国务院电: 北洋档案 1011—5961[A]. 中国第二历史档案馆, 1917.</div>

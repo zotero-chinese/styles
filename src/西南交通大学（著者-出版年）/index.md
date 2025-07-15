@@ -20,13 +20,13 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
+  <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
   <div class="csl-entry">库恩. 2012. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
   <div class="csl-entry">武丽丽, 华一新, 张亚军, 等. 2008. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 33(5): 8-9.</div>
   <div class="csl-entry">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展状况统计报告[R].</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Fan X, Sommers C H. 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
 </div>
 
@@ -85,7 +85,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P]. 2001-10-24.</div>
   <div class="csl-entry">侯文顺. 2010. 高分子物理：高分子材料分析、选择与改性[M]. 北京: 化学工业出版社: 119.</div>
   <div class="csl-entry">胡承正, 周详, 缪灵. 2010. 理论物理概论: 上[M]. 武汉: 武汉大学出版社: 112.</div>
-  <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
+  <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社: 45-52.</div>
   <div class="csl-entry">蒋有绪, 郭泉水, 马娟, 等. 1998. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社.</div>
   <div class="csl-entry">库恩. 2012. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社.</div>
   <div class="csl-entry">雷光春. 2012. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社.</div>
@@ -104,7 +104,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">美国妇产科医师学会. 2010. 新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社: 38-39.</div>
   <div class="csl-entry">尼葛洛庞帝. 1996. 数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社.</div>
   <div class="csl-entry">牛志明, 斯温兰德, 雷光春. 2012. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社.</div>
-  <div class="csl-entry">裴丽生. 1981. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部: 2-10.</div>
+  <div class="csl-entry">裴丽生. 1981. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]. 中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部: 2-10.</div>
   <div class="csl-entry">皮锡瑞. 2009. 师伏堂日记: 第 4 册[M]. 北京: 国家图书馆: 155.</div>
   <div class="csl-entry">全国广播电视标准化技术委员会. 2007. 广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院: 1.</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 2010a. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社: 2-3.</div>
@@ -113,9 +113,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室. 2011. 汶川地震灾害研究[M]. 上海: 同济大学出版社: 5-6.</div>
   <div class="csl-entry">汪昂. 1881. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂.</div>
   <div class="csl-entry">汪冰. 1997. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社: 16.</div>
-  <div class="csl-entry">汪学军. 2002. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
+  <div class="csl-entry">汪学军. 2002. 中国农业转基因生物研究进展与安全管理[C]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
   <div class="csl-entry">王夫之. 1865. 宋论[M]. 刻本. 金陵: 湘乡曾国荃.</div>
-  <div class="csl-entry">王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
+  <div class="csl-entry">王临惠. 2010. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]. 曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆: 138.</div>
   <div class="csl-entry">王临惠, 支建刚, 王忠一. 2010. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 37(4): 147.</div>
   <div class="csl-entry">吴云芳. 2003. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学.</div>
   <div class="csl-entry">武丽丽, 华一新, 张亚军, 等. 2008. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 33(5): 8-9.</div>
@@ -138,7 +138,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">张伯伟. 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社: 288.</div>
   <div class="csl-entry">张凯军. 2012. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.</div>
   <div class="csl-entry">张田勘. 2000. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).</div>
-  <div class="csl-entry">张忠智. 1997. 科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会: 33-34.</div>
+  <div class="csl-entry">张忠智. 1997. 科技书刊的总编（主编）的角色要求[C]. 中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会: 33-34.</div>
   <div class="csl-entry">赵学功. 2001. 当代美国外交[M]. 北京: 社会科学文献出版社.</div>
   <div class="csl-entry">中国第一历史档案馆, 辽宁省档案馆. 2001. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社.</div>
   <div class="csl-entry">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展状况统计报告[R].</div>
@@ -167,7 +167,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Deverell W, Igler D. 2013. A companion to California history[M]. New York: John Wiley &#38; Sons: 21-22.</div>
   <div class="csl-entry">Dowler L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 21(1/2): 5-26.</div>
   <div class="csl-entry">Fan X, Sommers C H. 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, et al. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 8: 1053-1062.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2(1): 378-398.</div>
   <div class="csl-entry">Hopkinson A. 2009. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -225,13 +225,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Gibbs J T, Huang L N. 1989. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology.</div>
   <div class="csl-entry">Klatzky R. 1998. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag: 1-17.</div>
-  <div class="csl-entry">Lanktree C B, Briere J N. 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA.</div>
+  <div class="csl-entry">Lanktree C B, Briere J N. 1991. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]. Paper presented at the meeting of the American Professional Society on the Abuse of Children. San Diego, CA.</div>
   <div class="csl-entry">Laplace P S. 1951. A philosophical essay on probabilities[M]. Truscott F W, Emory F L, trans. Dover.</div>
-  <div class="csl-entry">Lichstein K L, Johnson R S. 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden.</div>
+  <div class="csl-entry">Lichstein K L, Johnson R S. 1990. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]. Reducing medication in geriatric populations. Uppsala, Sweden.</div>
   <div class="csl-entry">Mitchell T R, Larson J R. 1987. People in organizations: An introduction to organizational behavior[M]. 3rd ed. New York: McGraw-Hill.</div>
   <div class="csl-entry">Mou W, McNamara T P. 2002. Intrinsic frames of reference in spatial memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28: 162-170.</div>
   <div class="csl-entry">Mou W, Zhang K, McNamara T P. 2004. Frames of reference in spatial memories acquired from language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30: 171-180.</div>
-  <div class="csl-entry">Ruby J, Fulton C. 1993. Beyond redlining: Editing software that works[C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
+  <div class="csl-entry">Ruby J, Fulton C. 1993. Beyond redlining: Editing software that works[C]. Poster session presented at the annual meeting of the Society for Scholarly Publishing. Washington, DC.</div>
   <div class="csl-entry">Sadie S. 1980. The new Grove dictionary of music and musicians[M]. 6th ed. London : New York: Macmillan.</div>
   <div class="csl-entry">Wang D F, Cui H. 2004. Theoretical analysis of the seven factor model of Chinese personality[M]//Wang D F, Hou Y B. Selected papers on personality and social psychology: Vol. 1. Beijing: Peking University Press: 46-84.</div>
   <div class="csl-entry">Wolchik S A, West S G, Sandler I N, et al. 2000. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 68(5): 843-856.</div>
@@ -261,7 +261,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">鲁迅. 1981. 中国小说的历史的变迁[M]//鲁迅全集: 第9册. 北京: 人民文学出版社.</div>
   <div class="csl-entry">毛祥麟. 1985. 墨余录[M]. 上海: 上海古籍出版社.</div>
   <div class="csl-entry">倪素香. 2002. 德育学科的比较研究与理论探索[J]. 武汉大学学报(4): 512-513.</div>
-  <div class="csl-entry">任东来. 2000. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会. 天津.</div>
+  <div class="csl-entry">任东来. 2000. 对国际体制和国际制度的理解和翻译[C]. 全球化与亚太区域化国际研讨会. 天津.</div>
   <div class="csl-entry">任继愈. 1983. 中国哲学发展史（先秦卷）[M]. 北京: 人民出版社.</div>
   <div class="csl-entry">伤心人（麦孟华）. 说奴隶[N]. 清议报(第1页).</div>
   <div class="csl-entry">实藤惠秀. 1982. 中国人留学日本史[M]. 谭汝谦, 林启彦, 译. 香港: 香港中文大学出版社.</div>
