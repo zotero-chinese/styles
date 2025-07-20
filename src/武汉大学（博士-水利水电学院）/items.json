@@ -1,0 +1,296 @@
+[
+	{
+		"id": "WHU-SWRH:01",
+		"type": "article-journal",
+		"abstract": "现代水文监测技术的迅猛发展产生了海量的水雨情数据,为深度学习理论助力水文水资源领域的研究和生产实践带来了机遇与挑战。从水文模拟、水资源管理、水环境评价3个方面开展文献调研,综述了水文水资源领域的深度学习研究进展。归纳了深度学习方法的优势及应用难点:无需构建物理模型并可深度挖掘数据特征,在物理机制不明晰的问题中具有显著优势;但在应用时存在模型训练数据缺乏、超参数确定具有主观性、可解释性不足、与物理规律不符及泛化能力不足等难点问题。展望了可通过有机结合深度学习与水文物理机制模型,以融合经典水文规律,并开展迁移学习、强化学习以及对抗学习等应用研究,以更好地在水文资源领域探索运用深度学习方法。",
+		"container-title": "人民长江",
+		"DOI": "10.16232/j.cnki.1001-4179.2021.10.012",
+		"ISSN": "1001-4179",
+		"issue": "10",
+		"journalAbbreviation": "人民长江",
+		"language": "zh",
+		"note": "23 citations(CNKI)[2024-9-9]<>",
+		"page": "76-83",
+		"source": "CNKI",
+		"title": "水文水资源领域深度学习研究进展综述",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=-4s28oSk478cHLfw1KqxS30SrFTtHohDa302x0n0x8WVGhwTS4D9bQZ7gCnfDjBpZ77UW_vdNc17vfclO2ejQtxv8QNCxyPcggoPTidzI3E_WkIMSxuDuI_mu90A3b4P&uniplatform=NZKPT&language=gb",
+		"volume": "52",
+		"author": [
+			{
+				"literal": "刘攀"
+			},
+			{
+				"literal": "郑雅莲"
+			},
+			{
+				"literal": "谢康"
+			},
+			{
+				"literal": "韩东阳"
+			},
+			{
+				"literal": "程潜"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "WHU-SWRH:02",
+		"type": "article-journal",
+		"abstract": "变化环境下的水库适应性调度是国际水库调度领域的前沿课题。针对\"水库适应性调度\",在实时调度方面需重点研究变化环境下的水文预报技术,提高预报精度;在规划和调度规则方面需构建全新的调度规则再编制技术,涉及水文频率分析、非一致性条件下评价指标体系以及水库调度规则的自适应跟踪控制等。为此,从水文时变预报预测、调度指标的动态评价、调度规则的跟踪控制以及柔性调度规则等4个方面提出研究思路与方法,为水库适应性调度理论和方法提供参考。",
+		"container-title": "人民长江",
+		"DOI": "10.16232/j.cnki.1001-4179.2019.02.001",
+		"ISSN": "1001-4179",
+		"issue": "2",
+		"journalAbbreviation": "人民长江",
+		"language": "zh",
+		"page": "1-5, 12",
+		"source": "CNKI",
+		"title": "水库适应性调度初探",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=-4s28oSk478d_riCPGCCrvwrvB33sRk6C04AhUmND0RlZBHPDIRcxColbLzeJIuZ_qXJiVp3KqzmRJzHuC8eyFdira0Ov5XnLwfQK_CM69eEJ7R6Kq_oy2_EwPsuX2awcn3BJiYk32uCcTbp_Mciwg==&uniplatform=NZKPT&language=CHS",
+		"volume": "50",
+		"author": [
+			{
+				"literal": "刘攀"
+			},
+			{
+				"literal": "张晓琦"
+			},
+			{
+				"literal": "邓超"
+			},
+			{
+				"literal": "冯茂源"
+			},
+			{
+				"literal": "高仕达"
+			},
+			{
+				"literal": "张玮"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "hWHU-SWRH:03",
+		"type": "article-journal",
+		"abstract": "针对确定性水库优化调度问题,引入近似最短路径方法,寻求优化调度的近似最优解,从而证实\"异轨同效\"现象存在的可能性。借鉴流域水文模型的\"异参同效\"研究成果,视隐随机调度问题中的调度规则参数为具有概率分布特征的参数,视调度目标函数为似然函数,采用贝叶斯方法估计最优调度轨迹的区间分布,开展水库调度的最优调度轨迹的等效性研究。实例分析结果表明:进行水库优化调度的\"异轨同效\"研究,可以估计最优调度轨迹区间,从而将传统调度的单点决策转变为区间决策,更符合调度操作实际情况。",
+		"container-title": "水利水电科技进展",
+		"ISSN": "1006-7647",
+		"issue": "2",
+		"journalAbbreviation": "水利水电科技进展",
+		"language": "zh",
+		"page": "5-8, 82",
+		"source": "CNKI",
+		"title": "水库优化调度中的异轨同效问题",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=-4s28oSk47_nYsrRWK5XAERo7CMmV2UXU1A6xmrghl2cLIpkfBzeN5YA1qfzpwk4XXsEMALYipJ0eXmMq8qaWIRwPGnkLEXR2nLS3o8eQDoMbV8YY2QkwxCou-URUTkpv0OvndMiif8=&uniplatform=NZKPT&language=CHS",
+		"volume": "33",
+		"author": [
+			{
+				"literal": "刘攀"
+			},
+			{
+				"literal": "赵静飞"
+			},
+			{
+				"literal": "李立平"
+			},
+			{
+				"literal": "沈艳"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "WHU-SWRH:04",
+		"type": "book",
+		"abstract": "本书针对大规模水风光互补系统的功率预报、调度运行及容量配置问题，系统介绍流域水风光多能互补调度的理论和方法。从实时、短期、中长期及全生命周期等多时间尺度，提出适用于水风光互补系统的成套技术和解决方案。主要内容包括：水风光互补系统功率联合预报；水风光互补系统短期经济运行；水风光互补系统中长期联合优化调度；基于能源互补性的指标及最优风光配置；气候变化下的水风光多能互补调度。\n    本书可供水利、电力、地理、气象、环保、国土资源等领域内的广大科技工作者、工程技术人员参考阅读，也可作为高等院校高年级本科生和研究生的教学参考书。",
+		"ISBN": "978-7-03-075959-7",
+		"language": "zh",
+		"note": "CLC: TV697.1\nprice: ￥ 218.00",
+		"publisher": "中国科技出版传媒股份有限公司",
+		"source": "国家出版发行信息公共服务平台",
+		"title": "流域水风光多能互补调度",
+		"URL": "https://book.cppinfo.cn/Encyclopedias/home/index?id=4591176",
+		"author": [
+			{
+				"literal": "刘攀"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					7,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "WHU-SWRH:05",
+		"type": "article-journal",
+		"container-title": "Journal of Hydrology",
+		"DOI": "10.1016/j.jhydrol.2024.132321",
+		"ISSN": "00221694",
+		"journalAbbreviation": "Journal of Hydrology",
+		"language": "en",
+		"page": "132321",
+		"source": "DOI.org (Crossref)",
+		"title": "An integrated design combining the layout, volume, and active control of detention ponds for urban drainage systems",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169424017177",
+		"volume": "647",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Yang"
+			},
+			{
+				"family": "Wang",
+				"given": "Hao"
+			},
+			{
+				"family": "Liu",
+				"given": "Pan"
+			},
+			{
+				"family": "Liu",
+				"given": "Weibo"
+			},
+			{
+				"family": "Luo",
+				"given": "Xinran"
+			},
+			{
+				"family": "Liao",
+				"given": "Weihong"
+			},
+			{
+				"family": "Xu",
+				"given": "Huan"
+			},
+			{
+				"family": "Zhou",
+				"given": "Chutian"
+			},
+			{
+				"family": "Kang",
+				"given": "Aiqing"
+			},
+			{
+				"family": "Wang",
+				"given": "Dianchang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "WHU-SWRH:06",
+		"type": "article-journal",
+		"abstract": "Even deterministic reservoir operation problems with a single objective function may have multiple near‐optimal solutions (MNOS) whose objective values are equal or sufficiently close to the optimum. MNOS is valuable for practical reservoir operation decisions because having a set of alternatives from which to choose allows reservoir operators to explore multiple options whereas the traditional algorithm that produces a single optimum does not offer them this flexibility. This paper presents three methods: the near‐shortest paths (NSP) method, the genetic algorithm (GA) method, and the Markov chain Monte Carlo (MCMC) method, to explore the MNOS. These methods, all of which require a long computation time, find MNOS using different approaches. To reduce the computation time, a narrower subspace, namely a near‐optimal space (NOSP, described by the maximum and minimum bounds of MNOS) is derived. By confining the MNOS search within the NOSP, the computation time of the three methods is reduced. The proposed methods are validated with a test function before they are examined with case studies of both a single reservoir (the Three Gorges Reservoir in China) and a multireservoir system (the Qing River Cascade Reservoirs in China). It is found that MNOS exists for the deterministic reservoir operation problems. When comparing the three methods, the NSP method is unsuitable for large‐scale problems but provides a benchmark to which solutions of small‐ and medium‐scale problems can be compared. The GA method can produce some MNOS but is not very efficient in terms of the computation time. Finally, the MCMC method performs best in terms of goodness‐of‐fit to the benchmark and computation time, since it yields a wide variety of MNOS based on all retained intermediate results as potential MNOS. Two case studies demonstrate that the MNOS identified in this study are useful for real‐world reservoir operation, such as the identification of important operation time periods and tradeoffs among objectives in multipurpose reservoirs.\n          , \n            Key Points\n            \n              \n                \n                  MNOS within a given value less than the optimal objective do exist\n                \n                \n                  MNOS are useful for solving real‐world reservoir operation problems\n                \n                \n                  The NSP, GA and MCMC methods, are able to explore MNOS",
+		"container-title": "Water Resources Research",
+		"DOI": "10.1029/2011WR010998",
+		"ISSN": "0043-1397, 1944-7973",
+		"issue": "8",
+		"journalAbbreviation": "Water Resources Research",
+		"language": "en",
+		"license": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+		"note": "TLDR: Three methods are presented: the near-shortest paths method, the genetic algorithm method, and the Markov chain Monte Carlo method, to explore the MNOS, which is found that MNOS exists for the deterministic reservoir operation problems.",
+		"page": "2011WR010998",
+		"source": "DOI.org (Crossref)",
+		"title": "Deriving multiple near‐optimal solutions to deterministic reservoir operation problems",
+		"URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011WR010998",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Pan"
+			},
+			{
+				"family": "Cai",
+				"given": "Ximing"
+			},
+			{
+				"family": "Guo",
+				"given": "Shenglian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					4,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					8
+				]
+			]
+		}
+	}
+]
