@@ -1,0 +1,29 @@
+{
+  "dir": "分析化学",
+  "file": "分析化学.csl",
+  "style_class": "in-text",
+  "title": "分析化学",
+  "id": "https://www.zotero-chinese.com/styles/分析化学",
+  "link_self": "https://www.zotero-chinese.com/styles/分析化学",
+  "link_template": "https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码, 双语, 姓名不大写, 无URL、DOI）",
+  "link_documentation": "https://fxhx.cbpt.cnki.net/WKE2/WebPublication/index.aspx?mid=fxhx",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "science",
+  "summary": "1.不显示标题。2.期刊缩写。3.英文翻译换行。4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。英文换行)。",
+  "updated": "2025-07-25T23:05:40+08:00",
+  "citations": "<sup>[1-8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-4 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">[1]\t库恩. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.\n    <div class=\"csl-block\">2012</div>\n  </div>\n  <div class=\"csl-entry\">[2]\tFAN X, SOMMERS C H. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>\n  <div class=\"csl-entry\">[3]\t贾东琴, 柯平. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.\n    <div class=\"csl-block\">中国图书馆学会. 2011: 45-52</div>\n  </div>\n  <div class=\"csl-entry\">[4]\tFOURNEY M E. Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>\n  <div class=\"csl-entry\">[5]\t武丽丽, 华一新, 张亚军, 刘英敏. 测绘科学, 2008, 33(5): 8-9.\n    <div class=\"csl-block\">2008, 33(5): 8-9</div>\n  </div>\n  <div class=\"csl-entry\">[6]\tMYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J. Nature, 2014, 510: 356-362.</div>\n  <div class=\"csl-entry\">[7]\t中国互联网络信息中心. 2012.\n    <div class=\"csl-block\">2012</div>\n  </div>\n  <div class=\"csl-entry\">[8]\tBAWDEN D. (2008-05-04)[2013-03-08]. <a href=\"http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf\">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>\n</div>",
+  "tags": [
+    "姓名大写",
+    "无标题",
+    "期刊缩写",
+    "无URL",
+    "无DOI"
+  ]
+}
