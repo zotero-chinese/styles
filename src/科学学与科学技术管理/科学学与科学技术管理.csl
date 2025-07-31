@@ -673,13 +673,13 @@
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>
     </sort>
-    <layout prefix="(" suffix=")" delimiter="; " locale="en">
+    <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>
         <text macro="issued-year"/>
       </group>
     </layout>
-    <layout prefix="(" suffix=")" delimiter="; ">
+    <layout prefix="（" suffix="）" delimiter="; ">
       <group delimiter=", ">
         <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
