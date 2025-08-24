@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
-    <updated>2025-07-27T17:39:32+08:00</updated>
+    <updated>2025-08-24T17:39:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -45,8 +45,9 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name initialize="false">
-            <name-part name="family" text-case="title"/>
+          <name initialize="true">
+            <name-part name="family" text-case="uppercase"/>
+            <name-part name="given" text-case="uppercase"/>
           </name>
         </names>
       </if>
@@ -61,7 +62,7 @@
       <if variable="original-author">
         <names variable="original-author">
           <name et-al-min="4" et-al-use-first="3" initialize="false" sort-separator=",  ">
-            <name-part name="family" text-case="title"/>
+            <name-part name="family" text-case="uppercase"/>
           </name>
           <et-al term="zh-et-al"/>
         </names>
@@ -343,7 +344,7 @@
       </else>
     </choose>
     <text macro="accessed-date"/>
-    <text value="(in Chinese with English abstract)" prefix=". "/>
+    <text value="(in Chinese)" prefix=". "/>
   </macro>
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
