@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>首都医科大学研究生学位论文（2023-04-26）</summary>
-    <updated>2025-01-08T17:10:42+08:00</updated>
+    <updated>2025-08-31T17:20:42+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -181,7 +181,7 @@
       </group>
     </group>
   </macro>
-  <!-- 连续出版物中的出处项 -->
+  <!-- 连续出版物中的出处项 英文-->
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
@@ -194,7 +194,34 @@
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
-        <group delimiter=": ">
+        <group delimiter=":">
+          <group>
+            <group delimiter=", ">
+              <text variable="container-title" form="short" strip-periods="true"/>
+              <text macro="issued-year"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!-- 连续出版物中的出处项 中文-->
+  <macro name="container-periodical-zh">
+    <choose>
+      <if type="article-newspaper">
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
+        <group delimiter=", ">
+          <text variable="container-title"/>
+          <text macro="issued-date"/>
+        </group>
+        <text variable="page" prefix="(" suffix=")"/>
+      </if>
+      <else>
+        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
+        <group delimiter="：">
           <group>
             <group delimiter=", ">
               <text variable="container-title" form="short" strip-periods="true"/>
@@ -246,7 +273,7 @@
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
-        <group delimiter=": ">
+        <group delimiter=". ">
           <group delimiter=", ">
             <group delimiter=": ">
               <choose>
@@ -261,9 +288,17 @@
                 </else>
               </choose>
             </group>
-            <text macro="issued-year"/>
+            <choose>
+              <!-- 如果是标准，显示日期 -->
+              <if type="standard">
+                <text macro="issued-date"/>
+              </if>
+              <else-if>
+                <text macro="issued-year"/>
+              </else-if>
+            </choose>
           </group>
-          <text variable="page"/>
+          <text variable="page" prefix=""/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -351,7 +386,7 @@
       </if>
     </choose>
   </macro>
-  <!-- 参考文献表格式 -->
+  <!-- 参考文献表格式 英文-->
   <macro name="entry-layout">
     <group delimiter=". ">
       <text macro="author"/>
@@ -366,6 +401,51 @@
           <!-- 4.4 连续出版物中的析出文献 -->
           <text macro="title"/>
           <text macro="container-periodical"/>
+        </else-if>
+        <else-if type="patent">
+          <!-- 4.5 专利文献 -->
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
+          <text macro="title"/>
+          <text macro="secondary-contributors"/>
+          <text macro="container-booklike"/>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else>
+          <!-- 4.1 专著 -->
+          <text macro="title"/>
+          <text macro="secondary-contributors"/>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </group>
+  </macro>
+  <!-- 参考文献表格式 中文文-->
+  <macro name="entry-layout-zh">
+    <group delimiter=". ">
+      <text macro="author"/>
+      <choose>
+        <if type="periodical">
+          <!-- 4.3 连续出版物 -->
+          <text macro="title"/>
+          <text macro="year-volume-issue"/>
+          <text macro="publisher"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
+          <text macro="title"/>
+          <text macro="container-periodical-zh"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
@@ -411,7 +491,7 @@
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout" suffix="."/>
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
   </bibliography>
 </style>
