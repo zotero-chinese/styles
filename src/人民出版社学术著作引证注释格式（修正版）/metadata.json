@@ -1,0 +1,33 @@
+{
+  "dir": "人民出版社学术著作引证注释格式（修正版）",
+  "file": "人民出版社学术著作引证注释格式（修正版） .csl",
+  "style_class": "note",
+  "title": "人民出版社学术著作引证注释格式（修正版）",
+  "id": "http://www.zotero.org/styles/人民出版社学术著作引证注释格式",
+  "link_self": "http://www.zotero.org/styles/人民出版社学术著作引证注释格式",
+  "link_template": "https://www.zotero-chinese.com/styles/人民出版社",
+  "link_documentation": "http://www.pph166.com/",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Hongzuan Lyu"
+    }
+  ],
+  "citation_format": "note",
+  "field": "generic-base",
+  "summary": "最后一名英文作者用连接、英文的主编、翻译标签使用括号、引注有页码，参考文献没有页码，标注中文翻译译著的原作者国籍，析出文献前加入in",
+  "updated": "2025-09-08T15:30:31+08:00",
+  "citations": "<sup>1</sup> [无] 库恩：《科学革命的结构：第 4 版》第2版，金吾伦、胡新和译，北京大学出版社2012年版。<br>\n<sup>2</sup> Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>\n<sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>\n<sup>4</sup> M. E. Fourney, “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.<br>\n<sup>5</sup> 武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>\n<sup>6</sup> Alexander A. Myburg et al., “The Genome of Eucalyptus Grandis”, in <i>Nature</i>, Vol. 510 (June 2014), pp.356-362.<br>\n<sup>7</sup> Alexander A. Myburg et al., “The Genome of Eucalyptus Grandis”, in <i>Nature</i>, Vol. 510 (June 2014), pp.356-362.<br>\n<sup>8</sup> Alexander A. Myburg et al., “The Genome of Eucalyptus Grandis”, in <i>Nature</i>, Vol. 510 (June 2014), p.357.<br>\n<sup>9</sup> Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp.326-329.<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">[无] 库恩：《科学革命的结构：第 4 版》第2版，金吾伦、胡新和译，北京大学出版社2012年版。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Xuetong Fan &#38; Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">M. E. Fourney, “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Alexander A. Myburg et al., “The Genome of Eucalyptus Grandis”, in <i>Nature</i>, Vol. 510, (June 2014).</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
