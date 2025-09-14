@@ -14,7 +14,7 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社，2012．</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2版．北京：北京大学出版社，2012．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26].</div>
@@ -285,7 +285,7 @@
     <div class="csl-left-margin">[76]</div><div class="csl-right-inline">罗斯基．战前中国经济的增长[M]．唐巧天，毛立坤，姜修宪，译．杭州：浙江大学出版社，2009．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社，2012．</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2版．北京：北京大学出版社，2012．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[78]</div><div class="csl-right-inline">侯文顺．高分子物理：高分子材料分析、选择与改性[M]．北京：化学工业出版社，2010：119．</div>
@@ -714,7 +714,7 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">王名扬．美国行政法[M]．北京大学出版社，2007．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">张新宝．侵权责任法[M]．4 版．中国人民大学出版社，2016．</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">张新宝．侵权责任法[M]．4版．中国人民大学出版社，2016．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">高鸿钧，程汉大．英美法原论[M]．北京大学出版社，2013．</div>
@@ -783,10 +783,10 @@
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华，胡旭晟，刘鄂，等．近代中国宪政历程[M]．中国政法大学出版社，2004．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平．精简机构是一场革命[G]//邓小平文选：卷 2．2 版．人民出版社，1994．</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平．精简机构是一场革命[G]//邓小平文选：卷 2．2版．人民出版社，1994．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特．奥本海国际法：上卷第一分册[M]．王铁崖，陈体强，译．8 版．商务印书馆，1971．</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特．奥本海国际法：上卷第一分册[M]．王铁崖，陈体强，译．8版．商务印书馆，1971．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">瞿同祖．中国法律与中国社会[M]．商务印书馆，2010．</div>
@@ -867,7 +867,7 @@
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">McDonell S. When China began streaming trials online[EB/OL]. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Chevallier M．L’État de droit[M]．4 版．Paris：Montchrestien，2003．</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Chevallier M．L’État de droit[M]．4版．Paris：Montchrestien，2003．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Poisson M．Le droit de la mer[J]．RGDIP，2015：15-47．</div>
@@ -900,16 +900,16 @@
     <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Fischer T．Absurdes Spektakel um den Tod[N]．Die Zeit，2015-09-29．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Roxin C．Strafrecht Allgemeiner Teil：卷 1[M]．4 版．C. H. Beck，2006．</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Roxin C．Strafrecht Allgemeiner Teil：卷 1[M]．4版．C. H. Beck，2006．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">Dreier R，Paulson S．Rechtsphilosophie Studienausgabe[M]．2 版．Heidelberg：UTB Uni-Taschenbücher Verlag，2003．</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">Dreier R，Paulson S．Rechtsphilosophie Studienausgabe[M]．2版．Heidelberg：UTB Uni-Taschenbücher Verlag，2003．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Schwab M．[G]//Münchener Kommentar BGB：卷 5．6 版．2013．</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Schwab M．[G]//Münchener Kommentar BGB：卷 5．6版．2013．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Kaufmann A．Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[G]//Baumann J．Das Abtreibungsverbot des § 218 StGB．2 版．1972．</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Kaufmann A．Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[G]//Baumann J．Das Abtreibungsverbot des § 218 StGB．2版．1972．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C W．Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[G]．1990．</div>

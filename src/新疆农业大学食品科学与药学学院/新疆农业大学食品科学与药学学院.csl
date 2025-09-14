@@ -422,10 +422,24 @@
     <text variable="edition" prefix="(" suffix=")"/>
   </macro>
   <!-- 版本项 -->
-  <macro name="edition">
+  <macro name="edition-en">
     <choose>
       <if is-numeric="edition">
         <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <label variable="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="edition-zh">
+    <choose>
+      <if is-numeric="edition">
+        <!-- 删除中文“版”的空格 -->
+        <group delimiter="">
           <number variable="edition" form="ordinal"/>
           <label variable="edition" form="short"/>
         </group>
@@ -653,14 +667,14 @@
             </group>
             <text macro="container-booklike-en"/>
           </group>
-          <text macro="edition"/>
+          <text macro="edition-en"/>
           <text macro="publisher-en"/>
         </else-if>
         <else>
           <!-- 4.1 专著 -->
           <text macro="title-en"/>
           <text macro="secondary-contributors-en"/>
-          <text macro="edition"/>
+          <text macro="edition-en"/>
           <text macro="publisher-en"/>
         </else>
       </choose>
@@ -701,14 +715,14 @@
             </group>
             <text macro="container-booklike-zh"/>
           </group>
-          <text macro="edition"/>
+          <text macro="edition-zh"/>
           <text macro="publisher-zh"/>
         </else-if>
         <else>
           <!-- 4.1 专著 -->
           <text macro="title-zh"/>
           <text macro="secondary-contributors-zh"/>
-          <text macro="edition"/>
+          <text macro="edition-zh"/>
           <text macro="publisher-zh"/>
         </else>
       </choose>
