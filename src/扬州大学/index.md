@@ -429,10 +429,10 @@
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">刘裕国, 杨柳, 张洋等. 雾霾来袭，如何突围？2013-01-12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">萧钰. 出版业信息化迈入快车道(2001-12-19)[2002/04/15].</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">萧钰. 出版业信息化迈入快车道(2001-12-19)[2002-04-15].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">李强. 化解医患矛盾需釜底抽薪(2012-05-03)[2013/03/25].</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">李强. 化解医患矛盾需釜底抽薪(2012-05-03)[2013-03-25].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[03/24/2013].</div>
@@ -681,10 +681,10 @@
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. 党外人士座谈会记录1950.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展(1998-08-16)[1998/10/04].</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展(1998-08-16)[1998-10-04].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水. 两宋茶诗与茶事[2007/09/13].</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水. 两宋茶诗与茶事[2007-09-13].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">P Brooks. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
@@ -735,16 +735,16 @@
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">何海波. 判决书上网2000-05-21(2).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查(2004-01-10)[2022/05/03].</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查(2004-01-10)[2022-05-03].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">佚名. 被告人李宁、张磊贪污案一审开庭.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵耀彤. 一名基层法官眼里好律师的样子(2018-12-01)[2022/05/03].</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵耀彤. 一名基层法官眼里好律师的样子(2018-12-01)[2022-05-03].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">佚名. 法国行政法院网站[2016/12/18].</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">佚名. 法国行政法院网站[2016-12-18].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究中国政法大学, 2015.</div>
@@ -888,7 +888,7 @@
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Poisson M. Le droit de la mer appliqué à la Méditerranéel’Université de Marseille, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[2010/03/17].</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[2010-03-17].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">Vogel B. Rechtsgüterschutz und Normgeltung[J]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629-649.</div>
@@ -933,7 +933,7 @@
     <div class="csl-left-margin">[74]</div><div class="csl-right-inline">佚名. 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Meidenbauer M. Wissenschaftliches Publizieren[2017/10/10].</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Meidenbauer M. Wissenschaftliches Publizieren[2017-10-10].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[76]</div><div class="csl-right-inline">我妻栄. 新訂担保物権法有斐閣, 1971.</div>
@@ -960,7 +960,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">佚名. 平成26年版犯罪白書.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名. ジュリスト[2022/09/01].</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名. ジュリスト[2022-09-01].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">欧中坦. 千方百计上京城：清朝的京控[M]//美国学者论中国法律传统中国政法大学出版社, 1994.</div>

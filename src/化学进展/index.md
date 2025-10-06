@@ -690,7 +690,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Brooks P. <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>. Chicago: University of Chicago Press, <b>2000</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. <i>The Travels of Marco Polo</i>. Tran.: Marsden W. Hertfordshire: Cumberland House, <b>1997</b>.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. <i>The Travels of Marco Polo</i>. Trans.: Marsden W. Hertfordshire: Cumberland House, <b>1997</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B. <i>Mod. China</i>, <b>1993</b>, 19(2): 199-215.</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. White House tutors Kremlin in how a presidency works. <i>New York Times</i>, <b>1990-06-15</b>(A1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Tran.: Rehg W. MIT Press, <b>1996</b>.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Trans.: Rehg W. MIT Press, <b>1996</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress. Eds.: Bergsten C F, Gill B, Lardy N R, Mitchell D. <i>China: The Balance Sheet</i>. Public Affairs Press, <b>2006</b>.</div>
@@ -1086,7 +1086,7 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Piaget J, Inhelder B. <i>The Psychology of the Child</i>. Quadrige, <b>1966</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J, Inhelder B. <i>The Psychology of the Child</i>. Tran.: Weaver H. 2nd ed. Basic Books, <b>1969</b>.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J, Inhelder B. <i>The Psychology of the Child</i>. Trans.: Weaver H. 2nd ed. Basic Books, <b>1969</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. <i>The Interpretation of Dreams: The Complete and Definitive Text</i>. Ed.: Strachey J. Basic Books, <b>2010</b>.</div>
@@ -1125,13 +1125,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline"><i>King James Bible</i>. King James Bible Online, <b>2017</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline"><i>The Qur’an</i>. Tran.: Abdel Haleem M A S. Oxford University Press, <b>2004</b>.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline"><i>The Qur’an</i>. Trans.: Abdel Haleem M A S. Oxford University Press, <b>2004</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline"><i>The Torah: The Five Books of Moses</i>. 3rd ed. The Jewish Publication Society, <b>2015</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. <i>Poetics</i>. Tran.: Butcher S H. The Internet Classics Archive, <b>1994</b>.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. <i>Poetics</i>. Trans.: Butcher S H. The Internet Classics Archive, <b>1994</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Shakespeare W. <i>Much Ado about Nothing</i>. Eds.: Mowat B A, Werstine P. Washington Square Press, <b>1995</b>.</div>

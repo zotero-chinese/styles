@@ -1055,7 +1055,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Anonymous. Burriola v. Greater Toledo YMCA[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002–2008.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002/2008.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Anonymous. The Qur’an[M]. Oxford University Press, 2004.</div>
@@ -1247,7 +1247,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Blackwell D L, Lucas J W, Clarke T C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012[R]. Centers for Disease Control and Prevention. 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development. 2015–2020.</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development. 2015/2020.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Boddy J, Neumann T, Jennings S, et al. Ethics principles[EB/OL].</div>

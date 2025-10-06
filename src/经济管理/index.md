@@ -129,7 +129,7 @@
   <div class="csl-entry">[87] 佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社, 2011[2013-10-14].</div>
   <div class="csl-entry">[88] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, A K Nagar, K Deep, et al., eds.. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89] 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. [2014-06-11].</div>
-  <div class="csl-entry">[90] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X–2006BAK04A10/10.2013[R]. [2014-06-24].</div>
+  <div class="csl-entry">[90] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X～2006BAK04A10/10.2013[R]. [2014-06-24].</div>
   <div class="csl-entry">[91] Calkin D., A. Ager, and M. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. .</div>
   <div class="csl-entry">[92] U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[93] World Health Organization. Factors Regulating the Immune Response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>
@@ -263,7 +263,7 @@
   <div class="csl-entry">[42] 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB](1998-08-16)[1998-10-04].</div>
   <div class="csl-entry">[43] 扬之水. 两宋茶诗与茶事[EB][2007-09-13].</div>
   <div class="csl-entry">[44] Brooks P. Troubling Confessions: Speaking Guilt in Law and Literature[M]. Chicago: University of Chicago Press, 2000.</div>
-  <div class="csl-entry">[45] Polo M. The Travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[45] Polo M. The Travels of Marco Polo[M]. Marsden W, trans.. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46] Chamberlain H. B. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2): 199–215.</div>
   <div class="csl-entry">[47] Schfield R. S. The Impact of Scarcity and Plenty on Population Change in England[M]. Rotberg R I, T K Rabb, eds.//Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society. 1983: 55–88Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
   <div class="csl-entry">[48] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
@@ -319,7 +319,7 @@
   <div class="csl-entry">[41] 佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[Z](2017-12-16).</div>
   <div class="csl-entry">[42] Barbara Ward. Progress for a Small Planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89[2022-07-26].</div>
   <div class="csl-entry">[43] Rosenthal A. White House Tutors Kremlin in How a Presidency Works[N]. New York Times, 1990: A1[2022-07-26].</div>
-  <div class="csl-entry">[44] Habermas J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy[M]. Rehg W, tran.. MIT Press, 1996.</div>
+  <div class="csl-entry">[44] Habermas J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy[M]. Rehg W, trans.. MIT Press, 1996.</div>
   <div class="csl-entry">[45] Horsley J. Rule of Law in China: Incremental Progress[M]. Bergsten C F, B Gill, N R Lardy, et al., eds.//China: The Balance Sheet. 2006Public Affairs Press, 2006.</div>
   <div class="csl-entry">[46] Anonymous. Department of Transportation Act: 89-670[S]//Stat. 1966, 80: 931, 944–947.</div>
   <div class="csl-entry">[47] Anonymous. Administrative Procedure Act § 6[S]//U.S.C. 2006, 5.</div>
@@ -407,8 +407,8 @@
   <div class="csl-entry">[34] Anonymous. Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents[M]. Pridham K F, R Limbo, M Schroeder, eds.. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">[35] Amano N. and H. Kondo. Lexical Characteristics of Japanese Language[M]. Sansei-do, 2000.</div>
   <div class="csl-entry">[36] Piaget J. and B. Inhelder. The Psychology of the Child[M]. Quadrige, 1966.</div>
-  <div class="csl-entry">[37] Piaget J. and B. Inhelder. The Psychology of the Child[M]. Weaver H, tran.. 2 edition. Basic Books, 1969.</div>
-  <div class="csl-entry">[38] Freud S. The Interpretation of Dreams: The Complete and Definitive Text[M]. Strachey J, ed. &#38; tran.. Basic Books, 2010.</div>
+  <div class="csl-entry">[37] Piaget J. and B. Inhelder. The Psychology of the Child[M]. Weaver H, trans.. 2 edition. Basic Books, 1969.</div>
+  <div class="csl-entry">[38] Freud S. The Interpretation of Dreams: The Complete and Definitive Text[M]. Strachey J, ed. &#38; trans.. Basic Books, 2010.</div>
   <div class="csl-entry">[39] Rowling J. K. Harry Potter and the Sorceror’s Stone[M]. Pottermore Publishing, 2015.</div>
   <div class="csl-entry">[40] Fiske S. T., D. T. Gilbert, and G. Lindzey. Handbook of Social Psychology[M]. 5 edition. John Wiley &#38; Sons, 2010.</div>
   <div class="csl-entry">[41] Anonymous. APA Handbook of the Psychology of Women[M]. Travis C B, J W White, eds.. American Psychological Association, 2018.</div>
@@ -420,15 +420,15 @@
   <div class="csl-entry">[47] Anonymous. The Stanford Encyclopedia of Philosophy[M]. Zalta E N, ed.. Summer 2019 ed. edition. Stanford University, 2019.</div>
   <div class="csl-entry">[48] Anonymous. The Complete Social Scientist: A Kurt Lewin Reader[M]. Gold M, ed.. American Psychological Association, 1999.</div>
   <div class="csl-entry">[49] Anonymous. King James Bible[M]. King James Bible Online, 2017.</div>
-  <div class="csl-entry">[50] Anonymous. The Qur’an[M]. Abdel Haleem M A S, tran.. Oxford University Press, 2004.</div>
+  <div class="csl-entry">[50] Anonymous. The Qur’an[M]. Abdel Haleem M A S, trans.. Oxford University Press, 2004.</div>
   <div class="csl-entry">[51] Anonymous. The Torah: The Five Books of Moses[M]. 3 edition. The Jewish Publication Society, 2015.</div>
-  <div class="csl-entry">[52] Aristotle. Poetics[M]. Butcher S H, tran.. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">[52] Aristotle. Poetics[M]. Butcher S H, trans.. The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">[53] Shakespeare W. Much Ado about Nothing[M]. Mowat B A, P Werstine, eds.. Washington Square Press, 1995.</div>
   <div class="csl-entry">[54] Balsam K. F., C. R. Martell, K. P. Jones, et al. Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People[M]. Iwamasa G Y, P A Hays, eds.//Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision. 2019: 287–3142 edition. American Psychological Association, 2019: 287–314.</div>
   <div class="csl-entry">[55] Weinstock R., G. B. Leong, and J. A. Silva. Defining Forensic Psychiatry: Roles and Responsibilities[M]. Rosner R, ed.//Principles and Practise of Forensic Psychiatry. 2003: 7–132 edition. CRC Press, 2003: 7–13.</div>
   <div class="csl-entry">[56] Tafoya N. and A. Del Vecchio. Back to the Future: An Examination of the Native American Holocaust Experience[M]. McGoldrick M, J Giordano, N Garcia-Preto, eds.//Ethnicity and Family Therapy. 2005: 55–633 edition. Guilford Press, 2005: 55–63.</div>
   <div class="csl-entry">[57] Carcavilla González N. Auditory Sensory Therapy: Brain Activation through Music[M]. Garcia Meilán J J, ed.//Guía Práctica de Terapias Estimulativas En El Alzhéimer. 2015: 67–86Editorial Síntesis, 2015: 67–86.</div>
-  <div class="csl-entry">[58] Heidegger M. On the Essence of Truth[M]. Krell D F, ed. Sallis J, tran.//Basic Writings. 2008: 111–138Harper Perennial Modern Thought, 2008: 111–138.</div>
+  <div class="csl-entry">[58] Heidegger M. On the Essence of Truth[M]. Krell D F, ed. Sallis J, trans.//Basic Writings. 2008: 111–138Harper Perennial Modern Thought, 2008: 111–138.</div>
   <div class="csl-entry">[59] Sacchett C. and G. W. Humphreys. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[M]. Balota D A, E J Marsh, eds.//Cognitive Psychology: Key Readings in Cognition. 2004: 100–108Psychology Press, 2004: 100–108.</div>
   <div class="csl-entry">[60] Sacchett C. and G. W. Humphreys. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73–86.</div>
   <div class="csl-entry">[61] Bronfenbrenner U. The Social Ecology of Human Development: A Retrospective Conclusion[M]. Bronfenbrenner U, ed.//Making Human Beings Human: Bioecological Perspectives on Human Development. 2005: 27–40SAGE Publications, 2005: 27–40.</div>
@@ -450,7 +450,7 @@
   <div class="csl-entry">[77] American Counseling Association. 2014 ACA Code of Ethics[R]. .</div>
   <div class="csl-entry">[78] American Nurses Association. Code of Ethics for Nurses with Interpretive Statements[R]. .</div>
   <div class="csl-entry">[79] American Psychological Association. Ethical Principles of Psychologists and Code of Conduct[R]. .</div>
-  <div class="csl-entry">[80] Blair C. B. Stress, Self-Regulation and Psychopathology in Middle Childhood: 5R01HD081252–04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020.</div>
+  <div class="csl-entry">[80] Blair C. B. Stress, Self-Regulation and Psychopathology in Middle Childhood: 5R01HD081252–04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
   <div class="csl-entry">[81] Lichtenstein J. Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82] Harwell M. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change[R]. National Education Policy Center, 2018.</div>
   <div class="csl-entry">[83] U.S. Food and Drug Administration. FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices[R]. U.S. Food and Drug Administration, 2019.</div>
@@ -491,7 +491,7 @@
   <div class="csl-entry">[118] Anonymous. Accelerated Experiental Dynamic Psychotherapy (AEDP) Supervision[Z]. American Pychological Association, 2017.</div>
   <div class="csl-entry">[119] Anonymous. The Lord of the Rings: The Fellowship of the Ring[Z]. WingNut Films; The Saul Zaentz Company, 2001.</div>
   <div class="csl-entry">[120] Anonymous. Goodbye Children[Z]. Nouvelles Éditions de Films, 1987.</div>
-  <div class="csl-entry">[121] Anonymous. The Wire[Z]. Blown Deadline Productions; HBO, 2002–2008.</div>
+  <div class="csl-entry">[121] Anonymous. The Wire[Z]. Blown Deadline Productions; HBO, 2002/2008.</div>
   <div class="csl-entry">[122] Anonymous. Lemons: Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
   <div class="csl-entry">[123] Anonymous. Who Shot Mr. Burns? (Part One): Season 6, Episode 25[Z]. Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21).</div>
   <div class="csl-entry">[124] Anonymous. Why You Should Make Useless Things[Z]. TED Conferences, 2018.</div>

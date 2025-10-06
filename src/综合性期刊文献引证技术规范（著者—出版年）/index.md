@@ -672,7 +672,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英，1990，《论近代西北人口波动的若干主要原因》，《社会科学》（兰州）第6期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">谢兴尧compiler，1986，《荣庆日记》，西安：西北大学出版社。</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">谢兴尧编撰，1986，《荣庆日记》，西安：西北大学出版社。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">扬之水，《两宋茶诗与茶事》，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>
@@ -1089,7 +1089,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Blackwell, D. L., J. W. Lucas &#38; T. C. Clarke, 2014, <i>Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012</i>, Report, Centers for Disease Control and Prevention.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Blair, C. B., 2015–2020, <i>Stress, Self-Regulation and Psychopathology in Middle Childhood</i>, Grant, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Blair, C. B., 2015/2020, <i>Stress, Self-Regulation and Psychopathology in Middle Childhood</i>, Grant, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">Boddy, J., T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees &#38; W. Gibson, <i>Ethics Principles</i>, The research ethics guidebook: A resource for social scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
@@ -1161,7 +1161,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">De Vries, R., M. Nieuwenhuijze, S. E. Buitendijk, &#38; the members of Midwifery Science Work Group, 2013, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, vol. 29, no. 10, pp. 1122-1128.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Delacroix, E., 1826–1827, <i>Faust Attempts to Seduce Marguerite</i>.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Delacroix, E., 1826/1827, <i>Faust Attempts to Seduce Marguerite</i>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">D’Souza, A. &#38; M. Wiseheart, 2018, <i>Cognitive Effects of Music and Dance Training in Children</i>.</div>
@@ -1509,7 +1509,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[163]</div><div class="csl-right-inline">2001b, “Burriola v. Greater Toledo YMCA,” in <i>F.Supp.2d</i>, p. 1034.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[164]</div><div class="csl-right-inline">2002–2008, <i>The Wire</i>, Blown Deadline Productions; HBO.</div>
+    <div class="csl-left-margin">[164]</div><div class="csl-right-inline">2002/2008, <i>The Wire</i>, Blown Deadline Productions; HBO.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[165]</div><div class="csl-right-inline">2004, <i>The Qur’an</i>, trans. by M. A. S. Abdel Haleem, Oxford University Press.</div>

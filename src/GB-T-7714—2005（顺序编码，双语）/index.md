@@ -690,7 +690,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">BROOKS P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">POLO M. The travels of Marco Polo[M]. MARSDEN W, tran. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">POLO M. The travels of Marco Polo[M]. MARSDEN W, trans. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">CHAMBERLAIN H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">ROSENTHAL A. White House tutors Kremlin in how a presidency works[N/OL]. New York Times, 1990-06-15(A1)[2022-07-26]. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">HABERMAS J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. REHG W, tran. MIT Press, 1996.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">HABERMAS J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. REHG W, trans. MIT Press, 1996.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">HORSLEY J. Rule of law in China: incremental progress[M]//BERGSTEN C F, GILL B, LARDY N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
@@ -1086,10 +1086,10 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">PIAGET J, INHELDER B. The psychology of the child[M]. Quadrige, 1966.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">PIAGET J, INHELDER B. The psychology of the child[M]. WEAVER H, tran. 2nd ed. Basic Books, 1969.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">PIAGET J, INHELDER B. The psychology of the child[M]. WEAVER H, trans. 2nd ed. Basic Books, 1969.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">FREUD S. The interpretation of dreams: The complete and definitive text[M]. STRACHEY J, tran. Basic Books, 2010.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">FREUD S. The interpretation of dreams: The complete and definitive text[M]. STRACHEY J, trans. Basic Books, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">ROWLING J K. Harry Potter and the sorceror’s stone[M/OL]. Pottermore Publishing, 2015. <a href="http://bit.ly/2TcHchx">http://bit.ly/2TcHchx</a>.</div>
@@ -1125,13 +1125,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">King James Bible[M/OL]. King James Bible Online, 2017. <a href="https://www.kingjamesbibleonline.org/">https://www.kingjamesbibleonline.org/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an[M]. ABDEL HALEEM M A S, tran. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an[M]. ABDEL HALEEM M A S, trans. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">The Torah: The five books of Moses[M]. 3rd ed. The Jewish Publication Society, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">ARISTOTLE. Poetics[M/OL]. BUTCHER S H, tran. The Internet Classics Archive, 1994. <a href="http://classics.mit.edu/Aristotle/poetics.html">http://classics.mit.edu/Aristotle/poetics.html</a>.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">ARISTOTLE. Poetics[M/OL]. BUTCHER S H, trans. The Internet Classics Archive, 1994. <a href="http://classics.mit.edu/Aristotle/poetics.html">http://classics.mit.edu/Aristotle/poetics.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">SHAKESPEARE W. Much ado about nothing[M]. Washington Square Press, 1995.</div>
@@ -1149,7 +1149,7 @@
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">CARCAVILLA GONZÁLEZ N. Auditory sensory therapy: Brain activation through music[M/OL]//GARCIA MEILÁN J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86. <a href="http://www.sintesis.com/guias-profesionales-203/guia-practica-de-terapias-estimulativas-en-el-alzheimer-libro-1943.html">http://www.sintesis.com/guias-profesionales-203/guia-practica-de-terapias-estimulativas-en-el-alzheimer-libro-1943.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">HEIDEGGER M. On the essence of truth[M]. SALLIS J, tran.//KRELL D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">HEIDEGGER M. On the essence of truth[M]. SALLIS J, trans.//KRELL D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">SACCHETT C, HUMPHREYS G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//BALOTA D A, MARSH E J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>

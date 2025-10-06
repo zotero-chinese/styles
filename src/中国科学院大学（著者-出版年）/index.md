@@ -300,7 +300,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">赵景深. 文坛忆旧[M]. 上海: 北新书局, 1948.</div>
   <div class="csl-entry">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
-  <div class="csl-entry">Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">Polo M. The travels of Marco Polo[M]. Marsden W, trans. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
 </div>
 
@@ -380,7 +380,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Chevallier M. L’État de droit[M]. 4 版. Paris: Montchrestien, 2003.</div>
   <div class="csl-entry">Dreier R, Paulson S. Rechtsphilosophie Studienausgabe[M]. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
   <div class="csl-entry">Fischer T. Absurdes Spektakel um den Tod[N]. Die Zeit, 2015-09-29.</div>
-  <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran. MIT Press, 1996.</div>
+  <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans. MIT Press, 1996.</div>
   <div class="csl-entry">Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[EB/OL]. [2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   <div class="csl-entry">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Baumann J. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.</div>
@@ -418,7 +418,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anon. Texas v. Morales[A]//S.W.2d: Vol. 826. 1992: 201.</div>
   <div class="csl-entry">Anon. Burriola v. Greater Toledo YMCA[A]//F.Supp.2d: Vol. 133. 2001: 1034.</div>
   <div class="csl-entry">Anon. The wire[Z]. Blown Deadline Productions; HBO, 2002/2008.</div>
-  <div class="csl-entry">Anon. The Qur’an[M]. Abdel Haleem M A S, tran. Oxford University Press, 2004.</div>
+  <div class="csl-entry">Anon. The Qur’an[M]. Abdel Haleem M A S, trans. Oxford University Press, 2004.</div>
   <div class="csl-entry">Anon. Lilly Leadbetter Fair Play Act of 2009: 111-2[A]//Stat.: Vol. 123. 2009a: 5.</div>
   <div class="csl-entry">Anon. Florida Mental Health Act[A]//Fla. Stat. 2009b.</div>
   <div class="csl-entry">Anon. Protection of human subjects[A]//C.F.R.: Vol. 45. 2009c.</div>
@@ -453,7 +453,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anderson M. Getting consistent with consequences[J]. Educational Leadership, 2018, 76(1): 26-33.</div>
   <div class="csl-entry">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB/OL]. (2018-06-29). <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">APA Style [@APA_Style]. Tweets[EB/OL]. [2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
-  <div class="csl-entry">Aristotle. Poetics[M]. Butcher S H, tran. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">Aristotle. Poetics[M]. Butcher S H, trans. The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening trans-Tasman economic relations[R]. 2012.</div>
   <div class="csl-entry">Author A. How workout buddies can help stave off loneliness[N]. The Washington Post, 2019-01-15.</div>
   <div class="csl-entry">Avramova N. The secret to a long, happy, health life? Think age-positive[EB/OL]. (2019-01-03). <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
@@ -500,7 +500,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z]. Milwaukee, WI, United States, 2017.</div>
   <div class="csl-entry">Fogarty M. How to diagram a sentence (absolute basics)[Z]. YouTube, 2016.</div>
   <div class="csl-entry">Forman M. One flew over the cuckoo’s nest[Z]. United Artists, 1975.</div>
-  <div class="csl-entry">Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, tran. Basic Books, 2010.</div>
+  <div class="csl-entry">Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, trans. Basic Books, 2010.</div>
   <div class="csl-entry">Fried D, Polyakova A. Democratic defense against disinformation[R]. Atlantic Council, 2018.</div>
   <div class="csl-entry">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][EB/OL]. (2018-03-22). <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.</div>
   <div class="csl-entry">GDJ. Neural network deep learning prismatic[Z]. Openclipart, 2018.</div>
@@ -516,7 +516,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Hacker Hughes J. Military veteran psychological health and social care: Contemporary approaches[M]. Routledge, 2017.</div>
   <div class="csl-entry">Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>
   <div class="csl-entry">Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center, 2018.</div>
-  <div class="csl-entry">Heidegger M. On the essence of truth[M]. Sallis J, tran.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+  <div class="csl-entry">Heidegger M. On the essence of truth[M]. Sallis J, trans.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   <div class="csl-entry">Hess A. Cats who take direction[N]. The New York Times, 2019-01-03(C1).</div>
   <div class="csl-entry">Hiremath S C, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains: 9,367,592[P]. 2016.</div>
   <div class="csl-entry">Ho H K. Teacher preparation for early childhood special education in Taiwan[A]. ERIC, 2014.</div>
@@ -564,7 +564,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Pew Research Center. American trends panel Wave 26[DS/OL]. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">Piaget J. Intellectual evolution from adolescence to adulthood[J]. Human Development, 1972, 15(1): 1-12.</div>
   <div class="csl-entry">Piaget J, Inhelder B. The psychology of the child[M]. Quadrige, 1966.</div>
-  <div class="csl-entry">Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, tran. 2nd ed. Basic Books, 1969.</div>
+  <div class="csl-entry">Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, trans. 2nd ed. Basic Books, 1969.</div>
   <div class="csl-entry">Pridham K F, Limbo R, Schroeder M. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents[M]. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">Project Implicit. Gender-Science IAT[Z].</div>
   <div class="csl-entry">Richardson F. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973: 113-123.</div>

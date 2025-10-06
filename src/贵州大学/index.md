@@ -248,7 +248,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">55.</div><div class="csl-right-inline">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008b, 52(6): 6-21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">56.</div><div class="csl-right-inline">李强. 化解医患矛盾需釜底抽薪(2012-05-03)[2013/03/25].</div>
+    <div class="csl-left-margin">56.</div><div class="csl-right-inline">李强. 化解医患矛盾需釜底抽薪(2012-05-03)[2013-03-25].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">57.</div><div class="csl-right-inline">杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.</div>
@@ -332,7 +332,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">83.</div><div class="csl-right-inline">程根伟. 1998 年长江洪水的成因与减灾对策[M]//长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">84.</div><div class="csl-right-inline">萧钰. 出版业信息化迈入快车道(2001-12-19)[2002/04/15].</div>
+    <div class="csl-left-margin">84.</div><div class="csl-right-inline">萧钰. 出版业信息化迈入快车道(2001-12-19)[2002-04-15].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">85.</div><div class="csl-right-inline">楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]//汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
@@ -590,7 +590,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">2.</div><div class="csl-right-inline">毛祥麟. 墨余录. 上海: 上海古籍出版社.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展(1998-08-16)[1998/10/04].</div>
+    <div class="csl-left-margin">3.</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展(1998-08-16)[1998-10-04].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">4.</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]//天津: , 2000.</div>
@@ -599,7 +599,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">5.</div><div class="csl-right-inline">伤心人（麦孟华）. 说奴隶日期不详(第1页).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6.</div><div class="csl-right-inline">扬之水. 两宋茶诗与茶事[2007/09/13].</div>
+    <div class="csl-left-margin">6.</div><div class="csl-right-inline">扬之水. 两宋茶诗与茶事[2007-09-13].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">7.</div><div class="csl-right-inline">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167-173.</div>
@@ -818,7 +818,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">27.</div><div class="csl-right-inline">佚名. 被告人李宁、张磊贪污案一审开庭.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">28.</div><div class="csl-right-inline">佚名. 法国行政法院网站[2016b/12/18].</div>
+    <div class="csl-left-margin">28.</div><div class="csl-right-inline">佚名. 法国行政法院网站[2016b-12-18].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">29.</div><div class="csl-right-inline">佚名. 民法总则. , 日期不详.</div>
@@ -848,7 +848,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">37.</div><div class="csl-right-inline">佚名. 平成26年版犯罪白書.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">38.</div><div class="csl-right-inline">佚名. ジュリスト[2022k/09/01].</div>
+    <div class="csl-left-margin">38.</div><div class="csl-right-inline">佚名. ジュリスト[2022k-09-01].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">39.</div><div class="csl-right-inline">佚名. 温家宝主持国务院会议 研究房地产业健康发展措施.</div>
@@ -866,7 +866,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">43.</div><div class="csl-right-inline">李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究中国政法大学, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">44.</div><div class="csl-right-inline">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查(2004-01-10)[2022/05/03].</div>
+    <div class="csl-left-margin">44.</div><div class="csl-right-inline">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查(2004-01-10)[2022-05-03].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">45.</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知(2007a-07-11).</div>
@@ -902,7 +902,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">55.</div><div class="csl-right-inline">[英]劳特派特. 奥本海国际法商务印书馆, 1971.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">56.</div><div class="csl-right-inline">赵耀彤. 一名基层法官眼里好律师的样子(2018-12-01)[2022/05/03].</div>
+    <div class="csl-left-margin">56.</div><div class="csl-right-inline">赵耀彤. 一名基层法官眼里好律师的样子(2018-12-01)[2022-05-03].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">57.</div><div class="csl-right-inline">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗. 近代中国宪政历程中国政法大学出版社, 2004.</div>
@@ -950,7 +950,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">71.</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress[M]//China: The balance sheetPublic Affairs Press, 2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">72.</div><div class="csl-right-inline">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[2010/03/17].</div>
+    <div class="csl-left-margin">72.</div><div class="csl-right-inline">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[2010-03-17].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">73.</div><div class="csl-right-inline">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Das Abtreibungsverbot des § 218 StGB, 1972.</div>
@@ -959,7 +959,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">74.</div><div class="csl-right-inline">McDonell S. When China began streaming trials online(2016-09-30)[07/26/2022].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">75.</div><div class="csl-right-inline">Meidenbauer M. Wissenschaftliches Publizieren[2017/10/10].</div>
+    <div class="csl-left-margin">75.</div><div class="csl-right-inline">Meidenbauer M. Wissenschaftliches Publizieren[2017-10-10].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">76.</div><div class="csl-right-inline">Poisson M. Le droit de la mer[J]. RGDIP, 2015a: 15-47.</div>
@@ -1247,7 +1247,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">81.</div><div class="csl-right-inline">Blackwell D L, Lucas J W, Clarke T C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012Centers for Disease Control and Prevention, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">82.</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhoodEunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020.</div>
+    <div class="csl-left-margin">82.</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhoodEunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">83.</div><div class="csl-right-inline">Boddy J, Neumann T, Jennings S, Morrow V, Alderson P, Rees R, Gibson W. Ethics principles.</div>

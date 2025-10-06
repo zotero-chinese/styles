@@ -397,7 +397,7 @@ Qian et al. (2009a)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Abdel Haleem, M. A. S., tran., 2004: <i>The Qur’an</i>. Oxford University Press,.</div>
+  <div class="csl-entry">Abdel Haleem, M. A. S., trans., 2004: <i>The Qur’an</i>. Oxford University Press,.</div>
   <div class="csl-entry">Ahmann, E., L. J. Tuttle, M. Saviet, and S. D. Wright, 2018: A descriptive review of ADHD coaching research: Implications for college students. <i>J. Postsecond. Educ. Disabil.</i>, <b>31</b>, 17–39.</div>
   <div class="csl-entry">Alonso-Tapia, J., C. Nieto, E. Merino-Tejedor, J. A. Huertas, and M. Ruiz, 2018: Situated Goals Questionnaire for University Students (SGQ-U, CMS-U). <a href="https://doi.org/10.1037/t66267-000">https://doi.org/10.1037/t66267-000</a>.</div>
   <div class="csl-entry">Amano, N., and H. Kondo, 2000: <i>Lexical characteristics of Japanese language</i>. Sansei-do,.</div>

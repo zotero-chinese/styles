@@ -690,7 +690,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">BROOKS P. Troubling Confessions: Speaking Guilt in Law and Literature[M]. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">POLO M. The Travels of Marco Polo[M]. Marsden, W., tran. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">POLO M. The Travels of Marco Polo[M]. Marsden, W., trans. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">CHAMBERLAIN H B. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2):199-215.</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">ROSENTHAL A. White House Tutors Kremlin in How a Presidency Works[J]. New York Times, 1990-06-15(A1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">HABERMAS J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy[M]. Rehg, W., tran. MIT Press, 1996.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">HABERMAS J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy[M]. Rehg, W., trans. MIT Press, 1996.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">HORSLEY J. Rule of Law in China: Incremental Progress[A]. Bergsten, C. F., B. Gill, N. R. Lardy, et al. China: The Balance Sheet[C]. Public Affairs Press, 2006.</div>
@@ -1086,10 +1086,10 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">PIAGET J, INHELDER B. The Psychology of the Child[M]. Quadrige, 1966.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">PIAGET J, INHELDER B. The Psychology of the Child[M]. Weaver, H., tran. Basic Books, 1969.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">PIAGET J, INHELDER B. The Psychology of the Child[M]. Weaver, H., trans. Basic Books, 1969.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">FREUD S. The Interpretation of Dreams: The Complete and Definitive Text[M]. Strachey, J., tran. Basic Books, 2010.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">FREUD S. The Interpretation of Dreams: The Complete and Definitive Text[M]. Strachey, J., trans. Basic Books, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">ROWLING J K. Harry Potter and the Sorceror’s Stone[M]. Pottermore Publishing, 2015.</div>
@@ -1125,13 +1125,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anon. King James Bible[M]. King James Bible Online, 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Anon. The Qur’an[M]. Abdel Haleem, M. A. S., tran. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Anon. The Qur’an[M]. Abdel Haleem, M. A. S., trans. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Anon. The Torah: The Five Books of Moses[M]. The Jewish Publication Society, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">ARISTOTLE. Poetics[M]. Butcher, S. H., tran. The Internet Classics Archive, 1994.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">ARISTOTLE. Poetics[M]. Butcher, S. H., trans. The Internet Classics Archive, 1994.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">SHAKESPEARE W. Much Ado about Nothing[M]. Washington Square Press, 1995.</div>

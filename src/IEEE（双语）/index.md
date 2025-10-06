@@ -14,10 +14,10 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩, <i>科学革命的结构：第 4 版</i>, 2 本. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩, <i>科学革命的结构：第 4 版</i>, 2 版. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: Jun. 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: June 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴和柯平, “面向数字素养的高校图书馆数字服务体系研究”, 收入 中国图书馆学会年会论文集, 北京, 2011, 卷 2011 年卷, 页 45–52.</div>
@@ -29,7 +29,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军和刘英敏, “‘北斗一号’监控管理网设计与实现”, 测绘科学, 卷 33, 期 5, 页 8–9, 2008, doi: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis”, <i>Nature</i>, vol. 510, pp. 356–362, Jun. 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis”, <i>Nature</i>, vol. 510, pp. 356–362, June 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心, “第 29 次中国互联网络发展状况统计报告”, 1月 2012. 见于: 3月 26, 2013. [在线]. 载于: <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
@@ -105,7 +105,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">P. Baldock, <i>Developing early childhood services: Past, present and future</i>. Rotterdam: Open University Press, 2011, p. 105. Accessed: Nov. 27, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: Jun. 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: June 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">王夫之, 编, “周易外传：卷 5”, 收入 船山全书, 卷 第 6 册, 长沙: 岳麓书社, 2011, 页 1109.</div>
@@ -132,7 +132,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">中华医学会湖北分会, “临床内科杂志”, 卷 1, 期 1. 中华医学会湖北分会, 武汉, 1984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">中国图书馆学会, “图书馆学通讯”, 期 1–4. 北京图书馆, 北京, 1957.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">中国图书馆学会, “图书馆学通讯”, 期 1～4. 北京图书馆, 北京, 1957.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">American Association for the Advancement of Science, “Science”, vol. 1, no. 1. American Association for the Advancement of Science, Washington, D.C., 1883.</div>
@@ -162,7 +162,7 @@
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">K. S. Frese, H. A. Katus, and B. Meder, “Next-generation sequencing: from understanding biology to personalized medicine”, <i>Biology</i>, vol. 2, no. 1, pp. 378–398, 2013, doi: <a href="https://doi.org/10.3390/biology2010378">10.3390/biology2010378</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis”, <i>Nature</i>, vol. 510, pp. 356–362, Jun. 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis”, <i>Nature</i>, vol. 510, pp. 356–362, June 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">邓一刚, “全智能节电器”, 200610171314.3, 12月 13, 2006</div>
@@ -171,7 +171,7 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">西安电子科技大学, “光折变自适应光外差探测方法”, 01128777.2, 3月 06, 2002 见于: 5月 28, 2002. [在线]. 载于: <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">R. Tachibana, S. Shimizu, S. Kobayashi, and T. Nakamura, “Electronic watermarking method and system”, US6915001, Jul. 05, 2005 Accessed: Nov. 11, 2013. [Online]. Available: <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a></div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">R. Tachibana, S. Shimizu, S. Kobayashi, and T. Nakamura, “Electronic watermarking method and system”, US6915001, July 05, 2005 Accessed: Nov. 11, 2013. [Online]. Available: <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">中国互联网络信息中心, “第 29 次中国互联网络发展状况统计报告”, 1月 2012. 见于: 3月 26, 2013. [在线]. 载于: <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
@@ -285,7 +285,7 @@
     <div class="csl-left-margin">[76]</div><div class="csl-right-inline">罗斯基, 战前中国经济的增长. 杭州: 浙江大学出版社, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩, <i>科学革命的结构：第 4 版</i>, 2 本. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩, <i>科学革命的结构：第 4 版</i>, 2 版. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[78]</div><div class="csl-right-inline">侯文顺, 高分子物理：高分子材料分析、选择与改性. 北京: 化学工业出版社, 2010, 页 119. 见于: 11月 27, 2012. [在线]. 载于: <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228</a></div>
@@ -300,10 +300,10 @@
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">J. A. O’Brien, <i>Introduction to information systems</i>, 7th ed. Burr Ridge, IL: Irwin, 1994.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">A. Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. Cambridge, Mass.: MIT Press, 2012, p. 50. Accessed: Jul. 14, 2013. [Online]. Available: <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a></div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">A. Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. Cambridge, Mass.: MIT Press, 2012, p. 50. Accessed: July 14, 2013. [Online]. Available: <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">A. Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13. Accessed: Jul. 26, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a></div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">A. Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13. Accessed: July 26, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">中国职工教育研究会, 编, 职工教育研究论文集. 北京: 人民教育出版社, 1985.</div>
@@ -324,7 +324,7 @@
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室, “国防白皮书：中国武装力量的多样化运用”, 4月 2013. 见于: 6月 11, 2014. [在线]. 载于: <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文和others, “人体安全重要技术标准研制最终报告”, 7178999X–2006BAK04A10/10.2013, 9月 2013. 见于: 6月 24, 2014. [在线]. 载于: <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文和others, “人体安全重要技术标准研制最终报告”, 7178999X～2006BAK04A10/10.2013, 9月 2013. 见于: 6月 24, 2014. [在线]. 载于: <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">D. Calkin, A. Ager, and M. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report”, RMRS-GTR-262, 2011.</div>
@@ -438,7 +438,7 @@
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, “Pennsylvania library laws”. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a> (accessed Mar. 24, 2013).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">“Dublin Core metadata element set: version 1.1”, Jun. 14, 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (accessed Jun. 11, 2014).</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">“Dublin Core metadata element set: version 1.1”, June 14, 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (accessed June 11, 2014).</div>
   </div>
 </div>
 
@@ -510,13 +510,13 @@
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">J. S. Auerbach, “The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation”, in <i>Handbook of child psychology: Vol. 4. Socialization, personality, and social development</i>, 4th ed., M. F. Bornstein, Ed. Washington, DC, US: Wiley, 1993, pp. 43–110. doi: <a href="https://doi.org/10.1037/10138-002">10.1037/10138-002</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">K. L. Lichstein and R. S. Johnson, “Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs”, presented at the Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden, Jun. 1990.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">K. L. Lichstein and R. S. Johnson, “Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs”, presented at the Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden, June 1990.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">C. B. Lanktree and J. N. Briere, “Early data on the Trauma Symptom Checklist for Children (TSC-C)”, presented at the Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA, Jan. 1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">J. Ruby and C. Fulton, “Beyond redlining: Editing software that works”, presented at the Poster session presented at the annual meeting of the Society for Scholarly Publishing, Washington, DC, Jun. 1993.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">J. Ruby and C. Fulton, “Beyond redlining: Editing software that works”, presented at the Poster session presented at the annual meeting of the Society for Scholarly Publishing, Washington, DC, June 1993.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Australian Bureau of Statistics, “Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990”, Author, Canberra, Australian Capital Territory, 3209.1, 1991.</div>
@@ -714,7 +714,7 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">王名扬, 美国行政法. 北京大学出版社, 2007.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">张新宝, 侵权责任法, 4 本. 中国人民大学出版社, 2016.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">张新宝, 侵权责任法, 4 版. 中国人民大学出版社, 2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">高鸿钧和程汉大, 编, 英美法原论. 北京大学出版社, 2013.</div>
@@ -783,10 +783,10 @@
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容和刘姗姗, 近代中国宪政历程. 中国政法大学出版社, 2004. 见于: 9月 03, 2022. [在线]. 载于: <a href="https://book.douban.com/subject/1663375/">https://book.douban.com/subject/1663375/</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平, “精简机构是一场革命”, 收入 邓小平文选, 2 本, 卷 2, 人民出版社, 1994.</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平, “精简机构是一场革命”, 收入 邓小平文选, 2 版, 卷 2, 人民出版社, 1994.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特, 奥本海国际法, 8 本, 卷 上卷第一分册. 商务印书馆, 1971.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">[英]劳特派特, 奥本海国际法, 8 版, 卷 上卷第一分册. 商务印书馆, 1971.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">瞿同祖, 中国法律与中国社会. 商务印书馆, 2010. 见于: 11月 06, 2024. [在线]. 载于: <a href="https://book.douban.com/subject/6004646/">https://book.douban.com/subject/6004646/</a></div>
@@ -834,10 +834,10 @@
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward, “Progress for a small planet”, <i>Harvard Business Review</i>, no. Sep.-Oct., p. 89, 1979. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a></div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward, “Progress for a small planet”, <i>Harvard Business Review</i>, no. Sep.-Oct., p. 89, 1979. Accessed: July 26, 2022. [Online]. Available: <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">A. Rosenthal, “White House tutors Kremlin in how a presidency works”, <i>New York Times</i>, p. A1, Jun. 15, 1990. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">A. Rosenthal, “White House tutors Kremlin in how a presidency works”, <i>New York Times</i>, p. A1, June 15, 1990. Accessed: July 26, 2022. [Online]. Available: <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">J. Habermas, <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. MIT Press, 1996.</div>
@@ -864,7 +864,7 @@
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline"><i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et al.</i></div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">S. McDonell, “When China began streaming trials online”, <i>BBC News</i>, Sep. 30, 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a> (accessed Jul. 26, 2022).</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">S. McDonell, “When China began streaming trials online”, <i>BBC News</i>, Sept. 30, 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a> (accessed July 26, 2022).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">M. Chevallier, <i>L’État de droit</i>, 4th ed. Paris: Montchrestien, 2003. [Online]. Available: <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a></div>
@@ -879,7 +879,7 @@
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer”, in <i>Le droit des Océans</i>, Éditions de la mer., 2015, pp. 12–48.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer en Méditerranée”, Congrès de Marseille, Jul. 2016.</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer en Méditerranée”, Congrès de Marseille, July 2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[58]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer en Méditerranée”, Rapport de recherche de l’IFREMER 1202, Aug. 2016.</div>
@@ -894,10 +894,10 @@
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">B. Vogel, “Rechtsgüterschutz und Normgeltung”, <i>ZStW</i>, vol. 129, no. 3, pp. 629–649, Dec. 2017, doi: <a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">M. Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Jurist. Schul.</i>, no. 3, pp. 234–240, 2012, Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a></div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">M. Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts”, <i>Jurist. Schul.</i>, no. 3, pp. 234–240, 2012, Accessed: July 26, 2022. [Online]. Available: <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">T. Fischer, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>, Sep. 29, 2015.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">T. Fischer, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>, Sept. 29, 2015.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">C. Roxin, <i>Strafrecht Allgemeiner Teil</i>, 4th ed., vol. 1. C. H. Beck, 2006.</div>
@@ -960,7 +960,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">“平成26年版犯罪白書”. [Online]. Available: <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">“ジュリスト”. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (accessed Sep. 01, 2022).</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">“ジュリスト”. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a> (accessed Sept. 01, 2022).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">欧中坦, “千方百计上京城：清朝的京控”, 收入 美国学者论中国法律传统, 高道蕴, 高鸿钧和贺卫方, 编 中国政法大学出版社, 1994.</div>
@@ -1026,7 +1026,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">J. Mehrholz, M. Pohl, T. Platz, J. Kugler, and B. Elsner, “Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke”, <i>Cochrane Db. Syst. Rev.</i>, 2018, doi: <a href="https://doi.org/10.1002/14651858.CD006876.pub5">10.1002/14651858.CD006876.pub5</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">M. C. Morey, “Physical activity and exercise in older adults”, <i>UpToDate</i>, 2019, Accessed: Jul. 22, 2019. [Online]. Available: <a href="https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults">https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults</a></div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">M. C. Morey, “Physical activity and exercise in older adults”, <i>UpToDate</i>, 2019, Accessed: July 22, 2019. [Online]. Available: <a href="https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults">https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">S. Bergeson, “Really cool neutral plasmas”, <i>Science</i>, vol. 363, no. 6422, pp. 33–34, Jan. 2019, doi: <a href="https://doi.org/10.1126/science.aau7988">10.1126/science.aau7988</a>.</div>
@@ -1044,7 +1044,7 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">A. Hess, “Cats who take direction”, <i>The New York Times</i>, p. C1, Jan. 03, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">M. Klymkowsky, “Can we talk scientifically about free will?”, <i>Sci-Ed</i>, Sep. 15, 2018. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a></div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">M. Klymkowsky, “Can we talk scientifically about free will?”, <i>Sci-Ed</i>, Sept. 15, 2018. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">KS in NJ, “From this article, it sounds like men are figuring something out that women have known forever. I know of many”, <i>The Washington Post</i>, Jan. 15, 2019. [Online]. Available: <a href="https://wapo.st/2HDToGJ">https://wapo.st/2HDToGJ</a></div>
@@ -1110,7 +1110,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">World Health Organization, “International statistical classification of diseases and related health problems”, World Health Organization, 2019. [Online]. Available: <a href="https://icd.who.int/">https://icd.who.int/</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">American Psychological Association, <i>APA dictionary of psychology</i>. Accessed: Jun. 14, 2019. [Online]. Available: <a href="https://dictionary.apa.org/">https://dictionary.apa.org/</a></div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">American Psychological Association, <i>APA dictionary of psychology</i>. Accessed: June 14, 2019. [Online]. Available: <a href="https://dictionary.apa.org/">https://dictionary.apa.org/</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Merriam-Webster, <i>Merriam-Webster.com dictionary</i>. Accessed: May 05, 2019. [Online]. Available: <a href="https://www.merriam-webster.com/">https://www.merriam-webster.com/</a></div>
@@ -1125,7 +1125,7 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline"><i>King James Bible</i>. King James Bible Online, 2017. [Online]. Available: <a href="https://www.kingjamesbibleonline.org/">https://www.kingjamesbibleonline.org/</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">M. A. S. Abdel Haleem, Tran., <i>The Qur’an</i>. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">M. A. S. Abdel Haleem, Trans., <i>The Qur’an</i>. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline"><i>The Torah: The five books of Moses</i>, 3rd ed. The Jewish Publication Society, 2015.</div>
@@ -1173,7 +1173,7 @@
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association, “Positive transference”, <i>APA dictionary of psychology</i>. Accessed: Aug. 31, 2019. [Online]. Available: <a href="https://dictionary.apa.org/positive-transference">https://dictionary.apa.org/positive-transference</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster, “Self-report”, <i>Merriam-Webster.com dictionary</i>. Accessed: Jul. 12, 2019. [Online]. Available: <a href="https://www.merriam-webster.com/dictionary/self-report">https://www.merriam-webster.com/dictionary/self-report</a></div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster, “Self-report”, <i>Merriam-Webster.com dictionary</i>. Accessed: July 12, 2019. [Online]. Available: <a href="https://www.merriam-webster.com/dictionary/self-report">https://www.merriam-webster.com/dictionary/self-report</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">G. Graham, “Behaviorism”, <i>The Stanford encyclopedia of philosophy</i>. Stanford University, 2019. [Online]. Available: <a href="https://plato.stanford.edu/archives/sum2019/entries/behaviorism">https://plato.stanford.edu/archives/sum2019/entries/behaviorism</a></div>
@@ -1227,13 +1227,13 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration, “FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices”, U.S. Food and Drug Administration, Press release, Feb. 2019. [Online]. Available: <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">A. Fistek, E. Jester, and K. Sonnenberg, “Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate”, presented at the Autism Society National Conference, Milwaukee, WI, United States, Jul. 12–15, 2017. [Online]. Available: <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a></div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">A. Fistek, E. Jester, and K. Sonnenberg, “Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate”, presented at the Autism Society National Conference, Milwaukee, WI, United States, July 12–15, 2017. [Online]. Available: <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">S. Maddox, J. Hurling, E. Stewart, and A. Edwards, “If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children”, presented at the Southeastern Psychological Association 62nd Annual Meeting, New Orleans, LA, United States, Mar. 30–Apr. 02, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">J. Pearson, “Fat talk and its effects on state-based body image in women”, presented at the Australian psychological society congress, Sydney, NSW, Australia, Sep. 27–30, 2018. [Online]. Available: <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a></div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">J. Pearson, “Fat talk and its effects on state-based body image in women”, presented at the Australian psychological society congress, Sydney, NSW, Australia, Sept. 27–30, 2018. [Online]. Available: <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">D. De Boer and T. LaFavor, “The art and significance of successfully identifying resilient individuals A person-focused approach”, presented at the Western psychological association 98th annual convention, Portland, OR, United States, Apr. 26–29, 2018.</div>
@@ -1359,7 +1359,7 @@
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline"><i>Happiness</i>, (Nov. 24, 2017). [Online Video]. Available: <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline"><i>How to diagram a sentence (absolute basics)</i>, (Sep. 30, 2016). [Online Video]. Available: <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a></div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline"><i>How to diagram a sentence (absolute basics)</i>, (Sept. 30, 2016). [Online Video]. Available: <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline"><i>How do geckos walk on water?</i>, (Dec. 06, 2016). [Online Video]. Available: <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a></div>
@@ -1428,13 +1428,13 @@
     <div class="csl-left-margin">[150]</div><div class="csl-right-inline">R. Mack and G. Spake, “Citing open source images and formatting references for presentations”, Canvas@FNU, 2018. [Online]. Available: <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation], “College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]”, <i>Twitter</i>, Jun. 29, 2018. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a></div>
+    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation], “College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]”, <i>Twitter</i>, June 29, 2018. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[152]</div><div class="csl-right-inline">Badlands National Park [@BadlandsNPS], “Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity”, <i>Twitter</i>, Feb. 26, 2018. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">B. White, “I treasure every minute we spent together #koko [image attached]”, <i>Twitter</i>, Jun. 21, 2018. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a></div>
+    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">B. White, “I treasure every minute we spent together #koko [image attached]”, <i>Twitter</i>, June 21, 2018. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[154]</div><div class="csl-right-inline">APA Style [@APA_Style], “Tweets”, <i>Twitter</i>. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a> (accessed Nov. 01, 2019).</div>
@@ -1446,10 +1446,10 @@
     <div class="csl-left-margin">[156]</div><div class="csl-right-inline">National Institute of Mental Health, “Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain”, <i>Facebook</i>, Nov. 28, 2018. <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science, “These frogs walk instead of hop. https://scimag.2KlriwH”, <i>Facebook</i>, Jun. 26, 2018. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a></div>
+    <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science, “These frogs walk instead of hop. https://scimag.2KlriwH”, <i>Facebook</i>, June 26, 2018. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute, “Home”, <i>Facebook</i>. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a> (accessed Jul. 22, 2019).</div>
+    <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute, “Home”, <i>Facebook</i>. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a> (accessed July 22, 2019).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Zeitz MOCAA [@zeitzmocaa], “Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by”, <i>Instagram</i>, Nov. 26, 2018. <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a></div>
@@ -1458,13 +1458,13 @@
     <div class="csl-left-margin">[160]</div><div class="csl-right-inline">The New York Public Library [@nypl], “The raven”, <i>Instagram</i>. <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a> (accessed Apr. 16, 2019).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[161]</div><div class="csl-right-inline">National Aeronautics and Space Administration [@nasa], “I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!”, <i>Reddit</i>, Sep. 12, 2018. <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a></div>
+    <div class="csl-left-margin">[161]</div><div class="csl-right-inline">National Aeronautics and Space Administration [@nasa], “I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!”, <i>Reddit</i>, Sept. 12, 2018. <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[162]</div><div class="csl-right-inline">N. Avramova, “The secret to a long, happy, health life? Think age-positive”, <i>CNN</i>, Jan. 03, 2019. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">C. Bologna, “What happens to your mind and body when you feel homesick?”, <i>HuffPost</i>, Jun. 27, 2018. <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a></div>
+    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">C. Bologna, “What happens to your mind and body when you feel homesick?”, <i>HuffPost</i>, June 27, 2018. <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[164]</div><div class="csl-right-inline">Centers for Disease Control and Prevention, “People at high risk of developing flu-related complications”, Jan. 23, 2018. <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a></div>
@@ -1482,7 +1482,7 @@
     <div class="csl-left-margin">[168]</div><div class="csl-right-inline">National Nurses United, “What employers should do to protect nurses from Zika”. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau, “U.S. and world population clock”, <i>U.S. Department of Commerce</i>. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a> (accessed Jul. 03, 2019).</div>
+    <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau, “U.S. and world population clock”, <i>U.S. Department of Commerce</i>. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a> (accessed July 03, 2019).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[170]</div><div class="csl-right-inline"><i>Brown v. Board of Education</i>, vol. 347. 1954, p. 483. [Online]. Available: <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a></div>

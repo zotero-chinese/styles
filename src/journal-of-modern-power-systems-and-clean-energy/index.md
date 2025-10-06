@@ -17,7 +17,7 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩, <i>科学革命的结构：第 4 版</i>, 2nd ed. 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: Jun. 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: June 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴 and 柯平, “面向数字素养的高校图书馆数字服务体系研究,” in 中国图书馆学会年会论文集, 中国图书馆学会, Ed., 北京: 国家图书馆出版社, 2011, pp. 45–52.</div>
@@ -29,7 +29,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, and 刘英敏, “‘北斗一号’监控管理网设计与实现,” 测绘科学, vol. 33, no. 5, pp. 8–9, 2008, doi: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, pp. 356–362, Jun. 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, pp. 356–362, June 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心, “第 29 次中国互联网络发展状况统计报告,” Jan. 2012. Accessed: Mar. 26, 2013. [Online]. Available: <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
@@ -87,7 +87,7 @@
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">杨保军, “新闻道德论,” 博士学位论文, 中国人民大学出版社, 北京, 2012. Accessed: Nov. 01, 2012. [Online]. Available: <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵学功, 当代美国外交. 北京: 社会科学文献出版社, 2001. Accessed: Jun. 11, 2014. [Online]. Available: <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a></div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵学功, 当代美国外交. 北京: 社会科学文献出版社, 2001. Accessed: June 11, 2014. [Online]. Available: <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[12]</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室, 汶川地震灾害研究. 上海: 同济大学出版社, 2011, pp. 5–6. Accessed: May 09, 2013. [Online]. Available: <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a></div>
@@ -105,7 +105,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">P. Baldock, <i>Developing early childhood services: Past, present and future</i>. Rotterdam: Open University Press, 2011, p. 105. Accessed: Nov. 27, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: Jun. 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">X. Fan and C. H. Sommers, <i>Food irradiation research and technology</i>, 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, pp. 25–26. Accessed: June 26, 2014. [Online]. Available: <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">王夫之, Ed., “周易外传：卷 5,” in 船山全书, vol. 第 6 册, 长沙: 岳麓书社, 2011, p. 1109.</div>
@@ -147,7 +147,7 @@
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">李炳穆, “韩国图书馆法,” 图书情报工作, vol. 52, no. 6, pp. 6–12, 2008, Accessed: Oct. 25, 2013. [Online]. Available: <a href="http://www.docin.com/p-400265742.html">http://www.docin.com/p-400265742.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">李幼平 and 王莉, “循证医学研究方法：附视频,” 中华移植杂志（电子版）, vol. 4, no. 3, pp. 225–228, 2010, Accessed: Jun. 09, 2014. [Online]. Available: <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a></div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">李幼平 and 王莉, “循证医学研究方法：附视频,” 中华移植杂志（电子版）, vol. 4, no. 3, pp. 225–228, 2010, Accessed: June 09, 2014. [Online]. Available: <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, and 刘英敏, “‘北斗一号’监控管理网设计与实现,” 测绘科学, vol. 33, no. 5, pp. 8–9, 2008, doi: <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
@@ -162,7 +162,7 @@
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">K. S. Frese, H. A. Katus, and B. Meder, “Next-generation sequencing: from understanding biology to personalized medicine,” <i>Biology</i>, vol. 2, no. 1, pp. 378–398, 2013, doi: <a href="https://doi.org/10.3390/biology2010378">10.3390/biology2010378</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, pp. 356–362, Jun. 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">A. A. Myburg <i>et al.</i>, “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510, pp. 356–362, June 2014, doi: <a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">邓一刚, “全智能节电器,” 200610171314.3, Dec. 13, 2006</div>
@@ -171,13 +171,13 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">西安电子科技大学, “光折变自适应光外差探测方法,” 01128777.2, Mar. 06, 2002 Accessed: May 28, 2002. [Online]. Available: <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">R. Tachibana, S. Shimizu, S. Kobayashi, and T. Nakamura, “Electronic watermarking method and system,” US6915001, Jul. 05, 2005 Accessed: Nov. 11, 2013. [Online]. Available: <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a></div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">R. Tachibana, S. Shimizu, S. Kobayashi, and T. Nakamura, “Electronic watermarking method and system,” US6915001, July 05, 2005 Accessed: Nov. 11, 2013. [Online]. Available: <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">中国互联网络信息中心, “第 29 次中国互联网络发展状况统计报告,” Jan. 2012. Accessed: Mar. 26, 2013. [Online]. Available: <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅, “关于转发北京市企业投资项目核准暂行实施办法的通知.” Jul. 12, 2005. Accessed: Jul. 12, 2011. [Online]. Available: <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a></div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅, “关于转发北京市企业投资项目核准暂行实施办法的通知.” July 12, 2005. Accessed: July 12, 2011. [Online]. Available: <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">D. Bawden, “Origins and concepts of digital literacy.” Accessed: Mar. 08, 2013. [Online]. Available: <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
@@ -300,10 +300,10 @@
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">J. A. O’Brien, <i>Introduction to information systems</i>, 7th ed. Burr Ridge, IL: Irwin, 1994.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">A. Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. Cambridge, Mass.: MIT Press, 2012, p. 50. Accessed: Jul. 14, 2013. [Online]. Available: <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a></div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">A. Kinchy, <i>Seeds, sciences, and struggle: the global politics of transgenic crops</i>. Cambridge, Mass.: MIT Press, 2012, p. 50. Accessed: July 14, 2013. [Online]. Available: <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">A. Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13. Accessed: Jul. 26, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a></div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">A. Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13. Accessed: July 26, 2012. [Online]. Available: <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">中国职工教育研究会, Ed., 职工教育研究论文集. 北京: 人民教育出版社, 1985.</div>
@@ -321,10 +321,10 @@
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">B. V. Babu <i>et al.</i>, Eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室, “国防白皮书：中国武装力量的多样化运用,” Apr. 2013. Accessed: Jun. 11, 2014. [Online]. Available: <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a></div>
+    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室, “国防白皮书：中国武装力量的多样化运用,” Apr. 2013. Accessed: June 11, 2014. [Online]. Available: <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, and others, “人体安全重要技术标准研制最终报告,” 7178999X–2006BAK04A10/10.2013, Sep. 2013. Accessed: Jun. 24, 2014. [Online]. Available: <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, and others, “人体安全重要技术标准研制最终报告,” 7178999X–2006BAK04A10/10.2013, Sept. 2013. Accessed: June 24, 2014. [Online]. Available: <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">D. Calkin, A. Ager, and M. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report,” RMRS-GTR-262, 2011.</div>
@@ -423,7 +423,7 @@
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张田勘, “罪犯 DNA 库与生命伦理学计划,” 大众科技报, p. 7, Nov. 12, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">傅刚, 赵承, and 李佳路, “大风沙过后的思考,” 北京青年报, Jan. 12, 2000. Accessed: Sep. 28, 2005. [Online]. Available: <a href="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</a></div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">傅刚, 赵承, and 李佳路, “大风沙过后的思考,” 北京青年报, Jan. 12, 2000. Accessed: Sept. 28, 2005. [Online]. Available: <a href="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">刘裕国 <i>et al.</i>, “雾霾来袭，如何突围？,” 人民日报, Jan. 12, 2013. Accessed: Nov. 06, 2013. [Online]. Available: <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm</a></div>
@@ -438,7 +438,7 @@
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, “Pennsylvania library laws.” Accessed: Mar. 24, 2013. [Online]. Available: <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">“Dublin Core metadata element set: version 1.1.” Accessed: Jun. 11, 2014. [Online]. Available: <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">“Dublin Core metadata element set: version 1.1.” Accessed: June 11, 2014. [Online]. Available: <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
   </div>
 </div>
 
@@ -510,13 +510,13 @@
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">J. S. Auerbach, “The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation,” in <i>Handbook of child psychology: Vol. 4. Socialization, personality, and social development</i>, 4th ed., M. F. Bornstein, Ed., Washington, DC, US: Wiley, 1993, pp. 43–110. doi: <a href="https://doi.org/10.1037/10138-002">10.1037/10138-002</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">K. L. Lichstein and R. S. Johnson, “Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs,” in <i>Reducing medication in geriatric populations</i>, Uppsala, Sweden, Jun. 1990.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">K. L. Lichstein and R. S. Johnson, “Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs,” in <i>Reducing medication in geriatric populations</i>, Uppsala, Sweden, June 1990.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">C. B. Lanktree and J. N. Briere, “Early data on the Trauma Symptom Checklist for Children (TSC-C),” San Diego, CA, Jan. 1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">J. Ruby and C. Fulton, “Beyond redlining: Editing software that works,” Washington, DC, Jun. 1993.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">J. Ruby and C. Fulton, “Beyond redlining: Editing software that works,” Washington, DC, June 1993.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Australian Bureau of Statistics, “Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990,” Author, Canberra, Australian Capital Territory, 3209.1, 1991.</div>
@@ -639,13 +639,13 @@
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">何龄修, “读顾诚〈南明史〉,” 中国史研究, no. 3, pp. 167–173, 1998.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今, “江苏的小农及其副业,” 中国经济, vol. 4, no. 6, Jun. 1936.</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">汪疑今, “江苏的小农及其副业,” 中国经济, vol. 4, no. 6, June 1936.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[29]</div><div class="csl-right-inline">魏丽英, “论近代西北人口波动的若干主要原因,” 社会科学, no. 6, pp. 68–73, 86, 1990, doi: <a href="https://doi.org/10.15891/j.cnki.cn62-1093/c.1990.06.017">10.15891/j.cnki.cn62-1093/c.1990.06.017</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康, “葡萄牙人如何进入澳门问题辨正,” 社会科学, no. 9, pp. 63–67, 1999, Accessed: Jun. 12, 2024. [Online]. Available: <a href="https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS</a></div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">费成康, “葡萄牙人如何进入澳门问题辨正,” 社会科学, no. 9, pp. 63–67, 1999, Accessed: June 12, 2024. [Online]. Available: <a href="https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">黄义豪, “评黄龟年四劾秦桧,” 福建论坛, no. 3, pp. 26–27, 1997.</div>
@@ -660,7 +660,7 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">伤心人（麦孟华）, “说奴隶,” 清议报, vol. 第69册, p. 第1页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">“四川会议厅暂行章程,” 广益丛报, no. 第8年第19期, p. 第1—2页, Sep. 03, 1910.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">“四川会议厅暂行章程,” 广益丛报, no. 第8年第19期, p. 第1—2页, Sept. 03, 1910.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">“上海各路商界总联合会致外交部电,” 民国日报, 上海, p. 4, Aug. 14, 1925.</div>
@@ -672,19 +672,19 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东, “罗隆基政治思想研究（1913—1949）,” 博士学位论文, 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来, “对国际体制和国际制度的理解和翻译,” 天津, Jun. 2000.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来, “对国际体制和国际制度的理解和翻译,” 天津, June 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">“傅良佐致国务院电,” Sep. 15, 1917.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">“傅良佐致国务院电,” Sept. 15, 1917.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">“党外人士座谈会记录.” Jul. 1950.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">“党外人士座谈会记录.” July 1950.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮, “关于中国学术期刊标准化数据库系统工程的进展.” Accessed: Oct. 04, 1998. [Online]. Available: <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水, “两宋茶诗与茶事,” 《文学遗产通讯》（网络版试刊）2006年第1期. Accessed: Sep. 13, 2007. [Online]. Available: <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水, “两宋茶诗与茶事,” 《文学遗产通讯》（网络版试刊）2006年第1期. Accessed: Sept. 13, 2007. [Online]. Available: <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">P. Brooks, <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago: University of Chicago Press, 2000.</div>
@@ -753,7 +753,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">民法总则.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院, “国务院关于在全国建立农村最低生活保障制度的通知.” Jul. 11, 2007. Accessed: Oct. 17, 2022. [Online]. Available: <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a></div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院, “国务院关于在全国建立农村最低生活保障制度的通知.” July 11, 2007. Accessed: Oct. 17, 2022. [Online]. Available: <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">包郑照诉苍南县人民政府强制拆除房屋案.</div>
@@ -780,7 +780,7 @@
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">罗豪才, 袁曙宏, and 李文栋, “现代行政法的理论基础——论行政机关与相对一方的权利义务平衡,” 中国法学, no. 1, pp. 52–59, 1993, doi: <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">10.14111/j.cnki.zgfx.1993.01.010</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, and 刘姗姗, 近代中国宪政历程. in 二十世纪中华法学文丛. 中国政法大学出版社, 2004. Accessed: Sep. 03, 2022. [Online]. Available: <a href="https://book.douban.com/subject/1663375/">https://book.douban.com/subject/1663375/</a></div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, and 刘姗姗, 近代中国宪政历程. in 二十世纪中华法学文丛. 中国政法大学出版社, 2004. Accessed: Sept. 03, 2022. [Online]. Available: <a href="https://book.douban.com/subject/1663375/">https://book.douban.com/subject/1663375/</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">邓小平, “精简机构是一场革命,” in 邓小平文选, 2nd ed., vol. 2, 人民出版社, 1994.</div>
@@ -810,22 +810,22 @@
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会, 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定. 1991. Accessed: Oct. 27, 2022. [Online]. Available: <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院, “国务院关于在全国建立农村最低生活保障制度的通知.” Jul. 11, 2007. Accessed: Oct. 27, 2022. [Online]. Available: <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a></div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院, “国务院关于在全国建立农村最低生活保障制度的通知.” July 11, 2007. Accessed: Oct. 27, 2022. [Online]. Available: <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院, “最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释.” Feb. 06, 2018. Accessed: Oct. 27, 2022. [Online]. Available: <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院, “国务院关于印发打赢蓝天保卫战三年行动计划的通知.” Jun. 27, 2018. Accessed: Jun. 19, 2023. [Online]. Available: <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a></div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院, “国务院关于印发打赢蓝天保卫战三年行动计划的通知.” June 27, 2018. Accessed: June 19, 2023. [Online]. Available: <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">国家质量监督检验检疫总局 and 中国国家标准化管理委员会, “信息与文献 参考文献著录规则.” 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">信春鹰, “关于《中华人民共和国行政诉讼法修正案（草案）》的说明,” Dec. 2013. Accessed: Jun. 19, 2023. [Online]. Available: <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a></div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">信春鹰, “关于《中华人民共和国行政诉讼法修正案（草案）》的说明,” Dec. 2013. Accessed: June 19, 2023. [Online]. Available: <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会, “中共中央关于全面推进依法治国若干重大问题的决定.” Oct. 23, 2014. Accessed: Jun. 19, 2023. [Online]. Available: <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a></div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会, “中共中央关于全面推进依法治国若干重大问题的决定.” Oct. 23, 2014. Accessed: June 19, 2023. [Online]. Available: <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案, no. 8. in 最高人民法院指导案例, no. 24. 2013.</div>
@@ -834,10 +834,10 @@
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward, “Progress for a small planet,” <i>Harvard Business Review</i>, no. Sep.-Oct., p. 89, 1979. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a></div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward, “Progress for a small planet,” <i>Harvard Business Review</i>, no. Sep.-Oct., p. 89, 1979. Accessed: July 26, 2022. [Online]. Available: <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">A. Rosenthal, “White House tutors Kremlin in how a presidency works,” <i>New York Times</i>, p. A1, Jun. 15, 1990. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">A. Rosenthal, “White House tutors Kremlin in how a presidency works,” <i>New York Times</i>, p. A1, June 15, 1990. Accessed: July 26, 2022. [Online]. Available: <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">J. Habermas, <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. MIT Press, 1996.</div>
@@ -864,7 +864,7 @@
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline"><i>United States <span style="font-style:normal;">v.</span> Dino Nastasi et al.</i></div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">S. McDonell, “When China began streaming trials online,” BBC News. Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a></div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">S. McDonell, “When China began streaming trials online,” BBC News. Accessed: July 26, 2022. [Online]. Available: <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">M. Chevallier, <i>L’État de droit</i>, 4th ed. Paris: Montchrestien, 2003. [Online]. Available: <a href="https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html">https://www.decitre.fr/livres/l-etat-de-droit-9782707613714.html</a></div>
@@ -879,7 +879,7 @@
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer,” in <i>Le droit des Océans</i>, Éditions de la mer., 2015, pp. 12–48.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer en Méditerranée,” Congrès de Marseille, Jul. 2016.</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer en Méditerranée,” Congrès de Marseille, July 2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[58]</div><div class="csl-right-inline">M. Poisson, “Le droit de la mer en Méditerranée,” Rapport de recherche de l’IFREMER 1202, Aug. 2016.</div>
@@ -894,10 +894,10 @@
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">B. Vogel, “Rechtsgüterschutz und Normgeltung,” <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, vol. 129, no. 3, pp. 629–649, Dec. 2017, doi: <a href="https://doi.org/10.1515/zstw-2017-0033">10.1515/zstw-2017-0033</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">M. Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts,” <i>Juristische Schulung</i>, no. 3, pp. 234–240, 2012, Accessed: Jul. 26, 2022. [Online]. Available: <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a></div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">M. Würdinger, “Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts,” <i>Juristische Schulung</i>, no. 3, pp. 234–240, 2012, Accessed: July 26, 2022. [Online]. Available: <a href="https://dialnet.unirioja.es/servlet/articulo?codigo=3906259">https://dialnet.unirioja.es/servlet/articulo?codigo=3906259</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">T. Fischer, “Absurdes Spektakel um den Tod,” <i>Die Zeit</i>, Sep. 29, 2015.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">T. Fischer, “Absurdes Spektakel um den Tod,” <i>Die Zeit</i>, Sept. 29, 2015.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">C. Roxin, <i>Strafrecht Allgemeiner Teil</i>, 4th ed., vol. 1. C. H. Beck, 2006.</div>
@@ -960,7 +960,7 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">“平成26年版犯罪白書.” [Online]. Available: <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">“ジュリスト.” Accessed: Sep. 01, 2022. [Online]. Available: <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a></div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">“ジュリスト.” Accessed: Sept. 01, 2022. [Online]. Available: <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">欧中坦, “千方百计上京城：清朝的京控,” in 美国学者论中国法律传统, 高道蕴, 高鸿钧, and 贺卫方, Eds., 中国政法大学出版社, 1994.</div>
@@ -1026,7 +1026,7 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">J. Mehrholz, M. Pohl, T. Platz, J. Kugler, and B. Elsner, “Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke,” <i>Cochrane Database of Systematic Reviews</i>, 2018, doi: <a href="https://doi.org/10.1002/14651858.CD006876.pub5">10.1002/14651858.CD006876.pub5</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">M. C. Morey, “Physical activity and exercise in older adults,” <i>UpToDate</i>, 2019, Accessed: Jul. 22, 2019. [Online]. Available: <a href="https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults">https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults</a></div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">M. C. Morey, “Physical activity and exercise in older adults,” <i>UpToDate</i>, 2019, Accessed: July 22, 2019. [Online]. Available: <a href="https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults">https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">S. Bergeson, “Really cool neutral plasmas,” <i>Science</i>, vol. 363, no. 6422, pp. 33–34, Jan. 2019, doi: <a href="https://doi.org/10.1126/science.aau7988">10.1126/science.aau7988</a>.</div>
@@ -1110,7 +1110,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">World Health Organization, “International statistical classification of diseases and related health problems,” World Health Organization, 2019. [Online]. Available: <a href="https://icd.who.int/">https://icd.who.int/</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">American Psychological Association, <i>APA dictionary of psychology</i>. Accessed: Jun. 14, 2019. [Online]. Available: <a href="https://dictionary.apa.org/">https://dictionary.apa.org/</a></div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">American Psychological Association, <i>APA dictionary of psychology</i>. Accessed: June 14, 2019. [Online]. Available: <a href="https://dictionary.apa.org/">https://dictionary.apa.org/</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Merriam-Webster, <i>Merriam-Webster.com dictionary</i>. Accessed: May 05, 2019. [Online]. Available: <a href="https://www.merriam-webster.com/">https://www.merriam-webster.com/</a></div>
@@ -1125,7 +1125,7 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline"><i>King James Bible</i>. King James Bible Online, 2017. [Online]. Available: <a href="https://www.kingjamesbibleonline.org/">https://www.kingjamesbibleonline.org/</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">M. A. S. Abdel Haleem, Tran., <i>The Qur’an</i>. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">M. A. S. Abdel Haleem, Trans., <i>The Qur’an</i>. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline"><i>The Torah: The five books of Moses</i>, 3rd ed. The Jewish Publication Society, 2015.</div>
@@ -1173,7 +1173,7 @@
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association, “Positive transference,” <i>APA dictionary of psychology</i>. Accessed: Aug. 31, 2019. [Online]. Available: <a href="https://dictionary.apa.org/positive-transference">https://dictionary.apa.org/positive-transference</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster, “Self-report,” <i>Merriam-Webster.com dictionary</i>. Accessed: Jul. 12, 2019. [Online]. Available: <a href="https://www.merriam-webster.com/dictionary/self-report">https://www.merriam-webster.com/dictionary/self-report</a></div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster, “Self-report,” <i>Merriam-Webster.com dictionary</i>. Accessed: July 12, 2019. [Online]. Available: <a href="https://www.merriam-webster.com/dictionary/self-report">https://www.merriam-webster.com/dictionary/self-report</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">G. Graham, “Behaviorism,” <i>The Stanford encyclopedia of philosophy</i>. Stanford University, 2019. [Online]. Available: <a href="https://plato.stanford.edu/archives/sum2019/entries/behaviorism">https://plato.stanford.edu/archives/sum2019/entries/behaviorism</a></div>
@@ -1227,13 +1227,13 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration, “FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices,” U.S. Food and Drug Administration, Press release, Feb. 2019. [Online]. Available: <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">A. Fistek, E. Jester, and K. Sonnenberg, “Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate,” Milwaukee, WI, United States, Jul. 12–15, 2017. [Online]. Available: <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a></div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">A. Fistek, E. Jester, and K. Sonnenberg, “Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate,” Milwaukee, WI, United States, July 12–15, 2017. [Online]. Available: <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">S. Maddox, J. Hurling, E. Stewart, and A. Edwards, “If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children,” New Orleans, LA, United States, Mar. 30–Apr. 02, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">J. Pearson, “Fat talk and its effects on state-based body image in women,” Sydney, NSW, Australia, Sep. 27–30, 2018. [Online]. Available: <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a></div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">J. Pearson, “Fat talk and its effects on state-based body image in women,” Sydney, NSW, Australia, Sept. 27–30, 2018. [Online]. Available: <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">D. De Boer and T. LaFavor, “The art and significance of successfully identifying resilient individuals A person-focused approach,” in <i>Perspectives on resilience: Conceptualization, measurement, and enhancement</i>, Portland, OR, United States, Apr. 26–29, 2018.</div>
@@ -1359,7 +1359,7 @@
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline"><i>Happiness</i>, (Nov. 24, 2017). [Online Video]. Available: <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline"><i>How to diagram a sentence (absolute basics)</i>, (Sep. 30, 2016). [Online Video]. Available: <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a></div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline"><i>How to diagram a sentence (absolute basics)</i>, (Sept. 30, 2016). [Online Video]. Available: <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline"><i>How do geckos walk on water?</i>, (Dec. 06, 2016). [Online Video]. Available: <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a></div>
@@ -1449,7 +1449,7 @@
     <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science, “These frogs walk instead of hop. https://scimag.2KlriwH,” Facebook. [Online]. Available: <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute, “Home,” Facebook. Accessed: Jul. 22, 2019. [Online]. Available: <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a></div>
+    <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute, “Home,” Facebook. Accessed: July 22, 2019. [Online]. Available: <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Zeitz MOCAA [@zeitzmocaa], “Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by,” Instagram. [Online]. Available: <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a></div>
@@ -1482,7 +1482,7 @@
     <div class="csl-left-margin">[168]</div><div class="csl-right-inline">National Nurses United, “What employers should do to protect nurses from Zika.” [Online]. Available: <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau, “U.S. and world population clock,” U.S. Department of Commerce. Accessed: Jul. 03, 2019. [Online]. Available: <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a></div>
+    <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau, “U.S. and world population clock,” U.S. Department of Commerce. Accessed: July 03, 2019. [Online]. Available: <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[170]</div><div class="csl-right-inline"><i>Brown v. Board of Education</i>, vol. 347. 1954, p. 483. [Online]. Available: <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a></div>

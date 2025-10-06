@@ -547,7 +547,7 @@
     <div class="csl-block">[2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   </div>
   <div class="csl-entry">[44]	BROOKS P. Chicago: University of Chicago Press, 2000.</div>
-  <div class="csl-entry">[45]	POLO M. Marsden W, tran. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[45]	POLO M. Marsden W, trans. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46]	CHAMBERLAIN H B. Mod. China, 1993, 19(2): 199-215.</div>
   <div class="csl-entry">[47]	SCHFIELD R S. Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   <div class="csl-entry">[48]	Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD, 1969.</div>
@@ -675,7 +675,7 @@
   </div>
   <div class="csl-entry">[42]	BARBARA WARD. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
   <div class="csl-entry">[43]	ROSENTHAL A. New York Times, 1990-06-15(A1).</div>
-  <div class="csl-entry">[44]	HABERMAS J. Rehg W, tran. MIT Press, 1996.</div>
+  <div class="csl-entry">[44]	HABERMAS J. Rehg W, trans. MIT Press, 1996.</div>
   <div class="csl-entry">[45]	HORSLEY J. Bergsten C F, Gill B, Lardy N R, Mitchell D. China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">[46]	89-670//Stat.: Vol. 80. 1966: 931, 944-947.</div>
   <div class="csl-entry">[47]	U.S.C.: Vol. 5. 2006.</div>
@@ -821,8 +821,8 @@
   <div class="csl-entry">[34]	PRIDHAM K F, LIMBO R, SCHROEDER M. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">[35]	AMANO N, KONDO H. Vol. 7. Sansei-do, 2000.</div>
   <div class="csl-entry">[36]	PIAGET J, INHELDER B. Quadrige, 1966.</div>
-  <div class="csl-entry">[37]	PIAGET J, INHELDER B. Weaver H, tran. 2nd ed. Basic Books, 1969.</div>
-  <div class="csl-entry">[38]	FREUD S. Strachey J, tran. Basic Books, 2010.</div>
+  <div class="csl-entry">[37]	PIAGET J, INHELDER B. Weaver H, trans. 2nd ed. Basic Books, 1969.</div>
+  <div class="csl-entry">[38]	FREUD S. Strachey J, trans. Basic Books, 2010.</div>
   <div class="csl-entry">[39]	ROWLING J K. Pottermore Publishing, 2015.</div>
   <div class="csl-entry">[40]	FISKE S T, GILBERT D T, LINDZEY G. Vol. 1. 5th ed. John Wiley &#38; Sons, 2010.</div>
   <div class="csl-entry">[41]	TRAVIS C B, WHITE J W. Vol. 1 History, theory, and battlegrounds. American Psychological Association, 2018.</div>
@@ -834,15 +834,15 @@
   <div class="csl-entry">[47]	ZALTA E N. Summer 2019 ed. Stanford University, 2019.</div>
   <div class="csl-entry">[48]	GOLD M. American Psychological Association, 1999.</div>
   <div class="csl-entry">[49]	King James Bible Online, 2017.</div>
-  <div class="csl-entry">[50]	Abdel Haleem M A S, tran. Oxford University Press, 2004.</div>
+  <div class="csl-entry">[50]	Abdel Haleem M A S, trans. Oxford University Press, 2004.</div>
   <div class="csl-entry">[51]	3rd ed. The Jewish Publication Society, 2015.</div>
-  <div class="csl-entry">[52]	ARISTOTLE. Butcher S H, tran. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">[52]	ARISTOTLE. Butcher S H, trans. The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">[53]	SHAKESPEARE W. Washington Square Press, 1995.</div>
   <div class="csl-entry">[54]	BALSAM K F, MARTELL C R, JONES K P, SAFREN S A. Iwamasa G Y, Hays P A. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.</div>
   <div class="csl-entry">[55]	WEINSTOCK R, LEONG G B, SILVA J A. Rosner R. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.</div>
   <div class="csl-entry">[56]	TAFOYA N, DEL VECCHIO A. McGoldrick M, Giordano J, Garcia-Preto N. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
   <div class="csl-entry">[57]	CARCAVILLA GONZÁLEZ N. Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
-  <div class="csl-entry">[58]	HEIDEGGER M. Sallis J, tran.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+  <div class="csl-entry">[58]	HEIDEGGER M. Sallis J, trans.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   <div class="csl-entry">[59]	SACCHETT C, HUMPHREYS G W. Balota D A, Marsh E J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
   <div class="csl-entry">[60]	SACCHETT C, HUMPHREYS G W. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
   <div class="csl-entry">[61]	BRONFENBRENNER U. Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>

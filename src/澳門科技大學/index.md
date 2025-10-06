@@ -131,7 +131,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">中国图书馆学会（1957）。<i>图书馆学通讯</i>。1-4。</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心（主編）（2012）。<b>台湾光复六十五周年暨抗战史实学术研讨会论文集</b>。北京：九州出版社。</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室（1996）。<b>现代汉语词典</b>（修订本）。北京：商务印书馆。</div>
-  <div class="csl-entry">中国第一历史档案馆、辽宁省档案馆（2001年）。<b>中国明朝档案总汇</b>［Collection］。桂林：广西师范大学出版社。</div>
+  <div class="csl-entry">中国第一历史档案馆、辽宁省档案馆（2001年）。<b>中国明朝档案总汇</b>［馆藏］。桂林：广西师范大学出版社。</div>
   <div class="csl-entry">中国职工教育研究会（主編）（1985）。<b>职工教育研究论文集</b>。北京：人民教育出版社。</div>
   <div class="csl-entry">中国造纸学会（2003）。<b>中国造纸年鉴：2003</b>。北京：中国轻工业出版社。</div>
   <div class="csl-entry">牛志明、斯温兰德、雷光春（主編）（2012）。<b>综合湿地管理国际研讨会论文集</b>。北京：海洋出版社。</div>
@@ -143,7 +143,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">尼葛洛庞帝（1996）。<b>数字化生存</b>（胡泳 &#38; 范海燕，译）。海口：海南出版社。</div>
   <div class="csl-entry">白书农（1998）。植物开花研究。載於李承森（主編），<b>植物科学进展</b>（頁 146-163）。北京：高等教育出版社。</div>
   <div class="csl-entry">皮锡瑞（2009）。<b>师伏堂日记：第 4 册</b>（頁 155）。北京：国家图书馆。</div>
-  <div class="csl-entry">邓一刚（2006）。<b>全智能节电器</b>（Patent No. 200610171314.3）。中国。</div>
+  <div class="csl-entry">邓一刚（2006）。<b>全智能节电器</b>（专利 No. 200610171314.3）。中国。</div>
   <div class="csl-entry">全国广播电视标准化技术委员会（2007）。<b>广播电视音像资料编目规范：第 2 部分 广播资料</b>（No. GY/T 202.2—2007；頁 1）。北京：国家广播电影电视总局广播电视规划院。</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会（2010a）。<b>文献著录：第 4 部分 非书资料</b>（No. GB/T 3792.4—2009；頁 3）。北京：中国标准出版社。</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会（2010b）。<b>信息与文献 都柏林核心元数据元素集</b>（No. GB/T 25100—2010；頁 2-3）。北京：中国标准出版社。</div>
@@ -153,14 +153,14 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文（2013年1月12日）。雾霾来袭，如何突围？。<b>人民日报</b>。</div>
   <div class="csl-entry">同济大学土木工程防灾国家重点实验室（2011）。<b>汶川地震灾害研究</b>（頁 5-6）。上海：同济大学出版社。</div>
   <div class="csl-entry">汤万金、杨跃翔、刘文、others（2013）。<b>人体安全重要技术标准研制最终报告</b>（Nos. 7178999X-2006BAK04A10/10.2013）。</div>
-  <div class="csl-entry">西安电子科技大学（2002）。<b>光折变自适应光外差探测方法</b>（Patent No. 01128777.2）。中国。</div>
+  <div class="csl-entry">西安电子科技大学（2002）。<b>光折变自适应光外差探测方法</b>（专利 No. 01128777.2）。中国。</div>
   <div class="csl-entry">余建斌（2013年1月12日）。我们的科技一直在追赶：访中国工程院院长周济。<b>人民日报</b>，2。</div>
   <div class="csl-entry">吴云芳（2003）。<b>面向中文信息处理的现代汉语并列结构研究</b>。博士学位论文，北京大学。</div>
   <div class="csl-entry">宋史卷三：本纪第三（1977）。載於<b>宋史：第 1 册</b>（頁 49）。北京：中华书局。</div>
-  <div class="csl-entry">库恩（2012）。<b>科学革命的结构：第 4 版</b>（金吾伦 &#38; 胡新和，译；2 本）。北京：北京大学出版社。</div>
+  <div class="csl-entry">库恩（2012）。<b>科学革命的结构：第 4 版</b>（金吾伦 &#38; 胡新和，译；2 版）。北京：北京大学出版社。</div>
   <div class="csl-entry">张田勘（2000年11月12日）。罪犯 DNA 库与生命伦理学计划。<b>大众科技报</b>，7。</div>
   <div class="csl-entry">张伯伟（2002）。<b>全唐五代诗格汇考</b>（頁 288）。南京：江苏古籍出版社。</div>
-  <div class="csl-entry">张凯军（2012）。<b>轨道火车及高速轨道火车紧急安全制动辅助装置</b>（Patent No. 201220158825.2）。中国。</div>
+  <div class="csl-entry">张凯军（2012）。<b>轨道火车及高速轨道火车紧急安全制动辅助装置</b>（专利 No. 201220158825.2）。中国。</div>
   <div class="csl-entry">张忠智（1997）。科技书刊的总编（主编）的角色要求。中国科学技术期刊编辑学会（主編），中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编（頁 33-34）。北京：中国科学技术期刊编辑学会学术委员会。</div>
   <div class="csl-entry">李幼平、王莉（2010）。循证医学研究方法：附视频。<b>中华移植杂志（电子版）</b>，3，225-228。</div>
   <div class="csl-entry">李炳穆（2008a）。韩国图书馆法。<b>图书情报工作</b>，6，6-12。</div>
@@ -176,7 +176,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">国家环境保护局科技标准司（1996）。<b>土壤环境质量标准</b>（No. GB 15616—1995；頁 2-3）。北京：中国标准出版社。</div>
   <div class="csl-entry">国家标准局信息分类编码研究所（1988）。世界各国和地区名称代码。載於全国文献工作标准化委员会（主編），<b>文献工作国家标准汇编：3</b>（No. GB/T 2659—1986；頁 59-92）。北京：中国标准出版社。</div>
   <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）。《北斗一号》监控管理网设计与实现。<b>测绘科学</b>，5，8-9。</div>
-  <div class="csl-entry">河北绿洲生态环境科技有限公司（2001）。<b>一种荒漠化地区生态植被综合培育种植方法</b>（Patent No. 01129210.5）。中国。</div>
+  <div class="csl-entry">河北绿洲生态环境科技有限公司（2001）。<b>一种荒漠化地区生态植被综合培育种植方法</b>（专利 No. 01129210.5）。中国。</div>
   <div class="csl-entry">罗杰斯（2011）。<b>西方文明史：问题与源头</b>（潘惠霞，魏婧，杨艳，&#38; 汤玲，译；頁 15-16）。大连：东北财经大学出版社。</div>
   <div class="csl-entry">罗斯基（2009）。<b>战前中国经济的增长</b>（唐巧天，毛立坤，&#38; 姜修宪，译）。杭州：浙江大学出版社。</div>
   <div class="csl-entry">陈志勇（主編）（2011）。<b>中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集</b>。北京：经济科学出版社。</div>
@@ -238,7 +238,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">张三、李四（2008b年8月8日）。中国心理学与奥林匹克。<b>新华日报</b>，2, 5-7。</div>
   <div class="csl-entry">张三、李四（印刷中）。中国心理学的过去与未来。<b>心理学报</b>。</div>
   <div class="csl-entry">李行健（主編）（2004）。<b>现代汉语规范辞典</b>（頁 255）。北京：外语教学与研究出版社。</div>
-  <div class="csl-entry">拉普拉斯, Pierre-Simon（1951）。<b>概率哲学</b>（张三 &#38; 李四，译）。北京：未名出版社。（Original work published 1814）</div>
+  <div class="csl-entry">拉普拉斯, Pierre-Simon（1951）。<b>概率哲学</b>（张三 &#38; 李四，译）。北京：未名出版社。（原著出版于 1814）</div>
   <div class="csl-entry"><b>现代汉语频率词典</b>（1986）。北京：北京语言学院出版社。</div>
   <div class="csl-entry">邱颖文（2009）。<b>遗传与语言学习</b>。博士学位论文，华东师范大学。</div>
   <div class="csl-entry">赵一、钱二、孙三、李四、周五、吴六、郑七（2008）。中国心理学的过去与未来。<b>心理学报</b>，210-215。</div>
@@ -258,8 +258,8 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Polo, M. (1997). <i>The travels of Marco Polo</i> (W. Marsden, Trans.). Hertfordshire: Cumberland House.</div>
   <div class="csl-entry">Schfield, R. S. (1983). The impact of scarcity and plenty on population change in England. In R. I. Rotberg &#38; T. K. Rabb (Eds.), <i>Hunger and history: The impact of changing food production and consumption pattern on society</i> (pp. 55-88). Cambridge, Mass.: Cambridge University Press.</div>
   <div class="csl-entry">上海各路商界总联合会致外交部电（1925年8月14日）。<b>民国日报</b>，4。</div>
-  <div class="csl-entry"><b>上海县续志：卷 1。疆域</b>（不详）。（Original work published 民国）</div>
-  <div class="csl-entry">广东通志（1992）。載於<b>稀见中国地方志汇刊：卷 15。郡县志二·广州府·城池</b>（影印本）。北京：中国书店。（Original work published 万历）</div>
+  <div class="csl-entry"><b>上海县续志：卷 1。疆域</b>（不详）。（原著出版于 民国）</div>
+  <div class="csl-entry">广东通志（1992）。載於<b>稀见中国地方志汇刊：卷 15。郡县志二·广州府·城池</b>（影印本）。北京：中国书店。（原著出版于 万历）</div>
   <div class="csl-entry"><b>马克思恩格斯全集</b>（卷 31）（1998）。北京：人民出版社。</div>
   <div class="csl-entry"><b>太平御览：卷 690。服章部七</b>（影印本）（1985）。北京：中华书局。</div>
   <div class="csl-entry">方明东（2000）。<b>罗隆基政治思想研究（1913—1949）</b>。博士学位论文，北京师范大学历史系。</div>
@@ -270,7 +270,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry"><b>旧唐书：卷 9。玄宗纪下</b>（标点本）（1975）。北京：中华书局。</div>
   <div class="csl-entry">任东来（2000）。<b>对国际体制和国际制度的理解和翻译</b>。全球化与亚太区域化国际研讨会，天津。天津。</div>
   <div class="csl-entry">任继愈（主編）（1983）。<b>中国哲学发展史（先秦卷）</b>。北京：人民出版社。</div>
-  <div class="csl-entry">伤心人（麦孟华）（不详）。说奴隶。<b>清议报</b>，第1页。（Original work published 光绪二十六年十一月二十一日）</div>
+  <div class="csl-entry">伤心人（麦孟华）（不详）。说奴隶。<b>清议报</b>，第1页。（原著出版于 光绪二十六年十一月二十一日）</div>
   <div class="csl-entry">扬之水（不详）。<i>两宋茶诗与茶事</i>。《文学遗产通讯》（网络版试刊）2006年第1期。取读于2007年9月13日，从 <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a></div>
   <div class="csl-entry">西南中委反对在宁召开五全会（1933年8月11日）。<b>民国日报</b>，第1张第4版。</div>
   <div class="csl-entry">何龄修（1998）。读顾诚〈南明史〉。<b>中国史研究</b>，3，167-173。</div>
@@ -287,17 +287,17 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">费成康（1999）。葡萄牙人如何进入澳门问题辨正。<b>社会科学</b>，9，63-67。</div>
   <div class="csl-entry">赵景深（1948）。<b>文坛忆旧</b>。上海：北新书局。</div>
   <div class="csl-entry">倪素香（2002）。德育学科的比较研究与理论探索。<b>武汉大学学报</b>，4，512-513。</div>
-  <div class="csl-entry"><b>党外人士座谈会记录</b>（李劼人档案）（1950年7月）。［Collection］。</div>
+  <div class="csl-entry"><b>党外人士座谈会记录</b>（李劼人档案）（1950年7月）。［馆藏］。</div>
   <div class="csl-entry">唐振常（1997）。师承与变法。載於<b>识史集</b>。上海：上海古籍出版社。</div>
-  <div class="csl-entry"><b>清德宗实录</b>（影印本，卷 435）（1987）。北京：中华书局。（Original work published 光绪二十四年十二月上）</div>
+  <div class="csl-entry"><b>清德宗实录</b>（影印本，卷 435）（1987）。北京：中华书局。（原著出版于 光绪二十四年十二月上）</div>
   <div class="csl-entry"><b>傅良佐致国务院电</b>（北洋档案 1011—5961）（1917年9月15日）。</div>
-  <div class="csl-entry">谢兴尧（Compiler）（1986）。<b>荣庆日记</b>。西安：西北大学出版社。</div>
+  <div class="csl-entry">谢兴尧（编撰）（1986）。<b>荣庆日记</b>。西安：西北大学出版社。</div>
   <div class="csl-entry">鲁迅（1981）。中国小说的历史的变迁。載於<b>鲁迅全集：第9册</b>。北京：人民文学出版社。</div>
   <div class="csl-entry">黄义豪（1997）。评黄龟年四劾秦桧。<b>福建论坛</b>，3，26-27。</div>
   <div class="csl-entry">黄仁宇（1997）。为什么称为《中国大历史》？——中文版自序。載於<b>中国大历史</b>。北京：三联书店。</div>
   <div class="csl-entry">楼适夷（1998）。读家书，想傅雷（代序）。載於傅敏（主編），<b>傅雷家书</b>（增补本）。北京：三联书店。</div>
   <div class="csl-entry">蒋大兴（2001）。<b>公司法的展开与评判——方法·判例·制度</b>。北京：法律出版社。</div>
-  <div class="csl-entry"><b>嘉定县志：卷 12。风俗</b>（不详）。（Original work published 乾隆）</div>
+  <div class="csl-entry"><b>嘉定县志：卷 12。风俗</b>（不详）。（原著出版于 乾隆）</div>
   <div class="csl-entry">管志道（1997）。答屠仪部赤水丈书。載於<b>续问辨牍</b>（影印本，卷 2）。济南：齐鲁书社。</div>
   <div class="csl-entry">魏丽英（1990）。论近代西北人口波动的若干主要原因。<b>社会科学</b>，6，68-73, 86。</div>
 </div>
@@ -364,11 +364,11 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">王保树（1994）。股份有限公司机关构造中的董事和董事会。載於梁慧星（主編），<b>民商法论丛</b>（卷 1，頁 110）。法律出版社。</div>
   <div class="csl-entry">包郑照诉苍南县人民政府强制拆除房屋案，No. （1988）浙法民上字 7 号（浙江省高级人民法院）。</div>
   <div class="csl-entry">民法总则，§ 第 27 条第 2 款第 3 项。</div>
-  <div class="csl-entry">邓小平（1994）。精简机构是一场革命。載於<b>邓小平文选</b>（2 本，卷 2）。人民出版社。</div>
+  <div class="csl-entry">邓小平（1994）。精简机构是一场革命。載於<b>邓小平文选</b>（2 版，卷 2）。人民出版社。</div>
   <div class="csl-entry">全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定（1991）。</div>
   <div class="csl-entry">何海波（2000年5月21日）。判决书上网。<b>法制日报</b>，2。</div>
   <div class="csl-entry">应松年、马怀德（主編）（2006）。<b>当代中国行政法的源流：王名扬教授九十华诞贺寿文集</b>。中国法制出版社。</div>
-  <div class="csl-entry">张新宝（2016）。<b>侵权责任法</b>（4 本）。中国人民大学出版社。</div>
+  <div class="csl-entry">张新宝（2016）。<b>侵权责任法</b>（4 版）。中国人民大学出版社。</div>
   <div class="csl-entry">李松锋（2015）。<b>游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究</b>。博士学位论文，中国政法大学。</div>
   <div class="csl-entry">汪波（2004年1月10日）。<i>哈尔滨市政法机关正对《宝马案》认真调查复查</i>。人民网。<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a></div>
   <div class="csl-entry">国务院关于印发打赢蓝天保卫战三年行动计划的通知，No. 国发〔2018〕22号（2018）。</div>
@@ -382,7 +382,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">陆红霞诉南通市发改委政府信息公开案，最高人民法院公报 ___（江苏省南通市中级人民法院 2015）。</div>
   <div class="csl-entry">信春鹰（2013）。<b>关于《中华人民共和国行政诉讼法修正案（草案）》的说明</b>。第十二届全国人民代表大会常务委员会第六次会议。</div>
   <div class="csl-entry">[美]富勒（2005）。<b>法律的道德性</b>（郑戈，译）。商务印书馆。</div>
-  <div class="csl-entry">[英]劳特派特（1971）。<b>奥本海国际法：上卷第一分册</b>（王铁崖 &#38; 陈体强，译；8 本）。商务印书馆。</div>
+  <div class="csl-entry">[英]劳特派特（1971）。<b>奥本海国际法：上卷第一分册</b>（王铁崖 &#38; 陈体强，译；8 版）。商务印书馆。</div>
   <div class="csl-entry">赵耀彤（2018年12月1日）。一名基层法官眼里好律师的样子［微信公众号］。<b>中国法律评论</b>。<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a></div>
   <div class="csl-entry">夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗（2004）。<b>近代中国宪政历程</b>。中国政法大学出版社。</div>
   <div class="csl-entry">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报 ___（江苏省无锡市中级人民法院 2013）。</div>
@@ -471,7 +471,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry"><i>Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>. (2016). [Testimony of Norman Dong].</div>
   <div class="csl-entry">Fiske, S. T., Gilbert, D. T., &#38; Lindzey, G. (2010). <i>Handbook of social psychology</i> (5th ed., Vol. 1). John Wiley &#38; Sons.</div>
   <div class="csl-entry">Fistek, A., Jester, E., &#38; Sonnenberg, K. (2017, July 12–15). <i>Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate</i> [Conference session]. Autism Society National Conference, Milwaukee, WI, United States. Milwaukee, WI, United States.</div>
-  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 and 2009).</div>
+  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 &#38; 2009).</div>
   <div class="csl-entry">Fogarty, M. (Director). (2016, September 30). <i>How to diagram a sentence (absolute basics)</i> [Video]. YouTube.</div>
   <div class="csl-entry">Forman, M. (Director). (1975). <i>One flew over the cuckoo’s nest</i> [Film]. United Artists.</div>
   <div class="csl-entry">Fosha, D. (Guest), &#38; Levenson, H. (Host). (2017). <i>Accelerated experiental dynamic psychotherapy (AEDP) supervision</i> [Film; Educational DVD]. American Pychological Association.</div>

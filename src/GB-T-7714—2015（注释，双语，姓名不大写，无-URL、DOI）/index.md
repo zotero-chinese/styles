@@ -282,7 +282,7 @@
 <sup>42</sup> 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. (1998-08-16)[1998-10-04]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>.<br>
 <sup>43</sup> 扬之水. 两宋茶诗与茶事[EB/OL]. [2007-09-13]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.<br>
 <sup>44</sup> Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.<br>
-<sup>45</sup> Polo M. The travels of Marco Polo[M]. Marsden W, tran. Hertfordshire: Cumberland House, 1997.<br>
+<sup>45</sup> Polo M. The travels of Marco Polo[M]. Marsden W, trans. Hertfordshire: Cumberland House, 1997.<br>
 <sup>46</sup> Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.<br>
 <sup>47</sup> Schfield R S. The impact of scarcity and plenty on population change in England[M]//Rotberg R I, Rabb T K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.<br>
 <sup>48</sup> Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.<br>
@@ -337,7 +337,7 @@
 <sup>41</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[A]. 2017.<br>
 <sup>42</sup> Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.<br>
 <sup>43</sup> Rosenthal A. White House tutors Kremlin in how a presidency works[N]. New York Times, 1990-06-15(A1).<br>
-<sup>44</sup> Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran. MIT Press, 1996.<br>
+<sup>44</sup> Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans. MIT Press, 1996.<br>
 <sup>45</sup> Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.<br>
 <sup>46</sup> Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.<br>
 <sup>47</sup> Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.<br>
@@ -424,8 +424,8 @@
 <sup>34</sup> Pridham K F, Limbo R, Schroeder M. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents[M]. Springer Publishing Company, 2018.<br>
 <sup>35</sup> Amano N, Kondo H. Lexical characteristics of Japanese language: Vol. 7[M]. Sansei-do, 2000.<br>
 <sup>36</sup> Piaget J, Inhelder B. The psychology of the child[M]. Quadrige, 1966.<br>
-<sup>37</sup> Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, tran. 2nd ed. Basic Books, 1969.<br>
-<sup>38</sup> Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, tran. Basic Books, 2010.<br>
+<sup>37</sup> Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, trans. 2nd ed. Basic Books, 1969.<br>
+<sup>38</sup> Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, trans. Basic Books, 2010.<br>
 <sup>39</sup> Rowling J K. Harry Potter and the sorceror’s stone[M]. Pottermore Publishing, 2015.<br>
 <sup>40</sup> Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology: Vol. 1[M]. 5th ed. John Wiley &#38; Sons, 2010.<br>
 <sup>41</sup> Travis C B, White J W. APA handbook of the psychology of women: Vol. 1 History, theory, and battlegrounds[M]. American Psychological Association, 2018.<br>
@@ -437,15 +437,15 @@
 <sup>47</sup> Zalta E N. The Stanford encyclopedia of philosophy[M]. Summer 2019 ed. Stanford University, 2019.<br>
 <sup>48</sup> Gold M. The complete social scientist: A Kurt Lewin reader[M]. American Psychological Association, 1999.<br>
 <sup>49</sup> King James Bible[M]. King James Bible Online, 2017.<br>
-<sup>50</sup> The Qur’an[M]. Abdel Haleem M A S, tran. Oxford University Press, 2004.<br>
+<sup>50</sup> The Qur’an[M]. Abdel Haleem M A S, trans. Oxford University Press, 2004.<br>
 <sup>51</sup> The Torah: The five books of Moses[M]. 3rd ed. The Jewish Publication Society, 2015.<br>
-<sup>52</sup> Aristotle. Poetics[M]. Butcher S H, tran. The Internet Classics Archive, 1994.<br>
+<sup>52</sup> Aristotle. Poetics[M]. Butcher S H, trans. The Internet Classics Archive, 1994.<br>
 <sup>53</sup> Shakespeare W. Much ado about nothing[M]. Washington Square Press, 1995.<br>
 <sup>54</sup> Balsam K F, Martell C R, Jones K P, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[M]//Iwamasa G Y, Hays P A. Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019: 287-314.<br>
 <sup>55</sup> Weinstock R, Leong G B, Silva J A. Defining forensic psychiatry: Roles and responsibilities[M]//Rosner R. Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003: 7-13.<br>
 <sup>56</sup> Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]//McGoldrick M, Giordano J, Garcia-Preto N. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.<br>
 <sup>57</sup> Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.<br>
-<sup>58</sup> Heidegger M. On the essence of truth[M]. Sallis J, tran.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.<br>
+<sup>58</sup> Heidegger M. On the essence of truth[M]. Sallis J, trans.//Krell D F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.<br>
 <sup>59</sup> Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]//Balota D A, Marsh E J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.<br>
 <sup>60</sup> Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86.<br>
 <sup>61</sup> Bronfenbrenner U. The social ecology of human development: A retrospective conclusion[M]//Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.<br>

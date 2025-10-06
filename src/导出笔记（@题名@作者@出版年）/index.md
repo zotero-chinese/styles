@@ -29,7 +29,7 @@
 
 <sup>[1]</sup><br>
 <sup>[2(p. 260)]</sup><br>
-<sup>[3(pp. 326–329)]</sup><br>
+<sup>[3(pp. 326～329)]</sup><br>
 <sup>[1,3]</sup><br>
 <sup>[1,2,4]</sup><br>
 <sup>[1–3]</sup><br>

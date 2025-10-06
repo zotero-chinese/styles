@@ -722,7 +722,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain, H.B. 1993. “On the Search for Civil Society in China,” <i>Modern China</i>, 19(2): pp.199~215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Polo, M. 1997. “The Travels of Marco Polo.” Marsden W, tran.. Hertfordshire: Cumberland House.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Polo, M. 1997. “The Travels of Marco Polo.” Marsden W, trans.. Hertfordshire: Cumberland House.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Schfield, R.S. 1983. “The Impact of Scarcity and Plenty on Population Change in England.” Rotberg R I, T K Rabb, eds.//, <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>Cambridge, Mass.: Cambridge University Press: 55~88.</div>
@@ -944,7 +944,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Fischer, T. 2015. “Absurdes Spektakel um den Tod,” <i>Die Zeit</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Habermas, J. 1996. “Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy.” Rehg W, tran.. MIT Press.</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Habermas, J. 1996. “Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy.” Rehg W, trans.. MIT Press.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Horsley, J. 2006. “Rule of Law in China: Incremental Progress.” Bergsten C F, B Gill, N R Lardy, D Mitchell, eds.//, <i>China: The Balance Sheet</i>Public Affairs Press.</div>
@@ -1085,10 +1085,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">Anonymous. 2001b. “Burriola v. Greater Toledo YMCA.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">Anonymous. 2002–2008. “The Wire.” Blown Deadline Productions; HBO.</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">Anonymous. 2002/2008. “The Wire.” Blown Deadline Productions; HBO.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">Anonymous. 2004. “The Qur’an.” Abdel Haleem M A S, tran.. Oxford University Press.</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">Anonymous. 2004. “The Qur’an.” Abdel Haleem M A S, trans.. Oxford University Press.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">Anonymous. 2009a. “Lilly Leadbetter Fair Play Act of 2009”//, <i>Stat.</i></div>
@@ -1217,7 +1217,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[71]</div><div class="csl-right-inline">APA Style [@APA_Style]. [no date]. “Tweets.”</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">Aristotle. 1994. “Poetics.” Butcher S H, tran.. The Internet Classics Archive.</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">Aristotle. 1994. “Poetics.” Butcher S H, trans.. The Internet Classics Archive.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[73]</div><div class="csl-right-inline">Australian Government Productivity Commission and New Zealand Productivity Commission. 2012. “Strengthening Trans-Tasman Economic Relations.”</div>
@@ -1247,7 +1247,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Blackwell, D.L., J.W. Lucas, and T.C. Clarke. 2014. “Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012,” Centers for Disease Control and Prevention.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Blair, C.B. 2015–2020. “Stress, Self-Regulation and Psychopathology in Middle Childhood,” Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development Grant, No. 5R01HD081252~04.</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Blair, C.B. 2015/2020. “Stress, Self-Regulation and Psychopathology in Middle Childhood,” Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development Grant, No. 5R01HD081252~04.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Boddy, J., T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees, and W. Gibson. [no date]. “Ethics Principles.”</div>
@@ -1322,7 +1322,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[106]</div><div class="csl-right-inline">De Vries, R., M. Nieuwenhuijze, S.E. Buitendijk, and the members of Midwifery Science Work Group. 2013. “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, 29(10): pp.1122~1128.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Delacroix, E. 1826–1827. “Faust Attempts to Seduce Marguerite.”</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Delacroix, E. 1826/1827. “Faust Attempts to Seduce Marguerite.”</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">D’Souza, A. and M. Wiseheart. 2018. “Cognitive Effects of Music and Dance Training in Children.” ICPSR.</div>
@@ -1340,7 +1340,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Fistek, A., E. Jester, and K. Sonnenberg. 2017. “Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate”(2017-07-12/15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Freud, S. 2010. “The Interpretation of Dreams: The Complete and Definitive Text.” Strachey J, ed. &#38; tran.. Basic Books.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Freud, S. 2010. “The Interpretation of Dreams: The Complete and Definitive Text.” Strachey J, ed. &#38; trans.. Basic Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Fried, D. and A. Polyakova. 2018. “Democratic Defense against Disinformation,” Atlantic Council.</div>
@@ -1376,7 +1376,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Harwell, M. 2018. “Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change,” National Education Policy Center Policy brief.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Heidegger, M. 2008. “On the Essence of Truth.” Krell D F, ed. Sallis J, tran.//, <i>Basic Writings</i>Harper Perennial Modern Thought: 111~138.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Heidegger, M. 2008. “On the Essence of Truth.” Krell D F, ed. Sallis J, trans.//, <i>Basic Writings</i>Harper Perennial Modern Thought: 111~138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Hess, A. 2019. “Cats Who Take Direction,” <i>The New York Times</i>pp.C1.</div>
@@ -1505,7 +1505,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[167]</div><div class="csl-right-inline">Piaget, J. and B. Inhelder. 1966. “The Psychology of the Child”. Quadrige.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[168]</div><div class="csl-right-inline">Piaget, J. and B. Inhelder. 1969. “The Psychology of the Child.” Weaver H, tran.. 2 edition. Basic Books.</div>
+    <div class="csl-left-margin">[168]</div><div class="csl-right-inline">Piaget, J. and B. Inhelder. 1969. “The Psychology of the Child.” Weaver H, trans.. 2 edition. Basic Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[169]</div><div class="csl-right-inline">Project Implicit. [no date]. “Gender-Science IAT.”</div>

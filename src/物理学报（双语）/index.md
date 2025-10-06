@@ -32,7 +32,7 @@
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Hardie R C, Smith F 1983 <i>Collection in Sensory Physiology</i> (Berlin: Springer-Verlag) p13</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Tabbal A M, Mérel P, Chaker M 1999 <i>Proceedings of the 14th International Symposium on Plasma Chemistry</i> Prague, Czech Republic, 1999年8月2–6日 p1099</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Tabbal A M, Mérel P, Chaker M 1999 <i>Proceedings of the 14th International Symposium on Plasma Chemistry</i> Prague, Czech Republic, 1999年8月2—6日 p1099</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Yang K H 2001 <i>Ph.D. Dissertation</i> (Beijing: Peking University) (in Chinese) [杨凯华 2001 博士学位论文 (北京: 北京大学)]</div>
@@ -297,7 +297,7 @@
     <div class="csl-left-margin">[76]</div><div class="csl-right-inline">2009 (in Chinese) [罗斯基 2009 战前中国经济的增长 (杭州: 浙江大学出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">2012 (in Chinese) [库恩 2012 <i>科学革命的结构：第 4 版</i> (2 本) (北京: 北京大学出版社)]</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">2012 (in Chinese) [库恩 2012 <i>科学革命的结构：第 4 版</i> (2 版) (北京: 北京大学出版社)]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[78]</div><div class="csl-right-inline">2010 p119 (in Chinese) [侯文顺 2010 高分子物理：高分子材料分析、选择与改性 (北京: 化学工业出版社) p119]</div>
@@ -399,7 +399,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck P R, Nord G L Jr, Veblen D R c1980 <i>Pyroxenes</i> (Washington, D.C.: Mineralogical Society of America) p117</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E c1971 <i>Symposium on Applications of Holography in Mechanics</i> University of Southern California, Los Angeles, California, 1971年8月23–25日 p17</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E c1971 <i>Symposium on Applications of Holography in Mechanics</i> University of Southern California, Los Angeles, California, 1971年8月23—25日 p17</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">2013 56 (in Chinese) [杨洪升 2013 文献 56]</div>
@@ -724,7 +724,7 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">2007 (in Chinese) [王名扬 2007 美国行政法 (北京大学出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">2016 (in Chinese) [张新宝 2016 侵权责任法 (4 本) (中国人民大学出版社)]</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">2016 (in Chinese) [张新宝 2016 侵权责任法 (4 版) (中国人民大学出版社)]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">2013 (in Chinese) [高鸿钧, 程汉大 2013 英美法原论 (北京大学出版社)]</div>
@@ -793,10 +793,10 @@
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">2004 (in Chinese) [夏新华, 胡旭晟, 刘鄂, 甘正气, 万利容, 刘姗姗 2004 近代中国宪政历程 (中国政法大学出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">1994 (in Chinese) [邓小平 1994 邓小平文选, (2 本, 卷 2) (人民出版社)]</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">1994 (in Chinese) [邓小平 1994 邓小平文选, (2 版, 卷 2) (人民出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">1971 (in Chinese) [[英]劳特派特 1971 奥本海国际法 (8 本, 上卷第一分册) (商务印书馆)]</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">1971 (in Chinese) [[英]劳特派特 1971 奥本海国际法 (8 版, 上卷第一分册) (商务印书馆)]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">2010 (in Chinese) [瞿同祖 2010 中国法律与中国社会 (商务印书馆)]</div>

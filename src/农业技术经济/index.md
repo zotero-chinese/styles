@@ -593,7 +593,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">3.</div><div class="csl-right-inline">Chamberlain, H. B. On the Search for Civil Society in China. Modern China, 1993, 19(2): 199~215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Polo, M. The Travels of Marco Polo. Marsden, W., tran. Cumberland House, 1997.</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Polo, M. The Travels of Marco Polo. Marsden, W., trans. Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">5.</div><div class="csl-right-inline">Schfield, R. S. The Impact of Scarcity and Plenty on Population Change in England//Rotberg, R. I., Rabb, T. K. Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society. Cambridge University Press, 1983: 55~88.</div>
@@ -812,7 +812,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">25.</div><div class="csl-right-inline">Brandeis, L. D. What Publicity Can Do. Harper’s Weekly, 1913: 10.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">26.</div><div class="csl-right-inline">Habermas, J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. Rehg, W., tran. MIT Press, 1996.</div>
+    <div class="csl-left-margin">26.</div><div class="csl-right-inline">Habermas, J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. Rehg, W., trans. MIT Press, 1996.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">27.</div><div class="csl-right-inline">Horsley, J. Rule of Law in China: Incremental Progress//Bergsten, C. F., Gill, B., Lardy, N. R., Mitchell, D. China: The Balance Sheet. Public Affairs Press, 2006.</div>
@@ -1070,7 +1070,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">22.</div><div class="csl-right-inline">Anon. The Wire. Blown Deadline Productions; HBO, 2002/2008.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">23.</div><div class="csl-right-inline">Anon. The Qur’an. Abdel Haleem, M. A. S., tran. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">23.</div><div class="csl-right-inline">Anon. The Qur’an. Abdel Haleem, M. A. S., trans. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">24.</div><div class="csl-right-inline">Anon. Lilly Leadbetter Fair Play Act of 2009: 111-2//Stat.: Vol. 123. 2009a: 5.</div>
@@ -1145,7 +1145,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">47.</div><div class="csl-right-inline">APA Style [@APA_Style]. Tweets. [2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">48.</div><div class="csl-right-inline">Aristotle. Poetics. Butcher, S. H., tran. The Internet Classics Archive, 1994.</div>
+    <div class="csl-left-margin">48.</div><div class="csl-right-inline">Aristotle. Poetics. Butcher, S. H., trans. The Internet Classics Archive, 1994.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">49.</div><div class="csl-right-inline">Australian Government Productivity Commission, New Zealand Productivity Commission. Strengthening Trans-Tasman Economic Relations. 2012.</div>
@@ -1286,7 +1286,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">94.</div><div class="csl-right-inline">Forman, M. One Flew over the Cuckoo’s Nest. United Artists, 1975.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">95.</div><div class="csl-right-inline">Freud, S. The Interpretation of Dreams: The Complete and Definitive Text. Strachey, J., tran. Basic Books, 2010.</div>
+    <div class="csl-left-margin">95.</div><div class="csl-right-inline">Freud, S. The Interpretation of Dreams: The Complete and Definitive Text. Strachey, J., trans. Basic Books, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">96.</div><div class="csl-right-inline">Fried, D., Polyakova, A. Democratic Defense against Disinformation. Atlantic Council, 2018.</div>
@@ -1334,7 +1334,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">110.</div><div class="csl-right-inline">Harwell, M. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change. National Education Policy Center, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">111.</div><div class="csl-right-inline">Heidegger, M. On the Essence of Truth. Sallis, J., tran.//Krell, D. F. Basic Writings. Harper Perennial Modern Thought, 2008: 111~138.</div>
+    <div class="csl-left-margin">111.</div><div class="csl-right-inline">Heidegger, M. On the Essence of Truth. Sallis, J., trans.//Krell, D. F. Basic Writings. Harper Perennial Modern Thought, 2008: 111~138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">112.</div><div class="csl-right-inline">Hess, A. Cats Who Take Direction. The New York Times, 2019-01-03(C1).</div>
@@ -1478,7 +1478,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">158.</div><div class="csl-right-inline">Piaget, J., Inhelder, B. The Psychology of the Child. Quadrige, 1966.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">159.</div><div class="csl-right-inline">Piaget, J., Inhelder, B. The Psychology of the Child. Weaver, H., tran. 2nd ed. Basic Books, 1969.</div>
+    <div class="csl-left-margin">159.</div><div class="csl-right-inline">Piaget, J., Inhelder, B. The Psychology of the Child. Weaver, H., trans. 2nd ed. Basic Books, 1969.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">160.</div><div class="csl-right-inline">Pridham, K. F., Limbo, R., Schroeder, M. Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents. Springer Publishing Company, 2018.</div>

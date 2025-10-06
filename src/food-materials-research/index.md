@@ -660,7 +660,7 @@
     <div class="csl-left-margin">34. </div><div class="csl-right-inline">伤心人（麦孟华）. 说奴隶. 清议报, p. 第1页</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">35. </div><div class="csl-right-inline">四川会议厅暂行章程. 1910. 广益丛报, Sep. 3, p. 第1—2页</div>
+    <div class="csl-left-margin">35. </div><div class="csl-right-inline">四川会议厅暂行章程. 1910. 广益丛报, Sept. 3, p. 第1—2页</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">36. </div><div class="csl-right-inline">上海各路商界总联合会致外交部电. 1925. 民国日报, Aug. 14, p. 4</div>
@@ -897,7 +897,7 @@
     <div class="csl-left-margin">62. </div><div class="csl-right-inline">Würdinger M. 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. <i>Jurist. Schul.</i>, pp. 234–40</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">63. </div><div class="csl-right-inline">Fischer T. 2015. Absurdes Spektakel um den Tod. <i>Die Zeit</i>, Sep. 29</div>
+    <div class="csl-left-margin">63. </div><div class="csl-right-inline">Fischer T. 2015. Absurdes Spektakel um den Tod. <i>Die Zeit</i>, Sept. 29</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">64. </div><div class="csl-right-inline">Roxin C, 2006. <i>Strafrecht Allgemeiner Teil</i>, Vol. 1. C. H. Beck. pp. 1136. 4th ed.</div>
@@ -1125,7 +1125,7 @@
     <div class="csl-left-margin">49. </div><div class="csl-right-inline"><i>King James Bible</i>, 2017. King James Bible Online</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">50. </div><div class="csl-right-inline">Abdel Haleem MAS, tran., 2004. <i>The Qur’an</i>. Oxford University Press</div>
+    <div class="csl-left-margin">50. </div><div class="csl-right-inline">Abdel Haleem MAS, trans., 2004. <i>The Qur’an</i>. Oxford University Press</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">51. </div><div class="csl-right-inline"><i>The Torah: The five books of Moses</i>, 2015. The Jewish Publication Society. 3rd ed.</div>

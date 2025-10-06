@@ -124,8 +124,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[14]	国家环境保护局科技标准司. 1996. 土壤环境质量标准[S]. 北京: 中国标准出版社，1996年.
     <div class="csl-block">国家环境保护局科技标准司. 1996. 土壤环境质量标准[S]. 北京: 中国标准出版社，1996年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[15]	哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, tran.. 北京: 中国人民大学出版社，2012年.
-    <div class="csl-block">哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, tran.. 北京: 中国人民大学出版社，2012年 (In Chinese)</div>
+  <div class="csl-entry">[15]	哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, trans.. 北京: 中国人民大学出版社，2012年.
+    <div class="csl-block">哈里森·沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛, trans.. 北京: 中国人民大学出版社，2012年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[16]	河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24.
     <div class="csl-block">河北绿洲生态环境科技有限公司. 2001. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24 (In Chinese)</div>
@@ -721,8 +721,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[46]	CHAMBERLAIN H B. 1993. On the search for civil society in China[J]，Modern China, 19(2): 199-215. .
     <div class="csl-block">CHAMBERLAIN H B. 1993. On the search for civil society in China[J]，Modern China, 19(2): 199-215. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[47]	POLO M. 1997. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House，1997年.
-    <div class="csl-block">POLO M. 1997. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House，1997年 (In Chinese)</div>
+  <div class="csl-entry">[47]	POLO M. 1997. The travels of Marco Polo[M]. Marsden W, trans.. Hertfordshire: Cumberland House，1997年.
+    <div class="csl-block">POLO M. 1997. The travels of Marco Polo[M]. Marsden W, trans.. Hertfordshire: Cumberland House，1997年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[48]	SCHFIELD R S. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on societyCambridge, Mass.: Cambridge University Press，1983年.
     <div class="csl-block">SCHFIELD R S. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on societyCambridge, Mass.: Cambridge University Press，1983年 (In Chinese)</div>
@@ -739,8 +739,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[1]	崔国斌. 2006. 知识产权法官造法批判[J]，中国法学, 1: 144-164. .
     <div class="csl-block">崔国斌. 2006. 知识产权法官造法批判[J]，中国法学, 1: 144-164. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[2]	[德]莱纳·沃尔夫. 2012. 风险法的风险[M]. 刘刚, ed. 陈霄, tran.//风险规制：德国的理论与实践法律出版社，2012年.
-    <div class="csl-block">[德]莱纳·沃尔夫. 2012. 风险法的风险[M]. 刘刚, ed. 陈霄, tran.//风险规制：德国的理论与实践法律出版社，2012年 (In Chinese)</div>
+  <div class="csl-entry">[2]	[德]莱纳·沃尔夫. 2012. 风险法的风险[M]. 刘刚, ed. 陈霄, trans.//风险规制：德国的理论与实践法律出版社，2012年.
+    <div class="csl-block">[德]莱纳·沃尔夫. 2012. 风险法的风险[M]. 刘刚, ed. 陈霄, trans.//风险规制：德国的理论与实践法律出版社，2012年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[3]	邓小平. 1994. 精简机构是一场革命[M]//邓小平文选2 edition. 人民出版社，1994年.
     <div class="csl-block">邓小平. 1994. 精简机构是一场革命[M]//邓小平文选2 edition. 人民出版社，1994年 (In Chinese)</div>
@@ -769,11 +769,11 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[11]	罗豪才, 袁曙宏, 李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]，中国法学, 1: 52-59. .
     <div class="csl-block">罗豪才, 袁曙宏, 李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]，中国法学, 1: 52-59. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[12]	[美]富勒. 2005. 法律的道德性[M]. 郑戈, tran.. 商务印书馆，2005年.
-    <div class="csl-block">[美]富勒. 2005. 法律的道德性[M]. 郑戈, tran.. 商务印书馆，2005年 (In Chinese)</div>
+  <div class="csl-entry">[12]	[美]富勒. 2005. 法律的道德性[M]. 郑戈, trans.. 商务印书馆，2005年.
+    <div class="csl-block">[美]富勒. 2005. 法律的道德性[M]. 郑戈, trans.. 商务印书馆，2005年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[13]	欧中坦. 1994. 千方百计上京城：清朝的京控[M]. 高道蕴, 高鸿钧, 贺卫方, eds. 谢鹏程, tran.//美国学者论中国法律传统中国政法大学出版社，1994年.
-    <div class="csl-block">欧中坦. 1994. 千方百计上京城：清朝的京控[M]. 高道蕴, 高鸿钧, 贺卫方, eds. 谢鹏程, tran.//美国学者论中国法律传统中国政法大学出版社，1994年 (In Chinese)</div>
+  <div class="csl-entry">[13]	欧中坦. 1994. 千方百计上京城：清朝的京控[M]. 高道蕴, 高鸿钧, 贺卫方, eds. 谢鹏程, trans.//美国学者论中国法律传统中国政法大学出版社，1994年.
+    <div class="csl-block">欧中坦. 1994. 千方百计上京城：清朝的京控[M]. 高道蕴, 高鸿钧, 贺卫方, eds. 谢鹏程, trans.//美国学者论中国法律传统中国政法大学出版社，1994年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[14]	瞿同祖. 2010. 中国法律与中国社会[M]. 商务印书馆，2010年.
     <div class="csl-block">瞿同祖. 2010. 中国法律与中国社会[M]. 商务印书馆，2010年 (In Chinese)</div>
@@ -943,8 +943,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[69]	FISCHER T. 2015. Absurdes Spektakel um den Tod[N]，Die Zeit.
     <div class="csl-block">FISCHER T. 2015. Absurdes Spektakel um den Tod[N]，Die Zeit (In Chinese)</div>
   </div>
-  <div class="csl-entry">[70]	HABERMAS J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran.. MIT Press，1996年.
-    <div class="csl-block">HABERMAS J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran.. MIT Press，1996年 (In Chinese)</div>
+  <div class="csl-entry">[70]	HABERMAS J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans.. MIT Press，1996年.
+    <div class="csl-block">HABERMAS J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans.. MIT Press，1996年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[71]	HORSLEY J. 2006. Rule of law in China: incremental progress[M]. Bergsten C F, Gill B, Lardy N R, Mitchell D, eds.//China: The balance sheetPublic Affairs Press，2006年.
     <div class="csl-block">HORSLEY J. 2006. Rule of law in China: incremental progress[M]. Bergsten C F, Gill B, Lardy N R, Mitchell D, eds.//China: The balance sheetPublic Affairs Press，2006年 (In Chinese)</div>
@@ -1087,8 +1087,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[28]	Anonymous. 2002–2008. The wire[Z]. Blown Deadline Productions; HBO.
     <div class="csl-block">anonymous. 2002–2008. The wire[Z]. Blown Deadline Productions; HBO (In Chinese)</div>
   </div>
-  <div class="csl-entry">[29]	Anonymous. 2004. The Qur’an[M]. Abdel Haleem M A S, tran.. Oxford University Press，2004年.
-    <div class="csl-block">anonymous. 2004. The Qur’an[M]. Abdel Haleem M A S, tran.. Oxford University Press，2004年 (In Chinese)</div>
+  <div class="csl-entry">[29]	Anonymous. 2004. The Qur’an[M]. Abdel Haleem M A S, trans.. Oxford University Press，2004年.
+    <div class="csl-block">anonymous. 2004. The Qur’an[M]. Abdel Haleem M A S, trans.. Oxford University Press，2004年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[30]	Anonymous. 2009a. Lilly Leadbetter Fair Play Act of 2009[A]//Stat.
     <div class="csl-block">anonymous. 2009. Lilly Leadbetter Fair Play Act of 2009[A]//Stat. (In Chinese)</div>
@@ -1216,8 +1216,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[71]	APA STYLE [@APA_STYLE]. [no date]. Tweets[EB/OL].
     <div class="csl-block">APA STYLE [@APA_STYLE]. [no date]. Tweets[EB/OL] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[72]	ARISTOTLE. 1994. Poetics[M]. Butcher S H, tran.. The Internet Classics Archive，1994年.
-    <div class="csl-block">ARISTOTLE. 1994. Poetics[M]. Butcher S H, tran.. The Internet Classics Archive，1994年 (In Chinese)</div>
+  <div class="csl-entry">[72]	ARISTOTLE. 1994. Poetics[M]. Butcher S H, trans.. The Internet Classics Archive，1994年.
+    <div class="csl-block">ARISTOTLE. 1994. Poetics[M]. Butcher S H, trans.. The Internet Classics Archive，1994年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[73]	AUSTRALIAN GOVERNMENT PRODUCTIVITY COMMISSION, NEW ZEALAND PRODUCTIVITY COMMISSION. 2012. Strengthening trans-Tasman economic relations[R]. .
     <div class="csl-block">AUSTRALIAN GOVERNMENT PRODUCTIVITY COMMISSION, NEW ZEALAND PRODUCTIVITY COMMISSION. 2012. Strengthening trans-Tasman economic relations[R].  (In Chinese)</div>
@@ -1339,8 +1339,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[112]	FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).
     <div class="csl-block">FISTEK A, JESTER E, SONNENBERG K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[113]	FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books，2010年.
-    <div class="csl-block">FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books，2010年 (In Chinese)</div>
+  <div class="csl-entry">[113]	FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; trans.. Basic Books，2010年.
+    <div class="csl-block">FREUD S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; trans.. Basic Books，2010年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[114]	FRIED D, POLYAKOVA A. 2018. Democratic defense against disinformation[R]. Atlantic Council，2018年.
     <div class="csl-block">FRIED D, POLYAKOVA A. 2018. Democratic defense against disinformation[R]. Atlantic Council，2018年 (In Chinese)</div>
@@ -1375,8 +1375,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[124]	HARWELL M. 2018. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center，2018年.
     <div class="csl-block">HARWELL M. 2018. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center，2018年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[125]	HEIDEGGER M. 2008. On the essence of truth[M]. Krell D F, ed. Sallis J, tran.//Basic writingsHarper Perennial Modern Thought，2008年.
-    <div class="csl-block">HEIDEGGER M. 2008. On the essence of truth[M]. Krell D F, ed. Sallis J, tran.//Basic writingsHarper Perennial Modern Thought，2008年 (In Chinese)</div>
+  <div class="csl-entry">[125]	HEIDEGGER M. 2008. On the essence of truth[M]. Krell D F, ed. Sallis J, trans.//Basic writingsHarper Perennial Modern Thought，2008年.
+    <div class="csl-block">HEIDEGGER M. 2008. On the essence of truth[M]. Krell D F, ed. Sallis J, trans.//Basic writingsHarper Perennial Modern Thought，2008年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[126]	HESS A. 2019. Cats who take direction[N]，The New York Times, : C1. .
     <div class="csl-block">HESS A. 2019. Cats who take direction[N]，The New York Times, : C1. (In Chinese)</div>
@@ -1504,8 +1504,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[167]	PIAGET J, INHELDER B. 1966. The psychology of the child[M]. Quadrige，1966年.
     <div class="csl-block">PIAGET J, INHELDER B. 1966. La psychologie de l’enfant[M]. Quadrige，1966年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[168]	PIAGET J, INHELDER B. 1969. The psychology of the child[M]. Weaver H, tran.. 2 edition. Basic Books，1969年.
-    <div class="csl-block">PIAGET J, INHELDER B. 1969. The psychology of the child[M]. Weaver H, tran.. 2 edition. Basic Books，1969年 (In Chinese)</div>
+  <div class="csl-entry">[168]	PIAGET J, INHELDER B. 1969. The psychology of the child[M]. Weaver H, trans.. 2 edition. Basic Books，1969年.
+    <div class="csl-block">PIAGET J, INHELDER B. 1969. The psychology of the child[M]. Weaver H, trans.. 2 edition. Basic Books，1969年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[169]	PROJECT IMPLICIT. [no date]. Gender-Science IAT[Z].
     <div class="csl-block">PROJECT IMPLICIT. [no date]. Gender-Science IAT[Z] (In Chinese)</div>

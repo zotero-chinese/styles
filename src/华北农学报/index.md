@@ -313,7 +313,7 @@
   <div class="csl-entry">[42] 王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB](1998-08-16).</div>
   <div class="csl-entry">[43] 扬之水. 两宋茶诗与茶事[EB].</div>
   <div class="csl-entry">[44] Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
-  <div class="csl-entry">[45] Polo M. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">[45] Polo M. The travels of Marco Polo[M]. Marsden W, trans.. Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">[46] Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215. doi: <a href="https://doi.org/10.1177/009770049301900206">10.1177/009770049301900206</a>.</div>
   <div class="csl-entry">[47] Schfield R S. The impact of scarcity and plenty on population change in England[M]. Rotberg R I, Rabb T K, eds.//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   <div class="csl-entry">[48] Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
@@ -383,7 +383,7 @@
   <div class="csl-entry">[41] 佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[Z](2017-12-16).</div>
   <div class="csl-entry">[42] Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
   <div class="csl-entry">[43] Rosenthal A. White House tutors Kremlin in how a presidency works[N]. New York Times, 1990: A1.</div>
-  <div class="csl-entry">[44] Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran.. MIT Press, 1996.</div>
+  <div class="csl-entry">[44] Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans.. MIT Press, 1996.</div>
   <div class="csl-entry">[45] Horsley J. Rule of law in China: incremental progress[M]. Bergsten C F, Gill B, Lardy N R, Mitchell D, eds.//China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">[46] Anonymous. Department of Transportation Act: 89-670[S]//Stat. .</div>
   <div class="csl-entry">[47] Anonymous. Administrative Procedure Act § 6[S]//U.S.C. .</div>
@@ -473,8 +473,8 @@
   <div class="csl-entry">[34] Anonymous. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents[M]. Pridham K F, Limbo R, Schroeder M, eds.. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">[35] Amano N, Kondo H. Lexical characteristics of Japanese language[M]. Sansei-do, 2000.</div>
   <div class="csl-entry">[36] Piaget J, Inhelder B. The psychology of the child[M]. Quadrige, 1966.</div>
-  <div class="csl-entry">[37] Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, tran.. 2 edition. Basic Books, 1969.</div>
-  <div class="csl-entry">[38] Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books, 2010.</div>
+  <div class="csl-entry">[37] Piaget J, Inhelder B. The psychology of the child[M]. Weaver H, trans.. 2 edition. Basic Books, 1969.</div>
+  <div class="csl-entry">[38] Freud S. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; trans.. Basic Books, 2010.</div>
   <div class="csl-entry">[39] Rowling J K. Harry Potter and the sorceror’s stone[M]. Pottermore Publishing, 2015.</div>
   <div class="csl-entry">[40] Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology[M]. 5 edition. John Wiley &#38; Sons, 2010.</div>
   <div class="csl-entry">[41] Anonymous. APA handbook of the psychology of women[M]. Travis C B, White J W, eds.. American Psychological Association, 2018.</div>
@@ -486,15 +486,15 @@
   <div class="csl-entry">[47] Anonymous. The Stanford encyclopedia of philosophy[M]. Zalta E N, ed.. Summer 2019 ed. edition. Stanford University, 2019.</div>
   <div class="csl-entry">[48] Anonymous. The complete social scientist: A Kurt Lewin reader[M]. Gold M, ed.. American Psychological Association, 1999.</div>
   <div class="csl-entry">[49] Anonymous. King James Bible[M]. King James Bible Online, 2017.</div>
-  <div class="csl-entry">[50] Anonymous. The Qur’an[M]. Abdel Haleem M A S, tran.. Oxford University Press, 2004.</div>
+  <div class="csl-entry">[50] Anonymous. The Qur’an[M]. Abdel Haleem M A S, trans.. Oxford University Press, 2004.</div>
   <div class="csl-entry">[51] Anonymous. The Torah: The five books of Moses[M]. 3 edition. The Jewish Publication Society, 2015.</div>
-  <div class="csl-entry">[52] Aristotle. Poetics[M]. Butcher S H, tran.. The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">[52] Aristotle. Poetics[M]. Butcher S H, trans.. The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">[53] Shakespeare W. Much ado about nothing[M]. Mowat B A, Werstine P, eds.. Washington Square Press, 1995.</div>
   <div class="csl-entry">[54] Balsam K F, Martell C R, Jones K P, Safren S A. Affirmative cognitive behavior therapy with sexual and gender minority people[M]. Iwamasa G Y, Hays P A, eds.//Culturally responsive cognitive behavior therapy: Practice and supervision. 2 edition. American Psychological Association, 2019: 287-314.</div>
   <div class="csl-entry">[55] Weinstock R, Leong G B, Silva J A. Defining forensic psychiatry: Roles and responsibilities[M]. Rosner R, ed.//Principles and practise of forensic psychiatry. 2 edition. CRC Press, 2003: 7-13.</div>
   <div class="csl-entry">[56] Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]. McGoldrick M, Giordano J, Garcia-Preto N, eds.//Ethnicity and family therapy. 3 edition. Guilford Press, 2005: 55-63.</div>
   <div class="csl-entry">[57] Carcavilla González N. Auditory sensory therapy: Brain activation through music[M]. Garcia Meilán J J, ed.//Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
-  <div class="csl-entry">[58] Heidegger M. On the essence of truth[M]. Krell D F, ed. Sallis J, tran.//Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+  <div class="csl-entry">[58] Heidegger M. On the essence of truth[M]. Krell D F, ed. Sallis J, trans.//Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   <div class="csl-entry">[59] Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[M]. Balota D A, Marsh E J, eds.//Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
   <div class="csl-entry">[60] Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86. doi: <a href="https://doi.org/d4vb59">d4vb59</a>.</div>
   <div class="csl-entry">[61] Bronfenbrenner U. The social ecology of human development: A retrospective conclusion[M]. Bronfenbrenner U, ed.//Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
@@ -557,7 +557,7 @@
   <div class="csl-entry">[118] Anonymous. Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z]. American Pychological Association, 20172017.</div>
   <div class="csl-entry">[119] Anonymous. The lord of the rings: The fellowship of the ring[Z]. WingNut Films; The Saul Zaentz Company, 20012001.</div>
   <div class="csl-entry">[120] Anonymous. Goodbye children[Z]. Nouvelles Éditions de Films, 19871987.</div>
-  <div class="csl-entry">[121] Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002–20082002–2008.</div>
+  <div class="csl-entry">[121] Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002/20082002/2008.</div>
   <div class="csl-entry">[122] Anonymous. Lemons: Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
   <div class="csl-entry">[123] Anonymous. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]. Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21).</div>
   <div class="csl-entry">[124] Anonymous. Why you should make useless things[Z]. TED Conferences, 20182018.</div>
@@ -576,7 +576,7 @@
   <div class="csl-entry">[137] Glass I. Amusement park: 443[Z]. WBEZ Chicago, 2011(2011-08-12).</div>
   <div class="csl-entry">[138] de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z](1960-05-04).</div>
   <div class="csl-entry">[139] King M L Jr. I have a dream[Z]. American Rhetoric, 1963(1963-08-28).</div>
-  <div class="csl-entry">[140] Delacroix E. Faust attempts to seduce Marguerite[Z]1826–1827.</div>
+  <div class="csl-entry">[140] Delacroix E. Faust attempts to seduce Marguerite[Z]1826/1827.</div>
   <div class="csl-entry">[141] Wood G. American gothic[Z]1930.</div>
   <div class="csl-entry">[142] GDJ. Neural network deep learning prismatic[Z]2018.</div>
   <div class="csl-entry">[143] Rossman J, Palmer R. Sorting through our space junk[Z]2015.</div>

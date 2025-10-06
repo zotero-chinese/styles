@@ -189,7 +189,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾：大陆企业赴台投资指南. 北京: 九州出版社, 2013.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 编辑. 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社, 2012.</div>
   <div class="csl-entry">中国社会科学院语言研究所词典编辑室. 现代汉语词典. 修订本, 北京: 商务印书馆, 1996.</div>
-  <div class="csl-entry">中国图书馆学会. 图书馆学通讯. 1–4, 北京: 北京图书馆, 1957年.</div>
+  <div class="csl-entry">中国图书馆学会. 图书馆学通讯. 1～4, 北京: 北京图书馆, 1957年.</div>
   <div class="csl-entry">中国造纸学会. 中国造纸年鉴：2003. 北京: 中国轻工业出版社, 2003.</div>
   <div class="csl-entry">中国职工教育研究会, 编辑. 职工教育研究论文集. 北京: 人民教育出版社, 1985.</div>
   <div class="csl-entry">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用. 2013年4月16日.</div>
@@ -412,7 +412,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Anderson, M. “Getting Consistent with Consequences.” <i>Educational Leadership</i> 76.1 (2018): 26–33.</div>
   <div class="csl-entry">APA Education [@APAEducation]. “College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached].” <i>Twitter</i>, N.p., 29 June 2018. Web.</div>
   <div class="csl-entry">APA Style [@APA_Style]. “Tweets.” <i>Twitter</i>, N.p., N.d. Web. 1 Nov. 2019.</div>
-  <div class="csl-entry">Aristotle. <i>Poetics</i>. 349BC. Translated by S. H. Butcher, The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">Aristotle. <i>Poetics</i>. 349 BC. Translated by S. H. Butcher, The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">Australian Government Productivity Commission and New Zealand Productivity Commission. <i>Strengthening Trans-Tasman Economic Relations</i>. 2012.</div>
   <div class="csl-entry">Author, A. “How Workout Buddies Can Help Stave off Loneliness.” <i>The Washington Post</i> 15 Jan. 2019.</div>
   <div class="csl-entry">Avramova, N. “The Secret to a Long, Happy, Health Life? Think Age-Positive.” <i>CNN</i>, N.p., 3 Jan. 2019. Web.</div>

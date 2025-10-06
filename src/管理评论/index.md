@@ -132,7 +132,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">中华医学会湖北分会. 临床内科杂志[J]. 武汉: 1984, 1(1)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 北京: 1957(1–4)</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 北京: 1957(1～4)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. Washington, D.C.: 1883, 1(1)</div>
@@ -324,7 +324,7 @@
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R].2013</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告[R].7178999X–2006BAK04A10/10.2013, 2013</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告[R].7178999X～2006BAK04A10/10.2013, 2013</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Calkin D., Ager A., Thompson M. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report[R].RMRS-GTR-262, 2011: 8–9</div>

@@ -407,7 +407,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Anderson, M. “Getting Consistent with Consequences.” <i>Educational Leadership</i> 76. 1 (2018): 26–33.</div>
   <div class="csl-entry">APA Education [@APAEducation]. “College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached].” <i>Twitter</i>, 29 June 2018. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">APA Style [@APA_Style]. “Tweets.” <i>Twitter</i>. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>. Accessed 1 Nov. 2019.</div>
-  <div class="csl-entry">Aristotle. <i>Poetics</i>. 349BC. Trans. S. H. Butcher, The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">Aristotle. <i>Poetics</i>. 349 BC. Trans. S. H. Butcher, The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">Australian Government Productivity Commission and New Zealand Productivity Commission. <i>Strengthening Trans-Tasman Economic Relations</i>. 2012.</div>
   <div class="csl-entry">Author, A. “How Workout Buddies Can Help Stave off Loneliness.” <i>The Washington Post</i>, 15 January 2019.</div>
   <div class="csl-entry">Avramova, N. “The Secret to a Long, Happy, Health Life? Think Age-Positive.” <i>CNN</i>, 3 Jan. 2019. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
@@ -460,7 +460,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Fiske, S. T., et al. <i>Handbook of Social Psychology</i>. 5th ed., vol. 1, John Wiley &#38; Sons, 2010.</div>
   <div class="csl-entry">Fistek, A., et al. <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>. Milwaukee, WI, United States.</div>
   <div class="csl-entry">“Florida Mental Health Act.” 1971. <i>Fla. Stat.</i>, 2009.</div>
-  <div class="csl-entry">Freud, S. <i>The Interpretation of Dreams: The Complete and Definitive Text</i>. 1900. Ed. &#38; tran. J. Strachey, Basic Books, 2010.</div>
+  <div class="csl-entry">Freud, S. <i>The Interpretation of Dreams: The Complete and Definitive Text</i>. 1900. Ed. &#38; trans. J. Strachey, Basic Books, 2010.</div>
   <div class="csl-entry">Fried, D., and A. Polyakova. <i>Democratic Defense against Disinformation</i>. Atlantic Council, 2018.</div>
   <div class="csl-entry">Gaiman, N. “100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached].” <i>Facebook</i>, 22 Mar. 2018. <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.</div>
   <div class="csl-entry">GDJ. <i>Neural Network Deep Learning Prismatic</i>. 2018. Openclipart.</div>

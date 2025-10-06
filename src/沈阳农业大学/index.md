@@ -671,7 +671,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">29.</div><div class="csl-right-inline">Chamberlain HB. 1993. On the search for civil society in China[J]. Modern China. 19(2): 199–215.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">30.</div><div class="csl-right-inline">Polo M. 1997. The travels of Marco Polo[M]. Marsden W, tran.. Hertfordshire: Cumberland House, 1997</div>
+    <div class="csl-left-margin">30.</div><div class="csl-right-inline">Polo M. 1997. The travels of Marco Polo[M]. Marsden W, trans.. Hertfordshire: Cumberland House, 1997</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">31.</div><div class="csl-right-inline">Schfield RS. 1983. The impact of scarcity and plenty on population change in England[M]. Rotberg RI, Rabb TK, eds.//Cambridge, Mass.: Cambridge University Press, 1983: 55–88</div>
@@ -857,7 +857,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">40.</div><div class="csl-right-inline">Fischer T. 2015. Absurdes Spektakel um den Tod[N]. Die Zeit.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">41.</div><div class="csl-right-inline">Habermas J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, tran.. MIT Press, 1996</div>
+    <div class="csl-left-margin">41.</div><div class="csl-right-inline">Habermas J. 1996. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans.. MIT Press, 1996</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">42.</div><div class="csl-right-inline">Horsley J. 2006. Rule of law in China: incremental progress[M]. Bergsten CF, Gill B, Lardy NR, Mitchell D, eds.//Public Affairs Press, 2006</div>
@@ -1040,7 +1040,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">12.</div><div class="csl-right-inline">APA Style [@APA_Style]. [no date]. Tweets[EB]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">13.</div><div class="csl-right-inline">Aristotle. 1994. Poetics[M]. Butcher SH, tran.. The Internet Classics Archive, 1994</div>
+    <div class="csl-left-margin">13.</div><div class="csl-right-inline">Aristotle. 1994. Poetics[M]. Butcher SH, trans.. The Internet Classics Archive, 1994</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">14.</div><div class="csl-right-inline">Australian Government Productivity Commission, New Zealand Productivity Commission. 2012. Strengthening trans-Tasman economic relations[R]. </div>
@@ -1070,7 +1070,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">22.</div><div class="csl-right-inline">Blackwell DL, Lucas JW, Clarke TC. 2014. Summary health statistics for U.S. adults: National Health Interview Survey, 2012[R]. Centers for Disease Control and Prevention, 2014</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">23.</div><div class="csl-right-inline">Blair CB. 2015–2020. Stress, self-regulation and psychopathology in middle childhood[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020</div>
+    <div class="csl-left-margin">23.</div><div class="csl-right-inline">Blair CB. 2015/2020. Stress, self-regulation and psychopathology in middle childhood[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">24.</div><div class="csl-right-inline">Boddy J, Neumann T, Jennings S, Morrow V, Alderson P, Rees R, Gibson W. [no date]. Ethics principles[EB]</div>
@@ -1145,7 +1145,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">47.</div><div class="csl-right-inline">De Vries R, Nieuwenhuijze M, Buitendijk SE, the members of Midwifery Science Work Group. 2013. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery. 29(10): 1122–1128.</div>
    </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">48.</div><div class="csl-right-inline">Delacroix E. 1826–1827. Faust attempts to seduce Marguerite[Z]</div>
+    <div class="csl-left-margin">48.</div><div class="csl-right-inline">Delacroix E. 1826/1827. Faust attempts to seduce Marguerite[Z]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">49.</div><div class="csl-right-inline">D’Souza A, Wiseheart M. 2018. Cognitive effects of music and dance training in children[DS]. ICPSR, 2018</div>
@@ -1163,7 +1163,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">53.</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">54.</div><div class="csl-right-inline">Freud S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; tran.. Basic Books, 2010</div>
+    <div class="csl-left-margin">54.</div><div class="csl-right-inline">Freud S. 2010. The interpretation of dreams: The complete and definitive text[M]. Strachey J, ed. &#38; trans.. Basic Books, 2010</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">55.</div><div class="csl-right-inline">Fried D, Polyakova A. 2018. Democratic defense against disinformation[R]. Atlantic Council, 2018</div>
@@ -1199,7 +1199,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">65.</div><div class="csl-right-inline">Harwell M. 2018. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center, 2018</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">66.</div><div class="csl-right-inline">Heidegger M. 2008. On the essence of truth[M]. Krell DF, ed. Sallis J, tran.//Harper Perennial Modern Thought, 2008: 111–138</div>
+    <div class="csl-left-margin">66.</div><div class="csl-right-inline">Heidegger M. 2008. On the essence of truth[M]. Krell DF, ed. Sallis J, trans.//Harper Perennial Modern Thought, 2008: 111–138</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">67.</div><div class="csl-right-inline">Hess A. 2019. Cats who take direction[N]. The New York Times. : C1.</div>
@@ -1328,7 +1328,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">108.</div><div class="csl-right-inline">Piaget J, Inhelder B. 1966. The psychology of the child[M]. Quadrige, 1966</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">109.</div><div class="csl-right-inline">Piaget J, Inhelder B. 1969. The psychology of the child[M]. Weaver H, tran.. 2 edition. Basic Books, 1969</div>
+    <div class="csl-left-margin">109.</div><div class="csl-right-inline">Piaget J, Inhelder B. 1969. The psychology of the child[M]. Weaver H, trans.. 2 edition. Basic Books, 1969</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">110.</div><div class="csl-right-inline">Project Implicit. [no date]. Gender-Science IAT[Z]</div>
@@ -1472,10 +1472,10 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">156.</div><div class="csl-right-inline">Anonymous. 2001b. Burriola v. Greater Toledo YMCA[A]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">157.</div><div class="csl-right-inline">Anonymous. 2002–2008. The wire[Z]. Blown Deadline Productions; HBO, 2002–2008</div>
+    <div class="csl-left-margin">157.</div><div class="csl-right-inline">Anonymous. 2002/2008. The wire[Z]. Blown Deadline Productions; HBO, 2002/2008</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">158.</div><div class="csl-right-inline">Anonymous. 2004. The Qur’an[M]. Abdel Haleem MAS, tran.. Oxford University Press, 2004</div>
+    <div class="csl-left-margin">158.</div><div class="csl-right-inline">Anonymous. 2004. The Qur’an[M]. Abdel Haleem MAS, trans.. Oxford University Press, 2004</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">159.</div><div class="csl-right-inline">Anonymous. 2009a. Lilly Leadbetter Fair Play Act of 2009[A]//</div>

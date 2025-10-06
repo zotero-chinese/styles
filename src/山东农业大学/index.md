@@ -89,7 +89,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">库恩. 科学革命的结构：第 4 版[M]. 北京: 北京大学出版社, 2012</div>
   <div class="csl-entry">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008a, 52(6): 6-12</div>
   <div class="csl-entry">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008b, 52(6): 6-21</div>
-  <div class="csl-entry">李强. 化解医患矛盾需釜底抽薪(2012-05-03)[2013/03/25]</div>
+  <div class="csl-entry">李强. 化解医患矛盾需釜底抽薪(2012-05-03)[2013-03-25]</div>
   <div class="csl-entry">李幼平, 王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225-228</div>
   <div class="csl-entry">刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38-39</div>
   <div class="csl-entry">刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000</div>
@@ -117,7 +117,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003</div>
   <div class="csl-entry">武丽丽, 华一新, 张亚军, 刘英敏. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9</div>
   <div class="csl-entry">西安电子科技大学. 光折变自适应光外差探测方法: 中国[P]. 2002-03-06</div>
-  <div class="csl-entry">萧钰. 出版业信息化迈入快车道(2001-12-19)[2002/04/15]</div>
+  <div class="csl-entry">萧钰. 出版业信息化迈入快车道(2001-12-19)[2002-04-15]</div>
   <div class="csl-entry">徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010</div>
   <div class="csl-entry">杨保军. 新闻道德论[D]. 北京: 中国人民大学出版社, 2012</div>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75</div>
@@ -265,9 +265,9 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">实藤惠秀. 中国人留学日本史[M]. 香港: 香港中文大学出版社, 1982</div>
   <div class="csl-entry">唐振常. 师承与变法[M]//识史集. 上海: 上海古籍出版社, 1997</div>
   <div class="csl-entry">汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6)</div>
-  <div class="csl-entry">王明亮. 关于中国学术期刊标准化数据库系统工程的进展(1998-08-16)[1998/10/04]</div>
+  <div class="csl-entry">王明亮. 关于中国学术期刊标准化数据库系统工程的进展(1998-08-16)[1998-10-04]</div>
   <div class="csl-entry">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 1990(6): 68-73, 86</div>
-  <div class="csl-entry">扬之水. 两宋茶诗与茶事[2007/09/13]</div>
+  <div class="csl-entry">扬之水. 两宋茶诗与茶事[2007-09-13]</div>
   <div class="csl-entry">杨钟羲. 雪桥诗话续集. 沈阳: 辽沈书社</div>
   <div class="csl-entry">姚际恒. 古今伪书考</div>
   <div class="csl-entry">佚名. 四川会议厅暂行章程1910-09-03(第1—2页)</div>
@@ -320,7 +320,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">全国人大常委会. 中华人民共和国公司法. 2005年修订 版. , 2005</div>
   <div class="csl-entry">全国人大常委会. 中华人民共和国公司法. 2013年修正 版. , 2013</div>
   <div class="csl-entry">全国人大常委会. 中华人民共和国刑法修正案（十）. , 2017</div>
-  <div class="csl-entry">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查(2004-01-10)[2022/05/03]</div>
+  <div class="csl-entry">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查(2004-01-10)[2022-05-03]</div>
   <div class="csl-entry">王保树. 股份有限公司机关构造中的董事和董事会[M]//民商法论丛法律出版社, 1994: 110</div>
   <div class="csl-entry">王名扬. 美国行政法北京大学出版社, 2007</div>
   <div class="csl-entry">我妻栄. 新訂担保物権法有斐閣, 1971</div>
@@ -344,7 +344,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名. 陆红霞诉南通市发改委政府信息公开案(2015-07-06)</div>
   <div class="csl-entry">佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案(2017-12-16)</div>
   <div class="csl-entry">佚名. 被告人李宁、张磊贪污案一审开庭</div>
-  <div class="csl-entry">佚名. 法国行政法院网站[2016b/12/18]</div>
+  <div class="csl-entry">佚名. 法国行政法院网站[2016b-12-18]</div>
   <div class="csl-entry">佚名. 民法总则. , 日期不详</div>
   <div class="csl-entry">佚名. 包郑照诉苍南县人民政府强制拆除房屋案</div>
   <div class="csl-entry">Anonymous. United States <i>v.</i> Dino Nastasi et al.</div>
@@ -354,12 +354,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名. Strauß-Karikatur, Kunstfreiheit</div>
   <div class="csl-entry">佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律. , 日期不详</div>
   <div class="csl-entry">佚名. 平成26年版犯罪白書</div>
-  <div class="csl-entry">佚名. ジュリスト[2022k/09/01]</div>
+  <div class="csl-entry">佚名. ジュリスト[2022k-09-01]</div>
   <div class="csl-entry">佚名. 温家宝主持国务院会议 研究房地产业健康发展措施</div>
   <div class="csl-entry">[英]劳特派特. 奥本海国际法商务印书馆, 1971</div>
   <div class="csl-entry">於保不二雄. 付加物及び従物と抵当権[J]. 民商法雑誌, 1954, 29(5): 1</div>
   <div class="csl-entry">张新宝. 侵权责任法中国人民大学出版社, 2016</div>
-  <div class="csl-entry">赵耀彤. 一名基层法官眼里好律师的样子(2018-12-01)[2022/05/03]</div>
+  <div class="csl-entry">赵耀彤. 一名基层法官眼里好律师的样子(2018-12-01)[2022-05-03]</div>
   <div class="csl-entry">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定(2014-10-23)</div>
   <div class="csl-entry">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释(2018-02-06)</div>
   <div class="csl-entry">最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知(1993-11-12)</div>
@@ -373,10 +373,10 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Fischer T. Absurdes Spektakel um den Tod2015-09-29</div>
   <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracyMIT Press, 1996</div>
   <div class="csl-entry">Horsley J. Rule of law in China: incremental progress[M]//China: The balance sheetPublic Affairs Press, 2006</div>
-  <div class="csl-entry">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[2010/03/17]</div>
+  <div class="csl-entry">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[2010-03-17]</div>
   <div class="csl-entry">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Das Abtreibungsverbot des § 218 StGB, 1972</div>
   <div class="csl-entry">McDonell S. When China began streaming trials online(2016-09-30)[07/26/2022]</div>
-  <div class="csl-entry">Meidenbauer M. Wissenschaftliches Publizieren[2017/10/10]</div>
+  <div class="csl-entry">Meidenbauer M. Wissenschaftliches Publizieren[2017-10-10]</div>
   <div class="csl-entry">Poisson M. Le droit de la mer[J]. RGDIP, 2015a: 15-47</div>
   <div class="csl-entry">Poisson M. Le droit de la mer[M]//Le droit des Océans, 2015b: 12-48</div>
   <div class="csl-entry">Poisson M. Le droit de la mer en MéditerranéeCongrès de Marseille, 2016a</div>
@@ -478,7 +478,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Bergeson S. Really cool neutral plasmas[J]. Science, 2019, 363(6422): 33–34</div>
   <div class="csl-entry">Beyoncé. Formation. Parkwood; Columbia</div>
   <div class="csl-entry">Blackwell D. L., Lucas J. W., Clarke T. C. Summary health statistics for U.S. adults: National Health Interview Survey, 2012Centers for Disease Control and Prevention, 2014</div>
-  <div class="csl-entry">Blair C. B. Stress, self-regulation and psychopathology in middle childhoodEunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020</div>
+  <div class="csl-entry">Blair C. B. Stress, self-regulation and psychopathology in middle childhoodEunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020</div>
   <div class="csl-entry">Boddy J., Neumann T., Jennings S., Morrow V., Alderson P., Rees R., Gibson W. Ethics principles</div>
   <div class="csl-entry">Bologna C. What happens to your mind and body when you feel homesick?(2018-06-27)</div>
   <div class="csl-entry">Borenstein M., Hedges L., Higgins J., Rothstein H. Comprehensive meta-analysis. Biostat</div>

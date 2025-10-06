@@ -299,7 +299,7 @@
 <sup>42</sup> 王明亮．关于中国学术期刊标准化数据库系统工程的进展．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998-08-16<br>
 <sup>43</sup> 扬之水．两宋茶诗与茶事．<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>, 2007-09-13<br>
 <sup>44</sup> Brooks P. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000<br>
-<sup>45</sup> Polo M. The travels of Marco Polo. Marsden W tran. Hertfordshire: Cumberland House, 1997<br>
+<sup>45</sup> Polo M. The travels of Marco Polo. Marsden W trans. Hertfordshire: Cumberland House, 1997<br>
 <sup>46</sup> Chamberlain H B. On the search for civil society in China. Modern China, 1993, 19(2): 199-215<br>
 <sup>47</sup> Schfield R S. The impact of scarcity and plenty on population change in England. In: Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983, 55-88<br>
 <sup>48</sup> Nixon to Kissinger. 1969<br>
@@ -354,7 +354,7 @@
 <sup>41</sup> 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案<br>
 <sup>42</sup> Barbara Ward. Progress for a small planet. Harvard Business Review, 1979(Sep.-Oct.): 89<br>
 <sup>43</sup> Rosenthal A. White House tutors Kremlin in how a presidency works. New York Times, 1990-06-15<br>
-<sup>44</sup> Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy. Rehg W tran. MIT Press, 1996<br>
+<sup>44</sup> Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy. Rehg W trans. MIT Press, 1996<br>
 <sup>45</sup> Horsley J. Rule of law in China: incremental progress. In: China: The balance sheet. Public Affairs Press, 2006<br>
 <sup>46</sup> Department of Transportation Act. In: Stat. 1966, 931, 944-947<br>
 <sup>47</sup> Administrative Procedure Act § 6. In: U.S.C.<br>
@@ -441,8 +441,8 @@
 <sup>34</sup> Pridham K F, Limbo R, Schroeder M. Guided participation in pediatric nursing practice: Relationship-based teaching and learning with parents, children and adolescents. Springer Publishing Company, 2018<br>
 <sup>35</sup> Amano N, Kondo H. Lexical characteristics of Japanese language. Sansei-do, 2000<br>
 <sup>36</sup> Piaget J, Inhelder B. The psychology of the child. Quadrige, 1966<br>
-<sup>37</sup> Piaget J, Inhelder B. The psychology of the child. Weaver H tran. 2nd ed. Basic Books, 1969<br>
-<sup>38</sup> Freud S. The interpretation of dreams: The complete and definitive text. Strachey J tran. Basic Books, 2010<br>
+<sup>37</sup> Piaget J, Inhelder B. The psychology of the child. Weaver H trans. 2nd ed. Basic Books, 1969<br>
+<sup>38</sup> Freud S. The interpretation of dreams: The complete and definitive text. Strachey J trans. Basic Books, 2010<br>
 <sup>39</sup> Rowling J K. Harry Potter and the sorceror’s stone. Pottermore Publishing, 2015<br>
 <sup>40</sup> Fiske S T, Gilbert D T, Lindzey G. Handbook of social psychology. 5th ed. John Wiley &#38; Sons, 2010<br>
 <sup>41</sup> Travis C B, White J W. APA handbook of the psychology of women. American Psychological Association, 2018<br>
@@ -454,9 +454,9 @@
 <sup>47</sup> Zalta E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019<br>
 <sup>48</sup> Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999<br>
 <sup>49</sup> King James Bible. King James Bible Online, 2017<br>
-<sup>50</sup> The Qur’an. Abdel Haleem M A S tran. Oxford University Press, 2004<br>
+<sup>50</sup> The Qur’an. Abdel Haleem M A S trans. Oxford University Press, 2004<br>
 <sup>51</sup> The Torah: The five books of Moses. 3rd ed. The Jewish Publication Society, 2015<br>
-<sup>52</sup> Aristotle. Poetics. Butcher S H tran. The Internet Classics Archive, 1994<br>
+<sup>52</sup> Aristotle. Poetics. Butcher S H trans. The Internet Classics Archive, 1994<br>
 <sup>53</sup> Shakespeare W. Much ado about nothing. Washington Square Press, 1995<br>
 <sup>54</sup> Balsam K F, Martell C R, Jones K P, Safren S A. Affirmative cognitive behavior therapy with sexual and gender minority people. In: Culturally responsive cognitive behavior therapy: Practice and supervision. 2nd ed. American Psychological Association, 2019, 287-314<br>
 <sup>55</sup> Weinstock R, Leong G B, Silva J A. Defining forensic psychiatry: Roles and responsibilities. In: Principles and practise of forensic psychiatry. 2nd ed. CRC Press, 2003, 7-13<br>

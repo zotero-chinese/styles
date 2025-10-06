@@ -690,7 +690,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Brooks P. Troubling Confessions: Speaking Guilt in Law and Literature[M]. Chicago: University of Chicago Press, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. The Travels of Marco Polo[M]. Marsden W., tran. Hertfordshire: Cumberland House, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. The Travels of Marco Polo[M]. Marsden W., trans. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H. B. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. White House Tutors Kremlin in How a Presidency Works[N]. New York Times, 1990, 6(15): A1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy[M]. Rehg W., tran. MIT Press, 1996.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy[M]. Rehg W., trans. MIT Press, 1996.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley J. Rule of Law in China: Incremental Progress[A]. In: Bergsten C. F., Gill B., Lardy N. R., et al., eds. China: The balance sheet[M]. Public Affairs Press, 2006.</div>
@@ -1086,10 +1086,10 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Piaget J., Inhelder B. The Psychology of the Child[M]. Quadrige, 1966.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J., Inhelder B. The Psychology of the Child[M]. Weaver H., tran. 2nd ed. Basic Books, 1969.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J., Inhelder B. The Psychology of the Child[M]. Weaver H., trans. 2nd ed. Basic Books, 1969.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. The Interpretation of Dreams: The Complete and Definitive Text[M]. Strachey J., tran. Basic Books, 2010.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. The Interpretation of Dreams: The Complete and Definitive Text[M]. Strachey J., trans. Basic Books, 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Rowling J. K. Harry Potter and the Sorceror’s Stone[M]. Pottermore Publishing, 2015.</div>
@@ -1125,13 +1125,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">King James Bible[M]. King James Bible Online, 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an[M]. Abdel Haleem M. A. S., tran. Oxford University Press, 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an[M]. Abdel Haleem M. A. S., trans. Oxford University Press, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">The Torah: The Five Books of Moses[M]. 3rd ed. The Jewish Publication Society, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. Poetics[M]. Butcher S. H., tran. The Internet Classics Archive, 1994.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. Poetics[M]. Butcher S. H., trans. The Internet Classics Archive, 1994.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Shakespeare W. Much Ado about Nothing[M]. Washington Square Press, 1995.</div>
@@ -1149,7 +1149,7 @@
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Carcavilla González N. Auditory Sensory Therapy: Brain Activation through Music[A]. In: Garcia Meilán J. J., ed. Guía práctica de terapias estimulativas en el Alzhéimer[M]. Editorial Síntesis, 2015: 67-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger M. On the Essence of Truth[A]. Sallis J., tran. In: Krell D. F., ed. Basic writings[M]. Harper Perennial Modern Thought, 2008: 111-138.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger M. On the Essence of Truth[A]. Sallis J., trans. In: Krell D. F., ed. Basic writings[M]. Harper Perennial Modern Thought, 2008: 111-138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Sacchett C., Humphreys G. W. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[A]. In: Balota D. A., Marsh E. J., eds. Cognitive psychology: Key readings in cognition[M]. Psychology Press, 2004: 100-108.</div>

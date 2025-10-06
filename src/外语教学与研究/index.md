@@ -433,7 +433,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Anon. n.d. U.N. Charter art. 1, para. 3 [A].</div>
   <div class="csl-entry">APA Education [@APAEducation]. 2018. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached] [OL]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">APA Style [@APA_Style]. n.d. Tweets [OL]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a> (accessed 01/11/2019).</div>
-  <div class="csl-entry">Aristotle. 1994/349BC. <i>Poetics</i>, trans. S. H. Butcher [M]. The Internet Classics Archive.</div>
+  <div class="csl-entry">Aristotle. 1994/349 BC. <i>Poetics</i>, trans. S. H. Butcher [M]. The Internet Classics Archive.</div>
   <div class="csl-entry">Australian Government Productivity Commission &#38; New Zealand Productivity Commission. 2012. Strengthening trans-Tasman economic relations [R].</div>
   <div class="csl-entry">Author, A. 2019. How workout buddies can help stave off loneliness [N]. <i>The Washington Post</i> 2019-1-15.</div>
   <div class="csl-entry">Avramova, N. 2019. The secret to a long, happy, health life? Think age-positive [OL]. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>

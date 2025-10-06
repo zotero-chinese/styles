@@ -690,7 +690,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Brooks P. <i>Troubling confessions: Speaking guilt in law and literature</i>. Chicago, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. <i>The travels of Marco Polo</i>. Marsden Wtran. Hertfordshire, 1997.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Polo M. <i>The travels of Marco Polo</i>. Marsden Wtrans. Hertfordshire, 1997.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Chamberlain H B. On the search for civil society in China. <i>Modern China</i>, 1993, 19(2): 199-215.</div>
@@ -840,7 +840,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Rosenthal A. White House tutors Kremlin in how a presidency works. <i>New York Times</i>, 1990-06-15A1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. Rehg Wtran. 1996.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Habermas J. <i>Between facts and norms: contributions to a discourse theory of law and democracy</i>. Rehg Wtrans. 1996.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress//Bergsten C F, Gill B, Lardy N R, et al. <i>China: The balance sheet</i>. 2006.</div>
@@ -1086,10 +1086,10 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Piaget J, Inhelder B. <i>The psychology of the child</i>. 1966.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J, Inhelder B. <i>The psychology of the child</i>. Weaver Htran. 2nd ed. 1969.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Piaget J, Inhelder B. <i>The psychology of the child</i>. Weaver Htrans. 2nd ed. 1969.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. <i>The interpretation of dreams: The complete and definitive text</i>. Strachey Jtran. 2010.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Freud S. <i>The interpretation of dreams: The complete and definitive text</i>. Strachey Jtrans. 2010.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Rowling J K. <i>Harry Potter and the sorceror’s stone</i>. 2015.</div>
@@ -1125,13 +1125,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline"><i>King James Bible</i>. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline"><i>The Qur’an</i>. Abdel Haleem M A Stran. 2004.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline"><i>The Qur’an</i>. Abdel Haleem M A Strans. 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline"><i>The Torah: The five books of Moses</i>. 3rd ed. 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. <i>Poetics</i>. Butcher S Htran. 1994.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. <i>Poetics</i>. Butcher S Htrans. 1994.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Shakespeare W. <i>Much ado about nothing</i>. 1995.</div>
@@ -1149,7 +1149,7 @@
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Carcavilla González N. Auditory sensory therapy: Brain activation through music//Garcia Meilán J J. <i>Guía práctica de terapias estimulativas en el Alzhéimer</i>. 2015: 67-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger M. On the essence of truth. Sallis Jtran.//Krell D F. <i>Basic writings</i>. 2008: 111-138.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Heidegger M. On the essence of truth. Sallis Jtrans.//Krell D F. <i>Basic writings</i>. 2008: 111-138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Sacchett C, Humphreys G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts//Balota D A, Marsh E J. <i>Cognitive psychology: Key readings in cognition</i>. 2004: 100-108.</div>

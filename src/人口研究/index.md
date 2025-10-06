@@ -291,7 +291,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">佚名. [日期不详]. 上海县续志.</div>
   <div class="csl-entry">Brooks P. 2000. Troubling Confessions: Speaking Guilt in Law and Literature. Chicago: University of Chicago Press.</div>
   <div class="csl-entry">Chamberlain H. B. 1993. On the Search for Civil Society in China. Modern China, 19(2): 199-215.</div>
-  <div class="csl-entry">Polo M. 1997. The Travels of Marco Polo. Marsden W., tran.. Hertfordshire: Cumberland House.</div>
+  <div class="csl-entry">Polo M. 1997. The Travels of Marco Polo. Marsden W., trans.. Hertfordshire: Cumberland House.</div>
   <div class="csl-entry">Schfield R. S. 1983. The Impact of Scarcity and Plenty on Population Change in England. Rotberg R. I., T. K. Rabb, eds.//Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
 </div>
 
@@ -371,7 +371,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Canaris C.-W. 1990. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen. .</div>
   <div class="csl-entry">Chevallier M. 2003. L’État de droit. 4 edition. Paris: Montchrestien.</div>
   <div class="csl-entry">Fischer T. 2015. Absurdes Spektakel um den Tod. Die Zeit.</div>
-  <div class="csl-entry">Habermas J. 1996. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. Rehg W., tran.. MIT Press.</div>
+  <div class="csl-entry">Habermas J. 1996. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. Rehg W., trans.. MIT Press.</div>
   <div class="csl-entry">Horsley J. 2006. Rule of Law in China: Incremental Progress. Bergsten C. F., B. Gill, N. R. Lardy, D. Mitchell, eds.//China: The Balance Sheet. Public Affairs Press.</div>
   <div class="csl-entry">Joyeux-Prunel B. [no date]. L’histoire de l’art et le quantitatif[2010-03-17].</div>
   <div class="csl-entry">Kaufmann A. 1972. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. Baumann J., ed.//Das Abtreibungsverbot des § 218 StGB. 2 edition. .</div>
@@ -424,8 +424,8 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Anonymous. 1999. The Complete Social Scientist: A Kurt Lewin Reader. Gold M., ed.. American Psychological Association.</div>
   <div class="csl-entry">Anonymous. 2001a. The Lord of the Rings: The Fellowship of the Ring. WingNut Films; The Saul Zaentz Company.</div>
   <div class="csl-entry">Anonymous. 2001b. Burriola v. Greater Toledo YMCA.</div>
-  <div class="csl-entry">Anonymous. 2002–2008. The Wire. Blown Deadline Productions; HBO.</div>
-  <div class="csl-entry">Anonymous. 2004. The Qur’an. Abdel Haleem M. A. S., tran.. Oxford University Press.</div>
+  <div class="csl-entry">Anonymous. 2002/2008. The Wire. Blown Deadline Productions; HBO.</div>
+  <div class="csl-entry">Anonymous. 2004. The Qur’an. Abdel Haleem M. A. S., trans.. Oxford University Press.</div>
   <div class="csl-entry">Anonymous. 2009a. Lilly Leadbetter Fair Play Act of 2009: 111-2//Stat. .</div>
   <div class="csl-entry">Anonymous. 2009b. Florida Mental Health Act//Fla. Stat. .</div>
   <div class="csl-entry">Anonymous. 2009c. Protection of Human Subjects.</div>
@@ -468,7 +468,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Anonymous. [no date]. U.N. Charter Art. 1, Para. 3. .</div>
   <div class="csl-entry">APA Education [@APAEducation]. 2018. College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached](2018-06-29).</div>
   <div class="csl-entry">APA Style [@APA_Style]. [no date]. Tweets[2019-11-01].</div>
-  <div class="csl-entry">Aristotle. 1994. Poetics. Butcher S. H., tran.. The Internet Classics Archive.</div>
+  <div class="csl-entry">Aristotle. 1994. Poetics. Butcher S. H., trans.. The Internet Classics Archive.</div>
   <div class="csl-entry">Australian Government Productivity Commission, New Zealand Productivity Commission. 2012. Strengthening Trans-Tasman Economic Relations. .</div>
   <div class="csl-entry">Author A. 2019. How Workout Buddies Can Help Stave off Loneliness. The Washington Post.</div>
   <div class="csl-entry">Avramova N. 2019. The Secret to a Long, Happy, Health Life? Think Age-Positive(2019-01-03).</div>
@@ -478,7 +478,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Bergeson S. 2019. Really Cool Neutral Plasmas. Science, 363(6422): 33-34.</div>
   <div class="csl-entry">Beyoncé. 2016. Formation. Parkwood; Columbia.</div>
   <div class="csl-entry">Blackwell D. L., J. W. Lucas, T. C. Clarke. 2014. Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012. Centers for Disease Control and Prevention.</div>
-  <div class="csl-entry">Blair C. B. 2015–2020. Stress, Self-Regulation and Psychopathology in Middle Childhood: 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
+  <div class="csl-entry">Blair C. B. 2015/2020. Stress, Self-Regulation and Psychopathology in Middle Childhood: 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
   <div class="csl-entry">Boddy J., T. Neumann, S. Jennings, V. Morrow, P. Alderson, 等. [no date]. Ethics Principles.</div>
   <div class="csl-entry">Bologna C. 2018. What Happens to Your Mind and Body When You Feel Homesick?(2018-06-27).</div>
   <div class="csl-entry">Borenstein M., L. Hedges, J. Higgins, H. Rothstein. 2014. Comprehensive Meta-Analysis. Biostat.</div>
@@ -503,13 +503,13 @@ Qian等 (2009a)<br>
   <div class="csl-entry">de Beauvoir S. 1960. Simone de Beauvoir Discusses the Art of Writing(1960-05-04).</div>
   <div class="csl-entry">De Boer D., T. LaFavor. 2018. The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach(2018-04-26/29).</div>
   <div class="csl-entry">De Vries R., M. Nieuwenhuijze, S. E. Buitendijk, the members of Midwifery Science Work Group. 2013. What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands. Midwifery, 29(10): 1122-1128.</div>
-  <div class="csl-entry">Delacroix E. 1826–1827. Faust Attempts to Seduce Marguerite.</div>
+  <div class="csl-entry">Delacroix E. 1826/1827. Faust Attempts to Seduce Marguerite.</div>
   <div class="csl-entry">D’Souza A., M. Wiseheart. 2018. Cognitive Effects of Music and Dance Training in Children. ICPSR.</div>
   <div class="csl-entry">Epocrates. 2019a. Epocrates Medical References. App Store.</div>
   <div class="csl-entry">Epocrates. 2019b. Interaction Check: Aspirin + Sertraline. Google Play Store.</div>
   <div class="csl-entry">Fiske S. T., D. T. Gilbert, G. Lindzey. 2010. Handbook of Social Psychology. 5 edition. John Wiley &#38; Sons.</div>
   <div class="csl-entry">Fistek A., E. Jester, K. Sonnenberg. 2017. Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate(2017-07-12/15).</div>
-  <div class="csl-entry">Freud S. 2010. The Interpretation of Dreams: The Complete and Definitive Text. Strachey J., ed. &#38; tran.. Basic Books.</div>
+  <div class="csl-entry">Freud S. 2010. The Interpretation of Dreams: The Complete and Definitive Text. Strachey J., ed. &#38; trans.. Basic Books.</div>
   <div class="csl-entry">Fried D., A. Polyakova. 2018. Democratic Defense against Disinformation. Atlantic Council.</div>
   <div class="csl-entry">Gaiman N. 2018. 100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached](2018-03-22).</div>
   <div class="csl-entry">GDJ. 2018. Neural Network Deep Learning Prismatic.</div>
@@ -521,7 +521,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Guarino B. 2017. How Will Humanity React to Alien Life? Psychologists Have Some Predictions. The Washington Post.</div>
   <div class="csl-entry">Harris L. 2014. Instructional Leadership Perceptions and Practices of Elementary School Leaders. University of Virginia.</div>
   <div class="csl-entry">Harwell M. 2018. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change. National Education Policy Center.</div>
-  <div class="csl-entry">Heidegger M. 2008. On the Essence of Truth. Krell D. F., ed. Sallis J., tran.//Basic Writings. Harper Perennial Modern Thought: 111-138.</div>
+  <div class="csl-entry">Heidegger M. 2008. On the Essence of Truth. Krell D. F., ed. Sallis J., trans.//Basic Writings. Harper Perennial Modern Thought: 111-138.</div>
   <div class="csl-entry">Hess A. 2019. Cats Who Take Direction. The New York Times, : C1.</div>
   <div class="csl-entry">Hiremath S. C., S. Kumar, F. Lu, A. Salehi. 2016. Using Metaphors to Present Concepts across Different Intellectual Domains: 9,367,592. 2016.</div>
   <div class="csl-entry">Ho H.-K. 2014. Teacher Preparation for Early Childhood Special Education in Taiwan. ERIC.</div>
@@ -564,7 +564,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Pew Research Center. 2018. American Trends Panel Wave 26.</div>
   <div class="csl-entry">Piaget J. 1972. Intellectual Evolution from Adolescence to Adulthood. Human Development, 15(1): 1-12.</div>
   <div class="csl-entry">Piaget J., B. Inhelder. 1966. The Psychology of the Child. Quadrige.</div>
-  <div class="csl-entry">Piaget J., B. Inhelder. 1969. The Psychology of the Child. Weaver H., tran.. 2 edition. Basic Books.</div>
+  <div class="csl-entry">Piaget J., B. Inhelder. 1969. The Psychology of the Child. Weaver H., trans.. 2 edition. Basic Books.</div>
   <div class="csl-entry">Project Implicit. [no date]. Gender-Science IAT.</div>
   <div class="csl-entry">Rinaldi J. 2016. Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted.</div>
   <div class="csl-entry">Rossman J., R. Palmer. 2015. Sorting through Our Space Junk.</div>

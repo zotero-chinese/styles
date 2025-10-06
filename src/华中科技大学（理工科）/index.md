@@ -693,7 +693,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">P. Brooks. Troubling confessions: Speaking guilt in law and literature. Chicago: University of Chicago Press, 2000</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">M. Polo. The travels of Marco Polo. W. Marsden, tran. Hertfordshire: Cumberland House, 1997</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">M. Polo. The travels of Marco Polo. W. Marsden, trans. Hertfordshire: Cumberland House, 1997</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">H. B. Chamberlain. On the search for civil society in China. Modern China, 1993, 19(2): 199-215</div>
@@ -843,7 +843,7 @@
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">A. Rosenthal. White House tutors Kremlin in how a presidency works. New York Times, 1990-06-15(A1)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">J. Habermas. Between facts and norms: contributions to a discourse theory of law and democracy. W. Rehg, tran. MIT Press, 1996</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">J. Habermas. Between facts and norms: contributions to a discourse theory of law and democracy. W. Rehg, trans. MIT Press, 1996</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">J. Horsley. Rule of law in China: incremental progress, in: China: The balance sheet, Public Affairs Press, 2006</div>
@@ -1089,10 +1089,10 @@
     <div class="csl-left-margin">[36]</div><div class="csl-right-inline">J. Piaget, B. Inhelder. The psychology of the child. Quadrige, 1966</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">J. Piaget, B. Inhelder. The psychology of the child (second edition). H. Weaver, tran. Basic Books, 1969</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">J. Piaget, B. Inhelder. The psychology of the child (second edition). H. Weaver, trans. Basic Books, 1969</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">S. Freud. The interpretation of dreams: The complete and definitive text. J. Strachey, tran. Basic Books, 2010</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">S. Freud. The interpretation of dreams: The complete and definitive text. J. Strachey, trans. Basic Books, 2010</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[39]</div><div class="csl-right-inline">J. K. Rowling. Harry Potter and the sorceror’s stone. Pottermore Publishing, 2015</div>
@@ -1128,13 +1128,13 @@
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">King James Bible. King James Bible Online, 2017</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an. M. A. S. Abdel Haleem, tran. Oxford University Press, 2004</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">The Qur’an. M. A. S. Abdel Haleem, trans. Oxford University Press, 2004</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">The Torah: The five books of Moses (third edition). The Jewish Publication Society, 2015</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. Poetics. S. H. Butcher, tran. The Internet Classics Archive, 1994</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Aristotle. Poetics. S. H. Butcher, trans. The Internet Classics Archive, 1994</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">W. Shakespeare. Much ado about nothing. Washington Square Press, 1995</div>

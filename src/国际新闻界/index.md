@@ -192,7 +192,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">(1981). Coffee drinking and cancer of the pancreas. <i>British Medical Journal, 283</i>(6292), 628.</div>
   <div class="csl-entry">（1988）。卷 39 乞致仕第一。载《苏魏公文集》（590）。中华书局。</div>
   <div class="csl-entry">（2011）。周易外传：卷 5。载王夫之（主编），《船山全书》（1109）。岳麓书社。</div>
-  <div class="csl-entry">(2012, Jun. 14). <i>Dublin Core metadata element set: version 1.1</i>. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
+  <div class="csl-entry">(2012, June 14). <i>Dublin Core metadata element set: version 1.1</i>. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
   <div class="csl-entry">(N.d.). <i>Information and documentation—The Dublin Core metadata element set</i>.</div>
 </div>
 
@@ -344,12 +344,12 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Canaris, C.-W. (1990). Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen.</div>
   <div class="csl-entry">Chevallier, M. (2003). <i>L’État de droit</i> (4th Ed.). Montchrestien.</div>
   <div class="csl-entry">Dreier, R., &#38; Paulson, S. (Eds.). (2003). <i>Rechtsphilosophie Studienausgabe</i> (2nd Ed.). UTB Uni-Taschenbücher Verlag.</div>
-  <div class="csl-entry">Fischer, T. (2015, Sep. 29). Absurdes Spektakel um den Tod. <i>Die Zeit</i>.</div>
+  <div class="csl-entry">Fischer, T. (2015, Sept. 29). Absurdes Spektakel um den Tod. <i>Die Zeit</i>.</div>
   <div class="csl-entry">Habermas, J. (1996). <i>Between facts and norms: contributions to a discourse theory of law and democracy</i> (W. Rehg, Trans.). MIT Press.</div>
   <div class="csl-entry">Horsley, J. (2006). Rule of law in China: incremental progress. In C. F. Bergsten, B. Gill, N. R. Lardy, &#38; D. Mitchell (Eds.), <i>China: The balance sheet</i>. Public Affairs Press.</div>
   <div class="csl-entry">Joyeux-Prunel, B. <i>L’histoire de l’art et le quantitatif</i>. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a></div>
   <div class="csl-entry">Kaufmann, A. (1972). Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In J. Baumann (Ed.), <i>Das Abtreibungsverbot des § 218 StGB</i>.</div>
-  <div class="csl-entry">McDonell, S. (2016, Sep. 30). <i>When China began streaming trials online</i>. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a></div>
+  <div class="csl-entry">McDonell, S. (2016, Sept. 30). <i>When China began streaming trials online</i>. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a></div>
   <div class="csl-entry">Meidenbauer, M. <i>Wissenschaftliches Publizieren</i>. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a></div>
   <div class="csl-entry">Poisson, M. (2015a). Le droit de la mer. <i>RGDIP</i>, 15-47.</div>
   <div class="csl-entry">Poisson, M. (2015b). Le droit de la mer. In <i>Le droit des Océans</i> (pp. 12-48).</div>
@@ -357,7 +357,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Poisson, M. (2016b). <i>Le droit de la mer en Méditerranée</i>.</div>
   <div class="csl-entry">Poisson, M. (2016c). <i>Le droit de la mer appliqué à la Méditerranée</i> [Thèse de doctorat]. l’Université de Marseille.</div>
   <div class="csl-entry">Reich, C. A. (1964). The new property. <i>Yale Law Journal, 73</i>(5), 733-787. <a href="https://doi.org/10.2307/794645">https://doi.org/10.2307/794645</a></div>
-  <div class="csl-entry">Rosenthal, A. (1990, Jun. 15). White House tutors Kremlin in how a presidency works. <i>New York Times</i>, A1. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
+  <div class="csl-entry">Rosenthal, A. (1990, June 15). White House tutors Kremlin in how a presidency works. <i>New York Times</i>, A1. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
   <div class="csl-entry">Roxin, C. (2006). <i>Strafrecht Allgemeiner Teil</i> (4th Ed.). C. H. Beck.</div>
   <div class="csl-entry">Schwab, M. (2013). In <i>Münchener Kommentar BGB</i>.</div>
   <div class="csl-entry">Vogel, B. (2017). Rechtsgüterschutz und Normgeltung. <i>Zeitschrift für die gesamte Strafrechtswissenschaft, 129</i>(3), 629-649. <a href="https://doi.org/10.1515/zstw-2017-0033">https://doi.org/10.1515/zstw-2017-0033</a></div>
@@ -407,7 +407,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">American Psychological Association. (n.d.). <i>APA dictionary of psychology</i>.</div>
   <div class="csl-entry">American Psychological Association. (n.d.). Positive transference. In <i>APA dictionary of psychology</i>.</div>
   <div class="csl-entry">Anderson, M. (2018). Getting consistent with consequences. <i>Educational Leadership, 76</i>(1), 26-33.</div>
-  <div class="csl-entry">APA Education [@APAEducation]. (2018, Jun. 29). <i>College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]</i>. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a></div>
+  <div class="csl-entry">APA Education [@APAEducation]. (2018, June 29). <i>College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]</i>. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a></div>
   <div class="csl-entry">APA Style [@APA_Style]. <i>Tweets</i>. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a></div>
   <div class="csl-entry">Aristotle. (1994). <i>Poetics</i> (S. H. Butcher, Trans.). The Internet Classics Archive.</div>
   <div class="csl-entry">Australian Government Productivity Commission &#38; New Zealand Productivity Commission. (2012). <i>Strengthening trans-Tasman economic relations</i>.</div>
@@ -422,7 +422,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Blackwell, D. L., Lucas, J. W., &#38; Clarke, T. C. (2014). <i>Summary health statistics for U.S. adults: National Health Interview Survey, 2012</i>. Centers for Disease Control and Prevention.</div>
   <div class="csl-entry">Blair, C. B. (2015–2020). <i>Stress, self-regulation and psychopathology in middle childhood</i>. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
   <div class="csl-entry">Boddy, J., Neumann, T., Jennings, S., Morrow, V., Alderson, P., Rees, R., &#38; Gibson, W. <i>Ethics principles</i>. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a></div>
-  <div class="csl-entry">Bologna, C. (2018, Jun. 27). <i>What happens to your mind and body when you feel homesick?</i> <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a></div>
+  <div class="csl-entry">Bologna, C. (2018, June 27). <i>What happens to your mind and body when you feel homesick?</i> <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a></div>
   <div class="csl-entry">Borenstein, M., Hedges, L., Higgins, J., &#38; Rothstein, H. (2014). <i>Comprehensive meta-analysis</i>. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a></div>
   <div class="csl-entry">Bowie, D. (2016). <i>Blackstar</i>. Columbia.</div>
   <div class="csl-entry">British Cardiovascular Society Working Group. (2016). <i>British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients</i>. British Cardiovascular Society.</div>
@@ -474,7 +474,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Hutcheson, V. H. (2012). <i>Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents</i> [Master’s thesis, The College of William &#38; Mary]. William &#38; Mary Digital Archive. <a href="https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf">https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf</a></div>
   <div class="csl-entry">Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Wollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetma, A., Aaron, A., Court, B. B. C., &#38; Joseph, D. (1996). The NCEP/NCAR 40-year reanalysis project. <i>Bulletin of the American Meteorological Society, 77</i>(3), 437-471. <a href="https://doi.org/fg6rf9">https://doi.org/fg6rf9</a></div>
   <div class="csl-entry">King, M. L., Jr. (1963). <i>I have a dream</i>. American Rhetoric.</div>
-  <div class="csl-entry">Klymkowsky, M. (2018, Sep. 15). <i>Can we talk scientifically about free will?</i> <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a></div>
+  <div class="csl-entry">Klymkowsky, M. (2018, Sept. 15). <i>Can we talk scientifically about free will?</i> <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a></div>
   <div class="csl-entry">KS in NJ. (2019, Jan. 15). From this article, it sounds like men are figuring something out that women have known forever. I know of many. <i>The Washington Post</i>. <a href="https://wapo.st/2HDToGJ">https://wapo.st/2HDToGJ</a></div>
   <div class="csl-entry">Lamar, K. (2017). Humble. In <i>Damn</i>. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment.</div>
   <div class="csl-entry">Leuker, C., Samartzidis, L., Hertwig, R., &#38; Pleskac, T. J. (2018). <i>When money talks: Judging risk and coercion in high-paying clinical trials</i>. PsyArXiv.</div>
@@ -495,12 +495,12 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Merriam-Webster. (n.d.). Self-report. In <i>Merriam-Webster.com dictionary</i>.</div>
   <div class="csl-entry">Mirabito, L. A., &#38; Heck, N. C. (2016). Bringing LGBTQ youth theater into the spotlight. <i>Psychology of Sexual Orientation and Gender Diversity, 3</i>(4), 499-500. <a href="https://doi.org/10.1037/sgd0000205">https://doi.org/10.1037/sgd0000205</a></div>
   <div class="csl-entry">Morey, M. C. (2019). Physical activity and exercise in older adults. <i>UpToDate</i>. <a href="https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults">https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults</a></div>
-  <div class="csl-entry">National Aeronautics and Space Administration [@nasa]. (2018, Sep. 12). <i>I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!</i> <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a></div>
+  <div class="csl-entry">National Aeronautics and Space Administration [@nasa]. (2018, Sept. 12). <i>I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!</i> <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a></div>
   <div class="csl-entry">National Cancer Institute. (2018). <i>Facing forward: Life after cancer treatment</i>. U.S. Department of Health and Human Services, National Institutes of Health.</div>
   <div class="csl-entry">National Center for Education Statistics. (2016). <i>Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009</i>. <a href="https://doi.org/10.3886/ICPSR335531.v3">https://doi.org/10.3886/ICPSR335531.v3</a></div>
   <div class="csl-entry">National Institute of Mental Health. (2018, Nov. 28). <i>Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain</i>. <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a></div>
   <div class="csl-entry">National Nurses United. <i>What employers should do to protect nurses from Zika</i>. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a></div>
-  <div class="csl-entry">News From Science. (2018, Jun. 26). <i>These frogs walk instead of hop. https://scimag.2KlriwH</i>. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a></div>
+  <div class="csl-entry">News From Science. (2018, June 26). <i>These frogs walk instead of hop. https://scimag.2KlriwH</i>. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a></div>
   <div class="csl-entry">Oregan Youth Authority. (2011). <i>Recidivism outcomes</i>.</div>
   <div class="csl-entry">O’Shea, M. (2018). <i>Understanding proactive behavior in the workplace as a function of gender</i>.</div>
   <div class="csl-entry">Pachur, T., &#38; Scheibehenne, B. (n.d.). Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach. <i>Psychonomic Bulletin &#38; Review</i>.</div>
@@ -537,7 +537,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Vedantam, S. (2015). <i>Hidden brain</i>. NPR.</div>
   <div class="csl-entry">Weinstock, R., Leong, G. B., &#38; Silva, J. A. (2003). Defining forensic psychiatry: Roles and responsibilities. In R. Rosner (Ed.), <i>Principles and practise of forensic psychiatry</i> (pp. 7-13). CRC Press.</div>
   <div class="csl-entry">Weir, K. (2017, Jan.). Forgiveness can improve mental and physical health. <i>Monitor on Psychology, 48</i>(1), 30.</div>
-  <div class="csl-entry">White, B. (2018, Jun. 21). <i>I treasure every minute we spent together #koko [image attached]</i>. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a></div>
+  <div class="csl-entry">White, B. (2018, June 21). <i>I treasure every minute we spent together #koko [image attached]</i>. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a></div>
   <div class="csl-entry">Wood, G. (1930). <i>American gothic</i>.</div>
   <div class="csl-entry">World Health Organization. (2018, Mar.). <i>Questions and answers on immunization and vaccine safety</i>. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a></div>
   <div class="csl-entry">World Health Organization. (2019). <i>International statistical classification of diseases and related health problems</i> (11th Ed.). World Health Organization.</div>

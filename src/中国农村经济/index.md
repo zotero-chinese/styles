@@ -280,7 +280,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">44.佚名，n.d.：《上海县续志》（第1卷）。</div>
   <div class="csl-entry">45.Brooks, P., 2000, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press.</div>
   <div class="csl-entry">46.Chamberlain, H. B., 1993, “On the Search for Civil Society in China”, <i>Modern China</i>, 19(2): 199-215.</div>
-  <div class="csl-entry">47.Polo, M., 1997, <i>The Travels of Marco Polo</i>, W. Marsden, tran., Hertfordshire: Cumberland House.</div>
+  <div class="csl-entry">47.Polo, M., 1997, <i>The Travels of Marco Polo</i>, W. Marsden, trans., Hertfordshire: Cumberland House.</div>
   <div class="csl-entry">48.Schfield, R. S., 1983, <i>The Impact of Scarcity and Plenty on Population Change in England</i>, in R. I. Rotberg, and T. K. Rabb (eds.) <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 55-88.</div>
 </div>
 
@@ -360,7 +360,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">67.Chevallier, M., 2003, <i>L’État de droit</i> (4th ed.), Paris: Montchrestien.</div>
   <div class="csl-entry">68.Dreier, R., and S. Paulson, 2003, <i>Rechtsphilosophie Studienausgabe</i> (2nd ed.), Heidelberg: UTB Uni-Taschenbücher Verlag.</div>
   <div class="csl-entry">69.Fischer, T., 2015, “Absurdes Spektakel um den Tod”, <i>Die Zeit</i>.</div>
-  <div class="csl-entry">70.Habermas, J., 1996, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, W. Rehg, tran., MIT Press.</div>
+  <div class="csl-entry">70.Habermas, J., 1996, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, W. Rehg, trans., MIT Press.</div>
   <div class="csl-entry">71.Horsley, J., 2006, <i>Rule of Law in China: Incremental Progress</i>, in C. F. Bergsten, B. Gill, N. R. Lardy, and D. Mitchell (eds.) <i>China: The Balance Sheet</i>, Public Affairs Press.</div>
   <div class="csl-entry">72.Joyeux-Prunel, B., n.d., <i>L’histoire de l’art et le quantitatif</i>, <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   <div class="csl-entry">73.Kaufmann, A., 1972, <i>Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht</i>, in J. Baumann (ed.) <i>Das Abtreibungsverbot des § 218 StGB</i> (2nd ed.).</div>
@@ -408,7 +408,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">20.Anon, 1992, <i>Texas v. Morales</i>, in <i>S.W.2d</i> (Vol. 826), 201.</div>
   <div class="csl-entry">21.Anon, 2001, <i>Burriola v. Greater Toledo YMCA</i>, in <i>F.Supp.2d</i> (Vol. 133), 1034.</div>
   <div class="csl-entry">22.Anon, 2002/2008, <i>The Wire</i>, Blown Deadline Productions; HBO.</div>
-  <div class="csl-entry">23.Anon, 2004, <i>The Qur’an</i>, M. A. S. Abdel Haleem, tran., Oxford University Press.</div>
+  <div class="csl-entry">23.Anon, 2004, <i>The Qur’an</i>, M. A. S. Abdel Haleem, trans., Oxford University Press.</div>
   <div class="csl-entry">24.Anon, 2009a, <i>Lilly Leadbetter Fair Play Act of 2009</i>, in <i>Stat.</i> (Vol. 123), 5.</div>
   <div class="csl-entry">25.Anon, 2009b, <i>Florida Mental Health Act</i>, in <i>Fla. Stat.</i></div>
   <div class="csl-entry">26.Anon, 2009c, <i>Protection of Human Subjects</i>, in <i>C.F.R.</i> (Vol. 45).</div>
@@ -433,7 +433,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">45.Anon, n.d., <i>U.N. Charter Art. 1, Para. 3</i>.</div>
   <div class="csl-entry">46.APA Education [@APAEducation], 2018, <i>College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached]</i>, <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
   <div class="csl-entry">47.APA Style [@APA_Style], n.d., <i>Tweets</i>, <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
-  <div class="csl-entry">48.Aristotle, 1994, <i>Poetics</i>, S. H. Butcher, tran., The Internet Classics Archive.</div>
+  <div class="csl-entry">48.Aristotle, 1994, <i>Poetics</i>, S. H. Butcher, trans., The Internet Classics Archive.</div>
   <div class="csl-entry">49.Australian Government Productivity Commission and New Zealand Productivity Commission, 2012, “Strengthening Trans-Tasman Economic Relations”, <a href="https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf">https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf</a>.</div>
   <div class="csl-entry">50.Author, A., 2019, “How Workout Buddies Can Help Stave off Loneliness”, <i>The Washington Post</i>.</div>
   <div class="csl-entry">51.Avramova, N., 2019, <i>The Secret to a Long, Happy, Health Life? Think Age-Positive</i>, <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>.</div>
@@ -480,7 +480,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">92.Fistek, A., E. Jester, and K. Sonnenberg, 2017, <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>, Milwaukee, WI, United States.</div>
   <div class="csl-entry">93.Fogarty, M., 2016, <i>How to Diagram a Sentence (Absolute Basics)</i>, YouTube.</div>
   <div class="csl-entry">94.Forman, M., 1975, <i>One Flew over the Cuckoo’s Nest</i>, United Artists.</div>
-  <div class="csl-entry">95.Freud, S., 2010, <i>The Interpretation of Dreams: The Complete and Definitive Text</i>, J. Strachey, tran., Basic Books.</div>
+  <div class="csl-entry">95.Freud, S., 2010, <i>The Interpretation of Dreams: The Complete and Definitive Text</i>, J. Strachey, trans., Basic Books.</div>
   <div class="csl-entry">96.Fried, D., and A. Polyakova, 2018, “Democratic Defense against Disinformation”, <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a>.</div>
   <div class="csl-entry">97.Gaiman, N., 2018, <i>100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached]</i>, <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>.</div>
   <div class="csl-entry">98.GDJ, 2018, <i>Neural Network Deep Learning Prismatic</i>, Openclipart.</div>
@@ -496,7 +496,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">108.Hacker Hughes, J., 2017, <i>Military Veteran Psychological Health and Social Care: Contemporary Approaches</i>, Routledge.</div>
   <div class="csl-entry">109.Harris, L., 2014, “Instructional Leadership Perceptions and Practices of Elementary School Leaders”, Unpublished Doctoral Dissertation, University of Virginia.</div>
   <div class="csl-entry">110.Harwell, M., 2018, “Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change”, <a href="https://nepc.colorado.edu/publication/SES">https://nepc.colorado.edu/publication/SES</a>.</div>
-  <div class="csl-entry">111.Heidegger, M., 2008, <i>On the Essence of Truth</i>, J. Sallis, tran., in D. F. Krell (ed.) <i>Basic Writings</i>, Harper Perennial Modern Thought, 111-138.</div>
+  <div class="csl-entry">111.Heidegger, M., 2008, <i>On the Essence of Truth</i>, J. Sallis, trans., in D. F. Krell (ed.) <i>Basic Writings</i>, Harper Perennial Modern Thought, 111-138.</div>
   <div class="csl-entry">112.Hess, A., 2019, “Cats Who Take Direction”, <i>The New York Times</i>.</div>
   <div class="csl-entry">113.Hiremath, S. C., S. Kumar, F. Lu, and A. Salehi, 2016, <i>Using Metaphors to Present Concepts across Different Intellectual Domains</i>, U.S.</div>
   <div class="csl-entry">114.Ho, H. K., 2014, “Teacher Preparation for Early Childhood Special Education in Taiwan”, ERIC Preprint ED545393, <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
@@ -544,7 +544,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">156.Pew Research Center, 2018, <i>American Trends Panel Wave 26</i>, <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   <div class="csl-entry">157.Piaget, J., 1972, “Intellectual Evolution from Adolescence to Adulthood”, <i>Human Development</i>, 15(1): 1-12.</div>
   <div class="csl-entry">158.Piaget, J., and B. Inhelder, 1966, <i>The Psychology of the Child</i>, Quadrige.</div>
-  <div class="csl-entry">159.Piaget, J., and B. Inhelder, 1969, <i>The Psychology of the Child</i> (2nd ed.), H. Weaver, tran., Basic Books.</div>
+  <div class="csl-entry">159.Piaget, J., and B. Inhelder, 1969, <i>The Psychology of the Child</i> (2nd ed.), H. Weaver, trans., Basic Books.</div>
   <div class="csl-entry">160.Pridham, K. F., R. Limbo, and M. Schroeder, 2018, <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>, Springer Publishing Company.</div>
   <div class="csl-entry">161.Project Implicit, n.d., <i>Gender-Science IAT</i>.</div>
   <div class="csl-entry">162.Richardson, F., 1973, <i>Brain and Intelligence: The Ecology of Child Development</i>, National Educational Press, 113-123.</div>

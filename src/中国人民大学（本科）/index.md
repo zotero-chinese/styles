@@ -1542,7 +1542,7 @@
     <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Patsy Mink Equal Opportunity in Education Act, 20 U.S.C § 1681 <i>et seq.</i> (1972).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act, Fla. Stat. § 394 (1971 and 2009).</div>
+    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act, Fla. Stat. § 394 (1971 &#38; 2009).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[183]</div><div class="csl-right-inline"><i>Federal Real Property Reform: How Cutting Red Tape and Better Management Count Achieve Billions in Savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>. (2016). [Testimony of Norman Dong].</div>

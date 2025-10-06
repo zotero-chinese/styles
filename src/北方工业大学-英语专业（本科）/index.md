@@ -567,7 +567,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Chamberlain, H. B., 1993. On the Search for Civil Society in China[J], <i>Modern China</i>, 19(2): 199-215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Polo, M., 1997. <i>The Travels of Marco Polo</i>[M]. tran. William Marsden. Hertfordshire: Cumberland House.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Polo, M., 1997. <i>The Travels of Marco Polo</i>[M]. trans. William Marsden. Hertfordshire: Cumberland House.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Schfield, R. S., 1983. The Impact of Scarcity and Plenty on Population Change in England[A]. In R. I. Rotberg &#38; T. K. Rabb (eds.). <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>[M]. Cambridge, Mass.: Cambridge University Press: 55-88.</div>
@@ -786,7 +786,7 @@
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">Brandeis, L. D., 1913. What Publicity Can Do[J], <i>Harper’s Weekly</i>: 10.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">Habermas, J., 1996. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>[M]. tran. William Rehg. MIT Press.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">Habermas, J., 1996. <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>[M]. trans. William Rehg. MIT Press.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[27]</div><div class="csl-right-inline">Horsley, J., 2006. Rule of Law in China: Incremental Progress[A]. In C. Fred Bergsten, Bates Gill, Nicholas R. Lardy &#38; Derek Mitchell (eds.). <i>China: The Balance Sheet</i>[M]. Public Affairs Press.</div>
@@ -1044,7 +1044,7 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Anon, 2002/2008. The Wire[Z]. Blown Deadline Productions; HBO.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Anon, 2004. <i>The Qur’an</i>[M]. tran. M. A. S. Abdel Haleem. Oxford University Press.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Anon, 2004. <i>The Qur’an</i>[M]. trans. M. A. S. Abdel Haleem. Oxford University Press.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Anon, 2009a. Lilly Leadbetter Fair Play Act of 2009: 111-2[A]. In <i>Stat.</i>: Vol. 123[M]. 5.</div>
@@ -1119,7 +1119,7 @@
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">APA Style [@APA_Style], [2019]. Tweets[EB/OL]. [2019-11-01]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Aristotle, 1994. <i>Poetics</i>[M]. tran. S. H. Butcher. The Internet Classics Archive.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Aristotle, 1994. <i>Poetics</i>[M]. trans. S. H. Butcher. The Internet Classics Archive.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Australian Government Productivity Commission &#38; New Zealand Productivity Commission, 2012. Strengthening Trans-Tasman Economic Relations[R].</div>
@@ -1260,7 +1260,7 @@
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Forman, M. (dir.), 1975. One Flew over the Cuckoo’s Nest[Z]. United Artists.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Freud, S., 2010. <i>The Interpretation of Dreams: The Complete and Definitive Text</i>[M]. tran. J. Strachey. Basic Books.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Freud, S., 2010. <i>The Interpretation of Dreams: The Complete and Definitive Text</i>[M]. trans. J. Strachey. Basic Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Fried, D. &#38; A. Polyakova, 2018. Democratic Defense against Disinformation[R]. Atlantic Council.</div>
@@ -1308,7 +1308,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Harwell, M., 2018. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change[R]. National Education Policy Center.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Heidegger, M., 2008. On the Essence of Truth[A]. tran. J. Sallis. In D. F. Krell (ed.). <i>Basic Writings</i>[M]. Harper Perennial Modern Thought: 111-138.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Heidegger, M., 2008. On the Essence of Truth[A]. trans. J. Sallis. In D. F. Krell (ed.). <i>Basic Writings</i>[M]. Harper Perennial Modern Thought: 111-138.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Hess, A., 2019. Cats Who Take Direction[N], <i>The New York Times</i>, 2019-01-03(C1).</div>
@@ -1452,7 +1452,7 @@
     <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Piaget, J. &#38; B. Inhelder, 1966. <i>The Psychology of the Child</i>[M]. Quadrige.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Piaget, J. &#38; B. Inhelder, 1969. <i>The Psychology of the Child</i>[M]. tran. H. Weaver. 2nd ed. Basic Books.</div>
+    <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Piaget, J. &#38; B. Inhelder, 1969. <i>The Psychology of the Child</i>[M]. trans. H. Weaver. 2nd ed. Basic Books.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[160]</div><div class="csl-right-inline">Pridham, K. F., R. Limbo &#38; M. Schroeder (eds.), 2018. <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>[M]. Springer Publishing Company.</div>

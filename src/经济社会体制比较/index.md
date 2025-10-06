@@ -248,7 +248,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, 1969. “Nixon to Kissinger.”(1969-02-01).</div>
   <div class="csl-entry">Brooks P., 2000. “Troubling confessions: Speaking guilt in law and literature.”. Chicago: University of Chicago Press.</div>
   <div class="csl-entry">Chamberlain H.B., 1993. “On the search for civil society in China.” <i>Modern China</i>. 19(2): 199–215.</div>
-  <div class="csl-entry">Polo M., 1997. “The travels of Marco Polo.”. Marsden W, tran.. Hertfordshire: Cumberland House.</div>
+  <div class="csl-entry">Polo M., 1997. “The travels of Marco Polo.”. Marsden W, trans.. Hertfordshire: Cumberland House.</div>
   <div class="csl-entry">Schfield R.S., 1983. “The impact of scarcity and plenty on population change in England.”. Rotberg R I, Rabb T K, eds.//<i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>  Cambridge, Mass.: Cambridge University Press: 55–88.</div>
   <div class="csl-entry">狄葆贤, [日期不详]：“平等阁笔记”. 上海: 有正书局。</div>
   <div class="csl-entry">杜威·佛克马, 1999：“走向新世界主义”. 王宁, 薛晓源, 编//《全球化与后殖民批评》北京: 中央编译出版社: 247–266。</div>
@@ -327,7 +327,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, [no date]. “United States <i>v.</i> Dino Nastasi et al.”.</div>
   <div class="csl-entry">Barbara Ward, 1979. “Progress for a small planet.” <i>Harvard Business Review</i>(Sep.-Oct.): 89[2022-07-26].</div>
   <div class="csl-entry">Brandeis L.D., 1913. “What publicity can do.” <i>Harper’s Weekly</i>: 10.</div>
-  <div class="csl-entry">Habermas J., 1996. “Between facts and norms: contributions to a discourse theory of law and democracy.”. Rehg W, tran.. MIT Press.</div>
+  <div class="csl-entry">Habermas J., 1996. “Between facts and norms: contributions to a discourse theory of law and democracy.”. Rehg W, trans.. MIT Press.</div>
   <div class="csl-entry">Horsley J., 2006. “Rule of law in China: incremental progress.”. Bergsten C F, Gill B, Lardy N R, et al., eds.//<i>China: The Balance Sheet</i>  Public Affairs Press.</div>
   <div class="csl-entry">McDonell S., 2016. “When China began streaming trials online.”(2016-09-30)[2022-07-26].</div>
   <div class="csl-entry">Reich C.A., 1964. “The new property.” <i>Yale Law Journal</i>. 73(5): 733–787.</div>
@@ -424,8 +424,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, 1999. “The complete social scientist: A Kurt Lewin reader.”. Gold M, ed.. American Psychological Association.</div>
   <div class="csl-entry">Anonymous, 2001a. “The lord of the rings: The fellowship of the ring.”. WingNut Films; The Saul Zaentz Company.</div>
   <div class="csl-entry">Anonymous, 2001b. “Burriola v. Greater Toledo YMCA.”.</div>
-  <div class="csl-entry">Anonymous, 2002–2008. “The wire.”. Blown Deadline Productions; HBO.</div>
-  <div class="csl-entry">Anonymous, 2004. “The Qur’an.”. Abdel Haleem M A S, tran.. Oxford University Press.</div>
+  <div class="csl-entry">Anonymous, 2002/2008. “The wire.”. Blown Deadline Productions; HBO.</div>
+  <div class="csl-entry">Anonymous, 2004. “The Qur’an.”. Abdel Haleem M A S, trans.. Oxford University Press.</div>
   <div class="csl-entry">Anonymous, 2009a. “Lilly Leadbetter Fair Play Act of 2009.”//<i>Stat.</i>  .</div>
   <div class="csl-entry">Anonymous, 2009b. “Florida Mental Health Act.”//<i>Fla. Stat.</i>  .</div>
   <div class="csl-entry">Anonymous, 2009c. “Protection of human subjects.”.</div>
@@ -468,7 +468,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous, [no date]. “U.N. Charter art. 1, para. 3.”. .</div>
   <div class="csl-entry">APA Education [@APAEducation], 2018. “College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached].”(2018-06-29).</div>
   <div class="csl-entry">APA Style [@APA_Style], [no date]. “Tweets.”[2019-11-01].</div>
-  <div class="csl-entry">Aristotle, 1994. “Poetics.”. Butcher S H, tran.. The Internet Classics Archive.</div>
+  <div class="csl-entry">Aristotle, 1994. “Poetics.”. Butcher S H, trans.. The Internet Classics Archive.</div>
   <div class="csl-entry">Australian Government Productivity Commission &#38; New Zealand Productivity Commission, 2012. “Strengthening trans-Tasman economic relations.”. .</div>
   <div class="csl-entry">Author A., 2019. “How workout buddies can help stave off loneliness.” <i>The Washington Post</i>.</div>
   <div class="csl-entry">Avramova N., 2019. “The secret to a long, happy, health life? Think age-positive.”(2019-01-03).</div>
@@ -478,7 +478,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bergeson S., 2019. “Really cool neutral plasmas.” <i>Science</i>. 363(6422): 33–34.</div>
   <div class="csl-entry">Beyoncé, 2016. “Formation.”. Parkwood; Columbia.</div>
   <div class="csl-entry">Blackwell D.L., Lucas J.W. &#38; Clarke T.C., 2014. “Summary health statistics for U.S. adults: National Health Interview Survey, 2012.”. Centers for Disease Control and Prevention.</div>
-  <div class="csl-entry">Blair C.B., 2015–2020. “Stress, self-regulation and psychopathology in middle childhood.”. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
+  <div class="csl-entry">Blair C.B., 2015/2020. “Stress, self-regulation and psychopathology in middle childhood.”. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
   <div class="csl-entry">Boddy J., Neumann T., Jennings S., et al., [no date]. “Ethics principles.”.</div>
   <div class="csl-entry">Bologna C., 2018. “What happens to your mind and body when you feel homesick?”(2018-06-27).</div>
   <div class="csl-entry">Borenstein M., Hedges L., Higgins J., et al., 2014. “Comprehensive meta-analysis.”. Biostat.</div>
@@ -503,13 +503,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">de Beauvoir S., 1960. “Simone de Beauvoir discusses the art of writing.”(1960-05-04).</div>
   <div class="csl-entry">De Boer D. &#38; LaFavor T., 2018. “The art and significance of successfully identifying resilient individuals A person-focused approach.”(2018-04-26/29).</div>
   <div class="csl-entry">De Vries R., Nieuwenhuijze M., Buitendijk S.E., et al., 2013. “What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands.” <i>Midwifery</i>. 29(10): 1122–1128.</div>
-  <div class="csl-entry">Delacroix E., 1826–1827. “Faust attempts to seduce Marguerite.”.</div>
+  <div class="csl-entry">Delacroix E., 1826/1827. “Faust attempts to seduce Marguerite.”.</div>
   <div class="csl-entry">D’Souza A. &#38; Wiseheart M., 2018. “Cognitive effects of music and dance training in children.”. ICPSR.</div>
   <div class="csl-entry">Epocrates, 2019a. “Epocrates medical references.”. App Store.</div>
   <div class="csl-entry">Epocrates, 2019b. “Interaction Check: Aspirin + Sertraline.”. Google Play Store.</div>
   <div class="csl-entry">Fiske S.T., Gilbert D.T. &#38; Lindzey G., 2010. “Handbook of social psychology.”. 5 edition. John Wiley &#38; Sons.</div>
   <div class="csl-entry">Fistek A., Jester E. &#38; Sonnenberg K., 2017. “Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate.”(2017-07-12/15).</div>
-  <div class="csl-entry">Freud S., 2010. “The interpretation of dreams: The complete and definitive text.”. Strachey J, ed. &#38; tran.. Basic Books.</div>
+  <div class="csl-entry">Freud S., 2010. “The interpretation of dreams: The complete and definitive text.”. Strachey J, ed. &#38; trans.. Basic Books.</div>
   <div class="csl-entry">Fried D. &#38; Polyakova A., 2018. “Democratic defense against disinformation.”. Atlantic Council.</div>
   <div class="csl-entry">Gaiman N., 2018. “100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached].”(2018-03-22).</div>
   <div class="csl-entry">GDJ, 2018. “Neural network deep learning prismatic.”.</div>
@@ -521,7 +521,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Guarino B., 2017. “How will humanity react to alien life? Psychologists have some predictions.” <i>The Washington Post</i>.</div>
   <div class="csl-entry">Harris L., 2014. “Instructional leadership perceptions and practices of elementary school leaders.”. University of Virginia.</div>
   <div class="csl-entry">Harwell M., 2018. “Don’t expect too much: The limited usefulness of common SES measures and a prescription for change.”. National Education Policy Center.</div>
-  <div class="csl-entry">Heidegger M., 2008. “On the essence of truth.”. Krell D F, ed. Sallis J, tran.//<i>Basic Writings</i>  Harper Perennial Modern Thought: 111–138.</div>
+  <div class="csl-entry">Heidegger M., 2008. “On the essence of truth.”. Krell D F, ed. Sallis J, trans.//<i>Basic Writings</i>  Harper Perennial Modern Thought: 111–138.</div>
   <div class="csl-entry">Hess A., 2019. “Cats who take direction.” <i>The New York Times</i>: C1.</div>
   <div class="csl-entry">Hiremath S.C., Kumar S., Lu F., et al., 2016. “Using metaphors to present concepts across different intellectual domains.”. 2016.</div>
   <div class="csl-entry">Ho H.-K., 2014. “Teacher preparation for early childhood special education in Taiwan.”. ERIC.</div>
@@ -564,7 +564,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Pew Research Center, 2018. “American trends panel Wave 26.”.</div>
   <div class="csl-entry">Piaget J., 1972. “Intellectual evolution from adolescence to adulthood.” <i>Human Development</i>. 15(1): 1–12.</div>
   <div class="csl-entry">Piaget J. &#38; Inhelder B., 1966. “The psychology of the child.”. Quadrige.</div>
-  <div class="csl-entry">Piaget J. &#38; Inhelder B., 1969. “The psychology of the child.”. Weaver H, tran.. 2 edition. Basic Books.</div>
+  <div class="csl-entry">Piaget J. &#38; Inhelder B., 1969. “The psychology of the child.”. Weaver H, trans.. 2 edition. Basic Books.</div>
   <div class="csl-entry">Project Implicit, [no date]. “Gender-Science IAT.”.</div>
   <div class="csl-entry">Rinaldi J., 2016. “Photograph series of a boy who finds his footing after abuse by those he trusted.”.</div>
   <div class="csl-entry">Rossman J. &#38; Palmer R., 2015. “Sorting through our space junk.”.</div>

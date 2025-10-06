@@ -291,7 +291,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">佚名. 上海县续志: 卷 1 疆域</div>
   <div class="csl-entry">Brooks P. 2000. Troubling Confessions: Speaking Guilt in Law and Literature. Chicago: University of Chicago Press</div>
   <div class="csl-entry">Chamberlain H B. 1993. On the search for civil society in China. Mod China, 19(2): 199-215</div>
-  <div class="csl-entry">Polo M. 1997. The Travels of Marco Polo. Marsden W, tran. Hertfordshire: Cumberland House</div>
+  <div class="csl-entry">Polo M. 1997. The Travels of Marco Polo. Marsden W, trans. Hertfordshire: Cumberland House</div>
   <div class="csl-entry">Schfield R S. 1983. The impact of scarcity and plenty on population change in England. In: Rotberg R I, Rabb T K, eds. Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society. Cambridge, Mass.: Cambridge University Press. 55-88</div>
 </div>
 
@@ -371,7 +371,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Chevallier M. 2003. L’État de droit. 4th ed. Paris: Montchrestien</div>
   <div class="csl-entry">Dreier R, Paulson S. 2003. Rechtsphilosophie Studienausgabe. 2nd ed. Heidelberg: UTB Uni-Taschenbücher Verlag</div>
   <div class="csl-entry">Fischer T. 2015. Absurdes Spektakel um den Tod. Die Zeit, 2015-09-29</div>
-  <div class="csl-entry">Habermas J. 1996. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. Rehg W, tran. MIT Press</div>
+  <div class="csl-entry">Habermas J. 1996. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. Rehg W, trans. MIT Press</div>
   <div class="csl-entry">Horsley J. 2006. Rule of law in China: incremental progress. In: Bergsten C F, Gill B, Lardy N R, Mitchell D, eds. China: The Balance Sheet. Public Affairs Press</div>
   <div class="csl-entry">Joyeux-Prunel B. [2010]. L’histoire de l’art et le quantitatif. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a></div>
   <div class="csl-entry">Kaufmann A. 1972. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In: Baumann J, ed. Das Abtreibungsverbot des § 218 StGB. 2nd ed.</div>
@@ -419,7 +419,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Anon. 1992. Texas v. Morales. In: S.W.2d: Vol. 826. 201</div>
   <div class="csl-entry">Anon. 2001. Burriola v. Greater Toledo YMCA. In: F.Supp.2d: Vol. 133. 1034</div>
   <div class="csl-entry">Anon. 2002/2008. The wire. Blown Deadline Productions; HBO</div>
-  <div class="csl-entry">Anon. 2004. The Qur’an. Abdel Haleem M A S, tran. Oxford University Press</div>
+  <div class="csl-entry">Anon. 2004. The Qur’an. Abdel Haleem M A S, trans. Oxford University Press</div>
   <div class="csl-entry">Anon. 2009a. Lilly Leadbetter Fair Play Act of 2009: 111-2. In: Stat.: Vol. 123. 5</div>
   <div class="csl-entry">Anon. 2009b. Florida Mental Health Act. In: Fla. Stat.</div>
   <div class="csl-entry">Anon. 2009c. Protection of human subjects. In: C.F.R.: Vol. 45</div>
@@ -444,7 +444,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Anon. U.N. Charter art. 1, para. 3</div>
   <div class="csl-entry">APA Education [@APAEducation]. 2018. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a></div>
   <div class="csl-entry">APA Style [@APA_Style]. [2019]. Tweets. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a></div>
-  <div class="csl-entry">Aristotle. 1994. Poetics. Butcher S H, tran. The Internet Classics Archive</div>
+  <div class="csl-entry">Aristotle. 1994. Poetics. Butcher S H, trans. The Internet Classics Archive</div>
   <div class="csl-entry">Australian Government Productivity Commission, New Zealand Productivity Commission. 2012. Strengthening Trans-Tasman Economic Relations</div>
   <div class="csl-entry">Author A. 2019. How workout buddies can help stave off loneliness. The Washington Post, 2019-01-15</div>
   <div class="csl-entry">Avramova N. 2019. The secret to a long, happy, health life? Think age-positive. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a></div>
@@ -491,7 +491,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Fistek A, Jester E, Sonnenberg K. 2017. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate. Milwaukee, WI, United States</div>
   <div class="csl-entry">Fogarty M. 2016. How to diagram a sentence (absolute basics). YouTube</div>
   <div class="csl-entry">Forman M. 1975. One flew over the cuckoo’s nest. United Artists</div>
-  <div class="csl-entry">Freud S. 2010. The Interpretation of Dreams: The Complete and Definitive Text. Strachey J, tran. Basic Books</div>
+  <div class="csl-entry">Freud S. 2010. The Interpretation of Dreams: The Complete and Definitive Text. Strachey J, trans. Basic Books</div>
   <div class="csl-entry">Fried D, Polyakova A. 2018. Democratic Defense against Disinformation. Technical Report. Atlantic Council</div>
   <div class="csl-entry">Gaiman N. 2018. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached]. <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a></div>
   <div class="csl-entry">GDJ. 2018. Neural network deep learning prismatic. Openclipart</div>
@@ -507,7 +507,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Hacker Hughes J. 2017. Military Veteran Psychological Health and Social Care: Contemporary Approaches. Routledge</div>
   <div class="csl-entry">Harris L. 2014. Instructional leadership perceptions and practices of elementary school leaders. Unpublished Doctoral Dissertation. University of Virginia</div>
   <div class="csl-entry">Harwell M. 2018. Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change. Policy Brief. National Education Policy Center</div>
-  <div class="csl-entry">Heidegger M. 2008. On the essence of truth. Sallis J, tran. In: Krell D F, ed. Basic Writings. Harper Perennial Modern Thought. 111-138</div>
+  <div class="csl-entry">Heidegger M. 2008. On the essence of truth. Sallis J, trans. In: Krell D F, ed. Basic Writings. Harper Perennial Modern Thought. 111-138</div>
   <div class="csl-entry">Hess A. 2019. Cats who take direction. The New York Times, 2019-01-03(C1)</div>
   <div class="csl-entry">Hiremath S C, Kumar S, Lu F, Salehi A. 2016. Using metaphors to present concepts across different intellectual domains. U.S. Patent, 9,367,592, 2016</div>
   <div class="csl-entry">Ho H-K. 2014. Teacher preparation for early childhood special education in Taiwan. ERIC</div>
@@ -555,7 +555,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Pew Research Center. 2018. American trends panel Wave 26. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a></div>
   <div class="csl-entry">Piaget J. 1972. Intellectual evolution from adolescence to adulthood. Hum Dev, 15(1): 1-12</div>
   <div class="csl-entry">Piaget J, Inhelder B. 1966. The Psychology of the Child. Quadrige</div>
-  <div class="csl-entry">Piaget J, Inhelder B. 1969. The Psychology of the Child. Weaver H, tran. 2nd ed. Basic Books</div>
+  <div class="csl-entry">Piaget J, Inhelder B. 1969. The Psychology of the Child. Weaver H, trans. 2nd ed. Basic Books</div>
   <div class="csl-entry">Pridham K F, Limbo R, Schroeder M. 2018. Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents. Springer Publishing Company</div>
   <div class="csl-entry">Project Implicit. Gender-Science IAT</div>
   <div class="csl-entry">Richardson F. 1973. Brain and Intelligence: The Ecology of Child Development. National Educational Press. 113-123</div>

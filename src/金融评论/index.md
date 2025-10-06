@@ -269,7 +269,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">汪疑今（1936）：《江苏的小农及其副业》，《中国经济》，第6期。</div>
   <div class="csl-entry">王明亮（1998）：《关于中国学术期刊标准化数据库系统工程的进展》，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。</div>
   <div class="csl-entry">魏丽英（1990）：《论近代西北人口波动的若干主要原因》，《社会科学》（兰州），第6期。</div>
-  <div class="csl-entry">谢兴尧compiler（1986）：《荣庆日记》，西北大学出版社。</div>
+  <div class="csl-entry">谢兴尧编撰（1986）：《荣庆日记》，西北大学出版社。</div>
   <div class="csl-entry">扬之水：《两宋茶诗与茶事》，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>
   <div class="csl-entry">杨钟羲（1991）：《雪桥诗话续集》卷五，辽沈书社，影印本。</div>
   <div class="csl-entry">姚际恒：《古今伪书考》卷三，光绪三年苏州文学山房活字本。</div>
@@ -420,7 +420,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Bergeson, S. (2019): “Really Cool Neutral Plasmas”, <i>Science</i>, 363, 33-34.</div>
   <div class="csl-entry">Beyoncé (2016): “Formation”, In: <i>Lemonade</i>, Parkwood; Columbia.</div>
   <div class="csl-entry">Blackwell, D. L., J. W. Lucas and T. C. Clarke (2014): <i>Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012</i>, Report, Centers for Disease Control and Prevention.</div>
-  <div class="csl-entry">Blair, C. B. (2015–2020): <i>Stress, Self-Regulation and Psychopathology in Middle Childhood</i>, Grant, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
+  <div class="csl-entry">Blair, C. B. (2015/2020): <i>Stress, Self-Regulation and Psychopathology in Middle Childhood</i>, Grant, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development.</div>
   <div class="csl-entry">Boddy, J., T. Neumann, S. Jennings, V. Morrow, P. Alderson, R. Rees and W. Gibson: <i>Ethics Principles</i>, The research ethics guidebook: A resource for social scientists, <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>
   <div class="csl-entry">Bologna, C. (2018): <i>What Happens to Your Mind and Body When You Feel Homesick?</i>, HuffPost, <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>.</div>
   <div class="csl-entry">Borenstein, M., L. Hedges, J. Higgins and H. Rothstein (2014): <i>Comprehensive Meta-Analysis</i>, <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
@@ -444,7 +444,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">Cuellar, N. G. (2016): “Study Abroad Programs”, <i>Journal of Transcultural Nursing</i>, 27, 209.</div>
   <div class="csl-entry">De Boer, D. and T. LaFavor (2018): “The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach”, In: <i>Perspectives on Resilience: Conceptualization, Measurement, and Enhancement</i>.</div>
   <div class="csl-entry">De Vries, R., M. Nieuwenhuijze, S. E. Buitendijk, and the members of Midwifery Science Work Group (2013): “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands”, <i>Midwifery</i>, 29, 1122-1128.</div>
-  <div class="csl-entry">Delacroix, E. (1826–1827): <i>Faust Attempts to Seduce Marguerite</i>.</div>
+  <div class="csl-entry">Delacroix, E. (1826/1827): <i>Faust Attempts to Seduce Marguerite</i>.</div>
   <div class="csl-entry">D’Souza, A. and M. Wiseheart (2018): <i>Cognitive Effects of Music and Dance Training in Children</i>.</div>
   <div class="csl-entry">Epocrates (2019a): <i>Epocrates Medical References</i>, <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   <div class="csl-entry">Epocrates (2019b): “Interaction Check: Aspirin + Sertraline”, In: <i>Epocrates Medical References</i>, Google Play Store.</div>
@@ -560,7 +560,7 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">(1995): “Who Shot Mr. Burns? (Part One)”, In: <i>The Simpsons</i>, Gracie Films; Twentieth Century Fox Film Corporation.</div>
   <div class="csl-entry">(2001a): <i>The Lord of the Rings: The Fellowship of the Ring</i>, WingNut Films; The Saul Zaentz Company.</div>
   <div class="csl-entry">(2001b): “Burriola v. Greater Toledo YMCA”, In: <i>F.Supp.2d</i>.</div>
-  <div class="csl-entry">(2002–2008): <i>The Wire</i>, Blown Deadline Productions; HBO.</div>
+  <div class="csl-entry">(2002/2008): <i>The Wire</i>, Blown Deadline Productions; HBO.</div>
   <div class="csl-entry">(2004): <i>The Qur’an</i>, trans. by M. A. S. Abdel Haleem, Oxford University Press.</div>
   <div class="csl-entry">(2009a): “Lilly Leadbetter Fair Play Act of 2009”, In: <i>Stat.</i></div>
   <div class="csl-entry">(2009b): “Florida Mental Health Act”, In: <i>Fla. Stat.</i></div>

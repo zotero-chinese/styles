@@ -276,7 +276,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">29. 赵景深：《文坛忆旧》，北新书局1948年版。</div>
   <div class="csl-entry">30. Brooks, P., <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">31. Chamberlain, H. B., On the Search for Civil Society in China. <i>Modern China</i>, Vol.19, No.2, April 1993, pp.199-215.</div>
-  <div class="csl-entry">32. Polo, M., <i>The Travels of Marco Polo</i>. Marsden, W. (tran.), Hertfordshire: Cumberland House, 1997.</div>
+  <div class="csl-entry">32. Polo, M., <i>The Travels of Marco Polo</i>. Marsden, W. (trans.), Hertfordshire: Cumberland House, 1997.</div>
   <div class="csl-entry">33. Schfield, R. S., The Impact of Scarcity and Plenty on Population Change in England. In Rotberg, R. I., &#38; Rabb, T. K. (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55-88.</div>
   <div class="csl-entry">34. 《四川会议厅暂行章程》，《广益丛报》1910年9月3日。</div>
   <div class="csl-entry">35. 《傅良佐致国务院电》，1917年。</div>
@@ -345,7 +345,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">41. Chevallier, M., <i>L’État de droit</i>. Paris: Montchrestien, 2003.</div>
   <div class="csl-entry">42. Dreier, R., &#38; Paulson, S., (eds.), <i>Rechtsphilosophie Studienausgabe</i>. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
   <div class="csl-entry">43. Fischer, T., Absurdes Spektakel um den Tod. <i>Die Zeit</i>, 2015.</div>
-  <div class="csl-entry">44. Habermas, J., <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Rehg, W. (tran.), MIT Press, 1996.</div>
+  <div class="csl-entry">44. Habermas, J., <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>. Rehg, W. (trans.), MIT Press, 1996.</div>
   <div class="csl-entry">45. Horsley, J., Rule of Law in China: Incremental Progress. In Bergsten, C. F., Gill, B., Lardy, N. R., &#38; Mitchell, D. (eds.), <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.</div>
   <div class="csl-entry">46. Joyeux-Prunel, B., <i>L’histoire de l’art et le quantitatif</i>. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   <div class="csl-entry">47. Kaufmann, A., Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In Baumann, J. (ed.), <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.</div>
@@ -409,7 +409,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">10. Anderson, M., Getting Consistent with Consequences. <i>Educational Leadership</i>, Vol.76, No.1, 2018, pp.26-33.</div>
   <div class="csl-entry">11. APA Education [@APAEducation], <i>College Students Are Forming Mental-Health Clubs—and They’re Making a Difference @washingtonpost [Thumbnail with Link Attached]</i>. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>, 2018.</div>
   <div class="csl-entry">12. APA Style [@APA_Style], <i>Tweets</i>. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
-  <div class="csl-entry">13. Aristotle, <i>Poetics</i>. Butcher, S. H. (tran.), The Internet Classics Archive, 1994.</div>
+  <div class="csl-entry">13. Aristotle, <i>Poetics</i>. Butcher, S. H. (trans.), The Internet Classics Archive, 1994.</div>
   <div class="csl-entry">14. Australian Government Productivity Commission &#38; New Zealand Productivity Commission, Strengthening Trans-Tasman Economic Relations. 2012.</div>
   <div class="csl-entry">15. Author, A., How Workout Buddies Can Help Stave off Loneliness. <i>The Washington Post</i>, 2019.</div>
   <div class="csl-entry">16. Avramova, N., <i>The Secret to a Long, Happy, Health Life? Think Age-Positive</i>. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>, 2019.</div>
@@ -450,7 +450,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">51. Epocrates, <i>Interaction Check: Aspirin + Sertraline</i>. Google Play Store, 2019b.</div>
   <div class="csl-entry">52. Fiske, S. T., Gilbert, D. T., &#38; Lindzey, G., <i>Handbook of Social Psychology</i>. John Wiley &#38; Sons, 2010.</div>
   <div class="csl-entry">53. Fistek, A., Jester, E., &#38; Sonnenberg, K., <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>. Milwaukee, WI, United States, 2017.</div>
-  <div class="csl-entry">54. Freud, S., <i>The Interpretation of Dreams: The Complete and Definitive Text</i>. Strachey, J. (tran.), Basic Books, 2010.</div>
+  <div class="csl-entry">54. Freud, S., <i>The Interpretation of Dreams: The Complete and Definitive Text</i>. Strachey, J. (trans.), Basic Books, 2010.</div>
   <div class="csl-entry">55. Fried, D., &#38; Polyakova, A., Democratic Defense against Disinformation. 2018.</div>
   <div class="csl-entry">56. Gaiman, N., <i>100,000+ Rohingya Refugees Could Be at Serious Risk during Bangladesh’s Monsoon Season. My Fellow UNHCR Goodwill Ambassador Cate Blanchett Is [Image Attached]</i>. <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>, 2018.</div>
   <div class="csl-entry">57. GDJ, <i>Neural Network Deep Learning Prismatic</i>. 2018.</div>
@@ -509,7 +509,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">110. Pew Research Center, <i>American Trends Panel Wave 26</i>. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>, 2018.</div>
   <div class="csl-entry">111. Piaget, J., Intellectual Evolution from Adolescence to Adulthood. <i>Human Development</i>, Vol.15, No.1, 1972, pp.1-12.</div>
   <div class="csl-entry">112. Piaget, J., &#38; Inhelder, B., <i>The Psychology of the Child</i>. Quadrige, 1966.</div>
-  <div class="csl-entry">113. Piaget, J., &#38; Inhelder, B., <i>The Psychology of the Child</i>. Weaver, H. (tran.), Basic Books, 1969.</div>
+  <div class="csl-entry">113. Piaget, J., &#38; Inhelder, B., <i>The Psychology of the Child</i>. Weaver, H. (trans.), Basic Books, 1969.</div>
   <div class="csl-entry">114. Pridham, K. F., Limbo, R., &#38; Schroeder, M., (eds.), <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>. Springer Publishing Company, 2018.</div>
   <div class="csl-entry">115. Project Implicit, <i>Gender-Science IAT</i>.</div>
   <div class="csl-entry">116. Richardson, F., (ed.), <i>Brain and Intelligence: The Ecology of Child Development</i>. National Educational Press, 1973.</div>
@@ -561,7 +561,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">162. <i>The Lord of the Rings: The Fellowship of the Ring</i>. WingNut Films; The Saul Zaentz Company, 2001a.</div>
   <div class="csl-entry">163. <i>Burriola v. Greater Toledo YMCA</i>. 2001b.</div>
   <div class="csl-entry">164. <i>The Wire</i>. Blown Deadline Productions; HBO, 2002–2008.</div>
-  <div class="csl-entry">165. <i>The Qur’an</i>. Abdel Haleem, M. A. S. (tran.), Oxford University Press, 2004.</div>
+  <div class="csl-entry">165. <i>The Qur’an</i>. Abdel Haleem, M. A. S. (trans.), Oxford University Press, 2004.</div>
   <div class="csl-entry">166. <i>Lilly Leadbetter Fair Play Act of 2009</i>. 2009a.</div>
   <div class="csl-entry">167. <i>Florida Mental Health Act</i>. 2009b.</div>
   <div class="csl-entry">168. <i>Protection of Human Subjects</i>. 2009c.</div>

@@ -25,7 +25,7 @@
   <div class="csl-entry">Fourney, M. E. (c1971). Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, 17–38.</div>
   <div class="csl-entry">Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., van der Merwe, K., Singh, P., … Schmutz, J. (2014). The genome of eucalyptus grandis. <i>Nature</i>, <i>510</i>, 356–362. <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a></div>
   <div class="csl-entry">(中国互联网络信息中心). (2012). <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a> [2012, <i>第 29 次中国互联网络发展状况统计报告</i>. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>]</div>
-  <div class="csl-entry">(库恩). (2012). (金吾伦 &#38; 胡新和, 译; 2 本). [2012, <i>科学革命的结构：第 4 版</i>. 北京大学出版社.]</div>
+  <div class="csl-entry">(库恩). (2012). (金吾伦 &#38; 胡新和, 译; 2 版). [2012, <i>科学革命的结构：第 4 版</i>. 北京大学出版社.]</div>
   <div class="csl-entry">(武丽丽, 华一新, 张亚军, &#38; 刘英敏). (2008). <i>33</i>(5), 8–9. <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">https://doi.org/10.3771/j.issn.1009-2307.2008.05.002</a> [2008, 《北斗一号》监控管理网设计与实现. 测绘科学, <i>33</i>(5), 8–9. <a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">https://doi.org/10.3771/j.issn.1009-2307.2008.05.002</a>]</div>
   <div class="csl-entry">(贾东琴 &#38; 柯平). (2011). (中国图书馆学会, 编; pp. 45–52). [2011, 面向数字素养的高校图书馆数字服务体系研究. 收入 中国图书馆学会 (编), <i>中国图书馆学会年会论文集: 卷 2011 年卷</i> (pp. 45–52). 国家图书馆出版社.]</div>
 </div>
@@ -118,10 +118,10 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">(中华医学会湖北分会). (1984). <i>1</i>(1). [1984, <i>临床内科杂志</i>. <i>1</i>(1).]</div>
   <div class="csl-entry">(中国互联网络信息中心). (2012). <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a> [2012, <i>第 29 次中国互联网络发展状况统计报告</i>. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>]</div>
   <div class="csl-entry">(中国企业投资协会, 台湾并购与私募股权协会, &#38; 汇盈国际投资集团). (2013). [2013, <i>投资台湾：大陆企业赴台投资指南</i>. 九州出版社.]</div>
-  <div class="csl-entry">(中国图书馆学会). (1957). <i>1–4</i>. [1957, <i>图书馆学通讯</i>. <i>1–4</i>.]</div>
+  <div class="csl-entry">(中国图书馆学会). (1957). <i>1～4</i>. [1957, <i>图书馆学通讯</i>. <i>1～4</i>.]</div>
   <div class="csl-entry">(中国社会科学院台湾史研究中心 (编)). (2012a). [2012a, <i>台湾光复六十五周年暨抗战史实学术研讨会论文集</i>. 九州出版社.]</div>
   <div class="csl-entry">(中国社会科学院语言研究所词典编辑室). (1996). (修订本). [1996, <i>现代汉语词典</i>. 商务印书馆.]</div>
-  <div class="csl-entry">(中国第一历史档案馆 &#38; 辽宁省档案馆). (2001). [Collection]. [2001, <i>中国明朝档案总汇</i> [Collection]. 广西师范大学出版社.]</div>
+  <div class="csl-entry">(中国第一历史档案馆 &#38; 辽宁省档案馆). (2001). [馆藏]. [2001, <i>中国明朝档案总汇</i> [馆藏]. 广西师范大学出版社.]</div>
   <div class="csl-entry">(中国职工教育研究会 (编)). (1985). [1985, <i>职工教育研究论文集</i>. 人民教育出版社.]</div>
   <div class="csl-entry">(中国造纸学会). (2003). <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a> [2003, <i>中国造纸年鉴：2003</i>. 中国轻工业出版社. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a>]</div>
   <div class="csl-entry">(于潇, 刘义, 柴跃廷, &#38; 孙宏波). (2012). <i>52</i>(11), 1518–1523. [2012, 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, <i>52</i>(11), 1518–1523.]</div>
@@ -144,10 +144,10 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">(国家环境保护局科技标准司). (1996). (No. GB 15616—1995; pp. 2–3). <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a> [1996, <i>土壤环境质量标准</i>. 中国标准出版社. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>]</div>
   <div class="csl-entry">(宋史卷三：本纪第三). (1977). (p. 49). [1977, 收入 <i>宋史: 卷 第 1 册</i> (p. 49). 中华书局.]</div>
   <div class="csl-entry">(尼葛洛庞帝). (1996). (胡泳 &#38; 范海燕, 译). [1996, <i>数字化生存</i>. 海南出版社.]</div>
-  <div class="csl-entry">(库恩). (2012). (金吾伦 &#38; 胡新和, 译; 2 本). [2012, <i>科学革命的结构：第 4 版</i>. 北京大学出版社.]</div>
+  <div class="csl-entry">(库恩). (2012). (金吾伦 &#38; 胡新和, 译; 2 版). [2012, <i>科学革命的结构：第 4 版</i>. 北京大学出版社.]</div>
   <div class="csl-entry">(<i>康熙字典：巳集上：水部</i> (同文书局影印本, p. 50)). (1962). [1962, 中华书局.]</div>
   <div class="csl-entry">(张伯伟). (2002). (p. 288). [2002, <i>全唐五代诗格汇考</i>. 江苏古籍出版社.]</div>
-  <div class="csl-entry">(张凯军). (2012). (Patent No. 201220158825.2). [2012, <i>轨道火车及高速轨道火车紧急安全制动辅助装置</i>.]</div>
+  <div class="csl-entry">(张凯军). (2012). (专利 No. 201220158825.2). [2012, <i>轨道火车及高速轨道火车紧急安全制动辅助装置</i>.]</div>
   <div class="csl-entry">(张忠智). (1997). (中国科学技术期刊编辑学会, 编; pp. 33–34). [1997, 科技书刊的总编（主编）的角色要求. 收入 中国科学技术期刊编辑学会 (编), <i>中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编</i> (pp. 33–34). 中国科学技术期刊编辑学会学术委员会.]</div>
   <div class="csl-entry">(张田勘). (2000, 十一月 12). 7. [2000, 十一月 12, 罪犯 DNA 库与生命伦理学计划. 大众科技报, 7.]</div>
   <div class="csl-entry">(徐光宪 &#38; 王祥云). (2010). [2010, <i>物质结构</i>. 科学出版社.]</div>
@@ -164,7 +164,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">(汪冰). (1997). (p. 16). [1997, <i>电子图书馆理论与实践研究</i>. 北京图书馆出版社.]</div>
   <div class="csl-entry">(汪学军). (2002). (国家环境保护总局生物安全管理办公室, 编; pp. 22–25). [2002, 中国农业转基因生物研究进展与安全管理. 收入 国家环境保护总局生物安全管理办公室 (编), <i>中国国家生物安全框架实施国际合作项目研讨会论文集</i> (pp. 22–25). 中国环境科学出版社.]</div>
   <div class="csl-entry">(汪昂). (1881). (刻本). [1881, <i>增订本草备要: 卷 四卷</i>. 老二酉堂.]</div>
-  <div class="csl-entry">(河北绿洲生态环境科技有限公司). (2001). (Patent No. 01129210.5). <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a> [2001, <i>一种荒漠化地区生态植被综合培育种植方法</i>. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>]</div>
+  <div class="csl-entry">(河北绿洲生态环境科技有限公司). (2001). (专利 No. 01129210.5). <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a> [2001, <i>一种荒漠化地区生态植被综合培育种植方法</i>. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>]</div>
   <div class="csl-entry">(牛志明, 斯温兰德, &#38; 雷光春 (编)). (2012b). [2012b, <i>综合湿地管理国际研讨会论文集</i>. 海洋出版社.]</div>
   <div class="csl-entry">(王临惠). (2010). (曹志耘, 编; p. 138). [2010, 从几组声母的演变看天津方言形成的自然条件和历史背景. 收入 曹志耘 (编), <i>汉语方言的地理语言学研究</i> (p. 138). 商务印书馆.]</div>
   <div class="csl-entry">(王临惠, 支建刚, &#38; 王忠一). (2010). <i>37</i>(4), 147. [2010, 天津方言的源流关系刍议. 山西师范大学学报（社会科学版）, <i>37</i>(4), 147.]</div>
@@ -181,10 +181,10 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">(蒋有绪, 郭泉水, 马娟, &#38; others). (1998). [1998, <i>中国森林群落分类及其群落特征</i>. 科学出版社.]</div>
   <div class="csl-entry">(袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, &#38; 华洪). (2012). <i>57</i>(34), 3219. [2012, 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口. 科学通报, <i>57</i>(34), 3219.]</div>
   <div class="csl-entry">(裴丽生). (1981). (中国科学技术协会, 编; pp. 2–10). [1981, 在中国科协学术期刊编辑工作经验交流会上的讲话. 收入 中国科学技术协会 (编), <i>中国科协学术期刊编辑工作经验交流会资料选</i> (pp. 2–10). 中国科学技术协会学会工作部.]</div>
-  <div class="csl-entry">(西安电子科技大学). (2002). (Patent No. 01128777.2). <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a> [2002, <i>光折变自适应光外差探测方法</i>. <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a>]</div>
+  <div class="csl-entry">(西安电子科技大学). (2002). (专利 No. 01128777.2). <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a> [2002, <i>光折变自适应光外差探测方法</i>. <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a>]</div>
   <div class="csl-entry">(贾东琴 &#38; 柯平). (2011). (中国图书馆学会, 编; pp. 45–52). [2011, 面向数字素养的高校图书馆数字服务体系研究. 收入 中国图书馆学会 (编), <i>中国图书馆学会年会论文集: 卷 2011 年卷</i> (pp. 45–52). 国家图书馆出版社.]</div>
   <div class="csl-entry">(赵学功). (2001). <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a> [2001, <i>当代美国外交</i>. 社会科学文献出版社. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a>]</div>
-  <div class="csl-entry">(邓一刚). (2006). (Patent No. 200610171314.3). [2006, <i>全智能节电器</i>.]</div>
+  <div class="csl-entry">(邓一刚). (2006). (专利 No. 200610171314.3). [2006, <i>全智能节电器</i>.]</div>
   <div class="csl-entry">(陈建军). (2010). <i>7</i>(10), 93. <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">https://doi.org/10.3969/j.issn.1672-5603.2010.10.038</a> [2010, 从数字地球到智慧地球. 国土资源导刊, <i>7</i>(10), 93. <a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">https://doi.org/10.3969/j.issn.1672-5603.2010.10.038</a>]</div>
   <div class="csl-entry">(陈志勇 (编)). (2011b). <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN</a> [2011b, <i>中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集</i>. 经济科学出版社. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN</a>]</div>
   <div class="csl-entry">(陈晋镳, 张惠民, 朱士兴, 赵震, &#38; 王振刚). (1980). (中国地质科学院天津地质矿产研究所, 编; pp. 56–114). [1980, 蓟县震旦亚界的研究. 收入 中国地质科学院天津地质矿产研究所 (编), <i>中国震旦亚界</i> (pp. 56–114). 天津科学技术出版社.]</div>
@@ -212,7 +212,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Klatzky, R. (1998). Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections. In C. Freksa, C. Habel, &#38; K. F. Wender (Eds.), <i>Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge</i> (pp. 1–17). Springer-Verlag.</div>
   <div class="csl-entry">Lanktree, C. B., &#38; Briere, J. N. (1991, January). <i>Early data on the Trauma Symptom Checklist for Children (TSC-C)</i>. Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA.</div>
   <div class="csl-entry">Laplace, P.-S. (1951a). <i>A philosophical essay on probabilities</i> (F. W. Truscott &#38; F. L. Emory, Trans.). Dover. (Original work published 1814)</div>
-  <div class="csl-entry">Laplace P.-S. (拉普拉斯, Pierre-Simon). (1951b). <i>A philosophical essay on probabilities</i> (张三 &#38; 李四, 译). Dover. (Original work published 1814) [1951b, <i>概率哲学</i>. 未名出版社. (Original work published 1814)]</div>
+  <div class="csl-entry">Laplace P.-S. (拉普拉斯, Pierre-Simon). (1951b). <i>A philosophical essay on probabilities</i> (张三 &#38; 李四, 译). Dover. (原著出版于 1814) [1951b, <i>概率哲学</i>. 未名出版社. (原著出版于 1814)]</div>
   <div class="csl-entry">Li X. J. (李行健 (编)). (2004). <i>Contemporary Chinese standard dictionary</i> (p. 255). Foreign Language Teaching and Research Press. <a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&#38;d=6CE8370C1575089E8C1CA0C567C13999&#38;fenlei=08021204">http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&#38;d=6CE8370C1575089E8C1CA0C567C13999&#38;fenlei=08021204</a> [2004, <i>现代汉语规范辞典</i>. 外语教学与研究出版社. <a href="http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&#38;d=6CE8370C1575089E8C1CA0C567C13999&#38;fenlei=08021204">http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000007502301&#38;d=6CE8370C1575089E8C1CA0C567C13999&#38;fenlei=08021204</a>]</div>
   <div class="csl-entry">Lichstein, K. L., &#38; Johnson, R. S. (1990, June). Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs. <i>Reducing Medication in Geriatric Populations</i>. Symposium conducted at the meeting of the First International Congress of Behavioral Medicine, Uppsala, Sweden.</div>
   <div class="csl-entry">Mitchell, T. R., &#38; Larson, J. R. (1987). <i>People in organizations: An introduction to organizational behavior</i> (3rd ed.). McGraw-Hill.</div>
@@ -250,23 +250,23 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry"><i>Nixon to Kissinger</i> (Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)). (1969, February 1). National Archives II, College Park, MD.</div>
   <div class="csl-entry">Polo, M. (1997). <i>The travels of Marco Polo</i> (W. Marsden, Trans.). Cumberland House.</div>
   <div class="csl-entry">Schfield, R. S. (1983). The impact of scarcity and plenty on population change in England. In R. I. Rotberg &#38; T. K. Rabb (Eds.), <i>Hunger and history: The impact of changing food production and consumption pattern on society</i> (pp. 55–88). Cambridge University Press.</div>
-  <div class="csl-entry">(<i>上海县续志: 卷 1. 疆域</i>). (不详-a). (Original work published 民国) [不详-a (Original work published 民国)]</div>
+  <div class="csl-entry">(<i>上海县续志: 卷 1. 疆域</i>). (不详-a). (原著出版于 民国) [不详-a (原著出版于 民国)]</div>
   <div class="csl-entry">(上海各路商界总联合会致外交部电). (1925, 八月 14). 4. [1925, 八月 14, 民国日报, 4.]</div>
   <div class="csl-entry">(任东来). (2000, 六月). 全球化与亚太区域化国际研讨会, 天津. [2000, 六月, <i>对国际体制和国际制度的理解和翻译</i>. 全球化与亚太区域化国际研讨会, 天津.]</div>
   <div class="csl-entry">(任继愈 (编)). (1983a). [1983a, <i>中国哲学发展史（先秦卷）</i>. 人民出版社.]</div>
-  <div class="csl-entry">(伤心人（麦孟华）). (不详). <i>第69册</i>, 第1页. (Original work published 光绪二十六年十一月二十一日) [不详, 说奴隶. 清议报, <i>第69册</i>, 第1页. (Original work published 光绪二十六年十一月二十一日)]</div>
+  <div class="csl-entry">(伤心人（麦孟华）). (不详). <i>第69册</i>, 第1页. (原著出版于 光绪二十六年十一月二十一日) [不详, 说奴隶. 清议报, <i>第69册</i>, 第1页. (原著出版于 光绪二十六年十一月二十一日)]</div>
   <div class="csl-entry">(何龄修). (1998). <i>3</i>, 167–173. [1998, 读顾诚〈南明史〉. 中国史研究, <i>3</i>, 167–173.]</div>
   <div class="csl-entry">(佚名). (1998). [1998, <i>晚清洋务运动事类汇钞五十七种: 卷 上册</i>. 全国图书馆文献缩微复制中心.]</div>
   <div class="csl-entry">(倪素香). (2002). <i>4</i>, 512–513. [2002, 德育学科的比较研究与理论探索. 武汉大学学报, <i>4</i>, 512–513.]</div>
   <div class="csl-entry">(<i>傅良佐致国务院电</i> (北洋档案 1011—5961)). (1917, 九月 15). 中国第二历史档案馆. [1917, 九月 15, 中国第二历史档案馆.]</div>
-  <div class="csl-entry">(<i>党外人士座谈会记录</i> (李劼人档案)). (1950, 七月). [Collection]. 中共四川省委统战部档案室. [1950, 七月, [Collection]. 中共四川省委统战部档案室.]</div>
+  <div class="csl-entry">(<i>党外人士座谈会记录</i> (李劼人档案)). (1950, 七月). [馆藏]. 中共四川省委统战部档案室. [1950, 七月, [馆藏]. 中共四川省委统战部档案室.]</div>
   <div class="csl-entry">(唐振常). (1997). [1997, 师承与变法. 收入 <i>识史集</i>. 上海古籍出版社.]</div>
-  <div class="csl-entry">(<i>嘉定县志: 卷 12. 风俗</i>). (不详-b). (Original work published 乾隆) [不详-b (Original work published 乾隆)]</div>
+  <div class="csl-entry">(<i>嘉定县志: 卷 12. 风俗</i>). (不详-b). (原著出版于 乾隆) [不详-b (原著出版于 乾隆)]</div>
   <div class="csl-entry">(四川会议厅暂行章程). (1910, 九月 3). <i>第8年第19期</i>, 第1—2页. [1910, 九月 3, 广益丛报, <i>第8年第19期</i>, 第1—2页.]</div>
   <div class="csl-entry">(<i>太平御览: 卷 690. 服章部七</i> (影印本)). (1985). [1985, 中华书局.]</div>
   <div class="csl-entry">(姚际恒). (不详). (光绪三年苏州文学山房活字本, 卷 3). [不详, <i>古今伪书考</i>.]</div>
   <div class="csl-entry">(实藤惠秀). (1982). (谭汝谦 &#38; 林启彦, 译). [1982, <i>中国人留学日本史</i>. 香港中文大学出版社.]</div>
-  <div class="csl-entry">(广东通志). (1992). (影印本). (Original work published 万历) [1992, 收入 <i>稀见中国地方志汇刊: 卷 15. 郡县志二·广州府·城池</i> (影印本). 中国书店. (Original work published 万历)]</div>
+  <div class="csl-entry">(广东通志). (1992). (影印本). (原著出版于 万历) [1992, 收入 <i>稀见中国地方志汇刊: 卷 15. 郡县志二·广州府·城池</i> (影印本). 中国书店. (原著出版于 万历)]</div>
   <div class="csl-entry">(扬之水). (不详). 取读于 2007年9月13日, 从 <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> [不详, <i>两宋茶诗与茶事</i>. 《文学遗产通讯》（网络版试刊）2006年第1期. 取读于 2007年9月13日, 从 <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>]</div>
   <div class="csl-entry">(方明东). (2000). [2000, <i>罗隆基政治思想研究（1913—1949）</i> [博士学位论文]. 北京师范大学历史系.]</div>
   <div class="csl-entry">(<i>方苞集: 卷 6. 答程夔州书</i> (标点本)). (1983b). [1983b, 上海古籍出版社.]</div>
@@ -278,13 +278,13 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">(楼适夷). (1998). (傅敏, 编; 增补本). [1998, 读家书，想傅雷（代序）. 收入 傅敏 (编), <i>傅雷家书</i> (增补本). 三联书店.]</div>
   <div class="csl-entry">(毛祥麟). (1985). [1985, <i>墨余录</i>. 上海古籍出版社.]</div>
   <div class="csl-entry">(汪疑今). (1936). <i>4</i>(6). [1936, 江苏的小农及其副业. 中国经济, <i>4</i>(6).]</div>
-  <div class="csl-entry">(<i>清德宗实录</i> (影印本, 卷 435)). (1987). (Original work published 光绪二十四年十二月上) [1987, 中华书局. (Original work published 光绪二十四年十二月上)]</div>
+  <div class="csl-entry">(<i>清德宗实录</i> (影印本, 卷 435)). (1987). (原著出版于 光绪二十四年十二月上) [1987, 中华书局. (原著出版于 光绪二十四年十二月上)]</div>
   <div class="csl-entry">(狄葆贤). (不详). [不详, <i>平等阁笔记</i>. 有正书局.]</div>
   <div class="csl-entry">(王明亮). (1998, 八月 16). <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> [1998, 八月 16, <i>关于中国学术期刊标准化数据库系统工程的进展</i>. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>]</div>
   <div class="csl-entry">(管志道). (1997). (影印本, 卷 2). [1997, 答屠仪部赤水丈书. 收入 <i>续问辨牍</i> (影印本, 卷 2). 齐鲁书社.]</div>
   <div class="csl-entry">(蒋大兴). (2001). [2001, <i>公司法的展开与评判——方法·判例·制度</i>. 法律出版社.]</div>
   <div class="csl-entry">(西南中委反对在宁召开五全会). (1933, 八月 11). 第1张第4版. [1933, 八月 11, 民国日报, 第1张第4版.]</div>
-  <div class="csl-entry">(谢兴尧 (Compiler)). (1986). [1986, <i>荣庆日记</i>. 西北大学出版社.]</div>
+  <div class="csl-entry">(谢兴尧 (编撰)). (1986). [1986, <i>荣庆日记</i>. 西北大学出版社.]</div>
   <div class="csl-entry">(费成康). (1999). <i>9</i>, 63–67. <a href="https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS</a> [1999, 葡萄牙人如何进入澳门问题辨正. 社会科学, <i>9</i>, 63–67. <a href="https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS">https://kns.cnki.net/kcms2/article/abstract?v=wYgW8A8u9vp6Ema3Mwkv_hcFaP9q0L4fxESweZeAxPzw-huXM6FBnwEe2FoehE7Sd2LliAejUiZxsTfPnTIWzV4aatJcFq9w5tigPkT1ccDGdgVxQVqPXxPflnX1ldPM7zYuFexEd8g=&#38;uniplatform=NZKPT&#38;language=CHS</a>]</div>
   <div class="csl-entry">(赵景深). (1948). [1948, <i>文坛忆旧</i>. 北新书局.]</div>
   <div class="csl-entry">(金冲及 (编)). (1989). [1989, <i>周恩来传</i>. 人民出版社、中央文献出版社.]</div>
@@ -361,7 +361,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">(崔国斌). (2006). <i>1</i>, 144–164. <a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">https://doi.org/10.14111/j.cnki.zgfx.2006.01.013</a> [2006, 知识产权法官造法批判. 中国法学, <i>1</i>, 144–164. <a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">https://doi.org/10.14111/j.cnki.zgfx.2006.01.013</a>]</div>
   <div class="csl-entry"><i>平成26年版犯罪白書</i>. (n.d.). <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a></div>
   <div class="csl-entry">(应松年 &#38; 马怀德 (编)). (2006). [2006, <i>当代中国行政法的源流：王名扬教授九十华诞贺寿文集</i>. 中国法制出版社.]</div>
-  <div class="csl-entry">(张新宝). (2016). (4 本). [2016, <i>侵权责任法</i>. 中国人民大学出版社.]</div>
+  <div class="csl-entry">(张新宝). (2016). (4 版). [2016, <i>侵权责任法</i>. 中国人民大学出版社.]</div>
   <div class="csl-entry">([德]莱纳·沃尔夫). (2012). (刘刚, 编; 陈霄, 译). <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a> [2012, 风险法的风险. 收入 刘刚 (编), <i>风险规制：德国的理论与实践</i>. 法律出版社. <a href="https://book.douban.com/subject/20327000/">https://book.douban.com/subject/20327000/</a>]</div>
   <div class="csl-entry">我妻栄. (1971). <i>新訂担保物権法</i>. 有斐閣.</div>
   <div class="csl-entry">我妻栄 &#38; 有泉亨. (1950). <i>民法総則物権法</i>. 日本評論社.</div>
@@ -379,11 +379,11 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">約束手形金, 36卷6号 最高裁判所民事判例集 1113 (最高裁判所 1982). <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a></div>
   <div class="csl-entry">(罗豪才, 袁曙宏, &#38; 李文栋). (1993). <i>1</i>, 52–59. <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">https://doi.org/10.14111/j.cnki.zgfx.1993.01.010</a> [1993, 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学, <i>1</i>, 52–59. <a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">https://doi.org/10.14111/j.cnki.zgfx.1993.01.010</a>]</div>
   <div class="csl-entry">([美]富勒). (2005). (郑戈, 译). [2005, <i>法律的道德性</i>. 商务印书馆.]</div>
-  <div class="csl-entry">([英]劳特派特). (1971). (王铁崖 &#38; 陈体强, 译; 8 本). [1971, <i>奥本海国际法: 卷 上卷第一分册</i>. 商务印书馆.]</div>
+  <div class="csl-entry">([英]劳特派特). (1971). (王铁崖 &#38; 陈体强, 译; 8 版). [1971, <i>奥本海国际法: 卷 上卷第一分册</i>. 商务印书馆.]</div>
   <div class="csl-entry">No. （2013）锡民终字第497号 (江苏省无锡市中级人民法院 2013年2月8日). [荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案, 最高人民法院公报 ___ (江苏省无锡市中级人民法院 2013).]</div>
   <div class="csl-entry">(<i>被告人李宁、张磊贪污案一审开庭</i>). (不详-d). <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a> [不详-d, 新华网. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>]</div>
   <div class="csl-entry">(赵耀彤). (2018, 十二月 1). [微信公众号]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> [2018, 十二月 1, 一名基层法官眼里好律师的样子 [微信公众号]. 中国法律评论. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>]</div>
-  <div class="csl-entry">(邓小平). (1994). (2 本, 卷 2). [1994, 精简机构是一场革命. 收入 <i>邓小平文选</i> (2 本, 卷 2). 人民出版社.]</div>
+  <div class="csl-entry">(邓小平). (1994). (2 版, 卷 2). [1994, 精简机构是一场革命. 收入 <i>邓小平文选</i> (2 版, 卷 2). 人民出版社.]</div>
   <div class="csl-entry">(江苏省南通市中级人民法院 2015年7月6日). <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a> [陆红霞诉南通市发改委政府信息公开案, 最高人民法院公报 ___ (江苏省南通市中级人民法院 2015). <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>]</div>
   <div class="csl-entry">(高鸿钧 &#38; 程汉大 (编)). (2013b). [2013b, <i>英美法原论</i>. 北京大学出版社.]</div>
   <div class="csl-entry">NStZ-RR 185 (BGH 1999).</div>
@@ -422,7 +422,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Bergeson, S. (2019). Really cool neutral plasmas. <i>Science</i>, <i>363</i>(6422), 33–34. <a href="https://doi.org/10.1126/science.aau7988">https://doi.org/10.1126/science.aau7988</a></div>
   <div class="csl-entry">Beyoncé. (2016). Formation [Song]. On <i>Lemonade</i>. Parkwood; Columbia.</div>
   <div class="csl-entry">Blackwell, D. L., Lucas, J. W., &#38; Clarke, T. C. (2014). <i>Summary health statistics for U.S. adults: National Health Interview Survey, 2012</i> (Vital and Health Statistics Series 10, Issue 260). Centers for Disease Control and Prevention. <a href="https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf">https://www.atlantic.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf</a></div>
-  <div class="csl-entry">Blair, C. B. (2015–2020). <i>Stress, self-regulation and psychopathology in middle childhood</i> (Grant No. 5R01HD081252-04). Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development. <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a></div>
+  <div class="csl-entry">Blair, C. B. (2015/2020). <i>Stress, self-regulation and psychopathology in middle childhood</i> (Grant No. 5R01HD081252-04). Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development. <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a></div>
   <div class="csl-entry">Boddy, J., Neumann, T., Jennings, S., Morrow, V., Alderson, P., Rees, R., &#38; Gibson, W. (n.d.). <i>Ethics principles</i>. The Research Ethics Guidebook: A Resource for Social Scientists. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a></div>
   <div class="csl-entry">Bologna, C. (2018, June 27). <i>What happens to your mind and body when you feel homesick?</i> HuffPost. <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a></div>
   <div class="csl-entry">Borenstein, M., Hedges, L., Higgins, J., &#38; Rothstein, H. (2014). <i>Comprehensive meta-analysis</i> (Version 3.3.070) [Computer software]. Biostat. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a></div>
@@ -454,7 +454,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">De Boer, D., &#38; LaFavor, T. (2018, April 26–29). The art and significance of successfully identifying resilient individuals A person-focused approach. In A. M. Schmidt &#38; A. Kryvanos (Chairs), <i>Perspectives on resilience: Conceptualization, measurement, and enhancement</i> [Symposium]. Western psychological association 98th annual convention, Portland, OR, United States.</div>
   <div class="csl-entry">De Vries, R., Nieuwenhuijze, M., Buitendijk, S. E., &#38; the members of Midwifery Science Work Group. (2013). What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands. <i>Midwifery</i>, <i>29</i>(10), 1122–1128. <a href="https://doi.org/10.1016/j.midw.2013.07.007">https://doi.org/10.1016/j.midw.2013.07.007</a></div>
   <div class="csl-entry">Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees, 81 F.R. 32391 (2016). <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a></div>
-  <div class="csl-entry">Delacroix, E. (1826–1827). <i>Faust attempts to seduce Marguerite</i> [Lithograph]. The Louvre, Paris, France.</div>
+  <div class="csl-entry">Delacroix, E. (1826/1827). <i>Faust attempts to seduce Marguerite</i> [Lithograph]. The Louvre, Paris, France.</div>
   <div class="csl-entry">D’Souza, A., &#38; Wiseheart, M. (2018). <i>Cognitive effects of music and dance training in children</i> (Data Set No. ICPSR 37080; Version V1). ICPSR. <a href="https://doi.org/10.3886/ICPSR37080.1">https://doi.org/10.3886/ICPSR37080.1</a></div>
   <div class="csl-entry">Durflinger v. Artiles, 563 F.Supp. 332 (D. Kan. 1984). <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a></div>
   <div class="csl-entry">Epocrates. (2019a). <i>Epocrates medical references</i> (Version 18.12) [Mobile app]. App Store. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a></div>
@@ -464,7 +464,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry"><i>Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>. (2016). [Testimony of Norman Dong]. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a></div>
   <div class="csl-entry">Fiske, S. T., Gilbert, D. T., &#38; Lindzey, G. (2010). <i>Handbook of social psychology</i> (5th ed., Vol. 1). John Wiley &#38; Sons. <a href="https://doi.org/10.1002/9780470561119">https://doi.org/10.1002/9780470561119</a></div>
   <div class="csl-entry">Fistek, A., Jester, E., &#38; Sonnenberg, K. (2017, July 12–15). <i>Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate</i> [Conference session]. Autism Society National Conference, Milwaukee, WI, United States. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a></div>
-  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 and 2009). <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a></div>
+  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 &#38; 2009). <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a></div>
   <div class="csl-entry">Fogarty, M. (Director). (2016, September 30). <i>How to diagram a sentence (absolute basics)</i> [Video]. YouTube. <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a></div>
   <div class="csl-entry">Forman, M. (Director). (1975). <i>One flew over the cuckoo’s nest</i> [Film]. United Artists.</div>
   <div class="csl-entry">Fosha, D. (Guest)Levenson, H. (Host). (2017). <i>Accelerated experiental dynamic psychotherapy (AEDP) supervision</i> [Film; Educational DVD]. American Pychological Association. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a></div>
@@ -558,7 +558,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Segaert, A., &#38; Bauer, A. (2015). <i>The extent and nature of veteran homelessness in Canada</i>. Employment and Social Development Canada. <a href="https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/publications-bulletins/veterans-report.html">https://www.canada.ca/en/employment-social-development/programs/communities/homelessness/publications-bulletins/veterans-report.html</a></div>
   <div class="csl-entry">Shakespeare, W. (1995). <i>Much ado about nothing</i> (B. A. Mowat &#38; P. Werstine, Eds.). Washington Square Press. (Original work published 1623)</div>
   <div class="csl-entry">Shore, M. F. (2014). Marking time in the land of plenty: Reflections on mental health in the United States. <i>American Journal of Orthopsychiatry</i>, <i>84</i>(6), 611–618. <a href="https://doi.org/10.1037/h0100165">https://doi.org/10.1037/h0100165</a> (Original work published 1981)</div>
-  <div class="csl-entry">Simon, D., Colesberry, R. F., &#38; Kostroff Noble, N. (Executive Producers). (2002–2008). <i>The wire</i> [TV series]. Blown Deadline Productions; HBO.</div>
+  <div class="csl-entry">Simon, D., Colesberry, R. F., &#38; Kostroff Noble, N. (Executive Producers). (2002/2008). <i>The wire</i> [TV series]. Blown Deadline Productions; HBO.</div>
   <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute. (n.d.). <i>Home</i> [Facebook page]. Facebook. Retrieved July 22, 2019, from <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a></div>
   <div class="csl-entry">SR Research. (2016). <i>Eyelink 1000 plus</i> [Apparatus and software]. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a></div>
   <div class="csl-entry"><i>Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions</i>, 113th Cong. (2014). <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a></div>

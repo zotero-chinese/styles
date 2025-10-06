@@ -456,7 +456,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry"><i>Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>. (2016). [Testimony of Norman Dong].</div>
   <div class="csl-entry">Fiske, S. T., Gilbert, D. T., &#38; Lindzey, G. (2010). <i>Handbook of social psychology</i> (5th ed., Vol. 1). John Wiley &#38; Sons. <a href="https://doi.org/10.1002/9780470561119">https://doi.org/10.1002/9780470561119</a></div>
   <div class="csl-entry">Fistek, A., Jester, E., &#38; Sonnenberg, K. (2017, July 12–15). <i>Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate</i> [Conference session]. Autism Society National Conference, Milwaukee, WI, United States. Milwaukee, WI, United States.</div>
-  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 and 2009).</div>
+  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 &#38; 2009).</div>
   <div class="csl-entry">Fogarty, M. (director). (2016, September 30). <i>How to diagram a sentence (absolute basics)</i> [Video]. YouTube.</div>
   <div class="csl-entry">Forman, M. (director). (1975). <i>One flew over the cuckoo’s nest</i> [Film]. United Artists.</div>
   <div class="csl-entry">Freud, S. (2010). <i>The interpretation of dreams: The complete and definitive text</i> (J. Strachey, Ed. &#38; trans.). Basic Books. (Original work published 1900)</div>

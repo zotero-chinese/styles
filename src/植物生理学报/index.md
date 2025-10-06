@@ -250,7 +250,7 @@ Qian等 (2009b)<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Brooks P (2000). Troubling Confessions: Speaking Guilt in Law and Literature. Chicago: University of Chicago Press</div>
   <div class="csl-entry">Chamberlain HB (1993). On the search for civil society in China. Modern China, 19(2): 199–215</div>
-  <div class="csl-entry">Marsden W (tran.) (1997). The Travels of Marco Polo. Hertfordshire: Cumberland House</div>
+  <div class="csl-entry">Marsden W (trans.) (1997). The Travels of Marco Polo. Hertfordshire: Cumberland House</div>
   <div class="csl-entry">Schfield RS (1983). The impact of scarcity and plenty on population change in England. In: Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society (eds Rotberg RI, Rabb TK), pp. 55–88. Cambridge, Mass.: Cambridge University Press</div>
   <div class="csl-entry">(2000) (in Chinese) [任东来(2000). 对国际体制和国际制度的理解和翻译. 天津: ]</div>
   <div class="csl-entry">(不详). 第69册: 第1页 (in Chinese) [伤心人（麦孟华）(不详). 说奴隶. 清议报, 第69册: 第1页]</div>
@@ -312,7 +312,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Canaris CW (1990). Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen</div>
   <div class="csl-entry">Chevallier M (2003). L’État de droit, 4th edn. Paris: Montchrestien</div>
   <div class="csl-entry">Fischer T (2015). Absurdes Spektakel um den Tod. Die Zeit</div>
-  <div class="csl-entry">Rehg W (tran.) (1996). Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. MIT Press</div>
+  <div class="csl-entry">Rehg W (trans.) (1996). Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. MIT Press</div>
   <div class="csl-entry">Horsley J (2006). Rule of law in China: incremental progress. In: China: The Balance Sheet (eds Bergsten CF, Gill B, Lardy NR, et al). Public Affairs Press</div>
   <div class="csl-entry">Joyeux-Prunel B (n.d.). L’histoire de l’art et le quantitatif. In: Histoire &#38; mesure, vol. XXIII, n° 2, 2008. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a> (2010-03-17)</div>
   <div class="csl-entry">Kaufmann A (1972). Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In: Das Abtreibungsverbot des § 218 StGB (ed Baumann J)</div>
@@ -412,7 +412,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Anderson M (2018). Getting consistent with consequences. Educational Leadership, 76(1): 26–33</div>
   <div class="csl-entry">APA Education [@APAEducation] (2018). College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached]. In: Twitter. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a></div>
   <div class="csl-entry">APA Style [@APA_Style] (n.d.). Tweets. In: Twitter. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a> (2019-11-01)</div>
-  <div class="csl-entry">Butcher SH (tran.) (1994). Poetics. The Internet Classics Archive</div>
+  <div class="csl-entry">Butcher SH (trans.) (1994). Poetics. The Internet Classics Archive</div>
   <div class="csl-entry">Australian Government Productivity Commission, New Zealand Productivity Commission (2012). Strengthening Trans-Tasman Economic Relations</div>
   <div class="csl-entry">Author A (2019). How workout buddies can help stave off loneliness. The Washington Post</div>
   <div class="csl-entry">Avramova N (2019). The secret to a long, happy, health life? Think age-positive. In: CNN. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a></div>
@@ -453,7 +453,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Epocrates (2019b). Interaction Check: Aspirin + Sertraline. In: Epocrates Medical References. Google Play Store</div>
   <div class="csl-entry">Fiske ST, Gilbert DT, Lindzey G (2010). Handbook of Social Psychology, 5th edn. John Wiley &#38; Sons</div>
   <div class="csl-entry">Fistek A, Jester E, Sonnenberg K (2017). Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate. Milwaukee, WI, United States: </div>
-  <div class="csl-entry">Strachey J (tran.) (2010). The Interpretation of Dreams: The Complete and Definitive Text. Basic Books</div>
+  <div class="csl-entry">Strachey J (trans.) (2010). The Interpretation of Dreams: The Complete and Definitive Text. Basic Books</div>
   <div class="csl-entry">Fried D, Polyakova A (2018). Democratic Defense against Disinformation. Atlantic Council</div>
   <div class="csl-entry">Gaiman N (2018). 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached]. In: Facebook. <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a></div>
   <div class="csl-entry">GDJ (2018). Neural Network Deep Learning Prismatic</div>
@@ -465,7 +465,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Guarino B (2017). How will humanity react to alien life? Psychologists have some predictions. The Washington Post</div>
   <div class="csl-entry">Harris L (2014). Instructional Leadership Perceptions and Practices of Elementary School Leaders (dissertation). University of Virginia</div>
   <div class="csl-entry">Harwell M (2018). Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change. National Education Policy Center</div>
-  <div class="csl-entry">Sallis J (tran.) (2008). On the essence of truth. In: Basic Writings (ed Krell DF), pp. 111–138. Harper Perennial Modern Thought</div>
+  <div class="csl-entry">Sallis J (trans.) (2008). On the essence of truth. In: Basic Writings (ed Krell DF), pp. 111–138. Harper Perennial Modern Thought</div>
   <div class="csl-entry">Hess A (2019). Cats who take direction. The New York Times: C1</div>
   <div class="csl-entry">Hiremath SC, Kumar S, Lu F, et al (2016). Using Metaphors to Present Concepts across Different Intellectual Domains. U.S.: </div>
   <div class="csl-entry">Ho HK (2014). Teacher Preparation for Early Childhood Special Education in Taiwan. ERIC</div>
@@ -507,7 +507,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">Perkins D (2018). <i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a></div>
   <div class="csl-entry">Pew Research Center (2018). American Trends Panel Wave 26</div>
   <div class="csl-entry">Piaget J, Inhelder B (1966). The Psychology of the Child. Quadrige</div>
-  <div class="csl-entry">Weaver H (tran.) (1969). The Psychology of the Child, 2nd edn. Basic Books</div>
+  <div class="csl-entry">Weaver H (trans.) (1969). The Psychology of the Child, 2nd edn. Basic Books</div>
   <div class="csl-entry">Bliss J, Furth H (trans.) (1972). Intellectual evolution from adolescence to adulthood. Human Development, 15(1): 1–12</div>
   <div class="csl-entry">Project Implicit (n.d.). Gender-Science IAT</div>
   <div class="csl-entry">Rinaldi J (2016). Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted</div>
@@ -557,7 +557,7 @@ Qian等 (2009b)<br>
   <div class="csl-entry">(2001a). The Lord of the Rings: The Fellowship of the Ring. WingNut Films; The Saul Zaentz Company</div>
   <div class="csl-entry">(2001b). Burriola v. Greater Toledo YMCA. In: F.Supp.2d, p. 1034</div>
   <div class="csl-entry">(2002–2008). The Wire. Blown Deadline Productions; HBO</div>
-  <div class="csl-entry">Abdel Haleem MAS (tran.) (2004). The Qur’an. Oxford University Press</div>
+  <div class="csl-entry">Abdel Haleem MAS (trans.) (2004). The Qur’an. Oxford University Press</div>
   <div class="csl-entry">(2009a). Lilly Leadbetter Fair Play Act of 2009. In: Stat., p. 5</div>
   <div class="csl-entry">(2009b). Florida Mental Health Act. In: Fla. Stat.</div>
   <div class="csl-entry">(2009c). Protection of human subjects. In: C.F.R.</div>

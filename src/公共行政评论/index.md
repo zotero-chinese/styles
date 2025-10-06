@@ -21,7 +21,7 @@
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">贾东琴、柯平（2011）．面向数字素养的高校图书馆数字服务体系研究（会议论文）．北京：中国图书馆学会年会论文集．</div>
-  <div class="csl-entry">库恩（2012）．科学革命的结构：第 4 版（金吾伦 &#38; 胡新和，译；2 本）．北京：北京大学出版社．</div>
+  <div class="csl-entry">库恩（2012）．科学革命的结构：第 4 版（金吾伦 &#38; 胡新和，译；2 版）．北京：北京大学出版社．</div>
   <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）．《北斗一号》监控管理网设计与实现．测绘科学，33（5），8-9．</div>
   <div class="csl-entry">中国互联网络信息中心（2012）．第 29 次中国互联网络发展状况统计报告．</div>
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
@@ -74,7 +74,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、王振刚（1980）．蓟县震旦亚界的研究．载中国地质科学院天津地质矿产研究所主编《中国震旦亚界》（页 56-114）．天津：天津科学技术出版社．</div>
   <div class="csl-entry">陈志勇主编（2011）．中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集．北京：经济科学出版社．</div>
   <div class="csl-entry">程根伟（1999）．1998 年长江洪水的成因与减灾对策．载许厚泽 &#38; 赵其国主编《长江流域洪涝灾害与科技对策》（页 32-36）．北京：科学出版社．</div>
-  <div class="csl-entry">邓一刚（2006）．全智能节电器（PatentNo.200610171314.3）．中国．</div>
+  <div class="csl-entry">邓一刚（2006）．全智能节电器（专利No.200610171314.3）．中国．</div>
   <div class="csl-entry">丁文详（2000）．数字革命与竞争国际化．中国青年报，15．</div>
   <div class="csl-entry">傅刚、赵承、李佳路（2000）．大风沙过后的思考．北京青年报．</div>
   <div class="csl-entry">顾炎武（1982）．昌平山水记：京东考古录．北京：北京古籍出版社．</div>
@@ -82,14 +82,14 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">国家标准局信息分类编码研究所（1988）．世界各国和地区名称代码．载全国文献工作标准化委员会主编《文献工作国家标准汇编：3》（No.GB/T 2659—1986；页 59-92）．北京：中国标准出版社．</div>
   <div class="csl-entry">国家环境保护局科技标准司（1996）．土壤环境质量标准（No.GB 15616—1995；页 2-3）．北京：中国标准出版社．</div>
   <div class="csl-entry">哈里森·沃尔德伦（2012）．经济数学与金融数学（谢远涛，译；页 235-236）．北京：中国人民大学出版社．</div>
-  <div class="csl-entry">河北绿洲生态环境科技有限公司（2001）．一种荒漠化地区生态植被综合培育种植方法（PatentNo.01129210.5）．中国．</div>
+  <div class="csl-entry">河北绿洲生态环境科技有限公司（2001）．一种荒漠化地区生态植被综合培育种植方法（专利No.01129210.5）．中国．</div>
   <div class="csl-entry">侯文顺（2010）．高分子物理：高分子材料分析、选择与改性（页 119）．北京：化学工业出版社．</div>
   <div class="csl-entry">胡承正、周详、缪灵（2010）．理论物理概论：卷上（页 112）．武汉：武汉大学出版社．</div>
   <div class="csl-entry">贾东琴、柯平（2011）．面向数字素养的高校图书馆数字服务体系研究（会议论文）．北京：中国图书馆学会年会论文集．</div>
   <div class="csl-entry">蒋有绪、郭泉水、马娟、others（1998）．中国森林群落分类及其群落特征．北京：科学出版社．</div>
   <div class="csl-entry">卷 39 乞致仕第一（1988）．载《苏魏公文集：卷下册》（页 590）．北京：中华书局．</div>
   <div class="csl-entry">康熙字典：巳集上：水部（同文书局影印本，页 50）（1962）．北京：中华书局．</div>
-  <div class="csl-entry">库恩（2012）．科学革命的结构：第 4 版（金吾伦 &#38; 胡新和，译；2 本）．北京：北京大学出版社．</div>
+  <div class="csl-entry">库恩（2012）．科学革命的结构：第 4 版（金吾伦 &#38; 胡新和，译；2 版）．北京：北京大学出版社．</div>
   <div class="csl-entry">雷光春主编（2012）．综合湿地管理：综合湿地管理国际研讨会论文集．北京：海洋出版社．</div>
   <div class="csl-entry">李炳穆（2008a）．韩国图书馆法．图书情报工作，52（6），6-12．</div>
   <div class="csl-entry">李炳穆（2008b）．韩国图书馆法．图书情报工作，52（6），6-21．</div>
@@ -123,7 +123,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">王临惠、支建刚、王忠一（2010）．天津方言的源流关系刍议．山西师范大学学报（社会科学版），37（4），147．</div>
   <div class="csl-entry">吴云芳（2003）．面向中文信息处理的现代汉语并列结构研究［博士学位论文，北京大学］．</div>
   <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）．《北斗一号》监控管理网设计与实现．测绘科学，33（5），8-9．</div>
-  <div class="csl-entry">西安电子科技大学（2002）．光折变自适应光外差探测方法（PatentNo.01128777.2）．中国．</div>
+  <div class="csl-entry">西安电子科技大学（2002）．光折变自适应光外差探测方法（专利No.01128777.2）．中国．</div>
   <div class="csl-entry">萧钰（2001）．出版业信息化迈入快车道．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．2002年4月15日访问．</div>
   <div class="csl-entry">徐光宪、王祥云（2010）．物质结构．北京：科学出版社．</div>
   <div class="csl-entry">杨保军（2012）．新闻道德论［博士学位论文，中国人民大学出版社］．</div>
@@ -133,11 +133,11 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">余建斌（2013）．我们的科技一直在追赶：访中国工程院院长周济．人民日报，2．</div>
   <div class="csl-entry">袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪（2012）．蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口．科学通报，57（34），3219．</div>
   <div class="csl-entry">张伯伟（2002）．全唐五代诗格汇考（页 288）．南京：江苏古籍出版社．</div>
-  <div class="csl-entry">张凯军（2012）．轨道火车及高速轨道火车紧急安全制动辅助装置（PatentNo.201220158825.2）．中国．</div>
+  <div class="csl-entry">张凯军（2012）．轨道火车及高速轨道火车紧急安全制动辅助装置（专利No.201220158825.2）．中国．</div>
   <div class="csl-entry">张田勘（2000）．罪犯 DNA 库与生命伦理学计划．大众科技报，7．</div>
   <div class="csl-entry">张忠智（1997）．科技书刊的总编（主编）的角色要求（会议论文）．北京：中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编．</div>
   <div class="csl-entry">赵学功（2001）．当代美国外交．北京：社会科学文献出版社．</div>
-  <div class="csl-entry">中国第一历史档案馆、辽宁省档案馆（2001）．中国明朝档案总汇［Collection］．桂林：广西师范大学出版社．</div>
+  <div class="csl-entry">中国第一历史档案馆、辽宁省档案馆（2001）．中国明朝档案总汇［馆藏］．桂林：广西师范大学出版社．</div>
   <div class="csl-entry">中国互联网络信息中心（2012）．第 29 次中国互联网络发展状况统计报告．</div>
   <div class="csl-entry">中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团（2013）．投资台湾：大陆企业赴台投资指南．北京：九州出版社．</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心主编（2012）．台湾光复六十五周年暨抗战史实学术研讨会论文集．北京：九州出版社．</div>
@@ -203,7 +203,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">拉普拉斯, Pierre-Simon（1951）．概率哲学（张三 &#38; 李四，译）．北京：未名出版社．（Original work published1814）</div>
+  <div class="csl-entry">拉普拉斯, Pierre-Simon（1951）．概率哲学（张三 &#38; 李四，译）．北京：未名出版社．（原著出版于1814）</div>
   <div class="csl-entry">李行健主编（2004）．现代汉语规范辞典（页 255）．北京：外语教学与研究出版社．</div>
   <div class="csl-entry">邱颖文（2009）．遗传与语言学习［博士学位论文］．华东师范大学．</div>
   <div class="csl-entry">王登峰、崔红（2004）．中国人《大七》人格结构的理论分析．载王登峰 &#38; 侯玉波主编《人格与社会心理学论丛》（卷1，页 46-84）．北京：北京大学出版社．</div>
@@ -245,7 +245,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">党外人士座谈会记录（李劼人档案）（1950）．［Collection］．</div>
+  <div class="csl-entry">党外人士座谈会记录（李劼人档案）（1950）．［馆藏］．</div>
   <div class="csl-entry">狄葆贤（不详）．平等阁笔记．上海：有正书局．</div>
   <div class="csl-entry">杜威·佛克马（1999）．走向新世界主义．载王宁 &#38; 薛晓源主编《全球化与后殖民批评》（页 247-266）．北京：中央编译出版社．</div>
   <div class="csl-entry">方苞集：卷6．答程夔州书（标点本）（1983）．上海：上海古籍出版社．</div>
@@ -253,11 +253,11 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">费成康（1999）．葡萄牙人如何进入澳门问题辨正．社会科学，9，63-67．</div>
   <div class="csl-entry">傅良佐致国务院电（北洋档案 1011—5961）（1917）．</div>
   <div class="csl-entry">管志道（1997）．答屠仪部赤水丈书．载《续问辨牍》（影印本，卷2）．济南：齐鲁书社．</div>
-  <div class="csl-entry">广东通志（1992）．载《稀见中国地方志汇刊：卷15．郡县志二·广州府·城池》（影印本）．北京：中国书店．（Original work published万历）</div>
+  <div class="csl-entry">广东通志（1992）．载《稀见中国地方志汇刊：卷15．郡县志二·广州府·城池》（影印本）．北京：中国书店．（原著出版于万历）</div>
   <div class="csl-entry">何龄修（1998）．读顾诚〈南明史〉．中国史研究，3，167-173．</div>
   <div class="csl-entry">黄仁宇（1997）．为什么称为《中国大历史》？——中文版自序．载《中国大历史》．北京：三联书店．</div>
   <div class="csl-entry">黄义豪（1997）．评黄龟年四劾秦桧．福建论坛，3，26-27．</div>
-  <div class="csl-entry">嘉定县志：卷12．风俗（不详）．（Original work published乾隆）</div>
+  <div class="csl-entry">嘉定县志：卷12．风俗（不详）．（原著出版于乾隆）</div>
   <div class="csl-entry">蒋大兴（2001）．公司法的展开与评判——方法·判例·制度．北京：法律出版社．</div>
   <div class="csl-entry">金冲及主编（1989）．周恩来传．北京：人民出版社、中央文献出版社．</div>
   <div class="csl-entry">旧唐书：卷9．玄宗纪下（标点本）（1975）．北京：中华书局．</div>
@@ -268,12 +268,12 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">马克思恩格斯全集（卷31）（1998）．北京：人民出版社．</div>
   <div class="csl-entry">毛祥麟（1985）．墨余录．上海：上海古籍出版社．</div>
   <div class="csl-entry">倪素香（2002）．德育学科的比较研究与理论探索．武汉大学学报，4，512-513．</div>
-  <div class="csl-entry">清德宗实录（影印本，卷435）（1987）．北京：中华书局．（Original work published光绪二十四年十二月上）</div>
+  <div class="csl-entry">清德宗实录（影印本，卷435）（1987）．北京：中华书局．（原著出版于光绪二十四年十二月上）</div>
   <div class="csl-entry">任东来（2000）．<i>对国际体制和国际制度的理解和翻译</i>（会议论文）．天津：全球化与亚太区域化国际研讨会．</div>
   <div class="csl-entry">任继愈主编（1983）．中国哲学发展史（先秦卷）．北京：人民出版社．</div>
-  <div class="csl-entry">伤心人（麦孟华）（不详）．说奴隶．清议报，第69册，第1页．（Original work published光绪二十六年十一月二十一日）</div>
+  <div class="csl-entry">伤心人（麦孟华）（不详）．说奴隶．清议报，第69册，第1页．（原著出版于光绪二十六年十一月二十一日）</div>
   <div class="csl-entry">上海各路商界总联合会致外交部电（1925）．民国日报，4．</div>
-  <div class="csl-entry">上海县续志：卷1．疆域（不详）．（Original work published民国）</div>
+  <div class="csl-entry">上海县续志：卷1．疆域（不详）．（原著出版于民国）</div>
   <div class="csl-entry">实藤惠秀（1982）．中国人留学日本史（谭汝谦 &#38; 林启彦，译）．香港：香港中文大学出版社．</div>
   <div class="csl-entry">四川会议厅暂行章程（1910）．广益丛报，第8年第19期，第1—2页．</div>
   <div class="csl-entry">太平御览：卷690．服章部七（影印本）（1985）．北京：中华书局．</div>
@@ -282,7 +282,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">王明亮（1998）．关于中国学术期刊标准化数据库系统工程的进展．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>．1998年10月4日访问．</div>
   <div class="csl-entry">魏丽英（1990）．论近代西北人口波动的若干主要原因．社会科学，6，68-73, 86．</div>
   <div class="csl-entry">西南中委反对在宁召开五全会（1933）．民国日报，第1张第4版．</div>
-  <div class="csl-entry">谢兴尧compiler（1986）．荣庆日记．西安：西北大学出版社．</div>
+  <div class="csl-entry">谢兴尧编撰（1986）．荣庆日记．西安：西北大学出版社．</div>
   <div class="csl-entry">扬之水（不详）．两宋茶诗与茶事．《文学遗产通讯》（网络版试刊）2006年第1期．<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>．2007年9月13日访问．</div>
   <div class="csl-entry">杨钟羲（1991）．雪桥诗话续集（影印本，卷5）．沈阳：辽沈书社．</div>
   <div class="csl-entry">姚际恒（不详）．古今伪书考（光绪三年苏州文学山房活字本，卷3）．</div>
@@ -306,7 +306,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">被告人李宁、张磊贪污案一审开庭（不详）．新华网．<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>．</div>
   <div class="csl-entry">崔国斌（2006）．知识产权法官造法批判．中国法学，1，144-164．</div>
   <div class="csl-entry">[德]莱纳·沃尔夫（2012）．风险法的风险（陈霄，译）．载刘刚主编《风险规制：德国的理论与实践》．法律出版社．</div>
-  <div class="csl-entry">邓小平（1994）．精简机构是一场革命．载《邓小平文选》（2 本，卷2）．人民出版社．</div>
+  <div class="csl-entry">邓小平（1994）．精简机构是一场革命．载《邓小平文选》（2 版，卷2）．人民出版社．</div>
   <div class="csl-entry">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
   <div class="csl-entry">法国行政法院网站（不详）．<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>．2016年12月18日访问．</div>
   <div class="csl-entry">高鸿钧、程汉大主编（2013）．英美法原论．北京大学出版社．</div>
@@ -336,11 +336,11 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">信春鹰（2013）．关于《中华人民共和国行政诉讼法修正案（草案）》的说明．第十二届全国人民代表大会常务委员会第六次会议．</div>
   <div class="csl-entry">信玄公旗掛松事件, 25 大審院民事判決録 356 (大審院 1919).</div>
   <div class="csl-entry">应松年、马怀德主编（2006）．当代中国行政法的源流：王名扬教授九十华诞贺寿文集．中国法制出版社．</div>
-  <div class="csl-entry">[英]劳特派特（1971）．奥本海国际法：卷上卷第一分册（王铁崖 &#38; 陈体强，译；8 本）．商务印书馆．</div>
+  <div class="csl-entry">[英]劳特派特（1971）．奥本海国际法：卷上卷第一分册（王铁崖 &#38; 陈体强，译；8 版）．商务印书馆．</div>
   <div class="csl-entry">於保不二雄. (1954). 付加物及び従物と抵当権. 民商法雑誌, 29(5), 1.</div>
   <div class="csl-entry">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案，No.（2011）民一终字第 81 号（最高人民法院2017年12月16日）．</div>
   <div class="csl-entry">約束手形金, 36卷6号 最高裁判所民事判例集 1113 (最高裁判所 1982).</div>
-  <div class="csl-entry">张新宝（2016）．侵权责任法（4 本）．中国人民大学出版社．</div>
+  <div class="csl-entry">张新宝（2016）．侵权责任法（4 版）．中国人民大学出版社．</div>
   <div class="csl-entry">赵耀彤（2018）．一名基层法官眼里好律师的样子［微信公众号］．中国法律评论．<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>．2022年5月3日访问．</div>
   <div class="csl-entry">中共中央关于全面推进依法治国若干重大问题的决定（2014）．</div>
   <div class="csl-entry">中华人民共和国公司法（2005）．</div>
@@ -464,7 +464,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry"><i>Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>. (2016). [Testimony of Norman Dong].</div>
   <div class="csl-entry">Fiske, S. T., Gilbert, D. T., &#38; Lindzey, G. (2010). <i>Handbook of social psychology</i> (5th ed., Vol. 1). John Wiley &#38; Sons.</div>
   <div class="csl-entry">Fistek, A., Jester, E., &#38; Sonnenberg, K. (2017, July 12–15). <i>Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate</i> [Conference session]. Autism Society National Conference, Milwaukee, WI, United States. Milwaukee, WI, United States.</div>
-  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 and 2009).</div>
+  <div class="csl-entry">Florida Mental Health Act, Fla. Stat. § 394 (1971 &#38; 2009).</div>
   <div class="csl-entry">Fogarty, M. (Director). (2016, September 30). <i>How to diagram a sentence (absolute basics)</i> [Video]. YouTube.</div>
   <div class="csl-entry">Forman, M. (Director). (1975). <i>One flew over the cuckoo’s nest</i> [Film]. United Artists.</div>
   <div class="csl-entry">Fosha, D. (Guest), &#38; Levenson, H. (Host). (2017). <i>Accelerated experiental dynamic psychotherapy (AEDP) supervision</i> [Film; Educational DVD]. American Pychological Association.</div>
