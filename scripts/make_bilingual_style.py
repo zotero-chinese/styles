@@ -1,12 +1,9 @@
-from copy import deepcopy
-import datetime
-import json
-from pprint import pprint
-import re
 import argparse
+import datetime
+import re
+from copy import deepcopy
 
 from lxml import etree
-
 
 NSMAP = {
     "cs": "http://purl.org/net/xbiblio/csl",
@@ -95,6 +92,7 @@ def write_style(style, path):
     # style_str = style_str.replace("–", "&#8211;")  # en dash
     style_str = style_str.replace("&#8211;", "–")  # en dash
     style_str = style_str.replace("—", "&#8212;")  # em dash
+    style_str = style_str.replace("GB-T-7714&#8212;", "GB-T-7714—")  # em dash
     style_str = re.sub(r"(\S)[ \t]+<!--", r"\1 <!--", style_str)
     style_str = re.sub(r"<!--\s*(\S)", r"<!-- \1", style_str)
     style_str = re.sub(r"(\S)[ \t]*-->", r"\1 -->", style_str)
