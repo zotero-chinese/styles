@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0.2" name-as-sort-order="all" sort-separator=", " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=", " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>长江大学硕士（理工农医类）</title>
-    <id>http://www.zotero.org/styles/changjiang-university-engineering</id>
-    <link href="http://www.zotero.org/styles/changjiang-university-engineering" rel="self"/>
+    <title>长江大学（硕士，理工农医类）</title>
+    <id>https://zotero-chinese.com/styles/长江大学（硕士，理工农医类）</id>
+    <link href="https://zotero-chinese.com/styles/长江大学（硕士，理工农医类）" rel="self"/>
     <link href="https://gs.yangtzeu.edu.cn/info/1037/2535.htm" rel="documentation"/>
     <author>
-      <name>长江大学动物科学技术学院QingYunkk</name>
+      <name>QingYunkk</name>
     </author>
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <summary>长江大学硕士学位论文排版格式要求（20161122理工农医类）</summary>
-    <updated>2016-11-22T00:00:00+08:00</updated>
-    <rights>license</rights>
+    <updated>2025-11-06T23:47:17+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  
-  <!-- 英文locale作为主要locale -->
+
   <locale xml:lang="en">
     <date form="numeric">
       <date-part name="year" range-delimiter="-"/>
@@ -23,17 +22,11 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="-"/>
     </date>
     <terms>
-      <term name="edition" form="short">ed</term>
       <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
-      <term name="et-al">et al</term>
-      <term name="and">and</term>
-      <term name="page" form="short">p</term>
-      <term name="pages" form="short">pp</term>
     </terms>
   </locale>
-  
-  <!-- 中文locale作为备选 -->
+
   <locale xml:lang="zh">
     <date form="numeric">
       <date-part name="year" range-delimiter="-"/>
@@ -41,10 +34,13 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="-"/>
     </date>
     <terms>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="edition" form="short">版</term>
       <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
-      <term name="et-al">等</term>
     </terms>
   </locale>
 
@@ -65,7 +61,6 @@
       </substitute>
     </names>
   </macro>
-
   <!-- 题名 -->
   <macro name="title">
     <group delimiter=", ">
@@ -450,12 +445,15 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  
+
   <!-- 保持空格缩进设置，符合学校规定 -->
-  <bibliography entry-spacing="0" line-spacing="1" et-al-min="4" et-al-use-first="3" second-field-align="false" hanging-indent="false">
+  <bibliography entry-spacing="0" line-spacing="1" et-al-min="4" et-al-use-first="3">
+    <layout locale="zh">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="entry-layout" suffix="."/>
+    </layout>
     <layout>
-      <text variable="citation-number" prefix="[" suffix="]"/>
-      <text value=" "/>
+      <text variable="citation-number" prefix="[" suffix="] "/>
       <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
