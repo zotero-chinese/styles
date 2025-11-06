@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=", " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0.2" name-as-sort-order="all" sort-separator=", " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>长江大学（理工农医）</title>
+    <title>长江大学硕士（理工农医类）</title>
     <id>http://www.zotero.org/styles/changjiang-university-engineering</id>
     <link href="http://www.zotero.org/styles/changjiang-university-engineering" rel="self"/>
+    <link href="https://gs.yangtzeu.edu.cn/info/1037/2535.htm" rel="documentation"/>
     <author>
-      <name>长江大学理工农医格式</name>
+      <name>长江大学动物科学技术学院QingYunkk</name>
     </author>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
-    <summary>长江大学理工农医类学位论文参考文献格式</summary>
-    <updated>2024-01-01T00:00:00+08:00</updated>
+    <category field="engineering"/>
+    <summary>长江大学硕士学位论文排版格式要求（20161122理工农医类）</summary>
+    <updated>2016-11-22T00:00:00+08:00</updated>
+    <rights>license</rights>
   </info>
   
   <!-- 英文locale作为主要locale -->
@@ -46,9 +48,9 @@
     </terms>
   </locale>
 
-  <!-- 主要责任者 - 采用AMA样式的方法 -->
+  <!-- 主要责任者 -->
   <macro name="author">
-    <names variable="author" delimiter=", " et-al-min="4" et-al-use-first="3">
+    <names variable="author" delimiter=", ">
       <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
       <et-al font-style="italic"/>
       <substitute>
@@ -69,9 +71,9 @@
     <group delimiter=", ">
       <group delimiter=": ">
         <text variable="title"/>
-        <group delimiter="&#8195;">
+        <group delimiter=" ">
           <choose>
-            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+            <if variable="container-title" type="chapter paper-conference" match="none">
               <text macro="volume"/>
               <text variable="volume-title"/>
             </if>
@@ -88,23 +90,8 @@
               </group>
             </if>
           </choose>
-          <choose>
-            <if type="collection manuscript personal_communication" match="any">
-              <text variable="archive_location"/>
-            </if>
-          </choose>
         </group>
       </group>
-      <choose>
-        <if variable="container-title" type="paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
@@ -156,7 +143,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
+      <else-if type="book chapter entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
       </else-if>
       <else-if type="dataset">
@@ -208,7 +195,7 @@
     </choose>
   </macro>
 
-  <!-- 其他责任者 - 采用AMA样式的方法 -->
+  <!-- 其他责任者 -->
   <macro name="secondary-contributors">
     <names variable="translator">
       <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
@@ -216,18 +203,18 @@
     </names>
   </macro>
 
-  <!-- 专著主要责任者 - 采用AMA样式的方法 -->
+  <!-- 专著主要责任者 -->
   <macro name="container-contributors">
-    <names variable="editor" et-al-min="4" et-al-use-first="3">
+    <names variable="editor">
       <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
       <substitute>
-        <names variable="editorial-director" et-al-min="4" et-al-use-first="3">
+        <names variable="editorial-director">
           <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
         </names>
-        <names variable="collection-editor" et-al-min="4" et-al-use-first="3">
+        <names variable="collection-editor">
           <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
         </names>
-        <names variable="container-author" et-al-min="4" et-al-use-first="3">
+        <names variable="container-author">
           <name name-as-sort-order="all" sort-separator=" " initialize-with=""/>
         </names>
       </substitute>
@@ -249,14 +236,6 @@
           <else-if type="paper-conference">
             <text variable="event-title"/>
           </else-if>
-        </choose>
-        <choose>
-          <if type="paper-conference" variable="event-date" match="all">
-            <group prefix="In: " delimiter=", ">
-              <date variable="event-date" form="text"/>
-              <text variable="event-place"/>
-            </group>
-          </if>
         </choose>
       </group>
     </group>
@@ -318,7 +297,7 @@
       <if type="patent">
         <text macro="issued-date"/>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" match="any">
         <group delimiter=": ">
           <group delimiter=", ">
             <group delimiter=": ">
@@ -431,26 +410,16 @@
           <text macro="publisher"/>
         </else-if>
         <else-if type="thesis">
-          <!-- 学位论文特殊格式：标题[D]:[学位级别] -->
+          <!-- 学位论文特殊格式：标题[D] -->
           <group>
             <text variable="title"/>
             <group prefix="[" suffix="]">
               <text macro="type-id"/>
             </group>
-            <!-- 添加学位级别 -->
-            <choose>
-              <if variable="genre">
-                <text variable="genre" prefix=":[" suffix="]"/>
-              </if>
-              <else>
-                <!-- 如果没有genre字段，默认为博士学位论文 -->
-                <text value=":博士学位论文]" suffix=""/>
-              </else>
-            </choose>
           </group>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+        <else-if type="chapter paper-conference" match="any">
           <group delimiter="//">
             <group delimiter=". ">
               <text macro="title"/>
@@ -472,16 +441,17 @@
     </group>
   </macro>
 
+  <!-- 修复引用标号上标显示 -->
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+    <layout delimiter="," prefix="[" suffix="]" vertical-align="sup">
       <text variable="citation-number"/>
     </layout>
   </citation>
   
-  <!-- 彻底去除缩进设置，并在编号后添加空格 -->
+  <!-- 保持空格缩进设置，符合学校规定 -->
   <bibliography entry-spacing="0" line-spacing="1" et-al-min="4" et-al-use-first="3" second-field-align="false" hanging-indent="false">
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
