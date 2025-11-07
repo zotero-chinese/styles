@@ -41,33 +41,33 @@
 <sup>4</sup> Ian Morris, <i>Why the West Rules—for Now</i>, pp. 326-329.<br>
 <sup>5</sup> Ian Morris, <i>Why the West Rules—for Now</i>, pp. 326-329.<br>
 <sup>6</sup> Ian Morris, <i>Why the West Rules—for Now</i>, p. 260.<br>
-<sup>7</sup> 应松年、马怀德，《当代中国行政法的源流》，第330页。<br>
-<sup>8</sup> 应松年、马怀德，《当代中国行政法的源流》，第330页。<br>
-<sup>9</sup> 应松年、马怀德，《当代中国行政法的源流》，第331页。<br>
+<sup>7</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
+<sup>8</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
+<sup>9</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第331页。<br>
 
 
 ### GB/T 7714—2015 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 陈登原著：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
+<sup>1</sup> 陈登原：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
 <sup>2</sup> 哈里森·沃尔德伦著，谢远涛译：《经济数学与金融数学》，北京：中国人民大学出版社，2012年，第235—236页。<br>
-<sup>3</sup> 北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所著：《历代王朝与民族宗教》，北京：民族出版社，2012年，第112页。<br>
+<sup>3</sup> 北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所：《历代王朝与民族宗教》，北京：民族出版社，2012年，第112页。<br>
 <sup>4</sup> 全国信息与文献标准化技术委员会：《信息与文献 都柏林核心元数据元素集》，北京：中国标准出版社，2010年，第2—3页。<br>
-<sup>5</sup> 徐光宪、王祥云著：《物质结构》，北京：科学出版社，2010年。<br>
-<sup>6</sup> 顾炎武著：《昌平山水记：京东考古录》，北京：北京古籍出版社，1982年。<br>
-<sup>7</sup> 王夫之著：《宋论》（刻本），金陵：湘乡曾国荃，1865年。<br>
+<sup>5</sup> 徐光宪、王祥云：《物质结构》，北京：科学出版社，2010年。<br>
+<sup>6</sup> 顾炎武：《昌平山水记：京东考古录》，北京：北京古籍出版社，1982年。<br>
+<sup>7</sup> 王夫之：《宋论》（刻本），金陵：湘乡曾国荃，1865年。<br>
 <sup>8</sup> 牛志明、斯温兰德、雷光春主编：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
 <sup>9</sup> 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，2001年。<br>
 <sup>10</sup> 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。<br>
-<sup>11</sup> 赵学功著：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
-<sup>12</sup> 同济大学土木工程防灾国家重点实验室著：《汶川地震灾害研究》，上海：同济大学出版社，2011年，第5—6页。<br>
-<sup>13</sup> 中国造纸学会著：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
+<sup>11</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
+<sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年，第5—6页。<br>
+<sup>13</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>14</sup> Peyton Z. Peebles Jr. Probability, Random Variables, and Random Signal Principles. New York: McGraw-Hill. 2001.<br>
 <sup>15</sup> Sergey A. Yufin, ed. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema. 2000.<br>
 <sup>16</sup> Peter Baldock. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press. 2011. p. 105.<br>
 <sup>17</sup> Xuetong Fan and Christopher H. Sommers. Food Irradiation Research and Technology. Ames, Iowa: Blackwell Publishing. 2013. pp. 25-26.<br>
-<sup>18</sup> 王夫之：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
+<sup>18</sup> 王夫之主编：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
 <sup>19</sup> 程根伟：《1998 年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。<br>
 <sup>20</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界的研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56—114页。<br>
 <sup>21</sup> 马克思：《政治经济学批判》，马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年，第302页。<br>
@@ -100,13 +100,13 @@
 <sup>48</sup> S. K. Baker and M. E. Jackson. The Future of Resource Sharing. New York: The Haworth Press. 1995.<br>
 <sup>49</sup> B. E. Chernik. Introduction to Library Services for Library Technicians. Littleton, Colo.: Libraries Unlimited, Inc. 1982.<br>
 <sup>50</sup> 尼葛洛庞帝著，胡泳、范海燕译：《数字化生存》，海口：海南出版社，1996年。<br>
-<sup>51</sup> 汪冰著：《电子图书馆理论与实践研究》，北京：北京图书馆出版社，1997年，第16页。<br>
+<sup>51</sup> 汪冰：《电子图书馆理论与实践研究》，北京：北京图书馆出版社，1997年，第16页。<br>
 <sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期，第24—29页。<br>
 <sup>53</sup> Lawrence Dowler. The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment. Journal of Library Administration, 1995, 21(1/2). pp. 5-26.<br>
 <sup>54</sup> Cass R. Sunstein. Social Norms and Social Roles. Columbia Law Review, 1996, 96. p. 903.<br>
 <sup>55</sup> Ian Morris. Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future. New York: Farrar, Straus and Giroux. 2010.<br>
 <sup>56</sup> 罗杰斯著，潘惠霞、魏婧、杨艳、汤玲译：《西方文明史：问题与源头》，大连：东北财经大学出版社，2011年，第15—16页。<br>
-<sup>57</sup> 陈登原著：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
+<sup>57</sup> 陈登原：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
 <sup>58</sup> Diana Crane. Invisible College. Chicago: Univ. of Chicago Press. 1972.<br>
 <sup>59</sup> Margaret F. Stieg. The Information Needs of Historians. College &#38; Research Libraries, 1981, 42(6). pp. 549-560.<br>
 <sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报（社会科学版）》第37卷第4期，2010年，第147页。<br>
@@ -114,20 +114,20 @@
 <sup>62</sup> William James Kennedy and Robert E. Garrison. Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England. Sedimentology, 1975, 22. p. 311.<br>
 <sup>63</sup> William James Kennedy and Robert E. Garrison. Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England. Lethaia, 1975, 8(4). pp. 339-360.<br>
 <sup>64</sup> 张忠智：《科技书刊的总编（主编）的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会，1997年，第33—34页。<br>
-<sup>65</sup> 中国社会科学院语言研究所词典编辑室著：《现代汉语词典》（修订本），北京：商务印书馆，1996年。<br>
+<sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》（修订本），北京：商务印书馆，1996年。<br>
 <sup>66</sup> 刘彻东：《中国的青年刊物：个性特色为本仁》，《中国出版》1998年第5期，第38—39页。<br>
 <sup>67</sup> 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，北京：中国科学技术协会学会工作部，1981年，第2—10页。<br>
-<sup>68</sup> 张伯伟著：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第288页。<br>
-<sup>69</sup> 皮锡瑞著：《师伏堂日记》第 4 册，北京：国家图书馆，2009年，第155页。<br>
-<sup>70</sup> 胡承正、周详、缪灵著：《理论物理概论》上，武汉：武汉大学出版社，2010年，第112页。<br>
+<sup>68</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第288页。<br>
+<sup>69</sup> 皮锡瑞：《师伏堂日记》第 4 册，北京：国家图书馆，2009年，第155页。<br>
+<sup>70</sup> 胡承正、周详、缪灵：《理论物理概论》上，武汉：武汉大学出版社，2010年，第112页。<br>
 <sup>71</sup> 美国妇产科医师学会著，段涛、杨慧霞译：《新生儿脑病和脑性瘫痪：发病机制与病理生理》，北京：人民卫生出版社，2010年，第38—39页。<br>
 <sup>72</sup> 《康熙字典：巳集上：水部》（同文书局影印本），北京：中华书局，1962年，第50页。<br>
-<sup>73</sup> 汪昂著：《增订本草备要》（刻本）四卷，京都：老二酉堂，1881年。<br>
-<sup>74</sup> 蒋有绪、郭泉水、马娟、others著：《中国森林群落分类及其群落特征》，北京：科学出版社，1998年。<br>
-<sup>75</sup> 中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团著：《投资台湾：大陆企业赴台投资指南》，北京：九州出版社，2013年。<br>
+<sup>73</sup> 汪昂：《增订本草备要》（刻本）四卷，京都：老二酉堂，1881年。<br>
+<sup>74</sup> 蒋有绪、郭泉水、马娟、others：《中国森林群落分类及其群落特征》，北京：科学出版社，1998年。<br>
+<sup>75</sup> 中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团：《投资台湾：大陆企业赴台投资指南》，北京：九州出版社，2013年。<br>
 <sup>76</sup> 罗斯基著，唐巧天、毛立坤、姜修宪译：《战前中国经济的增长》，杭州：浙江大学出版社，2009年。<br>
 <sup>77</sup> 库恩著，金吾伦、胡新和译：《科学革命的结构：第 4 版》（第2版），北京：北京大学出版社，2012年。<br>
-<sup>78</sup> 侯文顺著：《高分子物理：高分子材料分析、选择与改性》，北京：化学工业出版社，2010年，第119页。<br>
+<sup>78</sup> 侯文顺：《高分子物理：高分子材料分析、选择与改性》，北京：化学工业出版社，2010年，第119页。<br>
 <sup>79</sup> Walt Crawford and Michael Gorman. Future Libraries: Dreams, Madness, &#38; Reality. Chicago: American Library Association. 1995.<br>
 <sup>80</sup> International Federation of Library Association and Institutions. Names of Persons: National Usages for Entry in Catalogues. London: IFLA International Office for UBC. 1977.<br>
 <sup>81</sup> J. A. O’Brien. Introduction to Information Systems. Burr Ridge, IL: Irwin. 1994.<br>
@@ -197,7 +197,7 @@
 <sup>9</sup> Sujata M. Huestegge, Tim Raettig, and Lynn Huestegge. Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing. Experimental Psychology, 2019.<br>
 <sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater, and Lorenzo Pia. Body Ownership Increases the Interference between Observed and Executed Movements. PLOS ONE, 2019, 14(1).<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年，第210—215页。<br>
-<sup>12</sup> 张三著：《心理学史》，北京：未名出版社，2008年。<br>
+<sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds. Children of Color: Psychological Interventions with Minority Youth. Hoboken, NJ, US: Jossey-Bass. 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace. trans. F. W. Truscott and F. L. Emory. A Philosophical Essay on Probabilities. Dover. 1951.<br>
@@ -227,19 +227,19 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 赵景深著：《文坛忆旧》，上海：北新书局，1948年。<br>
-<sup>2</sup> 谢兴尧整理：《荣庆日记》，西安：西北大学出版社，1986年。<br>
-<sup>3</sup> 蒋大兴著：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。<br>
+<sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年。<br>
+<sup>2</sup> 谢兴尧编：《荣庆日记》，西安：西北大学出版社，1986年。<br>
+<sup>3</sup> 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。<br>
 <sup>4</sup> 任继愈主编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
 <sup>5</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社，1982年。<br>
 <sup>6</sup> 金冲及主编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
-<sup>7</sup> 佚名著：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心，1998年。<br>
-<sup>8</sup> 狄葆贤著：《平等阁笔记》，上海：有正书局，出版时间不详。<br>
+<sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心，1998年。<br>
+<sup>8</sup> 狄葆贤：《平等阁笔记》，上海：有正书局，出版时间不详。<br>
 <sup>9</sup> 《马克思恩格斯全集》第31卷，北京：人民出版社，1998年。<br>
 <sup>10</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编译出版社，1999年，第247—266页。<br>
 <sup>11</sup> 鲁迅：《中国小说的历史的变迁》，《鲁迅全集》第9册，北京：人民文学出版社，1981年。<br>
 <sup>12</sup> 唐振常：《师承与变法》，《识史集》，上海：上海古籍出版社，1997年。<br>
-<sup>13</sup> 李鹏程著：《当代文化哲学沉思》，北京：人民出版社，1994年。<br>
+<sup>13</sup> 李鹏程：《当代文化哲学沉思》，北京：人民出版社，1994年。<br>
 <sup>14</sup> 楼适夷：《读家书，想傅雷（代序）》，傅敏主编：《傅雷家书》（增补本），北京：三联书店，1998年。<br>
 <sup>15</sup> 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，《中国大历史》，北京：三联书店，1997年。<br>
 <sup>16</sup> 姚际恒：《古今伪书考》卷3，光绪三年苏州文学山房活字本。<br>
@@ -283,13 +283,13 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 王名扬著：《美国行政法》，北京大学出版社，2007年。<br>
-<sup>2</sup> 张新宝著：《侵权责任法》（第4版），中国人民大学出版社，2016年。<br>
+<sup>1</sup> 王名扬：《美国行政法》，北京大学出版社，2007年。<br>
+<sup>2</sup> 张新宝：《侵权责任法》（第4版），中国人民大学出版社，2016年。<br>
 <sup>3</sup> 高鸿钧、程汉大主编：《英美法原论》，北京大学出版社，2013年。<br>
 <sup>4</sup> [美]富勒著，郑戈译：《法律的道德性》，商务印书馆，2005年。<br>
 <sup>5</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》1993年第1期，第83—103页。<br>
 <sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年，第110页。<br>
-<sup>7</sup> [德]莱纳·沃尔夫，陈霄译：《风险法的风险》，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
+<sup>7</sup> [德]莱纳·沃尔夫著，陈霄译：《风险法的风险》，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
 <sup>8</sup> 何海波：《判决书上网》，《法制日报》2000年5月21日，第2版。<br>
 <sup>9</sup> 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，人民网，2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>，2022年5月3日。<br>
 <sup>10</sup> 《被告人李宁、张磊贪污案一审开庭》，新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。<br>
@@ -306,10 +306,10 @@
 <sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
 <sup>22</sup> R. v. Panel on Take-Overs and Mergers, vol. 815. 1987.<br>
 <sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52—59页。<br>
-<sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗著：《近代中国宪政历程》，中国政法大学出版社，2004年。<br>
+<sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程》，中国政法大学出版社，2004年。<br>
 <sup>25</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》（第2版）第2卷，人民出版社，1994年。<br>
 <sup>26</sup> [英]劳特派特著，王铁崖、陈体强译：《奥本海国际法》（第8版）上卷第一分册，商务印书馆，1971年。<br>
-<sup>27</sup> 瞿同祖著：《中国法律与中国社会》，商务印书馆，2010年。<br>
+<sup>27</sup> 瞿同祖：《中国法律与中国社会》，商务印书馆，2010年。<br>
 <sup>28</sup> 崔国斌：《知识产权法官造法批判》，《中国法学》2006年第1期，第144—164页。<br>
 <sup>29</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年。<br>
 <sup>30</sup> 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年。<br>
@@ -367,7 +367,7 @@
 <sup>82</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
 <sup>83</sup> 平成26年版犯罪白書.<br>
 <sup>84</sup> ジュリスト. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022.<br>
-<sup>85</sup> 欧中坦，谢鹏程译：《千方百计上京城：清朝的京控》，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社，1994年。<br>
+<sup>85</sup> 欧中坦著，谢鹏程译：《千方百计上京城：清朝的京控》，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社，1994年。<br>
 <sup>86</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
 
 

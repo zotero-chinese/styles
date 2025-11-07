@@ -4,7 +4,7 @@
     <title>教育史研究</title>
     <id>https://www.zotero-chinese.com/styles/教育史研究</id>
     <link href="https://www.zotero-chinese.com/styles/教育史研究" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
     <link href="https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&amp;dbname=CJFDLAST2020&amp;filename=JYUY202001020" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -37,9 +37,8 @@
       <term name="close-inner-quote">’</term>
       <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="page-range-delimiter">&#8212;</term>
-      <term name="author">著</term>
+      <term name="author" form="short">著</term>
       <term name="editor" form="short">主编</term>
-      <term name="compiler" form="short">整理</term>
     </terms>
   </locale>
   <macro name="author-en">
@@ -53,23 +52,34 @@
     </names>
   </macro>
   <macro name="author-zh">
-    <names variable="author">
-      <name delimiter="、"/>
-      <substitute>
-        <names variable="editor"/>
-        <names variable="compiler"/>
-      </substitute>
-    </names>
-  </macro>
-  <macro name="author-book-zh">
-    <names variable="author">
-      <name delimiter="、"/>
-      <label form="short"/>
-      <substitute>
-        <names variable="editor"/>
-        <names variable="compiler"/>
-      </substitute>
-    </names>
+    <choose>
+      <if variable="translator">
+        <text variable="nationality" prefix="［" suffix="］"/>
+        <names variable="author">
+          <name delimiter="、"/>
+          <label form="short"/>
+          <substitute>
+            <names variable="editor"/>
+            <names variable="compiler"/>
+          </substitute>
+        </names>
+      </if>
+      <else>
+        <names variable="author">
+          <name delimiter="、"/>
+          <substitute>
+            <names variable="editor">
+              <name delimiter="、"/>
+              <label form="short"/>
+            </names>
+            <names variable="compiler">
+              <name delimiter="、"/>
+              <label form="short"/>
+            </names>
+          </substitute>
+        </names>
+      </else>
+    </choose>
   </macro>
   <macro name="volume-en">
     <choose>
@@ -621,14 +631,7 @@
   <macro name="source-zh">
     <group delimiter="：">
       <group delimiter="，">
-        <choose>
-          <if type="book">
-            <text macro="author-book-zh"/>
-          </if>
-          <else>
-            <text macro="author-zh"/>
-          </else>
-        </choose>
+        <text macro="author-zh"/>
         <text macro="translator-zh"/>
       </group>
       <group delimiter="，">
