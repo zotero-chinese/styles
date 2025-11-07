@@ -672,7 +672,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英，1990，《论近代西北人口波动的若干主要原因》，《社会科学》（兰州）第6期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">谢兴尧编撰，1986，《荣庆日记》，西安：西北大学出版社。</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">谢兴尧编，1986，《荣庆日记》，西安：西北大学出版社。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">扬之水，《两宋茶诗与茶事》，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>

@@ -48,6 +48,7 @@
   <macro name="author-bib-zh">
     <names variable="author">
       <name delimiter="、"/>
+      <label form="short"/>
       <substitute>
         <names variable="editor"/>
       </substitute>

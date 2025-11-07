@@ -49,13 +49,13 @@
 
 <sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” Columbia Law Review, 96, 1996, p.903.<br>
 <sup>2</sup> Ian Morris, Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
-<sup>3</sup> 应松年、马怀德编著：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
+<sup>3</sup> 应松年、马怀德编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
 <sup>4</sup> Ian Morris, Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
 <sup>5</sup> Ian Morris, Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010, pp.326-329.<br>
 <sup>6</sup> Ian Morris, Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future, New York: Farrar, Straus and Giroux, 2010, p.260.<br>
-<sup>7</sup> 应松年、马怀德编著：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第330页。<br>
-<sup>8</sup> 应松年、马怀德编著：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第330页。<br>
-<sup>9</sup> 应松年、马怀德编著：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第331页。<br>
+<sup>7</sup> 应松年、马怀德编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第330页。<br>
+<sup>8</sup> 应松年、马怀德编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第330页。<br>
+<sup>9</sup> 应松年、马怀德编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年，第331页。<br>
 
 
 ### GB/T 7714—2015 示例文献
@@ -69,7 +69,7 @@
 <sup>5</sup> 徐光宪、王祥云：《物质结构》，北京：科学出版社，2010年。<br>
 <sup>6</sup> 顾炎武：《昌平山水记：京东考古录》，北京：北京古籍出版社，1982年。<br>
 <sup>7</sup> 王夫之：《宋论》（刻本），金陵：湘乡曾国荃，1865年。<br>
-<sup>8</sup> 牛志明、斯温兰德、雷光春编著：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
+<sup>8</sup> 牛志明、斯温兰德、雷光春编：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
 <sup>9</sup> 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，2001年。<br>
 <sup>10</sup> 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。<br>
 <sup>11</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
@@ -79,7 +79,7 @@
 <sup>15</sup> Sergey A. Yufin, ed., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>16</sup> Peter Baldock, Developing Early Childhood Services: Past, Present and Future, Rotterdam: Open University Press, 2011.<br>
 <sup>17</sup> Xuetong Fan and Christopher H. Sommers, Food Irradiation Research and Technology, Ames, Iowa: Blackwell Publishing, 2013.<br>
-<sup>18</sup> 王夫之编著：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
+<sup>18</sup> 王夫之编：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
 <sup>19</sup> 程根伟：《1998 年长江洪水的成因与减灾对策》，见许厚泽、赵其国编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。<br>
 <sup>20</sup> 陈晋镳、张惠民、朱士兴等：《蓟县震旦亚界的研究》，见中国地质科学院天津地质矿产研究所编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56—114页。<br>
 <sup>21</sup> 马克思：《政治经济学批判》，见马克思、恩格斯编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年，第302页。<br>
@@ -145,10 +145,10 @@
 <sup>81</sup> J. A. O’Brien, Introduction to Information Systems, Burr Ridge, IL: Irwin, 1994.<br>
 <sup>82</sup> A. Kinchy, Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops, Cambridge, Mass.: MIT Press, 2012.<br>
 <sup>83</sup> Adrian Praetzellis, Death by Theory: A Tale of Mystery and Archaeological Theory, Rowman &#38; Littlefield Publishing Group, Inc., 2011.<br>
-<sup>84</sup> 中国职工教育研究会编著：《职工教育研究论文集》，北京：人民教育出版社，1985年。<br>
-<sup>85</sup> 中国社会科学院台湾史研究中心编著：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
-<sup>86</sup> 雷光春编著：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
-<sup>87</sup> 陈志勇编著：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
+<sup>84</sup> 中国职工教育研究会编：《职工教育研究论文集》，北京：人民教育出版社，1985年。<br>
+<sup>85</sup> 中国社会科学院台湾史研究中心编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
+<sup>86</sup> 雷光春编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
+<sup>87</sup> 陈志勇编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
 <sup>88</sup> B. V. Babu, Atulya K. Nagar, Kusum Deep, et al., eds., Proceedings of the Second International Conference on Soft Computing for Problem Solving, New Delhi: Springer, 2014.<br>
 <sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。<br>
 <sup>90</sup> 汤万金、杨跃翔、刘文等：《人体安全重要技术标准研制最终报告》，2013年。<br>
@@ -210,7 +210,7 @@
 <sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, et al., “Body Ownership Increases the Interference between Observed and Executed Movements,” PLOS ONE, 14(1), 2019.<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年增刊。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
-<sup>13</sup> 张三编著：《心理学史》，北京：未名出版社，2008年。<br>
+<sup>13</sup> 张三编：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., Children of Color: Psychological Interventions with Minority Youth, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace, A Philosophical Essay on Probabilities, trans. by F. W. Truscott and F. L. Emory, Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，1814年，张三、李四译，北京：未名出版社，1951年。<br>
@@ -225,7 +225,7 @@
 <sup>25</sup> Terence R. Mitchell and James R. Larson, People in Organizations: An Introduction to Organizational Behavior, New York: McGraw-Hill, 1987.<br>
 <sup>26</sup> P. G. Bergmann, “Relativity,” in The New Encyclopedia Britannica, New York: Encyclopedia Britannica, 1993.<br>
 <sup>27</sup> Stanley Sadie, ed., The New Grove Dictionary of Music and Musicians, London : New York: Macmillan, 1980.<br>
-<sup>28</sup> 李行健编著：《现代汉语规范辞典》，北京：外语教学与研究出版社，2004年。<br>
+<sup>28</sup> 李行健编：《现代汉语规范辞典》，北京：外语教学与研究出版社，2004年。<br>
 <sup>29</sup> 《现代汉语频率词典》，北京：北京语言学院出版社，1986年。<br>
 <sup>30</sup> Lin Yu, Phonological Representation and Processing in Chinese Spoken Language Production, Unpublished doctorial dissertation, Beijing Normal University, 2000.<br>
 <sup>31</sup> 余林：《汉语语言产生中的语音表征与加工》，博士学位论文，北京师范大学，2000年。<br>
@@ -240,11 +240,11 @@
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年。<br>
-<sup>2</sup> 谢兴尧编撰：《荣庆日记》，西安：西北大学出版社，1986年。<br>
+<sup>2</sup> 谢兴尧编：《荣庆日记》，西安：西北大学出版社，1986年。<br>
 <sup>3</sup> 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。<br>
-<sup>4</sup> 任继愈编著：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
+<sup>4</sup> 任继愈编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
 <sup>5</sup> 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。<br>
-<sup>6</sup> 金冲及编著：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
+<sup>6</sup> 金冲及编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
 <sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》（上册），北京：全国图书馆文献缩微复制中心，1998年。<br>
 <sup>8</sup> 狄葆贤：《平等阁笔记》，上海：有正书局，出版时间不详。<br>
 <sup>9</sup> 《马克思恩格斯全集》（第31卷），北京：人民出版社，1998年。<br>
@@ -297,7 +297,7 @@
 
 <sup>1</sup> 王名扬：《美国行政法》，北京大学出版社，2007年。<br>
 <sup>2</sup> 张新宝：《侵权责任法》（第4版），中国人民大学出版社，2016年。<br>
-<sup>3</sup> 高鸿钧、程汉大编著：《英美法原论》，北京大学出版社，2013年。<br>
+<sup>3</sup> 高鸿钧、程汉大编：《英美法原论》，北京大学出版社，2013年。<br>
 <sup>4</sup> [美]富勒：《法律的道德性》，郑戈译，商务印书馆，2005年。<br>
 <sup>5</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》1993年第1期。<br>
 <sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，见梁慧星编：《民商法论丛》第1卷，法律出版社，1994年，第110页。<br>
@@ -315,7 +315,7 @@
 <sup>18</sup> Charles A. Reich, “The New Property,” Yale Law Journal, 73(5), 1964.<br>
 <sup>19</sup> Louis D. Brandeis, “What Publicity Can Do,” Harper’s Weekly, December 20, 1913.<br>
 <sup>20</sup> William Alford, To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization, Stanford University Press, 1995.<br>
-<sup>21</sup> 应松年、马怀德编著：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
+<sup>21</sup> 应松年、马怀德编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
 <sup>22</sup> “R. v. Panel on Take-Overs and Mergers,” in QB, 1987.<br>
 <sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期。<br>
 <sup>24</sup> 夏新华、胡旭晟、刘鄂等：《近代中国宪政历程》，中国政法大学出版社，2004年。<br>

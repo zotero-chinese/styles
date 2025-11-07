@@ -4,7 +4,7 @@
     <title>历史研究</title>
     <id>https://www.zotero-chinese.com/styles/历史研究</id>
     <link href="https://www.zotero-chinese.com/styles/历史研究" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
     <link href="https://lsyj.ajcass.com/" rel="documentation"/>
     <link href="https://history.bnu.edu.cn/docs//2022-05/f1c3e29e121243c7905a2e474da07b19.pdf" rel="documentation"/>
     <author>
@@ -46,7 +46,6 @@
       <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="page-range-delimiter">&#8212;</term>
       <term name="editor" form="short">编</term>
-      <term name="compiler" form="short">整理</term>
     </terms>
   </locale>
   <macro name="author-en">

@@ -41,9 +41,6 @@
       <term name="close-inner-quote">’</term>
       <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="page-range-delimiter">&#8212;</term>
-      <term name="editor">编著</term>
-      <term name="editor" form="short">编</term>
-      <term name="compiler" form="short">整理</term>
       <term name="paper-conference">论文</term>
       <term name="report">报告</term>
       <term name="thesis">博士学位论文</term>
@@ -62,7 +59,7 @@
   <macro name="author-zh">
     <names variable="author">
       <name delimiter="、" delimiter-precedes-et-al="never"/>
-      <label/>
+      <label form="short"/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>

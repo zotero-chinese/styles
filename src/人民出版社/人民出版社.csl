@@ -4,7 +4,7 @@
     <title>人民出版社</title>
     <id>https://www.zotero-chinese.com/styles/人民出版社</id>
     <link href="https://www.zotero-chinese.com/styles/人民出版社" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
     <link href="http://www.pph166.com/" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -37,7 +37,6 @@
       <!-- 中文页码之间连字符用一字线。 -->
       <term name="page-range-delimiter">&#8212;</term>
       <term name="editor" form="short">主编</term>
-      <term name="compiler" form="short">整理</term>
     </terms>
   </locale>
   <macro name="author-en">

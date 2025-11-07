@@ -63,9 +63,8 @@
       <term name="article-locator" form="short">条</term>  <!-- 《宪法》第十八条翻译为“Article 18” -->
       <term name="book" form="short">编</term>  <!-- 《民法典》第一编翻译为“Book One” -->
       <term name="accessed">访问</term>
-      <term name="compiler">整理</term>
-      <term name="compiler" form="short">整理</term>
       <term name="edition" form="short">版</term>
+      <term name="compiler" form="short">汇编</term>
       <term name="editor" form="short">主编</term>
       <term name="ibid">同上注</term>
       <term name="in">载</term>
@@ -93,6 +92,7 @@
       <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -101,6 +101,7 @@
       <name et-al-min="4" et-al-use-first="1" form="short" delimiter="/"/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -111,6 +112,7 @@
       <label form="short" prefix=" "/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -119,6 +121,7 @@
       <name initialize="false" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -128,6 +131,7 @@
       <label form="short" prefix=" "/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -137,6 +141,7 @@
       <label form="short"/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -145,7 +150,9 @@
       <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
       <substitute>
+        <!-- 文献主要作者（包括文献的原创者及主编、汇编者等) -->
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -155,6 +162,7 @@
       <name delimiter="、" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="editor"/>
+        <names variable="compiler"/>
       </substitute>
     </names>
   </macro>
@@ -1006,23 +1014,17 @@
       </else>
     </choose>
   </macro>
-  <!-- 其他贡献者(翻译、 整理、校对) -->
+  <!-- 其他贡献者（翻译、整理、校对） -->
   <macro name="secondary-contributors-en">
     <names variable="translator" delimiter=", ">
       <label form="verb" suffix=" "/>
       <name initialize="false" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
-      <substitute>
-        <names variable="compiler"/>
-      </substitute>
     </names>
   </macro>
   <macro name="secondary-contributors-zh">
     <names variable="translator" delimiter="，">
       <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
-      <substitute>
-        <names variable="compiler"/>
-      </substitute>
     </names>
   </macro>
   <macro name="edition-de">

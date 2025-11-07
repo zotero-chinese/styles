@@ -5,7 +5,7 @@
     <id>https://www.zotero-chinese.com/styles/世界经济与政治</id>
     <link href="https://www.zotero-chinese.com/styles/世界经济与政治" rel="self"/>
     <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
-    <link href="http://www.iwep.org.cn/cbw/cbw_xsqk/xsqk_sjjjyzz/xsqk_zsgf/" rel="documentation"/>
+    <link href="http://iwep.cssn.cn/cbw/cbw_xsqk/xsqk_sjjjyzz/xsqk_zsgf/" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>
       <email>edwardzhoujiaxi@gmail.com</email>
@@ -18,6 +18,7 @@
     <category field="political_science"/>
     <category field="social_science"/>
     <issn>1006-9550</issn>
+    <summary>《世界经济与政治》注释体例</summary>
     <updated>2024-12-25T18:45:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -43,7 +44,6 @@
       <term name="page-range-delimiter">&#8212;</term>
       <term name="author" form="short">著</term>
       <term name="editor" form="short">主编</term>
-      <term name="compiler" form="short">整理</term>
     </terms>
   </locale>
   <locale>

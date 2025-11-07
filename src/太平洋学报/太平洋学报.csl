@@ -4,7 +4,7 @@
     <title>太平洋学报</title>
     <id>https://www.zotero-chinese.com/styles/太平洋学报</id>
     <link href="https://www.zotero-chinese.com/styles/太平洋学报" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
     <link href="http://www.pacificjournal.com.cn/CN/column/column41.shtml" rel="documentation"/>
     <author>
       <name>Edward Zhou</name>
@@ -44,7 +44,6 @@
       <term name="page-range-delimiter">&#8212;</term>
       <term name="author" form="short">著</term>
       <term name="editor" form="short">主编</term>
-      <term name="compiler" form="short">整理</term>
       <term name="thesis">博士论文</term>
     </terms>
   </locale>

@@ -278,7 +278,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">汪疑今，“江苏的小农及其副业”，《中国经济》，1936年6月15日第四卷第六期。</div>
   <div class="csl-entry">王明亮，1998年8月16日，“关于中国学术期刊标准化数据库系统工程的进展”，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。</div>
   <div class="csl-entry">魏丽英，“论近代西北人口波动的若干主要原因”，《社会科学》，1990年第六期，68～73, 86页。</div>
-  <div class="csl-entry">谢兴尧整理，《荣庆日记》，西安，西北大学出版社，1986。</div>
+  <div class="csl-entry">谢兴尧编，《荣庆日记》，西安，西北大学出版社，1986。</div>
   <div class="csl-entry">扬之水，“两宋茶诗与茶事”，《文学遗产通讯》（网络版试刊）2006年第1期，互联网，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>
   <div class="csl-entry">杨钟羲，《雪桥诗话续集》，沈阳，辽沈书社，1991。</div>
   <div class="csl-entry">姚际恒，《古今伪书考》。</div>
