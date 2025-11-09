@@ -54,7 +54,7 @@
   <div class="csl-entry">@汶川地震灾害研究@同济大学土木工程防灾国家重点实验室. (@2011)</div>
   <div class="csl-entry">@中国造纸年鉴：2003@中国造纸学会. (@2003)</div>
   <div class="csl-entry">@Probability, random variables, and random signal principles@Peebles P Z Jr. (@2001)</div>
-  <div class="csl-entry">@Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering@anonymous. (@2000)</div>
+  <div class="csl-entry">@Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000@anonymous. (@2000)</div>
   <div class="csl-entry">@Developing early childhood services: Past, present and future@Baldock P. (@2011)</div>
   <div class="csl-entry">@Food irradiation research and technology@Fan X, Sommers C H. (@2013)</div>
   <div class="csl-entry">@周易外传：卷 5@佚名. (@2011)</div>
@@ -127,7 +127,7 @@
   <div class="csl-entry">@台湾光复六十五周年暨抗战史实学术研讨会论文集@佚名. (@2012)</div>
   <div class="csl-entry">@综合湿地管理：综合湿地管理国际研讨会论文集@佚名. (@2012)</div>
   <div class="csl-entry">@中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集@佚名. (@2011)</div>
-  <div class="csl-entry">@Proceedings of the Second International Conference on Soft Computing for Problem Solving@anonymous. (@2014)</div>
+  <div class="csl-entry">@Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012@anonymous. (@2014)</div>
   <div class="csl-entry">@国防白皮书：中国武装力量的多样化运用@中华人民共和国国务院新闻办公室. (@2013)</div>
   <div class="csl-entry">@人体安全重要技术标准研制最终报告@汤万金, 杨跃翔, 等. (@2013)</div>
   <div class="csl-entry">@A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report@Calkin D, Ager A, et al. (@2011)</div>

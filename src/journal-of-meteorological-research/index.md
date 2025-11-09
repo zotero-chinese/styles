@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden, D., 2008: Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (Accessed March 8, 2013).</div>
   <div class="csl-entry">Fan, X., and C. H. Sommers, 2013: <i>Food irradiation research and technology</i>. 2nd ed. Blackwell Publishing,.</div>
-  <div class="csl-entry">Fourney, M. E., c1971: Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, New York, ASME, 17–38.</div>
+  <div class="csl-entry">Fourney, M. E., c1971: Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York, ASME, 17–38.</div>
   <div class="csl-entry">Myburg, A. A., et al., 2014: The genome of eucalyptus grandis. <i>Nature</i>, <b>510</b>, 356–362, <a href="https://doi.org/10.1038/nature13308">https://doi.org/10.1038/nature13308</a>.</div>
   <div class="csl-entry">中国互联网络信息中心, 2012: <i>第 29 次中国互联网络发展状况统计报告</i>. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a> (Accessed March 26, 2013).</div>
   <div class="csl-entry">库恩, 2012: <i>科学革命的结构：第 4 版</i>. 2nd ed. 北京大学出版社,.</div>
@@ -67,7 +67,7 @@ Qian et al. (2009a)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science, 1883: Science. <b>1</b>.</div>
-  <div class="csl-entry">Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, and U. Gupta, eds., 2014: <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer,.</div>
+  <div class="csl-entry">Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, and U. Gupta, eds., 2014: <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer,.</div>
   <div class="csl-entry">Baker, S. K., and M. E. Jackson, 1995: <i>The future of resource sharing</i>. The Haworth Press,.</div>
   <div class="csl-entry">Baldock, P., 2011: <i>Developing early childhood services: Past, present and future</i>. Open University Press,.</div>
   <div class="csl-entry">Bawden, D., 2008: Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (Accessed March 8, 2013).</div>
@@ -83,7 +83,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Deverell, W., and D. Igler, eds., 2013: <i>A companion to California history</i>. John Wiley &#38; Sons,.</div>
   <div class="csl-entry">Dowler, L., 1995: The research university’s dilemma: Resource sharing and research in a transinstitutional environment. <i>Journal of Library Administration</i>, <b>21</b>, 5–26, <a href="https://doi.org/10.1300/J111V21N01_02">https://doi.org/10.1300/J111V21N01_02</a>.</div>
   <div class="csl-entry">Fan, X., and C. H. Sommers, 2013: <i>Food irradiation research and technology</i>. 2nd ed. Blackwell Publishing,.</div>
-  <div class="csl-entry">Fourney, M. E., c1971: Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, New York, ASME, 17–38.</div>
+  <div class="csl-entry">Fourney, M. E., c1971: Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York, ASME, 17–38.</div>
   <div class="csl-entry">Franz, A. K., M. A. Danielewicz, D. M. Wong, L. A. Anderson, and J. R. Boothe, 2013: Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. <i>ACS Chem. Biol.</i>, <b>8</b>, 1053–1062, <a href="https://doi.org/10.1021/cb300573r">https://doi.org/10.1021/cb300573r</a>.</div>
   <div class="csl-entry">Frese, K. S., H. A. Katus, and B. Meder, 2013: Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <b>2</b>, 378–398, <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a>.</div>
   <div class="csl-entry">Hopkinson, A., 2009: UNIMARC and metadata: Dublin Core. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> (Accessed March 27, 2013).</div>
@@ -109,7 +109,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Walls, S. C., W. J. Barichivich, and M. E. Brown, 2013: Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <i>Biology</i>, <b>2</b>, 399–418, <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a>.</div>
   <div class="csl-entry">Weinstein, L., and M. N. Swartz, 1974: Pathogenic properties of invading microorganisms. <i>Pathologic physiology: mechanisms of disease</i>, W.A. Sodeman Jr. and W.A. Sodeman, Eds., Saunders, 457–472.</div>
   <div class="csl-entry">World Health Organization, 1970: <i>Factors regulating the immune response: Report of WHO Scientific Group</i>. WHO,.</div>
-  <div class="csl-entry">Yufin, S. A., ed., 2000: <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema,.</div>
+  <div class="csl-entry">Yufin, S. A., ed., 2000: <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. A. A. Balkema,.</div>
   <div class="csl-entry">丁文详, 2000: 数字革命与竞争国际化. 中国青年报, November 20.</div>
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013: 国防白皮书：中国武装力量的多样化运用. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a> (Accessed June 11, 2014).</div>
   <div class="csl-entry">中华医学会湖北分会, 1984: 临床内科杂志. <b>1</b>.</div>

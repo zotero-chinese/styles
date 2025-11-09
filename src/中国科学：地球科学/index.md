@@ -26,7 +26,7 @@
   <div class="csl-entry">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展状况统计报告</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
   <div class="csl-entry">Fan X, Sommers C H. 2013. Food Irradiation Research and Technology. 2nd ed. Ames, Iowa: Blackwell Publishing. 25-26</div>
-  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23—25, 1971, University of Southern California, Los Angeles, California. New York: ASME. 17-38</div>
+  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME. 17-38</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C-Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. 2014. The genome of eucalyptus grandis. Nature, 510: 356-362</div>
 </div>
 
@@ -151,7 +151,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">佚名. 2011. 周易外传：卷 5. 见: 王夫之, 编. 船山全书: 第 6 册. 长沙: 岳麓书社. 1109</div>
   <div class="csl-entry">Anon. 2012. Dublin Core metadata element set: version 1.1. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
   <div class="csl-entry">Anon. [2013]. Information and documentation—The Dublin Core metadata element set: ISO 15836:2009</div>
-  <div class="csl-entry">Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28—30, 2012. New Delhi: Springer</div>
+  <div class="csl-entry">Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer</div>
   <div class="csl-entry">Baker S K, Jackson M E. 1995. The Future of Resource Sharing. New York: The Haworth Press</div>
   <div class="csl-entry">Baldock P. 2011. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press. 105</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
@@ -167,7 +167,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Deverell W, Igler D. 2013. A Companion to California History. New York: John Wiley &#38; Sons. 21-22</div>
   <div class="csl-entry">Dowler L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, 21(1/2): 5-26</div>
   <div class="csl-entry">Fan X, Sommers C H. 2013. Food Irradiation Research and Technology. 2nd ed. Ames, Iowa: Blackwell Publishing. 25-26</div>
-  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23—25, 1971, University of Southern California, Los Angeles, California. New York: ASME. 17-38</div>
+  <div class="csl-entry">Fourney M E. c1971. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME. 17-38</div>
   <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, Anderson L A, Boothe J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chem Biol, 8: 1053-1062</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2(1): 378-398</div>
   <div class="csl-entry">Hopkinson A. 2009. UNIMARC and metadata: Dublin Core. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
@@ -193,7 +193,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E. 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. Biology, 2(1): 399-418</div>
   <div class="csl-entry">Weinstein L, Swartz M N. 1974. Pathogenic properties of invading microorganisms. In: Sodeman W A Jr, Sodeman W A, eds. Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders. 457-472</div>
   <div class="csl-entry">World Health Organization. 1970. Factors Regulating the Immune Response: Report of WHO Scientific Group. Technical Report. Geneva: WHO</div>
-  <div class="csl-entry">Yufin S A. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1—4, 2000. Rotterdam: A. A. Balkema</div>
+  <div class="csl-entry">Yufin S A. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

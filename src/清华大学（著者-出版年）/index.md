@@ -150,7 +150,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书：中国武装力量的多样化运用[R].</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu B V, Nagar A K, Deep K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer.</div>
   <div class="csl-entry">Baker S K, Jackson M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P, 2011. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">Bawden D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -166,7 +166,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Deverell W, Igler D, 2013. A companion to California history[M]. New York: John Wiley &#38; Sons: 21-22.</div>
   <div class="csl-entry">Dowler L, 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 21(1/2): 5-26.</div>
   <div class="csl-entry">Fan X, Sommers C H, 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">Fourney M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">Fourney M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, et al., 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 8: 1053-1062.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B, 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2(1): 378-398.</div>
   <div class="csl-entry">Hopkinson A, 2009. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -192,7 +192,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Walls S C, Barichivich W J, Brown M E, 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2(1): 399-418.</div>
   <div class="csl-entry">Weinstein L, Swartz M N, 1974. Pathogenic properties of invading microorganisms[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 457-472.</div>
   <div class="csl-entry">World Health Organization, 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO.</div>
-  <div class="csl-entry">Yufin S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin S A, 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

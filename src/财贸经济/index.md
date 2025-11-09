@@ -26,7 +26,7 @@
   <div class="csl-entry">4. 中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年。</div>
   <div class="csl-entry">5. Bawden, D., <i>Origins and Concepts of Digital Literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008.</div>
   <div class="csl-entry">6. Fan, X., &#38; Sommers, C. H., <i>Food Irradiation Research and Technology</i>. Ames, Iowa: Blackwell Publishing, 2013.</div>
-  <div class="csl-entry">7. Fourney, M. E., Advances in Holographic Photoelasticity. In <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp.17-38.</div>
+  <div class="csl-entry">7. Fourney, M. E., Advances in Holographic Photoelasticity. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, c1971, pp.17-38.</div>
   <div class="csl-entry">8. Myburg, A. A., Grattapaglia, D., Tuskan, G. A., Hellsten, U., Hayes, R. D., Grimwood, J., Jenkins, J., Lindquist, E., Tice, H., Bauer, D., Goodstein, D. M., Dubchak, I., Poliakov, A., Mizrachi, E., Kullan, A. R. K., Hussey, S. G., Pinard, D., Merwe, K. van der, Singh, P., Jaarsveld, I. van, Silva-Junior, O. B., Togawa, R. C., Pappas, M. R., Faria, D. A., Sansaloni, C. P., Petroli, C. D., Yang, X., Ranjan, P., Tschaplinski, T. J., Ye, C. Y., Li, T., Sterck, L., Vanneste, K., Murat, F., Soler, M., Clemente, H. S., Saidi, N., Cassan-Wang, H., Dunand, C., Hefer, C. A., Bornberg-Bauer, E., Kersting, A. R., Vining, K., Amarasinghe, V., Ranik, M., Naithani, S., Elser, J., Boyd, A. E., Liston, A., Spatafora, J. W., Dharmwardhana, P., Raja, R., Sullivan, C., Romanel, E., Alves-Ferreira, M., Külheim, C., Foley, W., Carocha, V., Paiva, J., Kudrna, D., Brommonschenkel, S. H., Pasquali, G., Byrne, M., Rigault, P., Tibbits, J., Spokevicius, A., Jones, R. C., Steane, D. A., Vaillancourt, R. E., Potts, B. M., Joubert, F., Barry, K., Pappas, G. J., Strauss, S. H., Jaiswal, P., Grima-Pettenati, J., Salse, J., Van de Peer, Y., Rokhsar, D. S., &#38; Schmutz, J., The Genome of Eucalyptus Grandis. <i>Nature</i>, Vol.510, June 2014, pp.356-362.</div>
 </div>
 
@@ -145,7 +145,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">77. 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。</div>
   <div class="csl-entry">78. 中华医学会湖北分会：《临床内科杂志》，中华医学会湖北分会1984年。</div>
   <div class="csl-entry">79. American Association for the Advancement of Science, <i>Science</i>. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">80. Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U., (eds.), <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">80. Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U., (eds.), <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">81. Baker, S. K., &#38; Jackson, M. E., <i>The Future of Resource Sharing</i>. New York: The Haworth Press, 1995.</div>
   <div class="csl-entry">82. Baldock, P., <i>Developing Early Childhood Services: Past, Present and Future</i>. Rotterdam: Open University Press, 2011.</div>
   <div class="csl-entry">83. Bawden, D., <i>Origins and Concepts of Digital Literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>, 2008.</div>
@@ -161,7 +161,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">93. Deverell, W., &#38; Igler, D., (eds.), <i>A Companion to California History</i>. New York: John Wiley &#38; Sons, 2013.</div>
   <div class="csl-entry">94. Dowler, L., The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment. <i>Journal of Library Administration</i>, Vol.21, No.1/2, 1995, pp.5-26.</div>
   <div class="csl-entry">95. Fan, X., &#38; Sommers, C. H., <i>Food Irradiation Research and Technology</i>. Ames, Iowa: Blackwell Publishing, 2013.</div>
-  <div class="csl-entry">96. Fourney, M. E., Advances in Holographic Photoelasticity. In <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME, c1971, pp.17-38.</div>
+  <div class="csl-entry">96. Fourney, M. E., Advances in Holographic Photoelasticity. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, c1971, pp.17-38.</div>
   <div class="csl-entry">97. Franz, A. K., Danielewicz, M. A., Wong, D. M., Anderson, L. A., &#38; Boothe, J. R., Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity. <i>ACS Chemical Biology</i>, Vol.8, 2013, pp.1053-1062.</div>
   <div class="csl-entry">98. Frese, K. S., Katus, H. A., &#38; Meder, B., Next-Generation Sequencing: From Understanding Biology to Personalized Medicine. <i>Biology</i>, Vol.2, No.1, 2013, pp.378-398.</div>
   <div class="csl-entry">99. Hopkinson, A., <i>UNIMARC and Metadata: Dublin Core</i>. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>, 2009.</div>
@@ -187,7 +187,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">119. Walls, S. C., Barichivich, W. J., &#38; Brown, M. E., Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate. <i>Biology</i>, Vol.2, No.1, 2013, pp.399-418.</div>
   <div class="csl-entry">120. Weinstein, L., &#38; Swartz, M. N., Pathogenic Properties of Invading Microorganisms. In Sodeman, W. A., Jr., &#38; Sodeman, W. A. (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp.457-472.</div>
   <div class="csl-entry">121. World Health Organization, Factors Regulating the Immune Response: Report of WHO Scientific Group. 1970.</div>
-  <div class="csl-entry">122. Yufin, S. A., (ed.), <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">122. Yufin, S. A., (ed.), <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">123. 《康熙字典：巳集上：水部》，中华书局1962年版。</div>
   <div class="csl-entry">124. 《宋史卷三：本纪第三》，载《宋史》，中华书局1977年版。</div>
   <div class="csl-entry">125. Coffee Drinking and Cancer of the Pancreas. <i>British Medical Journal</i>, Vol.283, No.6292, 1981, p.628.</div>

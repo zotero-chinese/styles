@@ -26,7 +26,7 @@
   <div class="csl-entry">[R]. 2012.［中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R]. 2012］</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Fan X, Sommers CH. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">Fourney ME. Advances in holographic photoelasticity[C]. In: Symposium on Applications of Holography in Mechanics, 1971年8月23—25日, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+  <div class="csl-entry">Fourney ME. Advances in holographic photoelasticity[C]. In: Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, <i>et al.</i> The genome of eucalyptus grandis[J]. <i>Nature</i>, 2014, 510: 356-362.</div>
 </div>
 
@@ -153,7 +153,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Des Marais DJ, Strauss H, Summons RE, <i>et al.</i> Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. <i>Nature</i>, 1992, 359(6396): 605-609.</div>
   <div class="csl-entry">Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. <i>Journal of Library Administration</i>, 1995, 21(1/2): 5-26.</div>
   <div class="csl-entry">Fan X, Sommers CH. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">Fourney ME. Advances in holographic photoelasticity[C]. In: Symposium on Applications of Holography in Mechanics, 1971年8月23—25日, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+  <div class="csl-entry">Fourney ME. Advances in holographic photoelasticity[C]. In: Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">Franz AK, Danielewicz MA, Wong DM, <i>et al.</i> Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. <i>ACS Chemical Biology</i>, 2013, 8: 1053-1062.</div>
   <div class="csl-entry">Frese KS, Katus HA, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. <i>Biology</i>, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">Hopkinson A. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -184,7 +184,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anon. Coffee drinking and cancer of the pancreas[J]. <i>British Medical Journal</i>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">[M]. 1985.［中国职工教育研究会. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985］</div>
   <div class="csl-entry">[M]. In. 1988: 590.［佚名. 卷 39 乞致仕第一[M]. 见: 苏魏公文集: 下册. 北京: 中华书局, 1988: 590］</div>
-  <div class="csl-entry">Yufin SA. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 2000年2月1—4日[M]. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">Yufin SA. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[M]. In. 2011: 1109.［佚名. 周易外传：卷 5[M]. 见: 王夫之, 主编. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109］</div>
   <div class="csl-entry">[M]. 2011.［陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011］</div>
   <div class="csl-entry">[M]. 2012.［牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012］</div>
@@ -193,7 +193,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anon. Dublin Core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
   <div class="csl-entry">Deverell W, Igler D. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   <div class="csl-entry">Anon. Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S]. [2013].</div>
-  <div class="csl-entry">Babu BV, Nagar AK, Deep K, <i>et al.</i> Proceedings of the Second International Conference on Soft Computing for Problem Solving, 2012年12月28—30日[M]. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">Babu BV, Nagar AK, Deep K, <i>et al.</i> Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

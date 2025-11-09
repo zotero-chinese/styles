@@ -39,7 +39,7 @@
     <div class="csl-left-margin">6.</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology[M]. Ames, Iowa: Blackwell Publishing, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">8.</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C-Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356–362.</div>
@@ -191,7 +191,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">36.</div><div class="csl-right-inline">佚名. 卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局, 1988: 590.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">37.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000.</div>
+    <div class="csl-left-margin">37.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">38.</div><div class="csl-right-inline">佚名. 周易外传：卷 5[M]//船山全书. 长沙: 岳麓书社, 2011a: 1109.</div>
@@ -215,7 +215,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">44.</div><div class="csl-right-inline">Anonymous. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">45.</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">45.</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">46.</div><div class="csl-right-inline">Anonymous. Information and documentation—The Dublin Core metadata element set. , no date.</div>
@@ -389,7 +389,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">102.</div><div class="csl-right-inline">Fan X, Sommers C H. Food irradiation research and technology[M]. Ames, Iowa: Blackwell Publishing, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">103.</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">103.</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">104.</div><div class="csl-right-inline">Franz A K, Danielewicz M A, Wong D M, Anderson L A, Boothe J R. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053–1062.</div>

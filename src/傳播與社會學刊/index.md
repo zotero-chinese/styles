@@ -139,7 +139,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">雷光春（編）（2012）。《综合湿地管理：综合湿地管理国际研讨会论文集》。北京：海洋出版社。</div>
   <div class="csl-entry">裴丽生（1981）。〈在中国科协学术期刊编辑工作经验交流会上的讲话〉。中国科学技术协会（編），<i>中国科协学术期刊编辑工作经验交流会资料选</i>（頁2–10）。中国科学技术协会学会工作部。</div>
   <div class="csl-entry">American Association for the Advancement of Science. (1883). <i>Science</i> (Vol. 1, Issue 1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U. (eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K., &#38; Gupta, U. (eds.). (2014). <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer.</div>
   <div class="csl-entry">Baker, S. K., &#38; Jackson, M. E. (1995). <i>The future of resource sharing</i>. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. (2011). <i>Developing early childhood services: Past, present and future</i> (p. 105). Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. Retrieved March 8, 2013, from <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
@@ -157,7 +157,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Dowler, L. (1995). The research university’s dilemma: Resource sharing and research in a transinstitutional environment. <i>Journal of Library Administration</i>, <i>21</i>(1/2), 5–26. <a href="https://doi.org/10.1300/J111V21N01_02">https://doi.org/10.1300/J111V21N01_02</a></div>
   <div class="csl-entry"><i>Dublin Core metadata element set: version 1.1</i>. (2012, June 14). Retrieved June 11, 2014, from <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a></div>
   <div class="csl-entry">Fan, X., &#38; Sommers, C. H. (2013). <i>Food irradiation research and technology</i> (2nd ed., pp. 25–26). Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney, M. E. (c1971). Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>, 17–38.</div>
+  <div class="csl-entry">Fourney, M. E. (c1971). Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, 17–38.</div>
   <div class="csl-entry">Franz, A. K., Danielewicz, M. A., Wong, D. M., Anderson, L. A., &#38; Boothe, J. R. (2013). Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. <i>ACS Chemical Biology</i>, <i>8</i>, 1053–1062. <a href="https://doi.org/10.1021/cb300573r">https://doi.org/10.1021/cb300573r</a></div>
   <div class="csl-entry">Frese, K. S., Katus, H. A., &#38; Meder, B. (2013). Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <i>2</i>(1), 378–398. <a href="https://doi.org/10.3390/biology2010378">https://doi.org/10.3390/biology2010378</a></div>
   <div class="csl-entry">Hopkinson, A. (2009, April 22). <i>UNIMARC and metadata: Dublin Core</i>. Retrieved March 27, 2013, from <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a></div>
@@ -184,7 +184,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Walls, S. C., Barichivich, W. J., &#38; Brown, M. E. (2013). Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. <i>Biology</i>, <i>2</i>(1), 399–418. <a href="https://doi.org/10.3390/biology2010399">https://doi.org/10.3390/biology2010399</a></div>
   <div class="csl-entry">Weinstein, L., &#38; Swartz, M. N. (1974). Pathogenic properties of invading microorganisms. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (pp. 457–472). Philadelphia: Saunders.</div>
   <div class="csl-entry">World Health Organization. (1970). <i>Factors regulating the immune response: Report of WHO Scientific Group</i>. Geneva: WHO.</div>
-  <div class="csl-entry">Yufin, S. A. (ed.). (2000). <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin, S. A. (ed.). (2000). <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

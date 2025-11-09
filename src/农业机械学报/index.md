@@ -20,7 +20,7 @@
   <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.
     <div class="csl-block">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 2011. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
+  <div class="csl-entry">[4] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9[2009-10-25].
     <div class="csl-block">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 2008, 33(5): 8-9. 2008[2009-10-25]. (in Chinese)</div>
   </div>
@@ -88,7 +88,7 @@
     <div class="csl-block">中国造纸学会. 中国造纸年鉴：2003[M]. 2003[2014-04-25]. (in Chinese)</div>
   </div>
   <div class="csl-entry">[14] PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
-  <div class="csl-entry">[15] Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. YUFIN S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[15] Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. YUFIN S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16] BALDOCK P. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   <div class="csl-entry">[17] FAN X, SOMMERS C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   <div class="csl-entry">[18] 佚名. 周易外传：卷 5[M]. 王夫之, 编//船山全书. 长沙: 岳麓书社, 2011: 1109.
@@ -247,7 +247,7 @@
   <div class="csl-entry">[87] 佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社, 2011.
     <div class="csl-block">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 2011[2013-10-14]. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[88] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. BABU B V, NAGAR A K, DEEP K, et al., eds.. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">[88] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. BABU B V, NAGAR A K, DEEP K, et al., eds.. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89] 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. [2014-06-11].
     <div class="csl-block">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. 2013[2014-06-11]. (in Chinese)</div>
   </div>
@@ -300,7 +300,7 @@
     <div class="csl-block">楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 2011[2013-05-09]. (in Chinese)</div>
   </div>
   <div class="csl-entry">[110] BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">[111] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
+  <div class="csl-entry">[111] FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
   <div class="csl-entry">[112] 杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.
     <div class="csl-block">杨洪升. 四库馆私家抄校书考略[J]. 2013(1): 56-75. 2013. (in Chinese)</div>
   </div>

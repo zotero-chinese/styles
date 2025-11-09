@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden D., 2008. “Origins and concepts of digital literacy.”(2008-05-04)[2013-03-08].</div>
   <div class="csl-entry">Fan X. &#38; Sommers C.H., 2013. “Food irradiation research and technology.”. 2 edition. Ames, Iowa: Blackwell Publishing: 25–26[2014-06-26].</div>
-  <div class="csl-entry">Fourney M.E., c1971. “Advances in holographic photoelasticity.”//<i>Symposium on Applications of Holography in Mechanics</i>  New York: ASME: 17–38.</div>
+  <div class="csl-entry">Fourney M.E., c1971. “Advances in holographic photoelasticity.”//<i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>  New York: ASME: 17–38.</div>
   <div class="csl-entry">Myburg A.A., Grattapaglia D., Tuskan G.A., et al., 2014. “The genome of eucalyptus grandis.” <i>Nature</i>. 510: 356–362[2014-06-25].</div>
   <div class="csl-entry">贾东琴、柯平, 2011：“面向数字素养的高校图书馆数字服务体系研究”. 中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社: 45–52。</div>
   <div class="csl-entry">库恩, 2012：“科学革命的结构：第 4 版”. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社。</div>
@@ -68,10 +68,10 @@ Qian et al. （2009b）<br>
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science, 1883. “Science.”. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">Anonymous, 1981. “Coffee drinking and cancer of the pancreas.” <i>British Medical Journal</i>. 283(6292): 628.</div>
-  <div class="csl-entry">Anonymous, 2000. “Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering.”. Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Anonymous, 2000. “Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000.”. Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Anonymous, 2012. “Dublin Core metadata element set: version 1.1.”(2012-06-14)[2014-06-11].</div>
   <div class="csl-entry">Anonymous, 2013. “A companion to California history.”. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons: 21–22[2014-06-24].</div>
-  <div class="csl-entry">Anonymous, 2014. “Proceedings of the Second International Conference on Soft Computing for Problem Solving.”. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer.</div>
+  <div class="csl-entry">Anonymous, 2014. “Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012.”. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer.</div>
   <div class="csl-entry">Anonymous, [no date]. “Information and documentation—The Dublin Core metadata element set.”. [2013-03-24].</div>
   <div class="csl-entry">Baker S.K. &#38; Jackson M.E., 1995. “The future of resource sharing.”. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P., 2011. “Developing early childhood services: Past, present and future.”. Rotterdam: Open University Press: 105[2012-11-27].</div>
@@ -87,7 +87,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Des Marais D.J., Strauss H., Summons R.E., et al., 1992. “Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment.” <i>Nature</i>. 359(6396): 605–609.</div>
   <div class="csl-entry">Dowler L., 1995. “The research university’s dilemma: Resource sharing and research in a transinstitutional environment.” <i>Journal of Library Administration</i>. 21(1/2): 5–26.</div>
   <div class="csl-entry">Fan X. &#38; Sommers C.H., 2013. “Food irradiation research and technology.”. 2 edition. Ames, Iowa: Blackwell Publishing: 25–26[2014-06-26].</div>
-  <div class="csl-entry">Fourney M.E., c1971. “Advances in holographic photoelasticity.”//<i>Symposium on Applications of Holography in Mechanics</i>  New York: ASME: 17–38.</div>
+  <div class="csl-entry">Fourney M.E., c1971. “Advances in holographic photoelasticity.”//<i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>  New York: ASME: 17–38.</div>
   <div class="csl-entry">Franz A.K., Danielewicz M.A., Wong D.M., et al., 2013. “Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity.” <i>ACS Chemical Biology</i>. 8: 1053–1062[2014-06-26].</div>
   <div class="csl-entry">Frese K.S., Katus H.A. &#38; Meder B., 2013. “Next-generation sequencing: from understanding biology to personalized medicine.” <i>Biology</i>. 2(1): 378–398[2013-03-19].</div>
   <div class="csl-entry">Hopkinson A., 2009. “UNIMARC and metadata: Dublin Core.”(2009-04-22)[2013-03-27].</div>

@@ -92,7 +92,7 @@
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室．汶川地震灾害研究．上海：同济大学出版社，2011，5-6<br>
 <sup>13</sup> 中国造纸学会．中国造纸年鉴：2003．北京：中国轻工业出版社，2003<br>
 <sup>14</sup> Peebles P Z Jr. Probability, random variables, and random signal principles. 4th ed. New York: McGraw-Hill, 2001<br>
-<sup>15</sup> Yufin S A. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema, 2000<br>
+<sup>15</sup> Yufin S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema, 2000<br>
 <sup>16</sup> Baldock P. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011, 105<br>
 <sup>17</sup> Fan X, Sommers C H. Food irradiation research and technology. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013, 25-26<br>
 <sup>18</sup> 周易外传：卷 5．见：船山全书．长沙：岳麓书社，2011，1109<br>
@@ -165,7 +165,7 @@
 <sup>85</sup> 中国社会科学院台湾史研究中心．台湾光复六十五周年暨抗战史实学术研讨会论文集．北京：九州出版社，2012<br>
 <sup>86</sup> 雷光春．综合湿地管理：综合湿地管理国际研讨会论文集．北京：海洋出版社，2012<br>
 <sup>87</sup> 陈志勇．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集．北京：经济科学出版社，2011<br>
-<sup>88</sup> Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer, 2014<br>
+<sup>88</sup> Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer, 2014<br>
 <sup>89</sup> 中华人民共和国国务院新闻办公室．国防白皮书：中国武装力量的多样化运用<br>
 <sup>90</sup> 汤万金，杨跃翔，刘文，others．人体安全重要技术标准研制最终报告<br>
 <sup>91</sup> Calkin D, Ager A, Thompson M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. 2011, 8-9<br>
@@ -188,7 +188,7 @@
 <sup>108</sup> 宋史卷三：本纪第三．见：宋史．北京：中华书局，1977，49<br>
 <sup>109</sup> 楼梦鳞，杨燕．汶川地震基岩地震动特征分析．见：汶川地震震害研究．上海：同济大学出版社，2011，011-012<br>
 <sup>110</sup> Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes. In: Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980, 117-211<br>
-<sup>111</sup> Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics. New York: ASME, c1971, 17-38<br>
+<sup>111</sup> Fourney M E. Advances in holographic photoelasticity. In: Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971, 17-38<br>
 <sup>112</sup> 杨洪升．四库馆私家抄校书考略．文献，2013(1)：56-75<br>
 <sup>113</sup> 李炳穆．韩国图书馆法．图书情报工作，2008，52(6)：6-21<br>
 <sup>114</sup> 于潇，刘义，柴跃廷，孙宏波．互联网药品可信交易环境中主体资质审核备案模式．清华大学学报（自然科学版），2012，52(11)：1518-1523<br>

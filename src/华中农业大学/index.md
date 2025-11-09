@@ -437,7 +437,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">118.</div><div class="csl-right-inline">佚名．卷 39 乞致仕第一//苏魏公文集．北京: 中华书局, 1988: 590</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">119.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin SA, ed.. Rotterdam: A. A. Balkema, 2000</div>
+    <div class="csl-left-margin">119.</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Yufin SA, ed.. Rotterdam: A. A. Balkema, 2000</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">120.</div><div class="csl-right-inline">佚名．周易外传：卷 5．王夫之, 编//船山全书．长沙: 岳麓书社, 2011a: 1109</div>
@@ -461,7 +461,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">126.</div><div class="csl-right-inline">Anonymous. A companion to California history. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">127.</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U, eds.. New Delhi: Springer, 2014</div>
+    <div class="csl-left-margin">127.</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U, eds.. New Delhi: Springer, 2014</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">128.</div><div class="csl-right-inline">Anonymous. Information and documentation—The Dublin Core metadata element set. </div>

@@ -26,7 +26,7 @@
   <div class="csl-entry">中国互联网络信息中心.2012.第 29 次中国互联网络发展状况统计报告[R].</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">Fan X, Sommers CH. 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney ME. c1971. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, pp. 17-38.</div>
+  <div class="csl-entry">Fourney ME. c1971. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, pp. 17-38.</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, Hellsten U, Hayes RD, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein DM, Dubchak I, Poliakov A, Mizrachi E, Kullan ARK, Hussey SG, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior OB, Togawa RC, Pappas MR, Faria DA, Sansaloni CP, Petroli CD, Yang X, Ranjan P, Tschaplinski TJ, Ye CY, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente HS, Saidi N, Cassan-Wang H, Dunand C, Hefer CA, Bornberg-Bauer E, Kersting AR, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd AE, Liston A, Spatafora JW, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel SH, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones RC, Steane DA, Vaillancourt RE, Potts BM, Joubert F, Barry K, Pappas GJ, Strauss SH, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar DS, Schmutz J. 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
 </div>
 
@@ -151,7 +151,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">中华人民共和国国务院新闻办公室.2013.国防白皮书：中国武装力量的多样化运用[R].</div>
   <div class="csl-entry">中华医学会湖北分会.1984.临床内科杂志[J].1984,1(1).武汉:中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science[J]. 1883,1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, Ray K, Gupta U. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer.</div>
   <div class="csl-entry">Baker SK, Jackson ME. 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P. 2011. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden D. 2008. Origins and concepts of digital literacy[EB/OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -167,7 +167,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Deverell W, Igler D. 2013. A companion to California history[M]. New York: John Wiley &#38; Sons.</div>
   <div class="csl-entry">Dowler L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 21(1/2): 5-26.</div>
   <div class="csl-entry">Fan X, Sommers CH. 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney ME. c1971. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, pp. 17-38.</div>
+  <div class="csl-entry">Fourney ME. c1971. Advances in holographic photoelasticity[C]. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, pp. 17-38.</div>
   <div class="csl-entry">Franz AK, Danielewicz MA, Wong DM, Anderson LA, Boothe JR. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chem Biol, 8: 1053-1062.</div>
   <div class="csl-entry">Frese KS, Katus HA, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2(1): 378-398.</div>
   <div class="csl-entry">Hopkinson A. 2009. UNIMARC and metadata: Dublin Core[EB/OL]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -193,7 +193,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Walls SC, Barichivich WJ, Brown ME. 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2(1): 399-418.</div>
   <div class="csl-entry">Weinstein L, Swartz MN. 1974. Pathogenic properties of invading microorganisms[M]. In: Sodeman WA Jr, Sodeman WA (editors), Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, pp. 457-472.</div>
   <div class="csl-entry">World Health Organization. 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO.</div>
-  <div class="csl-entry">Yufin SA. 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin SA. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

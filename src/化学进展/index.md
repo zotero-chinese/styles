@@ -23,7 +23,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline"><b>2011</b>. 45-52. (贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究. 编: 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, <b>2011</b>. 45-52.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME, <b>c1971</b>. 17-38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME, <b>c1971</b>. 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline"><b>2008</b>, 33(5): 8-9. (武丽丽, 华一新, 张亚军, 刘英敏. 测绘科学, <b>2008</b>, 33(5): 8-9.)</div>
@@ -99,7 +99,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Peebles P Z Jr. <i>Probability, Random Variables, and Random Signal Principles</i>. 4th ed. New York: McGraw-Hill, <b>2001</b>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline"><i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Ed.: Yufin S A. Rotterdam: A. A. Balkema, <b>2000</b>.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline"><i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Ed.: Yufin S A. Rotterdam: A. A. Balkema, <b>2000</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Baldock P. <i>Developing Early Childhood Services: Past, Present and Future</i>. Rotterdam: Open University Press, <b>2011</b>. 105.</div>
@@ -318,7 +318,7 @@
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline"><b>2011</b>. (中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 编: 陈志勇. 北京: 经济科学出版社, <b>2011</b>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline"><i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Eds.: Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. New Delhi: Springer, <b>2014</b>.</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline"><i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Eds.: Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U. New Delhi: Springer, <b>2014</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline"><b>2013</b>. (中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用. <b>2013</b>.)</div>
@@ -387,7 +387,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes. <i>Pyroxenes</i>. Washington, D.C.: Mineralogical Society of America, <b>c1980</b>. 117-211.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME, <b>c1971</b>. 17-38.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity. <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME, <b>c1971</b>. 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline"><b>2013</b>(1): 56-75. (杨洪升. 文献, <b>2013</b>(1): 56-75.)</div>

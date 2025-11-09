@@ -16,7 +16,7 @@
   <div class="csl-entry">[1] 库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
   <div class="csl-entry">[2] Fan X. and C. H. Sommers. Food Irradiation Research and Technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26[2014-06-26].</div>
   <div class="csl-entry">[3] 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集. 2011, 2011 年卷: 45–52北京: 国家图书馆出版社, 2011: 45–52.</div>
-  <div class="csl-entry">[4] Fourney M. E. Advances in Holographic Photoelasticity[C]//Symposium on Applications of Holography in Mechanics. c1971: 17–38New York: ASME, c1971: 17–38.</div>
+  <div class="csl-entry">[4] Fourney M. E. Advances in Holographic Photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. c1971: 17–38New York: ASME, c1971: 17–38.</div>
   <div class="csl-entry">[5] 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9[2009-10-25].</div>
   <div class="csl-entry">[6] Myburg A. A., D. Grattapaglia, G. A. Tuskan, et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356–362[2014-06-25].</div>
   <div class="csl-entry">[7] 中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R]. [2013-03-26].</div>
@@ -54,7 +54,7 @@
   <div class="csl-entry">[12] 同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5–6[2013-05-09].</div>
   <div class="csl-entry">[13] 中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003[2014-04-25].</div>
   <div class="csl-entry">[14] Peebles P. Z. Jr. Probability, Random Variables, and Random Signal Principles[M]. 4 edition. New York: McGraw-Hill, 2001.</div>
-  <div class="csl-entry">[15] Anonymous. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[15] Anonymous. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">[16] Baldock P. Developing Early Childhood Services: Past, Present and Future[M]. Rotterdam: Open University Press, 2011: 105[2012-11-27].</div>
   <div class="csl-entry">[17] Fan X. and C. H. Sommers. Food Irradiation Research and Technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26[2014-06-26].</div>
   <div class="csl-entry">[18] 佚名. 周易外传：卷 5[M]. 王夫之, 编//船山全书. 2011, 第 6 册: 1109长沙: 岳麓书社, 2011: 1109.</div>
@@ -127,7 +127,7 @@
   <div class="csl-entry">[85] 佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社, 2012.</div>
   <div class="csl-entry">[86] 佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 雷光春, 编. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">[87] 佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社, 2011[2013-10-14].</div>
-  <div class="csl-entry">[88] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, A K Nagar, K Deep, et al., eds.. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">[88] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, A K Nagar, K Deep, et al., eds.. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89] 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. [2014-06-11].</div>
   <div class="csl-entry">[90] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. [2014-06-24].</div>
   <div class="csl-entry">[91] Calkin D., A. Ager, and M. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. .</div>
@@ -150,7 +150,7 @@
   <div class="csl-entry">[108] 佚名. 宋史卷三：本纪第三[M]//宋史. 1977, 第 1 册: 49北京: 中华书局, 1977: 49.</div>
   <div class="csl-entry">[109] 楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M]. 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 2011: 011–012上海: 同济大学出版社, 2011: 011–012[2013-05-09].</div>
   <div class="csl-entry">[110] Buseck P. R., G. L. Nord Jr., and D. R. Veblen. Subsolidus Phenomena in Pyroxenes[M]//Pyroxenes. c1980: 117–211Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
-  <div class="csl-entry">[111] Fourney M. E. Advances in Holographic Photoelasticity[C]//Symposium on Applications of Holography in Mechanics. c1971: 17–38New York: ASME, c1971: 17–38.</div>
+  <div class="csl-entry">[111] Fourney M. E. Advances in Holographic Photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. c1971: 17–38New York: ASME, c1971: 17–38.</div>
   <div class="csl-entry">[112] 杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75.</div>
   <div class="csl-entry">[113] 李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6–21.</div>
   <div class="csl-entry">[114] 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518–1523.</div>

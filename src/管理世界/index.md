@@ -158,7 +158,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（77）中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。</div>
   <div class="csl-entry">（78）中华医学会湖北分会：《临床内科杂志》，中华医学会湖北分会，1984年。</div>
   <div class="csl-entry">（79）American Association for the Advancement of Science, 1883, <i>Science</i>, Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">（80）Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K. and Gupta, U., eds., 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, New Delhi: Springer.</div>
+  <div class="csl-entry">（80）Babu, B. V., Nagar, A. K., Deep, K., Pant, M., Bansal, J. C., Ray, K. and Gupta, U., eds., 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer.</div>
   <div class="csl-entry">（81）Baker, S. K. and Jackson, M. E., 1995, <i>The Future of Resource Sharing</i>, New York: The Haworth Press.</div>
   <div class="csl-entry">（82）Baldock, P., 2011, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press.</div>
   <div class="csl-entry">（83）Bawden, D., 2008, <i>Origins and Concepts of Digital Literacy</i>.</div>
@@ -174,7 +174,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（93）Deverell, W. and Igler, D., eds., 2013, <i>A Companion to California History</i>, New York: John Wiley &#38; Sons.</div>
   <div class="csl-entry">（94）Dowler, L., 1995, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment”, <i>Journal of Library Administration</i>, 21(1/2), pp.5~26.</div>
   <div class="csl-entry">（95）Fan, X. and Sommers, C. H., 2013, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">（96）Fourney, M. E., c1971, “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME.</div>
+  <div class="csl-entry">（96）Fourney, M. E., c1971, “Advances in Holographic Photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME.</div>
   <div class="csl-entry">（97）Franz, A. K., Danielewicz, M. A., Wong, D. M., Anderson, L. A. and Boothe, J. R., 2013, “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, <i>ACS Chemical Biology</i>, vol.8, pp.1053~1062.</div>
   <div class="csl-entry">（98）Frese, K. S., Katus, H. A. and Meder, B., 2013, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine”, <i>Biology</i>, 2(1), pp.378~398.</div>
   <div class="csl-entry">（99）Hopkinson, A., 2009, <i>UNIMARC and Metadata: Dublin Core</i>.</div>
@@ -200,7 +200,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">（119）Walls, S. C., Barichivich, W. J. and Brown, M. E., 2013, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate”, <i>Biology</i>, 2(1), pp.399~418.</div>
   <div class="csl-entry">（120）Weinstein, L. and Swartz, M. N., 1974, “Pathogenic Properties of Invading Microorganisms”, in Sodeman, W. A., Jr. and W. A. Sodeman, eds: <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders.</div>
   <div class="csl-entry">（121）World Health Organization, 1970, “Factors Regulating the Immune Response: Report of WHO Scientific Group”.</div>
-  <div class="csl-entry">（122）Yufin, S. A., ed., 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">（122）Yufin, S. A., ed., 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">（123）《康熙字典：巳集上：水部》，中华书局，1962年。</div>
   <div class="csl-entry">（124）《宋史卷三：本纪第三》，载《宋史》，中华书局，1977年。</div>
   <div class="csl-entry">（125）1981, “Coffee Drinking and Cancer of the Pancreas”, <i>British Medical Journal</i>, 283(6292), p.628.</div>

@@ -11,7 +11,7 @@
 <sup>1</sup> 库恩：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>
 <sup>2</sup> Xuetong Fan and Christopher H. Sommers, Food Irradiation Research and Technology, Ames, Iowa: Blackwell Publishing, 2013.<br>
 <sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会编《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年。<br>
-<sup>4</sup> M. E. Fourney, “Advances in holographic photoelasticity”, in Symposium on Applications of Holography in Mechanics, New York: ASME, c1971.<br>
+<sup>4</sup> M. E. Fourney, “Advances in holographic photoelasticity”, in Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, c1971.<br>
 <sup>5</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>
 <sup>6</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz, “The genome of eucalyptus grandis”, Nature, vol. 510 (2014), pp.356-362.<br>
 <sup>7</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz, “The genome of eucalyptus grandis”, Nature, vol. 510 (2014), pp.356-362.<br>
@@ -32,7 +32,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会编《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">M. E. Fourney, “Advances in holographic photoelasticity”, in Symposium on Applications of Holography in Mechanics, New York: ASME, c1971.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">M. E. Fourney, “Advances in holographic photoelasticity”, in Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, c1971.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。</div>
@@ -75,7 +75,7 @@
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年。<br>
 <sup>13</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>14</sup> Peyton Z. Peebles Jr., Probability, Random Variables, and Random Signal Principles, New York: McGraw-Hill, 2001.<br>
-<sup>15</sup> Sergey A. Yufin, ed., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Rotterdam: A. A. Balkema, 2000.<br>
+<sup>15</sup> Sergey A. Yufin, ed., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>16</sup> Peter Baldock, Developing Early Childhood Services: Past, Present and Future, Rotterdam: Open University Press, 2011.<br>
 <sup>17</sup> Xuetong Fan and Christopher H. Sommers, Food Irradiation Research and Technology, Ames, Iowa: Blackwell Publishing, 2013.<br>
 <sup>18</sup> 王夫之编：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
@@ -148,7 +148,7 @@
 <sup>85</sup> 中国社会科学院台湾史研究中心编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
 <sup>86</sup> 雷光春编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
 <sup>87</sup> 陈志勇编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
-<sup>88</sup> B. V. Babu, Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds., Proceedings of the Second International Conference on Soft Computing for Problem Solving, New Delhi: Springer, 2014.<br>
+<sup>88</sup> B. V. Babu, Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds., Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012, New Delhi: Springer, 2014.<br>
 <sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。<br>
 <sup>90</sup> 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>91</sup> D. Calkin, A. Ager, and M. Thompson, A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report, 2011.<br>
@@ -171,7 +171,7 @@
 <sup>108</sup> 《宋史卷三：本纪第三》，《宋史》第 1 册，北京：中华书局，1977年，第49页。<br>
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室编《汶川地震震害研究》，上海：同济大学出版社，2011年，第011—012页。<br>
 <sup>110</sup> Peter R. Buseck, Gordon L. Nord Jr., and David R. Veblen, “Subsolidus phenomena in pyroxenes”, in Pyroxenes, Washington, D.C.: Mineralogical Society of America, c1980.<br>
-<sup>111</sup> M. E. Fourney, “Advances in holographic photoelasticity”, in Symposium on Applications of Holography in Mechanics, New York: ASME, c1971.<br>
+<sup>111</sup> M. E. Fourney, “Advances in holographic photoelasticity”, in Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, c1971.<br>
 <sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
 <sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
 <sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年。<br>

@@ -26,7 +26,7 @@
   <div class="csl-entry">中国互联网络信息中心. 2012. 第 29 次中国互联网络发展状况统计报告. [2013-03-26].</div>
   <div class="csl-entry">Bawden D. 2008. Origins and Concepts of Digital Literacy(2008-05-04)[2013-03-08].</div>
   <div class="csl-entry">Fan X., C. H. Sommers. 2013. Food Irradiation Research and Technology. 2 edition. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26].</div>
-  <div class="csl-entry">Fourney M. E. c1971. Advances in Holographic Photoelasticity//Symposium on Applications of Holography in Mechanics. New York: ASME: 17-38.</div>
+  <div class="csl-entry">Fourney M. E. c1971. Advances in Holographic Photoelasticity//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, 等. 2014. The Genome of Eucalyptus Grandis. Nature, 510: 356-362[2014-06-25].</div>
 </div>
 
@@ -144,7 +144,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Anonymous. 1981. Coffee Drinking and Cancer of the Pancreas. British Medical Journal, 283(6292): 628.</div>
   <div class="csl-entry">佚名. 1985. 职工教育研究论文集. 中国职工教育研究会, 编. 北京: 人民教育出版社.</div>
   <div class="csl-entry">佚名. 1988. 卷 39 乞致仕第一//苏魏公文集. 北京: 中华书局: 590.</div>
-  <div class="csl-entry">Anonymous. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Yufin S. A., ed.. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Anonymous. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Yufin S. A., ed.. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">佚名. 2011a. 周易外传：卷 5. 王夫之, 编//船山全书. 长沙: 岳麓书社: 1109.</div>
   <div class="csl-entry">佚名. 2011b. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 陈志勇, 编. 北京: 经济科学出版社[2013-10-14].</div>
   <div class="csl-entry">佚名. 2012a. 综合湿地管理国际研讨会论文集. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社.</div>
@@ -152,7 +152,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">佚名. 2012c. 综合湿地管理：综合湿地管理国际研讨会论文集. 雷光春, 编. 北京: 海洋出版社.</div>
   <div class="csl-entry">Anonymous. 2012. Dublin Core Metadata Element Set: Version 1.1(2012-06-14)[2014-06-11].</div>
   <div class="csl-entry">Anonymous. 2013. A Companion to California History. Deverell W., D. Igler, eds.. New York: John Wiley &#38; Sons: 21-22[2014-06-24].</div>
-  <div class="csl-entry">Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. Babu B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, 等, eds.. New Delhi: Springer.</div>
+  <div class="csl-entry">Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Babu B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, 等, eds.. New Delhi: Springer.</div>
   <div class="csl-entry">Anonymous. [no date]. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009. [2013-03-24].</div>
   <div class="csl-entry">Baker S. K., M. E. Jackson. 1995. The Future of Resource Sharing. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P. 2011. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press: 105[2012-11-27].</div>
@@ -168,7 +168,7 @@ Qian等 (2009a)<br>
   <div class="csl-entry">Des Marais D. J., H. Strauss, R. E. Summons, J. M. Hayes. 1992. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment. Nature, 359(6396): 605-609.</div>
   <div class="csl-entry">Dowler L. 1995. The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment. Journal of Library Administration, 21(1/2): 5-26.</div>
   <div class="csl-entry">Fan X., C. H. Sommers. 2013. Food Irradiation Research and Technology. 2 edition. Ames, Iowa: Blackwell Publishing: 25-26[2014-06-26].</div>
-  <div class="csl-entry">Fourney M. E. c1971. Advances in Holographic Photoelasticity//Symposium on Applications of Holography in Mechanics. New York: ASME: 17-38.</div>
+  <div class="csl-entry">Fourney M. E. c1971. Advances in Holographic Photoelasticity//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Franz A. K., M. A. Danielewicz, D. M. Wong, L. A. Anderson, J. R. Boothe. 2013. Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity. ACS Chemical Biology, 8: 1053-1062[2014-06-26].</div>
   <div class="csl-entry">Frese K. S., H. A. Katus, B. Meder. 2013. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine. Biology, 2(1): 378-398[2013-03-19].</div>
   <div class="csl-entry">Hopkinson A. 2009. UNIMARC and Metadata: Dublin Core(2009-04-22)[2013-03-27].</div>

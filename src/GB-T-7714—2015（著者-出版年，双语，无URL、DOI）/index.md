@@ -26,7 +26,7 @@
   <div class="csl-entry">中国互联网络信息中心, 2012. 第 29 次中国互联网络发展状况统计报告[R].</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
   <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al., 2014. The genome of eucalyptus grandis[J]. Nature, 510: 356-362.</div>
 </div>
 
@@ -151,7 +151,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013. 国防白皮书：中国武装力量的多样化运用[R].</div>
   <div class="csl-entry">中华医学会湖北分会, 1984. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">BABU B V, NAGAR A K, DEEP K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving, December 28–30, 2012[M]. New Delhi: Springer.</div>
+  <div class="csl-entry">BABU B V, NAGAR A K, DEEP K, et al., 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer.</div>
   <div class="csl-entry">BAKER S K, JACKSON M E, 1995. The future of resource sharing[M]. New York: The Haworth Press.</div>
   <div class="csl-entry">BALDOCK P, 2011. Developing early childhood services: Past, present and future[M]. Rotterdam: Open University Press: 105.</div>
   <div class="csl-entry">BAWDEN D, 2008. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -167,7 +167,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">DEVERELL W, IGLER D, 2013. A companion to California history[M]. New York: John Wiley &#38; Sons: 21-22.</div>
   <div class="csl-entry">DOWLER L, 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 21(1/2): 5-26.</div>
   <div class="csl-entry">FAN X, SOMMERS C H, 2013. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
-  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
+  <div class="csl-entry">FOURNEY M E, c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">FRANZ A K, DANIELEWICZ M A, WONG D M, et al., 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 8: 1053-1062.</div>
   <div class="csl-entry">FRESE K S, KATUS H A, MEDER B, 2013. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2(1): 378-398.</div>
   <div class="csl-entry">HOPKINSON A, 2009. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -193,7 +193,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">WALLS S C, BARICHIVICH W J, BROWN M E, 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2(1): 399-418.</div>
   <div class="csl-entry">WEINSTEIN L, SWARTZ M N, 1974. Pathogenic properties of invading microorganisms[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders: 457-472.</div>
   <div class="csl-entry">World Health Organization, 1970. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO.</div>
-  <div class="csl-entry">YUFIN S A, 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1–4, 2000[M]. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">YUFIN S A, 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

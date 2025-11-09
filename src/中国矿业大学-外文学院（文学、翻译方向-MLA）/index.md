@@ -62,7 +62,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science. <i>Science</i>. no. 1, American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">Babu, B. V., et al., eds. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer, 2014.</div>
+  <div class="csl-entry">Babu, B. V., et al., eds. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer, 2014.</div>
   <div class="csl-entry">Baker, S. K., and M. E. Jackson. <i>The Future of Resource Sharing</i>. The Haworth Press, 1995.</div>
   <div class="csl-entry">Baldock, Peter. <i>Developing Early Childhood Services: Past, Present and Future</i>. Open University Press, 2011.</div>
   <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>. 4 May 2008. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -80,7 +80,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Dowler, Lawrence. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i> 21. 1/2 (1995): 5–26.</div>
   <div class="csl-entry"><i>Dublin Core Metadata Element Set: Version 1.1</i>. 14 June 2012. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013.</div>
-  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, 17–38.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, ASME, c1971, 17–38.</div>
   <div class="csl-entry">Franz, Annaliese K., et al. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i> 8 (2013): 1053–62.</div>
   <div class="csl-entry">Frese, Karen S., et al. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i> 2. 1 (2013): 378–98.</div>
   <div class="csl-entry">Hopkinson, A. <i>UNIMARC and Metadata: Dublin Core</i>. 22 Apr. 2009. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
@@ -107,7 +107,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Walls, Susan C., et al. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i> 2. 1 (2013): 399–418.</div>
   <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, Eds. William A Sodeman Jr. and William A. Sodeman, Saunders, 1974, 457–72.</div>
   <div class="csl-entry">World Health Organization. <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. WHO, 1970.</div>
-  <div class="csl-entry">Yufin, Sergey A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema, 2000.</div>
+  <div class="csl-entry">Yufin, Sergey A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. A. A. Balkema, 2000.</div>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化[N]. 中国青年报，2000-11-20（15）.</div>
   <div class="csl-entry">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. 2013.</div>
   <div class="csl-entry">中华医学会湖北分会. 临床内科杂志[J]. 1984，1（1）. 武汉: 中华医学会湖北分会，1984.</div>

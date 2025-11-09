@@ -26,7 +26,7 @@
   <div class="csl-entry">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告2012</div>
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy(2008-05-04)[03/08/2013]</div>
   <div class="csl-entry">Fan X., Sommers C. H. Food irradiation research and technology[M]. Ames, Iowa: Blackwell Publishing, 2013</div>
-  <div class="csl-entry">Fourney M. E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38</div>
+  <div class="csl-entry">Fourney M. E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38</div>
   <div class="csl-entry">Myburg A. A., Grattapaglia D., Tuskan G. A., Hellsten U., Hayes R. D., Grimwood J., Jenkins J., Lindquist E., Tice H., Bauer D., Goodstein D. M., Dubchak I., Poliakov A., Mizrachi E., Kullan A. R. K., Hussey S. G., Pinard D., van der Merwe K., Singh P., van Jaarsveld I., Silva-Junior O. B., Togawa R. C., Pappas M. R., Faria D. A., Sansaloni C. P., Petroli C. D., Yang X., Ranjan P., Tschaplinski T. J., Ye C.-Y., Li T., Sterck L., Vanneste K., Murat F., Soler M., Clemente H. S., Saidi N., Cassan-Wang H., Dunand C., Hefer C. A., Bornberg-Bauer E., Kersting A. R., Vining K., Amarasinghe V., Ranik M., Naithani S., Elser J., Boyd A. E., Liston A., Spatafora J. W., Dharmwardhana P., Raja R., Sullivan C., Romanel E., Alves-Ferreira M., Külheim C., Foley W., Carocha V., Paiva J., Kudrna D., Brommonschenkel S. H., Pasquali G., Byrne M., Rigault P., Tibbits J., Spokevicius A., Jones R. C., Steane D. A., Vaillancourt R. E., Potts B. M., Joubert F., Barry K., Pappas G. J., Strauss S. H., Jaiswal P., Grima-Pettenati J., Salse J., Van de Peer Y., Rokhsar D. S., Schmutz J. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356–362</div>
 </div>
 
@@ -127,7 +127,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628</div>
   <div class="csl-entry">佚名. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985</div>
   <div class="csl-entry">佚名. 卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局, 1988: 590</div>
-  <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Rotterdam: A. A. Balkema, 2000</div>
+  <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">佚名. 周易外传：卷 5[M]//船山全书. 长沙: 岳麓书社, 2011a: 1109</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011b</div>
   <div class="csl-entry">佚名. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012a</div>
@@ -135,7 +135,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012c</div>
   <div class="csl-entry">Anonymous. Dublin Core metadata element set: version 1.1(2012-06-14)[06/11/2014]</div>
   <div class="csl-entry">Anonymous. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013</div>
-  <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. New Delhi: Springer, 2014</div>
+  <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014</div>
   <div class="csl-entry">Anonymous. Information and documentation—The Dublin Core metadata element set. , no date</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523</div>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶：访中国工程院院长周济2013-01-12(2)</div>
@@ -168,7 +168,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Des Marais D. J., Strauss H., Summons R. E., Hayes J. M. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605–609</div>
   <div class="csl-entry">Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 1995, 21(1/2): 5–26</div>
   <div class="csl-entry">Fan X., Sommers C. H. Food irradiation research and technology[M]. Ames, Iowa: Blackwell Publishing, 2013</div>
-  <div class="csl-entry">Fourney M. E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38</div>
+  <div class="csl-entry">Fourney M. E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38</div>
   <div class="csl-entry">Franz A. K., Danielewicz M. A., Wong D. M., Anderson L. A., Boothe J. R. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053–1062</div>
   <div class="csl-entry">Frese K. S., Katus H. A., Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378–398</div>
   <div class="csl-entry">Hopkinson A. UNIMARC and metadata: Dublin Core(2009-04-22)[03/27/2013]</div>

@@ -19,7 +19,7 @@
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-150 second-field-align-false hangingindent-false">
+<div class="csl-bib-body maxoffset-230 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1]	贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年.
     <div class="csl-block">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, ed.//中国图书馆学会年会论文集北京: 国家图书馆出版社，2011年 (In Chinese)</div>
   </div>
@@ -38,8 +38,8 @@
   <div class="csl-entry">[6]	FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年.
     <div class="csl-block">FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[7]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年.
-    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年 (In Chinese)</div>
+  <div class="csl-entry">[7]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，c1971年.
+    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，c1971年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[8]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. .
     <div class="csl-block">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, SCHMUTZ J, et al. 2014. The genome of eucalyptus grandis[J]，Nature, 510: 356-362. (In Chinese)</div>
@@ -81,7 +81,7 @@ Qian Y et al. （2009a）<br>
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<div class="csl-bib-body maxoffset-237 second-field-align-false hangingindent-false">
+<div class="csl-bib-body maxoffset-273 second-field-align-false hangingindent-false">
   <div class="csl-entry">[1]	白书农. 1998. 植物开花研究[M]. 李承森, ed.//植物科学进展北京: 高等教育出版社，1998年.
     <div class="csl-block">白书农. 1998. 植物开花研究[M]. 李承森, ed.//植物科学进展北京: 高等教育出版社，1998年 (In Chinese)</div>
   </div>
@@ -316,8 +316,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[78]	Anonymous. 1988. 卷 39 乞致仕第一[M]//苏魏公文集北京: 中华书局，1988年.
     <div class="csl-block">anonymous. 1988. 卷 39 乞致仕第一[M]//苏魏公文集北京: 中华书局，1988年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[79]	Anonymous. 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年.
-    <div class="csl-block">anonymous. 2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
+  <div class="csl-entry">[79]	Anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年.
+    <div class="csl-block">anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema，2000年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[80]	Anonymous. 2011a. 周易外传：卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年.
     <div class="csl-block">anonymous. 2011. 周易外传：卷 5[M]. 王夫之, ed.//船山全书长沙: 岳麓书社，2011年 (In Chinese)</div>
@@ -340,8 +340,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[86]	Anonymous. 2013. A companion to California history[M]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons，2013年.
     <div class="csl-block">anonymous. 2013. A companion to California history[M]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons，2013年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年.
-    <div class="csl-block">anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
+  <div class="csl-entry">[87]	Anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年.
+    <div class="csl-block">anonymous. 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A K, Deep K, Pant M, Bansal J C, Ray K, Gupta U, eds.. New Delhi: Springer，2014年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[88]	Anonymous. [no date]. Information and documentation—The Dublin Core metadata element set[S]. .
     <div class="csl-block">anonymous. [no date]. Information and documentation—The Dublin Core metadata element set[S].  (In Chinese)</div>
@@ -388,8 +388,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[102]	FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年.
     <div class="csl-block">FAN X, SOMMERS C H. 2013. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing，2013年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[103]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年.
-    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in MechanicsNew York: ASME，c1971年 (In Chinese)</div>
+  <div class="csl-entry">[103]	FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，c1971年.
+    <div class="csl-block">FOURNEY M E. c1971. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，c1971年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[104]	FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]，ACS Chemical Biology, 8: 1053-1062. .
     <div class="csl-block">FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]，ACS Chemical Biology, 8: 1053-1062. (In Chinese)</div>

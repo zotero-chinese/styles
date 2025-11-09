@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden, D. “Origins and Concepts of Digital Literacy.” N.p., 4 May 2008. Web. 8 Mar. 2013.</div>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25-26.</div>
-  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17-38.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, ASME, c1971, pp. 17-38.</div>
   <div class="csl-entry">Myburg, Alexander A., et al. “The Genome of Eucalyptus Grandis.” <i>Nature</i> 510 (2014): 356-62. Web. 25 June 2014.</div>
   <div class="csl-entry">贾东琴, 柯平. “面向数字素养的高校图书馆数字服务体系研究.” 中国图书馆学会编. 中国图书馆学会年会论文集, 卷 2011 年卷, 北京: 国家图书馆出版社, 2011, 45-52.</div>
   <div class="csl-entry">库恩. 科学革命的结构：第 4 版. 金吾伦, 胡新和译, 第2版, 北京: 北京大学出版社, 2012.</div>
@@ -67,7 +67,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science. <i>Science</i>. no. 1, American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">Babu, B. V., et al., editors. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. Springer, 2014.</div>
+  <div class="csl-entry">Babu, B. V., et al., editors. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. Springer, 2014.</div>
   <div class="csl-entry">Baker, S. K., and M. E. Jackson. <i>The Future of Resource Sharing</i>. The Haworth Press, 1995.</div>
   <div class="csl-entry">Baldock, Peter. <i>Developing Early Childhood Services: Past, Present and Future</i>. Open University Press, 2011, p. 105.</div>
   <div class="csl-entry">Bawden, D. “Origins and Concepts of Digital Literacy.” N.p., 4 May 2008. Web. 8 Mar. 2013.</div>
@@ -85,7 +85,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Dowler, Lawrence. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i> 21.1/2 (1995): 5-26. Web.</div>
   <div class="csl-entry">“Dublin Core Metadata Element Set: Version 1.1.” N.p., 14 June 2012. Web. 11 June 2014.</div>
   <div class="csl-entry">Fan, Xuetong, and Christopher H. Sommers. <i>Food Irradiation Research and Technology</i>. 2nd ed., Blackwell Publishing, 2013, pp. 25-26.</div>
-  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics</i>, ASME, c1971, pp. 17-38.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, ASME, c1971, pp. 17-38.</div>
   <div class="csl-entry">Franz, Annaliese K., et al. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i> 8 (2013): 1053-62. Web. 26 June 2014.</div>
   <div class="csl-entry">Frese, Karen S., Hugo A. Katus, and Benjamin Meder. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i> 2.1 (2013): 378-98. Web. 19 Mar. 2013.</div>
   <div class="csl-entry">Hopkinson, A. “UNIMARC and Metadata: Dublin Core.” N.p., 22 Apr. 2009. Web. 27 Mar. 2013.</div>
@@ -112,7 +112,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Walls, Susan C., William J. Barichivich, and Mary E. Brown. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i> 2.1 (2013): 399-418. Web. 4 Nov. 2013.</div>
   <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, edited by William A Sodeman Jr. and William A. Sodeman, Saunders, 1974, pp. 457-72.</div>
   <div class="csl-entry">World Health Organization. <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. WHO, 1970.</div>
-  <div class="csl-entry">Yufin, Sergey A., editor. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. A. A. Balkema, 2000.</div>
+  <div class="csl-entry">Yufin, Sergey A., editor. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. A. A. Balkema, 2000.</div>
   <div class="csl-entry">白书农. “植物开花研究.” 李承森编. 植物科学进展, 北京: 高等教育出版社, 1998, 146-63.</div>
   <div class="csl-entry">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知. 京政办发［2005］37 号, 2005年7月12日.</div>
   <div class="csl-entry">北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教. 北京: 民族出版社, 2012, 112.</div>

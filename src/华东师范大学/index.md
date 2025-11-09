@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden D. Origins and concepts of digital literacy[EB](2008-05-04)</div>
   <div class="csl-entry">Fan X, Sommers C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
-  <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, New York: ASME, c1971: 17-38</div>
+  <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, c1971: 17-38</div>
   <div class="csl-entry">Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of eucalyptus grandis[J]. Nature, 2014, 510: 356-362</div>
   <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 中国图书馆学会, 编//中国图书馆学会年会论文集, 北京: 国家图书馆出版社, 2011: 45-52</div>
   <div class="csl-entry">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012</div>
@@ -66,10 +66,10 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000</div>
+  <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000</div>
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628</div>
   <div class="csl-entry">Anonymous. A companion to California history[M]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22</div>
-  <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014</div>
+  <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014</div>
   <div class="csl-entry">Anonymous. Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S]. </div>
   <div class="csl-entry">Anonymous. Dublin Core metadata element set: version 1.1[EB](2012-06-14)</div>
   <div class="csl-entry">American Association for the Advancement of Science. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883</div>
@@ -87,7 +87,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609</div>
   <div class="csl-entry">Dowler L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J]. Journal of Library Administration, 1995, 21(1/2): 5-26</div>
   <div class="csl-entry">Fan X, Sommers C H. Food irradiation research and technology[M]. 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25-26</div>
-  <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, New York: ASME, c1971: 17-38</div>
+  <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, c1971: 17-38</div>
   <div class="csl-entry">Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS Chemical Biology, 2013, 8: 1053-1062</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398</div>
   <div class="csl-entry">Hopkinson A. UNIMARC and metadata: Dublin Core[EB](2009-04-22)</div>

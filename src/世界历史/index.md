@@ -11,7 +11,7 @@
 <sup>1</sup> 库恩著，金吾伦、胡新和译：《科学革命的结构：第 4 版》2，北京大学出版社2012年版。<br>
 <sup>2</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
 <sup>3</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，北京，2011年，第45—52页。<br>
-<sup>4</sup> M. E. Fourney, “Advances in holographic photoelasticity,” University of Southern California, Los Angeles, California, c1971, pp. 17—38.<br>
+<sup>4</sup> M. E. Fourney, “Advances in holographic photoelasticity,” New York, c1971, pp. 17—38.<br>
 <sup>5</sup> 武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8—9页。<br>
 <sup>6</sup> Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510(June 2014), pp. 356—362.<br>
 <sup>7</sup> Ibid.<br>
@@ -26,7 +26,7 @@
   <div class="csl-entry">库恩著，金吾伦、胡新和译：《科学革命的结构：第 4 版》2，北京大学出版社2012年版。</div>
   <div class="csl-entry">武丽丽等：《“北斗一号”监控管理网设计与实现》，《测绘科学》2008年第5期，第8—9页。</div>
   <div class="csl-entry">Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.</div>
-  <div class="csl-entry">M. E. Fourney, “Advances in holographic photoelasticity,” University of Southern California, Los Angeles, California, c1971, pp. 17—38.</div>
+  <div class="csl-entry">M. E. Fourney, “Advances in holographic photoelasticity,” New York, c1971, pp. 17—38.</div>
   <div class="csl-entry">Alexander A. Myburg et al., “The genome of eucalyptus grandis,” <i>Nature</i>, vol. 510(June 2014), pp. 356—362.</div>
 </div>
 
@@ -63,7 +63,7 @@
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，同济大学出版社2011年版。<br>
 <sup>13</sup> 中国造纸学会：《中国造纸年鉴：2003》，中国轻工业出版社2003年版。<br>
 <sup>14</sup> Peyton Z. Peebles Jr., <i>Probability, random variables, and random signal principles</i>, New York: McGraw-Hill, 2001.<br>
-<sup>15</sup> Sergey A. Yufin ed., <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema, 2000.<br>
+<sup>15</sup> Sergey A. Yufin ed., <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>16</sup> Peter Baldock, <i>Developing early childhood services: Past, present and future</i>, Rotterdam: Open University Press, 2011.<br>
 <sup>17</sup> Xuetong Fan and Christopher H. Sommers, <i>Food irradiation research and technology</i>, Ames, Iowa: Blackwell Publishing, 2013.<br>
 <sup>18</sup> 《周易外传：卷 5》，载王夫之主编：《船山全书》第第 6 册卷，岳麓书社，2011年版，第1109页。<br>
@@ -136,7 +136,7 @@
 <sup>85</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，九州出版社2012年版。<br>
 <sup>86</sup> 雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，海洋出版社2012年版。<br>
 <sup>87</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，经济科学出版社2011年版。<br>
-<sup>88</sup> B. V. Babu et al. eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, New Delhi: Springer, 2014.<br>
+<sup>88</sup> B. V. Babu et al. eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
 <sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。<br>
 <sup>90</sup> 汤万金等：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>91</sup> D. Calkin, A. Ager and M. Thompson, <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>, 2011, pp. 8—9.<br>
@@ -159,7 +159,7 @@
 <sup>108</sup> 《宋史卷三：本纪第三》，《宋史》第第 1 册卷，中华书局，1977年版，第49页。<br>
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社，2011年版，第011—012页。<br>
 <sup>110</sup> Peter R. Buseck, Gordon L Nord Jr. and David R. Veblen, “Subsolidus phenomena in pyroxenes,” <i>Pyroxenes</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117—211.<br>
-<sup>111</sup> M. E. Fourney, “Advances in holographic photoelasticity,” University of Southern California, Los Angeles, California, c1971, pp. 17—38.<br>
+<sup>111</sup> M. E. Fourney, “Advances in holographic photoelasticity,” New York, c1971, pp. 17—38.<br>
 <sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期，第56—75页。<br>
 <sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》2008年第6期，第6—21页。<br>
 <sup>114</sup> 于潇等：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012年第11期，第1518—1523页。<br>

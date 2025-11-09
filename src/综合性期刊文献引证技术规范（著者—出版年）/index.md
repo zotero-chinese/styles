@@ -336,7 +336,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Association for the Advancement of Science, 1883, <i>Science</i>, vol. 1, Washington, D.C.: American Association for the Advancement of Science.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Babu, B. V., Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray &#38; Umesh Gupta (eds.), 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, New Delhi: Springer.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Babu, B. V., Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray &#38; Umesh Gupta (eds.), 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Baker, S. K. &#38; M. E. Jackson, 1995, <i>The Future of Resource Sharing</i>, New York: The Haworth Press.</div>
@@ -384,7 +384,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Fan, Xuetong &#38; Christopher H. Sommers, 2013, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Fourney, M. E., c1971, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics</i>, New York: ASME.</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Fourney, M. E., c1971, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Franz, Annaliese K., Megan A. Danielewicz, Diana M. Wong, Lisa A. Anderson &#38; Jordan R. Boothe, 2013, “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity,” <i>ACS Chemical Biology</i>, vol. 8, pp. 1053-1062.</div>
@@ -462,7 +462,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">World Health Organization, 1970, <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>, Report, WHO.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Yufin, Sergey A. (ed.), 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Rotterdam: A. A. Balkema.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Yufin, Sergey A. (ed.), 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">1962，《康熙字典：巳集上：水部》（同文书局影印本），北京：中华书局。</div>

@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Bawden D. 2008. “Origins and concepts of digital literacy”. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (March 8, 2013).</div>
   <div class="csl-entry">Fan X. &#38; C. H. Sommers. 2013. <i>Food Irradiation Research and Technology</i>. 2nd ed. Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney M. E. c1971. “Advances in holographic photoelasticity”. In <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME.</div>
+  <div class="csl-entry">Fourney M. E. c1971. “Advances in holographic photoelasticity”. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME.</div>
   <div class="csl-entry">Myburg A. A., D. Grattapaglia, G. A. Tuskan et al. 2014. “The genome of eucalyptus grandis”. <i>Nature</i> 510.</div>
   <div class="csl-entry">贾东琴、柯平，2011，面向数字素养的高校图书馆数字服务体系研究，见中国图书馆学会（编），《中国图书馆学会年会论文集》（2011 年卷），北京：国家图书馆出版社。</div>
   <div class="csl-entry">库恩，2012，《科学革命的结构：第 4 版》（2 版），北京：北京大学出版社。</div>
@@ -67,7 +67,7 @@ Qian et al. （2009b）<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">American Association for the Advancement of Science. 1883. <i>Science</i>. Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu B. V., A. K. Nagar, K. Deep et al. (eds.). 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu B. V., A. K. Nagar, K. Deep et al. (eds.). 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer.</div>
   <div class="csl-entry">Baker S. K. &#38; M. E. Jackson. 1995. <i>The Future of Resource Sharing</i>. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock P. 2011. <i>Developing Early Childhood Services: Past, Present and Future</i>. Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden D. 2008. “Origins and concepts of digital literacy”. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (March 8, 2013).</div>
@@ -83,7 +83,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Deverell W. &#38; D. Igler (eds.). 2013. <i>A Companion to California History</i>. New York: John Wiley &#38; Sons.</div>
   <div class="csl-entry">Dowler L. 1995. “The research university’s dilemma: Resource sharing and research in a transinstitutional environment”. <i>Journal of Library Administration</i> 21.</div>
   <div class="csl-entry">Fan X. &#38; C. H. Sommers. 2013. <i>Food Irradiation Research and Technology</i>. 2nd ed. Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney M. E. c1971. “Advances in holographic photoelasticity”. In <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME.</div>
+  <div class="csl-entry">Fourney M. E. c1971. “Advances in holographic photoelasticity”. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME.</div>
   <div class="csl-entry">Franz A. K., M. A. Danielewicz, D. M. Wong et al. 2013. “Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity”. <i>ACS Chemical Biology</i> 8.</div>
   <div class="csl-entry">Frese K. S., H. A. Katus, &#38; B. Meder. 2013. “Next-generation sequencing: from understanding biology to personalized medicine”. <i>Biology</i> 2.</div>
   <div class="csl-entry">Hopkinson A. 2009. “UNIMARC and metadata: Dublin Core”. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> (March 27, 2013).</div>
@@ -109,7 +109,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Walls S. C., W. J. Barichivich, &#38; M. E. Brown. 2013. “Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate”. <i>Biology</i> 2.</div>
   <div class="csl-entry">Weinstein L. &#38; M. N. Swartz. 1974. “Pathogenic properties of invading microorganisms”. In W. A. Sodeman Jr. &#38; W. A. Sodeman (eds.). <i>Pathologic Physiology: Mechanisms of Disease</i>. Philadelphia: Saunders.</div>
   <div class="csl-entry">World Health Organization. 1970. <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. Geneva: WHO.</div>
-  <div class="csl-entry">Yufin S. A. (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin S. A. (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">1981. “Coffee drinking and cancer of the pancreas”. <i>British Medical Journal</i> 283.</div>
   <div class="csl-entry">2012. “Dublin Core metadata element set: version 1.1”. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (June 11, 2014).</div>
   <div class="csl-entry"><i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>

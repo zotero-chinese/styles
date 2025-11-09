@@ -14,7 +14,7 @@
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">中国图书馆学会年会论文集</div>
-  <div class="csl-entry">Symposium on Applications of Holography in Mechanics</div>
+  <div class="csl-entry">Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</div>
   <div class="csl-entry">测绘科学</div>
   <div class="csl-entry">Nature</div>
 </div>
@@ -71,7 +71,7 @@
   <div class="csl-entry">宋史</div>
   <div class="csl-entry">汶川地震震害研究</div>
   <div class="csl-entry">Pyroxenes</div>
-  <div class="csl-entry">Symposium on Applications of Holography in Mechanics</div>
+  <div class="csl-entry">Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</div>
   <div class="csl-entry">文献</div>
   <div class="csl-entry">图书情报工作</div>
   <div class="csl-entry">清华大学学报（自然科学版）</div>

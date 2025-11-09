@@ -23,7 +23,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney. //Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney. //Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽等. 测绘科学, 2008, 33(5): 8–9.</div>
@@ -387,7 +387,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck et al. //Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney. //Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney. //Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">杨洪升. 文献, 2013(1): 56–75.</div>

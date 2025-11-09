@@ -180,7 +180,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名，2011，《周易外传：卷 5》，王夫之主编《船山全书》第 6 册，长沙：岳麓书社。</div>
   <div class="csl-entry">Anon 2012, <i>Dublin Core Metadata Element Set: Version 1.1</i> (<a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>).</div>
   <div class="csl-entry">Anon, <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.</div>
-  <div class="csl-entry">Babu, B. V., Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray &#38; Umesh Gupta 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer.</div>
+  <div class="csl-entry">Babu, B. V., Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray &#38; Umesh Gupta 2014, <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer.</div>
   <div class="csl-entry">Baker, S. K. &#38; M. E. Jackson 1995, <i>The Future of Resource Sharing</i>. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, Peter 2011, <i>Developing Early Childhood Services: Past, Present and Future</i>. Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden, D. 2008, <i>Origins and Concepts of Digital Literacy</i> (<a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>).</div>
@@ -196,7 +196,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Deverell, William &#38; David Igler 2013, <i>A Companion to California History</i>. New York: John Wiley &#38; Sons.</div>
   <div class="csl-entry">Dowler, Lawrence 1995, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i> 21(1/2).</div>
   <div class="csl-entry">Fan, Xuetong &#38; Christopher H. Sommers 2013, <i>Food Irradiation Research and Technology</i>. Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney, M. E. c1971, “Advances in Holographic Photoelasticity.” In <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME.</div>
+  <div class="csl-entry">Fourney, M. E. c1971, “Advances in Holographic Photoelasticity.” In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME.</div>
   <div class="csl-entry">Franz, Annaliese K., Megan A. Danielewicz, Diana M. Wong, Lisa A. Anderson &#38; Jordan R. Boothe 2013, “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i> 8.</div>
   <div class="csl-entry">Frese, Karen S., Hugo A. Katus &#38; Benjamin Meder 2013, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i> 2(1).</div>
   <div class="csl-entry">Hopkinson, A. 2009, <i>UNIMARC and Metadata: Dublin Core</i> (<a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>).</div>
@@ -222,7 +222,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Walls, Susan C., William J. Barichivich &#38; Mary E. Brown 2013, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i> 2(1).</div>
   <div class="csl-entry">Weinstein, L. &#38; M. N. Swartz 1974, “Pathogenic Properties of Invading Microorganisms.” In William A. Sodeman Jr. &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>. Philadelphia: Saunders.</div>
   <div class="csl-entry">World Health Organization 1970, <i>Factors Regulating the Immune Response: Report of WHO Scientific Group</i>. Geneva: WHO.</div>
-  <div class="csl-entry">Yufin, Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin, Sergey A. 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

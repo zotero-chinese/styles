@@ -59,7 +59,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Anon. 1981. Coffee drinking and cancer of the pancreas [J]. <i>British Medical Journal</i> 283 (6292): 628.</div>
   <div class="csl-entry">Anon. 2012. Dublin Core metadata element set: version 1.1 [OL]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a> (accessed 11/06/2014).</div>
   <div class="csl-entry">Anon. n.d. Information and documentation—The Dublin Core metadata element set: ISO 15836:2009 [S].</div>
-  <div class="csl-entry">B. V. Babu, A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, &#38; U. Gupta (eds.). 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>, December 28–30, 2012 [C]. New Delhi: Springer.</div>
+  <div class="csl-entry">B. V. Babu, A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, &#38; U. Gupta (eds.). 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i> [C]. New Delhi: Springer.</div>
   <div class="csl-entry">Baker, S. K. &#38; M. E. Jackson. 1995. <i>The Future of Resource Sharing</i> [M]. New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. 2011. <i>Developing Early Childhood Services: Past, Present and Future</i> [M]. Rotterdam: Open University Press. 105.</div>
   <div class="csl-entry">Bawden, D. 2008. Origins and concepts of digital literacy [OL]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a> (accessed 08/03/2013).</div>
@@ -75,7 +75,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">W. Deverell &#38; D. Igler (eds.). 2013. <i>A Companion to California History</i> [C]. New York: John Wiley &#38; Sons. 21-22.</div>
   <div class="csl-entry">Dowler, L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment [J]. <i>Journal of Library Administration</i> 21 (1/2): 5-26.</div>
   <div class="csl-entry">Fan, X. &#38; C. H. Sommers. 2013. <i>Food Irradiation Research and Technology</i> (2nd edition) [M]. Ames, Iowa: Blackwell Publishing. 25-26.</div>
-  <div class="csl-entry">Fourney, M. E. c1971. Advances in holographic photoelasticity [A]. In <i>Symposium on Applications of Holography in Mechanics</i>[C]. New York: ASME. 17-38.</div>
+  <div class="csl-entry">Fourney, M. E. c1971. Advances in holographic photoelasticity [A]. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>[C]. New York: ASME. 17-38.</div>
   <div class="csl-entry">Franz, A. K., M. A. Danielewicz, D. M. Wong, L. A. Anderson, &#38; J. R. Boothe. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity [J]. <i>ACS Chemical Biology</i> 8: 1053-1062.</div>
   <div class="csl-entry">Frese, K. S., H. A. Katus, &#38; B. Meder. 2013. Next-generation sequencing: from understanding biology to personalized medicine [J]. <i>Biology</i> 2 (1): 378-398.</div>
   <div class="csl-entry">Hopkinson, A. 2009. UNIMARC and metadata: Dublin Core [OL]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a> (accessed 27/03/2013).</div>
@@ -101,7 +101,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Walls, S. C., W. J. Barichivich, &#38; M. E. Brown. 2013. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate [J]. <i>Biology</i> 2 (1): 399-418.</div>
   <div class="csl-entry">Weinstein, L. &#38; M. N. Swartz. 1974. Pathogenic properties of invading microorganisms, eds. William A. Sodeman Jr., William A. Sodeman [A]. In <i>Pathologic Physiology: Mechanisms of Disease</i>[C]. Philadelphia: Saunders. 457-472.</div>
   <div class="csl-entry">World Health Organization. 1970. Factors regulating the immune response: Report of WHO Scientific Group [R]. Geneva: WHO.</div>
-  <div class="csl-entry">S. A. Yufin (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>, Moscow, Russia, February 1–4, 2000 [C]. Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">S. A. Yufin (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i> [C]. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">白书农，1998，植物开花研究[A]，李承森编。载《植物科学进展》[C]。北京：高等教育出版社。146-163。</div>
   <div class="csl-entry">北京市人民政府办公厅，2005，关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号[A]。</div>
   <div class="csl-entry">北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所，2012，《历代王朝与民族宗教》[M]。北京：民族出版社。112。</div>

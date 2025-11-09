@@ -26,7 +26,7 @@
   <div class="csl-entry"><b>中国互联网络信息中心</b> (2012). 第 29 次中国互联网络发展状况统计报告.</div>
   <div class="csl-entry">(2008-05-04).</div>
   <div class="csl-entry"><b>Fan X., Sommers C.H.</b> (2013). Food irradiation research and technology. 2nd. Blackwell Publishing, Ames, Iowa: 25-26.</div>
-  <div class="csl-entry"><b>Fourney M.E.</b> (c1971). Advances in holographic photoelasticity. , University of Southern California, Los Angeles, California.</div>
+  <div class="csl-entry"><b>Fourney M.E.</b> (c1971). Advances in holographic photoelasticity. , New York.</div>
   <div class="csl-entry"><b>Myburg A.A., Grattapaglia D., Tuskan G.A., Hellsten U., Hayes R.D., Grimwood J., Jenkins J., Lindquist E., Tice H., Bauer D., Goodstein D.M., Dubchak I., Poliakov A., Mizrachi E., Kullan A.R.K., Hussey S.G., Pinard D., van der Merwe K., Singh P., van Jaarsveld I., Silva-Junior O.B., Togawa R.C., Pappas M.R., Faria D.A., Sansaloni C.P., Petroli C.D., Yang X., Ranjan P., Tschaplinski T.J., Ye C.-Y., Li T., Sterck L., Vanneste K., Murat F., Soler M., Clemente H.S., Saidi N., Cassan-Wang H., Dunand C., Hefer C.A., Bornberg-Bauer E., Kersting A.R., Vining K., Amarasinghe V., Ranik M., Naithani S., Elser J., Boyd A.E., Liston A., Spatafora J.W., Dharmwardhana P., Raja R., Sullivan C., Romanel E., Alves-Ferreira M., Külheim C., Foley W., Carocha V., Paiva J., Kudrna D., Brommonschenkel S.H., Pasquali G., Byrne M., Rigault P., Tibbits J., Spokevicius A., Jones R.C., Steane D.A., Vaillancourt R.E., Potts B.M., Joubert F., Barry K., Pappas G.J., Strauss S.H., Jaiswal P., Grima-Pettenati J., Salse J., Van de Peer Y., Rokhsar D.S., Schmutz J.</b> (2014). The genome of eucalyptus grandis. Nature, <b>510</b>: 356-362.</div>
 </div>
 
@@ -150,7 +150,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>中华人民共和国国务院新闻办公室</b> (2013). 国防白皮书：中国武装力量的多样化运用.</div>
   <div class="csl-entry">. 中华医学会湖北分会, 武汉.</div>
   <div class="csl-entry">. American Association for the Advancement of Science, Washington, D.C.</div>
-  <div class="csl-entry"><b>Babu B.V., Nagar A.K., Deep K., Pant M., Bansal J.C., Ray K., Gupta U.</b> (2014). Proceedings of the Second International Conference on Soft Computing for Problem Solving. Springer, New Delhi.</div>
+  <div class="csl-entry"><b>Babu B.V., Nagar A.K., Deep K., Pant M., Bansal J.C., Ray K., Gupta U.</b> (2014). Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Springer, New Delhi.</div>
   <div class="csl-entry"><b>Baker S.K., Jackson M.E.</b> (1995). The future of resource sharing. The Haworth Press, New York.</div>
   <div class="csl-entry"><b>Baldock P.</b> (2011). Developing early childhood services: Past, present and future. Open University Press, Rotterdam: 105.</div>
   <div class="csl-entry">(2008-05-04).</div>
@@ -165,7 +165,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Deverell W., Igler D.</b> (2013). A companion to California history. John Wiley &#38; Sons, New York: 21-22.</div>
   <div class="csl-entry"><b>Dowler L.</b> (1995). The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, <b>21</b>: 5-26.</div>
   <div class="csl-entry"><b>Fan X., Sommers C.H.</b> (2013). Food irradiation research and technology. 2nd. Blackwell Publishing, Ames, Iowa: 25-26.</div>
-  <div class="csl-entry"><b>Fourney M.E.</b> (c1971). Advances in holographic photoelasticity. , University of Southern California, Los Angeles, California.</div>
+  <div class="csl-entry"><b>Fourney M.E.</b> (c1971). Advances in holographic photoelasticity. , New York.</div>
   <div class="csl-entry"><b>Franz A.K., Danielewicz M.A., Wong D.M., Anderson L.A., Boothe J.R.</b> (2013). Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chem. Biol., <b>8</b>: 1053-1062.</div>
   <div class="csl-entry"><b>Frese K.S., Katus H.A., Meder B.</b> (2013). Next-generation sequencing: from understanding biology to personalized medicine. Biology, <b>2</b>: 378-398.</div>
   <div class="csl-entry">(2009-04-22).</div>
@@ -191,7 +191,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Walls S.C., Barichivich W.J., Brown M.E.</b> (2013). Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate. Biology, <b>2</b>: 399-418.</div>
   <div class="csl-entry"><b>Weinstein L., Swartz M.N.</b> (1974). Pathogenic properties of invading microorganisms. In: <i>Pathologic physiology: mechanisms of disease</i>. Saunders, Philadelphia. pp. 457-472.</div>
   <div class="csl-entry"><b>World Health Organization</b> (1970). Factors regulating the immune response: Report of WHO Scientific Group. WHO, Geneva.</div>
-  <div class="csl-entry"><b>Yufin S.A.</b> (2000). Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. A. A. Balkema, Rotterdam.</div>
+  <div class="csl-entry"><b>Yufin S.A.</b> (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. A. A. Balkema, Rotterdam.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

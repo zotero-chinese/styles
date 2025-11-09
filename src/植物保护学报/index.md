@@ -89,7 +89,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Des Marais DJ, Strauss H, Summons RE, Hayes JM. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature, 359(6396): 605-609</div>
   <div class="csl-entry">Dowler L. 1995. The research university’s dilemma: Resource sharing and research in a transinstitutional environment. Journal of Library Administration, 21(1/2): 5-26</div>
   <div class="csl-entry">Fan X, Sommers CH. 2013. Food irradiation research and technology (2nd edition). Ames, Iowa: Blackwell Publishing, pp. 25-26</div>
-  <div class="csl-entry">Fourney ME. c1971. Advances in holographic photoelasticity.//Symposium on Applications of Holography in Mechanics. New York: ASME, pp. 17-38</div>
+  <div class="csl-entry">Fourney ME. c1971. Advances in holographic photoelasticity.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, pp. 17-38</div>
   <div class="csl-entry">Franz AK, Danielewicz MA, Wong DM, Anderson LA, Boothe JR. 2013. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chemical Biology, 8: 1053-1062</div>
   <div class="csl-entry">Frese KS, Katus HA, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine. Biology, 2(1): 378-398</div>
   <div class="csl-entry">Hopkinson A. 2009. UNIMARC and metadata: Dublin Core</div>
@@ -192,7 +192,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1981. Coffee drinking and cancer of the pancreas. British Medical Journal, 283(6292): 628</div>
   <div class="csl-entry">1985 (in Chinese) [1985. 职工教育研究论文集. 北京: 人民教育出版社]</div>
   <div class="csl-entry">1988. pp. 590 (in Chinese) [1988. 卷 39 乞致仕第一.//苏魏公文集. 北京: 中华书局, pp. 590]</div>
-  <div class="csl-entry">2000. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema</div>
+  <div class="csl-entry">2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema</div>
   <div class="csl-entry">2011a. pp. 1109 (in Chinese) [2011a. 周易外传：卷 5.//王夫之. 船山全书. 长沙: 岳麓书社, pp. 1109]</div>
   <div class="csl-entry">2011b (in Chinese) [2011b. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社]</div>
   <div class="csl-entry">2012a (in Chinese) [2012a. 综合湿地管理国际研讨会论文集. 北京: 海洋出版社]</div>
@@ -200,7 +200,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">2012c (in Chinese) [2012c. 综合湿地管理：综合湿地管理国际研讨会论文集. 北京: 海洋出版社]</div>
   <div class="csl-entry">2012d. Dublin Core metadata element set: version 1.1</div>
   <div class="csl-entry">2013. A companion to California history. New York: John Wiley &#38; Sons, pp. 21-22</div>
-  <div class="csl-entry">2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer</div>
+  <div class="csl-entry">2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer</div>
   <div class="csl-entry">N.d. Information and documentation—The Dublin Core metadata element set</div>
 </div>
 

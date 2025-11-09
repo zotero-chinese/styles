@@ -26,7 +26,7 @@
   <div class="csl-entry">中国互联网络信息中心（2012）：《第 29 次中国互联网络发展状况统计报告》，2012年。</div>
   <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>.</div>
   <div class="csl-entry">Fan, X. and Sommers, C. H. <i>Food Irradiation Research and Technology</i> Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” in <i>Symposium on Applications of Holography in Mechanics</i> New York: ASME.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> New York: ASME.</div>
   <div class="csl-entry">Myburg, A. A.; Grattapaglia, D.; Tuskan, G. A.; Hellsten, U.; Hayes, R. D.; Grimwood, J.; Jenkins, J.; Lindquist, E.; Tice, H.; Bauer, D.; Goodstein, D. M.; Dubchak, I.; Poliakov, A.; Mizrachi, E.; Kullan, A. R. K.; Hussey, S. G.; Pinard, D.; Merwe, K. van der; Singh, P.; Jaarsveld, I. van; Silva-Junior, O. B.; Togawa, R. C.; Pappas, M. R.; Faria, D. A.; Sansaloni, C. P.; Petroli, C. D.; Yang, X.; Ranjan, P.; Tschaplinski, T. J.; Ye, C. Y.; Li, T.; Sterck, L.; Vanneste, K.; Murat, F.; Soler, M.; Clemente, H. S.; Saidi, N.; Cassan-Wang, H.; Dunand, C.; Hefer, C. A.; Bornberg-Bauer, E.; Kersting, A. R.; Vining, K.; Amarasinghe, V.; Ranik, M.; Naithani, S.; Elser, J.; Boyd, A. E.; Liston, A.; Spatafora, J. W.; Dharmwardhana, P.; Raja, R.; Sullivan, C.; Romanel, E.; Alves-Ferreira, M.; Külheim, C.; Foley, W.; Carocha, V.; Paiva, J.; Kudrna, D.; Brommonschenkel, S. H.; Pasquali, G.; Byrne, M.; Rigault, P.; Tibbits, J.; Spokevicius, A.; Jones, R. C.; Steane, D. A.; Vaillancourt, R. E.; Potts, B. M.; Joubert, F.; Barry, K.; Pappas, G. J.; Strauss, S. H.; Jaiswal, P.; Grima-Pettenati, J.; Salse, J.; Van de Peer, Y.; Rokhsar, D. S. and Schmutz, J. “The Genome of Eucalyptus Grandis.” <i>Nature</i>, 2014, vol. 510, pp. 356-362.</div>
 </div>
 
@@ -145,7 +145,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">中华人民共和国国务院新闻办公室（2013）：《国防白皮书：中国武装力量的多样化运用》，2013年。</div>
   <div class="csl-entry">中华医学会湖北分会（1984）：《临床内科杂志》，中华医学会湖北分会，1984年。</div>
   <div class="csl-entry">American Association for the Advancement of Science <i>Science</i> Washington, D.C.: American Association for the Advancement of Science.</div>
-  <div class="csl-entry">Babu, B. V.; Nagar, A. K.; Deep, K.; Pant, M.; Bansal, J. C.; Ray, K. and Gupta, U., eds. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i> New Delhi: Springer.</div>
+  <div class="csl-entry">Babu, B. V.; Nagar, A. K.; Deep, K.; Pant, M.; Bansal, J. C.; Ray, K. and Gupta, U., eds. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i> New Delhi: Springer.</div>
   <div class="csl-entry">Baker, S. K. and Jackson, M. E. <i>The Future of Resource Sharing</i> New York: The Haworth Press.</div>
   <div class="csl-entry">Baldock, P. <i>Developing Early Childhood Services: Past, Present and Future</i> Rotterdam: Open University Press.</div>
   <div class="csl-entry">Bawden, D. <i>Origins and Concepts of Digital Literacy</i>.</div>
@@ -161,7 +161,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Deverell, W. and Igler, D., eds. <i>A Companion to California History</i> New York: John Wiley &#38; Sons.</div>
   <div class="csl-entry">Dowler, L. “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment.” <i>Journal of Library Administration</i>, 1995, 21(1/2), pp. 5-26.</div>
   <div class="csl-entry">Fan, X. and Sommers, C. H. <i>Food Irradiation Research and Technology</i> Ames, Iowa: Blackwell Publishing.</div>
-  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” in <i>Symposium on Applications of Holography in Mechanics</i> New York: ASME.</div>
+  <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> New York: ASME.</div>
   <div class="csl-entry">Franz, A. K.; Danielewicz, M. A.; Wong, D. M.; Anderson, L. A. and Boothe, J. R. “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity.” <i>ACS Chemical Biology</i>, 2013, vol. 8, pp. 1053-1062.</div>
   <div class="csl-entry">Frese, K. S.; Katus, H. A. and Meder, B. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i>, 2013, 2(1), pp. 378-398.</div>
   <div class="csl-entry">Hopkinson, A. <i>UNIMARC and Metadata: Dublin Core</i>.</div>
@@ -187,7 +187,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Walls, S. C.; Barichivich, W. J. and Brown, M. E. “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate.” <i>Biology</i>, 2013, 2(1), pp. 399-418.</div>
   <div class="csl-entry">Weinstein, L. and Swartz, M. N. “Pathogenic Properties of Invading Microorganisms.” in Sodeman, W. A., Jr. and W. A. Sodeman, eds: <i>Pathologic Physiology: Mechanisms of Disease</i> Philadelphia: Saunders.</div>
   <div class="csl-entry">World Health Organization “Factors Regulating the Immune Response: Report of WHO Scientific Group.”.</div>
-  <div class="csl-entry">Yufin, S. A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i> Rotterdam: A. A. Balkema.</div>
+  <div class="csl-entry">Yufin, S. A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i> Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">（1962）：《康熙字典：巳集上：水部》，中华书局，1962年。</div>
   <div class="csl-entry">（1977）：《宋史卷三：本纪第三》，载《宋史》，中华书局，1977年。</div>
   <div class="csl-entry">“Coffee Drinking and Cancer of the Pancreas.” <i>British Medical Journal</i>, 1981, 283(6292), p. 628.</div>

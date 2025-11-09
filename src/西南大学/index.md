@@ -127,7 +127,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Coffee drinking and cancer of the pancreas[J]. <i>Br. Med. J.</i>, 1981, 283(6292): 628.</div>
   <div class="csl-entry">佚名. 职工教育研究论文集[M]. 中国职工教育研究会, 编. 北京: 人民教育出版社, 1985.</div>
   <div class="csl-entry">佚名. 卷 39 乞致仕第一[M]//苏魏公文集. 北京: 中华书局, 1988: 590.</div>
-  <div class="csl-entry">Anonymous. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">佚名. 周易外传：卷 5[M]. 王夫之, 编//船山全书. 长沙: 岳麓书社, 2011a: 1109.</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 陈志勇, 编. 北京: 经济科学出版社, 2011b.</div>
   <div class="csl-entry">佚名. 综合湿地管理国际研讨会论文集[M]. 牛志明, 斯温兰德, 雷光春, 编. 北京: 海洋出版社, 2012a.</div>
@@ -135,7 +135,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 雷光春, 编. 北京: 海洋出版社, 2012c.</div>
   <div class="csl-entry">Anonymous. Dublin Core metadata element set: version 1.1[EB/OL](2012-06-14).</div>
   <div class="csl-entry">Anonymous. A companion to California history[M/OL]. Deverell W, Igler D, eds.. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
-  <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. Babu B V, Nagar A K, Deep K, et al., eds.. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">Anonymous. Information and documentation—The Dublin Core metadata element set[S/OL]. .</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">余建斌. 我们的科技一直在追赶：访中国工程院院长周济[N/OL]. 人民日报, 2013: 2.</div>

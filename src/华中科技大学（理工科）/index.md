@@ -102,7 +102,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">P. Z. Peebles Jr. Probability, random variables, and random signal principles (fourth edition). New York: McGraw-Hill, 2001</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">S. A. Yufin. Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema, 2000</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">S. A. Yufin. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema, 2000</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">P. Baldock. Developing early childhood services: Past, present and future. Rotterdam: Open University Press, 2011: 105</div>
@@ -321,7 +321,7 @@
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社, 2011</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">B. V. Babu, A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer, 2014</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">B. V. Babu, A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer, 2014</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用. 2013</div>
@@ -390,7 +390,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">P. R. Buseck, G. L. Nord Jr., D. R. Veblen. Subsolidus phenomena in pyroxenes, in: Pyroxenes, Washington, D.C.: Mineralogical Society of America, c1980: 117-211</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">M. E. Fourney. Advances in holographic photoelasticity, in: Symposium on Applications of Holography in Mechanics, University of Southern California, Los Angeles, California, 23-25 Aug. 1971, ASME, c1971: 17-38</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">M. E. Fourney. Advances in holographic photoelasticity, in: Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York, ASME, c1971: 17-38</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略. 文献, 2013(1): 56-75</div>

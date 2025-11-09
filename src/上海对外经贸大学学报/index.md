@@ -39,7 +39,7 @@
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Fan, X., and C. H. Sommers, Food Irradiation Research and Technology, Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, et al., “The Genome of Eucalyptus Grandis”, Nature, 2014, 510:356-362.</div>
@@ -338,7 +338,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Anon, Information and Documentation—The Dublin Core Metadata Element Set, ISO 15836:2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Babu, B. V., A. K. Nagar, K. Deep, et al., Proceedings of the Second International Conference on Soft Computing for Problem Solving, New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Babu, B. V., A. K. Nagar, K. Deep, et al., Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012, New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">Baker, S. K., and M. E. Jackson, The Future of Resource Sharing, New York: The Haworth Press, 1995.</div>
@@ -386,7 +386,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Fan, X., and C. H. Sommers, Food Irradiation Research and Technology, Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Fourney, M. E., “Advances in Holographic Photoelasticity”, Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">Franz, A. K., M. A. Danielewicz, D. M. Wong, et al., “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity”, ACS Chemical Biology, 2013, 8:1053-1062.</div>
@@ -464,7 +464,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline">World Health Organization, Factors Regulating the Immune Response: Report of WHO Scientific Group, Geneva: WHO, 1970.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Yufin, S. A., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Rotterdam: A. A. Balkema, 2000.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Yufin, S. A., Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000, Rotterdam: A. A. Balkema, 2000.</div>
   </div>
 </div>
 

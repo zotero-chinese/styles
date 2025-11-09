@@ -99,7 +99,7 @@
     <div class="csl-left-margin">14. </div><div class="csl-right-inline">Peebles PZ Jr, 2001. <i>Probability, random variables, and random signal principles</i>. New York: McGraw-Hill. 4th ed.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">15. </div><div class="csl-right-inline">Yufin SA, ed, 2000. <i>Geoecology and computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</i>. Rotterdam: A. A. Balkema</div>
+    <div class="csl-left-margin">15. </div><div class="csl-right-inline">Yufin SA, ed, 2000. <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>. Rotterdam: A. A. Balkema</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">16. </div><div class="csl-right-inline">Baldock P, 2011. <i>Developing early childhood services: Past, present and future</i>. Rotterdam: Open University Press</div>
@@ -318,7 +318,7 @@
     <div class="csl-left-margin">87. </div><div class="csl-right-inline">陈志勇, ed, 2011. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">88. </div><div class="csl-right-inline">Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, et al., Eds., 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving</i>. New Delhi: Springer</div>
+    <div class="csl-left-margin">88. </div><div class="csl-right-inline">Babu BV, Nagar AK, Deep K, Pant M, Bansal JC, et al., Eds., 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">89. </div><div class="csl-right-inline">中华人民共和国国务院新闻办公室. 2013. 国防白皮书：中国武装力量的多样化运用</div>

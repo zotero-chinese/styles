@@ -64,7 +64,7 @@
 <sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年，第5—6页。<br>
 <sup>13</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>14</sup> Peyton Z. Peebles Jr. Probability, Random Variables, and Random Signal Principles. New York: McGraw-Hill. 2001.<br>
-<sup>15</sup> Sergey A. Yufin, ed. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering. Rotterdam: A. A. Balkema. 2000.<br>
+<sup>15</sup> Sergey A. Yufin, ed. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema. 2000.<br>
 <sup>16</sup> Peter Baldock. Developing Early Childhood Services: Past, Present and Future. Rotterdam: Open University Press. 2011. p. 105.<br>
 <sup>17</sup> Xuetong Fan and Christopher H. Sommers. Food Irradiation Research and Technology. Ames, Iowa: Blackwell Publishing. 2013. pp. 25-26.<br>
 <sup>18</sup> 王夫之主编：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
@@ -137,7 +137,7 @@
 <sup>85</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
 <sup>86</sup> 雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
 <sup>87</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
-<sup>88</sup> B. V. Babu, Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds. Proceedings of the Second International Conference on Soft Computing for Problem Solving. New Delhi: Springer. 2014.<br>
+<sup>88</sup> B. V. Babu, Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer. 2014.<br>
 <sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。<br>
 <sup>90</sup> 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>91</sup> D. Calkin, A. Ager, and M. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report. 2011. pp. 8-9.<br>
@@ -160,7 +160,7 @@
 <sup>108</sup> 《宋史卷三：本纪第三》，《宋史》第 1 册，北京：中华书局，1977年，第49页。<br>
 <sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第011—012页。<br>
 <sup>110</sup> Peter R. Buseck, Gordon L. Nord Jr., and David R. Veblen. Subsolidus Phenomena in Pyroxenes. in <i>Pyroxenes</i>. Washington, D.C.: Mineralogical Society of America. c1980. pp. 117-211.<br>
-<sup>111</sup> M. E. Fourney. Advances in Holographic Photoelasticity. in <i>Symposium on Applications of Holography in Mechanics</i>. New York: ASME. c1971. pp. 17-38.<br>
+<sup>111</sup> M. E. Fourney. Advances in Holographic Photoelasticity. in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME. c1971. pp. 17-38.<br>
 <sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期，第56—75页。<br>
 <sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年，第6—21页。<br>
 <sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年，第1518—1523页。<br>
