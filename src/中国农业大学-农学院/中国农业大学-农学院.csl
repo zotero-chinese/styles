@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>中国农业大学（JIPB版）</title>
-    <title-short>CAU(JIPB)</title-short>
-    <id>https://www.zotero-chinese.com/styles/中国农业大学（JIPB版）</id>
-    <link href="https://www.zotero-chinese.com/styles/中国农业大学（JIPB版）" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
+    <title>中国农业大学 - 农学院</title>
+    <id>https://zotero-chinese.com/styles/中国农业大学-农学院</id>
+    <link href="https://zotero-chinese.com/styles/中国农业大学-农学院" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
     <link href="http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html" rel="documentation"/>
     <author>
       <name>郭宇航</name>
       <email>22561797+Sherry520@users.noreply.github.com22561797+Sherry520@users.noreply.github.com</email>
     </author>
-    <contributor>
-      <name>洋芋</name>
-      <email>chivele.lee@gmail.com</email>
-    </contributor>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
-    <contributor>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <updated>2025-04-19T15:30:01+08:00</updated>
@@ -48,14 +35,14 @@
   <!-- 如果图书无author 用editor代替 -->
   <macro name="author">
     <names variable="author">
-        <name initialize-with="." name-as-sort-order="all"/>
-        <substitute>
-            <names variable="editor">
-                <name initialize-with="." name-as-sort-order="all"/>
-                <!--label form="short" prefix=" (" suffix=")"/-->
-            </names>
-            <text value="title"/>
-        </substitute>
+      <name initialize-with="." name-as-sort-order="all"/>
+      <substitute>
+        <names variable="editor">
+          <name initialize-with="." name-as-sort-order="all"/>
+          <!--label form="short" prefix=" (" suffix=")"/-->
+        </names>
+        <text value="title"/>
+      </substitute>
     </names>
   </macro>
   <!--macro name="author">
@@ -73,14 +60,14 @@
   <!-- 引用用的作者 -->
   <macro name="author-intext">
     <names variable="author">
-        <name form="short" and="text"/>
-        <substitute>
-            <names variable="editor">
-              <name form="short" and="text"/>
-            </names>
-            <text macro="title"/>
-            <!--text value="Freeman"/-->
-        </substitute>
+      <name form="short" and="text"/>
+      <substitute>
+        <names variable="editor">
+          <name form="short" and="text"/>
+        </names>
+        <text macro="title"/>
+        <!--text value="Freeman"/-->
+      </substitute>
     </names>
   </macro>
   <!--macro name="author-intext">
@@ -97,13 +84,13 @@
   <!-- 文内引用用的作者 中文 -->
   <macro name="author-intext-zh">
     <names variable="author">
-        <name and="text"/>
-        <substitute>
-            <names variable="editor">
-                <name and="text" initialize-with="." et-al-min="3" et-al-use-first="1"/>
-            </names>
-            <text value="Freeman"/>
-        </substitute>
+      <name and="text"/>
+      <substitute>
+        <names variable="editor">
+          <name and="text" initialize-with="." et-al-min="3" et-al-use-first="1"/>
+        </names>
+        <text value="Freeman"/>
+      </substitute>
     </names>
   </macro>
   <!--macro name="author-intext-zh">
@@ -123,7 +110,7 @@
       <text macro="issued-year"/>
     </group>
     <text variable="title"/>
-   
+
   </macro>
   <macro name="type-id">
     <choose>
@@ -181,7 +168,7 @@
         <group delimiter=" ">
           <choose>
             <if is-numeric="edition">
-              <number variable="edition" form="ordinal"/>   
+              <number variable="edition" form="ordinal"/>
               <choose>
                 <if type="chapter">
                   <text value="edn"/>
@@ -192,10 +179,10 @@
                 </else-->
               </choose>
             </if>
-              <else>
-                <text variable="edition"/>
-                  <text term="edition" form="short" prefix=" "/>
-              </else>
+            <else>
+              <text variable="edition"/>
+              <text term="edition" form="short" prefix=" "/>
+            </else>
           </choose>
           <!--text variable="edition"/>
           <label variable="edition"/-->
@@ -207,15 +194,15 @@
     <group delimiter=", ">
       <text variable="volume" font-weight="bold"/>
     </group>
-      <choose>
-        <if variable="volume">
-          <text variable="page" prefix=": "/>
-        </if>
-          <else>
-            <text variable="page" prefix=""/>
-          </else>
-      </choose>
-    
+    <choose>
+      <if variable="volume">
+        <text variable="page" prefix=": "/>
+      </if>
+      <else>
+        <text variable="page" prefix=""/>
+      </else>
+    </choose>
+
   </macro>
   <macro name="publisher">
     <choose>
@@ -318,7 +305,7 @@
         <text macro="author" font-weight="bold" suffix=" "/>
         <text macro="title"/>
         <choose>
-          <if variable="container-title"  >
+          <if variable="container-title">
             <text value="In: " prefix=". "/>
             <text macro="container-contributors" suffix=". "/>
             <text variable="container-title" font-style="italic" suffix=". "/>
@@ -396,7 +383,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography entry-spacing="0"  hanging-indent="true">
+  <bibliography entry-spacing="0" hanging-indent="true">
     <sort>
       <key macro="author-intext"/>
       <key macro="issued-year"/>
