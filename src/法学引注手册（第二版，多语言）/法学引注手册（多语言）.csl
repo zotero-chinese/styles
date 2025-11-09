@@ -141,6 +141,8 @@
     </names>
   </macro>
   <macro name="author-zh">
+    <text variable="nationality" prefix="［" suffix="］"/>
+    <text variable="dynasty" prefix="（" suffix="）"/>
     <names variable="author">
       <name delimiter="、" delimiter-precedes-et-al="never"/>
       <label form="short"/>
@@ -870,10 +872,17 @@
               <!-- 《最高人民法院公报》上的案例 -->
               <text macro="container-zh"/>
             </else-if>
+            <else-if variable="archive">
+              <!-- 引用“人民法院案例库”中的案例 -->
+              <group>
+                <text variable="archive"/>
+                <text variable="archive_location"/>
+              </group>
+            </else-if>
             <else>
               <group>
                 <text macro="container-zh"/>
-                <text macro="issuance-zh"/>
+                <!-- <text macro="issuance-zh"/> -->
               </group>
             </else>
           </choose>
@@ -949,7 +958,20 @@
   </macro>
   <macro name="title-zh">
     <choose>
-      <if type="webpage">
+      <if type="classic">
+        <group delimiter="，">
+          <text variable="title" prefix="《" suffix="》"/>
+          <choose>
+            <if variable="container-title" match="none">
+              <group delimiter="">
+                <text macro="volume-zh"/>
+                <text variable="volume-title" prefix="《" suffix="》"/>
+              </group>
+            </if>
+          </choose>
+        </group>
+      </if>
+      <else-if type="webpage">
         <choose>
           <if variable="container-title">
             <text variable="title" prefix="《" suffix="》"/>
@@ -959,7 +981,7 @@
           </else>
         </choose>
         <text macro="edition-zh" prefix="（" suffix="）"/>
-      </if>
+      </else-if>
       <else-if type="legislation treaty" match="any">
         <text variable="title" form="short" prefix="《" suffix="》"/>
         <group prefix="（" suffix="）">
@@ -1218,7 +1240,7 @@
         <text macro="issuance-zh"/>
         <text macro="issue-zh"/>
       </if>
-      <else-if type="chapter paper-conference" match="any">
+      <else-if type="chapter paper-conference" variable="container-title" match="all">
         <text term="in"/>
         <group delimiter="：">
           <text macro="editor-zh"/>
@@ -1226,6 +1248,17 @@
         </group>
         <text macro="volume-zh"/>
         <text macro="issue-zh"/>
+      </else-if>
+      <else-if type="paper-conference" variable="event-title" match="all">
+        <group delimiter="，">
+          <group delimiter="">
+            <names variable="organizer">
+              <name delimiter="、"/>
+            </names>
+            <text variable="event-title"/>
+            <text term="paper-conference"/>
+          </group>
+        </group>
       </else-if>
       <else-if type="legal_case">
         <choose>
@@ -1420,6 +1453,19 @@
       <if type="post webpage" match="any">
         <text macro="issuance-zh"/>
       </if>
+      <else-if type="paper-conference" match="any">
+        <choose>
+          <if variable="container-title">
+            <text macro="issuance-zh"/>
+            <text term="edition" form="short"/>
+          </if>
+          <else>
+            <text macro="issuance-zh"/>
+            <text term="at"/>
+            <text variable="event-place"/>
+          </else>
+        </choose>
+      </else-if>
       <else>
         <text macro="issuance-zh"/>
         <choose>
@@ -1517,6 +1563,16 @@
       </if>
       <else-if type="article-magazine article-newspaper legislation post post-weblog regulation report webpage" match="any">
         <date variable="issued" form="text"/>
+      </else-if>
+      <else-if type="paper-conference" match="any">
+        <choose>
+          <if variable="container-title">
+            <date variable="issued" form="text" date-parts="year"/>
+          </if>
+          <else>
+            <date variable="issued" form="text"/>
+          </else>
+        </choose>
       </else-if>
       <else>
         <date variable="issued" form="text" date-parts="year"/>
