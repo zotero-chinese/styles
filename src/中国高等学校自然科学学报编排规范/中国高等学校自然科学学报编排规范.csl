@@ -198,28 +198,19 @@
       <text term="in" text-case="capitalize-first"/>
       <group delimiter=". ">
         <text macro="container-contributors-en"/>
-        <group delimiter=", ">
-          <choose>
-            <if variable="container-title">
-              <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter=": ">
-                <text variable="container-title"/>
-                <text macro="volume"/>
-              </group>
-            </if>
-            <else-if type="paper-conference">
-              <!-- 有些会议没有论文集，使用会议名代替 -->
-              <text variable="event-title"/>
-            </else-if>
-          </choose>
-          <!-- 会议时间和会议地点 -->
-          <choose>
-            <if type="paper-conference" variable="event-date" match="all">
-              <date variable="event-date" form="numeric" date-parts="year"/>
-              <text variable="event-place"/>
-            </if>
-          </choose>
-        </group>
+        <choose>
+          <if variable="container-title">
+            <!-- 优先使用专著或会议论文集的题名 -->
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text macro="volume"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
+            <!-- 有些会议没有论文集，使用会议名代替 -->
+            <text variable="event-title"/>
+          </else-if>
+        </choose>
       </group>
     </group>
   </macro>
@@ -228,28 +219,19 @@
       <text term="in" text-case="capitalize-first"/>
       <group delimiter="．">
         <text macro="container-contributors-zh"/>
-        <group delimiter="，">
-          <choose>
-            <if variable="container-title">
-              <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter="：">
-                <text variable="container-title"/>
-                <text macro="volume"/>
-              </group>
-            </if>
-            <else-if type="paper-conference">
-              <!-- 有些会议没有论文集，使用会议名代替 -->
-              <text variable="event-title"/>
-            </else-if>
-          </choose>
-          <!-- 会议时间和会议地点 -->
-          <choose>
-            <if type="paper-conference" variable="event-date" match="all">
-              <date variable="event-date" form="numeric" date-parts="year"/>
-              <text variable="event-place"/>
-            </if>
-          </choose>
-        </group>
+        <choose>
+          <if variable="container-title">
+            <!-- 优先使用专著或会议论文集的题名 -->
+            <group delimiter="：">
+              <text variable="container-title"/>
+              <text macro="volume"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
+            <!-- 有些会议没有论文集，使用会议名代替 -->
+            <text variable="event-title"/>
+          </else-if>
+        </choose>
       </group>
     </group>
   </macro>

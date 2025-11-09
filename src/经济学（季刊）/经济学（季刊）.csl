@@ -36,7 +36,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">&#65293;</term> <!-- 中文页码的连接号使用全角连字符“－”（U+FF0D） -->
+      <term name="page-range-delimiter">－</term> <!-- 中文页码的连接号使用全角连字符“－”（U+FF0D） -->
       <term name="editor" form="short">主编</term>
     </terms>
   </locale>

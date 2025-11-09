@@ -912,7 +912,7 @@
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Kaufmann A．Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]．见：Baumann J主编．Das Abtreibungsverbot des § 218 StGB．第2版．1972</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C W．Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]．见．1990</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C W．Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]．1990</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">StGB[M]</div>

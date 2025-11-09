@@ -24,11 +24,6 @@
     </terms>
   </locale>
   <locale xml:lang="zh">
-    <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-    </date>
     <terms>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>

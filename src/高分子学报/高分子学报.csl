@@ -5,7 +5,7 @@
     <id>https://zotero-chinese.com/styles/高分子学报</id>
     <link href="https://zotero-chinese.com/styles/高分子学报" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
-    <link href="https://www.gfzxb.org/download?columnId=1103/columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&#38;index=4&#38;parentIndex=4&#38;code=download&#38;childId=4&#38;bannerId=0&#38;newCompositeId=3624&#38;newsDataType=news&#38;siteIds=&#38;lang=zh" rel="documentation"/>
+    <link href="https://www.gfzxb.org/download?columnId=1103/columnName=%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83&amp;index=4&amp;parentIndex=4&amp;code=download&amp;childId=4&amp;bannerId=0&amp;newCompositeId=3624&amp;newsDataType=news&amp;siteIds=&amp;lang=zh" rel="documentation"/>
     <link href="https://www.gfzxb.org/rc-pub/front/files/download?id=eztHo1SBcc3RWCzflFzNkA==" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -23,11 +23,6 @@
     </terms>
   </locale>
   <locale xml:lang="zh">
-    <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-    </date>
     <terms>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
@@ -139,16 +134,6 @@
           <text variable="number"/>
         </if>
       </choose>
-      <choose>
-        <if variable="container-title" type="paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
@@ -194,28 +179,19 @@
       <text term="in"/>
       <group delimiter=". ">
         <text macro="container-contributors"/>
-        <group delimiter=", ">
-          <choose>
-            <if variable="container-title">
-              <!-- 优先使用专著或会议论文集的题名 -->
-              <group delimiter=" ">
-                <text variable="container-title" font-style="italic"/>
-                <text macro="volume" prefix="(" suffix=")"/>
-              </group>
-            </if>
-            <else-if type="paper-conference">
-              <!-- 有些会议没有论文集，使用会议名代替 -->
-              <text variable="event-title" font-style="italic"/>
-            </else-if>
-          </choose>
-          <!-- 会议时间和会议地点 -->
-          <choose>
-            <if type="paper-conference" variable="event-date" match="all">
-              <date variable="event-date" form="text"/>
-              <text variable="event-place"/>
-            </if>
-          </choose>
-        </group>
+        <choose>
+          <if variable="container-title">
+            <!-- 优先使用专著或会议论文集的题名 -->
+            <group delimiter=" ">
+              <text variable="container-title" font-style="italic"/>
+              <text macro="volume" prefix="(" suffix=")"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
+            <!-- 有些会议没有论文集，使用会议名代替 -->
+            <text variable="event-title" font-style="italic"/>
+          </else-if>
+        </choose>
       </group>
     </group>
   </macro>

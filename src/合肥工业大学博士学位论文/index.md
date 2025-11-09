@@ -1067,7 +1067,7 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Anon. Burriola v. Greater Toledo YMCA[A]//F.Supp.2d: Vol. 133. 2001: 1034.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Anon. The wire[Z]. Blown Deadline Productions; HBO, 2002/2008.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Anon. The wire[Z]. Blown Deadline Productions; HBO, 2002/[2008].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Anon. The Qur’an[M]. Abdel Haleem M A S, trans. Oxford University Press, 2004.</div>

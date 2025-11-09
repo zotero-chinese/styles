@@ -912,7 +912,7 @@
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Kaufmann A.．Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[A]．Baumann J.．Das Abtreibungsverbot des § 218 StGB[M]．2 版．1972．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C. W.．Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[A]．[M]．1990．</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C. W.．Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[A]．1990．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">StGB[A]．</div>
@@ -1215,7 +1215,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. Ethical principles of psychologists and code of conduct [R]. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C. B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04 [R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C. B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04 [R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/[2020].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1 [R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>

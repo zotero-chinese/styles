@@ -112,47 +112,35 @@
     </group>
   </macro>
   <macro name="title-ZHtoEN">
-    <group delimiter=", ">
-      <group delimiter=": ">
-        <choose>
-          <if type="article-journal article-magazine article-newspaper paper-conference report thesis" match="any">
-            <text variable="original-title"/>
-          </if>
-          <else>
-            <text variable="original-title" text-case="title"/>
-          </else>
-        </choose>
-        <group delimiter="&#8195;">
-          <choose>
-            <if variable="original-container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume"/>
-              <text variable="volume-title"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="article article-journal report" match="none">
-              <!-- 预印本和期刊文章的编号用于其他位置 -->
-              <text variable="number"/>
-            </if>
-          </choose>
-          <choose>
-            <if type="collection manuscript personal_communication" match="any">
-              <!-- 档案的卷宗号 -->
-              <text variable="archive_location"/>
-            </if>
-          </choose>
-        </group>
-      </group>
+    <group delimiter=": ">
       <choose>
-        <if variable="original-container-title" type="paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
+        <if type="article-journal article-magazine article-newspaper paper-conference report thesis" match="any">
+          <text variable="original-title"/>
         </if>
+        <else>
+          <text variable="original-title" text-case="title"/>
+        </else>
       </choose>
+      <group delimiter="&#8195;">
+        <choose>
+          <if variable="original-container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+            <text macro="volume"/>
+            <text variable="volume-title"/>
+          </if>
+        </choose>
+        <choose>
+          <if type="article article-journal report" match="none">
+            <!-- 预印本和期刊文章的编号用于其他位置 -->
+            <text variable="number"/>
+          </if>
+        </choose>
+        <choose>
+          <if type="collection manuscript personal_communication" match="any">
+            <!-- 档案的卷宗号 -->
+            <text variable="archive_location"/>
+          </if>
+        </choose>
+      </group>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>

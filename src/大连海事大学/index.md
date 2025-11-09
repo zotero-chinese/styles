@@ -47,7 +47,7 @@
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">韩吉人. 论职工教育的特点[C]//中国职工教育研究会. 职工教育研究论文集. 北京: 人民教育出版社, 1985: 90-99.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23–25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Martin G. Control of electronic resources in Australia[M]//Pattie L Y W, Cox B J. Electronic resources: selection and bibliographic control. New York: The Haworth Press, 1996.</div>
@@ -1269,7 +1269,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. Ethical principles of psychologists and code of conduct[R]. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood: 5R01HD081252-04[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/[2020].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>

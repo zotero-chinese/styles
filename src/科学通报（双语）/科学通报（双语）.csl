@@ -24,11 +24,6 @@
     </terms>
   </locale>
   <locale xml:lang="zh">
-    <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-    </date>
     <terms>
       <term name="edition" form="short">版</term>
       <term name="en-et-al">et al.</term>
@@ -121,16 +116,6 @@
         </group>
       </group>
       <choose>
-        <if variable="container-title" type="paper-conference" match="none">
-          <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
-            </if>
-          </choose>
-        </if>
-      </choose>
-      <choose>
         <if type="report" variable="version">
           <label variable="version" text-case="capitalize-first" suffix=" "/>
           <number variable="version"/>
@@ -180,16 +165,6 @@
             </group>
           </group>
         </group>
-        <choose>
-          <if variable="original-container-title" type="paper-conference" match="none">
-            <choose>
-              <if variable="event-date">
-                <text variable="event-place"/>
-                <date variable="event-date" form="text"/>
-              </if>
-            </choose>
-          </if>
-        </choose>
         <choose>
           <if type="report" variable="version">
             <label variable="version" text-case="capitalize-first" suffix=" "/>
@@ -274,13 +249,6 @@
                 <text variable="container-title" text-case="title"/>
                 <text macro="volume"/>
               </group>
-              <!-- 会议时间和会议地点 -->
-              <choose>
-                <if type="paper-conference" variable="event-date" match="all">
-                  <date variable="event-date" form="text"/>
-                  <text variable="event-place"/>
-                </if>
-              </choose>
             </group>
           </group>
         </group>
@@ -302,13 +270,6 @@
                 <text variable="original-container-title" text-case="title"/>
                 <text macro="volume"/>
               </group>
-              <!-- 会议时间和会议地点 -->
-              <choose>
-                <if type="paper-conference" variable="event-date" match="all">
-                  <date variable="event-date" form="text"/>
-                  <text variable="event-place"/>
-                </if>
-              </choose>
             </group>
           </group>
         </group>

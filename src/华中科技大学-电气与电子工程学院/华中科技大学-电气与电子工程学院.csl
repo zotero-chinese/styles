@@ -104,54 +104,42 @@
   </macro>
   <!-- 题名 -->
   <macro name="title-en">
-    <group delimiter=", ">
-      <group delimiter=" ">
-        <choose>
-          <if type="standard">
-            <text variable="number"/>
-          </if>
-        </choose>
-        <group delimiter=": ">
-          <text variable="title"/>
-          <group delimiter="&#8195;">
+    <group delimiter=" ">
+      <choose>
+        <if type="standard">
+          <text variable="number"/>
+        </if>
+      </choose>
+      <group delimiter=": ">
+        <text variable="title"/>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+              <text macro="volume"/>
+              <text variable="volume-title"/>
+            </if>
+          </choose>
+          <group delimiter=", ">
             <choose>
-              <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-                <text macro="volume"/>
-                <text variable="volume-title"/>
+              <if type="patent">
+                <text macro="patent-country"/>
               </if>
             </choose>
-            <group delimiter=", ">
-              <choose>
-                <if type="patent">
-                  <text macro="patent-country"/>
-                </if>
-              </choose>
-              <choose>
-                <if type="article article-journal standard" match="none">
-                  <!-- 预印本和期刊文章的编号用于其他位置 -->
-                  <text variable="number"/>
-                </if>
-              </choose>
-            </group>
             <choose>
-              <if type="collection manuscript personal_communication" match="any">
-                <!-- 档案的卷宗号 -->
-                <text variable="archive_location"/>
+              <if type="article article-journal standard" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
+                <text variable="number"/>
               </if>
             </choose>
           </group>
-        </group>
-      </group>
-      <choose>
-        <if variable="container-title" type="paper-conference" match="none">
           <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
-        </if>
-      </choose>
+        </group>
+      </group>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>
@@ -159,54 +147,42 @@
     </group>
   </macro>
   <macro name="title-zh">
-    <group delimiter="，">
-      <group delimiter=" ">
-        <choose>
-          <if type="standard">
-            <text variable="number"/>
-          </if>
-        </choose>
-        <group delimiter="：">
-          <text variable="title"/>
-          <group delimiter="&#8195;">
+    <group delimiter=" ">
+      <choose>
+        <if type="standard">
+          <text variable="number"/>
+        </if>
+      </choose>
+      <group delimiter="：">
+        <text variable="title"/>
+        <group delimiter="&#8195;">
+          <choose>
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+              <text macro="volume"/>
+              <text variable="volume-title"/>
+            </if>
+          </choose>
+          <group delimiter="，">
             <choose>
-              <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-                <text macro="volume"/>
-                <text variable="volume-title"/>
+              <if type="patent">
+                <text macro="patent-country"/>
               </if>
             </choose>
-            <group delimiter="，">
-              <choose>
-                <if type="patent">
-                  <text macro="patent-country"/>
-                </if>
-              </choose>
-              <choose>
-                <if type="article article-journal standard" match="none">
-                  <!-- 预印本和期刊文章的编号用于其他位置 -->
-                  <text variable="number"/>
-                </if>
-              </choose>
-            </group>
             <choose>
-              <if type="collection manuscript personal_communication" match="any">
-                <!-- 档案的卷宗号 -->
-                <text variable="archive_location"/>
+              <if type="article article-journal standard" match="none">
+                <!-- 预印本和期刊文章的编号用于其他位置 -->
+                <text variable="number"/>
               </if>
             </choose>
           </group>
-        </group>
-      </group>
-      <choose>
-        <if variable="container-title" type="paper-conference" match="none">
           <choose>
-            <if variable="event-date">
-              <text variable="event-place"/>
-              <date variable="event-date" form="text"/>
+            <if type="collection manuscript personal_communication" match="any">
+              <!-- 档案的卷宗号 -->
+              <text variable="archive_location"/>
             </if>
           </choose>
-        </if>
-      </choose>
+        </group>
+      </group>
     </group>
     <choose>
       <if type="patent">
@@ -363,55 +339,37 @@
   <macro name="container-booklike-en">
     <group delimiter=". ">
       <text macro="container-contributors-en"/>
-      <group delimiter=", ">
-        <choose>
-          <if variable="container-title">
-            <!-- 优先使用专著或会议论文集的题名 -->
-            <group delimiter=": ">
-              <text variable="container-title"/>
-              <text macro="volume"/>
-            </group>
-          </if>
-          <else-if type="paper-conference">
-            <!-- 有些会议没有论文集，使用会议名代替 -->
-            <text variable="event-title"/>
-          </else-if>
-        </choose>
-        <!-- 会议时间和会议地点 -->
-        <choose>
-          <if type="paper-conference" variable="event-date" match="all">
-            <date variable="event-date" form="text"/>
-            <text variable="event-place"/>
-          </if>
-        </choose>
-      </group>
+      <choose>
+        <if variable="container-title">
+          <!-- 优先使用专著或会议论文集的题名 -->
+          <group delimiter=": ">
+            <text variable="container-title"/>
+            <text macro="volume"/>
+          </group>
+        </if>
+        <else-if type="paper-conference">
+          <!-- 有些会议没有论文集，使用会议名代替 -->
+          <text variable="event-title"/>
+        </else-if>
+      </choose>
     </group>
   </macro>
   <macro name="container-booklike-zh">
     <group delimiter="．">
       <text macro="container-contributors-zh"/>
-      <group delimiter="，">
-        <choose>
-          <if variable="container-title">
-            <!-- 优先使用专著或会议论文集的题名 -->
-            <group delimiter="：">
-              <text variable="container-title"/>
-              <text macro="volume"/>
-            </group>
-          </if>
-          <else-if type="paper-conference">
-            <!-- 有些会议没有论文集，使用会议名代替 -->
-            <text variable="event-title"/>
-          </else-if>
-        </choose>
-        <!-- 会议时间和会议地点 -->
-        <choose>
-          <if type="paper-conference" variable="event-date" match="all">
-            <date variable="event-date" form="text"/>
-            <text variable="event-place"/>
-          </if>
-        </choose>
-      </group>
+      <choose>
+        <if variable="container-title">
+          <!-- 优先使用专著或会议论文集的题名 -->
+          <group delimiter="：">
+            <text variable="container-title"/>
+            <text macro="volume"/>
+          </group>
+        </if>
+        <else-if type="paper-conference">
+          <!-- 有些会议没有论文集，使用会议名代替 -->
+          <text variable="event-title"/>
+        </else-if>
+      </choose>
     </group>
   </macro>
   <!-- 连续出版物中的出处项 -->

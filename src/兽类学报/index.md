@@ -308,7 +308,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anon. StPO.</div>
   <div class="csl-entry">Anon. GG.</div>
   <div class="csl-entry">Anon. Strauß-Karikatur, Kunstfreiheit. in: BVerfGE: Vol. 75. 369.</div>
-  <div class="csl-entry">Canaris C W. 1990. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen. in.</div>
+  <div class="csl-entry">Canaris C W. 1990. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen.</div>
   <div class="csl-entry">Dreier R, Paulson S. 2003. <i>Rechtsphilosophie Studienausgabe</i>. 2nd ed. Heidelberg: UTB Uni-Taschenbücher Verlag.</div>
   <div class="csl-entry">Fischer T. 2015. Absurdes Spektakel um den Tod. <i>Die Zeit</i>, 2015-09-29.</div>
   <div class="csl-entry">Kaufmann A. 1972. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. in: Baumann J. Das Abtreibungsverbot des § 218 StGB. 2nd ed.</div>

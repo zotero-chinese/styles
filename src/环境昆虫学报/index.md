@@ -339,7 +339,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. <i>La Licorne</i>, 1997(43): 75-94.</div>
   <div class="csl-entry">Barbara Ward. Progress for a small planet[J]. <i>Harvard Business Review</i>, 1979(Sep.-Oct.): 89.</div>
   <div class="csl-entry">Brandeis LD. What publicity can do[J]. <i>Harper’s Weekly</i>, 1913: 10.</div>
-  <div class="csl-entry">Canaris CW. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. In. 1990.</div>
+  <div class="csl-entry">Canaris CW. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
   <div class="csl-entry">Chevallier M. L’État de droit[M]. 4th ed. Paris: Montchrestien, 2003.</div>
   <div class="csl-entry">Fischer T. Absurdes Spektakel um den Tod[N]. <i>Die Zeit</i>, 2015-09-29.</div>
   <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans. MIT Press, 1996.</div>

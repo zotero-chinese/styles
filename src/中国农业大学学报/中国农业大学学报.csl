@@ -18,11 +18,6 @@
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
-    <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
-      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
-    </date>
     <terms>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
@@ -349,37 +344,11 @@
   <macro name="container-booklike-en">
     <group delimiter=". ">
       <text macro="container-contributors-en"/>
-      <group delimiter=", ">
-        <choose>
-          <if variable="container-title">
-            <!-- 优先使用专著或会议论文集的题名 -->
-            <group delimiter=": " font-style="italic">
-              <text variable="container-title"/>
-              <text macro="volume"/>
-            </group>
-          </if>
-          <else-if type="paper-conference">
-            <!-- 有些会议没有论文集，使用会议名代替 -->
-            <text variable="event-title"/>
-          </else-if>
-        </choose>
-        <!-- 会议时间和会议地点 -->
-        <choose>
-          <if type="paper-conference" variable="event-date" match="all">
-            <date variable="event-date" form="text"/>
-            <text variable="event-place"/>
-          </if>
-        </choose>
-      </group>
-    </group>
-  </macro>
-  <macro name="container-booklike-ZHtoEN">
-    <group delimiter=", ">
       <choose>
-        <if variable="original-container-title">
+        <if variable="container-title">
           <!-- 优先使用专著或会议论文集的题名 -->
           <group delimiter=": " font-style="italic">
-            <text variable="original-container-title"/>
+            <text variable="container-title"/>
             <text macro="volume"/>
           </group>
         </if>
@@ -388,40 +357,39 @@
           <text variable="event-title"/>
         </else-if>
       </choose>
-      <!-- 会议时间和会议地点 -->
-      <choose>
-        <if type="paper-conference" variable="event-date" match="all">
-          <date variable="event-date" form="text"/>
-          <text variable="event-place"/>
-        </if>
-      </choose>
     </group>
+  </macro>
+  <macro name="container-booklike-ZHtoEN">
+    <choose>
+      <if variable="original-container-title">
+        <!-- 优先使用专著或会议论文集的题名 -->
+        <group delimiter=": " font-style="italic">
+          <text variable="original-container-title"/>
+          <text macro="volume"/>
+        </group>
+      </if>
+      <else-if type="paper-conference">
+        <!-- 有些会议没有论文集，使用会议名代替 -->
+        <text variable="event-title"/>
+      </else-if>
+    </choose>
   </macro>
   <macro name="container-booklike-zh">
     <group delimiter=". ">
       <text macro="container-contributors-zh"/>
-      <group delimiter=", ">
-        <choose>
-          <if variable="container-title">
-            <!-- 优先使用专著或会议论文集的题名 -->
-            <group delimiter=": ">
-              <text variable="container-title"/>
-              <text macro="volume"/>
-            </group>
-          </if>
-          <else-if type="paper-conference">
-            <!-- 有些会议没有论文集，使用会议名代替 -->
-            <text variable="event-title"/>
-          </else-if>
-        </choose>
-        <!-- 会议时间和会议地点 -->
-        <choose>
-          <if type="paper-conference" variable="event-date" match="all">
-            <date variable="event-date" form="text"/>
-            <text variable="event-place"/>
-          </if>
-        </choose>
-      </group>
+      <choose>
+        <if variable="container-title">
+          <!-- 优先使用专著或会议论文集的题名 -->
+          <group delimiter=": ">
+            <text variable="container-title"/>
+            <text macro="volume"/>
+          </group>
+        </if>
+        <else-if type="paper-conference">
+          <!-- 有些会议没有论文集，使用会议名代替 -->
+          <text variable="event-title"/>
+        </else-if>
+      </choose>
     </group>
   </macro>
   <!-- 连续出版物中的出处项 -->

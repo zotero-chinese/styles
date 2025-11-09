@@ -1200,7 +1200,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. Ethical principles of psychologists and code of conduct[R]. 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair C B. Stress, self-regulation and psychopathology in middle childhood[R]. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/[2020].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
