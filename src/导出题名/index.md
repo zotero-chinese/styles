@@ -129,7 +129,7 @@ Social norms and social rolesWhy the West rules—for now: the patterns of histo
   <div class="csl-entry">中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集</div>
   <div class="csl-entry">Proceedings of the Second International Conference on Soft Computing for Problem Solving</div>
   <div class="csl-entry">国防白皮书：中国武装力量的多样化运用</div>
-  <div class="csl-entry">人体安全重要技术标准研制最终报告: 7178999X～2006BAK04A10/10.2013</div>
+  <div class="csl-entry">人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013</div>
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing material: PB 91-194001</div>
   <div class="csl-entry">Factors regulating the immune response: Report of WHO Scientific Group</div>

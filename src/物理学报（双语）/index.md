@@ -336,7 +336,7 @@
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">2013 (in Chinese) [中华人民共和国国务院新闻办公室 2013 国防白皮书：中国武装力量的多样化运用 No.]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">2013 Nos. 7178999X—2006BAK04A10/10.2013 (in Chinese) [汤万金, 杨跃翔, 刘文, others 2013 人体安全重要技术标准研制最终报告 Nos. 7178999X—2006BAK04A10/10.2013]</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">2013 No. 7178999X-2006BAK04A10/10.2013 (in Chinese) [汤万金, 杨跃翔, 刘文, others 2013 人体安全重要技术标准研制最终报告 No. 7178999X-2006BAK04A10/10.2013]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Calkin D, Ager A, Thompson M 2011 <i>A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report</i> No. RMRS-GTR-262 pp8–9</div>

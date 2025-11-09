@@ -324,7 +324,7 @@
     <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室, “国防白皮书：中国武装力量的多样化运用,” Apr. 2013. Accessed: June 11, 2014. [Online]. Available: <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, and others, “人体安全重要技术标准研制最终报告,” 7178999X–2006BAK04A10/10.2013, Sept. 2013. Accessed: June 24, 2014. [Online]. Available: <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, and others, “人体安全重要技术标准研制最终报告,” 7178999X-2006BAK04A10/10.2013, Sept. 2013. Accessed: June 24, 2014. [Online]. Available: <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">D. Calkin, A. Ager, and M. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report,” RMRS-GTR-262, 2011.</div>

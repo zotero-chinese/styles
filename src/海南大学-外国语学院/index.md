@@ -112,7 +112,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[全国信息与文献标准化技术委员会]. (2010a). 文献著录：第 4 部分 非书资料 (No. GB/T 3792.4—2009; 页 3). 中国标准出版社.</div>
   <div class="csl-entry">[全国信息与文献标准化技术委员会]. (2010b). 信息与文献 都柏林核心元数据元素集 (No. GB/T 25100—2010; 页 2-3). 中国标准出版社.</div>
   <div class="csl-entry">(1977). 宋史卷三：本纪第三: 卷 第 1 册. 载 <i>宋史: 卷 第 1 册</i> (页 49). 中华书局.</div>
-  <div class="csl-entry">[汤万金、杨跃翔、刘文、others]. (2013). 人体安全重要技术标准研制最终报告 (Nos. 7178999X-2006BAK04A10/10.2013). <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
+  <div class="csl-entry">[汤万金、杨跃翔、刘文、others]. (2013). 人体安全重要技术标准研制最终报告 (No. 7178999X-2006BAK04A10/10.2013). <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a></div>
   <div class="csl-entry">[同济大学土木工程防灾国家重点实验室]. (2011). 汶川地震灾害研究 (页 5-6). 同济大学出版社. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a></div>
   <div class="csl-entry">[汪昂]. (1881). 增订本草备要: 卷 四卷 (刻本). 老二酉堂.</div>
   <div class="csl-entry">[汪冰]. (1997). 电子图书馆理论与实践研究 (页 16). 北京图书馆出版社.</div>
