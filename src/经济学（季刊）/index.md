@@ -27,7 +27,7 @@ Black<br>
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">吉登斯，《现代性的后果》。译林出版社，2000年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">王美今、张松，“中国新股弱势问题研究”，《经济研究》，2000年第9期，第49～56页。</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">王美今、张松，“中国新股弱势问题研究”，《经济研究》，2000年第9期，第49－56页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Ahmad, E., and Y. Wang, “Inequality and Poverty in China: Institutional Change and Public Policy, 1978 to 1988”, The World Bank Economic Review, 1991, 5(2), 231-257.</div>
@@ -146,19 +146,19 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">雷光春，《综合湿地管理：综合湿地管理国际研讨会论文集》。北京：海洋出版社，2012年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">李炳穆，“韩国图书馆法”，《图书情报工作》，2008年a年第6期，第6～12页。</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">李炳穆，“韩国图书馆法”，《图书情报工作》，2008年a年第6期，第6－12页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">李炳穆，“韩国图书馆法”，《图书情报工作》，2008年b年第6期，第6～21页。</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">李炳穆，“韩国图书馆法”，《图书情报工作》，2008年b年第6期，第6－21页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">李强，《化解医患矛盾需釜底抽薪》。2012年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">李幼平、王莉，“循证医学研究方法：附视频”，《中华移植杂志（电子版）》，2010年第3期，第225～228页。</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">李幼平、王莉，“循证医学研究方法：附视频”，《中华移植杂志（电子版）》，2010年第3期，第225－228页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">刘彻东，“中国的青年刊物：个性特色为本仁”，《中国出版》，1998年第5期，第38～39页。</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">刘彻东，“中国的青年刊物：个性特色为本仁”，《中国出版》，1998年第5期，第38－39页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[29]</div><div class="csl-right-inline">刘乃安，《生物质材料热解失重动力学及其分析方法研究》。合肥：中国科学技术大学，2000年。</div>
@@ -233,7 +233,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">吴云芳，《面向中文信息处理的现代汉语并列结构研究》。北京：北京大学，2003年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏，“‘北斗一号’监控管理网设计与实现”，《测绘科学》，2008年第5期，第8～9页。</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">武丽丽、华一新、张亚军、刘英敏，“‘北斗一号’监控管理网设计与实现”，《测绘科学》，2008年第5期，第8－9页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">西安电子科技大学，《光折变自适应光外差探测方法》。中国，2002年。</div>
@@ -248,13 +248,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">杨保军，《新闻道德论》。北京：中国人民大学出版社，2012年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">杨洪升，“四库馆私家抄校书考略”，《文献》，2013年第1期，第56～75页。</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">杨洪升，“四库馆私家抄校书考略”，《文献》，2013年第1期，第56－75页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">杨宗英，“电子图书馆的现实模型”，《中国图书馆学报》，1996年第2期，第24～29页。</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">杨宗英，“电子图书馆的现实模型”，《中国图书馆学报》，1996年第2期，第24－29页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">于潇、刘义、柴跃廷、孙宏波，“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报（自然科学版）》，2012年第11期，第1518～1523页。</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">于潇、刘义、柴跃廷、孙宏波，“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报（自然科学版）》，2012年第11期，第1518－1523页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">余建斌，“我们的科技一直在追赶：访中国工程院院长周济”，《人民日报》，2013年，第2页。</div>
@@ -485,10 +485,10 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">余林，《汉语语言产生中的语音表征与加工》。北京师范大学，2000年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">张三，“中国心理学的过去与未来”，《心理学报》，2008年a年第40卷，第210～215页。</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">张三，“中国心理学的过去与未来”，《心理学报》，2008年a年第40卷，第210－215页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">张三，“中国心理学的过去与未来”，《心理学报》，2008年b年增刊，第210～215页。</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">张三，“中国心理学的过去与未来”，《心理学报》，2008年b年增刊，第210－215页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">张三，《心理学史》。北京：未名出版社，2008年c年。</div>
@@ -497,19 +497,19 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">张三，《心理学史》。北京：未名出版社，2008年d年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">张三、李四，“中国心理学的过去与未来”，《心理学报》，2008年a年第40卷，第210～215页。</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">张三、李四，“中国心理学的过去与未来”，《心理学报》，2008年a年第40卷，第210－215页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张三、李四，“中国心理学与奥林匹克”，《新华日报》，2008年b年，第2, 5～7页。</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张三、李四，“中国心理学与奥林匹克”，《新华日报》，2008年b年，第2, 5－7页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[12]</div><div class="csl-right-inline">张三、李四，“中国心理学的过去与未来”，《心理学报》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">赵一、钱二、孙三、李四、周五、吴六、郑七，“中国心理学的过去与未来”，《心理学报》，2008年第40卷，第210～215页。</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">赵一、钱二、孙三、李四、周五、吴六、郑七，“中国心理学的过去与未来”，《心理学报》，2008年第40卷，第210－215页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">赵一一、钱二、孙三、李四、周五、吴六、郑七、王八，“中国心理学的过去与未来”，《心理学报》，2008年第40卷，第210～215页。</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">赵一一、钱二、孙三、李四、周五、吴六、郑七、王八，“中国心理学的过去与未来”，《心理学报》，2008年第40卷，第210－215页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">佚名，《现代汉语频率词典》。北京：北京语言学院出版社，1986年。</div>
@@ -587,19 +587,19 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">方明东，《罗隆基政治思想研究（1913—1949）》。北京师范大学历史系，2000年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">费成康，“葡萄牙人如何进入澳门问题辨正”，《社会科学》，1999年第9期，第63～67页。</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">费成康，“葡萄牙人如何进入澳门问题辨正”，《社会科学》，1999年第9期，第63－67页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">管志道，《答屠仪部赤水丈书》，载《续问辨牍》。济南：齐鲁书社，1997年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">何龄修，“读顾诚〈南明史〉”，《中国史研究》，1998年第3期，第167～173页。</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">何龄修，“读顾诚〈南明史〉”，《中国史研究》，1998年第3期，第167－173页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">黄仁宇，“为什么称为‘中国大历史’？——中文版自序”，载《中国大历史》。北京：三联书店，1997年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">黄义豪，“评黄龟年四劾秦桧”，《福建论坛》，1997年第3期，第26～27页。</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">黄义豪，“评黄龟年四劾秦桧”，《福建论坛》，1997年第3期，第26－27页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">蒋大兴，《公司法的展开与评判——方法·判例·制度》。北京：法律出版社，2001年。</div>
@@ -623,7 +623,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">毛祥麟，《墨余录》。上海：上海古籍出版社，1985年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">倪素香，“德育学科的比较研究与理论探索”，《武汉大学学报》，2002年第4期，第512～513页。</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">倪素香，“德育学科的比较研究与理论探索”，《武汉大学学报》，2002年第4期，第512－513页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">任东来，“对国际体制和国际制度的理解和翻译”。天津，2000年。</div>
@@ -647,7 +647,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">王明亮，《关于中国学术期刊标准化数据库系统工程的进展》。1998年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英，“论近代西北人口波动的若干主要原因”，《社会科学》，1990年第6期，第68～73, 86页。</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英，“论近代西北人口波动的若干主要原因”，《社会科学》，1990年第6期，第68－73, 86页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">扬之水，《两宋茶诗与茶事》，载《《文学遗产通讯》（网络版试刊）2006年第1期》。</div>
@@ -731,7 +731,7 @@ Qian et al. （2009a）<br>
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">崔国斌，“知识产权法官造法批判”，《中国法学》，2006年第1期，第144～164页。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">崔国斌，“知识产权法官造法批判”，《中国法学》，2006年第1期，第144－164页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">[德]莱纳·沃尔夫，“风险法的风险”，载刘刚主编《风险规制：德国的理论与实践》。法律出版社，2012年。</div>
@@ -758,13 +758,13 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">何海波，“判决书上网”，《法制日报》，2000年，第2页。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">季卫东，“法律程序的意义：对中国法制建设的另一种思考”，《中国社会科学》，1993年第1期，第83～103页。</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">季卫东，“法律程序的意义：对中国法制建设的另一种思考”，《中国社会科学》，1993年第1期，第83－103页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">李松锋，《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》。中国政法大学，2015年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">罗豪才、袁曙宏、李文栋，“现代行政法的理论基础——论行政机关与相对一方的权利义务平衡”，《中国法学》，1993年第1期，第52～59页。</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">罗豪才、袁曙宏、李文栋，“现代行政法的理论基础——论行政机关与相对一方的权利义务平衡”，《中国法学》，1993年第1期，第52－59页。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">[美]富勒，《法律的道德性》。商务印书馆，2005年。</div>

@@ -17,14 +17,9 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>博士学位论文写作规范示例-2（正文部分）.docx</summary>
-    <updated>2025-07-24T23:05:40+08:00</updated>
+    <updated>2025-11-09T19:34:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale xml:lang="en">
-    <terms>
-      <term name="page-range-delimiter">-</term>
-    </terms>
-  </locale>
   <locale xml:lang="zh">
     <date form="text">
       <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
@@ -39,7 +34,6 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">－</term>
     </terms>
   </locale>
   <locale>

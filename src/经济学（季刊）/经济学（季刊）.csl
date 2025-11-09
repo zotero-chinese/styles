@@ -12,13 +12,13 @@
     <category citation-format="author-date"/>
     <category field="social_science"/>
     <summary>1. 样式的默认语言为英文。其他语言的文献需要在 `language` 字段填写对应的语言代码（如 `zh-CN`）；2. CSL 无法实现要求的中英文混排。</summary>
-    <updated>2025-01-18T20:26:04+08:00</updated>
+    <updated>2025-11-09T19:34:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <style-options punctuation-in-quote="false"/>
     <terms>
-      <term name="page-range-delimiter">-</term>
+      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
       <term name="page" form="short">pp.</term>
     </terms>
   </locale>
@@ -36,6 +36,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
+      <term name="page-range-delimiter">&#65293;</term> <!-- 中文页码的连接号使用全角连字符“－”（U+FF0D） -->
       <term name="editor" form="short">主编</term>
     </terms>
   </locale>

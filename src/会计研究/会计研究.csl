@@ -12,7 +12,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="social_science"/>
-    <updated>2025-04-19T15:30:01+08:00</updated>
+    <updated>2025-11-09T19:34:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -31,7 +31,7 @@
   </locale>
   <locale>
     <terms>
-      <term name="page-range-delimiter">～</term>
+      <term name="page-range-delimiter">~</term>
     </terms>
   </locale>
   <macro name="author">

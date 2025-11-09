@@ -22,7 +22,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">贾东琴、柯平（2011）．面向数字素养的高校图书馆数字服务体系研究（会议论文）．北京：中国图书馆学会年会论文集．</div>
   <div class="csl-entry">库恩（2012）．科学革命的结构：第 4 版（金吾伦 &#38; 胡新和，译；2 版）．北京：北京大学出版社．</div>
-  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）．《北斗一号》监控管理网设计与实现．测绘科学，33（5），8-9．</div>
+  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）．“北斗一号”监控管理网设计与实现．测绘科学，33（5），8-9．</div>
   <div class="csl-entry">中国互联网络信息中心（2012）．第 29 次中国互联网络发展状况统计报告．</div>
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
   <div class="csl-entry">Fan, X., &#38; Sommers, C. H. (2013). <i>Food irradiation research and technology</i> (2nd ed., pp. 25-26). Ames, Iowa: Blackwell Publishing.</div>
@@ -72,7 +72,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">陈登原（2000b）．国史旧闻：卷第 1 卷（页 29）．北京：中华书局．</div>
   <div class="csl-entry">陈建军（2010）．从数字地球到智慧地球．国土资源导刊，7（10），93．</div>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、王振刚（1980）．蓟县震旦亚界的研究．载中国地质科学院天津地质矿产研究所主编《中国震旦亚界》（页 56-114）．天津：天津科学技术出版社．</div>
-  <div class="csl-entry">陈志勇主编（2011）．中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集．北京：经济科学出版社．</div>
+  <div class="csl-entry">陈志勇主编（2011）．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集．北京：经济科学出版社．</div>
   <div class="csl-entry">程根伟（1999）．1998 年长江洪水的成因与减灾对策．载许厚泽 &#38; 赵其国主编《长江流域洪涝灾害与科技对策》（页 32-36）．北京：科学出版社．</div>
   <div class="csl-entry">邓一刚（2006）．全智能节电器（专利No.200610171314.3）．中国．</div>
   <div class="csl-entry">丁文详（2000）．数字革命与竞争国际化．中国青年报，15．</div>
@@ -122,7 +122,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">王临惠（2010）．从几组声母的演变看天津方言形成的自然条件和历史背景（会议论文）．北京：汉语方言的地理语言学研究．</div>
   <div class="csl-entry">王临惠、支建刚、王忠一（2010）．天津方言的源流关系刍议．山西师范大学学报（社会科学版），37（4），147．</div>
   <div class="csl-entry">吴云芳（2003）．面向中文信息处理的现代汉语并列结构研究［博士学位论文，北京大学］．</div>
-  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）．《北斗一号》监控管理网设计与实现．测绘科学，33（5），8-9．</div>
+  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）．“北斗一号”监控管理网设计与实现．测绘科学，33（5），8-9．</div>
   <div class="csl-entry">西安电子科技大学（2002）．光折变自适应光外差探测方法（专利No.01128777.2）．中国．</div>
   <div class="csl-entry">萧钰（2001）．出版业信息化迈入快车道．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．2002年4月15日访问．</div>
   <div class="csl-entry">徐光宪、王祥云（2010）．物质结构．北京：科学出版社．</div>
@@ -206,7 +206,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">拉普拉斯, Pierre-Simon（1951）．概率哲学（张三 &#38; 李四，译）．北京：未名出版社．（原著出版于1814）</div>
   <div class="csl-entry">李行健主编（2004）．现代汉语规范辞典（页 255）．北京：外语教学与研究出版社．</div>
   <div class="csl-entry">邱颖文（2009）．遗传与语言学习［博士学位论文］．华东师范大学．</div>
-  <div class="csl-entry">王登峰、崔红（2004）．中国人《大七》人格结构的理论分析．载王登峰 &#38; 侯玉波主编《人格与社会心理学论丛》（卷1，页 46-84）．北京：北京大学出版社．</div>
+  <div class="csl-entry">王登峰、崔红（2004）．中国人“大七”人格结构的理论分析．载王登峰 &#38; 侯玉波主编《人格与社会心理学论丛》（卷1，页 46-84）．北京：北京大学出版社．</div>
   <div class="csl-entry">现代汉语频率词典（1986）．北京：北京语言学院出版社．</div>
   <div class="csl-entry">余林（2000）．汉语语言产生中的语音表征与加工［博士学位论文］．北京师范大学．</div>
   <div class="csl-entry">张三（2008a）．心理学史．北京：未名出版社．</div>
@@ -255,7 +255,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">管志道（1997）．答屠仪部赤水丈书．载《续问辨牍》（影印本，卷2）．济南：齐鲁书社．</div>
   <div class="csl-entry">广东通志（1992）．载《稀见中国地方志汇刊：卷15．郡县志二·广州府·城池》（影印本）．北京：中国书店．（原著出版于万历）</div>
   <div class="csl-entry">何龄修（1998）．读顾诚〈南明史〉．中国史研究，3，167-173．</div>
-  <div class="csl-entry">黄仁宇（1997）．为什么称为《中国大历史》？——中文版自序．载《中国大历史》．北京：三联书店．</div>
+  <div class="csl-entry">黄仁宇（1997）．为什么称为“中国大历史”？——中文版自序．载《中国大历史》．北京：三联书店．</div>
   <div class="csl-entry">黄义豪（1997）．评黄龟年四劾秦桧．福建论坛，3，26-27．</div>
   <div class="csl-entry">嘉定县志：卷12．风俗（不详）．（原著出版于乾隆）</div>
   <div class="csl-entry">蒋大兴（2001）．公司法的展开与评判——方法·判例·制度．北京：法律出版社．</div>
@@ -326,7 +326,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">瞿同祖（2010）．中国法律与中国社会．商务印书馆．</div>
   <div class="csl-entry">全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定（1991）．</div>
   <div class="csl-entry">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案，最高人民法院公报___（江苏省无锡市中级人民法院2013）．</div>
-  <div class="csl-entry">汪波（2004）．哈尔滨市政法机关正对《宝马案》认真调查复查．人民网．<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>．2022年5月3日访问．</div>
+  <div class="csl-entry">汪波（2004）．哈尔滨市政法机关正对“宝马案”认真调查复查．人民网．<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>．2022年5月3日访问．</div>
   <div class="csl-entry">王保树（1994）．股份有限公司机关构造中的董事和董事会．载梁慧星主编《民商法论丛》（卷1，页 110）．法律出版社．</div>
   <div class="csl-entry">王名扬（2007）．美国行政法．北京大学出版社．</div>
   <div class="csl-entry">温家宝主持国务院会议 研究房地产业健康发展措施（不详）．新华网．<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>．</div>

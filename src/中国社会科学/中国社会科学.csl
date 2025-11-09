@@ -17,13 +17,12 @@
     <category citation-format="note"/>
     <category field="social_science"/>
     <issn>1002-4921</issn>
-    <updated>2024-12-25T19:01:19+08:00</updated>
+    <updated>2025-11-09T19:34:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
-      <!-- 英文页码的连接号使用 hyphen -->
-      <term name="page-range-delimiter">-</term>
+      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
       <term name="translator" form="short">trans.</term>
     </terms>
   </locale>
@@ -38,8 +37,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <!-- 中文页码的连接号使用一字线（em dash） -->
-      <term name="page-range-delimiter">&#8212;</term>
+      <term name="page-range-delimiter">&#8212;</term> <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="editor" form="short">主编</term>
       <term name="compiler" form="short">整理</term>
     </terms>

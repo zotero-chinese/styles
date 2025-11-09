@@ -13,11 +13,12 @@
     <category field="literature"/>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《文艺争鸣》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2024-03-01T14:57:23+08:00</updated>
+    <updated>2025-11-09T19:34:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
+      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
       <term name="editor" form="short">
         <single>ed.</single>
         <multiple>eds.</multiple>
@@ -40,6 +41,7 @@
   <locale xml:lang="zh">
     <terms>
       <term name="ibid">同上</term>
+      <term name="page-range-delimiter">&#8212;</term> <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="page" form="short"/>
       <term name="anonymous">出版时间不详</term>
     </terms>

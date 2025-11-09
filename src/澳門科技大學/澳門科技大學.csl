@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf</summary>
-    <updated>2024-08-15T09:55:58+08:00</updated>
+    <updated>2025-11-09T19:34:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -96,6 +96,10 @@
       <term name="and">與</term>
       <term name="and others">等人</term>
       <term name="in">載於</term>
+      <term name="open-quote">「</term>
+      <term name="close-quote">」</term>
+      <term name="open-inner-quote">『</term>
+      <term name="close-inner-quote">』</term>
       <term name="editor">主編</term>
       <term name="editor" form="short">主編</term>
       <term name="page">頁</term>

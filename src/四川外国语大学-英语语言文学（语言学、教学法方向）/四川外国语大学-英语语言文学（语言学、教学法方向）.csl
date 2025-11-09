@@ -12,8 +12,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="literature"/>
-    <summary>https://graduate.sisu.edu.cn/docs//2023-11/8d18909e3b9c43bead9b5a1891870340.zip 附件4-5：文中夹注、参考文献格式（英语语言理论与实践、教学法、外应）.docG</summary>
-    <updated>2025-03-07T14:24:34+08:00</updated>
+    <summary>https://graduate.sisu.edu.cn/docs//2023-11/8d18909e3b9c43bead9b5a1891870340.zip 附件4-5：文中夹注、参考文献格式（英语语言理论与实践、教学法、外应）.doc</summary>
+    <updated>2025-11-09T19:34:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -98,10 +98,19 @@
   </locale>
   <locale xml:lang="zh">
     <terms>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- For Indigeneous Knowledge, assume the item is stored as `document` or `speech`

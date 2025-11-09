@@ -17,19 +17,19 @@
     <div class="csl-left-margin">1.</div><div class="csl-right-inline">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和. 第2版 北京: 北京大学出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">Fan X, Sommers C H. Food Irradiation Research and Technology[M]. 2 edn. Ames, Iowa: Blackwell Publishing, 2013: 25–26.</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">Fan X, Sommers C H. Food Irradiation Research and Technology[M]. 2 edn. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011, 2011 年卷: 45–52.</div>
+    <div class="csl-left-margin">3.</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011, 2011 年卷: 45-52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Fourney M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Fourney M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9.</div>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6.</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356–362.</div>
+    <div class="csl-left-margin">6.</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356-362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">7.</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R].2012.</div>
@@ -60,13 +60,13 @@
     <div class="csl-left-margin">1.</div><div class="csl-right-inline">陈登原. 国史旧闻[M]. 北京: 中华书局, 2000, 第 1 卷: 29.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛. 北京: 中国人民大学出版社, 2012: 235–236.</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">3.</div><div class="csl-right-inline">北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. GB/T 25100—2010, 信息与文献 都柏林核心元数据元素集[S] 北京: 中国标准出版社, 2010: 2–3.</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. GB/T 25100—2010, 信息与文献 都柏林核心元数据元素集[S] 北京: 中国标准出版社, 2010: 2-3.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">5.</div><div class="csl-right-inline">徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.</div>
@@ -90,7 +90,7 @@
     <div class="csl-left-margin">11.</div><div class="csl-right-inline">赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">12.</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5–6.</div>
+    <div class="csl-left-margin">12.</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">13.</div><div class="csl-right-inline">中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.</div>
@@ -105,25 +105,25 @@
     <div class="csl-left-margin">16.</div><div class="csl-right-inline">Baldock P. Developing Early Childhood Services: Past, Present and Future[M]. Rotterdam: Open University Press, 2011: 105.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">17.</div><div class="csl-right-inline">Fan X, Sommers C H. Food Irradiation Research and Technology[M]. 2 edn. Ames, Iowa: Blackwell Publishing, 2013: 25–26.</div>
+    <div class="csl-left-margin">17.</div><div class="csl-right-inline">Fan X, Sommers C H. Food Irradiation Research and Technology[M]. 2 edn. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">18.</div><div class="csl-right-inline">周易外传：卷 5[G]// 王夫之. 船山全书. 长沙: 岳麓书社, 2011, 第 6 册: 1109.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">19.</div><div class="csl-right-inline">程根伟. 1998 年长江洪水的成因与减灾对策[G]// 许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32–36.</div>
+    <div class="csl-left-margin">19.</div><div class="csl-right-inline">程根伟. 1998 年长江洪水的成因与减灾对策[G]// 许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">20.</div><div class="csl-right-inline">陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究[G]// 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114.</div>
+    <div class="csl-left-margin">20.</div><div class="csl-right-inline">陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究[G]// 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">21.</div><div class="csl-right-inline">马克思. 政治经济学批判[G]// 马克思, 恩格斯. 马克思恩格斯全集. 北京: 人民出版社, 2013, 第 35 卷: 302.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">22.</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011, 2011 年卷: 45–52.</div>
+    <div class="csl-left-margin">22.</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会. 中国图书馆学会年会论文集[C]. 北京: 国家图书馆出版社, 2011, 2011 年卷: 45-52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">23.</div><div class="csl-right-inline">Weinstein L, Swartz M N. Pathogenic Properties of Invading Microorganisms[G]// Sodeman W. A. Jr., Sodeman W. A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457–472.</div>
+    <div class="csl-left-margin">23.</div><div class="csl-right-inline">Weinstein L, Swartz M N. Pathogenic Properties of Invading Microorganisms[G]// Sodeman W. A. Jr., Sodeman W. A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">24.</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking Water Standards, Regulations, and Goals[G]// American Water Works Association. 6 edn.Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
@@ -132,7 +132,7 @@
     <div class="csl-left-margin">25.</div><div class="csl-right-inline">中华医学会湖北分会. 临床内科杂志[J]. 武汉: 中华医学会湖北分会, 1984, 1(1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">26.</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 北京: 北京图书馆, 1957(1～4).</div>
+    <div class="csl-left-margin">26.</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 北京: 北京图书馆, 1957(1-4).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">27.</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. Washington, D.C.: American Association for the Advancement of Science, 1883, 1(1).</div>
@@ -144,25 +144,25 @@
     <div class="csl-left-margin">29.</div><div class="csl-right-inline">余建斌. 我们的科技一直在追赶：访中国工程院院长周济[J]. 人民日报, 2013: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">30.</div><div class="csl-right-inline">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6–12.</div>
+    <div class="csl-left-margin">30.</div><div class="csl-right-inline">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">31.</div><div class="csl-right-inline">李幼平, 王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225–228.</div>
+    <div class="csl-left-margin">31.</div><div class="csl-right-inline">李幼平, 王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225-228.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">32.</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8–9.</div>
+    <div class="csl-left-margin">32.</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">33.</div><div class="csl-right-inline">Kanamori H. Shaking without Quaking[J]. Science, 1998, 279(5359): 2063.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">34.</div><div class="csl-right-inline">Caplan P. Cataloging Internet Resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61–66.</div>
+    <div class="csl-left-margin">34.</div><div class="csl-right-inline">Caplan P. Cataloging Internet Resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">35.</div><div class="csl-right-inline">Frese K S, Katus H A, Meder B. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J]. Biology, 2013, 2(1): 378–398.</div>
+    <div class="csl-left-margin">35.</div><div class="csl-right-inline">Frese K S, Katus H A, Meder B. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J]. Biology, 2013, 2(1): 378-398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">36.</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356–362.</div>
+    <div class="csl-left-margin">36.</div><div class="csl-right-inline">Myburg A A, Grattapaglia D, Tuskan G A, et al. The Genome of Eucalyptus Grandis[J]. Nature, 2014, 510: 356-362.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">37.</div><div class="csl-right-inline">邓一刚. 全智能节电器: 中国, 200610171314.3[P]. 中国: 2006-12-13.</div>
@@ -192,10 +192,10 @@
     <div class="csl-left-margin">45.</div><div class="csl-right-inline">Coffee Drinking and Cancer of the Pancreas[J]. British Medical Journal, 1981, 283(6292): 628.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">46.</div><div class="csl-right-inline">刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17–18.</div>
+    <div class="csl-left-margin">46.</div><div class="csl-right-inline">刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">47.</div><div class="csl-right-inline">A Companion to California History[M]. Deverell W., Igler D. New York: John Wiley &#38; Sons, 2013: 21–22.</div>
+    <div class="csl-left-margin">47.</div><div class="csl-right-inline">A Companion to California History[M]. Deverell W., Igler D. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">48.</div><div class="csl-right-inline">Baker S K, Jackson M E. The Future of Resource Sharing[M]. New York: The Haworth Press, 1995.</div>
@@ -210,10 +210,10 @@
     <div class="csl-left-margin">51.</div><div class="csl-right-inline">汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997: 16.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">52.</div><div class="csl-right-inline">杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24–29.</div>
+    <div class="csl-left-margin">52.</div><div class="csl-right-inline">杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">53.</div><div class="csl-right-inline">Dowler L. The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment[J]. Journal of Library Administration, 1995, 21(1/2): 5–26.</div>
+    <div class="csl-left-margin">53.</div><div class="csl-right-inline">Dowler L. The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment[J]. Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">54.</div><div class="csl-right-inline">Sunstein C R. Social Norms and Social Roles[J]. Columbia Law Review, 1996, 96: 903.</div>
@@ -222,7 +222,7 @@
     <div class="csl-left-margin">55.</div><div class="csl-right-inline">Morris I. Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future[M]. New York: Farrar, Straus and Giroux, 2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">56.</div><div class="csl-right-inline">罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15–16.</div>
+    <div class="csl-left-margin">56.</div><div class="csl-right-inline">罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">57.</div><div class="csl-right-inline">陈登原. 国史旧闻[M]. 北京: 中华书局, 2000, 第 1 卷: 29.</div>
@@ -231,7 +231,7 @@
     <div class="csl-left-margin">58.</div><div class="csl-right-inline">Crane D. Invisible College[M]. Chicago: Univ. of Chicago Press, 1972.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">59.</div><div class="csl-right-inline">Stieg M F. The Information Needs of Historians[J]. College &#38; Research Libraries, 1981, 42(6): 549–560.</div>
+    <div class="csl-left-margin">59.</div><div class="csl-right-inline">Stieg M F. The Information Needs of Historians[J]. College &#38; Research Libraries, 1981, 42(6): 549-560.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">60.</div><div class="csl-right-inline">王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.</div>
@@ -243,19 +243,19 @@
     <div class="csl-left-margin">62.</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England[J]. Sedimentology, 1975, 22: 311.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">63.</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England[J]. Lethaia, 1975, 8(4): 339–360.</div>
+    <div class="csl-left-margin">63.</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England[J]. Lethaia, 1975, 8(4): 339-360.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">64.</div><div class="csl-right-inline">张忠智. 科技书刊的总编（主编）的角色要求[A]. 中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编[C]. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33–34.</div>
+    <div class="csl-left-margin">64.</div><div class="csl-right-inline">张忠智. 科技书刊的总编（主编）的角色要求[A]. 中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编[C]. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">65.</div><div class="csl-right-inline">中国社会科学院语言研究所词典编辑室. 现代汉语词典[M].第修订本版 北京: 商务印书馆, 1996.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">66.</div><div class="csl-right-inline">刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38–39.</div>
+    <div class="csl-left-margin">66.</div><div class="csl-right-inline">刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38-39.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">67.</div><div class="csl-right-inline">裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[A]. 中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选[C]. 北京: 中国科学技术协会学会工作部, 1981: 2–10.</div>
+    <div class="csl-left-margin">67.</div><div class="csl-right-inline">裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[A]. 中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选[C]. 北京: 中国科学技术协会学会工作部, 1981: 2-10.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">68.</div><div class="csl-right-inline">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.</div>
@@ -267,7 +267,7 @@
     <div class="csl-left-margin">70.</div><div class="csl-right-inline">胡承正, 周详, 缪灵. 理论物理概论[M]. 武汉: 武汉大学出版社, 2010, 上: 112.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">71.</div><div class="csl-right-inline">美国妇产科医师学会. 新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞. 北京: 人民卫生出版社, 2010: 38–39.</div>
+    <div class="csl-left-margin">71.</div><div class="csl-right-inline">美国妇产科医师学会. 新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞. 北京: 人民卫生出版社, 2010: 38-39.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">72.</div><div class="csl-right-inline">康熙字典：巳集上：水部[M].第同文书局影印本版 北京: 中华书局, 1962: 50.</div>
@@ -324,10 +324,10 @@
     <div class="csl-left-margin">89.</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R].2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">90.</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告[R].7178999X～2006BAK04A10/10.2013, 2013.</div>
+    <div class="csl-left-margin">90.</div><div class="csl-right-inline">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告[R].7178999X-2006BAK04A10/10.2013, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">91.</div><div class="csl-right-inline">Calkin D, Ager A, Thompson M. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report[R].RMRS-GTR-262, 2011: 8–9.</div>
+    <div class="csl-left-margin">91.</div><div class="csl-right-inline">Calkin D, Ager A, Thompson M. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report[R].RMRS-GTR-262, 2011: 8-9.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">92.</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material[R].PB 91-194001, Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
@@ -360,7 +360,7 @@
     <div class="csl-left-margin">101.</div><div class="csl-right-inline">全国广播电视标准化技术委员会. GY/T 202.2—2007, 广播电视音像资料编目规范：第 2 部分 广播资料[S] 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">102.</div><div class="csl-right-inline">国家环境保护局科技标准司. GB 15616—1995, 土壤环境质量标准[S] 北京: 中国标准出版社, 1996: 2–3.</div>
+    <div class="csl-left-margin">102.</div><div class="csl-right-inline">国家环境保护局科技标准司. GB 15616—1995, 土壤环境质量标准[S] 北京: 中国标准出版社, 1996: 2-3.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">103.</div><div class="csl-right-inline">ISO 15836:2009, Information and Documentation—The Dublin Core Metadata Element Set[S].</div>
@@ -369,52 +369,52 @@
     <div class="csl-left-margin">104.</div><div class="csl-right-inline">卷 39 乞致仕第一[G]//苏魏公文集. 北京: 中华书局, 1988, 下册: 590.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">105.</div><div class="csl-right-inline">白书农. 植物开花研究[G]// 李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146–163.</div>
+    <div class="csl-left-margin">105.</div><div class="csl-right-inline">白书农. 植物开花研究[G]// 李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">106.</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研究进展与安全管理[A]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2002: 22–25.</div>
+    <div class="csl-left-margin">106.</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研究进展与安全管理[A]. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2002: 22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">107.</div><div class="csl-right-inline">国家标准局信息分类编码研究所. GB/T 2659—1986, 世界各国和地区名称代码[S] 全国文献工作标准化委员会. . 文献工作国家标准汇编：3 北京: 中国标准出版社, 1988: 59–92.</div>
+    <div class="csl-left-margin">107.</div><div class="csl-right-inline">国家标准局信息分类编码研究所. GB/T 2659—1986, 世界各国和地区名称代码[S] 全国文献工作标准化委员会. . 文献工作国家标准汇编：3 北京: 中国标准出版社, 1988: 59-92.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">108.</div><div class="csl-right-inline">宋史卷三：本纪第三[G]//宋史. 北京: 中华书局, 1977, 第 1 册: 49.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">109.</div><div class="csl-right-inline">楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[G]// 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012.</div>
+    <div class="csl-left-margin">109.</div><div class="csl-right-inline">楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[G]// 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">110.</div><div class="csl-right-inline">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus Phenomena in Pyroxenes[G]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
+    <div class="csl-left-margin">110.</div><div class="csl-right-inline">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus Phenomena in Pyroxenes[G]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">111.</div><div class="csl-right-inline">Fourney M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">111.</div><div class="csl-right-inline">Fourney M E. Advances in Holographic Photoelasticity[A]. Symposium on Applications of Holography in Mechanics[C]. New York: ASME, c1971: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">112.</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56–75.</div>
+    <div class="csl-left-margin">112.</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">113.</div><div class="csl-right-inline">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6–21.</div>
+    <div class="csl-left-margin">113.</div><div class="csl-right-inline">李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">114.</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518–1523.</div>
+    <div class="csl-left-margin">114.</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">115.</div><div class="csl-right-inline">陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">116.</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359(6396): 605–609.</div>
+    <div class="csl-left-margin">116.</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, et al. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J]. Nature, 1992, 359(6396): 605-609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">117.</div><div class="csl-right-inline">Saito M, Miyazaki K. Jadeite-Bearing Metagabbro in Serpentinite Mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169–176.</div>
+    <div class="csl-left-margin">117.</div><div class="csl-right-inline">Saito M, Miyazaki K. Jadeite-Bearing Metagabbro in Serpentinite Mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">118.</div><div class="csl-right-inline">Walls S C, Barichivich W J, Brown M E. Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate[J]. Biology, 2013, 2(1): 399–418.</div>
+    <div class="csl-left-margin">118.</div><div class="csl-right-inline">Walls S C, Barichivich W J, Brown M E. Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate[J]. Biology, 2013, 2(1): 399-418.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">119.</div><div class="csl-right-inline">Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity[J]. ACS Chemical Biology, 2013, 8: 1053–1062.</div>
+    <div class="csl-left-margin">119.</div><div class="csl-right-inline">Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity[J]. ACS Chemical Biology, 2013, 8: 1053-1062.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">120.</div><div class="csl-right-inline">Park J R, Tosaka Y. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715.</div>
+    <div class="csl-left-margin">120.</div><div class="csl-right-inline">Park J R, Tosaka Y. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">121.</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化[J]. 中国青年报, 2000: 15.</div>
@@ -450,25 +450,25 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">1.</div><div class="csl-right-inline">张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215Zhang San.</div>
+    <div class="csl-left-margin">1.</div><div class="csl-right-inline">张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215Zhang San.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215Zhang San, Li Si.</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">张三, 李四. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215Zhang San, Li Si.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">Mou W, McNamara T P. Intrinsic Frames of Reference in Spatial Memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, US: American Psychological Association, 2002, 28: 162–170.</div>
+    <div class="csl-left-margin">3.</div><div class="csl-right-inline">Mou W, McNamara T P. Intrinsic Frames of Reference in Spatial Memory[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, US: American Psychological Association, 2002, 28: 162-170.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215Zhao Yi, Qian Er, Sun San, 等.</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">赵一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215Zhao Yi, Qian Er, Sun San, 等.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Mou W, Zhang K, McNamara T P. Frames of Reference in Spatial Memories Acquired from Language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, US: American Psychological Association, 2004, 30: 171–180.</div>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Mou W, Zhang K, McNamara T P. Frames of Reference in Spatial Memories Acquired from Language[J]. Journal of Experimental Psychology: Learning, Memory, and Cognition, US: American Psychological Association, 2004, 30: 171-180.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6.</div><div class="csl-right-inline">赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210–215Zhao Yi Yi, Qian Er, Sun San, 等.</div>
+    <div class="csl-left-margin">6.</div><div class="csl-right-inline">赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215Zhao Yi Yi, Qian Er, Sun San, 等.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Wolchik S A, West S G, Sandler I N, et al. An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843–856.</div>
+    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Wolchik S A, West S G, Sandler I N, et al. An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">8.</div><div class="csl-right-inline">张三, 李四. 中国心理学的过去与未来[J]. 心理学报, Zhang San, Li Si.</div>
@@ -480,7 +480,7 @@
     <div class="csl-left-margin">10.</div><div class="csl-right-inline">Burin D, Kilteni K, Rabuffetti M, et al. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">11.</div><div class="csl-right-inline">张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210–215Zhang San.</div>
+    <div class="csl-left-margin">11.</div><div class="csl-right-inline">张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215Zhang San.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">12.</div><div class="csl-right-inline">张三. 心理学史[M]. 北京: 未名出版社, 2008Zhang San.</div>
@@ -498,16 +498,16 @@
     <div class="csl-left-margin">16.</div><div class="csl-right-inline">拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四. 北京: 未名出版社, 1951Laplace Pierre-Simon.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">17.</div><div class="csl-right-inline">Klatzky R. Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections[G]// Freksa C., Habel C., Wender K. F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1–17.</div>
+    <div class="csl-left-margin">17.</div><div class="csl-right-inline">Klatzky R. Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections[G]// Freksa C., Habel C., Wender K. F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Wang D F, Cui H. Theoretical Analysis of the Seven Factor Model of Chinese Personality[G]// Wang D. F., Hou Y. B. Selected papers on personality and social psychology. Beijing: Peking University Press, 2004, 1: 46–84.</div>
+    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Wang D F, Cui H. Theoretical Analysis of the Seven Factor Model of Chinese Personality[G]// Wang D. F., Hou Y. B. Selected papers on personality and social psychology. Beijing: Peking University Press, 2004, 1: 46-84.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">19.</div><div class="csl-right-inline">王登峰, 崔红. 中国人“大七”人格结构的理论分析[G]// 王登峰, 侯玉波. 人格与社会心理学论丛. 北京: 北京大学出版社, 2004, 1: 46–84Wang Deng Feng, Cui Hong.</div>
+    <div class="csl-left-margin">19.</div><div class="csl-right-inline">王登峰, 崔红. 中国人“大七”人格结构的理论分析[G]// 王登峰, 侯玉波. 人格与社会心理学论丛. 北京: 北京大学出版社, 2004, 1: 46-84Wang Deng Feng, Cui Hong.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">20.</div><div class="csl-right-inline">Auerbach J S. The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation[G]// Bornstein M. F. 4 edn.Handbook of child psychology: Vol. 4. Socialization, personality, and social development. Washington, DC, US: Wiley, 1993: 43–110.</div>
+    <div class="csl-left-margin">20.</div><div class="csl-right-inline">Auerbach J S. The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation[G]// Bornstein M. F. 4 edn.Handbook of child psychology: Vol. 4. Socialization, personality, and social development. Washington, DC, US: Wiley, 1993: 43-110.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">21.</div><div class="csl-right-inline">Lichstein K L, Johnson R S. Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs[A]. Reducing medication in geriatric populations[C]. Uppsala, Sweden: 1990.</div>
@@ -525,7 +525,7 @@
     <div class="csl-left-margin">25.</div><div class="csl-right-inline">Mitchell T R, Larson J R. People in Organizations: An Introduction to Organizational Behavior[M]. 3 edn. New York: McGraw-Hill, 1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">26.</div><div class="csl-right-inline">Bergmann P G. Relativity[J]. The new encyclopedia Britannica, New York: Encyclopedia Britannica, 1993, 26: 501–508.</div>
+    <div class="csl-left-margin">26.</div><div class="csl-right-inline">Bergmann P G. Relativity[J]. The new encyclopedia Britannica, New York: Encyclopedia Britannica, 1993, 26: 501-508.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">27.</div><div class="csl-right-inline">The New Grove Dictionary of Music and Musicians[M]. Sadie S. 6 edn. London : New York: Macmillan, 1980.</div>
@@ -546,7 +546,7 @@
     <div class="csl-left-margin">32.</div><div class="csl-right-inline">邱颖文. 遗传与语言学习[D]. 上海: 华东师范大学, 2009Qiu Ying Wen.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">33.</div><div class="csl-right-inline">张三, 李四. 中国心理学与奥林匹克[J]. 新华日报, 2008: 2, 5–7Zhang San, Li Si.</div>
+    <div class="csl-left-margin">33.</div><div class="csl-right-inline">张三, 李四. 中国心理学与奥林匹克[J]. 新华日报, 2008: 2, 5-7Zhang San, Li Si.</div>
   </div>
 </div>
 
@@ -585,7 +585,7 @@
     <div class="csl-left-margin">9.</div><div class="csl-right-inline">马克思恩格斯全集[M]. 北京: 人民出版社, 1998, 31.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">10.</div><div class="csl-right-inline">杜威·佛克马. 走向新世界主义[G]// 王宁, 薛晓源. 全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247–266.</div>
+    <div class="csl-left-margin">10.</div><div class="csl-right-inline">杜威·佛克马. 走向新世界主义[G]// 王宁, 薛晓源. 全球化与后殖民批评. 北京: 中央编译出版社, 1999: 247-266.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">11.</div><div class="csl-right-inline">鲁迅. 中国小说的历史的变迁[G]//鲁迅全集. 北京: 人民文学出版社, 1981, 第9册.</div>
@@ -636,22 +636,22 @@
     <div class="csl-left-margin">26.</div><div class="csl-right-inline">清德宗实录[J].第影印本版 北京: 中华书局, 1987, 435.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">27.</div><div class="csl-right-inline">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167–173.</div>
+    <div class="csl-left-margin">27.</div><div class="csl-right-inline">何龄修. 读顾诚〈南明史〉[J]. 中国史研究, 1998(3): 167-173.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">28.</div><div class="csl-right-inline">汪疑今. 江苏的小农及其副业[J]. 中国经济, 1936, 4(6).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">29.</div><div class="csl-right-inline">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 兰州: 1990(6): 68–73, 86.</div>
+    <div class="csl-left-margin">29.</div><div class="csl-right-inline">魏丽英. 论近代西北人口波动的若干主要原因[J]. 社会科学, 兰州: 1990(6): 68-73, 86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">30.</div><div class="csl-right-inline">费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学, 1999(9): 63–67.</div>
+    <div class="csl-left-margin">30.</div><div class="csl-right-inline">费成康. 葡萄牙人如何进入澳门问题辨正[J]. 社会科学, 1999(9): 63-67.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">31.</div><div class="csl-right-inline">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3): 26–27.</div>
+    <div class="csl-left-margin">31.</div><div class="csl-right-inline">黄义豪. 评黄龟年四劾秦桧[J]. 福建论坛, 1997(3): 26-27.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">32.</div><div class="csl-right-inline">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512–513.</div>
+    <div class="csl-left-margin">32.</div><div class="csl-right-inline">倪素香. 德育学科的比较研究与理论探索[J]. 武汉大学学报, 2002(4): 512-513.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">33.</div><div class="csl-right-inline">李眉. 李劼人轶事[J]. 四川工人日报, 1986: 2.</div>
@@ -693,10 +693,10 @@
     <div class="csl-left-margin">45.</div><div class="csl-right-inline">Polo M. The Travels of Marco Polo[M]. Marsden William, 译. Hertfordshire: Cumberland House, 1997.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">46.</div><div class="csl-right-inline">Chamberlain H B. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2): 199–215.</div>
+    <div class="csl-left-margin">46.</div><div class="csl-right-inline">Chamberlain H B. On the Search for Civil Society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">47.</div><div class="csl-right-inline">Schfield R S. The Impact of Scarcity and Plenty on Population Change in England[G]// Rotberg R. I., Rabb T. K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55–88.</div>
+    <div class="csl-left-margin">47.</div><div class="csl-right-inline">Schfield R S. The Impact of Scarcity and Plenty on Population Change in England[G]// Rotberg R. I., Rabb T. K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">48.</div><div class="csl-right-inline">Nixon to Kissinger[J].1969.</div>
@@ -723,7 +723,7 @@
     <div class="csl-left-margin">4.</div><div class="csl-right-inline">[美]富勒. 法律的道德性[M]. 郑戈. 商务印书馆, 2005.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1): 83–103.</div>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">季卫东. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学, 1993(1): 83-103.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">6.</div><div class="csl-right-inline">王保树. 股份有限公司机关构造中的董事和董事会[G]// 梁慧星. 民商法论丛. 法律出版社, 1994, 1: 110.</div>
@@ -762,7 +762,7 @@
     <div class="csl-left-margin">17.</div><div class="csl-right-inline">陆红霞诉南通市发改委政府信息公开案[M]. 最高人民法院公报, 2015(11).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Reich C A. The New Property[J]. Yale Law Journal, 1964, 73(5): 733–787.</div>
+    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Reich C A. The New Property[J]. Yale Law Journal, 1964, 73(5): 733-787.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">19.</div><div class="csl-right-inline">Brandeis L D. What Publicity Can Do[J]. Harper’s Weekly, 1913: 10.</div>
@@ -777,7 +777,7 @@
     <div class="csl-left-margin">22.</div><div class="csl-right-inline">R. v. Panel on Take-Overs and Mergers[M]. QB, 1987, 815.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">23.</div><div class="csl-right-inline">罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1): 52–59.</div>
+    <div class="csl-left-margin">23.</div><div class="csl-right-inline">罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1): 52-59.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">24.</div><div class="csl-right-inline">夏新华, 胡旭晟, 刘鄂, 等. 近代中国宪政历程[M].中国政法大学出版社, 2004.</div>
@@ -792,7 +792,7 @@
     <div class="csl-left-margin">27.</div><div class="csl-right-inline">瞿同祖. 中国法律与中国社会[M].商务印书馆, 2010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">28.</div><div class="csl-right-inline">崔国斌. 知识产权法官造法批判[J]. 中国法学, 2006(1): 144–164.</div>
+    <div class="csl-left-margin">28.</div><div class="csl-right-inline">崔国斌. 知识产权法官造法批判[J]. 中国法学, 2006(1): 144-164.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">29.</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国主席令第80号, 中华人民共和国刑法修正案（十）[S].</div>
@@ -846,7 +846,7 @@
     <div class="csl-left-margin">45.</div><div class="csl-right-inline">Horsley J. Rule of Law in China: Incremental Progress[G]// Bergsten C. F., Gill B., Lardy N. R., et al. China: The balance sheet. Public Affairs Press, 2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">46.</div><div class="csl-right-inline">89-670, Department of Transportation Act[S]. Stat. , 80: 931, 944–947.</div>
+    <div class="csl-left-margin">46.</div><div class="csl-right-inline">89-670, Department of Transportation Act[S]. Stat. , 80: 931, 944-947.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">47.</div><div class="csl-right-inline">Administrative Procedure Act § 6[S]. U.S.C. , 5.</div>
@@ -870,16 +870,16 @@
     <div class="csl-left-margin">53.</div><div class="csl-right-inline">Chevallier M. L’État de droit[M]. 4 edn. Paris: Montchrestien, 2003.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">54.</div><div class="csl-right-inline">Poisson M. Le droit de la mer[J]. RGDIP, 2015: 15–47.</div>
+    <div class="csl-left-margin">54.</div><div class="csl-right-inline">Poisson M. Le droit de la mer[J]. RGDIP, 2015: 15-47.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">55.</div><div class="csl-right-inline">Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75–94.</div>
+    <div class="csl-left-margin">55.</div><div class="csl-right-inline">Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75-94.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">56.</div><div class="csl-right-inline">Poisson M. Le droit de la mer[G]// Éditions de la mer edn.Le droit des Océans. 2015: 12–48.</div>
+    <div class="csl-left-margin">56.</div><div class="csl-right-inline">Poisson M. Le droit de la mer[G]// Éditions de la mer edn.Le droit des Océans. 2015: 12-48.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">57.</div><div class="csl-right-inline">Poisson M. Le droit de la mer en Méditerranée[R].Congrès de Marseille, 2016: 228–229.</div>
+    <div class="csl-left-margin">57.</div><div class="csl-right-inline">Poisson M. Le droit de la mer en Méditerranée[R].Congrès de Marseille, 2016: 228-229.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">58.</div><div class="csl-right-inline">Poisson M. Le droit de la mer en Méditerranée[R].1202, 2016.</div>
@@ -891,10 +891,10 @@
     <div class="csl-left-margin">60.</div><div class="csl-right-inline">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[EB/OL]. Histoire &#38; mesure, vol. XXIII, n° 2, 2008, [2010-03-17] . <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">61.</div><div class="csl-right-inline">Vogel B. Rechtsgüterschutz und Normgeltung[J]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629–649.</div>
+    <div class="csl-left-margin">61.</div><div class="csl-right-inline">Vogel B. Rechtsgüterschutz und Normgeltung[J]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629-649.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">62.</div><div class="csl-right-inline">Würdinger M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung, Verlag C.H. Beck, 2012(3): 234–240.</div>
+    <div class="csl-left-margin">62.</div><div class="csl-right-inline">Würdinger M. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J]. Juristische Schulung, Verlag C.H. Beck, 2012(3): 234-240.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">63.</div><div class="csl-right-inline">Fischer T. Absurdes Spektakel um den Tod[J]. Die Zeit, 2015.</div>
@@ -978,22 +978,22 @@
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">1.</div><div class="csl-right-inline">McCauley S M, Christiansen M H. Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development[J]. Psychological Review, 2019, 126(1): 1–51.</div>
+    <div class="csl-left-margin">1.</div><div class="csl-right-inline">McCauley S M, Christiansen M H. Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development[J]. Psychological Review, 2019, 126(1): 1-51.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">Ahmann E, Tuttle L J, Saviet M, et al. A Descriptive Review of ADHD Coaching Research: Implications for College Students[J]. Journal of Postsecondary Education and Disability, 2018, 31(1): 17–39.</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">Ahmann E, Tuttle L J, Saviet M, et al. A Descriptive Review of ADHD Coaching Research: Implications for College Students[J]. Journal of Postsecondary Education and Disability, 2018, 31(1): 17-39.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">Anderson M. Getting Consistent with Consequences[J]. Educational Leadership, 2018, 76(1): 26–33.</div>
+    <div class="csl-left-margin">3.</div><div class="csl-right-inline">Anderson M. Getting Consistent with Consequences[J]. Educational Leadership, 2018, 76(1): 26-33.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">4.</div><div class="csl-right-inline">Goldman C. The Complicated Calibration of Love, Especially in Adoption[J]. Chicago Tribune, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Kalnay E, Kanamitsu M, Kistler R, et al. The NCEP/NCAR 40-Year Reanalysis Project[J]. Bulletin of the American Meteorological Society, 1996, 77(3): 437–471.</div>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Kalnay E, Kanamitsu M, Kistler R, et al. The NCEP/NCAR 40-Year Reanalysis Project[J]. Bulletin of the American Meteorological Society, 1996, 77(3): 437-471.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6.</div><div class="csl-right-inline">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122–1128.</div>
+    <div class="csl-left-margin">6.</div><div class="csl-right-inline">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">7.</div><div class="csl-right-inline">Burin D, Kilteni K, Rabuffetti M, et al. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1).</div>
@@ -1005,19 +1005,19 @@
     <div class="csl-left-margin">9.</div><div class="csl-right-inline">Pachur T, Scheibehenne B. Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach[J]. Psychonomic Bulletin &#38; Review, .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">10.</div><div class="csl-right-inline">Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz J J, et al. Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age[J]. Clínica y Salud, 2018, 28(3): 155–161.</div>
+    <div class="csl-left-margin">10.</div><div class="csl-right-inline">Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz J J, et al. Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age[J]. Clínica y Salud, 2018, 28(3): 155-161.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">11.</div><div class="csl-right-inline">Piaget J. Intellectual Evolution from Adolescence to Adulthood[J]. Bliss J., 译, Furth H., 译. Human Development, 1972, 15(1): 1–12.</div>
+    <div class="csl-left-margin">11.</div><div class="csl-right-inline">Piaget J. Intellectual Evolution from Adolescence to Adulthood[J]. Bliss J., 译, Furth H., 译. Human Development, 1972, 15(1): 1-12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">12.</div><div class="csl-right-inline">Shore M F. Marking Time in the Land of Plenty: Reflections on Mental Health in the United States[J]. American Journal of Orthopsychiatry, 2014, 84(6): 611–618.</div>
+    <div class="csl-left-margin">12.</div><div class="csl-right-inline">Shore M F. Marking Time in the Land of Plenty: Reflections on Mental Health in the United States[J]. American Journal of Orthopsychiatry, 2014, 84(6): 611-618.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">13.</div><div class="csl-right-inline">Marking Time in the Land of Plenty: Reflections on Mental Health in the United States[J]. American Journal of Orthopsychiatry, 1981, 51(3): 391–402.</div>
+    <div class="csl-left-margin">13.</div><div class="csl-right-inline">Marking Time in the Land of Plenty: Reflections on Mental Health in the United States[J]. American Journal of Orthopsychiatry, 1981, 51(3): 391-402.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">14.</div><div class="csl-right-inline">Archives of Scientific Psychology[J]. Lilienfeld S. O. 2018, 6(1): 51–104.</div>
+    <div class="csl-left-margin">14.</div><div class="csl-right-inline">Archives of Scientific Psychology[J]. Lilienfeld S. O. 2018, 6(1): 51-104.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">15.</div><div class="csl-right-inline">American Psychologist[J]. McDaniel S. H., Salas E., Kazak A. E. 2018, 73(4).</div>
@@ -1029,7 +1029,7 @@
     <div class="csl-left-margin">17.</div><div class="csl-right-inline">Morey M C. Physical Activity and Exercise in Older Adults[J]. UpToDate, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Bergeson S. Really Cool Neutral Plasmas[J]. Science, 2019, 363(6422): 33–34.</div>
+    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Bergeson S. Really Cool Neutral Plasmas[J]. Science, 2019, 363(6422): 33-34.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">19.</div><div class="csl-right-inline">Bustillos M. On Video Games and Storytelling: An Interview with Tom Bissell[J]. The New Yorker, 2013.</div>
@@ -1137,37 +1137,37 @@
     <div class="csl-left-margin">53.</div><div class="csl-right-inline">Shakespeare W. Much Ado about Nothing[M]. Mowat B. A., Werstine P. Washington Square Press, 1995.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">54.</div><div class="csl-right-inline">Balsam K F, Martell C R, Jones K P, et al. Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People[G]// Iwamasa G. Y., Hays P. A. 2 edn.Culturally responsive cognitive behavior therapy: Practice and supervision. American Psychological Association, 2019: 287–314.</div>
+    <div class="csl-left-margin">54.</div><div class="csl-right-inline">Balsam K F, Martell C R, Jones K P, et al. Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People[G]// Iwamasa G. Y., Hays P. A. 2 edn.Culturally responsive cognitive behavior therapy: Practice and supervision. American Psychological Association, 2019: 287-314.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">55.</div><div class="csl-right-inline">Weinstock R, Leong G B, Silva J A. Defining Forensic Psychiatry: Roles and Responsibilities[G]// Rosner R. 2 edn.Principles and practise of forensic psychiatry. CRC Press, 2003: 7–13.</div>
+    <div class="csl-left-margin">55.</div><div class="csl-right-inline">Weinstock R, Leong G B, Silva J A. Defining Forensic Psychiatry: Roles and Responsibilities[G]// Rosner R. 2 edn.Principles and practise of forensic psychiatry. CRC Press, 2003: 7-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">56.</div><div class="csl-right-inline">Tafoya N, Del Vecchio A. Back to the Future: An Examination of the Native American Holocaust Experience[G]// McGoldrick M., Giordano J., Garcia-Preto N. 3 edn.Ethnicity and family therapy. Guilford Press, 2005: 55–63.</div>
+    <div class="csl-left-margin">56.</div><div class="csl-right-inline">Tafoya N, Del Vecchio A. Back to the Future: An Examination of the Native American Holocaust Experience[G]// McGoldrick M., Giordano J., Garcia-Preto N. 3 edn.Ethnicity and family therapy. Guilford Press, 2005: 55-63.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">57.</div><div class="csl-right-inline">Carcavilla González N. Auditory Sensory Therapy: Brain Activation through Music[G]// Garcia Meilán J. J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67–86.</div>
+    <div class="csl-left-margin">57.</div><div class="csl-right-inline">Carcavilla González N. Auditory Sensory Therapy: Brain Activation through Music[G]// Garcia Meilán J. J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">58.</div><div class="csl-right-inline">Heidegger M. On the Essence of Truth[G]// Krell D. F.Sallis J., 译. Basic writings. Harper Perennial Modern Thought, 2008: 111–138.</div>
+    <div class="csl-left-margin">58.</div><div class="csl-right-inline">Heidegger M. On the Essence of Truth[G]// Krell D. F.Sallis J., 译. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">59.</div><div class="csl-right-inline">Sacchett C, Humphreys G W. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[G]// Balota D. A., Marsh E. J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100–108.</div>
+    <div class="csl-left-margin">59.</div><div class="csl-right-inline">Sacchett C, Humphreys G W. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[G]// Balota D. A., Marsh E. J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">60.</div><div class="csl-right-inline">Sacchett C, Humphreys G W. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73–86.</div>
+    <div class="csl-left-margin">60.</div><div class="csl-right-inline">Sacchett C, Humphreys G W. Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">61.</div><div class="csl-right-inline">Bronfenbrenner U. The Social Ecology of Human Development: A Retrospective Conclusion[G]// Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27–40.</div>
+    <div class="csl-left-margin">61.</div><div class="csl-right-inline">Bronfenbrenner U. The Social Ecology of Human Development: A Retrospective Conclusion[G]// Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">62.</div><div class="csl-right-inline">Brain and Intelligence: The Ecology of Child Development[M]. Richardson F. National Educational Press, 1973: 113–123.</div>
+    <div class="csl-left-margin">62.</div><div class="csl-right-inline">Brain and Intelligence: The Ecology of Child Development[M]. Richardson F. National Educational Press, 1973: 113-123.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">63.</div><div class="csl-right-inline">Goldin-Meadow S. Gesture and Cognitive Development[G]// Liben L. S., Mueller U. 7 edn.Handbook of child psychology and developmental science. John Wiley &#38; Sons, 2015, 2: 339–380.</div>
+    <div class="csl-left-margin">63.</div><div class="csl-right-inline">Goldin-Meadow S. Gesture and Cognitive Development[G]// Liben L. S., Mueller U. 7 edn.Handbook of child psychology and developmental science. John Wiley &#38; Sons, 2015, 2: 339-380.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">64.</div><div class="csl-right-inline">Lewin K. Group Decision and Social Change[G]// Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265–284.</div>
+    <div class="csl-left-margin">64.</div><div class="csl-right-inline">Lewin K. Group Decision and Social Change[G]// Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">65.</div><div class="csl-right-inline">American Psychological Association. Positive Transference[J]. APA dictionary of psychology, .</div>
@@ -1215,7 +1215,7 @@
     <div class="csl-left-margin">79.</div><div class="csl-right-inline">American Psychological Association. Ethical Principles of Psychologists and Code of Conduct[R].2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">80.</div><div class="csl-right-inline">Blair C B. Stress, Self-Regulation and Psychopathology in Middle Childhood[R].5R01HD081252–04, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–[2020].</div>
+    <div class="csl-left-margin">80.</div><div class="csl-right-inline">Blair C B. Stress, Self-Regulation and Psychopathology in Middle Childhood[R].5R01HD081252-04, Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–[2020].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">81.</div><div class="csl-right-inline">Lichtenstein J. Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses[R].1, U.S. Small Business Administration, Office of Advocacy, 2013.</div>
@@ -1248,7 +1248,7 @@
     <div class="csl-left-margin">90.</div><div class="csl-right-inline">Hutcheson V H. Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents[D].The College of William &#38; Mary, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">91.</div><div class="csl-right-inline">Mirabito L A, Heck N C. Bringing LGBTQ Youth Theater into the Spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499–500.</div>
+    <div class="csl-left-margin">91.</div><div class="csl-right-inline">Mirabito L A, Heck N C. Bringing LGBTQ Youth Theater into the Spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">92.</div><div class="csl-right-inline">The Year We Thought about Love[M].2016.</div>

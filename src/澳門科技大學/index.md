@@ -175,11 +175,11 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">卷 39 乞致仕第一（1988）。載於<b>苏魏公文集：下册</b>（頁 590）。北京：中华书局。</div>
   <div class="csl-entry">国家环境保护局科技标准司（1996）。<b>土壤环境质量标准</b>（No. GB 15616—1995；頁 2-3）。北京：中国标准出版社。</div>
   <div class="csl-entry">国家标准局信息分类编码研究所（1988）。世界各国和地区名称代码。載於全国文献工作标准化委员会（主編），<b>文献工作国家标准汇编：3</b>（No. GB/T 2659—1986；頁 59-92）。北京：中国标准出版社。</div>
-  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）。《北斗一号》监控管理网设计与实现。<b>测绘科学</b>，5，8-9。</div>
+  <div class="csl-entry">武丽丽、华一新、张亚军、刘英敏（2008）。「北斗一号」监控管理网设计与实现。<b>测绘科学</b>，5，8-9。</div>
   <div class="csl-entry">河北绿洲生态环境科技有限公司（2001）。<b>一种荒漠化地区生态植被综合培育种植方法</b>（专利 No. 01129210.5）。中国。</div>
   <div class="csl-entry">罗杰斯（2011）。<b>西方文明史：问题与源头</b>（潘惠霞，魏婧，杨艳，&#38; 汤玲，译；頁 15-16）。大连：东北财经大学出版社。</div>
   <div class="csl-entry">罗斯基（2009）。<b>战前中国经济的增长</b>（唐巧天，毛立坤，&#38; 姜修宪，译）。杭州：浙江大学出版社。</div>
-  <div class="csl-entry">陈志勇（主編）（2011）。<b>中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集</b>。北京：经济科学出版社。</div>
+  <div class="csl-entry">陈志勇（主編）（2011）。<b>中国财税文化价值研究：「中国财税文化国际学术研讨会」论文集</b>。北京：经济科学出版社。</div>
   <div class="csl-entry">陈建军（2010）。从数字地球到智慧地球。<b>国土资源导刊</b>，10，93。</div>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、王振刚（1980）。蓟县震旦亚界的研究。載於中国地质科学院天津地质矿产研究所（主編），<b>中国震旦亚界</b>（頁 56-114）。天津：天津科学技术出版社。</div>
   <div class="csl-entry">陈登原（2000a）。<b>国史旧闻：第 1 卷</b>（頁 29）。北京：中华书局。</div>
@@ -228,7 +228,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Wang, D. F., &#38; Cui, H. (2004). Theoretical analysis of the seven factor model of Chinese personality. In D. F. Wang &#38; Y. B. Hou (Eds.), <i>Selected papers on personality and social psychology</i> (Vol. 1, pp. 46-84). Beijing: Peking University Press.</div>
   <div class="csl-entry">Wolchik, S. A., West, S. G., Sandler, I. N., Tein, J. Y., Coatsworth, D., Lengua, L., Weiss, L., Anderson, E. R., Greene, S. M., &#38; Griffin, W. A. (2000). An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <i>Journal of Consulting and Clinical Psychology</i>, <i>68</i>(5), 843-856.</div>
   <div class="csl-entry">Yu, L. (2000). <i>Phonological representation and processing in Chinese spoken language production</i>. Unpublished doctorial dissertation, Beijing Normal University.</div>
-  <div class="csl-entry">王登峰、崔红（2004）。中国人《大七》人格结构的理论分析。載於王登峰 &#38; 侯玉波（主編），<b>人格与社会心理学论丛</b>（卷 1，頁 46-84）。北京：北京大学出版社。</div>
+  <div class="csl-entry">王登峰、崔红（2004）。中国人「大七」人格结构的理论分析。載於王登峰 &#38; 侯玉波（主編），<b>人格与社会心理学论丛</b>（卷 1，頁 46-84）。北京：北京大学出版社。</div>
   <div class="csl-entry">余林（2000）。<b>汉语语言产生中的语音表征与加工</b>。博士学位论文，北京师范大学。</div>
   <div class="csl-entry">张三（2008a）。中国心理学的过去与未来。<b>心理学报</b>，210-215。</div>
   <div class="csl-entry">张三（2008b）。中国心理学的过去与未来。<b>心理学报</b>，增刊，210-215。</div>
@@ -294,7 +294,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">谢兴尧（编撰）（1986）。<b>荣庆日记</b>。西安：西北大学出版社。</div>
   <div class="csl-entry">鲁迅（1981）。中国小说的历史的变迁。載於<b>鲁迅全集：第9册</b>。北京：人民文学出版社。</div>
   <div class="csl-entry">黄义豪（1997）。评黄龟年四劾秦桧。<b>福建论坛</b>，3，26-27。</div>
-  <div class="csl-entry">黄仁宇（1997）。为什么称为《中国大历史》？——中文版自序。載於<b>中国大历史</b>。北京：三联书店。</div>
+  <div class="csl-entry">黄仁宇（1997）。为什么称为「中国大历史」？——中文版自序。載於<b>中国大历史</b>。北京：三联书店。</div>
   <div class="csl-entry">楼适夷（1998）。读家书，想傅雷（代序）。載於傅敏（主編），<b>傅雷家书</b>（增补本）。北京：三联书店。</div>
   <div class="csl-entry">蒋大兴（2001）。<b>公司法的展开与评判——方法·判例·制度</b>。北京：法律出版社。</div>
   <div class="csl-entry"><b>嘉定县志：卷 12。风俗</b>（不详）。（原著出版于 乾隆）</div>
@@ -370,7 +370,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">应松年、马怀德（主編）（2006）。<b>当代中国行政法的源流：王名扬教授九十华诞贺寿文集</b>。中国法制出版社。</div>
   <div class="csl-entry">张新宝（2016）。<b>侵权责任法</b>（4 版）。中国人民大学出版社。</div>
   <div class="csl-entry">李松锋（2015）。<b>游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究</b>。博士学位论文，中国政法大学。</div>
-  <div class="csl-entry">汪波（2004年1月10日）。<i>哈尔滨市政法机关正对《宝马案》认真调查复查</i>。人民网。<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a></div>
+  <div class="csl-entry">汪波（2004年1月10日）。<i>哈尔滨市政法机关正对「宝马案」认真调查复查</i>。人民网。<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a></div>
   <div class="csl-entry">国务院关于印发打赢蓝天保卫战三年行动计划的通知，No. 国发〔2018〕22号（2018）。</div>
   <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知，No. 国发〔2007〕19号（2007）。</div>
   <div class="csl-entry">国务院关于在全国建立农村最低生活保障制度的通知，No. 国发〔2007〕19号（2007）。</div>

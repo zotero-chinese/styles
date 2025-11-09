@@ -15,7 +15,7 @@
     <category field="social_science"/>
     <issn>1674-2486</issn>
     <summary>《公共行政评论》稿件体例（2022年7月修订）.doc</summary>
-    <updated>2024-12-04T14:00:53+08:00</updated>
+    <updated>2025-11-09T19:34:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -98,6 +98,10 @@
       <term name="accessed">访问</term>
       <term name="in">载</term>
       <term name="paper-conference">会议论文</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
       <term name="editor" form="short">主编</term>
     </terms>
   </locale>

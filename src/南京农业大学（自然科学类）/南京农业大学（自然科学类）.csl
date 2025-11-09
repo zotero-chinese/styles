@@ -17,12 +17,12 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>附件1南京农业大学研究生学位论文格式规范（自然科学类）.pdf（2023-03-21）</summary>
-    <updated>2025-04-19T23:05:40+08:00</updated>
+    <updated>2025-11-09T19:34:25+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
-      <term name="page-range-delimiter">-</term>
+      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
     </terms>
   </locale>
   <locale xml:lang="zh">
@@ -39,7 +39,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">－</term>
+      <term name="page-range-delimiter">&#8212;</term> <!-- 中文页码的连接号使用一字线（em dash） -->
     </terms>
   </locale>
   <locale>
@@ -50,7 +50,6 @@
     </date>
     <terms>
       <term name="space-et-al">et al.</term>
-      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->

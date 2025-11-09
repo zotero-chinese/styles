@@ -18,7 +18,7 @@
     <category field="generic-base"/>
     <category field="medicine"/>
     <summary>根据学校最新学硕论文格式要求修改和完善，在旧版 chinese-gb7714-2005-numeric 基础上修改</summary>
-    <updated>2025-04-19T15:35:13+08:00</updated>
+    <updated>2025-11-09T19:34:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -38,6 +38,7 @@
   <locale>
     <terms>
       <term name="citation-range-delimiter">-</term>
+      <term name="page-range-delimiter">-</term>
       <term name="edition">第%s版</term>
     </terms>
   </locale>

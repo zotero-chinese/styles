@@ -129,7 +129,7 @@
   <div class="csl-entry">[87] 佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社, 2011[2013-10-14].</div>
   <div class="csl-entry">[88] Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving[M]. Babu B V, A K Nagar, K Deep, et al., eds.. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">[89] 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. [2014-06-11].</div>
-  <div class="csl-entry">[90] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X～2006BAK04A10/10.2013[R]. [2014-06-24].</div>
+  <div class="csl-entry">[90] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. [2014-06-24].</div>
   <div class="csl-entry">[91] Calkin D., A. Ager, and M. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. .</div>
   <div class="csl-entry">[92] U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">[93] World Health Organization. Factors Regulating the Immune Response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.</div>

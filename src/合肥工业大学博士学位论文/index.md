@@ -21,13 +21,13 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45－52．</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45-52．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">库恩．科学革命的结构：第 4 版［M］．金吾伦, 胡新和，译．2 版．北京：北京大学出版社，2012．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，刘英敏．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8－9．</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，刘英敏．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8-9．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">中国互联网络信息中心．第 29 次中国互联网络发展状况统计报告［R］．2012．</div>
@@ -83,7 +83,7 @@
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">白书农．植物开花研究［M］//李承森．植物科学进展．北京：高等教育出版社，1998：146－163．</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">白书农．植物开花研究［M］//李承森．植物科学进展．北京：高等教育出版社，1998：146-163．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">北京市人民政府办公厅．关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号［A］．2005．</div>
@@ -101,13 +101,13 @@
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">陈建军．从数字地球到智慧地球［J］．国土资源导刊，2010，7（10）：93．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴，赵震，王振刚．蓟县震旦亚界的研究［M］//中国地质科学院天津地质矿产研究所．中国震旦亚界．天津：天津科学技术出版社，1980：56－114．</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴，赵震，王振刚．蓟县震旦亚界的研究［M］//中国地质科学院天津地质矿产研究所．中国震旦亚界．天津：天津科学技术出版社，1980：56-114．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">陈志勇．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集［M］．北京：经济科学出版社，2011．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">程根伟．1998 年长江洪水的成因与减灾对策［M］//许厚泽, 赵其国．长江流域洪涝灾害与科技对策．北京：科学出版社，1999：32－36．</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">程根伟．1998 年长江洪水的成因与减灾对策［M］//许厚泽, 赵其国．长江流域洪涝灾害与科技对策．北京：科学出版社，1999：32-36．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">邓一刚．全智能节电器：200610171314.3［P］．2006-12-13．</div>
@@ -122,13 +122,13 @@
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">顾炎武．昌平山水记：京东考古录［M］．北京：北京古籍出版社，1982．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">国家标准局信息分类编码研究所．世界各国和地区名称代码：GB/T 2659—1986［S］//全国文献工作标准化委员会．文献工作国家标准汇编：3．北京：中国标准出版社，1988：59－92．</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">国家标准局信息分类编码研究所．世界各国和地区名称代码：GB/T 2659—1986［S］//全国文献工作标准化委员会．文献工作国家标准汇编：3．北京：中国标准出版社，1988：59-92．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国家环境保护局科技标准司．土壤环境质量标准：GB 15616—1995［S］．北京：中国标准出版社，1996：2－3．</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国家环境保护局科技标准司．土壤环境质量标准：GB 15616—1995［S］．北京：中国标准出版社，1996：2-3．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">哈里森·沃尔德伦．经济数学与金融数学［M］．谢远涛，译．北京：中国人民大学出版社，2012：235－236．</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">哈里森·沃尔德伦．经济数学与金融数学［M］．谢远涛，译．北京：中国人民大学出版社，2012：235-236．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">河北绿洲生态环境科技有限公司．一种荒漠化地区生态植被综合培育种植方法：01129210.5［P］．2001-10-24．</div>
@@ -140,7 +140,7 @@
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">胡承正，周详，缪灵．理论物理概论：上［M］．武汉：武汉大学出版社，2010：112．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45－52．</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">贾东琴，柯平．面向数字素养的高校图书馆数字服务体系研究［C］//中国图书馆学会．中国图书馆学会年会论文集：2011 年卷．北京：国家图书馆出版社，2011：45-52．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">蒋有绪，郭泉水，马娟，others．中国森林群落分类及其群落特征［M］．北京：科学出版社，1998．</div>
@@ -152,31 +152,31 @@
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">雷光春．综合湿地管理：综合湿地管理国际研讨会论文集［M］．北京：海洋出版社，2012．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6－12．</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6-12．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6－21．</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">李炳穆．韩国图书馆法［J］．图书情报工作，2008，52（6）：6-21．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">李强．化解医患矛盾需釜底抽薪［EB/OL］．（2012-05-03）［2013-03-25］．<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">李幼平，王莉．循证医学研究方法：附视频［J］．中华移植杂志（电子版），2010，4（3）：225－228．</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">李幼平，王莉．循证医学研究方法：附视频［J］．中华移植杂志（电子版），2010，4（3）：225-228．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">刘彻东．中国的青年刊物：个性特色为本仁［J］．中国出版，1998（5）：38－39．</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">刘彻东．中国的青年刊物：个性特色为本仁［J］．中国出版，1998（5）：38-39．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">刘乃安．生物质材料热解失重动力学及其分析方法研究［D］．合肥：中国科学技术大学，2000：17－18．</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">刘乃安．生物质材料热解失重动力学及其分析方法研究［D］．合肥：中国科学技术大学，2000：17-18．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">刘裕国，杨柳，张洋，王汉超，靳博，田豆豆，等．雾霾来袭，如何突围？［N］．人民日报，2013-01-12．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">楼梦鳞，杨燕．汶川地震基岩地震动特征分析［M］//同济大学土木工程防灾国家重点实验室．汶川地震震害研究．上海：同济大学出版社，2011：011－012．</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">楼梦鳞，杨燕．汶川地震基岩地震动特征分析［M］//同济大学土木工程防灾国家重点实验室．汶川地震震害研究．上海：同济大学出版社，2011：011-012．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">罗杰斯．西方文明史：问题与源头［M］．潘惠霞, 魏婧, 杨艳, 汤玲，译．大连：东北财经大学出版社，2011：15－16．</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">罗杰斯．西方文明史：问题与源头［M］．潘惠霞, 魏婧, 杨艳, 汤玲，译．大连：东北财经大学出版社，2011：15-16．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">罗斯基．战前中国经济的增长［M］．唐巧天, 毛立坤, 姜修宪，译．杭州：浙江大学出版社，2009．</div>
@@ -188,7 +188,7 @@
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">马克思．政治经济学批判［M］//马克思, 恩格斯．马克思恩格斯全集：第 35 卷．北京：人民出版社，2013：302．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">美国妇产科医师学会．新生儿脑病和脑性瘫痪：发病机制与病理生理［M］．段涛, 杨慧霞，译．北京：人民卫生出版社，2010：38－39．</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">美国妇产科医师学会．新生儿脑病和脑性瘫痪：发病机制与病理生理［M］．段涛, 杨慧霞，译．北京：人民卫生出版社，2010：38-39．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">尼葛洛庞帝．数字化生存［M］．胡泳, 范海燕，译．海口：海南出版社，1996．</div>
@@ -197,7 +197,7 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">牛志明，斯温兰德，雷光春．综合湿地管理国际研讨会论文集［M］．北京：海洋出版社，2012．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">裴丽生．在中国科协学术期刊编辑工作经验交流会上的讲话［C］//中国科学技术协会．中国科协学术期刊编辑工作经验交流会资料选．北京：中国科学技术协会学会工作部，1981：2－10．</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">裴丽生．在中国科协学术期刊编辑工作经验交流会上的讲话［C］//中国科学技术协会．中国科协学术期刊编辑工作经验交流会资料选．北京：中国科学技术协会学会工作部，1981：2-10．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">皮锡瑞．师伏堂日记：第 4 册［M］．北京：国家图书馆，2009：155．</div>
@@ -206,7 +206,7 @@
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">全国广播电视标准化技术委员会．广播电视音像资料编目规范：第 2 部分 广播资料：GY/T 202.2—2007［S］．北京：国家广播电影电视总局广播电视规划院，2007：1．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．信息与文献 都柏林核心元数据元素集：GB/T 25100—2010［S］．北京：中国标准出版社，2010：2－3．</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．信息与文献 都柏林核心元数据元素集：GB/T 25100—2010［S］．北京：中国标准出版社，2010：2-3．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会．文献著录：第 4 部分 非书资料：GB/T 3792.4—2009［S］．北京：中国标准出版社，2010：3．</div>
@@ -215,7 +215,7 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">汤万金，杨跃翔，刘文，others．人体安全重要技术标准研制最终报告：7178999X-2006BAK04A10/10.2013［R］．2013．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室．汶川地震灾害研究［M］．上海：同济大学出版社，2011：5－6．</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室．汶川地震灾害研究［M］．上海：同济大学出版社，2011：5-6．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[46]</div><div class="csl-right-inline">汪昂．增订本草备要：四卷［M］．刻本．京都：老二酉堂，1881．</div>
@@ -224,7 +224,7 @@
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">汪冰．电子图书馆理论与实践研究［M］．北京：北京图书馆出版社，1997：16．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">汪学军．中国农业转基因生物研究进展与安全管理［C］//国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集．北京：中国环境科学出版社，2002：22－25．</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">汪学军．中国农业转基因生物研究进展与安全管理［C］//国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集．北京：中国环境科学出版社，2002：22-25．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[49]</div><div class="csl-right-inline">王夫之．宋论［M］．刻本．金陵：湘乡曾国荃，1865．</div>
@@ -239,7 +239,7 @@
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">吴云芳．面向中文信息处理的现代汉语并列结构研究［D］．北京：北京大学，2003．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，刘英敏．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8－9．</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，刘英敏．“北斗一号”监控管理网设计与实现［J］．测绘科学，2008，33（5）：8-9．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[54]</div><div class="csl-right-inline">西安电子科技大学．光折变自适应光外差探测方法：01128777.2［P］．2002-03-06．</div>
@@ -254,13 +254,13 @@
     <div class="csl-left-margin">[57]</div><div class="csl-right-inline">杨保军．新闻道德论［D］．北京：中国人民大学出版社，2012．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56－75．</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">杨洪升．四库馆私家抄校书考略［J］．文献，2013（1）：56-75．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">杨宗英．电子图书馆的现实模型［J］．中国图书馆学报，1996（2）：24－29．</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">杨宗英．电子图书馆的现实模型［J］．中国图书馆学报，1996（2）：24-29．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波．互联网药品可信交易环境中主体资质审核备案模式［J］．清华大学学报（自然科学版），2012，52（11）：1518－1523．</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波．互联网药品可信交易环境中主体资质审核备案模式［J］．清华大学学报（自然科学版），2012，52（11）：1518-1523．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">余建斌．我们的科技一直在追赶：访中国工程院院长周济［N］．人民日报，2013-01-12（2）．</div>
@@ -278,7 +278,7 @@
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">张田勘．罪犯 DNA 库与生命伦理学计划［N］．大众科技报，2000-11-12（7）．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">张忠智．科技书刊的总编（主编）的角色要求［C］//中国科学技术期刊编辑学会．中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编．北京：中国科学技术期刊编辑学会学术委员会，1997：33－34．</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">张忠智．科技书刊的总编（主编）的角色要求［C］//中国科学技术期刊编辑学会．中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编．北京：中国科学技术期刊编辑学会学术委员会，1997：33-34．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">赵学功．当代美国外交［M］．北京：社会科学文献出版社，2001．</div>
@@ -299,7 +299,7 @@
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">中国社会科学院语言研究所词典编辑室．现代汉语词典［M］．修订本．北京：商务印书馆，1996．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">中国图书馆学会．图书馆学通讯［J］．1957（1－4）．北京：北京图书馆，1957．</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">中国图书馆学会．图书馆学通讯［J］．1957（1-4）．北京：北京图书馆，1957．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[74]</div><div class="csl-right-inline">中国造纸学会．中国造纸年鉴：2003［M］．北京：中国轻工业出版社，2003．</div>
@@ -485,16 +485,16 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">邱颖文．遗传与语言学习［D］．上海：华东师范大学，2009．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">王登峰，崔红．中国人“大七”人格结构的理论分析［M］//王登峰, 侯玉波．人格与社会心理学论丛：卷．1．北京：北京大学出版社，2004：46－84．</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">王登峰，崔红．中国人“大七”人格结构的理论分析［M］//王登峰, 侯玉波．人格与社会心理学论丛：卷．1．北京：北京大学出版社，2004：46-84．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">余林．汉语语言产生中的语音表征与加工［D］．北京师范大学，2000．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">张三．中国心理学的过去与未来［J］．心理学报，2008，40：210－215．</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">张三．中国心理学的过去与未来［J］．心理学报，2008，40：210-215．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">张三．中国心理学的过去与未来［J］．心理学报，2008，40（增刊）：210－215．</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">张三．中国心理学的过去与未来［J］．心理学报，2008，40（增刊）：210-215．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">张三．心理学史［M］．北京：未名出版社，2008．</div>
@@ -503,19 +503,19 @@
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">张三．心理学史［M］．北京：未名出版社，2008．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">张三，李四．中国心理学的过去与未来［J］．心理学报，2008，40：210－215．</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">张三，李四．中国心理学的过去与未来［J］．心理学报，2008，40：210-215．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张三，李四．中国心理学与奥林匹克［N］．新华日报，2008-08-08（2, 5－7）．</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张三，李四．中国心理学与奥林匹克［N］．新华日报，2008-08-08（2, 5-7）．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[12]</div><div class="csl-right-inline">张三，李四．中国心理学的过去与未来［J］．心理学报．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">赵一，钱二，孙三，李四，周五，吴六，等．中国心理学的过去与未来［J］．心理学报，2008，40：210－215．</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">赵一，钱二，孙三，李四，周五，吴六，等．中国心理学的过去与未来［J］．心理学报，2008，40：210-215．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">赵一一，钱二，孙三，李四，周五，吴六，等．中国心理学的过去与未来［J］．心理学报，2008，40：210－215．</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">赵一一，钱二，孙三，李四，周五，吴六，等．中国心理学的过去与未来［J］．心理学报，2008，40：210-215．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">佚名．现代汉语频率词典［M］．北京：北京语言学院出版社，1986．</div>
@@ -587,25 +587,25 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">狄葆贤．平等阁笔记［M］．上海：有正书局．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">杜威·佛克马．走向新世界主义［M］//王宁, 薛晓源．全球化与后殖民批评．北京：中央编译出版社，1999：247－266．</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">杜威·佛克马．走向新世界主义［M］//王宁, 薛晓源．全球化与后殖民批评．北京：中央编译出版社，1999：247-266．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">方明东．罗隆基政治思想研究（1913—1949）［D］．北京师范大学历史系，2000．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">费成康．葡萄牙人如何进入澳门问题辨正［J］．社会科学，1999（9）：63－67．</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">费成康．葡萄牙人如何进入澳门问题辨正［J］．社会科学，1999（9）：63-67．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">管志道．答屠仪部赤水丈书［M］//续问辨牍：卷．2．影印本．济南：齐鲁书社，1997．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">何龄修．读顾诚〈南明史〉［J］．中国史研究，1998（3）：167－173．</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">何龄修．读顾诚〈南明史〉［J］．中国史研究，1998（3）：167-173．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">黄仁宇．为什么称为“中国大历史”？——中文版自序［M］//中国大历史．北京：三联书店，1997．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">黄义豪．评黄龟年四劾秦桧［J］．福建论坛，1997（3）：26－27．</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">黄义豪．评黄龟年四劾秦桧［J］．福建论坛，1997（3）：26-27．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">蒋大兴．公司法的展开与评判——方法·判例·制度［M］．北京：法律出版社，2001．</div>
@@ -629,7 +629,7 @@
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">毛祥麟．墨余录［M］．上海：上海古籍出版社，1985．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">倪素香．德育学科的比较研究与理论探索［J］．武汉大学学报，2002（4）：512－513．</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">倪素香．德育学科的比较研究与理论探索［J］．武汉大学学报，2002（4）：512-513．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">任东来．对国际体制和国际制度的理解和翻译［C］//全球化与亚太区域化国际研讨会．天津，2000．</div>
@@ -653,7 +653,7 @@
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">王明亮．关于中国学术期刊标准化数据库系统工程的进展［EB/OL］．（1998-08-16）［1998-10-04］．<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英．论近代西北人口波动的若干主要原因［J］．社会科学，1990（6）：68－73, 86．</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">魏丽英．论近代西北人口波动的若干主要原因［J］．社会科学，1990（6）：68-73, 86．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[25]</div><div class="csl-right-inline">扬之水．两宋茶诗与茶事［EB/OL］．［2007-09-13］．<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>．</div>
@@ -737,7 +737,7 @@
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">崔国斌．知识产权法官造法批判［J］．中国法学，2006（1）：144－164．</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">崔国斌．知识产权法官造法批判［J］．中国法学，2006（1）：144-164．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">[德]莱纳·沃尔夫．风险法的风险［M］．陈霄，译//刘刚．风险规制：德国的理论与实践．法律出版社，2012．</div>
@@ -764,13 +764,13 @@
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">何海波．判决书上网［N］．法制日报，2000-05-21（2）．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">季卫东．法律程序的意义：对中国法制建设的另一种思考［J］．中国社会科学，1993（1）：83－103．</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">季卫东．法律程序的意义：对中国法制建设的另一种思考［J］．中国社会科学，1993（1）：83-103．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">李松锋．游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究［D］．中国政法大学，2015．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">罗豪才，袁曙宏，李文栋．现代行政法的理论基础——论行政机关与相对一方的权利义务平衡［J］．中国法学，1993（1）：52－59．</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">罗豪才，袁曙宏，李文栋．现代行政法的理论基础——论行政机关与相对一方的权利义务平衡［J］．中国法学，1993（1）：52-59．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">[美]富勒．法律的道德性［M］．郑戈，译．商务印书馆，2005．</div>

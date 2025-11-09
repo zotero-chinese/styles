@@ -15,11 +15,12 @@
     <issn>1004-2229</issn>
     <summary>根据fanzhen《历史研究》引文规范以及众多国际问题期刊引文规范改制，支持中英混排，仅支持今人论文、图书、章节、学位论文、网页</summary>
     <published>2021-01-16T00:00:00+08:00</published>
-    <updated>2023-12-22T00:19:10+08:00</updated>
+    <updated>2025-11-09T19:34:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
+      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
       <term name="translator" form="short">
         <single>trans.</single>
         <multiple>trans.</multiple>
@@ -38,6 +39,7 @@
   <locale xml:lang="zh">
     <terms>
       <term name="ibid">同上</term>
+      <term name="page-range-delimiter">&#8212;</term> <!-- 中文页码的连接号使用一字线（em dash） -->
       <term name="page" form="short"/>
     </terms>
   </locale>

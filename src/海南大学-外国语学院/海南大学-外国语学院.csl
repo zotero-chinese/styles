@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="linguistics"/>
     <summary>海南大学外国语学院研究生学位论文撰写格式.pdf（2023年9月）</summary>
-    <updated>2024-12-04T14:07:27+08:00</updated>
+    <updated>2025-11-09T19:34:27+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -100,6 +100,11 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- For Indigeneous Knowledge, assume the item is stored as `document` or `speech`

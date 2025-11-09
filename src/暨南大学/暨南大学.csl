@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>JNU-thesis暨南大学学位论文</summary>
-    <updated>2025-01-18T20:26:03+08:00</updated>
+    <updated>2025-11-09T19:34:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -33,6 +33,11 @@
   <locale xml:lang="en">
     <terms>
       <term name="et-al">et al.</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <macro name="author">

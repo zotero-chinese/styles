@@ -13,7 +13,7 @@
     <category field="political_science"/>
     <summary>根据pulipuli制作的APA中文格式、fanzhen《历史研究》引文规范以及《国际关系研究》引文规范改制，具体用法和特性见说明</summary>
     <published>2021-02-24T00:00:00+08:00</published>
-    <updated>2024-01-21T16:16:33+08:00</updated>
+    <updated>2025-11-09T19:34:26+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -42,6 +42,11 @@
       <term name="ibid">同上</term>
       <term name="page" form="short"/>
       <term name="anonymous">出版时间不详</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">～</term>
     </terms>
   </locale>
   <macro name="author">

@@ -21,7 +21,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>《中南财经政法大学研究生学位论文撰写规范》（中南大学位字〔2017〕18号，2017年12月19日）</summary>
-    <updated>2025-01-18T20:26:04+08:00</updated>
+    <updated>2025-11-09T19:34:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -32,6 +32,11 @@
         <single>p.</single>
         <multiple>pp.</multiple>
       </term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <macro name="author">
