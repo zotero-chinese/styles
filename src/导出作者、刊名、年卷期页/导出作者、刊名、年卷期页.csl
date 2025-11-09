@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <info>
     <title>导出作者、刊名、年卷期页</title>
-    <id>https://www.zotero-chinese.com/styles/导出作者、刊名、年卷期页</id>
-    <link href="https://www.zotero-chinese.com/styles/导出作者、刊名、年卷期页" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
+    <id>https://zotero-chinese.com/styles/导出作者、刊名、年卷期页</id>
+    <link href="https://zotero-chinese.com/styles/导出作者、刊名、年卷期页" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
     <link href="" rel="documentation"/>
     <author>
       <name>韩小土</name>

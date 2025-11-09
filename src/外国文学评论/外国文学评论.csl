@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>外国文学评论</title>
-    <id>https://www.zotero-chinese.com/styles/外国文学评论</id>
-    <link href="https://www.zotero-chinese.com/styles/外国文学评论" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
+    <id>https://zotero-chinese.com/styles/外国文学评论</id>
+    <link href="https://zotero-chinese.com/styles/外国文学评论" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
     <link href="https://literarycritik.ajcass.com/" rel="documentation"/>
     <link href="https://www.ncpssd.cn/Literature/articleinfo?id=WGWXPL2024002011&amp;type=journalArticle" rel="documentation"/>
     <link href="https://github.com/zotero-chinese/styles/issues/405" rel="documentation"/>

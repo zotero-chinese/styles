@@ -2,10 +2,10 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-as-sort-order="all" sort-separator=", " initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>人民出版社学术著作引证注释格式（修正版）</title>
-    <id>http://www.zotero.org/styles/人民出版社学术著作引证注释格式</id>
-    <link href="http://www.zotero.org/styles/人民出版社学术著作引证注释格式" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/人民出版社" rel="template"/>
-    <link href="https://www.zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <id>https://zotero-chinese.com/styles/人民出版社学术著作引证注释格式（修正版）</id>
+    <link href="https://zotero-chinese.com/styles/人民出版社学术著作引证注释格式（修正版）" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/人民出版社" rel="template"/>
+    <link href="https://zotero-chinese.com/styles/中国社会科学" rel="template"/>
     <link href="http://www.pph166.com/" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
@@ -51,7 +51,7 @@
       <!-- 最后一名英文作者名字前使用& -->
       <name and="symbol" name-as-sort-order="last" et-al-min="4" et-al-use-first="1"/>
       <!--使用括号包裹主编标签-->
-      <label form="short" prefix=" (" suffix=")" />
+      <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>
@@ -64,7 +64,7 @@
       <if variable="translator">
         <choose>
           <if variable="archive_location" match="none">
-            <text value="无"  prefix="[" suffix="] "/>
+            <text value="无" prefix="[" suffix="] "/>
           </if>
           <else>
             <text variable="archive_location" prefix="[" suffix="] "/>
@@ -73,7 +73,7 @@
       </if>
     </choose>
     <names variable="author">
-      <name delimiter="、" et-al-min="4" et-al-use-first="1" />
+      <name delimiter="、" et-al-min="4" et-al-use-first="1"/>
       <label form="short"/>
       <substitute>
         <names variable="editor"/>
@@ -226,7 +226,7 @@
     </choose>
   </macro>
   <macro name="container-periodical-en">
-  <!--析出文献名前要加入in-->
+    <!--析出文献名前要加入in-->
     <text value="in "/>
     <group delimiter=", ">
       <text variable="container-title" text-case="title" font-style="italic"/>
@@ -280,7 +280,7 @@
           <group delimiter=", ">
             <names variable="editor">
               <name and="text"/>
-              <label form="short" prefix=" (" suffix=")" />
+              <label form="short" prefix=" (" suffix=")"/>
             </names>
             <text variable="container-title" text-case="title" font-style="italic"/>
           </group>
@@ -387,7 +387,7 @@
   <macro name="access-en">
     <choose>
       <if type="post post-weblog software webpage" match="any">
-      <!--这里的分隔符应该是半角-->
+        <!--这里的分隔符应该是半角-->
         <group delimiter=", ">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>
@@ -457,7 +457,7 @@
       <text macro="translator-en"/>
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
-        <!--英文析出文献的日期与期号之间为空格-->
+          <!--英文析出文献的日期与期号之间为空格-->
           <group delimiter=" ">
             <text macro="container-periodical-en"/>
             <text macro="date-en"/>
@@ -492,7 +492,7 @@
       <text macro="translator-en"/>
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
-        <!--英文析出文献的日期与期号之间为空格-->
+          <!--英文析出文献的日期与期号之间为空格-->
           <text macro="container-periodical-en"/>
           <text macro="date-en"/>
         </if>

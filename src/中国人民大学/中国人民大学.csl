@@ -2,9 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>中国人民大学</title>
-    <id>https://www.zotero-chinese.com/styles/中国人民大学</id>
-    <link href="https://www.zotero-chinese.com/styles/中国人民大学" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）" rel="template"/>
+    <id>https://zotero-chinese.com/styles/中国人民大学</id>
+    <link href="https://zotero-chinese.com/styles/中国人民大学" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）" rel="template"/>
     <link href="https://grs.ruc.edu.cn/info/1140/2509.htm" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
