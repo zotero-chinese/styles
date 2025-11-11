@@ -1,0 +1,1332 @@
+[
+	[
+		{
+			"id": "molc.0:1",
+			"locator": "18",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:2",
+			"locator": "73-75",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:3",
+			"locator": "第三章“英美判例法”",
+			"label": "chapter"
+		}
+	],
+	[
+		{
+			"id": "molc.0:4"
+		}
+	],
+	[
+		{
+			"id": "molc.0:5",
+			"locator": "91",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:6",
+			"locator": "110",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:7"
+		}
+	],
+	[
+		{
+			"id": "molc.0:8"
+		}
+	],
+	[
+		{
+			"id": "molc.0:9"
+		}
+	],
+	[
+		{
+			"id": "molc.0:10",
+			"locator": "825",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:11"
+		}
+	],
+	[
+		{
+			"id": "molc.0:12"
+		}
+	],
+	[
+		{
+			"id": "molc.0:13"
+		}
+	],
+	[
+		{
+			"id": "molc.0:14"
+		}
+	],
+	[
+		{
+			"id": "molc.0:15"
+		}
+	],
+	[
+		{
+			"id": "molc.0:16",
+			"locator": "30",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:17",
+			"locator": "第1224条第1款第2项",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.0:18",
+			"locator": "第四节",
+			"label": "section"
+		}
+	],
+	[
+		{
+			"id": "molc.0:19"
+		}
+	],
+	[
+		{
+			"id": "molc.0:20"
+		}
+	],
+	[
+		{
+			"id": "molc.0:21"
+		}
+	],
+	[
+		{
+			"id": "molc.0:22"
+		}
+	],
+	[
+		{
+			"id": "molc.0:23"
+		}
+	],
+	[
+		{
+			"id": "molc.0:24",
+			"locator": "737-738",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:25",
+			"locator": "10",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:26",
+			"locator": "98-99",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:27"
+		}
+	],
+	[
+		{
+			"id": "molc.0:28",
+			"locator": "16-29",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:29",
+			"locator": "15 Rn. 19",
+			"label": "section"
+		}
+	],
+	[
+		{
+			"id": "molc.0:30",
+			"locator": "34",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:31",
+			"locator": "6",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.0:32",
+			"locator": "50",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.9:1",
+			"locator": "第五章“行政执法”",
+			"label": "chapter"
+		}
+	],
+	[
+		{
+			"id": "molc.9:2"
+		}
+	],
+	[
+		{
+			"id": "molc.9:1",
+			"locator": "第五章“行政执法”。该章系应松年撰写",
+			"label": "chapter"
+		}
+	],
+	[
+		{
+			"id": "molc.9:3",
+			"locator": "第117-118页“反致和转致”（李浩培撰）",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.10:1a",
+			"prefix": "参见"
+		},
+		{
+			"id": "molc.10:1b"
+		},
+		{
+			"id": "molc.10:1c"
+		},
+		{
+			"id": "molc.10:1d"
+		}
+	],
+	[
+		{
+			"id": "molc.10:2a",
+			"prefix": "参见"
+		},
+		{
+			"id": "molc.10:2b"
+		}
+	],
+	[
+		{
+			"id": "molc.10:2b",
+			"prefix": "See"
+		},
+		{
+			"id": "molc.10:2a"
+		}
+	],
+	[
+		{
+			"id": "molc.11.1:1",
+			"prefix": "传统中国少有确定的权利以及相应的权利观念，所以谈不上法治社会。对该状况的一个历史解释，参见"
+		}
+	],
+	[
+		{
+			"id": "molc.11.2:1",
+			"suffix": "该案涉及对一个证券交易机构的司法审查。这个交易机构既非行政机关也没有法律授权，却行使规制和惩罚的职能。"
+		}
+	],
+	[
+		{
+			"id": "molc.11.3:1a"
+		},
+		{
+			"id": "molc.11.3:1b"
+		}
+	],
+	[
+		{
+			"id": "molc.11.3:2",
+			"prefix": "类似的研究还有"
+		}
+	],
+	[
+		{
+			"id": "molc.11.4:1",
+			"suffix": "原文身“马歇尔诉麦迪逊”，当是笔误"
+		}
+	],
+	[
+		{
+			"id": "molc.12:1",
+			"suffix": "后重刊于顾颉刚编著：《古史辨》（第5册），朴社1935年版（上海古籍出版社1982年重印）"
+		}
+	],
+	[
+		{
+			"id": "molc.12:2",
+			"prefix": "民国大学诉工商总长刘揆一案，判决文书见",
+			"locator": "“物权”第1-5页",
+			"label": "chapter",
+			"suffix": "电子扫描版可检索国家图书馆民国图书数据库或者北京记忆网站。"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:1"
+		},
+		{
+			"id": "molc.13.1:2"
+		},
+		{
+			"id": "molc.13.1:3"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:1",
+			"locator": "3",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:2",
+			"locator": "69",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:2"
+		},
+		{
+			"id": "molc.13.1:2b"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:2",
+			"locator": "69",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:4"
+		}
+	],
+	[
+		{
+			"id": "molc.13.1:4"
+		}
+	],
+	[
+		{
+			"id": "molc.13.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.13.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.27:1"
+		}
+	],
+	[
+		{
+			"id": "molc.27:2"
+		}
+	],
+	[
+		{
+			"id": "molc.27:3"
+		}
+	],
+	[
+		{
+			"id": "molc.28:1"
+		}
+	],
+	[
+		{
+			"id": "molc.28:2"
+		}
+	],
+	[
+		{
+			"id": "molc.29:1"
+		}
+	],
+	[
+		{
+			"id": "molc.29:2"
+		}
+	],
+	[
+		{
+			"id": "molc.29:3"
+		}
+	],
+	[
+		{
+			"id": "molc.30:1"
+		}
+	],
+	[
+		{
+			"id": "molc.30:2"
+		}
+	],
+	[
+		{
+			"id": "molc.31:1"
+		}
+	],
+	[
+		{
+			"id": "molc.31:2"
+		}
+	],
+	[
+		{
+			"id": "molc.32:1"
+		}
+	],
+	[
+		{
+			"id": "molc.32:2"
+		}
+	],
+	[
+		{
+			"id": "molc.32:3"
+		}
+	],
+	[
+		{
+			"id": "molc.33:1"
+		}
+	],
+	[
+		{
+			"id": "molc.33:2"
+		}
+	],
+	[
+		{
+			"id": "molc.33:3"
+		}
+	],
+	[
+		{
+			"id": "molc.33:4"
+		}
+	],
+	[
+		{
+			"id": "molc.33:5",
+			"suffix": "“勒翁狄几”现今多译为“狄骥”"
+		}
+	],
+	[
+		{
+			"id": "molc.33:6"
+		}
+	],
+	[
+		{
+			"id": "molc.34:1"
+		}
+	],
+	[
+		{
+			"id": "molc.35:1"
+		}
+	],
+	[
+		{
+			"id": "molc.35:2"
+		}
+	],
+	[
+		{
+			"id": "molc.36.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.36.4:1"
+		}
+	],
+	[
+		{
+			"id": "molc.37:1"
+		}
+	],
+	[
+		{
+			"id": "molc.37:2"
+		}
+	],
+	[
+		{
+			"id": "molc.37:3"
+		}
+	],
+	[
+		{
+			"id": "molc.38:1"
+		}
+	],
+	[
+		{
+			"id": "molc.38:2"
+		}
+	],
+	[
+		{
+			"id": "molc.39.1:1"
+		}
+	],
+	[
+		{
+			"id": "molc.39.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.39.2:2"
+		}
+	],
+	[
+		{
+			"id": "molc.39.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.39.3:2"
+		}
+	],
+	[
+		{
+			"id": "molc.39.4:1"
+		}
+	],
+	[
+		{
+			"id": "molc.39.5:1",
+			"locator": "825",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.40.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.40.2:2"
+		}
+	],
+	[
+		{
+			"id": "molc.40.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.40.3:2"
+		}
+	],
+	[
+		{
+			"id": "molc.40.4:1"
+		}
+	],
+	[
+		{
+			"id": "molc.40.4:2"
+		}
+	],
+	[
+		{
+			"id": "molc.41:1"
+		}
+	],
+	[
+		{
+			"id": "molc.42:1"
+		}
+	],
+	[
+		{
+			"id": "molc.42:2"
+		}
+	],
+	[
+		{
+			"id": "molc.43.1:1"
+		}
+	],
+	[
+		{
+			"id": "molc.44:1"
+		}
+	],
+	[
+		{
+			"id": "molc.44:2"
+		}
+	],
+	[
+		{
+			"id": "molc.45:1"
+		}
+	],
+	[
+		{
+			"id": "molc.45:2"
+		}
+	],
+	[
+		{
+			"id": "molc.46:1"
+		}
+	],
+	[
+		{
+			"id": "molc.46:2",
+			"locator": "57-58",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.46:3",
+			"locator": "第3册，第3080页下栏",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.46:4"
+		}
+	],
+	[
+		{
+			"id": "molc.47:1",
+			"locator": "198",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.47:2",
+			"locator": "617-618",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.47:3"
+		}
+	],
+	[
+		{
+			"id": "molc.47:4"
+		}
+	],
+	[
+		{
+			"id": "molc.48.1:1",
+			"locator": "5-30",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.48.1:2",
+			"locator": "163",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.48.1:3a"
+		},
+		{
+			"id": "molc.48.1:3b"
+		},
+		{
+			"id": "molc.48.1:3c"
+		}
+	],
+	[
+		{
+			"id": "molc.48.2:1",
+			"locator": "第9页a",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.48.3:1",
+			"locator": "第55、64-68页",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.48.4:1",
+			"locator": "第81页（“法的解释”条）",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.49:1"
+		}
+	],
+	[
+		{
+			"id": "molc.49:2",
+			"locator": "20:3",
+			"label": "verse"
+		}
+	],
+	[
+		{
+			"id": "molc.49:3",
+			"locator": "“过房子与庶子分家财”条",
+			"label": "sub-verbo"
+		}
+	],
+	[
+		{
+			"id": "molc.49:4",
+			"locator": "第二章“英美判例法”",
+			"label": "chapter"
+		}
+	],
+	[
+		{
+			"id": "molc.51:1"
+		}
+	],
+	[
+		{
+			"id": "molc.52:1"
+		}
+	],
+	[
+		{
+			"id": "molc.53:1"
+		}
+	],
+	[
+		{
+			"id": "molc.53:2"
+		}
+	],
+	[
+		{
+			"id": "molc.54:1"
+		}
+	],
+	[
+		{
+			"id": "molc.54:2"
+		}
+	],
+	[
+		{
+			"id": "molc.56.1:1"
+		}
+	],
+	[
+		{
+			"id": "molc.56.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.56.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.56.4:1"
+		}
+	],
+	[
+		{
+			"id": "molc.57:1"
+		}
+	],
+	[
+		{
+			"id": "molc.60:1"
+		}
+	],
+	[
+		{
+			"id": "molc.60:2"
+		}
+	],
+	[
+		{
+			"id": "molc.61:1"
+		}
+	],
+	[
+		{
+			"id": "molc.62:1"
+		}
+	],
+	[
+		{
+			"id": "molc.62:2"
+		}
+	],
+	[
+		{
+			"id": "molc.63:1"
+		}
+	],
+	[
+		{
+			"id": "molc.63:2"
+		}
+	],
+	[
+		{
+			"id": "molc.63:3",
+			"locator": "118",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.64:1",
+			"locator": "30",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.65:1"
+		}
+	],
+	[
+		{
+			"id": "molc.67.1:1a"
+		}
+	],
+	[
+		{
+			"id": "molc.67.1:1b"
+		}
+	],
+	[
+		{
+			"id": "molc.67.1:2a"
+		}
+	],
+	[
+		{
+			"id": "molc.67.1:2b"
+		}
+	],
+	[
+		{
+			"id": "molc.67.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.67.3:2"
+		}
+	],
+	[
+		{
+			"id": "molc.68.1:1"
+		}
+	],
+	[
+		{
+			"id": "molc.68.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.68.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.68.3:2",
+			"locator": "9",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.69.1:1",
+			"locator": "16",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.69.1:2",
+			"locator": "36",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.69.2:1"
+		}
+	],
+	[
+		{
+			"id": "molc.69.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.69.3:2"
+		}
+	],
+	[
+		{
+			"id": "molc.70.1:1",
+			"locator": "第1224条第1款第2项",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.70.1:2",
+			"locator": "第54条第2项第3目",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.70.1:3",
+			"locator": "第138、139条",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.70.2:1",
+			"locator": "第17条之一",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.70.3:1"
+		}
+	],
+	[
+		{
+			"id": "molc.70.3:2"
+		}
+	],
+	[
+		{
+			"id": "molc.71:1",
+			"suffix": "第12条规定：“社会主义的公共财产神圣不可侵犯。  国家保护社会主义的公共财产。禁止任何组织或者个人用任何手段侵占或者破坏国家的和集体的财产。”"
+		}
+	],
+	[
+		{
+			"id": "molc.71:2",
+			"suffix": "第54条规定：“剥夺政治权利是剥夺下列权利：（一）选举权和被选举权；（二）言论、出版、集会、结社、游行、示威自由的权利；（三）担任国家机关职务的权利；（四）担任国有公司、企业、事业单位和人民团体领导职务的权利。”"
+		}
+	],
+	[
+		{
+			"id": "molc.72:1",
+			"locator": "100",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc.73:1",
+			"prefix": "国务院发布的"
+		}
+	],
+	[
+		{
+			"id": "molc.73:2"
+		}
+	],
+	[
+		{
+			"id": "molc.73:3",
+			"prefix": "商务部等九部委联合发布的"
+		}
+	],
+	[
+		{
+			"id": "molc.74:1"
+		}
+	],
+	[
+		{
+			"id": "molc.74:2"
+		}
+	],
+	[
+		{
+			"id": "molc.74:3",
+			"suffix": "要求，“2007年在全国建立农村最低生活保障制度”"
+		}
+	],
+	[
+		{
+			"id": "molc.75:1",
+			"locator": "第四节第一小节",
+			"label": "section"
+		}
+	],
+	[
+		{
+			"id": "molc.76:1",
+			"locator": "655",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.76:2"
+		}
+	],
+	[
+		{
+			"id": "molc.77:1"
+		}
+	],
+	[
+		{
+			"id": "molc.78:1"
+		}
+	],
+	[
+		{
+			"id": "molc.78:2"
+		}
+	],
+	[
+		{
+			"id": "molc.78:2"
+		}
+	],
+	[
+		{
+			"id": "molc.78:4"
+		}
+	],
+	[
+		{
+			"id": "molc.79:1"
+		}
+	],
+	[
+		{
+			"id": "molc.79:2"
+		}
+	],
+	[
+		{
+			"id": "molc.79:3"
+		}
+	],
+	[
+		{
+			"id": "molc.80:1"
+		}
+	],
+	[
+		{
+			"id": "molc.80:2"
+		}
+	],
+	[
+		{
+			"id": "molc.81:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.81:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.81:3",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.82:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.83:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.83:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.84.1:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.84.1:2a",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.84.1:2b",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.84.2:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.84.3:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.84.3:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.85:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.85:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.85:3",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.86:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.86:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.86:3",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.87:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.87:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.87:3",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.88.2:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.88.2:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.88.5:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.88.5:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.89:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.89:2",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.1:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.2:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.3:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.4:1a",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.4:1b",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.5:1",
+			"locator": "",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc.90.6:1",
+			"locator": "",
+			"label": "page"
+		}
+	]
+]
