@@ -206,7 +206,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Auerbach, John S. “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation.” <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, edited by M. F. Bornstein, 4th ed., Wiley, 1993, pp. 43-110.</div>
   <div class="csl-entry">Australian Bureau of Statistics. <i>Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990</i>. 3209.1, Author, 1991.</div>
   <div class="csl-entry">Bergmann, P. G. “Relativity.” <i>The New Encyclopedia Britannica</i>, vol. 26, Encyclopedia Britannica, 1993, pp. 501-08.</div>
-  <div class="csl-entry">Burin, Dalila, et al. “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLOS ONE</i> 14.1 (2019). Web.</div>
+  <div class="csl-entry">Burin, Dalila, et al. “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLOS ONE</i> 14.1 (2019): e0209899. Web.</div>
   <div class="csl-entry">Gibbs, Jewelle Taylor, and Larke Nahme Huang, editors. <i>Children of Color: Psychological Interventions with Minority Youth</i>. Jossey-Bass, 1989.</div>
   <div class="csl-entry">Huestegge, Sujata M., Tim Raettig, and Lynn Huestegge. “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing.” <i>Experimental Psychology</i> (2019). Web.</div>
   <div class="csl-entry">Klatzky, Roberta. “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections.” <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, edited by C. Freksa et al., Springer-Verlag, 1998, pp. 1-17.</div>
@@ -433,7 +433,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Brown, L. S. <i>Feminist Therapy</i>. 2nd ed., American Psychological Association, 2018.</div>
   <div class="csl-entry">“Brown v. Board of Education.” <i>U.S.</i>, vol. 347, 1954, p. 483.</div>
   <div class="csl-entry">Burgess, R. <i>Rethinking Global Health: Frameworks of Power</i>. Routledge, 2019.</div>
-  <div class="csl-entry">Burin, D., et al. “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLOS ONE</i> 14.1 (2019). Web.</div>
+  <div class="csl-entry">Burin, D., et al. “Body Ownership Increases the Interference between Observed and Executed Movements.” <i>PLOS ONE</i> 14.1 (2019): e0209899. Web.</div>
   <div class="csl-entry">“Burriola v. Greater Toledo YMCA.” <i>F.Supp.2d</i>, vol. 133, 2001, p. 1034.</div>
   <div class="csl-entry">Bustillos, M. “On Video Games and Storytelling: An Interview with Tom Bissell.” <i>The New Yorker</i> 19 Mar. 2013. Web.</div>
   <div class="csl-entry">Cable, D. <i>The Racial Dot Map</i>. Weldon Cooper Center for Public Service, 2013.</div>

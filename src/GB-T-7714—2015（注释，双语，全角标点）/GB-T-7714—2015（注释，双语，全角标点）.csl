@@ -317,7 +317,14 @@
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text macro="locator"/>
+          <choose>
+            <if variable="locator page" match="any">
+              <text macro="locator"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>
@@ -343,7 +350,14 @@
             </group>
             <text variable="issue" prefix="（" suffix="）"/>
           </group>
-          <text macro="locator"/>
+          <choose>
+            <if variable="locator page" match="any">
+              <text macro="locator"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>

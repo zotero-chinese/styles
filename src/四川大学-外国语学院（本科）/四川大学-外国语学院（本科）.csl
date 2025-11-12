@@ -186,7 +186,14 @@
           </else>
         </choose>
       </group>
-      <text variable="page"/>
+      <choose>
+        <if variable="page">
+          <text variable="page"/>
+        </if>
+        <else>
+          <text variable="number"/>
+        </else>
+      </choose>
     </group>
   </macro>
   <macro name="container-title-en">

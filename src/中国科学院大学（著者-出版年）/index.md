@@ -230,7 +230,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Auerbach J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[M]//Bornstein M F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley, 1993: 43-110.</div>
   <div class="csl-entry">Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author, 1991.</div>
   <div class="csl-entry">Bergmann P G. Relativity[M]//The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica, 1993: 501-508.</div>
-  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">Gibbs J T, Huang L N. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US: Jossey-Bass, 1989.</div>
   <div class="csl-entry">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.</div>
   <div class="csl-entry">Klatzky R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[M]//Freksa C, Habel C, Wender K F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
@@ -475,7 +475,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bronfenbrenner U. The social ecology of human development: A retrospective conclusion[M]//Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
   <div class="csl-entry">Brown L S. Feminist therapy[M]. 2nd ed. American Psychological Association, 2018.</div>
   <div class="csl-entry">Burgess R. Rethinking global health: Frameworks of power[M]. Routledge, 2019.</div>
-  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">Bustillos M. On video games and storytelling: An interview with Tom Bissell[J]. The New Yorker, 2013.</div>
   <div class="csl-entry">Cable D. The racial dot map[CM]. University of Virginia: Weldon Cooper Center for Public Service, 2013.</div>
   <div class="csl-entry">Cain S. Quiet: The power of introverts in a world that can’t stop talking[M]. Random House Audio, 2012.</div>

@@ -2634,7 +2634,14 @@
             </group>
           </if>
           <else>
-            <text variable="page"/>
+            <choose>
+              <if variable="page">
+                <text variable="page"/>
+              </if>
+              <else>
+                <text variable="number"/>
+              </else>
+            </choose>
           </else>
         </choose>
       </group>
@@ -2674,7 +2681,14 @@
             </group>
           </if>
           <else>
-            <text variable="page"/>
+            <choose>
+              <if variable="page">
+                <text variable="page"/>
+              </if>
+              <else>
+                <text variable="number"/>
+              </else>
+            </choose>
           </else>
         </choose>
       </group>

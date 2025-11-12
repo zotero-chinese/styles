@@ -279,7 +279,14 @@
               <date-part name="day" prefix="(" suffix=")"/>
             </date>
           </group>
-          <text variable="page"/>
+          <choose>
+            <if variable="page">
+              <text variable="page"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </if>
       <else>
@@ -293,7 +300,14 @@
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <choose>
+            <if variable="page">
+              <text variable="page"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>

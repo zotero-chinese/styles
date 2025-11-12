@@ -226,7 +226,14 @@
             </group>
             <text variable="issue" form="short" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <choose>
+            <if variable="page">
+              <text variable="page"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>
@@ -266,7 +273,14 @@
             </group>
             <text variable="issue" form="short" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <choose>
+            <if variable="page">
+              <text variable="page"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>

@@ -372,7 +372,14 @@
             <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <text variable="page"/>
+          <choose>
+            <if variable="page">
+              <text variable="page"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>
@@ -402,7 +409,14 @@
               </else>
             </choose>
           </group>
-          <text variable="page"/>
+          <choose>
+            <if variable="page">
+              <text variable="page"/>
+            </if>
+            <else>
+              <text variable="number"/>
+            </else>
+          </choose>
         </group>
       </else>
     </choose>

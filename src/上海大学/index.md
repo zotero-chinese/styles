@@ -477,7 +477,7 @@
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing[J]. Experimental Psychology, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">BURIN D, KILTENI K, RABUFFETTI M, et al. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1).</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">BURIN D, KILTENI K, RABUFFETTI M, et al. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1):e0209899.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊):210-215.</div>
@@ -996,7 +996,7 @@
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, et al. What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10):1122-1128.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">BURIN D, KILTENI K, RABUFFETTI M, et al. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1).</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">BURIN D, KILTENI K, RABUFFETTI M, et al. Body Ownership Increases the Interference between Observed and Executed Movements[J]. PLOS ONE, 2019, 14(1):e0209899.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing[J]. Experimental Psychology, 2019.</div>

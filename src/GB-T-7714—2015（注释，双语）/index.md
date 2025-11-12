@@ -206,7 +206,7 @@
 <sup>7</sup> WOLCHIK S A, WEST S G, SANDLER I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.<br>
 <sup>8</sup> 张三, 李四. 中国心理学的过去与未来[J]. 心理学报.<br>
 <sup>9</sup> HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J/OL]. Experimental Psychology, 2019. DOI:<a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.<br>
-<sup>10</sup> BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J/OL]. PLOS ONE, 2019, 14(1). DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.<br>
+<sup>10</sup> BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J/OL]. PLOS ONE, 2019, 14(1): e0209899. DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.<br>
 <sup>11</sup> 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.<br>
 <sup>12</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
 <sup>13</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
@@ -394,7 +394,7 @@
 <sup>4</sup> GOLDMAN C. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018-11-28.<br>
 <sup>5</sup> KALNAY E, KANAMITSU M, KISTLER R, et al. The NCEP/NCAR 40-year reanalysis project[J/OL]. Bulletin of the American Meteorological Society, 1996, 77(3): 437-471. DOI:<a href="https://doi.org/fg6rf9">fg6rf9</a>.<br>
 <sup>6</sup> DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J/OL]. Midwifery, 2013, 29(10): 1122-1128. DOI:<a href="https://doi.org/10.1016/j.midw.2013.07.007">10.1016/j.midw.2013.07.007</a>.<br>
-<sup>7</sup> BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J/OL]. PLOS ONE, 2019, 14(1). DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.<br>
+<sup>7</sup> BURIN D, KILTENI K, RABUFFETTI M, et al. Body ownership increases the interference between observed and executed movements[J/OL]. PLOS ONE, 2019, 14(1): e0209899. DOI:<a href="https://doi.org/10.1371/journal.pone.0209899">10.1371/journal.pone.0209899</a>.<br>
 <sup>8</sup> HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J/OL]. Experimental Psychology, 2019. DOI:<a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.<br>
 <sup>9</sup> PACHUR T, SCHEIBEHENNE B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review.<br>
 <sup>10</sup> CHAVES-MORILLO V, GÓMEZ CALERO C, FERNÁNDEZ-MUÑOZ J J, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J/OL]. Clínica y Salud, 2018, 28(3): 155-161. DOI:<a href="https://doi.org/10.1016/j.clysa.2017.04.002">10.1016/j.clysa.2017.04.002</a>.<br>

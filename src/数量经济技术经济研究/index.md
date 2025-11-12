@@ -226,7 +226,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">[16] Auerbach J. S., 1993, <i>The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation</i> [A], Bornstein M. F. ed. Handbook of child psychology: Vol. 4. Socialization, personality, and social development [C], 4th ed., Washington, DC, US: Wiley, 43~110.</div>
   <div class="csl-entry">[17] Australian Bureau of Statistics, 1991, <i>Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990</i>: 3209.1 [R], Canberra, Australian Capital Territory: Author.</div>
   <div class="csl-entry">[18] Bergmann P. G., 1993, <i>Relativity</i> [A], The new encyclopedia Britannica: Vol. 26 [C], New York: Encyclopedia Britannica, 501~508.</div>
-  <div class="csl-entry">[19] Burin D., Kilteni K., Rabuffetti M., Slater M., Pia L., 2019, <i>Body Ownership Increases the Interference between Observed and Executed Movements</i> [J], PLOS ONE, 14(1).</div>
+  <div class="csl-entry">[19] Burin D., Kilteni K., Rabuffetti M., Slater M., Pia L., 2019, <i>Body Ownership Increases the Interference between Observed and Executed Movements</i> [J], PLOS ONE, 14(1), e0209899.</div>
   <div class="csl-entry">[20] Gibbs J. T., Huang L. N., 1989, <i>Children of Color: Psychological Interventions with Minority Youth</i> [M], Hoboken, NJ, US: Jossey-Bass.</div>
   <div class="csl-entry">[21] Huestegge S. M., Raettig T., Huestegge L., 2019, <i>Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing</i> [J/OL], Experimental Psychology, DOI:<a href="https://doi.org/10.1027/1618-3169/a000440">10.1027/1618-3169/a000440</a>.</div>
   <div class="csl-entry">[22] Klatzky R., 1998, <i>Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections</i> [A], Freksa C., Habel C., Wender K. F. eds. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge [C], Springer-Verlag, 1~17.</div>
@@ -471,7 +471,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">[67] Bronfenbrenner U., 2005, <i>The Social Ecology of Human Development: A Retrospective Conclusion</i> [A], Bronfenbrenner U. ed. Making human beings human: Bioecological perspectives on human development [C], SAGE Publications, 27~40.</div>
   <div class="csl-entry">[68] Brown L. S., 2018, <i>Feminist Therapy</i> [M], 2nd ed., American Psychological Association.</div>
   <div class="csl-entry">[69] Burgess R., 2019, <i>Rethinking Global Health: Frameworks of Power</i> [M], Routledge.</div>
-  <div class="csl-entry">[70] Burin D., Kilteni K., Rabuffetti M., Slater M., Pia L., 2019, <i>Body Ownership Increases the Interference between Observed and Executed Movements</i> [J], PLOS ONE, 14(1).</div>
+  <div class="csl-entry">[70] Burin D., Kilteni K., Rabuffetti M., Slater M., Pia L., 2019, <i>Body Ownership Increases the Interference between Observed and Executed Movements</i> [J], PLOS ONE, 14(1), e0209899.</div>
   <div class="csl-entry">[71] Bustillos M., 2013, <i>On Video Games and Storytelling: An Interview with Tom Bissell</i> [J], The New Yorker.</div>
   <div class="csl-entry">[72] Cable D., 2013, <i>The Racial Dot Map</i> [CM], University of Virginia: Weldon Cooper Center for Public Service.</div>
   <div class="csl-entry">[73] Cain S., 2012, <i>Quiet: The Power of Introverts in a World That Can’t Stop Talking</i> [M], Random House Audio.</div>

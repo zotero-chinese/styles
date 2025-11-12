@@ -530,7 +530,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Bergmann, P. G., “Relativity”, The New Encyclopedia Britannica[C]. New York: Encyclopedia Britannica, 1993: 501-508.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Burin, D., K. Kilteni, M. Rabuffetti, et al., “Body Ownership Increases the Interference between Observed and Executed Movements”, PLOS ONE, 2019, 14(1).</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Burin, D., K. Kilteni, M. Rabuffetti, et al., “Body Ownership Increases the Interference between Observed and Executed Movements”, PLOS ONE, 2019, 14(1):e0209899.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Gibbs, J. T., and L. N. Huang, Children of Color: Psychological Interventions with Minority Youth, Hoboken, NJ, US: Jossey-Bass, 1989.</div>
@@ -1211,7 +1211,7 @@ Qian et al. (2009b)<br>
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Burgess, R., Rethinking Global Health: Frameworks of Power, Routledge, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Burin, D., K. Kilteni, M. Rabuffetti, et al., “Body Ownership Increases the Interference between Observed and Executed Movements”, PLOS ONE, 2019, 14(1).</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Burin, D., K. Kilteni, M. Rabuffetti, et al., “Body Ownership Increases the Interference between Observed and Executed Movements”, PLOS ONE, 2019, 14(1):e0209899.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Bustillos, M., “On Video Games and Storytelling: An Interview with Tom Bissell”, The New Yorker, 2013.</div>

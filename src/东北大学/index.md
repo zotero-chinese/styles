@@ -477,7 +477,7 @@
     <div class="csl-left-margin">9.</div><div class="csl-right-inline">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing [J]. Exp Psychol, 2019</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">10.</div><div class="csl-right-inline">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements [J]. PLOS ONE, 2019, 14(1)</div>
+    <div class="csl-left-margin">10.</div><div class="csl-right-inline">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements [J]. PLOS ONE, 2019, 14(1): e0209899</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">11.</div><div class="csl-right-inline">张三. 中国心理学的过去与未来［J］. 心理学报，2008，40（增刊）：210-215</div>
@@ -996,7 +996,7 @@
     <div class="csl-left-margin">6.</div><div class="csl-right-inline">De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands [J]. Midwifery, 2013, 29(10): 1122-1128</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements [J]. PLOS ONE, 2019, 14(1)</div>
+    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements [J]. PLOS ONE, 2019, 14(1): e0209899</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">8.</div><div class="csl-right-inline">Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing [J]. Exp Psychol, 2019</div>

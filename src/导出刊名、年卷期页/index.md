@@ -186,7 +186,7 @@
   <div class="csl-entry">Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.</div>
   <div class="csl-entry">心理学报.</div>
   <div class="csl-entry">Experimental Psychology, 2019.</div>
-  <div class="csl-entry">PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">PLOS ONE, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">心理学报, 2008, 40(增刊): 210-215.</div>
   <div class="csl-entry">心理学史[M]. 北京: 未名出版社, 2008.</div>
   <div class="csl-entry">心理学史[M]. 北京: 未名出版社, 2008.</div>
@@ -377,7 +377,7 @@
   <div class="csl-entry">Chicago Tribune, 2018-11-28.</div>
   <div class="csl-entry">Bulletin of the American Meteorological Society, 1996, 77(3): 437-471.</div>
   <div class="csl-entry">Midwifery, 2013, 29(10): 1122-1128.</div>
-  <div class="csl-entry">PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">PLOS ONE, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">Experimental Psychology, 2019.</div>
   <div class="csl-entry">Psychonomic Bulletin &#38; Review.</div>
   <div class="csl-entry">Clínica y Salud, 2018, 28(3): 155-161.</div>

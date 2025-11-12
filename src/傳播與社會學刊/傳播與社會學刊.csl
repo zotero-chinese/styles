@@ -2288,7 +2288,14 @@
                   <label variable="page" form="short"/>
                 </if>
               </choose>
-              <text variable="page"/>
+              <choose>
+                <if variable="page">
+                  <text variable="page"/>
+                </if>
+                <else>
+                  <text variable="number"/>
+                </else>
+              </choose>
             </group>
           </else>
         </choose>
@@ -2335,14 +2342,28 @@
               <if type="article-newspaper">
                 <group>
                   <text value="第"/>
-                  <text variable="page"/>
+                  <choose>
+                    <if variable="page">
+                      <text variable="page"/>
+                    </if>
+                    <else>
+                      <text variable="number"/>
+                    </else>
+                  </choose>
                   <text value="版"/>
                 </group>
               </if>
               <else>
                 <group>
                   <label variable="page"/>
-                  <text variable="page"/>
+                  <choose>
+                    <if variable="page">
+                      <text variable="page"/>
+                    </if>
+                    <else>
+                      <text variable="number"/>
+                    </else>
+                  </choose>
                 </group>
               </else>
             </choose>

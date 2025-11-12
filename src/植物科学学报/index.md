@@ -232,7 +232,7 @@
     <div class="csl-block">Zhang San, Li Si. The past and future of Chinese psychology[J]. Acta Psychologica Sinica</div>
   </div>
   <div class="csl-entry">[9]	Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. <i>Exp. Psychol.</i>, 2019.</div>
-  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements[J]. <i>PLOS ONE</i>, 2019, 14(1).</div>
+  <div class="csl-entry">[10]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements[J]. <i>PLOS ONE</i>, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">[11]	张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.
     <div class="csl-block">Zhang San. The past and future of Chinese psychology[J]. Acta Psychologica Sinica, 2008, 40(增刊): 210-215</div>
   </div>
@@ -455,7 +455,7 @@
   <div class="csl-entry">[4]	Goldman C. The complicated calibration of love, especially in adoption[N]. Chicago Tribune, 2018-11-28.</div>
   <div class="csl-entry">[5]	Kalnay E, Kanamitsu M, Kistler R, Collins W, Deaven D, <i>et al.</i> The NCEP/NCAR 40-year reanalysis project[J]. <i>Bull. Am. Meteorol. Soc.</i>, 1996, 77(3): 437-471.</div>
   <div class="csl-entry">[6]	De Vries R, Nieuwenhuijze M, Buitendijk SE, the members of Midwifery Science Work Group. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. <i>Midwifery</i>, 2013, 29(10): 1122-1128.</div>
-  <div class="csl-entry">[7]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements[J]. <i>PLOS ONE</i>, 2019, 14(1).</div>
+  <div class="csl-entry">[7]	Burin D, Kilteni K, Rabuffetti M, Slater M, Pia L. Body ownership increases the interference between observed and executed movements[J]. <i>PLOS ONE</i>, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">[8]	Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. <i>Exp. Psychol.</i>, 2019.</div>
   <div class="csl-entry">[9]	Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. <i>Psychon. Bull. Rev.</i></div>
   <div class="csl-entry">[10]	Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz JJ, Toledano-Muñoz A, Fernández-Heute J, <i>et al.</i> Sensorineural anosmia: Relationship between subtype, recognition time, and age[J]. <i>Clínica y Salud</i>, 2018, 28(3): 155-161.</div>

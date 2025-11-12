@@ -366,7 +366,7 @@
     <div class="csl-block">Zhang S, Li S. Acta Psychologica Sinica</div>
   </div>
   <div class="csl-entry">[9]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Exp. Psychol., 2019.</div>
-  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[10]	BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. PLOS ONE, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">[11]	张三. 心理学报, 2008, 40(增刊): 210-215.
     <div class="csl-block">Zhang S. Acta Psychologica Sinica, 2008, 40(增刊): 210-215</div>
   </div>
@@ -791,7 +791,7 @@
   <div class="csl-entry">[4]	GOLDMAN C. Chicago Tribune, 2018-11-28.</div>
   <div class="csl-entry">[5]	KALNAY E, KANAMITSU M, KISTLER R, COLLINS W, DEAVEN D, GANDIN L, IREDELL M, SAHA S, WHITE G, WOLLEN J, ZHU Y, CHELLIAH M, EBISUZAKI W, HIGGINS W, JANOWIAK J, MO K C, ROPELEWSKI C, WANG J, LEETMA A, AARON A, COURT B B C, JOSEPH D. Bull. Am. Meteorol. Soc., 1996, 77(3): 437-471.</div>
   <div class="csl-entry">[6]	DE VRIES R, NIEUWENHUIJZE M, BUITENDIJK S E, THE MEMBERS OF MIDWIFERY SCIENCE WORK GROUP. Midwifery, 2013, 29(10): 1122-1128.</div>
-  <div class="csl-entry">[7]	BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. PLOS ONE, 2019, 14(1).</div>
+  <div class="csl-entry">[7]	BURIN D, KILTENI K, RABUFFETTI M, SLATER M, PIA L. PLOS ONE, 2019, 14(1): e0209899.</div>
   <div class="csl-entry">[8]	HUESTEGGE S M, RAETTIG T, HUESTEGGE L. Exp. Psychol., 2019.</div>
   <div class="csl-entry">[9]	PACHUR T, SCHEIBEHENNE B. Psychon. Bull. Rev.</div>
   <div class="csl-entry">[10]	CHAVES-MORILLO V, GÓMEZ CALERO C, FERNÁNDEZ-MUÑOZ J J, TOLEDANO-MUÑOZ A, FERNÁNDEZ-HEUTE J, MARTINEZ-MONGE N, PALACIOS-CEÑA D, PEÑACOBA-PUENTE C. Clínica y Salud, 2018, 28(3): 155-161.</div>
