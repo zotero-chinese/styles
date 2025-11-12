@@ -42,7 +42,6 @@
     <terms>
       <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
-      <term name="thesis-en">Doctoral dissertation</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->
@@ -478,7 +477,7 @@
               <text variable="original-genre" text-case="title"/>
             </if>
             <else>
-              <text term="thesis-en" text-case="title"/>
+              <text value="Doctoral Dissertation"/>
             </else>
           </choose>
           <text value="of"/>

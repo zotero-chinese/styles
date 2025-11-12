@@ -21,11 +21,13 @@
     <terms>
       <term name="and">和</term>
       <term name="et-al">et al</term>
+      <term name="and others">等</term>
       <term name="thesis">dissertation</term>
     </terms>
   </locale>
   <locale xml:lang="zh">
     <terms>
+      <term name="and others">et al</term>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
@@ -42,8 +44,6 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="en-et-al">et al</term>
-      <term name="zh-et-al">等</term>
       <term name="edition" form="short">edn.</term>
       <term name="page-range-delimiter">–</term>
       <term name="page" form="short">
@@ -83,13 +83,13 @@
   <macro name="author-bib-translation">
     <names variable="original-author">
       <name/>
-      <et-al term="en-et-al"/>
+      <et-al term="and others"/>
     </names>
   </macro>
   <macro name="author-intext-en">
     <names variable="author">
       <name form="short" and="text"/>
-      <et-al term="zh-et-al"/>
+      <et-al term="and others"/>
     </names>
   </macro>
   <macro name="author-intext-zh">

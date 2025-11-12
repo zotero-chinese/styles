@@ -84,7 +84,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">[11] 丁文详.数字革命与竞争国际化[N].中国青年报,2000-11-20(15).</div>
   <div class="csl-entry">[12] 傅刚,赵承,李佳路.大风沙过后的思考[N].北京青年报,2000-01-12.</div>
   <div class="csl-entry">[13] 顾炎武.昌平山水记：京东考古录[M].北京古籍出版社,1982.</div>
-  <div class="csl-entry">[14] 国家标准局信息分类编码研究所.世界各国和地区名称代码: GB/T 2659—1986[S].中国标准出版社,1988:59~92.</div>
+  <div class="csl-entry">[14] 国家标准局信息分类编码研究所.世界各国和地区名称代码: GB/T 2659—1986[S].全国文献工作标准化委员会主编.文献工作国家标准汇编：3[C].中国标准出版社,1988:59~92.</div>
   <div class="csl-entry">[15] 国家环境保护局科技标准司.土壤环境质量标准: GB 15616—1995[S].中国标准出版社,1996:2~3.</div>
   <div class="csl-entry">[16] 哈里森·沃尔德伦.经济数学与金融数学[M].谢远涛, 译.中国人民大学出版社,2012:235~236.</div>
   <div class="csl-entry">[17] 河北绿洲生态环境科技有限公司.一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P].2001-10-24.</div>
@@ -254,7 +254,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">[2] 杜威·佛克马.走向新世界主义[A].王宁,薛晓源主编.全球化与后殖民批评[C].中央编译出版社,1999:247~266.</div>
   <div class="csl-entry">[3] 方明东.罗隆基政治思想研究（1913—1949）[D].北京师范大学历史系博士学位论文,2000.</div>
   <div class="csl-entry">[4] 费成康.葡萄牙人如何进入澳门问题辨正[J].社会科学,1999,(9):63~67.</div>
-  <div class="csl-entry">[5] 管志道.答屠仪部赤水丈书[M].影印本.齐鲁书社,1997.</div>
+  <div class="csl-entry">[5] 管志道.答屠仪部赤水丈书[M].续问辨牍:第2卷[C].影印本.齐鲁书社,1997.</div>
   <div class="csl-entry">[6] 何龄修.读顾诚〈南明史〉[J].中国史研究,1998,(3):167~173.</div>
   <div class="csl-entry">[7] 黄仁宇.为什么称为“中国大历史”？——中文版自序[A].中国大历史[C].三联书店,1997.</div>
   <div class="csl-entry">[8] 黄义豪.评黄龟年四劾秦桧[J].福建论坛,1997,(3):26~27.</div>
@@ -290,7 +290,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">[38] 佚名.太平御览: 第690卷 服章部七[M].影印本.中华书局,1985.</div>
   <div class="csl-entry">[39] 佚名.荣庆日记[M].西北大学出版社,1986.</div>
   <div class="csl-entry">[40] 佚名.清德宗实录: 第435卷[M].影印本.中华书局,1987.</div>
-  <div class="csl-entry">[41] 佚名.广东通志[M].影印本.中国书店,1992.</div>
+  <div class="csl-entry">[41] 佚名.广东通志[M].稀见中国地方志汇刊:第15卷[C].影印本.中国书店,1992.</div>
   <div class="csl-entry">[42] 佚名.马克思恩格斯全集: 第31卷[M].人民出版社,1998b.</div>
   <div class="csl-entry">[43] 佚名.嘉定县志: 第12卷 风俗[M].</div>
   <div class="csl-entry">[44] 佚名.上海县续志: 第1卷 疆域[M].</div>
@@ -353,8 +353,8 @@ Qian等 （2009a）<br>
   <div class="csl-entry">[44] Anon, 1999, [R], NStZ-RR [C], 185.</div>
   <div class="csl-entry">[45] Anon, 2000, [R], NJW [C], 1560.</div>
   <div class="csl-entry">[46] Anon, 2006, <i>Administrative Procedure Act § 6</i> [R], U.S.C.: Vol. 5 [C].</div>
-  <div class="csl-entry">[47] 佚名.荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[R].2013.</div>
-  <div class="csl-entry">[48] 佚名.陆红霞诉南通市发改委政府信息公开案[R].2015.</div>
+  <div class="csl-entry">[47] 佚名.荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[R].最高人民法院公报[C].2013.</div>
+  <div class="csl-entry">[48] 佚名.陆红霞诉南通市发改委政府信息公开案[R].最高人民法院公报[C].2015.</div>
   <div class="csl-entry">[49] 佚名.法国行政法院网站[EB/OL].[2016a].<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
   <div class="csl-entry">[50] 佚名.榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[R].2017.</div>
   <div class="csl-entry">[51] Anon, [2022a], ジュリスト [EB/OL], <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>

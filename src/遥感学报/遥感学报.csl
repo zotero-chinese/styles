@@ -36,7 +36,7 @@
     </date>
     <terms>
       <term name="and">和</term>
-      <term name="zh-et-al">等</term>
+      <term name="and others">等</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -92,7 +92,7 @@
   <macro name="author-intext-en">
     <names variable="author">
       <name form="short" and="text"/>
-      <et-al term="zh-et-al"/>
+      <et-al term="and others"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

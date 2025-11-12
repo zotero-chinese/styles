@@ -23,7 +23,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="zh-et-al">et al</term>  <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -64,7 +64,7 @@
           <name et-al-min="4" et-al-use-first="3" initialize="false" sort-separator=",  ">
             <name-part name="family" text-case="uppercase"/>
           </name>
-          <et-al term="zh-et-al"/>
+          <et-al term="and others"/>
         </names>
       </if>
       <else>

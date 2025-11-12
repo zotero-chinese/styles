@@ -83,7 +83,7 @@
 <sup>20</sup> 陈晋镳等：《蓟县震旦亚界的研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版。<br>
 <sup>21</sup> 马克思：《政治经济学批判》，马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，人民出版社2013年版。<br>
 <sup>22</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，国家图书馆出版社2011年版。<br>
-<sup>23</sup> L. Weinstein &#38; M. N. Swartz, “Pathogenic Properties of Invading Microorganisms”, in Sodeman, William A., Jr. and Sodeman, William A. (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974.<br>
+<sup>23</sup> L. Weinstein &#38; M. N. Swartz, “Pathogenic Properties of Invading Microorganisms”, in William A. Sodeman Jr. and William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974.<br>
 <sup>24</sup> J. Alan Roberson &#38; Eric G. Burneson, “Drinking Water Standards, Regulations, and Goals”, in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011.<br>
 <sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，中华医学会湖北分会1984年版。<br>
 <sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京图书馆1957年版。<br>
@@ -211,12 +211,12 @@
 <sup>12</sup> 张三：《心理学史》，未名出版社2008年版。<br>
 <sup>13</sup> 张三主编：《心理学史》，未名出版社2008年版。<br>
 <sup>14</sup> Jewelle Taylor Gibbs &#38; Larke Nahme Huang (eds.), <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
-<sup>15</sup> Pierre-Simon Laplace, <i>A Philosophical Essay on Probabilities</i>, Truscott, F. W. &#38; Emory, F. L. (trans.), Dover, 1951.<br>
+<sup>15</sup> Pierre-Simon Laplace, <i>A Philosophical Essay on Probabilities</i>, F. W. Truscott &#38; F. L. Emory (trans.), Dover, 1951.<br>
 <sup>16</sup> [无] 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，未名出版社1951年版。<br>
-<sup>17</sup> Roberta Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections”, in Freksa, C., Habel, C., and Wender, K. F. (eds.), <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998.<br>
-<sup>18</sup> Deng Feng Wang &#38; Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality”, in Wang, Deng Feng and Hou, Yu Bo (eds.), <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004.<br>
+<sup>17</sup> Roberta Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections”, in C. Freksa, C. Habel, and K. F. Wender (eds.), <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998.<br>
+<sup>18</sup> Deng Feng Wang &#38; Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality”, in Deng Feng Wang and Yu Bo Hou (eds.), <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004.<br>
 <sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》，王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京大学出版社2004年版。<br>
-<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation”, in Bornstein, M. F. (ed.), <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993.<br>
+<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation”, in M. F. Bornstein (ed.), <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993.<br>
 <sup>21</sup> Kenneth L. Lichstein &#38; Ronald S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs”, in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden, 1990.<br>
 <sup>22</sup> Cheryl B. Lanktree &#38; John N. Briere, “Early Data on the Trauma Symptom Checklist for Children (TSC-C)”, San Diego, CA, 1991.<br>
 <sup>23</sup> John Ruby &#38; Cain Fulton, “Beyond Redlining: Editing Software That Works”, Washington, DC, 1993.<br>
@@ -282,9 +282,9 @@
 <sup>42</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。<br>
 <sup>43</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
 <sup>44</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>45</sup> Marco Polo, <i>The Travels of Marco Polo</i>, Marsden, William (trans.), Hertfordshire: Cumberland House, 1997.<br>
+<sup>45</sup> Marco Polo, <i>The Travels of Marco Polo</i>, William Marsden (trans.), Hertfordshire: Cumberland House, 1997.<br>
 <sup>46</sup> Heath B. Chamberlain, “On the Search for Civil Society in China”, in <i>Modern China</i>, Vol. 19, No.2 (April 1993), pp.199-215.<br>
-<sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England”, in Rotberg, R. I. and Rabb, T. K. (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983.<br>
+<sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England”, in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983.<br>
 <sup>48</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
 
 
@@ -337,8 +337,8 @@
 <sup>41</sup> 《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年版。<br>
 <sup>42</sup> Barbara Ward, “Progress for a Small Planet”, in <i>Harvard Business Review</i>, No.Sep.-Oct. (1979), p.89.<br>
 <sup>43</sup> Andrew Rosenthal, “White House Tutors Kremlin in How a Presidency Works”, in <i>New York Times</i> (June 1990), p.A1.<br>
-<sup>44</sup> Jürgen Habermas, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, Rehg, William (trans.), MIT Press, 1996.<br>
-<sup>45</sup> Jamie Horsley, “Rule of Law in China: Incremental Progress”, in Bergsten, C. Fred, Gill, Bates, Lardy, Nicholas R., and Mitchell, Derek (eds.), <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.<br>
+<sup>44</sup> Jürgen Habermas, <i>Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy</i>, William Rehg (trans.), MIT Press, 1996.<br>
+<sup>45</sup> Jamie Horsley, “Rule of Law in China: Incremental Progress”, in C. Fred Bergsten, Bates Gill, Nicholas R. Lardy, and Derek Mitchell (eds.), <i>China: The Balance Sheet</i>, Public Affairs Press, 2006.<br>
 <sup>46</sup> <i>Department of Transportation Act</i>, vol. 80, 1966.<br>
 <sup>47</sup> <i>Administrative Procedure Act § 6</i>, vol. 5, 2006.<br>
 <sup>48</sup> <i>Natural Resources Defense Council <span style="font-style:normal;">v.</span> Gorsuch</i>, vol. 685, 1982.<br>
@@ -360,7 +360,7 @@
 <sup>64</sup> Claus Roxin, <i>Strafrecht Allgemeiner Teil</i>, vol. 1, C. H. Beck, 2006.<br>
 <sup>65</sup> Ralf Dreier &#38; Stanley Paulson (eds.), <i>Rechtsphilosophie Studienausgabe</i>, Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.<br>
 <sup>66</sup> Martin Schwab, in <i>Münchener Kommentar BGB</i>, 2013.<br>
-<sup>67</sup> Arthur Kaufmann, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, in Baumann, Jürgen (ed.), <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.<br>
+<sup>67</sup> Arthur Kaufmann, “Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht”, in Jürgen Baumann (ed.), <i>Das Abtreibungsverbot des § 218 StGB</i>, 1972.<br>
 <sup>68</sup> Claus-Wilhelm Canaris, “Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen”, 1990.<br>
 <sup>69</sup> <i>StGB</i>.<br>
 <sup>70</sup> <i>StPO</i>.<br>
@@ -398,7 +398,7 @@
 <sup>8</sup> Sujata M. Huestegge, Tim Raettig, &#38; Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing”, in <i>Experimental Psychology</i> (2019).<br>
 <sup>9</sup> T. Pachur &#38; B. Scheibehenne, “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach”, in <i>Psychonomic Bulletin &#38; Review</i>.<br>
 <sup>10</sup> V. Chaves-Morillo et al., “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age”, in <i>Clínica y Salud</i>, Vol. 28, No.3 (2018), pp.155-161.<br>
-<sup>11</sup> J. Piaget, “Intellectual Evolution from Adolescence to Adulthood”, Bliss, J. &#38; Furth, H. (trans.), in <i>Human Development</i>, Vol. 15, No.1 (1972), pp.1-12.<br>
+<sup>11</sup> J. Piaget, “Intellectual Evolution from Adolescence to Adulthood”, J. Bliss &#38; H. Furth (trans.), in <i>Human Development</i>, Vol. 15, No.1 (1972), pp.1-12.<br>
 <sup>12</sup> M. F. Shore, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, in <i>American Journal of Orthopsychiatry</i>, Vol. 84, No.6 (2014), pp.611-618.<br>
 <sup>13</sup> “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States”, in <i>American Journal of Orthopsychiatry</i>, Vol. 51, No.3 (1981), pp.391-402.<br>
 <sup>14</sup> S. O. Lilienfeld (ed.), <i>Archives of Scientific Psychology</i>, vol. 6, 2018.<br>
@@ -424,8 +424,8 @@
 <sup>34</sup> K. F. Pridham, R. Limbo, &#38; M. Schroeder (eds.), <i>Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children and Adolescents</i>, Springer Publishing Company, 2018.<br>
 <sup>35</sup> N. Amano &#38; H. Kondo, <i>Lexical Characteristics of Japanese Language</i>, vol. 7, Sansei-do, 2000.<br>
 <sup>36</sup> J. Piaget &#38; B. Inhelder, <i>The Psychology of the Child</i>, Quadrige, 1966.<br>
-<sup>37</sup> J. Piaget &#38; B. Inhelder, <i>The Psychology of the Child</i>, Weaver, H. (trans.), Basic Books, 1969.<br>
-<sup>38</sup> S. Freud, <i>The Interpretation of Dreams: The Complete and Definitive Text</i>, Strachey, J. (trans.), Basic Books, 2010.<br>
+<sup>37</sup> J. Piaget &#38; B. Inhelder, <i>The Psychology of the Child</i>, H. Weaver (trans.), Basic Books, 1969.<br>
+<sup>38</sup> S. Freud, <i>The Interpretation of Dreams: The Complete and Definitive Text</i>, J. Strachey (trans.), Basic Books, 2010.<br>
 <sup>39</sup> J. K. Rowling, <i>Harry Potter and the Sorceror’s Stone</i>, Pottermore Publishing, 2015.<br>
 <sup>40</sup> S. T. Fiske, D. T. Gilbert, &#38; G. Lindzey, <i>Handbook of Social Psychology</i>, vol. 1, John Wiley &#38; Sons, 2010.<br>
 <sup>41</sup> C. B. Travis &#38; J. W. White (eds.), <i>APA Handbook of the Psychology of Women</i>, vol. 1, American Psychological Association, 2018.<br>
@@ -437,21 +437,21 @@
 <sup>47</sup> E. N. Zalta (ed.), <i>The Stanford Encyclopedia of Philosophy</i>, Stanford University, 2019.<br>
 <sup>48</sup> M. Gold (ed.), <i>The Complete Social Scientist: A Kurt Lewin Reader</i>, American Psychological Association, 1999.<br>
 <sup>49</sup> <i>King James Bible</i>, King James Bible Online, 2017.<br>
-<sup>50</sup> <i>The Qur’an</i>, Abdel Haleem, M. A. S. (trans.), Oxford University Press, 2004.<br>
+<sup>50</sup> <i>The Qur’an</i>, M. A. S. Abdel Haleem (trans.), Oxford University Press, 2004.<br>
 <sup>51</sup> <i>The Torah: The Five Books of Moses</i>, The Jewish Publication Society, 2015.<br>
-<sup>52</sup> Aristotle, <i>Poetics</i>, Butcher, S. H. (trans.), The Internet Classics Archive, 1994.<br>
+<sup>52</sup> Aristotle, <i>Poetics</i>, S. H. Butcher (trans.), The Internet Classics Archive, 1994.<br>
 <sup>53</sup> W. Shakespeare, <i>Much Ado about Nothing</i>, Washington Square Press, 1995.<br>
-<sup>54</sup> K. F. Balsam et al., “Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People”, in Iwamasa, G. Y. and Hays, P. A. (eds.), <i>Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision</i>, American Psychological Association, 2019.<br>
-<sup>55</sup> R. Weinstock, G. B. Leong, &#38; J. A. Silva, “Defining Forensic Psychiatry: Roles and Responsibilities”, in Rosner, R. (ed.), <i>Principles and Practise of Forensic Psychiatry</i>, CRC Press, 2003.<br>
-<sup>56</sup> N. Tafoya &#38; A. Del Vecchio, “Back to the Future: An Examination of the Native American Holocaust Experience”, in McGoldrick, M., Giordano, J., and Garcia-Preto, N. (eds.), <i>Ethnicity and Family Therapy</i>, Guilford Press, 2005.<br>
-<sup>57</sup> N. Carcavilla González, “Auditory Sensory Therapy: Brain Activation through Music”, in Garcia Meilán, J. J. (ed.), <i>Guía Práctica de Terapias Estimulativas En El Alzhéimer</i>, Editorial Síntesis, 2015.<br>
-<sup>58</sup> M. Heidegger, “On the Essence of Truth”, Sallis, J. (trans.), in Krell, D. F. (ed.), <i>Basic Writings</i>, Harper Perennial Modern Thought, 2008.<br>
-<sup>59</sup> C. Sacchett &#38; G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, in Balota, D. A. and Marsh, E. J. (eds.), <i>Cognitive Psychology: Key Readings in Cognition</i>, Psychology Press, 2004.<br>
+<sup>54</sup> K. F. Balsam et al., “Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People”, in G. Y. Iwamasa and P. A. Hays (eds.), <i>Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision</i>, American Psychological Association, 2019.<br>
+<sup>55</sup> R. Weinstock, G. B. Leong, &#38; J. A. Silva, “Defining Forensic Psychiatry: Roles and Responsibilities”, in R. Rosner (ed.), <i>Principles and Practise of Forensic Psychiatry</i>, CRC Press, 2003.<br>
+<sup>56</sup> N. Tafoya &#38; A. Del Vecchio, “Back to the Future: An Examination of the Native American Holocaust Experience”, in M. McGoldrick, J. Giordano, and N. Garcia-Preto (eds.), <i>Ethnicity and Family Therapy</i>, Guilford Press, 2005.<br>
+<sup>57</sup> N. Carcavilla González, “Auditory Sensory Therapy: Brain Activation through Music”, in J. J. Garcia Meilán (ed.), <i>Guía Práctica de Terapias Estimulativas En El Alzhéimer</i>, Editorial Síntesis, 2015.<br>
+<sup>58</sup> M. Heidegger, “On the Essence of Truth”, J. Sallis (trans.), in D. F. Krell (ed.), <i>Basic Writings</i>, Harper Perennial Modern Thought, 2008.<br>
+<sup>59</sup> C. Sacchett &#38; G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, in D. A. Balota and E. J. Marsh (eds.), <i>Cognitive Psychology: Key Readings in Cognition</i>, Psychology Press, 2004.<br>
 <sup>60</sup> C. Sacchett &#38; G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts”, in <i>Cognitive Neuropsychology</i>, Vol. 9, No.1 (1992), pp.73-86.<br>
-<sup>61</sup> U. Bronfenbrenner, “The Social Ecology of Human Development: A Retrospective Conclusion”, in Bronfenbrenner, U. (ed.), <i>Making Human Beings Human: Bioecological Perspectives on Human Development</i>, SAGE Publications, 2005.<br>
+<sup>61</sup> U. Bronfenbrenner, “The Social Ecology of Human Development: A Retrospective Conclusion”, in U. Bronfenbrenner (ed.), <i>Making Human Beings Human: Bioecological Perspectives on Human Development</i>, SAGE Publications, 2005.<br>
 <sup>62</sup> F. Richardson (ed.), <i>Brain and Intelligence: The Ecology of Child Development</i>, National Educational Press, 1973.<br>
-<sup>63</sup> S. Goldin-Meadow, “Gesture and Cognitive Development”, in Liben, L. S. and Mueller, U. (eds.), <i>Handbook of Child Psychology and Developmental Science</i>, John Wiley &#38; Sons, 2015.<br>
-<sup>64</sup> K. Lewin, “Group Decision and Social Change”, in Gold, M. (ed.), <i>The Complete Social Scientist: A Kurt Lewin Reader</i>, American Psychological Association, 1999.<br>
+<sup>63</sup> S. Goldin-Meadow, “Gesture and Cognitive Development”, in L. S. Liben and U. Mueller (eds.), <i>Handbook of Child Psychology and Developmental Science</i>, John Wiley &#38; Sons, 2015.<br>
+<sup>64</sup> K. Lewin, “Group Decision and Social Change”, in M. Gold (ed.), <i>The Complete Social Scientist: A Kurt Lewin Reader</i>, American Psychological Association, 1999.<br>
 <sup>65</sup> American Psychological Association, <i>Positive Transference</i>.<br>
 <sup>66</sup> Merriam-Webster, <i>Self-Report</i>.<br>
 <sup>67</sup> G. Graham, <i>Behaviorism</i>, Stanford University, 2019.<br>

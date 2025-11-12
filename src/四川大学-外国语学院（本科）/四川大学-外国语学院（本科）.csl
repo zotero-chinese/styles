@@ -24,7 +24,7 @@
       <date-part name="year"/>
     </date>
     <terms>
-      <term name="no-date" form="short">n.d.</term>
+      <term name="no date" form="short">n.d.</term>
       <term name="no-publisher" form="short">n.p.</term>
       <term name="month-01" form="short">Jan.</term>
       <term name="month-02" form="short">Feb.</term>
@@ -58,7 +58,7 @@
   </locale>
   <locale>
     <terms>
-      <term name="en-et-al">et al.</term>
+      <term name="and others">et al.</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -86,7 +86,7 @@
       </names>
       <names variable="original-author" prefix="(" suffix=")">
         <name name-as-sort-order="first" and="text" delimiter-precedes-last="never" delimiter-precedes-et-al="never" initialize="false"/>
-        <et-al term="en-et-al"/>
+        <et-al term="and others"/>
         <substitute>
           <text variable="original-title"/>
         </substitute>
@@ -498,7 +498,7 @@
             <date variable="issued" form="text"/>
           </if>
           <else>
-            <text term="no-date" form="short" text-case="capitalize-first"/>
+            <text term="no date" form="short" text-case="capitalize-first"/>
           </else>
         </choose>
       </else-if>
@@ -680,7 +680,7 @@
     <layout prefix="(" suffix=")" delimiter="; " locale="zh">
       <group delimiter=" ">
         <choose>
-          <if variable="locale">
+          <if variable="locator">
             <text macro="author-short-zh"/>
             <text variable="locator"/>
           </if>
@@ -694,7 +694,7 @@
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=" ">
         <choose>
-          <if variable="locale">
+          <if variable="locator">
             <text macro="author-short-en"/>
             <text variable="locator"/>
           </if>

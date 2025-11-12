@@ -18,7 +18,7 @@
   </info>
   <locale xml:lang="zh">
     <terms>
-      <term name="en-et-al">et al.</term>
+      <term name="and others">et al.</term>
       <term name="edition" form="short">版</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
@@ -62,7 +62,7 @@
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
-      <et-al term="en-et-al"/>
+      <et-al term="and others"/>
     </names>
   </macro>
   <!-- 题名 -->

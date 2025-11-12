@@ -31,7 +31,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="zh-et-al">et al</term>  <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
     </terms>
   </locale>
   <locale>
@@ -48,8 +48,8 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <et-al font-style="italic"/>
       <name/>
+      <et-al font-style="italic"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -67,10 +67,8 @@
     <choose>
       <if variable="original-author">
         <names variable="original-author">
-          <name et-al-min="6" et-al-use-first="5" initialize="false" sort-separator=",  ">
-            <name-part name="family" text-case=""/>
-          </name>
-          <et-al term="zh-et-al" font-style="italic"/>
+          <name et-al-min="6" et-al-use-first="5" initialize="false" sort-separator=",  "/>
+          <et-al term="and others" font-style="italic"/>
         </names>
       </if>
       <else>

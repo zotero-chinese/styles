@@ -401,7 +401,7 @@
               <text macro="edition"/>
               <text macro="publisher"/>
             </if>
-            <else-if>
+            <else>
               <!-- 4.2 专著中的析出文献 会议论文 -->
               <group delimiter=". ">
                 <group delimiter=". ">
@@ -412,7 +412,7 @@
               </group>
               <text macro="edition"/>
               <text macro="publisher"/>
-            </else-if>
+            </else>
           </choose>
         </else-if>
         <else>

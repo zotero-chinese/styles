@@ -37,8 +37,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="en-et-al">et al.</term>
-      <term name="in-en">in</term>
+      <term name="and others">et al.</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -63,7 +62,7 @@
   <macro name="author-ZHtoEN">
     <names variable="original-author">
       <name/>
-      <et-al term="en-et-al" font-style="italic"/>
+      <et-al term="and others" font-style="italic"/>
     </names>
   </macro>
   <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
@@ -297,7 +296,7 @@
   </macro>
   <macro name="container-booklike-ZHtoEN">
     <group delimiter=": ">
-      <text term="in-en" text-case="capitalize-first"/>
+      <text value="In"/>
       <group delimiter=", ">
         <choose>
           <if variable="original-container-title">

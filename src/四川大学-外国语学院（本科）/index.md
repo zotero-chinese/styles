@@ -34,10 +34,10 @@
 
 ### 引注
 
-(张三 2008)<br>
-张三 (2008)<br>
-(Jason 2008)<br>
-Jason (2008)<br>
+(张三 42)<br>
+张三 (42)<br>
+(Jason 42)<br>
+Jason (42)<br>
 张三和李四 (2008)<br>
 Wang and Sun (2009)<br>
 (Wolchik and West 2009; 赵一和陈二 2008)<br>

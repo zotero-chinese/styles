@@ -222,13 +222,6 @@
         <text macro="issued-year" prefix=", "/>
         <text variable="page" prefix=": "/>
       </else-if>
-      <!-- 英文专著 -->
-      <else-if type="monograph">
-        <text variable="publisher-place" prefix="[M]. " suffix=": "/>
-        <text variable="publisher" suffix=", "/>
-        <text macro="issued-year"/>
-        <text variable="archive_location" prefix=": "/>
-      </else-if>
       <!-- 英文书籍 -->
       <else-if type="book">
         <text variable="publisher-place" prefix="[M]. " suffix=": "/>
@@ -324,13 +317,6 @@
         <text variable="publisher"/>
         <text macro="issued-year" prefix=", "/>
         <text variable="page" prefix=": "/>
-      </else-if>
-      <!-- 中文专著 -->
-      <else-if type="monograph">
-        <text variable="publisher-place" prefix="[M]. " suffix=": "/>
-        <text variable="publisher" suffix=", "/>
-        <text macro="issued-year"/>
-        <text variable="archive_location" prefix=": "/>
       </else-if>
       <!-- 中文书籍 -->
       <else-if type="book">

@@ -149,7 +149,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Baldock, P. (2011). <i>Developing early childhood services: Past, present and future</i>. Open University Press.</div>
   <div class="csl-entry">Bawden, D. (2008, May 4). <i>Origins and concepts of digital literacy</i>. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a></div>
   <div class="csl-entry">Buseck, P. R., Nord, G. L., Jr., &#38; Veblen, D. R. (c1980). Subsolidus phenomena in pyroxenes. In <i>Pyroxenes</i> (pp. 117-211). Mineralogical Society of America.</div>
-  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i> [Doctoral dissertation]. Univ. of California.</div>
+  <div class="csl-entry">Cairns, B. R. (1965). <i>Infrared spectroscopic studies on solid oxygen</i> [Unpublished Doctoral dissertation]. Univ. of California.</div>
   <div class="csl-entry">Calkin, D., Ager, A., &#38; Thompson, M. (2011). <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>.</div>
   <div class="csl-entry">Caplan, P. (1993). Cataloging internet resources. <i>The Public-Access Computer Systems Review, 4</i>(2), 61-66.</div>
   <div class="csl-entry">Chernik, B. E. (1982). <i>Introduction to library services for library technicians</i>. Libraries Unlimited, Inc.</div>
@@ -234,7 +234,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Sadie, S. (Ed.). (1980). <i>The new Grove dictionary of music and musicians</i> (6th Ed.). Macmillan.</div>
   <div class="csl-entry">Wang, D. F., &#38; Cui, H. (2004). Theoretical analysis of the seven factor model of Chinese personality. In D. F. Wang &#38; Y. B. Hou (Eds.), <i>Selected papers on personality and social psychology</i> (pp. 46-84). Peking University Press.</div>
   <div class="csl-entry">Wolchik, S. A., West, S. G., Sandler, I. N., Tein, J. Y., Coatsworth, D., Lengua, L., Weiss, L., Anderson, E. R., Greene, S. M., &#38; Griffin, W. A. (2000). An experimental evaluation of theory-based mother and mother-child programs for children of divorce. <i>Journal of Consulting and Clinical Psychology, 68</i>(5), 843-856.</div>
-  <div class="csl-entry">Yu, L. (2000). <i>Phonological representation and processing in Chinese spoken language production</i> [Unpublished doctorial dissertation]. Beijing Normal University.</div>
+  <div class="csl-entry">Yu, L. (2000). <i>Phonological representation and processing in Chinese spoken language production</i> [Unpublished Unpublished doctorial dissertation]. Beijing Normal University.</div>
   <div class="csl-entry">（1986）。《现代汉语频率词典》。北京语言学院出版社。</div>
 </div>
 
@@ -355,7 +355,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Poisson, M. (2015b). Le droit de la mer. In <i>Le droit des Océans</i> (pp. 12-48).</div>
   <div class="csl-entry">Poisson, M. (2016a). <i>Le droit de la mer en Méditerranée</i>. Congrès de Marseille.</div>
   <div class="csl-entry">Poisson, M. (2016b). <i>Le droit de la mer en Méditerranée</i>.</div>
-  <div class="csl-entry">Poisson, M. (2016c). <i>Le droit de la mer appliqué à la Méditerranée</i> [Thèse de doctorat]. l’Université de Marseille.</div>
+  <div class="csl-entry">Poisson, M. (2016c). <i>Le droit de la mer appliqué à la Méditerranée</i> [Unpublished Thèse de doctorat]. l’Université de Marseille.</div>
   <div class="csl-entry">Reich, C. A. (1964). The new property. <i>Yale Law Journal, 73</i>(5), 733-787. <a href="https://doi.org/10.2307/794645">https://doi.org/10.2307/794645</a></div>
   <div class="csl-entry">Rosenthal, A. (1990, June 15). White House tutors Kremlin in how a presidency works. <i>New York Times</i>, A1. <a href="https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html">https://www.nytimes.com/1990/06/15/world/white-house-tutors-kremlin-in-how-a-presidency-works.html</a></div>
   <div class="csl-entry">Roxin, C. (2006). <i>Strafrecht Allgemeiner Teil</i> (4th Ed.). C. H. Beck.</div>
@@ -462,7 +462,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
   <div class="csl-entry">Graham, G. (2019). Behaviorism. In E. N. Zalta (Ed.), <i>The Stanford encyclopedia of philosophy</i>. Stanford University.</div>
   <div class="csl-entry">Guarino, B. (2017, Dec. 4). How will humanity react to alien life? Psychologists have some predictions. <i>The Washington Post</i>. <a href="https://www.washingtonpost.com/news/speaking-of-science/wp/2017/12/04/how-will-humanity-react-to-alien-life-psychologists-have-some-predictions">https://www.washingtonpost.com/news/speaking-of-science/wp/2017/12/04/how-will-humanity-react-to-alien-life-psychologists-have-some-predictions</a></div>
   <div class="csl-entry">Hacker Hughes, J. (Ed.). (2017). <i>Military veteran psychological health and social care: Contemporary approaches</i>. Routledge.</div>
-  <div class="csl-entry">Harris, L. (2014). <i>Instructional leadership perceptions and practices of elementary school leaders</i> [Unpublished doctoral dissertation]. University of Virginia.</div>
+  <div class="csl-entry">Harris, L. (2014). <i>Instructional leadership perceptions and practices of elementary school leaders</i> [Unpublished Unpublished doctoral dissertation]. University of Virginia.</div>
   <div class="csl-entry">Harwell, M. (2018). <i>Don’t expect too much: The limited usefulness of common SES measures and a prescription for change</i>. National Education Policy Center.</div>
   <div class="csl-entry">Heidegger, M. (2008). On the essence of truth. In D. F. Krell (Ed.), <i>Basic writings</i> (pp. 111-138). Harper Perennial Modern Thought.</div>
   <div class="csl-entry">Hess, A. (2019, Jan. 3). Cats who take direction. <i>The New York Times</i>, C1.</div>

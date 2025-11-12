@@ -12,9 +12,9 @@
     </author>
     <category citation-format="numeric"/>
     <category field="science"/>
+    <summary>1. 无 DOI，间隔符号除了点之外，其余后面都无空格；2. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。original-author: Qi || Wen Chao才能显示为Qi W C)。</summary>
     <updated>2025-10-01T16:05:38+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <summary>1. 无 DOI，间隔符号除了点之外，其余后面都无空格；2. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。original-author: Qi || Wen Chao才能显示为Qi W C)。</summary>
   </info>
   <locale xml:lang="zh">
     <terms>
@@ -23,7 +23,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="zh-et-al">et al</term>  <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
     </terms>
   </locale>
   <locale>
@@ -61,7 +61,7 @@
           <name initialize="true" initialize-with=" " sort-separator=",  ">
             <name-part name="family" text-case="title"/>
           </name>
-          <et-al term="zh-et-al"/>
+          <et-al term="and others"/>
         </names>
       </if>
       <else>

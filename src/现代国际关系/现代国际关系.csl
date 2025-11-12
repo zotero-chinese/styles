@@ -20,6 +20,11 @@
   <!-- 西文编者、译者、页码以及日期设定 -->
   <locale xml:lang="en">
     <style-options punctuation-in-quote="true"/>
+    <date form="text">
+      <date-part name="month" suffix=" "/>
+      <date-part name="day" suffix=", "/>
+      <date-part name="year"/>
+    </date>
     <terms>
       <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
       <term name="editor" form="short">
@@ -34,15 +39,6 @@
         <single>p. </single>
         <multiple>pp. </multiple>
       </term>
-      <term name="locator" form="short">
-        <single>p. </single>
-        <multiple>pp. </multiple>
-      </term>
-      <date form="text">
-        <date-part name="month" suffix=" "/>
-        <date-part name="day" suffix=", "/>
-        <date-part name="year"/>
-      </date>
     </terms>
   </locale>
   <!-- 中文相同文献、页码设置、出版时间空缺设定 -->
@@ -694,10 +690,10 @@
     <sort>
       <key variable="author"/>
     </sort>
-    <layout locale="en" delimiter="; ">
+    <layout locale="en">
       <text macro="en-layout" suffix="."/>
     </layout>
-    <layout delimiter="；">
+    <layout>
       <text macro="zh-layout" suffix="。"/>
     </layout>
   </bibliography>

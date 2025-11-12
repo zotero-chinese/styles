@@ -645,7 +645,7 @@
           <text macro="title-zh"/>
           <text macro="publisher-zh"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title-zh" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-zh"/>
           <text macro="secondary-contributors"/>

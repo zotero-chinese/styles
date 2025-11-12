@@ -30,8 +30,7 @@
         <multiple>pp.</multiple>
       </term>
       <term name="page-range-delimiter">-</term>
-      <term name="space-et-al">等</term>
-      <term name="zh-et-al">et al</term>
+      <term name="and others">et al</term>
     </terms>
   </locale>
   <locale xml:lang="en">
@@ -41,8 +40,7 @@
         <single>pp.</single>
         <multiple>pp.</multiple>
       </term>
-      <term name="space-et-al">et al.</term>
-      <term name="zh-et-al">et al</term>
+      <term name="and others">et al.</term>
     </terms>
   </locale>
   <macro name="author">
@@ -67,7 +65,7 @@
           <name et-al-min="4" et-al-use-first="3" initialize="true" initialize-with=" " sort-separator=",  ">
             <name-part name="family" text-case="uppercase"/>
           </name>
-          <et-al term="zh-et-al"/>
+          <et-al term="and others"/>
         </names>
       </if>
       <else>
@@ -93,7 +91,7 @@
         <names variable="author">
           <name and="text"/>
           <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-          <et-al term="space-et-al"/>
+          <et-al term="and others"/>
         </names>
       </if>
       <else>

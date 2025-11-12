@@ -26,7 +26,7 @@
   <locale xml:lang="zh">
     <terms>
       <term name="edition" form="short">版</term>
-      <term name="en-et-al">et al.</term>
+      <term name="and others">et al.</term>
       <term name="in">见</term>
       <term name="in press">已接受</term>
       <term name="patent">专利</term>
@@ -46,7 +46,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="en-et-al">et al.</term>
+      <term name="and others">et al.</term>
       <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">–</term>
     </terms>
@@ -70,7 +70,7 @@
   <macro name="author-ZHtoEN">
     <names variable="original-author">
       <name/>
-      <et-al term="en-et-al"/>
+      <et-al term="and others"/>
     </names>
   </macro>
   <!-- 题名 -->

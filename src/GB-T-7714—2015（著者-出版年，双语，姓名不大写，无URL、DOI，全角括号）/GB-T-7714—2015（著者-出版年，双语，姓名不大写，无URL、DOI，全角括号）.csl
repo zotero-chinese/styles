@@ -31,7 +31,7 @@
     <terms>
       <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
-      <term name="space-et-al"> 等</term>
+      <term name="and others"> 等</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -45,7 +45,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="space-et-al">et al.</term>
+      <term name="and others">et al.</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -88,7 +88,7 @@
     <names variable="author">
       <name and="text"/>
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
-      <et-al term="space-et-al"/>
+      <et-al term="and others"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

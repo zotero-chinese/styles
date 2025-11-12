@@ -281,9 +281,9 @@
               <if type="standard">
                 <text macro="issued-date"/>
               </if>
-              <else-if>
+              <else>
                 <text macro="issued-year"/>
-              </else-if>
+              </else>
             </choose>
           </group>
           <text variable="page" prefix=""/>

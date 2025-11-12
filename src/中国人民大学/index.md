@@ -30,7 +30,7 @@
   <div class="csl-entry">马怀德，“公务法人问题研究”，劳凯声，《中国教育法制评论》，北京，教育科学出版社，2002，31～42。</div>
   <div class="csl-entry">王常委，“评家用汽车热销”（非出版物），中国人民大学红楼，1996。</div>
   <div class="csl-entry">王常委，1996年10月12日，“汽车”，评家用汽车热销，互联网，<a href="https://doi.org/writin-dev-h@mailbase.ac.uk">writin-dev-h@mailbase.ac.uk</a>，2001年5月4日。</div>
-  <div class="csl-entry">温晓莉，“论知识经济社会微观公共权力的法律规则”，《法学》，2001年第十二期，11～16页。</div>
+  <div class="csl-entry">温晓莉，“论知识经济社会微观公共权力的法律规则”，《法学》，2001年第12期，11～16页。</div>
   <div class="csl-entry">CIA, “Australia”, In: <i>World Factbook</i>. [Online], 1997, Available at <a href="http://www.odci.gov/cia/publications/factbook/index.html">http://www.odci.gov/cia/publications/factbook/index.html</a> [January 14, 1999].</div>
   <div class="csl-entry">Gellhorn, E. and B. B. Boyer, <i>Administrative Law and Process in a Nutshell</i>, West Publishing Company, 1959.</div>
   <div class="csl-entry">Janet, S., “Essay Writing:Fred Astaire&#38; Gene Kelly”, 1999, Available <a href="https://doi.org/writin-dev-h@mailbase.ac.uk">writin-dev-h@mailbase.ac.uk</a>.</div>
@@ -135,7 +135,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">杨保军，《新闻道德论》（博士学位论文），中国人民大学出版社，2012。</div>
   <div class="csl-entry">杨洪升，“四库馆私家抄校书考略”，《文献》，2013年第一期，56～75页。</div>
   <div class="csl-entry">杨宗英，“电子图书馆的现实模型”，《中国图书馆学报》，1996年第二期，24～29页。</div>
-  <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波，“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报（自然科学版）》，2012年第52卷第十一期，1518～1523页。</div>
+  <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波，“互联网药品可信交易环境中主体资质审核备案模式”，《清华大学学报（自然科学版）》，2012年第52卷第11期，1518～1523页。</div>
   <div class="csl-entry">余建斌，“我们的科技一直在追赶：访中国工程院院长周济”，《人民日报》，2013年1月12日，2版。</div>
   <div class="csl-entry">袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪，“蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口”，《科学通报》，2012年第57卷第34期，3219页。</div>
   <div class="csl-entry">张伯伟，《全唐五代诗格汇考》，南京，江苏古籍出版社，2002。</div>

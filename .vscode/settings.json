@@ -26,7 +26,7 @@
   "xml.format.enforceQuoteStyle": "preferred",
   "xml.format.joinContentLines": true,
   "xml.format.maxLineWidth": 0,
-  "xml.format.preservedNewlines": 1,
+  "xml.format.preservedNewlines": 0,
   "xml.format.spaceBeforeEmptyCloseTag": false,
   "xml.preferences.quoteStyle": "double",
   "xml.fileAssociations": [

@@ -322,7 +322,7 @@
           </if>
           <else>
             <group delimiter=" ">
-              <text term="unpublished" text-case="capitalize-first"/>
+              <text value="Unpublished"/>
               <choose>
                 <if variable="genre">
                   <text variable="genre"/>
