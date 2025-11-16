@@ -1,0 +1,33 @@
+{
+  "dir": "中国冶金",
+  "file": "中国冶金.csl",
+  "style_class": "in-text",
+  "title": "中国冶金",
+  "id": "https://zotero-chinese.com/styles/中国冶金",
+  "link_self": "https://zotero-chinese.com/styles/中国冶金",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI）",
+  "link_documentation": "http://www.chinamet.cn/gyby/gt/CN/item/downloadFile.do?id=17",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "《中国冶金》参考文献著录格式（中文）2024-05-13",
+  "updated": "2025-11-16T18:44:30+08:00",
+  "citations": "<sup>[1-6]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">[1]\tLIAO L, LI H, SHANG W, et al. An empirical study of the impact of hyperparameter tuning and model optimization on the performance properties of deep neural networks[J]. ACM Trans Software Eng Methodol，2022，31(3)：1-40.</div>\n  <div class=\"csl-entry\">[2]\tHU J, LI H, LIU J, et al. Review of intelligent modeling for sintering process under variable operating conditions[J]. Processes，2025，13(1)：180.</div>\n  <div class=\"csl-entry\">[3]\tZHANG J, MA G, YANG Z, et al. Knowledge extraction via machine learning guides a topology‐based permeability prediction model[J]. Water Resour Res，2024，60(7)：e2024WR037124.</div>\n  <div class=\"csl-entry\">[4]\t李福民, 侯炬才, 刘颂, 等. 基于计算机视觉和Re-unet网络的烧结混合料粒度识别模型[J]. 钢铁研究学报，2023，35(11)：1347-1357.（LI F M, HOU J C, LIU S, et al. Particle Size Recognition Model of Sintering Mixture Based on Computer Vision and Re-Unet Network[J]. Journal of Iron and Steel Research，2023，35(11)：1347-1357.）</div>\n  <div class=\"csl-entry\">[5]\t侯炬才. 基于深度学习的铁前原燃料粒度识别及预警模型研究[D]. 唐山：华北理工大学，2025.（HOU J C. Research on Particle Size Recognition and Early Warning Model of Raw Materials and Fuels in Ironmaking Based on Deep Learning[D]. Tangshan：North China University of Science and Technology，2025.）</div>\n  <div class=\"csl-entry\">[6]\t续飞飞, 王晖, 安秀伟, 等. 烧结混合料粒度在线识别研究与应用[J]. 冶金标准化与质量，2024，62(3)：50-56.（XU F F, WANG H, AN X W, et al. Research and Application of Online Recognition of Sintering Mixture Particle Size[J]. Metallurgical Standardization and Quality，2024，62(3)：50-56.）</div>\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "无URL",
+    "无DOI"
+  ]
+}
