@@ -22,7 +22,7 @@
   ],
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.19.7",
+    "@types/node": "^20.19.25",
     "@zotero-chinese/csl-m-schema-rng": "github:zotero-chinese/csl-m-schema-rng",
     "chokidar": "3.5.3",
     "citeproc": "2.4.63",
@@ -30,14 +30,14 @@
     "consola": "^3.4.2",
     "cross-env": "7.0.3",
     "fast-glob": "^3.3.3",
-    "fs-extra": "^11.3.0",
+    "fs-extra": "^11.3.2",
     "ora": "^8.2.0",
     "prettier": "^3.6.2",
     "radash": "^12.1.1",
     "scule": "^1.3.0",
     "tinypool": "^0.8.4",
-    "tsx": "^4.20.3",
-    "typescript": "^5.8.3",
-    "vitepress": "^1.6.3"
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitepress": "^1.6.4"
   }
 }
