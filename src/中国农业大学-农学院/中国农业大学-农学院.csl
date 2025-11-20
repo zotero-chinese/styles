@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" name-delimiter=", " initialize-with=" " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
-    <title>中国农业大学 - 农学院</title>
+    <title>中国农业大学-农学院</title>
     <id>https://zotero-chinese.com/styles/中国农业大学-农学院</id>
     <link href="https://zotero-chinese.com/styles/中国农业大学-农学院" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
-    <link href="http://pgs.swu.edu.cn/viscms/pgsidex/xiazaiqu2384/20210121/520434.html" rel="documentation"/>
+    <link href="https://cab.cau.edu.cn/art/2025/8/1/art_48176_1077837.html" rel="documentation"/>
+    <!--link href="https://www.jipb.net/authors/index.html" rel="documentation"/-->
     <author>
-      <name>郭宇航</name>
+      <name>Yuhang Guo</name>
       <email>22561797+Sherry520@users.noreply.github.com22561797+Sherry520@users.noreply.github.com</email>
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
+    <summary>农学院学位论文参考文献统一按照“Journal of Integrative Plant Biology, JIPB”格式编排</summary>
     <updated>2025-04-19T15:30:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
