@@ -13,4 +13,5 @@ jobs:
     name: 自动修复格式和预览
     uses: zotero-plugin-dev/workflows/.github/workflows/autofix.yml@main
     with:
+      fetch-all: true
       command: pnpm build
