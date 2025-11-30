@@ -47,6 +47,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             你好，@${{ github.event.issue.user.login }}。
-            该问题意见在文档中明确提及，请阅读以下文档以解决此问题：
+            该问题已经在文档中明确提及，请阅读以下文档以解决此问题：
             - [关于 Word 引用的各种问题 - Zotero 中文社区文档](https://zotero-chinese.com/user-guide/faqs/word-addon)
             - [常见问题](https://github.com/zotero-chinese/styles/wiki/FAQ)。
