@@ -1,0 +1,33 @@
+{
+  "dir": "环境科学",
+  "file": "环境科学.csl",
+  "style_class": "in-text",
+  "title": "环境科学",
+  "id": "https://zotero-chinese.com/styles/环境科学",
+  "link_self": "https://zotero-chinese.com/styles/环境科学",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语，姓名不大写，无URL）",
+  "link_documentation": "https://www.hjkx.ac.cn/ch/index.aspx",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "numeric",
+  "field": "engineering",
+  "summary": "《环境科学》格式规范，修复网络首发 [J/OL] 显示问题",
+  "updated": "2025-12-12T17:10:00+08:00",
+  "citations": "<sup>[1-9]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-148 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">[1]\tZhang Y, Wang J, Feng Y. The effects of biochar addition on soil physicochemical properties: A review[J]. CATENA, 2021, <b>202</b>, doi:<a href=\"https://doi.org/10.1016/j.catena.2021.105284\">10.1016/j.catena.2021.105284</a>.</div>\n  <div class=\"csl-entry\">[2]\t江琳琳. 生物炭对土壤微生物多样性和群落结构的影响[D]. 沈阳: 沈阳农业大学, 2016.\n    <div class=\"csl-block\">Jiang L L. Effects of Biochar on Soil Microbial Diversity and Community Structure[D]. Shenyang: Shenyang Agricultural University, 2016.</div>\n  </div>\n  <div class=\"csl-entry\">[3]\tZheng H, Wang X, Chen L, <i>et al.</i> Enhanced growth of halophyte plants in biochar‐amended coastal soil: Roles of nutrient availability and rhizosphere microbial modulation[J]. Plant, Cell &#38; Environment, 2018, <b>41</b>(3): 517-532.</div>\n  <div class=\"csl-entry\">[4]\t陈利荣, 王珍, 张峰举, 等. 典型改良剂对龟裂盐碱土中氮素形态特征及微生物群落的影响[J/OL]. 环境科学, 1-17[2025-11-20], doi: <a href=\"https://doi.org/10.13227/j.hjkx.202506301\">10.13227/j.hjkx.202506301</a>.\n    <div class=\"csl-block\">Chen L R, Wang Z, Zhang F J, <i>et al.</i> Effects of typical amendments on nitrogen forms and microbial community structure in polygonal solonchak[J/OL]. Environmental Science, 1-17[2025-11-20], doi: <a href=\"https://doi.org/10.13227/j.hjkx.202506301\">10.13227/j.hjkx.202506301</a>.</div>\n  </div>\n  <div class=\"csl-entry\">[5]\t戴良香, 丁红, 徐扬, 等. 盐胁迫下配施钙肥对花生根际土壤细菌群落结构的影响[J]. 干旱地区农业研究, 2022, <b>40</b>(4): 41-50.\n    <div class=\"csl-block\">Dai L X, Ding Hong, Xu Yang, <i>et al.</i> Effects of calcium fertilizer application on peanut rhizosphere bacterial community structure under salt stress[J]. Agricultural Research in the Arid Areas, 2022, <b>40</b>(4): 41-50.</div>\n  </div>\n  <div class=\"csl-entry\">[6]\t李新. 不同盐碱程度盐碱土壤微生物多样性研究[D]. 呼和浩特: 内蒙古师范大学, 2015.\n    <div class=\"csl-block\">Li X. Study on Microbial Diversity of Saline-Alkali Soils with Different Degrees of Salinization[D]. Hohhot: Inner Mongolia Normal University, 2015.</div>\n  </div>\n  <div class=\"csl-entry\">[7]\tZhang J, Shen J L. Effects of biochar on soil microbial diversity and community structure in clay soil[J]. Annals of Microbiology, 2022, <b>72</b>(1), doi:<a href=\"https://doi.org/10.1186/s13213-022-01689-1\">10.1186/s13213-022-01689-1</a>.</div>\n  <div class=\"csl-entry\">[8]\t陈薪宇, 胡永庆, 吕俊廷, 等. 生物炭对花椒园土壤细菌群落功能预测的影响及共生网络分析[J/OL]. 环境科学, 1-17[2025-09-16], doi: <a href=\"https://doi.org/10.13227/j.hjkx.202412036\">10.13227/j.hjkx.202412036</a>.\n    <div class=\"csl-block\">Chen X Y, Hu Y Q, Lv J T, <i>et al.</i> [J/OL]. Influence of biochar on the functional prediction of soil bacterial communities in pepper orchards and the analysis of symbiotic networks, 1-17[2025-09-16], doi: <a href=\"https://doi.org/10.13227/j.hjkx.202412036\">10.13227/j.hjkx.202412036</a>.</div>\n  </div>\n  <div class=\"csl-entry\">[9]\t李明, 李忠佩, 刘明, 等. 不同秸秆生物炭对红壤性水稻土养分及微生物群落结构的影响[J]. 中国农业科学, 2015, <b>48</b>(7): 1361-1369.\n    <div class=\"csl-block\">Li M, Li Z P, Liu M, <i>et al.</i> Effects of Different Straw Biochar on Nutrient and Microbial Community Structure of a Red Paddy Soil[J]. Scientia Agricultura Sinica, 2015, <b>48</b>(7): 1361-1369.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI"
+  ]
+}
