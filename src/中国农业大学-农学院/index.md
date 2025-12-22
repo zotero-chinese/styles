@@ -305,18 +305,18 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>崔国斌</b> (2006). 知识产权法官造法批判. 中国法学, 144-164.</div>
   <div class="csl-entry"><b>[德]莱纳·沃尔夫</b> (2012). 风险法的风险. In: 风险规制：德国的理论与实践. 法律出版社.</div>
   <div class="csl-entry"><b>邓小平</b> (1994). 精简机构是一场革命. In: 邓小平文选. 2 edn. 人民出版社.</div>
-  <div class="csl-entry">([日期不详]). 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
+  <div class="csl-entry">([日期不详]c). 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
   <div class="csl-entry"><b>高鸿钧, 程汉大</b> (2013). 英美法原论. 北京大学出版社.</div>
   <div class="csl-entry"><b>国家质量监督检验检疫总局, 中国国家标准化管理委员会</b> (2015). 信息与文献 参考文献著录规则.</div>
-  <div class="csl-entry">(2007a-07-11).</div>
-  <div class="csl-entry">(2007b-07-11).</div>
+  <div class="csl-entry">(2007-07-11).</div>
+  <div class="csl-entry">(2007-07-11).</div>
   <div class="csl-entry">(2018-06-27).</div>
   <div class="csl-entry"><b>何海波</b> (2000). 判决书上网. 法制日报, 2.</div>
   <div class="csl-entry"><b>季卫东</b> (1993). 法律程序的意义：对中国法制建设的另一种思考. 中国社会科学, 83-103.</div>
   <div class="csl-entry"><b>李松锋</b> (2015). 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究. 中国政法大学.</div>
   <div class="csl-entry"><b>罗豪才, 袁曙宏, 李文栋</b> (1993). 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学, 52-59.</div>
   <div class="csl-entry"><b>[美]富勒</b> (2005). 法律的道德性. 商务印书馆.</div>
-  <div class="csl-entry">([日期不详]). 民法总则.</div>
+  <div class="csl-entry">([日期不详]e). 民法总则.</div>
   <div class="csl-entry"><b>欧中坦</b> (1994). 千方百计上京城：清朝的京控. In: 美国学者论中国法律传统. 中国政法大学出版社.</div>
   <div class="csl-entry"><b>瞿同祖</b> (2010). 中国法律与中国社会. 商务印书馆.</div>
   <div class="csl-entry"><b>全国人大常委会</b> (1991). 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定.</div>
@@ -347,7 +347,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Chevallier M.</b> (2003). L’État de droit. 4. Montchrestien, Paris.</div>
   <div class="csl-entry"><b>Dreier R., Paulson S.</b> (2003). Rechtsphilosophie Studienausgabe. 2. UTB Uni-Taschenbücher Verlag, Heidelberg.</div>
   <div class="csl-entry"><b>Fischer T.</b> (2015). Absurdes Spektakel um den Tod. Die Zeit.</div>
-  <div class="csl-entry">([日期不详]). GG.</div>
+  <div class="csl-entry">([日期不详]h). GG.</div>
   <div class="csl-entry"><b>Habermas J.</b> (1996). Between facts and norms: contributions to a discourse theory of law and democracy. MIT Press.</div>
   <div class="csl-entry"><b>Horsley J.</b> (2006). Rule of law in China: incremental progress. In: <i>China: The balance sheet</i>. Public Affairs Press.</div>
   <div class="csl-entry"><b>Kaufmann A.</b> (1972). Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In: <i>Das Abtreibungsverbot des § 218 StGB</i>.  2 edn. .</div>
@@ -361,8 +361,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Rosenthal A.</b> (1990). White House tutors Kremlin in how a presidency works. New York Times, A1.</div>
   <div class="csl-entry"><b>Roxin C.</b> (2006). Strafrecht Allgemeiner Teil. 4. C. H. Beck.</div>
   <div class="csl-entry"><b>Schwab M.</b> (2013). . In: <i>Münchener Kommentar BGB</i>.  6 edn. .</div>
-  <div class="csl-entry">([日期不详]). StGB.</div>
-  <div class="csl-entry">([日期不详]). StPO.</div>
+  <div class="csl-entry">([日期不详]i). StGB.</div>
+  <div class="csl-entry">([日期不详]j). StPO.</div>
   <div class="csl-entry"><b>Vogel B.</b> (2017). Rechtsgüterschutz und Normgeltung. ZStW, <b>129</b>: 629-649.</div>
   <div class="csl-entry"><b>Würdinger M.</b> (2012). Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Jurist. Schul., 234-240.</div>
 </div>
@@ -412,7 +412,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>American Nurses Association</b> (2015). Code of ethics for nurses with interpretive statements.</div>
   <div class="csl-entry"><b>American Psychiatric Association</b> (2013). Diagnostic and statistical manual of mental disorders. 5th. American Psychiatric Association.</div>
   <div class="csl-entry"><b>American Psychological Association</b> (2017). Ethical principles of psychologists and code of conduct.</div>
-  <div class="csl-entry"><b>American Psychological Association</b> ([no date]). APA dictionary of psychology.</div>
+  <div class="csl-entry"><b>American Psychological Association</b> ([no date]a). APA dictionary of psychology.</div>
   <div class="csl-entry"><b>Anderson M.</b> (2018). Getting consistent with consequences. Educ. Leadership, <b>76</b>: 26-33.</div>
   <div class="csl-entry">(2018-06-29).</div>
   <div class="csl-entry"><b>Aristotle</b> (1994). Poetics. The Internet Classics Archive.</div>
@@ -487,7 +487,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>McCauley S.M., Christiansen M.H.</b> (2019). Language learning as language use: A cross-linguistic model of child language development. Psychol. Rev., <b>126</b>: 1-51.</div>
   <div class="csl-entry"><b>Meadows D.H.</b> (2008). Thinking in systems: A primer. Chelsea Green Publishing.</div>
   <div class="csl-entry"><b>Mehrholz J., Pohl M., Platz T., Kugler J., Elsner B.</b> (2018). Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke. Cochrane Db. Syst. Rev.</div>
-  <div class="csl-entry"><b>Merriam-Webster</b> ([no date]). Merriam-Webster.com dictionary.</div>
+  <div class="csl-entry"><b>Merriam-Webster</b> ([no date]a). Merriam-Webster.com dictionary.</div>
   <div class="csl-entry"><b>Mirabito L.A., Heck N.C.</b> (2016). Bringing LGBTQ youth theater into the spotlight. Psychology of Sexual Orientation and Gender Diversity, <b>3</b>: 499-500.</div>
   <div class="csl-entry"><b>Morey M.C.</b> (2019). Physical activity and exercise in older adults. UpToDate.</div>
   <div class="csl-entry">(2018-09-12).</div>
