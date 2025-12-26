@@ -64,17 +64,17 @@
   </macro>
   <!-- 题名 -->
   <macro name="title">
-    <group delimiter="&#8195;">
-      <choose>
-        <if type="standard">
-          <text variable="number"/>
-        </if>
-      </choose>
-      <group delimiter=". ">
+    <group delimiter=". ">
+      <group delimiter="&#8195;">
+        <choose>
+          <if type="standard">
+            <text variable="number"/>
+          </if>
+        </choose>
         <group delimiter="：">
           <text variable="title"/>
           <choose>
-            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference periodical" match="none">
+            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
               <group delimiter="&#8195;">
                 <text macro="volume"/>
                 <text variable="volume-title"/>
@@ -83,17 +83,17 @@
           </choose>
           <choose>
             <if type="article article-journal standard" match="none">
-              <!-- 预印本和期刊文章的编号用于其他位置 -->
+              <!-- 预印本、期刊文章、标准的编号在其他位置 -->
               <text macro="number"/>
             </if>
           </choose>
         </group>
-        <choose>
-          <if type="map">
-            <text variable="scale"/>
-          </if>
-        </choose>
       </group>
+      <choose>
+        <if type="map">
+          <text variable="scale"/>
+        </if>
+      </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="type-id"/>

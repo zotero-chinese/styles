@@ -2025,10 +2025,10 @@
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Marking time in the land of plenty: Reflections on mental health in the United States[J/OL]. American Journal of Orthopsychiatry，1981，51（3）：391-402. DOI:<a href="https://doi.org/10.1111/j.1939-0025.1981.tb01388.x">10.1111/j.1939-0025.1981.tb01388.x</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Lilienfeld S O. Archives of scientific psychology[J]. 6. 2018：51-104.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Lilienfeld S O. Archives of scientific psychology：Heterodox issues in psychology[J]. 6. 2018：51-104.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">McDaniel S H，Salas E，Kazak A E. American psychologist[J]. 73. 2018.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">McDaniel S H，Salas E，Kazak A E. American psychologist：The science of teamwork[J]. 73. 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Mehrholz J，Pohl M，Platz T，et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke[J/OL]. Cochrane Database of Systematic Reviews，2018. DOI:<a href="https://doi.org/10.1002/14651858.CD006876.pub5">10.1002/14651858.CD006876.pub5</a>.</div>
