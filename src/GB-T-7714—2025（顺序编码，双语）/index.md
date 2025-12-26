@@ -56,7 +56,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Li J. [M].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Godard J L. [M].</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Godard J-L. [M].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">钱学森，刘再复. [M].</div>
@@ -782,7 +782,7 @@
     <div class="csl-left-margin">[256]</div><div class="csl-right-inline">Des Marais D J，Strauss H，Summons R E，et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature，1992，359：605-609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[257]</div><div class="csl-right-inline">Park J R，Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly，2010，48（8）：696-715. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a>.</div>
+    <div class="csl-left-margin">[257]</div><div class="csl-right-inline">Park J-R，Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly，2010，48（8）：696-715. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[258]</div><div class="csl-right-inline">Frese K S，Katus H A，Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J/OL]. Biology，2013，2（1）：378-398. <a href="http://www.mdpi.com/2079-7737/2/1/378">http://www.mdpi.com/2079-7737/2/1/378</a>. DOI:<a href="https://doi.org/10.3390/biology2010378">10.3390/biology2010378</a>.</div>
@@ -1422,7 +1422,7 @@
     <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Franz A K，Danielewicz M A，Wong D M，et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J/OL]. ACS Chemical Biology，2013，8：1053-1062. <a href="http://pubs.acs.org/doi/ipdf/10.1021/cb300573r">http://pubs.acs.org/doi/ipdf/10.1021/cb300573r</a>. DOI:<a href="https://doi.org/10.1021/cb300573r">10.1021/cb300573r</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Park J R，Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly，2010，48（8）：696-715. <a href="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</a>. DOI:<a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Park J-R，Tosaka Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly，2010，48（8）：696-715. <a href="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</a>. DOI:<a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[121]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化[N]. 中国青年报，2000-11-20（15）.</div>
@@ -1500,7 +1500,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Gibbs J T，Huang L N. Children of color: Psychological interventions with minority youth[M]. Hoboken, NJ, US：Jossey-Bass，1989.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Laplace P S. A philosophical essay on probabilities[M]. Truscott F W，Emory F L，trans. Dover，1951.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Laplace P-S. A philosophical essay on probabilities[M]. Truscott F W，Emory F L，trans. Dover，1951.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三，李四，译. 北京：未名出版社，1951.</div>
@@ -1920,7 +1920,7 @@
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Baumann J. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C-W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">StGB[A].</div>
@@ -2079,7 +2079,7 @@
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Meadows D H. Thinking in systems: A primer[M]. Chelsea Green Publishing，2008.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Schmid H J. Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge[M/OL]. American Psychological Association; De Gruyter Mouton，2017. DOI:<a href="https://doi.org/10.1037/15969-000">10.1037/15969-000</a>.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Schmid H-J. Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge[M/OL]. American Psychological Association; De Gruyter Mouton，2017. DOI:<a href="https://doi.org/10.1037/15969-000">10.1037/15969-000</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Hacker Hughes J. Military veteran psychological health and social care: Contemporary approaches[M]. Routledge，2017.</div>
@@ -2289,7 +2289,7 @@
     <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A，Sinha R. The effects of stress on physical activity and exercise[PP/OL]. PubMed Central（2015）. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H K. Teacher preparation for early childhood special education in Taiwan[PP/OL]. ERIC（2014）. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H-K. Teacher preparation for early childhood special education in Taiwan[PP/OL]. ERIC（2014）. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A，Wiseheart M. Cognitive effects of music and dance training in children：ICPSR 37080[DS/OL]. VV1. ICPSR2018. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
