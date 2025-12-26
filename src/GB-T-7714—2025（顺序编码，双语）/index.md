@@ -428,13 +428,13 @@
     <div class="csl-left-margin">[138]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Gottenberg W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York：ASME，1971：17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">李妍，王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. 中华预防医学会医院感染控制分会第31次全国医院感染学术年会，2022：2.</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">李妍，王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会，2022：2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)，2022：2. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)，2022：2. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Yu Y，Pan E，Wang X，et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]. CVPR，2024：4. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Yu Y，Pan E，Wang X，et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR，2024：4. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[142]</div><div class="csl-right-inline">王琦. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉：武汉大学，2022：87.</div>
@@ -464,19 +464,19 @@
     <div class="csl-left-margin">[150]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material：PB 91-194001[R]. Springfield：U.S. Department of Commerce National Information Service，1990：25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">GB/T 3792—2021 信息与文献 资源描述[S]. 2021.</div>
+    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">GB/T 3792—2021 信息与文献 资源描述[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[152]</div><div class="csl-right-inline">NB/T 10386—2020 水电工程水温实时监测系统技术规范[S]. 2020.</div>
+    <div class="csl-left-margin">[152]</div><div class="csl-right-inline">NB/T 10386—2020 水电工程水温实时监测系统技术规范[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">GB/T 20090.16—2016 信息技术 先进音视频编码 第16部分：广播电视视频[S/OL]. 2016. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=1D4AC2D455C8DE7E0AA286CA7649300">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=1D4AC2D455C8DE7E0AA286CA7649300</a>.</div>
+    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">GB/T 20090.16—2016 信息技术 先进音视频编码 第16部分：广播电视视频[S/OL]. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=1D4AC2D455C8DE7E0AA286CA7649300">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=1D4AC2D455C8DE7E0AA286CA7649300</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[154]</div><div class="csl-right-inline">ISO 21378:2019 Audit data collection[S]. 2019.</div>
+    <div class="csl-left-margin">[154]</div><div class="csl-right-inline">ISO 21378:2019 Audit data collection[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[155]</div><div class="csl-right-inline">IEC/IEEE 61636-1:2021 Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York：IEEE，2021.</div>
+    <div class="csl-left-margin">[155]</div><div class="csl-right-inline">IEC/IEEE 61636-1:2021 Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[156]</div><div class="csl-right-inline">邓一刚. 全智能节电器：CN200610171314.3[P]. 2008-01-16：8-9.</div>
@@ -509,7 +509,7 @@
     <div class="csl-left-margin">[165]</div><div class="csl-right-inline">António M，Pepper L. Histórias de Portugal: livros caídos[EB/OL]. （2019-07-13）[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[166]</div><div class="csl-right-inline">Zotero. Zotero download[CP/OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
+    <div class="csl-left-margin">[166]</div><div class="csl-right-inline">Zotero. Zotero download[CP/OL]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[167]</div><div class="csl-right-inline">李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事：04-01-35-0399-039[A]. 北京：中国第一历史档案馆，1887.</div>
@@ -800,7 +800,7 @@
     <div class="csl-left-margin">[262]</div><div class="csl-right-inline">Veen P H van der，Muller M，Vincken K L，et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. J Neurol Sci，2014，337（1/2）：112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[263]</div><div class="csl-right-inline">李妍，王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. 中华预防医学会医院感染控制分会第31次全国医院感染学术年会，2022：2.</div>
+    <div class="csl-left-margin">[263]</div><div class="csl-right-inline">李妍，王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会，2022：2.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[264]</div><div class="csl-right-inline">牛志明，Swingland I R，雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京：海洋出版社，2012.</div>
@@ -821,10 +821,10 @@
     <div class="csl-left-margin">[269]</div><div class="csl-right-inline">陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 北京：经济科学出版社，2011. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[270]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)，2022：2. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
+    <div class="csl-left-margin">[270]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)，2022：2. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[271]</div><div class="csl-right-inline">Yu Y，Pan E，Wang X，et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]. CVPR，2024：4. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.</div>
+    <div class="csl-left-margin">[271]</div><div class="csl-right-inline">Yu Y，Pan E，Wang X，et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR，2024：4. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[272]</div><div class="csl-right-inline">Yufin S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam：A. A. Balkema，2000.</div>
@@ -872,25 +872,25 @@
     <div class="csl-left-margin">[286]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R/OL]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[287]</div><div class="csl-right-inline">GB/T 3792—2021 信息与文献 资源描述[S]. 2021.</div>
+    <div class="csl-left-margin">[287]</div><div class="csl-right-inline">GB/T 3792—2021 信息与文献 资源描述[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[288]</div><div class="csl-right-inline">GB/T 20090.16—2016 信息技术 先进音视频编码 第16部分：广播电视视频[S]. 2016.</div>
+    <div class="csl-left-margin">[288]</div><div class="csl-right-inline">GB/T 20090.16—2016 信息技术 先进音视频编码 第16部分：广播电视视频[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[289]</div><div class="csl-right-inline">GB 18030—2022 信息技术  中文编码字符集[S/OL]. 2022. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3</a>.</div>
+    <div class="csl-left-margin">[289]</div><div class="csl-right-inline">GB 18030—2022 信息技术  中文编码字符集[S/OL]. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[290]</div><div class="csl-right-inline">NB/T 10386—2020 水电工程水温实时监测系统技术规范[S]. 2020.</div>
+    <div class="csl-left-margin">[290]</div><div class="csl-right-inline">NB/T 10386—2020 水电工程水温实时监测系统技术规范[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[291]</div><div class="csl-right-inline">ISO 21378:2019 Audit data collection[S]. 2019.</div>
+    <div class="csl-left-margin">[291]</div><div class="csl-right-inline">ISO 21378:2019 Audit data collection[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[292]</div><div class="csl-right-inline">IEC/IEEE 61636-1:2021 Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S]. New York：IEEE，2021.</div>
+    <div class="csl-left-margin">[292]</div><div class="csl-right-inline">IEC/IEEE 61636-1:2021 Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML)[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[293]</div><div class="csl-right-inline">IEEE P802.11ba/D8.0-2020 IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation[S]. New York：IEEE，2020.</div>
+    <div class="csl-left-margin">[293]</div><div class="csl-right-inline">IEEE P802.11ba/D8.0-2020 IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[294]</div><div class="csl-right-inline">AIAA G-136-2022 Guide to lithium battery safety for space applications[S].</div>
@@ -1074,7 +1074,7 @@
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京：民族出版社，2012：112.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">GB/T 25100—2010 信息与文献 都柏林核心元数据元素集[S]. 北京：中国标准出版社，2010：2-3.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">GB/T 25100—2010 信息与文献 都柏林核心元数据元素集[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">徐光宪，王祥云. 物质结构[M]. 北京：科学出版社，2010.</div>
@@ -1185,7 +1185,7 @@
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R/OL]. 2012-01-16. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号[EB/OL]. （2005-07-12）[2011-07-12]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号[EB/OL]. （2005-07-12）. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy[EB/OL]. （2008-05-04）[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -1362,16 +1362,16 @@
     <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Koseki A，Momose H，Kawahito M，et al. Compiler：US828402[P/OL]. 2002-05-25. <a href="http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM">http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">GB/T 3792.4—2009 文献著录：第 4 部分 非书资料[S]. 北京：中国标准出版社，2010：3.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">GB/T 3792.4—2009 文献著录：第 4 部分 非书资料[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">GY/T 202.2—2007 广播电视音像资料编目规范：第 2 部分 广播资料[S]. 北京：国家广播电影电视总局广播电视规划院，2007：1.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">GY/T 202.2—2007 广播电视音像资料编目规范：第 2 部分 广播资料[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">GB 15616—1995 土壤环境质量标准[S/OL]. 北京：中国标准出版社，1996：2-3. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">GB 15616—1995 土壤环境质量标准[S/OL]. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">ISO 15836:2009 Information and documentation—The Dublin Core metadata element set[S/OL]. [2013]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">ISO 15836:2009 Information and documentation—The Dublin Core metadata element set[S/OL]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">卷 39 乞致仕第一[M]//苏魏公文集：下册. 北京：中华书局，1988：590.</div>
@@ -1383,7 +1383,7 @@
     <div class="csl-left-margin">[106]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社，2002：22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">GB/T 2659—1986 世界各国和地区名称代码[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京：中国标准出版社，1988：59-92.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">国家标准局信息分类编码研究所. 世界各国和地区名称代码[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京：中国标准出版社，1988：59-92.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">宋史卷三：本纪第三[M]//宋史：第 1 册. 北京：中华书局，1977：49.</div>
@@ -1521,10 +1521,10 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Lichstein K L，Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]//Reducing medication in geriatric populations. Uppsala, Sweden，1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree C B，Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]. San Diego, CA：Paper presented at the meeting of the American Professional Society on the Abuse of Children，1991.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree C B，Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]//Paper presented at the meeting of the American Professional Society on the Abuse of Children，1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Ruby J，Fulton C. Beyond redlining: Editing software that works[C]. Washington, DC：Poster session presented at the annual meeting of the Society for Scholarly Publishing，1993.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Ruby J，Fulton C. Beyond redlining: Editing software that works[C]//Poster session presented at the annual meeting of the Society for Scholarly Publishing，1993.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990：3209.1[R]. Canberra, Australian Capital Territory：Author，1991.</div>
@@ -1680,7 +1680,7 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系，2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]. 天津：全球化与亚太区域化国际研讨会，2000.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]//全球化与亚太区域化国际研讨会，2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">傅良佐致国务院电：北洋档案 1011—5961[A]. 中国第二历史档案馆，1917-09-15.</div>
@@ -1761,7 +1761,7 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">民法总则[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）[2022-10-17]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">包郑照诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字 7 号[Z].</div>
@@ -1812,28 +1812,28 @@
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2013年修正. （2013-12-28）. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[EB/OL]. （1993-11-12）[2022-10-14]. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[EB/OL]. （1993-11-12）. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[EB/OL]. （1991-09-04）. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）[2022-10-27]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释〔2018〕1号[EB/OL]. （2018-02-06）[2022-10-27]. <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a>.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释〔2018〕1号[EB/OL]. （2018-02-06）. <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知：国发〔2018〕22号[EB/OL]. （2018-06-27）[2023-06-19]. <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a>.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知：国发〔2018〕22号[EB/OL]. （2018-06-27）. <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">GB/T 7714—2015 信息与文献 参考文献著录规则[S]. 2015.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">GB/T 7714—2015 信息与文献 参考文献著录规则[S].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R/OL]. 2013-12-23. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[EB/OL]. （2014-10-23）[2023-06-19]. <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a>.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[EB/OL]. （2014-10-23）. <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[Z]//最高人民法院公报. 2013.</div>
@@ -2025,7 +2025,7 @@
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Marking time in the land of plenty: Reflections on mental health in the United States[J/OL]. American Journal of Orthopsychiatry，1981，51（3）：391-402. DOI:<a href="https://doi.org/10.1111/j.1939-0025.1981.tb01388.x">10.1111/j.1939-0025.1981.tb01388.x</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Lilienfeld S O. Archives of scientific psychology：Heterodox issues in psychology[J]. 6. 2018：51-104.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Lilienfeld S O. Archives of scientific psychology：Heterodox issues in psychology[J]. 6. 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">McDaniel S H，Salas E，Kazak A E. American psychologist：The science of teamwork[J]. 73. 2018.</div>
@@ -2244,22 +2244,22 @@
     <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women[EB/OL]. Sydney, NSW, Australia，（2018-09-27/30）. <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer D，LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]. Portland, OR, United States，2018.</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer D，LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States，2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia，2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment：10289373[D]. University of Wisconsin–Madison，2017.</div>
+    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment：10289373[D]. ProQuest Dissertations and Theses Global / University of Wisconsin–Madison，2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D/OL]. The College of William &#38; Mary，2012. <a href="https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf">https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf</a>.</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Hutcheson V H. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D/OL]. William &#38; Mary Digital Archive，2012. <a href="https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf">https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Mirabito L A，Heck N C. Bringing LGBTQ youth theater into the spotlight[J/OL]. Psychology of Sexual Orientation and Gender Diversity，2016，3（4）：499-500. DOI:<a href="https://doi.org/10.1037/sgd0000205">10.1037/sgd0000205</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Brodsky E. The year we thought about love[Z]. 2016.</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Brodsky E. The year we thought about love[Z]. （2016）.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">Santos F. Reframing refugee children’s stories[N/OL]. The New York Times，2019-01-11. <a href="https://nyt.ms/2Hlgjk3">https://nyt.ms/2Hlgjk3</a>.</div>
@@ -2271,7 +2271,7 @@
     <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL]. （2018-02-01）. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Schur M. Somewhere else[Z]. 2018.</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Schur M. Somewhere else[Z]. （2018）.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Yoo J，Miyamoto Y，Rigotti A，et al. Linking positive affect to blood lipids: A cultural perspective[Z]. Department of Psychology, University of Wisconsin-Madison，2016.</div>
@@ -2307,7 +2307,7 @@
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. Recidivism outcomes[DS]. （2011）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M，Hedges L，Higgins J，et al. Comprehensive meta-analysis[CP/OL]. V3.3.070. Biostat，（2014）. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M，Hedges L，Higgins J，et al. Comprehensive meta-analysis[CP/OL]. （2014）. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[CP/OL]. （2016）. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
@@ -2316,7 +2316,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[CP/OL]. （2015）. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP/OL]. V18.12. App Store，（2019）. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP/OL]. （2019）. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. V18.12. Google Play Store，（2019）. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
@@ -2334,43 +2334,43 @@
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Cardoza D，Morris J K，Myers H F，et al. Acculturative Stress Inventory (ASI)：TC022704[DS]. ETS TestLink（2000）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Forman M. One flew over the cuckoo’s nest[M]. United Artists，1975.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Forman M. One flew over the cuckoo’s nest[M]. （1975）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. American Pychological Association，（2017）. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. （2017）. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Jackson P. The lord of the rings: The fellowship of the ring[M/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company，2001.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Jackson P. The lord of the rings: The fellowship of the ring[M/four-disc special extended ed. on DVD]. （2001）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Malle L. Goodbye children[M]. Nouvelles Éditions de Films，1987.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Malle L. Goodbye children[M]. （1987）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[M]. Blown Deadline Productions; HBO，2002/2008.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[M]. （2002/2008）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Barris K. Lemons：Season 3, Episode 12[M]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios，2017.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Barris K. Lemons：Season 3, Episode 12[M]. （2017-01-11）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Lynch J. Who shot Mr. Burns? (Part One)：Season 6, Episode 25[M]. Gracie Films; Twentieth Century Fox Film Corporation，1995.</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Lynch J. Who shot Mr. Burns? (Part One)：Season 6, Episode 25[M]. （1995-05-21）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Giertz S. Why you should make useless things[EB/OL]. TED Conferences，（2018-04）. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Giertz S. Why you should make useless things[EB/OL]. （2018-04）. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">TED. Brené Brown: Listening to shame[EB/OL]. YouTube，（2012-03-16）. <a href="https://www.youtube.com/watch?v=psN1DORYYV0">https://www.youtube.com/watch?v=psN1DORYYV0</a>.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">TED. Brené Brown: Listening to shame[EB/OL]. （2012-03-16）. <a href="https://www.youtube.com/watch?v=psN1DORYYV0">https://www.youtube.com/watch?v=psN1DORYYV0</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Goldberg J F. Evaluating adverse drug effects[EB/OL]. American Psychiatric Association，（2018）. <a href="https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172">https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172</a>.</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Goldberg J F. Evaluating adverse drug effects[EB/OL]. （2018）. <a href="https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172">https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Cutts S. Happiness[EB/OL]. Vimeo，（2017-11-24）. <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a>.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Cutts S. Happiness[EB/OL]. （2017-11-24）. <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Fogarty M. How to diagram a sentence (absolute basics)[EB/OL]. YouTube，（2016-09-30）. <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a>.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Fogarty M. How to diagram a sentence (absolute basics)[EB/OL]. （2016-09-30）. <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">University of Oxford. How do geckos walk on water?[EB/OL]. YouTube，（2016-12-06）. <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">University of Oxford. How do geckos walk on water?[EB/OL]. （2016-12-06）. <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[130]</div><div class="csl-right-inline">Bach J S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[M]. Decca，2010.</div>
@@ -2379,22 +2379,22 @@
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline">Bowie D. Blackstar[M]. Columbia，2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">van Beethoven L. Symphony No. 3 in E-flat major[M]. Brilliant Classics，2012.</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">van Beethoven L. Symphony No. 3 in E-flat major[M]//Beethoven: Complete Symphonies. Brilliant Classics，2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Beyoncé. Formation[M]. Parkwood; Columbia，2016.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Beyoncé. Formation[M]//Lemonade. Parkwood; Columbia，2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">Childish Gambino. This is America[M]. mcDJ; RCA，2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Lamar K. Humble[M]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment，2017.</div>
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Lamar K. Humble[M]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment，2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Vedantam S. Hidden brain[EB/OL]. NPR，（2015）. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Vedantam S. Hidden brain[EB/OL]. （2015）. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">Glass I. Amusement park：443[EB/OL]. WBEZ Chicago，（2011-08-12）. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">Glass I. Amusement park：443[EB/OL]. （2011-08-12）. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[138]</div><div class="csl-right-inline">de Beauvoir S. Simone de Beauvoir discusses the art of writing[A/OL]. Studs Terkel Radio Archive; The Chicago History Museum，1960-05-04. <a href="https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing">https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</a>.</div>
@@ -2403,16 +2403,16 @@
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">King M L Jr. I have a dream[EB/OL]. American Rhetoric，（1963-08-28）. <a href="https://www.americanrhetoric.com/speeches/mlkihaveadream.htm">https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite[A]. Paris, France：The Louvre，1826/1827.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite[A]. （1826/1827）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic[A/OL]. Chicago, IL, United States：Art Institute of Chicago，1930. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic[A/OL]. （1930）. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[A/OL]. Openclipart，2018. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
+    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[A/OL]. （2018）. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Rossman J，Palmer R. Sorting through our space junk[A/OL]. World Science Festival，2015. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Rossman J，Palmer R. Sorting through our space junk[A/OL]. （2015）. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[144]</div><div class="csl-right-inline">Cable D. The racial dot map[CM/OL]. University of Virginia：Weldon Cooper Center for Public Service，2013. <a href="https://demographics.coopercenter.org/Racial-Dot-Map">https://demographics.coopercenter.org/Racial-Dot-Map</a>.</div>
@@ -2421,10 +2421,10 @@
     <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM/OL]. [2020]. <a href="https://goo.gl/YYE3GR">https://goo.gl/YYE3GR</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">McCurry S. Afghan girl[A/OL]. National Geographic，1985. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
+    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">McCurry S. Afghan girl[A/OL]. （1985）. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. The Pulitzer Prizes，2016. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
+    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. （2016）. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E，Vasilev J. Lecture notes on resource allocation[EB/OL]. Department of Management Control and Information Systems, University of Chile，（2019-05-22）. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
@@ -2547,13 +2547,13 @@
     <div class="csl-left-margin">[187]</div><div class="csl-right-inline">H.R. Rep. No. 114-358[R/OL]. 2015. <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Protection of human subjects[EB/OL]. （2009）. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
+    <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Protection of human subjects[EB/OL]//C.F.R.：v.45. （2009）. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[189]</div><div class="csl-right-inline">Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB/OL]//F.R.：v.81. （2016-05-23）：32391. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Exec. Order No. 13,676[EB/OL]. （2014）：294. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
+    <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Exec. Order No. 13,676[EB/OL]//C.F.R.：v.3. （2014）：294. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[191]</div><div class="csl-right-inline">Hiremath S C，Kumar S，Lu F，et al. Using metaphors to present concepts across different intellectual domains：9,367,592[P/OL]. 2016. <a href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592">http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592</a>.</div>
