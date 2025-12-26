@@ -443,7 +443,7 @@
     <div class="csl-left-margin">[143]</div><div class="csl-right-inline">金燕萍. 社交媒体时代的虚假信息研究[D/OL]. 温州：温州大学，2020：16. <a href="https://d.wanfangdata.com.cn/thesis/D02216281">https://d.wanfangdata.com.cn/thesis/D02216281</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[144]</div><div class="csl-right-inline">井丽南. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京：中国科学院大学，2022：43. <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a>.</div>
+    <div class="csl-left-margin">[144]</div><div class="csl-right-inline">井丽南. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京：中国科学院大学，2022：43. <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a>. CSTR:35001.37.01.33142.20220037.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley：University of California，1965：15.</div>
@@ -554,10 +554,10 @@
     <div class="csl-left-margin">[180]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange（2021）[2025-07-15]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">肖玲，张雪，王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv（2024-07-02）[2024-09-30]. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.</div>
+    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">肖玲，张雪，王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv（2024-07-02）[2024-09-30]. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>. CSTR:32012.36.PSSXiv.202408.01096.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">方向明，曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv（2023-03-03）[2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.</div>
+    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">方向明，曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv（2023-03-03）[2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>. CSTR:32003.36.ChinaXiv.202303.00020.V1.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Jenkins S D，Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[PP/OL]. V2. arXiv（2012-03-18）[2020-06-24]. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>.</div>
@@ -845,7 +845,7 @@
     <div class="csl-left-margin">[277]</div><div class="csl-right-inline">何筱梅. 新媒体时代原生广告的策略与发展研究[D/OL]. 武汉：武汉大学，2016：24-25. <a href="http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782">http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[278]</div><div class="csl-right-inline">井丽南. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京：中国科学院大学，2022：43. <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a>.</div>
+    <div class="csl-left-margin">[278]</div><div class="csl-right-inline">井丽南. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京：中国科学院大学，2022：43. <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a>. CSTR:35001.37.01.33142.20220037.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[279]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley：University of California，1965：15.</div>
@@ -1034,10 +1034,10 @@
     <div class="csl-left-margin">[340]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange（2021）[2024-11-25]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[341]</div><div class="csl-right-inline">方向明，曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv（2023-03-03）[2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.</div>
+    <div class="csl-left-margin">[341]</div><div class="csl-right-inline">方向明，曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv（2023-03-03）[2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>. CSTR:32003.36.ChinaXiv.202303.00020.V1.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[342]</div><div class="csl-right-inline">肖玲，张雪，王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv（2024-07-02）[2024-09-30]. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.</div>
+    <div class="csl-left-margin">[342]</div><div class="csl-right-inline">肖玲，张雪，王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv（2024-07-02）[2024-09-30]. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>. CSTR:32012.36.PSSXiv.202408.01096.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[343]</div><div class="csl-right-inline">Bloss C S，Wineinger N E，Peters M，et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[PP/OL]. bioRxiv（2015-10-28）[2018-07-12]. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>.</div>

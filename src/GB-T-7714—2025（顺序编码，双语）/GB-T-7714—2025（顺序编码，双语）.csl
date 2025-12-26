@@ -412,7 +412,14 @@
   <macro name="access">
     <group delimiter=". ">
       <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
+      <choose>
+        <if variable="CSTR">
+          <text variable="CSTR" prefix="CSTR:"/>
+        </if>
+        <else>
+          <text variable="DOI" prefix="DOI:"/>
+        </else>
+      </choose>
     </group>
   </macro>
   <!-- 参考文献表格式 -->
