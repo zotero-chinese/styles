@@ -242,7 +242,7 @@
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名，出版日期（版次）：页码” -->
         <group delimiter="，">
-          <text variable="container-title"/>
+          <text variable="container-title" strip-periods="true"/>
           <text macro="date"/>
         </group>
         <text variable="page" prefix="（" suffix="）"/>
@@ -252,7 +252,7 @@
         <group delimiter="：">
           <group>
             <group delimiter="，">
-              <text variable="container-title"/>
+              <text variable="container-title" strip-periods="true"/>
               <text macro="date"/>
               <text variable="volume"/>
             </group>

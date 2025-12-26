@@ -74,7 +74,7 @@
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">人物龙凤帛画[J]. 中国书法，2023（3）：5.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Coffee drinking and cancer of the pancreas[J]. Br. Med. J.，1981，283（6292）：628.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Coffee drinking and cancer of the pancreas[J]. Br Med J，1981，283（6292）：628.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">中国科学院物理研究所. [M].</div>
@@ -107,7 +107,7 @@
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Gases in sea ice 1975–1979[M].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">[J]. J. Math Phys.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">[J]. J Math Phys.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">为人民服务；纪念白求恩；愚公移山[M].</div>
@@ -410,7 +410,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Myburg A A，Grattapaglia D，Tuskan G A，et al. The genome of <i>Eucalyptus grandis</i>[J/OL]. Nature，2014，510：356-362. <a href="https://www.nature.com/articles/nature13308.pdf">https://www.nature.com/articles/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Veen P H van der，Muller M，Vincken K L，et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. J. Neurol. Sci.，2014，337（1/2）：112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Veen P H van der，Muller M，Vincken K L，et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. J Neurol Sci，2014，337（1/2）：112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">牛志明，Swingland I R，雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京：海洋出版社，2012.</div>
@@ -797,7 +797,7 @@
     <div class="csl-left-margin">[261]</div><div class="csl-right-inline">Shinotsuka H，Nagata K，Siriwardana M，et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J/OL]. Journal of electron spectroscopy and related phenomena，2023，267：147370. <a href="https://doi.org/10.1016/j.elspec.2023.147370">https://doi.org/10.1016/j.elspec.2023.147370</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[262]</div><div class="csl-right-inline">Veen P H van der，Muller M，Vincken K L，et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. J. Neurol. Sci.，2014，337（1/2）：112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
+    <div class="csl-left-margin">[262]</div><div class="csl-right-inline">Veen P H van der，Muller M，Vincken K L，et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. J Neurol Sci，2014，337（1/2）：112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[263]</div><div class="csl-right-inline">李妍，王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. 中华预防医学会医院感染控制分会第31次全国医院感染学术年会，2022：2.</div>
