@@ -96,8 +96,8 @@
       </choose>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
+      <text macro="entry-type-id"/>
+      <text macro="entry-medium-id"/>
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
@@ -133,7 +133,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-id">
+  <macro name="entry-type-id">
     <choose>
       <if type="article">
         <!-- 预印本 -->
@@ -145,12 +145,11 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if type="bill collection hearing legal_case legislation manuscript personal_communication regulation treaty" match="any">
-        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等 -->
-        <text value="A"/>
-      </else-if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
+      </else-if>
+      <else-if type="collection personal_communication" match="any">
+        <text value="A"/>
       </else-if>
       <else-if type="dataset">
         <text value="DS"/>
@@ -194,7 +193,7 @@
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-id">
+  <macro name="entry-medium-id">
     <choose>
       <if variable="medium">
         <text variable="medium"/>

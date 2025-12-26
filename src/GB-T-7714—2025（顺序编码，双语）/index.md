@@ -1185,7 +1185,7 @@
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R/OL]. 2012-01-16. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号[A/OL]. （2005-07-12）[2011-07-12]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号[EB/OL]. （2005-07-12）[2011-07-12]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy[EB/OL]. （2008-05-04）[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
@@ -1758,16 +1758,16 @@
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">李松锋. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. 中国政法大学，2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">民法总则[A].</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">民法总则[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A/OL]. （2007-07-11）[2022-10-17]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）[2022-10-17]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">包郑照诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字 7 号[A].</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">包郑照诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字 7 号[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">陆红霞诉南通市发改委政府信息公开案[A/OL]//最高人民法院公报. 2015. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">陆红霞诉南通市发改委政府信息公开案[EB/OL]//最高人民法院公报. 2015. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Reich C A. The new property[J/OL]. Yale Law Journal，1964，73（5）：733-787. DOI:<a href="https://doi.org/10.2307/794645">10.2307/794645</a>.</div>
@@ -1782,7 +1782,7 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">应松年，马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社，2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">R. v. Panel on Take-overs and Mergers[A]//QB：v.815. 1987.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">R. v. Panel on Take-overs and Mergers[Z]//QB：v.815. 1987.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">罗豪才，袁曙宏，李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J/OL]. 中国法学，1993（1）：52-59. <a href="https://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&#38;dbname=CJFD1993&#38;filename=ZGFX199301009&#38;v=MDE4Njk5TE1ybzlGYllRS0RIODR2UjRUNmo1NE8zenFxQnRHRnJDVVI3aWZZK1pxRkNqbFZiN01QeXJOZHJLeEY=">https://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&#38;dbname=CJFD1993&#38;filename=ZGFX199301009&#38;v=MDE4Njk5TE1ybzlGYllRS0RIODR2UjRUNmo1NE8zenFxQnRHRnJDVVI3aWZZK1pxRkNqbFZiN01QeXJOZHJLeEY=</a>. DOI:<a href="https://doi.org/10.14111/j.cnki.zgfx.1993.01.010">10.14111/j.cnki.zgfx.1993.01.010</a>.</div>
@@ -1803,28 +1803,28 @@
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">崔国斌. 知识产权法官造法批判[J/OL]. 中国法学，2006（1）：144-164. <a href="https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013">https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013</a>. DOI:<a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">10.14111/j.cnki.zgfx.2006.01.013</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国刑法修正案（十）：中华人民共和国主席令第80号[A/OL]. 2017. <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a>.</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国刑法修正案（十）：中华人民共和国主席令第80号[EB/OL]. 2017. <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[A/OL]. 2005年修订. 2005. <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a>.</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2005年修订. 2005. <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[A/OL]. 2013年修正. 2013. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2013年修正. 2013. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[A/OL]. （1993-11-12）[2022-10-14]. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[EB/OL]. （1993-11-12）[2022-10-14]. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[A/OL]. 1991. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[EB/OL]. 1991. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A/OL]. （2007-07-11）[2022-10-27]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）[2022-10-27]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释〔2018〕1号[A/OL]. （2018-02-06）[2022-10-27]. <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a>.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释〔2018〕1号[EB/OL]. （2018-02-06）[2022-10-27]. <a href="https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html">https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知：国发〔2018〕22号[A/OL]. （2018-06-27）[2023-06-19]. <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a>.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知：国发〔2018〕22号[EB/OL]. （2018-06-27）[2023-06-19]. <a href="https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html">https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">GB/T 7714—2015 信息与文献 参考文献著录规则[S]. 2015.</div>
@@ -1833,13 +1833,13 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R/OL]. 2013-12-23. <a href="https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html">https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[A/OL]. （2014-10-23）[2023-06-19]. <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a>.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[EB/OL]. （2014-10-23）[2023-06-19]. <a href="https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html">https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[A]//最高人民法院公报. 2013.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[Z]//最高人民法院公报. 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案：（2011）民一终字第 81 号[A]. 2017.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案：（2011）民一终字第 81 号[Z]. 2017.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward. Progress for a small planet[J/OL]. Harvard Business Review，1979（Sep.-Oct.）：89. <a href="https://www.osti.gov/biblio/6023582">https://www.osti.gov/biblio/6023582</a>.</div>
@@ -1854,22 +1854,22 @@
     <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F，Gill B，Lardy N R，et al. China: The balance sheet. Public Affairs Press，2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Department of Transportation Act：89-670[A]//Stat.：v.80. 1966：931, 944-947.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Department of Transportation Act：89-670[Z]//Stat.：v.80. 1966：931, 944-947.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Administrative Procedure Act § 6[A]//U.S.C.：v.5. 2006.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Administrative Procedure Act § 6[Z]//U.S.C.：v.5. 2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d：v.685. 1982：718.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Natural Resources Defense Council <i>v.</i> Gorsuch[Z]//F.2d：v.685. 1982：718.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[A]//U.S.：v.467. 1984：837.</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[Z]//U.S.：v.467. 1984：837.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Roe <i>v.</i> Wade[A]//U.S.：v.410. 1973：113.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Roe <i>v.</i> Wade[Z]//U.S.：v.410. 1973：113.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">United States <i>v.</i> Dino Nastasi et al.：3:15-cr-00213-FDW-DCK[A].</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">United States <i>v.</i> Dino Nastasi et al.：3:15-cr-00213-FDW-DCK[Z].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">McDonell S. When China began streaming trials online[EB/OL]. （2016-09-30）[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
@@ -1923,22 +1923,22 @@
     <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Canaris C-W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">StGB[A].</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">StGB[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">StPO[A].</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">StPO[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">GG[A].</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">GG[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">Strauß-Karikatur, Kunstfreiheit[A]//BVerfGE：卷75. 369.</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">Strauß-Karikatur, Kunstfreiheit[Z]//BVerfGE：卷75. 369.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">[A]//NStZ-RR. 1999：185.</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">[Z]//NStZ-RR. 1999：185.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">[A]//NJW. 2000：1560.</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">[Z]//NJW. 2000：1560.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Meidenbauer M. Wissenschaftliches Publizieren[EB/OL]. [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
@@ -1956,13 +1956,13 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佐藤英明. 一時所得の要件に関する覚書[M]//金子宏，中里実，J.マーク・ラムザイヤー. 租税法と市場. 有斐閣，2014：220.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">信玄公旗掛松事件[A/OL]//大審院民事判決録：卷25. 1919：356. <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">信玄公旗掛松事件[EB/OL]//大審院民事判決録：卷25. 1919：356. <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">約束手形金[A/OL]//最高裁判所民事判例集：36卷6号. 1982：1113. <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">約束手形金[EB/OL]//最高裁判所民事判例集：36卷6号. 1982：1113. <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A/OL]. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[EB/OL]. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">平成26年版犯罪白書[EB/OL]. <a href="https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html">https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html</a>.</div>
@@ -2274,13 +2274,13 @@
     <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Schur M. Somewhere else[Z]. 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Yoo J，Miyamoto Y，Rigotti A，et al. Linking positive affect to blood lipids: A cultural perspective[A]. Department of Psychology, University of Wisconsin-Madison，2016.</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Yoo J，Miyamoto Y，Rigotti A，et al. Linking positive affect to blood lipids: A cultural perspective[Z]. Department of Psychology, University of Wisconsin-Madison，2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[A]. Department of Management, University of Kansas，2018.</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z]. Department of Management, University of Kansas，2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T，Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[A]. Department of Psychology, University of Washington，2019.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T，Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]. Department of Psychology, University of Washington，2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C，Samartzidis L，Hertwig R，et al. When money talks: Judging risk and coercion in high-paying clinical trials[PP/OL]. PsyArXiv2018. DOI:<a href="https://doi.org/10.17605/OSF.IO/9P7CB">10.17605/OSF.IO/9P7CB</a>.</div>
@@ -2427,13 +2427,13 @@
     <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. The Pulitzer Prizes，（2016）. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E，Vasilev J. Lecture notes on resource allocation[A/OL]. Department of Management Control and Information Systems, University of Chile，2019. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
+    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E，Vasilev J. Lecture notes on resource allocation[EB/OL]. Department of Management Control and Information Systems, University of Chile，2019. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">Housand B. Game on! Integrating games and simulations in the classroom[A/OL]. SlideShare，2016. <a href="https://www.slideshare.net/brianhousand/game-on-iagc-2016/">https://www.slideshare.net/brianhousand/game-on-iagc-2016/</a>.</div>
+    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">Housand B. Game on! Integrating games and simulations in the classroom[EB/OL]. SlideShare，2016. <a href="https://www.slideshare.net/brianhousand/game-on-iagc-2016/">https://www.slideshare.net/brianhousand/game-on-iagc-2016/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R，Spake G. Citing open source images and formatting references for presentations[A/OL]. Canvas@FNU，2018. <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a>.</div>
+    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R，Spake G. Citing open source images and formatting references for presentations[EB/OL]. Canvas@FNU，2018. <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB/OL]. （2018-06-29）. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
@@ -2493,91 +2493,91 @@
     <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau. U.S. and world population clock[EB/OL]. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[170]</div><div class="csl-right-inline">Brown v. Board of Education[A/OL]//U.S.：v.347. 1954：483. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
+    <div class="csl-left-margin">[170]</div><div class="csl-right-inline">Brown v. Board of Education[EB/OL]//U.S.：v.347. 1954：483. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Obergefell v. Hodges[A/OL]//U.S.：v.576. 2015. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
+    <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Obergefell v. Hodges[EB/OL]//U.S.：v.576. 2015. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Daubert v. Merrell Dow Pharmaceuticals, Inc.[A/OL]//F.2d：v.951. 1991：1128. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
+    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Daubert v. Merrell Dow Pharmaceuticals, Inc.[EB/OL]//F.2d：v.951. 1991：1128. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Burriola v. Greater Toledo YMCA[A/OL]//F.Supp.2d：v.133. 2001：1034. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
+    <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Burriola v. Greater Toledo YMCA[EB/OL]//F.Supp.2d：v.133. 2001：1034. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[174]</div><div class="csl-right-inline">Durflinger v. Artiles[A/OL]//F.Supp.：v.563. 1984：332. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
+    <div class="csl-left-margin">[174]</div><div class="csl-right-inline">Durflinger v. Artiles[EB/OL]//F.Supp.：v.563. 1984：332. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[175]</div><div class="csl-right-inline">Tarasoff v. Regents of the University of California[A/OL]//Cal.3d：v.17. 1976：425. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
+    <div class="csl-left-margin">[175]</div><div class="csl-right-inline">Tarasoff v. Regents of the University of California[EB/OL]//Cal.3d：v.17. 1976：425. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[176]</div><div class="csl-right-inline">Texas v. Morales[A/OL]//S.W.2d：v.826. 1992：201. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
+    <div class="csl-left-margin">[176]</div><div class="csl-right-inline">Texas v. Morales[EB/OL]//S.W.2d：v.826. 1992：201. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[177]</div><div class="csl-right-inline">American With Disabilities Act of 1990[A/OL]//U.S.C：v.42. 1990. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
+    <div class="csl-left-margin">[177]</div><div class="csl-right-inline">American With Disabilities Act of 1990[EB/OL]//U.S.C：v.42. 1990. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[178]</div><div class="csl-right-inline">Civil Rights Act of 1964：88-352[A/OL]//Stat.：v.78. 1964：241. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
+    <div class="csl-left-margin">[178]</div><div class="csl-right-inline">Civil Rights Act of 1964：88-352[EB/OL]//Stat.：v.78. 1964：241. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[179]</div><div class="csl-right-inline">Every Student Succeeds Act[A/OL]//U.S.C：v.20. 2015. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
+    <div class="csl-left-margin">[179]</div><div class="csl-right-inline">Every Student Succeeds Act[EB/OL]//U.S.C：v.20. 2015. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Lilly Leadbetter Fair Play Act of 2009：111-2[A/OL]//Stat.：v.123. 2009：5. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
+    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Lilly Leadbetter Fair Play Act of 2009：111-2[EB/OL]//Stat.：v.123. 2009：5. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Patsy Mink Equal Opportunity in Education Act[A/OL]//U.S.C：v.20. 1972. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
+    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Patsy Mink Equal Opportunity in Education Act[EB/OL]//U.S.C：v.20. 1972. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act[A/OL]//Fla. Stat. 2009. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
+    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act[EB/OL]//Fla. Stat. 2009. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A/OL]. 2014. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
+    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[EB/OL]. 2014. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[185]</div><div class="csl-right-inline">Mental Health on Campus Improvement Act：H.R. 1100[A/OL]. 2013. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
+    <div class="csl-left-margin">[185]</div><div class="csl-right-inline">Mental Health on Campus Improvement Act：H.R. 1100[EB/OL]. 2013. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[186]</div><div class="csl-right-inline">S. Res. 438[A/OL]//Cong. Rec.：v.162. 2016：2394. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
+    <div class="csl-left-margin">[186]</div><div class="csl-right-inline">S. Res. 438[EB/OL]//Cong. Rec.：v.162. 2016：2394. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[187]</div><div class="csl-right-inline">H.R. Rep. No. 114-358[R/OL]. 2015. <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Protection of human subjects[A/OL]. （2009）. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
+    <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Protection of human subjects[EB/OL]. （2009）. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[189]</div><div class="csl-right-inline">Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A/OL]//F.R.：v.81. 2016：32391. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
+    <div class="csl-left-margin">[189]</div><div class="csl-right-inline">Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB/OL]//F.R.：v.81. 2016：32391. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Exec. Order No. 13,676[A/OL]. （2014）：294. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
+    <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Exec. Order No. 13,676[EB/OL]. （2014）：294. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[191]</div><div class="csl-right-inline">Hiremath S C，Kumar S，Lu F，et al. Using metaphors to present concepts across different intellectual domains：9,367,592[P/OL]. 2016. <a href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592">http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[192]</div><div class="csl-right-inline">U.S. Const. art. I, § 3[A].</div>
+    <div class="csl-left-margin">[192]</div><div class="csl-right-inline">U.S. Const. art. I, § 3[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[193]</div><div class="csl-right-inline">S.C. Const. art. XI, § 3[A].</div>
+    <div class="csl-left-margin">[193]</div><div class="csl-right-inline">S.C. Const. art. XI, § 3[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[194]</div><div class="csl-right-inline">U.S. Const. amend. XIX[A].</div>
+    <div class="csl-left-margin">[194]</div><div class="csl-right-inline">U.S. Const. amend. XIX[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[195]</div><div class="csl-right-inline">U.S. Const. amend. XVIII (repealed 1933)[A].</div>
+    <div class="csl-left-margin">[195]</div><div class="csl-right-inline">U.S. Const. amend. XVIII (repealed 1933)[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[196]</div><div class="csl-right-inline">U.S. Const. amend. I-X[A].</div>
+    <div class="csl-left-margin">[196]</div><div class="csl-right-inline">U.S. Const. amend. I-X[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[197]</div><div class="csl-right-inline">U.N. Charter art. 1, para. 3[A].</div>
+    <div class="csl-left-margin">[197]</div><div class="csl-right-inline">U.N. Charter art. 1, para. 3[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[198]</div><div class="csl-right-inline">United nations convention on the rights of the child[A/OL]. 1989. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
+    <div class="csl-left-margin">[198]</div><div class="csl-right-inline">United nations convention on the rights of the child[EB/OL]. 1989. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
   </div>
 </div>
 
