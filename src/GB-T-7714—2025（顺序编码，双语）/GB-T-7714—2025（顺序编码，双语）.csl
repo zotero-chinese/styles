@@ -447,6 +447,7 @@
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
           <text macro="title"/>
+          <text macro="secondary-contributors"/>
           <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">

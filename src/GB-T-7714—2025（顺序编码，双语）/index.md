@@ -386,7 +386,7 @@
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化[N]. 中国青年报，2000-11-20（15）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">久保智康. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 东方博物，2009（1）：85-92.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">久保智康. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 顾幼静，译. 东方博物，2009（1）：85-92.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版），2012，52（11）：1518-1523.</div>
@@ -749,7 +749,7 @@
     <div class="csl-left-margin">[245]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版），2012，52（11）：1518-1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[246]</div><div class="csl-right-inline">久保智康. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 东方博物，2009（1）：85-92.</div>
+    <div class="csl-left-margin">[246]</div><div class="csl-right-inline">久保智康. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 顾幼静，译. 东方博物，2009（1）：85-92.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[247]</div><div class="csl-right-inline">陈建军. 从数字地球到智慧地球[J/OL]. 国土资源导刊，2010，7（10）：93. <a href="http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx">http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx</a>. DOI:<a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">10.3969/j.issn.1672-5603.2010.10.038</a>.</div>
@@ -2016,7 +2016,7 @@
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Chaves-Morillo V，Gómez Calero C，Fernández-Muñoz J J，et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J/OL]. Clínica y Salud，2018，28（3）：155-161. DOI:<a href="https://doi.org/10.1016/j.clysa.2017.04.002">10.1016/j.clysa.2017.04.002</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Piaget J. Intellectual evolution from adolescence to adulthood[J/OL]. Human Development，1972，15（1）：1-12. DOI:<a href="https://doi.org/10.1159/00027/1225">10.1159/00027/1225</a>.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Piaget J. Intellectual evolution from adolescence to adulthood[J/OL]. Bliss J，Furth H，trans. Human Development，1972，15（1）：1-12. DOI:<a href="https://doi.org/10.1159/00027/1225">10.1159/00027/1225</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Shore M F. Marking time in the land of plenty: Reflections on mental health in the United States[J/OL]. American Journal of Orthopsychiatry，2014，84（6）：611-618. DOI:<a href="https://doi.org/10.1037/h0100165">10.1037/h0100165</a>.</div>
