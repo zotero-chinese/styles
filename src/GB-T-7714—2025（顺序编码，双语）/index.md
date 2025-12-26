@@ -344,7 +344,7 @@
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">中华医学会湖北分会. 临床内科杂志[J]. 1984，1（1）—. 武汉：中华医学会湖北分会，1984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 1957（1）—1990（4）. 北京：北京图书馆，1957-[1990].</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 1957（1）—1990（4）. 北京：北京图书馆，1957—[1990].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883，1（1）—. Washington, D.C.：American Association for the Advancement of Science，1883.</div>
@@ -731,7 +731,7 @@
     <div class="csl-left-margin">[239]</div><div class="csl-right-inline">中华医学会湖北分会. 临床内科杂志[J]. 1984，1（1）—. 武汉：中华医学会湖北分会，1984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[240]</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 1957（1）—1990（4）. 北京：北京图书馆，1957-1990.</div>
+    <div class="csl-left-margin">[240]</div><div class="csl-right-inline">中国图书馆学会. 图书馆学通讯[J]. 1957（1）—1990（4）. 北京：北京图书馆，1957—1990.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[241]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883，1（1）—. Washington, D.C.：American Association for the Advancement of Science，1883.</div>
@@ -1371,7 +1371,7 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">GB 15616—1995 土壤环境质量标准[S/OL]. 北京：中国标准出版社，1996：2-3. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">ISO 15836:2009 Information and documentation—The Dublin Core metadata element set[S/OL]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">ISO 15836:2009 Information and documentation—The Dublin Core metadata element set[S/OL]. [2013]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">卷 39 乞致仕第一[M]//苏魏公文集：下册. 北京：中华书局，1988：590.</div>
@@ -1767,13 +1767,13 @@
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">包郑照诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字 7 号[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">陆红霞诉南通市发改委政府信息公开案[EB/OL]//最高人民法院公报. 2015. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">陆红霞诉南通市发改委政府信息公开案[EB/OL]//最高人民法院公报. （2015-07-06）. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Reich C A. The new property[J/OL]. Yale Law Journal，1964，73（5）：733-787. DOI:<a href="https://doi.org/10.2307/794645">10.2307/794645</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Brandeis L D. What publicity can do[J]. Harper’s Weekly，1913：10.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Brandeis L D. What publicity can do[J]. Harper’s Weekly，1913-12-20：10.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Alford W. To steal a book is an elegant offense: Intellectual property law in Chinese civilization[M]. Stanford University Press，1995.</div>
@@ -1803,19 +1803,19 @@
     <div class="csl-left-margin">[28]</div><div class="csl-right-inline">崔国斌. 知识产权法官造法批判[J/OL]. 中国法学，2006（1）：144-164. <a href="https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013">https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013</a>. DOI:<a href="https://doi.org/10.14111/j.cnki.zgfx.2006.01.013">10.14111/j.cnki.zgfx.2006.01.013</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国刑法修正案（十）：中华人民共和国主席令第80号[EB/OL]. 2017. <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a>.</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国刑法修正案（十）：中华人民共和国主席令第80号[EB/OL]. （2017-11-04）. <a href="https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html">https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2005年修订. 2005. <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a>.</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2005年修订. （2005-10-27）. <a href="https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html">https://www.pkulaw.com/chl/e54c465cca59c137bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2013年修正. 2013. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[EB/OL]. 2013年修正. （2013-12-28）. <a href="https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html">https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院，最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[EB/OL]. （1993-11-12）[2022-10-14]. <a href="https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html">https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[EB/OL]. 1991. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[EB/OL]. （1991-09-04）. <a href="https://www.pkulaw.com/chl/7d823d434f747555bdfb.html">https://www.pkulaw.com/chl/7d823d434f747555bdfb.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-11）[2022-10-27]. <a href="https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html">https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html</a>.</div>
@@ -1887,7 +1887,7 @@
     <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Poisson M. Le droit de la mer[M]//Lapieuvre R. Le droit des Océans. Éditions de la mer. 2015：12-48.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Poisson M. Le droit de la mer en Méditerranée[R]. Congrès de Marseille，2016-07：228-229.</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Poisson M. Le droit de la mer en Méditerranée[R]. Congrès de Marseille，2016：228-229.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Poisson M. Le droit de la mer en Méditerranée：1202[R]. 2016-08.</div>
@@ -1956,10 +1956,10 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佐藤英明. 一時所得の要件に関する覚書[M]//金子宏，中里実，J.マーク・ラムザイヤー. 租税法と市場. 有斐閣，2014：220.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">信玄公旗掛松事件[EB/OL]//大審院民事判決録：卷25. 1919：356. <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">信玄公旗掛松事件[EB/OL]//大審院民事判決録：卷25. （1919-03-03）：356. <a href="https://ja.wikipedia.org/wiki/信玄公旗掛松事件">https://ja.wikipedia.org/wiki/信玄公旗掛松事件</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">約束手形金[EB/OL]//最高裁判所民事判例集：36卷6号. 1982：1113. <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">約束手形金[EB/OL]//最高裁判所民事判例集：36卷6号. （1982-07-15）：1113. <a href="https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158">https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[EB/OL]. <a href="https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037">https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037</a>.</div>
@@ -2040,7 +2040,7 @@
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Bergeson S. Really cool neutral plasmas[J/OL]. Science，2019，363（6422）：33-34. DOI:<a href="https://doi.org/10.1126/science.aau7988">10.1126/science.aau7988</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Bustillos M. On video games and storytelling: An interview with Tom Bissell[J/OL]. The New Yorker，2013. <a href="https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell">https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell</a>.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Bustillos M. On video games and storytelling: An interview with Tom Bissell[J/OL]. The New Yorker，2013-03-19. <a href="https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell">https://www.newyorker.com/books/page-turner/on-video-games-and-storytelling-an-interview-with-tom-bissell</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Weir K. Forgiveness can improve mental and physical health[J]. Monitor on Psychology，2017，48（1）：30.</div>
@@ -2118,10 +2118,10 @@
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">World Health Organization. International statistical classification of diseases and related health problems[R/OL]. 11th ed. World Health Organization，2019. <a href="https://icd.who.int/">https://icd.who.int/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">American Psychological Association. APA dictionary of psychology[M/OL]. <a href="https://dictionary.apa.org/">https://dictionary.apa.org/</a>.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">American Psychological Association. APA dictionary of psychology[M/OL]. [2019]. <a href="https://dictionary.apa.org/">https://dictionary.apa.org/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Merriam-Webster. Merriam-Webster.com dictionary[M/OL]. <a href="https://www.merriam-webster.com/">https://www.merriam-webster.com/</a>.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Merriam-Webster. Merriam-Webster.com dictionary[M/OL]. [2019]. <a href="https://www.merriam-webster.com/">https://www.merriam-webster.com/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Zalta E N. The Stanford encyclopedia of philosophy[M/OL]. Summer 2019 ed. Stanford University，2019. <a href="https://plato.stanford.edu/archives/sum2019/">https://plato.stanford.edu/archives/sum2019/</a>.</div>
@@ -2178,10 +2178,10 @@
     <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Lewin K. Group decision and social change[M/OL]//Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association，1999：265-284. DOI:<a href="https://doi.org/10.1037/10319-000">10.1037/10319-000</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association. Positive transference[M/OL]//APA dictionary of psychology. <a href="https://dictionary.apa.org/positive-transference">https://dictionary.apa.org/positive-transference</a>.</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">American Psychological Association. Positive transference[M/OL]//APA dictionary of psychology. [2019]. <a href="https://dictionary.apa.org/positive-transference">https://dictionary.apa.org/positive-transference</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster. Self-report[M/OL]//Merriam-Webster.com dictionary. <a href="https://www.merriam-webster.com/dictionary/self-report">https://www.merriam-webster.com/dictionary/self-report</a>.</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">Merriam-Webster. Self-report[M/OL]//Merriam-Webster.com dictionary. [2019]. <a href="https://www.merriam-webster.com/dictionary/self-report">https://www.merriam-webster.com/dictionary/self-report</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Graham G. Behaviorism[M/OL]//Zalta E N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University，2019. <a href="https://plato.stanford.edu/archives/sum2019/entries/behaviorism">https://plato.stanford.edu/archives/sum2019/entries/behaviorism</a>.</div>
@@ -2232,7 +2232,7 @@
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R/OL]. National Education Policy Center，2018. <a href="https://nepc.colorado.edu/publication/SES">https://nepc.colorado.edu/publication/SES</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R/OL]. U.S. Food and Drug Administration，2019-02-14. <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R/OL]. U.S. Food and Drug Administration，2019. <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek A，Jester E，Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB/OL]. Milwaukee, WI, United States，（2017-07-12/15）. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a>.</div>
@@ -2283,7 +2283,7 @@
     <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T，Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]. Department of Psychology, University of Washington，2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C，Samartzidis L，Hertwig R，et al. When money talks: Judging risk and coercion in high-paying clinical trials[PP/OL]. PsyArXiv2018. DOI:<a href="https://doi.org/10.17605/OSF.IO/9P7CB">10.17605/OSF.IO/9P7CB</a>.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C，Samartzidis L，Hertwig R，et al. When money talks: Judging risk and coercion in high-paying clinical trials[PP/OL]. PsyArXiv（2018）. DOI:<a href="https://doi.org/10.17605/OSF.IO/9P7CB">10.17605/OSF.IO/9P7CB</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A，Sinha R. The effects of stress on physical activity and exercise[PP/OL]. PubMed Central（2015）. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304</a>.</div>
@@ -2292,34 +2292,34 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H-K. Teacher preparation for early childhood special education in Taiwan[PP/OL]. ERIC（2014）. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A，Wiseheart M. Cognitive effects of music and dance training in children：ICPSR 37080[DS/OL]. VV1. ICPSR2018. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A，Wiseheart M. Cognitive effects of music and dance training in children：ICPSR 37080[DS/OL]. VV1. ICPSR（2018）. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009：ICPSR 35531[DS/OL]. VV3. National Archive of Data on Arts and Culture2016. DOI:<a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009：ICPSR 35531[DS/OL]. VV3. National Archive of Data on Arts and Culture（2016）. DOI:<a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Pew Research Center. American trends panel Wave 26[DS/OL]. （2018）. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky2015.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky（2015）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. Recidivism outcomes[DS]. 2011.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. Recidivism outcomes[DS]. （2011）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M，Hedges L，Higgins J，et al. Comprehensive meta-analysis[CP/OL]. V3.3.070. Biostat，2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M，Hedges L，Higgins J，et al. Comprehensive meta-analysis[CP/OL]. V3.3.070. Biostat，（2014）. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[CP/OL]. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[CP/OL]. （2016）. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[CP/OL]. （2015）. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP/OL]. V18.12. App Store，2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP/OL]. V18.12. App Store，（2019）. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. V18.12. Google Play Store，2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. V18.12. Google Play Store，（2019）. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Tellegen A，Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson，2011.</div>
@@ -2328,10 +2328,10 @@
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[EB/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Alonso-Tapia J，Nieto C，Merino-Tejedor E，et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. PsycTESTS2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Alonso-Tapia J，Nieto C，Merino-Tejedor E，et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. PsycTESTS（2018）. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Cardoza D，Morris J K，Myers H F，et al. Acculturative Stress Inventory (ASI)：TC022704[DS]. ETS TestLink2000.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Cardoza D，Morris J K，Myers H F，et al. Acculturative Stress Inventory (ASI)：TC022704[DS]. ETS TestLink（2000）.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Forman M. One flew over the cuckoo’s nest[M]. United Artists，1975.</div>
@@ -2346,7 +2346,7 @@
     <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Malle L. Goodbye children[M]. Nouvelles Éditions de Films，1987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[M]. Blown Deadline Productions; HBO，2002-2008.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">The wire[M]. Blown Deadline Productions; HBO，2002/2008.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Barris K. Lemons：Season 3, Episode 12[M]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios，2017.</div>
@@ -2406,34 +2406,34 @@
     <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite[A]. Paris, France：The Louvre，1826/1827.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic[A/OL]. Chicago, IL, United States：Art Institute of Chicago，（1930）. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic[A/OL]. Chicago, IL, United States：Art Institute of Chicago，1930. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[A/OL]. Openclipart，（2018）. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
+    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[A/OL]. Openclipart，2018. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Rossman J，Palmer R. Sorting through our space junk[A/OL]. World Science Festival，（2015）. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Rossman J，Palmer R. Sorting through our space junk[A/OL]. World Science Festival，2015. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[144]</div><div class="csl-right-inline">Cable D. The racial dot map[CM/OL]. University of Virginia：Weldon Cooper Center for Public Service，2013. <a href="https://demographics.coopercenter.org/Racial-Dot-Map">https://demographics.coopercenter.org/Racial-Dot-Map</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM/OL]. <a href="https://goo.gl/YYE3GR">https://goo.gl/YYE3GR</a>.</div>
+    <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM/OL]. [2020]. <a href="https://goo.gl/YYE3GR">https://goo.gl/YYE3GR</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">McCurry S. Afghan girl[A/OL]. National Geographic，（1985）. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
+    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">McCurry S. Afghan girl[A/OL]. National Geographic，1985. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. The Pulitzer Prizes，（2016）. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
+    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. The Pulitzer Prizes，2016. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E，Vasilev J. Lecture notes on resource allocation[EB/OL]. Department of Management Control and Information Systems, University of Chile，2019. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
+    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E，Vasilev J. Lecture notes on resource allocation[EB/OL]. Department of Management Control and Information Systems, University of Chile，（2019-05-22）. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">Housand B. Game on! Integrating games and simulations in the classroom[EB/OL]. SlideShare，2016. <a href="https://www.slideshare.net/brianhousand/game-on-iagc-2016/">https://www.slideshare.net/brianhousand/game-on-iagc-2016/</a>.</div>
+    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">Housand B. Game on! Integrating games and simulations in the classroom[EB/OL]. SlideShare，（2016）. <a href="https://www.slideshare.net/brianhousand/game-on-iagc-2016/">https://www.slideshare.net/brianhousand/game-on-iagc-2016/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R，Spake G. Citing open source images and formatting references for presentations[EB/OL]. Canvas@FNU，2018. <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a>.</div>
+    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R，Spake G. Citing open source images and formatting references for presentations[EB/OL]. Canvas@FNU，（2018）. <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB/OL]. （2018-06-29）. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
@@ -2493,55 +2493,55 @@
     <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau. U.S. and world population clock[EB/OL]. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[170]</div><div class="csl-right-inline">Brown v. Board of Education[EB/OL]//U.S.：v.347. 1954：483. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
+    <div class="csl-left-margin">[170]</div><div class="csl-right-inline">Brown v. Board of Education[EB/OL]//U.S.：v.347. （1954）：483. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Obergefell v. Hodges[EB/OL]//U.S.：v.576. 2015. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
+    <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Obergefell v. Hodges[EB/OL]//U.S.：v.576. （2015）. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Daubert v. Merrell Dow Pharmaceuticals, Inc.[EB/OL]//F.2d：v.951. 1991：1128. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
+    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Daubert v. Merrell Dow Pharmaceuticals, Inc.[EB/OL]//F.2d：v.951. （1991）：1128. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Burriola v. Greater Toledo YMCA[EB/OL]//F.Supp.2d：v.133. 2001：1034. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
+    <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Burriola v. Greater Toledo YMCA[EB/OL]//F.Supp.2d：v.133. （2001）：1034. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[174]</div><div class="csl-right-inline">Durflinger v. Artiles[EB/OL]//F.Supp.：v.563. 1984：332. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
+    <div class="csl-left-margin">[174]</div><div class="csl-right-inline">Durflinger v. Artiles[EB/OL]//F.Supp.：v.563. （1984）：332. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[175]</div><div class="csl-right-inline">Tarasoff v. Regents of the University of California[EB/OL]//Cal.3d：v.17. 1976：425. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
+    <div class="csl-left-margin">[175]</div><div class="csl-right-inline">Tarasoff v. Regents of the University of California[EB/OL]//Cal.3d：v.17. （1976）：425. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[176]</div><div class="csl-right-inline">Texas v. Morales[EB/OL]//S.W.2d：v.826. 1992：201. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
+    <div class="csl-left-margin">[176]</div><div class="csl-right-inline">Texas v. Morales[EB/OL]//S.W.2d：v.826. （1992）：201. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[177]</div><div class="csl-right-inline">American With Disabilities Act of 1990[EB/OL]//U.S.C：v.42. 1990. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
+    <div class="csl-left-margin">[177]</div><div class="csl-right-inline">American With Disabilities Act of 1990[EB/OL]//U.S.C：v.42. （1990）. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[178]</div><div class="csl-right-inline">Civil Rights Act of 1964：88-352[EB/OL]//Stat.：v.78. 1964：241. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
+    <div class="csl-left-margin">[178]</div><div class="csl-right-inline">Civil Rights Act of 1964：88-352[EB/OL]//Stat.：v.78. （1964）：241. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[179]</div><div class="csl-right-inline">Every Student Succeeds Act[EB/OL]//U.S.C：v.20. 2015. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
+    <div class="csl-left-margin">[179]</div><div class="csl-right-inline">Every Student Succeeds Act[EB/OL]//U.S.C：v.20. （2015）. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Lilly Leadbetter Fair Play Act of 2009：111-2[EB/OL]//Stat.：v.123. 2009：5. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
+    <div class="csl-left-margin">[180]</div><div class="csl-right-inline">Lilly Leadbetter Fair Play Act of 2009：111-2[EB/OL]//Stat.：v.123. （2009）：5. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Patsy Mink Equal Opportunity in Education Act[EB/OL]//U.S.C：v.20. 1972. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
+    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Patsy Mink Equal Opportunity in Education Act[EB/OL]//U.S.C：v.20. （1972）. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act[EB/OL]//Fla. Stat. 2009. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
+    <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act[EB/OL]//Fla. Stat. （2009）. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
+    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. （2016）. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[EB/OL]. 2014. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
+    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[EB/OL]. （2014）. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[185]</div><div class="csl-right-inline">Mental Health on Campus Improvement Act：H.R. 1100[EB/OL]. 2013. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
+    <div class="csl-left-margin">[185]</div><div class="csl-right-inline">Mental Health on Campus Improvement Act：H.R. 1100[EB/OL]. （2013）. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[186]</div><div class="csl-right-inline">S. Res. 438[EB/OL]//Cong. Rec.：v.162. 2016：2394. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
+    <div class="csl-left-margin">[186]</div><div class="csl-right-inline">S. Res. 438[EB/OL]//Cong. Rec.：v.162. （2016）：2394. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[187]</div><div class="csl-right-inline">H.R. Rep. No. 114-358[R/OL]. 2015. <a href="https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf">https://www.gpo.gov/fdsys/pkg/CRPT-114rpt358/pdf/CRPT-114hrpt358.pdf</a>.</div>
@@ -2550,7 +2550,7 @@
     <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Protection of human subjects[EB/OL]. （2009）. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[189]</div><div class="csl-right-inline">Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB/OL]//F.R.：v.81. 2016：32391. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
+    <div class="csl-left-margin">[189]</div><div class="csl-right-inline">Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB/OL]//F.R.：v.81. （2016-05-23）：32391. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Exec. Order No. 13,676[EB/OL]. （2014）：294. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
@@ -2577,7 +2577,7 @@
     <div class="csl-left-margin">[197]</div><div class="csl-right-inline">U.N. Charter art. 1, para. 3[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[198]</div><div class="csl-right-inline">United nations convention on the rights of the child[EB/OL]. 1989. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
+    <div class="csl-left-margin">[198]</div><div class="csl-right-inline">United nations convention on the rights of the child[EB/OL]. （1989-11-20）. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
   </div>
 </div>
 

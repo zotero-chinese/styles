@@ -369,30 +369,38 @@
     <choose>
       <if variable="issued">
         <choose>
-          <if type="dataset" variable="publisher-place" match="all">
-            <date variable="issued" form="numeric" date-parts="year"/>
-          </if>
-          <else-if type="article broadcast dataset figure graphic motion_picture post post-weblog regulation song speech webpage" variable="URL" match="all">
-            <!-- 电子资源的创建或修改日期 -->
-            <date variable="issued" form="numeric" prefix="（" suffix="）"/>
-          </else-if>
-          <else-if type="article-journal">
+          <if type="article-journal article-magazine" match="any">
             <choose>
               <if variable="volume issue" match="none">
+                <!-- 在线出版日期 -->
                 <date variable="issued" form="numeric"/>
               </if>
               <else>
                 <date variable="issued" form="numeric" date-parts="year"/>
               </else>
             </choose>
+          </if>
+          <else-if type="book chapter entry-dictionary entry-encyclopedia map paper-conference periodical standard thesis" match="any">
+            <date variable="issued">
+              <date-part name="year" range-delimiter="—"/>
+            </date>
           </else-if>
-          <else-if type="article-newspaper collection patent personal_communication report" variable="archive" match="any">
+          <else-if type="report" variable="publisher" match="all">
+            <!-- 正式出版的报告 -->
+            <date variable="issued" form="numeric" date-parts="year"/>
+          </else-if>
+          <else-if type="article-newspaper collection patent pamphlet personal_communication report" variable="archive" match="any">
             <date variable="issued" form="numeric"/>
           </else-if>
+          <else-if type="article dataset post post-weblog webpage" match="any">
+            <!-- 电子资源的创建或修改日期 -->
+            <date variable="issued" form="numeric" prefix="（" suffix="）"/>
+          </else-if>
+          <else-if variable="URL" match="any">
+            <date variable="issued" form="numeric" prefix="（" suffix="）"/>
+          </else-if>
           <else>
-            <date variable="issued">
-              <date-part name="year" range-delimiter="-"/>
-            </date>
+            <date variable="issued" form="numeric" date-parts="year"/>
           </else>
         </choose>
       </if>
@@ -403,6 +411,11 @@
             <date variable="available-date" form="numeric"/>
           </if>
         </choose>
+      </else-if>
+      <else-if type="book chapter entry-dictionary entry-encyclopedia map paper-conference periodical standard thesis" match="any">
+        <date variable="accessed" prefix="[" suffix="]">
+          <date-part name="year" range-delimiter="—"/>
+        </date>
       </else-if>
     </choose>
   </macro>
