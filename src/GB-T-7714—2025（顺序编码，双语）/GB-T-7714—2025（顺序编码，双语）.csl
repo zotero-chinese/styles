@@ -44,15 +44,19 @@
   </locale>
   <!-- 主要责任者 -->
   <macro name="author">
-    <names variable="author">
+    <names variable="composer">
       <name delimiter="，"/>
       <substitute>
-        <names variable="composer"/>
+        <names variable="author"/>
         <names variable="illustrator"/>
         <names variable="director"/>
+        <names variable="host"/>
         <choose>
           <if variable="container-title" match="none">
             <names variable="editor"/>
+            <names variable="editorial-director"/>
+            <names variable="compiler"/>
+            <names variable="collection-editor"/>
           </if>
         </choose>
       </substitute>
@@ -201,12 +205,13 @@
   </macro>
   <!-- 专著主要责任者 -->
   <macro name="container-contributors">
-    <names variable="editor">
+    <names variable="container-author">
       <name delimiter="，"/>
       <substitute>
+        <names variable="editor"/>
         <names variable="editorial-director"/>
+        <names variable="compiler"/>
         <names variable="collection-editor"/>
-        <names variable="container-author"/>
       </substitute>
     </names>
   </macro>

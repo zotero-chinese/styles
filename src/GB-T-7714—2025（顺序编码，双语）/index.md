@@ -1569,7 +1569,7 @@
     <div class="csl-left-margin">[1]</div><div class="csl-right-inline">赵景深. 文坛忆旧[M]. 上海：北新书局，1948.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">荣庆日记[M]. 西安：西北大学出版社，1986.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">谢兴尧. 荣庆日记[M]. 西安：西北大学出版社，1986.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">蒋大兴. 公司法的展开与评判——方法·判例·制度[M]. 北京：法律出版社，2001.</div>
@@ -2337,7 +2337,7 @@
     <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Forman M. One flew over the cuckoo’s nest[M]. （1975）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. （2017）. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Levenson H. Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. （2017）. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Jackson P. The lord of the rings: The fellowship of the ring[M/four-disc special extended ed. on DVD]. （2001）.</div>
