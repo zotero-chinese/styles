@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>农学院学位论文参考文献统一按照“Journal of Integrative Plant Biology, JIPB”格式编排</summary>
-    <updated>2025-12-21T10:35:01+08:00</updated>
+    <updated>2025-12-30T20:21:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -393,7 +393,7 @@
   </citation>
   <bibliography entry-spacing="0" hanging-indent="true">
     <sort>
-      <key macro="author-intext"/>
+      <key macro="author"/>
       <key macro="issued-year"/>
     </sort>
     <layout locale="en">
