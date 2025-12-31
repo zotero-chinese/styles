@@ -66,11 +66,6 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">(1962). 康熙字典：巳集上：水部. 同文书局影印本 版. 中华书局, 北京: 50.</div>
-  <div class="csl-entry">(1977). 宋史卷三：本纪第三. In: 宋史. 中华书局, 北京. pp. 49.</div>
-  <div class="csl-entry">(1981). Coffee drinking and cancer of the pancreas. Br. Med. J., <b>283</b>: 628.</div>
-  <div class="csl-entry">(1988). 卷 39 乞致仕第一. In: 苏魏公文集. 中华书局, 北京. pp. 590.</div>
-  <div class="csl-entry">(2012-06-14).</div>
   <div class="csl-entry"><b>白书农</b> (1998). 植物开花研究. In: 植物科学进展. 高等教育出版社, 北京. pp. 146-163.</div>
   <div class="csl-entry">(2005-07-12).</div>
   <div class="csl-entry"><b>北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所</b> (2012). 历代王朝与民族宗教. 民族出版社, 北京: 112.</div>
@@ -169,7 +164,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Franz A.K., Danielewicz M.A., Wong D.M., Anderson L.A., Boothe J.R.</b> (2013). Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity. ACS Chem. Biol., <b>8</b>: 1053-1062.</div>
   <div class="csl-entry"><b>Frese K.S., Katus H.A., Meder B.</b> (2013). Next-generation sequencing: from understanding biology to personalized medicine. Biology, <b>2</b>: 378-398.</div>
   <div class="csl-entry">(2009-04-22).</div>
-  <div class="csl-entry">([No date]). Information and documentation—The Dublin Core metadata element set.</div>
   <div class="csl-entry"><b>International Federation of Library Association and Institutions</b> (1977). Names of persons: National usages for entry in catalogues. 3rd. IFLA International Office for UBC, London.</div>
   <div class="csl-entry"><b>Kanamori H.</b> (1998). Shaking without quaking. Science, <b>279</b>: 2063.</div>
   <div class="csl-entry"><b>Kennedy W.J., Garrison R.E.</b> (1975a). Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England. Sedimentology, <b>22</b>: 311.</div>
@@ -192,6 +186,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Weinstein L., Swartz M.N.</b> (1974). Pathogenic properties of invading microorganisms. In: <i>Pathologic physiology: mechanisms of disease</i>. Saunders, Philadelphia. pp. 457-472.</div>
   <div class="csl-entry"><b>World Health Organization</b> (1970). Factors regulating the immune response: Report of WHO Scientific Group. WHO, Geneva.</div>
   <div class="csl-entry"><b>Yufin S.A.</b> (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. A. A. Balkema, Rotterdam.</div>
+  <div class="csl-entry">(1962). 康熙字典：巳集上：水部. 同文书局影印本 版. 中华书局, 北京: 50.</div>
+  <div class="csl-entry">(1977). 宋史卷三：本纪第三. In: 宋史. 中华书局, 北京. pp. 49.</div>
+  <div class="csl-entry">(1981). Coffee drinking and cancer of the pancreas. Br. Med. J., <b>283</b>: 628.</div>
+  <div class="csl-entry">(1988). 卷 39 乞致仕第一. In: 苏魏公文集. 中华书局, 北京. pp. 590.</div>
+  <div class="csl-entry">(2012-06-14).</div>
+  <div class="csl-entry">([No date]). Information and documentation—The Dublin Core metadata element set.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -201,7 +201,6 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">(1986). 现代汉语频率词典. 北京语言学院出版社, 北京.</div>
   <div class="csl-entry"><b>拉普拉斯, Pierre-Simon</b> (1951). 概率哲学. 未名出版社, 北京.</div>
   <div class="csl-entry"><b>李行健</b> (2004). 现代汉语规范辞典. 外语教学与研究出版社, 北京: 255.</div>
   <div class="csl-entry"><b>邱颖文</b> (2009). 遗传与语言学习. 华东师范大学, 上海.</div>
@@ -234,6 +233,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Wang D.F., Cui H.</b> (2004). Theoretical analysis of the seven factor model of Chinese personality. In: <i>Selected papers on personality and social psychology</i>. Peking University Press, Beijing. pp. 46-84.</div>
   <div class="csl-entry"><b>Wolchik S.A., West S.G., Sandler I.N., Tein J.Y., Coatsworth D., Lengua L., Weiss L., Anderson E.R., Greene S.M., Griffin W.A.</b> (2000). An experimental evaluation of theory-based mother and mother-child programs for children of divorce. J. Consult. Clin. Psychol., <b>68</b>: 843-856.</div>
   <div class="csl-entry"><b>Yu L.</b> (2000). Phonological representation and processing in Chinese spoken language production. Beijing Normal University.</div>
+  <div class="csl-entry">(1986). 现代汉语频率词典. 北京语言学院出版社, 北京.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -243,18 +243,6 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">(1910). 四川会议厅暂行章程. 广益丛报, 第1—2页.</div>
-  <div class="csl-entry">(1917-09-15).</div>
-  <div class="csl-entry">(1925). 上海各路商界总联合会致外交部电. 民国日报, 4.</div>
-  <div class="csl-entry">(1933). 西南中委反对在宁召开五全会. 民国日报, 第1张第4版.</div>
-  <div class="csl-entry">(1969-02-01).</div>
-  <div class="csl-entry">. 中华书局, 北京.</div>
-  <div class="csl-entry">. 上海古籍出版社, 上海.</div>
-  <div class="csl-entry">. 中华书局, 北京.</div>
-  <div class="csl-entry">(1986). 荣庆日记. 西北大学出版社, 西安.</div>
-  <div class="csl-entry">. 中华书局, 北京.</div>
-  <div class="csl-entry">. 中国书店, 北京.</div>
-  <div class="csl-entry">(1998). 马克思恩格斯全集. 人民出版社, 北京.</div>
   <div class="csl-entry"><b>狄葆贤</b> ([日期不详]). 平等阁笔记. 有正书局, 上海.</div>
   <div class="csl-entry"><b>杜威·佛克马</b> (1999). 走向新世界主义. In: 全球化与后殖民批评. 中央编译出版社, 北京. pp. 247-266.</div>
   <div class="csl-entry"><b>方明东</b> (2000). 罗隆基政治思想研究（1913—1949）. 北京师范大学历史系.</div>
@@ -286,6 +274,18 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Chamberlain H.B.</b> (1993). On the search for civil society in China. Mod. China, <b>19</b>: 199-215.</div>
   <div class="csl-entry"><b>Polo M.</b> (1997). The travels of Marco Polo. Cumberland House, Hertfordshire.</div>
   <div class="csl-entry"><b>Schfield R.S.</b> (1983). The impact of scarcity and plenty on population change in England. In: <i>Hunger and history: The impact of changing food production and consumption pattern on society</i>. Cambridge University Press, Cambridge, Mass. pp. 55-88.</div>
+  <div class="csl-entry">(1910). 四川会议厅暂行章程. 广益丛报, 第1—2页.</div>
+  <div class="csl-entry">(1917-09-15).</div>
+  <div class="csl-entry">(1925). 上海各路商界总联合会致外交部电. 民国日报, 4.</div>
+  <div class="csl-entry">(1933). 西南中委反对在宁召开五全会. 民国日报, 第1张第4版.</div>
+  <div class="csl-entry">(1969-02-01).</div>
+  <div class="csl-entry">. 中华书局, 北京.</div>
+  <div class="csl-entry">. 上海古籍出版社, 上海.</div>
+  <div class="csl-entry">. 中华书局, 北京.</div>
+  <div class="csl-entry">(1986). 荣庆日记. 西北大学出版社, 西安.</div>
+  <div class="csl-entry">. 中华书局, 北京.</div>
+  <div class="csl-entry">. 中国书店, 北京.</div>
+  <div class="csl-entry">(1998). 马克思恩格斯全集. 人民出版社, 北京.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -295,17 +295,9 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">(1919-03-03).</div>
-  <div class="csl-entry">(1966). Department of Transportation Act//Stat. .</div>
-  <div class="csl-entry">(1982-07-15).</div>
-  <div class="csl-entry">(2006). Administrative Procedure Act § 6//U.S.C. .</div>
-  <div class="csl-entry">(2013-02-08).</div>
-  <div class="csl-entry">(2015-07-06).</div>
-  <div class="csl-entry">(2017-12-16).</div>
   <div class="csl-entry"><b>崔国斌</b> (2006). 知识产权法官造法批判. 中国法学, 144-164.</div>
   <div class="csl-entry"><b>[德]莱纳·沃尔夫</b> (2012). 风险法的风险. In: 风险规制：德国的理论与实践. 法律出版社.</div>
   <div class="csl-entry"><b>邓小平</b> (1994). 精简机构是一场革命. In: 邓小平文选. 2 edn. 人民出版社.</div>
-  <div class="csl-entry">([日期不详]c). 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
   <div class="csl-entry"><b>高鸿钧, 程汉大</b> (2013). 英美法原论. 北京大学出版社.</div>
   <div class="csl-entry"><b>国家质量监督检验检疫总局, 中国国家标准化管理委员会</b> (2015). 信息与文献 参考文献著录规则.</div>
   <div class="csl-entry">(2007-07-11).</div>
@@ -316,7 +308,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>李松锋</b> (2015). 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究. 中国政法大学.</div>
   <div class="csl-entry"><b>罗豪才, 袁曙宏, 李文栋</b> (1993). 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡. 中国法学, 52-59.</div>
   <div class="csl-entry"><b>[美]富勒</b> (2005). 法律的道德性. 商务印书馆.</div>
-  <div class="csl-entry">([日期不详]e). 民法总则.</div>
   <div class="csl-entry"><b>欧中坦</b> (1994). 千方百计上京城：清朝的京控. In: 美国学者论中国法律传统. 中国政法大学出版社.</div>
   <div class="csl-entry"><b>瞿同祖</b> (2010). 中国法律与中国社会. 商务印书馆.</div>
   <div class="csl-entry"><b>全国人大常委会</b> (1991). 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定.</div>
@@ -347,7 +338,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Chevallier M.</b> (2003). L’État de droit. 4. Montchrestien, Paris.</div>
   <div class="csl-entry"><b>Dreier R., Paulson S.</b> (2003). Rechtsphilosophie Studienausgabe. 2. UTB Uni-Taschenbücher Verlag, Heidelberg.</div>
   <div class="csl-entry"><b>Fischer T.</b> (2015). Absurdes Spektakel um den Tod. Die Zeit.</div>
-  <div class="csl-entry">([日期不详]h). GG.</div>
   <div class="csl-entry"><b>Habermas J.</b> (1996). Between facts and norms: contributions to a discourse theory of law and democracy. MIT Press.</div>
   <div class="csl-entry"><b>Horsley J.</b> (2006). Rule of law in China: incremental progress. In: <i>China: The balance sheet</i>. Public Affairs Press.</div>
   <div class="csl-entry"><b>Kaufmann A.</b> (1972). Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. In: <i>Das Abtreibungsverbot des § 218 StGB</i>.  2 edn. .</div>
@@ -361,10 +351,20 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Rosenthal A.</b> (1990). White House tutors Kremlin in how a presidency works. New York Times, A1.</div>
   <div class="csl-entry"><b>Roxin C.</b> (2006). Strafrecht Allgemeiner Teil. 4. C. H. Beck.</div>
   <div class="csl-entry"><b>Schwab M.</b> (2013). . In: <i>Münchener Kommentar BGB</i>.  6 edn. .</div>
-  <div class="csl-entry">([日期不详]i). StGB.</div>
-  <div class="csl-entry">([日期不详]j). StPO.</div>
   <div class="csl-entry"><b>Vogel B.</b> (2017). Rechtsgüterschutz und Normgeltung. ZStW, <b>129</b>: 629-649.</div>
   <div class="csl-entry"><b>Würdinger M.</b> (2012). Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Jurist. Schul., 234-240.</div>
+  <div class="csl-entry">(1919-03-03).</div>
+  <div class="csl-entry">(1966). Department of Transportation Act//Stat. .</div>
+  <div class="csl-entry">(1982-07-15).</div>
+  <div class="csl-entry">(2006). Administrative Procedure Act § 6//U.S.C. .</div>
+  <div class="csl-entry">(2013-02-08).</div>
+  <div class="csl-entry">(2015-07-06).</div>
+  <div class="csl-entry">(2017-12-16).</div>
+  <div class="csl-entry">([日期不详]c). 民法总则.</div>
+  <div class="csl-entry">([日期不详]e). StGB.</div>
+  <div class="csl-entry">([日期不详]f). StPO.</div>
+  <div class="csl-entry">([日期不详]g). GG.</div>
+  <div class="csl-entry">([日期不详]i). 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -374,37 +374,6 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">(1964). Civil Rights Act of 1964//Stat. .</div>
-  <div class="csl-entry">(1972). Patsy Mink Equal Opportunity in Education Act//U.S.C. .</div>
-  <div class="csl-entry">. United Artists.</div>
-  <div class="csl-entry">(1981). Marking time in the land of plenty: Reflections on mental health in the United States. Am. J. Orthopsychiatry, <b>51</b>: 391-402.</div>
-  <div class="csl-entry">. Nouvelles Éditions de Films.</div>
-  <div class="csl-entry">(1989-11-20).</div>
-  <div class="csl-entry">(1990). American With Disabilities Act of 1990//U.S.C. .</div>
-  <div class="csl-entry">. Gracie Films; Twentieth Century Fox Film Corporation(1995-05-21).</div>
-  <div class="csl-entry">. WingNut Films; The Saul Zaentz Company.</div>
-  <div class="csl-entry">. Blown Deadline Productions; HBO.</div>
-  <div class="csl-entry">(2004). The Qur’an. Oxford University Press.</div>
-  <div class="csl-entry">(2009). Florida Mental Health Act//Fla. Stat. .</div>
-  <div class="csl-entry">(2009). Lilly Leadbetter Fair Play Act of 2009//Stat. .</div>
-  <div class="csl-entry">. Decca.</div>
-  <div class="csl-entry">. YouTube(2012-03-16).</div>
-  <div class="csl-entry">. Brilliant Classics.</div>
-  <div class="csl-entry">(2013). Mental Health on Campus Improvement Act.</div>
-  <div class="csl-entry">(2015). Every Student Succeeds Act//U.S.C. .</div>
-  <div class="csl-entry">(2015). H.R. Rep. No. 114-358.</div>
-  <div class="csl-entry">(2015). The Torah: The five books of Moses. 3rd. The Jewish Publication Society.</div>
-  <div class="csl-entry">(2016). Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees//F.R. .</div>
-  <div class="csl-entry">. YouTube(2016-12-06).</div>
-  <div class="csl-entry">. YouTube(2016-09-30).</div>
-  <div class="csl-entry">(2016). S. Res. 438//Cong. Rec. .</div>
-  <div class="csl-entry">. American Pychological Association.</div>
-  <div class="csl-entry">. Vimeo(2017-11-24).</div>
-  <div class="csl-entry">(2017). King James Bible. King James Bible Online.</div>
-  <div class="csl-entry">. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios(2017-01-11).</div>
-  <div class="csl-entry">. American Psychiatric Association.</div>
-  <div class="csl-entry">. TED Conferences.</div>
-  <div class="csl-entry">(2019-01-13).</div>
   <div class="csl-entry"><b>Ahmann E., Tuttle L.J., Saviet M., Wright S.D.</b> (2018). A descriptive review of ADHD coaching research: Implications for college students. J. Postsecond. Educ. Disabil., <b>31</b>: 17-39.</div>
   <div class="csl-entry">. PsycTESTS.</div>
   <div class="csl-entry"><b>Amano N., Kondo H.</b> (2000). Lexical characteristics of Japanese language. Sansei-do.</div>
@@ -507,7 +476,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Sacchett C., Humphreys G.W.</b> (1992). Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. Cognitive Neuropsychology, <b>9</b>: 73-86.</div>
   <div class="csl-entry"><b>Sacchett C., Humphreys G.W.</b> (2004). Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts. In: <i>Cognitive psychology: Key readings in cognition</i>. Psychology Press. pp. 100-108.</div>
   <div class="csl-entry"><b>Santos F.</b> (2019). Reframing refugee children’s stories. The New York Times.</div>
-  <div class="csl-entry">([No date]). S.C. Const. art. XI, § 3.</div>
   <div class="csl-entry"><b>Schmid H.-J.</b> (2017). Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge. American Psychological Association; De Gruyter Mouton.</div>
   <div class="csl-entry"><b>Segaert A., Bauer A.</b> (2015). The extent and nature of veteran homelessness in Canada. Employment and Social Development Canada.</div>
   <div class="csl-entry"><b>Shakespeare W.</b> (1995). Much ado about nothing. Washington Square Press.</div>
@@ -516,11 +484,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Tafoya N., Del Vecchio A.</b> (2005). Back to the future: An examination of the Native American Holocaust experience. In: <i>Ethnicity and family therapy</i>.  3rd edn. Guilford Press. pp. 55-63.</div>
   <div class="csl-entry"><b>Tellegen A., Ben-Porath Y.S.</b> (2011). Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual. Pearson.</div>
   <div class="csl-entry"><b>Travis C.B., White J.W.</b> (2018). APA handbook of the psychology of women. American Psychological Association.</div>
-  <div class="csl-entry">([No date]). U.N. Charter art. 1, para. 3.</div>
-  <div class="csl-entry">([No date]). U.S. Const. amend. I-X.</div>
-  <div class="csl-entry">([No date]). U.S. Const. amend. XIX.</div>
-  <div class="csl-entry">([No date]). U.S. Const. amend. XVIII (repealed 1933).</div>
-  <div class="csl-entry">([No date]). U.S. Const. art. I, § 3.</div>
   <div class="csl-entry"><b>U.S. Food and Drug Administration</b> (2019). FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices. U.S. Food and Drug Administration.</div>
   <div class="csl-entry"><b>U.S. Securities and Exchange Commission</b> (2017). Agency financial report: Fiscal Year 2017.</div>
   <div class="csl-entry">. NPR.</div>
@@ -531,6 +494,43 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Yousafzai M.</b> (2016). We are displaced: My journey and stories from refugee girls around the world.</div>
   <div class="csl-entry"><b>Zalta E.N.</b> (2019). The Stanford encyclopedia of philosophy. Summer 2019 ed. ed. Stanford University.</div>
   <div class="csl-entry">(2018-11-26).</div>
+  <div class="csl-entry">(1964). Civil Rights Act of 1964//Stat. .</div>
+  <div class="csl-entry">(1972). Patsy Mink Equal Opportunity in Education Act//U.S.C. .</div>
+  <div class="csl-entry">. United Artists.</div>
+  <div class="csl-entry">(1981). Marking time in the land of plenty: Reflections on mental health in the United States. Am. J. Orthopsychiatry, <b>51</b>: 391-402.</div>
+  <div class="csl-entry">. Nouvelles Éditions de Films.</div>
+  <div class="csl-entry">(1989-11-20).</div>
+  <div class="csl-entry">(1990). American With Disabilities Act of 1990//U.S.C. .</div>
+  <div class="csl-entry">. Gracie Films; Twentieth Century Fox Film Corporation(1995-05-21).</div>
+  <div class="csl-entry">. WingNut Films; The Saul Zaentz Company.</div>
+  <div class="csl-entry">. Blown Deadline Productions; HBO.</div>
+  <div class="csl-entry">(2004). The Qur’an. Oxford University Press.</div>
+  <div class="csl-entry">(2009). Lilly Leadbetter Fair Play Act of 2009//Stat. .</div>
+  <div class="csl-entry">(2009). Florida Mental Health Act//Fla. Stat. .</div>
+  <div class="csl-entry">. Decca.</div>
+  <div class="csl-entry">. YouTube(2012-03-16).</div>
+  <div class="csl-entry">. Brilliant Classics.</div>
+  <div class="csl-entry">(2013). Mental Health on Campus Improvement Act.</div>
+  <div class="csl-entry">(2015). The Torah: The five books of Moses. 3rd. The Jewish Publication Society.</div>
+  <div class="csl-entry">(2015). Every Student Succeeds Act//U.S.C. .</div>
+  <div class="csl-entry">(2015). H.R. Rep. No. 114-358.</div>
+  <div class="csl-entry">. YouTube(2016-09-30).</div>
+  <div class="csl-entry">. YouTube(2016-12-06).</div>
+  <div class="csl-entry">(2016). S. Res. 438//Cong. Rec. .</div>
+  <div class="csl-entry">(2016). Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees//F.R. .</div>
+  <div class="csl-entry">(2017). King James Bible. King James Bible Online.</div>
+  <div class="csl-entry">. American Pychological Association.</div>
+  <div class="csl-entry">. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios(2017-01-11).</div>
+  <div class="csl-entry">. Vimeo(2017-11-24).</div>
+  <div class="csl-entry">. TED Conferences.</div>
+  <div class="csl-entry">. American Psychiatric Association.</div>
+  <div class="csl-entry">(2019-01-13).</div>
+  <div class="csl-entry">([No date]). U.S. Const. art. I, § 3.</div>
+  <div class="csl-entry">([No date]). S.C. Const. art. XI, § 3.</div>
+  <div class="csl-entry">([No date]). U.S. Const. amend. XIX.</div>
+  <div class="csl-entry">([No date]). U.S. Const. amend. XVIII (repealed 1933).</div>
+  <div class="csl-entry">([No date]). U.S. Const. amend. I-X.</div>
+  <div class="csl-entry">([No date]). U.N. Charter art. 1, para. 3.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
