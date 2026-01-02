@@ -8,8 +8,8 @@
 
 ### 引注
 
-(Hornby 2000)<br>
-(中国社会科学院语言研究所词典编辑室 2002）<br>
+（Hornby 2000）<br>
+（中国社会科学院语言研究所词典编辑室 2002）<br>
 
 
 ### 参考文献表
@@ -23,31 +23,31 @@
 
 ### 引注
 
-(张三 2008：42）<br>
-张三 (2008：42）<br>
-(Jason 2008: 42)<br>
-Jason (2008: 42)<br>
-张三、李四 (2008）<br>
-Wang &#38; Sun (2009)<br>
-(Wolchik &#38; West 2009, 赵一、陈二 2008）<br>
-张三等 (2008）<br>
-Wang et al. (2009)<br>
-(Wolchik <i>et al.</i> 2009, 赵一等 2008）<br>
-张三等 (2019a）<br>
-张三等 (2019b）<br>
-Qian et al. (2020b)<br>
-Qian et al. (2020a)<br>
-(Qian <i>et al.</i> 2020b, 张三等 2019a）<br>
-张三等 (2020a）<br>
-张三等 (2020b）<br>
-Qian et al. (2009b)<br>
-Qian et al. (2009a)<br>
-(张三等 2020a）<br>
-(Qian <i>et al.</i> 2009b)<br>
-(Wong 2007)<br>
-(Wong 2008)<br>
-(Edeline &#38; Weinberger 2002a, 2002b, 2005, n.d.)<br>
-(Bai 2002, Chen 2006, Deng &#38; Feng 2005)<br>
+（张三 2008：42）<br>
+张三 （2008：42）<br>
+（Jason 2008: 42）<br>
+Jason （2008: 42）<br>
+张三、李四 （2008）<br>
+Wang &#38; Sun （2009）<br>
+（Wolchik &#38; West 2009，赵一、陈二 2008）<br>
+张三等 （2008）<br>
+Wang et al. （2009）<br>
+（Wolchik <i>et al.</i> 2009，赵一等 2008）<br>
+张三等 （2019a）<br>
+张三等 （2019b）<br>
+Qian et al. （2020b）<br>
+Qian et al. （2020a）<br>
+（Qian <i>et al.</i> 2020b，张三等 2019a）<br>
+张三等 （2020a）<br>
+张三等 （2020b）<br>
+Qian et al. （2009b）<br>
+Qian et al. （2009a）<br>
+（张三等 2020a）<br>
+（Qian <i>et al.</i> 2009b）<br>
+（Wong 2007）<br>
+（Wong 2008）<br>
+（Edeline &#38; Weinberger 2002a, 2002b, 2005, n.d.）<br>
+（Bai 2002，Chen 2006，Deng &#38; Feng 2005）<br>
 
 
 ### GB/T 7714—2025 示例文献
