@@ -8,37 +8,36 @@
 
 ### 引注
 
-<sup>1</sup> 库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
-<sup>2</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
-<sup>3</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
-<sup>4</sup> FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>
-<sup>5</sup> 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.<br>
-<sup>6</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.<br>
-<sup>7</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.<br>
-<sup>8</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 357[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.<br>
-<sup>9</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 326-329[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
+<sup>1</sup> 扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.<br>
+<sup>2</sup> PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.<br>
+<sup>3</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
+<sup>4</sup> VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.<br>
+<sup>5</sup> 汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.<br>
+<sup>6</sup> WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.<br>
+<sup>7</sup> WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.<br>
+<sup>8</sup> PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 326-329[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
 </div>
 
@@ -46,149 +45,162 @@
 
 ### 引注
 
-<sup>1</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
-<sup>2</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+<sup>1</sup> 张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 903.<br>
+<sup>2</sup> 曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 260.<br>
 <sup>3</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006.<br>
-<sup>4</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326-329.<br>
-<sup>5</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 326-329.<br>
-<sup>6</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010: 260.<br>
+<sup>4</sup> 曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 326-329.<br>
+<sup>5</sup> 曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 326-329.<br>
+<sup>6</sup> 曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 260.<br>
 <sup>7</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006: 330.<br>
 <sup>8</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006: 330.<br>
 <sup>9</sup> 应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006: 331.<br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.<br>
-<sup>2</sup> 哈里森·沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.<br>
-<sup>3</sup> 北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.<br>
-<sup>4</sup> 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.<br>
-<sup>5</sup> 徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.<br>
-<sup>6</sup> 顾炎武. 昌平山水记：京东考古录[M]. 北京: 北京古籍出版社, 1982.<br>
-<sup>7</sup> 王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.<br>
-<sup>8</sup> 牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
-<sup>9</sup> 中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.<br>
-<sup>10</sup> 杨保军. 新闻道德论[D/OL]. 北京: 中国人民大学出版社, 2012[2012-11-01]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20101104-BPO-889-1023&#38;cult=CN</a>.<br>
-<sup>11</sup> 赵学功. 当代美国外交[M/OL]. 北京: 社会科学文献出版社, 2001[2014-06-11]. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a>.<br>
-<sup>12</sup> 同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M/OL]. 上海: 同济大学出版社, 2011: 5-6[2013-05-09]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>.<br>
-<sup>13</sup> 中国造纸学会. 中国造纸年鉴：2003[M/OL]. 北京: 中国轻工业出版社, 2003[2014-04-25]. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a>.<br>
-<sup>14</sup> PEEBLES P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.<br>
-<sup>15</sup> YUFIN S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.<br>
-<sup>16</sup> BALDOCK P. Developing early childhood services: Past, present and future[M/OL]. Rotterdam: Open University Press, 2011: 105[2012-11-27]. <a href="http://lib.myilibrary.com/Open.aspx?id=312377">http://lib.myilibrary.com/Open.aspx?id=312377</a>.<br>
-<sup>17</sup> FAN X, SOMMERS C H. Food irradiation research and technology[M/OL]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26[2014-06-26]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781118422557.ch2/summary</a>.<br>
-<sup>18</sup> 周易外传：卷 5[M]//王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.<br>
-<sup>19</sup> 程根伟. 1998 年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.<br>
-<sup>20</sup> 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.<br>
-<sup>21</sup> 马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.<br>
-<sup>22</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
-<sup>23</sup> WEINSTEIN L, SWARTZ M N. Pathogenic properties of invading microorganisms[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.<br>
-<sup>24</sup> ROBERSON J A, BURNESON E G. Drinking water standards, regulations, and goals[M/OL]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10]. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.<br>
-<sup>25</sup> 中华医学会湖北分会. 临床内科杂志[J]. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.<br>
-<sup>26</sup> 中国图书馆学会. 图书馆学通讯[J]. 1957(1-4). 北京: 北京图书馆, 1957.<br>
-<sup>27</sup> American Association for the Advancement of Science. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>28</sup> 袁训来, 陈哲, 肖书海, 等. 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.<br>
-<sup>29</sup> 余建斌. 我们的科技一直在追赶：访中国工程院院长周济[N/OL]. 人民日报, 2013-01-12(2)[2013-03-20]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm</a>.<br>
-<sup>30</sup> 李炳穆. 韩国图书馆法[J/OL]. 图书情报工作, 2008, 52(6): 6-12[2013-10-25]. <a href="http://www.docin.com/p-400265742.html">http://www.docin.com/p-400265742.html</a>.<br>
-<sup>31</sup> 李幼平, 王莉. 循证医学研究方法：附视频[J/OL]. 中华移植杂志（电子版）, 2010, 4(3): 225-228[2014-06-09]. <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a>.<br>
-<sup>32</sup> 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J/OL]. 测绘科学, 2008, 33(5): 8-9[2009-10-25]. <a href="http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail">http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail</a>. DOI:<a href="https://doi.org/10.3771/j.issn.1009-2307.2008.05.002">10.3771/j.issn.1009-2307.2008.05.002</a>.<br>
-<sup>33</sup> KANAMORI H. Shaking without quaking[J/OL]. Science, 1998, 279(5359): 2063. DOI:<a href="https://doi.org/10.1126/science.279.5359.2063">10.1126/science.279.5359.2063</a>.<br>
-<sup>34</sup> CAPLAN P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.<br>
-<sup>35</sup> FRESE K S, KATUS H A, MEDER B. Next-generation sequencing: from understanding biology to personalized medicine[J/OL]. Biology, 2013, 2(1): 378-398[2013-03-19]. <a href="http://www.mdpi.com/2079-7737/2/1/378">http://www.mdpi.com/2079-7737/2/1/378</a>. DOI:<a href="https://doi.org/10.3390/biology2010378">10.3390/biology2010378</a>.<br>
-<sup>36</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of eucalyptus grandis[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf">http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.<br>
-<sup>37</sup> 邓一刚. 全智能节电器: 200610171314.3[P]. 2006-12-13.<br>
-<sup>38</sup> 西安电子科技大学. 光折变自适应光外差探测方法: 01128777.2[P/OL]. 2002-03-06[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a>.<br>
-<sup>39</sup> TACHIBANA R, SHIMIZU S, KOBAYASHI S, et al. Electronic watermarking method and system: US6915001[P/OL]. 2005-07-05[2013-11-11]. <a href="http://www.google.co.in/patents/US6915001">http://www.google.co.in/patents/US6915001</a>.<br>
-<sup>40</sup> 中国互联网络信息中心. 第 29 次中国互联网络发展状况统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.<br>
-<sup>41</sup> 北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号[A/OL]. (2005-07-12)[2011-07-12]. <a href="http://china.findlaw.cn/fagui/p_1/39934.html">http://china.findlaw.cn/fagui/p_1/39934.html</a>.<br>
-<sup>42</sup> BAWDEN D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
-<sup>43</sup> Online Computer Library Center, Inc. About OCLC: History of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.<br>
-<sup>44</sup> HOPKINSON A. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
-<sup>45</sup> Coffee drinking and cancer of the pancreas[J]. British Medical Journal, 1981, 283(6292): 628.<br>
-<sup>46</sup> 刘乃安. 生物质材料热解失重动力学及其分析方法研究[D/OL]. 合肥: 中国科学技术大学, 2000: 17-18[2014-08-29]. <a href="http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa">http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa</a>. DOI:<a href="https://doi.org/10.7666/d.y351065">10.7666/d.y351065</a>.<br>
-<sup>47</sup> DEVERELL W, IGLER D. A companion to California history[M/OL]. New York: John Wiley &#38; Sons, 2013: 21-22[2014-06-24]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary</a>. DOI:<a href="https://doi.org/10.1002/9781444305036">10.1002/9781444305036</a>.<br>
-<sup>48</sup> BAKER S K, JACKSON M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.<br>
-<sup>49</sup> CHERNIK B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
-<sup>50</sup> 尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.<br>
-<sup>51</sup> 汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997: 16.<br>
-<sup>52</sup> 杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.<br>
-<sup>53</sup> DOWLER L. The research university’s dilemma: Resource sharing and research in a transinstitutional environment[J/OL]. Journal of Library Administration, 1995, 21(1/2): 5-26. DOI:<a href="https://doi.org/10.1300/J111V21N01_02">10.1300/J111V21N01_02</a>.<br>
-<sup>54</sup> SUNSTEIN C R. Social norms and social roles[J/OL]. Columbia Law Review, 1996, 96: 903[2012-01-26]. <a href="http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr">http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&#38;id=913&#38;collection=journals&#38;index=journals/clr</a>. DOI:<a href="https://doi.org/10.2307/1123430">10.2307/1123430</a>.<br>
-<sup>55</sup> MORRIS I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
-<sup>56</sup> 罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
-<sup>57</sup> 陈登原. 国史旧闻: 第 1 卷[M]. 北京: 中华书局, 2000: 29.<br>
-<sup>58</sup> CRANE D. Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.<br>
-<sup>59</sup> STIEG M F. The information needs of historians[J/OL]. College &#38; Research Libraries, 1981, 42(6): 549-560. DOI:<a href="https://doi.org/10.5860/crl_42_06_549">10.5860/crl_42_06_549</a>.<br>
-<sup>60</sup> 王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.<br>
-<sup>61</sup> 王临惠. 从几组声母的演变看天津方言形成的自然条件和历史背景[C]//曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.<br>
-<sup>62</sup> KENNEDY W J, GARRISON R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J/OL]. Sedimentology, 1975, 22: 311. DOI:<a href="https://doi.org/10.1111/j.1365-3091.1975.tb01637.x">10.1111/j.1365-3091.1975.tb01637.x</a>.<br>
-<sup>63</sup> KENNEDY W J, GARRISON R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia, 1975, 8(4): 339-360.<br>
-<sup>64</sup> 张忠智. 科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.<br>
-<sup>65</sup> 中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.<br>
-<sup>66</sup> 刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38-39.<br>
-<sup>67</sup> 裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.<br>
-<sup>68</sup> 张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.<br>
-<sup>69</sup> 皮锡瑞. 师伏堂日记: 第 4 册[M]. 北京: 国家图书馆, 2009: 155.<br>
-<sup>70</sup> 胡承正, 周详, 缪灵. 理论物理概论: 上[M]. 武汉: 武汉大学出版社, 2010: 112.<br>
-<sup>71</sup> 美国妇产科医师学会. 新生儿脑病和脑性瘫痪：发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.<br>
-<sup>72</sup> 康熙字典：巳集上：水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.<br>
-<sup>73</sup> 汪昂. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂, 1881.<br>
-<sup>74</sup> 蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.<br>
-<sup>75</sup> 中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾：大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.<br>
-<sup>76</sup> 罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.<br>
-<sup>77</sup> 库恩. 科学革命的结构：第 4 版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
-<sup>78</sup> 侯文顺. 高分子物理：高分子材料分析、选择与改性[M/OL]. 北京: 化学工业出版社, 2010: 119[2012-11-27]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20111114-HGS-889-0228</a>.<br>
-<sup>79</sup> CRAWFORD W, GORMAN M. Future libraries: Dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.<br>
-<sup>80</sup> International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.<br>
-<sup>81</sup> O’BRIEN J A. Introduction to information systems[M]. 7th ed. Burr Ridge, IL: Irwin, 1994.<br>
-<sup>82</sup> KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50[2013-07-14]. <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a>.<br>
-<sup>83</sup> PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.<br>
-<sup>84</sup> 中国职工教育研究会. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985.<br>
-<sup>85</sup> 中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012.<br>
-<sup>86</sup> 雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
-<sup>87</sup> 陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社, 2011[2013-10-14]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.201106228-BPO-889-0135&#38;cult=CN</a>.<br>
-<sup>88</sup> BABU B V, NAGAR A K, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.<br>
-<sup>89</sup> 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R/OL]. (2013-04-16)[2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.<br>
-<sup>90</sup> 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL]. (2013-09-30)[2014-06-24]. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a>.<br>
-<sup>91</sup> CALKIN D, AGER A, THOMPSON M. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.<br>
-<sup>92</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.<br>
-<sup>93</sup> World Health Organization. Factors regulating the immune response: Report of WHO Scientific Group[R]. Geneva: WHO, 1970.<br>
-<sup>94</sup> 马欢. 人类活动影响下海河流域典型区水循环变化分析[D/OL]. 北京: 清华大学, 2011: 27[2013-10-14]. <a href="http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&#38;QueryID=.0&#38;CurRec=11&#38;dbname=CDFDLAST2013&#38;filename=1012035905.nh&#38;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=">http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&#38;QueryID=.0&#38;CurRec=11&#38;dbname=CDFDLAST2013&#38;filename=1012035905.nh&#38;uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=</a>.<br>
-<sup>95</sup> 吴云芳. 面向中文信息处理的现代汉语并列结构研究[D/OL]. 北京: 北京大学, 2003[2013-10-14]. <a href="http://thesis.lib.pku.edu.cn/dlib/List.asp?lang=gb&#38;type=Reader&#38;DocGroupID=4&#38;DocID=6328">http://thesis.lib.pku.edu.cn/dlib/List.asp?lang=gb&#38;type=Reader&#38;DocGroupID=4&#38;DocID=6328</a>.<br>
-<sup>96</sup> CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.<br>
-<sup>97</sup> 张凯军. 轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2[P]. 2012-04-05.<br>
-<sup>98</sup> 河北绿洲生态环境科技有限公司. 一种荒漠化地区生态植被综合培育种植方法: 01129210.5[P/OL]. 2001-10-24[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>.<br>
-<sup>99</sup> KOSEKI A, MOMOSE H, KAWAHITO M, et al. Compiler: US828402[P/OL]. 2002-05-25[2002-05-28]. <a href="http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM">http://FF&#38;p=1&#38;u=netahtml/PTO/search-bool.html&#38;r=5&#38;f=G&#38;1=50&#38;col=AND&#38;d=PG01&#38;sl=IBM.AS.&#38;OS=AN/IBM/RS=AN/IBM</a>.<br>
-<sup>100</sup> 全国信息与文献标准化技术委员会. 文献著录：第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.<br>
-<sup>101</sup> 全国广播电视标准化技术委员会. 广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.<br>
-<sup>102</sup> 国家环境保护局科技标准司. 土壤环境质量标准: GB 15616—1995[S/OL]. 北京: 中国标准出版社, 1996: 2-3[2013-10-14]. <a href="http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html">http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html</a>.<br>
-<sup>103</sup> Information and documentation—The Dublin Core metadata element set: ISO 15836:2009[S/OL]. [2013-03-24]. <a href="http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142">http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142</a>.<br>
-<sup>104</sup> 卷 39 乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.<br>
-<sup>105</sup> 白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.<br>
-<sup>106</sup> 汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.<br>
-<sup>107</sup> 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京: 中国标准出版社, 1988: 59-92.<br>
-<sup>108</sup> 宋史卷三：本纪第三[M]//宋史: 第 1 册. 北京: 中华书局, 1977: 49.<br>
-<sup>109</sup> 楼梦鳞, 杨燕. 汶川地震基岩地震动特征分析[M/OL]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012[2013-05-09]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>.<br>
-<sup>110</sup> BUSECK P R, NORD G L Jr, VEBLEN D R. Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.<br>
-<sup>111</sup> FOURNEY M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>
-<sup>112</sup> 杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.<br>
-<sup>113</sup> 李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.<br>
-<sup>114</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
-<sup>115</sup> 陈建军. 从数字地球到智慧地球[J/OL]. 国土资源导刊, 2010, 7(10): 93[2013-03-20]. <a href="http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx">http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx</a>. DOI:<a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">10.3969/j.issn.1672-5603.2010.10.038</a>.<br>
-<sup>116</sup> DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.<br>
-<sup>117</sup> SAITO M, MIYAZAKI K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J/OL]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176. DOI:<a href="https://doi.org/10.9795/bullgsj.57.169">10.9795/bullgsj.57.169</a>.<br>
-<sup>118</sup> WALLS S C, BARICHIVICH W J, BROWN M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J/OL]. Biology, 2013, 2(1): 399-418[2013-11-04]. <a href="http://www.mdpi.com/2079-7737/2/1/399">http://www.mdpi.com/2079-7737/2/1/399</a>. DOI:<a href="https://doi.org/10.3390/biology2010399">10.3390/biology2010399</a>.<br>
-<sup>119</sup> FRANZ A K, DANIELEWICZ M A, WONG D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J/OL]. ACS Chemical Biology, 2013, 8: 1053-1062[2014-06-26]. <a href="http://pubs.acs.org/doi/ipdf/10.1021/cb300573r">http://pubs.acs.org/doi/ipdf/10.1021/cb300573r</a>. DOI:<a href="https://doi.org/10.1021/cb300573r">10.1021/cb300573r</a>.<br>
-<sup>120</sup> PARK J R, TOSAKA Y. Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715[2013-09-05]. <a href="http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711">http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711</a>. DOI:<a href="https://doi.org/10.1080/01639374.2010.508711">10.1080/01639374.2010.508711</a>.<br>
-<sup>121</sup> 丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).<br>
-<sup>122</sup> 张田勘. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).<br>
-<sup>123</sup> 傅刚, 赵承, 李佳路. 大风沙过后的思考[N/OL]. 北京青年报, 2000-01-12[2005-09-28]. <a href="http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm">http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm</a>.<br>
-<sup>124</sup> 刘裕国, 杨柳, 张洋, 等. 雾霾来袭，如何突围？[N/OL]. 人民日报, 2013-01-12[2013-11-06]. <a href="http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm">http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm</a>.<br>
-<sup>125</sup> 萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.<br>
-<sup>126</sup> 李强. 化解医患矛盾需釜底抽薪[EB/OL]. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.<br>
-<sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.<br>
-<sup>128</sup> Dublin Core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
+<sup>1</sup> 张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.<br>
+<sup>2</sup> 曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 19.<br>
+<sup>3</sup> 陈登原. 国史旧闻: 卷 1[M]. 北京: 中华书局, 2000: 29.<br>
+<sup>4</sup> 王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.<br>
+<sup>5</sup> 顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.<br>
+<sup>6</sup> 钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.<br>
+<sup>7</sup> 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.<br>
+<sup>8</sup> 康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.<br>
+<sup>9</sup> 战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.<br>
+<sup>10</sup> 哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.<br>
+<sup>11</sup> 牛永敢, 孔晓, 王阳, 等. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019: 65-66.<br>
+<sup>12</sup> 扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.<br>
+<sup>13</sup> 云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社, 2009.<br>
+<sup>14</sup> 赵学功. 当代美国外交[M/OL]. 北京: 社会科学文献出版社, 2001[2014-06-11]. <a href="http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1">http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1</a>.<br>
+<sup>15</sup> 中国造纸学会. 中国造纸年鉴：2003[M/OL]. 北京: 中国轻工业出版社, 2003[2014-04-25]. <a href="http://www.cadal.zju.edu.cn/book/view/25010080">http://www.cadal.zju.edu.cn/book/view/25010080</a>.<br>
+<sup>16</sup> 博伯尔. 银行业的未来与人工智能[M]. 徐超, 译. 北京: 清华大学出版社, 2023: 35.<br>
+<sup>17</sup> 図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.<br>
+<sup>18</sup> PEEBLES P Z Jr. Probability, random variable, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.<br>
+<sup>19</sup> SADOCK B J, SADOCK V A, RUIZ P, et al. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
+<sup>20</sup> Institute For Art And Architecture, Academy Of Fine Arts Vienna. Wiener Hitze: architecture and storytelling in times of heat[M]. Zürich: Park Books, 2023: 78.<br>
+<sup>21</sup> KINCHY A. Seeds, sciences, and struggle: the global politics of transgenic crops[M/OL]. Cambridge, Mass.: MIT Press, 2012: 50[2013-07-14]. <a href="http://lib.myilibrary.com?ID=381443">http://lib.myilibrary.com?ID=381443</a>.<br>
+<sup>22</sup> PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26]. <a href="http://lib.myilibrary.com/Open.aspx?id=293666">http://lib.myilibrary.com/Open.aspx?id=293666</a>.<br>
+<sup>23</sup> TORRES L, SALISBURY F, YAZBECK B, et al. Connecting the library to the curriculum[M/OL]. Singapore: Springer Nature, 2021: 97[2025-12-02]. <a href="https://link.springer.com/10.1007/978-981-16-3868-8">https://link.springer.com/10.1007/978-981-16-3868-8</a>.<br>
+<sup>24</sup> BOOBIER T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.<br>
+<sup>25</sup> DEVERELL W, IGLER D. A companion to California history[M/OL]. New York: John Wiley &#38; Sons, 2013: 21-22[2014-06-24]. <a href="http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary">http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary</a>.<br>
+<sup>26</sup> 阿扬. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.<br>
+<sup>27</sup> 周易外传：卷5[M]//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.<br>
+<sup>28</sup> 程根伟. 1998年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.<br>
+<sup>29</sup> 李约瑟. 题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社, 1991: 扉页.<br>
+<sup>30</sup> 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.<br>
+<sup>31</sup> 马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 2 版. 北京: 人民出版社, 2013: 302.<br>
+<sup>32</sup> 大黄[M]//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社, 2020: 24-25.<br>
+<sup>33</sup> 楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[M/OL]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 11-12[2013-05-09]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20120406-YPT-889-0010</a>.<br>
+<sup>34</sup> WEINSTEIN L, SWARTZ M N. Pathogenic properties of invading microorganisms[M]//SODEMAN W A Jr, SODEMAN W A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders, 1974: 457-472.<br>
+<sup>35</sup> ROBERSON J A, BURNESON E G. Drinking water standards, regulations and goals[M/OL]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36[2012-12-10]. <a href="http://lib.myilibrary.com/Open.aspx?id=291430">http://lib.myilibrary.com/Open.aspx?id=291430</a>.<br>
+<sup>36</sup> 中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.<br>
+<sup>37</sup> 中国图书馆学会. 图书馆学通讯[J]. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990.<br>
+<sup>38</sup> American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
+<sup>39</sup> Public library quarterly[J/OL]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979[2025-02-28]. <a href="http://www.tandfonline.com/loi/wplq">http://www.tandfonline.com/loi/wplq</a>.<br>
+<sup>40</sup> 杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.<br>
+<sup>41</sup> 丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).<br>
+<sup>42</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
+<sup>43</sup> 久保智康. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 东方博物, 2009(1): 85-92.<br>
+<sup>44</sup> 陈建军. 从数字地球到智慧地球[J/OL]. 国土资源导刊, 2010, 7(10): 93[2013-03-20]. <a href="http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx">http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx</a>. DOI:<a href="https://doi.org/10.3969/j.issn.1672-5603.2010.10.038">10.3969/j.issn.1672-5603.2010.10.038</a>.<br>
+<sup>45</sup> 陈缮真. 探索微观世界的无穷奥秘（科技大观）[N/OL]. 人民日报, 2022-08-16(17)[2015-02-28]. <a href="http://paper.people.com.cn/rmrb/html/2022-08/16/nw.D110000renmrb_20220816_3-17.htm">http://paper.people.com.cn/rmrb/html/2022-08/16/nw.D110000renmrb_20220816_3-17.htm</a>.<br>
+<sup>46</sup> 李幼平, 王莉. 循证医学研究方法：附视频[J/OL]. 中华移植杂志（电子版）, 2010, 4(3): 225-228[2014-06-09]. <a href="http://www.cqvip.com/Read/Read.aspx?id=36658332">http://www.cqvip.com/Read/Read.aspx?id=36658332</a>.<br>
+<sup>47</sup> 张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J/OL]. 铁道学报, 2024[2025-02-28]. <a href="http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html">http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html</a>.<br>
+<sup>48</sup> 张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报, 2024, 46(8): 102-111.<br>
+<sup>49</sup> 徐建委. 历史的起点：《史记》中的时间设置及其意义[J/OL]. 北京大学学报（哲学社会科学版）, 2025, 62(2): 117-127[2025-12-02]. <a href="https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1">https://ncpssd.org/Literature/articleinfo?id=BJDXXBZXSHKXB2025002012&#38;synUpdateType=&#38;type=journalArticle&#38;typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0&#38;nav=1&#38;langType=1&#38;pageUrl=https%253A%252F%252Fncpssd.org%252Fjournal%252Fdetails%253Fgch%253D81274X%2526nav%253D1%2526langType%253D1</a>.<br>
+<sup>50</sup> 王利平, 王福新, 刘洪. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报, 2024, 45(增刊1): 730570.<br>
+<sup>51</sup> CAPLAN P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.<br>
+<sup>52</sup> SAITO M, MIYAZAKI K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169-176.<br>
+<sup>53</sup> DES MARAIS D J, STRAUSS H, SUMMONS R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.<br>
+<sup>54</sup> PARK J R, TOSAKA Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J/OL]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715[2013-09-05]. <a href="https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711">https://www.tandfonline.com/doi/full/10.1080/01639374.2010.508711</a>.<br>
+<sup>55</sup> FRESE K S, KATUS H A, MEDER B. Next-generation sequencing: from understanding biology to personalized medicine[J/OL]. Biology, 2013, 2(1): 378-398[2013-03-19]. <a href="http://www.mdpi.com/2079-7737/2/1/378">http://www.mdpi.com/2079-7737/2/1/378</a>. DOI:<a href="https://doi.org/10.3390/biology2010378">10.3390/biology2010378</a>.<br>
+<sup>56</sup> MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of <i>Eucalyptus grandis</i>[J/OL]. Nature, 2014, 510: 356-362[2014-06-25]. <a href="https://www.nature.com/articles/nature13308.pdf">https://www.nature.com/articles/nature13308.pdf</a>. DOI:<a href="https://doi.org/10.1038/nature13308">10.1038/nature13308</a>.<br>
+<sup>57</sup> SANTER R D, AKANYETI O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J/OL]. Insect science, 2025[2025-02-28]. <a href="https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001398099800001">https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001398099800001</a>. DOI:<a href="https://doi.org/10.1111/1744-7917.13496">10.1111/1744-7917.13496</a>.<br>
+<sup>58</sup> SHINOTSUKA H, NAGATA K, SIRIWARDANA M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J/OL]. Journal of electron spectroscopy and related phenomena, 2023, 267: 147370[2025-02-28]. <a href="https://doi.org/10.1016/j.elspec.2023.147370">https://doi.org/10.1016/j.elspec.2023.147370</a>.<br>
+<sup>59</sup> VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118. <a href="https://pubmed.ncbi.nlm.nih.gov/24314719/">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.<br>
+<sup>60</sup> 李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会. 2022: 2.<br>
+<sup>61</sup> 牛志明, SWINGLAND I R, 雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
+<sup>62</sup> 中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012.<br>
+<sup>63</sup> 肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系, 2024: 134-147.<br>
+<sup>64</sup> 汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.<br>
+<sup>65</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
+<sup>66</sup> 陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社, 2011[2013-10-14]. <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN</a>.<br>
+<sup>67</sup> WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2[2025-12-02]. <a href="https://ieeexplore.ieee.org/document/10137867">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.<br>
+<sup>68</sup> YU Y, PAN E, WANG X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR. 2024: 4[2025-12-02]. <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a>.<br>
+<sup>69</sup> YUFIN S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.<br>
+<sup>70</sup> BABU B V, NAGAR A, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.<br>
+<sup>71</sup> FOURNEY M E. Advances in holographic photoelasticity[C]//GOTTENBERG W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.<br>
+<sup>72</sup> 王琦. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉: 武汉大学, 2022: 87.<br>
+<sup>73</sup> 金燕萍. 社交媒体时代的虚假信息研究[D/OL]. 温州: 温州大学, 2020: 16[2025-12-02]. <a href="https://d.wanfangdata.com.cn/thesis/D02216281">https://d.wanfangdata.com.cn/thesis/D02216281</a>.<br>
+<sup>74</sup> 何筱梅. 新媒体时代原生广告的策略与发展研究[D/OL]. 武汉: 武汉大学, 2016: 24-25[2025-02-28]. <a href="http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782">http://paperright.lib.whu.edu.cn/read/pdfindex1.jsp?fid=2f1d8c4e156d9863466de341e4790782</a>.<br>
+<sup>75</sup> 井丽南. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京: 中国科学院大学, 2022: 43[2025-12-02]. <a href="http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289">http://dpaper.las.ac.cn/Dpaper/detail/detailNew?paperID=20209289</a>.<br>
+<sup>76</sup> CAIRNS B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.<br>
+<sup>77</sup> CHRISTOU A. Improving knowledge graph understanding with contextual views[D/OL]. Ohio: Wright State University, 2024: 18[2025-02-28]. <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a>.<br>
+<sup>78</sup> 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R/OL]. (2012-01-16)[2013-03-26]. <a href="https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf">https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf</a>.<br>
+<sup>79</sup> 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL]. (2013-09-30)[2014-06-24]. <a href="http://www.nstrs.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.cn/xiangxiBG.aspx?id=41707</a>.<br>
+<sup>80</sup> 中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 电信业发展白皮书：2023：新时代高质量发展探索[R/OL]. (2023-12-28)[2025-02-28]. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a>.<br>
+<sup>81</sup> CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R/OL]. 2011: 8-9. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>.<br>
+<sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.<br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R/OL]. [2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>.<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.<br>
+<sup>85</sup> 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.<br>
+<sup>86</sup> 工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S/OL]. (2022-07-19)[2025-12-02]. <a href="http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3">http://c.gb688.cn/bzgk/gb/showGb?type=online&#38;hcno=A1931A578FE14957104988029B0833D3</a>.<br>
+<sup>87</sup> 国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.<br>
+<sup>88</sup> ISO. Audit data collection: ISO 21378:2019[S]. 2019.<br>
+<sup>89</sup> International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.<br>
+<sup>90</sup> IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.<br>
+<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].<br>
+<sup>92</sup> Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].<br>
+<sup>93</sup> Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].<br>
+<sup>94</sup> 邓一刚. 全智能节电器: CN101106276A[P]. 2008-01-16.<br>
+<sup>95</sup> 张凯军, 赵永杰, 陈朝岗. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.<br>
+<sup>96</sup> 李华, 王昊, 康佐. 一种拼接式桥梁模型: CN218214474U[P/OL]. 2023-01-03[2025-02-28]. <a href="http://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&#38;_cid=JP1-MAY1P5-04922-1">http://patentscope2.wipo.int/search/en/detail.jsf?docId=CN390029302&#38;_cid=JP1-MAY1P5-04922-1</a>.<br>
+<sup>97</sup> 石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法: CN1338652A[P/OL]. 2002-03-06[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0">http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&#38;leixin=0</a>.<br>
+<sup>98</sup> 冀超. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P/OL]. 2001-10-24[2002-05-28]. <a href="http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0">http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&#38;leixin=0</a>.<br>
+<sup>99</sup> 史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P/OL]. 2022-09-13[2025-02-28]. <a href="https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui">https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui</a>.<br>
+<sup>100</sup> TACHIBANA R, SHIMIZU S, KOBAYASHI S, et al. Electronic watermarking method and system: US2002061118A1[P/OL]. 2001-06-28[2013-11-11]. <a href="https://worldwide.espacenet.com/patent/search/family/018694900/publication/US2002061118A1?q=US89404301A">https://worldwide.espacenet.com/patent/search/family/018694900/publication/US2002061118A1?q=US89404301A</a>.<br>
+<sup>101</sup> TRISTRAM M, SKARSHEWSKI P, TRISTRAM I, et al. Storage and delivery system: AU2022228203A1[P/OL]. 2022-10-06[2025-02-28]. <a href="https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A">https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A</a>.<br>
+<sup>102</sup> 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.<br>
+<sup>103</sup> 北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[EB/OL]. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.<br>
+<sup>104</sup> 杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z/OL]. (2022-10-26)[2023-05-02]. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a>.<br>
+<sup>105</sup> 高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.<br>
+<sup>106</sup> 许振超. “好好干，当一个好工人”[EB/OL]. (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.<br>
+<sup>107</sup> [《昨日之歌》图书封面][Z/OL]. (2023-03-06)[2025-06-22]. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.<br>
+<sup>108</sup> 仉尚航. 开放世界中的实体基础模型[EB/OL]. (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.<br>
+<sup>109</sup> 西黄丸[EB/OL]. (2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.<br>
+<sup>110</sup> Library of Congress[EB/OL]. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.<br>
+<sup>111</sup> International Organization for Standardization. ISO homepage[EB/OL]. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.<br>
+<sup>112</sup> ANTÓNIO M, PEPPER L. Histórias de Portugal: livros caídos[EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.<br>
+<sup>113</sup> BEVINGTON D, BROWN J R. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.<br>
+<sup>114</sup> Zotero. [Zotero download][EB/OL]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.<br>
+<sup>115</sup> 李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事: 04-01-35-0399-039[A]. 北京: 中国第一历史档案馆, 1887.<br>
+<sup>116</sup> 湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z/OL]. 武汉: 湖北省档案馆, 1931[2025-02-28]. <a href="https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF">https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF</a>.<br>
+<sup>117</sup> 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z/OL]. 武汉: 武汉大学档案馆, 1949[2025-02-28]. <a href="https://archive.whu.edu.cn/index/forwardView/20/51">https://archive.whu.edu.cn/index/forwardView/20/51</a>.<br>
+<sup>118</sup> FITZWILLIAM H. [Letter to Bess of Hardwick][A/OL]. (1570-07-28)[2025-02-28]. <a href="https://www.bessofhardwick.org/letter.jsp?letter=25">https://www.bessofhardwick.org/letter.jsp?letter=25</a>.<br>
+<sup>119</sup> 胡健民. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社, 2021.<br>
+<sup>120</sup> 刘祥沈. 沈阳市政区图[CM]. 武汉: 武汉大学出版社, 2016.<br>
+<sup>121</sup> 中工武大设计研究有限公司. 阳新县标准地名图[CM]. 武汉: 武汉大学出版社, 2019.<br>
+<sup>122</sup> 吴自银, 温珍河. 中国南部海域海底地形图[CM]. 北京: 科学出版社, 2019.<br>
+<sup>123</sup> 国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM/OL]. <a href="http://ydyl.china.com.cn/2016-10/27/content_39582227.htm">http://ydyl.china.com.cn/2016-10/27/content_39582227.htm</a>.<br>
+<sup>124</sup> 訾冬梅, 高秀静. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社, 2006.<br>
+<sup>125</sup> 谭其骧. 中国历史地图集: 第2册[CM]. 北京: 地图出版社, 1982: 6.<br>
+<sup>126</sup> 童世亨. 京兆直隶图[CM/OL]. 上海: 商务印书馆, 1926[2025-02-28]. <a href="http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861">http://gdt-lib-whu-edu-cn.vpn.whu.edu.cn:8118/imginfo.html?ty%3Dmap%26id%3D4861</a>.<br>
+<sup>127</sup> CRIBB R. Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.<br>
+<sup>128</sup> Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.<br>
+<sup>129</sup> 彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所, 2024[2024-11-25]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.<br>
+<sup>130</sup> 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS/OL]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012[2024-11-25]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>. DOI:<a href="https://doi.org/10.3972/glacier001.2013.db">10.3972/glacier001.2013.db</a>.<br>
+<sup>131</sup> 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.<br>
+<sup>132</sup> 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS/OL]. Science Data Bank, 2018[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. DOI:<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>.<br>
+<sup>134</sup> 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.<br>
+<sup>135</sup> SUGARMAN L, MARKHAM S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980[2025-07-10]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>. DOI:<a href="https://doi.org/10.5255/UKDA-SN-996-1">10.5255/UKDA-SN-996-1</a>.<br>
+<sup>136</sup> ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022[2024-11-25]. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.<br>
+<sup>137</sup> IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021[2024-11-25]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.<br>
+<sup>138</sup> 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A/OL]. ChinaXiv, 2023[2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.<br>
+<sup>139</sup> 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A/OL]. PSSXiv, 2024[2024-09-30]. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.<br>
+<sup>140</sup> BLOSS C S, WINEINGER N E, PETERS M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A/OL]. bioRxiv, 2015[2018-07-12]. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>.<br>
+<sup>141</sup> JENKINS S D, RUOSTEKOSKI J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A/OL]. arXiv, 2012[2020-06-24]. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
