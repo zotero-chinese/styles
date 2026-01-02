@@ -39,149 +39,162 @@
 
 ### 引注
 
-<sup>1</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, vol. 96 (1996), p. 903.<br>
-<sup>2</sup> Ian Morris, <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010, p. 260.<br>
+<sup>1</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第903页。<br>
+<sup>2</sup> 曹凌：《中国佛教疑伪经综录》，上海：上海古籍出版社，2011年，第260页。<br>
 <sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>4</sup> Ian Morris: <i>Why the West Rules—for Now</i>, pp. 326-329.<br>
-<sup>5</sup> Ian Morris: <i>Why the West Rules—for Now</i>, pp. 326-329.<br>
-<sup>6</sup> Ian Morris: <i>Why the West Rules—for Now</i>, p. 260.<br>
+<sup>4</sup> 曹凌：《中国佛教疑伪经综录》，第326—329页。<br>
+<sup>5</sup> 曹凌：《中国佛教疑伪经综录》，第326—329页。<br>
+<sup>6</sup> 曹凌：《中国佛教疑伪经综录》，第260页。<br>
 <sup>7</sup> 应松年、马怀德主编：《当代中国行政法的源流》，第330页。<br>
 <sup>8</sup> 应松年、马怀德主编：《当代中国行政法的源流》，第330页。<br>
 <sup>9</sup> 应松年、马怀德主编：《当代中国行政法的源流》，第331页。<br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 陈登原：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
-<sup>2</sup> 哈里森·沃尔德伦：《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社，2012年，第235—236页。<br>
-<sup>3</sup> 北京市政协民族和宗教委员会、北京联合大学民族与宗教研究所：《历代王朝与民族宗教》，北京：民族出版社，2012年，第112页。<br>
-<sup>4</sup> 全国信息与文献标准化技术委员会：《信息与文献 都柏林核心元数据元素集》，北京：中国标准出版社，2010年，第2—3页。<br>
-<sup>5</sup> 徐光宪、王祥云：《物质结构》，北京：科学出版社，2010年。<br>
-<sup>6</sup> 顾炎武：《昌平山水记：京东考古录》，北京：北京古籍出版社，1982年。<br>
-<sup>7</sup> 王夫之：《宋论》（刻本），金陵：湘乡曾国荃，1865年。<br>
-<sup>8</sup> 牛志明、斯温兰德、雷光春主编：《综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
-<sup>9</sup> 中国第一历史档案馆、辽宁省档案馆：《中国明朝档案总汇》，2001年。<br>
-<sup>10</sup> 杨保军：《新闻道德论》，博士学位论文，中国人民大学出版社，2012年。<br>
-<sup>11</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
-<sup>12</sup> 同济大学土木工程防灾国家重点实验室：《汶川地震灾害研究》，上海：同济大学出版社，2011年，第5—6页。<br>
-<sup>13</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
-<sup>14</sup> Peyton Z. Peebles Jr., <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill, 2001.<br>
-<sup>15</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
-<sup>16</sup> Peter Baldock, <i>Developing Early Childhood Services: Past, Present and Future</i>, Rotterdam: Open University Press, 2011, p. 105.<br>
-<sup>17</sup> Xuetong Fan and Christopher H. Sommers, <i>Food Irradiation Research and Technology</i>, Ames, Iowa: Blackwell Publishing, 2013, pp. 25-26.<br>
-<sup>18</sup> 王夫之主编：《周易外传：卷 5》，《船山全书》第 6 册，长沙：岳麓书社，2011年，第1109页。<br>
-<sup>19</sup> 程根伟：《1998 年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。<br>
-<sup>20</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界的研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56—114页。<br>
-<sup>21</sup> 马克思：《政治经济学批判》，马克思、恩格斯主编：《马克思恩格斯全集》第 35 卷，北京：人民出版社，2013年，第302页。<br>
-<sup>22</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011 年卷，北京：国家图书馆出版社，2011年，第45—52页。<br>
-<sup>23</sup> L. Weinstein and M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp. 457-472.<br>
-<sup>24</sup> J. Alan Roberson and Eric G. Burneson, “Drinking Water Standards, Regulations, and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
-<sup>25</sup> 中华医学会湖北分会：《临床内科杂志》第1卷，武汉：中华医学会湖北分会，1984年。<br>
-<sup>26</sup> 中国图书馆学会：《图书馆学通讯》，北京：北京图书馆，1957年。<br>
-<sup>27</sup> American Association for the Advancement of Science, <i>Science</i>, vol. 1, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>28</sup> 袁训来、陈哲、肖书海、万斌、关成国、王伟、周传明、华洪：《蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口》，《科学通报》第57卷第34期，2012年。<br>
-<sup>29</sup> 余建斌：《我们的科技一直在追赶：访中国工程院院长周济》，《人民日报》2013年1月12日，第2版。<br>
-<sup>30</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
-<sup>31</sup> 李幼平、王莉：《循证医学研究方法：附视频》，《中华移植杂志（电子版）》第4卷第3期，2010年。<br>
-<sup>32</sup> 武丽丽、华一新、张亚军、刘英敏：《“北斗一号”监控管理网设计与实现》，《测绘科学》第33卷第5期，2008年。<br>
-<sup>33</sup> H. Kanamori, “Shaking without Quaking,” <i>Science</i>, vol. 279, no. 5359 (1998), p. 2063.<br>
-<sup>34</sup> Priscilla Caplan, “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, vol. 4, no. 2 (1993), pp. 61-66.<br>
-<sup>35</sup> Karen S. Frese, Hugo A. Katus, and Benjamin Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine,” <i>Biology</i>, vol. 2, no. 1 (2013), pp. 378-398.<br>
-<sup>36</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz, “The Genome of Eucalyptus Grandis,” <i>Nature</i>, vol. 510 (June 2014), pp. 356-362.<br>
-<sup>37</sup> 邓一刚：《全智能节电器》，中国，2006年。<br>
-<sup>38</sup> 西安电子科技大学：《光折变自适应光外差探测方法》，中国，2002年。<br>
-<sup>39</sup> Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayashi, and Taiga Nakamura, <i>Electronic Watermarking Method and System</i>, US, 2005.<br>
-<sup>40</sup> 中国互联网络信息中心：《第 29 次中国互联网络发展状况统计报告》，2012年。<br>
-<sup>41</sup> 北京市人民政府办公厅：《关于转发北京市企业投资项目核准暂行实施办法的通知》，2005年。<br>
-<sup>42</sup> D. Bawden, Origins and Concepts of Digital Literacy, 2008, <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>，March 8, 2013.<br>
-<sup>43</sup> Online Computer Library Center, Inc., About OCLC: History of Cooperation, <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>，March 27, 2012.<br>
-<sup>44</sup> A. Hopkinson, UNIMARC and Metadata: Dublin Core, 2009, <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>，March 27, 2013.<br>
-<sup>45</sup> “Coffee Drinking and Cancer of the Pancreas,” <i>British Medical Journal</i>, vol. 283, no. 6292 (1981), p. 628.<br>
-<sup>46</sup> 刘乃安：《生物质材料热解失重动力学及其分析方法研究》，博士学位论文，中国科学技术大学，2000年，第17—18页。<br>
-<sup>47</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013, pp. 21-22.<br>
-<sup>48</sup> S. K. Baker and M. E. Jackson, <i>The Future of Resource Sharing</i>, New York: The Haworth Press, 1995.<br>
-<sup>49</sup> B. E. Chernik, <i>Introduction to Library Services for Library Technicians</i>, Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
-<sup>50</sup> 尼葛洛庞帝：《数字化生存》，胡泳、范海燕译，海口：海南出版社，1996年。<br>
-<sup>51</sup> 汪冰：《电子图书馆理论与实践研究》，北京：北京图书馆出版社，1997年，第16页。<br>
-<sup>52</sup> 杨宗英：《电子图书馆的现实模型》，《中国图书馆学报》1996年第2期。<br>
-<sup>53</sup> Lawrence Dowler, “The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment,” <i>Journal of Library Administration</i>, vol. 21, no. 1/2 (1995), pp. 5-26.<br>
-<sup>54</sup> Cass R. Sunstein, “Social Norms and Social Roles,” <i>Columbia Law Review</i>, vol. 96 (1996), p. 903.<br>
-<sup>55</sup> Ian Morris, <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>, New York: Farrar, Straus and Giroux, 2010.<br>
-<sup>56</sup> 罗杰斯：《西方文明史：问题与源头》，潘惠霞、魏婧、杨艳、汤玲译，大连：东北财经大学出版社，2011年，第15—16页。<br>
-<sup>57</sup> 陈登原：《国史旧闻》第 1 卷，北京：中华书局，2000年，第29页。<br>
-<sup>58</sup> Diana Crane, <i>Invisible College</i>, Chicago: Univ. of Chicago Press, 1972.<br>
-<sup>59</sup> Margaret F. Stieg, “The Information Needs of Historians,” <i>College &#38; Research Libraries</i>, vol. 42, no. 6 (1981), pp. 549-560.<br>
-<sup>60</sup> 王临惠、支建刚、王忠一：《天津方言的源流关系刍议》，《山西师范大学学报（社会科学版）》第37卷第4期，2010年。<br>
-<sup>61</sup> 王临惠：《从几组声母的演变看天津方言形成的自然条件和历史背景》，曹志耘主编：《汉语方言的地理语言学研究》，北京：商务印书馆，2010年，第138页。<br>
-<sup>62</sup> William James Kennedy and Robert E. Garrison, “Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England,” <i>Sedimentology</i>, vol. 22 (1975), p. 311.<br>
-<sup>63</sup> William James Kennedy and Robert E. Garrison, “Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England,” <i>Lethaia</i>, vol. 8, no. 4 (October 1975), pp. 339-360.<br>
-<sup>64</sup> 张忠智：《科技书刊的总编（主编）的角色要求》，中国科学技术期刊编辑学会主编：《中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编》，北京：中国科学技术期刊编辑学会学术委员会，1997年，第33—34页。<br>
-<sup>65</sup> 中国社会科学院语言研究所词典编辑室：《现代汉语词典》（修订本），北京：商务印书馆，1996年。<br>
-<sup>66</sup> 刘彻东：《中国的青年刊物：个性特色为本仁》，《中国出版》1998年第5期。<br>
-<sup>67</sup> 裴丽生：《在中国科协学术期刊编辑工作经验交流会上的讲话》，中国科学技术协会主编：《中国科协学术期刊编辑工作经验交流会资料选》，北京：中国科学技术协会学会工作部，1981年，第2—10页。<br>
-<sup>68</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第288页。<br>
-<sup>69</sup> 皮锡瑞：《师伏堂日记》第 4 册，北京：国家图书馆，2009年，第155页。<br>
-<sup>70</sup> 胡承正、周详、缪灵：《理论物理概论》上，武汉：武汉大学出版社，2010年，第112页。<br>
-<sup>71</sup> 美国妇产科医师学会：《新生儿脑病和脑性瘫痪：发病机制与病理生理》，段涛、杨慧霞译，北京：人民卫生出版社，2010年，第38—39页。<br>
-<sup>72</sup> 《康熙字典：巳集上：水部》（同文书局影印本），北京：中华书局，1962年，第50页。<br>
-<sup>73</sup> 汪昂：《增订本草备要》（刻本）四卷，京都：老二酉堂，1881年。<br>
-<sup>74</sup> 蒋有绪、郭泉水、马娟、others：《中国森林群落分类及其群落特征》，北京：科学出版社，1998年。<br>
-<sup>75</sup> 中国企业投资协会、台湾并购与私募股权协会、汇盈国际投资集团：《投资台湾：大陆企业赴台投资指南》，北京：九州出版社，2013年。<br>
-<sup>76</sup> 罗斯基：《战前中国经济的增长》，唐巧天、毛立坤、姜修宪译，杭州：浙江大学出版社，2009年。<br>
-<sup>77</sup> 库恩：《科学革命的结构：第 4 版》（第2版），金吾伦、胡新和译，北京：北京大学出版社，2012年。<br>
-<sup>78</sup> 侯文顺：《高分子物理：高分子材料分析、选择与改性》，北京：化学工业出版社，2010年，第119页。<br>
-<sup>79</sup> Walt Crawford and Michael Gorman, <i>Future Libraries: Dreams, Madness, &#38; Reality</i>, Chicago: American Library Association, 1995.<br>
-<sup>80</sup> International Federation of Library Association and Institutions, <i>Names of Persons: National Usages for Entry in Catalogues</i>, London: IFLA International Office for UBC, 1977.<br>
-<sup>81</sup> J. A. O’Brien, <i>Introduction to Information Systems</i>, Burr Ridge, IL: Irwin, 1994.<br>
-<sup>82</sup> A. Kinchy, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 2012, p. 50.<br>
-<sup>83</sup> Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.<br>
-<sup>84</sup> 中国职工教育研究会主编：《职工教育研究论文集》，北京：人民教育出版社，1985年。<br>
-<sup>85</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
-<sup>86</sup> 雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
-<sup>87</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
-<sup>88</sup> B. V. Babu, Atulya K. Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
-<sup>89</sup> 中华人民共和国国务院新闻办公室：《国防白皮书：中国武装力量的多样化运用》，2013年。<br>
-<sup>90</sup> 汤万金、杨跃翔、刘文、others：《人体安全重要技术标准研制最终报告》，2013年。<br>
-<sup>91</sup> D. Calkin, A. Ager, and M. Thompson, “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” 2011, pp. 8-9.<br>
-<sup>92</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Material,” Springfield: U.S. Department of Commerce National Information Service, 1990.<br>
-<sup>93</sup> World Health Organization, “Factors Regulating the Immune Response: Report of WHO Scientific Group,” Geneva: WHO, 1970.<br>
-<sup>94</sup> 马欢：《人类活动影响下海河流域典型区水循环变化分析》，博士学位论文，清华大学，2011年，第27页。<br>
-<sup>95</sup> 吴云芳：《面向中文信息处理的现代汉语并列结构研究》，博士学位论文，北京大学，2003年。<br>
-<sup>96</sup> Bruce Richard Cairns, “Infrared Spectroscopic Studies on Solid Oxygen,” Doctoral Dissertation, Univ. of California, 1965.<br>
-<sup>97</sup> 张凯军：《轨道火车及高速轨道火车紧急安全制动辅助装置》，中国，2012年。<br>
-<sup>98</sup> 河北绿洲生态环境科技有限公司：《一种荒漠化地区生态植被综合培育种植方法》，中国，2001年。<br>
-<sup>99</sup> Akira Koseki, Hiroyuki Momose, Motohiro Kawahito, and Hideaki Komatsu, <i>Compiler</i>, US, 2002.<br>
-<sup>100</sup> 全国信息与文献标准化技术委员会：《文献著录：第 4 部分 非书资料》，北京：中国标准出版社，2010年，第3页。<br>
-<sup>101</sup> 全国广播电视标准化技术委员会：《广播电视音像资料编目规范：第 2 部分 广播资料》，北京：国家广播电影电视总局广播电视规划院，2007年，第1页。<br>
-<sup>102</sup> 国家环境保护局科技标准司：《土壤环境质量标准》，北京：中国标准出版社，1996年，第2—3页。<br>
-<sup>103</sup> <i>Information and Documentation—The Dublin Core Metadata Element Set</i>.<br>
-<sup>104</sup> 《卷 39 乞致仕第一》，《苏魏公文集》下册，北京：中华书局，1988年，第590页。<br>
-<sup>105</sup> 白书农：《植物开花研究》，李承森主编：《植物科学进展》，北京：高等教育出版社，1998年，第146—163页。<br>
-<sup>106</sup> 汪学军：《中国农业转基因生物研究进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2002年，第22—25页。<br>
-<sup>107</sup> 国家标准局信息分类编码研究所：《世界各国和地区名称代码》，北京：中国标准出版社，1988年，第59—92页。<br>
-<sup>108</sup> 《宋史卷三：本纪第三》，《宋史》第 1 册，北京：中华书局，1977年，第49页。<br>
-<sup>109</sup> 楼梦鳞、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第011—012页。<br>
-<sup>110</sup> Peter R. Buseck, Gordon L. Nord Jr., and David R. Veblen, “Subsolidus Phenomena in Pyroxenes,” in <i>Pyroxenes</i>, Washington, D.C.: Mineralogical Society of America, c1980, pp. 117-211.<br>
-<sup>111</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, c1971, pp. 17-38.<br>
-<sup>112</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
-<sup>113</sup> 李炳穆：《韩国图书馆法》，《图书情报工作》第52卷第6期，2008年。<br>
-<sup>114</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年。<br>
-<sup>115</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》第7卷第10期，2010年。<br>
-<sup>116</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, and J. M. Hayes, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, vol. 359, no. 6396 (October 1992), pp. 605-609.<br>
-<sup>117</sup> M. Saito and K. Miyazaki, “Jadeite-Bearing Metagabbro in Serpentinite Mélange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6 (2006), pp. 169-176.<br>
-<sup>118</sup> Susan C. Walls, William J. Barichivich, and Mary E. Brown, “Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate,” <i>Biology</i>, vol. 2, no. 1 (2013), pp. 399-418.<br>
-<sup>119</sup> Annaliese K. Franz, Megan A. Danielewicz, Diana M. Wong, Lisa A. Anderson, and Jordan R. Boothe, “Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity,” <i>ACS Chemical Biology</i>, vol. 8 (2013), pp. 1053-1062.<br>
-<sup>120</sup> Jung-Ran Park and Yuji Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8 (2010), pp. 696-715.<br>
-<sup>121</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日，第15版。<br>
-<sup>122</sup> 张田勘：《罪犯 DNA 库与生命伦理学计划》，《大众科技报》2000年11月12日，第7版。<br>
-<sup>123</sup> 傅刚、赵承、李佳路：《大风沙过后的思考》，《北京青年报》2000年1月12日。<br>
-<sup>124</sup> 刘裕国、杨柳、张洋、王汉超、靳博、田豆豆、付文：《雾霾来袭，如何突围？》，《人民日报》2013年1月12日。<br>
-<sup>125</sup> 萧钰：《出版业信息化迈入快车道》，2001年12月19日，<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>，2002年4月15日。<br>
-<sup>126</sup> 李强：《化解医患矛盾需釜底抽薪》，2012年5月3日，<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>，2013年3月25日。<br>
-<sup>127</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, Pennsylvania Library Laws, <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>，March 24, 2013.<br>
-<sup>128</sup> Dublin Core Metadata Element Set: Version 1.1, 2012, <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>，June 11, 2014.<br>
+<sup>1</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第288页。<br>
+<sup>2</sup> 曹凌：《中国佛教疑伪经综录》，上海：上海古籍出版社，2011年，第19页。<br>
+<sup>3</sup> 陈登原：《国史旧闻》第1卷，北京：中华书局，2000年，第29页。<br>
+<sup>4</sup> 王夫之：《宋论》（刻本），金陵：湘乡曾国荃，1865年。<br>
+<sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京：北京古籍出版社，1980年。<br>
+<sup>6</sup> 钱学森：《创建系统学》，太原：山西科学技术出版社，2001年，序2-3。<br>
+<sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），北京：首都师范大学出版社，2008年，第1版自序。<br>
+<sup>8</sup> 《康熙字典：巳集上 水部》（同文书局影印本），北京：中华书局，1962年，第50页。<br>
+<sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），北京：高等教育出版社，2019年。<br>
+<sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社，2012年，第235—236页。<br>
+<sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌主编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年，第65—66页。<br>
+<sup>12</sup> 扬奎斯特、萨金特：《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社，2010年，第798页。<br>
+<sup>13</sup> 云南省企业联合会、云南省企业家协会、云南民族新闻文化发展研究院：《改革开放三十年：云南企业家奋斗史》，芒市：德宏民族出版社，2009年。<br>
+<sup>14</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
+<sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
+<sup>16</sup> 博伯尔：《银行业的未来与人工智能》，徐超译，北京：清华大学出版社，2023年，第35页。<br>
+<sup>17</sup> 図書館用語辞典編集委員会, ed., 最新図書館用語大辞典, 東京: 柏書房株式会社, 2004, p. 154.<br>
+<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, Random Variable, and Random Signal Principles</i>, New York: McGraw-Hill, 2001.<br>
+<sup>19</sup> Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, and Harold I. Kaplan, eds., <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>, vol. 1, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
+<sup>20</sup> Institute For Art And Architecture and Academy Of Fine Arts Vienna, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Zürich: Park Books, 2023, p. 78.<br>
+<sup>21</sup> Abby Kinchy, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 2012, p. 50.<br>
+<sup>22</sup> Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.<br>
+<sup>23</sup> Lynette Torres, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder, and Caroline Ondracek, eds., <i>Connecting the Library to the Curriculum</i>, Singapore: Springer Nature, 2021, p. 97.<br>
+<sup>24</sup> Tony Boobier, <i>AI and the Future of Banking</i>, Chichester: John Wiley &#38; Sons, 2020, p. 35.<br>
+<sup>25</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013, pp. 21-22.<br>
+<sup>26</sup> 阿扬：《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，姜海伦译，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社，2023年，第15—18页。<br>
+<sup>27</sup> 王夫之主编：《周易外传：卷5》，《船山全书》（修订版）第1册，长沙：岳麓书社，2011年，第983—1029页。<br>
+<sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。<br>
+<sup>29</sup> 李约瑟：《题词》，《苏颂与《本草图经》研究》，长春：长春出版社，1991年，扉页。<br>
+<sup>30</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界的研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56—114页。<br>
+<sup>31</sup> 马克思：《政治经济学批判》，《马克思恩格斯全集》（第2版）第35卷，北京：人民出版社，2013年，第302页。<br>
+<sup>32</sup> 国家药典委员会主编：《大黄》，《中华人民共和国药典》（2020版）一部，北京：中国医药科技出版社，2020年，第24—25页。<br>
+<sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第11—12页。<br>
+<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp. 457-472.<br>
+<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking Water Standards, Regulations and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
+<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）—，武汉：中华医学会湖北分会，1984年。<br>
+<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）—1990（4），北京：北京图书馆，1957—1990年。<br>
+<sup>38</sup> American Association for the Advancement of Science, ed., <i>Science</i>, 1883，1（1）—, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
+<sup>39</sup> <i>Public Library Quarterly</i>, 1979，1（1）—, Philadelphia: Taylor &#38; Francis, 1979.<br>
+<sup>40</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
+<sup>41</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日，第15版。<br>
+<sup>42</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年。<br>
+<sup>43</sup> 久保智康：《花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心》，顾幼静译，《东方博物》2009年第1期。<br>
+<sup>44</sup> 陈建军：《从数字地球到智慧地球》，《国土资源导刊》第7卷第10期，2010年。<br>
+<sup>45</sup> 陈缮真：《探索微观世界的无穷奥秘（科技大观）》，《人民日报》2022年8月16日，第17版。<br>
+<sup>46</sup> 李幼平、王莉：《循证医学研究方法：附视频》，《中华移植杂志（电子版）》第4卷第3期，2010年。<br>
+<sup>47</sup> 张群、程志宝、石志飞：《惯性增强动力吸振器-浮置板轨道低频减振性能研究》，《铁道学报》2024年。<br>
+<sup>48</sup> 张群、程志宝、石志飞：《惯性增强动力吸振器-浮置板轨道低频减振性能研究》，《铁道学报》第46卷第8期，2024年。<br>
+<sup>49</sup> 徐建委：《历史的起点：《史记》中的时间设置及其意义》，《北京大学学报（哲学社会科学版）》第62卷第2期，2025年。<br>
+<sup>50</sup> 王利平、王福新、刘洪：《过冷大水滴环境粒径分布模拟方法研究进展》，《航空学报》第45卷增刊1，2024年。<br>
+<sup>51</sup> Priscilla Caplan, “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, vol. 4, no. 2 (1993), pp. 61-66.<br>
+<sup>52</sup> Makoto Saito and Kazuhiro Miyazaki, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, vol. 57, no. 5/6 (2006), pp. 169-176.<br>
+<sup>53</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, and J. M. Hayes, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, vol. 359 (October 1992), pp. 605-609.<br>
+<sup>54</sup> Jung-Ran Park and Yuji Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, vol. 48, no. 8 (September 2010), pp. 696-715.<br>
+<sup>55</sup> Karen S. Frese, Hugo A. Katus, and Benjamin Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine,” <i>Biology</i>, vol. 2, no. 1 (March 2013), pp. 378-398.<br>
+<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz, “The Genome of <i>Eucalyptus Grandis</i>,” <i>Nature</i>, vol. 510 (June 2014), pp. 356-362.<br>
+<sup>57</sup> Roger D. Santer and Otar Akanyeti, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps,” <i>Insect Science</i> (2025).<br>
+<sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno, and Masato Okada, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator,” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, vol. 267 (August 2023).<br>
+<sup>59</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2 (February 2014), pp. 112-118.<br>
+<sup>60</sup> 李妍、王莹：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，中华预防医学会医院感染控制分会第31次全国医院感染学术年会论文，2022年，第2页。<br>
+<sup>61</sup> 牛志明、Swingland Ian R.、雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
+<sup>62</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
+<sup>63</sup> 肖希明、石庆功、刘奕：《民国图书馆学教育的社会贡献》，《纪念北京大学图书馆学教育100周年研讨会论文集》，北京：北京大学信息管理系，2024年，第134—147页。<br>
+<sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年，第22—25页。<br>
+<sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011年卷，北京：国家图书馆出版社，2011年，第45—52页。<br>
+<sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
+<sup>67</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p. 2.<br>
+<sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, and Jiayi Ma, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” 2024, p. 4.<br>
+<sup>69</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
+<sup>70</sup> B. V. Babu, Atulya Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
+<sup>71</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in W. G. Gottenberg, ed., <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, 1971, pp. 17-38.<br>
+<sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，博士学位论文，武汉大学，2022年，第87页。<br>
+<sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，硕士学位论文，温州大学，2020年，第16页。<br>
+<sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，博士学位论文，武汉大学，2016年，第24—25页。<br>
+<sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，博士学位论文，中国科学院大学，2022年，第43页。<br>
+<sup>76</sup> Bruce Richard Cairns, “Infrared Spectroscopic Studies on Solid Oxygen,” Doctoral Dissertation, University of California, 1965, p. 15.<br>
+<sup>77</sup> Antrea Christou, “Improving Knowledge Graph Understanding with Contextual Views,” Doctoral Dissertation, Wright State University, 2024, p. 18.<br>
+<sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
+<sup>79</sup> 汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年。<br>
+<sup>80</sup> 中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。<br>
+<sup>81</sup> David E. Calkin, Alan A. Ager, and Matthew P. Thompson, “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” 2011, pp. 8-9.<br>
+<sup>82</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Material,” Springfield: U.S. Department of Commerce National Information Service, 1990, p. 25.<br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs, “United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development.”<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
+<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
+<sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年。<br>
+<sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年。<br>
+<sup>88</sup> ISO, <i>Audit Data Collection</i>, 2019.<br>
+<sup>89</sup> International Electrotechnical Commission (IEC), <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i>, New York: IEEE, 2021.<br>
+<sup>90</sup> <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, New York: IEEE, 2020.<br>
+<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to Lithium Battery Safety for Space Applications</i>.<br>
+<sup>92</sup> <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>.<br>
+<sup>93</sup> <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>.<br>
+<sup>94</sup> 邓一刚：《全智能节电器》，2008年，第8—9页。<br>
+<sup>95</sup> 张凯军、赵永杰、陈朝岗：《轨道火车及高速轨道火车紧急安全制动辅助装置》，2013年。<br>
+<sup>96</sup> 李华、王昊、康佐：《一种拼接式桥梁模型》，2023年。<br>
+<sup>97</sup> 石顺祥、许海平、孙艳玲、陈利菊、李家立、刘继芳：《光折变自适应光外差探测方法》，2002年。<br>
+<sup>98</sup> 冀超：《一种荒漠化地区生态植被综合培育种植方法》，2001年。<br>
+<sup>99</sup> 史国华, 樊金宇, 何益, 邢利娜, and 高峰, 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法, 2022.<br>
+<sup>100</sup> Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayashi, and Taiga Nakamura, <i>Electronic watermarking method and system</i>, 2001.<br>
+<sup>101</sup> Michael Tristram, Peter Skarshewski, Ian Tristram, and Brenda Mossel, <i>Storage and delivery system</i>, 2022.<br>
+<sup>102</sup> 中国科学院文献情报中心：《中国科学院科技论文预发布平台》，<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>，2025年3月6日。<br>
+<sup>103</sup> 北京鲁迅博物馆：《北京鲁迅博物馆志愿服务章程》，2021年4月21日，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>，2023年5月2日。<br>
+<sup>104</sup> 《《庄子》读不懂？看完这一篇“导读”就明白了》，2022年。<br>
+<sup>105</sup> 高等教育文献保障系统：《馆际互借与文献传递服务》，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>，2025年6月21日。<br>
+<sup>106</sup> 许振超：《“好好干，当一个好工人”》，2025年2月17日，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>，2025年6月22日。<br>
+<sup>107</sup> 《[《昨日之歌》图书封面]》，2023年。<br>
+<sup>108</sup> 仉尚航：《开放世界中的实体基础模型》，2024年12月24日，<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>，2025年1月2日。<br>
+<sup>109</sup> 《西黄丸》，2023年10月7日，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>，2025年8月26日。<br>
+<sup>110</sup> Library of Congress, <a href="https://www.loc.gov/">https://www.loc.gov/</a>，June 12, 2020.<br>
+<sup>111</sup> International Organization for Standardization, ISO Homepage, <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>，October 6, 2020.<br>
+<sup>112</sup> Marco António and Lucy Pepper, Histórias de Portugal: livros caídos, 2019, <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>，January 2, 2025.<br>
+<sup>113</sup> David Bevington and John Russell Brown, William Shakespeare, 2025, <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>，January 3, 2025.<br>
+<sup>114</sup> Zotero, [Zotero Download], <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>，April 8, 2024.<br>
+<sup>115</sup> 李鸿章：《奏请上海道库洋务外销要款无款可筹仍拨药厘接济事》，1887年，04-01-35-0399-039，中国第一历史档案馆藏。<br>
+<sup>116</sup> 湖北省建设厅：《湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令》，1931年。<br>
+<sup>117</sup> 《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，1949年。<br>
+<sup>118</sup> Hugh Fitzwilliam, [Letter to Bess of Hardwick], July 28, 1570.<br>
+<sup>119</sup> 胡健民：《东南极拉斯曼丘陵地区地质图》，北京：科学出版社，2021年。<br>
+<sup>120</sup> 刘祥沈：《沈阳市政区图》，武汉：武汉大学出版社，2016年。<br>
+<sup>121</sup> 中工武大设计研究有限公司：《阳新县标准地名图》，武汉：武汉大学出版社，2019年。<br>
+<sup>122</sup> 吴自银、温珍河：《中国南部海域海底地形图》，北京：科学出版社，2019年。<br>
+<sup>123</sup> 国家测绘地理信息局：《一带一路经济走廊及其途经城市分布地势图》，出版时间不详。<br>
+<sup>124</sup> 訾冬梅、高秀静：《内蒙古自治区地图册》（新版），北京：中国地图出版社，2006年。<br>
+<sup>125</sup> 谭其骧：《中国历史地图集》第2册，北京：地图出版社，1982年，第6页。<br>
+<sup>126</sup> 童世亨：《京兆直隶图》，上海：商务印书馆，1926年。<br>
+<sup>127</sup> Robert Cribb, <i>Historical Atlas of Indonesia</i>, Abingdon: Routledge, 2015.<br>
+<sup>128</sup> <i>Coastal Wetlands Map of China Continent</i>, Beijing: China Ocean Press, 2024, p. 50.<br>
+<sup>129</sup> 彭守璋：《1901—2023年中国1km分辨率逐月降水量数据集》，西北农林科技大学水土保持研究所，2024年。<br>
+<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012年。<br>
+<sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，2023年。<br>
+<sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank，2018年。<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，2024年。<br>
+<sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，2025年。<br>
+<sup>135</sup> L. Sugarman and S. Markham, <i>Students in a Selective High School: Some Vocationally Oriented Data</i>, UK Data Service, 1980.<br>
+<sup>136</sup> Xiaoya Zhong, Qingwu Yan, and Guie Li, <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>, Global Change Research Data Publishing &#38; Repository, 2022.<br>
+<sup>137</sup> IHME, <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i>, Global Health Data Exchange, 2021.<br>
+<sup>138</sup> 方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv，2023年。<br>
+<sup>139</sup> 肖玲、张雪、王永：《数据要素的统计测算方法探究》，PSSXiv，2024年。<br>
+<sup>140</sup> Cinnamon S. Bloss, Nathan E. Wineinger, Melissa Peters, Debra L. Boeldt, Lauren Ariniello, Ju Young Kim, Judy Sheard, Ravi Komatireddy, Paddy Barrett, and Eric J. Topol, <i>A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors</i>, bioRxiv, 2015.<br>
+<sup>141</sup> Stewart D. Jenkins and Janne Ruostekoski, <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>, arXiv, 2012.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

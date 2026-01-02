@@ -8,166 +8,179 @@
 
 ### 引注
 
-科学革命的结构：第 4 版Food irradiation research and technology面向数字素养的高校图书馆数字服务体系研究Advances in holographic photoelasticity“北斗一号”监控管理网设计与实现The genome of eucalyptus grandis第 29 次中国互联网络发展状况统计报告Origins and concepts of digital literacy
+递归宏观经济理论Death by theory: a tale of mystery and archaeological theory互联网药品可信交易环境中主体资质审核备案模式Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study中国农业转基因生物研发进展与安全管理Application of improved SOM neural network in intelligent auditing of hospital financial vouchers数据要素的统计测算方法探究Controlled manipulation of light by cooperative response of atoms in an optical lattice
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">科学革命的结构：第 4 版</div>
-  <div class="csl-entry">Food irradiation research and technology</div>
-  <div class="csl-entry">面向数字素养的高校图书馆数字服务体系研究</div>
-  <div class="csl-entry">Advances in holographic photoelasticity</div>
-  <div class="csl-entry">“北斗一号”监控管理网设计与实现</div>
-  <div class="csl-entry">The genome of eucalyptus grandis</div>
-  <div class="csl-entry">第 29 次中国互联网络发展状况统计报告</div>
-  <div class="csl-entry">Origins and concepts of digital literacy</div>
+  <div class="csl-entry">递归宏观经济理论</div>
+  <div class="csl-entry">Death by theory: a tale of mystery and archaeological theory</div>
+  <div class="csl-entry">互联网药品可信交易环境中主体资质审核备案模式</div>
+  <div class="csl-entry">Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study</div>
+  <div class="csl-entry">中国农业转基因生物研发进展与安全管理</div>
+  <div class="csl-entry">Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</div>
+  <div class="csl-entry">数据要素的统计测算方法探究</div>
+  <div class="csl-entry">Controlled manipulation of light by cooperative response of atoms in an optical lattice</div>
 </div>
 
 ## 默认测试
 
 ### 引注
 
-Social norms and social roles<br>
-Why the West rules—for now: the patterns of history, and what they reveal about the future<br>
-西方文明史：问题与源头<br>
-Social norms and social roles西方文明史：问题与源头<br>
-Social norms and social rolesWhy the West rules—for now: the patterns of history, and what they reveal about the future国史旧闻<br>
-Social norms and social rolesWhy the West rules—for now: the patterns of history, and what they reveal about the future西方文明史：问题与源头<br>
+全唐五代诗格汇考<br>
+中国佛教疑伪经综录<br>
+国史旧闻<br>
+全唐五代诗格汇考国史旧闻<br>
+全唐五代诗格汇考中国佛教疑伪经综录宋论<br>
+全唐五代诗格汇考中国佛教疑伪经综录国史旧闻<br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
+  <div class="csl-entry">全唐五代诗格汇考</div>
+  <div class="csl-entry">中国佛教疑伪经综录</div>
   <div class="csl-entry">国史旧闻</div>
-  <div class="csl-entry">经济数学与金融数学</div>
-  <div class="csl-entry">历代王朝与民族宗教</div>
-  <div class="csl-entry">信息与文献 都柏林核心元数据元素集: GB/T 25100—2010</div>
-  <div class="csl-entry">物质结构</div>
-  <div class="csl-entry">昌平山水记：京东考古录</div>
   <div class="csl-entry">宋论</div>
-  <div class="csl-entry">综合湿地管理国际研讨会论文集</div>
-  <div class="csl-entry">中国明朝档案总汇</div>
-  <div class="csl-entry">新闻道德论</div>
+  <div class="csl-entry">昌平山水记；京东考古录</div>
+  <div class="csl-entry">创建系统学</div>
+  <div class="csl-entry">冯友兰自选集</div>
+  <div class="csl-entry">康熙字典：巳集上 水部</div>
+  <div class="csl-entry">大学计算机：计算思维与信息素养</div>
+  <div class="csl-entry">经济数学与金融数学</div>
+  <div class="csl-entry">鼻整形应用解剖学</div>
+  <div class="csl-entry">递归宏观经济理论</div>
+  <div class="csl-entry">改革开放三十年：云南企业家奋斗史</div>
   <div class="csl-entry">当代美国外交</div>
-  <div class="csl-entry">汶川地震灾害研究</div>
   <div class="csl-entry">中国造纸年鉴：2003</div>
-  <div class="csl-entry">Probability, random variables, and random signal principles</div>
-  <div class="csl-entry">Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</div>
-  <div class="csl-entry">Developing early childhood services: Past, present and future</div>
-  <div class="csl-entry">Food irradiation research and technology</div>
-  <div class="csl-entry">周易外传：卷 5</div>
-  <div class="csl-entry">1998 年长江洪水的成因与减灾对策</div>
+  <div class="csl-entry">银行业的未来与人工智能</div>
+  <div class="csl-entry">最新図書館用語大辞典</div>
+  <div class="csl-entry">Probability, random variable, and random signal principles</div>
+  <div class="csl-entry">Kaplan &#38; Sadock’s comprehensive textbook of psychiatry</div>
+  <div class="csl-entry">Wiener Hitze: architecture and storytelling in times of heat</div>
+  <div class="csl-entry">Seeds, sciences, and struggle: the global politics of transgenic crops</div>
+  <div class="csl-entry">Death by theory: a tale of mystery and archaeological theory</div>
+  <div class="csl-entry">Connecting the library to the curriculum</div>
+  <div class="csl-entry">AI and the future of banking</div>
+  <div class="csl-entry">A companion to California history</div>
+  <div class="csl-entry">谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答</div>
+  <div class="csl-entry">周易外传：卷5</div>
+  <div class="csl-entry">1998年长江洪水的成因与减灾对策</div>
+  <div class="csl-entry">题词</div>
   <div class="csl-entry">蓟县震旦亚界的研究</div>
   <div class="csl-entry">政治经济学批判</div>
-  <div class="csl-entry">面向数字素养的高校图书馆数字服务体系研究</div>
+  <div class="csl-entry">大黄</div>
+  <div class="csl-entry">汶川地震基岩地震动特征分析</div>
   <div class="csl-entry">Pathogenic properties of invading microorganisms</div>
-  <div class="csl-entry">Drinking water standards, regulations, and goals</div>
+  <div class="csl-entry">Drinking water standards, regulations and goals</div>
   <div class="csl-entry">临床内科杂志</div>
   <div class="csl-entry">图书馆学通讯</div>
   <div class="csl-entry">Science</div>
-  <div class="csl-entry">蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口</div>
-  <div class="csl-entry">我们的科技一直在追赶：访中国工程院院长周济</div>
-  <div class="csl-entry">韩国图书馆法</div>
+  <div class="csl-entry">Public library quarterly</div>
+  <div class="csl-entry">四库馆私家抄校书考略</div>
+  <div class="csl-entry">数字革命与竞争国际化</div>
+  <div class="csl-entry">互联网药品可信交易环境中主体资质审核备案模式</div>
+  <div class="csl-entry">花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心</div>
+  <div class="csl-entry">从数字地球到智慧地球</div>
+  <div class="csl-entry">探索微观世界的无穷奥秘（科技大观）</div>
   <div class="csl-entry">循证医学研究方法：附视频</div>
-  <div class="csl-entry">“北斗一号”监控管理网设计与实现</div>
-  <div class="csl-entry">Shaking without quaking</div>
+  <div class="csl-entry">惯性增强动力吸振器-浮置板轨道低频减振性能研究</div>
+  <div class="csl-entry">惯性增强动力吸振器-浮置板轨道低频减振性能研究</div>
+  <div class="csl-entry">历史的起点：《史记》中的时间设置及其意义</div>
+  <div class="csl-entry">过冷大水滴环境粒径分布模拟方法研究进展</div>
   <div class="csl-entry">Cataloging internet resources</div>
+  <div class="csl-entry">Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu</div>
+  <div class="csl-entry">Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment</div>
+  <div class="csl-entry">Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms</div>
   <div class="csl-entry">Next-generation sequencing: from understanding biology to personalized medicine</div>
-  <div class="csl-entry">The genome of eucalyptus grandis</div>
-  <div class="csl-entry">全智能节电器: 200610171314.3</div>
-  <div class="csl-entry">光折变自适应光外差探测方法: 01128777.2</div>
-  <div class="csl-entry">Electronic watermarking method and system: US6915001</div>
-  <div class="csl-entry">第 29 次中国互联网络发展状况统计报告</div>
-  <div class="csl-entry">关于转发北京市企业投资项目核准暂行实施办法的通知</div>
-  <div class="csl-entry">Origins and concepts of digital literacy</div>
-  <div class="csl-entry">About OCLC: History of cooperation</div>
-  <div class="csl-entry">UNIMARC and metadata: Dublin Core</div>
-  <div class="csl-entry">Coffee drinking and cancer of the pancreas</div>
-  <div class="csl-entry">生物质材料热解失重动力学及其分析方法研究</div>
-  <div class="csl-entry">A companion to California history</div>
-  <div class="csl-entry">The future of resource sharing</div>
-  <div class="csl-entry">Introduction to library services for library technicians</div>
-  <div class="csl-entry">数字化生存</div>
-  <div class="csl-entry">电子图书馆理论与实践研究</div>
-  <div class="csl-entry">电子图书馆的现实模型</div>
-  <div class="csl-entry">The research university’s dilemma: Resource sharing and research in a transinstitutional environment</div>
-  <div class="csl-entry">Social norms and social roles</div>
-  <div class="csl-entry">Why the West rules—for now: the patterns of history, and what they reveal about the future</div>
-  <div class="csl-entry">西方文明史：问题与源头</div>
-  <div class="csl-entry">国史旧闻</div>
-  <div class="csl-entry">Invisible college</div>
-  <div class="csl-entry">The information needs of historians</div>
-  <div class="csl-entry">天津方言的源流关系刍议</div>
-  <div class="csl-entry">从几组声母的演变看天津方言形成的自然条件和历史背景</div>
-  <div class="csl-entry">Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England</div>
-  <div class="csl-entry">Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England</div>
-  <div class="csl-entry">科技书刊的总编（主编）的角色要求</div>
-  <div class="csl-entry">现代汉语词典</div>
-  <div class="csl-entry">中国的青年刊物：个性特色为本仁</div>
-  <div class="csl-entry">在中国科协学术期刊编辑工作经验交流会上的讲话</div>
-  <div class="csl-entry">全唐五代诗格汇考</div>
-  <div class="csl-entry">师伏堂日记</div>
-  <div class="csl-entry">理论物理概论</div>
-  <div class="csl-entry">新生儿脑病和脑性瘫痪：发病机制与病理生理</div>
-  <div class="csl-entry">康熙字典：巳集上：水部</div>
-  <div class="csl-entry">增订本草备要</div>
-  <div class="csl-entry">中国森林群落分类及其群落特征</div>
-  <div class="csl-entry">投资台湾：大陆企业赴台投资指南</div>
-  <div class="csl-entry">战前中国经济的增长</div>
-  <div class="csl-entry">科学革命的结构：第 4 版</div>
-  <div class="csl-entry">高分子物理：高分子材料分析、选择与改性</div>
-  <div class="csl-entry">Future libraries: Dreams, madness, &#38; reality</div>
-  <div class="csl-entry">Names of persons: National usages for entry in catalogues</div>
-  <div class="csl-entry">Introduction to information systems</div>
-  <div class="csl-entry">Seeds, sciences, and struggle: the global politics of transgenic crops</div>
-  <div class="csl-entry">Death by theory: a tale of mystery and archaeological theory</div>
-  <div class="csl-entry">职工教育研究论文集</div>
-  <div class="csl-entry">台湾光复六十五周年暨抗战史实学术研讨会论文集</div>
+  <div class="csl-entry">The genome of <i>Eucalyptus grandis</i></div>
+  <div class="csl-entry">Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps</div>
+  <div class="csl-entry">Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator</div>
+  <div class="csl-entry">Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study</div>
+  <div class="csl-entry">医疗机构保洁人员“一前五后”手卫生干预效果研究</div>
   <div class="csl-entry">综合湿地管理：综合湿地管理国际研讨会论文集</div>
+  <div class="csl-entry">台湾光复六十五周年暨抗战史实学术研讨会论文集</div>
+  <div class="csl-entry">民国图书馆学教育的社会贡献</div>
+  <div class="csl-entry">中国农业转基因生物研发进展与安全管理</div>
+  <div class="csl-entry">面向数字素养的高校图书馆数字服务体系研究</div>
   <div class="csl-entry">中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集</div>
+  <div class="csl-entry">Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</div>
+  <div class="csl-entry">Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</div>
+  <div class="csl-entry">Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</div>
   <div class="csl-entry">Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</div>
-  <div class="csl-entry">国防白皮书：中国武装力量的多样化运用</div>
-  <div class="csl-entry">人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013</div>
+  <div class="csl-entry">Advances in holographic photoelasticity</div>
+  <div class="csl-entry">融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究</div>
+  <div class="csl-entry">社交媒体时代的虚假信息研究</div>
+  <div class="csl-entry">新媒体时代原生广告的策略与发展研究</div>
+  <div class="csl-entry">支持状态可编程的SDN交换机关键技术研究</div>
+  <div class="csl-entry">Infrared spectroscopic studies on solid oxygen</div>
+  <div class="csl-entry">Improving knowledge graph understanding with contextual views</div>
+  <div class="csl-entry">第29次中国互联网络发展状况统计报告</div>
+  <div class="csl-entry">人体安全重要技术标准研制最终报告: 7178999X～2006BAK04A10/10.2013</div>
+  <div class="csl-entry">电信业发展白皮书：2023：新时代高质量发展探索</div>
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing material: PB 91-194001</div>
-  <div class="csl-entry">Factors regulating the immune response: Report of WHO Scientific Group</div>
-  <div class="csl-entry">人类活动影响下海河流域典型区水循环变化分析</div>
-  <div class="csl-entry">面向中文信息处理的现代汉语并列结构研究</div>
-  <div class="csl-entry">Infrared spectroscopic studies on solid oxygen</div>
-  <div class="csl-entry">轨道火车及高速轨道火车紧急安全制动辅助装置: 201220158825.2</div>
-  <div class="csl-entry">一种荒漠化地区生态植被综合培育种植方法: 01129210.5</div>
-  <div class="csl-entry">Compiler: US828402</div>
-  <div class="csl-entry">文献著录：第 4 部分 非书资料: GB/T 3792.4—2009</div>
-  <div class="csl-entry">广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007</div>
-  <div class="csl-entry">土壤环境质量标准: GB 15616—1995</div>
-  <div class="csl-entry">Information and documentation—The Dublin Core metadata element set: ISO 15836:2009</div>
-  <div class="csl-entry">卷 39 乞致仕第一</div>
-  <div class="csl-entry">植物开花研究</div>
-  <div class="csl-entry">中国农业转基因生物研究进展与安全管理</div>
-  <div class="csl-entry">世界各国和地区名称代码: GB/T 2659—1986</div>
-  <div class="csl-entry">宋史卷三：本纪第三</div>
-  <div class="csl-entry">汶川地震基岩地震动特征分析</div>
-  <div class="csl-entry">Subsolidus phenomena in pyroxenes</div>
-  <div class="csl-entry">Advances in holographic photoelasticity</div>
-  <div class="csl-entry">四库馆私家抄校书考略</div>
-  <div class="csl-entry">韩国图书馆法</div>
-  <div class="csl-entry">互联网药品可信交易环境中主体资质审核备案模式</div>
-  <div class="csl-entry">从数字地球到智慧地球</div>
-  <div class="csl-entry">Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment</div>
-  <div class="csl-entry">Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu</div>
-  <div class="csl-entry">Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate</div>
-  <div class="csl-entry">Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity</div>
-  <div class="csl-entry">Metadata quality control in digital repositories and collections: Criteria, semantics, and mechanisms</div>
-  <div class="csl-entry">数字革命与竞争国际化</div>
-  <div class="csl-entry">罪犯 DNA 库与生命伦理学计划</div>
-  <div class="csl-entry">大风沙过后的思考</div>
-  <div class="csl-entry">雾霾来袭，如何突围？</div>
-  <div class="csl-entry">出版业信息化迈入快车道</div>
-  <div class="csl-entry">化解医患矛盾需釜底抽薪</div>
-  <div class="csl-entry">Pennsylvania library laws</div>
-  <div class="csl-entry">Dublin Core metadata element set: version 1.1</div>
+  <div class="csl-entry">United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</div>
+  <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021</div>
+  <div class="csl-entry">信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016</div>
+  <div class="csl-entry">信息技术  中文编码字符集: GB 18030—2022</div>
+  <div class="csl-entry">水电工程水温实时监测系统技术规范: NB/T 10386—2020</div>
+  <div class="csl-entry">Audit data collection: ISO 21378:2019</div>
+  <div class="csl-entry">Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021</div>
+  <div class="csl-entry">IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020</div>
+  <div class="csl-entry">Guide to lithium battery safety for space applications: AIAA G-136-2022</div>
+  <div class="csl-entry">Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)</div>
+  <div class="csl-entry">Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)</div>
+  <div class="csl-entry">全智能节电器: CN101106276A</div>
+  <div class="csl-entry">轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U</div>
+  <div class="csl-entry">一种拼接式桥梁模型: CN218214474U</div>
+  <div class="csl-entry">光折变自适应光外差探测方法: CN1338652A</div>
+  <div class="csl-entry">一种荒漠化地区生态植被综合培育种植方法: CN1318281A</div>
+  <div class="csl-entry">光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A</div>
+  <div class="csl-entry">Electronic watermarking method and system: US2002061118A1</div>
+  <div class="csl-entry">Storage and delivery system: AU2022228203A1</div>
+  <div class="csl-entry">中国科学院科技论文预发布平台</div>
+  <div class="csl-entry">北京鲁迅博物馆志愿服务章程</div>
+  <div class="csl-entry">《庄子》读不懂？看完这一篇“导读”就明白了</div>
+  <div class="csl-entry">馆际互借与文献传递服务</div>
+  <div class="csl-entry">“好好干，当一个好工人”</div>
+  <div class="csl-entry">[《昨日之歌》图书封面]</div>
+  <div class="csl-entry">开放世界中的实体基础模型</div>
+  <div class="csl-entry">西黄丸</div>
+  <div class="csl-entry">Library of Congress</div>
+  <div class="csl-entry">ISO homepage</div>
+  <div class="csl-entry">Histórias de Portugal: livros caídos</div>
+  <div class="csl-entry">William Shakespeare</div>
+  <div class="csl-entry">[Zotero download]</div>
+  <div class="csl-entry">奏请上海道库洋务外销要款无款可筹仍拨药厘接济事</div>
+  <div class="csl-entry">湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令</div>
+  <div class="csl-entry">中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告</div>
+  <div class="csl-entry">[Letter to Bess of Hardwick]</div>
+  <div class="csl-entry">东南极拉斯曼丘陵地区地质图</div>
+  <div class="csl-entry">沈阳市政区图</div>
+  <div class="csl-entry">阳新县标准地名图</div>
+  <div class="csl-entry">中国南部海域海底地形图</div>
+  <div class="csl-entry">一带一路经济走廊及其途经城市分布地势图</div>
+  <div class="csl-entry">内蒙古自治区地图册</div>
+  <div class="csl-entry">中国历史地图集</div>
+  <div class="csl-entry">京兆直隶图</div>
+  <div class="csl-entry">Historical atlas of Indonesia</div>
+  <div class="csl-entry">Coastal wetlands map of China continent</div>
+  <div class="csl-entry">1901—2023年中国1km分辨率逐月降水量数据集</div>
+  <div class="csl-entry">中国第二次水川编目科学数据：2006-2011</div>
+  <div class="csl-entry">天宫二号遥感图像自然景物分类数据集</div>
+  <div class="csl-entry">2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据</div>
+  <div class="csl-entry">青海省县域教育、卫生发展指标（2001—2022年）</div>
+  <div class="csl-entry">人文社会科学数据集检索方法研究的数据集</div>
+  <div class="csl-entry">Students in a selective high school: some vocationally oriented data</div>
+  <div class="csl-entry">Long time series nighttime light dataset of China (2000-2020)</div>
+  <div class="csl-entry">Global Burden of Disease Study 2019 (GBD2019) data resources</div>
+  <div class="csl-entry">元宇宙在图书馆的应用：理论研究与实践进展</div>
+  <div class="csl-entry">数据要素的统计测算方法探究</div>
+  <div class="csl-entry">A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</div>
+  <div class="csl-entry">Controlled manipulation of light by cooperative response of atoms in an optical lattice</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

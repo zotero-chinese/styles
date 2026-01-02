@@ -12,23 +12,23 @@
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-4 second-field-align-false hangingindent-true">
-  <div class="csl-entry">[1]	库恩. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.
-    <div class="csl-block">2012</div>
+<div class="csl-bib-body maxoffset-37 second-field-align-false hangingindent-true">
+  <div class="csl-entry">[1]	扬奎斯特, 萨金特. 杨斌, 王忠玉, 陈彦斌, 严高剑, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.
+    <div class="csl-block">Ljungqvist L, Sargent T J. Beijing: China Renmin University Press, 2010: 798</div>
   </div>
-  <div class="csl-entry">[2]	FAN X, SOMMERS C H. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">[3]	贾东琴, 柯平. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.
-    <div class="csl-block">中国图书馆学会. 2011: 45-52</div>
+  <div class="csl-entry">[2]	PRAETZELLIS A. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
+  <div class="csl-entry">[3]	于潇, 刘义, 柴跃廷, 孙宏波. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.
+    <div class="csl-block">Yu X, Liu Y, Chai Y T, Sun H B. Journal of Tsinghua University (Science and Technology), 2012, 52(11): 1518-1523</div>
   </div>
-  <div class="csl-entry">[4]	FOURNEY M E. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
-  <div class="csl-entry">[5]	武丽丽, 华一新, 张亚军, 刘英敏. 测绘科学, 2008, 33(5): 8-9.
-    <div class="csl-block">2008, 33(5): 8-9</div>
+  <div class="csl-entry">[4]	VEEN P H Van Der, MULLER M, VINCKEN K L, WITKAMP T D, MALI W P T M, VAN DER GRAAF Y, GEERLINGS M I, SMART-MR STUDY GROUP. J. Neurol. Sci., 2014, 337(1/2): 112-118.</div>
+  <div class="csl-entry">[5]	汪学军. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.
+    <div class="csl-block">Wang X J. Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25</div>
   </div>
-  <div class="csl-entry">[6]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J. Nature, 2014, 510: 356-362.</div>
-  <div class="csl-entry">[7]	中国互联网络信息中心. 2012.
-    <div class="csl-block">2012</div>
+  <div class="csl-entry">[6]	WANG S. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
+  <div class="csl-entry">[7]	肖玲, 张雪, 王永. PSSXiv, 2024.
+    <div class="csl-block">Xiao L, Zhang X, Wang Y. PSSXiv, 2024</div>
   </div>
-  <div class="csl-entry">[8]	BAWDEN D. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+  <div class="csl-entry">[8]	JENKINS S D, RUOSTEKOSKI J. arXiv, 2012.</div>
 </div>
 
 ## 默认测试
@@ -43,301 +43,332 @@
 <sup>[1-3]</sup><br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<div class="csl-bib-body maxoffset-83 second-field-align-false hangingindent-true">
-  <div class="csl-entry">[1]	陈登原. 第 1 卷. 北京: 中华书局, 2000: 29.
-    <div class="csl-block">第 1 卷. 2000: 29</div>
-  </div>
-  <div class="csl-entry">[2]	哈里森·沃尔德伦. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.
-    <div class="csl-block">2012: 235-236</div>
-  </div>
-  <div class="csl-entry">[3]	北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 北京: 民族出版社, 2012: 112.
-    <div class="csl-block">2012: 112</div>
-  </div>
-  <div class="csl-entry">[4]	全国信息与文献标准化技术委员会. GB/T 25100—2010. 北京: 中国标准出版社, 2010: 2-3.
-    <div class="csl-block">GB/T 25100—2010. 2010: 2-3</div>
-  </div>
-  <div class="csl-entry">[5]	徐光宪, 王祥云. 北京: 科学出版社, 2010.
-    <div class="csl-block">2010</div>
-  </div>
-  <div class="csl-entry">[6]	顾炎武. 北京: 北京古籍出版社, 1982.
-    <div class="csl-block">1982</div>
-  </div>
-  <div class="csl-entry">[7]	王夫之. 刻本. 金陵: 湘乡曾国荃, 1865.
-    <div class="csl-block">1865</div>
-  </div>
-  <div class="csl-entry">[8]	牛志明, 斯温兰德, 雷光春. 北京: 海洋出版社, 2012.
-    <div class="csl-block">2012</div>
-  </div>
-  <div class="csl-entry">[9]	中国第一历史档案馆, 辽宁省档案馆. 桂林: 广西师范大学出版社, 2001.
-    <div class="csl-block">2001</div>
-  </div>
-  <div class="csl-entry">[10]	杨保军. 北京: 中国人民大学出版社, 2012.
-    <div class="csl-block">2012</div>
-  </div>
-  <div class="csl-entry">[11]	赵学功. 北京: 社会科学文献出版社, 2001.
-    <div class="csl-block">2001</div>
-  </div>
-  <div class="csl-entry">[12]	同济大学土木工程防灾国家重点实验室. 上海: 同济大学出版社, 2011: 5-6.
-    <div class="csl-block">2011: 5-6</div>
-  </div>
-  <div class="csl-entry">[13]	中国造纸学会. 北京: 中国轻工业出版社, 2003.
-    <div class="csl-block">2003</div>
-  </div>
-  <div class="csl-entry">[14]	PEEBLES P Z Jr. 4th ed. New York: McGraw-Hill, 2001.</div>
-  <div class="csl-entry">[15]	YUFIN S A. Rotterdam: A. A. Balkema, 2000.</div>
-  <div class="csl-entry">[16]	BALDOCK P. Rotterdam: Open University Press, 2011: 105.</div>
-  <div class="csl-entry">[17]	FAN X, SOMMERS C H. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.</div>
-  <div class="csl-entry">[18]	王夫之. 船山全书: 第 6 册. 长沙: 岳麓书社, 2011: 1109.
-    <div class="csl-block">王夫之. 2011: 1109</div>
-  </div>
-  <div class="csl-entry">[19]	程根伟. 许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.
-    <div class="csl-block">许厚泽, 赵其国. 1999: 32-36</div>
-  </div>
-  <div class="csl-entry">[20]	陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.
-    <div class="csl-block">中国地质科学院天津地质矿产研究所. 1980: 56-114</div>
-  </div>
-  <div class="csl-entry">[21]	马克思. 马克思, 恩格斯. 马克思恩格斯全集: 第 35 卷. 北京: 人民出版社, 2013: 302.
-    <div class="csl-block">马克思, 恩格斯. 2013: 302</div>
-  </div>
-  <div class="csl-entry">[22]	贾东琴, 柯平. 中国图书馆学会. 中国图书馆学会年会论文集: 2011 年卷. 北京: 国家图书馆出版社, 2011: 45-52.
-    <div class="csl-block">中国图书馆学会. 2011: 45-52</div>
-  </div>
-  <div class="csl-entry">[23]	WEINSTEIN L, SWARTZ M N. Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.</div>
-  <div class="csl-entry">[24]	ROBERSON J A, BURNESON E G. American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
-  <div class="csl-entry">[25]	中华医学会湖北分会. 1984, 1(1). 武汉: 中华医学会湖北分会, 1984.
-    <div class="csl-block">1984, 1(1). 1984</div>
-  </div>
-  <div class="csl-entry">[26]	中国图书馆学会. 1957(1-4). 北京: 北京图书馆, 1957.
-    <div class="csl-block">1957(1-4). 1957</div>
-  </div>
-  <div class="csl-entry">[27]	AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">[28]	袁训来, 陈哲, 肖书海, 万斌, 关成国, 王伟, 周传明, 华洪. 科学通报, 2012, 57(34): 3219.
-    <div class="csl-block">2012, 57(34): 3219</div>
-  </div>
-  <div class="csl-entry">[29]	余建斌. 人民日报, 2013-01-12(2).
-    <div class="csl-block">2013-01-12(2)</div>
-  </div>
-  <div class="csl-entry">[30]	李炳穆. 图书情报工作, 2008, 52(6): 6-12.
-    <div class="csl-block">2008, 52(6): 6-12</div>
-  </div>
-  <div class="csl-entry">[31]	李幼平, 王莉. 中华移植杂志（电子版）, 2010, 4(3): 225-228.
-    <div class="csl-block">2010, 4(3): 225-228</div>
-  </div>
-  <div class="csl-entry">[32]	武丽丽, 华一新, 张亚军, 刘英敏. 测绘科学, 2008, 33(5): 8-9.
-    <div class="csl-block">2008, 33(5): 8-9</div>
-  </div>
-  <div class="csl-entry">[33]	KANAMORI H. Science, 1998, 279(5359): 2063.</div>
-  <div class="csl-entry">[34]	CAPLAN P. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
-  <div class="csl-entry">[35]	FRESE K S, KATUS H A, MEDER B. Biology, 2013, 2(1): 378-398.</div>
-  <div class="csl-entry">[36]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J. Nature, 2014, 510: 356-362.</div>
-  <div class="csl-entry">[37]	邓一刚. 200610171314.3. 2006-12-13.
-    <div class="csl-block">200610171314.3. 2006-12-13</div>
-  </div>
-  <div class="csl-entry">[38]	西安电子科技大学. 01128777.2. 2002-03-06.
-    <div class="csl-block">01128777.2. 2002-03-06</div>
-  </div>
-  <div class="csl-entry">[39]	TACHIBANA R, SHIMIZU S, KOBAYASHI S, NAKAMURA T. US6915001. 2005-07-05.</div>
-  <div class="csl-entry">[40]	中国互联网络信息中心. 2012.
-    <div class="csl-block">2012</div>
-  </div>
-  <div class="csl-entry">[41]	北京市人民政府办公厅. 京政办发［2005］37 号. 2005.
-    <div class="csl-block">京政办发［2005］37 号. 2005</div>
-  </div>
-  <div class="csl-entry">[42]	BAWDEN D. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
-  <div class="csl-entry">[43]	ONLINE COMPUTER LIBRARY CENTER, INC. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
-  <div class="csl-entry">[44]	HOPKINSON A. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
-  <div class="csl-entry">[45]	Br. Med. J., 1981, 283(6292): 628.</div>
-  <div class="csl-entry">[46]	刘乃安. 合肥: 中国科学技术大学, 2000: 17-18.
-    <div class="csl-block">2000: 17-18</div>
-  </div>
-  <div class="csl-entry">[47]	DEVERELL W, IGLER D. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
-  <div class="csl-entry">[48]	BAKER S K, JACKSON M E. New York: The Haworth Press, 1995.</div>
-  <div class="csl-entry">[49]	CHERNIK B E. Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
-  <div class="csl-entry">[50]	尼葛洛庞帝. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.
-    <div class="csl-block">1996</div>
-  </div>
-  <div class="csl-entry">[51]	汪冰. 北京: 北京图书馆出版社, 1997: 16.
-    <div class="csl-block">1997: 16</div>
-  </div>
-  <div class="csl-entry">[52]	杨宗英. 中国图书馆学报, 1996(2): 24-29.
-    <div class="csl-block">1996(2): 24-29</div>
-  </div>
-  <div class="csl-entry">[53]	DOWLER L. Journal of Library Administration, 1995, 21(1/2): 5-26.</div>
-  <div class="csl-entry">[54]	SUNSTEIN C R. Columbia Law Rev., 1996, 96: 903.</div>
-  <div class="csl-entry">[55]	MORRIS I. New York: Farrar, Straus and Giroux, 2010.</div>
-  <div class="csl-entry">[56]	罗杰斯. 潘惠霞, 魏婧, 杨艳, 汤玲, 译. 大连: 东北财经大学出版社, 2011: 15-16.
-    <div class="csl-block">2011: 15-16</div>
-  </div>
-  <div class="csl-entry">[57]	陈登原. 第 1 卷. 北京: 中华书局, 2000: 29.
-    <div class="csl-block">第 1 卷. 2000: 29</div>
-  </div>
-  <div class="csl-entry">[58]	CRANE D. Chicago: Univ. of Chicago Press, 1972.</div>
-  <div class="csl-entry">[59]	STIEG M F. Coll. Res. Libr., 1981, 42(6): 549-560.</div>
-  <div class="csl-entry">[60]	王临惠, 支建刚, 王忠一. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.
-    <div class="csl-block">2010, 37(4): 147</div>
-  </div>
-  <div class="csl-entry">[61]	王临惠. 曹志耘. 汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.
-    <div class="csl-block">曹志耘. 2010: 138</div>
-  </div>
-  <div class="csl-entry">[62]	KENNEDY W J, GARRISON R E. Sedimentology, 1975, 22: 311.</div>
-  <div class="csl-entry">[63]	KENNEDY W J, GARRISON R E. Lethaia, 1975, 8(4): 339-360.</div>
-  <div class="csl-entry">[64]	张忠智. 中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.
-    <div class="csl-block">中国科学技术期刊编辑学会. 1997: 33-34</div>
-  </div>
-  <div class="csl-entry">[65]	中国社会科学院语言研究所词典编辑室. 修订本. 北京: 商务印书馆, 1996.
-    <div class="csl-block">1996</div>
-  </div>
-  <div class="csl-entry">[66]	刘彻东. 中国出版, 1998(5): 38-39.
-    <div class="csl-block">1998(5): 38-39</div>
-  </div>
-  <div class="csl-entry">[67]	裴丽生. 中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.
-    <div class="csl-block">中国科学技术协会. 1981: 2-10</div>
-  </div>
-  <div class="csl-entry">[68]	张伯伟. 南京: 江苏古籍出版社, 2002: 288.
+<div class="csl-bib-body maxoffset-160 second-field-align-false hangingindent-true">
+  <div class="csl-entry">[1]	张伯伟. 南京: 江苏古籍出版社, 2002: 288.
     <div class="csl-block">2002: 288</div>
   </div>
-  <div class="csl-entry">[69]	皮锡瑞. 第 4 册. 北京: 国家图书馆, 2009: 155.
-    <div class="csl-block">第 4 册. 2009: 155</div>
+  <div class="csl-entry">[2]	曹凌. 上海: 上海古籍出版社, 2011: 19.
+    <div class="csl-block">2011: 19</div>
   </div>
-  <div class="csl-entry">[70]	胡承正, 周详, 缪灵. 上. 武汉: 武汉大学出版社, 2010: 112.
-    <div class="csl-block">上. 2010: 112</div>
+  <div class="csl-entry">[3]	陈登原. 卷 1. 北京: 中华书局, 2000: 29.
+    <div class="csl-block">卷 1. 2000: 29</div>
   </div>
-  <div class="csl-entry">[71]	美国妇产科医师学会. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.
-    <div class="csl-block">2010: 38-39</div>
+  <div class="csl-entry">[4]	王夫之. 刻本. 金陵: 湘乡曾国荃, 1865.
+    <div class="csl-block">1865</div>
   </div>
-  <div class="csl-entry">[72]	同文书局影印本. 北京: 中华书局, 1962: 50.
+  <div class="csl-entry">[5]	顾炎武. 北京: 北京古籍出版社, 1980.
+    <div class="csl-block">1980</div>
+  </div>
+  <div class="csl-entry">[6]	钱学森. 太原: 山西科学技术出版社, 2001: 序2-3.
+    <div class="csl-block">2001: 序2-3</div>
+  </div>
+  <div class="csl-entry">[7]	冯友兰. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
+    <div class="csl-block">2008: 第1版自序</div>
+  </div>
+  <div class="csl-entry">[8]	同文书局影印本. 北京: 中华书局, 1962: 50.
     <div class="csl-block">1962: 50</div>
   </div>
-  <div class="csl-entry">[73]	汪昂. 四卷. 刻本. 京都: 老二酉堂, 1881.
-    <div class="csl-block">四卷. 1881</div>
+  <div class="csl-entry">[9]	战德臣, 张丽杰. 3 版. 北京: 高等教育出版社, 2019.
+    <div class="csl-block">2019</div>
   </div>
-  <div class="csl-entry">[74]	蒋有绪, 郭泉水, 马娟, OTHERS. 北京: 科学出版社, 1998.
-    <div class="csl-block">1998</div>
+  <div class="csl-entry">[10]	哈里森, 沃尔德伦. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.
+    <div class="csl-block">2012: 235-236</div>
   </div>
-  <div class="csl-entry">[75]	中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 北京: 九州出版社, 2013.
-    <div class="csl-block">2013</div>
+  <div class="csl-entry">[11]	牛永敢, 孔晓, 王阳, 斯楼斌. 北京: 人民卫生出版社, 2019: 65-66.
+    <div class="csl-block">2019: 65-66</div>
   </div>
-  <div class="csl-entry">[76]	罗斯基. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.
+  <div class="csl-entry">[12]	扬奎斯特, 萨金特. 杨斌, 王忠玉, 陈彦斌, 严高剑, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.
+    <div class="csl-block">Ljungqvist L, Sargent T J. Beijing: China Renmin University Press, 2010: 798</div>
+  </div>
+  <div class="csl-entry">[13]	云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 芒市: 德宏民族出版社, 2009.
     <div class="csl-block">2009</div>
   </div>
-  <div class="csl-entry">[77]	库恩. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.
-    <div class="csl-block">2012</div>
+  <div class="csl-entry">[14]	赵学功. 北京: 社会科学文献出版社, 2001.
+    <div class="csl-block">2001</div>
   </div>
-  <div class="csl-entry">[78]	侯文顺. 北京: 化学工业出版社, 2010: 119.
-    <div class="csl-block">2010: 119</div>
-  </div>
-  <div class="csl-entry">[79]	CRAWFORD W, GORMAN M. Chicago: American Library Association, 1995.</div>
-  <div class="csl-entry">[80]	INTERNATIONAL FEDERATION OF LIBRARY ASSOCIATION AND INSTITUTIONS. 3rd ed. London: IFLA International Office for UBC, 1977.</div>
-  <div class="csl-entry">[81]	O’BRIEN J A. 7th ed. Burr Ridge, IL: Irwin, 1994.</div>
-  <div class="csl-entry">[82]	KINCHY A. Cambridge, Mass.: MIT Press, 2012: 50.</div>
-  <div class="csl-entry">[83]	PRAETZELLIS A. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  <div class="csl-entry">[84]	中国职工教育研究会. 北京: 人民教育出版社, 1985.
-    <div class="csl-block">1985</div>
-  </div>
-  <div class="csl-entry">[85]	中国社会科学院台湾史研究中心. 北京: 九州出版社, 2012.
-    <div class="csl-block">2012</div>
-  </div>
-  <div class="csl-entry">[86]	雷光春. 北京: 海洋出版社, 2012.
-    <div class="csl-block">2012</div>
-  </div>
-  <div class="csl-entry">[87]	陈志勇. 北京: 经济科学出版社, 2011.
-    <div class="csl-block">2011</div>
-  </div>
-  <div class="csl-entry">[88]	BABU B V, NAGAR A K, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U. New Delhi: Springer, 2014.</div>
-  <div class="csl-entry">[89]	中华人民共和国国务院新闻办公室. 2013.
-    <div class="csl-block">2013</div>
-  </div>
-  <div class="csl-entry">[90]	汤万金, 杨跃翔, 刘文, OTHERS. 7178999X-2006BAK04A10/10.2013. 2013.
-    <div class="csl-block">7178999X-2006BAK04A10/10.2013. 2013</div>
-  </div>
-  <div class="csl-entry">[91]	CALKIN D, AGER A, THOMPSON M. RMRS-GTR-262. 2011: 8-9.</div>
-  <div class="csl-entry">[92]	U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
-  <div class="csl-entry">[93]	WORLD HEALTH ORGANIZATION. Geneva: WHO, 1970.</div>
-  <div class="csl-entry">[94]	马欢. 北京: 清华大学, 2011: 27.
-    <div class="csl-block">2011: 27</div>
-  </div>
-  <div class="csl-entry">[95]	吴云芳. 北京: 北京大学, 2003.
+  <div class="csl-entry">[15]	中国造纸学会. 北京: 中国轻工业出版社, 2003.
     <div class="csl-block">2003</div>
   </div>
-  <div class="csl-entry">[96]	CAIRNS B R. Berkeley: Univ. of California, 1965.</div>
-  <div class="csl-entry">[97]	张凯军. 201220158825.2. 2012-04-05.
-    <div class="csl-block">201220158825.2. 2012-04-05</div>
+  <div class="csl-entry">[16]	博伯尔. 徐超, 译. 北京: 清华大学出版社, 2023: 35.
+    <div class="csl-block">2023: 35</div>
   </div>
-  <div class="csl-entry">[98]	河北绿洲生态环境科技有限公司. 01129210.5. 2001-10-24.
-    <div class="csl-block">01129210.5. 2001-10-24</div>
+  <div class="csl-entry">[17]	図書館用語辞典編集委員会. 東京: 柏書房株式会社, 2004: 154.
+    <div class="csl-block">2004: 154</div>
   </div>
-  <div class="csl-entry">[99]	KOSEKI A, MOMOSE H, KAWAHITO M, KOMATSU H. US828402. 2002-05-25.</div>
-  <div class="csl-entry">[100]	全国信息与文献标准化技术委员会. GB/T 3792.4—2009. 北京: 中国标准出版社, 2010: 3.
-    <div class="csl-block">GB/T 3792.4—2009. 2010: 3</div>
+  <div class="csl-entry">[18]	PEEBLES P Z Jr. 4th ed. New York: McGraw-Hill, 2001.</div>
+  <div class="csl-entry">[19]	SADOCK B J, SADOCK V A, RUIZ P, KAPLAN H I. Vol. 1. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
+  <div class="csl-entry">[20]	INSTITUTE FOR ART AND ARCHITECTURE, ACADEMY OF FINE ARTS VIENNA. Zürich: Park Books, 2023: 78.</div>
+  <div class="csl-entry">[21]	KINCHY A. Cambridge, Mass.: MIT Press, 2012: 50.</div>
+  <div class="csl-entry">[22]	PRAETZELLIS A. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
+  <div class="csl-entry">[23]	TORRES L, SALISBURY F, YAZBECK B, KARASMANIS S, PINDER J, ONDRACEK C. Singapore: Springer Nature, 2021: 97.</div>
+  <div class="csl-entry">[24]	BOOBIER T. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
+  <div class="csl-entry">[25]	DEVERELL W, IGLER D. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
+  <div class="csl-entry">[26]	阿扬. 姜海伦, 译//《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15-18.
+    <div class="csl-block">《环球科学》杂志社. 2023: 15-18</div>
   </div>
-  <div class="csl-entry">[101]	全国广播电视标准化技术委员会. GY/T 202.2—2007. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.
-    <div class="csl-block">GY/T 202.2—2007. 2007: 1</div>
+  <div class="csl-entry">[27]	王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.
+    <div class="csl-block">王夫之. 修订版. 2011: 983-1029</div>
   </div>
-  <div class="csl-entry">[102]	国家环境保护局科技标准司. GB 15616—1995. 北京: 中国标准出版社, 1996: 2-3.
-    <div class="csl-block">GB 15616—1995. 1996: 2-3</div>
+  <div class="csl-entry">[28]	程根伟. 许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.
+    <div class="csl-block">许厚泽, 赵其国. 1999: 32-36</div>
   </div>
-  <div class="csl-entry">[103]	ISO 15836:2009. [2013].</div>
-  <div class="csl-entry">[104]	苏魏公文集: 下册. 北京: 中华书局, 1988: 590.
-    <div class="csl-block">1988: 590</div>
+  <div class="csl-entry">[29]	李约瑟. 苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社, 1991: 扉页.
+    <div class="csl-block">1991: 扉页</div>
   </div>
-  <div class="csl-entry">[105]	白书农. 李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.
-    <div class="csl-block">李承森. 1998: 146-163</div>
+  <div class="csl-entry">[30]	陈晋镳, 张惠民, 朱士兴, 赵震, 王振刚. 中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.
+    <div class="csl-block">中国地质科学院天津地质矿产研究所. 1980: 56-114</div>
   </div>
-  <div class="csl-entry">[106]	汪学军. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.
-    <div class="csl-block">国家环境保护总局生物安全管理办公室. 2002: 22-25</div>
+  <div class="csl-entry">[31]	马克思. 马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 2 版. 北京: 人民出版社, 2013: 302.
+    <div class="csl-block">2 版. 2013: 302</div>
   </div>
-  <div class="csl-entry">[107]	国家标准局信息分类编码研究所. GB/T 2659—1986//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京: 中国标准出版社, 1988: 59-92.
-    <div class="csl-block">全国文献工作标准化委员会. GB/T 2659—1986. 1988: 59-92</div>
+  <div class="csl-entry">[32]	国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社, 2020: 24-25.
+    <div class="csl-block">国家药典委员会. 2020版. 2020: 24-25</div>
   </div>
-  <div class="csl-entry">[108]	宋史: 第 1 册. 北京: 中华书局, 1977: 49.
-    <div class="csl-block">1977: 49</div>
+  <div class="csl-entry">[33]	楼梦麟, 杨燕. 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 11-12.
+    <div class="csl-block">同济大学土木工程防灾国家重点实验室. 2011: 11-12</div>
   </div>
-  <div class="csl-entry">[109]	楼梦鳞, 杨燕. 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.
-    <div class="csl-block">同济大学土木工程防灾国家重点实验室. 2011: 011-012</div>
+  <div class="csl-entry">[34]	WEINSTEIN L, SWARTZ M N. Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders, 1974: 457-472.</div>
+  <div class="csl-entry">[35]	ROBERSON J A, BURNESON E G. American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+  <div class="csl-entry">[36]	中华医学会湖北分会. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.
+    <div class="csl-block">1984, 1984，1（1）—. 1984</div>
   </div>
-  <div class="csl-entry">[110]	BUSECK P R, NORD G L Jr, VEBLEN D R. Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.</div>
-  <div class="csl-entry">[111]	FOURNEY M E. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.</div>
-  <div class="csl-entry">[112]	杨洪升. 文献, 2013(1): 56-75.
+  <div class="csl-entry">[37]	中国图书馆学会. 1957/[1990], 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990.
+    <div class="csl-block">1957/1990, 1957（1）—1990（4）. 1957/1990</div>
+  </div>
+  <div class="csl-entry">[38]	AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">[39]	1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
+  <div class="csl-entry">[40]	杨洪升. 文献, 2013(1): 56-75.
     <div class="csl-block">2013(1): 56-75</div>
   </div>
-  <div class="csl-entry">[113]	李炳穆. 图书情报工作, 2008, 52(6): 6-21.
-    <div class="csl-block">2008, 52(6): 6-21</div>
-  </div>
-  <div class="csl-entry">[114]	于潇, 刘义, 柴跃廷, 孙宏波. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.
-    <div class="csl-block">2012, 52(11): 1518-1523</div>
-  </div>
-  <div class="csl-entry">[115]	陈建军. 国土资源导刊, 2010, 7(10): 93.
-    <div class="csl-block">2010, 7(10): 93</div>
-  </div>
-  <div class="csl-entry">[116]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. Nature, 1992, 359(6396): 605-609.</div>
-  <div class="csl-entry">[117]	SAITO M, MIYAZAKI K. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.</div>
-  <div class="csl-entry">[118]	WALLS S C, BARICHIVICH W J, BROWN M E. Biology, 2013, 2(1): 399-418.</div>
-  <div class="csl-entry">[119]	FRANZ A K, DANIELEWICZ M A, WONG D M, ANDERSON L A, BOOTHE J R. ACS Chem. Biol., 2013, 8: 1053-1062.</div>
-  <div class="csl-entry">[120]	PARK J R, TOSAKA Y. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.</div>
-  <div class="csl-entry">[121]	丁文详. 中国青年报, 2000-11-20(15).
+  <div class="csl-entry">[41]	丁文详. 中国青年报, 2000-11-20(15).
     <div class="csl-block">2000-11-20(15)</div>
   </div>
-  <div class="csl-entry">[122]	张田勘. 大众科技报, 2000-11-12(7).
-    <div class="csl-block">2000-11-12(7)</div>
+  <div class="csl-entry">[42]	于潇, 刘义, 柴跃廷, 孙宏波. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.
+    <div class="csl-block">Yu X, Liu Y, Chai Y T, Sun H B. Journal of Tsinghua University (Science and Technology), 2012, 52(11): 1518-1523</div>
   </div>
-  <div class="csl-entry">[123]	傅刚, 赵承, 李佳路. 北京青年报, 2000-01-12.
-    <div class="csl-block">2000-01-12</div>
+  <div class="csl-entry">[43]	久保智康. 东方博物, 2009(1): 85-92.
+    <div class="csl-block">2009(1): 85-92</div>
   </div>
-  <div class="csl-entry">[124]	刘裕国, 杨柳, 张洋, 王汉超, 靳博, 田豆豆, 付文. 人民日报, 2013-01-12.
-    <div class="csl-block">2013-01-12</div>
+  <div class="csl-entry">[44]	陈建军. 国土资源导刊, 2010, 7(10): 93.
+    <div class="csl-block">2010, 7(10): 93</div>
   </div>
-  <div class="csl-entry">[125]	萧钰. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.
-    <div class="csl-block">(2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a></div>
+  <div class="csl-entry">[45]	陈缮真. 人民日报, 2022-08-16(17).
+    <div class="csl-block">2022-08-16(17)</div>
   </div>
-  <div class="csl-entry">[126]	李强. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.
-    <div class="csl-block">(2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a></div>
+  <div class="csl-entry">[46]	李幼平, 王莉. 中华移植杂志（电子版）, 2010, 4(3): 225-228.
+    <div class="csl-block">2010, 4(3): 225-228</div>
   </div>
-  <div class="csl-entry">[127]	COMMONWEALTH LIBRARIES BUREAU OF LIBRARY DEVELOPMENT. PENNSYLVANIA DEPARTMENT OF EDUCATION OFFICE. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
-  <div class="csl-entry">[128]	(2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+  <div class="csl-entry">[47]	张群, 程志宝, 石志飞. 铁道学报, 2024.
+    <div class="csl-block">2024</div>
+  </div>
+  <div class="csl-entry">[48]	张群, 程志宝, 石志飞. 铁道学报, 2024, 46(8): 102-111.
+    <div class="csl-block">2024, 46(8): 102-111</div>
+  </div>
+  <div class="csl-entry">[49]	徐建委. 北京大学学报（哲学社会科学版）, 2025, 62(2): 117-127.
+    <div class="csl-block">2025, 62(2): 117-127</div>
+  </div>
+  <div class="csl-entry">[50]	王利平, 王福新, 刘洪. 航空学报, 2024, 45(增刊1): 730570.
+    <div class="csl-block">2024, 45(增刊1): 730570</div>
+  </div>
+  <div class="csl-entry">[51]	CAPLAN P. Public-Access Comput. Syst. Rev., 1993, 4(2): 61-66.</div>
+  <div class="csl-entry">[52]	SAITO M, MIYAZAKI K. Bull. Geol. Surv. Jpn., 2006, 57(5/6): 169-176.</div>
+  <div class="csl-entry">[53]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. Nature, 1992, 359: 605-609.</div>
+  <div class="csl-entry">[54]	PARK J R, TOSAKA Y. Cat. Classif. Q., 2010, 48(8): 696-715.</div>
+  <div class="csl-entry">[55]	FRESE K S, KATUS H A, MEDER B. Biology, 2013, 2(1): 378-398.</div>
+  <div class="csl-entry">[56]	MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, HELLSTEN U, HAYES R D, GRIMWOOD J, JENKINS J, LINDQUIST E, TICE H, BAUER D, GOODSTEIN D M, DUBCHAK I, POLIAKOV A, MIZRACHI E, KULLAN A R K, HUSSEY S G, PINARD D, VAN DER MERWE K, SINGH P, VAN JAARSVELD I, SILVA-JUNIOR O B, TOGAWA R C, PAPPAS M R, FARIA D A, SANSALONI C P, PETROLI C D, YANG X, RANJAN P, TSCHAPLINSKI T J, YE C Y, LI T, STERCK L, VANNESTE K, MURAT F, SOLER M, CLEMENTE H S, SAIDI N, CASSAN-WANG H, DUNAND C, HEFER C A, BORNBERG-BAUER E, KERSTING A R, VINING K, AMARASINGHE V, RANIK M, NAITHANI S, ELSER J, BOYD A E, LISTON A, SPATAFORA J W, DHARMWARDHANA P, RAJA R, SULLIVAN C, ROMANEL E, ALVES-FERREIRA M, KÜLHEIM C, FOLEY W, CAROCHA V, PAIVA J, KUDRNA D, BROMMONSCHENKEL S H, PASQUALI G, BYRNE M, RIGAULT P, TIBBITS J, SPOKEVICIUS A, JONES R C, STEANE D A, VAILLANCOURT R E, POTTS B M, JOUBERT F, BARRY K, PAPPAS G J, STRAUSS S H, JAISWAL P, GRIMA-PETTENATI J, SALSE J, VAN DE PEER Y, ROKHSAR D S, SCHMUTZ J. Nature, 2014, 510: 356-362.</div>
+  <div class="csl-entry">[57]	SANTER R D, AKANYETI O. Insect Sci., 2025.</div>
+  <div class="csl-entry">[58]	SHINOTSUKA H, NAGATA K, SIRIWARDANA M, YOSHIKAWA H, SHOUNO H, OKADA M. J. Electron Spectrosc. Relat. Phenom., 2023, 267: 147370.</div>
+  <div class="csl-entry">[59]	VEEN P H Van Der, MULLER M, VINCKEN K L, WITKAMP T D, MALI W P T M, VAN DER GRAAF Y, GEERLINGS M I, SMART-MR STUDY GROUP. J. Neurol. Sci., 2014, 337(1/2): 112-118.</div>
+  <div class="csl-entry">[60]	李妍, 王莹. 中华预防医学会医院感染控制分会第31次全国医院感染学术年会. 2022: 2.
+    <div class="csl-block">中华预防医学会医院感染控制分会第31次全国医院感染学术年会. 2022: 2</div>
+  </div>
+  <div class="csl-entry">[61]	牛志明, SWINGLAND I R, 雷光春. 北京: 海洋出版社, 2012.
+    <div class="csl-block">2012</div>
+  </div>
+  <div class="csl-entry">[62]	中国社会科学院台湾史研究中心. 北京: 九州出版社, 2012.
+    <div class="csl-block">2012</div>
+  </div>
+  <div class="csl-entry">[63]	肖希明, 石庆功, 刘奕. 纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系, 2024: 134-147.
+    <div class="csl-block">2024: 134-147</div>
+  </div>
+  <div class="csl-entry">[64]	汪学军. 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.
+    <div class="csl-block">Wang X J. Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25</div>
+  </div>
+  <div class="csl-entry">[65]	贾东琴, 柯平. 中国图书馆学会. 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社, 2011: 45-52.
+    <div class="csl-block">中国图书馆学会. 2011: 45-52</div>
+  </div>
+  <div class="csl-entry">[66]	陈志勇. 北京: 经济科学出版社, 2011.
+    <div class="csl-block">2011</div>
+  </div>
+  <div class="csl-entry">[67]	WANG S. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
+  <div class="csl-entry">[68]	YU Y, PAN E, WANG X, WU Y, MEI X, MA J. CVPR. 2024: 4.</div>
+  <div class="csl-entry">[69]	YUFIN S A. Rotterdam: A. A. Balkema, 2000.</div>
+  <div class="csl-entry">[70]	BABU B V, NAGAR A, DEEP K, PANT M, BANSAL J C, RAY K, GUPTA U. New Delhi: Springer, 2014.</div>
+  <div class="csl-entry">[71]	FOURNEY M E. Gottenberg W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
+  <div class="csl-entry">[72]	王琦. 武汉: 武汉大学, 2022: 87.
+    <div class="csl-block">2022: 87</div>
+  </div>
+  <div class="csl-entry">[73]	金燕萍. 温州: 温州大学, 2020: 16.
+    <div class="csl-block">2020: 16</div>
+  </div>
+  <div class="csl-entry">[74]	何筱梅. 武汉: 武汉大学, 2016: 24-25.
+    <div class="csl-block">2016: 24-25</div>
+  </div>
+  <div class="csl-entry">[75]	井丽南. 北京: 中国科学院大学, 2022: 43.
+    <div class="csl-block">2022: 43</div>
+  </div>
+  <div class="csl-entry">[76]	CAIRNS B R. Berkeley: University of California, 1965: 15.</div>
+  <div class="csl-entry">[77]	CHRISTOU A. Ohio: Wright State University, 2024: 18.</div>
+  <div class="csl-entry">[78]	中国互联网络信息中心. 2012.
+    <div class="csl-block">2012</div>
+  </div>
+  <div class="csl-entry">[79]	汤万金, 杨跃翔, 刘文, 郑建国, 王赟松. 7178999X-2006BAK04A10/10.2013. 2013.
+    <div class="csl-block">7178999X-2006BAK04A10/10.2013. 2013</div>
+  </div>
+  <div class="csl-entry">[80]	中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 中国联合网络通信有限公司研究院. 2023.
+    <div class="csl-block">2023</div>
+  </div>
+  <div class="csl-entry">[81]	CALKIN D E, AGER A A, THOMPSON M P. RMRS-GTR-262. 2011: 8-9.</div>
+  <div class="csl-entry">[82]	U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
+  <div class="csl-entry">[83]	UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [2025].</div>
+  <div class="csl-entry">[84]	全国信息与文献标准化技术委员会. GB/T 3792—2021. 2021.
+    <div class="csl-block">GB/T 3792—2021. 2021</div>
+  </div>
+  <div class="csl-entry">[85]	全国信息技术标准化技术委员会. GB/T 20090.16—2016. 2016.
+    <div class="csl-block">GB/T 20090.16—2016. 2016</div>
+  </div>
+  <div class="csl-entry">[86]	工业和信息化部. GB 18030—2022. 2022.
+    <div class="csl-block">GB 18030—2022. 2022</div>
+  </div>
+  <div class="csl-entry">[87]	国家能源局. NB/T 10386—2020. 2020.
+    <div class="csl-block">NB/T 10386—2020. 2020</div>
+  </div>
+  <div class="csl-entry">[88]	ISO. ISO 21378:2019. 2019.</div>
+  <div class="csl-entry">[89]	INTERNATIONAL ELECTROTECHNICAL COMMISSION (IEC). IEC/IEEE 61636-1:2021. New York: IEEE, 2021.</div>
+  <div class="csl-entry">[90]	IEEE P802.11ba/D8.0-2020. New York: IEEE, 2020.</div>
+  <div class="csl-entry">[91]	AMERICAN INSTITUTE OF AERONAUTICS AND ASTRONAUTICS (AIAA). AIAA G-136-2022.</div>
+  <div class="csl-entry">[92]	ISO/IEC 80079-20-2:2016(en).</div>
+  <div class="csl-entry">[93]	ISO/IEC 80079-20-2:2016(fr).
+    <div class="csl-block">ISO/IEC 80079-20-2:2016(fr)</div>
+  </div>
+  <div class="csl-entry">[94]	邓一刚. CN101106276A. 2008-01-16.
+    <div class="csl-block">CN101106276A. 2008-01-16</div>
+  </div>
+  <div class="csl-entry">[95]	张凯军, 赵永杰, 陈朝岗. CN202827616U. 2013-03-27.
+    <div class="csl-block">CN202827616U. 2013-03-27</div>
+  </div>
+  <div class="csl-entry">[96]	李华, 王昊, 康佐. CN218214474U. 2023-01-03.
+    <div class="csl-block">CN218214474U. 2023-01-03</div>
+  </div>
+  <div class="csl-entry">[97]	石顺祥, 许海平, 孙艳玲, 陈利菊, 李家立, 刘继芳. CN1338652A. 2002-03-06.
+    <div class="csl-block">CN1338652A. 2002-03-06</div>
+  </div>
+  <div class="csl-entry">[98]	冀超. CN1318281A. 2001-10-24.
+    <div class="csl-block">CN1318281A. 2001-10-24</div>
+  </div>
+  <div class="csl-entry">[99]	史国华, 樊金宇, 何益, 邢利娜, 高峰. JP2022539784A. 2022-09-13.
+    <div class="csl-block">JP2022539784A. 2022-09-13</div>
+  </div>
+  <div class="csl-entry">[100]	TACHIBANA R, SHIMIZU S, KOBAYASHI S, NAKAMURA T. US2002061118A1. 2001-06-28.</div>
+  <div class="csl-entry">[101]	TRISTRAM M, SKARSHEWSKI P, TRISTRAM I, MOSSEL B. AU2022228203A1. 2022-10-06.</div>
+  <div class="csl-entry">[102]	中国科学院文献情报中心. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.
+    <div class="csl-block">[2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a></div>
+  </div>
+  <div class="csl-entry">[103]	北京鲁迅博物馆. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.
+    <div class="csl-block">(2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a></div>
+  </div>
+  <div class="csl-entry">[104]	杨立华. 2022.
+    <div class="csl-block">2022</div>
+  </div>
+  <div class="csl-entry">[105]	高等教育文献保障系统. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.
+    <div class="csl-block">[2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a></div>
+  </div>
+  <div class="csl-entry">[106]	许振超. (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.
+    <div class="csl-block">(2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a></div>
+  </div>
+  <div class="csl-entry">[107]	2023.
+    <div class="csl-block">2023</div>
+  </div>
+  <div class="csl-entry">[108]	仉尚航. (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.
+    <div class="csl-block">(2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a></div>
+  </div>
+  <div class="csl-entry">[109]	(2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.
+    <div class="csl-block">(2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a></div>
+  </div>
+  <div class="csl-entry">[110]	[2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+  <div class="csl-entry">[111]	INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
+  <div class="csl-entry">[112]	ANTÓNIO M, PEPPER L. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.
+    <div class="csl-block">(2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a></div>
+  </div>
+  <div class="csl-entry">[113]	BEVINGTON D, BROWN J R. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
+  <div class="csl-entry">[114]	ZOTERO. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
+  <div class="csl-entry">[115]	李鸿章. 04-01-35-0399-039. 北京: 中国第一历史档案馆, 1887.
+    <div class="csl-block">04-01-35-0399-039. 北京: 中国第一历史档案馆, 1887</div>
+  </div>
+  <div class="csl-entry">[116]	湖北省建设厅. 武汉: 湖北省档案馆, 1931.
+    <div class="csl-block">武汉: 湖北省档案馆, 1931</div>
+  </div>
+  <div class="csl-entry">[117]	武汉: 武汉大学档案馆, 1949.
+    <div class="csl-block">武汉: 武汉大学档案馆, 1949</div>
+  </div>
+  <div class="csl-entry">[118]	FITZWILLIAM H. 1570.</div>
+  <div class="csl-entry">[119]	胡健民. 北京: 科学出版社, 2021.
+    <div class="csl-block">2021</div>
+  </div>
+  <div class="csl-entry">[120]	刘祥沈. 武汉: 武汉大学出版社, 2016.
+    <div class="csl-block">2016</div>
+  </div>
+  <div class="csl-entry">[121]	中工武大设计研究有限公司. 武汉: 武汉大学出版社, 2019.
+    <div class="csl-block">2019</div>
+  </div>
+  <div class="csl-entry">[122]	吴自银, 温珍河. 北京: 科学出版社, 2019.
+    <div class="csl-block">2019</div>
+  </div>
+  <div class="csl-entry">[123]	国家测绘地理信息局.</div>
+  <div class="csl-entry">[124]	訾冬梅, 高秀静. 新版. 北京: 中国地图出版社, 2006.
+    <div class="csl-block">2006</div>
+  </div>
+  <div class="csl-entry">[125]	谭其骧. 第2册. 北京: 地图出版社, 1982: 6.
+    <div class="csl-block">第2册. 1982: 6</div>
+  </div>
+  <div class="csl-entry">[126]	童世亨. 上海: 商务印书馆, 1926.
+    <div class="csl-block">1926</div>
+  </div>
+  <div class="csl-entry">[127]	CRIBB R. Abingdon: Routledge, 2015.</div>
+  <div class="csl-entry">[128]	Beijing: China Ocean Press, 2024: 50.</div>
+  <div class="csl-entry">[129]	彭守璋. 西北农林科技大学水土保持研究所, 2024. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.
+    <div class="csl-block">(2024-07-19)[2024-11-25]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
+  </div>
+  <div class="csl-entry">[130]	刘时银, 郭万钦, 许君利. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 2012. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.
+    <div class="csl-block">2012[2024-11-25]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a></div>
+  </div>
+  <div class="csl-entry">[131]	周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.
+    <div class="csl-block">(2023-09-10)[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
+  </div>
+  <div class="csl-entry">[132]	郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.
+    <div class="csl-block">2018[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
+  </div>
+  <div class="csl-entry">[133]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.
+    <div class="csl-block">(2024-12-25). <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
+  </div>
+  <div class="csl-entry">[134]	王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 北京大学开放研究数据平台, 2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.
+    <div class="csl-block">(2025-06-11)[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>
+  </div>
+  <div class="csl-entry">[135]	SUGARMAN L, MARKHAM S. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
+  <div class="csl-entry">[136]	ZHONG X, YAN Q, LI G. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">[137]	IHME. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
+  <div class="csl-entry">[138]	方向明, 曹迎杰. ChinaXiv, 2023.
+    <div class="csl-block">2023</div>
+  </div>
+  <div class="csl-entry">[139]	肖玲, 张雪, 王永. PSSXiv, 2024.
+    <div class="csl-block">Xiao L, Zhang X, Wang Y. PSSXiv, 2024</div>
+  </div>
+  <div class="csl-entry">[140]	BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. bioRxiv, 2015.</div>
+  <div class="csl-entry">[141]	JENKINS S D, RUOSTEKOSKI J. arXiv, 2012.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -864,7 +895,7 @@
   <div class="csl-entry">[77]	AMERICAN COUNSELING ASSOCIATION. 2014.</div>
   <div class="csl-entry">[78]	AMERICAN NURSES ASSOCIATION. 2015.</div>
   <div class="csl-entry">[79]	AMERICAN PSYCHOLOGICAL ASSOCIATION. 2017.</div>
-  <div class="csl-entry">[80]	BLAIR C B. 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/[2020].</div>
+  <div class="csl-entry">[80]	BLAIR C B. 5R01HD081252-04. Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015/2020.</div>
   <div class="csl-entry">[81]	LICHTENSTEIN J. 1. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">[82]	HARWELL M. National Education Policy Center, 2018.</div>
   <div class="csl-entry">[83]	U.S. FOOD AND DRUG ADMINISTRATION. U.S. Food and Drug Administration, 2019.</div>
