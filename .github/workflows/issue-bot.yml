@@ -2,41 +2,52 @@ name: issue-bot
 
 on:
   issues:
-    types: [opened, edited, closed]
+    types:
+      - labeled
   issue_comment:
-    types: [created, edited]
+    types:
+      - created
   schedule:
     - cron: "30 1 * * *"
+  workflow_dispatch:
 
-permissions: {}
+permissions:
+  issues: write
+  pull-requests: write
+  discussions: write
 
 jobs:
-  label:
-    permissions:
-      issues: write # to add label to an issues (retorquere/label-gun)
-      pull-requests: write # to add label, comment on pull request (retorquere/label-gun)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: retorquere/label-gun@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          label.awaiting: "等待贡献者回复"
+  issue-bot:
+    uses: zotero-plugin-dev/workflows/.github/workflows/issue-bot.yml@main
+    with:
+      feedback-label: "等待用户回复"
+      stale-issue-label: "过期"
+      stale-issue-message: "该议题已被标记为「过期」，因为已经超过 30 天没有活动。"
+      close-issue-message: "该议题已关闭，因为它被标记为「过期」后 7 天内仍一直处于非活动状态。"
 
-  stable:
-    if: github.event_name == 'schedule'
+  language:
+    if: ${{ github.event.label.name == 'language' }}
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
     steps:
-      - uses: actions/stale@v9
+      - uses: actions-cool/issues-helper@v3
         with:
-          days-before-issue-stale: 360
-          days-before-issue-close: 7
-          stale-issue-label: "过期"
-          stale-issue-message: "该 issue 已被标记为「过期」，因为已经超过 360 天没有活动。"
-          close-issue-message: "该 issue 已关闭，因为它被标记为「过期」后 7 天内仍一直处于非活动状态。"
-          exempt-issue-labels: "help wanted"
-          days-before-pr-stale: -1
-          days-before-pr-close: -1
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          actions: close-issue, create-comment
+          token: ${{ secrets.GITHUB_TOKEN }}
+          body: |
+            你好，@${{ github.event.issue.user.login }}。
+            该问题可能是你没有正确设置「条目语言」导致的，请你检查条目语言后查看问题是否仍然出现。
+            关于如何设置条目语言，请参阅  [中英文混排 - Zotero 中文社区文档](https://zotero-chinese.com/user-guide/faqs/word-addon#中英文混排) 或 [常见问题](https://github.com/zotero-chinese/styles/wiki/FAQ)。
+
+  faqs:
+    if: ${{ github.event.label.name == 'faqs' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-cool/issues-helper@v3
+        with:
+          actions: close-issue, create-comment
+          token: ${{ secrets.GITHUB_TOKEN }}
+          body: |
+            你好，@${{ github.event.issue.user.login }}。
+            该问题已经在文档中明确提及，请阅读以下文档以解决此问题：
+            - [关于 Word 引用的各种问题 - Zotero 中文社区文档](https://zotero-chinese.com/user-guide/faqs/word-addon)
+            - [常见问题](https://github.com/zotero-chinese/styles/wiki/FAQ)。

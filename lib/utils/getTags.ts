@@ -30,6 +30,34 @@ const items = [
       "date-parts": [["2019"]],
     },
   },
+  {
+    id: "gbt7714-2025.b.4:3",
+    type: "article-journal",
+    "container-title": "清华大学学报（自然科学版）",
+    issue: "11",
+    language: "zh-CN",
+    note: "original-author: Yu || Xiao\noriginal-author: Liu || Yi\noriginal-author: Chai || Yue Ting\noriginal-author: Sun || Hong Bo\noriginal-title: The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment\noriginal-container-title: Journal of Tsinghua University (Science and Technology)",
+    page: "1518-1523",
+    title: "互联网药品可信交易环境中主体资质审核备案模式",
+    volume: "52",
+    author: [
+      {
+        literal: "于潇",
+      },
+      {
+        literal: "刘义",
+      },
+      {
+        literal: "柴跃廷",
+      },
+      {
+        literal: "孙宏波",
+      },
+    ],
+    issued: {
+      "date-parts": [["2012"]],
+    },
+  },
 ];
 
 export function getTags(style: string) {
@@ -38,7 +66,7 @@ export function getTags(style: string) {
   let citation = citeproc.processCitationCluster(
     {
       citationID: "CITATION-1",
-      citationItems: [{ id: "apa.10.1:1" }],
+      citationItems: [{ id: "apa.10.1:1" }, { id: "gbt7714-2025.b.4:3" }],
       properties: { noteIndex: 0 },
     },
     [],
@@ -48,7 +76,7 @@ export function getTags(style: string) {
   // console.log(cite_str);
 
   let bib = citeproc.makeBibliography();
-  let bib_str = bib[1][0];
+  let bib_str = bib[1].join("");
   // console.log(bib_str);
 
   let result = bib_str;
@@ -69,6 +97,7 @@ export function getTags(style: string) {
       ? "有URL"
       : "无URL",
     result.includes("10.1037/rev0000126") ? "有DOI" : "无DOI",
+    result.match(/Journal of Tsinghua University/i) ? "有英文翻译" : "无英文翻译",
   ];
 
   return { tags };

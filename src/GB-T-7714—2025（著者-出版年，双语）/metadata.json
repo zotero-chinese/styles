@@ -1,0 +1,30 @@
+{
+  "dir": "GB-T-7714—2025（著者-出版年，双语）",
+  "file": "GB-T-7714—2025（著者-出版年，双语）.csl",
+  "style_class": "in-text",
+  "title": "GB/T 7714—2025（著者-出版年，双语）",
+  "id": "https://zotero-chinese.com/styles/GB-T-7714—2025（著者-出版年，双语）",
+  "link_self": "https://zotero-chinese.com/styles/GB-T-7714—2025（著者-出版年，双语）",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语）",
+  "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=4507EFE13D37CB6AE06397BE0A0A601F",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）",
+  "updated": "2026-01-02T17:29:11+08:00",
+  "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特等，2010）<br>\n（Jenkins et al.，2012）<br>\n（肖玲等，2024）<br>\n（于潇等，2012）<br>\n（Veen et al.，2014）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">汪学军，2005. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社：22-25.</div>\n  <div class=\"csl-entry\">肖玲，张雪，王永，2024. 数据要素的统计测算方法探究[PP/OL]. PSSXiv（2024-07-02）[2024-09-30]. <a href=\"https://zsyyb.cn/abs/202408.01096\">https://zsyyb.cn/abs/202408.01096</a>. CSTR:32012.36.PSSXiv.202408.01096.</div>\n  <div class=\"csl-entry\">扬奎斯特，萨金特，2010. 递归宏观经济理论[M]. 杨斌，王忠玉，陈彦斌，等，译. 2 版. 北京：中国人民大学出版社：798.</div>\n  <div class=\"csl-entry\">于潇，刘义，柴跃廷，等，2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版），52（11）：1518-1523.</div>\n  <div class=\"csl-entry\">Jenkins S D，Ruostekoski J，2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[PP/OL]. V2. arXiv（2012-03-18）[2020-06-24]. <a href=\"https://doi.org/10.48550/arXiv.1112.6136\">https://doi.org/10.48550/arXiv.1112.6136</a>.</div>\n  <div class=\"csl-entry\">Praetzellis A，2011. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.：13. <a href=\"http://lib.myilibrary.com/Open.aspx?id=293666\">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>\n  <div class=\"csl-entry\">Veen P H van der，Muller M，Vincken K L，et al.，2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences，337（1/2）：112-118. <a href=\"https://pubmed.ncbi.nlm.nih.gov/24314719/\">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href=\"https://doi.org/10.1016/j.jns.2013.11.029\">10.1016/j.jns.2013.11.029</a>.</div>\n  <div class=\"csl-entry\">Wang S，2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)：2. <a href=\"https://ieeexplore.ieee.org/document/10137867\">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href=\"https://doi.org/10.1109/ACAIT56212.2022.10137867\">10.1109/ACAIT56212.2022.10137867</a>.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "有URL",
+    "有DOI",
+    "无英文翻译"
+  ]
+}

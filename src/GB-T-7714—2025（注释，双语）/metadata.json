@@ -1,0 +1,30 @@
+{
+  "dir": "GB-T-7714—2025（注释，双语）",
+  "file": "GB-T-7714—2025（注释，双语）.csl",
+  "style_class": "note",
+  "title": "GB/T 7714—2025（注释，双语）",
+  "id": "https://zotero-chinese.com/styles/GB-T-7714—2025（注释，双语）",
+  "link_self": "https://zotero-chinese.com/styles/GB-T-7714—2025（注释，双语）",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语）",
+  "link_documentation": "https://std.samr.gov.cn/gb/search/gbDetailed?id=4507EFE13D37CB6AE06397BE0A0A601F",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "generic-base",
+  "summary": "GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）",
+  "updated": "2026-01-02T17:29:11+08:00",
+  "citations": "<sup>1</sup> 扬奎斯特，萨金特. 递归宏观经济理论[M]. 杨斌，王忠玉，陈彦斌，严高剑，译. 2 版. 北京：中国人民大学出版社，2010：798.<br>\n<sup>2</sup> Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.，2011：13. <a href=\"http://lib.myilibrary.com/Open.aspx?id=293666\">http://lib.myilibrary.com/Open.aspx?id=293666</a>.<br>\n<sup>3</sup> 于潇，刘义，柴跃廷，孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版），2012，52（11）：1518-1523.<br>\n<sup>4</sup> Veen P H van der，Muller M，Vincken K L，Witkamp T D，Mali W P T M，van der Graaf Y，Geerlings M I，SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences，2014，337（1/2）：112-118. <a href=\"https://pubmed.ncbi.nlm.nih.gov/24314719/\">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href=\"https://doi.org/10.1016/j.jns.2013.11.029\">10.1016/j.jns.2013.11.029</a>.<br>\n<sup>5</sup> 汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社，2005：22-25.<br>\n<sup>6</sup> Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)，2022：2. <a href=\"https://ieeexplore.ieee.org/document/10137867\">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href=\"https://doi.org/10.1109/ACAIT56212.2022.10137867\">10.1109/ACAIT56212.2022.10137867</a>.<br>\n<sup>7</sup> 同6.<br>\n<sup>8</sup> 同2：326-329.<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">扬奎斯特，萨金特. 递归宏观经济理论[M]. 杨斌，王忠玉，陈彦斌，等，译. 2 版. 北京：中国人民大学出版社，2010：798.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.，2011：13. <a href=\"http://lib.myilibrary.com/Open.aspx?id=293666\">http://lib.myilibrary.com/Open.aspx?id=293666</a>.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">于潇，刘义，柴跃廷，等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版），2012，52（11）：1518-1523.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Veen P H van der，Muller M，Vincken K L，et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences，2014，337（1/2）：112-118. <a href=\"https://pubmed.ncbi.nlm.nih.gov/24314719/\">https://pubmed.ncbi.nlm.nih.gov/24314719/</a>. DOI:<a href=\"https://doi.org/10.1016/j.jns.2013.11.029\">10.1016/j.jns.2013.11.029</a>.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社，2005：22-25.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)，2022：2. <a href=\"https://ieeexplore.ieee.org/document/10137867\">https://ieeexplore.ieee.org/document/10137867</a>. DOI:<a href=\"https://doi.org/10.1109/ACAIT56212.2022.10137867\">10.1109/ACAIT56212.2022.10137867</a>.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "有URL",
+    "有DOI",
+    "无英文翻译"
+  ]
+}

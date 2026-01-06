@@ -14,28 +14,28 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">库恩. . 金吾伦等, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特等. . 杨斌等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798: 813.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan et al. . 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Praetzellis. . Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">贾东琴等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇等. 清华大学学报（自然科学版）, 2012, 52(11): 1518–1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Fourney. //Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Veen et al. Journal of the Neurological Sciences, 2014, 337(1/2): 112–118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">武丽丽等. 测绘科学, 2008, 33(5): 8–9.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. . 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Myburg et al. Nature, 2014, 510: 356–362.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Wang. . .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">中国互联网络信息中心. . (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲等. . PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden. . (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Jenkins et al. . arXiv, 2012(2012-03-18).</div>
   </div>
 </div>
 
@@ -51,394 +51,433 @@
 <sup>[1-3]</sup><br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">陈登原. . 北京: 中华书局, 2000: 29.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">张伯伟. . 南京: 江苏古籍出版社, 2002: 288.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">哈里森·沃尔德伦. . 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235–236.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">曹凌. . 上海: 上海古籍出版社, 2011: 19.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">北京市政协民族和宗教委员会等. . 北京: 民族出版社, 2012: 112.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">陈登原. . 北京: 中华书局, 2000: 29.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 北京: 中国标准出版社, 2010: 2–3.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">王夫之. . 刻本 版. 金陵: 湘乡曾国荃, 1865.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">徐光宪等. . 北京: 科学出版社, 2010.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">顾炎武. . 北京: 北京古籍出版社, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">顾炎武. . 北京: 北京古籍出版社, 1982.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">钱学森. . 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">王夫之. . 刻本 版. 金陵: 湘乡曾国荃, 1865.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. . 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">佚名. . 牛志明等, 编. 北京: 海洋出版社, 2012.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">佚名. . 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">中国第一历史档案馆等. . 桂林: 广西师范大学出版社, 20012001.</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣等. . 3 版. 北京: 高等教育出版社, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">杨保军. . 北京: 中国人民大学出版社, 2012.</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">哈里森等. . 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235–236.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵学功. . 北京: 社会科学文献出版社, 2001.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">佚名. . 牛永敢等, 编. 北京: 人民卫生出版社, 2019: 65–66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室. . 上海: 同济大学出版社, 2011: 5–6.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">扬奎斯特等. . 杨斌等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798: 813.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">中国造纸学会. . 北京: 中国轻工业出版社, 2003.</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">云南省企业联合会等. . 芒市: 德宏民族出版社, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Peebles. . 4 edition. New York: McGraw-Hill, 2001.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">赵学功. . 北京: 社会科学文献出版社, 2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Anonymous. . Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">中国造纸学会. . 北京: 中国轻工业出版社, 2003.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Baldock. . Rotterdam: Open University Press, 2011: 105.</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">博伯尔. . 徐超, 译. 北京: 清华大学出版社, 2023: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Fan et al. . 2 edition. Ames, Iowa: Blackwell Publishing, 2013: 25–26.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. . 図書館用語辞典編集委員会, 编. 東京: 柏書房株式会社, 2004: 154.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">佚名. . 王夫之, 编//船山全书. 长沙: 岳麓书社, 2011: 1109.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Peebles. . 4 edition. New York: McGraw-Hill, 2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">程根伟. . 许厚泽等, 编//长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32–36.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Anonymous. . Sadock B J et al., eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">陈晋镳等. . 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Institute For Art And Architecture et al. . Zürich: Park Books, 2023: 78.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">马克思. . 马克思等, 编//马克思恩格斯全集. 北京: 人民出版社, 2013: 302.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Kinchy. . Cambridge, Mass.: MIT Press, 2012: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">贾东琴等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Praetzellis. . Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Weinstein et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457–472.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Anonymous. . Torres L et al., eds.. Singapore: Springer Nature, 2021: 97.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Roberson et al. . American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Boobier. . Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">中华医学会湖北分会. . 武汉: 中华医学会湖北分会, 19841984.</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">Anonymous. . Deverell W et al., eds.. New York: John Wiley &#38; Sons, 2013: 21–22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">中国图书馆学会. . 北京: 北京图书馆, 19571957.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">阿扬. . 《环球科学》杂志社, 编. 姜海伦, 译//认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社, 2023: 15–18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">American Association for the Advancement of Science. . Washington, D.C.: American Association for the Advancement of Science, 18831883.</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">佚名. . 王夫之, 编//船山全书. 修订版 版. 长沙: 岳麓书社, 2011: 983–1029.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">袁训来等. 科学通报, 2012, 57(34): 3219.</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">程根伟. . 许厚泽等, 编//长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32–36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">余建斌. 人民日报, 2013: 2.</div>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">李约瑟. //苏克福等. 苏颂与《本草图经》研究. 长春: 长春出版社, 1991: 扉页.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">李炳穆. 图书情报工作, 2008, 52(6): 6–12.</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">陈晋镳等. . 中国地质科学院天津地质矿产研究所, 编//中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56–114.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">李幼平等. 中华移植杂志（电子版）, 2010, 4(3): 225–228.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">马克思. //马克思等. 马克思恩格斯全集. 2 版. 北京: 人民出版社, 2013: 302.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">武丽丽等. 测绘科学, 2008, 33(5): 8–9.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">佚名. . 国家药典委员会, 编//中华人民共和国药典. 2020版 版. 北京: 中国医药科技出版社, 2020: 24–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Kanamori. Science, 1998, 279(5359): 2063.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">楼梦麟等. . 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社, 2011: 11–12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Caplan. The Public-Access Computer Systems Review, 1993, 4(2): 61–66.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Weinstein et al. . Sodeman W A Jr et al., eds.//Pathologic physiology: mechanisms of disease. 5 edition. Philadelphia: Saunders, 1974: 457–472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Frese et al. Biology, 2013, 2(1): 378–398.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson et al. . American Water Works Association, ed.//Water quality &#38; treatment: a handbook on drinking water. 6 edition. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Myburg et al. Nature, 2014, 510: 356–362.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. . 武汉: 中华医学会湖北分会, 19841984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">邓一刚. . 2006-12-13.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名. . 北京: 北京图书馆, 1957–[1990]1957–1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">西安电子科技大学. . 2002-03-06.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Anonymous. . Washington, D.C.: American Association for the Advancement of Science, 18831883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Tachibana et al. . 2005-07-05.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anonymous. . Philadelphia: Taylor &#38; Francis, 19791979.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">中国互联网络信息中心. . (2012-01-16) . [2013-03-26]. <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680</a>.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">杨洪升. 文献, 2013(1): 56–75.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">北京市人民政府办公厅. (2005-07-12).</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">丁文详. 中国青年报, 2000: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Bawden. . (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">于潇等. 清华大学学报（自然科学版）, 2012, 52(11): 1518–1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">Online Computer Library Center, Inc. . [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">久保智康. 东方博物, 2009(1): 85–92.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Hopkinson. . (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">陈建军. 国土资源导刊, 2010, 7(10): 93.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Anonymous. British Medical Journal, 1981, 283(6292): 628.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">陈缮真. 人民日报, 2022: 17.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">刘乃安. . 合肥: 中国科学技术大学, 2000: 17–18.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">李幼平等. 中华移植杂志（电子版）, 2010, 4(3): 225–228.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Anonymous. . Deverell W et al., eds.. New York: John Wiley &#38; Sons, 2013: 21–22.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">张群等. 铁道学报, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Baker et al. . New York: The Haworth Press, 1995.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">张群等. 铁道学报, 2024, 46(8): 102–111.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Chernik. . Littleton, Colo.: Libraries Unlimited, Inc., 1982.</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">徐建委. 北京大学学报（哲学社会科学版）, 2025, 62(2): 117–127.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">尼葛洛庞帝. . 胡泳等, 译. 海口: 海南出版社, 1996.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">王利平等. 航空学报, 2024, 45(增刊1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">汪冰. . 北京: 北京图书馆出版社, 1997: 16.</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Caplan. The Public-Access Computer Systems Review, 1993, 4(2): 61–66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">杨宗英. 中国图书馆学报, 1996(2): 24–29.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">Saito et al. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169–176.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Dowler. Journal of Library Administration, 1995, 21(1/2): 5–26.</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Des Marais et al. Nature, 1992, 359: 605–609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Sunstein. Columbia Law Review, 1996, 96: 903.</div>
+    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">Park et al. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Morris. . New York: Farrar, Straus and Giroux, 2010.</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">Frese et al. Biology, 2013, 2(1): 378–398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">罗杰斯. . 潘惠霞等, 译. 大连: 东北财经大学出版社, 2011: 15–16.</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">Myburg et al. Nature, 2014, 510: 356–362.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">陈登原. . 北京: 中华书局, 2000: 29.</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">Santer et al. Insect science, 2025.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Crane. . Chicago: Univ. of Chicago Press, 1972.</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">Shinotsuka et al. Journal of electron spectroscopy and related phenomena, 2023, 267.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Stieg. College &#38; Research Libraries, 1981, 42(6): 549–560.</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Veen et al. Journal of the Neurological Sciences, 2014, 337(1/2): 112–118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">王临惠等. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">李妍等. . .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">王临惠. . 曹志耘, 编//汉语方言的地理语言学研究. 北京: 商务印书馆, 2010: 138.</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">佚名. . 牛志明等, 编. 北京: 海洋出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">Kennedy et al. Sedimentology, 1975, 22: 311.</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">佚名. . 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Kennedy et al. Lethaia, 1975, 8(4): 339–360.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">肖希明等. //纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系, 2024: 134–147.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">张忠智. . 中国科学技术期刊编辑学会, 编//中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33–34.</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">汪学军. . 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">中国社会科学院语言研究所词典编辑室. . 修订本 版. 北京: 商务印书馆, 1996.</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">贾东琴等. . 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45–52.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">刘彻东. 中国出版, 1998(5): 38–39.</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">佚名. . 陈志勇, 编. 北京: 经济科学出版社, 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">裴丽生. . 中国科学技术协会, 编//中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2–10.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang. . .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">张伯伟. . 南京: 江苏古籍出版社, 2002: 288.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu et al. . .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">皮锡瑞. . 北京: 国家图书馆, 2009: 155.</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Anonymous. . Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">胡承正等. . 武汉: 武汉大学出版社, 2010: 112.</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Anonymous. . Babu B V et al., eds.. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">美国妇产科医师学会. . 段涛等, 译. 北京: 人民卫生出版社, 2010: 38–39.</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Fourney. . Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17–38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">佚名. . 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">王琦. . 武汉: 武汉大学, 2022: 87.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">汪昂. . 刻本 版. 京都: 老二酉堂, 1881.</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">金燕萍. . 温州: 温州大学, 2020: 16.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">蒋有绪等. . 北京: 科学出版社, 1998.</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">何筱梅. . 武汉: 武汉大学, 2016: 24–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">中国企业投资协会等. . 北京: 九州出版社, 2013.</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">井丽南. . 北京: 中国科学院大学, 2022: 43.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">罗斯基. . 唐巧天等, 译. 杭州: 浙江大学出版社, 2009.</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">Cairns. . Berkeley: University of California, 1965: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">库恩. . 金吾伦等, 译. 2 版. 北京: 北京大学出版社, 2012.</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">Christou. . Ohio: Wright State University, 2024: 18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">侯文顺. . 北京: 化学工业出版社, 2010: 119.</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">中国互联网络信息中心. . (2012-01-16) . [2013-03-26]. <a href="https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf">https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">Crawford et al. . Chicago: American Library Association, 1995.</div>
+    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">汤万金等. . (2013-09-30) . [2014-06-24]. <a href="http://www.nstrs.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.cn/xiangxiBG.aspx?id=41707</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">International Federation of Library Association and Institutions. . 3 edition. London: IFLA International Office for UBC, 1977.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">中国信息通信研究院等. . (2023-12-28) . [2025-02-28]. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">O’Brien. . 7 edition. Burr Ridge, IL: Irwin, 1994.</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Calkin et al. . (2011) . <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">Kinchy. . Cambridge, Mass.: MIT Press, 2012: 50.</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. . (1990) .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">Praetzellis. . Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. .[2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名. . 中国职工教育研究会, 编. 北京: 人民教育出版社, 1985.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">佚名. . 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社, 2012.</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">全国信息技术标准化技术委员会. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">佚名. . 雷光春, 编. 北京: 海洋出版社, 2012.</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">工业和信息化部. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名. . 陈志勇, 编. 北京: 经济科学出版社, 2011.</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">国家能源局. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Anonymous. . Babu B V et al., eds.. New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">ISO. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室. . (2013-04-16) . [2014-06-11]. <a href="http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm">http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm</a>.</div>
+    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC). New York: IEEE, 2021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">汤万金等. . (2013-09-30) . [2014-06-24]. <a href="http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707</a>.</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">Anonymous. New York: IEEE, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Calkin et al. . (2011) .</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. . (1990) .</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Anonymous. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">World Health Organization. . (1970) .</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">佚名. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">马欢. . 北京: 清华大学, 2011: 27.</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚. . 2008-01-16.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">吴云芳. . 北京: 北京大学, 2003.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">张凯军等. . 2013-03-27.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Cairns. . Berkeley: Univ. of California, 1965.</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">李华等. . 2023-01-03.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">张凯军. . 2012-04-05.</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">石顺祥等. . 2002-03-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">河北绿洲生态环境科技有限公司. . 2001-10-24.</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">冀超. . 2001-10-24.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Koseki et al. . 2002-05-25.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">史国华等. . 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 北京: 中国标准出版社, 2010: 3.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Tachibana et al. . 2001-06-28.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">全国广播电视标准化技术委员会. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Tristram et al. . 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">国家环境保护局科技标准司. 北京: 中国标准出版社, 1996: 2–3.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">中国科学院文献情报中心. . [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">Anonymous. .</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆. . (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">佚名. //苏魏公文集. 北京: 中华书局, 1988: 590.</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">佚名. (2022-10-26).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">白书农. . 李承森, 编//植物科学进展. 北京: 高等教育出版社, 1998: 146–163.</div>
+    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">高等教育文献保障系统. . [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">汪学军. . 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22–25.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超. . (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">国家标准局信息分类编码研究所. . 全国文献工作标准化委员会, 编. 文献工作国家标准汇编：3, 1988: 59–92北京: 中国标准出版社, 1988: 59–92.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">佚名. (2023-03-06).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">佚名. //宋史. 北京: 中华书局, 1977: 49.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航. . (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">楼梦鳞等. . 同济大学土木工程防灾国家重点实验室, 编//汶川地震震害研究. 上海: 同济大学出版社, 2011: 011–012.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">佚名. . (2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Buseck et al. //Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117–211.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Anonymous. . [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Fourney. //Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17–38.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">International Organization for Standardization. . [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">杨洪升. 文献, 2013(1): 56–75.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">António等. . (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">李炳穆. 图书情报工作, 2008, 52(6): 6–21.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Bevington et al. . (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">于潇等. 清华大学学报（自然科学版）, 2012, 52(11): 1518–1523.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Zotero. . [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">陈建军. 国土资源导刊, 2010, 7(10): 93.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">李鸿章. 1887.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Des Marais et al. Nature, 1992, 359(6396): 605–609.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">湖北省建设厅. (1931-11-07).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Saito et al. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169–176.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Walls et al. Biology, 2013, 2(1): 399–418.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Fitzwilliam. (1570-07-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Franz et al. ACS Chemical Biology, 2013, 8: 1053–1062.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">胡健民. . 北京: 科学出版社, 20212021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Park et al. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696–715.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">刘祥沈. . 武汉: 武汉大学出版社, 20162016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">丁文详. 中国青年报, 2000: 15.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">中工武大设计研究有限公司. . 武汉: 武汉大学出版社, 20192019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张田勘. 大众科技报, 2000: 7.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">吴自银等. . 北京: 科学出版社, 20192019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">傅刚等. 北京青年报, 2000.</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">刘裕国等. 人民日报, 2013.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">訾冬梅等. . 北京: 中国地图出版社, 20062006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">萧钰. . (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">谭其骧. . 北京: 地图出版社, 1982: 61982.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">李强. . (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">童世亨. . 上海: 商务印书馆, 19261926.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. . [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Cribb. . Abingdon: Routledge, 20152015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. . (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. . Beijing: China Ocean Press, 2024: 502024.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋. . 西北农林科技大学水土保持研究所, 2024(2024-07-19).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银等. . 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 20122012.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮等. . 国家基础学科公共科学数据中心, 2023(2023-09-10).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵等. . Science Data Bank, 20182018.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. . 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民等. . 北京大学开放研究数据平台, 2025(2025-06-11).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman et al. . UK Data Service, 19801980.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong et al. . Global Change Research Data Publishing &#38; Repository, 20222022.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. . Global Health Data Exchange, 20212021.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明等. . ChinaXiv, 2023(2023-03-03).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲等. . PSSXiv, 2024(2024-07-02).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss et al. . bioRxiv, 2015(2015-10-28).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins et al. . arXiv, 2012(2012-03-18).</div>
   </div>
 </div>
 
@@ -1215,7 +1254,7 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">American Psychological Association. . (2017) . <a href="https://www.apa.org/ethics/code/index.aspx">https://www.apa.org/ethics/code/index.aspx</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair. . (2015/[2020]) . <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">Blair. . (2015/2020) . <a href="https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311">https://projectreporter.nih.gov/project_info_details.cfm?aid=9473071&#38;icde=40092311</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Lichtenstein. . (2013) . <a href="https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf">https://www.sba.org/sites/default/files/Issue%20Brief%201,%20Veteran%20Business%20Owners.pdf</a>.</div>

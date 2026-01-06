@@ -14,7 +14,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>农学院学位论文参考文献统一按照“Journal of Integrative Plant Biology, JIPB”格式编排</summary>
-    <updated>2025-04-19T15:30:01+08:00</updated>
+    <updated>2025-12-30T20:21:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -231,10 +231,16 @@
   <macro name="issued-year">
     <choose>
       <if variable="issued">
-        <date variable="issued" date-parts="year" form="numeric"/>
+        <group delimiter="">
+          <date variable="issued" date-parts="year" form="numeric"/>
+          <text variable="year-suffix"/>
+        </group>
       </if>
       <else>
-        <text term="no date" prefix="[" suffix="]"/>
+        <group delimiter="">
+          <text term="no date" prefix="[" suffix="]"/>
+          <text variable="year-suffix"/>
+        </group>
       </else>
     </choose>
   </macro>
@@ -359,7 +365,7 @@
       <text variable="DOI" prefix="DOI:"/>
     </group> -->
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="false" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="author-intext"/>
       <key macro="issued-year"/>
@@ -387,7 +393,7 @@
   </citation>
   <bibliography entry-spacing="0" hanging-indent="true">
     <sort>
-      <key macro="author-intext"/>
+      <key macro="author"/>
       <key macro="issued-year"/>
     </sort>
     <layout locale="en">

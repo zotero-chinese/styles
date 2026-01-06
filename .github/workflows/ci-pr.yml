@@ -11,20 +11,7 @@ permissions:
 jobs:
   autofix:
     name: 自动修复格式和预览
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          submodules: recursive
-      - uses: pnpm/action-setup@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: pnpm
-      - run: pnpm install
-
-      - run: pnpm build
-      # - run: pnpm format
-
-      - uses: autofix-ci/action@main
+    uses: zotero-plugin-dev/workflows/.github/workflows/autofix.yml@main
+    with:
+      fetch-all: true
+      command: pnpm build

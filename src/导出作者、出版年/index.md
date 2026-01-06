@@ -8,26 +8,27 @@
 
 ### 引注
 
-(库恩, 2012)<br>
-(Fourney, c1971)<br>
-(贾东琴 等, 2011)<br>
-(Fan et al., 2013)<br>
-(武丽丽 等, 2008)<br>
-(Myburg et al., 2014)<br>
-(中国互联网络信息中心, 2012; Bawden, 2008)<br>
+(汪学军, 2005)<br>
+(Wang, 2022)<br>
+(扬奎斯特 等, 2010)<br>
+(Jenkins et al., 2012)<br>
+(肖玲 等, 2024)<br>
+(Praetzellis, 2011)<br>
+(于潇 等, 2012)<br>
+(Veen et al., 2014)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">贾东琴等, 2011.</div>
-  <div class="csl-entry">库恩, 2012.</div>
-  <div class="csl-entry">武丽丽等, 2008.</div>
-  <div class="csl-entry">中国互联网络信息中心, 2012.</div>
-  <div class="csl-entry">Bawden, 2008.</div>
-  <div class="csl-entry">Fan <i>et al.</i>, 2013.</div>
-  <div class="csl-entry">Fourney, c1971.</div>
-  <div class="csl-entry">Myburg <i>et al.</i>, 2014.</div>
+  <div class="csl-entry">汪学军, 2005.</div>
+  <div class="csl-entry">肖玲等, 2024.</div>
+  <div class="csl-entry">扬奎斯特等, 2010.</div>
+  <div class="csl-entry">于潇等, 2012.</div>
+  <div class="csl-entry">Jenkins <i>et al.</i>, 2012.</div>
+  <div class="csl-entry">Praetzellis, 2011.</div>
+  <div class="csl-entry">Veen <i>et al.</i>, 2014.</div>
+  <div class="csl-entry">Wang, 2022.</div>
 </div>
 
 ## 默认测试
@@ -61,139 +62,152 @@ Qian et al. (2009b)<br>
 (Bai, 2002; Chen, 2006; Deng et al., 2005)<br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">白书农, 1998.</div>
-  <div class="csl-entry">北京市人民政府办公厅, 2005.</div>
-  <div class="csl-entry">北京市政协民族和宗教委员会等, 2012.</div>
-  <div class="csl-entry">陈登原, 2000a.</div>
-  <div class="csl-entry">陈登原, 2000b.</div>
+  <div class="csl-entry">阿扬, 2023.</div>
+  <div class="csl-entry">北京鲁迅博物馆, 2021.</div>
+  <div class="csl-entry">博伯尔, 2023.</div>
+  <div class="csl-entry">曹凌, 2011.</div>
+  <div class="csl-entry">陈登原, 2000.</div>
   <div class="csl-entry">陈建军, 2010.</div>
   <div class="csl-entry">陈晋镳等, 1980.</div>
+  <div class="csl-entry">陈缮真, 2022.</div>
   <div class="csl-entry">陈志勇, 2011.</div>
   <div class="csl-entry">程根伟, 1999.</div>
-  <div class="csl-entry">邓一刚, 2006.</div>
+  <div class="csl-entry">邓一刚, 2008.</div>
   <div class="csl-entry">丁文详, 2000.</div>
-  <div class="csl-entry">傅刚等, 2000.</div>
-  <div class="csl-entry">顾炎武, 1982.</div>
-  <div class="csl-entry">国家标准局信息分类编码研究所, 1988.</div>
-  <div class="csl-entry">国家环境保护局科技标准司, 1996.</div>
-  <div class="csl-entry">哈里森·沃尔德伦, 2012.</div>
-  <div class="csl-entry">河北绿洲生态环境科技有限公司, 2001.</div>
-  <div class="csl-entry">侯文顺, 2010.</div>
-  <div class="csl-entry">胡承正等, 2010.</div>
+  <div class="csl-entry">方向明等, 2023.</div>
+  <div class="csl-entry">冯友兰, 2008.</div>
+  <div class="csl-entry">高等教育文献保障系统.</div>
+  <div class="csl-entry">工业和信息化部, 2022.</div>
+  <div class="csl-entry">顾炎武, 1980.</div>
+  <div class="csl-entry">国家测绘地理信息局.</div>
+  <div class="csl-entry">国家能源局, 2020.</div>
+  <div class="csl-entry">哈里森等, 2012.</div>
+  <div class="csl-entry">何筱梅, 2016.</div>
+  <div class="csl-entry">胡健民, 2021.</div>
+  <div class="csl-entry">湖北省建设厅, 1931.</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024.</div>
+  <div class="csl-entry">冀超, 2001.</div>
   <div class="csl-entry">贾东琴等, 2011.</div>
-  <div class="csl-entry">蒋有绪等, 1998.</div>
-  <div class="csl-entry">库恩, 2012.</div>
-  <div class="csl-entry">雷光春, 2012.</div>
-  <div class="csl-entry">李炳穆, 2008a.</div>
-  <div class="csl-entry">李炳穆, 2008b.</div>
-  <div class="csl-entry">李强, 2012.</div>
+  <div class="csl-entry">金燕萍, 2020.</div>
+  <div class="csl-entry">井丽南, 2022.</div>
+  <div class="csl-entry">久保智康, 2009.</div>
+  <div class="csl-entry">李鸿章, 1887.</div>
+  <div class="csl-entry">李华等, 2023.</div>
+  <div class="csl-entry">李妍等, 2022.</div>
   <div class="csl-entry">李幼平等, 2010.</div>
-  <div class="csl-entry">刘彻东, 1998.</div>
-  <div class="csl-entry">刘乃安, 2000.</div>
-  <div class="csl-entry">刘裕国等, 2013.</div>
-  <div class="csl-entry">楼梦鳞等, 2011.</div>
-  <div class="csl-entry">罗杰斯, 2011.</div>
-  <div class="csl-entry">罗斯基, 2009.</div>
-  <div class="csl-entry">马欢, 2011.</div>
+  <div class="csl-entry">李约瑟, 1991.</div>
+  <div class="csl-entry">刘时银等, 2012.</div>
+  <div class="csl-entry">刘祥沈, 2016.</div>
+  <div class="csl-entry">楼梦麟等, 2011.</div>
   <div class="csl-entry">马克思, 2013.</div>
-  <div class="csl-entry">美国妇产科医师学会, 2010.</div>
-  <div class="csl-entry">尼葛洛庞帝, 1996.</div>
+  <div class="csl-entry">牛永敢等, 2019.</div>
   <div class="csl-entry">牛志明等, 2012.</div>
-  <div class="csl-entry">裴丽生, 1981.</div>
-  <div class="csl-entry">皮锡瑞, 2009.</div>
-  <div class="csl-entry">全国广播电视标准化技术委员会, 2007.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2010a.</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会, 2010b.</div>
+  <div class="csl-entry">彭守璋, 2024.</div>
+  <div class="csl-entry">钱学森, 2001.</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会, 2016.</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会, 2021.</div>
+  <div class="csl-entry">石顺祥等, 2002.</div>
+  <div class="csl-entry">史国华等, 2022.</div>
+  <div class="csl-entry">谭其骧, 1982.</div>
   <div class="csl-entry">汤万金等, 2013.</div>
-  <div class="csl-entry">同济大学土木工程防灾国家重点实验室, 2011.</div>
-  <div class="csl-entry">汪昂, 1881.</div>
-  <div class="csl-entry">汪冰, 1997.</div>
-  <div class="csl-entry">汪学军, 2002.</div>
+  <div class="csl-entry">童世亨, 1926.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会, 2004.</div>
+  <div class="csl-entry">汪学军, 2005.</div>
   <div class="csl-entry">王夫之, 1865.</div>
-  <div class="csl-entry">王临惠等, 2010.</div>
-  <div class="csl-entry">王临惠, 2010.</div>
-  <div class="csl-entry">吴云芳, 2003.</div>
-  <div class="csl-entry">武丽丽等, 2008.</div>
-  <div class="csl-entry">西安电子科技大学, 2002.</div>
-  <div class="csl-entry">萧钰, 2001.</div>
-  <div class="csl-entry">徐光宪等, 2010.</div>
-  <div class="csl-entry">杨保军, 2012.</div>
+  <div class="csl-entry">王继民等, 2025.</div>
+  <div class="csl-entry">王利平等, 2024.</div>
+  <div class="csl-entry">王琦, 2022.</div>
+  <div class="csl-entry">吴自银等, 2019.</div>
+  <div class="csl-entry">肖玲等, 2024.</div>
+  <div class="csl-entry">肖希明等, 2024.</div>
+  <div class="csl-entry">徐建委, 2025.</div>
+  <div class="csl-entry">许振超, 2025.</div>
+  <div class="csl-entry">扬奎斯特等, 2010.</div>
   <div class="csl-entry">杨洪升, 2013.</div>
-  <div class="csl-entry">杨宗英, 1996.</div>
+  <div class="csl-entry">杨立华, 2022.</div>
+  <div class="csl-entry">佚名, 1949.</div>
   <div class="csl-entry">佚名, 1962.</div>
-  <div class="csl-entry">佚名, 1977.</div>
-  <div class="csl-entry">Anon, 1981.</div>
-  <div class="csl-entry">佚名, 1988.</div>
+  <div class="csl-entry">Anon, 1979.</div>
   <div class="csl-entry">佚名, 2011.</div>
-  <div class="csl-entry">Anon, 2012.</div>
+  <div class="csl-entry">佚名, 2020.</div>
+  <div class="csl-entry">Anon, 2020.</div>
+  <div class="csl-entry">佚名, 2023a.</div>
+  <div class="csl-entry">佚名, 2023b.</div>
+  <div class="csl-entry">Anon, 2024.</div>
+  <div class="csl-entry">Anon.</div>
+  <div class="csl-entry">佚名.</div>
   <div class="csl-entry">Anon.</div>
   <div class="csl-entry">于潇等, 2012.</div>
-  <div class="csl-entry">余建斌, 2013.</div>
-  <div class="csl-entry">袁训来等, 2012.</div>
+  <div class="csl-entry">云南省企业联合会等, 2009.</div>
+  <div class="csl-entry">战德臣等, 2019.</div>
   <div class="csl-entry">张伯伟, 2002.</div>
-  <div class="csl-entry">张凯军, 2012.</div>
-  <div class="csl-entry">张田勘, 2000.</div>
-  <div class="csl-entry">张忠智, 1997.</div>
+  <div class="csl-entry">张凯军等, 2013.</div>
+  <div class="csl-entry">张群等, 2024a.</div>
+  <div class="csl-entry">张群等, 2024b.</div>
+  <div class="csl-entry">仉尚航, 2024.</div>
   <div class="csl-entry">赵学功, 2001.</div>
-  <div class="csl-entry">中国第一历史档案馆等, 2001.</div>
+  <div class="csl-entry">郑涵等, 2018.</div>
+  <div class="csl-entry">中工武大设计研究有限公司, 2019.</div>
   <div class="csl-entry">中国互联网络信息中心, 2012.</div>
-  <div class="csl-entry">中国企业投资协会等, 2013.</div>
+  <div class="csl-entry">中国科学院文献情报中心.</div>
   <div class="csl-entry">中国社会科学院台湾史研究中心, 2012.</div>
-  <div class="csl-entry">中国社会科学院语言研究所词典编辑室, 1996.</div>
-  <div class="csl-entry">中国图书馆学会, 1957.</div>
+  <div class="csl-entry">中国图书馆学会, 1957-1990.</div>
+  <div class="csl-entry">中国信息通信研究院等, 2023.</div>
   <div class="csl-entry">中国造纸学会, 2003.</div>
-  <div class="csl-entry">中国职工教育研究会, 1985.</div>
-  <div class="csl-entry">中华人民共和国国务院新闻办公室, 2013.</div>
   <div class="csl-entry">中华医学会湖北分会, 1984.</div>
+  <div class="csl-entry">周壮等, 2023.</div>
+  <div class="csl-entry">訾冬梅等, 2006.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883.</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA).</div>
+  <div class="csl-entry">António M等, 2019.</div>
   <div class="csl-entry">Babu <i>et al.</i>, 2014.</div>
-  <div class="csl-entry">Baker <i>et al.</i>, 1995.</div>
-  <div class="csl-entry">Baldock, 2011.</div>
-  <div class="csl-entry">Bawden, 2008.</div>
-  <div class="csl-entry">Buseck <i>et al.</i>, c1980.</div>
+  <div class="csl-entry">Bevington <i>et al.</i>, 2025.</div>
+  <div class="csl-entry">Bloss <i>et al.</i>, 2015.</div>
+  <div class="csl-entry">Boobier, 2020.</div>
   <div class="csl-entry">Cairns, 1965.</div>
   <div class="csl-entry">Calkin <i>et al.</i>, 2011.</div>
   <div class="csl-entry">Caplan, 1993.</div>
-  <div class="csl-entry">Chernik, 1982.</div>
-  <div class="csl-entry">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office.</div>
-  <div class="csl-entry">Crane, 1972.</div>
-  <div class="csl-entry">Crawford <i>et al.</i>, 1995.</div>
+  <div class="csl-entry">Christou, 2024.</div>
+  <div class="csl-entry">Cribb, 2015.</div>
   <div class="csl-entry">Des Marais <i>et al.</i>, 1992.</div>
   <div class="csl-entry">Deverell <i>et al.</i>, 2013.</div>
-  <div class="csl-entry">Dowler, 1995.</div>
-  <div class="csl-entry">Fan <i>et al.</i>, 2013.</div>
-  <div class="csl-entry">Fourney, c1971.</div>
-  <div class="csl-entry">Franz <i>et al.</i>, 2013.</div>
+  <div class="csl-entry">Fitzwilliam, 1570.</div>
+  <div class="csl-entry">Fourney, 1971.</div>
   <div class="csl-entry">Frese <i>et al.</i>, 2013.</div>
-  <div class="csl-entry">Hopkinson, 2009.</div>
-  <div class="csl-entry">International Federation of Library Association and Institutions, 1977.</div>
-  <div class="csl-entry">Kanamori, 1998.</div>
-  <div class="csl-entry">Kennedy <i>et al.</i>, 1975a.</div>
-  <div class="csl-entry">Kennedy <i>et al.</i>, 1975b.</div>
+  <div class="csl-entry">IHME, 2021.</div>
+  <div class="csl-entry">Institute For Art And Architecture <i>et al.</i>, 2023.</div>
+  <div class="csl-entry">International Electrotechnical Commission (IEC), 2021.</div>
+  <div class="csl-entry">International Organization for Standardization.</div>
+  <div class="csl-entry">ISO, 2019.</div>
+  <div class="csl-entry">Jenkins <i>et al.</i>, 2012.</div>
   <div class="csl-entry">Kinchy, 2012.</div>
-  <div class="csl-entry">Koseki <i>et al.</i>, 2002.</div>
-  <div class="csl-entry">Morris, 2010.</div>
   <div class="csl-entry">Myburg <i>et al.</i>, 2014.</div>
-  <div class="csl-entry">O’Brien, 1994.</div>
-  <div class="csl-entry">Online Computer Library Center, Inc.</div>
   <div class="csl-entry">Park <i>et al.</i>, 2010.</div>
   <div class="csl-entry">Peebles, 2001.</div>
   <div class="csl-entry">Praetzellis, 2011.</div>
   <div class="csl-entry">Roberson <i>et al.</i>, 2011.</div>
+  <div class="csl-entry">Sadock <i>et al.</i>, 2009.</div>
   <div class="csl-entry">Saito <i>et al.</i>, 2006.</div>
-  <div class="csl-entry">Stieg, 1981.</div>
-  <div class="csl-entry">Sunstein, 1996.</div>
-  <div class="csl-entry">Tachibana <i>et al.</i>, 2005.</div>
+  <div class="csl-entry">Santer <i>et al.</i>, 2025.</div>
+  <div class="csl-entry">Shinotsuka <i>et al.</i>, 2023.</div>
+  <div class="csl-entry">Sugarman <i>et al.</i>, 1980.</div>
+  <div class="csl-entry">Tachibana <i>et al.</i>, 2001.</div>
+  <div class="csl-entry">Torres <i>et al.</i>, 2021.</div>
+  <div class="csl-entry">Tristram <i>et al.</i>, 2022.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990.</div>
-  <div class="csl-entry">Walls <i>et al.</i>, 2013.</div>
+  <div class="csl-entry">Veen <i>et al.</i>, 2014.</div>
+  <div class="csl-entry">Wang, 2022.</div>
   <div class="csl-entry">Weinstein <i>et al.</i>, 1974.</div>
-  <div class="csl-entry">World Health Organization, 1970.</div>
+  <div class="csl-entry">Yu <i>et al.</i>, 2024.</div>
   <div class="csl-entry">Yufin, 2000.</div>
+  <div class="csl-entry">Zhong <i>et al.</i>, 2022.</div>
+  <div class="csl-entry">Zotero.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

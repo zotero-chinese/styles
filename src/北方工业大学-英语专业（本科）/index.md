@@ -8,34 +8,34 @@
 
 ### 引注
 
-(Bawden, 2008; Fan and Sommers, 2013; Fourney, c1971; Myburg et al., 2014; 贾东琴和柯平, 2011; 库恩, 2012; 武丽丽等, 2008; 中国互联网络信息中心, 2012)
+(Jenkins and Ruostekoski, 2012; Praetzellis, 2011; Veen et al., 2014; Wang, 2022; 汪学军, 2005; 肖玲等, 2024; 扬奎斯特和萨金特, 2010; 于潇等, 2012)
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Bawden, D., 2008. Origins and Concepts of Digital Literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Jenkins, S. D. &#38; J. Ruostekoski, 2012. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[A]. arXiv.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Fan, X. &#38; C. H. Sommers, 2013. <i>Food Irradiation Research and Technology</i>[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Praetzellis, A., 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Fourney, M. E., c1971. Advances in Holographic Photoelasticity[C]. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>[C]. New York: ASME: 17-38.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, &#38; SMART-MR Study Group, 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study[J], <i>Journal of the Neurological Sciences</i>, 337(1/2): 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar &#38; J. Schmutz, 2014. The Genome of Eucalyptus Grandis[J], <i>Nature</i>, 510: 356-362.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Wang, S., 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[C]. In <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i>[C]. 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">贾东琴，柯平，2011．面向数字素养的高校图书馆数字服务体系研究[C]．中国图书馆学会．中国图书馆学会年会论文集：2011 年卷[C]．北京：国家图书馆出版社：45-52．</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军，2005．中国农业转基因生物研发进展与安全管理[C]．国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集[C]．北京：中国环境科学出版社：22-25．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">库恩，2012．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社．</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">肖玲，张雪，王永，2024．数据要素的统计测算方法探究[A]．PSSXiv．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，刘英敏，2008．“北斗一号”监控管理网设计与实现[J]．测绘科学，33(5)：8-9．</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">扬奎斯特，萨金特，2010．递归宏观经济理论[M]．杨斌，王忠玉，陈彦斌，严高剑，译．2 版．北京：中国人民大学出版社：798．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">中国互联网络信息中心，2012．第 29 次中国互联网络发展状况统计报告[R]．</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波，2012．互联网药品可信交易环境中主体资质审核备案模式[J]．清华大学学报（自然科学版），52(11)：1518-1523．</div>
   </div>
 </div>
 
@@ -43,402 +43,441 @@
 
 ### 引注
 
-(Sunstein, 1996)<br>
-(Morris, 2010: 260)<br>
-(罗杰斯, 2011: 326-329)<br>
-(Sunstein, 1996; 罗杰斯, 2011)<br>
-(Morris, 2010; Sunstein, 1996; 陈登原, 2000)<br>
-(Morris, 2010; Sunstein, 1996; 罗杰斯, 2011)<br>
+(张伯伟, 2002)<br>
+(曹凌, 2011: 260)<br>
+(陈登原, 2000: 326-329)<br>
+(陈登原, 2000; 张伯伟, 2002)<br>
+(曹凌, 2011; 王夫之, 1865; 张伯伟, 2002)<br>
+(曹凌, 2011; 陈登原, 2000; 张伯伟, 2002)<br>
 
 
-### GB/T 7714—2015 示例文献
+### GB/T 7714—2025 示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">American Association for the Advancement of Science, 1883. Science[J]. 1883, 1(1). Washington, D.C.: American Association for the Advancement of Science.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Sugarman, L. &#38; S. Markham, 1980. Students in a Selective High School: Some Vocationally Oriented Data[DS/OL]. UK Data Service. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Anon, 1981. Coffee Drinking and Cancer of the Pancreas[J], <i>British Medical Journal</i>, 283(6292): 628.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">American Association for the Advancement of Science (ed.), 1883. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anon, 2012. Dublin Core Metadata Element Set: Version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anon, [2013]. Information and Documentation—The Dublin Core Metadata Element Set: ISO 15836:2009[S].</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anon, 1979. Public Library Quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Babu, B. V., A. K. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray &#38; U. Gupta (eds.), 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>[M]. New Delhi: Springer.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anon, 2020. IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Baker, S. K. &#38; M. E. Jackson, 1995. <i>The Future of Resource Sharing</i>[M]. New York: The Haworth Press.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anon, [2020a]. Library of Congress[EB/OL]. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Baldock, P., 2011. <i>Developing Early Childhood Services: Past, Present and Future</i>[M]. Rotterdam: Open University Press: 105.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Anon, 2024. Coastal Wetlands Map of China Continent[CM]. Beijing: China Ocean Press: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden, D., 2008. Origins and Concepts of Digital Literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Anon. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Buseck, P. R., G. L. Nord Jr. &#38; D. R. Veblen, c1980. Subsolidus Phenomena in Pyroxenes[A]. In <i>Pyroxenes</i>[M]. Washington, D.C.: Mineralogical Society of America: 117-211.</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Babu, B. V., A. Nagar, K. Deep, M. Pant, J. C. Bansal, K. Ray &#38; U. Gupta (eds.), 2014. <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>[M]. New Delhi: Springer.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Cairns, B. R., 1965. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>[D]. Berkeley: Univ. of California.</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Bevington, D. &#38; J. R. Brown, 2025. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Calkin, D., A. Ager &#38; M. Thompson, 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. 8-9.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Bloss, C. S., N. E. Wineinger, M. Peters, D. L. Boeldt, L. Ariniello, J. Y. Kim, J. Sheard, R. Komatireddy, P. Barrett &#38; E. J. Topol, 2015. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors[A]. bioRxiv.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Caplan, P., 1993. Cataloging Internet Resources[J], <i>The Public-Access Computer Systems Review</i>, 4(2): 61-66.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Boobier, T., 2020. <i>AI and the Future of Banking</i>[M]. Chichester: John Wiley &#38; Sons: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Chernik, B. E., 1982. <i>Introduction to Library Services for Library Technicians</i>[M]. Littleton, Colo.: Libraries Unlimited, Inc.</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Cairns, B. R., 1965. <i>Infrared Spectroscopic Studies on Solid Oxygen</i>[D]. Berkeley: University of California: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office, [2013]. Pennsylvania Library Laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Calkin, D. E., A. A. Ager &#38; M. P. Thompson, 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262[R]. 8-9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Crane, D., 1972. <i>Invisible College</i>[M]. Chicago: Univ. of Chicago Press.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Caplan, P., 1993. Cataloging Internet Resources[J], <i>The Public-Access Computer Systems Review</i>, 4(2): 61-66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Crawford, W. &#38; M. Gorman, 1995. <i>Future Libraries: Dreams, Madness, &#38; Reality</i>[M]. Chicago: American Library Association.</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Christou, A., 2024. <i>Improving Knowledge Graph Understanding with Contextual Views</i>[D]. Ohio: Wright State University: 18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Des Marais, D. J., H. Strauss, R. E. Summons &#38; J. M. Hayes, 1992. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J], <i>Nature</i>, 359(6396): 605-609.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Cribb, R., 2015. Historical Atlas of Indonesia[CM]. Abingdon: Routledge.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Deverell, W. &#38; D. Igler (eds.), 2013. <i>A Companion to California History</i>[M]. New York: John Wiley &#38; Sons: 21-22.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Des Marais, D. J., H. Strauss, R. E. Summons &#38; J. M. Hayes, 1992. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment[J], <i>Nature</i>, 359: 605-609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Dowler, L., 1995. The Research University’s Dilemma: Resource Sharing and Research in a Transinstitutional Environment[J], <i>Journal of Library Administration</i>, 21(1/2): 5-26.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Deverell, W. &#38; D. Igler (eds.), 2013. <i>A Companion to California History</i>[M]. New York: John Wiley &#38; Sons: 21-22.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Fan, X. &#38; C. H. Sommers, 2013. <i>Food Irradiation Research and Technology</i>[M]. 2nd ed. Ames, Iowa: Blackwell Publishing: 25-26.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Fitzwilliam, H., 1570. [Letter to Bess of Hardwick][A].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Fourney, M. E., c1971. Advances in Holographic Photoelasticity[C]. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>[C]. New York: ASME: 17-38.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Fourney, M. E., 1971. Advances in Holographic Photoelasticity[C]. In W. G. Gottenberg (ed.). <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>[C]. New York: ASME: 17-38.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Franz, A. K., M. A. Danielewicz, D. M. Wong, L. A. Anderson &#38; J. R. Boothe, 2013. Phenotypic Screening with Oleaginous Microalgae Reveals Modulators of Lipid Productivity[J], <i>ACS Chemical Biology</i>, 8: 1053-1062.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Frese, K. S., H. A. Katus &#38; B. Meder, 2013. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J], <i>Biology</i>, 2(1): 378-398.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Frese, K. S., H. A. Katus &#38; B. Meder, 2013. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine[J], <i>Biology</i>, 2(1): 378-398.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">IHME, 2021. Global Burden of Disease Study 2019 (GBD2019) Data Resources[DS/OL]. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Hopkinson, A., 2009. UNIMARC and Metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.</div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Institute For Art And Architecture &#38; Academy Of Fine Arts Vienna, 2023. <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>[M]. Zürich: Park Books: 78.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">International Federation of Library Association and Institutions, 1977. <i>Names of Persons: National Usages for Entry in Catalogues</i>[M]. 3rd ed. London: IFLA International Office for UBC.</div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">International Electrotechnical Commission (IEC), 2021. Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">Kanamori, H., 1998. Shaking without Quaking[J], <i>Science</i>, 279(5359): 2063.</div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">International Organization for Standardization, [2020]. ISO Homepage[EB/OL]. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">Kennedy, W. J. &#38; R. E. Garrison, 1975a. Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England[J], <i>Sedimentology</i>, 22: 311.</div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">ISO, 2019. Audit Data Collection: ISO 21378:2019[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">Kennedy, W. J. &#38; R. E. Garrison, 1975b. Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England[J], <i>Lethaia</i>, 8(4): 339-360.</div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">Jenkins, S. D. &#38; J. Ruostekoski, 2012. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[A]. arXiv.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[29]</div><div class="csl-right-inline">Kinchy, A., 2012. <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>[M]. Cambridge, Mass.: MIT Press: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">Koseki, A., H. Momose, M. Kawahito &#38; H. Komatsu, 2002. Compiler: US828402[P]. 2002-05-25.</div>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar &#38; J. Schmutz, 2014. The Genome of <i>Eucalyptus Grandis</i>[J], <i>Nature</i>, 510: 356-362.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Morris, I., 2010. <i>Why the West Rules—for Now: The Patterns of History, and What They Reveal about the Future</i>[M]. New York: Farrar, Straus and Giroux.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Park, J. R. &#38; Y. Tosaka, 2010. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J], <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Myburg, A. A., D. Grattapaglia, G. A. Tuskan, U. Hellsten, R. D. Hayes, J. Grimwood, J. Jenkins, E. Lindquist, H. Tice, D. Bauer, D. M. Goodstein, I. Dubchak, A. Poliakov, E. Mizrachi, A. R. K. Kullan, S. G. Hussey, D. Pinard, K. van der Merwe, P. Singh, I. van Jaarsveld, O. B. Silva-Junior, R. C. Togawa, M. R. Pappas, D. A. Faria, C. P. Sansaloni, C. D. Petroli, X. Yang, P. Ranjan, T. J. Tschaplinski, C. Y. Ye, T. Li, L. Sterck, K. Vanneste, F. Murat, M. Soler, H. S. Clemente, N. Saidi, H. Cassan-Wang, C. Dunand, C. A. Hefer, E. Bornberg-Bauer, A. R. Kersting, K. Vining, V. Amarasinghe, M. Ranik, S. Naithani, J. Elser, A. E. Boyd, A. Liston, J. W. Spatafora, P. Dharmwardhana, R. Raja, C. Sullivan, E. Romanel, M. Alves-Ferreira, C. Külheim, W. Foley, V. Carocha, J. Paiva, D. Kudrna, S. H. Brommonschenkel, G. Pasquali, M. Byrne, P. Rigault, J. Tibbits, A. Spokevicius, R. C. Jones, D. A. Steane, R. E. Vaillancourt, B. M. Potts, F. Joubert, K. Barry, G. J. Pappas, S. H. Strauss, P. Jaiswal, J. Grima-Pettenati, J. Salse, Y. Van de Peer, D. S. Rokhsar &#38; J. Schmutz, 2014. The Genome of Eucalyptus Grandis[J], <i>Nature</i>, 510: 356-362.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Peebles, P. Z., Jr., 2001. <i>Probability, Random Variable, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">O’Brien, J. A., 1994. <i>Introduction to Information Systems</i>[M]. 7th ed. Burr Ridge, IL: Irwin.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">Praetzellis, A., 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Online Computer Library Center, Inc., [2012]. About OCLC: History of Cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Roberson, J. A. &#38; E. G. Burneson, 2011. Drinking Water Standards, Regulations and Goals[A]. In American Water Works Association (ed.). <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[M]. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Park, J. R. &#38; Y. Tosaka, 2010. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms[J], <i>Cataloging &#38; Classification Quarterly</i>, 48(8): 696-715.</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Sadock, B. J., V. A. Sadock, P. Ruiz &#38; H. I. Kaplan (eds.), 2009. <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry</i>: Vol. 1[M]. 9th ed. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Peebles, P. Z., Jr., 2001. <i>Probability, Random Variables, and Random Signal Principles</i>[M]. 4th ed. New York: McGraw-Hill.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Saito, M. &#38; K. Miyazaki, 2006. Jadeite-Bearing Metagabbro in Serpentinite Melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu[J], <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): 169-176.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Praetzellis, A., 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">Santer, R. D. &#38; O. Akanyeti, 2025. Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps[J], <i>Insect Science</i>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Roberson, J. A. &#38; E. G. Burneson, 2011. Drinking Water Standards, Regulations, and Goals[A]. In American Water Works Association (ed.). <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>[M]. 6th ed. New York: McGraw-Hill: 1.1-1.36.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Shinotsuka, H., K. Nagata, M. Siriwardana, H. Yoshikawa, H. Shouno &#38; M. Okada, 2023. Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator[J], <i>Journal of Electron Spectroscopy and Related Phenomena</i>, 267: 147370.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Saito, M. &#38; K. Miyazaki, 2006. Jadeite-Bearing Metagabbro in Serpentinite Mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu[J], <i>Bulletin of the Geological Survey of Japan</i>, 57(5/6): 169-176.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Tachibana, R., S. Shimizu, S. Kobayashi &#38; T. Nakamura, 2001. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">Stieg, M. F., 1981. The Information Needs of Historians[J], <i>College &#38; Research Libraries</i>, 42(6): 549-560.</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">Torres, L., F. Salisbury, B. Yazbeck, S. Karasmanis, J. Pinder &#38; C. Ondracek (eds.), 2021. <i>Connecting the Library to the Curriculum</i>[M]. Singapore: Springer Nature: 97.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">Sunstein, C. R., 1996. Social Norms and Social Roles[J], <i>Columbia Law Review</i>, 96: 903.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">Tristram, M., P. Skarshewski, I. Tristram &#38; B. Mossel, 2022. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Tachibana, R., S. Shimizu, S. Kobayashi &#38; T. Nakamura, 2005. Electronic Watermarking Method and System: US6915001[P]. 2005-07-05.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, [2025]. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development[R].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service.</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Walls, S. C., W. J. Barichivich &#38; M. E. Brown, 2013. Drought, Deluge and Declines: The Impact of Precipitation Extremes on Amphibians in a Changing Climate[J], <i>Biology</i>, 2(1): 399-418.</div>
+    <div class="csl-left-margin">[44]</div><div class="csl-right-inline">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, &#38; SMART-MR Study Group, 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study[J], <i>Journal of the Neurological Sciences</i>, 337(1/2): 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Weinstein, L. &#38; M. N. Swartz, 1974. Pathogenic Properties of Invading Microorganisms[A]. In William A. Sodeman Jr. &#38; William A. Sodeman (eds.). <i>Pathologic Physiology: Mechanisms of Disease</i>[M]. Philadelphia: Saunders: 457-472.</div>
+    <div class="csl-left-margin">[45]</div><div class="csl-right-inline">Wang, S., 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[C]. In <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i>[C]. 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">World Health Organization, 1970. Factors Regulating the Immune Response: Report of WHO Scientific Group[R]. Geneva: WHO.</div>
+    <div class="csl-left-margin">[46]</div><div class="csl-right-inline">Weinstein, L. &#38; M. N. Swartz, 1974. Pathogenic Properties of Invading Microorganisms[A]. In William A. Sodeman Jr. &#38; William A. Sodeman (eds.). <i>Pathologic Physiology: Mechanisms of Disease</i>[M]. 5th ed. Philadelphia: Saunders: 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Yufin, S. A. (ed.), 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>[M]. Rotterdam: A. A. Balkema.</div>
+    <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei &#38; J. Ma, 2024. Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis[C]. In <i>CVPR</i>[C]. 4.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">白书农，1998．植物开花研究[A]．李承森．植物科学进展[M]．北京：高等教育出版社：146-163．</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Yufin, S. A. (ed.), 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>[M]. Rotterdam: A. A. Balkema.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">北京市人民政府办公厅，2005．关于转发北京市企业投资项目核准暂行实施办法的通知：京政办发［2005］37 号[A]．</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Zhong, X., Q. Yan &#38; G. Li, 2022. Long Time Series Nighttime Light Dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">北京市政协民族和宗教委员会，北京联合大学民族与宗教研究所，2012．历代王朝与民族宗教[M]．北京：民族出版社：112．</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Zotero, [2024]. [Zotero Download][EB/OL]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">陈登原，2000a．国史旧闻：第 1 卷[M]．北京：中华书局：29．</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Anon. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">陈登原，2000b．国史旧闻：第 1 卷[M]．北京：中华书局：29．</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 邢利娜, &#38; 高峰, 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">陈建军，2010．从数字地球到智慧地球[J]．国土资源导刊，7(10)：93．</div>
+    <div class="csl-left-margin">[53]</div><div class="csl-right-inline">図書館用語辞典編集委員会 (ed.), 2004. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社: 154.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴，赵震，王振刚，1980．蓟县震旦亚界的研究[A]．中国地质科学院天津地质矿产研究所．中国震旦亚界[M]．天津：天津科学技术出版社：56-114．</div>
+    <div class="csl-left-margin">[54]</div><div class="csl-right-inline">António, M. &#38; L. Pepper, 2019. Histórias de Portugal: livros caídos[EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">陈志勇，2011．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]．北京：经济科学出版社．</div>
+    <div class="csl-left-margin">[55]</div><div class="csl-right-inline">阿扬，2023．谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[A]．姜海伦，译．《环球科学》杂志社．认识记忆力：关于学习、思考与遗忘的脑科学[M]．北京：机械工业出版社：15-18．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">程根伟，1999．1998 年长江洪水的成因与减灾对策[A]．许厚泽，赵其国．长江流域洪涝灾害与科技对策[M]．北京：科学出版社：32-36．</div>
+    <div class="csl-left-margin">[56]</div><div class="csl-right-inline">北京鲁迅博物馆，2021．北京鲁迅博物馆志愿服务章程[EB/OL]．(2021-04-21)[2023-05-02]．<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">邓一刚，2006．全智能节电器：200610171314.3[P]．2006-12-13．</div>
+    <div class="csl-left-margin">[57]</div><div class="csl-right-inline">博伯尔，2023．银行业的未来与人工智能[M]．徐超，译．北京：清华大学出版社：35．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">丁文详，2000．数字革命与竞争国际化[N]．中国青年报，2000-11-20(15)．</div>
+    <div class="csl-left-margin">[58]</div><div class="csl-right-inline">曹凌，2011．中国佛教疑伪经综录[M]．上海：上海古籍出版社：19．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">傅刚，赵承，李佳路，2000．大风沙过后的思考[N]．北京青年报，2000-01-12．</div>
+    <div class="csl-left-margin">[59]</div><div class="csl-right-inline">陈登原，2000．国史旧闻：卷 1[M]．北京：中华书局：29．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">顾炎武，1982．昌平山水记：京东考古录[M]．北京：北京古籍出版社．</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">陈建军，2010．从数字地球到智慧地球[J]．国土资源导刊，7(10)：93．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">国家标准局信息分类编码研究所，1988．世界各国和地区名称代码：GB/T 2659—1986[S]．全国文献工作标准化委员会．文献工作国家标准汇编：3[M]．北京：中国标准出版社：59-92．</div>
+    <div class="csl-left-margin">[61]</div><div class="csl-right-inline">陈晋镳，张惠民，朱士兴，赵震，王振刚，1980．蓟县震旦亚界的研究[A]．中国地质科学院天津地质矿产研究所．中国震旦亚界[M]．天津：天津科学技术出版社：56-114．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">国家环境保护局科技标准司，1996．土壤环境质量标准：GB 15616—1995[S]．北京：中国标准出版社：2-3．</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">陈缮真，2022．探索微观世界的无穷奥秘（科技大观）[N]．人民日报，2022-08-16(17)．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">哈里森·沃尔德伦，2012．经济数学与金融数学[M]．谢远涛，译．北京：中国人民大学出版社：235-236．</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">陈志勇，2011．中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]．北京：经济科学出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">河北绿洲生态环境科技有限公司，2001．一种荒漠化地区生态植被综合培育种植方法：01129210.5[P]．2001-10-24．</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">程根伟，1999．1998年长江洪水的成因与减灾对策[A]．许厚泽，赵其国．长江流域洪涝灾害与科技对策[M]．北京：科学出版社：32-36．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">侯文顺，2010．高分子物理：高分子材料分析、选择与改性[M]．北京：化学工业出版社：119．</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">邓一刚，2008．全智能节电器：CN101106276A[P]．2008-01-16．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">胡承正，周详，缪灵，2010．理论物理概论：上[M]．武汉：武汉大学出版社：112．</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">丁文详，2000．数字革命与竞争国际化[N]．中国青年报，2000-11-20(15)．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">贾东琴，柯平，2011．面向数字素养的高校图书馆数字服务体系研究[C]．中国图书馆学会．中国图书馆学会年会论文集：2011 年卷[C]．北京：国家图书馆出版社：45-52．</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">方向明，曹迎杰，2023．元宇宙在图书馆的应用：理论研究与实践进展[A]．ChinaXiv．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">蒋有绪，郭泉水，马娟，others，1998．中国森林群落分类及其群落特征[M]．北京：科学出版社．</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">冯友兰，2008．冯友兰自选集[M]．2 版．北京：首都师范大学出版社：第1版自序．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">库恩，2012．科学革命的结构：第 4 版[M]．金吾伦，胡新和，译．2 版．北京：北京大学出版社．</div>
+    <div class="csl-left-margin">[69]</div><div class="csl-right-inline">高等教育文献保障系统，[2025]．馆际互借与文献传递服务[EB/OL]．[2025-06-21]．<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">雷光春，2012．综合湿地管理：综合湿地管理国际研讨会论文集[M]．北京：海洋出版社．</div>
+    <div class="csl-left-margin">[70]</div><div class="csl-right-inline">工业和信息化部，2022．信息技术  中文编码字符集：GB 18030—2022[S]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">李炳穆，2008a．韩国图书馆法[J]．图书情报工作，52(6)：6-12．</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">顾炎武，1980．昌平山水记；京东考古录[M]．北京：北京古籍出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">李炳穆，2008b．韩国图书馆法[J]．图书情报工作，52(6)：6-21．</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">国家测绘地理信息局．一带一路经济走廊及其途经城市分布地势图[CM]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">李强，2012．化解医患矛盾需釜底抽薪[EB/OL]．(2012-05-03)[2013-03-25]．<a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>．</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">国家能源局，2020．水电工程水温实时监测系统技术规范：NB/T 10386—2020[S]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">李幼平，王莉，2010．循证医学研究方法：附视频[J]．中华移植杂志（电子版），4(3)：225-228．</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">哈里森，沃尔德伦，2012．经济数学与金融数学[M]．谢远涛，译．北京：中国人民大学出版社：235-236．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">刘彻东，1998．中国的青年刊物：个性特色为本仁[J]．中国出版(5)：38-39．</div>
+    <div class="csl-left-margin">[75]</div><div class="csl-right-inline">何筱梅，2016．新媒体时代原生广告的策略与发展研究[D]．武汉：武汉大学：24-25．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">刘乃安，2000．生物质材料热解失重动力学及其分析方法研究[D]．合肥：中国科学技术大学：17-18．</div>
+    <div class="csl-left-margin">[76]</div><div class="csl-right-inline">胡健民，2021．东南极拉斯曼丘陵地区地质图[CM]．北京：科学出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">刘裕国，杨柳，张洋，王汉超，靳博，田豆豆，付文，2013．雾霾来袭，如何突围？[N]．人民日报，2013-01-12．</div>
+    <div class="csl-left-margin">[77]</div><div class="csl-right-inline">湖北省建设厅，1931．湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]．武汉：湖北省档案馆．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">楼梦鳞，杨燕，2011．汶川地震基岩地震动特征分析[A]．同济大学土木工程防灾国家重点实验室．汶川地震震害研究[M]．上海：同济大学出版社：011-012．</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024．青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]．国家地理资源科学数据中心-黄土高原分中心．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">罗杰斯，2011．西方文明史：问题与源头[M]．潘惠霞，魏婧，杨艳，汤玲，译．大连：东北财经大学出版社：15-16．</div>
+    <div class="csl-left-margin">[79]</div><div class="csl-right-inline">冀超，2001．一种荒漠化地区生态植被综合培育种植方法：CN1318281A[P]．2001-10-24．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">罗斯基，2009．战前中国经济的增长[M]．唐巧天，毛立坤，姜修宪，译．杭州：浙江大学出版社．</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">贾东琴，柯平，2011．面向数字素养的高校图书馆数字服务体系研究[C]．中国图书馆学会．中国图书馆学会年会论文集：2011年卷[C]．北京：国家图书馆出版社：45-52．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">马欢，2011．人类活动影响下海河流域典型区水循环变化分析[D]．北京：清华大学：27．</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">金燕萍，2020．社交媒体时代的虚假信息研究[D]．温州：温州大学：16．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">马克思，2013．政治经济学批判[A]．马克思，恩格斯．马克思恩格斯全集：第 35 卷[M]．北京：人民出版社：302．</div>
+    <div class="csl-left-margin">[82]</div><div class="csl-right-inline">井丽南，2022．支持状态可编程的SDN交换机关键技术研究[D]．北京：中国科学院大学：43．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">美国妇产科医师学会，2010．新生儿脑病和脑性瘫痪：发病机制与病理生理[M]．段涛，杨慧霞，译．北京：人民卫生出版社：38-39．</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">久保智康，2009．花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]．东方博物(1)：85-92．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">尼葛洛庞帝，1996．数字化生存[M]．胡泳，范海燕，译．海口：海南出版社．</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">李鸿章，1887．奏请上海道库洋务外销要款无款可筹仍拨药厘接济事：04-01-35-0399-039[A]．北京：中国第一历史档案馆．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">牛志明，斯温兰德，雷光春，2012．综合湿地管理国际研讨会论文集[M]．北京：海洋出版社．</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">李华，王昊，康佐，2023．一种拼接式桥梁模型：CN218214474U[P]．2023-01-03．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">裴丽生，1981．在中国科协学术期刊编辑工作经验交流会上的讲话[C]．中国科学技术协会．中国科协学术期刊编辑工作经验交流会资料选[C]．北京：中国科学技术协会学会工作部：2-10．</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">李妍，王莹，2022．医疗机构保洁人员“一前五后”手卫生干预效果研究[C]．中华预防医学会医院感染控制分会第31次全国医院感染学术年会[C]．2．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">皮锡瑞，2009．师伏堂日记：第 4 册[M]．北京：国家图书馆：155．</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">李幼平，王莉，2010．循证医学研究方法：附视频[J]．中华移植杂志（电子版），4(3)：225-228．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">全国广播电视标准化技术委员会，2007．广播电视音像资料编目规范：第 2 部分 广播资料：GY/T 202.2—2007[S]．北京：国家广播电影电视总局广播电视规划院：1．</div>
+    <div class="csl-left-margin">[88]</div><div class="csl-right-inline">李约瑟，1991．题词[A]．苏克福，管成学，邓明鲁．苏颂与《本草图经》研究[M]．长春：长春出版社：扉页．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2010a．信息与文献 都柏林核心元数据元素集：GB/T 25100—2010[S]．北京：中国标准出版社：2-3．</div>
+    <div class="csl-left-margin">[89]</div><div class="csl-right-inline">刘时银，郭万钦，许君利，2012．中国第二次水川编目科学数据：2006-2011[DS/OL]．中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室．<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2010b．文献著录：第 4 部分 非书资料：GB/T 3792.4—2009[S]．北京：中国标准出版社：3．</div>
+    <div class="csl-left-margin">[90]</div><div class="csl-right-inline">刘祥沈，2016．沈阳市政区图[CM]．武汉：武汉大学出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">汤万金，杨跃翔，刘文，others，2013．人体安全重要技术标准研制最终报告：7178999X-2006BAK04A10/10.2013[R]．</div>
+    <div class="csl-left-margin">[91]</div><div class="csl-right-inline">楼梦麟，杨燕，2011．汶川地震基岩地震动特征分析[A]．同济大学土木工程防灾国家重点实验室．汶川地震震害研究[M]．上海：同济大学出版社：11-12．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">同济大学土木工程防灾国家重点实验室，2011．汶川地震灾害研究[M]．上海：同济大学出版社：5-6．</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">马克思，2013．政治经济学批判[A]．马克思，恩格斯．马克思恩格斯全集：卷 35[M]．2 版．北京：人民出版社：302．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">汪昂，1881．增订本草备要：四卷[M]．刻本．京都：老二酉堂．</div>
+    <div class="csl-left-margin">[93]</div><div class="csl-right-inline">牛永敢，孔晓，王阳，斯楼斌，2019．鼻整形应用解剖学[M]．北京：人民卫生出版社：65-66．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">汪冰，1997．电子图书馆理论与实践研究[M]．北京：北京图书馆出版社：16．</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">牛志明，Swingland I. R.，雷光春，2012．综合湿地管理：综合湿地管理国际研讨会论文集[M]．北京：海洋出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">汪学军，2002．中国农业转基因生物研究进展与安全管理[C]．国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集[C]．北京：中国环境科学出版社：22-25．</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">彭守璋，2024．1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]．西北农林科技大学水土保持研究所．<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">王夫之，1865．宋论[M]．刻本．金陵：湘乡曾国荃．</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">钱学森，2001．创建系统学[M]．太原：山西科学技术出版社：序2-3．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">王临惠，2010．从几组声母的演变看天津方言形成的自然条件和历史背景[C]．曹志耘．汉语方言的地理语言学研究[C]．北京：商务印书馆：138．</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">全国信息技术标准化技术委员会，2016．信息技术 先进音视频编码 第16部分：广播电视视频：GB/T 20090.16—2016[S]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">王临惠，支建刚，王忠一，2010．天津方言的源流关系刍议[J]．山西师范大学学报（社会科学版），37(4)：147．</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会，2021．信息与文献 资源描述：GB/T 3792—2021[S]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">吴云芳，2003．面向中文信息处理的现代汉语并列结构研究[D]．北京：北京大学．</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">石顺祥，许海平，孙艳玲，陈利菊，李家立，刘继芳，2002．光折变自适应光外差探测方法：CN1338652A[P]．2002-03-06．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">武丽丽，华一新，张亚军，刘英敏，2008．“北斗一号”监控管理网设计与实现[J]．测绘科学，33(5)：8-9．</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">谭其骧，1982．中国历史地图集：第2册[CM]．北京：地图出版社：6．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">西安电子科技大学，2002．光折变自适应光外差探测方法：01128777.2[P]．2002-03-06．</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">汤万金，杨跃翔，刘文，郑建国，王赟松，2013．人体安全重要技术标准研制最终报告：7178999X-2006BAK04A10/10.2013[R]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">萧钰，2001．出版业信息化迈入快车道[EB/OL]．(2001-12-19)[2002-04-15]．<a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>．</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">童世亨，1926．京兆直隶图[CM]．上海：商务印书馆．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">徐光宪，王祥云，2010．物质结构[M]．北京：科学出版社．</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">汪学军，2005．中国农业转基因生物研发进展与安全管理[C]．国家环境保护总局生物安全管理办公室．中国国家生物安全框架实施国际合作项目研讨会论文集[C]．北京：中国环境科学出版社：22-25．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">杨保军，2012．新闻道德论[D]．北京：中国人民大学出版社．</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">王夫之，1865．宋论[M]．刻本．金陵：湘乡曾国荃．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">杨洪升，2013．四库馆私家抄校书考略[J]．文献(1)：56-75．</div>
+    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">王继民，罗鹏程，赵常煜，郭鑫，王世奇，高正，2025．人文社会科学数据集检索方法研究的数据集[DS/OL]．北京大学开放研究数据平台．<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">杨宗英，1996．电子图书馆的现实模型[J]．中国图书馆学报(2)：24-29．</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">王利平，王福新，刘洪，2024．过冷大水滴环境粒径分布模拟方法研究进展[J]．航空学报，45(增刊1)：730570．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波，2012．互联网药品可信交易环境中主体资质审核备案模式[J]．清华大学学报（自然科学版），52(11)：1518-1523．</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">王琦，2022．融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]．武汉：武汉大学：87．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">余建斌，2013．我们的科技一直在追赶：访中国工程院院长周济[N]．人民日报，2013-01-12(2)．</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">吴自银，温珍河，2019．中国南部海域海底地形图[CM]．北京：科学出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">袁训来，陈哲，肖书海，万斌，关成国，王伟，周传明，华洪，2012．蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口[J]．科学通报，57(34)：3219．</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">肖玲，张雪，王永，2024．数据要素的统计测算方法探究[A]．PSSXiv．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">张伯伟，2002．全唐五代诗格汇考[M]．南京：江苏古籍出版社：288．</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">肖希明，石庆功，刘奕，2024．民国图书馆学教育的社会贡献[C]．纪念北京大学图书馆学教育100周年研讨会论文集[C]．北京：北京大学信息管理系：134-147．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">张凯军，2012．轨道火车及高速轨道火车紧急安全制动辅助装置：201220158825.2[P]．2012-04-05．</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">徐建委，2025．历史的起点：《史记》中的时间设置及其意义[J]．北京大学学报（哲学社会科学版），62(2)：117-127．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">张田勘，2000．罪犯 DNA 库与生命伦理学计划[N]．大众科技报，2000-11-12(7)．</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">许振超，2025．“好好干，当一个好工人”[EB/OL]．(2025-02-17)[2025-06-22]．<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">张忠智，1997．科技书刊的总编（主编）的角色要求[C]．中国科学技术期刊编辑学会．中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编[C]．北京：中国科学技术期刊编辑学会学术委员会：33-34．</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">扬奎斯特，萨金特，2010．递归宏观经济理论[M]．杨斌，王忠玉，陈彦斌，严高剑，译．2 版．北京：中国人民大学出版社：798．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">赵学功，2001．当代美国外交[M]．北京：社会科学文献出版社．</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">杨洪升，2013．四库馆私家抄校书考略[J]．文献(1)：56-75．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">中国第一历史档案馆，辽宁省档案馆，2001．中国明朝档案总汇[A]．桂林：广西师范大学出版社．</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">杨立华，2022．《庄子》读不懂？看完这一篇“导读”就明白了[Z]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">中国互联网络信息中心，2012．第 29 次中国互联网络发展状况统计报告[R]．</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">于潇，刘义，柴跃廷，孙宏波，2012．互联网药品可信交易环境中主体资质审核备案模式[J]．清华大学学报（自然科学版），52(11)：1518-1523．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">中国企业投资协会，台湾并购与私募股权协会，汇盈国际投资集团，2013．投资台湾：大陆企业赴台投资指南[M]．北京：九州出版社．</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">云南省企业联合会，云南省企业家协会，云南民族新闻文化发展研究院，2009．改革开放三十年：云南企业家奋斗史[M]．芒市：德宏民族出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">中国社会科学院台湾史研究中心，2012．台湾光复六十五周年暨抗战史实学术研讨会论文集[M]．北京：九州出版社．</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">战德臣，张丽杰，2019．大学计算机：计算思维与信息素养[M]．3 版．北京：高等教育出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">中国社会科学院语言研究所词典编辑室，1996．现代汉语词典[M]．修订本．北京：商务印书馆．</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">张伯伟，2002．全唐五代诗格汇考[M]．南京：江苏古籍出版社：288．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">中国图书馆学会，1957．图书馆学通讯[J]．1957(1-4)．北京：北京图书馆．</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">张凯军，赵永杰，陈朝岗，2013．轨道火车及高速轨道火车紧急安全制动辅助装置：CN202827616U[P]．2013-03-27．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">中国造纸学会，2003．中国造纸年鉴：2003[M]．北京：中国轻工业出版社．</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">张群，程志宝，石志飞，2024a．惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]．铁道学报．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">中国职工教育研究会，1985．职工教育研究论文集[M]．北京：人民教育出版社．</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">张群，程志宝，石志飞，2024b．惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]．铁道学报，46(8)：102-111．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">中华人民共和国国务院新闻办公室，2013．国防白皮书：中国武装力量的多样化运用[R]．</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">仉尚航，2024．开放世界中的实体基础模型[EB/OL]．(2024-12-24)[2025-01-02]．<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">中华医学会湖北分会，1984．临床内科杂志[J]．1984，1(1)．武汉：中华医学会湖北分会．</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">赵学功，2001．当代美国外交[M]．北京：社会科学文献出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">佚名，1962．康熙字典：巳集上：水部[M]．同文书局影印本．北京：中华书局：50．</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">郑涵，于贵瑞，朱先进，王秋凤，张雷明，陈智，孙晓敏，何洪林，苏文，王艳芬，韩士杰，周国逸，赵新全，王辉民，欧阳竹，张宪洲，张扬建，石培礼，李英年，赵亮，张一平，闫俊华，王安志，张军辉，郝彦斌，赵风华，张法伟，周广胜，林光辉，陈世苹，刘绍民，赵斌，贾根锁，张旭东，张玉翠，古松，刘文兆，李彦，王文杰，杨大文，张劲松，张志强，赵仲辉，周石硚，郭海强，沈彦俊，徐自为，黄辉，孟平，2018．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS/OL]．Science Data Bank．<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">佚名，1977．宋史卷三：本纪第三[A]．宋史：第 1 册[M]．北京：中华书局：49．</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">中工武大设计研究有限公司，2019．阳新县标准地名图[CM]．武汉：武汉大学出版社．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">佚名，1988．卷 39 乞致仕第一[A]．苏魏公文集：下册[M]．北京：中华书局：590．</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">中国互联网络信息中心，2012．第29次中国互联网络发展状况统计报告[R]．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">佚名，2011．周易外传：卷 5[A]．王夫之．船山全书：第 6 册[M]．长沙：岳麓书社：1109．</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">中国科学院文献情报中心，[2025]．中国科学院科技论文预发布平台[EB/OL]．[2025-03-06]．<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">中国社会科学院台湾史研究中心，2012．台湾光复六十五周年暨抗战史实学术研讨会论文集[M]．北京：九州出版社．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">中国图书馆学会，1957/1990．图书馆学通讯[J]．1957/1990，1957（1）—1990（4）．北京：北京图书馆．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，中国联合网络通信有限公司研究院，2023．电信业发展白皮书：2023：新时代高质量发展探索[R]．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">中国造纸学会，2003．中国造纸年鉴：2003[M]．北京：中国轻工业出版社．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">中华医学会湖北分会，1984．临床内科杂志[J]．1984，1984，1（1）—．武汉：中华医学会湖北分会．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">周壮，李盛阳，吴薇，郭威龙，李轩，夏桂松，赵子飞，2023．天宫二号遥感图像自然景物分类数据集[DS/OL]．国家基础学科公共科学数据中心．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">訾冬梅，高秀静，2006．内蒙古自治区地图册[CM]．新版．北京：中国地图出版社．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">佚名，1949．中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]．武汉：武汉大学档案馆．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">佚名，1962．康熙字典：巳集上 水部[M]．同文书局影印本．北京：中华书局：50．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">佚名，2011．周易外传：卷5[A]．王夫之．船山全书：第1册[M]．修订版．长沙：岳麓书社：983-1029．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">佚名，2020．大黄[A]．国家药典委员会．中华人民共和国药典：一部[M]．2020版．北京：中国医药科技出版社：24-25．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">佚名，2023a．[《昨日之歌》图书封面][Z]．</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">佚名，2023b．西黄丸[EB/OL]．(2023-10-07)[2025-08-26]．<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>．</div>
   </div>
 </div>
 

@@ -148,7 +148,7 @@ export function generateAndWrite(csl_file: string) {
     toDetails("参考文献表", result.bibliography, false),
     `## 默认测试\n`,
     toDetails("引注", result.default_test_citations!, false),
-    toDetails("GB/T 7714—2015 示例文献", result.gb_result!),
+    toDetails("GB/T 7714—2025 示例文献", result.gb_result!),
     toDetails("《心理学报》 示例文献", result.aps_result!),
     toDetails("《中国社会科学》 示例文献", result.ssc_result!),
     toDetails("《法学引注手册》 示例文献", result.mlc_result!),

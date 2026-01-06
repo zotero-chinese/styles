@@ -52,6 +52,8 @@ type Tag =
   | "无DOI"
   | "有URL"
   | "无URL"
+  | "有英文翻译"
+  | "无英文翻译"
   | "测试";
 
 interface StyleFullResult

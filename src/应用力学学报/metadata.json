@@ -1,0 +1,30 @@
+{
+  "dir": "应用力学学报",
+  "file": "应用力学学报.csl",
+  "style_class": "in-text",
+  "title": "应用力学学报",
+  "id": "https://zotero-chinese.com/styles/应用力学学报",
+  "link_self": "https://zotero-chinese.com/styles/应用力学学报",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI）",
+  "link_documentation": "https://zgglxb.chd.edu.cn/CN/column/column7.shtml",
+  "author": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "engineering",
+  "summary": "《应用力学学报》学报排版格式与论文书写要求.pdf",
+  "updated": "2025-12-24T23:05:40+08:00",
+  "citations": "<sup>[1,2]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-21 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">[1]\t宋杨, 孙冬, 岑炫震, 等. 个体化足-鞋耦合有限元建模及在跖骨应力研究中的应用[J]. 应用力学学报, 2023, 40(5): 1204-1212.\n    <div class=\"csl-block\">SONG Yang, SUN Dong, CEN Xuanzhen, et al. Subject-specific finite element modelling of the foot-shoe complex and its application in metatarsal stress research[J]. Chinese journal of applied mechanics, 2023, 40(5): 1204-1212( in Chinese).</div>\n  </div>\n  <div class=\"csl-entry\">[2]\tRODRÍGUEZ-HERNÁNDEZ P, MARTÍN-GÓMEZ A, CARDADOR M J, et al. Geographical origin, curing plant and commercial category discrimination of cured iberian hams through volatilome analysis at industry level[J]. Meat science, 2023, 195: 108989.</div>\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊缩写",
+    "无URL",
+    "无DOI",
+    "有英文翻译"
+  ]
+}
