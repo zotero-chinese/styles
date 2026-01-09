@@ -1,0 +1,340 @@
+[
+	{
+		"id": "http://zotero.org/users/4181482/items/A7PESKWF",
+		"type": "thesis",
+		"abstract": "现代桥梁结构向跨度更大、更柔、更纤细的方向发展,因而对风的作用更加敏感。大跨度桥梁的风致作用主要有颤振、抖振、驰振和涡振。颤振因其对桥梁结构具有短时间内摧毁性的破坏作用就显的相当重要。本文在现有颤振分析方法的基础上,对大跨度桥梁颤振问题进行了三个方面的研究,此外,相关资料表明大跨度桥梁的静风稳定性问题也不能忽略,本文也对桥梁非线性静力抗风计算进行了研究。本论文主要进行了以下几个方面的研究工作:(1)颤振方程组优化求解研究。根据Scanlan颤振理论,建立桥梁断面在空气中的二维耦合颤振方程,通过合理假设,令方程两边的实部和虚部分别相等,并化简分析,提出了一种降阶求解方法。(2)用于颤振分析的ANSYS和MATLAB两种程序编制。基于ANSYS/APDL语言和MATLAB语言,编制了颤振频域分析程序,通过一典型平板算例,验证了两种程序的正确性和可靠性。通过工程算例,分析了主要模态对颤振的贡献程度,同时考察了成桥阶段阻尼比的变化对颤振临界风速的影响。(3)颤振临界风速简化公式的建立。根据《公路桥梁抗风设计规范》的大跨桥梁竖弯基频公式和扭转基频公式,基于Van der put公式,结合工程实例,建立了大跨斜拉桥颤振临界风速简化计算公式。(4)非线性静力抗风研究。在充分考虑桥梁结构几何非线性和静风荷载非线性影响的基础上,采用增量搜索法和内外双重迭代相结合的方法,运用ANSYS/APDL语言编制了非线性静力抗风计算程序。在不同工况作用下,分析了桥梁参数的变化对大跨度桥梁结构非线性静风稳定性的影响。",
+		"event-place": "广州",
+		"genre": "硕士",
+		"language": "zh-CN",
+		"publisher": "广州大学",
+		"publisher-place": "广州",
+		"source": "CNKI",
+		"title": "大跨度桥梁颤振及静力抗风研究",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=4mdsUcMtJE1vQ_LD8Nm4BSZaSAtFvcyq3Jn73B8RTZvWAHSnOhdpGgB2McIhOLb7FXxLpB_jnEUxMd5luc4sYjV9oXJnBdsETKzIaalBi9AcNgxviFsxsyhaDnzkp15QEmIsBeECeN0vIXT3MlIR5o5VQ1OJIBjxKujzkGrNd62e26KBPI8lPX269QIOwSZ7rFAhIAJpy2FMDmsfchdJSg==&uniplatform=NZKPT",
+		"author": [
+			{
+				"family": "邱",
+				"given": "可"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/44PXYBLM",
+		"type": "article-journal",
+		"abstract": "In this paper, the effects of oscillation amplitude on the aerodynamic derivatives of the thin rectangular cylinder with B/D=13 and 150 were investigated. It was clear that the torsional amplitude affected strongly the aerodynamic derivatives H2* and A2*. This effect reduced the critical velocity of flutter by about 10%. The cause of this effect was investigated by the measurement of the unsteady surface pressure. This investigation made it clear that the variation of A2* is caused by the movement of the acting point of the resultant lift force. These results indicate that these effects cannot be disregarded for such a simple thin plate but for a real bridge girder with a more complex cross-section and with delicate aerodynamic control devices.",
+		"collection-title": "Fifth Asia-Pacific Conference on Wind Engineering",
+		"container-title": "Journal of Wind Engineering and Industrial Aerodynamics",
+		"DOI": "10.1016/S0167-6105(02)00338-0",
+		"ISSN": "0167-6105",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Wind Engineering and Industrial Aerodynamics",
+		"language": "en-US",
+		"page": "101-111",
+		"source": "ScienceDirect",
+		"title": "Effects of oscillation amplitude on aerodynamic derivatives",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0167610502003380",
+		"volume": "91",
+		"author": [
+			{
+				"family": "Noda",
+				"given": "M"
+			},
+			{
+				"family": "Utsunomiya",
+				"given": "H"
+			},
+			{
+				"family": "Nagao",
+				"given": "F"
+			},
+			{
+				"family": "Kanda",
+				"given": "M"
+			},
+			{
+				"family": "Shiraishi",
+				"given": "N"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					3,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/3FASI5DA",
+		"type": "article-journal",
+		"abstract": "为了揭示含索铰可折展桁架的非线性动力学行为,建立了考虑铰链间隙、刚度和阻尼及索非线性特性的可折展桁架纯弯曲动力学模型。对非线性动力学方程进行一次泰勒展开和参量的多次谐波描述,实现了非线性动力学方程到代数方程的转化,通过迭代进行非线性动力学系统的响应计算。并利用龙格库塔方法对非线性系统进行数值分析,与增量谐波平衡(IHB)法进行对比,验证了IHB法计算的正确性。以激振频率为变化参数,对悬臂支撑的含索铰桁架结构进行解的稳定性分析,得到铰链间隙、铰链刚度、激振力和索对结构响应稳定性的影响。基于IHB法可快速准确的进行多自由度可折展结构动力学求解,为研究大型折展桁架的动力学行为奠定了基础。",
+		"container-title": "振动与冲击",
+		"issue": "7",
+		"language": "zh-CN",
+		"note": "original-title: Nonlinear dynamic characteristics of deployable structures with joints and cables based on incremental harmonic balance method\noriginal-container-title: Journal of Vibration and Shock\nWeiPuCite: 3",
+		"page": "4-10",
+		"source": "CQVIP Qikan",
+		"title": "基于增量谐波平衡法的含索铰可折展桁架非线性动力学特性",
+		"URL": "https://lib.cqvip.com/Qikan/Article/Detail?id=49616634",
+		"author": [
+			{
+				"literal": "张静"
+			},
+			{
+				"literal": "刘荣强"
+			},
+			{
+				"literal": "郭宏伟"
+			},
+			{
+				"literal": "邓宗全"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					5,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/G9GVR447",
+		"type": "book",
+		"abstract": "本书是20世纪学术史上最有影响的著作之一，是科学史与科学哲学研究的学者们不可不读的基本文献。它引导了科学哲学界的一场认识论的大变革，成为科学哲学史上一道重要的分水岭。其影响不仅在于科学史、科学哲学、科学社会学等相关领域，而且延伸到社会学、文化人类学、文学史、艺术史、政治史、宗教史等人文和社会科学领域，甚至在社会公众领域也产生了深刻的影响。书中提出的“范式转换”一语如今已成为我们耳熟能详的一个重要词汇。 本书自1962年面世以来就引起强烈反响，掀起了一股世界性的研究热潮，其影响至今不衰。本版是芝加哥大学出版社为庆祝本书问世五十周年而作，新加入加拿大哲学家伊安·哈金教授所写的导读。 —————————————————————————————————— 自然科学的发展除了按常规科学一点一滴地积累之外，还必然要出现“科学革命”。科学革命不仅仅使科学的面貌焕然一新，而且还会引起人们世界观的变革。——托马斯·库恩",
+		"collection-title": "北京大学科技史与科技哲学丛书",
+		"edition": "第二版",
+		"event-place": "北京",
+		"ISBN": "978-7-301-21426-8",
+		"language": "zh-CN",
+		"note": "original-title: The Structure of Scientific Revolutions\nprice: 29.00元\nrating: 9.0\nratingPeople: 3280人评价\ncomments: 1247\ncreatorsExt: [{\"firstName\":\"\",\"lastName\":\"托马斯·库恩\",\"creatorType\":\"author\",\"fieldMode\":1,\"country\":\"美\",\"original\":\"\"},{\"firstName\":\"\",\"lastName\":\"金吾伦\",\"creatorType\":\"translator\",\"fieldMode\":1,\"country\":\"\",\"original\":\"\"},{\"firstName\":\"\",\"lastName\":\"胡新和\",\"creatorType\":\"translator\",\"fieldMode\":1,\"country\":\"\",\"original\":\"\"}]",
+		"number-of-pages": "252",
+		"publisher": "北京大学出版社",
+		"publisher-place": "北京",
+		"source": "Douban",
+		"title": "科学革命的结构",
+		"URL": "https://book.douban.com/subject/20376550/",
+		"author": [
+			{
+				"literal": "托马斯·库恩"
+			}
+		],
+		"translator": [
+			{
+				"literal": "金吾伦"
+			},
+			{
+				"literal": "胡新和"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/NFY2BMXR",
+		"type": "post-weblog",
+		"abstract": "Semantic Scholar extracted view of \"Origins and Concepts of Digital Literacy\" by D. Bawden",
+		"language": "en-US",
+		"title": "Origins and concepts of digital literacy",
+		"URL": "获取访问路径",
+		"author": [
+			{
+				"family": "Bawden",
+				"given": "D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/ATKIRZTA",
+		"type": "paper-conference",
+		"abstract": "对于跨径超过2000m级的扁平钢箱梁悬索桥的颤振稳定性设计面临前所未有的挑战,为研究不同颤振气动措施对超大跨度扁平钢箱梁悬索桥的颤振稳定的影响,通过一主跨为2300m的超大跨径悬索桥进行节段模型风洞试验,分别研究检修车轨道位置、封隔人行道栏杆、设置上下中央稳定板和裙板5种气动措施对主梁颤振临界风速的影响。结果表明:选择镂空方式的检修车轨道在距离梁底边缘1/6b的位置时可以提高颤振临界风速;在设置上中央稳定板的基础上,加装合适高度的下中央稳定板可以提高整体结构的颤振稳定性;对于选用合适高度的裙板,可以提高颤振临界风速,但受到风攻角的影响。传统的气动措施已经无法满足该类超大跨径的桥梁的颤振稳定性设计要求,本文提出一种新型的带倾角的裙板气动措施,显著提高了各个攻角下的颤振临界风速,使颤振设计满足规范要求。 更多 还原 AbstractFilter('ChDivSummary', 'ChDivSummaryMore', 'ChDivSummaryReset');",
+		"container-title": "2023世界交通运输大会(WTC2023)论文集(上册)",
+		"DOI": "10.26914/c.cnkihy.2023.019339",
+		"event-place": "中国湖北武汉",
+		"event-title": "2023世界交通运输大会(WTC2023)",
+		"language": "zh-CN",
+		"note": "foundation: 超大跨径悬索桥节段模型抗风平行试验ZG-KT-2-1-6；\ndownload: 88\nalbum: 工程科技Ⅱ辑\nCLC: U448.25\ndbcode: IPFD\ndbname: IPFDLAST2023\nfilename: ZGGS202306001114",
+		"page": "720-725",
+		"publisher": "出版社",
+		"publisher-place": "中国湖北武汉",
+		"source": "CNKI",
+		"title": "超大跨径扁平钢箱梁悬索桥颤振气动措施试验研究",
+		"URL": "https://doi.org/10.26914/c.cnkihy.2023.019339",
+		"author": [
+			{
+				"literal": "孙研博"
+			},
+			{
+				"literal": "颜欣"
+			},
+			{
+				"literal": "王路"
+			},
+			{
+				"literal": "高广中"
+			},
+			{
+				"literal": "李加武"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/MZEERCAV",
+		"type": "patent",
+		"abstract": "项目组紧密围绕总体目标分别开展了立管-参激涡激耦合振动特性研究、基于端部控制的立管涡激振动控制研究、基于分布式作动器的立管振动控制研究、端部控制与分布式作动器控制结合的立管振动控制研究。在立管-参激涡激耦合振动特性研究方面，分别采用欧拉-伯努利梁模型和尾流振子模型实现了立管振动和尾迹流场特征的模拟，并结合理论分析和实验手段对立管参激-涡激振动预报模型进行了定性和定量验证，分析了立管的参激振动响应特性和参激-涡激耦合振动特性。在基于端部控制的立管涡激振动控制研究方面，开展了变张力作用下立管的涡激振动模型实验，揭示了张力变化对立管涡激振动响应的影响机理。在基于分布式作动器的立管振动控制研究方面，分析了布放位置、阻尼参数、质量比参数、刚度参数对振动抑制效果的影响规律。在端部控制与分布式作动器控制结合的立管振动控制研究方面，实现了端部控制与分布式控制、主动控制与被动控制相结合的立管涡激振动控制。研究工作授权发明专利2项，发表SCI/EI检索论文5篇，形成科技报告3篇，培养博士生1名，硕士生2名。\n该项目发展了立管涡激振动主动控制理论，完善了深水油气安全开发技术体系，为多种主动控制装置在深水立管中的应用提供理论基础，同时也为深水油气开发工程中立管涡激振动的主动控制提供了方法基础和技术支撑。研究成果有助于突破海洋立管涡激振动控制中存在的理论与技术瓶颈，增强中国海洋油气开发产业链自主可控能力。",
+		"authority": "中国",
+		"language": "zh-CN",
+		"note": "section: P744.4",
+		"number": "2400130613",
+		"references": "文献",
+		"title": "海洋柔性结构涡激振动及振动控制研究",
+		"URL": "https://d.wanfangdata.com.cn/Cstad/2400130613",
+		"author": [
+			{
+				"family": "徐",
+				"given": "万海"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/EAZ925AL",
+		"type": "standard",
+		"event-place": "出版地",
+		"language": "zh-CN",
+		"note": "applyDate: 2026-08-01\noriginal-title: Safety technical specification for concrete admixtures\nalbum: 工程科技Ⅰ辑;工程科技Ⅱ辑\nCLC: Q12\ndbcode: SCSF\ndbname: SCSF\nfilename: SCSF00100690",
+		"number": "GB 46039——2025",
+		"number-of-pages": "16",
+		"publisher": "出版者出版社",
+		"publisher-place": "出版地",
+		"source": "CNKI",
+		"status": "即将实施",
+		"title": "混凝土外加剂安全技术规范",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCSF&dbname=SCSF&filename=SCSF00100690",
+		"author": [
+			{
+				"literal": "中华人民共和国工业和信息化部"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					1,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					8,
+					1
+				]
+			]
+		}
+	}
+]

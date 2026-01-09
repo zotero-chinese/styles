@@ -1,0 +1,34 @@
+{
+  "dir": "华北水利水电大学（研究生）",
+  "file": "华北水利水电大学（研究生）.csl",
+  "style_class": "in-text",
+  "title": "华北水利水电大学（研究生）",
+  "id": "https://zotero-chinese.com/styles/华北水利水电大学（研究生）",
+  "link_self": "https://zotero-chinese.com/styles/华北水利水电大学（研究生）",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—1987（顺序编码，双语）",
+  "link_documentation": "https://www2.ncwu.edu.cn/yjs/info/1052/1721.htm",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "华北水利水电大学（研究生）",
+  "updated": "2026-01-09T15:35:39+08:00",
+  "citations": "<sup>[1～8]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">张静，刘荣强，郭宏伟，等．基于增量谐波平衡法的含索铰可折展桁架非线性动力学特性[J]．振动与冲击，2014（7）：4～10.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Noda M, Utsunomiya H, Nagao F, et al. Effects of oscillation amplitude on aerodynamic derivatives[J]. Journal of Wind Engineering and Industrial Aerodynamics, 2003, 91(1) : 101～111.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">邱可．大跨度桥梁颤振及静力抗风研究[D]．广州：广州大学，2012.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">孙研博，颜欣，王路，等．超大跨径扁平钢箱梁悬索桥颤振气动措施试验研究[C]．2023世界交通运输大会(WTC2023)论文集(上册)．中国湖北武汉：出版社，2023：720～725.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">GB 46039——2025 混凝土外加剂安全技术规范[S]．出版地：出版者出版社，2025.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">托马斯·库恩．科学革命的结构[M]．第二版．北京：北京大学出版社，2012.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">徐万海．海洋柔性结构涡激振动及振动控制研究：中国专利, 2400130613[P]．2024-01-01.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">Bawden D. Origins and concepts of digital literacy[EB]. <a href=\"https://doi.org/获取访问路径\">获取访问路径</a>. 2008.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊缩写",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}
