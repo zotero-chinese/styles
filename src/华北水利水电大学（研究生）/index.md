@@ -35,7 +35,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">徐万海．海洋柔性结构涡激振动及振动控制研究：中国专利, 2400130613[P]．2024-01-01.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy[EB]. <a href="https://doi.org/获取访问路径">获取访问路径</a>. 2008.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Bawden D. Origins and concepts of digital literacy[EB]. <a href="https://doi.org/获取访问路径">获取访问路径</a>, 2008.</div>
   </div>
 </div>
 
@@ -363,7 +363,7 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">中国科学院文献情报中心．中国科学院科技论文预发布平台[EB]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆．北京鲁迅博物馆志愿服务章程[EB]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>．2021.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆．北京鲁迅博物馆志愿服务章程[EB]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>, 2021.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[104]</div><div class="csl-right-inline">杨立华导演．《庄子》读不懂？看完这一篇“导读”就明白了[EB]．2022.</div>
@@ -372,16 +372,16 @@
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">高等教育文献保障系统．馆际互借与文献传递服务[EB]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超．“好好干，当一个好工人”[EB]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>．2025.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超．“好好干，当一个好工人”[EB]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>, 2025.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">[《昨日之歌》图书封面][EB]．2023.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航．开放世界中的实体基础模型[EB]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>．2024.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航．开放世界中的实体基础模型[EB]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">西黄丸[EB]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>．2023.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">西黄丸[EB]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>, 2023.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Library of Congress[EB]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
@@ -390,10 +390,10 @@
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">International Organization for Standardization. ISO homepage[EB]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">António M，Pepper L．Histórias de Portugal: livros caídos[EB]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>．2019.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">António M，Pepper L．Histórias de Portugal: livros caídos[EB]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Bevington D, Brown J R. William Shakespeare[EB]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>. 2025.</div>
+    <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Bevington D, Brown J R. William Shakespeare[EB]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>, 2025.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Zotero. [Zotero download][EB]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
@@ -441,31 +441,31 @@
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Coastal wetlands map of China continent[M]. Beijing : China Ocean Press, 2024 : 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋．1901—2023年中国1km分辨率逐月降水量数据集[DS]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>．西北农林科技大学水土保持研究所，2024.</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋．1901—2023年中国1km分辨率逐月降水量数据集[DS]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>, 西北农林科技大学水土保持研究所，2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006-2011[DS]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>．中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006-2011[DS]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>, 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮，李盛阳，吴薇，等．天宫二号遥感图像自然景物分类数据集[DS]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>．国家基础学科公共科学数据中心，2023.</div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">周壮，李盛阳，吴薇，等．天宫二号遥感图像自然景物分类数据集[DS]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>, 国家基础学科公共科学数据中心，2023.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵，于贵瑞，朱先进，等．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>．Science Data Bank，2018.</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵，于贵瑞，朱先进，等．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>, Science Data Bank，2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）[DS]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．国家地理资源科学数据中心-黄土高原分中心，2024.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）[DS]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>, 国家地理资源科学数据中心-黄土高原分中心，2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民，罗鹏程，赵常煜，等．人文社会科学数据集检索方法研究的数据集[DS]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>．北京大学开放研究数据平台，2025.</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民，罗鹏程，赵常煜，等．人文社会科学数据集检索方法研究的数据集[DS]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>, 北京大学开放研究数据平台，2025.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>. UK Data Service, 1980.</div>
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>, UK Data Service, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS]. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>. Global Change Research Data Publishing &#38; Repository, 2022.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS]. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, Global Change Research Data Publishing &#38; Repository, 2022.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>. Global Health Data Exchange, 2021.</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>, Global Health Data Exchange, 2021.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明，曹迎杰．元宇宙在图书馆的应用：理论研究与实践进展[EB]．ChinaXiv，2023.</div>
@@ -720,7 +720,7 @@
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">党外人士座谈会记录[M]．1950.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮．关于中国学术期刊标准化数据库系统工程的进展[EB]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>．1998.</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮．关于中国学术期刊标准化数据库系统工程的进展[EB]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>, 1998.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">扬之水．两宋茶诗与茶事[EB]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>.</div>
@@ -774,13 +774,13 @@
     <div class="csl-left-margin">[8]</div><div class="csl-right-inline">何海波．判决书上网[N]．法制日报，2000-05-21（2）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">汪波．哈尔滨市政法机关正对“宝马案”认真调查复查[EB]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>．2004.</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">汪波．哈尔滨市政法机关正对“宝马案”认真调查复查[EB]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>, 2004.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[10]</div><div class="csl-right-inline">被告人李宁、张磊贪污案一审开庭[EB]. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵耀彤．一名基层法官眼里好律师的样子[EB]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>．2018.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">赵耀彤．一名基层法官眼里好律师的样子[EB]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[12]</div><div class="csl-right-inline">法国行政法院网站[EB]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
@@ -903,7 +903,7 @@
     <div class="csl-left-margin">[51]</div><div class="csl-right-inline">United States <i>v.</i> Dino Nastasi et al. 3:15-cr-00213-FDW-DCK[M].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">McDonell S. When China began streaming trials online[EB]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>. 2016.</div>
+    <div class="csl-left-margin">[52]</div><div class="csl-right-inline">McDonell S. When China began streaming trials online[EB]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>, 2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[53]</div><div class="csl-right-inline">Chevallier M．L’État de droit[M]．第4版．Paris：Montchrestien，2003.</div>
@@ -1083,7 +1083,7 @@
     <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Hess A. Cats who take direction[N]. The New York Times, 2019-01-03(C1).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Klymkowsky M. Can we talk scientifically about free will?[EB]. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>. 2018.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Klymkowsky M. Can we talk scientifically about free will?[EB]. <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">KS in NJ. From this article, it sounds like men are figuring something out that women have known forever. I know of many[N]. The Washington Post, 2019-01-15.</div>
@@ -1299,7 +1299,7 @@
     <div class="csl-left-margin">[94]</div><div class="csl-right-inline">Yousafzai M. We are displaced: My journey and stories from refugee girls around the world[M]. 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB]. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>. 2018.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB]. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Schur M, dir. Somewhere else[M]. 2018.</div>
@@ -1323,31 +1323,31 @@
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS]. ICPSR, 2018.</div>
+    <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS], ICPSR, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009[DS]. National Archive of Data on Arts and Culture, 2016.</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009[DS], National Archive of Data on Arts and Culture, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Pew Research Center. American trends panel Wave 26[DS]. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>. 2018.</div>
+    <div class="csl-left-margin">[105]</div><div class="csl-right-inline">Pew Research Center. American trends panel Wave 26[DS]. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015.</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS], University of Kentucky, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. Recidivism outcomes[DS]. 2011.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. Recidivism outcomes[DS], 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[CP]. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>. Biostat, 2014.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[CP]. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>, Biostat, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[CP]. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>. 2016.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[CP]. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[CP]. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>. 2015.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[CP]. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP]. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>. App Store, 2019.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP]. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>, App Store, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[EB]. Epocrates medical references. Google Play Store, 2019.</div>
@@ -1359,10 +1359,10 @@
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[EB].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS], PsycTESTS, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 2000.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI)[DS], ETS TestLink, 2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Forman M, dir. One flew over the cuckoo’s nest[M]. United Artists, 1975.</div>
@@ -1467,52 +1467,52 @@
     <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R, Spake G. Citing open source images and formatting references for presentations[EB]. Canvas@FNU, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>. 2018.</div>
+    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB]. <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[152]</div><div class="csl-right-inline">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[EB]. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>. 2018.</div>
+    <div class="csl-left-margin">[152]</div><div class="csl-right-inline">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[EB]. <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">White B. I treasure every minute we spent together #koko [image attached][EB]. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>. 2018.</div>
+    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">White B. I treasure every minute we spent together #koko [image attached][EB]. <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[154]</div><div class="csl-right-inline">APA Style [@APA_Style]. Tweets[EB]. <a href="https://twitter.com/APA_Style">https://twitter.com/APA_Style</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[155]</div><div class="csl-right-inline">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][EB]. <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>. 2018.</div>
+    <div class="csl-left-margin">[155]</div><div class="csl-right-inline">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][EB]. <a href="http://bit.ly/2JQxPAD">http://bit.ly/2JQxPAD</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[156]</div><div class="csl-right-inline">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[EB]. <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>. 2018.</div>
+    <div class="csl-left-margin">[156]</div><div class="csl-right-inline">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[EB]. <a href="http://bit.ly/321Qstq">http://bit.ly/321Qstq</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[EB]. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>. 2018.</div>
+    <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[EB]. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute. Home[EB]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB]. <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>. 2018.</div>
+    <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB]. <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[160]</div><div class="csl-right-inline">The New York Public Library [@nypl]. The raven[EB]. <a href="https://bitly.com/2FV8bu3">https://bitly.com/2FV8bu3</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[161]</div><div class="csl-right-inline">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![EB]. <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>. 2018.</div>
+    <div class="csl-left-margin">[161]</div><div class="csl-right-inline">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![EB]. <a href="https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/">https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[162]</div><div class="csl-right-inline">Avramova N. The secret to a long, happy, health life? Think age-positive[EB]. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>. 2019.</div>
+    <div class="csl-left-margin">[162]</div><div class="csl-right-inline">Avramova N. The secret to a long, happy, health life? Think age-positive[EB]. <a href="https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html">https://www.cnn.com/2019/01/03/health/respect-towards-elderly-leads-to-long-life-intl/index.html</a>, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">Bologna C. What happens to your mind and body when you feel homesick?[EB]. <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>. 2018.</div>
+    <div class="csl-left-margin">[163]</div><div class="csl-right-inline">Bologna C. What happens to your mind and body when you feel homesick?[EB]. <a href="https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1">https://www.huffingtonpost.com/entry/what-happens-mind-body-homesick_us_5b201ebde4b09d7a3d77eee1</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[164]</div><div class="csl-right-inline">Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB]. <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>. 2018.</div>
+    <div class="csl-left-margin">[164]</div><div class="csl-right-inline">Centers for Disease Control and Prevention. People at high risk of developing flu-related complications[EB]. <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[165]</div><div class="csl-right-inline">World Health Organization. Questions and answers on immunization and vaccine safety[EB]. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>. 2018.</div>
+    <div class="csl-left-margin">[165]</div><div class="csl-right-inline">World Health Organization. Questions and answers on immunization and vaccine safety[EB]. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[166]</div><div class="csl-right-inline">Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency[EB]. <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>. 2016.</div>
+    <div class="csl-left-margin">[166]</div><div class="csl-right-inline">Martin Lillie C M. Be kind to yourself: How self-compassion can improve your resiliency[EB]. <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-compassion-can-improve-your-resiliency/art-20267193</a>, 2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[167]</div><div class="csl-right-inline">Boddy J, Neumann T, Jennings S, et al. Ethics principles[EB]. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.</div>

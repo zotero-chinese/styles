@@ -562,8 +562,10 @@
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 4.6 电子资源 -->
-          <text macro="title-en"/>
-          <text macro="publisher-en"/>
+          <group delimiter=", ">
+            <text macro="title-en"/>
+            <text macro="publisher-en"/>
+          </group>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
@@ -611,8 +613,10 @@
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 4.6 电子资源 -->
-          <text macro="title-zh"/>
-          <text macro="publisher-zh"/>
+          <group delimiter=", ">
+            <text macro="title-zh"/>
+            <text macro="publisher-zh"/>
+          </group>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
