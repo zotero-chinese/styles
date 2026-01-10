@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>华北水利水电大学（研究生）</summary>
-    <updated>2026-01-09T15:35:39+08:00</updated>
+    <updated>2026-01-10T15:35:39+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -46,7 +46,7 @@
     </date>
     <terms>
       <term name="citation-range-delimiter">～</term>
-      <term name="page-range-delimiter">～</term>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->
@@ -134,7 +134,7 @@
         </choose>
         <group delimiter="：">
           <text variable="title"/>
-          <group delimiter="&#8195;">
+          <group delimiter=" ">
             <choose>
               <if variable="container-title" type="chapter paper-conference" match="none">
                 <text macro="volume"/>
