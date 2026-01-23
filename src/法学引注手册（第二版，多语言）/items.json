@@ -166,15 +166,15 @@
 				"literal": "莱纳·沃尔夫"
 			}
 		],
-		"translator": [
-			{
-				"literal": "陈霄"
-			},
+		"editor": [
 			{
 				"literal": "刘刚"
 			}
 		],
-		"editor": [
+		"translator": [
+			{
+				"literal": "陈霄"
+			},
 			{
 				"literal": "刘刚"
 			}
@@ -261,7 +261,6 @@
 		"container-title": "人民网",
 		"language": "zh-CN",
 		"title": "全国打击治理农村赌博工作现场会召开",
-		"title-short": "全国打击治理农村赌博工作现场会召开",
 		"URL": "http://society.people.com.cn/n1/2024/1012/c1008-40337761.html",
 		"author": [
 			{
@@ -362,7 +361,10 @@
 		"title": "国务院关于在全国建立农村最低生活保障制度的通知",
 		"URL": "https://www.gov.cn/gongbao/content/2007/content_719880.htm",
 		"accessed": {
-			"date-parts": [["2025", 10, 19]]
+			"date-parts": [["2025", 9, 1]]
+		},
+		"issued": {
+			"date-parts": [["2007", 7, 1]]
 		}
 	},
 	{
@@ -831,7 +833,10 @@
 		"issue": "6",
 		"language": "zh-CN",
 		"note": "nationality: 日",
+		"page": "166-174",
 		"title": "拥挤列车模式：明清时期的社会认识和秩序建构",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=QHFX201006014",
+		"volume": "4",
 		"author": [
 			{
 				"literal": "寺田浩明"
@@ -965,6 +970,7 @@
 		"container-title": "清华学报",
 		"issue": "1",
 		"language": "zh-CN",
+		"page": "71-268",
 		"title": "五德终始说下的政治和历史",
 		"volume": "6",
 		"author": [
@@ -1032,6 +1038,7 @@
 		"ISSN": "1003-1707",
 		"issue": "1",
 		"language": "zh-CN",
+		"page": "63-79",
 		"source": "CNKI",
 		"title": "当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式",
 		"URL": "https://doi.org/10.14111/j.cnki.zgfx.2001.01.006",
@@ -1453,7 +1460,6 @@
 		"publisher": "高等教育出版社；人民出版社",
 		"source": "Douban",
 		"title": "宪法学",
-		"title-short": "宪法学",
 		"URL": "https://book.douban.com/subject/35297915/",
 		"editor": [
 			{
@@ -2119,15 +2125,15 @@
 				"literal": "莱纳·沃尔夫"
 			}
 		],
-		"translator": [
-			{
-				"literal": "陈霄"
-			},
+		"editor": [
 			{
 				"literal": "刘刚"
 			}
 		],
-		"editor": [
+		"translator": [
+			{
+				"literal": "陈霄"
+			},
 			{
 				"literal": "刘刚"
 			}
@@ -2548,7 +2554,6 @@
 		"container-title": "人民网",
 		"language": "zh-CN",
 		"title": "全国打击治理农村赌博工作现场会召开",
-		"title-short": "全国打击治理农村赌博工作现场会召开",
 		"URL": "http://society.people.com.cn/n1/2024/1012/c1008-40337761.html",
 		"author": [
 			{
@@ -2728,14 +2733,14 @@
 		"citation-key": "molc2.60:1",
 		"language": "zh-CN",
 		"publisher-place": "《最高人民法院公报》编辑部",
-		"interviewer": [
-			{
-				"literal": "笔者"
-			}
-		],
 		"author": [
 			{
 				"literal": "xxx"
+			}
+		],
+		"interviewer": [
+			{
+				"literal": "笔者"
 			}
 		],
 		"issued": {
@@ -3156,7 +3161,10 @@
 		"language": "zh-CN",
 		"note": "type: regulation",
 		"number": "国发〔2007〕19号",
-		"title": "国务院关于在全国建立农村最低生活保障制度的通知"
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知",
+		"issued": {
+			"date-parts": [["2007", 7, 1]]
+		}
 	},
 	{
 		"id": "molc2.74:3",
@@ -3165,7 +3173,10 @@
 		"language": "zh-CN",
 		"note": "type: regulation",
 		"number": "国发〔2007〕19号",
-		"title": "国务院关于在全国建立农村最低生活保障制度的通知"
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知",
+		"issued": {
+			"date-parts": [["2007", 7, 1]]
+		}
 	},
 	{
 		"id": "molc2.75:1",
@@ -3174,7 +3185,10 @@
 		"language": "zh-CN",
 		"note": "type: regulation",
 		"number": "国发〔2007〕19号",
-		"title": "国务院关于在全国建立农村最低生活保障制度的通知"
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知",
+		"issued": {
+			"date-parts": [["2007", 7, 1]]
+		}
 	},
 	{
 		"id": "molc2.76:1",

@@ -117,13 +117,13 @@
     <div class="csl-left-margin">〔24〕</div><div class="csl-right-inline">李松锋：《游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究》，中国政法大学2013年博士学位论文。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔25〕</div><div class="csl-right-inline">《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。</div>
+    <div class="csl-left-margin">〔25〕</div><div class="csl-right-inline">《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔26〕</div><div class="csl-right-inline">《民法典》。</div>
+    <div class="csl-left-margin">〔26〕</div><div class="csl-right-inline">《中共中央关于全面推进依法治国若干重大问题的决定》，2014年10月23日中国共产党第十八届中央委员会第四次全体会议通过。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔27〕</div><div class="csl-right-inline">《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>
+    <div class="csl-left-margin">〔27〕</div><div class="csl-right-inline">《民法典》。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔28〕</div><div class="csl-right-inline">Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, Inc., 467 U.S. 837 (1984).</div>
