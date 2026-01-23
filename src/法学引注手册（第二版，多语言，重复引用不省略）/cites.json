@@ -1,0 +1,191 @@
+[
+	[
+		{
+			"id": "molc2.0:1",
+			"locator": "18",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:2",
+			"locator": "73-75",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:3",
+			"locator": "第三章“英美判例法”",
+			"label": "chapter"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:4"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:5",
+			"locator": "91",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:6",
+			"locator": "110",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:7"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:8"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:9"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:10",
+			"locator": "825",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:11"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:12"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:13"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:14"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:15"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:16",
+			"locator": "30",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:17",
+			"locator": "第1224条第1款第2项",
+			"label": "article-locator"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:18",
+			"locator": "第四节",
+			"label": "section"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:19"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:21"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:22"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:23"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:24",
+			"locator": "737-738",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:25",
+			"locator": "10",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:26",
+			"locator": "98-99",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:27"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:28",
+			"locator": "16-29",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:29",
+			"locator": "15 Rn. 19",
+			"label": "section"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:30",
+			"locator": "34",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:31",
+			"locator": "6",
+			"label": "page"
+		}
+	],
+	[
+		{
+			"id": "molc2.0:32",
+			"locator": "50",
+			"label": "page"
+		}
+	]
+]

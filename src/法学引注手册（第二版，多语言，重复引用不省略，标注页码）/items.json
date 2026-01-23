@@ -1,0 +1,3719 @@
+[
+	{
+		"id": "molc2.0:1",
+		"type": "book",
+		"citation-key": "molc2.0:1",
+		"language": "zh-CN",
+		"publisher": "中国法制出版社",
+		"source": "Douban",
+		"title": "美国行政法",
+		"author": [
+			{
+				"literal": "王名扬"
+			}
+		],
+		"issued": {
+			"date-parts": [["1995"]]
+		}
+	},
+	{
+		"id": "molc2.0:2",
+		"type": "book",
+		"citation-key": "molc2.0:2",
+		"edition": "5",
+		"ISBN": "978-7-300-28297-8",
+		"language": "zh-CN",
+		"publisher": "中国人民大学出版社",
+		"source": "Douban",
+		"title": "侵权责任法",
+		"URL": "https://book.douban.com/subject/35189427/",
+		"author": [
+			{
+				"literal": "张新宝"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2020", 8]]
+		}
+	},
+	{
+		"id": "molc2.0:3",
+		"type": "book",
+		"citation-key": "molc2.0:3",
+		"collection-title": "国家哲学社会科学成果文库",
+		"ISBN": "978-7-301-16689-5",
+		"language": "zh-CN",
+		"number-of-pages": "1584",
+		"publisher": "北京大学出版社",
+		"source": "Douban",
+		"title": "英美法原论",
+		"URL": "https://book.douban.com/subject/24750369/",
+		"editor": [
+			{
+				"literal": "高鸿钧"
+			},
+			{
+				"literal": "程汉大"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2013", 1]]
+		}
+	},
+	{
+		"id": "molc2.0:4",
+		"type": "book",
+		"citation-key": "molc2.0:4",
+		"collection-title": "汉译世界学术名著丛书·政治法律社会",
+		"ISBN": "978-7-100-04446-2",
+		"language": "zh-CN",
+		"note": "original-title: The Morality of Law\nnationality: 美",
+		"number-of-pages": "309",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "法律的道德性",
+		"URL": "https://book.douban.com/subject/1442127/",
+		"author": [
+			{
+				"literal": "富勒"
+			}
+		],
+		"translator": [
+			{
+				"literal": "郑戈"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2005", 11]]
+		}
+	},
+	{
+		"id": "molc2.0:5",
+		"type": "article-journal",
+		"citation-key": "molc2.0:5",
+		"container-title": "中国社会科学",
+		"ISSN": "1002-4921",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "83-103",
+		"source": "CNKI",
+		"title": "法律程序的意义——对中国法制建设的另一种思考",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9093&filename=ZSHK199301009",
+		"author": [
+			{
+				"literal": "季卫东"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "molc2.0:6",
+		"type": "chapter",
+		"citation-key": "molc2.0:6",
+		"container-title": "民商法论丛",
+		"ISBN": "978-7-5036-1521-4",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "股份有限公司机关构造中的董事和董事会",
+		"URL": "https://book.douban.com/subject/1324403/",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "王保树"
+			}
+		],
+		"editor": [
+			{
+				"literal": "梁慧星"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1994", 12]]
+		}
+	},
+	{
+		"id": "molc2.0:7",
+		"type": "chapter",
+		"citation-key": "molc2.0:7",
+		"container-title": "风险规制：德国的理论与实践",
+		"ISBN": "978-7-5118-3904-6",
+		"language": "zh-CN",
+		"note": "nationality: 德",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "风险法的风险",
+		"URL": "https://book.douban.com/subject/20327000/",
+		"author": [
+			{
+				"literal": "莱纳·沃尔夫"
+			}
+		],
+		"translator": [
+			{
+				"literal": "陈霄"
+			},
+			{
+				"literal": "刘刚"
+			}
+		],
+		"editor": [
+			{
+				"literal": "刘刚"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2012", 10]]
+		}
+	},
+	{
+		"id": "molc2.0:8",
+		"type": "article-newspaper",
+		"citation-key": "molc2.0:8",
+		"container-title": "法制日报",
+		"language": "zh-CN",
+		"page": "2",
+		"title": "判决书上网",
+		"author": [
+			{
+				"literal": "何海波"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000", 5, 21]]
+		}
+	},
+	{
+		"id": "molc2.0:9",
+		"type": "book",
+		"citation-key": "molc2.0:9",
+		"language": "zh-CN",
+		"note": "type: classic",
+		"title": "论语·述而"
+	},
+	{
+		"id": "molc2.0:10",
+		"type": "book",
+		"citation-key": "molc2.0:10",
+		"ISBN": "978-7-5325-0929-4",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 宋\nvolume-title: 定格令",
+		"number-of-pages": "2156",
+		"publisher": "上海古籍出版社",
+		"source": "Douban",
+		"title": "唐会要",
+		"URL": "https://book.douban.com/subject/2016342/",
+		"volume": "卷三十九",
+		"author": [
+			{
+				"literal": "王溥"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2006", 12]]
+		}
+	},
+	{
+		"id": "molc2.0:11",
+		"type": "book",
+		"citation-key": "molc2.0:11",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 清\nproofreader: 邓经元、骈宇骞点校",
+		"publisher": "中华书局",
+		"source": "Douban",
+		"title": "历代刑法考",
+		"author": [
+			{
+				"literal": "沈家本"
+			}
+		],
+		"issued": {
+			"date-parts": [["1985"]]
+		}
+	},
+	{
+		"id": "molc2.0:12",
+		"type": "webpage",
+		"citation-key": "molc2.0:12",
+		"container-title": "人民网",
+		"language": "zh-CN",
+		"title": "全国打击治理农村赌博工作现场会召开",
+		"title-short": "全国打击治理农村赌博工作现场会召开",
+		"URL": "http://society.people.com.cn/n1/2024/1012/c1008-40337761.html",
+		"author": [
+			{
+				"literal": "梁秋坪"
+			},
+			{
+				"literal": "郝萍"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2024", 10, 12]]
+		}
+	},
+	{
+		"id": "molc2.0:13",
+		"type": "post-weblog",
+		"citation-key": "molc2.0:13",
+		"container-title": "中国法律评论",
+		"genre": "微信公众号",
+		"language": "zh-CN",
+		"title": "失信惩戒立法的三大问题",
+		"URL": "https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw",
+		"author": [
+			{
+				"literal": "刘松山"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2019", 11, 19]]
+		}
+	},
+	{
+		"id": "molc2.0:14",
+		"type": "webpage",
+		"citation-key": "molc2.0:14",
+		"language": "zh-CN",
+		"title": "法国最高行政法院网站",
+		"URL": "https://conseil-etat.fr/zh",
+		"accessed": {
+			"date-parts": [["2024", 10, 8]]
+		}
+	},
+	{
+		"id": "molc2.0:15",
+		"type": "paper-conference",
+		"citation-key": "molc2.0:15",
+		"event-place": "北京",
+		"event-title": "“迈向数据法学”研讨会",
+		"language": "zh-CN",
+		"note": "organizer: 清华大学法学院\norganizer: 社会科学学院\norganizer: 数据科学研究院",
+		"title": "证券监管有偏私吗？",
+		"author": [
+			{
+				"literal": "习超"
+			}
+		],
+		"issued": {
+			"date-parts": [["2017", 12, 23]]
+		}
+	},
+	{
+		"id": "molc2.0:16",
+		"type": "thesis",
+		"citation-key": "molc2.0:16",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "中国政法大学",
+		"title": "游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究",
+		"author": [
+			{
+				"literal": "李松锋"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "molc2.0:17",
+		"type": "legislation",
+		"citation-key": "molc2.0:17",
+		"language": "zh-CN",
+		"title": "民法典"
+	},
+	{
+		"id": "molc2.0:18",
+		"type": "legislation",
+		"citation-key": "molc2.0:18",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "国发〔2007〕19号",
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知",
+		"URL": "https://www.gov.cn/gongbao/content/2007/content_719880.htm",
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		}
+	},
+	{
+		"id": "molc2.0:19",
+		"type": "legislation",
+		"chapter-number": "中国共产党第十八届中央委员会第四次全体会议",
+		"citation-key": "molc2.0:19",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中共中央关于全面推进依法治国若干重大问题的决定",
+		"URL": "https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm",
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2014", 10, 23]]
+		}
+	},
+	{
+		"id": "molc2.0:21",
+		"type": "legal_case",
+		"authority": "浙江省高级人民法院",
+		"citation-key": "molc2.0:21",
+		"language": "zh-CN",
+		"note": "genre: 民事判决书\n法宝引证码: CLI.C.807139",
+		"number": "（1988）浙法民上字7号",
+		"title": "包郑照等诉苍南县人民政府强制拆除房屋案",
+		"URL": "https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html",
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1988", 12, 26]]
+		}
+	},
+	{
+		"id": "molc2.0:22",
+		"type": "legal_case",
+		"authority": "江苏省南通市中级人民法院",
+		"citation-key": "molc2.0:22",
+		"container-title": "最高人民法院公报",
+		"language": "zh-CN",
+		"note": "available-date: 2015\nissue: 11\ngenre: 行政裁定书\n法宝引证码: CLI.C.7997435",
+		"title": "陆红霞诉南通市发展和改革委员会政府信息公开答复案",
+		"URL": "https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html",
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2015", 7, 6]]
+		}
+	},
+	{
+		"id": "molc2.0:23",
+		"type": "legal_case",
+		"authority": "广东省广州市中级人民法院",
+		"citation-key": "molc2.0:23",
+		"language": "zh-CN",
+		"note": "genre: 民事判决书\narchive: 人民法院案例库\narchive_location: 2024-18-2-053-001\n法宝引证码: CLI.C.552823575",
+		"number": "（2022）粤01民终1669号",
+		"title": "车某玲诉朱某芳相邻关系纠纷案",
+		"URL": "https://rmfyalk.court.gov.cn/view/content.html?id=i0t9nuBWsy9a%252BJbQSLENlRBZldhOV6962MiwOtCEa4c%253D&lib=ck",
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2022", 4, 12]]
+		}
+	},
+	{
+		"id": "molc2.0:24",
+		"type": "article-journal",
+		"citation-key": "molc2.0:24",
+		"container-title": "The Yale Law Journal",
+		"DOI": "10.2307/794645",
+		"ISSN": "0044-0094",
+		"issue": "5",
+		"language": "en-US",
+		"page": "733-787",
+		"publisher": "The Yale Law Journal Company, Inc.",
+		"source": "JSTOR",
+		"title": "The new property",
+		"URL": "https://www.jstor.org/stable/794645",
+		"volume": "73",
+		"author": [
+			{
+				"family": "Reich",
+				"given": "Charles A."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1964"]]
+		}
+	},
+	{
+		"id": "molc2.0:25",
+		"type": "article-magazine",
+		"citation-key": "molc2.0:25",
+		"container-title": "Harper's Weekly",
+		"language": "en-US",
+		"page": "10-13",
+		"source": "Internet Archive",
+		"title": "What publicity can do",
+		"URL": "http://archive.org/details/sim_harpers-weekly_harpers-weekly_1913-12-20_58_2974",
+		"author": [
+			{
+				"family": "Brandeis",
+				"given": "Louis D."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1913", 12, 20]]
+		}
+	},
+	{
+		"id": "molc2.0:26",
+		"type": "book",
+		"citation-key": "molc2.0:26",
+		"ISBN": "978-0-8047-2960-4",
+		"language": "en-US",
+		"publisher": "Stanford University Press",
+		"source": "www.sup.org",
+		"title": "To steal a book is an elegant offense: intellectual property law in chinese civilization",
+		"title-short": "To steal a book is an elegant offense",
+		"URL": "https://www.sup.org/books/asian-studies/steal-book-elegant-offense",
+		"author": [
+			{
+				"family": "Alford",
+				"given": "William P."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1995", 3, 1]]
+		}
+	},
+	{
+		"id": "molc2.0:27",
+		"type": "legal_case",
+		"citation-key": "molc2.0:27",
+		"container-title": "U.S.",
+		"language": "en-US",
+		"page": "837",
+		"title": "Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, Inc.",
+		"volume": "467",
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "molc2.0:28",
+		"type": "book",
+		"citation-key": "molc2.0:28",
+		"edition": "4",
+		"ISBN": "978-2-7076-1371-4",
+		"language": "fr-FR",
+		"publisher": "Montchrestien",
+		"publisher-place": "Paris",
+		"source": "Amazon",
+		"title": "L'Etat de droit",
+		"author": [
+			{
+				"family": "Chevallier",
+				"given": "Jacques"
+			}
+		],
+		"issued": {
+			"date-parts": [["2003"]]
+		}
+	},
+	{
+		"id": "molc2.0:29",
+		"type": "book",
+		"citation-key": "molc2.0:29",
+		"edition": "4",
+		"ISBN": "978-3-406-53071-5",
+		"language": "de-DE",
+		"source": "www.isbn.de",
+		"title": "Strafrecht Allgemeiner Teil",
+		"URL": "https://www.isbn.de/buch/9783406530715/strafrecht-allgemeiner-teil-bd-1-grundlagen-aufbau-verbrechenslehre",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Roxin",
+				"given": "Claus"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2005", 12, 12]]
+		}
+	},
+	{
+		"id": "molc2.0:30",
+		"type": "book",
+		"citation-key": "molc2.0:30",
+		"ISBN": "978-88-14-16133-9",
+		"language": "it-IT",
+		"note": "Google-Books-ID: 7rnRMwEACAAJ",
+		"number-of-pages": "416",
+		"publisher": "Giuffrè",
+		"source": "Google Books",
+		"title": "L'offerta reale e la liberazione coattiva del debitore",
+		"author": [
+			{
+				"family": "Falzea",
+				"given": "Angelo"
+			}
+		],
+		"issued": {
+			"date-parts": [["1947"]]
+		}
+	},
+	{
+		"id": "molc2.0:31",
+		"type": "book",
+		"citation-key": "molc2.0:31",
+		"ISBN": "978-5-466-00359-8",
+		"language": "ru-RU",
+		"number-of-pages": "306",
+		"publisher": "Волтерс Клувер Россия",
+		"source": "Google Books",
+		"title": "Европейское корпоративное право",
+		"author": [
+			{
+				"family": "Дубовицкая",
+				"given": "Елена А."
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "molc2.0:32",
+		"type": "book",
+		"citation-key": "molc2.0:32",
+		"language": "ja-JP",
+		"publisher": "有斐閣",
+		"title": "新訂担保物権法（民法講義III）",
+		"title-short": "新訂担保物権法",
+		"author": [
+			{
+				"literal": "我妻栄"
+			}
+		],
+		"issued": {
+			"date-parts": [["1971"]]
+		}
+	},
+	{
+		"id": "molc2.9:1",
+		"type": "book",
+		"citation-key": "molc2.9:1",
+		"language": "zh-CN",
+		"publisher": "中国政法大学出版社",
+		"source": "Douban",
+		"title": "行政法学",
+		"editor": [
+			{
+				"literal": "罗豪才"
+			}
+		],
+		"issued": {
+			"date-parts": [["1989"]]
+		}
+	},
+	{
+		"id": "molc2.9:2",
+		"type": "paper-conference",
+		"citation-key": "molc2.9:2",
+		"container-title": "国际条约与国内法的关系：中德国际条约与国内品关系研讨会论文集",
+		"language": "zh-CN",
+		"publisher": "世界知识出版社",
+		"title": "论国际系约对私人的效力",
+		"author": [
+			{
+				"literal": "车丕照"
+			}
+		],
+		"editor": [
+			{
+				"literal": "朱晓青"
+			},
+			{
+				"literal": "黄列"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "molc2.9:3",
+		"type": "book",
+		"citation-key": "molc2.9:3",
+		"language": "zh-CN",
+		"publisher": "中国政法大学出版社",
+		"source": "Douban",
+		"title": "行政法学",
+		"editor": [
+			{
+				"literal": "罗豪才"
+			}
+		],
+		"issued": {
+			"date-parts": [["1989"]]
+		}
+	},
+	{
+		"id": "molc2.9:4",
+		"type": "book",
+		"citation-key": "molc2.9:4",
+		"language": "zh-CN",
+		"publisher": "中国大百科全书出版社",
+		"source": "Douban",
+		"title": "中国大百科全书·法学",
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "molc2.10:1a",
+		"type": "book",
+		"citation-key": "molc2.10:1a",
+		"ISBN": "978-7-5620-2543-6",
+		"language": "zh-CN",
+		"number-of-pages": "545",
+		"publisher": "中国政法大学出版社",
+		"source": "Douban",
+		"title": "司法改革与行政诉讼制度的完善",
+		"URL": "https://book.douban.com/subject/1620919/",
+		"editor": [
+			{
+				"literal": "马怀德"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2004", 7]]
+		}
+	},
+	{
+		"id": "molc2.10:1b",
+		"type": "book",
+		"citation-key": "molc2.10:1b",
+		"language": "zh-CN",
+		"publisher": "浙江大学出版社",
+		"source": "Douban",
+		"title": "行政诉讼法修改研究",
+		"editor": [
+			{
+				"literal": "胡建淼"
+			}
+		],
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "molc2.10:1c",
+		"type": "book",
+		"citation-key": "molc2.10:1c",
+		"collection-title": "诉讼法学文库",
+		"ISBN": "978-7-81109-647-7",
+		"language": "zh-CN",
+		"number-of-pages": "740",
+		"publisher": "中国人民公安大学出版社",
+		"source": "Douban",
+		"title": "行政诉讼问题研究及制度改革",
+		"URL": "https://book.douban.com/subject/2078027/",
+		"author": [
+			{
+				"literal": "杨小君"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2007", 3]]
+		}
+	},
+	{
+		"id": "molc2.10:1d",
+		"type": "book",
+		"citation-key": "molc2.10:1d",
+		"ISBN": "978-7-302-35940-1",
+		"language": "zh-CN",
+		"publisher": "清华大学出版社",
+		"source": "Douban",
+		"title": "建设法治政府需要司法更给力",
+		"URL": "https://book.douban.com/subject/30538906/",
+		"author": [
+			{
+				"literal": "莫于川主编"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2014"]]
+		}
+	},
+	{
+		"id": "molc2.10:2a",
+		"type": "chapter",
+		"citation-key": "molc2.10:2a",
+		"container-title": "北大法律评论",
+		"language": "zh-CN",
+		"page": "159-203",
+		"publisher": "法律出版社",
+		"source": "CNKI",
+		"title": "制度变迁与法官的规则选择——立足刘燕文案的初步探索",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST1&filename=BDFL200002004",
+		"volume": "第3卷第2辑",
+		"author": [
+			{
+				"literal": "沈岿"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "molc2.10:2b",
+		"type": "article-journal",
+		"citation-key": "molc2.10:2b",
+		"container-title": "Harvard Human Rights Journal",
+		"language": "en-US",
+		"page": "141",
+		"title": "“Courageous Explorers”? Education Litigation and Judicial Innovation in China",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Kellogg",
+				"given": "Thomas E."
+			}
+		],
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "molc2.11.1:1",
+		"type": "article-journal",
+		"citation-key": "molc2.11.1:1",
+		"container-title": "清华法学",
+		"issue": "6",
+		"language": "zh-CN",
+		"note": "nationality: 日",
+		"title": "拥挤列车模式：明清时期的社会认识和秩序建构",
+		"author": [
+			{
+				"literal": "寺田浩明"
+			}
+		],
+		"translator": [
+			{
+				"literal": "阮云星"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "molc2.11.2:1",
+		"type": "legal_case",
+		"citation-key": "molc2.11.2:1",
+		"container-title": "QB",
+		"language": "en-GB",
+		"page": "815",
+		"title": "R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc",
+		"issued": {
+			"date-parts": [["1987"]]
+		}
+	},
+	{
+		"id": "molc2.11.3:1a",
+		"type": "article-journal",
+		"citation-key": "molc2.11.3:1a",
+		"container-title": "American Journal of Political Science",
+		"DOI": "10.2307/2111268",
+		"ISSN": "0092-5853",
+		"issue": "4",
+		"language": "en-US",
+		"page": "689-708",
+		"publisher": "[Midwest Political Science Association, Wiley]",
+		"source": "JSTOR",
+		"title": "The Dynamics of the \"Revolving Door\" on the FCC",
+		"URL": "https://www.jstor.org/stable/2111268",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Cohen",
+				"given": "Jeffrey E."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1986"]]
+		}
+	},
+	{
+		"id": "molc2.11.3:1b",
+		"type": "book",
+		"citation-key": "molc2.11.3:1b",
+		"language": "en-US",
+		"publisher": "Princeton University Press",
+		"source": "JSTOR",
+		"title": "Industry Influence in Federal Regulatory Agencies",
+		"URL": "https://www.jstor.org/stable/j.ctt7zvk5b",
+		"author": [
+			{
+				"family": "Quirk",
+				"given": "Paul J."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "molc2.11.3:2",
+		"type": "article-journal",
+		"citation-key": "molc2.11.3:2",
+		"container-title": "环球法律评论",
+		"ISSN": "1009-6728",
+		"issue": "5",
+		"language": "zh-CN",
+		"page": "5-26",
+		"source": "CNKI",
+		"title": "公民权利论的迷思:历史中国的国人、村民和分配正义",
+		"title-short": "公民权利论的迷思",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=WGFY201705002",
+		"volume": "39",
+		"author": [
+			{
+				"literal": "苏力"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2017"]]
+		}
+	},
+	{
+		"id": "molc2.11.4:1",
+		"type": "article-journal",
+		"citation-key": "molc2.11.4:1",
+		"container-title": "比较法研究",
+		"ISSN": "1004-8561",
+		"issue": "1",
+		"language": "zh-CN",
+		"source": "CNKI",
+		"title": "制度是如何形成的?——关于马歇尔诉麦迪逊案的故事",
+		"title-short": "制度是如何形成的?",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD9899&filename=BJFY801.003",
+		"author": [
+			{
+				"literal": "朱苏力"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "molc2.12:1",
+		"type": "article-journal",
+		"citation-key": "molc2.12:1",
+		"container-title": "清华学报",
+		"issue": "1",
+		"language": "zh-CN",
+		"title": "五德终始说下的政治和历史",
+		"volume": "6",
+		"author": [
+			{
+				"literal": "顾颉刚"
+			}
+		],
+		"issued": {
+			"date-parts": [["1930"]]
+		}
+	},
+	{
+		"id": "molc2.12:2",
+		"type": "book",
+		"citation-key": "molc2.12:2",
+		"language": "zh-CN",
+		"publisher": "商务印书馆天津印刷局",
+		"title": "京师地方审判厅法曹会判牍汇编",
+		"volume": "第一集民事·下编",
+		"editor": [
+			{
+				"literal": "熊元翰"
+			}
+		],
+		"issued": {
+			"date-parts": [["1914"]]
+		}
+	},
+	{
+		"id": "molc2.13.1:1",
+		"type": "book",
+		"citation-key": "molc2.13.1:1",
+		"collection-title": "天下·博观",
+		"ISBN": "978-7-5197-3254-7",
+		"language": "zh-CN",
+		"note": "nationality: 德",
+		"number-of-pages": "90",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "为权利而斗争",
+		"URL": "https://book.douban.com/subject/30487097/",
+		"author": [
+			{
+				"literal": "鲁道夫·冯·耶林"
+			}
+		],
+		"translator": [
+			{
+				"literal": "刘权"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2019", 4, 1]]
+		}
+	},
+	{
+		"id": "molc2.13.1:2",
+		"type": "article-journal",
+		"citation-key": "molc2.13.1:2",
+		"container-title": "中国法学",
+		"DOI": "10.14111/j.cnki.zgfx.2001.01.006",
+		"ISSN": "1003-1707",
+		"issue": "1",
+		"language": "zh-CN",
+		"source": "CNKI",
+		"title": "当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式",
+		"URL": "https://doi.org/10.14111/j.cnki.zgfx.2001.01.006",
+		"author": [
+			{
+				"literal": "张文显"
+			},
+			{
+				"literal": "于宁"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "molc2.13.1:3",
+		"type": "article-journal",
+		"citation-key": "molc2.13.1:3",
+		"container-title": "中国人民大学学报",
+		"ISSN": "1000-5420",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "1",
+		"source": "CNKI",
+		"title": "迈向权利保护的新时代",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=ZRDX202004002",
+		"volume": "34",
+		"author": [
+			{
+				"literal": "王利明"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "molc2.13.1:4",
+		"type": "legal_case",
+		"citation-key": "molc2.13.1:4",
+		"container-title": "QB",
+		"language": "en-GB",
+		"page": "815",
+		"title": "R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc",
+		"issued": {
+			"date-parts": [["1987"]]
+		}
+	},
+	{
+		"id": "molc2.13.2:1",
+		"type": "report",
+		"citation-key": "molc2.13.2:1",
+		"language": "zh-CN",
+		"note": "Event Title: 第十二届全国人大常委会第六次会议",
+		"title": "关于〈中华人民共和国行政诉讼法修正案（草案）〉的说明",
+		"author": [
+			{
+				"literal": "信春鹰"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013", 12, 23]]
+		}
+	},
+	{
+		"id": "molc2.27:1",
+		"type": "book",
+		"citation-key": "molc2.27:1",
+		"ISBN": "978-7-5197-8703-5",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "拉丁语法律用语手册",
+		"URL": "https://book.douban.com/subject/36751957/",
+		"author": [
+			{
+				"literal": "陈卫佐"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2024", 5]]
+		}
+	},
+	{
+		"id": "molc2.27:2",
+		"type": "book",
+		"citation-key": "molc2.27:2",
+		"collection-title": "法典译丛",
+		"edition": "5",
+		"ISBN": "978-7-5197-4893-7",
+		"language": "zh-CN",
+		"number-of-pages": "764",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "德国民法典",
+		"URL": "https://book.douban.com/subject/35272113/",
+		"translator": [
+			{
+				"literal": "陈卫佐"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2020", 11]]
+		}
+	},
+	{
+		"id": "molc2.27:3",
+		"type": "book",
+		"citation-key": "molc2.27:3",
+		"ISBN": "978-7-5036-8537-8",
+		"language": "zh-CN",
+		"number-of-pages": "1028",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "英国2006年公司法",
+		"URL": "https://book.douban.com/subject/3199238/",
+		"translator": [
+			{
+				"literal": "葛伟军"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2008", 8]]
+		}
+	},
+	{
+		"id": "molc2.28:1",
+		"type": "book",
+		"citation-key": "molc2.28:1",
+		"ISBN": "978-7-309-03192-8",
+		"language": "zh-CN",
+		"number-of-pages": "764",
+		"publisher": "复旦大学出版社",
+		"source": "Douban",
+		"title": "刑法学",
+		"URL": "https://book.douban.com/subject/1268931/",
+		"editor": [
+			{
+				"literal": "陈兴良"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2003", 8]]
+		}
+	},
+	{
+		"id": "molc2.28:2",
+		"type": "book",
+		"citation-key": "molc2.28:2",
+		"collection-title": "中华人民共和国法律注释书系列",
+		"edition": "2",
+		"ISBN": "978-7-5162-2568-4",
+		"language": "zh-CN",
+		"number-of-pages": "1220",
+		"publisher": "中国民主法制出版社",
+		"source": "Douban",
+		"title": "刑法注释书",
+		"URL": "https://book.douban.com/subject/35433946/",
+		"editor": [
+			{
+				"literal": "何帆"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2021", 4, 1]]
+		}
+	},
+	{
+		"id": "molc2.29:1",
+		"type": "book",
+		"citation-key": "molc2.29:1",
+		"collection-title": "汉译世界学术名著丛书·政治法律社会",
+		"ISBN": "978-7-100-04446-2",
+		"language": "zh-CN",
+		"note": "nationality: 美",
+		"number-of-pages": "309",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "法律的道德性",
+		"URL": "https://book.douban.com/subject/1442127/",
+		"author": [
+			{
+				"literal": "富勒"
+			}
+		],
+		"translator": [
+			{
+				"literal": "郑戈"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2005", 11]]
+		}
+	},
+	{
+		"id": "molc2.29:2",
+		"type": "article-journal",
+		"citation-key": "molc2.29:2",
+		"container-title": "清华法学",
+		"ISSN": "1673-9280",
+		"issue": "6",
+		"language": "zh-CN",
+		"note": "nationality: 日",
+		"page": "166-174",
+		"source": "CNKI",
+		"title": "拥挤列车模式：明清时期的社会认识和秩序建构",
+		"title-short": "拥挤列车模式",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2010&filename=QHFX201006014",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "寺田浩明"
+			}
+		],
+		"translator": [
+			{
+				"literal": "阮云星"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "molc2.29:3",
+		"type": "book",
+		"citation-key": "molc2.29:3",
+		"collection-title": "法学精义",
+		"ISBN": "978-7-302-49810-0",
+		"language": "zh-CN",
+		"note": "nationality: 英",
+		"number-of-pages": "366",
+		"publisher": "清华大学出版社",
+		"source": "Douban",
+		"title": "规制、治理与法律：前沿问题研究",
+		"title-short": "规制、治理与法律",
+		"URL": "https://book.douban.com/subject/30153080/",
+		"author": [
+			{
+				"literal": "科林·斯科特"
+			}
+		],
+		"translator": [
+			{
+				"literal": "安永康"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2018", 3]]
+		}
+	},
+	{
+		"id": "molc2.30:1",
+		"type": "book",
+		"citation-key": "molc2.30:1",
+		"ISBN": "978-7-5118-0857-8",
+		"language": "zh-CN",
+		"number-of-pages": "497",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "沉浮与枯荣：八十自述",
+		"title-short": "沉浮与枯荣",
+		"URL": "https://book.douban.com/subject/5269145/",
+		"author": [
+			{
+				"literal": "江平"
+			},
+			{
+				"literal": "陈夏红"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2010", 9]]
+		}
+	},
+	{
+		"id": "molc2.30:2",
+		"type": "article-journal",
+		"citation-key": "molc2.30:2",
+		"container-title": "学术月刊",
+		"DOI": "10.19862/j.cnki.xsyk.2020.03.015",
+		"ISSN": "0439-8041",
+		"issue": "3",
+		"language": "zh-CN",
+		"page": "179-184",
+		"source": "CNKI",
+		"title": "基于中国经验的学术创造——苏力教授访谈",
+		"URL": "https://doi.org/10.19862/j.cnki.xsyk.2020.03.015",
+		"volume": "52",
+		"author": [
+			{
+				"literal": "苏力"
+			},
+			{
+				"literal": "于明"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "molc2.31:1",
+		"type": "book",
+		"citation-key": "molc2.31:1",
+		"language": "zh-CN",
+		"note": "dynasty: 清",
+		"publisher": "中华书局",
+		"source": "Douban",
+		"title": "历代刑法考",
+		"author": [
+			{
+				"literal": "沈家本"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "邓经元"
+			},
+			{
+				"literal": "骈宇骞"
+			}
+		],
+		"issued": {
+			"date-parts": [["1985"]]
+		}
+	},
+	{
+		"id": "molc2.31:2",
+		"type": "book",
+		"citation-key": "molc2.31:2",
+		"ISBN": "978-7-80107-974-9",
+		"language": "zh-CN",
+		"number-of-pages": "267",
+		"publisher": "中国方正出版社",
+		"source": "Douban",
+		"title": "行政法总论",
+		"URL": "https://book.douban.com/subject/1390766/",
+		"author": [
+			{
+				"literal": "范扬"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2005", 4]]
+		}
+	},
+	{
+		"id": "molc2.32:1",
+		"type": "book",
+		"citation-key": "molc2.32:1",
+		"ISBN": "978-7-5118-7219-7",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "行政诉讼法立法背景与观点全集",
+		"URL": "https://book.douban.com/subject/30521008/",
+		"editor": [
+			{
+				"literal": "全国人大常委会法制工作委员会行政法室"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2015"]]
+		}
+	},
+	{
+		"id": "molc2.32:2",
+		"type": "book",
+		"citation-key": "molc2.32:2",
+		"collection-title": "马克思主义理论研究和建设工程重点教材",
+		"edition": "2",
+		"ISBN": "978-7-04-052621-9",
+		"language": "zh-CN",
+		"number-of-pages": "372",
+		"publisher": "高等教育出版社；人民出版社",
+		"source": "Douban",
+		"title": "宪法学",
+		"title-short": "宪法学",
+		"URL": "https://book.douban.com/subject/35297915/",
+		"editor": [
+			{
+				"literal": "《宪法学》编写组"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["2020", 12]]
+		}
+	},
+	{
+		"id": "molc2.32:3",
+		"type": "article-journal",
+		"citation-key": "molc2.32:3",
+		"container-title": "中国法学",
+		"DOI": "10.14111/j.cnki.zgfx.1988.06.002",
+		"ISSN": "1003-1707",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "11-20",
+		"source": "CNKI",
+		"title": "行政诉讼立法要论",
+		"URL": "https://doi.org/10.14111/j.cnki.zgfx.1988.06.002",
+		"author": [
+			{
+				"literal": "韦宗"
+			},
+			{
+				"literal": "阿江"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 19]]
+		},
+		"issued": {
+			"date-parts": [["1988"]]
+		}
+	},
+	{
+		"id": "molc2.33:1",
+		"type": "book",
+		"citation-key": "molc2.33:1",
+		"collection-title": "公法名著译丛",
+		"language": "zh-CN",
+		"note": "nationality: 德",
+		"number-of-pages": "530",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "行政法",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "汉斯·J. 沃尔夫"
+			},
+			{
+				"literal": "奥托·巴霍夫"
+			},
+			{
+				"literal": "罗尔夫·施托贝尔"
+			}
+		],
+		"translator": [
+			{
+				"literal": "高家伟"
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "molc2.33:2",
+		"type": "book",
+		"citation-key": "molc2.33:2",
+		"collection-title": "独角兽法学精品·人工智能",
+		"ISBN": "978-7-208-15357-8",
+		"language": "zh-CN",
+		"number-of-pages": "404",
+		"publisher": "上海人民出版社",
+		"source": "Douban",
+		"title": "人工智能与法律的对话",
+		"URL": "https://book.douban.com/subject/30276248/",
+		"editor": [
+			{
+				"literal": "［美］瑞恩·卡洛"
+			},
+			{
+				"literal": "迈克尔·弗兰金"
+			},
+			{
+				"literal": "［加］伊恩·克尔"
+			}
+		],
+		"translator": [
+			{
+				"literal": "陈吉栋"
+			},
+			{
+				"literal": "董慧敏"
+			},
+			{
+				"literal": "杭颖颖"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 20]]
+		},
+		"issued": {
+			"date-parts": [["2018", 8, 1]]
+		}
+	},
+	{
+		"id": "molc2.33:3",
+		"type": "book",
+		"citation-key": "molc2.33:3",
+		"ISBN": "978-7-5201-4904-4",
+		"language": "zh-CN",
+		"note": "Google-Books-ID: px1nEAAAQBAJ",
+		"number-of-pages": "328",
+		"publisher": "社会科学文献出版社",
+		"source": "Google Books",
+		"title": "法制改革与法治发展",
+		"editor": [
+			{
+				"literal": "陈甦"
+			},
+			{
+				"literal": "［芬兰］尤拉·柳库恩"
+			}
+		],
+		"issued": {
+			"date-parts": [["2019", 6, 1]]
+		}
+	},
+	{
+		"id": "molc2.33:4",
+		"type": "book",
+		"citation-key": "molc2.33:4",
+		"collection-title": "汉译世界学术名著丛书·政治法律社会",
+		"ISBN": "978-7-100-09454-2",
+		"language": "zh-CN",
+		"note": "nationality: 法",
+		"number-of-pages": "238",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "公法的变迁",
+		"URL": "https://book.douban.com/subject/24701861/",
+		"author": [
+			{
+				"literal": "狄骥"
+			}
+		],
+		"translator": [
+			{
+				"literal": "郑戈"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 20]]
+		},
+		"issued": {
+			"date-parts": [["2013", 3]]
+		}
+	},
+	{
+		"id": "molc2.33:5",
+		"type": "book",
+		"citation-key": "molc2.33:5",
+		"collection-title": "民国西学要籍汉译文献",
+		"ISBN": "978-7-5520-1783-0",
+		"language": "zh-CN",
+		"note": "nationality: 法\noriginal-author: L. Duguit",
+		"number-of-pages": "198",
+		"publisher": "上海社会科学院出版社",
+		"source": "Douban",
+		"title": "公法要义",
+		"URL": "https://book.douban.com/subject/27062395/",
+		"author": [
+			{
+				"literal": "勒翁狄几"
+			}
+		],
+		"translator": [
+			{
+				"literal": "杨肇熉"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 20]]
+		},
+		"issued": {
+			"date-parts": [["2017", 4]]
+		}
+	},
+	{
+		"id": "molc2.33:6",
+		"type": "book",
+		"citation-key": "molc2.33:6",
+		"language": "zh-CN",
+		"note": "nationality: 美",
+		"author": [
+			{
+				"literal": "理查德·J. 皮尔斯"
+			}
+		]
+	},
+	{
+		"id": "molc2.34:1",
+		"type": "book",
+		"citation-key": "molc2.34:1",
+		"language": "zh-CN",
+		"note": "dynasty: 清",
+		"publisher": "中华书局",
+		"source": "Douban",
+		"title": "历代刑法考",
+		"author": [
+			{
+				"literal": "沈家本"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "邓经元"
+			},
+			{
+				"literal": "骈宇骞"
+			}
+		],
+		"issued": {
+			"date-parts": [["1985"]]
+		}
+	},
+	{
+		"id": "molc2.35:1",
+		"type": "article-journal",
+		"citation-key": "molc2.35:1",
+		"container-title": "中国法学",
+		"DOI": "10.14111/j.cnki.zgfx.1993.01.010",
+		"ISSN": "1003-1707",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "52-59",
+		"source": "CNKI",
+		"title": "现代行政法的理论基础——论行政机关与相对一方的权利义务平衡",
+		"URL": "https://doi.org/10.14111/j.cnki.zgfx.1993.01.010",
+		"author": [
+			{
+				"literal": "罗豪才"
+			},
+			{
+				"literal": "袁曙宏"
+			},
+			{
+				"literal": "李文栋"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 20]]
+		},
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "molc2.35:2",
+		"type": "book",
+		"citation-key": "molc2.35:2",
+		"collection-title": "二十世纪中华法学文丛",
+		"ISBN": "978-7-5620-2576-4",
+		"language": "zh-CN",
+		"number-of-pages": "1159",
+		"publisher": "中国政法大学出版社",
+		"source": "Douban",
+		"title": "近代中国宪政历程：史料荟萃",
+		"title-short": "近代中国宪政历程",
+		"URL": "https://book.douban.com/subject/1663375/",
+		"author": [
+			{
+				"literal": "夏新华"
+			},
+			{
+				"literal": "胡旭晟"
+			},
+			{
+				"literal": "刘鄂"
+			},
+			{
+				"literal": "甘正气"
+			},
+			{
+				"literal": "万利容"
+			},
+			{
+				"literal": "刘姗姗"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 20]]
+		},
+		"issued": {
+			"date-parts": [["2004", 12, 1]]
+		}
+	},
+	{
+		"id": "molc2.36.2:1",
+		"type": "book",
+		"citation-key": "molc2.36.2:1",
+		"language": "zh-CN",
+		"publisher": "中国大百科全书出版社",
+		"title": "中国大百科全书·法学",
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "molc2.36.4:1",
+		"type": "chapter",
+		"citation-key": "molc2.36.4:1",
+		"container-title": "邓小平文选",
+		"edition": "2",
+		"ISBN": "978-7-01-002069-3",
+		"language": "zh-CN",
+		"publisher": "人民出版社",
+		"source": "Douban",
+		"title": "精简机构是一场革命",
+		"URL": "https://book.douban.com/subject/1088061/",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "邓小平"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["1994", 10]]
+		}
+	},
+	{
+		"id": "molc2.37:1",
+		"type": "article-journal",
+		"citation-key": "molc2.37:1",
+		"language": "zh-CN",
+		"title": "执行难，难于上青天？"
+	},
+	{
+		"id": "molc2.37:2",
+		"type": "article-journal",
+		"citation-key": "molc2.37:2",
+		"language": "zh-CN",
+		"title": "行政诉讼证据规则：原理与规范"
+	},
+	{
+		"id": "molc2.37:3",
+		"type": "article-journal",
+		"citation-key": "molc2.37:3",
+		"language": "zh-CN",
+		"title": "何以合法？——对“二奶继承案”的追问"
+	},
+	{
+		"id": "molc2.38:1",
+		"type": "article-newspaper",
+		"citation-key": "molc2.38:1",
+		"language": "zh-CN",
+		"title": "陕西国土厅否决法院判决 施压最高院要求改判"
+	},
+	{
+		"id": "molc2.38:2",
+		"type": "article-newspaper",
+		"citation-key": "molc2.38:2",
+		"language": "zh-CN",
+		"title": "抓实抓好公正与效率 为大局服务为人民司法"
+	},
+	{
+		"id": "molc2.39.1:1",
+		"type": "book",
+		"citation-key": "molc2.39.1:1",
+		"language": "zh-CN",
+		"note": "nationality: 美",
+		"title": "通过法律的社会控制 法律的任务",
+		"author": [
+			{
+				"literal": "罗·庞德"
+			}
+		]
+	},
+	{
+		"id": "molc2.39.2:1",
+		"type": "book",
+		"citation-key": "molc2.39.2:1",
+		"language": "zh-CN",
+		"title": "中国大百科全书·法学"
+	},
+	{
+		"id": "molc2.39.2:2",
+		"type": "book",
+		"citation-key": "molc2.39.2:2",
+		"language": "zh-CN",
+		"note": "nationality: 日",
+		"title": "行政法II：行政救济法",
+		"author": [
+			{
+				"literal": "盐野宏"
+			}
+		]
+	},
+	{
+		"id": "molc2.39.3:1",
+		"type": "book",
+		"citation-key": "molc2.39.3:1",
+		"edition": "2",
+		"language": "zh-CN",
+		"title": "邓小平文选",
+		"volume": "2"
+	},
+	{
+		"id": "molc2.39.3:2",
+		"type": "book",
+		"citation-key": "molc2.39.3:2",
+		"language": "zh-CN",
+		"title": "民商法论丛",
+		"volume": "61"
+	},
+	{
+		"id": "molc2.39.4:1",
+		"type": "book",
+		"citation-key": "molc2.39.4:1",
+		"edition": "8",
+		"language": "zh-CN",
+		"title": "奥本海国际法",
+		"volume": "上卷第1分册"
+	},
+	{
+		"id": "molc2.39.5:1",
+		"type": "book",
+		"citation-key": "molc2.39.5:1",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 宋\nvolume-title: 定格令",
+		"publisher": "上海古籍出版社",
+		"title": "唐会要",
+		"volume": "卷三十九",
+		"author": [
+			{
+				"literal": "王溥"
+			}
+		],
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "molc2.40.2:1",
+		"type": "book",
+		"citation-key": "molc2.40.2:1",
+		"ISBN": "978-7-300-07190-9",
+		"language": "zh-CN",
+		"number-of-pages": "379",
+		"publisher": "中国人民大学出版社",
+		"source": "Douban",
+		"title": "侵权责任法",
+		"URL": "https://book.douban.com/subject/1800002/",
+		"author": [
+			{
+				"literal": "张新宝"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["2006", 4]]
+		}
+	},
+	{
+		"id": "molc2.40.2:2",
+		"type": "book",
+		"citation-key": "molc2.40.2:2",
+		"edition": "5",
+		"ISBN": "978-7-300-28297-8",
+		"language": "zh-CN",
+		"publisher": "中国人民大学出版社",
+		"source": "Douban",
+		"title": "侵权责任法",
+		"URL": "https://book.douban.com/subject/35189427/",
+		"author": [
+			{
+				"literal": "张新宝"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["2020", 8]]
+		}
+	},
+	{
+		"id": "molc2.40.3:1",
+		"type": "book",
+		"citation-key": "molc2.40.3:1",
+		"edition": "5",
+		"ISBN": "978-7-300-21880-9",
+		"language": "zh-CN",
+		"note": "nationality: 美",
+		"number-of-pages": "1718",
+		"publisher": "中国人民大学出版社",
+		"source": "Douban",
+		"title": "行政法",
+		"URL": "https://book.douban.com/subject/26835794/",
+		"author": [
+			{
+				"literal": "理查德·J. 皮尔斯"
+			}
+		],
+		"translator": [
+			{
+				"literal": "苏苗罕"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["2016", 4, 1]]
+		}
+	},
+	{
+		"id": "molc2.40.3:2",
+		"type": "book",
+		"citation-key": "molc2.40.3:2",
+		"edition": "8",
+		"language": "zh-CN",
+		"note": "nationality: 英",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "奥本海国际法",
+		"volume": "上卷第1分册",
+		"author": [
+			{
+				"literal": "劳特派特"
+			}
+		],
+		"translator": [
+			{
+				"literal": "王铁崖"
+			},
+			{
+				"literal": "陈体强"
+			}
+		],
+		"issued": {
+			"date-parts": [["1971"]]
+		}
+	},
+	{
+		"id": "molc2.40.4:1",
+		"type": "book",
+		"citation-key": "molc2.40.4:1",
+		"language": "zh-CN",
+		"publisher": "中国法制出版社",
+		"source": "Douban",
+		"title": "美国行政法",
+		"author": [
+			{
+				"literal": "王名扬"
+			}
+		],
+		"issued": {
+			"date-parts": [["1995"]]
+		}
+	},
+	{
+		"id": "molc2.40.4:2",
+		"type": "book",
+		"citation-key": "molc2.40.4:2",
+		"ISBN": "978-7-301-22095-5",
+		"language": "zh-CN",
+		"number-of-pages": "1704",
+		"publisher": "北京大学出版社",
+		"source": "Douban",
+		"title": "美国行政法",
+		"URL": "https://book.douban.com/subject/26946117/",
+		"author": [
+			{
+				"literal": "王名扬"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["2016", 3, 30]]
+		}
+	},
+	{
+		"id": "molc2.41:1",
+		"type": "book",
+		"citation-key": "molc2.41:1",
+		"collection-title": "面向21世纪课程教材（法学类）",
+		"edition": "8",
+		"ISBN": "978-7-301-32001-3",
+		"language": "zh-CN",
+		"number-of-pages": "879",
+		"publisher": "北京大学出版社、高等教育出版社",
+		"source": "Douban",
+		"title": "民法",
+		"URL": "https://book.douban.com/subject/35408846/",
+		"editor": [
+			{
+				"literal": "魏振瀛"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["2021", 3]]
+		}
+	},
+	{
+		"id": "molc2.42:1",
+		"type": "paper-conference",
+		"citation-key": "molc2.42:1",
+		"container-title": "国际条约与国内法的关系：中德国际条约与国内法关系研讨会论文集",
+		"language": "zh-CN",
+		"publisher": "世界知识出版社",
+		"title": "论国际条约对私人的效力",
+		"author": [
+			{
+				"literal": "车丕照"
+			}
+		],
+		"editor": [
+			{
+				"literal": "朱晓青"
+			},
+			{
+				"literal": "黄列"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "molc2.42:2",
+		"type": "chapter",
+		"citation-key": "molc2.42:2",
+		"container-title": "风险规制：德国的理论与实践",
+		"ISBN": "978-7-5118-3904-6",
+		"language": "zh-CN",
+		"note": "nationality: 德",
+		"publisher": "法律出版社",
+		"source": "Douban",
+		"title": "风险法的风险",
+		"URL": "https://book.douban.com/subject/20327000/",
+		"author": [
+			{
+				"literal": "莱纳·沃尔夫"
+			}
+		],
+		"translator": [
+			{
+				"literal": "陈霄"
+			},
+			{
+				"literal": "刘刚"
+			}
+		],
+		"editor": [
+			{
+				"literal": "刘刚"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 10, 31]]
+		},
+		"issued": {
+			"date-parts": [["2012", 10]]
+		}
+	},
+	{
+		"id": "molc2.43.1:1",
+		"type": "article-journal",
+		"citation-key": "molc2.43.1:1",
+		"issue": "4",
+		"language": "zh-CN",
+		"title": "清华大学学报（哲学社会科学版）",
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "molc2.44:1",
+		"type": "chapter",
+		"citation-key": "molc2.44:1",
+		"container-title": "民商法论丛",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"volume": "1",
+		"editor": [
+			{
+				"literal": "梁慧星"
+			}
+		],
+		"issued": {
+			"date-parts": [["1994"]]
+		}
+	},
+	{
+		"id": "molc2.44:2",
+		"type": "chapter",
+		"citation-key": "molc2.44:2",
+		"container-title": "北大法律评论",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"volume": "第4卷第2辑",
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "molc2.45:1",
+		"type": "article-newspaper",
+		"citation-key": "molc2.45:1",
+		"container-title": "法制日报",
+		"language": "zh-CN",
+		"page": "2",
+		"title": "判决书上网",
+		"author": [
+			{
+				"literal": "何海波"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000", 5, 21]]
+		}
+	},
+	{
+		"id": "molc2.45:2",
+		"type": "article-magazine",
+		"citation-key": "molc2.45:2",
+		"container-title": "财经",
+		"issue": "13",
+		"language": "zh-CN",
+		"title": "邓玉娇案尘埃落定",
+		"author": [
+			{
+				"literal": "王和岩"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009", 6, 22]]
+		}
+	},
+	{
+		"id": "molc2.46:1",
+		"type": "book",
+		"citation-key": "molc2.46:1",
+		"edition": "活字本（江氏聚珍板印）",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 清",
+		"publisher": "苏州江氏文学山房",
+		"title": "古今伪书考",
+		"author": [
+			{
+				"literal": "姚际恒"
+			}
+		],
+		"issued": {
+			"date-parts": [["1924"]]
+		}
+	},
+	{
+		"id": "molc2.46:2",
+		"type": "book",
+		"citation-key": "molc2.46:2",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 清",
+		"publisher": "朴社",
+		"title": "古今伪书考",
+		"author": [
+			{
+				"literal": "姚际恒"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "顾颉刚校点"
+			}
+		],
+		"issued": {
+			"date-parts": [["1933"]]
+		}
+	},
+	{
+		"id": "molc2.46:3",
+		"type": "book",
+		"citation-key": "molc2.46:3",
+		"edition": "影印本",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 宋",
+		"publisher": "中华书局",
+		"title": "太平御览",
+		"volume": "卷六九〇",
+		"author": [
+			{
+				"literal": "李昉"
+			}
+		],
+		"issued": {
+			"date-parts": [["1960"]]
+		}
+	},
+	{
+		"id": "molc2.46:4",
+		"type": "book",
+		"citation-key": "molc2.46:4",
+		"language": "zh-CN",
+		"title": "论语·述而"
+	},
+	{
+		"id": "molc2.47:1",
+		"type": "book",
+		"citation-key": "molc2.47:1",
+		"language": "zh-CN",
+		"publisher": "元照出版有限公司",
+		"title": "行政法",
+		"volume": "上",
+		"editor": [
+			{
+				"literal": "翁岳生"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "molc2.47:2",
+		"type": "book",
+		"citation-key": "molc2.47:2",
+		"edition": "修订自版",
+		"language": "zh-CN",
+		"title": "民法总则",
+		"author": [
+			{
+				"literal": "王泽鉴"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "molc2.47:3",
+		"type": "article-journal",
+		"citation-key": "molc2.47:3",
+		"container-title": "台大法学论丛",
+		"issue": "4",
+		"language": "zh-CN",
+		"volume": "47",
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "molc2.47:4",
+		"type": "article-journal",
+		"citation-key": "molc2.47:4",
+		"container-title": "政大法学评论",
+		"issue": "132",
+		"language": "zh-CN",
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "molc2.48.1:1",
+		"type": "book",
+		"citation-key": "molc2.48.1:1",
+		"language": "zh-CN",
+		"publisher": "新星出版社",
+		"title": "清代地方政府",
+		"author": [
+			{
+				"literal": "瞿同祖"
+			}
+		],
+		"translator": [
+			{
+				"literal": "范忠信"
+			},
+			{
+				"literal": "何鹏"
+			},
+			{
+				"literal": "晏锋"
+			}
+		],
+		"issued": {
+			"date-parts": [["2022"]]
+		}
+	},
+	{
+		"id": "molc2.48.1:2",
+		"type": "article-journal",
+		"citation-key": "molc2.48.1:2",
+		"container-title": "中国法学",
+		"DOI": "10.14111/j.cnki.zgfx.2006.01.013",
+		"ISSN": "1003-1707",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "144-164",
+		"source": "CNKI",
+		"title": "知识产权法官造法批判",
+		"URL": "https://doi.org/10.14111/j.cnki.zgfx.2006.01.013",
+		"author": [
+			{
+				"literal": "崔国斌"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "molc2.48.1:3a",
+		"type": "book",
+		"citation-key": "molc2.48.1:3a",
+		"language": "zh-CN",
+		"publisher": "中国政法大学出版社",
+		"title": "清代州县衙门审判制度",
+		"author": [
+			{
+				"literal": "那思陆"
+			}
+		],
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "molc2.48.1:3b",
+		"type": "book",
+		"citation-key": "molc2.48.1:3b",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"title": "晚清州县诉讼中的审断问题：侧重四川南部县的实暇",
+		"author": [
+			{
+				"literal": "里赞"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "molc2.48.1:3c",
+		"type": "chapter",
+		"citation-key": "molc2.48.1:3c",
+		"container-title": "中国诉讼社会史研究",
+		"language": "zh-CN",
+		"publisher": "浙江大学出版社",
+		"title": "传统中国行政诉讼的一个场景：民告官",
+		"author": [
+			{
+				"literal": "伍跃"
+			}
+		],
+		"editor": [
+			{
+				"literal": "［日］夫马进"
+			},
+			{
+				"literal": "范愉"
+			},
+			{
+				"literal": "赵晶"
+			}
+		],
+		"issued": {
+			"date-parts": [["2019"]]
+		}
+	},
+	{
+		"id": "molc2.48.2:1",
+		"type": "book",
+		"citation-key": "molc2.48.2:1",
+		"edition": "活字本（江氏聚珍板印）",
+		"language": "zh-CN",
+		"note": "type: classic\ndynasty: 清",
+		"publisher": "苏州江氏文学山房",
+		"title": "古今伪书考",
+		"volume": "卷三",
+		"author": [
+			{
+				"literal": "姚际恒"
+			}
+		],
+		"issued": {
+			"date-parts": [["1924"]]
+		}
+	},
+	{
+		"id": "molc2.48.3:1",
+		"type": "book",
+		"citation-key": "molc2.48.3:1",
+		"language": "zh-CN",
+		"note": "nationality: 德",
+		"publisher": "法律出版社",
+		"title": "行政法学总论",
+		"author": [
+			{
+				"literal": "哈特穆特·毛雷尔"
+			}
+		],
+		"translator": [
+			{
+				"literal": "高家伟"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "molc2.48.4:1",
+		"type": "book",
+		"citation-key": "molc2.48.4:1",
+		"language": "zh-CN",
+		"publisher": "中国大百科全书出版社",
+		"title": "中国大百科全书·法学",
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "molc2.49:1",
+		"type": "book",
+		"citation-key": "molc2.49:1",
+		"language": "zh-CN",
+		"title": "论语·述而"
+	},
+	{
+		"id": "molc2.49:2",
+		"type": "book",
+		"citation-key": "molc2.49:2",
+		"language": "zh-CN",
+		"title": "圣经·出埃及记"
+	},
+	{
+		"id": "molc2.49:3",
+		"type": "book",
+		"citation-key": "molc2.49:3",
+		"language": "zh-CN",
+		"note": "type: classic\nvolume-title: 户部五·田宅·家财",
+		"title": "元典章",
+		"volume": "卷一九"
+	},
+	{
+		"id": "molc2.49:4",
+		"type": "book",
+		"citation-key": "molc2.49:4",
+		"language": "zh-CN",
+		"publisher": "北京大学出版社",
+		"title": "英美法原论",
+		"editor": [
+			{
+				"literal": "高鸿钧"
+			},
+			{
+				"literal": "程汉大"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "molc2.51:1",
+		"type": "webpage",
+		"citation-key": "molc2.51:1",
+		"container-title": "人民网",
+		"language": "zh-CN",
+		"title": "全国打击治理农村赌博工作现场会召开",
+		"title-short": "全国打击治理农村赌博工作现场会召开",
+		"URL": "http://society.people.com.cn/n1/2024/1012/c1008-40337761.html",
+		"author": [
+			{
+				"literal": "梁秋坪"
+			},
+			{
+				"literal": "郝萍"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2024", 10, 12]]
+		}
+	},
+	{
+		"id": "molc2.52:1",
+		"type": "webpage",
+		"citation-key": "molc2.52:1",
+		"container-title": "新华网",
+		"language": "zh-CN",
+		"title": "被告人李宁、张磊贪污案一审开庭",
+		"URL": "http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm",
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2019", 12, 31]]
+		}
+	},
+	{
+		"id": "molc2.53:1",
+		"type": "webpage",
+		"citation-key": "molc2.53:1",
+		"container-title": "财新网",
+		"language": "zh-CN",
+		"title": "镇坪强制引产事件终结 当事人获七万余元补助",
+		"URL": "https://china.caixin.com/2012-07-11/100409832.html",
+		"author": [
+			{
+				"literal": "任重远"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2012", 7, 11]]
+		}
+	},
+	{
+		"id": "molc2.53:2",
+		"type": "webpage",
+		"citation-key": "molc2.53:2",
+		"container-title": "财新网",
+		"language": "zh-CN",
+		"title": "镇坪强制引产事件终结 当事人获七万余元补助",
+		"URL": "https://china.caixin.com/2012-07-11/100409832.html",
+		"author": [
+			{
+				"literal": "任重远"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		}
+	},
+	{
+		"id": "molc2.54:1",
+		"type": "webpage",
+		"citation-key": "molc2.54:1",
+		"language": "zh-CN",
+		"title": "法国最高行政法院网站",
+		"URL": "https://conseil-etat.fr/zh",
+		"accessed": {
+			"date-parts": [["2024", 10, 8]]
+		}
+	},
+	{
+		"id": "molc2.54:2",
+		"type": "webpage",
+		"citation-key": "molc2.54:2",
+		"language": "zh-CN",
+		"title": "中国人大网“已结束的征求意见”栏目",
+		"URL": "http://www.npc.gov.cn/flcaw/more.html",
+		"accessed": {
+			"date-parts": [["2020", 2, 28]]
+		}
+	},
+	{
+		"id": "molc2.56.1:1",
+		"type": "post-weblog",
+		"citation-key": "molc2.56.1:1",
+		"container-title": "科学网博客",
+		"language": "zh-CN",
+		"title": "再说博客文章被正式引用",
+		"URL": "https://blog.sciencenet.cn/blog-111883-550928.html",
+		"author": [
+			{
+				"literal": "黄晓磊"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2012", 3, 23]]
+		}
+	},
+	{
+		"id": "molc2.56.2:1",
+		"type": "post-weblog",
+		"citation-key": "molc2.56.2:1",
+		"language": "zh-CN",
+		"URL": "https://weibo.com/1139098205/4466768535861595",
+		"author": [
+			{
+				"literal": "新浪微博 xiaolwl"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020", 1, 31]]
+		}
+	},
+	{
+		"id": "molc2.56.3:1",
+		"type": "post-weblog",
+		"citation-key": "molc2.56.3:1",
+		"container-title": "微信公众号“中国法律评论”",
+		"language": "zh-CN",
+		"title": "失信惩戒立法的三大问题",
+		"author": [
+			{
+				"literal": "刘松山"
+			}
+		],
+		"issued": {
+			"date-parts": [["2019", 11, 19]]
+		}
+	},
+	{
+		"id": "molc2.56.4:1",
+		"type": "post-weblog",
+		"citation-key": "molc2.56.4:1",
+		"container-title": "“学习强国”App",
+		"language": "zh-CN",
+		"title": "论“中国式现代化”的法治保障",
+		"author": [
+			{
+				"literal": "莫纪宏"
+			}
+		],
+		"issued": {
+			"date-parts": [["2024", 6, 21]]
+		}
+	},
+	{
+		"id": "molc2.57:1",
+		"type": "broadcast",
+		"citation-key": "molc2.57:1",
+		"container-title": "中央电视台“新闻1+1”栏目",
+		"language": "zh-CN",
+		"note": "host: 白岩松",
+		"title": "新型冠状病毒肺炎，情况如何？",
+		"URL": "https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml",
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2020", 1, 20]]
+		}
+	},
+	{
+		"id": "molc2.60:1",
+		"type": "interview",
+		"citation-key": "molc2.60:1",
+		"language": "zh-CN",
+		"publisher-place": "《最高人民法院公报》编辑部",
+		"interviewer": [
+			{
+				"literal": "笔者"
+			}
+		],
+		"author": [
+			{
+				"literal": "xxx"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000", 3, 22]]
+		}
+	},
+	{
+		"id": "molc2.60:2",
+		"type": "interview",
+		"citation-key": "molc2.60:2",
+		"language": "zh-CN",
+		"medium": "电话",
+		"interviewer": [
+			{
+				"literal": "笔者"
+			}
+		],
+		"issued": {
+			"date-parts": [["2001", 3, 8]]
+		}
+	},
+	{
+		"id": "molc2.61:1",
+		"type": "personal_communication",
+		"citation-key": "molc2.61:1",
+		"language": "zh-CN",
+		"note": "medium: 电子邮件",
+		"author": [
+			{
+				"literal": "王名扬教授"
+			}
+		],
+		"recipient": [
+			{
+				"literal": "笔者"
+			}
+		],
+		"issued": {
+			"date-parts": [["2002", 3, 8]]
+		}
+	},
+	{
+		"id": "molc2.62:1",
+		"type": "report",
+		"citation-key": "molc2.62:1",
+		"language": "zh-CN",
+		"title": "2001年行政庭工作总结",
+		"author": [
+			{
+				"literal": "上海市浦东新区人民法院行政审判庭"
+			}
+		]
+	},
+	{
+		"id": "molc2.62:2",
+		"type": "speech",
+		"citation-key": "molc2.62:2",
+		"language": "zh-CN",
+		"note": "type: event",
+		"publisher-place": "河南大厦（北京）",
+		"title": "全国人大常委会法工委行政诉讼法修改座谈会",
+		"issued": {
+			"date-parts": [["2009", 1, 21]]
+		}
+	},
+	{
+		"id": "molc2.63:1",
+		"type": "paper-conference",
+		"citation-key": "molc2.63:1",
+		"event-place": "北京",
+		"event-title": "“迈向数据法学”研讨会",
+		"language": "zh-CN",
+		"note": "organizer: 清华大学法学院\norganizer: 社会科学学院\norganizer: 数据科学研究院",
+		"title": "证券监管有偏私吗？",
+		"author": [
+			{
+				"literal": "习超"
+			}
+		],
+		"issued": {
+			"date-parts": [["2017", 12, 23]]
+		}
+	},
+	{
+		"id": "molc2.63:2",
+		"type": "paper-conference",
+		"citation-key": "molc2.63:2",
+		"event-title": "行政法学研究会",
+		"language": "zh-CN",
+		"note": "organizer: 中国法学会",
+		"title": "新时代中国行政法学的转型与使命",
+		"author": [
+			{
+				"literal": "姜明安"
+			}
+		],
+		"issued": {
+			"date-parts": [["2018"]]
+		}
+	},
+	{
+		"id": "molc2.63:3",
+		"type": "paper-conference",
+		"citation-key": "molc2.63:3",
+		"container-title": "第五届中国宪法学青年论坛会议论文集",
+		"event-place": "苏州大学",
+		"language": "zh-CN",
+		"title": "基本权利保障中的法律保留：历史变迁与本土建构",
+		"author": [
+			{
+				"literal": "陈鹏"
+			}
+		],
+		"issued": {
+			"date-parts": [["2022", 8]]
+		}
+	},
+	{
+		"id": "molc2.64:1",
+		"type": "thesis",
+		"citation-key": "molc2.64:1",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "中国政法大学",
+		"publisher-place": "北京",
+		"title": "游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究",
+		"author": [
+			{
+				"literal": "李松锋"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "molc2.65:1",
+		"type": "manuscript",
+		"archive": "陕西省档案馆",
+		"archive_location": "15/149",
+		"citation-key": "molc2.65:1",
+		"language": "zh-CN",
+		"note": "archive_collection: 陕甘宁边区高等法院档案",
+		"title": "关于边区司法工作检查情形",
+		"author": [
+			{
+				"literal": "雷经天"
+			}
+		],
+		"issued": {
+			"date-parts": [["1943", 9, 3]]
+		}
+	},
+	{
+		"id": "molc2.67.1:1a",
+		"type": "legislation",
+		"citation-key": "molc2.67.1:1a",
+		"language": "zh-CN",
+		"title": "中华人民共和国民事诉讼法（试行）"
+	},
+	{
+		"id": "molc2.67.1:1b",
+		"type": "legislation",
+		"citation-key": "molc2.67.1:1b",
+		"language": "zh-CN",
+		"title": "民事诉讼法（试行）"
+	},
+	{
+		"id": "molc2.67.1:2a",
+		"type": "legislation",
+		"citation-key": "molc2.67.1:2a",
+		"language": "zh-CN",
+		"title": "中华人民共和国刑法修正案（十）"
+	},
+	{
+		"id": "molc2.67.1:2b",
+		"type": "legislation",
+		"citation-key": "molc2.67.1:2b",
+		"language": "zh-CN",
+		"title": "刑法修正案（十）"
+	},
+	{
+		"id": "molc2.67.3:1",
+		"type": "legislation",
+		"citation-key": "molc2.67.3:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "法〔2019〕254号",
+		"title": "全国法院民商事审判工作会议纪要"
+	},
+	{
+		"id": "molc2.67.3:2",
+		"type": "legislation",
+		"citation-key": "molc2.67.3:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "法释〔2018〕1号",
+		"title": "最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释",
+		"title-short": "行诉法解释"
+	},
+	{
+		"id": "molc2.68.1:1",
+		"type": "legislation",
+		"citation-key": "molc2.68.1:1",
+		"language": "zh-CN",
+		"title": "行政处罚法"
+	},
+	{
+		"id": "molc2.68.2:1",
+		"type": "legislation",
+		"chapter-number": "第七届全国人大常委会第二十一次会议",
+		"citation-key": "molc2.68.2:1",
+		"language": "zh-CN",
+		"title": "全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定",
+		"issued": {
+			"date-parts": [["1991", 9, 1]]
+		}
+	},
+	{
+		"id": "molc2.68.3:1",
+		"type": "legislation",
+		"citation-key": "molc2.68.3:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中华人民共和国增值税条例（草案）",
+		"author": [
+			{
+				"literal": "国务院"
+			}
+		],
+		"issued": {
+			"date-parts": [["1984", 9, 18]]
+		}
+	},
+	{
+		"id": "molc2.68.3:2",
+		"type": "legislation",
+		"citation-key": "molc2.68.3:2",
+		"language": "zh-CN",
+		"note": "type: regulation\nedition: 修订",
+		"title": "公安机关办理行政案件程序规定",
+		"author": [
+			{
+				"literal": "公安部"
+			}
+		],
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "molc2.69.1:1",
+		"type": "legislation",
+		"citation-key": "molc2.69.1:1",
+		"language": "zh-CN",
+		"note": "edition: 修订",
+		"title": "公司法",
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "molc2.69.1:2",
+		"type": "legislation",
+		"citation-key": "molc2.69.1:2",
+		"language": "zh-CN",
+		"note": "edition: 修订",
+		"title": "公司法",
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "molc2.69.2:1",
+		"type": "legislation",
+		"citation-key": "molc2.69.2:1",
+		"language": "zh-CN",
+		"note": "type: regulation\nstatus: 已废止",
+		"number": "法发〔1993〕36号",
+		"title": "最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知"
+	},
+	{
+		"id": "molc2.69.3:1",
+		"type": "bill",
+		"authority": "全国人大常委会",
+		"chapter-number": "第一次审议稿",
+		"citation-key": "molc2.69.3:1",
+		"language": "zh-CN",
+		"title": "行政复议法（修订草案）",
+		"issued": {
+			"date-parts": [["2022", 10, 27]]
+		}
+	},
+	{
+		"id": "molc2.69.3:2",
+		"type": "bill",
+		"authority": "全国人大宪法和法律委员会、全国人大常委会法工委",
+		"chapter-number": "评估会讨论稿",
+		"citation-key": "molc2.69.3:2",
+		"language": "zh-CN",
+		"title": "行政复议法（修订草案）",
+		"issued": {
+			"date-parts": [["2023", 8, 16]]
+		}
+	},
+	{
+		"id": "molc2.70.1:1",
+		"type": "legislation",
+		"citation-key": "molc2.70.1:1",
+		"language": "zh-CN",
+		"title": "民法典"
+	},
+	{
+		"id": "molc2.70.1:2",
+		"type": "legislation",
+		"citation-key": "molc2.70.1:2",
+		"language": "zh-CN",
+		"title": "行政诉讼法",
+		"issued": {
+			"date-parts": [["1989"]]
+		}
+	},
+	{
+		"id": "molc2.70.1:3",
+		"type": "legislation",
+		"citation-key": "molc2.70.1:3",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "最高人民法院关于适用〈中华人民共和国用事环资法》的解释"
+	},
+	{
+		"id": "molc2.70.2:1",
+		"type": "legislation",
+		"citation-key": "molc2.70.2:1",
+		"language": "zh-CN",
+		"title": "刑法"
+	},
+	{
+		"id": "molc2.70.3:1",
+		"type": "legislation",
+		"citation-key": "molc2.70.3:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "最高人民法院关于适用刑法第六十四条有关问题的批复"
+	},
+	{
+		"id": "molc2.70.3:2",
+		"type": "legislation",
+		"citation-key": "molc2.70.3:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "全国人民代表大会常务委员会关于〈中华人民共和国民法通则》第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释"
+	},
+	{
+		"id": "molc2.71:1",
+		"type": "legislation",
+		"citation-key": "molc2.71:1",
+		"language": "zh-CN",
+		"title": "宪法"
+	},
+	{
+		"id": "molc2.71:2",
+		"type": "legislation",
+		"citation-key": "molc2.71:2",
+		"language": "zh-CN",
+		"title": "刑法"
+	},
+	{
+		"id": "molc2.72:1",
+		"type": "legislation",
+		"citation-key": "molc2.72:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "法释［2018］1号",
+		"title": "最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释"
+	},
+	{
+		"id": "molc2.73:1",
+		"type": "legislation",
+		"citation-key": "molc2.73:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "国发〔2018］22号",
+		"title": "打赢蓝天保卫战三年行动计划"
+	},
+	{
+		"id": "molc2.73:2",
+		"type": "legislation",
+		"citation-key": "molc2.73:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中共中央、国务院关于加快建设全国统一大市场的意见"
+	},
+	{
+		"id": "molc2.73:3",
+		"type": "legislation",
+		"citation-key": "molc2.73:3",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "关于拓展跨境电商出口推进海外仓建设的意见"
+	},
+	{
+		"id": "molc2.74:1",
+		"type": "legislation",
+		"citation-key": "molc2.74:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "［88］民他字第1号",
+		"title": "最高人民法院关于雇工合同“工伤概不负责”是否有效的批复",
+		"issued": {
+			"date-parts": [["1988", 10, 14]]
+		}
+	},
+	{
+		"id": "molc2.74:2",
+		"type": "legislation",
+		"citation-key": "molc2.74:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "国发〔2007〕19号",
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知"
+	},
+	{
+		"id": "molc2.74:3",
+		"type": "legislation",
+		"citation-key": "molc2.74:3",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "国发〔2007〕19号",
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知"
+	},
+	{
+		"id": "molc2.75:1",
+		"type": "legislation",
+		"citation-key": "molc2.75:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "国发〔2007〕19号",
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知"
+	},
+	{
+		"id": "molc2.76:1",
+		"type": "legislation",
+		"citation-key": "molc2.76:1",
+		"container-title": "中华人民共和国司法行政历史文件汇编（1950—1985）",
+		"language": "zh-CN",
+		"note": "type: regulation\neditor: 中华人民共和国司法部\npublisher: 法律出版社\npublication-date: 1987",
+		"number": "国发〔2007〕19号",
+		"title": "司法部关于可否张贴判决书及应注意事项的批复",
+		"issued": {
+			"date-parts": [["1956", 8, 24]]
+		}
+	},
+	{
+		"id": "molc2.76:2",
+		"type": "legislation",
+		"citation-key": "molc2.76:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见",
+		"URL": "https://www.gov.cn/zhengce/202409/content_6976469.htm",
+		"accessed": {
+			"date-parts": [["2025", 11, 8]]
+		},
+		"issued": {
+			"date-parts": [["2024", 9, 15]]
+		}
+	},
+	{
+		"id": "molc2.77:1",
+		"type": "standard",
+		"citation-key": "molc2.77:1",
+		"language": "zh-CN",
+		"number": "GB/T 7714—2015",
+		"title": "信息与文献参考文献著录规则",
+		"author": [
+			{
+				"literal": "国家质量监督检验检疫总局"
+			},
+			{
+				"literal": "中国国家标准化管理委员会"
+			}
+		]
+	},
+	{
+		"id": "molc2.78:1",
+		"type": "legislation",
+		"chapter-number": "中国共产党第十八届中央委员会第四次全体会议",
+		"citation-key": "molc2.78:1",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中共中央关于全面推进依法治国若干重大问题的决定",
+		"issued": {
+			"date-parts": [["2014", 10, 23]]
+		}
+	},
+	{
+		"id": "molc2.78:2",
+		"type": "legislation",
+		"chapter-number": "中国共产党第十九届中央委员会第五次全体会议",
+		"citation-key": "molc2.78:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议",
+		"issued": {
+			"date-parts": [["2020", 10, 20]]
+		}
+	},
+	{
+		"id": "molc2.78:3",
+		"type": "legislation",
+		"chapter-number": "第十三届全国人民代表大会第四次会议",
+		"citation-key": "molc2.78:3",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要",
+		"issued": {
+			"date-parts": [["2021", 3, 11]]
+		}
+	},
+	{
+		"id": "molc2.78:4",
+		"type": "legislation",
+		"chapter-number": "第十三届全国人大常委会第二十九次会议",
+		"citation-key": "molc2.78:4",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"title": "全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定",
+		"issued": {
+			"date-parts": [["2021", 6, 10]]
+		}
+	},
+	{
+		"id": "molc2.79:2",
+		"type": "report",
+		"citation-key": "molc2.79:2",
+		"language": "zh-CN",
+		"note": "event-title: 第十四届全国人民代表大会第一次会议\ncontainer-title: 国务院公报\npuclication-date: 2023\nissue: 第8号",
+		"title": "政府工作报告",
+		"author": [
+			{
+				"literal": "李克强"
+			}
+		],
+		"issued": {
+			"date-parts": [["2023", 3, 5]]
+		}
+	},
+	{
+		"id": "molc2.79:3",
+		"type": "report",
+		"citation-key": "molc2.79:3",
+		"language": "zh-CN",
+		"note": "chapter-number: 第十三届全国人大常委会第三十八次会议",
+		"title": "关于〈中华人民共和国民事诉讼法（修正草案）〉的说明",
+		"URL": "http://www.npc.gov.cn/c2/c30834/202309/t20230906_431582.html",
+		"author": [
+			{
+				"literal": "周强（最高人民法院院长）"
+			}
+		],
+		"issued": {
+			"date-parts": [["2022", 12, 27]]
+		}
+	},
+	{
+		"id": "molc2.80:1",
+		"type": "report",
+		"citation-key": "molc2.80:1",
+		"language": "zh-CN",
+		"title": "新时代的中国网络法治建设",
+		"URL": "https://www.gov.cn/zhengce/2023-03/16/content_5747005.htm",
+		"author": [
+			{
+				"literal": "国务院新闻办公室"
+			}
+		],
+		"issued": {
+			"date-parts": [["2023", 3, 16]]
+		}
+	},
+	{
+		"id": "molc2.80:2",
+		"type": "report",
+		"citation-key": "molc2.80:2",
+		"language": "zh-CN",
+		"note": "publication-date: 2023",
+		"publisher": "人民法院出版社",
+		"title": "中国法院的司法改革（2013-2022）",
+		"author": [
+			{
+				"literal": "最高人民法院"
+			}
+		],
+		"issued": {
+			"date-parts": [["2023", 2, 21]]
+		}
+	},
+	{
+		"id": "molc2.81:1",
+		"type": "legislation",
+		"citation-key": "molc2.81:1",
+		"container-title": "香港法例",
+		"language": "zh-CN",
+		"title": "刑事上诉规则",
+		"volume": "221A"
+	},
+	{
+		"id": "molc2.81:2",
+		"type": "legislation",
+		"citation-key": "molc2.81:2",
+		"language": "zh-CN",
+		"number": "77",
+		"title": "维护国家安全（中央人民政府驻香港特别行政区维护国家安全公署）规例",
+		"issued": {
+			"date-parts": [["2025"]]
+		}
+	},
+	{
+		"id": "molc2.81:3",
+		"type": "report",
+		"citation-key": "molc2.81:3",
+		"language": "zh-CN",
+		"title": "香港的刑事责任年龄",
+		"URL": "https://www.hkreform.gov.hk/tc/publications/rage.htm",
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "molc2.82:1",
+		"type": "legislation",
+		"citation-key": "molc2.82:1",
+		"language": "zh-CN",
+		"number": "第17/2024号法律修改",
+		"title": "澳门特别行政区廉政公署组织法"
+	},
+	{
+		"id": "molc2.83:1",
+		"type": "legislation",
+		"citation-key": "molc2.83:1",
+		"language": "zh-CN",
+		"title": "我国台湾地区“民法”"
+	},
+	{
+		"id": "molc2.83:2",
+		"type": "legislation",
+		"citation-key": "molc2.83:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "“司法院大法官”释字第777号",
+		"title": "驾驶人无过失及情节轻微之肇事逃逸案",
+		"issued": {
+			"date-parts": [["2019", 5, 31]]
+		}
+	},
+	{
+		"id": "molc2.84.1:1",
+		"type": "legislation",
+		"citation-key": "molc2.84.1:1",
+		"language": "zh-CN",
+		"note": "jurisdiction: 英国",
+		"title": "1996年仲裁法"
+	},
+	{
+		"id": "molc2.84.1:2a",
+		"type": "legislation",
+		"citation-key": "molc2.84.1:2a",
+		"language": "zh-CN",
+		"note": "jurisdiction: 美国",
+		"title": "统一买卖法",
+		"issued": {
+			"date-parts": [["1906"]]
+		}
+	},
+	{
+		"id": "molc2.84.1:2b",
+		"type": "legislation",
+		"citation-key": "molc2.84.1:2b",
+		"language": "zh-CN",
+		"title": "统一买卖法"
+	},
+	{
+		"id": "molc2.84.2:1",
+		"type": "legislation",
+		"citation-key": "molc2.84.2:1",
+		"language": "zh-CN",
+		"note": "jurisdiction: 英国\noriginal-title: Arbitration Act 1996",
+		"title": "1996年仲裁法"
+	},
+	{
+		"id": "molc2.84.3:1",
+		"type": "book",
+		"citation-key": "molc2.84.3:1",
+		"edition": "5",
+		"language": "zh-CN",
+		"publisher": "法律出版社",
+		"title": "德国民法典",
+		"translator": [
+			{
+				"literal": "陈卫佐"
+			}
+		],
+		"issued": {
+			"date-parts": [["2020"]]
+		}
+	},
+	{
+		"id": "molc2.84.3:2",
+		"type": "book",
+		"citation-key": "molc2.84.3:2",
+		"language": "zh-CN",
+		"publisher": "中国社会科学出版社",
+		"title": "美国法典·宪法行政法卷",
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "molc2.85:1",
+		"type": "legislation",
+		"citation-key": "molc2.85:1",
+		"language": "zh-CN",
+		"note": "type: treaty",
+		"title": "儿童权利公约",
+		"author": [
+			{
+				"literal": "联合国"
+			}
+		]
+	},
+	{
+		"id": "molc2.85:2",
+		"type": "legislation",
+		"citation-key": "molc2.85:2",
+		"language": "zh-CN",
+		"note": "type: treaty",
+		"title": "联合国海洋法公约"
+	},
+	{
+		"id": "molc2.85:3",
+		"type": "legislation",
+		"citation-key": "molc2.85:3",
+		"language": "zh-CN",
+		"note": "type: treaty\noriginal-title: United Nations Convention on the Law of the Sea",
+		"title": "联合国海洋法公约"
+	},
+	{
+		"id": "molc2.86:1",
+		"type": "report",
+		"citation-key": "molc2.86:1",
+		"language": "zh-CN",
+		"number": "217A(III)",
+		"publisher": "联合国大会决议",
+		"title": "世界人权宣言",
+		"issued": {
+			"date-parts": [["1948", 12, 10]]
+		}
+	},
+	{
+		"id": "molc2.86:2",
+		"type": "report",
+		"citation-key": "molc2.86:2",
+		"language": "zh-CN",
+		"number": "A/47/1277",
+		"publisher": "联合国安理会决议",
+		"title": "全球努力打击恐怖主义的宣言",
+		"issued": {
+			"date-parts": [["1992", 6, 17]]
+		}
+	},
+	{
+		"id": "molc2.86:3",
+		"type": "report",
+		"citation-key": "molc2.86:3",
+		"language": "zh-CN",
+		"number": "A/47/1277",
+		"publisher": "联合国秘书长报告",
+		"title": "和平纲领：预防性外交、建立和平与维持和平",
+		"issued": {
+			"date-parts": [["1992", 6, 17]]
+		}
+	},
+	{
+		"id": "molc2.87:1",
+		"type": "legal_case",
+		"authority": "北京市高级人民法院",
+		"citation-key": "molc2.87:1",
+		"language": "zh-CN",
+		"note": "genre: 行政判决书\n法宝引证码: CLI.C.410549684",
+		"number": "（2018）京行终445号",
+		"title": "苏嘉鸿诉中国证监会行政处罚案",
+		"URL": "https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html",
+		"accessed": {
+			"date-parts": [["2025", 11, 9]]
+		},
+		"issued": {
+			"date-parts": [["2018", 7, 17]]
+		}
+	},
+	{
+		"id": "molc2.87:2",
+		"type": "legal_case",
+		"authority": "中国证监会",
+		"citation-key": "molc2.87:2",
+		"language": "zh-CN",
+		"note": "genre: 行政复议决定书",
+		"number": "［2017］63号",
+		"title": "苏嘉鸿不服中国证监会行政处罚行政复议案",
+		"issued": {
+			"date-parts": [["2017"]]
+		}
+	},
+	{
+		"id": "molc2.87:3",
+		"type": "legal_case",
+		"authority": "中国证监会",
+		"citation-key": "molc2.87:3",
+		"language": "zh-CN",
+		"note": "genre: 行政处罚决定书",
+		"number": "〔2016〕56号",
+		"title": "苏嘉鸿内幕交易行政处罚案",
+		"issued": {
+			"date-parts": [["2016"]]
+		}
+	},
+	{
+		"id": "molc2.88.2:1",
+		"type": "legal_case",
+		"citation-key": "molc2.88.2:1",
+		"language": "zh-CN",
+		"title": "陈辉（化名）诉大庆日月星有限公司劳动争议案"
+	},
+	{
+		"id": "molc2.88.2:2",
+		"type": "legal_case",
+		"citation-key": "molc2.88.2:2",
+		"language": "zh-CN",
+		"title": "车某玲诉朱某芳相邻关系纠纷案"
+	},
+	{
+		"id": "molc2.88.5:1",
+		"type": "legal_case",
+		"citation-key": "molc2.88.5:1",
+		"language": "zh-CN",
+		"title": "“夹江打假案”"
+	},
+	{
+		"id": "molc2.88.5:2",
+		"type": "legal_case",
+		"citation-key": "molc2.88.5:2",
+		"language": "zh-CN",
+		"title": "“许霆恶意取款案”"
+	},
+	{
+		"id": "molc2.89:1",
+		"type": "legal_case",
+		"authority": "北京市海淀区人民法院",
+		"citation-key": "molc2.89:1",
+		"language": "zh-CN",
+		"note": "genre: 行政判决书",
+		"number": "（1998）海行初字第142号"
+	},
+	{
+		"id": "molc2.89:2",
+		"type": "legal_case",
+		"authority": "北京市海淀区人民法院",
+		"citation-key": "molc2.89:2",
+		"language": "zh-CN",
+		"note": "genre: 民事判决书",
+		"number": "（2018）京0108民初142号"
+	},
+	{
+		"id": "molc2.90.1:1",
+		"type": "legal_case",
+		"authority": "江苏省无锡市中级人民法院",
+		"citation-key": "molc2.90.1:1",
+		"container-title": "最高人民法院公报",
+		"language": "zh-CN",
+		"note": "collection-title: 最高人民法院指导案例\ncollection-number: 24\navailable-date: 2014-01-26\ngenre: 民事判决书\nissue: 8\n法宝引证码: CLI.C.2125100",
+		"number": "（2013）锡民终字第497号",
+		"title": "荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案",
+		"URL": "https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html",
+		"accessed": {
+			"date-parts": [["2025", 11, 9]]
+		},
+		"issued": {
+			"date-parts": [["2013", 6, 21]]
+		}
+	},
+	{
+		"id": "molc2.90.2:1",
+		"type": "legal_case",
+		"authority": "江苏省南通市中级人民法院",
+		"citation-key": "molc2.90.2:1",
+		"container-title": "最高人民法院公报",
+		"language": "zh-CN",
+		"note": "available-date: 2015\nissue: 11\ngenre: 行政裁定书\n法宝引证码: CLI.C.7997435",
+		"title": "陆红霞诉南通市发展和改革委员会政府信息公开答复案",
+		"URL": "https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html",
+		"accessed": {
+			"date-parts": [["2025", 11, 9]]
+		},
+		"issued": {
+			"date-parts": [["2015", 7, 6]]
+		}
+	},
+	{
+		"id": "molc2.90.3:1",
+		"type": "legal_case",
+		"authority": "广东省广州市中级人民法院",
+		"citation-key": "molc2.90.3:1",
+		"language": "zh-CN",
+		"note": "archive: 人民法院案例库\narchive_location: 2024-18-2-053-001\ngenre: 民事判决书\n法宝引证码: CLI.C.552823575",
+		"number": "（2022）粤01民终1669号",
+		"title": "车某玲诉朱某芳相邻关系纠纷案",
+		"URL": "https://rmfyalk.court.gov.cn/view/content.html?id=i0t9nuBWsy9a%252BJbQSLENlRBZldhOV6962MiwOtCEa4c%253D&lib=ck",
+		"accessed": {
+			"date-parts": [["2025", 11, 9]]
+		},
+		"issued": {
+			"date-parts": [["2022", 4, 12]]
+		}
+	},
+	{
+		"id": "molc2.90.4:1a",
+		"type": "legal_case",
+		"citation-key": "molc2.90.4:1a",
+		"language": "zh-CN",
+		"title": "谢文彬诉广东省司法厅案"
+	},
+	{
+		"id": "molc2.90.4:1b",
+		"type": "article-newspaper",
+		"citation-key": "molc2.90.4:1b",
+		"container-title": "中国青年报",
+		"language": "zh-CN",
+		"publisher-place": "7",
+		"title": "七旬律师被判可以执业〈律师法〉赢了司法部文件",
+		"author": [
+			{
+				"literal": "李桂茹"
+			},
+			{
+				"literal": "孔献之"
+			}
+		],
+		"issued": {
+			"date-parts": [["2003", 6, 4]]
+		}
+	},
+	{
+		"id": "molc2.90.5:1",
+		"type": "legal_case",
+		"citation-key": "molc2.90.5:1",
+		"container-title": "人民法院案例选（1992—1999年合订本）·行政卷",
+		"language": "zh-CN",
+		"note": "editor: 最高人民法院中国应用法学研究所\npublisher: 中国法制出版社\npublication-date: 2000",
+		"title": "宁德市大众影院诉宁德地区工商行政管理局行政处罚案",
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "molc2.90.6:1",
+		"type": "legal_case",
+		"authority": "最高人民法院",
+		"citation-key": "molc2.90.6:1",
+		"language": "zh-CN",
+		"note": "genre: 民事判决书\n法宝引证码: CLI.C.10709337",
+		"number": "（2011）民一终字第81号",
+		"title": "榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案",
+		"URL": "https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html",
+		"accessed": {
+			"date-parts": [["2025", 11, 9]]
+		},
+		"issued": {
+			"date-parts": [["2017", 12, 16]]
+		}
+	}
+]
