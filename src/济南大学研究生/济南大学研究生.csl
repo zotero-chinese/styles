@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". "
+  name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never"
+  initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
+  default-locale="zh-CN">
   <info>
     <title>济南大学研究生</title>
     <title-short>University of Jinan(Postgrad)</title-short>
     <id>https://zotero-chinese.com/styles/济南大学研究生</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="self"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric"
+      rel="self"/>
+    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A"
+      rel="documentation"/>
     <link href="https://yjs.ujn.edu.cn/info/1142/3846.htm" rel="documentation"/>
     <author>
       <name>李振鹏</name>
@@ -13,7 +18,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>济南大学研究生参考文献样式，基于The Chinese GB/T 7714-2015 numeric style</summary>
+    <summary>济南大学研究生参考文献样式，根据济南大学硕士学位论文模板（全日制硕士研究生）制作。专著版号前加第，中文期刊文献作者等前无逗号，无DOI号，专利名后加国家，EB和N/OL类型加URL</summary>
     <updated>2026-01-06T10:44:01+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -61,12 +66,23 @@
   </macro>
   <macro name="author-cn">
     <names variable="author">
-      <name delimiter="," delimiter-precedes-et-al="never"/>
+      <name delimiter=", " delimiter-precedes-et-al="never"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+      </substitute>
     </names>
   </macro>
   <macro name="book-volume">
     <choose>
-      <if type="article article-journal article-magazine article-newspaper periodical" match="none">
+      <if type="article article-journal article-magazine article-newspaper periodical"
+        match="none">
         <choose>
           <if is-numeric="volume">
             <group delimiter=" ">
@@ -128,8 +144,24 @@
       </else>
     </choose>
   </macro>
+  <macro name="edition-cn">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" " prefix="第 ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
+  </macro>
+  <macro name="accessed-date">
+    <date variable="accessed" form="numeric"/>
   </macro>
   <macro name="issued-year">
     <choose>
@@ -153,7 +185,8 @@
           <text variable="publisher"/>
         </group>
         <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
+          <if variable="publisher page" type="book chapter paper-conference thesis"
+            match="any">
             <text macro="issued-year"/>
           </if>
           <else-if variable="URL DOI" match="none">
@@ -172,7 +205,6 @@
         </choose>
       </if>
     </choose>
-    <text macro="accessed-date"/>
   </macro>
   <macro name="secondary-contributor">
     <names variable="translator">
@@ -203,23 +235,35 @@
         </group>
         <text variable="page"/>
       </group>
-      <text macro="accessed-date"/>
     </group>
   </macro>
   <macro name="title">
     <group delimiter=", ">
       <group delimiter=": ">
         <text variable="title"/>
-        <group delimiter=" ">
+        <group delimiter=" ">
           <choose>
             <if variable="container-title" type="paper-conference" match="none">
               <text macro="book-volume"/>
             </if>
           </choose>
           <choose>
-            <if type="bill legal_case legislation patent regulation report standard" match="any">
-              <text variable="number"/>
+            <!--
+                        专利要在条目其它字段里写如
+                        “jurisdiction: 中国” 才能实现在标题后添加国家，如
+                        [13] 杨林江. 沥青混凝土再生搅拌机: 中国, CN2764814[P].2006-01-15.
+                        [14] Koseki A, Momose H, Kawahito M. Compiler: US, 828402[P].2002-05-25.
+                        -->
+            <if type="patent">
+              <group delimiter=", ">
+                <text variable="jurisdiction"/>
+                <text variable="number"/>
+              </group>
             </if>
+            <else-if type="bill legal_case legislation regulation report standard"
+              match="any">
+              <text variable="number"/>
+            </else-if>
           </choose>
         </group>
       </group>
@@ -253,7 +297,14 @@
           <text value="J"/>
         </else-if>
         <else-if type="article-newspaper">
-          <text value="N"/>
+          <choose>
+            <if variable="URL">
+              <text value="N/OL"/>
+            </if>
+            <else>
+              <text value="N"/>
+            </else>
+          </choose>
         </else-if>
         <else-if type="bill collection legal_case legislation regulation" match="any">
           <text value="A"/>
@@ -274,7 +325,7 @@
           <text value="P"/>
         </else-if>
         <else-if type="post post-weblog webpage" match="any">
-          <text value="EB"/>
+          <text value="EB/OL"/>
         </else-if>
         <else-if type="report">
           <text value="R"/>
@@ -304,13 +355,21 @@
     </group>
   </macro>
   <macro name="monograph-layout">
-    <group delimiter="." suffix=".">
+    <group delimiter=". " suffix=". ">
       <text macro="author-cn"/>
       <text macro="title"/>
       <text macro="secondary-contributor"/>
       <text macro="edition"/>
       <text macro="publishing"/>
-      <text macro="url-doi"/>
+    </group>
+  </macro>
+  <macro name="monograph-layout-cn">
+    <group delimiter=". " suffix=". ">
+      <text macro="author-cn"/>
+      <text macro="title"/>
+      <text macro="secondary-contributor"/>
+      <text macro="edition-cn"/>
+      <text macro="publishing"/>
     </group>
   </macro>
   <macro name="chapter-in-book-layout">
@@ -322,17 +381,17 @@
           <text macro="secondary-contributor"/>
         </group>
         <group delimiter=". ">
-          <!-- <text macro="container-author"/> -->
+          <text macro="container-author"/>
           <text macro="container-title"/>
         </group>
       </group>
       <text macro="edition"/>
       <text macro="publishing"/>
-      <text macro="url-doi"/>
+      <!-- <text variable="URL"/> -->
     </group>
   </macro>
   <macro name="serial-layout">
-    <group delimiter=". " suffix=".">
+    <group delimiter=". " suffix=". ">
       <text macro="author"/>
       <text macro="title"/>
       <text macro="year-volume-issue"/>
@@ -341,20 +400,57 @@
       <text variable="DOI" prefix="DOI:"/>
     </group>
   </macro>
+  <macro name="online-access">
+    <group delimiter=" ">
+      <choose>
+        <if variable="issued">
+          <text macro="issued-date" prefix="(" suffix=")"/>
+        </if>
+      </choose>
+      <choose>
+        <if variable="accessed">
+          <text macro="accessed-date" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+      <text variable="URL"/>
+    </group>
+  </macro>
+  <macro name="online-layout">
+    <group delimiter=". " suffix=". ">
+      <text macro="author"/>
+      <text macro="title"/>
+      <text macro="online-access"/>
+    </group>
+  </macro>
+  <macro name="online-layout-cn">
+    <group delimiter=". " suffix=". ">
+      <text macro="author-cn"/>
+      <text macro="title"/>
+      <text macro="online-access"/>
+    </group>
+  </macro>
   <macro name="article-in-periodical-layout">
-    <group delimiter="." suffix=".">
+    <group delimiter=". " suffix=". ">
       <text macro="author"/>
       <text macro="title"/>
       <text macro="periodical-publishing"/>
-      <text macro="url-doi"/>
+      <choose>
+        <if type="article-newspaper" variable="URL" match="all">
+          <text variable="URL"/>
+        </if>
+      </choose>
     </group>
   </macro>
   <macro name="article-in-periodical-layout-cn">
-    <group delimiter="." suffix=".">
+    <group delimiter=". " suffix=".">
       <text macro="author-cn"/>
       <text macro="title"/>
       <text macro="periodical-publishing"/>
-      <text macro="url-doi"/>
+      <choose>
+        <if type="article-newspaper" variable="URL" match="all">
+          <text variable="URL"/>
+        </if>
+      </choose>
     </group>
   </macro>
   <macro name="patent-layout">
@@ -363,9 +459,7 @@
       <text macro="title"/>
       <group>
         <text macro="issued-date"/>
-        <text macro="accessed-date"/>
       </group>
-      <text macro="url-doi"/>
     </group>
   </macro>
   <macro name="citation-layout">
@@ -375,9 +469,12 @@
   </macro>
   <macro name="entry-layout">
     <choose>
-      <if type="Article article-journal article-magazine article-newspaper" match="any">
+      <if type="article article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout"/>
       </if>
+      <else-if type="post post-weblog webpage" match="any">
+        <text macro="online-layout"/>
+      </else-if>
       <else-if type="periodical">
         <text macro="serial-layout"/>
       </else-if>
@@ -394,9 +491,12 @@
   </macro>
   <macro name="entry-layout-cn">
     <choose>
-      <if type="Article article-journal article-magazine article-newspaper" match="any">
+      <if type="article article-journal article-magazine article-newspaper" match="any">
         <text macro="article-in-periodical-layout-cn"/>
       </if>
+      <else-if type="post post-weblog webpage" match="any">
+        <text macro="online-layout-cn"/>
+      </else-if>
       <else-if type="periodical">
         <text macro="serial-layout"/>
       </else-if>
@@ -407,7 +507,7 @@
         <text macro="chapter-in-book-layout"/>
       </else-if>
       <else>
-        <text macro="monograph-layout"/>
+        <text macro="monograph-layout-cn"/>
       </else>
     </choose>
   </macro>
@@ -416,8 +516,9 @@
       <text macro="citation-layout"/>
     </layout>
   </citation>
-  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="margin" entry-spacing="0" line-spacing="1" hanging-indent="2ch">
-    <!-- 请确保zotero里英文文献的语言词条是en -->
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="margin" entry-spacing="0"
+    line-spacing="1" hanging-indent="false">
+    <!-- 请确保zotero里英文文献条目语言是en -->
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout"/>
