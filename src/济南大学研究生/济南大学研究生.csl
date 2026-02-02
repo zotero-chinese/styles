@@ -4,9 +4,9 @@
   initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
   default-locale="zh-CN">
   <info>
-    <title>济南大学研究生</title>
-    <title-short>University of Jinan(Postgrad)</title-short>
-    <id>https://zotero-chinese.com/styles/济南大学研究生</id>
+    <title>济南大学</title>
+    <title-short>UJN</title-short>
+    <id>https://zotero-chinese.com/styles/济南大学</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric"
       rel="self"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A"
@@ -19,7 +19,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>济南大学研究生参考文献样式，根据济南大学硕士学位论文模板（全日制硕士研究生）制作。专著版号前加第，中文期刊文献作者等前无逗号，无DOI号，专利名后加国家，EB和N/OL类型加URL</summary>
-    <updated>2026-01-06T10:44:01+00:00</updated>
+    <updated>2026-02-02T20:19:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
