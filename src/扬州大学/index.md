@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M]. 北京: 首都师范大学出版社, 2008.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">佚名. 康熙字典：巳集上 水部[M]. 北京: 中华书局, 1962.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 北京: 中华书局, 1962.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 北京: 高等教育出版社, 2019.</div>
@@ -303,7 +303,7 @@
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable developmentno date.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable developmentno date.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述. , 2021.</div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">郑涵, 于贵瑞, 朱先进等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank2018[2025-02-14].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25).</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">王继民, 罗鹏程, 赵常煜等. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台(2025-06-11)[2025-07-10].</div>

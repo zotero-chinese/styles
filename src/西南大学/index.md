@@ -28,7 +28,7 @@
   <div class="csl-entry">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[Z/OL]. arXiv, 2012(2012-03-18).</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. <i>J. Neurol. Sci.</i>, 2014, 337(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), 2022: 2.</div>
+  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, 2022: 2.</div>
 </div>
 
 ## 默认测试
@@ -128,7 +128,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z/OL].</div>
   <div class="csl-entry">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
-  <div class="csl-entry">佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">Anonymous. Public library quarterly[Z/OL]. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema, 2000.</div>
@@ -200,12 +200,12 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980.</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system[P/OL]. 2001-06-28.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system[P/OL]. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R/OL]. .</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R/OL]. .</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. <i>J. Neurol. Sci.</i>, 2014, 337(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), 2022: 2.</div>
+  <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, 2022: 2.</div>
   <div class="csl-entry">Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]. Sodeman W A Jr, Sodeman W A, eds.//Pathologic physiology: mechanisms of disease. 5 edition. Philadelphia: Saunders, 1974: 457-472.</div>
-  <div class="csl-entry">Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR, 2024: 4.</div>
+  <div class="csl-entry">Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C/OL]//CVPR, Seattle, 2024: 4.</div>
   <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022.</div>
   <div class="csl-entry">Zotero. [Zotero download][EB/OL].</div>
 </div>

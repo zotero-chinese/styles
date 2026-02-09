@@ -55,7 +55,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》北京：北京古籍出版社，1980年<br>
 <sup>6</sup> 钱学森：《创建系统学》太原：山西科学技术出版社，2001年<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》北京：首都师范大学出版社，2008年<br>
-<sup>8</sup> ：《康熙字典：巳集上 水部》北京：中华书局，1962年<br>
+<sup>8</sup> ：《康熙字典》北京：中华书局，1962年<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》北京：高等教育出版社，2019年<br>
 <sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社，2012年<br>
 <sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》北京：人民卫生出版社，2019年<br>
@@ -81,7 +81,7 @@
 <sup>31</sup> 马克思：《政治经济学批判》，：《马克思恩格斯全集》，北京：人民出版社，2013年，第302页。<br>
 <sup>32</sup> ：《大黄》，载国家药典委员会主编：《中华人民共和国药典》，北京：中国医药科技出版社，2020年，第24—25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第11—12页。<br>
-<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A Sodeman Jr. and William A. Sodeman, edt., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457—472.<br>
+<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A. Sodeman Jr. and William A. Sodeman, edt., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457—472.<br>
 <sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water standards, regulations and goals,” in American Water Works Association, edt., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》武汉：中华医学会湖北分会，1984年<br>
 <sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》北京：北京图书馆，1957—1990年<br>
@@ -130,7 +130,7 @@
 <sup>80</sup> 中国信息通信研究院等：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年<br>
 <sup>81</sup> David E. Calkin, Alan A. Ager and Matthew P. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report,” (2011), pp. 8—9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for handling excavated acid-producing material,” (1990), p. 25.<br>
-<sup>83</sup> United Nations Department of Economic and Social Affairs, “United Nations E-Government survey 2024: accelerating digital transformation for sustainable development,” <br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs, “United Nations e-government survey 2024: accelerating digital transformation for sustainable development,” <br>
 <sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年<br>
 <sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年<br>

@@ -70,7 +70,7 @@
     <div class="csl-block">2008：第1版自序</div>
   </div>
   <div class="csl-entry">[8]	康熙字典：巳集上 水部. 同文书局影印本. 北京：中华书局，1962：50
-    <div class="csl-block">1962：50</div>
+    <div class="csl-block">巳集上 水部. 1962：50</div>
   </div>
   <div class="csl-entry">[9]	战德臣，张丽杰. 大学计算机：计算思维与信息素养. 3 版. 北京：高等教育出版社，2019
     <div class="csl-block">2019</div>
@@ -234,7 +234,7 @@
   </div>
   <div class="csl-entry">[81]	Calkin D E，Ager A A，Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report：RMRS-GTR-262. 2011：8-9.</div>
   <div class="csl-entry">[82]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material：PB 91-194001. Springfield：U.S. Department of Commerce National Information Service，1990：25.</div>
-  <div class="csl-entry">[83]	United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development. [2025].</div>
+  <div class="csl-entry">[83]	United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. [2025].</div>
   <div class="csl-entry">[84]	全国信息与文献标准化技术委员会. 信息与文献 资源描述：GB/T 3792—2021. 2021
     <div class="csl-block">GB/T 3792—2021. 2021</div>
   </div>
@@ -328,7 +328,9 @@
   <div class="csl-entry">[122]	吴自银，温珍河. 中国南部海域海底地形图. 北京：科学出版社，2019
     <div class="csl-block">2019</div>
   </div>
-  <div class="csl-entry">[123]	国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图</div>
+  <div class="csl-entry">[123]	国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图. [2025]
+    <div class="csl-block">[2025]</div>
+  </div>
   <div class="csl-entry">[124]	訾冬梅，高秀静. 内蒙古自治区地图册. 新版. 北京：中国地图出版社，2006
     <div class="csl-block">2006</div>
   </div>
@@ -353,7 +355,7 @@
     <div class="csl-block">2018[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   </div>
   <div class="csl-entry">[133]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心，2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>
-    <div class="csl-block">（2024-12-25）. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
+    <div class="csl-block">（2024-12-25）[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
   </div>
   <div class="csl-entry">[134]	王继民，罗鹏程，赵常煜，郭鑫，王世奇，高正. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台，2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>
     <div class="csl-block">（2025-06-11）[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>

@@ -84,7 +84,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">高等教育文献保障系统．[2025]．馆际互借与文献传递服务[EB/OL]．[2025-06-21]．<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>．</div>
   <div class="csl-entry">工业和信息化部．2022．GB 18030—2022信息技术  中文编码字符集[S]．2022．</div>
   <div class="csl-entry">顾炎武．1980．昌平山水记；京东考古录[M]．北京：北京古籍出版社．</div>
-  <div class="csl-entry">国家测绘地理信息局．一带一路经济走廊及其途经城市分布地势图[EB]．</div>
+  <div class="csl-entry">国家测绘地理信息局．[2025]．一带一路经济走廊及其途经城市分布地势图[EB]．[2025]．</div>
   <div class="csl-entry">国家能源局．2020．NB/T 10386—2020水电工程水温实时监测系统技术规范[S]．</div>
   <div class="csl-entry">哈里森，沃尔德伦．2012．经济数学与金融数学[M]．谢远涛，译．北京：中国人民大学出版社：235-236．</div>
   <div class="csl-entry">何筱梅．2016．新媒体时代原生广告的策略与发展研究[D]．武汉：武汉大学：24-25．</div>
@@ -199,7 +199,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. 2001. Electronic watermarking method and system: U.S., US2002061118A1[P]. 2001-06-28.</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, et al. 2021. Connecting the library to the curriculum[M]. Singapore: Springer Nature: 97.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. 2022. Storage and delivery system: AU, AU2022228203A1[P]. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>

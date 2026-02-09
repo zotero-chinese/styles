@@ -198,7 +198,7 @@ Qian等 （2009a）<br>
   <div class="csl-entry">129. Zhong, X., Yan, Q., &#38; Li, G., <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, 2022.</div>
   <div class="csl-entry">130. Zotero, <i>[Zotero Download]</i>. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
   <div class="csl-entry">131. 《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，1949年。</div>
-  <div class="csl-entry">132. 《康熙字典：巳集上 水部》，中华书局1962年版。</div>
+  <div class="csl-entry">132. 《康熙字典》，中华书局1962年版。</div>
   <div class="csl-entry">133. <i>Public Library Quarterly</i>. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">134. <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>. New York: IEEE, 2020.</div>
   <div class="csl-entry">135. 《《庄子》读不懂？看完这一篇“导读”就明白了》，2022年。</div>

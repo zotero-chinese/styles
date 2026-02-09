@@ -21,7 +21,7 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">汪学军（2005）．中国农业转基因生物研发进展与安全管理（会议论文）．北京：中国国家生物安全框架实施国际合作项目研讨会论文集．</div>
+  <div class="csl-entry">汪学军（2005）．中国农业转基因生物研发进展与安全管理（会议论文）．中国国家生物安全框架实施国际合作项目研讨会论文集．</div>
   <div class="csl-entry">肖玲、张雪、王永（2024）．数据要素的统计测算方法探究（No.PSSXiv:202408.01096）．PSSXiv．</div>
   <div class="csl-entry">扬奎斯特、萨金特（2010）．递归宏观经济理论（杨斌，王忠玉，陈彦斌，&#38; 严高剑，译；2 版，页 798）．北京：中国人民大学出版社．</div>
   <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波（2012）．互联网药品可信交易环境中主体资质审核备案模式．清华大学学报（自然科学版），52（11），1518-1523．</div>
@@ -93,11 +93,11 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">湖北省建设厅（1931）．湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令．湖北省档案馆（LS031-001-0001-001），武汉．</div>
   <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）（2024）．青海省县域教育、卫生发展指标（2001—2022年）［数据集］．国家地理资源科学数据中心-黄土高原分中心．<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>．</div>
   <div class="csl-entry">冀超（2001）．一种荒漠化地区生态植被综合培育种植方法（国家知识产权局专利No.CN1318281A）．</div>
-  <div class="csl-entry">贾东琴、柯平（2011）．面向数字素养的高校图书馆数字服务体系研究（会议论文）．北京：中国图书馆学会年会论文集．</div>
+  <div class="csl-entry">贾东琴、柯平（2011）．面向数字素养的高校图书馆数字服务体系研究（会议论文）．中国图书馆学会年会论文集．</div>
   <div class="csl-entry">金燕萍（2020）．社交媒体时代的虚假信息研究（页 16）［硕士学位论文，温州大学］．</div>
   <div class="csl-entry">井丽南（2022）．支持状态可编程的SDN交换机关键技术研究（页 43）［博士学位论文，中国科学院大学］．</div>
   <div class="csl-entry">久保智康（2009）．花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心（顾幼静，译）．东方博物，1，85-92．</div>
-  <div class="csl-entry">康熙字典：巳集上 水部（同文书局影印本，页 50）（1962）．北京：中华书局．</div>
+  <div class="csl-entry">康熙字典：卷巳集上 水部（同文书局影印本，页 50）（1962）．北京：中华书局．</div>
   <div class="csl-entry">李鸿章（1887）．奏请上海道库洋务外销要款无款可筹仍拨药厘接济事．中国第一历史档案馆（04-01-35-0399-039），北京．</div>
   <div class="csl-entry">李华、王昊、康佐（2023）．一种拼接式桥梁模型（国家知识产权局专利No.CN218214474U）．</div>
   <div class="csl-entry">李妍、王莹（2022）．<i>医疗机构保洁人员“一前五后”手卫生干预效果研究</i>（会议论文）．中华预防医学会医院感染控制分会第31次全国医院感染学术年会．</div>
@@ -119,7 +119,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">汤万金、杨跃翔、刘文、郑建国、王赟松（2013）．人体安全重要技术标准研制最终报告（Nos.7178999X-2006BAK04A10/10.2013）．</div>
   <div class="csl-entry">童世亨（1926）．京兆直隶图［地图］．上海：商务印书馆．</div>
   <div class="csl-entry">図書館用語辞典編集委員会 (Ed.). (2004). <i>最新図書館用語大辞典</i> (p. 154). 東京: 柏書房株式会社.</div>
-  <div class="csl-entry">汪学军（2005）．中国农业转基因生物研发进展与安全管理（会议论文）．北京：中国国家生物安全框架实施国际合作项目研讨会论文集．</div>
+  <div class="csl-entry">汪学军（2005）．中国农业转基因生物研发进展与安全管理（会议论文）．中国国家生物安全框架实施国际合作项目研讨会论文集．</div>
   <div class="csl-entry">王夫之（1865）．宋论（刻本）．金陵：湘乡曾国荃．</div>
   <div class="csl-entry">王夫之主编（2011）．周易外传：卷5．载《船山全书：卷第1册》（修订版，页 983-1029）．长沙：岳麓书社．</div>
   <div class="csl-entry">王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正（2025）．人文社会科学数据集检索方法研究的数据集（版 2.2）［数据集］．北京大学开放研究数据平台．<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>．2025年7月10日访问．</div>
@@ -128,7 +128,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">吴自银、温珍河（2019）．中国南部海域海底地形图［地图］．北京：科学出版社．</div>
   <div class="csl-entry">西黄丸（2023）．<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>．2025年8月26日访问．</div>
   <div class="csl-entry">肖玲、张雪、王永（2024）．数据要素的统计测算方法探究（No.PSSXiv:202408.01096）．PSSXiv．</div>
-  <div class="csl-entry">肖希明、石庆功、刘奕（2024）．民国图书馆学教育的社会贡献（会议论文）．北京：纪念北京大学图书馆学教育100周年研讨会论文集．</div>
+  <div class="csl-entry">肖希明、石庆功、刘奕（2024）．民国图书馆学教育的社会贡献（会议论文）．纪念北京大学图书馆学教育100周年研讨会论文集．</div>
   <div class="csl-entry">徐建委（2025）．历史的起点：《史记》中的时间设置及其意义．北京大学学报（哲学社会科学版），62（2），117-127．</div>
   <div class="csl-entry">许振超（2025）．“好好干，当一个好工人”．<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>．2025年6月22日访问．</div>
   <div class="csl-entry">扬奎斯特、萨金特（2010）．递归宏观经济理论（杨斌，王忠玉，陈彦斌，&#38; 严高剑，译；2 版，页 798）．北京：中国人民大学出版社．</div>
@@ -199,7 +199,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., &#38; Nakamura, T. (2001). <i>Electronic watermarking method and system</i> (U.S. Patent and Trademark Office Patent No. US2002061118A1).</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., &#38; Ondracek, C. (Eds.). (2021). <i>Connecting the library to the curriculum</i> (p. 97). Singapore: Springer Nature.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., &#38; Mossel, B. (2022). <i>Storage and delivery system</i> (Patent No. AU2022228203A1).</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001; p. 25). Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., Geerlings, M. I., &#38; SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, 337(1/2), 112-118.</div>
   <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>. 2.</div>

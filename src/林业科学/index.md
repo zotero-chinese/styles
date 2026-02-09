@@ -126,7 +126,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录. 北京: 北京古籍出版社.
     <div class="csl-block">(1980.［in Chinese］)</div>
   </div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
+  <div class="csl-entry">国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图.
+    <div class="csl-block">([2025].［in Chinese］)</div>
+  </div>
   <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020.
     <div class="csl-block">(2020. NB/T 10386—2020.［in Chinese］)</div>
   </div>
@@ -143,7 +145,7 @@ Qian et al. （2009b）<br>
     <div class="csl-block">(1931. 武汉: 湖北省档案馆.［in Chinese］)</div>
   </div>
   <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.
-    <div class="csl-block">(2024. (2024-12-25). <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.［in Chinese］)</div>
+    <div class="csl-block">(2024. (2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.［in Chinese］)</div>
   </div>
   <div class="csl-entry">冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A. 2001-10-24.
     <div class="csl-block">(2001. CN1318281A. 2001-10-24.［in Chinese］)</div>
@@ -323,7 +325,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆.
     <div class="csl-block">(1949. 武汉: 武汉大学档案馆.［in Chinese］)</div>
   </div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.
     <div class="csl-block">(1962. 50.［in Chinese］)</div>
   </div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
@@ -379,7 +381,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, <i>et al.</i> 2001. Electronic watermarking method and system: US2002061118A1. 2001-06-28.</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, <i>et al.</i> 2021. Connecting the library to the curriculum. Singapore: Springer Nature: 97.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, <i>et al.</i> 2022. Storage and delivery system: AU2022228203A1. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, <i>et al.</i> 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. Journal of the Neurological Sciences, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>

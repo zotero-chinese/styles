@@ -21,14 +21,14 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry"><b>汪学军</b> (2005). 中国农业转基因生物研发进展与安全管理. , 北京.</div>
+  <div class="csl-entry"><b>汪学军</b> (2005). 中国农业转基因生物研发进展与安全管理. .</div>
   <div class="csl-entry"><b>肖玲, 张雪, 王永</b> (2024). 数据要素的统计测算方法探究. PSSXiv.</div>
   <div class="csl-entry"><b>扬奎斯特, 萨金特</b> (2010). 递归宏观经济理论. 2. 中国人民大学出版社, 北京: 798.</div>
   <div class="csl-entry"><b>于潇, 刘义, 柴跃廷, 孙宏波</b> (2012). 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, <b>52</b>: 1518-1523.</div>
   <div class="csl-entry"><b>Jenkins S.D., Ruostekoski J.</b> (2012). Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv.</div>
   <div class="csl-entry"><b>Praetzellis A.</b> (2011). Death by theory: a tale of mystery and archaeological theory. Rev. ed. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   <div class="csl-entry"><b>Veen P.H. van der, Muller M., Vincken K.L., Witkamp T.D., Mali W.P.T.M., van der Graaf Y., Geerlings M.I., SMART-MR Study Group</b> (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. J. Neurol. Sci., <b>337</b>: 112-118.</div>
-  <div class="csl-entry"><b>Wang S.</b> (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers In: <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i>.</div>
+  <div class="csl-entry"><b>Wang S.</b> (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers In: <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i>, Changzhou, China.</div>
 </div>
 
 ## 默认测试
@@ -91,7 +91,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">(1931-11-07).</div>
   <div class="csl-entry">. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25).</div>
   <div class="csl-entry"><b>冀超</b> (2001). 一种荒漠化地区生态植被综合培育种植方法. 2001-10-24.</div>
-  <div class="csl-entry"><b>贾东琴, 柯平</b> (2011). 面向数字素养的高校图书馆数字服务体系研究. , 北京.</div>
+  <div class="csl-entry"><b>贾东琴, 柯平</b> (2011). 面向数字素养的高校图书馆数字服务体系研究. .</div>
   <div class="csl-entry"><b>金燕萍</b> (2020). 社交媒体时代的虚假信息研究. 温州大学, 温州: 16.</div>
   <div class="csl-entry"><b>井丽南</b> (2022). 支持状态可编程的SDN交换机关键技术研究. 中国科学院大学, 北京: 43.</div>
   <div class="csl-entry"><b>久保智康</b> (2009). 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心. 东方博物, 85-92.</div>
@@ -115,7 +115,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>汤万金, 杨跃翔, 刘文, 郑建国, 王赟松</b> (2013). 人体安全重要技术标准研制最终报告.</div>
   <div class="csl-entry">. 商务印书馆, 上海.</div>
   <div class="csl-entry"><b>図書館用語辞典編集委員会</b> (2004). 最新図書館用語大辞典. 柏書房株式会社, 東京: 154.</div>
-  <div class="csl-entry"><b>汪学军</b> (2005). 中国农业转基因生物研发进展与安全管理. , 北京.</div>
+  <div class="csl-entry"><b>汪学军</b> (2005). 中国农业转基因生物研发进展与安全管理. .</div>
   <div class="csl-entry"><b>王夫之</b> (1865). 宋论. 刻本 版. 湘乡曾国荃, 金陵.</div>
   <div class="csl-entry"><b>王夫之</b> (2011). 周易外传：卷5. In: 船山全书. 修订版 版. 岳麓书社, 长沙. pp. 983-1029.</div>
   <div class="csl-entry">. 北京大学开放研究数据平台(2025-06-11).</div>
@@ -123,7 +123,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>王琦</b> (2022). 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究. 武汉大学, 武汉: 87.</div>
   <div class="csl-entry">. 科学出版社, 北京.</div>
   <div class="csl-entry"><b>肖玲, 张雪, 王永</b> (2024). 数据要素的统计测算方法探究. PSSXiv.</div>
-  <div class="csl-entry"><b>肖希明, 石庆功, 刘奕</b> (2024). 民国图书馆学教育的社会贡献. , 北京.</div>
+  <div class="csl-entry"><b>肖希明, 石庆功, 刘奕</b> (2024). 民国图书馆学教育的社会贡献. .</div>
   <div class="csl-entry"><b>徐建委</b> (2025). 历史的起点：《史记》中的时间设置及其意义. 北京大学学报（哲学社会科学版）, <b>62</b>: 117-127.</div>
   <div class="csl-entry">(2025-02-17).</div>
   <div class="csl-entry"><b>扬奎斯特, 萨金特</b> (2010). 递归宏观经济理论. 2. 中国人民大学出版社, 北京: 798.</div>
@@ -162,7 +162,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Des Marais D.J., Strauss H., Summons R.E., Hayes J.M.</b> (1992). Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. Nature, <b>359</b>: 605-609.</div>
   <div class="csl-entry"><b>Deverell W., Igler D.</b> (2013). A companion to California history. John Wiley &#38; Sons, New York: 21-22.</div>
   <div class="csl-entry">(1570-07-28).</div>
-  <div class="csl-entry"><b>Fourney M.E.</b> (1971). Advances in holographic photoelasticity. , New York.</div>
+  <div class="csl-entry"><b>Fourney M.E.</b> (1971). Advances in holographic photoelasticity. .</div>
   <div class="csl-entry"><b>Frese K.S., Katus H.A., Meder B.</b> (2013). Next-generation sequencing: from understanding biology to personalized medicine. Biology, <b>2</b>: 378-398.</div>
   <div class="csl-entry">. Global Health Data Exchange.</div>
   <div class="csl-entry"><b>Institute For Art And Architecture, Academy Of Fine Arts Vienna</b> (2023). Wiener Hitze: architecture and storytelling in times of heat. Park Books, Zürich: 78.</div>
@@ -183,15 +183,15 @@ Qian et al. （2009a）<br>
   <div class="csl-entry"><b>Tachibana R., Shimizu S., Kobayashi S., Nakamura T.</b> (2001). Electronic watermarking method and system. 2001-06-28.</div>
   <div class="csl-entry"><b>Torres L., Salisbury F., Yazbeck B., Karasmanis S., Pinder J., Ondracek C.</b> (2021). Connecting the library to the curriculum. Springer Nature, Singapore: 97.</div>
   <div class="csl-entry"><b>Tristram M., Skarshewski P., Tristram I., Mossel B.</b> (2022). Storage and delivery system. 2022-10-06.</div>
-  <div class="csl-entry"><b>United Nations Department of Economic and Social Affairs</b> ([no date]). United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.</div>
+  <div class="csl-entry"><b>United Nations Department of Economic and Social Affairs</b> ([no date]). United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry"><b>U.S. Department of Transportation Federal Highway Administration</b> (1990). Guidelines for handling excavated acid-producing material. U.S. Department of Commerce National Information Service, Springfield: 25.</div>
   <div class="csl-entry"><b>Veen P.H. van der, Muller M., Vincken K.L., Witkamp T.D., Mali W.P.T.M., van der Graaf Y., Geerlings M.I., SMART-MR Study Group</b> (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. J. Neurol. Sci., <b>337</b>: 112-118.</div>
-  <div class="csl-entry"><b>Wang S.</b> (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers In: <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i>.</div>
+  <div class="csl-entry"><b>Wang S.</b> (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers In: <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i>, Changzhou, China.</div>
   <div class="csl-entry"><b>Weinstein L., Swartz M.N.</b> (1974). Pathogenic properties of invading microorganisms. In: <i>Pathologic physiology: mechanisms of disease</i>.  5th edn. Saunders, Philadelphia. pp. 457-472.</div>
-  <div class="csl-entry"><b>Yu Y., Pan E., Wang X., Wu Y., Mei X., Ma J.</b> (2024). Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis In: <i>CVPR</i>.</div>
+  <div class="csl-entry"><b>Yu Y., Pan E., Wang X., Wu Y., Mei X., Ma J.</b> (2024). Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis In: <i>CVPR</i>, Seattle.</div>
   <div class="csl-entry"><b>Yufin S.A.</b> (2000). Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. A. A. Balkema, Rotterdam.</div>
   <div class="csl-entry">. Global Change Research Data Publishing &#38; Repository.</div>
-  <div class="csl-entry">(1962). 康熙字典：巳集上 水部. 同文书局影印本 版. 中华书局, 北京: 50.</div>
+  <div class="csl-entry">(1962). 康熙字典. 同文书局影印本 版. 中华书局, 北京: 50.</div>
   <div class="csl-entry">. Taylor &#38; Francis, Philadelphia.</div>
   <div class="csl-entry">(2020). IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation. IEEE, New York.</div>
   <div class="csl-entry">(2022-10-26).</div>

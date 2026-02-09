@@ -29,7 +29,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]. 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 2005: 22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), 2022: 2.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, 2022: 2.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv, 2024.</div>
@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -255,10 +255,10 @@
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), 2022: 2.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China, 2022: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">YU Y, PAN E, WANG X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. CVPR, 2024: 4.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">YU Y, PAN E, WANG X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. CVPR, Seattle, 2024: 4.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">YUFIN S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
@@ -303,7 +303,7 @@
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
@@ -423,7 +423,7 @@
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">吴自银, 温珍河. 中国南部海域海底地形图[CM]. 北京: 科学出版社, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">訾冬梅, 高秀静. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社, 2006.</div>

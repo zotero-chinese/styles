@@ -303,7 +303,7 @@
     <div class="csl-left-margin">82.</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001 [R]. Springfield: U.S. Department of Commerce National Information Service, 1990, 25</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">83.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development [R]. [2025]</div>
+    <div class="csl-left-margin">83.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development [R]. [2025]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">84.</div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 信息与文献 资源描述：GB/T 3792—2021［S］. 2021</div>
@@ -423,7 +423,7 @@
     <div class="csl-left-margin">122.</div><div class="csl-right-inline">吴自银，温珍河. 中国南部海域海底地形图［CM］. 北京：科学出版社，2019</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">123.</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图［CM］</div>
+    <div class="csl-left-margin">123.</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图［CM］. ［2025］</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">124.</div><div class="csl-right-inline">訾冬梅，高秀静. 内蒙古自治区地图册［CM］. 新版. 北京：中国地图出版社，2006</div>

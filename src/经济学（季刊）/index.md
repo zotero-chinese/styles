@@ -335,7 +335,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[86]</div><div class="csl-right-inline">佚名，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。1949年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名，《康熙字典：巳集上 水部》。北京：中华书局，1962年。</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名，《康熙字典》。北京：中华书局，1962年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Anon, Public Library Quarterly. Philadelphia: Taylor &#38; Francis, 1979.</div>

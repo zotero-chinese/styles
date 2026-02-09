@@ -55,6 +55,7 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam, H. 1570. [Letter to Bess of Hardwick] [A].</div>
   <div class="csl-entry">Sugarman, L. &#38; S. Markham. 1980. Students in a selective high school: some vocationally oriented data [DS]. UK Data Service. <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a> (accessed 10/07/2025).</div>
   <div class="csl-entry">American Association for the Advancement of Science (ed.). 1883. Science [J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). n.d. Guide to lithium battery safety for space applications: AIAA G-136-2022 [S].</div>
@@ -74,7 +75,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Cribb, R. 2015. Historical atlas of Indonesia [CM]. Abingdon: Routledge.</div>
   <div class="csl-entry">Des Marais, D. J., H. Strauss, R. E. Summons, &#38; J. M. Hayes. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment [J]. <i>Nature</i> 359: 605-609.</div>
   <div class="csl-entry">W. Deverell &#38; D. Igler (eds.). 2013. <i>A Companion to California History</i> [C]. New York: John Wiley &#38; Sons. 21-22.</div>
-  <div class="csl-entry">Fitzwilliam, H. 1570. [Letter to Bess of Hardwick] [A].</div>
   <div class="csl-entry">Fourney, M. E. 1971. Advances in holographic photoelasticity, ed. W. G. Gottenberg [A]. In <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>[C]. New York: ASME. 17-38.</div>
   <div class="csl-entry">Frese, K. S., H. A. Katus, &#38; B. Meder. 2013. Next-generation sequencing: from understanding biology to personalized medicine [J]. <i>Biology</i> 2 (1): 378-398.</div>
   <div class="csl-entry">IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources [DS]. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a> (accessed 25/11/2024).</div>
@@ -96,12 +96,12 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayashi, &#38; T. Nakamura. 2001. Electronic watermarking method and system: US2002061118A1 [P]. 2001-6-28.</div>
   <div class="csl-entry">L. Torres, F. Salisbury, B. Yazbeck, S. Karasmanis, J. Pinder, &#38; C. Ondracek (eds.). 2021. <i>Connecting the Library to the Curriculum</i> [C]. Singapore: Springer Nature. 97.</div>
   <div class="csl-entry">Tristram, M., P. Skarshewski, I. Tristram, &#38; B. Mossel. 2022. Storage and delivery system: AU2022228203A1 [P]. 2022-10-6.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. n.d. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development [R].</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. n.d. United Nations e-government survey 2024: accelerating digital transformation for sustainable development [R].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001 [R]. Springfield: U.S. Department of Commerce National Information Service. 25.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, &#38; SMART-MR Study Group. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study [J]. <i>Journal of the Neurological Sciences</i> 337 (1/2): 112-118.</div>
-  <div class="csl-entry">Wang, S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers [R]. Paper presented at the 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT).</div>
+  <div class="csl-entry">Wang, S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers [R]. Paper presented at the 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China.</div>
   <div class="csl-entry">Weinstein, L. &#38; M. N. Swartz. 1974. Pathogenic properties of invading microorganisms, eds. William A. Sodeman Jr., William A. Sodeman [A]. In <i>Pathologic Physiology: Mechanisms of Disease</i>[C]. Philadelphia: Saunders. 457-472.</div>
-  <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei, &#38; J. Ma. 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis [R]. Paper presented at the CVPR.</div>
+  <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei, &#38; J. Ma. 2024. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis [R]. Paper presented at the CVPR, Seattle.</div>
   <div class="csl-entry">S. A. Yufin (ed.). 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i> [C]. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Zhong, X., Q. Yan, &#38; G. Li. 2022. Long time series nighttime light dataset of China (2000-2020) [DS]. Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> (accessed 25/11/2024).</div>
   <div class="csl-entry">Zotero. n.d. [Zotero download] [OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> (accessed 08/04/2024).</div>
@@ -132,7 +132,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">何筱梅，2016，新媒体时代原生广告的策略与发展研究[D]。博士学位论文。武汉：武汉大学。24-25。</div>
   <div class="csl-entry">胡健民，2021，东南极拉斯曼丘陵地区地质图[CM]。北京：科学出版社。</div>
   <div class="csl-entry">湖北省建设厅，1931，湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]。武汉：湖北省档案馆。</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024，青海省县域教育、卫生发展指标（2001—2022年）[DS]。<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>。</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024，青海省县域教育、卫生发展指标（2001—2022年）[DS]。<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> （2025年7月10日读取）。</div>
   <div class="csl-entry">冀超，2001，一种荒漠化地区生态植被综合培育种植方法：CN1318281A[P]。2001-10-24。</div>
   <div class="csl-entry">贾东琴、柯平，2011，面向数字素养的高校图书馆数字服务体系研究[A]，中国图书馆学会编。载《中国图书馆学会年会论文集》：2011年卷[C]。北京：国家图书馆出版社。45-52。</div>
   <div class="csl-entry">金燕萍，2020，社交媒体时代的虚假信息研究[D]。硕士学位论文。温州：温州大学。16。</div>
@@ -191,7 +191,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞，2023，天宫二号遥感图像自然景物分类数据集[DS]。<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> （2025年7月15日读取）。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，内蒙古自治区地图册（新版）[CM]。北京：中国地图出版社。</div>
   <div class="csl-entry">佚名，1949，中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]。武汉：武汉大学档案馆。</div>
-  <div class="csl-entry">佚名，1962，《康熙字典：巳集上 水部》（同文书局影印本）[M]。北京：中华书局。50。</div>
+  <div class="csl-entry">佚名，1962，《康熙字典》：巳集上 水部（同文书局影印本）[M]。北京：中华书局。50。</div>
   <div class="csl-entry">佚名，2011，周易外传：卷5[A]。载王夫之（编）．《船山全书》：第1册[C]。长沙：岳麓书社。983-1029。</div>
   <div class="csl-entry">佚名，2020，大黄[A]。载国家药典委员会（编）．《中华人民共和国药典》：一部[C]。北京：中国医药科技出版社。24-25。</div>
   <div class="csl-entry">佚名，2023a，[《昨日之歌》图书封面][Z]。</div>

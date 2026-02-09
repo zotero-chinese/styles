@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline"><b>2008</b>. 第1版自序. (冯友兰. 冯友兰自选集. 2 版. 北京: 首都师范大学出版社, <b>2008</b>. 第1版自序.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline"><b>1962</b>. 50. (康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局, <b>1962</b>. 50.)</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline"><b>1962</b>. 50. (康熙字典. 同文书局影印本. 北京: 中华书局, <b>1962</b>. 50.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline"><b>2019</b>. (战德臣, 张丽杰. 大学计算机：计算思维与信息素养. 3 版. 北京: 高等教育出版社, <b>2019</b>.)</div>
@@ -303,7 +303,7 @@
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, <b>1990</b>. 25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development. <b>[2025]</b>.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. <b>[2025]</b>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline"><b>2021</b>. (全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. <b>2021</b>.)</div>
@@ -423,7 +423,7 @@
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline"><b>2019</b>. (吴自银, 温珍河. 中国南部海域海底地形图. 北京: 科学出版社, <b>2019</b>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">(国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.)</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline"><b>[2025]</b>. (国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图. <b>[2025]</b>.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline"><b>2006</b>. (訾冬梅, 高秀静. 内蒙古自治区地图册. 新版. 北京: 中国地图出版社, <b>2006</b>.)</div>
@@ -453,7 +453,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline"><b>2018</b>[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. (郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank, <b>2018</b>[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">(2024-12-25). <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. (黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心, <b>2024</b>. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.)</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">(2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. (黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心, <b>2024</b>[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline">(2025-06-11)[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>. (王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 人文社会科学数据集检索方法研究的数据集. 北京大学开放研究数据平台, <b>2025</b>[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.)</div>

@@ -84,64 +84,64 @@ Qian et al. （2009b）<br>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Sugarman L &#38; Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980[2025-07-10]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick][A]. 1570.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Sugarman L &#38; Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980[2025-07-10]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anon. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anon. Library of Congress[EB/OL]. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anon. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anon. Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anon. Library of Congress[EB/OL]. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anon. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anon. Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Anon. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Babu B V, Nagar A, Deep K, <i>et al.</i> Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Bevington D &#38; Brown J R. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Babu B V, Nagar A, Deep K, <i>et al.</i> Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, <i>et al.</i> A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv, 2015.</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Bevington D &#38; Brown J R. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, <i>et al.</i> A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Calkin D E, Ager A A &#38; Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Calkin D E, Ager A A &#38; Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024: 18.</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024: 18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, <i>et al.</i> Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Deverell W &#38; Igler D. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, <i>et al.</i> Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick][A]. 1570.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Deverell W &#38; Igler D. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Gottenberg W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
@@ -207,7 +207,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[41]</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, <i>et al.</i> Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+    <div class="csl-left-margin">[42]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[43]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
@@ -297,7 +297,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[71]</div><div class="csl-right-inline">顾炎武．昌平山水记；京东考古录[M]．北京：北京古籍出版社，1980．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">国家测绘地理信息局．一带一路经济走廊及其途经城市分布地势图[CM]．</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">国家测绘地理信息局．一带一路经济走廊及其途经城市分布地势图[CM]．[2025]．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[73]</div><div class="csl-right-inline">国家能源局．水电工程水温实时监测系统技术规范：NB/T 10386—2020[S]．2020．</div>
@@ -315,7 +315,7 @@ Qian et al. （2009b）<br>
     <div class="csl-left-margin">[77]</div><div class="csl-right-inline">湖北省建设厅．湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]．武汉：湖北省档案馆，1931．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]．国家地理资源科学数据中心-黄土高原分中心，2024．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．</div>
+    <div class="csl-left-margin">[78]</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]．国家地理资源科学数据中心-黄土高原分中心，2024[2025-07-10]．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">冀超．一种荒漠化地区生态植被综合培育种植方法：CN1318281A[P]．2001-10-24．</div>

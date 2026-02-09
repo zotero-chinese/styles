@@ -135,7 +135,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.</div>
@@ -444,7 +444,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
@@ -474,7 +474,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[130]</div><div class="csl-right-inline">中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>

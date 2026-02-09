@@ -321,7 +321,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佚名，1957/1990，《图书馆学通讯》. 北京: 北京图书馆。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名，1962，《康熙字典：巳集上 水部》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名，1962，《康熙字典》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[81]</div><div class="csl-right-inline">Anonymous. 1979. “Public Library Quarterly.” Philadelphia: Taylor &#38; Francis.</div>

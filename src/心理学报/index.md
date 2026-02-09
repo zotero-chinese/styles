@@ -107,15 +107,15 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., &#38; Nakamura, T. (2001). <i>Electronic watermarking method and system</i> (No. US2002061118A1).</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., &#38; Ondracek, C. (Eds.). (2021). <i>Connecting the library to the curriculum</i> (p. 97). Springer Nature.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., &#38; Mossel, B. (2022). <i>Storage and delivery system</i> (No. AU2022228203A1).</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001; p. 25). U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., … SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <i>337</i>(1/2), 112–118.</div>
-  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2). 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT).</div>
+  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2). 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China.</div>
   <div class="csl-entry">Wang X. J. (2005). Progress and safety management of genetically modified organism research and development in China. In <i>Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar</i> (pp. 22–25). China Environmental Science Press. [汪学军. (2005). 中国农业转基因生物研发进展与安全管理. 见 国家环境保护总局生物安全管理办公室 (编), <i>中国国家生物安全框架实施国际合作项目研讨会论文集</i> (pp. 22–25). 北京: 中国环境科学出版社.]</div>
   <div class="csl-entry">Weinstein, L., &#38; Swartz, M. N. (1974). Pathogenic properties of invading microorganisms. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (5th ed., pp. 457–472). Saunders.</div>
   <div class="csl-entry">Xiao L., Zhang X., &#38; Wang Y. (2024). <i>Exploring statistical measurement methods for data elements</i> (No. PSSXiv:202408.01096). PSSXiv. [肖玲, 张雪, 王永. (2024). <i>数据要素的统计测算方法探究</i> (No. PSSXiv:202408.01096). PSSXiv.]</div>
   <div class="csl-entry">Yu X., Liu Y., Chai Y. T., &#38; Sun H. B. (2012). The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment. <i>Journal of Tsinghua University (Science and Technology)</i>, <i>52</i>(11), 1518–1523. [于潇, 刘义, 柴跃廷, 孙宏波. (2012). 互联网药品可信交易环境中主体资质审核备案模式. <i>清华大学学报（自然科学版）</i>, <i>52</i>(11), 1518–1523.]</div>
-  <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). <i>Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</i> (p. 4). CVPR.</div>
+  <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). <i>Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</i> (p. 4). CVPR, Seattle.</div>
   <div class="csl-entry">Yufin, S. A. (Ed.). (2000). <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema.</div>
   <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long time series nighttime light dataset of China (2000-2020)</i>. Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">Zotero. (n.d.). <i>[Zotero download]</i>.</div>
@@ -152,7 +152,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">[国家药典委员会 (编). (2020). 大黄. 见 <i>中华人民共和国药典</i>(一部) (2020版, pp. 24–25). 北京: 中国医药科技出版社.]</div>
   <div class="csl-entry">[工业和信息化部. (2022). <i>信息技术  中文编码字符集</i> (国家标准 No. GB 18030—2022).]</div>
   <div class="csl-entry">[<i>《庄子》读不懂？看完这一篇“导读”就明白了</i>. (2022-10-26).]</div>
-  <div class="csl-entry">[<i>康熙字典：巳集上 水部</i> (同文书局影印本, p. 50). (1962). 北京: 中华书局.]</div>
+  <div class="csl-entry">[<i>康熙字典</i> (同文书局影印本, p. 50). (1962). 北京: 中华书局.]</div>
   <div class="csl-entry">[张伯伟. (2002). <i>全唐五代诗格汇考</i> (p. 288). 南京: 江苏古籍出版社.]</div>
   <div class="csl-entry">[张凯军, 赵永杰, 陈朝岗. (2013). <i>轨道火车及高速轨道火车紧急安全制动辅助装置</i> (No. CN202827616U).]</div>
   <div class="csl-entry">[张群, 程志宝, 石志飞. (2024a). 惯性增强动力吸振器-浮置板轨道低频减振性能研究. <i>铁道学报</i>, <i>46</i>(8), 102–111.]</div>

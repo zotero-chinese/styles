@@ -16,7 +16,7 @@
   <div class="csl-entry">[1] 扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798. [LJUNGQVIST Lars, SARGENT Thomas J. Recursive macroeconomic theory[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. Beijing: China Renmin University Press, 2010. ] </div>
   <div class="csl-entry">[2] PRAETZELLIS A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">[3] 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523. [YU Xiao, LIU Yi, CHAI Yue Ting, et al. The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment[J]. Journal of Tsinghua University (Science and Technology), 2012, 52(11): 1518-1523. ] </div>
-  <div class="csl-entry">[4] VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
+  <div class="csl-entry">[4] VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118[2025-12-02].</div>
   <div class="csl-entry">[5] 汪学军. 中国农业转基因生物研发进展与安全管理[C]. 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25. [WANG Xue Jun. Progress and safety management of genetically modified organism research and development in China[C]. 国家环境保护总局生物安全管理办公室, 编//Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005. ] </div>
   <div class="csl-entry">[6] WANG S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. [2025-12-02].</div>
   <div class="csl-entry">[7] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[Z]. PSSXiv, 2024(2024-07-02)[2024-09-30]. [XIAO Ling, ZHANG Xue, WANG Yong. Exploring statistical measurement methods for data elements[Z]. PSSXiv, 2024(2024-07-02)[2024-09-30]. ] </div>
@@ -47,7 +47,7 @@
   <div class="csl-entry">[5] 顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980. [顾炎武. 昌平山水记；京东考古录[M]. 1980. ] </div>
   <div class="csl-entry">[6] 钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3. [钱学森. 创建系统学[M]. 2001. ] </div>
   <div class="csl-entry">[7] 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序. [冯友兰. 冯友兰自选集[M]. 2 版. 2008. ] </div>
-  <div class="csl-entry">[8] 佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50. [佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 1962. ] </div>
+  <div class="csl-entry">[8] 佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50. [佚名. 康熙字典[M]. 同文书局影印本 版. 1962. ] </div>
   <div class="csl-entry">[9] 战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019. [战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 2019. ] </div>
   <div class="csl-entry">[10] 哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236. [哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 2012. ] </div>
   <div class="csl-entry">[11] 佚名. 鼻整形应用解剖学[M]. 牛永敢, 孔晓, 王阳, 等, 编. 北京: 人民卫生出版社, 2019: 65-66. [佚名. 鼻整形应用解剖学[M]. 牛永敢, 孔晓, 王阳, 等, 编. 2019. ] </div>
@@ -98,7 +98,7 @@
   <div class="csl-entry">[56] MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, et al. The genome of <i>Eucalyptus grandis</i>[J]. Nature, 2014, 510: 356-362[2014-06-25].</div>
   <div class="csl-entry">[57] SANTER R D, AKANYETI O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. Insect Science, 2025[2025-02-28].</div>
   <div class="csl-entry">[58] SHINOTSUKA H, NAGATA K, SIRIWARDANA M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. Journal of Electron Spectroscopy and Related Phenomena, 2023, 267[2025-02-28].</div>
-  <div class="csl-entry">[59] VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
+  <div class="csl-entry">[59] VEEN P H van der, MULLER M, VINCKEN K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118[2025-12-02].</div>
   <div class="csl-entry">[60] 李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. . [李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. 2022. ] </div>
   <div class="csl-entry">[61] 佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 牛志明, SWINGLAND I R, 雷光春, 编. 北京: 海洋出版社, 2012. [佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 牛志明, SWINGLAND I R, 雷光春, 编. 2012. ] </div>
   <div class="csl-entry">[62] 佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社, 2012. [佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 2012. ] </div>
@@ -120,9 +120,9 @@
   <div class="csl-entry">[78] 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. [2013-03-26]. [中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. 2012[2013-03-26]. ] </div>
   <div class="csl-entry">[79] 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. [2014-06-24]. [汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013[2014-06-24]. ] </div>
   <div class="csl-entry">[80] 中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 电信业发展白皮书：2023：新时代高质量发展探索[R]. [2025-02-28]. [中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 电信业发展白皮书：2023：新时代高质量发展探索[R]. 2023[2025-02-28]. ] </div>
-  <div class="csl-entry">[81] CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. .</div>
+  <div class="csl-entry">[81] CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. [2025-12-02].</div>
   <div class="csl-entry">[82] U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
-  <div class="csl-entry">[83] UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025-02-28].</div>
+  <div class="csl-entry">[83] UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025-02-28].</div>
   <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. . [全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021. ] </div>
   <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. . [全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016. ] </div>
   <div class="csl-entry">[86] 工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. [2025-12-02]. [工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022[2025-12-02]. ] </div>
@@ -162,7 +162,7 @@
   <div class="csl-entry">[120] 刘祥沈. 沈阳市政区图[Z]. 武汉: 武汉大学出版社, 20162016. [刘祥沈. 沈阳市政区图[Z]. 20162016. ] </div>
   <div class="csl-entry">[121] 中工武大设计研究有限公司. 阳新县标准地名图[Z]. 武汉: 武汉大学出版社, 20192019. [中工武大设计研究有限公司. 阳新县标准地名图[Z]. 20192019. ] </div>
   <div class="csl-entry">[122] 吴自银, 温珍河. 中国南部海域海底地形图[Z]. 北京: 科学出版社, 20192019. [吴自银, 温珍河. 中国南部海域海底地形图[Z]. 20192019. ] </div>
-  <div class="csl-entry">[123] 国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z]. [国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z]. [日期不详]. ] </div>
+  <div class="csl-entry">[123] 国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z][2025-12-02]. [国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z]. [日期不详][2025-12-02]. ] </div>
   <div class="csl-entry">[124] 訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社, 20062006. [訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 20062006. ] </div>
   <div class="csl-entry">[125] 谭其骧. 中国历史地图集[Z]. 北京: 地图出版社, 1982: 61982. [谭其骧. 中国历史地图集[Z]. 19821982. ] </div>
   <div class="csl-entry">[126] 童世亨. 京兆直隶图[Z]. 上海: 商务印书馆, 19261926[2025-02-28]. [童世亨. 京兆直隶图[Z]. 19261926[2025-02-28]. ] </div>
@@ -172,7 +172,7 @@
   <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 20122012[2024-11-25]. [刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS]. 20122012[2024-11-25]. ] </div>
   <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15]. [周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS]. 2023(2023-09-10)[2025-07-15]. ] </div>
   <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. Science Data Bank, 20182018[2025-02-14]. [郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS]. 20182018[2025-02-14]. ] </div>
-  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25). [黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 2024(2024-12-25). ] </div>
+  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25)[2025-07-10]. [黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 2024(2024-12-25)[2025-07-10]. ] </div>
   <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS]. 北京大学开放研究数据平台, 2025(2025-06-11)[2025-07-10]. [王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS]. 2025(2025-06-11)[2025-07-10]. ] </div>
   <div class="csl-entry">[135] SUGARMAN L, MARKHAM S. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service, 19801980[2025-07-10].</div>
   <div class="csl-entry">[136] ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China (2000-2020)[DS]. Global Change Research Data Publishing &#38; Repository, 20222022[2024-11-25].</div>

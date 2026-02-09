@@ -89,7 +89,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016</div>
   <div class="csl-entry">胡健民. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社</div>
   <div class="csl-entry">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令(1931-11-07)</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]</div>
   <div class="csl-entry">冀超. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24</div>
   <div class="csl-entry">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52</div>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学, 2020</div>
@@ -128,7 +128,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anonymous. Science. Washington, D.C.: American Association for the Advancement of Science</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告</div>
   <div class="csl-entry">佚名. 图书馆学通讯. 北京: 北京图书馆</div>
-  <div class="csl-entry">佚名. 康熙字典：巳集上 水部[M]. 北京: 中华书局, 1962</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 北京: 中华书局, 1962</div>
   <div class="csl-entry">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">佚名. 临床内科杂志. 武汉: 中华医学会湖北分会</div>
   <div class="csl-entry">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000</div>
@@ -200,7 +200,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Sugarman L., Markham S. Students in a selective high school: some vocationally oriented data. UK Data Service[07/10/2025]</div>
   <div class="csl-entry">Tachibana R., Shimizu S., Kobayashi S., Nakamura T. Electronic watermarking method and system[P]. 2001-06-28</div>
   <div class="csl-entry">Tristram M., Skarshewski P., Tristram I., Mossel B. Storage and delivery system[P]. 2022-10-06</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable developmentno date</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable developmentno date</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990</div>
   <div class="csl-entry">Veen P. H. van der, Muller M., Vincken K. L., Witkamp T. D., Mali W. P. T. M., van der Graaf Y., Geerlings M. I., SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112–118</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//, 2022: 2</div>

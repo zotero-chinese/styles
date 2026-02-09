@@ -164,7 +164,7 @@
 <sup>80</sup> 中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，等．电信业发展白皮书：2023：新时代高质量发展探索［R］．2023．<br>
 <sup>81</sup> CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.<br>
-<sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R].<br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R].<br>
 <sup>84</sup> 全国信息与文献标准化技术委员会．信息与文献 资源描述：GB/T 3792—2021［S］．2021．<br>
 <sup>85</sup> 全国信息技术标准化技术委员会．信息技术 先进音视频编码 第16部分：广播电视视频：GB/T 20090.16—2016［S］．2016．<br>
 <sup>86</sup> 工业和信息化部．信息技术  中文编码字符集：GB 18030—2022［S］．2022．<br>
@@ -214,7 +214,7 @@
 <sup>130</sup> 刘时银，郭万钦，许君利．中国第二次水川编目科学数据：2006-2011［DS/OL］．中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012［2024-11-25］．<a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>．<br>
 <sup>131</sup> 周壮，李盛阳，吴薇，等．天宫二号遥感图像自然景物分类数据集［DS/OL］．国家基础学科公共科学数据中心，2023［2025-07-15］．<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>．<br>
 <sup>132</sup> 郑涵，于贵瑞，朱先进，等．2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据［DS/OL］．Science Data Bank，2018［2025-02-14］．<a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>．<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）［DS/OL］．国家地理资源科学数据中心-黄土高原分中心，2024．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）．青海省县域教育、卫生发展指标（2001—2022年）［DS/OL］．国家地理资源科学数据中心-黄土高原分中心，2024［2025-07-10］．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．<br>
 <sup>134</sup> 王继民，罗鹏程，赵常煜，等．人文社会科学数据集检索方法研究的数据集［DS/OL］．北京大学开放研究数据平台，2025［2025-07-10］．<a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>．<br>
 <sup>135</sup> SUGARMAN L, MARKHAM S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980[2025-07-10]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.<br>
 <sup>136</sup> ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022[2024-11-25]. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.<br>

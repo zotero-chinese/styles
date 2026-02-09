@@ -27,7 +27,7 @@
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, 11: 1518~1523.</div>
   <div class="csl-entry">Jenkins, S. D., J. Ruostekoski. 2012. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice. arXiv(2012-03-18)[2020-06-24].</div>
   <div class="csl-entry">Praetzellis, A. 2011. Death by Theory: A Tale of Mystery and Archaeological Theory. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012-07-26].</div>
-  <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, SMART-MR Study Group. 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. Journal of the Neurological Sciences, 337(1/2): 112~118.</div>
+  <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, SMART-MR Study Group. 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. Journal of the Neurological Sciences, 337(1/2): 112~118[2025-12-02].</div>
   <div class="csl-entry">Wang, S. 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers. [2025-12-02].</div>
 </div>
 
@@ -83,13 +83,13 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">高等教育文献保障系统. [日期不详]. 馆际互借与文献传递服务[2025-06-21].</div>
   <div class="csl-entry">工业和信息化部. 2022. 信息技术  中文编码字符集: GB 18030—2022. [2025-12-02].</div>
   <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录. 北京: 北京古籍出版社.</div>
-  <div class="csl-entry">国家测绘地理信息局. [日期不详]. 一带一路经济走廊及其途经城市分布地势图.</div>
+  <div class="csl-entry">国家测绘地理信息局. [日期不详]. 一带一路经济走廊及其途经城市分布地势图[2025-12-02].</div>
   <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020. .</div>
   <div class="csl-entry">哈里森, 沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社: 235~236.</div>
   <div class="csl-entry">何筱梅. 2016. 新媒体时代原生广告的策略与发展研究. 武汉: 武汉大学: 24~25[2025-02-28].</div>
   <div class="csl-entry">胡健民. 2021. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社.</div>
   <div class="csl-entry">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令(1931-11-07)[2025-02-28].</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25).</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10].</div>
   <div class="csl-entry">冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A. 2001-10-24[2002-05-28].</div>
   <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会, 编//中国图书馆学会年会论文集. 北京: 国家图书馆出版社: 45~52.</div>
   <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究. 温州: 温州大学: 16[2025-12-02].</div>
@@ -146,7 +146,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Anonymous. 1883. Science. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[2025-02-28].</div>
   <div class="csl-entry">佚名. 1957/1990. 图书馆学通讯. 北京: 北京图书馆.</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部. 同文书局影印本 版. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典. 同文书局影印本 版. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anonymous. 1979. Public Library Quarterly. Philadelphia: Taylor &#38; Francis[2025-02-28].</div>
   <div class="csl-entry">佚名. 1984. 临床内科杂志. 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">Anonymous. 2000. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Yufin, S. A., ed.. Rotterdam: A. A. Balkema.</div>
@@ -174,7 +174,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Bloss, C. S., N. E. Wineinger, M. Peters, D. L. Boeldt, L. Ariniello, J. Y. Kim, J. Sheard, R. Komatireddy, P. Barrett, E. J. Topol. 2015. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors. bioRxiv(2015-10-28)[2018-07-12].</div>
   <div class="csl-entry">Boobier, T. 2020. AI and the Future of Banking. Chichester: John Wiley &#38; Sons: 35.</div>
   <div class="csl-entry">Cairns, B. R. 1965. Infrared Spectroscopic Studies on Solid Oxygen. Berkeley: University of California: 15.</div>
-  <div class="csl-entry">Calkin, D. E., A. A. Ager, M. P. Thompson. 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262. .</div>
+  <div class="csl-entry">Calkin, D. E., A. A. Ager, M. P. Thompson. 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262. [2025-12-02].</div>
   <div class="csl-entry">Caplan, P. 1993. Cataloging Internet Resources. The Public-Access Computer Systems Review, 4(2): 61~66.</div>
   <div class="csl-entry">Christou, A. 2024. Improving Knowledge Graph Understanding with Contextual Views. Ohio: Wright State University: 18[2025-02-28].</div>
   <div class="csl-entry">Cribb, R. 2015. Historical Atlas of Indonesia. Abingdon: Routledge.</div>
@@ -202,7 +202,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Tristram, M., P. Skarshewski, I. Tristram, B. Mossel. 2022. Storage and delivery system: AU2022228203A1. 2022-10-06[2025-02-28].</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. [no date]. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development. [2025-02-28].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
-  <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, SMART-MR Study Group. 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. Journal of the Neurological Sciences, 337(1/2): 112~118.</div>
+  <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, SMART-MR Study Group. 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. Journal of the Neurological Sciences, 337(1/2): 112~118[2025-12-02].</div>
   <div class="csl-entry">Wang, S. 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers. [2025-12-02].</div>
   <div class="csl-entry">Weinstein, L., M. N. Swartz. 1974. Pathogenic Properties of Invading Microorganisms. Sodeman, W. A., Jr., W. A. Sodeman, eds.//Pathologic Physiology: Mechanisms of Disease. 5 edition. Philadelphia: Saunders: 457~472.</div>
   <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei, J. Ma. 2024. Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis. [2025-12-02].</div>

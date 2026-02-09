@@ -90,7 +90,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">2008 p第1版自序 (in Chinese) [冯友兰 2008 冯友兰自选集 (2 版) (北京: 首都师范大学出版社) p第1版自序]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典：巳集上 水部 (同文书局影印本) (北京: 中华书局) p50]</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">1962 p50 (in Chinese) [1962 康熙字典 (同文书局影印本, 巳集上 水部) (北京: 中华书局) p50]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">2019 (in Chinese) [战德臣, 张丽杰 2019 大学计算机：计算思维与信息素养 (3 版) (北京: 高等教育出版社)]</div>
@@ -255,22 +255,22 @@
     <div class="csl-left-margin">[62]</div><div class="csl-right-inline">2012 (in Chinese) [中国社会科学院台湾史研究中心 2012 台湾光复六十五周年暨抗战史实学术研讨会论文集 (北京: 九州出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">2024 p134 (in Chinese) [肖希明, 石庆功, 刘奕 2024 <i>纪念北京大学图书馆学教育100周年研讨会论文集</i> 北京 p134]</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">2024 p134 (in Chinese) [肖希明, 石庆功, 刘奕 2024 <i>纪念北京大学图书馆学教育100周年研讨会论文集</i> (北京: 北京大学信息管理系) p134]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Wang X J 2005 <i>Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar</i> p22 (in Chinese) [汪学军 2005 中国国家生物安全框架实施国际合作项目研讨会论文集 北京 p22]</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">Wang X J 2005 <i>Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar</i> (Beijing: China Environmental Science Press) p22 (in Chinese) [汪学军 2005 中国国家生物安全框架实施国际合作项目研讨会论文集 (北京: 中国环境科学出版社) p22]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">2011 p45 (in Chinese) [贾东琴, 柯平 2011 中国图书馆学会年会论文集 北京 p45]</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">2011 p45 (in Chinese) [贾东琴, 柯平 2011 中国图书馆学会年会论文集 (北京: 国家图书馆出版社) p45]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">2011 (in Chinese) [陈志勇 2011 中国财税文化价值研究：《中国财税文化国际学术研讨会》论文集 (北京: 经济科学出版社)]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang S 2022 <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i> p2</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang S 2022 <i>2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)</i> Changzhou, China p2</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J 2024 <i>CVPR</i> p4</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, Wu Y, Mei X, Ma J 2024 <i>CVPR</i> Seattle p4</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Yufin S A 2000 <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i> (Rotterdam: A. A. Balkema)</div>
@@ -279,7 +279,7 @@
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">Babu B V, Nagar A, Deep K, Pant M, Bansal J C, Ray K, Gupta U 2014 <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i> (New Delhi: Springer)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Fourney M E 1971 <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> New York p17</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">Fourney M E 1971 <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i> (New York: ASME) p17</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">2022 <i>Ph.D Dissertation</i> p87 (in Chinese) [王琦 2022 博士学位论文 (武汉: 武汉大学) p87]</div>
@@ -465,7 +465,7 @@
     <div class="csl-left-margin">[132]</div><div class="csl-right-inline"><a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-2-14] (in Chinese) [郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平 (Science Data Bank) <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-2-14]]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline"><a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> (in Chinese) [黄土高原科学数据中心（西北农林科技大学水土保持研究所） (国家地理资源科学数据中心-黄土高原分中心) <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>]</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline"><a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10] (in Chinese) [黄土高原科学数据中心（西北农林科技大学水土保持研究所） (国家地理资源科学数据中心-黄土高原分中心) <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a> [2025-7-10]]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[134]</div><div class="csl-right-inline"><a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-10] (in Chinese) [王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正 (北京大学开放研究数据平台) <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-7-10]]</div>

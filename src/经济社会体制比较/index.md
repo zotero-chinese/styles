@@ -23,7 +23,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Jenkins S.D. &#38; Ruostekoski J., 2012. “Controlled manipulation of light by cooperative response of atoms in an optical lattice.”. arXiv(2012-03-18)[2020-06-24].</div>
   <div class="csl-entry">Praetzellis A., 2011. “Death by theory: a tale of mystery and archaeological theory.”. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.: 13[2012-07-26].</div>
-  <div class="csl-entry">Veen P.H. van der, Muller M., Vincken K.L., et al., 2014. “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study.” <i>Journal of the Neurological Sciences</i>. 337(1/2): 112–118.</div>
+  <div class="csl-entry">Veen P.H. van der, Muller M., Vincken K.L., et al., 2014. “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study.” <i>Journal of the Neurological Sciences</i>. 337(1/2): 112–118[2025-12-02].</div>
   <div class="csl-entry">Wang S., 2022. “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers.”. [2025-12-02].</div>
   <div class="csl-entry">汪学军, 2005：“中国农业转基因生物研发进展与安全管理”. 国家环境保护总局生物安全管理办公室, 编//《中国国家生物安全框架实施国际合作项目研讨会论文集》北京: 中国环境科学出版社: 22–25。</div>
   <div class="csl-entry">肖玲、张雪、王永, 2024：“数据要素的统计测算方法探究”. PSSXiv(2024-07-02)[2024-09-30]。</div>
@@ -67,6 +67,7 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam H., 1570. “[Letter to Bess of Hardwick].”(1570-07-28)[2025-02-28].</div>
   <div class="csl-entry">Sugarman L. &#38; Markham S., 1980. “Students in a selective high school: some vocationally oriented data.”. UK Data Service[2025-07-10].</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), [no date]. “Guide to lithium battery safety for space applications.”. .</div>
   <div class="csl-entry">Anonymous, 1883. “Science.”. Washington, D.C.: American Association for the Advancement of Science.</div>
@@ -84,12 +85,11 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Bloss C.S., Wineinger N.E., Peters M., et al., 2015. “A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors.”. bioRxiv(2015-10-28)[2018-07-12].</div>
   <div class="csl-entry">Boobier T., 2020. “AI and the future of banking.”. Chichester: John Wiley &#38; Sons: 35.</div>
   <div class="csl-entry">Cairns B.R., 1965. “Infrared spectroscopic studies on solid oxygen.”. Berkeley: University of California: 15.</div>
-  <div class="csl-entry">Calkin D.E., Ager A.A. &#38; Thompson M.P., 2011. “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report.”. .</div>
+  <div class="csl-entry">Calkin D.E., Ager A.A. &#38; Thompson M.P., 2011. “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report.”. [2025-12-02].</div>
   <div class="csl-entry">Caplan P., 1993. “Cataloging internet resources.” <i>The Public-Access Computer Systems Review</i>. 4(2): 61–66.</div>
   <div class="csl-entry">Christou A., 2024. “Improving knowledge graph understanding with contextual views.”. Ohio: Wright State University: 18[2025-02-28].</div>
   <div class="csl-entry">Cribb R., 2015. “Historical atlas of Indonesia.”. Abingdon: Routledge.</div>
   <div class="csl-entry">Des Marais D.J., Strauss H., Summons R.E., et al., 1992. “Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment.” <i>Nature</i>. 359: 605–609.</div>
-  <div class="csl-entry">Fitzwilliam H., 1570. “[Letter to Bess of Hardwick].”(1570-07-28)[2025-02-28].</div>
   <div class="csl-entry">Fourney M.E., 1971. “Advances in holographic photoelasticity.”. Gottenberg W G, ed.//<i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>  New York: ASME: 17–38.</div>
   <div class="csl-entry">Frese K.S., Katus H.A. &#38; Meder B., 2013. “Next-generation sequencing: from understanding biology to personalized medicine.” <i>Biology</i>. 2(1): 378–398[2013-03-19].</div>
   <div class="csl-entry">IHME, 2021. “Global Burden of Disease Study 2019 (GBD2019) data resources.”. Global Health Data Exchange[2024-11-25].</div>
@@ -109,9 +109,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Shinotsuka H., Nagata K., Siriwardana M., et al., 2023. “Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator.” <i>Journal of Electron Spectroscopy and Related Phenomena</i>. 267[2025-02-28].</div>
   <div class="csl-entry">Tachibana R., Shimizu S., Kobayashi S., et al., 2001. “Electronic watermarking method and system.”. 2001-06-28[2013-11-11].</div>
   <div class="csl-entry">Tristram M., Skarshewski P., Tristram I., et al., 2022. “Storage and delivery system.”. 2022-10-06[2025-02-28].</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs, [no date]. “United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.”. [2025-02-28].</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs, [no date]. “United Nations e-government survey 2024: accelerating digital transformation for sustainable development.”. [2025-02-28].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990. “Guidelines for handling excavated acid-producing material.”. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
-  <div class="csl-entry">Veen P.H. van der, Muller M., Vincken K.L., et al., 2014. “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study.” <i>Journal of the Neurological Sciences</i>. 337(1/2): 112–118.</div>
+  <div class="csl-entry">Veen P.H. van der, Muller M., Vincken K.L., et al., 2014. “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study.” <i>Journal of the Neurological Sciences</i>. 337(1/2): 112–118[2025-12-02].</div>
   <div class="csl-entry">Wang S., 2022. “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers.”. [2025-12-02].</div>
   <div class="csl-entry">Weinstein L. &#38; Swartz M.N., 1974. “Pathogenic properties of invading microorganisms.”. Sodeman W A Jr, Sodeman W A, eds.//<i>Pathologic Physiology: Mechanisms of Disease</i>  5 edition. Philadelphia: Saunders: 457–472.</div>
   <div class="csl-entry">Yu Y., Pan E., Wang X., et al., 2024. “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis.”. [2025-12-02].</div>
@@ -137,13 +137,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">高等教育文献保障系统, [日期不详]：“馆际互借与文献传递服务”[2025-06-21]。</div>
   <div class="csl-entry">工业和信息化部, 2022：“信息技术  中文编码字符集”. [2025-12-02]。</div>
   <div class="csl-entry">顾炎武, 1980：“昌平山水记；京东考古录”. 北京: 北京古籍出版社。</div>
-  <div class="csl-entry">国家测绘地理信息局, [日期不详]：“一带一路经济走廊及其途经城市分布地势图”。</div>
+  <div class="csl-entry">国家测绘地理信息局, [日期不详]：“一带一路经济走廊及其途经城市分布地势图”[2025-12-02]。</div>
   <div class="csl-entry">国家能源局, 2020：“水电工程水温实时监测系统技术规范”. 。</div>
   <div class="csl-entry">哈里森、沃尔德伦, 2012：“经济数学与金融数学”. 谢远涛, 译. 北京: 中国人民大学出版社: 235–236。</div>
   <div class="csl-entry">何筱梅, 2016：“新媒体时代原生广告的策略与发展研究”. 武汉: 武汉大学: 24–25[2025-02-28]。</div>
   <div class="csl-entry">胡健民, 2021：“东南极拉斯曼丘陵地区地质图”. 北京: 科学出版社。</div>
   <div class="csl-entry">湖北省建设厅, 1931：“湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令”(1931-11-07)[2025-02-28]。</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024：“青海省县域教育、卫生发展指标（2001—2022年）”. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)。</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024：“青海省县域教育、卫生发展指标（2001—2022年）”. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]。</div>
   <div class="csl-entry">冀超, 2001：“一种荒漠化地区生态植被综合培育种植方法”. 2001-10-24[2002-05-28]。</div>
   <div class="csl-entry">贾东琴、柯平, 2011：“面向数字素养的高校图书馆数字服务体系研究”. 中国图书馆学会, 编//《中国图书馆学会年会论文集》北京: 国家图书馆出版社: 45–52。</div>
   <div class="csl-entry">金燕萍, 2020：“社交媒体时代的虚假信息研究”. 温州: 温州大学: 16[2025-12-02]。</div>
@@ -197,7 +197,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">訾冬梅、高秀静, 2006：“内蒙古自治区地图册”. 北京: 中国地图出版社。</div>
   <div class="csl-entry">佚名, 1949：“中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告”[2025-02-28]。</div>
   <div class="csl-entry">佚名, 1957/1990：“图书馆学通讯”. 北京: 北京图书馆。</div>
-  <div class="csl-entry">佚名, 1962：“康熙字典：巳集上 水部”. 同文书局影印本 版. 北京: 中华书局: 50。</div>
+  <div class="csl-entry">佚名, 1962：“康熙字典”. 同文书局影印本 版. 北京: 中华书局: 50。</div>
   <div class="csl-entry">佚名, 1984：“临床内科杂志”. 武汉: 中华医学会湖北分会。</div>
   <div class="csl-entry">佚名, 2011a：“周易外传：卷5”. 王夫之, 编//《船山全书》修订版 版. 长沙: 岳麓书社: 983–1029。</div>
   <div class="csl-entry">佚名, 2011b：“中国财税文化价值研究：‘中国财税文化国际学术研讨会’论文集”. 陈志勇, 编. 北京: 经济科学出版社[2013-10-14]。</div>

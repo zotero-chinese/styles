@@ -23,7 +23,7 @@
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">Jenkins, Stewart D., and Janne Ruostekoski. <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>. 2, arXiv:1112.6136, arXiv, 18 Mar. 2012.</div>
   <div class="csl-entry">Praetzellis, Adrian. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rev. ed., Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.</div>
-  <div class="csl-entry">Veen, Pieternella H. van der, et al. “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study.” <i>Journal of the Neurological Sciences</i> 337.1/2 (2014): 112-18. Web.</div>
+  <div class="csl-entry">Veen, Pieternella H. van der, et al. “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study.” <i>Journal of the Neurological Sciences</i> 337.1/2 (2014): 112-18. Web. 2 Dec. 2025.</div>
   <div class="csl-entry">Wang, Shanshan. <i>Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers</i>. 2022, p. 2.</div>
   <div class="csl-entry">汪学军 (Wang Xue Jun). “中国农业转基因生物研发进展与安全管理.” 国家环境保护总局生物安全管理办公室编. 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京: 中国环境科学出版社, 2005, 22-25.</div>
   <div class="csl-entry">肖玲, 张雪, 王永 (Xiao Ling et al.). 数据要素的统计测算方法探究. PSSXiv:202408.01096, PSSXiv, 2024年7月2日.</div>
@@ -67,6 +67,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam, Hugh. <i>[Letter to Bess of Hardwick]</i>. 28 July 1570.</div>
   <div class="csl-entry">Sugarman, L., and S. Markham. “Students in a Selective High School: Some Vocationally Oriented Data.” UK Data Service, 1980. Web. 10 July 2025.</div>
   <div class="csl-entry">American Association for the Advancement of Science, editor. <i>Science</i>. American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). <i>Guide to Lithium Battery Safety for Space Applications</i>. AIAA G-136-2022.</div>
@@ -83,7 +84,6 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Des Marais, David J., et al. “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment.” <i>Nature</i> 359 (1992): 605-09.</div>
   <div class="csl-entry">Deverell, William, and David Igler, editors. <i>A Companion to California History</i>. John Wiley &#38; Sons, 2013, pp. 21-22.</div>
   <div class="csl-entry"><i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>. ISO/IEC 80079-20-2:2016(en).</div>
-  <div class="csl-entry">Fitzwilliam, Hugh. <i>[Letter to Bess of Hardwick]</i>. 28 July 1570.</div>
   <div class="csl-entry">Fourney, M. E. “Advances in Holographic Photoelasticity.” <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, edited by W. G. Gottenberg, ASME, 1971, pp. 17-38.</div>
   <div class="csl-entry">Frese, Karen S., Hugo A. Katus, and Benjamin Meder. “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine.” <i>Biology</i> 2.1 (2013): 378-98. Web. 19 Mar. 2013.</div>
   <div class="csl-entry"><i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>. IEEE P802.11ba/D8.0-2020, IEEE, 2020.</div>
@@ -110,9 +110,9 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Tristram, Michael, et al. <i>Storage and delivery system</i>. AU2022228203A1, 6 Oct. 2022.</div>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. <i>Guidelines for Handling Excavated Acid-Producing Material</i>. PB 91-194001, U.S. Department of Commerce National Information Service, 1990, p. 25.</div>
-  <div class="csl-entry">Veen, Pieternella H. van der, et al. “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study.” <i>Journal of the Neurological Sciences</i> 337.1/2 (2014): 112-18. Web.</div>
+  <div class="csl-entry">Veen, Pieternella H. van der, et al. “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study.” <i>Journal of the Neurological Sciences</i> 337.1/2 (2014): 112-18. Web. 2 Dec. 2025.</div>
   <div class="csl-entry">Wang, Shanshan. <i>Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers</i>. 2022, p. 2.</div>
-  <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, edited by William A Sodeman Jr. and William A. Sodeman, 5th ed., Saunders, 1974, pp. 457-72.</div>
+  <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, edited by William A. Sodeman Jr. and William A. Sodeman, 5th ed., Saunders, 1974, pp. 457-72.</div>
   <div class="csl-entry">Yu, Yang, et al. <i>Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis</i>. 2024, p. 4.</div>
   <div class="csl-entry">Yufin, Sergey A., editor. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema, 2000.</div>
   <div class="csl-entry">Zhong, Xiaoya, Qingwu Yan, and Guie Li. “Long Time Series Nighttime Light Dataset of China (2000-2020).” Global Change Research Data Publishing &#38; Repository, 2022. Web. 25 Nov. 2024.</div>
@@ -151,7 +151,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">金燕萍. 社交媒体时代的虚假信息研究. 硕士学位论文. 温州: 温州大学, 2020, 16.</div>
   <div class="csl-entry">井丽南. 支持状态可编程的SDN交换机关键技术研究. 博士学位论文. 北京: 中国科学院大学, 2022, 43.</div>
   <div class="csl-entry">久保智康. “花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心.” 东方博物. 1 (2009) 85-92.</div>
-  <div class="csl-entry">康熙字典：巳集上 水部. 同文书局影印本, 北京: 中华书局, 1962, 50.</div>
+  <div class="csl-entry">康熙字典. 同文书局影印本, 卷 巳集上 水部, 北京: 中华书局, 1962, 50.</div>
   <div class="csl-entry">李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事. 1887年. 中国第一历史档案馆, 北京, 04-01-35-0399-039.</div>
   <div class="csl-entry">李华, 王昊, 康佐. 一种拼接式桥梁模型. CN218214474U, 2023年1月3日.</div>
   <div class="csl-entry">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究. 2022, 2.</div>

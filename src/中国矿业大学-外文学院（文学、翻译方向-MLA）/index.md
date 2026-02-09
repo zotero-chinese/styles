@@ -108,7 +108,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. <i>Guidelines for Handling Excavated Acid-Producing Material</i>. PB 91-194001, U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">Veen, Pieternella H. van der, et al. “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study.” <i>Journal of the Neurological Sciences</i> 337. 1/2 (2014): 112–18.</div>
   <div class="csl-entry">Wang, Shanshan. <i>Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers</i>. 2022.</div>
-  <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, Eds. William A Sodeman Jr. and William A. Sodeman, 5th ed., Saunders, 1974, 457–72.</div>
+  <div class="csl-entry">Weinstein, L., and M. N. Swartz. “Pathogenic Properties of Invading Microorganisms.” <i>Pathologic Physiology: Mechanisms of Disease</i>, Eds. William A. Sodeman Jr. and William A. Sodeman, 5th ed., Saunders, 1974, 457–72.</div>
   <div class="csl-entry">Yu, Yang, et al. <i>Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis</i>. 2024.</div>
   <div class="csl-entry">Yufin, Sergey A., ed. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema, 2000.</div>
   <div class="csl-entry">Zhong, Xiaoya, et al. <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
@@ -147,7 +147,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">大黄[M]//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社，2020: 24–25.</div>
   <div class="csl-entry">工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
   <div class="csl-entry">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]. 2022.</div>
-  <div class="csl-entry">康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局，1962: 50.</div>
+  <div class="csl-entry">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局，1962: 50.</div>
   <div class="csl-entry">张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社，2002: 288.</div>
   <div class="csl-entry">张凯军等. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.</div>
   <div class="csl-entry">张群等. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报，2024.</div>
@@ -201,7 +201,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社，1980.</div>
   <div class="csl-entry">马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 2 版. 北京: 人民出版社，2013: 302.</div>
   <div class="csl-entry">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心，2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心，2024[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

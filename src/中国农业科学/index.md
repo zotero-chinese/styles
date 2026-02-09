@@ -69,8 +69,8 @@
   <div class="csl-entry">[7]	冯友兰. 冯友兰自选集. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
     <div class="csl-block">冯友兰. 冯友兰自选集. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序. (in Chinese)</div>
   </div>
-  <div class="csl-entry">[8]	康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.
-    <div class="csl-block">康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50. (in Chinese)</div>
+  <div class="csl-entry">[8]	康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.
+    <div class="csl-block">康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50. (in Chinese)</div>
   </div>
   <div class="csl-entry">[9]	战德臣, 张丽杰. 大学计算机：计算思维与信息素养. 3 版. 北京: 高等教育出版社, 2019.
     <div class="csl-block">战德臣, 张丽杰. 大学计算机：计算思维与信息素养. 3 版. 北京: 高等教育出版社, 2019. (in Chinese)</div>
@@ -234,7 +234,7 @@
   </div>
   <div class="csl-entry">[81]	Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011: 8-9.</div>
   <div class="csl-entry">[82]	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
-  <div class="csl-entry">[83]	United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.</div>
+  <div class="csl-entry">[83]	United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry">[84]	全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021.
     <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021. (in Chinese)</div>
   </div>

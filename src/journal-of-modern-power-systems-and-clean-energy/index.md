@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰, 冯友兰自选集, 2nd ed. 北京: 首都师范大学出版社, 2008, p. 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典：巳集上 水部, 同文书局影印本. 北京: 中华书局, 1962, p. 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典, 同文书局影印本., vol. 巳集上 水部. 北京: 中华书局, 1962, p. 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣 and 张丽杰, 大学计算机：计算思维与信息素养, 3rd ed. 北京: 高等教育出版社, 2019.</div>
@@ -297,13 +297,13 @@
     <div class="csl-left-margin">[80]</div><div class="csl-right-inline">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, and 中国联合网络通信有限公司研究院, “电信业发展白皮书：2023：新时代高质量发展探索,” Dec. 2023. Accessed: Feb. 28, 2025. [Online]. Available: <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">D. E. Calkin, A. A. Ager, and M. P. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report,” RMRS-GTR-262, 2011. [Online]. Available: <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a></div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">D. E. Calkin, A. A. Ager, and M. P. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report,” RMRS-GTR-262, 2011. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, “Guidelines for handling excavated acid-producing material,” U.S. Department of Commerce National Information Service, Springfield, PB 91-194001, 1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.” Accessed: Feb. 28, 2025. [Online]. Available: <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations e-government survey 2024: accelerating digital transformation for sustainable development.” Accessed: Feb. 28, 2025. [Online]. Available: <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会, “信息与文献 资源描述.” Mar. 09, 2021.</div>
@@ -423,7 +423,7 @@
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">吴自银 and 温珍河, “中国南部海域海底地形图,” 科学出版社, 北京, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局, “一带一路经济走廊及其途经城市分布地势图.” [Online]. Available: <a href="http://ydyl.china.com.cn/2016-10/27/content_39582227.htm">http://ydyl.china.com.cn/2016-10/27/content_39582227.htm</a></div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局, “一带一路经济走廊及其途经城市分布地势图.” Accessed: Dec. 02, 2025. [Online]. Available: <a href="http://ydyl.china.com.cn/2016-10/27/content_39582227.htm">http://ydyl.china.com.cn/2016-10/27/content_39582227.htm</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">訾冬梅 and 高秀静, “内蒙古自治区地图册,” 中国地图出版社, 北京, 2006.</div>

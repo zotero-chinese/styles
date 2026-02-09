@@ -93,7 +93,7 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">金燕萍. (2020). <i>社交媒体时代的虚假信息研究</i> (硕士学位论文). 温州大学, 温州.</div>
   <div class="csl-entry">井丽南. (2022). <i>支持状态可编程的SDN交换机关键技术研究</i> (博士学位论文). 中国科学院大学, 北京.</div>
   <div class="csl-entry">久保智康. (2009). 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心 (顾幼静 译). <i>东方博物</i>, <i>1</i>, 85–92.</div>
-  <div class="csl-entry"><i>康熙字典：巳集上 水部</i> (同文书局影印本, p. 50). (1962). 北京: 中华书局.</div>
+  <div class="csl-entry"><i>康熙字典</i> (同文书局影印本, p. 50). (1962). 北京: 中华书局.</div>
   <div class="csl-entry">李鸿章. (1887). <i>奏请上海道库洋务外销要款无款可筹仍拨药厘接济事</i>.</div>
   <div class="csl-entry">李华, 王昊, 康佐. (2023). <i>一种拼接式桥梁模型</i> (No. CN218214474U).</div>
   <div class="csl-entry">李妍, 王莹. (2022). <i>医疗机构保洁人员“一前五后”手卫生干预效果研究</i> (p. 2). 中华预防医学会医院感染控制分会第31次全国医院感染学术年会.</div>
@@ -195,12 +195,12 @@ Qian, Zhao, Zhou, &#38; Li (2009)<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., &#38; Nakamura, T. (2001). <i>Electronic watermarking method and system</i> (No. US2002061118A1).</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., &#38; Ondracek, C. (Eds.). (2021). <i>Connecting the library to the curriculum</i> (p. 97). Springer Nature.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., &#38; Mossel, B. (2022). <i>Storage and delivery system</i> (No. AU2022228203A1).</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001; p. 25). U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., … SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <i>337</i>(1/2), 112–118.</div>
-  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2). 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT).</div>
+  <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2). 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), Changzhou, China.</div>
   <div class="csl-entry">Weinstein, L., &#38; Swartz, M. N. (1974). Pathogenic properties of invading microorganisms. In W. A. Sodeman Jr. &#38; W. A. Sodeman (Eds.), <i>Pathologic physiology: mechanisms of disease</i> (5th ed., pp. 457–472). Saunders.</div>
-  <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). <i>Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</i> (p. 4). CVPR.</div>
+  <div class="csl-entry">Yu, Y., Pan, E., Wang, X., Wu, Y., Mei, X., &#38; Ma, J. (2024). <i>Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis</i> (p. 4). CVPR, Seattle.</div>
   <div class="csl-entry">Yufin, S. A. (Ed.). (2000). <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. A. A. Balkema.</div>
   <div class="csl-entry">Zhong, X., Yan, Q., &#38; Li, G. (2022). <i>Long time series nighttime light dataset of China (2000-2020)</i>. Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">Zotero. (n.d.). <i>[Zotero download]</i>.</div>

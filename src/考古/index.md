@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰：《冯友兰自选集》，首都师范大学出版社，2008年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">《康熙字典：巳集上 水部》，中华书局，1962年。</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">《康熙字典》，中华书局，1962年。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣、张丽杰：《大学计算机：计算思维与信息素养》，高等教育出版社，2019年。</div>

@@ -186,7 +186,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">34.</div><div class="csl-right-inline">佚名. 图书馆学通讯. 北京: 北京图书馆.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">35.</div><div class="csl-right-inline">佚名. 康熙字典：巳集上 水部[M]. 北京: 中华书局, 1962.</div>
+    <div class="csl-left-margin">35.</div><div class="csl-right-inline">佚名. 康熙字典[M]. 北京: 中华书局, 1962.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">36.</div><div class="csl-right-inline">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis.</div>
@@ -372,7 +372,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">96.</div><div class="csl-right-inline">童世亨. 京兆直隶图. 上海: 商务印书馆.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">97.</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25).</div>
+    <div class="csl-left-margin">97.</div><div class="csl-right-inline">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">98.</div><div class="csl-right-inline">楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[M]//汶川地震震害研究. 上海: 同济大学出版社, 2011: 11-12.</div>
@@ -483,7 +483,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">133.</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, Mossel B. Storage and delivery system[P]. 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">134.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable developmentno date.</div>
+    <div class="csl-left-margin">134.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable developmentno date.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">135.</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.</div>

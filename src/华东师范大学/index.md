@@ -67,6 +67,7 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28)</div>
   <div class="csl-entry">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service, 1980</div>
   <div class="csl-entry">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. Sadock B J, Sadock V A, Ruiz P, et al., eds.. 9 edition. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009</div>
   <div class="csl-entry">Anonymous. Connecting the library to the curriculum[M]. Torres L, Salisbury F, Yazbeck B, et al., eds.. Singapore: Springer Nature, 2021: 97</div>
@@ -89,7 +90,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Christou A. Improving knowledge graph understanding with contextual views[D]. (Doctoral dissertationdissertation). Ohio: Wright State University, 2024</div>
   <div class="csl-entry">Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 2015</div>
   <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609</div>
-  <div class="csl-entry">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28)</div>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California, New York: ASME, 1971: 17-38</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398</div>
   <div class="csl-entry">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. Global Health Data Exchange, 2021</div>
@@ -109,7 +109,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. Journal of electron spectroscopy and related phenomena, 2023, 267</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. </div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. </div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. </div>
@@ -178,7 +178,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">许振超. “好好干，当一个好工人”[EB](2025-02-17)</div>
   <div class="csl-entry">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798</div>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75</div>
-  <div class="csl-entry">佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50</div>
   <div class="csl-entry">佚名. 鼻整形应用解剖学[M]. 牛永敢, 孔晓, 王阳, 等, 编. 北京: 人民卫生出版社, 2019: 65-66</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]. 王夫之, 编//船山全书, 修订版 版. 长沙: 岳麓书社, 2011a: 983-1029</div>
   <div class="csl-entry">佚名. 大黄[M]. 国家药典委员会, 编//中华人民共和国药典, 2020版 版. 北京: 中国医药科技出版社, 2020: 24-25</div>

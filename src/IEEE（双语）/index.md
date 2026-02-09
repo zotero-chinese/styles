@@ -26,10 +26,10 @@
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">P. H. van der Veen <i>et al.</i>, “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study”, <i>J. Neurol. Sci.</i>, vol. 337, no. 1/2, pp. 112–118, Feb. 2014, doi: <a href="https://doi.org/10.1016/j.jns.2013.11.029">10.1016/j.jns.2013.11.029</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军, “中国农业转基因生物研发进展与安全管理”, 收入 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 2005, 页 22–25.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军, “中国农业转基因生物研发进展与安全管理”, 收入 中国国家生物安全框架实施国际合作项目研讨会论文集, 2005, 页 22–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">S. Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers”, Dec. 2022, p. 2. doi: <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">S. Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers”, Changzhou, China, Dec. 2022, p. 2. doi: <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪和王永, “数据要素的统计测算方法探究”. PSSXiv, 7月 02, 2024. 见于: 9月 30, 2024. [在线]. 载于: <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a></div>
@@ -78,7 +78,7 @@
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">冯友兰, 冯友兰自选集, 2 版. 北京: 首都师范大学出版社, 2008, 页 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典：巳集上 水部, 同文书局影印本. 北京: 中华书局, 1962, 页 50.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康熙字典, 同文书局影印本., 卷 巳集上 水部. 北京: 中华书局, 1962, 页 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[9]</div><div class="csl-right-inline">战德臣和张丽杰, 大学计算机：计算思维与信息素养, 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -243,22 +243,22 @@
     <div class="csl-left-margin">[62]</div><div class="csl-right-inline">中国社会科学院台湾史研究中心, 编, 台湾光复六十五周年暨抗战史实学术研讨会论文集. 北京: 九州出版社, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">肖希明, 石庆功和刘奕, “民国图书馆学教育的社会贡献”, 收入 <i>纪念北京大学图书馆学教育100周年研讨会论文集</i>, 北京, 2024, 页 134–147.</div>
+    <div class="csl-left-margin">[63]</div><div class="csl-right-inline">肖希明, 石庆功和刘奕, “民国图书馆学教育的社会贡献”, 收入 <i>纪念北京大学图书馆学教育100周年研讨会论文集</i>, 2024, 页 134–147.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">汪学军, “中国农业转基因生物研发进展与安全管理”, 收入 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 2005, 页 22–25.</div>
+    <div class="csl-left-margin">[64]</div><div class="csl-right-inline">汪学军, “中国农业转基因生物研发进展与安全管理”, 收入 中国国家生物安全框架实施国际合作项目研讨会论文集, 2005, 页 22–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">贾东琴和柯平, “面向数字素养的高校图书馆数字服务体系研究”, 收入 中国图书馆学会年会论文集, 北京, 2011, 卷 2011年卷, 页 45–52.</div>
+    <div class="csl-left-margin">[65]</div><div class="csl-right-inline">贾东琴和柯平, “面向数字素养的高校图书馆数字服务体系研究”, 收入 中国图书馆学会年会论文集, 2011, 卷 2011年卷, 页 45–52.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">陈志勇, 编, 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集. 北京: 经济科学出版社, 2011. 见于: 10月 14, 2013. [在线]. 载于: <a href="http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN">http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&#38;metaid=m.20110628-BPO-889-0135&#38;cult=CN</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">S. Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers”, Dec. 2022, p. 2. doi: <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">S. Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers”, Changzhou, China, Dec. 2022, p. 2. doi: <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">10.1109/ACAIT56212.2022.10137867</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Y. Yu, E. Pan, X. Wang, Y. Wu, X. Mei, and J. Ma, “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis”, 2024, p. 4. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a></div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Y. Yu, E. Pan, X. Wang, Y. Wu, X. Mei, and J. Ma, “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis”, Seattle, 2024, p. 4. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html">https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Unmixing_Before_Fusion_A_Generalized_Paradigm_for_Multi-Source-based_Hyperspectral_Image_CVPR_2024_paper.html</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">S. A. Yufin, Ed., <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>. Rotterdam: A. A. Balkema, 2000.</div>
@@ -267,7 +267,7 @@
     <div class="csl-left-margin">[70]</div><div class="csl-right-inline">B. V. Babu <i>et al.</i>, Eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">M. E. Fourney, “Advances in holographic photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York, 1971, pp. 17–38.</div>
+    <div class="csl-left-margin">[71]</div><div class="csl-right-inline">M. E. Fourney, “Advances in holographic photoelasticity”, in <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, 1971, pp. 17–38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[72]</div><div class="csl-right-inline">王琦, “融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究”, 博士学位论文, 武汉大学, 武汉, 2022.</div>
@@ -297,13 +297,13 @@
     <div class="csl-left-margin">[80]</div><div class="csl-right-inline">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院和中国联合网络通信有限公司研究院, “电信业发展白皮书：2023：新时代高质量发展探索”, 12月 2023. 见于: 2月 28, 2025. [在线]. 载于: <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a></div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">D. E. Calkin, A. A. Ager, and M. P. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report”, RMRS-GTR-262, 2011. [Online]. Available: <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a></div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">D. E. Calkin, A. A. Ager, and M. P. Thompson, “A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report”, RMRS-GTR-262, 2011. Accessed: Dec. 02, 2025. [Online]. Available: <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration, “Guidelines for handling excavated acid-producing material”, U.S. Department of Commerce National Information Service, Springfield, PB 91-194001, 1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations E-Government survey 2024: accelerating digital transformation for sustainable development”. Accessed: Feb. 28, 2025. [Online]. Available: <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs, “United Nations e-government survey 2024: accelerating digital transformation for sustainable development”. Accessed: Feb. 28, 2025. [Online]. Available: <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">全国信息与文献标准化技术委员会, “信息与文献 资源描述”. 3月 09, 2021.</div>
@@ -423,7 +423,7 @@
     <div class="csl-left-margin">[122]</div><div class="csl-right-inline">吴自银和温珍河, “中国南部海域海底地形图”, 科学出版社, 北京, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局, “一带一路经济走廊及其途经城市分布地势图”. [在线]. 载于: <a href="http://ydyl.china.com.cn/2016-10/27/content_39582227.htm">http://ydyl.china.com.cn/2016-10/27/content_39582227.htm</a></div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局, “一带一路经济走廊及其途经城市分布地势图”. 见于: 12月 02, 2025. [在线]. 载于: <a href="http://ydyl.china.com.cn/2016-10/27/content_39582227.htm">http://ydyl.china.com.cn/2016-10/27/content_39582227.htm</a></div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">訾冬梅和高秀静, “内蒙古自治区地图册”, 中国地图出版社, 北京, 2006.</div>

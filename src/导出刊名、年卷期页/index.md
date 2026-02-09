@@ -47,7 +47,7 @@
   <div class="csl-entry">昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   <div class="csl-entry">创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
-  <div class="csl-entry">康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
   <div class="csl-entry">经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019: 65-66.</div>
@@ -122,7 +122,7 @@
   <div class="csl-entry">电信业发展白皮书：2023：新时代高质量发展探索[R]. 2023.</div>
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
-  <div class="csl-entry">United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+  <div class="csl-entry">United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
   <div class="csl-entry">信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
   <div class="csl-entry">信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
@@ -162,7 +162,7 @@
   <div class="csl-entry">沈阳市政区图[CM]. 武汉: 武汉大学出版社, 2016.</div>
   <div class="csl-entry">阳新县标准地名图[CM]. 武汉: 武汉大学出版社, 2019.</div>
   <div class="csl-entry">中国南部海域海底地形图[CM]. 北京: 科学出版社, 2019.</div>
-  <div class="csl-entry">一带一路经济走廊及其途经城市分布地势图[CM].</div>
+  <div class="csl-entry">一带一路经济走廊及其途经城市分布地势图[CM]. [2025].</div>
   <div class="csl-entry">内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社, 2006.</div>
   <div class="csl-entry">中国历史地图集: 第2册[CM]. 北京: 地图出版社, 1982: 6.</div>
   <div class="csl-entry">京兆直隶图[CM]. 上海: 商务印书馆, 1926.</div>

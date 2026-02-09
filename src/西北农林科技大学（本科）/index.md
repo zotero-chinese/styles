@@ -90,7 +90,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">何筱梅. 2016. 新媒体时代原生广告的策略与发展研究. [博士学位论文]. 武汉: 武汉大学: 24~25</div>
   <div class="csl-entry">胡健民. 2021. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社</div>
   <div class="csl-entry">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令. 武汉: 湖北省档案馆</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a> [2025-07-10]</div>
   <div class="csl-entry">冀超. 2001-10-24. 一种荒漠化地区生态植被综合培育种植方法. 中国发明专利, CN1318281A</div>
   <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究. 见: 中国图书馆学会 (主编). 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社: 45~52</div>
   <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究. [硕士学位论文]. 温州: 温州大学: 16</div>
@@ -131,7 +131,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">杨洪升. 2013. 四库馆私家抄校书考略. 文献(1): 56~75</div>
   <div class="csl-entry">杨立华. 2022. 《庄子》读不懂？看完这一篇“导读”就明白了</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局: 50</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50</div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5. 见: 王夫之 (主编). 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983~1029</div>
   <div class="csl-entry">佚名. 2020. 大黄. 见: 国家药典委员会 (主编). 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24~25</div>
@@ -199,7 +199,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, Nakamura T. 2001-06-28. Electronic watermarking method and system. U.S. utility patent, US2002061118A1</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, Karasmanis S, Pinder J, Ondracek C. 2021. Connecting the library to the curriculum. Singapore: Springer Nature: 97</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, Mossel B. 2022-10-06. Storage and delivery system. AU utility patent, AU2022228203A1</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service: 25</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, Witkamp T D, Mali W P T M, van der Graaf Y, Geerlings M I, SMART-MR Study Group. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, 337(1/2): 112~118</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. 2</div>

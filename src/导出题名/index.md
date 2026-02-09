@@ -47,7 +47,7 @@
   <div class="csl-entry">昌平山水记；京东考古录</div>
   <div class="csl-entry">创建系统学</div>
   <div class="csl-entry">冯友兰自选集</div>
-  <div class="csl-entry">康熙字典：巳集上 水部</div>
+  <div class="csl-entry">康熙字典</div>
   <div class="csl-entry">大学计算机：计算思维与信息素养</div>
   <div class="csl-entry">经济数学与金融数学</div>
   <div class="csl-entry">鼻整形应用解剖学</div>
@@ -122,7 +122,7 @@
   <div class="csl-entry">电信业发展白皮书：2023：新时代高质量发展探索</div>
   <div class="csl-entry">A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262</div>
   <div class="csl-entry">Guidelines for handling excavated acid-producing material: PB 91-194001</div>
-  <div class="csl-entry">United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</div>
+  <div class="csl-entry">United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
   <div class="csl-entry">信息与文献 资源描述: GB/T 3792—2021</div>
   <div class="csl-entry">信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016</div>
   <div class="csl-entry">信息技术  中文编码字符集: GB 18030—2022</div>

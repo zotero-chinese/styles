@@ -146,7 +146,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anonymous, 1883, “Science”. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">佚名，1949：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》1949。</div>
   <div class="csl-entry">佚名，1957/1990：《图书馆学通讯》. 北京: 北京图书馆1957/1990。</div>
-  <div class="csl-entry">佚名，1962：《康熙字典：巳集上 水部》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
+  <div class="csl-entry">佚名，1962：《康熙字典》. 同文书局影印本 版. 北京: 中华书局，1962年。</div>
   <div class="csl-entry">Anonymous, 1979, “Public Library Quarterly”. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名，1984：《临床内科杂志》. 武汉: 中华医学会湖北分会1984。</div>
   <div class="csl-entry">Anonymous, 2000, “Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000”. Yufin, S. A., ed.. Rotterdam: A. A. Balkema.</div>

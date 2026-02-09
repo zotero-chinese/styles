@@ -69,8 +69,8 @@
   <div class="csl-entry">[7]	冯友兰. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.
     <div class="csl-block">2008: 第1版自序</div>
   </div>
-  <div class="csl-entry">[8]	同文书局影印本. 北京: 中华书局, 1962: 50.
-    <div class="csl-block">1962: 50</div>
+  <div class="csl-entry">[8]	巳集上 水部. 同文书局影印本. 北京: 中华书局, 1962: 50.
+    <div class="csl-block">巳集上 水部. 1962: 50</div>
   </div>
   <div class="csl-entry">[9]	战德臣, 张丽杰. 3 版. 北京: 高等教育出版社, 2019.
     <div class="csl-block">2019</div>
@@ -328,7 +328,9 @@
   <div class="csl-entry">[122]	吴自银, 温珍河. 北京: 科学出版社, 2019.
     <div class="csl-block">2019</div>
   </div>
-  <div class="csl-entry">[123]	国家测绘地理信息局.</div>
+  <div class="csl-entry">[123]	国家测绘地理信息局. [2025].
+    <div class="csl-block">[2025]</div>
+  </div>
   <div class="csl-entry">[124]	訾冬梅, 高秀静. 新版. 北京: 中国地图出版社, 2006.
     <div class="csl-block">2006</div>
   </div>
@@ -353,7 +355,7 @@
     <div class="csl-block">2018[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   </div>
   <div class="csl-entry">[133]	黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.
-    <div class="csl-block">(2024-12-25). <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
+    <div class="csl-block">(2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a></div>
   </div>
   <div class="csl-entry">[134]	王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 北京大学开放研究数据平台, 2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.
     <div class="csl-block">(2025-06-11)[2025-07-10]. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a></div>

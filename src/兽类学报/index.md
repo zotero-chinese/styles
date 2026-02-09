@@ -67,6 +67,7 @@ Qian et al. （2009a）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam H. 1570. [Letter to Bess of Hardwick].</div>
   <div class="csl-entry">Sugarman L, Markham S. 1980. Students in a selective high school: some vocationally oriented data. UK Data Service. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022.</div>
@@ -86,7 +87,6 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Cribb R. 2015. Historical atlas of Indonesia. Abingdon: Routledge.</div>
   <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, Hayes J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>, <b>359</b>: 605-609.</div>
   <div class="csl-entry">Deverell W, Igler D. 2013. <i>A Companion to California History</i>. New York: John Wiley &#38; Sons: 21-22.</div>
-  <div class="csl-entry">Fitzwilliam H. 1570. [Letter to Bess of Hardwick].</div>
   <div class="csl-entry">Fourney M E. 1971. Advances in holographic photoelasticity. in: Gottenberg W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME: 17-38.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. 2013. Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <b>2</b> (1): 378-398.</div>
   <div class="csl-entry">IHME. 2021. Global Burden of Disease Study 2019 (GBD2019) data resources. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
@@ -108,7 +108,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, Nakamura T. 2001. Electronic watermarking method and system: US2002061118A1. 2001-06-28.</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, Karasmanis S, Pinder J, Ondracek C. 2021. <i>Connecting the Library to the Curriculum</i>. Singapore: Springer Nature: 97.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, Mossel B. 2022. Storage and delivery system: AU2022228203A1. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, Witkamp T D, Mali W P T M, van der Graaf Y, Geerlings M I, SMART-MR Study Group. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>J Neurol Sci</i>, <b>337</b> (1/2): 112-118.</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. in: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>
@@ -172,7 +172,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">肖希明, 石庆功, 刘奕. 2024. 民国图书馆学教育的社会贡献. 见: 纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系: 134-147.</div>
   <div class="csl-entry">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究. PSSXiv.</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 2023. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
+  <div class="csl-entry">国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图.</div>
   <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020.</div>
   <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究. 温州: 温州大学: 16.</div>
   <div class="csl-entry">阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 姜海伦, 译. 见: 《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
@@ -203,7 +203,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">谭其骧. 1982. 中国历史地图集: 第2册. 北京: 地图出版社: 6.</div>
   <div class="csl-entry">冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A. 2001-10-24.</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5. 见: 王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名. 2020. 大黄. 见: 国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24-25.</div>
   <div class="csl-entry">佚名. 2023a. [《昨日之歌》图书封面].</div>

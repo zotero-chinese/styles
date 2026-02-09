@@ -84,7 +84,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
   <div class="csl-entry">工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
   <div class="csl-entry">顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
+  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]. [2025].</div>
   <div class="csl-entry">国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020.</div>
   <div class="csl-entry">哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016: 24-25.</div>
@@ -131,7 +131,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   <div class="csl-entry">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]. 2022.</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949.</div>
-  <div class="csl-entry">佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">佚名. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.</div>
   <div class="csl-entry">佚名. 大黄[M]//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社, 2020: 24-25.</div>
@@ -199,7 +199,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28.</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, et al. Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021: 97.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>

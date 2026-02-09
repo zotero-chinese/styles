@@ -131,7 +131,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">杨洪升.2013.四库馆私家抄校书考略[J].文献(1):56-75.</div>
   <div class="csl-entry">杨立华.2022.《庄子》读不懂？看完这一篇“导读”就明白了[Z].</div>
   <div class="csl-entry">佚名.1949.中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].武汉:武汉大学档案馆.</div>
-  <div class="csl-entry">佚名.1962.康熙字典：巳集上 水部[M].同文书局影印本.北京:中华书局.</div>
+  <div class="csl-entry">佚名.1962.康熙字典:巳集上 水部[M].同文书局影印本.北京:中华书局.</div>
   <div class="csl-entry">Anon. 1979. Public library quarterly[J]. 1979,1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名.2011.周易外传：卷5[M].见:王夫之(主编),船山全书:第1册.修订版.长沙:岳麓书社,983-1029.</div>
   <div class="csl-entry">佚名.2020.大黄[M].见:国家药典委员会(主编),中华人民共和国药典:一部.2020版.北京:中国医药科技出版社,24-25.</div>
@@ -199,7 +199,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, Nakamura T. 2001-06-28. Electronic watermarking method and system[P]. U.S. utility patent, US2002061118A1.</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, Karasmanis S, Pinder J, Ondracek C. 2021. Connecting the library to the curriculum[M]. Singapore: Springer Nature.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, Mossel B. 2022-10-06. Storage and delivery system[P]. AU utility patent, AU2022228203A1.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R].</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen PH van der, Muller M, Vincken KL, Witkamp TD, Mali WPTM, van der Graaf Y, Geerlings MI, SMART-MR Study Group. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. J Neurol Sci, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT), p. 2.</div>

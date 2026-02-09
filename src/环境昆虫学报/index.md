@@ -83,13 +83,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.［高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>］</div>
   <div class="csl-entry">GB 18030—2022[S]. 2022.［工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022］</div>
   <div class="csl-entry">[M]. 1980.［顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980］</div>
-  <div class="csl-entry">[CM].［国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]］</div>
+  <div class="csl-entry">[CM]. [2025].［国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]. [2025]］</div>
   <div class="csl-entry">NB/T 10386—2020[S]. 2020.［国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S]. 2020］</div>
   <div class="csl-entry">[M]. 2012: 235-236.［哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236］</div>
   <div class="csl-entry">[D]. 2016: 24-25.［何筱梅. 新媒体时代原生广告的策略与发展研究[D]. 武汉: 武汉大学, 2016: 24-25］</div>
   <div class="csl-entry">[CM]. 2021.［胡健民. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社, 2021］</div>
   <div class="csl-entry">[Z]. 武汉: 湖北省档案馆, 1931.［湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆, 1931］</div>
-  <div class="csl-entry">[DS/OL]. (2024-12-25). <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.［黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>］</div>
+  <div class="csl-entry">[DS/OL]. (2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.［黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>］</div>
   <div class="csl-entry">CN1318281A[P]. 2001-10-24.［冀超. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24］</div>
   <div class="csl-entry">[C]. 2011: 45-52.［贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]. 见: 中国图书馆学会, 主编. 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社, 2011: 45-52］</div>
   <div class="csl-entry">[D]. 2020: 16.［金燕萍. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学, 2020: 16］</div>
@@ -171,7 +171,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, <i>et al.</i> Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, <i>et al.</i> Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
   <div class="csl-entry">Veen PH van der, Muller M, Vincken KL, <i>et al.</i> Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. <i>Journal of the Neurological Sciences</i>, 2014, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
@@ -185,7 +185,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">[Z]. 武汉: 武汉大学档案馆, 1949.［佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949］</div>
   <div class="csl-entry">[J]. 1957/1990, 1957（1）—1990（4）. 1957/1990.［中国图书馆学会. 图书馆学通讯[J]. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆, 1957/1990］</div>
-  <div class="csl-entry">[M]. 1962: 50.［佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50］</div>
+  <div class="csl-entry">巳集上 水部[M]. 1962: 50.［佚名. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50］</div>
   <div class="csl-entry">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">[J]. 1984, 1984，1（1）—. 1984.［中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984］</div>
   <div class="csl-entry">Yufin SA. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>

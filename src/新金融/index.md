@@ -82,7 +82,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[21] 何筱梅，2016．新媒体时代原生广告的策略与发展研究．武汉：武汉大学：24-25．</div>
   <div class="csl-entry">[22] 胡健民，2021．东南极拉斯曼丘陵地区地质图．北京：科学出版社．</div>
   <div class="csl-entry">[23] 湖北省建设厅，1931．湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令．</div>
-  <div class="csl-entry">[24] 黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024．青海省县域教育、卫生发展指标（2001—2022年）．国家地理资源科学数据中心-黄土高原分中心．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．</div>
+  <div class="csl-entry">[24] 黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024．青海省县域教育、卫生发展指标（2001—2022年）．国家地理资源科学数据中心-黄土高原分中心［2025-07-10］．<a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>．</div>
   <div class="csl-entry">[25] 冀超，2001．一种荒漠化地区生态植被综合培育种植方法：CN1318281A．2001-10-24．</div>
   <div class="csl-entry">[26] 贾东琴，柯平，2011．面向数字素养的高校图书馆数字服务体系研究//中国图书馆学会．中国图书馆学会年会论文集：2011年卷．北京：国家图书馆出版社：45-52．</div>
   <div class="csl-entry">[27] 金燕萍，2020．社交媒体时代的虚假信息研究．温州：温州大学：16．</div>
@@ -191,7 +191,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[130] TACHIBANA R, SHIMIZU S, KOBAYASHI S, et al., 2001. Electronic watermarking method and system: US2002061118A1. 2001-06-28.</div>
   <div class="csl-entry">[131] TORRES L, SALISBURY F, YAZBECK B, et al., 2021. Connecting the library to the curriculum. Singapore: Springer Nature: 97.</div>
   <div class="csl-entry">[132] TRISTRAM M, SKARSHEWSKI P, TRISTRAM I, et al., 2022. Storage and delivery system: AU2022228203A1. 2022-10-06.</div>
-  <div class="csl-entry">[133] United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.</div>
+  <div class="csl-entry">[133] United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry">[134] U.S. Department of Transportation Federal Highway Administration, 1990. Guidelines for handling excavated acid-producing material: PB 91-194001. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">[135] VEEN P H van der, MULLER M, VINCKEN K L, et al., 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. Journal of the Neurological Sciences, 337(1/2): 112-118.</div>
   <div class="csl-entry">[136] WANG S, 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>

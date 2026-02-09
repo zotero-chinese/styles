@@ -78,7 +78,7 @@
     <div class="csl-left-margin">7. </div><div class="csl-right-inline">冯友兰, 2008. 冯友兰自选集. 北京: 首都师范大学出版社. 2nd ed.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8. </div><div class="csl-right-inline">康熙字典：巳集上 水部, 1962. 北京: 中华书局. 同文书局影印本 ed.</div>
+    <div class="csl-left-margin">8. </div><div class="csl-right-inline">康熙字典, Vol. 巳集上 水部, 1962. 北京: 中华书局. 同文书局影印本 ed.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">9. </div><div class="csl-right-inline">战德臣, 张丽杰, 2019. 大学计算机：计算思维与信息素养. 北京: 高等教育出版社. 3rd ed.</div>
@@ -303,7 +303,7 @@
     <div class="csl-left-margin">82. </div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material. <i>PB 91-194001</i>, U.S. Department of Commerce National Information Service, Springfield</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">83. </div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</div>
+    <div class="csl-left-margin">83. </div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">84. </div><div class="csl-right-inline">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述</div>

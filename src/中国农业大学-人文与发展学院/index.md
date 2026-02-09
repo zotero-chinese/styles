@@ -98,13 +98,13 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">高等教育文献保障系统. [2025]. 馆际互借与文献传递服务[EB/OL]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>, 2025年6月21日.</div>
   <div class="csl-entry">工业和信息化部. 2022. 信息技术  中文编码字符集: GB 18030—2022[S].</div>
   <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社.</div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
+  <div class="csl-entry">国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
   <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S].</div>
   <div class="csl-entry">哈里森, 沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛译. 北京: 中国人民大学出版社: 235-236.</div>
   <div class="csl-entry">何筱梅. 2016. 新媒体时代原生广告的策略与发展研究[D]. 武汉大学博士学位论文: 24-25.</div>
   <div class="csl-entry">胡健民. 2021. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社.</div>
   <div class="csl-entry">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆.</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>, 2025年7月10日.</div>
   <div class="csl-entry">冀超. 2001. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24.</div>
   <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[A]. 中国图书馆学会主编. 中国图书馆学会年会论文集: 2011年卷[C]. 北京: 国家图书馆出版社: 45-52.</div>
   <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究[D]. 温州大学硕士学位论文: 16.</div>
@@ -167,7 +167,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022[S].</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anon. 1979. Public Library Quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5[A]. 王夫之主编. 船山全书: 第1册[C]. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名. 2020. 大黄[A]. 国家药典委员会主编. 中华人民共和国药典: 一部[C]. 2020版. 北京: 中国医药科技出版社: 24-25.</div>
@@ -216,9 +216,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development[R].</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for Handling Excavated Acid-Producing Material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">Veen P. H. van der, M. Muller, K. L. Vincken, <i>et al.</i> 2014. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study[J]. <i>Journal of the Neurological Sciences</i>, 337(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[Z]. In 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). December: 2.</div>
+  <div class="csl-entry">Wang S. 2022. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[Z]. In 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). Changzhou, China, December: 2.</div>
   <div class="csl-entry">Weinstein L., M. N. Swartz. 1974. Pathogenic Properties of Invading Microorganisms[A]. In William A. Sodeman Jr. and William A. Sodeman eds. <i>Pathologic Physiology: Mechanisms of Disease</i>[C]. 5th ed. Philadelphia: Saunders: 457-472.</div>
-  <div class="csl-entry">Yu Y., E. Pan, X. Wang, <i>et al.</i> 2024. Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis[Z]. In CVPR. 4.</div>
+  <div class="csl-entry">Yu Y., E. Pan, X. Wang, <i>et al.</i> 2024. Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis[Z]. In CVPR. Seattle: 4.</div>
   <div class="csl-entry">Yufin S. A. 2000. <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>[M]. Rotterdam: A. A. Balkema.</div>
   <div class="csl-entry">Zhong X., Q. Yan, G. Li. 2022. Long Time Series Nighttime Light Dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>, 2024年11月25日.</div>
   <div class="csl-entry">Zotero. [2024]. [Zotero Download][EB/OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, 2024年4月8日.</div>

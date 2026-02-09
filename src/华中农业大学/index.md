@@ -405,7 +405,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">107.</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, Mossel B. Storage and delivery system. 2022-10-06</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">108.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development. </div>
+    <div class="csl-left-margin">108.</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. </div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">109.</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material. Springfield: U.S. Department of Commerce National Information Service, 1990: 25</div>
@@ -438,7 +438,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">118.</div><div class="csl-right-inline">佚名．图书馆学通讯．北京: 北京图书馆, 1957/1990（1957/1990）</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">119.</div><div class="csl-right-inline">佚名．康熙字典：巳集上 水部．同文书局影印本 版．北京: 中华书局, 1962: 50</div>
+    <div class="csl-left-margin">119.</div><div class="csl-right-inline">佚名．康熙字典．同文书局影印本 版．北京: 中华书局, 1962: 50</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">120.</div><div class="csl-right-inline">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis, 19791979</div>

@@ -239,7 +239,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京：北京古籍出版社，1980年。<br>
 <sup>6</sup> 钱学森：《创建系统学》，太原：山西科学技术出版社，2001年。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），北京：首都师范大学出版社，2008年。<br>
-<sup>8</sup> 《康熙字典：巳集上 水部》（同文书局影印本），北京：中华书局，1962年。<br>
+<sup>8</sup> 《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局，1962年。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），北京：高等教育出版社，2019年。<br>
 <sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社，2012年。<br>
 <sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年。<br>
@@ -298,8 +298,8 @@
 <sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，见国家环境保护总局生物安全管理办公室编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年。<br>
 <sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，见中国图书馆学会编：《中国图书馆学会年会论文集》2011年卷，北京：国家图书馆出版社，2011年。<br>
 <sup>66</sup> 陈志勇编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
-<sup>67</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, December 2022.<br>
-<sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, and Jiayi Ma, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” “CVPR” paper, 2024.<br>
+<sup>67</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China, December 2022.<br>
+<sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, and Jiayi Ma, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” “CVPR” paper, Seattle, 2024.<br>
 <sup>69</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>70</sup> B. V. Babu, Atulya Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
 <sup>71</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in W. G. Gottenberg, ed., <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, 1971.<br>

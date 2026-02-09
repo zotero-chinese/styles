@@ -47,7 +47,7 @@
   <div class="csl-entry">@昌平山水记；京东考古录@顾炎武. (@1980)</div>
   <div class="csl-entry">@创建系统学@钱学森. (@2001)</div>
   <div class="csl-entry">@冯友兰自选集@冯友兰. (@2008)</div>
-  <div class="csl-entry">@康熙字典：巳集上 水部@佚名. (@1962)</div>
+  <div class="csl-entry">@康熙字典@佚名. (@1962)</div>
   <div class="csl-entry">@大学计算机：计算思维与信息素养@战德臣, 张丽杰. (@2019)</div>
   <div class="csl-entry">@经济数学与金融数学@哈里森, 沃尔德伦. (@2012)</div>
   <div class="csl-entry">@鼻整形应用解剖学@佚名. (@2019)</div>
@@ -122,7 +122,7 @@
   <div class="csl-entry">@电信业发展白皮书：2023：新时代高质量发展探索@中国信息通信研究院, 中国电信股份有限公司研究院, 等. (@2023)</div>
   <div class="csl-entry">@A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report@Calkin D E, Ager A A, et al. (@2011)</div>
   <div class="csl-entry">@Guidelines for handling excavated acid-producing material@U.S. Department of Transportation Federal Highway Administration. (@1990)</div>
-  <div class="csl-entry">@United Nations E-Government survey 2024: accelerating digital transformation for sustainable development@United Nations Department of Economic and Social Affairs. (@[no date])</div>
+  <div class="csl-entry">@United Nations e-government survey 2024: accelerating digital transformation for sustainable development@United Nations Department of Economic and Social Affairs. (@[no date])</div>
   <div class="csl-entry">@信息与文献 资源描述@全国信息与文献标准化技术委员会. (@2021)</div>
   <div class="csl-entry">@信息技术 先进音视频编码 第16部分：广播电视视频@全国信息技术标准化技术委员会. (@2016)</div>
   <div class="csl-entry">@信息技术  中文编码字符集@工业和信息化部. (@2022)</div>

@@ -70,7 +70,7 @@
     <div class="csl-block">冯友兰. <i>冯友兰自选集</i>. 2 版. 首都师范大学出版社, 2008, pp. 第1版自序.</div>
   </div>
   <div class="csl-entry">8	1962, pp. 50 (in Chinese)
-    <div class="csl-block"><i>康熙字典：巳集上 水部</i>. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
+    <div class="csl-block"><i>康熙字典</i>: 巳集上 水部. 同文书局影印本. 中华书局, 1962, pp. 50.</div>
   </div>
   <div class="csl-entry">9	2019 (in Chinese)
     <div class="csl-block">战德臣, 张丽杰. <i>大学计算机：计算思维与信息素养</i>. 3 版. 高等教育出版社, 2019.</div>
@@ -234,7 +234,7 @@
   </div>
   <div class="csl-entry">81	Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262. 2011, pp. 8-9.</div>
   <div class="csl-entry">82	U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001. U.S. Department of Commerce National Information Service, Springfield, 1990, pp. 25.</div>
-  <div class="csl-entry">83	United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development. [2025].</div>
+  <div class="csl-entry">83	United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development. [2025].</div>
   <div class="csl-entry">84	GB/T 3792—2021. 2021 (in Chinese)
     <div class="csl-block">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021. 2021.</div>
   </div>
@@ -328,8 +328,8 @@
   <div class="csl-entry">122	2019 (in Chinese)
     <div class="csl-block">吴自银, 温珍河. 中国南部海域海底地形图. 科学出版社, 2019.</div>
   </div>
-  <div class="csl-entry">123	
-    <div class="csl-block">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
+  <div class="csl-entry">123	[2025] (in Chinese)
+    <div class="csl-block">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图. [2025].</div>
   </div>
   <div class="csl-entry">124	2006 (in Chinese)
     <div class="csl-block">訾冬梅, 高秀静. 内蒙古自治区地图册. 新版. 中国地图出版社, 2006.</div>

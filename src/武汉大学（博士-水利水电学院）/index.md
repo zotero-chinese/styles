@@ -259,7 +259,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[62]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[63]</div><div class="csl-right-inline">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 1979.</div>
@@ -475,7 +475,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, Mossel B. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>

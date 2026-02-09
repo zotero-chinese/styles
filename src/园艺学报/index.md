@@ -126,8 +126,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1980. (in Chinese)
     <div class="csl-block">顾炎武. 1980. 昌平山水记；京东考古录. 北京：北京古籍出版社.</div>
   </div>
-  <div class="csl-entry">
-    <div class="csl-block">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
+  <div class="csl-entry">[2025]. (in Chinese)
+    <div class="csl-block">国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图.</div>
   </div>
   <div class="csl-entry">2020. NB/T 10386—2020. (in Chinese)
     <div class="csl-block">国家能源局. 2020. 水电工程水温实时监测系统技术规范：NB/T 10386—2020.</div>
@@ -144,7 +144,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1931. 武汉：湖北省档案馆. (in Chinese)
     <div class="csl-block">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令. 武汉：湖北省档案馆.</div>
   </div>
-  <div class="csl-entry">2024. (2024-12-25). <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. (in Chinese)
+  <div class="csl-entry">2024. (2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. (in Chinese)
     <div class="csl-block">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.</div>
   </div>
   <div class="csl-entry">2001. CN1318281A. 2001-10-24. (in Chinese)
@@ -372,7 +372,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Tachibana R，Shimizu S，Kobayashi S，Nakamura T. 2001. Electronic watermarking method and system：US2002061118A1. 2001-06-28.</div>
   <div class="csl-entry">Torres L，Salisbury F，Yazbeck B，Karasmanis S，Pinder J，Ondracek C. 2021. Connecting the library to the curriculum. Singapore：Springer Nature：97.</div>
   <div class="csl-entry">Tristram M，Skarshewski P，Tristram I，Mossel B. 2022. Storage and delivery system：AU2022228203A1. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. [2025]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material：PB 91-194001. Springfield：U.S. Department of Commerce National Information Service：25.</div>
   <div class="csl-entry">Veen P H van der，Muller M，Vincken K L，Witkamp T D，Mali W P T M，van der Graaf Y，Geerlings M I，SMART-MR Study Group. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. Journal of the Neurological Sciences，337(1/2)：112–118.</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>

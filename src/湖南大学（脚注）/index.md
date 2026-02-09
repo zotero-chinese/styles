@@ -85,7 +85,7 @@
 <sup>5</sup> 顾炎武．昌平山水记；京东考古录．北京：北京古籍出版社，1980<br>
 <sup>6</sup> 钱学森．创建系统学．太原：山西科学技术出版社，2001，序2-3<br>
 <sup>7</sup> 冯友兰．冯友兰自选集．2 版．北京：首都师范大学出版社，2008，第1版自序<br>
-<sup>8</sup> 康熙字典：巳集上 水部．同文书局影印本．北京：中华书局，1962，50<br>
+<sup>8</sup> 康熙字典．同文书局影印本．北京：中华书局，1962，50<br>
 <sup>9</sup> 战德臣，张丽杰．大学计算机：计算思维与信息素养．3 版．北京：高等教育出版社，2019<br>
 <sup>10</sup> 哈里森，沃尔德伦．经济数学与金融数学．谢远涛译．北京：中国人民大学出版社，2012，235-236<br>
 <sup>11</sup> 牛永敢，孔晓，王阳，斯楼斌．鼻整形应用解剖学．北京：人民卫生出版社，2019，65-66<br>
@@ -160,7 +160,7 @@
 <sup>80</sup> 中国信息通信研究院，中国电信股份有限公司研究院，中国移动通信研究院，中国联合网络通信有限公司研究院．电信业发展白皮书：2023：新时代高质量发展探索<br>
 <sup>81</sup> Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report. 2011, 8-9<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material. Springfield: U.S. Department of Commerce National Information Service, 1990, 25<br>
-<sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development<br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development<br>
 <sup>84</sup> 全国信息与文献标准化技术委员会．信息与文献 资源描述<br>
 <sup>85</sup> 全国信息技术标准化技术委员会．信息技术 先进音视频编码 第16部分：广播电视视频<br>
 <sup>86</sup> 工业和信息化部．信息技术  中文编码字符集<br>

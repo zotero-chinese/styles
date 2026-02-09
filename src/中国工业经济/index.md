@@ -131,7 +131,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[M].</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[M]. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[19]</div><div class="csl-right-inline">国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[M]. 2020.</div>
@@ -338,7 +338,7 @@ Qian et al. （2009a）<br>
     <div class="csl-left-margin">[86]</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[M]. 武汉: 武汉大学档案馆, 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名. 康熙字典：巳集上 水部[M]. 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">佚名. 康熙字典: 巳集上 水部[M]. 北京: 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Anon. Public Library Quarterly[J]. Philadelphia: Taylor &#38; Francis, 1979.</div>

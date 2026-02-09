@@ -13,7 +13,7 @@
 <sup>3</sup> 于潇等：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》，2012年第11期，第1518—1523页。<br>
 <sup>4</sup> Pieternella H. van der Veen et al., “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study,” <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp. 112—118.<br>
 <sup>5</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，2005年，第22—25页。<br>
-<sup>6</sup> Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” December 2022, p. 2.<br>
+<sup>6</sup> Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” Changzhou, China, December 2022, p. 2.<br>
 <sup>7</sup> Ibid.<br>
 <sup>8</sup> Adrian Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, pp. 326—329.<br>
 
@@ -26,7 +26,7 @@
   <div class="csl-entry">于潇等：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》，2012年第11期，第1518—1523页。</div>
   <div class="csl-entry">Adrian Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
   <div class="csl-entry">Pieternella H. van der Veen et al., “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study,” <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp. 112—118.</div>
-  <div class="csl-entry">Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” December 2022, p. 2.</div>
+  <div class="csl-entry">Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” Changzhou, China, December 2022, p. 2.</div>
 </div>
 
 ## 默认测试
@@ -55,7 +55,7 @@
 <sup>5</sup> 顾炎武著：《昌平山水记；京东考古录》，北京古籍出版社，1980年。<br>
 <sup>6</sup> 钱学森著：《创建系统学》，山西科学技术出版社，2001年。<br>
 <sup>7</sup> 冯友兰著：《冯友兰自选集》2，首都师范大学出版社，2008年。<br>
-<sup>8</sup> 《康熙字典：巳集上 水部》同文书局影印本，中华书局，1962年。<br>
+<sup>8</sup> 《康熙字典》同文书局影印本第巳集上 水部卷，中华书局，1962年。<br>
 <sup>9</sup> 战德臣、张丽杰著：《大学计算机：计算思维与信息素养》3，高等教育出版社，2019年。<br>
 <sup>10</sup> 哈里森、沃尔德伦著，谢远涛译：《经济数学与金融数学》，中国人民大学出版社，2012年。<br>
 <sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》，人民卫生出版社，2019年。<br>
@@ -81,7 +81,7 @@
 <sup>31</sup> 马克思：《政治经济学批判》，《马克思恩格斯全集》2第35卷，人民出版社，2013年，第302页。<br>
 <sup>32</sup> 《大黄》，国家药典委员会主编：《中华人民共和国药典》2020版第一部卷，中国医药科技出版社，2020年，第24—25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社，2011年，第11—12页。<br>
-<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A Sodeman Jr. and William A. Sodeman eds., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457—472.<br>
+<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic properties of invading microorganisms,” in William A. Sodeman Jr. and William A. Sodeman eds., <i>Pathologic physiology: mechanisms of disease</i>, Philadelphia: Saunders, 1974, pp. 457—472.<br>
 <sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking water standards, regulations and goals,” in American Water Works Association ed., <i>Water quality &#38; treatment: a handbook on drinking water</i>, New York: McGraw-Hill, 2011, p. 1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》，第1984，1（1）—卷，武汉：中华医学会湖北分会，1984年。<br>
 <sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》，第1957（1）—1990（4）卷，北京：北京图书馆，1957—1990年。<br>
@@ -114,11 +114,11 @@
 <sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，2005年，第22—25页。<br>
 <sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，2011年，第45—52页。<br>
 <sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，经济科学出版社，2011年。<br>
-<sup>67</sup> Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” December 2022, p. 2.<br>
-<sup>68</sup> Yang Yu et al., “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis,” 2024, p. 4.<br>
+<sup>67</sup> Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” Changzhou, China, December 2022, p. 2.<br>
+<sup>68</sup> Yang Yu et al., “Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis,” Seattle, 2024, p. 4.<br>
 <sup>69</sup> Sergey A. Yufin ed., <i>Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>70</sup> B. V. Babu et al. eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
-<sup>71</sup> M. E. Fourney, “Advances in holographic photoelasticity,” New York, 1971, pp. 17—38.<br>
+<sup>71</sup> M. E. Fourney, “Advances in holographic photoelasticity,” 1971, pp. 17—38.<br>
 <sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，武汉大学2022年博士学位论文学位论文。<br>
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，温州大学2020年硕士学位论文学位论文。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，武汉大学2016年博士学位论文学位论文。<br>
@@ -130,7 +130,7 @@
 <sup>80</sup> 中国信息通信研究院等：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。<br>
 <sup>81</sup> David E. Calkin, Alan A. Ager and Matthew P. Thompson, <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>, 2011, pp. 8—9.<br>
 <sup>82</sup> U.S. Department of Transportation Federal Highway Administration, <i>Guidelines for handling excavated acid-producing material</i>, Springfield: U.S. Department of Commerce National Information Service, 1990, p. 25.<br>
-<sup>83</sup> United Nations Department of Economic and Social Affairs, <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>, .<br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs, <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>, .<br>
 <sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
 <sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年。<br>

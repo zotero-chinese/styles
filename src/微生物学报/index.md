@@ -16,7 +16,7 @@
   <div class="csl-entry">[1] 扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 严高剑, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
   <div class="csl-entry">[2] Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13[2012-07-26].</div>
   <div class="csl-entry">[3] 于潇, 刘义, 柴跃廷, 孙宏波. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
-  <div class="csl-entry">[4] Veen P H van der, Muller M, Vincken K L, Witkamp T D, Mali W P T M, van der Graaf Y, Geerlings M I, SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
+  <div class="csl-entry">[4] Veen P H van der, Muller M, Vincken K L, Witkamp T D, Mali W P T M, van der Graaf Y, Geerlings M I, SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118[2025-12-02].</div>
   <div class="csl-entry">[5] 汪学军. 中国农业转基因生物研发进展与安全管理[C]. 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   <div class="csl-entry">[6] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C/OL]. [2025-12-02].</div>
   <div class="csl-entry">[7] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[Z/OL]. PSSXiv, 2024(2024-07-02)[2024-09-30].</div>
@@ -47,7 +47,7 @@
   <div class="csl-entry">[5] 顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   <div class="csl-entry">[6] 钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">[7] 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
-  <div class="csl-entry">[8] 佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">[8] 佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">[9] 战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
   <div class="csl-entry">[10] 哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">[11] 佚名. 鼻整形应用解剖学[M]. 牛永敢, 孔晓, 王阳, 斯楼斌, 编. 北京: 人民卫生出版社, 2019: 65-66.</div>
@@ -98,7 +98,7 @@
   <div class="csl-entry">[56] Myburg A A, Grattapaglia D, Tuskan G A, Hellsten U, Hayes R D, Grimwood J, Jenkins J, Lindquist E, Tice H, Bauer D, Goodstein D M, Dubchak I, Poliakov A, Mizrachi E, Kullan A R K, Hussey S G, Pinard D, van der Merwe K, Singh P, van Jaarsveld I, Silva-Junior O B, Togawa R C, Pappas M R, Faria D A, Sansaloni C P, Petroli C D, Yang X, Ranjan P, Tschaplinski T J, Ye C-Y, Li T, Sterck L, Vanneste K, Murat F, Soler M, Clemente H S, Saidi N, Cassan-Wang H, Dunand C, Hefer C A, Bornberg-Bauer E, Kersting A R, Vining K, Amarasinghe V, Ranik M, Naithani S, Elser J, Boyd A E, Liston A, Spatafora J W, Dharmwardhana P, Raja R, Sullivan C, Romanel E, Alves-Ferreira M, Külheim C, Foley W, Carocha V, Paiva J, Kudrna D, Brommonschenkel S H, Pasquali G, Byrne M, Rigault P, Tibbits J, Spokevicius A, Jones R C, Steane D A, Vaillancourt R E, Potts B M, Joubert F, Barry K, Pappas G J, Strauss S H, Jaiswal P, Grima-Pettenati J, Salse J, Van de Peer Y, Rokhsar D S, Schmutz J. The genome of <i>Eucalyptus grandis</i>[J/OL]. Nature, 2014, 510: 356-362[2014-06-25].</div>
   <div class="csl-entry">[57] Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J/OL]. Insect science, 2025[2025-02-28].</div>
   <div class="csl-entry">[58] Shinotsuka H, Nagata K, Siriwardana M, Yoshikawa H, Shouno H, Okada M. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J/OL]. Journal of electron spectroscopy and related phenomena, 2023, 267[2025-02-28].</div>
-  <div class="csl-entry">[59] Veen P H van der, Muller M, Vincken K L, Witkamp T D, Mali W P T M, van der Graaf Y, Geerlings M I, SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
+  <div class="csl-entry">[59] Veen P H van der, Muller M, Vincken K L, Witkamp T D, Mali W P T M, van der Graaf Y, Geerlings M I, SMART-MR Study Group. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118[2025-12-02].</div>
   <div class="csl-entry">[60] 李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. .</div>
   <div class="csl-entry">[61] 佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 牛志明, Swingland I R, 雷光春, 编. 北京: 海洋出版社, 2012.</div>
   <div class="csl-entry">[62] 佚名. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 中国社会科学院台湾史研究中心, 编. 北京: 九州出版社, 2012.</div>
@@ -120,9 +120,9 @@
   <div class="csl-entry">[78] 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R/OL].（2012-01-16）. [2013-03-26]. <a href="https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf">https://www.cnnic.net.cn/NMediaFile/old_attach/P020120612484958777344.pdf</a>[2013-03-26].</div>
   <div class="csl-entry">[79] 汤万金, 杨跃翔, 刘文, 郑建国, 王赟松. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R/OL].（2013-09-30）. [2014-06-24]. <a href="http://www.nstrs.cn/xiangxiBG.aspx?id=41707">http://www.nstrs.cn/xiangxiBG.aspx?id=41707</a>[2014-06-24].</div>
   <div class="csl-entry">[80] 中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 中国联合网络通信有限公司研究院. 电信业发展白皮书：2023：新时代高质量发展探索[R/OL].（2023-12-28）. [2025-02-28]. <a href="http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf">http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020240326615399026294.pdf</a>[2025-02-28].</div>
-  <div class="csl-entry">[81] Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R/OL].（2011）. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>.</div>
+  <div class="csl-entry">[81] Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R/OL].（2011）. [2025-12-02]. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>[2025-12-02].</div>
   <div class="csl-entry">[82] U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R].（1990）.</div>
-  <div class="csl-entry">[83] United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R/OL].[2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>[2025-02-28].</div>
+  <div class="csl-entry">[83] United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R/OL].[2025-02-28]. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a>[2025-02-28].</div>
   <div class="csl-entry">[84] 全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. .</div>
   <div class="csl-entry">[85] 全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. .</div>
   <div class="csl-entry">[86] 工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S/OL]. [2025-12-02].</div>
@@ -162,7 +162,7 @@
   <div class="csl-entry">[120] 刘祥沈. 沈阳市政区图[Z]. 武汉: 武汉大学出版社, 20162016.</div>
   <div class="csl-entry">[121] 中工武大设计研究有限公司. 阳新县标准地名图[Z]. 武汉: 武汉大学出版社, 20192019.</div>
   <div class="csl-entry">[122] 吴自银, 温珍河. 中国南部海域海底地形图[Z]. 北京: 科学出版社, 20192019.</div>
-  <div class="csl-entry">[123] 国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z/OL].</div>
+  <div class="csl-entry">[123] 国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z/OL][2025-12-02].</div>
   <div class="csl-entry">[124] 訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社, 20062006.</div>
   <div class="csl-entry">[125] 谭其骧. 中国历史地图集[Z]. 北京: 地图出版社, 1982: 61982.</div>
   <div class="csl-entry">[126] 童世亨. 京兆直隶图[Z/OL]. 上海: 商务印书馆, 19261926[2025-02-28].</div>
@@ -172,7 +172,7 @@
   <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次水川编目科学数据：2006-2011[DS/OL]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室, 20122012[2024-11-25].</div>
   <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 赵子飞. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023(2023-09-10)[2025-07-15].</div>
   <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 孙晓敏, 何洪林, 苏文, 王艳芬, 韩士杰, 周国逸, 赵新全, 王辉民, 欧阳竹, 张宪洲, 张扬建, 石培礼, 李英年, 赵亮, 张一平, 闫俊华, 王安志, 张军辉, 郝彦斌, 赵风华, 张法伟, 周广胜, 林光辉, 陈世苹, 刘绍民, 赵斌, 贾根锁, 张旭东, 张玉翠, 古松, 刘文兆, 李彦, 王文杰, 杨大文, 张劲松, 张志强, 赵仲辉, 周石硚, 郭海强, 沈彦俊, 徐自为, 黄辉, 孟平. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS/OL]. Science Data Bank, 20182018[2025-02-14].</div>
-  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25).</div>
+  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心, 2024(2024-12-25)[2025-07-10].</div>
   <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 郭鑫, 王世奇, 高正. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025(2025-06-11)[2025-07-10].</div>
   <div class="csl-entry">[135] Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 19801980[2025-07-10].</div>
   <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 20222022[2024-11-25].</div>

@@ -107,7 +107,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Sugarman L, Markham S. 1980. Students in a selective high school: some vocationally oriented data. UK Data Service</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, Nakamura T. 2001. Electronic watermarking method and system</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, Mossel B. 2022. Storage and delivery system</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. n.d. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. n.d. United Nations e-government survey 2024: accelerating digital transformation for sustainable development</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. 1990. Guidelines for handling excavated acid-producing material. Springfield: U.S. Department of Commerce National Information Service, pp. 25</div>
   <div class="csl-entry">Veen PH van der, Muller M, Vincken KL, Witkamp TD, Mali WPTM, van der Graaf Y, Geerlings MI, SMART-MR Study Group. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. Journal of the Neurological Sciences, 337(1/2): 112-118</div>
   <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers.//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). pp. 2</div>
@@ -192,7 +192,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">1883. Science. Washington, D.C.: American Association for the Advancement of Science</div>
   <div class="csl-entry">1949 (in Chinese) [1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告]</div>
   <div class="csl-entry">1957–1990 (in Chinese) [1957–1990. 图书馆学通讯. 北京: 北京图书馆]</div>
-  <div class="csl-entry">1962. (同文书局影印本). pp. 50 (in Chinese) [1962. 康熙字典：巳集上 水部 (同文书局影印本). 北京: 中华书局, pp. 50]</div>
+  <div class="csl-entry">1962. (同文书局影印本). pp. 50 (in Chinese) [1962. 康熙字典 (同文书局影印本). 北京: 中华书局, pp. 50]</div>
   <div class="csl-entry">1979. Public library quarterly. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">1984 (in Chinese) [1984. 临床内科杂志. 武汉: 中华医学会湖北分会]</div>
   <div class="csl-entry">2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Rotterdam: A. A. Balkema</div>

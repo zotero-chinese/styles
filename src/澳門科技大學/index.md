@@ -73,6 +73,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam, H. (1570, July 28). <i>[Letter to Bess of Hardwick]</i> [Letter to Bess of Hardwick].</div>
   <div class="csl-entry">Sugarman, L., &#38; Markham, S. (1980). <i>Students in a selective high school: some vocationally oriented data</i> [Dataset]. UK Data Service. <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a></div>
   <div class="csl-entry">American Association for the Advancement of Science (Ed.). (1883). <i>Science</i>. <i>1883，1（1）—</i>.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). (n.d.). <i>Guide to lithium battery safety for space applications</i> (No. AIAA G-136-2022).</div>
@@ -89,7 +90,6 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Des Marais, D. J., Strauss, H., Summons, R. E., &#38; Hayes, J. M. (1992). Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment. <i>Nature</i>, <i>359</i>, 605-609.</div>
   <div class="csl-entry">Deverell, W., &#38; Igler, D. (Eds.). (2013). <i>A companion to California history</i> (pp. 21-22). New York: John Wiley &#38; Sons.</div>
   <div class="csl-entry"><i>Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods</i> (No. ISO/IEC 80079-20-2:2016(en)). (n.d.).</div>
-  <div class="csl-entry">Fitzwilliam, H. (1570, July 28). <i>[Letter to Bess of Hardwick]</i> [Letter to Bess of Hardwick].</div>
   <div class="csl-entry">Fourney, M. E. (1971). Advances in holographic photoelasticity. W. G. Gottenberg (Ed.), Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California (pp. 17-38). New York: ASME.</div>
   <div class="csl-entry">Frese, K. S., Katus, H. A., &#38; Meder, B. (2013). Next-generation sequencing: from understanding biology to personalized medicine. <i>Biology</i>, <i>2</i>(1), 378-398.</div>
   <div class="csl-entry"><i>IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation</i> (No. IEEE P802.11ba/D8.0-2020). (2020). New York: IEEE.</div>
@@ -114,7 +114,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., &#38; Nakamura, T. (2001). <i>Electronic watermarking method and system</i> (U.S. Patent and Trademark Office Patent No. US2002061118A1).</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., &#38; Ondracek, C. (Eds.). (2021). <i>Connecting the library to the curriculum</i> (p. 97). Singapore: Springer Nature.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., &#38; Mossel, B. (2022). <i>Storage and delivery system</i> (Patent No. AU2022228203A1).</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001; p. 25). Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., Geerlings, M. I., &#38; SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <i>337</i>(1/2), 112-118.</div>
   <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i> (p. 2).</div>

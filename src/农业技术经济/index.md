@@ -84,64 +84,64 @@ Qian等 （2009a）<br>
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">1.</div><div class="csl-right-inline">Sugarman, L., Markham, S. Students in a Selective High School: Some Vocationally Oriented Data. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
+    <div class="csl-left-margin">1.</div><div class="csl-right-inline">Fitzwilliam, H. [Letter to Bess of Hardwick]. 1570.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">American Association for the Advancement of Science. Science. 1883, 1883，1（1）—. American Association for the Advancement of Science, 1883.</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">Sugarman, L., Markham, S. Students in a Selective High School: Some Vocationally Oriented Data. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022.</div>
+    <div class="csl-left-margin">3.</div><div class="csl-right-inline">American Association for the Advancement of Science. Science. 1883, 1883，1（1）—. American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">Anon. Public Library Quarterly. 1979, 1979，1（1）—. Taylor &#38; Francis, 1979.</div>
+    <div class="csl-left-margin">4.</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications: AIAA G-136-2022.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Anon. IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation: IEEE P802.11ba/D8.0-2020. IEEE, 2020.</div>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Anon. Public Library Quarterly. 1979, 1979，1（1）—. Taylor &#38; Francis, 1979.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">6.</div><div class="csl-right-inline">Anon. Library of Congress. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+    <div class="csl-left-margin">6.</div><div class="csl-right-inline">Anon. IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation: IEEE P802.11ba/D8.0-2020. IEEE, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Anon. Coastal Wetlands Map of China Continent. China Ocean Press, 2024: 50.</div>
+    <div class="csl-left-margin">7.</div><div class="csl-right-inline">Anon. Library of Congress. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8.</div><div class="csl-right-inline">Anon. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en).</div>
+    <div class="csl-left-margin">8.</div><div class="csl-right-inline">Anon. Coastal Wetlands Map of China Continent. China Ocean Press, 2024: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">9.</div><div class="csl-right-inline">Babu, B. V., Nagar, A., Deep, K., Pant, M., Bansal, J. C., Ray, K., Gupta, U. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Springer, 2014.</div>
+    <div class="csl-left-margin">9.</div><div class="csl-right-inline">Anon. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods: ISO/IEC 80079-20-2:2016(en).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">10.</div><div class="csl-right-inline">Bevington, D., Brown, J. R. William Shakespeare. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
+    <div class="csl-left-margin">10.</div><div class="csl-right-inline">Babu, B. V., Nagar, A., Deep, K., Pant, M., Bansal, J. C., Ray, K., Gupta, U. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">11.</div><div class="csl-right-inline">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., Ariniello, L., Kim, J. Y., Sheard, J., Komatireddy, R., Barrett, P., Topol, E. J. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors. bioRxiv, 2015.</div>
+    <div class="csl-left-margin">11.</div><div class="csl-right-inline">Bevington, D., Brown, J. R. William Shakespeare. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">12.</div><div class="csl-right-inline">Boobier, T. AI and the Future of Banking. John Wiley &#38; Sons, 2020: 35.</div>
+    <div class="csl-left-margin">12.</div><div class="csl-right-inline">Bloss, C. S., Wineinger, N. E., Peters, M., Boeldt, D. L., Ariniello, L., Kim, J. Y., Sheard, J., Komatireddy, R., Barrett, P., Topol, E. J. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors. bioRxiv, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">13.</div><div class="csl-right-inline">Cairns, B. R. Infrared Spectroscopic Studies on Solid Oxygen. University of California, 1965: 15.</div>
+    <div class="csl-left-margin">13.</div><div class="csl-right-inline">Boobier, T. AI and the Future of Banking. John Wiley &#38; Sons, 2020: 35.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">14.</div><div class="csl-right-inline">Calkin, D. E., Ager, A. A., Thompson, M. P. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262. 2011: 8~9.</div>
+    <div class="csl-left-margin">14.</div><div class="csl-right-inline">Cairns, B. R. Infrared Spectroscopic Studies on Solid Oxygen. University of California, 1965: 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">15.</div><div class="csl-right-inline">Caplan, P. Cataloging Internet Resources. The Public-Access Computer Systems Review, 1993, 4(2): 61~66.</div>
+    <div class="csl-left-margin">15.</div><div class="csl-right-inline">Calkin, D. E., Ager, A. A., Thompson, M. P. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262. 2011: 8~9.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">16.</div><div class="csl-right-inline">Christou, A. Improving Knowledge Graph Understanding with Contextual Views. Wright State University, 2024: 18.</div>
+    <div class="csl-left-margin">16.</div><div class="csl-right-inline">Caplan, P. Cataloging Internet Resources. The Public-Access Computer Systems Review, 1993, 4(2): 61~66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">17.</div><div class="csl-right-inline">Cribb, R. Historical Atlas of Indonesia. Routledge, 2015.</div>
+    <div class="csl-left-margin">17.</div><div class="csl-right-inline">Christou, A. Improving Knowledge Graph Understanding with Contextual Views. Wright State University, 2024: 18.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Des Marais, D. J., Strauss, H., Summons, R. E., Hayes, J. M. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment. Nature, 1992, 359: 605~609.</div>
+    <div class="csl-left-margin">18.</div><div class="csl-right-inline">Cribb, R. Historical Atlas of Indonesia. Routledge, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">19.</div><div class="csl-right-inline">Deverell, W., Igler, D. A Companion to California History. John Wiley &#38; Sons, 2013: 21~22.</div>
+    <div class="csl-left-margin">19.</div><div class="csl-right-inline">Des Marais, D. J., Strauss, H., Summons, R. E., Hayes, J. M. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment. Nature, 1992, 359: 605~609.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">20.</div><div class="csl-right-inline">Fitzwilliam, H. [Letter to Bess of Hardwick]. 1570.</div>
+    <div class="csl-left-margin">20.</div><div class="csl-right-inline">Deverell, W., Igler, D. A Companion to California History. John Wiley &#38; Sons, 2013: 21~22.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">21.</div><div class="csl-right-inline">Fourney, M. E. Advances in Holographic Photoelasticity//Gottenberg, W. G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. ASME, 1971: 17~38.</div>
@@ -297,7 +297,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">71.</div><div class="csl-right-inline">顾炎武. 昌平山水记；京东考古录. 北京古籍出版社, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">72.</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
+    <div class="csl-left-margin">72.</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图. [2025].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">73.</div><div class="csl-right-inline">国家能源局. 水电工程水温实时监测系统技术规范: NB/T 10386—2020. 2020.</div>
@@ -492,7 +492,7 @@ Qian等 （2009a）<br>
     <div class="csl-left-margin">136.</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉大学档案馆, 1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">137.</div><div class="csl-right-inline">佚名. 康熙字典：巳集上 水部. 同文书局影印本. 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">137.</div><div class="csl-right-inline">佚名. 康熙字典: 巳集上 水部. 同文书局影印本. 中华书局, 1962: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">138.</div><div class="csl-right-inline">佚名. 周易外传：卷5//王夫之. 船山全书: 第1册. 修订版. 岳麓书社, 2011: 983~1029.</div>

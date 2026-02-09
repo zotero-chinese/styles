@@ -320,8 +320,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[79]	Anonymous. 1957–1990. 图书馆学通讯[J]. 北京: 北京图书馆.
     <div class="csl-block">anonymous. 1957–1990. 图书馆学通讯[J]. 北京: 北京图书馆 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[80]	Anonymous. 1962. 康熙字典：巳集上 水部[M]. 同文书局影印本 edition. 北京: 中华书局，1962年.
-    <div class="csl-block">anonymous. 1962. 康熙字典：巳集上 水部[M]. 同文书局影印本 edition. 北京: 中华书局，1962年 (In Chinese)</div>
+  <div class="csl-entry">[80]	Anonymous. 1962. 康熙字典[M]. 同文书局影印本 edition. 北京: 中华书局，1962年.
+    <div class="csl-block">anonymous. 1962. 康熙字典[M]. 同文书局影印本 edition. 北京: 中华书局，1962年 (In Chinese)</div>
   </div>
   <div class="csl-entry">[81]	Anonymous. 1979. Public library quarterly[J]. Philadelphia: Taylor &#38; Francis.
     <div class="csl-block">anonymous. 1979. Public library quarterly[J]. Philadelphia: Taylor &#38; Francis (In Chinese)</div>
@@ -404,8 +404,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[107]	CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，University of CaliforniaDoctoral dissertation学位论文，1965年.
     <div class="csl-block">CAIRNS B R. 1965. Infrared spectroscopic studies on solid oxygen[D]，University of CaliforniaDoctoral dissertation学位论文，1965年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[108]	CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. .
-    <div class="csl-block">CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R].  (In Chinese)</div>
+  <div class="csl-entry">[108]	CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. [2025-12-02].
+    <div class="csl-block">CALKIN D E, AGER A A, THOMPSON M P. 2011. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report[R]. [2025-12-02]. (In Chinese)</div>
   </div>
   <div class="csl-entry">[109]	CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. .
     <div class="csl-block">CAPLAN P. 1993. Cataloging internet resources[J]，The Public-Access Computer Systems Review, 4(2): 61-66. (In Chinese)</div>
@@ -419,9 +419,7 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[112]	DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359: 605-609. .
     <div class="csl-block">DES MARAIS D J, STRAUSS H, SUMMONS R E, HAYES J M. 1992. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]，Nature, 359: 605-609. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[113]	FITZWILLIAM H. 1570. [Letter to Bess of Hardwick][A](1570-07-28).
-    <div class="csl-block">FITZWILLIAM H. 1570. [Letter to Bess of Hardwick][A](1570-07-28) (In Chinese)</div>
-  </div>
+  <div class="csl-entry">[113]	FITZWILLIAM H. 1570. [Letter to Bess of Hardwick][A](1570-07-28).</div>
   <div class="csl-entry">[114]	FOURNEY M E. 1971. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，1971年.
     <div class="csl-block">FOURNEY M E. 1971. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, CaliforniaNew York: ASME，1971年 (In Chinese)</div>
   </div>
@@ -480,8 +478,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[133]	TRISTRAM M, SKARSHEWSKI P, TRISTRAM I, MOSSEL B. 2022. Storage and delivery system[P]. 2022-10-06.
     <div class="csl-block">TRISTRAM M, SKARSHEWSKI P, TRISTRAM I, MOSSEL B. 2022. Storage and delivery system[P]. 2022-10-06 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[134]	UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [no date]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025-02-28].
-    <div class="csl-block">UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [no date]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025-02-28]. (In Chinese)</div>
+  <div class="csl-entry">[134]	UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [no date]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025-02-28].
+    <div class="csl-block">UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [no date]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025-02-28]. (In Chinese)</div>
   </div>
   <div class="csl-entry">[135]	U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. 1990. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service，1990年.
     <div class="csl-block">U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. 1990. Guidelines for handling excavated acid-producing material[R]. Springfield: U.S. Department of Commerce National Information Service，1990年 (In Chinese)</div>

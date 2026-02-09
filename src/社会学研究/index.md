@@ -181,7 +181,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">American Association for the Advancement of Science 1883, <i>Science</i>. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
   <div class="csl-entry">佚名，1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
-  <div class="csl-entry">佚名，1962，《康熙字典：巳集上 水部》同文书局影印本，北京：中华书局。</div>
+  <div class="csl-entry">佚名，1962，《康熙字典》同文书局影印本巳集上 水部，北京：中华书局。</div>
   <div class="csl-entry">Anon 1979, <i>Public Library Quarterly</i>. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名，2011，《周易外传：卷5》，王夫之主编《船山全书》第1册，长沙：岳麓书社。</div>
   <div class="csl-entry">佚名，2020，《大黄》，国家药典委员会主编《中华人民共和国药典》一部，北京：中国医药科技出版社。</div>

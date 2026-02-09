@@ -187,7 +187,7 @@ Qian et al (2009a)<br>
   <div class="csl-entry">(1883) Science. American Association for the Advancement of Science, Washington, D.C.</div>
   <div class="csl-entry">(1949) (in Chinese) [(1949) 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告.]</div>
   <div class="csl-entry">(1957–1990) (in Chinese) [(1957–1990) 图书馆学通讯. 北京图书馆, 北京.]</div>
-  <div class="csl-entry">(1962) p. 50. (in Chinese) [(1962) 康熙字典：巳集上 水部, 同文书局影印本, p. 50. 中华书局, 北京.]</div>
+  <div class="csl-entry">(1962) p. 50. (in Chinese) [(1962) 康熙字典, 同文书局影印本, p. 50. 中华书局, 北京.]</div>
   <div class="csl-entry">(1979) Public Library Quarterly. Taylor &#38; Francis, Philadelphia.</div>
   <div class="csl-entry">(1984) (in Chinese) [(1984) 临床内科杂志. 中华医学会湖北分会, 武汉.]</div>
   <div class="csl-entry">(2000) Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. A. A. Balkema, Rotterdam.</div>

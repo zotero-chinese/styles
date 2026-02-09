@@ -120,7 +120,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">肖希明, 石庆功, 刘奕, 2024. 民国图书馆学教育的社会贡献[C] //纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系: 134-147.</div>
   <div class="csl-entry">肖玲, 张雪, 王永, 2024. 数据要素的统计测算方法探究[A]. PSSXiv.</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, 等, 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
+  <div class="csl-entry">国家测绘地理信息局, [2025]. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
   <div class="csl-entry">国家能源局, 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S].</div>
   <div class="csl-entry">金燕萍, 2020. 社交媒体时代的虚假信息研究[D]. 温州: 温州大学: 16.</div>
   <div class="csl-entry">阿扬, 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[M]. 姜海伦, 译 //《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18.</div>
@@ -153,7 +153,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">American Association for the Advancement of Science, 1883. Science [J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022 [S].</div>
   <div class="csl-entry">佚名, 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆.</div>
-  <div class="csl-entry">佚名, 1962. 康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名, 1962. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anon, 1979. Public library quarterly [J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名, 2011. 周易外传：卷5[M] //王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983-1029.</div>
   <div class="csl-entry">佚名, 2020. 大黄[M] //国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24-25.</div>

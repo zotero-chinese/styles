@@ -84,7 +84,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">高等教育文献保障系统. [2025]. 馆际互借与文献传递服务. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a></div>
   <div class="csl-entry">工业和信息化部. 2022. 信息技术  中文编码字符集: GB 18030—2022</div>
   <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录. 北京: 北京古籍出版社</div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图</div>
+  <div class="csl-entry">国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图</div>
   <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020</div>
   <div class="csl-entry">哈里森, 沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社. 235-236</div>
   <div class="csl-entry">何筱梅. 2016. 新媒体时代原生广告的策略与发展研究. 博士学位论文. 武汉: 武汉大学. 24-25</div>
@@ -153,7 +153,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告. 武汉: 武汉大学档案馆</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部. 同文书局影印本. 北京: 中华书局. 50</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典: 巳集上 水部. 同文书局影印本. 北京: 中华书局. 50</div>
   <div class="csl-entry">Anon. 1979. Public library quarterly. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5. 见: 王夫之, 编. 船山全书: 第1册. 修订版. 长沙: 岳麓书社. 983-1029</div>
   <div class="csl-entry">佚名. 2020. 大黄. 见: 国家药典委员会, 编. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社. 24-25</div>

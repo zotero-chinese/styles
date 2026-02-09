@@ -67,6 +67,7 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28).</div>
   <div class="csl-entry">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service, 1980. .</div>
   <div class="csl-entry">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883. .</div>
   <div class="csl-entry">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 1979. .</div>
@@ -89,7 +90,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio: Wright State University, 2024. 18.</div>
   <div class="csl-entry">Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 2015. .</div>
   <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. <i><span style="font-style:normal;">Nature</span></i>, 1992, 359: 605-609.</div>
-  <div class="csl-entry">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28).</div>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]. Gottenberg W G, ed.//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971. 17-38.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. <i><span style="font-style:normal;">Biology</span></i>, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. Global Health Data Exchange, 2021. .</div>
@@ -109,7 +109,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator: 147370[J]. <i><span style="font-style:normal;">Journal of electron spectroscopy and related phenomena</span></i>, 2023, 267.</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990. 25.</div>
   <div class="csl-entry">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. <i><span style="font-style:normal;">Journal of the Neurological Sciences</span></i>, 2014, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. .</div>
@@ -180,7 +180,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].</div>
   <div class="csl-entry">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆，1957/1990. .</div>
-  <div class="csl-entry">佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局，1962. 50.</div>
+  <div class="csl-entry">佚名. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局，1962. 50.</div>
   <div class="csl-entry">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会，1984. .</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]. 王夫之, 编//船山全书. 修订版 版. 长沙: 岳麓书社，2011a. 983-1029.</div>
   <div class="csl-entry">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 陈志勇, 编. 北京: 经济科学出版社，2011b. .</div>

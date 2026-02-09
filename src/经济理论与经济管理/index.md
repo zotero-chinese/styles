@@ -190,7 +190,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Zhong, X., Yan, Q. and Li, G., 2022, <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>, Global Change Research Data Publishing &#38; Repository.</div>
   <div class="csl-entry">Zotero, <i>[Zotero Download]</i>.</div>
   <div class="csl-entry">，1949：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，。</div>
-  <div class="csl-entry">，1962：《康熙字典：巳集上 水部》，，中华书局。</div>
+  <div class="csl-entry">，1962：《康熙字典》，，中华书局。</div>
   <div class="csl-entry">1979, <i>Public Library Quarterly</i>, Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">2020, <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, New York: IEEE.</div>
   <div class="csl-entry">，2022：《《庄子》读不懂？看完这一篇“导读”就明白了》，。</div>

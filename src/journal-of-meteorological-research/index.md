@@ -75,7 +75,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Bloss, C. S., et al., 2015: A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors.</div>
   <div class="csl-entry">Boobier, T., 2020: <i>AI and the future of banking</i>. John Wiley &#38; Sons,.</div>
   <div class="csl-entry">Cairns, B. R., 1965: Infrared spectroscopic studies on solid oxygen. University of California, 224 pp.</div>
-  <div class="csl-entry">Calkin, D. E., A. A. Ager, and M. P. Thompson, 2011: <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a>.</div>
+  <div class="csl-entry">Calkin, D. E., A. A. Ager, and M. P. Thompson, 2011: <i>A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report</i>. <a href="https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf">https://www.fs.usda.gov/rm/pubs/rmrs_gtr262.pdf</a> (Accessed December 2, 2025).</div>
   <div class="csl-entry">Caplan, P., 1993: Cataloging internet resources. <i>Public-Access Comput. Syst. Rev.</i>, <b>4</b>, 61–66.</div>
   <div class="csl-entry">Christou, A., 2024: Improving knowledge graph understanding with contextual views. Wright State University, <a href="http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301">http://rave.ohiolink.edu/etdc/view?acc_num=wright1715878159408301</a> (Accessed February 28, 2025).</div>
   <div class="csl-entry">Cribb, R., 2015: Historical atlas of Indonesia.</div>
@@ -104,7 +104,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayashi, and T. Nakamura, 2001: Electronic watermarking method and system.</div>
   <div class="csl-entry">Torres, L., F. Salisbury, B. Yazbeck, S. Karasmanis, J. Pinder, and C. Ondracek, eds., 2021: <i>Connecting the library to the curriculum</i>. Springer Nature,.</div>
   <div class="csl-entry">Tristram, M., P. Skarshewski, I. Tristram, and B. Mossel, 2022: Storage and delivery system.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs, <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a> (Accessed February 28, 2025).</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs, <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>. <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024">https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024</a> (Accessed February 28, 2025).</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, 1990: <i>Guidelines for handling excavated acid-producing material</i>. U.S. Department of Commerce National Information Service,.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, and SMART-MR Study Group, 2014: Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>J. Neurol. Sci.</i>, <b>337</b>, 112–118, <a href="https://doi.org/10.1016/j.jns.2013.11.029">https://doi.org/10.1016/j.jns.2013.11.029</a>.</div>
   <div class="csl-entry">Wang, S., 2022: Application of improved SOM neural network in intelligent auditing of hospital financial vouchers. 2.</div>
@@ -198,7 +198,7 @@ Qian et al. (2009a)<br>
   <div class="csl-entry">高等教育文献保障系统, 馆际互借与文献传递服务. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> (Accessed June 21, 2025).</div>
   <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）, 2024: 青海省县域教育、卫生发展指标（2001—2022年）. <a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>.</div>
   <div class="csl-entry">1949: 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告.</div>
-  <div class="csl-entry">1962: 康熙字典：巳集上 水部. 同文书局影印本. 中华书局,.</div>
+  <div class="csl-entry">1962: 康熙字典. 同文书局影印本. 中华书局,.</div>
   <div class="csl-entry">1979: Public library quarterly. <b>1979，1（1）—</b>.</div>
   <div class="csl-entry">2020: IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation.</div>
   <div class="csl-entry">2022: 《庄子》读不懂？看完这一篇“导读”就明白了.</div>

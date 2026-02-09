@@ -28,7 +28,7 @@
   <div class="csl-entry">Jenkins, S. D. and J. Ruostekoski (2012): <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>, arXiv.</div>
   <div class="csl-entry">Praetzellis, A. (2011): <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, and SMART-MR Study Group (2014): “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study”, <i>Journal of the Neurological Sciences</i>, 337, 112-118.</div>
-  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper.</div>
+  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China.</div>
 </div>
 
 ## 默认测试
@@ -191,14 +191,14 @@ Qian, Zhao, Zhou and Li （2009）<br>
   <div class="csl-entry">United Nations Department of Economic and Social Affairs (no date): <i>United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration (1990): <i>Guidelines for Handling Excavated Acid-Producing Material</i>, Report, U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, and SMART-MR Study Group (2014): “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study”, <i>Journal of the Neurological Sciences</i>, 337, 112-118.</div>
-  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper.</div>
+  <div class="csl-entry">Wang, S. (2022): “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China.</div>
   <div class="csl-entry">Weinstein, L. and M. N. Swartz (1974): “Pathogenic Properties of Invading Microorganisms”, In: Sodeman, W. A., Jr. and W. A. Sodeman, <i>Pathologic Physiology: Mechanisms of Disease</i>, Saunders.</div>
-  <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei and J. Ma (2024): “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis”, “CVPR” paper.</div>
+  <div class="csl-entry">Yu, Y., E. Pan, X. Wang, Y. Wu, X. Mei and J. Ma (2024): “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis”, “CVPR” paper, Seattle.</div>
   <div class="csl-entry">Yufin, S. A. (ed.) (2000): <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, A. A. Balkema.</div>
   <div class="csl-entry">Zhong, X., Q. Yan and G. Li (2022): <i>Long Time Series Nighttime Light Dataset of China (2000-2020)</i>.</div>
   <div class="csl-entry">Zotero: <i>[Zotero Download]</i>, <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>, April 8, 2024.</div>
   <div class="csl-entry">（1949）：《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
-  <div class="csl-entry">（1962）：《康熙字典：巳集上 水部》（同文书局影印本），中华书局。</div>
+  <div class="csl-entry">（1962）：《康熙字典》（同文书局影印本）巳集上 水部，中华书局。</div>
   <div class="csl-entry">(1979): <i>Public Library Quarterly</i>, 1979，1（1）—, Taylor &#38; Francis.</div>
   <div class="csl-entry">(2020): <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, IEEE.</div>
   <div class="csl-entry">（2022）：《《庄子》读不懂？看完这一篇“导读”就明白了》。</div>

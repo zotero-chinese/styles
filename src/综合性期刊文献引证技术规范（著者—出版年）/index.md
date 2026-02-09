@@ -471,13 +471,13 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Veen, Pieternella H. van der, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, &#38; SMART-MR Study Group, 2014, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2, pp. 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Wang, Shanshan, 2022, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Wang, Shanshan, 2022, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” “2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)” paper, Changzhou, China.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Weinstein, L. &#38; M. N. Swartz, 1974, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. &#38; William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, pp. 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Yu, Yang, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei &#38; Jiayi Ma, 2024, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” “CVPR” paper.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Yu, Yang, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei &#38; Jiayi Ma, 2024, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” “CVPR” paper, Seattle.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Yufin, Sergey A. (ed.), 2000, <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000</i>, Rotterdam: A. A. Balkema.</div>
@@ -492,7 +492,7 @@ Qian, Zhao, Zhou &#38; Li （2009）<br>
     <div class="csl-left-margin">[131]</div><div class="csl-right-inline">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">1962，《康熙字典：巳集上 水部》（同文书局影印本），北京：中华书局。</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">1962，《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[133]</div><div class="csl-right-inline">1979, <i>Public Library Quarterly</i>, 1979，1（1）—, Philadelphia: Taylor &#38; Francis.</div>

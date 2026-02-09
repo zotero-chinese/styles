@@ -47,7 +47,7 @@
   <div class="csl-entry">[5]顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1980.</div>
   <div class="csl-entry">[6]钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.</div>
   <div class="csl-entry">[7]冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
-  <div class="csl-entry">[8]康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
+  <div class="csl-entry">[8]康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
   <div class="csl-entry">[9]战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
   <div class="csl-entry">[10]哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.</div>
   <div class="csl-entry">[11]牛永敢, 孔晓, 王阳, 等. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社, 2019: 65-66.</div>
@@ -122,7 +122,7 @@
   <div class="csl-entry">[80]中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 电信业发展白皮书：2023：新时代高质量发展探索[R]. 2023.</div>
   <div class="csl-entry">[81]CALKIN D E, AGER A A, THOMPSON M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
   <div class="csl-entry">[82]U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990: 25.</div>
-  <div class="csl-entry">[83]United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
+  <div class="csl-entry">[83]United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [2025].</div>
   <div class="csl-entry">[84]全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
   <div class="csl-entry">[85]全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
   <div class="csl-entry">[86]工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022.</div>
@@ -162,7 +162,7 @@
   <div class="csl-entry">[120]刘祥沈. 沈阳市政区图[CM]. 武汉: 武汉大学出版社, 2016.</div>
   <div class="csl-entry">[121]中工武大设计研究有限公司. 阳新县标准地名图[CM]. 武汉: 武汉大学出版社, 2019.</div>
   <div class="csl-entry">[122]吴自银, 温珍河. 中国南部海域海底地形图[CM]. 北京: 科学出版社, 2019.</div>
-  <div class="csl-entry">[123]国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
+  <div class="csl-entry">[123]国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]. [2025].</div>
   <div class="csl-entry">[124]訾冬梅, 高秀静. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社, 2006.</div>
   <div class="csl-entry">[125]谭其骧. 中国历史地图集: 第2册[CM]. 北京: 地图出版社, 1982: 6.</div>
   <div class="csl-entry">[126]童世亨. 京兆直隶图[CM]. 上海: 商务印书馆, 1926.</div>

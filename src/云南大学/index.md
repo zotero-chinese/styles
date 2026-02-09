@@ -128,7 +128,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Anonymous. 1883. Science[Z]. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z].</div>
   <div class="csl-entry">佚名. 1957/1990. 图书馆学通讯[Z]. 北京: 北京图书馆.</div>
-  <div class="csl-entry">佚名. 1962. 康熙字典：巳集上 水部[M]. 同文书局影印本 版. 北京: 中华书局: 50.</div>
+  <div class="csl-entry">佚名. 1962. 康熙字典[M]. 同文书局影印本 版. 北京: 中华书局: 50.</div>
   <div class="csl-entry">Anonymous. 1979. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis.</div>
   <div class="csl-entry">佚名. 1984. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会.</div>
   <div class="csl-entry">Anonymous. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Yufin S A, ed.. Rotterdam: A. A. Balkema.</div>
@@ -200,7 +200,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">SUGARMAN L, MARKHAM S. 1980. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service.</div>
   <div class="csl-entry">TACHIBANA R, SHIMIZU S, KOBAYASHI S, et al. 2001. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28.</div>
   <div class="csl-entry">TRISTRAM M, SKARSHEWSKI P, TRISTRAM I, et al. 2022. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
-  <div class="csl-entry">UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [no date]. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
+  <div class="csl-entry">UNITED NATIONS DEPARTMENT OF ECONOMIC AND SOCIAL AFFAIRS. [no date]. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. .</div>
   <div class="csl-entry">U.S. DEPARTMENT OF TRANSPORTATION FEDERAL HIGHWAY ADMINISTRATION. 1990. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service: 25.</div>
   <div class="csl-entry">VEEN P H van der, MULLER M, VINCKEN K L, et al. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences. 337(1/2): 112-118.</div>
   <div class="csl-entry">WANG S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. .</div>

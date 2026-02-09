@@ -67,6 +67,7 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Fitzwilliam H. 1570. <i>[Letter to Bess of Hardwick]</i>.</div>
   <div class="csl-entry">Sugarman L. &#38; S. Markham. 1980. <i>Students in a Selective High School: Some Vocationally Oriented Data</i>. UK Data Service. <a href="https://doi.org/10.5255/UKDA-SN-996-1">https://doi.org/10.5255/UKDA-SN-996-1</a> (July 10, 2025).</div>
   <div class="csl-entry">American Association for the Advancement of Science (ed.). 1883. <i>Science</i>. Washington, D.C.: American Association for the Advancement of Science.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). <i>Guide to Lithium Battery Safety for Space Applications</i>.</div>
@@ -81,7 +82,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Cribb R. 2015. <i>Historical Atlas of Indonesia</i>. Abingdon: Routledge.</div>
   <div class="csl-entry">Des Marais D. J., H. Strauss, R. E. Summons et al. 1992. “Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment”. <i>Nature</i> 359.</div>
   <div class="csl-entry">Deverell W. &#38; D. Igler (eds.). 2013. <i>A Companion to California History</i>. New York: John Wiley &#38; Sons.</div>
-  <div class="csl-entry">Fitzwilliam H. 1570. <i>[Letter to Bess of Hardwick]</i>.</div>
   <div class="csl-entry">Fourney M. E. 1971. “Advances in holographic photoelasticity”. In W. G. Gottenberg (ed.). <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME.</div>
   <div class="csl-entry">Frese K. S., H. A. Katus, &#38; B. Meder. 2013. “Next-generation sequencing: from understanding biology to personalized medicine”. <i>Biology</i> 2.</div>
   <div class="csl-entry">IHME. 2021. <i>Global Burden of Disease Study 2019 (GBD2019) Data Resources</i>. Global Health Data Exchange. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a> (November 25, 2024).</div>
@@ -144,7 +144,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">何筱梅，2016，《新媒体时代原生广告的策略与发展研究》，武汉：武汉大学。</div>
   <div class="csl-entry">胡健民，2021，《东南极拉斯曼丘陵地区地质图》，北京：科学出版社。</div>
   <div class="csl-entry">湖北省建设厅，1931，《湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令》，武汉：湖北省档案馆。</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024，《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>。</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所），2024，《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">https://doi.org/10.12041/geodata.58691800703558.ver1.db</a>（2025.7.10）。</div>
   <div class="csl-entry">冀超，2001，《一种荒漠化地区生态植被综合培育种植方法》，中国，CN1318281A。</div>
   <div class="csl-entry">贾东琴、柯平，2011，面向数字素养的高校图书馆数字服务体系研究，见中国图书馆学会（编），《中国图书馆学会年会论文集》（2011年卷），北京：国家图书馆出版社。</div>
   <div class="csl-entry">金燕萍，2020，《社交媒体时代的虚假信息研究》，温州：温州大学。</div>
@@ -203,7 +203,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">周壮、李盛阳、吴薇等，2023，《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，<a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>（2025.7.15）。</div>
   <div class="csl-entry">訾冬梅、高秀静，2006，《内蒙古自治区地图册》（新版），北京：中国地图出版社。</div>
   <div class="csl-entry">1949，《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，武汉：武汉大学档案馆。</div>
-  <div class="csl-entry">1962，《康熙字典：巳集上 水部》（同文书局影印本），北京：中华书局。</div>
+  <div class="csl-entry">1962，《康熙字典》（同文书局影印本巳集上 水部），北京：中华书局。</div>
   <div class="csl-entry">2011，周易外传：卷5（修订版），见王夫之（编），《船山全书》（修订版第1册），长沙：岳麓书社。</div>
   <div class="csl-entry">2020，大黄（2020版），见国家药典委员会（编），《中华人民共和国药典》（2020版一部），北京：中国医药科技出版社。</div>
   <div class="csl-entry">2023a，《[《昨日之歌》图书封面]》。</div>

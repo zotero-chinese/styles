@@ -78,7 +78,7 @@
     <div class="csl-left-margin">7.</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M].第2版 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">8.</div><div class="csl-right-inline">康熙字典：巳集上 水部[M].第同文书局影印本版 北京: 中华书局, 1962: 50.</div>
+    <div class="csl-left-margin">8.</div><div class="csl-right-inline">康熙字典[M].第同文书局影印本版 北京: 中华书局, 1962, 巳集上 水部: 50.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">9.</div><div class="csl-right-inline">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M].第3版 北京: 高等教育出版社, 2019.</div>

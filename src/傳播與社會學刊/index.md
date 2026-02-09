@@ -134,7 +134,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">钱学森（2001）。《创建系统学》 （頁序2-3）。太原：山西科学技术出版社。</div>
   <div class="csl-entry">顾炎武（1980）。《昌平山水记；京东考古录》。北京：北京古籍出版社。</div>
   <div class="csl-entry">高等教育文献保障系统（不詳）。〈馆际互借与文献传递服务〉。上網日期：2025年6月21日，取自<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a></div>
-  <div class="csl-entry">《康熙字典：巳集上 水部》 （同文书局影印本，頁50）（1962）。北京：中华书局。</div>
+  <div class="csl-entry">《康熙字典：卷 巳集上 水部》 （同文书局影印本，頁50）（1962）。北京：中华书局。</div>
   <div class="csl-entry">曹凌（2011）。《中国佛教疑伪经综录》 （頁19）。上海：上海古籍出版社。</div>
   <div class="csl-entry">博伯尔（2023）。《银行业的未来与人工智能》 （徐超譯；頁35）。北京：清华大学出版社。</div>
   <div class="csl-entry">彭守璋（2024）。《1901—2023年中国1km分辨率逐月降水量数据集》 ［dataset］。西北农林科技大学水土保持研究所。上網日期：2024年11月25日，取自<a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a></div>
@@ -189,7 +189,7 @@ Qian, Zhao, Zhou, &#38; Li （2009）<br>
   <div class="csl-entry">Tachibana, R., Shimizu, S., Kobayashi, S., &#38; Nakamura, T. (2001). <i>Electronic watermarking method and system</i> (U.S. Patent and Trademark Office Patent No. US2002061118A1).</div>
   <div class="csl-entry">Torres, L., Salisbury, F., Yazbeck, B., Karasmanis, S., Pinder, J., &#38; Ondracek, C. (eds.). (2021). <i>Connecting the library to the curriculum</i> (p. 97). Singapore: Springer Nature.</div>
   <div class="csl-entry">Tristram, M., Skarshewski, P., Tristram, I., &#38; Mossel, B. (2022). <i>Storage and delivery system</i> (Patent No. AU2022228203A1).</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations E-Government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs. (n.d.). <i>United Nations e-government survey 2024: accelerating digital transformation for sustainable development</i>.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration. (1990). <i>Guidelines for handling excavated acid-producing material</i> (No. PB 91-194001; p. 25). Springfield: U.S. Department of Commerce National Information Service.</div>
   <div class="csl-entry">Veen, P. H. van der, Muller, M., Vincken, K. L., Witkamp, T. D., Mali, W. P. T. M., van der Graaf, Y., Geerlings, M. I., &#38; SMART-MR Study Group. (2014). Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <i>337</i>(1/2), 112–118. <a href="https://doi.org/10.1016/j.jns.2013.11.029">https://doi.org/10.1016/j.jns.2013.11.029</a></div>
   <div class="csl-entry">Wang, S. (2022). <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>. 2. <a href="https://doi.org/10.1109/ACAIT56212.2022.10137867">https://doi.org/10.1109/ACAIT56212.2022.10137867</a></div>

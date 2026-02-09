@@ -196,7 +196,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Tachibana, R., S. Shimizu, S. Kobayashi, and T. Nakamura, “Electronic watermarking method and system”, 2001.</div>
   <div class="csl-entry">Torres, L., F. Salisbury, B. Yazbeck, S. Karasmanis, J. Pinder, and C. Ondracek, eds., <i>Connecting the Library to the Curriculum</i>, Singapore: Springer Nature, 2021.</div>
   <div class="csl-entry">Tristram, M., P. Skarshewski, I. Tristram, and B. Mossel, “Storage and delivery system”, 2022.</div>
-  <div class="csl-entry">United Nations Department of Economic and Social Affairs, “United Nations E-Government survey 2024: accelerating digital transformation for sustainable development”.</div>
+  <div class="csl-entry">United Nations Department of Economic and Social Affairs, “United Nations e-government survey 2024: accelerating digital transformation for sustainable development”.</div>
   <div class="csl-entry">U.S. Department of Transportation Federal Highway Administration, “Guidelines for handling excavated acid-producing material”, Springfield: U.S. Department of Commerce National Information Service, 1990.</div>
   <div class="csl-entry">Veen, P. H. van der, M. Muller, K. L. Vincken, T. D. Witkamp, W. P. T. M. Mali, Y. van der Graaf, M. I. Geerlings, and SMART-MR Study Group, “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study”, <i>Journal of the Neurological Sciences</i> 337(1/2), 2014, 112～118.</div>
   <div class="csl-entry">Wang, S., “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers”, 2022, 2.</div>
@@ -206,7 +206,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">Zhong, X., Q. Yan, and G. Li, “Long time series nighttime light dataset of China (2000-2020)”, Global Change Research Data Publishing &#38; Repository, 2022.</div>
   <div class="csl-entry">Zotero, “[Zotero download]”, Available at <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> [April 8, 2024].</div>
   <div class="csl-entry">“中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告”，1949。</div>
-  <div class="csl-entry">《康熙字典：巳集上 水部》，北京，中华书局，1962。</div>
+  <div class="csl-entry">《康熙字典》，北京，中华书局，1962。</div>
   <div class="csl-entry">“Public library quarterly”, Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">“IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation”, New York: IEEE, 2020.</div>
   <div class="csl-entry">“《庄子》读不懂？看完这一篇‘导读’就明白了”，2022。</div>

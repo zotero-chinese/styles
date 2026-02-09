@@ -84,73 +84,73 @@ Qian等 （2009b）<br>
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[Z]. UK Data Service, 1980.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[Z]. UK Data Service, 1980.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 1979.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 1979.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. 9. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anonymous. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Anonymous. Kaplan &#38; Sadock’s comprehensive textbook of psychiatry[M]. 9. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Anonymous. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Anonymous. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020a.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Anonymous. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Anonymous. Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021.</div>
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">Anonymous. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020a.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 50.</div>
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Anonymous. Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Anonymous. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. , [no date].</div>
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 50.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Anonymous. Library of Congress[Z].</div>
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Anonymous. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S]. , [no date].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. , [no date].</div>
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Anonymous. Library of Congress[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Bevington D, Brown J R. William Shakespeare[Z](2025-01-01).</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S]. , [no date].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[Z]. bioRxiv, 2015(2015-10-28).</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Bevington D, Brown J R. William Shakespeare[Z](2025-01-01).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020.</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[Z]. bioRxiv, 2015(2015-10-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley. University of California. 1965.</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011.</div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley. University of California. 1965.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio. Wright State University. 2024.</div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">Caplan P. Cataloging internet resources[J]. The Public-Access Computer Systems Review, 1993, 4(2): 61-66.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 2015.</div>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Christou A. Improving knowledge graph understanding with contextual views[D]. Ohio. Wright State University. 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28).</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[A]. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California[C]. New York: ASME, 1971: 17-38.</div>
@@ -210,7 +210,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system[P]. . 2022-10-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations E-Government survey 2024: accelerating digital transformation for sustainable development[R]. [no date].</div>
+    <div class="csl-left-margin">[43]</div><div class="csl-right-inline">United Nations Department of Economic and Social Affairs. United Nations e-government survey 2024: accelerating digital transformation for sustainable development[R]. [no date].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[44]</div><div class="csl-right-inline">U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield. U.S. Department of Commerce National Information Service. 1990.</div>
@@ -423,7 +423,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">佚名. 康熙字典：巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">佚名. 康熙字典[M]. 同文书局影印本. 北京: 中华书局, 1962.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 1984.</div>
