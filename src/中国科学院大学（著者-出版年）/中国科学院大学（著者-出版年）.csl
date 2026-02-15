@@ -463,8 +463,9 @@
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="false"
     disambiguate-add-year-suffix="true">
     <sort>
-      <key macro="author-intext-en"/>
       <key macro="issued-year"/>
+      <key macro="author-intext-en"/>
+
     </sort>
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">
@@ -481,6 +482,7 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" hanging-indent="true">
     <sort>
+      <key variable="language" sort="descending"/>
       <key macro="author"/>
       <key macro="issued-year"/>
     </sort>
