@@ -67,7 +67,7 @@ Qian et al. （2009b）<br>
 （Wong, 2007）<br>
 （Wong, 2008）<br>
 （Edeline &#38; Weinberger, 2002a; Edeline &#38; Weinberger, 2002b; Edeline &#38; Weinberger, 2005; Edeline &#38; Weinberger）<br>
-（Bai, 2002; Chen, 2006; Deng &#38; Feng, 2005）<br>
+（Bai, 2002; Deng &#38; Feng, 2005; Chen, 2006）<br>
 
 
 ### GB/T 7714—2025 示例文献
@@ -120,11 +120,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">全国信息技术标准化技术委员会. 信息技术 先进音视频编码 第16部分：广播电视视频: GB/T 20090.16—2016[S]. 2016.</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会. 信息与文献 资源描述: GB/T 3792—2021[S]. 2021.</div>
   <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法: CN1338652A[P]. 2002-03-06.</div>
-  <div class="csl-entry">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
   <div class="csl-entry">谭其骧. 中国历史地图集: 第2册[CM]. 北京: 地图出版社, 1982: 6.</div>
   <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.</div>
   <div class="csl-entry">童世亨. 京兆直隶图[CM]. 上海: 商务印书馆, 1926.</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.</div>
   <div class="csl-entry">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   <div class="csl-entry">王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.</div>
   <div class="csl-entry">王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
@@ -140,16 +138,10 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]. 2022.</div>
   <div class="csl-entry">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949.</div>
   <div class="csl-entry">佚名. 康熙字典: 巳集上 水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.</div>
-  <div class="csl-entry">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
   <div class="csl-entry">佚名. 周易外传：卷5[M]//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.</div>
   <div class="csl-entry">佚名. 大黄[M]//国家药典委员会. 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社, 2020: 24-25.</div>
-  <div class="csl-entry">Anon. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
-  <div class="csl-entry">Anon. Library of Congress[EB/OL]. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
   <div class="csl-entry">佚名. [《昨日之歌》图书封面][Z]. 2023a.</div>
   <div class="csl-entry">佚名. 西黄丸[EB/OL]. (2023b-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.</div>
-  <div class="csl-entry">Anon. Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.</div>
-  <div class="csl-entry">Anon. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
-  <div class="csl-entry">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社, 2009.</div>
   <div class="csl-entry">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社, 2019.</div>
@@ -170,9 +162,17 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会, 1984.</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">訾冬梅, 高秀静. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社, 2006.</div>
+  <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos[EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
+  <div class="csl-entry">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A[P]. 2022-09-13.</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.</div>
+  <div class="csl-entry">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S].</div>
+  <div class="csl-entry">Anon. Public library quarterly[J]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis, 1979.</div>
+  <div class="csl-entry">Anon. IEEE approved draft standard for information technology--telecommunications and information exchange between systems local and metropolitan area networks--specific requirements Part 11: wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications amendment 3: wake-up radio operation: IEEE P802.11ba/D8.0-2020[S]. New York: IEEE, 2020.</div>
+  <div class="csl-entry">Anon. Library of Congress[EB/OL]. [2020a-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.</div>
+  <div class="csl-entry">Anon. Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.</div>
+  <div class="csl-entry">Anon. Explosive atmospheres — Part 20-2: Material characteristics — Combustible dusts test methods: ISO/IEC 80079-20-2:2016(en)[S].</div>
   <div class="csl-entry">American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science, 1883.</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].</div>
-  <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos[EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   <div class="csl-entry">Babu B V, Nagar A, Deep K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
   <div class="csl-entry">Bevington D, Brown J R. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
   <div class="csl-entry">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv, 2015.</div>
@@ -184,7 +184,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Cribb R. Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.</div>
   <div class="csl-entry">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.</div>
   <div class="csl-entry">Deverell W, Igler D. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.</div>
-  <div class="csl-entry">Fitzwilliam H. [Letter to Bess of Hardwick][A]. 1570.</div>
   <div class="csl-entry">Fourney M E. Advances in holographic photoelasticity[C]//Gottenberg W G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
   <div class="csl-entry">Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398.</div>
   <div class="csl-entry">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
@@ -203,7 +202,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the Geological Survey of Japan, 2006, 57(5/6): 169-176.</div>
   <div class="csl-entry">Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. Insect science, 2025.</div>
   <div class="csl-entry">Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. Journal of electron spectroscopy and related phenomena, 2023, 267: 147370.</div>
-  <div class="csl-entry">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   <div class="csl-entry">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US2002061118A1[P]. 2001-06-28.</div>
   <div class="csl-entry">Torres L, Salisbury F, Yazbeck B, et al. Connecting the library to the curriculum[M]. Singapore: Springer Nature, 2021: 97.</div>
   <div class="csl-entry">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.</div>
@@ -216,6 +214,8 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Yufin S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
   <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">Zotero. [Zotero download][EB/OL]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.</div>
+  <div class="csl-entry">Fitzwilliam H. [Letter to Bess of Hardwick][A]. 1570.</div>
+  <div class="csl-entry">Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -299,7 +299,6 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 上海各路商界总联合会致外交部电[N]. 民国日报, 1925-08-14(4).</div>
   <div class="csl-entry">佚名. 西南中委反对在宁召开五全会[N]. 民国日报, 1933-08-11(第1张第4版).</div>
   <div class="csl-entry">佚名. 党外人士座谈会记录: 李劼人档案[A]. 中共四川省委统战部档案室, 1950.</div>
-  <div class="csl-entry">Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">佚名. 旧唐书: 卷 9 玄宗纪下[M]. 标点本. 北京: 中华书局, 1975.</div>
   <div class="csl-entry">佚名. 方苞集: 卷 6 答程夔州书[M]. 标点本. 上海: 上海古籍出版社, 1983.</div>
   <div class="csl-entry">佚名. 太平御览: 卷 690 服章部七[M]. 影印本. 北京: 中华书局, 1985.</div>
@@ -311,6 +310,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名. 嘉定县志: 卷 12 风俗[M].</div>
   <div class="csl-entry">佚名. 上海县续志: 卷 1 疆域[M].</div>
   <div class="csl-entry">赵景深. 文坛忆旧[M]. 上海: 北新书局, 1948.</div>
+  <div class="csl-entry">Anon. Nixon to Kissinger: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP)[A]. National Archives II, College Park, MD, 1969.</div>
   <div class="csl-entry">Brooks P. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press, 2000.</div>
   <div class="csl-entry">Chamberlain H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   <div class="csl-entry">Polo M. The travels of Marco Polo[M]. Marsden W, trans. Hertfordshire: Cumberland House, 1997.</div>
@@ -346,66 +346,66 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">汪波. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB/OL]. (2004-01-10)[2022-05-03]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>.</div>
   <div class="csl-entry">王保树. 股份有限公司机关构造中的董事和董事会[M]//梁慧星. 民商法论丛: 卷 1. 法律出版社, 1994: 110.</div>
   <div class="csl-entry">王名扬. 美国行政法[M]. 北京大学出版社, 2007.</div>
-  <div class="csl-entry">我妻栄. 新訂担保物権法[M]. 有斐閣, 1971.</div>
-  <div class="csl-entry">我妻栄, 有泉亨. 民法総則物権法[M]. 日本評論社, 1950.</div>
   <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 等. 近代中国宪政历程[M]. 中国政法大学出版社, 2004.</div>
   <div class="csl-entry">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R]. 2013.</div>
-  <div class="csl-entry">佚名. 信玄公旗掛松事件[A]//大審院民事判決録: 卷 25. 1919: 356.</div>
-  <div class="csl-entry">Anon. Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.</div>
-  <div class="csl-entry">Anon. Roe <i>v.</i> Wade[A]//U.S.: Vol. 410. 1973: 113.</div>
-  <div class="csl-entry">Anon. Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d: Vol. 685. 1982: 718.</div>
-  <div class="csl-entry">佚名. 約束手形金[A]//最高裁判所民事判例集: 36卷6号. 1982: 1113.</div>
-  <div class="csl-entry">Anon. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[A]//U.S.: Vol. 467. 1984: 837.</div>
-  <div class="csl-entry">Anon. R. v. Panel on Take-overs and Mergers[A]//QB: Vol. 815. 1987.</div>
-  <div class="csl-entry">佚名. [A]//NStZ-RR. 1999: 185.</div>
-  <div class="csl-entry">佚名. [A]//NJW. 2000: 1560.</div>
-  <div class="csl-entry">Anon. Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.</div>
   <div class="csl-entry">佚名. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报. 2013.</div>
   <div class="csl-entry">佚名. 陆红霞诉南通市发改委政府信息公开案[A]//最高人民法院公报. 2015.</div>
   <div class="csl-entry">佚名. 法国行政法院网站[EB/OL]. [2016a-12-18]. <a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>.</div>
   <div class="csl-entry">佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[A]. 2017.</div>
-  <div class="csl-entry">佚名. ジュリスト[EB/OL]. [2022b-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
   <div class="csl-entry">佚名. 被告人李宁、张磊贪污案一审开庭[EB/OL]. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
   <div class="csl-entry">佚名. 民法总则[A].</div>
   <div class="csl-entry">佚名. 包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号[A].</div>
-  <div class="csl-entry">Anon. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[A].</div>
-  <div class="csl-entry">佚名. StGB[A].</div>
-  <div class="csl-entry">佚名. StPO[A].</div>
-  <div class="csl-entry">佚名. GG[A].</div>
-  <div class="csl-entry">佚名. Strauß-Karikatur, Kunstfreiheit[A]//BVerfGE: 卷 75. 369.</div>
-  <div class="csl-entry">佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A].</div>
-  <div class="csl-entry">佚名. 平成26年版犯罪白書[Z].</div>
   <div class="csl-entry">佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
   <div class="csl-entry">应松年, 马怀德. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006.</div>
   <div class="csl-entry">[英]劳特派特. 奥本海国际法: 上卷第一分册[M]. 王铁崖, 陈体强, 译. 8 版. 商务印书馆, 1971.</div>
-  <div class="csl-entry">於保不二雄. 付加物及び従物と抵当権[J]. 民商法雑誌, 1954, 29(5): 1.</div>
   <div class="csl-entry">张新宝. 侵权责任法[M]. 4 版. 中国人民大学出版社, 2016.</div>
   <div class="csl-entry">赵耀彤. 一名基层法官眼里好律师的样子[EB/OL]. (2018-12-01)[2022-05-03]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>.</div>
   <div class="csl-entry">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[A]. 2014.</div>
   <div class="csl-entry">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释: 法释〔2018〕1号[A]. 2018.</div>
   <div class="csl-entry">最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知: 法发〔1993〕36号[A]. 1993.</div>
+  <div class="csl-entry">我妻栄. 新訂担保物権法[M]. 有斐閣, 1971.</div>
+  <div class="csl-entry">我妻栄, 有泉亨. 民法総則物権法[M]. 日本評論社, 1950.</div>
+  <div class="csl-entry">佚名. 信玄公旗掛松事件[A]//大審院民事判決録: 卷 25. 1919: 356.</div>
+  <div class="csl-entry">佚名. 約束手形金[A]//最高裁判所民事判例集: 36卷6号. 1982: 1113.</div>
+  <div class="csl-entry">佚名. ジュリスト[EB/OL]. [2022f-09-01]. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>.</div>
+  <div class="csl-entry">佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[A].</div>
+  <div class="csl-entry">佚名. 平成26年版犯罪白書[Z].</div>
+  <div class="csl-entry">於保不二雄. 付加物及び従物と抵当権[J]. 民商法雑誌, 1954, 29(5): 1.</div>
   <div class="csl-entry">佐藤英明. 一時所得の要件に関する覚書[M]//金子宏, 中里実, J.マーク・ラムザイヤー. 租税法と市場. 有斐閣, 2014: 220.</div>
-  <div class="csl-entry">Alford W. To steal a book is an elegant offense: Intellectual property law in Chinese civilization[M]. Stanford University Press, 1995.</div>
   <div class="csl-entry">Badiou-Monferran C. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle[J]. La Licorne, 1997(43): 75-94.</div>
-  <div class="csl-entry">Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
-  <div class="csl-entry">Brandeis L D. What publicity can do[J]. Harper’s Weekly, 1913: 10.</div>
-  <div class="csl-entry">Canaris C W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
   <div class="csl-entry">Chevallier M. L’État de droit[M]. 4 版. Paris: Montchrestien, 2003.</div>
-  <div class="csl-entry">Dreier R, Paulson S. Rechtsphilosophie Studienausgabe[M]. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
-  <div class="csl-entry">Fischer T. Absurdes Spektakel um den Tod[N]. Die Zeit, 2015-09-29.</div>
-  <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans. MIT Press, 1996.</div>
-  <div class="csl-entry">Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
   <div class="csl-entry">Joyeux-Prunel B. L’histoire de l’art et le quantitatif[EB/OL]. [2010-03-17]. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>.</div>
-  <div class="csl-entry">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Baumann J. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.</div>
-  <div class="csl-entry">McDonell S. When China began streaming trials online[EB/OL]. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
-  <div class="csl-entry">Meidenbauer M. Wissenschaftliches Publizieren[EB/OL]. [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
   <div class="csl-entry">Poisson M. Le droit de la mer[J]. RGDIP, 2015a: 15-47.</div>
   <div class="csl-entry">Poisson M. Le droit de la mer[M]//Lapieuvre R. Le droit des Océans. Éditions de la mer. 2015b: 12-48.</div>
   <div class="csl-entry">Poisson M. Le droit de la mer en Méditerranée[R]. Congrès de Marseille, 2016a: 228-229.</div>
   <div class="csl-entry">Poisson M. Le droit de la mer en Méditerranée: 1202[R]. 2016b.</div>
   <div class="csl-entry">Poisson M. Le droit de la mer appliqué à la Méditerranée[D]. l’Université de Marseille, 2016c.</div>
+  <div class="csl-entry">Anon. Department of Transportation Act: 89-670[A]//Stat.: Vol. 80. 1966: 931, 944-947.</div>
+  <div class="csl-entry">Anon. Roe <i>v.</i> Wade[A]//U.S.: Vol. 410. 1973: 113.</div>
+  <div class="csl-entry">Anon. Natural Resources Defense Council <i>v.</i> Gorsuch[A]//F.2d: Vol. 685. 1982: 718.</div>
+  <div class="csl-entry">Anon. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[A]//U.S.: Vol. 467. 1984: 837.</div>
+  <div class="csl-entry">Anon. R. v. Panel on Take-overs and Mergers[A]//QB: Vol. 815. 1987.</div>
+  <div class="csl-entry">Anon. Administrative Procedure Act § 6[A]//U.S.C.: Vol. 5. 2006.</div>
+  <div class="csl-entry">Anon. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[A].</div>
+  <div class="csl-entry">Alford W. To steal a book is an elegant offense: Intellectual property law in Chinese civilization[M]. Stanford University Press, 1995.</div>
+  <div class="csl-entry">Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
+  <div class="csl-entry">Brandeis L D. What publicity can do[J]. Harper’s Weekly, 1913: 10.</div>
+  <div class="csl-entry">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans. MIT Press, 1996.</div>
+  <div class="csl-entry">Horsley J. Rule of law in China: incremental progress[M]//Bergsten C F, Gill B, Lardy N R, et al. China: The balance sheet. Public Affairs Press, 2006.</div>
+  <div class="csl-entry">McDonell S. When China began streaming trials online[EB/OL]. (2016-09-30)[2022-07-26]. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>.</div>
   <div class="csl-entry">Reich C A. The new property[J]. Yale Law Journal, 1964, 73(5): 733-787.</div>
   <div class="csl-entry">Rosenthal A. White House tutors Kremlin in how a presidency works[N]. New York Times, 1990-06-15(A1).</div>
+  <div class="csl-entry">佚名. [A]//NStZ-RR. 1999: 185.</div>
+  <div class="csl-entry">佚名. [A]//NJW. 2000: 1560.</div>
+  <div class="csl-entry">佚名. StGB[A].</div>
+  <div class="csl-entry">佚名. StPO[A].</div>
+  <div class="csl-entry">佚名. GG[A].</div>
+  <div class="csl-entry">佚名. Strauß-Karikatur, Kunstfreiheit[A]//BVerfGE: 卷 75. 369.</div>
+  <div class="csl-entry">Canaris C W. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen[M]. 1990.</div>
+  <div class="csl-entry">Dreier R, Paulson S. Rechtsphilosophie Studienausgabe[M]. 2 版. Heidelberg: UTB Uni-Taschenbücher Verlag, 2003.</div>
+  <div class="csl-entry">Fischer T. Absurdes Spektakel um den Tod[N]. Die Zeit, 2015-09-29.</div>
+  <div class="csl-entry">Kaufmann A. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht[M]//Baumann J. Das Abtreibungsverbot des § 218 StGB. 2 版. 1972.</div>
+  <div class="csl-entry">Meidenbauer M. Wissenschaftliches Publizieren[EB/OL]. [2017-10-10]. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>.</div>
   <div class="csl-entry">Roxin C. Strafrecht Allgemeiner Teil: 卷 1[M]. 4 版. C. H. Beck, 2006.</div>
   <div class="csl-entry">Schwab M. [M]//Münchener Kommentar BGB: 卷 5. 6 版. 2013.</div>
   <div class="csl-entry">Vogel B. Rechtsgüterschutz und Normgeltung[J]. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3): 629-649.</div>
