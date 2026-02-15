@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0"
+  name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never"
+  initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
+  default-locale="zh-CN">
   <info>
     <title>中国科学院大学（著者-出版年）</title>
     <id>https://zotero-chinese.com/styles/中国科学院大学（著者-出版年）</id>
     <link href="https://zotero-chinese.com/styles/中国科学院大学（著者-出版年）" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无URL、DOI，全角括号）" rel="template"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无URL、DOI，全角括号）"
+      rel="template"/>
     <link href="http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -14,13 +18,15 @@
     <category field="generic-base"/>
     <summary>《中国科学院大学研究生学位论文撰写规范指导意见》（2022 年 3 月 7 日修订）著者-出版年制</summary>
     <updated>2025-04-19T23:05:40+08:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a
+      Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
       <term name="and others"> 等</term>
+      <term name="and"> 和 </term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -75,7 +81,7 @@
   <!-- 正文中的引用，对中国著者标注第一著者的姓名 -->
   <macro name="author-intext-zh">
     <names variable="author">
-      <name and="text"/>
+      <name and="symbol"/>
       <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
       <et-al term="and others"/>
       <substitute>
@@ -100,7 +106,8 @@
       <text variable="title"/>
       <group delimiter="&#8195;">
         <choose>
-          <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+          <if variable="container-title"
+            type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
             <text macro="volume"/>
             <text variable="volume-title"/>
           </if>
@@ -145,7 +152,9 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+      <if
+        type="article bill collection hearing legal_case legislation personal_communication regulation treaty"
+        match="any">
         <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
           article 为预印本，符合“科技档案”
         -->
@@ -308,7 +317,8 @@
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis"
+        variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
@@ -426,7 +436,8 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
+          variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
@@ -449,7 +460,8 @@
       <text macro="access"/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="false"
+    disambiguate-add-year-suffix="true">
     <sort>
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>
