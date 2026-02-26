@@ -8,13 +8,16 @@
   <info>
     <title>地球科学</title>
     <id>http://www.zotero.org/styles/地球科学</id>
+    <link href="http://www.zotero.org/styles/地球科学" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="http://www.earth-science.net/index.htm" rel="documentation"/>
 
     <author>
       <name>Renxiaokai1999</name>
     </author>
     <category citation-format="author-date"/>
     <category field="geology"/>
-    <summary>Author-Year bilingual via dual layouts (CSL-M); zh 等 / en et al.; doi: 10.xxx.</summary>
+    <summary>作者-年份制，中英双语；格式要求更新于 2026-02-25。</summary>
     <updated>2026-02-25T00:00:00+00:00</updated>
   </info>
 
@@ -30,6 +33,12 @@
     <terms>
       <term name="et-al">et al.</term>
       <term name="and">and</term>
+    </terms>
+  </locale>
+
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
 

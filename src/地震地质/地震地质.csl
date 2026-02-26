@@ -2,11 +2,12 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>地震地质中文期刊、学位论文、专著引用格式1</title>
-    <id>http://www.zotero.org/styles/地震地质中文期刊、学位论文、专著引用格式1</id>
-    <link href="http://www.zotero.org/styles/地震地质中文期刊、学位论文、专著引用格式1" rel="self"/>
+    <title>地震地质</title>
+    <id>http://www.zotero.org/styles/地震地质</id>
+    <link href="http://www.zotero.org/styles/地震地质" rel="self"/>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://www.dzdz.ac.cn/CN/0253-4967/home.shtml" rel="documentation"/>
     <author>
       <name>任晓凯</name>
       <email>1178965673@qq.com</email>
