@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>新疆农业大学食品科学与药学学院</title>
-    <id>https://zotero-chinese.com/styles/新疆农业大学食品科学与药学学院</id>
-    <link href="https://zotero-chinese.com/styles/新疆农业大学食品科学与药学学院" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/新疆农业大学食品科学与药学学院" rel="template"/>
+    <title>新疆农业大学 - 食品科学与药学学院</title>
+    <id>https://zotero-chinese.com/styles/新疆农业大学-食品科学与药学学院</id>
+    <link href="https://zotero-chinese.com/styles/新疆农业大学-食品科学与药学学院" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/新疆农业大学-食品科学与药学学院" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点；3. 非会议论文集借用chapter；4. 取消作者全部大写; 5. 仅网络首发及post等电子文献显示UR及OL。</summary>
-    <updated>2025-09-14T15:29:07+08:00</updated>
+    <updated>2026-02-26T22:10:52+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
