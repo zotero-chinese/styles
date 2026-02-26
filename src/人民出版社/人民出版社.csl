@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" sort-separator=", " initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
-    <title>人民出版社学术著作引证注释格式（修正版）</title>
-    <id>https://zotero-chinese.com/styles/人民出版社学术著作引证注释格式（修正版）</id>
-    <link href="https://zotero-chinese.com/styles/人民出版社学术著作引证注释格式（修正版）" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/人民出版社" rel="template"/>
+    <title>人民出版社</title>
+    <id>https://zotero-chinese.com/styles/人民出版社</id>
+    <link href="https://zotero-chinese.com/styles/人民出版社" rel="self"/>
     <link href="https://zotero-chinese.com/styles/中国社会科学" rel="template"/>
-    <link href="http://www.pph166.com/" rel="documentation"/>
+    <link href="https://sfy.swufe.edu.cn/__local/2/1A/1B/80979C6EC7C476EF63A70BB99DD_8A9C5D1D_EFE09.pdf" rel="documentation"/>
     <author>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </author>
-    <contributor>
       <name>Hongzuan Lyu</name>
       <email>hongzuanlv@gmail.com</email>
-    </contributor>
+    </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <summary>最后一名英文作者用连接、英文的主编、翻译标签使用括号、引注有页码，参考文献没有页码，标注中文翻译译著的原作者国籍，析出文献前加入in</summary>
-    <updated>2025-09-08T15:30:31+08:00</updated>
+    <summary>《人民出版社学术著作出版规范》（2012年起实行）</summary>
+    <updated>2026-02-26T22:13:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
