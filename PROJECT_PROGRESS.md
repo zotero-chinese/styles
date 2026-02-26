@@ -1,7 +1,7 @@
 # PROJECT PROGRESS
 
 ## 2026-02-26
-- 完成事项：补充两本期刊官网链接至 `<info>` 的 `rel="documentation"`；保留前序元数据调整。
-- 修改文件：`styles/src/地球科学/地球科学.csl`、`styles/src/地震地质/地震地质.csl`、`styles/PROJECT_PROGRESS.md`。
-- 下一步：提交并 push 更新 PR；如维护者继续反馈再迭代。
+- 完成事项：确认重写方案 A，并生成设计文档。
+- 修改文件：`styles/docs/plans/2026-02-26-geoscience-csl-rewrite-design.md`、`styles/PROJECT_PROGRESS.md`。
+- 下一步：基于设计输出两份新 CSL 文件代码并供本地验证。
 - 风险/阻塞：无。
