@@ -1,0 +1,12 @@
+[
+  {
+    "citationItems": [
+      {"id": "dz-zh-journal"},
+      {"id": "dz-en-journal"},
+      {"id": "dz-book"},
+      {"id": "dz-chapter"},
+      {"id": "dz-thesis"},
+      {"id": "dz-translation"}
+    ]
+  }
+]

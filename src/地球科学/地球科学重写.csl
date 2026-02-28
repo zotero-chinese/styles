@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl"
+  class="in-text"
+  version="1.0"
+  default-locale="zh-CN">
+
+  <info>
+    <title>地球科学</title>
+    <id>http://www.zotero.org/styles/地球科学-重写</id>
+    <link href="http://www.zotero.org/styles/地球科学-重写" rel="self"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-author-date" rel="template"/>
+    <link href="http://www.earth-science.net/index.htm" rel="documentation"/>
+    <author>
+      <name>Renxiaokai1999</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <summary>Rewrite draft; updated 2026-02-26.</summary>
+    <updated>2026-02-26T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+
+  <locale xml:lang="zh-CN">
+    <terms>
+      <term name="et-al">等</term>
+      <term name="and">和</term>
+    </terms>
+  </locale>
+
+  <locale xml:lang="en">
+    <terms>
+      <term name="et-al">et al.</term>
+      <term name="and">and</term>
+    </terms>
+  </locale>
+
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
+
+  <macro name="issued-year">
+    <date variable="issued" form="numeric" date-parts="year"/>
+  </macro>
+
+  <macro name="author-intext">
+    <names variable="original-author" et-al-min="3" et-al-use-first="1">
+      <name and="text" delimiter=""/>
+      <et-al/>
+      <substitute>
+        <names variable="author" et-al-min="3" et-al-use-first="1">
+          <name form="short" and="text" delimiter=" " initialize-with=". "/>
+          <et-al/>
+        </names>
+      </substitute>
+    </names>
+  </macro>
+
+  <macro name="author-bib-zh">
+    <names variable="original-author" et-al-min="4" et-al-use-first="3">
+      <name delimiter="，"/>
+      <et-al/>
+      <substitute>
+        <names variable="author"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <macro name="author-bib-en">
+    <names variable="author" et-al-min="4" et-al-use-first="3">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+      <et-al/>
+    </names>
+  </macro>
+
+  <macro name="title-zh">
+    <text variable="title"/>
+  </macro>
+
+  <macro name="title-en">
+    <text variable="title-short" text-case="title"/>
+  </macro>
+
+  <macro name="container-zh">
+    <text variable="container-title"/>
+  </macro>
+
+  <macro name="container-en">
+    <text variable="container-title-short" font-style="italic"/>
+  </macro>
+
+  <macro name="entry-zh">
+    <group delimiter=". ">
+      <text macro="author-bib-zh"/>
+      <text macro="issued-year"/>
+      <text macro="title-zh"/>
+      <text macro="container-zh"/>
+    </group>
+  </macro>
+
+  <macro name="entry-en">
+    <group delimiter=". ">
+      <text macro="author-bib-en"/>
+      <text macro="issued-year"/>
+      <text macro="title-en"/>
+      <text macro="container-en"/>
+      <text variable="DOI" prefix="doi: "/>
+    </group>
+  </macro>
+
+  <citation>
+    <sort>
+      <key macro="author-intext"/>
+      <key macro="issued-year"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-intext"/>
+        <text macro="issued-year"/>
+      </group>
+    </layout>
+  </citation>
+
+  <bibliography>
+    <sort>
+      <key macro="author-bib-en"/>
+      <key macro="issued-year"/>
+    </sort>
+    <layout>
+      <choose>
+        <if variable="original-author" match="any">
+          <group delimiter="&#10;">
+            <text macro="entry-zh"/>
+            <text macro="entry-en"/>
+          </group>
+        </if>
+        <else>
+          <text macro="entry-en"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

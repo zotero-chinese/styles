@@ -1,0 +1,66 @@
+[
+  {
+    "id": "zh-journal-1",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "浙江长兴煤山二叠-三叠系界线层牙形石序列及其全球对比",
+    "title-short": "Conodont Sequence and Its Global Correlation of the Permian-Triassic Boundary in Meishan Section",
+    "container-title": "地球科学--中国地质大学学报",
+    "container-title-short": "Earth Science-Journal of China University of Geosciences",
+    "author": [
+      {"family": "Zhang", "given": "K.X."},
+      {"family": "Lai", "given": "X.L."},
+      {"family": "Ding", "given": "M.H."},
+      {"family": "et", "given": "al."}
+    ],
+    "original-author": [
+      {"literal": "张克信"},
+      {"literal": "赖旭龙"},
+      {"literal": "丁梅华"},
+      {"literal": "赵某"}
+    ],
+    "issued": {"date-parts": [[1995]]},
+    "volume": "20",
+    "issue": "6",
+    "page": "669-676",
+    "DOI": "10.0000/example.doi"
+  },
+  {
+    "id": "en-journal-1",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "Structural and Mineralogical Types of Molybdenum-Tungsten Deposits of Central Kazakhstan",
+    "title-short": "Structural and Mineralogical Types of Molybdenum-Tungsten Deposits of Central Kazakhstan",
+    "container-title": "International Geology Review",
+    "container-title-short": "International Geology Review",
+    "author": [
+      {"family": "Burmistrov", "given": "A. A."},
+      {"family": "Ivanov", "given": "V. N."},
+      {"family": "Frolov", "given": "A. A."}
+    ],
+    "issued": {"date-parts": [[1990]]},
+    "volume": "32",
+    "issue": "1",
+    "page": "92-99",
+    "DOI": "10.1080/00206819009465758"
+  },
+  {
+    "id": "zh-book-1",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "滇东黔西陆相二叠纪-三叠纪界线地层研究",
+    "title-short": "Study on Terrestrial Permian-Triassic Boundary in Eastern Yunnan and Western Guizhou",
+    "publisher": "中国地质大学出版社",
+    "publisher-place": "武汉",
+    "author": [
+      {"family": "Wang", "given": "S.Y."},
+      {"family": "Yin", "given": "H.F."}
+    ],
+    "original-author": [
+      {"literal": "王尚彦"},
+      {"literal": "殷鸿福"}
+    ],
+    "issued": {"date-parts": [[2001]]},
+    "page": "88"
+  }
+]

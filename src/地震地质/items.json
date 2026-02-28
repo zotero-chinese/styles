@@ -1,0 +1,125 @@
+[
+  {
+    "id": "dz-zh-journal",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "文章名",
+    "title-short": "Article Title",
+    "container-title": "地震地质",
+    "container-title-short": "Seismology and Geology",
+    "author": [
+      {"family": "Zhang", "given": "Tian-yi"},
+      {"family": "Li", "given": "Zhen-feng"},
+      {"family": "Zhou", "given": "Xiang-ming"},
+      {"family": "et", "given": "al."}
+    ],
+    "original-author": [
+      {"literal": "张天意"},
+      {"literal": "李振峰"},
+      {"literal": "周祥明"},
+      {"literal": "赵某"}
+    ],
+    "issued": {"date-parts": [[1990]]},
+    "volume": "10",
+    "issue": "2",
+    "page": "100-110",
+    "DOI": "10.0000/dz.doi"
+  },
+  {
+    "id": "dz-en-journal",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "Article Title",
+    "title-short": "Article Title",
+    "container-title": "Seismology and Geology",
+    "container-title-short": "Seismology and Geology",
+    "author": [
+      {"family": "Burgmann", "given": "R. M."},
+      {"family": "Carter", "given": "N. L."},
+      {"family": "Daines", "given": "M. J."}
+    ],
+    "issued": {"date-parts": [[2000]]},
+    "volume": "20",
+    "issue": "3",
+    "page": "200-210",
+    "DOI": "10.0000/dz.en.doi"
+  },
+  {
+    "id": "dz-book",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "书名",
+    "title-short": "Book Title",
+    "publisher": "出版者",
+    "publisher-place": "出版地",
+    "author": [
+      {"family": "Wang", "given": "S.Y."}
+    ],
+    "original-author": [
+      {"literal": "王尚彦"}
+    ],
+    "issued": {"date-parts": [[2001]]},
+    "page": "88"
+  },
+  {
+    "id": "dz-chapter",
+    "type": "chapter",
+    "language": "zh-CN",
+    "title": "文章名称",
+    "title-short": "Chapter Title",
+    "container-title": "文集名",
+    "container-title-short": "Proceedings Title",
+    "publisher": "出版者",
+    "publisher-place": "出版地",
+    "author": [
+      {"family": "Searle", "given": "M.P."}
+    ],
+    "original-author": [
+      {"literal": "斯尔"}
+    ],
+    "editor": [
+      {"family": "Yin", "given": "A."},
+      {"family": "Harrison", "given": "T.M."}
+    ],
+    "issued": {"date-parts": [[1996]]},
+    "page": "37-110"
+  },
+  {
+    "id": "dz-thesis",
+    "type": "thesis",
+    "language": "zh-CN",
+    "title": "题名",
+    "title-short": "Thesis Title",
+    "publisher": "学位授予单位",
+    "publisher-place": "学位授予地",
+    "author": [
+      {"family": "Zhang", "given": "Z.S."}
+    ],
+    "original-author": [
+      {"literal": "张某"}
+    ],
+    "issued": {"date-parts": [[2001]]},
+    "page": "120-130"
+  },
+  {
+    "id": "dz-translation",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "中译书名",
+    "title-short": "Translated Book",
+    "publisher": "石油工业出版社",
+    "publisher-place": "北京",
+    "author": [
+      {"family": "Hilich", "given": "D.W."}
+    ],
+    "original-author": [
+      {"literal": "希尔契"}
+    ],
+    "translator": [
+      {"family": "Gong", "given": "W.H."},
+      {"family": "Zhang", "given": "Z.W."}
+    ],
+    "issued": {"date-parts": [[1989]]},
+    "page": "1-10"
+  }
+]

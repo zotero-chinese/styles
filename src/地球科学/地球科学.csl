@@ -3,22 +3,63 @@
   =========================================================
   期刊：《地球科学》(Earth Science - China University of Geosciences)
   引用制度：著者-出版年制
+  版本：3.0  日期：2026-02-28
   =========================================================
-  核心技术：CSL-M 双 layout
-  参考文献排列方式（依据期刊实际格式）：
-    1. 所有文献统一按作者姓名字母排序（中文按拼音）
-    2. 英文文献 + 中文文献英文翻译版混合排列
-    3. 中文原文附在对应英文对照行下方
-    4. 使用者在最终文档中需要手动：
-       a) 将中文原文行移到文末"附 中文参考文献"区域
-       b) 替换英文对照行中的占位符（author name / title / journal）
-       c) 添加"附 中文参考文献"小标题
-  中文条目输出格式（每条两行）：
-    第一行（英文对照，参与排序）：
-      author name, 年. title. journal, 卷(期):页码 (in Chinese with English abstract).
-    第二行（中文原文）：
-      张克信，赖旭龙，等，1995. 题名. 地球科学，20(6):669-676.
-  版本：3.0  日期：2026-02-27
+
+  【使用前必读】
+
+  一、Zotero 条目 Language 字段设置
+    - 英文文献：Language 字段填 "en"
+    - 中文文献：Language 字段填 "zh" 或留空
+    - 该字段决定引用格式（英文用半角括号、et al.；中文用全角括号、等）
+
+  二、中文文献的英文对照行
+    每条中文文献会在参考文献表中自动追加一行英文对照信息。
+    需要在 Zotero 条目的 Extra（额外）字段中，在最顶部逐行填写：
+
+    【期刊论文示例】
+      Original Author: Zhang,|| San
+      Original Author: Li,|| Ming Wei
+      Original Title: Study on Seismic Activity of the XX Fault
+      Original Container Title: Earth Science
+
+    【专著/学位论文示例】
+      Original Author: Zhang,|| San
+      Original Title: Book Title in English
+      Original Publisher: China University of Geosciences Press
+      Original Publisher Place: Wuhan
+
+    填写规则：
+      - 每个字段名用英文空格分词并首字母大写（如 Original Author）
+      - 多位作者：每人各占一行，都写 "Original Author:"
+      - 姓后加英文逗号，再用 || 分隔名（如 Zhang,|| San）
+        这样输出才会是 Zhang, S. 而非 Zhang S.
+      - 年份、卷期、页码、DOI 等会自动从条目原有字段提取，无需重复填写
+
+  三、中国人名拼音的处理
+    问题：中文拼音 "Guangwei" 在 Zotero 中会被识别为
+          姓: Zhang，名: Guangwei → 输出为 Zhang, G.
+    期刊要求：Zhang, G.W.
+
+    解决方法：在 Zotero 条目的作者 名（First Name）字段中，
+    将拼音各音节首字母大写并用空格分开：
+      ✅ 名: Guang Wei   → 输出 Zhang, G.W.
+      ✅ 名: G W         → 输出 Zhang, G.W.
+      ✅ 名: G. W.       → 输出 Zhang, G.W.
+      ❌ 名: Guangwei    → 输出 Zhang, G.
+      ❌ 名: Guang wei   → 输出 Zhang, G. wei.
+
+  四、与《地震地质》CSL 的差异
+    - 本样式无文献类型标识符 [J][M] 等
+    - 英文期刊名使用斜体
+    - 英文对照行末尾标注 "(in Chinese with English abstract)"
+
+  五、CSL-M 双 layout 技术说明
+    - citation 和 bibliography 各有两个 layout：
+      1. layout locale="en" → 英文条目专用（自动使用 et al.）
+      2. layout（无 locale）→ 中文条目（自动使用"等"）
+    - 英文对照行使用 display="block" 另起一段
+
   =========================================================
 -->
 <style xmlns="http://purl.org/net/xbiblio/csl"
@@ -26,6 +67,7 @@
        version="1.0"
        demote-non-dropping-particle="sort-only"
        default-locale="zh-CN">
+
   <info>
     <title>地球科学 (Earth Science - China University of Geosciences)</title>
     <title-short>地球科学</title-short>
@@ -37,11 +79,11 @@
     <category citation-format="author-date"/>
     <category field="geology"/>
     <summary>
-      《地球科学》著者-出版年制 v3.0。CSL-M 双 layout。
-      中文条目先输出英文对照行（参与排序），再输出中文原文。
-      使用者需在最终文档中将中文原文移到"附 中文参考文献"区域。
+      《地球科学》(中国地质大学学报)期刊著者-出版年制引用格式 v3.0。
+      使用 CSL-M 双 layout 实现中英文自动切换。
+      中文条目通过 original-* 变量自动追加英文对照行（display="block" 另起一段）。
     </summary>
-    <updated>2026-02-27T15:00:00+08:00</updated>
+    <updated>2026-02-28T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">
       This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License
     </rights>
@@ -144,6 +186,18 @@
     </names>
   </macro>
 
+  <!-- 英文对照行专用：读取 original-author 变量 -->
+  <macro name="author-bib-en-mirror">
+    <names variable="original-author">
+      <name name-as-sort-order="all"
+            sort-separator=", "
+            initialize-with="."
+            delimiter=", "
+            delimiter-precedes-last="always"
+            and="text"/>
+    </names>
+  </macro>
+
   <!-- 标题 -->
   <macro name="title">
     <text variable="title"/>
@@ -152,7 +206,7 @@
   <!-- 卷(期):页码 -->
   <macro name="locators-journal">
     <group delimiter=":">
-      <group>
+      <group delimiter="">
         <text variable="volume"/>
         <text variable="issue" prefix="(" suffix=")"/>
       </group>
@@ -160,12 +214,12 @@
     </group>
   </macro>
 
-  <!-- 页码（专著等） -->
+  <!-- 页码（专著/报告等） -->
   <macro name="locators-booklike">
     <text variable="page"/>
   </macro>
 
-  <!-- 出版社（英文格式） -->
+  <!-- 出版社信息（英文格式） -->
   <macro name="publisher-en">
     <group delimiter=", ">
       <group delimiter=": ">
@@ -176,12 +230,23 @@
     </group>
   </macro>
 
-  <!-- 出版社（中文格式） -->
+  <!-- 出版社信息（中文格式） -->
   <macro name="publisher-zh">
     <group delimiter="，">
       <group delimiter="：">
         <text variable="publisher-place"/>
         <text variable="publisher"/>
+      </group>
+      <text macro="locators-booklike"/>
+    </group>
+  </macro>
+
+  <!-- 出版社信息（对照行专用，读取 original-* 变量） -->
+  <macro name="publisher-en-mirror">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="original-publisher-place"/>
+        <text variable="original-publisher"/>
       </group>
       <text macro="locators-booklike"/>
     </group>
@@ -199,7 +264,7 @@
     </choose>
   </macro>
 
-  <!-- 编辑（英文） -->
+  <!-- 编辑（英文格式） -->
   <macro name="editor-bib-en">
     <names variable="editor">
       <name name-as-sort-order="all"
@@ -212,11 +277,19 @@
     </names>
   </macro>
 
-  <!-- 编辑（中文） -->
+  <!-- 编辑（中文格式） -->
   <macro name="editor-bib-zh">
     <names variable="editor">
       <name delimiter="，" initialize-with="."/>
       <et-al/>
+      <label form="short" prefix=" "/>
+    </names>
+  </macro>
+
+  <!-- 译者 -->
+  <macro name="translator-bib">
+    <names variable="translator">
+      <name delimiter="，" initialize-with="."/>
       <label form="short" prefix=" "/>
     </names>
   </macro>
@@ -236,25 +309,38 @@
             <text macro="locators-journal"/>
           </group>
         </if>
-        <else-if type="book"><text macro="publisher-en"/></else-if>
-        <else-if type="thesis">
-          <group delimiter=". "><text variable="genre"/><text macro="publisher-en"/></group>
+        <else-if type="book" match="any">
+          <text macro="publisher-en"/>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group delimiter=". ">
+            <text variable="genre"/>
+            <text macro="publisher-en"/>
+          </group>
         </else-if>
         <else-if type="chapter paper-conference" match="any">
           <group delimiter=". ">
-            <group><text term="in" text-case="capitalize-first"/><text macro="editor-bib-en"/></group>
+            <group>
+              <text term="in" text-case="capitalize-first"/>
+              <text macro="editor-bib-en"/>
+            </group>
             <text variable="container-title" font-style="italic"/>
             <text macro="publisher-en"/>
           </group>
         </else-if>
-        <else-if type="report">
+        <else-if type="report" match="any">
           <group delimiter=". ">
             <text variable="number" prefix="Report "/>
-            <group><text term="in" text-case="capitalize-first"/><text variable="container-title"/></group>
+            <group>
+              <text term="in" text-case="capitalize-first"/>
+              <text variable="container-title"/>
+            </group>
             <text macro="publisher-en"/>
           </group>
         </else-if>
-        <else-if type="webpage post post-weblog" match="any"><text variable="URL"/></else-if>
+        <else-if type="webpage post post-weblog" match="any">
+          <text variable="URL"/>
+        </else-if>
         <else>
           <group delimiter=", ">
             <text variable="container-title" font-style="italic"/>
@@ -281,25 +367,38 @@
             <text macro="locators-journal"/>
           </group>
         </if>
-        <else-if type="book"><text macro="publisher-zh"/></else-if>
-        <else-if type="thesis">
-          <group delimiter=". "><text variable="genre"/><text macro="publisher-zh"/></group>
+        <else-if type="book" match="any">
+          <text macro="publisher-zh"/>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group delimiter=". ">
+            <text variable="genre"/>
+            <text macro="publisher-zh"/>
+          </group>
         </else-if>
         <else-if type="chapter paper-conference" match="any">
           <group delimiter=". ">
-            <group><text term="in"/><text macro="editor-bib-zh"/></group>
+            <group>
+              <text term="in"/>
+              <text macro="editor-bib-zh"/>
+            </group>
             <text variable="container-title"/>
             <text macro="publisher-zh"/>
           </group>
         </else-if>
-        <else-if type="report">
+        <else-if type="report" match="any">
           <group delimiter=". ">
             <text variable="number" prefix="Report "/>
-            <group><text term="in"/><text variable="container-title"/></group>
+            <group>
+              <text term="in"/>
+              <text variable="container-title"/>
+            </group>
             <text macro="publisher-zh"/>
           </group>
         </else-if>
-        <else-if type="webpage post post-weblog" match="any"><text variable="URL"/></else-if>
+        <else-if type="webpage post post-weblog" match="any">
+          <text variable="URL"/>
+        </else-if>
         <else>
           <group delimiter="，">
             <text variable="container-title"/>
@@ -311,43 +410,65 @@
     </group>
   </macro>
 
-  <!-- ===== 英文对照行（占位符，放在中文条目前面参与排序） =====
-       "author name"、"title"、"journal" 为占位符。
-       此行作为主行输出在前，参与统一字母排序。 -->
+  <!-- ===== 英文对照行（读取 original-* 变量，无类型标识，期刊名斜体） =====
+       从 Zotero 条目 Extra 字段读取：
+       Original Author, Original Title,
+       Original Container Title,
+       Original Publisher, Original Publisher Place -->
   <macro name="entry-en-mirror">
     <group delimiter=". ">
       <group delimiter=", ">
-        <text value="author name"/>
+        <text macro="author-bib-en-mirror"/>
         <text macro="year-date"/>
       </group>
-      <text value="title"/>
+      <text variable="original-title"/>
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
           <group delimiter=", ">
-            <text value="journal" font-style="italic"/>
+            <choose>
+              <if variable="original-container-title-short">
+                <text variable="original-container-title-short" font-style="italic"/>
+              </if>
+              <else>
+                <text variable="original-container-title" font-style="italic"/>
+              </else>
+            </choose>
             <text macro="locators-journal"/>
           </group>
         </if>
-        <else-if type="book"><text macro="publisher-en"/></else-if>
-        <else-if type="thesis">
-          <group delimiter=". "><text variable="genre"/><text macro="publisher-en"/></group>
+        <else-if type="book" match="any">
+          <text macro="publisher-en-mirror"/>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <group delimiter=". ">
+            <text variable="genre"/>
+            <text macro="publisher-en-mirror"/>
+          </group>
         </else-if>
         <else-if type="chapter paper-conference" match="any">
           <group delimiter=". ">
-            <text variable="container-title" font-style="italic"/>
-            <text macro="publisher-en"/>
+            <text macro="editor-bib-en"/>
+            <text variable="original-container-title" font-style="italic"/>
+            <text macro="publisher-en-mirror"/>
           </group>
         </else-if>
-        <else-if type="report">
+        <else-if type="report" match="any">
           <group delimiter=". ">
             <text variable="number" prefix="Report "/>
-            <text variable="container-title"/>
-            <text macro="publisher-en"/>
+            <text variable="original-container-title"/>
+            <text macro="publisher-en-mirror"/>
           </group>
         </else-if>
         <else>
           <group delimiter=", ">
-            <text value="journal" font-style="italic"/>
+            <choose>
+              <if variable="original-container-title-short">
+                <text variable="original-container-title-short" font-style="italic"/>
+              </if>
+              <else>
+                <text variable="original-container-title" font-style="italic"/>
+              </else>
+            </choose>
             <text macro="locators-journal"/>
           </group>
         </else>
@@ -357,21 +478,25 @@
   </macro>
 
   <!-- ===================================================
-       文内引用（CSL-M 双 layout）
+       文内引用格式（CSL-M 双 layout）
+       英文：(Tong and Yang, 1998) / (Mei et al., 1998)
+       中文：（张克信等，1995）
        =================================================== -->
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true">
     <sort>
       <key macro="author-intext-en"/>
       <key macro="year-date"/>
     </sort>
-    <!-- 英文条目 -->
+
+    <!-- 英文条目 layout：locale="en" 确保使用 et al. -->
     <layout prefix="(" suffix=")" delimiter="; " locale="en">
       <group delimiter=", ">
         <text macro="author-intext-en"/>
         <text macro="year-date"/>
       </group>
     </layout>
-    <!-- 中文条目 -->
+
+    <!-- 中文条目 layout（默认 zh-CN）：使用"等" -->
     <layout prefix="（" suffix="）" delimiter="；">
       <group delimiter="，">
         <text macro="author-intext-zh"/>
@@ -381,18 +506,11 @@
   </citation>
 
   <!-- ===================================================
-       文后参考文献表（CSL-M 双 layout）
-       排列方式（依据期刊实际格式）：
-         所有文献统一按作者姓名字母排序。
-         中文条目输出两行：
-           第1行：英文对照行（占位符，参与排序显示）
-           第2行：中文原文
-         使用者在最终文档中将第2行（中文原文）
-         移到文末"附 中文参考文献"区域。
+       文后参考文献表格式（CSL-M 双 layout）
+       中文条目：主体 + display="block" 另起一段的英文对照行
        =================================================== -->
   <bibliography entry-spacing="0" hanging-indent="true" et-al-min="4" et-al-use-first="3">
     <sort>
-      <!-- 统一按作者字母排序（中文按拼音） -->
       <key macro="author-bib-en"/>
       <key macro="year-date"/>
     </sort>
@@ -402,12 +520,14 @@
       <text macro="entry-en" suffix="."/>
     </layout>
 
-    <!-- 中文条目：英文对照行在前（参与排序），中文原文在后 -->
+    <!-- 中文条目（默认）：主体 + 英文对照行 -->
     <layout>
-      <!-- 第1行：英文对照行（占位符） -->
-      <text macro="entry-en-mirror" suffix=" (in Chinese with English abstract)."/>
-      <!-- 第2行：中文原文（换行后追加） -->
-      <text macro="entry-zh" prefix="&#10;" suffix="."/>
+      <text macro="entry-zh" suffix="."/>
+      <!-- 使用 display="block" 使对照行另起一段 -->
+      <group display="block">
+        <text macro="entry-en-mirror" suffix=" (in Chinese with English abstract)."/>
+      </group>
     </layout>
   </bibliography>
+
 </style>
