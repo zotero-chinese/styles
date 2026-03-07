@@ -45,76 +45,76 @@
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">William P. Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
+    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">［美］富勒：《法律的道德性》，郑戈译，商务印书馆2005年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">Jacques Chevallier, <i>L’Etat de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
+    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">高鸿钧、程汉大主编：《英美法原论》，北京大学出版社2013年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">Angelo Falzea, <i>L’offerta reale e la liberazione coattiva del debitore</i>, Giuffrè, 1947.</div>
+    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">［德］莱纳·沃尔夫：《风险法的风险》，陈霄、刘刚译，载刘刚主编：《风险规制：德国的理论与实践》，法律出版社2012年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">Claus Roxin, Strafrecht Allgemeiner Teil, Band I, 4. Aufl. 2005.</div>
+    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">（清）沈家本：《历代刑法考》，中华书局1985年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">Елена А. Дубовицкая, <i>Европейское корпоративное право</i>, Волтерс Клувер Россия, 2008.</div>
+    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">［美］富勒：《法律的道德性》，郑戈译，商务印书馆2005年版。</div>
+    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">王名扬：《美国行政法》，中国法制出版社1995年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">张新宝：《侵权责任法》（第5版），中国人民大学出版社2020年版。</div>
+    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">（宋）王溥：《唐会要》，卷三十九《定格令》，上海古籍出版社2006年版。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔8〕</div><div class="csl-right-inline">我妻栄『新訂担保物権法（民法講義III）』（有斐閣，1971年）。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔9〕</div><div class="csl-right-inline">（清）沈家本：《历代刑法考》，中华书局1985年版。</div>
+    <div class="csl-left-margin">〔9〕</div><div class="csl-right-inline">张新宝：《侵权责任法》（第5版），中国人民大学出版社2020年版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔10〕</div><div class="csl-right-inline">王保树：《股份有限公司机关构造中的董事和董事会》，载梁慧星主编：《民商法论丛》第1卷，法律出版社1994年版。</div>
+    <div class="csl-left-margin">〔10〕</div><div class="csl-right-inline">William P. Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔11〕</div><div class="csl-right-inline">王名扬：《美国行政法》，中国法制出版社1995年版。</div>
+    <div class="csl-left-margin">〔11〕</div><div class="csl-right-inline">Jacques Chevallier, <i>L’Etat de droit</i>, Montchrestien, 4<sup>e</sup> éd., Paris, 2003.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔12〕</div><div class="csl-right-inline">（宋）王溥：《唐会要》，卷三十九《定格令》，上海古籍出版社2006年版。</div>
+    <div class="csl-left-margin">〔12〕</div><div class="csl-right-inline">Angelo Falzea, <i>L’offerta reale e la liberazione coattiva del debitore</i>, Giuffrè, 1947.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔13〕</div><div class="csl-right-inline">［德］莱纳·沃尔夫：《风险法的风险》，陈霄、刘刚译，载刘刚主编：《风险规制：德国的理论与实践》，法律出版社2012年版。</div>
+    <div class="csl-left-margin">〔13〕</div><div class="csl-right-inline">Claus Roxin, Strafrecht Allgemeiner Teil, Band I, 4. Aufl. 2005.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔14〕</div><div class="csl-right-inline">高鸿钧、程汉大主编：《英美法原论》，北京大学出版社2013年版。</div>
+    <div class="csl-left-margin">〔14〕</div><div class="csl-right-inline">Елена А. Дубовицкая, <i>Европейское корпоративное право</i>, Волтерс Клувер Россия, 2008.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔15〕</div><div class="csl-right-inline">《论语·述而》。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔16〕</div><div class="csl-right-inline">Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10-13.</div>
+    <div class="csl-left-margin">〔16〕</div><div class="csl-right-inline">何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔17〕</div><div class="csl-right-inline">Charles A. Reich, <i>The New Property</i>, 73 The Yale Law Journal 733 (1964).</div>
+    <div class="csl-left-margin">〔17〕</div><div class="csl-right-inline">季卫东：《法律程序的意义——对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔18〕</div><div class="csl-right-inline">何海波：《判决书上网》，载《法制日报》2000年5月21日，第2版。</div>
+    <div class="csl-left-margin">〔18〕</div><div class="csl-right-inline">Louis D. Brandeis, <i>What Publicity Can Do</i>, Harper’s Weekly, 20 December 1913, p. 10-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔19〕</div><div class="csl-right-inline">季卫东：《法律程序的意义——对中国法制建设的另一种思考》，载《中国社会科学》1993年第1期。</div>
+    <div class="csl-left-margin">〔19〕</div><div class="csl-right-inline">Charles A. Reich, <i>The New Property</i>, 73 The Yale Law Journal 733 (1964).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔20〕</div><div class="csl-right-inline">刘松山：《失信惩戒立法的三大问题》，载微信公众号“中国法律评论”2019年11月19日，<a href="https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw">https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw</a>。</div>
+    <div class="csl-left-margin">〔20〕</div><div class="csl-right-inline">梁秋坪、郝萍：《全国打击治理农村赌博工作现场会召开》，载人民网2024年10月12日，<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔21〕</div><div class="csl-right-inline">梁秋坪、郝萍：《全国打击治理农村赌博工作现场会召开》，载人民网2024年10月12日，<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>。</div>
+    <div class="csl-left-margin">〔21〕</div><div class="csl-right-inline">刘松山：《失信惩戒立法的三大问题》，载微信公众号“中国法律评论”2019年11月19日，<a href="https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw">https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw</a>。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔22〕</div><div class="csl-right-inline">法国最高行政法院网站，<a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>，2024年10月8日访问。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔23〕</div><div class="csl-right-inline">习超：《证券监管有偏私吗？》，清华大学法学院、社会科学学院、数据科学研究院“迈向数据法学”研讨会会议论文，2017年12月23日于北京。</div>
+    <div class="csl-left-margin">〔23〕</div><div class="csl-right-inline">李松锋：《游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究》，中国政法大学2013年博士学位论文。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">〔24〕</div><div class="csl-right-inline">李松锋：《游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究》，中国政法大学2013年博士学位论文。</div>
+    <div class="csl-left-margin">〔24〕</div><div class="csl-right-inline">习超：《证券监管有偏私吗？》，清华大学法学院、社会科学学院、数据科学研究院“迈向数据法学”研讨会会议论文，2017年12月23日于北京。</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">〔25〕</div><div class="csl-right-inline">《国务院关于在全国建立农村最低生活保障制度的通知》，国发〔2007〕19号。</div>

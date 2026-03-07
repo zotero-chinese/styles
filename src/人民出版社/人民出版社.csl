@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-as-sort-order="all" sort-separator=", " initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" sort-separator=", " initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>人民出版社</title>
     <id>https://zotero-chinese.com/styles/人民出版社</id>
     <link href="https://zotero-chinese.com/styles/人民出版社" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/综合性期刊文献引证技术规范（注释）" rel="template"/>
-    <link href="http://www.pph166.com/" rel="documentation"/>
+    <link href="https://zotero-chinese.com/styles/中国社会科学" rel="template"/>
+    <link href="https://sfy.swufe.edu.cn/__local/2/1A/1B/80979C6EC7C476EF63A70BB99DD_8A9C5D1D_EFE09.pdf" rel="documentation"/>
     <author>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
+      <name>Hongzuan Lyu</name>
+      <email>hongzuanlv@gmail.com</email>
     </author>
     <category citation-format="note"/>
     <category field="generic-base"/>
-    <updated>2024-12-25T16:50:49+08:00</updated>
+    <summary>《人民出版社学术著作出版规范》（2012年起实行）</summary>
+    <updated>2026-02-26T22:13:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -37,12 +38,15 @@
       <!-- 中文页码之间连字符用一字线。 -->
       <term name="page-range-delimiter">&#8212;</term>
       <term name="editor" form="short">主编</term>
+      <term name="compiler" form="short">整理</term>
     </terms>
   </locale>
   <macro name="author-en">
     <names variable="author">
-      <name and="text"/>
-      <label form="short" prefix=", "/>
+      <!-- 最后一名英文作者名字前使用& -->
+      <name and="symbol" et-al-min="4" et-al-use-first="1"/>
+      <!--使用括号包裹主编标签-->
+      <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>
@@ -50,8 +54,21 @@
     </names>
   </macro>
   <macro name="author-zh">
+    <!--补充译著的原作者国籍-->
+    <choose>
+      <if variable="translator">
+        <choose>
+          <if variable="archive_location" match="none">
+            <text value="无" prefix="[" suffix="] "/>
+          </if>
+          <else>
+            <text variable="archive_location" prefix="[" suffix="] "/>
+          </else>
+        </choose>
+      </if>
+    </choose>
     <names variable="author">
-      <name delimiter="、"/>
+      <name delimiter="、" et-al-min="4" et-al-use-first="1"/>
       <label form="short"/>
       <substitute>
         <names variable="editor"/>
@@ -141,8 +158,10 @@
   </macro>
   <macro name="translator-en">
     <names variable="translator">
-      <label form="short" suffix=" "/>
-      <name and="text"/>
+      <!-- 最后一名英文作者名字前使用& 与前文一致-->
+      <name and="symbol"/>
+      <!--使用括号包裹译者标签-->
+      <label form="short" prefix=" (" suffix=")"/>
     </names>
   </macro>
   <macro name="translator-zh">
@@ -157,7 +176,8 @@
         <date variable="issued" form="text"/>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
-        <date variable="issued" form="text" date-parts="year-month"/>
+        <!--析出文献（连续出版物）的日期在卷号、期号之后的括号内-->
+        <date variable="issued" form="text" date-parts="year-month" prefix=" (" suffix=")"/>
       </else-if>
       <else>
         <date variable="issued" form="text" date-parts="year"/>
@@ -201,6 +221,8 @@
     </choose>
   </macro>
   <macro name="container-periodical-en">
+    <!--析出文献名前要加入in-->
+    <text value="in "/>
     <group delimiter=", ">
       <text variable="container-title" text-case="title" font-style="italic"/>
       <group>
@@ -253,7 +275,7 @@
           <group delimiter=", ">
             <names variable="editor">
               <name and="text"/>
-              <label form="short" prefix=", "/>
+              <label form="short" prefix=" (" suffix=")"/>
             </names>
             <text variable="container-title" text-case="title" font-style="italic"/>
           </group>
@@ -296,14 +318,8 @@
     </choose>
   </macro>
   <macro name="publisher-zh">
-    <choose>
-      <if type="thesis">
-        <text variable="publisher"/>
-      </if>
-      <else>
-        <text variable="publisher"/>
-      </else>
-    </choose>
+    <!--这里把if简化掉了-->
+    <text variable="publisher"/>
   </macro>
   <macro name="event-zh">
     <choose>
@@ -366,7 +382,8 @@
   <macro name="access-en">
     <choose>
       <if type="post post-weblog software webpage" match="any">
-        <group delimiter="，">
+        <!--这里的分隔符应该是半角-->
+        <group delimiter=", ">
           <text variable="URL"/>
           <date variable="accessed" form="text"/>
         </group>
@@ -410,14 +427,8 @@
       <if is-numeric="locator">
         <text value="第"/>
         <number variable="locator"/>
-        <choose>
-          <if type="article-newspaper" locator="page" match="all">
-            <text value="版"/>
-          </if>
-          <else>
-            <label variable="locator" form="short"/>
-          </else>
-        </choose>
+        <!--删除对报纸文章locator的if判断-->
+        <label variable="locator" form="short"/>
       </if>
       <else>
         <text variable="locator"/>
@@ -434,14 +445,15 @@
       </else-if>
     </choose>
   </macro>
-  <macro name="entry-layout-en">
+  <macro name="entry-layout-en-citation">
     <group delimiter=", ">
       <text macro="author-en"/>
       <text macro="title-en"/>
       <text macro="translator-en"/>
       <choose>
         <if type="article-journal article-magazine article-newspaper" match="any">
-          <group delimiter=", ">
+          <!--英文析出文献的日期与期号之间为空格-->
+          <group delimiter=" ">
             <text macro="container-periodical-en"/>
             <text macro="date-en"/>
           </group>
@@ -468,7 +480,39 @@
       <text macro="locator-or-page-en"/>
     </group>
   </macro>
-  <macro name="entry-layout-zh">
+  <macro name="entry-layout-en-bibliography">
+    <group delimiter=", ">
+      <text macro="author-en"/>
+      <text macro="title-en"/>
+      <text macro="translator-en"/>
+      <choose>
+        <if type="article-journal article-magazine article-newspaper" match="any">
+          <!--英文析出文献的日期与期号之间为空格-->
+          <text macro="container-periodical-en"/>
+          <text macro="date-en"/>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <text macro="container-booklike-en"/>
+          <text macro="publisher-en"/>
+          <text macro="date-en"/>
+        </else-if>
+        <else-if type="collection manuscript personal_communication" match="any">
+          <text macro="date-en"/>
+          <text macro="archive-en"/>
+        </else-if>
+        <else-if type="post post-weblog software webpage" match="any">
+          <text variable="container-title"/>
+          <text macro="date-en"/>
+        </else-if>
+        <else>
+          <text macro="publisher-en"/>
+          <text macro="date-en"/>
+        </else>
+      </choose>
+      <text macro="access-en"/>
+    </group>
+  </macro>
+  <macro name="entry-layout-zh-citation">
     <group delimiter="：">
       <text macro="author-zh"/>
       <group delimiter="，">
@@ -525,12 +569,65 @@
       </group>
     </group>
   </macro>
+  <macro name="entry-layout-zh-bibliography">
+    <group delimiter="：">
+      <text macro="author-zh"/>
+      <group delimiter="，">
+        <text macro="title-zh"/>
+        <text macro="translator-zh"/>
+        <choose>
+          <if type="article-journal article-magazine" match="any">
+            <text macro="container-periodical-zh"/>
+          </if>
+          <else-if type="article-newspaper">
+            <text macro="container-newspaper-zh"/>
+          </else-if>
+          <else-if type="chapter">
+            <text macro="container-booklike-zh"/>
+            <group>
+              <text macro="publisher-zh"/>
+              <text macro="date-zh"/>
+            </group>
+          </else-if>
+          <else-if type="paper-conference">
+            <choose>
+              <if variable="container-title">
+                <text macro="container-booklike-zh"/>
+                <group>
+                  <text macro="publisher-zh"/>
+                  <text macro="date-zh"/>
+                </group>
+              </if>
+              <else>
+                <text macro="event-zh"/>
+              </else>
+            </choose>
+          </else-if>
+          <else-if type="collection manuscript personal_communication" match="any">
+            <text macro="date-zh"/>
+            <text macro="archive-zh"/>
+          </else-if>
+          <else-if type="post post-weblog software webpage" match="any">
+            <text variable="container-title"/>
+            <text macro="date-zh"/>
+          </else-if>
+          <else>
+            <group>
+              <text macro="publisher-zh"/>
+              <text macro="date-zh"/>
+            </group>
+          </else>
+        </choose>
+        <text macro="access-zh"/>
+      </group>
+    </group>
+  </macro>
   <citation>
     <layout delimiter="；" suffix="。" locale="zh">
-      <text macro="entry-layout-zh"/>
+      <text macro="entry-layout-zh-citation"/>
     </layout>
     <layout delimiter="; " suffix=".">
-      <text macro="entry-layout-en"/>
+      <text macro="entry-layout-en-citation"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" second-field-align="flush">
@@ -541,11 +638,11 @@
     </sort>
     <layout locale="zh">
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-zh" suffix="。"/>
+      <text macro="entry-layout-zh-bibliography" suffix="。"/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
-      <text macro="entry-layout-en" suffix="."/>
+      <text macro="entry-layout-en-bibliography" suffix="."/>
     </layout>
   </bibliography>
 </style>
