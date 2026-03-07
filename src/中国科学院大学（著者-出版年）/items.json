@@ -1,262 +1,394 @@
 [
 	{
-		"id": "ucas.2.7.3.4:01",
+		"id": "http://zotero.org/users/4181482/items/LK2VYF8J",
 		"type": "article-journal",
-		"container-title": "动物学研究",
-		"ISSN": "0254-5853",
-		"issue": "1",
+		"abstract": "为了解不同生育时期盐胁迫下基施钙肥花生根际土壤微生物群落结构变化,以期通过改良盐碱土壤根际微生物环境来提高植物胁迫耐受性。采用盆栽试验设置不同盐胁迫强度及基施钙肥处理,以花生不同生育时期根际土壤为研究对象,通过构建细菌16S rRNA基因文库和高通量测序技术进行测序,并对测序结果进行生物信息学分析。结果表明:各处理土壤样本细菌物种多样性高且分布均匀,盐胁迫可提高花生根际微生物群落相对丰富度和多样性,并与生育时期有关；盐胁迫、生育时期和外源施钙各处理样本的优势菌纲、优势菌科及优势菌种相同,其优势菌纲均为放线菌纲(Actinobacteria)、α-变形菌纲(Alphaproteobacteria)、γ-变形杆菌纲(Gammaproteobacteria)、疣微菌纲(Verrucomicrobiae)、Saccharimonadia、芽单胞菌纲(Gemmatimonadetes)、拟杆菌纲(Bacteroidia)和酸杆菌纲(Acidobacteriia)等8种,优势菌科有norank_o__Saccharimonadales、鞘脂单胞菌科(Sphingo monadaceae)、芽单胞菌科(Gemmatimona daceae)、伯克氏菌科(Burkhold eriaceae)和norank_o__Gaiellales菌科等；盐胁迫和基施钙肥处理均能显著提高γ-变形杆菌纲(Gammaproteobacteria)和疣微菌纲(Verrucomicrobiae)丰度,并随生育时期的延长和盐胁迫强度增大更为明显,高盐胁迫下花针期和收获期两菌纲丰度分别是其对照的1.2、1.8倍和1.6、1.5倍,但盐胁迫下基施钙肥处理可使放线菌纲(Actinobacteria)、Saccharimonadia菌纲相对丰度明显降低,并随盐胁迫强度提高相对丰度降幅明显,且开花下针期降幅较大；噬几丁质菌科(Chitinophagaceae)和丰佑菌科(Opitutaceae)的相对丰度受盐胁迫强度和生长阶段影响显著,并随盐胁迫强度升高而显著提高；生长盛期和基施钙肥处理的氨基酸代谢、能量代谢、辅助因子和维生素的代谢和核苷酸代谢等功能基因相对丰度显著提高；盐胁迫严重抑制花生籽仁发育,产量明显降低,高盐胁迫使荚果产量降低40%~50%。",
+		"container-title": "IEEE Global Telecommunications Conference",
+		"ISSN": "1000-7601",
+		"issue": "4",
+		"journalAbbreviation": "干旱地区农业研究",
 		"language": "zh-CN",
-		"page": "24-30",
-		"source": "CNKI",
-		"title": "树鼩模型:抑郁症的社会竞争失败与学习和记忆的被捕获条件反射",
-		"title-short": "树鼩模型",
-		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=DWXY201101010&v=",
-		"volume": "32",
+		"note": "CoreRankings: B\nCORE评级: B",
+		"page": "41-50",
+		"source": "CQVIP Qikan",
+		"title": "盐胁迫下配施钙肥对花生根际土壤细菌群落结构的影响",
+		"URL": "https://lib.cqvip.com/Qikan/Article/Detail?id=7107609297",
+		"volume": "40",
 		"author": [
 			{
-				"literal": "王静"
+				"literal": "戴良香"
 			},
 			{
-				"literal": "周启心"
+				"literal": "丁红"
 			},
 			{
-				"literal": "田孟"
+				"literal": "徐扬"
 			},
 			{
-				"literal": "杨跃雄"
+				"literal": "张冠初"
 			},
 			{
-				"literal": "徐林"
-			}
-		],
-		"issued": {
-			"date-parts": [["2011"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.1:02",
-		"type": "book",
-		"event-place": "北京",
-		"language": "zh-CN",
-		"note": "page: 98-106",
-		"publisher": "科学出版社",
-		"publisher-place": "北京",
-		"title": "中国两栖爬行动物鉴定手册",
-		"author": [
+				"literal": "史晓龙"
+			},
 			{
-				"family": "田婉淑",
-				"given": ""
-			}
-		],
-		"issued": {
-			"date-parts": [["1986"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.4:02",
-		"type": "article-journal",
-		"container-title": "冰川冻土",
-		"ISSN": "1000-0240",
-		"issue": "1",
-		"language": "zh-CN",
-		"page": "53-61",
-		"source": "CNKI",
-		"title": "云南玉龙雪山第四纪冰期与冰川演化模式",
-		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2000&filename=BCDT200001013&v=",
-		"volume": "22",
-		"author": [
+				"literal": "秦斐斐"
+			},
 			{
-				"literal": "郑本兴"
-			}
-		],
-		"issued": {
-			"date-parts": [["2000"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.1:04",
-		"type": "book",
-		"event-place": "北京",
-		"language": "zh-CN",
-		"publisher": "中国社会科学出版社",
-		"publisher-place": "北京",
-		"title": "信息技术与信息服务国际研讨会论文集 A集",
-		"author": [
+				"literal": "郭庆"
+			},
 			{
-				"family": "辛希孟",
-				"given": ""
-			}
-		],
-		"issued": {
-			"date-parts": [["1994"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.1:03",
-		"type": "book",
-		"event-place": "台北",
-		"language": "zh-CN",
-		"publisher": "天下文化出版社",
-		"publisher-place": "台北",
-		"title": "新时代的工业工程师",
-		"URL": "http://www.ie.nthu.edu.tw/info/ie.newie.htm",
-		"author": [
+				"literal": "姜常松"
+			},
 			{
-				"literal": "赵耀东"
+				"literal": "张智猛"
 			}
 		],
 		"accessed": {
-			"date-parts": [["1998", 9, 26]]
+			"date-parts": [
+				[
+					"2025",
+					12,
+					11
+				]
+			]
 		},
 		"issued": {
-			"date-parts": [["1998"]]
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
 		}
 	},
 	{
-		"id": "ucas.2.7.3.1:05",
-		"type": "book",
-		"edition": "4",
-		"event-place": "New York",
+		"id": "http://zotero.org/users/4181482/items/BJ3Q774N",
+		"type": "article-journal",
+		"abstract": "Gas chromatography-ion mobility spectrometry (GC-IMS) allows the fast, reliable, and inexpensive chemical composition analysis of volatile mixtures. This sensing technology has been successfully employed in food science to determine food origin, freshness and preventing alimentary fraud. However, GC-IMS data is highly dimensional, complex, and suffers from strong non-linearities, baseline problems, misalignments, peak overlaps, long peak tails, etc., all of which must be corrected to properly extract the relevant features from samples. In this work, a pipeline for signal pre-processing, followed by four different approaches for feature extraction in GC-IMS data, is presented. More precisely, these approaches consist of extracting data features from: (1) the total area of the reactant ion peak chromatogram (RIC); (2) the full RIC response; (3) the unfolded sample matrix; and (4) the ion peak volumes. The resulting pipelines for data processing were applied to a dataset consisting of two different quality class Iberian ham samples, based on their feeding regime. The ability to infer chemical information from samples was tested by comparing the classification results obtained from partial least-squares discriminant analysis (PLS-DA) and the samples' variable importance for projection (VIP) scores. The choice of a feature extraction strategy is a trade-off between the amount of chemical information that is preserved, and the computational effort required to generate the data models.",
+		"container-title": "Sensors (Basel, Switzerland)",
+		"DOI": "10.3390/s21186156",
+		"ISSN": "1424-8220",
+		"issue": "18",
+		"journalAbbreviation": "Sensors (Basel)",
 		"language": "en-US",
-		"publisher": "McGraw Hill",
-		"publisher-place": "New York",
-		"title": "Probability, random variables, and random signal principles",
+		"page": "6156",
+		"PMID": "34577363",
+		"PMCID": "PMC8469025",
+		"source": "PubMed",
+		"title": "Full workflows for the analysis of gas chromatography-ion mobility spectrometry in foodomics: Application to the analysis of iberian ham aroma",
+		"title-short": "Full Workflows for the Analysis of Gas Chromatography-Ion Mobility Spectrometry in Foodomics",
+		"volume": "21",
 		"author": [
 			{
-				"family": "Peebles",
-				"given": "Peyton Z.",
-				"suffix": "Jr."
-			}
-		],
-		"issued": {
-			"date-parts": [["2001"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.2:01",
-		"type": "chapter",
-		"container-title": "长江流域洪涝灾害与科技对策",
-		"event-place": "北京",
-		"language": "zh-CN",
-		"page": "32-36",
-		"publisher": "科学出版社",
-		"publisher-place": "北京",
-		"title": "1998 年长江洪水的成因与减灾对策",
-		"author": [
-			{
-				"literal": "程根伟"
-			}
-		],
-		"editor": [
-			{
-				"literal": "许厚泽"
+				"family": "Freire",
+				"given": "Rafael"
 			},
 			{
-				"literal": "赵其国"
-			}
-		],
-		"issued": {
-			"date-parts": [["1999"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.3:01",
-		"type": "book",
-		"event-place": "北京",
-		"language": "zh-CN",
-		"note": "type: periodical\nissue: 1",
-		"publisher": "地质出版社",
-		"publisher-place": "北京",
-		"title": "地质评论",
-		"volume": "1",
-		"author": [
-			{
-				"literal": "中国地质学会"
-			}
-		],
-		"issued": {
-			"date-parts": [["1936"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.3:02",
-		"type": "book",
-		"event-place": "北京",
-		"language": "zh-CN",
-		"note": "type: periodical\npage: 98-106",
-		"publisher": "北京图书馆",
-		"publisher-place": "北京",
-		"title": "图书馆学通讯",
-		"author": [
-			{
-				"literal": "中国图书馆学会"
-			}
-		],
-		"issued": {
-			"date-parts": [["1957"]]
-		}
-	},
-	{
-		"id": "ucas.2.7.3.4:03",
-		"type": "article-newspaper",
-		"language": "zh-CN",
-		"page": "14",
-		"title": "大风沙过后的思考",
-		"URL": "http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm",
-		"author": [
-			{
-				"literal": "傅刚"
+				"family": "Fernandez",
+				"given": "Luis"
 			},
 			{
-				"literal": "赵承"
+				"family": "Mallafré-Muro",
+				"given": "Celia"
 			},
 			{
-				"literal": "李佳路"
+				"family": "Martín-Gómez",
+				"given": "Andrés"
+			},
+			{
+				"family": "Madrid-Gambin",
+				"given": "Francisco"
+			},
+			{
+				"family": "Oliveira",
+				"given": "Luciana"
+			},
+			{
+				"family": "Pardo",
+				"given": "Antonio"
+			},
+			{
+				"family": "Arce",
+				"given": "Lourdes"
+			},
+			{
+				"family": "Marco",
+				"given": "Santiago"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/2KTNZ4DJ",
+		"type": "article-journal",
+		"abstract": "采用顶空气相色谱-离子迁移谱(headspace-gas chromatography-ion mobility spectrometry,HS-GC-IMS)对普通猪里脊、普通猪五花、普通猪后尖、黑猪后尖和土猪后尖这5种不同类型猪肉样品的挥发性风味化合物进行测定与分析,比较不同部位和不同品种猪肉特征风味之间的差异。结果表明,不同部位猪肉中共鉴定出41种挥发性化合物,主要包括醛类、酮类、醇类及其他类。不同种类猪后尖中共鉴定出29种挥发性化合物,主要包括醛类、酮类、醇类、吡嗪类及其他类。里脊肉特征峰区域主要包括2,3-丁二酮、2,3-乙酰丙酮、2-丁酮,五花肉含有大量特有的或浓度相对较高的挥发性醛、醇类物质,其特征峰区域包括反-2-辛烯醛、反-2-庚烯醛、糠醇、3-辛醇、辛醛、壬醛、反-2-己烯-1-醇等,后尖肉中特有的挥发性物质较少,只有2-甲基吡嗪、2,5-二甲基吡嗪等化合物相对含量较高,且土猪后尖和黑猪后尖中吡嗪类化合物含量比普通猪后尖高。依据所建立的指纹图谱信息,结合主成分分析,不同部位和不同品种猪肉得到明显区分。GC-IMS技术简单、快速、无损,采用GC-IMS技术可为猪肉挥发性风味成分分析、品种识别、掺假鉴别等提供一定参考依据和理论基础。",
+		"container-title": "食品科学",
+		"ISSN": "1002-6630",
+		"issue": "24",
+		"language": "zh-CN",
+		"note": "复合影响因子: 4.002\n综合影响因子: 2.806\n南农核心: 一类核心",
+		"page": "206-212",
+		"source": "CNKI",
+		"title": "顶空气相色谱-离子迁移谱分析不同部位和品种猪肉的挥发性风味化合物",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2022&filename=SPKX202124025",
+		"volume": "42",
+		"author": [
+			{
+				"literal": "孟维一"
+			},
+			{
+				"literal": "古瑾"
+			},
+			{
+				"literal": "徐淇淇"
+			},
+			{
+				"literal": "马燕红"
+			},
+			{
+				"literal": "李莹莹"
+			},
+			{
+				"literal": "郭文萍"
+			},
+			{
+				"literal": "王守伟"
 			}
 		],
 		"accessed": {
-			"date-parts": [["2002", 3, 6]]
+			"date-parts": [
+				[
+					"2025",
+					9,
+					28
+				]
+			]
 		},
 		"issued": {
-			"date-parts": [["2000", 4, 12]]
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
 		}
 	},
 	{
-		"id": "ucas.2.7.3.5:01",
-		"type": "patent",
-		"event-place": "中国",
-		"language": "zh-CN",
-		"number": "88105607.3",
-		"publisher-place": "中国",
-		"title": "一种温热外敷药制备方案",
+		"id": "http://zotero.org/users/4181482/items/SQGH8IA4",
+		"type": "article-journal",
+		"abstract": "Patient-specific modelling of the spine is a powerful tool to explore the prevention and the treatment of injuries and pathologies. Albeit several methods have been proposed for the discretization of the bony structures, the efficient representation of the intervertebral disc anisotropy remains a challenge, especially with complex geometries. Furthermore, the swelling of the disc's nucleus pulposus is normally added to the model after geometry definition, at the cost of changes of the material properties and an unrealistic description of the prestressed state. The aim of this study was to develop techniques, which preserve the patient-specific geometry of the disc and allow the representation of the system anisotropy and residual stresses, independent of the system discretization. Depending on the modelling features, the developed approaches resulted in a response of patient-specific models that was in good agreement with the physiological response observed in corresponding experiments. The proposed methods represent a first step towards the development of patient-specific models of the disc which respect both the geometry and the mechanical properties of the specific disc.",
+		"container-title": "Biomechanics and Modeling in Mechanobiology",
+		"DOI": "10.1007/s10237-015-0709-6",
+		"ISSN": "1617-7940",
+		"issue": "3",
+		"journalAbbreviation": "Biomech. Model. Mechanobiol.",
+		"language": "en-US",
+		"page": "543-560",
+		"PMID": "26243011",
+		"source": "PubMed",
+		"title": "Geometrical aspects of patient-specific modelling of the intervertebral disc: Collagen fibre orientation and residual stress distribution",
+		"title-short": "Geometrical aspects of patient-specific modelling of the intervertebral disc",
+		"URL": "http://link.springer.com/10.1007/s10237-015-0709-6",
+		"volume": "15",
 		"author": [
 			{
-				"literal": "江锡洲"
+				"family": "Marini",
+				"given": "Giacomo"
+			},
+			{
+				"family": "Studer",
+				"given": "Harald"
+			},
+			{
+				"family": "Huber",
+				"given": "Gerd"
+			},
+			{
+				"family": "Püschel",
+				"given": "Klaus"
+			},
+			{
+				"family": "Ferguson",
+				"given": "Stephen J."
 			}
 		],
 		"accessed": {
-			"date-parts": [["2017", 4, 2]]
+			"date-parts": [
+				[
+					"2025",
+					12,
+					11
+				]
+			]
 		},
 		"issued": {
-			"date-parts": [["1989", 7, 26]]
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
 		}
 	},
 	{
-		"id": "ucas.2.7.3.5:02",
-		"type": "patent",
-		"event-place": "中国",
-		"language": "zh-CN",
-		"number": "01128777.2",
-		"publisher-place": "中国",
-		"title": "光折变自适应光外差探测方法",
-		"URL": "http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2& leixin=0",
+		"id": "http://zotero.org/users/4181482/items/BKIHGS7B",
+		"type": "paper-conference",
+		"abstract": "Allocation of limited nutrients, such as nitrogen (N) and phosphorus (P), among plant organs reflects the influences of evolutionary and ecological processes on functional traits of plants, and thus is related to functional groups and environmental conditions. In this study, we tested this hypothesis by exploring the stoichiometric scaling of N and P concentrations between twigs and leaves of 335 woody species from 12 forest sites across eastern China. There were significant scaling relationships between twig N (or P) and leaf N (or P) using reduced major axis (RMA) regression analysis; yet their scaling exponents varied among functional groups and changed with environmental factors. Evergreen broad-leaved plants had a higher exponent (αP) of twig P to leaf P than that of deciduous broad-leaved plants (1.26 vs. 0.96, p < 0.05), but they had a similar exponent (αN) of twig N to leaf N (1.20 vs. 1.19). For both N and P, legume species exhibited a higher exponent than non-legume species (1.44 vs. 0.99 for αN; 1.86 vs. 0.88 for αP). Moreover, with increasing latitude, both αN and αP significantly decreased from > 1 at low latitude (23.2°N) to < 1 at high latitude (50.9°N), and this trend was consistent among the different forest types (i.e., tropical, temperate and boreal forests) across the study area. These results suggested that, as plant nutrient concentration increased, plants at low latitudes showed a faster increase in twig nutrient concentration, whereas plants at high latitudes presented a faster increase in leaf nutrient concentration. Such shifts in nutrient allocation strategy from low to high latitudes may be controlled by temperature. Overall, our findings provide a new approach to explore plant nutrient allocation strategies by analysing the stoichiometric scaling of nutrients among organs, which could broaden our understanding of the interactions between plants and their environments.",
+		"event-title": "AGU Fall Meeting Abstracts",
+		"language": "en-US",
+		"note": "ADS Bibcode: 2015AGUFM.B53D0588Y",
+		"page": "B53D-0588",
+		"source": "NASA ADS",
+		"title": "Nutrient allocation strategies of woody plants: An approach from the scaling of nitrogen and phosphorus between twigs and leaves",
+		"title-short": "Nutrient allocation strategies of woody plants",
+		"URL": "https://ui.adsabs.harvard.edu/abs/2015AGUFM.B53D0588Y",
+		"volume": "2015",
 		"author": [
 			{
-				"literal": "西安电子科技大学"
+				"family": "Yan",
+				"given": "Z."
+			},
+			{
+				"family": "Li",
+				"given": "P."
+			},
+			{
+				"family": "Chen",
+				"given": "Y."
+			},
+			{
+				"family": "Han",
+				"given": "W."
+			},
+			{
+				"family": "Fang",
+				"given": "J."
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					15
+				]
+			]
+		},
 		"issued": {
-			"date-parts": [["2002"]]
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/ZLKW373Y",
+		"type": "article-journal",
+		"abstract": "Nitrogen (N) and phosphorus (P) availabilities affect plant growth and the balance of elements, yet how these plant traits respond to N and P supply remains unclear.",
+		"container-title": "Plant and Soil",
+		"DOI": "10.1007/s11104-014-2316-1",
+		"ISSN": "1573-5036",
+		"issue": "1",
+		"journalAbbreviation": "Plant Soil",
+		"language": "en-US",
+		"page": "147-155",
+		"source": "Springer Link",
+		"title": "Effects of nitrogen and phosphorus supply on growth rate, leaf stoichiometry, and nutrient resorption of arabidopsis thaliana",
+		"URL": "https://doi.org/10.1007/s11104-014-2316-1",
+		"volume": "388",
+		"author": [
+			{
+				"family": "Yan",
+				"given": "Zhengbing"
+			},
+			{
+				"family": "Kim",
+				"given": "Namyoung"
+			},
+			{
+				"family": "Han",
+				"given": "Wenxuan"
+			},
+			{
+				"family": "Guo",
+				"given": "Yalong"
+			},
+			{
+				"family": "Han",
+				"given": "Tingshen"
+			},
+			{
+				"family": "Du",
+				"given": "Enzai"
+			},
+			{
+				"family": "Fang",
+				"given": "Jingyun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/BWAA95SE",
+		"type": "article-journal",
+		"container-title": "植物生态学报",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "2–6",
+		"source": "Google Scholar",
+		"title": "生态化学计量学: 探索从个体到生态系统的统一化理论",
+		"title-short": "生态化学计量学",
+		"URL": "https://www.academia.edu/download/92062085/Ecological_stoichiometry__Searching_for_unifying_principles_from_individuals_to_ecosystems.pdf",
+		"volume": "34",
+		"author": [
+			{
+				"literal": "贺金生"
+			},
+			{
+				"literal": "韩兴国"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					2,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
 		}
 	}
 ]
