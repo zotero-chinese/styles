@@ -1,0 +1,40 @@
+{
+  "dir": "现代金融研究",
+  "file": "现代金融研究.csl",
+  "style_class": "in-text",
+  "title": "现代金融研究",
+  "id": "https://zotero-chinese.com/styles/现代金融研究",
+  "link_self": "https://zotero-chinese.com/styles/现代金融研究",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）",
+  "link_documentation": "https://mp.weixin.qq.com/s/HEEfKwNSP7gkRSI4h9T-jQ",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "牛耕田"
+    },
+    {
+      "name": "Raymond"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 英文姓与名之间用逗号间隔；4. 无 DOI，无文献类型；5. 正文的引用使用全角括号。",
+  "updated": "2026-03-08T23:05:38+08:00",
+  "citations": "（皮圣雷、蓝海林，2014）<br>\n（Zhang，2025）<br>\n（张树山等，2023）<br>\n（Giannetti et al.，2021）<br>\n（Xu and Liu，2024）<br>\n（汤莹玮，2018）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">皮圣雷、蓝海林, 2014. 中国横向整合企业竞争策略组合与组织协调性:转型期制度情境的调节作用. 管理世界, (4): 81-89, 106, 187-188.</div>\n  <div class=\"csl-entry\">汤莹玮, 2018. 信用制度变迁下的票据市场功能演进与中小企业融资模式选择. 金融研究, (5): 37-46.</div>\n  <div class=\"csl-entry\">Giannetti, M., Serrano-Velarde, N., and Tarantino, E., 2021. Cheap trade credit and competition in downstream markets. Journal of Political Economy, 129(6): 1744-1796.</div>\n  <div class=\"csl-entry\">张树山、谷城、张佩雯、董旭达, 2023. 智慧物流赋能供应链韧性提升:理论与经验证据. 中国软科学, (11): 54-65.</div>\n  <div class=\"csl-entry\">Xu, T. and Liu, X., 2024. Achieving manufacturing supply chain resilience: The role of paradoxical leadership and big data analytics capability. Journal of Manufacturing Technology Management, 35(2): 205-225.</div>\n  <div class=\"csl-entry\">Zhang, P., 2025. Cross-border e-commerce, foreign shareholding, and supply chain resilience. International Review of Financial Analysis, 101: 103998.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}
