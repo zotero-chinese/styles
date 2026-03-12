@@ -4,7 +4,7 @@
     <title>南京工业大学</title>
     <id>https://zotero-chinese.com/styles/南京工业大学</id>
     <link href="https://zotero-chinese.com/styles/南京工业大学" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015" rel="template"/>
+    <link href="https://zotero-chinese.com/styles/china-national-standard-gb-t-7714-2015-numeric" rel="template"/>
     <link href="https://jwc.njtech.edu.cn/info/1188/3703.htm" rel="documentation"/>
     <author>
       <name>Pan Shuxuan</name>
@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>南京工业大学教务处参考文献格式规范（网页发布日期：2020-05-29）</summary>
-    <updated>2026-03-10T00:00:00+08:00</updated>
+    <updated>2026-03-12T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -366,6 +366,10 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout locale="en">
+      <text variable="citation-number" prefix="[" suffix="]"/>
+      <text macro="entry-layout" suffix="."/>
+    </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout" suffix="."/>
