@@ -13,7 +13,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>基于 GB/T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI）修改。1. 参考文献表添加编号；2. 英文在前中文在后；3. 中文引用使用中文逗号；4. 年份置于出版信息中；5. 英文书名和期刊名斜体；6. 英文作者名逗号分隔句点缩写。</summary>
+    <summary>基于 GB/T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI）修改，格式要求参见《毕业论文格式要求--示例说明》（2026 版）。1. 参考文献表添加编号；2. 英文在前中文在后；3. 中文引用使用中文逗号；4. 年份置于出版信息中；5. 英文书名和期刊名斜体；6. 英文作者名逗号分隔句点缩写。</summary>
     <updated>2026-03-16T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -23,10 +23,10 @@
       <term name="edition" form="short">版</term>
       <term name="and">和</term>
       <term name="and others"> 等</term>
-      <term name="open-quote">"</term>
-      <term name="close-quote">"</term>
-      <term name="open-inner-quote">'</term>
-      <term name="close-inner-quote">'</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
     </terms>
   </locale>
   <locale>
@@ -95,7 +95,7 @@
   <macro name="author-intext-zh">
     <names variable="author">
       <name and="text"/>
-      <!-- 国标 10.2.2 节要求姓氏与"et al.""等"之间留适当空隙 -->
+      <!-- 国标 10.2.2 节要求姓氏与“et al.”“等”之间留适当空隙 -->
       <et-al term="and others"/>
       <substitute>
         <names variable="composer"/>
@@ -126,11 +126,13 @@
         </choose>
         <choose>
           <if type="article article-journal" match="none">
+            <!-- 预印本和期刊文章的编号用于其他位置 -->
             <text variable="number"/>
           </if>
         </choose>
         <choose>
           <if type="collection manuscript personal_communication" match="any">
+            <!-- 档案的卷宗号 -->
             <text variable="archive_location"/>
           </if>
         </choose>
@@ -176,7 +178,7 @@
       <text macro="medium-id"/>
     </group>
   </macro>
-  <!-- 书籍的卷号（"第 x 卷"或"第 x 册"） -->
+  <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
@@ -198,6 +200,9 @@
   <macro name="type-id">
     <choose>
       <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
+          article 为预印本，符合“科技档案”
+        -->
         <text value="A"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
@@ -245,6 +250,7 @@
   <macro name="medium-id">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
         <choose>
           <if variable="medium">
             <text variable="medium"/>
@@ -298,12 +304,14 @@
       <text macro="container-contributors"/>
       <choose>
         <if variable="container-title">
+          <!-- 优先使用专著或会议论文集的题名 -->
           <group delimiter=": ">
             <text variable="container-title"/>
             <text macro="volume"/>
           </group>
         </if>
         <else-if type="paper-conference">
+          <!-- 有些会议没有论文集，使用会议名代替 -->
           <text variable="event-title"/>
         </else-if>
       </choose>
@@ -330,6 +338,7 @@
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
+        <!-- 报纸的出处项："刊名, 出版日期(版次): 页码" -->
         <group delimiter=", ">
           <text variable="container-title"/>
           <text macro="issued-date"/>
@@ -415,6 +424,7 @@
   <macro name="publisher">
     <choose>
       <if type="patent">
+        <!-- 专利的出版项格式"公告日期" -->
         <text macro="issued-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
@@ -428,6 +438,7 @@
                   <text variable="publisher"/>
                 </if>
                 <else>
+                  <!-- 档案的馆藏地以及收藏机构或单位 -->
                   <text variable="archive-place"/>
                   <text variable="archive"/>
                 </else>
@@ -439,8 +450,12 @@
         </group>
       </else-if>
       <else-if variable="URL">
+        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+          原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
+        -->
         <choose>
           <if type="dataset post post-weblog software webpage" match="any">
+            <!-- 限制更少的类型作为“纯电子文献” -->
             <choose>
               <if has-day="issued">
                 <text macro="issued-date" prefix="(" suffix=")"/>
@@ -458,6 +473,7 @@
       <if variable="issued">
         <choose>
           <if is-uncertain-date="issued">
+            <!-- 出版年无法确定时, 估计的出版年应置于方括号内。 -->
             <date variable="issued" form="numeric" date-parts="year" prefix="[" suffix="]"/>
           </if>
           <else>
@@ -466,11 +482,12 @@
         </choose>
       </if>
       <else>
+        <!-- 选取引用日期的年份作为估计的出版年 -->
         <date variable="accessed" form="numeric" date-parts="year" prefix="[" suffix="]"/>
       </else>
     </choose>
   </macro>
-  <!-- 出版日期 -->
+  <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
   </macro>
@@ -478,6 +495,7 @@
   <macro name="accessed-date">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
         <choose>
           <if variable="URL">
             <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
@@ -486,10 +504,11 @@
       </if>
     </choose>
   </macro>
-  <!-- 获取和访问路径 -->
+  <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
+        <!-- 仅纯电子资源显示 URL -->
         <text variable="URL"/>
       </if>
     </choose>
@@ -500,23 +519,28 @@
       <text macro="author"/>
       <choose>
         <if type="periodical">
+          <!-- 4.3 连续出版物 -->
           <text macro="title"/>
           <text macro="year-volume-issue"/>
           <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <!-- 4.4 连续出版物中的析出文献 -->
           <text macro="title"/>
           <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">
+          <!-- 4.5 专利文献 -->
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
+          <!-- 4.6 电子资源 -->
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
               <text macro="title"/>
@@ -528,6 +552,7 @@
           <text macro="publisher"/>
         </else-if>
         <else>
+          <!-- 4.1 专著 -->
           <text macro="title"/>
           <text macro="secondary-contributors"/>
           <text macro="edition"/>
