@@ -5,7 +5,7 @@
     <id>https://zotero-chinese.com/styles/湖北文理学院-外国语学院</id>
     <link href="https://zotero-chinese.com/styles/湖北文理学院-外国语学院" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，姓名不大写，无URL、DOI）" rel="template"/>
-    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://github.com/zotero-chinese/styles/pull/646#issuecomment-4063867045" rel="documentation"/>
     <author>
       <name>SakuraPuare</name>
       <email>SakuraPuare@sakurapuare.com</email>
@@ -13,7 +13,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>基于 GB/T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI）修改，格式要求参见《毕业论文格式要求--示例说明》（2026 版）。1. 参考文献表添加编号；2. 英文在前中文在后；3. 中文引用使用中文逗号；4. 年份置于出版信息中；5. 英文书名和期刊名斜体；6. 英文作者名逗号分隔句点缩写。</summary>
+    <summary>湖北文理学院外国语学院引用样式（2026年3月16日），基于 GB/T 7714—2015（著者-出版年，双语，姓名不大写，无 URL、DOI）修改，格式要求参见《毕业论文格式要求--示例说明》（2026 版）。1. 参考文献表添加编号；2. 英文在前中文在后；3. 中文引用使用中文逗号；4. 年份置于出版信息中；5. 英文书名和期刊名斜体；6. 英文作者名逗号分隔句点缩写。</summary>
     <updated>2026-03-16T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
