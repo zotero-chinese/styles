@@ -4,7 +4,7 @@
     <title>食品与发酵工业</title>
     <id>https://zotero-chinese.com/styles/食品与发酵工业</id>
     <link href="https://zotero-chinese.com/styles/食品与发酵工业" rel="self"/>
-    <link href="https://spfx.cbpt.cnki.net/WKC3/WebPublication/wkTextContent.aspx?navigationContentID=95059a20-42f2-4e2e-bf15-fac018d365b9&mid=spfx" rel="documentation"/>
+    <link href="http://sf1970.cnif.cn/CN/column/column9.shtml" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -12,7 +12,7 @@
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)换行显示。</summary>
-    <updated>2026-03-14T17:39:32+08:00</updated>
+    <updated>2026-03-16T17:39:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
