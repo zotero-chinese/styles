@@ -351,14 +351,14 @@
   <div class="csl-entry">[135] SUGARMAN L, MARKHAM S. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service, 19801980.</div>
   <div class="csl-entry">[136] ZHONG X, YAN Q, LI G. Long time series nighttime light dataset of China (2000-2020)[DS]. Global Change Research Data Publishing &#38; Repository, 20222022.</div>
   <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. Global Health Data Exchange, 20212021.</div>
-  <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[Z]. ChinaXiv, 2023(2023-03-03). 
-    <div class="csl-block">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[Z]. 2023(2023-03-03).</div>
+  <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023(2023-03-03). 
+    <div class="csl-block">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. 2023(2023-03-03).</div>
   </div>
-  <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[Z]. PSSXiv, 2024(2024-07-02). 
-    <div class="csl-block">XIAO L, ZHANG X, WANG Y. Exploring statistical measurement methods for data elements[Z]. PSSXiv, 2024(2024-07-02).</div>
+  <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02). 
+    <div class="csl-block">XIAO L, ZHANG X, WANG Y. Exploring statistical measurement methods for data elements[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
-  <div class="csl-entry">[140] BLOSS C S, WINEINGER N E, PETERS M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[Z]. bioRxiv, 2015(2015-10-28).</div>
-  <div class="csl-entry">[141] JENKINS S D, RUOSTEKOSKI J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[Z]. arXiv, 2012(2012-03-18).</div>
+  <div class="csl-entry">[140] BLOSS C S, WINEINGER N E, PETERS M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015(2015-10-28).</div>
+  <div class="csl-entry">[141] JENKINS S D, RUOSTEKOSKI J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18).</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -855,9 +855,9 @@
   <div class="csl-entry">[97] YOO J, MIYAMOTO Y, RIGOTTI A, et al. Linking positive affect to blood lipids: A cultural perspective[Z]2016.</div>
   <div class="csl-entry">[98] O’SHEA M. Understanding proactive behavior in the workplace as a function of gender[Z]2018.</div>
   <div class="csl-entry">[99] LIPPINCOTT T, POINDEXTER E K. Emotion recognition as a function of facial cues: Implications for practice[Z]2019.</div>
-  <div class="csl-entry">[100] LEUKER C, SAMARTZIDIS L, HERTWIG R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[Z]. PsyArXiv, 20182018.</div>
-  <div class="csl-entry">[101] STULTS-KOLEHMAINEN M A, SINHA R. The effects of stress on physical activity and exercise[Z]. PubMed Central, 20152015.</div>
-  <div class="csl-entry">[102] HO H-K. Teacher preparation for early childhood special education in Taiwan[Z]. ERIC, 20142014.</div>
+  <div class="csl-entry">[100] LEUKER C, SAMARTZIDIS L, HERTWIG R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 20182018.</div>
+  <div class="csl-entry">[101] STULTS-KOLEHMAINEN M A, SINHA R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 20152015.</div>
+  <div class="csl-entry">[102] HO H-K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 20142014.</div>
   <div class="csl-entry">[103] D’SOUZA A, WISEHEART M. Cognitive effects of music and dance training in children[DS]. ICPSR, 20182018.</div>
   <div class="csl-entry">[104] NATIONAL CENTER FOR EDUCATION STATISTICS. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009[DS]. National Archive of Data on Arts and Culture, 20162016.</div>
   <div class="csl-entry">[105] PEW RESEARCH CENTER. American trends panel Wave 26[DS]2018.</div>

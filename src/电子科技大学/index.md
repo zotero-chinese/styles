@@ -29,13 +29,13 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]. 中国国家生物安全框架实施国际合作项目研讨会论文集, 北京, 2005: 22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers2022: 2.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]2022: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究. PSSXiv, 2024(2024-07-02).</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv, 2012(2012-03-18).</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18).</div>
   </div>
 </div>
 
@@ -162,16 +162,16 @@
     <div class="csl-left-margin">[35]</div><div class="csl-right-inline">Roberson J A, Burneson E G. Drinking water standards, regulations and goals[M]//Water quality &#38; treatment: a handbook on drinking water. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 临床内科杂志. 武汉: 中华医学会湖北分会, 19841984.</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">佚名. 临床内科杂志[Z]. 武汉: 中华医学会湖北分会, 19841984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名. 图书馆学通讯. 北京: 北京图书馆, 1957/19901957/1990.</div>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">佚名. 图书馆学通讯[Z]. 北京: 北京图书馆, 1957/19901957/1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Anonymous. Science. Washington, D.C.: American Association for the Advancement of Science, 18831883.</div>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">Anonymous. Science[Z]. Washington, D.C.: American Association for the Advancement of Science, 18831883.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anonymous. Public library quarterly. Philadelphia: Taylor &#38; Francis, 19791979.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">Anonymous. Public library quarterly[Z]. Philadelphia: Taylor &#38; Francis, 19791979.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[40]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
@@ -234,7 +234,7 @@
     <div class="csl-left-margin">[59]</div><div class="csl-right-inline">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究2022: 2.</div>
+    <div class="csl-left-margin">[60]</div><div class="csl-right-inline">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]2022: 2.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[61]</div><div class="csl-right-inline">佚名. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.</div>
@@ -255,10 +255,10 @@
     <div class="csl-left-margin">[66]</div><div class="csl-right-inline">佚名. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers2022: 2.</div>
+    <div class="csl-left-margin">[67]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]2022: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis2024: 4.</div>
+    <div class="csl-left-margin">[68]</div><div class="csl-right-inline">Yu Y, Pan E, Wang X, et al. Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]2024: 4.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[69]</div><div class="csl-right-inline">Anonymous. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema, 2000.</div>
@@ -336,28 +336,28 @@
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">佚名. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles: ISO/IEC 80079-20-2:2016(fr)[S]. , [日期不详].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚. 全智能节电器[P]. 2008-01-16.</div>
+    <div class="csl-left-margin">[94]</div><div class="csl-right-inline">邓一刚. 全智能节电器[P][P]. 2008-01-16.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">张凯军, 赵永杰, 陈朝岗. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 2013-03-27.</div>
+    <div class="csl-left-margin">[95]</div><div class="csl-right-inline">张凯军, 赵永杰, 陈朝岗. 轨道火车及高速轨道火车紧急安全制动辅助装置[P][P]. 2013-03-27.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">李华, 王昊, 康佐. 一种拼接式桥梁模型[P]. 2023-01-03.</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">李华, 王昊, 康佐. 一种拼接式桥梁模型[P][P]. 2023-01-03.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法[P]. 2002-03-06.</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法[P][P]. 2002-03-06.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">冀超. 一种荒漠化地区生态植被综合培育种植方法[P]. 2001-10-24.</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">冀超. 一种荒漠化地区生态植被综合培育种植方法[P][P]. 2001-10-24.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P]. 2022-09-13.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">史国华, 樊金宇, 何益, 等. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P][P]. 2022-09-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system[P]. 2001-06-28.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system[P][P]. 2001-06-28.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system[P]. 2022-10-06.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system[P][P]. 2022-10-06.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[102]</div><div class="csl-right-inline">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL].</div>
@@ -366,7 +366,7 @@
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆. 北京鲁迅博物馆志愿服务章程[EB/OL](2021-04-21).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">佚名. 《庄子》读不懂？看完这一篇“导读”就明白了(2022-10-26).</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">佚名. 《庄子》读不懂？看完这一篇“导读”就明白了[Z](2022-10-26).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL].</div>
@@ -375,7 +375,7 @@
     <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超. “好好干，当一个好工人”[EB/OL](2025-02-17).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">佚名. [《昨日之歌》图书封面](2023-03-06).</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">佚名. [《昨日之歌》图书封面][Z](2023-03-06).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航. 开放世界中的实体基础模型[EB/OL](2024-12-24).</div>
@@ -399,46 +399,46 @@
     <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Zotero. [Zotero download][EB/OL].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事1887.</div>
+    <div class="csl-left-margin">[115]</div><div class="csl-right-inline">李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事[Z]1887.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令(1931-11-07).</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z](1931-11-07).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告1949.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">佚名. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]1949.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick](1570-07-28).</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Fitzwilliam H. [Letter to Bess of Hardwick][Z](1570-07-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">胡健民. 东南极拉斯曼丘陵地区地质图. 北京: 科学出版社, 20212021.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">胡健民. 东南极拉斯曼丘陵地区地质图[Z]. 北京: 科学出版社, 20212021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">刘祥沈. 沈阳市政区图. 武汉: 武汉大学出版社, 20162016.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">刘祥沈. 沈阳市政区图[Z]. 武汉: 武汉大学出版社, 20162016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">中工武大设计研究有限公司. 阳新县标准地名图. 武汉: 武汉大学出版社, 20192019.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">中工武大设计研究有限公司. 阳新县标准地名图[Z]. 武汉: 武汉大学出版社, 20192019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">吴自银, 温珍河. 中国南部海域海底地形图. 北京: 科学出版社, 20192019.</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">吴自银, 温珍河. 中国南部海域海底地形图[Z]. 北京: 科学出版社, 20192019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图.</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">訾冬梅, 高秀静. 内蒙古自治区地图册. 北京: 中国地图出版社, 20062006.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">訾冬梅, 高秀静. 内蒙古自治区地图册[Z]. 北京: 中国地图出版社, 20062006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">谭其骧. 中国历史地图集. 北京: 地图出版社, 1982: 61982.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">谭其骧. 中国历史地图集[Z]. 北京: 地图出版社, 1982: 61982.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">童世亨. 京兆直隶图. 上海: 商务印书馆, 19261926.</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">童世亨. 京兆直隶图[Z]. 上海: 商务印书馆, 19261926.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia. Abingdon: Routledge, 20152015.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Cribb R. Historical atlas of Indonesia[Z]. Abingdon: Routledge, 20152015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. Coastal wetlands map of China continent. Beijing: China Ocean Press, 2024: 502024.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. Coastal wetlands map of China continent[Z]. Beijing: China Ocean Press, 2024: 502024.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline">彭守璋. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所, 2024(2024-07-19).</div>
@@ -468,16 +468,16 @@
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 20212021.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展. ChinaXiv, 2023(2023-03-03).</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023(2023-03-03).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究. PSSXiv, 2024(2024-07-02).</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors. bioRxiv, 2015(2015-10-28).</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015(2015-10-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv, 2012(2012-03-18).</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18).</div>
   </div>
 </div>
 
@@ -552,10 +552,10 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">Lichstein K L, Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]. Reducing medication in geriatric populations, Uppsala, Sweden, 1990.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree C B, Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)San Diego, CA, 1991.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Lanktree C B, Briere J N. Early data on the Trauma Symptom Checklist for Children (TSC-C)[C]San Diego, CA, 1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Ruby J, Fulton C. Beyond redlining: Editing software that worksWashington, DC, 1993.</div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">Ruby J, Fulton C. Beyond redlining: Editing software that works[C]Washington, DC, 1993.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Australian Bureau of Statistics. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990: 3209.1[R]. Canberra, Australian Capital Territory: Author, 1991.</div>
@@ -711,13 +711,13 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">方明东. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译天津, 2000.</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">任东来. 对国际体制和国际制度的理解和翻译[C]天津, 2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. 傅良佐致国务院电(1917-09-15).</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. 傅良佐致国务院电[Z](1917-09-15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. 党外人士座谈会记录1950.</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. 党外人士座谈会记录[Z]1950.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">王明亮. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL](1998-08-16).</div>
@@ -738,7 +738,7 @@
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Schfield R S. The impact of scarcity and plenty on population change in England[M]//Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. Nixon to Kissinger(1969-02-01).</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. Nixon to Kissinger[Z](1969-02-01).</div>
   </div>
 </div>
 
@@ -792,13 +792,13 @@
     <div class="csl-left-margin">[14]</div><div class="csl-right-inline">佚名. 民法总则[S]. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知(2007-07-11).</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知[Z](2007-07-11).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">佚名. 包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号.</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">佚名. 包郑照诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字 7 号[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. 陆红霞诉南通市发改委政府信息公开案(2015-07-06).</div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">佚名. 陆红霞诉南通市发改委政府信息公开案[Z](2015-07-06).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Reich C A. The new property[J]. Yale Law Journal, 1964, 73(5): 733-787.</div>
@@ -813,7 +813,7 @@
     <div class="csl-left-margin">[21]</div><div class="csl-right-inline">佚名. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社, 2006.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Anonymous. R. v. Panel on Take-overs and Mergers1987.</div>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Anonymous. R. v. Panel on Take-overs and Mergers[Z]1987.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[23]</div><div class="csl-right-inline">罗豪才, 袁曙宏, 李文栋. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J]. 中国法学, 1993(1): 52-59.</div>
@@ -843,19 +843,19 @@
     <div class="csl-left-margin">[31]</div><div class="csl-right-inline">全国人大常委会. 中华人民共和国公司法[S]. 2013年修正 版. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知(1993-11-12).</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">最高人民法院, 最高人民检察院. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知[Z](1993-11-12).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">全国人大常委会. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[S]. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知(2007-07-11).</div>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">国务院. 国务院关于在全国建立农村最低生活保障制度的通知[Z](2007-07-11).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释(2018-02-06).</div>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">最高人民法院. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释[Z](2018-02-06).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知(2018-06-27).</div>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">国务院. 国务院关于印发打赢蓝天保卫战三年行动计划的通知[Z](2018-06-27).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[37]</div><div class="csl-right-inline">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 信息与文献 参考文献著录规则: GB/T 7714—2015[S]. , 2015.</div>
@@ -864,13 +864,13 @@
     <div class="csl-left-margin">[38]</div><div class="csl-right-inline">信春鹰. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R]. 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定(2014-10-23).</div>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">中国共产党中央委员会. 中共中央关于全面推进依法治国若干重大问题的决定[Z](2014-10-23).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号(2013-02-08).</div>
+    <div class="csl-left-margin">[40]</div><div class="csl-right-inline">佚名. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[Z](2013-02-08).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号(2017-12-16).</div>
+    <div class="csl-left-margin">[41]</div><div class="csl-right-inline">佚名. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第 81 号[Z](2017-12-16).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[42]</div><div class="csl-right-inline">Barbara Ward. Progress for a small planet[J]. Harvard Business Review, 1979(Sep.-Oct.): 89.</div>
@@ -891,16 +891,16 @@
     <div class="csl-left-margin">[47]</div><div class="csl-right-inline">Anonymous. Administrative Procedure Act § 6[S]//U.S.C., .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. Natural Resources Defense Council <i>v.</i> Gorsuch1982.</div>
+    <div class="csl-left-margin">[48]</div><div class="csl-right-inline">Anonymous. Natural Resources Defense Council <i>v.</i> Gorsuch[Z]1982.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anonymous. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council1984.</div>
+    <div class="csl-left-margin">[49]</div><div class="csl-right-inline">Anonymous. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council[Z]1984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Anonymous. Roe <i>v.</i> Wade1973.</div>
+    <div class="csl-left-margin">[50]</div><div class="csl-right-inline">Anonymous. Roe <i>v.</i> Wade[Z]1973.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Anonymous. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK.</div>
+    <div class="csl-left-margin">[51]</div><div class="csl-right-inline">Anonymous. United States <i>v.</i> Dino Nastasi et al.: 3:15-cr-00213-FDW-DCK[Z].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[52]</div><div class="csl-right-inline">McDonell S. When China began streaming trials online[EB/OL](2016-09-30).</div>
@@ -963,13 +963,13 @@
     <div class="csl-left-margin">[71]</div><div class="csl-right-inline">佚名. GG[S]. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">佚名. Strauß-Karikatur, Kunstfreiheit.</div>
+    <div class="csl-left-margin">[72]</div><div class="csl-right-inline">佚名. Strauß-Karikatur, Kunstfreiheit[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">佚名. 1999.</div>
+    <div class="csl-left-margin">[73]</div><div class="csl-right-inline">佚名. [Z]1999.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">佚名. 2000.</div>
+    <div class="csl-left-margin">[74]</div><div class="csl-right-inline">佚名. [Z]2000.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[75]</div><div class="csl-right-inline">Meidenbauer M. Wissenschaftliches Publizieren[EB/OL].</div>
@@ -987,16 +987,16 @@
     <div class="csl-left-margin">[79]</div><div class="csl-right-inline">佐藤英明. 一時所得の要件に関する覚書[M]//租税法と市場. 有斐閣, 2014: 220.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名. 信玄公旗掛松事件(1919-03-03).</div>
+    <div class="csl-left-margin">[80]</div><div class="csl-right-inline">佚名. 信玄公旗掛松事件[Z](1919-03-03).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名. 約束手形金(1982-07-15).</div>
+    <div class="csl-left-margin">[81]</div><div class="csl-right-inline">佚名. 約束手形金[Z](1982-07-15).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[82]</div><div class="csl-right-inline">佚名. 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律[S]. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">佚名. 平成26年版犯罪白書.</div>
+    <div class="csl-left-margin">[83]</div><div class="csl-right-inline">佚名. 平成26年版犯罪白書[Z].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[84]</div><div class="csl-right-inline">佚名. ジュリスト[EB/OL].</div>
@@ -1056,10 +1056,10 @@
     <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Anonymous. Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry, 1981, 51(3): 391-402.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Anonymous. Archives of scientific psychology2018.</div>
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Anonymous. Archives of scientific psychology[Z]2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Anonymous. American psychologist2018.</div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Anonymous. American psychologist[Z]2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Mehrholz J, Pohl M, Platz T, et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke[J]. Cochrane Database of Systematic Reviews, 2018.</div>
@@ -1266,16 +1266,16 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate(2017-07-12/15).</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z](2017-07-12/15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children(2016-03-30/04-02).</div>
+    <div class="csl-left-margin">[85]</div><div class="csl-right-inline">Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z](2016-03-30/04-02).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women(2018-09-27/30).</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">Pearson J. Fat talk and its effects on state-based body image in women[Z](2018-09-27/30).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach(2018-04-26/29).</div>
+    <div class="csl-left-margin">[87]</div><div class="csl-right-inline">De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z](2018-04-26/29).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[88]</div><div class="csl-right-inline">Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.</div>
@@ -1290,7 +1290,7 @@
     <div class="csl-left-margin">[91]</div><div class="csl-right-inline">Mirabito L A, Heck N C. Bringing LGBTQ youth theater into the spotlight[J]. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(4): 499-500.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Anonymous. The year we thought about love2016.</div>
+    <div class="csl-left-margin">[92]</div><div class="csl-right-inline">Anonymous. The year we thought about love[Z]2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[93]</div><div class="csl-right-inline">Santos F. Reframing refugee children’s stories[N]. 2019-01-11.</div>
@@ -1302,25 +1302,25 @@
     <div class="csl-left-margin">[95]</div><div class="csl-right-inline">Perkins D. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL](2018-02-01).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Anonymous. Somewhere else2018.</div>
+    <div class="csl-left-margin">[96]</div><div class="csl-right-inline">Anonymous. Somewhere else[Z]2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective2016.</div>
+    <div class="csl-left-margin">[97]</div><div class="csl-right-inline">Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective[Z]2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">O’Shea M. Understanding proactive behavior in the workplace as a function of gender2018.</div>
+    <div class="csl-left-margin">[98]</div><div class="csl-right-inline">O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z]2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice2019.</div>
+    <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials. PsyArXiv, 20182018.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 20182018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise. PubMed Central, 20152015.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 20152015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H-K. Teacher preparation for early childhood special education in Taiwan. ERIC, 20142014.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H-K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 20142014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children[DS]. ICPSR, 20182018.</div>
@@ -1338,25 +1338,25 @@
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">Oregan Youth Authority. Recidivism outcomes[DS]2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[OL]. Biostat, 20142014.</div>
+    <div class="csl-left-margin">[108]</div><div class="csl-right-inline">Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[Z/OL]. Biostat, 20142014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[OL]2016.</div>
+    <div class="csl-left-margin">[109]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[Z/OL]2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[OL]2015.</div>
+    <div class="csl-left-margin">[110]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[Z/OL]2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[OL]. App Store, 20192019.</div>
+    <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[Z/OL]. App Store, 20192019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline. Google Play Store, 20192019.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[Z]. Google Play Store, 20192019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[Z].</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 20182018.</div>
@@ -1365,139 +1365,139 @@
     <div class="csl-left-margin">[116]</div><div class="csl-right-inline">Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI)[DS]. ETS TestLink, 20002000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Anonymous. One flew over the cuckoo’s nest. United Artists, 19751975.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">Anonymous. One flew over the cuckoo’s nest[Z]. United Artists, 19751975.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Anonymous. Accelerated experiental dynamic psychotherapy (AEDP) supervision[educational DVD]. American Pychological Association, 20172017.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Anonymous. Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z/educational DVD]. American Pychological Association, 20172017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Anonymous. The lord of the rings: The fellowship of the ring[four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company, 20012001.</div>
+    <div class="csl-left-margin">[119]</div><div class="csl-right-inline">Anonymous. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company, 20012001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Anonymous. Goodbye children. Nouvelles Éditions de Films, 19871987.</div>
+    <div class="csl-left-margin">[120]</div><div class="csl-right-inline">Anonymous. Goodbye children[Z]. Nouvelles Éditions de Films, 19871987.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Anonymous. The wire. Blown Deadline Productions; HBO, 2002/20082002/2008.</div>
+    <div class="csl-left-margin">[121]</div><div class="csl-right-inline">Anonymous. The wire[Z]. Blown Deadline Productions; HBO, 2002/20082002/2008.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Anonymous. Lemons: Season 3, Episode 12. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
+    <div class="csl-left-margin">[122]</div><div class="csl-right-inline">Anonymous. Lemons: Season 3, Episode 12[Z]. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017(2017-01-11).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Anonymous. Who shot Mr. Burns? (Part One): Season 6, Episode 25. Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21).</div>
+    <div class="csl-left-margin">[123]</div><div class="csl-right-inline">Anonymous. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]. Gracie Films; Twentieth Century Fox Film Corporation, 1995(1995-05-21).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Anonymous. Why you should make useless things. TED Conferences, 20182018.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">Anonymous. Why you should make useless things[Z]. TED Conferences, 20182018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Anonymous. Brené Brown: Listening to shame. YouTube, 2012(2012-03-16).</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">Anonymous. Brené Brown: Listening to shame[Z]. YouTube, 2012(2012-03-16).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Anonymous. Evaluating adverse drug effects. American Psychiatric Association, 20182018.</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">Anonymous. Evaluating adverse drug effects[Z]. American Psychiatric Association, 20182018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Anonymous. Happiness. Vimeo, 2017(2017-11-24).</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Anonymous. Happiness[Z]. Vimeo, 2017(2017-11-24).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. How to diagram a sentence (absolute basics). YouTube, 2016(2016-09-30).</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Anonymous. How to diagram a sentence (absolute basics)[Z]. YouTube, 2016(2016-09-30).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">Anonymous. How do geckos walk on water? YouTube, 2016(2016-12-06).</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">Anonymous. How do geckos walk on water?[Z]. YouTube, 2016(2016-12-06).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">Anonymous. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060. Decca, 20102010.</div>
+    <div class="csl-left-margin">[130]</div><div class="csl-right-inline">Anonymous. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca, 20102010.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">Bowie D. Blackstar. Columbia, 20162016.</div>
+    <div class="csl-left-margin">[131]</div><div class="csl-right-inline">Bowie D. Blackstar[Z]. Columbia, 20162016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Anonymous. Symphony No. 3 in E-flat major. Brilliant Classics, 20122012.</div>
+    <div class="csl-left-margin">[132]</div><div class="csl-right-inline">Anonymous. Symphony No. 3 in E-flat major[Z]. Brilliant Classics, 20122012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Beyoncé. Formation. Parkwood; Columbia, 20162016.</div>
+    <div class="csl-left-margin">[133]</div><div class="csl-right-inline">Beyoncé. Formation[Z]. Parkwood; Columbia, 20162016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">Childish Gambino. This is America. mcDJ; RCA, 20182018.</div>
+    <div class="csl-left-margin">[134]</div><div class="csl-right-inline">Childish Gambino. This is America[Z]. mcDJ; RCA, 20182018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Lamar K. Humble. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 20172017.</div>
+    <div class="csl-left-margin">[135]</div><div class="csl-right-inline">Lamar K. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 20172017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Vedantam S. Hidden brain. NPR, 20152015.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">Vedantam S. Hidden brain[Z]. NPR, 20152015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">Glass I. Amusement park: 443. WBEZ Chicago, 2011(2011-08-12).</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">Glass I. Amusement park: 443[Z]. WBEZ Chicago, 2011(2011-08-12).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">de Beauvoir S. Simone de Beauvoir discusses the art of writing(1960-05-04).</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z](1960-05-04).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">King M L Jr. I have a dream. American Rhetoric, 1963(1963-08-28).</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">King M L Jr. I have a dream[Z]. American Rhetoric, 1963(1963-08-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite1826/1827.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Delacroix E. Faust attempts to seduce Marguerite[Z]1826/1827.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic1930.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Wood G. American gothic[Z]1930.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic2018.</div>
+    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[Z]2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Rossman J, Palmer R. Sorting through our space junk2015.</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">Rossman J, Palmer R. Sorting through our space junk[Z]2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[144]</div><div class="csl-right-inline">Cable D. The racial dot map. University of Virginia: Weldon Cooper Center for Public Service, 20132013.</div>
+    <div class="csl-left-margin">[144]</div><div class="csl-right-inline">Cable D. The racial dot map[Z]. University of Virginia: Weldon Cooper Center for Public Service, 20132013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru.</div>
+    <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">McCurry S. Afghan girl1985.</div>
+    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">McCurry S. Afghan girl[Z]1985.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted2016.</div>
+    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[Z]2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E, Vasilev J. Lecture notes on resource allocation(2019-05-22).</div>
+    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">Canan E, Vasilev J. Lecture notes on resource allocation[Z](2019-05-22).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">Housand B. Game on! Integrating games and simulations in the classroom2016.</div>
+    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">Housand B. Game on! Integrating games and simulations in the classroom[Z]2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R, Spake G. Citing open source images and formatting references for presentations2018.</div>
+    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">Mack R, Spake G. Citing open source images and formatting references for presentations[Z]2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][OL](2018-06-29).</div>
+    <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][Z/OL](2018-06-29).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[152]</div><div class="csl-right-inline">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[OL](2018-02-26).</div>
+    <div class="csl-left-margin">[152]</div><div class="csl-right-inline">Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[Z/OL](2018-02-26).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">White B. I treasure every minute we spent together #koko [image attached][OL](2018-06-21).</div>
+    <div class="csl-left-margin">[153]</div><div class="csl-right-inline">White B. I treasure every minute we spent together #koko [image attached][Z/OL](2018-06-21).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[154]</div><div class="csl-right-inline">APA Style [@APA_Style]. Tweets[EB/OL].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[155]</div><div class="csl-right-inline">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][OL](2018-03-22).</div>
+    <div class="csl-left-margin">[155]</div><div class="csl-right-inline">Gaiman N. 100,000+ Rohingya refugees could be at serious risk during Bangladesh’s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is [Image attached][Z/OL](2018-03-22).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[156]</div><div class="csl-right-inline">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[OL](2018-11-28).</div>
+    <div class="csl-left-margin">[156]</div><div class="csl-right-inline">National Institute of Mental Health. Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain[Z/OL](2018-11-28).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[OL](2018-06-26).</div>
+    <div class="csl-left-margin">[157]</div><div class="csl-right-inline">News From Science. These frogs walk instead of hop. https://scimag.2KlriwH[Z/OL](2018-06-26).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[158]</div><div class="csl-right-inline">Smithsonian’s National Zoo and Conservation Biology Institute. Home[EB/OL].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[OL](2018-11-26).</div>
+    <div class="csl-left-margin">[159]</div><div class="csl-right-inline">Zeitz MOCAA [@zeitzmocaa]. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[Z/OL](2018-11-26).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[160]</div><div class="csl-right-inline">The New York Public Library [@nypl]. The raven[OL].</div>
+    <div class="csl-left-margin">[160]</div><div class="csl-right-inline">The New York Public Library [@nypl]. The raven[Z/OL].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[161]</div><div class="csl-right-inline">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![OL](2018-09-12).</div>
+    <div class="csl-left-margin">[161]</div><div class="csl-right-inline">National Aeronautics and Space Administration [@nasa]. I’m NASA Astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight![Z/OL](2018-09-12).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[162]</div><div class="csl-right-inline">Avramova N. The secret to a long, happy, health life? Think age-positive[EB/OL](2019-01-03).</div>
@@ -1524,25 +1524,25 @@
     <div class="csl-left-margin">[169]</div><div class="csl-right-inline">U.S. Census Bureau. U.S. and world population clock[EB/OL].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[170]</div><div class="csl-right-inline">Anonymous. Brown v. Board of Education1954.</div>
+    <div class="csl-left-margin">[170]</div><div class="csl-right-inline">Anonymous. Brown v. Board of Education[Z]1954.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Anonymous. Obergefell v. Hodges2015.</div>
+    <div class="csl-left-margin">[171]</div><div class="csl-right-inline">Anonymous. Obergefell v. Hodges[Z]2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Anonymous. Daubert v. Merrell Dow Pharmaceuticals, Inc.1991.</div>
+    <div class="csl-left-margin">[172]</div><div class="csl-right-inline">Anonymous. Daubert v. Merrell Dow Pharmaceuticals, Inc.[Z]1991.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Anonymous. Burriola v. Greater Toledo YMCA2001.</div>
+    <div class="csl-left-margin">[173]</div><div class="csl-right-inline">Anonymous. Burriola v. Greater Toledo YMCA[Z]2001.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[174]</div><div class="csl-right-inline">Anonymous. Durflinger v. Artiles1984.</div>
+    <div class="csl-left-margin">[174]</div><div class="csl-right-inline">Anonymous. Durflinger v. Artiles[Z]1984.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[175]</div><div class="csl-right-inline">Anonymous. Tarasoff v. Regents of the University of California1976.</div>
+    <div class="csl-left-margin">[175]</div><div class="csl-right-inline">Anonymous. Tarasoff v. Regents of the University of California[Z]1976.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[176]</div><div class="csl-right-inline">Anonymous. Texas v. Morales1992.</div>
+    <div class="csl-left-margin">[176]</div><div class="csl-right-inline">Anonymous. Texas v. Morales[Z]1992.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[177]</div><div class="csl-right-inline">Anonymous. American With Disabilities Act of 1990[S]//U.S.C, .</div>
@@ -1563,10 +1563,10 @@
     <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Anonymous. Florida Mental Health Act[S]//Fla. Stat., .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Anonymous. Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs2016.</div>
+    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Anonymous. Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z]2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Anonymous. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions2014.</div>
+    <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Anonymous. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[Z]2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[185]</div><div class="csl-right-inline">Anonymous. Mental Health on Campus Improvement Act: H.R. 1100[S]. , 2013.</div>
@@ -1578,16 +1578,16 @@
     <div class="csl-left-margin">[187]</div><div class="csl-right-inline">Anonymous. H.R. Rep. No. 114-358[R]. 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Anonymous. Protection of human subjects2009.</div>
+    <div class="csl-left-margin">[188]</div><div class="csl-right-inline">Anonymous. Protection of human subjects[Z]2009.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[189]</div><div class="csl-right-inline">Anonymous. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[S]//F.R., .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Anonymous. Exec. Order No. 13,6762014.</div>
+    <div class="csl-left-margin">[190]</div><div class="csl-right-inline">Anonymous. Exec. Order No. 13,676[Z]2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[191]</div><div class="csl-right-inline">Hiremath S C, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains: U.S.[P]. 2016.</div>
+    <div class="csl-left-margin">[191]</div><div class="csl-right-inline">Hiremath S C, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains[P]: U.S.[P]. 2016.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[192]</div><div class="csl-right-inline">Anonymous. U.S. Const. art. I, § 3[S]. .</div>
@@ -1608,7 +1608,7 @@
     <div class="csl-left-margin">[197]</div><div class="csl-right-inline">Anonymous. U.N. Charter art. 1, para. 3[S]. .</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[198]</div><div class="csl-right-inline">Anonymous. United nations convention on the rights of the child(1989-11-20).</div>
+    <div class="csl-left-margin">[198]</div><div class="csl-right-inline">Anonymous. United nations convention on the rights of the child[Z](1989-11-20).</div>
   </div>
 </div>
 

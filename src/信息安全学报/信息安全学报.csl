@@ -15,7 +15,7 @@
     <category field="engineering"/>
     <issn>2096-1146</issn>
     <summary>《信息安全学报》模板.doc（2016-01-23）</summary>
-    <updated>2025-04-19T23:05:38+08:00</updated>
+    <updated>2026-03-17T21:33:07+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -169,9 +169,7 @@
   <macro name="type-id">
     <choose>
       <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
-        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
-          article 为预印本，符合“科技档案”
-        -->
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。 -->
         <text value="EB"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">

@@ -13,7 +13,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <updated>2025-01-18T20:26:04+08:00</updated>
+    <updated>2026-03-17T21:41:57+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -83,9 +83,13 @@
   </macro>
   <macro name="type-id">
     <choose>
-      <if type="article-journal article-magazine" match="any">
-        <text value="J"/>
+      <if type="article">
+        <!-- 预印本使用“EB”（2005 和 2015 版国标） -->
+        <text value="EB"/>
       </if>
+      <else-if type="article-journal article-magazine" match="any">
+        <text value="J"/>
+      </else-if>
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>

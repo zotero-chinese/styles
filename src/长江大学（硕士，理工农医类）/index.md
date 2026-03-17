@@ -19,8 +19,8 @@
   <div class="csl-entry">[4] Veen P H van der, Muller M, Vincken K L, <i>et al.</i> Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
   <div class="csl-entry">[5] 汪学军. 中国农业转基因生物研发进展与安全管理[A]. 见: 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   <div class="csl-entry">[6] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[A]. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)[C]. 2022: 2.</div>
-  <div class="csl-entry">[7] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. 2024.</div>
-  <div class="csl-entry">[8] Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. 2012.</div>
+  <div class="csl-entry">[7] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. 2024.</div>
+  <div class="csl-entry">[8] Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. 2012.</div>
 </div>
 
 ## 默认测试
@@ -177,10 +177,10 @@
   <div class="csl-entry">[135] Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. 1980[2025-07-10] . <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.</div>
   <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. 2022[2024-11-25] . <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
   <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. 2021[2024-11-25] . <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
-  <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A]. 2023.</div>
-  <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. 2024.</div>
-  <div class="csl-entry">[140] Bloss C S, Wineinger N E, Peters M, <i>et al.</i> A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. 2015.</div>
-  <div class="csl-entry">[141] Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. 2012.</div>
+  <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. 2023.</div>
+  <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. 2024.</div>
+  <div class="csl-entry">[140] Bloss C S, Wineinger N E, Peters M, <i>et al.</i> A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. 2015.</div>
+  <div class="csl-entry">[141] Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. 2012.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -483,9 +483,9 @@
   <div class="csl-entry">[97] Yoo J, Miyamoto Y, Rigotti A, <i>et al.</i> Linking positive affect to blood lipids: A cultural perspective[Z]. 2016.</div>
   <div class="csl-entry">[98] O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z]. 2018.</div>
   <div class="csl-entry">[99] Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]. 2019.</div>
-  <div class="csl-entry">[100] Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials[A]. 2018.</div>
-  <div class="csl-entry">[101] Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[A]. 2015.</div>
-  <div class="csl-entry">[102] Ho H K. Teacher preparation for early childhood special education in Taiwan[A]. 2014.</div>
+  <div class="csl-entry">[100] Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials[EB]. 2018.</div>
+  <div class="csl-entry">[101] Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. 2015.</div>
+  <div class="csl-entry">[102] Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. 2014.</div>
   <div class="csl-entry">[103] D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. 2018.</div>
   <div class="csl-entry">[104] National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. 2016.</div>
   <div class="csl-entry">[105] Pew Research Center. American trends panel Wave 26[DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>

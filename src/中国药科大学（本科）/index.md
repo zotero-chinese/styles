@@ -471,16 +471,16 @@
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. <i>Global Burden of Disease Study 2019 (GBD2019) data resources</i> [DS/OL]. Global Health Data Exchange, 2021 [2024-11-25]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展 [A]. ChinaXiv, 2023.</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展 [EB]. ChinaXiv, 2023.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究 (Exploring statistical measurement methods for data elements) [A]. PSSXiv, 2024.</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究 (Exploring statistical measurement methods for data elements) [EB]. PSSXiv, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss CS, Wineinger NE, Peters M, <i>et al.</i> <i>A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</i> [A]. bioRxiv, 2015.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss CS, Wineinger NE, Peters M, <i>et al.</i> <i>A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors</i> [EB]. bioRxiv, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i> [A]. arXiv, 2012.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i> [EB]. arXiv, 2012.</div>
   </div>
 </div>
 
@@ -1317,13 +1317,13 @@
     <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T, Poindexter EK. <i>Emotion recognition as a function of facial cues: Implications for practice</i> [Z]. Department of Psychology, University of Washington, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> <i>When money talks: Judging risk and coercion in high-paying clinical trials</i> [A]. PsyArXiv, 2018.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> <i>When money talks: Judging risk and coercion in high-paying clinical trials</i> [EB]. PsyArXiv, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen MA, Sinha R. <i>The effects of stress on physical activity and exercise</i> [A]. PubMed Central, 2015.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen MA, Sinha R. <i>The effects of stress on physical activity and exercise</i> [EB]. PubMed Central, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho HK. <i>Teacher preparation for early childhood special education in Taiwan</i> [A]. ERIC, 2014.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho HK. <i>Teacher preparation for early childhood special education in Taiwan</i> [EB]. ERIC, 2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A, Wiseheart M. <i>Cognitive effects of music and dance training in children</i> [DS]. ICPSR, 2018.</div>

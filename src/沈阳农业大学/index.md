@@ -25,7 +25,7 @@
     <div class="csl-left-margin">1.</div><div class="csl-right-inline">汪学军. 2005. 中国农业转基因生物研发进展与安全管理[C]. 国家环境保护总局生物安全管理办公室, 编//中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22–25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[A]. PSSXiv, 2024(2024-07-02).</div>
+    <div class="csl-left-margin">2.</div><div class="csl-right-inline">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">3.</div><div class="csl-right-inline">扬奎斯特, 萨金特. 2010. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 严高剑, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
@@ -34,7 +34,7 @@
     <div class="csl-left-margin">4.</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）. 52(11): 1518–1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv, 2012(2012-03-18)</div>
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">6.</div><div class="csl-right-inline">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13</div>
@@ -117,7 +117,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">11.</div><div class="csl-right-inline">丁文详. 2000. 数字革命与竞争国际化[N]. 中国青年报. : 15.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">12.</div><div class="csl-right-inline">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv, 2023(2023-03-03).</div>
+    <div class="csl-left-margin">12.</div><div class="csl-right-inline">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023(2023-03-03).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">13.</div><div class="csl-right-inline">冯友兰. 2008. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序.</div>
@@ -240,7 +240,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">52.</div><div class="csl-right-inline">吴自银, 温珍河. 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">53.</div><div class="csl-right-inline">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[A]. PSSXiv, 2024(2024-07-02).</div>
+    <div class="csl-left-margin">53.</div><div class="csl-right-inline">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">54.</div><div class="csl-right-inline">肖希明, 石庆功, 刘奕. 2024. 民国图书馆学教育的社会贡献[C]//<i>纪念北京大学图书馆学教育100周年研讨会论文集</i>. 北京: 北京大学信息管理系, 2024: 134–147.</div>
@@ -318,7 +318,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">78.</div><div class="csl-right-inline">Bevington D, Brown JR. 2025. William Shakespeare[EB](2025-01-01)</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">79.</div><div class="csl-right-inline">Bloss CS, Wineinger NE, Peters M, Boeldt DL, Ariniello L, Kim JY, Sheard J, Komatireddy R, Barrett P, Topol EJ. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv, 2015(2015-10-28)</div>
+    <div class="csl-left-margin">79.</div><div class="csl-right-inline">Bloss CS, Wineinger NE, Peters M, Boeldt DL, Ariniello L, Kim JY, Sheard J, Komatireddy R, Barrett P, Topol EJ. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015(2015-10-28)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">80.</div><div class="csl-right-inline">Boobier T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35</div>
@@ -366,7 +366,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">94.</div><div class="csl-right-inline">ISO. 2019. Audit data collection[S]. </div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">95.</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv, 2012(2012-03-18)</div>
+    <div class="csl-left-margin">95.</div><div class="csl-right-inline">Jenkins SD, Ruostekoski J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18)</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">96.</div><div class="csl-right-inline">Kinchy A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50</div>
@@ -1248,7 +1248,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">68.</div><div class="csl-right-inline">Hiremath SC, Kumar S, Lu F, Salehi A. 2016. Using metaphors to present concepts across different intellectual domains[P]. 2016</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">69.</div><div class="csl-right-inline">Ho H-K. 2014. Teacher preparation for early childhood special education in Taiwan[A]. ERIC, 2014</div>
+    <div class="csl-left-margin">69.</div><div class="csl-right-inline">Ho H-K. 2014. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">70.</div><div class="csl-right-inline">Hollander MM. 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison.</div>
@@ -1278,7 +1278,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">78.</div><div class="csl-right-inline">Lamar K. 2017. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">79.</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, Pleskac TJ. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv, 2018</div>
+    <div class="csl-left-margin">79.</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, Pleskac TJ. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 2018</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">80.</div><div class="csl-right-inline">Lewin K. 1999. Group decision and social change[M]. Gold M, ed.//American Psychological Association, 1999: 265–284</div>
@@ -1407,7 +1407,7 @@ Qian et al （2009a）<br>
     <div class="csl-left-margin">121.</div><div class="csl-right-inline">SR Research. 2016. Eyelink 1000 plus[CP]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">122.</div><div class="csl-right-inline">Stults-Kolehmainen MA, Sinha R. 2015. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015</div>
+    <div class="csl-left-margin">122.</div><div class="csl-right-inline">Stults-Kolehmainen MA, Sinha R. 2015. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">123.</div><div class="csl-right-inline">Tactile Labs. 2015. Latero tactile display[CP]</div>
