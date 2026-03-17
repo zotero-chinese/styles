@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>大连海事大学博士毕业文格式规范20200407（写在前面，适用于大连海事学位论文格式）1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 纯电子资源显示引用日期和 URL；4. 无 DOI；5.图书显示所引用页码，zotero的图书条目的右侧“信息”栏 “其他”中需要输入“Pages：11-26”或者次选项“馆藏目录”需要手动写入引用页码，例66-69；6. 国外专利需要在“地点”手动写入国家，例如 US，中文则写入省份，例如 四川省；7.本csl在002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi上修改专利部分，并参考福建农林科技的图书页码 华中科技的专利部分。</summary>
-    <updated>2025-04-19T15:29:07+08:00</updated>
+    <updated>2026-03-17T21:41:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -98,17 +98,19 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
-        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
-          article 为预印本，符合“科技档案”
-        -->
-        <text value="A"/>
+      <if type="article">
+        <!-- 预印本使用“EB”（2005 和 2015 版国标） -->
+        <text value="EB"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
         <text value="J"/>
       </else-if>
       <else-if type="article-newspaper">
         <text value="N"/>
+      </else-if>
+      <else-if type="bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。 -->
+        <text value="A"/>
       </else-if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>

@@ -77,7 +77,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">程根伟. 1998年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京：科学出版社：32-36.</div>
   <div class="csl-entry">邓一刚. 全智能节电器：CN101106276A[P]. 2008-01-16.</div>
   <div class="csl-entry">丁文详. 数字革命与竞争国际化[N]. 中国青年报，2000-11-20（15）.</div>
-  <div class="csl-entry">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv.</div>
+  <div class="csl-entry">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv.</div>
   <div class="csl-entry">冯友兰. 冯友兰自选集[M]. 2 版. 北京：首都师范大学出版社：第1版自序.</div>
   <div class="csl-entry">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
   <div class="csl-entry">工业和信息化部. 信息技术  中文编码字符集：GB 18030—2022[S].</div>
@@ -121,7 +121,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">王利平, 王福新, 刘洪. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报，2024，45（增刊1）：730570.</div>
   <div class="csl-entry">王琦. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉：武汉大学：87.</div>
   <div class="csl-entry">吴自银, 温珍河. 中国南部海域海底地形图[CM]. 北京：科学出版社.</div>
-  <div class="csl-entry">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv.</div>
+  <div class="csl-entry">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv.</div>
   <div class="csl-entry">肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集. 北京：北京大学信息管理系：134-147.</div>
   <div class="csl-entry">徐建委. 历史的起点：《史记》中的时间设置及其意义[J]. 北京大学学报（哲学社会科学版），2025，62（2）：117-127.</div>
   <div class="csl-entry">许振超. “好好干，当一个好工人”[EB/OL]. （2025-02-17）[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>

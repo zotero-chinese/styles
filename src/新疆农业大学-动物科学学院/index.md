@@ -22,7 +22,7 @@
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[Z]. arXiv, 2012(2012-03-18).</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
@@ -37,7 +37,7 @@
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[A]. 中国国家生物安全框架实施国际合作项目研讨会论文集[C]. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[Z]. PSSXiv, 2024(2024-07-02).</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[7]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 2. 北京: 中国人民大学出版社, 2010.</div>
@@ -129,7 +129,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Bevington D, Brown J R. William Shakespeare[Z](2025-01-01).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[Z]. bioRxiv, 2015(2015-10-28).</div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015(2015-10-28).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020.</div>
@@ -174,7 +174,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[30]</div><div class="csl-right-inline">ISO. Audit data collection: ISO 21378:2019[S]. , 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[Z]. arXiv, 2012(2012-03-18).</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012(2012-03-18).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[32]</div><div class="csl-right-inline">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012.</div>
@@ -279,7 +279,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[65]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化[N]. 2000-11-20(15).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[Z]. ChinaXiv, 2023(2023-03-03).</div>
+    <div class="csl-left-margin">[66]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023(2023-03-03).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[67]</div><div class="csl-right-inline">冯友兰. 冯友兰自选集[M]. 2. 北京: 首都师范大学出版社, 2008.</div>
@@ -399,7 +399,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">吴自银, 温珍河. 中国南部海域海底地形图[Z]. 北京: 科学出版社, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[Z]. PSSXiv, 2024(2024-07-02).</div>
+    <div class="csl-left-margin">[106]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024(2024-07-02).</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[107]</div><div class="csl-right-inline">肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[A]. 纪念北京大学图书馆学教育100周年研讨会论文集[C]. 北京: 北京大学信息管理系, 2024: 134-147.</div>
@@ -1425,7 +1425,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[127]</div><div class="csl-right-inline">Hiremath S C, Kumar S, Lu F, et al. Using metaphors to present concepts across different intellectual domains[P]. U.S. 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Ho H-K. Teacher preparation for early childhood special education in Taiwan[Z]. ERIC, 2014.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">Ho H-K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[129]</div><div class="csl-right-inline">Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]. University of Wisconsin–Madison. 2017.</div>
@@ -1455,7 +1455,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">Lamar K. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[Z]. PsyArXiv, 2018.</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 2018.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[139]</div><div class="csl-right-inline">Lewin K. Group decision and social change[A]. The complete social scientist: A Kurt Lewin readerAmerican Psychological Association, 1999: 265-284.</div>
@@ -1584,7 +1584,7 @@ Qian等 （2009b）<br>
     <div class="csl-left-margin">[180]</div><div class="csl-right-inline">SR Research. Eyelink 1000 plus[Z].</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[Z]. PubMed Central, 2015.</div>
+    <div class="csl-left-margin">[181]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Tactile Labs. Latero tactile display[Z].</div>

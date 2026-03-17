@@ -936,7 +936,7 @@
   <div class="csl-entry">[97]	Yoo J, Miyamoto Y, Rigotti A, <i>et al.</i> Linking positive affect to blood lipids: A cultural perspective[M]. Department of Psychology, University of Wisconsin-Madison, 2016.</div>
   <div class="csl-entry">[98]	O’Shea M. Understanding proactive behavior in the workplace as a function of gender[M]. Department of Management, University of Kansas, 2018.</div>
   <div class="csl-entry">[99]	Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[M]. Department of Psychology, University of Washington, 2019.</div>
-  <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials[M]. PsyArXiv, 2018.</div>
+  <div class="csl-entry">[100]	Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 2018.</div>
   <div class="csl-entry">[101]	Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015.</div>
   <div class="csl-entry">[102]	Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.</div>
   <div class="csl-entry">[103]	D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018.</div>

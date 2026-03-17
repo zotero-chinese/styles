@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="science"/>
     <summary>1. 无 DOI；2. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。</summary>
-    <updated>2025-04-19T23:05:38+08:00</updated>
+    <updated>2026-03-17T21:41:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -134,11 +134,9 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="article collection hearing legal_case legislation regulation treaty" match="any">
-        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。
-          article 为预印本，符合“科技档案”
-        -->
-        <text value="A"/>
+      <if type="article">
+        <!-- 预印本使用“EB”（2005 和 2015 版国标） -->
+        <text value="EB"/>
       </if>
       <else-if type="article-journal article-magazine periodical" match="any">
         <text value="J"/>
@@ -151,6 +149,10 @@
       </else-if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
+      </else-if>
+      <else-if type="collection hearing legal_case legislation regulation treaty" match="any">
+        <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。 -->
+        <text value="A"/>
       </else-if>
       <else-if type="dataset">
         <text value="DS"/>

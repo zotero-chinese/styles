@@ -24,8 +24,8 @@
   <div class="csl-entry">于潇, 刘义, 柴跃廷, 等, 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 52(11): 1518-1523.</div>
   <div class="csl-entry">扬奎斯特, 萨金特, 2010. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社: 798.</div>
   <div class="csl-entry">汪学军, 2005. 中国农业转基因生物研发进展与安全管理[C] //国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
-  <div class="csl-entry">肖玲, 张雪, 王永, 2024. 数据要素的统计测算方法探究[A]. PSSXiv.</div>
-  <div class="csl-entry">JENKINS S D, RUOSTEKOSKI J, 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice [A]. arXiv.</div>
+  <div class="csl-entry">肖玲, 张雪, 王永, 2024. 数据要素的统计测算方法探究[EB]. PSSXiv.</div>
+  <div class="csl-entry">JENKINS S D, RUOSTEKOSKI J, 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice [EB]. arXiv.</div>
   <div class="csl-entry">PRAETZELLIS A, 2011. Death by Theory: A Tale of Mystery and Archaeological Theory [M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
   <div class="csl-entry">VEEN P H van der, MULLER M, VINCKEN K L, <i>et al</i>, 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study [J]. Journal of the Neurological Sciences, 337(1/2): 112-118.</div>
   <div class="csl-entry">WANG S, 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers [C] // 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>
@@ -83,7 +83,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院, 2009. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社.</div>
   <div class="csl-entry">井丽南, 2022. 支持状态可编程的SDN交换机关键技术研究[D]. 北京: 中国科学院大学: 43.</div>
   <div class="csl-entry">仉尚航, 2024. 开放世界中的实体基础模型[EB/OL]. (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.</div>
-  <div class="csl-entry">方向明, 曹迎杰, 2023. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv.</div>
+  <div class="csl-entry">方向明, 曹迎杰, 2023. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv.</div>
   <div class="csl-entry">牛永敢, 孔晓, 王阳, 等, 2019. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社: 65-66.</div>
   <div class="csl-entry">牛志明, SWINGLAND I R, 雷光春, 2012. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社.</div>
   <div class="csl-entry">王夫之, 1865. 宋论[M]. 刻本. 金陵: 湘乡曾国荃.</div>
@@ -118,7 +118,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">杨洪升, 2013. 四库馆私家抄校书考略[J]. 文献(1): 56-75.</div>
   <div class="csl-entry">汪学军, 2005. 中国农业转基因生物研发进展与安全管理[C] //国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
   <div class="csl-entry">肖希明, 石庆功, 刘奕, 2024. 民国图书馆学教育的社会贡献[C] //纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系: 134-147.</div>
-  <div class="csl-entry">肖玲, 张雪, 王永, 2024. 数据要素的统计测算方法探究[A]. PSSXiv.</div>
+  <div class="csl-entry">肖玲, 张雪, 王永, 2024. 数据要素的统计测算方法探究[EB]. PSSXiv.</div>
   <div class="csl-entry">周壮, 李盛阳, 吴薇, 等, 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
   <div class="csl-entry">国家测绘地理信息局, [2025]. 一带一路经济走廊及其途经城市分布地势图[CM].</div>
   <div class="csl-entry">国家能源局, 2020. 水电工程水温实时监测系统技术规范: NB/T 10386—2020[S].</div>
@@ -167,7 +167,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">ANTÓNIO M, PEPPER L, 2019. Histórias de Portugal: livros caídos [EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   <div class="csl-entry">BABU B V, NAGAR A, DEEP K, <i>et al</i>, 2014. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012 [M]. New Delhi: Springer.</div>
   <div class="csl-entry">BEVINGTON D, BROWN J R, 2025. William Shakespeare [EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
-  <div class="csl-entry">BLOSS C S, WINEINGER N E, PETERS M, <i>et al</i>, 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors [A]. bioRxiv.</div>
+  <div class="csl-entry">BLOSS C S, WINEINGER N E, PETERS M, <i>et al</i>, 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors [EB]. bioRxiv.</div>
   <div class="csl-entry">BOOBIER T, 2020. AI and the Future of Banking [M]. Chichester: John Wiley &#38; Sons: 35.</div>
   <div class="csl-entry">CAIRNS B R, 1965. Infrared Spectroscopic Studies on Solid Oxygen [D]. Berkeley: University of California: 15.</div>
   <div class="csl-entry">CALKIN D E, AGER A A, THOMPSON M P, 2011. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report: RMRS-GTR-262 [R]. 8-9.</div>
@@ -184,7 +184,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021. Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021 [S]. New York: IEEE.</div>
   <div class="csl-entry">International Organization for Standardization, [2020]. ISO homepage [EB/OL]. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   <div class="csl-entry">ISO, 2019. Audit data collection: ISO 21378:2019 [S].</div>
-  <div class="csl-entry">JENKINS S D, RUOSTEKOSKI J, 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice [A]. arXiv.</div>
+  <div class="csl-entry">JENKINS S D, RUOSTEKOSKI J, 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice [EB]. arXiv.</div>
   <div class="csl-entry">KINCHY A, 2012. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops [M]. Cambridge, Mass.: MIT Press: 50.</div>
   <div class="csl-entry">MYBURG A A, GRATTAPAGLIA D, TUSKAN G A, <i>et al</i>, 2014. The genome of <i>Eucalyptus grandis</i> [J]. Nature, 510: 356-362.</div>
   <div class="csl-entry">PARK J R, TOSAKA Y, 2010. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms [J]. Cataloging &#38; Classification Quarterly, 48(8): 696-715.</div>
@@ -524,7 +524,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">HEIDEGGER M, 2008. On the essence of truth [M]. SALLIS J, trans. // KRELL D F. Basic writings. Harper Perennial Modern Thought: 111-138.</div>
   <div class="csl-entry">HESS A, 2019. Cats who take direction [N]. The New York Times, 2019-01-03(C1).</div>
   <div class="csl-entry">HIREMATH S C, KUMAR S, LU F, <i>et al</i>, 2016. Using metaphors to present concepts across different intellectual domains: 9,367,592 [P]. 2016.</div>
-  <div class="csl-entry">HO H K, 2014. Teacher preparation for early childhood special education in Taiwan [A]. ERIC.</div>
+  <div class="csl-entry">HO H K, 2014. Teacher preparation for early childhood special education in Taiwan [EB]. ERIC.</div>
   <div class="csl-entry">HOLLANDER M M, 2017. Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment: 10289373 [D]. University of Wisconsin–Madison.</div>
   <div class="csl-entry">HOUSAND B, 2016. Game on! Integrating games and simulations in the classroom [Z]. SlideShare.</div>
   <div class="csl-entry">HUESTEGGE S M, RAETTIG T, HUESTEGGE L, 2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing [J]. Experimental Psychology.</div>
@@ -535,7 +535,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">KLYMKOWSKY M, 2018. Can we talk scientifically about free will? [EB/OL]. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
   <div class="csl-entry">KS in NJ, 2019. From this article, it sounds like men are figuring something out that women have known forever. I know of many [N]. The Washington Post, 2019-01-15.</div>
   <div class="csl-entry">LAMAR K, 2017. Humble [Z] // Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment.</div>
-  <div class="csl-entry">LEUKER C, SAMARTZIDIS L, HERTWIG R, <i>et al</i>, 2018. When money talks: Judging risk and coercion in high-paying clinical trials [A]. PsyArXiv.</div>
+  <div class="csl-entry">LEUKER C, SAMARTZIDIS L, HERTWIG R, <i>et al</i>, 2018. When money talks: Judging risk and coercion in high-paying clinical trials [EB]. PsyArXiv.</div>
   <div class="csl-entry">LEWIN K, 1999. Group decision and social change [M] // GOLD M. The complete social scientist: A Kurt Lewin reader. American Psychological Association: 265-284.</div>
   <div class="csl-entry">LICHTENSTEIN J, 2013. Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses: 1 [R]. U.S. Small Business Administration, Office of Advocacy.</div>
   <div class="csl-entry">LILIENFELD S O, 2018. Archives of scientific psychology: Heterodox issues in psychology [J]. 2018, 6(1). 51-104.</div>
@@ -586,7 +586,7 @@ Qian et al (2009b)<br>
   <div class="csl-entry">SHORE M F, 2014. Marking time in the land of plenty: Reflections on mental health in the United States [J]. American Journal of Orthopsychiatry, 84(6): 611-618.</div>
   <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute, [2019]. Home [EB/OL]. [2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
   <div class="csl-entry">SR Research, 2016. Eyelink 1000 plus [CP/OL]. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
-  <div class="csl-entry">STULTS-KOLEHMAINEN M A, SINHA R, 2015. The effects of stress on physical activity and exercise [A]. PubMed Central.</div>
+  <div class="csl-entry">STULTS-KOLEHMAINEN M A, SINHA R, 2015. The effects of stress on physical activity and exercise [EB]. PubMed Central.</div>
   <div class="csl-entry">Tactile Labs, 2015. Latero tactile display [CP/OL]. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">TAFOYA N, DEL VECCHIO A, 2005. Back to the future: An examination of the Native American Holocaust experience [M] // MCGOLDRICK M, GIORDANO J, GARCIA-PRETO N. Ethnicity and family therapy. 3rd ed. Guilford Press: 55-63.</div>
   <div class="csl-entry">TED, 2012. Brené Brown: Listening to shame [Z]. YouTube.</div>

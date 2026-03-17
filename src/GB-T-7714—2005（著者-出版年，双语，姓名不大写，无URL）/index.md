@@ -535,7 +535,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Klymkowsky M. 2018. Can we talk scientifically about free will?[EB/OL]. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
   <div class="csl-entry">KS in NJ. 2019. From this article, it sounds like men are figuring something out that women have known forever. I know of many[N]. The Washington Post, 2019-01-15.</div>
   <div class="csl-entry">Lamar K. 2017. Humble[M]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment.</div>
-  <div class="csl-entry">Leuker C, Samartzidis L, Hertwig R, et al. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[M]. PsyArXiv.</div>
+  <div class="csl-entry">Leuker C, Samartzidis L, Hertwig R, et al. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv.</div>
   <div class="csl-entry">Lewin K. 1999. Group decision and social change[M]//Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association: 265-284.</div>
   <div class="csl-entry">Lichtenstein J. 2013. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy.</div>
   <div class="csl-entry">Lilienfeld S O. 2018. Archives of scientific psychology: Heterodox issues in psychology[J]. 2018, 6(1). 51-104.</div>

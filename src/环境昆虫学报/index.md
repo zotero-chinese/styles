@@ -21,13 +21,13 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Jenkins SD, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv, 2012.</div>
+  <div class="csl-entry">Jenkins SD, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012.</div>
   <div class="csl-entry">Ljungqvist L, Sargent TJ. Recursive macroeconomic theory[M]. Beijing: China Renmin University Press, 2010: 798.［扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798］</div>
   <div class="csl-entry">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   <div class="csl-entry">Veen PH van der, Muller M, Vincken KL, <i>et al.</i> Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. <i>Journal of the Neurological Sciences</i>, 2014, 337(1/2): 112-118.</div>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
   <div class="csl-entry">Wang XJ. Progress and safety management of genetically modified organism research and development in China[C]. In: Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25.［汪学军. 中国农业转基因生物研发进展与安全管理[C]. 见: 国家环境保护总局生物安全管理办公室, 主编. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25］</div>
-  <div class="csl-entry">Xiao L, Zhang X, Wang Y. Exploring statistical measurement methods for data elements[A]. PSSXiv, 2024.［肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv, 2024］</div>
+  <div class="csl-entry">Xiao L, Zhang X, Wang Y. Exploring statistical measurement methods for data elements[EB]. PSSXiv, 2024.［肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024］</div>
   <div class="csl-entry">Yu X, Liu Y, Chai YT, <i>et al.</i> The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment[J]. <i>Journal of Tsinghua University (Science and Technology)</i>, 2012, 52(11): 1518-1523.［于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523］</div>
 </div>
 
@@ -78,7 +78,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">[M]. In. 1999: 32-36.［程根伟. 1998年长江洪水的成因与减灾对策[M]. 见: 许厚泽, 赵其国, 主编. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36］</div>
   <div class="csl-entry">CN101106276A[P]. 2008-01-16.［邓一刚. 全智能节电器: CN101106276A[P]. 2008-01-16］</div>
   <div class="csl-entry">[N]. 2000-11-20(15).［丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15)］</div>
-  <div class="csl-entry">[A]. 2023.［方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv, 2023］</div>
+  <div class="csl-entry">[EB]. 2023.［方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023］</div>
   <div class="csl-entry">[M]. 2008: 第1版自序.［冯友兰. 冯友兰自选集[M]. 2 版. 北京: 首都师范大学出版社, 2008: 第1版自序］</div>
   <div class="csl-entry">[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.［高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>］</div>
   <div class="csl-entry">GB 18030—2022[S]. 2022.［工业和信息化部. 信息技术  中文编码字符集: GB 18030—2022[S]. 2022］</div>
@@ -141,7 +141,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications: AIAA G-136-2022[S].</div>
   <div class="csl-entry">António M, Pepper L. Histórias de Portugal: livros caídos[EB/OL]. (2019-07-13)[2025-01-02]. <a href="https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731">https://arquivo.pt/wayback/20190905210731/http://publico.pt/2019/07/13/sociedade/noticia/podcast-historias-portugal-cuidadores-1879731</a>.</div>
   <div class="csl-entry">Bevington D, Brown JR. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.</div>
-  <div class="csl-entry">Bloss CS, Wineinger NE, Peters M, <i>et al.</i> A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv, 2015.</div>
+  <div class="csl-entry">Bloss CS, Wineinger NE, Peters M, <i>et al.</i> A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015.</div>
   <div class="csl-entry">Boobier T. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons, 2020: 35.</div>
   <div class="csl-entry">Cairns BR. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: University of California, 1965: 15.</div>
   <div class="csl-entry">Calkin DE, Ager AA, Thompson MP. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.</div>
@@ -157,7 +157,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">International Electrotechnical Commission (IEC). Software interface for maintenance information collection and analysis (SIMICA): exchanging test results and session information via the eXtensible Markup Language (XML): IEC/IEEE 61636-1:2021[S]. New York: IEEE, 2021.</div>
   <div class="csl-entry">International Organization for Standardization. ISO homepage[EB/OL]. [2020-10-06]. <a href="https://www.iso.org/home.html">https://www.iso.org/home.html</a>.</div>
   <div class="csl-entry">ISO. Audit data collection: ISO 21378:2019[S]. 2019.</div>
-  <div class="csl-entry">Jenkins SD, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv, 2012.</div>
+  <div class="csl-entry">Jenkins SD, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012.</div>
   <div class="csl-entry">Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.</div>
   <div class="csl-entry">Ljungqvist L, Sargent TJ. Recursive macroeconomic theory[M]. Beijing: China Renmin University Press, 2010: 798.［扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798］</div>
   <div class="csl-entry">Myburg AA, Grattapaglia D, Tuskan GA, <i>et al.</i> The genome of <i>Eucalyptus grandis</i>[J]. <i>Nature</i>, 2014, 510: 356-362.</div>
@@ -177,7 +177,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]. In: 2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
   <div class="csl-entry">Wang XJ. Progress and safety management of genetically modified organism research and development in China[C]. In: Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25.［汪学军. 中国农业转基因生物研发进展与安全管理[C]. 见: 国家环境保护总局生物安全管理办公室, 主编. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25］</div>
   <div class="csl-entry">Weinstein L, Swartz MN. Pathogenic properties of invading microorganisms[M]. In: Sodeman WA Jr, Sodeman WA, eds. Pathologic physiology: mechanisms of disease. 5th ed. Philadelphia: Saunders, 1974: 457-472.</div>
-  <div class="csl-entry">Xiao L, Zhang X, Wang Y. Exploring statistical measurement methods for data elements[A]. PSSXiv, 2024.［肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv, 2024］</div>
+  <div class="csl-entry">Xiao L, Zhang X, Wang Y. Exploring statistical measurement methods for data elements[EB]. PSSXiv, 2024.［肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024］</div>
   <div class="csl-entry">Yu X, Liu Y, Chai YT, <i>et al.</i> The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment[J]. <i>Journal of Tsinghua University (Science and Technology)</i>, 2012, 52(11): 1518-1523.［于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523］</div>
   <div class="csl-entry">Yu Y, Pan E, Wang X, <i>et al.</i> Unmixing before fusion: a generalized paradigm for multi-source-based hyperspectral image synthesis[C]. In: CVPR. 2024: 4.</div>
   <div class="csl-entry">Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
@@ -479,7 +479,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Heidegger M. On the essence of truth[M]. Sallis J, trans. In: Krell DF, ed. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   <div class="csl-entry">Hess A. Cats who take direction[N]. <i>The New York Times</i>, 2019-01-03(C1).</div>
   <div class="csl-entry">Hiremath SC, Kumar S, Lu F, <i>et al.</i> Using metaphors to present concepts across different intellectual domains: 9,367,592[P]. 2016.</div>
-  <div class="csl-entry">Ho HK. Teacher preparation for early childhood special education in Taiwan[A]. ERIC, 2014.</div>
+  <div class="csl-entry">Ho HK. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.</div>
   <div class="csl-entry">Hollander MM. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.</div>
   <div class="csl-entry">Housand B. Game on! Integrating games and simulations in the classroom[Z]. SlideShare, 2016.</div>
   <div class="csl-entry">Huestegge SM, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. <i>Experimental Psychology</i>, 2019.</div>
@@ -489,7 +489,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Klymkowsky M. Can we talk scientifically about free will?[EB/OL]. (2018-09-15). <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.</div>
   <div class="csl-entry">KS in NJ. From this article, it sounds like men are figuring something out that women have known forever. I know of many[N]. <i>The Washington Post</i>, 2019-01-15.</div>
   <div class="csl-entry">Lamar K. Humble[Z]. In: Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
-  <div class="csl-entry">Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv, 2018.</div>
+  <div class="csl-entry">Leuker C, Samartzidis L, Hertwig R, <i>et al.</i> When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 2018.</div>
   <div class="csl-entry">Lewin K. Group decision and social change[M]. In: Gold M, ed. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
   <div class="csl-entry">Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.</div>
   <div class="csl-entry">Lippincott T, Poindexter EK. Emotion recognition as a function of facial cues: Implications for practice[Z]. Department of Psychology, University of Washington, 2019.</div>
@@ -532,7 +532,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Shore MF. Marking time in the land of plenty: Reflections on mental health in the United States[J]. <i>American Journal of Orthopsychiatry</i>, 2014, 84(6): 611-618.</div>
   <div class="csl-entry">Smithsonian’s National Zoo and Conservation Biology Institute. Home[EB/OL]. [2019-07-22]. <a href="https://www.facebookcom/nationalzoo">https://www.facebookcom/nationalzoo</a>.</div>
   <div class="csl-entry">SR Research. Eyelink 1000 plus[CP/OL]. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.</div>
-  <div class="csl-entry">Stults-Kolehmainen MA, Sinha R. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015.</div>
+  <div class="csl-entry">Stults-Kolehmainen MA, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015.</div>
   <div class="csl-entry">Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.</div>
   <div class="csl-entry">Tafoya N, Del Vecchio A. Back to the future: An examination of the Native American Holocaust experience[M]. In: McGoldrick M, Giordano J, Garcia-Preto N, eds. Ethnicity and family therapy. 3rd ed. Guilford Press, 2005: 55-63.</div>
   <div class="csl-entry">Tellegen A, Ben-Porath YS. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>

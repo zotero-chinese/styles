@@ -24,8 +24,8 @@
   <div class="csl-entry">[1]	汪学军. 2005. 中国农业转基因生物研发进展与安全管理[C]. 国家环境保护总局生物安全管理办公室, ed.//中国国家生物安全框架实施国际合作项目研讨会论文集北京: 中国环境科学出版社，2005年.
     <div class="csl-block">WANG X J. 2005. Progress and safety management of genetically modified organism research and development in China[C]. 国家环境保护总局生物安全管理办公室, ed.//Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar北京: 中国环境科学出版社，2005年 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[2]	肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[A]. PSSXiv(2024-07-02).
-    <div class="csl-block">XIAO L, ZHANG X, WANG Y. 2024. Exploring statistical measurement methods for data elements[A]. PSSXiv(2024-07-02) (In Chinese)</div>
+  <div class="csl-entry">[2]	肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[EB]. PSSXiv(2024-07-02).
+    <div class="csl-block">XIAO L, ZHANG X, WANG Y. 2024. Exploring statistical measurement methods for data elements[EB]. PSSXiv(2024-07-02) (In Chinese)</div>
   </div>
   <div class="csl-entry">[3]	扬奎斯特, 萨金特. 2010. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 严高剑, trans.. 2 edition. 北京: 中国人民大学出版社，2010年.
     <div class="csl-block">LJUNGQVIST L, SARGENT T J. 2010. Recursive macroeconomic theory[M]. 杨斌, 王忠玉, 陈彦斌, 严高剑, trans.. 2 edition. 北京: 中国人民大学出版社，2010年 (In Chinese)</div>
@@ -33,8 +33,8 @@
   <div class="csl-entry">[4]	于潇, 刘义, 柴跃廷, 孙宏波. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]，清华大学学报（自然科学版）, 52(11): 1518-1523. .
     <div class="csl-block">YU X, LIU Y, CHAI Y T, et al. 2012. The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment[J]，Journal of Tsinghua University (Science and Technology), 52(11): 1518-1523. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[5]	JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv(2012-03-18).
-    <div class="csl-block">JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv(2012-03-18) (In Chinese)</div>
+  <div class="csl-entry">[5]	JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv(2012-03-18).
+    <div class="csl-block">JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv(2012-03-18) (In Chinese)</div>
   </div>
   <div class="csl-entry">[6]	PRAETZELLIS A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.，2011年.
     <div class="csl-block">PRAETZELLIS A. 2011. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. edition. Rowman &#38; Littlefield Publishing Group, Inc.，2011年 (In Chinese)</div>
@@ -116,8 +116,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[11]	丁文详. 2000. 数字革命与竞争国际化[N]，中国青年报, : 15. .
     <div class="csl-block">丁文详. 2000. 数字革命与竞争国际化[N]，中国青年报, : 15. (In Chinese)</div>
   </div>
-  <div class="csl-entry">[12]	方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv(2023-03-03).
-    <div class="csl-block">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv(2023-03-03) (In Chinese)</div>
+  <div class="csl-entry">[12]	方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv(2023-03-03).
+    <div class="csl-block">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv(2023-03-03) (In Chinese)</div>
   </div>
   <div class="csl-entry">[13]	冯友兰. 2008. 冯友兰自选集[M]. 2 edition. 北京: 首都师范大学出版社，2008年.
     <div class="csl-block">冯友兰. 2008. 冯友兰自选集[M]. 2 edition. 北京: 首都师范大学出版社，2008年 (In Chinese)</div>
@@ -239,8 +239,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[52]	吴自银, 温珍河. 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社.
     <div class="csl-block">吴自银, 温珍河. 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[53]	肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[A]. PSSXiv(2024-07-02).
-    <div class="csl-block">XIAO L, ZHANG X, WANG Y. 2024. Exploring statistical measurement methods for data elements[A]. PSSXiv(2024-07-02) (In Chinese)</div>
+  <div class="csl-entry">[53]	肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[EB]. PSSXiv(2024-07-02).
+    <div class="csl-block">XIAO L, ZHANG X, WANG Y. 2024. Exploring statistical measurement methods for data elements[EB]. PSSXiv(2024-07-02) (In Chinese)</div>
   </div>
   <div class="csl-entry">[54]	肖希明, 石庆功, 刘奕. 2024. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集北京: 北京大学信息管理系，2024年.
     <div class="csl-block">肖希明, 石庆功, 刘奕. 2024. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集北京: 北京大学信息管理系，2024年 (In Chinese)</div>
@@ -395,8 +395,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[104]	BEVINGTON D, BROWN J R. 2025. William Shakespeare[EB/OL](2025-01-01).
     <div class="csl-block">BEVINGTON D, BROWN J R. 2025. William Shakespeare[EB/OL](2025-01-01) (In Chinese)</div>
   </div>
-  <div class="csl-entry">[105]	BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv(2015-10-28).
-    <div class="csl-block">BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv(2015-10-28) (In Chinese)</div>
+  <div class="csl-entry">[105]	BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv(2015-10-28).
+    <div class="csl-block">BLOSS C S, WINEINGER N E, PETERS M, BOELDT D L, ARINIELLO L, KIM J Y, SHEARD J, KOMATIREDDY R, BARRETT P, TOPOL E J. 2015. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv(2015-10-28) (In Chinese)</div>
   </div>
   <div class="csl-entry">[106]	BOOBIER T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons，2020年.
     <div class="csl-block">BOOBIER T. 2020. AI and the future of banking[M]. Chichester: John Wiley &#38; Sons，2020年 (In Chinese)</div>
@@ -441,8 +441,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[120]	ISO. 2019. Audit data collection[S]. .
     <div class="csl-block">ISO. 2019. Audit data collection[S].  (In Chinese)</div>
   </div>
-  <div class="csl-entry">[121]	JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv(2012-03-18).
-    <div class="csl-block">JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv(2012-03-18) (In Chinese)</div>
+  <div class="csl-entry">[121]	JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv(2012-03-18).
+    <div class="csl-block">JENKINS S D, RUOSTEKOSKI J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv(2012-03-18) (In Chinese)</div>
   </div>
   <div class="csl-entry">[122]	KINCHY A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press，2012年.
     <div class="csl-block">KINCHY A. 2012. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press，2012年 (In Chinese)</div>
@@ -1420,8 +1420,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[127]	HIREMATH S C, KUMAR S, LU F, SALEHI A. 2016. Using metaphors to present concepts across different intellectual domains[P]. 2016.
     <div class="csl-block">HIREMATH S C, KUMAR S, LU F, SALEHI A. 2016. Using metaphors to present concepts across different intellectual domains[P]. 2016 (In Chinese)</div>
   </div>
-  <div class="csl-entry">[128]	HO H-K. 2014. Teacher preparation for early childhood special education in Taiwan[A]. ERIC.
-    <div class="csl-block">HO H-K. 2014. Teacher preparation for early childhood special education in Taiwan[A]. ERIC (In Chinese)</div>
+  <div class="csl-entry">[128]	HO H-K. 2014. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC.
+    <div class="csl-block">HO H-K. 2014. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC (In Chinese)</div>
   </div>
   <div class="csl-entry">[129]	HOLLANDER M M. 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]，University of Wisconsin–MadisonDoctoral dissertation学位论文，2017年.
     <div class="csl-block">HOLLANDER M M. 2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment[D]，University of Wisconsin–MadisonDoctoral dissertation学位论文，2017年 (In Chinese)</div>
@@ -1450,8 +1450,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[137]	LAMAR K. 2017. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment.
     <div class="csl-block">LAMAR K. 2017. Humble[Z]. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment (In Chinese)</div>
   </div>
-  <div class="csl-entry">[138]	LEUKER C, SAMARTZIDIS L, HERTWIG R, PLESKAC T J. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv.
-    <div class="csl-block">LEUKER C, SAMARTZIDIS L, HERTWIG R, PLESKAC T J. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv (In Chinese)</div>
+  <div class="csl-entry">[138]	LEUKER C, SAMARTZIDIS L, HERTWIG R, PLESKAC T J. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv.
+    <div class="csl-block">LEUKER C, SAMARTZIDIS L, HERTWIG R, PLESKAC T J. 2018. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv (In Chinese)</div>
   </div>
   <div class="csl-entry">[139]	LEWIN K. 1999. Group decision and social change[M]. Gold M, ed.//The complete social scientist: A Kurt Lewin readerAmerican Psychological Association，1999年.
     <div class="csl-block">LEWIN K. 1999. Group decision and social change[M]. Gold M, ed.//The complete social scientist: A Kurt Lewin readerAmerican Psychological Association，1999年 (In Chinese)</div>
@@ -1579,8 +1579,8 @@ Qian Y et al. （2009a）<br>
   <div class="csl-entry">[180]	SR RESEARCH. 2016. Eyelink 1000 plus[CP/OL].
     <div class="csl-block">SR RESEARCH. 2016. Eyelink 1000 plus[CP/OL] (In Chinese)</div>
   </div>
-  <div class="csl-entry">[181]	STULTS-KOLEHMAINEN M A, SINHA R. 2015. The effects of stress on physical activity and exercise[A]. PubMed Central.
-    <div class="csl-block">STULTS-KOLEHMAINEN M A, SINHA R. 2015. The effects of stress on physical activity and exercise[A]. PubMed Central (In Chinese)</div>
+  <div class="csl-entry">[181]	STULTS-KOLEHMAINEN M A, SINHA R. 2015. The effects of stress on physical activity and exercise[EB]. PubMed Central.
+    <div class="csl-block">STULTS-KOLEHMAINEN M A, SINHA R. 2015. The effects of stress on physical activity and exercise[EB]. PubMed Central (In Chinese)</div>
   </div>
   <div class="csl-entry">[182]	TACTILE LABS. 2015. Latero tactile display[CP/OL].
     <div class="csl-block">TACTILE LABS. 2015. Latero tactile display[CP/OL] (In Chinese)</div>

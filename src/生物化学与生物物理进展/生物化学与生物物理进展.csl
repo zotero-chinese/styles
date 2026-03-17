@@ -18,7 +18,7 @@
     <category field="chemistry"/>
     <category field="physics"/>
     <issn>1000-3282</issn>
-    <updated>2025-01-08T17:10:40+08:00</updated>
+    <updated>2026-03-17T21:41:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -194,9 +194,13 @@
   <!-- 文献类型标识 -->
   <macro name="type-id">
     <choose>
-      <if type="dataset">
-        <text value="DS"/>
+      <if type="article">
+        <!-- 预印本使用“EB”（2005 和 2015 版国标） -->
+        <text value="EB"/>
       </if>
+      <else-if type="dataset">
+        <text value="DS"/>
+      </else-if>
       <else-if type="post post-weblog webpage" match="any">
         <text value="EB"/>
       </else-if>

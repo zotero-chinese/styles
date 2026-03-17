@@ -197,10 +197,10 @@
 <sup>135</sup> Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.<br>
 <sup>136</sup> Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.<br>
 <sup>137</sup> IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.<br>
-<sup>138</sup> 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv, 2023.<br>
-<sup>139</sup> 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv, 2024.<br>
-<sup>140</sup> Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[A]. bioRxiv, 2015.<br>
-<sup>141</sup> Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[A]. arXiv, 2012.<br>
+<sup>138</sup> 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023.<br>
+<sup>139</sup> 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024.<br>
+<sup>140</sup> Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015.<br>
+<sup>141</sup> Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -499,9 +499,9 @@
 <sup>97</sup> Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective[Z]. Department of Psychology, University of Wisconsin-Madison, 2016.<br>
 <sup>98</sup> O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z]. Department of Management, University of Kansas, 2018.<br>
 <sup>99</sup> Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]. Department of Psychology, University of Washington, 2019.<br>
-<sup>100</sup> Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[A]. PsyArXiv, 2018.<br>
-<sup>101</sup> Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[A]. PubMed Central, 2015.<br>
-<sup>102</sup> Ho H K. Teacher preparation for early childhood special education in Taiwan[A]. ERIC, 2014.<br>
+<sup>100</sup> Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 2018.<br>
+<sup>101</sup> Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015.<br>
+<sup>102</sup> Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.<br>
 <sup>103</sup> D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018.<br>
 <sup>104</sup> National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. National Archive of Data on Arts and Culture, 2016.<br>
 <sup>105</sup> Pew Research Center. American trends panel Wave 26[DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.<br>

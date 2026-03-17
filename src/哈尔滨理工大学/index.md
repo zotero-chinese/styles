@@ -32,10 +32,10 @@
     <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Wang S. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2022: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv, 2024.</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[A]. arXiv, 2012.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[EB]. arXiv, 2012.</div>
   </div>
 </div>
 
@@ -468,16 +468,16 @@
     <div class="csl-left-margin">[137]</div><div class="csl-right-inline">IHME. Global Burden of Disease Study 2019 (GBD2019) Data Resources[DS/OL]. Global Health Data Exchange, 2021 [2024-11-25]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv, 2023.</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[A]. PSSXiv, 2024.</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors[A]. bioRxiv, 2015.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">Bloss C S, Wineinger N E, Peters M, et al. A Prospective Randomized Trial Examining Health Care Utilization in Individuals Using Multiple Smartphone-Enabled Biosensors[EB]. bioRxiv, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[A]. arXiv, 2012.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice[EB]. arXiv, 2012.</div>
   </div>
 </div>
 
@@ -1314,13 +1314,13 @@
     <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T, Poindexter E K. Emotion Recognition as a Function of Facial Cues: Implications for Practice[Z]. Department of Psychology, University of Washington, 2019.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials[A]. PsyArXiv, 2018.</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials[EB]. PsyArXiv, 2018.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The Effects of Stress on Physical Activity and Exercise[A]. PubMed Central, 2015.</div>
+    <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The Effects of Stress on Physical Activity and Exercise[EB]. PubMed Central, 2015.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H K. Teacher Preparation for Early Childhood Special Education in Taiwan[A]. ERIC, 2014.</div>
+    <div class="csl-left-margin">[102]</div><div class="csl-right-inline">Ho H K. Teacher Preparation for Early Childhood Special Education in Taiwan[EB]. ERIC, 2014.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">D’Souza A, Wiseheart M. Cognitive Effects of Music and Dance Training in Children[DS]. ICPSR, 2018.</div>

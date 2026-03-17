@@ -1314,7 +1314,7 @@
     <div class="csl-left-margin">[99]</div><div class="csl-right-inline">Lippincott T, Poindexter E K. Emotion Recognition as a Function of Facial Cues: Implications for Practice[M]. Department of Psychology, University of Washington, 2019</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials[M]. PsyArXiv, 2018</div>
+    <div class="csl-left-margin">[100]</div><div class="csl-right-inline">Leuker C, Samartzidis L, Hertwig R, et al. When Money Talks: Judging Risk and Coercion in High-Paying Clinical Trials[EB]. PsyArXiv, 2018</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[101]</div><div class="csl-right-inline">Stults-Kolehmainen M A, Sinha R. The Effects of Stress on Physical Activity and Exercise[EB]. PubMed Central, 2015</div>

@@ -156,7 +156,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">徐建委. 历史的起点：《史记》中的时间设置及其意义[J]. 北京大学学报（哲学社会科学版），2025，62（2）: 117–27.</div>
   <div class="csl-entry">战德臣, 张丽杰. 大学计算机：计算思维与信息素养[M]. 3 版. 北京: 高等教育出版社，2019.</div>
   <div class="csl-entry">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌等，译. 2 版. 北京: 中国人民大学出版社，2010: 798.</div>
-  <div class="csl-entry">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[A]. ChinaXiv，2023.</div>
+  <div class="csl-entry">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv，2023.</div>
   <div class="csl-entry">[《昨日之歌》图书封面][Z]. 2023.</div>
   <div class="csl-entry">曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社，2011: 19.</div>
   <div class="csl-entry">李华等. 一种拼接式桥梁模型: CN218214474U[P]. 2023-01-03.</div>
@@ -180,7 +180,7 @@ Qian, Zhao, Zhou, and Li (2009)<br>
   <div class="csl-entry">程根伟. 1998年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社，1999: 32–36.</div>
   <div class="csl-entry">童世亨. 京兆直隶图[CM]. 上海: 商务印书馆，1926.</div>
   <div class="csl-entry">肖希明等. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系，2024: 134–47.</div>
-  <div class="csl-entry">肖玲等. 数据要素的统计测算方法探究[A]. PSSXiv，2024.</div>
+  <div class="csl-entry">肖玲等. 数据要素的统计测算方法探究[EB]. PSSXiv，2024.</div>
   <div class="csl-entry">胡健民. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社，2021.</div>
   <div class="csl-entry">西黄丸[EB/OL]. （2023-10-07）[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.</div>
   <div class="csl-entry">许振超. “好好干，当一个好工人”[EB/OL]. （2025-02-17）[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>
