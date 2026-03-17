@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator="，" demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>东北财经大学（研究生）</title>
-    <id>https://zotero-chinese.com/styles/东北财经大学（研究生）</id>
-    <link href="https://zotero-chinese.com/styles/东北财经大学（研究生）" rel="self"/>
+    <title>东北财经大学</title>
+    <id>https://zotero-chinese.com/styles/东北财经大学</id>
+    <link href="https://zotero-chinese.com/styles/东北财经大学" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
     <link href="https://graduate.dufe.edu.cn/content_67624.html" rel="documentation"/>
     <author>
@@ -21,7 +21,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 除了点其他的标点符号全改成中文状态的。</summary>
-    <updated>2026-03-17T21:41:56+08:00</updated>
+    <updated>2026-03-17T22:46:49+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -108,7 +108,7 @@
   <!-- 题名 -->
   <macro name="title">
     <group delimiter="：">
-      <text variable="title" prefix='"' suffix='"' />
+      <text variable="title" quotes="true"/>
       <group delimiter="&#8195;">
         <choose>
           <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
@@ -136,7 +136,7 @@
     </group> -->
   </macro>
   <!-- 题名 -->
-  <macro name="title-cn">
+  <macro name="title-zh">
     <group delimiter="：">
       <text variable="title"/>
       <group delimiter="&#8195;">
@@ -503,31 +503,31 @@
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
-          <text macro="title-cn"/>
+          <text macro="title-zh"/>
           <text macro="issued-year"/>
           <text macro="year-volume-issue"/>
           <text macro="publisher"/>
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
-          <text macro="title-cn"/>
+          <text macro="title-zh"/>
           <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
-          <text macro="title-cn"/>
+          <text macro="title-zh"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
           <!-- 4.6 电子资源 -->
-          <text macro="title-cn"/>
+          <text macro="title-zh"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
-              <text macro="title-cn"/>
+              <text macro="title-zh"/>
               <text macro="secondary-contributors"/>
             </group>
             <text macro="container-booklike"/>
@@ -537,7 +537,7 @@
         </else-if>
         <else>
           <!-- 4.1 专著 -->
-          <text macro="title-cn"/>
+          <text macro="title-zh"/>
           <text macro="secondary-contributors"/>
           <text macro="edition"/>
           <text macro="publisher"/>
