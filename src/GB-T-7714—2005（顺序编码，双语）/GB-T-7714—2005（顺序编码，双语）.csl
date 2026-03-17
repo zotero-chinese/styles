@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2026-03-17T21:41:55+08:00</updated>
+    <updated>2026-03-17T22:33:33+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -173,7 +173,7 @@
       <else-if type="thesis">
         <text value="D"/>
       </else-if>
-      <else-if variable="URL">
+      <else-if variable="URL DOI" match="any">
         <text value="EB"/>
       </else-if>
       <else>
@@ -187,7 +187,7 @@
       <if variable="medium">
         <text variable="medium"/>
       </if>
-      <else-if variable="URL">
+      <else-if variable="URL DOI" match="any">
         <text value="OL"/>
       </else-if>
     </choose>
@@ -323,7 +323,7 @@
         </group>
         <text macro="accessed-date"/>
       </else-if>
-      <else-if variable="URL">
+      <else-if variable="URL DOI" match="any">
         <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
           原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
         -->
@@ -369,14 +369,21 @@
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
-      <if variable="URL">
+      <if variable="URL DOI" match="any">
         <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
       </if>
     </choose>
   </macro>
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
-    <text variable="URL"/>
+    <choose>
+      <if variable="URL">
+        <text variable="URL"/>
+      </if>
+      <else>
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </else>
+    </choose>
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
