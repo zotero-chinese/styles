@@ -2,21 +2,20 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>天津科技大学</title>
-    <id>none</id>
+    <id>https://zotero-chinese.com/styles/天津科技大学</id>
     <link href="https://zotero-chinese.com/styles/天津科技大学" rel="self"/>
     <link href="https://zotero-chinese.com/styles/天津大学（顺序编码）" rel="template"/>
+    <link href="http://gs.tju.edu.cn/info/1013/1100.htm" rel="documentation"/>
     <author>
       <name>Oberon</name>
       <email>oberon@mail.tust.edu.cn</email>
     </author>
-
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>In test</summary>
-    <updated>2026-03-17T16:41:59+08:00</updated>
+    <summary>天津大学关于博士、硕士学位论文统一格式的规定（2021年修订20250605更新扉页版）.docx</summary>
+    <updated>2026-03-28T20:44:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-
   <locale xml:lang="en">
     <terms>
       <term name="et-al">et al</term>
@@ -129,13 +128,13 @@
               </if>
               <!-- 如果专利号码不还在用申请代码 -->
               <else-if type="patent">
-        <group delimiter="．">
-          <text macro="author"/>
-          <text macro="title-patent"/>
-          <text macro="publisher-patent"/>
-          <text macro="access"/>
-        </group>
-      </else-if>
+                <group delimiter="．">
+                  <text macro="author"/>
+                  <text macro="title-patent"/>
+                  <text macro="publisher-patent"/>
+                  <text macro="access"/>
+                </group>
+              </else-if>
             </choose>
           </if>
         </choose>
@@ -519,7 +518,6 @@
       <if variable="URL"/>
     </choose>
   </macro>
-
   <macro name="electronic-date">
     <choose>
       <if variable="issued">
@@ -530,7 +528,6 @@
       </else-if>
     </choose>
   </macro>
-
   <!-- 获取和访问路径 -->
   <macro name="access">
     <choose>
@@ -697,7 +694,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 中文标准题名：标准代号．标准名称[S] -->
   <macro name="title-standard-zh">
     <group delimiter="．">
@@ -711,7 +707,6 @@
       </group>
     </group>
   </macro>
-
   <macro name="title-patent">
     <group>
       <text variable="title"/>
@@ -720,7 +715,6 @@
       </group>
     </group>
   </macro>
-
   <macro name="title-patent-zh">
     <group>
       <text variable="title"/>
@@ -729,7 +723,6 @@
       </group>
     </group>
   </macro>
-
   <macro name="publisher-patent">
     <group delimiter="，">
       <group delimiter="：">
@@ -760,7 +753,6 @@
       </choose>
     </group>
   </macro>
-
   <macro name="publisher-patent-zh">
     <group delimiter="，">
       <group delimiter="：">
@@ -791,7 +783,6 @@
       </choose>
     </group>
   </macro>
-
   <!-- 中文标准出版项：出版地：出版者，出版年 -->
   <macro name="publisher-standard-zh">
     <group delimiter="，">
