@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>遥感学报</title>
     <id>https://zotero-chinese.com/styles/遥感学报</id>
@@ -15,7 +15,7 @@
     <category field="geography"/>
     <issn>1007-4619</issn>
     <summary>《遥感学报》中文体例模版2021.docx；由于 CSL 功能的限制，参考文献表中英文文献会出现“和”，需要手动替换为“and”。</summary>
-    <updated>2025-04-19T23:05:38+08:00</updated>
+    <updated>2026-03-28T20:30:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -35,7 +35,6 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="and">和</term>
       <term name="and others">等</term>
       <term name="page-range-delimiter">-</term>
     </terms>
@@ -556,15 +555,15 @@
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>
     </sort>
-    <layout prefix="（" suffix="）" delimiter="；" locale="en">
+    <layout prefix="（" suffix="）" delimiter="；" locale="zh">
       <group delimiter="，">
-        <text macro="author-intext-en"/>
+        <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
       </group>
     </layout>
     <layout prefix="（" suffix="）" delimiter="；">
       <group delimiter="，">
-        <text macro="author-intext-zh"/>
+        <text macro="author-intext-en"/>
         <text macro="issued-year"/>
       </group>
     </layout>
@@ -574,15 +573,15 @@
       <key macro="author-sort"/>
       <key macro="issued-year"/>
     </sort>
-    <layout locale="en">
-      <text macro="entry-layout-en" suffix="."/>
-    </layout>
-    <layout>
+    <layout locale="zh">
       <group delimiter=" ">
         <text macro="entry-layout-ZHtoEN"/>
         <text macro="entry-layout-zh" prefix="(" suffix=")"/>
         <text macro="access"/>
       </group>
+    </layout>
+    <layout>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
   </bibliography>
 </style>
