@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
-    <title>天津科技大学</title>
-    <id>https://zotero-chinese.com/styles/天津科技大学</id>
-    <link href="https://zotero-chinese.com/styles/天津科技大学" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/天津大学（顺序编码）" rel="template"/>
-    <link href="http://gs.tju.edu.cn/info/1013/1100.htm" rel="documentation"/>
+    <title>天津科技大学（研究生理工科）</title>
+    <id>https://zotero-chinese.com/styles/天津科技大学（研究生理工科）</id>
+    <link href="https://zotero-chinese.com/styles/天津科技大学（研究生理工科）" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/天津科技大学（研究生理工科）" rel="template"/>
+    <link href="https://yjs.tust.edu.cn/xwgz/xzzl/4121f8d5f1d447d4abd857586a040354.htm" rel="documentation"/>
     <author>
       <name>Oberon</name>
       <email>oberon@mail.tust.edu.cn</email>
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>天津大学关于博士、硕士学位论文统一格式的规定（2021年修订20250605更新扉页版）.docx</summary>
+    <summary> </summary>
     <updated>2026-03-28T20:44:15+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
