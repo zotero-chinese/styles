@@ -1,12 +1,12 @@
 {
-  "dir": "天津科技大学",
-  "file": "天津科技大学.csl",
+  "dir": "天津科技大学（研究生理工科）",
+  "file": "天津科技大学（研究生理工科）.csl",
   "style_class": "in-text",
-  "title": "天津科技大学",
-  "id": "https://zotero-chinese.com/styles/天津科技大学",
-  "link_self": "https://zotero-chinese.com/styles/天津科技大学",
-  "link_template": "https://zotero-chinese.com/styles/天津大学（顺序编码）",
-  "link_documentation": "http://gs.tju.edu.cn/info/1013/1100.htm",
+  "title": "天津科技大学（研究生理工科）",
+  "id": "https://zotero-chinese.com/styles/天津科技大学（研究生理工科）",
+  "link_self": "https://zotero-chinese.com/styles/天津科技大学（研究生理工科）",
+  "link_template": "https://zotero-chinese.com/styles/天津科技大学（研究生理工科）",
+  "link_documentation": "https://yjs.tust.edu.cn/xwgz/xzzl/4121f8d5f1d447d4abd857586a040354.htm",
   "author": [
     {
       "name": "Oberon"
@@ -15,7 +15,7 @@
   "contributor": [],
   "citation_format": "numeric",
   "field": "generic-base",
-  "summary": "天津大学关于博士、硕士学位论文统一格式的规定（2021年修订20250605更新扉页版）.docx",
+  "summary": "https://yjs.tust.edu.cn/docs//2025-12/d35c37c31a144468b163690f9d76a9ed.doc",
   "updated": "2026-03-28T20:44:15+08:00",
   "citations": "<sup>[1–8]</sup>",
   "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">扬奎斯特，萨金特．递归宏观经济理论[M]．杨斌, 王忠玉, 陈彦斌, 等，译．北京：中国人民大学出版社，2010：798．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Praetzellis A．Death by theory: a tale of mystery and archaeological theory[M]．Rowman &#38; Littlefield Publishing Group, Inc.，2011:13．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">于潇，刘义，柴跃廷，等．互联网药品可信交易环境中主体资质审核备案模式[J]．清华大学学报（自然科学版），2012，52(11)：1518-1523．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Veen P H van der, Muller M, Vincken K L, et al．Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]．Journal of the Neurological Sciences，2014，337(1/2):112-118．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">汪学军．中国农业转基因生物研发进展与安全管理[A]．见：国家环境保护总局生物安全管理办公室，中国国家生物安全框架实施国际合作项目研讨会论文集[C]．北京：中国环境科学出版社，2005：22-25．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">Wang S．Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[A]．In：2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)[C]．2022:2．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7]</div><div class=\"csl-right-inline\">肖玲，张雪，王永．数据要素的统计测算方法探究[EB]．PSSXiv，2024．</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8]</div><div class=\"csl-right-inline\">Jenkins S D, Ruostekoski J．Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]．arXiv，2012．</div>\n  </div>\n</div>",
