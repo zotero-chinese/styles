@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize="true" initialize-with=" " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN" demote-non-dropping-particle="never">
+  <info>
+    <title>&#x516C;&#x5171;&#x7BA1;&#x7406;&#x8BC4;&#x8BBA;</title>
+    <title-short>&#x516C;&#x7BA1;&#x8BC4;&#x8BBA;</title-short>
+    <id>https://zotero-chinese.com/styles/gonggong-guanli-pinglun</id>
+    <link href="https://zotero-chinese.com/styles/gonggong-guanli-pinglun" rel="self"/>
+    <link href="https://gogl.cbpt.cnki.net/" rel="documentation"/>
+    <author>
+      <name>Zhe Shen</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="political_science"/>
+    <category field="social_science"/>
+    <issn>2096-7713</issn>
+    <summary>Public Management Review (Tsinghua) author-date style, GB/T 7714-2015</summary>
+    <updated>2026-03-29T00:00:00+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+
+  <!-- Locale: English -->
+  <locale xml:lang="en">
+    <terms>
+      <term name="page-range-delimiter">-</term>
+      <term name="et-al">, et al</term>
+    </terms>
+  </locale>
+
+  <!-- Locale: Chinese -->
+  <locale xml:lang="zh">
+    <terms>
+      <term name="et-al">, &#x7B49;</term>
+      <term name="and">&#x548C;</term>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
+
+  <!-- ====== Author (bibliography) ====== -->
+  <!-- No dots after initials, all surname-first, comma separated -->
+  <macro name="author-bib">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=" " initialize-with=" " delimiter=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="compiler"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <!-- ====== Author (in-text short form) ====== -->
+  <macro name="author-intext">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", "/>
+      <substitute>
+        <names variable="editor"/>
+        <names variable="compiler"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <!-- ====== Year ====== -->
+  <macro name="year">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+
+  <macro name="year-suffix">
+    <date variable="issued">
+      <date-part name="year"/>
+    </date>
+  </macro>
+
+  <!-- ====== Type label [J] [M] etc ====== -->
+  <macro name="type-label">
+    <choose>
+      <if type="article-journal article-magazine">
+        <text value="[J]"/>
+      </if>
+      <else-if type="book">
+        <text value="[M]"/>
+      </else-if>
+      <else-if type="chapter">
+        <text value="[M]"/>
+      </else-if>
+      <else-if type="paper-conference">
+        <text value="[C]"/>
+      </else-if>
+      <else-if type="thesis">
+        <text value="[D]"/>
+      </else-if>
+      <else-if type="report">
+        <text value="[R]"/>
+      </else-if>
+      <else-if type="article-newspaper">
+        <text value="[N]"/>
+      </else-if>
+      <else-if type="patent">
+        <text value="[P]"/>
+      </else-if>
+      <else-if type="legislation standard" match="any">
+        <text value="[S]"/>
+      </else-if>
+      <else-if type="dataset post post-weblog software webpage" match="any">
+        <text value="[EB/OL]"/>
+      </else-if>
+      <else>
+        <text value="[Z]"/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- ====== Title ====== -->
+  <macro name="title">
+    <text variable="title"/>
+  </macro>
+
+  <!-- ====== Container: journal ====== -->
+  <macro name="container-journal">
+    <group delimiter=", ">
+      <text variable="container-title" font-style="italic"/>
+      <choose>
+        <if variable="volume">
+          <group>
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+        </if>
+        <else>
+          <text variable="issue" prefix="(" suffix=")"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+
+  <!-- ====== Container: book chapter ====== -->
+  <macro name="container-chapter">
+    <choose>
+      <if variable="container-title">
+        <group>
+          <text value="//"/>
+          <names variable="editor">
+            <name name-as-sort-order="all" sort-separator=" " initialize-with=" " delimiter=", "/>
+          </names>
+          <text value=". "/>
+          <text variable="container-title"/>
+        </group>
+      </if>
+    </choose>
+  </macro>
+
+  <!-- ====== Publisher ====== -->
+  <macro name="publisher">
+    <choose>
+      <if type="thesis">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- ====== Pages ====== -->
+  <macro name="pages">
+    <text variable="page"/>
+  </macro>
+
+  <!-- ====== Access ====== -->
+  <macro name="access">
+    <choose>
+      <if type="dataset post post-weblog software webpage" match="any">
+        <text variable="URL"/>
+      </if>
+    </choose>
+  </macro>
+
+  <!-- ====== Full bibliography entry ====== -->
+  <macro name="entry">
+    <group delimiter=". ">
+      <!-- Author. Year. -->
+      <text macro="author-bib"/>
+      <text macro="year"/>
+      <!-- Title[Type] -->
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <!-- Source details depending on type -->
+      <choose>
+        <if type="article-journal article-magazine" match="any">
+          <group delimiter=": ">
+            <text macro="container-journal"/>
+            <text macro="pages"/>
+          </group>
+        </if>
+        <else-if type="article-newspaper">
+          <text variable="container-title"/>
+        </else-if>
+        <else-if type="chapter">
+          <group>
+            <group>
+              <text macro="title"/>
+              <text macro="type-label"/>
+              <text macro="container-chapter"/>
+            </group>
+            <text macro="publisher" prefix=". "/>
+            <text macro="pages" prefix=", "/>
+          </group>
+        </else-if>
+        <else-if type="paper-conference">
+          <group>
+            <text macro="container-chapter"/>
+            <text macro="publisher" prefix=". "/>
+            <text macro="pages" prefix=", "/>
+          </group>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <text macro="access"/>
+        </else-if>
+        <else>
+          <!-- Book, thesis, report, etc -->
+          <text macro="publisher"/>
+        </else>
+      </choose>
+    </group>
+  </macro>
+
+  <!-- ====== Rebuild entry to avoid double title for chapters ====== -->
+  <macro name="entry-journal">
+    <group delimiter=". ">
+      <text macro="author-bib"/>
+      <text macro="year"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <group delimiter=": ">
+        <text macro="container-journal"/>
+        <text macro="pages"/>
+      </group>
+    </group>
+  </macro>
+
+  <macro name="entry-book">
+    <group delimiter=". ">
+      <text macro="author-bib"/>
+      <text macro="year"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <text macro="publisher"/>
+    </group>
+  </macro>
+
+  <macro name="entry-chapter">
+    <group>
+      <text macro="author-bib"/>
+      <text value=". "/>
+      <text macro="year"/>
+      <text value=". "/>
+      <text macro="title"/>
+      <text macro="type-label"/>
+      <text macro="container-chapter"/>
+      <text value=". "/>
+      <text macro="publisher"/>
+      <text macro="pages" prefix=", "/>
+    </group>
+  </macro>
+
+  <macro name="entry-conference">
+    <group>
+      <text macro="author-bib"/>
+      <text value=". "/>
+      <text macro="year"/>
+      <text value=". "/>
+      <text macro="title"/>
+      <text macro="type-label"/>
+      <text macro="container-chapter"/>
+      <text value=". "/>
+      <text macro="publisher"/>
+      <text macro="pages" prefix=", "/>
+    </group>
+  </macro>
+
+  <macro name="entry-web">
+    <group delimiter=". ">
+      <text macro="author-bib"/>
+      <text macro="year"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <text macro="access"/>
+    </group>
+  </macro>
+
+  <macro name="entry-newspaper">
+    <group delimiter=". ">
+      <text macro="author-bib"/>
+      <date variable="issued" form="numeric"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <text variable="container-title"/>
+    </group>
+  </macro>
+
+  <!-- ========== In-text citation ========== -->
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="year"/>
+    </sort>
+    <layout delimiter="; " prefix="(" suffix=")">
+      <group delimiter=", ">
+        <text macro="author-intext"/>
+        <text macro="year-suffix"/>
+      </group>
+    </layout>
+  </citation>
+
+  <!-- ========== Bibliography ========== -->
+  <bibliography et-al-min="4" et-al-use-first="3" entry-spacing="0" hanging-indent="true">
+    <sort>
+      <key macro="author-bib"/>
+      <key macro="year"/>
+    </sort>
+    <layout suffix="." locale="zh">
+      <choose>
+        <if type="article-journal article-magazine" match="any">
+          <text macro="entry-journal"/>
+        </if>
+        <else-if type="chapter">
+          <text macro="entry-chapter"/>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="entry-conference"/>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text macro="entry-newspaper"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <text macro="entry-web"/>
+        </else-if>
+        <else>
+          <text macro="entry-book"/>
+        </else>
+      </choose>
+    </layout>
+    <layout suffix=".">
+      <choose>
+        <if type="article-journal article-magazine" match="any">
+          <text macro="entry-journal"/>
+        </if>
+        <else-if type="chapter">
+          <text macro="entry-chapter"/>
+        </else-if>
+        <else-if type="paper-conference">
+          <text macro="entry-conference"/>
+        </else-if>
+        <else-if type="article-newspaper">
+          <text macro="entry-newspaper"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <text macro="entry-web"/>
+        </else-if>
+        <else>
+          <text macro="entry-book"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>
