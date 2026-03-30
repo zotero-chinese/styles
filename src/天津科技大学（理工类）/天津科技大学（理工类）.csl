@@ -5,7 +5,7 @@
     <id>https://zotero-chinese.com/styles/天津科技大学（理工类）</id>
     <link href="https://zotero-chinese.com/styles/天津科技大学（理工类）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/天津大学（顺序编码）" rel="template"/>
-    <link href="https://yjs.tust.edu.cn/xwgz/xzzl/4121f8d5f1d447d4abd857586a040354.htm" rel="documentation"/>
+    <link href="https://github.com/zotero-chinese/styles/pull/658" rel="documentation"/>
     <author>
       <name>Oberon</name>
       <email>oberon@mail.tust.edu.cn</email>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>天津科技大学研究生学位论文撰写规范（理工科类）（2025-12-16）</summary>
-    <updated>2026-03-29T13:46:57+08:00</updated>
+    <updated>2026-03-30T22:41:02+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
