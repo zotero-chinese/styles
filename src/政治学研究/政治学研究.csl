@@ -2,10 +2,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
   <info>
     <title>政治学研究</title>
-    <title-short>政治学研究</title-short>
-    <id>https://zotero-chinese.com/styles/zhengzhixue-yanjiu</id>
-    <link href="https://zotero-chinese.com/styles/zhengzhixue-yanjiu" rel="self"/>
-    <link href="http://www.zzxyj.net/" rel="documentation"/>
+    <id>https://zotero-chinese.com/styles/政治学研究</id>
+    <link href="https://zotero-chinese.com/styles/政治学研究" rel="self"/>
+    <link href="https://zzxyj.ajcass.com/" rel="documentation"/>
     <author>
       <name>Zhe Shen</name>
     </author>
@@ -14,7 +13,7 @@
     <category field="social_science"/>
     <issn>1000-3355</issn>
     <summary>CASS Journal of Political Science footnote style</summary>
-    <updated>2026-03-28T00:00:00+08:00</updated>
+    <updated>2026-03-30T22:46:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
