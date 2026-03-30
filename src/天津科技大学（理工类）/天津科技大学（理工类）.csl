@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
-    <title>天津科技大学（理工类）</title>
-    <id>https://zotero-chinese.com/styles/天津科技大学（理工类）</id>
-    <link href="https://zotero-chinese.com/styles/天津科技大学（理工类）" rel="self"/>
+    <title>天津科技大学（理工类） </title>
+    <id> https://zotero-chinese.com/styles/天津科技大学（理工类） </id>
+    <link href = " https://zotero-chinese.com/styles/天津科技大学（理工类）"  rel=" self "/>
     <link href="https://zotero-chinese.com/styles/天津大学（顺序编码）" rel="template"/>
-    <link href="https://github.com/zotero-chinese/styles/pull/658" rel="documentation"/>
+	<link href = " https://github.com/zotero-chinese/styles/pull/658 " rel=" documentation "/>
     <author>
       <name>Oberon</name>
       <email>oberon@mail.tust.edu.cn</email>
     </author>
+
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>天津科技大学研究生学位论文撰写规范（理工科类）（2025-12-16）</summary>
-    <updated>2026-03-30T22:41:02+08:00</updated>
+    <updated>2026-03-17T16:41:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+
   <locale xml:lang="en">
     <terms>
       <term name="et-al">et al</term>
@@ -128,13 +130,13 @@
               </if>
               <!-- 如果专利号码不还在用申请代码 -->
               <else-if type="patent">
-                <group delimiter="．">
-                  <text macro="author"/>
-                  <text macro="title-patent"/>
-                  <text macro="publisher-patent"/>
-                  <text macro="access"/>
-                </group>
-              </else-if>
+				<group delimiter="．">
+				  <text macro="author"/>
+				  <text macro="title-patent"/>
+				  <text macro="publisher-patent"/>
+				  <text macro="access"/>
+				</group>
+			  </else-if>
             </choose>
           </if>
         </choose>
@@ -518,6 +520,7 @@
       <if variable="URL"/>
     </choose>
   </macro>
+
   <macro name="electronic-date">
     <choose>
       <if variable="issued">
@@ -528,6 +531,7 @@
       </else-if>
     </choose>
   </macro>
+
   <!-- 获取和访问路径 -->
   <macro name="access">
     <choose>
@@ -694,6 +698,7 @@
       </else>
     </choose>
   </macro>
+
   <!-- 中文标准题名：标准代号．标准名称[S] -->
   <macro name="title-standard-zh">
     <group delimiter="．">
@@ -707,6 +712,7 @@
       </group>
     </group>
   </macro>
+
   <macro name="title-patent">
     <group>
       <text variable="title"/>
@@ -715,6 +721,7 @@
       </group>
     </group>
   </macro>
+
   <macro name="title-patent-zh">
     <group>
       <text variable="title"/>
@@ -723,6 +730,7 @@
       </group>
     </group>
   </macro>
+
   <macro name="publisher-patent">
     <group delimiter="，">
       <group delimiter="：">
@@ -753,6 +761,7 @@
       </choose>
     </group>
   </macro>
+
   <macro name="publisher-patent-zh">
     <group delimiter="，">
       <group delimiter="：">
@@ -783,6 +792,7 @@
       </choose>
     </group>
   </macro>
+
   <!-- 中文标准出版项：出版地：出版者，出版年 -->
   <macro name="publisher-standard-zh">
     <group delimiter="，">
