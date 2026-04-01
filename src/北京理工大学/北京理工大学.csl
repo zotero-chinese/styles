@@ -5,7 +5,8 @@
     <id>https://zotero-chinese.com/styles/北京理工大学</id>
     <link href="https://zotero-chinese.com/styles/北京理工大学" rel="self"/>
     <link href="" rel="template"/>
-    <link href="" rel="documentation"/>
+    <link href="https://grd.bit.edu.cn/xwgz/xwgz2/wjxz_xwgz/b117825.htm" rel="documentation"/>
+    <link href="https://web.archive.org/web/20260324031333/https://grd.bit.edu.cn/docs//2024-04/b07cf1d6ef4945c282eb21ae93fd1e94.pdf" rel="documentation"/>
     <author>
       <name>jiayoudangdang</name>
       <email>jiayoudangdang@example.com</email>
@@ -16,8 +17,8 @@
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>北京理工大学引用样式</summary>
-    <updated>2026-03-17T21:51:57+08:00</updated>
+    <summary>北京理工大学研究生学位论文撰写规范（研函〔2018〕60 号）。该规范已于2026年3月31日被研函〔2026〕024 号同名文件取代，从2026年6月毕业生开始实施；不过此样式并未同步更新。新规范不再专门给出“参考文献的编排格式”，而且引用 GB/T 7714 时不再标注日期（2026年3月，研究生院老师表示使用 2015、2025 两版国标均可）。</summary>
+    <updated>2026-04-01T13:47:32+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
