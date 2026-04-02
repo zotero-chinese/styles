@@ -882,7 +882,7 @@
     <div class="csl-left-margin">［44］</div><div class="csl-right-inline">Habermas J. Between facts and norms: contributions to a discourse theory of law and democracy[M]. Rehg W, trans. MIT Press, 1996.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［45］</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress[A]. In: Bergsten C F, Gill B, Lardy N R, et al, China: The balance sheet[M]. Public Affairs Press, 2006.</div>
+    <div class="csl-left-margin">［45］</div><div class="csl-right-inline">Horsley J. Rule of law in China: incremental progress[A]. In: Bergsten C F, Gill B, Lardy N R, et al., China: The balance sheet[M]. Public Affairs Press, 2006.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［46］</div><div class="csl-right-inline">Anon. Department of Transportation Act：89-670[A]. 1966: 931, 944-947.</div>
