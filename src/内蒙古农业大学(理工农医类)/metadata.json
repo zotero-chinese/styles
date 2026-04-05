@@ -1,0 +1,37 @@
+{
+  "dir": "内蒙古农业大学(理工农医类)",
+  "file": "内蒙古农业大学(理工农医类).csl",
+  "style_class": "in-text",
+  "title": "内蒙古农业大学",
+  "id": "https://zotero-chinese.com/styles/内蒙古农业大学(理工农医类)",
+  "link_self": "https://zotero-chinese.com/styles/内蒙古农业大学(理工农医类)",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）",
+  "link_documentation": "https://yjsy.imau.edu.cn/info/1040/7505.htm",
+  "author": [
+    {
+      "name": "韩小土"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "牛耕田"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "numeric",
+  "field": "generic-base",
+  "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 网络首发（advance online publication, AOP）文章显示“/OL”载体标识、DOI 或 URL；4. 其余的仅纯电子资源显示“/OL”载体标识、引用日期、URL，无 DOI。",
+  "updated": "2026-04-05T21:41:52+08:00",
+  "citations": "<sup>[1～6]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">任奕林，伍冬生，李旭荣．我国禽蛋业的现状及发展对策[J]．中国家禽，2005，27(2):5-6.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Patel V C, McClendon R W, Goodrum J W, et al. Crack detection in eggs using computer vision and neural networks[J]. AI Applications, 1994, 8(2):21-31.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">唐向阳，张勇，李江有，等．机器视觉关键技术的现状及应用展望[J]．昆明理工大学学报（理工版），2004，29(2):36-39.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">Omran M G H, Salman A, Engelbrecht A P. Dynamic clustering using particle swarm optimization with application in image segmentation[J]. Pattern Analysis and Applications, 2006, 8(4):332-344.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5]</div><div class=\"csl-right-inline\">R. T. Elster, Assoc. J. W. Goodrum. Detection of cracks in eggs using machine vision[J]. Transactions of the ASAE, 1991, 34(1):307-312.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6]</div><div class=\"csl-right-inline\">刘曙光，刘明远，何钺．机器视觉及其应用[J]．河北科技大学学报，2000，21(4):11-15.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}

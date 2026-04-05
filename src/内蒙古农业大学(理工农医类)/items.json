@@ -1,0 +1,277 @@
+[
+	{
+		"id": "http://zotero.org/users/4181482/items/HJV6QP78",
+		"type": "article-journal",
+		"abstract": "简要介绍了机器视觉的概念及机器视觉系统的组成 ,接着重点阐述了照明光源、镜头、摄像机及图像采集卡、图像处理卡、集成式视觉组件等关键技术的发展现状 ,最后扼要介绍了在工业检测、农产品分选、机器人导航、医学影像分析、交通管理、安全监控等多个领域的应用情况",
+		"container-title": "昆明理工大学学报（理工版）",
+		"DOI": "10.16112/j.cnki.53-1223/n.2004.02.009",
+		"issue": "2",
+		"language": "zh",
+		"note": "Fund: 国家计划委员会高科技产业化基金 (项目编号 :计高技 [2 0 0 0 ]1882号 )； 中国烟草专卖局烟草科学研究与技术开发基金 (项目编号 :国烟科 [2 0 0 1]5 0 4号 )；",
+		"page": "36-39",
+		"source": "CNKI",
+		"title": "机器视觉关键技术的现状及应用展望",
+		"URL": "https://link.cnki.net/doi/10.16112/j.cnki.53-1223/n.2004.02.009",
+		"volume": "29",
+		"author": [
+			{
+				"literal": "唐向阳"
+			},
+			{
+				"literal": "张勇"
+			},
+			{
+				"literal": "李江有"
+			},
+			{
+				"literal": "黄岗"
+			},
+			{
+				"literal": "杨松"
+			},
+			{
+				"literal": "关宏"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/YQ8VW6J2",
+		"type": "article-journal",
+		"abstract": "介绍了机器视觉的研究内容 ,比较了机器视觉与人类视觉的差异 ,分析了机器视觉研究状况 ,并对机器视觉今后的发展方向做了展望 ,最后阐述了机器视觉的应用",
+		"container-title": "河北科技大学学报",
+		"issue": "4",
+		"language": "zh",
+		"note": "Fund: 陕西省自然科学基金项目 !(99C18)；",
+		"page": "11-15",
+		"source": "CNKI",
+		"title": "机器视觉及其应用",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2000&filename=HBQJ200004002",
+		"volume": "21",
+		"author": [
+			{
+				"literal": "刘曙光"
+			},
+			{
+				"literal": "刘明远"
+			},
+			{
+				"literal": "何钺"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/756DUZYB",
+		"type": "article-journal",
+		"container-title": "中国家禽",
+		"DOI": "10.16372/j.issn.1004-6364.2005.02.002",
+		"issue": "2",
+		"language": "zh",
+		"page": "5-6",
+		"source": "CNKI",
+		"title": "我国禽蛋业的现状及发展对策",
+		"URL": "https://doi.org/10.16372/j.issn.1004-6364.2005.02.002",
+		"volume": "27",
+		"author": [
+			{
+				"literal": "任奕林"
+			},
+			{
+				"literal": "伍冬生"
+			},
+			{
+				"literal": "李旭荣"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/CNXWFCIR",
+		"type": "article-journal",
+		"abstract": "Grey level images of single, stationary eggs were obtained with a computer imaging system. The intensity values of the pixels in the images ranged ...",
+		"container-title": "AI Applications",
+		"issue": "2",
+		"language": "en",
+		"page": "21-31",
+		"source": "eurekamag.com",
+		"title": "Crack detection in eggs using computer vision and neural networks",
+		"URL": "https://eurekamag.com/research/002/587/002587348.php",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Patel",
+				"given": "V. C."
+			},
+			{
+				"family": "McClendon",
+				"given": "R. W."
+			},
+			{
+				"family": "Goodrum",
+				"given": "J. W."
+			},
+			{
+				"family": "Patel",
+				"given": "V. C."
+			},
+			{
+				"family": "McClendon",
+				"given": "R. W."
+			},
+			{
+				"family": "Goodrum",
+				"given": "J. W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1994",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/Y46BRCW2",
+		"type": "article-journal",
+		"container-title": "Transactions of the ASAE",
+		"DOI": "10.13031/2013.31663",
+		"ISSN": "2151-0059",
+		"issue": "1",
+		"language": "en",
+		"page": "307-312",
+		"source": "DOI.org (Crossref)",
+		"title": "Detection of cracks in eggs using machine vision",
+		"URL": "http://elibrary.asabe.org/abstract.asp??JID=3&AID=31663&CID=t1991&v=34&i=1&T=1",
+		"volume": "34",
+		"author": [
+			{
+				"literal": "R. T. Elster"
+			},
+			{
+				"literal": "Assoc. J. W. Goodrum"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/TA7T49QQ",
+		"type": "article-journal",
+		"abstract": "A new dynamic clustering approach (DCPSO), based on particle swarm optimization, is proposed. This approach is applied to image segmentation. The proposed approach automatically determines the “optimum” number of clusters and simultaneously clusters the data set with minimal user interference. The algorithm starts by partitioning the data set into a relatively large number of clusters to reduce the effects of initial conditions. Using binary particle swarm optimization the “best” number of clusters is selected. The centers of the chosen clusters is then refined via the K-means clustering algorithm. The proposed approach was applied on both synthetic and natural images. The experiments conducted show that the proposed approach generally found the “optimum” number of clusters on the tested images. A genetic algorithm and random search version of dynamic clustering is presented and compared to the particle swarm version.",
+		"container-title": "Pattern Analysis and Applications",
+		"DOI": "10.1007/s10044-005-0015-5",
+		"ISSN": "1433-755X",
+		"issue": "4",
+		"journalAbbreviation": "Pattern Anal Applic",
+		"language": "en",
+		"page": "332-344",
+		"source": "Springer Link",
+		"title": "Dynamic clustering using particle swarm optimization with application in image segmentation",
+		"URL": "https://doi.org/10.1007/s10044-005-0015-5",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Omran",
+				"given": "Mahamed G. H."
+			},
+			{
+				"family": "Salman",
+				"given": "Ayed"
+			},
+			{
+				"family": "Engelbrecht",
+				"given": "Andries P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					2,
+					1
+				]
+			]
+		}
+	}
+]
