@@ -16,10 +16,16 @@
     <updated>2026-04-02T20:55:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="en">
+    <terms>
+      <term name="et-al">et al</term>
+    </terms>
+  </locale>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
+      <term name="et-al">等</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -33,6 +39,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
+      <term name="et-al">et al</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -56,7 +63,7 @@
   <!-- 中文主要责任者 -->
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter="，"/>
+      <name delimiter="，" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -121,13 +128,13 @@
               </if>
               <!-- 如果专利号码不还在用申请代码 -->
               <else-if type="patent">
-                <group delimiter=". ">
-                  <text macro="author"/>
-                  <text macro="title-patent"/>
-                  <text macro="publisher-patent"/>
-                  <text macro="access"/>
-                </group>
-              </else-if>
+        <group delimiter=". ">
+          <text macro="author"/>
+          <text macro="title-patent"/>
+          <text macro="publisher-patent"/>
+          <text macro="access"/>
+        </group>
+      </else-if>
             </choose>
           </if>
         </choose>
@@ -511,6 +518,7 @@
       <if variable="URL"/>
     </choose>
   </macro>
+
   <macro name="electronic-date">
     <choose>
       <if variable="issued">
@@ -521,12 +529,24 @@
       </else-if>
     </choose>
   </macro>
+
   <!-- 获取和访问路径 -->
   <macro name="access">
     <choose>
       <if type="dataset post post-weblog software webpage" match="any">
         <text variable="URL"/>
       </if>
+    </choose>
+  </macro>
+
+  <macro name="electronic-source">
+    <choose>
+      <if variable="container-title">
+        <text variable="container-title"/>
+      </if>
+      <else-if variable="URL">
+        <text variable="URL"/>
+      </else-if>
     </choose>
   </macro>
   <!-- 中文连续出版物的年卷期 -->
@@ -665,7 +685,7 @@
           <text macro="author"/>
           <text macro="title"/>
           <group delimiter=", ">
-            <text variable="URL" prefix=": "/>
+            <text macro="electronic-source" prefix=": "/>
             <text macro="electronic-date"/>
           </group>
         </group>
@@ -681,6 +701,7 @@
       </else>
     </choose>
   </macro>
+
   <!-- 中文标准题名：标准代号．标准名称[S] -->
   <macro name="title-standard-zh">
     <group delimiter="．">
@@ -694,6 +715,7 @@
       </group>
     </group>
   </macro>
+
   <macro name="title-patent">
     <group>
       <text variable="title"/>
@@ -702,6 +724,7 @@
       </group>
     </group>
   </macro>
+
   <macro name="title-patent-zh">
     <group>
       <text variable="title"/>
@@ -710,6 +733,7 @@
       </group>
     </group>
   </macro>
+
   <macro name="publisher-patent">
     <group delimiter=", ">
       <group delimiter=": ">
@@ -740,6 +764,7 @@
       </choose>
     </group>
   </macro>
+
   <macro name="publisher-patent-zh">
     <group delimiter="，">
       <group delimiter="：">
@@ -770,6 +795,7 @@
       </choose>
     </group>
   </macro>
+
   <!-- 中文标准出版项：出版地：出版者，出版年 -->
   <macro name="publisher-standard-zh">
     <group delimiter="，">
@@ -836,7 +862,7 @@
           <group delimiter="">
             <text value="见："/>
             <names variable="editor" suffix="，">
-              <name delimiter="，"/>
+              <name delimiter="，" delimiter-precedes-et-al="never"/>
               <substitute>
                 <names variable="editorial-director"/>
                 <names variable="collection-editor"/>
@@ -864,7 +890,7 @@
           <group delimiter="">
             <text value="见："/>
             <names variable="editor" suffix="，">
-              <name delimiter="，"/>
+              <name delimiter="，" delimiter-precedes-et-al="never"/>
               <substitute>
                 <names variable="editorial-director"/>
                 <names variable="collection-editor"/>
@@ -909,7 +935,7 @@
           <text macro="author-zh"/>
           <text macro="title-zh"/>
           <group delimiter="，">
-            <text variable="URL" prefix="："/>
+            <text macro="electronic-source" prefix="："/>
             <text macro="electronic-date"/>
           </group>
         </group>
@@ -935,11 +961,11 @@
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="zh">
-      <text variable="citation-number" prefix="［" suffix="］"/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-zh" suffix="．"/>
     </layout>
     <layout>
-      <text variable="citation-number" prefix="［" suffix="］"/>
+      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout" suffix="."/>
     </layout>
   </bibliography>
