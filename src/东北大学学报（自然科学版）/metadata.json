@@ -1,0 +1,33 @@
+{
+  "dir": "东北大学学报（自然科学版）",
+  "file": "东北大学学报（自然科学版）.csl",
+  "style_class": "in-text",
+  "title": "东北大学学报（自然科学版）",
+  "id": "https://zotero-chinese.com/styles/东北大学学报（自然科学版）",
+  "link_self": "https://zotero-chinese.com/styles/东北大学学报（自然科学版）",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI）",
+  "link_documentation": "https://natural.neu.edu.cn/homeNav",
+  "author": [
+    {
+      "name": "韩小土"
+    },
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "engineering",
+  "summary": "东北大学学报（自然科学版）",
+  "updated": "2026-04-18T21:41:56+08:00",
+  "citations": "<sup>[1-4]</sup>",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-150 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">[1]\t陈利荣, 王珍, 张峰举, 等. 典型改良剂对龟裂盐碱土中氮素形态特征及微生物群落的影响[J]. 环境科学, 2025: 1-17.\n    <div class=\"csl-block\">（Chen L R, Wang Z, Zhang F J, et al. Effects of typical amendments on nitrogen forms and microbial community structure in polygonal solonchak[J]. Environmental Science, 2025: 1-17.）</div>\n  </div>\n  <div class=\"csl-entry\">[2]\t李新. 不同盐碱程度盐碱土壤微生物多样性研究[D]. 呼和浩特: 内蒙古师范大学, 2015.\n    <div class=\"csl-block\">（Li X. Study on Microbial Diversity of Saline-Alkali Soils with Different Degrees of Salinization[D]. Hohhot: Inner Mongolia Normal University, 2015.）</div>\n  </div>\n  <div class=\"csl-entry\">[3]\t王启方, 王晓云, 李浩森, 等. 芳樟醇对灰葡萄孢生长的影响及对番茄灰霉病的防控效果[J]. 应用生态学报, 2023, 34(1): 213-220.\n    <div class=\"csl-block\">（Wang Qifang, Wang Xiaoyun, Li Haoshen, et al. Effects of linalool on Botrytis cinerea growth and control of tomato gray mold[J]. Chinese Journal of Applied Ecology, 2023, 34(1): 213-220.）</div>\n  </div>\n  <div class=\"csl-entry\">[4]\t陈薪宇, 胡永庆, 吕俊廷, 等. 生物炭对花椒园土壤细菌群落功能预测的影响及共生网络分析[J]. 环境科学, 2025: 1-17.\n    <div class=\"csl-block\">（Chen X Y, Hu Y Q, Lv J T, et al. [J]. Influence of biochar on the functional prediction of soil bacterial communities in pepper orchards and the analysis of symbiotic networks, 2025: 1-17.）</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名大写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "有英文翻译"
+  ]
+}
