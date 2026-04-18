@@ -8,27 +8,21 @@
 
 ### 引注
 
-（汪学军, 2005）<br>
-（Wang, 2022）<br>
-（扬奎斯特等, 2010）<br>
-（Jenkins <i>et al.</i>, 2012）<br>
-（肖玲等, 2024）<br>
-（Praetzellis, 2011）<br>
-（于潇等, 2012）<br>
-（Veen <i>et al.</i>, 2014）<br>
+（Andolfo <i>et al.</i>, 2014）<br>
+（Bethke <i>et al.</i>, 2016）<br>
+（杨安钢等, 2001）<br>
+（杨月等, 2014）<br>
+（曹向锋, 2010）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22-25.</div>
-  <div class="csl-entry">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究. PSSXiv.</div>
-  <div class="csl-entry">扬奎斯特, 萨金特. 2010. 递归宏观经济理论. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社: 798.</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, <b>52</b>(11): 1518-1523.</div>
-  <div class="csl-entry">Jenkins SD, Ruostekoski J. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice. arXiv.</div>
-  <div class="csl-entry">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13.</div>
-  <div class="csl-entry">Veen PH van der, Muller M, Vincken KL, <i>et al.</i> 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study. <i>Journal of the Neurological Sciences</i>, <b>337</b>(1/2): 112-118.</div>
-  <div class="csl-entry">Wang S. 2022. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers//2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT). 2.</div>
+  <div class="csl-entry">曹向锋. 2010. 外来入侵植物黄顶菊在中国潜在适生区预测及其风险评估. 南京: 南京农业大学: 88-120.</div>
+  <div class="csl-entry">杨安钢, 毛积芳, 药立波. 2001. 生物化学与分子生物学实验技术. 北京: 高等教育出版社: 28-59.</div>
+  <div class="csl-entry">杨月, 刘兵, 刘小军, 等. 2014. 小麦生育期模拟模型的比较研究. 南京农业大学学报, <b>37</b>(1): 6-14.</div>
+  <div class="csl-entry">Andolfo G, Jupe F, Witek K, <i>et al.</i> 2014. Defining the full tomato NB-LRR resistance gene repertoire using genomic and cDNA RenSeq. <i>BMC plant biology</i>, <b>14</b>: 120.</div>
+  <div class="csl-entry">Bethke G, Thao A, Xiong G, <i>et al.</i> 2016. Pectin biosynthesis is critical for cell wall integrity and immunity in arabidopsis thaliana. <i>The Plant Cell</i>, <b>28</b>(2): 537-556.</div>
 </div>
 
 ## 默认测试
