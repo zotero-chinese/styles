@@ -23,8 +23,7 @@
     <issn>1007-4619</issn>
     <summary>中国图象图形学报；由于 CSL 功能的限制，参考文献表中英文文献会出现“和”，需要手动替换为“and”。</summary>
     <updated>2026-04-21T20:30:01+08:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a
-      Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
@@ -34,7 +33,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-       <term name="et-al"> 等</term>
+      <!-- <term name="et-al">等</term> -->
     </terms>
   </locale>
   <locale>
@@ -45,7 +44,7 @@
     </date>
     <terms>
       <term name="and others"> et al</term>
-      <term name="et-al">et al</term>
+      <!-- <term name="et-al">et al</term> -->
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -69,7 +68,7 @@
   <macro name="author-ZHtoEN">
     <names variable="original-author">
       <name and="text" delimiter-precedes-last="never"/>
-       <et-al term="and others"/>
+      <et-al term="and others"/>
     </names>
   </macro>
   <macro name="author-zh">
@@ -242,7 +241,7 @@
       <if variable="original-container-title">
         <!-- 优先使用专著或会议论文集的题名 -->
         <group delimiter=": ">
-          <text variable="original-container-title" />
+          <text variable="original-container-title"/>
           <text macro="volume"/>
         </group>
       </if>
@@ -463,21 +462,21 @@
             <!-- 4.2 专著中的析出文献 -->
             <!-- 4.2.1 会议论文 -->
             <choose>
-             <if type="paper-conference">
+              <if type="paper-conference">
                 <group delimiter="//">
-                <text macro="title"/>
-                <text macro="secondary-contributors"/>
-                <text macro="container-booklike"/>
+                  <text macro="title"/>
+                  <text macro="secondary-contributors"/>
+                  <text macro="container-booklike"/>
                 </group>
               </if>
-               <else>
+              <else>
                 <text macro="title"/>
                 <text macro="secondary-contributors"/>
                 <text macro="container-booklike"/>
-                </else>
-              </choose>
-                <text macro="edition"/>
-                <text macro="publisher"/>
+              </else>
+            </choose>
+            <text macro="edition"/>
+            <text macro="publisher"/>
           </else-if>
           <else>
             <!-- 4.1 专著 -->
@@ -596,7 +595,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography  et-al-min="7" et-al-use-first="6" entry-spacing="0" hanging-indent="true">
+  <bibliography et-al-min="7" et-al-use-first="6" entry-spacing="0" hanging-indent="true">
     <sort>
       <key macro="author-sort"/>
       <key macro="issued-year"/>
