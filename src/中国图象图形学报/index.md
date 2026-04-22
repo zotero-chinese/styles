@@ -8,9 +8,9 @@
 
 ### 引注
 
-（Dai et al，2021）<br>
+（Dai 等，2021）<br>
 （回丙伟 等，2020）<br>
-（Zhang et al，2020）<br>
+（Zhang 等，2020）<br>
 
 
 ### 参考文献表
@@ -33,19 +33,19 @@ Jason （2008）<br>
 Wang and Sun （2009）<br>
 （Wolchik and West，2009；赵一和陈二，2008）<br>
 张三 等 （2008）<br>
-Wang et al （2009）<br>
-（Wolchik et al，2009；赵一 等，2008）<br>
+Wang 等 （2009）<br>
+（Wolchik 等，2009；赵一 等，2008）<br>
 张三 等 （2019a）<br>
 张三 等 （2019b）<br>
-Qian et al （2020b）<br>
-Qian et al （2020a）<br>
-（Qian et al，2020b；张三 等，2019a）<br>
+Qian 等 （2020b）<br>
+Qian 等 （2020a）<br>
+（Qian 等，2020b；张三 等，2019a）<br>
 张三 等 （2020a）<br>
 张三 等 （2020b）<br>
-Qian et al （2009b）<br>
-Qian et al （2009a）<br>
+Qian 等 （2009b）<br>
+Qian 等 （2009a）<br>
 （张三 等，2020a）<br>
-（Qian et al，2009b）<br>
+（Qian 等，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
 （Edeline and Weinberger，2002a，2002b，2005）<br>
