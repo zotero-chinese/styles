@@ -9,14 +9,14 @@
 ### 引注
 
 （Dai et al，2021）<br>
-（回丙伟等，2020）<br>
+（回丙伟 等，2020）<br>
 （Zhang et al，2020）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Chen X Y, Hu Y Q, Lv J T, You L L, Wang Z F, Dai W C,  et al. 2020. A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background. China Scientific Data, 5(3): 291-302 (回丙伟, 宋志勇, 范红旗, 钟平, 胡卫东, 张晓峰, 等. 2020. 地/空背景下红外图像弱小飞机目标检测跟踪数据集. 中国科学数据, 5(3): 291-302) [DOI: <a href="https://doi.org/10.11922/csdata.2019.0074.zh">10.11922/csdata.2019.0074.zh</a>]</div>
+  <div class="csl-entry">Chen X Y, Hu Y Q, Lv J T, You L L, Wang Z F, Dai W C,  et al. 2020. A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background. China Scientific Data, 5(3): 291-302 (回丙伟, 宋志勇, 范红旗, 钟平, 胡卫东, 张晓峰,  等. 2020. 地/空背景下红外图像弱小飞机目标检测跟踪数据集. 中国科学数据, 5(3): 291-302) [DOI: <a href="https://doi.org/10.11922/csdata.2019.0074.zh">10.11922/csdata.2019.0074.zh</a>]</div>
   <div class="csl-entry">Dai Y, Wu Y, Zhou F and Barnard K. 2021. Asymmetric contextual modulation for infrared small target detection//Proceedings of 2021 IEEE Winter Conference on Applications of Computer Vision (WACV). Waikoloa, HI, USA: IEEE: 949-958 [DOI: <a href="https://doi.org/10.1109/WACV48630.2021.00099">10.1109/WACV48630.2021.00099</a>].</div>
   <div class="csl-entry">Zhang K, Luo W, Zhong Y, Ma L, Stenger B, Liu W, et al. 2020. Deblurring by realistic blurring//2020 IEEE/CVF conference on computer vision and pattern recognition (CVPR). Seattle, WA, USA: IEEE: 2734-2743 [DOI: <a href="https://doi.org/10.1109/CVPR42600.2020.00281">10.1109/CVPR42600.2020.00281</a>].</div>
 </div>
@@ -32,19 +32,19 @@ Jason （2008）<br>
 张三和李四 （2008）<br>
 Wang and Sun （2009）<br>
 （Wolchik and West，2009；赵一和陈二，2008）<br>
-张三等 （2008）<br>
+张三 等 （2008）<br>
 Wang et al （2009）<br>
-（Wolchik et al，2009；赵一等，2008）<br>
-张三等 （2019a）<br>
-张三等 （2019b）<br>
+（Wolchik et al，2009；赵一 等，2008）<br>
+张三 等 （2019a）<br>
+张三 等 （2019b）<br>
 Qian et al （2020b）<br>
 Qian et al （2020a）<br>
-（Qian et al，2020b；张三等，2019a）<br>
-张三等 （2020a）<br>
-张三等 （2020b）<br>
+（Qian et al，2020b；张三 等，2019a）<br>
+张三 等 （2020a）<br>
+张三 等 （2020b）<br>
 Qian et al （2009b）<br>
 Qian et al （2009a）<br>
-（张三等，2020a）<br>
+（张三 等，2020a）<br>
 （Qian et al，2009b）<br>
 （Wong，2007）<br>
 （Wong，2008）<br>
@@ -143,7 +143,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">2023. 35 (博伯尔. 2023. 银行业的未来与人工智能. 徐超, 译. 北京: 清华大学出版社: 35)</div>
   <div class="csl-entry">史国华, 樊金宇, 何益, 邢利娜, and 高峰. 2022. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法: JP2022539784A. 2022-09-13.</div>
   <div class="csl-entry">2019 (吴自银, 温珍河. 2019. 中国南部海域海底地形图. 北京: 科学出版社)</div>
-  <div class="csl-entry">2023 (周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松, 等. 2023. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心) <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
+  <div class="csl-entry">2023 (周壮, 李盛阳, 吴薇, 郭威龙, 李轩, 夏桂松,  等. 2023. 天宫二号遥感图像自然景物分类数据集. 国家基础学科公共科学数据中心) <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a></div>
   <div class="csl-entry">2012. 235-236 (哈里森, 沃尔德伦. 2012. 经济数学与金融数学. 谢远涛, 译. 北京: 中国人民大学出版社: 235-236)</div>
   <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典. 東京: 柏書房株式会社: 154.</div>
   <div class="csl-entry">[2025] (国家测绘地理信息局. [2025]. 一带一路经济走廊及其途经城市分布地势图)</div>
@@ -185,7 +185,7 @@ Qian et al （2009a）<br>
   <div class="csl-entry">2011. 45-52 (贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究. 中国图书馆学会. 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社: 45-52)</div>
   <div class="csl-entry">2001 (赵学功. 2001. 当代美国外交. 北京: 社会科学文献出版社)</div>
   <div class="csl-entry">2008. CN101106276A. 2008-01-16 (邓一刚. 2008. 全智能节电器: CN101106276A. 2008-01-16)</div>
-  <div class="csl-entry">2018 (郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智, 等. 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank) <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
+  <div class="csl-entry">2018 (郑涵, 于贵瑞, 朱先进, 王秋凤, 张雷明, 陈智,  等. 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据. Science Data Bank) <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a></div>
   <div class="csl-entry">2020. 16 (金燕萍. 2020. 社交媒体时代的虚假信息研究. 温州: 温州大学: 16)</div>
   <div class="csl-entry">2001. 序2-3 (钱学森. 2001. 创建系统学. 太原: 山西科学技术出版社: 序2-3)</div>
   <div class="csl-entry">2023. 15-18 (阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答. 姜海伦, 译. 《环球科学》杂志社. 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15-18)</div>
@@ -238,8 +238,8 @@ Qian et al （2009a）<br>
   <div class="csl-entry">Zhang S和Li S. 2008a. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215 (张三, 李四. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215)</div>
   <div class="csl-entry">Zhang S和Li S. 2008b. Chinese psychology and the Olympics. Xinhua Daily, 2008-08-08(2, 5-7) (张三, 李四. 2008. 中国心理学与奥林匹克. 新华日报, 2008-08-08(2, 5-7))</div>
   <div class="csl-entry">Zhang S和Li S. The past and future of Chinese psychology. Acta Psychologica Sinica (张三, 李四. 中国心理学的过去与未来. 心理学报)</div>
-  <div class="csl-entry">Zhao Y, Qian E, Sun S, Li S, Zhou W, Wu L,  et al. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215 (赵一, 钱二, 孙三, 李四, 周五, 吴六, 等. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215)</div>
-  <div class="csl-entry">Zhao Y Y, Qian E, Sun S, Li S, Zhou W, Wu L,  et al. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215 (赵一一, 钱二, 孙三, 李四, 周五, 吴六, 等. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215)</div>
+  <div class="csl-entry">Zhao Y, Qian E, Sun S, Li S, Zhou W, Wu L,  et al. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215 (赵一, 钱二, 孙三, 李四, 周五, 吴六,  等. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215)</div>
+  <div class="csl-entry">Zhao Y Y, Qian E, Sun S, Li S, Zhou W, Wu L,  et al. 2008. The past and future of Chinese psychology. Acta Psychologica Sinica, 40: 210-215 (赵一一, 钱二, 孙三, 李四, 周五, 吴六,  等. 2008. 中国心理学的过去与未来. 心理学报, 40: 210-215)</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
