@@ -79,10 +79,12 @@
           <names variable="host"/>
           <choose>
             <if variable="container-title" match="none">
-              <names variable="editor"/>
-              <names variable="editorial-director"/>
-              <names variable="compiler"/>
-              <names variable="collection-editor"/>
+              <group>
+                <names variable="editor"/>
+                <names variable="editorial-director"/>
+                <names variable="compiler"/>
+                <names variable="collection-editor"/>
+              </group>
             </if>
           </choose>
         </substitute>
@@ -232,10 +234,13 @@
           <if type="article">
             <text value="OL"/>
           </if>
-          <!-- 2.2 网络首发文章 (J): 期刊文章但无卷/期 -->
+          <!-- 2.2 网络首发文章 (J): 期刊文章且无卷/期/页码
+            注：有页码的无卷期条目视为实体出版物（如被误存为期刊文章的会议论文），不标注 OL -->
           <else-if type="article-journal article-magazine" match="any">
-            <if variable="volume issue" match="none">
-              <text value="OL"/>
+            <if variable="volume issue page" match="none">
+                <text value="OL"/>
+                <!-- 有页码说明是实体出版物（如被误存为article-journal的会议论文），不加OL -->
+              </choose>
             </if>
           </else-if>
           <!-- 2.3 网站/网页 (EB) -->
@@ -250,7 +255,11 @@
           <else-if type="software">
             <text value="OL"/>
           </else-if>
-          <!-- 2.6 其他类型 (如常规期刊、图书、会议等) 均不加 OL -->
+          <!-- 2.6 标准 (S) -->
+          <else-if type="standard">
+            <text value="OL"/>
+          </else-if>
+          <!-- 2.7 其他类型 (如常规期刊、图书、会议等) 均不加 OL -->
         </choose>
       </else-if>
     </choose>
@@ -357,11 +366,22 @@
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
-        <group delimiter="，">
-          <text variable="container-title" strip-periods="true"/>
-          <text macro="date"/>
-        </group>
-        <text variable="page" prefix="（" suffix="）"/>
+        <choose>
+          <if locale="en">
+            <group delimiter=", ">
+              <text variable="container-title" strip-periods="true"/>
+              <text macro="date"/>
+            </group>
+            <text variable="page" prefix="(" suffix=")"/>
+          </if>
+          <else>
+            <group delimiter="，">
+              <text variable="container-title" strip-periods="true"/>
+              <text macro="date"/>
+            </group>
+            <text variable="page" prefix="（" suffix="）"/>
+          </else>
+        </choose>
       </if>
       <else>
         <choose>
@@ -458,7 +478,7 @@
   <!-- 7.5 出版信息 7.7 页码 -->
   <macro name="publisher">
     <choose>
-      <if type="article dataset" match="any">
+      <if type="article dataset software" match="any">
         <choose>
           <if variable="publisher">
             <text variable="publisher"/>
@@ -468,25 +488,55 @@
           </else-if>
         </choose>
         <choose>
-          <if variable="issued">
-            <date variable="issued" form="numeric" prefix="，" suffix=""/>
+          <if locale="en">
+            <choose>
+              <if variable="issued">
+                <date variable="issued" form="numeric" prefix=", " suffix=""/>
+              </if>
+              <else-if variable="available-date">
+                <date variable="available-date" form="numeric" prefix=", " suffix=""/>
+              </else-if>
+            </choose>
           </if>
-          <else-if variable="available-date">
-            <date variable="available-date" form="numeric" prefix="，" suffix=""/>
-          </else-if>
+          <else>
+            <choose>
+              <if variable="issued">
+                <date variable="issued" form="numeric" prefix="，" suffix=""/>
+              </if>
+              <else-if variable="available-date">
+                <date variable="available-date" form="numeric" prefix="，" suffix=""/>
+              </else-if>
+            </choose>
+          </else>
         </choose>
       </if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia map paper-conference periodical thesis" variable="publisher" match="any">
-        <group delimiter="：">
-          <group delimiter="，">
-            <group delimiter="：">
-              <text variable="publisher-place"/>
-              <text variable="publisher"/>
+        <choose>
+          <if locale="en">
+            <group delimiter=": ">
+              <group delimiter=", ">
+                <group delimiter=": ">        <!-- 出版地：出版者 用冒号 -->
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </group>
+                <text macro="date"/>
+              </group>
+              <text variable="page"/>
             </group>
-            <text macro="date"/>
-          </group>
-          <text variable="page"/>
-        </group>
+          </if>
+          <else>
+            <group delimiter="：">
+              <group delimiter="，">
+                <group delimiter="：">
+                  <text variable="publisher-place"/>
+                  <text variable="publisher"/>
+                </group>
+                <text macro="date"/>
+              </group>
+              <text variable="page"/>
+            </group>
+          </else>
+        </choose>
       </else-if>
       <else-if type="patent report" match="any">
         <group delimiter="：">
@@ -564,48 +614,37 @@
   <macro name="access">
     <choose>
       <!-- 1. 网络首发（无卷期号的期刊文章）：需要 DOI 或 URL -->
-      <if type="article-journal" variable="volume issue" match="none">
+      <if type="article-journal article-magazine" match="any">
         <choose>
-          <if variable="DOI">
-            <text variable="DOI" prefix=""/>    <!-- 如果需要'DOI:'字样 prefix="DOI:"-->
+          <if variable="volume issue" match="none">
+            <choose>
+              <if variable="DOI">
+                <text variable="DOI" prefix=""/>
+              </if>
+              <else-if variable="URL">
+                <text variable="URL"/>
+              </else-if>
+            </choose>
           </if>
-          <else-if variable="URL">
-            <text variable="URL"/>
-          </else-if>
         </choose>
       </if>
       
       <!-- 2. 纯电子资源（数据集、网页、软件、预印本等）：需要 URL 或 DOI -->
-      <else-if type="article dataset post post-weblog webpage software" match="any">
+      <else-if type="article dataset post post-weblog webpage software standard" match="any">
         <group delimiter=". ">
           <text variable="URL"/>
           <choose>
             <if variable="CSTR">
               <text variable="CSTR" prefix="CSTR:"/>
             </if>
-            <else>
-              <text variable="DOI" prefix=""/>    <!-- 如果需要'DOI:'字样 prefix="DOI:"-->
-            </else>
+            <else-if variable="DOI">
+                <text variable="DOI" prefix=""/>    <!-- 如果需要'DOI:'字样 prefix="DOI:"-->
+            </else-if>
           </choose>
         </group>
       </else-if>
       
-      <!-- 3. 标准：按 GB/T 7714-2025 需要著录获取路径 -->
-      <else-if type="standard">
-        <group delimiter=". ">
-          <text variable="URL"/>
-          <choose>
-            <if variable="CSTR">
-              <text variable="CSTR" prefix="CSTR:"/>
-            </if>
-            <else>
-              <text variable="DOI" prefix=""/>    <!-- 如果需要'DOI:'字样 prefix="DOI:"-->
-            </else>
-          </choose>
-        </group>
-      </else-if>
-      
-      <!-- 4. 常规文献（图书、期刊文章有卷期号、会议论文、学位论文等）：不著录任何获取路径 -->
+      <!-- 3. 常规文献（图书、期刊文章有卷期号、会议论文、学位论文等）：不著录任何获取路径 -->
       <else>
         <!-- 不输出任何内容 -->
       </else>
@@ -625,14 +664,19 @@
           <text macro="secondary-contributors"/>
           <text macro="container-periodical"/>
         </if>
-        <!-- 纯电子资源（数据集、网页、软件等） -->
-        <else-if type="dataset post post-weblog software webpage" match="any">
+        <!-- 网页类电子资源（数据集、网页、软件等） -->
+        <else-if type="post post-weblog webpage" match="any">
           <text macro="title"/>
           <text macro="pure-electronic-date"/>
         </else-if>
-        <else-if type="post post-weblog webpage" match="any">
+        <!-- 预印本 (article) 和数据集 (dataset)、软件 (software)的完整格式 -->
+        <else-if type="article dataset software" match="any">
           <text macro="title"/>
-          <text macro="creation-accessed-date"/>
+          <text macro="version"/>
+          <group delimiter=". ">
+            <text macro="publisher"/>
+            <text macro="creation-accessed-date"/>
+          </group>
         </else-if>
         <!-- 图书中的章节 -->
         <else-if type="chapter entry-dictionary entry-encyclopedia" variable="container-title" match="any">
@@ -653,15 +697,17 @@
         </else-if>
         <else-if type="paper-conference">
           <group delimiter="//">
+            <text macro="title"/>
             <group delimiter=". ">
-              <text macro="title"/>
-            </group>
-            <group delimiter="：">
-              <group delimiter="，">
-                <text variable="event-title"/>
-                <text macro="date"/>
-              </group>
-              <text variable="page"/>
+              <choose>
+                <if variable="container-title">
+                  <text macro="container-booklike"/>
+                </if>
+                <else>
+                  <text variable="event-title"/>
+                </else>
+              </choose>
+              <text macro="publisher"/>
             </group>
           </group>
         </else-if>
@@ -671,16 +717,7 @@
             <text macro="title"/>
           </group>
         </else-if>
-        <!-- 预印本 (article) 和数据集 (dataset) 的完整格式 -->
-        <else-if type="article dataset" match="any">
-          <text macro="title"/>
-          <text macro="version"/>
-          <group>
-            <text macro="publisher"/>
-            <text macro="creation-accessed-date"/>
-          </group>
-        </else-if>
-        <else-if type="book classic map patent report" variable="publisher" match="any">
+        <else-if type="book classic map patent report" match="any">
           <text macro="title"/>
           <text macro="secondary-contributors"/>
           <text macro="edition"/>
