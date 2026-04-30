@@ -240,7 +240,6 @@
             <if variable="volume issue page" match="none">
                 <text value="OL"/>
                 <!-- 有页码说明是实体出版物（如被误存为article-journal的会议论文），不加OL -->
-              </choose>
             </if>
           </else-if>
           <!-- 2.3 网站/网页 (EB) -->
