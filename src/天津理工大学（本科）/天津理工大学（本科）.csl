@@ -7,19 +7,20 @@
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
     <link href="https://github.com/zotero-chinese/styles/issues/680" rel="documentation"/>
     <author>
-      <name>Reiky Wu</name>
+      <name>Reiky</name>
       <email>reiky@stud.tjut.edu.cn</email>
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>天津理工大学本科毕业设计说明书（毕业论文）撰写规范(2025）.doc</summary>
-    <updated>2026-05-17T21:41:57+08:00</updated>
+    <summary>天津理工大学本科毕业设计说明书（毕业论文）撰写规范（2025）.doc</summary>
+    <updated>2026-05-05T21:41:57+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
     <terms>
       <term name="anonymous" form="short">佚名</term>
       <term name="edition" form="short">版</term>
+      <term name="et-al">等</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -34,12 +35,14 @@
     </date>
     <terms>
       <term name="page-range-delimiter">-</term>
+      <term name="and" form="symbol">&amp;</term>
+      <term name="et-al">et al.</term>
     </terms>
   </locale>
-  <!-- 主要责任者 -->
+  <!-- 主要责任者：英文使用半角逗号无空格分隔，姓氏在前名字缩写 -->
   <macro name="author-en">
-    <names variable="author">
-      <name name-as-sort-order="first" and="symbol" delimiter-precedes-last="never"/>
+    <names variable="author" delimiter=",">
+      <name name-as-sort-order="first" and="symbol" delimiter="," delimiter-precedes-last="never" initialize-with="."/>
       <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="composer"/>
@@ -55,8 +58,8 @@
     </names>
   </macro>
   <macro name="author-zh">
-    <names variable="author">
-      <name delimiter="，"/>
+    <names variable="author" delimiter=",">
+      <name name-as-sort-order="first" delimiter-precedes-last="never"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -70,7 +73,7 @@
       </substitute>
     </names>
   </macro>
-  <!-- 正文中引用，对欧美著者只标注第一个著者的姓 -->
+  <!-- 正文中引用，只需标注序号 -->
   <macro name="author-intext-en">
     <names variable="author">
       <name form="short" and="text"/>
@@ -632,10 +635,7 @@
   <!-- 参考文献表格式 -->
   <macro name="entry-layout-en">
     <group delimiter=". ">
-      <group delimiter=", ">
-        <text macro="author-en"/>
-        <text macro="issued-year-en"/>
-      </group>
+      <text macro="author-en"/>
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
@@ -645,10 +645,8 @@
         </if>
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
-          <group delimiter=", ">
-            <text macro="title-en"/>
-            <text macro="container-periodical-en"/>
-          </group>
+          <text macro="title-en"/>
+          <text macro="container-periodical-en"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
@@ -680,11 +678,8 @@
     </group>
   </macro>
   <macro name="entry-layout-zh">
-    <group delimiter="．">
-      <group delimiter="，">
-        <text macro="author-zh"/>
-        <text macro="issued-year-zh"/>
-      </group>
+    <group delimiter=".">
+      <text macro="author-zh"/>
       <choose>
         <if type="periodical">
           <!-- 4.3 连续出版物 -->
@@ -726,6 +721,7 @@
       <text macro="access"/>
     </group>
   </macro>
+  <!--正文引注格式-->
   <citation collapse="citation-number" after-collapse-delimiter="，" range-delimiter="～">
     <sort>
       <key variable="citation-number"/>
@@ -734,7 +730,7 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" second-field-align="flush">
+  <bibliography et-al-min="4" et-al-use-first="3" entry-spacing="0" second-field-align="flush">
     <sort>
       <key variable="language"/>
       <key macro="author-en"/>
