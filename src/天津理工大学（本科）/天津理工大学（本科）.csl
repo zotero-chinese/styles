@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="first" demote-non-dropping-particle="never" initialize-with="." initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
-    <title>GB/T 7714—2015（顺序编码，双语，姓名不大写，无 URL、DOI）</title>
-    <id>https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）</id>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="self"/>
+    <title>天津理工大学（本科）</title>
+    <id>https://zotero-chinese.com/styles/天津理工大学（本科）</id>
+    <link href="https://zotero-chinese.com/styles/天津理工大学（本科）" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
@@ -17,6 +18,10 @@
     <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
+    </contributor>
+    <contributor>
+      <name>__reiky__</name>
+      <email>reiky@stud.tjut.edu.cn</email>
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
@@ -40,7 +45,7 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="citation-range-delimiter">-</term>
+      <term name="citation-range-delimiter">～</term> <!-- CSL-M 扩展-->
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
