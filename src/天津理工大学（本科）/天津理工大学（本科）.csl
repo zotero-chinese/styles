@@ -5,28 +5,16 @@
     <id>https://zotero-chinese.com/styles/天津理工大学（本科）</id>
     <link href="https://zotero-chinese.com/styles/天津理工大学（本科）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="template"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
-    <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
+    <link href="https://jw.tjut.edu.cn/info/1992/5791.htm" rel="documentation"/>
+    <link href="https://jw.tjut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&amp;owner=1143802344&amp;wbfileid=12065462" rel="documentation"/>
     <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
-    <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
-    <contributor>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </contributor>
-    <contributor>
-      <name>__reiky__</name>
+      <name>Reiky</name>
       <email>reiky@stud.tjut.edu.cn</email>
-    </contributor>
+    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2026-05-05T21:13:42+08:00</updated>
+    <summary>天津理工大学本科毕业设计说明书（毕业论文）撰写规范（2025）.doc</summary>
+    <updated>2026-05-05T22:46:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -527,11 +515,11 @@
       <text macro="access"/>
     </group>
   </macro>
-  <citation collapse="citation-number" after-collapse-delimiter=",">
+  <citation collapse="citation-number" after-collapse-delimiter="，">
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+    <layout vertical-align="sup" delimiter="，" prefix="[" suffix="]">
       <text variable="citation-number"/>
     </layout>
   </citation>
