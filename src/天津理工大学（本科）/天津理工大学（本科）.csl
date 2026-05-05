@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>天津理工大学本科毕业设计说明书（毕业论文）撰写规范（2025）.doc</summary>
-    <updated>2026-05-05T3:28:00+08:00</updated>
+    <updated>2026-05-05T03:28:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -42,7 +42,7 @@
   <!-- 主要责任者：英文使用半角逗号无空格分隔，姓氏在前名字缩写 -->
   <macro name="author-en">
     <names variable="author" delimiter=",">
-      <name name-as-sort-order="first" and="symbol" delimiter="," delimiter-precedes-last="never" initialize-with="."/>
+      <name name-as-sort-order="first" and="symbol" delimiter-precedes-last="never" initialize-with="."/>
       <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="composer"/>
@@ -58,8 +58,8 @@
     </names>
   </macro>
   <macro name="author-zh">
-    <names variable="author" delimiter=",">
-      <name name-as-sort-order="first" delimiter-precedes-last="never"/>
+    <names variable="author" delimiter="，">
+      <name name-as-sort-order="first"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -722,7 +722,7 @@
     </group>
   </macro>
   <!--正文引注格式-->
-  <citation collapse="citation-number" after-collapse-delimiter="，" range-delimiter="～">
+  <citation collapse="citation-number" after-collapse-delimiter="，">
     <sort>
       <key variable="citation-number"/>
     </sort>
