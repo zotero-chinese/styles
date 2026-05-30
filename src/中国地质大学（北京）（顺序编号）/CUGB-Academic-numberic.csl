@@ -1,5 +1,5 @@
-﻿<?xml version="1.1" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.1" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>中国地质大学（北京）（顺序编码）</title>
@@ -12,10 +12,21 @@
       <name>JiachengQian</name>
       <email>qianjiacheng315@163.com</email>
     </author>
-    <contributor/>
+    <contributor>
+      <name>ZihaoLuo</name>
+      <email>2051368470@qq.com</email>
+    </contributor>
     <category citation-format="numeric"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。</summary>
-    <updated>2024-04-23T14:57:03+00:00</updated>
+    <summary>
+      基于钱家乘（微信公众号：通往PhD之路）制作的“中国地质大学（北京）（顺序编码）”，修改了图书中析出文献（chapter / entry-dictionary / entry-encyclopedia / paper-conference）的连接格式，使析出文献与包含文献用“//”分隔。
+      原样式说明：
+        1. 按照语言显示“等”或“et al.”；
+        2. 姓名取消全大写；
+        3. 仅纯电子资源显示引用日期和 URL；
+        4. 无 DOI；
+        5. 正文的引用使用半角括号。
+    </summary>
+    <updated>2026-05-30T22:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -566,10 +577,12 @@
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <group delimiter="//">
+            <!-- 析出文献部分 -->
             <group delimiter=". ">
               <text macro="title"/>
               <text macro="secondary-contributors"/>
             </group>
+            <!-- 源文献部分 -->
             <group delimiter=". ">
               <text macro="container-contributors"/>
               <text macro="container-booklike"/>
@@ -611,10 +624,12 @@
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <group delimiter="//">
+            <!-- 析出文献部分 -->
             <group delimiter="．">
               <text macro="title-zh"/>
               <text macro="secondary-contributors-zh"/>
             </group>
+            <!-- 源文献部分 -->
             <group delimiter="．">
               <text macro="container-contributors"/>
               <text macro="container-booklike-zh"/>
