@@ -1,0 +1,209 @@
+[
+  {
+    "id": "jes-periodical",
+    "type": "article-journal",
+    "container-title": "Geology",
+    "DOI": "10.1130/0091-7613(1987)15<45:thoubm>2.0.co;2",
+    "issue": "1",
+    "language": "en-US",
+    "page": "45",
+    "title": "Tectonic History of Ulleung Basin Margin, East Sea (Sea of Japan)",
+    "volume": "15",
+    "author": [
+      {
+        "family": "Chough",
+        "given": "S. K."
+      },
+      {
+        "family": "Barg",
+        "given": "E."
+      }
+    ],
+    "issued": {
+      "date-parts": [["1987"]]
+    }
+  },
+  {
+    "id": "jes-book",
+    "type": "book",
+    "language": "en-US",
+    "number-of-pages": "507",
+    "publisher": "McGraw-Hill",
+    "publisher-place": "New York",
+    "title": "Sequence in Layered Rocks",
+    "author": [
+      {
+        "family": "Shrock",
+        "given": "R. R."
+      }
+    ],
+    "issued": {
+      "date-parts": [["1948"]]
+    }
+  },
+  {
+    "id": "jes-chapter",
+    "type": "chapter",
+    "container-title": "Archean Geochemistry",
+    "language": "en-US",
+    "page": "25-46",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin",
+    "title": "Geochemical Characteristics of Archean Ultramafic and Mafic Volcanic Rocks: Implication and Evolution",
+    "author": [
+      {
+        "family": "Sun",
+        "given": "S. S."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Kroner",
+        "given": "A."
+      },
+      {
+        "family": "Lansor",
+        "given": "G. N."
+      },
+      {
+        "family": "Goodwin",
+        "given": "A. M."
+      }
+    ],
+    "issued": {
+      "date-parts": [["1984"]]
+    }
+  },
+  {
+    "id": "jes-periodical-chapter",
+    "type": "chapter",
+    "collection-title": "Tectonophysics",
+    "container-title": "The Structure of the Crust and Mantle beneath Inland and Marginal Seas",
+    "DOI": "10.1016/0040-1951(70)90041-7",
+    "language": "en-US",
+    "page": "495-513",
+    "title": "The Geology of the Caribbean Crust, I. Beata Ridge",
+    "volume": "10",
+    "author": [
+      {
+        "family": "Fox",
+        "given": "P. J."
+      },
+      {
+        "family": "Ruddiman",
+        "given": "W. F."
+      },
+      {
+        "family": "Ryan",
+        "given": "W. B. F."
+      },
+      {
+        "family": "Heezen",
+        "given": "B. C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Heezen",
+        "given": "B. C."
+      },
+      {
+        "family": "Kosminskaya",
+        "given": "I. P."
+      }
+    ],
+    "issued": {
+      "date-parts": [["1971"]]
+    }
+  },
+  {
+    "id": "jes-thesis",
+    "type": "thesis",
+    "genre": "Dissertation",
+    "language": "en-US",
+    "note": "(in Chinese)",
+    "page": "95-105",
+    "publisher": "Lanzhou University",
+    "publisher-place": "Lanzhou",
+    "title": "The High Precise Cenozoic Magnetostratigraphy of the Qaidam Basin and Uplift of the Northern Tibetan Plateau",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "W. L."
+      }
+    ],
+    "issued": {
+      "date-parts": [["2006"]]
+    }
+  },
+  {
+    "id": "jes-citation-smith",
+    "type": "article-journal",
+    "container-title": "Journal of Earth Science",
+    "language": "en-US",
+    "page": "1-10",
+    "title": "Example Paper with Four Authors",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A."
+      },
+      {
+        "family": "Brown",
+        "given": "B."
+      },
+      {
+        "family": "Clark",
+        "given": "C."
+      },
+      {
+        "family": "Davis",
+        "given": "D."
+      }
+    ],
+    "issued": {
+      "date-parts": [["2012"]]
+    }
+  },
+  {
+    "id": "jes-citation-green",
+    "type": "article-journal",
+    "container-title": "Journal of Earth Science",
+    "language": "en-US",
+    "page": "11-20",
+    "title": "Example Paper with Two Authors",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Green",
+        "given": "A."
+      },
+      {
+        "family": "Jin",
+        "given": "B."
+      }
+    ],
+    "issued": {
+      "date-parts": [["2008"]]
+    }
+  },
+  {
+    "id": "jes-citation-kusky",
+    "type": "article-journal",
+    "container-title": "Journal of Earth Science",
+    "language": "en-US",
+    "page": "21-30",
+    "title": "Example Paper with One Author",
+    "volume": "1",
+    "author": [
+      {
+        "family": "Kusky",
+        "given": "T."
+      }
+    ],
+    "issued": {
+      "date-parts": [["2000"]]
+    }
+  }
+]
