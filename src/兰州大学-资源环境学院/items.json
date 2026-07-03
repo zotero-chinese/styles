@@ -1,0 +1,102 @@
+[
+  {
+    "id": "zh-two-authors",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "中文双作者测试文献",
+    "author": [
+      {
+        "family": "张",
+        "given": "明"
+      },
+      {
+        "family": "王",
+        "given": "辉"
+      }
+    ],
+    "container-title": "测试期刊",
+    "issued": {
+      "date-parts": [[2010]]
+    },
+    "volume": "1",
+    "issue": "1",
+    "page": "1-10"
+  },
+  {
+    "id": "zh-three-authors",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "中文三作者测试文献",
+    "author": [
+      {
+        "family": "张",
+        "given": "明"
+      },
+      {
+        "family": "王",
+        "given": "辉"
+      },
+      {
+        "family": "李",
+        "given": "强"
+      }
+    ],
+    "container-title": "测试期刊",
+    "issued": {
+      "date-parts": [[2011]]
+    },
+    "volume": "2",
+    "issue": "1",
+    "page": "11-20"
+  },
+  {
+    "id": "en-two-authors",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "English two-author test article",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "John"
+      },
+      {
+        "family": "Jones",
+        "given": "David"
+      }
+    ],
+    "container-title": "Test Journal",
+    "issued": {
+      "date-parts": [[2012]]
+    },
+    "volume": "3",
+    "issue": "1",
+    "page": "21-30"
+  },
+  {
+    "id": "en-three-authors",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "English three-author test article",
+    "author": [
+      {
+        "family": "Smith",
+        "given": "John"
+      },
+      {
+        "family": "Jones",
+        "given": "David"
+      },
+      {
+        "family": "Brown",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Test Journal",
+    "issued": {
+      "date-parts": [[2013]]
+    },
+    "volume": "4",
+    "issue": "1",
+    "page": "31-40"
+  }
+]
