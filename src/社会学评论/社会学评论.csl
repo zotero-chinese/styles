@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator=", " demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " default-locale="en-US" default-locale-sort="zh-CN">
+  <info>
+    <title>社会学评论</title>
+    <id>https://www.zotero-chinese.com/styles/社会学评论</id>
+    <link href="https://www.zotero-chinese.com/styles/社会学评论" rel="self"/>
+    <link href="http://www.zotero.org/styles/chicago-author-date" rel="template"/>
+    <author>
+      <name>Social Science Review Editorial Office</name>
+      <email>editor@ssr.edu.cn</email>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="sociology"/>
+    <summary>著者-出版年制（chicago-author-date 派生）：正文（作者 年份: 页码），文末参考文献按作者字母序排列。</summary>
+    <updated>2026-08-04T12:00:00+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+  <locale xml:lang="zh">
+    <terms>
+      <term name="anonymous" form="short">佚名</term>
+      <term name="edition" form="short">版</term>
+      <term name="collection-editor" form="short">编</term>
+      <term name="editor" form="short">编</term>
+      <term name="editorial-director" form="short">编</term>
+      <term name="translator" form="short">译</term> 
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="collection-editor" form="short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
+    </terms>
+  </locale>
+  <!-- 主要责任者 -->
+  <macro name="author-en">
+    <names variable="author">
+      <name and="symbol" delimiter-precedes-last="never" name-as-sort-order="first"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-zh">
+    <names variable="author">
+      <name delimiter="、"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 正文引用的作者姓名 -->
+  <macro name="author-intext-en">
+    <names variable="author">
+      <name and="symbol" form="short"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="author-intext-zh">
+    <names variable="author">
+      <name delimiter="、"/>
+      <substitute>
+        <names variable="composer"/>
+        <names variable="illustrator"/>
+        <names variable="director"/>
+        <choose>
+          <if variable="container-title" match="none">
+            <names variable="editor"/>
+          </if>
+        </choose>
+        <text macro="anon"/>
+      </substitute>
+    </names>
+  </macro>
+  <!-- 佚名 -->
+  <macro name="anon">
+    <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
+  </macro>
+  <!-- 出版年 -->
+  <macro name="date">
+    <date variable="issued">
+      <date-part name="year" range-delimiter="-"/>
+    </date>
+  </macro>
+  <!-- 题名 -->
+  <macro name="title-en">
+    <choose>
+      <if type="post webpage" match="any">
+        <text variable="title" font-style="italic"/>
+      </if>
+      <else-if variable="container-title">
+        <text variable="title" quotes="true"/>
+      </else-if>
+      <else>
+        <text variable="title" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+  <macro name="title-zh">
+    <text variable="title" prefix="《" suffix="》"/>
+  </macro>
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributors-en">
+    <names variable="translator">
+      <name and="symbol" delimiter-precedes-last="never"/>
+      <label form="short" prefix=". "/>
+    </names>
+  </macro>
+  <macro name="secondary-contributors-zh">
+    <names variable="translator">
+      <name delimiter="、"/>
+      <label form="short" prefix=""/>
+    </names>
+  </macro>
+  <!-- 编者信息 -->
+  <macro name="editor-info-zh">
+    <names variable="editor">
+      <name delimiter="、"/>
+      <label form="short"/>
+    </names>
+  </macro>
+  <macro name="editor-info-en">
+    <names variable="editor">
+      <name and="symbol" delimiter-precedes-last="never"/>
+      <label form="short" prefix=" "/>
+    </names>
+  </macro>
+  <!-- 期刊或专著题名 -->
+  <macro name="container-en">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <text macro="container-periodical-en"/>
+      </if>
+      <else-if variable="container-title">
+        <choose>
+          <if type="post webpage" match="none">
+            <text macro="container-booklike-en"/>
+          </if>
+        </choose>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="container-zh">
+    <choose>
+      <if type="article-journal article-magazine article-newspaper" match="any">
+        <text macro="container-periodical-zh"/>
+      </if>
+      <else-if variable="container-title">
+        <choose>
+          <if type="post webpage" match="none">
+            <text macro="container-booklike-zh"/>
+          </if>
+        </choose>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- 专著题名 -->
+  <macro name="container-booklike-en">
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+  <macro name="container-booklike-zh">
+    <text variable="container-title" prefix="《" suffix="》"/>
+  </macro>
+  <!-- 期刊题名 -->
+  <macro name="container-periodical-en">
+    <text variable="container-title" font-style="italic"/>
+  </macro>
+  <macro name="container-periodical-zh">
+    <text variable="container-title" prefix="《" suffix="》"/>
+  </macro>
+  <!-- 报纸日期 -->
+  <macro name="newspaper-date">
+    <date variable="issued">
+      <date-part name="year"/>
+      <date-part name="month" form="numeric-leading-zeros" prefix="-"/>
+      <date-part name="day" prefix="-"/>
+    </date>
+  </macro>
+  <!-- 卷期信息 -->
+  <macro name="issue-info-en">
+    <group delimiter=" ">
+      <text variable="volume"/>
+      <text variable="issue" prefix="(" suffix=")"/>
+    </group>
+  </macro>
+  <macro name="issue-info-zh">
+    <text variable="issue" prefix="第" suffix="期"/>
+  </macro>
+  <!-- 出版社 -->
+  <macro name="publisher-en">
+    <choose>
+      <if type="thesis">
+        <text variable="publisher"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper" match="none">
+        <group delimiter=": ">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </else-if>
+      <else-if type="webpage post-weblog" match="any">
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="publisher-zh">
+    <choose>
+      <if type="thesis">
+        <text variable="publisher"/>
+      </if>
+      <else-if type="article-journal article-magazine article-newspaper" match="none">
+        <group delimiter="：">
+          <text variable="publisher-place"/>
+          <text variable="publisher"/>
+        </group>
+      </else-if>
+      <else-if type="webpage post-weblog" match="any">
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+  <!-- 访问日期 -->
+  <macro name="access-date">
+    <date variable="accessed" prefix=", ">
+      <date-part name="year"/>
+      <date-part name="month" form="numeric-leading-zeros" prefix="-"/>
+      <date-part name="day" prefix="-"/>
+    </date>
+  </macro>
+  <!-- 参考文献表格式 -->
+  <macro name="entry-layout-en">
+    <group delimiter=". ">
+      <group delimiter=", ">
+        <text macro="author-en"/>
+        <text macro="date"/>
+        <text macro="title-en"/>
+        <text macro="secondary-contributors-en"/>
+      </group>
+      <text macro="container-en"/>
+      <group delimiter=" ">
+        <text macro="issue-info-en"/>
+        <text macro="publisher-en"/>
+      </group>
+    </group>
+  </macro>
+  <macro name="entry-layout-zh">
+    <group delimiter="，">
+      <text macro="author-zh"/>
+      <text macro="date"/>
+      <text macro="title-zh"/>
+      <text macro="secondary-contributors-zh"/>
+      <choose>
+        <if type="article-newspaper">
+          <group delimiter="">
+            <text macro="container-zh"/>
+            <text macro="newspaper-date"/>
+          </group>
+        </if>
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter="，">
+            <text macro="editor-info-zh"/>
+            <text macro="container-zh"/>
+          </group>
+        </else-if>
+        <else-if type="article-journal article-magazine" match="any">
+          <group delimiter="">
+            <text macro="container-zh"/>
+            <text macro="issue-info-zh"/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="container-zh"/>
+        </else>
+      </choose>
+      <text macro="publisher-zh"/>
+    </group>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter="，">
+    <sort>
+      <key macro="author-intext-en"/>
+      <key macro="date"/>
+    </sort>
+    <layout prefix="（" suffix="）" delimiter="；" locale="zh">
+      <group delimiter="，">
+        <text macro="author-intext-zh"/>
+        <text macro="date"/>
+      </group>
+      <group delimiter="">
+        <text value="："/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+    <layout prefix="（" suffix="）" delimiter="；">
+      <group delimiter="，">
+        <text macro="author-intext-en"/>
+        <text macro="date"/>
+      </group>
+      <group delimiter="">
+        <text value=": "/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+  <bibliography entry-spacing="0" hanging-indent="true" subsequent-author-substitute="——">
+    <sort>
+      <key macro="author-en"/>
+      <key macro="date"/>
+    </sort>
+    <layout locale="zh">
+      <text macro="entry-layout-zh" suffix="。"/>
+    </layout>
+    <layout>
+      <text macro="entry-layout-en" suffix="."/>
+    </layout>
+  </bibliography>
+</style>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="zh-CN">
+  <info>
+    <title>武汉大学学报（哲学社会科学版）</title>
+    <id>https://www.zotero-chinese.com/styles/武汉大学学报（哲学社会科学版）</id>
+    <link href="https://www.zotero-chinese.com/styles/武汉大学学报（哲学社会科学版）" rel="self"/>
+    <link href="https://journal.whu.edu.cn/sk/ch/index.aspx" rel="documentation"/>
+    <author>
+      <name>AI助手</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="social_science"/>
+    <summary>顺序编码制（GB/T 7714 型）：正文上标 [1]，文末参考文献按引用顺序排列。依据《武汉大学学报（哲学社会科学版）》投稿体例。</summary>
+    <updated>2026-08-04T12:00:00+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">本作品采用知识共享署名-相同方式共享3.0许可证</rights>
+  </info>
+
+  <!-- 中文本地化配置 -->
+  <locale xml:lang="zh">
+    <terms>
+      <term name="page" form="short">P</term>
+      <term name="edition" form="short">版</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+
+  <!-- 英文本地化配置 -->
+  <locale>
+    <terms>
+      <term name="citation-range-delimiter">-</term>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
+
+  <!-- 作者宏定义 -->
+  <macro name="author">
+    <names variable="author">
+      <name and="text" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="never"/>
+    </names>
+  </macro>
+
+  <!-- 标题宏定义 -->
+  <macro name="title">
+    <text variable="title" text-case="title"/>
+  </macro>
+
+  <!-- 卷号 -->
+  <macro name="volume">
+    <choose>
+      <if is-numeric="volume">
+        <group delimiter=" ">
+          <label variable="volume" form="short" text-case="capitalize-first"/>
+          <text variable="volume"/>
+        </group>
+      </if>
+      <else>
+        <text variable="volume"/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- 其他责任者 -->
+  <macro name="secondary-contributors">
+    <names variable="translator">
+      <name and="text" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="never"/>
+      <label form="short" prefix=", "/>
+    </names>
+  </macro>
+
+  <!-- 专著题名 -->
+  <macro name="container-contributors">
+    <names variable="editor">
+      <name and="text" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="never"/>
+    </names>
+  </macro>
+
+  <macro name="container-title">
+    <group delimiter=": ">
+      <text variable="container-title" font-style="normal"/>
+      <text macro="volume"/>
+    </group>
+  </macro>
+
+  <!-- 析出文献专著部分 -->
+  <macro name="container-booklike">
+    <group delimiter="//">
+      <text macro="container-contributors"/>
+      <text macro="container-title"/>
+    </group>
+  </macro>
+
+  <!-- 连续出版物中的出处项 -->
+  <macro name="container-periodical">
+    <choose>
+      <if type="article-newspaper">
+        <group delimiter=", ">
+          <text variable="container-title"/>
+          <text macro="issued-date"/>
+        </group>
+        <text variable="page" prefix="(" suffix=")"/>
+      </if>
+      <else>
+        <group delimiter=": ">
+          <group>
+            <group delimiter=", ">
+              <text variable="container-title" font-style="italic"/>
+              <text macro="issued-year"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- 版本项 -->
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <label variable="edition" form="short"/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- 出版年 -->
+  <macro name="issued-year">
+    <date variable="issued" form="numeric" date-parts="year"/>
+  </macro>
+
+  <!-- 出版日期 -->
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
+  </macro>
+
+  <!-- 禁止输出网络文献信息（自2024年起） -->
+  <macro name="access">
+    <!-- 从2024年起，本刊不再使用网络文献，因此此处不输出任何内容 -->
+  </macro>
+
+  <!-- 条目布局 -->
+  <macro name="entry-layout">
+    <group delimiter=". ">
+      <text macro="author"/>
+      <choose>
+        <if type="periodical">
+          <text macro="title"/>
+          <text macro="year-volume-issue"/>
+          <text macro="publisher"/>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <text macro="title"/>
+          <text macro="container-periodical"/>
+        </else-if>
+        <else-if type="patent">
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="dataset post post-weblog software webpage" match="any">
+          <text macro="title"/>
+          <text macro="publisher"/>
+        </else-if>
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <group delimiter="//">
+            <group delimiter=". ">
+              <text macro="title"/>
+              <text macro="secondary-contributors"/>
+            </group>
+            <group delimiter=". ">
+              <text macro="container-contributors"/>
+              <text macro="container-title"/>
+            </group>
+          </group>
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <date variable="issued" form="numeric" date-parts="year"/>
+        </else-if>
+        <else>
+          <text macro="title"/>
+          <text macro="secondary-contributors"/>
+          <text macro="edition"/>
+          <group delimiter=": ">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <date variable="issued" form="numeric" date-parts="year"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </group>
+  </macro>
+
+  <!-- 引用部分 -->
+  <citation collapse="citation-number" after-collapse-delimiter="，">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout delimiter="，">
+      <group vertical-align="sup">
+        <text variable="citation-number" prefix="[" suffix="]"/>
+      </group>
+      <group prefix="（" suffix="）">
+        <label variable="locator" form="short" suffix=""/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+
+  <!-- 参考文献列表 -->
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout locale="en">
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="entry-layout" suffix="."/>
+    </layout>
+    <layout>
+      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text macro="entry-layout" suffix="."/>
+    </layout>
+  </bibliography>
+</style>
