@@ -1,0 +1,29 @@
+{
+  "dir": "武汉大学学报（哲学社会科学版）",
+  "file": "武汉大学学报（哲学社会科学版）.csl",
+  "style_class": "in-text",
+  "title": "武汉大学学报（哲学社会科学版）",
+  "id": "https://www.zotero-chinese.com/styles/武汉大学学报（哲学社会科学版）",
+  "link_self": "https://www.zotero-chinese.com/styles/武汉大学学报（哲学社会科学版）",
+  "link_documentation": "https://journal.whu.edu.cn/sk/ch/index.aspx",
+  "author": [
+    {
+      "name": "AI助手"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "numeric",
+  "field": "social_science",
+  "summary": "顺序编码制（GB/T 7714 型）：正文上标 [1]，文末参考文献按引用顺序排列。依据《武汉大学学报（哲学社会科学版）》投稿体例。",
+  "updated": "2026-08-04T12:00:00+08:00",
+  "citations": "[<sup>1</sup>]-[<sup>8</sup>]",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1] </div><div class=\"csl-right-inline\">扬奎斯特和萨金特. 递归宏观经济理论. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社. 2010.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2] </div><div class=\"csl-right-inline\">Adrian Praetzellis. Death by theory: A tale of mystery and archaeological Theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc. 2011.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3] </div><div class=\"csl-right-inline\">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4] </div><div class=\"csl-right-inline\">Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: The SMART-MR Study. <i>Journal of the Neurological Sciences</i>, 2014, 337(1/2): 112-118.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[5] </div><div class=\"csl-right-inline\">汪学军. 中国农业转基因生物研发进展与安全管理//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社. 2005.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[6] </div><div class=\"csl-right-inline\">Shanshan Wang. Application of improved SOM neural network in intelligent auditing of hospital financial Vouchers. 2022.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[7] </div><div class=\"csl-right-inline\">肖玲, 张雪和王永. 数据要素的统计测算方法探究. PSSXiv. 2024.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[8] </div><div class=\"csl-right-inline\">Stewart D. Jenkins and Janne Ruostekoski. Controlled manipulation of light by cooperative response of atoms in an optical Lattice. arXiv. 2012.</div>\n  </div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}
