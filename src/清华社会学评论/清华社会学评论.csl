@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator=", " demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<!-- 官方体例（《清华社会学评论》征稿启事，第二十四辑）：英文姓名“Fei，Hsiao-tung”姓与名间为全角逗号，由 sort-separator=“，”控制；页码分隔符 zh 用全角～、en 用半角-，由 locale 术语 page-range-delimiter 实现 -->
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator="，" demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>清华社会学评论</title>
     <title-short>清华社会学评论</title-short>
@@ -12,8 +13,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="sociology"/>
-    <summary>集刊；著者-出版年制（社会学评论派生）：正文（作者 年份: 页码），文末参考文献按作者字母序排列。</summary>
-    <updated>2026-08-04T12:00:00+08:00</updated>
+    <summary>集刊；著者-出版年制：正文夹注(作者, 年份)，文末参考文献中文在前英文在后按首写字母排列；依据《清华社会学评论》征稿启事（第二十四辑，2026 年）。</summary>
+    <updated>2026-08-04T21:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -25,10 +26,13 @@
       <term name="editorial-director" form="short">编</term>
       <term name="translator" form="short">译</term> 
       <term name="page" form="short">页</term>
-      <term name="open-quote">"</term>
-      <term name="close-quote">"</term>
-      <term name="open-inner-quote">'</term>
-      <term name="close-inner-quote">'</term>
+      <!-- 官方例：第53～67页（全角～） -->
+      <term name="page-range-delimiter">～</term>
+      <!-- 官方示例引号为弯引号：“受苦人”、‘集体记忆’（征稿启事） -->
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
     </terms>
   </locale>
   <locale>
@@ -41,12 +45,15 @@
         <single>ed.</single>
         <multiple>eds.</multiple>
       </term>
+      <!-- 官方例：106-116（半角连字符） -->
+      <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->
   <macro name="author-en">
     <names variable="author">
-      <name and="text" delimiter=", " delimiter-precedes-last="never" name-as-sort-order="first"/>
+      <!-- 官方例：Olick，Jeffrey K. and Joyce Robbins.（首作者姓前名后、其余名前姓后、and 前无逗号） -->
+      <name and="text" delimiter="，" delimiter-precedes-last="never" name-as-sort-order="first"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -157,10 +164,13 @@
     </names>
   </macro>
   <macro name="editor-info-en">
-    <names variable="editor">
-      <name and="text" delimiter=", " delimiter-precedes-last="never"/>
-      <label form="short" prefix=" (" suffix=")"/>
-    </names>
+    <!-- 官方章节例：In Terrence J. McDonald（ed.）. 后接句点 -->
+    <group suffix=".">
+      <names variable="editor">
+        <name and="text" delimiter="，" delimiter-precedes-last="never"/>
+        <label form="short" prefix="（" suffix="）"/>
+      </names>
+    </group>
   </macro>
   <!-- 期刊或专著题名 -->
   <macro name="container-en">
@@ -231,7 +241,8 @@
   <macro name="issue-info-en">
     <group delimiter="">
       <text variable="volume"/>
-      <text variable="issue" prefix="(" suffix=")"/>
+      <!-- 官方例：13（2）全角括号 -->
+      <text variable="issue" prefix="（" suffix="）"/>
     </group>
   </macro>
   <macro name="issue-info-zh">
@@ -260,7 +271,8 @@
         </group>
       </if>
       <else-if type="article-journal article-magazine article-newspaper" match="none">
-        <group delimiter=": ">
+        <!-- 官方例：London：George Routledge and Sons（全角冒号） -->
+        <group delimiter="：">
           <text variable="publisher-place"/>
           <text variable="publisher"/>
         </group>
@@ -275,12 +287,14 @@
       <if type="thesis">
         <group delimiter="">
           <text variable="publisher"/>
-          <text variable="genre" prefix="学位"/>
+          <!-- 官方例：北京师范大学博士学位论文；genre 字段需完整录入“博士学位论文” -->
+          <text variable="genre"/>
         </group>
       </if>
       <else-if type="paper-conference">
         <group delimiter="">
-          <text variable="event" prefix="&quot;" suffix="&quot;"/>
+          <!-- 官方例：“国际徽学研讨会”论文（弯引号） -->
+          <text variable="event" prefix="&#x201C;" suffix="&#x201D;"/>
           <text value="论文"/>
         </group>
       </else-if>
@@ -308,34 +322,56 @@
     <group delimiter=". ">
       <text macro="author-en"/>
       <text macro="date"/>
-      <text macro="title-en"/>
-      <text macro="secondary-contributors-en"/>
       <choose>
         <if type="article-newspaper">
-          <group delimiter=", ">
-            <text macro="container-en"/>
-            <text macro="newspaper-date-en"/>
+          <!-- 官方例：Strout，Richard L. 1978. “Another Bicentennial.” Christian Science Monitor，10 November 1978. -->
+          <group delimiter=" ">
+            <group delimiter=". ">
+              <text macro="title-en"/>
+              <text macro="secondary-contributors-en"/>
+            </group>
+            <group delimiter="，">
+              <text macro="container-en"/>
+              <text macro="newspaper-date-en"/>
+            </group>
           </group>
         </if>
         <else-if type="article-journal article-magazine" match="any">
           <group delimiter=" ">
-            <text macro="container-en"/>
-            <group delimiter=": ">
-              <text macro="issue-info-en"/>
-              <text macro="pages-en"/>
+            <group delimiter=". ">
+              <text macro="title-en"/>
+              <text macro="secondary-contributors-en"/>
+            </group>
+            <!-- 官方例：The British Journal of Sociology 13（2）：106-116. -->
+            <group delimiter=" ">
+              <text macro="container-en"/>
+              <group delimiter="：">
+                <text macro="issue-info-en"/>
+                <text macro="pages-en"/>
+              </group>
             </group>
           </group>
         </else-if>
         <else-if type="chapter paper-conference" match="any">
-          <group delimiter=", ">
-            <text macro="container-en"/>
-            <text macro="pages-with-pp-en"/>
+          <!-- 官方例：In Terrence J. McDonald（ed.）. The Historic Turn in the Human Sciences，pp. 305-337. Ann Arbor，MI：University of Michigan Press. -->
+          <group delimiter=" ">
+            <group delimiter=". ">
+              <text macro="title-en"/>
+              <text macro="secondary-contributors-en"/>
+            </group>
+            <group delimiter=". ">
+              <group delimiter="，">
+                <text macro="container-en"/>
+                <text macro="pages-with-pp-en"/>
+              </group>
+              <text macro="publisher-en"/>
+            </group>
           </group>
-          <text macro="publisher-en"/>
         </else-if>
         <else>
           <group delimiter=". ">
-            <text macro="container-en"/>
+            <text macro="title-en"/>
+            <text macro="secondary-contributors-en"/>
             <text macro="publisher-en"/>
           </group>
         </else>
@@ -343,7 +379,8 @@
     </group>
   </macro>
   <macro name="entry-layout-zh">
-    <group delimiter="，">
+    <!-- 官方例：孙立平, 2003, 《断裂——20世纪90年代以来的中国社会》, 社会科学文献出版社。（半角逗号分隔） -->
+    <group delimiter=", ">
       <text macro="author-zh"/>
       <text macro="date"/>
       <text macro="title-zh"/>
@@ -362,7 +399,8 @@
           <group delimiter="">
             <text macro="container-zh"/>
             <text macro="issue-info-zh"/>
-            <text value="，"/>
+            <!-- 官方例：第1期, 第53～67页 -->
+            <text value=", "/>
             <text macro="pages-zh"/>
           </group>
         </else-if>
@@ -382,28 +420,29 @@
       <key macro="date"/>
     </sort>
     <layout locale="zh">
-      <text value="（"/>
-      <group delimiter="，">
+      <!-- 官方夹注例：××××××××××(孙立平, 2003)（字符流为半角括号与半角逗号） -->
+      <text value="("/>
+      <group delimiter=", ">
         <text macro="author-intext-zh"/>
         <text macro="date"/>
       </group>
       <group delimiter="">
-        <text value="："/>
+        <text value=": "/>
         <text variable="locator"/>
       </group>
-      <text value="）"/>
+      <text value=")"/>
     </layout>
     <layout>
-      <text value="（"/>
-      <group delimiter="，">
+      <text value="("/>
+      <group delimiter=", ">
         <text macro="author-intext-en"/>
         <text macro="date"/>
       </group>
       <group delimiter="">
-        <text value="："/>
+        <text value=": "/>
         <text variable="locator"/>
       </group>
-      <text value="）"/>
+      <text value=")"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" hanging-indent="true" subsequent-author-substitute="——">

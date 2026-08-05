@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" page-range-format="expanded" demote-non-dropping-particle="never" default-locale="zh-CN">
   <info>
     <title>武汉大学学报（哲学社会科学版）</title>
     <id>https://www.zotero-chinese.com/styles/武汉大学学报（哲学社会科学版）</id>
@@ -10,8 +10,8 @@
     </author>
     <category citation-format="numeric"/>
     <category field="social_science"/>
-    <summary>顺序编码制（GB/T 7714 型）：正文上标 [1]，文末参考文献按引用顺序排列。依据《武汉大学学报（哲学社会科学版）》投稿体例。</summary>
-    <updated>2026-08-04T12:00:00+08:00</updated>
+    <summary>顺序编码制：正文上标 [n]（P页码），文末参考文献按引用顺序排列且不标页码；中文著者用全角逗号、3 人以上前 3 人加“等”（等前无逗号），英文用半角逗号加 etc.；网络文献标注网站名（斜体）、发布日期与访问日期。依据：《武汉大学学报（哲学社会科学版）》投稿及出版格式规范（2022-06-21 发布）。</summary>
+    <updated>2026-08-04T16:30:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">本作品采用知识共享署名-相同方式共享3.0许可证</rights>
   </info>
 
@@ -20,6 +20,9 @@
     <terms>
       <term name="page" form="short">P</term>
       <term name="edition" form="short">版</term>
+      <term name="et-al">等</term>
+      <term name="page-range-delimiter">-</term>
+      <term name="citation-range-delimiter">-</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -30,179 +33,340 @@
   <!-- 英文本地化配置 -->
   <locale>
     <terms>
-      <term name="citation-range-delimiter">-</term>
+      <!-- 规范 6(1)：3 人以上前 3 人后用 etc. -->
+      <term name="et-al">etc.</term>
       <term name="page-range-delimiter">-</term>
+      <term name="citation-range-delimiter">-</term>
     </terms>
   </locale>
 
-  <!-- 作者宏定义 -->
-  <macro name="author">
+  <!-- 作者（中文：全角逗号；规范 6(1)：3 人以上前 3 人加“等”，等前无逗号） -->
+  <macro name="author-zh">
     <names variable="author">
-      <name and="text" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="never"/>
+      <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+    </names>
+  </macro>
+  <macro name="author-en">
+    <names variable="author">
+      <!-- 英文名前姓后（规范 6(1)：国际惯例 H. G. Wells / P. Caplan） -->
+      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never" name-as-sort-order="never"/>
     </names>
   </macro>
 
-  <!-- 标题宏定义 -->
-  <macro name="title">
+  <!-- 题名：英文实词首字母大写（规范 6(3)），中文原样 -->
+  <macro name="title-zh">
+    <text variable="title"/>
+  </macro>
+  <macro name="title-en">
     <text variable="title" text-case="title"/>
   </macro>
 
-  <!-- 卷号 -->
-  <macro name="volume">
-    <choose>
-      <if is-numeric="volume">
-        <group delimiter=" ">
-          <label variable="volume" form="short" text-case="capitalize-first"/>
-          <text variable="volume"/>
-        </group>
-      </if>
-      <else>
-        <text variable="volume"/>
-      </else>
-    </choose>
-  </macro>
-
-  <!-- 其他责任者 -->
-  <macro name="secondary-contributors">
+  <!-- 译者（中文：全角逗号 + 译；英文半角逗号 + trans.） -->
+  <macro name="translator-zh">
     <names variable="translator">
-      <name and="text" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="never"/>
+      <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <label form="short"/>
+    </names>
+  </macro>
+  <macro name="translator-en">
+    <names variable="translator">
+      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
 
-  <!-- 专著题名 -->
-  <macro name="container-contributors">
+  <!-- 析出文献来源责任者（例：苏克鲁，管成学，邓明鲁） -->
+  <macro name="container-contributors-zh">
     <names variable="editor">
-      <name and="text" et-al-use-first="3" et-al-min="4" delimiter-precedes-last="never"/>
+      <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <substitute>
+        <names variable="container-author">
+          <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+        </names>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="container-contributors-en">
+    <names variable="editor">
+      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <substitute>
+        <names variable="container-author">
+          <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+        </names>
+      </substitute>
     </names>
   </macro>
 
-  <macro name="container-title">
+  <!-- 析出文献来源书名（例：船山全书：第 6 册） -->
+  <macro name="container-title-zh">
+    <group delimiter="：">
+      <text variable="container-title"/>
+      <text variable="volume"/>
+    </group>
+  </macro>
+  <macro name="container-title-en">
     <group delimiter=": ">
-      <text variable="container-title" font-style="normal"/>
-      <text macro="volume"/>
+      <text variable="container-title" font-style="italic"/>
+      <text variable="volume"/>
     </group>
   </macro>
 
-  <!-- 析出文献专著部分 -->
-  <macro name="container-booklike">
-    <group delimiter="//">
-      <text macro="container-contributors"/>
-      <text macro="container-title"/>
-    </group>
-  </macro>
-
-  <!-- 连续出版物中的出处项 -->
-  <macro name="container-periodical">
-    <choose>
-      <if type="article-newspaper">
-        <group delimiter=", ">
-          <text variable="container-title"/>
-          <text macro="issued-date"/>
-        </group>
-        <text variable="page" prefix="(" suffix=")"/>
-      </if>
-      <else>
-        <group delimiter=": ">
-          <group>
-            <group delimiter=", ">
-              <text variable="container-title" font-style="italic"/>
-              <text macro="issued-year"/>
-              <text variable="volume"/>
-            </group>
-            <text variable="issue" prefix="(" suffix=")"/>
-          </group>
-          <text variable="page"/>
-        </group>
-      </else>
-    </choose>
-  </macro>
-
-  <!-- 版本项 -->
-  <macro name="edition">
-    <choose>
-      <if is-numeric="edition">
-        <group delimiter=" ">
-          <number variable="edition" form="ordinal"/>
-          <label variable="edition" form="short"/>
-        </group>
-      </if>
-      <else>
-        <text variable="edition"/>
-      </else>
-    </choose>
-  </macro>
-
-  <!-- 出版年 -->
   <macro name="issued-year">
     <date variable="issued" form="numeric" date-parts="year"/>
   </macro>
-
-  <!-- 出版日期 -->
   <macro name="issued-date">
-    <date variable="issued" form="numeric"/>
+    <date variable="issued">
+      <!-- 引擎限制：citeproc 2.4.63 与 1.4.61 的 date-part 均不支持 numeric-leading-zeros（会崩溃），
+           规范例 2013-01-12 的前导零无法由 CSL 输出，已记录待编辑部确认 -->
+      <date-part name="year" form="numeric"/>
+      <date-part name="month" form="numeric" prefix="-"/>
+      <date-part name="day" form="numeric" prefix="-"/>
+    </date>
   </macro>
 
-  <!-- 禁止输出网络文献信息（自2024年起） -->
-  <macro name="access">
-    <!-- 从2024年起，本刊不再使用网络文献，因此此处不输出任何内容 -->
+  <!-- 网络访问项：.[访问日期] URL（规范：网站名、发布日期、访问日期必备） -->
+  <macro name="online-access">
+    <choose>
+      <if variable="URL">
+        <text value="."/>
+        <choose>
+          <if variable="accessed">
+            <group prefix="[" suffix="]">
+              <date variable="accessed">
+                <date-part name="year" form="numeric"/>
+                <date-part name="month" form="numeric" prefix="-"/>
+                <date-part name="day" form="numeric" prefix="-"/>
+              </date>
+            </group>
+          </if>
+        </choose>
+        <text value=" "/>
+        <text variable="URL"/>
+      </if>
+    </choose>
   </macro>
 
-  <!-- 条目布局 -->
-  <macro name="entry-layout">
-    <group delimiter=". ">
-      <text macro="author"/>
-      <choose>
-        <if type="periodical">
-          <text macro="title"/>
-          <text macro="year-volume-issue"/>
-          <text macro="publisher"/>
-        </if>
-        <else-if type="article-journal article-magazine article-newspaper" match="any">
-          <text macro="title"/>
-          <text macro="container-periodical"/>
-        </else-if>
-        <else-if type="patent">
-          <text macro="title"/>
-          <text macro="publisher"/>
-        </else-if>
-        <else-if type="dataset post post-weblog software webpage" match="any">
-          <text macro="title"/>
-          <text macro="publisher"/>
-        </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
-          <group delimiter="//">
-            <group delimiter=". ">
-              <text macro="title"/>
-              <text macro="secondary-contributors"/>
-            </group>
-            <group delimiter=". ">
-              <text macro="container-contributors"/>
-              <text macro="container-title"/>
-            </group>
+  <!-- 连续出版物出处（中文：刊名，年，（期）——无卷号、文末无页码；报纸：报名，日期） -->
+  <macro name="container-periodical-zh">
+    <choose>
+      <if type="article-newspaper">
+        <group delimiter="">
+          <group delimiter="，">
+            <choose>
+              <if variable="URL">
+                <!-- 网站名用斜体（规范：网址名称应用斜体标示） -->
+                <text variable="container-title" font-style="italic"/>
+              </if>
+              <else>
+                <text variable="container-title"/>
+              </else>
+            </choose>
+            <text macro="issued-date"/>
           </group>
-          <group delimiter=": ">
-            <text variable="publisher-place"/>
-            <text variable="publisher"/>
+          <text macro="online-access"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter="，">
+          <text variable="container-title"/>
+          <text macro="issued-year"/>
+          <text variable="issue" prefix="（" suffix="）"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <macro name="container-periodical-en">
+    <choose>
+      <if type="article-newspaper">
+        <group delimiter="">
+          <group delimiter=", ">
+            <text variable="container-title" font-style="italic"/>
+            <text macro="issued-date"/>
           </group>
-          <date variable="issued" form="numeric" date-parts="year"/>
-        </else-if>
-        <else>
-          <text macro="title"/>
-          <text macro="secondary-contributors"/>
-          <text macro="edition"/>
-          <group delimiter=": ">
-            <text variable="publisher-place"/>
-            <text variable="publisher"/>
+          <text macro="online-access"/>
+        </group>
+      </if>
+      <else>
+        <group delimiter=", ">
+          <text variable="container-title" font-style="italic"/>
+          <text macro="issued-year"/>
+          <group delimiter="">
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
-          <date variable="issued" form="numeric" date-parts="year"/>
-        </else>
-      </choose>
-      <text macro="access"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- 出版项：北京：中华书局，2000 -->
+  <macro name="publisher-zh">
+    <group delimiter="，">
+      <group delimiter="：">
+        <text variable="publisher-place"/>
+        <text variable="publisher"/>
+      </group>
+      <text macro="issued-year"/>
+    </group>
+  </macro>
+  <macro name="publisher-en">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="publisher-place"/>
+        <text variable="publisher"/>
+      </group>
+      <text macro="issued-year"/>
     </group>
   </macro>
 
-  <!-- 引用部分 -->
+  <!-- 网页/报告：网站名（斜体），发布日期.[访问日期] URL -->
+  <macro name="online-item-zh">
+    <group delimiter="">
+      <group delimiter="，">
+        <text variable="publisher" font-style="italic"/>
+        <text macro="issued-date"/>
+      </group>
+      <text macro="online-access"/>
+    </group>
+  </macro>
+  <macro name="online-item-en">
+    <group delimiter="">
+      <group delimiter=", ">
+        <text variable="publisher" font-style="italic"/>
+        <text macro="issued-date"/>
+      </group>
+      <text macro="online-access"/>
+    </group>
+  </macro>
+
+  <!-- 学位论文：北京：清华大学博士学位论文，2011 -->
+  <macro name="thesis-info-zh">
+    <group delimiter="，">
+      <group delimiter="：">
+        <text variable="publisher-place"/>
+        <group delimiter="">
+          <text variable="publisher"/>
+          <text variable="genre"/>
+        </group>
+      </group>
+      <text macro="issued-year"/>
+    </group>
+  </macro>
+  <macro name="thesis-info-en">
+    <group delimiter=", ">
+      <group delimiter=": ">
+        <text variable="publisher-place"/>
+        <group delimiter=" ">
+          <text variable="publisher"/>
+          <text variable="genre"/>
+        </group>
+      </group>
+      <text macro="issued-year"/>
+    </group>
+  </macro>
+
+  <!-- 条目布局（中文） -->
+  <macro name="entry-layout-zh">
+    <group delimiter=". ">
+      <text macro="author-zh"/>
+      <choose>
+        <if type="article-newspaper article-journal article-magazine" match="any">
+          <group delimiter=". ">
+            <text macro="title-zh"/>
+            <text macro="container-periodical-zh"/>
+          </group>
+        </if>
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <group delimiter=". ">
+            <group delimiter="//">
+              <group delimiter=". ">
+                <text macro="title-zh"/>
+                <text macro="translator-zh"/>
+              </group>
+              <group delimiter=". ">
+                <text macro="container-contributors-zh"/>
+                <text macro="container-title-zh"/>
+              </group>
+            </group>
+            <text macro="publisher-zh"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post post-weblog report dataset" match="any">
+          <group delimiter=". ">
+            <text macro="title-zh"/>
+            <text macro="online-item-zh"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=". ">
+            <text macro="title-zh"/>
+            <text macro="thesis-info-zh"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". ">
+            <text macro="title-zh"/>
+            <text macro="translator-zh"/>
+            <text variable="edition"/>
+            <text macro="publisher-zh"/>
+          </group>
+        </else>
+      </choose>
+    </group>
+  </macro>
+
+  <!-- 条目布局（英文） -->
+  <macro name="entry-layout-en">
+    <group delimiter=". ">
+      <text macro="author-en"/>
+      <choose>
+        <if type="article-newspaper article-journal article-magazine" match="any">
+          <group delimiter=". ">
+            <text macro="title-en"/>
+            <text macro="container-periodical-en"/>
+          </group>
+        </if>
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
+          <group delimiter=". ">
+            <group delimiter="//">
+              <group delimiter=". ">
+                <text macro="title-en"/>
+                <text macro="translator-en"/>
+              </group>
+              <group delimiter=". ">
+                <text macro="container-contributors-en"/>
+                <text macro="container-title-en"/>
+              </group>
+            </group>
+            <text macro="publisher-en"/>
+          </group>
+        </else-if>
+        <else-if type="webpage post post-weblog report dataset" match="any">
+          <group delimiter=". ">
+            <text macro="title-en"/>
+            <text macro="online-item-en"/>
+          </group>
+        </else-if>
+        <else-if type="thesis">
+          <group delimiter=". ">
+            <text macro="title-en"/>
+            <text macro="thesis-info-en"/>
+          </group>
+        </else-if>
+        <else>
+          <group delimiter=". ">
+            <text macro="title-en"/>
+            <text macro="translator-en"/>
+            <text variable="edition"/>
+            <text macro="publisher-en"/>
+          </group>
+        </else>
+      </choose>
+    </group>
+  </macro>
+
+  <!-- 引用：正文右上角 [n]（P页码）；页码标注在正文（规范四（二）） -->
+  <!-- 单一 layout：双 locale 引注布局会触发 citeproc "no printed form" 错误（两个引擎一致） -->
   <citation collapse="citation-number" after-collapse-delimiter="，">
     <sort>
       <key variable="citation-number"/>
@@ -210,23 +374,23 @@
     <layout delimiter="，">
       <group vertical-align="sup">
         <text variable="citation-number" prefix="[" suffix="]"/>
-      </group>
-      <group prefix="（" suffix="）">
-        <label variable="locator" form="short" suffix=""/>
-        <text variable="locator"/>
+        <group prefix="（" suffix="）">
+          <label variable="locator" form="short"/>
+          <text variable="locator"/>
+        </group>
       </group>
     </layout>
   </citation>
 
-  <!-- 参考文献列表 -->
+  <!-- 参考文献列表：文末不标页码 -->
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <text macro="entry-layout" suffix="."/>
+      <text macro="entry-layout-en" suffix="."/>
     </layout>
     <layout>
       <text variable="citation-number" prefix="[" suffix="] "/>
-      <text macro="entry-layout" suffix="."/>
+      <text macro="entry-layout-zh" suffix="."/>
     </layout>
   </bibliography>
 </style>
