@@ -8,25 +8,44 @@
 
 ### 引注
 
-<sup>1</sup> 扬奎斯特、萨金特：《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社，2010年，第798页。<br>
-<sup>2</sup> Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.<br>
-<sup>3</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年。<br>
-<sup>4</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2 (February 2014), pp. 112-118.<br>
-<sup>5</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年，第22-25页。<br>
-<sup>6</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p. 2.<br>
-<sup>7</sup> Shanshan Wang: “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers.”<br>
-<sup>8</sup> Adrian Praetzellis: <i>Death by Theory</i>, pp. 326-329.<br>
+<sup>1</sup> 袁良骏编：《丁玲研究资料》，天津：天津人民出版社，1982年，第246页。<br>
+<sup>2</sup> [日]实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：中文大学出版社，1982年，第11-12页。<br>
+<sup>3</sup> 吉登斯：《超越左与右——激进政治的未来》，李惠斌译，北京：社会科学文献出版社，2009年，第21页。<br>
+<sup>4</sup> 丁建定：《西方国家社会保障制度史》，北京：高等教育出版社，2016年，第385页。<br>
+<sup>5</sup> 吉登斯：《超越左与右——激进政治的未来》，李惠斌译，第21页。<br>
+<sup>6</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编辑出版社，1999年，第247-266页。<br>
+<sup>7</sup> 鲁迅：《中国小说的历史变迁》，《鲁迅全集》（第9册），北京：人民文学出版社，1981年，第325页。<br>
+<sup>8</sup> 司马迁：《史记》卷二十八《封禅书》，北京：中华书局，1982年，第1394页。<br>
+<sup>9</sup> 黄中业：《商代“分封”说质疑》，《学术月刊》1986年第5期。<br>
+<sup>10</sup> 吴虞：《家族制度为专制主义之根据论》，《新青年》第2卷第6号，1917年2月1日。<br>
+<sup>11</sup> 张嘉：《吴妍妍：叫我吴天明的女儿，我很骄傲》，《北京青年报》2016年1月17日，B5版。<br>
+<sup>12</sup> 苏鹏：《突围与偕妄—论先锋小说中的“文革叙述”》，山东师范大学硕士学位论文，2008年。<br>
+<sup>13</sup> 任东来：《对国际体制和国际制度的理解和翻译》，“全球化与亚太区域话国际研讨会”论文，天津，2000年6月，第9页。<br>
+<sup>14</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案1011-5961，中国第二历史档案馆藏。<br>
+<sup>15</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge: Cambridge University Press, 1983, p. 79.<br>
+<sup>16</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.<br>
+<sup>17</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯（网路版试刊）》2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">[1] 扬奎斯特、萨金特：《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社，2010年，第798页。</div>
-  <div class="csl-entry">[2] Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p. 13.</div>
-  <div class="csl-entry">[3] 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年。</div>
-  <div class="csl-entry">[4] Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2 (February 2014), pp. 112-118.</div>
-  <div class="csl-entry">[5] 汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年，第22-25页。</div>
-  <div class="csl-entry">[6] Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p. 2.</div>
+  <div class="csl-entry">[1] 袁良骏编：《丁玲研究资料》，天津：天津人民出版社，1982年。</div>
+  <div class="csl-entry">[2] [日]实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：中文大学出版社，1982年。</div>
+  <div class="csl-entry">[3] 吉登斯：《超越左与右——激进政治的未来》，李惠斌译，北京：社会科学文献出版社，2009年。</div>
+  <div class="csl-entry">[4] 丁建定：《西方国家社会保障制度史》，北京：高等教育出版社，2016年。</div>
+  <div class="csl-entry">[5] 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编辑出版社，1999年，第247-266页。</div>
+  <div class="csl-entry">[6] 鲁迅：《中国小说的历史变迁》，《鲁迅全集》（第9册），北京：人民文学出版社，1981年。</div>
+  <div class="csl-entry">[7] 司马迁：《史记》卷二十八《封禅书》，北京：中华书局，1982年。</div>
+  <div class="csl-entry">[8] 黄中业：《商代“分封”说质疑》，《学术月刊》1986年第5期。</div>
+  <div class="csl-entry">[9] 吴虞：《家族制度为专制主义之根据论》，《新青年》第2卷第6号，1917年2月1日。</div>
+  <div class="csl-entry">[10] 张嘉：《吴妍妍：叫我吴天明的女儿，我很骄傲》，《北京青年报》2016年1月17日，B5版。</div>
+  <div class="csl-entry">[11] 苏鹏：《突围与偕妄—论先锋小说中的“文革叙述”》，山东师范大学硕士学位论文，2008年。</div>
+  <div class="csl-entry">[12] 任东来：《对国际体制和国际制度的理解和翻译》，“全球化与亚太区域话国际研讨会”论文，天津，2000年6月。</div>
+  <div class="csl-entry">[13] 《傅良佐致国务院电》，1917年9月15日，北洋档案1011-5961，中国第二历史档案馆藏。</div>
+  <div class="csl-entry">[14] R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge: Cambridge University Press, 1983.</div>
+  <div class="csl-entry">[15] Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.</div>
+  <div class="csl-entry">[16] 扬之水：《两宋茶诗与茶事》，《文学遗产通讯（网路版试刊）》2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>
 </div>
 
 ## 默认测试
@@ -54,7 +73,7 @@
 <sup>8</sup> 《康熙字典》（影印本）巳集上：水部，北京：中华书局，1962年，第50页。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），北京：高等教育出版社，2019年。<br>
 <sup>10</sup> 哈里森、沃尔德伦：《经济数学与金融数学》，谢远涛译，北京：中国人民大学出版社，2012年，第235-236页。<br>
-<sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌主编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年，第65-66页。<br>
+<sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年，第65-66页。<br>
 <sup>12</sup> 扬奎斯特、萨金特：《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社，2010年，第798页。<br>
 <sup>13</sup> 云南省企业联合会、云南省企业家协会、云南民族新闻文化发展研究院：《改革开放三十年：云南企业家奋斗史》，芒市：德宏民族出版社，2009年。<br>
 <sup>14</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
@@ -70,17 +89,17 @@
 <sup>24</sup> Tony Boobier, <i>AI and the Future of Banking</i>, Chichester: John Wiley &#38; Sons, 2020, p. 35.<br>
 <sup>25</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013, pp. 21-22.<br>
 <sup>26</sup> 阿扬：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，姜海伦译，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社，2023年，第15-18页。<br>
-<sup>27</sup> 王夫之主编：《周易外传：卷5》，《船山全书》（修订版）第1册，长沙：岳麓书社，2011年，第983-1029页。<br>
+<sup>27</sup> 王夫之编：《周易外传：卷5》，《船山全书》（修订版）第1册，长沙：岳麓书社，2011年，第983-1029页。<br>
 <sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32-36页。<br>
 <sup>29</sup> 李约瑟：《题词》，《苏颂与《本草图经》研究》，长春：长春出版社，1991年，扉页。<br>
 <sup>30</sup> 陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界的研究》，中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社，1980年，第56-114页。<br>
 <sup>31</sup> 马克思：《政治经济学批判》，《马克思恩格斯全集》（第2版）第35卷，北京：人民出版社，2013年，第302页。<br>
-<sup>32</sup> 国家药典委员会主编：《大黄》，《中华人民共和国药典》（2020版）一部，北京：中国医药科技出版社，2020年，第24-25页。<br>
+<sup>32</sup> 国家药典委员会编：《大黄》，《中华人民共和国药典》（2020版）一部，北京：中国医药科技出版社，2020年，第24-25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第11-12页。<br>
 <sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. and William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp. 457-472.<br>
 <sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking Water Quality Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
-<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）-，武汉：中华医学会湖北分会，1984年。<br>
-<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）-1990（4），北京：北京图书馆，1957—1990年。<br>
+<sup>36</sup> 中华医学会湖北分会编：《临床内科杂志》1984，1（1）-，武汉：中华医学会湖北分会，1984年。<br>
+<sup>37</sup> 中国图书馆学会编：《图书馆学通讯》1957（1）-1990（4），北京：北京图书馆，1957—1990年。<br>
 <sup>38</sup> American Association for the Advancement of Science, ed., <i>Science</i>, 1883，1（1）-, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
 <sup>39</sup> <i>Public Library Quarterly</i>, 1979，1（1）-, Philadelphia: Taylor &#38; Francis, 1979.<br>
 <sup>40</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期。<br>
@@ -103,13 +122,13 @@
 <sup>57</sup> Roger D. Santer and Otar Akanyeti, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps,” <i>Insect Science</i>, 2025.<br>
 <sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno and Masato Okada, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator,” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, vol. 267 (August 2023).<br>
 <sup>59</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, vol. 337, no. 1/2 (February 2014), pp. 112-118.<br>
-<sup>60</sup> 李妍、王莹：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，中华预防医学会医院感染控制分会第31次全国医院感染学术年会论文，2022年，第2页。<br>
-<sup>61</sup> 牛志明、Swingland Ian R.、雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
-<sup>62</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
+<sup>60</sup> 李妍、王莹：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，“中华预防医学会医院感染控制分会第31次全国医院感染学术年会”论文，2022年，第2页。<br>
+<sup>61</sup> 牛志明、Swingland Ian R.、雷光春编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社，2012年。<br>
+<sup>62</sup> 中国社会科学院台湾史研究中心编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社，2012年。<br>
 <sup>63</sup> 肖希明、石庆功、刘奕：《民国图书馆学教育的社会贡献》，《纪念北京大学图书馆学教育100周年研讨会论文集》，北京：北京大学信息管理系，2024年，第134-147页。<br>
 <sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年，第22-25页。<br>
 <sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011年卷，北京：国家图书馆出版社，2011年，第45-52页。<br>
-<sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
+<sup>66</sup> 陈志勇编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
 <sup>67</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p. 2.<br>
 <sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei and Jiayi Ma, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” 2024, p. 4.<br>
 <sup>69</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
@@ -205,7 +224,7 @@
 <sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater and Lorenzo Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, vol. 14, no. 1 (2019).<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》第40卷增刊，2008年。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社，2008年。<br>
-<sup>13</sup> 张三主编：《心理学史》，北京：未名出版社，2008年。<br>
+<sup>13</sup> 张三编：《心理学史》，北京：未名出版社，2008年。<br>
 <sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace, <i>A Philosophical Essay on Probabilities</i>, trans. F. W. Truscott and F. L. Emory, Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社，1951年。<br>
@@ -220,7 +239,7 @@
 <sup>25</sup> Terence R. Mitchell and James R. Larson, <i>People in Organizations: An Introduction to Organizational Behavior</i>, New York: McGraw-Hill, 1987.<br>
 <sup>26</sup> P. G. Bergmann, <i>Relativity</i>, vol. 26, New York: Encyclopedia Britannica, 1993, pp. 501-508.<br>
 <sup>27</sup> Stanley Sadie, ed., <i>The New Grove Dictionary of Music and Musicians</i>, London : New York: Macmillan, 1980.<br>
-<sup>28</sup> 李行健主编：《现代汉语规范辞典》，北京：外语教学与研究出版社，2004年，第255页。<br>
+<sup>28</sup> 李行健编：《现代汉语规范辞典》，北京：外语教学与研究出版社，2004年，第255页。<br>
 <sup>29</sup> 《现代汉语频率词典》，北京：北京语言学院出版社，1986年。<br>
 <sup>30</sup> Lin Yu, “Phonological Representation and Processing in Chinese Spoken Language Production,” Beijing Normal University Unpublished Doctorial Dissertation, 2000.<br>
 <sup>31</sup> 余林：《汉语语言产生中的语音表征与加工》，北京师范大学博士学位论文，2000年。<br>
@@ -235,11 +254,11 @@
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局，1948年。<br>
-<sup>2</sup> 谢兴尧整理：《荣庆日记》，西安：西北大学出版社，1986年。<br>
+<sup>2</sup> 谢兴尧编：《荣庆日记》，西安：西北大学出版社，1986年。<br>
 <sup>3</sup> 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社，2001年。<br>
-<sup>4</sup> 任继愈主编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
+<sup>4</sup> 任继愈编：《中国哲学发展史（先秦卷）》，北京：人民出版社，1983年。<br>
 <sup>5</sup> 实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：香港中文大学出版社，1982年。<br>
-<sup>6</sup> 金冲及主编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
+<sup>6</sup> 金冲及编：《周恩来传》，北京：人民出版社、中央文献出版社，1989年。<br>
 <sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心，1998年。<br>
 <sup>8</sup> 狄葆贤：《平等阁笔记》，上海：有正书局，出版时间不详。<br>
 <sup>9</sup> 《马克思恩格斯全集》第31卷，北京：人民出版社，1998年。<br>
@@ -268,11 +287,11 @@
 <sup>32</sup> 倪素香：《德育学科的比较研究与理论探索》，《武汉大学学报》2002年第4期。<br>
 <sup>33</sup> 李眉：《李劼人轶事》，《四川工人日报》1986年8月22日，第2版。<br>
 <sup>34</sup> 伤心人（麦孟华）：《说奴隶》，《清议报》第69册，光绪二十六年十一月二十一日，第1页。<br>
-<sup>35</sup> 《四川会议厅暂行章程》，《广益丛报》第8年第19期，1910年9月3日，“新章”，第1—2页。<br>
+<sup>35</sup> 《四川会议厅暂行章程》，《广益丛报》第8年第19期，1910年9月3日，新章，第1—2页。<br>
 <sup>36</sup> 《上海各路商界总联合会致外交部电》，《民国日报》（上海）1925年8月14日，第4版。<br>
 <sup>37</sup> 《西南中委反对在宁召开五全会》，《民国日报》（上海）1933年8月11日，第1张第4版。<br>
 <sup>38</sup> 方明东：《罗隆基政治思想研究（1913—1949）》，北京师范大学历史系博士学位论文，2000年。<br>
-<sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，全球化与亚太区域化国际研讨会论文，天津，2000年6月。<br>
+<sup>39</sup> 任东来：《对国际体制和国际制度的理解和翻译》，“全球化与亚太区域化国际研讨会”论文，天津，天津，2000年6月。<br>
 <sup>40</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案 1011—5961，中国第二历史档案馆藏。<br>
 <sup>41</sup> 《党外人士座谈会记录》，1950年7月，李劼人档案，中共四川省委统战部档案室藏。<br>
 <sup>42</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年8月16日，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，1998年10月4日。<br>
@@ -292,7 +311,7 @@
 
 <sup>1</sup> 王名扬：《美国行政法》，中国法制出版社，1995年。<br>
 <sup>2</sup> 张新宝：《侵权责任法》（第5版），中国人民大学出版社，2020年。<br>
-<sup>3</sup> 高鸿钧、程汉大主编：《英美法原论》，北京大学出版社，2013年。<br>
+<sup>3</sup> 高鸿钧、程汉大编：《英美法原论》，北京大学出版社，2013年。<br>
 <sup>4</sup> 富勒：《法律的道德性》，郑戈译，商务印书馆，2005年。<br>
 <sup>5</sup> 季卫东：《法律程序的意义——对中国法制建设的另一种思考》，《中国社会科学》1993年第1期。<br>
 <sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年。<br>
@@ -304,7 +323,7 @@
 <sup>12</sup> 梁秋坪、郝萍：《全国打击治理农村赌博工作现场会召开》，《人民网》2024年10月12日，<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>，2025年10月19日。<br>
 <sup>13</sup> 刘松山：《失信惩戒立法的三大问题》，《中国法律评论》2019年11月19日，<a href="https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw">https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw</a>，2025年10月19日。<br>
 <sup>14</sup> 《法国最高行政法院网站》，<a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>，2024年10月8日。<br>
-<sup>15</sup> 习超：《证券监管有偏私吗？》，“迈向数据法学”研讨会论文，清华大学法学院、社会科学学院、数据科学研究院，2017年12月23日。<br>
+<sup>15</sup> 习超：《证券监管有偏私吗？》，“‘迈向数据法学’研讨会”论文，清华大学法学院、社会科学学院、数据科学研究院，北京，2017年12月23日。<br>
 <sup>16</sup> 李松锋：《游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究》，中国政法大学博士学位论文，2013年。<br>
 <sup>17</sup> 《民法典》，出版时间不详。<br>
 <sup>18</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
@@ -321,12 +340,12 @@
 <sup>29</sup> Angelo Falzea, <i>L’offerta reale e la liberazione coattiva del debitore</i>, Giuffrè, 1947.<br>
 <sup>30</sup> Елена А. Дубовицкая, <i>Европейское корпоративное право</i>, Волтерс Клувер Россия, 2008.<br>
 <sup>31</sup> 我妻栄, <i>新訂担保物権法（民法講義III）</i>, 有斐閣, 1971.<br>
-<sup>32</sup> 罗豪才主编：《行政法学》，中国政法大学出版社，1989年。<br>
+<sup>32</sup> 罗豪才编：《行政法学》，中国政法大学出版社，1989年。<br>
 <sup>33</sup> 车丕照：《论国际系约对私人的效力》，朱晓青、黄列主编：《国际条约与国内法的关系：中德国际条约与国内品关系研讨会论文集》，世界知识出版社，2000年。<br>
-<sup>34</sup> 罗豪才主编：《行政法学》，中国政法大学出版社，1989年。<br>
+<sup>34</sup> 罗豪才编：《行政法学》，中国政法大学出版社，1989年。<br>
 <sup>35</sup> 《中国大百科全书·法学》，中国大百科全书出版社，1984年。<br>
-<sup>36</sup> 马怀德主编：《司法改革与行政诉讼制度的完善》，中国政法大学出版社，2004年。<br>
-<sup>37</sup> 胡建淼主编：《行政诉讼法修改研究》，浙江大学出版社，2007年。<br>
+<sup>36</sup> 马怀德编：《司法改革与行政诉讼制度的完善》，中国政法大学出版社，2004年。<br>
+<sup>37</sup> 胡建淼编：《行政诉讼法修改研究》，浙江大学出版社，2007年。<br>
 <sup>38</sup> 杨小君：《行政诉讼问题研究及制度改革》，中国人民公安大学出版社，2007年。<br>
 <sup>39</sup> 莫于川主编：《建设法治政府需要司法更给力》，清华大学出版社，2014年。<br>
 <sup>40</sup> 沈岿：《制度变迁与法官的规则选择——立足刘燕文案的初步探索》，《北大法律评论》第3卷第2辑，法律出版社，2001年，第159-203页。<br>
@@ -338,7 +357,7 @@
 <sup>46</sup> 苏力：《公民权利论的迷思:历史中国的国人、村民和分配正义》，《环球法律评论》第39卷第5期，2017年。<br>
 <sup>47</sup> 朱苏力：《制度是如何形成的?——关于马歇尔诉麦迪逊案的故事》，《比较法研究》1998年第1期。<br>
 <sup>48</sup> 顾颉刚：《五德终始说下的政治和历史》，《清华学报》第6卷第1期，1930年。<br>
-<sup>49</sup> 熊元翰主编：《京师地方审判厅法曹会判牍汇编》第一集民事·下编，商务印书馆天津印刷局，1914年。<br>
+<sup>49</sup> 熊元翰编：《京师地方审判厅法曹会判牍汇编》第一集民事·下编，商务印书馆天津印刷局，1914年。<br>
 <sup>50</sup> 鲁道夫·冯·耶林：《为权利而斗争》，刘权译，法律出版社，2019年。<br>
 <sup>51</sup> 张文显、于宁：《当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式》，《中国法学》2001年第1期。<br>
 <sup>52</sup> 王利明：《迈向权利保护的新时代》，《中国人民大学学报》第34卷第4期，2020年。<br>
@@ -347,8 +366,8 @@
 <sup>55</sup> 陈卫佐：《拉丁语法律用语手册》，法律出版社，2024年。<br>
 <sup>56</sup> 《德国民法典》（第5版），陈卫佐译，法律出版社，2020年。<br>
 <sup>57</sup> 《英国2006年公司法》，葛伟军译，法律出版社，2008年。<br>
-<sup>58</sup> 陈兴良主编：《刑法学》，复旦大学出版社，2003年。<br>
-<sup>59</sup> 何帆主编：《刑法注释书》（第2版），中国民主法制出版社，2021年。<br>
+<sup>58</sup> 陈兴良编：《刑法学》，复旦大学出版社，2003年。<br>
+<sup>59</sup> 何帆编：《刑法注释书》（第2版），中国民主法制出版社，2021年。<br>
 <sup>60</sup> 富勒：《法律的道德性》，郑戈译，商务印书馆，2005年。<br>
 <sup>61</sup> 寺田浩明：《拥挤列车模式：明清时期的社会认识和秩序建构》，阮云星译，《清华法学》第4卷第6期，2010年。<br>
 <sup>62</sup> 科林·斯科特：《规制、治理与法律：前沿问题研究》，安永康译，清华大学出版社，2018年。<br>
@@ -356,12 +375,12 @@
 <sup>64</sup> 苏力、于明：《基于中国经验的学术创造——苏力教授访谈》，《学术月刊》第52卷第3期，2020年。<br>
 <sup>65</sup> 沈家本：《历代刑法考》，中华书局，1985年。<br>
 <sup>66</sup> 范扬：《行政法总论》，中国方正出版社，2005年。<br>
-<sup>67</sup> 全国人大常委会法制工作委员会行政法室主编：《行政诉讼法立法背景与观点全集》，法律出版社，2015年。<br>
-<sup>68</sup> 《宪法学》编写组主编：《宪法学》（第2版），高等教育出版社；人民出版社，2020年。<br>
+<sup>67</sup> 全国人大常委会法制工作委员会行政法室编：《行政诉讼法立法背景与观点全集》，法律出版社，2015年。<br>
+<sup>68</sup> 《宪法学》编写组编：《宪法学》（第2版），高等教育出版社；人民出版社，2020年。<br>
 <sup>69</sup> 韦宗、阿江：《行政诉讼立法要论》，《中国法学》1988年第6期。<br>
 <sup>70</sup> 汉斯·J. 沃尔夫、奥托·巴霍夫、罗尔夫·施托贝尔：《行政法》第1卷，高家伟译，商务印书馆，2002年。<br>
-<sup>71</sup> ［美］瑞恩·卡洛、迈克尔·弗兰金、［加］伊恩·克尔主编：《人工智能与法律的对话》，陈吉栋、董慧敏、杭颖颖译，上海人民出版社，2018年。<br>
-<sup>72</sup> 陈甦、［芬兰］尤拉·柳库恩主编：《法制改革与法治发展》，社会科学文献出版社，2019年。<br>
+<sup>71</sup> ［美］瑞恩·卡洛、迈克尔·弗兰金、［加］伊恩·克尔编：《人工智能与法律的对话》，陈吉栋、董慧敏、杭颖颖译，上海人民出版社，2018年。<br>
+<sup>72</sup> 陈甦、［芬兰］尤拉·柳库恩编：《法制改革与法治发展》，社会科学文献出版社，2019年。<br>
 <sup>73</sup> 狄骥：《公法的变迁》，郑戈译，商务印书馆，2013年。<br>
 <sup>74</sup> 勒翁狄几：《公法要义》，杨肇熉译，上海社会科学院出版社，2017年。<br>
 <sup>75</sup> 理查德·J. 皮尔斯：出版时间不详。<br>
@@ -388,11 +407,11 @@
 <sup>96</sup> 劳特派特：《奥本海国际法》（第8版）上卷第1分册，王铁崖、陈体强译，商务印书馆，1971年。<br>
 <sup>97</sup> 王名扬：《美国行政法》，中国法制出版社，1995年。<br>
 <sup>98</sup> 王名扬：《美国行政法》，北京大学出版社，2016年。<br>
-<sup>99</sup> 魏振瀛主编：《民法》（第8版），北京大学出版社、高等教育出版社，2021年。<br>
+<sup>99</sup> 魏振瀛编：《民法》（第8版），北京大学出版社、高等教育出版社，2021年。<br>
 <sup>100</sup> 车丕照：《论国际条约对私人的效力》，朱晓青、黄列主编：《国际条约与国内法的关系：中德国际条约与国内法关系研讨会论文集》，世界知识出版社，2000年。<br>
 <sup>101</sup> 莱纳·沃尔夫：《风险法的风险》，陈霄、刘刚译，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
 <sup>102</sup> 《清华大学学报（哲学社会科学版）》，2018年第4期。<br>
-<sup>103</sup> 梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年。<br>
+<sup>103</sup> 梁慧星编：《民商法论丛》第1卷，法律出版社，1994年。<br>
 <sup>104</sup> 《北大法律评论》第4卷第2辑，法律出版社，2002年。<br>
 <sup>105</sup> 何海波：《判决书上网》，《法制日报》2000年5月21日，第2版。<br>
 <sup>106</sup> 王和岩：《邓玉娇案尘埃落定》，《财经》2009年第13期。<br>
@@ -400,7 +419,7 @@
 <sup>108</sup> 姚际恒：《古今伪书考》，朴社，1933年。<br>
 <sup>109</sup> 李昉：《太平御览》卷六九〇，中华书局，1960年，影印本。<br>
 <sup>110</sup> 《论语·述而》，出版时间不详。<br>
-<sup>111</sup> 翁岳生主编：《行政法》上，元照出版有限公司，2020年。<br>
+<sup>111</sup> 翁岳生编：《行政法》上，元照出版有限公司，2020年。<br>
 <sup>112</sup> 王泽鉴：《民法总则》（修订自版），2020年。<br>
 <sup>113</sup> 《台大法学论丛》第47卷第4期，2018年。<br>
 <sup>114</sup> 《政大法学评论》2013年第132期。<br>
@@ -415,7 +434,7 @@
 <sup>123</sup> 《论语·述而》，出版时间不详。<br>
 <sup>124</sup> 《圣经·出埃及记》，出版时间不详。<br>
 <sup>125</sup> 《元典章》卷一九《户部五·田宅·家财》。<br>
-<sup>126</sup> 高鸿钧、程汉大主编：《英美法原论》，北京大学出版社，2013年。<br>
+<sup>126</sup> 高鸿钧、程汉大编：《英美法原论》，北京大学出版社，2013年。<br>
 <sup>127</sup> 梁秋坪、郝萍：《全国打击治理农村赌博工作现场会召开》，《人民网》2024年10月12日，<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>，2025年11月8日。<br>
 <sup>128</sup> 《被告人李宁、张磊贪污案一审开庭》，《新华网》2019年12月31日，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>，2025年11月8日。<br>
 <sup>129</sup> 任重远：《镇坪强制引产事件终结 当事人获七万余元补助》，《财新网》2012年7月11日，<a href="https://china.caixin.com/2012-07-11/100409832.html">https://china.caixin.com/2012-07-11/100409832.html</a>，2025年11月8日。<br>
@@ -432,8 +451,8 @@
 <sup>140</sup> 王名扬教授：2002年3月8日。<br>
 <sup>141</sup> 上海市浦东新区人民法院行政审判庭：《2001年行政庭工作总结》，出版时间不详。<br>
 <sup>142</sup> 《全国人大常委会法工委行政诉讼法修改座谈会》，2009年。<br>
-<sup>143</sup> 习超：《证券监管有偏私吗？》，“迈向数据法学”研讨会论文，清华大学法学院、社会科学学院、数据科学研究院，2017年12月23日。<br>
-<sup>144</sup> 姜明安：《新时代中国行政法学的转型与使命》，行政法学研究会论文，中国法学会，2018年。<br>
+<sup>143</sup> 习超：《证券监管有偏私吗？》，“‘迈向数据法学’研讨会”论文，清华大学法学院、社会科学学院、数据科学研究院，北京，2017年12月23日。<br>
+<sup>144</sup> 姜明安：《新时代中国行政法学的转型与使命》，“行政法学研究会”论文，中国法学会，2018年。<br>
 <sup>145</sup> 陈鹏：《基本权利保障中的法律保留：历史变迁与本土建构》，《第五届中国宪法学青年论坛会议论文集》，2022年。<br>
 <sup>146</sup> 李松锋：《游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究》，中国政法大学博士学位论文，2013年。<br>
 <sup>147</sup> 雷经天：《关于边区司法工作检查情形》，1943年9月3日，陕甘宁边区高等法院档案15/149，陕西省档案馆藏。<br>
@@ -468,7 +487,7 @@
 <sup>176</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
 <sup>177</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
 <sup>178</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
-<sup>179</sup> 中华人民共和国司法部主编：《司法部关于可否张贴判决书及应注意事项的批复》，法律出版社，1956年。<br>
+<sup>179</sup> 中华人民共和国司法部编：《司法部关于可否张贴判决书及应注意事项的批复》，法律出版社，1956年。<br>
 <sup>180</sup> 《中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见》，2024年。<br>
 <sup>181</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献参考文献著录规则》，出版时间不详。<br>
 <sup>182</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》，2014年。<br>
@@ -511,7 +530,7 @@
 <sup>219</sup> 《车某玲诉朱某芳相邻关系纠纷案》，2022年。<br>
 <sup>220</sup> 《谢文彬诉广东省司法厅案》，出版时间不详。<br>
 <sup>221</sup> 李桂茹、孔献之：《七旬律师被判可以执业〈律师法〉赢了司法部文件》，《中国青年报》（7）2003年6月4日。<br>
-<sup>222</sup> 最高人民法院中国应用法学研究所主编：《宁德市大众影院诉宁德地区工商行政管理局行政处罚案》，中国法制出版社，2000年。<br>
+<sup>222</sup> 最高人民法院中国应用法学研究所编：《宁德市大众影院诉宁德地区工商行政管理局行政处罚案》，中国法制出版社，2000年。<br>
 <sup>223</sup> 《榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年。<br>
 
 

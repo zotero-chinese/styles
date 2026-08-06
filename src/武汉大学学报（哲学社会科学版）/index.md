@@ -8,34 +8,82 @@
 
 ### 引注
 
-[<sup>1</sup>]-[<sup>8</sup>]
+[<sup>1</sup>]<br>
+[<sup>2</sup>]<br>
+[<sup>3</sup>]<br>
+[<sup>4</sup>]<br>
+[<sup>5</sup>]<br>
+[<sup>6</sup>]<br>
+[<sup>7</sup>]<br>
+[<sup>8</sup>]<br>
+[<sup>9</sup>]<br>
+[<sup>10</sup>]<br>
+[<sup>11</sup>]<br>
+[<sup>12</sup>]<br>
+[<sup>13</sup>]<br>
+<sup>[14]（P15）</sup><br>
+<sup>[14]（P55-56）</sup><br>
+<sup>[14]（P15）</sup><br>
+<sup>[14]（P20）</sup><br>
+[<sup>15</sup>]-[<sup>17</sup>]<br>
+[<sup>15</sup>]<br>
+[<sup>16</sup>]<br>
+[<sup>15</sup>]，[<sup>17</sup>]<br>
+
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">扬奎斯特，萨金特. 递归宏观经济理论. 杨斌，王忠玉，陈彦斌等译. 2. 北京：中国人民大学出版社，2010.</div>
+    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">陈登原. 国史旧闻：第 1 卷. 北京：中华书局，2000.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2] </div><div class="csl-right-inline">Adrian Praetzellis. Death by theory: A tale of mystery and archaeological Theory. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
+    <div class="csl-left-margin">[2] </div><div class="csl-right-inline">迈克尔·哈里森，帕特里克·沃尔德伦. 经济数学与金融数学. 谢远涛译. 北京：中国人民大学出版社，2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3] </div><div class="csl-right-inline">于潇，刘义，柴跃廷等. 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版），2012，（11）.</div>
+    <div class="csl-left-margin">[3] </div><div class="csl-right-inline">常森. 《五行》学说与《荀子》. 北京大学学报（哲学社会科学版），2013，（1）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4] </div><div class="csl-right-inline">Pieternella H. van der Veen, Majon Muller, Koen L. Vincken etc. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: The SMART-MR Study. <i>Journal of the Neurological Sciences</i>, 2014, 337(1/2).</div>
+    <div class="csl-left-margin">[4] </div><div class="csl-right-inline">武丽丽，华一新，张亚军等. “北斗一号”监控管理网设计与实现. 测绘科学，2008，（5）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5] </div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京：中国环境科学出版社，2005.</div>
+    <div class="csl-left-margin">[5] </div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化. 中国青年报，2000-11-20.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6] </div><div class="csl-right-inline">Shanshan Wang. Application of improved SOM neural network in intelligent auditing of hospital financial Vouchers. 2022.</div>
+    <div class="csl-left-margin">[6] </div><div class="csl-right-inline">余建斌. 我们的科技一直在追赶：访中国工程院院长周济. 人民日报，2013-1-12.[2017-5-26] <a href="http://paper.people.com.cn/rmrb/html/201301/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/201301/12/nw.D110000renmrb_20130112_5-02.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">肖玲，张雪，王永. 数据要素的统计测算方法探究. PSSXiv，2024.</div>
+    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">P. Caplan. Cataloging Internet Resources. <i>The Public Access Computer Systems Review</i>, 1993, 4(2).</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8] </div><div class="csl-right-inline">Stewart D. Jenkins, Janne Ruostekoski. Controlled manipulation of light by cooperative response of atoms in an optical Lattice. arXiv, 2012.</div>
+    <div class="csl-left-margin">[8] </div><div class="csl-right-inline">K. S. Frese, H. A. Katus, B. Meder. Next-generation Sequencing: From Understanding Biology to Personalized Medicine. <i>Biology</i>, 2013, 2(1).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[9] </div><div class="csl-right-inline">W. Crawfor, M. Gorman. Future Libraries: Dreams, Madness &#38; Reality. Chicago: American Library Association, 1995.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[10] </div><div class="csl-right-inline">李约瑟. 题词//苏克鲁，管成学，邓明鲁. 苏颂与《本草图经》研究. 长春：长春出版社，1991.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[11] </div><div class="csl-right-inline">王夫之. 周易外传：卷 5//船山全书：第 6 册. 长沙：岳麓书社，2011.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[12] </div><div class="csl-right-inline">马欢. 人类活动影响下海河流域典型区水循环变化分析. 北京：清华大学博士学位论文，2011.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[13] </div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 中国互联网络信息中心网，2012-1-16.[2017-5-26] <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680.pdf">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680.pdf</a>.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[14] </div><div class="csl-right-inline">费孝通. 乡土中国. 1948.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[15] </div><div class="csl-right-inline">作者1. 书1. 2000.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[16] </div><div class="csl-right-inline">作者2. 书2. 2001.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[17] </div><div class="csl-right-inline">作者3. 书3. 2002.</div>
   </div>
 </div>
 

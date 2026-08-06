@@ -8,27 +8,37 @@
 
 ### 引注
 
-（汪学军，2005）<br>
-（Praetzellis，2011）<br>
-（Wang，2022）<br>
-（扬奎斯特、萨金特，2010）<br>
-（Jenkins and Ruostekoski，2012）<br>
-（肖玲等，2024）<br>
-（于潇等，2012）<br>
-（Veen et al.，2014）<br>
+（青木昌彦，2001）<br>
+（费孝通，1957）<br>
+（费孝通，1980）<br>
+（黄达，2000）<br>
+（国家统计局，2013）<br>
+（郑杭生，2009）<br>
+（Clark，2013）<br>
+（Coase，1960）<br>
+（Li and Walder，2001）<br>
+（Wong，1979）<br>
+（青木昌彦，2001：162）<br>
+（Coase，1960：40）<br>
+（费孝通，1957）<br>
+（费孝通，1980）<br>
+（费孝通，1998）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">汪学军，2005，《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社。</div>
-  <div class="csl-entry">肖玲、张雪、王永，2024，《数据要素的统计测算方法探究》，PSSXiv。</div>
-  <div class="csl-entry">扬奎斯特、萨金特，2010，《递归宏观经济理论》，杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社。</div>
-  <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波，2012，《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第11期。</div>
-  <div class="csl-entry">Jenkins, Stewart D. and Janne Ruostekoski. 2012. <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i>. arXiv.</div>
-  <div class="csl-entry">Praetzellis, Adrian. 2011. <i>Death by theory: a tale of mystery and archaeological theory</i>. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Veen, Pieternella H. van der, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group. 2014. “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study.” <i>Journal of the Neurological Sciences</i> 337(1/2).</div>
-  <div class="csl-entry">Wang, Shanshan. 2022. <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>.</div>
+  <div class="csl-entry">费孝通，1957，《关于社会学的几句话》，《文汇报》2月20日。</div>
+  <div class="csl-entry">——，1980，《为社会学再说几句话——在社会学座谈会上的发言》，《社会学研究》第1期。</div>
+  <div class="csl-entry">——，1998，《乡土中国生育制度》，北京：北京大学出版社。</div>
+  <div class="csl-entry">国家统计局，2013，《2012年全国农民工监测调查报告》，<a href="http://www.stats.gov.cn/tjfx/jdfx/t20130527_402899251.htm">http://www.stats.gov.cn/tjfx/jdfx/t20130527_402899251.htm</a>, 2013年5月27日。</div>
+  <div class="csl-entry">黄达主编，2000，《货币银行学》，北京：中国人民大学出版社。</div>
+  <div class="csl-entry">青木昌彦，2001，《比较制度分析》，周黎安译，上海：上海远东出版社。</div>
+  <div class="csl-entry">郑杭生，2009，《总论：我们时代的“大传统”——从社会学视角看当代中国社会认同的基础》，郑杭生主编《中国人民大学社会发展报告（2008）》，北京：中国人民大学出版社。</div>
+  <div class="csl-entry">Clark, Terry. 2013. <i>The Theory of Scenes</i>. Chicago: University of Chicago Press.</div>
+  <div class="csl-entry">Coase, Ronald H. 1960. “The Problem of Social Cost.” <i>Journal of Law and Economics</i> 3(1).</div>
+  <div class="csl-entry">Li, Bobai and Andrew G. Walder. 2001. “Career Advancement as Party Patronage: Sponsored Mobility into the Chinese Administrative Elite, 1949-1996.” <i>American Journal of Sociology</i> 106(5).</div>
+  <div class="csl-entry">Wong, Siu-lun. 1979. <i>Sociology and Socialism in Contemporary China</i>. London: Routledge and Kegan Paul.</div>
 </div>
 
 ## 默认测试

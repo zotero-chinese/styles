@@ -8,27 +8,36 @@
 
 ### 引注
 
-(汪学军, 2005)<br>
-(Praetzellis, 2011)<br>
-(Wang, 2022)<br>
-(扬奎斯特、萨金特, 2010)<br>
-(Jenkins and Ruostekoski, 2012)<br>
-(肖玲等, 2024)<br>
-(于潇等, 2012)<br>
-(Veen et al., 2014)<br>
+(孙立平, 2003)<br>
+(孙立平, 2003)<br>
+(郭于华, 2008)<br>
+(李强、张莹, 2015)<br>
+(李强, 2016)<br>
+(方明东, 2000)<br>
+(〔日〕中岛乐章, 1998)<br>
+(方慧容, 1997)<br>
+(Fei, 1939)<br>
+(Freedman, 1962)<br>
+(Olick and Robbins, 1998)<br>
+(Calhoun, 1996)<br>
+(Strout, 1978)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">汪学军, 2005, 《中国农业转基因生物研发进展与安全管理》, 载国家环境保护总局生物安全管理办公室编《中国国家生物安全框架实施国际合作项目研讨会论文集》。</div>
-  <div class="csl-entry">肖玲、张雪、王永, 2024, 《数据要素的统计测算方法探究》, PSSXiv。</div>
-  <div class="csl-entry">扬奎斯特、萨金特, 2010, 《递归宏观经济理论》, 杨斌、王忠玉、陈彦斌、严高剑译, 中国人民大学出版社。</div>
-  <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波, 2012, 《互联网药品可信交易环境中主体资质审核备案模式》, 《清华大学学报（自然科学版）》第11期, 第1518～1523页。</div>
-  <div class="csl-entry">Jenkins，Stewart D. and Janne Ruostekoski. 2012. <i>Controlled Manipulation of Light by Cooperative Response of Atoms in an Optical Lattice</i>. arXiv.</div>
-  <div class="csl-entry">Praetzellis，Adrian. 2011. <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>. Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Veen，Pieternella H. van der，Majon Muller，Koen L. Vincken，Theo D. Witkamp，Willem P. T. M. Mali，Yolanda van der Graaf，Mirjam I. Geerlings，and SMART-MR Study Group. 2014. “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study” <i>Journal of the Neurological Sciences</i> 337（1/2）：112-118.</div>
-  <div class="csl-entry">Wang，Shanshan. 2022. <i>Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers</i> pp. 2.</div>
+  <div class="csl-entry">方慧容, 1997, 《“无事件境”与生活世界中的“真实”：西村农民土地改革时期社会生活的记忆》, 北京大学社会生活口述史资料研究中心。</div>
+  <div class="csl-entry">方明东, 2000, 《罗隆基政治思想研究(1913～1949)》, 北京师范大学博士学位论文。</div>
+  <div class="csl-entry">郭于华, 2008, 《作为历史见证的“受苦人”的讲述》, 《社会学研究》第1期, 第53～67页。</div>
+  <div class="csl-entry">李强, 2016, 《新型城镇化与市民化面临的问题》, 《北京日报》11月14日。</div>
+  <div class="csl-entry">李强、张莹, 2015, 《社会运行视角与社会学的本土化》, 《社会学研究》第5期, 第24～35页。</div>
+  <div class="csl-entry">〔日〕中岛乐章, 1998, 《明前期徽州的民事诉讼个案研究》, “国际徽学研讨会”论文。</div>
+  <div class="csl-entry">孙立平, 2003, 《断裂——20世纪90年代以来的中国社会》, 社会科学文献出版社。</div>
+  <div class="csl-entry">Calhoun，Craig. 1996. “The Rise and Domestication of Historical Sociology.” In Terrence J. McDonald（ed.）. <i>The Historic Turn in the Human Sciences</i>，pp. 305-337. Ann Arbor，MI：University of Michigan Press.</div>
+  <div class="csl-entry">Fei，Hsiao-tung. 1939. <i>Peasant Life in China：A Field Study of Country Life in the Yangtze Valley</i>. London：George Routledge and Sons.</div>
+  <div class="csl-entry">Freedman，Maurice. 1962. “Sociology in and of China.” <i>The British Journal of Sociology</i> 13（2）：106-116.</div>
+  <div class="csl-entry">Olick，Jeffrey K. and Joyce Robbins. 1998. “Social Memory Studies：From ‘Collective Memory’ to the Historical Sociology of Mnemonic Practices.” <i>Annual Review of Sociology</i> 24：105-140.</div>
+  <div class="csl-entry">Strout，Richard L. 1978. “Another Bicentennial.” <i>Christian Science Monitor</i>，10 November 1978.</div>
 </div>
 
 ## 默认测试

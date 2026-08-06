@@ -8,27 +8,19 @@
 
 ### 引注
 
-（汪学军，2005）<br>
-（Praetzellis，2011）<br>
-（Wang，2022）<br>
-（扬奎斯特、萨金特，2010）<br>
-（Jenkins &#38; Ruostekoski，2012）<br>
-（肖玲等，2024）<br>
-（于潇等，2012）<br>
-（Veen et al.，2014）<br>
+（Wrigley &#38; Schofield，1989: 208–209）<br>
+（陈少明，2005）<br>
+（佚名，2021）<br>
+（MacFarquhar &#38; Schoenhals，2006）<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">汪学军：《中国农业转基因生物研发进展与安全管理》，载国家环境保护总局生物安全管理办公室编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社2005年版。</div>
-  <div class="csl-entry">肖玲、张雪、王永：《数据要素的统计测算方法探究》，PSSXiv2024年版。</div>
-  <div class="csl-entry">扬奎斯特、萨金特：《递归宏观经济理论》，杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社2010年版。</div>
-  <div class="csl-entry">于潇、刘义、柴跃廷、孙宏波，2012，《互联网药品可信交易环境中主体资质审核备案模式》，载《清华大学学报（自然科学版）》第11期。</div>
-  <div class="csl-entry">Jenkins, Stewart D. &#38; Janne Ruostekoski, 2012, <i>Controlled manipulation of light by cooperative response of atoms in an optical lattice</i>, arXiv.</div>
-  <div class="csl-entry">Praetzellis, Adrian, 2011, <i>Death by theory: a tale of mystery and archaeological theory</i>, Rowman &#38; Littlefield Publishing Group, Inc.</div>
-  <div class="csl-entry">Veen, Pieternella H. van der, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, &#38; SMART-MR Study Group, 2014, “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study,” <i>Journal of the Neurological Sciences</i>, 337 (1/2).</div>
-  <div class="csl-entry">Wang, Shanshan, 2022, <i>Application of improved SOM neural network in intelligent auditing of hospital financial vouchers</i>.</div>
+  <div class="csl-entry">陈少明，2005，《经典世界中的人、事、物——对中国哲学书写方式的一种思考》，载《中国社会科学》第5期。</div>
+  <div class="csl-entry">佚名：《第四期中国妇女社会地位调查主要数据情况》，载《中国妇女报》2021年12月27日，第4版。</div>
+  <div class="csl-entry">MacFarquhar, Roderick &#38; Michael Schoenhals, 2006, <i>Mao’s Last Revolution</i>, Cambridge, Mass.; London: Belknap Press of Harvard University Press.</div>
+  <div class="csl-entry">Wrigley, E. A. &#38; Roger S. Schofield, 1989, <i>The Population History of England 1541-1871: A Reconstruction</i>.</div>
 </div>
 
 ## 默认测试

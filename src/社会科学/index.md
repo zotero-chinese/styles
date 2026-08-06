@@ -8,36 +8,31 @@
 
 ### 引注
 
-<sup>1</sup> 扬奎斯特、萨金特：《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社2010年，第798页。<br>
-<sup>2</sup> Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p.13.<br>
-<sup>3</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012年第11期。<br>
-<sup>4</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp.112-118.<br>
-<sup>5</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社2005年，第22—25页。<br>
-<sup>6</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p.2.<br>
-<sup>7</sup> Shanshan Wang: “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers.”<br>
-<sup>8</sup> Adrian Praetzellis: <i>Death by Theory</i>, pp.326-329.<br>
+<sup>1</sup> 吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。<br>
+<sup>2</sup> 本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年，第150页。<br>
+<sup>3</sup> 洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年，第36页。<br>
+<sup>4</sup> 洛克：《政府论》，第348页。<br>
+<sup>5</sup> Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998, p.92.<br>
+<sup>6</sup> Gary Jefferson, Thomas Rawski, “Enterprise Reform in China’s Industry,” <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特、萨金特：《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社2010年，第798页。</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p.13.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012年第11期。</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年。</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp.112-118.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社2005年，第22—25页。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p.2.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Gary Jefferson, Thomas Rawski, “Enterprise Reform in China’s Industry,” <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.</div>
   </div>
 </div>
 

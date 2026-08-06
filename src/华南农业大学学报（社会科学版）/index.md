@@ -8,19 +8,36 @@
 
 ### 引注
 
-<sup>[1]-[8]</sup>
+<sup>[1]</sup><br>
+<sup>[1]3</sup><br>
+<sup>[2]</sup><br>
+<sup>[3]</sup><br>
+<sup>[4]</sup><br>
+<sup>[5]</sup><br>
+<sup>[6]</sup><br>
+<sup>[7]</sup><br>
+<sup>[8]22-25</sup><br>
+<sup>[1]3</sup><br>
+<sup>[9]-[11]</sup><br>
+<sup>[9]</sup><br>
+<sup>[10]</sup><br>
+<sup>[9],[11]</sup><br>
+
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">[1] 扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
-  <div class="csl-entry">[2] Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  <div class="csl-entry">[3] 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012(11): 1518-1523.</div>
-  <div class="csl-entry">[4] Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014(1/2): 112-118.</div>
-  <div class="csl-entry">[5] 汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
-  <div class="csl-entry">[6] Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology, 2022: 2.</div>
-  <div class="csl-entry">[7] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv, 2024. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.</div>
-  <div class="csl-entry">[8] Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[PP/OL]. arXiv, 2012. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>.</div>
+  <div class="csl-entry">[1] 费孝通. 乡土中国[M]. 上海: 上海人民出版社, 2006.</div>
+  <div class="csl-entry">[2] Adams R. Empowerment, participation and social work[M]. New York: Palgrave Macmillan, 2008.</div>
+  <div class="csl-entry">[3] 尹志超, 张栋浩. 金融普惠、家庭贫困及脆弱性[J]. 经济学(季刊), 2020(5): 153-172.</div>
+  <div class="csl-entry">[4] Howard M C, Rose J C. Refining and extending tasktechnology fit theory:creation of two task-technology fit scales and empirical clarification of the construct[J]. Information &#38; Management, 2019(6): 1-16.</div>
+  <div class="csl-entry">[5] 李园园, 薛彩霞, 柴朝卿, 等. 中国保护性耕作农业生态效率:动态演进、区域差异与收敛性分析[J/OL]. 资源科学, 2025-09-02[2025-10-17]. <a href="https://link.cnki.net/urlid/11.3868.N.20250902.0950.002">https://link.cnki.net/urlid/11.3868.N.20250902.0950.002</a>.</div>
+  <div class="csl-entry">[6] 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
+  <div class="csl-entry">[7] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
+  <div class="csl-entry">[8] 汪学军. 中国农业转基因生物研发进展与安全管理[C]//中国国家生物安全框架实施国际合作项目研讨会: 22-25.</div>
+  <div class="csl-entry">[9] 作者1. 书1[M]. 出版社, 2000.</div>
+  <div class="csl-entry">[10] 作者2. 书2[M]. 出版社, 2001.</div>
+  <div class="csl-entry">[11] 作者3. 书3[M]. 出版社, 2002.</div>
 </div>
 
 ## 默认测试
