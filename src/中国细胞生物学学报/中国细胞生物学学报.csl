@@ -7,20 +7,14 @@
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2025-numeric" rel="template"/>
     <link href="https://www.cjcb.org/cjcb/portal/tgzn.jsp" rel="documentation"/>
     <author>
-      <name>Zeping Lee</name>
-      <email>zepinglee@gmail.com</email>
-    </author>
-    <contributor>
-      <name>OpenAI</name>
-    </contributor>
-    <contributor>
       <name>Zerlinaz</name>
-    </contributor>
+      <email>yujie6609@gmail.com</email>
+    </author>
     <category citation-format="numeric"/>
-    <category field="science"/>
+    <category field="biology"/>
     <issn>1674-7666</issn>
     <summary>《中国细胞生物学学报》顺序编码制样式，基于 GB/T 7714—2025。英文作者姓大写、名缩写；4名及以上作者列前3名后加 et al.；英文期刊优先使用缩写；不显示 DOI 和 URL。</summary>
-    <updated>2026-08-05T16:22:50+09:00</updated>
+    <updated>2026-08-06T20:38:20+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
