@@ -1,0 +1,252 @@
+[
+	{
+		"id": "shxpl:01",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "比较制度分析",
+		"publisher": "上海远东出版社",
+		"publisher-place": "上海",
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "青木昌彦"
+			}
+		],
+		"translator": [
+			{
+				"family": "周黎安"
+			}
+		]
+	},
+	{
+		"id": "shxpl:02",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "关于社会学的几句话",
+		"container-title": "文汇报",
+		"issued": {
+			"date-parts": [
+				[
+					1957,
+					2,
+					20
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "shxpl:03",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "为社会学再说几句话——在社会学座谈会上的发言",
+		"container-title": "社会学研究",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					1980
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "shxpl:04",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "货币银行学",
+		"publisher": "中国人民大学出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"editor": [
+			{
+				"family": "黄达"
+			}
+		]
+	},
+	{
+		"id": "shxpl:05",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "2012年全国农民工监测调查报告",
+		"URL": "http://www.stats.gov.cn/tjfx/jdfx/t20130527_402899251.htm",
+		"issued": {
+			"date-parts": [
+				[
+					2013
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2013,
+					5,
+					27
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "国家统计局"
+			}
+		]
+	},
+	{
+		"id": "shxpl:06",
+		"type": "chapter",
+		"language": "zh-CN",
+		"title": "总论：我们时代的“大传统”——从社会学视角看当代中国社会认同的基础",
+		"container-title": "中国人民大学社会发展报告（2008）",
+		"publisher": "中国人民大学出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "郑杭生"
+			}
+		],
+		"editor": [
+			{
+				"family": "郑杭生"
+			}
+		]
+	},
+	{
+		"id": "shxpl:07",
+		"type": "book",
+		"language": "en-US",
+		"title": "The Theory of Scenes",
+		"publisher": "University of Chicago Press",
+		"publisher-place": "Chicago",
+		"issued": {
+			"date-parts": [
+				[
+					2013
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Clark",
+				"given": "Terry"
+			}
+		]
+	},
+	{
+		"id": "shxpl:08",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "The Problem of Social Cost",
+		"container-title": "Journal of Law and Economics",
+		"volume": "3",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					1960
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Coase",
+				"given": "Ronald H."
+			}
+		]
+	},
+	{
+		"id": "shxpl:09",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Career Advancement as Party Patronage: Sponsored Mobility into the Chinese Administrative Elite, 1949-1996",
+		"container-title": "American Journal of Sociology",
+		"volume": "106",
+		"issue": "5",
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Li",
+				"given": "Bobai"
+			},
+			{
+				"family": "Walder",
+				"given": "Andrew G."
+			}
+		]
+	},
+	{
+		"id": "shxpl:10",
+		"type": "book",
+		"language": "en-US",
+		"title": "Sociology and Socialism in Contemporary China",
+		"publisher": "Routledge and Kegan Paul",
+		"publisher-place": "London",
+		"issued": {
+			"date-parts": [
+				[
+					1979
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Wong",
+				"given": "Siu-lun"
+			}
+		]
+	},
+	{
+		"id": "shxpl:11",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "乡土中国生育制度",
+		"publisher": "北京大学出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	}
+]

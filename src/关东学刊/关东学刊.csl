@@ -52,7 +52,9 @@
   <macro name="author-zh">
     <names variable="author">
       <name delimiter="、"/>
-      <label form="short"/>
+      <!-- 体例著作类责任方式用「编」（袁良骏编），章节文集责任者用「主编」：
+           editor verb-short = 编，short = 主编（见下方 zh locale 覆盖与 container-booklike-zh） -->
+      <label form="verb-short"/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>
@@ -302,7 +304,7 @@
         <text macro="issue-zh"/>
       </group>
       <text macro="date-zh"/>
-      <text variable="section" quotes="true"/>
+      <text variable="section"/>
     </group>
   </macro>
   <macro name="container-newspaper-en">
@@ -447,7 +449,8 @@
       <if variable="container-title" match="none">
         <group delimiter="，">
           <group>
-            <text variable="event-title"/>
+            <!-- 体例例：“全球化与亚太区域话国际研讨会”论文，天津，2000年6月 -->
+            <text variable="event-title" quotes="true"/>
             <text value="论文"/>
           </group>
           <names variable="organizer">
@@ -458,6 +461,7 @@
               <text variable="publisher-place"/>
             </substitute>
           </names>
+          <text variable="event-place"/>
           <choose>
             <if variable="event-date">
               <date variable="event-date" form="text"/>

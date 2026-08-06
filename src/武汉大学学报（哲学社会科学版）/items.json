@@ -1,0 +1,392 @@
+[
+	{
+		"id": "whdx:01",
+		"type": "book",
+		"title": "国史旧闻：第 1 卷",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "陈登原"
+			}
+		]
+	},
+	{
+		"id": "whdx:02",
+		"type": "book",
+		"title": "经济数学与金融数学",
+		"publisher": "中国人民大学出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2012
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "迈克尔·哈里森"
+			},
+			{
+				"family": "帕特里克·沃尔德伦"
+			}
+		],
+		"translator": [
+			{
+				"family": "谢远涛"
+			}
+		]
+	},
+	{
+		"id": "whdx:03",
+		"type": "article-journal",
+		"title": "《五行》学说与《荀子》",
+		"container-title": "北京大学学报（哲学社会科学版）",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2013
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "常森"
+			}
+		]
+	},
+	{
+		"id": "whdx:04",
+		"type": "article-journal",
+		"title": "“北斗一号”监控管理网设计与实现",
+		"container-title": "测绘科学",
+		"issue": "5",
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "武丽丽"
+			},
+			{
+				"family": "华一新"
+			},
+			{
+				"family": "张亚军"
+			},
+			{
+				"family": "赵六"
+			}
+		]
+	},
+	{
+		"id": "whdx:05",
+		"type": "article-newspaper",
+		"title": "数字革命与竞争国际化",
+		"container-title": "中国青年报",
+		"issued": {
+			"date-parts": [
+				[
+					2000,
+					11,
+					20
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "丁文详"
+			}
+		]
+	},
+	{
+		"id": "whdx:06",
+		"type": "article-newspaper",
+		"title": "我们的科技一直在追赶：访中国工程院院长周济",
+		"container-title": "人民日报",
+		"issued": {
+			"date-parts": [
+				[
+					2013,
+					1,
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2017,
+					5,
+					26
+				]
+			]
+		},
+		"URL": "http://paper.people.com.cn/rmrb/html/201301/12/nw.D110000renmrb_20130112_5-02.htm",
+		"author": [
+			{
+				"family": "余建斌"
+			}
+		]
+	},
+	{
+		"id": "whdx:07",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Cataloging Internet Resources",
+		"container-title": "The Public Access Computer Systems Review",
+		"volume": "4",
+		"issue": "2",
+		"issued": {
+			"date-parts": [
+				[
+					1993
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Caplan",
+				"given": "P."
+			}
+		]
+	},
+	{
+		"id": "whdx:08",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Next-generation Sequencing: From Understanding Biology to Personalized Medicine",
+		"container-title": "Biology",
+		"volume": "2",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2013
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Frese",
+				"given": "K. S."
+			},
+			{
+				"family": "Katus",
+				"given": "H. A."
+			},
+			{
+				"family": "Meder",
+				"given": "B."
+			}
+		]
+	},
+	{
+		"id": "whdx:09",
+		"type": "book",
+		"language": "en-US",
+		"title": "Future Libraries: Dreams, Madness & Reality",
+		"publisher": "American Library Association",
+		"publisher-place": "Chicago",
+		"issued": {
+			"date-parts": [
+				[
+					1995
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Crawfor",
+				"given": "W."
+			},
+			{
+				"family": "Gorman",
+				"given": "M."
+			}
+		]
+	},
+	{
+		"id": "whdx:10",
+		"type": "chapter",
+		"title": "题词",
+		"container-title": "苏颂与《本草图经》研究",
+		"publisher": "长春出版社",
+		"publisher-place": "长春",
+		"issued": {
+			"date-parts": [
+				[
+					1991
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "李约瑟"
+			}
+		],
+		"container-author": [
+			{
+				"family": "苏克鲁"
+			},
+			{
+				"family": "管成学"
+			},
+			{
+				"family": "邓明鲁"
+			}
+		]
+	},
+	{
+		"id": "whdx:11",
+		"type": "chapter",
+		"title": "周易外传：卷 5",
+		"container-title": "船山全书",
+		"volume": "第 6 册",
+		"publisher": "岳麓书社",
+		"publisher-place": "长沙",
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "王夫之"
+			}
+		]
+	},
+	{
+		"id": "whdx:12",
+		"type": "thesis",
+		"title": "人类活动影响下海河流域典型区水循环变化分析",
+		"publisher": "清华大学",
+		"genre": "博士学位论文",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "马欢"
+			}
+		]
+	},
+	{
+		"id": "whdx:13",
+		"type": "report",
+		"title": "第 29 次中国互联网络发展现状统计报告",
+		"publisher": "中国互联网络信息中心网",
+		"issued": {
+			"date-parts": [
+				[
+					2012,
+					1,
+					16
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2017,
+					5,
+					26
+				]
+			]
+		},
+		"URL": "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680.pdf",
+		"author": [
+			{
+				"family": "中国互联网络信息中心"
+			}
+		]
+	},
+	{
+		"id": "whdx:14",
+		"type": "book",
+		"title": "乡土中国",
+		"issued": {
+			"date-parts": [
+				[
+					1948
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "whdx:15",
+		"type": "book",
+		"title": "书1",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者1"
+			}
+		]
+	},
+	{
+		"id": "whdx:16",
+		"type": "book",
+		"title": "书2",
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者2"
+			}
+		]
+	},
+	{
+		"id": "whdx:17",
+		"type": "book",
+		"title": "书3",
+		"issued": {
+			"date-parts": [
+				[
+					2002
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者3"
+			}
+		]
+	}
+]

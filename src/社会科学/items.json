@@ -1,0 +1,124 @@
+[
+	{
+		"id": "shkx:01",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "构建中国特色哲学社会科学的时代任务",
+		"container-title": "社会科学",
+		"issue": "5",
+		"issued": {
+			"date-parts": [
+				[
+					2022
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "吴晓明"
+			}
+		]
+	},
+	{
+		"id": "shkx:02",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "想象的共同体：民族主义的起源与散布",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "本尼迪柯特·安德森"
+			}
+		],
+		"translator": [
+			{
+				"family": "吴叡人"
+			}
+		]
+	},
+	{
+		"id": "shkx:03",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "政府论",
+		"volume": "下",
+		"publisher": "商务印书馆",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1996
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "洛克"
+			}
+		],
+		"translator": [
+			{
+				"family": "叶启芳"
+			},
+			{
+				"family": "瞿菊农"
+			}
+		]
+	},
+	{
+		"id": "shkx:04",
+		"type": "book",
+		"language": "en-US",
+		"title": "Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000",
+		"publisher": "Routledge Publish Press",
+		"publisher-place": "New York and London",
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Ward",
+				"given": "Stephen V."
+			}
+		]
+	},
+	{
+		"id": "shkx:05",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Enterprise Reform in China's Industry",
+		"container-title": "Journal of Economic Perspectives",
+		"volume": "4",
+		"issue": "2",
+		"issued": {
+			"date-parts": [
+				[
+					1994
+				]
+			]
+		},
+		"page": "47-70",
+		"author": [
+			{
+				"family": "Jefferson",
+				"given": "Gary"
+			},
+			{
+				"family": "Rawski",
+				"given": "Thomas"
+			}
+		]
+	}
+]

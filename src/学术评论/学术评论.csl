@@ -254,11 +254,11 @@
       </else>
     </choose>
   </macro>
-  <!-- 学术评论：英文年份与页码用冒号连接，无 p./pp. 前缀（Publisher, YYYY:Page） -->
+  <!-- 学术评论：英文年份与页码用冒号+空格连接，无 p./pp. 前缀（Publisher, YYYY: Page；样文注②） -->
   <macro name="date-locator-en">
     <choose>
       <if variable="locator">
-        <group delimiter=":">
+        <group delimiter=": ">
           <text macro="date-en"/>
           <text variable="locator"/>
         </group>

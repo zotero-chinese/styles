@@ -1,0 +1,290 @@
+[
+	{
+		"id": "xspl:01",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "康德与形而上学疑难",
+		"publisher": "商务印书馆",
+		"issued": {
+			"date-parts": [
+				[
+					2018
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "海德格尔"
+			}
+		],
+		"translator": [
+			{
+				"family": "王庆节"
+			}
+		]
+	},
+	{
+		"id": "xspl:02",
+		"type": "book",
+		"language": "en-US",
+		"title": "Kant",
+		"publisher": "Blackwell Publishing Ltd.",
+		"issued": {
+			"date-parts": [
+				[
+					2005
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Wood",
+				"given": "Allen W."
+			}
+		]
+	},
+	{
+		"id": "xspl:03",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "知识考古学",
+		"publisher": "生活·读书·新知三联书店",
+		"issued": {
+			"date-parts": [
+				[
+					2021
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "米歇尔·福柯"
+			}
+		],
+		"translator": [
+			{
+				"family": "董树宝"
+			}
+		]
+	},
+	{
+		"id": "xspl:04",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "我所理解的艺术观念史",
+		"container-title": "中国图书评论",
+		"issue": "9",
+		"issued": {
+			"date-parts": [
+				[
+					2018
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "刘成纪"
+			}
+		]
+	},
+	{
+		"id": "xspl:05",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "论思想之开端",
+		"container-title": "中国现象学与哲学评论",
+		"issue": "第2辑",
+		"issued": {
+			"date-parts": [
+				[
+					2019
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "汉斯-格奥尔格·伽达默尔"
+			}
+		],
+		"translator": [
+			{
+				"family": "张柯"
+			}
+		]
+	},
+	{
+		"id": "xspl:06",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "美学",
+		"publisher": "文化艺术出版社",
+		"issued": {
+			"date-parts": [
+				[
+					1987
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "鲍姆嘉藤"
+			}
+		],
+		"translator": [
+			{
+				"family": "简明"
+			},
+			{
+				"family": "王旭晓"
+			}
+		]
+	},
+	{
+		"id": "xspl:07",
+		"type": "book",
+		"language": "de-DE",
+		"title": "Ästhetik",
+		"volume": "Teil 1",
+		"edition": "Lateinisch-Deutsch",
+		"publisher": "Felix Meiner Verlag",
+		"issued": {
+			"date-parts": [
+				[
+					2007
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Baumgarten",
+				"given": "Alexander Gottlieb"
+			}
+		],
+		"editor": [
+			{
+				"family": "Mirbach",
+				"given": "Dagmar"
+			}
+		],
+		"translator": [
+			{
+				"family": "Mirbach",
+				"given": "Dagmar"
+			}
+		]
+	},
+	{
+		"id": "xspl:08",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "判断力批判",
+		"publisher": "中国人民大学出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "康德"
+			}
+		],
+		"translator": [
+			{
+				"family": "李秋零"
+			}
+		]
+	},
+	{
+		"id": "xspl:09",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "狄奥提玛的孩子们——从莱布尼茨到莱辛的德国审美理性主义",
+		"publisher": "人民出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2019
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "弗里德里克·C.拜泽尔"
+			}
+		],
+		"translator": [
+			{
+				"family": "张红军"
+			}
+		]
+	},
+	{
+		"id": "xspl:10",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "缪斯的诞生：现代西方艺术观念生成简史",
+		"publisher": "四川大学出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2025
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "陈新儒"
+			}
+		]
+	},
+	{
+		"id": "xspl:11",
+		"type": "chapter",
+		"language": "en-US",
+		"title": "Kritik der Urteilskraft",
+		"container-title": "Kants gesammelte Schriften",
+		"publisher": "Georg Reimer",
+		"issued": {
+			"date-parts": [
+				[
+					1913
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Kant",
+				"given": "Immanuel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Akademie der Wissenschaften zu Berlin",
+				"given": "Preußische"
+			}
+		]
+	},
+	{
+		"id": "xspl:12",
+		"type": "book",
+		"language": "en-US",
+		"title": "Kant's Final Synthesis: An Essay on the Opus postumum",
+		"publisher": "Harvard University Press",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Förster",
+				"given": "Eckart"
+			}
+		]
+	}
+]
