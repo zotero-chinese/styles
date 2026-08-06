@@ -22,6 +22,11 @@
     <terms>
       <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
       <term name="translator" form="short">trans.</term>
+      <!-- 体例示例与全局约定：英文外层引号用直引号 -->
+      <term name="open-quote">"</term>
+      <term name="close-quote">"</term>
+      <term name="open-inner-quote">'</term>
+      <term name="close-inner-quote">'</term>
     </terms>
   </locale>
   <locale xml:lang="zh">
@@ -744,7 +749,10 @@
         <group delimiter="：">
           <text macro="author-zh"/>
           <group delimiter="，">
-            <text macro="title-short-zh"/>
+            <group delimiter="">
+              <text macro="title-short-zh"/>
+              <text macro="volume-zh"/>
+            </group>
             <choose>
               <if type="chapter paper-conference" match="any">
                 <text macro="container-booklike-short-zh"/>

@@ -120,6 +120,19 @@
       <date-part name="year" range-delimiter="-"/>
     </date>
   </macro>
+  <!-- 出版年 + 首次出版年（体例四(一)1 例：1989[1981]） -->
+  <macro name="date-original">
+    <group delimiter="">
+      <text macro="date"/>
+      <choose>
+        <if variable="original-date">
+          <date variable="original-date" prefix="[" suffix="]">
+            <date-part name="year"/>
+          </date>
+        </if>
+      </choose>
+    </group>
+  </macro>
   <!-- 题名 -->
   <macro name="title-en">
     <choose>
@@ -401,14 +414,26 @@
       <!-- 报纸：author：title，载container date，第X版 -->
       <else-if type="article-newspaper">
         <group delimiter="，">
-          <group>
-            <text macro="author-zh" suffix="："/>
-            <text macro="title-zh"/>
-          </group>
+          <!-- 参考文献例（体例四(一)3）：缺作者时直接以题名开头、年份独立置于题名后 -->
+          <choose>
+            <if variable="author" match="none">
+              <text macro="title-zh"/>
+            </if>
+            <else>
+              <group>
+                <text macro="author-zh" suffix="："/>
+                <text macro="title-zh"/>
+              </group>
+            </else>
+          </choose>
+          <text macro="date"/>
           <group delimiter="">
             <text value="载"/>
             <text macro="container-periodical-zh"/>
-            <text macro="newspaper-date-zh"/>
+            <date variable="issued">
+              <date-part name="month" form="numeric" suffix="月"/>
+              <date-part name="day" form="numeric" suffix="日"/>
+            </date>
           </group>
           <text macro="newspaper-edition-zh"/>
         </group>
@@ -474,7 +499,7 @@
     <layout prefix="（" suffix="）" delimiter="；" locale="zh">
       <group delimiter="，">
         <text macro="author-intext-zh"/>
-        <text macro="date"/>
+        <text macro="date-original"/>
       </group>
       <group delimiter="">
         <text value="："/>
@@ -484,7 +509,7 @@
     <layout prefix="（" suffix="）" delimiter="；">
       <group delimiter="，">
         <text macro="author-intext-en"/>
-        <text macro="date"/>
+        <text macro="date-original"/>
       </group>
       <group delimiter="">
         <text value=": "/>

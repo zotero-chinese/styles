@@ -736,6 +736,8 @@
           <else-if type="post post-weblog software webpage" match="any">
             <group>
               <text variable="container-title" prefix="《" suffix="》"/>
+              <!-- 体例例：〈文学遗产通讯〉（网路版试刊）；括注录入 edition -->
+              <text variable="edition" prefix="（" suffix="）"/>
               <text macro="date-zh"/>
               <text macro="issue-zh"/>
             </group>

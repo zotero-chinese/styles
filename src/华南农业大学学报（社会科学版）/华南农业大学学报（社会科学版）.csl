@@ -380,6 +380,34 @@
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
   </macro>
+  <!-- 会议年份：优先 event-date（规范会议例 2005），无则回退 issued -->
+  <macro name="event-year">
+    <choose>
+      <if variable="event-date">
+        <date variable="event-date">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text macro="issued-year"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- 网络文献出版项：平台(更新或修改日期)[引用日期]（规范数据集例） -->
+  <macro name="publisher-network">
+    <group delimiter="">
+      <text variable="publisher"/>
+      <choose>
+        <if has-day="issued">
+          <text macro="issued-date" prefix="(" suffix=")"/>
+        </if>
+        <else-if variable="issued">
+          <text macro="issued-year"/>
+        </else-if>
+      </choose>
+      <text macro="accessed-date"/>
+    </group>
+  </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
@@ -442,9 +470,12 @@
           <text macro="publisher"/>
         </else-if>
         <else-if type="dataset post post-weblog software webpage" match="any">
-          <!-- 4.6 电子资源 -->
-          <text macro="title"/>
-          <text macro="publisher"/>
+          <!-- 4.6 电子资源：题名[DS/OL]. 版本. 平台(更新日期)[引用日期]. URL -->
+          <group delimiter=". ">
+            <text macro="title"/>
+            <text variable="version"/>
+            <text macro="publisher-network"/>
+          </group>
         </else-if>
         <else-if type="paper-conference">
           <!-- 会议论文：题名[C]//会议名称（无论文集时会议名, 年份: 页码），本刊规范 -->
@@ -462,7 +493,7 @@
                 <group delimiter=": ">
                   <group delimiter=", ">
                     <text variable="event-title"/>
-                    <text macro="issued-year"/>
+                    <text macro="event-year"/>
                   </group>
                   <text variable="page"/>
                 </group>
