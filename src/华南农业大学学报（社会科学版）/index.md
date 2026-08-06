@@ -27,14 +27,14 @@
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">[1] 费孝通. 乡土中国[M]. 上海: 上海人民出版社, 2006.</div>
+  <div class="csl-entry">[1] 费孝通. 乡土中国[M]. 上海: 上海人民出版社, 2006: 3.</div>
   <div class="csl-entry">[2] Adams R. Empowerment, participation and social work[M]. New York: Palgrave Macmillan, 2008.</div>
   <div class="csl-entry">[3] 尹志超, 张栋浩. 金融普惠、家庭贫困及脆弱性[J]. 经济学(季刊), 2020(5): 153-172.</div>
   <div class="csl-entry">[4] Howard M C, Rose J C. Refining and extending tasktechnology fit theory:creation of two task-technology fit scales and empirical clarification of the construct[J]. Information &#38; Management, 2019(6): 1-16.</div>
   <div class="csl-entry">[5] 李园园, 薛彩霞, 柴朝卿, 等. 中国保护性耕作农业生态效率:动态演进、区域差异与收敛性分析[J/OL]. 资源科学, 2025-09-02[2025-10-17]. <a href="https://link.cnki.net/urlid/11.3868.N.20250902.0950.002">https://link.cnki.net/urlid/11.3868.N.20250902.0950.002</a>.</div>
   <div class="csl-entry">[6] 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
-  <div class="csl-entry">[7] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
-  <div class="csl-entry">[8] 汪学军. 中国农业转基因生物研发进展与安全管理[C]//中国国家生物安全框架实施国际合作项目研讨会: 22-25.</div>
+  <div class="csl-entry">[7] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. V2. 北京大学开放研究数据平台(2025-06-11)[2025-07-11]. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
+  <div class="csl-entry">[8] 汪学军. 中国农业转基因生物研发进展与安全管理[C]//中国国家生物安全框架实施国际合作项目研讨会, 2005: 22-25.</div>
   <div class="csl-entry">[9] 作者1. 书1[M]. 出版社, 2000.</div>
   <div class="csl-entry">[10] 作者2. 书2[M]. 出版社, 2001.</div>
   <div class="csl-entry">[11] 作者3. 书3[M]. 出版社, 2002.</div>
@@ -185,15 +185,15 @@
   <div class="csl-entry">[126] 童世亨. 京兆直隶图[CM]. 上海: 商务印书馆, 1926.</div>
   <div class="csl-entry">[127] Cribb R. Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.</div>
   <div class="csl-entry">[128] Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.</div>
-  <div class="csl-entry">[129] 彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心, 2025. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.</div>
-  <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 2012. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>. DOI:<a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.</div>
-  <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
-  <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. DOI:<a href="https://doi.org/10.11922/sciencedb.610">10.11922/sciencedb.610</a>.</div>
-  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. DOI:<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>.</div>
-  <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
-  <div class="csl-entry">[135] Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>. DOI:<a href="https://doi.org/10.5255/UKDA-SN-996-1">10.5255/UKDA-SN-996-1</a>.</div>
-  <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
-  <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
+  <div class="csl-entry">[129] 彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心(2025-07-07)[2025-07-15]. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.</div>
+  <div class="csl-entry">[130] 刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 1.0. 国家青藏高原科学数据中心2012[2025-07-15]. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>. DOI:<a href="https://doi.org/10.3972/glacier.001.2013.db">10.3972/glacier.001.2013.db</a>.</div>
+  <div class="csl-entry">[131] 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 1.0. 国家基础学科公共科学数据中心(2023-09-10)[2025-07-15]. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.</div>
+  <div class="csl-entry">[132] 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. 1. Science Data Bank(2018-05-26)[2025-02-14]. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>. DOI:<a href="https://doi.org/10.11922/sciencedb.610">10.11922/sciencedb.610</a>.</div>
+  <div class="csl-entry">[133] 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心(2024-12-25)[2025-07-10]. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>. DOI:<a href="https://doi.org/10.12041/geodata.58691800703558.ver1.db">10.12041/geodata.58691800703558.ver1.db</a>.</div>
+  <div class="csl-entry">[134] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 2.2. 北京大学开放研究数据平台(2025-06-11)[2025-07-11]. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
+  <div class="csl-entry">[135] Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service1980[2025-07-10]. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>. DOI:<a href="https://doi.org/10.5255/UKDA-SN-996-1">10.5255/UKDA-SN-996-1</a>.</div>
+  <div class="csl-entry">[136] Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository2022[2024-11-25]. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.</div>
+  <div class="csl-entry">[137] IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange2021[2024-11-25]. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.</div>
   <div class="csl-entry">[138] 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv, 2023. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.</div>
   <div class="csl-entry">[139] 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv, 2024. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.</div>
   <div class="csl-entry">[140] Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[PP/OL]. bioRxiv, 2015. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>.</div>
@@ -440,8 +440,8 @@
   <div class="csl-entry">[132] 中国人大网“已结束的征求意见”栏目[EB/OL]. [2020-02-28]. <a href="http://www.npc.gov.cn/flcaw/more.html">http://www.npc.gov.cn/flcaw/more.html</a>.</div>
   <div class="csl-entry">[133] 黄晓磊. 再说博客文章被正式引用[EB/OL]. (2012-03-23)[2025-11-08]. <a href="https://blog.sciencenet.cn/blog-111883-550928.html">https://blog.sciencenet.cn/blog-111883-550928.html</a>.</div>
   <div class="csl-entry">[134] 新浪微博 xiaolwl. [EB/OL]. (2020-01-31). <a href="https://weibo.com/1139098205/4466768535861595">https://weibo.com/1139098205/4466768535861595</a>.</div>
-  <div class="csl-entry">[135] 刘松山. 失信惩戒立法的三大问题[EB]. 2019.</div>
-  <div class="csl-entry">[136] 莫纪宏. 论“中国式现代化”的法治保障[EB]. 2024.</div>
+  <div class="csl-entry">[135] 刘松山. 失信惩戒立法的三大问题[EB]. (2019-11-19).</div>
+  <div class="csl-entry">[136] 莫纪宏. 论“中国式现代化”的法治保障[EB]. (2024-06-21).</div>
   <div class="csl-entry">[137] 新型冠状病毒肺炎，情况如何？[Z]//中央电视台“新闻1+1”栏目. 2020.</div>
   <div class="csl-entry">[138] xxx. [Z]. 《最高人民法院公报》编辑部, 2000.</div>
   <div class="csl-entry">[139] [Z]. 2001.</div>
@@ -640,20 +640,20 @@
   <div class="csl-entry">[100] Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[PP]. PsyArXiv, 2018. DOI:<a href="https://doi.org/10.17605/OSF.IO/9P7CB">10.17605/OSF.IO/9P7CB</a>.</div>
   <div class="csl-entry">[101] Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[PP/OL]. PubMed Central, 2015. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304</a>.</div>
   <div class="csl-entry">[102] Ho H K. Teacher preparation for early childhood special education in Taiwan[PP/OL]. ERIC, 2014. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
-  <div class="csl-entry">[103] D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
-  <div class="csl-entry">[104] National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. National Archive of Data on Arts and Culture, 2016. DOI:<a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
+  <div class="csl-entry">[103] D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. V1. ICPSR2018. DOI:<a href="https://doi.org/10.3886/ICPSR37080.1">10.3886/ICPSR37080.1</a>.</div>
+  <div class="csl-entry">[104] National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. V3. National Archive of Data on Arts and Culture2016. DOI:<a href="https://doi.org/10.3886/ICPSR335531.v3">10.3886/ICPSR335531.v3</a>.</div>
   <div class="csl-entry">[105] Pew Research Center. American trends panel Wave 26[DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.</div>
-  <div class="csl-entry">[106] Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015.</div>
+  <div class="csl-entry">[106] Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky2015.</div>
   <div class="csl-entry">[107] Oregan Youth Authority. Recidivism outcomes[DS]. 2011.</div>
-  <div class="csl-entry">[108] Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[CP]. Biostat, 2014.</div>
+  <div class="csl-entry">[108] Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[CP]. 3.3.070. Biostat2014.</div>
   <div class="csl-entry">[109] SR Research. Eyelink 1000 plus[CP]. 2016.</div>
   <div class="csl-entry">[110] Tactile Labs. Latero tactile display[CP]. 2015.</div>
-  <div class="csl-entry">[111] Epocrates. Epocrates medical references[CP]. App Store, 2019.</div>
+  <div class="csl-entry">[111] Epocrates. Epocrates medical references[CP]. 18.12. App Store2019.</div>
   <div class="csl-entry">[112] Epocrates. Interaction Check: Aspirin + Sertraline[Z]//Epocrates medical references. Google Play Store, 2019.</div>
   <div class="csl-entry">[113] Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   <div class="csl-entry">[114] Project Implicit. Gender-Science IAT[Z].</div>
-  <div class="csl-entry">[115] Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
-  <div class="csl-entry">[116] Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.</div>
+  <div class="csl-entry">[115] Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
+  <div class="csl-entry">[116] Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink2000.</div>
   <div class="csl-entry">[117] Forman M. One flew over the cuckoo’s nest[Z]. United Artists, 1975.</div>
   <div class="csl-entry">[118] Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z]. American Pychological Association, 2017.</div>
   <div class="csl-entry">[119] Jackson P. The lord of the rings: The fellowship of the ring[Z]. WingNut Films; The Saul Zaentz Company, 2001.</div>

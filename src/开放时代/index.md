@@ -8,7 +8,7 @@
 
 ### 引注
 
-（Wrigley &#38; Schofield，1989: 208–209）<br>
+（Wrigley &#38; Schofield，1989[1981]: 208–209）<br>
 （陈少明，2005）<br>
 （佚名，2021）<br>
 （MacFarquhar &#38; Schoenhals，2006）<br>
@@ -18,7 +18,7 @@
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">陈少明，2005，《经典世界中的人、事、物——对中国哲学书写方式的一种思考》，载《中国社会科学》第5期。</div>
-  <div class="csl-entry">佚名：《第四期中国妇女社会地位调查主要数据情况》，载《中国妇女报》2021年12月27日，第4版。</div>
+  <div class="csl-entry">《第四期中国妇女社会地位调查主要数据情况》，2021，载《中国妇女报》12月27日，第4版。</div>
   <div class="csl-entry">MacFarquhar, Roderick &#38; Michael Schoenhals, 2006, <i>Mao’s Last Revolution</i>, Cambridge, Mass.; London: Belknap Press of Harvard University Press.</div>
   <div class="csl-entry">Wrigley, E. A. &#38; Roger S. Schofield, 1989, <i>The Population History of England 1541-1871: A Reconstruction</i>.</div>
 </div>
@@ -66,11 +66,11 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">陈登原：《国史旧闻》，北京：中华书局2000年版。</div>
   <div class="csl-entry">陈建军，2010，《从数字地球到智慧地球》，载《国土资源导刊》第10期。</div>
   <div class="csl-entry">陈晋镳、张惠民、朱士兴、赵震、王振刚：《蓟县震旦亚界的研究》，载中国地质科学院天津地质矿产研究所编：《中国震旦亚界》，天津：天津科学技术出版社1980年版。</div>
-  <div class="csl-entry">陈缮真：《探索微观世界的无穷奥秘（科技大观）》，载《人民日报》2022年8月16日，第17版。</div>
+  <div class="csl-entry">陈缮真：《探索微观世界的无穷奥秘（科技大观）》，2022，载《人民日报》8月16日，第17版。</div>
   <div class="csl-entry">陈志勇：《中国财税文化价值研究："中国财税文化国际学术研讨会"论文集》，北京：经济科学出版社2011年版。</div>
   <div class="csl-entry">程根伟：《1998年长江洪水的成因与减灾对策》，载许厚泽、赵其国编：《长江流域洪涝灾害与科技对策》，北京：科学出版社1999年版。</div>
   <div class="csl-entry">邓一刚：《全智能节电器》，2008年版。</div>
-  <div class="csl-entry">丁文详：《数字革命与竞争国际化》，载《中国青年报》2000年11月20日，第15版。</div>
+  <div class="csl-entry">丁文详：《数字革命与竞争国际化》，2000，载《中国青年报》11月20日，第15版。</div>
   <div class="csl-entry">方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv2023年版。</div>
   <div class="csl-entry">冯友兰：《冯友兰自选集》，北京：首都师范大学出版社2008年版。</div>
   <div class="csl-entry">《馆际互借与文献传递服务》，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>，2025年6月21日访问。</div>
@@ -219,7 +219,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">——：《心理学史》，北京：未名出版社2008c年版。</div>
   <div class="csl-entry">——：《心理学史》，北京：未名出版社2008d年版。</div>
   <div class="csl-entry">张三、李四，2008a，《中国心理学的过去与未来》，载《心理学报》。</div>
-  <div class="csl-entry">——：《中国心理学与奥林匹克》，载《新华日报》2008b年8月8日，第2, 5–7版。</div>
+  <div class="csl-entry">——：《中国心理学与奥林匹克》，2008b，载《新华日报》8月8日，第2, 5–7版。</div>
   <div class="csl-entry">——，《中国心理学的过去与未来》，载《心理学报》。</div>
   <div class="csl-entry">赵一、钱二、孙三、李四、周五、吴六、郑七，2008，《中国心理学的过去与未来》，载《心理学报》。</div>
   <div class="csl-entry">赵一一、钱二、孙三、李四、周五、吴六、郑七、王八，2008，《中国心理学的过去与未来》，载《心理学报》。</div>
@@ -261,7 +261,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">黄义豪，1997，《评黄龟年四劾秦桧》，载《福建论坛》第3期。</div>
   <div class="csl-entry">蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社2001年版。</div>
   <div class="csl-entry">金冲及：《周恩来传》，北京：人民出版社、中央文献出版社1989年版。</div>
-  <div class="csl-entry">李眉：《李劼人轶事》，载《四川工人日报》1986年8月22日，第2版。</div>
+  <div class="csl-entry">李眉：《李劼人轶事》，1986，载《四川工人日报》8月22日，第2版。</div>
   <div class="csl-entry">李鹏程：《当代文化哲学沉思》，北京：人民出版社1994年版。</div>
   <div class="csl-entry">楼适夷：《读家书，想傅雷（代序）》，载傅敏编：《傅雷家书》，北京：三联书店1998年版。</div>
   <div class="csl-entry">鲁迅：《中国小说的历史的变迁》，载《鲁迅全集》第9册，北京：人民文学出版社1981年版。</div>
@@ -280,10 +280,10 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">姚际恒：《古今伪书考》。</div>
   <div class="csl-entry">佚名：《晚清洋务运动事类汇钞五十七种》，北京：全国图书馆文献缩微复制中心1998a年版。</div>
   <div class="csl-entry">赵景深：《文坛忆旧》，上海：北新书局1948年版。</div>
-  <div class="csl-entry">佚名：《四川会议厅暂行章程》，载《广益丛报》1910年9月3日，第第1—2页版。</div>
+  <div class="csl-entry">《四川会议厅暂行章程》，1910，载《广益丛报》9月3日，第第1—2页版。</div>
   <div class="csl-entry">佚名：《傅良佐致国务院电》，1917年版。</div>
-  <div class="csl-entry">佚名：《上海各路商界总联合会致外交部电》，载《民国日报》1925年8月14日，第4版。</div>
-  <div class="csl-entry">佚名：《西南中委反对在宁召开五全会》，载《民国日报》1933年8月11日，第第1张第4版版。</div>
+  <div class="csl-entry">《上海各路商界总联合会致外交部电》，1925，载《民国日报》8月14日，第4版。</div>
+  <div class="csl-entry">《西南中委反对在宁召开五全会》，1933，载《民国日报》8月11日，第第1张第4版版。</div>
   <div class="csl-entry">佚名：《党外人士座谈会记录》，1950年版。</div>
   <div class="csl-entry">Anon, 1969, <i>Nixon to Kissinger</i>.</div>
   <div class="csl-entry">佚名：《旧唐书》，北京：中华书局1975年版。</div>
@@ -330,8 +330,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">哈特穆特·毛雷尔：《行政法学总论》，高家伟译，法律出版社2000年版。</div>
   <div class="csl-entry">汉斯·J. 沃尔夫、奥托·巴霍夫、罗尔夫·施托贝尔：《行政法》，高家伟译，商务印书馆2002年版。</div>
   <div class="csl-entry">何帆：《刑法注释书》，中国民主法制出版社2021年版。</div>
-  <div class="csl-entry">何海波：《判决书上网》，载《法制日报》2000a年5月21日，第2版。</div>
-  <div class="csl-entry">——：《判决书上网》，载《法制日报》2000b年5月21日，第2版。</div>
+  <div class="csl-entry">何海波：《判决书上网》，2000a，载《法制日报》5月21日，第2版。</div>
+  <div class="csl-entry">——：《判决书上网》，2000b，载《法制日报》5月21日，第2版。</div>
   <div class="csl-entry">胡建淼：《行政诉讼法修改研究》，浙江大学出版社2007年版。</div>
   <div class="csl-entry">黄晓磊：《再说博客文章被正式引用》，2012年版。</div>
   <div class="csl-entry">季卫东，1993，《法律程序的意义——对中国法制建设的另一种思考》，载《中国社会科学》第1期。</div>
@@ -344,7 +344,7 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">勒翁狄几：《公法要义》，杨肇熉译，上海社会科学院出版社2017年版。</div>
   <div class="csl-entry">雷经天：《关于边区司法工作检查情形》，1943年版。</div>
   <div class="csl-entry">李昉：《太平御览》，中华书局1960年版。</div>
-  <div class="csl-entry">李桂茹、孔献之：《七旬律师被判可以执业〈律师法〉赢了司法部文件》，载《中国青年报》2003年6月4日。</div>
+  <div class="csl-entry">李桂茹、孔献之：《七旬律师被判可以执业〈律师法〉赢了司法部文件》，2003，载《中国青年报》6月4日。</div>
   <div class="csl-entry">李克强：《政府工作报告》，2023年版。</div>
   <div class="csl-entry">李松锋：《游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究》，中国政法大学博士学位论文，2013a年。</div>
   <div class="csl-entry">——：《游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究》，中国政法大学博士学位论文，2013b年。</div>
@@ -475,8 +475,8 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">佚名，《执行难，难于上青天？》。</div>
   <div class="csl-entry">佚名，《行政诉讼证据规则：原理与规范》。</div>
   <div class="csl-entry">佚名，《何以合法？——对"二奶继承案"的追问》。</div>
-  <div class="csl-entry">佚名：《陕西国土厅否决法院判决 施压最高院要求改判》。</div>
-  <div class="csl-entry">佚名：《抓实抓好公正与效率 为大局服务为人民司法》。</div>
+  <div class="csl-entry">《陕西国土厅否决法院判决 施压最高院要求改判》。</div>
+  <div class="csl-entry">《抓实抓好公正与效率 为大局服务为人民司法》。</div>
   <div class="csl-entry">佚名：《中国大百科全书·法学》。</div>
   <div class="csl-entry">佚名：《邓小平文选》。</div>
   <div class="csl-entry">佚名：《民商法论丛》。</div>
@@ -564,20 +564,20 @@ Qian et al. （2009a）<br>
   <div class="csl-entry">Anon, 2002-2008, <i>The wire</i>, Blown Deadline Productions; HBO.</div>
   <div class="csl-entry">Anon, 2004, <i>The Qur’an</i>, M. A. S. Abdel Haleem trans., Oxford University Press.</div>
   <div class="csl-entry">Anon, 2009a, “Lilly Leadbetter Fair Play Act of 2009.”</div>
-  <div class="csl-entry">Anon, 2009b, “Florida Mental Health Act.”</div>
-  <div class="csl-entry">Anon, 2009c, “Protection of human subjects.”</div>
+  <div class="csl-entry">Anon, 2009, “Florida Mental Health Act.”</div>
+  <div class="csl-entry">Anon, 2009b, “Protection of human subjects.”</div>
   <div class="csl-entry">Anon, 2013, <i>Mental Health on Campus Improvement Act</i>.</div>
   <div class="csl-entry">Anon, 2014a, <i>Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions</i>.</div>
   <div class="csl-entry">Anon, 2014b, “Exec. Order No. 13,676.”</div>
-  <div class="csl-entry">Anon, 2015a, <i>The Torah: The five books of Moses</i>, The Jewish Publication Society.</div>
-  <div class="csl-entry">Anon, 2015b, “Obergefell v. Hodges.”</div>
-  <div class="csl-entry">Anon, 2015c, “Every Student Succeeds Act.”</div>
-  <div class="csl-entry">Anon, 2015d, <i>H.R. Rep. No. 114-358</i>.</div>
+  <div class="csl-entry">Anon, 2015, <i>The Torah: The five books of Moses</i>, The Jewish Publication Society.</div>
+  <div class="csl-entry">Anon, 2015a, “Obergefell v. Hodges.”</div>
+  <div class="csl-entry">Anon, 2015b, “Every Student Succeeds Act.”</div>
+  <div class="csl-entry">Anon, 2015c, <i>H.R. Rep. No. 114-358</i>.</div>
   <div class="csl-entry">Anon, 2016a, <i>Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs</i>.</div>
   <div class="csl-entry">Anon, 2016b, “S. Res. 438.”</div>
   <div class="csl-entry">Anon, 2016c, “Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees.”</div>
-  <div class="csl-entry">Anon, 2017a, <i>King James Bible</i>, King James Bible Online.</div>
-  <div class="csl-entry">Anon, 2017b, <i>Accelerated experiental dynamic psychotherapy (AEDP) supervision</i>, American Pychological Association.</div>
+  <div class="csl-entry">Anon, 2017, <i>King James Bible</i>, King James Bible Online.</div>
+  <div class="csl-entry">Anon, 2017, <i>Accelerated experiental dynamic psychotherapy (AEDP) supervision</i>, American Pychological Association.</div>
   <div class="csl-entry">Anon, 2019, “List of oldest companies.”</div>
   <div class="csl-entry">Anon, <i>U.S. Const. art. I, § 3</i>.</div>
   <div class="csl-entry">Anon, <i>S.C. Const. art. XI, § 3</i>.</div>

@@ -24,7 +24,7 @@
 <sup>14</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案1011-5961，中国第二历史档案馆藏。<br>
 <sup>15</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge: Cambridge University Press, 1983, p. 79.<br>
 <sup>16</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.<br>
-<sup>17</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯（网路版试刊）》2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
+<sup>17</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网路版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
 
 
 ### 参考文献表
@@ -45,7 +45,7 @@
   <div class="csl-entry">[13] 《傅良佐致国务院电》，1917年9月15日，北洋档案1011-5961，中国第二历史档案馆藏。</div>
   <div class="csl-entry">[14] R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge: Cambridge University Press, 1983.</div>
   <div class="csl-entry">[15] Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.</div>
-  <div class="csl-entry">[16] 扬之水：《两宋茶诗与茶事》，《文学遗产通讯（网路版试刊）》2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>
+  <div class="csl-entry">[16] 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网路版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。</div>
 </div>
 
 ## 默认测试

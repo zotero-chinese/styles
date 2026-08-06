@@ -11,9 +11,9 @@
 <sup>1</sup> 吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。<br>
 <sup>2</sup> 本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年，第150页。<br>
 <sup>3</sup> 洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年，第36页。<br>
-<sup>4</sup> 洛克：《政府论》，第348页。<br>
+<sup>4</sup> 洛克：《政府论》下，第348页。<br>
 <sup>5</sup> Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998, p.92.<br>
-<sup>6</sup> Gary Jefferson, Thomas Rawski, “Enterprise Reform in China’s Industry,” <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>
+<sup>6</sup> Gary Jefferson, Thomas Rawski, "Enterprise Reform in China’s Industry," <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>
 
 
 ### 参考文献表
@@ -32,7 +32,7 @@
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Gary Jefferson, Thomas Rawski, “Enterprise Reform in China’s Industry,” <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Gary Jefferson, Thomas Rawski, "Enterprise Reform in China’s Industry," <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.</div>
   </div>
 </div>
 
@@ -84,8 +84,8 @@
 <sup>31</sup> 马克思：《政治经济学批判》，《马克思恩格斯全集》（第2版）第35卷，北京：人民出版社2013年，第302页。<br>
 <sup>32</sup> 国家药典委员会主编：《大黄》，《中华人民共和国药典》（2020版）一部，北京：中国医药科技出版社2020年，第24—25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社2011年，第11—12页。<br>
-<sup>34</sup> L. Weinstein, M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr., William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp.457-472.<br>
-<sup>35</sup> J. Alan Roberson, Eric G. Burneson, “Drinking Water Quality Standards, Regulations and Goals,” in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
+<sup>34</sup> L. Weinstein, M. N. Swartz, "Pathogenic Properties of Invading Microorganisms," in William A. Sodeman Jr., William A. Sodeman (eds.), <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp.457-472.<br>
+<sup>35</sup> J. Alan Roberson, Eric G. Burneson, "Drinking Water Quality Standards, Regulations and Goals," in American Water Works Association (ed.), <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
 <sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）-，武汉：中华医学会湖北分会1984年。<br>
 <sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）-1990（4），北京：北京图书馆1957—1990年。<br>
 <sup>38</sup> American Association for the Advancement of Science, ed., <i>Science</i>, 1883，1（1）-, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
@@ -101,15 +101,15 @@
 <sup>48</sup> 张群、程志宝、石志飞：《惯性增强动力吸振器-浮置板轨道低频减振性能研究》，《铁道学报》2024年第8期。<br>
 <sup>49</sup> 徐建委：《历史的起点：《史记》中的时间设置及其意义》，《北京大学学报（哲学社会科学版）》2025年第2期。<br>
 <sup>50</sup> 王利平、王福新、刘洪：《过冷大水滴环境粒径分布模拟方法研究进展》，《航空学报》2024年增刊1。<br>
-<sup>51</sup> Priscilla Caplan, “Cataloging Internet Resources,” <i>The Public-Access Computer Systems Review</i>, Vol.4, No.2, 1993, pp.61-66.<br>
-<sup>52</sup> Makoto Saito, Kazuhiro Miyazaki, “Jadeite-Bearing Metagabbro in Serpentinite Melange of the ‘Kurosegawa Belt’ in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu,” <i>Bulletin of the Geological Survey of Japan</i>, Vol.57, No.5/6, 2006, pp.169-176.<br>
-<sup>53</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, J. M. Hayes, “Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment,” <i>Nature</i>, Vol.359, 1992, pp.605-609.<br>
-<sup>54</sup> Jung-Ran Park, Yuji Tosaka, “Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms,” <i>Cataloging &#38; Classification Quarterly</i>, Vol.48, No.8, 2010, pp.696-715.<br>
-<sup>55</sup> Karen S. Frese, Hugo A. Katus, Benjamin Meder, “Next-Generation Sequencing: From Understanding Biology to Personalized Medicine,” <i>Biology</i>, Vol.2, No.1, 2013, pp.378-398.<br>
-<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, Jeremy Schmutz, “The Genome of <i>Eucalyptus grandis</i>,” <i>Nature</i>, Vol.510, 2014, pp.356-362.<br>
-<sup>57</sup> Roger D. Santer, Otar Akanyeti, “Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps,” <i>Insect Science</i>, 2025.<br>
-<sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno, Masato Okada, “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator,” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, Vol.267, 2023.<br>
-<sup>59</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp.112-118.<br>
+<sup>51</sup> Priscilla Caplan, "Cataloging Internet Resources," <i>The Public-Access Computer Systems Review</i>, Vol.4, No.2, 1993, pp.61-66.<br>
+<sup>52</sup> Makoto Saito, Kazuhiro Miyazaki, "Jadeite-Bearing Metagabbro in Serpentinite Melange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, Central Kyushu," <i>Bulletin of the Geological Survey of Japan</i>, Vol.57, No.5/6, 2006, pp.169-176.<br>
+<sup>53</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, J. M. Hayes, "Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment," <i>Nature</i>, Vol.359, 1992, pp.605-609.<br>
+<sup>54</sup> Jung-Ran Park, Yuji Tosaka, "Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms," <i>Cataloging &#38; Classification Quarterly</i>, Vol.48, No.8, 2010, pp.696-715.<br>
+<sup>55</sup> Karen S. Frese, Hugo A. Katus, Benjamin Meder, "Next-Generation Sequencing: From Understanding Biology to Personalized Medicine," <i>Biology</i>, Vol.2, No.1, 2013, pp.378-398.<br>
+<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, Jeremy Schmutz, "The Genome of <i>Eucalyptus grandis</i>," <i>Nature</i>, Vol.510, 2014, pp.356-362.<br>
+<sup>57</sup> Roger D. Santer, Otar Akanyeti, "Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps," <i>Insect Science</i>, 2025.<br>
+<sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno, Masato Okada, "Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator," <i>Journal of Electron Spectroscopy and Related Phenomena</i>, Vol.267, 2023.<br>
+<sup>59</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, SMART-MR Study Group, "Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study," <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp.112-118.<br>
 <sup>60</sup> 李妍、王莹：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，中华预防医学会医院感染控制分会第31次全国医院感染学术年会论文，2022年，第2页。<br>
 <sup>61</sup> 牛志明、Swingland Ian R.、雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社2012年。<br>
 <sup>62</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社2012年。<br>
@@ -117,23 +117,23 @@
 <sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社2005年，第22—25页。<br>
 <sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，中国图书馆学会主编：《中国图书馆学会年会论文集》2011年卷，北京：国家图书馆出版社2011年，第45—52页。<br>
 <sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社2011年。<br>
-<sup>67</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” 2022, p.2.<br>
-<sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, Jiayi Ma, “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” 2024, p.4.<br>
+<sup>67</sup> Shanshan Wang, "Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers," 2022, p.2.<br>
+<sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, Jiayi Ma, "Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis," 2024, p.4.<br>
 <sup>69</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
 <sup>70</sup> B. V. Babu, Atulya Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, Umesh Gupta, eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
-<sup>71</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in W. G. Gottenberg (ed.), <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, 1971, pp.17-38.<br>
+<sup>71</sup> M. E. Fourney, "Advances in Holographic Photoelasticity," in W. G. Gottenberg (ed.), <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, 1971, pp.17-38.<br>
 <sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，武汉大学博士学位论文，2022年，第87页。<br>
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，温州大学硕士学位论文，2020年，第16页。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，武汉大学博士学位论文，2016年，第24—25页。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，中国科学院大学博士学位论文，2022年，第43页。<br>
-<sup>76</sup> Bruce Richard Cairns, “Infrared Spectroscopic Studies of Solid Oxygen,” University of California, Berkeley Doctoral Dissertation, 1965, p.15.<br>
-<sup>77</sup> Antrea Christou, “Improving Knowledge Graph Understanding with Contextual Views,” Wright State University Doctoral Dissertation, 2024, p.18.<br>
+<sup>76</sup> Bruce Richard Cairns, "Infrared Spectroscopic Studies of Solid Oxygen," University of California, Berkeley Doctoral Dissertation, 1965, p.15.<br>
+<sup>77</sup> Antrea Christou, "Improving Knowledge Graph Understanding with Contextual Views," Wright State University Doctoral Dissertation, 2024, p.18.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>79</sup> 汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>80</sup> 中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。<br>
-<sup>81</sup> David E. Calkin, Alan A. Ager, Matthew P. Thompson, “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” 2011, pp.8-9.<br>
-<sup>82</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Materials,” Springfield: U.S. Department of Commerce National Information Service, 1990, p.25.<br>
-<sup>83</sup> United Nations Department of Economic and Social Affairs, “United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development.”<br>
+<sup>81</sup> David E. Calkin, Alan A. Ager, Matthew P. Thompson, "A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report," 2011, pp.8-9.<br>
+<sup>82</sup> U.S. Department of Transportation Federal Highway Administration, "Guidelines for Handling Excavated Acid-Producing Materials," Springfield: U.S. Department of Commerce National Information Service, 1990, p.25.<br>
+<sup>83</sup> United Nations Department of Economic and Social Affairs, "United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development."<br>
 <sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献　资源描述》，2021年。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》，2016年。<br>
 <sup>86</sup> 工业和信息化部：《信息技术　中文编码字符集》，2022年。<br>
@@ -202,34 +202,34 @@
 
 <sup>1</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年。<br>
 <sup>2</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》2008年。<br>
-<sup>3</sup> Weimin Mou, Timothy P. McNamara, “Intrinsic Frames of Reference in Spatial Memory,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.28, 2002, pp.162-170.<br>
+<sup>3</sup> Weimin Mou, Timothy P. McNamara, "Intrinsic Frames of Reference in Spatial Memory," <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.28, 2002, pp.162-170.<br>
 <sup>4</sup> 赵一、钱二、孙三、李四、周五、吴六、郑七：《中国心理学的过去与未来》，《心理学报》2008年。<br>
-<sup>5</sup> Weimin Mou, Kan Zhang, Timothy P. McNamara, “Frames of Reference in Spatial Memories Acquired from Language,” <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.30, 2004, pp.171-180.<br>
+<sup>5</sup> Weimin Mou, Kan Zhang, Timothy P. McNamara, "Frames of Reference in Spatial Memories Acquired from Language," <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, Vol.30, 2004, pp.171-180.<br>
 <sup>6</sup> 赵一一、钱二、孙三、李四、周五、吴六、郑七、王八：《中国心理学的过去与未来》，《心理学报》2008年。<br>
-<sup>7</sup> S. A. Wolchik, S. G. West, I. N. Sandler, J. Y. Tein, D. Coatsworth, L. Lengua, L. Weiss, E. R. Anderson, S. M. Greene, W. A. Griffin, “An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce,” <i>Journal of Consulting and Clinical Psychology</i>, Vol.68, No.5, 2000, pp.843-856.<br>
+<sup>7</sup> S. A. Wolchik, S. G. West, I. N. Sandler, J. Y. Tein, D. Coatsworth, L. Lengua, L. Weiss, E. R. Anderson, S. M. Greene, W. A. Griffin, "An Experimental Evaluation of Theory-Based Mother and Mother-Child Programs for Children of Divorce," <i>Journal of Consulting and Clinical Psychology</i>, Vol.68, No.5, 2000, pp.843-856.<br>
 <sup>8</sup> 张三、李四：《中国心理学的过去与未来》，《心理学报》出版时间不详。<br>
-<sup>9</sup> Sujata M. Huestegge, Tim Raettig, Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i>, 2019.<br>
-<sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater, Lorenzo Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
+<sup>9</sup> Sujata M. Huestegge, Tim Raettig, Lynn Huestegge, "Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing," <i>Experimental Psychology</i>, 2019.<br>
+<sup>10</sup> Dalila Burin, Konstantina Kilteni, Marco Rabuffetti, Mel Slater, Lorenzo Pia, "Body Ownership Increases the Interference between Observed and Executed Movements," <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，《心理学报》2008年增刊。<br>
 <sup>12</sup> 张三：《心理学史》，北京：未名出版社2008年。<br>
 <sup>13</sup> 张三主编：《心理学史》，北京：未名出版社2008年。<br>
 <sup>14</sup> Jewelle Taylor Gibbs, Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace, <i>A Philosophical Essay on Probabilities</i>, trans. F. W. Truscott and F. L. Emory, Dover, 1951.<br>
 <sup>16</sup> 拉普拉斯, Pierre-Simon：《概率哲学》，张三、李四译，北京：未名出版社1951年。<br>
-<sup>17</sup> Roberta Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections,” in C. Freksa, C. Habel, K. F. Wender (eds.), <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998, pp.1-17.<br>
-<sup>18</sup> Deng Feng Wang, Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality,” in Deng Feng Wang, Yu Bo Hou (eds.), <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004, pp.46-84.<br>
+<sup>17</sup> Roberta Klatzky, "Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections," in C. Freksa, C. Habel, K. F. Wender (eds.), <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998, pp.1-17.<br>
+<sup>18</sup> Deng Feng Wang, Hong Cui, "Theoretical Analysis of the Seven Factor Model of Chinese Personality," in Deng Feng Wang, Yu Bo Hou (eds.), <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004, pp.46-84.<br>
 <sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》，王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京：北京大学出版社2004年，第46—84页。<br>
-<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation,” in M. F. Bornstein (ed.), <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993, pp.43-110.<br>
-<sup>21</sup> Kenneth L. Lichstein, Ronald S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs,” in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden, 1990.<br>
-<sup>22</sup> Cheryl B. Lanktree, John N. Briere, “Early Data on the Trauma Symptom Checklist for Children (TSC-C),” San Diego, CA, 1991.<br>
-<sup>23</sup> John Ruby, Cain Fulton, “Beyond Redlining: Editing Software That Works,” Washington, DC, 1993.<br>
-<sup>24</sup> Australian Bureau of Statistics, “Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990,” Canberra, Australian Capital Territory: Author, 1991.<br>
+<sup>20</sup> John S. Auerbach, "The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation," in M. F. Bornstein (ed.), <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993, pp.43-110.<br>
+<sup>21</sup> Kenneth L. Lichstein, Ronald S. Johnson, "Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs," in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden, 1990.<br>
+<sup>22</sup> Cheryl B. Lanktree, John N. Briere, "Early Data on the Trauma Symptom Checklist for Children (TSC-C)," San Diego, CA, 1991.<br>
+<sup>23</sup> John Ruby, Cain Fulton, "Beyond Redlining: Editing Software That Works," Washington, DC, 1993.<br>
+<sup>24</sup> Australian Bureau of Statistics, "Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990," Canberra, Australian Capital Territory: Author, 1991.<br>
 <sup>25</sup> Terence R. Mitchell, James R. Larson, <i>People in Organizations: An Introduction to Organizational Behavior</i>, New York: McGraw-Hill, 1987.<br>
 <sup>26</sup> P. G. Bergmann, <i>Relativity</i>, vol. 26, New York: Encyclopedia Britannica, 1993, pp.501-508.<br>
 <sup>27</sup> Stanley Sadie, ed., <i>The New Grove Dictionary of Music and Musicians</i>, London : New York: Macmillan, 1980.<br>
 <sup>28</sup> 李行健主编：《现代汉语规范辞典》，北京：外语教学与研究出版社2004年，第255页。<br>
 <sup>29</sup> 《现代汉语频率词典》，北京：北京语言学院出版社1986年。<br>
-<sup>30</sup> Lin Yu, “Phonological Representation and Processing in Chinese Spoken Language Production,” Beijing Normal University Unpublished Doctorial Dissertation, 2000.<br>
+<sup>30</sup> Lin Yu, "Phonological Representation and Processing in Chinese Spoken Language Production," Beijing Normal University Unpublished Doctorial Dissertation, 2000.<br>
 <sup>31</sup> 余林：《汉语语言产生中的语音表征与加工》，北京师范大学博士学位论文，2000年。<br>
 <sup>32</sup> 邱颖文：《遗传与语言学习》，华东师范大学博士学位论文，2009年。<br>
 <sup>33</sup> 张三、李四：《中国心理学与奥林匹克》，《新华日报》2008年8月8日，第2, 5—7版。<br>
@@ -286,8 +286,8 @@
 <sup>43</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>
 <sup>44</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
 <sup>45</sup> Marco Polo, <i>The Travels of Marco Polo</i>, trans. William Marsden, Hertfordshire: Cumberland House, 1997.<br>
-<sup>46</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, Vol.19, No.2, 1993, pp.199-215.<br>
-<sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg, T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55-88.<br>
+<sup>46</sup> Heath B. Chamberlain, "On the Search for Civil Society in China," <i>Modern China</i>, Vol.19, No.2, 1993, pp.199-215.<br>
+<sup>47</sup> R. S. Schfield, "The Impact of Scarcity and Plenty on Population Change in England," in R. I. Rotberg, T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55-88.<br>
 <sup>48</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
 
 
@@ -319,8 +319,8 @@
 <sup>20</sup> 《包郑照等诉苍南县人民政府强制拆除房屋案》，1988年。<br>
 <sup>21</sup> 《陆红霞诉南通市发展和改革委员会政府信息公开答复案》，2015年。<br>
 <sup>22</sup> 《车某玲诉朱某芳相邻关系纠纷案》，2022年。<br>
-<sup>23</sup> Charles A. Reich, “The New Property,” <i>The Yale Law Journal</i>, Vol.73, No.5, 1964, pp.733-787.<br>
-<sup>24</sup> Louis D. Brandeis, “What Publicity Can Do,” <i>Harper’s Weekly</i>, 1913, pp.10-13.<br>
+<sup>23</sup> Charles A. Reich, "The New Property," <i>The Yale Law Journal</i>, Vol.73, No.5, 1964, pp.733-787.<br>
+<sup>24</sup> Louis D. Brandeis, "What Publicity Can Do," <i>Harper’s Weekly</i>, 1913, pp.10-13.<br>
 <sup>25</sup> William P. Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
 <sup>26</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council, Inc.</i>, vol. 467, 1984, p.837.<br>
 <sup>27</sup> Jacques Chevallier, <i>L’Etat de droit</i>, Paris: Montchrestien, 2003.<br>
@@ -337,10 +337,10 @@
 <sup>38</sup> 杨小君：《行政诉讼问题研究及制度改革》，中国人民公安大学出版社2007年。<br>
 <sup>39</sup> 莫于川主编：《建设法治政府需要司法更给力》，清华大学出版社2014年。<br>
 <sup>40</sup> 沈岿：《制度变迁与法官的规则选择——立足刘燕文案的初步探索》，《北大法律评论》第3卷第2辑，法律出版社2001年，第159—203页。<br>
-<sup>41</sup> Thomas E. Kellogg, “‘Courageous Explorers’? Education Litigation and Judicial Innovation in China,” <i>Harvard Human Rights Journal</i>, Vol.20, 2007, p.141.<br>
+<sup>41</sup> Thomas E. Kellogg, "“Courageous Explorers”? Education Litigation and Judicial Innovation in China," <i>Harvard Human Rights Journal</i>, Vol.20, 2007, p.141.<br>
 <sup>42</sup> 寺田浩明：《拥挤列车模式：明清时期的社会认识和秩序建构》，阮云星译，《清华法学》2010年第6期。<br>
 <sup>43</sup> <i>R. <span style="font-style:normal;">v.</span> Panel on Take-Overs and Mergers, <span style="font-style:normal;">Ex Parte</span> Datafin Plc</i>, 1987, p.815.<br>
-<sup>44</sup> Jeffrey E. Cohen, “The Dynamics of the ‘Revolving Door’ on the FCC,” <i>American Journal of Political Science</i>, Vol.30, No.4, 1986, pp.689-708.<br>
+<sup>44</sup> Jeffrey E. Cohen, "The Dynamics of the 'Revolving Door' on the FCC," <i>American Journal of Political Science</i>, Vol.30, No.4, 1986, pp.689-708.<br>
 <sup>45</sup> Paul J. Quirk, <i>Industry Influence in Federal Regulatory Agencies</i>, Princeton University Press, 1981.<br>
 <sup>46</sup> 苏力：《公民权利论的迷思:历史中国的国人、村民和分配正义》，《环球法律评论》2017年第5期。<br>
 <sup>47</sup> 朱苏力：《制度是如何形成的?——关于马歇尔诉麦迪逊案的故事》，《比较法研究》1998年第1期。<br>
@@ -528,32 +528,32 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> Stewart M. McCauley, Morten H. Christiansen, “Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development,” <i>Psychological Review</i>, Vol.126, No.1, 2019, pp.1-51.<br>
-<sup>2</sup> E. Ahmann, L. J. Tuttle, M. Saviet, S. D. Wright, “A Descriptive Review of ADHD Coaching Research: Implications for College Students,” <i>Journal of Postsecondary Education and Disability</i>, Vol.31, No.1, 2018, pp.17-39.<br>
-<sup>3</sup> M. Anderson, “Getting Consistent with Consequences,” <i>Educational Leadership</i>, Vol.76, No.1, 2018, pp.26-33.<br>
-<sup>4</sup> C. Goldman, “The Complicated Calibration of Love, Especially in Adoption,” <i>Chicago Tribune</i>, 2018-11-28.<br>
-<sup>5</sup> E. Kalnay, M. Kanamitsu, R. Kistler, W. Collins, D. Deaven, L. Gandin, M. Iredell, S. Saha, G. White, J. Wollen, Y. Zhu, M. Chelliah, W. Ebisuzaki, W. Higgins, J. Janowiak, K. C. Mo, C. Ropelewski, J. Wang, A. Leetma, A. Aaron, B. Baron C. Court, D. Joseph, “The NCEP/NCAR 40-Year Reanalysis Project,” <i>Bulletin of the American Meteorological Society</i>, Vol.77, No.3, 1996, pp.437-471.<br>
-<sup>6</sup> R. De Vries, M. Nieuwenhuijze, S. E. Buitendijk, the members of Midwifery Science Work Group, “What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands,” <i>Midwifery</i>, Vol.29, No.10, 2013, pp.1122-1128.<br>
-<sup>7</sup> D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, L. Pia, “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
-<sup>8</sup> Sujata M. Huestegge, Tim Raettig, Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i>, 2019.<br>
-<sup>9</sup> T. Pachur, B. Scheibehenne, “Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach,” <i>Psychonomic Bulletin &#38; Review</i>.<br>
-<sup>10</sup> V. Chaves-Morillo, C. Gómez Calero, J. J. Fernández-Muñoz, A. Toledano-Muñoz, J. Fernández-Heute, N. Martinez-Monge, D. Palacios-Ceña, C. Peñacoba-Puente, “Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age,” <i>Clínica y Salud</i>, Vol.28, No.3, 2018, pp.155-161.<br>
-<sup>11</sup> J. Piaget, “Intellectual Evolution from Adolescence to Adulthood,” trans. J. Bliss and H. Furth, <i>Human Development</i>, Vol.15, No.1, 1972, pp.1-12.<br>
-<sup>12</sup> M. F. Shore, “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States,” <i>American Journal of Orthopsychiatry</i>, Vol.84, No.6, 2014, pp.611-618.<br>
-<sup>13</sup> “Marking Time in the Land of Plenty: Reflections on Mental Health in the United States,” <i>American Journal of Orthopsychiatry</i>, Vol.51, No.3, 1981, pp.391-402.<br>
+<sup>1</sup> Stewart M. McCauley, Morten H. Christiansen, "Language Learning as Language Use: A Cross-Linguistic Model of Child Language Development," <i>Psychological Review</i>, Vol.126, No.1, 2019, pp.1-51.<br>
+<sup>2</sup> E. Ahmann, L. J. Tuttle, M. Saviet, S. D. Wright, "A Descriptive Review of ADHD Coaching Research: Implications for College Students," <i>Journal of Postsecondary Education and Disability</i>, Vol.31, No.1, 2018, pp.17-39.<br>
+<sup>3</sup> M. Anderson, "Getting Consistent with Consequences," <i>Educational Leadership</i>, Vol.76, No.1, 2018, pp.26-33.<br>
+<sup>4</sup> C. Goldman, "The Complicated Calibration of Love, Especially in Adoption," <i>Chicago Tribune</i>, 2018-11-28.<br>
+<sup>5</sup> E. Kalnay, M. Kanamitsu, R. Kistler, W. Collins, D. Deaven, L. Gandin, M. Iredell, S. Saha, G. White, J. Wollen, Y. Zhu, M. Chelliah, W. Ebisuzaki, W. Higgins, J. Janowiak, K. C. Mo, C. Ropelewski, J. Wang, A. Leetma, A. Aaron, B. Baron C. Court, D. Joseph, "The NCEP/NCAR 40-Year Reanalysis Project," <i>Bulletin of the American Meteorological Society</i>, Vol.77, No.3, 1996, pp.437-471.<br>
+<sup>6</sup> R. De Vries, M. Nieuwenhuijze, S. E. Buitendijk, the members of Midwifery Science Work Group, "What Does It Take to Have a Strong and Independent Profession of Midwifery? Lessons from the Netherlands," <i>Midwifery</i>, Vol.29, No.10, 2013, pp.1122-1128.<br>
+<sup>7</sup> D. Burin, K. Kilteni, M. Rabuffetti, M. Slater, L. Pia, "Body Ownership Increases the Interference between Observed and Executed Movements," <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
+<sup>8</sup> Sujata M. Huestegge, Tim Raettig, Lynn Huestegge, "Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing," <i>Experimental Psychology</i>, 2019.<br>
+<sup>9</sup> T. Pachur, B. Scheibehenne, "Unpacking Buyer-Seller Differences in Valuation from Experience: A Cognitive Modeling Approach," <i>Psychonomic Bulletin &#38; Review</i>.<br>
+<sup>10</sup> V. Chaves-Morillo, C. Gómez Calero, J. J. Fernández-Muñoz, A. Toledano-Muñoz, J. Fernández-Heute, N. Martinez-Monge, D. Palacios-Ceña, C. Peñacoba-Puente, "Sensorineural Anosmia: Relationship between Subtype, Recognition Time, and Age," <i>Clínica y Salud</i>, Vol.28, No.3, 2018, pp.155-161.<br>
+<sup>11</sup> J. Piaget, "Intellectual Evolution from Adolescence to Adulthood," trans. J. Bliss and H. Furth, <i>Human Development</i>, Vol.15, No.1, 1972, pp.1-12.<br>
+<sup>12</sup> M. F. Shore, "Marking Time in the Land of Plenty: Reflections on Mental Health in the United States," <i>American Journal of Orthopsychiatry</i>, Vol.84, No.6, 2014, pp.611-618.<br>
+<sup>13</sup> "Marking Time in the Land of Plenty: Reflections on Mental Health in the United States," <i>American Journal of Orthopsychiatry</i>, Vol.51, No.3, 1981, pp.391-402.<br>
 <sup>14</sup> S. O. Lilienfeld, ed., <i>Archives of Scientific Psychology</i>, vol. 6, 2018, pp.51-104.<br>
 <sup>15</sup> S. H. McDaniel, E. Salas, A. E. Kazak, eds., <i>American Psychologist</i>, vol. 73, 2018.<br>
-<sup>16</sup> J. Mehrholz, M. Pohl, T. Platz, J. Kugler, B. Elsner, “Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke,” <i>Cochrane Database of Systematic Reviews</i>, 2018.<br>
-<sup>17</sup> M. C. Morey, “Physical Activity and Exercise in Older Adults,” <i>UpToDate</i>, 2019.<br>
-<sup>18</sup> S. Bergeson, “Really Cool Neutral Plasmas,” <i>Science</i>, Vol.363, No.6422, 2019, pp.33-34.<br>
-<sup>19</sup> M. Bustillos, “On Video Games and Storytelling: An Interview with Tom Bissell,” <i>The New Yorker</i>, 2013.<br>
-<sup>20</sup> K. Weir, “Forgiveness Can Improve Mental and Physical Health,” <i>Monitor on Psychology</i>, Vol.48, No.1, 2017, p.30.<br>
-<sup>21</sup> B. Guarino, “How Will Humanity React to Alien Life? Psychologists Have Some Predictions,” <i>The Washington Post</i>, 2017-12-04.<br>
-<sup>22</sup> A. Hess, “Cats Who Take Direction,” <i>The New York Times</i>, 2019-01-03, p.C1.<br>
+<sup>16</sup> J. Mehrholz, M. Pohl, T. Platz, J. Kugler, B. Elsner, "Electromechanical and Robot-Assisted Arm Training for Improving Activities of Daily Living, Arm Function, and Arm Muscle Strength after Stroke," <i>Cochrane Database of Systematic Reviews</i>, 2018.<br>
+<sup>17</sup> M. C. Morey, "Physical Activity and Exercise in Older Adults," <i>UpToDate</i>, 2019.<br>
+<sup>18</sup> S. Bergeson, "Really Cool Neutral Plasmas," <i>Science</i>, Vol.363, No.6422, 2019, pp.33-34.<br>
+<sup>19</sup> M. Bustillos, "On Video Games and Storytelling: An Interview with Tom Bissell," <i>The New Yorker</i>, 2013.<br>
+<sup>20</sup> K. Weir, "Forgiveness Can Improve Mental and Physical Health," <i>Monitor on Psychology</i>, Vol.48, No.1, 2017, p.30.<br>
+<sup>21</sup> B. Guarino, "How Will Humanity React to Alien Life? Psychologists Have Some Predictions," <i>The Washington Post</i>, 2017-12-04.<br>
+<sup>22</sup> A. Hess, "Cats Who Take Direction," <i>The New York Times</i>, 2019-01-03, p.C1.<br>
 <sup>23</sup> M. Klymkowsky, Can We Talk Scientifically about Free Will?, Sci-Ed, 2018, <a href="https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/">https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/</a>.<br>
-<sup>24</sup> KS in NJ, “From This Article, It Sounds like Men Are Figuring Something out That Women Have Known Forever. I Know of Many,” <i>The Washington Post</i>, 2019-01-15.<br>
-<sup>25</sup> A. Author, “How Workout Buddies Can Help Stave off Loneliness,” <i>The Washington Post</i>, 2019-01-15.<br>
-<sup>26</sup> N. G. Cuellar, “Study Abroad Programs,” <i>Journal of Transcultural Nursing</i>, Vol.27, No.3, 2016, p.209.<br>
+<sup>24</sup> KS in NJ, "From This Article, It Sounds like Men Are Figuring Something out That Women Have Known Forever. I Know of Many," <i>The Washington Post</i>, 2019-01-15.<br>
+<sup>25</sup> A. Author, "How Workout Buddies Can Help Stave off Loneliness," <i>The Washington Post</i>, 2019-01-15.<br>
+<sup>26</sup> N. G. Cuellar, "Study Abroad Programs," <i>Journal of Transcultural Nursing</i>, Vol.27, No.3, 2016, p.209.<br>
 <sup>27</sup> L. S. Brown, <i>Feminist Therapy</i>, American Psychological Association, 2018.<br>
 <sup>28</sup> R. Burgess, <i>Rethinking Global Health: Frameworks of Power</i>, Routledge, 2019.<br>
 <sup>29</sup> S. Cain, <i>Quiet: The Power of Introverts in a World That Can’t Stop Talking</i>, Random House Audio, 2012.<br>
@@ -570,8 +570,8 @@
 <sup>40</sup> S. T. Fiske, D. T. Gilbert, G. Lindzey, <i>Handbook of Social Psychology</i>, vol. 1, John Wiley &#38; Sons, 2010.<br>
 <sup>41</sup> C. B. Travis, J. W. White, eds., <i>APA Handbook of the Psychology of Women</i>, vol. 1, American Psychological Association, 2018.<br>
 <sup>42</sup> S. Madigan, <i>Narrative Therapy</i>, American Psychological Association, 2019.<br>
-<sup>43</sup> American Psychiatric Association, “Diagnostic and Statistical Manual of Mental Disorders,” American Psychiatric Association, 2013.<br>
-<sup>44</sup> World Health Organization, “International Statistical Classification of Diseases and Related Health Problems,” World Health Organization, 2019.<br>
+<sup>43</sup> American Psychiatric Association, "Diagnostic and Statistical Manual of Mental Disorders," American Psychiatric Association, 2013.<br>
+<sup>44</sup> World Health Organization, "International Statistical Classification of Diseases and Related Health Problems," World Health Organization, 2019.<br>
 <sup>45</sup> American Psychological Association, <i>APA Dictionary of Psychology</i>.<br>
 <sup>46</sup> Merriam-Webster, <i>Merriam-Webster.Com Dictionary</i>.<br>
 <sup>47</sup> E. N. Zalta, ed., <i>The Stanford Encyclopedia of Philosophy</i>, Stanford University, 2019.<br>
@@ -581,46 +581,46 @@
 <sup>51</sup> <i>The Torah: The Five Books of Moses</i>, The Jewish Publication Society, 2015.<br>
 <sup>52</sup> Aristotle, <i>Poetics</i>, trans. S. H. Butcher, The Internet Classics Archive, 1994.<br>
 <sup>53</sup> W. Shakespeare, <i>Much Ado about Nothing</i>, Washington Square Press, 1995.<br>
-<sup>54</sup> K. F. Balsam, C. R. Martell, K. P. Jones, S. A. Safren, “Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People,” in G. Y. Iwamasa, P. A. Hays (eds.), <i>Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision</i>, American Psychological Association, 2019, pp.287-314.<br>
-<sup>55</sup> R. Weinstock, G. B. Leong, J. A. Silva, “Defining Forensic Psychiatry: Roles and Responsibilities,” in R. Rosner (ed.), <i>Principles and Practise of Forensic Psychiatry</i>, CRC Press, 2003, pp.7-13.<br>
-<sup>56</sup> N. Tafoya, A. Del Vecchio, “Back to the Future: An Examination of the Native American Holocaust Experience,” in M. McGoldrick, J. Giordano, N. Garcia-Preto (eds.), <i>Ethnicity and Family Therapy</i>, Guilford Press, 2005, pp.55-63.<br>
-<sup>57</sup> N. Carcavilla González, “Auditory Sensory Therapy: Brain Activation through Music,” in J. J. Garcia Meilán (ed.), <i>Guía Práctica de Terapias Estimulativas En El Alzhéimer</i>, Editorial Síntesis, 2015, pp.67-86.<br>
-<sup>58</sup> M. Heidegger, “On the Essence of Truth,” trans. J. Sallis, in D. F. Krell (ed.), <i>Basic Writings</i>, Harper Perennial Modern Thought, 2008, pp.111-138.<br>
-<sup>59</sup> C. Sacchett, G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts,” in D. A. Balota, E. J. Marsh (eds.), <i>Cognitive Psychology: Key Readings in Cognition</i>, Psychology Press, 2004, pp.100-108.<br>
-<sup>60</sup> C. Sacchett, G. W. Humphreys, “Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts,” <i>Cognitive Neuropsychology</i>, Vol.9, No.1, 1992, pp.73-86.<br>
-<sup>61</sup> U. Bronfenbrenner, “The Social Ecology of Human Development: A Retrospective Conclusion,” in U. Bronfenbrenner (ed.), <i>Making Human Beings Human: Bioecological Perspectives on Human Development</i>, SAGE Publications, 2005, pp.27-40.<br>
+<sup>54</sup> K. F. Balsam, C. R. Martell, K. P. Jones, S. A. Safren, "Affirmative Cognitive Behavior Therapy with Sexual and Gender Minority People," in G. Y. Iwamasa, P. A. Hays (eds.), <i>Culturally Responsive Cognitive Behavior Therapy: Practice and Supervision</i>, American Psychological Association, 2019, pp.287-314.<br>
+<sup>55</sup> R. Weinstock, G. B. Leong, J. A. Silva, "Defining Forensic Psychiatry: Roles and Responsibilities," in R. Rosner (ed.), <i>Principles and Practise of Forensic Psychiatry</i>, CRC Press, 2003, pp.7-13.<br>
+<sup>56</sup> N. Tafoya, A. Del Vecchio, "Back to the Future: An Examination of the Native American Holocaust Experience," in M. McGoldrick, J. Giordano, N. Garcia-Preto (eds.), <i>Ethnicity and Family Therapy</i>, Guilford Press, 2005, pp.55-63.<br>
+<sup>57</sup> N. Carcavilla González, "Auditory Sensory Therapy: Brain Activation through Music," in J. J. Garcia Meilán (ed.), <i>Guía Práctica de Terapias Estimulativas En El Alzhéimer</i>, Editorial Síntesis, 2015, pp.67-86.<br>
+<sup>58</sup> M. Heidegger, "On the Essence of Truth," trans. J. Sallis, in D. F. Krell (ed.), <i>Basic Writings</i>, Harper Perennial Modern Thought, 2008, pp.111-138.<br>
+<sup>59</sup> C. Sacchett, G. W. Humphreys, "Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts," in D. A. Balota, E. J. Marsh (eds.), <i>Cognitive Psychology: Key Readings in Cognition</i>, Psychology Press, 2004, pp.100-108.<br>
+<sup>60</sup> C. Sacchett, G. W. Humphreys, "Calling a Squirrel and Squirrel but a Canoe a Wigwam: A Category-Specific Deficit for Artefactual Objects and Body Parts," <i>Cognitive Neuropsychology</i>, Vol.9, No.1, 1992, pp.73-86.<br>
+<sup>61</sup> U. Bronfenbrenner, "The Social Ecology of Human Development: A Retrospective Conclusion," in U. Bronfenbrenner (ed.), <i>Making Human Beings Human: Bioecological Perspectives on Human Development</i>, SAGE Publications, 2005, pp.27-40.<br>
 <sup>62</sup> F. Richardson, ed., <i>Brain and Intelligence: The Ecology of Child Development</i>, National Educational Press, 1973, pp.113-123.<br>
-<sup>63</sup> S. Goldin-Meadow, “Gesture and Cognitive Development,” in L. S. Liben, U. Mueller (eds.), <i>Handbook of Child Psychology and Developmental Science</i>, John Wiley &#38; Sons, 2015, pp.339-380.<br>
-<sup>64</sup> K. Lewin, “Group Decision and Social Change,” in M. Gold (ed.), <i>The Complete Social Scientist: A Kurt Lewin Reader</i>, American Psychological Association, 1999, pp.265-284.<br>
+<sup>63</sup> S. Goldin-Meadow, "Gesture and Cognitive Development," in L. S. Liben, U. Mueller (eds.), <i>Handbook of Child Psychology and Developmental Science</i>, John Wiley &#38; Sons, 2015, pp.339-380.<br>
+<sup>64</sup> K. Lewin, "Group Decision and Social Change," in M. Gold (ed.), <i>The Complete Social Scientist: A Kurt Lewin Reader</i>, American Psychological Association, 1999, pp.265-284.<br>
 <sup>65</sup> American Psychological Association, <i>Positive Transference</i>.<br>
 <sup>66</sup> Merriam-Webster, <i>Self-Report</i>.<br>
 <sup>67</sup> G. Graham, <i>Behaviorism</i>, Stanford University, 2019.<br>
 <sup>68</sup> <i>List of Oldest Companies</i>, 2019.<br>
-<sup>69</sup> Australian Government Productivity Commission, New Zealand Productivity Commission, “Strengthening Trans-Tasman Economic Relations,” 2012.<br>
-<sup>70</sup> Canada Council for the Arts, “What We Heard: Summary of Key Findings: 2013 Canada Council’s Inter-Arts Office Consultation,” 2013.<br>
-<sup>71</sup> National Cancer Institute, “Facing Forward: Life after Cancer Treatment,” U.S. Department of Health and Human Services, National Institutes of Health, 2018.<br>
-<sup>72</sup> D. Fried, A. Polyakova, “Democratic Defense against Disinformation,” Atlantic Council, 2018.<br>
-<sup>73</sup> A. Segaert, A. Bauer, “The Extent and Nature of Veteran Homelessness in Canada,” Employment and Social Development Canada, 2015.<br>
-<sup>74</sup> D. L. Blackwell, J. W. Lucas, T. C. Clarke, “Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012,” Centers for Disease Control and Prevention, 2014.<br>
-<sup>75</sup> British Cardiovascular Society Working Group, “British Cardiovascular Society Working Group Report: Out-of-Hours Cardiovascular Care: Management of Cardiac Emergencies and Hospital in-Patients,” British Cardiovascular Society, 2016.<br>
-<sup>76</sup> U.S. Securities and Exchange Commission, “Agency Financial Report: Fiscal Year 2017,” 2017.<br>
-<sup>77</sup> American Counseling Association, “2014 ACA Code of Ethics,” 2014.<br>
-<sup>78</sup> American Nurses Association, “Code of Ethics for Nurses with Interpretive Statements,” 2015.<br>
-<sup>79</sup> American Psychological Association, “Ethical Principles of Psychologists and Code of Conduct,” 2017.<br>
-<sup>80</sup> C. B. Blair, “Stress, Self-Regulation and Psychopathology in Middle Childhood,” Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020.<br>
-<sup>81</sup> J. Lichtenstein, “Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses,” U.S. Small Business Administration, Office of Advocacy, 2013.<br>
-<sup>82</sup> M. Harwell, “Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change,” National Education Policy Center, 2018.<br>
-<sup>83</sup> U.S. Food and Drug Administration, “FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices,” U.S. Food and Drug Administration, 2019.<br>
+<sup>69</sup> Australian Government Productivity Commission, New Zealand Productivity Commission, "Strengthening Trans-Tasman Economic Relations," 2012.<br>
+<sup>70</sup> Canada Council for the Arts, "What We Heard: Summary of Key Findings: 2013 Canada Council’s Inter-Arts Office Consultation," 2013.<br>
+<sup>71</sup> National Cancer Institute, "Facing Forward: Life after Cancer Treatment," U.S. Department of Health and Human Services, National Institutes of Health, 2018.<br>
+<sup>72</sup> D. Fried, A. Polyakova, "Democratic Defense against Disinformation," Atlantic Council, 2018.<br>
+<sup>73</sup> A. Segaert, A. Bauer, "The Extent and Nature of Veteran Homelessness in Canada," Employment and Social Development Canada, 2015.<br>
+<sup>74</sup> D. L. Blackwell, J. W. Lucas, T. C. Clarke, "Summary Health Statistics for U.S. Adults: National Health Interview Survey, 2012," Centers for Disease Control and Prevention, 2014.<br>
+<sup>75</sup> British Cardiovascular Society Working Group, "British Cardiovascular Society Working Group Report: Out-of-Hours Cardiovascular Care: Management of Cardiac Emergencies and Hospital in-Patients," British Cardiovascular Society, 2016.<br>
+<sup>76</sup> U.S. Securities and Exchange Commission, "Agency Financial Report: Fiscal Year 2017," 2017.<br>
+<sup>77</sup> American Counseling Association, "2014 ACA Code of Ethics," 2014.<br>
+<sup>78</sup> American Nurses Association, "Code of Ethics for Nurses with Interpretive Statements," 2015.<br>
+<sup>79</sup> American Psychological Association, "Ethical Principles of Psychologists and Code of Conduct," 2017.<br>
+<sup>80</sup> C. B. Blair, "Stress, Self-Regulation and Psychopathology in Middle Childhood," Eunice Kennedy Shriver National Institute of Child Health &#38; Human Development, 2015–2020.<br>
+<sup>81</sup> J. Lichtenstein, "Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses," U.S. Small Business Administration, Office of Advocacy, 2013.<br>
+<sup>82</sup> M. Harwell, "Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change," National Education Policy Center, 2018.<br>
+<sup>83</sup> U.S. Food and Drug Administration, "FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices," U.S. Food and Drug Administration, 2019.<br>
 <sup>84</sup> A. Fistek, E. Jester, K. Sonnenberg, <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>, Milwaukee, WI, United States, 2017.<br>
 <sup>85</sup> S. Maddox, J. Hurling, E. Stewart, A. Edwards, <i>If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children</i>, New Orleans, LA, United States, 2016.<br>
 <sup>86</sup> J. Pearson, <i>Fat Talk and Its Effects on State-Based Body Image in Women</i>, Sydney, NSW, Australia, 2018.<br>
 <sup>87</sup> D. De Boer, T. LaFavor, <i>The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach</i>, Portland, OR, United States, 2018.<br>
-<sup>88</sup> L. Harris, “Instructional Leadership Perceptions and Practices of Elementary School Leaders,” University of Virginia Unpublished Doctoral Dissertation, 2014.<br>
-<sup>89</sup> M. M. Hollander, “Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment,” University of Wisconsin–Madison Doctoral Dissertation, 2017.<br>
-<sup>90</sup> V. H. Hutcheson, “Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents,” The College of William &#38; Mary Master’s Thesis, 2012.<br>
-<sup>91</sup> L. A. Mirabito, N. C. Heck, “Bringing LGBTQ Youth Theater into the Spotlight,” <i>Psychology of Sexual Orientation and Gender Diversity</i>, Vol.3, No.4, 2016, pp.499-500.<br>
+<sup>88</sup> L. Harris, "Instructional Leadership Perceptions and Practices of Elementary School Leaders," University of Virginia Unpublished Doctoral Dissertation, 2014.<br>
+<sup>89</sup> M. M. Hollander, "Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment," University of Wisconsin–Madison Doctoral Dissertation, 2017.<br>
+<sup>90</sup> V. H. Hutcheson, "Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents," The College of William &#38; Mary Master’s Thesis, 2012.<br>
+<sup>91</sup> L. A. Mirabito, N. C. Heck, "Bringing LGBTQ Youth Theater into the Spotlight," <i>Psychology of Sexual Orientation and Gender Diversity</i>, Vol.3, No.4, 2016, pp.499-500.<br>
 <sup>92</sup> <i>The Year We Thought about Love</i>, 2016.<br>
-<sup>93</sup> F. Santos, “Reframing Refugee Children’s Stories,” <i>The New York Times</i>, 2019-01-11.<br>
+<sup>93</sup> F. Santos, "Reframing Refugee Children’s Stories," <i>The New York Times</i>, 2019-01-11.<br>
 <sup>94</sup> M. Yousafzai, <i>We Are Displaced: My Journey and Stories from Refugee Girls around the World</i>, 2016.<br>
 <sup>95</sup> D. Perkins, <i>The Good Place</i> Ends Its Remarkable Second Season with Irrational Hope, Unexpected Gifts, and a Smile, 2018, <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.<br>
 <sup>96</sup> <i>Somewhere Else</i>, 2018.<br>
@@ -640,7 +640,7 @@
 <sup>110</sup> Tactile Labs, Latero Tactile Display, 2015, <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates, Epocrates Medical References, 2019, <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>
 <sup>112</sup> Epocrates, <i>Interaction Check: Aspirin + Sertraline</i>, Google Play Store, 2019.<br>
-<sup>113</sup> A. Tellegen, Y. S. Ben-Porath, “Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual,” Pearson, 2011.<br>
+<sup>113</sup> A. Tellegen, Y. S. Ben-Porath, "Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual," Pearson, 2011.<br>
 <sup>114</sup> Project Implicit, <i>Gender-Science IAT</i>.<br>
 <sup>115</sup> J. Alonso-Tapia, C. Nieto, E. Merino-Tejedor, J. A. Huertas, M. Ruiz, <i>Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)</i>, PsycTESTS, 2018.<br>
 <sup>116</sup> D. Cardoza, J. K. Morris, H. F. Myers, N. Rodriguez, <i>Acculturative Stress Inventory (ASI)</i>, ETS TestLink, 2000.<br>
@@ -714,7 +714,7 @@
 <sup>184</sup> <i>Strengthening the Federal Student Loan Program for Borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions</i>, 2014.<br>
 <sup>185</sup> <i>Mental Health on Campus Improvement Act</i>, 2013.<br>
 <sup>186</sup> <i>S. Res. 438</i>, vol. 162, 2016, p.2394.<br>
-<sup>187</sup> “H.R. Rep. No. 114-358,” 2015.<br>
+<sup>187</sup> "H.R. Rep. No. 114-358," 2015.<br>
 <sup>188</sup> <i>Protection of Human Subjects</i>, vol. 45, 2009.<br>
 <sup>189</sup> <i>Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees</i>, vol. 81, 2016, p.32391.<br>
 <sup>190</sup> <i>Exec. Order No. 13,676</i>, vol. 3, 2014, p.294.<br>
