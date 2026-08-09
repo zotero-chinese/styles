@@ -315,7 +315,7 @@
 <sup>44</sup> 陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.<br>
 <sup>45</sup> 陈缮真. 探索微观世界的无穷奥秘（科技大观）[N]. 人民日报, 2022-08-16(17).<br>
 <sup>46</sup> 李幼平, 王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225-228.<br>
-<sup>47</sup> 张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报, 2024.<br>
+<sup>47</sup> 张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J/OL]. 铁道学报, 2024. <a href="http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html">http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html</a>.<br>
 <sup>48</sup> 张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报, 2024, 46(8): 102-111.<br>
 <sup>49</sup> 徐建委. 历史的起点：《史记》中的时间设置及其意义[J]. 北京大学学报（哲学社会科学版）, 2025, 62(2): 117-127.<br>
 <sup>50</sup> 王利平, 王福新, 刘洪. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报, 2024, 45(增刊1): 730570.<br>
@@ -325,7 +325,7 @@
 <sup>54</sup> Park J R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; Classification Quarterly, 2010, 48(8): 696-715.<br>
 <sup>55</sup> Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398.<br>
 <sup>56</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of <i>Eucalyptus grandis</i>[J]. Nature, 2014, 510: 356-362.<br>
-<sup>57</sup> Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J]. Insect science, 2025.<br>
+<sup>57</sup> Santer R D, Akanyeti O. Using artificial neural networks to explain the attraction of jewel beetles (Coleoptera: Buprestidae) to colored traps[J/OL]. Insect science, 2025. <a href="https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001398099800001">https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001398099800001</a>.<br>
 <sup>58</sup> Shinotsuka H, Nagata K, Siriwardana M, et al. Sample structure prediction from measured XPS data using Bayesian estimation and SESSA simulator[J]. Journal of electron spectroscopy and related phenomena, 2023, 267: 147370.<br>
 <sup>59</sup> Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.<br>
 <sup>60</sup> 李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会. 2022: 2.<br>
@@ -372,10 +372,10 @@
 <sup>101</sup> Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.<br>
 <sup>102</sup> 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.<br>
 <sup>103</sup> 北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[EB/OL]. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.<br>
-<sup>104</sup> 杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[EB]. 2022.<br>
+<sup>104</sup> 杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[EB/OL]. 2022. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a>.<br>
 <sup>105</sup> 高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.<br>
 <sup>106</sup> 许振超：“好好干，当一个好工人”[EB/OL]. (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.<br>
-<sup>107</sup> [《昨日之歌》图书封面][EB]. 2015.<br>
+<sup>107</sup> [《昨日之歌》图书封面][EB/OL]. 2015. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.<br>
 <sup>108</sup> 仉尚航. 开放世界中的实体基础模型[EB/OL]. (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.<br>
 <sup>109</sup> 西黄丸[EB/OL]. (2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.<br>
 <sup>110</sup> Library of Congress[EB/OL]. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.<br>
@@ -397,19 +397,19 @@
 <sup>126</sup> 童世亨. 京兆直隶图[CM]. 上海: 商务印书馆, 1926.<br>
 <sup>127</sup> Cribb R. Historical atlas of Indonesia[CM]. Abingdon: Routledge, 2015.<br>
 <sup>128</sup> Coastal wetlands map of China continent[CM]. Beijing: China Ocean Press, 2024: 50.<br>
-<sup>129</sup> 彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS/OL]. 国家地球系统科学数据中心, 2025. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a>.<br>
-<sup>130</sup> 刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[DS/OL]. 国家青藏高原科学数据中心, 2012. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a>.<br>
-<sup>131</sup> 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心, 2023. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a>.<br>
-<sup>132</sup> 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS/OL]. Science Data Bank, 2018. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a>.<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地球系统科学数据中心-黄土高原分中心, 2024. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a>.<br>
-<sup>134</sup> 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台, 2025. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.<br>
-<sup>135</sup> Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS/OL]. UK Data Service, 1980. <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996">https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=996</a>.<br>
-<sup>136</sup> Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS/OL]. Global Change Research Data Publishing &#38; Repository, 2022. <a href="https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">https://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a>.<br>
-<sup>137</sup> IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS/OL]. Global Health Data Exchange, 2021. <a href="https://ghdx.healthdata.org/gbd-2019">https://ghdx.healthdata.org/gbd-2019</a>.<br>
-<sup>138</sup> 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB]. ChinaXiv, 2023.<br>
-<sup>139</sup> 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB]. PSSXiv, 2024.<br>
-<sup>140</sup> Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB]. bioRxiv, 2015.<br>
-<sup>141</sup> Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB]. arXiv, 2012.<br>
+<sup>129</sup> 彭守璋. 1901—2024年中国1km分辨率逐月降水量数据集[DS]. 国家地球系统科学数据中心, 2025.<br>
+<sup>130</sup> 刘时银, 郭万钦, 许君利. 中国第二次冰川编目数据集：2006—2011[DS]. 国家青藏高原科学数据中心, 2012.<br>
+<sup>131</sup> 周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类数据集[DS]. 国家基础学科公共科学数据中心, 2023.<br>
+<sup>132</sup> 郑涵, 于贵瑞, 朱先进, 等. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集[DS]. Science Data Bank, 2018.<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 青海省县域教育、卫生发展指标（2001—2022年）[DS]. 国家地球系统科学数据中心-黄土高原分中心, 2024.<br>
+<sup>134</sup> 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS]. 北京大学开放研究数据平台, 2025.<br>
+<sup>135</sup> Sugarman L, Markham S. Students in a selective high school: some vocationally oriented data[DS]. UK Data Service, 1980.<br>
+<sup>136</sup> Zhong X, Yan Q, Li G. Long time series nighttime light dataset of China: 2000–2020[DS]. Global Change Research Data Publishing &#38; Repository, 2022.<br>
+<sup>137</sup> IHME. Global Burden of Disease Study 2019 (GBD2019) data resources[DS]. Global Health Data Exchange, 2021.<br>
+<sup>138</sup> 方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[EB/OL]. ChinaXiv, 2023. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.<br>
+<sup>139</sup> 肖玲, 张雪, 王永. 数据要素的统计测算方法探究[EB/OL]. PSSXiv, 2024. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.<br>
+<sup>140</sup> Bloss C S, Wineinger N E, Peters M, et al. A prospective randomized trial examining health care utilization in individuals using multiple smartphone-enabled biosensors[EB/OL]. bioRxiv, 2015. <a href="https://doi.org/10.1101/029983">https://doi.org/10.1101/029983</a>.<br>
+<sup>141</sup> Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[EB/OL]. arXiv, 2012. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -426,7 +426,7 @@
 <sup>6</sup> 赵一一, 钱二, 孙三, 等. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215.<br>
 <sup>7</sup> Wolchik S A, West S G, Sandler I N, et al. An experimental evaluation of theory-based mother and mother-child programs for children of divorce[J]. Journal of Consulting and Clinical Psychology, 2000, 68(5): 843-856.<br>
 <sup>8</sup> 张三, 李四. 中国心理学的过去与未来[J]. 心理学报.<br>
-<sup>9</sup> Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.<br>
+<sup>9</sup> Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J/OL]. Experimental Psychology, 2019. <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.<br>
 <sup>10</sup> Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1): e0209899.<br>
 <sup>11</sup> 张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40(增刊): 210-215.<br>
 <sup>12</sup> 张三. 心理学史[M]. 北京: 未名出版社, 2008.<br>
@@ -651,10 +651,10 @@
 <sup>134</sup> 新浪微博 xiaolwl. [EB/OL]. (2020-01-31). <a href="https://weibo.com/1139098205/4466768535861595">https://weibo.com/1139098205/4466768535861595</a>.<br>
 <sup>135</sup> 刘松山. 失信惩戒立法的三大问题[EB]. 2019.<br>
 <sup>136</sup> 莫纪宏. 论“中国式现代化”的法治保障[EB]. 2024.<br>
-<sup>137</sup> 新型冠状病毒肺炎，情况如何？[EB]//中央电视台“新闻1+1”栏目. 2020.<br>
+<sup>137</sup> 新型冠状病毒肺炎，情况如何？[EB/OL]//中央电视台“新闻1+1”栏目. 2020. <a href="https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml">https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml</a>.<br>
 <sup>138</sup> xxx. [Z]. 《最高人民法院公报》编辑部, 2000.<br>
-<sup>139</sup> [Z]. 2001.<br>
-<sup>140</sup> 王名扬教授. [A]. 2002.<br>
+<sup>139</sup> [Z/电话]. 2001.<br>
+<sup>140</sup> 王名扬教授. [A/电子邮件]. 2002.<br>
 <sup>141</sup> 上海市浦东新区人民法院行政审判庭. 2001年行政庭工作总结[R].<br>
 <sup>142</sup> 全国人大常委会法工委行政诉讼法修改座谈会[Z]. 2009.<br>
 <sup>143</sup> 习超. 证券监管有偏私吗？[C]//“迈向数据法学”研讨会. 2017.<br>
@@ -753,7 +753,7 @@
 <sup>5</sup> Kalnay E, Kanamitsu M, Kistler R, et al. The NCEP/NCAR 40-year reanalysis project[J]. Bulletin of the American Meteorological Society, 1996, 77(3): 437-471.<br>
 <sup>6</sup> De Vries R, Nieuwenhuijze M, Buitendijk S E, et al. What does it take to have a strong and independent profession of midwifery? Lessons from the Netherlands[J]. Midwifery, 2013, 29(10): 1122-1128.<br>
 <sup>7</sup> Burin D, Kilteni K, Rabuffetti M, et al. Body ownership increases the interference between observed and executed movements[J]. PLOS ONE, 2019, 14(1): e0209899.<br>
-<sup>8</sup> Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J]. Experimental Psychology, 2019.<br>
+<sup>8</sup> Huestegge S M, Raettig T, Huestegge L. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J/OL]. Experimental Psychology, 2019. <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.<br>
 <sup>9</sup> Pachur T, Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review.<br>
 <sup>10</sup> Chaves-Morillo V, Gómez Calero C, Fernández-Muñoz J J, et al. Sensorineural anosmia: Relationship between subtype, recognition time, and age[J]. Clínica y Salud, 2018, 28(3): 155-161.<br>
 <sup>11</sup> Piaget J. Intellectual evolution from adolescence to adulthood[J]. Human Development, 1972, 15(1): 1-12.<br>
@@ -761,8 +761,8 @@
 <sup>13</sup> Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry, 1981, 51(3): 391-402.<br>
 <sup>14</sup> Lilienfeld S O. Archives of scientific psychology: Heterodox issues in psychology[J]. 2018, 6(1). 2018: 51-104.<br>
 <sup>15</sup> McDaniel S H, Salas E, Kazak A E. American psychologist: The science of teamwork[J]. 2018, 73(4). 2018.<br>
-<sup>16</sup> Mehrholz J, Pohl M, Platz T, et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke[J]. Cochrane Database of Systematic Reviews, 2018.<br>
-<sup>17</sup> Morey M C. Physical activity and exercise in older adults[J]. UpToDate, 2019.<br>
+<sup>16</sup> Mehrholz J, Pohl M, Platz T, et al. Electromechanical and robot-assisted arm training for improving activities of daily living, arm function, and arm muscle strength after stroke[J/OL]. Cochrane Database of Systematic Reviews, 2018. <a href="https://doi.org/10.1002/14651858.CD006876.pub5">https://doi.org/10.1002/14651858.CD006876.pub5</a>.<br>
+<sup>17</sup> Morey M C. Physical activity and exercise in older adults[J/OL]. UpToDate, 2019. <a href="https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults">https://www.uptodate.com/contents/physical-activity-and-exercise-in-older-adults</a>.<br>
 <sup>18</sup> Bergeson S. Really cool neutral plasmas[J]. Science, 2019, 363(6422): 33-34.<br>
 <sup>19</sup> Bustillos M. On video games and storytelling: An interview with Tom Bissell[J]. The New Yorker, 2013.<br>
 <sup>20</sup> Weir K. Forgiveness can improve mental and physical health[J]. Monitor on Psychology, 2017, 48(1): 30.<br>
@@ -829,9 +829,9 @@
 <sup>81</sup> Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.<br>
 <sup>82</sup> Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center, 2018.<br>
 <sup>83</sup> U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration, 2019.<br>
-<sup>84</sup> Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB]. Milwaukee, WI, United States, 2017.<br>
+<sup>84</sup> Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB/OL]. Milwaukee, WI, United States, 2017. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a>.<br>
 <sup>85</sup> Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z]. New Orleans, LA, United States, 2016.<br>
-<sup>86</sup> Pearson J. Fat talk and its effects on state-based body image in women[EB]. Sydney, NSW, Australia, 2018.<br>
+<sup>86</sup> Pearson J. Fat talk and its effects on state-based body image in women[EB/OL]. Sydney, NSW, Australia, 2018. <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a>.<br>
 <sup>87</sup> De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.<br>
 <sup>88</sup> Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.<br>
 <sup>89</sup> Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.<br>
@@ -845,46 +845,46 @@
 <sup>97</sup> Yoo J, Miyamoto Y, Rigotti A, et al. Linking positive affect to blood lipids: A cultural perspective[Z]. Department of Psychology, University of Wisconsin-Madison, 2016.<br>
 <sup>98</sup> O’Shea M. Understanding proactive behavior in the workplace as a function of gender[Z]. Department of Management, University of Kansas, 2018.<br>
 <sup>99</sup> Lippincott T, Poindexter E K. Emotion recognition as a function of facial cues: Implications for practice[Z]. Department of Psychology, University of Washington, 2019.<br>
-<sup>100</sup> Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[EB]. PsyArXiv, 2018.<br>
-<sup>101</sup> Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB]. PubMed Central, 2015.<br>
-<sup>102</sup> Ho H K. Teacher preparation for early childhood special education in Taiwan[EB]. ERIC, 2014.<br>
+<sup>100</sup> Leuker C, Samartzidis L, Hertwig R, et al. When money talks: Judging risk and coercion in high-paying clinical trials[EB/OL]. PsyArXiv, 2018. <a href="https://doi.org/10.17605/OSF.IO/9P7CB">https://doi.org/10.17605/OSF.IO/9P7CB</a>.<br>
+<sup>101</sup> Stults-Kolehmainen M A, Sinha R. The effects of stress on physical activity and exercise[EB/OL]. PubMed Central, 2015. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304</a>.<br>
+<sup>102</sup> Ho H K. Teacher preparation for early childhood special education in Taiwan[EB/OL]. ERIC, 2014. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.<br>
 <sup>103</sup> D’Souza A, Wiseheart M. Cognitive effects of music and dance training in children: ICPSR 37080[DS]. ICPSR, 2018.<br>
 <sup>104</sup> National Center for Education Statistics. Fast response survey system (FRSS): Teacher’s use of educational technology in U.S. public schools, 2009: ICPSR 35531[DS]. National Archive of Data on Arts and Culture, 2016.<br>
-<sup>105</sup> Pew Research Center. American trends panel Wave 26[DS/OL]. 2018. <a href="https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/">https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/</a>.<br>
+<sup>105</sup> Pew Research Center. American trends panel Wave 26[DS]. 2018.<br>
 <sup>106</sup> Baer R A. Unpublished raw data on the correlations between the Five Facet Mindfulness Questionnaire and the Kentucky Inventory of Mindfulness Skills[DS]. University of Kentucky, 2015.<br>
 <sup>107</sup> Oregan Youth Authority. Recidivism outcomes[DS]. 2011.<br>
 <sup>108</sup> Borenstein M, Hedges L, Higgins J, et al. Comprehensive meta-analysis[CP/OL]. Biostat, 2014. <a href="https://www.meta-analysis.com/">https://www.meta-analysis.com/</a>.<br>
 <sup>109</sup> SR Research. Eyelink 1000 plus[CP/OL]. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.<br>
 <sup>110</sup> Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>
-<sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline[EB]//Epocrates medical references. Google Play Store, 2019.<br>
+<sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. Google Play Store, 2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.<br>
 <sup>113</sup> Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.<br>
-<sup>114</sup> Project Implicit. Gender-Science IAT[EB].<br>
+<sup>114</sup> Project Implicit. Gender-Science IAT[EB/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.<br>
 <sup>115</sup> Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.<br>
 <sup>116</sup> Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.<br>
 <sup>117</sup> Forman M. One flew over the cuckoo’s nest[Z]. United Artists, 1975.<br>
-<sup>118</sup> Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB]. American Pychological Association, 2017.<br>
-<sup>119</sup> Jackson P. The lord of the rings: The fellowship of the ring[Z]. WingNut Films; The Saul Zaentz Company, 2001.<br>
+<sup>118</sup> Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. American Pychological Association, 2017. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.<br>
+<sup>119</sup> Jackson P. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company, 2001.<br>
 <sup>120</sup> Malle L. Goodbye children[Z]. Nouvelles Éditions de Films, 1987.<br>
 <sup>121</sup> The wire[Z]. Blown Deadline Productions; HBO, 2002/2008.<br>
 <sup>122</sup> Barris K. Lemons: Season 3, Episode 12[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.<br>
 <sup>123</sup> Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.<br>
-<sup>124</sup> Giertz S. Why you should make useless things[EB]. TED Conferences, 2018.<br>
-<sup>125</sup> TED. Brené Brown: Listening to shame[EB]. YouTube, 2012.<br>
-<sup>126</sup> Goldberg J F. Evaluating adverse drug effects[EB]. American Psychiatric Association, 2018.<br>
-<sup>127</sup> Cutts S. Happiness[EB]. Vimeo, 2017.<br>
-<sup>128</sup> Fogarty M. How to diagram a sentence (absolute basics)[EB]. YouTube, 2016.<br>
-<sup>129</sup> University of Oxford. How do geckos walk on water?[EB]. YouTube, 2016.<br>
+<sup>124</sup> Giertz S. Why you should make useless things[EB/OL]. TED Conferences, 2018. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.<br>
+<sup>125</sup> TED. Brené Brown: Listening to shame[EB/OL]. YouTube, 2012. <a href="https://www.youtube.com/watch?v=psN1DORYYV0">https://www.youtube.com/watch?v=psN1DORYYV0</a>.<br>
+<sup>126</sup> Goldberg J F. Evaluating adverse drug effects[EB/OL]. American Psychiatric Association, 2018. <a href="https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172">https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172</a>.<br>
+<sup>127</sup> Cutts S. Happiness[EB/OL]. Vimeo, 2017. <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a>.<br>
+<sup>128</sup> Fogarty M. How to diagram a sentence (absolute basics)[EB/OL]. YouTube, 2016. <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a>.<br>
+<sup>129</sup> University of Oxford. How do geckos walk on water?[EB/OL]. YouTube, 2016. <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.<br>
 <sup>130</sup> Bach J S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca, 2010.<br>
 <sup>131</sup> Bowie D. Blackstar[Z]. Columbia, 2016.<br>
 <sup>132</sup> van Beethoven L. Symphony No. 3 in E-flat major[Z]//Beethoven: Complete Symphonies. Brilliant Classics, 2012.<br>
 <sup>133</sup> Beyoncé. Formation[Z]//Lemonade. Parkwood; Columbia, 2016.<br>
 <sup>134</sup> Childish Gambino. This is America[Z]. mcDJ; RCA, 2018.<br>
 <sup>135</sup> Lamar K. Humble[Z]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.<br>
-<sup>136</sup> Vedantam S. Hidden brain[EB]. NPR, 2015.<br>
-<sup>137</sup> Glass I. Amusement park: 443[EB]//This American Life. WBEZ Chicago, 2011.<br>
+<sup>136</sup> Vedantam S. Hidden brain[EB/OL]. NPR, 2015. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.<br>
+<sup>137</sup> Glass I. Amusement park: 443[EB/OL]//This American Life. WBEZ Chicago, 2011. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.<br>
 <sup>138</sup> de Beauvoir S. Simone de Beauvoir discusses the art of writing[A]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.<br>
-<sup>139</sup> King M L Jr. I have a dream[EB]. American Rhetoric, 1963.<br>
+<sup>139</sup> King M L Jr. I have a dream[EB/OL]. American Rhetoric, 1963. <a href="https://www.americanrhetoric.com/speeches/mlkihaveadream.htm">https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</a>.<br>
 <sup>140</sup> Delacroix E. Faust attempts to seduce Marguerite[A]. Paris, France: The Louvre, 1826/1827.<br>
 <sup>141</sup> Wood G. American gothic[A]. Chicago, IL, United States: Art Institute of Chicago, 1930.<br>
 <sup>142</sup> GDJ. Neural network deep learning prismatic[A]. Openclipart, 2018.<br>
@@ -928,7 +928,7 @@
 <sup>180</sup> Lilly Leadbetter Fair Play Act of 2009: 111-2[A]//Stat.: Vol. 123. 2009: 5.<br>
 <sup>181</sup> Patsy Mink Equal Opportunity in Education Act[A]//U.S.C: Vol. 20. 1972.<br>
 <sup>182</sup> Florida Mental Health Act[A]//Fla. Stat. 2009.<br>
-<sup>183</sup> Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB]. 2016.<br>
+<sup>183</sup> Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.<br>
 <sup>184</sup> Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. 2014.<br>
 <sup>185</sup> Mental Health on Campus Improvement Act: H.R. 1100[A]. 2013.<br>
 <sup>186</sup> S. Res. 438[A]//Cong. Rec.: Vol. 162. 2016: 2394.<br>

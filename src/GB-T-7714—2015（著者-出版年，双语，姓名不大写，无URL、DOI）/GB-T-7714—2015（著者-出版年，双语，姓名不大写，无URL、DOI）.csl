@@ -16,8 +16,8 @@
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2026-03-17T21:41:56+08:00</updated>
+    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 除在线出版的期刊文章、网站、网页、预印本外不著录引用日期和 URL；4. 无 DOI。</summary>
+    <updated>2026-08-09T16:49:14+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -207,17 +207,25 @@
   <!-- 文献载体标识 -->
   <macro name="entry-medium-id">
     <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅当纯电子资源显示 URL 时才出现“OL” -->
+      <if variable="medium">
+        <text variable="medium"/>
+      </if>
+      <else-if variable="DOI URL" match="any">
         <choose>
-          <if variable="medium">
-            <text variable="medium"/>
+          <if type="article-journal">
+            <choose>
+              <if variable="volume issue" match="none">
+                <!-- 在线出版的期刊文章 -->
+                <text value="OL"/>
+              </if>
+            </choose>
           </if>
-          <else-if variable="URL">
+          <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+            <!-- 网站、网页、预印本 -->
             <text value="OL"/>
           </else-if>
         </choose>
-      </if>
+      </else-if>
     </choose>
   </macro>
   <!-- 其他责任者 -->
@@ -383,12 +391,20 @@
   <!-- 引用日期 -->
   <macro name="accessed-date">
     <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅当纯电子资源显示 URL 时才出现引用日期 -->
+      <if variable="DOI URL" match="any">
         <choose>
-          <if variable="URL">
-            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          <if type="article-journal">
+            <choose>
+              <if variable="volume issue" match="none">
+                <!-- 在线出版的期刊文章 -->
+                <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+              </if>
+            </choose>
           </if>
+          <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+            <!-- 网站、网页、预印本 -->
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </else-if>
         </choose>
       </if>
     </choose>
@@ -396,10 +412,28 @@
   <!-- 获取和访问路径、数字对象唯一标识符 -->
   <macro name="access">
     <choose>
-      <if type="dataset post post-weblog software webpage" match="any">
-        <!-- 仅纯电子资源显示 URL -->
+      <if type="article-journal">
+        <choose>
+          <if variable="volume issue" match="none">
+            <!-- 在线出版的期刊文章 -->
+            <text macro="access-url"/>
+          </if>
+        </choose>
+      </if>
+      <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+        <!-- 网站、网页、预印本 -->
+        <text macro="access-url"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="access-url">
+    <choose>
+      <if variable="URL">
         <text variable="URL"/>
       </if>
+      <else>
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </else>
     </choose>
   </macro>
   <!-- 参考文献表格式 -->

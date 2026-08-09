@@ -427,7 +427,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名, 1984c. 中国大百科全书·法学[M]. 中国大百科全书出版社.</div>
   <div class="csl-entry">Anon, 1987a. R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc[A]//QB. 815.</div>
   <div class="csl-entry">Anon, 1987b. R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc[A]//QB. 815.</div>
-  <div class="csl-entry">佚名, 1988a. 包郑照等诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字7号[A/OL]. (1988-12-26) [2025-10-19]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html</a>.</div>
+  <div class="csl-entry">佚名, 1988a. 包郑照等诉苍南县人民政府强制拆除房屋案: （1988）浙法民上字7号[A]. (1988-12-26) [2025-10-19].</div>
   <div class="csl-entry">佚名, 1988b. 最高人民法院关于雇工合同“工伤概不负责”是否有效的批复: ［88］民他字第1号[A].</div>
   <div class="csl-entry">佚名, 1989. 行政诉讼法[A].</div>
   <div class="csl-entry">佚名, 1991. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[A].</div>
@@ -440,7 +440,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名, 2001. [Z/电话].</div>
   <div class="csl-entry">佚名, 2002. [M]//北大法律评论: 第4卷第2辑. 法律出版社.</div>
   <div class="csl-entry">佚名, 2005. 公司法[A]. 修订.</div>
-  <div class="csl-entry">佚名, 2007a. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A/OL]. (2007-07-01) [2025-09-01]. <a href="https://www.gov.cn/gongbao/content/2007/content_719880.htm">https://www.gov.cn/gongbao/content/2007/content_719880.htm</a>.</div>
+  <div class="csl-entry">佚名, 2007a. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A]. (2007-07-01) [2025-09-01].</div>
   <div class="csl-entry">佚名, 2007b. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A].</div>
   <div class="csl-entry">佚名, 2007c. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A].</div>
   <div class="csl-entry">佚名, 2007d. 国务院关于在全国建立农村最低生活保障制度的通知: 国发〔2007〕19号[A].</div>
@@ -448,17 +448,17 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名, 2009. 全国人大常委会法工委行政诉讼法修改座谈会[Z].</div>
   <div class="csl-entry">佚名, 2013a. [J]. 政大法学评论(132).</div>
   <div class="csl-entry">佚名, 2013b. 公司法[A]. 修订.</div>
-  <div class="csl-entry">佚名, 2013c. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html</a>.</div>
-  <div class="csl-entry">佚名, 2014a. 中共中央关于全面推进依法治国若干重大问题的决定[A/OL]. (2014-10-23) [2025-10-19]. <a href="https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm">https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm</a>.</div>
+  <div class="csl-entry">佚名, 2013c. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案: （2013）锡民终字第497号[A]//最高人民法院公报.</div>
+  <div class="csl-entry">佚名, 2014a. 中共中央关于全面推进依法治国若干重大问题的决定[A]. (2014-10-23) [2025-10-19].</div>
   <div class="csl-entry">佚名, 2014b. 中共中央关于全面推进依法治国若干重大问题的决定[A].</div>
-  <div class="csl-entry">佚名, 2015a. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
-  <div class="csl-entry">佚名, 2015b. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
+  <div class="csl-entry">佚名, 2015a. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A]//最高人民法院公报.</div>
+  <div class="csl-entry">佚名, 2015b. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A]//最高人民法院公报.</div>
   <div class="csl-entry">佚名, 2016. 苏嘉鸿内幕交易行政处罚案: 〔2016〕56号[A].</div>
   <div class="csl-entry">佚名, 2017a. 苏嘉鸿不服中国证监会行政处罚行政复议案: ［2017］63号[A].</div>
-  <div class="csl-entry">佚名, 2017b. 榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第81号[A/OL]. (2017-12-16) [2025-11-09]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html</a>.</div>
+  <div class="csl-entry">佚名, 2017b. 榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案: （2011）民一终字第81号[A]. (2017-12-16) [2025-11-09].</div>
   <div class="csl-entry">佚名, 2018a. 清华大学学报（哲学社会科学版）[J]. (4).</div>
   <div class="csl-entry">佚名, 2018b. [J]. 台大法学论丛, 47(4).</div>
-  <div class="csl-entry">佚名, 2018c. 苏嘉鸿诉中国证监会行政处罚案: （2018）京行终445号[A/OL]. (2018-07-17) [2025-11-09]. <a href="https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html">https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html</a>.</div>
+  <div class="csl-entry">佚名, 2018c. 苏嘉鸿诉中国证监会行政处罚案: （2018）京行终445号[A]. (2018-07-17) [2025-11-09].</div>
   <div class="csl-entry">佚名, 2019a. 被告人李宁、张磊贪污案一审开庭[EB/OL]. (2019-12-31) [2025-11-08]. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
   <div class="csl-entry">佚名, 2019b. 驾驶人无过失及情节轻微之肇事逃逸案: “司法院大法官”释字第777号[A].</div>
   <div class="csl-entry">佚名, 2020a. 德国民法典[M]. 陈卫佐, 译. 5 版. 法律出版社.</div>
@@ -473,7 +473,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名, 2023. 行政复议法（修订草案）[A].</div>
   <div class="csl-entry">佚名, [2024b]. 法国最高行政法院网站[EB/OL]. [2024-10-08]. <a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>.</div>
   <div class="csl-entry">佚名, [2024c]. 法国最高行政法院网站[EB/OL]. [2024-10-08]. <a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>.</div>
-  <div class="csl-entry">佚名, 2024. 中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见[A/OL]. (2024-09-15) [2025-11-08]. <a href="https://www.gov.cn/zhengce/202409/content_6976469.htm">https://www.gov.cn/zhengce/202409/content_6976469.htm</a>.</div>
+  <div class="csl-entry">佚名, 2024. 中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见[A]. (2024-09-15) [2025-11-08].</div>
   <div class="csl-entry">佚名, 2025. 维护国家安全（中央人民政府驻香港特别行政区维护国家安全公署）规例: 77[A].</div>
   <div class="csl-entry">佚名, 无日期-a. 论语·述而[M].</div>
   <div class="csl-entry">佚名, 无日期-b. 民法典[A].</div>
@@ -551,32 +551,32 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Anon, 1954. Brown v. Board of Education[A/OL]//U.S.: v.347. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
-  <div class="csl-entry">Anon, 1964. Civil Rights Act of 1964: 88-352[A/OL]//Stat.: v.78. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
-  <div class="csl-entry">Anon, 1972. Patsy Mink Equal Opportunity in Education Act[A/OL]//U.S.C: v.20. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
-  <div class="csl-entry">Anon, 1976. Tarasoff v. Regents of the University of California[A/OL]//Cal.3d: v.17. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
+  <div class="csl-entry">Anon, 1954. Brown v. Board of Education[A]//U.S.: v.347.</div>
+  <div class="csl-entry">Anon, 1964. Civil Rights Act of 1964: 88-352[A]//Stat.: v.78.</div>
+  <div class="csl-entry">Anon, 1972. Patsy Mink Equal Opportunity in Education Act[A]//U.S.C: v.20.</div>
+  <div class="csl-entry">Anon, 1976. Tarasoff v. Regents of the University of California[A]//Cal.3d: v.17.</div>
   <div class="csl-entry">Anon, 1981. Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry, 51(3): 391-402.</div>
-  <div class="csl-entry">Anon, 1984. Durflinger v. Artiles[A/OL]//F.Supp.: v.563. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
-  <div class="csl-entry">Anon, 1989. United nations convention on the rights of the child[A/OL]. (1989-11-20). <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
-  <div class="csl-entry">Anon, 1990. American With Disabilities Act of 1990[A/OL]//U.S.C: v.42. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
-  <div class="csl-entry">Anon, 1991. Daubert v. Merrell Dow Pharmaceuticals, Inc.[A/OL]//F.2d: v.951. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
-  <div class="csl-entry">Anon, 1992. Texas v. Morales[A/OL]//S.W.2d: v.826. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
-  <div class="csl-entry">Anon, 2001. Burriola v. Greater Toledo YMCA[A/OL]//F.Supp.2d: v.133. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
+  <div class="csl-entry">Anon, 1984. Durflinger v. Artiles[A]//F.Supp.: v.563.</div>
+  <div class="csl-entry">Anon, 1989. United nations convention on the rights of the child[A]. (1989-11-20).</div>
+  <div class="csl-entry">Anon, 1990. American With Disabilities Act of 1990[A]//U.S.C: v.42.</div>
+  <div class="csl-entry">Anon, 1991. Daubert v. Merrell Dow Pharmaceuticals, Inc.[A]//F.2d: v.951.</div>
+  <div class="csl-entry">Anon, 1992. Texas v. Morales[A]//S.W.2d: v.826.</div>
+  <div class="csl-entry">Anon, 2001. Burriola v. Greater Toledo YMCA[A]//F.Supp.2d: v.133.</div>
   <div class="csl-entry">Anon, 2002-2008. The wire[Z]. Blown Deadline Productions; HBO.</div>
   <div class="csl-entry">Anon, 2004. The Qur’an[M]. Abdel Haleem M A S, trans. Oxford University Press.</div>
-  <div class="csl-entry">Anon, 2009a. Lilly Leadbetter Fair Play Act of 2009: 111-2[A/OL]//Stat.: v.123. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
-  <div class="csl-entry">Anon, 2009b. Florida Mental Health Act[A/OL]//Fla. Stat. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
-  <div class="csl-entry">Anon, 2009c. Protection of human subjects[A/OL]//C.F.R.: v.45. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
-  <div class="csl-entry">Anon, 2013. Mental Health on Campus Improvement Act: H.R. 1100[A/OL]. (2013). <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
-  <div class="csl-entry">Anon, 2014a. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A/OL]. (2014). <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
-  <div class="csl-entry">Anon, 2014b. Exec. Order No. 13,676[A/OL]//C.F.R.: v.3. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
+  <div class="csl-entry">Anon, 2009a. Lilly Leadbetter Fair Play Act of 2009: 111-2[A]//Stat.: v.123.</div>
+  <div class="csl-entry">Anon, 2009b. Florida Mental Health Act[A]//Fla. Stat.</div>
+  <div class="csl-entry">Anon, 2009c. Protection of human subjects[A]//C.F.R.: v.45.</div>
+  <div class="csl-entry">Anon, 2013. Mental Health on Campus Improvement Act: H.R. 1100[A]. (2013).</div>
+  <div class="csl-entry">Anon, 2014a. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. (2014).</div>
+  <div class="csl-entry">Anon, 2014b. Exec. Order No. 13,676[A]//C.F.R.: v.3.</div>
   <div class="csl-entry">Anon, 2015a. The Torah: The five books of Moses[M]. 3rd ed. The Jewish Publication Society.</div>
-  <div class="csl-entry">Anon, 2015b. Obergefell v. Hodges[A/OL]//U.S.: v.576. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
-  <div class="csl-entry">Anon, 2015c. Every Student Succeeds Act[A/OL]//U.S.C: v.20. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
+  <div class="csl-entry">Anon, 2015b. Obergefell v. Hodges[A]//U.S.: v.576.</div>
+  <div class="csl-entry">Anon, 2015c. Every Student Succeeds Act[A]//U.S.C: v.20.</div>
   <div class="csl-entry">Anon, 2015d. H.R. Rep. No. 114-358[R]. 2015.</div>
   <div class="csl-entry">Anon, 2016a. Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. (2016). <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
-  <div class="csl-entry">Anon, 2016b. S. Res. 438[A/OL]//Cong. Rec.: v.162. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
-  <div class="csl-entry">Anon, 2016c. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A/OL]//F.R.: v.81. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
+  <div class="csl-entry">Anon, 2016b. S. Res. 438[A]//Cong. Rec.: v.162.</div>
+  <div class="csl-entry">Anon, 2016c. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A]//F.R.: v.81.</div>
   <div class="csl-entry">Anon, 2017. King James Bible[M]. King James Bible Online.</div>
   <div class="csl-entry">Anon, 2019. List of oldest companies[M]//Wikipedia.</div>
   <div class="csl-entry">Anon, n.d.-a. U.S. Const. art. I, § 3[A].</div>

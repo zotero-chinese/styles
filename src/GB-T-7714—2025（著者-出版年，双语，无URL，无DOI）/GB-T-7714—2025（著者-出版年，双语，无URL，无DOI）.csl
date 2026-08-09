@@ -12,8 +12,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。仅在线出版期刊文章、网站、网页、预印本著录 URL。无 DOI。</summary>
-    <updated>2026-08-09T15:54:10+08:00</updated>
+    <summary>GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。除在线出版的期刊文章、网站、网页、预印本外不著录 URL。无 DOI。</summary>
+    <updated>2026-08-09T16:49:04+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -284,18 +284,18 @@
       <if variable="medium">
         <text variable="medium"/>
       </if>
-      <else-if variable="URL DOI" match="any">
+      <else-if variable="CSTR DOI URL" match="any">
         <choose>
           <if type="article-journal">
             <choose>
               <if variable="volume issue" match="none">
-                <!-- 在线出版 -->
+                <!-- 在线出版的期刊文章 -->
                 <text value="OL"/>
               </if>
             </choose>
           </if>
-          <else-if type="article-magazine article-newspaper book chapter classic collection dataset entry-dictionary entry-encyclopedia manuscript personal_communication map paper-conference patent periodical report standard thesis" variable="archive" match="none">
-            <!-- 仅网站、网页、预印本需要 URL -->
+          <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+            <!-- 网站、网页、预印本 -->
             <text value="OL"/>
           </else-if>
         </choose>
@@ -476,13 +476,13 @@
       <if type="article-journal">
         <choose>
           <if variable="volume issue" match="none">
-            <!-- 在线出版 -->
+            <!-- 在线出版的期刊文章 -->
             <text macro="access-url"/>
           </if>
         </choose>
       </if>
-      <else-if type="article-magazine article-newspaper book chapter classic collection dataset entry-dictionary entry-encyclopedia manuscript personal_communication map paper-conference patent periodical report standard thesis" variable="archive" match="none">
-        <!-- 仅网站、网页、预印本需要 URL -->
+      <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+        <!-- 网站、网页、预印本 -->
         <text macro="access-url"/>
       </else-if>
     </choose>
@@ -492,6 +492,9 @@
       <if variable="URL">
         <text variable="URL"/>
       </if>
+      <else-if variable="CSTR">
+        <text variable="CSTR" prefix="https://cstr.cn/"/>
+      </else-if>
       <else>
         <text variable="DOI" prefix="https://doi.org/"/>
       </else>

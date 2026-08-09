@@ -300,10 +300,10 @@
 <sup>15</sup> 习超. 证券监管有偏私吗？[C]//“迈向数据法学”研讨会，2017.<br>
 <sup>16</sup> 李松锋. 游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究[D]. 中国政法大学，2013.<br>
 <sup>17</sup> 民法典[A].<br>
-<sup>18</sup> 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A/OL]. （2007-07-01）[2025-09-01]. <a href="https://www.gov.cn/gongbao/content/2007/content_719880.htm">https://www.gov.cn/gongbao/content/2007/content_719880.htm</a>.<br>
-<sup>19</sup> 中共中央关于全面推进依法治国若干重大问题的决定[A/OL]. （2014-10-23）[2025-10-19]. <a href="https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm">https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm</a>.<br>
-<sup>20</sup> 包郑照等诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字7号[A/OL]. （1988-12-26）[2025-10-19]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html</a>.<br>
-<sup>21</sup> 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.<br>
+<sup>18</sup> 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A]. （2007-07-01）[2025-09-01].<br>
+<sup>19</sup> 中共中央关于全面推进依法治国若干重大问题的决定[A]. （2014-10-23）[2025-10-19].<br>
+<sup>20</sup> 包郑照等诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字7号[A]. （1988-12-26）[2025-10-19].<br>
+<sup>21</sup> 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A]//最高人民法院公报.<br>
 <sup>22</sup> 车某玲诉朱某芳相邻关系纠纷案：（2022）粤01民终1669号[A]. 人民法院案例库，2022-04-12.<br>
 <sup>23</sup> Reich C A. The new property[J]. The Yale Law Journal，1964，73（5）：733-787.<br>
 <sup>24</sup> Brandeis L D. What publicity can do[J]. Harper’s Weekly，1913-12-20：10-13.<br>
@@ -462,7 +462,7 @@
 <sup>177</sup> 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A]. 2007.<br>
 <sup>178</sup> 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A]. 2007.<br>
 <sup>179</sup> 司法部关于可否张贴判决书及应注意事项的批复：国发〔2007〕19号[A]//中华人民共和国司法部. 中华人民共和国司法行政历史文件汇编（1950—1985）. 法律出版社，1956.<br>
-<sup>180</sup> 中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见[A/OL]. （2024-09-15）[2025-11-08]. <a href="https://www.gov.cn/zhengce/202409/content_6976469.htm">https://www.gov.cn/zhengce/202409/content_6976469.htm</a>.<br>
+<sup>180</sup> 中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见[A]. （2024-09-15）[2025-11-08].<br>
 <sup>181</sup> GB/T 7714—2015 信息与文献参考文献著录规则[S].<br>
 <sup>182</sup> 中共中央关于全面推进依法治国若干重大问题的决定[A]. 2014.<br>
 <sup>183</sup> 中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议[A]. 2020.<br>
@@ -490,7 +490,7 @@
 <sup>205</sup> 世界人权宣言：217A(III)[R]. 联合国大会决议，1948.<br>
 <sup>206</sup> 全球努力打击恐怖主义的宣言：A/47/1277[R]. 联合国安理会决议，1992.<br>
 <sup>207</sup> 和平纲领：预防性外交、建立和平与维持和平：A/47/1277[R]. 联合国秘书长报告，1992.<br>
-<sup>208</sup> 苏嘉鸿诉中国证监会行政处罚案：（2018）京行终445号[A/OL]. （2018-07-17）[2025-11-09]. <a href="https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html">https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html</a>.<br>
+<sup>208</sup> 苏嘉鸿诉中国证监会行政处罚案：（2018）京行终445号[A]. （2018-07-17）[2025-11-09].<br>
 <sup>209</sup> 苏嘉鸿不服中国证监会行政处罚行政复议案：［2017］63号[A]. 2017.<br>
 <sup>210</sup> 苏嘉鸿内幕交易行政处罚案：〔2016〕56号[A]. 2016.<br>
 <sup>211</sup> 陈辉（化名）诉大庆日月星有限公司劳动争议案[A].<br>
@@ -499,13 +499,13 @@
 <sup>214</sup> “许霆恶意取款案”[A].<br>
 <sup>215</sup> （1998）海行初字第142号[A].<br>
 <sup>216</sup> （2018）京0108民初142号[A].<br>
-<sup>217</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html</a>.<br>
-<sup>218</sup> 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.<br>
+<sup>217</sup> 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[A]//最高人民法院公报.<br>
+<sup>218</sup> 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A]//最高人民法院公报.<br>
 <sup>219</sup> 车某玲诉朱某芳相邻关系纠纷案：（2022）粤01民终1669号[A]. 人民法院案例库，2022-04-12.<br>
 <sup>220</sup> 谢文彬诉广东省司法厅案[A].<br>
 <sup>221</sup> 李桂茹，孔献之. 七旬律师被判可以执业〈律师法〉赢了司法部文件[N]. 中国青年报，2003-06-04.<br>
 <sup>222</sup> 宁德市大众影院诉宁德地区工商行政管理局行政处罚案[A]//最高人民法院中国应用法学研究所. 人民法院案例选（1992—1999年合订本）·行政卷. 中国法制出版社，2000.<br>
-<sup>223</sup> 榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案：（2011）民一终字第81号[A/OL]. （2017-12-16）[2025-11-09]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html</a>.<br>
+<sup>223</sup> 榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案：（2011）民一终字第81号[A]. （2017-12-16）[2025-11-09].<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -683,27 +683,27 @@
 <sup>167</sup> Boddy J，Neumann T，Jennings S，Morrow V，Alderson P，Rees R，Gibson W. Ethics principles[EB/OL]. <a href="http://www.ethicsguidebook.ac.uk/EthicsPrinciples">http://www.ethicsguidebook.ac.uk/EthicsPrinciples</a>.<br>
 <sup>168</sup> National Nurses United. What employers should do to protect nurses from Zika[EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.<br>
 <sup>169</sup> U.S. Census Bureau. U.S. and world population clock[EB/OL]. [2019-07-03]. <a href="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a>.<br>
-<sup>170</sup> Brown v. Board of Education[A/OL]//U.S.：v.347. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.<br>
-<sup>171</sup> Obergefell v. Hodges[A/OL]//U.S.：v.576. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.<br>
-<sup>172</sup> Daubert v. Merrell Dow Pharmaceuticals, Inc.[A/OL]//F.2d：v.951. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.<br>
-<sup>173</sup> Burriola v. Greater Toledo YMCA[A/OL]//F.Supp.2d：v.133. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.<br>
-<sup>174</sup> Durflinger v. Artiles[A/OL]//F.Supp.：v.563. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.<br>
-<sup>175</sup> Tarasoff v. Regents of the University of California[A/OL]//Cal.3d：v.17. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.<br>
-<sup>176</sup> Texas v. Morales[A/OL]//S.W.2d：v.826. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.<br>
-<sup>177</sup> American With Disabilities Act of 1990[A/OL]//U.S.C：v.42. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.<br>
-<sup>178</sup> Civil Rights Act of 1964：88-352[A/OL]//Stat.：v.78. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.<br>
-<sup>179</sup> Every Student Succeeds Act[A/OL]//U.S.C：v.20. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.<br>
-<sup>180</sup> Lilly Leadbetter Fair Play Act of 2009：111-2[A/OL]//Stat.：v.123. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.<br>
-<sup>181</sup> Patsy Mink Equal Opportunity in Education Act[A/OL]//U.S.C：v.20. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.<br>
-<sup>182</sup> Florida Mental Health Act[A/OL]//Fla. Stat. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.<br>
+<sup>170</sup> Brown v. Board of Education[A]//U.S.：v.347.<br>
+<sup>171</sup> Obergefell v. Hodges[A]//U.S.：v.576.<br>
+<sup>172</sup> Daubert v. Merrell Dow Pharmaceuticals, Inc.[A]//F.2d：v.951.<br>
+<sup>173</sup> Burriola v. Greater Toledo YMCA[A]//F.Supp.2d：v.133.<br>
+<sup>174</sup> Durflinger v. Artiles[A]//F.Supp.：v.563.<br>
+<sup>175</sup> Tarasoff v. Regents of the University of California[A]//Cal.3d：v.17.<br>
+<sup>176</sup> Texas v. Morales[A]//S.W.2d：v.826.<br>
+<sup>177</sup> American With Disabilities Act of 1990[A]//U.S.C：v.42.<br>
+<sup>178</sup> Civil Rights Act of 1964：88-352[A]//Stat.：v.78.<br>
+<sup>179</sup> Every Student Succeeds Act[A]//U.S.C：v.20.<br>
+<sup>180</sup> Lilly Leadbetter Fair Play Act of 2009：111-2[A]//Stat.：v.123.<br>
+<sup>181</sup> Patsy Mink Equal Opportunity in Education Act[A]//U.S.C：v.20.<br>
+<sup>182</sup> Florida Mental Health Act[A]//Fla. Stat.<br>
 <sup>183</sup> Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. （2016）. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.<br>
-<sup>184</sup> Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A/OL]. （2014）. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.<br>
-<sup>185</sup> Mental Health on Campus Improvement Act：H.R. 1100[A/OL]. （2013）. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.<br>
-<sup>186</sup> S. Res. 438[A/OL]//Cong. Rec.：v.162. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.<br>
+<sup>184</sup> Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. （2014）.<br>
+<sup>185</sup> Mental Health on Campus Improvement Act：H.R. 1100[A]. （2013）.<br>
+<sup>186</sup> S. Res. 438[A]//Cong. Rec.：v.162.<br>
 <sup>187</sup> H.R. Rep. No. 114-358[R]. 2015.<br>
-<sup>188</sup> Protection of human subjects[A/OL]//C.F.R.：v.45. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.<br>
-<sup>189</sup> Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A/OL]//F.R.：v.81. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.<br>
-<sup>190</sup> Exec. Order No. 13,676[A/OL]//C.F.R.：v.3. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.<br>
+<sup>188</sup> Protection of human subjects[A]//C.F.R.：v.45.<br>
+<sup>189</sup> Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A]//F.R.：v.81.<br>
+<sup>190</sup> Exec. Order No. 13,676[A]//C.F.R.：v.3.<br>
 <sup>191</sup> Hiremath S C，Kumar S，Lu F，Salehi A. Using metaphors to present concepts across different intellectual domains：9,367,592[P]. 2016.<br>
 <sup>192</sup> U.S. Const. art. I, § 3[A].<br>
 <sup>193</sup> S.C. Const. art. XI, § 3[A].<br>
@@ -711,7 +711,7 @@
 <sup>195</sup> U.S. Const. amend. XVIII (repealed 1933)[A].<br>
 <sup>196</sup> U.S. Const. amend. I-X[A].<br>
 <sup>197</sup> U.N. Charter art. 1, para. 3[A].<br>
-<sup>198</sup> United nations convention on the rights of the child[A/OL]. （1989-11-20）. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.<br>
+<sup>198</sup> United nations convention on the rights of the child[A]. （1989-11-20）.<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
