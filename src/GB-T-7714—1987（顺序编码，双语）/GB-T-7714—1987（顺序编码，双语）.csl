@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style
+  xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>GB/T 7714—1987（顺序编码，双语）</title>
     <id>https://zotero-chinese.com/styles/GB-T-7714—1987（顺序编码，双语）</id>
@@ -17,7 +18,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2025-01-08T17:58:50+08:00</updated>
+    <updated>2026-08-09T17:19:20+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -61,8 +62,8 @@
   <!-- 主要责任者 -->
   <macro name="author-en">
     <names variable="author">
-      <name/>
-      <label form="short" prefix=", "/>
+      <name delimiter="，"/>
+      <label form="short" prefix="，"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -77,7 +78,7 @@
   </macro>
   <macro name="author-zh">
     <names variable="author">
-      <name/>
+      <name delimiter="，"/>
       <label form="short"/>
       <substitute>
         <names variable="composer"/>
@@ -93,7 +94,7 @@
   </macro>
   <!-- 题名 -->
   <macro name="title">
-    <group delimiter=": ">
+    <group delimiter="：">
       <group delimiter=" ">
         <text variable="title"/>
         <choose>
@@ -143,21 +144,21 @@
   <!-- 其他责任者 -->
   <macro name="secondary-contributors-en">
     <names variable="translator">
-      <name/>
-      <label form="short" prefix=", "/>
+      <name delimiter="，"/>
+      <label form="short" prefix="，"/>
     </names>
   </macro>
   <macro name="secondary-contributors-zh">
     <names variable="translator">
-      <name/>
+      <name delimiter="，"/>
       <label form="short"/>
     </names>
   </macro>
   <!-- 专著主要责任者 -->
   <macro name="container-contributors-en">
     <names variable="editor">
-      <name/>
-      <label form="short" prefix=", "/>
+      <name delimiter="，"/>
+      <label form="short" prefix="，"/>
       <substitute>
         <names variable="editorial-director"/>
         <names variable="collection-editor"/>
@@ -167,7 +168,7 @@
   </macro>
   <macro name="container-contributors-zh">
     <names variable="editor">
-      <name/>
+      <name delimiter="，"/>
       <label form="short"/>
       <substitute>
         <names variable="editorial-director"/>
@@ -178,14 +179,14 @@
   </macro>
   <!-- 专著题名 -->
   <macro name="container-booklike-en">
-    <group delimiter=": ">
+    <group delimiter="：">
       <text term="in" text-case="capitalize-first"/>
       <group delimiter=". ">
         <text macro="container-contributors-en"/>
         <choose>
           <if variable="container-title">
             <!-- 优先使用专著或会议论文集的题名 -->
-            <group delimiter=": ">
+            <group delimiter="：">
               <text variable="container-title"/>
               <text macro="volume"/>
             </group>
@@ -199,14 +200,14 @@
     </group>
   </macro>
   <macro name="container-booklike-zh">
-    <group delimiter=": ">
+    <group delimiter="：">
       <text term="in" text-case="capitalize-first"/>
       <group delimiter=". ">
         <text macro="container-contributors-zh"/>
         <choose>
           <if variable="container-title">
             <!-- 优先使用专著或会议论文集的题名 -->
-            <group delimiter=": ">
+            <group delimiter="：">
               <text variable="container-title"/>
               <text macro="volume"/>
             </group>
@@ -223,23 +224,23 @@
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
-        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
-        <group delimiter=", ">
+        <!-- 报纸的出处项：“刊名，出版日期（版次）：页码[引用日期]” -->
+        <group delimiter="，">
           <text variable="container-title" form="short" strip-periods="true"/>
           <date variable="issued" form="numeric"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="（" suffix="）"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
-        <group delimiter=": ">
+        <!-- 期刊、杂志的出处项：“刊名，年，卷（期）：页码[引用日期]” -->
+        <group delimiter="：">
           <group>
-            <group delimiter=", ">
+            <group delimiter="，">
               <text variable="container-title" form="short" strip-periods="true"/>
               <date variable="issued" form="numeric" date-parts="year"/>
               <text variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="（" suffix="）"/>
           </group>
           <choose>
             <if variable="page">
@@ -269,11 +270,11 @@
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
-    <group delimiter=", ">
+    <group delimiter="，">
       <date variable="issued" form="numeric" date-parts="year"/>
       <text variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="（" suffix="）"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -281,7 +282,7 @@
       <if type="patent">
         <!-- 专利的出版项格式“专利国别, 专利文献种类, 专利号. 出版日期” -->
         <group delimiter=". ">
-          <group delimiter=", ">
+          <group delimiter="，">
             <text macro="patent-country"/>
             <text variable="genre"/>
             <text variable="number"/>
@@ -290,8 +291,8 @@
         </group>
       </if>
       <else>
-        <group delimiter=", ">
-          <group delimiter=": ">
+        <group delimiter="，">
+          <group delimiter="：">
             <choose>
               <if variable="publisher publisher-place" match="any">
                 <text variable="publisher-place"/>
@@ -338,7 +339,7 @@
   </macro>
   <!-- 丛编项 -->
   <macro name="series">
-    <group delimiter="; ">
+    <group delimiter="；">
       <text variable="collection-title"/>
       <group delimiter=" ">
         <label variable="collection-number"/>

@@ -17,7 +17,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2026-03-17T21:41:59+08:00</updated>
+    <updated>2026-08-09T17:10:28+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -45,7 +45,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name>
+      <name delimiter="，">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
@@ -103,7 +103,7 @@
   </macro>
   <!-- 题名 -->
   <macro name="title">
-    <group delimiter=": ">
+    <group delimiter="：">
       <text variable="title"/>
       <group delimiter="&#8195;">
         <choose>
@@ -221,17 +221,17 @@
   <!-- 其他责任者 -->
   <macro name="secondary-contributors">
     <names variable="translator">
-      <name>
+      <name delimiter="，">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
-      <label form="short" prefix=", "/>
+      <label form="short" prefix="，"/>
     </names>
   </macro>
   <!-- 专著主要责任者 -->
   <macro name="container-contributors">
     <names variable="editor">
-      <name>
+      <name delimiter="，">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
@@ -249,7 +249,7 @@
       <choose>
         <if variable="container-title">
           <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter=": ">
+          <group delimiter="：">
             <text variable="container-title"/>
             <text macro="volume"/>
           </group>
@@ -265,22 +265,22 @@
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
-        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码[引用日期]” -->
-        <group delimiter=", ">
+        <!-- 报纸的出处项：“刊名，出版日期（版次）：页码[引用日期]” -->
+        <group delimiter="，">
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="(" suffix=")"/>
+        <text variable="page" prefix="（" suffix="）"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名, 卷(期): 页码[引用日期]” -->
-        <group delimiter=": ">
+        <!-- 期刊、杂志的出处项：“刊名，卷(期)：页码[引用日期]” -->
+        <group delimiter="：">
           <group>
-            <group delimiter=", ">
+            <group delimiter="，">
               <text variable="container-title"/>
               <text variable="volume"/>
             </group>
-            <text variable="issue" prefix="(" suffix=")"/>
+            <text variable="issue" prefix="（" suffix="）"/>
           </group>
           <choose>
             <if variable="page">
@@ -311,11 +311,11 @@
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
-    <group delimiter=", ">
+    <group delimiter="，">
       <text macro="issued-year"/>
       <text variable="volume"/>
     </group>
-    <text variable="issue" prefix="(" suffix=")"/>
+    <text variable="issue" prefix="（" suffix="）"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -326,9 +326,9 @@
         <text macro="accessed-date"/>
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
-        <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
-        <group delimiter=": ">
-          <group delimiter=": ">
+        <!-- 非纯电子资源的格式“出版地：出版者，出版年：页码[引用日期]” -->
+        <group delimiter="：">
+          <group delimiter="：">
             <choose>
               <if variable="publisher publisher-place" match="any">
                 <text variable="publisher-place"/>
@@ -346,12 +346,12 @@
         <text macro="accessed-date"/>
       </else-if>
       <else-if variable="URL DOI" match="any">
-        <!-- 纯电子资源联机网络文献的格式“(更新或修改日期)[引用日期]”。
+        <!-- 纯电子资源联机网络文献的格式“（更新或修改日期）[引用日期]”。
           原国标中，电子公告、无出版社的报告、法规等文献都可以作为“纯电子文献”。
         -->
         <choose>
           <if has-day="issued">
-            <text macro="issued-date" prefix="(" suffix=")"/>
+            <text macro="issued-date" prefix="（" suffix="）"/>
           </if>
         </choose>
         <text macro="accessed-date"/>
@@ -400,7 +400,7 @@
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
     <group delimiter=". ">
-      <group delimiter=", ">
+      <group delimiter="，">
         <text macro="author"/>
         <text macro="issued-year"/>
       </group>
@@ -454,14 +454,14 @@
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>
     </sort>
-    <layout prefix="(" suffix=")" delimiter="; " locale="en">
-      <group delimiter=", ">
+    <layout prefix="（" suffix="）" delimiter="；" locale="en">
+      <group delimiter="，">
         <text macro="author-intext-en"/>
         <text macro="issued-year"/>
       </group>
     </layout>
-    <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
+    <layout prefix="（" suffix="）" delimiter="；">
+      <group delimiter="，">
         <text macro="author-intext-zh"/>
         <text macro="issued-year"/>
       </group>
