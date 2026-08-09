@@ -3,10 +3,9 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator="，" demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>清华社会学评论</title>
-    <title-short>清华社会学评论</title-short>
-    <id>https://www.zotero-chinese.com/styles/清华社会学评论</id>
-    <link href="https://www.zotero-chinese.com/styles/清华社会学评论" rel="self"/>
-    <link href="https://www.zotero-chinese.com/styles/社会学评论" rel="template"/>
+    <id>https://zotero-chinese.com/styles/清华社会学评论</id>
+    <link href="https://zotero-chinese.com/styles/清华社会学评论" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/社会学评论" rel="template"/>
     <link href="https://www.jikan.com.cn/c/c?id=599" rel="documentation"/>
     <author>
       <name>杨家风子</name>

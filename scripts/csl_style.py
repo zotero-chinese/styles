@@ -9,7 +9,7 @@ CSL_NAMESPACE = "http://purl.org/net/xbiblio/csl"
 CSL_PREFIX = "{http://purl.org/net/xbiblio/csl}"
 NSMAP = {"cs": "http://purl.org/net/xbiblio/csl"}
 ZOTERO_STYLE_PREFIX = "http://www.zotero.org/styles/"
-
+ZOTERO_CHINESE_STYLE_PREFIX = "https://zotero-chinese.com/styles/"
 
 def warn(msg, file: str | Path, element=None):
     warn_msg = f'Warning: File "{file!s}"'
@@ -22,16 +22,16 @@ def warn(msg, file: str | Path, element=None):
 class CslStyle:
     def __init__(self, style_id="", title="", citation_format=None):
         self.original_text = ""
-        self.style_id = style_id
+        self.style_id: str = style_id
         self.style_attrib = {
             # "xmlns": "http://purl.org/net/xbiblio/csl",
             "class": "in-text",
             "version": "1.0",
         }
-        self.title = title
-        self.title_short = ""
-        self.template_links = []
-        self.documentation_links = []
+        self.title: str = title
+        self.title_short: str = ""
+        self.template_links: list[str] = []
+        self.documentation_links: list[str] = []
         self.author = {"name": "John Doe", "email": "john_doe@gmail.com"}
         self.contributors = []
         self.citation_format = citation_format or "numeric"
@@ -80,12 +80,20 @@ class CslStyle:
             elif info.tag == f"{CSL_PREFIX}id":
                 style.style_id = info.text.removeprefix(ZOTERO_STYLE_PREFIX)
             elif info.tag == f"{CSL_PREFIX}link":
-                if info.attrib["rel"] == "template":
+                if info.attrib["rel"] == "self":
+                    self_link = info.attrib["href"]
+                    # if self_link != style.style_id:
+                    #     warn(
+                    #         f'Self link "{self_link}" does not match style id: "{style.style_id}"',
+                    #         path,
+                    #         info,
+                    #     )
+                elif info.attrib["rel"] == "template":
                     style.template_links.append(info.attrib["href"])
                 elif info.attrib["rel"] == "documentation":
                     style.documentation_links.append(info.attrib["href"])
             elif info.tag == f"{CSL_PREFIX}author":
-                style.author = get_contributor(info) or {"name": "John Doe"}
+                style.author = get_contributor(info) or {}
             elif info.tag == f"{CSL_PREFIX}contributor":
                 contributor = get_contributor(info)
                 if contributor:
@@ -272,6 +280,16 @@ def get_contributor(element):
     if not contributor["name"]:
         return None
     return contributor
+
+
+def make_style_id(title: str) -> str:
+    style_id = title.replace(" ", "-")
+    style_id = style_id.replace("/", "-")
+    style_id = re.sub(r"-+", "-", style_id)
+    style_id = re.sub(r"^-*", "", style_id)
+    if not re.search(r"[\u4e00-\u9fff]", style_id):
+        style_id = style_id.lower()
+    return re.sub(r"-*$", "", style_id)
 
 
 if __name__ == "__main__":

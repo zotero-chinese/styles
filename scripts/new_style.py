@@ -3,17 +3,10 @@ import re
 import shutil
 from pathlib import Path
 
+from csl_style import make_style_id
+
 ZOTERO_REPO_PREFIX = "https://zotero-chinese.com/styles"
 DEFAULT_BASE_STYLE = "GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）"
-
-
-def make_style_id(style_name: str):
-    style_id = style_name.replace(" ", "-")
-    style_id = style_id.replace("/", "-")
-    style_id = re.sub(r"-+", "-", style_id)
-    style_id = re.sub(r"^-*", "", style_id)
-    style_id = re.sub(r"-*$", "", style_id)
-    return style_id
 
 
 def main():
