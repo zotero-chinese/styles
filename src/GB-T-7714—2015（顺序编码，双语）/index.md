@@ -1053,7 +1053,7 @@
     <div class="csl-left-margin">[103]</div><div class="csl-right-inline">北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[EB/OL]. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z/OL]. (2022-10-26)[2023-05-02]. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a>.</div>
+    <div class="csl-left-margin">[104]</div><div class="csl-right-inline">杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[EB/OL]. (2022-10-26)[2023-05-02]. <a href="https://www.bilibili.com/video/BV1t84y1B7vv/">https://www.bilibili.com/video/BV1t84y1B7vv/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[105]</div><div class="csl-right-inline">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.</div>
@@ -1062,7 +1062,7 @@
     <div class="csl-left-margin">[106]</div><div class="csl-right-inline">许振超：“好好干，当一个好工人”[EB/OL]. (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">[《昨日之歌》图书封面][Z/OL]. (2015-09-18)[2023-03-06]. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.</div>
+    <div class="csl-left-margin">[107]</div><div class="csl-right-inline">[《昨日之歌》图书封面][EB/OL]. (2015-09-18)[2023-03-06]. <a href="http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg">http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[108]</div><div class="csl-right-inline">仉尚航. 开放世界中的实体基础模型[EB/OL]. (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.</div>
@@ -1089,10 +1089,10 @@
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事: 04-01-35-0399-039[A]. 北京: 中国第一历史档案馆, 1887.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z/OL]. 武汉: 湖北省档案馆, 1931[2025-02-28]. <a href="https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF">https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF</a>.</div>
+    <div class="csl-left-margin">[116]</div><div class="csl-right-inline">湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[A/OL]. 武汉: 湖北省档案馆, 1931[2025-02-28]. <a href="https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF">https://www.hbda.gov.cn/pdf/LS031-001-0001-001.PDF.PDF</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z/OL]. 武汉: 武汉大学档案馆, 1949[2025-02-28]. <a href="https://archive.whu.edu.cn/index/forwardView/20/51">https://archive.whu.edu.cn/index/forwardView/20/51</a>.</div>
+    <div class="csl-left-margin">[117]</div><div class="csl-right-inline">中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[A/OL]. 武汉: 武汉大学档案馆, 1949[2025-02-28]. <a href="https://archive.whu.edu.cn/index/forwardView/20/51">https://archive.whu.edu.cn/index/forwardView/20/51</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[118]</div><div class="csl-right-inline">FITZWILLIAM H. [Letter to Bess of Hardwick][A/OL]. (1570-07-28)[2025-02-28]. <a href="https://www.bessofhardwick.org/letter.jsp?letter=25">https://www.bessofhardwick.org/letter.jsp?letter=25</a>.</div>
@@ -1845,7 +1845,7 @@
     <div class="csl-left-margin">[136]</div><div class="csl-right-inline">莫纪宏. 论“中国式现代化”的法治保障[EB]. 2024.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">新型冠状病毒肺炎，情况如何？[Z/OL]//中央电视台“新闻1+1”栏目. (2020-01-20)[2025-11-08]. <a href="https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml">https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml</a>.</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">新型冠状病毒肺炎，情况如何？[EB/OL]//中央电视台“新闻1+1”栏目. (2020-01-20)[2025-11-08]. <a href="https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml">https://tv.cctv.com/2020/01/20/VIDECRZF7PWXb80z86QyB0db200120.shtml</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[138]</div><div class="csl-right-inline">xxx. [Z]. 《最高人民法院公报》编辑部, 2000.</div>
@@ -1875,7 +1875,7 @@
     <div class="csl-left-margin">[146]</div><div class="csl-right-inline">李松锋. 游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究[D]. 北京: 中国政法大学, 2013.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">雷经天. 关于边区司法工作检查情形: 15/149[Z]. 陕西省档案馆, 1943.</div>
+    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">雷经天. 关于边区司法工作检查情形: 15/149[A]. 陕西省档案馆, 1943.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[148]</div><div class="csl-right-inline">中华人民共和国民事诉讼法（试行）[A].</div>
@@ -2364,13 +2364,13 @@
     <div class="csl-left-margin">[83]</div><div class="csl-right-inline">U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R/OL]. U.S. Food and Drug Administration, 2019. <a href="https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm">https://www.fds.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">FISTEK A, JESTER E, SONNENBERG K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z/OL]. Milwaukee, WI, United States, 2017. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a>.</div>
+    <div class="csl-left-margin">[84]</div><div class="csl-right-inline">FISTEK A, JESTER E, SONNENBERG K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB/OL]. Milwaukee, WI, United States, 2017. <a href="https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html">https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[85]</div><div class="csl-right-inline">MADDOX S, HURLING J, STEWART E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z]. New Orleans, LA, United States, 2016.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">PEARSON J. Fat talk and its effects on state-based body image in women[Z/OL]. Sydney, NSW, Australia, 2018. <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a>.</div>
+    <div class="csl-left-margin">[86]</div><div class="csl-right-inline">PEARSON J. Fat talk and its effects on state-based body image in women[EB/OL]. Sydney, NSW, Australia, 2018. <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[87]</div><div class="csl-right-inline">DE BOER D, LAFAVOR T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.</div>
@@ -2448,13 +2448,13 @@
     <div class="csl-left-margin">[111]</div><div class="csl-right-inline">Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[Z/OL]//Epocrates medical references. Google Play Store, 2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
+    <div class="csl-left-margin">[112]</div><div class="csl-right-inline">Epocrates. Interaction Check: Aspirin + Sertraline[EB/OL]//Epocrates medical references. Google Play Store, 2019. <a href="https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US">https://play.google.com/store/apps/details?id=com.epocrates&#38;hl=en_US</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[113]</div><div class="csl-right-inline">TELLEGEN A, BEN-PORATH Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[Z/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
+    <div class="csl-left-margin">[114]</div><div class="csl-right-inline">Project Implicit. Gender-Science IAT[EB/OL]. <a href="https://implicit.harvard.edi/implicit/takeatest.html">https://implicit.harvard.edi/implicit/takeatest.html</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[115]</div><div class="csl-right-inline">ALONSO-TAPIA J, NIETO C, MERINO-TEJEDOR E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS/OL]. PsycTESTS, 2018. DOI:<a href="https://doi.org/10.1037/t66267-000">10.1037/t66267-000</a>.</div>
@@ -2466,7 +2466,7 @@
     <div class="csl-left-margin">[117]</div><div class="csl-right-inline">FORMAN M. One flew over the cuckoo’s nest[Z]. United Artists, 1975.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z/educational DVD]. American Pychological Association, 2017. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
+    <div class="csl-left-margin">[118]</div><div class="csl-right-inline">Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB/educational DVD]. American Pychological Association, 2017. <a href="http://www.apa.org/pubs/videos/4310958.aspx">http://www.apa.org/pubs/videos/4310958.aspx</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[119]</div><div class="csl-right-inline">JACKSON P. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company, 2001.</div>
@@ -2484,22 +2484,22 @@
     <div class="csl-left-margin">[123]</div><div class="csl-right-inline">LYNCH J. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">GIERTZ S. Why you should make useless things[Z/OL]. TED Conferences, 2018. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.</div>
+    <div class="csl-left-margin">[124]</div><div class="csl-right-inline">GIERTZ S. Why you should make useless things[EB/OL]. TED Conferences, 2018. <a href="https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things">https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">TED. Brené Brown: Listening to shame[Z/OL]. YouTube, 2012. <a href="https://www.youtube.com/watch?v=psN1DORYYV0">https://www.youtube.com/watch?v=psN1DORYYV0</a>.</div>
+    <div class="csl-left-margin">[125]</div><div class="csl-right-inline">TED. Brené Brown: Listening to shame[EB/OL]. YouTube, 2012. <a href="https://www.youtube.com/watch?v=psN1DORYYV0">https://www.youtube.com/watch?v=psN1DORYYV0</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">GOLDBERG J F. Evaluating adverse drug effects[Z/OL]. American Psychiatric Association, 2018. <a href="https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172">https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172</a>.</div>
+    <div class="csl-left-margin">[126]</div><div class="csl-right-inline">GOLDBERG J F. Evaluating adverse drug effects[EB/OL]. American Psychiatric Association, 2018. <a href="https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172">https://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">CUTTS S. Happiness[Z/OL]. Vimeo, 2017. <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a>.</div>
+    <div class="csl-left-margin">[127]</div><div class="csl-right-inline">CUTTS S. Happiness[EB/OL]. Vimeo, 2017. <a href="https://vimeo.com/244405542">https://vimeo.com/244405542</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">FOGARTY M. How to diagram a sentence (absolute basics)[Z/OL]. YouTube, 2016. <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a>.</div>
+    <div class="csl-left-margin">[128]</div><div class="csl-right-inline">FOGARTY M. How to diagram a sentence (absolute basics)[EB/OL]. YouTube, 2016. <a href="https://youtube.be/deiEY5Yq1ql">https://youtube.be/deiEY5Yq1ql</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">University of Oxford. How do geckos walk on water?[Z/OL]. YouTube, 2016. <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.</div>
+    <div class="csl-left-margin">[129]</div><div class="csl-right-inline">University of Oxford. How do geckos walk on water?[EB/OL]. YouTube, 2016. <a href="https://www.youtube.com/watch?v=qm1xGfOZJc8">https://www.youtube.com/watch?v=qm1xGfOZJc8</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[130]</div><div class="csl-right-inline">BACH J S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca, 2010.</div>
@@ -2520,28 +2520,28 @@
     <div class="csl-left-margin">[135]</div><div class="csl-right-inline">LAMAR K. Humble[Z]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">VEDANTAM S. Hidden brain[Z/OL]. NPR, 2015. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
+    <div class="csl-left-margin">[136]</div><div class="csl-right-inline">VEDANTAM S. Hidden brain[EB/OL]. NPR, 2015. <a href="https://www.npr.org/series/423302056/hidden-brain">https://www.npr.org/series/423302056/hidden-brain</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">GLASS I. Amusement park: 443[Z/OL]//This American Life. WBEZ Chicago, 2011. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
+    <div class="csl-left-margin">[137]</div><div class="csl-right-inline">GLASS I. Amusement park: 443[EB/OL]//This American Life. WBEZ Chicago, 2011. <a href="https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park">https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">DE BEAUVOIR S. Simone de Beauvoir discusses the art of writing[Z/OL]. Studs Terkel Radio Archive; The Chicago History Museum, 1960. <a href="https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing">https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</a>.</div>
+    <div class="csl-left-margin">[138]</div><div class="csl-right-inline">DE BEAUVOIR S. Simone de Beauvoir discusses the art of writing[A/OL]. Studs Terkel Radio Archive; The Chicago History Museum, 1960. <a href="https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing">https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">KING M L Jr. I have a dream[Z/OL]. American Rhetoric, 1963. <a href="https://www.americanrhetoric.com/speeches/mlkihaveadream.htm">https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</a>.</div>
+    <div class="csl-left-margin">[139]</div><div class="csl-right-inline">KING M L Jr. I have a dream[EB/OL]. American Rhetoric, 1963. <a href="https://www.americanrhetoric.com/speeches/mlkihaveadream.htm">https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">DELACROIX E. Faust attempts to seduce Marguerite[Z]. Paris, France: The Louvre, 1826/1827.</div>
+    <div class="csl-left-margin">[140]</div><div class="csl-right-inline">DELACROIX E. Faust attempts to seduce Marguerite[A]. Paris, France: The Louvre, 1826/1827.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">WOOD G. American gothic[Z/OL]. Chicago, IL, United States: Art Institute of Chicago, 1930. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
+    <div class="csl-left-margin">[141]</div><div class="csl-right-inline">WOOD G. American gothic[A/OL]. Chicago, IL, United States: Art Institute of Chicago, 1930. <a href="https://www.artic.edu/aic/collections/artwork/6565">https://www.artic.edu/aic/collections/artwork/6565</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[Z/OL]. Openclipart, 2018. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
+    <div class="csl-left-margin">[142]</div><div class="csl-right-inline">GDJ. Neural network deep learning prismatic[A/OL]. Openclipart, 2018. <a href="https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic">https://openclipart.org/detail/309343/neural-network-deep-learning-prismatic</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">ROSSMAN J, PALMER R. Sorting through our space junk[Z/OL]. World Science Festival, 2015. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
+    <div class="csl-left-margin">[143]</div><div class="csl-right-inline">ROSSMAN J, PALMER R. Sorting through our space junk[A/OL]. World Science Festival, 2015. <a href="https://www.worldsciencefestival.com/2015/11/space-junk-infographic/">https://www.worldsciencefestival.com/2015/11/space-junk-infographic/</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[144]</div><div class="csl-right-inline">CABLE D. The racial dot map[CM/OL]. University of Virginia: Weldon Cooper Center for Public Service, 2013. <a href="https://demographics.coopercenter.org/Racial-Dot-Map">https://demographics.coopercenter.org/Racial-Dot-Map</a>.</div>
@@ -2550,19 +2550,19 @@
     <div class="csl-left-margin">[145]</div><div class="csl-right-inline">Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM/OL]. [2020-02-16]. <a href="https://goo.gl/YYE3GR">https://goo.gl/YYE3GR</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">MCCURRY S. Afghan girl[Z/OL]. National Geographic, 1985. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
+    <div class="csl-left-margin">[146]</div><div class="csl-right-inline">MCCURRY S. Afghan girl[A/OL]. National Geographic, 1985. <a href="https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg">https://www.nationalgeographic.com/magazine/national-geographic-magazine-50-years-of-covers/#/ngm-1985-jun-714.jpg</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">RINALDI J. Photograph series of a boy who finds his footing after abuse by those he trusted[Z/OL]. The Pulitzer Prizes, 2016. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
+    <div class="csl-left-margin">[147]</div><div class="csl-right-inline">RINALDI J. Photograph series of a boy who finds his footing after abuse by those he trusted[A/OL]. The Pulitzer Prizes, 2016. <a href="https://www.pulitzer.org/winners/jessica-rinaldi">https://www.pulitzer.org/winners/jessica-rinaldi</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">CANAN E, VASILEV J. Lecture notes on resource allocation[Z/OL]. Department of Management Control and Information Systems, University of Chile, 2019. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
+    <div class="csl-left-margin">[148]</div><div class="csl-right-inline">CANAN E, VASILEV J. Lecture notes on resource allocation[EB/OL]. Department of Management Control and Information Systems, University of Chile, 2019. <a href="https://uchilefau.academia.edu/ElseZCanan">https://uchilefau.academia.edu/ElseZCanan</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">HOUSAND B. Game on! Integrating games and simulations in the classroom[Z/OL]. SlideShare, 2016. <a href="https://www.slideshare.net/brianhousand/game-on-iagc-2016/">https://www.slideshare.net/brianhousand/game-on-iagc-2016/</a>.</div>
+    <div class="csl-left-margin">[149]</div><div class="csl-right-inline">HOUSAND B. Game on! Integrating games and simulations in the classroom[EB/OL]. SlideShare, 2016. <a href="https://www.slideshare.net/brianhousand/game-on-iagc-2016/">https://www.slideshare.net/brianhousand/game-on-iagc-2016/</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">MACK R, SPAKE G. Citing open source images and formatting references for presentations[Z/OL]. Canvas@FNU, 2018. <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a>.</div>
+    <div class="csl-left-margin">[150]</div><div class="csl-right-inline">MACK R, SPAKE G. Citing open source images and formatting references for presentations[EB/OL]. Canvas@FNU, 2018. <a href="https://fnu.onelogin.com/login">https://fnu.onelogin.com/login</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[151]</div><div class="csl-right-inline">APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB/OL]. (2018-06-29). <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.</div>
@@ -2661,7 +2661,7 @@
     <div class="csl-left-margin">[182]</div><div class="csl-right-inline">Florida Mental Health Act[A/OL]//Fla. Stat. 2009. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
+    <div class="csl-left-margin">[183]</div><div class="csl-right-inline">Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. 2016. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[184]</div><div class="csl-right-inline">Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A/OL]. 2014. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>

@@ -16,7 +16,7 @@
   "citation_format": "author-date",
   "field": "generic-base",
   "summary": "GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。引注页码显示在括号内。",
-  "updated": "2026-08-06T20:53:36+08:00",
+  "updated": "2026-08-09T15:54:09+08:00",
   "citations": "（张三，2008，42）<br>\n张三 （2008，42）<br>\n（Jason，2008，42）<br>\nJason （2008，42）<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">张三，2008. 引注测试 2.1:1[M].</div>\n  <div class=\"csl-entry\">Jason J，2008. Citation test 2.1:2[M].</div>\n</div>",
   "test_result": "",

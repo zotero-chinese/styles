@@ -334,10 +334,10 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">富勒，2005b. 法律的道德性[M]. 郑戈，译. 商务印书馆.</div>
   <div class="csl-entry">高鸿钧，程汉大，2013a. 英美法原论[M]. 北京大学出版社.</div>
   <div class="csl-entry">高鸿钧，程汉大，2013b. 英美法原论[M]. 北京大学出版社.</div>
-  <div class="csl-entry">公安部，2006. 公安机关办理行政案件程序规定[Z]. 修订.</div>
+  <div class="csl-entry">公安部，2006. 公安机关办理行政案件程序规定[A]. 修订.</div>
   <div class="csl-entry">顾颉刚，1930. 五德终始说下的政治和历史[J]. 清华学报，6（1）：71-268.</div>
   <div class="csl-entry">国家质量监督检验检疫总局，中国国家标准化管理委员会，无日期. GB/T 7714—2015 信息与文献参考文献著录规则[S].</div>
-  <div class="csl-entry">国务院，1984. 中华人民共和国增值税条例（草案）[Z].</div>
+  <div class="csl-entry">国务院，1984. 中华人民共和国增值税条例（草案）[A].</div>
   <div class="csl-entry">国务院新闻办公室，2023. 新时代的中国网络法治建设[R]. 2023-03-16.</div>
   <div class="csl-entry">哈特穆特·毛雷尔，2000. 行政法学总论[M]. 高家伟，译. 法律出版社.</div>
   <div class="csl-entry">汉斯·J. 沃尔夫，奥托·巴霍夫，罗尔夫·施托贝尔，2002. 行政法：第1卷[M]. 高家伟，译. 商务印书馆.</div>
@@ -363,7 +363,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">里赞，2010. 晚清州县诉讼中的审断问题：侧重四川南部县的实暇[M]. 法律出版社.</div>
   <div class="csl-entry">理查德·J. 皮尔斯，2016. 行政法[M]. 苏苗罕，译. 5 版. 中国人民大学出版社.</div>
   <div class="csl-entry">理查德·J. 皮尔斯，无日期. [M].</div>
-  <div class="csl-entry">联合国，无日期. 儿童权利公约[Z].</div>
+  <div class="csl-entry">联合国，无日期. 儿童权利公约[A].</div>
   <div class="csl-entry">梁秋坪，郝萍，2024a. 全国打击治理农村赌博工作现场会召开[EB/OL]. （2024-10-12）[2025-10-19]. <a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>.</div>
   <div class="csl-entry">梁秋坪，郝萍，2024b. 全国打击治理农村赌博工作现场会召开[EB/OL]. （2024-10-12）[2025-11-08]. <a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>.</div>
   <div class="csl-entry">刘松山，2019a. 失信惩戒立法的三大问题[EB/OL]. （2019-11-19）[2025-10-19]. <a href="https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw">https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw</a>.</div>
@@ -418,65 +418,65 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">姚际恒，1924a. 古今伪书考[M]. 活字本（江氏聚珍板印）. 苏州江氏文学山房.</div>
   <div class="csl-entry">姚际恒，1924b. 古今伪书考：卷三[M]. 活字本（江氏聚珍板印）. 苏州江氏文学山房.</div>
   <div class="csl-entry">姚际恒，1933. 古今伪书考[M]. 朴社.</div>
-  <div class="csl-entry">佚名，1906. 统一买卖法[Z].</div>
+  <div class="csl-entry">佚名，1906. 统一买卖法[A].</div>
   <div class="csl-entry">佚名，1948. 世界人权宣言：217A(III)[R]. 联合国大会决议.</div>
-  <div class="csl-entry">佚名，1956. 司法部关于可否张贴判决书及应注意事项的批复：国发〔2007〕19号[Z]//中华人民共和国司法部. 中华人民共和国司法行政历史文件汇编（1950—1985）. 法律出版社.</div>
-  <div class="csl-entry">Anon，1984. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, Inc.[Z]//U.S.：v.467. 837.</div>
+  <div class="csl-entry">佚名，1956. 司法部关于可否张贴判决书及应注意事项的批复：国发〔2007〕19号[A]//中华人民共和国司法部. 中华人民共和国司法行政历史文件汇编（1950—1985）. 法律出版社.</div>
+  <div class="csl-entry">Anon，1984. Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, Inc.[A]//U.S.：v.467. 837.</div>
   <div class="csl-entry">佚名，1984a. 中国大百科全书·法学[M]. 中国大百科全书出版社.</div>
   <div class="csl-entry">佚名，1984b. 中国大百科全书·法学[M]. 中国大百科全书出版社.</div>
   <div class="csl-entry">佚名，1984c. 中国大百科全书·法学[M]. 中国大百科全书出版社.</div>
-  <div class="csl-entry">Anon，1987a. R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc[Z]//QB. 815.</div>
-  <div class="csl-entry">Anon，1987b. R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc[Z]//QB. 815.</div>
-  <div class="csl-entry">佚名，1988a. 包郑照等诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字7号[EB/OL]. （1988-12-26）[2025-10-19]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html</a>.</div>
-  <div class="csl-entry">佚名，1988b. 最高人民法院关于雇工合同“工伤概不负责”是否有效的批复：［88］民他字第1号[Z].</div>
-  <div class="csl-entry">佚名，1989. 行政诉讼法[Z].</div>
-  <div class="csl-entry">佚名，1991. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[Z].</div>
+  <div class="csl-entry">Anon，1987a. R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc[A]//QB. 815.</div>
+  <div class="csl-entry">Anon，1987b. R. <i>v.</i> Panel on Take-overs and Mergers, <i>ex parte</i> Datafin plc[A]//QB. 815.</div>
+  <div class="csl-entry">佚名，1988a. 包郑照等诉苍南县人民政府强制拆除房屋案：（1988）浙法民上字7号[A/OL]. （1988-12-26）[2025-10-19]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f32a29d3500ff72c4774ca6deed4729937bdfb.html</a>.</div>
+  <div class="csl-entry">佚名，1988b. 最高人民法院关于雇工合同“工伤概不负责”是否有效的批复：［88］民他字第1号[A].</div>
+  <div class="csl-entry">佚名，1989. 行政诉讼法[A].</div>
+  <div class="csl-entry">佚名，1991. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[A].</div>
   <div class="csl-entry">佚名，1992a. 全球努力打击恐怖主义的宣言：A/47/1277[R]. 联合国安理会决议.</div>
   <div class="csl-entry">佚名，1992b. 和平纲领：预防性外交、建立和平与维持和平：A/47/1277[R]. 联合国秘书长报告.</div>
   <div class="csl-entry">佚名，1993. 美国法典·宪法行政法卷[M]. 中国社会科学出版社.</div>
   <div class="csl-entry">佚名，1994. [M]//梁慧星. 民商法论丛：第1卷. 法律出版社.</div>
   <div class="csl-entry">佚名，2000a. 香港的刑事责任年龄[R]. 2000.</div>
-  <div class="csl-entry">佚名，2000b. 宁德市大众影院诉宁德地区工商行政管理局行政处罚案[Z]//最高人民法院中国应用法学研究所. 人民法院案例选（1992—1999年合订本）·行政卷. 中国法制出版社.</div>
+  <div class="csl-entry">佚名，2000b. 宁德市大众影院诉宁德地区工商行政管理局行政处罚案[A]//最高人民法院中国应用法学研究所. 人民法院案例选（1992—1999年合订本）·行政卷. 中国法制出版社.</div>
   <div class="csl-entry">佚名，2001. [Z/电话].</div>
   <div class="csl-entry">佚名，2002. [M]//北大法律评论：第4卷第2辑. 法律出版社.</div>
-  <div class="csl-entry">佚名，2005. 公司法[Z]. 修订.</div>
-  <div class="csl-entry">佚名，2007a. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[EB/OL]. （2007-07-01）[2025-09-01]. <a href="https://www.gov.cn/gongbao/content/2007/content_719880.htm">https://www.gov.cn/gongbao/content/2007/content_719880.htm</a>.</div>
-  <div class="csl-entry">佚名，2007b. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[Z].</div>
-  <div class="csl-entry">佚名，2007c. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[Z].</div>
-  <div class="csl-entry">佚名，2007d. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[Z].</div>
+  <div class="csl-entry">佚名，2005. 公司法[A]. 修订.</div>
+  <div class="csl-entry">佚名，2007a. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A/OL]. （2007-07-01）[2025-09-01]. <a href="https://www.gov.cn/gongbao/content/2007/content_719880.htm">https://www.gov.cn/gongbao/content/2007/content_719880.htm</a>.</div>
+  <div class="csl-entry">佚名，2007b. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A].</div>
+  <div class="csl-entry">佚名，2007c. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A].</div>
+  <div class="csl-entry">佚名，2007d. 国务院关于在全国建立农村最低生活保障制度的通知：国发〔2007〕19号[A].</div>
   <div class="csl-entry">佚名，2008. 英国2006年公司法[M]. 葛伟军，译. 法律出版社.</div>
   <div class="csl-entry">佚名，2009. 全国人大常委会法工委行政诉讼法修改座谈会[Z].</div>
   <div class="csl-entry">佚名，2013a. [J]. 政大法学评论（132）.</div>
-  <div class="csl-entry">佚名，2013b. 公司法[Z]. 修订.</div>
-  <div class="csl-entry">佚名，2013c. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[EB/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html</a>.</div>
-  <div class="csl-entry">佚名，2014a. 中共中央关于全面推进依法治国若干重大问题的决定[EB/OL]. （2014-10-23）[2025-10-19]. <a href="https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm">https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm</a>.</div>
-  <div class="csl-entry">佚名，2014b. 中共中央关于全面推进依法治国若干重大问题的决定[Z].</div>
-  <div class="csl-entry">佚名，2015a. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[EB/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
-  <div class="csl-entry">佚名，2015b. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[EB/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
-  <div class="csl-entry">佚名，2016. 苏嘉鸿内幕交易行政处罚案：〔2016〕56号[Z].</div>
-  <div class="csl-entry">佚名，2017a. 苏嘉鸿不服中国证监会行政处罚行政复议案：［2017］63号[Z].</div>
-  <div class="csl-entry">佚名，2017b. 榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案：（2011）民一终字第81号[EB/OL]. （2017-12-16）[2025-11-09]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html</a>.</div>
+  <div class="csl-entry">佚名，2013b. 公司法[A]. 修订.</div>
+  <div class="csl-entry">佚名，2013c. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案：（2013）锡民终字第497号[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f3c183fef06dd7de4ecb103cc50c50ec4ebdfb.html</a>.</div>
+  <div class="csl-entry">佚名，2014a. 中共中央关于全面推进依法治国若干重大问题的决定[A/OL]. （2014-10-23）[2025-10-19]. <a href="https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm">https://www.gov.cn/zhengce/2014-10/28/content_2771946.htm</a>.</div>
+  <div class="csl-entry">佚名，2014b. 中共中央关于全面推进依法治国若干重大问题的决定[A].</div>
+  <div class="csl-entry">佚名，2015a. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
+  <div class="csl-entry">佚名，2015b. 陆红霞诉南通市发展和改革委员会政府信息公开答复案[A/OL]//最高人民法院公报. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f383ab74a250eadc412f753fb855fabeadbdfb.html</a>.</div>
+  <div class="csl-entry">佚名，2016. 苏嘉鸿内幕交易行政处罚案：〔2016〕56号[A].</div>
+  <div class="csl-entry">佚名，2017a. 苏嘉鸿不服中国证监会行政处罚行政复议案：［2017］63号[A].</div>
+  <div class="csl-entry">佚名，2017b. 榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案：（2011）民一终字第81号[A/OL]. （2017-12-16）[2025-11-09]. <a href="https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html">https://www.pkulaw.com/pfnl/a25051f3312b07f33e89d5b6de18bc0a79dc89fed63cf848bdfb.html</a>.</div>
   <div class="csl-entry">佚名，2018a. 清华大学学报（哲学社会科学版）[J]. （4）.</div>
   <div class="csl-entry">佚名，2018b. [J]. 台大法学论丛，47（4）.</div>
-  <div class="csl-entry">佚名，2018c. 苏嘉鸿诉中国证监会行政处罚案：（2018）京行终445号[EB/OL]. （2018-07-17）[2025-11-09]. <a href="https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html">https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html</a>.</div>
+  <div class="csl-entry">佚名，2018c. 苏嘉鸿诉中国证监会行政处罚案：（2018）京行终445号[A/OL]. （2018-07-17）[2025-11-09]. <a href="https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html">https://www.pkulaw.com/pfnl/95b2ca8d4055fce114daa51d0e1dca2802bdab6b0010ecacbdfb.html</a>.</div>
   <div class="csl-entry">佚名，2019a. 被告人李宁、张磊贪污案一审开庭[EB/OL]. （2019-12-31）[2025-11-08]. <a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>.</div>
-  <div class="csl-entry">佚名，2019b. 驾驶人无过失及情节轻微之肇事逃逸案：“司法院大法官”释字第777号[Z].</div>
+  <div class="csl-entry">佚名，2019b. 驾驶人无过失及情节轻微之肇事逃逸案：“司法院大法官”释字第777号[A].</div>
   <div class="csl-entry">佚名，2020a. 德国民法典[M]. 陈卫佐，译. 5 版. 法律出版社.</div>
   <div class="csl-entry">佚名，[2020a]. 中国人大网“已结束的征求意见”栏目[EB/OL]. [2020-02-28]. <a href="http://www.npc.gov.cn/flcaw/more.html">http://www.npc.gov.cn/flcaw/more.html</a>.</div>
-  <div class="csl-entry">佚名，2020b. 中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议[Z].</div>
+  <div class="csl-entry">佚名，2020b. 中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议[A].</div>
   <div class="csl-entry">佚名，2020c. 德国民法典[M]. 陈卫佐，译. 5 版. 法律出版社.</div>
-  <div class="csl-entry">佚名，2021a. 中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要[Z].</div>
-  <div class="csl-entry">佚名，2021b. 全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定[Z].</div>
+  <div class="csl-entry">佚名，2021a. 中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要[A].</div>
+  <div class="csl-entry">佚名，2021b. 全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定[A].</div>
   <div class="csl-entry">佚名，2022a. 车某玲诉朱某芳相邻关系纠纷案：（2022）粤01民终1669号[A]. 人民法院案例库，2022-04-12.</div>
-  <div class="csl-entry">佚名，2022b. 行政复议法（修订草案）[Z].</div>
+  <div class="csl-entry">佚名，2022b. 行政复议法（修订草案）[A].</div>
   <div class="csl-entry">佚名，2022c. 车某玲诉朱某芳相邻关系纠纷案：（2022）粤01民终1669号[A]. 人民法院案例库，2022-04-12.</div>
-  <div class="csl-entry">佚名，2023. 行政复议法（修订草案）[Z].</div>
+  <div class="csl-entry">佚名，2023. 行政复议法（修订草案）[A].</div>
   <div class="csl-entry">佚名，[2024b]. 法国最高行政法院网站[EB/OL]. [2024-10-08]. <a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>.</div>
   <div class="csl-entry">佚名，[2024c]. 法国最高行政法院网站[EB/OL]. [2024-10-08]. <a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>.</div>
-  <div class="csl-entry">佚名，2024. 中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见[EB/OL]. （2024-09-15）[2025-11-08]. <a href="https://www.gov.cn/zhengce/202409/content_6976469.htm">https://www.gov.cn/zhengce/202409/content_6976469.htm</a>.</div>
-  <div class="csl-entry">佚名，2025. 维护国家安全（中央人民政府驻香港特别行政区维护国家安全公署）规例：77[Z].</div>
+  <div class="csl-entry">佚名，2024. 中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见[A/OL]. （2024-09-15）[2025-11-08]. <a href="https://www.gov.cn/zhengce/202409/content_6976469.htm">https://www.gov.cn/zhengce/202409/content_6976469.htm</a>.</div>
+  <div class="csl-entry">佚名，2025. 维护国家安全（中央人民政府驻香港特别行政区维护国家安全公署）规例：77[A].</div>
   <div class="csl-entry">佚名，无日期-a. 论语·述而[M].</div>
-  <div class="csl-entry">佚名，无日期-b. 民法典[Z].</div>
+  <div class="csl-entry">佚名，无日期-b. 民法典[A].</div>
   <div class="csl-entry">佚名，d. 执行难，难于上青天？[J].</div>
   <div class="csl-entry">佚名，e. 行政诉讼证据规则：原理与规范[J].</div>
   <div class="csl-entry">佚名，f. 何以合法？——对“二奶继承案”的追问[J].</div>
@@ -490,40 +490,40 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">佚名，无日期-j. 论语·述而[M].</div>
   <div class="csl-entry">佚名，无日期-k. 圣经·出埃及记[M].</div>
   <div class="csl-entry">佚名，无日期-l. 元典章：卷一九 户部五·田宅·家财[M].</div>
-  <div class="csl-entry">佚名，无日期-m. 中华人民共和国民事诉讼法（试行）[Z].</div>
-  <div class="csl-entry">佚名，无日期-n. 民事诉讼法（试行）[Z].</div>
-  <div class="csl-entry">佚名，无日期-o. 中华人民共和国刑法修正案（十）[Z].</div>
-  <div class="csl-entry">佚名，无日期-p. 刑法修正案（十）[Z].</div>
-  <div class="csl-entry">佚名，无日期-q. 全国法院民商事审判工作会议纪要：法〔2019〕254号[Z].</div>
-  <div class="csl-entry">佚名，无日期-r. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释〔2018〕1号[Z].</div>
-  <div class="csl-entry">佚名，无日期-s. 行政处罚法[Z].</div>
-  <div class="csl-entry">佚名，无日期-t. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[Z].</div>
-  <div class="csl-entry">佚名，无日期-u. 民法典[Z].</div>
-  <div class="csl-entry">佚名，无日期-v. 最高人民法院关于适用〈中华人民共和国用事环资法〉的解释[Z].</div>
-  <div class="csl-entry">佚名，无日期-w. 刑法[Z].</div>
-  <div class="csl-entry">佚名，无日期-x. 最高人民法院关于适用刑法第六十四条有关问题的批复[Z].</div>
-  <div class="csl-entry">佚名，无日期-y. 全国人民代表大会常务委员会关于〈中华人民共和国民法通则》第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释[Z].</div>
-  <div class="csl-entry">佚名，无日期-z. 宪法[Z].</div>
-  <div class="csl-entry">佚名，无日期-aa. 刑法[Z].</div>
-  <div class="csl-entry">佚名，无日期-ab. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释［2018］1号[Z].</div>
-  <div class="csl-entry">佚名，无日期-ac. 打赢蓝天保卫战三年行动计划：国发〔2018］22号[Z].</div>
-  <div class="csl-entry">佚名，无日期-ad. 中共中央、国务院关于加快建设全国统一大市场的意见[Z].</div>
-  <div class="csl-entry">佚名，无日期-ae. 关于拓展跨境电商出口推进海外仓建设的意见[Z].</div>
-  <div class="csl-entry">佚名，无日期-af. 刑事上诉规则[Z]//香港法例：第221A卷.</div>
-  <div class="csl-entry">佚名，无日期-ag. 澳门特别行政区廉政公署组织法：第17/2024号法律修改[Z].</div>
-  <div class="csl-entry">佚名，无日期-ah. 我国台湾地区“民法”[Z].</div>
-  <div class="csl-entry">佚名，无日期-ai. 1996年仲裁法[Z].</div>
-  <div class="csl-entry">佚名，无日期-aj. 统一买卖法[Z].</div>
-  <div class="csl-entry">佚名，无日期-ak. 1996年仲裁法[Z].</div>
-  <div class="csl-entry">佚名，无日期-al. 联合国海洋法公约[Z].</div>
-  <div class="csl-entry">佚名，无日期-am. 联合国海洋法公约[Z].</div>
-  <div class="csl-entry">佚名，无日期-an. 陈辉（化名）诉大庆日月星有限公司劳动争议案[Z].</div>
-  <div class="csl-entry">佚名，无日期-ao. 车某玲诉朱某芳相邻关系纠纷案[Z].</div>
-  <div class="csl-entry">佚名，无日期-ap. “夹江打假案”[Z].</div>
-  <div class="csl-entry">佚名，无日期-aq. “许霆恶意取款案”[Z].</div>
-  <div class="csl-entry">佚名，无日期-ar. （1998）海行初字第142号[Z].</div>
-  <div class="csl-entry">佚名，无日期-as. （2018）京0108民初142号[Z].</div>
-  <div class="csl-entry">佚名，无日期-at. 谢文彬诉广东省司法厅案[Z].</div>
+  <div class="csl-entry">佚名，无日期-m. 中华人民共和国民事诉讼法（试行）[A].</div>
+  <div class="csl-entry">佚名，无日期-n. 民事诉讼法（试行）[A].</div>
+  <div class="csl-entry">佚名，无日期-o. 中华人民共和国刑法修正案（十）[A].</div>
+  <div class="csl-entry">佚名，无日期-p. 刑法修正案（十）[A].</div>
+  <div class="csl-entry">佚名，无日期-q. 全国法院民商事审判工作会议纪要：法〔2019〕254号[A].</div>
+  <div class="csl-entry">佚名，无日期-r. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释〔2018〕1号[A].</div>
+  <div class="csl-entry">佚名，无日期-s. 行政处罚法[A].</div>
+  <div class="csl-entry">佚名，无日期-t. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知：法发〔1993〕36号[A].</div>
+  <div class="csl-entry">佚名，无日期-u. 民法典[A].</div>
+  <div class="csl-entry">佚名，无日期-v. 最高人民法院关于适用〈中华人民共和国用事环资法〉的解释[A].</div>
+  <div class="csl-entry">佚名，无日期-w. 刑法[A].</div>
+  <div class="csl-entry">佚名，无日期-x. 最高人民法院关于适用刑法第六十四条有关问题的批复[A].</div>
+  <div class="csl-entry">佚名，无日期-y. 全国人民代表大会常务委员会关于〈中华人民共和国民法通则》第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释[A].</div>
+  <div class="csl-entry">佚名，无日期-z. 宪法[A].</div>
+  <div class="csl-entry">佚名，无日期-aa. 刑法[A].</div>
+  <div class="csl-entry">佚名，无日期-ab. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释：法释［2018］1号[A].</div>
+  <div class="csl-entry">佚名，无日期-ac. 打赢蓝天保卫战三年行动计划：国发〔2018］22号[A].</div>
+  <div class="csl-entry">佚名，无日期-ad. 中共中央、国务院关于加快建设全国统一大市场的意见[A].</div>
+  <div class="csl-entry">佚名，无日期-ae. 关于拓展跨境电商出口推进海外仓建设的意见[A].</div>
+  <div class="csl-entry">佚名，无日期-af. 刑事上诉规则[A]//香港法例：第221A卷.</div>
+  <div class="csl-entry">佚名，无日期-ag. 澳门特别行政区廉政公署组织法：第17/2024号法律修改[A].</div>
+  <div class="csl-entry">佚名，无日期-ah. 我国台湾地区“民法”[A].</div>
+  <div class="csl-entry">佚名，无日期-ai. 1996年仲裁法[A].</div>
+  <div class="csl-entry">佚名，无日期-aj. 统一买卖法[A].</div>
+  <div class="csl-entry">佚名，无日期-ak. 1996年仲裁法[A].</div>
+  <div class="csl-entry">佚名，无日期-al. 联合国海洋法公约[A].</div>
+  <div class="csl-entry">佚名，无日期-am. 联合国海洋法公约[A].</div>
+  <div class="csl-entry">佚名，无日期-an. 陈辉（化名）诉大庆日月星有限公司劳动争议案[A].</div>
+  <div class="csl-entry">佚名，无日期-ao. 车某玲诉朱某芳相邻关系纠纷案[A].</div>
+  <div class="csl-entry">佚名，无日期-ap. “夹江打假案”[A].</div>
+  <div class="csl-entry">佚名，无日期-aq. “许霆恶意取款案”[A].</div>
+  <div class="csl-entry">佚名，无日期-ar. （1998）海行初字第142号[A].</div>
+  <div class="csl-entry">佚名，无日期-as. （2018）京0108民初142号[A].</div>
+  <div class="csl-entry">佚名，无日期-at. 谢文彬诉广东省司法厅案[A].</div>
   <div class="csl-entry">张文显，于宁，2001. 当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式[J]. 中国法学（1）：63-79.</div>
   <div class="csl-entry">张新宝，2006. 侵权责任法[M]. 中国人民大学出版社.</div>
   <div class="csl-entry">张新宝，2020a. 侵权责任法[M]. 5 版. 中国人民大学出版社.</div>
@@ -551,40 +551,40 @@ Qian et al. （2009b）<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">Anon，1954. Brown v. Board of Education[EB/OL]//U.S.：v.347. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
-  <div class="csl-entry">Anon，1964. Civil Rights Act of 1964：88-352[EB/OL]//Stat.：v.78. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
-  <div class="csl-entry">Anon，1972. Patsy Mink Equal Opportunity in Education Act[EB/OL]//U.S.C：v.20. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
-  <div class="csl-entry">Anon，1976. Tarasoff v. Regents of the University of California[EB/OL]//Cal.3d：v.17. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
+  <div class="csl-entry">Anon，1954. Brown v. Board of Education[A/OL]//U.S.：v.347. <a href="http://www.oyez.org/cases/1940-1955/347us483">http://www.oyez.org/cases/1940-1955/347us483</a>.</div>
+  <div class="csl-entry">Anon，1964. Civil Rights Act of 1964：88-352[A/OL]//Stat.：v.78. <a href="https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf">https://www.govinfo.gov/content/pkg/STATUE-78/pdf/STATUTE-78-Pg241.pdf</a>.</div>
+  <div class="csl-entry">Anon，1972. Patsy Mink Equal Opportunity in Education Act[A/OL]//U.S.C：v.20. <a href="https://www.justice.org/crt/title-ix-education-amendments-1972">https://www.justice.org/crt/title-ix-education-amendments-1972</a>.</div>
+  <div class="csl-entry">Anon，1976. Tarasoff v. Regents of the University of California[A/OL]//Cal.3d：v.17. <a href="https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california">https://www.casebriefs.com/blog/law/torts/tors-keyed-to-dobbs/the-duty-to-protect-from-third-persons/tarasoff-v-regents-of-university-of-california</a>.</div>
   <div class="csl-entry">Anon，1981. Marking time in the land of plenty: Reflections on mental health in the United States[J]. American Journal of Orthopsychiatry，51（3）：391-402.</div>
-  <div class="csl-entry">Anon，1984. Durflinger v. Artiles[EB/OL]//F.Supp.：v.563. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
-  <div class="csl-entry">Anon，1989. United nations convention on the rights of the child[EB/OL]. （1989-11-20）. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
-  <div class="csl-entry">Anon，1990. American With Disabilities Act of 1990[EB/OL]//U.S.C：v.42. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
-  <div class="csl-entry">Anon，1991. Daubert v. Merrell Dow Pharmaceuticals, Inc.[EB/OL]//F.2d：v.951. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
-  <div class="csl-entry">Anon，1992. Texas v. Morales[EB/OL]//S.W.2d：v.826. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
-  <div class="csl-entry">Anon，2001. Burriola v. Greater Toledo YMCA[EB/OL]//F.Supp.2d：v.133. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
+  <div class="csl-entry">Anon，1984. Durflinger v. Artiles[A/OL]//F.Supp.：v.563. <a href="https://openjurist.org/727/f2d/888/durflinger-v-artiles">https://openjurist.org/727/f2d/888/durflinger-v-artiles</a>.</div>
+  <div class="csl-entry">Anon，1989. United nations convention on the rights of the child[A/OL]. （1989-11-20）. <a href="https://www.ohchr.org/en/professionalinterest/pages/crc.aspx">https://www.ohchr.org/en/professionalinterest/pages/crc.aspx</a>.</div>
+  <div class="csl-entry">Anon，1990. American With Disabilities Act of 1990[A/OL]//U.S.C：v.42. <a href="https://www.ada.gov/pubs/adastatute08.htm">https://www.ada.gov/pubs/adastatute08.htm</a>.</div>
+  <div class="csl-entry">Anon，1991. Daubert v. Merrell Dow Pharmaceuticals, Inc.[A/OL]//F.2d：v.951. <a href="https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals">https://openjurist.org/951/f2d/1128/william-dabert-v-merrell-dow-pharmaceuticals</a>.</div>
+  <div class="csl-entry">Anon，1992. Texas v. Morales[A/OL]//S.W.2d：v.826. <a href="https://www.leagle.com/decision/19921027826sw2d20111010">https://www.leagle.com/decision/19921027826sw2d20111010</a>.</div>
+  <div class="csl-entry">Anon，2001. Burriola v. Greater Toledo YMCA[A/OL]//F.Supp.2d：v.133. <a href="https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/">https://law.justia.com/cases/federal/district-courts/FSupp2/133/1034/2293141/</a>.</div>
   <div class="csl-entry">Anon，2002-2008. The wire[Z]. Blown Deadline Productions; HBO.</div>
   <div class="csl-entry">Anon，2004. The Qur’an[M]. Abdel Haleem M A S，trans. Oxford University Press.</div>
-  <div class="csl-entry">Anon，2009a. Lilly Leadbetter Fair Play Act of 2009：111-2[EB/OL]//Stat.：v.123. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
-  <div class="csl-entry">Anon，2009b. Florida Mental Health Act[EB/OL]//Fla. Stat. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
-  <div class="csl-entry">Anon，2009c. Protection of human subjects[EB/OL]//C.F.R.：v.45. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
-  <div class="csl-entry">Anon，2013. Mental Health on Campus Improvement Act：H.R. 1100[EB/OL]. （2013）. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
-  <div class="csl-entry">Anon，2014a. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[EB/OL]. （2014）. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
-  <div class="csl-entry">Anon，2014b. Exec. Order No. 13,676[EB/OL]//C.F.R.：v.3. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
+  <div class="csl-entry">Anon，2009a. Lilly Leadbetter Fair Play Act of 2009：111-2[A/OL]//Stat.：v.123. <a href="https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf">https://www.govinfo.gov/content/pkg/PLAW-111publ2/pdf/PLAW-111publ2.pdf</a>.</div>
+  <div class="csl-entry">Anon，2009b. Florida Mental Health Act[A/OL]//Fla. Stat. <a href="http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html">http://www.leg.state.fl.us/statues/index.cfm?App_mode=Display_Statute&#38;URL=0300-0399/0394/0394.html</a>.</div>
+  <div class="csl-entry">Anon，2009c. Protection of human subjects[A/OL]//C.F.R.：v.45. <a href="https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf">https://www.hhs.gov/ohrp/sites/default/files/ohrp/policy/ohrpregulations.pdf</a>.</div>
+  <div class="csl-entry">Anon，2013. Mental Health on Campus Improvement Act：H.R. 1100[A/OL]. （2013）. <a href="https://www.congress.gov/bill/113th-congress/house-bill/1100">https://www.congress.gov/bill/113th-congress/house-bill/1100</a>.</div>
+  <div class="csl-entry">Anon，2014a. Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A/OL]. （2014）. <a href="https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers">https://www.help.senate.gov/hearings/strengthening-the-federal-student-load-program-for-borrowers</a>.</div>
+  <div class="csl-entry">Anon，2014b. Exec. Order No. 13,676[A/OL]//C.F.R.：v.3. <a href="https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf">https://www.govinfo.gov/content/pkg/CFR-2015-title3-vol1/pdf/CFR-2015-title3-vol1-eo13676.pdf</a>.</div>
   <div class="csl-entry">Anon，2015a. The Torah: The five books of Moses[M]. 3rd ed. The Jewish Publication Society.</div>
-  <div class="csl-entry">Anon，2015b. Obergefell v. Hodges[EB/OL]//U.S.：v.576. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
-  <div class="csl-entry">Anon，2015c. Every Student Succeeds Act[EB/OL]//U.S.C：v.20. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
+  <div class="csl-entry">Anon，2015b. Obergefell v. Hodges[A/OL]//U.S.：v.576. <a href="https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf">https://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf</a>.</div>
+  <div class="csl-entry">Anon，2015c. Every Student Succeeds Act[A/OL]//U.S.C：v.20. <a href="https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf">https://www.congress.gov/114/plaws/publ95/PLAW-114publ95.pdf</a>.</div>
   <div class="csl-entry">Anon，2015d. H.R. Rep. No. 114-358[R]. 2015.</div>
   <div class="csl-entry">Anon，2016a. Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB/OL]. （2016）. <a href="http://www.gsa.gov/portal/content/233107">http://www.gsa.gov/portal/content/233107</a>.</div>
-  <div class="csl-entry">Anon，2016b. S. Res. 438[EB/OL]//Cong. Rec.：v.162. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
-  <div class="csl-entry">Anon，2016c. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[EB/OL]//F.R.：v.81. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
+  <div class="csl-entry">Anon，2016b. S. Res. 438[A/OL]//Cong. Rec.：v.162. <a href="https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2">https://www.congress.gov/congressional-record/2016/04/21/senate-section/article/S2394-2</a>.</div>
+  <div class="csl-entry">Anon，2016c. Defining and delimiting the exemptions for executive, administrative, professional, outside sales and computer employees[A/OL]//F.R.：v.81. <a href="https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and">https://www.federalregister.gov/articles/2016/05/23/2016-11754/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and</a>.</div>
   <div class="csl-entry">Anon，2017. King James Bible[M]. King James Bible Online.</div>
   <div class="csl-entry">Anon，2019. List of oldest companies[M]//Wikipedia.</div>
-  <div class="csl-entry">Anon，n.d.-a. U.S. Const. art. I, § 3[Z].</div>
-  <div class="csl-entry">Anon，n.d.-b. S.C. Const. art. XI, § 3[Z].</div>
-  <div class="csl-entry">Anon，n.d.-c. U.S. Const. amend. XIX[Z].</div>
-  <div class="csl-entry">Anon，n.d.-d. U.S. Const. amend. XVIII (repealed 1933)[Z].</div>
-  <div class="csl-entry">Anon，n.d.-e. U.S. Const. amend. I-X[Z].</div>
-  <div class="csl-entry">Anon，n.d.-f. U.N. Charter art. 1, para. 3[Z].</div>
+  <div class="csl-entry">Anon，n.d.-a. U.S. Const. art. I, § 3[A].</div>
+  <div class="csl-entry">Anon，n.d.-b. S.C. Const. art. XI, § 3[A].</div>
+  <div class="csl-entry">Anon，n.d.-c. U.S. Const. amend. XIX[A].</div>
+  <div class="csl-entry">Anon，n.d.-d. U.S. Const. amend. XVIII (repealed 1933)[A].</div>
+  <div class="csl-entry">Anon，n.d.-e. U.S. Const. amend. I-X[A].</div>
+  <div class="csl-entry">Anon，n.d.-f. U.N. Charter art. 1, para. 3[A].</div>
   <div class="csl-entry">Ahmann E，Tuttle L J，Saviet M，et al.，2018. A descriptive review of ADHD coaching research: Implications for college students[J]. Journal of Postsecondary Education and Disability，31（1）：17-39.</div>
   <div class="csl-entry">Alonso-Tapia J，Nieto C，Merino-Tejedor E，et al.，2018. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS（2018）.</div>
   <div class="csl-entry">Amano N，Kondo H，2000. Lexical characteristics of Japanese language：v.7[M]. Sansei-do.</div>
@@ -624,7 +624,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Cable D，2013. The racial dot map[CM]. University of Virginia：Weldon Cooper Center for Public Service.</div>
   <div class="csl-entry">Cain S，2012. Quiet: The power of introverts in a world that can’t stop talking[M]. Random House Audio.</div>
   <div class="csl-entry">Canada Council for the Arts，2013. What we heard: Summary of key findings: 2013 Canada Council’s Inter-Arts Office Consultation[R]. 2013.</div>
-  <div class="csl-entry">Canan E，Vasilev J，2019. Lecture notes on resource allocation[A]. 2019-05-22.</div>
+  <div class="csl-entry">Canan E，Vasilev J，2019. Lecture notes on resource allocation[EB]. 2019-05-22.</div>
   <div class="csl-entry">Carcavilla González N，2015. Auditory sensory therapy: Brain activation through music[M]//Garcia Meilán J J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis：67-86.</div>
   <div class="csl-entry">Cardoza D，Morris J K，Myers H F，et al.，2000. Acculturative Stress Inventory (ASI)：TC022704[DS]. ETS TestLink（2000）.</div>
   <div class="csl-entry">Centers for Disease Control and Prevention，2018. People at high risk of developing flu-related complications[EB/OL]. （2018-01-23）. <a href="https://www.cdc.gov/flu/about/disease/high_risk.htm">https://www.cdc.gov/flu/about/disease/high_risk.htm</a>.</div>
@@ -665,7 +665,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Hiremath S C，Kumar S，Lu F，et al.，2016. Using metaphors to present concepts across different intellectual domains：9,367,592[P]. 2016.</div>
   <div class="csl-entry">Ho H-K，2014. Teacher preparation for early childhood special education in Taiwan[PP/OL]. ERIC（2014）. <a href="https://files.eric.ed.gov/fulltext/ED545393.pdf">https://files.eric.ed.gov/fulltext/ED545393.pdf</a>.</div>
   <div class="csl-entry">Hollander M M，2017. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment：10289373[D]. University of Wisconsin–Madison.</div>
-  <div class="csl-entry">Housand B，2016. Game on! Integrating games and simulations in the classroom[A]. 2016.</div>
+  <div class="csl-entry">Housand B，2016. Game on! Integrating games and simulations in the classroom[EB]. 2016.</div>
   <div class="csl-entry">Huestegge S M，Raettig T，Huestegge L，2019. Are face-incongruent voices harder to process? Effects of face–voice gender incongruency on basic cognitive information processing[J/OL]. Experimental Psychology，2019. <a href="https://doi.org/10.1027/1618-3169/a000440">https://doi.org/10.1027/1618-3169/a000440</a>.</div>
   <div class="csl-entry">Hutcheson V H，2012. Dealing with dual differences: Social coping strategies of gifted and lesbian, gay, bisexual, transgender, and queer adolescents[D]. The College of William &#38; Mary.</div>
   <div class="csl-entry">Jackson P，2001. The lord of the rings: The fellowship of the ring[Z/four-disc special extended ed. on DVD]. WingNut Films; The Saul Zaentz Company.</div>
@@ -679,9 +679,9 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Lewin K，1999. Group decision and social change[M]//Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association：265-284.</div>
   <div class="csl-entry">Lichtenstein J，2013. Profile of veteran business owners: More young veterans appear to be starting businesses：1[R]. U.S. Small Business Administration, Office of Advocacy.</div>
   <div class="csl-entry">Lilienfeld S O，2018. Archives of scientific psychology：Heterodox issues in psychology[J]. 6. 51-104.</div>
-  <div class="csl-entry">Lippincott T，Poindexter E K，2019. Emotion recognition as a function of facial cues: Implications for practice[A]. 2019.</div>
+  <div class="csl-entry">Lippincott T，Poindexter E K，2019. Emotion recognition as a function of facial cues: Implications for practice[Z]. 2019.</div>
   <div class="csl-entry">Lynch J，1995. Who shot Mr. Burns? (Part One)：Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation.</div>
-  <div class="csl-entry">Mack R，Spake G，2018. Citing open source images and formatting references for presentations[A]. 2018.</div>
+  <div class="csl-entry">Mack R，Spake G，2018. Citing open source images and formatting references for presentations[EB]. 2018.</div>
   <div class="csl-entry">Maddox S，Hurling J，Stewart E，et al.，2016. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z]. New Orleans, LA, United States.</div>
   <div class="csl-entry">Madigan S，2019. Narrative therapy[M]. 2nd ed. American Psychological Association.</div>
   <div class="csl-entry">Malle L，1987. Goodbye children[Z]. Nouvelles Éditions de Films.</div>
@@ -702,7 +702,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">National Nurses United，n.d. What employers should do to protect nurses from Zika[EB/OL]. <a href="https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika">https://www.nationalnursesunited.org/pages/what-employers-should-do-to-protect-rns-from-zika</a>.</div>
   <div class="csl-entry">News From Science，2018. These frogs walk instead of hop. https://scimag.2KlriwH[EB/OL]. （2018-06-26）. <a href="https://www.facebook.com/ScienceNOW/videos/10155508587605108">https://www.facebook.com/ScienceNOW/videos/10155508587605108</a>.</div>
   <div class="csl-entry">Oregan Youth Authority，2011. Recidivism outcomes[DS]. （2011）.</div>
-  <div class="csl-entry">O’Shea M，2018. Understanding proactive behavior in the workplace as a function of gender[A]. 2018.</div>
+  <div class="csl-entry">O’Shea M，2018. Understanding proactive behavior in the workplace as a function of gender[Z]. 2018.</div>
   <div class="csl-entry">Pachur T，Scheibehenne B. Unpacking buyer-seller differences in valuation from experience: A cognitive modeling approach[J]. Psychonomic Bulletin &#38; Review.</div>
   <div class="csl-entry">Pearson J，2018. Fat talk and its effects on state-based body image in women[EB/OL]. （2018-09-27/30）. <a href="http://bit.ly/2XGSThP">http://bit.ly/2XGSThP</a>.</div>
   <div class="csl-entry">Perkins D，2018. <i>The good place</i> ends its remarkable second season with irrational hope, unexpected gifts, and a smile[EB/OL]. （2018-02-01）. <a href="https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316">https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316</a>.</div>
@@ -745,7 +745,7 @@ Qian et al. （2009b）<br>
   <div class="csl-entry">Wood G，1930. American gothic[A]. Chicago, IL, United States：Art Institute of Chicago，1930.</div>
   <div class="csl-entry">World Health Organization，2018. Questions and answers on immunization and vaccine safety[EB/OL]. （2018-03）. <a href="https://www.who.int/features/qa/84/en/">https://www.who.int/features/qa/84/en/</a>.</div>
   <div class="csl-entry">World Health Organization，2019. International statistical classification of diseases and related health problems[R]. 11th ed. World Health Organization.</div>
-  <div class="csl-entry">Yoo J，Miyamoto Y，Rigotti A，et al.，2016. Linking positive affect to blood lipids: A cultural perspective[A]. 2016.</div>
+  <div class="csl-entry">Yoo J，Miyamoto Y，Rigotti A，et al.，2016. Linking positive affect to blood lipids: A cultural perspective[Z]. 2016.</div>
   <div class="csl-entry">Yousafzai M，2016. We are displaced: My journey and stories from refugee girls around the world[M].</div>
   <div class="csl-entry">Zalta E N，2019. The Stanford encyclopedia of philosophy[M]. Summer 2019 ed. Stanford University.</div>
   <div class="csl-entry">Zeitz MOCAA [@zeitzmocaa]，2018. Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by[EB/OL]. （2018-11-26）. <a href="https://www.instagram.com/p/BqpHpjFBs3b">https://www.instagram.com/p/BqpHpjFBs3b</a>.</div>

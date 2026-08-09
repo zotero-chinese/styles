@@ -372,10 +372,10 @@
 <sup>101</sup> Tristram M, Skarshewski P, Tristram I, et al. Storage and delivery system: AU2022228203A1[P]. 2022-10-06.<br>
 <sup>102</sup> 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.<br>
 <sup>103</sup> 北京鲁迅博物馆（北京新文化运动纪念馆）. 北京鲁迅博物馆志愿服务章程[EB/OL]. (2021-04-21)[2023-05-02]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>.<br>
-<sup>104</sup> 杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]. 2022.<br>
+<sup>104</sup> 杨立华. 《庄子》读不懂？看完这一篇“导读”就明白了[EB]. 2022.<br>
 <sup>105</sup> 高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. [2025-06-21]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>.<br>
 <sup>106</sup> 许振超：“好好干，当一个好工人”[EB/OL]. (2025-02-17)[2025-06-22]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>.<br>
-<sup>107</sup> [《昨日之歌》图书封面][Z]. 2015.<br>
+<sup>107</sup> [《昨日之歌》图书封面][EB]. 2015.<br>
 <sup>108</sup> 仉尚航. 开放世界中的实体基础模型[EB/OL]. (2024-12-24)[2025-01-02]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>.<br>
 <sup>109</sup> 西黄丸[EB/OL]. (2023-10-07)[2025-08-26]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>.<br>
 <sup>110</sup> Library of Congress[EB/OL]. [2020-06-12]. <a href="https://www.loc.gov/">https://www.loc.gov/</a>.<br>
@@ -384,8 +384,8 @@
 <sup>113</sup> Bevington D, Brown J R. William Shakespeare[EB/OL]. (2025-01-01)[2025-01-03]. <a href="https://www.britannica.com/biography/William-Shakespeare">https://www.britannica.com/biography/William-Shakespeare</a>.<br>
 <sup>114</sup> Zotero. [Zotero download][EB/OL]. [2024-04-08]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a>.<br>
 <sup>115</sup> 李鸿章. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事: 04-01-35-0399-039[A]. 北京: 中国第一历史档案馆, 1887.<br>
-<sup>116</sup> 湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆, 1931.<br>
-<sup>117</sup> 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆, 1949.<br>
+<sup>116</sup> 湖北省建设厅. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[A]. 武汉: 湖北省档案馆, 1931.<br>
+<sup>117</sup> 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[A]. 武汉: 武汉大学档案馆, 1949.<br>
 <sup>118</sup> Fitzwilliam H. [Letter to Bess of Hardwick][A]. 1570.<br>
 <sup>119</sup> 胡健民. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社, 2021.<br>
 <sup>120</sup> 刘祥沈. 沈阳市政区图[CM]. 武汉: 武汉大学出版社, 2016.<br>
@@ -651,7 +651,7 @@
 <sup>134</sup> 新浪微博 xiaolwl. [EB/OL]. (2020-01-31). <a href="https://weibo.com/1139098205/4466768535861595">https://weibo.com/1139098205/4466768535861595</a>.<br>
 <sup>135</sup> 刘松山. 失信惩戒立法的三大问题[EB]. 2019.<br>
 <sup>136</sup> 莫纪宏. 论“中国式现代化”的法治保障[EB]. 2024.<br>
-<sup>137</sup> 新型冠状病毒肺炎，情况如何？[Z]//中央电视台“新闻1+1”栏目. 2020.<br>
+<sup>137</sup> 新型冠状病毒肺炎，情况如何？[EB]//中央电视台“新闻1+1”栏目. 2020.<br>
 <sup>138</sup> xxx. [Z]. 《最高人民法院公报》编辑部, 2000.<br>
 <sup>139</sup> [Z]. 2001.<br>
 <sup>140</sup> 王名扬教授. [A]. 2002.<br>
@@ -661,7 +661,7 @@
 <sup>144</sup> 姜明安. 新时代中国行政法学的转型与使命[C]//行政法学研究会. 2018.<br>
 <sup>145</sup> 陈鹏. 基本权利保障中的法律保留：历史变迁与本土建构[C]//第五届中国宪法学青年论坛会议论文集. 2022.<br>
 <sup>146</sup> 李松锋. 游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究[D]. 北京: 中国政法大学, 2013.<br>
-<sup>147</sup> 雷经天. 关于边区司法工作检查情形: 15/149[Z]. 陕西省档案馆, 1943.<br>
+<sup>147</sup> 雷经天. 关于边区司法工作检查情形: 15/149[A]. 陕西省档案馆, 1943.<br>
 <sup>148</sup> 中华人民共和国民事诉讼法（试行）[A].<br>
 <sup>149</sup> 民事诉讼法（试行）[A].<br>
 <sup>150</sup> 中华人民共和国刑法修正案（十）[A].<br>
@@ -829,9 +829,9 @@
 <sup>81</sup> Lichtenstein J. Profile of veteran business owners: More young veterans appear to be starting businesses: 1[R]. U.S. Small Business Administration, Office of Advocacy, 2013.<br>
 <sup>82</sup> Harwell M. Don’t expect too much: The limited usefulness of common SES measures and a prescription for change[R]. National Education Policy Center, 2018.<br>
 <sup>83</sup> U.S. Food and Drug Administration. FDA authorizes first interoperable insulin pup intended to allow patients to customize treatment through their individual diabetes management devices[R]. U.S. Food and Drug Administration, 2019.<br>
-<sup>84</sup> Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[Z]. Milwaukee, WI, United States, 2017.<br>
+<sup>84</sup> Fistek A, Jester E, Sonnenberg K. Everybody’s got a little music in them: Using music therapy to connect, engage, and motivate[EB]. Milwaukee, WI, United States, 2017.<br>
 <sup>85</sup> Maddox S, Hurling J, Stewart E, et al. If mama ain’t happy, nobody’s happy: The effect of parental depression on mood dysregulation in children[Z]. New Orleans, LA, United States, 2016.<br>
-<sup>86</sup> Pearson J. Fat talk and its effects on state-based body image in women[Z]. Sydney, NSW, Australia, 2018.<br>
+<sup>86</sup> Pearson J. Fat talk and its effects on state-based body image in women[EB]. Sydney, NSW, Australia, 2018.<br>
 <sup>87</sup> De Boer D, LaFavor T. The art and significance of successfully identifying resilient individuals A person-focused approach[Z]//Perspectives on resilience: Conceptualization, measurement, and enhancement. Portland, OR, United States, 2018.<br>
 <sup>88</sup> Harris L. Instructional leadership perceptions and practices of elementary school leaders[D]. University of Virginia, 2014.<br>
 <sup>89</sup> Hollander M M. Resistance to authority: Methodological innovations and new lessons from the Milgram experiment: 10289373[D]. University of Wisconsin–Madison, 2017.<br>
@@ -857,45 +857,45 @@
 <sup>109</sup> SR Research. Eyelink 1000 plus[CP/OL]. 2016. <a href="https://www.sr-research.com/eyelink1000plus.html">https://www.sr-research.com/eyelink1000plus.html</a>.<br>
 <sup>110</sup> Tactile Labs. Latero tactile display[CP/OL]. 2015. <a href="https://www.tactilelabs.com/products/haptics/latero-tactile-display/">https://www.tactilelabs.com/products/haptics/latero-tactile-display/</a>.<br>
 <sup>111</sup> Epocrates. Epocrates medical references[CP/OL]. App Store, 2019. <a href="https://itunes.apple.com/us/app/epocrates/id281935788?mt=8">https://itunes.apple.com/us/app/epocrates/id281935788?mt=8</a>.<br>
-<sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline[Z]//Epocrates medical references. Google Play Store, 2019.<br>
+<sup>112</sup> Epocrates. Interaction Check: Aspirin + Sertraline[EB]//Epocrates medical references. Google Play Store, 2019.<br>
 <sup>113</sup> Tellegen A, Ben-Porath Y S. Minnesota Multiphasic Personality Inventory-2 Restructured Form (MMPI-2-RF): Technical Manual[R]. Pearson, 2011.<br>
-<sup>114</sup> Project Implicit. Gender-Science IAT[Z].<br>
+<sup>114</sup> Project Implicit. Gender-Science IAT[EB].<br>
 <sup>115</sup> Alonso-Tapia J, Nieto C, Merino-Tejedor E, et al. Situated Goals Questionnaire for University Students (SGQ-U, CMS-U)[DS]. PsycTESTS, 2018.<br>
 <sup>116</sup> Cardoza D, Morris J K, Myers H F, et al. Acculturative Stress Inventory (ASI): TC022704[DS]. ETS TestLink, 2000.<br>
 <sup>117</sup> Forman M. One flew over the cuckoo’s nest[Z]. United Artists, 1975.<br>
-<sup>118</sup> Accelerated experiental dynamic psychotherapy (AEDP) supervision[Z]. American Pychological Association, 2017.<br>
+<sup>118</sup> Accelerated experiental dynamic psychotherapy (AEDP) supervision[EB]. American Pychological Association, 2017.<br>
 <sup>119</sup> Jackson P. The lord of the rings: The fellowship of the ring[Z]. WingNut Films; The Saul Zaentz Company, 2001.<br>
 <sup>120</sup> Malle L. Goodbye children[Z]. Nouvelles Éditions de Films, 1987.<br>
 <sup>121</sup> The wire[Z]. Blown Deadline Productions; HBO, 2002/2008.<br>
 <sup>122</sup> Barris K. Lemons: Season 3, Episode 12[Z]//Black-ish. Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios, 2017.<br>
 <sup>123</sup> Lynch J. Who shot Mr. Burns? (Part One): Season 6, Episode 25[Z]//The Simpsons. Gracie Films; Twentieth Century Fox Film Corporation, 1995.<br>
-<sup>124</sup> Giertz S. Why you should make useless things[Z]. TED Conferences, 2018.<br>
-<sup>125</sup> TED. Brené Brown: Listening to shame[Z]. YouTube, 2012.<br>
-<sup>126</sup> Goldberg J F. Evaluating adverse drug effects[Z]. American Psychiatric Association, 2018.<br>
-<sup>127</sup> Cutts S. Happiness[Z]. Vimeo, 2017.<br>
-<sup>128</sup> Fogarty M. How to diagram a sentence (absolute basics)[Z]. YouTube, 2016.<br>
-<sup>129</sup> University of Oxford. How do geckos walk on water?[Z]. YouTube, 2016.<br>
+<sup>124</sup> Giertz S. Why you should make useless things[EB]. TED Conferences, 2018.<br>
+<sup>125</sup> TED. Brené Brown: Listening to shame[EB]. YouTube, 2012.<br>
+<sup>126</sup> Goldberg J F. Evaluating adverse drug effects[EB]. American Psychiatric Association, 2018.<br>
+<sup>127</sup> Cutts S. Happiness[EB]. Vimeo, 2017.<br>
+<sup>128</sup> Fogarty M. How to diagram a sentence (absolute basics)[EB]. YouTube, 2016.<br>
+<sup>129</sup> University of Oxford. How do geckos walk on water?[EB]. YouTube, 2016.<br>
 <sup>130</sup> Bach J S. The Brandenburg concertos: Concertos BVW 1043 &#38; 1060[Z]. Decca, 2010.<br>
 <sup>131</sup> Bowie D. Blackstar[Z]. Columbia, 2016.<br>
 <sup>132</sup> van Beethoven L. Symphony No. 3 in E-flat major[Z]//Beethoven: Complete Symphonies. Brilliant Classics, 2012.<br>
 <sup>133</sup> Beyoncé. Formation[Z]//Lemonade. Parkwood; Columbia, 2016.<br>
 <sup>134</sup> Childish Gambino. This is America[Z]. mcDJ; RCA, 2018.<br>
 <sup>135</sup> Lamar K. Humble[Z]//Damn. Aftermath Entertainment; Interscope Records; Top Dawg Entertainment, 2017.<br>
-<sup>136</sup> Vedantam S. Hidden brain[Z]. NPR, 2015.<br>
-<sup>137</sup> Glass I. Amusement park: 443[Z]//This American Life. WBEZ Chicago, 2011.<br>
-<sup>138</sup> de Beauvoir S. Simone de Beauvoir discusses the art of writing[Z]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.<br>
-<sup>139</sup> King M L Jr. I have a dream[Z]. American Rhetoric, 1963.<br>
-<sup>140</sup> Delacroix E. Faust attempts to seduce Marguerite[Z]. Paris, France: The Louvre, 1826/1827.<br>
-<sup>141</sup> Wood G. American gothic[Z]. Chicago, IL, United States: Art Institute of Chicago, 1930.<br>
-<sup>142</sup> GDJ. Neural network deep learning prismatic[Z]. Openclipart, 2018.<br>
-<sup>143</sup> Rossman J, Palmer R. Sorting through our space junk[Z]. World Science Festival, 2015.<br>
+<sup>136</sup> Vedantam S. Hidden brain[EB]. NPR, 2015.<br>
+<sup>137</sup> Glass I. Amusement park: 443[EB]//This American Life. WBEZ Chicago, 2011.<br>
+<sup>138</sup> de Beauvoir S. Simone de Beauvoir discusses the art of writing[A]. Studs Terkel Radio Archive; The Chicago History Museum, 1960.<br>
+<sup>139</sup> King M L Jr. I have a dream[EB]. American Rhetoric, 1963.<br>
+<sup>140</sup> Delacroix E. Faust attempts to seduce Marguerite[A]. Paris, France: The Louvre, 1826/1827.<br>
+<sup>141</sup> Wood G. American gothic[A]. Chicago, IL, United States: Art Institute of Chicago, 1930.<br>
+<sup>142</sup> GDJ. Neural network deep learning prismatic[A]. Openclipart, 2018.<br>
+<sup>143</sup> Rossman J, Palmer R. Sorting through our space junk[A]. World Science Festival, 2015.<br>
 <sup>144</sup> Cable D. The racial dot map[CM]. University of Virginia: Weldon Cooper Center for Public Service, 2013.<br>
 <sup>145</sup> Google. Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru[CM]. [2020].<br>
-<sup>146</sup> McCurry S. Afghan girl[Z]. National Geographic, 1985.<br>
-<sup>147</sup> Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[Z]. The Pulitzer Prizes, 2016.<br>
-<sup>148</sup> Canan E, Vasilev J. Lecture notes on resource allocation[Z]. Department of Management Control and Information Systems, University of Chile, 2019.<br>
-<sup>149</sup> Housand B. Game on! Integrating games and simulations in the classroom[Z]. SlideShare, 2016.<br>
-<sup>150</sup> Mack R, Spake G. Citing open source images and formatting references for presentations[Z]. Canvas@FNU, 2018.<br>
+<sup>146</sup> McCurry S. Afghan girl[A]. National Geographic, 1985.<br>
+<sup>147</sup> Rinaldi J. Photograph series of a boy who finds his footing after abuse by those he trusted[A]. The Pulitzer Prizes, 2016.<br>
+<sup>148</sup> Canan E, Vasilev J. Lecture notes on resource allocation[EB]. Department of Management Control and Information Systems, University of Chile, 2019.<br>
+<sup>149</sup> Housand B. Game on! Integrating games and simulations in the classroom[EB]. SlideShare, 2016.<br>
+<sup>150</sup> Mack R, Spake G. Citing open source images and formatting references for presentations[EB]. Canvas@FNU, 2018.<br>
 <sup>151</sup> APA Education [@APAEducation]. College students are forming mental-health Clubs—and they’re making a difference @washingtonpost [Thumbnail with link attached][EB/OL]. (2018-06-29). <a href="https://twitter.com/apaeducation/status/1012810490530140161">https://twitter.com/apaeducation/status/1012810490530140161</a>.<br>
 <sup>152</sup> Badlands National Park [@BadlandsNPS]. Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodoversity[EB/OL]. (2018-02-26). <a href="https://twitter.com/BadlandsNPS/status/968196500412133379">https://twitter.com/BadlandsNPS/status/968196500412133379</a>.<br>
 <sup>153</sup> White B. I treasure every minute we spent together #koko [image attached][EB/OL]. (2018-06-21). <a href="https://twitter.com/BettyMWhite/status/1009951892846227456">https://twitter.com/BettyMWhite/status/1009951892846227456</a>.<br>
@@ -928,7 +928,7 @@
 <sup>180</sup> Lilly Leadbetter Fair Play Act of 2009: 111-2[A]//Stat.: Vol. 123. 2009: 5.<br>
 <sup>181</sup> Patsy Mink Equal Opportunity in Education Act[A]//U.S.C: Vol. 20. 1972.<br>
 <sup>182</sup> Florida Mental Health Act[A]//Fla. Stat. 2009.<br>
-<sup>183</sup> Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[Z]. 2016.<br>
+<sup>183</sup> Federal real property reform: How cutting red tape and better management count achieve billions in savings, U.S. Senate Committee on Homeland Security and Governmental Affairs[EB]. 2016.<br>
 <sup>184</sup> Strengthening the federal student loan program for borrowers: Hearing before the U.S. Senate Committee on Health, Education, Labor &#38; Pensions[A]. 2014.<br>
 <sup>185</sup> Mental Health on Campus Improvement Act: H.R. 1100[A]. 2013.<br>
 <sup>186</sup> S. Res. 438[A]//Cong. Rec.: Vol. 162. 2016: 2394.<br>

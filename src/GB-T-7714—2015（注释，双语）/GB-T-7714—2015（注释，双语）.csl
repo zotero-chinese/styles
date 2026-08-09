@@ -85,8 +85,8 @@
       </group>
     </group>
     <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
+      <text macro="entry-type-id"/>
+      <text macro="entry-medium-id"/>
     </group>
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
@@ -108,7 +108,7 @@
     </choose>
   </macro>
   <!-- 文献类型标识 -->
-  <macro name="type-id">
+  <macro name="entry-type-id">
     <choose>
       <if type="article">
         <!-- 预印本使用“EB”（2005 和 2015 版国标） -->
@@ -154,13 +154,19 @@
       <else-if type="thesis">
         <text value="D"/>
       </else-if>
+      <else-if variable="archive">
+        <text value="A"/>
+      </else-if>
+      <else-if variable="DOI URL" match="any">
+        <text value="EB"/>
+      </else-if>
       <else>
         <text value="Z"/>
       </else>
     </choose>
   </macro>
   <!-- 文献载体标识 -->
-  <macro name="medium-id">
+  <macro name="entry-medium-id">
     <choose>
       <if variable="medium">
         <text variable="medium"/>
