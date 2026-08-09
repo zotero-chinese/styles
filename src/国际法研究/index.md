@@ -25,55 +25,29 @@
 <sup>15</sup> “The WTO at 25: A Message from the Director-General”, WTO official website, <a href="https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm">https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm</a> (last visited 2 March 2020).<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔1〕</div><div class="csl-right-inline">周鲠生：《国际法》，商务印书馆1976年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔2〕</div><div class="csl-right-inline">王铁崖主编：《国际法》，法律出版社1995年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔3〕</div><div class="csl-right-inline">Malcolm N. Shaw, <i>International Law</i>, (Cambridge University Press, 6th edn, 2008).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔4〕</div><div class="csl-right-inline">徐宏：《人类命运共同体与国际法》，载《国际法研究》2018年第5期。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔5〕</div><div class="csl-right-inline">James Crawford, “Revising the Draft Articles on State Responsibility”, (1999) 10 <i>European Journal of International Law</i> 435.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔6〕</div><div class="csl-right-inline">Thomas Buergenthal, “To Respect and to Ensure: State Obligations and Permissible Derogations”, in L. Henkin ed., The International Bill of Rights: The Covenant on Civil and Political Rights, (Columbia University Press, 1981).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔7〕</div><div class="csl-right-inline">[英]劳特派特：《奥本海国际法》（第8版上卷），王铁崖、陈体强译，商务印书馆1971年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔8〕</div><div class="csl-right-inline">刘楠来：《运用国际海洋法建设海洋强国》，载《经济参考报》2013年7月23日，第8版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔9〕</div><div class="csl-right-inline">Peter Waldman and Timothy Mapes, “A Global Journal Report: Administration Sets New Hurdles for Human-Rights Cases”, Wall Street Journal, 7 August 2002, B1.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔10〕</div><div class="csl-right-inline">《阿富汗局势》。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔11〕</div><div class="csl-right-inline">The European Parliament, the Council of the European Union and the European Commission, Charter of Fundamental Rights of the European Union, Pub. L. No. 2012/C 326/02 (2012).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔12〕</div><div class="csl-right-inline">交通运输部南海救助局与阿昌格罗斯投资公司、香港安达欧森有限公司上海代表处海难救助合同纠纷案，最高人民法院（2016）最高法民再61号民事判决书。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔13〕</div><div class="csl-right-inline">Gabčíkovo-Nagymaros Project (Hungary v. Slovakia), No. 123 Judgment 7 (1997).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔14〕</div><div class="csl-right-inline">《中国政府支持联合国改革》，载新华网，<a href="http://news.xinhuanet.com/world/2005-06/02/content_3036195.htm">http://news.xinhuanet.com/world/2005-06/02/content_3036195.htm</a>，最后访问时间：2014年2月14日。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">〔15〕</div><div class="csl-right-inline">“The WTO at 25: A Message from the Director-General”, WTO official website, <a href="https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm">https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm</a> (last visited 2 March 2020).</div>
-  </div>
-</div>
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<sup>1</sup> 周鲠生：《国际法》，商务印书馆1976年版。<br>
+<sup>2</sup> 王铁崖主编：《国际法》，法律出版社1995年版。<br>
+<sup>3</sup> Malcolm N. Shaw, <i>International Law</i>, (Cambridge University Press, 6th edn, 2008).<br>
+<sup>4</sup> 徐宏：《人类命运共同体与国际法》，载《国际法研究》2018年第5期。<br>
+<sup>5</sup> James Crawford, “Revising the Draft Articles on State Responsibility”, (1999) 10 <i>European Journal of International Law</i> 435.<br>
+<sup>6</sup> Thomas Buergenthal, “To Respect and to Ensure: State Obligations and Permissible Derogations”, in L. Henkin ed., The International Bill of Rights: The Covenant on Civil and Political Rights, (Columbia University Press, 1981).<br>
+<sup>7</sup> [英]劳特派特：《奥本海国际法》（第8版上卷），王铁崖、陈体强译，商务印书馆1971年版。<br>
+<sup>8</sup> 刘楠来：《运用国际海洋法建设海洋强国》，载《经济参考报》2013年7月23日，第8版。<br>
+<sup>9</sup> Peter Waldman and Timothy Mapes, “A Global Journal Report: Administration Sets New Hurdles for Human-Rights Cases”, Wall Street Journal, 7 August 2002, B1.<br>
+<sup>10</sup> 《阿富汗局势》。<br>
+<sup>11</sup> The European Parliament, the Council of the European Union and the European Commission, Charter of Fundamental Rights of the European Union, Pub. L. No. 2012/C 326/02 (2012).<br>
+<sup>12</sup> 交通运输部南海救助局与阿昌格罗斯投资公司、香港安达欧森有限公司上海代表处海难救助合同纠纷案，最高人民法院（2016）最高法民再61号民事判决书。<br>
+<sup>13</sup> Gabčíkovo-Nagymaros Project (Hungary v. Slovakia), No. 123 Judgment 7 (1997).<br>
+<sup>14</sup> 《中国政府支持联合国改革》，载新华网，<a href="http://news.xinhuanet.com/world/2005-06/02/content_3036195.htm">http://news.xinhuanet.com/world/2005-06/02/content_3036195.htm</a>，最后访问时间：2014年2月14日。<br>
+<sup>15</sup> “The WTO at 25: A Message from the Director-General”, WTO official website, <a href="https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm">https://www.wto.org/english/news_e/news20_e/dgra_01jan20_e.htm</a> (last visited 2 March 2020).<br>
+
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

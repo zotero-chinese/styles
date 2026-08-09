@@ -39,6 +39,9 @@
   <div class="csl-entry">Wright, P., “Reactions to an Ads contents versus judgements of Ads impact”, In: J. C. Olson and K. Sentis, eds. <i>Advertising and Consumer Psychology</i>. Vol. 3, New York: Praeger, 1986, 108～117.</div>
 </div>
 
+## 样式测试
+
+
 ## 默认测试
 
 ### 引注

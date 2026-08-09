@@ -51,6 +51,123 @@
   </div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">刘少奇. 论共产党员的修养. 北京: 人民出版社, 1962.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Morton L T. Use of Medical Literature. London: Butterworths, 1977.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">中国地质学会. 地质评论. 1936, 1(1). 北京: 地质出版社, 1936.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Manufacturing and Primary Industries Division, Statistics Canada. Communications Equipment Manufacturers. 1970. Ottawa: Statistics Canada, 1970.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Feist W, Wahnert C, Feistauer E. Anordnung zur lichtelektrischen Erfassung der Mitte eines Lichtfeldes: 608626. 1979-01-15.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Weinstein L, Swertz M N. Pathogenic Properties of Invading Microorganism//Sodeman W A Jr, Sodeman W A. Pathologic Physiology: Mechanisms of Disease. Philadelphia: Saunders, 1974: 457-472.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">李四光. 地壳构造与地壳运动. 中国科学, 1973(4): 400-429.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Mastri A R. Neuropathology of Diabetic Neurogenic Bladder. Annals of Internal Medicine, 1980, 92(2.2): 316-318.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">上海第一医院. 医用药理学. 北京: 人民卫生出版社, 1977: 24.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">Garattini S. Advances in Pharmacology and Chemotherapy: Vol. 15. Academic Press, 1978: 350.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Adrian R H. Reviews of Physiology, Biochemistry and Pharmacology: Vol. 83. Springer, 1978: 226.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Boulton G S. Boulder Shapes and Grain-Size Distributions of Debris as Indicators of Transport Paths through a Glacier and till Genesis. Sedimentology, 1978, 25(6): 773-799.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">Boulton G S. Processes and Patterns of Glacial Erosion//Coates D R. Glacial Geomorphology. London: Allen &#38; Unwin, 1982: 41-87.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Crowell J C, Frakes L A. Late Paleozoic Glaciation: Part IV, Australia. The Bulletin of the Geological Society of America, 1971, 82(9): 2515-2540.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">Dreimanis A, Reavely G H. Differentiation of the Lower and the Upper till along the North Shore of Lake Erie. Journal of Sedimentary Petrology, 1953, 23(4): 238-259.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">Crane D. Invisible College. Chicago: Univ. of Chicago Press, 1972.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">Stieg M F. The Information Needs of Historians. College &#38; Research Libraries, 1981, 42(6): 549-560.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and Genesis of Nodular Chalks and Hardgrounds in the Upper Cretaceous of Southern England. Sedimentology, 1975, 22: 311-386.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">Kennedy W J, Garrison R E. Morphology and Genesis of Nodular Phosphates in the Cenomanian Glauconitic Marl of South-East England. Lethaia, 1975, 8(4): 339-360.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">刘国钧, 陈绍业, 王凤蕭. 图书馆目录. 北京: 高等教育出版社, 1957.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">中国科学院南京土壤研究所西沙群岛考察组. 我国西沙群岛的土壤和鸟粪磷矿. 北京: 科学出版社, 1977.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">Borko H, Bernier C L. Indexing Concepts and Methods. New York: Academic Pr., 1978.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">International Federation of Library Association and Institutions. Names of Persons: National Usages for Entry in Catalogues. 3rd ed. IFLA International Office for UBC, 1977.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">Rosenthall E M. Proceedings of the Fifth Canadian Mathematical Congress: University of Montreal, 1961. Toronto: University of Toronto Pr., 1963.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">World Health Organization. Factors Regulating the Immune Response: Report of WHO Scientific Group. Geneva: WHO, 1970.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">张筑生. 微分半动力系统的不变集. 北京大学数学研究所学位论文. 1983.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">Cairns B R. Infrared Spectroscopic Studies on Solid Oxygen. Univ. of California dissertation. 1965.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">傅承义, 陈运泰, 祁贵中. 地球物理学基础. 北京: 科学出版社, 1985: 447.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">黄蕴慧. 国际矿物学研究的动向//程裕淇. 世界地质科技发展动向. 北京: 地质出版社, 1982: 38-39.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">Buseck P R, Nord G L Jr, Veblen D R. Subsolidus Phenomena in Pyroxenes//Prewitt C T. Reviews in Mineralogy, Pyroxenes: Vol. 7. Mineralogical Society of America, 1980: 117-211.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">Le Maitre R W. Numerical Petrology: Statistical Interpretation of Geochemical Data. Amsterdam: Elsevier, 1982: 210.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">华罗庚, 王元. 论一致分布与近似分析：数论方法（I）. 中国科学, 1973(4): 339-357.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">陶仁骥. 密码学与数学. 自然杂志, 1984, 7(7): 527.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">亚洲地质图编图组. 亚洲地层与地质历史概述. 地质学报, 1978, 3: 194-208.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">赵均宇. 略论辛交革命前后的章太炎. 光明日报, 1977-03-24(4).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">Hewitt J A. Technical Services in 1983. Library Resources and Technical Services, 1984, 28(3): 205-218.</div>
+  </div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

@@ -31,6 +31,9 @@
   <div class="csl-entry">Yu X., Liu Y., Chai Y. T., &#38; Sun H. B. (于潇, 刘义, 柴跃廷, &#38; 孙宏波). (2012). The model for reviewing and registering the qualifications of entities in a trustworthy online pharmaceutical trading environment. <i>Journal of Tsinghua University (Science and Technology)</i>, <i>52</i>(11), 1518-1523. [2012, 互联网药品可信交易环境中主体资质审核备案模式. 清华大学学报（自然科学版）, <i>52</i>(11), 1518-1523.]</div>
 </div>
 
+## 样式测试
+
+
 ## 默认测试
 
 ### 引注

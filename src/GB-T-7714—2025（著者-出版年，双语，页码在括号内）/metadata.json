@@ -19,6 +19,7 @@
   "updated": "2026-08-06T20:53:36+08:00",
   "citations": "（张三，2008，42）<br>\n张三 （2008，42）<br>\n（Jason，2008，42）<br>\nJason （2008，42）<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">张三，2008. 引注测试 2.1:1[M].</div>\n  <div class=\"csl-entry\">Jason J，2008. Citation test 2.1:2[M].</div>\n</div>",
+  "test_result": "",
   "tags": [
     "姓名小写",
     "有标题",

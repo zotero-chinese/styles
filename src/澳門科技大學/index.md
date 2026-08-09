@@ -37,6 +37,25 @@
   <div class="csl-entry">黃堅厚（1978）。語義分析法。載於張國樞等（主編），<b>社會及行為科學研究法</b>（頁 721-740）。</div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">Borgman, C. L. (1988). Human factors in the use of information systems: Research methods and results. Information research: Research methods in library and information science (pp. 139-165). London: Taylor Graham.</div>
+  <div class="csl-entry">Calms, R. B. (1965). <i>Infrared spectroscopic studies on solid oxygen</i>. Doctoral dissertation, University of California at Berkeley.</div>
+  <div class="csl-entry">James, N. E. (1988). Two Sides of Paradise: The Eden Myth According to Kirk and Spock. In D. Palumbo (Ed.), <i>Spectrum of the fantastic</i> (pp. 219-223). Westport, CT: Greenwood.</div>
+  <div class="csl-entry">Okuda, M., &#38; Okuda, D. (1993). <i>Star Trek Chronology: The History of the Future</i> (First Edition). New York: Pocket Books.</div>
+  <div class="csl-entry">Powers, J. M., &#38; Cookson, P. W. (1999). The Politics of School Choice Research: Fact, Fiction, and Statistics. <i>Educational Policy</i>, <i>13</i>(1), 104-122.</div>
+  <div class="csl-entry">方兆本、朱俊鹏（2012）。中国金融稳定的度量及预测。<b>金融论坛</b>，10，4-10。</div>
+  <div class="csl-entry">毛璐（2010）。<b>大学毕业生职业适应性问题研究</b>。博士论文，湖南师范大学。</div>
+  <div class="csl-entry">何某某（2008）。<b>災害與科技對策</b>。北京：中國社會科學出版社。</div>
+  <div class="csl-entry">張保隆、謝寶煖、盧昆宏（1997）。品質管理策略與圖書館業務機能相關性之研究。1997 海峽兩岸管理科學學術研討會論文集（頁 190-195）。台北：私立銘傳管理學院。</div>
+  <div class="csl-entry">黃堅厚（1978）。語義分析法。載於張國樞等（主編），<b>社會及行為科學研究法</b>（頁 721-740）。</div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

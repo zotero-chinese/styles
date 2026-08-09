@@ -8,38 +8,251 @@
 
 ### 引注
 
-<sup>1</sup> 扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.<br>
-<sup>2</sup> Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.<br>
-<sup>3</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
-<sup>4</sup> Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.<br>
-<sup>5</sup> 汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.<br>
-<sup>6</sup> Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.<br>
-<sup>7</sup> Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.<br>
-<sup>8</sup> Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 326-329.<br>
+<sup>1</sup> 库恩. 科学革命的结构：第4版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
+<sup>2</sup> Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.<br>
+<sup>3</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
+<sup>4</sup> Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>
+<sup>5</sup> 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.<br>
+<sup>6</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of Eucalyptus grandis[J]. Nature, 2014, 510: 356-362.<br>
+<sup>7</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of Eucalyptus grandis[J]. Nature, 2014, 510: 356-362.<br>
+<sup>8</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of Eucalyptus grandis[J]. Nature, 2014, 510: 357.<br>
+<sup>9</sup> Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 326-329.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.</div>
-  </div>
-</div>
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<sup>1</sup> 陈登原. 国史旧闻: 卷 1[M]. 北京: 中华书局, 2000: 29.<br>
+<sup>2</sup> 哈里森, 沃尔德伦. 经济数学与金融数学[M]. 谢远涛, 译. 北京: 中国人民大学出版社, 2012: 235-236.<br>
+<sup>3</sup> 北京市政协民族和宗教委员会, 北京联合大学民族与宗教研究所. 历代王朝与民族宗教[M]. 北京: 民族出版社, 2012: 112.<br>
+<sup>4</sup> 全国信息与文献标准化技术委员会. 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S]. 北京: 中国标准出版社, 2010: 2-3.<br>
+<sup>5</sup> 徐光宪, 王祥云. 物质结构[M]. 北京: 科学出版社, 2010.<br>
+<sup>6</sup> 顾炎武. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社, 1992.<br>
+<sup>7</sup> 王夫之. 宋论[M]. 刻本. 金陵: 湘乡曾国荃, 1865.<br>
+<sup>8</sup> 牛志明, 斯温兰德, 雷光春. 综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
+<sup>9</sup> 中国第一历史档案馆, 辽宁省档案馆. 中国明朝档案总汇[A]. 桂林: 广西师范大学出版社, 2001.<br>
+<sup>10</sup> 杨保军. 新闻道德论[M]. 北京: 中国人民大学出版社, 2010.<br>
+<sup>11</sup> 赵学功. 当代美国外交[M]. 北京: 社会科学文献出版社, 2001.<br>
+<sup>12</sup> 同济大学土木工程防灾国家重点实验室. 汶川地震灾害研究[M]. 上海: 同济大学出版社, 2011: 5-6.<br>
+<sup>13</sup> 中国造纸学会. 中国造纸年鉴：2003[M]. 北京: 中国轻工业出版社, 2003.<br>
+<sup>14</sup> Peebles P Z Jr. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw-Hill, 2001.<br>
+<sup>15</sup> Yufin S A. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000[M]. Rotterdam: A. A. Balkema, 2000.<br>
+<sup>16</sup> Baldock P. Developing early childhood services: past, present and future[M]. Open University Press, 2011: 105.<br>
+<sup>17</sup> Fan X, Sommers C H. Food irradiation research and technology[M]. 2nd ed. Ames, Iowa: Blackwell Publishing, 2013: 25-26.<br>
+<sup>18</sup> 周易外传：卷5[M]//王夫之. 船山全书: 第1册. 修订版. 长沙: 岳麓书社, 2011: 983-1029.<br>
+<sup>19</sup> 程根伟. 1998年长江洪水的成因与减灾对策[M]//许厚泽, 赵其国. 长江流域洪涝灾害与科技对策. 北京: 科学出版社, 1999: 32-36.<br>
+<sup>20</sup> 陈晋镳, 张惠民, 朱士兴, 等. 蓟县震旦亚界的研究[M]//中国地质科学院天津地质矿产研究所. 中国震旦亚界. 天津: 天津科学技术出版社, 1980: 56-114.<br>
+<sup>21</sup> 马克思. 政治经济学批判[M]//马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 北京: 人民出版社, 2013: 302.<br>
+<sup>22</sup> 贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]//中国图书馆学会. 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社, 2011: 45-52.<br>
+<sup>23</sup> Weinstein L, Swartz M N. Pathogenic properties of invading microorganisms[M]//Sodeman W A Jr, Sodeman W A. Pathologic physiology: mechanisms of disease. Philadelphia: Saunders, 1974: 457-472.<br>
+<sup>24</sup> Roberson J A, Burneson E G. Drinking water standards, regulations, and goals[M]//American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6th ed. New York: McGraw-Hill, 2011: 1.1-1.36.<br>
+<sup>25</sup> 中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）-. 武汉: 中华医学会湖北分会, 1984.<br>
+<sup>26</sup> 中国图书馆学会. 图书馆学通讯[J]. 1957/1990, 1957（1）-1990（4）. 北京: 北京图书馆, 1957/1990.<br>
+<sup>27</sup> American Association for the Advancement of Science. Science[J]. 1883, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
+<sup>28</sup> 袁训来, 陈哲, 肖书海, 等. 蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口[J]. 科学通报, 2012, 57(34): 3219.<br>
+<sup>29</sup> 余建斌. 我们的科技一直在追赶：访中国工程院院长周济[N]. 人民日报, 2013-01-12(2).<br>
+<sup>30</sup> 李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.<br>
+<sup>31</sup> 李幼平, 王莉. 循证医学研究方法：附视频[J]. 中华移植杂志（电子版）, 2010, 4(3): 225-228.<br>
+<sup>32</sup> 武丽丽, 华一新, 张亚军, 等. “北斗一号”监控管理网设计与实现[J]. 测绘科学, 2008, 33(5): 8-9.<br>
+<sup>33</sup> Kanamori H. Shaking without quaking[J]. Science, 1998, 279(5359): 2063.<br>
+<sup>34</sup> Caplan P. Cataloging internet resources[J]. The public-access computer systems review, 1993, 4(2): 61-66.<br>
+<sup>35</sup> Frese K S, Katus H A, Meder B. Next-generation sequencing: from understanding biology to personalized medicine[J]. Biology, 2013, 2(1): 378-398.<br>
+<sup>36</sup> Myburg A A, Grattapaglia D, Tuskan G A, et al. The genome of Eucalyptus grandis[J]. Nature, 2014, 510: 356-362.<br>
+<sup>37</sup> 邓一刚. 全智能节电器: CN101106276A[P]. 2008-01-16.<br>
+<sup>38</sup> 石顺祥, 许海平, 孙艳玲, 等. 光折变自适应光外差探测方法: CN1338652A[P]. 2002-03-06.<br>
+<sup>39</sup> Tachibana R, Shimizu S, Kobayashi S, et al. Electronic watermarking method and system: US6915001[P]. 2005-07-05.<br>
+<sup>40</sup> 中国互联网络信息中心. 第29次中国互联网络发展状况统计报告[R]. 2012.<br>
+<sup>41</sup> 北京市人民政府办公厅. 关于转发北京市企业投资项目核准暂行实施办法的通知: 京政办发［2005］37 号[A]. 2005.<br>
+<sup>42</sup> Bawden D. Origins and concepts of digital literacy[EB/OL]. (2008-05-04)[2013-03-08]. <a href="http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf">http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf</a>.<br>
+<sup>43</sup> Online Computer Library Center, Inc. About OCLC: history of cooperation[EB/OL]. [2012-03-27]. <a href="http://www.oclc.org/about/cooperation.en.html">http://www.oclc.org/about/cooperation.en.html</a>.<br>
+<sup>44</sup> Hopkinson A. UNIMARC and metadata: Dublin Core[EB/OL]. (2009-04-22)[2013-03-27]. <a href="http://archive.ifla.org/IV/ifla64/138-161e.htm">http://archive.ifla.org/IV/ifla64/138-161e.htm</a>.<br>
+<sup>45</sup> 周鲁卫. 软物质物理导论[M]. 上海: 复旦大学出版社, 2011: 1.<br>
+<sup>46</sup> 常森. 《五行》学说与《荀子》[J]. 北京大学学报（哲学社会科学版）, 2013, 50(1): 75.<br>
+<sup>47</sup> 김세훈, others. 도서관 및 독서진흥법 개정안 연구[M]. 서울: 한국 문화 관광 정책 연구원, 2003: 15.<br>
+<sup>48</sup> 図書館用語辞典編集委員会. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社, 2004: 154.<br>
+<sup>49</sup> Ruddock L. Economics for the modern built environment[M]. London: Taylor &#38; Francis, 2009: 12.<br>
+<sup>50</sup> Кочетков А Я. Молибден-медно-золото-порфировое месторождение Рябиновое[J]. Отечественная геология, 1993(7): 50-58.<br>
+<sup>51</sup> 이병목. 도서관법규총람: 卷 1[M]. 서울: 구미무역 출판부, 2005: 67-68.<br>
+<sup>52</sup> 李炳穆. 图书馆法规总览: 卷 1[M]. 首尔: 九美贸易出版部, 2005: 67-68.<br>
+<sup>53</sup> 도서관정보정책위원회 발족식 및 도서관정보정책기획단 신설[J]. 圖書館文化, 2007, 48(7): 11-12.<br>
+<sup>54</sup> 图书馆信息政策委员会成立仪式与图书馆信息政策规划团[J]. 图书馆文化, 2007, 48(7): 11-12.<br>
+<sup>55</sup> 熊平, 吴颉. 从交易费用的角度谈如何构建药品流通的良性机制[J]. 中国物价, 2005(8): 42-45.<br>
+<sup>56</sup> Xiong P, Wu X. Discussion on how to construct benign medicine circulation mechanism from transaction cost perspective[J]. China price, 2005(8): 42-45.<br>
+<sup>57</sup> 上海市食品药品监督管理局课题组. 互联网药品经营现状和监管机制的研究[J]. 上海食品药品监管情报研究, 2008(1): 8-11.<br>
+<sup>58</sup> Research Group of Shanghai Food and Drug Administration. A study on online pharmaceutical operating situation and supervision mechanism[J]. Shanghai food and drug information research, 2008(1): 8-11.<br>
+<sup>59</sup> 李时珍. [M].<br>
+<sup>60</sup> 李时珍. [M].<br>
+<sup>61</sup> 乔纳斯. [M].<br>
+<sup>62</sup> 昂温 S. [M].<br>
+<sup>63</sup> 昂温 G, 昂温 P S. [M].<br>
+<sup>64</sup> 丸山敏秋. [M].<br>
+<sup>65</sup> 凯西尔. [M].<br>
+<sup>66</sup> Einstein A. [M].<br>
+<sup>67</sup> Williams-Ellis A. [M].<br>
+<sup>68</sup> De Morgan A. [M].<br>
+<sup>69</sup> Li J. [M].<br>
+<sup>70</sup> Li J N. [M].<br>
+<sup>71</sup> 钱学森, 刘再复. [M].<br>
+<sup>72</sup> 李四光, 华罗庚, 茅以升. [M].<br>
+<sup>73</sup> 印森林, 吴胜和, 李俊飞, 等. [M].<br>
+<sup>74</sup> Fordham E W, Ali A, Truner D A, et al. [M].<br>
+<sup>75</sup> Coffee drinking and cancer of the pancreas[J]. Br. Med. J., 1981, 283(6292): 628.<br>
+<sup>76</sup> 中国科学院物理研究所. [M].<br>
+<sup>77</sup> 贵州省土穰普查办公室. [M].<br>
+<sup>78</sup> American Chemical Society. [M].<br>
+<sup>79</sup> Stanford University. Department of Civil Engineering. [M].<br>
+<sup>80</sup> 王夫之“乾坤并建”的诠释面向[M].<br>
+<sup>81</sup> 张子正蒙注[M].<br>
+<sup>82</sup> 化学动力学和反应器原理[M].<br>
+<sup>83</sup> 袖珍神学[M].<br>
+<sup>84</sup> 简明基督教词典[M].<br>
+<sup>85</sup> [J]. 北京师范大学学报（然科学版）.<br>
+<sup>86</sup> Gases in sea ice 1975-1979[M].<br>
+<sup>87</sup> [J]. J. Math &#38; Phys.<br>
+<sup>88</sup> 为人民服务；纪念白求恩；愚公移山[M].<br>
+<sup>89</sup> 大趋势[M].<br>
+<sup>90</sup> 地壳运动假说：从大陆漂移到板块构造[M].<br>
+<sup>91</sup> 三松堂全集: 卷 4[M].<br>
+<sup>92</sup> 世界出版业: 美国卷[M].<br>
+<sup>93</sup> ECL集成电路：原理与设计[M].<br>
+<sup>94</sup> 科学思想史: 卷 2[M].<br>
+<sup>95</sup> 商鞅战秋菊：法治转型的一个思想实验[J].<br>
+<sup>96</sup> [J]. 中国科学：D 辑 地球科学.<br>
+<sup>97</sup> 信息与文献 都柏林核心元数据元素集: GB/T 25100—2010[S].<br>
+<sup>98</sup> 中子反射数据分析技术: CNIC-01887[R].<br>
+<sup>99</sup> [J]. Asian Pacific Journal of Cancer Prevention: E-Only.<br>
+<sup>100</sup> [M]. 3 版.<br>
+<sup>101</sup> [M]. 新1版.<br>
+<sup>102</sup> [M]. 明刻本.<br>
+<sup>103</sup> [M]. 5th ed.<br>
+<sup>104</sup> [M]. Rev. ed.<br>
+<sup>105</sup> [M]. 北京: 人民出版社, 2013.<br>
+<sup>106</sup> [M]. New York: Academic Press, 2012.<br>
+<sup>107</sup> [M]. Cambridge, Eng.: Academic Press.<br>
+<sup>108</sup> [M]. Cambridge, Mass.: Academic Press.<br>
+<sup>109</sup> [M]. 北京: 科学出版社, 2013.<br>
+<sup>110</sup> [M]. London: Butterworths, 2000.<br>
+<sup>111</sup> [M]. 三户图书刊行社, 1990.<br>
+<sup>112</sup> [M]. MacMillan, 1975.<br>
+<sup>113</sup> [M]. Open University Press, 2011: 105.<br>
+<sup>114</sup> [M]. 北京: 中国标准出版社.<br>
+<sup>115</sup> [M]. Cambridge: Elsevier Science Publishers.<br>
+<sup>116</sup> [M]. Cambridge: IRRI.<br>
+<sup>117</sup> [M]. Chicago: ALA, 1978.<br>
+<sup>118</sup> [M]. 哈尔滨, 2013.<br>
+<sup>119</sup> [M]. Salt Lake City, 1964.<br>
+<sup>120</sup> [M]. 1947.<br>
+<sup>121</sup> [M]. 1705.<br>
+<sup>122</sup> [N]. 2013-01-08.<br>
+<sup>123</sup> [M]. c1988.<br>
+<sup>124</sup> [M]. 1985.<br>
+<sup>125</sup> [M]. [1936].<br>
+<sup>126</sup> [EB/OL]. (2012-05-03)[2013-11-12]. <a href="http://www.example.com/">http://www.example.com/</a>.<br>
+<sup>127</sup> 曹凌. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社, 2011: 19.<br>
+<sup>128</sup> 钱学森. 创建系统学[M]. 太原: 山西科学技术出版社, 2001: 序2-3.<br>
+<sup>129</sup> 冯友兰. 冯友兰自选集[M]. 2 版. 北京: 北京大学出版社, 2008: 第1版自序.<br>
+<sup>130</sup> 李约瑟. 题词[M]//苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社, 1991: 扉页.<br>
+<sup>131</sup> Dunbar K L, Mitchell D A. Revealing nature’s synthetic potential through the study of ribosomal natural product biosynthesis[J]. ACS chemical biology, 2013, 8: 473-487.<br>
+<sup>132</sup> 储大同. 恶性肿瘤个体化治疗靶向药物的临床表现[J]. 中华肿瘤杂志, 2010, 32(10): 721-724.<br>
+<sup>133</sup> Weiner S. Microarchaeology: beyond the visible archaeological record[M]. Cambridge, Eng.: Cambridge University Press Textbooks, 2010: 38.<br>
+<sup>134</sup> 刘乃安. 生物质材料热解失重动力学及其分析方法研究[D]. 合肥: 中国科学技术大学, 2000: 17-18.<br>
+<sup>135</sup> Deverell W, Igler D. A companion to California history[M]. New York: John Wiley &#38; Sons, 2013: 21-22.<br>
+<sup>136</sup> 姚中秋. 作为一种制度变迁模式的“转型”[M]//罗卫东, 姚中秋. 中国转型的理论分析：奥地利学派的视角. 杭州: 浙江大学出版社, 2009: 44.<br>
+<sup>137</sup> 关立哲, 韩纪富, 张晨延. 科技期刊编辑审读中要注重比较思维的科学运用[J]. 编辑学报, 2014, 26(2): 144-146.<br>
+<sup>138</sup> Tenopir C. Online databases: quality control[J]. Library journal, 1987, 113(2): 124-125.<br>
+<sup>139</sup> [J]. 2001, 1(1): 5-6.<br>
+<sup>140</sup> [J]. 2014, 510: 356-363.<br>
+<sup>141</sup> [J]. 2010(6): 23.<br>
+<sup>142</sup> [J]. 2012, 22(增刊2): 81-86.<br>
+<sup>143</sup> [J]. 2001(9/10): 36-39.<br>
+<sup>144</sup> [J]. 2011, 33(2): 20-25；2011，33（3）：26-30.<br>
+<sup>145</sup> [N]. 2013-03-16(1).<br>
+<sup>146</sup> Baker S K, Jackson M E. The future of resource sharing[M]. New York: The Haworth Press, 1995.<br>
+<sup>147</sup> Chernik B E. Introduction to library services for library technicians[M]. Littleton, Colo.: Libraries Unlimited, Inc., 1982.<br>
+<sup>148</sup> 尼葛洛庞帝. 数字化生存[M]. 胡泳, 范海燕, 译. 海口: 海南出版社, 1996.<br>
+<sup>149</sup> 汪冰. 电子图书馆理论与实践研究[M]. 北京: 北京图书馆出版社, 1997: 16.<br>
+<sup>150</sup> 杨宗英. 电子图书馆的现实模型[J]. 中国图书馆学报, 1996(2): 24-29.<br>
+<sup>151</sup> Dowler L. The research university’s dilemma: resource sharing and research in a transinstitutional environment[J]. Journal of library administration, 1995, 21(1/2): 5-26.<br>
+<sup>152</sup> Sunstein C R. Social norms and social roles[J]. Columbia law review, 1996, 96: 903.<br>
+<sup>153</sup> Morris I. Why the West rules—for now: the patterns of history, and what they reveal about the future[M]. New York: Farrar, Straus and Giroux, 2010.<br>
+<sup>154</sup> 罗杰斯. 西方文明史：问题与源头[M]. 潘惠霞, 魏婧, 杨艳, 等, 译. 大连: 东北财经大学出版社, 2011: 15-16.<br>
+<sup>155</sup> 陈登原. 国史旧闻: 卷 1[M]. 北京: 中华书局, 2000: 29.<br>
+<sup>156</sup> Crane D. Invisible college[M]. Chicago: Univ. of Chicago Press, 1972.<br>
+<sup>157</sup> Stieg M F. The information needs of historians[J]. College &#38; research libraries, 1981, 42(6): 549-560.<br>
+<sup>158</sup> 王临惠, 支建刚, 王忠一. 天津方言的源流关系刍议[J]. 山西师范大学学报（社会科学版）, 2010, 37(4): 147.<br>
+<sup>159</sup> 王临惠. 从几组声母的演变看天津方言形成的自然条件和历史条件[C]//曹志耘. 汉语方言的地理语言学研究：首届中国地理语言学国际学术研讨会论文集. 北京: 商务印书馆, 2010: 138.<br>
+<sup>160</sup> Kennedy W J, Garrison R E. Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England[J]. Sedimentology, 1975, 22: 311.<br>
+<sup>161</sup> Kennedy W J, Garrison R E. Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England[J]. Lethaia, 1975, 8: 339.<br>
+<sup>162</sup> 张忠智. 科技书刊的总编（主编）的角色要求[C]//中国科学技术期刊编辑学会. 中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编. 北京: 中国科学技术期刊编辑学会学术委员会, 1997: 33-34.<br>
+<sup>163</sup> 中国社会科学院语言研究所词典编辑室. 现代汉语词典[M]. 修订本. 北京: 商务印书馆, 1996.<br>
+<sup>164</sup> 刘彻东. 中国的青年刊物：个性特色为本仁[J]. 中国出版, 1998(5): 38-39.<br>
+<sup>165</sup> 裴丽生. 在中国科协学术期刊编辑工作经验交流会上的讲话[C]//中国科学技术协会. 中国科协学术期刊编辑工作经验交流会资料选. 北京: 中国科学技术协会学会工作部, 1981: 2-10.<br>
+<sup>166</sup> 张伯伟. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社, 2002: 288.<br>
+<sup>167</sup> 皮锡瑞. 师伏堂日记: 第4册[M]. 北京: 北京图书馆出版社, 2009: 155.<br>
+<sup>168</sup> 胡承正, 周详, 缪灵. 理论物理概论: 上[M]. 武汉: 武汉大学出版社, 2010: 112.<br>
+<sup>169</sup> 美国妇产科医师学会. 新生儿脑病和脑性瘫痪发病机制与病理生理[M]. 段涛, 杨慧霞, 译. 北京: 人民卫生出版社, 2010: 38-39.<br>
+<sup>170</sup> 康熙字典: 巳集上：水部[M]. 同文书局影印本. 北京: 中华书局, 1962: 50.<br>
+<sup>171</sup> 汪昂. 增订本草备要: 四卷[M]. 刻本. 京都: 老二酉堂, 1881.<br>
+<sup>172</sup> 蒋有绪, 郭泉水, 马娟, 等. 中国森林群落分类及其群落特征[M]. 北京: 科学出版社, 1998.<br>
+<sup>173</sup> 中国企业投资协会, 台湾并购与私募股权协会, 汇盈国际投资集团. 投资台湾：大陆企业赴台投资指南[M]. 北京: 九州出版社, 2013.<br>
+<sup>174</sup> 罗斯基. 战前中国经济的增长[M]. 唐巧天, 毛立坤, 姜修宪, 译. 杭州: 浙江大学出版社, 2009.<br>
+<sup>175</sup> 库恩. 科学革命的结构：第4版[M]. 金吾伦, 胡新和, 译. 2 版. 北京: 北京大学出版社, 2012.<br>
+<sup>176</sup> 侯文顺. 高分子物理：高分子材料分析、选择与改性[M]. 北京: 化学工业出版社, 2010: 119.<br>
+<sup>177</sup> Crawford W, Gorman M. Future libraries: dreams, madness, &#38; reality[M]. Chicago: American Library Association, 1995.<br>
+<sup>178</sup> International Federation of Library Association and Institutions. Names of persons: national usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977.<br>
+<sup>179</sup> O’Brien J A. Introduction to information systems[M]. 7th ed. Burr Ridge, IL: Irwin, 1994.<br>
+<sup>180</sup> Kinchy A. Seeds, sciences, and struggle: the global politics of transgenic crops[M]. Cambridge, Mass.: MIT Press, 2012: 50.<br>
+<sup>181</sup> Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.<br>
+<sup>182</sup> 中国职工教育研究会. 职工教育研究论文集[M]. 北京: 人民教育出版社, 1985.<br>
+<sup>183</sup> 中国社会科学院台湾史研究中心. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社, 2012.<br>
+<sup>184</sup> 雷光春. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社, 2012.<br>
+<sup>185</sup> 陈志勇. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M]. 北京: 经济科学出版社, 2011.<br>
+<sup>186</sup> Babu B V, Nagar A, Deep K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.<br>
+<sup>187</sup> 中华人民共和国国务院新闻办公室. 国防白皮书：中国武装力量的多样化运用[R]. 2013.<br>
+<sup>188</sup> 汤万金, 杨跃翔, 刘文, 等. 人体安全重要技术标准研制最终报告: 7178999X-2006BAK04A10/10.2013[R]. 2013.<br>
+<sup>189</sup> Calkin D E, Ager A A, Thompson M P. A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report: RMRS-GTR-262[R]. 2011: 8-9.<br>
+<sup>190</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for handling excavated acid-producing material: PB 91-194001[R]. Springfield: U.S. Department of Commerce National Information Service, 1990.<br>
+<sup>191</sup> World Health Organization. Factors regulating the immune response: report of WHO Scientific Group[R]. Geneva: WHO, 1970.<br>
+<sup>192</sup> 马欢. 人类活动影响下海河流域典型区水循环变化分析[D]. 北京: 清华大学, 2011: 27.<br>
+<sup>193</sup> 吴云芳. 面向中文信息处理的现代汉语并列结构研究[D]. 北京: 北京大学, 2003.<br>
+<sup>194</sup> Cairns B R. Infrared spectroscopic studies on solid oxygen[D]. Berkeley: Univ. of California, 1965.<br>
+<sup>195</sup> 张凯军, 赵永杰, 陈朝岗. 轨道火车及高速轨道火车紧急安全制动辅助装置: CN202827616U[P]. 2013-03-27.<br>
+<sup>196</sup> 冀超. 一种荒漠化地区生态植被综合培育种植方法: CN1318281A[P]. 2001-10-24.<br>
+<sup>197</sup> Koseki A, Momose H, Kawahito M, et al. Compiler: US20020049965A1[P]. 2002-04-25.<br>
+<sup>198</sup> 全国信息与文献标准化技术委员会. 文献著录：第 4 部分 非书资料: GB/T 3792.4—2009[S]. 北京: 中国标准出版社, 2010: 3.<br>
+<sup>199</sup> 全国广播电视标准化技术委员会. 广播电视音像资料编目规范：第 2 部分 广播资料: GY/T 202.2—2007[S]. 北京: 国家广播电影电视总局广播电视规划院, 2007: 1.<br>
+<sup>200</sup> 国家环境保护局科技标准司. 土壤环境质量标准: GB 15618—1995[S]. 北京: 中国标准出版社, 1996: 2-3.<br>
+<sup>201</sup> Information and documentation—the Dublin Core metadata element set: ISO 15836:2009[S]. [2013].<br>
+<sup>202</sup> 卷39乞致仕第一[M]//苏魏公文集: 下册. 北京: 中华书局, 1988: 590.<br>
+<sup>203</sup> 白书农. 植物开花研究[M]//李承森. 植物科学进展. 北京: 高等教育出版社, 1998: 146-163.<br>
+<sup>204</sup> 汪学军. 中国农业转基因生物研究进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2002: 22-25.<br>
+<sup>205</sup> 国家标准局信息分类编码研究所. 世界各国和地区名称代码: GB/T 2659—1986[S]//全国文献工作标准化委员会. 文献工作国家标准汇编：3. 北京: 中国标准出版社, 1988: 59-92.<br>
+<sup>206</sup> 宋史卷三：本纪第三[M]//宋史: 第1册. 北京: 中华书局, 1977: 49.<br>
+<sup>207</sup> 楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[M]//同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 011-012.<br>
+<sup>208</sup> Buseck P R, Nord G L Jr, Veblen D R. Subsolidus phenomena in pyroxenes[M]//Pyroxenes. Washington, D.C.: Mineralogical Society of America, c1980: 117-211.<br>
+<sup>209</sup> Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, c1971: 17-38.<br>
+<sup>210</sup> 杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.<br>
+<sup>211</sup> 李炳穆. 韩国图书馆法[J]. 图书情报工作, 2008, 52(6): 6-21.<br>
+<sup>212</sup> 于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.<br>
+<sup>213</sup> 陈建军. 从数字地球到智慧地球[J]. 国土资源导刊, 2010, 7(10): 93.<br>
+<sup>214</sup> Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359: 605-609.<br>
+<sup>215</sup> Saito M, Miyazaki K. Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu[J]. Bulletin of the geological survey of Japan, 2006, 57(5/6): 169-176.<br>
+<sup>216</sup> Walls S C, Barichivich W J, Brown M E. Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate[J]. Biology, 2013, 2(1): 399-418.<br>
+<sup>217</sup> Franz A K, Danielewicz M A, Wong D M, et al. Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity[J]. ACS chemical biology, 2013, 8: 1053-1062.<br>
+<sup>218</sup> Park J R, Tosaka Y. Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms[J]. Cataloging &#38; classification quarterly, 2010, 48(8): 696-715.<br>
+<sup>219</sup> 丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).<br>
+<sup>220</sup> 张田勘. 罪犯 DNA 库与生命伦理学计划[N]. 大众科技报, 2000-11-12(7).<br>
+<sup>221</sup> 傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-01-12.<br>
+<sup>222</sup> 刘裕国, 杨柳, 张洋, 等. 雾霾来袭，如何突围？[N]. 人民日报, 2013-01-12.<br>
+<sup>223</sup> 萧钰. 出版业信息化迈入快车道[EB/OL]. (2001-12-19)[2002-04-15]. <a href="http://www.creader.com/news/20011219/200112190019.html">http://www.creader.com/news/20011219/200112190019.html</a>.<br>
+<sup>224</sup> 李强. 化解医患矛盾需釜底抽薪[EB/OL]. (2012-05-03)[2013-03-25]. <a href="http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html">http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html</a>.<br>
+<sup>225</sup> Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office. Pennsylvania library laws[EB/OL]. [2013-03-24]. <a href="http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf">http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf</a>.<br>
+<sup>226</sup> Dublin Core metadata element set: version 1.1[EB/OL]. (2012-06-14)[2014-06-11]. <a href="http://dublincore.org/documents/dces/">http://dublincore.org/documents/dces/</a>.<br>
+
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

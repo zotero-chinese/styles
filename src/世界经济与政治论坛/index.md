@@ -18,28 +18,9 @@
 <sup>8</sup> Adrian Praetzellis. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 326-329.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Adrian Praetzellis. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Shanshan Wang. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology. 2022: 2.</div>
-  </div>
-</div>
+## 样式测试
+
 
 ## 默认测试
 

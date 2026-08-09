@@ -8,9 +8,34 @@
 
 ### 引注
 
-<sup>[1-26]</sup>
+<sup>[1-6]</sup>
 
 ### 参考文献表
+
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">广西壮族自治区林业厅. 广西自然保护区[M]. 北京: 中国林业出版社, 1993:45-47.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">International Federation of Library Association and Institutions. Names of persons: National usages for entry in catalogues[M]. 3rd ed. London: IFLA International Office for UBC, 1977:56-70.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">亚洲地质图编图组. 亚洲地层与地质历史概述[J]. 地质学报, 1978, 3: 194-208.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Des Marais D J, Strauss H, Summons R E, et al. Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment[J]. Nature, 1992, 359(6396): 605-609.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">韩吉人. 论职工教育的特点[C]//中国职工教育研究会. 职工教育研究论文集. 北京: 人民教育出版社, 1985: 90-99.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Fourney M E. Advances in holographic photoelasticity[C]//Symposium on Applications of Holography in Mechanics. New York: ASME, c1971: 17-38.</div>
+  </div>
+</div>
+
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -92,6 +117,8 @@
     <div class="csl-left-margin">[26]</div><div class="csl-right-inline">Turcotte D L. Fractals and chaos in geology and geophysics[M]. New York: Cambridge University Press, 1992.</div>
   </div>
 </div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

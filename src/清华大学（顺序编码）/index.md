@@ -8,9 +8,34 @@
 
 ### 引注
 
-<sup>[1-34]</sup>
+<sup>[1-6]</sup>
 
 ### 参考文献表
+
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">张昆, 冯立群, 余昌钰, 等. 机器人柔性手腕的球面齿轮设计研究[J]. 清华大学学报: 自然科学版, 1994, 34(2): 1-7.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">竺可桢. 物理学论[M]. 北京: 科学出版社, 1973: 56-60.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Dupont B. Bone marrow transplantation in severe combined immunodeficiency with an unrelated MLC compatible donor[C]//White H J, Smith R. Proceedings of the third annual meeting of the International Society for Experimental Hematology. Houston: International Society for Experimental Hematology, 1974: 44-46.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Merkt F, Mackenzie S R, Softley T P. Rotational autoionization dynamics in high rydberg states of nitrogen[J]. The Journal of chemical physics, 1995, 103: 4509-4518.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Peebles, Jr P Z. Probability, random variables, and random signal principles[M]. 4th ed. New York: McGraw Hill, 2001.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">韩吉人. 论职工教育的特点[C]//中国职工教育研究会. 职工教育研究论文集. 北京: 人民教育出版社, 1985: 90-99.</div>
+  </div>
+</div>
+
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -116,6 +141,8 @@
     <div class="csl-left-margin">[34]</div><div class="csl-right-inline">Scitor Corporation. Project scheduler[CP]. Sunnyvale, Calif.: Scitor Corporation, 1983.</div>
   </div>
 </div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

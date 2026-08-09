@@ -14,22 +14,9 @@
 <sup>4</sup> Alexander J. Inglis. The Socialization of the High School. Teachers College Record, 1915, 16(3). p. 216.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">布鲁纳著，邵瑞珍、张渭城译：《布鲁纳教育论著选》，人民教育出版社，2018年，第35—36页。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">廖哲勋：《实事求是地评价普通高中新课程改革》，《课程·教材·教法》2010年第9期。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Burton J. Bledstein. The Culture of Professionalism: The Middle Class and the Development of Higher Education in America. New York: W. W. Norton &#38; Company, Inc. 1976. pp. 33-39.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Alexander J. Inglis. The Socialization of the High School. Teachers College Record, 1915, 16(3). p. 216.</div>
-  </div>
-</div>
+## 样式测试
+
 
 ## 默认测试
 

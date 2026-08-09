@@ -27,58 +27,30 @@
 <sup>17</sup> 見宋‧楊時：《龜山集‧語錄一》（臺北：臺灣商務印書館，1973年，四庫全書珍本第四集），第 992 冊，卷 10，頁3 上。<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">1.</div><div class="csl-right-inline">王夢鷗：《禮記校證》（臺北：藝文印書館，1976年12月）。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">2.</div><div class="csl-right-inline">徐信義：〈張炎的詞學批評〉，《幼獅學誌》第14期（1977年2月），頁172-194。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">3.</div><div class="csl-right-inline">余英時：〈清代思想史的一個新解釋〉，《歷史與思想》（臺北：聯經出版事業公司，1976年9月），頁121-156。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">4.</div><div class="csl-right-inline">林文月：〈八十自述〉，收錄於臺灣大學中國文學系主編：《林文月先生學術成就與薪傳國際學術研討會》（臺北：臺灣大學中國文學系，2014年5月），頁1-16。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">5.</div><div class="csl-right-inline">孔仲溫：《類篇研究》（臺北：政治大學中國文學研究所博士論文，1985年，○○○先生指導）。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">6.</div><div class="csl-right-inline">宋‧司馬光：《資治通鑑》（南宋鄂州覆北宋刊龍爪本，約西元 12 世紀年），卷2。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">7.</div><div class="csl-right-inline">明‧郝敬：《尚書辨解》（臺北：藝文印書館，1969年，百部叢書集成影印湖北叢書本），卷3。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">8.</div><div class="csl-right-inline">丁邦新：〈國內漢學研究的方向和問題〉，《中央日報》第22版（1988年4月2日）。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">9.</div><div class="csl-right-inline">王叔岷：〈論校詩之難〉，《臺大中文學報》第3期（1989年12月），頁1。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">10.</div><div class="csl-right-inline"><b>Edwin O. James</b>, <i>Prehistoric Religion: A Study in Prehistoric Archaeology</i> (史前宗教：史前考古學的研究) (London: Thames and Hudson, 1957).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">11.</div><div class="csl-right-inline"><b>Richard Rudolph</b>, “The Minatory Crossbowman in Early Chinese Tombs,” (中國早期墓葬的強弩使用者) <i>Archives of the Chinese Art Society of America</i>, 19 (1965), pp.8-15.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">12.</div><div class="csl-right-inline"><b>E. G. Pulleyblank</b>, “The Chinese and Their Neighbors in Prehistoric and Early Historic Times,” (史前與早期歷史的中國人與其四鄰) in David N. Keightley, ed., <i>The Origins of Chinese Civilization</i> (Berkeley: University of California Press, 1983), pp.460-463.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">13.</div><div class="csl-right-inline"><b>Edwin O. James</b>, <i>Prehistoric Religion: A Study in Prehistoric Archaeology</i> (史前宗教：史前考古學的研究) (Cambridge: Harvard University Ph. D. dissertation, ○○○先生指導, 1957).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">14.</div><div class="csl-right-inline"><b>Edward L. Shanghnessy</b>, “Historical Perspectives on the Introduction of Chariot into China,” (車子傳入中國的歷史回顧) paper presented at the Conference of the American Historical Association, New York, 1985.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">15.</div><div class="csl-right-inline">郭沫若：〈十批判書〉，《民國叢書》（上海：上海書局，1992年12月，重印民國 36 年上海群益書局版），第 4 編第 1 冊。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">16.</div><div class="csl-right-inline">宋‧楊時：《龜山集‧語錄一》（臺北：臺灣商務印書館，1973年，四庫全書珍本第四集），第 992 冊，卷 10。</div>
-  </div>
-</div>
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<sup>1</sup> 王夢鷗：《禮記校證》（臺北：藝文印書館，1976年12月）。<br>
+<sup>2</sup> 徐信義：〈張炎的詞學批評〉，《幼獅學誌》第14期（1977年2月），頁172-194。<br>
+<sup>3</sup> 余英時：〈清代思想史的一個新解釋〉，《歷史與思想》（臺北：聯經出版事業公司，1976年9月），頁121-156。<br>
+<sup>4</sup> 林文月：〈八十自述〉，收錄於臺灣大學中國文學系主編：《林文月先生學術成就與薪傳國際學術研討會》（臺北：臺灣大學中國文學系，2014年5月），頁1-16。<br>
+<sup>5</sup> 孔仲溫：《類篇研究》（臺北：政治大學中國文學研究所博士論文，1985年，○○○先生指導）。<br>
+<sup>6</sup> 宋‧司馬光：《資治通鑑》（南宋鄂州覆北宋刊龍爪本，約西元 12 世紀年），卷2。<br>
+<sup>7</sup> 明‧郝敬：《尚書辨解》（臺北：藝文印書館，1969年，百部叢書集成影印湖北叢書本），卷3。<br>
+<sup>8</sup> 丁邦新：〈國內漢學研究的方向和問題〉，《中央日報》第22版（1988年4月2日）。<br>
+<sup>9</sup> 王叔岷：〈論校詩之難〉，《臺大中文學報》第3期（1989年12月），頁1。<br>
+<sup>10</sup> <b>Edwin O. James</b>, <i>Prehistoric Religion: A Study in Prehistoric Archaeology</i> (史前宗教：史前考古學的研究) (London: Thames and Hudson, 1957).<br>
+<sup>11</sup> <b>Richard Rudolph</b>, “The Minatory Crossbowman in Early Chinese Tombs,” (中國早期墓葬的強弩使用者) <i>Archives of the Chinese Art Society of America</i>, 19 (1965), pp.8-15.<br>
+<sup>12</sup> <b>E. G. Pulleyblank</b>, “The Chinese and Their Neighbors in Prehistoric and Early Historic Times,” (史前與早期歷史的中國人與其四鄰) in David N. Keightley, ed., <i>The Origins of Chinese Civilization</i> (Berkeley: University of California Press, 1983), pp.460-463.<br>
+<sup>13</sup> <b>Edwin O. James</b>, <i>Prehistoric Religion: A Study in Prehistoric Archaeology</i> (史前宗教：史前考古學的研究) (Cambridge: Harvard University Ph. D. dissertation, ○○○先生指導, 1957).<br>
+<sup>14</sup> <b>Edward L. Shanghnessy</b>, “Historical Perspectives on the Introduction of Chariot into China,” (車子傳入中國的歷史回顧) paper presented at the Conference of the American Historical Association, New York, 1985.<br>
+<sup>15</sup> 郭沫若：〈十批判書〉，《民國叢書》（上海：上海書局，1992年12月，重印民國 36 年上海群益書局版），第 4 編第 1 冊。<br>
+<sup>16</sup> 宋‧楊時：《龜山集‧語錄一》（臺北：臺灣商務印書館，1973年，四庫全書珍本第四集），第 992 冊，卷 10。<br>
+
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

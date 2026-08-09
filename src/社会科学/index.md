@@ -16,25 +16,19 @@
 <sup>6</sup> Gary Jefferson, Thomas Rawski, "Enterprise Reform in China’s Industry," <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Gary Jefferson, Thomas Rawski, "Enterprise Reform in China’s Industry," <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.</div>
-  </div>
-</div>
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<sup>1</sup> 吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。<br>
+<sup>2</sup> 本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年。<br>
+<sup>3</sup> 洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年。<br>
+<sup>4</sup> Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998.<br>
+<sup>5</sup> Gary Jefferson, Thomas Rawski, "Enterprise Reform in China’s Industry," <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>
+
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

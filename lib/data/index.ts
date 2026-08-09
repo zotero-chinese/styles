@@ -2,6 +2,18 @@ import { dirname, join } from "node:path";
 import fs from "fs-extra";
 import { isEmpty } from "radash";
 
+const SAMPLE_CITES_FILE_NAME = "cites.json";
+const TEST_CITES_FILE_NAME = "test-cites.json";
+
+const MAX_SAMPLE_ITEMS = 15;
+const SAMPLE_ITEM_TYPES = [
+  "book",
+  "paper-conference",
+  "article-journal",
+  "preprint",
+] as const;
+const SAMPLE_ITEM_LANGUAGES = ["zh-CN", "en-US"] as const;
+
 const collator = Intl.Collator("en", { numeric: true });
 
 // CSL-JSON Items
@@ -58,22 +70,51 @@ export function getCustomItems(cslPath: string): Item[] {
   }
 }
 
-export function getCustomCites(
+export function getSampleCites(
   cslPath: string,
   items?: Item[],
   citation_format?: string
 ): CitationItems {
   const dirName = dirname(cslPath);
-  const citesFilePath = join(dirName, "cites.json");
+  const citesFilePath = join(dirName, SAMPLE_CITES_FILE_NAME);
 
   if (fs.existsSync(citesFilePath)) {
     // 存在 cites.json
     return fs.readJsonSync(citesFilePath);
   } else if (items && !isEmpty(items.length)) {
     // 不存在 cites.json 但存在 items.json
+    if (items.length > MAX_SAMPLE_ITEMS) {
+      items = selectSampleItems(items);
+    }
     return getCitationItems(items, citation_format);
   } else {
     // cites.json 和 items.json 都不存在
+    return [];
+  }
+}
+
+export function getStyleTestCites(
+  cslPath: string,
+  items?: Item[],
+  citation_format?: string
+): CitationItems {
+  const dirName = dirname(cslPath);
+  const sampleCitesFilePath = join(dirName, SAMPLE_CITES_FILE_NAME);
+  const citesFilePath = join(dirName, TEST_CITES_FILE_NAME);
+
+  if (fs.existsSync(citesFilePath)) {
+    // 存在 test-cites.json
+    return fs.readJsonSync(citesFilePath);
+  } else if (items && !isEmpty(items.length)) {
+    // 不存在 test-cites.json 但存在 items.json
+    if (fs.existsSync(sampleCitesFilePath) || items.length > MAX_SAMPLE_ITEMS) {
+      // 与示例文献不一致
+      return getCitationItems(items, citation_format);
+    } else {
+      return [];
+    }
+  } else {
+    // test-cites.json 和 items.json 都不存在
     return [];
   }
 }
@@ -101,4 +142,23 @@ export function getCitationItems(
 
 export function getIds(items: Item[]): string[] {
   return items.map((item) => item.id).sort(collator.compare);
+}
+
+/**
+ * 每种类型（book、article-journal、paper-conference、preprint）分别选取
+ * language 为 zh-CN 和 en-US 的条目各一个，最多共 8 个。
+ */
+function selectSampleItems(items: Item[]): Item[] {
+  const sampleItems: Item[] = [];
+  for (const type of SAMPLE_ITEM_TYPES) {
+    for (const language of SAMPLE_ITEM_LANGUAGES) {
+      const item = items.find(
+        (i) => i.type === type && i.language === language
+      );
+      if (item) {
+        sampleItems.push(item);
+      }
+    }
+  }
+  return sampleItems;
 }

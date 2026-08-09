@@ -41,6 +41,26 @@
   <div class="csl-entry">Wong, Siu-lun. 1979. <i>Sociology and Socialism in Contemporary China</i>. London: Routledge and Kegan Paul.</div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">费孝通，1957，《关于社会学的几句话》，《文汇报》2月20日。</div>
+  <div class="csl-entry">——，1980，《为社会学再说几句话——在社会学座谈会上的发言》，《社会学研究》第1期。</div>
+  <div class="csl-entry">——，1998，《乡土中国生育制度》，北京：北京大学出版社。</div>
+  <div class="csl-entry">国家统计局，2013，《2012年全国农民工监测调查报告》，<a href="http://www.stats.gov.cn/tjfx/jdfx/t20130527_402899251.htm">http://www.stats.gov.cn/tjfx/jdfx/t20130527_402899251.htm</a>, 2013年5月27日。</div>
+  <div class="csl-entry">黄达主编，2000，《货币银行学》，北京：中国人民大学出版社。</div>
+  <div class="csl-entry">青木昌彦，2001，《比较制度分析》，周黎安译，上海：上海远东出版社。</div>
+  <div class="csl-entry">郑杭生，2009，《总论：我们时代的“大传统”——从社会学视角看当代中国社会认同的基础》，郑杭生主编《中国人民大学社会发展报告（2008）》，北京：中国人民大学出版社。</div>
+  <div class="csl-entry">Clark, Terry. 2013. <i>The Theory of Scenes</i>. Chicago: University of Chicago Press.</div>
+  <div class="csl-entry">Coase, Ronald H. 1960. “The Problem of Social Cost.” <i>Journal of Law and Economics</i> 3(1).</div>
+  <div class="csl-entry">Li, Bobai and Andrew G. Walder. 2001. “Career Advancement as Party Patronage: Sponsored Mobility into the Chinese Administrative Elite, 1949-1996.” <i>American Journal of Sociology</i> 106(5).</div>
+  <div class="csl-entry">Wong, Siu-lun. 1979. <i>Sociology and Socialism in Contemporary China</i>. London: Routledge and Kegan Paul.</div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

@@ -22,46 +22,26 @@
 <sup>12</sup> Eckart Förster, <i>Kant’s Final Synthesis: An Essay on the Opus postumum</i>, Harvard University Press, 2000: 28-32.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">海德格尔：《康德与形而上学疑难》，王庆节译，商务印书馆2018年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Allen W. Wood, <i>Kant</i>, Blackwell Publishing Ltd., 2005.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">米歇尔·福柯：《知识考古学》，董树宝译，生活·读书·新知三联书店2021年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">刘成纪：《我所理解的艺术观念史》，《中国图书评论》2018年第9期。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汉斯-格奥尔格·伽达默尔：《论思想之开端》，张柯译，《中国现象学与哲学评论》2019年第2辑。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">鲍姆嘉藤：《美学》，简明、王旭晓译，文化艺术出版社1987年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">Alexander Gottlieb Baumgarten, <i>Ästhetik</i>, Teil 1, trans. Dagmar Mirbach, Dagmar Mirbach, Felix Meiner Verlag, 2007.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">康德：《判断力批判》，李秋零译，中国人民大学出版社2011年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">弗里德里克·C.拜泽尔：《狄奥提玛的孩子们——从莱布尼茨到莱辛的德国审美理性主义》，张红军译，人民出版社2019年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">陈新儒：《缪斯的诞生：现代西方艺术观念生成简史》，四川大学出版社2025年版。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">Immanuel Kant, <i>Kritik der Urteilskraft</i>, in <i>Kants gesammelte Schriften</i>, Preußische Akademie der Wissenschaften zu Berlin, Georg Reimer, 1913.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">Eckart Förster, <i>Kant’s Final Synthesis: An Essay on the Opus postumum</i>, Harvard University Press, 2000.</div>
-  </div>
-</div>
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<sup>1</sup> 海德格尔：《康德与形而上学疑难》，王庆节译，商务印书馆2018年版。<br>
+<sup>2</sup> Allen W. Wood, <i>Kant</i>, Blackwell Publishing Ltd., 2005.<br>
+<sup>3</sup> 米歇尔·福柯：《知识考古学》，董树宝译，生活·读书·新知三联书店2021年版。<br>
+<sup>4</sup> 刘成纪：《我所理解的艺术观念史》，《中国图书评论》2018年第9期。<br>
+<sup>5</sup> 汉斯-格奥尔格·伽达默尔：《论思想之开端》，张柯译，《中国现象学与哲学评论》2019年第2辑。<br>
+<sup>6</sup> 鲍姆嘉藤：《美学》，简明、王旭晓译，文化艺术出版社1987年版。<br>
+<sup>7</sup> Alexander Gottlieb Baumgarten, <i>Ästhetik</i>, Teil 1, trans. Dagmar Mirbach, Dagmar Mirbach, Felix Meiner Verlag, 2007.<br>
+<sup>8</sup> 康德：《判断力批判》，李秋零译，中国人民大学出版社2011年版。<br>
+<sup>9</sup> 弗里德里克·C.拜泽尔：《狄奥提玛的孩子们——从莱布尼茨到莱辛的德国审美理性主义》，张红军译，人民出版社2019年版。<br>
+<sup>10</sup> 陈新儒：《缪斯的诞生：现代西方艺术观念生成简史》，四川大学出版社2025年版。<br>
+<sup>11</sup> Immanuel Kant, <i>Kritik der Urteilskraft</i>, in <i>Kants gesammelte Schriften</i>, Preußische Akademie der Wissenschaften zu Berlin, Georg Reimer, 1913.<br>
+<sup>12</sup> Eckart Förster, <i>Kant’s Final Synthesis: An Essay on the Opus postumum</i>, Harvard University Press, 2000.<br>
+
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

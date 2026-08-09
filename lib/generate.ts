@@ -25,7 +25,8 @@ import {
 import {
   allDefaultItems,
   getCustomItems,
-  getCustomCites,
+  getSampleCites,
+  getStyleTestCites,
   getAllDefaultCitationItems,
 } from "./data/index.js";
 
@@ -70,9 +71,10 @@ export function generate(cslFilePath: string): StyleFullResult {
   };
 
   // CSL-JSON CitationItems
-  const citations: { [key: string]: CitationItems } = {
+  const citations: { [key: string]: CitationItems; } = {
     ...getAllDefaultCitationItems(citation_format),
-    custom: getCustomCites(cslFilePath, customItems, citation_format),
+    custom: getSampleCites(cslFilePath, customItems, citation_format),
+    test: getStyleTestCites(cslFilePath, customItems, citation_format),
   };
 
   // 获取引注和参考文献表信息
@@ -83,7 +85,19 @@ export function generate(cslFilePath: string): StyleFullResult {
         ? citations[camelCase(`sample_${info.citation_format}`)]
         : citations["custom"]
     ),
-    bibliography: make_bibliography(citeproc),
+    bibliography: citation_format === 'note'
+      ? ""
+      : make_bibliography(citeproc),
+
+    test_result: isEmpty(citations["test"])
+      ? ""
+      : getItemResults(citeproc, citations["test"]),
+
+    // test_citations: make_citations(
+    //   citeproc,
+    //   citations["test"]
+    // ),
+    // test_bibliography:
 
     default_test_citations: make_citations(
       citeproc,
@@ -125,8 +139,11 @@ export function generateAndWrite(csl_file: string) {
   );
 
   function toDetails(summary: string, body: string, collapsible = true) {
+    if (!body) {
+      return "";
+    }
     return [
-      `### ${summary}\n`,
+      summary ? `### ${summary}\n` : "",
       // `<details><summary>${summary}</summary>\n`,
       collapsible ? `<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->\n` : "",
       `${body}\n`,
@@ -146,6 +163,8 @@ export function generateAndWrite(csl_file: string) {
     `## 样式预览\n`,
     toDetails("引注", result.citations, false),
     toDetails("参考文献表", result.bibliography, false),
+    `## 样式测试\n`,
+    toDetails("", result.test_result!),
     `## 默认测试\n`,
     toDetails("引注", result.default_test_citations!, false),
     toDetails("GB/T 7714—2025 示例文献", result.gb_result!),

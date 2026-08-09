@@ -31,6 +31,9 @@
   <div class="csl-entry"><b>Wang, S.</b> (2022). Application of improved SOM neural network in intelligent auditing of hospital financial vouchers In: <i>2022 6th Asian Conference on Artificial Intelligence Technology</i>, Changzhou, China.</div>
 </div>
 
+## 样式测试
+
+
 ## 默认测试
 
 ### 引注

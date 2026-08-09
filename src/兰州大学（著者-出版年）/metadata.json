@@ -19,6 +19,7 @@
   "updated": "2026-07-20T21:55:01+08:00",
   "citations": "(Smith et al., 2013)<br>\n(Smith and Jones, 2012)<br>\n(张明等，2011）<br>\n(张明和王辉，2010）<br>\n",
   "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">Smith, J. et al. English three-author test article[J]. Test Journal. 2013, 4(1): 31-40.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Smith, J., Jones, D. English two-author test article[J]. Test Journal. 2012, 3(1): 21-30.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">张明等. 中文三作者测试文献[J]. 测试期刊. 2011, 2(1): 11-20.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">张明, 王辉. 中文双作者测试文献[J]. 测试期刊. 2010, 1(1): 1-10.</div>\n  </div>\n</div>",
+  "test_result": "",
   "tags": [
     "姓名小写",
     "有标题",

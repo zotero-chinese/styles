@@ -23,6 +23,19 @@
   <div class="csl-entry">Wrigley, E. A. &#38; Roger S. Schofield, 1989, <i>The Population History of England 1541-1871: A Reconstruction</i>.</div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
+  <div class="csl-entry">陈少明，2005，《经典世界中的人、事、物——对中国哲学书写方式的一种思考》，载《中国社会科学》第5期。</div>
+  <div class="csl-entry">《第四期中国妇女社会地位调查主要数据情况》，2021，载《中国妇女报》12月27日，第4版。</div>
+  <div class="csl-entry">MacFarquhar, Roderick &#38; Michael Schoenhals, 2006, <i>Mao’s Last Revolution</i>, Cambridge, Mass.; London: Belknap Press of Harvard University Press.</div>
+  <div class="csl-entry">Wrigley, E. A. &#38; Roger S. Schofield, 1989, <i>The Population History of England 1541-1871: A Reconstruction</i>.</div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

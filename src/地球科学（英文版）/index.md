@@ -29,6 +29,23 @@
   <div class="csl-entry">Zhang, W. L., 2006. The High Precise Cenozoic Magnetostratigraphy of the Qaidam Basin and Uplift of the Northern Tibetan Plateau: [Dissertation]. Lanzhou University, Lanzhou. 95–105 (in Chinese)</div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
+  <div class="csl-entry">Chough, S. K., Barg, E., 1987. Tectonic History of Ulleung Basin Margin, East Sea (Sea of Japan). <i>Geology</i>, 15(1): 45. <a href="https://doi.org/10.1130/0091-7613(1987)15&#60;45:thoubm&#62;2.0.co;2">https://doi.org/10.1130/0091-7613(1987)15&#60;45:thoubm&#62;2.0.co;2</a></div>
+  <div class="csl-entry">Fox, P. J., Ruddiman, W. F., Ryan, W. B. F., et al., 1971. The Geology of the Caribbean Crust, I. Beata Ridge. In: Heezen, B. C., Kosminskaya, I. P., eds., The Structure of the Crust and Mantle beneath Inland and Marginal Seas. <i>Tectonophysics</i>, 10: 495–513. <a href="https://doi.org/10.1016/0040-1951(70)90041-7">https://doi.org/10.1016/0040-1951(70)90041-7</a></div>
+  <div class="csl-entry">Green, A., Jin, B., 2008. Example Paper with Two Authors. <i>Journal of Earth Science</i>, 1: 11–20.</div>
+  <div class="csl-entry">Kusky, T., 2000. Example Paper with One Author. <i>Journal of Earth Science</i>, 1: 21–30.</div>
+  <div class="csl-entry">Shrock, R. R., 1948. Sequence in Layered Rocks. McGraw-Hill, New York. 507</div>
+  <div class="csl-entry">Smith, A., Brown, B., Clark, C., et al., 2012. Example Paper with Four Authors. <i>Journal of Earth Science</i>, 1: 1–10.</div>
+  <div class="csl-entry">Sun, S. S., 1984. Geochemical Characteristics of Archean Ultramafic and Mafic Volcanic Rocks: Implication and Evolution. In: Kroner, A., Lansor, G. N., Goodwin, A. M., eds., Archean Geochemistry. Springer-Verlag, Berlin. 25–46</div>
+  <div class="csl-entry">Zhang, W. L., 2006. The High Precise Cenozoic Magnetostratigraphy of the Qaidam Basin and Uplift of the Northern Tibetan Plateau: [Dissertation]. Lanzhou University, Lanzhou. 95–105 (in Chinese)</div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

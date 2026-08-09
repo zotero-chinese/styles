@@ -19,6 +19,9 @@
   <div class="csl-entry">2.Wei, S. J., and Y. Wu, 2001, “Globalization and Inequality: Evidence from within China”, NBER Working Paper 8611, <a href="https://www.nber.org/papers/w8611">https://www.nber.org/papers/w8611</a>.</div>
 </div>
 
+## 样式测试
+
+
 ## 默认测试
 
 ### 引注

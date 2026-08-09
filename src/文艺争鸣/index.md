@@ -18,16 +18,9 @@
 <sup>8</sup> Adrian Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>, pp. 326—329.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
-  <div class="csl-entry">汪学军：《中国农业转基因生物研发进展与安全管理》，2005年。</div>
-  <div class="csl-entry">扬奎斯特、萨金特，《递归宏观经济理论》，杨斌等译，2中国人民大学出版社，2010年版。</div>
-  <div class="csl-entry">于潇等：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012年第11期。</div>
-  <div class="csl-entry">Adrian Praetzellis, <i>Death by theory: a tale of mystery and archaeological theory</i>Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
-  <div class="csl-entry">Pieternella H. van der Veen et al., “Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study,” <i>Journal of the Neurological Sciences</i>, Vol. 337, No. 1/2, 2014, pp. 112—118.</div>
-  <div class="csl-entry">Shanshan Wang, Shanshan Wang, “Application of improved SOM neural network in intelligent auditing of hospital financial vouchers,” Changzhou, China, December 2022, p. 2.</div>
-</div>
+## 样式测试
+
 
 ## 默认测试
 

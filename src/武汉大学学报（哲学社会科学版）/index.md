@@ -87,6 +87,66 @@
   </div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">陈登原. 国史旧闻：第 1 卷. 北京：中华书局，2000.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2] </div><div class="csl-right-inline">迈克尔·哈里森，帕特里克·沃尔德伦. 经济数学与金融数学. 谢远涛译. 北京：中国人民大学出版社，2012.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3] </div><div class="csl-right-inline">常森. 《五行》学说与《荀子》. 北京大学学报（哲学社会科学版），2013，（1）.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4] </div><div class="csl-right-inline">武丽丽，华一新，张亚军等. “北斗一号”监控管理网设计与实现. 测绘科学，2008，（5）.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5] </div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化. 中国青年报，2000-11-20.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[6] </div><div class="csl-right-inline">余建斌. 我们的科技一直在追赶：访中国工程院院长周济. 人民日报，2013-1-12.[2017-5-26] <a href="http://paper.people.com.cn/rmrb/html/201301/12/nw.D110000renmrb_20130112_5-02.htm">http://paper.people.com.cn/rmrb/html/201301/12/nw.D110000renmrb_20130112_5-02.htm</a>.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">P. Caplan. Cataloging Internet Resources. <i>The Public Access Computer Systems Review</i>, 1993, 4(2).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[8] </div><div class="csl-right-inline">K. S. Frese, H. A. Katus, B. Meder. Next-generation Sequencing: From Understanding Biology to Personalized Medicine. <i>Biology</i>, 2013, 2(1).</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[9] </div><div class="csl-right-inline">W. Crawfor, M. Gorman. Future Libraries: Dreams, Madness &#38; Reality. Chicago: American Library Association, 1995.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[10] </div><div class="csl-right-inline">李约瑟. 题词//苏克鲁，管成学，邓明鲁. 苏颂与《本草图经》研究. 长春：长春出版社，1991.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[11] </div><div class="csl-right-inline">王夫之. 周易外传：卷 5//船山全书：第 6 册. 长沙：岳麓书社，2011.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[12] </div><div class="csl-right-inline">马欢. 人类活动影响下海河流域典型区水循环变化分析. 北京：清华大学博士学位论文，2011.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[13] </div><div class="csl-right-inline">中国互联网络信息中心. 第 29 次中国互联网络发展现状统计报告. 中国互联网络信息中心网，2012-1-16.[2017-5-26] <a href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680.pdf">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680.pdf</a>.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[14] </div><div class="csl-right-inline">费孝通. 乡土中国. 1948.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[15] </div><div class="csl-right-inline">作者1. 书1. 2000.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[16] </div><div class="csl-right-inline">作者2. 书2. 2001.</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[17] </div><div class="csl-right-inline">作者3. 书3. 2002.</div>
+  </div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

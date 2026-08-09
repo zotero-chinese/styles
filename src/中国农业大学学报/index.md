@@ -8,9 +8,31 @@
 
 ### 引注
 
-<sup>[1-33]</sup>
+<sup>[1-5]</sup>
 
 ### 参考文献表
+
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
+  <div class="csl-entry">
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">张三. 中国心理学的过去与未来[J]. 心理学报, 2008, 40: 210-215; Zhang S. The past and future of Chinese psychology[J]. <i>Acta Psychologica Sinica</i>, 2008, 40: 210-215 (in Chinese)</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Mou W, McNamara T P. Intrinsic frames of reference in spatial memory[J]. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, 2002, 28: 162-170</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">张三. 心理学史[M]. 北京: 未名出版社, 2008; Zhang S. <i>History of psychology</i>[M]. Beijing: Unnamed Publisher, 2008 (in Chinese)</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Gibbs J T, Huang L N. <i>Children of color: Psychological interventions with minority youth</i>[M]. Hoboken,  NJ,  US: Jossey-Bass, 1989</div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Lichstein K L, Johnson R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]. In: <i>Reducing medication in geriatric populations</i>. Uppsala, Sweden, 1990</div>
+  </div>
+</div>
+
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
@@ -113,6 +135,8 @@
     <div class="csl-left-margin">[33]</div><div class="csl-right-inline">张三, 李四. 中国心理学与奥林匹克[N]. 新华日报, 2008-08-08(2, 5-7); Zhang S, Li S. Chinese psychology and the Olympics[N]. <i>Xinhua Daily</i>, 2008-08-08(2, 5-7) (in Chinese)</div>
   </div>
 </div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

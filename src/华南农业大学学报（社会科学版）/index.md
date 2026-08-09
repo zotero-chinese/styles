@@ -40,6 +40,26 @@
   <div class="csl-entry">[11] 作者3. 书3[M]. 出版社, 2002.</div>
 </div>
 
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
+  <div class="csl-entry">[1] 费孝通. 乡土中国[M]. 上海: 上海人民出版社, 2006: 3.</div>
+  <div class="csl-entry">[2] Adams R. Empowerment, participation and social work[M]. New York: Palgrave Macmillan, 2008.</div>
+  <div class="csl-entry">[3] 尹志超, 张栋浩. 金融普惠、家庭贫困及脆弱性[J]. 经济学(季刊), 2020(5): 153-172.</div>
+  <div class="csl-entry">[4] Howard M C, Rose J C. Refining and extending tasktechnology fit theory:creation of two task-technology fit scales and empirical clarification of the construct[J]. Information &#38; Management, 2019(6): 1-16.</div>
+  <div class="csl-entry">[5] 李园园, 薛彩霞, 柴朝卿, 等. 中国保护性耕作农业生态效率:动态演进、区域差异与收敛性分析[J/OL]. 资源科学, 2025-09-02[2025-10-17]. <a href="https://link.cnki.net/urlid/11.3868.N.20250902.0950.002">https://link.cnki.net/urlid/11.3868.N.20250902.0950.002</a>.</div>
+  <div class="csl-entry">[6] 中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
+  <div class="csl-entry">[7] 王继民, 罗鹏程, 赵常煜, 等. 人文社会科学数据集检索方法研究的数据集[DS/OL]. V2. 北京大学开放研究数据平台(2025-06-11)[2025-07-11]. <a href="https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a>.</div>
+  <div class="csl-entry">[8] 汪学军. 中国农业转基因生物研发进展与安全管理[C]//中国国家生物安全框架实施国际合作项目研讨会, 2005: 22-25.</div>
+  <div class="csl-entry">[9] 作者1. 书1[M]. 出版社, 2000.</div>
+  <div class="csl-entry">[10] 作者2. 书2[M]. 出版社, 2001.</div>
+  <div class="csl-entry">[11] 作者3. 书3[M]. 出版社, 2002.</div>
+</div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
+
 ## 默认测试
 
 ### 引注

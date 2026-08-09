@@ -14,22 +14,18 @@
 <sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">逄先知、金冲及主编：《毛泽东传》，2003年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">[德]黑格尔：《逻辑学》（上），杨一之译，商务印书馆，2001年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。</div>
-  </div>
-</div>
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
+
+<sup>1</sup> 《马克思恩格斯选集》第2卷，北京：人民出版社，1995年。<br>
+<sup>2</sup> 逄先知、金冲及主编：《毛泽东传》，2003年。<br>
+<sup>3</sup> [德]黑格尔：《逻辑学》（上），杨一之译，商务印书馆，2001年。<br>
+<sup>4</sup> 任平：《马克思“反思的问题视域”及其当代意义》，《中国社会科学》2006年第6期。<br>
+
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

@@ -10,29 +10,24 @@
 
 （齐美尔，2001）<br>
 （Uslaner，2002）<br>
-（吉登斯，2000）<br>
 （杨国荣，2018）<br>
-（朱力、袁迎春，2014）<br>
 （Winship &#38; Mare，1984）<br>
-（刘江、顾东辉，2022）<br>
-（Drane，1994）<br>
-（王欧，2022）<br>
-（清华大学社会学系课题组，2013）<br>
-（项飙，2018）<br>
-（李启波，2014）<br>
-（张文琪、朱志勇，2022）<br>
-（中国青年报，2016）<br>
-（中华人民共和国教育部，1981）<br>
-（冯钢，2018）<br>
-（马克思，1972a）<br>
-（马克思，1972b）<br>
-（王嘉毅，2017）<br>
-（Ozawa &#38; Sripad，2013）<br>
 （张，2001）<br>
-（张小莲等，2020）<br>
 
 
 ### 参考文献表
+
+<div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">齐美尔，2001，《时尚的哲学》，费勇译，北京：文化艺术出版社。</div>
+  <div class="csl-entry">杨国荣，2018，《信任及其伦理意义》，《中国社会科学》第3期。</div>
+  <div class="csl-entry">张静 2001, 国家政权建设与乡村自治单位——问题与回顾.</div>
+  <div class="csl-entry">Uslaner, Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
+  <div class="csl-entry">Winship, Christopher &#38; Robert D. Mare 1984, “Regression Models with Ordinal Variables.” <i>American Sociological Review</i> 49(4).</div>
+</div>
+
+## 样式测试
+
+<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
   <div class="csl-entry">冯钢，2018，《马克思的“过渡”理论与“卡夫丁峡谷”之谜》，《社会学研究》第2期。</div>
@@ -58,6 +53,8 @@
   <div class="csl-entry">Uslaner, Eric M. 2002, <i>The Moral Fundations of Trust</i>. Cambridge: Cambridge University Press.</div>
   <div class="csl-entry">Winship, Christopher &#38; Robert D. Mare 1984, “Regression Models with Ordinal Variables.” <i>American Sociological Review</i> 49(4).</div>
 </div>
+
+<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 

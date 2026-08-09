@@ -18,28 +18,9 @@
 <sup>8</sup> Adrian Praetzellis, <i>Death by Theory</i>, pp. 326-329.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特、萨金特《递归宏观经济理论》（第2版），杨斌、王忠玉、陈彦斌、严高剑译，北京：中国人民大学出版社，2010年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇、刘义、柴跃廷、孙宏波《互联网药品可信交易环境中主体资质审核备案模式》，载《清华大学学报（自然科学版）》2012年第11期。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group, “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study”, in <i>Journal of the Neurological Sciences</i>, 337.1/2 (2014), pp. 112-118.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军《中国农业转基因生物研发进展与安全管理》，收入国家环境保护总局生物安全管理办公室编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers”, “2022 6th Asian Conference on Artificial Intelligence Technology” paper, Changzhou, China, December 2022.</div>
-  </div>
-</div>
+## 样式测试
+
 
 ## 默认测试
 
