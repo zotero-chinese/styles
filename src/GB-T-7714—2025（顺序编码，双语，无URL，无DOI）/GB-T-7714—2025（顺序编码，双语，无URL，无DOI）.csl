@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" name-as-sort-order="all" sort-separator=" " initialize-with=" " page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB-T-7714—2025（顺序编码，双语，无URL，无DOI）</title>
+    <title>GB/T 7714—2025（顺序编码，双语，无URL，无DOI）</title>
     <id>https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，无URL，无DOI）</id>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，无URL，无DOI）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语）" rel="template"/>
@@ -13,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。除在线出版的期刊文章、网站、网页、预印本外不著录 URL。无 DOI。</summary>
-    <updated>2026-08-09T16:49:04+08:00</updated>
+    <updated>2026-08-09T17:23:59+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
