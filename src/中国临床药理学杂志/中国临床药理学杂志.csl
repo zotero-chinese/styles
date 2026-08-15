@@ -9,14 +9,11 @@
       <name>SimonZhou</name>
       <email>pumc.zhou@outlook.com</email>
     </author>
-    <contributor>
-      <name>中国临床药理学杂志 中国药学会《中国临床药理学杂志》投稿须知及编辑部审稿返修参考文献要求</name>
-    </contributor>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <issn>1001-6821</issn>
-    <summary>《中国临床药理学杂志》顺序编码制（投稿指南修订版），基于 GB/T 7714—2025。4名及以上作者列前3名；中文加“等”，英文加斜体“et al.”；英文期刊名缩写、斜体；页码范围使用全角破折号；缺卷、期或页码的期刊文章按[J/OL]著录并显示发布日期、引用日期和URL；网络文献按[EB/OL]著录并显示发布日期、引用日期和URL</summary>
-    <updated>2026-08-08T00:00:00+08:00</updated>
+    <summary>中国药学会《中国临床药理学杂志》投稿须知（2024-01-17）及编辑部审稿返修参考文献要求，基于 GB/T 7714—2025。4名及以上作者列前3名；中文加“等”，英文加斜体“et al.”；英文期刊名缩写、斜体；页码范围使用全角破折号；缺卷、期或页码的期刊文章按[J/OL]著录并显示发布日期、引用日期和URL；网络文献按[EB/OL]著录并显示发布日期、引用日期和URL</summary>
+    <updated>2026-08-15T18:47:24+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 
@@ -48,7 +45,7 @@
       <term name="page-range-delimiter">&#8212;</term>
     </terms>
   </locale>
-<!-- 主要责任者 -->
+  <!-- 主要责任者 -->
   <!-- 中英文作者分别处理，以控制分隔符和 et al. 的斜体。 -->
   <!-- 英文作者 -->
   <macro name="author-en">
@@ -109,7 +106,7 @@
       </substitute>
     </names>
   </macro>
-<!-- 中文作者 -->
+  <!-- 中文作者 -->
   <macro name="author-zh">
     <names variable="author">
       <name delimiter="，" delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
@@ -152,7 +149,6 @@
       </substitute>
     </names>
   </macro>
-
   <!-- 文献类型标识。 -->
   <macro name="entry-type-id">
     <choose>
@@ -175,7 +171,6 @@
       <else><text value="Z"/></else>
     </choose>
   </macro>
-
   <!-- 缺卷、期或页码时为期刊文章追加 OL。 -->
   <macro name="entry-medium-id">
     <choose>
@@ -213,7 +208,6 @@
       </if>
     </choose>
   </macro>
-
   <!-- 中英文题名分别处理：英文题名与 [J] 之间留空格，中文不留空格。 -->
   <macro name="title-en">
     <group delimiter=". ">
@@ -284,7 +278,6 @@
       <else><date variable="available-date" form="numeric" date-parts="year"/></else>
     </choose>
   </macro>
-
   <!-- 英文期刊名斜体。 -->
   <macro name="container-periodical-en">
     <choose>
@@ -307,7 +300,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 中文期刊名不斜体。 -->
   <macro name="container-periodical-zh">
     <choose>
@@ -330,7 +322,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 电子期刊附加信息：发布日期 [引用日期]. URL。 -->
   <macro name="online-details">
     <group delimiter=". ">
@@ -407,7 +398,6 @@
   </macro>
 
   <macro name="dimensions"><choose><if type="map"><text variable="dimensions"/></if></choose></macro>
-
   <!-- 英文条目。英文题名原样输出，以保留 Zotero 元数据中冒号后的大写。 -->
   <macro name="entry-layout-en">
     <group delimiter=". ">
@@ -437,7 +427,6 @@
       </choose>
     </group>
   </macro>
-
   <!-- 中文条目。 -->
   <macro name="entry-layout-zh">
     <group delimiter=". ">
