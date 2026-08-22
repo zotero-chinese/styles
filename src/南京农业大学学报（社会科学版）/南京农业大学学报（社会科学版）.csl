@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+  <info>
+    <title>南京农业大学学报（社会科学版）</title>
+    <id>https://zotero-chinese.com/styles/南京农业大学学报（社会科学版）</id>
+    <link href="https://zotero-chinese.com/styles/南京农业大学学报（社会科学版）" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
+    <link href="http://njnydxxbskb.paperonce.org/#/FixedBody?ItemId=30" rel="documentation"/>
+    <link href="https://rwskc.njau.edu.cn/qkyxh/njnydxxb_skb_.htm" rel="documentation"/>
+    <author>
+      <name>杨家风子</name>
+      <email>denghanqing@whu.edu.cn</email>
+    </author>
+    <contributor>
+      <name>牛耕田</name>
+      <email>buffalo_d@163.com</email>
+    </contributor>
+    <contributor>
+      <name>Zeping Lee</name>
+      <email>zepinglee@gmail.com</email>
+    </contributor>
+    <category citation-format="numeric"/>
+    <category field="social_science"/>
+    <issn>1671-7465</issn>
+    <summary>《南京农业大学学报（社会科学版）》投稿指南（未标注发布日期）及 2026 年第 2、3 期已刊样文。顺序编码制（GB/T 7714 型）：正文上标 ［n］（可附页码），文末按引用顺序排列；全角标点（．，［］－）与半角冒号/圆括号，条目内无空格；期刊无卷号（刊名，年(期):页码）；图书/析出/学位论文文末出版年后附页码，译著“译者，译”；网络文献（网页/博客/数据集/预印本/报告/网络首发）输出 ［OL］、引用日期与 URL。</summary>
+    <updated>2026-08-22T20:30:00+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+
+  <locale xml:lang="zh">
+    <terms>
+      <term name="translator" form="short">译</term>
+      <term name="edition" form="short">版</term>
+      <term name="et-al">等</term>
+      <term name="page-range-delimiter">－</term>
+      <term name="citation-range-delimiter">－</term>
+      <term name="open-quote">“</term>
+      <term name="close-quote">”</term>
+      <term name="open-inner-quote">‘</term>
+      <term name="close-inner-quote">’</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <!-- 已刊样文：英文“et al”不带句点，由条目结束的全角句点收尾 -->
+      <term name="et-al">et al</term>
+      <term name="page-range-delimiter">－</term>
+      <term name="citation-range-delimiter">－</term>
+    </terms>
+    <date form="numeric">
+      <date-part name="year" range-delimiter="/"/>
+      <date-part name="month" form="numeric-leading-zeros" prefix="－" range-delimiter="/"/>
+      <date-part name="day" form="numeric-leading-zeros" prefix="－" range-delimiter="/"/>
+    </date>
+  </locale>
+
+  <!-- 主要责任者：中文“，”分隔；超过 3 人前 3 人 + 等/et al（英文姓前名后，正常大小写，如 Smith N） -->
+  <macro name="author">
+    <names variable="author">
+      <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
+    </names>
+  </macro>
+
+  <!-- 题名（非期刊类可带“:卷号”）+ 文献类型标识/载体标识（如 ［M］、［J/OL］） -->
+  <macro name="title">
+    <group delimiter=":">
+      <text variable="title"/>
+      <choose>
+        <if type="article article-journal article-magazine article-newspaper periodical" match="none">
+          <text variable="volume"/>
+        </if>
+      </choose>
+    </group>
+    <group delimiter="/" prefix="［" suffix="］">
+      <text macro="type-id"/>
+      <text macro="medium-id"/>
+    </group>
+  </macro>
+
+  <!-- 文献类型标识（指南：图书 M、论文集 C、报纸 N、期刊 J、学位论文 D、报告 R、汇编 G、数据库 DB、电子公告 EB；析出文献以刊用载体为准） -->
+  <macro name="type-id">
+    <choose>
+      <if type="article">
+        <!-- 预印本/网络文献：归为电子公告 EB -->
+        <text value="EB"/>
+      </if>
+      <else-if type="article-journal article-magazine periodical" match="any">
+        <text value="J"/>
+      </else-if>
+      <else-if type="article-newspaper">
+        <text value="N"/>
+      </else-if>
+      <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
+        <text value="M"/>
+      </else-if>
+      <else-if type="collection">
+        <!-- 汇编 G -->
+        <text value="G"/>
+      </else-if>
+      <else-if type="paper-conference">
+        <!-- 论文集 C -->
+        <text value="C"/>
+      </else-if>
+      <else-if type="thesis">
+        <text value="D"/>
+      </else-if>
+      <else-if type="report">
+        <text value="R"/>
+      </else-if>
+      <else-if type="dataset">
+        <!-- 数据库 DB -->
+        <text value="DB"/>
+      </else-if>
+      <else-if type="post post-weblog webpage" match="any">
+        <text value="EB"/>
+      </else-if>
+      <else-if type="bill hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <!-- 档案 A -->
+        <text value="A"/>
+      </else-if>
+      <else-if type="map">
+        <text value="CM"/>
+      </else-if>
+      <else-if type="patent">
+        <text value="P"/>
+      </else-if>
+      <else-if type="software">
+        <text value="CP"/>
+      </else-if>
+      <else-if type="standard">
+        <text value="S"/>
+      </else-if>
+      <else>
+        <text value="Z"/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- 文献载体标识：仅网络文献（网页/博客/数据集/预印本/报告/网络首发）有 URL 时输出 OL；印刷文献即使有 URL 也不输出 -->
+  <macro name="medium-id">
+    <choose>
+      <if variable="medium">
+        <text variable="medium"/>
+      </if>
+      <else-if type="article dataset post post-weblog webpage report" variable="URL" match="all">
+        <text value="OL"/>
+      </else-if>
+      <else-if type="article-journal" variable="available-date URL" match="all">
+        <!-- 期刊网络首发 -->
+        <text value="OL"/>
+      </else-if>
+    </choose>
+  </macro>
+
+  <!-- 译者：张皓，张升，译（英文：，trans.） -->
+  <macro name="translator">
+    <names variable="translator">
+      <name delimiter="，"/>
+      <label form="short" prefix="，"/>
+    </names>
+  </macro>
+
+  <!-- 析出文献来源责任者 -->
+  <macro name="container-contributors">
+    <names variable="editor">
+      <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
+      <substitute>
+        <names variable="editorial-director"/>
+        <names variable="collection-editor"/>
+        <names variable="container-author"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <!-- 析出文献来源题名：原责任者．原文献题名（会议无论文集时用会议名） -->
+  <macro name="container-booklike">
+    <group delimiter="．">
+      <text macro="container-contributors"/>
+      <choose>
+        <if variable="container-title">
+          <text variable="container-title"/>
+        </if>
+        <else-if type="paper-conference">
+          <text variable="event-title"/>
+        </else-if>
+      </choose>
+    </group>
+  </macro>
+
+  <!-- 出版年：无出版年不输出占位；期刊网络首发无出版年时用 available-date 完整日期 -->
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" form="numeric" date-parts="year"/>
+      </if>
+      <else-if type="article-journal" variable="available-date" match="all">
+        <date variable="available-date" form="numeric"/>
+      </else-if>
+    </choose>
+  </macro>
+
+  <!-- 完整出版日期（报纸、专利、电子文献更新日期；格式如 2024－05－01） -->
+  <macro name="issued-date">
+    <date variable="issued" form="numeric"/>
+  </macro>
+
+  <!-- 引用日期：仅网络文献有 URL 时输出，如 [2024－05－01] -->
+  <macro name="accessed-date">
+    <choose>
+      <if type="article dataset post post-weblog webpage report" variable="URL" match="all">
+        <choose>
+          <if variable="accessed">
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </if>
+        </choose>
+      </if>
+      <else-if type="article-journal" variable="available-date URL" match="all">
+        <choose>
+          <if variable="accessed">
+            <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+          </if>
+        </choose>
+      </else-if>
+    </choose>
+  </macro>
+
+  <!-- 获取和访问路径：仅网络文献有 URL 时输出 -->
+  <macro name="access">
+    <choose>
+      <if type="article dataset post post-weblog webpage report" variable="URL" match="all">
+        <text variable="URL"/>
+      </if>
+      <else-if type="article-journal" variable="available-date URL" match="all">
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+
+  <!-- 连续出版物出处：期刊 刊名，年(期):页码（已刊样文无卷号）；报纸 报名，日期(版次) -->
+  <macro name="container-periodical">
+    <choose>
+      <if type="article-newspaper">
+        <group delimiter="，">
+          <text variable="container-title"/>
+          <text macro="issued-date"/>
+        </group>
+        <choose>
+          <if variable="edition">
+            <!-- 版次优先取 edition 字段，否则取 page 字段 -->
+            <text variable="edition" prefix="(" suffix=")"/>
+          </if>
+          <else-if variable="page">
+            <text variable="page" prefix="(" suffix=")"/>
+          </else-if>
+        </choose>
+      </if>
+      <else>
+        <group delimiter=":">
+          <group delimiter="">
+            <group delimiter="，">
+              <text variable="container-title"/>
+              <text macro="issued-year"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+          <text variable="page"/>
+        </group>
+      </else>
+    </choose>
+    <text macro="accessed-date"/>
+  </macro>
+
+  <!-- 版本项：按录入原样输出（如“第2版”） -->
+  <macro name="edition">
+    <text variable="edition"/>
+  </macro>
+
+  <!-- 出版项（印刷文献）：出版地:出版者，出版年:页码 -->
+  <macro name="publisher">
+    <group delimiter="，">
+      <group delimiter=":">
+        <text variable="publisher-place"/>
+        <text variable="publisher"/>
+      </group>
+      <group delimiter=":">
+        <text macro="issued-year"/>
+        <text variable="page"/>
+      </group>
+    </group>
+  </macro>
+
+  <!-- 电子文献出版项：出版地:出版者，出版年(更新或修改日期)[引用日期] -->
+  <macro name="online-date">
+    <group delimiter="">
+      <group delimiter="">
+        <text macro="issued-year"/>
+        <choose>
+          <if has-day="issued">
+            <text macro="issued-date" prefix="(" suffix=")"/>
+          </if>
+        </choose>
+      </group>
+      <text macro="accessed-date"/>
+    </group>
+  </macro>
+  <macro name="publisher-online">
+    <choose>
+      <if variable="publisher publisher-place" match="any">
+        <group delimiter="，">
+          <group delimiter=":">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <text macro="online-date"/>
+        </group>
+      </if>
+      <else>
+        <text macro="online-date"/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- 参考文献条目：全角标点、零空格；析出文献“题名［M］//原责任者．原文献题名，出版项” -->
+  <macro name="entry-layout">
+    <group delimiter="．">
+      <text macro="author"/>
+      <choose>
+        <if type="periodical">
+          <group delimiter="．">
+            <text macro="title"/>
+            <group delimiter="，">
+              <text macro="issued-year"/>
+              <text variable="volume"/>
+            </group>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+        </if>
+        <else-if type="article-journal article-magazine article-newspaper" match="any">
+          <text macro="title"/>
+          <text macro="container-periodical"/>
+        </else-if>
+        <else-if type="article dataset post post-weblog webpage report" variable="URL" match="all">
+          <!-- 电子文献：题名［EB/OL］．出版项（含引用日期）．URL -->
+          <text macro="title"/>
+          <text macro="publisher-online"/>
+        </else-if>
+        <else-if type="patent">
+          <text macro="title"/>
+          <text macro="issued-date"/>
+        </else-if>
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" match="any">
+          <group delimiter="，">
+            <group delimiter="//">
+              <text macro="title"/>
+              <text macro="container-booklike"/>
+            </group>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+          </group>
+        </else-if>
+        <else>
+          <text macro="title"/>
+          <text macro="translator"/>
+          <text macro="edition"/>
+          <text macro="publisher"/>
+        </else>
+      </choose>
+      <text macro="access"/>
+    </group>
+  </macro>
+
+  <!-- 引注：正文上标 ［n］，可附页码（同一文献多次引用时页码标于序号后、文后不注） -->
+  <citation collapse="citation-number" after-collapse-delimiter="，">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout vertical-align="sup" delimiter="，">
+      <group>
+        <text variable="citation-number" prefix="［" suffix="］"/>
+        <text variable="locator"/>
+      </group>
+    </layout>
+  </citation>
+
+  <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
+    <layout locale="zh-CN">
+      <text variable="citation-number" prefix="［" suffix="］"/>
+      <text macro="entry-layout" suffix="．"/>
+    </layout>
+    <layout>
+      <text variable="citation-number" prefix="［" suffix="］"/>
+      <text macro="entry-layout" suffix="．"/>
+    </layout>
+  </bibliography>
+</style>

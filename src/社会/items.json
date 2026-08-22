@@ -1,0 +1,379 @@
+[
+	{
+		"id": "shh:01",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "中国农民工社会融入的代际比较",
+		"container-title": "社会",
+		"volume": "32",
+		"issue": "5",
+		"page": "1-24",
+		"issued": {
+			"date-parts": [
+				[
+					2012
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "李培林"
+			},
+			{
+				"family": "田丰"
+			}
+		]
+	},
+	{
+		"id": "shh:02",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "乡土中国的民主选举",
+		"publisher": "华中师范大学出版社",
+		"publisher-place": "武汉",
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "徐勇"
+			},
+			{
+				"family": "吴毅"
+			}
+		]
+	},
+	{
+		"id": "shh:03",
+		"type": "book",
+		"language": "en-US",
+		"title": "New Urban Immigrants: The Korean Community in New York",
+		"publisher": "Princeton University Press",
+		"publisher-place": "Princeton, N.J.",
+		"issued": {
+			"date-parts": [
+				[
+					1981
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Illsoo"
+			}
+		]
+	},
+	{
+		"id": "shh:04",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Differential Impact of Involuntary Job Loss on Physical Disability among Older Workers: Does Predisposition Matter?",
+		"container-title": "Research on Aging",
+		"volume": "31",
+		"issue": "3",
+		"page": "345-360",
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Gallo",
+				"given": "William T."
+			},
+			{
+				"family": "Brand",
+				"given": "Jennie E."
+			},
+			{
+				"family": "Teng",
+				"given": "Hsun-Mei"
+			},
+			{
+				"family": "Leo-Summers",
+				"given": "Linda"
+			},
+			{
+				"family": "Byers",
+				"given": "Amy L."
+			}
+		]
+	},
+	{
+		"id": "shh:05",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "乡土中国",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"issued": {
+			"date-parts": [
+				[
+					1981
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "shh:06",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "社会治理的数字化转型",
+		"container-title": "社会学研究",
+		"issue": "4",
+		"issued": {
+			"date-parts": [
+				[
+					2023
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "张三"
+			},
+			{
+				"family": "李四"
+			}
+		]
+	},
+	{
+		"id": "shh:07",
+		"type": "book",
+		"language": "en-US",
+		"title": "The City in History",
+		"publisher": "Penguin Books",
+		"publisher-place": "New York",
+		"issued": {
+			"date-parts": [
+				[
+					1961
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Mumford",
+				"given": "Lewis"
+			}
+		]
+	},
+	{
+		"id": "shh:08",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "乡土中国",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"issued": {
+			"date-parts": [
+				[
+					1995
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "shh:09",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "乡土重建",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "shh:10",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "社会分工论",
+		"publisher": "三联书店",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1999
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "涂尔干"
+			}
+		]
+	},
+	{
+		"id": "shh:11",
+		"type": "book",
+		"language": "en-US",
+		"title": "The Division of Labor in Society",
+		"publisher": "Free Press",
+		"publisher-place": "New York",
+		"issued": {
+			"date-parts": [
+				[
+					1973
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Durkheim",
+				"given": "Emile"
+			}
+		]
+	},
+	{
+		"id": "shh:12",
+		"type": "chapter",
+		"language": "zh-CN",
+		"title": "文集中的一篇",
+		"container-title": "某某文集",
+		"editor": [
+			{
+				"family": "主编甲"
+			}
+		],
+		"publisher": "某出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "陈文"
+			}
+		]
+	},
+	{
+		"id": "shh:13",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "三人合著论文",
+		"container-title": "社会",
+		"volume": "35",
+		"issue": "2",
+		"page": "1-10",
+		"issued": {
+			"date-parts": [
+				[
+					2020
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "张三"
+			},
+			{
+				"family": "李四"
+			},
+			{
+				"family": "王五"
+			}
+		]
+	},
+	{
+		"id": "shh:14",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Four Author Paper",
+		"container-title": "American Journal of Sociology",
+		"volume": "120",
+		"issue": "1",
+		"page": "1-10",
+		"issued": {
+			"date-parts": [
+				[
+					2015
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Smith",
+				"given": "John"
+			},
+			{
+				"family": "Brown",
+				"given": "Jane"
+			},
+			{
+				"family": "Jones",
+				"given": "Bob"
+			},
+			{
+				"family": "Lee",
+				"given": "Ann"
+			}
+		]
+	},
+	{
+		"id": "shh:15",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "江村经济",
+		"publisher": "商务印书馆",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1981
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "shh:16",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "无作者之书",
+		"publisher": "某出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2005
+				]
+			]
+		}
+	}
+]
