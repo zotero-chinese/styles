@@ -5,7 +5,7 @@
     <id>https://zotero-chinese.com/styles/科学与社会</id>
     <link href="https://zotero-chinese.com/styles/科学与社会" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
-    <link href="https://kxsy.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=kxsy" rel="documentation"/>
+    <link href="https://kxsy.cbpt.cnki.net/wkg/WebPublication/wkList.aspx?navigationID=1c8301ae-e7e3-4213-af6d-7401fedd8bf0&mid=kxsy" rel="documentation"/>
     <author>
       <name>杨家风子</name>
       <email>denghanqing@whu.edu.cn</email>
@@ -22,7 +22,7 @@
     <category field="social_science"/>
     <issn>2095-1949</issn>
     <summary>《科学与社会》文章格式规范（编辑部格式模板，未标注发布日期）。顺序编码制：正文上标 [n]，同一文献多次引用时页码标注于序号方括号之外（如 [2]1194），文末按引用顺序编号；文末参考文献 12 类（期刊/报纸/网页/图书/析出/翻译/专利/学位论文/论文集/科技报告/网络首发/预印本），不带文献类型标识，著者最多 3 人后加“, 等”或“, et al.”，英文著者姓前名后、缩写名无点、姓全大写，期刊卷（期）与报纸版次应填尽填，页码连接号用 en dash；档案文献改脚注罗列（CSL 结构限制，见 spec.md）。</summary>
-    <updated>2026-08-22T20:30:00+08:00</updated>
+    <updated>2026-08-22T22:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 
