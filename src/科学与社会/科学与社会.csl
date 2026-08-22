@@ -21,7 +21,7 @@
     <category citation-format="numeric"/>
     <category field="social_science"/>
     <issn>2095-1949</issn>
-    <summary>《科学与社会》文章格式规范（编辑部格式模板，未标注发布日期）。顺序编码制：正文上标 [n]，同一文献多次引用时页码标注于序号方括号之外（如 [2]1194），文末按引用顺序编号；文末参考文献 12 类（期刊/报纸/网页/图书/析出/翻译/专利/学位论文/论文集/科技报告/网络首发/预印本），不带文献类型标识，著者最多 3 人后加“, 等”或“, et al.”，英文著者姓前名后、缩写名无点、姓全大写，期刊卷（期）与报纸版次应填尽填，页码连接号用 en dash；档案文献改脚注罗列（CSL 结构限制，见 spec.md）。</summary>
+    <summary>《科学与社会》文章格式规范（编辑部格式模板，未标注发布日期）。顺序编码制：正文上标 [n]，同一文献多次引用时页码标注于序号方括号之外（如 [2]1194），文末按引用顺序编号；文末参考文献 12 类（期刊/报纸/网页/图书/析出/翻译/专利/学位论文/论文集/科技报告/网络首发/预印本），不带文献类型标识，著者最多 3 人后加“, 等”或“, et al.”，英文著者姓前名后、缩写名无点、姓全大写，期刊卷（期）与报纸版次应填尽填，页码连接号用 en dash；档案文献改脚注罗列（CSL 结构限制）。</summary>
     <updated>2026-08-22T22:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -525,7 +525,7 @@
 
   <!-- 引注：正文上标 [n]；同一文献多次引用时页码标注于 [] 外（如 [2]1194）。
        CSL 限制：多文献合引 [1,3,5-8] 的单括号折叠与页码外置不能同时实现，
-       这里优先页码外置，多文献输出 [1]-[3]、[1],[3]（见 spec.md ④）。 -->
+       这里优先页码外置，多文献输出 [1]-[3]、[1],[3]。 -->
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number"/>

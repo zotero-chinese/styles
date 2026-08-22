@@ -70,7 +70,7 @@
     </names>
   </macro>
   <!-- 英文部分主要责任者：优先 original-author（中文文献的英文翻译），否则取 author；
-       et-al 元素必须位于 name 之后才生效（两引擎一致的踩坑，见 spec.md） -->
+       et-al 元素必须位于 name 之后才生效 -->
   <macro name="author-en">
     <choose>
       <if variable="original-author">

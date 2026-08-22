@@ -4,7 +4,7 @@
        按《社会》撰稿体例（发布时间：2024-09-23）改写，与底本的主要差异：
        ① 中文文献标注类型标识 ［M/J/G/D］；② 期刊出处“社会 32（5）”不加《》、不用“第X卷”；
        ③ 中文页码连接号用全角 －（官方夹注例 25－27），英文用半角 -；
-       ④ 文末参考文献不输出 citation-number（体例无编号）；⑤ 缺出版年不输出占位（项目默认，AGENTS.md）。 -->
+       ④ 文末参考文献不输出 citation-number（体例无编号）；⑤ 缺出版年不输出占位（项目默认）。 -->
   <info>
     <title>社会</title>
     <id>https://zotero-chinese.com/styles/社会</id>
@@ -126,7 +126,7 @@
   <macro name="anon">
     <text term="anonymous" form="short" strip-periods="true" text-case="capitalize-first"/>
   </macro>
-  <!-- 出版年：缺年不输出占位（项目默认，AGENTS.md） -->
+  <!-- 出版年：缺年不输出占位（项目默认） -->
   <macro name="date-bib">
     <date variable="issued">
       <date-part name="year" range-delimiter="-"/>
