@@ -118,7 +118,7 @@
     <div class="csl-left-margin">[22] </div><div class="csl-right-inline">中国互联网络信息中心. 第29次中国互联网络发展现状统计报告. 北京: 中国互联网络信息中心, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23] </div><div class="csl-right-inline">张三. 一种基于大数据的推荐方法: 中国, CN202010123456.7. 2020.</div>
+    <div class="csl-left-margin">[23] </div><div class="csl-right-inline">张三. 一种基于大数据的推荐方法, CN202010123456.7. 2020.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24] </div><div class="csl-right-inline">王五. 大模型对齐研究综述. arXiv: 2401.12345 [2024-02-01].</div>
@@ -236,7 +236,7 @@
     <div class="csl-left-margin">[22] </div><div class="csl-right-inline">中国互联网络信息中心. 第29次中国互联网络发展现状统计报告. 北京: 中国互联网络信息中心, 2012.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[23] </div><div class="csl-right-inline">张三. 一种基于大数据的推荐方法: 中国, CN202010123456.7. 2020.</div>
+    <div class="csl-left-margin">[23] </div><div class="csl-right-inline">张三. 一种基于大数据的推荐方法, CN202010123456.7. 2020.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[24] </div><div class="csl-right-inline">王五. 大模型对齐研究综述. arXiv: 2401.12345 [2024-02-01].</div>

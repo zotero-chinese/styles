@@ -23,7 +23,7 @@
     <category field="sociology"/>
     <issn>1004-8804</issn>
     <summary>《社会》撰稿体例（发布时间：2024-09-23）。著者-出版年（夹注+文末参考文献）：正文夹注（作者，年份：页码）；中文文献标注［M/J/G/D］类型标识并使用全角标点；外文作者第一作者姓前名后、其余名 姓，and 连接。</summary>
-    <updated>2026-08-22T21:00:00+08:00</updated>
+    <updated>2026-08-23T19:41:51+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -51,8 +51,6 @@
       <term name="close-inner-quote">’</term>
       <!-- 页码连接号：官方夹注例 25－27 用全角；文献表中文例 1-24 与英文例 345－360 不一致，按多数例取全角 -->
       <term name="page-range-delimiter">－</term>
-      <!-- 同一夹注内同作者多年代：官方例（费孝通，1981，1998）用逗号隔开 -->
-      <term name="year-range-delimiter">，</term>
       <term name="et-al">等</term>
     </terms>
   </locale>

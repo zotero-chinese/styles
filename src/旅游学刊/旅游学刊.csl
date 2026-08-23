@@ -22,7 +22,7 @@
     <category field="social_science"/>
     <issn>1002-5006</issn>
     <summary>《旅游学刊》投稿须知（发布时间：2022-10-20）及《参考文献格式示例》（发布时间：2019-01-02）。顺序编码制：正文上标 [n]，文末按引用顺序编号；中文文献双语对照（中文原文在前、英文翻译在后，extra 填 original-* 字段）；英文作者姓全大写、名缩写；作者 1-3 名全列，3 名以上前 3 名加“，等”/“et al.”。</summary>
-    <updated>2026-08-22T20:30:00+08:00</updated>
+    <updated>2026-08-23T19:51:19+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -206,28 +206,6 @@
       </substitute>
     </names>
   </macro>
-  <!-- 析出文献来源责任者（英文部分）：original-editor 为 CSL-M 扩展变量 -->
-  <macro name="container-contributors-en">
-    <choose>
-      <if variable="original-editor">
-        <names variable="original-editor">
-          <name delimiter=", " delimiter-precedes-et-al="contextual"/>
-          <et-al term="and others"/>
-        </names>
-      </if>
-      <else>
-        <names variable="editor">
-          <name delimiter=", " delimiter-precedes-et-al="contextual"/>
-          <et-al term="and others"/>
-          <substitute>
-            <names variable="editorial-director"/>
-            <names variable="collection-editor"/>
-            <names variable="container-author"/>
-          </substitute>
-        </names>
-      </else>
-    </choose>
-  </macro>
   <!-- 出版年：无出版年不输出占位；期刊网络首发无出版年时用 available-date -->
   <macro name="issued-year">
     <choose>
@@ -339,7 +317,6 @@
     <group delimiter="// ">
       <text macro="title-en"/>
       <group delimiter=". ">
-        <text macro="container-contributors-en"/>
         <choose>
           <if variable="original-container-title">
             <text variable="original-container-title"/>

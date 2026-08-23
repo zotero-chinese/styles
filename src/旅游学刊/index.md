@@ -34,7 +34,7 @@
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">周永博, 魏向东, 梁峰. 基于 IPA 的旅游目的地意象整合营销传播——两个江南水乡古镇的案例研究[J]. 旅游学刊, 2013, 28(9): 53-60. [ZHOU Yongbo, WEI Xiangdong, LIANG Feng. Tourism destination image integrated marketing communications: A composite IPA research based on ancient water towns in Southern Yangth River case[J]. Tourism Tribune, 2013, 28(9): 53-60.]</div>
+    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">周永博, 魏向东, 梁峰. 基于 IPA 的旅游目的地意象整合营销传播——两个江南水乡古镇的案例研究[J]. 旅游学刊, 2013, 28(9): 53-60. [周永博, 魏向东, 梁峰. Tourism destination image integrated marketing communications: A composite IPA research based on ancient water towns in Southern Yangth River case[J]. Tourism Tribune, 2013, 28(9): 53-60.]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2] </div><div class="csl-right-inline">BALOGLU S, PEKCAN Y A. The website design and Internet site marketing practices of upscale and luxury hotels in Turkey[J]. Tourism Management, 2006, 27(3): 171-176.</div>
@@ -52,7 +52,7 @@
     <div class="csl-left-margin">[6] </div><div class="csl-right-inline">龚雪辉. 生态旅游岂能破坏生态[N]. 光明日报, 1998-05-23（04）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">NOLAN M L, NOLAN S. Limits to ecotourism growth and sustainability: The Galapagos example[C]// Opperman M. Pacific Rim Tourism. Wallingford: CAB International, 1998: 144-155.</div>
+    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">NOLAN M L, NOLAN S. Limits to ecotourism growth and sustainability: The Galapagos example[C]// Pacific Rim Tourism. Wallingford: CAB International, 1998: 144-155.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8] </div><div class="csl-right-inline">周永博, 魏向东, 梁峰，等. 中文题名[J]. 旅游学刊, 2025, 40(1): 1-10. [ZHOU Yongbo, WEI Xiangdong, LIANG Feng, et al. English title[J]. Tourism Tribune, 2025, 40(1): 1-10.]</div>
@@ -85,7 +85,7 @@
     <div class="csl-left-margin">[17] </div><div class="csl-right-inline">SMITH J C. Tourism Economics[M]. Wallingford: CAB International, 2010: 20-21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18] </div><div class="csl-right-inline">保继刚. 中国旅游研究的回顾与展望[A]// 张凌云. 旅游研究十年. 北京: 旅游教育出版社, 2019: 23-45. [BAO Jigang. Review and prospect of tourism research in China[A]// ZHANG Lingyun. Ten Years of Tourism Research. Beijing: Tourism Education Press, 2019: 23-45.]</div>
+    <div class="csl-left-margin">[18] </div><div class="csl-right-inline">保继刚. 中国旅游研究的回顾与展望[A]// 张凌云. 旅游研究十年. 北京: 旅游教育出版社, 2019: 23-45. [BAO Jigang. Review and prospect of tourism research in China[A]// Ten Years of Tourism Research. Beijing: Tourism Education Press, 2019: 23-45.]</div>
   </div>
 </div>
 
@@ -95,7 +95,7 @@
 
 <div class="csl-bib-body maxoffset-5 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">周永博, 魏向东, 梁峰. 基于 IPA 的旅游目的地意象整合营销传播——两个江南水乡古镇的案例研究[J]. 旅游学刊, 2013, 28(9): 53-60. [ZHOU Yongbo, WEI Xiangdong, LIANG Feng. Tourism destination image integrated marketing communications: A composite IPA research based on ancient water towns in Southern Yangth River case[J]. Tourism Tribune, 2013, 28(9): 53-60.]</div>
+    <div class="csl-left-margin">[1] </div><div class="csl-right-inline">周永博, 魏向东, 梁峰. 基于 IPA 的旅游目的地意象整合营销传播——两个江南水乡古镇的案例研究[J]. 旅游学刊, 2013, 28(9): 53-60. [周永博, 魏向东, 梁峰. Tourism destination image integrated marketing communications: A composite IPA research based on ancient water towns in Southern Yangth River case[J]. Tourism Tribune, 2013, 28(9): 53-60.]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[2] </div><div class="csl-right-inline">BALOGLU S, PEKCAN Y A. The website design and Internet site marketing practices of upscale and luxury hotels in Turkey[J]. Tourism Management, 2006, 27(3): 171-176.</div>
@@ -113,7 +113,7 @@
     <div class="csl-left-margin">[6] </div><div class="csl-right-inline">龚雪辉. 生态旅游岂能破坏生态[N]. 光明日报, 1998-05-23（04）.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">NOLAN M L, NOLAN S. Limits to ecotourism growth and sustainability: The Galapagos example[C]// Opperman M. Pacific Rim Tourism. Wallingford: CAB International, 1998: 144-155.</div>
+    <div class="csl-left-margin">[7] </div><div class="csl-right-inline">NOLAN M L, NOLAN S. Limits to ecotourism growth and sustainability: The Galapagos example[C]// Pacific Rim Tourism. Wallingford: CAB International, 1998: 144-155.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[8] </div><div class="csl-right-inline">周永博, 魏向东, 梁峰，等. 中文题名[J]. 旅游学刊, 2025, 40(1): 1-10. [ZHOU Yongbo, WEI Xiangdong, LIANG Feng, et al. English title[J]. Tourism Tribune, 2025, 40(1): 1-10.]</div>
@@ -146,7 +146,7 @@
     <div class="csl-left-margin">[17] </div><div class="csl-right-inline">SMITH J C. Tourism Economics[M]. Wallingford: CAB International, 2010: 20-21.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18] </div><div class="csl-right-inline">保继刚. 中国旅游研究的回顾与展望[A]// 张凌云. 旅游研究十年. 北京: 旅游教育出版社, 2019: 23-45. [BAO Jigang. Review and prospect of tourism research in China[A]// ZHANG Lingyun. Ten Years of Tourism Research. Beijing: Tourism Education Press, 2019: 23-45.]</div>
+    <div class="csl-left-margin">[18] </div><div class="csl-right-inline">保继刚. 中国旅游研究的回顾与展望[A]// 张凌云. 旅游研究十年. 北京: 旅游教育出版社, 2019: 23-45. [BAO Jigang. Review and prospect of tourism research in China[A]// Ten Years of Tourism Research. Beijing: Tourism Education Press, 2019: 23-45.]</div>
   </div>
 </div>
 
@@ -269,10 +269,10 @@
     <div class="csl-left-margin">[33] </div><div class="csl-right-inline">楼梦麟, 杨燕. 汶川地震基岩地震动特征分析[A]// 同济大学土木工程防灾国家重点实验室. 汶川地震震害研究. 上海: 同济大学出版社, 2011: 11-12.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[34] </div><div class="csl-right-inline">WEINSTEIN L, SWARTZ M N. Pathogenic properties of invading microorganisms[A]// Sodeman William A. Jr., Sodeman William A. Pathologic physiology: mechanisms of disease. 5. Philadelphia: Saunders, 1974: 457-472.</div>
+    <div class="csl-left-margin">[34] </div><div class="csl-right-inline">WEINSTEIN L, SWARTZ M N. Pathogenic properties of invading microorganisms[A]// Pathologic physiology: mechanisms of disease. 5. Philadelphia: Saunders, 1974: 457-472.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[35] </div><div class="csl-right-inline">ROBERSON J A, BURNESON E G. Drinking water quality standards, regulations and goals[A]// American Water Works Association. Water quality &#38; treatment: a handbook on drinking water. 6. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
+    <div class="csl-left-margin">[35] </div><div class="csl-right-inline">ROBERSON J A, BURNESON E G. Drinking water quality standards, regulations and goals[A]// Water quality &#38; treatment: a handbook on drinking water. 6. New York: McGraw-Hill, 2011: 1.1-1.36.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[36] </div><div class="csl-right-inline">中华医学会湖北分会. 临床内科杂志[J]. 1984, 1984，1（1）-.</div>
@@ -359,7 +359,7 @@
     <div class="csl-left-margin">[63] </div><div class="csl-right-inline">肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[C]// 纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系, 2024: 134-147.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64] </div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]// 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25. [WANG Xue Jun. Progress and safety management of genetically modified organism research and development in China[C]// 国家环境保护总局生物安全管理办公室. Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25.]</div>
+    <div class="csl-left-margin">[64] </div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]// 国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25. [WANG Xue Jun. Progress and safety management of genetically modified organism research and development in China[C]// Proceedings of China National Biosafety Framework Implementation International Cooperation Project Seminar. Beijing: China Environmental Science Press, 2005: 22-25.]</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[65] </div><div class="csl-right-inline">贾东琴, 柯平. 面向数字素养的高校图书馆数字服务体系研究[C]// 中国图书馆学会. 中国图书馆学会年会论文集. 北京: 国家图书馆出版社, 2011: 45-52.</div>
@@ -380,7 +380,7 @@
     <div class="csl-left-margin">[70] </div><div class="csl-right-inline">BABU B V, NAGAR A, DEEP K, et al. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012[M]. New Delhi: Springer, 2014.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[71] </div><div class="csl-right-inline">FOURNEY M E. Advances in holographic photoelasticity[C]// Gottenberg W. G. Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
+    <div class="csl-left-margin">[71] </div><div class="csl-right-inline">FOURNEY M E. Advances in holographic photoelasticity[C]// Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California. New York: ASME, 1971: 17-38.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[72] </div><div class="csl-right-inline">王琦. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉: 武汉大学, 2022: 87.</div>
@@ -650,16 +650,16 @@
     <div class="csl-left-margin">[16] </div><div class="csl-right-inline">拉普拉斯, Pierre-Simon. 概率哲学[M]. 张三, 李四, 译. 北京: 未名出版社, 1951. [LAPLACE Pierre-Simon. A philosophical essay on probabilities[M]. 北京: Dover, 1951.]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[17] </div><div class="csl-right-inline">KLATZKY R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[A]// Freksa C., Habel C., Wender K. F. Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
+    <div class="csl-left-margin">[17] </div><div class="csl-right-inline">KLATZKY R. Allocentric and egocentric spatial representations: Definitions, distinctions, and interconnections[A]// Lecture notes in artificial intelligence: Vol. 1404: Spatial cognition: An interdisciplinary approach to representing and processing spatial knowledge. Springer-Verlag, 1998: 1-17.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[18] </div><div class="csl-right-inline">WANG D F, CUI H. Theoretical analysis of the seven factor model of Chinese personality[A]// Wang Deng Feng, Hou Yu Bo. Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46-84.</div>
+    <div class="csl-left-margin">[18] </div><div class="csl-right-inline">WANG D F, CUI H. Theoretical analysis of the seven factor model of Chinese personality[A]// Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46-84.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[19] </div><div class="csl-right-inline">王登峰, 崔红. 中国人“大七”人格结构的理论分析[A]// 王登峰, 侯玉波. 人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46-84. [WANG Deng Feng, CUI Hong. Theoretical analysis of the “seven factor” model of Chinese personality[A]// 王登峰, 侯玉波. Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46-84.]</div>
+    <div class="csl-left-margin">[19] </div><div class="csl-right-inline">王登峰, 崔红. 中国人“大七”人格结构的理论分析[A]// 王登峰, 侯玉波. 人格与社会心理学论丛. 北京: 北京大学出版社, 2004: 46-84. [WANG Deng Feng, CUI Hong. Theoretical analysis of the “seven factor” model of Chinese personality[A]// Selected papers on personality and social psychology. Beijing: Peking University Press, 2004: 46-84.]</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[20] </div><div class="csl-right-inline">AUERBACH J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[A]// Bornstein M. F. Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4. Washington, DC, US: Wiley, 1993: 43-110.</div>
+    <div class="csl-left-margin">[20] </div><div class="csl-right-inline">AUERBACH J S. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[A]// Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4. Washington, DC, US: Wiley, 1993: 43-110.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[21] </div><div class="csl-right-inline">LICHSTEIN K L, JOHNSON R S. Relaxation therapy for polypharmacy use in elderly insomniacs and noninsomniacs[C]// Reducing medication in geriatric populations. Uppsala, Sweden, 1990.</div>
@@ -848,7 +848,7 @@
     <div class="csl-left-margin">[46] </div><div class="csl-right-inline">CHAMBERLAIN H B. On the search for civil society in China[J]. Modern China, 1993, 19(2): 199-215.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[47] </div><div class="csl-right-inline">SCHFIELD R S. The impact of scarcity and plenty on population change in England[A]// Rotberg R. I., Rabb T. K. Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
+    <div class="csl-left-margin">[47] </div><div class="csl-right-inline">SCHFIELD R S. The impact of scarcity and plenty on population change in England[A]// Hunger and history: The impact of changing food production and consumption pattern on society. Cambridge, Mass.: Cambridge University Press, 1983: 55-88.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[48] </div><div class="csl-right-inline">Nixon to Kissinger[Z]. 1969.</div>
@@ -1700,37 +1700,37 @@
     <div class="csl-left-margin">[53] </div><div class="csl-right-inline">SHAKESPEARE W. Much ado about nothing[M]. Washington Square Press, 1995.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[54] </div><div class="csl-right-inline">BALSAM K F, MARTELL C R, JONES K P, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[A]// Iwamasa G. Y., Hays P. A. Culturally responsive cognitive behavior therapy: Practice and supervision. 2. American Psychological Association, 2019: 287-314.</div>
+    <div class="csl-left-margin">[54] </div><div class="csl-right-inline">BALSAM K F, MARTELL C R, JONES K P, et al. Affirmative cognitive behavior therapy with sexual and gender minority people[A]// Culturally responsive cognitive behavior therapy: Practice and supervision. 2. American Psychological Association, 2019: 287-314.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[55] </div><div class="csl-right-inline">WEINSTOCK R, LEONG G B, SILVA J A. Defining forensic psychiatry: Roles and responsibilities[A]// Rosner R. Principles and practise of forensic psychiatry. 2. CRC Press, 2003: 7-13.</div>
+    <div class="csl-left-margin">[55] </div><div class="csl-right-inline">WEINSTOCK R, LEONG G B, SILVA J A. Defining forensic psychiatry: Roles and responsibilities[A]// Principles and practise of forensic psychiatry. 2. CRC Press, 2003: 7-13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[56] </div><div class="csl-right-inline">TAFOYA N, DEL VECCHIO A. Back to the future: An examination of the Native American Holocaust experience[A]// McGoldrick M., Giordano J., Garcia-Preto N. Ethnicity and family therapy. 3. Guilford Press, 2005: 55-63.</div>
+    <div class="csl-left-margin">[56] </div><div class="csl-right-inline">TAFOYA N, DEL VECCHIO A. Back to the future: An examination of the Native American Holocaust experience[A]// Ethnicity and family therapy. 3. Guilford Press, 2005: 55-63.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[57] </div><div class="csl-right-inline">CARCAVILLA GONZÁLEZ N. Terapia senorial auditiva: Activation cerebral por medio de la música[A]// Garcia Meilán J. J. Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
+    <div class="csl-left-margin">[57] </div><div class="csl-right-inline">CARCAVILLA GONZÁLEZ N. Terapia senorial auditiva: Activation cerebral por medio de la música[A]// Guía práctica de terapias estimulativas en el Alzhéimer. Editorial Síntesis, 2015: 67-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[58] </div><div class="csl-right-inline">HEIDEGGER M. On the essence of truth[A]// Krell D. F. Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
+    <div class="csl-left-margin">[58] </div><div class="csl-right-inline">HEIDEGGER M. On the essence of truth[A]// Basic writings. Harper Perennial Modern Thought, 2008: 111-138.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[59] </div><div class="csl-right-inline">SACCHETT C, HUMPHREYS G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[A]// Balota D. A., Marsh E. J. Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
+    <div class="csl-left-margin">[59] </div><div class="csl-right-inline">SACCHETT C, HUMPHREYS G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[A]// Cognitive psychology: Key readings in cognition. Psychology Press, 2004: 100-108.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[60] </div><div class="csl-right-inline">SACCHETT C, HUMPHREYS G W. Calling a squirrel and squirrel but a canoe a wigwam: A category-specific deficit for artefactual objects and body parts[J]. Cognitive Neuropsychology, 1992, 9(1): 73-86.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[61] </div><div class="csl-right-inline">BRONFENBRENNER U. The social ecology of human development: A retrospective conclusion[A]// Bronfenbrenner U. Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
+    <div class="csl-left-margin">[61] </div><div class="csl-right-inline">BRONFENBRENNER U. The social ecology of human development: A retrospective conclusion[A]// Making human beings human: Bioecological perspectives on human development. SAGE Publications, 2005: 27-40.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[62] </div><div class="csl-right-inline">RICHARDSON F. Brain and intelligence: The ecology of child development[M]. National Educational Press, 1973: 113-123.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[63] </div><div class="csl-right-inline">GOLDIN-MEADOW S. Gesture and cognitive development[A]// Liben L. S., Mueller U. Handbook of child psychology and developmental science. 7. John Wiley &#38; Sons, 2015: 339-380.</div>
+    <div class="csl-left-margin">[63] </div><div class="csl-right-inline">GOLDIN-MEADOW S. Gesture and cognitive development[A]// Handbook of child psychology and developmental science. 7. John Wiley &#38; Sons, 2015: 339-380.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[64] </div><div class="csl-right-inline">LEWIN K. Group decision and social change[A]// Gold M. The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
+    <div class="csl-left-margin">[64] </div><div class="csl-right-inline">LEWIN K. Group decision and social change[A]// The complete social scientist: A Kurt Lewin reader. American Psychological Association, 1999: 265-284.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[65] </div><div class="csl-right-inline">American Psychological Association. Positive transference[A]// APA dictionary of psychology.</div>
@@ -1739,7 +1739,7 @@
     <div class="csl-left-margin">[66] </div><div class="csl-right-inline">Merriam-Webster. Self-report[A]// Merriam-Webster.com dictionary.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[67] </div><div class="csl-right-inline">GRAHAM G. Behaviorism[A]// Zalta E. N. The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
+    <div class="csl-left-margin">[67] </div><div class="csl-right-inline">GRAHAM G. Behaviorism[A]// The Stanford encyclopedia of philosophy. Summer 2019 ed. Stanford University, 2019.</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">[68] </div><div class="csl-right-inline">List of oldest companies[A]// Wikipedia. 2019.</div>
