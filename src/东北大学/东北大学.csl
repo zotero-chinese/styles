@@ -5,6 +5,8 @@
     <id>https://zotero-chinese.com/styles/东北大学</id>
     <link href="https://zotero-chinese.com/styles/东北大学" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语）" rel="template"/>
+    <!-- 规范附件及本次修订说明见 PR #721。 -->
+    <link href="https://github.com/zotero-chinese/styles/pull/721" rel="documentation"/>
     <link href="https://graduate.neuq.edu.cn/info/1113/1825.htm" rel="documentation"/>
     <author>
       <name>heromyth</name>
@@ -20,7 +22,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>适用于东北大学研究生学位论文</summary>
+    <summary>适用于东北大学（含秦皇岛分校）研究生学位论文</summary>
     <updated>2026-10-18T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

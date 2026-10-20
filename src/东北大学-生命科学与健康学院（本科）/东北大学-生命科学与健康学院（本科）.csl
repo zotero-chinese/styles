@@ -5,6 +5,8 @@
     <id>https://zotero-chinese.com/styles/东北大学-生命科学与健康学院（本科）</id>
     <link href="https://zotero-chinese.com/styles/东北大学-生命科学与健康学院（本科）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语）" rel="template"/>
+    <!-- 规范附件及本次修订说明见 PR #721。 -->
+    <link href="https://github.com/zotero-chinese/styles/pull/721" rel="documentation"/>
     <link href="https://github.com/zotero-chinese/styles/pull/643" rel="documentation"/>
     <author>
       <name>heromyth</name>
@@ -20,8 +22,8 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>东北大学生命学院本科生毕业设计（论文）书写印制规范（学校2024.11基础上完善版）</summary>
-    <updated>2026-10-18T00:00:00+08:00</updated>
+    <summary>适用于东北大学生命科学与健康学院本科生毕业设计（论文）</summary>
+    <updated>2026-10-20T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">

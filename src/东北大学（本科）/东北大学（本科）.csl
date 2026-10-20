@@ -5,6 +5,12 @@
     <id>https://zotero-chinese.com/styles/东北大学（本科）</id>
     <link href="https://zotero-chinese.com/styles/东北大学（本科）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语）" rel="template"/>
+    <!-- 本部本科规范，仅校内网络可访问。 -->
+    <link href="http://aao.neu.edu.cn/_upload/article/files/f1/24/3435fd1747f39369a8c0ff6ac61a/267b814f-2373-4c82-8813-eb41cea663ac.docx" rel="documentation"/>
+    <!-- 本部本科规范，WebVPN 链接。 -->
+    <link href="https://webvpn.neu.edu.cn/http/62304135386136393339346365373340b1e0ab7184c05393f71c7e3d850b/_upload/article/files/f1/24/3435fd1747f39369a8c0ff6ac61a/267b814f-2373-4c82-8813-eb41cea663ac.docx" rel="documentation"/>
+    <!-- 秦皇岛分校本科规范，校外可访问。 -->
+    <link href="https://jwc.neuq.edu.cn/info/1148/3712.htm" rel="documentation"/>
     <link href="https://github.com/zotero-chinese/styles/issues/720" rel="documentation"/>
     <author>
       <name>heromyth</name>
@@ -20,8 +26,8 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>东北大学本科生毕业设计（论文）书写印制规范（2025.10版）</summary>
-    <updated>2026-10-18T00:00:00+08:00</updated>
+    <summary>适用于东北大学（含秦皇岛分校）本科生毕业设计（论文）</summary>
+    <updated>2026-10-20T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
