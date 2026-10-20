@@ -22,7 +22,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>适用于东北大学生命科学与健康学院本科生毕业设计（论文）</summary>
+    <summary>适用于东北大学生命科学与健康学院本科生毕业设计（论文）。不足：中文条目中元素间分隔符（句点）应使用宋体半角，后不留空格。但由于设置字体并非 CSL 的能力范围（属于排版软件的工作），本样式暂以全角句点“．”近似替代。如需严格符合规范，可在定稿时将这些分隔句点替换为半角“.”并设为宋体。</summary>
     <updated>2026-10-20T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
