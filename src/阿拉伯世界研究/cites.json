@@ -1,0 +1,241 @@
+[
+  [
+    {
+      "id": "aws-zh-book-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-3"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-4"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-5"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-6"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-7"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-article-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-chapter-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-newspaper-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-newspaper-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-conf-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-thesis-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-trans-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-trans-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-trans-3"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-report-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-report-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-web-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-web-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-web-3"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-web-4"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-3"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-4"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-5"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-6"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-article-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-article-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-chapter-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-newspaper-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-newspaper-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-conf-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-conf-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-thesis-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-trans-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-report-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-report-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-web-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-web-2"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-web-3"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-web-4"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-zh-book-1",
+      "locator": "30",
+      "label": "page"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-1"
+    }
+  ],
+  [
+    {
+      "id": "aws-en-book-1",
+      "locator": "85",
+      "label": "page"
+    }
+  ]
+]
