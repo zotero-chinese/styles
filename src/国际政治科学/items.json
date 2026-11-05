@@ -1,0 +1,875 @@
+[
+  {
+    "id": "ips-zh-book-1",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "国际政治学概论",
+    "author": [
+      {
+        "family": "梁守德"
+      },
+      {
+        "family": "洪银娴"
+      }
+    ],
+    "publisher": "中央编译出版社",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "26",
+    "locator": "26"
+  },
+  {
+    "id": "ips-zh-book-2",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "中国崛起：国际环境评估",
+    "author": [
+      {
+        "family": "阎学通"
+      },
+      {
+        "family": "王湘穗"
+      },
+      {
+        "family": "宋江"
+      }
+    ],
+    "publisher": "天津人民出版社",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "168",
+    "locator": "168"
+  },
+  {
+    "id": "ips-zh-book-3",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "冲突与合作：现代西方国际关系理论评介",
+    "editor": [
+      {
+        "family": "倪世雄"
+      }
+    ],
+    "publisher": "四川人民出版社",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "71",
+    "locator": "71"
+  },
+  {
+    "id": "ips-zh-book-4",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "国际政治的社会理论",
+    "author": [
+      {
+        "family": "亚历山大·温特"
+      }
+    ],
+    "translator": [
+      {
+        "family": "秦亚青"
+      }
+    ],
+    "publisher": "上海人民出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "317",
+    "locator": "317"
+  },
+  {
+    "id": "ips-zh-chapter-1",
+    "type": "chapter",
+    "language": "zh-CN",
+    "title": "单极世界中的美国战略",
+    "author": [
+      {
+        "family": "威廉·沃尔福思"
+      }
+    ],
+    "editor": [
+      {
+        "family": "约翰·依肯伯尔"
+      }
+    ],
+    "translator": [
+      {
+        "family": "韩召颖"
+      }
+    ],
+    "container-title": "美国无敌：均势的未来",
+    "publisher": "北京大学出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "99-117",
+    "locator": "99-117"
+  },
+  {
+    "id": "ips-zh-chapter-2",
+    "type": "chapter",
+    "language": "zh-CN",
+    "title": "走向新世界主义",
+    "author": [
+      {
+        "family": "杜威·佛克马"
+      }
+    ],
+    "editor": [
+      {
+        "family": "王宁"
+      },
+      {
+        "family": "薛晓源"
+      }
+    ],
+    "container-title": "全球化与后殖民批评",
+    "publisher": "中央编译出版社",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "247-266",
+    "locator": "247-266"
+  },
+  {
+    "id": "ips-zh-book-5",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "孟子正义",
+    "author": [
+      {
+        "family": "焦循"
+      }
+    ],
+    "volume": "2",
+    "edition": "点校本",
+    "publisher": "中华书局",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "101",
+    "locator": "101"
+  },
+  {
+    "id": "ips-zh-book-6",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "左传事纬",
+    "author": [
+      {
+        "family": "马骕"
+      },
+      {
+        "family": "徐连城"
+      }
+    ],
+    "edition": "点校本",
+    "publisher": "齐鲁书社",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "53",
+    "locator": "53"
+  },
+  {
+    "id": "ips-zh-article-1",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "中国面临的国际安全环境",
+    "author": [
+      {
+        "family": "阎学通"
+      }
+    ],
+    "container-title": "世界知识",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "9",
+    "locator": "9"
+  },
+  {
+    "id": "ips-zh-article-2",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "古贺辰四郎最早开发钓鱼岛伪证之研究——兼论日本政府购买钓鱼岛的非法性",
+    "author": [
+      {
+        "family": "刘江永"
+      }
+    ],
+    "container-title": "清华大学学报（哲学社会科学版）",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-article-3",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "缅甸政治经济改革前景及对中国影响",
+    "author": [
+      {
+        "family": "马燕冰"
+      }
+    ],
+    "container-title": "亚非纵横",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "46",
+    "locator": "46"
+  },
+  {
+    "id": "ips-zh-newspaper-1",
+    "type": "article-newspaper",
+    "language": "zh-CN",
+    "title": "安理会通过科索沃问题决议",
+    "author": [
+      {
+        "family": "符福渊"
+      },
+      {
+        "family": "周德武"
+      }
+    ],
+    "container-title": "人民日报",
+    "edition": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          6,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-newspaper-2",
+    "type": "article-newspaper",
+    "language": "zh-CN",
+    "title": "朝韩首脑会晤程序大多达成协议",
+    "container-title": "中国青年报",
+    "edition": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          5,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-thesis-1",
+    "type": "thesis",
+    "language": "zh-CN",
+    "title": "中国国际关系理论研究方法20年：1979—1999",
+    "author": [
+      {
+        "family": "孙学峰"
+      }
+    ],
+    "publisher": "中国现代国际关系研究所",
+    "genre": "硕士学位论文",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-thesis-2",
+    "type": "thesis",
+    "language": "zh-CN",
+    "title": "中华人民共和国外交制度变迁的理论阐释",
+    "author": [
+      {
+        "family": "赵可金"
+      }
+    ],
+    "publisher": "复旦大学",
+    "genre": "博士学位论文",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-conf-1",
+    "type": "paper-conference",
+    "language": "zh-CN",
+    "title": "对国际体制和国际制度的理解和翻译",
+    "author": [
+      {
+        "family": "任东来"
+      }
+    ],
+    "event-title": "全球化与亚太区域化国际研讨会",
+    "event-place": "南开大学",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-manuscript-1",
+    "type": "manuscript",
+    "language": "zh-CN",
+    "title": "陈云致王明信",
+    "genre": "微缩胶卷",
+    "issued": {
+      "date-parts": [
+        [
+          1937,
+          5,
+          16
+        ]
+      ]
+    },
+    "archive_location": "495/74/290",
+    "archive": "莫斯科俄罗斯当代文献保管与研究中心"
+  },
+  {
+    "id": "ips-zh-article-4",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "中国周边外交的政策调整与新理念",
+    "author": [
+      {
+        "family": "陈琪"
+      },
+      {
+        "family": "管传靖"
+      }
+    ],
+    "container-title": "当代亚太",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "15",
+    "locator": "15",
+    "URL": "http://mall.cnki.net/magazine/article/DDYT201403002.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-zh-web-1",
+    "type": "webpage",
+    "language": "zh-CN",
+    "title": "2014年商务部开展经济外交工作新进展",
+    "author": [
+      {
+        "family": "中华人民共和国商务部"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          6
+        ]
+      ]
+    },
+    "URL": "http://www.mofcom.gov.cn/article/i/dxfw/gzzd/201502/20150200890104.shtml",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-en-book-1",
+    "type": "book",
+    "language": "en-US",
+    "title": "Theory of International Politics",
+    "author": [
+      {
+        "family": "Waltz",
+        "given": "Kenneth N."
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "McGraw-Hill Publishing Company",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "page": "81",
+    "locator": "81"
+  },
+  {
+    "id": "ips-en-book-2",
+    "type": "book",
+    "language": "en-US",
+    "title": "Power and Interdependence: World Politics in Transition",
+    "author": [
+      {
+        "family": "Keohane",
+        "given": "Robert"
+      },
+      {
+        "family": "Nye",
+        "given": "Joseph"
+      }
+    ],
+    "publisher-place": "Boston",
+    "publisher": "Little Brown Company",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "page": "45-46",
+    "locator": "45-46"
+  },
+  {
+    "id": "ips-en-book-3",
+    "type": "book",
+    "language": "en-US",
+    "title": "A Comprehensive Grammar of the English Language",
+    "author": [
+      {
+        "family": "Quirk",
+        "given": "Randolph"
+      },
+      {
+        "family": "Greenbaum",
+        "given": "Sidney"
+      },
+      {
+        "family": "Leech",
+        "given": "Geoffrey"
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Longman Inc.",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "1143",
+    "locator": "1143"
+  },
+  {
+    "id": "ips-en-book-4",
+    "type": "book",
+    "language": "en-US",
+    "title": "Politics Among Nations: The Struggle for Power and Peace",
+    "author": [
+      {
+        "family": "Morgenthau",
+        "given": "Hans J."
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Alfred A. Knopf Inc.",
+    "edition": "6th ed.",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "389-392",
+    "locator": "389-392"
+  },
+  {
+    "id": "ips-en-book-5",
+    "type": "book",
+    "language": "en-US",
+    "title": "The Odyssey",
+    "author": [
+      {
+        "family": "Homer"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Fagles",
+        "given": "Robert"
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Viking",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "22",
+    "locator": "22"
+  },
+  {
+    "id": "ips-en-book-6",
+    "type": "book",
+    "language": "en-US",
+    "title": "Neorealism and Neoliberalism: The Contemporary Debate",
+    "editor": [
+      {
+        "family": "Baldwin",
+        "given": "David"
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Columbia University Press",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "106",
+    "locator": "106"
+  },
+  {
+    "id": "ips-en-book-7",
+    "type": "book",
+    "language": "en-US",
+    "title": "Contending Approaches to International Politics",
+    "editor": [
+      {
+        "family": "Knorr",
+        "given": "Klause"
+      },
+      {
+        "family": "Rosenau",
+        "given": "James N."
+      }
+    ],
+    "publisher-place": "Princeton, NJ",
+    "publisher": "Princeton University Press",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "page": "225-227",
+    "locator": "225-227"
+  },
+  {
+    "id": "ips-en-chapter-1",
+    "type": "chapter",
+    "language": "en-US",
+    "title": "Soviet Learning in the 1980s",
+    "author": [
+      {
+        "family": "Levaold",
+        "given": "Robert"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Breslauer",
+        "given": "George W."
+      },
+      {
+        "family": "Tetlock",
+        "given": "Philip E."
+      }
+    ],
+    "container-title": "Learning in US and Soviet Foreign Policy",
+    "publisher-place": "Boulder, CO",
+    "publisher": "Westview Press",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "27",
+    "locator": "27"
+  },
+  {
+    "id": "ips-en-article-1",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "Primed for Peace: Europe after the Cold War",
+    "author": [
+      {
+        "family": "Van Evera",
+        "given": "Stephen"
+      }
+    ],
+    "container-title": "International Security",
+    "volume": "15",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ips-en-article-2",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "Delegation, Agency and Agenda Setting in the European Community",
+    "author": [
+      {
+        "family": "Pollack",
+        "given": "Mark A."
+      }
+    ],
+    "container-title": "International Organization",
+    "volume": "51",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "page": "99-124",
+    "locator": "99-124"
+  },
+  {
+    "id": "ips-en-newspaper-1",
+    "type": "article-newspaper",
+    "language": "en-US",
+    "title": "Japanese Link Increased Acid Rain to Distant Coal Plants in China",
+    "author": [
+      {
+        "family": "Jones",
+        "given": "Clayton"
+      }
+    ],
+    "container-title": "The Christian Science Monitor",
+    "issued": {
+      "date-parts": [
+        [
+          1992,
+          11,
+          6
+        ]
+      ]
+    },
+    "page": "4",
+    "locator": "4"
+  },
+  {
+    "id": "ips-en-newspaper-2",
+    "type": "article-newspaper",
+    "language": "en-US",
+    "title": "Soviet Army Coming apart at the Seams",
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "Rick"
+      },
+      {
+        "family": "Lee",
+        "given": "Gary"
+      }
+    ],
+    "container-title": "Washington Post",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          11,
+          18
+        ]
+      ]
+    },
+    "page": "A1, A28-29",
+    "locator": "A1, A28-29"
+  },
+  {
+    "id": "ips-en-thesis-1",
+    "type": "thesis",
+    "language": "en-US",
+    "title": "Reconstructing Rockets: The Politics of Developing Military Technologies in Brazil, Indian and Israel",
+    "author": [
+      {
+        "family": "Flank",
+        "given": "Steven"
+      }
+    ],
+    "genre": "Ph.D.",
+    "publisher": "MIT",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "15-20",
+    "locator": "15-20"
+  },
+  {
+    "id": "ips-en-conf-1",
+    "type": "paper-conference",
+    "language": "en-US",
+    "title": "Fuel and Energy in the CIS",
+    "author": [
+      {
+        "family": "Tretyakava",
+        "given": "Albina"
+      }
+    ],
+    "event-title": "Ecology'90 conference",
+    "organizer": [
+      {
+        "family": "American Enterprise Institute for Public Policy Research"
+      }
+    ],
+    "event-place": "Airlie House, Virginia, U.S.",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          4,
+          19
+        ]
+      ]
+    },
+    "page": "5",
+    "locator": "5"
+  },
+  {
+    "id": "ips-en-manuscript-1",
+    "type": "manuscript",
+    "language": "en-US",
+    "title": "Borough of Worthing: Plan Showing Consecration of Burial Ground for a Cemetery",
+    "issued": {
+      "date-parts": [
+        [
+          1906
+        ]
+      ]
+    },
+    "archive_location": "H045/10473/B35137",
+    "archive": "National Archives"
+  },
+  {
+    "id": "ips-en-web-1",
+    "type": "webpage",
+    "language": "en-US",
+    "title": "Drama on the High Seas",
+    "author": [
+      {
+        "family": "Greitens",
+        "given": "Sheena Chestnut"
+      }
+    ],
+    "container-title": "Foreign Policy",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          12
+        ]
+      ]
+    },
+    "URL": "http://www.foreignpolicy.com/articles/2012/04/12/drama_on_the_high_seas",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          20
+        ]
+      ]
+    }
+  }
+]
