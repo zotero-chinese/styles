@@ -1,0 +1,30 @@
+{
+  "dir": "zhengzhixue-yanjiu",
+  "file": "zhengzhixue-yanjiu.csl",
+  "style_class": "note",
+  "title": "政治学研究 (Chinese)",
+  "id": "http://www.zotero.org/styles/zhengzhixue-yanjiu",
+  "link_self": "http://www.zotero.org/styles/zhengzhixue-yanjiu",
+  "link_documentation": "http://www.zzxyj.net/",
+  "author": [
+    {
+      "name": "Zhe Shen"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "political_science",
+  "summary": "CASS Journal of Political Science footnote style",
+  "updated": "2026-03-28T00:00:00+08:00",
+  "citations": "<sup>1</sup> 扬奎斯特、萨金特：《递归宏观经济理论》，杨斌、王忠玉、陈彦斌、严高剑trans.，第798p.，中国人民大学出版社，2010版。<br>\n<sup>2</sup> A. Praetzellis：《Death by theory: a tale of mystery and archaeological theory》，第13p.，Rowman &#38; Littlefield Publishing Group, Inc.，2011版。<br>\n<sup>3</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》2012第11no.。<br>\n<sup>4</sup> P. H. van der Veen、M. Muller、K. L. Vincken、T. D. Witkamp、W. P. T. M. Mali、Y. van der Graaf、M. I. Geerlings、SMART-MR Study Group：《Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study》，《Journal of the Neurological Sciences》2014第1/2no.。<br>\n<sup>5</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，in国家环境保护总局生物安全管理办公室ed.：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社，2005。<br>\n<sup>6</sup> S. Wang：《Application of improved SOM neural network in intelligent auditing of hospital financial vouchers》，“2022 6th Asian Conference on Artificial Intelligence Technology”paper，Changzhou, China，2022。<br>\n<sup>7</sup> S. Wang：《Application of improved SOM neural network in intelligent auditing of hospital financial vouchers》。<br>\n<sup>8</sup> A. Praetzellis：《Death by theory》，第326-329pp.。<br>\n",
+  "bibliography": "",
+  "test_result": "",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}
