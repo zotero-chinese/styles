@@ -1,0 +1,31 @@
+{
+  "dir": "关东学刊",
+  "file": "关东学刊.csl",
+  "style_class": "note",
+  "title": "关东学刊",
+  "id": "https://zotero-chinese.com/styles/关东学刊",
+  "link_self": "https://zotero-chinese.com/styles/关东学刊",
+  "link_template": "https://zotero-chinese.com/styles/中国社会科学",
+  "link_documentation": "https://gdxk.ccut.edu.cn/info/1007/1004.htm",
+  "author": [
+    {
+      "name": "杨家风子"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "social_science",
+  "summary": "《关东学刊》引文注释编辑规范（发布时间：2017-11-10）。页下注（注释体例，中国社会科学派生）：期刊文章《刊名》年份第X期（或 第X卷第X期）；专著 出版地：出版社，出版年，第X页；重复引注保留译者。",
+  "updated": "2026-08-06T20:15:33+08:00",
+  "citations": "<sup>1</sup> 袁良骏编：《丁玲研究资料》，天津：天津人民出版社，1982年，第246页。<br>\n<sup>2</sup> [日]实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：中文大学出版社，1982年，第11-12页。<br>\n<sup>3</sup> 吉登斯：《超越左与右——激进政治的未来》，李惠斌译，北京：社会科学文献出版社，2009年，第21页。<br>\n<sup>4</sup> 丁建定：《西方国家社会保障制度史》，北京：高等教育出版社，2016年，第385页。<br>\n<sup>5</sup> 吉登斯：《超越左与右——激进政治的未来》，李惠斌译，第21页。<br>\n<sup>6</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编辑出版社，1999年，第247-266页。<br>\n<sup>7</sup> 鲁迅：《中国小说的历史变迁》，《鲁迅全集》（第9册），北京：人民文学出版社，1981年，第325页。<br>\n<sup>8</sup> 司马迁：《史记》卷二十八《封禅书》，北京：中华书局，1982年，第1394页。<br>\n<sup>9</sup> 黄中业：《商代“分封”说质疑》，《学术月刊》1986年第5期。<br>\n<sup>10</sup> 吴虞：《家族制度为专制主义之根据论》，《新青年》第2卷第6号，1917年2月1日。<br>\n<sup>11</sup> 张嘉：《吴妍妍：叫我吴天明的女儿，我很骄傲》，《北京青年报》2016年1月17日，B5版。<br>\n<sup>12</sup> 苏鹏：《突围与偕妄—论先锋小说中的“文革叙述”》，山东师范大学硕士学位论文，2008年。<br>\n<sup>13</sup> 任东来：《对国际体制和国际制度的理解和翻译》，“全球化与亚太区域话国际研讨会”论文，天津，2000年6月，第9页。<br>\n<sup>14</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案1011-5961，中国第二历史档案馆藏。<br>\n<sup>15</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge: Cambridge University Press, 1983, p. 79.<br>\n<sup>16</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.<br>\n<sup>17</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网路版试刊）2006年第1期，<a href=\"http://www.literature.org.cn/Article.asp?ID=199\">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>\n",
+  "bibliography": "",
+  "test_result": "<sup>1</sup> 袁良骏编：《丁玲研究资料》，天津：天津人民出版社，1982年。<br>\n<sup>2</sup> [日]实藤惠秀：《中国人留学日本史》，谭汝谦、林启彦译，香港：中文大学出版社，1982年。<br>\n<sup>3</sup> 吉登斯：《超越左与右——激进政治的未来》，李惠斌译，北京：社会科学文献出版社，2009年。<br>\n<sup>4</sup> 丁建定：《西方国家社会保障制度史》，北京：高等教育出版社，2016年。<br>\n<sup>5</sup> 杜威·佛克马：《走向新世界主义》，王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编辑出版社，1999年，第247-266页。<br>\n<sup>6</sup> 鲁迅：《中国小说的历史变迁》，《鲁迅全集》（第9册），北京：人民文学出版社，1981年。<br>\n<sup>7</sup> 司马迁：《史记》卷二十八《封禅书》，北京：中华书局，1982年。<br>\n<sup>8</sup> 黄中业：《商代“分封”说质疑》，《学术月刊》1986年第5期。<br>\n<sup>9</sup> 吴虞：《家族制度为专制主义之根据论》，《新青年》第2卷第6号，1917年2月1日。<br>\n<sup>10</sup> 张嘉：《吴妍妍：叫我吴天明的女儿，我很骄傲》，《北京青年报》2016年1月17日，B5版。<br>\n<sup>11</sup> 苏鹏：《突围与偕妄—论先锋小说中的“文革叙述”》，山东师范大学硕士学位论文，2008年。<br>\n<sup>12</sup> 任东来：《对国际体制和国际制度的理解和翻译》，“全球化与亚太区域话国际研讨会”论文，天津，2000年6月。<br>\n<sup>13</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案1011-5961，中国第二历史档案馆藏。<br>\n<sup>14</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb (eds.), <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge: Cambridge University Press, 1983.<br>\n<sup>15</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, vol. 19, no. 2 (April 1993), pp. 199-215.<br>\n<sup>16</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网路版试刊）2006年第1期，<a href=\"http://www.literature.org.cn/Article.asp?ID=199\">http://www.literature.org.cn/Article.asp?ID=199</a>，2007年9月13日。<br>\n",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}

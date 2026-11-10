@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "id": "jes-citation-kusky"
+    },
+    {
+      "id": "jes-citation-green"
+    },
+    {
+      "id": "jes-citation-smith"
+    }
+  ],
+  [
+    {
+      "id": "jes-periodical"
+    }
+  ],
+  [
+    {
+      "id": "jes-book"
+    }
+  ],
+  [
+    {
+      "id": "jes-chapter"
+    }
+  ],
+  [
+    {
+      "id": "jes-periodical-chapter"
+    }
+  ],
+  [
+    {
+      "id": "jes-thesis"
+    }
+  ]
+]

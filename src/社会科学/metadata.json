@@ -1,0 +1,31 @@
+{
+  "dir": "社会科学",
+  "file": "社会科学.csl",
+  "style_class": "note",
+  "title": "社会科学",
+  "id": "https://zotero-chinese.com/styles/社会科学",
+  "link_self": "https://zotero-chinese.com/styles/社会科学",
+  "link_template": "https://zotero-chinese.com/styles/中国社会科学",
+  "link_documentation": "https://shkx.cbpt.cnki.net/WKG/WebPublication/index.aspx",
+  "author": [
+    {
+      "name": "杨家风子"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "social_science",
+  "summary": "《社会科学》编辑体例规范（2022年6月21日）。页下注（注释体例，中国社会科学派生）：期刊文章《刊名》年份第X期；专著 出版地：出版社，出版年，第X页；重复引注简写为 作者：《短题名》，第X页。",
+  "updated": "2026-08-06T20:48:14+08:00",
+  "citations": "<sup>1</sup> 吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。<br>\n<sup>2</sup> 本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年，第150页。<br>\n<sup>3</sup> 洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年，第36页。<br>\n<sup>4</sup> 洛克：《政府论》下，第348页。<br>\n<sup>5</sup> Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998, p.92.<br>\n<sup>6</sup> Gary Jefferson, Thomas Rawski, \"Enterprise Reform in China’s Industry,\" <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>\n",
+  "bibliography": "",
+  "test_result": "<sup>1</sup> 吴晓明：《构建中国特色哲学社会科学的时代任务》，《社会科学》2022年第5期。<br>\n<sup>2</sup> 本尼迪柯特·安德森：《想象的共同体：民族主义的起源与散布》，吴叡人译，上海：上海人民出版社2011年。<br>\n<sup>3</sup> 洛克：《政府论》下，叶启芳、瞿菊农译，北京：商务印书馆1996年。<br>\n<sup>4</sup> Stephen V. Ward, <i>Selling Place: The Marketing and Promotion of Towns and Cities, 1850-2000</i>, New York and London: Routledge Publish Press, 1998.<br>\n<sup>5</sup> Gary Jefferson, Thomas Rawski, \"Enterprise Reform in China’s Industry,\" <i>Journal of Economic Perspectives</i>, Vol.4, No.2, 1994, pp.47-70.<br>\n",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}

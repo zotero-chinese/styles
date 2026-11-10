@@ -13,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）</summary>
-    <updated>2026-01-02T17:29:11+08:00</updated>
+    <updated>2026-08-09T15:54:10+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -70,7 +70,7 @@
   </macro>
   <macro name="author-intext-en">
     <names variable="composer">
-      <name form="short" delimiter="，"/>
+      <name form="short" delimiter="，" and="text"/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>
@@ -90,7 +90,8 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="composer">
-      <name delimiter="，"/>
+      <name delimiter="，" and="text"/>
+      <et-al term="and others"/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>
@@ -117,19 +118,19 @@
         <choose>
           <if variable="volume issue" match="any">
             <date variable="issued">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
             <text variable="year-suffix"/>
           </if>
           <else-if variable="available-date">
             <date variable="available-date">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
             <text variable="year-suffix"/>
           </else-if>
           <else>
             <date variable="issued">
-              <date-part name="year" range-delimiter="&#8212;"/>
+              <date-part name="year" range-delimiter="-"/>
             </date>
             <text variable="year-suffix"/>
           </else>
@@ -137,14 +138,14 @@
       </if>
       <else-if variable="issued">
         <date variable="issued">
-          <date-part name="year" range-delimiter="&#8212;"/>
+          <date-part name="year" range-delimiter="-"/>
         </date>
         <text variable="year-suffix"/>
       </else-if>
       <else-if variable="accessed">
         <group prefix="[" suffix="]">
           <date variable="accessed">
-            <date-part name="year" range-delimiter="&#8212;"/>
+            <date-part name="year" range-delimiter="-"/>
           </date>
           <text variable="year-suffix"/>
         </group>
@@ -233,11 +234,11 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
+      <else-if type="bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <text value="A"/>
+      </else-if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
-      </else-if>
-      <else-if type="collection manuscript personal_communication" match="any">
-        <text value="A"/>
       </else-if>
       <else-if type="dataset">
         <text value="DS"/>

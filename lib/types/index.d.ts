@@ -27,6 +27,7 @@ declare interface StyleInfo {
 interface StyleTestResult {
   citations: string;
   bibliography: string;
+  test_result?: string;
   default_test_citations?: string;
   gb_result?: string;
   aps_result?: string;

@@ -1,0 +1,266 @@
+[
+	{
+		"id": "qhshxpl:01",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "断裂——20世纪90年代以来的中国社会",
+		"publisher": "社会科学文献出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2003
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "孙立平"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:02",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "作为历史见证的“受苦人”的讲述",
+		"container-title": "社会学研究",
+		"issue": "1",
+		"page": "53～67",
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "郭于华"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:03",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "社会运行视角与社会学的本土化",
+		"container-title": "社会学研究",
+		"issue": "5",
+		"page": "24～35",
+		"issued": {
+			"date-parts": [
+				[
+					2015
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "李强"
+			},
+			{
+				"family": "张莹"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:04",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "新型城镇化与市民化面临的问题",
+		"container-title": "北京日报",
+		"issued": {
+			"date-parts": [
+				[
+					2016,
+					11,
+					14
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "李强"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:05",
+		"type": "thesis",
+		"language": "zh-CN",
+		"title": "罗隆基政治思想研究(1913～1949)",
+		"publisher": "北京师范大学",
+		"genre": "博士学位论文",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "方明东"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:06",
+		"type": "paper-conference",
+		"language": "zh-CN",
+		"title": "明前期徽州的民事诉讼个案研究",
+		"event": "国际徽学研讨会",
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "〔日〕中岛乐章"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:07",
+		"type": "manuscript",
+		"language": "zh-CN",
+		"title": "“无事件境”与生活世界中的“真实”：西村农民土地改革时期社会生活的记忆",
+		"archive_location": "北京大学社会生活口述史资料研究中心",
+		"issued": {
+			"date-parts": [
+				[
+					1997
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "方慧容"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:08",
+		"type": "book",
+		"language": "en-US",
+		"title": "Peasant Life in China：A Field Study of Country Life in the Yangtze Valley",
+		"publisher": "George Routledge and Sons",
+		"publisher-place": "London",
+		"issued": {
+			"date-parts": [
+				[
+					1939
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Fei",
+				"given": "Hsiao-tung"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:09",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Sociology in and of China.",
+		"container-title": "The British Journal of Sociology",
+		"volume": "13",
+		"issue": "2",
+		"page": "106-116",
+		"issued": {
+			"date-parts": [
+				[
+					1962
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Freedman",
+				"given": "Maurice"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:10",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Social Memory Studies：From ‘Collective Memory’ to the Historical Sociology of Mnemonic Practices.",
+		"container-title": "Annual Review of Sociology",
+		"volume": "24",
+		"page": "105-140",
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Olick",
+				"given": "Jeffrey K."
+			},
+			{
+				"family": "Robbins",
+				"given": "Joyce"
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:11",
+		"type": "chapter",
+		"language": "en-US",
+		"title": "The Rise and Domestication of Historical Sociology.",
+		"container-title": "The Historic Turn in the Human Sciences",
+		"publisher": "University of Michigan Press",
+		"publisher-place": "Ann Arbor，MI",
+		"page": "305-337",
+		"issued": {
+			"date-parts": [
+				[
+					1996
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Calhoun",
+				"given": "Craig"
+			}
+		],
+		"editor": [
+			{
+				"family": "McDonald",
+				"given": "Terrence J."
+			}
+		]
+	},
+	{
+		"id": "qhshxpl:12",
+		"type": "article-newspaper",
+		"language": "en-US",
+		"title": "Another Bicentennial.",
+		"container-title": "Christian Science Monitor",
+		"issued": {
+			"date-parts": [
+				[
+					1978,
+					11,
+					10
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Strout",
+				"given": "Richard L."
+			}
+		]
+	}
+]

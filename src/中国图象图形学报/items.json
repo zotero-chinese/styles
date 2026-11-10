@@ -1,0 +1,178 @@
+[
+	{
+		"id": "http://zotero.org/users/4181482/items/5L6TVMWN",
+		"type": "article-journal",
+		"abstract": "红外弱小目标检测跟踪是远程精确打击、空天攻防对抗和遥感情报侦察等军事应用中的重要研究内容。针对当前红外目标探测识别领域仿真数据真实性不足、实测数据样本匮乏的情况,本数据集面向低空飞行的弱小飞机目标检测跟踪应用,通过外场实地拍摄和数据准备加工,提供了一套以一架或多架固定机翼无人机目标为探测对象的算法测试数据集。数据集获取场景涵盖了天空、地面等背景以及多种场景,共计22段数据、30条航迹、16 177帧图像、16 944个目标,每个目标对应一个标注位置,每段数据对应一个标注文件。本数据集可为弱小目标探测、精确制导和红外目标特性等研究提供基础数据。",
+		"citation-key": "2020bingweihuidikongbeijingxiahongwaituxiangruoxiaofeijimubiaojiancegenzongshujuji",
+		"container-title": "中国科学数据",
+		"DOI": "10.11922/csdata.2019.0074.zh",
+		"ISSN": "2096-2223",
+		"issue": "3",
+		"journalAbbreviation": "中国科学数据",
+		"language": "zh-CN",
+		"license": "http://www.dx.doi.org/10.11922/sciencedb.902",
+		"note": "titleTranslation: A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background\noriginal-title: A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background\noriginal-container-title: China Scientific Data\noriginal-author: Chen || X Y\noriginal-author: Hu || Y Q\noriginal-author: Lv || J T\noriginal-author: You || L L\noriginal-author: Wang || Z F\noriginal-author: Dai || W C\noriginal-author: Xie || Y H\noriginal-author: Gao || M",
+		"page": "291-302",
+		"source": "CNKI",
+		"title": "地/空背景下红外图像弱小飞机目标检测跟踪数据集",
+		"URL": "http://www.csdata.org/p/387/",
+		"volume": "5",
+		"author": [
+			{
+				"family": "回",
+				"given": "丙伟"
+			},
+			{
+				"family": "宋",
+				"given": "志勇"
+			},
+			{
+				"family": "范",
+				"given": "红旗"
+			},
+			{
+				"family": "钟",
+				"given": "平"
+			},
+			{
+				"family": "胡",
+				"given": "卫东"
+			},
+			{
+				"family": "张",
+				"given": "晓峰"
+			},
+			{
+				"family": "凌",
+				"given": "建国"
+			},
+			{
+				"family": "苏",
+				"given": "宏艳"
+			},
+			{
+				"family": "金",
+				"given": "威"
+			},
+			{
+				"family": "张",
+				"given": "永杰"
+			},
+			{
+				"family": "白",
+				"given": "亚茜"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/LHEMV9XI",
+		"type": "paper-conference",
+		"citation-key": "9156306",
+		"container-title": "2020 IEEE/CVF conference on computer vision and pattern recognition (CVPR)",
+		"DOI": "10.1109/CVPR42600.2020.00281",
+		"ISBN": "Deblurring by realistic blurring",
+		"language": "en-US",
+		"note": "CCF: A",
+		"page": "2734-2743",
+		"publisher": "IEEE",
+		"publisher-place": "Seattle, WA, USA",
+		"title": "Deblurring by realistic blurring",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Kaihao"
+			},
+			{
+				"family": "Luo",
+				"given": "Wenhan"
+			},
+			{
+				"family": "Zhong",
+				"given": "Yiran"
+			},
+			{
+				"family": "Ma",
+				"given": "Lin"
+			},
+			{
+				"family": "Stenger",
+				"given": "Björn"
+			},
+			{
+				"family": "Liu",
+				"given": "Wei"
+			},
+			{
+				"family": "Li",
+				"given": "Hongdong"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/3VBQZIH7",
+		"type": "paper-conference",
+		"abstract": "Single-frame infrared small target detection remains a challenge not only due to the scarcity of intrinsic target characteristics but also because of lacking a public dataset. In this paper, we ﬁrst contribute an open dataset with highquality annotations to advance the research in this ﬁeld. We also propose an asymmetric contextual modulation module specially designed for detecting infrared small targets. To better highlight small targets, besides a top-down global contextual feedback, we supplement a bottom-up modulation pathway based on point-wise channel attention for exchanging high-level semantics and subtle low-level details. We report ablation studies and comparisons to state-of-the-art methods, where we ﬁnd that our approach performs signiﬁcantly better. Our dataset and code are available online1.",
+		"citation-key": "2020daiasymmetriccontextualmodulation",
+		"DOI": "10.1109/WACV48630.2021.00099",
+		"event-title": "2021 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+		"ISBN": "978-1-6654-0477-8",
+		"language": "en-US",
+		"license": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
+		"note": "10.1109/WACV48630.2021.00099",
+		"page": "949-958",
+		"publisher": "IEEE",
+		"publisher-place": "Waikoloa, HI, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Asymmetric contextual modulation for infrared small target detection",
+		"URL": "https://ieeexplore.ieee.org/document/9423171/",
+		"author": [
+			{
+				"family": "Dai",
+				"given": "Yimian"
+			},
+			{
+				"family": "Wu",
+				"given": "Yiquan"
+			},
+			{
+				"family": "Zhou",
+				"given": "Fei"
+			},
+			{
+				"family": "Barnard",
+				"given": "Kobus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1
+				]
+			]
+		}
+	}
+]

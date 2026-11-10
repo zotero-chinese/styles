@@ -12,8 +12,8 @@
     </author>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf</summary>
-    <updated>2025-11-09T19:34:27+08:00</updated>
+    <summary>碩士與博士論文參考文獻格式補充說明_2024.pdf（2024 年 11 月更新）</summary>
+    <updated>2026-05-10T14:23:53+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -94,7 +94,6 @@
   <locale xml:lang="zh">
     <terms>
       <term name="and">與</term>
-      <term name="and others">等人</term>
       <term name="in">載於</term>
       <term name="open-quote">「</term>
       <term name="close-quote">」</term>
@@ -487,7 +486,6 @@
             <group delimiter="，">
               <names variable="author">
                 <name delimiter="、" delimiter-precedes-et-al="never"/>
-                <et-al term="and others"/>
                 <substitute>
                   <text macro="title-intext-zh"/>
                 </substitute>
@@ -498,7 +496,6 @@
           <else>
             <names variable="author" delimiter="，">
               <name delimiter="、" delimiter-precedes-et-al="never"/>
-              <et-al term="and others"/>
               <substitute>
                 <text macro="title-intext-zh"/>
               </substitute>
@@ -509,7 +506,6 @@
       <else>
         <names variable="composer" delimiter="，">
           <name delimiter="、" delimiter-precedes-et-al="never"/>
-          <et-al term="and others"/>
           <substitute>
             <names variable="author"/>
             <names variable="illustrator"/>
@@ -3653,7 +3649,7 @@
       <text variable="locator"/>
     </group>
   </macro>
-  <citation et-al-subsequent-min="3" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
     <sort>
       <key variable="language"/>
       <key macro="author-sort-en" names-min="3" names-use-first="1"/>

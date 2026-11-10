@@ -1,0 +1,31 @@
+{
+  "dir": "学术评论",
+  "file": "学术评论.csl",
+  "style_class": "note",
+  "title": "学术评论",
+  "id": "https://zotero-chinese.com/styles/学术评论",
+  "link_self": "https://zotero-chinese.com/styles/学术评论",
+  "link_template": "https://zotero-chinese.com/styles/中国社会科学",
+  "link_documentation": "https://navi.cnki.net/knavi/journals/FLJS/detail",
+  "author": [
+    {
+      "name": "杨家风子"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "note",
+  "field": "social_science",
+  "summary": "依据《学术评论》已刊样文（2026 年「著述评论」栏目）。页下注（注释体例，中国社会科学派生）：期刊文章《刊名》年份第X期；专著 出版社出版年版（无出版地）；英文文献 年份:页码。",
+  "updated": "2026-08-06T20:15:43+08:00",
+  "citations": "<sup>1</sup> 海德格尔：《康德与形而上学疑难》，王庆节译，商务印书馆2018年版。<br>\n<sup>2</sup> Allen W. Wood, <i>Kant</i>, Blackwell Publishing Ltd., 2005: 151.<br>\n<sup>3</sup> 米歇尔·福柯：《知识考古学》，董树宝译，生活·读书·新知三联书店2021年版，第157—163页。<br>\n<sup>4</sup> 刘成纪：《我所理解的艺术观念史》，《中国图书评论》2018年第9期。<br>\n<sup>5</sup> 汉斯-格奥尔格·伽达默尔：《论思想之开端》，张柯译，《中国现象学与哲学评论》2019年第2辑。<br>\n<sup>6</sup> 鲍姆嘉藤：《美学》，简明、王旭晓译，文化艺术出版社1987年版，第126页。<br>\n<sup>7</sup> Alexander Gottlieb Baumgarten, <i>Ästhetik</i>, Teil 1, trans. Dagmar Mirbach, Dagmar Mirbach, Felix Meiner Verlag, 2007: 20.<br>\n<sup>8</sup> 康德：《判断力批判》，李秋零译，中国人民大学出版社2011年版，第175页。<br>\n<sup>9</sup> 弗里德里克·C.拜泽尔：《狄奥提玛的孩子们——从莱布尼茨到莱辛的德国审美理性主义》，张红军译，人民出版社2019年版，第6页。<br>\n<sup>10</sup> 陈新儒：《缪斯的诞生：现代西方艺术观念生成简史》，四川大学出版社2025年版，第75页。<br>\n<sup>11</sup> Immanuel Kant, <i>Kritik der Urteilskraft</i>, in <i>Kants gesammelte Schriften</i>, Preußische Akademie der Wissenschaften zu Berlin, Georg Reimer, 1913: 303.<br>\n<sup>12</sup> Eckart Förster, <i>Kant’s Final Synthesis: An Essay on the Opus postumum</i>, Harvard University Press, 2000: 28-32.<br>\n",
+  "bibliography": "",
+  "test_result": "<sup>1</sup> 海德格尔：《康德与形而上学疑难》，王庆节译，商务印书馆2018年版。<br>\n<sup>2</sup> Allen W. Wood, <i>Kant</i>, Blackwell Publishing Ltd., 2005.<br>\n<sup>3</sup> 米歇尔·福柯：《知识考古学》，董树宝译，生活·读书·新知三联书店2021年版。<br>\n<sup>4</sup> 刘成纪：《我所理解的艺术观念史》，《中国图书评论》2018年第9期。<br>\n<sup>5</sup> 汉斯-格奥尔格·伽达默尔：《论思想之开端》，张柯译，《中国现象学与哲学评论》2019年第2辑。<br>\n<sup>6</sup> 鲍姆嘉藤：《美学》，简明、王旭晓译，文化艺术出版社1987年版。<br>\n<sup>7</sup> Alexander Gottlieb Baumgarten, <i>Ästhetik</i>, Teil 1, trans. Dagmar Mirbach, Dagmar Mirbach, Felix Meiner Verlag, 2007.<br>\n<sup>8</sup> 康德：《判断力批判》，李秋零译，中国人民大学出版社2011年版。<br>\n<sup>9</sup> 弗里德里克·C.拜泽尔：《狄奥提玛的孩子们——从莱布尼茨到莱辛的德国审美理性主义》，张红军译，人民出版社2019年版。<br>\n<sup>10</sup> 陈新儒：《缪斯的诞生：现代西方艺术观念生成简史》，四川大学出版社2025年版。<br>\n<sup>11</sup> Immanuel Kant, <i>Kritik der Urteilskraft</i>, in <i>Kants gesammelte Schriften</i>, Preußische Akademie der Wissenschaften zu Berlin, Georg Reimer, 1913.<br>\n<sup>12</sup> Eckart Förster, <i>Kant’s Final Synthesis: An Essay on the Opus postumum</i>, Harvard University Press, 2000.<br>\n",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}

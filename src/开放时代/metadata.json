@@ -1,0 +1,31 @@
+{
+  "dir": "开放时代",
+  "file": "开放时代.csl",
+  "style_class": "in-text",
+  "title": "开放时代",
+  "id": "https://zotero-chinese.com/styles/开放时代",
+  "link_self": "https://zotero-chinese.com/styles/开放时代",
+  "link_template": "http://www.zotero.org/styles/chicago-author-date",
+  "link_documentation": "https://www.opentimes.cn/html/About/Tips/index.html",
+  "author": [
+    {
+      "name": "杨家风子"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "social_science",
+  "summary": "《开放时代》投稿体例（2026年1月1日起施行）。著者-出版年制（chicago-author-date 派生）：正文（作者 年份），文末参考文献按作者字母序排列。",
+  "updated": "2026-08-06T20:15:47+08:00",
+  "citations": "（Wrigley &#38; Schofield，1989[1981]: 208–209）<br>\n（陈少明，2005）<br>\n（佚名，2021）<br>\n（MacFarquhar &#38; Schoenhals，2006）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">陈少明，2005，《经典世界中的人、事、物——对中国哲学书写方式的一种思考》，载《中国社会科学》第5期。</div>\n  <div class=\"csl-entry\">《第四期中国妇女社会地位调查主要数据情况》，2021，载《中国妇女报》12月27日，第4版。</div>\n  <div class=\"csl-entry\">MacFarquhar, Roderick &#38; Michael Schoenhals, 2006, <i>Mao’s Last Revolution</i>, Cambridge, Mass.; London: Belknap Press of Harvard University Press.</div>\n  <div class=\"csl-entry\">Wrigley, E. A. &#38; Roger S. Schofield, 1989, <i>The Population History of England 1541-1871: A Reconstruction</i>.</div>\n</div>",
+  "test_result": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">陈少明，2005，《经典世界中的人、事、物——对中国哲学书写方式的一种思考》，载《中国社会科学》第5期。</div>\n  <div class=\"csl-entry\">《第四期中国妇女社会地位调查主要数据情况》，2021，载《中国妇女报》12月27日，第4版。</div>\n  <div class=\"csl-entry\">MacFarquhar, Roderick &#38; Michael Schoenhals, 2006, <i>Mao’s Last Revolution</i>, Cambridge, Mass.; London: Belknap Press of Harvard University Press.</div>\n  <div class=\"csl-entry\">Wrigley, E. A. &#38; Roger S. Schofield, 1989, <i>The Population History of England 1541-1871: A Reconstruction</i>.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}

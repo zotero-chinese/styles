@@ -1,0 +1,264 @@
+[
+	{
+		"id": "hnnd:01",
+		"type": "book",
+		"title": "乡土中国",
+		"publisher": "上海人民出版社",
+		"publisher-place": "上海",
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		],
+		"page": "3"
+	},
+	{
+		"id": "hnnd:02",
+		"type": "book",
+		"language": "en-US",
+		"title": "Empowerment, participation and social work",
+		"publisher": "Palgrave Macmillan",
+		"publisher-place": "New York",
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Adams",
+				"given": "R"
+			}
+		]
+	},
+	{
+		"id": "hnnd:03",
+		"type": "article-journal",
+		"title": "金融普惠、家庭贫困及脆弱性",
+		"container-title": "经济学(季刊)",
+		"issue": "5",
+		"issued": {
+			"date-parts": [
+				[
+					2020
+				]
+			]
+		},
+		"page": "153-172",
+		"author": [
+			{
+				"family": "尹志超"
+			},
+			{
+				"family": "张栋浩"
+			}
+		]
+	},
+	{
+		"id": "hnnd:04",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Refining and extending tasktechnology fit theory:creation of two task-technology fit scales and empirical clarification of the construct",
+		"container-title": "Information & Management",
+		"issue": "6",
+		"issued": {
+			"date-parts": [
+				[
+					2019
+				]
+			]
+		},
+		"page": "1-16",
+		"author": [
+			{
+				"family": "Howard",
+				"given": "M C"
+			},
+			{
+				"family": "Rose",
+				"given": "J C"
+			}
+		]
+	},
+	{
+		"id": "hnnd:05",
+		"type": "article-journal",
+		"title": "中国保护性耕作农业生态效率:动态演进、区域差异与收敛性分析",
+		"container-title": "资源科学",
+		"available-date": {
+			"date-parts": [
+				[
+					2025,
+					9,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2025,
+					10,
+					17
+				]
+			]
+		},
+		"URL": "https://link.cnki.net/urlid/11.3868.N.20250902.0950.002",
+		"author": [
+			{
+				"family": "李园园"
+			},
+			{
+				"family": "薛彩霞"
+			},
+			{
+				"family": "柴朝卿"
+			},
+			{
+				"family": "赵某"
+			}
+		]
+	},
+	{
+		"id": "hnnd:06",
+		"type": "webpage",
+		"title": "中国科学院科技论文预发布平台",
+		"accessed": {
+			"date-parts": [
+				[
+					2025,
+					3,
+					6
+				]
+			]
+		},
+		"URL": "https://chinaxiv.org/home.htm",
+		"author": [
+			{
+				"family": "中国科学院文献情报中心"
+			}
+		]
+	},
+	{
+		"id": "hnnd:07",
+		"type": "dataset",
+		"title": "人文社会科学数据集检索方法研究的数据集",
+		"version": "V2",
+		"publisher": "北京大学开放研究数据平台",
+		"issued": {
+			"date-parts": [
+				[
+					2025,
+					6,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2025,
+					7,
+					11
+				]
+			]
+		},
+		"URL": "https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN",
+		"author": [
+			{
+				"family": "王继民"
+			},
+			{
+				"family": "罗鹏程"
+			},
+			{
+				"family": "赵常煜"
+			},
+			{
+				"family": "王某"
+			}
+		]
+	},
+	{
+		"id": "hnnd:08",
+		"type": "paper-conference",
+		"title": "中国农业转基因生物研发进展与安全管理",
+		"event-title": "中国国家生物安全框架实施国际合作项目研讨会",
+		"event-date": {
+			"date-parts": [
+				[
+					2005
+				]
+			]
+		},
+		"page": "22-25",
+		"author": [
+			{
+				"family": "汪学军"
+			}
+		]
+	},
+	{
+		"id": "hnnd:09",
+		"type": "book",
+		"title": "书1",
+		"publisher": "出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者1"
+			}
+		]
+	},
+	{
+		"id": "hnnd:10",
+		"type": "book",
+		"title": "书2",
+		"publisher": "出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者2"
+			}
+		]
+	},
+	{
+		"id": "hnnd:11",
+		"type": "book",
+		"title": "书3",
+		"publisher": "出版社",
+		"issued": {
+			"date-parts": [
+				[
+					2002
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者3"
+			}
+		]
+	}
+]

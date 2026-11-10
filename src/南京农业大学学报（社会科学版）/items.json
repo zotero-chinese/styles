@@ -1,0 +1,643 @@
+[
+	{
+		"id": "njndsk:01",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "“联村发展”:乡村振兴推进的新趋向",
+		"container-title": "人民论坛·学术前沿",
+		"issue": "15",
+		"issued": {
+			"date-parts": [
+				[
+					2022
+				]
+			]
+		},
+		"page": "32-38",
+		"author": [
+			{
+				"family": "田毅鹏"
+			}
+		]
+	},
+	{
+		"id": "njndsk:02",
+		"type": "chapter",
+		"language": "en-US",
+		"title": "Remaking Scale: Competition and Cooperation in Prenational and Postnational Europe",
+		"container-title": "Competitive Europe and Peripheries",
+		"publisher": "Springer Verlag",
+		"publisher-place": "Berlin",
+		"issued": {
+			"date-parts": [
+				[
+					1995
+				]
+			]
+		},
+		"page": "60",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "N"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Eskelinen",
+				"given": "H"
+			},
+			{
+				"family": "Snickars",
+				"given": "F"
+			}
+		]
+	},
+	{
+		"id": "njndsk:03",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Integrated Biotechnological and AI Innovations for Crop Improvement",
+		"container-title": "Nature",
+		"issue": "8073",
+		"issued": {
+			"date-parts": [
+				[
+					2025
+				]
+			]
+		},
+		"page": "925-937",
+		"author": [
+			{
+				"family": "Li",
+				"given": "G"
+			},
+			{
+				"family": "An",
+				"given": "L"
+			},
+			{
+				"family": "Yang",
+				"given": "W"
+			},
+			{
+				"family": "Someone",
+				"given": "X"
+			}
+		]
+	},
+	{
+		"id": "njndsk:04",
+		"type": "book",
+		"language": "en-US",
+		"title": "Uneven Development: Nature，Capital and the Production of Space",
+		"publisher": "The University of Georgia Press",
+		"publisher-place": "Athens",
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"page": "181-184",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "N"
+			}
+		]
+	},
+	{
+		"id": "njndsk:05",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "村落社会“重层结构”与乡村治理共同体构建",
+		"container-title": "中国特色社会主义研究",
+		"issue": "4",
+		"issued": {
+			"date-parts": [
+				[
+					2021
+				]
+			]
+		},
+		"page": "76-84",
+		"author": [
+			{
+				"family": "田毅鹏"
+			},
+			{
+				"family": "张笑菡"
+			}
+		]
+	},
+	{
+		"id": "njndsk:06",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "小农生产条件下智慧农业发展的路径选择———基于中日两国的比较分析",
+		"container-title": "农业经济问题",
+		"issue": "12",
+		"issued": {
+			"date-parts": [
+				[
+					2020
+				]
+			]
+		},
+		"page": "87-98",
+		"author": [
+			{
+				"family": "马红坤"
+			},
+			{
+				"family": "毛世平"
+			},
+			{
+				"family": "陈雪"
+			}
+		]
+	},
+	{
+		"id": "njndsk:07",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Global Sprawl: Urban Form after Fordism",
+		"container-title": "Environment and Planning D: Society and Space",
+		"issue": "2",
+		"issued": {
+			"date-parts": [
+				[
+					1994
+				]
+			]
+		},
+		"page": "131-136",
+		"author": [
+			{
+				"family": "Keil",
+				"given": "R"
+			}
+		]
+	},
+	{
+		"id": "njndsk:08",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "中国乡村:19世纪的帝国控制",
+		"publisher": "九州出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2018
+				]
+			]
+		},
+		"page": "364-365",
+		"author": [
+			{
+				"family": "萧公权"
+			}
+		],
+		"translator": [
+			{
+				"family": "张皓"
+			},
+			{
+				"family": "张升"
+			}
+		]
+	},
+	{
+		"id": "njndsk:09",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "美国农业",
+		"publisher": "中国农业出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2021
+				]
+			]
+		},
+		"page": "83",
+		"author": [
+			{
+				"family": "张广胜"
+			}
+		]
+	},
+	{
+		"id": "njndsk:10",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "Whose Narrative is It Anyway? Narratives of Social Innovation in Rural Areas—a Comparative Analysis of Community-led Initiatives in Scotland and Spain",
+		"container-title": "Sociologia Ruralis",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2021
+				]
+			]
+		},
+		"page": "163-189",
+		"author": [
+			{
+				"family": "Vercher",
+				"given": "N"
+			},
+			{
+				"family": "Barlagne",
+				"given": "C"
+			},
+			{
+				"family": "Hewitt",
+				"given": "R"
+			},
+			{
+				"family": "Someone",
+				"given": "X"
+			}
+		]
+	},
+	{
+		"id": "njndsk:11",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "党的二十届三中全会《决定》辅导百问",
+		"publisher": "学习出版社、党建读物出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2024
+				]
+			]
+		},
+		"page": "242"
+	},
+	{
+		"id": "njndsk:12",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "中共中央政治局召开会议 决定召开二十届三中全会 分析研究当前经济形势和经济工作 审议《关于持续深入推进长三角一体化高质量发展若干政策措施的意见》中共中央总书记习近平主持会议",
+		"container-title": "人民日报",
+		"edition": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2024,
+					5,
+					1
+				]
+			]
+		},
+		"author": []
+	},
+	{
+		"id": "njndsk:13",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "马克思恩格斯文集",
+		"volume": "第7卷",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"page": "927-928"
+	},
+	{
+		"id": "njndsk:14",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "耐心的资本",
+		"publisher": "中信出版集团",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2021
+				]
+			]
+		},
+		"page": "12-13",
+		"author": [
+			{
+				"family": "维多利亚·伊凡希娜"
+			},
+			{
+				"family": "乔希·勒纳"
+			}
+		]
+	},
+	{
+		"id": "njndsk:15",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "科技强农“新引擎”:北京市高质量推进农业中关村建设观察",
+		"container-title": "农民日报",
+		"edition": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2023,
+					8,
+					9
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "白锋哲"
+			},
+			{
+				"family": "李丽颖"
+			},
+			{
+				"family": "芦晓春"
+			},
+			{
+				"family": "张某"
+			}
+		]
+	},
+	{
+		"id": "njndsk:16",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "1.3万亿斤以上，连续9年的丰收答卷",
+		"container-title": "人民日报",
+		"edition": "2",
+		"issued": {
+			"date-parts": [
+				[
+					2023,
+					12,
+					19
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "高云才"
+			},
+			{
+				"family": "常钦"
+			},
+			{
+				"family": "郁静娴"
+			},
+			{
+				"family": "张某"
+			}
+		]
+	},
+	{
+		"id": "njndsk:17",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "关于促进乡村产业振兴的指导意见",
+		"issued": {
+			"date-parts": [
+				[
+					2019,
+					6,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2019,
+					7,
+					1
+				]
+			]
+		},
+		"URL": "http://www.moa.gov.cn/example.htm",
+		"author": [
+			{
+				"family": "农业农村部"
+			}
+		]
+	},
+	{
+		"id": "njndsk:18",
+		"type": "dataset",
+		"language": "zh-CN",
+		"title": "人文社会科学数据集检索方法研究的数据集",
+		"publisher": "北京大学开放研究数据平台",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2025,
+					6,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2025,
+					7,
+					11
+				]
+			]
+		},
+		"URL": "https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN",
+		"author": [
+			{
+				"family": "王继民"
+			},
+			{
+				"family": "罗鹏程"
+			},
+			{
+				"family": "赵常煜"
+			},
+			{
+				"family": "王某"
+			}
+		]
+	},
+	{
+		"id": "njndsk:19",
+		"type": "thesis",
+		"language": "zh-CN",
+		"title": "人类活动影响下海河流域典型区水循环变化分析",
+		"publisher": "清华大学",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"page": "55-60",
+		"author": [
+			{
+				"family": "马欢"
+			}
+		]
+	},
+	{
+		"id": "njndsk:20",
+		"type": "report",
+		"language": "zh-CN",
+		"title": "第29次中国互联网络发展状况统计报告",
+		"publisher": "中国互联网络信息中心",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2012
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "中国互联网络信息中心"
+			}
+		]
+	},
+	{
+		"id": "njndsk:21",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "中国保护性耕作农业生态效率",
+		"container-title": "资源科学",
+		"available-date": {
+			"date-parts": [
+				[
+					2025,
+					9,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2025,
+					10,
+					17
+				]
+			]
+		},
+		"URL": "https://link.cnki.net/urlid/11.3868.N.20250902.0950.002",
+		"author": [
+			{
+				"family": "李园园"
+			},
+			{
+				"family": "薛彩霞"
+			},
+			{
+				"family": "柴朝卿"
+			},
+			{
+				"family": "赵某"
+			}
+		]
+	},
+	{
+		"id": "njndsk:22",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "未刊手稿",
+		"publisher": "某出版社",
+		"publisher-place": "北京",
+		"author": [
+			{
+				"family": "张三"
+			}
+		]
+	},
+	{
+		"id": "njndsk:23",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "乡土中国",
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "费孝通"
+			}
+		]
+	},
+	{
+		"id": "njndsk:24",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "书1",
+		"issued": {
+			"date-parts": [
+				[
+					2000
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者1"
+			}
+		]
+	},
+	{
+		"id": "njndsk:25",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "书2",
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者2"
+			}
+		]
+	},
+	{
+		"id": "njndsk:26",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "书3",
+		"issued": {
+			"date-parts": [
+				[
+					2002
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "作者3"
+			}
+		]
+	}
+]

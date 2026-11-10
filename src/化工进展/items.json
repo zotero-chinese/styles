@@ -1,0 +1,156 @@
+[
+	{
+		"id": "http://zotero.org/users/4181482/items/XISU2M3G",
+		"type": "article-journal",
+		"container-title": "应用生态学报",
+		"DOI": "10.13287/j.1001-9332.202301.011",
+		"ISSN": "1001-9332",
+		"issue": "1",
+		"language": "zh-CN",
+		"note": "original-author: Wang || Qifang\noriginal-author: Wang || Xiaoyun\noriginal-author: Li || Haoshen\noriginal-author: Yang || Xiaoyu\noriginal-author: Zhang || Ruimin\noriginal-author: Gong || Biao\noriginal-author: Li || Xiuming\noriginal-author: Shi || Qinghua\n\noriginal-title: Effects of linalool on Botrytis cinerea growth and control of tomato gray mold\n\noriginal-container-title: Chinese Journal of Applied Ecology",
+		"page": "213-220",
+		"source": "CNKI",
+		"title": "芳樟醇对灰葡萄孢生长的影响及对番茄灰霉病的防控效果",
+		"URL": "https://doi.org/10.13287/j.1001-9332.202301.011",
+		"volume": "34",
+		"author": [
+			{
+				"family": "王",
+				"given": "启方"
+			},
+			{
+				"family": "王",
+				"given": "晓云"
+			},
+			{
+				"family": "李",
+				"given": "浩森"
+			},
+			{
+				"family": "杨",
+				"given": "晓玉"
+			},
+			{
+				"family": "张",
+				"given": "锐敏"
+			},
+			{
+				"family": "巩",
+				"given": "彪"
+			},
+			{
+				"family": "李",
+				"given": "秀明"
+			},
+			{
+				"family": "史",
+				"given": "庆华"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					6,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/RMCPD9P8",
+		"type": "article-journal",
+		"container-title": "Fuel",
+		"DOI": "10.1016/j.fuel.2019.06.001",
+		"ISSN": "00162361",
+		"journalAbbreviation": "Fuel",
+		"page": "115593",
+		"title": "Role of hierarchical micro-mesoporous structure of ZSM-5 derived from an embedded nanocarbon cluster synthesis approach in isomerization of alkenes, catalytic cracking and hydrocracking of alkanes",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0016236119309391",
+		"volume": "254",
+		"author": [
+			{
+				"family": "Imyen",
+				"given": "Thidarat"
+			},
+			{
+				"family": "Wannapakdee",
+				"given": "Wannaruedee"
+			},
+			{
+				"family": "Limtrakul",
+				"given": "Jumras"
+			},
+			{
+				"family": "Wattanakit",
+				"given": "Chularat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/AC7EIV7J",
+		"type": "article-journal",
+		"container-title": "Fuel Processing Technology",
+		"DOI": "10.1016/j.fuproc.2025.108393",
+		"ISSN": "03783820",
+		"journalAbbreviation": "Fuel Processing Technology",
+		"note": "JCR分区: Q1\n中科院分区升级版: 工程技术2区\n中科院分区基础版: 工程技术2区\n影响因子: 7.7\n5年影响因子: 7.1\nEI: 是",
+		"page": "108393",
+		"title": "The preparation of hierarchical ZSM-48 zeolite-supported bifunctional catalysts for n-hexadecane hydroisomerization",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378382025002176",
+		"volume": "282",
+		"author": [
+			{
+				"family": "Xu",
+				"given": "Min"
+			},
+			{
+				"family": "Su",
+				"given": "Kegui"
+			},
+			{
+				"family": "Li",
+				"given": "Huiyan"
+			},
+			{
+				"family": "Xiong",
+				"given": "Shuxiang"
+			},
+			{
+				"family": "Zhao",
+				"given": "Qian"
+			},
+			{
+				"family": "Wang",
+				"given": "Wei"
+			},
+			{
+				"family": "Wu",
+				"given": "Wei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2026",
+					4
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,35 @@
+{
+  "dir": "社会",
+  "file": "社会.csl",
+  "style_class": "in-text",
+  "title": "社会",
+  "id": "https://zotero-chinese.com/styles/社会",
+  "link_self": "https://zotero-chinese.com/styles/社会",
+  "link_template": "https://zotero-chinese.com/styles/综合性期刊文献引证技术规范（著者—出版年）",
+  "link_documentation": "https://www.society.shu.edu.cn/CN/column/column35.shtml",
+  "author": [
+    {
+      "name": "杨家风子"
+    }
+  ],
+  "contributor": [
+    {
+      "name": "Zeping Lee"
+    }
+  ],
+  "citation_format": "author-date",
+  "field": "sociology",
+  "summary": "《社会》撰稿体例（发布时间：2024-09-23）。著者-出版年（夹注+文末参考文献）：正文夹注（作者，年份：页码）；中文文献标注［M/J/G/D］类型标识并使用全角标点；外文作者第一作者姓前名后、其余名 姓，and 连接。",
+  "updated": "2026-08-23T19:41:51+08:00",
+  "citations": "（李培林、田丰，2012）<br>\n（徐勇、吴毅，2001）<br>\n（Kim, 1981）<br>\n（Gallo et al., 2009）<br>\n（费孝通，1981a：25－27）<br>\n（张三、李四，2023）<br>\n（Mumford, 1961）<br>\n（1995：25－27）<br>\n（李培林、田丰，2012）<br>\n（费孝通，1981a，1998）<br>\n（涂尔干，1999：123；Durkheim, 1973: 24）<br>\n（陈文，2010）<br>\n（张三等，2020）<br>\n（Smith et al., 2015）<br>\n（费孝通，1981a）<br>\n（费孝通，1981b）<br>\n（陈文，2010）<br>\n（佚名，2005）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">陈文．2010．文集中的一篇［G］．载主编甲主编《某某文集》．北京：某出版社．</div>\n  <div class=\"csl-entry\">费孝通．1981a．乡土中国［M］．上海：上海人民出版社．</div>\n  <div class=\"csl-entry\">———．1981b．江村经济［M］．北京：商务印书馆．</div>\n  <div class=\"csl-entry\">———．1995．乡土中国［M］．上海：上海人民出版社．</div>\n  <div class=\"csl-entry\">———．1998．乡土重建［M］．上海：上海人民出版社．</div>\n  <div class=\"csl-entry\">李培林、田丰．2012．中国农民工社会融入的代际比较［J］．社会 32（5）：1－24．</div>\n  <div class=\"csl-entry\">涂尔干．1999．社会分工论［M］．北京：三联书店．</div>\n  <div class=\"csl-entry\">徐勇、吴毅．2001．乡土中国的民主选举［M］．武汉：华中师范大学出版社．</div>\n  <div class=\"csl-entry\">张三、李四．2023．社会治理的数字化转型［J］．社会学研究 （4）．</div>\n  <div class=\"csl-entry\">张三、李四、王五．2020．三人合著论文［J］．社会 35（2）：1－10．</div>\n  <div class=\"csl-entry\">佚名．2005．无作者之书［M］．北京：某出版社．</div>\n  <div class=\"csl-entry\">Durkheim, Emile. 1973. <i>The Division of Labor in Society</i>. New York: Free Press.</div>\n  <div class=\"csl-entry\">Gallo, William T., Jennie E. Brand, Hsun-Mei Teng, Linda Leo-Summers, and Amy L. Byers. 2009. “Differential Impact of Involuntary Job Loss on Physical Disability among Older Workers: Does Predisposition Matter?” <i>Research on Aging</i> 31 (3): 345-360.</div>\n  <div class=\"csl-entry\">Kim, Illsoo. 1981. <i>New Urban Immigrants: The Korean Community in New York</i>. Princeton, N.J.: Princeton University Press.</div>\n  <div class=\"csl-entry\">Mumford, Lewis. 1961. <i>The City in History</i>. New York: Penguin Books.</div>\n  <div class=\"csl-entry\">Smith, John, Jane Brown, Bob Jones, and Ann Lee. 2015. “Four Author Paper.” <i>American Journal of Sociology</i> 120 (1): 1-10.</div>\n</div>",
+  "test_result": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-true\">\n  <div class=\"csl-entry\">陈文．2010．文集中的一篇［G］．载主编甲主编《某某文集》．北京：某出版社．</div>\n  <div class=\"csl-entry\">费孝通．1981a．乡土中国［M］．上海：上海人民出版社．</div>\n  <div class=\"csl-entry\">———．1981b．江村经济［M］．北京：商务印书馆．</div>\n  <div class=\"csl-entry\">———．1995．乡土中国［M］．上海：上海人民出版社．</div>\n  <div class=\"csl-entry\">———．1998．乡土重建［M］．上海：上海人民出版社．</div>\n  <div class=\"csl-entry\">李培林、田丰．2012．中国农民工社会融入的代际比较［J］．社会 32（5）：1－24．</div>\n  <div class=\"csl-entry\">涂尔干．1999．社会分工论［M］．北京：三联书店．</div>\n  <div class=\"csl-entry\">徐勇、吴毅．2001．乡土中国的民主选举［M］．武汉：华中师范大学出版社．</div>\n  <div class=\"csl-entry\">张三、李四．2023．社会治理的数字化转型［J］．社会学研究 （4）．</div>\n  <div class=\"csl-entry\">张三、李四、王五．2020．三人合著论文［J］．社会 35（2）：1－10．</div>\n  <div class=\"csl-entry\">佚名．2005．无作者之书［M］．北京：某出版社．</div>\n  <div class=\"csl-entry\">Durkheim, Emile. 1973. <i>The Division of Labor in Society</i>. New York: Free Press.</div>\n  <div class=\"csl-entry\">Gallo, William T., Jennie E. Brand, Hsun-Mei Teng, Linda Leo-Summers, and Amy L. Byers. 2009. “Differential Impact of Involuntary Job Loss on Physical Disability among Older Workers: Does Predisposition Matter?” <i>Research on Aging</i> 31 (3): 345-360.</div>\n  <div class=\"csl-entry\">Kim, Illsoo. 1981. <i>New Urban Immigrants: The Korean Community in New York</i>. Princeton, N.J.: Princeton University Press.</div>\n  <div class=\"csl-entry\">Mumford, Lewis. 1961. <i>The City in History</i>. New York: Penguin Books.</div>\n  <div class=\"csl-entry\">Smith, John, Jane Brown, Bob Jones, and Ann Lee. 2015. “Four Author Paper.” <i>American Journal of Sociology</i> 120 (1): 1-10.</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}

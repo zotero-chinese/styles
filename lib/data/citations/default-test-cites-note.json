@@ -1,63 +1,37 @@
 [
 	[
 		{
-			"id": "gbt7714.b.1:1",
-			"label": "page",
-			"locator": "903"
+			"id": "molc2.13.1:1"
+		},
+		{
+			"id": "molc2.13.1:2"
+		},
+		{
+			"id": "molc2.13.1:3"
 		}
 	],
 	[
 		{
-			"id": "gbt7714.b.1:2",
-			"label": "page",
-			"locator": "260"
+			"id": "molc2.13.1:1",
+			"locator": "3",
+			"label": "page"
 		}
 	],
 	[
 		{
-			"id": "molc.14:16"
+			"id": "molc2.13.1:2"
 		}
 	],
 	[
 		{
-			"id": "gbt7714.b.1:2",
-			"label": "page",
-			"locator": "326-329"
+			"id": "molc2.13.1:2"
 		}
 	],
 	[
 		{
-			"id": "gbt7714.b.1:2",
-			"label": "page",
-			"locator": "326-329"
-		}
-	],
-	[
-		{
-			"id": "gbt7714.b.1:2",
-			"label": "page",
-			"locator": "260"
-		}
-	],
-	[
-		{
-			"id": "molc.14:16",
-			"label": "page",
-			"locator": "330"
-		}
-	],
-	[
-		{
-			"id": "molc.14:16",
-			"label": "page",
-			"locator": "330"
-		}
-	],
-	[
-		{
-			"id": "molc.14:16",
-			"label": "page",
-			"locator": "331"
+			"id": "molc2.13.1:2",
+			"locator": "69",
+			"label": "page"
 		}
 	]
 ]

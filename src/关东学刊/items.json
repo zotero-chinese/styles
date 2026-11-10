@@ -1,0 +1,379 @@
+[
+	{
+		"id": "gdxk:01",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "丁玲研究资料",
+		"publisher": "天津人民出版社",
+		"publisher-place": "天津",
+		"issued": {
+			"date-parts": [
+				[
+					1982
+				]
+			]
+		},
+		"editor": [
+			{
+				"family": "袁良骏"
+			}
+		]
+	},
+	{
+		"id": "gdxk:02",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "中国人留学日本史",
+		"publisher": "中文大学出版社",
+		"publisher-place": "香港",
+		"issued": {
+			"date-parts": [
+				[
+					1982
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "[日]实藤惠秀"
+			}
+		],
+		"translator": [
+			{
+				"family": "谭汝谦"
+			},
+			{
+				"family": "林启彦"
+			}
+		]
+	},
+	{
+		"id": "gdxk:03",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "超越左与右——激进政治的未来",
+		"publisher": "社会科学文献出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "吉登斯"
+			}
+		],
+		"translator": [
+			{
+				"family": "李惠斌"
+			}
+		]
+	},
+	{
+		"id": "gdxk:04",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "西方国家社会保障制度史",
+		"publisher": "高等教育出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2016
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "丁建定"
+			}
+		]
+	},
+	{
+		"id": "gdxk:05",
+		"type": "chapter",
+		"language": "zh-CN",
+		"title": "走向新世界主义",
+		"container-title": "全球化与后殖民批评",
+		"publisher": "中央编辑出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1999
+				]
+			]
+		},
+		"page": "247-266",
+		"author": [
+			{
+				"family": "杜威·佛克马"
+			}
+		],
+		"editor": [
+			{
+				"family": "王宁"
+			},
+			{
+				"family": "薛晓源"
+			}
+		]
+	},
+	{
+		"id": "gdxk:06",
+		"type": "chapter",
+		"language": "zh-CN",
+		"title": "中国小说的历史变迁",
+		"container-title": "鲁迅全集",
+		"volume": "（第9册）",
+		"publisher": "人民文学出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1981
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "鲁迅"
+			}
+		]
+	},
+	{
+		"id": "gdxk:07",
+		"type": "classic",
+		"language": "zh-CN",
+		"title": "史记",
+		"volume": "卷二十八",
+		"volume-title": "封禅书",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1982
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "司马迁"
+			}
+		]
+	},
+	{
+		"id": "gdxk:08",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "商代“分封”说质疑",
+		"container-title": "学术月刊",
+		"issue": "5",
+		"issued": {
+			"date-parts": [
+				[
+					1986
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "黄中业"
+			}
+		]
+	},
+	{
+		"id": "gdxk:09",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "家族制度为专制主义之根据论",
+		"container-title": "新青年",
+		"volume": "2",
+		"issue": "第6号",
+		"issued": {
+			"date-parts": [
+				[
+					1917,
+					2,
+					1
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "吴虞"
+			}
+		]
+	},
+	{
+		"id": "gdxk:10",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "吴妍妍：叫我吴天明的女儿，我很骄傲",
+		"container-title": "北京青年报",
+		"issued": {
+			"date-parts": [
+				[
+					2016,
+					1,
+					17
+				]
+			]
+		},
+		"section": "B5版",
+		"author": [
+			{
+				"family": "张嘉"
+			}
+		]
+	},
+	{
+		"id": "gdxk:11",
+		"type": "thesis",
+		"language": "zh-CN",
+		"title": "突围与偕妄—论先锋小说中的“文革叙述”",
+		"publisher": "山东师范大学",
+		"genre": "硕士学位论文",
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "苏鹏"
+			}
+		]
+	},
+	{
+		"id": "gdxk:12",
+		"type": "paper-conference",
+		"language": "zh-CN",
+		"title": "对国际体制和国际制度的理解和翻译",
+		"event-title": "全球化与亚太区域话国际研讨会",
+		"event-place": "天津",
+		"issued": {
+			"date-parts": [
+				[
+					2000,
+					6
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "任东来"
+			}
+		]
+	},
+	{
+		"id": "gdxk:13",
+		"type": "manuscript",
+		"language": "zh-CN",
+		"title": "傅良佐致国务院电",
+		"issued": {
+			"date-parts": [
+				[
+					1917,
+					9,
+					15
+				]
+			]
+		},
+		"archive": "中国第二历史档案馆",
+		"archive_location": "北洋档案1011-5961"
+	},
+	{
+		"id": "gdxk:14",
+		"type": "chapter",
+		"language": "en-US",
+		"title": "The Impact of Scarcity and Plenty on Population Change in England",
+		"container-title": "Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"issued": {
+			"date-parts": [
+				[
+					1983
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Schfield",
+				"given": "R. S."
+			}
+		],
+		"editor": [
+			{
+				"family": "Rotberg",
+				"given": "R. I."
+			},
+			{
+				"family": "Rabb",
+				"given": "T. K."
+			}
+		]
+	},
+	{
+		"id": "gdxk:15",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "On the Search for Civil Society in China",
+		"container-title": "Modern China",
+		"volume": "19",
+		"issue": "2",
+		"issued": {
+			"date-parts": [
+				[
+					1993,
+					4
+				]
+			]
+		},
+		"page": "199-215",
+		"author": [
+			{
+				"family": "Chamberlain",
+				"given": "Heath B."
+			}
+		]
+	},
+	{
+		"id": "gdxk:16",
+		"type": "webpage",
+		"language": "zh-CN",
+		"title": "两宋茶诗与茶事",
+		"container-title": "文学遗产通讯",
+		"edition": "网路版试刊",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"URL": "http://www.literature.org.cn/Article.asp?ID=199",
+		"accessed": {
+			"date-parts": [
+				[
+					2007,
+					9,
+					13
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "扬之水"
+			}
+		]
+	}
+]

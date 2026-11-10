@@ -1,0 +1,94 @@
+[
+	{
+		"id": "kfsd:01",
+		"type": "book",
+		"language": "en-US",
+		"title": "The Population History of England 1541-1871: A Reconstruction",
+		"issued": {
+			"date-parts": [
+				[
+					1989
+				]
+			]
+		},
+		"original-date": {
+			"date-parts": [
+				[
+					1981
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "Wrigley",
+				"given": "E. A."
+			},
+			{
+				"family": "Schofield",
+				"given": "Roger S."
+			}
+		]
+	},
+	{
+		"id": "kfsd:02",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "经典世界中的人、事、物——对中国哲学书写方式的一种思考",
+		"container-title": "中国社会科学",
+		"issue": "5",
+		"issued": {
+			"date-parts": [
+				[
+					2005
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "陈少明"
+			}
+		]
+	},
+	{
+		"id": "kfsd:03",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "第四期中国妇女社会地位调查主要数据情况",
+		"container-title": "中国妇女报",
+		"issued": {
+			"date-parts": [
+				[
+					2021,
+					12,
+					27
+				]
+			]
+		},
+		"page": "4"
+	},
+	{
+		"id": "kfsd:04",
+		"type": "book",
+		"language": "en-US",
+		"title": "Mao's Last Revolution",
+		"publisher": "Belknap Press of Harvard University Press",
+		"publisher-place": "Cambridge, Mass.; London",
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "MacFarquhar",
+				"given": "Roderick"
+			},
+			{
+				"family": "Schoenhals",
+				"given": "Michael"
+			}
+		]
+	}
+]

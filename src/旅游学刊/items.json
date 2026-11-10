@@ -1,0 +1,475 @@
+[
+	{
+		"id": "lyxk:01",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "基于 IPA 的旅游目的地意象整合营销传播——两个江南水乡古镇的案例研究",
+		"container-title": "旅游学刊",
+		"volume": "28",
+		"issue": "9",
+		"issued": {
+			"date-parts": [
+				[
+					2013
+				]
+			]
+		},
+		"page": "53-60",
+		"author": [
+			{
+				"family": "周永博"
+			},
+			{
+				"family": "魏向东"
+			},
+			{
+				"family": "梁峰"
+			}
+		],
+		"node": "original-author: ZHOU || Yongbo\noriginal-author:  WEI || Xiangdong\noriginal-author: LIANG || Feng",
+		"original-title": "Tourism destination image integrated marketing communications: A composite IPA research based on ancient water towns in Southern Yangth River case",
+		"original-container-title": "Tourism Tribune"
+	},
+	{
+		"id": "lyxk:02",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "The website design and Internet site marketing practices of upscale and luxury hotels in Turkey",
+		"container-title": "Tourism Management",
+		"volume": "27",
+		"issue": "3",
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"page": "171-176",
+		"author": [
+			{
+				"family": "BALOGLU",
+				"given": "S"
+			},
+			{
+				"family": "PEKCAN",
+				"given": "Y A"
+			}
+		]
+	},
+	{
+		"id": "lyxk:03",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "旅游管理学",
+		"publisher": "南开大学出版社",
+		"publisher-place": "天津",
+		"issued": {
+			"date-parts": [
+				[
+					2007
+				]
+			]
+		},
+		"page": "194",
+		"author": [
+			{
+				"family": "罗明义"
+			},
+			{
+				"family": "杜靖川"
+			},
+			{
+				"family": "杨萍"
+			}
+		],
+		"note": "original-author: LUO || Mingyi\noriginal-author: DU || Jingchuan\noriginal-author: YANG || Ping",
+		"original-title": "Tourism Management",
+		"original-publisher": "Nankai University Press",
+		"original-publisher-place": "Tianjin"
+	},
+	{
+		"id": "lyxk:04",
+		"type": "thesis",
+		"language": "zh-CN",
+		"title": "古村落旅游商业化的初步研究——以世界文化遗产地宏村为例",
+		"publisher": "安徽师范大学硕士学位论文",
+		"publisher-place": "芜湖",
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"author": [
+			{
+				"family": "陈思屹"
+			}
+		],
+		"note": "original-author: CHENG || Siyi",
+		"original-title": "Preliminary Study on the Ancient Village Tourism Commercialization: A Case for World Cultural Heritage Hongcun",
+		"original-publisher": "Anhui Normal University",
+		"original-publisher-place": "Wuhu"
+	},
+	{
+		"id": "lyxk:05",
+		"type": "webpage",
+		"language": "en-US",
+		"title": "KEEP home page",
+		"URL": "http://www.keepnepal.com",
+		"issued": {
+			"date-parts": [
+				[
+					2002,
+					9,
+					8
+				]
+			]
+		},
+		"author": [
+			{
+				"literal": "Kathmandu Environmental Education Program (KEEP)"
+			}
+		]
+	},
+	{
+		"id": "lyxk:06",
+		"type": "article-newspaper",
+		"language": "zh-CN",
+		"title": "生态旅游岂能破坏生态",
+		"container-title": "光明日报",
+		"issued": {
+			"date-parts": [
+				[
+					1998,
+					5,
+					23
+				]
+			]
+		},
+		"edition": "04",
+		"author": [
+			{
+				"family": "龚雪辉"
+			}
+		]
+	},
+	{
+		"id": "lyxk:07",
+		"type": "paper-conference",
+		"language": "en-US",
+		"title": "Limits to ecotourism growth and sustainability: The Galapagos example",
+		"container-title": "Pacific Rim Tourism",
+		"editor": [
+			{
+				"family": "Opperman",
+				"given": "M"
+			}
+		],
+		"publisher": "CAB International",
+		"publisher-place": "Wallingford",
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"page": "144-155",
+		"author": [
+			{
+				"family": "NOLAN",
+				"given": "M L"
+			},
+			{
+				"family": "NOLAN",
+				"given": "S"
+			}
+		]
+	},
+	{
+		"id": "lyxk:08",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "中文题名",
+		"container-title": "旅游学刊",
+		"volume": "40",
+		"issue": "1",
+		"issued": {
+			"date-parts": [
+				[
+					2025
+				]
+			]
+		},
+		"page": "1-10",
+		"author": [
+			{
+				"family": "周永博"
+			},
+			{
+				"family": "魏向东"
+			},
+			{
+				"family": "梁峰"
+			},
+			{
+				"family": "张三"
+			}
+		],
+		"original-author": [
+			{
+				"family": "ZHOU",
+				"given": "Yongbo"
+			},
+			{
+				"family": "WEI",
+				"given": "Xiangdong"
+			},
+			{
+				"family": "LIANG",
+				"given": "Feng"
+			},
+			{
+				"family": "ZHANG",
+				"given": "San"
+			}
+		],
+		"original-title": "English title",
+		"original-container-title": "Tourism Tribune"
+	},
+	{
+		"id": "lyxk:09",
+		"type": "article-journal",
+		"language": "en-US",
+		"title": "A study on tourism",
+		"container-title": "Tourism Management",
+		"volume": "27",
+		"issue": "3",
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"page": "171-176",
+		"author": [
+			{
+				"family": "BALOGLU",
+				"given": "S"
+			},
+			{
+				"family": "PEKCAN",
+				"given": "Y A"
+			},
+			{
+				"family": "SMITH",
+				"given": "J"
+			},
+			{
+				"family": "JONES",
+				"given": "R"
+			}
+		]
+	},
+	{
+		"id": "lyxk:10",
+		"type": "book",
+		"language": "zh-CN",
+		"title": "外国出版史",
+		"publisher": "中国书籍出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					1988
+				]
+			]
+		},
+		"page": "1-2",
+		"author": [
+			{
+				"family": "昂温",
+				"given": "G"
+			},
+			{
+				"family": "昂温",
+				"given": "P S"
+			}
+		],
+		"translator": [
+			{
+				"family": "陈生铮"
+			}
+		]
+	},
+	{
+		"id": "lyxk:11",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "生态旅游研究进展",
+		"container-title": "旅游学刊",
+		"volume": "25",
+		"issue": "9/10",
+		"issued": {
+			"date-parts": [
+				[
+					1999
+				]
+			]
+		},
+		"page": "36-39",
+		"author": [
+			{
+				"family": "李四"
+			}
+		]
+	},
+	{
+		"id": "lyxk:12",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "中国旅游发展笔谈",
+		"container-title": "旅游学刊",
+		"volume": "41",
+		"issue": "7",
+		"issued": {
+			"date-parts": [
+				[
+					2026
+				]
+			]
+		},
+		"page": "1-3"
+	},
+	{
+		"id": "lyxk:13",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "主体、知识和地方：一个研学旅行研究的探索性理论框架",
+		"container-title": "旅游学刊",
+		"available-date": {
+			"date-parts": [
+				[
+					2022,
+					11,
+					10
+				]
+			]
+		},
+		"URL": "https://kns.cnki.net/kcms/detail/11.1120.K.20221110.1528.002.html",
+		"author": [
+			{
+				"family": "袁振杰"
+			},
+			{
+				"family": "谢宇琳"
+			},
+			{
+				"family": "何兆聪"
+			}
+		]
+	},
+	{
+		"id": "lyxk:14",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "文献一",
+		"container-title": "旅游学刊",
+		"issued": {
+			"date-parts": [
+				[
+					2020
+				]
+			]
+		},
+		"page": "1-5"
+	},
+	{
+		"id": "lyxk:15",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "文献二",
+		"container-title": "旅游学刊",
+		"issued": {
+			"date-parts": [
+				[
+					2021
+				]
+			]
+		},
+		"page": "6-10"
+	},
+	{
+		"id": "lyxk:16",
+		"type": "article-journal",
+		"language": "zh-CN",
+		"title": "文献三",
+		"container-title": "旅游学刊",
+		"issued": {
+			"date-parts": [
+				[
+					2022
+				]
+			]
+		},
+		"page": "11-15"
+	},
+	{
+		"id": "lyxk:17",
+		"type": "book",
+		"language": "en-US",
+		"title": "Tourism Economics",
+		"publisher": "CAB International",
+		"publisher-place": "Wallingford",
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"page": "20-21",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "J. C."
+			}
+		]
+	},
+	{
+		"id": "lyxk:18",
+		"type": "chapter",
+		"language": "zh-CN",
+		"title": "中国旅游研究的回顾与展望",
+		"container-title": "旅游研究十年",
+		"publisher": "旅游教育出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [
+				[
+					2019
+				]
+			]
+		},
+		"page": "23-45",
+		"author": [
+			{
+				"family": "保继刚"
+			}
+		],
+		"editor": [
+			{
+				"family": "张凌云"
+			}
+		],
+		"note": "original-author: BAO || Jigang",
+		"original-title": "Review and prospect of tourism research in China",
+		"original-container-title": "Ten Years of Tourism Research",
+		"original-editor": "ZHANG Lingyun",
+		"original-publisher": "Tourism Education Press",
+		"original-publisher-place": "Beijing"
+	}
+]

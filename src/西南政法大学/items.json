@@ -7,8 +7,7 @@
 		"title": "美国行政法",
 		"author": [
 			{
-				"family": "王",
-				"given": "名扬"
+				"literal": "王名扬"
 			}
 		],
 		"issued": {
@@ -24,8 +23,7 @@
 		"title": "侵权责任法",
 		"author": [
 			{
-				"family": "张",
-				"given": "新宝"
+				"literal": "张新宝"
 			}
 		],
 		"issued": {
@@ -40,12 +38,10 @@
 		"title": "英美法原论",
 		"editor": [
 			{
-				"family": "高",
-				"given": "鸿钧"
+				"literal": "高鸿钧"
 			},
 			{
-				"family": "程",
-				"given": "汉大"
+				"literal": "程汉大"
 			}
 		],
 		"issued": {
@@ -65,8 +61,7 @@
 		],
 		"translator": [
 			{
-				"family": "郑",
-				"given": "戈"
+				"literal": "郑戈"
 			}
 		],
 		"issued": {
@@ -79,11 +74,12 @@
 		"container-title": "中国社会科学",
 		"issue": "1",
 		"language": "zh-CN",
+		"page": "83-103",
 		"title": "法律程序的意义：对中国法制建设的另一种思考",
+		"title-short": "法律程序的意义",
 		"author": [
 			{
-				"family": "季",
-				"given": "卫东"
+				"literal": "季卫东"
 			}
 		],
 		"issued": {
@@ -101,14 +97,12 @@
 		"volume": "1",
 		"author": [
 			{
-				"family": "王",
-				"given": "保树"
+				"literal": "王保树"
 			}
 		],
 		"editor": [
 			{
-				"family": "梁",
-				"given": "慧星"
+				"literal": "梁慧星"
 			}
 		],
 		"issued": {
@@ -122,6 +116,7 @@
 		"language": "zh-CN",
 		"publisher": "中国政法大学出版社",
 		"title": "千方百计上京城：清朝的京控",
+		"title-short": "千方百计上京城",
 		"author": [
 			{
 				"literal": "欧中坦"
@@ -129,22 +124,18 @@
 		],
 		"translator": [
 			{
-				"family": "谢",
-				"given": "鹏程"
+				"literal": "谢鹏程"
 			}
 		],
 		"editor": [
 			{
-				"family": "高",
-				"given": "道蕴"
+				"literal": "高道蕴"
 			},
 			{
-				"family": "高",
-				"given": "鸿钧"
+				"literal": "高鸿钧"
 			},
 			{
-				"family": "贺",
-				"given": "卫方"
+				"literal": "贺卫方"
 			}
 		],
 		"issued": {
@@ -197,7 +188,8 @@
 	{
 		"id": "molc.0:11",
 		"type": "post-weblog",
-		"container-title": "微信公众号“中国法律评论”",
+		"container-title": "中国法律评论",
+		"genre": "微信公众号",
 		"language": "zh-CN",
 		"title": "一名基层法官眼里好律师的样子",
 		"URL": "http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm",
@@ -230,6 +222,7 @@
 		"language": "zh-CN",
 		"publisher": "中国政法大学",
 		"title": "游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究",
+		"title-short": "游走在上帝与凯撒之间",
 		"author": [
 			{
 				"literal": "李松锋"
@@ -297,6 +290,7 @@
 		"container-title": "Yale Law Journal",
 		"DOI": "10.2307/794645",
 		"issue": "5",
+		"journalAbbreviation": "Yale Law J.",
 		"language": "en-US",
 		"page": "733-787",
 		"title": "The new property",
@@ -356,6 +350,7 @@
 		"page": "52-59",
 		"source": "CNKI",
 		"title": "现代行政法的理论基础——论行政机关与相对一方的权利义务平衡",
+		"title-short": "现代行政法的理论基础",
 		"URL": "https://www.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD1993&filename=ZGFX199301009&v=MDE4Njk5TE1ybzlGYllRS0RIODR2UjRUNmo1NE8zenFxQnRHRnJDVVI3aWZZK1pxRkNqbFZiN01QeXJOZHJLeEY=",
 		"author": [
 			{
@@ -381,6 +376,7 @@
 		"language": "zh-CN",
 		"publisher": "中国法制出版社",
 		"title": "当代中国行政法的源流：王名扬教授九十华诞贺寿文集",
+		"title-short": "当代中国行政法的源流",
 		"editor": [
 			{
 				"literal": "应松年"
@@ -410,7 +406,7 @@
 		"editor": [
 			{
 				"family": "Bergsten",
-				"given": "C Fred"
+				"given": "C. Fred"
 			},
 			{
 				"family": "Gill",
@@ -418,7 +414,7 @@
 			},
 			{
 				"family": "Lardy",
-				"given": "Nicholas R"
+				"given": "Nicholas R."
 			},
 			{
 				"family": "Mitchell",
@@ -434,7 +430,7 @@
 		"type": "legislation",
 		"container-title": "Stat.",
 		"language": "en-US",
-		"number": "89-670",
+		"number": "89\\-670",
 		"page": "931, 944-947",
 		"section": "9",
 		"title": "Department of Transportation Act",
@@ -504,7 +500,7 @@
 		"id": "molc.91.6:01",
 		"type": "chapter",
 		"collection-title": "FS-Steindorff",
-		"language": "de",
+		"language": "de-DE",
 		"note": "为祝贺文集",
 		"title": "Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen",
 		"author": [
@@ -521,7 +517,7 @@
 		"id": "molc.91.2:01",
 		"type": "article-newspaper",
 		"container-title": "Die Zeit",
-		"language": "de",
+		"language": "de-DE",
 		"title": "Absurdes Spektakel um den Tod",
 		"author": [
 			{
@@ -538,7 +534,7 @@
 		"type": "chapter",
 		"container-title": "Das Abtreibungsverbot des § 218 StGB",
 		"edition": "2",
-		"language": "de",
+		"language": "de-DE",
 		"title": "Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht",
 		"author": [
 			{
@@ -562,7 +558,7 @@
 		"edition": "2",
 		"event-place": "Heidelberg",
 		"ISBN": "978-3-8252-2043-3",
-		"language": "de",
+		"language": "de-DE",
 		"number-of-pages": "286",
 		"publisher": "UTB Uni-Taschenbücher Verlag",
 		"publisher-place": "Heidelberg",
@@ -588,13 +584,12 @@
 		"container-title": "Juristische Schulung",
 		"ISSN": "0022-6939",
 		"issue": "3",
-		"journalAbbreviation": "JuS",
-		"language": "de",
+		"journalAbbreviation": "Jurist. Schul.",
+		"language": "de-DE",
 		"note": "publisher: Verlag C.H. Beck\nsection: Jus: Juristische Schulung",
 		"page": "234-240",
 		"source": "dialnet.unirioja.es",
 		"title": "Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts",
-		"title-short": "Referendarexamensklausur - Zivilrecht",
 		"URL": "https://dialnet.unirioja.es/servlet/articulo?codigo=3906259",
 		"author": [
 			{
@@ -617,9 +612,8 @@
 		"ISSN": "1612-703X",
 		"issue": "3",
 		"journalAbbreviation": "ZStW",
-		"language": "de",
+		"language": "de-DE",
 		"page": "629-649",
-		"source": "www.degruyter.com",
 		"title": "Rechtsgüterschutz und Normgeltung",
 		"URL": "https://www.degruyter.com/document/doi/10.1515/zstw-2017-0033/html?lang=de",
 		"volume": "129",
@@ -640,7 +634,7 @@
 		"id": "molc.96.3:01",
 		"type": "chapter",
 		"container-title": "租税法と市場",
-		"language": "ja",
+		"language": "ja-JP",
 		"page": "220",
 		"publisher": "有斐閣",
 		"title": "一時所得の要件に関する覚書",
@@ -668,7 +662,7 @@
 		"id": "molc.96.1:02",
 		"type": "book",
 		"collection-title": "法律学体系·コンメンタール篇",
-		"language": "ja",
+		"language": "ja-JP",
 		"publisher": "日本評論社",
 		"title": "民法総則物権法",
 		"author": [
@@ -688,7 +682,7 @@
 		"type": "book",
 		"collection-number": "3",
 		"collection-title": "民法講義",
-		"language": "ja",
+		"language": "ja-JP",
 		"publisher": "有斐閣",
 		"title": "新訂担保物権法",
 		"author": [
@@ -705,7 +699,7 @@
 		"type": "article-journal",
 		"container-title": "民商法雑誌",
 		"issue": "5",
-		"language": "ja",
+		"language": "ja-JP",
 		"page": "1",
 		"title": "付加物及び従物と抵当権",
 		"URL": "https://dl.ndl.go.jp/info:ndljp/pid/3564970?tocOpened=1",
@@ -775,7 +769,6 @@
 		"issue": "Sep.-Oct.",
 		"language": "en-US",
 		"page": "89",
-		"source": "www.osti.gov",
 		"title": "Progress for a small planet",
 		"URL": "https://www.osti.gov/biblio/6023582",
 		"author": [
@@ -792,9 +785,8 @@
 	},
 	{
 		"id": "molc.65:01",
-		"type": "report",
+		"type": "standard",
 		"language": "zh-CN",
-		"note": "type: standard",
 		"number": "GB/T 7714—2015",
 		"title": "信息与文献 参考文献著录规则",
 		"author": [
@@ -814,7 +806,7 @@
 		"type": "book",
 		"edition": "4",
 		"event-place": "Paris",
-		"language": "fr",
+		"language": "fr-FR",
 		"publisher": "Montchrestien",
 		"publisher-place": "Paris",
 		"title": "L’État de droit",
@@ -834,7 +826,8 @@
 		"type": "article-journal",
 		"container-title": "La Licorne",
 		"issue": "43",
-		"language": "fr",
+		"journalAbbreviation": "Licorne",
+		"language": "fr-FR",
 		"page": "75-94",
 		"title": "La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle",
 		"author": [
@@ -851,7 +844,7 @@
 		"id": "molc.86.2:01",
 		"type": "article-journal",
 		"container-title": "RGDIP",
-		"language": "fr",
+		"language": "fr-FR",
 		"page": "15-47",
 		"title": "Le droit de la mer",
 		"author": [
@@ -869,7 +862,7 @@
 		"type": "chapter",
 		"container-title": "Le droit des Océans",
 		"edition": "Éditions de la mer",
-		"language": "fr",
+		"language": "fr-FR",
 		"note": "editorial-director: Lapieuvre || R.",
 		"page": "12-48",
 		"title": "Le droit de la mer",
@@ -886,7 +879,7 @@
 	{
 		"id": "molc.86.4:01",
 		"type": "report",
-		"language": "fr",
+		"language": "fr-FR",
 		"page": "228-229",
 		"publisher": "Congrès de Marseille",
 		"title": "Le droit de la mer en Méditerranée",
@@ -903,8 +896,8 @@
 	{
 		"id": "molc.86.5:01",
 		"type": "report",
-		"genre": "Rapport de recherche de l'IFREMER",
-		"language": "fr",
+		"genre": "Rapport de recherche de l’IFREMER",
+		"language": "fr-FR",
 		"number": "1202",
 		"title": "Le droit de la mer en Méditerranée",
 		"author": [
@@ -920,8 +913,9 @@
 	{
 		"id": "molc.86.6:01",
 		"type": "thesis",
-		"language": "fr",
-		"publisher": "l'Université de Marseille",
+		"genre": "Thèse de doctorat",
+		"language": "fr-FR",
+		"publisher": "l’Université de Marseille",
 		"title": "Le droit de la mer appliqué à la Méditerranée",
 		"author": [
 			{
@@ -1003,7 +997,7 @@
 		"type": "legal_case",
 		"authority": "最高裁判所",
 		"container-title": "最高裁判所民事判例集",
-		"language": "ja",
+		"language": "ja-JP",
 		"page": "1113",
 		"title": "約束手形金",
 		"URL": "https://www.courts.go.jp/app/hanrei_jp/detail2?id=55158",
@@ -1017,7 +1011,7 @@
 		"type": "legal_case",
 		"authority": "大審院",
 		"container-title": "大審院民事判決録",
-		"language": "ja",
+		"language": "ja-JP",
 		"page": "356",
 		"title": "信玄公旗掛松事件",
 		"URL": "https://ja.wikipedia.org/wiki/信玄公旗掛松事件",
@@ -1031,7 +1025,7 @@
 		"type": "chapter",
 		"container-title": "Münchener Kommentar BGB",
 		"edition": "6",
-		"language": "de",
+		"language": "de-DE",
 		"URL": "https://beck-online.beck.de/?vpath=bibdata%2Fkomm%2FMuekoBGB_Band5%2FBGB%2Fcont%2FMuekoBGB.BGB.P817.T0.htm",
 		"volume": "5",
 		"author": [
@@ -1049,7 +1043,7 @@
 		"type": "book",
 		"edition": "4",
 		"ISBN": "978-3-406-53071-5",
-		"language": "de",
+		"language": "de-DE",
 		"number-of-pages": "1136",
 		"publisher": "C. H. Beck",
 		"source": "Google Books",
@@ -1070,7 +1064,7 @@
 		"id": "molc.93:01",
 		"type": "legal_case",
 		"container-title": "BVerfGE",
-		"language": "de",
+		"language": "de-DE",
 		"page": "369",
 		"title": "Strauß-Karikatur, Kunstfreiheit",
 		"volume": "75"
@@ -1078,7 +1072,7 @@
 	{
 		"id": "molc.99:01",
 		"type": "document",
-		"language": "ja",
+		"language": "ja-JP",
 		"title": "平成26年版犯罪白書",
 		"URL": "https://hakusyo1.moj.go.jp/jp/61/nfm/mokuji.html"
 	},
@@ -1087,7 +1081,7 @@
 		"type": "legal_case",
 		"authority": "BGH",
 		"container-title": "NStZ-RR",
-		"language": "de",
+		"language": "de-DE",
 		"page": "185",
 		"issued": {
 			"date-parts": [["1999"]]
@@ -1098,7 +1092,7 @@
 		"type": "legal_case",
 		"authority": "BGH",
 		"container-title": "NJW",
-		"language": "de",
+		"language": "de-DE",
 		"page": "1560",
 		"issued": {
 			"date-parts": [["2000"]]
@@ -1107,28 +1101,28 @@
 	{
 		"id": "molc.92:03",
 		"type": "legislation",
-		"language": "de",
+		"language": "de-DE",
 		"section": "Art. 2 II",
 		"title": "GG"
 	},
 	{
 		"id": "molc.92:01",
 		"type": "legislation",
-		"language": "de",
+		"language": "de-DE",
 		"section": "§ 32 II",
 		"title": "StGB"
 	},
 	{
 		"id": "molc.92:02",
 		"type": "legislation",
-		"language": "de",
+		"language": "de-DE",
 		"section": "§ 58a I Nr. 2",
 		"title": "StPO"
 	},
 	{
 		"id": "molc.94:01",
 		"type": "webpage",
-		"language": "de",
+		"language": "de-DE",
 		"title": "Wissenschaftliches Publizieren",
 		"URL": "https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html",
 		"author": [
@@ -1164,14 +1158,14 @@
 	{
 		"id": "molc.98:01",
 		"type": "legislation",
-		"language": "ja",
+		"language": "ja-JP",
 		"title": "動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律",
 		"URL": "https://elaws.e-gov.go.jp/document?lawid=410AC0000000104_20220401_503AC0000000037"
 	},
 	{
 		"id": "molc.99:99",
 		"type": "webpage",
-		"language": "ja",
+		"language": "ja-JP",
 		"title": "ジュリスト",
 		"URL": "http://www.yuhikaku.co.jp/jurist",
 		"accessed": {
@@ -1182,7 +1176,7 @@
 		"id": "molc.89:01",
 		"type": "webpage",
 		"container-title": "Histoire & mesure, vol. XXIII, n° 2, 2008",
-		"language": "fr",
+		"language": "fr-FR",
 		"title": "L’histoire de l’art et le quantitatif",
 		"URL": "http://histoiremesure.revues.org/index3543.html",
 		"author": [
@@ -1236,7 +1230,7 @@
 		"id": "molc.14:56",
 		"type": "legal_case",
 		"container-title": "QB",
-		"language": "en-GB",
+		"language": "en-US",
 		"title": "R. v. Panel on Take-overs and Mergers",
 		"volume": "815",
 		"issued": {
@@ -1248,6 +1242,7 @@
 		"type": "legislation",
 		"language": "zh-CN",
 		"note": "法宝引证码: CLI.1.304263",
+		"number": "中华人民共和国主席令第80号",
 		"title": "中华人民共和国刑法修正案（十）",
 		"title-short": "刑法修正案（十）",
 		"URL": "https://www.pkulaw.com/chl/3ae7651e2659029abdfb.html",
@@ -1287,7 +1282,7 @@
 		"id": "molc.60.2:01",
 		"type": "legislation",
 		"language": "zh-CN",
-		"note": "status: 已废止\n法宝引证码: CLI.3.8815",
+		"note": "type: regulation\nstatus: 已废止\n法宝引证码: CLI.3.8815",
 		"number": "法发〔1993〕36号",
 		"title": "最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知",
 		"URL": "https://www.pkulaw.com/chl/98ef6bfbd5f5ecdebdfb.html",
@@ -1304,6 +1299,237 @@
 		},
 		"issued": {
 			"date-parts": [["1993", 11, 12]]
+		}
+	},
+	{
+		"id": "molc.64.1:02",
+		"type": "legislation",
+		"language": "zh-CN",
+		"note": "type: regulation\n法宝引证码: CLI.3.309904",
+		"number": "法释〔2018〕1号",
+		"section": "100",
+		"title": "最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释",
+		"URL": "https://www.pkulaw.com/chl/0a15442a31eb74f6bdfb.html",
+		"author": [
+			{
+				"literal": "最高人民法院"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 10, 27]]
+		},
+		"issued": {
+			"date-parts": [["2018", 2, 6]]
+		}
+	},
+	{
+		"id": "molc.63.2:01",
+		"type": "legislation",
+		"chapter-number": "第七届全国人大常委会第二十一次会议",
+		"language": "zh-CN",
+		"note": "法宝引证码: CLI.1.5373",
+		"title": "全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定",
+		"URL": "https://www.pkulaw.com/chl/7d823d434f747555bdfb.html",
+		"author": [
+			{
+				"literal": "全国人大常委会"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 10, 27]]
+		},
+		"issued": {
+			"date-parts": [["1991", 9, 4]]
+		}
+	},
+	{
+		"id": "molc.60.1:02",
+		"type": "legislation",
+		"language": "zh-CN",
+		"note": "edition: 2013年修正\n法宝引证码: CLI.1.218774",
+		"title": "中华人民共和国公司法",
+		"title-short": "公司法",
+		"URL": "https://www.pkulaw.com/chl/1b2641cb68c3ed21bdfb.html",
+		"author": [
+			{
+				"literal": "全国人大常委会"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 10, 27]]
+		},
+		"issued": {
+			"date-parts": [["2013", 12, 28]]
+		}
+	},
+	{
+		"id": "molc.64.1:01:",
+		"type": "legislation",
+		"language": "zh-CN",
+		"note": "type: regulation\n法宝引证码: CLI.2.96270",
+		"number": "国发〔2007〕19号",
+		"title": "国务院关于在全国建立农村最低生活保障制度的通知",
+		"URL": "https://www.pkulaw.com/chl/dc46bb66e13150b8bdfb.html",
+		"author": [
+			{
+				"literal": "国务院"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2022", 10, 27]]
+		},
+		"issued": {
+			"date-parts": [["2007", 7, 11]]
+		}
+	},
+	{
+		"id": "molc.64.2:01",
+		"type": "legislation",
+		"language": "zh-CN",
+		"note": "type: regulation\n法宝引证码: CLI.2.316828",
+		"number": "国发〔2018〕22号",
+		"title": "国务院关于印发打赢蓝天保卫战三年行动计划的通知",
+		"URL": "https://www.pkulaw.com/chl/4a14adc2c14e5e68bdfb.html",
+		"author": [
+			{
+				"literal": "国务院"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2018", 6, 27]]
+		}
+	},
+	{
+		"id": "molc.67:01",
+		"type": "legislation",
+		"chapter-number": "中国共产党第十八届中央委员会第四次全体会议",
+		"language": "zh-CN",
+		"note": "type: regulation\n法宝引证码: CLI.16.237344",
+		"title": "中共中央关于全面推进依法治国若干重大问题的决定",
+		"URL": "https://www.pkulaw.com/chl/8e624467ca77636dbdfb.html",
+		"author": [
+			{
+				"literal": "中国共产党中央委员会"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2014", 10, 23]]
+		}
+	},
+	{
+		"id": "molc.66:01",
+		"type": "report",
+		"language": "zh-CN",
+		"note": "event-title: 第十二届全国人民代表大会常务委员会第六次会议\n法宝引证码: CLI.DL.6311",
+		"source": "PKULaw",
+		"title": "关于《中华人民共和国行政诉讼法修正案（草案）》的说明",
+		"URL": "https://www.pkulaw.com/protocol/e0c81a0878b582cddca4c85351d16972bdfb.html",
+		"author": [
+			{
+				"literal": "信春鹰"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2023", 6, 19]]
+		},
+		"issued": {
+			"date-parts": [["2013", 12, 23]]
+		}
+	},
+	{
+		"id": "molc.33.4:01",
+		"type": "chapter",
+		"container-title": "邓小平文选",
+		"edition": "2",
+		"language": "zh-CN",
+		"publisher": "人民出版社",
+		"title": "精简机构是一场革命",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "邓小平"
+			}
+		],
+		"issued": {
+			"date-parts": [["1994"]]
+		}
+	},
+	{
+		"id": "molc.37.3:02",
+		"type": "book",
+		"edition": "8",
+		"language": "zh-CN",
+		"publisher": "商务印书馆",
+		"title": "奥本海国际法",
+		"volume": "上卷第一分册",
+		"author": [
+			{
+				"literal": "[英]劳特派特"
+			}
+		],
+		"translator": [
+			{
+				"literal": "王铁崖"
+			},
+			{
+				"literal": "陈体强"
+			}
+		],
+		"issued": {
+			"date-parts": [["1971"]]
+		}
+	},
+	{
+		"id": "molc.45.1:02",
+		"type": "article-journal",
+		"container-title": "中国法学",
+		"DOI": "10.14111/j.cnki.zgfx.2006.01.013",
+		"ISSN": "1003-1707",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "144-164",
+		"source": "CNKI",
+		"title": "知识产权法官造法批判",
+		"URL": "https://link.cnki.net/doi/10.14111/j.cnki.zgfx.2006.01.013",
+		"author": [
+			{
+				"literal": "崔国斌"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 11, 6]]
+		},
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "molc.45.1:01",
+		"type": "book",
+		"collection-title": "中华现代学术名著丛书",
+		"ISBN": "978-7-100-07448-3",
+		"language": "zh-CN",
+		"number-of-pages": "428",
+		"publisher": "商务印书馆",
+		"source": "Douban",
+		"title": "中国法律与中国社会",
+		"URL": "https://book.douban.com/subject/6004646/",
+		"author": [
+			{
+				"literal": "瞿同祖"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2024", 11, 6]]
+		},
+		"issued": {
+			"date-parts": [["2010", 12, 1]]
 		}
 	}
 ]

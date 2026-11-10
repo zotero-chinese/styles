@@ -1,0 +1,30 @@
+{
+  "dir": "地球科学（英文版）",
+  "file": "地球科学（英文版）.csl",
+  "style_class": "in-text",
+  "title": "地球科学（英文版）",
+  "id": "https://zotero-chinese.com/styles/地球科学（英文版）",
+  "link_self": "https://zotero-chinese.com/styles/地球科学（英文版）",
+  "link_documentation": "https://mc03.manuscriptcentral.com/jes",
+  "author": [
+    {
+      "name": "RenXiaokai1999"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "geology",
+  "summary": "依据 Journal of Earth Science GUIDE FOR AUTHORS 制作，覆盖期刊论文、图书、专著析出文献、期刊专题/特刊析出文献和学位论文。",
+  "updated": "2026-07-02T21:15:05+08:00",
+  "citations": "(Smith et al., 2012; Green and Jin, 2008; Kusky, 2000)<br>\n(Chough and Barg, 1987)<br>\n(Shrock, 1948)<br>\n(Sun, 1984)<br>\n(Fox et al., 1971)<br>\n(Zhang, 2006)<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">Chough, S. K., Barg, E., 1987. Tectonic History of Ulleung Basin Margin, East Sea (Sea of Japan). <i>Geology</i>, 15(1): 45. <a href=\"https://doi.org/10.1130/0091-7613(1987)15&#60;45:thoubm&#62;2.0.co;2\">https://doi.org/10.1130/0091-7613(1987)15&#60;45:thoubm&#62;2.0.co;2</a></div>\n  <div class=\"csl-entry\">Fox, P. J., Ruddiman, W. F., Ryan, W. B. F., et al., 1971. The Geology of the Caribbean Crust, I. Beata Ridge. In: Heezen, B. C., Kosminskaya, I. P., eds., The Structure of the Crust and Mantle beneath Inland and Marginal Seas. <i>Tectonophysics</i>, 10: 495–513. <a href=\"https://doi.org/10.1016/0040-1951(70)90041-7\">https://doi.org/10.1016/0040-1951(70)90041-7</a></div>\n  <div class=\"csl-entry\">Green, A., Jin, B., 2008. Example Paper with Two Authors. <i>Journal of Earth Science</i>, 1: 11–20.</div>\n  <div class=\"csl-entry\">Kusky, T., 2000. Example Paper with One Author. <i>Journal of Earth Science</i>, 1: 21–30.</div>\n  <div class=\"csl-entry\">Shrock, R. R., 1948. Sequence in Layered Rocks. McGraw-Hill, New York. 507</div>\n  <div class=\"csl-entry\">Smith, A., Brown, B., Clark, C., et al., 2012. Example Paper with Four Authors. <i>Journal of Earth Science</i>, 1: 1–10.</div>\n  <div class=\"csl-entry\">Sun, S. S., 1984. Geochemical Characteristics of Archean Ultramafic and Mafic Volcanic Rocks: Implication and Evolution. In: Kroner, A., Lansor, G. N., Goodwin, A. M., eds., Archean Geochemistry. Springer-Verlag, Berlin. 25–46</div>\n  <div class=\"csl-entry\">Zhang, W. L., 2006. The High Precise Cenozoic Magnetostratigraphy of the Qaidam Basin and Uplift of the Northern Tibetan Plateau: [Dissertation]. Lanzhou University, Lanzhou. 95–105 (in Chinese)</div>\n</div>",
+  "test_result": "<div class=\"csl-bib-body maxoffset-0 second-field-align-false hangingindent-false\">\n  <div class=\"csl-entry\">Chough, S. K., Barg, E., 1987. Tectonic History of Ulleung Basin Margin, East Sea (Sea of Japan). <i>Geology</i>, 15(1): 45. <a href=\"https://doi.org/10.1130/0091-7613(1987)15&#60;45:thoubm&#62;2.0.co;2\">https://doi.org/10.1130/0091-7613(1987)15&#60;45:thoubm&#62;2.0.co;2</a></div>\n  <div class=\"csl-entry\">Fox, P. J., Ruddiman, W. F., Ryan, W. B. F., et al., 1971. The Geology of the Caribbean Crust, I. Beata Ridge. In: Heezen, B. C., Kosminskaya, I. P., eds., The Structure of the Crust and Mantle beneath Inland and Marginal Seas. <i>Tectonophysics</i>, 10: 495–513. <a href=\"https://doi.org/10.1016/0040-1951(70)90041-7\">https://doi.org/10.1016/0040-1951(70)90041-7</a></div>\n  <div class=\"csl-entry\">Green, A., Jin, B., 2008. Example Paper with Two Authors. <i>Journal of Earth Science</i>, 1: 11–20.</div>\n  <div class=\"csl-entry\">Kusky, T., 2000. Example Paper with One Author. <i>Journal of Earth Science</i>, 1: 21–30.</div>\n  <div class=\"csl-entry\">Shrock, R. R., 1948. Sequence in Layered Rocks. McGraw-Hill, New York. 507</div>\n  <div class=\"csl-entry\">Smith, A., Brown, B., Clark, C., et al., 2012. Example Paper with Four Authors. <i>Journal of Earth Science</i>, 1: 1–10.</div>\n  <div class=\"csl-entry\">Sun, S. S., 1984. Geochemical Characteristics of Archean Ultramafic and Mafic Volcanic Rocks: Implication and Evolution. In: Kroner, A., Lansor, G. N., Goodwin, A. M., eds., Archean Geochemistry. Springer-Verlag, Berlin. 25–46</div>\n  <div class=\"csl-entry\">Zhang, W. L., 2006. The High Precise Cenozoic Magnetostratigraphy of the Qaidam Basin and Uplift of the Northern Tibetan Plateau: [Dissertation]. Lanzhou University, Lanzhou. 95–105 (in Chinese)</div>\n</div>",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "有URL",
+    "有DOI",
+    "无英文翻译"
+  ]
+}

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" page-range-format="expanded" demote-non-dropping-particle="sort-only">
+  <info>
+    <title>地球科学（英文版）</title>
+    <title-short>JES</title-short>
+    <id>https://zotero-chinese.com/styles/地球科学（英文版）</id>
+    <link href="https://zotero-chinese.com/styles/地球科学（英文版）" rel="self"/>
+    <link href="https://mc03.manuscriptcentral.com/jes" rel="documentation"/>
+    <link href="https://media.springer.com/full/springer-instructions-for-authors-assets/pdf/643998_173839904_IFA_12583_Journal%20of%20Earth%20Science.pdf" rel="documentation"/>
+    <author>
+      <name>RenXiaokai1999</name>
+    </author>
+    <category citation-format="author-date"/>
+    <category field="geology"/>
+    <issn>1674-487X</issn>
+    <eissn>1867-111X</eissn>
+    <summary>依据 Journal of Earth Science GUIDE FOR AUTHORS 制作，覆盖期刊论文、图书、专著析出文献、期刊专题/特刊析出文献和学位论文。</summary>
+    <updated>2026-07-02T21:15:05+08:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+
+  <locale xml:lang="en">
+    <terms>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
+      <term name="et-al">et al.</term>
+      <term name="and">and</term>
+      <term name="page-range-delimiter">–</term>
+    </terms>
+  </locale>
+
+  <macro name="author-bib">
+    <names variable="author">
+      <name name-as-sort-order="all" sort-separator=", " initialize-with=". " delimiter=", "/>
+      <et-al font-style="normal"/>
+      <substitute>
+        <group delimiter=", ">
+          <names variable="editor">
+            <name name-as-sort-order="all" sort-separator=", " initialize-with=". " delimiter=", "/>
+          </names>
+          <text term="editor" form="short" plural="true"/>
+        </group>
+        <text variable="title" text-case="title"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <macro name="author-short">
+    <names variable="author">
+      <name form="short" and="text" delimiter=", " delimiter-precedes-last="never"/>
+      <et-al font-style="normal"/>
+      <substitute>
+        <names variable="editor">
+          <name form="short" and="text" delimiter=", " delimiter-precedes-last="never"/>
+        </names>
+        <text variable="title" text-case="title"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <macro name="issued-year">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="title">
+    <text variable="title" text-case="title"/>
+  </macro>
+
+  <macro name="editor-in">
+    <group delimiter=", " suffix=", ">
+      <names variable="editor">
+        <name name-as-sort-order="all" sort-separator=", " initialize-with=". " delimiter=", "/>
+      </names>
+      <text term="editor" form="short" plural="true"/>
+    </group>
+  </macro>
+
+  <macro name="publisher-place">
+    <group delimiter=", ">
+      <text variable="publisher"/>
+      <text variable="publisher-place"/>
+    </group>
+  </macro>
+
+  <macro name="doi-or-url">
+    <choose>
+      <if variable="DOI">
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </if>
+      <else-if type="webpage post-weblog" match="any">
+        <text variable="URL"/>
+      </else-if>
+    </choose>
+  </macro>
+
+  <macro name="note">
+    <text variable="note"/>
+  </macro>
+
+  <macro name="journal-volume-pages">
+    <group>
+      <text variable="volume"/>
+      <text variable="issue" prefix="(" suffix=")"/>
+      <text variable="page" prefix=": "/>
+    </group>
+  </macro>
+
+  <macro name="article-journal">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <text variable="container-title" font-style="italic" suffix=", "/>
+      <text macro="journal-volume-pages" suffix="."/>
+      <text macro="doi-or-url" prefix=" "/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <macro name="book">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <text macro="publisher-place" suffix="."/>
+      <choose>
+        <if variable="number-of-pages">
+          <text variable="number-of-pages" prefix=" "/>
+        </if>
+        <else-if variable="page">
+          <text variable="page" prefix=" "/>
+        </else-if>
+      </choose>
+      <text macro="doi-or-url" prefix=" "/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <macro name="chapter-in">
+    <group delimiter="">
+      <text value="In: "/>
+      <text macro="editor-in"/>
+      <text variable="container-title" text-case="title"/>
+    </group>
+  </macro>
+
+  <macro name="chapter">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <text macro="chapter-in" suffix=". "/>
+      <text macro="publisher-place" suffix="."/>
+      <text variable="page" prefix=" "/>
+      <text macro="doi-or-url" prefix=" "/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <macro name="chapter-periodical">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <text macro="chapter-in" suffix=". "/>
+      <text variable="collection-title" font-style="italic" suffix=", "/>
+      <text macro="journal-volume-pages" suffix="."/>
+      <text macro="doi-or-url" prefix=" "/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <macro name="thesis">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title"/>
+      <choose>
+        <if variable="genre">
+          <text variable="genre" prefix=": [" suffix="]. "/>
+        </if>
+        <else>
+          <text value=": [Dissertation]. "/>
+        </else>
+      </choose>
+      <text macro="publisher-place" suffix="."/>
+      <text variable="page" prefix=" "/>
+      <text macro="doi-or-url" prefix=" "/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <macro name="webpage">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <text variable="container-title" font-style="italic" suffix=". "/>
+      <text macro="doi-or-url"/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <macro name="generic">
+    <group>
+      <text macro="author-bib" suffix=", "/>
+      <text macro="issued-year" suffix=". "/>
+      <text macro="title" suffix=". "/>
+      <text variable="container-title" font-style="italic" suffix=", "/>
+      <text macro="journal-volume-pages" suffix="."/>
+      <text macro="doi-or-url" prefix=" "/>
+      <text macro="note" prefix=" "/>
+    </group>
+  </macro>
+
+  <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
+    <sort>
+      <key macro="issued-year" sort="descending"/>
+      <key macro="author-short" sort="ascending"/>
+    </sort>
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
+        <text macro="author-short"/>
+        <text macro="issued-year"/>
+      </group>
+    </layout>
+  </citation>
+
+  <bibliography et-al-min="4" et-al-use-first="3" entry-spacing="0" line-spacing="1" hanging-indent="false">
+    <sort>
+      <key macro="author-bib" sort="ascending"/>
+      <key macro="issued-year" sort="ascending"/>
+      <key variable="title" sort="ascending"/>
+    </sort>
+    <layout>
+      <choose>
+        <if type="article-journal article-magazine article-newspaper" match="any">
+          <text macro="article-journal"/>
+        </if>
+        <else-if type="book" match="any">
+          <text macro="book"/>
+        </else-if>
+        <else-if type="chapter paper-conference entry-encyclopedia entry-dictionary" match="any">
+          <choose>
+            <if variable="collection-title">
+              <text macro="chapter-periodical"/>
+            </if>
+            <else>
+              <text macro="chapter"/>
+            </else>
+          </choose>
+        </else-if>
+        <else-if type="thesis" match="any">
+          <text macro="thesis"/>
+        </else-if>
+        <else-if type="webpage post-weblog" match="any">
+          <text macro="webpage"/>
+        </else-if>
+        <else>
+          <text macro="generic"/>
+        </else>
+      </choose>
+    </layout>
+  </bibliography>
+</style>

@@ -2,7 +2,7 @@
 	{
 		"id": "gbt7714.5.1:1",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.5.1:1",
 		"ISBN": "978-7-302-58978-5",
 		"language": "zh-CN",
 		"note": "page: 35",
@@ -26,11 +26,11 @@
 	{
 		"id": "gbt7714.5.1:2",
 		"type": "book",
-		"event-place": "東京",
+		"citation-key": "gbt7714.5.1:2",
 		"ISBN": "978-4-7601-2489-3",
 		"language": "ja-JP",
 		"note": "page: 154",
-		"publisher": "柏書房株式会社",
+		"publisher": "柏書房株式會社",
 		"publisher-place": "東京",
 		"title": "最新図書館用語大辞典",
 		"editor": [
@@ -45,7 +45,7 @@
 	{
 		"id": "gbt7714.5.1:3",
 		"type": "book",
-		"event-place": "Chichester",
+		"citation-key": "gbt7714.5.1:3",
 		"ISBN": "978-1-119-59612-7",
 		"language": "en-US",
 		"note": "page: 35\n10.1002/9781119596165",
@@ -65,6 +65,7 @@
 	{
 		"id": "gbt7714.5.1:4",
 		"type": "article-journal",
+		"citation-key": "gbt7714.5.1:4",
 		"container-title": "Отечественная геология",
 		"issue": "7",
 		"language": "ru-RU",
@@ -83,6 +84,7 @@
 	{
 		"id": "gbt7714.7.1.1:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:1",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -93,6 +95,7 @@
 	{
 		"id": "gbt7714.7.1.1:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:2",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -103,6 +106,7 @@
 	{
 		"id": "gbt7714.7.1.1:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:3",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -114,6 +118,7 @@
 	{
 		"id": "gbt7714.7.1.1:4",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:4",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -129,6 +134,7 @@
 	{
 		"id": "gbt7714.7.1.1:5",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:5",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -139,6 +145,7 @@
 	{
 		"id": "gbt7714.7.1.1:6",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:6",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -149,6 +156,7 @@
 	{
 		"id": "gbt7714.7.1.1:7",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:7",
 		"language": "en-US",
 		"author": [
 			{
@@ -160,6 +168,7 @@
 	{
 		"id": "gbt7714.7.1.1:8",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:8",
 		"language": "en-US",
 		"author": [
 			{
@@ -171,6 +180,7 @@
 	{
 		"id": "gbt7714.7.1.1:9",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:9",
 		"language": "en-US",
 		"author": [
 			{
@@ -182,6 +192,7 @@
 	{
 		"id": "gbt7714.7.1.1:10",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:10",
 		"language": "en-US",
 		"author": [
 			{
@@ -193,6 +204,7 @@
 	{
 		"id": "gbt7714.7.1.1:11",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.1:11",
 		"language": "en-US",
 		"author": [
 			{
@@ -204,6 +216,7 @@
 	{
 		"id": "gbt7714.7.1.2:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.2:1",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -217,6 +230,7 @@
 	{
 		"id": "gbt7714.7.1.2:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.2:2",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -233,6 +247,7 @@
 	{
 		"id": "gbt7714.7.1.2:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.2:3",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -252,6 +267,7 @@
 	{
 		"id": "gbt7714.7.1.2:4",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.2:4",
 		"language": "en-US",
 		"author": [
 			{
@@ -263,7 +279,7 @@
 				"given": "Amiad"
 			},
 			{
-				"family": "Truner",
+				"family": "Turner",
 				"given": "David A."
 			},
 			{
@@ -275,6 +291,7 @@
 	{
 		"id": "gbt7714.7.1.3:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.1.3:1",
 		"container-title": "中国书法",
 		"issue": "3",
 		"language": "zh-CN",
@@ -287,6 +304,7 @@
 	{
 		"id": "gbt7714.7.1.3:2",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.1.3:2",
 		"container-title": "Br. Med. J.",
 		"issue": "6292",
 		"language": "en-US",
@@ -301,6 +319,7 @@
 	{
 		"id": "gbt7714.7.1.4:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.4:1",
 		"language": "zh-CN",
 		"author": [
 			{
@@ -311,16 +330,18 @@
 	{
 		"id": "gbt7714.7.1.4:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.4:2",
 		"language": "zh-CN",
 		"author": [
 			{
-				"literal": "贵州省土穰普查办公室"
+				"literal": "贵州省土壤普查办公室"
 			}
 		]
 	},
 	{
 		"id": "gbt7714.7.1.4:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.4:3",
 		"language": "en-US",
 		"author": [
 			{
@@ -331,6 +352,7 @@
 	{
 		"id": "gbt7714.7.1.4:4",
 		"type": "book",
+		"citation-key": "gbt7714.7.1.4:4",
 		"language": "en-US",
 		"author": [
 			{
@@ -341,30 +363,35 @@
 	{
 		"id": "gbt7714.7.2.1:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.1:1",
 		"language": "zh-CN",
 		"title": "《西游记》词汇对《汉语大词典》书证研究"
 	},
 	{
 		"id": "gbt7714.7.2.1:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.1:2",
 		"language": "zh-CN",
 		"title": "张子正蒙注"
 	},
 	{
 		"id": "gbt7714.7.2.1:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.1:3",
 		"language": "zh-CN",
 		"title": "法哲学原理"
 	},
 	{
 		"id": "gbt7714.7.2.1:4",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.2.1:4",
 		"container-title": "北京师范大学学报（自然科学版）",
 		"language": "zh-CN"
 	},
 	{
 		"id": "gbt7714.7.2.1:5",
 		"type": "graphic",
+		"citation-key": "gbt7714.7.2.1:5",
 		"language": "zh-CN",
 		"note": "tex.entrytype: image",
 		"title": "[《昨日之歌》图书封面]"
@@ -372,36 +399,43 @@
 	{
 		"id": "gbt7714.7.2.1:6",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.1:6",
 		"language": "en-US",
 		"title": "Gases in sea ice 1975–1979"
 	},
 	{
 		"id": "gbt7714.7.2.1:7",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.2.1:7",
 		"container-title": "J. Math Phys.",
 		"language": "en-US"
 	},
 	{
 		"id": "gbt7714.7.2.2:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.2:1",
 		"language": "zh-CN",
 		"title": "为人民服务；纪念白求恩；愚公移山"
 	},
 	{
 		"id": "gbt7714.7.2.2:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.2:2",
 		"language": "zh-CN",
 		"title": "大趋势"
 	},
 	{
 		"id": "gbt7714.7.2.3:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.3:1",
 		"language": "zh-CN",
-		"title": "地壳运动假说：从大陆漂移到板块构造"
+		"title": "地壳运动假说：从大陆漂移到板块构造",
+		"title-short": "地壳运动假说"
 	},
 	{
 		"id": "gbt7714.7.2.3:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.3:2",
 		"language": "zh-CN",
 		"title": "三松堂全集",
 		"volume": "4"
@@ -409,6 +443,7 @@
 	{
 		"id": "gbt7714.7.2.3:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.3:3",
 		"language": "zh-CN",
 		"title": "世界出版业",
 		"volume": "美国卷"
@@ -416,12 +451,15 @@
 	{
 		"id": "gbt7714.7.2.3:4",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.3:4",
 		"language": "zh-CN",
-		"title": "ECL集成电路：原理与设计"
+		"title": "ECL集成电路：原理与设计",
+		"title-short": "ECL集成电路"
 	},
 	{
 		"id": "gbt7714.7.2.3:5",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.3:5",
 		"language": "zh-CN",
 		"note": "volume-title: 科学思想史",
 		"title": "中国科学技术史",
@@ -430,97 +468,117 @@
 	{
 		"id": "gbt7714.7.2.3:6",
 		"type": "book",
+		"citation-key": "gbt7714.7.2.3:6",
 		"language": "zh-CN",
-		"title": "红楼梦：脂砚斋全评本"
+		"title": "红楼梦：脂砚斋全评本",
+		"title-short": "红楼梦"
 	},
 	{
 		"id": "gbt7714.7.2.3:7",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.2.3:7",
 		"container-title": "Asian Pacific Journal of Cancer Prevention: e-only",
+		"journalAbbreviation": "Asian Pac. J. Cancer Prev.",
 		"language": "en-US"
 	},
 	{
 		"id": "gbt7714.7.3:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.3:1",
 		"language": "zh-CN",
 		"title": "马寅初讲义"
 	},
 	{
 		"id": "gbt7714.7.3:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.3:2",
 		"language": "zh-CN",
-		"title": "环境司法制度改革对企业绿色创新的影响：实质性绿色创新还是漂绿？——基于公益诉讼试点的证据"
+		"title": "环境司法制度改革对企业绿色创新的影响：实质性绿色创新还是漂绿？：基于公益诉讼试点的证据",
+		"title-short": "环境司法制度改革对企业绿色创新的影响"
 	},
 	{
 		"id": "gbt7714.7.3:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.3:3",
 		"language": "zh-CN",
-		"title": "严复思想与中国式现代化：纪念严复诞辰170周年学术研讨会论文集"
+		"title": "严复思想与中国式现代化：纪念严复诞辰170周年学术研讨会论文集",
+		"title-short": "严复思想与中国式现代化"
 	},
 	{
 		"id": "gbt7714.7.3:4",
 		"type": "report",
+		"citation-key": "gbt7714.7.3:4",
 		"language": "zh-CN",
 		"title": "中子反射数据分析技术"
 	},
 	{
 		"id": "gbt7714.7.3:5",
 		"type": "standard",
+		"citation-key": "gbt7714.7.3:5",
 		"language": "zh-CN",
-		"title": "信息与文献 都柏林核心元数据元素集"
+		"title": "信息与文献　都柏林核心元数据元素集"
 	},
 	{
 		"id": "gbt7714.7.3:6",
 		"type": "patent",
+		"citation-key": "gbt7714.7.3:6",
 		"language": "zh-CN",
 		"title": "一种智能戒指的无线充电装置"
 	},
 	{
 		"id": "gbt7714.7.3:7",
 		"type": "webpage",
+		"citation-key": "gbt7714.7.3:7",
 		"language": "en-US",
-		"title": "Quantum field theory: an introduction for chemical physicists"
+		"title": "Quantum field theory: an introduction for chemical physicists",
+		"title-short": "Quantum field theory"
 	},
 	{
 		"id": "gbt7714.7.4:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.4:1",
 		"edition": "3",
 		"language": "zh-CN"
 	},
 	{
 		"id": "gbt7714.7.4:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.4:2",
 		"edition": "新1版",
 		"language": "zh-CN"
 	},
 	{
 		"id": "gbt7714.7.4:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.4:3",
 		"edition": "明刻本",
 		"language": "zh-CN"
 	},
 	{
 		"id": "gbt7714.7.4:4",
 		"type": "dataset",
+		"citation-key": "gbt7714.7.4:4",
 		"language": "zh-CN",
 		"version": "1.0"
 	},
 	{
 		"id": "gbt7714.7.4:5",
 		"type": "book",
+		"citation-key": "gbt7714.7.4:5",
 		"edition": "5",
 		"language": "en-US"
 	},
 	{
 		"id": "gbt7714.7.4:6",
 		"type": "book",
+		"citation-key": "gbt7714.7.4:6",
 		"edition": "Rev. ed.",
 		"language": "en-US"
 	},
 	{
 		"id": "gbt7714.7.5.1:1",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.7.5.1:1",
 		"language": "zh-CN",
 		"publisher": "人民出版社",
 		"publisher-place": "北京",
@@ -531,7 +589,7 @@
 	{
 		"id": "gbt7714.7.5.1:2",
 		"type": "book",
-		"event-place": "New York",
+		"citation-key": "gbt7714.7.5.1:2",
 		"language": "en-US",
 		"publisher": "Academic Press",
 		"publisher-place": "New York",
@@ -542,7 +600,7 @@
 	{
 		"id": "gbt7714.7.5.1:3",
 		"type": "thesis",
-		"event-place": "武汉",
+		"citation-key": "gbt7714.7.5.1:3",
 		"language": "zh-CN",
 		"publisher": "武汉大学",
 		"publisher-place": "武汉",
@@ -554,6 +612,7 @@
 		"id": "gbt7714.7.5.1:4",
 		"type": "manuscript",
 		"archive": "辽宁省档案馆",
+		"citation-key": "gbt7714.7.5.1:4",
 		"language": "zh-CN",
 		"note": "archive-place: 沈阳\ntex.entrytype: archive",
 		"issued": {
@@ -563,35 +622,35 @@
 	{
 		"id": "gbt7714.7.5.2.1:1",
 		"type": "book",
-		"event-place": "Cambridge, Eng.",
+		"citation-key": "gbt7714.7.5.2.1:1",
 		"language": "en-US",
 		"publisher-place": "Cambridge, Eng."
 	},
 	{
 		"id": "gbt7714.7.5.2.1:2",
 		"type": "book",
-		"event-place": "Cambridge, Mass.",
+		"citation-key": "gbt7714.7.5.2.1:2",
 		"language": "en-US",
 		"publisher-place": "Cambridge, Mass."
 	},
 	{
 		"id": "gbt7714.7.5.2.1:3",
 		"type": "book",
-		"event-place": "Taizhou, Zhejiang",
+		"citation-key": "gbt7714.7.5.2.1:3",
 		"language": "en-US",
 		"publisher-place": "Taizhou, Zhejiang"
 	},
 	{
 		"id": "gbt7714.7.5.2.1:4",
 		"type": "book",
-		"event-place": "Taizhou, Jiangsu",
+		"citation-key": "gbt7714.7.5.2.1:4",
 		"language": "en-US",
 		"publisher-place": "Taizhou, Jiangsu"
 	},
 	{
 		"id": "gbt7714.7.5.2.2:1",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.7.5.2.2:1",
 		"language": "zh-CN",
 		"publisher": "科学出版社",
 		"publisher-place": "北京",
@@ -602,7 +661,7 @@
 	{
 		"id": "gbt7714.7.5.2.2:2",
 		"type": "book",
-		"event-place": "London",
+		"citation-key": "gbt7714.7.5.2.2:2",
 		"language": "en-US",
 		"publisher": "Butterworths",
 		"publisher-place": "London",
@@ -613,6 +672,7 @@
 	{
 		"id": "gbt7714.7.5.2.3:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.2.3:1",
 		"language": "zh-CN",
 		"publisher": "三户图书刊行社",
 		"issued": {
@@ -622,8 +682,9 @@
 	{
 		"id": "gbt7714.7.5.2.3:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.2.3:2",
 		"language": "en-US",
-		"publisher": "MacMillan",
+		"publisher": "Macmillan",
 		"issued": {
 			"date-parts": [["1975"]]
 		}
@@ -631,6 +692,7 @@
 	{
 		"id": "gbt7714.7.5.2.3:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.2.3:3",
 		"language": "en-GB",
 		"publisher": "Open University Press",
 		"URL": "https://www.mheducation.co.uk/economics-13e-9781526850232-emea-group",
@@ -644,25 +706,28 @@
 	{
 		"id": "gbt7714.7.5.3.1:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.3.1:1",
 		"language": "zh-CN",
 		"publisher": "中国标准出版社"
 	},
 	{
 		"id": "gbt7714.7.5.3.1:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.3.1:2",
 		"language": "en-US",
 		"publisher": "Elsevier Science Publishers"
 	},
 	{
 		"id": "gbt7714.7.5.3.1:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.3.1:3",
 		"language": "en-US",
 		"publisher": "IRRI"
 	},
 	{
 		"id": "gbt7714.7.5.3.2:1",
 		"type": "book",
-		"event-place": "Chicago",
+		"citation-key": "gbt7714.7.5.3.2:1",
 		"language": "en-US",
 		"publisher": "ALA",
 		"publisher-place": "Chicago",
@@ -673,7 +738,7 @@
 	{
 		"id": "gbt7714.7.5.3.3:1",
 		"type": "book",
-		"event-place": "哈尔滨",
+		"citation-key": "gbt7714.7.5.3.3:1",
 		"language": "zh-CN",
 		"publisher-place": "哈尔滨",
 		"issued": {
@@ -683,7 +748,7 @@
 	{
 		"id": "gbt7714.7.5.3.3:2",
 		"type": "book",
-		"event-place": "Salt Lake City",
+		"citation-key": "gbt7714.7.5.3.3:2",
 		"language": "en-US",
 		"publisher-place": "Salt Lake City",
 		"issued": {
@@ -693,6 +758,7 @@
 	{
 		"id": "gbt7714.7.5.4.1:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.4.1:1",
 		"language": "zh-CN",
 		"note": "issued: 1947（民国三十六年）",
 		"issued": {
@@ -702,6 +768,7 @@
 	{
 		"id": "gbt7714.7.5.4.1:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.4.1:2",
 		"language": "zh-CN",
 		"note": "issued: 1705（康熙四十四年）",
 		"issued": {
@@ -711,6 +778,7 @@
 	{
 		"id": "gbt7714.7.5.4.2:1",
 		"type": "article-newspaper",
+		"citation-key": "gbt7714.7.5.4.2:1",
 		"language": "zh-CN",
 		"issued": {
 			"date-parts": [["2013", 1, 8]]
@@ -719,6 +787,7 @@
 	{
 		"id": "gbt7714.7.5.4.3:1",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.4.3:1",
 		"language": "zh-CN",
 		"issued": {
 			"literal": "c1988"
@@ -727,6 +796,7 @@
 	{
 		"id": "gbt7714.7.5.4.3:2",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.4.3:2",
 		"language": "zh-CN",
 		"note": "issued: 1995印刷",
 		"issued": {
@@ -736,6 +806,7 @@
 	{
 		"id": "gbt7714.7.5.4.3:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.5.4.3:3",
 		"language": "zh-CN",
 		"note": "issued: 1936~",
 		"issued": {
@@ -745,6 +816,7 @@
 	{
 		"id": "gbt7714.7.6:1",
 		"type": "webpage",
+		"citation-key": "gbt7714.7.6:1",
 		"language": "zh-CN",
 		"URL": "http://www.example.com/",
 		"accessed": {
@@ -757,7 +829,7 @@
 	{
 		"id": "gbt7714.7.7:1",
 		"type": "book",
-		"event-place": "上海",
+		"citation-key": "gbt7714.7.7:1",
 		"ISBN": "978-7-5325-5940-4",
 		"language": "zh-CN",
 		"note": "page: 19",
@@ -776,7 +848,7 @@
 	{
 		"id": "gbt7714.7.7:2",
 		"type": "book",
-		"event-place": "太原",
+		"citation-key": "gbt7714.7.7:2",
 		"ISBN": "978-7-5377-1948-3",
 		"language": "zh-CN",
 		"note": "page: 序2–3",
@@ -795,8 +867,8 @@
 	{
 		"id": "gbt7714.7.7:3",
 		"type": "book",
+		"citation-key": "gbt7714.7.7:3",
 		"edition": "2",
-		"event-place": "北京",
 		"ISBN": "978-7-81119-421-0",
 		"language": "zh-CN",
 		"note": "page: 第1版自序",
@@ -815,8 +887,8 @@
 	{
 		"id": "gbt7714.7.7:4",
 		"type": "chapter",
+		"citation-key": "gbt7714.7.7:4",
 		"container-title": "苏颂与《本草图经》研究",
-		"event-place": "长春",
 		"ISBN": "978-7-80573-415-6",
 		"language": "zh-CN",
 		"page": "扉页",
@@ -846,6 +918,7 @@
 	{
 		"id": "gbt7714.7.7:5",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.7:5",
 		"container-title": "ACS Chemical Biology",
 		"DOI": "10.1021/cb3005325",
 		"issue": "3",
@@ -874,11 +947,11 @@
 	{
 		"id": "gbt7714.7.7:6",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.7:6",
 		"container-title": "GigaScience",
-		"DOI": "10.1093/gigascience/giad067",
 		"ISSN": "2047-217X",
 		"language": "en-GB",
-		"note": "number: giad067\ntex.number: \ntex.eid: giad067",
+		"note": "number: giad067\ntex.number: \ntex.eid: giad067\ntex.doi: 10.1093/gigascience/giad067",
 		"title": "ARA: a flexible pipeline for automated exploration of NCBI SRA datasets",
 		"title-short": "ARA",
 		"URL": "https://doi.org/10.1093/gigascience/giad067",
@@ -907,6 +980,7 @@
 	{
 		"id": "gbt7714.7.8:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.7.8:1",
 		"container-title": "中华肿瘤杂志",
 		"DOI": "10.3760/cma.j.issn.0253-3766.2010.10.001",
 		"issue": "10",
@@ -930,14 +1004,14 @@
 	{
 		"id": "gbt7714.7.8:2",
 		"type": "book",
-		"event-place": "Singapore",
+		"citation-key": "gbt7714.7.8:2",
 		"ISBN": "978-981-16-3868-8",
 		"language": "en-US",
 		"note": "page: 97\ntex.DOI: 10.1007/978-981-16-3868-8",
 		"publisher": "Springer Nature",
 		"publisher-place": "Singapore",
 		"title": "Connecting the library to the curriculum",
-		"URL": "https://link.springer.com/10.1007/978-981-16-3868-8",
+		"URL": "https://link.springer.com/book/10.1007/978-981-16-3868-8",
 		"editor": [
 			{
 				"family": "Torres",
@@ -974,14 +1048,14 @@
 	{
 		"id": "gbt7714.7.9.1:1",
 		"type": "book",
-		"event-place": "New York",
+		"citation-key": "gbt7714.7.9.1:1",
 		"ISBN": "978-1-4051-6183-1",
 		"language": "en-US",
 		"note": "page: 21-22\ntex.DOI: 10.1002/9781444305036",
 		"publisher": "John Wiley & Sons",
 		"publisher-place": "New York",
 		"title": "A companion to California history",
-		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary",
+		"URL": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444305036",
 		"editor": [
 			{
 				"family": "Deverell",
@@ -1002,10 +1076,11 @@
 	{
 		"id": "gbt7714.7.9.1:2",
 		"type": "thesis",
-		"event-place": "Helsinki",
+		"citation-key": "gbt7714.7.9.1:2",
 		"genre": "Doctoral dissertation",
+		"ISBN": "978-951-51-2090-8",
 		"language": "en-US",
-		"note": "ISBN: 978-951-51-2090-8\npage: 55-56",
+		"note": "page: 55-56",
 		"publisher": "University of Helsinki",
 		"publisher-place": "Helsinki",
 		"title": "Word associations as a language model for generative and creative tasks",
@@ -1016,6 +1091,9 @@
 				"given": "Oskar"
 			}
 		],
+		"accessed": {
+			"date-parts": [["2025", 12, 2]]
+		},
 		"issued": {
 			"date-parts": [["2016"]]
 		}
@@ -1023,10 +1101,11 @@
 	{
 		"id": "gbt7714.7.9.2:1",
 		"type": "thesis",
-		"event-place": "合肥",
+		"citation-key": "gbt7714.7.9.2:1",
+		"DOI": "10.7666/d.y351065",
 		"genre": "博士学位论文",
 		"language": "zh-CN",
-		"note": "DOI: 10.7666/d.y351065\npage: 17-18",
+		"note": "page: 17-18",
 		"publisher": "中国科学技术大学",
 		"publisher-place": "合肥",
 		"title": "生物质材料热解失重动力学及其分析方法研究",
@@ -1046,7 +1125,7 @@
 	{
 		"id": "gbt7714.8.1:1",
 		"type": "book",
-		"event-place": "南京",
+		"citation-key": "gbt7714.8.1:1",
 		"ISBN": "978-7-80643-578-6",
 		"language": "zh-CN",
 		"note": "page: 288",
@@ -1065,8 +1144,8 @@
 	{
 		"id": "gbt7714.8.1:2",
 		"type": "chapter",
+		"citation-key": "gbt7714.8.1:2",
 		"container-title": "长江流域洪涝灾害与科技对策",
-		"event-place": "北京",
 		"ISBN": "978-7-03-007245-0",
 		"language": "zh-CN",
 		"page": "32-36",
@@ -1093,6 +1172,7 @@
 	{
 		"id": "gbt7714.8.1:3",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.1:3",
 		"container-title": "文献",
 		"issue": "1",
 		"language": "zh-CN",
@@ -1110,6 +1190,7 @@
 	{
 		"id": "gbt7714.8.1:4",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.1:4",
 		"container-title": "The Public-Access Computer Systems Review",
 		"ISSN": "1048-6542",
 		"issue": "2",
@@ -1131,7 +1212,7 @@
 	{
 		"id": "gbt7714.8.1:5",
 		"type": "thesis",
-		"event-place": "Ohio",
+		"citation-key": "gbt7714.8.1:5",
 		"genre": "Doctoral dissertation",
 		"language": "en-US",
 		"note": "page: 18",
@@ -1155,7 +1236,7 @@
 	{
 		"id": "gbt7714.8.2.2:1",
 		"type": "book",
-		"event-place": "南京",
+		"citation-key": "gbt7714.8.2.2:1",
 		"ISBN": "978-7-80643-578-6",
 		"language": "zh-CN",
 		"note": "page: 288",
@@ -1174,8 +1255,8 @@
 	{
 		"id": "gbt7714.8.2.2:2",
 		"type": "book",
+		"citation-key": "gbt7714.8.2.2:2",
 		"edition": "刻本",
-		"event-place": "金陵",
 		"language": "zh-CN",
 		"note": "issued: 1865（清同治四年）",
 		"publisher": "湘乡曾国荃",
@@ -1193,7 +1274,7 @@
 	{
 		"id": "gbt7714.8.2.2:3",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.2.2:3",
 		"language": "zh-CN",
 		"publisher": "北京古籍出版社",
 		"publisher-place": "北京",
@@ -1210,14 +1291,14 @@
 	{
 		"id": "gbt7714.8.2.2:4",
 		"type": "book",
-		"edition": "同文书局影印本",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.2.2:4",
+		"edition": "影印本",
 		"language": "zh-CN",
 		"note": "page: 50",
 		"publisher": "中华书局",
 		"publisher-place": "北京",
-		"title": "康熙字典：巳集上 水部",
-		"title-short": "康熙字典",
+		"title": "康熙字典",
+		"volume": "巳集上：水部",
 		"issued": {
 			"date-parts": [["1962"]]
 		}
@@ -1225,9 +1306,9 @@
 	{
 		"id": "gbt7714.8.2.2:5",
 		"type": "book",
+		"citation-key": "gbt7714.8.2.2:5",
 		"collection-title": "经济科学译库",
 		"edition": "2",
-		"event-place": "北京",
 		"ISBN": "978-7-300-11595-5",
 		"language": "zh-CN",
 		"note": "page: 798",
@@ -1264,13 +1345,13 @@
 	{
 		"id": "gbt7714.8.2.2:6",
 		"type": "book",
+		"citation-key": "gbt7714.8.2.2:6",
 		"edition": "4",
-		"event-place": "New York",
 		"ISBN": "978-0-07-118181-5",
 		"language": "en-US",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Probability, random variable, and random signal principles",
+		"title": "Probability, random variables, and random signal principles",
 		"author": [
 			{
 				"family": "Peebles",
@@ -1286,6 +1367,7 @@
 	{
 		"id": "gbt7714.8.2.2:7",
 		"type": "book",
+		"citation-key": "gbt7714.8.2.2:7",
 		"edition": "Rev. ed.",
 		"ISBN": "978-0-7591-1958-1",
 		"language": "en-US",
@@ -1310,7 +1392,8 @@
 	{
 		"id": "gbt7714.8.2.2:8",
 		"type": "book",
-		"collection-title": "Interdisciplinary Contributions to Archaeology",
+		"citation-key": "gbt7714.8.2.2:8",
+		"collection-title": "Interdisciplinary contributions to archaeology",
 		"ISBN": "978-3-031-54638-9",
 		"language": "en-US",
 		"note": "tex.doi: 10.1007/978-3-031-54638-9",
@@ -1342,14 +1425,14 @@
 	{
 		"id": "gbt7714.8.3.2:1",
 		"type": "chapter",
+		"citation-key": "gbt7714.8.3.2:1",
 		"container-title": "认识记忆力：关于学习、思考与遗忘的脑科学",
-		"event-place": "北京",
 		"ISBN": "978-7-111-74465-8",
 		"language": "zh-CN",
 		"page": "15-18",
 		"publisher": "机械工业出版社",
 		"publisher-place": "北京",
-		"title": "谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答",
+		"title": "谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答",
 		"title-short": "谈谈记忆",
 		"author": [
 			{
@@ -1373,9 +1456,9 @@
 	{
 		"id": "gbt7714.8.3.2:2",
 		"type": "chapter",
+		"citation-key": "gbt7714.8.3.2:2",
 		"container-title": "船山全书",
 		"edition": "修订版",
-		"event-place": "长沙",
 		"ISBN": "978-7-80761-535-4",
 		"language": "zh-CN",
 		"page": "983-1029",
@@ -1396,9 +1479,9 @@
 	{
 		"id": "gbt7714.8.3.2:3",
 		"type": "chapter",
+		"citation-key": "gbt7714.8.3.2:3",
 		"container-title": "马克思恩格斯全集",
 		"edition": "2",
-		"event-place": "北京",
 		"ISBN": "978-7-01-007922-6",
 		"language": "zh-CN",
 		"page": "302",
@@ -1426,9 +1509,9 @@
 	{
 		"id": "gbt7714.8.3.2:4",
 		"type": "chapter",
+		"citation-key": "gbt7714.8.3.2:4",
 		"container-title": "Pathologic physiology: mechanisms of disease",
 		"edition": "5",
-		"event-place": "Philadelphia",
 		"ISBN": "978-0-7216-8472-7",
 		"language": "en-US",
 		"page": "457-472",
@@ -1448,7 +1531,7 @@
 		"editor": [
 			{
 				"family": "Sodeman",
-				"given": "William A",
+				"given": "William A.",
 				"suffix": "Jr."
 			},
 			{
@@ -1463,15 +1546,15 @@
 	{
 		"id": "gbt7714.8.3.2:5",
 		"type": "chapter",
+		"citation-key": "gbt7714.8.3.2:5",
 		"container-title": "Water quality & treatment: a handbook on drinking water",
 		"edition": "6",
-		"event-place": "New York",
 		"ISBN": "978-0-07-163011-5",
 		"language": "en-US",
 		"page": "1.1-1.36",
 		"publisher": "McGraw-Hill",
 		"publisher-place": "New York",
-		"title": "Drinking water standards, regulations and goals",
+		"title": "Drinking water quality standards, regulations and goals",
 		"URL": "http://lib.myilibrary.com/Open.aspx?id=291430",
 		"author": [
 			{
@@ -1498,13 +1581,13 @@
 	{
 		"id": "gbt7714.8.4.2:1",
 		"type": "book",
-		"event-place": "武汉",
+		"citation-key": "gbt7714.8.4.2:1",
 		"language": "zh-CN",
 		"note": "type: periodical\nissued: 1984/\ntex.entrytype: periodical",
 		"publisher": "中华医学会湖北分会",
 		"publisher-place": "武汉",
 		"title": "临床内科杂志",
-		"volume": "1984，1（1）—",
+		"volume": "1984，1（1）-",
 		"editor": [
 			{
 				"literal": "中华医学会湖北分会"
@@ -1517,13 +1600,13 @@
 	{
 		"id": "gbt7714.8.4.2:2",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.4.2:2",
 		"language": "zh-CN",
 		"note": "type: periodical\nissued: 1957/1990\ntex.entrytype: periodical",
 		"publisher": "北京图书馆",
 		"publisher-place": "北京",
 		"title": "图书馆学通讯",
-		"volume": "1957（1）—1990（4）",
+		"volume": "1957（1）-1990（4）",
 		"editor": [
 			{
 				"literal": "中国图书馆学会"
@@ -1537,13 +1620,13 @@
 	{
 		"id": "gbt7714.8.4.2:3",
 		"type": "book",
-		"event-place": "Washington, D.C.",
+		"citation-key": "gbt7714.8.4.2:3",
 		"language": "en-US",
 		"note": "type: periodical\nissued: 1883/\ntex.entrytype: periodical",
 		"publisher": "American Association for the Advancement of Science",
 		"publisher-place": "Washington, D.C.",
 		"title": "Science",
-		"volume": "1883，1（1）—",
+		"volume": "1883，1（1）-",
 		"editor": [
 			{
 				"literal": "American Association for the Advancement of Science"
@@ -1556,14 +1639,14 @@
 	{
 		"id": "gbt7714.8.4.2:4",
 		"type": "book",
-		"event-place": "Philadelphia",
+		"citation-key": "gbt7714.8.4.2:4",
 		"language": "en-US",
 		"note": "type: periodical\nissued: 1979/\ntex.entrytype: periodical",
 		"publisher": "Taylor & Francis",
 		"publisher-place": "Philadelphia",
 		"title": "Public library quarterly",
 		"URL": "http://www.tandfonline.com/loi/wplq",
-		"volume": "1979，1（1）—",
+		"volume": "1979，1（1）-",
 		"accessed": {
 			"date-parts": [["2025", 2, 28]]
 		},
@@ -1574,6 +1657,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:1",
 		"issue": "1",
 		"language": "zh-CN",
 		"page": "5–6",
@@ -1585,6 +1669,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:2",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:2",
 		"language": "zh-CN",
 		"page": "356–363",
 		"volume": "510",
@@ -1595,6 +1680,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:3",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:3",
 		"issue": "6",
 		"language": "zh-CN",
 		"page": "23",
@@ -1605,6 +1691,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:4",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:4",
 		"issue": "增刊2",
 		"language": "zh-CN",
 		"page": "81–86",
@@ -1616,6 +1703,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:5",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:5",
 		"issue": "S1",
 		"language": "zh-CN",
 		"page": "7-11",
@@ -1627,6 +1715,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:6",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:6",
 		"language": "zh-CN",
 		"note": "number: 147370\ntex.number: \ntex.eid: 147370",
 		"volume": "267",
@@ -1637,6 +1726,7 @@
 	{
 		"id": "gbt7714.8.5.1.1:7",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.1:7",
 		"language": "zh-CN",
 		"issued": {
 			"date-parts": [["2024", 5, 9]]
@@ -1645,6 +1735,7 @@
 	{
 		"id": "gbt7714.8.5.1.2:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.2:1",
 		"issue": "8/9/10",
 		"language": "zh-CN",
 		"page": "36-39",
@@ -1655,6 +1746,7 @@
 	{
 		"id": "gbt7714.8.5.1.3:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.1.3:1",
 		"issue": "2",
 		"language": "zh-CN",
 		"page": "20-25；2011，33（3）：26-30",
@@ -1666,6 +1758,7 @@
 	{
 		"id": "gbt7714.8.5.1.4:1",
 		"type": "article-newspaper",
+		"citation-key": "gbt7714.8.5.1.4:1",
 		"language": "zh-CN",
 		"page": "1",
 		"issued": {
@@ -1675,6 +1768,7 @@
 	{
 		"id": "gbt7714.8.5.3:1",
 		"type": "article-newspaper",
+		"citation-key": "gbt7714.8.5.3:1",
 		"container-title": "中国青年报",
 		"language": "zh-CN",
 		"page": "15",
@@ -1691,6 +1785,7 @@
 	{
 		"id": "gbt7714.8.5.3:2",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:2",
 		"container-title": "东方博物",
 		"issue": "1",
 		"language": "zh-CN",
@@ -1714,6 +1809,7 @@
 	{
 		"id": "gbt7714.8.5.3:3",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:3",
 		"container-title": "清华大学学报（自然科学版）",
 		"issue": "11",
 		"language": "zh-CN",
@@ -1741,10 +1837,11 @@
 	{
 		"id": "gbt7714.8.5.3:4",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:4",
 		"container-title": "铁道学报",
 		"language": "zh-CN",
 		"title": "惯性增强动力吸振器-浮置板轨道低频减振性能研究",
-		"URL": "http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html",
+		"URL": "https://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html",
 		"author": [
 			{
 				"literal": "张群"
@@ -1766,6 +1863,7 @@
 	{
 		"id": "gbt7714.8.5.3:5",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:5",
 		"container-title": "铁道学报",
 		"issue": "8",
 		"language": "zh-CN",
@@ -1790,6 +1888,7 @@
 	{
 		"id": "gbt7714.8.5.3:6",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:6",
 		"container-title": "北京大学学报（哲学社会科学版）",
 		"ISSN": "1000-5919",
 		"issue": "2",
@@ -1814,6 +1913,7 @@
 	{
 		"id": "gbt7714.8.5.3:7",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:7",
 		"container-title": "航空学报",
 		"ISSN": "1000-6893",
 		"issue": "增刊1",
@@ -1839,6 +1939,7 @@
 	{
 		"id": "gbt7714.8.5.3:8",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:8",
 		"container-title": "Bulletin of the Geological Survey of Japan",
 		"issue": "5/6",
 		"journalAbbreviation": "Bull. Geol. Surv. Jpn.",
@@ -1864,12 +1965,13 @@
 	{
 		"id": "gbt7714.8.5.3:9",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:9",
 		"container-title": "Nature",
 		"DOI": "10.1038/nature13308",
 		"ISSN": "1476-4687",
 		"language": "en-US",
 		"page": "356-362",
-		"title": "The genome of <i>Eucalyptus grandis</i>",
+		"title": "The genome of <i><span class=\"nocase\">Eucalyptus grandis</span></i>",
 		"URL": "https://www.nature.com/articles/nature13308.pdf",
 		"volume": "510",
 		"author": [
@@ -2206,14 +2308,15 @@
 	{
 		"id": "gbt7714.8.5.3:10",
 		"type": "article-journal",
+		"citation-key": "gbt7714.8.5.3:10",
 		"container-title": "Journal of the Neurological Sciences",
 		"DOI": "10.1016/j.jns.2013.11.029",
 		"ISSN": "1878-5883",
 		"issue": "1/2",
 		"journalAbbreviation": "J. Neurol. Sci.",
 		"language": "en-US",
-		"note": "PMID: 24314719",
 		"page": "112-118",
+		"PMID": "24314719",
 		"title": "Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study",
 		"title-short": "Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease",
 		"URL": "https://pubmed.ncbi.nlm.nih.gov/24314719/",
@@ -2253,6 +2356,9 @@
 				"literal": "SMART-MR Study Group"
 			}
 		],
+		"accessed": {
+			"date-parts": [["2025", 12, 2]]
+		},
 		"issued": {
 			"date-parts": [["2014", 2, 15]]
 		}
@@ -2260,7 +2366,7 @@
 	{
 		"id": "gbt7714.8.6.1:1",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.6.1:1",
 		"language": "zh-CN",
 		"note": "tex.entrytype: proceedings",
 		"publisher": "海洋出版社",
@@ -2286,8 +2392,8 @@
 	{
 		"id": "gbt7714.8.6.1:2",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.8.6.1:2",
 		"container-title": "中国国家生物安全框架实施国际合作项目研讨会论文集",
-		"event-place": "北京",
 		"ISBN": "978-7-80209-038-5",
 		"language": "zh-CN",
 		"page": "22-25",
@@ -2311,8 +2417,8 @@
 	{
 		"id": "gbt7714.8.6.1:3",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.8.6.1:3",
 		"container-title": "纪念北京大学图书馆学教育100周年研讨会论文集",
-		"event-place": "北京",
 		"language": "zh-CN",
 		"page": "134-147",
 		"publisher": "北京大学信息管理系",
@@ -2336,12 +2442,12 @@
 	{
 		"id": "gbt7714.8.6.1:4",
 		"type": "book",
-		"event-place": "Rotterdam",
+		"citation-key": "gbt7714.8.6.1:4",
 		"language": "en-US",
 		"note": "tex.entrytype: proceedings",
 		"publisher": "A. A. Balkema",
 		"publisher-place": "Rotterdam",
-		"title": "Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000",
+		"title": "Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000",
 		"title-short": "Geoecology and computers",
 		"editor": [
 			{
@@ -2356,8 +2462,8 @@
 	{
 		"id": "gbt7714.8.6.1:5",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.8.6.1:5",
 		"container-title": "<span class=\"nocase\">Symposium on Applications of Holography in Mechanics</span>, August 23-25, 1971, <span class=\"nocase\">University of Southern California</span>, <span class=\"nocase\">Los Angeles, California</span>",
-		"event-place": "New York",
 		"language": "en-US",
 		"page": "17-38",
 		"publisher": "ASME",
@@ -2382,6 +2488,7 @@
 	{
 		"id": "gbt7714.8.6.3:1",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.8.6.3:1",
 		"event-title": "中华预防医学会医院感染控制分会第31次全国医院感染学术年会",
 		"language": "zh-CN",
 		"page": "2",
@@ -2401,8 +2508,10 @@
 	{
 		"id": "gbt7714.8.6.3:2",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.8.6.3:2",
 		"DOI": "10.1109/ACAIT56212.2022.10137867",
-		"event-title": "2022 6th Asian Conference on Artificial Intelligence Technology (ACAIT)",
+		"event-place": "Changzhou, China",
+		"event-title": "2022 6th Asian Conference on Artificial Intelligence Technology",
 		"language": "en-US",
 		"page": "2",
 		"title": "Application of improved SOM neural network in intelligent auditing of hospital financial vouchers",
@@ -2423,6 +2532,8 @@
 	{
 		"id": "gbt7714.8.6.3:3",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.8.6.3:3",
+		"event-place": "Seattle",
 		"event-title": "CVPR",
 		"language": "en-US",
 		"page": "4",
@@ -2465,7 +2576,7 @@
 	{
 		"id": "gbt7714.8.7.2:1",
 		"type": "thesis",
-		"event-place": "武汉",
+		"citation-key": "gbt7714.8.7.2:1",
 		"genre": "博士学位论文",
 		"language": "zh-CN",
 		"note": "page: 87",
@@ -2484,7 +2595,7 @@
 	{
 		"id": "gbt7714.8.7.2:2",
 		"type": "thesis",
-		"event-place": "温州",
+		"citation-key": "gbt7714.8.7.2:2",
 		"genre": "硕士学位论文",
 		"language": "zh-CN",
 		"note": "page: 16",
@@ -2508,7 +2619,7 @@
 	{
 		"id": "gbt7714.8.7.2:3",
 		"type": "thesis",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.7.2:3",
 		"genre": "博士学位论文",
 		"language": "zh-CN",
 		"note": "page: 43\nCSTR: 35001.37.01.33142.20220037\ntex.cstr: 35001.37.01.33142.20220037",
@@ -2531,14 +2642,14 @@
 	{
 		"id": "gbt7714.8.7.2:4",
 		"type": "thesis",
-		"event-place": "Berkeley",
+		"citation-key": "gbt7714.8.7.2:4",
 		"genre": "Doctoral dissertation",
 		"language": "en-US",
 		"note": "page: 15",
 		"number-of-pages": "224",
-		"publisher": "University of California",
+		"publisher": "University of California, Berkeley",
 		"publisher-place": "Berkeley",
-		"title": "Infrared spectroscopic studies on solid oxygen",
+		"title": "Infrared spectroscopic studies of solid oxygen",
 		"author": [
 			{
 				"family": "Cairns",
@@ -2552,7 +2663,7 @@
 	{
 		"id": "gbt7714.8.7.2:5",
 		"type": "thesis",
-		"event-place": "Ohio",
+		"citation-key": "gbt7714.8.7.2:5",
 		"genre": "Doctoral dissertation",
 		"language": "en-US",
 		"note": "page: 18",
@@ -2576,6 +2687,7 @@
 	{
 		"id": "gbt7714.8.8.3:1",
 		"type": "report",
+		"citation-key": "gbt7714.8.8.3:1",
 		"language": "zh-CN",
 		"number": "7178999X-2006BAK04A10/10.2013",
 		"title": "人体安全重要技术标准研制最终报告",
@@ -2607,6 +2719,7 @@
 	{
 		"id": "gbt7714.8.8.3:2",
 		"type": "report",
+		"citation-key": "gbt7714.8.8.3:2",
 		"language": "zh-CN",
 		"title": "电信业发展白皮书：2023：新时代高质量发展探索",
 		"title-short": "电信业发展白皮书",
@@ -2635,6 +2748,7 @@
 	{
 		"id": "gbt7714.8.8.3:3",
 		"type": "report",
+		"citation-key": "gbt7714.8.8.3:3",
 		"language": "en-US",
 		"number": "RMRS-GTR-262",
 		"page": "8-9",
@@ -2655,6 +2769,9 @@
 				"given": "Matthew P."
 			}
 		],
+		"accessed": {
+			"date-parts": [["2025", 12, 2]]
+		},
 		"issued": {
 			"date-parts": [["2011"]]
 		}
@@ -2662,13 +2779,13 @@
 	{
 		"id": "gbt7714.8.8.3:4",
 		"type": "report",
-		"event-place": "Springfield",
+		"citation-key": "gbt7714.8.8.3:4",
 		"language": "en-US",
 		"number": "PB 91-194001",
 		"page": "25",
 		"publisher": "U.S. Department of Commerce National Information Service",
 		"publisher-place": "Springfield",
-		"title": "Guidelines for handling excavated acid-producing material",
+		"title": "Guidelines for handling excavated acid-producing materials",
 		"author": [
 			{
 				"literal": "U.S. Department of Transportation Federal Highway Administration"
@@ -2681,11 +2798,12 @@
 	{
 		"id": "gbt7714.8.9.2:1",
 		"type": "standard",
+		"citation-key": "gbt7714.8.9.2:1",
 		"genre": "国家标准",
 		"language": "zh-CN",
 		"number": "GB/T 3792—2021",
 		"status": "现行",
-		"title": "信息与文献 资源描述",
+		"title": "信息与文献　资源描述",
 		"author": [
 			{
 				"literal": "全国信息与文献标准化技术委员会"
@@ -2698,6 +2816,7 @@
 	{
 		"id": "gbt7714.8.9.2:2",
 		"type": "standard",
+		"citation-key": "gbt7714.8.9.2:2",
 		"genre": "行业标准-NB 能源",
 		"language": "zh-CN",
 		"number": "NB/T 10386—2020",
@@ -2715,12 +2834,13 @@
 	{
 		"id": "gbt7714.8.9.2:3",
 		"type": "standard",
+		"citation-key": "gbt7714.8.9.2:3",
 		"genre": "国家标准",
 		"language": "zh-CN",
 		"number": "GB/T 20090.16—2016",
 		"status": "现行",
-		"title": "信息技术 先进音视频编码 第16部分：广播电视视频",
-		"URL": "http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=1D4AC2D455C8DE7E0AA286CA7649300",
+		"title": "信息技术　先进音视频编码　第16部分：广播电视视频",
+		"URL": "http://c.gb688.cn/bzgk/gb/showGb?type=online&hcno=1D4AC2D4256C8DE7E0AA286CA7649300",
 		"author": [
 			{
 				"literal": "全国信息技术标准化技术委员会"
@@ -2736,6 +2856,7 @@
 	{
 		"id": "gbt7714.8.9.2:4",
 		"type": "standard",
+		"citation-key": "gbt7714.8.9.2:4",
 		"language": "en-US",
 		"number": "ISO 21378:2019",
 		"title": "Audit data collection",
@@ -2751,7 +2872,7 @@
 	{
 		"id": "gbt7714.8.9.2:5",
 		"type": "standard",
-		"event-place": "New York",
+		"citation-key": "gbt7714.8.9.2:5",
 		"language": "en-US",
 		"number": "IEC/IEEE 61636-1:2021",
 		"publisher": "IEEE",
@@ -2772,9 +2893,10 @@
 		"type": "patent",
 		"authority": "国家知识产权局",
 		"call-number": "CN200610171314.3",
+		"citation-key": "gbt7714.8.10.2:1",
 		"issue": "CN200510022322.7 20051216",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 邓一刚\ntex.number: CN200610171314.3",
+		"note": "jurisdiction: 中国",
 		"number": "CN101106276A",
 		"page": "8-9",
 		"title": "全智能节电器",
@@ -2795,8 +2917,9 @@
 		"type": "patent",
 		"authority": "国家知识产权局",
 		"call-number": "CN01128777.2",
+		"citation-key": "gbt7714.8.10.2:2",
 		"language": "zh-CN",
-		"note": "jurisdiction: 中国\ntex.holder: 西安电子科技大学\ntex.number: CN01128777.2",
+		"note": "jurisdiction: 中国",
 		"number": "CN1338652A",
 		"title": "光折变自适应光外差探测方法",
 		"URL": "http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&leixin=0",
@@ -2834,8 +2957,9 @@
 		"id": "gbt7714.8.10.2:3",
 		"type": "patent",
 		"call-number": "JP2021578120A",
+		"citation-key": "gbt7714.8.10.2:3",
 		"language": "ja-JP",
-		"note": "jurisdiction: JP\ntex.holder: 中国科学院苏州生物医学工程技术研究所\ntex.number: JP2021578120A",
+		"note": "jurisdiction: JP",
 		"number": "JP2022539784A",
 		"title": "光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法",
 		"URL": "https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui",
@@ -2870,8 +2994,9 @@
 		"id": "gbt7714.8.10.2:4",
 		"type": "patent",
 		"call-number": "AU2022228203A",
+		"citation-key": "gbt7714.8.10.2:4",
 		"language": "en-US",
-		"note": "jurisdiction: AU\ntex.holder: Trisco ICAP Pty Ltd\ntex.number: AU2022228203A",
+		"note": "jurisdiction: AU",
 		"number": "AU2022228203A1",
 		"title": "Storage and delivery system",
 		"URL": "https://worldwide.espacenet.com/patent/search/family/061561249/publication/AU2022228203A1?q=AU2022228203A",
@@ -2906,6 +3031,7 @@
 	{
 		"id": "gbt7714.8.11.2.2:1",
 		"type": "webpage",
+		"citation-key": "gbt7714.8.11.2.2:1",
 		"language": "zh-CN",
 		"title": "中国国家博物馆",
 		"URL": "https://www.chnmuseum.cn/",
@@ -2916,6 +3042,7 @@
 	{
 		"id": "gbt7714.8.11.2.2:2",
 		"type": "webpage",
+		"citation-key": "gbt7714.8.11.2.2:2",
 		"language": "en-US",
 		"title": "<span class=\"nocase\">Library of Congress</span>",
 		"URL": "https://www.loc.gov/",
@@ -2926,6 +3053,7 @@
 	{
 		"id": "gbt7714.8.11.3.2:1",
 		"type": "webpage",
+		"citation-key": "gbt7714.8.11.3.2:1",
 		"language": "zh-CN",
 		"title": "馆际互借与文献传递服务",
 		"URL": "http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc",
@@ -2941,28 +3069,25 @@
 	{
 		"id": "gbt7714.8.11.3.2:2",
 		"type": "graphic",
+		"citation-key": "gbt7714.8.11.3.2:2",
 		"language": "zh-CN",
 		"note": "tex.entrytype: image",
 		"title": "[《昨日之歌》图书封面]",
 		"URL": "http://www.luxunmuseum.com.cn/uploads/allimg/150813/1-150Q31952110-L.jpg",
 		"accessed": {
-			"date-parts": [["2025", 6, 22]]
+			"date-parts": [["2023", 3, 6]]
 		},
 		"issued": {
-			"date-parts": [["2023", 3, 6]]
+			"date-parts": [["2015", 9, 18]]
 		}
 	},
 	{
 		"id": "gbt7714.8.11.3.2:3",
 		"type": "webpage",
+		"citation-key": "gbt7714.8.11.3.2:3",
 		"language": "zh-CN",
-		"title": "“好好干，当一个好工人”",
+		"title": "许振超：“好好干，当一个好工人”",
 		"URL": "https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html",
-		"author": [
-			{
-				"literal": "许振超"
-			}
-		],
 		"accessed": {
 			"date-parts": [["2025", 6, 22]]
 		},
@@ -2973,6 +3098,7 @@
 	{
 		"id": "gbt7714.8.11.3.2:4",
 		"type": "webpage",
+		"citation-key": "gbt7714.8.11.3.2:4",
 		"language": "pt-PT",
 		"title": "Histórias de Portugal: livros caídos",
 		"title-short": "Histórias de Portugal",
@@ -2997,8 +3123,9 @@
 	{
 		"id": "gbt7714.8.11.3.2:5",
 		"type": "software",
+		"citation-key": "gbt7714.8.11.3.2:5",
 		"note": "language: en-US\naccessed: 2024-04-08",
-		"title": "Zotero download",
+		"title": "[Zotero download]",
 		"URL": "https://www.zotero.org/download/",
 		"author": [
 			{
@@ -3010,10 +3137,11 @@
 		}
 	},
 	{
-		"id": "gbt7714.8.12.2:1",
+		"id": "gbt7714.8.12.3:1",
 		"type": "personal_communication",
 		"archive": "中国第一历史档案馆",
 		"archive_location": "04-01-35-0399-039",
+		"citation-key": "gbt7714.8.12.3:1",
 		"language": "zh-CN",
 		"note": "archive-place: 北京\nissued: 1887（光绪十三年三月十三日）\ntex.number: 04-01-35-0399-039\ntex.location: 北京\ntex.institution: 中国第一历史档案馆",
 		"title": "奏请上海道库洋务外销要款无款可筹仍拨药厘接济事",
@@ -3027,10 +3155,11 @@
 		}
 	},
 	{
-		"id": "gbt7714.8.12.2:2",
+		"id": "gbt7714.8.12.3:2",
 		"type": "manuscript",
 		"archive": "湖北省档案馆",
 		"archive_location": "LS031-001-0001-001",
+		"citation-key": "gbt7714.8.12.3:2",
 		"language": "zh-CN",
 		"note": "type: pamphlet\narchive-place: 武汉\ntex.entrytype: archive\ntex.number: LS031-001-0001-001\ntex.location: 武汉\ntex.institution: 湖北省档案馆",
 		"title": "湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令",
@@ -3048,9 +3177,10 @@
 		}
 	},
 	{
-		"id": "gbt7714.8.12.2:3",
+		"id": "gbt7714.8.12.3:3",
 		"type": "manuscript",
 		"archive": "武汉大学档案馆",
+		"citation-key": "gbt7714.8.12.3:3",
 		"language": "zh-CN",
 		"note": "type: pamphlet\narchive-place: 武汉\nissued: 1949（中华民国三十八年八月）\ntex.entrytype: archive\ntex.location: 武汉\ntex.institution: 武汉大学档案馆",
 		"title": "中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告",
@@ -3063,9 +3193,10 @@
 		}
 	},
 	{
-		"id": "gbt7714.8.12.2:4",
+		"id": "gbt7714.8.12.3:4",
 		"type": "personal_communication",
-		"language": "en-US",
+		"citation-key": "gbt7714.8.12.3:4",
+		"language": "en-GB",
 		"title": "[Letter to <span class=\"nocase\">Bess of Hardwick</span>]",
 		"URL": "https://www.bessofhardwick.org/letter.jsp?letter=25",
 		"author": [
@@ -3089,8 +3220,8 @@
 	{
 		"id": "gbt7714.8.13.1:1",
 		"type": "map",
+		"citation-key": "gbt7714.8.13.1:1",
 		"edition": "新版",
-		"event-place": "北京",
 		"language": "zh-CN",
 		"note": "tex.entrytype: map",
 		"publisher": "中国地图出版社",
@@ -3111,7 +3242,7 @@
 	{
 		"id": "gbt7714.8.13.1:2",
 		"type": "map",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.13.1:2",
 		"language": "zh-CN",
 		"note": "volume: 第2册\npage: 6\ntex.entrytype: map",
 		"publisher": "地图出版社",
@@ -3129,7 +3260,7 @@
 	{
 		"id": "gbt7714.8.13.1:3",
 		"type": "map",
-		"event-place": "Abingdon",
+		"citation-key": "gbt7714.8.13.1:3",
 		"language": "en-US",
 		"note": "tex.entrytype: map",
 		"publisher": "Routledge",
@@ -3148,7 +3279,7 @@
 	{
 		"id": "gbt7714.8.13.1:4",
 		"type": "map",
-		"event-place": "Beijing",
+		"citation-key": "gbt7714.8.13.1:4",
 		"language": "en-US",
 		"note": "Book Title: Coastal erosion and mitigation in east and southeast Asia\npage: 50\ntex.entrytype: map",
 		"publisher": "China Ocean Press",
@@ -3161,7 +3292,7 @@
 	{
 		"id": "gbt7714.8.13.3:1",
 		"type": "map",
-		"event-place": "北京",
+		"citation-key": "gbt7714.8.13.3:1",
 		"language": "zh-CN",
 		"note": "dimensions: 128cm×84cm\ntex.entrytype: map",
 		"publisher": "科学出版社",
@@ -3180,7 +3311,7 @@
 	{
 		"id": "gbt7714.8.13.3:2",
 		"type": "map",
-		"event-place": "武汉",
+		"citation-key": "gbt7714.8.13.3:2",
 		"language": "zh-CN",
 		"note": "dimensions: 138cm×96cm\ntex.entrytype: map",
 		"publisher": "武汉大学出版社",
@@ -3199,6 +3330,7 @@
 	{
 		"id": "gbt7714.8.13.3:3",
 		"type": "map",
+		"citation-key": "gbt7714.8.13.3:3",
 		"language": "zh-CN",
 		"note": "tex.entrytype: map",
 		"title": "一带一路经济走廊及其途经城市分布地势图",
@@ -3207,11 +3339,15 @@
 			{
 				"literal": "国家测绘地理信息局"
 			}
-		]
+		],
+		"accessed": {
+			"date-parts": [["2025", 12, 2]]
+		}
 	},
 	{
 		"id": "gbt7714.8.14.3:1",
 		"type": "dataset",
+		"citation-key": "gbt7714.8.14.3:1",
 		"language": "zh-CN",
 		"note": "tex.cstr: 16666.11.nbsdc.tfpbwtqf",
 		"publisher": "国家基础学科公共科学数据中心",
@@ -3251,10 +3387,10 @@
 	{
 		"id": "gbt7714.8.14.3:2",
 		"type": "dataset",
+		"citation-key": "gbt7714.8.14.3:2",
 		"DOI": "10.12041/geodata.58691800703558.ver1.db",
 		"language": "zh-CN",
-		"note": "tex.cstr: 17099.11.G58691800703558.20200409.v1",
-		"publisher": "国家地理资源科学数据中心-黄土高原分中心",
+		"publisher": "国家地球系统科学数据中心-黄土高原分中心",
 		"title": "青海省县域教育、卫生发展指标（2001—2022年）",
 		"URL": "https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558",
 		"author": [
@@ -3262,6 +3398,9 @@
 				"literal": "黄土高原科学数据中心（西北农林科技大学水土保持研究所）"
 			}
 		],
+		"accessed": {
+			"date-parts": [["2025", 7, 10]]
+		},
 		"issued": {
 			"date-parts": [["2024", 12, 25]]
 		}
@@ -3269,6 +3408,7 @@
 	{
 		"id": "gbt7714.8.14.3:3",
 		"type": "dataset",
+		"citation-key": "gbt7714.8.14.3:3",
 		"language": "en-US",
 		"publisher": "Global Health Data Exchange",
 		"title": "Global Burden of Disease Study 2019 (GBD2019) data resources",
@@ -3288,6 +3428,7 @@
 	{
 		"id": "gbt7714.8.15.2:1",
 		"type": "article",
+		"citation-key": "gbt7714.8.15.2:1",
 		"language": "zh-CN",
 		"note": "CSTR: 32012.36.PSSXiv.202408.01096\ntex.cstr: 32012.36.PSSXiv.202408.01096",
 		"number": "PSSXiv:202408.01096",
@@ -3315,6 +3456,7 @@
 	{
 		"id": "gbt7714.8.15.2:2",
 		"type": "article",
+		"citation-key": "gbt7714.8.15.2:2",
 		"language": "zh-CN",
 		"note": "CSTR: 32003.36.ChinaXiv.202303.00020.V1\ntex.cstr: 32003.36.ChinaXiv.202303.00020.V1",
 		"number": "ChinaXiv:202303.00020",
@@ -3340,8 +3482,9 @@
 	{
 		"id": "gbt7714.8.15.2:3",
 		"type": "article",
+		"citation-key": "gbt7714.8.15.2:3",
 		"language": "en-US",
-		"note": "version: 2",
+		"note": "version: 2\ntex.doi: 10.48550/arXiv.1112.6136",
 		"number": "arXiv:1112.6136",
 		"publisher": "arXiv",
 		"title": "Controlled manipulation of light by cooperative response of atoms in an optical lattice",
@@ -3366,6 +3509,7 @@
 	{
 		"id": "gbt7714.9.2.1.3:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.2.1.3:1",
 		"container-title": "Columbia Law Review",
 		"journalAbbreviation": "Columbia Law Rev.",
 		"language": "en-US",
@@ -3390,7 +3534,7 @@
 	{
 		"id": "gbt7714.9.2.1.3:2",
 		"type": "book",
-		"event-place": "New York",
+		"citation-key": "gbt7714.9.2.1.3:2",
 		"ISBN": "978-0-374-29002-3",
 		"language": "en-US",
 		"publisher": "Farrar, Straus and Giroux",
@@ -3410,7 +3554,7 @@
 	{
 		"id": "gbt7714.9.2.1.3:3",
 		"type": "book",
-		"event-place": "大连",
+		"citation-key": "gbt7714.9.2.1.3:3",
 		"ISBN": "978-7-5654-0485-6",
 		"language": "zh-CN",
 		"note": "page: 15-16",
@@ -3444,7 +3588,7 @@
 	{
 		"id": "gbt7714.9.2.1.3:4",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.9.2.1.3:4",
 		"ISBN": "978-7-101-00992-7",
 		"language": "zh-CN",
 		"note": "page: 29",
@@ -3464,7 +3608,7 @@
 	{
 		"id": "gbt7714.9.2.2:1",
 		"type": "book",
-		"event-place": "New York",
+		"citation-key": "gbt7714.9.2.2:1",
 		"ISBN": "978-1-56024-773-9",
 		"language": "en-US",
 		"publisher": "The Haworth Press",
@@ -3487,7 +3631,7 @@
 	{
 		"id": "gbt7714.9.2.2:2",
 		"type": "book",
-		"event-place": "Littleton, Colo.",
+		"citation-key": "gbt7714.9.2.2:2",
 		"ISBN": "978-0-87287-275-2",
 		"language": "en-US",
 		"publisher": "Libraries Unlimited, Inc.",
@@ -3506,7 +3650,7 @@
 	{
 		"id": "gbt7714.9.2.2:3",
 		"type": "book",
-		"event-place": "海口",
+		"citation-key": "gbt7714.9.2.2:3",
 		"ISBN": "978-7-80617-643-6",
 		"language": "zh-CN",
 		"publisher": "海南出版社",
@@ -3532,7 +3676,7 @@
 	{
 		"id": "gbt7714.9.2.2:4",
 		"type": "book",
-		"event-place": "北京",
+		"citation-key": "gbt7714.9.2.2:4",
 		"ISBN": "978-7-5013-1467-6",
 		"language": "zh-CN",
 		"note": "page: 16",
@@ -3551,6 +3695,7 @@
 	{
 		"id": "gbt7714.9.2.2:5",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.2.2:5",
 		"container-title": "中国图书馆学报",
 		"issue": "2",
 		"language": "zh-CN",
@@ -3568,6 +3713,7 @@
 	{
 		"id": "gbt7714.9.2.2:6",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.2.2:6",
 		"container-title": "Journal of Library Administration",
 		"ISSN": "0193-0826",
 		"issue": "1/2",
@@ -3591,7 +3737,7 @@
 	{
 		"id": "gbt7714.9.3.1.1:1",
 		"type": "book",
-		"event-place": "Chicago",
+		"citation-key": "gbt7714.9.3.1.1:1",
 		"ISBN": "978-0-226-11857-4",
 		"language": "en-US",
 		"publisher": "Univ. of Chicago Press",
@@ -3610,6 +3756,7 @@
 	{
 		"id": "gbt7714.9.3.1.1:2",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.3.1.1:2",
 		"container-title": "College & Research Libraries",
 		"issue": "6",
 		"journalAbbreviation": "Coll. Res. Libr.",
@@ -3631,6 +3778,7 @@
 	{
 		"id": "gbt7714.9.3.1.2:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.3.1.2:1",
 		"container-title": "System",
 		"ISSN": "0346-251X",
 		"issue": "3",
@@ -3638,7 +3786,7 @@
 		"language": "en-US",
 		"note": "10.1016/j.system.2009.03.004",
 		"page": "403-417",
-		"title": "Demotivation: Affective states and learning outcomes",
+		"title": "Demotivation: affective states and learning outcomes",
 		"title-short": "Demotivation",
 		"volume": "37",
 		"author": [
@@ -3662,6 +3810,7 @@
 	{
 		"id": "gbt7714.9.3.1.3:1",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.3.1.3:1",
 		"container-title": "情报理论与实践",
 		"DOI": "10.16353/j.cnki.1000-7490.2000.02.025",
 		"ISSN": "1000-7490",
@@ -3685,13 +3834,14 @@
 	{
 		"id": "gbt7714.9.3.1.3:2",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.3.1.3:2",
 		"container-title": "情报理论与实践",
 		"DOI": "10.16353/j.cnki.1000-7490.2000.04.028",
 		"ISSN": "1000-7490",
 		"issue": "4",
 		"language": "zh-CN",
 		"page": "315-320",
-		"title": "信息计量学（四）：第四讲文献信息离散分布规律——布拉德福定律",
+		"title": "信息计量学（四）：第四讲文献信息离散分布规律：布拉德福定律",
 		"volume": "23",
 		"author": [
 			{
@@ -3708,13 +3858,14 @@
 	{
 		"id": "gbt7714.9.3.1.3:3",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.3.1.3:3",
 		"container-title": "情报理论与实践",
 		"DOI": "10.16353/j.cnki.1000-7490.2000.06.026",
 		"ISSN": "1000-7490",
 		"issue": "6",
 		"language": "zh-CN",
 		"page": "475-478",
-		"title": "信息计量学（六）：第六讲文献信息作者分布规律——洛特卡定律",
+		"title": "信息计量学（六）：第六讲文献信息作者分布规律：洛特卡定律",
 		"volume": "23",
 		"author": [
 			{
@@ -3731,8 +3882,8 @@
 	{
 		"id": "gbt7714.9.3.1.4:1",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.9.3.1.4:1",
 		"container-title": "中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编",
-		"event-place": "北京",
 		"language": "zh-CN",
 		"page": "33-34",
 		"publisher": "中国科学技术期刊编辑学会学术委员会",
@@ -3755,8 +3906,8 @@
 	{
 		"id": "gbt7714.9.3.1.4:2",
 		"type": "book",
+		"citation-key": "gbt7714.9.3.1.4:2",
 		"edition": "修订本",
-		"event-place": "北京",
 		"ISBN": "978-7-100-01777-0",
 		"language": "zh-CN",
 		"publisher": "商务印书馆",
@@ -3774,6 +3925,7 @@
 	{
 		"id": "gbt7714.9.3.1.4:3",
 		"type": "article-journal",
+		"citation-key": "gbt7714.9.3.1.4:3",
 		"container-title": "中国出版",
 		"issue": "5",
 		"language": "zh-CN",
@@ -3792,8 +3944,8 @@
 	{
 		"id": "gbt7714.9.3.1.4:4",
 		"type": "paper-conference",
+		"citation-key": "gbt7714.9.3.1.4:4",
 		"container-title": "中国科协学术期刊编辑工作经验交流会资料选",
-		"event-place": "北京",
 		"language": "zh-CN",
 		"page": "2-10",
 		"publisher": "中国科学技术协会学会工作部",

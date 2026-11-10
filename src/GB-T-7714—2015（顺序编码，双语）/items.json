@@ -1,0 +1,4619 @@
+[
+	{
+		"id": "gbt7714-2015.4.1.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:1",
+		"ISBN": "978-7-101-00992-7",
+		"language": "zh-CN",
+		"note": "page: 29",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "国史旧闻",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "陈登原"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:2",
+		"ISBN": "978-7-300-16689-6",
+		"language": "zh-CN",
+		"note": "page: 235-236",
+		"publisher": "中国人民大学出版社",
+		"publisher-place": "北京",
+		"title": "经济数学与金融数学",
+		"author": [
+			{
+				"literal": "哈里森"
+			},
+			{
+				"literal": "沃尔德伦"
+			}
+		],
+		"translator": [
+			{
+				"literal": "谢远涛"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:3",
+		"language": "zh-CN",
+		"note": "page: 112",
+		"publisher": "民族出版社",
+		"publisher-place": "北京",
+		"title": "历代王朝与民族宗教",
+		"author": [
+			{
+				"literal": "北京市政协民族和宗教委员会"
+			},
+			{
+				"literal": "北京联合大学民族与宗教研究所"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:4",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.4.1.2:4",
+		"language": "zh-CN",
+		"note": "page: 2-3",
+		"number": "GB/T 25100—2010",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "信息与文献 都柏林核心元数据元素集",
+		"author": [
+			{
+				"literal": "全国信息与文献标准化技术委员会"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:5",
+		"language": "zh-CN",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "物质结构",
+		"author": [
+			{
+				"literal": "徐光宪"
+			},
+			{
+				"literal": "王祥云"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:6",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:6",
+		"language": "zh-CN",
+		"publisher": "北京古籍出版社",
+		"publisher-place": "北京",
+		"title": "昌平山水记；京东考古录",
+		"author": [
+			{
+				"literal": "顾炎武"
+			}
+		],
+		"issued": {
+			"date-parts": [["1992"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:7",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:7",
+		"edition": "刻本",
+		"language": "zh-CN",
+		"publisher": "湘乡曾国荃",
+		"publisher-place": "金陵",
+		"title": "宋论",
+		"author": [
+			{
+				"literal": "王夫之"
+			}
+		],
+		"issued": {
+			"date-parts": [["1865"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:8",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:8",
+		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
+		"publisher": "海洋出版社",
+		"publisher-place": "北京",
+		"title": "综合湿地管理国际研讨会论文集",
+		"editor": [
+			{
+				"literal": "牛志明"
+			},
+			{
+				"literal": "斯温兰德"
+			},
+			{
+				"literal": "雷光春"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:9",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:9",
+		"language": "zh-CN",
+		"note": "type: collection\ntex.entrytype: archive",
+		"publisher": "广西师范大学出版社",
+		"publisher-place": "桂林",
+		"title": "中国明朝档案总汇",
+		"author": [
+			{
+				"literal": "中国第一历史档案馆"
+			},
+			{
+				"literal": "辽宁省档案馆"
+			}
+		],
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:10",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:10",
+		"language": "zh-CN",
+		"publisher": "中国人民大学出版社",
+		"publisher-place": "北京",
+		"title": "新闻道德论",
+		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20101104-BPO-889-1023&cult=CN",
+		"author": [
+			{
+				"literal": "杨保军"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 11, 1]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:11",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:11",
+		"ISBN": "7-80149-547-0",
+		"language": "zh-CN",
+		"publisher": "社会科学文献出版社",
+		"publisher-place": "北京",
+		"title": "当代美国外交",
+		"URL": "http://www.cadal.zju.edu.cn/book/trySinglePage/33023884/1",
+		"author": [
+			{
+				"literal": "赵学功"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 11]]
+		},
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:12",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:12",
+		"ISBN": "978-7-5608-4713-9",
+		"language": "zh-CN",
+		"note": "page: 5-6",
+		"publisher": "同济大学出版社",
+		"publisher-place": "上海",
+		"title": "汶川地震灾害研究",
+		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20120406-YPT-889-0010",
+		"author": [
+			{
+				"literal": "同济大学土木工程防灾国家重点实验室"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 5, 9]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:13",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:13",
+		"ISBN": "978-7-5019-4080-6",
+		"language": "zh-CN",
+		"publisher": "中国轻工业出版社",
+		"publisher-place": "北京",
+		"title": "中国造纸年鉴：2003",
+		"title-short": "中国造纸年鉴",
+		"URL": "http://www.cadal.zju.edu.cn/book/view/25010080",
+		"author": [
+			{
+				"literal": "中国造纸学会"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 4, 25]]
+		},
+		"issued": {
+			"date-parts": [["2003"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:14",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:14",
+		"edition": "4",
+		"language": "en-US",
+		"publisher": "McGraw-Hill",
+		"publisher-place": "New York",
+		"title": "Probability, random variables, and random signal principles",
+		"author": [
+			{
+				"family": "Peebles",
+				"given": "Peyton Z.",
+				"suffix": "Jr."
+			}
+		],
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:15",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:15",
+		"language": "en-US",
+		"note": "tex.entrytype: proceedings",
+		"publisher": "A. A. Balkema",
+		"publisher-place": "Rotterdam",
+		"title": "Geoecology and computers: proceedings of the <span class=\"nocase\">Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering</span>, <span class=\"nocase\">Moscow, Russia</span>, February 1-4, 2000",
+		"title-short": "Geoecology and computers",
+		"editor": [
+			{
+				"family": "Yufin",
+				"given": "Sergey A."
+			}
+		],
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:16",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:16",
+		"language": "en-US",
+		"note": "page: 105",
+		"publisher": "Open University Press",
+		"title": "Developing early childhood services: past, present and future",
+		"title-short": "Developing early childhood services",
+		"URL": "http://lib.myilibrary.com/Open.aspx?id=312377",
+		"author": [
+			{
+				"family": "Baldock",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 11, 27]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.1.2:17",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.1.2:17",
+		"DOI": "10.1002/9781118422557",
+		"edition": "2",
+		"ISBN": "978-0-8138-0209-1",
+		"language": "en-US",
+		"note": "page: 25-26",
+		"publisher": "Blackwell Publishing",
+		"publisher-place": "Ames, Iowa",
+		"title": "Food irradiation research and technology",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/9781118422557/summary",
+		"editor": [
+			{
+				"family": "Fan",
+				"given": "Xuetong"
+			},
+			{
+				"family": "Sommers",
+				"given": "Christopher H."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 26]]
+		},
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:1",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.4.2.2:1",
+		"container-title": "船山全书",
+		"edition": "修订版",
+		"ISBN": "978-7-80761-535-4",
+		"language": "zh-CN",
+		"page": "983-1029",
+		"publisher": "岳麓书社",
+		"publisher-place": "长沙",
+		"title": "周易外传：卷5",
+		"title-short": "周易外传",
+		"volume": "第1册",
+		"editor": [
+			{
+				"literal": "王夫之"
+			}
+		],
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:2",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.4.2.2:2",
+		"container-title": "长江流域洪涝灾害与科技对策",
+		"ISBN": "978-7-03-007245-0",
+		"language": "zh-CN",
+		"page": "32-36",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "1998年长江洪水的成因与减灾对策",
+		"author": [
+			{
+				"literal": "程根伟"
+			}
+		],
+		"editor": [
+			{
+				"literal": "许厚泽"
+			},
+			{
+				"literal": "赵其国"
+			}
+		],
+		"issued": {
+			"date-parts": [["1999"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:3",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.4.2.2:3",
+		"container-title": "中国震旦亚界",
+		"language": "zh-CN",
+		"page": "56-114",
+		"publisher": "天津科学技术出版社",
+		"publisher-place": "天津",
+		"title": "蓟县震旦亚界的研究",
+		"author": [
+			{
+				"literal": "陈晋镳"
+			},
+			{
+				"literal": "张惠民"
+			},
+			{
+				"literal": "朱士兴"
+			},
+			{
+				"literal": "赵震"
+			},
+			{
+				"literal": "王振刚"
+			}
+		],
+		"editor": [
+			{
+				"literal": "中国地质科学院天津地质矿产研究所"
+			}
+		],
+		"issued": {
+			"date-parts": [["1980"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:4",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.4.2.2:4",
+		"container-title": "马克思恩格斯全集",
+		"ISBN": "978-7-01-007922-6",
+		"language": "zh-CN",
+		"page": "302",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"title": "政治经济学批判",
+		"volume": "35",
+		"author": [
+			{
+				"literal": "马克思"
+			}
+		],
+		"container-author": [
+			{
+				"literal": "马克思"
+			},
+			{
+				"literal": "恩格斯"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:5",
+		"type": "paper-conference",
+		"citation-key": "gbt7714-2015.4.2.2:5",
+		"container-title": "中国图书馆学会年会论文集",
+		"ISBN": "978-7-5013-4676-9",
+		"language": "zh-CN",
+		"page": "45-52",
+		"publisher": "国家图书馆出版社",
+		"publisher-place": "北京",
+		"title": "面向数字素养的高校图书馆数字服务体系研究",
+		"volume": "2011年卷",
+		"author": [
+			{
+				"literal": "贾东琴"
+			},
+			{
+				"literal": "柯平"
+			}
+		],
+		"editor": [
+			{
+				"literal": "中国图书馆学会"
+			}
+		],
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:6",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.4.2.2:6",
+		"container-title": "Pathologic physiology: mechanisms of disease",
+		"ISBN": "978-0-7216-8472-7",
+		"language": "en-US",
+		"page": "457-472",
+		"publisher": "Saunders",
+		"publisher-place": "Philadelphia",
+		"title": "Pathogenic properties of invading microorganisms",
+		"author": [
+			{
+				"family": "Weinstein",
+				"given": "L."
+			},
+			{
+				"family": "Swartz",
+				"given": "M. N."
+			}
+		],
+		"editor": [
+			{
+				"family": "Sodeman",
+				"given": "William A.",
+				"suffix": "Jr."
+			},
+			{
+				"family": "Sodeman",
+				"given": "William A."
+			}
+		],
+		"issued": {
+			"date-parts": [["1974"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.2.2:7",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.4.2.2:7",
+		"container-title": "Water quality & treatment: a handbook on drinking water",
+		"edition": "6",
+		"ISBN": "978-0-07-163011-5",
+		"language": "en-US",
+		"page": "1.1-1.36",
+		"publisher": "McGraw-Hill",
+		"publisher-place": "New York",
+		"title": "Drinking water standards, regulations, and goals",
+		"URL": "http://lib.myilibrary.com/Open.aspx?id=291430",
+		"author": [
+			{
+				"family": "Roberson",
+				"given": "J. Alan"
+			},
+			{
+				"family": "Burneson",
+				"given": "Eric G."
+			}
+		],
+		"editor": [
+			{
+				"literal": "American Water Works Association"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 12, 10]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.3.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.3.2:1",
+		"language": "zh-CN",
+		"note": "type: periodical\ntex.entrytype: periodical",
+		"publisher": "中华医学会湖北分会",
+		"publisher-place": "武汉",
+		"title": "临床内科杂志",
+		"volume": "1984，1（1）-",
+		"editor": [
+			{
+				"literal": "中华医学会湖北分会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1984"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.3.2:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.3.2:2",
+		"language": "zh-CN",
+		"note": "type: periodical\nissued: 1957/1990\ntex.entrytype: periodical",
+		"publisher": "北京图书馆",
+		"publisher-place": "北京",
+		"title": "图书馆学通讯",
+		"volume": "1957（1）-1990（4）",
+		"editor": [
+			{
+				"literal": "中国图书馆学会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1957"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.3.2:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.4.3.2:3",
+		"language": "en-US",
+		"note": "type: periodical\ntex.entrytype: periodical",
+		"publisher": "American Association for the Advancement of Science",
+		"publisher-place": "Washington, D.C.",
+		"title": "Science",
+		"volume": "1883，1（1）-",
+		"editor": [
+			{
+				"literal": "American Association for the Advancement of Science"
+			}
+		],
+		"issued": {
+			"date-parts": [["1883"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:1",
+		"container-title": "科学通报",
+		"issue": "34",
+		"language": "zh-CN",
+		"page": "3219",
+		"title": "蓝田生物群：一个认识多细胞生物起源和早期演化的新窗口",
+		"title-short": "蓝田生物群",
+		"volume": "57",
+		"author": [
+			{
+				"literal": "袁训来"
+			},
+			{
+				"literal": "陈哲"
+			},
+			{
+				"literal": "肖书海"
+			},
+			{
+				"literal": "万斌"
+			},
+			{
+				"literal": "关成国"
+			},
+			{
+				"literal": "王伟"
+			},
+			{
+				"literal": "周传明"
+			},
+			{
+				"literal": "华洪"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:2",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.4.4.2:2",
+		"container-title": "人民日报",
+		"language": "zh-CN",
+		"page": "2",
+		"title": "我们的科技一直在追赶：访中国工程院院长周济",
+		"title-short": "我们的科技一直在追赶",
+		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_5-02.htm",
+		"author": [
+			{
+				"literal": "余建斌"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 20]]
+		},
+		"issued": {
+			"date-parts": [["2013", 1, 12]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:3",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:3",
+		"container-title": "图书情报工作",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "6-21",
+		"title": "韩国图书馆法",
+		"URL": "http://www.docin.com/p-400265742.html",
+		"volume": "52",
+		"author": [
+			{
+				"literal": "李炳穆"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 25]]
+		},
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:4",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:4",
+		"container-title": "中华移植杂志（电子版）",
+		"issue": "3",
+		"language": "zh-CN",
+		"page": "225-228",
+		"title": "循证医学研究方法：附视频",
+		"title-short": "循证医学研究方法",
+		"URL": "http://www.cqvip.com/Read/Read.aspx?id=36658332",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "李幼平"
+			},
+			{
+				"literal": "王莉"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 9]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:5",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:5",
+		"container-title": "测绘科学",
+		"DOI": "10.3771/j.issn.1009-2307.2008.05.002",
+		"ISSN": "1009-2307",
+		"issue": "5",
+		"language": "zh-CN",
+		"page": "8-9",
+		"title": "“北斗一号”监控管理网设计与实现",
+		"URL": "http://vip.calis.edu.cn/CSTJ/Sear.dll?OPAC_CreateDetail",
+		"volume": "33",
+		"author": [
+			{
+				"literal": "武丽丽"
+			},
+			{
+				"literal": "华一新"
+			},
+			{
+				"literal": "张亚军"
+			},
+			{
+				"literal": "刘英敏"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2009", 10, 25]]
+		},
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:6",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:6",
+		"container-title": "Science",
+		"issue": "5359",
+		"language": "en-US",
+		"note": "10.1126/science.279.5359.2063",
+		"page": "2063",
+		"title": "Shaking without quaking",
+		"volume": "279",
+		"author": [
+			{
+				"family": "Kanamori",
+				"given": "Hiroo"
+			}
+		],
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:7",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:7",
+		"container-title": "The public-access computer systems review",
+		"ISSN": "1048-6542",
+		"issue": "2",
+		"journalAbbreviation": "Public-Access Comput. Syst. Rev.",
+		"language": "en-US",
+		"page": "61-66",
+		"title": "Cataloging internet resources",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Caplan",
+				"given": "Priscilla"
+			}
+		],
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:8",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:8",
+		"container-title": "Biology",
+		"DOI": "10.3390/biology2010378",
+		"issue": "1",
+		"language": "en-US",
+		"page": "378-398",
+		"title": "Next-generation sequencing: from understanding biology to personalized medicine",
+		"title-short": "Next-generation sequencing",
+		"URL": "http://www.mdpi.com/2079-7737/2/1/378",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Frese",
+				"given": "Karen S."
+			},
+			{
+				"family": "Katus",
+				"given": "Hugo A."
+			},
+			{
+				"family": "Meder",
+				"given": "Benjamin"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 19]]
+		},
+		"issued": {
+			"date-parts": [["2013", 3, 1]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.4.2:9",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.4.4.2:9",
+		"container-title": "Nature",
+		"DOI": "10.1038/nature13308",
+		"ISSN": "1476-4687",
+		"language": "en-US",
+		"page": "356-362",
+		"title": "The genome of Eucalyptus grandis",
+		"URL": "http://www.nature.com/nature/journal/v510/n7505/pdf/nature13308.pdf",
+		"volume": "510",
+		"author": [
+			{
+				"family": "Myburg",
+				"given": "Alexander A."
+			},
+			{
+				"family": "Grattapaglia",
+				"given": "Dario"
+			},
+			{
+				"family": "Tuskan",
+				"given": "Gerald A."
+			},
+			{
+				"family": "Hellsten",
+				"given": "Uffe"
+			},
+			{
+				"family": "Hayes",
+				"given": "Richard D."
+			},
+			{
+				"family": "Grimwood",
+				"given": "Jane"
+			},
+			{
+				"family": "Jenkins",
+				"given": "Jerry"
+			},
+			{
+				"family": "Lindquist",
+				"given": "Erika"
+			},
+			{
+				"family": "Tice",
+				"given": "Hope"
+			},
+			{
+				"family": "Bauer",
+				"given": "Diane"
+			},
+			{
+				"family": "Goodstein",
+				"given": "David M."
+			},
+			{
+				"family": "Dubchak",
+				"given": "Inna"
+			},
+			{
+				"family": "Poliakov",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Mizrachi",
+				"given": "Eshchar"
+			},
+			{
+				"family": "Kullan",
+				"given": "Anand R. K."
+			},
+			{
+				"family": "Hussey",
+				"given": "Steven G."
+			},
+			{
+				"family": "Pinard",
+				"given": "Desre"
+			},
+			{
+				"family": "Merwe",
+				"given": "Karen",
+				"non-dropping-particle": "van der"
+			},
+			{
+				"family": "Singh",
+				"given": "Pooja"
+			},
+			{
+				"family": "Jaarsveld",
+				"given": "Ida",
+				"non-dropping-particle": "van"
+			},
+			{
+				"family": "Silva-Junior",
+				"given": "Orzenil B."
+			},
+			{
+				"family": "Togawa",
+				"given": "Roberto C."
+			},
+			{
+				"family": "Pappas",
+				"given": "Marilia R."
+			},
+			{
+				"family": "Faria",
+				"given": "Danielle A."
+			},
+			{
+				"family": "Sansaloni",
+				"given": "Carolina P."
+			},
+			{
+				"family": "Petroli",
+				"given": "Cesar D."
+			},
+			{
+				"family": "Yang",
+				"given": "Xiaohan"
+			},
+			{
+				"family": "Ranjan",
+				"given": "Priya"
+			},
+			{
+				"family": "Tschaplinski",
+				"given": "Timothy J."
+			},
+			{
+				"family": "Ye",
+				"given": "Chu-Yu"
+			},
+			{
+				"family": "Li",
+				"given": "Ting"
+			},
+			{
+				"family": "Sterck",
+				"given": "Lieven"
+			},
+			{
+				"family": "Vanneste",
+				"given": "Kevin"
+			},
+			{
+				"family": "Murat",
+				"given": "Florent"
+			},
+			{
+				"family": "Soler",
+				"given": "Marçal"
+			},
+			{
+				"family": "Clemente",
+				"given": "Hélène San"
+			},
+			{
+				"family": "Saidi",
+				"given": "Naijib"
+			},
+			{
+				"family": "Cassan-Wang",
+				"given": "Hua"
+			},
+			{
+				"family": "Dunand",
+				"given": "Christophe"
+			},
+			{
+				"family": "Hefer",
+				"given": "Charles A."
+			},
+			{
+				"family": "Bornberg-Bauer",
+				"given": "Erich"
+			},
+			{
+				"family": "Kersting",
+				"given": "Anna R."
+			},
+			{
+				"family": "Vining",
+				"given": "Kelly"
+			},
+			{
+				"family": "Amarasinghe",
+				"given": "Vindhya"
+			},
+			{
+				"family": "Ranik",
+				"given": "Martin"
+			},
+			{
+				"family": "Naithani",
+				"given": "Sushma"
+			},
+			{
+				"family": "Elser",
+				"given": "Justin"
+			},
+			{
+				"family": "Boyd",
+				"given": "Alexander E."
+			},
+			{
+				"family": "Liston",
+				"given": "Aaron"
+			},
+			{
+				"family": "Spatafora",
+				"given": "Joseph W."
+			},
+			{
+				"family": "Dharmwardhana",
+				"given": "Palitha"
+			},
+			{
+				"family": "Raja",
+				"given": "Rajani"
+			},
+			{
+				"family": "Sullivan",
+				"given": "Christopher"
+			},
+			{
+				"family": "Romanel",
+				"given": "Elisson"
+			},
+			{
+				"family": "Alves-Ferreira",
+				"given": "Marcio"
+			},
+			{
+				"family": "Külheim",
+				"given": "Carsten"
+			},
+			{
+				"family": "Foley",
+				"given": "William"
+			},
+			{
+				"family": "Carocha",
+				"given": "Victor"
+			},
+			{
+				"family": "Paiva",
+				"given": "Jorge"
+			},
+			{
+				"family": "Kudrna",
+				"given": "David"
+			},
+			{
+				"family": "Brommonschenkel",
+				"given": "Sergio H."
+			},
+			{
+				"family": "Pasquali",
+				"given": "Giancarlo"
+			},
+			{
+				"family": "Byrne",
+				"given": "Margaret"
+			},
+			{
+				"family": "Rigault",
+				"given": "Philippe"
+			},
+			{
+				"family": "Tibbits",
+				"given": "Josquin"
+			},
+			{
+				"family": "Spokevicius",
+				"given": "Antanas"
+			},
+			{
+				"family": "Jones",
+				"given": "Rebecca C."
+			},
+			{
+				"family": "Steane",
+				"given": "Dorothy A."
+			},
+			{
+				"family": "Vaillancourt",
+				"given": "René E."
+			},
+			{
+				"family": "Potts",
+				"given": "Brad M."
+			},
+			{
+				"family": "Joubert",
+				"given": "Fourie"
+			},
+			{
+				"family": "Barry",
+				"given": "Kerrie"
+			},
+			{
+				"family": "Pappas",
+				"given": "Georgios J."
+			},
+			{
+				"family": "Strauss",
+				"given": "Steven H."
+			},
+			{
+				"family": "Jaiswal",
+				"given": "Pankaj"
+			},
+			{
+				"family": "Grima-Pettenati",
+				"given": "Jacqueline"
+			},
+			{
+				"family": "Salse",
+				"given": "Jérôme"
+			},
+			{
+				"family": "Van de Peer",
+				"given": "Yves"
+			},
+			{
+				"family": "Rokhsar",
+				"given": "Daniel S."
+			},
+			{
+				"family": "Schmutz",
+				"given": "Jeremy"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 25]]
+		},
+		"issued": {
+			"date-parts": [["2014", 6, 19]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.5.2:1",
+		"type": "patent",
+		"authority": "国家知识产权局",
+		"call-number": "CN200610171314.3",
+		"citation-key": "gbt7714-2015.4.5.2:1",
+		"issue": "CN200510022322.7 20051216",
+		"language": "zh-CN",
+		"note": "jurisdiction: 中国\ntex.number: CN200610171314.3",
+		"number": "CN101106276A",
+		"title": "全智能节电器",
+		"author": [
+			{
+				"literal": "邓一刚"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008", 1, 16]]
+		},
+		"submitted": {
+			"date-parts": [["2006", 12, 13]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.5.2:2",
+		"type": "patent",
+		"authority": "国家知识产权局",
+		"call-number": "01128777.2",
+		"citation-key": "gbt7714-2015.4.5.2:2",
+		"language": "zh-CN",
+		"note": "jurisdiction: 中国\ntex.number: 01128777.2",
+		"number": "CN1338652A",
+		"title": "光折变自适应光外差探测方法",
+		"URL": "http://211.152.9.47/sipoasp/zljs/hyjs-yx-new.asp?recid=01128777.2&leixin=0",
+		"author": [
+			{
+				"literal": "石顺祥"
+			},
+			{
+				"literal": "许海平"
+			},
+			{
+				"literal": "孙艳玲"
+			},
+			{
+				"literal": "陈利菊"
+			},
+			{
+				"literal": "李家立"
+			},
+			{
+				"literal": "刘继芳"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2002", 5, 28]]
+		},
+		"issued": {
+			"date-parts": [["2002", 3, 6]]
+		},
+		"submitted": {
+			"date-parts": [["2001", 9, 5]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.5.2:3",
+		"type": "patent",
+		"authority": "U.S. Patent and Trademark Office",
+		"call-number": "US09894043",
+		"citation-key": "gbt7714-2015.4.5.2:3",
+		"language": "en-US",
+		"note": "jurisdiction: U.S.\ntex.number: US09894043\nInternational Business Machines Corp",
+		"number": "US6915001",
+		"title": "Electronic watermarking method and system",
+		"URL": "http://www.google.co.in/patents/US6915001",
+		"author": [
+			{
+				"family": "Tachibana",
+				"given": "Ryuki"
+			},
+			{
+				"family": "Shimizu",
+				"given": "Shuhichi"
+			},
+			{
+				"family": "Kobayashi",
+				"given": "Seiji"
+			},
+			{
+				"family": "Nakamura",
+				"given": "Taiga"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 11, 11]]
+		},
+		"issued": {
+			"date-parts": [["2005", 7, 5]]
+		},
+		"submitted": {
+			"date-parts": [["2001", 6, 28]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.6.2:1",
+		"type": "report",
+		"citation-key": "gbt7714-2015.4.6.2:1",
+		"language": "zh-CN",
+		"title": "第29次中国互联网络发展状况统计报告",
+		"URL": "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680",
+		"author": [
+			{
+				"literal": "中国互联网络信息中心"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 26]]
+		},
+		"issued": {
+			"date-parts": [["2012", 1, 16]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.6.2:2",
+		"type": "legislation",
+		"citation-key": "gbt7714-2015.4.6.2:2",
+		"language": "zh-CN",
+		"note": "type: regulation",
+		"number": "京政办发［2005］37 号",
+		"title": "关于转发北京市企业投资项目核准暂行实施办法的通知",
+		"URL": "http://china.findlaw.cn/fagui/p_1/39934.html",
+		"author": [
+			{
+				"literal": "北京市人民政府办公厅"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2011", 7, 12]]
+		},
+		"issued": {
+			"date-parts": [["2005", 7, 12]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.6.2:3",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.4.6.2:3",
+		"language": "en-US",
+		"title": "Origins and concepts of digital literacy",
+		"URL": "http://www.soi.city.ac.uk/~dbawden/digital%20literacy%20chapter.pdf",
+		"author": [
+			{
+				"family": "Bawden",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 8]]
+		},
+		"issued": {
+			"date-parts": [["2008", 5, 4]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.6.2:4",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.4.6.2:4",
+		"language": "en-US",
+		"title": "About OCLC: history of cooperation",
+		"title-short": "About OCLC",
+		"URL": "http://www.oclc.org/about/cooperation.en.html",
+		"author": [
+			{
+				"literal": "Online Computer Library Center, Inc."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 3, 27]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.4.6.2:5",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.4.6.2:5",
+		"language": "en-US",
+		"title": "UNIMARC and metadata: Dublin Core",
+		"title-short": "UNIMARC and metadata",
+		"URL": "http://archive.ifla.org/IV/ifla64/138-161e.htm",
+		"author": [
+			{
+				"family": "Hopkinson",
+				"given": "Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 27]]
+		},
+		"issued": {
+			"date-parts": [["2009", 4, 22]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.6.1.1:1",
+		"language": "zh-CN",
+		"note": "page: 1",
+		"publisher": "复旦大学出版社",
+		"publisher-place": "上海",
+		"title": "软物质物理导论",
+		"author": [
+			{
+				"literal": "周鲁卫"
+			}
+		],
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.1:2",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.1:2",
+		"container-title": "北京大学学报（哲学社会科学版）",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "75",
+		"title": "《五行》学说与《荀子》",
+		"volume": "50",
+		"author": [
+			{
+				"literal": "常森"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.1:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.6.1.1:3",
+		"ISBN": "978-89-88867-94-5",
+		"language": "ko-KR",
+		"note": "page: 15",
+		"number-of-pages": "185",
+		"publisher": "한국 문화 관광 정책 연구원",
+		"publisher-place": "서울",
+		"source": "Google Books",
+		"title": "도서관 및 독서진흥법 개정안 연구",
+		"author": [
+			{
+				"literal": "김세훈"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [["2003"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.1:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.6.1.1:4",
+		"ISBN": "978-4-7601-2489-3",
+		"language": "ja-JP",
+		"note": "page: 154",
+		"publisher": "柏書房株式会社",
+		"publisher-place": "東京",
+		"title": "最新図書館用語大辞典",
+		"editor": [
+			{
+				"literal": "図書館用語辞典編集委員会"
+			}
+		],
+		"issued": {
+			"date-parts": [["2004", 4, 30]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.1:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.6.1.1:5",
+		"ISBN": "978-0-415-45425-4",
+		"language": "en-US",
+		"note": "page: 12",
+		"number-of-pages": "273",
+		"publisher": "Taylor & Francis",
+		"publisher-place": "London",
+		"title": "Economics for the modern built environment",
+		"URL": "http://lib.myilibrary.com/Open.aspx?id=179660",
+		"editor": [
+			{
+				"family": "Ruddock",
+				"given": "Leslie"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2010", 6, 15]]
+		},
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.1:6",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.1:6",
+		"container-title": "Отечественная геология",
+		"issue": "7",
+		"language": "ru-RU",
+		"page": "50-58",
+		"title": "Молибден-медно-золото-порфировое месторождение Рябиновое",
+		"author": [
+			{
+				"family": "Кочетков",
+				"given": "А. Я."
+			}
+		],
+		"issued": {
+			"date-parts": [["1993"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.2:1a",
+		"type": "book",
+		"citation-key": "gbt7714-2015.6.1.2:1a",
+		"language": "ko-KR",
+		"note": "page: 67-68",
+		"publisher": "구미무역 출판부",
+		"publisher-place": "서울",
+		"title": "도서관법규총람",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "이병목"
+			}
+		],
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.2:1b",
+		"type": "book",
+		"citation-key": "gbt7714-2015.6.1.2:1b",
+		"language": "zh-CN",
+		"note": "page: 67-68",
+		"publisher": "九美贸易出版部",
+		"publisher-place": "首尔",
+		"title": "图书馆法规总览",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "李炳穆"
+			}
+		],
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.2:2a",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.2:2a",
+		"container-title": "圖書館文化",
+		"issue": "7",
+		"language": "ko-KR",
+		"page": "11-12",
+		"title": "도서관정보정책위원회 발족식 및 도서관정보정책기획단 신설",
+		"volume": "48",
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.2:2b",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.2:2b",
+		"container-title": "图书馆文化",
+		"issue": "7",
+		"language": "zh-CN",
+		"page": "11-12",
+		"title": "图书馆信息政策委员会成立仪式与图书馆信息政策规划团",
+		"volume": "48",
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.3:1a",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.3:1a",
+		"container-title": "中国物价",
+		"issue": "8",
+		"language": "zh-CN",
+		"page": "42-45",
+		"title": "从交易费用的角度谈如何构建药品流通的良性机制",
+		"author": [
+			{
+				"literal": "熊平"
+			},
+			{
+				"literal": "吴颉"
+			}
+		],
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.3:1b",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.3:1b",
+		"container-title": "China price",
+		"issue": "8",
+		"language": "en-US",
+		"page": "42-45",
+		"title": "Discussion on how to construct benign medicine circulation mechanism from transaction cost perspective",
+		"author": [
+			{
+				"family": "Xiong",
+				"given": "Ping"
+			},
+			{
+				"family": "Wu",
+				"given": "Xie"
+			}
+		],
+		"issued": {
+			"date-parts": [["2005"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.3:2a",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.3:2a",
+		"container-title": "上海食品药品监管情报研究",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "8-11",
+		"title": "互联网药品经营现状和监管机制的研究",
+		"author": [
+			{
+				"literal": "上海市食品药品监督管理局课题组"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.6.1.3:2b",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.6.1.3:2b",
+		"container-title": "Shanghai food and drug information research",
+		"issue": "1",
+		"language": "en-US",
+		"page": "8-11",
+		"title": "A study on online pharmaceutical operating situation and supervision mechanism",
+		"author": [
+			{
+				"literal": "Research Group of Shanghai Food and Drug Administration"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.7.1.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.7.1.1:1",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "李时珍"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:1",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "李时珍"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:2",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "乔纳斯"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:3",
+		"language": "zh-CN",
+		"author": [
+			{
+				"family": "昂温",
+				"given": "S."
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:4",
+		"language": "zh-CN",
+		"author": [
+			{
+				"family": "昂温",
+				"given": "G."
+			},
+			{
+				"family": "昂温",
+				"given": "P. S."
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:5",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "丸山敏秋"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:6",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:6",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "凯西尔"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:7",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:7",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Einstein",
+				"given": "Albert"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:8",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:8",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Williams-Ellis",
+				"given": "Amabel"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:9",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:9",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "De Morgan",
+				"given": "Augustus"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:10",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:10",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Jiangning"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.1:11",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.1:11",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Li",
+				"given": "Jiang Ning"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.2:1",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "钱学森"
+			},
+			{
+				"literal": "刘再复"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.2:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.2:2",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "李四光"
+			},
+			{
+				"literal": "华罗庚"
+			},
+			{
+				"literal": "茅以升"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.2:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.2:3",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "印森林"
+			},
+			{
+				"literal": "吴胜和"
+			},
+			{
+				"literal": "李俊飞"
+			},
+			{
+				"literal": "冯文杰"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.2:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.2:4",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Fordham",
+				"given": "Ernest W."
+			},
+			{
+				"family": "Ali",
+				"given": "Amiad"
+			},
+			{
+				"family": "Truner",
+				"given": "David A."
+			},
+			{
+				"family": "Charters",
+				"given": "John R."
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.3:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.1.3:1",
+		"container-title": "Br. Med. J.",
+		"issue": "6292",
+		"language": "en-US",
+		"note": "10.1136/bmj.283.6292.628",
+		"page": "628",
+		"title": "Coffee drinking and cancer of the pancreas",
+		"volume": "283",
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.1.4:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.4:1",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "中国科学院物理研究所"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.4:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.4:2",
+		"language": "zh-CN",
+		"author": [
+			{
+				"literal": "贵州省土穰普查办公室"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.4:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.4:3",
+		"language": "en-US",
+		"author": [
+			{
+				"literal": "American Chemical Society"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.1.4:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.1.4:4",
+		"language": "en-US",
+		"author": [
+			{
+				"literal": "Stanford University. Department of Civil Engineering"
+			}
+		]
+	},
+	{
+		"id": "gbt7714-2015.8.2.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.1:1",
+		"language": "zh-CN",
+		"title": "为人民服务；纪念白求恩；愚公移山"
+	},
+	{
+		"id": "gbt7714-2015.8.2.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.1:2",
+		"language": "zh-CN",
+		"title": "大趋势"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.3:1",
+		"language": "zh-CN",
+		"title": "地壳运动假说：从大陆漂移到板块构造"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.3:2",
+		"language": "zh-CN",
+		"title": "三松堂全集",
+		"volume": "4"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.3:3",
+		"language": "zh-CN",
+		"title": "世界出版业",
+		"volume": "美国卷"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.3:4",
+		"language": "zh-CN",
+		"title": "ECL集成电路：原理与设计"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2.3:5",
+		"collection-title": "中国科学技术史",
+		"language": "zh-CN",
+		"title": "科学思想史",
+		"volume": "2"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:6",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.2.3:6",
+		"language": "zh-CN",
+		"title": "商鞅战秋菊：法治转型的一个思想实验"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:7",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.2.3:7",
+		"container-title": "中国科学：D 辑 地球科学",
+		"language": "zh-CN"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:8",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.8.2.3:8",
+		"language": "zh-CN",
+		"number": "GB/T 25100—2010",
+		"title": "信息与文献 都柏林核心元数据元素集"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:9",
+		"type": "report",
+		"citation-key": "gbt7714-2015.8.2.3:9",
+		"language": "zh-CN",
+		"number": "CNIC-01887",
+		"title": "中子反射数据分析技术"
+	},
+	{
+		"id": "gbt7714-2015.8.2.3:10",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.2.3:10",
+		"container-title": "<span class=\"nocase\">Asian Pacific</span> Journal of Cancer Prevention: E-Only",
+		"journalAbbreviation": "Asian Pac. J. Cancer Prev. E-Only",
+		"language": "en-US"
+	},
+	{
+		"id": "gbt7714-2015.8.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2:1",
+		"language": "zh-CN",
+		"title": "王夫之“乾坤并建”的诠释面向"
+	},
+	{
+		"id": "gbt7714-2015.8.2:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2:2",
+		"language": "zh-CN",
+		"title": "张子正蒙注"
+	},
+	{
+		"id": "gbt7714-2015.8.2:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2:3",
+		"language": "zh-CN",
+		"title": "化学动力学和反应器原理"
+	},
+	{
+		"id": "gbt7714-2015.8.2:4a",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2:4a",
+		"language": "zh-CN",
+		"title": "袖珍神学"
+	},
+	{
+		"id": "gbt7714-2015.8.2:4b",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2:4b",
+		"language": "zh-CN",
+		"title": "简明基督教词典"
+	},
+	{
+		"id": "gbt7714-2015.8.2:5",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.2:5",
+		"container-title": "北京师范大学学报（然科学版）",
+		"language": "zh-CN"
+	},
+	{
+		"id": "gbt7714-2015.8.2:6",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.2:6",
+		"language": "en-US",
+		"title": "Gases in sea ice 1975-1979"
+	},
+	{
+		"id": "gbt7714-2015.8.2:7",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.2:7",
+		"container-title": "J. Math & Phys.",
+		"language": "en-US"
+	},
+	{
+		"id": "gbt7714-2015.8.3:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.3:1",
+		"edition": "3",
+		"language": "zh-CN"
+	},
+	{
+		"id": "gbt7714-2015.8.3:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.3:2",
+		"edition": "新1版",
+		"language": "zh-CN"
+	},
+	{
+		"id": "gbt7714-2015.8.3:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.3:3",
+		"edition": "明刻本",
+		"language": "zh-CN"
+	},
+	{
+		"id": "gbt7714-2015.8.3:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.3:4",
+		"edition": "5",
+		"language": "en-US"
+	},
+	{
+		"id": "gbt7714-2015.8.3:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.3:5",
+		"edition": "Rev. ed.",
+		"language": "en-US"
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.1:1",
+		"language": "en-US",
+		"publisher": "Academic Press",
+		"publisher-place": "Cambridge, Eng."
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.1:2",
+		"language": "en-US",
+		"publisher": "Academic Press",
+		"publisher-place": "Cambridge, Mass."
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.2:1",
+		"language": "zh-CN",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.2:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.2:2",
+		"language": "en-US",
+		"publisher": "Butterworths",
+		"publisher-place": "London",
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.3:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.3:1",
+		"language": "zh-CN",
+		"publisher": "三户图书刊行社",
+		"issued": {
+			"date-parts": [["1990"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.3:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.3:2",
+		"language": "en-US",
+		"publisher": "MacMillan",
+		"issued": {
+			"date-parts": [["1975"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.1.3:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.1.3:3",
+		"language": "en-US",
+		"note": "page: 105",
+		"publisher": "Open University Press",
+		"URL": "http://lib.myilibrary.com/Open.aspx?id=312377",
+		"accessed": {
+			"date-parts": [["2014", 6, 16]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.2.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.2.1:1",
+		"language": "zh-CN",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京"
+	},
+	{
+		"id": "gbt7714-2015.8.4.2.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.2.1:2",
+		"language": "en-US",
+		"publisher": "Elsevier Science Publishers",
+		"publisher-place": "Cambridge"
+	},
+	{
+		"id": "gbt7714-2015.8.4.2.1:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.2.1:3",
+		"language": "en-US",
+		"publisher": "IRRI",
+		"publisher-place": "Cambridge"
+	},
+	{
+		"id": "gbt7714-2015.8.4.2.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.2.2:1",
+		"language": "en-US",
+		"publisher": "ALA",
+		"publisher-place": "Chicago",
+		"issued": {
+			"date-parts": [["1978"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.2.3:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.2.3:1",
+		"language": "zh-CN",
+		"publisher-place": "哈尔滨",
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.2.3:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.2.3:2",
+		"language": "en-US",
+		"publisher-place": "Salt Lake City",
+		"issued": {
+			"date-parts": [["1964"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.3.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.3.1:1",
+		"language": "zh-CN",
+		"issued": {
+			"date-parts": [["1947"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.3.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.3.1:2",
+		"language": "zh-CN",
+		"issued": {
+			"date-parts": [["1705"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.3.2:1",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.8.4.3.2:1",
+		"language": "zh-CN",
+		"issued": {
+			"date-parts": [["2013", 1, 8]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.3.3:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.3.3:1",
+		"language": "zh-CN",
+		"issued": {
+			"literal": "c1988"
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.3.3:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.3.3:2",
+		"language": "zh-CN",
+		"issued": {
+			"date-parts": [["1985"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.3.3:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4.3.3:3",
+		"language": "zh-CN",
+		"note": "issued: 1936?",
+		"issued": {
+			"date-parts": [["1936"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4.4:1",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.8.4.4:1",
+		"language": "zh-CN",
+		"URL": "http://www.example.com/",
+		"accessed": {
+			"date-parts": [["2013", 11, 12]]
+		},
+		"issued": {
+			"date-parts": [["2012", 5, 3]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4:1",
+		"language": "zh-CN",
+		"publisher": "人民出版社",
+		"publisher-place": "北京",
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.4:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.4:2",
+		"language": "en-US",
+		"publisher": "Academic Press",
+		"publisher-place": "New York",
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.5:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.5:1",
+		"language": "zh-CN",
+		"note": "page: 19",
+		"publisher": "上海古籍出版社",
+		"publisher-place": "上海",
+		"title": "中国佛教疑伪经综录",
+		"author": [
+			{
+				"literal": "曹凌"
+			}
+		],
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.5:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.5:2",
+		"language": "zh-CN",
+		"note": "page: 序2–3",
+		"publisher": "山西科学技术出版社",
+		"publisher-place": "太原",
+		"title": "创建系统学",
+		"author": [
+			{
+				"literal": "钱学森"
+			}
+		],
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.5:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.5:3",
+		"edition": "2",
+		"ISBN": "978-7-81119-421-0",
+		"language": "zh-CN",
+		"note": "page: 第1版自序",
+		"publisher": "北京大学出版社",
+		"publisher-place": "北京",
+		"title": "冯友兰自选集",
+		"author": [
+			{
+				"literal": "冯友兰"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.5:4",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.8.5:4",
+		"container-title": "苏颂与《本草图经》研究",
+		"ISBN": "978-7-80573-415-6",
+		"language": "zh-CN",
+		"page": "扉页",
+		"publisher": "长春出版社",
+		"publisher-place": "长春",
+		"title": "题词",
+		"author": [
+			{
+				"literal": "李约瑟"
+			}
+		],
+		"container-author": [
+			{
+				"literal": "苏克福"
+			},
+			{
+				"literal": "管成学"
+			},
+			{
+				"literal": "邓明鲁"
+			}
+		],
+		"issued": {
+			"date-parts": [["1991"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.5:5",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.5:5",
+		"container-title": "ACS chemical biology",
+		"DOI": "10.1021/cb3005325",
+		"language": "en-US",
+		"page": "473–487",
+		"title": "Revealing nature’s synthetic potential through the study of ribosomal natural product biosynthesis",
+		"URL": "http://pubs.acs.org/doi/pdfplus/10.1021/cb3005325",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Dunbar",
+				"given": "Kyle L."
+			},
+			{
+				"family": "Mitchell",
+				"given": "Douglas A."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 16]]
+		},
+		"issued": {
+			"date-parts": [["2013", 1, 3]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.6:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.6:1",
+		"container-title": "中华肿瘤杂志",
+		"issue": "10",
+		"language": "zh-CN",
+		"note": "10.3760/cma.j.issn.0253-3766.2010.10.001",
+		"page": "721–724",
+		"title": "恶性肿瘤个体化治疗靶向药物的临床表现",
+		"URL": "http://vip.calis.edu.cn/asp/Detail.asp",
+		"volume": "32",
+		"author": [
+			{
+				"literal": "储大同"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 25]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.6:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.6:2",
+		"language": "en-US",
+		"note": "page: 38",
+		"publisher": "Cambridge University Press Textbooks",
+		"publisher-place": "Cambridge, Eng.",
+		"title": "Microarchaeology: beyond the visible archaeological record",
+		"URL": "http://lib.myilibrary.com/Open.aspx?id=253897",
+		"author": [
+			{
+				"family": "Weiner",
+				"given": "Stephen"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 14]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.7:1",
+		"type": "thesis",
+		"citation-key": "gbt7714-2015.8.7:1",
+		"DOI": "10.7666/d.y351065",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"note": "page: 17-18",
+		"publisher": "中国科学技术大学",
+		"publisher-place": "合肥",
+		"title": "生物质材料热解失重动力学及其分析方法研究",
+		"URL": "http://wenku.baidu.com/link?url=GJDJxb4lxBUXnIPmq1XoEGSIr1H8TMLbidW_LjlYu33tpt707u62rKliypU_FBGUmox7ovPNaVIVBALAMd5yfwuKUUOAGYuB7cuZ-BYEhXa",
+		"author": [
+			{
+				"literal": "刘乃安"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 8, 29]]
+		},
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.7:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.8.7:2",
+		"DOI": "10.1002/9781444305036",
+		"ISBN": "978-1-4051-6183-1",
+		"language": "en-US",
+		"note": "page: 21-22",
+		"publisher": "John Wiley & Sons",
+		"publisher-place": "New York",
+		"title": "A companion to California history",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/9781444305036/summary",
+		"editor": [
+			{
+				"family": "Deverell",
+				"given": "William"
+			},
+			{
+				"family": "Igler",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 24]]
+		},
+		"issued": {
+			"date-parts": [["2013", 11, 15]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.1:1",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.8.8.1:1",
+		"container-title": "中国转型的理论分析：奥地利学派的视角",
+		"language": "zh-CN",
+		"page": "44",
+		"publisher": "浙江大学出版社",
+		"publisher-place": "杭州",
+		"title": "作为一种制度变迁模式的“转型”",
+		"author": [
+			{
+				"literal": "姚中秋"
+			}
+		],
+		"editor": [
+			{
+				"literal": "罗卫东"
+			},
+			{
+				"literal": "姚中秋"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.1:2",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.1:2",
+		"container-title": "编辑学报",
+		"issue": "2",
+		"language": "zh-CN",
+		"note": "http://bjxb.cessp.org.cn/ch/reader/view_abstract.aspx?file_no=20140215&flag=1\n10.16811/j.cnki.1001-4314.2014.02.018",
+		"page": "144–146",
+		"title": "科技期刊编辑审读中要注重比较思维的科学运用",
+		"volume": "26",
+		"author": [
+			{
+				"literal": "关立哲"
+			},
+			{
+				"literal": "韩纪富"
+			},
+			{
+				"literal": "张晨延"
+			}
+		],
+		"issued": {
+			"date-parts": [["2014"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.1:3",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.1:3",
+		"container-title": "Library journal",
+		"issue": "2",
+		"journalAbbreviation": "Libr. J.",
+		"language": "en-US",
+		"page": "124–125",
+		"title": "Online databases: quality control",
+		"volume": "113",
+		"author": [
+			{
+				"family": "Tenopir",
+				"given": "Carol"
+			}
+		],
+		"issued": {
+			"date-parts": [["1987"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.2:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.2:1",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "5–6",
+		"volume": "1",
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.2:2",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.2:2",
+		"language": "zh-CN",
+		"page": "356–363",
+		"volume": "510",
+		"issued": {
+			"date-parts": [["2014"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.2:3",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.2:3",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "23",
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.2:4",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.2:4",
+		"issue": "增刊2",
+		"language": "zh-CN",
+		"page": "81–86",
+		"volume": "22",
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.3:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.3:1",
+		"issue": "9/10",
+		"language": "zh-CN",
+		"page": "36–39",
+		"issued": {
+			"date-parts": [["2001"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.4:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.8.8.4:1",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "20-25；2011，33（3）：26-30",
+		"volume": "33",
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.8.8.5:1",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.8.8.5:1",
+		"language": "zh-CN",
+		"page": "1",
+		"issued": {
+			"date-parts": [["2013", 3, 16]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.9.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.9.1:1",
+		"ISBN": "978-1-56024-773-9",
+		"language": "en-US",
+		"publisher": "The Haworth Press",
+		"publisher-place": "New York",
+		"title": "The future of resource sharing",
+		"author": [
+			{
+				"family": "Baker",
+				"given": "Shirley K."
+			},
+			{
+				"family": "Jackson",
+				"given": "Mary E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1995"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.9.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.9.1:2",
+		"ISBN": "978-0-87287-275-2",
+		"language": "en-US",
+		"publisher": "Libraries Unlimited, Inc.",
+		"publisher-place": "Littleton, Colo.",
+		"title": "Introduction to library services for library technicians",
+		"author": [
+			{
+				"family": "Chernik",
+				"given": "Barbara E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1982"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.9.1:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.9.1:3",
+		"ISBN": "978-7-80617-643-6",
+		"language": "zh-CN",
+		"publisher": "海南出版社",
+		"publisher-place": "海口",
+		"title": "数字化生存",
+		"author": [
+			{
+				"literal": "尼葛洛庞帝"
+			}
+		],
+		"translator": [
+			{
+				"literal": "胡泳"
+			},
+			{
+				"literal": "范海燕"
+			}
+		],
+		"issued": {
+			"date-parts": [["1996"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.9.1:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.9.1:4",
+		"ISBN": "978-7-5013-1467-6",
+		"language": "zh-CN",
+		"note": "page: 16",
+		"publisher": "北京图书馆出版社",
+		"publisher-place": "北京",
+		"title": "电子图书馆理论与实践研究",
+		"author": [
+			{
+				"literal": "汪冰"
+			}
+		],
+		"issued": {
+			"date-parts": [["1997"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.9.1:5",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.9.1:5",
+		"container-title": "中国图书馆学报",
+		"issue": "2",
+		"language": "zh-CN",
+		"page": "24-29",
+		"title": "电子图书馆的现实模型",
+		"author": [
+			{
+				"literal": "杨宗英"
+			}
+		],
+		"issued": {
+			"date-parts": [["1996"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.9.1:6",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.9.1:6",
+		"container-title": "Journal of library administration",
+		"ISSN": "0193-0826",
+		"issue": "1/2",
+		"journalAbbreviation": "J. Libr. Adm.",
+		"language": "en-US",
+		"note": "10.1300/J111V21N01_02",
+		"page": "5-26",
+		"title": "The research university’s dilemma: resource sharing and research in a transinstitutional environment",
+		"title-short": "The research university’s dilemma",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Dowler",
+				"given": "Lawrence"
+			}
+		],
+		"issued": {
+			"date-parts": [["1995"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.1.3:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.10.1.3:1",
+		"container-title": "Columbia law review",
+		"journalAbbreviation": "Columbia Law Rev.",
+		"language": "en-US",
+		"note": "10.2307/1123430",
+		"page": "903",
+		"title": "Social norms and social roles",
+		"URL": "http://www.heinonline.org/HOL/Page?handle=hein.journals/clr96&id=913&collection=journals&index=journals/clr",
+		"volume": "96",
+		"author": [
+			{
+				"family": "Sunstein",
+				"given": "Cass R."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 1, 26]]
+		},
+		"issued": {
+			"date-parts": [["1996"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.1.3:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.10.1.3:2",
+		"ISBN": "978-0-374-29002-3",
+		"language": "en-US",
+		"publisher": "Farrar, Straus and Giroux",
+		"publisher-place": "New York",
+		"title": "Why the West rules—for now: the patterns of history, and what they reveal about the future",
+		"title-short": "Why the West rules—for now",
+		"author": [
+			{
+				"family": "Morris",
+				"given": "Ian"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.1.3:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.10.1.3:3",
+		"ISBN": "978-7-5654-0485-6",
+		"language": "zh-CN",
+		"note": "page: 15-16",
+		"publisher": "东北财经大学出版社",
+		"publisher-place": "大连",
+		"title": "西方文明史：问题与源头",
+		"title-short": "西方文明史",
+		"author": [
+			{
+				"literal": "罗杰斯"
+			}
+		],
+		"translator": [
+			{
+				"literal": "潘惠霞"
+			},
+			{
+				"literal": "魏婧"
+			},
+			{
+				"literal": "杨艳"
+			},
+			{
+				"literal": "汤玲"
+			}
+		],
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.1.3:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.10.1.3:4",
+		"ISBN": "978-7-101-00992-7",
+		"language": "zh-CN",
+		"note": "page: 29",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "国史旧闻",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "陈登原"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.10.2.1:1",
+		"ISBN": "978-0-226-11857-4",
+		"language": "en-US",
+		"publisher": "Univ. of Chicago Press",
+		"publisher-place": "Chicago",
+		"title": "Invisible college",
+		"author": [
+			{
+				"family": "Crane",
+				"given": "Diana"
+			}
+		],
+		"issued": {
+			"date-parts": [["1972"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.1:2",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.10.2.1:2",
+		"container-title": "College & research libraries",
+		"issue": "6",
+		"journalAbbreviation": "Coll. Res. Libr.",
+		"language": "en-US",
+		"note": "10.5860/crl_42_06_549",
+		"page": "549-560",
+		"title": "The information needs of historians",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Stieg",
+				"given": "Margaret F."
+			}
+		],
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.3:1a",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.10.2.3:1a",
+		"container-title": "山西师范大学学报（社会科学版）",
+		"issue": "4",
+		"language": "zh-CN",
+		"page": "147",
+		"title": "天津方言的源流关系刍议",
+		"volume": "37",
+		"author": [
+			{
+				"literal": "王临惠"
+			},
+			{
+				"literal": "支建刚"
+			},
+			{
+				"literal": "王忠一"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.3:1b",
+		"type": "paper-conference",
+		"citation-key": "gbt7714-2015.10.2.3:1b",
+		"container-title": "汉语方言的地理语言学研究：首届中国地理语言学国际学术研讨会论文集",
+		"language": "zh-CN",
+		"page": "138",
+		"publisher": "商务印书馆",
+		"publisher-place": "北京",
+		"title": "从几组声母的演变看天津方言形成的自然条件和历史条件",
+		"author": [
+			{
+				"literal": "王临惠"
+			}
+		],
+		"editor": [
+			{
+				"literal": "曹志耘"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.3:2a",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.10.2.3:2a",
+		"container-title": "Sedimentology",
+		"language": "en-US",
+		"note": "10.1111/j.1365-3091.1975.tb01637.x",
+		"page": "311",
+		"title": "Morphology and genesis of nodular chalks and hardgrounds in the Upper Cretaceous of southern England",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "William James"
+			},
+			{
+				"family": "Garrison",
+				"given": "Robert E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1975", 8]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.3:2b",
+		"type": "article-journal",
+		"archive": "idunn.no (Atypon)",
+		"citation-key": "gbt7714-2015.10.2.3:2b",
+		"container-title": "Lethaia",
+		"ISSN": "0024-1164",
+		"language": "en-US",
+		"note": "10.1111/j.1502-3931.1975.tb00940.x",
+		"page": "339",
+		"title": "Morphology and genesis of nodular phosphates in the Cenomanian Glauconitic Marl of south-east England",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Kennedy",
+				"given": "William James"
+			},
+			{
+				"family": "Garrison",
+				"given": "Robert E."
+			}
+		],
+		"issued": {
+			"date-parts": [["1975", 10, 1]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.4:1",
+		"type": "paper-conference",
+		"citation-key": "gbt7714-2015.10.2.4:1",
+		"container-title": "中国科学技术期刊编辑学会建会十周年学术研讨会论文汇编",
+		"language": "zh-CN",
+		"page": "33-34",
+		"publisher": "中国科学技术期刊编辑学会学术委员会",
+		"publisher-place": "北京",
+		"title": "科技书刊的总编（主编）的角色要求",
+		"author": [
+			{
+				"literal": "张忠智"
+			}
+		],
+		"editor": [
+			{
+				"literal": "中国科学技术期刊编辑学会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1997"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.4:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.10.2.4:2",
+		"edition": "修订本",
+		"ISBN": "978-7-100-01777-0",
+		"language": "zh-CN",
+		"publisher": "商务印书馆",
+		"publisher-place": "北京",
+		"title": "现代汉语词典",
+		"author": [
+			{
+				"literal": "中国社会科学院语言研究所词典编辑室"
+			}
+		],
+		"issued": {
+			"date-parts": [["1996"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.4:3",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.10.2.4:3",
+		"container-title": "中国出版",
+		"issue": "5",
+		"language": "zh-CN",
+		"page": "38-39",
+		"title": "中国的青年刊物：个性特色为本仁",
+		"title-short": "中国的青年刊物",
+		"author": [
+			{
+				"literal": "刘彻东"
+			}
+		],
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.10.2.4:4",
+		"type": "paper-conference",
+		"citation-key": "gbt7714-2015.10.2.4:4",
+		"container-title": "中国科协学术期刊编辑工作经验交流会资料选",
+		"language": "zh-CN",
+		"page": "2-10",
+		"publisher": "中国科学技术协会学会工作部",
+		"publisher-place": "北京",
+		"title": "在中国科协学术期刊编辑工作经验交流会上的讲话",
+		"author": [
+			{
+				"literal": "裴丽生"
+			}
+		],
+		"editor": [
+			{
+				"literal": "中国科学技术协会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1981"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:1",
+		"language": "zh-CN",
+		"note": "page: 288",
+		"publisher": "江苏古籍出版社",
+		"publisher-place": "南京",
+		"title": "全唐五代诗格汇考",
+		"author": [
+			{
+				"literal": "张伯伟"
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:2",
+		"language": "zh-CN",
+		"note": "page: 155",
+		"publisher": "北京图书馆出版社",
+		"publisher-place": "北京",
+		"title": "师伏堂日记",
+		"volume": "第4册",
+		"author": [
+			{
+				"literal": "皮锡瑞"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:3",
+		"language": "zh-CN",
+		"note": "page: 112",
+		"publisher": "武汉大学出版社",
+		"publisher-place": "武汉",
+		"title": "理论物理概论",
+		"volume": "上",
+		"author": [
+			{
+				"literal": "胡承正"
+			},
+			{
+				"literal": "周详"
+			},
+			{
+				"literal": "缪灵"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:4",
+		"language": "zh-CN",
+		"note": "page: 38-39",
+		"publisher": "人民卫生出版社",
+		"publisher-place": "北京",
+		"title": "新生儿脑病和脑性瘫痪发病机制与病理生理",
+		"title-short": "新生儿脑病和脑性瘫痪",
+		"author": [
+			{
+				"literal": "美国妇产科医师学会"
+			}
+		],
+		"translator": [
+			{
+				"literal": "段涛"
+			},
+			{
+				"literal": "杨慧霞"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:5",
+		"edition": "同文书局影印本",
+		"language": "zh-CN",
+		"note": "page: 50",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "康熙字典",
+		"volume": "巳集上：水部",
+		"issued": {
+			"date-parts": [["1962"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:6",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:6",
+		"edition": "刻本",
+		"language": "zh-CN",
+		"publisher": "老二酉堂",
+		"publisher-place": "京都",
+		"title": "增订本草备要",
+		"volume": "四卷",
+		"author": [
+			{
+				"literal": "汪昂"
+			}
+		],
+		"issued": {
+			"date-parts": [["1881"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:7",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:7",
+		"language": "zh-CN",
+		"publisher": "科学出版社",
+		"publisher-place": "北京",
+		"title": "中国森林群落分类及其群落特征",
+		"author": [
+			{
+				"literal": "蒋有绪"
+			},
+			{
+				"literal": "郭泉水"
+			},
+			{
+				"literal": "马娟"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:8",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:8",
+		"language": "zh-CN",
+		"publisher": "九州出版社",
+		"publisher-place": "北京",
+		"title": "投资台湾：大陆企业赴台投资指南",
+		"title-short": "投资台湾",
+		"author": [
+			{
+				"literal": "中国企业投资协会"
+			},
+			{
+				"literal": "台湾并购与私募股权协会"
+			},
+			{
+				"literal": "汇盈国际投资集团"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:9",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:9",
+		"language": "zh-CN",
+		"publisher": "浙江大学出版社",
+		"publisher-place": "杭州",
+		"title": "战前中国经济的增长",
+		"author": [
+			{
+				"literal": "罗斯基"
+			}
+		],
+		"translator": [
+			{
+				"literal": "唐巧天"
+			},
+			{
+				"literal": "毛立坤"
+			},
+			{
+				"literal": "姜修宪"
+			}
+		],
+		"issued": {
+			"date-parts": [["2009"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:10",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:10",
+		"edition": "2",
+		"language": "zh-CN",
+		"publisher": "北京大学出版社",
+		"publisher-place": "北京",
+		"title": "科学革命的结构：第4版",
+		"title-short": "科学革命的结构",
+		"author": [
+			{
+				"literal": "库恩"
+			}
+		],
+		"translator": [
+			{
+				"literal": "金吾伦"
+			},
+			{
+				"literal": "胡新和"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:11",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:11",
+		"language": "zh-CN",
+		"note": "page: 119",
+		"publisher": "化学工业出版社",
+		"publisher-place": "北京",
+		"title": "高分子物理：高分子材料分析、选择与改性",
+		"title-short": "高分子物理",
+		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20111114-HGS-889-0228",
+		"author": [
+			{
+				"literal": "侯文顺"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 11, 27]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:12",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:12",
+		"language": "en-US",
+		"publisher": "American Library Association",
+		"publisher-place": "Chicago",
+		"title": "Future libraries: dreams, madness, & reality",
+		"title-short": "Future libraries",
+		"author": [
+			{
+				"family": "Crawford",
+				"given": "Walt"
+			},
+			{
+				"family": "Gorman",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [["1995"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:13",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:13",
+		"edition": "3",
+		"language": "en-US",
+		"publisher": "IFLA International Office for UBC",
+		"publisher-place": "London",
+		"title": "Names of persons: national usages for entry in catalogues",
+		"title-short": "Names of persons",
+		"author": [
+			{
+				"literal": "International Federation of Library Association and Institutions"
+			}
+		],
+		"issued": {
+			"date-parts": [["1977"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:14",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:14",
+		"edition": "7",
+		"language": "en-US",
+		"publisher": "Irwin",
+		"publisher-place": "Burr Ridge, IL",
+		"title": "Introduction to information systems",
+		"author": [
+			{
+				"family": "O’Brien",
+				"given": "James A."
+			}
+		],
+		"issued": {
+			"date-parts": [["1994"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:15",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:15",
+		"ISBN": "978-0-262-51774-4",
+		"language": "en-US",
+		"note": "page: 50",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge, Mass.",
+		"title": "Seeds, sciences, and struggle: the global politics of transgenic crops",
+		"title-short": "Seeds, sciences, and struggle",
+		"URL": "http://lib.myilibrary.com?ID=381443",
+		"author": [
+			{
+				"family": "Kinchy",
+				"given": "Abby"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 7, 14]]
+		},
+		"issued": {
+			"date-parts": [["2012", 7, 20]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.1:16",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.1:16",
+		"edition": "Rev. ed.",
+		"ISBN": "978-0-7591-1958-1",
+		"language": "en-US",
+		"note": "page: 13",
+		"publisher": "Rowman & Littlefield Publishing Group, Inc.",
+		"title": "Death by theory: a tale of mystery and archaeological theory",
+		"title-short": "Death by theory",
+		"URL": "http://lib.myilibrary.com/Open.aspx?id=293666",
+		"author": [
+			{
+				"family": "Praetzellis",
+				"given": "Adrian"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2012", 7, 26]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.2:1",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.2:1",
+		"language": "zh-CN",
+		"note": "tex.entrytype: collection",
+		"publisher": "人民教育出版社",
+		"publisher-place": "北京",
+		"title": "职工教育研究论文集",
+		"editor": [
+			{
+				"literal": "中国职工教育研究会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1985"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.2:2",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.2:2",
+		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
+		"publisher": "九州出版社",
+		"publisher-place": "北京",
+		"title": "台湾光复六十五周年暨抗战史实学术研讨会论文集",
+		"editor": [
+			{
+				"literal": "中国社会科学院台湾史研究中心"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.2:3",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.2:3",
+		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
+		"publisher": "海洋出版社",
+		"publisher-place": "北京",
+		"title": "综合湿地管理：综合湿地管理国际研讨会论文集",
+		"title-short": "综合湿地管理",
+		"editor": [
+			{
+				"literal": "雷光春"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.2:4",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.2:4",
+		"language": "zh-CN",
+		"note": "tex.entrytype: proceedings",
+		"publisher": "经济科学出版社",
+		"publisher-place": "北京",
+		"title": "中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集",
+		"title-short": "中国财税文化价值研究",
+		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20110628-BPO-889-0135&cult=CN",
+		"editor": [
+			{
+				"literal": "陈志勇"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 14]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.2:5",
+		"type": "book",
+		"citation-key": "gbt7714-2015.a.2:5",
+		"language": "en-US",
+		"note": "tex.entrytype: proceedings\n10.1007/978-81-322-1602-5",
+		"publisher": "Springer",
+		"publisher-place": "New Delhi",
+		"title": "Proceedings of the <span class=\"nocase\">Second International Conference on Soft Computing for Problem Solving</span> (SocProS 2012), December 28-30, 2012",
+		"editor": [
+			{
+				"family": "Babu",
+				"given": "B. V."
+			},
+			{
+				"family": "Nagar",
+				"given": "Atulya"
+			},
+			{
+				"family": "Deep",
+				"given": "Kusum"
+			},
+			{
+				"family": "Pant",
+				"given": "Millie"
+			},
+			{
+				"family": "Bansal",
+				"given": "Jagdish Chand"
+			},
+			{
+				"family": "Ray",
+				"given": "Kanad"
+			},
+			{
+				"family": "Gupta",
+				"given": "Umesh"
+			}
+		],
+		"issued": {
+			"date-parts": [["2014"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.3:1",
+		"type": "report",
+		"citation-key": "gbt7714-2015.a.3:1",
+		"language": "zh-CN",
+		"title": "国防白皮书：中国武装力量的多样化运用",
+		"title-short": "国防白皮书",
+		"URL": "http://www.mod.gov.cn/affair/2013-04/16/content_4442839.htm",
+		"author": [
+			{
+				"literal": "中华人民共和国国务院新闻办公室"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 11]]
+		},
+		"issued": {
+			"date-parts": [["2013", 4, 16]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.3:2",
+		"type": "report",
+		"citation-key": "gbt7714-2015.a.3:2",
+		"language": "zh-CN",
+		"number": "7178999X\\-2006BAK04A10/10.2013",
+		"title": "人体安全重要技术标准研制最终报告",
+		"URL": "http://www.nstrs.org.cn/xiangxiBG.aspx?id=41707",
+		"author": [
+			{
+				"literal": "汤万金"
+			},
+			{
+				"literal": "杨跃翔"
+			},
+			{
+				"literal": "刘文"
+			},
+			{
+				"literal": "郑建国"
+			},
+			{
+				"literal": "王赟松"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 24]]
+		},
+		"issued": {
+			"date-parts": [["2013", 9, 30]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.3:3",
+		"type": "report",
+		"citation-key": "gbt7714-2015.a.3:3",
+		"language": "en-US",
+		"number": "RMRS\\-GTR\\-262",
+		"page": "8-9",
+		"title": "A comparative risk assessment framework for wildland fire management: the 2010 cohesive strategy science report",
+		"title-short": "A comparative risk assessment framework for wildland fire management",
+		"author": [
+			{
+				"family": "Calkin",
+				"given": "David E."
+			},
+			{
+				"family": "Ager",
+				"given": "Alan A."
+			},
+			{
+				"family": "Thompson",
+				"given": "Matthew P."
+			}
+		],
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.3:4",
+		"type": "report",
+		"citation-key": "gbt7714-2015.a.3:4",
+		"language": "en-US",
+		"number": "PB 91\\-194001",
+		"publisher": "U.S. Department of Commerce National Information Service",
+		"publisher-place": "Springfield",
+		"title": "Guidelines for handling excavated acid-producing material",
+		"author": [
+			{
+				"literal": "U.S. Department of Transportation Federal Highway Administration"
+			}
+		],
+		"issued": {
+			"date-parts": [["1990"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.3:5",
+		"type": "report",
+		"citation-key": "gbt7714-2015.a.3:5",
+		"language": "en-US",
+		"publisher": "WHO",
+		"publisher-place": "Geneva",
+		"title": "Factors regulating the immune response: report of WHO Scientific Group",
+		"title-short": "Factors regulating the immune response",
+		"author": [
+			{
+				"literal": "World Health Organization"
+			}
+		],
+		"issued": {
+			"date-parts": [["1970"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.4:1",
+		"type": "thesis",
+		"citation-key": "gbt7714-2015.a.4:1",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"note": "page: 27",
+		"publisher": "清华大学",
+		"publisher-place": "北京",
+		"title": "人类活动影响下海河流域典型区水循环变化分析",
+		"URL": "http://www.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&QueryID=.0&CurRec=11&dbname=CDFDLAST2013&filename=1012035905.nh&uid=WEEvREcwSlJHSldTTGJhYIJRaEhGUXFQWVB6SGZXeisxdmVhV3ZyZkpoUnozeDE1b0paM0NmMjZiQ3p4TUdmcw=",
+		"author": [
+			{
+				"literal": "马欢"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 14]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.4:2",
+		"type": "thesis",
+		"citation-key": "gbt7714-2015.a.4:2",
+		"genre": "博士学位论文",
+		"language": "zh-CN",
+		"publisher": "北京大学",
+		"publisher-place": "北京",
+		"title": "面向中文信息处理的现代汉语并列结构研究",
+		"URL": "http://thesis.lib.pku.edu.cn/dlib/List.asp?lang=gb&type=Reader&DocGroupID=4&DocID=6328",
+		"author": [
+			{
+				"literal": "吴云芳"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 14]]
+		},
+		"issued": {
+			"date-parts": [["2003"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.4:3",
+		"type": "thesis",
+		"citation-key": "gbt7714-2015.a.4:3",
+		"genre": "Doctoral dissertation",
+		"language": "en-US",
+		"number-of-pages": "224",
+		"publisher": "Univ. of California",
+		"publisher-place": "Berkeley",
+		"title": "Infrared spectroscopic studies on solid oxygen",
+		"author": [
+			{
+				"family": "Cairns",
+				"given": "Bruce Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [["1965"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.5:1",
+		"type": "patent",
+		"authority": "国家知识产权局",
+		"call-number": "201220158825.2",
+		"citation-key": "gbt7714-2015.a.5:1",
+		"language": "zh-CN",
+		"note": "jurisdiction: 中国\ntex.number: 201220158825.2",
+		"number": "CN202827616U",
+		"title": "轨道火车及高速轨道火车紧急安全制动辅助装置",
+		"author": [
+			{
+				"literal": "张凯军"
+			},
+			{
+				"literal": "赵永杰"
+			},
+			{
+				"literal": "陈朝岗"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013", 3, 27]]
+		},
+		"submitted": {
+			"date-parts": [["2012", 4, 5]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.5:2",
+		"type": "patent",
+		"authority": "国家知识产权局",
+		"call-number": "01129210.5",
+		"citation-key": "gbt7714-2015.a.5:2",
+		"language": "zh-CN",
+		"note": "jurisdiction: 中国\ntex.number: 01129210.5",
+		"number": "CN1318281A",
+		"title": "一种荒漠化地区生态植被综合培育种植方法",
+		"URL": "http://211.152.9.47/sipoasp/zlijs/hyjs-yx-new.asp?recid=01129210.5&leixin=0",
+		"author": [
+			{
+				"literal": "冀超"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2002", 5, 28]]
+		},
+		"issued": {
+			"date-parts": [["2001", 10, 24]]
+		},
+		"submitted": {
+			"date-parts": [["2001", 6, 15]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.5:3",
+		"type": "patent",
+		"authority": "U.S. Patent and Trademark Office",
+		"call-number": "US09828402",
+		"citation-key": "gbt7714-2015.a.5:3",
+		"language": "en-US",
+		"note": "jurisdiction: U.S.\ntex.number: US09828402\nInternational Business Machines Corp.",
+		"number": "US20020049965A1",
+		"title": "Compiler",
+		"URL": "http://FF&p=1&u=netahtml/PTO/search-bool.html&r=5&f=G&1=50&col=AND&d=PG01&sl=IBM.AS.&OS=AN/IBM/RS=AN/IBM",
+		"author": [
+			{
+				"family": "Koseki",
+				"given": "Akira"
+			},
+			{
+				"family": "Momose",
+				"given": "Hiroyuki"
+			},
+			{
+				"family": "Kawahito",
+				"given": "Motohiro"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Hideaki"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2002", 5, 28]]
+		},
+		"issued": {
+			"date-parts": [["2002", 4, 25]]
+		},
+		"submitted": {
+			"date-parts": [["2001", 4, 6]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.6:1",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.a.6:1",
+		"language": "zh-CN",
+		"note": "page: 3",
+		"number": "GB/T 3792.4—2009",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "文献著录：第 4 部分 非书资料",
+		"title-short": "文献著录",
+		"author": [
+			{
+				"literal": "全国信息与文献标准化技术委员会"
+			}
+		],
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.6:2",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.a.6:2",
+		"language": "zh-CN",
+		"note": "page: 1",
+		"number": "GY/T 202.2—2007",
+		"publisher": "国家广播电影电视总局广播电视规划院",
+		"publisher-place": "北京",
+		"title": "广播电视音像资料编目规范：第 2 部分 广播资料",
+		"title-short": "广播电视音像资料编目规范",
+		"author": [
+			{
+				"literal": "全国广播电视标准化技术委员会"
+			}
+		],
+		"issued": {
+			"date-parts": [["2007"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.6:3",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.a.6:3",
+		"language": "zh-CN",
+		"note": "page: 2-3",
+		"number": "GB 15618—1995",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "土壤环境质量标准",
+		"URL": "http://wenku.baidu.com/view/b950a34b767f5acfa1c7cd49.html",
+		"author": [
+			{
+				"literal": "国家环境保护局科技标准司"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 10, 14]]
+		},
+		"issued": {
+			"date-parts": [["1996"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.6:4",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.a.6:4",
+		"language": "en-US",
+		"number": "ISO 15836:2009",
+		"title": "Information and documentation—the Dublin Core metadata element set",
+		"title-short": "Information and documentation",
+		"URL": "http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=52142",
+		"accessed": {
+			"date-parts": [["2013", 3, 24]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:1",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.a.7:1",
+		"container-title": "苏魏公文集",
+		"language": "zh-CN",
+		"page": "590",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "卷39乞致仕第一",
+		"volume": "下册",
+		"issued": {
+			"date-parts": [["1988"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:2",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.a.7:2",
+		"container-title": "植物科学进展",
+		"language": "zh-CN",
+		"page": "146-163",
+		"publisher": "高等教育出版社",
+		"publisher-place": "北京",
+		"title": "植物开花研究",
+		"author": [
+			{
+				"literal": "白书农"
+			}
+		],
+		"editor": [
+			{
+				"literal": "李承森"
+			}
+		],
+		"issued": {
+			"date-parts": [["1998"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:3",
+		"type": "paper-conference",
+		"citation-key": "gbt7714-2015.a.7:3",
+		"container-title": "中国国家生物安全框架实施国际合作项目研讨会论文集",
+		"ISBN": "978-7-80209-038-5",
+		"language": "zh-CN",
+		"page": "22-25",
+		"publisher": "中国环境科学出版社",
+		"publisher-place": "北京",
+		"title": "中国农业转基因生物研究进展与安全管理",
+		"author": [
+			{
+				"literal": "汪学军"
+			}
+		],
+		"editor": [
+			{
+				"literal": "国家环境保护总局生物安全管理办公室"
+			}
+		],
+		"issued": {
+			"date-parts": [["2002"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:4",
+		"type": "standard",
+		"citation-key": "gbt7714-2015.a.7:4",
+		"language": "zh-CN",
+		"note": "container-title: 文献工作国家标准汇编：3\npage: 59-92",
+		"number": "GB/T 2659—1986",
+		"publisher": "中国标准出版社",
+		"publisher-place": "北京",
+		"title": "世界各国和地区名称代码",
+		"author": [
+			{
+				"literal": "国家标准局信息分类编码研究所"
+			}
+		],
+		"editor": [
+			{
+				"literal": "全国文献工作标准化委员会"
+			}
+		],
+		"issued": {
+			"date-parts": [["1988"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:5",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.a.7:5",
+		"container-title": "宋史",
+		"language": "zh-CN",
+		"page": "49",
+		"publisher": "中华书局",
+		"publisher-place": "北京",
+		"title": "宋史卷三：本纪第三",
+		"title-short": "宋史卷三",
+		"volume": "第1册",
+		"issued": {
+			"date-parts": [["1977"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:6",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.a.7:6",
+		"container-title": "汶川地震震害研究",
+		"ISBN": "978-7-5608-4713-9",
+		"language": "zh-CN",
+		"page": "011-012",
+		"publisher": "同济大学出版社",
+		"publisher-place": "上海",
+		"title": "汶川地震基岩地震动特征分析",
+		"URL": "http://apabi.lib.pku.edu.cn/usp/pku/pub.mvc?pid=book.detail&metaid=m.20120406-YPT-889-0010",
+		"author": [
+			{
+				"literal": "楼梦麟"
+			},
+			{
+				"literal": "杨燕"
+			}
+		],
+		"editor": [
+			{
+				"literal": "同济大学土木工程防灾国家重点实验室"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 5, 9]]
+		},
+		"issued": {
+			"date-parts": [["2011"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:7",
+		"type": "chapter",
+		"citation-key": "gbt7714-2015.a.7:7",
+		"container-title": "Pyroxenes",
+		"language": "en-US",
+		"page": "117-211",
+		"publisher": "Mineralogical Society of America",
+		"publisher-place": "Washington, D.C.",
+		"title": "Subsolidus phenomena in pyroxenes",
+		"author": [
+			{
+				"family": "Buseck",
+				"given": "Peter R."
+			},
+			{
+				"family": "Nord",
+				"given": "Gordon L.",
+				"suffix": "Jr."
+			},
+			{
+				"family": "Veblen",
+				"given": "David R."
+			}
+		],
+		"issued": {
+			"literal": "c1980"
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.7:8",
+		"type": "paper-conference",
+		"citation-key": "gbt7714-2015.a.7:8",
+		"container-title": "<span class=\"nocase\">Symposium on Applications of Holography in Mechanics</span>, August 23-25, 1971, <span class=\"nocase\">University of Southern California</span>, <span class=\"nocase\">Los Angeles, California</span>",
+		"language": "en-US",
+		"page": "17-38",
+		"publisher": "ASME",
+		"publisher-place": "New York",
+		"title": "Advances in holographic photoelasticity",
+		"author": [
+			{
+				"family": "Fourney",
+				"given": "M. E."
+			}
+		],
+		"issued": {
+			"literal": "c1971"
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:1",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:1",
+		"container-title": "文献",
+		"issue": "1",
+		"language": "zh-CN",
+		"page": "56-75",
+		"title": "四库馆私家抄校书考略",
+		"author": [
+			{
+				"literal": "杨洪升"
+			}
+		],
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:2",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:2",
+		"container-title": "图书情报工作",
+		"issue": "6",
+		"language": "zh-CN",
+		"page": "6-21",
+		"title": "韩国图书馆法",
+		"volume": "52",
+		"author": [
+			{
+				"literal": "李炳穆"
+			}
+		],
+		"issued": {
+			"date-parts": [["2008"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:3",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:3",
+		"container-title": "清华大学学报（自然科学版）",
+		"issue": "11",
+		"language": "zh-CN",
+		"page": "1518-1523",
+		"title": "互联网药品可信交易环境中主体资质审核备案模式",
+		"volume": "52",
+		"author": [
+			{
+				"literal": "于潇"
+			},
+			{
+				"literal": "刘义"
+			},
+			{
+				"literal": "柴跃廷"
+			},
+			{
+				"literal": "孙宏波"
+			}
+		],
+		"issued": {
+			"date-parts": [["2012"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:4",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:4",
+		"container-title": "国土资源导刊",
+		"DOI": "10.3969/j.issn.1672-5603.2010.10.038",
+		"issue": "10",
+		"language": "zh-CN",
+		"page": "93",
+		"title": "从数字地球到智慧地球",
+		"URL": "http://d.g.wanfangdata.com.cn/Periodical_hunandz201010038.aspx",
+		"volume": "7",
+		"author": [
+			{
+				"literal": "陈建军"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 20]]
+		},
+		"issued": {
+			"date-parts": [["2010"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:5",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:5",
+		"container-title": "Nature",
+		"ISSN": "0028-0836",
+		"language": "en-US",
+		"note": "10.1038/359605a0",
+		"page": "605-609",
+		"title": "Carbon isotope evidence for the stepwise oxidation of the Proterozoic environment",
+		"volume": "359",
+		"author": [
+			{
+				"family": "Des Marais",
+				"given": "David J."
+			},
+			{
+				"family": "Strauss",
+				"given": "Harald"
+			},
+			{
+				"family": "Summons",
+				"given": "Roger E."
+			},
+			{
+				"family": "Hayes",
+				"given": "J. M."
+			}
+		],
+		"issued": {
+			"date-parts": [["1992", 10, 15]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:6",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:6",
+		"container-title": "Bulletin of the geological survey of <span class=\"nocase\">Japan</span>",
+		"issue": "5/6",
+		"journalAbbreviation": "Bull. Geol. Surv. Jpn.",
+		"language": "en-US",
+		"note": "10.9795/bullgsj.57.169",
+		"page": "169-176",
+		"title": "Jadeite-bearing metagabbro in serpentinite mélange of the “Kurosegawa Belt” in Izumi Town, Yatsushiro City, Kumamoto Prefecture, central Kyushu",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Saito",
+				"given": "M."
+			},
+			{
+				"family": "Miyazaki",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [["2006"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:7",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:7",
+		"container-title": "Biology",
+		"DOI": "10.3390/biology2010399",
+		"issue": "1",
+		"language": "en-US",
+		"page": "399-418",
+		"title": "Drought, deluge and declines: the impact of precipitation extremes on amphibians in a changing climate",
+		"title-short": "Drought, deluge and declines",
+		"URL": "http://www.mdpi.com/2079-7737/2/1/399",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Walls",
+				"given": "Susan C."
+			},
+			{
+				"family": "Barichivich",
+				"given": "William J."
+			},
+			{
+				"family": "Brown",
+				"given": "Mary E."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 11, 4]]
+		},
+		"issued": {
+			"date-parts": [["2013"]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:8",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:8",
+		"container-title": "ACS chemical biology",
+		"DOI": "10.1021/cb300573r",
+		"journalAbbreviation": "ACS Chem. Biol.",
+		"language": "en-US",
+		"page": "1053-1062",
+		"title": "Phenotypic screening with oleaginous microalgae reveals modulators of lipid productivity",
+		"URL": "http://pubs.acs.org/doi/ipdf/10.1021/cb300573r",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Franz",
+				"given": "Annaliese K."
+			},
+			{
+				"family": "Danielewicz",
+				"given": "Megan A."
+			},
+			{
+				"family": "Wong",
+				"given": "Diana M."
+			},
+			{
+				"family": "Anderson",
+				"given": "Lisa A."
+			},
+			{
+				"family": "Boothe",
+				"given": "Jordan R."
+			}
+		],
+		"accessed": {
+			"date-parts": [["2014", 6, 26]]
+		},
+		"issued": {
+			"date-parts": [["2013", 3, 22]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.8:9",
+		"type": "article-journal",
+		"citation-key": "gbt7714-2015.a.8:9",
+		"container-title": "Cataloging & classification quarterly",
+		"DOI": "10.1080/01639374.2010.508711",
+		"issue": "8",
+		"journalAbbreviation": "Cat. Classif. Q.",
+		"language": "en-US",
+		"page": "696-715",
+		"title": "Metadata quality control in digital repositories and collections: criteria, semantics, and mechanisms",
+		"title-short": "Metadata quality control in digital repositories and collections",
+		"URL": "http://www.tandfonline.com/doi/pdf/10.1080/01639374.2010.508711",
+		"volume": "48",
+		"author": [
+			{
+				"family": "Park",
+				"given": "Jung-Ran"
+			},
+			{
+				"family": "Tosaka",
+				"given": "Yuji"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 9, 5]]
+		},
+		"issued": {
+			"date-parts": [["2010", 9, 23]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.9:1",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.a.9:1",
+		"container-title": "中国青年报",
+		"language": "zh-CN",
+		"page": "15",
+		"title": "数字革命与竞争国际化",
+		"author": [
+			{
+				"literal": "丁文详"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000", 11, 20]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.9:2",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.a.9:2",
+		"container-title": "大众科技报",
+		"language": "zh-CN",
+		"page": "7",
+		"title": "罪犯 DNA 库与生命伦理学计划",
+		"author": [
+			{
+				"literal": "张田勘"
+			}
+		],
+		"issued": {
+			"date-parts": [["2000", 11, 12]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.9:3",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.a.9:3",
+		"container-title": "北京青年报",
+		"language": "zh-CN",
+		"title": "大风沙过后的思考",
+		"URL": "http://www.bjyouth.com.cn/Bqb/20000412/GB/4216%5ED0412B1401.htm",
+		"author": [
+			{
+				"literal": "傅刚"
+			},
+			{
+				"literal": "赵承"
+			},
+			{
+				"literal": "李佳路"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2005", 9, 28]]
+		},
+		"issued": {
+			"date-parts": [["2000", 1, 12]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.9:4",
+		"type": "article-newspaper",
+		"citation-key": "gbt7714-2015.a.9:4",
+		"container-title": "人民日报",
+		"language": "zh-CN",
+		"title": "雾霾来袭，如何突围？",
+		"URL": "http://paper.people.com.cn/rmrb/html/2013-01/12/nw.D110000renmrb_20130112_2-04.htm",
+		"author": [
+			{
+				"literal": "刘裕国"
+			},
+			{
+				"literal": "杨柳"
+			},
+			{
+				"literal": "张洋"
+			},
+			{
+				"literal": "王汉超"
+			},
+			{
+				"literal": "靳博"
+			},
+			{
+				"literal": "田豆豆"
+			},
+			{
+				"literal": "付文"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 11, 6]]
+		},
+		"issued": {
+			"date-parts": [["2013", 1, 12]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.10:1",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.a.10:1",
+		"language": "zh-CN",
+		"title": "出版业信息化迈入快车道",
+		"URL": "http://www.creader.com/news/20011219/200112190019.html",
+		"author": [
+			{
+				"literal": "萧钰"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2002", 4, 15]]
+		},
+		"issued": {
+			"date-parts": [["2001", 12, 19]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.10:2",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.a.10:2",
+		"language": "zh-CN",
+		"title": "化解医患矛盾需釜底抽薪",
+		"URL": "http://wenku.baidu.com/view/47e4f206b52acfc789ebc92f.html",
+		"author": [
+			{
+				"literal": "李强"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 25]]
+		},
+		"issued": {
+			"date-parts": [["2012", 5, 3]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.10:3",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.a.10:3",
+		"language": "en-US",
+		"title": "Pennsylvania library laws",
+		"URL": "http://www.racc.edu/yocum/pdf/PALibraryLaws.pdf",
+		"author": [
+			{
+				"literal": "Commonwealth Libraries Bureau of Library Development. Pennsylvania Department of Education Office"
+			}
+		],
+		"accessed": {
+			"date-parts": [["2013", 3, 24]]
+		}
+	},
+	{
+		"id": "gbt7714-2015.a.10:4",
+		"type": "webpage",
+		"citation-key": "gbt7714-2015.a.10:4",
+		"language": "en-US",
+		"title": "<span class=\"nocase\">Dublin Core</span> metadata element set: version 1.1",
+		"title-short": "Dublin Core metadata element set",
+		"URL": "http://dublincore.org/documents/dces/",
+		"accessed": {
+			"date-parts": [["2014", 6, 11]]
+		},
+		"issued": {
+			"date-parts": [["2012", 6, 14]]
+		}
+	}
+]

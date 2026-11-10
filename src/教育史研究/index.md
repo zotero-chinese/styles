@@ -14,36 +14,19 @@
 <sup>4</sup> Alexander J. Inglis. The Socialization of the High School. Teachers College Record, 1915, 16(3). p. 216.<br>
 
 
-### 参考文献表
 
-<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">布鲁纳著，邵瑞珍、张渭城译：《布鲁纳教育论著选》，人民教育出版社，2018年，第35—36页。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">廖哲勋：《实事求是地评价普通高中新课程改革》，《课程·教材·教法》2010年第9期。</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Burton J. Bledstein. The Culture of Professionalism: The Middle Class and the Development of Higher Education in America. New York: W. W. Norton &#38; Company, Inc. 1976. pp. 33-39.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Alexander J. Inglis. The Socialization of the High School. Teachers College Record, 1915, 16(3). p. 216.</div>
-  </div>
-</div>
+## 样式测试
+
 
 ## 默认测试
 
 ### 引注
 
-<sup>1</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社，2002年，第903页。<br>
-<sup>2</sup> 曹凌：《中国佛教疑伪经综录》，上海：上海古籍出版社，2011年，第260页。<br>
-<sup>3</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>4</sup> 曹凌，《中国佛教疑伪经综录》，第326—329页。<br>
-<sup>5</sup> 曹凌，《中国佛教疑伪经综录》，第326—329页。<br>
-<sup>6</sup> 曹凌，《中国佛教疑伪经综录》，第260页。<br>
-<sup>7</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
-<sup>8</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第330页。<br>
-<sup>9</sup> 应松年、马怀德主编，《当代中国行政法的源流》，第331页。<br>
+<sup>1</sup> ［德］鲁道夫·冯·耶林著，刘权译：《为权利而斗争》，法律出版社，2019年；张文显、于宁：《当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式》，《中国法学》2001年第1期，第63—79页；王利明：《迈向权利保护的新时代》，《中国人民大学学报》第34卷第4期，2020年，第1页。<br>
+<sup>2</sup> ［德］鲁道夫·冯·耶林著，《为权利而斗争》，第3页。<br>
+<sup>3</sup> 张文显、于宁，《当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式》。<br>
+<sup>4</sup> 张文显、于宁，《当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式》。<br>
+<sup>5</sup> 张文显、于宁，《当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式》，第69页。<br>
 
 
 ### GB/T 7714—2025 示例文献
@@ -57,7 +40,7 @@
 <sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京：北京古籍出版社，1980年。<br>
 <sup>6</sup> 钱学森：《创建系统学》，太原：山西科学技术出版社，2001年，序2-3。<br>
 <sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），北京：首都师范大学出版社，2008年，第1版自序。<br>
-<sup>8</sup> 《康熙字典》（同文书局影印本）巳集上 水部，北京：中华书局，1962年，第50页。<br>
+<sup>8</sup> 《康熙字典》（影印本）巳集上：水部，北京：中华书局，1962年，第50页。<br>
 <sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），北京：高等教育出版社，2019年。<br>
 <sup>10</sup> 哈里森、沃尔德伦著，谢远涛译：《经济数学与金融数学》，北京：中国人民大学出版社，2012年，第235—236页。<br>
 <sup>11</sup> 牛永敢、孔晓、王阳、斯楼斌主编：《鼻整形应用解剖学》，北京：人民卫生出版社，2019年，第65—66页。<br>
@@ -66,16 +49,16 @@
 <sup>14</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社，2001年。<br>
 <sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社，2003年。<br>
 <sup>16</sup> 博伯尔著，徐超译：《银行业的未来与人工智能》，北京：清华大学出版社，2023年，第35页。<br>
-<sup>17</sup> 図書館用語辞典編集委員会, ed. 最新図書館用語大辞典. 東京: 柏書房株式会社. 2004. p. 154.<br>
-<sup>18</sup> Peyton Z. Peebles, Jr. Probability, Random Variable, and Random Signal Principles. New York: McGraw-Hill. 2001.<br>
+<sup>17</sup> 図書館用語辞典編集委員会, ed. 最新図書館用語大辞典. 東京: 柏書房株式會社. 2004. p. 154.<br>
+<sup>18</sup> Peyton Z. Peebles, Jr. Probability, Random Variables, and Random Signal Principles. New York: McGraw-Hill. 2001.<br>
 <sup>19</sup> Benjamin J. Sadock, Virginia Alcott Sadock, Pedro Ruiz, and Harold I. Kaplan, eds. Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, vol. 1. Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins. 2009.<br>
-<sup>20</sup> Institute For Art And Architecture and Academy Of Fine Arts Vienna. Wiener Hitze: Architecture and Storytelling in Times of Heat. Zürich: Park Books. 2023. p. 78.<br>
+<sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna. Wiener Hitze: Architecture and Storytelling in Times of Heat. Zürich: Park Books. 2023. p. 78.<br>
 <sup>21</sup> Abby Kinchy. Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops. Cambridge, Mass.: MIT Press. 2012. p. 50.<br>
 <sup>22</sup> Adrian Praetzellis. Death by Theory: A Tale of Mystery and Archaeological Theory. Rowman &#38; Littlefield Publishing Group, Inc. 2011. p. 13.<br>
 <sup>23</sup> Lynette Torres, Fiona Salisbury, Barbara Yazbeck, Sharon Karasmanis, Janice Pinder, and Caroline Ondracek, eds. Connecting the Library to the Curriculum. Singapore: Springer Nature. 2021. p. 97.<br>
 <sup>24</sup> Tony Boobier. AI and the Future of Banking. Chichester: John Wiley &#38; Sons. 2020. p. 35.<br>
 <sup>25</sup> William Deverell and David Igler, eds. A Companion to California History. New York: John Wiley &#38; Sons. 2013. pp. 21-22.<br>
-<sup>26</sup> 阿扬著，姜海伦译：《谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答》，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社，2023年，第15—18页。<br>
+<sup>26</sup> 阿扬著，姜海伦译：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社，2023年，第15—18页。<br>
 <sup>27</sup> 王夫之主编：《周易外传：卷5》，《船山全书》（修订版）第1册，长沙：岳麓书社，2011年，第983—1029页。<br>
 <sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社，1999年，第32—36页。<br>
 <sup>29</sup> 李约瑟：《题词》，《苏颂与《本草图经》研究》，长春：长春出版社，1991年，扉页。<br>
@@ -84,11 +67,11 @@
 <sup>32</sup> 国家药典委员会主编：《大黄》，《中华人民共和国药典》（2020版）一部，北京：中国医药科技出版社，2020年，第24—25页。<br>
 <sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社，2011年，第11—12页。<br>
 <sup>34</sup> L. Weinstein and M. N. Swartz. Pathogenic Properties of Invading Microorganisms. in William A. Sodeman Jr. and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i>. Philadelphia: Saunders. 1974. pp. 457-472.<br>
-<sup>35</sup> J. Alan Roberson and Eric G. Burneson. Drinking Water Standards, Regulations and Goals. in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. New York: McGraw-Hill. 2011. 1.1-1.36.<br>
-<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）—，武汉：中华医学会湖北分会，1984年。<br>
-<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）—1990（4），北京：北京图书馆，1957—1990年。<br>
-<sup>38</sup> American Association for the Advancement of Science, ed. Science, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science. 1883.<br>
-<sup>39</sup> Public Library Quarterly, 1979，1（1）—. Philadelphia: Taylor &#38; Francis. 1979.<br>
+<sup>35</sup> J. Alan Roberson and Eric G. Burneson. Drinking Water Quality Standards, Regulations and Goals. in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>. New York: McGraw-Hill. 2011. 1.1-1.36.<br>
+<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）-，武汉：中华医学会湖北分会，1984年。<br>
+<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）-1990（4），北京：北京图书馆，1957—1990年。<br>
+<sup>38</sup> American Association for the Advancement of Science, ed. Science, 1883，1（1）-. Washington, D.C.: American Association for the Advancement of Science. 1883.<br>
+<sup>39</sup> Public Library Quarterly, 1979，1（1）-. Philadelphia: Taylor &#38; Francis. 1979.<br>
 <sup>40</sup> 杨洪升：《四库馆私家抄校书考略》，《文献》2013年第1期，第56—75页。<br>
 <sup>41</sup> 丁文详：《数字革命与竞争国际化》，《中国青年报》2000年11月20日，第15版。<br>
 <sup>42</sup> 于潇、刘义、柴跃廷、孙宏波：《互联网药品可信交易环境中主体资质审核备案模式》，《清华大学学报（自然科学版）》第52卷第11期，2012年，第1518—1523页。<br>
@@ -105,7 +88,7 @@
 <sup>53</sup> David J. Des Marais, Harald Strauss, Roger E. Summons, and J. M. Hayes. Carbon Isotope Evidence for the Stepwise Oxidation of the Proterozoic Environment. Nature, 1992, 359. pp. 605-609.<br>
 <sup>54</sup> Jung-Ran Park and Yuji Tosaka. Metadata Quality Control in Digital Repositories and Collections: Criteria, Semantics, and Mechanisms. Cataloging &#38; Classification Quarterly, 2010, 48(8). pp. 696-715.<br>
 <sup>55</sup> Karen S. Frese, Hugo A. Katus, and Benjamin Meder. Next-Generation Sequencing: From Understanding Biology to Personalized Medicine. Biology, 2013, 2(1). pp. 378-398.<br>
-<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz. The Genome of <i>Eucalyptus Grandis</i>. Nature, 2014, 510. pp. 356-362.<br>
+<sup>56</sup> Alexander A. Myburg, Dario Grattapaglia, Gerald A. Tuskan, Uffe Hellsten, Richard D. Hayes, Jane Grimwood, Jerry Jenkins, Erika Lindquist, Hope Tice, Diane Bauer, David M. Goodstein, Inna Dubchak, Alexandre Poliakov, Eshchar Mizrachi, Anand R. K. Kullan, Steven G. Hussey, Desre Pinard, Karen van der Merwe, Pooja Singh, Ida van Jaarsveld, Orzenil B. Silva-Junior, Roberto C. Togawa, Marilia R. Pappas, Danielle A. Faria, Carolina P. Sansaloni, Cesar D. Petroli, Xiaohan Yang, Priya Ranjan, Timothy J. Tschaplinski, Chu-Yu Ye, Ting Li, Lieven Sterck, Kevin Vanneste, Florent Murat, Marçal Soler, Hélène San Clemente, Naijib Saidi, Hua Cassan-Wang, Christophe Dunand, Charles A. Hefer, Erich Bornberg-Bauer, Anna R. Kersting, Kelly Vining, Vindhya Amarasinghe, Martin Ranik, Sushma Naithani, Justin Elser, Alexander E. Boyd, Aaron Liston, Joseph W. Spatafora, Palitha Dharmwardhana, Rajani Raja, Christopher Sullivan, Elisson Romanel, Marcio Alves-Ferreira, Carsten Külheim, William Foley, Victor Carocha, Jorge Paiva, David Kudrna, Sergio H. Brommonschenkel, Giancarlo Pasquali, Margaret Byrne, Philippe Rigault, Josquin Tibbits, Antanas Spokevicius, Rebecca C. Jones, Dorothy A. Steane, René E. Vaillancourt, Brad M. Potts, Fourie Joubert, Kerrie Barry, Georgios J. Pappas, Steven H. Strauss, Pankaj Jaiswal, Jacqueline Grima-Pettenati, Jérôme Salse, Yves Van de Peer, Daniel S. Rokhsar, and Jeremy Schmutz. The Genome of <i>Eucalyptus grandis</i>. Nature, 2014, 510. pp. 356-362.<br>
 <sup>57</sup> Roger D. Santer and Otar Akanyeti. Using Artificial Neural Networks to Explain the Attraction of Jewel Beetles (Coleoptera: Buprestidae) to Colored Traps. Insect Science, 2025.<br>
 <sup>58</sup> Hiroshi Shinotsuka, Kenji Nagata, Malinda Siriwardana, Hideki Yoshikawa, Hayaru Shouno, and Masato Okada. Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator. Journal of Electron Spectroscopy and Related Phenomena, 2023, 267.<br>
 <sup>59</sup> Pieternella H. van der Veen, Majon Muller, Koen L. Vincken, Theo D. Witkamp, Willem P. T. M. Mali, Yolanda van der Graaf, Mirjam I. Geerlings, and SMART-MR Study Group. Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study. Journal of the Neurological Sciences, 2014, 337(1/2). pp. 112-118.<br>
@@ -118,31 +101,31 @@
 <sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社，2011年。<br>
 <sup>67</sup> Shanshan Wang. Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers. 2022. p. 2.<br>
 <sup>68</sup> Yang Yu, Erting Pan, Xinya Wang, Yuheng Wu, Xiaoguang Mei, and Jiayi Ma. Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis. 2024. p. 4.<br>
-<sup>69</sup> Sergey A. Yufin, ed. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000. Rotterdam: A. A. Balkema. 2000.<br>
+<sup>69</sup> Sergey A. Yufin, ed. Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000. Rotterdam: A. A. Balkema. 2000.<br>
 <sup>70</sup> B. V. Babu, Atulya Nagar, Kusum Deep, Millie Pant, Jagdish Chand Bansal, Kanad Ray, and Umesh Gupta, eds. Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012. New Delhi: Springer. 2014.<br>
 <sup>71</sup> M. E. Fourney. Advances in Holographic Photoelasticity. in W. G. Gottenberg, ed., <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>. New York: ASME. 1971. pp. 17-38.<br>
 <sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，博士学位论文，武汉大学，2022年，第87页。<br>
 <sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，硕士学位论文，温州大学，2020年，第16页。<br>
 <sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，博士学位论文，武汉大学，2016年，第24—25页。<br>
 <sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，博士学位论文，中国科学院大学，2022年，第43页。<br>
-<sup>76</sup> Bruce Richard Cairns. Infrared Spectroscopic Studies on Solid Oxygen, Doctoral Dissertation. University of California. 1965. p. 15.<br>
+<sup>76</sup> Bruce Richard Cairns. Infrared Spectroscopic Studies of Solid Oxygen, Doctoral Dissertation. University of California, Berkeley. 1965. p. 15.<br>
 <sup>77</sup> Antrea Christou. Improving Knowledge Graph Understanding with Contextual Views, Doctoral Dissertation. Wright State University. 2024. p. 18.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>79</sup> 汤万金、杨跃翔、刘文、郑建国、王赟松：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>80</sup> 中国信息通信研究院、中国电信股份有限公司研究院、中国移动通信研究院、中国联合网络通信有限公司研究院：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。<br>
 <sup>81</sup> David E. Calkin, Alan A. Ager, and Matthew P. Thompson. A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report. 2011. pp. 8-9.<br>
-<sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Material. Springfield: U.S. Department of Commerce National Information Service. 1990. p. 25.<br>
+<sup>82</sup> U.S. Department of Transportation Federal Highway Administration. Guidelines for Handling Excavated Acid-Producing Materials. Springfield: U.S. Department of Commerce National Information Service. 1990. p. 25.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs. United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development.<br>
-<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献 资源描述》，2021年。<br>
-<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术 先进音视频编码 第16部分：广播电视视频》，2016年。<br>
-<sup>86</sup> 工业和信息化部：《信息技术  中文编码字符集》，2022年。<br>
+<sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献　资源描述》，2021年。<br>
+<sup>85</sup> 全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》，2016年。<br>
+<sup>86</sup> 工业和信息化部：《信息技术　中文编码字符集》，2022年。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年。<br>
 <sup>88</sup> ISO. Audit Data Collection. 2019.<br>
 <sup>89</sup> International Electrotechnical Commission (IEC). Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML). New York: IEEE. 2021.<br>
 <sup>90</sup> IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation. New York: IEEE. 2020.<br>
-<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications.<br>
-<sup>92</sup> Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods.<br>
-<sup>93</sup> Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles.<br>
+<sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA). Guide to Lithium Battery Safety for Space Applications. 2022.<br>
+<sup>92</sup> ISO. Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods. 2016.<br>
+<sup>93</sup> ISO. Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles. 2016.<br>
 <sup>94</sup> 邓一刚：《全智能节电器》，2008年，第8—9页。<br>
 <sup>95</sup> 张凯军、赵永杰、陈朝岗：《轨道火车及高速轨道火车紧急安全制动辅助装置》，2013年。<br>
 <sup>96</sup> 李华、王昊、康佐：《一种拼接式桥梁模型》，2023年。<br>
@@ -152,11 +135,11 @@
 <sup>100</sup> Ryuki Tachibana, Shuhichi Shimizu, Seiji Kobayashi, and Taiga Nakamura. Electronic watermarking method and system. 2001.<br>
 <sup>101</sup> Michael Tristram, Peter Skarshewski, Ian Tristram, and Brenda Mossel. Storage and delivery system. 2022.<br>
 <sup>102</sup> 中国科学院文献情报中心：《中国科学院科技论文预发布平台》，<a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>，2025年3月6日。<br>
-<sup>103</sup> 北京鲁迅博物馆：《北京鲁迅博物馆志愿服务章程》，2021年4月21日，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>，2023年5月2日。<br>
+<sup>103</sup> 北京鲁迅博物馆（北京新文化运动纪念馆）：《北京鲁迅博物馆志愿服务章程》，2021年4月21日，<a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a>，2023年5月2日。<br>
 <sup>104</sup> 《《庄子》读不懂？看完这一篇“导读”就明白了》，2022年。<br>
 <sup>105</sup> 高等教育文献保障系统：《馆际互借与文献传递服务》，<a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a>，2025年6月21日。<br>
-<sup>106</sup> 许振超：《“好好干，当一个好工人”》，2025年2月17日，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>，2025年6月22日。<br>
-<sup>107</sup> 《[《昨日之歌》图书封面]》，2023年。<br>
+<sup>106</sup> 《许振超：“好好干，当一个好工人”》，2025年2月17日，<a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a>，2025年6月22日。<br>
+<sup>107</sup> 《[《昨日之歌》图书封面]》，2015年。<br>
 <sup>108</sup> 仉尚航：《开放世界中的实体基础模型》，2024年12月24日，<a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a>，2025年1月2日。<br>
 <sup>109</sup> 《西黄丸》，2023年10月7日，<a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a>，2025年8月26日。<br>
 <sup>110</sup> Library of Congress. <a href="https://www.loc.gov/">https://www.loc.gov/</a>，June 12, 2020.<br>
@@ -178,14 +161,14 @@
 <sup>126</sup> 童世亨：《京兆直隶图》，上海：商务印书馆，1926年。<br>
 <sup>127</sup> Robert Cribb. Historical Atlas of Indonesia. Abingdon: Routledge. 2015.<br>
 <sup>128</sup> Coastal Wetlands Map of China Continent. Beijing: China Ocean Press. 2024. p. 50.<br>
-<sup>129</sup> 彭守璋：《1901—2023年中国1km分辨率逐月降水量数据集》，西北农林科技大学水土保持研究所，2024年。<br>
-<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次水川编目科学数据：2006-2011》，中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室，2012年。<br>
+<sup>129</sup> 彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心，2025年。<br>
+<sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次冰川编目数据集：2006—2011》，国家青藏高原科学数据中心，2012年。<br>
 <sup>131</sup> 周壮、李盛阳、吴薇、郭威龙、李轩、夏桂松、赵子飞：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心，2023年。<br>
-<sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据》，Science Data Bank，2018年。<br>
-<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地理资源科学数据中心-黄土高原分中心，2024年。<br>
+<sup>132</sup> 郑涵、于贵瑞、朱先进、王秋凤、张雷明、陈智、孙晓敏、何洪林、苏文、王艳芬、韩士杰、周国逸、赵新全、王辉民、欧阳竹、张宪洲、张扬建、石培礼、李英年、赵亮、张一平、闫俊华、王安志、张军辉、郝彦斌、赵风华、张法伟、周广胜、林光辉、陈世苹、刘绍民、赵斌、贾根锁、张旭东、张玉翠、古松、刘文兆、李彦、王文杰、杨大文、张劲松、张志强、赵仲辉、周石硚、郭海强、沈彦俊、徐自为、黄辉、孟平：《2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据集》，Science Data Bank，2018年。<br>
+<sup>133</sup> 黄土高原科学数据中心（西北农林科技大学水土保持研究所）：《青海省县域教育、卫生发展指标（2001—2022年）》，国家地球系统科学数据中心-黄土高原分中心，2024年。<br>
 <sup>134</sup> 王继民、罗鹏程、赵常煜、郭鑫、王世奇、高正：《人文社会科学数据集检索方法研究的数据集》，北京大学开放研究数据平台，2025年。<br>
 <sup>135</sup> L. Sugarman and S. Markham. Students in a Selective High School: Some Vocationally Oriented Data. UK Data Service. 1980.<br>
-<sup>136</sup> Xiaoya Zhong, Qingwu Yan, and Guie Li. Long Time Series Nighttime Light Dataset of China (2000-2020). Global Change Research Data Publishing &#38; Repository. 2022.<br>
+<sup>136</sup> Xiaoya Zhong, Qingwu Yan, and Guie Li. Long Time Series Nighttime Light Dataset of China: 2000–2020. Global Change Research Data Publishing &#38; Repository. 2022.<br>
 <sup>137</sup> IHME. Global Burden of Disease Study 2019 (GBD2019) Data Resources. Global Health Data Exchange. 2021.<br>
 <sup>138</sup> 方向明、曹迎杰：《元宇宙在图书馆的应用：理论研究与实践进展》，ChinaXiv，2023年。<br>
 <sup>139</sup> 肖玲、张雪、王永：《数据要素的统计测算方法探究》，PSSXiv，2024年。<br>
@@ -292,96 +275,233 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
-### 《法学引注手册》 示例文献
+### 《法学引注手册》（第二版）示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 王名扬：《美国行政法》，北京大学出版社，2007年。<br>
-<sup>2</sup> 张新宝：《侵权责任法》（第4版），中国人民大学出版社，2016年。<br>
+<sup>1</sup> 王名扬：《美国行政法》，中国法制出版社，1995年。<br>
+<sup>2</sup> 张新宝：《侵权责任法》（第5版），中国人民大学出版社，2020年。<br>
 <sup>3</sup> 高鸿钧、程汉大主编：《英美法原论》，北京大学出版社，2013年。<br>
-<sup>4</sup> [美]富勒著，郑戈译：《法律的道德性》，商务印书馆，2005年。<br>
-<sup>5</sup> 季卫东：《法律程序的意义：对中国法制建设的另一种思考》，《中国社会科学》1993年第1期，第83—103页。<br>
-<sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年，第110页。<br>
-<sup>7</sup> [德]莱纳·沃尔夫著，陈霄译：《风险法的风险》，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
+<sup>4</sup> ［美］富勒著，郑戈译：《法律的道德性》，商务印书馆，2005年。<br>
+<sup>5</sup> 季卫东：《法律程序的意义——对中国法制建设的另一种思考》，《中国社会科学》1993年第1期，第83—103页。<br>
+<sup>6</sup> 王保树：《股份有限公司机关构造中的董事和董事会》，梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年。<br>
+<sup>7</sup> ［德］莱纳·沃尔夫著，陈霄、刘刚译：《风险法的风险》，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
 <sup>8</sup> 何海波：《判决书上网》，《法制日报》2000年5月21日，第2版。<br>
-<sup>9</sup> 汪波：《哈尔滨市政法机关正对“宝马案”认真调查复查》，人民网，2004年1月10日，<a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a>，2022年5月3日。<br>
-<sup>10</sup> 《被告人李宁、张磊贪污案一审开庭》，新华网，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>。<br>
-<sup>11</sup> 赵耀彤：《一名基层法官眼里好律师的样子》，中国法律评论，2018年12月1日，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>，2022年5月3日。<br>
-<sup>12</sup> 《法国行政法院网站》，<a href="http://english.conseil-etat.fr/Judging">http://english.conseil-etat.fr/Judging</a>，2016年12月18日。<br>
-<sup>13</sup> 李松锋：《游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究》，博士学位论文，中国政法大学，2015年。<br>
-<sup>14</sup> 《民法总则》，出版时间不详。<br>
-<sup>15</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
-<sup>16</sup> 《包郑照诉苍南县人民政府强制拆除房屋案》，出版时间不详。<br>
-<sup>17</sup> 《陆红霞诉南通市发改委政府信息公开案》，2015年。<br>
-<sup>18</sup> Charles A. Reich. The New Property. Yale Law Journal, 1964, 73(5). pp. 733-787.<br>
-<sup>19</sup> Louis D. Brandeis. What Publicity Can Do. Harper’s Weekly, 1913. p. 10.<br>
-<sup>20</sup> William Alford. To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization. Stanford University Press. 1995.<br>
-<sup>21</sup> 应松年、马怀德主编：《当代中国行政法的源流：王名扬教授九十华诞贺寿文集》，中国法制出版社，2006年。<br>
-<sup>22</sup> R. v. Panel on Take-Overs and Mergers, vol. 815. 1987.<br>
-<sup>23</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52—59页。<br>
-<sup>24</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程》，中国政法大学出版社，2004年。<br>
-<sup>25</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》（第2版）第2卷，人民出版社，1994年。<br>
-<sup>26</sup> [英]劳特派特著，王铁崖、陈体强译：《奥本海国际法》（第8版）上卷第一分册，商务印书馆，1971年。<br>
-<sup>27</sup> 瞿同祖：《中国法律与中国社会》，商务印书馆，2010年。<br>
-<sup>28</sup> 崔国斌：《知识产权法官造法批判》，《中国法学》2006年第1期，第144—164页。<br>
-<sup>29</sup> 全国人大常委会：《中华人民共和国刑法修正案（十）》，2017年。<br>
-<sup>30</sup> 全国人大常委会：《中华人民共和国公司法》（2005年修订），2005年。<br>
-<sup>31</sup> 全国人大常委会：《中华人民共和国公司法》（2013年修正），2013年。<br>
-<sup>32</sup> 最高人民法院、最高人民检察院：《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，1993年。<br>
-<sup>33</sup> 全国人大常委会：《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年。<br>
-<sup>34</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
-<sup>35</sup> 最高人民法院：《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》，2018年。<br>
-<sup>36</sup> 国务院：《国务院关于印发打赢蓝天保卫战三年行动计划的通知》，2018年。<br>
-<sup>37</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献 参考文献著录规则》，2015年。<br>
-<sup>38</sup> 信春鹰：《关于《中华人民共和国行政诉讼法修正案（草案）》的说明》，2013年。<br>
-<sup>39</sup> 中国共产党中央委员会：《中共中央关于全面推进依法治国若干重大问题的决定》，2014年。<br>
-<sup>40</sup> 《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》，2013年。<br>
-<sup>41</sup> 《榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年。<br>
-<sup>42</sup> Barbara Ward. Progress for a Small Planet. Harvard Business Review, 1979, (Sep.-Oct.). p. 89.<br>
-<sup>43</sup> Andrew Rosenthal. White House Tutors Kremlin in How a Presidency Works. New York Times, 1990. p. A1.<br>
-<sup>44</sup> Jürgen Habermas. trans. William Rehg. Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy. MIT Press. 1996.<br>
-<sup>45</sup> Jamie Horsley. Rule of Law in China: Incremental Progress. in C. Fred Bergsten, Bates Gill, Nicholas R. Lardy, and Derek Mitchell, eds., <i>China: The Balance Sheet</i>. Public Affairs Press. 2006.<br>
-<sup>46</sup> Department of Transportation Act, vol. 80. 1966. pp. 931, 944-947.<br>
-<sup>47</sup> Administrative Procedure Act § 6, vol. 5. 2006.<br>
-<sup>48</sup> Natural Resources Defense Council <i>v.</i> Gorsuch, vol. 685. 1982. p. 718.<br>
-<sup>49</sup> Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, vol. 467. 1984. p. 837.<br>
-<sup>50</sup> Roe <i>v.</i> Wade, vol. 410. 1973. p. 113.<br>
-<sup>51</sup> United States <i>v.</i> Dino Nastasi et Al.<br>
-<sup>52</sup> Stephen McDonell. When China Began Streaming Trials Online. BBC News. 2016. <a href="https://www.bbc.com/news/blogs-china-blog-37515399">https://www.bbc.com/news/blogs-china-blog-37515399</a>，July 26, 2022.<br>
-<sup>53</sup> Marc Chevallier. L’État de droit. Paris: Montchrestien. 2003.<br>
-<sup>54</sup> Marc Poisson. Le droit de la mer. RGDIP, 2015. pp. 15-47.<br>
-<sup>55</sup> Claire Badiou-Monferran. La promotion esthétique du pathétique dans la seconde moitié du XVIIe siècle. La Licorne, 1997, (43). pp. 75-94.<br>
-<sup>56</sup> Marc Poisson. Le droit de la mer. in <i>Le droit des Océans</i>. 2015. pp. 12-48.<br>
-<sup>57</sup> Marc Poisson. Le droit de la mer en Méditerranée. Congrès de Marseille. 2016. pp. 228-229.<br>
-<sup>58</sup> Marc Poisson. Le droit de la mer en Méditerranée. 2016.<br>
-<sup>59</sup> Marc Poisson. Le droit de la mer appliqué à la Méditerranée, Thèse de doctorat. l’Université de Marseille. 2016.<br>
-<sup>60</sup> Béatrice Joyeux-Prunel. L’histoire de l’art et le quantitatif. Histoire &#38; mesure, vol. XXIII, n° 2, 2008. <a href="http://histoiremesure.revues.org/index3543.html">http://histoiremesure.revues.org/index3543.html</a>，March 17, 2010.<br>
-<sup>61</sup> Benjamin Vogel. Rechtsgüterschutz und Normgeltung. Zeitschrift für die gesamte Strafrechtswissenschaft, 2017, 129(3). pp. 629-649.<br>
-<sup>62</sup> Markus Würdinger. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts. Juristische Schulung, 2012, (3). pp. 234-240.<br>
-<sup>63</sup> Thomas Fischer. Absurdes Spektakel um den Tod. Die Zeit, 2015.<br>
-<sup>64</sup> Claus Roxin. Strafrecht Allgemeiner Teil, vol. 1. C. H. Beck. 2006.<br>
-<sup>65</sup> Ralf Dreier and Stanley Paulson, eds. Rechtsphilosophie Studienausgabe. Heidelberg: UTB Uni-Taschenbücher Verlag. 2003.<br>
-<sup>66</sup> Martin Schwab. in <i>Münchener Kommentar BGB</i>. 2013.<br>
-<sup>67</sup> Arthur Kaufmann. Bemerkungen zur Reform des § 218 StGB aus rechtsphilosophischer Sicht. in Jürgen Baumann, ed., <i>Das Abtreibungsverbot des § 218 StGB</i>. 1972.<br>
-<sup>68</sup> Claus-Wilhelm Canaris. Gesamtunwirksamkeit und Teilgültigkeit rechtsgeschäftlicher Regelungen. 1990.<br>
-<sup>69</sup> StGB.<br>
-<sup>70</sup> StPO.<br>
-<sup>71</sup> GG.<br>
-<sup>72</sup> Strauß-Karikatur, Kunstfreiheit, vol. 75. p. 369.<br>
-<sup>73</sup> 1999. p. 185.<br>
-<sup>74</sup> 2000. p. 1560.<br>
-<sup>75</sup> Martin Meidenbauer. Wissenschaftliches Publizieren. <a href="https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html">https://www.clio-online.de/sites/files/clio/portal-archiv/site/lang_de/40208143/Default-2.html</a>，October 10, 2017.<br>
-<sup>76</sup> 我妻栄. 新訂担保物権法. 有斐閣. 1971.<br>
-<sup>77</sup> 我妻栄 and 有泉亨. 民法総則物権法. 日本評論社. 1950.<br>
-<sup>78</sup> 於保不二雄. 付加物及び従物と抵当権. 民商法雑誌, 1954, 29(5). p. 1.<br>
-<sup>79</sup> 佐藤英明. 一時所得の要件に関する覚書. in 金子宏, 中里実, and J.マーク・ラムザイヤー, eds., 租税法と市場. 有斐閣. 2014. p. 220.<br>
-<sup>80</sup> 信玄公旗掛松事件, vol. 25. 1919. p. 356.<br>
-<sup>81</sup> 約束手形金, 36卷6号. 1982. p. 1113.<br>
-<sup>82</sup> 動産及び債権の譲渡の対抗要件に関する民法の特例に関する法律.<br>
-<sup>83</sup> 平成26年版犯罪白書.<br>
-<sup>84</sup> ジュリスト. <a href="http://www.yuhikaku.co.jp/jurist">http://www.yuhikaku.co.jp/jurist</a>，September 1, 2022.<br>
-<sup>85</sup> 欧中坦著，谢鹏程译：《千方百计上京城：清朝的京控》，高道蕴、高鸿钧、贺卫方主编：《美国学者论中国法律传统》，中国政法大学出版社，1994年。<br>
-<sup>86</sup> 《温家宝主持国务院会议 研究房地产业健康发展措施》，新华网，<a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a>。<br>
+<sup>9</sup> 《论语·述而》。<br>
+<sup>10</sup> 王溥：《唐会要》卷三十九《定格令》，上海古籍出版社，2006年。<br>
+<sup>11</sup> 沈家本：《历代刑法考》，中华书局，1985年。<br>
+<sup>12</sup> 梁秋坪、郝萍：《全国打击治理农村赌博工作现场会召开》，人民网，2024年10月12日，<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>，2025年10月19日。<br>
+<sup>13</sup> 刘松山：《失信惩戒立法的三大问题》，中国法律评论，2019年11月19日，<a href="https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw">https://mp.weixin.qq.com/s/wA3Jj923WNctVATeSkIhCw</a>，2025年10月19日。<br>
+<sup>14</sup> 《法国最高行政法院网站》，<a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>，2024年10月8日。<br>
+<sup>15</sup> 习超：《证券监管有偏私吗？》，“迈向数据法学”研讨会论文，清华大学法学院、社会科学学院、数据科学研究院，2017年12月23日。<br>
+<sup>16</sup> 李松锋：《游走在上帝与凯撒之间一—美国宪法第一修正案中的政教关系研究》，博士学位论文，中国政法大学，2013年。<br>
+<sup>17</sup> 《民法典》，出版时间不详。<br>
+<sup>18</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
+<sup>19</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》，2014年。<br>
+<sup>20</sup> 《包郑照等诉苍南县人民政府强制拆除房屋案》，1988年。<br>
+<sup>21</sup> 《陆红霞诉南通市发展和改革委员会政府信息公开答复案》，2015年。<br>
+<sup>22</sup> 《车某玲诉朱某芳相邻关系纠纷案》，2022年。<br>
+<sup>23</sup> Charles A. Reich. The New Property. The Yale Law Journal, 1964, 73(5). pp. 733-787.<br>
+<sup>24</sup> Louis D. Brandeis. What Publicity Can Do. Harper’s Weekly, 1913. pp. 10-13.<br>
+<sup>25</sup> William P. Alford. To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization. Stanford University Press. 1995.<br>
+<sup>26</sup> Chevron U.S.A., Inc. <i>v.</i> Natural Resources Defense Council, Inc., vol. 467. 1984. p. 837.<br>
+<sup>27</sup> Jacques Chevallier. L’Etat de droit. Paris: Montchrestien. 2003.<br>
+<sup>28</sup> Claus Roxin. Strafrecht Allgemeiner Teil, vol. 1. 2005.<br>
+<sup>29</sup> Angelo Falzea. L’offerta reale e la liberazione coattiva del debitore. Giuffrè. 1947.<br>
+<sup>30</sup> Елена А. Дубовицкая. Европейское корпоративное право. Волтерс Клувер Россия. 2008.<br>
+<sup>31</sup> 我妻栄. 新訂担保物権法（民法講義III）. 有斐閣. 1971.<br>
+<sup>32</sup> 罗豪才主编：《行政法学》，中国政法大学出版社，1989年。<br>
+<sup>33</sup> 车丕照：《论国际系约对私人的效力》，朱晓青、黄列主编：《国际条约与国内法的关系：中德国际条约与国内品关系研讨会论文集》，世界知识出版社，2000年。<br>
+<sup>34</sup> 罗豪才主编：《行政法学》，中国政法大学出版社，1989年。<br>
+<sup>35</sup> 《中国大百科全书·法学》，中国大百科全书出版社，1984年。<br>
+<sup>36</sup> 马怀德主编：《司法改革与行政诉讼制度的完善》，中国政法大学出版社，2004年。<br>
+<sup>37</sup> 胡建淼主编：《行政诉讼法修改研究》，浙江大学出版社，2007年。<br>
+<sup>38</sup> 杨小君：《行政诉讼问题研究及制度改革》，中国人民公安大学出版社，2007年。<br>
+<sup>39</sup> 莫于川主编：《建设法治政府需要司法更给力》，清华大学出版社，2014年。<br>
+<sup>40</sup> 沈岿：《制度变迁与法官的规则选择——立足刘燕文案的初步探索》，《北大法律评论》第3卷第2辑，法律出版社，2001年，第159—203页。<br>
+<sup>41</sup> Thomas E. Kellogg. “Courageous Explorers”? Education Litigation and Judicial Innovation in China. Harvard Human Rights Journal, 2007, 20. p. 141.<br>
+<sup>42</sup> ［日］寺田浩明著，阮云星译：《拥挤列车模式：明清时期的社会认识和秩序建构》，《清华法学》第4卷第6期，2010年，第166—174页。<br>
+<sup>43</sup> R. <i>v.</i> Panel on Take-Overs and Mergers, <i>Ex Parte</i> Datafin Plc. 1987. p. 815.<br>
+<sup>44</sup> Jeffrey E. Cohen. The Dynamics of the “Revolving Door” on the FCC. American Journal of Political Science, 1986, 30(4). pp. 689-708.<br>
+<sup>45</sup> Paul J. Quirk. Industry Influence in Federal Regulatory Agencies. Princeton University Press. 1981.<br>
+<sup>46</sup> 苏力：《公民权利论的迷思:历史中国的国人、村民和分配正义》，《环球法律评论》第39卷第5期，2017年，第5—26页。<br>
+<sup>47</sup> 朱苏力：《制度是如何形成的?——关于马歇尔诉麦迪逊案的故事》，《比较法研究》1998年第1期。<br>
+<sup>48</sup> 顾颉刚：《五德终始说下的政治和历史》，《清华学报》第6卷第1期，1930年，第71—268页。<br>
+<sup>49</sup> 熊元翰主编：《京师地方审判厅法曹会判牍汇编》第一集民事·下编，商务印书馆天津印刷局，1914年。<br>
+<sup>50</sup> ［德］鲁道夫·冯·耶林著，刘权译：《为权利而斗争》，法律出版社，2019年。<br>
+<sup>51</sup> 张文显、于宁：《当代中国法哲学研究范式的转换——从阶级斗争范式到权利本位范式》，《中国法学》2001年第1期，第63—79页。<br>
+<sup>52</sup> 王利明：《迈向权利保护的新时代》，《中国人民大学学报》第34卷第4期，2020年，第1页。<br>
+<sup>53</sup> R. <i>v.</i> Panel on Take-Overs and Mergers, <i>Ex Parte</i> Datafin Plc. 1987. p. 815.<br>
+<sup>54</sup> 信春鹰：《关于〈中华人民共和国行政诉讼法修正案（草案）〉的说明》，2013年。<br>
+<sup>55</sup> 陈卫佐：《拉丁语法律用语手册》，法律出版社，2024年。<br>
+<sup>56</sup> 陈卫佐译：《德国民法典》（第5版），法律出版社，2020年。<br>
+<sup>57</sup> 葛伟军译：《英国2006年公司法》，法律出版社，2008年。<br>
+<sup>58</sup> 陈兴良主编：《刑法学》，复旦大学出版社，2003年。<br>
+<sup>59</sup> 何帆主编：《刑法注释书》（第2版），中国民主法制出版社，2021年。<br>
+<sup>60</sup> ［美］富勒著，郑戈译：《法律的道德性》，商务印书馆，2005年。<br>
+<sup>61</sup> ［日］寺田浩明著，阮云星译：《拥挤列车模式：明清时期的社会认识和秩序建构》，《清华法学》第4卷第6期，2010年，第166—174页。<br>
+<sup>62</sup> ［英］科林·斯科特著，安永康译：《规制、治理与法律：前沿问题研究》，清华大学出版社，2018年。<br>
+<sup>63</sup> 江平、陈夏红：《沉浮与枯荣：八十自述》，法律出版社，2010年。<br>
+<sup>64</sup> 苏力、于明：《基于中国经验的学术创造——苏力教授访谈》，《学术月刊》第52卷第3期，2020年，第179—184页。<br>
+<sup>65</sup> 沈家本：《历代刑法考》，中华书局，1985年。<br>
+<sup>66</sup> 范扬：《行政法总论》，中国方正出版社，2005年。<br>
+<sup>67</sup> 全国人大常委会法制工作委员会行政法室主编：《行政诉讼法立法背景与观点全集》，法律出版社，2015年。<br>
+<sup>68</sup> 《宪法学》编写组主编：《宪法学》（第2版），高等教育出版社；人民出版社，2020年。<br>
+<sup>69</sup> 韦宗、阿江：《行政诉讼立法要论》，《中国法学》1988年第6期，第11—20页。<br>
+<sup>70</sup> ［德］汉斯·J. 沃尔夫、奥托·巴霍夫、罗尔夫·施托贝尔著，高家伟译：《行政法》第1卷，商务印书馆，2002年。<br>
+<sup>71</sup> ［美］瑞恩·卡洛、迈克尔·弗兰金、［加］伊恩·克尔主编，陈吉栋、董慧敏、杭颖颖译：《人工智能与法律的对话》，上海人民出版社，2018年。<br>
+<sup>72</sup> 陈甦、［芬兰］尤拉·柳库恩主编：《法制改革与法治发展》，社会科学文献出版社，2019年。<br>
+<sup>73</sup> ［法］狄骥著，郑戈译：《公法的变迁》，商务印书馆，2013年。<br>
+<sup>74</sup> ［法］勒翁狄几著，杨肇熉译：《公法要义》，上海社会科学院出版社，2017年。<br>
+<sup>75</sup> 理查德·J. 皮尔斯：出版时间不详。<br>
+<sup>76</sup> 沈家本：《历代刑法考》，中华书局，1985年。<br>
+<sup>77</sup> 罗豪才、袁曙宏、李文栋：《现代行政法的理论基础——论行政机关与相对一方的权利义务平衡》，《中国法学》1993年第1期，第52—59页。<br>
+<sup>78</sup> 夏新华、胡旭晟、刘鄂、甘正气、万利容、刘姗姗：《近代中国宪政历程：史料荟萃》，中国政法大学出版社，2004年。<br>
+<sup>79</sup> 《中国大百科全书·法学》，中国大百科全书出版社，1984年。<br>
+<sup>80</sup> 邓小平：《精简机构是一场革命》，《邓小平文选》（第2版）第2卷，人民出版社，1994年。<br>
+<sup>81</sup> 《执行难，难于上青天？》，出版时间不详。<br>
+<sup>82</sup> 《行政诉讼证据规则：原理与规范》，出版时间不详。<br>
+<sup>83</sup> 《何以合法？——对“二奶继承案”的追问》，出版时间不详。<br>
+<sup>84</sup> 《陕西国土厅否决法院判决 施压最高院要求改判》，出版时间不详。<br>
+<sup>85</sup> 《抓实抓好公正与效率 为大局服务为人民司法》，出版时间不详。<br>
+<sup>86</sup> 罗·庞德：《通过法律的社会控制 法律的任务》，出版时间不详。<br>
+<sup>87</sup> 《中国大百科全书·法学》，出版时间不详。<br>
+<sup>88</sup> 盐野宏：《行政法II：行政救济法》，出版时间不详。<br>
+<sup>89</sup> 《邓小平文选》（第2版）第2卷，出版时间不详。<br>
+<sup>90</sup> 《民商法论丛》第61卷，出版时间不详。<br>
+<sup>91</sup> 《奥本海国际法》（第8版）上卷第1分册，出版时间不详。<br>
+<sup>92</sup> 王溥：《唐会要》卷三十九《定格令》，上海古籍出版社，2006年。<br>
+<sup>93</sup> 张新宝：《侵权责任法》，中国人民大学出版社，2006年。<br>
+<sup>94</sup> 张新宝：《侵权责任法》（第5版），中国人民大学出版社，2020年。<br>
+<sup>95</sup> ［美］理查德·J. 皮尔斯著，苏苗罕译：《行政法》（第5版），中国人民大学出版社，2016年。<br>
+<sup>96</sup> ［英］劳特派特著，王铁崖、陈体强译：《奥本海国际法》（第8版）上卷第1分册，商务印书馆，1971年。<br>
+<sup>97</sup> 王名扬：《美国行政法》，中国法制出版社，1995年。<br>
+<sup>98</sup> 王名扬：《美国行政法》，北京大学出版社，2016年。<br>
+<sup>99</sup> 魏振瀛主编：《民法》（第8版），北京大学出版社、高等教育出版社，2021年。<br>
+<sup>100</sup> 车丕照：《论国际条约对私人的效力》，朱晓青、黄列主编：《国际条约与国内法的关系：中德国际条约与国内法关系研讨会论文集》，世界知识出版社，2000年。<br>
+<sup>101</sup> ［德］莱纳·沃尔夫著，陈霄、刘刚译：《风险法的风险》，刘刚主编：《风险规制：德国的理论与实践》，法律出版社，2012年。<br>
+<sup>102</sup> 《清华大学学报（哲学社会科学版）》，2018年第4期。<br>
+<sup>103</sup> 梁慧星主编：《民商法论丛》第1卷，法律出版社，1994年。<br>
+<sup>104</sup> 《北大法律评论》第4卷第2辑，法律出版社，2002年。<br>
+<sup>105</sup> 何海波：《判决书上网》，《法制日报》2000年5月21日，第2版。<br>
+<sup>106</sup> 王和岩：《邓玉娇案尘埃落定》，《财经》2009年第13期。<br>
+<sup>107</sup> 姚际恒：《古今伪书考》，苏州江氏文学山房，1924年活字本（江氏聚珍板印）。<br>
+<sup>108</sup> 姚际恒：《古今伪书考》，朴社，1933年。<br>
+<sup>109</sup> 李昉：《太平御览》卷六九〇，中华书局，1960年影印本。<br>
+<sup>110</sup> 《论语·述而》，出版时间不详。<br>
+<sup>111</sup> 翁岳生主编：《行政法》上，元照出版有限公司，2020年。<br>
+<sup>112</sup> 王泽鉴：《民法总则》（修订自版），2020年。<br>
+<sup>113</sup> 《台大法学论丛》第47卷第4期，2018年。<br>
+<sup>114</sup> 《政大法学评论》2013年第132期。<br>
+<sup>115</sup> 瞿同祖著，范忠信、何鹏、晏锋译：《清代地方政府》，新星出版社，2022年。<br>
+<sup>116</sup> 崔国斌：《知识产权法官造法批判》，《中国法学》2006年第1期，第144—164页。<br>
+<sup>117</sup> 那思陆：《清代州县衙门审判制度》，中国政法大学出版社，2006年。<br>
+<sup>118</sup> 里赞：《晚清州县诉讼中的审断问题：侧重四川南部县的实暇》，法律出版社，2010年。<br>
+<sup>119</sup> 伍跃：《传统中国行政诉讼的一个场景：民告官》，［日］夫马进、范愉、赵晶主编：《中国诉讼社会史研究》，浙江大学出版社，2019年。<br>
+<sup>120</sup> 姚际恒：《古今伪书考》卷三，苏州江氏文学山房，1924年活字本（江氏聚珍板印）。<br>
+<sup>121</sup> ［德］哈特穆特·毛雷尔著，高家伟译：《行政法学总论》，法律出版社，2000年。<br>
+<sup>122</sup> 《中国大百科全书·法学》，中国大百科全书出版社，1984年。<br>
+<sup>123</sup> 《论语·述而》，出版时间不详。<br>
+<sup>124</sup> 《圣经·出埃及记》，出版时间不详。<br>
+<sup>125</sup> 《元典章》卷一九《户部五·田宅·家财》。<br>
+<sup>126</sup> 高鸿钧、程汉大主编：《英美法原论》，北京大学出版社，2013年。<br>
+<sup>127</sup> 梁秋坪、郝萍：《全国打击治理农村赌博工作现场会召开》，人民网，2024年10月12日，<a href="http://society.people.com.cn/n1/2024/1012/c1008-40337761.html">http://society.people.com.cn/n1/2024/1012/c1008-40337761.html</a>，2025年11月8日。<br>
+<sup>128</sup> 《被告人李宁、张磊贪污案一审开庭》，新华网，2019年12月31日，<a href="http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm">http://www.xinhuanet.com/legal/2019-12/31/c_1125406056.htm</a>，2025年11月8日。<br>
+<sup>129</sup> 任重远：《镇坪强制引产事件终结 当事人获七万余元补助》，财新网，2012年7月11日，<a href="https://china.caixin.com/2012-07-11/100409832.html">https://china.caixin.com/2012-07-11/100409832.html</a>，2025年11月8日。<br>
+<sup>130</sup> 任重远：《镇坪强制引产事件终结 当事人获七万余元补助》，财新网，<a href="https://china.caixin.com/2012-07-11/100409832.html">https://china.caixin.com/2012-07-11/100409832.html</a>，2025年11月8日。<br>
+<sup>131</sup> 《法国最高行政法院网站》，<a href="https://conseil-etat.fr/zh">https://conseil-etat.fr/zh</a>，2024年10月8日。<br>
+<sup>132</sup> 《中国人大网“已结束的征求意见”栏目》，<a href="http://www.npc.gov.cn/flcaw/more.html">http://www.npc.gov.cn/flcaw/more.html</a>，2020年2月28日。<br>
+<sup>133</sup> 黄晓磊：《再说博客文章被正式引用》，科学网博客，2012年3月23日，<a href="https://blog.sciencenet.cn/blog-111883-550928.html">https://blog.sciencenet.cn/blog-111883-550928.html</a>，2025年11月8日。<br>
+<sup>134</sup> 新浪微博 xiaolwl：2020年1月31日，<a href="https://weibo.com/1139098205/4466768535861595">https://weibo.com/1139098205/4466768535861595</a>。<br>
+<sup>135</sup> 刘松山：《失信惩戒立法的三大问题》，微信公众号“中国法律评论”，2019年11月19日。<br>
+<sup>136</sup> 莫纪宏：《论“中国式现代化”的法治保障》，“学习强国”App，2024年6月21日。<br>
+<sup>137</sup> 《新型冠状病毒肺炎，情况如何？》，2020年。<br>
+<sup>138</sup> xxx：《最高人民法院公报》编辑部，2000年。<br>
+<sup>139</sup> 2001年。<br>
+<sup>140</sup> 王名扬教授：2002年3月8日。<br>
+<sup>141</sup> 上海市浦东新区人民法院行政审判庭：《2001年行政庭工作总结》，出版时间不详。<br>
+<sup>142</sup> 《全国人大常委会法工委行政诉讼法修改座谈会》，2009年。<br>
+<sup>143</sup> 习超：《证券监管有偏私吗？》，“迈向数据法学”研讨会论文，清华大学法学院、社会科学学院、数据科学研究院，2017年12月23日。<br>
+<sup>144</sup> 姜明安：《新时代中国行政法学的转型与使命》，行政法学研究会论文，中国法学会，2018年。<br>
+<sup>145</sup> 陈鹏：《基本权利保障中的法律保留：历史变迁与本土建构》，《第五届中国宪法学青年论坛会议论文集》，2022年。<br>
+<sup>146</sup> 李松锋：《游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究》，博士学位论文，中国政法大学，2013年。<br>
+<sup>147</sup> 雷经天：《关于边区司法工作检查情形》，1943年9月3日，陕甘宁边区高等法院档案15/149，陕西省档案馆藏。<br>
+<sup>148</sup> 《中华人民共和国民事诉讼法（试行）》，出版时间不详。<br>
+<sup>149</sup> 《民事诉讼法（试行）》，出版时间不详。<br>
+<sup>150</sup> 《中华人民共和国刑法修正案（十）》，出版时间不详。<br>
+<sup>151</sup> 《刑法修正案（十）》，出版时间不详。<br>
+<sup>152</sup> 《全国法院民商事审判工作会议纪要》，出版时间不详。<br>
+<sup>153</sup> 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》，出版时间不详。<br>
+<sup>154</sup> 《行政处罚法》，出版时间不详。<br>
+<sup>155</sup> 《全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定》，1991年。<br>
+<sup>156</sup> 国务院：《中华人民共和国增值税条例（草案）》，1984年。<br>
+<sup>157</sup> 公安部：《公安机关办理行政案件程序规定》（修订），2006年。<br>
+<sup>158</sup> 《公司法》（修订），2005年。<br>
+<sup>159</sup> 《公司法》（修订），2013年。<br>
+<sup>160</sup> 《最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知》，出版时间不详。<br>
+<sup>161</sup> 《行政复议法（修订草案）》，2022年。<br>
+<sup>162</sup> 《行政复议法（修订草案）》，2023年。<br>
+<sup>163</sup> 《民法典》，出版时间不详。<br>
+<sup>164</sup> 《行政诉讼法》，1989年。<br>
+<sup>165</sup> 《最高人民法院关于适用〈中华人民共和国用事环资法〉的解释》，出版时间不详。<br>
+<sup>166</sup> 《刑法》，出版时间不详。<br>
+<sup>167</sup> 《最高人民法院关于适用刑法第六十四条有关问题的批复》，出版时间不详。<br>
+<sup>168</sup> 《全国人民代表大会常务委员会关于〈中华人民共和国民法通则》第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释》，出版时间不详。<br>
+<sup>169</sup> 《宪法》，出版时间不详。<br>
+<sup>170</sup> 《刑法》，出版时间不详。<br>
+<sup>171</sup> 《最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释》，出版时间不详。<br>
+<sup>172</sup> 《打赢蓝天保卫战三年行动计划》，出版时间不详。<br>
+<sup>173</sup> 《中共中央、国务院关于加快建设全国统一大市场的意见》，出版时间不详。<br>
+<sup>174</sup> 《关于拓展跨境电商出口推进海外仓建设的意见》，出版时间不详。<br>
+<sup>175</sup> 《最高人民法院关于雇工合同“工伤概不负责”是否有效的批复》，1988年。<br>
+<sup>176</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
+<sup>177</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
+<sup>178</sup> 《国务院关于在全国建立农村最低生活保障制度的通知》，2007年。<br>
+<sup>179</sup> 中华人民共和国司法部主编：《司法部关于可否张贴判决书及应注意事项的批复》，法律出版社，1956年。<br>
+<sup>180</sup> 《中共中央、国务院关于实施就业优先战略促进高质量充分就业的意见》，2024年。<br>
+<sup>181</sup> 国家质量监督检验检疫总局、中国国家标准化管理委员会：《信息与文献参考文献著录规则》，出版时间不详。<br>
+<sup>182</sup> 《中共中央关于全面推进依法治国若干重大问题的决定》，2014年。<br>
+<sup>183</sup> 《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》，2020年。<br>
+<sup>184</sup> 《中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要》，2021年。<br>
+<sup>185</sup> 《全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定》，2021年。<br>
+<sup>186</sup> 李克强：《政府工作报告》，2023年。<br>
+<sup>187</sup> 周强（最高人民法院院长）：《关于〈中华人民共和国民事诉讼法（修正草案）〉的说明》，2022年。<br>
+<sup>188</sup> 国务院新闻办公室：《新时代的中国网络法治建设》，2023年。<br>
+<sup>189</sup> 最高人民法院：《中国法院的司法改革（2013-2022）》，人民法院出版社，2023年。<br>
+<sup>190</sup> 《刑事上诉规则》，出版时间不详。<br>
+<sup>191</sup> 《维护国家安全（中央人民政府驻香港特别行政区维护国家安全公署）规例》，2025年。<br>
+<sup>192</sup> 《香港的刑事责任年龄》，2000年。<br>
+<sup>193</sup> 《澳门特别行政区廉政公署组织法》，出版时间不详。<br>
+<sup>194</sup> 《我国台湾地区“民法”》，出版时间不详。<br>
+<sup>195</sup> 《驾驶人无过失及情节轻微之肇事逃逸案》，2019年。<br>
+<sup>196</sup> 《1996年仲裁法》，出版时间不详。<br>
+<sup>197</sup> 《统一买卖法》，1906年。<br>
+<sup>198</sup> 《统一买卖法》，出版时间不详。<br>
+<sup>199</sup> 《1996年仲裁法》，出版时间不详。<br>
+<sup>200</sup> 陈卫佐译：《德国民法典》（第5版），法律出版社，2020年。<br>
+<sup>201</sup> 《美国法典·宪法行政法卷》，中国社会科学出版社，1993年。<br>
+<sup>202</sup> 联合国：《儿童权利公约》，出版时间不详。<br>
+<sup>203</sup> 《联合国海洋法公约》，出版时间不详。<br>
+<sup>204</sup> 《联合国海洋法公约》，出版时间不详。<br>
+<sup>205</sup> 《世界人权宣言》，联合国大会决议，1948年。<br>
+<sup>206</sup> 《全球努力打击恐怖主义的宣言》，联合国安理会决议，1992年。<br>
+<sup>207</sup> 《和平纲领：预防性外交、建立和平与维持和平》，联合国秘书长报告，1992年。<br>
+<sup>208</sup> 《苏嘉鸿诉中国证监会行政处罚案》，2018年。<br>
+<sup>209</sup> 《苏嘉鸿不服中国证监会行政处罚行政复议案》，2017年。<br>
+<sup>210</sup> 《苏嘉鸿内幕交易行政处罚案》，2016年。<br>
+<sup>211</sup> 《陈辉（化名）诉大庆日月星有限公司劳动争议案》，出版时间不详。<br>
+<sup>212</sup> 《车某玲诉朱某芳相邻关系纠纷案》，出版时间不详。<br>
+<sup>213</sup> 《“夹江打假案”》，出版时间不详。<br>
+<sup>214</sup> 《“许霆恶意取款案”》，出版时间不详。<br>
+<sup>215</sup> 出版时间不详。<br>
+<sup>216</sup> 出版时间不详。<br>
+<sup>217</sup> 《荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案》，2013年。<br>
+<sup>218</sup> 《陆红霞诉南通市发展和改革委员会政府信息公开答复案》，2015年。<br>
+<sup>219</sup> 《车某玲诉朱某芳相邻关系纠纷案》，2022年。<br>
+<sup>220</sup> 《谢文彬诉广东省司法厅案》，出版时间不详。<br>
+<sup>221</sup> 李桂茹、孔献之：《七旬律师被判可以执业〈律师法〉赢了司法部文件》，《中国青年报》（7）2003年6月4日。<br>
+<sup>222</sup> 最高人民法院中国应用法学研究所主编：《宁德市大众影院诉宁德地区工商行政管理局行政处罚案》，中国法制出版社，2000年。<br>
+<sup>223</sup> 《榆林市凯奇莱能源投资有限公司与西安地质矿产勘查开发院合作勘查合同纠纷上诉案》，2017年。<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

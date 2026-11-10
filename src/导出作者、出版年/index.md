@@ -9,11 +9,11 @@
 ### 引注
 
 (汪学军, 2005)<br>
+(Praetzellis, 2011)<br>
 (Wang, 2022)<br>
 (扬奎斯特 等, 2010)<br>
 (Jenkins et al., 2012)<br>
 (肖玲 等, 2024)<br>
-(Praetzellis, 2011)<br>
 (于潇 等, 2012)<br>
 (Veen et al., 2014)<br>
 
@@ -30,6 +30,9 @@
   <div class="csl-entry">Veen <i>et al.</i>, 2014.</div>
   <div class="csl-entry">Wang, 2022.</div>
 </div>
+
+## 样式测试
+
 
 ## 默认测试
 
@@ -68,7 +71,7 @@ Qian et al. (2009b)<br>
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
   <div class="csl-entry">阿扬, 2023.</div>
-  <div class="csl-entry">北京鲁迅博物馆, 2021.</div>
+  <div class="csl-entry">北京鲁迅博物馆（北京新文化运动纪念馆）, 2021.</div>
   <div class="csl-entry">博伯尔, 2023.</div>
   <div class="csl-entry">曹凌, 2011.</div>
   <div class="csl-entry">陈登原, 2000.</div>
@@ -107,7 +110,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">马克思, 2013.</div>
   <div class="csl-entry">牛永敢等, 2019.</div>
   <div class="csl-entry">牛志明等, 2012.</div>
-  <div class="csl-entry">彭守璋, 2024.</div>
+  <div class="csl-entry">彭守璋, 2025.</div>
   <div class="csl-entry">钱学森, 2001.</div>
   <div class="csl-entry">全国信息技术标准化技术委员会, 2016.</div>
   <div class="csl-entry">全国信息与文献标准化技术委员会, 2021.</div>
@@ -126,7 +129,6 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">肖玲等, 2024.</div>
   <div class="csl-entry">肖希明等, 2024.</div>
   <div class="csl-entry">徐建委, 2025.</div>
-  <div class="csl-entry">许振超, 2025.</div>
   <div class="csl-entry">扬奎斯特等, 2010.</div>
   <div class="csl-entry">杨洪升, 2013.</div>
   <div class="csl-entry">杨立华, 2022.</div>
@@ -134,13 +136,12 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名, 1962.</div>
   <div class="csl-entry">Anon, 1979.</div>
   <div class="csl-entry">佚名, 2011.</div>
+  <div class="csl-entry">佚名, 2015.</div>
   <div class="csl-entry">佚名, 2020.</div>
   <div class="csl-entry">Anon, 2020.</div>
-  <div class="csl-entry">佚名, 2023a.</div>
-  <div class="csl-entry">佚名, 2023b.</div>
+  <div class="csl-entry">佚名, 2023.</div>
   <div class="csl-entry">Anon, 2024.</div>
-  <div class="csl-entry">Anon.</div>
-  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名, 2025.</div>
   <div class="csl-entry">Anon.</div>
   <div class="csl-entry">于潇等, 2012.</div>
   <div class="csl-entry">云南省企业联合会等, 2009.</div>
@@ -163,7 +164,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">周壮等, 2023.</div>
   <div class="csl-entry">訾冬梅等, 2006.</div>
   <div class="csl-entry">American Association for the Advancement of Science, 1883.</div>
-  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA).</div>
+  <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA), 2022.</div>
   <div class="csl-entry">António M等, 2019.</div>
   <div class="csl-entry">Babu <i>et al.</i>, 2014.</div>
   <div class="csl-entry">Bevington <i>et al.</i>, 2025.</div>
@@ -180,9 +181,11 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Fourney, 1971.</div>
   <div class="csl-entry">Frese <i>et al.</i>, 2013.</div>
   <div class="csl-entry">IHME, 2021.</div>
-  <div class="csl-entry">Institute For Art And Architecture <i>et al.</i>, 2023.</div>
+  <div class="csl-entry">Institute for Art and Architecture, Academy of Fine Arts Vienna, 2023.</div>
   <div class="csl-entry">International Electrotechnical Commission (IEC), 2021.</div>
   <div class="csl-entry">International Organization for Standardization.</div>
+  <div class="csl-entry">ISO, 2016a.</div>
+  <div class="csl-entry">ISO, 2016b.</div>
   <div class="csl-entry">ISO, 2019.</div>
   <div class="csl-entry">Jenkins <i>et al.</i>, 2012.</div>
   <div class="csl-entry">Kinchy, 2012.</div>
@@ -311,55 +314,168 @@ Qian et al. (2009b)<br>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
-### 《法学引注手册》 示例文献
+### 《法学引注手册》（第二版）示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-false">
+  <div class="csl-entry">车丕照, 2000a.</div>
+  <div class="csl-entry">车丕照, 2000b.</div>
+  <div class="csl-entry">陈鹏, 2022.</div>
+  <div class="csl-entry">陈甦等, 2019.</div>
+  <div class="csl-entry">陈卫佐, 2024.</div>
+  <div class="csl-entry">陈兴良, 2003.</div>
   <div class="csl-entry">崔国斌, 2006.</div>
-  <div class="csl-entry">[德]莱纳·沃尔夫, 2012.</div>
   <div class="csl-entry">邓小平, 1994.</div>
-  <div class="csl-entry">高鸿钧等, 2013.</div>
-  <div class="csl-entry">国家质量监督检验检疫总局等, 2015.</div>
-  <div class="csl-entry">国务院, 2007a.</div>
-  <div class="csl-entry">国务院, 2007b.</div>
-  <div class="csl-entry">国务院, 2018.</div>
-  <div class="csl-entry">何海波, 2000.</div>
+  <div class="csl-entry">狄骥, 2013.</div>
+  <div class="csl-entry">范扬, 2005.</div>
+  <div class="csl-entry">富勒, 2005a.</div>
+  <div class="csl-entry">富勒, 2005b.</div>
+  <div class="csl-entry">高鸿钧等, 2013a.</div>
+  <div class="csl-entry">高鸿钧等, 2013b.</div>
+  <div class="csl-entry">公安部, 2006.</div>
+  <div class="csl-entry">顾颉刚, 1930.</div>
+  <div class="csl-entry">国家质量监督检验检疫总局等.</div>
+  <div class="csl-entry">国务院, 1984.</div>
+  <div class="csl-entry">国务院新闻办公室, 2023.</div>
+  <div class="csl-entry">哈特穆特·毛雷尔, 2000.</div>
+  <div class="csl-entry">汉斯·J. 沃尔夫等, 2002.</div>
+  <div class="csl-entry">何帆, 2021.</div>
+  <div class="csl-entry">何海波, 2000a.</div>
+  <div class="csl-entry">何海波, 2000b.</div>
+  <div class="csl-entry">胡建淼, 2007.</div>
+  <div class="csl-entry">黄晓磊, 2012.</div>
   <div class="csl-entry">季卫东, 1993.</div>
-  <div class="csl-entry">李松锋, 2015.</div>
+  <div class="csl-entry">江平等, 2010.</div>
+  <div class="csl-entry">姜明安, 2018.</div>
+  <div class="csl-entry">科林·斯科特, 2018.</div>
+  <div class="csl-entry">莱纳·沃尔夫, 2012a.</div>
+  <div class="csl-entry">莱纳·沃尔夫, 2012b.</div>
+  <div class="csl-entry">劳特派特, 1971.</div>
+  <div class="csl-entry">勒翁狄几, 2017.</div>
+  <div class="csl-entry">雷经天, 1943.</div>
+  <div class="csl-entry">李昉, 1960.</div>
+  <div class="csl-entry">李桂茹等, 2003.</div>
+  <div class="csl-entry">李克强, 2023.</div>
+  <div class="csl-entry">李松锋, 2013a.</div>
+  <div class="csl-entry">李松锋, 2013b.</div>
+  <div class="csl-entry">里赞, 2010.</div>
+  <div class="csl-entry">理查德·J. 皮尔斯, 2016.</div>
+  <div class="csl-entry">理查德·J. 皮尔斯.</div>
+  <div class="csl-entry">联合国.</div>
+  <div class="csl-entry">梁秋坪等, 2024a.</div>
+  <div class="csl-entry">梁秋坪等, 2024b.</div>
+  <div class="csl-entry">刘松山, 2019a.</div>
+  <div class="csl-entry">刘松山, 2019b.</div>
+  <div class="csl-entry">鲁道夫·冯·耶林, 2019.</div>
+  <div class="csl-entry">罗豪才, 1989a.</div>
+  <div class="csl-entry">罗豪才, 1989b.</div>
   <div class="csl-entry">罗豪才等, 1993.</div>
-  <div class="csl-entry">[美]富勒, 2005.</div>
-  <div class="csl-entry">欧中坦, 1994.</div>
-  <div class="csl-entry">瞿同祖, 2010.</div>
-  <div class="csl-entry">全国人大常委会, 1991.</div>
-  <div class="csl-entry">全国人大常委会, 2005.</div>
-  <div class="csl-entry">全国人大常委会, 2013.</div>
-  <div class="csl-entry">全国人大常委会, 2017.</div>
-  <div class="csl-entry">汪波, 2004.</div>
+  <div class="csl-entry">罗·庞德.</div>
+  <div class="csl-entry">马怀德, 2004.</div>
+  <div class="csl-entry">［美］瑞恩·卡洛等, 2018.</div>
+  <div class="csl-entry">莫纪宏, 2024.</div>
+  <div class="csl-entry">莫于川主编, 2014.</div>
+  <div class="csl-entry">那思陆, 2006.</div>
+  <div class="csl-entry">瞿同祖, 2022.</div>
+  <div class="csl-entry">全国人大常委会法制工作委员会行政法室, 2015.</div>
+  <div class="csl-entry">任重远, 2012.</div>
+  <div class="csl-entry">任重远.</div>
+  <div class="csl-entry">上海市浦东新区人民法院行政审判庭.</div>
+  <div class="csl-entry">沈家本, 1985a.</div>
+  <div class="csl-entry">沈家本, 1985b.</div>
+  <div class="csl-entry">沈家本, 1985c.</div>
+  <div class="csl-entry">沈岿, 2001.</div>
+  <div class="csl-entry">寺田浩明, 2010a.</div>
+  <div class="csl-entry">寺田浩明, 2010b.</div>
+  <div class="csl-entry">苏力, 2017.</div>
+  <div class="csl-entry">苏力等, 2020.</div>
   <div class="csl-entry">王保树, 1994.</div>
-  <div class="csl-entry">王名扬, 2007.</div>
-  <div class="csl-entry">我妻栄等, 1950.</div>
+  <div class="csl-entry">王和岩, 2009.</div>
+  <div class="csl-entry">王利明, 2020.</div>
+  <div class="csl-entry">王名扬, 1995a.</div>
+  <div class="csl-entry">王名扬, 1995b.</div>
+  <div class="csl-entry">王名扬, 2016.</div>
+  <div class="csl-entry">王名扬教授, 2002.</div>
+  <div class="csl-entry">王溥, 2006a.</div>
+  <div class="csl-entry">王溥, 2006b.</div>
+  <div class="csl-entry">王泽鉴, 2020.</div>
+  <div class="csl-entry">韦宗等, 1988.</div>
+  <div class="csl-entry">魏振瀛, 2021.</div>
+  <div class="csl-entry">翁岳生, 2020.</div>
   <div class="csl-entry">我妻栄, 1971.</div>
+  <div class="csl-entry">伍跃, 2019.</div>
+  <div class="csl-entry">习超, 2017a.</div>
+  <div class="csl-entry">习超, 2017b.</div>
   <div class="csl-entry">夏新华等, 2004.</div>
+  <div class="csl-entry">《宪法学》编写组, 2020.</div>
+  <div class="csl-entry">新浪微博 xiaolwl, 2020.</div>
   <div class="csl-entry">信春鹰, 2013.</div>
-  <div class="csl-entry">佚名, 1919.</div>
-  <div class="csl-entry">Anon, 1966.</div>
-  <div class="csl-entry">Anon, 1973.</div>
-  <div class="csl-entry">Anon, 1982.</div>
-  <div class="csl-entry">佚名, 1982.</div>
+  <div class="csl-entry">熊元翰, 1914.</div>
+  <div class="csl-entry">盐野宏.</div>
+  <div class="csl-entry">杨小君, 2007.</div>
+  <div class="csl-entry">姚际恒, 1924a.</div>
+  <div class="csl-entry">姚际恒, 1924b.</div>
+  <div class="csl-entry">姚际恒, 1933.</div>
+  <div class="csl-entry">佚名, 1906.</div>
+  <div class="csl-entry">佚名, 1948.</div>
+  <div class="csl-entry">佚名, 1956.</div>
   <div class="csl-entry">Anon, 1984.</div>
-  <div class="csl-entry">Anon, 1987.</div>
-  <div class="csl-entry">佚名, 1999.</div>
-  <div class="csl-entry">佚名, 2000.</div>
-  <div class="csl-entry">Anon, 2006.</div>
-  <div class="csl-entry">佚名, 2013.</div>
-  <div class="csl-entry">佚名, 2015.</div>
-  <div class="csl-entry">佚名, 2017.</div>
+  <div class="csl-entry">佚名, 1984a.</div>
+  <div class="csl-entry">佚名, 1984b.</div>
+  <div class="csl-entry">佚名, 1984c.</div>
+  <div class="csl-entry">Anon, 1987a.</div>
+  <div class="csl-entry">Anon, 1987b.</div>
+  <div class="csl-entry">佚名, 1988a.</div>
+  <div class="csl-entry">佚名, 1988b.</div>
+  <div class="csl-entry">佚名, 1989.</div>
+  <div class="csl-entry">佚名, 1991.</div>
+  <div class="csl-entry">佚名, 1992a.</div>
+  <div class="csl-entry">佚名, 1992b.</div>
+  <div class="csl-entry">佚名, 1993.</div>
+  <div class="csl-entry">佚名, 1994.</div>
+  <div class="csl-entry">佚名, 2000a.</div>
+  <div class="csl-entry">佚名, 2000b.</div>
+  <div class="csl-entry">佚名, 2001.</div>
+  <div class="csl-entry">佚名, 2002.</div>
+  <div class="csl-entry">佚名, 2005.</div>
+  <div class="csl-entry">佚名, 2007a.</div>
+  <div class="csl-entry">佚名, 2007b.</div>
+  <div class="csl-entry">佚名, 2007c.</div>
+  <div class="csl-entry">佚名, 2007d.</div>
+  <div class="csl-entry">佚名, 2008.</div>
+  <div class="csl-entry">佚名, 2009.</div>
+  <div class="csl-entry">佚名, 2013a.</div>
+  <div class="csl-entry">佚名, 2013b.</div>
+  <div class="csl-entry">佚名, 2013c.</div>
+  <div class="csl-entry">佚名, 2014a.</div>
+  <div class="csl-entry">佚名, 2014b.</div>
+  <div class="csl-entry">佚名, 2015a.</div>
+  <div class="csl-entry">佚名, 2015b.</div>
+  <div class="csl-entry">佚名, 2016.</div>
+  <div class="csl-entry">佚名, 2017a.</div>
+  <div class="csl-entry">佚名, 2017b.</div>
+  <div class="csl-entry">佚名, 2018a.</div>
+  <div class="csl-entry">佚名, 2018b.</div>
+  <div class="csl-entry">佚名, 2018c.</div>
+  <div class="csl-entry">佚名, 2019a.</div>
+  <div class="csl-entry">佚名, 2019b.</div>
+  <div class="csl-entry">佚名, 2020a.</div>
+  <div class="csl-entry">佚名, 2020b.</div>
+  <div class="csl-entry">佚名, 2020c.</div>
+  <div class="csl-entry">佚名, 2020d.</div>
+  <div class="csl-entry">佚名, 2021a.</div>
+  <div class="csl-entry">佚名, 2021b.</div>
+  <div class="csl-entry">佚名, 2022a.</div>
+  <div class="csl-entry">佚名, 2022b.</div>
+  <div class="csl-entry">佚名, 2022c.</div>
+  <div class="csl-entry">佚名, 2023.</div>
+  <div class="csl-entry">佚名, 2024.</div>
+  <div class="csl-entry">佚名, 2025.</div>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
-  <div class="csl-entry">Anon.</div>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
@@ -368,40 +484,64 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
   <div class="csl-entry">佚名.</div>
-  <div class="csl-entry">应松年等, 2006.</div>
-  <div class="csl-entry">[英]劳特派特, 1971.</div>
-  <div class="csl-entry">於保不二雄, 1954.</div>
-  <div class="csl-entry">张新宝, 2016.</div>
-  <div class="csl-entry">赵耀彤, 2018.</div>
-  <div class="csl-entry">中国共产党中央委员会, 2014.</div>
-  <div class="csl-entry">最高人民法院等, 1993.</div>
-  <div class="csl-entry">最高人民法院, 2018.</div>
-  <div class="csl-entry">佐藤英明, 2014.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">佚名.</div>
+  <div class="csl-entry">张文显等, 2001.</div>
+  <div class="csl-entry">张新宝, 2006.</div>
+  <div class="csl-entry">张新宝, 2020a.</div>
+  <div class="csl-entry">张新宝, 2020b.</div>
+  <div class="csl-entry">周强（最高人民法院院长）, 2022.</div>
+  <div class="csl-entry">朱苏力, 1998.</div>
+  <div class="csl-entry">最高人民法院, 2023.</div>
   <div class="csl-entry">Alford, 1995.</div>
-  <div class="csl-entry">Badiou-Monferran C, 1997.</div>
-  <div class="csl-entry">Barbara Ward, 1979.</div>
   <div class="csl-entry">Brandeis, 1913.</div>
-  <div class="csl-entry">Canaris C W, 1990.</div>
-  <div class="csl-entry">Chevallier M, 2003.</div>
-  <div class="csl-entry">Dreier R等, 2003.</div>
-  <div class="csl-entry">Fischer T, 2015.</div>
-  <div class="csl-entry">Habermas, 1996.</div>
-  <div class="csl-entry">Horsley, 2006.</div>
-  <div class="csl-entry">Joyeux-Prunel B.</div>
-  <div class="csl-entry">Kaufmann A, 1972.</div>
-  <div class="csl-entry">McDonell, 2016.</div>
-  <div class="csl-entry">Meidenbauer M.</div>
-  <div class="csl-entry">Poisson M, 2015a.</div>
-  <div class="csl-entry">Poisson M, 2015b.</div>
-  <div class="csl-entry">Poisson M, 2016a.</div>
-  <div class="csl-entry">Poisson M, 2016b.</div>
-  <div class="csl-entry">Poisson M, 2016c.</div>
+  <div class="csl-entry">Chevallier J, 2003.</div>
+  <div class="csl-entry">Cohen, 1986.</div>
+  <div class="csl-entry">Falzea A, 1947.</div>
+  <div class="csl-entry">Kellogg, 2007.</div>
+  <div class="csl-entry">Quirk, 1981.</div>
   <div class="csl-entry">Reich, 1964.</div>
-  <div class="csl-entry">Rosenthal, 1990.</div>
-  <div class="csl-entry">Roxin C, 2006.</div>
-  <div class="csl-entry">Schwab M, 2013.</div>
-  <div class="csl-entry">Vogel B, 2017.</div>
-  <div class="csl-entry">Würdinger M, 2012.</div>
+  <div class="csl-entry">Roxin C, 2005.</div>
+  <div class="csl-entry">Xxx, 2000.</div>
+  <div class="csl-entry">Дубовицкая Е А, 2008.</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

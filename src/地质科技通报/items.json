@@ -1,0 +1,203 @@
+[
+	{
+		"id": "http://zotero.org/users/4181482/items/RAU9R6XY",
+		"type": "thesis",
+		"genre": "硕士学位论文",
+		"language": "zh",
+		"note": "original-author: Li || X\noriginal-genre: Unpublished master's thesis\noriginal-publisher: Inner Mongolia Normal University\noriginal-publisher-place: Hohhot\noriginal-title: Study on Microbial Diversity of Saline-Alkali Soils with Different Degrees of Salinization",
+		"publisher": "内蒙古师范大学",
+		"publisher-place": "呼和浩特",
+		"title": "不同盐碱程度盐碱土壤微生物多样性研究",
+		"URL": "https://kns.cnki.net/kcms2/article/abstract?v=BbvBZ4vy5aRd6YCjIa7wHADnBmj1EVeWBGeVWMzyvd-b635LeJZFhkJakpCd4q91B7FXKhM7XfvEXKU_NnrIfWq4dAmqyTzUFAOs3EIMikVavdiB-5sguo5YUvK1suHyczCwotvo_UmU4KN20063s-LvEGvx7Hz0lfJtZZq66G0RTCcVh0KIgdM6kROXsYFG&uniplatform=NZKPT&language=CHS",
+		"author": [
+			{
+				"literal": "李新"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/XLVHN7V6",
+		"type": "article-journal",
+		"container-title": "环境科学",
+		"DOI": "10.13227/j.hjkx.202412036",
+		"ISSN": "0250-3301",
+		"journalAbbreviation": "环境科学",
+		"language": "zh",
+		"note": "original-author: Chen || X Y\noriginal-author: Hu || Y Q\noriginal-author: Lv || J T\noriginal-author: You || L L\noriginal-author: Wang || Z F\noriginal-author: Dai || W C\noriginal-author: Xie || Y H\noriginal-author: Gao || M\noriginal-container-title: Influence of biochar on the functional prediction of soil bacterial communities in pepper orchards and the analysis of symbiotic networks",
+		"page": "1-17",
+		"title": "生物炭对花椒园土壤细菌群落功能预测的影响及共生网络分析",
+		"URL": "https://link.cnki.net/doi/10.13227/j.hjkx.202412036",
+		"author": [
+			{
+				"literal": "陈薪宇"
+			},
+			{
+				"literal": "胡永庆"
+			},
+			{
+				"literal": "吕俊廷"
+			},
+			{
+				"literal": "由乐林"
+			},
+			{
+				"literal": "王子芳"
+			},
+			{
+				"literal": "代文才"
+			},
+			{
+				"literal": "谢永红"
+			},
+			{
+				"literal": "高明"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/GAGVVWWU",
+		"type": "article-journal",
+		"container-title": "环境科学",
+		"DOI": "10.13227/j.hjkx.202506301",
+		"ISSN": "0250-3301",
+		"journalAbbreviation": "环境科学",
+		"language": "zh",
+		"note": "original-author: Chen || L R\noriginal-author: Wang || Z\noriginal-author: Zhang || F J\noriginal-author: Yang || E Y\noriginal-author: Wang || L N\noriginal-author: Zhang || C Y\noriginal-author: Huang || L F\noriginal-author: Chen || L\noriginal-container-title: Environmental Science\noriginal-title: Effects of typical amendments on nitrogen forms and microbial community structure in polygonal solonchak",
+		"page": "1-17",
+		"title": "典型改良剂对龟裂盐碱土中氮素形态特征及微生物群落的影响",
+		"URL": "https://link.cnki.net/doi/10.13227/j.hjkx.202506301",
+		"author": [
+			{
+				"literal": "陈利荣"
+			},
+			{
+				"literal": "王珍"
+			},
+			{
+				"literal": "张峰举"
+			},
+			{
+				"literal": "杨恩宇"
+			},
+			{
+				"literal": "王丽娜"
+			},
+			{
+				"literal": "张承焱"
+			},
+			{
+				"literal": "黄霖锋"
+			},
+			{
+				"literal": "陈龙"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/4181482/items/XISU2M3G",
+		"type": "article-journal",
+		"container-title": "应用生态学报",
+		"DOI": "10.13287/j.1001-9332.202301.011",
+		"ISSN": "1001-9332",
+		"issue": "1",
+		"language": "zh-CN",
+		"note": "original-author: Wang || Qifang\noriginal-author: Wang || Xiaoyun\noriginal-author: Li || Haoshen\noriginal-author: Yang || Xiaoyu\noriginal-author: Zhang || Ruimin\noriginal-author: Gong || Biao\noriginal-author: Li || Xiuming\noriginal-author: Shi || Qinghua\n\noriginal-title: Effects of linalool on Botrytis cinerea growth and control of tomato gray mold\n\noriginal-container-title: Chinese Journal of Applied Ecology",
+		"page": "213-220",
+		"source": "CNKI",
+		"title": "芳樟醇对灰葡萄孢生长的影响及对番茄灰霉病的防控效果",
+		"URL": "https://doi.org/10.13287/j.1001-9332.202301.011",
+		"volume": "34",
+		"author": [
+			{
+				"family": "王",
+				"given": "启方"
+			},
+			{
+				"family": "王",
+				"given": "晓云"
+			},
+			{
+				"family": "李",
+				"given": "浩森"
+			},
+			{
+				"family": "杨",
+				"given": "晓玉"
+			},
+			{
+				"family": "张",
+				"given": "锐敏"
+			},
+			{
+				"family": "巩",
+				"given": "彪"
+			},
+			{
+				"family": "李",
+				"given": "秀明"
+			},
+			{
+				"family": "史",
+				"given": "庆华"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					6,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]

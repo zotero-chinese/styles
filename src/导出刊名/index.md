@@ -18,6 +18,9 @@
   <div class="csl-entry">中国国家生物安全框架实施国际合作项目研讨会论文集</div>
 </div>
 
+## 样式测试
+
+
 ## 默认测试
 
 ### 引注
@@ -130,7 +133,7 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
-### 《法学引注手册》 示例文献
+### 《法学引注手册》（第二版）示例文献
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
@@ -140,43 +143,54 @@
   <div class="csl-entry">风险规制：德国的理论与实践</div>
   <div class="csl-entry">法制日报</div>
   <div class="csl-entry">人民网</div>
-  <div class="csl-entry">新华网</div>
   <div class="csl-entry">中国法律评论</div>
   <div class="csl-entry">最高人民法院公报</div>
-  <div class="csl-entry">Yale Law Journal</div>
+  <div class="csl-entry">The Yale Law Journal</div>
   <div class="csl-entry">Harper’s Weekly</div>
+  <div class="csl-entry">U.S.</div>
+  <div class="csl-entry">国际条约与国内法的关系：中德国际条约与国内品关系研讨会论文集</div>
+  <div class="csl-entry">北大法律评论</div>
+  <div class="csl-entry">Harvard Human Rights Journal</div>
+  <div class="csl-entry">清华法学</div>
   <div class="csl-entry">QB</div>
+  <div class="csl-entry">American Journal of Political Science</div>
+  <div class="csl-entry">环球法律评论</div>
+  <div class="csl-entry">比较法研究</div>
+  <div class="csl-entry">清华学报</div>
+  <div class="csl-entry">中国法学</div>
+  <div class="csl-entry">中国人民大学学报</div>
+  <div class="csl-entry">QB</div>
+  <div class="csl-entry">清华法学</div>
+  <div class="csl-entry">学术月刊</div>
+  <div class="csl-entry">中国法学</div>
   <div class="csl-entry">中国法学</div>
   <div class="csl-entry">邓小平文选</div>
+  <div class="csl-entry">国际条约与国内法的关系：中德国际条约与国内法关系研讨会论文集</div>
+  <div class="csl-entry">风险规制：德国的理论与实践</div>
+  <div class="csl-entry">民商法论丛</div>
+  <div class="csl-entry">北大法律评论</div>
+  <div class="csl-entry">法制日报</div>
+  <div class="csl-entry">财经</div>
+  <div class="csl-entry">台大法学论丛</div>
+  <div class="csl-entry">政大法学评论</div>
   <div class="csl-entry">中国法学</div>
-  <div class="csl-entry">最高人民法院公报</div>
-  <div class="csl-entry">Harvard Business Review</div>
-  <div class="csl-entry">New York Times</div>
-  <div class="csl-entry">China: The balance sheet</div>
-  <div class="csl-entry">Stat.</div>
-  <div class="csl-entry">U.S.C.</div>
-  <div class="csl-entry">F.2d</div>
-  <div class="csl-entry">U.S.</div>
-  <div class="csl-entry">U.S.</div>
-  <div class="csl-entry">BBC News</div>
-  <div class="csl-entry">RGDIP</div>
-  <div class="csl-entry">La Licorne</div>
-  <div class="csl-entry">Le droit des Océans</div>
-  <div class="csl-entry">Histoire &#38; mesure, vol. XXIII, n° 2, 2008</div>
-  <div class="csl-entry">Zeitschrift für die gesamte Strafrechtswissenschaft</div>
-  <div class="csl-entry">Juristische Schulung</div>
-  <div class="csl-entry">Die Zeit</div>
-  <div class="csl-entry">Münchener Kommentar BGB</div>
-  <div class="csl-entry">Das Abtreibungsverbot des § 218 StGB</div>
-  <div class="csl-entry">BVerfGE</div>
-  <div class="csl-entry">NStZ-RR</div>
-  <div class="csl-entry">NJW</div>
-  <div class="csl-entry">民商法雑誌</div>
-  <div class="csl-entry">租税法と市場</div>
-  <div class="csl-entry">大審院民事判決録</div>
-  <div class="csl-entry">最高裁判所民事判例集</div>
-  <div class="csl-entry">美国学者论中国法律传统</div>
+  <div class="csl-entry">中国诉讼社会史研究</div>
+  <div class="csl-entry">人民网</div>
   <div class="csl-entry">新华网</div>
+  <div class="csl-entry">财新网</div>
+  <div class="csl-entry">财新网</div>
+  <div class="csl-entry">科学网博客</div>
+  <div class="csl-entry">微信公众号“中国法律评论”</div>
+  <div class="csl-entry">“学习强国”App</div>
+  <div class="csl-entry">中央电视台“新闻1+1”栏目</div>
+  <div class="csl-entry">第五届中国宪法学青年论坛会议论文集</div>
+  <div class="csl-entry">中华人民共和国司法行政历史文件汇编（1950—1985）</div>
+  <div class="csl-entry">国务院公报</div>
+  <div class="csl-entry">香港法例</div>
+  <div class="csl-entry">最高人民法院公报</div>
+  <div class="csl-entry">最高人民法院公报</div>
+  <div class="csl-entry">中国青年报</div>
+  <div class="csl-entry">人民法院案例选（1992—1999年合订本）·行政卷</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->

@@ -16,13 +16,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    attributes:
-      label: 英文名称
-      placeholder: e.g. Acta Psychologica Sinica / Tsinghua University
-    validations:
-      required: true
-
   - type: textarea
     attributes:
       label: 参考文献格式

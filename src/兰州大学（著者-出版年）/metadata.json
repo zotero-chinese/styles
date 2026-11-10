@@ -1,0 +1,31 @@
+{
+  "dir": "兰州大学（著者-出版年）",
+  "file": "兰州大学（著者-出版年）.csl",
+  "style_class": "in-text",
+  "title": "兰州大学（著者-出版年）",
+  "id": "https://zotero-chinese.com/styles/兰州大学（著者-出版年）",
+  "link_self": "https://zotero-chinese.com/styles/兰州大学（著者-出版年）",
+  "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2005（顺序编码，双语）",
+  "link_documentation": "https://ge.lzu.edu.cn/xueweishouyu/guizhangzhidu/lunwenguanli/2020/1223/158947.html",
+  "author": [
+    {
+      "name": "ziyingyu114"
+    }
+  ],
+  "contributor": [],
+  "citation_format": "author-date",
+  "field": "generic-base",
+  "summary": "在兰州大学（2020-12-23） CSL 样式基础上修改：正文采用作者-年份引用；文末按作者拼写排序并保留序号；正文三名及以上作者显示首作者 et al.；文末列出全部作者。",
+  "updated": "2026-07-20T21:55:01+08:00",
+  "citations": "(Smith et al., 2013)<br>\n(Smith and Jones, 2012)<br>\n(张明等，2011）<br>\n(张明和王辉，2010）<br>\n",
+  "bibliography": "<div class=\"csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false\">\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[1]</div><div class=\"csl-right-inline\">Smith, J. et al. English three-author test article[J]. Test Journal. 2013, 4(1): 31-40.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[2]</div><div class=\"csl-right-inline\">Smith, J., Jones, D. English two-author test article[J]. Test Journal. 2012, 3(1): 21-30.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[3]</div><div class=\"csl-right-inline\">张明等. 中文三作者测试文献[J]. 测试期刊. 2011, 2(1): 11-20.</div>\n  </div>\n  <div class=\"csl-entry\">\n    <div class=\"csl-left-margin\">[4]</div><div class=\"csl-right-inline\">张明, 王辉. 中文双作者测试文献[J]. 测试期刊. 2010, 1(1): 1-10.</div>\n  </div>\n</div>",
+  "test_result": "",
+  "tags": [
+    "姓名小写",
+    "有标题",
+    "期刊全称",
+    "无URL",
+    "无DOI",
+    "无英文翻译"
+  ]
+}
