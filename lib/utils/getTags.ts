@@ -75,14 +75,10 @@ export function getTags(style: string) {
   let cite_str = citation[1][0][1];
   // console.log(cite_str);
 
-  let bib = citeproc.makeBibliography();
-  let bib_str = bib[1].join("");
-  // console.log(bib_str);
-
-  let result = bib_str;
-  if (citeproc.opt.xclass === "note") {
-    result = cite_str;
-  }
+  const result =
+    citeproc.opt.xclass === "note"
+      ? cite_str
+      : citeproc.makeBibliography()[1].join("");
 
   let _tags = {
     author_initilized: !result.includes("Stewart M"),
