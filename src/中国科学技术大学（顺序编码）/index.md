@@ -8,142 +8,39 @@
 
 ### 引注
 
-<sup>[1]</sup><br>
-<sup>[2]</sup><br>
-<sup>[3]</sup><br>
-<sup>[1-3]</sup><br>
-<sup>[4]</sup><br>
-<sup>[3]</sup><br>
-<sup>[5]</sup><br>
-<sup>[6]</sup><br>
-<sup>[7]</sup><br>
-<sup>[8]</sup><br>
-<sup>[9]</sup><br>
-<sup>[10]</sup><br>
-<sup>[11]</sup><br>
-<sup>[12]</sup><br>
-<sup>[13]</sup><br>
-<sup>[14]</sup><br>
-<sup>[15]</sup><br>
-<sup>[16]</sup><br>
-<sup>[17]</sup><br>
-
+<sup>[1-8]</sup>
 
 ### 参考文献表
 
-<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
+<div class="csl-bib-body maxoffset-3 second-field-align-flush hangingindent-false">
   <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">汪继祥. 科学出版社作者编辑手册[M]. 北京: 科学出版社, 2004.</div>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">扬奎斯特, 萨金特. 递归宏观经济理论[M]. 杨斌, 王忠玉, 陈彦斌, 等, 译. 2 版. 北京: 中国人民大学出版社, 2010: 798.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">孙立广. 极地科学前沿与热点: 顶级期刊论文摘要汇编(1990-2010)[M]. 合肥: 中国科学技术大学出版社, 2016: 222.</div>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">Praetzellis A. Death by theory: a tale of mystery and archaeological theory[M]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc., 2011: 13.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">孔庆勇, 郭红建, 孔庆合. 我国科技期刊的金字塔分层模型及发展路径初探[J]. 中国科技期刊研究, 2015, 26(10): 1100-1103.</div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">于潇, 刘义, 柴跃廷, 等. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 2012, 52(11): 1518-1523.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Betts L R, Taylor C P, Sekuler A B, et al. Aging reduces center-surround antagonism in visual motion processing[J]. Neuron, 2005, 45(3): 361-366.</div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">Veen P H van der, Muller M, Vincken K L, et al. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J]. Journal of the Neurological Sciences, 2014, 337(1/2): 112-118.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">孙玉文. 汉语变调构词研究[D]. 北京: 北京大学, 2000.</div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">汪学军. 中国农业转基因生物研发进展与安全管理[C]//国家环境保护总局生物安全管理办公室. 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社, 2005: 22-25.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">姜锡洲. 一种温热外敷药制备方案: 88105607.3[P]. 1980-07-26.</div>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Wang S. Application of improved SOM neural network in intelligent auditing of hospital financial vouchers[C]//2022 6th Asian Conference on Artificial Intelligence Technology, 2022: 2.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">GB 3100—1993 国际单位制及其应用[S].</div>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">肖玲, 张雪, 王永. 数据要素的统计测算方法探究[PP/OL]. PSSXiv (2024-07-02) [2024-09-30]. <a href="https://zsyyb.cn/abs/202408.01096">https://zsyyb.cn/abs/202408.01096</a>.</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-04-12.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv (2023-03-03) [2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据[DS]. VV1. 0. 国家基础学科公共科学数据中心 (2023-09-10) [2025-07-15].</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J/OL]. 铁道学报, 2024-05-09. <a href="http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html">http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html</a>.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系, 2024: 134-147.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会, 2022: 2.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">王利平, 王福新, 刘洪. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报, 2024, 45(增刊1): 730570.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
+    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">Jenkins S D, Ruostekoski J. Controlled manipulation of light by cooperative response of atoms in an optical lattice[PP/OL]. V2. arXiv (2012-03-18) [2020-06-24]. <a href="https://doi.org/10.48550/arXiv.1112.6136">https://doi.org/10.48550/arXiv.1112.6136</a>.</div>
   </div>
 </div>
 
 ## 样式测试
 
-<!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
-
-<div class="csl-bib-body maxoffset-4 second-field-align-flush hangingindent-false">
-  <div class="csl-entry">
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">李妍, 王莹. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]//中华预防医学会医院感染控制分会第31次全国医院感染学术年会, 2022: 2.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">肖希明, 石庆功, 刘奕. 民国图书馆学教育的社会贡献[C]//纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系, 2024: 134-147.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">周壮, 李盛阳, 吴薇, 等. 天宫二号遥感图像自然景物分类科学数据[DS]. VV1. 0. 国家基础学科公共科学数据中心 (2023-09-10) [2025-07-15].</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">张群, 程志宝, 石志飞. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J/OL]. 铁道学报, 2024-05-09. <a href="http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html">http://kns.cnki.net/kcms/detail/11.2104.u.20240507.1737.002.html</a>.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">方向明, 曹迎杰. 元宇宙在图书馆的应用：理论研究与实践进展[PP/OL]. ChinaXiv (2023-03-03) [2024-09-30]. <a href="http://www.chinaxiv.org/abs/202303.00020">http://www.chinaxiv.org/abs/202303.00020</a>.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">杨洪升. 四库馆私家抄校书考略[J]. 文献, 2013(1): 56-75.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">丁文详. 数字革命与竞争国际化[N]. 中国青年报, 2000-11-20(15).</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[8]</div><div class="csl-right-inline">王利平, 王福新, 刘洪. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报, 2024, 45(增刊1): 730570.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[9]</div><div class="csl-right-inline">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. [2025-03-06]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a>.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[10]</div><div class="csl-right-inline">汪继祥. 科学出版社作者编辑手册[M]. 北京: 科学出版社, 2004.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[11]</div><div class="csl-right-inline">孙立广. 极地科学前沿与热点: 顶级期刊论文摘要汇编(1990-2010)[M]. 合肥: 中国科学技术大学出版社, 2016: 222.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[12]</div><div class="csl-right-inline">孔庆勇, 郭红建, 孔庆合. 我国科技期刊的金字塔分层模型及发展路径初探[J]. 中国科技期刊研究, 2015, 26(10): 1100-1103.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[13]</div><div class="csl-right-inline">孙玉文. 汉语变调构词研究[D]. 北京: 北京大学, 2000.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[14]</div><div class="csl-right-inline">Betts L R, Taylor C P, Sekuler A B, et al. Aging reduces center-surround antagonism in visual motion processing[J]. Neuron, 2005, 45(3): 361-366.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">姜锡洲. 一种温热外敷药制备方案: 88105607.3[P]. 1980-07-26.</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">GB 3100—1993 国际单位制及其应用[S].</div>
-  </div>
-  <div class="csl-entry">
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">傅刚, 赵承, 李佳路. 大风沙过后的思考[N]. 北京青年报, 2000-04-12.</div>
-  </div>
-</div>
-
-<!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
 
 ## 默认测试
 
