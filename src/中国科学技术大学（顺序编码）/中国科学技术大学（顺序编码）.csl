@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" name-as-sort-order="all" sort-separator=" " initialize-with=" " page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>中国科学技术大学（本科）</title>
-    <id>https://zotero-chinese.com/styles/中国科学技术大学（本科）</id>
-    <link href="https://zotero-chinese.com/styles/中国科学技术大学（本科）" rel="self"/>
+    <title>中国科学技术大学（顺序编码）</title>
+    <id>https://zotero-chinese.com/styles/中国科学技术大学（顺序编码）</id>
+    <link href="https://zotero-chinese.com/styles/中国科学技术大学（顺序编码）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=4507EFE13D37CB6AE06397BE0A0A601F" rel="documentation"/>
     <author>
@@ -16,7 +16,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>中国科学技术大学本科毕业论文参考文献样式：GB/T 7714—2025 顺序编码制（双语），正文上标 [1]，全部标点为半角（校内模板要求），标准按 2025 新格式著录，电子资源输出获取路径与永久标识符。本样式由学生个人依据公开规范及校内公开模板编写，非中国科学技术大学官方发布，仅供排版参考，提交前请与所在学院或指导老师确认；CSL 不支持字体设置，请在 Word 中修改 Bibliography 样式（中文宋体、英文 Times New Roman、五号、悬挂缩进）。基于 Zeping Lee 的 GB/T 7714—2025（顺序编码，双语）改造。</summary>
-    <updated>2026-11-18T19:32:28+08:00</updated>
+    <updated>2026-11-21T20:08:06+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
