@@ -4,19 +4,16 @@
     <title>中国科学技术大学（顺序编码）</title>
     <id>https://zotero-chinese.com/styles/中国科学技术大学（顺序编码）</id>
     <link href="https://zotero-chinese.com/styles/中国科学技术大学（顺序编码）" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语）" rel="template"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，半角符号，无URL，无DOI）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=4507EFE13D37CB6AE06397BE0A0A601F" rel="documentation"/>
     <author>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </author>
-    <contributor>
-      <name>USTC Thesis Style Project</name>
-    </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>中国科学技术大学本科毕业论文参考文献样式：GB/T 7714—2025 顺序编码制（双语），正文上标 [1]，全部标点为半角（校内模板要求），标准按 2025 新格式著录，电子资源输出获取路径与永久标识符。本样式由学生个人依据公开规范及校内公开模板编写，非中国科学技术大学官方发布，仅供排版参考，提交前请与所在学院或指导老师确认；CSL 不支持字体设置，请在 Word 中修改 Bibliography 样式（中文宋体、英文 Times New Roman、五号、悬挂缩进）。基于 Zeping Lee 的 GB/T 7714—2025（顺序编码，双语）改造。</summary>
-    <updated>2026-11-21T20:08:06+08:00</updated>
+    <summary>中国科学技术大学研究生学位论文、本科毕业论文（设计）格式。全部使用半角符号；纸质文献不著录 URL；不著录 DOI。</summary>
+    <updated>2026-11-21T20:09:09+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -46,7 +43,7 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-  <!-- 主要责任者（姓名间分隔符按学校要求用半角逗号+空格） -->
+  <!-- 主要责任者 -->
   <macro name="author">
     <names variable="composer">
       <name delimiter=", "/>
@@ -66,15 +63,14 @@
       </substitute>
     </names>
   </macro>
-  <!-- 题名（不含类型标识部分）：其他题名信息前用半角冒号+空格，
-       多卷书卷次与卷题名间用半角空格 -->
-  <macro name="title-text">
+  <!-- 题名 -->
+  <macro name="title">
     <group delimiter=". ">
       <group delimiter=": ">
         <text variable="title"/>
         <choose>
           <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-            <group delimiter=" ">
+            <group delimiter="&#8195;">
               <text macro="volume"/>
               <text variable="volume-title"/>
             </group>
@@ -93,17 +89,10 @@
         </if>
       </choose>
     </group>
-  </macro>
-  <!-- 文献类型标识/文献载体标识，如 [J/OL]；直接紧接题名（学校模板示例无空格） -->
-  <macro name="type-medium-mark">
     <group delimiter="/" prefix="[" suffix="]">
       <text macro="entry-type-id"/>
       <text macro="entry-medium-id"/>
     </group>
-  </macro>
-  <macro name="title">
-    <text macro="title-text"/>
-    <text macro="type-medium-mark"/>
   </macro>
   <!-- 多卷书的卷次 -->
   <macro name="volume">
@@ -200,12 +189,25 @@
       <if variable="medium">
         <text variable="medium"/>
       </if>
-      <else-if variable="URL DOI" match="any">
-        <text value="OL"/>
+      <else-if variable="CSTR DOI URL" match="any">
+        <choose>
+          <if type="article-journal">
+            <choose>
+              <if variable="volume issue" match="none">
+                <!-- 在线出版的期刊文章 -->
+                <text value="OL"/>
+              </if>
+            </choose>
+          </if>
+          <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+            <!-- 网站、网页、预印本 -->
+            <text value="OL"/>
+          </else-if>
+        </choose>
       </else-if>
     </choose>
   </macro>
-  <!-- 其他责任者（译者等：“译者, 译”） -->
+  <!-- 其他责任者 -->
   <macro name="secondary-contributors">
     <names variable="translator">
       <name delimiter=", "/>
@@ -242,28 +244,15 @@
   <macro name="container-periodical">
     <choose>
       <if type="article-newspaper">
-        <!-- 报纸的出处项：“刊名, 出版日期(版次). [引用日期]” -->
+        <!-- 报纸的出处项：“刊名, 出版日期(版次): 页码” -->
         <group delimiter=", ">
           <text variable="container-title" strip-periods="true"/>
           <text macro="date"/>
         </group>
-        <choose>
-          <if variable="edition">
-            <text variable="edition" prefix="(" suffix=")"/>
-          </if>
-          <else-if variable="page">
-            <text variable="page" prefix="(" suffix=")"/>
-          </else-if>
-        </choose>
-        <choose>
-          <if variable="URL DOI CSTR" match="any">
-            <!-- 联机报纸按科大模板示例输出 [引用日期]，如 “2000-04-12(14) [2002-03-06]” -->
-            <date variable="accessed" form="numeric" prefix=" [" suffix="]"/>
-          </if>
-        </choose>
+        <text variable="page" prefix="(" suffix=")"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码” -->
+        <!-- 期刊、杂志的出处项：“刊名，年，卷（期）：页码” -->
         <group delimiter=": ">
           <group>
             <group delimiter=", ">
@@ -316,7 +305,7 @@
     </choose>
   </macro>
   <macro name="version">
-    <!-- 官方 8.14/8.15 示例直接著录版本值（如 V1. 0、V2），不加 “Ver.” 标签 -->
+    <label variable="version" form="short" text-case="capitalize-first" strip-periods="true"/>
     <text variable="version"/>
   </macro>
   <!-- 7.5 出版信息 7.7 页码 -->
@@ -403,24 +392,42 @@
       </if>
     </choose>
   </macro>
-  <!-- 7.6 创建/发布日期或修改日期、引用日期（半角括号） -->
+  <!-- 7.6 创建/发布日期或修改日期、引用日期 -->
   <macro name="creation-accessed-date">
-    <date variable="issued" form="numeric" prefix="(" suffix=")"/>
-    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    <group delimiter=" ">
+      <date variable="issued" form="numeric" prefix="(" suffix=")"/>
+      <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
+    </group>
   </macro>
   <!-- 7.8 获取和访问路径 7.9 永久标识符 -->
   <macro name="access">
-    <group delimiter=". ">
-      <text variable="URL"/>
-      <choose>
-        <if variable="CSTR"> <!-- 扩展：CSTR -->
-          <text variable="CSTR" prefix="CSTR:"/>
-        </if>
-        <else>
-          <text variable="DOI" prefix="DOI:"/>
-        </else>
-      </choose>
-    </group>
+    <choose>
+      <if type="article-journal">
+        <choose>
+          <if variable="volume issue" match="none">
+            <!-- 在线出版的期刊文章 -->
+            <text macro="access-url"/>
+          </if>
+        </choose>
+      </if>
+      <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+        <!-- 网站、网页、预印本 -->
+        <text macro="access-url"/>
+      </else-if>
+    </choose>
+  </macro>
+  <macro name="access-url">
+    <choose>
+      <if variable="URL">
+        <text variable="URL"/>
+      </if>
+      <else-if variable="CSTR">
+        <text variable="CSTR" prefix="https://cstr.cn/"/>
+      </else-if>
+      <else>
+        <text variable="DOI" prefix="https://doi.org/"/>
+      </else>
+    </choose>
   </macro>
   <!-- 参考文献表格式 -->
   <macro name="entry-layout">
@@ -461,45 +468,29 @@
           <text macro="publisher"/>
         </else-if>
         <else-if type="paper-conference">
-          <!-- 8.6 会议录：析出文献（有正式会议录）与未出版会议录两种形态 -->
-          <choose>
-            <if variable="container-title">
-              <!-- 会议论文集中的析出文献：“题名[C]//会议录责任者. 会议录名. 出版地: 出版者, 年: 页码” -->
-              <group delimiter="//">
-                <group delimiter=". ">
-                  <text macro="title"/>
-                  <text macro="secondary-contributors"/>
-                </group>
-                <text macro="container-booklike"/>
+          <!-- 8.6 会议录 -->
+          <group delimiter="//">
+            <group delimiter=". ">
+              <text macro="title"/>
+            </group>
+            <group delimiter=": ">
+              <group delimiter=", ">
+                <text variable="event-title"/>
+                <text macro="date"/>
               </group>
-              <text macro="publisher"/>
-            </if>
-            <else>
-              <!-- 未正式出版会议录：“题名[C]//会议名称, 会议年份: 页码” -->
-              <group delimiter="//">
-                <group delimiter=". ">
-                  <text macro="title"/>
-                </group>
-                <group delimiter=": ">
-                  <group delimiter=", ">
-                    <text variable="event-title"/>
-                    <text macro="date"/>
-                  </group>
-                  <text variable="page"/>
-                </group>
-              </group>
-            </else>
-          </choose>
+              <text variable="page"/>
+            </group>
+          </group>
         </else-if>
         <else-if type="standard">
-          <!-- 8.9 标准：“标准编号 标准名称[文献类型标识/文献载体标识]”（2025 新格式，无责任者与出版项） -->
-          <group delimiter=" ">
+          <!-- 8.9 标准 -->
+          <group delimiter="&#8195;">
             <text variable="number"/>
             <text macro="title"/>
           </group>
         </else-if>
         <else-if type="article dataset" match="any">
-          <!-- 8.14 数据集、8.15 预印本：“题名[PP/OL]. 版本. 发布平台(发布或修改日期)[引用日期]” -->
+          <!-- 8.14 数据集、8.15 预印本 -->
           <text macro="title"/>
           <text macro="version"/>
           <group delimiter=" ">
