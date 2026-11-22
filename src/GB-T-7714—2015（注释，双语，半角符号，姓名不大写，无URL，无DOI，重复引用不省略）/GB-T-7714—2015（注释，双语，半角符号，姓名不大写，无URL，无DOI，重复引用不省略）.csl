@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）</title>
-    <id>https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）</id>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
+    <title>GB/T 7714—2015（注释，双语，半角符号，姓名不大写，无URL，无DOI，重复引用不省略）</title>
+    <id>https://zotero-chinese.com/styles/GB-T-7714—2015（注释，双语，半角符号，姓名不大写，无URL，无DOI，重复引用不省略）</id>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（注释，双语，半角符号，姓名不大写，无URL，无DOI，重复引用不省略）" rel="self"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（注释，双语，半角符号，姓名不大写，无URL，无DOI，重复引用不省略）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
       <name>牛耕田</name>
       <email>buffalo_d@163.com</email>
     </author>
     <contributor>
-      <name>韩小土</name>
-      <email>redleafnew@163.com</email>
-    </contributor>
-    <contributor>
       <name>Zeping Lee</name>
       <email>zepinglee@gmail.com</email>
     </contributor>
-    <category citation-format="numeric"/>
+    <category citation-format="note"/>
     <category field="generic-base"/>
-    <summary>1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 除在线出版的期刊文章、网站、网页、预印本外不著录引用日期和 URL；4. 无 DOI。</summary>
-    <updated>2026-08-09T17:03:53+08:00</updated>
+    <summary>GB/T 7714—2015《信息与文献 参考文献著录规则》修改版：1. 按照语言显示“等”或“et al.”；2. 统一使用半角符号；3. 姓名取消全大写；4. 除在线出版的期刊文章、网站、网页、预印本外不著录引用日期和 URL；5. 不著录DOI；6. 重复引用不省略。</summary>
+    <updated>2026-08-09T17:11:36+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh">
@@ -40,14 +36,14 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="citation-range-delimiter">-</term>
+      <term name="ibid">同上</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name delimiter="，"/>
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -62,7 +58,7 @@
   </macro>
   <!-- 题名 -->
   <macro name="title">
-    <group delimiter="：">
+    <group delimiter=": ">
       <text variable="title"/>
       <group delimiter="&#8195;">
         <choose>
@@ -193,14 +189,14 @@
   <!-- 其他责任者 -->
   <macro name="secondary-contributors">
     <names variable="translator">
-      <name delimiter="，"/>
-      <label form="short" prefix="，"/>
+      <name/>
+      <label form="short" prefix=", "/>
     </names>
   </macro>
   <!-- 专著主要责任者 -->
   <macro name="container-contributors">
     <names variable="editor">
-      <name delimiter="，"/>
+      <name/>
       <substitute>
         <names variable="editorial-director"/>
         <names variable="collection-editor"/>
@@ -215,7 +211,7 @@
       <choose>
         <if variable="container-title">
           <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter="：">
+          <group delimiter=": ">
             <text variable="container-title"/>
             <text macro="volume"/>
           </group>
@@ -232,26 +228,25 @@
     <choose>
       <if type="article-newspaper">
         <!-- 报纸的出处项：“刊名，出版日期（版次）：页码[引用日期]” -->
-        <group delimiter="，">
+        <group delimiter=", ">
           <text variable="container-title"/>
           <text macro="issued-date"/>
         </group>
-        <text variable="page" prefix="（" suffix="）"/>
+        <text macro="locator" prefix="(" suffix=")"/>
       </if>
       <else>
-        <!-- 期刊、杂志的出处项：“刊名，年，卷（期）：页码[引用日期]” -->
-        <group delimiter="：">
+        <group delimiter=": ">
           <group>
-            <group delimiter="，">
+            <group delimiter=", ">
               <text variable="container-title"/>
               <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
-            <text variable="issue" prefix="（" suffix="）"/>
+            <text variable="issue" prefix="(" suffix=")"/>
           </group>
           <choose>
-            <if variable="page">
-              <text variable="page"/>
+            <if variable="locator page" match="any">
+              <text macro="locator"/>
             </if>
             <else>
               <text variable="number"/>
@@ -277,11 +272,11 @@
   </macro>
   <!-- 连续出版物的年卷期 -->
   <macro name="year-volume-issue">
-    <group delimiter="，">
+    <group delimiter=", ">
       <text macro="issued-year"/>
       <text variable="volume"/>
     </group>
-    <text variable="issue" prefix="（" suffix="）"/>
+    <text variable="issue" prefix="(" suffix=")"/>
   </macro>
   <!-- 出版项 -->
   <macro name="publisher">
@@ -292,9 +287,9 @@
       </if>
       <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地：出版者，出版年：页码[引用日期]” -->
-        <group delimiter="：">
-          <group delimiter="，">
-            <group delimiter="：">
+        <group delimiter=": ">
+          <group delimiter=", ">
+            <group delimiter=": ">
               <choose>
                 <if variable="publisher publisher-place" match="any">
                   <text variable="publisher-place"/>
@@ -309,7 +304,7 @@
             </group>
             <text macro="issued-year"/>
           </group>
-          <text variable="page"/>
+          <text macro="locator"/>
         </group>
       </else-if>
       <else-if variable="URL">
@@ -321,7 +316,7 @@
             <!-- 限制更少的类型作为“纯电子文献“ -->
             <choose>
               <if has-day="issued">
-                <text macro="issued-date" prefix="（" suffix="）"/>
+                <text macro="issued-date" prefix="(" suffix=")"/>
               </if>
               <else-if variable="issued">
                 <text macro="issued-year"/>
@@ -362,6 +357,17 @@
   <!-- 出版日期，用于报纸文献、专利的“公告日期或公开日期”、电子资源的“更新或修改日期” -->
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
+  </macro>
+  <!-- 引文页码 -->
+  <macro name="locator">
+    <choose>
+      <if locator="page">
+        <text variable="locator"/>
+      </if>
+      <else>
+        <text variable="page"/>
+      </else>
+    </choose>
   </macro>
   <!-- 引用日期 -->
   <macro name="accessed-date">
@@ -460,12 +466,12 @@
       <text macro="access"/>
     </group>
   </macro>
-  <citation collapse="citation-number" after-collapse-delimiter=",">
-    <sort>
-      <key variable="citation-number"/>
-    </sort>
-    <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
-      <text variable="citation-number"/>
+  <citation et-al-min="4" et-al-use-first="3">
+    <layout delimiter="; " suffix="." locale="en">
+      <text macro="entry-layout"/>
+    </layout>
+    <layout delimiter="；" suffix=".">
+      <text macro="entry-layout"/>
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
