@@ -15,7 +15,7 @@
 <sup>5</sup> 何海波：“判决书上网”，《法制日报》2000年5月21日，第2版。<br>
 <sup>6</sup> 李松锋：“游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究”，中国政法大学博士学位论文，2015年。<br>
 <sup>7</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-<sup>8</sup> 陆红霞诉南通市发改委政府信息公开案，《最高人民法院公报》2015年7月6日第11期。<br>
+<sup>8</sup> 陆红霞诉南通市***政府信息公开案，《最高人民法院公报》2015年7月6日第11期。<br>
 <sup>9</sup> Reich, C. A., “The new property,” <i>Yale Law Journal</i>, (73)5, 1964, 737-738.<br>
 <sup>10</sup> Brandeis, L. D., “What publicity can do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.<br>
 <sup>11</sup> Alford, W., <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>
@@ -44,7 +44,7 @@
 <sup>14</sup> 《民法总则》第 27 条第 2 款第 3 项。<br>
 <sup>15</sup> 国务院：《国务院关于在全国建立农村最低生活保障制度的通知》，2007年版。<br>
 <sup>16</sup> 包郑照诉苍南县人民政府强制拆除房屋案，浙江省高级人民法院民事判决书（1988）浙法民上字 7 号。<br>
-<sup>17</sup> 陆红霞诉南通市发改委政府信息公开案，《最高人民法院公报》2015年7月6日第11期。<br>
+<sup>17</sup> 陆红霞诉南通市***政府信息公开案，《最高人民法院公报》2015年7月6日第11期。<br>
 <sup>18</sup> Reich, C. A., “The new property,” <i>Yale Law Journal</i>, (73)5, 1964, 737-738.<br>
 <sup>19</sup> Brandeis, L. D., “What publicity can do,” <i>Harper’s Weekly</i>, 20 December 1913, p. 10.<br>
 <sup>20</sup> Alford, W., <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995, p. 98.<br>

@@ -74,7 +74,7 @@
     <div class="csl-left-margin">［11］</div><div class="csl-right-inline">党的二十届三中全会《决定》辅导百问［M］．北京:学习出版社、党建读物出版社，2024:242．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［12］</div><div class="csl-right-inline">中共中央政治局召开会议 决定召开二十届三中全会 分析研究当前经济形势和经济工作 审议《关于持续深入推进长三角一体化高质量发展若干政策措施的意见》中共中央总书记习近平主持会议［N］．人民日报，2024－05－01(1)．</div>
+    <div class="csl-left-margin">［12］</div><div class="csl-right-inline">中共中央政治局召开会议 决定召开二十届三中全会 分析研究当前经济形势和经济工作 审议《关于持续深入推进长三角一体化高质量发展若干政策措施的意见》中共中央总书记***主持会议［N］．人民日报，2024－05－01(1)．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［13］</div><div class="csl-right-inline">马克思恩格斯文集:第7卷［M］．北京:人民出版社，2009:927－928．</div>
@@ -159,7 +159,7 @@
     <div class="csl-left-margin">［11］</div><div class="csl-right-inline">党的二十届三中全会《决定》辅导百问［M］．北京:学习出版社、党建读物出版社，2024:242．</div>
   </div>
   <div class="csl-entry">
-    <div class="csl-left-margin">［12］</div><div class="csl-right-inline">中共中央政治局召开会议 决定召开二十届三中全会 分析研究当前经济形势和经济工作 审议《关于持续深入推进长三角一体化高质量发展若干政策措施的意见》中共中央总书记习近平主持会议［N］．人民日报，2024－05－01(1)．</div>
+    <div class="csl-left-margin">［12］</div><div class="csl-right-inline">中共中央政治局召开会议 决定召开二十届三中全会 分析研究当前经济形势和经济工作 审议《关于持续深入推进长三角一体化高质量发展若干政策措施的意见》中共中央总书记***主持会议［N］．人民日报，2024－05－01(1)．</div>
   </div>
   <div class="csl-entry">
     <div class="csl-left-margin">［13］</div><div class="csl-right-inline">马克思恩格斯文集:第7卷［M］．北京:人民出版社，2009:927－928．</div>
