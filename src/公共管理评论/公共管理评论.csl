@@ -12,27 +12,30 @@
     <category field="political_science"/>
     <category field="social_science"/>
     <issn>2096-7713</issn>
-    <summary>Public Management Review (Tsinghua) author-date style, GB/T 7714-2015</summary>
-    <updated>2026-03-30T22:48:30+08:00</updated>
+    <summary>Public Management Review (Tsinghua) author-date style, GB/T 7714-2015. Revised 2026-11 per official submission guidelines (issue #716): journal no-volume punctuation, book translator/edition/pages, newspaper edition, accessed date, et-al terms.</summary>
+    <updated>2026-11-10T05:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <!-- Locale: English -->
   <locale xml:lang="en">
     <terms>
       <term name="page-range-delimiter">-</term>
-      <term name="et-al">, et al</term>
+      <!-- 模板正文示例: Davies-Jones et al. (2009) —— 逗号由多作者分隔符提供，词元本身不带逗号 -->
+      <term name="et-al">et al.</term>
     </terms>
   </locale>
   <!-- Locale: Chinese -->
   <locale xml:lang="zh">
     <terms>
-      <term name="et-al">, &#x7B49;</term>
+      <!-- 模板正文示例: 郑永光等（2016）—— 正文引注"等"前不加逗号；
+           文后 3 位作者截断时由 names 分隔符提供逗号，得到"周云新, 等" -->
+      <term name="et-al">&#x7B49;</term>
       <term name="and">&#x548C;</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- ====== Author (bibliography) ====== -->
-  <!-- No dots after initials, all surname-first, comma separated -->
+  <!-- 姓前名后，名缩写不加点，缩写间留空格: Daily G C -->
   <macro name="author-bib">
     <names variable="author">
       <name name-as-sort-order="all" sort-separator=" " initialize-with=" " delimiter=", "/>
@@ -42,7 +45,8 @@
       </substitute>
     </names>
   </macro>
-  <!-- ====== Author (in-text short form) ====== -->
+  <!-- ====== Author (in-text) ====== -->
+  <!-- 正文: 丁一汇(2000) / 杨正龙和高拴柱(2016) / 郑永光等(2016) / Murphy and Winkler (1986) -->
   <macro name="author-intext">
     <names variable="author">
       <name form="short" and="text" delimiter=", "/>
@@ -54,11 +58,6 @@
   </macro>
   <!-- ====== Year ====== -->
   <macro name="year">
-    <date variable="issued">
-      <date-part name="year"/>
-    </date>
-  </macro>
-  <macro name="year-suffix">
     <date variable="issued">
       <date-part name="year"/>
     </date>
@@ -106,23 +105,47 @@
     <text variable="title"/>
   </macro>
   <!-- ====== Container: journal ====== -->
-  <macro name="container-journal">
-    <group delimiter=", ">
-      <text variable="container-title" font-style="italic"/>
-      <choose>
-        <if variable="volume">
+  <!-- 有卷: 高原气象, 25(5) / Applied Geochemistry, 81 -->
+  <!-- 无卷: 气象学报(5)（中文刊名与期号间无标点）/ Acta Meteorologica Sinica, (5)（英文刊名后保留逗号） -->
+  <macro name="container-journal-zh">
+    <choose>
+      <if variable="volume">
+        <group delimiter=", ">
+          <text variable="container-title" font-style="italic"/>
           <group>
             <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
           </group>
-        </if>
-        <else>
+        </group>
+      </if>
+      <else>
+        <group delimiter="">
+          <text variable="container-title" font-style="italic"/>
           <text variable="issue" prefix="(" suffix=")"/>
-        </else>
-      </choose>
-    </group>
+        </group>
+      </else>
+    </choose>
   </macro>
-  <!-- ====== Container: book chapter ====== -->
+  <macro name="container-journal-en">
+    <choose>
+      <if variable="volume">
+        <group delimiter=", ">
+          <text variable="container-title" font-style="italic"/>
+          <group>
+            <text variable="volume"/>
+            <text variable="issue" prefix="(" suffix=")"/>
+          </group>
+        </group>
+      </if>
+      <else>
+        <group delimiter="">
+          <text variable="container-title" font-style="italic"/>
+          <text variable="issue" prefix=", (" suffix=")"/>
+        </group>
+      </else>
+    </choose>
+  </macro>
+  <!-- ====== Container: book chapter / conference ====== -->
   <macro name="container-chapter">
     <choose>
       <if variable="container-title">
@@ -139,20 +162,10 @@
   </macro>
   <!-- ====== Publisher ====== -->
   <macro name="publisher">
-    <choose>
-      <if type="thesis">
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-      </if>
-      <else>
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-      </else>
-    </choose>
+    <group delimiter=": ">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
   </macro>
   <!-- ====== Pages ====== -->
   <macro name="pages">
@@ -166,58 +179,31 @@
       </if>
     </choose>
   </macro>
-  <!-- ====== Full bibliography entry ====== -->
-  <macro name="entry">
-    <group delimiter=". ">
-      <!-- Author. Year. -->
-      <text macro="author-bib"/>
-      <text macro="year"/>
-      <!-- Title[Type] -->
-      <group>
-        <text macro="title"/>
-        <text macro="type-label"/>
-      </group>
-      <!-- Source details depending on type -->
-      <choose>
-        <if type="article-journal article-magazine" match="any">
-          <group delimiter=": ">
-            <text macro="container-journal"/>
-            <text macro="pages"/>
-          </group>
-        </if>
-        <else-if type="article-newspaper">
-          <text variable="container-title"/>
-        </else-if>
-        <else-if type="chapter">
-          <group>
-            <group>
-              <text macro="title"/>
-              <text macro="type-label"/>
-              <text macro="container-chapter"/>
-            </group>
-            <text macro="publisher" prefix=". "/>
-            <text macro="pages" prefix=", "/>
-          </group>
-        </else-if>
-        <else-if type="paper-conference">
-          <group>
-            <text macro="container-chapter"/>
-            <text macro="publisher" prefix=". "/>
-            <text macro="pages" prefix=", "/>
-          </group>
-        </else-if>
-        <else-if type="dataset post post-weblog software webpage" match="any">
-          <text macro="access"/>
-        </else-if>
-        <else>
-          <!-- Book, thesis, report, etc -->
-          <text macro="publisher"/>
-        </else>
-      </choose>
-    </group>
+  <!-- ====== Accessed date [2026-11-09] ====== -->
+  <macro name="accessed-date">
+    <date variable="accessed" form="numeric" prefix="[" suffix="]"/>
   </macro>
-  <!-- ====== Rebuild entry to avoid double title for chapters ====== -->
-  <macro name="entry-journal">
+  <!-- ====== Translator (zh: 陈生铮, 译) ====== -->
+  <macro name="translator-zh">
+    <names variable="translator" delimiter=", " suffix=", &#x8BD1;"/>
+  </macro>
+  <!-- ====== Translator (en: Chen S Z, trans.) ====== -->
+  <macro name="translator-en">
+    <names variable="translator" delimiter=", " suffix=", trans."/>
+  </macro>
+  <!-- ====== Edition ====== -->
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <text variable="edition"/>
+      </if>
+      <else>
+        <text variable="edition"/>
+      </else>
+    </choose>
+  </macro>
+  <!-- ====== Journal entry (zh layout) ====== -->
+  <macro name="entry-journal-zh">
     <group delimiter=". ">
       <text macro="author-bib"/>
       <text macro="year"/>
@@ -226,12 +212,13 @@
         <text macro="type-label"/>
       </group>
       <group delimiter=": ">
-        <text macro="container-journal"/>
+        <text macro="container-journal-zh"/>
         <text macro="pages"/>
       </group>
     </group>
   </macro>
-  <macro name="entry-book">
+  <!-- ====== Journal entry (en layout) ====== -->
+  <macro name="entry-journal-en">
     <group delimiter=". ">
       <text macro="author-bib"/>
       <text macro="year"/>
@@ -239,37 +226,77 @@
         <text macro="title"/>
         <text macro="type-label"/>
       </group>
-      <text macro="publisher"/>
+      <group delimiter=": ">
+        <text macro="container-journal-en"/>
+        <text macro="pages"/>
+      </group>
     </group>
   </macro>
+  <!-- ====== Book entry (zh layout): 作者. 年. 书名[M]. 译者, 译. 版次. 出版地: 出版者, 页码. ====== -->
+  <macro name="entry-book-zh">
+    <group delimiter=". ">
+      <text macro="author-bib"/>
+      <text macro="year"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <text macro="translator-zh"/>
+      <group>
+        <text macro="edition"/>
+        <text value="&#x7248;"/>
+      </group>
+    </group>
+    <text macro="publisher" prefix=". "/>
+    <text macro="pages" prefix=", "/>
+  </macro>
+  <!-- ====== Book entry (en layout) ====== -->
+  <macro name="entry-book-en">
+    <group delimiter=". ">
+      <text macro="author-bib"/>
+      <text macro="year"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
+      <text macro="translator-en"/>
+      <group>
+        <text macro="edition"/>
+        <text value=" ed."/>
+      </group>
+    </group>
+    <text macro="publisher" prefix=". "/>
+    <text macro="pages" prefix=", "/>
+  </macro>
+  <!-- ====== Chapter entry: 作者. 年. 析出名[M]//编者. 书名. 出版地: 出版者, 页码. ====== -->
   <macro name="entry-chapter">
-    <group>
+    <group delimiter=". ">
       <text macro="author-bib"/>
-      <text value=". "/>
       <text macro="year"/>
-      <text value=". "/>
-      <text macro="title"/>
-      <text macro="type-label"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
       <text macro="container-chapter"/>
-      <text value=". "/>
-      <text macro="publisher"/>
-      <text macro="pages" prefix=", "/>
     </group>
+    <text macro="publisher" prefix=". "/>
+    <text macro="pages" prefix=", "/>
   </macro>
+  <!-- ====== Conference entry ====== -->
   <macro name="entry-conference">
-    <group>
+    <group delimiter=". ">
       <text macro="author-bib"/>
-      <text value=". "/>
       <text macro="year"/>
-      <text value=". "/>
-      <text macro="title"/>
-      <text macro="type-label"/>
+      <group>
+        <text macro="title"/>
+        <text macro="type-label"/>
+      </group>
       <text macro="container-chapter"/>
-      <text value=". "/>
-      <text macro="publisher"/>
-      <text macro="pages" prefix=", "/>
     </group>
+    <text macro="publisher" prefix=". "/>
+    <text macro="pages" prefix=", "/>
   </macro>
+  <!-- ====== Web entry: 作者. 年. 题名[EB/OL]. [引用日期]. URL ====== -->
   <macro name="entry-web">
     <group delimiter=". ">
       <text macro="author-bib"/>
@@ -278,13 +305,18 @@
         <text macro="title"/>
         <text macro="type-label"/>
       </group>
+      <text macro="accessed-date"/>
       <text macro="access"/>
     </group>
   </macro>
+  <!-- ====== Newspaper entry: 作者. 出版日期(版次). 文章名[N]. 报纸名. ====== -->
   <macro name="entry-newspaper">
     <group delimiter=". ">
       <text macro="author-bib"/>
-      <date variable="issued" form="numeric"/>
+      <group>
+        <date variable="issued" form="numeric"/>
+        <text variable="issue" prefix="(" suffix=")"/>
+      </group>
       <group>
         <text macro="title"/>
         <text macro="type-label"/>
@@ -300,20 +332,22 @@
     <layout delimiter="; " prefix="(" suffix=")">
       <group delimiter=", ">
         <text macro="author-intext"/>
-        <text macro="year-suffix"/>
+        <text macro="year"/>
       </group>
     </layout>
   </citation>
   <!-- ========== Bibliography ========== -->
+  <!-- 文后排序: 第一作者姓名(拼音)，再按年份；同年同作者由 year-suffix 区分 -->
   <bibliography et-al-min="4" et-al-use-first="3" entry-spacing="0" hanging-indent="true">
     <sort>
       <key macro="author-bib"/>
       <key macro="year"/>
     </sort>
+    <!-- 中文条目版式 -->
     <layout suffix="." locale="zh">
       <choose>
         <if type="article-journal article-magazine" match="any">
-          <text macro="entry-journal"/>
+          <text macro="entry-journal-zh"/>
         </if>
         <else-if type="chapter">
           <text macro="entry-chapter"/>
@@ -328,14 +362,15 @@
           <text macro="entry-web"/>
         </else-if>
         <else>
-          <text macro="entry-book"/>
+          <text macro="entry-book-zh"/>
         </else>
       </choose>
     </layout>
+    <!-- 英文条目版式 -->
     <layout suffix=".">
       <choose>
         <if type="article-journal article-magazine" match="any">
-          <text macro="entry-journal"/>
+          <text macro="entry-journal-en"/>
         </if>
         <else-if type="chapter">
           <text macro="entry-chapter"/>
@@ -350,7 +385,7 @@
           <text macro="entry-web"/>
         </else-if>
         <else>
-          <text macro="entry-book"/>
+          <text macro="entry-book-en"/>
         </else>
       </choose>
     </layout>
