@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "aws-zh-book-1",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "伊朗与伊斯兰世界关系研究",
+    "author": [
+      {
+        "family": "冀开运"
+      }
+    ],
+    "publisher-place": "北京",
+    "publisher": "时事出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "286",
+    "locator": "286"
+  },
+  {
+    "id": "aws-zh-book-2",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "中东反恐怖主义研究",
+    "author": [
+      {
+        "family": "朱威烈"
+      },
+      {
+        "family": "杨"
+      },
+      {
+        "family": "Z"
+      }
+    ],
+    "publisher-place": "北京",
+    "publisher": "时事出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "3",
+    "locator": "前言",
+    "genre": "前言"
+  },
+  {
+    "id": "aws-zh-book-3",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "阿拉伯通史（上卷）",
+    "author": [
+      {
+        "family": "纳忠"
+      }
+    ],
+    "publisher-place": "北京",
+    "publisher": "商务印书馆",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "50",
+    "locator": "50"
+  },
+  {
+    "id": "aws-zh-book-4",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "中东地区发展报告：转型与动荡的二元变奏（2013年卷）",
+    "editor": [
+      {
+        "family": "刘中民"
+      },
+      {
+        "family": "朱威烈"
+      }
+    ],
+    "publisher-place": "北京",
+    "publisher": "时事出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "30-31",
+    "locator": "30-31"
+  },
+  {
+    "id": "aws-zh-book-5",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "国际关系的文化理论",
+    "author": [
+      {
+        "family": "[美]理查德·内德·勒博"
+      }
+    ],
+    "translator": [
+      {
+        "family": "陈锴"
+      }
+    ],
+    "publisher-place": "上海",
+    "publisher": "上海社会科学院出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "220",
+    "locator": "220"
+  },
+  {
+    "id": "aws-zh-book-6",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "伊斯兰技术简史",
+    "author": [
+      {
+        "family": "[叙利亚]艾哈迈德·优素福·哈桑"
+      },
+      {
+        "family": "[英]唐纳德·R.希尔"
+      }
+    ],
+    "translator": [
+      {
+        "family": "梁波"
+      },
+      {
+        "family": "[新西兰]傅颖达"
+      }
+    ],
+    "publisher-place": "北京",
+    "publisher": "科学出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "xi",
+    "locator": "译者序",
+    "genre": "译者序"
+  },
+  {
+    "id": "aws-zh-book-7",
+    "type": "book",
+    "language": "zh-CN",
+    "title": "国际关系关键概念",
+    "author": [
+      {
+        "family": "[澳]马丁·格里菲斯"
+      },
+      {
+        "family": "Barry"
+      },
+      {
+        "family": "另"
+      }
+    ],
+    "translator": [
+      {
+        "family": "朱丹丹"
+      }
+    ],
+    "publisher-place": "北京",
+    "publisher": "北京大学出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "21、23",
+    "locator": "21、23"
+  },
+  {
+    "id": "aws-zh-article-1",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "权力中心转移与国际体系转变",
+    "author": [
+      {
+        "family": "阎学通"
+      }
+    ],
+    "container-title": "当代亚太",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "issue": "6",
+    "page": "5",
+    "locator": "5"
+  },
+  {
+    "id": "aws-zh-chapter-1",
+    "type": "chapter",
+    "language": "zh-CN",
+    "title": "大变局下的阿拉伯国家与美国关系的变化",
+    "author": [
+      {
+        "family": "高祖贵"
+      }
+    ],
+    "editor": [
+      {
+        "family": "罗林"
+      }
+    ],
+    "container-title": "阿拉伯发展报告（2014～2015）",
+    "publisher-place": "北京",
+    "publisher": "社会科学文献出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "155",
+    "locator": "155"
+  },
+  {
+    "id": "aws-zh-newspaper-1",
+    "type": "article-newspaper",
+    "language": "zh-CN",
+    "title": "网络主权指引国际治理新格局",
+    "author": [
+      {
+        "family": "支振锋"
+      }
+    ],
+    "container-title": "人民日报",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          5
+        ]
+      ]
+    },
+    "page": "5"
+  },
+  {
+    "id": "aws-zh-newspaper-2",
+    "type": "article-newspaper",
+    "language": "zh-CN",
+    "title": "安倍新年将“内外开弓”",
+    "container-title": "解放日报",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          5
+        ]
+      ]
+    },
+    "edition": "9"
+  },
+  {
+    "id": "aws-zh-conf-1",
+    "type": "paper-conference",
+    "language": "zh-CN",
+    "title": "关于中国中东外交的构建",
+    "author": [
+      {
+        "family": "李伟建"
+      }
+    ],
+    "event-title": "中日韩与中东关系国际研讨会",
+    "event-place": "上海外国语大学",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-zh-thesis-1",
+    "type": "thesis",
+    "language": "zh-CN",
+    "title": "犹太利益集团与美国中东外交政策（1967—1984）",
+    "author": [
+      {
+        "family": "孙晓玲"
+      }
+    ],
+    "publisher": "复旦大学",
+    "genre": "国际政治专业博士学位论文",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          4
+        ]
+      ]
+    },
+    "page": "17",
+    "locator": "17"
+  },
+  {
+    "id": "aws-zh-trans-1",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "古代中国权力与当代中国思想",
+    "author": [
+      {
+        "family": "[英]威廉·卡拉汉"
+      },
+      {
+        "family": "[英]卡宁汉-克洛斯"
+      }
+    ],
+    "translator": [
+      {
+        "family": "王垦"
+      }
+    ],
+    "container-title": "国际政治科学",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "issue": "2",
+    "page": "157—159",
+    "locator": "157—159"
+  },
+  {
+    "id": "aws-zh-trans-2",
+    "type": "article-journal",
+    "language": "zh-CN",
+    "title": "社会科学研究中的定性比较分析法——近25年的发展及应用评估",
+    "author": [
+      {
+        "family": "[比]阿克塞尔·马克斯"
+      },
+      {
+        "family": "另"
+      },
+      {
+        "family": "另"
+      }
+    ],
+    "translator": [
+      {
+        "family": "臧雷振"
+      }
+    ],
+    "genre": "编译",
+    "container-title": "国外社会科学",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "issue": "6",
+    "page": "107—108、110",
+    "locator": "107—108、110"
+  },
+  {
+    "id": "aws-zh-trans-3",
+    "type": "chapter",
+    "language": "zh-CN",
+    "title": "灵魂之剑，信仰之盾——美国战争与外交中的宗教",
+    "author": [
+      {
+        "family": "[英]安德鲁·普雷斯顿"
+      }
+    ],
+    "translator": [
+      {
+        "family": "罗辉"
+      }
+    ],
+    "editor": [
+      {
+        "family": "徐以骅"
+      }
+    ],
+    "container-title": "宗教与美国社会（第十辑）",
+    "publisher-place": "北京",
+    "publisher": "时事出版社",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "358",
+    "locator": "358"
+  },
+  {
+    "id": "aws-zh-report-1",
+    "type": "report",
+    "language": "zh-CN",
+    "title": "中国中东外交战略研究",
+    "publisher": "上海国际问题研究院",
+    "genre": "系列课题报告",
+    "number": "201505",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "page": "11",
+    "locator": "11"
+  },
+  {
+    "id": "aws-zh-report-2",
+    "type": "chapter",
+    "language": "zh-CN",
+    "title": "“一带一路双重身份”国家的地缘政治分析",
+    "author": [
+      {
+        "family": "杨恕"
+      }
+    ],
+    "container-title": "中国大学智库论坛2015年年会咨询报告集",
+    "page": "212",
+    "locator": "212"
+  },
+  {
+    "id": "aws-zh-web-1",
+    "type": "webpage",
+    "language": "zh-CN",
+    "title": "联合国大会通过关于耶路撒冷地位问题的决议",
+    "author": [
+      {
+        "family": "王建刚"
+      },
+      {
+        "family": "尚绪谦"
+      }
+    ],
+    "container-title": "新华网",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          22
+        ]
+      ]
+    },
+    "URL": "http://www.xinhuanet.com/world/2017-12/22/c_1122149712.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-zh-web-2",
+    "type": "webpage",
+    "language": "zh-CN",
+    "title": "中非合作论坛约翰内斯堡峰会宣言",
+    "container-title": "中国外交部网站",
+    "URL": "http://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/xzxzt/xzxffgcxqhbh_684980/zxxx_684982/t1323144.shtml",
+    "accessed": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-zh-web-3",
+    "type": "webpage",
+    "language": "zh-CN",
+    "title": "第36次中国互联网络发展状况统计报告",
+    "publisher": "中国互联网络信息中心",
+    "page": "12",
+    "URL": "http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201507/P020150723549500667087.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-zh-web-4",
+    "type": "article-newspaper",
+    "language": "ar",
+    "title": "“伊斯兰国”组织扫荡媒体和社交网站",
+    "author": [
+      {
+        "family": "[约旦]伊亚德·巴拉卡特"
+      }
+    ],
+    "container-title": "阿拉伯圣城报",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-book-1",
+    "type": "book",
+    "language": "en-US",
+    "title": "Globalization and Geopolitics in the Middle East: Old Games, New Rules",
+    "author": [
+      {
+        "family": "Ehteshami",
+        "given": "Anoushiravan"
+      }
+    ],
+    "publisher-place": "London and New York",
+    "publisher": "Routledge",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "3",
+    "locator": "3"
+  },
+  {
+    "id": "aws-en-book-2",
+    "type": "book",
+    "language": "en-US",
+    "title": "Terror and Taboo: The Follies, Fables, and Faces of Terrorism",
+    "author": [
+      {
+        "family": "Zulaika",
+        "given": "Joseba"
+      },
+      {
+        "family": "Douglass",
+        "given": "William"
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Routledge",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "25, 27-28",
+    "locator": "25, 27-28"
+  },
+  {
+    "id": "aws-en-book-3",
+    "type": "book",
+    "language": "en-US",
+    "title": "Contemporary Israel: Domestic Politics, Foreign Policy, and Security Challenges",
+    "editor": [
+      {
+        "family": "Freedman",
+        "given": "Robert O."
+      }
+    ],
+    "publisher-place": "Boulder",
+    "publisher": "Westview Press",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "305",
+    "locator": "305"
+  },
+  {
+    "id": "aws-en-book-4",
+    "type": "book",
+    "language": "en-US",
+    "title": "France in World Politics",
+    "editor": [
+      {
+        "family": "Aldrich",
+        "given": "Robert"
+      },
+      {
+        "family": "Connell",
+        "given": "John"
+      }
+    ],
+    "publisher-place": "London",
+    "publisher": "Routledge",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "52-53",
+    "locator": "52-53"
+  },
+  {
+    "id": "aws-en-book-5",
+    "type": "book",
+    "language": "en-US",
+    "title": "Western Foreign Policy and the Middle East",
+    "editor": [
+      {
+        "family": "Kaunert",
+        "given": "Christian"
+      },
+      {
+        "family": "另"
+      },
+      {
+        "family": "另"
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Routledge",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "17, 19",
+    "locator": "17, 19"
+  },
+  {
+    "id": "aws-en-book-6",
+    "type": "book",
+    "language": "en-US",
+    "title": "34 Days: Israel, Hezbollah, and the War in Lebanon",
+    "author": [
+      {
+        "family": "Harel",
+        "given": "Amos"
+      },
+      {
+        "family": "Issacharoff",
+        "given": "Avi"
+      }
+    ],
+    "translator": [
+      {
+        "family": "Cummings",
+        "given": "Ora"
+      },
+      {
+        "family": "Tlamim",
+        "given": "Moshe"
+      }
+    ],
+    "publisher-place": "New York",
+    "publisher": "Palgrave Macmillan",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "134",
+    "locator": "134"
+  },
+  {
+    "id": "aws-en-article-1",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "After Iraq: Future U.S. Military Posture in the Middle East",
+    "author": [
+      {
+        "family": "Bowman",
+        "given": "Bradley L."
+      }
+    ],
+    "container-title": "The Washington Quarterly",
+    "volume": "31",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "80-81",
+    "locator": "80-81"
+  },
+  {
+    "id": "aws-en-article-2",
+    "type": "article-journal",
+    "language": "en-US",
+    "title": "Pious Way to Politics: The Rise of Political Salafism in Post-Mubarak Egypt",
+    "author": [
+      {
+        "family": "al-Anani",
+        "given": "Khalil"
+      },
+      {
+        "family": "Malik",
+        "given": "Maszlee"
+      }
+    ],
+    "container-title": "Digest of Middle East Studies",
+    "volume": "22",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "66",
+    "locator": "66"
+  },
+  {
+    "id": "aws-en-chapter-1",
+    "type": "chapter",
+    "language": "en-US",
+    "title": "The State-to-Nation Balance: A Key to Explaining Difficulties in Implementing Peace - The Israeli-Palestinian Case",
+    "author": [
+      {
+        "family": "Miller",
+        "given": "Benjamin"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Ben-Porat",
+        "given": "Guy"
+      }
+    ],
+    "container-title": "The Failure of the Middle East Peace Process?: A Comparative Analysis of Peace Implementation in Israel/Palestine, Northern Ireland and South Africa",
+    "publisher-place": "New York",
+    "publisher": "Palgrave Macmillan",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "62",
+    "locator": "62"
+  },
+  {
+    "id": "aws-en-newspaper-1",
+    "type": "article-newspaper",
+    "language": "en-US",
+    "title": "Shaikh Mohammed Meets David Cameron",
+    "container-title": "Khaleej Times",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-newspaper-2",
+    "type": "article-newspaper",
+    "language": "en-US",
+    "title": "US Seeks Major Military Base on United Cyprus",
+    "author": [
+      {
+        "family": "Athanasiadis",
+        "given": "Lason"
+      }
+    ],
+    "container-title": "Asia Times",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          4,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-conf-1",
+    "type": "paper-conference",
+    "language": "en-US",
+    "title": "Employment and Unemployment Dynamics",
+    "author": [
+      {
+        "family": "Assaad",
+        "given": "Ragui"
+      }
+    ],
+    "event-title": "Egyptian Labor Market Panel Survey 2006 Dissemination Conference",
+    "event-place": "Cairo",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          10,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-conf-2",
+    "type": "paper-conference",
+    "language": "en-US",
+    "title": "Countering Myths, Searching Knowledge: How to Study Middle East and Islam in the 21st Century",
+    "author": [
+      {
+        "family": "Kasaba",
+        "given": "Reşat"
+      }
+    ],
+    "genre": "keynote addressed at",
+    "event-title": "Second Annual California State University Middle east and Islamic Studies Conference",
+    "event-place": "San Francisco",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-thesis-1",
+    "type": "thesis",
+    "language": "en-US",
+    "title": "The Islamist Movement and Tribal Networks: Islamist Party Mobilization Amongst the Tribes of Jordan and Yemen",
+    "author": [
+      {
+        "family": "Langston",
+        "given": "Elizabeth M."
+      }
+    ],
+    "genre": "Ph.D.",
+    "publisher": "University of Kentucky",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-trans-1",
+    "type": "chapter",
+    "language": "en-US",
+    "title": "Guinea-Samor",
+    "author": [
+      {
+        "family": "Person",
+        "given": "Yves"
+      }
+    ],
+    "translator": [
+      {
+        "family": "White",
+        "given": "Joan"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Crowder",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "West African Resistance: The Military Response to Colonial Occupation",
+    "publisher-place": "London",
+    "publisher": "Hutchinson",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "page": "272",
+    "locator": "272"
+  },
+  {
+    "id": "aws-en-report-1",
+    "type": "report",
+    "language": "en-US",
+    "title": "The Costs and Benefits of the Soviet Empire, 1981-1983",
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "Charles",
+        "suffix": "Jr."
+      },
+      {
+        "family": "另"
+      },
+      {
+        "family": "另"
+      }
+    ],
+    "publisher-place": "Santa Monica",
+    "publisher": "RAND Report R-3419-NA",
+    "issued": {
+      "date-parts": [
+        [
+          1986,
+          8
+        ]
+      ]
+    },
+    "page": "5-8",
+    "locator": "5-8"
+  },
+  {
+    "id": "aws-en-report-2",
+    "type": "report",
+    "language": "en-US",
+    "title": "Africa Command Mission Statement before the House Armed Services Committee",
+    "author": [
+      {
+        "literal": "United States Africa Command"
+      }
+    ],
+    "publisher-place": "Washington D.C.",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          2,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-web-1",
+    "type": "webpage",
+    "language": "en-US",
+    "title": "Thousands of Shia Muslims Protest over Gulf Union Plans",
+    "container-title": "BBC",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          5,
+          18
+        ]
+      ]
+    },
+    "URL": "http://www.bbc.co.uk/news/world-middle-east-18120787",
+    "accessed": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-web-2",
+    "type": "webpage",
+    "language": "en-US",
+    "title": "Iraq Profile - Timeline",
+    "container-title": "BBC",
+    "URL": "http://www.bbc.com/news/world-middle-east-1446763",
+    "accessed": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-web-3",
+    "type": "webpage",
+    "language": "en-US",
+    "title": "The Troubles in Syria: Spawned by French Divide and Rule",
+    "author": [
+      {
+        "family": "Fildis",
+        "given": "Ayse Tekdal"
+      }
+    ],
+    "container-title": "Middle East Policy",
+    "volume": "18",
+    "issue": "4",
+    "issued": {
+      "literal": "Winter 2001"
+    },
+    "URL": "http://www.mepc.org/journal/middle-east-policy-archives/troubles-syria-spawned-french-divide-and-rule",
+    "accessed": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "id": "aws-en-web-4",
+    "type": "article-newspaper",
+    "language": "en-US",
+    "title": "Da'ish Taktasih al-I'lam wa Shabakat al-Tawasul al-Ijtima'iyyah",
+    "author": [
+      {
+        "family": "Barakat",
+        "given": "Iyad"
+      }
+    ],
+    "container-title": "Al-Quds al-'Arabi",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6,
+          21
+        ]
+      ]
+    }
+  }
+]
