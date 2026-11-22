@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" name-as-sort-order="all" sort-separator=" " initialize-with=" " page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714—2025（顺序编码，双语，全角符号）</title>
-    <id>https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，全角符号）</id>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，全角符号）" rel="self"/>
+    <title>GB/T 7714—2025（顺序编码，双语，中文全角西文半角）</title>
+    <id>https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，中文全角西文半角）</id>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语，中文全角西文半角）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2025（顺序编码，双语）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=4507EFE13D37CB6AE06397BE0A0A601F" rel="documentation"/>
     <author>
@@ -44,7 +44,7 @@
     </terms>
   </locale>
   <!-- 主要责任者 -->
-   <macro name="author-en">
+  <macro name="author-en">
     <names variable="composer">
       <name/>
       <substitute>
@@ -83,7 +83,7 @@
     </names>
   </macro>
   <!-- 题名 -->
-   <macro name="title-en">
+  <macro name="title-en">
     <group delimiter=". ">
       <group delimiter=": ">
         <text variable="title"/>
@@ -570,7 +570,8 @@
     <group delimiter=". ">
       <text variable="URL"/>
       <choose>
-        <if variable="CSTR"> <!-- 扩展：CSTR -->
+        <if variable="CSTR">
+          <!-- 扩展：CSTR -->
           <text variable="CSTR" prefix="CSTR:"/>
         </if>
         <else>
@@ -580,7 +581,7 @@
     </group>
   </macro>
   <!-- 参考文献表格式 -->
-   <macro name="entry-layout-en">
+  <macro name="entry-layout-en">
     <group delimiter=". ">
       <choose>
         <if type="standard" match="none">
@@ -781,7 +782,8 @@
     </layout>
   </citation>
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
-    <layout locale="en"> <!-- CSL-M 扩展 -->
+    <layout locale="en">
+      <!-- CSL-M 扩展 -->
       <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="entry-layout-en" suffix="."/>
     </layout>
