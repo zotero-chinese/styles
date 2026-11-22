@@ -90,7 +90,7 @@
   </macro>
   <macro name="author-intext-zh">
     <names variable="composer">
-      <name and="text"/>
+      <name delimiter="，" and="text"/>
       <et-al term="and others"/>
       <substitute>
         <names variable="author"/>
@@ -234,11 +234,11 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
+      <else-if type="bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
+        <text value="A"/>
+      </else-if>
       <else-if type="book chapter classic entry-dictionary entry-encyclopedia" match="any">
         <text value="M"/>
-      </else-if>
-      <else-if type="collection manuscript personal_communication" match="any">
-        <text value="A"/>
       </else-if>
       <else-if type="dataset">
         <text value="DS"/>
@@ -284,18 +284,18 @@
       <if variable="medium">
         <text variable="medium"/>
       </if>
-      <else-if variable="URL DOI" match="any">
+      <else-if variable="CSTR DOI URL" match="any">
         <choose>
           <if type="article-journal">
             <choose>
               <if variable="volume issue" match="none">
-                <!-- 在线出版 -->
+                <!-- 在线出版的期刊文章 -->
                 <text value="OL"/>
               </if>
             </choose>
           </if>
-          <else-if type="article-magazine article-newspaper book chapter classic collection dataset entry-dictionary entry-encyclopedia manuscript personal_communication map paper-conference patent periodical report standard thesis" variable="archive" match="none">
-            <!-- 仅网站、网页、预印本需要 URL -->
+          <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+            <!-- 网站、网页、预印本 -->
             <text value="OL"/>
           </else-if>
         </choose>
@@ -478,13 +478,13 @@
       <if type="article-journal">
         <choose>
           <if variable="volume issue" match="none">
-            <!-- 在线出版 -->
+            <!-- 在线出版的期刊文章 -->
             <text macro="access-url"/>
           </if>
         </choose>
       </if>
-      <else-if type="article-magazine article-newspaper book chapter classic collection dataset entry-dictionary entry-encyclopedia manuscript personal_communication map paper-conference patent periodical report standard thesis" variable="archive" match="none">
-        <!-- 仅网站、网页、预印本需要 URL -->
+      <else-if type="article-magazine article-newspaper bill book chapter classic collection dataset entry-dictionary entry-encyclopedia hearing legal_case legislation manuscript map paper-conference patent periodical personal_communication regulation report standard thesis treaty" variable="archive" match="none">
+        <!-- 网站、网页、预印本 -->
         <text macro="access-url"/>
       </else-if>
     </choose>
@@ -494,6 +494,9 @@
       <if variable="URL">
         <text variable="URL"/>
       </if>
+      <else-if variable="CSTR">
+        <text variable="CSTR" prefix="https://cstr.cn/"/>
+      </else-if>
       <else>
         <text variable="DOI" prefix="https://doi.org/"/>
       </else>

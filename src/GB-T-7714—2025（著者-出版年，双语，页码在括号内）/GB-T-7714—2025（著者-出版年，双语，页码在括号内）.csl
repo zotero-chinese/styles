@@ -284,7 +284,7 @@
       <if variable="medium">
         <text variable="medium"/>
       </if>
-      <else-if variable="URL DOI" match="any">
+      <else-if variable="CSTR DOI URL" match="any">
         <text value="OL"/>
       </else-if>
     </choose>
