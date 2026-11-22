@@ -44,14 +44,14 @@
   </locale>
   <macro name="author">
     <names variable="author">
-      <name initialize-with=" " name-as-sort-order="all" sort-separator=" " delimiter=", ">
+      <name initialize-with=" " name-as-sort-order="all" sort-separator=" ">
         <name-part name="family" text-case="capitalize-first"/>
       </name>
     </names>
   </macro>
   <macro name="trailing-contributor">
     <names variable="recipient">
-      <name name-as-sort-order="all" sort-separator=" " delimiter=", "/>
+      <name name-as-sort-order="all" sort-separator=" "/>
       <label form="short" prefix=", " text-case="lowercase"/>
       <substitute>
         <names variable="interviewer"/>
@@ -131,12 +131,12 @@
   </macro>
   <macro name="secondaryAuthor">
     <names variable="editor">
-      <name initialize-with=". " name-as-sort-order="all" sort-separator=" " delimiter=", ">
+      <name initialize-with=". " name-as-sort-order="all" sort-separator=" ">
         <name-part name="family" text-case="capitalize-first"/>
       </name>
     </names>
     <names variable="translator">
-      <name name-as-sort-order="all" sort-separator=" " delimiter=", " suffix=", 译"/>
+      <name name-as-sort-order="all" sort-separator=" " suffix=", 译"/>
     </names>
   </macro>
   <macro name="publisherMain">

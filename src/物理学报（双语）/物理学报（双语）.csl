@@ -40,7 +40,7 @@
   </locale>
   <macro name="author">
     <names variable="author">
-      <name delimiter=", "/>
+      <name/>
       <substitute>
         <choose>
           <if variable="container-title" match="none">
@@ -52,7 +52,7 @@
   </macro>
   <macro name="author-ZHtoEN">
     <names variable="original-author">
-      <name delimiter=", "/>
+      <name/>
     </names>
   </macro>
   <macro name="date">

@@ -69,7 +69,7 @@
   </macro>
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter=", "/>
+      <name/>
       <institution/>
       <substitute>
         <names variable="composer"/>
@@ -267,7 +267,7 @@
   </macro>
   <macro name="secondary-contributors-zh">
     <names variable="translator">
-      <name delimiter=", "/>
+      <name/>
       <institution/>
       <label form="short" prefix=", "/>
     </names>
@@ -286,7 +286,7 @@
   </macro>
   <macro name="container-contributors-zh">
     <names variable="editor">
-      <name delimiter=", "/>
+      <name/>
       <institution/>
       <substitute>
         <names variable="editorial-director"/>

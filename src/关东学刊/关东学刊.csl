@@ -41,7 +41,7 @@
   </locale>
   <macro name="author-en">
     <names variable="author">
-      <name delimiter=", " delimiter-precedes-last="never" and="text"/>
+      <name delimiter-precedes-last="never" and="text"/>
       <label form="short" prefix=", "/>
       <substitute>
         <names variable="editor"/>
@@ -324,7 +324,7 @@
           <text term="in"/>
           <group delimiter=", ">
             <names variable="editor">
-              <name delimiter=", " delimiter-precedes-last="never" and="text"/>
+              <name delimiter-precedes-last="never" and="text"/>
               <label form="short" prefix=" (" suffix=")"/>
             </names>
             <text variable="container-title" text-case="title" font-style="italic"/>

@@ -82,22 +82,22 @@
         <choose>
           <if variable="container-title" match="none">
             <names variable="editor">
-              <name delimiter=", " delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
+              <name delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
                 <name-part name="family" text-case="uppercase"/>
               </name>
             </names>
             <names variable="editorial-director">
-              <name delimiter=", " delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
+              <name delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
                 <name-part name="family" text-case="uppercase"/>
               </name>
             </names>
             <names variable="compiler">
-              <name delimiter=", " delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
+              <name delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
                 <name-part name="family" text-case="uppercase"/>
               </name>
             </names>
             <names variable="collection-editor">
-              <name delimiter=", " delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
+              <name delimiter-precedes-et-al="always" name-as-sort-order="all" sort-separator=" " initialize-with=" ">
                 <name-part name="family" text-case="uppercase"/>
               </name>
             </names>

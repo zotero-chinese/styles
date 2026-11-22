@@ -106,7 +106,7 @@
   <macro name="author-en">
     <names variable="author">
       <!-- 英文引注体例：四人以上的，可以只写第一作者，余下用 et al.。 -->
-      <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <name initialize="true" and="symbol" delimiter-precedes-last="never"/>
       <label form="short" prefix=" "/>
       <substitute>
         <names variable="editor"/>
@@ -116,7 +116,7 @@
   </macro>
   <macro name="author-short-en">
     <names variable="author">
-      <name initialize="false" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <name initialize="false" and="symbol" delimiter-precedes-last="never"/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>
@@ -125,7 +125,7 @@
   </macro>
   <macro name="author-fr">
     <names variable="author">
-      <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <name initialize="true" and="symbol" delimiter-precedes-last="never"/>
       <label form="short" prefix=" "/>
       <substitute>
         <names variable="editor"/>
@@ -915,7 +915,7 @@
   <macro name="secondary-contributors-en">
     <names variable="translator" delimiter=", ">
       <label form="verb" suffix=" "/>
-      <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <name initialize="true" and="symbol" delimiter-precedes-last="never"/>
     </names>
   </macro>
   <macro name="secondary-contributors-zh">
@@ -966,13 +966,13 @@
   </macro>
   <macro name="editor-en">
     <names variable="editor">
-      <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <name initialize="true" and="symbol" delimiter-precedes-last="never"/>
       <label form="short" prefix=" "/>
     </names>
   </macro>
   <macro name="editor-fr">
     <names variable="editor">
-      <name initialize="true" and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <name initialize="true" and="symbol" delimiter-precedes-last="never"/>
       <label form="short" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="editorial-director"/>

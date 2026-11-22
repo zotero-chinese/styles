@@ -46,7 +46,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="composer">
-      <name delimiter=", "/>
+      <name/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>
@@ -210,14 +210,14 @@
   <!-- 其他责任者 -->
   <macro name="secondary-contributors">
     <names variable="translator">
-      <name delimiter=", "/>
+      <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
   <!-- 图书主要责任者 -->
   <macro name="container-contributors">
     <names variable="container-author">
-      <name delimiter=", "/>
+      <name/>
       <substitute>
         <names variable="editor"/>
         <names variable="editorial-director"/>

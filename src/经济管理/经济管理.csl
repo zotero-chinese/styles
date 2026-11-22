@@ -41,7 +41,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter=", " and="text" delimiter-precedes-et-al="contextual" delimiter-precedes-last="contextual" et-al-min="3" initialize-with=". "/>
+          <name and="text" et-al-min="3" initialize-with=". "/>
         </names>
       </if>
       <else>
@@ -53,7 +53,7 @@
     <choose>
       <if variable="author">
         <names variable="author">
-          <name delimiter=", "/>
+          <name/>
         </names>
       </if>
       <else>

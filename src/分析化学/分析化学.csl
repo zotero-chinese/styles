@@ -40,7 +40,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <!-- <name delimiter=", "/> -->
+      <!-- <name/> -->
       <name>
         <name-part name="family" text-case="uppercase"/>
         <name-part name="given" text-case="capitalize-all"/>
@@ -59,7 +59,7 @@
   </macro>
   <macro name="author-ZHtoEN">
     <names variable="original-author">
-      <name delimiter=", "/>
+      <name/>
       <substitute>
         <choose>
           <if variable="original-container-title" match="none">

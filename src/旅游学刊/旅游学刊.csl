@@ -53,7 +53,7 @@
   <!-- 中文部分主要责任者：半角“, ”分隔；超过 3 人前 3 人 + “，等”（姓大写，中文姓名不受影响） -->
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter=", " delimiter-precedes-et-al="never">
+      <name delimiter-precedes-et-al="never">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
@@ -75,7 +75,7 @@
     <choose>
       <if variable="original-author">
         <names variable="original-author">
-          <name delimiter=", " delimiter-precedes-et-al="contextual">
+          <name>
             <name-part name="family" text-case="uppercase"/>
           </name>
           <et-al term="and others"/>
@@ -84,7 +84,7 @@
       </if>
       <else>
         <names variable="author">
-          <name delimiter=", " initialize-with=" " delimiter-precedes-et-al="contextual">
+          <name initialize-with=" ">
             <name-part name="family" text-case="uppercase"/>
           </name>
           <institution/>
@@ -188,7 +188,7 @@
   <!-- 译者：陈生铮, 译（仅中文部分输出；英文翻译部分体例无示例，暂不输出） -->
   <macro name="translator">
     <names variable="translator">
-      <name delimiter=", ">
+      <name>
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
@@ -198,7 +198,7 @@
   <!-- 析出文献来源责任者（中文部分） -->
   <macro name="container-contributors-zh">
     <names variable="editor">
-      <name delimiter=", " delimiter-precedes-et-al="never"/>
+      <name delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="editorial-director"/>
         <names variable="collection-editor"/>

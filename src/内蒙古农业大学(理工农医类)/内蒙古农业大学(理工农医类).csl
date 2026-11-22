@@ -47,7 +47,7 @@
   <!-- 英文主要责任者 -->
   <macro name="author-en">
     <names variable="author">
-      <name delimiter=", "/>   <!--英文作者间隔用逗号加空格 -->
+      <name/>   <!--英文作者间隔用逗号加空格 -->
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

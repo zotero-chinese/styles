@@ -55,7 +55,7 @@
   <!-- 英文主要责任者 -->
   <macro name="author-bib-en">
     <names variable="author">
-      <name delimiter=", "/>
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

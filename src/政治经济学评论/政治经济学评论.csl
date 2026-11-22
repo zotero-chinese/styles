@@ -160,7 +160,7 @@
   <macro name="entry-english">
     <group delimiter=", ">
       <names variable="author">
-        <name initialize="false" delimiter=", " and="text"/>
+        <name initialize="false" and="text"/>
       </names>
       <choose>
         <if type="article-journal article-magazine chapter paper-conference" match="any">
@@ -172,7 +172,7 @@
       </choose>
       <names variable="translator">
         <label form="verb-short" suffix=" "/>
-        <name initialize="false" delimiter=", "/>
+        <name initialize="false"/>
       </names>
       <choose>
         <if type="article-journal article-magazine" match="any">

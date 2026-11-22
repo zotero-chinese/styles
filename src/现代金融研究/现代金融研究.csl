@@ -57,7 +57,7 @@
   <!-- 主要责任者 -->
   <macro name="author-bib-zh">
     <names variable="author">
-      <name delimiter="、" delimiter-precedes-last="contextual"/>
+      <name delimiter="、"/>
       <!-- <name/> -->
       <substitute>
         <names variable="composer"/>
@@ -74,7 +74,7 @@
   </macro>
   <macro name="author-bib-en">
     <names variable="author">
-      <name delimiter=", "/>
+      <name/>
       <name and="text"/>
       <!-- <name/> -->
       <substitute>

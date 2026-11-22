@@ -146,7 +146,7 @@
   <!-- 其他责任者 -->
   <macro name="secondary-contributors-en">
     <names variable="translator">
-      <name and="text" delimiter=", " delimiter-precedes-last="never"/>
+      <name and="text" delimiter-precedes-last="never"/>
       <label form="short" prefix=", "/>
     </names>
   </macro>

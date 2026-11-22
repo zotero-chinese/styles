@@ -45,7 +45,7 @@
 
   <macro name="author">
     <names variable="author">
-      <name initialize-with="" sort-separator=" " delimiter=", " delimiter-precedes-last="always"/>
+      <name initialize-with="" sort-separator=" " delimiter-precedes-last="always"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>

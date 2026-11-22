@@ -57,7 +57,7 @@
   <!-- 主要责任者（文末表）：en 第一作者“姓, 名”，其余“名 姓”，and 前加 Oxford comma（官方例） -->
   <macro name="author-bib-en">
     <names variable="author">
-      <name and="text" delimiter=", " delimiter-precedes-last="always" name-as-sort-order="first"/>
+      <name and="text" delimiter-precedes-last="always" name-as-sort-order="first"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -188,7 +188,7 @@
   <!-- 其他责任者（译者） -->
   <macro name="secondary-contributors-en">
     <names variable="translator">
-      <name and="text" delimiter=", " delimiter-precedes-last="never"/>
+      <name and="text" delimiter-precedes-last="never"/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
@@ -233,7 +233,7 @@
       <text term="in" text-case="capitalize-first"/>
       <group delimiter=", ">
         <names variable="editor">
-          <name and="text" delimiter=", " delimiter-precedes-last="never"/>
+          <name and="text" delimiter-precedes-last="never"/>
           <label form="short" prefix=" (" suffix=")"/>
           <substitute>
             <names variable="editorial-director"/>

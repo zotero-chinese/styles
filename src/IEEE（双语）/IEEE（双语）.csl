@@ -139,7 +139,7 @@
   </macro>
   <macro name="editor">
     <names variable="editor">
-      <name initialize-with=". " delimiter=", " and="text"/>
+      <name initialize-with=". " and="text"/>
       <label form="short" prefix=", " text-case="capitalize-first"/>
     </names>
   </macro>

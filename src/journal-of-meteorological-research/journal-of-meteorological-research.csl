@@ -28,7 +28,7 @@
   </locale>
   <macro name="editor">
     <names variable="editor">
-      <name and="text" delimiter=", " initialize-with=".">
+      <name and="text" initialize-with=".">
         <name-part name="family" text-case="capitalize-first"/>
         <name-part name="given" text-case="capitalize-first"/>
       </name>
@@ -38,12 +38,12 @@
   <macro name="series-editor">
     <names variable="original-author">
       <label form="short" text-case="capitalize-first" suffix=" "/>
-      <name and="text" delimiter=", "/>
+      <name and="text"/>
     </names>
   </macro>
   <macro name="author">
     <names variable="author">
-      <name and="text" name-as-sort-order="first" sort-separator=", " delimiter=", " delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize-with=". "/>
+      <name and="text" name-as-sort-order="first" delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize-with=". "/>
       <label form="short" prefix=", "/>
       <substitute>
         <names variable="editor"/>
@@ -62,7 +62,7 @@
   </macro>
   <macro name="author-short">
     <names variable="author">
-      <name form="short" and="text" delimiter=", "/>
+      <name form="short" and="text"/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>

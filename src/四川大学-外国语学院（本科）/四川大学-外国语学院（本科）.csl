@@ -76,7 +76,7 @@
   <macro name="author-zh">
     <group delimiter=" ">
       <names variable="author">
-        <name delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize="false" delimiter=", "/>
+        <name delimiter-precedes-last="always" delimiter-precedes-et-al="always" initialize="false"/>
         <label form="long" prefix=", "/>
         <substitute>
           <names variable="editor"/>

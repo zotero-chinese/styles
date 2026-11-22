@@ -49,7 +49,7 @@
   <macro name="author-en">
     <names variable="author">
       <!-- 英文名前姓后（规范 6(1)：国际惯例 H. G. Wells / P. Caplan） -->
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
     </names>
   </macro>
   <!-- 题名：英文实词首字母大写（规范 6(3)），中文原样 -->
@@ -68,7 +68,7 @@
   </macro>
   <macro name="translator-en">
     <names variable="translator">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
@@ -85,10 +85,10 @@
   </macro>
   <macro name="container-contributors-en">
     <names variable="editor">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
       <substitute>
         <names variable="container-author">
-          <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
+          <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="never"/>
         </names>
       </substitute>
     </names>

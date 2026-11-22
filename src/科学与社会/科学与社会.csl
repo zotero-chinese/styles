@@ -60,7 +60,7 @@
   <!-- 主要责任者（中文：半角“, ”；实刊例 蔡芬, 贾枭, 沈文钦；超过 3 人前 3 人 + 等；拉丁姓氏全大写） -->
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
@@ -79,7 +79,7 @@
   <!-- 主要责任者（英文：实刊例 GUAN J, DODGE J, WADDEN D, et al.；姓全大写、缩写名无点） -->
   <macro name="author-en">
     <names variable="author">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <institution/>
@@ -102,7 +102,7 @@
   <!-- 译者（中文：杨斌, 王忠玉, 陈彦斌, 等, 译） -->
   <macro name="translator-zh">
     <names variable="translator">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <label form="short" prefix=", "/>
@@ -111,10 +111,10 @@
   <!-- 析出文献来源责任者（中文） -->
   <macro name="container-contributors-zh">
     <names variable="editor">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
       <substitute>
         <names variable="container-author">
-          <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
+          <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
         </names>
       </substitute>
     </names>
@@ -122,12 +122,12 @@
   <!-- 析出文献来源责任者（英文：实刊例 FISKE S T，姓全大写） -->
   <macro name="container-contributors-en">
     <names variable="editor">
-      <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
+      <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
         <name-part name="family" text-case="uppercase"/>
       </name>
       <substitute>
         <names variable="container-author">
-          <name delimiter=", " et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
+          <name et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always">
             <name-part name="family" text-case="uppercase"/>
           </name>
         </names>

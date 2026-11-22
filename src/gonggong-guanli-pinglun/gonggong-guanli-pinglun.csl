@@ -39,7 +39,7 @@
   <!-- No dots after initials, all surname-first, comma separated -->
   <macro name="author-bib">
     <names variable="author">
-      <name name-as-sort-order="all" sort-separator=" " initialize-with=" " delimiter=", "/>
+      <name name-as-sort-order="all" sort-separator=" " initialize-with=" "/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>
@@ -50,7 +50,7 @@
   <!-- ====== Author (in-text short form) ====== -->
   <macro name="author-intext">
     <names variable="author">
-      <name form="short" and="text" delimiter=", "/>
+      <name form="short" and="text"/>
       <substitute>
         <names variable="editor"/>
         <names variable="compiler"/>
@@ -140,7 +140,7 @@
         <group>
           <text value="//"/>
           <names variable="editor">
-            <name name-as-sort-order="all" sort-separator=" " initialize-with=" " delimiter=", "/>
+            <name name-as-sort-order="all" sort-separator=" " initialize-with=" "/>
           </names>
           <text value=". "/>
           <text variable="container-title"/>
