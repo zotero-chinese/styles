@@ -316,28 +316,6 @@
       </if>
     </choose>
   </macro>
-  <macro name="publisher-en">
-    <choose>
-      <if type="report">
-        <group delimiter=", ">
-          <text variable="publisher"/>
-          <text variable="publisher-place"/>
-        </group>
-      </if>
-      <else>
-        <group delimiter=": ">
-          <text variable="publisher-place"/>
-          <text variable="publisher"/>
-        </group>
-      </else>
-    </choose>
-  </macro>
-  <macro name="publisher-zh">
-    <group delimiter="：">
-      <text variable="publisher-place"/>
-      <text variable="publisher"/>
-    </group>
-  </macro>
   <macro name="event-en">
     <choose>
       <if variable="container-title" match="none">
@@ -574,14 +552,14 @@
         </if>
         <else-if type="chapter">
           <text macro="container-booklike-en"/>
-          <text macro="publisher-en"/>
+          <text variable="publisher"/>
           <text macro="date-en"/>
         </else-if>
         <else-if type="paper-conference">
           <choose>
             <if variable="container-title">
               <text macro="container-booklike-en"/>
-              <text macro="publisher-en"/>
+              <text variable="publisher"/>
               <text macro="date-en"/>
             </if>
             <else>
@@ -597,7 +575,7 @@
           <text variable="container-title"/>
         </else-if>
         <else>
-          <text macro="publisher-en"/>
+          <text variable="publisher"/>
           <text macro="date-en"/>
         </else>
       </choose>
@@ -620,13 +598,13 @@
           <else-if type="chapter">
             <text macro="container-booklike-zh"/>
             <group>
-              <text macro="publisher-zh"/>
+              <text variable="publisher"/>
               <text macro="date-zh"/>
             </group>
           </else-if>
           <else-if type="thesis">
             <group>
-              <text macro="publisher-zh"/>
+              <text variable="publisher"/>
               <text macro="date-zh"/>
               <choose>
                 <if variable="genre">
@@ -642,7 +620,7 @@
             <choose>
               <if variable="container-title">
                 <text macro="container-booklike-zh"/>
-                <text macro="publisher-zh"/>
+                <text variable="publisher"/>
                 <text macro="date-zh"/>
               </if>
               <else>
@@ -660,7 +638,7 @@
           </else-if>
           <else>
             <group>
-              <text macro="publisher-zh"/>
+              <text variable="publisher"/>
               <text macro="date-zh"/>
             </group>
           </else>

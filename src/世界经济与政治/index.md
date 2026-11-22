@@ -11,7 +11,7 @@
 <sup>1</sup> 王铁崖：《国际法引论》，北京大学出版社1998年版。<br>
 <sup>2</sup> 王缉思：《民族与民族主义》，载《欧洲研究》，1993年第5期，第14–19页。<br>
 <sup>3</sup> 白云真：《国际关系学科中美国知识霸权的探讨》，第二届中国国际关系学会博士论坛会议论文，中国社会科学院研究生院，2007年5月12日。<br>
-<sup>4</sup> Robert O. Keohane and Joseph S. Nye, <i>Power and Interdependence: World Politics in Transition</i>, Boston: Little Brown Company, 1997.<br>
+<sup>4</sup> Robert O. Keohane and Joseph S. Nye, <i>Power and Interdependence: World Politics in Transition</i>, Little Brown Company, 1997.<br>
 <sup>5</sup> Tim Dunne, “New Thinking on International Society,” <i>British Journal of Politics &#38; International Relations</i>, Vol.3, No.2, 2001, pp.223–244.<br>
 <sup>6</sup> G. John Ikenberry and Andrew Moravcsik, “Liberal Theory and the Politics of Security in Northeast Asia,” Paper Prepared for Ford Foundation Project on Non-traditional Security, Seoul, Republic of Korea, January 30, 2004.<br>
 
@@ -32,22 +32,22 @@
 <sup>9</sup> 白云真：《国际关系学科中美国知识霸权的探讨》，第二届中国国际关系学会博士论坛会议论文，中国社会科学院研究生院，2007年5月12日。<br>
 <sup>10</sup> 《傅良佐致国务院电》，1917年9月15日，北洋档案 1011—5961，中国第二历史档案馆藏。<br>
 <sup>11</sup> 《党外人士座谈会记录》，1950年7月，李劼人档案，中共四川省委统战部档案室藏。<br>
-<sup>12</sup> Robert O. Keohane and Joseph S. Nye, <i>Power and Interdependence: World Politics in Transition</i>, Boston: Little Brown Company, 1997.<br>
+<sup>12</sup> Robert O. Keohane and Joseph S. Nye, <i>Power and Interdependence: World Politics in Transition</i>, Little Brown Company, 1997.<br>
 <sup>13</sup> Tim Dunne, “New Thinking on International Society,” <i>British Journal of Politics &#38; International Relations</i>, Vol.3, No.2, 2001, pp.223–244.<br>
-<sup>14</sup> Steve Smith, “New Approaches to International Theory,” in John Baylis and Steve Smith, eds., <i>The Globalization of World Politics</i>, Oxford: Oxford University Press, 1998, pp.169–170.<br>
+<sup>14</sup> Steve Smith, “New Approaches to International Theory,” in John Baylis and Steve Smith, eds., <i>The Globalization of World Politics</i>, Oxford University Press, 1998, pp.169–170.<br>
 <sup>15</sup> Henry A. Kissinger, “Nixon’s Key Adviser on Defense,” <i>The New York Times</i>, December 3, 1968.<br>
-<sup>16</sup> Richard W. Weitz, “NATO After the Cold War: State Behavior in a Changing World Order,” Ph.D. Dissertation, Cambridge: Harvard University, 1993.<br>
+<sup>16</sup> Richard W. Weitz, “NATO After the Cold War: State Behavior in a Changing World Order,” Ph.D. Dissertation, Harvard University, 1993.<br>
 <sup>17</sup> G. John Ikenberry and Andrew Moravcsik, “Liberal Theory and the Politics of Security in Northeast Asia,” Paper Prepared for Ford Foundation Project on Non-traditional Security, Seoul, Republic of Korea, January 30, 2004.<br>
 <sup>18</sup> G. John Ikenberry and Andrew Moravcsik, “Liberal Theory and the Politics of Security in Northeast Asia,” Paper Prepared for Ford Foundation Project on Non-traditional Security, Seoul, Republic of Korea, January 30, 2004.<br>
 <sup>19</sup> “United Nations Register of Conventional Arms: Report of the Secretary General,” UN General Assembly Document A/48/344, October 11, 1993.<br>
-<sup>20</sup> Thomas Risse, “Governance Configurations in Areas of Limited Statehood: Actors, Modes, Institutions, and Resources,” SFB-Governance Working Paper Series, No.32, Research Center (SFB) 700, Berlin, March 2012.<br>
+<sup>20</sup> Thomas Risse, “Governance Configurations in Areas of Limited Statehood: Actors, Modes, Institutions, and Resources,” SFB-Governance Working Paper Series, No.32, Research Center (SFB) 700, March 2012.<br>
 <sup>21</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
 <sup>22</sup> “USIA: United States Doctrinal Program,” January 15, 1954, CK3100094653, Declassified Documents Reference System, Gale Group, Inc.<br>
-<sup>23</sup> U.S. Department of State, <i>Foreign Relations of United States (FRUS), 1955–1957, Vol.3</i>, Washington, D.C.: U.S. Government Printing Office, 1990.<br>
+<sup>23</sup> U.S. Department of State, <i>Foreign Relations of United States (FRUS), 1955–1957, Vol.3</i>, U.S. Government Printing Office, 1990.<br>
 <sup>24</sup> 《中国对欧盟政策文件》，<a href="https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml">https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/zcwj_674915/t1622886.shtml</a>，访问时间：2020年12月1日。<br>
 <sup>25</sup> The United Nations, “Transforming Our World: The 2030 Agenda for Sustainable Development,” <a href="https://sustainabledevelopment.un.org/post2015/transformingourworld">https://sustainabledevelopment.un.org/post2015/transformingourworld</a>, 访问时间: 2020年12月1日.<br>
-<sup>26</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编，秦亚青等译：《世界政治理论的探索与争鸣》，上海：上海人民出版社2006年版。<br>
-<sup>27</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。<br>
+<sup>26</sup> 彼得·卡赞斯坦、罗伯特·基欧汉、斯蒂芬·克拉斯纳主编，秦亚青等译：《世界政治理论的探索与争鸣》，上海人民出版社2006年版。<br>
+<sup>27</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港中文大学出版社1982年版。<br>
 
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -67,45 +67,45 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 张伯伟：《全唐五代诗格汇考》，南京：江苏古籍出版社2002年版，第288页。<br>
-<sup>2</sup> 曹凌：《中国佛教疑伪经综录》，上海：上海古籍出版社2011年版，第19页。<br>
-<sup>3</sup> 陈登原：《国史旧闻》第1卷，北京：中华书局2000年版，第29页。<br>
-<sup>4</sup> 王夫之：《宋论》（刻本），金陵：湘乡曾国荃1865年版。<br>
-<sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京：北京古籍出版社1980年版。<br>
-<sup>6</sup> 钱学森：《创建系统学》，太原：山西科学技术出版社2001年版，序2-3。<br>
-<sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），北京：首都师范大学出版社2008年版，第1版自序。<br>
-<sup>8</sup> 《康熙字典》（影印本）巳集上：水部，北京：中华书局1962年版，第50页。<br>
-<sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），北京：高等教育出版社2019年版。<br>
-<sup>10</sup> 哈里森、沃尔德伦著，谢远涛译：《经济数学与金融数学》，北京：中国人民大学出版社2012年版，第235–236页。<br>
-<sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》，北京：人民卫生出版社2019年版，第65–66页。<br>
-<sup>12</sup> 扬奎斯特、萨金特著，杨斌等译：《递归宏观经济理论》（第2版），北京：中国人民大学出版社2010年版，第798页。<br>
-<sup>13</sup> 云南省企业联合会、云南省企业家协会、云南民族新闻文化发展研究院：《改革开放三十年：云南企业家奋斗史》，芒市：德宏民族出版社2009年版。<br>
-<sup>14</sup> 赵学功：《当代美国外交》，北京：社会科学文献出版社2001年版。<br>
-<sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，北京：中国轻工业出版社2003年版。<br>
-<sup>16</sup> 博伯尔著，徐超译：《银行业的未来与人工智能》，北京：清华大学出版社2023年版，第35页。<br>
-<sup>17</sup> 図書館用語辞典編集委員会, ed., <i>最新図書館用語大辞典</i>, 東京: 柏書房株式會社, 2004, p.154.<br>
-<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, Random Variables, and Random Signal Principles</i>, New York: McGraw-Hill, 2001.<br>
-<sup>19</sup> Benjamin J. Sadock et al., eds., <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, Vol.1</i>, Philadelphia: Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
-<sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Zürich: Park Books, 2023, p.78.<br>
-<sup>21</sup> Abby Kinchy, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, Cambridge, Mass.: MIT Press, 2012, p.50.<br>
+<sup>1</sup> 张伯伟：《全唐五代诗格汇考》，江苏古籍出版社2002年版，第288页。<br>
+<sup>2</sup> 曹凌：《中国佛教疑伪经综录》，上海古籍出版社2011年版，第19页。<br>
+<sup>3</sup> 陈登原：《国史旧闻》第1卷，中华书局2000年版，第29页。<br>
+<sup>4</sup> 王夫之：《宋论》（刻本），湘乡曾国荃1865年版。<br>
+<sup>5</sup> 顾炎武：《昌平山水记；京东考古录》，北京古籍出版社1980年版。<br>
+<sup>6</sup> 钱学森：《创建系统学》，山西科学技术出版社2001年版，序2-3。<br>
+<sup>7</sup> 冯友兰：《冯友兰自选集》（第2版），首都师范大学出版社2008年版，第1版自序。<br>
+<sup>8</sup> 《康熙字典》（影印本）巳集上：水部，中华书局1962年版，第50页。<br>
+<sup>9</sup> 战德臣、张丽杰：《大学计算机：计算思维与信息素养》（第3版），高等教育出版社2019年版。<br>
+<sup>10</sup> 哈里森、沃尔德伦著，谢远涛译：《经济数学与金融数学》，中国人民大学出版社2012年版，第235–236页。<br>
+<sup>11</sup> 牛永敢等主编：《鼻整形应用解剖学》，人民卫生出版社2019年版，第65–66页。<br>
+<sup>12</sup> 扬奎斯特、萨金特著，杨斌等译：《递归宏观经济理论》（第2版），中国人民大学出版社2010年版，第798页。<br>
+<sup>13</sup> 云南省企业联合会、云南省企业家协会、云南民族新闻文化发展研究院：《改革开放三十年：云南企业家奋斗史》，德宏民族出版社2009年版。<br>
+<sup>14</sup> 赵学功：《当代美国外交》，社会科学文献出版社2001年版。<br>
+<sup>15</sup> 中国造纸学会：《中国造纸年鉴：2003》，中国轻工业出版社2003年版。<br>
+<sup>16</sup> 博伯尔著，徐超译：《银行业的未来与人工智能》，清华大学出版社2023年版，第35页。<br>
+<sup>17</sup> 図書館用語辞典編集委員会, ed., <i>最新図書館用語大辞典</i>, 柏書房株式會社, 2004, p.154.<br>
+<sup>18</sup> Peyton Z. Peebles, Jr., <i>Probability, Random Variables, and Random Signal Principles</i>, McGraw-Hill, 2001.<br>
+<sup>19</sup> Benjamin J. Sadock et al., eds., <i>Kaplan &#38; Sadock’s Comprehensive Textbook of Psychiatry, Vol.1</i>, Wolters Kluwer Health/Lippincott Williams &#38; Wilkins, 2009.<br>
+<sup>20</sup> Institute for Art and Architecture, Academy of Fine Arts Vienna, <i>Wiener Hitze: Architecture and Storytelling in Times of Heat</i>, Park Books, 2023, p.78.<br>
+<sup>21</sup> Abby Kinchy, <i>Seeds, Sciences, and Struggle: The Global Politics of Transgenic Crops</i>, MIT Press, 2012, p.50.<br>
 <sup>22</sup> Adrian Praetzellis, <i>Death by Theory: A Tale of Mystery and Archaeological Theory</i>, Rowman &#38; Littlefield Publishing Group, Inc., 2011, p.13.<br>
-<sup>23</sup> Lynette Torres et al., eds., <i>Connecting the Library to the Curriculum</i>, Singapore: Springer Nature, 2021, p.97.<br>
-<sup>24</sup> Tony Boobier, <i>AI and the Future of Banking</i>, Chichester: John Wiley &#38; Sons, 2020, p.35.<br>
-<sup>25</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, New York: John Wiley &#38; Sons, 2013, pp.21–22.<br>
-<sup>26</sup> 阿扬著，姜海伦译：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，载《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，北京：机械工业出版社2023年版，第15–18页。<br>
-<sup>27</sup> 《周易外传：卷5》，载王夫之主编：《船山全书》第1册，长沙：岳麓书社2011年版，第983–1029页。<br>
-<sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，载许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，北京：科学出版社1999年版，第32–36页。<br>
-<sup>29</sup> 李约瑟：《题词》，载《苏颂与《本草图经》研究》，长春：长春出版社1991年版，扉页。<br>
-<sup>30</sup> 陈晋镳等：《蓟县震旦亚界的研究》，载中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津：天津科学技术出版社1980年版，第56–114页。<br>
-<sup>31</sup> 马克思：《政治经济学批判》，载《马克思恩格斯全集》第35卷，北京：人民出版社2013年版，第302页。<br>
-<sup>32</sup> 《大黄》，载国家药典委员会主编：《中华人民共和国药典》一部，北京：中国医药科技出版社2020年版，第24–25页。<br>
-<sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，上海：同济大学出版社2011年版，第11–12页。<br>
-<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Philadelphia: Saunders, 1974, pp.457–472.<br>
-<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking Water Quality Standards, Regulations and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, New York: McGraw-Hill, 2011, 1.1-1.36.<br>
-<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）-，武汉：中华医学会湖北分会1984年。<br>
-<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）-1990（4），北京：北京图书馆1957—1990年。<br>
-<sup>38</sup> American Association for the Advancement of Science, ed., <i>Science, 1883，1（1）-</i>, Washington, D.C.: American Association for the Advancement of Science, 1883.<br>
-<sup>39</sup> <i>Public Library Quarterly, 1979，1（1）-</i>, Philadelphia: Taylor &#38; Francis, 1979.<br>
+<sup>23</sup> Lynette Torres et al., eds., <i>Connecting the Library to the Curriculum</i>, Springer Nature, 2021, p.97.<br>
+<sup>24</sup> Tony Boobier, <i>AI and the Future of Banking</i>, John Wiley &#38; Sons, 2020, p.35.<br>
+<sup>25</sup> William Deverell and David Igler, eds., <i>A Companion to California History</i>, John Wiley &#38; Sons, 2013, pp.21–22.<br>
+<sup>26</sup> 阿扬著，姜海伦译：《谈谈记忆：与诺贝尔奖获得者埃里克·坎德尔的问答》，载《环球科学》杂志社主编：《认识记忆力：关于学习、思考与遗忘的脑科学》，机械工业出版社2023年版，第15–18页。<br>
+<sup>27</sup> 《周易外传：卷5》，载王夫之主编：《船山全书》第1册，岳麓书社2011年版，第983–1029页。<br>
+<sup>28</sup> 程根伟：《1998年长江洪水的成因与减灾对策》，载许厚泽、赵其国主编：《长江流域洪涝灾害与科技对策》，科学出版社1999年版，第32–36页。<br>
+<sup>29</sup> 李约瑟：《题词》，载《苏颂与《本草图经》研究》，长春出版社1991年版，扉页。<br>
+<sup>30</sup> 陈晋镳等：《蓟县震旦亚界的研究》，载中国地质科学院天津地质矿产研究所主编：《中国震旦亚界》，天津科学技术出版社1980年版，第56–114页。<br>
+<sup>31</sup> 马克思：《政治经济学批判》，载《马克思恩格斯全集》第35卷，人民出版社2013年版，第302页。<br>
+<sup>32</sup> 《大黄》，载国家药典委员会主编：《中华人民共和国药典》一部，中国医药科技出版社2020年版，第24–25页。<br>
+<sup>33</sup> 楼梦麟、杨燕：《汶川地震基岩地震动特征分析》，载同济大学土木工程防灾国家重点实验室主编：《汶川地震震害研究》，同济大学出版社2011年版，第11–12页。<br>
+<sup>34</sup> L. Weinstein and M. N. Swartz, “Pathogenic Properties of Invading Microorganisms,” in William A. Sodeman Jr. and William A. Sodeman, eds., <i>Pathologic Physiology: Mechanisms of Disease</i>, Saunders, 1974, pp.457–472.<br>
+<sup>35</sup> J. Alan Roberson and Eric G. Burneson, “Drinking Water Quality Standards, Regulations and Goals,” in American Water Works Association, ed., <i>Water Quality &#38; Treatment: A Handbook on Drinking Water</i>, McGraw-Hill, 2011, 1.1-1.36.<br>
+<sup>36</sup> 中华医学会湖北分会主编：《临床内科杂志》1984，1（1）-，中华医学会湖北分会1984年。<br>
+<sup>37</sup> 中国图书馆学会主编：《图书馆学通讯》1957（1）-1990（4），北京图书馆1957—1990年。<br>
+<sup>38</sup> American Association for the Advancement of Science, ed., <i>Science, 1883，1（1）-</i>, American Association for the Advancement of Science, 1883.<br>
+<sup>39</sup> <i>Public Library Quarterly, 1979，1（1）-</i>, Taylor &#38; Francis, 1979.<br>
 <sup>40</sup> 杨洪升：《四库馆私家抄校书考略》，载《文献》，2013年第1期，第56–75页。<br>
 <sup>41</sup> 丁文详：《数字革命与竞争国际化》，载《中国青年报》，2000年11月20日，第15版。<br>
 <sup>42</sup> 于潇等：《互联网药品可信交易环境中主体资质审核备案模式》，载《清华大学学报（自然科学版）》，2012年第11期，第1518–1523页。<br>
@@ -127,36 +127,36 @@
 <sup>58</sup> Hiroshi Shinotsuka et al., “Sample Structure Prediction from Measured XPS Data Using Bayesian Estimation and SESSA Simulator,” <i>Journal of Electron Spectroscopy and Related Phenomena</i>, Vol.267, 2023.<br>
 <sup>59</sup> Pieternella H. van der Veen et al., “Longitudinal Changes in Brain Volumes and Cerebrovascular Lesions on MRI in Patients with Manifest Arterial Disease: The SMART-MR Study,” <i>Journal of the Neurological Sciences</i>, Vol.337, No.1/2, 2014, pp.112–118.<br>
 <sup>60</sup> 李妍、王莹：《医疗机构保洁人员“一前五后”手卫生干预效果研究》，中华预防医学会医院感染控制分会第31次全国医院感染学术年会论文，2022年，第2页。<br>
-<sup>61</sup> 牛志明、Swingland Ian R.、雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，北京：海洋出版社2012年版。<br>
-<sup>62</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，北京：九州出版社2012年版。<br>
-<sup>63</sup> 肖希明、石庆功、刘奕：《民国图书馆学教育的社会贡献》，载《纪念北京大学图书馆学教育100周年研讨会论文集》，北京：北京大学信息管理系，2024年版，第134–147页。<br>
-<sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，北京：中国环境科学出版社，2005年版，第22–25页。<br>
-<sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011年卷，北京：国家图书馆出版社，2011年版，第45–52页。<br>
-<sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，北京：经济科学出版社2011年版。<br>
+<sup>61</sup> 牛志明、Swingland Ian R.、雷光春主编：《综合湿地管理：综合湿地管理国际研讨会论文集》，海洋出版社2012年版。<br>
+<sup>62</sup> 中国社会科学院台湾史研究中心主编：《台湾光复六十五周年暨抗战史实学术研讨会论文集》，九州出版社2012年版。<br>
+<sup>63</sup> 肖希明、石庆功、刘奕：《民国图书馆学教育的社会贡献》，载《纪念北京大学图书馆学教育100周年研讨会论文集》，北京大学信息管理系，2024年版，第134–147页。<br>
+<sup>64</sup> 汪学军：《中国农业转基因生物研发进展与安全管理》，载国家环境保护总局生物安全管理办公室主编：《中国国家生物安全框架实施国际合作项目研讨会论文集》，中国环境科学出版社，2005年版，第22–25页。<br>
+<sup>65</sup> 贾东琴、柯平：《面向数字素养的高校图书馆数字服务体系研究》，载中国图书馆学会主编：《中国图书馆学会年会论文集》2011年卷，国家图书馆出版社，2011年版，第45–52页。<br>
+<sup>66</sup> 陈志勇主编：《中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集》，经济科学出版社2011年版。<br>
 <sup>67</sup> Shanshan Wang, “Application of Improved SOM Neural Network in Intelligent Auditing of Hospital Financial Vouchers,” Paper Prepared for 2022 6th Asian Conference on Artificial Intelligence Technology, December 2022, p.2.<br>
 <sup>68</sup> Yang Yu et al., “Unmixing before Fusion: A Generalized Paradigm for Multi-Source-Based Hyperspectral Image Synthesis,” Paper Prepared for CVPR, 2024, p.4.<br>
-<sup>69</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, Rotterdam: A. A. Balkema, 2000.<br>
-<sup>70</sup> B. V. Babu et al., eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, New Delhi: Springer, 2014.<br>
-<sup>71</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in W. G. Gottenberg, ed., <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, New York: ASME, 1971, pp.17–38.<br>
-<sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，武汉：武汉大学2022年博士学位论文，第87页。<br>
-<sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，温州：温州大学2020年硕士学位论文，第16页。<br>
-<sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，武汉：武汉大学2016年博士学位论文，第24–25页。<br>
-<sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，北京：中国科学院大学2022年博士学位论文，第43页。<br>
-<sup>76</sup> Bruce Richard Cairns, “Infrared Spectroscopic Studies of Solid Oxygen,” Doctoral Dissertation, Berkeley: University of California, Berkeley, 1965, p.15.<br>
-<sup>77</sup> Antrea Christou, “Improving Knowledge Graph Understanding with Contextual Views,” Doctoral Dissertation, Ohio: Wright State University, 2024, p.18.<br>
+<sup>69</sup> Sergey A. Yufin, ed., <i>Geoecology and Computers: Proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, February 1-4, 2000</i>, A. A. Balkema, 2000.<br>
+<sup>70</sup> B. V. Babu et al., eds., <i>Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012</i>, Springer, 2014.<br>
+<sup>71</sup> M. E. Fourney, “Advances in Holographic Photoelasticity,” in W. G. Gottenberg, ed., <i>Symposium on Applications of Holography in Mechanics, August 23-25, 1971, University of Southern California, Los Angeles, California</i>, ASME, 1971, pp.17–38.<br>
+<sup>72</sup> 王琦：《融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究》，武汉大学2022年博士学位论文，第87页。<br>
+<sup>73</sup> 金燕萍：《社交媒体时代的虚假信息研究》，温州大学2020年硕士学位论文，第16页。<br>
+<sup>74</sup> 何筱梅：《新媒体时代原生广告的策略与发展研究》，武汉大学2016年博士学位论文，第24–25页。<br>
+<sup>75</sup> 井丽南：《支持状态可编程的SDN交换机关键技术研究》，中国科学院大学2022年博士学位论文，第43页。<br>
+<sup>76</sup> Bruce Richard Cairns, “Infrared Spectroscopic Studies of Solid Oxygen,” Doctoral Dissertation, University of California, Berkeley, 1965, p.15.<br>
+<sup>77</sup> Antrea Christou, “Improving Knowledge Graph Understanding with Contextual Views,” Doctoral Dissertation, Wright State University, 2024, p.18.<br>
 <sup>78</sup> 中国互联网络信息中心：《第29次中国互联网络发展状况统计报告》，2012年。<br>
 <sup>79</sup> 汤万金等：《人体安全重要技术标准研制最终报告》，2013年。<br>
 <sup>80</sup> 中国信息通信研究院等：《电信业发展白皮书：2023：新时代高质量发展探索》，2023年。<br>
 <sup>81</sup> David E. Calkin, Alan A. Ager, and Matthew P. Thompson, “A Comparative Risk Assessment Framework for Wildland Fire Management: The 2010 Cohesive Strategy Science Report,” RMRS-GTR-262, 2011, pp.8–9.<br>
-<sup>82</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Materials,” PB 91-194001, U.S. Department of Commerce National Information Service, Springfield, 1990, p.25.<br>
+<sup>82</sup> U.S. Department of Transportation Federal Highway Administration, “Guidelines for Handling Excavated Acid-Producing Materials,” PB 91-194001, U.S. Department of Commerce National Information Service, 1990, p.25.<br>
 <sup>83</sup> United Nations Department of Economic and Social Affairs, “United Nations E-Government Survey 2024: Accelerating Digital Transformation for Sustainable Development.”<br>
 <sup>84</sup> 全国信息与文献标准化技术委员会：《信息与文献　资源描述》，2021年。<br>
 <sup>85</sup> 全国信息技术标准化技术委员会：《信息技术　先进音视频编码　第16部分：广播电视视频》，2016年。<br>
 <sup>86</sup> 工业和信息化部：《信息技术　中文编码字符集》，2022年。<br>
 <sup>87</sup> 国家能源局：《水电工程水温实时监测系统技术规范》，2020年。<br>
 <sup>88</sup> ISO, <i>Audit Data Collection</i>, 2019.<br>
-<sup>89</sup> International Electrotechnical Commission (IEC), <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i>, New York: IEEE, 2021.<br>
-<sup>90</sup> <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, New York: IEEE, 2020.<br>
+<sup>89</sup> International Electrotechnical Commission (IEC), <i>Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</i>, IEEE, 2021.<br>
+<sup>90</sup> <i>IEEE Approved Draft Standard for Information Technology--Telecommunications and Information Exchange between Systems Local and Metropolitan Area Networks--Specific Requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Wake-up Radio Operation</i>, IEEE, 2020.<br>
 <sup>91</sup> American Institute of Aeronautics and Astronautics (AIAA), <i>Guide to Lithium Battery Safety for Space Applications</i>, 2022.<br>
 <sup>92</sup> ISO, <i>Explosive Atmospheres — Part 20-2: Material Characteristics — Combustible Dusts Test Methods</i>, 2016.<br>
 <sup>93</sup> ISO, <i>Atmosphères explosives — Partie 20-2: Caractéristiques des produits — Méthodes d’essai des poussières combustibles</i>, 2016.<br>
@@ -185,16 +185,16 @@
 <sup>116</sup> 湖北省建设厅：《湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令》，1931年。<br>
 <sup>117</sup> 《中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告》，1949年。<br>
 <sup>118</sup> Hugh Fitzwilliam, [Letter to Bess of Hardwick], July 28, 1570.<br>
-<sup>119</sup> 胡健民：《东南极拉斯曼丘陵地区地质图》，北京：科学出版社2021年。<br>
-<sup>120</sup> 刘祥沈：《沈阳市政区图》，武汉：武汉大学出版社2016年。<br>
-<sup>121</sup> 中工武大设计研究有限公司：《阳新县标准地名图》，武汉：武汉大学出版社2019年。<br>
-<sup>122</sup> 吴自银、温珍河：《中国南部海域海底地形图》，北京：科学出版社2019年。<br>
+<sup>119</sup> 胡健民：《东南极拉斯曼丘陵地区地质图》，科学出版社2021年。<br>
+<sup>120</sup> 刘祥沈：《沈阳市政区图》，武汉大学出版社2016年。<br>
+<sup>121</sup> 中工武大设计研究有限公司：《阳新县标准地名图》，武汉大学出版社2019年。<br>
+<sup>122</sup> 吴自银、温珍河：《中国南部海域海底地形图》，科学出版社2019年。<br>
 <sup>123</sup> 国家测绘地理信息局：《一带一路经济走廊及其途经城市分布地势图》。<br>
-<sup>124</sup> 訾冬梅、高秀静：《内蒙古自治区地图册》（新版），北京：中国地图出版社2006年。<br>
-<sup>125</sup> 谭其骧：《中国历史地图集》第2册，北京：地图出版社1982年，第6页。<br>
-<sup>126</sup> 童世亨：《京兆直隶图》，上海：商务印书馆1926年。<br>
-<sup>127</sup> Robert Cribb, <i>Historical Atlas of Indonesia</i>, Abingdon: Routledge, 2015.<br>
-<sup>128</sup> <i>Coastal Wetlands Map of China Continent</i>, Beijing: China Ocean Press, 2024, p.50.<br>
+<sup>124</sup> 訾冬梅、高秀静：《内蒙古自治区地图册》（新版），中国地图出版社2006年。<br>
+<sup>125</sup> 谭其骧：《中国历史地图集》第2册，地图出版社1982年，第6页。<br>
+<sup>126</sup> 童世亨：《京兆直隶图》，商务印书馆1926年。<br>
+<sup>127</sup> Robert Cribb, <i>Historical Atlas of Indonesia</i>, Routledge, 2015.<br>
+<sup>128</sup> <i>Coastal Wetlands Map of China Continent</i>, China Ocean Press, 2024, p.50.<br>
 <sup>129</sup> 彭守璋：《1901—2024年中国1km分辨率逐月降水量数据集》，国家地球系统科学数据中心2025年。<br>
 <sup>130</sup> 刘时银、郭万钦、许君利：《中国第二次冰川编目数据集：2006—2011》，国家青藏高原科学数据中心2012年。<br>
 <sup>131</sup> 周壮等：《天宫二号遥感图像自然景物分类数据集》，国家基础学科公共科学数据中心2023年。<br>
@@ -227,27 +227,27 @@
 <sup>9</sup> Sujata M. Huestegge, Tim Raettig, and Lynn Huestegge, “Are Face-Incongruent Voices Harder to Process? Effects of Face–Voice Gender Incongruency on Basic Cognitive Information Processing,” <i>Experimental Psychology</i>, 2019.<br>
 <sup>10</sup> Dalila Burin et al., “Body Ownership Increases the Interference between Observed and Executed Movements,” <i>PLOS ONE</i>, Vol.14, No.1, 2019.<br>
 <sup>11</sup> 张三：《中国心理学的过去与未来》，载《心理学报》，2008年增刊，第210–215页。<br>
-<sup>12</sup> 张三：《心理学史》，北京：未名出版社2008年版。<br>
-<sup>13</sup> 张三主编：《心理学史》，北京：未名出版社2008年版。<br>
-<sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Hoboken, NJ, US: Jossey-Bass, 1989.<br>
+<sup>12</sup> 张三：《心理学史》，未名出版社2008年版。<br>
+<sup>13</sup> 张三主编：《心理学史》，未名出版社2008年版。<br>
+<sup>14</sup> Jewelle Taylor Gibbs and Larke Nahme Huang, eds., <i>Children of Color: Psychological Interventions with Minority Youth</i>, Jossey-Bass, 1989.<br>
 <sup>15</sup> Pierre-Simon Laplace, F. W. Truscott and F. L. Emory, trans., <i>A Philosophical Essay on Probabilities</i>, Dover, 1951.<br>
-<sup>16</sup> 拉普拉斯, Pierre-Simon著，张三、李四译：《概率哲学》，北京：未名出版社1951年版。<br>
+<sup>16</sup> 拉普拉斯, Pierre-Simon著，张三、李四译：《概率哲学》，未名出版社1951年版。<br>
 <sup>17</sup> Roberta Klatzky, “Allocentric and Egocentric Spatial Representations: Definitions, Distinctions, and Interconnections,” in C. Freksa, C. Habel, and K. F. Wender, eds., <i>Lecture Notes in Artificial Intelligence: Vol. 1404: Spatial Cognition: An Interdisciplinary Approach to Representing and Processing Spatial Knowledge</i>, Springer-Verlag, 1998, pp.1–17.<br>
-<sup>18</sup> Deng Feng Wang and Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality,” in Deng Feng Wang and Yu Bo Hou, eds., <i>Selected Papers on Personality and Social Psychology</i>, Beijing: Peking University Press, 2004, pp.46–84.<br>
-<sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》，载王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京：北京大学出版社2004年版，第46–84页。<br>
-<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation,” in M. F. Bornstein, ed., <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Washington, DC, US: Wiley, 1993, pp.43–110.<br>
-<sup>21</sup> Kenneth L. Lichstein and Ronald S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs,” in <i>Reducing Medication in Geriatric Populations</i>, Uppsala, Sweden, 1990.<br>
+<sup>18</sup> Deng Feng Wang and Hong Cui, “Theoretical Analysis of the Seven Factor Model of Chinese Personality,” in Deng Feng Wang and Yu Bo Hou, eds., <i>Selected Papers on Personality and Social Psychology</i>, Peking University Press, 2004, pp.46–84.<br>
+<sup>19</sup> 王登峰、崔红：《中国人“大七”人格结构的理论分析》，载王登峰、侯玉波主编：《人格与社会心理学论丛》第1卷，北京大学出版社2004年版，第46–84页。<br>
+<sup>20</sup> John S. Auerbach, “The Origins of Narcissism and Narcissistic Personality Disorder: A Theoretical and Empirical Reformulation,” in M. F. Bornstein, ed., <i>Handbook of Child Psychology: Vol. 4. Socialization, Personality, and Social Development</i>, Wiley, 1993, pp.43–110.<br>
+<sup>21</sup> Kenneth L. Lichstein and Ronald S. Johnson, “Relaxation Therapy for Polypharmacy Use in Elderly Insomniacs and Noninsomniacs,” in <i>Reducing Medication in Geriatric Populations</i>, 1990.<br>
 <sup>22</sup> Cheryl B. Lanktree and John N. Briere, “Early Data on the Trauma Symptom Checklist for Children (TSC-C),” Paper Prepared for Paper presented at the meeting of the American Professional Society on the Abuse of Children, San Diego, CA, January 1991.<br>
 <sup>23</sup> John Ruby and Cain Fulton, “Beyond Redlining: Editing Software That Works,” Paper Prepared for Poster session presented at the annual meeting of the Society for Scholarly Publishing, Washington, DC, June 1993.<br>
-<sup>24</sup> Australian Bureau of Statistics, “Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990,” 3209.1, Author, Canberra, Australian Capital Territory, 1991.<br>
-<sup>25</sup> Terence R. Mitchell and James R. Larson, <i>People in Organizations: An Introduction to Organizational Behavior</i>, New York: McGraw-Hill, 1987.<br>
-<sup>26</sup> P. G. Bergmann, <i>Relativity, Vol.26</i>, New York: Encyclopedia Britannica, 1993, pp.501–508.<br>
-<sup>27</sup> Stanley Sadie, ed., <i>The New Grove Dictionary of Music and Musicians</i>, London : New York: Macmillan, 1980.<br>
-<sup>28</sup> 李行健主编：《现代汉语规范辞典》，北京：外语教学与研究出版社2004年版，第255页。<br>
-<sup>29</sup> 《现代汉语频率词典》，北京：北京语言学院出版社1986年版。<br>
+<sup>24</sup> Australian Bureau of Statistics, “Estimated Resident Population by Age and Sex in Statistical Local Areas, New South Wales, June 1990,” 3209.1, Author, 1991.<br>
+<sup>25</sup> Terence R. Mitchell and James R. Larson, <i>People in Organizations: An Introduction to Organizational Behavior</i>, McGraw-Hill, 1987.<br>
+<sup>26</sup> P. G. Bergmann, <i>Relativity, Vol.26</i>, Encyclopedia Britannica, 1993, pp.501–508.<br>
+<sup>27</sup> Stanley Sadie, ed., <i>The New Grove Dictionary of Music and Musicians</i>, Macmillan, 1980.<br>
+<sup>28</sup> 李行健主编：《现代汉语规范辞典》，外语教学与研究出版社2004年版，第255页。<br>
+<sup>29</sup> 《现代汉语频率词典》，北京语言学院出版社1986年版。<br>
 <sup>30</sup> Lin Yu, “Phonological Representation and Processing in Chinese Spoken Language Production,” Unpublished Doctorial Dissertation, Beijing Normal University, 2000.<br>
 <sup>31</sup> 余林：《汉语语言产生中的语音表征与加工》，北京师范大学2000年博士学位论文。<br>
-<sup>32</sup> 邱颖文：《遗传与语言学习》，上海：华东师范大学2009年博士学位论文。<br>
+<sup>32</sup> 邱颖文：《遗传与语言学习》，华东师范大学2009年博士学位论文。<br>
 <sup>33</sup> 张三、李四：《中国心理学与奥林匹克》，载《新华日报》，2008年8月8日，第2, 5–7版。<br>
 
 
@@ -257,32 +257,32 @@
 
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
-<sup>1</sup> 赵景深：《文坛忆旧》，上海：北新书局1948年版。<br>
-<sup>2</sup> 谢兴尧编：《荣庆日记》，西安：西北大学出版社1986年版。<br>
-<sup>3</sup> 蒋大兴：《公司法的展开与评判——方法·判例·制度》，北京：法律出版社2001年版。<br>
-<sup>4</sup> 任继愈主编：《中国哲学发展史（先秦卷）》，北京：人民出版社1983年版。<br>
-<sup>5</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港：香港中文大学出版社1982年版。<br>
-<sup>6</sup> 金冲及主编：《周恩来传》，北京：人民出版社、中央文献出版社1989年版。<br>
-<sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》上册，北京：全国图书馆文献缩微复制中心1998年版。<br>
-<sup>8</sup> 狄葆贤：《平等阁笔记》，上海：有正书局。<br>
-<sup>9</sup> 《马克思恩格斯全集》第31卷，北京：人民出版社1998年版。<br>
-<sup>10</sup> 杜威·佛克马：《走向新世界主义》，载王宁、薛晓源主编：《全球化与后殖民批评》，北京：中央编译出版社1999年版，第247–266页。<br>
-<sup>11</sup> 鲁迅：《中国小说的历史的变迁》，载《鲁迅全集》第9册，北京：人民文学出版社1981年版。<br>
-<sup>12</sup> 唐振常：《师承与变法》，载《识史集》，上海：上海古籍出版社1997年版。<br>
-<sup>13</sup> 李鹏程：《当代文化哲学沉思》，北京：人民出版社1994年版。<br>
-<sup>14</sup> 楼适夷：《读家书，想傅雷（代序）》，载傅敏主编：《傅雷家书》，北京：三联书店1998年版。<br>
-<sup>15</sup> 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，载《中国大历史》，北京：三联书店1997年版。<br>
+<sup>1</sup> 赵景深：《文坛忆旧》，北新书局1948年版。<br>
+<sup>2</sup> 谢兴尧编：《荣庆日记》，西北大学出版社1986年版。<br>
+<sup>3</sup> 蒋大兴：《公司法的展开与评判——方法·判例·制度》，法律出版社2001年版。<br>
+<sup>4</sup> 任继愈主编：《中国哲学发展史（先秦卷）》，人民出版社1983年版。<br>
+<sup>5</sup> 实藤惠秀著，谭汝谦、林启彦译：《中国人留学日本史》，香港中文大学出版社1982年版。<br>
+<sup>6</sup> 金冲及主编：《周恩来传》，人民出版社、中央文献出版社1989年版。<br>
+<sup>7</sup> 佚名：《晚清洋务运动事类汇钞五十七种》上册，全国图书馆文献缩微复制中心1998年版。<br>
+<sup>8</sup> 狄葆贤：《平等阁笔记》，有正书局。<br>
+<sup>9</sup> 《马克思恩格斯全集》第31卷，人民出版社1998年版。<br>
+<sup>10</sup> 杜威·佛克马：《走向新世界主义》，载王宁、薛晓源主编：《全球化与后殖民批评》，中央编译出版社1999年版，第247–266页。<br>
+<sup>11</sup> 鲁迅：《中国小说的历史的变迁》，载《鲁迅全集》第9册，人民文学出版社1981年版。<br>
+<sup>12</sup> 唐振常：《师承与变法》，载《识史集》，上海古籍出版社1997年版。<br>
+<sup>13</sup> 李鹏程：《当代文化哲学沉思》，人民出版社1994年版。<br>
+<sup>14</sup> 楼适夷：《读家书，想傅雷（代序）》，载傅敏主编：《傅雷家书》，三联书店1998年版。<br>
+<sup>15</sup> 黄仁宇：《为什么称为“中国大历史”？——中文版自序》，载《中国大历史》，三联书店1997年版。<br>
 <sup>16</sup> 姚际恒：《古今伪书考》（光绪三年苏州文学山房活字本）第3卷。<br>
-<sup>17</sup> 毛祥麟：《墨余录》，上海：上海古籍出版社1985年。<br>
-<sup>18</sup> 杨钟羲：《雪桥诗话续集》（影印本）第5卷，沈阳：辽沈书社1991年。<br>
-<sup>19</sup> 《太平御览》（影印本）第690卷，北京：中华书局1985年。<br>
-<sup>20</sup> 管志道：《答屠仪部赤水丈书》，济南：齐鲁书社1997年。<br>
+<sup>17</sup> 毛祥麟：《墨余录》，上海古籍出版社1985年。<br>
+<sup>18</sup> 杨钟羲：《雪桥诗话续集》（影印本）第5卷，辽沈书社1991年。<br>
+<sup>19</sup> 《太平御览》（影印本）第690卷，中华书局1985年。<br>
+<sup>20</sup> 管志道：《答屠仪部赤水丈书》，齐鲁书社1997年。<br>
 <sup>21</sup> 《嘉定县志》第12卷。<br>
 <sup>22</sup> 《上海县续志》第1卷。<br>
-<sup>23</sup> 《广东通志》，北京：中国书店1992年。<br>
-<sup>24</sup> 《旧唐书》（标点本）第9卷，北京：中华书局1975年。<br>
-<sup>25</sup> 《方苞集》（标点本）第6卷，上海：上海古籍出版社1983年。<br>
-<sup>26</sup> 《清德宗实录》（影印本）第435卷，北京：中华书局1987年。<br>
+<sup>23</sup> 《广东通志》，中国书店1992年。<br>
+<sup>24</sup> 《旧唐书》（标点本）第9卷，中华书局1975年。<br>
+<sup>25</sup> 《方苞集》（标点本）第6卷，上海古籍出版社1983年。<br>
+<sup>26</sup> 《清德宗实录》（影印本）第435卷，中华书局1987年。<br>
 <sup>27</sup> 何龄修：《读顾诚〈南明史〉》，载《中国史研究》，1998年第3期，第167–173页。<br>
 <sup>28</sup> 汪疑今：《江苏的小农及其副业》，载《中国经济》，1936年第6期。<br>
 <sup>29</sup> 魏丽英：《论近代西北人口波动的若干主要原因》，载《社会科学》，1990年第6期，第68–73, 86页。<br>
@@ -300,10 +300,10 @@
 <sup>41</sup> 《党外人士座谈会记录》，1950年7月，李劼人档案，中共四川省委统战部档案室藏。<br>
 <sup>42</sup> 王明亮：《关于中国学术期刊标准化数据库系统工程的进展》，1998年，<a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a>，访问时间：1998年10月4日。<br>
 <sup>43</sup> 扬之水：《两宋茶诗与茶事》，《文学遗产通讯》（网络版试刊）2006年第1期，<a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a>，访问时间：2007年9月13日。<br>
-<sup>44</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, Chicago: University of Chicago Press, 2000.<br>
-<sup>45</sup> Marco Polo, William Marsden, trans., <i>The Travels of Marco Polo</i>, Hertfordshire: Cumberland House, 1997.<br>
+<sup>44</sup> Peter Brooks, <i>Troubling Confessions: Speaking Guilt in Law and Literature</i>, University of Chicago Press, 2000.<br>
+<sup>45</sup> Marco Polo, William Marsden, trans., <i>The Travels of Marco Polo</i>, Cumberland House, 1997.<br>
 <sup>46</sup> Heath B. Chamberlain, “On the Search for Civil Society in China,” <i>Modern China</i>, Vol.19, No.2, 1993, pp.199–215.<br>
-<sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge, Mass.: Cambridge University Press, 1983, pp.55–88.<br>
+<sup>47</sup> R. S. Schfield, “The Impact of Scarcity and Plenty on Population Change in England,” in R. I. Rotberg and T. K. Rabb, eds., <i>Hunger and History: The Impact of Changing Food Production and Consumption Pattern on Society</i>, Cambridge University Press, 1983, pp.55–88.<br>
 <sup>48</sup> Nixon to Kissinger, February 1, 1969, Box 1032, NSC Files, Nixon Presidential Material Project (NPMP), National Archives II, College Park, MD.<br>
 
 
@@ -339,7 +339,7 @@
 <sup>24</sup> Louis D. Brandeis, “What Publicity Can Do,” <i>Harper’s Weekly</i>, 1913, pp.10–13.<br>
 <sup>25</sup> William P. Alford, <i>To Steal a Book Is an Elegant Offense: Intellectual Property Law in Chinese Civilization</i>, Stanford University Press, 1995.<br>
 <sup>26</sup> <i>Chevron U.S.A., Inc. <span style="font-style:normal;">v.</span> Natural Resources Defense Council, Inc., Vol.467</i>, 1984, p.837.<br>
-<sup>27</sup> Jacques Chevallier, <i>L’Etat de droit</i>, Paris: Montchrestien, 2003.<br>
+<sup>27</sup> Jacques Chevallier, <i>L’Etat de droit</i>, Montchrestien, 2003.<br>
 <sup>28</sup> Claus Roxin, <i>Strafrecht Allgemeiner Teil, Vol.1</i>, 2005.<br>
 <sup>29</sup> Angelo Falzea, <i>L’offerta reale e la liberazione coattiva del debitore</i>, Giuffrè, 1947.<br>
 <sup>30</sup> Елена А. Дубовицкая, <i>Европейское корпоративное право</i>, Волтерс Клувер Россия, 2008.<br>
@@ -450,7 +450,7 @@
 <sup>135</sup> 刘松山：《失信惩戒立法的三大问题》，微信公众号“中国法律评论”，2019年。<br>
 <sup>136</sup> 莫纪宏：《论“中国式现代化”的法治保障》，“学习强国”App，2024年。<br>
 <sup>137</sup> 《新型冠状病毒肺炎，情况如何？》，2020年。<br>
-<sup>138</sup> xxx：《最高人民法院公报》编辑部2000年。<br>
+<sup>138</sup> xxx：2000年。<br>
 <sup>139</sup> 2001年。<br>
 <sup>140</sup> 王名扬教授：2002年3月8日。<br>
 <sup>141</sup> 上海市浦东新区人民法院行政审判庭：《2001年行政庭工作总结》。<br>
@@ -458,7 +458,7 @@
 <sup>143</sup> 习超：《证券监管有偏私吗？》，“迈向数据法学”研讨会论文，清华大学法学院、社会科学学院、数据科学研究院，2017年12月23日。<br>
 <sup>144</sup> 姜明安：《新时代中国行政法学的转型与使命》，行政法学研究会论文，中国法学会，2018年。<br>
 <sup>145</sup> 陈鹏：《基本权利保障中的法律保留：历史变迁与本土建构》，载《第五届中国宪法学青年论坛会议论文集》，2022年版。<br>
-<sup>146</sup> 李松锋：《游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究》，北京：中国政法大学2013年博士学位论文。<br>
+<sup>146</sup> 李松锋：《游走在上帝与凯撒之间——美国宪法第一修正案中的政教关系研究》，中国政法大学2013年博士学位论文。<br>
 <sup>147</sup> 雷经天：《关于边区司法工作检查情形》，1943年9月3日，陕甘宁边区高等法院档案15/149，陕西省档案馆藏。<br>
 <sup>148</sup> 《中华人民共和国民事诉讼法（试行）》。<br>
 <sup>149</sup> 《民事诉讼法（试行）》。<br>
@@ -627,10 +627,10 @@
 <sup>81</sup> J. Lichtenstein, “Profile of Veteran Business Owners: More Young Veterans Appear to Be Starting Businesses,” Issue brief, No.1, U.S. Small Business Administration, Office of Advocacy, 2013.<br>
 <sup>82</sup> M. Harwell, “Don’t Expect Too Much: The Limited Usefulness of Common SES Measures and a Prescription for Change,” Policy brief, National Education Policy Center, 2018.<br>
 <sup>83</sup> U.S. Food and Drug Administration, “FDA Authorizes First Interoperable Insulin Pup Intended to Allow Patients to Customize Treatment through Their Individual Diabetes Management Devices,” Press release, U.S. Food and Drug Administration, February 14, 2019.<br>
-<sup>84</sup> A. Fistek, E. Jester, and K. Sonnenberg, <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>, Milwaukee, WI, United States, 2017.<br>
-<sup>85</sup> S. Maddox et al., <i>If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children</i>, New Orleans, LA, United States, 2016.<br>
-<sup>86</sup> J. Pearson, <i>Fat Talk and Its Effects on State-Based Body Image in Women</i>, Sydney, NSW, Australia, 2018.<br>
-<sup>87</sup> D. De Boer and T. LaFavor, <i>The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach</i>, Portland, OR, United States, 2018.<br>
+<sup>84</sup> A. Fistek, E. Jester, and K. Sonnenberg, <i>Everybody’s Got a Little Music in Them: Using Music Therapy to Connect, Engage, and Motivate</i>, 2017.<br>
+<sup>85</sup> S. Maddox et al., <i>If Mama Ain’t Happy, Nobody’s Happy: The Effect of Parental Depression on Mood Dysregulation in Children</i>, 2016.<br>
+<sup>86</sup> J. Pearson, <i>Fat Talk and Its Effects on State-Based Body Image in Women</i>, 2018.<br>
+<sup>87</sup> D. De Boer and T. LaFavor, <i>The Art and Significance of Successfully Identifying Resilient Individuals A Person-Focused Approach</i>, 2018.<br>
 <sup>88</sup> L. Harris, “Instructional Leadership Perceptions and Practices of Elementary School Leaders,” Unpublished Doctoral Dissertation, University of Virginia, 2014.<br>
 <sup>89</sup> M. M. Hollander, “Resistance to Authority: Methodological Innovations and New Lessons from the Milgram Experiment,” Doctoral Dissertation, University of Wisconsin–Madison, 2017.<br>
 <sup>90</sup> V. H. Hutcheson, “Dealing with Dual Differences: Social Coping Strategies of Gifted and Lesbian, Gay, Bisexual, Transgender, and Queer Adolescents,” Master’s Thesis, The College of William &#38; Mary, 2012.<br>
@@ -687,7 +687,7 @@
 <sup>141</sup> G. Wood, <i>American Gothic</i>, 1930.<br>
 <sup>142</sup> GDJ, <i>Neural Network Deep Learning Prismatic</i>, 2018.<br>
 <sup>143</sup> J. Rossman and R. Palmer, <i>Sorting through Our Space Junk</i>, 2015.<br>
-<sup>144</sup> D. Cable, <i>The Racial Dot Map</i>, University of Virginia: Weldon Cooper Center for Public Service, 2013.<br>
+<sup>144</sup> D. Cable, <i>The Racial Dot Map</i>, Weldon Cooper Center for Public Service, 2013.<br>
 <sup>145</sup> Google, <i>Google Maps Directions for Driving from La Paz, Bolivia, to Lima, Peru</i>.<br>
 <sup>146</sup> S. McCurry, <i>Afghan Girl</i>, 1985.<br>
 <sup>147</sup> Jessica Rinaldi, <i>Photograph Series of a Boy Who Finds His Footing after Abuse by Those He Trusted</i>, 2016.<br>
@@ -734,7 +734,7 @@
 <sup>188</sup> <i>Protection of Human Subjects, Vol.45</i>, 2009.<br>
 <sup>189</sup> <i>Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales and Computer Employees, Vol.81</i>, 2016, p.32391.<br>
 <sup>190</sup> <i>Exec. Order No. 13,676, Vol.3</i>, 2014, p.294.<br>
-<sup>191</sup> S. C. Hiremath et al., <i>Using Metaphors to Present Concepts across Different Intellectual Domains</i>, U.S., 2016.<br>
+<sup>191</sup> S. C. Hiremath et al., <i>Using Metaphors to Present Concepts across Different Intellectual Domains</i>, 2016.<br>
 <sup>192</sup> <i>U.S. Const. Art. I, § 3</i>.<br>
 <sup>193</sup> <i>S.C. Const. Art. XI, § 3</i>.<br>
 <sup>194</sup> <i>U.S. Const. Amend. XIX</i>.<br>
