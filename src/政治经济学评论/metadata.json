@@ -1,15 +1,15 @@
 {
-  "dir": "china-review-of-political-economy",
-  "file": "china-review-of-political-economy.csl",
+  "dir": "政治经济学评论",
+  "file": "政治经济学评论.csl",
   "style_class": "note",
-  "title": "政治经济学评论（脚注）",
-  "id": "https://zotero-chinese.com/styles/china-review-of-political-economy",
-  "link_self": "https://zotero-chinese.com/styles/china-review-of-political-economy",
+  "title": "政治经济学评论",
+  "id": "https://zotero-chinese.com/styles/政治经济学评论",
+  "link_self": "https://zotero-chinese.com/styles/政治经济学评论",
   "link_template": "https://zotero-chinese.com/styles/马克思主义研究",
-  "link_documentation": "https://crpe.ruc.edu.cn/CN/column/item19.shtml",
+  "link_documentation": "http://crpe.ruc.edu.cn/CN/column/item19.shtml",
   "author": [
     {
-      "name": "Zeping Lee"
+      "name": "Huang Wennan"
     }
   ],
   "contributor": [],
