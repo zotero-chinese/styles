@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0"
-    delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" initialize="false"
-    page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
+  delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" initialize="false"
+  page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
   <info>
     <title>阿拉伯世界研究</title>
     <id>https://zotero-chinese.com/styles/阿拉伯世界研究</id>
@@ -21,12 +21,11 @@
     <updated>2026-11-05T17:05:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-    <!-- 英文术语与日期格式 -->
+  <!-- 英文术语与日期格式 -->
   <locale xml:lang="en">
     <style-options punctuation-in-quote="true"/>
     <terms>
       <term name="page-range-delimiter">-</term>
-      <term name="et-al"> et al.</term>
       <term name="editor" form="short">
         <single>, ed.</single>
         <multiple>, eds.</multiple>
@@ -43,7 +42,7 @@
       <date-part name="year"/>
     </date>
   </locale>
-    <!-- 中文术语与日期格式 -->
+  <!-- 中文术语与日期格式 -->
   <locale xml:lang="zh">
     <style-options punctuation-in-quote="true"/>
     <terms>
@@ -66,13 +65,13 @@
       <date-part name="day" suffix="日"/>
     </date>
   </locale>
-    <!-- 中英文通用的上网时间 -->
+  <!-- 中英文通用的上网时间 -->
   <locale>
     <terms>
       <term name="accessed">上网时间</term>
     </terms>
   </locale>
-    <!-- 中文作者：三人以上加“等”，编著者加“主编” -->
+  <!-- 中文作者：三人以上加“等”，编著者加“主编” -->
   <macro name="author-zh">
     <choose>
       <if variable="author">
@@ -88,14 +87,14 @@
       </else-if>
     </choose>
   </macro>
-    <!-- 中文编者：用于论文集论文 -->
+  <!-- 中文编者：用于论文集论文 -->
   <macro name="editor-zh">
     <names variable="editor" delimiter="、">
       <name and="text"/>
       <label form="short"/>
     </names>
   </macro>
-    <!-- 中文译者：译著标注“译” -->
+  <!-- 中文译者：译著标注“译” -->
   <macro name="translator-zh">
     <names variable="translator" delimiter="、">
       <name and="text"/>
@@ -116,7 +115,7 @@
       </else>
     </choose>
   </macro>
-    <!-- 英文作者或编者 -->
+  <!-- 英文作者或编者 -->
   <macro name="author-en">
     <choose>
       <if variable="author">
@@ -132,20 +131,20 @@
       </else-if>
     </choose>
   </macro>
-    <!-- 英文译者 -->
+  <!-- 英文译者 -->
   <macro name="translator-en">
     <names variable="translator" delimiter=", ">
       <name and="text"/>
       <label form="short" prefix=", " suffix=","/>
     </names>
   </macro>
-    <!-- 中文出版时间：书籍用“年版” -->
+  <!-- 中文出版时间：书籍用“年版” -->
   <macro name="year-edition-zh">
     <date variable="issued">
       <date-part name="year" suffix="年版"/>
     </date>
   </macro>
-    <!-- 中文卷期 -->
+  <!-- 中文卷期 -->
   <macro name="issue-zh">
     <choose>
       <if variable="volume">
@@ -162,7 +161,7 @@
       </if>
     </choose>
   </macro>
-    <!-- 中文页码：页码范围以外的成分（如“前言”“译者序”）照录 -->
+  <!-- 中文页码：页码范围以外的成分（如“前言”“译者序”）照录 -->
   <macro name="locator-zh">
     <choose>
       <if variable="locator">
@@ -191,7 +190,7 @@
       </else-if>
     </choose>
   </macro>
-    <!-- 中文报纸版次 -->
+  <!-- 中文报纸版次 -->
   <macro name="edition-zh">
     <choose>
       <if variable="edition">
@@ -206,7 +205,7 @@
       </else-if>
     </choose>
   </macro>
-    <!-- 英文页码 -->
+  <!-- 英文页码 -->
   <macro name="locator-en">
     <choose>
       <if variable="locator">
@@ -226,7 +225,7 @@
       </else-if>
     </choose>
   </macro>
-    <!-- 上网时间 -->
+  <!-- 上网时间 -->
   <macro name="access-date">
     <date variable="accessed">
       <date-part name="year" suffix="年"/>
@@ -234,7 +233,7 @@
       <date-part name="day" suffix="日"/>
     </date>
   </macro>
-    <!-- 中文网址与上网时间 -->
+  <!-- 中文网址与上网时间 -->
   <macro name="access-zh">
     <choose>
       <if variable="URL">
@@ -252,7 +251,7 @@
       </if>
     </choose>
   </macro>
-    <!-- 英文网址与上网时间 -->
+  <!-- 英文网址与上网时间 -->
   <macro name="access-en">
     <choose>
       <if variable="URL">
@@ -270,7 +269,7 @@
       </if>
     </choose>
   </macro>
-    <!-- 阿拉伯文等语种的译中文标注 -->
+  <!-- 阿拉伯文等语种的译中文标注 -->
   <macro name="language-note-zh">
     <choose>
       <if locale="ar">
@@ -284,11 +283,11 @@
       </else-if>
     </choose>
   </macro>
-    <!-- 中文文献 -->
+  <!-- 中文文献 -->
   <macro name="source-zh">
     <choose>
       <if type="article-journal article-magazine" match="any">
-                <!-- 期刊论文与译文 -->
+        <!-- 期刊论文与译文 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -315,7 +314,7 @@
         </group>
       </if>
       <else-if type="article-newspaper">
-                <!-- 报刊文章 -->
+        <!-- 报刊文章 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -333,7 +332,7 @@
         </group>
       </else-if>
       <else-if type="chapter">
-                <!-- 论文集论文与译文 -->
+        <!-- 论文集论文与译文 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -372,7 +371,7 @@
         </group>
       </else-if>
       <else-if type="book">
-                <!-- 专著、编著与译著 -->
+        <!-- 专著、编著与译著 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -402,7 +401,7 @@
         </group>
       </else-if>
       <else-if type="thesis">
-                <!-- 学位论文 -->
+        <!-- 学位论文 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -424,7 +423,7 @@
         </group>
       </else-if>
       <else-if type="paper-conference">
-                <!-- 会议论文 -->
+        <!-- 会议论文 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -446,7 +445,7 @@
         </group>
       </else-if>
       <else-if type="report">
-                <!-- 报告 -->
+        <!-- 报告 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -466,7 +465,7 @@
         </group>
       </else-if>
       <else-if type="post post-weblog webpage" match="any">
-                <!-- 互联网文献 -->
+        <!-- 互联网文献 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -496,7 +495,7 @@
         </group>
       </else-if>
       <else-if type="manuscript collection personal_communication" match="any">
-                <!-- 手稿与档案文献 -->
+        <!-- 手稿与档案文献 -->
         <group delimiter="，">
           <text variable="title" prefix="《" suffix="》"/>
           <date variable="issued" form="text"/>
@@ -506,7 +505,7 @@
         </group>
       </else-if>
       <else>
-                <!-- 其他文献 -->
+        <!-- 其他文献 -->
         <group delimiter="，">
           <group delimiter="：">
             <text macro="author-zh"/>
@@ -525,7 +524,7 @@
       </else>
     </choose>
   </macro>
-    <!-- 英文献 -->
+  <!-- 英文献 -->
   <macro name="source-en">
     <choose>
       <if type="article-journal article-magazine" match="any">
