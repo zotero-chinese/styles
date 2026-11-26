@@ -1,0 +1,108 @@
+[
+	{
+		"id": "journal-zh",
+		"type": "article-journal",
+		"container-title": "环境科学",
+		"DOI": "10.13227/j.hjkx.202506301",
+		"language": "zh",
+		"note": "original-author: Chen || L R\noriginal-author: Wang || Z\noriginal-author: Zhang || F J\noriginal-author: Yang || E Y\noriginal-author: Wang || L N\noriginal-author: Zhang || C Y\noriginal-author: Huang || L F\noriginal-author: Chen || L\noriginal-container-title: Environmental Science\noriginal-title: Effects of typical amendments on nitrogen forms and microbial community structure in polygonal solonchak",
+		"page": "1-17",
+		"title": "典型改良剂对龟裂盐碱土中氮素形态特征及微生物群落的影响",
+		"URL": "https://link.cnki.net/doi/10.13227/j.hjkx.202506301",
+		"author": [
+			{
+				"literal": "陈利荣"
+			},
+			{
+				"literal": "王珍"
+			},
+			{
+				"literal": "张峰举"
+			},
+			{
+				"literal": "杨恩宇"
+			},
+			{
+				"literal": "王丽娜"
+			},
+			{
+				"literal": "张承焱"
+			},
+			{
+				"literal": "黄霖锋"
+			},
+			{
+				"literal": "陈龙"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "thesis-zh",
+		"type": "thesis",
+		"genre": "硕士学位论文",
+		"language": "zh",
+		"note": "original-author: Li || X\noriginal-genre: Unpublished master's thesis\noriginal-publisher: Inner Mongolia Normal University\noriginal-publisher-place: Hohhot\noriginal-title: Study on Microbial Diversity of Saline-Alkali Soils with Different Degrees of Salinization",
+		"publisher": "内蒙古师范大学",
+		"publisher-place": "呼和浩特",
+		"title": "不同盐碱程度盐碱土壤微生物多样性研究",
+		"author": [
+			{
+				"literal": "李新"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "journal-en",
+		"type": "article-journal",
+		"container-title": "Psychological Review",
+		"DOI": "10.1037/rev0000126",
+		"issue": "1",
+		"language": "en-US",
+		"page": "1-51",
+		"title": "Language learning as language use: A cross-linguistic model of child language development",
+		"title-short": "Language learning as language use",
+		"volume": "126",
+		"author": [
+			{
+				"family": "McCauley",
+				"given": "Stewart M."
+			},
+			{
+				"family": "Christiansen",
+				"given": "Morten H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	}
+]
