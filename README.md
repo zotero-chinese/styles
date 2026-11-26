@@ -82,8 +82,10 @@ pnpm dev:open
 pnpm build
 
 # 预览一个 CSL 的结果
-pnpm preview "src/accounting-research/accounting-research.csl"
+pnpm run preview "src/会计研究/会计研究.csl"
 ```
+
+打开样式目录中生成的 `index.md` 即可查看引注和参考文献表。第一次提交样式时，可以跟着[贡献指南中的验证示例](CONTRIBUTING.md#4-验证引注和参考文献表)准备测试条目并核对输出。
 
 提交新样式时，在 `src` 目录为每一个 style 建立一个单独的文件夹，在文件夹中，存放 `[style name].csl`。如果需要为这个样式提供单独的测试条目，可以分别建立 `items.json` 或 `cites.json`，这两个 JSON 文件的格式分别为 CSL-JSON 的 Items 和 CitationItems[^csl-json]。
 
