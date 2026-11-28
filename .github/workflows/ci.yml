@@ -39,6 +39,9 @@ jobs:
           author_name: GitHub Actions
           author_email: github-actions[bot]@users.noreply.github.com
 
+      - name: 校验样式
+        run: pnpm validate
+
   send-dispatch:
     name: 请求部署上线
     if: github.repository == 'zotero-chinese/styles' && github.event_name != 'pull_request'

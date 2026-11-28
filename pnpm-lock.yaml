@@ -41,6 +41,9 @@ importers:
       fs-extra:
         specifier: ^11.3.2
         version: 11.3.2
+      libxml2-wasm:
+        specifier: 0.7.2
+        version: 0.7.2
       ora:
         specifier: ^8.2.0
         version: 8.2.0
@@ -1037,6 +1040,10 @@ packages:
 
   jsonfile@6.2.0:
     resolution: {integrity: sha512-FGuPw30AdOIUTRMC2OMRtQV+jkVj2cfPqSeWXv1NEAJ1qZ5zb1X6z1mFhbfOB/iy3ssJCD+3KuZ8r8C3uVFlAg==}
+
+  libxml2-wasm@0.7.2:
+    resolution: {integrity: sha512-Ek8Fdb8fIl6mBCvrMGImkOP02aDpANwus0PV827v4gobV9jnoYEHNoPTwWokt71egUBl+sng53fjZ5y2PexLqQ==}
+    engines: {node: '>=18'}
 
   lodash@4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
@@ -2263,6 +2270,8 @@ snapshots:
       universalify: 2.0.1
     optionalDependencies:
       graceful-fs: 4.2.11
+
+  libxml2-wasm@0.7.2: {}
 
   lodash@4.17.21: {}
 

@@ -11,7 +11,8 @@
     "build": "tsx ./lib/index.ts all",
     "preview": "tsx ./lib/index.ts",
     "format": "prettier . --write",
-    "format:csl": "tsx ./lib/format.ts"
+    "format:csl": "tsx ./lib/format.ts",
+    "validate": "tsx ./lib/validate.ts"
   },
   "author": "zotero-chinese",
   "license": "CC-BY-SA-3.0",
@@ -33,6 +34,7 @@
     "csl-formatter": "github:citation-style-language/formatter",
     "fast-glob": "^3.3.3",
     "fs-extra": "^11.3.2",
+    "libxml2-wasm": "0.7.2",
     "ora": "^8.2.0",
     "prettier": "^3.6.2",
     "radash": "^12.1.1",
