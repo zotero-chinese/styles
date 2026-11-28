@@ -16,7 +16,7 @@ importers:
         version: 20.19.25
       '@zotero-chinese/csl-m-schema-rng':
         specifier: github:zotero-chinese/csl-m-schema-rng
-        version: https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/31461c910231fc0749044bae9780e5a69f734558
+        version: https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/4e791b375fd39bc5fea42b0e108c4458c53642d3
       chokidar:
         specifier: 3.5.3
         version: 3.5.3
@@ -786,8 +786,8 @@ packages:
     resolution: {integrity: sha512-/5NV/vDALVFDXgLmfsy9TRCBlKwO2LNBFzpzvb9iIj+jR+eSc6DLYYvVOdivT/jm7MtU6TebYuRmzEOI7w40UA==}
     engines: {node: '>=10.0.0'}
 
-  '@zotero-chinese/csl-m-schema-rng@https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/31461c910231fc0749044bae9780e5a69f734558':
-    resolution: {tarball: https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/31461c910231fc0749044bae9780e5a69f734558}
+  '@zotero-chinese/csl-m-schema-rng@https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/4e791b375fd39bc5fea42b0e108c4458c53642d3':
+    resolution: {tarball: https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/4e791b375fd39bc5fea42b0e108c4458c53642d3}
     version: 1.0.0
 
   algoliasearch@5.44.0:
@@ -1973,7 +1973,7 @@ snapshots:
 
   '@xmldom/xmldom@0.8.15': {}
 
-  '@zotero-chinese/csl-m-schema-rng@https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/31461c910231fc0749044bae9780e5a69f734558': {}
+  '@zotero-chinese/csl-m-schema-rng@https://codeload.github.com/zotero-chinese/csl-m-schema-rng/tar.gz/4e791b375fd39bc5fea42b0e108c4458c53642d3': {}
 
   algoliasearch@5.44.0:
     dependencies:
