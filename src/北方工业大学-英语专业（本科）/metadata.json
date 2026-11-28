@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "北方工业大学本科毕业论文模板（学校模板，英语专业参考）.docx",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "(Jenkins and Ruostekoski, 2012; Praetzellis, 2011; Veen et al., 2014; Wang, 2022; 汪学军, 2005; 肖玲等, 2024; 扬奎斯特和萨金特, 2010; 于潇等, 2012)",

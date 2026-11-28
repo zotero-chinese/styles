@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "1. 区分中文和西文的“等”和“et al.”。2. 西文名缩写，名在前姓在后。3. 不显示 DOI。4. 网页显示URL。",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

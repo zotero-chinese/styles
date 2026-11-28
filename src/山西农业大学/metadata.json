@@ -17,7 +17,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "全日制研究生学位论文写作和排版要求.doc（2017年11月29日）",
   "updated": "2026-03-17T21:41:55+08:00",
   "citations": "（汪学军, 2005）<br>\n（Praetzellis, 2011）<br>\n（Wang, 2022）<br>\n（扬奎斯特和萨金特, 2010）<br>\n（Jenkins &#38; Ruostekoski, 2012）<br>\n（肖玲等, 2024）<br>\n（于潇等, 2012）<br>\n（Veen et al., 2014）<br>\n",

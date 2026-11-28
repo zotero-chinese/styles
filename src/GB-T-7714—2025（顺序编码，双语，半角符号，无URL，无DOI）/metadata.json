@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。使用半角符号。除在线出版的期刊文章、网站、网页、预印本外不著录 URL。无 DOI。",
   "updated": "2026-11-22T12:31:19+08:00",
   "citations": "<sup>[1-8]</sup>",

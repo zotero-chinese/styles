@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "在兰州大学（2020-12-23） CSL 样式基础上修改：正文采用作者-年份引用；文末按作者拼写排序并保留序号；正文三名及以上作者显示首作者 et al.；文末列出全部作者。",
   "updated": "2026-07-20T21:55:01+08:00",
   "citations": "(Smith et al., 2013)<br>\n(Smith and Jones, 2012)<br>\n(张明等，2011）<br>\n(张明和王辉，2010）<br>\n",

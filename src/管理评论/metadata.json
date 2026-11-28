@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "在旧版 chinese-gb7714-2005-numeric 基础上修改",
   "updated": "2025-11-09T19:34:27+08:00",
   "citations": "<sup>[1-8]</sup>",

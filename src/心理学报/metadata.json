@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "psychology",
+  "field": [
+    "psychology"
+  ],
   "summary": "1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。",
   "updated": "2023-02-02T00:33:22+08:00",
   "citations": "(张三, 2008)<br>\n(张三, 李四, 2008)<br>\n(Mou &#38; McNamara, 2002)<br>\n(赵一 等, 2008)<br>\n(Mou et al., 2004)<br>\n(现代汉语频率词典, 1986)<br>\n",

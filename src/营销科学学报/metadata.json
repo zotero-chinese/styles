@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "Financial Research Journal author-date style",
   "updated": "2026-03-17T21:41:55+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis A，2011）<br>\n（Wang S，2022）<br>\n（扬奎斯特 et al.，2010）<br>\n（Jenkins S D et al.，2012）<br>\n（肖玲 et al.，2024）<br>\n（于潇 et al.，2012）<br>\n（Veen P H van der et al.，2014）<br>\n",

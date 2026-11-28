@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "geography",
+  "field": [
+    "geography"
+  ],
   "summary": "投稿指南——参考文献格式编排要求.docx",
   "updated": "2026-03-20T17:18:20+08:00",
   "citations": "<sup>[1-8]</sup>",

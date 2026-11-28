@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "济南大学研究生参考文献样式，根据济南大学硕士学位论文模板（全日制硕士研究生）制作。专著版号前加第，中文期刊文献作者等前无逗号，无DOI号，专利名后加国家，EB和N/OL类型加URL",
   "updated": "2026-02-02T20:19:10+08:00",
   "citations": "<sup>[1–8]</sup>",

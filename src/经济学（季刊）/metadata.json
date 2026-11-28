@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "1. 样式的默认语言为英文。其他语言的文献需要在 `language` 字段填写对应的语言代码（如 `zh-CN`）；2. CSL 无法实现要求的中英文混排。",
   "updated": "2025-11-09T19:34:27+08:00",
   "citations": "Black<br>\n（1948: pp.66）<br>\n（吉登斯，2000：第53页）<br>\n（布伦纳，1999）<br>\n（Ahmad and Wang, 1991）<br>\n（Riskin et al., 2001）<br>\n（王美今和张松，2000）<br>\n",

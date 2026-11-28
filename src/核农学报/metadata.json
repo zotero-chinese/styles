@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "science",
+  "field": [
+    "science"
+  ],
   "summary": "1. 无 DOI；2. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。)。",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

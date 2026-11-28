@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "首都医科大学研究生学位论文（2023-04-26）",
   "updated": "2025-08-31T17:20:42+08:00",
   "citations": "<sup>[1-7]</sup>",

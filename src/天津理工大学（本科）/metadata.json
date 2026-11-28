@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "天津理工大学本科毕业设计说明书（毕业论文）撰写规范（2025）.doc",
   "updated": "2026-05-05T22:46:05+08:00",
   "citations": "<sup>[1～8]</sup>",

@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "geography",
+  "field": [
+    "geography"
+  ],
   "summary": "中国图象图形学报；由于 CSL 功能的限制，参考文献表中英文文献会出现“和”，需要手动替换为“and”。",
   "updated": "2026-08-20T22:52:22+08:00",
   "citations": "（Dai 等，2021）<br>\n（回丙伟等，2020）<br>\n（Zhang 等，2020）<br>\n",

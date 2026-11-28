@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "comparative economic and social systems author-date style",
   "updated": "2025-04-16T09:35:37+08:00",
   "citations": "<sup>[1-8]</sup>",

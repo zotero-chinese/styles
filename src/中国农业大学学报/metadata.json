@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "science",
+  "field": [
+    "science"
+  ],
   "summary": "jcau投稿模板2024.doc",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1-5]</sup>",

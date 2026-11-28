@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "投稿须知.pdf",
   "updated": "2025-05-11T23:58:04+08:00",
   "citations": "<sup>[1-8]</sup>",

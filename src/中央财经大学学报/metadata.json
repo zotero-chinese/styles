@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《中央财经大学学报》文章格式（2024版）",
   "updated": "2026-07-05T12:31:39+08:00",
   "citations": "（汪学军，2005<sup>[5]</sup>；肖玲等，2024<sup>[7]</sup>；扬奎斯特和萨金特，2010<sup>[1]</sup>；于潇等，2012<sup>[3]</sup>；Jenkins和Ruostekoski，2012<sup>[8]</sup>；Praetzellis，2011<sup>[2]</sup>；Veen等，2014<sup>[4]</sup>；Wang，2022<sup>[6]</sup>）",

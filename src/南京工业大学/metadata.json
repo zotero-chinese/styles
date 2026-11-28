@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "南京工业大学教务处参考文献格式规范（网页发布日期：2020-05-29）",
   "updated": "2026-03-17T21:41:55+08:00",
   "citations": "<sup>[1-8]</sup>",

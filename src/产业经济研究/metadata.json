@@ -24,7 +24,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "GB-T-7714—2015（顺序编码，双语，无URL、DOI，无制表符）",
   "updated": "2026-03-17T21:41:59+08:00",
   "citations": "<sup>[1-8]</sup>",

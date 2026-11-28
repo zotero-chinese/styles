@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《上海财经大学本科学生毕业论文（设计）工作的规定（2024年5月修订）》（上财行规〔2024〕21 号）",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特和萨金特，2010）<br>\n（Jenkins和Ruostekoski，2012）<br>\n（肖玲等，2024）<br>\n（于潇等，2012）<br>\n（Veen等，2014）<br>\n",

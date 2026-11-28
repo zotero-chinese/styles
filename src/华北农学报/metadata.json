@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "science",
+  "field": [
+    "science"
+  ],
   "summary": "添加平行语言支持，即在中文文献后添加其英文的翻译。作者为首字母大写。文章的题目大小写与 `Zotero` 中的 `Title` 字段一致，不显示 `URL`。",
   "updated": "2026-03-17T21:41:59+08:00",
   "citations": "<sup>[1-8]</sup>",

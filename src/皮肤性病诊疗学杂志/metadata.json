@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "medicine",
+  "field": [
+    "medicine"
+  ],
   "summary": "《皮肤性病诊疗学杂志》政策指南（2021-01-01）",
   "updated": "2026-03-17T21:41:55+08:00",
   "citations": "<sup>[1-8]</sup>",

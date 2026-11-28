@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《中国科学院大学研究生学位论文撰写规范指导意见》（2022 年 3 月 7 日修订）著者-出版年制",
   "updated": "2026-03-17T21:41:56+08:00",
   "citations": "（孟维一 等, 2021）<br>\n（Freire et al., 2021）<br>\n（Yan et al., 2015b）<br>\n（贺金生 &#38; 韩兴国, 2010）<br>\n（戴良香 等, 2022）<br>\n（Marini et al., 2016）<br>\n（Yan et al., 2015a）<br>\n",

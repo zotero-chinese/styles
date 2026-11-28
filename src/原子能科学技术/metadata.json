@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "physics",
+  "field": [
+    "physics"
+  ],
   "summary": "参考文献著录格式.doc",
   "updated": "2026-03-17T21:41:56+08:00",
   "citations": "<sup>[1-8]</sup>",

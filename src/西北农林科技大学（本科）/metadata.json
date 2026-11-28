@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《西北农林科技大学本科生毕业论文（设计）》（2026-4-20）附件2 参考文献著录规则",
   "updated": "2026-05-10T09:15:52+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特和萨金特，2010）<br>\n（Jenkins and Ruostekoski，2012）<br>\n（肖玲 等，2024）<br>\n（于潇 等，2012）<br>\n（Veen et al.，2014）<br>\n",

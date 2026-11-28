@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。参考文献表的符号使用半角。除在线出版的期刊文章、网站、网页、预印本外不著录 URL。无 DOI。",
   "updated": "2026-08-09T16:49:04+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特 等，2010）<br>\n（Jenkins et al.，2012）<br>\n（肖玲 等，2024）<br>\n（于潇 等，2012）<br>\n（Veen et al.，2014）<br>\n",

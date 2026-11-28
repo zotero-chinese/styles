@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "《环境科学》格式规范，修复网络首发 [J/OL] 显示问题",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-9]</sup>",

@@ -38,7 +38,10 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering",
+    "generic-base"
+  ],
   "summary": "IEEE style as per the 2021 guidelines, V 01.29.2021.",
   "updated": "2024-06-18T23:18:19+08:00",
   "citations": "<sup>[1]–[8]</sup>",

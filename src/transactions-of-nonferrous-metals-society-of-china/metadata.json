@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "chemistry",
+  "field": [
+    "chemistry"
+  ],
   "summary": "中国有色金属学报（英文版）",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

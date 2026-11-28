@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "geology",
+  "field": [
+    "geology"
+  ],
   "summary": "依据 Journal of Earth Science GUIDE FOR AUTHORS 制作，覆盖期刊论文、图书、专著析出文献、期刊专题/特刊析出文献和学位论文。",
   "updated": "2026-07-02T21:15:05+08:00",
   "citations": "(Smith et al., 2012; Green and Jin, 2008; Kusky, 2000)<br>\n(Chough and Barg, 1987)<br>\n(Shrock, 1948)<br>\n(Sun, 1984)<br>\n(Fox et al., 1971)<br>\n(Zhang, 2006)<br>\n",

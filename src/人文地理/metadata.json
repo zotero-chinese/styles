@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "geography",
+  "field": [
+    "geography"
+  ],
   "summary": "《人文地理》稿件格式要求",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

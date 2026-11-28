@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "深圳大学研究生学位论文格式规范及格式模板（2024年1月）",
   "updated": "2026-03-17T21:41:59+08:00",
   "citations": "<sup>[1-8]</sup>",

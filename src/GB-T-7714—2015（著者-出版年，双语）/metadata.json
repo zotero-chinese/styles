@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "按照语言显示“等”或“et al.”",
   "updated": "2026-08-09T17:10:28+08:00",
   "citations": "（库恩，2012）<br>\n（Fourney，c1971）<br>\n（贾东琴 等，2011）<br>\n（Fan et al.，2013）<br>\n（武丽丽 等，2008）<br>\n（Myburg et al.，2014）<br>\n（中国互联网络信息中心，2012；Bawden，2008）<br>\n",

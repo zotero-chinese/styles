@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "新疆医科大学学位论文正文撰写规范（2022版）",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

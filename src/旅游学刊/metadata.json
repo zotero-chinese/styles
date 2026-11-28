@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《旅游学刊》投稿须知（发布时间：2022-10-20）及《参考文献格式示例》（发布时间：2019-01-02）。顺序编码制：正文上标 [n]，文末按引用顺序编号；中文文献双语对照（中文原文在前、英文翻译在后，extra 填 original-* 字段）；英文作者姓全大写、名缩写；作者 1-3 名全列，3 名以上前 3 名加“，等”/“et al.”。",
   "updated": "2026-08-23T19:51:19+08:00",
   "citations": "<sup>[1]</sup><br>\n<sup>[2]</sup><br>\n<sup>[3]</sup><br>\n<sup>[4]</sup><br>\n<sup>[5]</sup><br>\n<sup>[6]</sup><br>\n<sup>[7]</sup><br>\n<sup>[8]</sup><br>\n<sup>[9]</sup><br>\n<sup>[10]</sup><br>\n<sup>[11]</sup><br>\n<sup>[12]</sup><br>\n<sup>[13]</sup><br>\n<sup>[14]</sup><br>\n<sup>[15]</sup><br>\n<sup>[14-16]</sup><br>\n<sup>[14，16]</sup><br>\n<sup>[14]</sup><br>\n<sup>[17]</sup><br>\n<sup>[18]</sup><br>\n",

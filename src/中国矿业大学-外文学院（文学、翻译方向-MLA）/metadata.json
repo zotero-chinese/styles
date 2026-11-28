@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "literature",
+  "field": [
+    "literature"
+  ],
   "summary": "学术论文参考文献格式",
   "updated": "2026-03-17T21:51:48+08:00",
   "citations": "(Beauvoir, 1989)<br>\n(Diamond, 2001)<br>\n(Kreft, 2020)<br>\n(Lakoff and Mark Johnson, 2003)<br>\n(O, 2001)<br>\n",

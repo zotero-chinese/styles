@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《南京农业大学学报（社会科学版）》投稿指南（未标注发布日期）及 2026 年第 2、3 期已刊样文。顺序编码制（GB/T 7714 型）：正文上标 ［n］（可附页码），文末按引用顺序排列；全角标点（．，［］－）与半角冒号/圆括号，条目内无空格；期刊无卷号（刊名，年(期):页码）；图书/析出/学位论文文末出版年后附页码，译著“译者，译”；网络文献（网页/博客/数据集/预印本/报告/网络首发）输出 ［OL］、引用日期与 URL。",
   "updated": "2026-08-22T20:30:00+08:00",
   "citations": "<sup>［1］</sup><br>\n<sup>［2］</sup><br>\n<sup>［3］</sup><br>\n<sup>［4］</sup><br>\n<sup>［5］</sup><br>\n<sup>［6］</sup><br>\n<sup>［7］</sup><br>\n<sup>［8］</sup><br>\n<sup>［9］</sup><br>\n<sup>［10］</sup><br>\n<sup>［11］</sup><br>\n<sup>［12］</sup><br>\n<sup>［13］</sup><br>\n<sup>［14］</sup><br>\n<sup>［15］</sup><br>\n<sup>［16］</sup><br>\n<sup>［17］</sup><br>\n<sup>［18］</sup><br>\n<sup>［19］</sup><br>\n<sup>［20］</sup><br>\n<sup>［21］</sup><br>\n<sup>［22］</sup><br>\n<sup>［23］34</sup><br>\n<sup>［24］－［26］</sup><br>\n<sup>［24］</sup><br>\n<sup>［25］</sup><br>\n<sup>［24］，［26］</sup><br>\n",

@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "medicine",
+  "field": [
+    "medicine"
+  ],
   "summary": "华西临床医学院学位论文格式模板-(试行版) - 20230424.docx",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

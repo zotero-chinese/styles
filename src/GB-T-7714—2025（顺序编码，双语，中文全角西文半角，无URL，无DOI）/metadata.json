@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "GB/T 7714—2025《信息与文献 参考文献著录规则》修改版：1. 中文文献使用全角符号，西文文献使用半角符号；2. 除在线出版的期刊文章、网站、网页、预印本之外的文献不著录URL；3. 不著录DOI。",
   "updated": "2026-11-22T15:58:58+08:00",
   "citations": "<sup>[1-8]</sup>",

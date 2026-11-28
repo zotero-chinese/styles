@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "linguistics",
+  "field": [
+    "linguistics"
+  ],
   "summary": "《外语教学与研究》参考文献格式要求",
   "updated": "2026-03-17T21:51:35+08:00",
   "citations": "（Hornby 2000）<br>\n（中国社会科学院语言研究所词典编辑室 2002）<br>\n",

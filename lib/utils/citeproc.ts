@@ -213,13 +213,21 @@ export function getRefTemplate(cslXml: CslXml) {
     .filter((node) => node.attrs["rel"] === "template")[0]?.attrs["href"];
 }
 
+/**
+ * 获取样式的学科分类。
+ *
+ * CSL 允许 `cs:category[@field]` 出现多次，以表示一个样式所属的多个学科
+ * （如 `apa.csl` 同时属于 8 个学科）。返回去重后的数组，未标注时回落为
+ * `generic-base`（通用基础）。
+ */
 export function getField(cslXml: CslXml) {
-  return (
-    cslXml
-      .getNodesByName(cslXml.dataObj, "category")
-      .filter((node) => "field" in node.attrs)[0]?.attrs["field"] ??
-    "generic-base"
-  );
+  const fields = cslXml
+    .getNodesByName(cslXml.dataObj, "category")
+    .filter((node) => "field" in node.attrs)
+    .map((node) => node.attrs["field"])
+    .filter((field) => !!field);
+
+  return fields.length ? [...new Set(fields)] : ["generic-base"];
 }
 
 export function getCitationFormat(cslXml: CslXml) {

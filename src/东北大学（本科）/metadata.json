@@ -20,7 +20,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "适用于东北大学（含秦皇岛分校）本科生毕业设计（论文）",
   "updated": "2026-10-20T00:00:00+08:00",
   "citations": "<sup>[1-8]</sup>",

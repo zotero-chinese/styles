@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "西安电子科技大学研究生学位论文模板（2015版）-申请专业学位硕士研究生使用-2024.04.rar — 1、西安电子科技大学研究生学位论文模板（2015年版）-2022.11修订.docx",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1-8]</sup>",

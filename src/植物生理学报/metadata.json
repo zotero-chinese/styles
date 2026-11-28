@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "botany",
+  "field": [
+    "botany"
+  ],
   "summary": "《植物生理学报》参考文献样式。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`(每个作者单列一行), `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。",
   "updated": "2025-03-11T17:25:43+08:00",
   "citations": "(Li和Durbin 2011)<br>\n(宋永昌等2015)<br>\n(张明海和马建章2010)<br>\n(Begon等 1986)<br>\n(蒋志刚等2015)<br>\n(Lawton和Brown 1993)<br>\n(Mueller-Dombois D和Ellenberg H1986)<br>\n(于飞海2002)<br>\n(International Union for Conservation of Nature (IUCN) 2000)<br>\n",

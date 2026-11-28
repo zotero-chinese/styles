@@ -18,7 +18,10 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base",
+    "medicine"
+  ],
   "summary": "根据学校最新学硕论文格式要求修改和完善，在旧版 chinese-gb7714-2005-numeric 基础上修改",
   "updated": "2025-11-09T19:34:26+08:00",
   "citations": "<sup>[1-8]</sup>",

@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "biology",
+  "field": [
+    "biology"
+  ],
   "summary": "1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。",
   "updated": "2025-03-07T15:10:16+08:00",
   "citations": "(Li &#38; Durbin, 2011)<br>\n(宋永昌等, 2015)<br>\n(张明海和马建章, 2010)<br>\n(Begon et al, 1986)<br>\n(蒋志刚等, 2015)<br>\n(Lawton &#38; Brown, 1993)<br>\n(Mueller-Dombois D和Ellenberg H, 1986)<br>\n(于飞海, 2002)<br>\n(International Union for Conservation of Nature (IUCN), 2000)<br>\n",

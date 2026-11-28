@@ -17,7 +17,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "地质科技通报",
   "updated": "2026-05-03T21:41:56+08:00",
   "citations": "<sup>[1-4]</sup>",

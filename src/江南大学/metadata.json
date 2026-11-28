@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "江南大学研究生学位论文要求及格式规定（2015-05-21，2012年修订）",
   "updated": "2026-03-17T21:41:59+08:00",
   "citations": "<sup>[1-8]</sup>",

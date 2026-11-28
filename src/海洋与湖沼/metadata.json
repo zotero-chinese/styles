@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "geography",
+  "field": [
+    "geography"
+  ],
   "summary": "海洋与湖沼参考文献格式模板-2021-11-19.pdf",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "(汪学军, 2005)<br>\n(Praetzellis, 2011)<br>\n(Wang, 2022)<br>\n(扬奎斯特等, 2010)<br>\n(Jenkins <i>et al</i>, 2012)<br>\n(肖玲等, 2024)<br>\n(于潇等, 2012)<br>\n(Veen <i>et al</i>, 2014)<br>\n",

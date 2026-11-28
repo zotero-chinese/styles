@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "《应用力学学报》学报排版格式与论文书写要求.pdf",
   "updated": "2026-03-17T21:41:54+08:00",
   "citations": "<sup>[1,2]</sup>",

@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "botany",
+  "field": [
+    "botany"
+  ],
   "summary": "《园艺学报》论文模板",
   "updated": "2025-04-19T23:05:38+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特和萨金特，2010）<br>\n（Jenkins &#38; Ruostekoski，2012）<br>\n（肖玲 等，2024）<br>\n（于潇 等，2012）<br>\n（Veen et al.，2014）<br>\n",

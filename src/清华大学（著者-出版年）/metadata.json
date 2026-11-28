@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "清华大学研究生学位论文写作指南（2023 年 3 月）",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "(汪冰, 1997)<br>\n(杨宗英, 1996)<br>\n(Baker et al., 1995)<br>\n(Crane, 1972)<br>\n(Jha et al., 2004)<br>\n(Kennedy et al., 1975)<br>\n(Stieg, 1981)<br>\n",

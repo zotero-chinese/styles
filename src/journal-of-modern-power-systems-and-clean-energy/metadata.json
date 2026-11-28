@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "MPCE Word Template (20240408)",
   "updated": "2024-12-25T19:00:45+08:00",
   "citations": "[1], [2], [3], [4], [5], [6], [7], [8]",

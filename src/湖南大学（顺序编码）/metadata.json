@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "湖南大学研究生学位论文撰写规范",
   "updated": "2025-04-19T15:35:39+08:00",
   "citations": "<sup>[1-11]</sup>",

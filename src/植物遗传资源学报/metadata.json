@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "botany",
+  "field": [
+    "botany"
+  ],
   "summary": "植物遗传资源学报论文模板(2022-最新版).doc",
   "updated": "2025-05-24T17:16:02+08:00",
   "citations": "<sup>[1-8]</sup>",

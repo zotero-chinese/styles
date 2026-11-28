@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "安徽理工大学研究生学位论文",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1]</sup><br>\n<sup>[2]</sup><br>\n<sup>[3]</sup><br>\n<sup>[4]</sup><br>\n<sup>[5]</sup><br>\n<sup>[6]</sup><br>\n<sup>[7]</sup><br>\n<sup>[8]</sup><br>\n",

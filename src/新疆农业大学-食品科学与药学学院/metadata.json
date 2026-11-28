@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点；3. 非会议论文集借用chapter；4. 取消作者全部大写; 5. 仅网络首发及post等电子文献显示UR及OL。",
   "updated": "2026-03-17T21:41:55+08:00",
   "citations": "<sup>[1-8]</sup>",

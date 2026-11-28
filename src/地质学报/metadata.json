@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "geology",
+  "field": [
+    "geology"
+  ],
   "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI；5. 正文的引用使用全角括号。",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "（汪学军, 2005）<br>\n（Praetzellis, 2011）<br>\n（Wang, 2022）<br>\n（扬奎斯特和萨金特, 2010）<br>\n（Jenkins and Ruostekoski, 2012）<br>\n（肖玲等, 2024）<br>\n（于潇等, 2012）<br>\n（Veen et al., 2014）<br>\n",

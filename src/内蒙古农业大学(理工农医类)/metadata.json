@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 网络首发（advance online publication, AOP）文章显示“/OL”载体标识、DOI 或 URL；4. 其余的仅纯电子资源显示“/OL”载体标识、引用日期、URL，无 DOI。",
   "updated": "2026-04-05T21:41:52+08:00",
   "citations": "<sup>[1～6]</sup>",

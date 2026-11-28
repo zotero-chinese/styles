@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《西安电子科技大学本科生毕业设计（论文）撰写规范》（2009-05-16）",
   "updated": "2025-04-19T23:05:38+08:00",
   "citations": "<sup>[1-8]</sup>",

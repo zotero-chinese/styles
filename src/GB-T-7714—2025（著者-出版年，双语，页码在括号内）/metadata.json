@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "GB/T 7714—2025 信息与文献 参考文献著录规则（2026-07-01实施）。引注页码显示在括号内。",
   "updated": "2026-08-09T15:54:09+08:00",
   "citations": "（张三，2008，42）<br>\n张三 （2008，42）<br>\n（Jason，2008，42）<br>\nJason （2008，42）<br>\n",

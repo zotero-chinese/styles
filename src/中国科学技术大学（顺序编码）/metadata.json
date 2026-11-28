@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "中国科学技术大学研究生学位论文、本科毕业论文（设计）格式。全部使用半角符号；纸质文献不著录 URL；不著录 DOI。",
   "updated": "2026-11-21T20:09:09+08:00",
   "citations": "<sup>[1-8]</sup>",

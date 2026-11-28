@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "《信息安全学报》模板.doc（2016-01-23）",
   "updated": "2026-03-17T21:33:07+08:00",
   "citations": "<sup>[1-8]</sup>",

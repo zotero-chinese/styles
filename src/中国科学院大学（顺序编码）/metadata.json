@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《中国科学院大学研究生学位论文撰写规范指导意见》（2022 年 3 月 7 日修订）顺序编码制",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-12]</sup>",

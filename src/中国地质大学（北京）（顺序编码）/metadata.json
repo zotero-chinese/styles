@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "       基于钱家乘（微信公众号：通往PhD之路）制作的“中国地质大学（北京）（顺序编码）”，修改了图书中析出文献（chapter / entry-dictionary / entry-encyclopedia / paper-conference）的连接格式，使析出文献与包含文献用“//”分隔。       原样式说明：         1. 按照语言显示“等”或“et al.”；         2. 姓名取消全大写；         3. 仅纯电子资源显示引用日期和 URL；         4. 无 DOI；         5. 正文的引用使用半角括号。     ",
   "updated": "2026-07-02T21:24:02+08:00",
   "citations": "<sup>[1–8]</sup>",

@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "chemistry",
+  "field": [
+    "chemistry"
+  ],
   "summary": "《高分子学报》版式与体例说明（2023-02-24）",
   "updated": "2025-04-19T23:05:38+08:00",
   "citations": "<sup>[1-8]</sup>",

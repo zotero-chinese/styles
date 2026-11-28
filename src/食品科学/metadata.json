@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "science",
+  "field": [
+    "science"
+  ],
   "summary": "食品科学样式，除标准借用bill，书籍显示页码，其他与000gb-t-7714-2015-numeric-bilingual.csl相同。",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1-8]</sup>",

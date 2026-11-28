@@ -13,7 +13,10 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "political_science",
+  "field": [
+    "political_science",
+    "social_science"
+  ],
   "summary": "Public Management Review (Tsinghua) author-date style, GB/T 7714-2015. Revised 2026-11 per official submission guidelines (issue #716): journal no-volume punctuation, book translator/edition/pages, newspaper edition, accessed date, et-al terms.",
   "updated": "2026-11-10T05:00:00+08:00",
   "citations": "(汪学军, 2005)<br>\n(Praetzellis, 2011)<br>\n(Wang, 2022)<br>\n(扬奎斯特 and 萨金特, 2010)<br>\n(Jenkins and Ruostekoski, 2012)<br>\n(肖玲 et al., 2024)<br>\n(于潇 et al., 2012)<br>\n(Veen et al., 2014)<br>\n",

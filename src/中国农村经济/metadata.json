@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《中国农村经济》《中国农村观察》体例规范.docx",
   "updated": "2025-01-18T20:26:04+08:00",
   "citations": "（余淼杰和崔晓敏，2016）<br>\n（Wei and Wu，2001）<br>\n",

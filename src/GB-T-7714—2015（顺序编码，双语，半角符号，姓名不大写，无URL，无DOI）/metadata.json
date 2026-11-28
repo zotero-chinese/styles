@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "GB/T 7714—2015《信息与文献 参考文献著录规则》修改版：1. 按照语言显示“等”或“et al.”；2. 统一使用半角符号；3. 姓名取消全大写；4. 除在线出版的期刊文章、网站、网页、预印本外不著录引用日期和 URL；5. 不著录DOI。",
   "updated": "2026-08-09T17:03:53+08:00",
   "citations": "<sup>[1-8]</sup>",

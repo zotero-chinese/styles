@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "medicine",
+  "field": [
+    "medicine"
+  ],
   "summary": "投稿格式样例稿件.pdf",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "<sup>[1-8]</sup>",

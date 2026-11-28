@@ -14,7 +14,10 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base",
+    "science"
+  ],
   "summary": "《中国高等学校自然科学学报编排规范》（修订版，教技厅[1998]1号，1998年2月17日）",
   "updated": "2025-11-09T19:34:25+08:00",
   "citations": "[1～12]",

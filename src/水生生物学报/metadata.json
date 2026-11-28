@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "biology",
+  "field": [
+    "biology"
+  ],
   "summary": "《水生生物学报》投稿须知",
   "updated": "2026-03-17T21:41:56+08:00",
   "citations": "<sup>[1-8]</sup>",

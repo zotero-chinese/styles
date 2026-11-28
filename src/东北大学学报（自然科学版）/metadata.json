@@ -17,7 +17,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "东北大学学报（自然科学版）",
   "updated": "2026-04-18T21:41:56+08:00",
   "citations": "<sup>[1-4]</sup>",

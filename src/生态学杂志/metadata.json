@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "1. 按照语言显示“等”或“et al.”；2. 姓名取消全大写；3. 仅纯电子资源显示引用日期和 URL；4. 无 DOI。",
   "updated": "2026-04-18T21:41:56+08:00",
   "citations": "（Andolfo <i>et al.</i>, 2014）<br>\n（Bethke <i>et al.</i>, 2016）<br>\n（杨安钢等, 2001）<br>\n（杨月等, 2014）<br>\n（曹向锋, 2010）<br>\n",

@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "重庆大学博士、硕士学位论文格式标准（2023年修订）",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "（汪学军, 2005）<br>\n（Praetzellis, 2011）<br>\n（Wang, 2022）<br>\n（扬奎斯特 等, 2010）<br>\n（Jenkins et al., 2012）<br>\n（肖玲 等, 2024）<br>\n（于潇 等, 2012）<br>\n（Veen et al., 2014）<br>\n",

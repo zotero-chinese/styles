@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "中国公路学报投稿模板（最新版）-2022版 (2022-06-09)",
   "updated": "2026-03-17T21:41:56+08:00",
   "citations": "<sup>[1-8]</sup>",

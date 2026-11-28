@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《东南大学研究生学位论文格式规定》（2023-04-24）",
   "updated": "2026-03-17T21:41:56+08:00",
   "citations": "<sup>[1-8]</sup>",

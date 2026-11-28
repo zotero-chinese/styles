@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "《硅酸盐学报》参考文献著录格式（中文）2024-02-28",
   "updated": "2026-03-17T21:41:59+08:00",
   "citations": "<sup>[1-8]</sup>",

@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "郑州大学研究生学位论文写作规范2024.zip（2024-04-25）",
   "updated": "2026-03-17T21:41:55+08:00",
   "citations": "<sup>[1～8]</sup>",

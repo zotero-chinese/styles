@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "稿件模板（Word）",
   "updated": "2025-04-19T23:05:38+08:00",
   "citations": "<sup>[1-8]</sup>",

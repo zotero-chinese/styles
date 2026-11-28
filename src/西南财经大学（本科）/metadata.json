@@ -14,7 +14,10 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base",
+    "social_science"
+  ],
   "summary": "附件3：西南财经大学本科生毕业论文（设计）撰写与印制规范.docx（2023-10-13）",
   "updated": "2025-01-03T10:49:32+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特、萨金特，2010）<br>\n（Jenkins and Ruostekoski，2012）<br>\n（肖玲等，2024）<br>\n（于潇等，2012）<br>\n（Veen et al.，2014）<br>\n",

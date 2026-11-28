@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "botany",
+  "field": [
+    "botany"
+  ],
   "summary": "1. 文献的语言默认为英语。中文文献需要在 `language` 字段填写 `zh` 或 `zh-CN`。2. 中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。",
   "updated": "2025-01-03T10:49:33+08:00",
   "citations": "（Altieri &#38; Nicholls，2004）<br>\n（Biesmeijer et al.，2006）<br>\n（Garnsey et al.，1993）<br>\n（McDonald &#38; Nicol，2005）<br>\n（钦俊德，1987）<br>\n（孙玉凤等，2011）<br>\n（Tautz et al.，2002）<br>\n（吴孔明和郭予元，2000）<br>\n（叶恭银等，1998）<br>\n（曾士迈等，1979）<br>\n（张徐波，2013）<br>\n（吴孔明和郭予元，2000；曾士迈等，1979）<br>\n",

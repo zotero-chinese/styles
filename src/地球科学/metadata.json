@@ -17,7 +17,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "geology",
+  "field": [
+    "geology"
+  ],
   "summary": "       地球科学 (Earth Science - China University of Geosciences)       《地球科学》中文版投稿指南下载（2022版）.pdf       《地球科学》(中国地质大学学报)期刊著者-出版年制引用格式 v3.0。       使用 CSL-M 双 layout 实现中英文自动切换。       中文条目通过 original-* 变量自动追加英文对照行（display=\"block\" 另起一段）。     ",
   "updated": "2026-03-01T11:06:37+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis, 2011)<br>\n（Wang, 2022)<br>\n（扬奎斯特和萨金特，2010）<br>\n（Jenkins and Ruostekoski, 2012)<br>\n（肖玲等，2024）<br>\n（于潇等，2012）<br>\n（Veen et al., 2014)<br>\n",

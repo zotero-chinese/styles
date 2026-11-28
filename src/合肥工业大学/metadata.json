@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "博士学位论文写作规范示例-2（正文部分）.docx（2023-10-09）",
   "updated": "2026-03-17T21:41:52+08:00",
   "citations": "<sup>[1]</sup><br>\n<sup>[6]</sup><br>\n<sup>[8]</sup><br>\n<sup>[3]</sup><br>\n<sup>[5]</sup><br>\n<sup>[2]</sup><br>\n<sup>[4]</sup><br>\n<sup>[7]</sup><br>\n",

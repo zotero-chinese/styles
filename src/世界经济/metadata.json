@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《世界经济》稿件体例调整规范",
   "updated": "2024-12-25T18:46:22+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特和萨金特，2010）<br>\n（Jenkins and Ruostekoski，2012）<br>\n（肖玲等，2024）<br>\n（于潇等，2012）<br>\n（Veen <i>et al.</i>，2014）<br>\n",

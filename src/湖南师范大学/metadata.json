@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "湖南师范大学研究生学位论文的撰写格式（处发〔2006〕42 号）",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1-6]</sup>",

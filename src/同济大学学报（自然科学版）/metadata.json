@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "science",
+  "field": [
+    "science"
+  ],
   "summary": "《同济大学学报（自然科学版）》论文格式要求（2021年），第3节。中文文献的英文著录另起一行，共用序号。在 Zotero 的“其他”中填写 original-title、original-author 及相应的英文出版信息。第一版不填版次。",
   "updated": "2026-11-26T00:00:00+08:00",
   "citations": "<sup>[1-3]</sup>",

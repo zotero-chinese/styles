@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "syau-thesis沈阳农业大学学位论文",
   "updated": "2026-03-17T21:41:58+08:00",
   "citations": "（汪学军，2005）<br>\n（Praetzellis，2011）<br>\n（Wang，2022）<br>\n（扬奎斯特与萨金特，2010）<br>\n（Jenkins and Ruostekoski，2012）<br>\n（肖玲等，2024）<br>\n（于潇等，2012）<br>\n（Veen et al，2014）<br>\n",

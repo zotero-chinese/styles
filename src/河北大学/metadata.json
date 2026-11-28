@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "8-河北大学研究生学位论文撰写规范.pdf（2023-05-31）",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1-8]</sup>",

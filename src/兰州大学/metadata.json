@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "兰州大学研究生学位论文写作参考规范（2020-12-23），在旧版 chinese-gb7714-2005-numeric 基础上修改",
   "updated": "2026-07-20T21:52:50+08:00",
   "citations": "<sup>[1-8]</sup>",

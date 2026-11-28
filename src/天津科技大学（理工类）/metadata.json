@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "天津科技大学研究生学位论文撰写规范（理工科类）（2025-12-16）",
   "updated": "2026-04-02T20:55:01+08:00",
   "citations": "<sup>[1–8]</sup>",

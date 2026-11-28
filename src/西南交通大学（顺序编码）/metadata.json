@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "西南交通大学研究生学位论文撰写范式（2024年8月修订）",
   "updated": "2026-03-17T21:41:57+08:00",
   "citations": "<sup>[1-8]</sup>",

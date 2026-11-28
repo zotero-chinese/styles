@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《南开经济研究》来稿须知第四条。采用 GB/T 7714—2005 顺序编码和方括号，保留文献类型与电子载体标识。",
   "updated": "2026-11-10T01:40:00Z",
   "citations": "<sup>[1–8]</sup>",

@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "biology",
+  "field": [
+    "biology"
+  ],
   "summary": "《中国细胞生物学学报》顺序编码制样式，基于 GB/T 7714—2025。英文作者姓大写、名缩写；4名及以上作者列前3名后加 et al.；英文期刊优先使用缩写；不显示 DOI 和 URL。",
   "updated": "2026-08-06T20:38:20+08:00",
   "citations": "<sup>[1–8]</sup>",

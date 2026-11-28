@@ -21,7 +21,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《科学与社会》文章格式规范（编辑部格式模板，未标注发布日期）。顺序编码制：正文上标 [n]，同一文献多次引用时页码标注于序号方括号之外（如 [2]1194），文末按引用顺序编号；文末参考文献 12 类（期刊/报纸/网页/图书/析出/翻译/专利/学位论文/论文集/科技报告/网络首发/预印本），不带文献类型标识，著者最多 3 人后加“, 等”或“, et al.”，英文著者姓前名后、缩写名无点、姓全大写，期刊卷（期）与报纸版次应填尽填，页码连接号用 en dash；档案文献改脚注罗列（CSL 结构限制）。",
   "updated": "2026-08-23T19:44:34+08:00",
   "citations": "<sup>[1]</sup><br>\n<sup>[2]</sup><br>\n<sup>[3]</sup><br>\n<sup>[4]</sup><br>\n<sup>[5]</sup><br>\n<sup>[6]</sup><br>\n<sup>[7]</sup><br>\n<sup>[8]</sup><br>\n<sup>[9]</sup><br>\n<sup>[10]</sup><br>\n<sup>[11]</sup><br>\n<sup>[12]</sup><br>\n<sup>[13]</sup><br>\n<sup>[14]</sup><br>\n<sup>[15]</sup><br>\n<sup>[16]</sup><br>\n<sup>[17]</sup><br>\n<sup>[18]</sup><br>\n<sup>[19]</sup><br>\n<sup>[20]</sup><br>\n<sup>[21]</sup><br>\n<sup>[22]</sup><br>\n<sup>[23]</sup><br>\n<sup>[24]</sup><br>\n<sup>[25]</sup><br>\n<sup>[26]</sup><br>\n<sup>[27]</sup><br>\n<sup>[28]</sup><br>\n<sup>[29]</sup><br>\n<sup>[30]</sup><br>\n<sup>[31]</sup><br>\n<sup>[32]</sup><br>\n<sup>[33]</sup><br>\n<sup>[34]1194</sup><br>\n<sup>[35]-[37]</sup><br>\n<sup>[35]</sup><br>\n<sup>[36]</sup><br>\n<sup>[35],[37]</sup><br>\n",

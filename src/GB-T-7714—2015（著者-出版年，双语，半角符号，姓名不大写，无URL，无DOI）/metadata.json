@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "author-date",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "GB/T 7714—2015《信息与文献 参考文献著录规则》修改版：1. 按照语言显示“等”或“et al.”；2. 统一使用半角符号；3. 姓名取消全大写；4. 除在线出版的期刊文章、网站、网页、预印本外不著录引用日期和 URL；5. 不著录DOI。",
   "updated": "2026-08-09T17:10:28+08:00",
   "citations": "(库恩, 2012)<br>\n(Fourney, c1971)<br>\n(贾东琴等, 2011)<br>\n(Fan et al., 2013)<br>\n(武丽丽等, 2008)<br>\n(Myburg et al., 2014)<br>\n(中国互联网络信息中心, 2012；Bawden, 2008)<br>\n",

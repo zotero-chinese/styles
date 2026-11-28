@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "generic-base",
+  "field": [
+    "generic-base"
+  ],
   "summary": "按照语言显示“等”或“et al.”",
   "updated": "2026-08-09T17:03:53+08:00",
   "citations": "<sup>[1-8]</sup>",

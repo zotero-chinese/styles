@@ -13,7 +13,9 @@
   ],
   "contributor": [],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "长江大学硕士学位论文排版格式要求（20161122理工农医类）",
   "updated": "2026-03-17T22:02:58+08:00",
   "citations": "<sup>[1-8]</sup>",

@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "physics",
+  "field": [
+    "physics"
+  ],
   "summary": "参考文献引用须知.doc（2013年10月）。中文文献需要将作者姓名、标题、期刊缩写、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title-short`, `original-publisher-place`, `original-publisher` 字段。",
   "updated": "2025-01-08T17:28:15+08:00",
   "citations": "<sup>[1–12]</sup>",

@@ -14,7 +14,9 @@
   ],
   "contributor": [],
   "citation_format": "author-date",
-  "field": "social_science",
+  "field": [
+    "social_science"
+  ],
   "summary": "《开放时代》投稿体例（2026年1月1日起施行）。著者-出版年制（chicago-author-date 派生）：正文（作者 年份），文末参考文献按作者字母序排列。",
   "updated": "2026-08-06T20:15:47+08:00",
   "citations": "（Wrigley &#38; Schofield，1989[1981]: 208–209）<br>\n（陈少明，2005）<br>\n（佚名，2021）<br>\n（MacFarquhar &#38; Schoenhals，2006）<br>\n",

@@ -18,7 +18,9 @@
     }
   ],
   "citation_format": "numeric",
-  "field": "engineering",
+  "field": [
+    "engineering"
+  ],
   "summary": "《化工进展》参考文献著录格式-2024年",
   "updated": "2026-06-18T21:41:56+08:00",
   "citations": "<sup>[1-3]</sup>",
