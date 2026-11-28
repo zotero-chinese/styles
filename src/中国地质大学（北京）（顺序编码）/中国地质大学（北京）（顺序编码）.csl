@@ -17,6 +17,8 @@
       <email>2051368470@qq.com</email>
     </contributor>
     <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <category field="geology"/>
     <summary>
       基于钱家乘（微信公众号：通往PhD之路）制作的“中国地质大学（北京）（顺序编码）”，修改了图书中析出文献（chapter / entry-dictionary / entry-encyclopedia / paper-conference）的连接格式，使析出文献与包含文献用“//”分隔。
       原样式说明：

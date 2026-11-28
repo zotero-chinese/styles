@@ -5,13 +5,15 @@
     <id>https://zotero-chinese.com/styles/新疆医科大学</id>
     <link href="https://zotero-chinese.com/styles/新疆医科大学" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
+    <link href="https://github.com/zotero-chinese/styles/pull/634" rel="documentation"/>
     <author>
       <name>贺元</name>
       <email>mr.hymail@qq.com</email>
     </author>
-    <summary>新疆医科大学学位论文正文撰写规范（2022版）</summary>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
+    <category field="medicine"/>
+    <summary>新疆医科大学学位论文正文撰写规范（2022版）</summary>
     <updated>2026-03-17T21:41:58+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>

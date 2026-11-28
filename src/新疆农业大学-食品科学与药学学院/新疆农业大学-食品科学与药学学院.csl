@@ -19,7 +19,8 @@
       <email>zepinglee@gmail.com</email>
     </contributor>
     <category citation-format="numeric"/>
-    <category field="generic-base"/>
+    <category field="medicine"/>
+    <category field="science"/>
     <summary>1. 按照语言显示“等”或“et al.”；2. 中文文献使用全角标点；3. 非会议论文集借用chapter；4. 取消作者全部大写; 5. 仅网络首发及post等电子文献显示UR及OL。</summary>
     <updated>2026-03-17T21:41:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>

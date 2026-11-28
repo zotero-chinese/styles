@@ -12,11 +12,14 @@
 <!-- [例如 Acta Psychologica Sinica / Tsinghua University] -->
 
 - （期刊）相关领域：
-<!-- 从以下领域中选择最接近的
-anthropology, astronomy, biology, botany, chemistry, communications,
-engineering, geography, geology, history, humanities, law, linguistics,
-literature, math, medicine, philosophy, physics, political_science, psychology,
-science, social_science, sociology, theology, zoology
+<!-- 从以下领域中选择最接近的（可多选）：
+generic-base（※通用基础）、anthropology（人类学）、astronomy（天文学）、
+biology（生物学）、botany（植物学）、chemistry（化学）、communications（传播学）、
+engineering（工程学）、geography（地理学）、geology（地质学）、history（历史学）、
+humanities（人文学科）、law（法学）、linguistics（语言学）、literature（文学）、
+math（数学）、medicine（医学）、philosophy（哲学）、physics（物理学）、
+political_science（政治学）、psychology（心理学）、science（自然科学）、
+social_science（社会科学）、sociology（社会学）、theology（神学）、zoology（动物学）
 -->
 
 - （期刊）ISSN 号：

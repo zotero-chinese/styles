@@ -11,7 +11,7 @@
       <email>redleafnew@163.com</email>
     </author>
     <category citation-format="numeric"/>
-    <category field="science"/>
+    <category field="chemistry"/>
     <issn>0253-3820</issn>
     <summary>1.不显示标题。2.期刊缩写。3.英文翻译换行。4. 中文文献的英译(中文文献需要将作者姓名、标题、期刊、出版地、出版社的英文翻译分别填写在 `extra` 中的 `original-author`, `original-title`, `original-container-title`, `original-publisher-place`, `original-publisher` 字段。英文换行)。</summary>
     <updated>2025-07-25T23:05:40+08:00</updated>

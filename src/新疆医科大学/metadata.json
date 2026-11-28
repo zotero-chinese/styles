@@ -6,6 +6,7 @@
   "id": "https://zotero-chinese.com/styles/新疆医科大学",
   "link_self": "https://zotero-chinese.com/styles/新疆医科大学",
   "link_template": "https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）",
+  "link_documentation": "https://github.com/zotero-chinese/styles/pull/634",
   "author": [
     {
       "name": "贺元"
@@ -14,7 +15,8 @@
   "contributor": [],
   "citation_format": "numeric",
   "field": [
-    "generic-base"
+    "generic-base",
+    "medicine"
   ],
   "summary": "新疆医科大学学位论文正文撰写规范（2022版）",
   "updated": "2026-03-17T21:41:58+08:00",

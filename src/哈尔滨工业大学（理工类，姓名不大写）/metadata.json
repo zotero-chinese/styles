@@ -25,7 +25,9 @@
   ],
   "citation_format": "numeric",
   "field": [
-    "generic-base"
+    "generic-base",
+    "engineering",
+    "science"
   ],
   "summary": "依据《研究生学位论文书写范例（理工类）》（2021-05-13）的姓名不大写变体。",
   "updated": "2026-10-20T00:00:00+08:00",

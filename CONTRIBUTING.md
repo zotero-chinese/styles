@@ -35,6 +35,7 @@ src/
 - `link rel="template"`：如果是基于某个样式派生，建议保留并指向上游模板样式。
 - `link rel="documentation"`：期刊/学校的官网格式规范的链接。如果有单独的文件，使用两个 `link` 分别给出网页和文件的链接。
 - `issn`：期刊可以列出 ISSN 号。
+- `category field`：学科领域，填写规则见第 4 节。
 - `summary`：注明格式规范的文件名称、发布日期、文件号（可选），
   例如“《经济研究》参考文献索引及用录体例说明（2025-01-03）”、
   “北京理工大学研究生学位论文撰写规范（研函〔2026〕024号），2026年3月31日发布”。
@@ -45,7 +46,17 @@ src/
 
 - 不要手动修改自动生成文件（如 `metadata.json`、`index.md`），脚本会覆盖这些文件。
 
-## 4. 验证引注和参考文献表
+## 4. 学科领域（`<category field>`）
+
+`<category field>` 只能取以下值：`generic-base`（※通用基础）、`anthropology`（人类学）、`astronomy`（天文学）、`biology`（生物学）、`botany`（植物学）、`chemistry`（化学）、`communications`（传播学）、`engineering`（工程学）、`geography`（地理学）、`geology`（地质学）、`history`（历史学）、`humanities`（人文学科）、`law`（法学）、`linguistics`（语言学）、`literature`（文学）、`math`（数学）、`medicine`（医学）、`philosophy`（哲学）、`physics`（物理学）、`political_science`（政治学）、`psychology`（心理学）、`science`（自然科学）、`social_science`（社会科学）、`sociology`（社会学）、`theology`（神学）、`zoology`（动物学）。
+
+- 期刊按学科填写：学报（自然科学版）用 `science`，学报（社会科学版）用 `social_science`。
+- 交叉学科写多个 field（如 地球物理学报：`geology`、`physics`）。
+- 综合性学校只用 `generic-base`；理工大学、科技大学不加 `science`/`engineering`。
+- 学校有对应学科的专门院校用 `generic-base` + 学科（如 中国政法大学：`generic-base`、`law`、`political_science`）；
+- 学院/系/专业只写学科，不加 `generic-base`。
+
+## 5. 验证引注和参考文献表
 
 先按 [README](README.md) 安装依赖。在仓库根目录运行下面的命令，然后打开生成的 `src/会计研究/index.md`。在“样式预览”中，同一篇文献有两处可以核对：
 

@@ -15,7 +15,8 @@
   "contributor": [],
   "citation_format": "numeric",
   "field": [
-    "generic-base"
+    "generic-base",
+    "engineering"
   ],
   "summary": "1. 会议论文的格式改为“会议名, 会议地, 会议年”；2. 除电子资源外，不显示“OL”、引用日期、URL 或 DOI。",
   "updated": "2026-03-17T21:41:58+08:00",

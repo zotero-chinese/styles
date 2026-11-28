@@ -22,7 +22,8 @@
   ],
   "citation_format": "author-date",
   "field": [
-    "generic-base"
+    "generic-base",
+    "social_science"
   ],
   "summary": "1. 按照语言显示“等”或“et al.”；2. 仅纯电子资源显示引用日期和 URL；3. 无 DOI；4. 除了点其他的标点符号全改成中文状态的。",
   "updated": "2026-03-17T22:46:49+08:00",
