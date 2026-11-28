@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN" delimiter-precedes-last="never" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" delimiter-precedes-last="never" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
     <title>核农学报</title>
     <id>https://zotero-chinese.com/styles/核农学报</id>
@@ -23,7 +23,8 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
+      <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>
     </terms>
   </locale>
   <locale>
@@ -436,7 +437,8 @@
         <else-if type="article-journal article-magazine article-newspaper" match="any">
           <!-- 4.4 连续出版物中的析出文献 -->
           <text macro="title"/>
-          <text macro="container-periodical"/>  <!-- 标记   -->
+          <!-- 标记   -->
+          <text macro="container-periodical"/>
         </else-if>
         <else-if type="patent">
           <!-- 4.5 专利文献 -->
@@ -519,7 +521,8 @@
       <text macro="entry-layout" suffix="."/>
       <choose>
         <if variable="original-title">
-          <text macro="bib-translation" display="block"/>  <!-- 翻译的英文 -->
+          <!-- 翻译的英文 -->
+          <text macro="bib-translation" display="block"/>
         </if>
       </choose>
     </layout>

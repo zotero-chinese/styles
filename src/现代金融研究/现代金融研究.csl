@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0"
-  name-as-sort-order="all" sort-separator=", " demote-non-dropping-particle="never"
-  initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded"
-  default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=", " demote-non-dropping-particle="never" initialize-with=". " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>现代金融研究</title>
     <id>https://zotero-chinese.com/styles/现代金融研究</id>
-    <link href="https://zotero-chinese.com/styles/现代金融研究"
-      rel="self"/>
+    <link href="https://zotero-chinese.com/styles/现代金融研究" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语）" rel="template"/>
     <link href="https://mp.weixin.qq.com/s/HEEfKwNSP7gkRSI4h9T-jQ" rel="documentation"/>
     <author>
@@ -136,8 +132,7 @@
       <text variable="title"/>
       <group delimiter="&#8195;">
         <choose>
-          <if variable="container-title"
-            type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+          <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
             <text macro="volume"/>
             <text variable="volume-title"/>
           </if>
@@ -156,10 +151,6 @@
         </choose>
       </group>
     </group>
-    <!-- <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
-    </group> -->
   </macro>
   <!-- 书籍的卷号（“第 x 卷”或“第 x 册”） -->
   <macro name="volume">
@@ -310,8 +301,7 @@
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis"
-        variable="archive archive-place publisher publisher-place page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=": ">
@@ -423,8 +413,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
-          variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
@@ -475,8 +464,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
-          variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
@@ -499,8 +487,7 @@
       <text macro="access"/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true"
-    disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter="，">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter="，">
     <sort>
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>

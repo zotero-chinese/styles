@@ -47,18 +47,6 @@
       </substitute>
     </names>
   </macro>
-  <!--macro name="author">
-    <choose>
-      <if variable="author">
-        <names variable="author" >
-          <name/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro-->
   <!-- 引用用的作者 -->
   <macro name="author-intext">
     <names variable="author">
@@ -72,17 +60,6 @@
       </substitute>
     </names>
   </macro>
-  <!--macro name="author-intext">
-      <names variable="author">
-        <names variable="author">
-          <name form="short" and="symbol"/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro-->
   <!-- 文内引用用的作者 中文 -->
   <macro name="author-intext-zh">
     <names variable="author">
@@ -95,18 +72,6 @@
       </substitute>
     </names>
   </macro>
-  <!--macro name="author-intext-zh">
-    <choose>
-      <if variable="author">
-        <names variable="author">
-          <name and="text"/>
-        </names>
-      </if>
-      <else>
-        <text term="anonymous"/>
-      </else>
-    </choose>
-  </macro-->
   <macro name="title">
     <group prefix="(" suffix="). ">
       <text macro="issued-year"/>
@@ -160,12 +125,6 @@
     </names>
   </macro>
   <!-- 无用的代码 -->
-  <!--macro name="editor">
-    <names variable="editor translator">
-      <name/>
-      <label form="short" prefix=", "/>
-    </names>
-  </macro-->
   <!-- 图书版本 -->
   <macro name="edition">
     <choose>
@@ -179,9 +138,6 @@
                   <text value="edn"/>
                 </if>
                 <!-- 此处存疑 -->
-                <!--else>
-                  <text value="eds"/>
-                </else-->
               </choose>
             </if>
             <else>
@@ -189,8 +145,6 @@
               <text term="edition" form="short" prefix=" "/>
             </else>
           </choose>
-          <!--text variable="edition"/>
-          <label variable="edition"/-->
         </group>
       </if>
     </choose>
@@ -361,11 +315,6 @@
         </choose>
       </else>
     </choose>
-    <!-- <text macro="accessed-date"/>
-    <group delimiter=". " prefix=". ">
-      <text variable="URL"/>
-      <text variable="DOI" prefix="DOI:"/>
-    </group> -->
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="false" disambiguate-add-year-suffix="true" collapse="year">
     <sort>

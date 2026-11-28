@@ -26,7 +26,8 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
+      <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>
     </terms>
   </locale>
   <locale>
@@ -526,7 +527,8 @@
       <text macro="entry-layout" suffix="."/>
       <choose>
         <if variable="original-title">
-          <text macro="bib-translation" prefix=" (" suffix=". (in Chinese))"/>  <!-- 翻译的英文 -->
+          <!-- 翻译的英文 -->
+          <text macro="bib-translation" prefix=" (" suffix=". (in Chinese))"/>
         </if>
       </choose>
     </layout>

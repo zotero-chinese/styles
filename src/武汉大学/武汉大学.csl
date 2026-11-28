@@ -274,17 +274,9 @@
       </else-if>
       <else-if type="article-journal article-magazine article-newspaper" match="any">
         <group prefix=". " delimiter=", ">
-          <!-- <choose>
-            <if variable="container-title-short">
-              <text variable="container-title-short" font-style="normal"/>
-              <text macro="serial-information" prefix=", "/>
-            </if>
-            <else> -->
           <text variable="container-title" font-style="normal"/>
           <text macro="serial-information"/>
           <text macro="publisher"/>
-          <!-- </else>
-          </choose> -->
         </group>
       </else-if>
       <else-if type="patent">

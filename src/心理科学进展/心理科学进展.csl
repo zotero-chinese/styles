@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with=". " page-range-format="expanded" default-locale-sort="zh-CN" default-locale="en-US">
   <info>
     <title>心理科学进展</title>
     <id>https://zotero-chinese.com/styles/心理科学进展</id>
@@ -62,7 +62,7 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">–</term>
+      <term name="page-range-delimiter">&#8211;</term>
       <term name="chapter" form="short">章</term>
       <term name="page" form="short">
         <single>p.</single>

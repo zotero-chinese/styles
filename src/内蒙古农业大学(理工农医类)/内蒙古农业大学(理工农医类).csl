@@ -48,7 +48,8 @@
   <!-- 英文主要责任者 -->
   <macro name="author-en">
     <names variable="author">
-      <name/>   <!--英文作者间隔用逗号加空格 -->
+      <!--英文作者间隔用逗号加空格 -->
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -61,10 +62,11 @@
       </substitute>
     </names>
   </macro>
-    <!-- 中文主要责任者 -->
+  <!-- 中文主要责任者 -->
   <macro name="author-zh">
     <names variable="author">
-      <name delimiter="，"/>   <!--中文作者间隔用中文逗号 -->
+      <!--中文作者间隔用中文逗号 -->
+      <name delimiter="，"/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
@@ -255,7 +257,8 @@
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
-        <group delimiter=":">   <!-- 页码前的冒号没有空格 -->
+        <!-- 页码前的冒号没有空格 -->
+        <group delimiter=":">
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
@@ -276,7 +279,7 @@
       </else>
     </choose>
   </macro>
-    <!-- 中文连续出版物中的出处项 -->
+  <!-- 中文连续出版物中的出处项 -->
   <macro name="container-periodical-zh">
     <choose>
       <if type="article-newspaper">
@@ -289,7 +292,8 @@
       </if>
       <else>
         <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
-        <group delimiter=":"> <!-- 页码前的冒号没有空格 -->
+        <!-- 页码前的冒号没有空格 -->
+        <group delimiter=":">
           <group>
             <group delimiter="，">
               <text variable="container-title"/>
@@ -332,7 +336,7 @@
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
   </macro>
-    <!-- 中文连续出版物的年卷期 -->
+  <!-- 中文连续出版物的年卷期 -->
   <macro name="year-volume-issue-zh">
     <group delimiter="，">
       <text macro="issued-year"/>
@@ -460,7 +464,7 @@
   <!-- 英文参考文献表格式 -->
   <macro name="entry-layout-en">
     <group delimiter=". ">
-     <!--英文文作者 -->
+      <!--英文文作者 -->
       <text macro="author-en"/>
       <choose>
         <if type="periodical">
@@ -507,10 +511,10 @@
       <text macro="access"/>
     </group>
   </macro>
-    <!-- 中文参考文献表格式 -->
+  <!-- 中文参考文献表格式 -->
   <macro name="entry-layout-zh">
     <group delimiter="．">
-     <!--中文作者 -->
+      <!--中文作者 -->
       <text macro="author-zh"/>
       <choose>
         <if type="periodical">

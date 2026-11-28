@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="en-US">
   <info>
     <title>华北农学报</title>
     <id>https://zotero-chinese.com/styles/华北农学报</id>
@@ -57,14 +57,6 @@
       </if>
     </choose>
     <text macro="type-id" prefix="[" suffix="]"/>
-    <!-- <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <choose>
-        <if variable="URL">
-          <text value="OL"/>
-        </if>
-      </choose>
-    </group> -->
   </macro>
   <macro name="type-id">
     <choose>

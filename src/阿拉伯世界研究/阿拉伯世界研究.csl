@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0"
-  delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" initialize="false"
-  page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" delimiter-precedes-last="never" et-al-min="3" et-al-use-first="1" initialize="false" page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="zh-CN">
   <info>
     <title>阿拉伯世界研究</title>
     <id>https://zotero-chinese.com/styles/阿拉伯世界研究</id>

@@ -20,7 +20,8 @@
   </info>
   <locale xml:lang="en">
     <terms>
-      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
+      <!-- 英文页码的连接号使用 hyphen -->
+      <term name="page-range-delimiter">-</term>
       <term name="translator" form="short">trans.</term>
       <!-- 体例示例与全局约定：英文外层引号用直引号 -->
       <term name="open-quote">"</term>
@@ -40,7 +41,8 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="page-range-delimiter">&#8212;</term> <!-- 中文页码的连接号使用一字线（em dash） -->
+      <!-- 中文页码的连接号使用一字线（em dash） -->
+      <term name="page-range-delimiter">&#8212;</term>
       <term name="editor" form="short">主编</term>
       <term name="compiler" form="short">整理</term>
     </terms>

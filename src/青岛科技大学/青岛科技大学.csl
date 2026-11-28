@@ -13,13 +13,11 @@
     <updated>2026-03-17T21:41:56+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-
   <locale xml:lang="en">
     <terms>
       <term name="et-al">et al.</term>
     </terms>
   </locale>
-
   <locale xml:lang="zh">
     <terms>
       <term name="edition" form="short">版</term>
@@ -30,7 +28,6 @@
       <term name="et-al">等</term>
     </terms>
   </locale>
-
   <locale>
     <date form="numeric">
       <date-part name="year" range-delimiter="/"/>
@@ -42,7 +39,6 @@
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
-
   <macro name="author">
     <names variable="author">
       <name initialize-with="" sort-separator=" " delimiter-precedes-last="always"/>
@@ -58,7 +54,6 @@
       </substitute>
     </names>
   </macro>
-
   <macro name="title">
     <group delimiter=": ">
       <text variable="title"/>
@@ -85,7 +80,6 @@
       <text macro="type-id"/>
     </group>
   </macro>
-
   <macro name="volume">
     <choose>
       <if type="article article-journal article-magazine article-newspaper periodical" match="none">
@@ -103,7 +97,6 @@
       </if>
     </choose>
   </macro>
-
   <macro name="type-id">
     <choose>
       <if type="article">
@@ -154,14 +147,12 @@
       </else>
     </choose>
   </macro>
-
   <macro name="secondary-contributors">
     <names variable="translator">
       <name/>
       <label form="short" prefix=", "/>
     </names>
   </macro>
-
   <macro name="container-contributors">
     <names variable="editor">
       <name/>
@@ -172,7 +163,6 @@
       </substitute>
     </names>
   </macro>
-
   <macro name="container-booklike">
     <group delimiter=". ">
       <text macro="container-contributors"/>
@@ -189,7 +179,6 @@
       </choose>
     </group>
   </macro>
-
   <macro name="container-periodical-zh">
     <choose>
       <if type="article-newspaper">
@@ -221,7 +210,6 @@
       </else>
     </choose>
   </macro>
-
   <macro name="container-periodical-en">
     <choose>
       <if type="article-newspaper">
@@ -237,7 +225,7 @@
             <text variable="container-title"/>
             <text macro="issued-year"/>
             <text variable="volume"/>
-            </group>
+          </group>
           <choose>
             <if variable="page">
               <text variable="page"/>
@@ -250,7 +238,6 @@
       </else>
     </choose>
   </macro>
-
   <macro name="edition">
     <choose>
       <if is-numeric="edition">
@@ -264,7 +251,6 @@
       </else>
     </choose>
   </macro>
-
   <macro name="year-volume-issue">
     <group delimiter=", ">
       <text macro="issued-year"/>
@@ -272,7 +258,6 @@
     </group>
     <text variable="issue" prefix="(" suffix=")"/>
   </macro>
-
   <macro name="publisher">
     <choose>
       <if type="patent">
@@ -313,7 +298,6 @@
       </else>
     </choose>
   </macro>
-
   <macro name="issued-year">
     <choose>
       <if variable="issued">
@@ -331,11 +315,9 @@
       </else>
     </choose>
   </macro>
-
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
   </macro>
-
   <macro name="entry-layout-en">
     <group delimiter=". ">
       <text macro="author"/>
@@ -377,7 +359,6 @@
       </choose>
     </group>
   </macro>
-
   <macro name="entry-layout-zh">
     <group delimiter=". ">
       <text macro="author"/>
@@ -419,7 +400,6 @@
       </choose>
     </group>
   </macro>
-
   <citation collapse="citation-number" after-collapse-delimiter=",">
     <sort>
       <key variable="citation-number"/>
@@ -428,7 +408,6 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-
   <bibliography entry-spacing="0" second-field-align="flush" et-al-min="4" et-al-use-first="3">
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>

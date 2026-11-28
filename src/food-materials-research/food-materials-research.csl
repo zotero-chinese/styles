@@ -171,14 +171,6 @@
             <label variable="page" form="short" suffix=" "/>
             <text variable="page"/>
           </group>
-          <!-- <group delimiter=" ">
-            <label variable="number-of-pages" form="short"/>
-            <text variable="number-of-pages"/>
-          </group>
-          <group delimiter=" ">
-            <number variable="edition" form="ordinal"/>
-            <label variable="edition" form="short"/>
-          </group> -->
         </group>
       </else-if>
       <else-if type="article-journal">
@@ -218,7 +210,8 @@
       </else-if>
       <else-if type="thesis">
         <group delimiter=", ">
-          <text variable="title" font-style="italic"/>  <!-- 为了使Thesis前后老师为逗号 -->
+          <!-- 为了使Thesis前后老师为逗号 -->
+          <text variable="title" font-style="italic"/>
           <text value="Thesis"/>
           <text variable="publisher" form="short"/>
           <group delimiter=" ">
@@ -255,7 +248,8 @@
       <choose>
         <if type="book chapter thesis" match="any">
           <group delimiter=". ">
-            <group delimiter=", ">  <!-- 书籍、论文的作者年代之间为空格 -->
+            <!-- 书籍、论文的作者年代之间为空格 -->
+            <group delimiter=", ">
               <text macro="author"/>
               <text macro="year-date"/>
             </group>

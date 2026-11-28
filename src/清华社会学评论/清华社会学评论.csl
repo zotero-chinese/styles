@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- 官方体例（《清华社会学评论》征稿启事，第二十四辑）：英文姓名“Fei，Hsiao-tung”姓与名间为全角逗号，由 sort-separator=“，”控制；页码分隔符 zh 用全角～、en 用半角-，由 locale 术语 page-range-delimiter 实现 -->
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator="，" demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" sort-separator="，" demote-non-dropping-particle="display-and-sort" initialize="false" initialize-with=". " page-range-format="expanded" default-locale-sort="zh-CN" default-locale="en-US">
   <info>
     <title>清华社会学评论</title>
     <id>https://zotero-chinese.com/styles/清华社会学评论</id>
@@ -123,7 +123,7 @@
   <!-- 出版年 -->
   <macro name="date">
     <date variable="issued">
-      <date-part name="year" range-delimiter="–"/>
+      <date-part name="year" range-delimiter="&#8211;"/>
     </date>
   </macro>
   <!-- 题名 -->
@@ -294,7 +294,7 @@
       <else-if type="paper-conference">
         <group delimiter="">
           <!-- 官方例：“国际徽学研讨会”论文（弯引号） -->
-          <text variable="event" prefix="&#x201C;" suffix="&#x201D;"/>
+          <text variable="event" prefix="“" suffix="”"/>
           <text value="论文"/>
         </group>
       </else-if>
@@ -445,7 +445,7 @@
       <text value=")"/>
     </layout>
   </citation>
-  <bibliography entry-spacing="0" hanging-indent="true" subsequent-author-substitute="——">
+  <bibliography entry-spacing="0" hanging-indent="true" subsequent-author-substitute="&#8212;&#8212;">
     <sort>
       <key macro="author-en"/>
       <key macro="date"/>

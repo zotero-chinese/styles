@@ -66,17 +66,6 @@
     <group delimiter=": ">
       <text variable="title"/>
       <group delimiter="&#8195;">
-        <!-- <choose>
-            <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
-              <text macro="volume"/>
-            </if>
-          </choose> -->
-        <!-- <choose>
-            <if type="patent" match="any">
-              <text macro="patent-country" suffix=", "/>
-              <text variable="number"/>
-            </if>
-          </choose> -->
         <choose>
           <if type="article article-journal patent" match="none">
             <!-- 预印本和期刊文章的编号用于其他位置 -->

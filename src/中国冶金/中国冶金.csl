@@ -28,7 +28,8 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
+      <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>
     </terms>
   </locale>
   <locale>
@@ -66,7 +67,8 @@
       <name initialize="false">
         <name-part name="family" text-case="uppercase"/>
       </name>
-      <et-al term="and others"/> <!-- 翻译中的等 -->
+      <!-- 翻译中的等 -->
+      <et-al term="and others"/>
       <institution/>
     </names>
   </macro>

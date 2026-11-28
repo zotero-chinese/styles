@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" page-range-format="expanded" demote-non-dropping-particle="sort-only">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" page-range-format="expanded" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
     <title>地球科学（英文版）</title>
     <title-short>JES</title-short>
@@ -18,7 +18,6 @@
     <updated>2026-07-02T21:15:05+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-
   <locale xml:lang="en">
     <terms>
       <term name="editor" form="short">
@@ -27,10 +26,9 @@
       </term>
       <term name="et-al">et al.</term>
       <term name="and">and</term>
-      <term name="page-range-delimiter">–</term>
+      <term name="page-range-delimiter">&#8211;</term>
     </terms>
   </locale>
-
   <macro name="author-bib">
     <names variable="author">
       <name name-as-sort-order="all" initialize-with=". "/>
@@ -46,7 +44,6 @@
       </substitute>
     </names>
   </macro>
-
   <macro name="author-short">
     <names variable="author">
       <name form="short" and="text" delimiter-precedes-last="never"/>
@@ -59,7 +56,6 @@
       </substitute>
     </names>
   </macro>
-
   <macro name="issued-year">
     <choose>
       <if variable="issued">
@@ -72,11 +68,9 @@
       </else>
     </choose>
   </macro>
-
   <macro name="title">
     <text variable="title" text-case="title"/>
   </macro>
-
   <macro name="editor-in">
     <group delimiter=", " suffix=", ">
       <names variable="editor">
@@ -85,14 +79,12 @@
       <text term="editor" form="short" plural="true"/>
     </group>
   </macro>
-
   <macro name="publisher-place">
     <group delimiter=", ">
       <text variable="publisher"/>
       <text variable="publisher-place"/>
     </group>
   </macro>
-
   <macro name="doi-or-url">
     <choose>
       <if variable="DOI">
@@ -103,11 +95,9 @@
       </else-if>
     </choose>
   </macro>
-
   <macro name="note">
     <text variable="note"/>
   </macro>
-
   <macro name="journal-volume-pages">
     <group>
       <text variable="volume"/>
@@ -115,7 +105,6 @@
       <text variable="page" prefix=": "/>
     </group>
   </macro>
-
   <macro name="article-journal">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -127,7 +116,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <macro name="book">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -146,7 +134,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <macro name="chapter-in">
     <group delimiter="">
       <text value="In: "/>
@@ -154,7 +141,6 @@
       <text variable="container-title" text-case="title"/>
     </group>
   </macro>
-
   <macro name="chapter">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -167,7 +153,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <macro name="chapter-periodical">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -180,7 +165,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <macro name="thesis">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -200,7 +184,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <macro name="webpage">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -211,7 +194,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <macro name="generic">
     <group>
       <text macro="author-bib" suffix=", "/>
@@ -223,7 +205,6 @@
       <text macro="note" prefix=" "/>
     </group>
   </macro>
-
   <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" collapse="year">
     <sort>
       <key macro="issued-year" sort="descending"/>
@@ -236,7 +217,6 @@
       </group>
     </layout>
   </citation>
-
   <bibliography et-al-min="4" et-al-use-first="3" entry-spacing="0" line-spacing="1" hanging-indent="false">
     <sort>
       <key macro="author-bib" sort="ascending"/>

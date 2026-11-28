@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". "
-  name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never"
-  initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
-  default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>济南大学</title>
     <title-short>UJN</title-short>
     <id>https://zotero-chinese.com/styles/济南大学</id>
-    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric"
-      rel="self"/>
-    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A"
-      rel="documentation"/>
+    <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="self"/>
+    <link href="http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <link href="https://yjs.ujn.edu.cn/info/1142/3846.htm" rel="documentation"/>
     <author>
       <name>李振鹏</name>
@@ -24,9 +19,9 @@
   </info>
   <locale xml:lang="zh-CN">
     <date form="text">
-      <date-part name="year" suffix="年" range-delimiter="—"/>
-      <date-part name="month" form="numeric" suffix="月" range-delimiter="—"/>
-      <date-part name="day" suffix="日" range-delimiter="—"/>
+      <date-part name="year" suffix="年" range-delimiter="&#8212;"/>
+      <date-part name="month" form="numeric" suffix="月" range-delimiter="&#8212;"/>
+      <date-part name="day" suffix="日" range-delimiter="&#8212;"/>
     </date>
     <terms>
       <term name="edition" form="short">版</term>
@@ -81,8 +76,7 @@
   </macro>
   <macro name="book-volume">
     <choose>
-      <if type="article article-journal article-magazine article-newspaper periodical"
-        match="none">
+      <if type="article article-journal article-magazine article-newspaper periodical" match="none">
         <choose>
           <if is-numeric="volume">
             <group delimiter=" ">
@@ -185,8 +179,7 @@
           <text variable="publisher"/>
         </group>
         <choose>
-          <if variable="publisher page" type="book chapter paper-conference thesis"
-            match="any">
+          <if variable="publisher page" type="book chapter paper-conference thesis" match="any">
             <text macro="issued-year"/>
           </if>
           <else-if variable="URL DOI" match="none">
@@ -260,8 +253,7 @@
                 <text variable="number"/>
               </group>
             </if>
-            <else-if type="bill legal_case legislation regulation report standard"
-              match="any">
+            <else-if type="bill legal_case legislation regulation report standard" match="any">
               <text variable="number"/>
             </else-if>
           </choose>
@@ -516,8 +508,7 @@
       <text macro="citation-layout"/>
     </layout>
   </citation>
-  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="margin" entry-spacing="0"
-    line-spacing="1" hanging-indent="false">
+  <bibliography et-al-min="4" et-al-use-first="3" second-field-align="margin" entry-spacing="0" line-spacing="1" hanging-indent="false">
     <!-- 请确保zotero里英文文献条目语言是en -->
     <layout locale="en">
       <text variable="citation-number" prefix="[" suffix="]"/>

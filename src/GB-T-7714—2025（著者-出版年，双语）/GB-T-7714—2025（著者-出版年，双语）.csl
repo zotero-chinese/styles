@@ -28,7 +28,8 @@
       <term name="no date" form="short">无日期</term>
       <term name="edition" form="short">版</term>
       <term name="version" form="short">v.</term>
-      <term name="volume" form="short">第%s卷</term> <!-- CSL-M 扩展-->
+      <!-- CSL-M 扩展-->
+      <term name="volume" form="short">第%s卷</term>
       <term name="open-quote">“</term>
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
@@ -43,7 +44,8 @@
     </date>
     <terms>
       <term name="and others">et al.</term>
-      <term name="citation-range-delimiter">-</term> <!-- CSL-M 扩展-->
+      <!-- CSL-M 扩展-->
+      <term name="citation-range-delimiter">-</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -462,7 +464,8 @@
     <group delimiter=". ">
       <text variable="URL"/>
       <choose>
-        <if variable="CSTR"> <!-- 扩展：CSTR -->
+        <!-- 扩展：CSTR -->
+        <if variable="CSTR">
           <text variable="CSTR" prefix="CSTR:"/>
         </if>
         <else>
@@ -505,7 +508,8 @@
         <else-if type="periodical">
           <!-- 8.4 连续出版物 -->
           <text macro="title"/>
-          <text variable="volume"/> <!-- 年卷期或其他标识，如“1957（1）-1990（4）” -->
+          <!-- 年卷期或其他标识，如“1957（1）-1990（4）” -->
+          <text variable="volume"/>
           <text macro="publisher"/>
         </else-if>
         <else-if type="paper-conference">
@@ -570,7 +574,8 @@
       <key macro="author-intext-en"/>
       <key macro="date-intext"/>
     </sort>
-    <layout prefix="（" suffix="）" delimiter="；" locale="en"> <!-- CSL-M 扩展 -->
+    <!-- CSL-M 扩展 -->
+    <layout prefix="（" suffix="）" delimiter="；" locale="en">
       <group delimiter="，">
         <text macro="author-intext-en"/>
         <text macro="date-intext"/>
@@ -588,7 +593,8 @@
       <key macro="author"/>
       <key macro="date-intext"/>
     </sort>
-    <layout locale="en"> <!-- CSL-M 扩展 -->
+    <!-- CSL-M 扩展 -->
+    <layout locale="en">
       <text macro="entry-layout" suffix="."/>
     </layout>
     <layout>

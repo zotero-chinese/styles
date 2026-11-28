@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="first" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="first" sort-separator=" " default-locale="en-US">
   <info>
     <title>经济管理</title>
     <id>https://zotero-chinese.com/styles/经济管理</id>
@@ -19,7 +19,7 @@
   <locale xml:lang="en">
     <terms>
       <term name="and others">等</term>
-      <term name="page-range-delimiter">–</term>
+      <term name="page-range-delimiter">&#8211;</term>
     </terms>
   </locale>
   <locale xml:lang="zh">
@@ -340,9 +340,6 @@
           <text variable="citation-number"/>
           <text value="]"/>
         </group>
-        <!-- <group vertical-align="sup">
-          <text  variable="citation-number" prefix="[" suffix="]"/>
-        </group> -->
       </group>
     </layout>
     <layout>

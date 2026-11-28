@@ -26,7 +26,6 @@
     <updated>2026-08-22T20:30:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-
   <locale xml:lang="zh">
     <terms>
       <term name="translator" form="short">译</term>
@@ -53,14 +52,12 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="－" range-delimiter="/"/>
     </date>
   </locale>
-
   <!-- 主要责任者：中文“，”分隔；超过 3 人前 3 人 + 等/et al（英文姓前名后，正常大小写，如 Smith N） -->
   <macro name="author">
     <names variable="author">
       <name delimiter="，" et-al-min="4" et-al-use-first="3" delimiter-precedes-et-al="always"/>
     </names>
   </macro>
-
   <!-- 题名（非期刊类可带“:卷号”）+ 文献类型标识/载体标识（如 ［M］、［J/OL］） -->
   <macro name="title">
     <group delimiter=":">
@@ -76,7 +73,6 @@
       <text macro="medium-id"/>
     </group>
   </macro>
-
   <!-- 文献类型标识（指南：图书 M、论文集 C、报纸 N、期刊 J、学位论文 D、报告 R、汇编 G、数据库 DB、电子公告 EB；析出文献以刊用载体为准） -->
   <macro name="type-id">
     <choose>
@@ -135,7 +131,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 文献载体标识：仅网络文献（网页/博客/数据集/预印本/报告/网络首发）有 URL 时输出 OL；印刷文献即使有 URL 也不输出 -->
   <macro name="medium-id">
     <choose>
@@ -151,7 +146,6 @@
       </else-if>
     </choose>
   </macro>
-
   <!-- 译者：张皓，张升，译（英文：，trans.） -->
   <macro name="translator">
     <names variable="translator">
@@ -159,7 +153,6 @@
       <label form="short" prefix="，"/>
     </names>
   </macro>
-
   <!-- 析出文献来源责任者 -->
   <macro name="container-contributors">
     <names variable="editor">
@@ -171,7 +164,6 @@
       </substitute>
     </names>
   </macro>
-
   <!-- 析出文献来源题名：原责任者．原文献题名（会议无论文集时用会议名） -->
   <macro name="container-booklike">
     <group delimiter="．">
@@ -186,7 +178,6 @@
       </choose>
     </group>
   </macro>
-
   <!-- 出版年：无出版年不输出占位；期刊网络首发无出版年时用 available-date 完整日期 -->
   <macro name="issued-year">
     <choose>
@@ -198,12 +189,10 @@
       </else-if>
     </choose>
   </macro>
-
   <!-- 完整出版日期（报纸、专利、电子文献更新日期；格式如 2024－05－01） -->
   <macro name="issued-date">
     <date variable="issued" form="numeric"/>
   </macro>
-
   <!-- 引用日期：仅网络文献有 URL 时输出，如 [2024－05－01] -->
   <macro name="accessed-date">
     <choose>
@@ -223,7 +212,6 @@
       </else-if>
     </choose>
   </macro>
-
   <!-- 获取和访问路径：仅网络文献有 URL 时输出 -->
   <macro name="access">
     <choose>
@@ -235,7 +223,6 @@
       </else-if>
     </choose>
   </macro>
-
   <!-- 连续出版物出处：期刊 刊名，年(期):页码（已刊样文无卷号）；报纸 报名，日期(版次) -->
   <macro name="container-periodical">
     <choose>
@@ -269,12 +256,10 @@
     </choose>
     <text macro="accessed-date"/>
   </macro>
-
   <!-- 版本项：按录入原样输出（如“第2版”） -->
   <macro name="edition">
     <text variable="edition"/>
   </macro>
-
   <!-- 出版项（印刷文献）：出版地:出版者，出版年:页码 -->
   <macro name="publisher">
     <group delimiter="，">
@@ -288,7 +273,6 @@
       </group>
     </group>
   </macro>
-
   <!-- 电子文献出版项：出版地:出版者，出版年(更新或修改日期)[引用日期] -->
   <macro name="online-date">
     <group delimiter="">
@@ -319,7 +303,6 @@
       </else>
     </choose>
   </macro>
-
   <!-- 参考文献条目：全角标点、零空格；析出文献“题名［M］//原责任者．原文献题名，出版项” -->
   <macro name="entry-layout">
     <group delimiter="．">
@@ -368,7 +351,6 @@
       <text macro="access"/>
     </group>
   </macro>
-
   <!-- 引注：正文上标 ［n］，可附页码（同一文献多次引用时页码标于序号后、文后不注） -->
   <citation collapse="citation-number" after-collapse-delimiter="，">
     <sort>
@@ -381,7 +363,6 @@
       </group>
     </layout>
   </citation>
-
   <bibliography entry-spacing="0" et-al-min="4" et-al-use-first="3" second-field-align="flush">
     <layout locale="zh-CN">
       <text variable="citation-number" prefix="［" suffix="］"/>

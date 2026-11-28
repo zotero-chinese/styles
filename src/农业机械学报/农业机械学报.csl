@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="en-US">
   <info>
     <title>农业机械学报</title>
     <id>https://zotero-chinese.com/styles/农业机械学报</id>
@@ -23,7 +23,8 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
+      <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>
@@ -293,9 +294,6 @@
       <else-if type="book" match="none">
         <text macro="accessed-date"/>
       </else-if>
-      <!-- <else>
-        <text macro="accessed-date"/>
-      </else> -->
     </choose>
   </macro>
   <!-- 翻译的英文 -->

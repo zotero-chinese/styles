@@ -24,7 +24,7 @@
   <locale xml:lang="en">
     <terms>
       <!-- 英文页码的连接号使用 en dash -->
-      <term name="page-range-delimiter">–</term>
+      <term name="page-range-delimiter">&#8211;</term>
       <term name="translator" form="short">trans.</term>
     </terms>
   </locale>
@@ -51,7 +51,6 @@
       <date-part name="month" form="numeric" suffix="-"/>
       <date-part name="day"/>
     </date>
-
   </locale>
   <macro name="author-en">
     <names variable="author" delimiter=", ">

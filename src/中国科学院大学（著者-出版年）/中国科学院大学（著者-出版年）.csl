@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0"
-  name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never"
-  initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
-  default-locale="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>中国科学院大学（著者-出版年）</title>
     <id>https://zotero-chinese.com/styles/中国科学院大学（著者-出版年）</id>
     <link href="https://zotero-chinese.com/styles/中国科学院大学（著者-出版年）" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，半角符号，姓名不大写，无URL，无DOI）"
-      rel="template"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，半角符号，姓名不大写，无URL，无DOI）" rel="template"/>
     <link href="http://www.amss.ac.cn/yjsjy/xwxx/202207/t20220719_6482878.html" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -106,8 +102,7 @@
       <text variable="title"/>
       <group delimiter="&#8195;">
         <choose>
-          <if variable="container-title"
-            type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+          <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
             <text macro="volume"/>
             <text variable="volume-title"/>
           </if>
@@ -162,9 +157,7 @@
       <else-if type="article-newspaper">
         <text value="N"/>
       </else-if>
-      <else-if
-        type="bill collection hearing legal_case legislation personal_communication regulation treaty"
-        match="any">
+      <else-if type="bill collection hearing legal_case legislation personal_communication regulation treaty" match="any">
         <!-- 档案，A：分类保存以备查考的文件和材料，如人事档案、科技档案、法律法规、政府文件等。 -->
         <text value="A"/>
       </else-if>
@@ -319,8 +312,7 @@
         <!-- 专利的出版项格式“公告日期[引用日期]” -->
         <text macro="issued-date"/>
       </if>
-      <else-if type="book chapter paper-conference periodical thesis"
-        variable="archive archive-place publisher publisher-place page" match="any">
+      <else-if type="book chapter paper-conference periodical thesis" variable="archive archive-place publisher publisher-place page" match="any">
         <!-- 非纯电子资源的格式“出版地: 出版者, 出版年: 页码[引用日期]” -->
         <group delimiter=": ">
           <group delimiter=", ">
@@ -438,8 +430,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
-          variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <group delimiter="//">
             <group delimiter=". ">
@@ -462,12 +453,10 @@
       <text macro="access"/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="false"
-    disambiguate-add-year-suffix="true">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="false" disambiguate-add-year-suffix="true">
     <sort>
       <key macro="issued-year"/>
       <key macro="author-intext-en"/>
-
     </sort>
     <layout prefix="（" suffix="）" delimiter="; " locale="en">
       <group delimiter=", ">

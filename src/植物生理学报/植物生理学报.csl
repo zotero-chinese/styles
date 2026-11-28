@@ -45,7 +45,7 @@
     </date>
     <terms>
       <term name="edition" form="short">edn.</term>
-      <term name="page-range-delimiter">–</term>
+      <term name="page-range-delimiter">&#8211;</term>
       <term name="page" form="short">
         <single>p.</single>
         <multiple>pp.</multiple>

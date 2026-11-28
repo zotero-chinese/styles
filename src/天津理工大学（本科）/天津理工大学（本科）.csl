@@ -33,12 +33,13 @@
       <date-part name="day" form="numeric-leading-zeros" prefix="-" range-delimiter="/"/>
     </date>
     <terms>
-      <term name="citation-range-delimiter">～</term> <!-- CSL-M 扩展-->
+      <!-- CSL-M 扩展-->
+      <term name="citation-range-delimiter">～</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->
-   <macro name="author-en">
+  <macro name="author-en">
     <names variable="author">
       <name and="symbol"/>
       <substitute>
@@ -69,7 +70,7 @@
     </names>
   </macro>
   <!-- 题名 -->
-   <macro name="title-en">
+  <macro name="title-en">
     <group delimiter=": ">
       <choose>
         <if type="book classic" match="any">
@@ -243,28 +244,27 @@
     <group delimiter=". ">
       <text macro="container-contributors"/>
       <group>
-
-      <choose>
-        <if variable="container-title">
+        <choose>
+          <if variable="container-title">
             <!-- 优先使用专著或会议论文集的题名 -->
-          <group delimiter=": ">
-            <text variable="container-title"/>
-            <text macro="volume"/>
-          </group>
-        </if>
-        <else-if type="paper-conference">
+            <group delimiter=": ">
+              <text variable="container-title"/>
+              <text macro="volume"/>
+            </group>
+          </if>
+          <else-if type="paper-conference">
             <!-- 有些会议没有论文集，使用会议名代替 -->
-          <text variable="event-title"/>
-        </else-if>
-      </choose>
-          <choose>
-            <if type="paper-conference">
-              <text value="[C]"/>
-            </if>
-            <else>
-              <text value="[M]"/>
-            </else>
-          </choose>
+            <text variable="event-title"/>
+          </else-if>
+        </choose>
+        <choose>
+          <if type="paper-conference">
+            <text value="[C]"/>
+          </if>
+          <else>
+            <text value="[M]"/>
+          </else>
+        </choose>
       </group>
     </group>
   </macro>
@@ -427,7 +427,7 @@
     </choose>
   </macro>
   <!-- 参考文献表格式 -->
-   <macro name="entry-layout-en">
+  <macro name="entry-layout-en">
     <group delimiter=". ">
       <text macro="author-en"/>
       <choose>
@@ -454,9 +454,9 @@
         </else-if>
         <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
-            <text macro="title-en"/>
-            <text macro="secondary-contributors"/>
-            <text macro="container-booklike"/>
+          <text macro="title-en"/>
+          <text macro="secondary-contributors"/>
+          <text macro="container-booklike"/>
           <text macro="edition"/>
           <text macro="publisher"/>
         </else-if>

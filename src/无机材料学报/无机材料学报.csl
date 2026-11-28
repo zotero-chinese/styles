@@ -41,7 +41,7 @@
     </date>
     <terms>
       <term name="citation-range-delimiter">-</term>
-      <term name="page-range-delimiter">–</term>
+      <term name="page-range-delimiter">&#8211;</term>
     </terms>
   </locale>
   <!-- 主要责任者 -->

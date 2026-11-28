@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale-sort="zh-CN" default-locale="en-US">
   <info>
     <title>合肥工业大学</title>
     <id>https://zotero-chinese.com/styles/合肥工业大学</id>
@@ -357,7 +357,8 @@
           <group>
             <group delimiter=", ">
               <text variable="container-title"/>
-              <text macro="issued-year"/>  <!-- 0320 -->
+              <!-- 0320 -->
+              <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="(" suffix=")"/>
@@ -390,7 +391,8 @@
           <group>
             <group delimiter="，">
               <text variable="container-title"/>
-              <text macro="issued-year"/>  <!-- 0320 -->
+              <!-- 0320 -->
+              <text macro="issued-year"/>
               <text variable="volume"/>
             </group>
             <text variable="issue" prefix="（" suffix="）"/>

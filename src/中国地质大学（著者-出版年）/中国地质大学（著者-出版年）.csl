@@ -188,7 +188,7 @@
   <macro name="issued-date">
     <choose>
       <if variable="issued">
-        <date variable="issued" delimiter="–">
+        <date variable="issued" delimiter="&#8211;">
           <date-part name="year"/>
           <date-part name="month" form="numeric-leading-zeros"/>
           <date-part name="day" form="numeric-leading-zeros"/>

@@ -389,13 +389,7 @@
       <if type="patent">
         <!-- 专利的出版项” -->
         <group delimiter=". ">
-          <group delimiter=", ">
-            <!-- <group delimiter=" ">
-              <text macro="patent-country-en"/>
-              <text term="patent"/>
-            </group>
-            <text variable="number"/>-->
-          </group>
+          <group delimiter=", "/>
           <date variable="issued" form="numeric"/>
         </group>
       </if>
@@ -418,13 +412,6 @@
       <if type="patent">
         <!-- 专利的出版项” -->
         <group delimiter="．">
-          <!-- <group delimiter="，">
-            <group>
-              <text macro="patent-country-zh"/>
-              <text term="patent"/>
-            </group>
-            <text variable="number"/>
-          </group> -->
           <date variable="issued" form="numeric"/>
         </group>
       </if>

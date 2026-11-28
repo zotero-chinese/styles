@@ -25,7 +25,8 @@
       <date-part name="year"/>
     </date>
     <terms>
-      <term name="page-range-delimiter">-</term> <!-- 英文页码的连接号使用 hyphen -->
+      <!-- 英文页码的连接号使用 hyphen -->
+      <term name="page-range-delimiter">-</term>
       <term name="editor" form="short">
         <single>ed.</single>
         <multiple>eds.</multiple>
@@ -48,7 +49,8 @@
       <term name="page" form="short"/>
       <term name="no date">出版时间不详</term>
       <term name="anonymous">佚名</term>
-      <term name="page-range-delimiter">&#8212;</term> <!-- 中文页码的连接号使用一字线（em dash） -->
+      <!-- 中文页码的连接号使用一字线（em dash） -->
+      <term name="page-range-delimiter">&#8212;</term>
     </terms>
   </locale>
   <!-- 中文作者设定 -->

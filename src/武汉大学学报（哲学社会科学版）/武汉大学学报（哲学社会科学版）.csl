@@ -106,7 +106,6 @@
       <text variable="volume"/>
     </group>
   </macro>
-
   <macro name="issued-year">
     <date variable="issued" form="numeric" date-parts="year"/>
   </macro>

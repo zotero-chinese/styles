@@ -31,7 +31,8 @@
       <term name="close-quote">”</term>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="and others">et al</term>  <!-- 翻译中的"等" -->
+      <!-- 翻译中的"等" -->
+      <term name="and others">et al</term>
     </terms>
   </locale>
   <locale>
@@ -218,9 +219,6 @@
       <if variable="medium">
         <text variable="medium"/>
       </if>
-      <!-- <else-if variable="URL DOI" match="any">
-        <text value="OL"/>
-      </else-if> -->
     </choose>
   </macro>
   <!-- 其他责任者 -->
@@ -501,9 +499,6 @@
               </choose>
             </group>
           </else-if>
-          <!-- <else-if type="patent">
-            <text macro="issued-date" prefix=". "/>
-          </else-if> -->
           <else>
             <text macro="publisher-translation" prefix=". "/>
             <choose>
@@ -516,11 +511,6 @@
             </choose>
           </else>
         </choose>
-        <!-- <choose>
-          <if type="thesis" match="none">
-            <text macro="accessed-date"/>
-          </if>
-        </choose> -->
         <text value="" prefix=". "/>
       </if>
     </choose>

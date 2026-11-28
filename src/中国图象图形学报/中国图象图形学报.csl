@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0"
-  name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never"
-  initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
-  default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
   <info>
     <title>中国图象图形学报</title>
     <id>https://zotero-chinese.com/styles/中国图象图形学报</id>
     <link href="https://zotero-chinese.com/styles/中国图象图形学报" rel="self"/>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，半角符号，姓名不大写，无URL，无DOI）"
-      rel="template"/>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（著者-出版年，双语，半角符号，姓名不大写，无URL，无DOI）" rel="template"/>
     <link href="https://cjig.cn/zh/info/13448/" rel="documentation"/>
     <author>
       <name>韩小土</name>
@@ -142,8 +138,7 @@
       <text variable="title"/>
       <group delimiter="&#8195;">
         <choose>
-          <if variable="container-title"
-            type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
+          <if variable="container-title" type="chapter entry-dictionary entry-encyclopedia paper-conference" match="none">
             <text macro="volume"/>
             <text variable="volume-title"/>
           </if>
@@ -458,8 +453,7 @@
             <text macro="title"/>
             <text macro="publisher"/>
           </else-if>
-          <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
-            variable="container-title" match="any">
+          <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
             <!-- 4.2 专著中的析出文献 -->
             <!-- 4.2.1 会议论文 -->
             <choose>
@@ -517,8 +511,7 @@
           <text macro="title-ZHtoEN"/>
           <text macro="publisher-ZHtoEN"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
-          variable="original-container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="original-container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title-ZHtoEN"/>
           <text macro="container-booklike-ZHtoEN"/>
@@ -558,8 +551,7 @@
           <text macro="title"/>
           <text macro="publisher"/>
         </else-if>
-        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference"
-          variable="container-title" match="any">
+        <else-if type="chapter entry-dictionary entry-encyclopedia paper-conference" variable="container-title" match="any">
           <!-- 4.2 专著中的析出文献 -->
           <text macro="title"/>
           <text macro="secondary-contributors"/>
@@ -577,8 +569,7 @@
       </choose>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true"
-    disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter="，">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" collapse="year" cite-group-delimiter="，">
     <sort>
       <key macro="author-intext-en"/>
       <key macro="issued-year"/>

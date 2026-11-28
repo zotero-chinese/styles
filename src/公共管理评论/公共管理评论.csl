@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize="true" initialize-with=" " page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN" demote-non-dropping-particle="never">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize="true" initialize-with=" " page-range-format="expanded" default-locale-sort="zh-CN" demote-non-dropping-particle="never" default-locale="en-US">
   <info>
     <title>公共管理评论</title>
     <id>https://zotero-chinese.com/styles/公共管理评论</id>
@@ -29,8 +29,8 @@
     <terms>
       <!-- 模板正文示例: 郑永光等（2016）—— 正文引注"等"前不加逗号；
            文后 3 位作者截断时由 names 分隔符提供逗号，得到"周云新, 等" -->
-      <term name="et-al">&#x7B49;</term>
-      <term name="and">&#x548C;</term>
+      <term name="et-al">等</term>
+      <term name="and">和</term>
       <term name="page-range-delimiter">-</term>
     </terms>
   </locale>
@@ -185,7 +185,7 @@
   </macro>
   <!-- ====== Translator (zh: 陈生铮, 译) ====== -->
   <macro name="translator-zh">
-    <names variable="translator" delimiter=", " suffix=", &#x8BD1;"/>
+    <names variable="translator" delimiter=", " suffix=", 译"/>
   </macro>
   <!-- ====== Translator (en: Chen S Z, trans.) ====== -->
   <macro name="translator-en">
@@ -244,7 +244,7 @@
       <text macro="translator-zh"/>
       <group>
         <text macro="edition"/>
-        <text value="&#x7248;"/>
+        <text value="版"/>
       </group>
     </group>
     <text macro="publisher" prefix=". "/>

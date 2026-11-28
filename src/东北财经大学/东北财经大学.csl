@@ -131,10 +131,6 @@
         </choose>
       </group>
     </group>
-    <!-- <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
-    </group> -->
   </macro>
   <!-- 题名 -->
   <macro name="title-zh">

@@ -439,16 +439,6 @@
       <key macro="author-intext"/>
       <key macro="issued-year"/>
     </sort>
-    <!-- <layout locale="en" prefix="（" suffix="）" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
-        <text macro="issued-year"/>
-        <group>
-          <label variable="locator" form="short"/>
-          <text variable="locator"/>
-        </group>
-      </group>
-    </layout> -->
     <layout delimiter="; " prefix="（" suffix="）">
       <group delimiter=", ">
         <text macro="author-intext-zh"/>

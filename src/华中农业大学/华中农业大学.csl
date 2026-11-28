@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with="" name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" initialize-with="" name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" " default-locale="zh-CN">
   <info>
     <title>华中农业大学</title>
     <title-short>HZAU</title-short>
@@ -87,10 +87,6 @@
   <macro name="title">
     <text variable="title"/>
     <!-- <text variable="number" prefix=": "/> -->
-    <!-- <group delimiter="/" prefix="[" suffix="]">
-      <text macro="type-id"/>
-      <text macro="medium-id"/>
-    </group> -->
   </macro>
   <macro name="container-contributors">
     <names variable="container-author">
