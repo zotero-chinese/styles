@@ -6,7 +6,6 @@
     <link href="https://zotero-chinese.com/styles/东北大学学报（自然科学版）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，半角符号，姓名不大写，无URL，无DOI）" rel="template"/>
     <link href="https://natural.neu.edu.cn/homeNav" rel="documentation"/>
-    <link href="https://natural.neu.edu.cn/homeNav" rel="documentation"/>
     <author>
       <name>韩小土</name>
       <email>redleafnew@163.com</email>
@@ -64,9 +63,7 @@
   </macro>
   <macro name="author-ZHtoEN">
     <names variable="original-author">
-      <name initialize="false">
-        <name-part name="family" text-case=""/>
-      </name>
+      <name initialize="false"/>
       <et-al term="and others"/>
       <institution/>
     </names>

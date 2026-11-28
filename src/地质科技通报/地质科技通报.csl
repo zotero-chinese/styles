@@ -64,9 +64,7 @@
   </macro>
   <macro name="author-ZHtoEN">
     <names variable="original-author">
-      <name initialize="false">
-        <name-part name="family" text-case=""/>
-      </name>
+      <name initialize="false"/>
       <et-al term="and others"/>
       <institution/>
     </names>

@@ -70,9 +70,7 @@
   </macro>
   <macro name="author-bib-en">
     <names variable="author">
-      <name/>
       <name and="text"/>
-      <!-- <name/> -->
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
