@@ -19,8 +19,7 @@ declare interface StyleInfo {
     email?: string;
   }[];
   citation_format?: string;
-  /** 学科分类。CSL 允许一个样式属于多个学科，故为数组 */
-  field?: string[];
+  field: string[];
   summary?: string;
   updated?: string;
 }
