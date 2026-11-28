@@ -463,7 +463,7 @@
         <else-if type="periodical">
           <!-- 8.4 连续出版物 -->
           <text macro="title"/>
-          <!-- 年卷期或其他标识，如“1957（1）&#8212;1990（4）” -->
+          <!-- 年卷期或其他标识，如“1957（1）-1990（4）” -->
           <text variable="volume"/>
           <text macro="publisher"/>
         </else-if>

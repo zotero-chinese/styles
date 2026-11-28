@@ -453,7 +453,7 @@
         <else-if type="periodical">
           <!-- 8.4 连续出版物 -->
           <text macro="title"/>
-          <text variable="volume"/> <!-- 年卷期或其他标识，如“1957（1）—1990（4）” -->
+          <text variable="volume"/> <!-- 年卷期或其他标识，如“1957（1）-1990（4）” -->
           <text macro="publisher"/>
         </else-if>
         <else-if type="paper-conference">
