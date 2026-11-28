@@ -27,6 +27,7 @@ jobs:
           cache: pnpm
       - run: pnpm install
 
+      - run: pnpm format:csl
       - run: pnpm build
       # - run: pnpm format
 

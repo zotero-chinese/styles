@@ -5,7 +5,7 @@ dist/*
 node_modules
 pnpm-lock.yaml
 
-# CSL 文件由 redhat.vscode-xml 插件格式化
+# CSL 文件由 csl-formatter 格式化（pnpm format:csl）
 src/**/*.csl
 
 # 子模块

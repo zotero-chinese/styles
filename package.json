@@ -10,7 +10,8 @@
     "dev:open": "vitepress dev --open",
     "build": "tsx ./lib/index.ts all",
     "preview": "tsx ./lib/index.ts",
-    "format": "prettier . --write"
+    "format": "prettier . --write",
+    "format:csl": "tsx ./lib/format.ts"
   },
   "author": "zotero-chinese",
   "license": "CC-BY-SA-3.0",
@@ -29,6 +30,7 @@
     "concurrently": "7.4.0",
     "consola": "^3.4.2",
     "cross-env": "7.0.3",
+    "csl-formatter": "github:citation-style-language/formatter",
     "fast-glob": "^3.3.3",
     "fs-extra": "^11.3.2",
     "ora": "^8.2.0",

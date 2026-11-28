@@ -14,4 +14,4 @@ jobs:
     uses: zotero-plugin-dev/workflows/.github/workflows/autofix.yml@main
     with:
       fetch-all: true
-      command: pnpm build
+      command: pnpm format:csl && pnpm build
